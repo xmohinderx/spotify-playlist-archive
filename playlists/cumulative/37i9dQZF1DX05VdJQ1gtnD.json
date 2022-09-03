@@ -3068,6 +3068,24 @@
     },
     {
       "album": {
+        "name": "With Eyes Closed",
+        "url": "https://open.spotify.com/album/5XlfbF5Ln48pZAaw7IPpxq"
+      },
+      "artists": [
+        {
+          "name": "Lance Allen",
+          "url": "https://open.spotify.com/artist/5KFXAufcOTSKibMfLnmyYC"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199729,
+      "name": "With Eyes Closed",
+      "url": "https://open.spotify.com/track/1iTlxUv96DWOGIbHCoL8Dr"
+    },
+    {
+      "album": {
         "name": "Within You, Within Me",
         "url": "https://open.spotify.com/album/5oKe4TVgb8IRk347ZVxQmS"
       },

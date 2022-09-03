@@ -4,7 +4,7 @@
 
 > Music to reduce insomnia and help you relax.
 
-279 songs - 13 hr 52 min - [published](https://open.spotify.com/playlist/1lBmyE41azvWjLpkavRKq1)
+284 songs - 14 hr 8 min - [published](https://open.spotify.com/playlist/1lBmyE41azvWjLpkavRKq1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Catnap](https://open.spotify.com/track/5Ni1Fb5zLruSbDwAoKdoPF) | [Mina Donovan](https://open.spotify.com/artist/5tGJFD9qXBdOKrOlhIXOBk) | [Catnap](https://open.spotify.com/album/4NTRDYA9fWjwHH2Wc2Jxxr) | 2:42 | 2021-11-10 | 2022-02-03 |
 | [Centered](https://open.spotify.com/track/2tSUPdYj7CcdiQHrHgqmjZ) | [EON NOIRE](https://open.spotify.com/artist/6przkhYGYq12sivsheKQ6I) | [Centered](https://open.spotify.com/album/6EUZkB98CMFqyKQ1KsdJ8s) | 3:03 | 2021-11-10 |  |
 | [Cesia](https://open.spotify.com/track/3NYD79ZpaiUlaqBpfE4UvT) | [Ani](https://open.spotify.com/artist/3W5apiMDqy6v6ai4tP3SkX) | [Release](https://open.spotify.com/album/05Ssi4vkaQkd16QQ4ngW7Y) | 2:48 | 2021-11-10 |  |
+| [Cette Montagne](https://open.spotify.com/track/0sMr78LRMvZNviXwmOWGQE) | [Tascenda](https://open.spotify.com/artist/5Xj1fqlAVsgyiKy5K4hy1d) | [Cette Montagne](https://open.spotify.com/album/4NIeCDqaUXOh2WD7jE0qNf) | 3:26 | 2022-09-02 |  |
 | [Choices](https://open.spotify.com/track/4rnHitehqGrHlgr8TiTMYX) | [Alva Adler](https://open.spotify.com/artist/6SWtPjGME9m6Slzy5KmEWl) | [Choices](https://open.spotify.com/album/1ypEOpmaYFV46bpgf4HiuR) | 2:41 | 2022-02-02 |  |
 | [Ciclo Solar](https://open.spotify.com/track/5igYXEgB6IPo7LNtQ71ZMT) | [Universo](https://open.spotify.com/artist/1Ww4X8PlwRBiocjYoAoQ4N) | [Planetas](https://open.spotify.com/album/51pSIpoYAmWbiUArilRnSg) | 3:13 | 2021-11-10 |  |
 | [Cielo Notturno](https://open.spotify.com/track/5rE6VrSoUWVbN8zeqgCG8u) | [Callisto Mazzi](https://open.spotify.com/artist/0m0GtPOIUqS9mroE1ErOBn) | [Cielo Notturno](https://open.spotify.com/album/6QSEzNGp3z498l0xYouILT) | 3:08 | 2021-11-10 |  |
@@ -155,6 +156,7 @@
 | [Ljusa Drömmar](https://open.spotify.com/track/5HkG3ZdLOVZQI4rpUdGZCa) | [Eleonora Feldt](https://open.spotify.com/artist/3N5bWM0Opalb3v1tWy6NJn) | [Ljusa Drömmar](https://open.spotify.com/album/2384yojNT2lobdTrGBbzuA) | 2:38 | 2021-11-10 |  |
 | [Lost For Words](https://open.spotify.com/track/4sfOO8SiLK78BqfpDYMdGX) | [Nadine Gaertner](https://open.spotify.com/artist/20pShYixHbYfabMneFBBAW) | [Lost For Words](https://open.spotify.com/album/16KoakttQ46usBrczdma3Z) | 3:07 | 2021-11-10 |  |
 | [Lull](https://open.spotify.com/track/2HBNfSLfBwKWiaSL5bg5jF) | [Sleepless Eye](https://open.spotify.com/artist/0q1jgFxjleKLegFYRiyPxS) | [Lull](https://open.spotify.com/album/7AszZgmEpOii7z6oSTqgac) | 2:59 | 2022-06-24 |  |
+| [Längtan](https://open.spotify.com/track/5dU3ZoeCCMmRziuCCr4ErZ) | [Amsaga](https://open.spotify.com/artist/2Z4elDEV9RqWpqQT9yxE7o) | [Längtan](https://open.spotify.com/album/1Ct1me1fiNQ2c37OyvTnku) | 3:55 | 2022-09-02 |  |
 | [Make It Last](https://open.spotify.com/track/3BXxpljx5qawevsOU6UzHY) | [Samira Tesfay](https://open.spotify.com/artist/353EbCGpBHIyVTPMgttcSy) | [Make It Last](https://open.spotify.com/album/0vQymbxDgCdBXGuwVtUsH2) | 2:54 | 2021-11-10 | 2022-08-16 |
 | [Mellow Mountain](https://open.spotify.com/track/0GRKy1mrOocvoIEkVbtkSI) | [Mellow Mountain](https://open.spotify.com/artist/4nhyKupGKrTJj8f8whWa8L) | [Mellow Mountain](https://open.spotify.com/album/02JiI8N8HBuoTWwR624r7v) | 3:17 | 2021-11-10 |  |
 | [Merikarp](https://open.spotify.com/track/1SucXU3xTOCyBAAqE22E8B) | [Fabien Tamm](https://open.spotify.com/artist/2V39QR1IlcAPJjdsrdz2pM) | [Merikarp](https://open.spotify.com/album/5hY826Klpc0SSULaKdylI1) | 2:34 | 2022-08-05 |  |
@@ -170,6 +172,7 @@
 | [Moments of Stillness](https://open.spotify.com/track/6m9JbPIC8saBo8pVm08x0j) | [Hector Warrens](https://open.spotify.com/artist/18djQbUQxMlklEPDlDif6B) | [Moments Of Stillness](https://open.spotify.com/album/4nikff5wMmknaIkoqtzQrz) | 3:02 | 2021-11-10 |  |
 | [Moonlight Memoirs](https://open.spotify.com/track/2EhfraVVA81HCPZDYxfOVz) | [Lucas Leigh](https://open.spotify.com/artist/4sT7i66bRioiiRvZNj3Dgg) | [Moonlight Memoirs](https://open.spotify.com/album/2LqfrsV6GpGVeLP5CsnsH3) | 2:29 | 2021-11-10 |  |
 | [Moves Like Waves](https://open.spotify.com/track/4wtTfmaWIdWLUNlE05UrZH) | [Sadia Leys](https://open.spotify.com/artist/12oCsQ3twydLkl0RigltLK) | [Moves Like Waves](https://open.spotify.com/album/7HJZbRYfPgzbmzDa38oiWp) | 3:41 | 2022-06-16 |  |
+| [Muna](https://open.spotify.com/track/1thTEQDLz5G6hr2Cp3pA4g) | [Arnkatla](https://open.spotify.com/artist/66neAkEGsYZ4onMSMHMSbC) | [Muna](https://open.spotify.com/album/3okHfzFp1PVS3A57JF4D3S) | 3:08 | 2022-09-02 |  |
 | [Mångata](https://open.spotify.com/track/1dpvthn5aYPgBmk7LiKOsl) | [Ardah](https://open.spotify.com/artist/6mQg8hTrGBvS36Jjl7Ajr2) | [Mångata](https://open.spotify.com/album/1qzSfgjTCYGysekMKLqxdi) | 2:57 | 2022-03-08 |  |
 | [Nattljus](https://open.spotify.com/track/5pGG0eGQcA71HLo4jKQY90) | [Månvarv](https://open.spotify.com/artist/3npr0emNGSWh2iyRvzEiRI) | [Nattljus](https://open.spotify.com/album/7FBCdcXA2coK0EcsDSBN9B) | 3:19 | 2021-11-10 |  |
 | [Neblinoso](https://open.spotify.com/track/6uZF7xC32ewhpsm36IaM5T) | [Cameron Sinosa](https://open.spotify.com/artist/68NVLorVbyDWrMwmGpwyGP) | [Neblinoso](https://open.spotify.com/album/0G3hLYFllRHfZHgFUj2MFS) | 3:54 | 2021-11-10 |  |
@@ -206,6 +209,7 @@
 | [Rayos de luz](https://open.spotify.com/track/7xYWPFjmb1He7vmhGlO4iX) | [João Marta](https://open.spotify.com/artist/64SRAlT6z9a7J2iVrat1si) | [Rayos de luz](https://open.spotify.com/album/56oCwt4NIYgW7AxYs83iap) | 3:24 | 2021-11-10 |  |
 | [Rearview Mirror](https://open.spotify.com/track/2UXQhAcmJXiDShegqfyBa7) | [Angelo Garnier](https://open.spotify.com/artist/7qvvsAZAERVhX0qJ1kq6In) | [Rearview Mirror](https://open.spotify.com/album/5KWS43uNk7GOGbiIYXZNlr) | 3:14 | 2021-11-10 |  |
 | [Release U](https://open.spotify.com/track/23RCTNUpMvJoBpnWUizG3y) | [Jamie Soner](https://open.spotify.com/artist/1bdlQnsdKWva2CelmDntCB) | [Release U](https://open.spotify.com/album/4TdzdTQDRB9NQs3OYgDPaq) | 3:14 | 2021-11-10 |  |
+| [Resolutions](https://open.spotify.com/track/4ovVCv4X9VZfT79f79c0XN) | [Bevan Holcomb](https://open.spotify.com/artist/4c2v7qErEBJfzjDs2UXStG) | [Resolutions](https://open.spotify.com/album/4aHmDEtV3YWFakmdD2LMow) | 3:08 | 2022-09-02 |  |
 | [Resting Peace](https://open.spotify.com/track/0BWqXtl5RSRWEDfoL2HdV9) | [Geonose](https://open.spotify.com/artist/4HMimTAIfAny7O6iToeY3J) | [Ambioso](https://open.spotify.com/album/6WrK1ZkwCjDKfY8LrAbpt8) | 3:29 | 2021-11-10 |  |
 | [Reticence](https://open.spotify.com/track/1VLKeNy3qUe8MNvejjTtoy) | [Fiona Kolev](https://open.spotify.com/artist/5gIsewE9wwowXLnCYMpzO4) | [Reticence](https://open.spotify.com/album/3r2Bjqzlzo9eGjzcFjT4Ox) | 2:33 | 2021-11-10 |  |
 | [Retrieved Moments](https://open.spotify.com/track/0VD4MkKGJcWdDsIOZSUyO0) | [Spring Euphemia](https://open.spotify.com/artist/2LTLJd4VIsqMpaoh9dn1ik) | [Retrieved Moments](https://open.spotify.com/album/0rtav09pOyz3h5xNWo3EAW) | 3:04 | 2022-06-16 |  |
@@ -220,6 +224,7 @@
 | [Simien](https://open.spotify.com/track/3tf0epgGh6Zbh2skKajYjw) | [Petros Idris](https://open.spotify.com/artist/2KPSqFXX8R2WJ72KyFFEdc) | [Simien](https://open.spotify.com/album/0vS0WdECffLMWHgYQEacuP) | 3:30 | 2021-11-10 |  |
 | [Simplistica](https://open.spotify.com/track/6ZOmpmAGA1nM53YEvq8eLk) | [Celyn Awstin](https://open.spotify.com/artist/49ZdvwQyfD07dsEPH4LhTk) | [Simplistica](https://open.spotify.com/album/15GH2ZI0qwAeMTQdYI5VXx) | 2:07 | 2022-07-15 |  |
 | [Sineway](https://open.spotify.com/track/5BuUke8soY1IIEeJK4eNkk) | [Boreal Embla](https://open.spotify.com/artist/1TIIwr7wiRuFavs4zUlYQU) | [Sineway](https://open.spotify.com/album/3pm1lsNsbrEeOAJqts6hOO) | 2:21 | 2021-11-10 |  |
+| [Sleeping Beauty](https://open.spotify.com/track/0e8cWeGGK506BTR56KOopd) | [Lahasara](https://open.spotify.com/artist/2e0jbFLa4g3PR9lpXv9kAB) | [Sleeping Beauty](https://open.spotify.com/album/6dARYqQCoczKIcZanMcfLD) | 3:03 | 2022-09-02 |  |
 | [Slow Down the Night](https://open.spotify.com/track/70EFtngIf7REQH2ZfkiVLB) | [Maximilian Sievert](https://open.spotify.com/artist/1KLfI1v6hjVZ1UCyrLJrC8) | [Slow Down The Night](https://open.spotify.com/album/5nE8ZiMK0GJHk6FmX17hDU) | 3:40 | 2021-11-10 |  |
 | [Slowly Flying](https://open.spotify.com/track/13SRYtw5x5Z4OpFUYY4C1k) | [BlunD](https://open.spotify.com/artist/4Dc1j8HIqC0y6uSG8Gnk1T) | [Simple Soul](https://open.spotify.com/album/2RDfxKIgM9olAczjQK5Yku) | 3:34 | 2021-11-10 |  |
 | [Soft And Quiet](https://open.spotify.com/track/3wEYRfHvBH8enJnak36lRS) | [Chymeris](https://open.spotify.com/artist/2WuwBckoWivO9e7DgRFt6F) | [Soft And Quiet](https://open.spotify.com/album/41Fz56qqfcIjIpEzjFh58z) | 2:49 | 2022-07-15 |  |

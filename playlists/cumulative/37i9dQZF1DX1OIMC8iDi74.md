@@ -4,7 +4,7 @@
 
 > The best of electronic trap\. Cover: RL Grime
 
-223 songs - 12 hr 16 min - [published](https://open.spotify.com/playlist/6tpQ5fWn7pR2a6KV8Us5hN)
+224 songs - 12 hr 20 min - [published](https://open.spotify.com/playlist/6tpQ5fWn7pR2a6KV8Us5hN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,7 +171,7 @@
 | [Reaper \(feat\. JID\)](https://open.spotify.com/track/1KzGwlHu27TUfH3gF1RFAa) | [Boombox Cartel](https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Reaper \(feat\. JID\)](https://open.spotify.com/album/0jmZxsfDKqkjBLiFytB3gg) | 2:44 | 2021-11-19 |  |
 | [Red Ish](https://open.spotify.com/track/6O8U8Biv6ztOLUcQPBEW1P) | [Jerry Folk](https://open.spotify.com/artist/356FCJoyYWyzONni54Dgrv) | [Moving Points](https://open.spotify.com/album/5eQvhdesnKTbBVxBPJuBJE) | 2:01 | 2021-11-19 | 2022-07-29 |
 | [Redline](https://open.spotify.com/track/4aazAfFSKtI5XIlkauNyJC) | [Lookas](https://open.spotify.com/artist/27fy6rHPC58Eo2VUu0iJSG) | [Redline](https://open.spotify.com/album/4CIMWIQasnF1cP3lUjpFt0) | 3:56 | 2021-11-19 | 2022-01-12 |
-| [REDloop](https://open.spotify.com/track/1KANhRF0eNmr13rT4t3I4X) | [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav) | [REDloop](https://open.spotify.com/album/0tPEC1IBHLBrXMwWDDCJpq) | 3:45 | 2022-05-11 |  |
+| [REDloop](https://open.spotify.com/track/1KANhRF0eNmr13rT4t3I4X) | [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav) | [REDloop](https://open.spotify.com/album/0tPEC1IBHLBrXMwWDDCJpq) | 3:45 | 2022-05-11 | 2022-09-03 |
 | [Redo](https://open.spotify.com/track/6NZunfz5wbY8pYeDDlJUas) | [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb) | [Redo](https://open.spotify.com/album/2AMprxvEKfL1MX46QFgHR7) | 3:17 | 2022-02-01 |  |
 | [Remember 01](https://open.spotify.com/track/7uVb2BbkZGTtsZOZJX8ZHp) | [The Halluci Nation](https://open.spotify.com/artist/2jlWF9ltd8UtoaqW0PxY4z), [John Trudell](https://open.spotify.com/artist/66UTgjk1qw87MQEpsidHdA), [Black Bear](https://open.spotify.com/artist/0yA6zmKmNXjUPSZyfDZji7) | [Remember 01](https://open.spotify.com/album/2snP3VAdPPSFNoxWx89l4L) | 2:47 | 2021-11-19 | 2022-02-02 |
 | [Rendez\-Vous](https://open.spotify.com/track/3ydK0BduQnwOF0A1Oe4VPd) | [Lunice](https://open.spotify.com/artist/5I0593TTVPzkanWW8xsTns), [Chase.Wav](https://open.spotify.com/artist/3eVkYzgZJfjCl2lqdNonUS) | [Rendez Vous](https://open.spotify.com/album/2pXZl0vL2Yj5xRDn3nKWMy) | 3:12 | 2021-11-19 | 2022-02-02 |
@@ -185,6 +185,7 @@
 | [Shadow \(feat\. Calivania\)](https://open.spotify.com/track/6y3jQ1n5P4z1DAtHd7HWcV) | [Boombox Cartel](https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO), [Calivania](https://open.spotify.com/artist/5BBJhaRxSKP3jeCjIoWdl1), [Moody Good](https://open.spotify.com/artist/3EN8pUGJtYWutzf2fUxrDH) | [Cartel II](https://open.spotify.com/album/2GLkPjI663ZQ7OGw02Iblc) | 3:35 | 2021-11-26 | 2022-01-21 |
 | [Shadow \(feat\. Calivania\)](https://open.spotify.com/track/3sQEGlBQsZQesOboMHDLqn) | [Boombox Cartel](https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO), [Moody Good](https://open.spotify.com/artist/3EN8pUGJtYWutzf2fUxrDH), [Calivania](https://open.spotify.com/artist/5BBJhaRxSKP3jeCjIoWdl1) | [Shadow \(feat\. Calivania\)](https://open.spotify.com/album/3dA7AcTrAWTcaKSUS3r75L) | 3:35 | 2021-11-19 | 2022-08-31 |
 | [Shiawase](https://open.spotify.com/track/4hAb4pbqgfgwraiHongYZR) | [Dion Timmer](https://open.spotify.com/artist/06VibSJEr3GLxLBBZhRums) | [Shiawase](https://open.spotify.com/album/64SYVRoKKBGR1wmb6S1l7d) | 3:37 | 2022-02-01 |  |
+| [Silo \(feat\. fknsyd\)](https://open.spotify.com/track/49Z1VQivkHoY5KGdUwMv5i) | [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP), [Hex Cougar](https://open.spotify.com/artist/0AlNB0yIoyxdKloLmK9AOR), [fknsyd](https://open.spotify.com/artist/4fHFFvChjfjG7sAseTwiXd) | [Sable Valley Summer Vol\. 3](https://open.spotify.com/album/2TklWyQdmNHg7d2Xmam8G8) | 4:07 | 2022-09-02 |  |
 | [Sinner](https://open.spotify.com/track/6r4evry8ZJxJRkjKBiHncf) | [Neukrapsio](https://open.spotify.com/artist/61Z4ARbgYmgk3nsXcyazoa) | [Sinner](https://open.spotify.com/album/2kpCIlKMYr7Z0AZbhBCoTb) | 3:38 | 2021-11-19 | 2022-02-02 |
 | [Slow Burn](https://open.spotify.com/track/1AfA0K7BLxceH7PjzcZdZc) | [Moksi](https://open.spotify.com/artist/5jm3x1qIibWdKSEMw2G011), [Elayna Boynton](https://open.spotify.com/artist/5wr3WZArcItaxXddR07nJv) | [The Return of House Music](https://open.spotify.com/album/4lsszip8gEvULzZTTThGnS) | 4:04 | 2022-02-01 |  |
 | [Sober](https://open.spotify.com/track/3XlHlWFhlI4OZiguOMcuuc) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [Kaivon](https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC) | [Sober](https://open.spotify.com/album/5QAitMOxUFNdCzmbpkdGwt) | 3:44 | 2022-02-01 |  |

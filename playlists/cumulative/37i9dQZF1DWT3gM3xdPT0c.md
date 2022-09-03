@@ -4,7 +4,7 @@
 
 > Warm instrumental guitar for a gentle start.
 
-166 songs - 7 hr 15 min - [published](https://open.spotify.com/playlist/4J4yOBmgih5feZicGBWAgu)
+169 songs - 7 hr 23 min - [published](https://open.spotify.com/playlist/4J4yOBmgih5feZicGBWAgu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,16 +68,19 @@
 | [Follow Me](https://open.spotify.com/track/5qlWPpcBFypfcxJB0HvngM) | [Amine Ortega](https://open.spotify.com/artist/1LtfdXtx0vZJG76Ggr6NJc) | [Follow Me](https://open.spotify.com/album/0uWeeD2szjk9swnC0elm0e) | 3:05 | 2022-03-04 | 2022-07-08 |
 | [For Louise](https://open.spotify.com/track/22htnvHEZJQfd56eTmRVbM) | [Jacob Ledger](https://open.spotify.com/artist/7Ky67NUialaMahn63a39wg) | [For Louise](https://open.spotify.com/album/13EEH5mQbYcwlCS4jM74UV) | 2:25 | 2022-03-04 | 2022-04-22 |
 | [Free at last](https://open.spotify.com/track/6NUq5Cj7Vu4LHjst1Oj1Yu) | [Maisy Anderson](https://open.spotify.com/artist/1LZ0rsW9h1Aaoh9kJjWUeE) | [From Dusk til Dawn](https://open.spotify.com/album/17eESm3rrSYQUO1EklmVQ4) | 2:35 | 2022-03-04 |  |
+| [Gentle Stream](https://open.spotify.com/track/7xV7FTZ8rvSco3lZRxF3rt) | [Billy\-Joe](https://open.spotify.com/artist/4yuk88pPSJUYCbSVJGiOYD), [Lance Allen](https://open.spotify.com/artist/5KFXAufcOTSKibMfLnmyYC) | [Gentle Stream](https://open.spotify.com/album/2ZiJsj9Wp3f7UTDgoVcVHN) | 2:40 | 2022-09-02 |  |
 | [Goodbye](https://open.spotify.com/track/0tDUVtkNs3dn799WQIfk97) | [Peter Lainson](https://open.spotify.com/artist/3wk9WtW2Txz1ssUoAZuE1a), [Randal L Meek](https://open.spotify.com/artist/7IbVTpxbYawdWViVedEJIB) | [Goodbye](https://open.spotify.com/album/5hCt1vCsVJrb4RocHLRiBF) | 3:25 | 2022-06-10 | 2022-07-22 |
 | [Graceful Moment](https://open.spotify.com/track/202NHDBh9snqk5bUo1qZmD) | [Byron Wolfe](https://open.spotify.com/artist/5FnRSMJOiTQUGkNRfOaJYm) | [Graceful Moment & Open Fields](https://open.spotify.com/album/4ozWLRqVgvL3CJivu2Idzf) | 2:12 | 2022-03-04 |  |
 | [Great Moments](https://open.spotify.com/track/6VQ4N5ybijwCc6ugRlFztv) | [Manuel Boltano](https://open.spotify.com/artist/1VPn9LztA72am356jYFyMH) | [Great Moments](https://open.spotify.com/album/5omrW0RAtTjG9JIvvPpUW4) | 3:03 | 2022-03-04 | 2022-03-19 |
 | [Green Grass](https://open.spotify.com/track/3sh5zwu0r6FQWLtuhJciXv) | [Elijah Stone](https://open.spotify.com/artist/0Z1kuJ3hjjRHW7h8hwowdu) | [Under The Oak](https://open.spotify.com/album/2kzu9YIymsuwYuTz8QFLgS) | 2:00 | 2022-03-04 |  |
 | [Green Meadow](https://open.spotify.com/track/0z2dmmunpl2LB0iozr4yYv) | [Timothy Reiger](https://open.spotify.com/artist/2gJCO2wkZJeVALM0a9PpV3) | [Green Meadow](https://open.spotify.com/album/5w03krSmnpaXsVoF56X1Kc) | 2:04 | 2022-03-04 | 2022-07-01 |
+| [Guarnieri](https://open.spotify.com/track/0rWUcQHJNWLZ4tkCJGhfpg) | [Oscar Roland](https://open.spotify.com/artist/1LPkJWKv7qfy9HxiZpW8rH) | [Foi Assim](https://open.spotify.com/album/0tA8gFpl3KiocUkvLWAtQH) | 2:57 | 2022-09-02 |  |
 | [Hanna\`s Waltz](https://open.spotify.com/track/3qnrlBE2EdCb0lbVm7jjWQ) | [Owen Larsson](https://open.spotify.com/artist/3yj6wzbqsrmZhF87e97km8) | [Hanna\`s Waltz](https://open.spotify.com/album/11hzf8FQ7RhyLBKC5C2tsT) | 2:22 | 2022-03-04 | 2022-05-27 |
 | [Happy Faces](https://open.spotify.com/track/3mXIi5dQIW1xmVvW8UQJ9G) | [Juno Harrell](https://open.spotify.com/artist/3JPYFv2u0fEm4GzDqKVrWY) | [Happy Faces](https://open.spotify.com/album/2kR5ZVraVvSPla3QndZ2fy) | 3:20 | 2022-03-04 | 2022-04-06 |
 | [Heaven and Heart](https://open.spotify.com/track/2UEAKcbYQuvWjdB5FejH0D) | [Cardboard Fort](https://open.spotify.com/artist/6REpB3pDhUNmdel10sIhaB) | [Heaven and Heart](https://open.spotify.com/album/263bN9QIKj9Qjg6goyYJbk) | 2:20 | 2022-03-04 |  |
 | [High Seas](https://open.spotify.com/track/6SCqDHH0cPWjb5RoO8JeJv) | [Philip Grass](https://open.spotify.com/artist/1P6oBwSLIpnKBsIObVaIj1) | [High Seas](https://open.spotify.com/album/4Y6eHC85yEXFPA0o6ClDgF) | 2:29 | 2022-03-04 |  |
 | [Home](https://open.spotify.com/track/6xidiG4MYukn4scIc8z9ya) | [Pacecamp](https://open.spotify.com/artist/1k3YN6p4gb48dCrbLgwbht) | [Pacecamp](https://open.spotify.com/album/6Zqz556VwtsGihABRGb30i) | 2:16 | 2022-03-04 | 2022-04-22 |
+| [Hometown](https://open.spotify.com/track/6CB44WdB5DhGtzMiaQ11Rr) | [Inner Trails](https://open.spotify.com/artist/2PL4J2dLCPQfClzz1x7Z2j) | [Hometown](https://open.spotify.com/album/6ooTLhKe5yD5LC4bL4fI7f) | 2:02 | 2022-09-02 |  |
 | [Humble Stream](https://open.spotify.com/track/52MgsfWkg5SaySCSybgq2f) | [Matthew Everwood](https://open.spotify.com/artist/7C69ACEOoF0mqZxylAevY7) | [Humble Stream](https://open.spotify.com/album/0i8ogDdtotOqUuzxNRAvH1) | 1:55 | 2022-03-04 | 2022-05-27 |
 | [Hügel des Nordens](https://open.spotify.com/track/5TZZrFfHQQBFPOgFeTMl9v) | [Ivan Bielsa](https://open.spotify.com/artist/5TSHZHmlAoFmP4EyKvwRua) | [Hügel des Nordens](https://open.spotify.com/album/01C4mq3tGQZVG5kUMUHVhn) | 2:03 | 2022-03-04 | 2022-07-22 |
 | [I come in peace](https://open.spotify.com/track/6vzJpiB46qngBEYfoHnvKE) | [Allan Soderbergh](https://open.spotify.com/artist/3xqsMFRhJhUFZo7ktD34rU) | [I come in peace](https://open.spotify.com/album/7pPCXg7hJKAKPaWJCPmcwj) | 1:58 | 2022-03-04 |  |

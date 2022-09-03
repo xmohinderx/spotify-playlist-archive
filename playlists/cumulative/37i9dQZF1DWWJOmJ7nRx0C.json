@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The hardest songs, loud. Very loud. Cover:  Ayron Jones",
+  "description": "The hardest songs, loud. Very loud. Cover:  Pierce The Veil",
   "name": "Rock Hard",
   "published_playlist_ids": [
     "2UlZpIm54Pz4o9EirPo1mN"
@@ -1817,7 +1817,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 240689,
       "name": "Dead Inside",
       "url": "https://open.spotify.com/track/47xrDjgTsXiSczuZENqUoH"
@@ -2551,7 +2551,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 247092,
       "name": "Family",
       "url": "https://open.spotify.com/track/3z67pAKSP7DQkRpWOD28T1"
@@ -4120,6 +4120,24 @@
     },
     {
       "album": {
+        "name": "Let Me Let You Go",
+        "url": "https://open.spotify.com/album/4DSQT7lIc5Unlz6LoyBPzI"
+      },
+      "artists": [
+        {
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180211,
+      "name": "Let Me Let You Go",
+      "url": "https://open.spotify.com/track/5CgkbROq94tTSnXnrfvtGH"
+    },
+    {
+      "album": {
         "name": "Let You Down (feat. Charlotte Sands)",
         "url": "https://open.spotify.com/album/6FDZMfAhiOT1vgZ21iupjV"
       },
@@ -4818,6 +4836,24 @@
     },
     {
       "album": {
+        "name": "New Era",
+        "url": "https://open.spotify.com/album/3NnxQ5HSHpZGl0MCyVEwFA"
+      },
+      "artists": [
+        {
+          "name": "Adelitas Way",
+          "url": "https://open.spotify.com/artist/1ZjAT2nTrzDIXFfsQ2hWJk"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187787,
+      "name": "New Era",
+      "url": "https://open.spotify.com/track/4zNXCkMYWJSHN7t23Eek2r"
+    },
+    {
+      "album": {
         "name": "Ego Trip",
         "url": "https://open.spotify.com/album/5OSVAtytFqdJwIJpD3gGEJ"
       },
@@ -5108,6 +5144,24 @@
     },
     {
       "album": {
+        "name": "Pass The Nirvana",
+        "url": "https://open.spotify.com/album/50eq5hUKnqB9e51D9GSmKs"
+      },
+      "artists": [
+        {
+          "name": "Pierce The Veil",
+          "url": "https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197374,
+      "name": "Pass The Nirvana",
+      "url": "https://open.spotify.com/track/5SDhI2jKg0S5fzEEqPCHiV"
+    },
+    {
+      "album": {
         "name": "Passenger",
         "url": "https://open.spotify.com/album/4uupmE8nv4sRZQf62HRSM4"
       },
@@ -5213,7 +5267,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 168391,
       "name": "Peace That Starts the War",
       "url": "https://open.spotify.com/track/3GDGBicHo5vRMYOEvqSURs"
@@ -6682,6 +6736,24 @@
     },
     {
       "album": {
+        "name": "Stuck",
+        "url": "https://open.spotify.com/album/40lErQFgyoVH3cUfQqEjIi"
+      },
+      "artists": [
+        {
+          "name": "Unlike Pluto",
+          "url": "https://open.spotify.com/artist/4zjO8Jhi2pciJJzd8Q6rga"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217417,
+      "name": "Stuck",
+      "url": "https://open.spotify.com/track/42L3j5lwv984iLY6tEUF1I"
+    },
+    {
+      "album": {
         "name": "StuckintheMiddle",
         "url": "https://open.spotify.com/album/2lVvUZidTV6naaGRy7E2WT"
       },
@@ -7995,7 +8067,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 269466,
       "name": "We\u2019ll Be Back",
       "url": "https://open.spotify.com/track/1sI2Duw2PyugyW9EYbmdqO"

@@ -8,6 +8,28 @@
   "tracks": [
     {
       "album": {
+        "name": "506",
+        "url": "https://open.spotify.com/album/38coX6excq4obQR4Z7sww7"
+      },
+      "artists": [
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        },
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180546,
+      "name": "506",
+      "url": "https://open.spotify.com/track/4scwMEdlKi8qWJzzyDB8Z3"
+    },
+    {
+      "album": {
         "name": "Set the Record Straight",
         "url": "https://open.spotify.com/album/65HZxbBL9viNkzeFJM53tE"
       },
@@ -517,7 +539,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 166747,
       "name": "Gracias A La Vida",
       "url": "https://open.spotify.com/track/5bHSXxczMdoPWVg3RemYHq"
@@ -611,7 +633,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 175996,
       "name": "Honkytonk Bar",
       "url": "https://open.spotify.com/track/5uWUZQEP1TxZM2YYgDe3bu"
@@ -1125,7 +1147,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 335355,
       "name": "Me Olvid\u00e9 de Vivir",
       "url": "https://open.spotify.com/track/4HnSjaMV1PoRaRveNG2KKY"
@@ -1179,7 +1201,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 198272,
       "name": "Most Nights",
       "url": "https://open.spotify.com/track/5gs9CYfoPQUKJ9TPBRgBWI"

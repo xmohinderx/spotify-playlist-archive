@@ -4,7 +4,7 @@
 
 > For those cozy moments.
 
-239 songs - 14 hr 38 min - [published](https://open.spotify.com/playlist/18y1K7szva4ApQnZGnbzQT)
+241 songs - 14 hr 44 min - [published](https://open.spotify.com/playlist/18y1K7szva4ApQnZGnbzQT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Great American Novel](https://open.spotify.com/track/7cNOOVO42JhWr1RugzdhqA) | [Max Jury](https://open.spotify.com/artist/3MuPVbFDynbq9zRTAqjRxi) | [Great American Novel](https://open.spotify.com/album/5EJkQ3cn2Wripdg8dYyDCu) | 3:54 | 2021-10-26 | 2022-07-29 |
 | [Great American Novel](https://open.spotify.com/track/4ry2Jh7zMFRDzqOHil8prF) | [Max Jury](https://open.spotify.com/artist/3MuPVbFDynbq9zRTAqjRxi) | [Max Jury](https://open.spotify.com/album/4dylZZrQcKM84MAAmvkIlb) | 3:55 | 2022-07-08 |  |
 | [Heartbeat](https://open.spotify.com/track/2Cj2XFOMBT8IrT0aapNTee) | [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC) | [Heartbeat](https://open.spotify.com/album/052xFq8blHwU5tv1kjeiak) | 3:20 | 2021-10-26 |  |
+| [Heaven on Earth](https://open.spotify.com/track/3FTpb7bVZEK503Ldoiewm1) | [Roann](https://open.spotify.com/artist/6OwRvBiAqnNokRLAtnGDLy), [Jordan Hawkins](https://open.spotify.com/artist/70XiOMiwBAHHspwHrkxlJY) | [Heaven on Earth](https://open.spotify.com/album/08R8TFMIdn2IwhDOmfKmqA) | 3:12 | 2022-09-02 |  |
 | [Heights](https://open.spotify.com/track/4HhiuiQftydGvLIIzM8tn5) | [Only Girl](https://open.spotify.com/artist/2ZkQAcKkFO60QQybtXDStt) | [Heights](https://open.spotify.com/album/6mfFBO0ksZJTg3mNc4wfjf) | 3:46 | 2021-10-26 |  |
 | [Here With Me](https://open.spotify.com/track/02VOS5QRFc6i1XQVROAeDi) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [Here With Me](https://open.spotify.com/album/2Lckft3XE6ElWoCny1h1Xo) | 3:16 | 2021-10-26 |  |
 | [High Tide](https://open.spotify.com/track/0eWVJ7gQPP0HcZOAuAzzi4) | [Nick Yoon](https://open.spotify.com/artist/0RFlTR5N3zJ9tmEvBn6Af2) | [High Tide](https://open.spotify.com/album/4Ch60olKAVGKPhHtSPrmKx) | 3:35 | 2022-05-23 |  |
@@ -97,6 +98,7 @@
 | [I Believe in Us](https://open.spotify.com/track/5ZT5UB1SNVMkfYiTvnliz4) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [I Believe in Us](https://open.spotify.com/album/1ilm51Vj9GmHghmlYQANOf) | 3:22 | 2021-10-26 | 2022-07-29 |
 | [I Knew I Loved You](https://open.spotify.com/track/6nozDLxeL0TE4MS9GqYU1v) | [Savage Garden](https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek) | [Affirmation](https://open.spotify.com/album/3w69KK7uEA8OsKuW3OeQcC) | 4:10 | 2021-10-26 |  |
 | [I Want You](https://open.spotify.com/track/1rOi1VtkXsqt5I8LxvagIa) | [Amari Noelle](https://open.spotify.com/artist/0oOSUbpeJXzsaPm0x7wBF7) | [Amari' SZN 1](https://open.spotify.com/album/1QKeTORudfi2r18VXdYM7P) | 3:05 | 2022-07-01 | 2022-07-29 |
+| [I Want You](https://open.spotify.com/track/4vNKn8JtZrcwn7aR3x1unv) | [Amari Noelle](https://open.spotify.com/artist/0oOSUbpeJXzsaPm0x7wBF7) | [Amari' SZN 1](https://open.spotify.com/album/7xHdTbAn5n1xFyW6afp5m4) | 3:05 | 2022-09-02 |  |
 | [I Was Made For Loving You](https://open.spotify.com/track/4XbQLaWyFkXTwPK33kxWQJ) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Unbreakable Smile](https://open.spotify.com/album/30QwSnTFUhCGee32ng1tvL) | 3:08 | 2021-10-26 | 2022-07-29 |
 | [I Was Made For Loving You](https://open.spotify.com/track/1Xwh83YOFQARZ3QXscP123) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Unbreakable Smile](https://open.spotify.com/album/2mH2TVd6euTmrn9Pcw9XHS) | 3:08 | 2022-07-08 |  |
 | [I'll Never Love](https://open.spotify.com/track/6GVSdu24y9O1NA6DME7CkV) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Love & Hate](https://open.spotify.com/album/0qxsfpy2VU0i4eDR9RTaAU) | 2:45 | 2022-07-08 |  |
@@ -171,7 +173,7 @@
 | [Palace](https://open.spotify.com/track/5UFvcTCbp9P057YbRNsJ3U) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [The Thrill Of It All \(Special Edition\)](https://open.spotify.com/album/3XftSbguntyRTBQaGItmfK) | 3:07 | 2022-07-08 |  |
 | [Parade](https://open.spotify.com/track/1PAH34xJkjVKe51fS0Rv53) | [NIGHT FLIGHT](https://open.spotify.com/artist/2nMtboATQpmDWebmKRsqpE) | [NIGHT FLIGHT](https://open.spotify.com/album/2CfUVZdfwVHZNzf5WF3BID) | 3:49 | 2022-07-08 |  |
 | [Parade](https://open.spotify.com/track/5M0VNxtJnBfROF0wYRWeWr) | [NIGHT FLIGHT](https://open.spotify.com/artist/2nMtboATQpmDWebmKRsqpE) | [Parade](https://open.spotify.com/album/10nSCyhBcT3murrVJ6rpAg) | 3:51 | 2021-10-26 | 2022-07-29 |
-| [Part Time Lover \- Radio Edit](https://open.spotify.com/track/3RT0FdCEeCTTPbFY5Qk5pk) | [ELIAS](https://open.spotify.com/artist/5w3XaqHR4hMMy1MWyO26TY) | [Part Time Lover \(Radio Edit\)](https://open.spotify.com/album/0FXr7SgdUgSXzEBE0JxLWf) | 2:48 | 2022-06-02 |  |
+| [Part Time Lover \- Radio Edit](https://open.spotify.com/track/3RT0FdCEeCTTPbFY5Qk5pk) | [ELIAS](https://open.spotify.com/artist/5w3XaqHR4hMMy1MWyO26TY) | [Part Time Lover \(Radio Edit\)](https://open.spotify.com/album/0FXr7SgdUgSXzEBE0JxLWf) | 2:48 | 2022-06-02 | 2022-09-03 |
 | [People Change](https://open.spotify.com/track/3Ed55g8hCz1GmqRTelIPIW) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [People Change](https://open.spotify.com/album/0ynSa86jw1PqCHRBcWYskU) | 3:32 | 2021-10-26 | 2022-07-29 |
 | [People Change](https://open.spotify.com/track/5VYOUBkObeGOnCt30YDTJ3) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Edges Run](https://open.spotify.com/album/4GwbUoWi1Tn42nSfbiBIGk) | 3:32 | 2022-07-08 |  |
 | [Perfect](https://open.spotify.com/track/0tgVpDi06FyKpA1z0VMD4v) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [÷ \(Deluxe\)](https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu) | 4:23 | 2021-10-26 |  |
@@ -193,7 +195,7 @@
 | [Sam](https://open.spotify.com/track/7986f2lG0GDtADQ8IgMFuz) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Glasshouse](https://open.spotify.com/album/4dCYurAtpYbC77cBWt2uIH) | 5:15 | 2021-10-26 | 2022-07-29 |
 | [Save Room](https://open.spotify.com/track/3sTc75CCyIw4FPs6cXkOe7) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Once Again](https://open.spotify.com/album/1ZWwFwSKaREGLWxpGiPAoF) | 3:55 | 2021-10-26 |  |
 | [Say Less](https://open.spotify.com/track/1IfSmProMwb7ECLvNwVaOG) | [Parker Louis](https://open.spotify.com/artist/5Zo2GpQdYsiYf7YYZCTBSD) | [Say Less](https://open.spotify.com/album/43NBseqJxP2jDaOXVh8HiS) | 4:03 | 2022-03-08 |  |
-| [Seduction](https://open.spotify.com/track/2qVqxcTXGugY41u8Sr8xfp) | [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Confessions \(Expanded Edition\)](https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk) | 4:33 | 2022-08-26 |  |
+| [Seduction](https://open.spotify.com/track/2qVqxcTXGugY41u8Sr8xfp) | [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Confessions \(Expanded Edition\)](https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk) | 4:33 | 2022-08-26 | 2022-09-03 |
 | [Send Nudes](https://open.spotify.com/track/4U5Hgk4yDeLklzJb8Ypy8Y) | [Romeyo Wilson](https://open.spotify.com/artist/2dlixKsISNrgfVBQJzg3VJ) | [Send Nudes](https://open.spotify.com/album/2m2vD5swUKoiHQvNVNcjoV) | 3:24 | 2022-06-17 |  |
 | [Sex + Hennessy](https://open.spotify.com/track/4ypLZVbvg7fNhXXSD6QZor) | [Eimizah](https://open.spotify.com/artist/3lvD3A9t2jhvnSSLZI4baM) | [Sex + Hennessy](https://open.spotify.com/album/2NaZ8ZcWj5TDeQsgJEicvK) | 2:35 | 2022-04-27 |  |
 | [Shallow \- Radio Edit](https://open.spotify.com/track/6QfS2wq5sSC1xAJCQsTSlj) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bradley Cooper](https://open.spotify.com/artist/4VIvfOurcf0vuLRxLkGnIG) | [A Star Is Born Soundtrack \(Without Dialogue\)](https://open.spotify.com/album/3edjzMAVB9RYRd4UcZBchx) | 3:37 | 2021-10-26 |  |

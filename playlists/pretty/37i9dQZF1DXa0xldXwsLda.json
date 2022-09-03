@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Buen provecho!",
-  "num_followers": 221878,
+  "num_followers": 221888,
   "original_name": "Hora de la Comida",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODQ4NjE5NSwwMDAwMDAwMDEzN2U5OTk3YmU0OGM1MTM0YjI3YWEzYTc1N2U5MmUy",
+  "snapshot_id": "MTY0ODQ4NjE5NSwwMDAwMDAwMGI5Njc3NTMzM2ZiZTM2YTc3MDdlMjdiNDVlODFmYThk",
   "tracks": [
     {
       "added_at": "2022-03-28 16:49:55",
@@ -183,18 +183,22 @@
     {
       "added_at": "2022-03-28 16:49:55",
       "album": {
-        "name": "The Beatles (Remastered)",
-        "url": "https://open.spotify.com/album/1klALx0u4AavZNEvC4LrTL"
+        "name": "Te Llor\u00e9 Un R\u00edo",
+        "url": "https://open.spotify.com/album/7GV5uaJVmICyAAdEoUgKbd"
       },
       "artists": [
         {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+        },
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
         }
       ],
-      "duration_ms": 138386,
-      "name": "Blackbird - Remastered 2009",
-      "url": "https://open.spotify.com/track/5jgFfDIR6FR0gvlA56Nakr"
+      "duration_ms": 230811,
+      "name": "Te Llor\u00e9 Un R\u00edo",
+      "url": "https://open.spotify.com/track/6uYtv0KmSNBGFfaY7yW8tY"
     },
     {
       "added_at": "2022-03-28 16:49:55",
@@ -215,22 +219,18 @@
     {
       "added_at": "2022-03-28 16:49:55",
       "album": {
-        "name": "Te Llor\u00e9 Un R\u00edo",
-        "url": "https://open.spotify.com/album/7GV5uaJVmICyAAdEoUgKbd"
+        "name": "The Beatles (Remastered)",
+        "url": "https://open.spotify.com/album/1klALx0u4AavZNEvC4LrTL"
       },
       "artists": [
         {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
-        },
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
         }
       ],
-      "duration_ms": 230811,
-      "name": "Te Llor\u00e9 Un R\u00edo",
-      "url": "https://open.spotify.com/track/6uYtv0KmSNBGFfaY7yW8tY"
+      "duration_ms": 138386,
+      "name": "Blackbird - Remastered 2009",
+      "url": "https://open.spotify.com/track/5jgFfDIR6FR0gvlA56Nakr"
     },
     {
       "added_at": "2022-03-28 16:49:55",
@@ -459,22 +459,6 @@
     {
       "added_at": "2022-03-28 16:49:55",
       "album": {
-        "name": "Time After Time",
-        "url": "https://open.spotify.com/album/5NovnTHEYZjadICACf4yPo"
-      },
-      "artists": [
-        {
-          "name": "Iron & Wine",
-          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
-        }
-      ],
-      "duration_ms": 170216,
-      "name": "Time After Time",
-      "url": "https://open.spotify.com/track/5JEM7lT9uSyhUsKFXwGfSm"
-    },
-    {
-      "added_at": "2022-03-28 16:49:55",
-      "album": {
         "name": "Cu\u00e1ntas Veces",
         "url": "https://open.spotify.com/album/2nliVdeqWoH2jDShBUdGMj"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 194127,
       "name": "Cu\u00e1ntas Veces",
       "url": "https://open.spotify.com/track/0dfyGtKJoxV8KAYRpSwBiL"
+    },
+    {
+      "added_at": "2022-03-28 16:49:55",
+      "album": {
+        "name": "Time After Time",
+        "url": "https://open.spotify.com/album/5NovnTHEYZjadICACf4yPo"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        }
+      ],
+      "duration_ms": 170216,
+      "name": "Time After Time",
+      "url": "https://open.spotify.com/track/5JEM7lT9uSyhUsKFXwGfSm"
     },
     {
       "added_at": "2022-03-28 16:49:55",
@@ -527,6 +527,22 @@
     {
       "added_at": "2022-03-28 16:49:55",
       "album": {
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/3E3RbNL43xqu0o5KggHJBU"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "duration_ms": 174360,
+      "name": "Stay With Me - Live From Spotify Berlin",
+      "url": "https://open.spotify.com/track/2GiYPEgOA7hb7sqsEWX8df"
+    },
+    {
+      "added_at": "2022-03-28 16:49:55",
+      "album": {
         "name": "T\u00fa Me Dejaste De Querer",
         "url": "https://open.spotify.com/album/7lRNtV18ZVeTYY2w5RhVf2"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 198499,
       "name": "T\u00fa Me Dejaste De Querer",
       "url": "https://open.spotify.com/track/0XinBYhf1X3kdvKQHOX971"
-    },
-    {
-      "added_at": "2022-03-28 16:49:55",
-      "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/3E3RbNL43xqu0o5KggHJBU"
-      },
-      "artists": [
-        {
-          "name": "Angus & Julia Stone",
-          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
-        }
-      ],
-      "duration_ms": 174360,
-      "name": "Stay With Me - Live From Spotify Berlin",
-      "url": "https://open.spotify.com/track/2GiYPEgOA7hb7sqsEWX8df"
     },
     {
       "added_at": "2022-03-28 16:49:55",
@@ -827,6 +827,22 @@
     {
       "added_at": "2022-03-28 16:49:55",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0VPhyqqDEary03vLt02DtZ"
+      },
+      "artists": [
+        {
+          "name": "Tom Speight",
+          "url": "https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91"
+        }
+      ],
+      "duration_ms": 183052,
+      "name": "Stand by Me - Recorded at RAK Studios, London",
+      "url": "https://open.spotify.com/track/4GhFz9YVbihQJlq5pFFPgD"
+    },
+    {
+      "added_at": "2022-03-28 16:49:55",
+      "album": {
         "name": "One Call Away (Acoustic + Remixes)",
         "url": "https://open.spotify.com/album/5UMl7dsO7ZoMyH7rKUc53q"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 148900,
       "name": "Let It Be",
       "url": "https://open.spotify.com/track/0SL50BWlNr0RThIgL5swJK"
-    },
-    {
-      "added_at": "2022-03-28 16:49:55",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0VPhyqqDEary03vLt02DtZ"
-      },
-      "artists": [
-        {
-          "name": "Tom Speight",
-          "url": "https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91"
-        }
-      ],
-      "duration_ms": 183052,
-      "name": "Stand by Me - Recorded at RAK Studios, London",
-      "url": "https://open.spotify.com/track/4GhFz9YVbihQJlq5pFFPgD"
     },
     {
       "added_at": "2022-03-28 16:49:55",
@@ -1151,6 +1151,30 @@
     {
       "added_at": "2022-03-28 16:49:55",
       "album": {
+        "name": "Un Canto por M\u00e9xico, Vol. II",
+        "url": "https://open.spotify.com/album/0Ece1my4kjbR0frvMUzRT0"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        },
+        {
+          "name": "Mare Advertencia Lirika",
+          "url": "https://open.spotify.com/artist/3QVB7ctBlqEFuQZeMDt6Qh"
+        },
+        {
+          "name": "Rub\u00e9n Blades",
+          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
+        }
+      ],
+      "duration_ms": 268280,
+      "name": "T\u00fa S\u00ed Sabes Quererme",
+      "url": "https://open.spotify.com/track/0cvrnpQP2UBc9f68M28JDt"
+    },
+    {
+      "added_at": "2022-03-28 16:49:55",
+      "album": {
         "name": "Tres",
         "url": "https://open.spotify.com/album/0dpI4KeBTPdazVzW1paxqh"
       },
@@ -1183,26 +1207,6 @@
     {
       "added_at": "2022-03-28 16:49:55",
       "album": {
-        "name": "I Don't Wanna Live Forever (Fifty Shades Darker)",
-        "url": "https://open.spotify.com/album/14bGY9xaoIyLPLCxytC0Gy"
-      },
-      "artists": [
-        {
-          "name": "Sara Farell",
-          "url": "https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV"
-        },
-        {
-          "name": "Simon Samaeng",
-          "url": "https://open.spotify.com/artist/7n4yZSvg16XY22sxvZzKfw"
-        }
-      ],
-      "duration_ms": 232500,
-      "name": "I Don't Wanna Live Forever (Fifty Shades Darker) - Acoustic",
-      "url": "https://open.spotify.com/track/3DiSg52IvK0nmFwsMKL7bB"
-    },
-    {
-      "added_at": "2022-03-28 16:49:55",
-      "album": {
         "name": "Ojitos de Aceituna",
         "url": "https://open.spotify.com/album/0T1toCzjEqFltKmHuwznI5"
       },
@@ -1223,18 +1227,22 @@
     {
       "added_at": "2022-03-28 16:49:55",
       "album": {
-        "name": "Pronto",
-        "url": "https://open.spotify.com/album/3BYgxxZDSXIfoa6Z7pz2NZ"
+        "name": "I Don't Wanna Live Forever (Fifty Shades Darker)",
+        "url": "https://open.spotify.com/album/14bGY9xaoIyLPLCxytC0Gy"
       },
       "artists": [
         {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+          "name": "Sara Farell",
+          "url": "https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV"
+        },
+        {
+          "name": "Simon Samaeng",
+          "url": "https://open.spotify.com/artist/7n4yZSvg16XY22sxvZzKfw"
         }
       ],
-      "duration_ms": 228218,
-      "name": "Pronto",
-      "url": "https://open.spotify.com/track/76v3J11Zq0HwkJqQLyw7sJ"
+      "duration_ms": 232500,
+      "name": "I Don't Wanna Live Forever (Fifty Shades Darker) - Acoustic",
+      "url": "https://open.spotify.com/track/3DiSg52IvK0nmFwsMKL7bB"
     },
     {
       "added_at": "2022-03-28 16:49:55",
@@ -1251,6 +1259,22 @@
       "duration_ms": 237857,
       "name": "Scars To Your Beautiful",
       "url": "https://open.spotify.com/track/19f6MVdX9dLFerHynoM5im"
+    },
+    {
+      "added_at": "2022-03-28 16:49:55",
+      "album": {
+        "name": "Pronto",
+        "url": "https://open.spotify.com/album/3BYgxxZDSXIfoa6Z7pz2NZ"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 228218,
+      "name": "Pronto",
+      "url": "https://open.spotify.com/track/76v3J11Zq0HwkJqQLyw7sJ"
     },
     {
       "added_at": "2022-03-28 16:49:55",
@@ -1355,26 +1379,6 @@
     {
       "added_at": "2022-03-28 16:49:55",
       "album": {
-        "name": "Pero Todo Bien",
-        "url": "https://open.spotify.com/album/1X0YxwZJFQzV3sAD93QnNg"
-      },
-      "artists": [
-        {
-          "name": "Caztro",
-          "url": "https://open.spotify.com/artist/1YvkzmaJLVRHSJ8J5YzoaW"
-        },
-        {
-          "name": "Bruses",
-          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
-        }
-      ],
-      "duration_ms": 177000,
-      "name": "Pero Todo Bien",
-      "url": "https://open.spotify.com/track/1yiJbOj2u7EEZnZfgqyRFM"
-    },
-    {
-      "added_at": "2022-03-28 16:49:55",
-      "album": {
         "name": "Thunder",
         "url": "https://open.spotify.com/album/5DphHIaiZBFZvI1epMUjMZ"
       },
@@ -1391,26 +1395,22 @@
     {
       "added_at": "2022-03-28 16:49:55",
       "album": {
-        "name": "T\u00fa S\u00ed Sabes Quererme",
-        "url": "https://open.spotify.com/album/3l1VLXgsVJQ2iBLeIkByZn"
+        "name": "Pero Todo Bien",
+        "url": "https://open.spotify.com/album/1X0YxwZJFQzV3sAD93QnNg"
       },
       "artists": [
         {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+          "name": "Caztro",
+          "url": "https://open.spotify.com/artist/1YvkzmaJLVRHSJ8J5YzoaW"
         },
         {
-          "name": "Mare Advertencia Lirika",
-          "url": "https://open.spotify.com/artist/3QVB7ctBlqEFuQZeMDt6Qh"
-        },
-        {
-          "name": "Rub\u00e9n Blades",
-          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
+          "name": "Bruses",
+          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
         }
       ],
-      "duration_ms": 268280,
-      "name": "T\u00fa S\u00ed Sabes Quererme",
-      "url": "https://open.spotify.com/track/4Y4LIwW0Wu2ofbnaz9qZVN"
+      "duration_ms": 177000,
+      "name": "Pero Todo Bien",
+      "url": "https://open.spotify.com/track/1yiJbOj2u7EEZnZfgqyRFM"
     },
     {
       "added_at": "2022-03-28 16:49:55",
@@ -1459,6 +1459,22 @@
       "duration_ms": 204500,
       "name": "Lento",
       "url": "https://open.spotify.com/track/1qjNi3E0y1RH7kTCK43W26"
+    },
+    {
+      "added_at": "2022-03-28 16:49:55",
+      "album": {
+        "name": "Natalia Lafourcade (Spotify Session)",
+        "url": "https://open.spotify.com/album/0s9tY7YgGKtTxBuWPiJFFj"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 280080,
+      "name": "Nunca Es Suficiente - Spotify Session",
+      "url": "https://open.spotify.com/track/6rYXXaxMjvHpIFfEWze5lm"
     },
     {
       "added_at": "2022-03-28 16:49:55",
@@ -1543,22 +1559,6 @@
       "duration_ms": 226106,
       "name": "Boys Don't Cry",
       "url": "https://open.spotify.com/track/2orxzsGKBr5wI7W1bY6g1A"
-    },
-    {
-      "added_at": "2022-03-28 16:49:55",
-      "album": {
-        "name": "Natalia Lafourcade (Spotify Session)",
-        "url": "https://open.spotify.com/album/0s9tY7YgGKtTxBuWPiJFFj"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 280080,
-      "name": "Nunca Es Suficiente - Spotify Session",
-      "url": "https://open.spotify.com/track/6rYXXaxMjvHpIFfEWze5lm"
     },
     {
       "added_at": "2022-03-28 16:49:55",

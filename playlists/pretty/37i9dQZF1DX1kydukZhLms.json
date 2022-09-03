@@ -1,12 +1,12 @@
 {
   "description": "A collection of the best metal ballads.",
-  "num_followers": 1068937,
+  "num_followers": 1069466,
   "original_name": "Metal Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDA0NDY0OSwwMDAwMDAwMGI5YmQyY2NiMWVjMjkyZDc4ODRiOTYzNmY2NGY0ZmYz",
+  "snapshot_id": "MTY1MDA0NDY0OSwwMDAwMDAwMGZmNTkwNDFiN2NjYWFhZWQyOTA2MWEzMGJhNDVmZmU3",
   "tracks": [
     {
       "added_at": "2022-04-15 17:44:09",
@@ -235,22 +235,6 @@
     {
       "added_at": "2022-04-15 17:44:09",
       "album": {
-        "name": "Metallica (Remastered)",
-        "url": "https://open.spotify.com/album/55fq75UfkYbGMq4CncCtOH"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 388733,
-      "name": "Nothing Else Matters (Remastered)",
-      "url": "https://open.spotify.com/track/2CtemffYhT0DJWcT1XW047"
-    },
-    {
-      "added_at": "2022-04-15 17:44:09",
-      "album": {
         "name": "F8",
         "url": "https://open.spotify.com/album/7vAcymF4feKxvqcUDzLQD2"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 190718,
       "name": "A Little Bit Off",
       "url": "https://open.spotify.com/track/6GqqGv8frU7kqzXkm2rewI"
+    },
+    {
+      "added_at": "2022-04-15 17:44:09",
+      "album": {
+        "name": "Metallica (Remastered)",
+        "url": "https://open.spotify.com/album/55fq75UfkYbGMq4CncCtOH"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 388733,
+      "name": "Nothing Else Matters (Remastered)",
+      "url": "https://open.spotify.com/track/2CtemffYhT0DJWcT1XW047"
     },
     {
       "added_at": "2022-04-15 17:44:09",
@@ -363,22 +363,6 @@
     {
       "added_at": "2022-04-15 17:44:09",
       "album": {
-        "name": "Skid Row",
-        "url": "https://open.spotify.com/album/0kSTuMp9GpX9pJR45Bksgi"
-      },
-      "artists": [
-        {
-          "name": "Skid Row",
-          "url": "https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg"
-        }
-      ],
-      "duration_ms": 229960,
-      "name": "18 and Life",
-      "url": "https://open.spotify.com/track/0qgrrDnUUhyxpxbBznUnzg"
-    },
-    {
-      "added_at": "2022-04-15 17:44:09",
-      "album": {
         "name": "War Is the Answer",
         "url": "https://open.spotify.com/album/7gjRHt4PuiDoMZmaojmTAf"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 262440,
       "name": "Bad Company",
       "url": "https://open.spotify.com/track/7uIF6RDrW2PwvvYEMkanr8"
+    },
+    {
+      "added_at": "2022-04-15 17:44:09",
+      "album": {
+        "name": "Skid Row",
+        "url": "https://open.spotify.com/album/0kSTuMp9GpX9pJR45Bksgi"
+      },
+      "artists": [
+        {
+          "name": "Skid Row",
+          "url": "https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg"
+        }
+      ],
+      "duration_ms": 229960,
+      "name": "18 and Life",
+      "url": "https://open.spotify.com/track/0qgrrDnUUhyxpxbBznUnzg"
     },
     {
       "added_at": "2022-04-15 17:44:09",
@@ -475,6 +475,22 @@
     {
       "added_at": "2022-04-15 17:44:09",
       "album": {
+        "name": "Skid Row",
+        "url": "https://open.spotify.com/album/0kSTuMp9GpX9pJR45Bksgi"
+      },
+      "artists": [
+        {
+          "name": "Skid Row",
+          "url": "https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg"
+        }
+      ],
+      "duration_ms": 313693,
+      "name": "I Remember You",
+      "url": "https://open.spotify.com/track/4ZpXHlV2vQVfPXUvbDSZ92"
+    },
+    {
+      "added_at": "2022-04-15 17:44:09",
+      "album": {
         "name": "Chinese Democracy",
         "url": "https://open.spotify.com/album/0suNLpB9xraAv1FcdlITjQ"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 271000,
       "name": "Wrong Side of Heaven",
       "url": "https://open.spotify.com/track/0gMTjqQCHmQpCqmmeCy2wP"
-    },
-    {
-      "added_at": "2022-04-15 17:44:09",
-      "album": {
-        "name": "Skid Row",
-        "url": "https://open.spotify.com/album/0kSTuMp9GpX9pJR45Bksgi"
-      },
-      "artists": [
-        {
-          "name": "Skid Row",
-          "url": "https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg"
-        }
-      ],
-      "duration_ms": 313693,
-      "name": "I Remember You",
-      "url": "https://open.spotify.com/track/4ZpXHlV2vQVfPXUvbDSZ92"
     },
     {
       "added_at": "2022-04-15 17:44:09",
@@ -991,22 +991,6 @@
     {
       "added_at": "2022-04-15 17:44:09",
       "album": {
-        "name": "Whitesnake (2018 Remaster)",
-        "url": "https://open.spotify.com/album/5drgoLSnXSDIhNK4ms3P7I"
-      },
-      "artists": [
-        {
-          "name": "Whitesnake",
-          "url": "https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP"
-        }
-      ],
-      "duration_ms": 284496,
-      "name": "Is This Love - 2018 Remaster",
-      "url": "https://open.spotify.com/track/0IhUdJRoolbYeEMPL59XPm"
-    },
-    {
-      "added_at": "2022-04-15 17:44:09",
-      "album": {
         "name": "Tooth and Nail",
         "url": "https://open.spotify.com/album/0opFMR8DprHzu1nPHhoHuL"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 262200,
       "name": "Alone Again",
       "url": "https://open.spotify.com/track/1j06ieEC2BOCM0fTmYhn2l"
+    },
+    {
+      "added_at": "2022-04-15 17:44:09",
+      "album": {
+        "name": "Whitesnake (2018 Remaster)",
+        "url": "https://open.spotify.com/album/5drgoLSnXSDIhNK4ms3P7I"
+      },
+      "artists": [
+        {
+          "name": "Whitesnake",
+          "url": "https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP"
+        }
+      ],
+      "duration_ms": 284496,
+      "name": "Is This Love - 2018 Remaster",
+      "url": "https://open.spotify.com/track/0IhUdJRoolbYeEMPL59XPm"
     },
     {
       "added_at": "2022-04-15 17:44:09",
@@ -1067,22 +1067,6 @@
       "duration_ms": 223933,
       "name": "Voice of the Soul",
       "url": "https://open.spotify.com/track/69Yia3qCLw6N9U80WhLwLn"
-    },
-    {
-      "added_at": "2022-04-15 17:44:09",
-      "album": {
-        "name": "Whitesnake (2018 Remaster)",
-        "url": "https://open.spotify.com/album/5drgoLSnXSDIhNK4ms3P7I"
-      },
-      "artists": [
-        {
-          "name": "Whitesnake",
-          "url": "https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP"
-        }
-      ],
-      "duration_ms": 397768,
-      "name": "Still of the Night - 2018 Remaster",
-      "url": "https://open.spotify.com/track/40GS2O35HIqhOVCFZZTfFF"
     },
     {
       "added_at": "2022-04-15 17:44:09",
@@ -1211,6 +1195,22 @@
     {
       "added_at": "2022-04-15 17:44:09",
       "album": {
+        "name": "Whitesnake (2018 Remaster)",
+        "url": "https://open.spotify.com/album/5drgoLSnXSDIhNK4ms3P7I"
+      },
+      "artists": [
+        {
+          "name": "Whitesnake",
+          "url": "https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP"
+        }
+      ],
+      "duration_ms": 397768,
+      "name": "Still of the Night - 2018 Remaster",
+      "url": "https://open.spotify.com/track/40GS2O35HIqhOVCFZZTfFF"
+    },
+    {
+      "added_at": "2022-04-15 17:44:09",
+      "album": {
         "name": "Adrenalize (Deluxe)",
         "url": "https://open.spotify.com/album/0X1muonPHLSGzU6g3dZx7M"
       },
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2022-04-15 17:44:09",
       "album": {
+        "name": "Prequelle",
+        "url": "https://open.spotify.com/album/1KMfjy6MmPorahRjxhTnxm"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "duration_ms": 207120,
+      "name": "Life Eternal",
+      "url": "https://open.spotify.com/track/7qkKJFIYBsLEVOjgAwqTlz"
+    },
+    {
+      "added_at": "2022-04-15 17:44:09",
+      "album": {
         "name": "Ordinary Man (feat. Elton John)",
         "url": "https://open.spotify.com/album/39yp6JEfOhqVEpCiy6i6M3"
       },
@@ -1295,22 +1311,6 @@
     {
       "added_at": "2022-04-15 17:44:09",
       "album": {
-        "name": "Karmacode",
-        "url": "https://open.spotify.com/album/7rMen6gw9hrmDuZNH1iUfT"
-      },
-      "artists": [
-        {
-          "name": "Lacuna Coil",
-          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
-        }
-      ],
-      "duration_ms": 245573,
-      "name": "Enjoy the Silence - cover version",
-      "url": "https://open.spotify.com/track/71KtwiEpzcn9WxwlaS7ZJY"
-    },
-    {
-      "added_at": "2022-04-15 17:44:09",
-      "album": {
         "name": "Slave to the Grind",
         "url": "https://open.spotify.com/album/0AiXcZbksZoX2pSe2384Z3"
       },
@@ -1323,6 +1323,22 @@
       "duration_ms": 348800,
       "name": "Wasted Time",
       "url": "https://open.spotify.com/track/4BAhIRDG9GNeMvcigDKF7L"
+    },
+    {
+      "added_at": "2022-04-15 17:44:09",
+      "album": {
+        "name": "Karmacode",
+        "url": "https://open.spotify.com/album/7rMen6gw9hrmDuZNH1iUfT"
+      },
+      "artists": [
+        {
+          "name": "Lacuna Coil",
+          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
+        }
+      ],
+      "duration_ms": 245573,
+      "name": "Enjoy the Silence - cover version",
+      "url": "https://open.spotify.com/track/71KtwiEpzcn9WxwlaS7ZJY"
     },
     {
       "added_at": "2022-04-15 17:44:09",
@@ -1355,22 +1371,6 @@
       "duration_ms": 274615,
       "name": "Blue on Black",
       "url": "https://open.spotify.com/track/1ADRAy7q7FjRak0uQva68H"
-    },
-    {
-      "added_at": "2022-04-15 17:44:09",
-      "album": {
-        "name": "Prequelle",
-        "url": "https://open.spotify.com/album/1KMfjy6MmPorahRjxhTnxm"
-      },
-      "artists": [
-        {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
-        }
-      ],
-      "duration_ms": 207120,
-      "name": "Life Eternal",
-      "url": "https://open.spotify.com/track/7qkKJFIYBsLEVOjgAwqTlz"
     },
     {
       "added_at": "2022-04-15 17:44:09",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2022-04-15 17:44:09",
       "album": {
-        "name": "Girls, Girls, Girls (40th Anniversary) [2021 - Remaster]",
-        "url": "https://open.spotify.com/album/3x7xYMkpgXRjSjgtykeHY0"
-      },
-      "artists": [
-        {
-          "name": "M\u00f6tley Cr\u00fce",
-          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
-        }
-      ],
-      "duration_ms": 273800,
-      "name": "You're All I Need - 2021 - Remaster",
-      "url": "https://open.spotify.com/track/2aLLt6mqBrPO1gnwTju82L"
-    },
-    {
-      "added_at": "2022-04-15 17:44:09",
-      "album": {
         "name": "Set Me Free",
         "url": "https://open.spotify.com/album/0QKfHcNAjUqQo6PyQrGPk9"
       },
@@ -1723,6 +1707,22 @@
       "duration_ms": 381200,
       "name": "Set Me Free",
       "url": "https://open.spotify.com/track/2IrdmiRatVE5s3l2YRcIXH"
+    },
+    {
+      "added_at": "2022-04-15 17:44:09",
+      "album": {
+        "name": "Girls, Girls, Girls (40th Anniversary) [2021 - Remaster]",
+        "url": "https://open.spotify.com/album/3x7xYMkpgXRjSjgtykeHY0"
+      },
+      "artists": [
+        {
+          "name": "M\u00f6tley Cr\u00fce",
+          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
+        }
+      ],
+      "duration_ms": 273800,
+      "name": "You're All I Need - 2021 - Remaster",
+      "url": "https://open.spotify.com/track/2aLLt6mqBrPO1gnwTju82L"
     },
     {
       "added_at": "2022-04-15 17:44:09",

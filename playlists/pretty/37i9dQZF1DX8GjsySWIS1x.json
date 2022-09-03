@@ -1,13 +1,29 @@
 {
   "description": "The latest in gamer music.",
-  "num_followers": 981094,
+  "num_followers": 978809,
   "original_name": "Now Loading",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTUyOTk5OCwwMDAwMDAwMDZmNzZhY2MxMjBlZjhlMjRhZDA5YjE4YjA4YWQ0Yzcx",
+  "snapshot_id": "MTY2MjE0NzAyMywwMDAwMDAwMDYxYWQ0NTU1MmMzZmJmNWJlOTkxYmQ5MTU5MzVmMDE4",
   "tracks": [
+    {
+      "added_at": "2022-09-02 19:30:23",
+      "album": {
+        "name": "Lonely King",
+        "url": "https://open.spotify.com/album/4yRPqkgGjI8792xSBU4PvM"
+      },
+      "artists": [
+        {
+          "name": "CG5",
+          "url": "https://open.spotify.com/artist/3YJDqtTSjydvUpTvU1fJ6O"
+        }
+      ],
+      "duration_ms": 196612,
+      "name": "Lonely King",
+      "url": "https://open.spotify.com/track/6xkkNUxwMGoGHUE9bewC4O"
+    },
     {
       "added_at": "2022-07-28 15:31:40",
       "album": {

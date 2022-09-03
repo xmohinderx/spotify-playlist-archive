@@ -1,12 +1,12 @@
 {
   "description": "Unwind and let the afternoon unfold.",
-  "num_followers": 2333411,
+  "num_followers": 2333372,
   "original_name": "Afternoon Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzOTA4OTEwNSwwMDAwMDAwMDViYTE1ZTkyYWUyODdlMDIyZDE2ODhhNDVjYWFmZjli",
+  "snapshot_id": "MTYzOTA4OTEwNSwwMDAwMDAwMDRlODljN2VhMjJkNzUyN2U5MDkzYzI4Y2ZiMDI5ODhm",
   "tracks": [
     {
       "added_at": "2021-09-02 16:19:31",
@@ -315,18 +315,18 @@
     {
       "added_at": "2021-09-02 16:19:31",
       "album": {
-        "name": "Time Without Consequence",
-        "url": "https://open.spotify.com/album/3hQQHMrHUbkCokIf8PmcEU"
+        "name": "You and Me for Now",
+        "url": "https://open.spotify.com/album/5KPl7k36JzLxe4bisDG8S4"
       },
       "artists": [
         {
-          "name": "Alexi Murdoch",
-          "url": "https://open.spotify.com/artist/25mrbNwFzoqPWyYXLhiDRw"
+          "name": "Austin Basham",
+          "url": "https://open.spotify.com/artist/3Dd1WVQvZUgyi9XEqOIPhA"
         }
       ],
-      "duration_ms": 297120,
-      "name": "All My Days",
-      "url": "https://open.spotify.com/track/3RPerpXuNznZbCuWYEBz5i"
+      "duration_ms": 256680,
+      "name": "All Is Well",
+      "url": "https://open.spotify.com/track/3KAQ4xe2sR6IiltZw8HSA5"
     },
     {
       "added_at": "2021-09-02 16:19:31",
@@ -347,18 +347,18 @@
     {
       "added_at": "2021-09-02 16:19:31",
       "album": {
-        "name": "You and Me for Now",
-        "url": "https://open.spotify.com/album/5KPl7k36JzLxe4bisDG8S4"
+        "name": "Time Without Consequence",
+        "url": "https://open.spotify.com/album/3hQQHMrHUbkCokIf8PmcEU"
       },
       "artists": [
         {
-          "name": "Austin Basham",
-          "url": "https://open.spotify.com/artist/3Dd1WVQvZUgyi9XEqOIPhA"
+          "name": "Alexi Murdoch",
+          "url": "https://open.spotify.com/artist/25mrbNwFzoqPWyYXLhiDRw"
         }
       ],
-      "duration_ms": 256680,
-      "name": "All Is Well",
-      "url": "https://open.spotify.com/track/3KAQ4xe2sR6IiltZw8HSA5"
+      "duration_ms": 297120,
+      "name": "All My Days",
+      "url": "https://open.spotify.com/track/3RPerpXuNznZbCuWYEBz5i"
     },
     {
       "added_at": "2021-09-02 16:19:31",
@@ -479,6 +479,22 @@
     {
       "added_at": "2021-09-02 16:19:31",
       "album": {
+        "name": "Colder Heavens EP",
+        "url": "https://open.spotify.com/album/5OxtmtnqvwogIYMdo2h4eQ"
+      },
+      "artists": [
+        {
+          "name": "Blanco White",
+          "url": "https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5"
+        }
+      ],
+      "duration_ms": 273893,
+      "name": "Colder Heavens",
+      "url": "https://open.spotify.com/track/1wwKY8ICsV9wiCFMpdhPrr"
+    },
+    {
+      "added_at": "2021-09-02 16:19:31",
+      "album": {
         "name": "The Breach EP",
         "url": "https://open.spotify.com/album/62rRQnbxkzsFxFYHQSXSwR"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 281180,
       "name": "Fall, Fall, Fall",
       "url": "https://open.spotify.com/track/4MEhUxj35YRT7mqMaJgcWB"
-    },
-    {
-      "added_at": "2021-09-02 16:19:31",
-      "album": {
-        "name": "Colder Heavens EP",
-        "url": "https://open.spotify.com/album/5OxtmtnqvwogIYMdo2h4eQ"
-      },
-      "artists": [
-        {
-          "name": "Blanco White",
-          "url": "https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5"
-        }
-      ],
-      "duration_ms": 273893,
-      "name": "Colder Heavens",
-      "url": "https://open.spotify.com/track/1wwKY8ICsV9wiCFMpdhPrr"
     },
     {
       "added_at": "2021-09-02 16:19:31",
@@ -575,6 +575,22 @@
     {
       "added_at": "2021-09-02 16:19:31",
       "album": {
+        "name": "Not Nearly Dark",
+        "url": "https://open.spotify.com/album/6kUNN69mPV5AxDEyypv6hB"
+      },
+      "artists": [
+        {
+          "name": "Ciaran Lavery",
+          "url": "https://open.spotify.com/artist/7zOuMHqRJ6YOMnCGpLfuTU"
+        }
+      ],
+      "duration_ms": 251960,
+      "name": "Shame",
+      "url": "https://open.spotify.com/track/1d39v4V4DmrrLiFX4DKHBv"
+    },
+    {
+      "added_at": "2021-09-02 16:19:31",
+      "album": {
         "name": "See the World",
         "url": "https://open.spotify.com/album/4mWXndqtN0KU5ndYussdyK"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 295265,
       "name": "Warped Window",
       "url": "https://open.spotify.com/track/7jd2h2mIeyKpqkFsrl5EHN"
-    },
-    {
-      "added_at": "2021-09-02 16:19:31",
-      "album": {
-        "name": "Not Nearly Dark",
-        "url": "https://open.spotify.com/album/6kUNN69mPV5AxDEyypv6hB"
-      },
-      "artists": [
-        {
-          "name": "Ciaran Lavery",
-          "url": "https://open.spotify.com/artist/7zOuMHqRJ6YOMnCGpLfuTU"
-        }
-      ],
-      "duration_ms": 251960,
-      "name": "Shame",
-      "url": "https://open.spotify.com/track/1d39v4V4DmrrLiFX4DKHBv"
     },
     {
       "added_at": "2021-09-02 16:19:31",
@@ -803,22 +803,6 @@
     {
       "added_at": "2021-09-02 16:19:31",
       "album": {
-        "name": "And It\u2019s Still Alright",
-        "url": "https://open.spotify.com/album/2bWrnSJNyGevb1pr2VYEGW"
-      },
-      "artists": [
-        {
-          "name": "Nathaniel Rateliff",
-          "url": "https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79"
-        }
-      ],
-      "duration_ms": 232866,
-      "name": "Time Stands",
-      "url": "https://open.spotify.com/track/1U2ahyThq23V2R7rgfOSRr"
-    },
-    {
-      "added_at": "2021-09-02 16:19:31",
-      "album": {
         "name": "Surrender",
         "url": "https://open.spotify.com/album/5FWqyyldyosXvAYesblpb5"
       },
@@ -835,18 +819,18 @@
     {
       "added_at": "2021-09-02 16:19:31",
       "album": {
-        "name": "Good Woman",
-        "url": "https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl"
+        "name": "And It\u2019s Still Alright",
+        "url": "https://open.spotify.com/album/2bWrnSJNyGevb1pr2VYEGW"
       },
       "artists": [
         {
-          "name": "The Staves",
-          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
+          "name": "Nathaniel Rateliff",
+          "url": "https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79"
         }
       ],
-      "duration_ms": 216746,
-      "name": "Nothing\u2019s Gonna Happen",
-      "url": "https://open.spotify.com/track/4WM5HfHQZ0N4o8HDNwRmRk"
+      "duration_ms": 232866,
+      "name": "Time Stands",
+      "url": "https://open.spotify.com/track/1U2ahyThq23V2R7rgfOSRr"
     },
     {
       "added_at": "2021-09-02 16:19:31",
@@ -863,6 +847,22 @@
       "duration_ms": 171576,
       "name": "Whiskey Whiskey",
       "url": "https://open.spotify.com/track/0c1rlIZao3TFvRWKBig16H"
+    },
+    {
+      "added_at": "2021-09-02 16:19:31",
+      "album": {
+        "name": "Good Woman",
+        "url": "https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl"
+      },
+      "artists": [
+        {
+          "name": "The Staves",
+          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
+        }
+      ],
+      "duration_ms": 216746,
+      "name": "Nothing\u2019s Gonna Happen",
+      "url": "https://open.spotify.com/track/4WM5HfHQZ0N4o8HDNwRmRk"
     },
     {
       "added_at": "2021-09-02 16:19:31",
@@ -915,6 +915,22 @@
     {
       "added_at": "2021-09-02 16:19:31",
       "album": {
+        "name": "Vacancy",
+        "url": "https://open.spotify.com/album/3HTmh4jyCRfi8wjlxmm8uL"
+      },
+      "artists": [
+        {
+          "name": "Aisha Badru",
+          "url": "https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK"
+        }
+      ],
+      "duration_ms": 152960,
+      "name": "Waiting Around - Acoustic",
+      "url": "https://open.spotify.com/track/6fWBQnyz8GrH0neN1IsBRc"
+    },
+    {
+      "added_at": "2021-09-02 16:19:31",
+      "album": {
         "name": "Wildewoman (Expanded Edition)",
         "url": "https://open.spotify.com/album/2CphcTXBge3BKqAHeuNUUK"
       },
@@ -943,22 +959,6 @@
       "duration_ms": 233084,
       "name": "Lights Off",
       "url": "https://open.spotify.com/track/13lJLkkTyqbiAZbEJ0aSBd"
-    },
-    {
-      "added_at": "2021-09-02 16:19:31",
-      "album": {
-        "name": "Vacancy",
-        "url": "https://open.spotify.com/album/3HTmh4jyCRfi8wjlxmm8uL"
-      },
-      "artists": [
-        {
-          "name": "Aisha Badru",
-          "url": "https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK"
-        }
-      ],
-      "duration_ms": 152960,
-      "name": "Waiting Around - Acoustic",
-      "url": "https://open.spotify.com/track/6fWBQnyz8GrH0neN1IsBRc"
     },
     {
       "added_at": "2021-09-02 16:19:31",
@@ -999,18 +999,18 @@
     {
       "added_at": "2021-09-02 16:19:31",
       "album": {
-        "name": "On Hold",
-        "url": "https://open.spotify.com/album/1uvisLwZwDzXoMhbk9POzZ"
+        "name": "Beulah",
+        "url": "https://open.spotify.com/album/21hpzo9hs56n3Rh8KvslmI"
       },
       "artists": [
         {
-          "name": "Fenne Lily",
-          "url": "https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext"
+          "name": "John Paul White",
+          "url": "https://open.spotify.com/artist/1yDI9pWnlrJmi9kZn3gkCb"
         }
       ],
-      "duration_ms": 216252,
-      "name": "Top to Toe",
-      "url": "https://open.spotify.com/track/3Dtg7OR2EYGI5zZuuRpFKT"
+      "duration_ms": 243012,
+      "name": "Hate The Way You Love Me",
+      "url": "https://open.spotify.com/track/2ICMOgpboUzD1EcxkUS9qz"
     },
     {
       "added_at": "2021-09-02 16:19:31",
@@ -1031,18 +1031,18 @@
     {
       "added_at": "2021-09-02 16:19:31",
       "album": {
-        "name": "Beulah",
-        "url": "https://open.spotify.com/album/21hpzo9hs56n3Rh8KvslmI"
+        "name": "On Hold",
+        "url": "https://open.spotify.com/album/1uvisLwZwDzXoMhbk9POzZ"
       },
       "artists": [
         {
-          "name": "John Paul White",
-          "url": "https://open.spotify.com/artist/1yDI9pWnlrJmi9kZn3gkCb"
+          "name": "Fenne Lily",
+          "url": "https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext"
         }
       ],
-      "duration_ms": 243012,
-      "name": "Hate The Way You Love Me",
-      "url": "https://open.spotify.com/track/2ICMOgpboUzD1EcxkUS9qz"
+      "duration_ms": 216252,
+      "name": "Top to Toe",
+      "url": "https://open.spotify.com/track/3Dtg7OR2EYGI5zZuuRpFKT"
     },
     {
       "added_at": "2021-09-02 16:19:31",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2021-09-02 16:19:31",
       "album": {
-        "name": "Dressed in Roses",
-        "url": "https://open.spotify.com/album/0qdMxhmhBONYgZJEbQiYjG"
-      },
-      "artists": [
-        {
-          "name": "Barbaro",
-          "url": "https://open.spotify.com/artist/56xyoM0kp95h5kVkAjoOMq"
-        }
-      ],
-      "duration_ms": 206013,
-      "name": "Barbaro",
-      "url": "https://open.spotify.com/track/3ftFR3uG7hCJJ7kQOlSAlg"
-    },
-    {
-      "added_at": "2021-09-02 16:19:31",
-      "album": {
         "name": "Hazard & Fate",
         "url": "https://open.spotify.com/album/2QMo0JFkV5YMSDmwDGR4jX"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 213360,
       "name": "Blind in the Fray",
       "url": "https://open.spotify.com/track/6SjG7HZ8R5jnz6HOdxIFS0"
+    },
+    {
+      "added_at": "2021-09-02 16:19:31",
+      "album": {
+        "name": "Dressed in Roses",
+        "url": "https://open.spotify.com/album/0qdMxhmhBONYgZJEbQiYjG"
+      },
+      "artists": [
+        {
+          "name": "Barbaro",
+          "url": "https://open.spotify.com/artist/56xyoM0kp95h5kVkAjoOMq"
+        }
+      ],
+      "duration_ms": 206013,
+      "name": "Barbaro",
+      "url": "https://open.spotify.com/track/3ftFR3uG7hCJJ7kQOlSAlg"
     },
     {
       "added_at": "2021-09-02 16:19:31",
@@ -1437,20 +1437,36 @@
       "url": "https://open.spotify.com/track/5NEitA75GDKDOET1k83LQw"
     },
     {
-      "added_at": "2021-09-02 16:19:31",
+      "added_at": "2021-12-09 22:31:45",
       "album": {
-        "name": "Waiting",
-        "url": "https://open.spotify.com/album/1mtoKw1qiU13YdQkz5vgEe"
+        "name": "Eyes Wide Open (From \"North Star\")",
+        "url": "https://open.spotify.com/album/2YYpuK6nOd6KJap8X7vzHe"
       },
       "artists": [
         {
-          "name": "James Vincent McMorrow",
-          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
+          "name": "Blanco White",
+          "url": "https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5"
         }
       ],
-      "duration_ms": 212634,
-      "name": "Waiting",
-      "url": "https://open.spotify.com/track/5vnEI7lOTPqulXqBuV7o3w"
+      "duration_ms": 195840,
+      "name": "Eyes Wide Open - From \"North Star\"",
+      "url": "https://open.spotify.com/track/1xkFLx2HwziUgjXrC0Jhw6"
+    },
+    {
+      "added_at": "2021-09-02 16:19:31",
+      "album": {
+        "name": "Open Season (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4F5s7tDOWFCgozxJg0o8Rw"
+      },
+      "artists": [
+        {
+          "name": "High Highs",
+          "url": "https://open.spotify.com/artist/1cXVTtkpqSXVhyD32f9MS4"
+        }
+      ],
+      "duration_ms": 150521,
+      "name": "Bridge",
+      "url": "https://open.spotify.com/track/2HLd7alxKkXHU2KmbGUUVm"
     },
     {
       "added_at": "2021-09-02 16:19:31",
@@ -1471,34 +1487,18 @@
     {
       "added_at": "2021-09-02 16:19:31",
       "album": {
-        "name": "Open Season (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4F5s7tDOWFCgozxJg0o8Rw"
+        "name": "Waiting",
+        "url": "https://open.spotify.com/album/1mtoKw1qiU13YdQkz5vgEe"
       },
       "artists": [
         {
-          "name": "High Highs",
-          "url": "https://open.spotify.com/artist/1cXVTtkpqSXVhyD32f9MS4"
+          "name": "James Vincent McMorrow",
+          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
         }
       ],
-      "duration_ms": 150521,
-      "name": "Bridge",
-      "url": "https://open.spotify.com/track/2HLd7alxKkXHU2KmbGUUVm"
-    },
-    {
-      "added_at": "2021-12-09 22:31:45",
-      "album": {
-        "name": "Eyes Wide Open (From \"North Star\")",
-        "url": "https://open.spotify.com/album/2YYpuK6nOd6KJap8X7vzHe"
-      },
-      "artists": [
-        {
-          "name": "Blanco White",
-          "url": "https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5"
-        }
-      ],
-      "duration_ms": 195840,
-      "name": "Eyes Wide Open - From \"North Star\"",
-      "url": "https://open.spotify.com/track/1xkFLx2HwziUgjXrC0Jhw6"
+      "duration_ms": 212634,
+      "name": "Waiting",
+      "url": "https://open.spotify.com/track/5vnEI7lOTPqulXqBuV7o3w"
     },
     {
       "added_at": "2021-09-02 16:19:31",
@@ -1519,6 +1519,22 @@
       "duration_ms": 210546,
       "name": "Seed of Joy",
       "url": "https://open.spotify.com/track/6kUQwpX1ogl5inar6fE3bx"
+    },
+    {
+      "added_at": "2021-09-02 16:19:31",
+      "album": {
+        "name": "Bluebird",
+        "url": "https://open.spotify.com/album/6vGalAgGwYwgFhENJOeFuN"
+      },
+      "artists": [
+        {
+          "name": "Dawn Landes",
+          "url": "https://open.spotify.com/artist/1wvqnNcuPa2TpcFvfh3co5"
+        }
+      ],
+      "duration_ms": 182374,
+      "name": "Try to Make a Fire Burn Again",
+      "url": "https://open.spotify.com/track/7BIcO9nvZ2AdIfhZcXnTS7"
     },
     {
       "added_at": "2021-09-02 16:19:31",
@@ -1555,22 +1571,6 @@
       "duration_ms": 251184,
       "name": "Fever To The Form",
       "url": "https://open.spotify.com/track/7xbF5Nf1iKYmwvD9EWhJav"
-    },
-    {
-      "added_at": "2021-09-02 16:19:31",
-      "album": {
-        "name": "Bluebird",
-        "url": "https://open.spotify.com/album/6vGalAgGwYwgFhENJOeFuN"
-      },
-      "artists": [
-        {
-          "name": "Dawn Landes",
-          "url": "https://open.spotify.com/artist/1wvqnNcuPa2TpcFvfh3co5"
-        }
-      ],
-      "duration_ms": 182374,
-      "name": "Try to Make a Fire Burn Again",
-      "url": "https://open.spotify.com/track/7BIcO9nvZ2AdIfhZcXnTS7"
     },
     {
       "added_at": "2021-09-02 16:19:31",

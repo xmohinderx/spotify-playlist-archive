@@ -2,7 +2,7 @@
 
 ### [Jazz in the Background](https://open.spotify.com/playlist/37i9dQZF1DWV7EzJMK2FUI)
 
-> Soft Jazz for all your activities.
+> Soft instrumental Jazz for all your activities.
 
 394 songs - 1 day 1 hr 26 min - [published](https://open.spotify.com/playlist/3hbeRaU9aWtabNnfOymGvN)
 

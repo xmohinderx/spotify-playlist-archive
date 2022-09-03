@@ -343,10 +343,28 @@
       ],
       "date_added": "2021-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 60801,
       "name": "Baa Baa Black Sheep",
       "url": "https://open.spotify.com/track/4WDlK8ycKUkpE6lKwcyV13"
+    },
+    {
+      "album": {
+        "name": "Baa Baa Black Sheep",
+        "url": "https://open.spotify.com/album/5aea2HslOYnLvp6XKmo65o"
+      },
+      "artists": [
+        {
+          "name": "Sophia's Piano",
+          "url": "https://open.spotify.com/artist/4O76WaBpfNBk8l0Ly6Y12J"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114091,
+      "name": "Baa Baa Black Sheep",
+      "url": "https://open.spotify.com/track/2PqiCiWnloBwbtRDopvSZU"
     },
     {
       "album": {
@@ -1063,7 +1081,7 @@
       ],
       "date_added": "2021-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 155859,
       "name": "Danny Boy",
       "url": "https://open.spotify.com/track/6ZWGT0MAscrYavht0RCHaY"
@@ -2539,7 +2557,7 @@
       ],
       "date_added": "2021-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 148996,
       "name": "If You're Happy and You Know It",
       "url": "https://open.spotify.com/track/0bVX8bwBnbAiuQI7JOte86"
@@ -2773,7 +2791,7 @@
       ],
       "date_added": "2021-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 85624,
       "name": "Kiro's Bedtime",
       "url": "https://open.spotify.com/track/3YVCitcIC16xvzxnvnToxf"
@@ -3943,7 +3961,7 @@
       ],
       "date_added": "2021-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 138321,
       "name": "Oh! Susanna",
       "url": "https://open.spotify.com/track/4BTJpnBQdOVcILo8LdPAdj"
@@ -3961,7 +3979,7 @@
       ],
       "date_added": "2021-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 184868,
       "name": "Old MacDonald Had a Farm",
       "url": "https://open.spotify.com/track/3FbKnCRNzHwIudovtaKa7x"
@@ -4717,7 +4735,7 @@
       ],
       "date_added": "2021-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 125191,
       "name": "Sleep Tight",
       "url": "https://open.spotify.com/track/7MfRBacWFWDgX7ETHRVbyJ"
@@ -4829,6 +4847,24 @@
       "duration_ms": 116000,
       "name": "Sleepy Land",
       "url": "https://open.spotify.com/track/5uLDHN6Lbh7fDbFDxDyCSv"
+    },
+    {
+      "album": {
+        "name": "Sleepy Prelude",
+        "url": "https://open.spotify.com/album/6uA3XQQ8bOF5jXYtESBnpj"
+      },
+      "artists": [
+        {
+          "name": "Goodwin Hart",
+          "url": "https://open.spotify.com/artist/0ZhiIKLSPHpPBu3760ZI7E"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139125,
+      "name": "Sleepy Prelude",
+      "url": "https://open.spotify.com/track/3BLNQFQVWbDcbJLsxKynX6"
     },
     {
       "album": {
@@ -5059,7 +5095,7 @@
       ],
       "date_added": "2021-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 108932,
       "name": "Stay Awake",
       "url": "https://open.spotify.com/track/3TlnOqKkYPNDl4bxvS5RaB"
@@ -5329,7 +5365,7 @@
       ],
       "date_added": "2021-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 135020,
       "name": "The More We Get Together",
       "url": "https://open.spotify.com/track/1SGEkhOnL90QTGbH0hmKyK"
@@ -5671,7 +5707,7 @@
       ],
       "date_added": "2021-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 119601,
       "name": "Three Blind Mice",
       "url": "https://open.spotify.com/track/1Wx5XPMuQX9VHkEathTyL0"
@@ -5815,7 +5851,7 @@
       ],
       "date_added": "2021-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 198000,
       "name": "Tomorrow",
       "url": "https://open.spotify.com/track/3ansqkO7A68z6xDhErpKpi"
@@ -6035,6 +6071,24 @@
       "duration_ms": 92250,
       "name": "Vamos a contar ovejitas",
       "url": "https://open.spotify.com/track/6UXZ2Fzza4SeItUopvNdCI"
+    },
+    {
+      "album": {
+        "name": "Weightless Sleep",
+        "url": "https://open.spotify.com/album/5yQCAsPHnjxMhaKGKLs8Ax"
+      },
+      "artists": [
+        {
+          "name": "Goodnight sweetheart",
+          "url": "https://open.spotify.com/artist/3hVfERu6fWfKySpoHenfnp"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139442,
+      "name": "Weightless Sleep",
+      "url": "https://open.spotify.com/track/1BA6K5gxk0oGldorRcH6gG"
     },
     {
       "album": {

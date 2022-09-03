@@ -2528,6 +2528,24 @@
     },
     {
       "album": {
+        "name": "Milestone",
+        "url": "https://open.spotify.com/album/1WZzoVlzSUTxrfa5ApTHw9"
+      },
+      "artists": [
+        {
+          "name": "Michelle Wright",
+          "url": "https://open.spotify.com/artist/1Kp8PxFfeU5CFHkITQF9sY"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242751,
+      "name": "Take It Like a Man",
+      "url": "https://open.spotify.com/track/4tUzsCOYbYhyj0x064W37G"
+    },
+    {
+      "album": {
         "name": "All American Texan",
         "url": "https://open.spotify.com/album/0lQ8btmxplIW9B8vVGHOti"
       },

@@ -1032,6 +1032,24 @@
     },
     {
       "album": {
+        "name": "Candy",
+        "url": "https://open.spotify.com/album/38oI19U6Dm87afeEMF5f9N"
+      },
+      "artists": [
+        {
+          "name": "Ada Vula",
+          "url": "https://open.spotify.com/artist/79KlmpJEbaL2Eif2lceNLv"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106532,
+      "name": "Candy",
+      "url": "https://open.spotify.com/track/6JD16eoMFjKNU9OVmSL2eq"
+    },
+    {
+      "album": {
         "name": "Carpo",
         "url": "https://open.spotify.com/album/0PjCTfG71aDSibVzzseWmo"
       },
@@ -2397,7 +2415,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 173270,
       "name": "Fine Wine",
       "url": "https://open.spotify.com/track/5amlvBPMvmgPxxcJhkpXHN"
@@ -2667,7 +2685,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 112460,
       "name": "Gelato 33",
       "url": "https://open.spotify.com/track/3Gzs37SLuzINUby4IAD0Hs"
@@ -3061,7 +3079,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 130666,
       "name": "Hello, Hi",
       "url": "https://open.spotify.com/track/5W3FAOOcBGlhyS14THQvPC"
@@ -3101,7 +3119,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 98666,
       "name": "Highly Blessed",
       "url": "https://open.spotify.com/track/6JdfFM5WBrLpLDJ6p5aiEi"
@@ -3445,7 +3463,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 91304,
       "name": "Is It Summer Yet?",
       "url": "https://open.spotify.com/track/5Ay3j13L32nercEHUNTQCd"
@@ -3485,6 +3503,24 @@
       "duration_ms": 174695,
       "name": "It Was One Look Into Your Eyes",
       "url": "https://open.spotify.com/track/6SzTq1f5TBnJ0RE4QDw52J"
+    },
+    {
+      "album": {
+        "name": "Jay",
+        "url": "https://open.spotify.com/album/3Iu3hTlA1SEuWkPddLJxb1"
+      },
+      "artists": [
+        {
+          "name": "Lukrembo",
+          "url": "https://open.spotify.com/artist/2mvFGnu3tPO49WSrFZ4zVR"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "Jay",
+      "url": "https://open.spotify.com/track/5GEJovN72R9nDWb4xUXk9o"
     },
     {
       "album": {
@@ -3780,6 +3816,24 @@
     },
     {
       "album": {
+        "name": "Lantana",
+        "url": "https://open.spotify.com/album/5UNOpQ3MBnoqtzUWQLKYYl"
+      },
+      "artists": [
+        {
+          "name": "Rooey",
+          "url": "https://open.spotify.com/artist/5y2hfguiOBZAN1WUEyi2cv"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180824,
+      "name": "Lantana",
+      "url": "https://open.spotify.com/track/2FoFXdEp7Vq0F6WnX5C2pp"
+    },
+    {
+      "album": {
         "name": "Last Call 2",
         "url": "https://open.spotify.com/album/7d4zf1MRpZTrUx0RWqCV05"
       },
@@ -3827,7 +3881,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 147000,
       "name": "Late Night Jam",
       "url": "https://open.spotify.com/track/73yXOxZAK9FymtlXDfLVnR"
@@ -3969,6 +4023,24 @@
       "duration_ms": 153600,
       "name": "Lemon Ginger",
       "url": "https://open.spotify.com/track/5YWNeJW5s40JgHGFiNhFh2"
+    },
+    {
+      "album": {
+        "name": "Magicos",
+        "url": "https://open.spotify.com/album/1ji6VCa1jsz9wQ6cTX5Y0E"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Flecci",
+          "url": "https://open.spotify.com/artist/4gJKWV189rb49Y9vvWmk3S"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123000,
+      "name": "Lepricorn Ride",
+      "url": "https://open.spotify.com/track/2YO5oyN7TcyRMlytlKxLmr"
     },
     {
       "album": {
@@ -4157,7 +4229,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 124807,
       "name": "Long Walks",
       "url": "https://open.spotify.com/track/4CUcBdtk6vfz1AEantq8Yh"
@@ -5435,7 +5507,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 90946,
       "name": "Out The Blue - Beat Edit",
       "url": "https://open.spotify.com/track/0C0YfH9QJ0vh0p4yQyjZyU"
@@ -5691,7 +5763,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 192000,
       "name": "Phosph\u00e8nes",
       "url": "https://open.spotify.com/track/1ohIti2QiujiW8jVFYn2mJ"
@@ -6031,6 +6103,24 @@
       "duration_ms": 129229,
       "name": "Purple Dye",
       "url": "https://open.spotify.com/track/3vVMkpipMN0Ps0SBixQDmQ"
+    },
+    {
+      "album": {
+        "name": "purple growth",
+        "url": "https://open.spotify.com/album/62gXgpJMgOYFirMW4N6KvK"
+      },
+      "artists": [
+        {
+          "name": "chilliance",
+          "url": "https://open.spotify.com/artist/6C1x6L8cNFWEw8fbnocXZC"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168199,
+      "name": "purple growth",
+      "url": "https://open.spotify.com/track/2pWoOr9umRytPP9jfQUD4K"
     },
     {
       "album": {
@@ -6772,6 +6862,24 @@
     },
     {
       "album": {
+        "name": "silly me",
+        "url": "https://open.spotify.com/album/68WtH1tl9o9QSmEH3q5WKt"
+      },
+      "artists": [
+        {
+          "name": "titicon",
+          "url": "https://open.spotify.com/artist/5v5Qkgl02bizOecA6OY7p3"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90360,
+      "name": "silly me",
+      "url": "https://open.spotify.com/track/1Bl2RqLfN5V3uCTpcWl7Bn"
+    },
+    {
+      "album": {
         "name": "Since Day One",
         "url": "https://open.spotify.com/album/1QONCSqPzW2G1jXI1eVqH6"
       },
@@ -6841,6 +6949,24 @@
       "duration_ms": 128181,
       "name": "slow breath",
       "url": "https://open.spotify.com/track/3Zg7CJ3QSfkT5JYnQgBfJD"
+    },
+    {
+      "album": {
+        "name": "Slowdown",
+        "url": "https://open.spotify.com/album/4BIBrBkF0tGLUsid8qR738"
+      },
+      "artists": [
+        {
+          "name": "landq",
+          "url": "https://open.spotify.com/artist/1RbHqyLEOuXC9fy1me1VFJ"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129863,
+      "name": "Slowdown",
+      "url": "https://open.spotify.com/track/2IpmQO6mPAmx3StyIDpqKe"
     },
     {
       "album": {
@@ -6949,7 +7075,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 266100,
       "name": "Soft Lad",
       "url": "https://open.spotify.com/track/2gyXrVDU4SGXqpCRcXbZid"
@@ -7293,7 +7419,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 161853,
       "name": "Stonecutter",
       "url": "https://open.spotify.com/track/6sA23FIxsg4TmejPXSaAXM"
@@ -7637,7 +7763,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 137448,
       "name": "Swing Set",
       "url": "https://open.spotify.com/track/6NvN5QdlI7GItnKdhvtrwG"
@@ -7713,7 +7839,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 139130,
       "name": "Tasty Bites",
       "url": "https://open.spotify.com/track/5istmkXN6fiucHQtaF1xV4"
@@ -8682,6 +8808,24 @@
     },
     {
       "album": {
+        "name": "Voicemail",
+        "url": "https://open.spotify.com/album/64C054NfCwbAP4Z62kKXYd"
+      },
+      "artists": [
+        {
+          "name": "Rhino Beats",
+          "url": "https://open.spotify.com/artist/2wpj4fwPIhFXe1uX307PNK"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111428,
+      "name": "Voicemail",
+      "url": "https://open.spotify.com/track/5Fsf112EoSCtWLyyJQ6dMz"
+    },
+    {
+      "album": {
         "name": "volaplano",
         "url": "https://open.spotify.com/album/1glAViCRZ1n24UHHQ7Lk6t"
       },
@@ -9207,7 +9351,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 140281,
       "name": "\u00e1gata",
       "url": "https://open.spotify.com/track/2oRTRdGTrB0uF0DoL71sV4"

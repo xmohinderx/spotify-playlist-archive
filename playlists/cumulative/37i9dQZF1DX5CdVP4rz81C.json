@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "Discover your favorite new chill pop songs. Cover: NIKI",
+  "description": "Discover your favorite new chill pop songs. Cover: Bazzi",
   "name": "Fresh & Chill",
   "published_playlist_ids": [
     "0bYTEzgb7cQ54Fa4kGbaPS"
@@ -1994,6 +1994,24 @@
     },
     {
       "album": {
+        "name": "break my heart",
+        "url": "https://open.spotify.com/album/3Bx72slNcFS4gRjmtiBl7b"
+      },
+      "artists": [
+        {
+          "name": "Matt Hansen",
+          "url": "https://open.spotify.com/artist/6wlhqnATSJIc0NQ64VxOVJ"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178099,
+      "name": "break my heart",
+      "url": "https://open.spotify.com/track/5nlKcuzD8Pd79njhGXt1vT"
+    },
+    {
+      "album": {
         "name": "break up with a friend",
         "url": "https://open.spotify.com/album/7IdmQu7q5VG5ydcl8zFVGl"
       },
@@ -3043,7 +3061,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 218040,
       "name": "Colours Of You",
       "url": "https://open.spotify.com/track/0fgb9XN0RUp5phN8UADvsP"
@@ -4141,6 +4159,24 @@
       "duration_ms": 195659,
       "name": "Don't Go, Don't Leave",
       "url": "https://open.spotify.com/track/3Cg9Ds1CWQUGuQoQ9QvjDl"
+    },
+    {
+      "album": {
+        "name": "Don't Know What I Want",
+        "url": "https://open.spotify.com/album/6YsEwFwufhh38wDpmLRzfz"
+      },
+      "artists": [
+        {
+          "name": "Gabrielle Aplin",
+          "url": "https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145720,
+      "name": "Don't Know What I Want",
+      "url": "https://open.spotify.com/track/1VWrSNe54l1uH1rqIVW274"
     },
     {
       "album": {
@@ -5600,6 +5636,24 @@
     },
     {
       "album": {
+        "name": "Fumbled the Bag",
+        "url": "https://open.spotify.com/album/52ohkU9cUvreRfFteBnsTR"
+      },
+      "artists": [
+        {
+          "name": "Jenna Raine",
+          "url": "https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189636,
+      "name": "Fumbled the Bag",
+      "url": "https://open.spotify.com/track/4hOEcvPoY9WYdvZk5T5O1T"
+    },
+    {
+      "album": {
         "name": "Funeral (feat. James Bay)",
         "url": "https://open.spotify.com/album/1slDM0u5okZsvKG4sdVbxr"
       },
@@ -6442,6 +6496,24 @@
     },
     {
       "album": {
+        "name": "Headlights",
+        "url": "https://open.spotify.com/album/2iZdpmmkZ1FmQh179iOc9z"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173213,
+      "name": "Headlights",
+      "url": "https://open.spotify.com/track/0mzeEr7kHYzVPWF6iTIuwE"
+    },
+    {
+      "album": {
         "name": "Healing",
         "url": "https://open.spotify.com/album/3sjbCpkd5bRaUuDMxKUy3s"
       },
@@ -7080,6 +7152,24 @@
     },
     {
       "album": {
+        "name": "How Do I Say Goodbye",
+        "url": "https://open.spotify.com/album/3cptxwPFf3Ioj7I3AVX3mp"
+      },
+      "artists": [
+        {
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163603,
+      "name": "How Do I Say Goodbye",
+      "url": "https://open.spotify.com/track/5hnGrTBaEsdukpDF6aZg8a"
+    },
+    {
+      "album": {
         "name": "How Do You Dress for the Rain?",
         "url": "https://open.spotify.com/album/5qXWbwkmZ5HL2AlweZD9Bh"
       },
@@ -7395,6 +7485,24 @@
       "duration_ms": 142932,
       "name": "I Only Love You When I'm Sad",
       "url": "https://open.spotify.com/track/6w2WFVDwMYJtH9xfgL4SKv"
+    },
+    {
+      "album": {
+        "name": "\u00c4lskar",
+        "url": "https://open.spotify.com/album/7hnwD5fSafzPIxpkbbO8Dk"
+      },
+      "artists": [
+        {
+          "name": "Nina Nesbitt",
+          "url": "https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239706,
+      "name": "I Should Be a Bird",
+      "url": "https://open.spotify.com/track/0ZRZeLNAKPHBwkalUqW1xz"
     },
     {
       "album": {
@@ -8350,6 +8458,24 @@
     },
     {
       "album": {
+        "name": "Songs of Sonder",
+        "url": "https://open.spotify.com/album/3meoZUwEJiy7nyrDsv2HHJ"
+      },
+      "artists": [
+        {
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229436,
+      "name": "Kiss Me",
+      "url": "https://open.spotify.com/track/1Xq9ilOLiknCaGYtSsvFrH"
+    },
+    {
+      "album": {
         "name": "Know Me Again (with Cate)",
         "url": "https://open.spotify.com/album/3W4GE7d5HHoLgctPM1c8A0"
       },
@@ -8455,7 +8581,7 @@
       ],
       "date_added": "2022-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 180177,
       "name": "last request",
       "url": "https://open.spotify.com/track/3e2k9IlblTs4o5cD5DrPcO"
@@ -11187,7 +11313,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 207034,
       "name": "One Day Less",
       "url": "https://open.spotify.com/track/3rMbh1zLsh91EcNgu7KuPy"
@@ -14905,7 +15031,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 180604,
       "name": "The Outsider",
       "url": "https://open.spotify.com/track/5W1UtLcQLQOFZDpDeNn8Gi"
@@ -15489,6 +15615,24 @@
       "duration_ms": 174621,
       "name": "twentyfive",
       "url": "https://open.spotify.com/track/0z1DE4g9ft8ZvSpyCenVUJ"
+    },
+    {
+      "album": {
+        "name": "Two Places at Once",
+        "url": "https://open.spotify.com/album/53nT8IUeQ1Eig7t5W2jS2v"
+      },
+      "artists": [
+        {
+          "name": "Haley Joelle",
+          "url": "https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199395,
+      "name": "Two Places at Once",
+      "url": "https://open.spotify.com/track/0l8p1TkaVgcwIUS0xwm6Y5"
     },
     {
       "album": {
@@ -16277,7 +16421,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 197146,
       "name": "What A Convincing Illusion",
       "url": "https://open.spotify.com/track/0xErGPogrWKGjWI1bEMLaV"

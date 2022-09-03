@@ -1,12 +1,12 @@
 {
   "description": "Vocals and keys, front and center. Cover: Adele",
-  "num_followers": 1478022,
+  "num_followers": 1477834,
   "original_name": "Piano Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Nzg1NzcyMCwwMDAwMDAwMDQyMzZkZmM3NjlmZTM4MmVjMDdmMzk2MzFiNWMyMmUy",
+  "snapshot_id": "MTY1Nzg1NzcyMCwwMDAwMDAwMGIzMWUzYjJjOGNjMzE2NGFiMTkyZGVhNWEyZWI3ODZi",
   "tracks": [
     {
       "added_at": "2022-07-15 04:02:00",
@@ -210,15 +210,11 @@
         {
           "name": "Taylor Swift",
           "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        },
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
         }
       ],
-      "duration_ms": 285634,
-      "name": "exile (feat. Bon Iver)",
-      "url": "https://open.spotify.com/track/4pvb0WLRcMtbPGmtejJJ6y"
+      "duration_ms": 239560,
+      "name": "cardigan",
+      "url": "https://open.spotify.com/track/4R2kfaDFhslZEMJqAFNpdd"
     },
     {
       "added_at": "2022-07-15 04:02:00",
@@ -310,11 +306,15 @@
         {
           "name": "Taylor Swift",
           "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
         }
       ],
-      "duration_ms": 239560,
-      "name": "cardigan",
-      "url": "https://open.spotify.com/track/4R2kfaDFhslZEMJqAFNpdd"
+      "duration_ms": 285634,
+      "name": "exile (feat. Bon Iver)",
+      "url": "https://open.spotify.com/track/4pvb0WLRcMtbPGmtejJJ6y"
     },
     {
       "added_at": "2022-07-15 04:02:00",
@@ -719,22 +719,6 @@
     {
       "added_at": "2022-07-15 04:02:00",
       "album": {
-        "name": "Welcome to Wonderland",
-        "url": "https://open.spotify.com/album/6YgJ3NjlqdUX6MdejVudHp"
-      },
-      "artists": [
-        {
-          "name": "Anson Seabra",
-          "url": "https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg"
-        }
-      ],
-      "duration_ms": 199131,
-      "name": "Welcome to Wonderland",
-      "url": "https://open.spotify.com/track/3JfHYZKy5JmE5Fv4gDTCiz"
-    },
-    {
-      "added_at": "2022-07-15 04:02:00",
-      "album": {
         "name": "(What's The Story) Morning Glory? (Deluxe Remastered Edition)",
         "url": "https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 289560,
       "name": "Don't Look Back In Anger - Remastered",
       "url": "https://open.spotify.com/track/12dU3vAh6AFoJkisorfoUl"
+    },
+    {
+      "added_at": "2022-07-15 04:02:00",
+      "album": {
+        "name": "Welcome to Wonderland",
+        "url": "https://open.spotify.com/album/6YgJ3NjlqdUX6MdejVudHp"
+      },
+      "artists": [
+        {
+          "name": "Anson Seabra",
+          "url": "https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg"
+        }
+      ],
+      "duration_ms": 199131,
+      "name": "Welcome to Wonderland",
+      "url": "https://open.spotify.com/track/3JfHYZKy5JmE5Fv4gDTCiz"
     },
     {
       "added_at": "2022-07-15 04:02:00",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2022-07-15 04:02:00",
       "album": {
-        "name": "I Should Probably Go To Bed",
-        "url": "https://open.spotify.com/album/0LptEP83Iy0SKHaVrkCmuj"
-      },
-      "artists": [
-        {
-          "name": "Dan + Shay",
-          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
-        }
-      ],
-      "duration_ms": 171826,
-      "name": "I Should Probably Go To Bed",
-      "url": "https://open.spotify.com/track/5ovVcYo2MvjVydFwFyaaqy"
-    },
-    {
-      "added_at": "2022-07-15 04:02:00",
-      "album": {
         "name": "Trading Snakeoil for Wolftickets",
         "url": "https://open.spotify.com/album/1OydCrx4m7fguwcX4stR9z"
       },
@@ -1119,18 +1103,18 @@
     {
       "added_at": "2022-07-15 04:02:00",
       "album": {
-        "name": "My Everything (Deluxe)",
-        "url": "https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj"
+        "name": "I Should Probably Go To Bed",
+        "url": "https://open.spotify.com/album/0LptEP83Iy0SKHaVrkCmuj"
       },
       "artists": [
         {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+          "name": "Dan + Shay",
+          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
         }
       ],
-      "duration_ms": 168520,
-      "name": "My Everything",
-      "url": "https://open.spotify.com/track/4eumFsTnduH3zRfaASoAPs"
+      "duration_ms": 171826,
+      "name": "I Should Probably Go To Bed",
+      "url": "https://open.spotify.com/track/5ovVcYo2MvjVydFwFyaaqy"
     },
     {
       "added_at": "2022-07-15 04:02:00",
@@ -1147,6 +1131,22 @@
       "duration_ms": 146895,
       "name": "Best Day Of My Life",
       "url": "https://open.spotify.com/track/6rUtMKEej81ORTGtCpjyOJ"
+    },
+    {
+      "added_at": "2022-07-15 04:02:00",
+      "album": {
+        "name": "My Everything (Deluxe)",
+        "url": "https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 168520,
+      "name": "My Everything",
+      "url": "https://open.spotify.com/track/4eumFsTnduH3zRfaASoAPs"
     },
     {
       "added_at": "2022-07-15 04:02:00",
@@ -1231,18 +1231,18 @@
     {
       "added_at": "2022-07-15 04:02:00",
       "album": {
-        "name": "Songs I Wrote in My Bedroom",
-        "url": "https://open.spotify.com/album/46NEhlXaMzNTg19kSBthTv"
+        "name": "Little Voice",
+        "url": "https://open.spotify.com/album/2Z9WUERfMjOgQ6ze9TcGbF"
       },
       "artists": [
         {
-          "name": "Anson Seabra",
-          "url": "https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg"
+          "name": "Sara Bareilles",
+          "url": "https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM"
         }
       ],
-      "duration_ms": 270461,
-      "name": "That's Us",
-      "url": "https://open.spotify.com/track/7sTDqaGUr9NM8NHQ5SNHi1"
+      "duration_ms": 232760,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/4oa14QBfWRDfJy2agySy0L"
     }
   ],
   "unique_name": "Piano Ballads",

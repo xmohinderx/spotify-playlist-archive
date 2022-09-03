@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "New songs from some of the latest and greatest Gospel music artists.  Cover:  Travis Greene and Forward City ",
+  "description": "New songs from some of the latest and greatest Gospel music artists.  Cover:  Brian Courtney Wilson",
   "name": "Fresh Gospel",
   "published_playlist_ids": [
     "6tbQcvssGqLrTKMvWwo62Y"
@@ -143,7 +143,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 224981,
       "name": "Always Peace - Radio Edit",
       "url": "https://open.spotify.com/track/29LrBPHAqelTjmcqojeMP4"
@@ -3045,7 +3045,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 252822,
       "name": "Soul Pilot",
       "url": "https://open.spotify.com/track/0lqTHYyNFT6lUrQmcJql0o"
@@ -3507,10 +3507,28 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 288188,
       "name": "There is Grace",
       "url": "https://open.spotify.com/track/3snRykYAjByFhJpOkfYodN"
+    },
+    {
+      "album": {
+        "name": "This House",
+        "url": "https://open.spotify.com/album/4VZQEB5rYcIoXFySWRXjoN"
+      },
+      "artists": [
+        {
+          "name": "Evvie McKinney",
+          "url": "https://open.spotify.com/artist/7G7JWOsGhDMily2HtfzcIZ"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263920,
+      "name": "This House",
+      "url": "https://open.spotify.com/track/5LehMttoY2seun4m7ezMNm"
     },
     {
       "album": {
@@ -3883,6 +3901,24 @@
       "duration_ms": 219065,
       "name": "Whole World In His Hands - Radio Edit",
       "url": "https://open.spotify.com/track/0rjbJ8JndyEfNt1CpG3Axo"
+    },
+    {
+      "album": {
+        "name": "Winning",
+        "url": "https://open.spotify.com/album/4jU3efPt9KBEIGQotXzMAs"
+      },
+      "artists": [
+        {
+          "name": "Sinach",
+          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360486,
+      "name": "Winning",
+      "url": "https://open.spotify.com/track/0x6vfr1PGNAMZvP0CJzbSZ"
     },
     {
       "album": {

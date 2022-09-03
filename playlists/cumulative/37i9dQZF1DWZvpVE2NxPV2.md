@@ -4,7 +4,7 @@
 
 > Peaceful ambient for mind body connection.
 
-115 songs - 5 hr 50 min - [published](https://open.spotify.com/playlist/4h4rBqtRamQg1x2iFDUEw4)
+121 songs - 6 hr 18 min - [published](https://open.spotify.com/playlist/4h4rBqtRamQg1x2iFDUEw4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,12 +12,15 @@
 | [Agape](https://open.spotify.com/track/1RM8shXinDriSL1trnsh9H) | [Voyage Control](https://open.spotify.com/artist/2ZxdgHyc8cnGVXvUgaApbc) | [Agape](https://open.spotify.com/album/4Il0ZsUVa4e3qTivFLbqeV) | 3:23 | 2022-01-07 |  |
 | [Ancient Prayer](https://open.spotify.com/track/23c2OduSVIcipPMd9q00Fi) | [Aura Lynx](https://open.spotify.com/artist/44mPTx3kx8S0Qj5SyliYIK) | [Ancient Prayer](https://open.spotify.com/album/3LE4gWyOF5hlKHKDaVJUTA) | 2:56 | 2022-06-02 |  |
 | [Angel Dust](https://open.spotify.com/track/6SXEIHzo9REiTw88SX18kR) | [Von Goo](https://open.spotify.com/artist/0ok7E7efNzcR8Bz1xDx8Zb) | [Pan Flute Sessions 1](https://open.spotify.com/album/3AchEUirca9Quy6RBg32qs) | 4:10 | 2022-01-07 | 2022-06-03 |
+| [Awaiting The Night](https://open.spotify.com/track/30uebPIcKyKLYs6GvCMoGI) | [Celestial Seekr](https://open.spotify.com/artist/6vzDsyuY7VKxGPDCcz9Eel) | [Awaiting The Night](https://open.spotify.com/album/4WbmSphPzHRMjuboa8haMl) | 2:14 | 2022-09-02 |  |
 | [Before Sinking](https://open.spotify.com/track/05AuLszwgKMdiV9TQ7Y5zi) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq) | [Views from Sixteen Stories](https://open.spotify.com/album/05ECaoh4qEPv4Ph2M1htDX) | 3:07 | 2022-01-07 | 2022-07-29 |
 | [Before Sinking](https://open.spotify.com/track/6P5McVugUltkaP8qzenZfC) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq) | [Views from Sixteen Stories](https://open.spotify.com/album/5W0f89f4bEX9dgbkk1UgmL) | 3:07 | 2022-06-02 |  |
 | [Better and better](https://open.spotify.com/track/2wtThYMGGoZQ18CIwBlbZv) | [Project Gayā](https://open.spotify.com/artist/76PzU6hA4dr6ViFleVXtyD) | [Project Gayā](https://open.spotify.com/album/6Iz5qEsZN5rB962SlPlOm7) | 3:56 | 2022-01-07 |  |
 | [Birth](https://open.spotify.com/track/1mbeabRJK04uviQB19rRxy) | [Nomadias](https://open.spotify.com/artist/0JWzljcR1K7Q7Zc4IgVWu0) | [Birth](https://open.spotify.com/album/0meksSt44x06sKfkGrD5gM) | 2:55 | 2022-05-12 |  |
 | [Blossom \- Studio Edit](https://open.spotify.com/track/21rLyEqEoIGoSHoWcsztUv) | [FANAR](https://open.spotify.com/artist/2cmv3GP75BReBnDT1kWyOE) | [Blossom](https://open.spotify.com/album/6O4lKQO0YEkq94DWElpHNG) | 3:02 | 2022-01-07 | 2022-08-13 |
-| [Brotes](https://open.spotify.com/track/6kxKu4HXQetA3Uu0UeAcl1) | [Corimbo](https://open.spotify.com/artist/5jQIczzAJzOzwnNLFOwoI6) | [Semillero](https://open.spotify.com/album/4wXMtPpipCgbiz8kyYR2dx) | 2:04 | 2022-01-07 |  |
+| [Breathe](https://open.spotify.com/track/30iFs745w3sWOU8HSCcvrQ) | [Reiki Akoya](https://open.spotify.com/artist/0VYt8sIrhLaI1J5XBw4Ez5) | [Breathe](https://open.spotify.com/album/2gyvkLTdR9Vo0mFwNJTuNQ) | 3:10 | 2022-09-02 |  |
+| [Bring Us Back](https://open.spotify.com/track/59Vt25MOgFp1CkzdRFzMJP) | [Will Carano](https://open.spotify.com/artist/6J60g4WW0jL1uCe6cwyAZd) | [Bring Us Back](https://open.spotify.com/album/6oUu8OWwS3L9YPYleN2Ofu) | 2:38 | 2022-09-02 |  |
+| [Brotes](https://open.spotify.com/track/6kxKu4HXQetA3Uu0UeAcl1) | [Corimbo](https://open.spotify.com/artist/5jQIczzAJzOzwnNLFOwoI6) | [Semillero](https://open.spotify.com/album/4wXMtPpipCgbiz8kyYR2dx) | 2:04 | 2022-01-07 | 2022-09-03 |
 | [Callisto](https://open.spotify.com/track/0kDtcfMhgxjM2zSwPypNcd) | [Soft Sense](https://open.spotify.com/artist/7g5vOd93ubdidOjRwZm8R3) | [Floating Thoughts](https://open.spotify.com/album/47Vq9SMjGvvR4vVBK89sop) | 3:15 | 2022-01-07 |  |
 | [Calming Waves](https://open.spotify.com/track/59ki9ZGsm75Vbl4WM6BVjJ) | [Axel Pacem](https://open.spotify.com/artist/62RbCNMx3dAEBpaW4ev3iy) | [Calming Waves](https://open.spotify.com/album/0pxJDyihqbjbxEvzk75Yee) | 2:45 | 2022-07-29 |  |
 | [Carpe Noctem](https://open.spotify.com/track/027030DBi749hu0tVBAFgX) | [Franke Williums](https://open.spotify.com/artist/3qKNUXVK23uw6wuPXFvBIR) | [Carpe Noctem](https://open.spotify.com/album/38AOIqKaMi4AmlwjD1R9wJ) | 3:03 | 2022-01-07 |  |
@@ -45,7 +48,7 @@
 | [Journey](https://open.spotify.com/track/5J9uQJFBl1B9rs2NFSR8ng) | [Ashcan Johansen](https://open.spotify.com/artist/2ct2G7jHNMHPisFrLyBpMh) | [Journey](https://open.spotify.com/album/1cg1vzA5QVFBQ73giNEBLZ) | 2:31 | 2022-01-07 |  |
 | [Kimaya](https://open.spotify.com/track/2w7XVdKP6nGduoVdPl0CGR) | [Trancistique](https://open.spotify.com/artist/5FIPYREWb6VB1awzWKGD0I) | [Kimaya](https://open.spotify.com/album/1gYcGahpk1csWH2FoUQ2GJ) | 2:40 | 2022-05-12 |  |
 | [Kundalini](https://open.spotify.com/track/0sLaaBl2OPlNJeqvhycUab) | [Ka Wadhwa](https://open.spotify.com/artist/2dPkKU7aaKeFDICPMOduIv) | [Kundalini](https://open.spotify.com/album/7n2KeDhj36LPnHni9QgkDo) | 2:22 | 2022-01-07 |  |
-| [Kyoto 5 AM](https://open.spotify.com/track/0lJAlB8iVsp6Y99MnTjlu8) | [Sight of Wonders](https://open.spotify.com/artist/4TVuWsAEx3S4UnsJhA7QYD) | [Kyoto 5 AM](https://open.spotify.com/album/1fwFa6VhMpBZpYboapGASG) | 2:34 | 2022-01-07 |  |
+| [Kyoto 5 AM](https://open.spotify.com/track/0lJAlB8iVsp6Y99MnTjlu8) | [Sight of Wonders](https://open.spotify.com/artist/4TVuWsAEx3S4UnsJhA7QYD) | [Kyoto 5 AM](https://open.spotify.com/album/1fwFa6VhMpBZpYboapGASG) | 2:34 | 2022-01-07 | 2022-09-03 |
 | [L'ambience](https://open.spotify.com/track/6g1AnzB3B4VUFlXJTzXEUE) | [Deep Zones](https://open.spotify.com/artist/7fwJtNfFJPvvPbY2EKgMbX) | [L'ambience](https://open.spotify.com/album/0eyvpkaCP84vYfRUIY65XO) | 2:46 | 2022-01-07 |  |
 | [Last Forever](https://open.spotify.com/track/6ORmQ1xm70tFaJMfMqeRLv) | [4lienetic](https://open.spotify.com/artist/4lOwCvuSv7ickecVE7dUBk) | [Last Forever](https://open.spotify.com/album/3MVQCQ1Fgdv4FM1JmxBmyS) | 1:24 | 2022-01-07 |  |
 | [Leuchten](https://open.spotify.com/track/4KNuwSHlzgZIRuT9Ur1JCZ) | [Mystisse](https://open.spotify.com/artist/6IpbJpzWfnVDsdJG9fJHWp) | [Leuchten](https://open.spotify.com/album/6fLtePVdyqmM4WrnC85p9j) | 2:42 | 2022-05-12 |  |
@@ -64,9 +67,10 @@
 | [Om 432](https://open.spotify.com/track/4szL2rd05eMqb7vD27m6LK) | [Dylan Charbeneau](https://open.spotify.com/artist/2VRrzTvF7rhgjNGUXLxFSk) | [Om 432](https://open.spotify.com/album/7eDW71RjIS8WcDN79v4qE1) | 3:04 | 2022-08-12 |  |
 | [Overview](https://open.spotify.com/track/6bJS4c8xM5nGOtxqndR0G7) | [Magenta Dust](https://open.spotify.com/artist/6g7j780GtRaJOzRCzEuSrj) | [New Wings](https://open.spotify.com/album/0nIpY77hGOsJKfiWomgZXO) | 3:18 | 2022-03-02 |  |
 | [Pace Of Nature](https://open.spotify.com/track/1sB226w76E26PZRxcSA8Uq) | [Wissal Sakti](https://open.spotify.com/artist/1FiERGNLIiWDYa2nA0TcGD) | [Pace Of Nature](https://open.spotify.com/album/6NJjyT1Kr57k811DYQ7WEA) | 3:06 | 2022-01-07 | 2022-08-13 |
-| [Pan Serenade](https://open.spotify.com/track/26hAV8CJvMK58Gdvve3vyx) | [X\-Genie](https://open.spotify.com/artist/7jpxxOSOJX0PCvKXAbQs2I) | [Pan Serenade](https://open.spotify.com/album/2YNQuawkFrWf9Fittz8cIq) | 3:34 | 2022-01-07 |  |
+| [Pan Serenade](https://open.spotify.com/track/26hAV8CJvMK58Gdvve3vyx) | [X\-Genie](https://open.spotify.com/artist/7jpxxOSOJX0PCvKXAbQs2I) | [Pan Serenade](https://open.spotify.com/album/2YNQuawkFrWf9Fittz8cIq) | 3:34 | 2022-01-07 | 2022-09-03 |
 | [Passing Time](https://open.spotify.com/track/2Fwa33wGSSDvw7T562DCmB) | [Inez Wolde](https://open.spotify.com/artist/433Ic9GNVFmaxAQz46hIlu) | [Passing Time](https://open.spotify.com/album/5XQQL3OBo65gmLsBRiJfdl) | 2:40 | 2022-05-12 |  |
 | [Pathways](https://open.spotify.com/track/67hrn4W0iAgUWwkVpmplTW) | [Chime Dolma](https://open.spotify.com/artist/0ndav6EeWFjk6gBztWytIo) | [Pathways](https://open.spotify.com/album/0Vs8OpWzBEXUQ3ImjwQKZ7) | 2:00 | 2022-01-07 |  |
+| [Peaceful Garden](https://open.spotify.com/track/109Az5ZRvRYKE6UU9Rdnf0) | [Buddha's Lounge](https://open.spotify.com/artist/0DQtE70SlFZZkbNpCRaMHb) | [Peaceful Garden](https://open.spotify.com/album/26UPIsHGsD24Si9M186oYK) | 6:17 | 2022-09-02 |  |
 | [Pictures of a Floating World](https://open.spotify.com/track/5jDvdADyzpo7jYWDdVoY0b) | [Chaxti](https://open.spotify.com/artist/12Ip37wPd8ddVsBrrbcFZH) | [Clear Western Sky](https://open.spotify.com/album/1G2YiRUliSzL2MrWUX1YOZ) | 3:31 | 2022-01-07 |  |
 | [Pipers](https://open.spotify.com/track/7wDZOZiMJxjOH8R9Xv6yvw) | [Yakamora](https://open.spotify.com/artist/5aAi2J1r2GmSXMeiG20jJp) | [Pipers](https://open.spotify.com/album/6wh12iQPshA8QQq7Xtunc3) | 4:06 | 2022-01-07 | 2022-05-13 |
 | [Praise](https://open.spotify.com/track/6JPkvrIXIROTBKMg6fZTKC) | [Uli Jons](https://open.spotify.com/artist/0K4PNBCw5wDm6lKZYil6cU) | [Praise](https://open.spotify.com/album/6lkZbG6qQljcbdT4UrUDuh) | 3:06 | 2022-01-07 |  |
@@ -75,10 +79,12 @@
 | [Relaxation](https://open.spotify.com/track/3hUEPSBw46jDj07dPhY5pA) | [Diamond Mountain](https://open.spotify.com/artist/22tR9JGX5LWdBcMD8lFEgV) | [Relaxation](https://open.spotify.com/album/1dQjY7ABQDtH4KcepNquUm) | 3:26 | 2022-01-07 |  |
 | [Rendevouz In Orbit](https://open.spotify.com/track/7lY8H2VrsaOHXjQv2IaW12) | [MoonBees](https://open.spotify.com/artist/3k3ZzD4rSu4E00cUi1900f) | [Rendevouz In Orbit](https://open.spotify.com/album/1ILhTazRdwJds7iJV5KeI3) | 2:33 | 2022-01-07 |  |
 | [Reset](https://open.spotify.com/track/423CiX74q1x1ngQoZ5tAEY) | [Sierra Rubio](https://open.spotify.com/artist/4qnjQV2WCiNWFyIh42xFcM) | [Reset](https://open.spotify.com/album/1adS1XhqBudKquCDqma83g) | 2:15 | 2022-01-07 |  |
+| [Restful Dream](https://open.spotify.com/track/57wGsyF2YSyRkHZrksQXrB) | [Buddha's Flute](https://open.spotify.com/artist/1j6Futx8f5ywiHqPnX32bl) | [Restful Dream](https://open.spotify.com/album/6wZFjc47KdhamOOPBMrSHL) | 6:06 | 2022-09-02 |  |
 | [Restfulness](https://open.spotify.com/track/1eWEJ1JVoyt0nozyAoUPZW) | [Zion Llama](https://open.spotify.com/artist/3cpzUGjbTlToxJzxfWiW1u) | [Aura](https://open.spotify.com/album/1GgB6wCGMjv9eIWbysYO4x) | 2:55 | 2022-03-02 |  |
 | [Reversed Stress](https://open.spotify.com/track/36LvimjTIyWaVS1CejsRL9) | [Minonna](https://open.spotify.com/artist/6mysyQI353vNbwstr6pT1Y) | [Motion Slow](https://open.spotify.com/album/368cYXAyRSQSAk4X40uHFs) | 2:50 | 2022-01-07 |  |
 | [Rishis](https://open.spotify.com/track/7G2xLyRHac8eH0qhMPDnl0) | [Skye Saraswati](https://open.spotify.com/artist/4mSdD05BfppgiCGUVKcUZ3) | [Rishis](https://open.spotify.com/album/4wsw80EuYCSMlsPy4xT2L2) | 3:23 | 2022-05-12 |  |
 | [Rising Above](https://open.spotify.com/track/7qVMaIJNIRLVGfdFqYlnBX) | [Cloudville](https://open.spotify.com/artist/2PZ9Lx5YAYcmTUPBc6a17L) | [Rising Above](https://open.spotify.com/album/4NeEtU59lupmDYnE4zxjhZ) | 2:22 | 2022-01-07 |  |
+| [Rivers Of Flutes](https://open.spotify.com/track/6DewZxWwJwOTWeyIXsntrH) | [Sacred Flute](https://open.spotify.com/artist/6dn5BFtVFrmBuZXS3Pt2Qi) | [Rivers Of Flutes](https://open.spotify.com/album/2b62YJsJ8REP4fGZKh9Qv7) | 7:25 | 2022-09-02 |  |
 | [Rêver](https://open.spotify.com/track/1yYjkMdQyOvwqiwfeGP5fK) | [Eztebe Matia](https://open.spotify.com/artist/3n2j9RLqJFPzyI8WGn94bm) | [Rêver](https://open.spotify.com/album/6Sb8XeQK9LqSeUlYHFaB9B) | 2:54 | 2022-01-07 |  |
 | [Saman Aftur](https://open.spotify.com/track/3CSHq4I9SPxE2AmNsW4Riz) | [Elvar Arngrimsson](https://open.spotify.com/artist/5DChGYPOwgULNzFMzw0TIb) | [Unni](https://open.spotify.com/album/35Gv91ojzEtJl0iXz41X58) | 2:58 | 2022-01-07 |  |
 | [Samsara](https://open.spotify.com/track/3MA4oCOy0frQdyBZx6qRGG) | [Massimu](https://open.spotify.com/artist/6HRgy5lTTh6w2SpMq2cCcP) | [Samsara](https://open.spotify.com/album/0RmyzpADBheUrCS5xtufQM) | 4:04 | 2022-01-07 |  |

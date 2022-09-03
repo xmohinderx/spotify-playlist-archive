@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1IUF5q4IvkjylMhd9P0urE.md) - [plain]
 
 > Our favourite new music, updated monthly by the XL team\. Returing AW22
 
-[XL Recordings](https://open.spotify.com/user/xlrecordings) - 13,601 likes - 0 song - 0 sec
+[XL Recordings](https://open.spotify.com/user/xlrecordings) - 13,598 likes - 0 song - 0 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

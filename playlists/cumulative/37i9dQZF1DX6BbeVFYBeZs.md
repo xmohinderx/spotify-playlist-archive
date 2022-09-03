@@ -4,7 +4,7 @@
 
 > The beautiful sound of the Spanish guitar to help you wind down.
 
-143 songs - 6 hr 48 min - [published](https://open.spotify.com/playlist/5vDhhJLUXvegKwwtL6H3y2)
+145 songs - 6 hr 54 min - [published](https://open.spotify.com/playlist/5vDhhJLUXvegKwwtL6H3y2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Lisboa Antigua](https://open.spotify.com/track/59Ao0LOrkaAehxm4ytrXfp) | [Javier Van Velthoven](https://open.spotify.com/artist/4rUmg0lEB3QIm4OpxiTxoZ) | [Lisboa Antigua](https://open.spotify.com/album/7jWJ4GwM1ELAuKzI8xHap2) | 2:34 | 2022-06-17 |  |
 | [Longe Alguém Caminha](https://open.spotify.com/track/6G0KuDlYopOifz6yeOwfri) | [Alexandre Guerra](https://open.spotify.com/artist/1aK1TyJBakc4zSAKAPfd8O), [Chrystian Dozza](https://open.spotify.com/artist/4MOQH0ouuh2i5mjfXOto0Z), [Daniel Murray](https://open.spotify.com/artist/0nK5viu6PiGYoeBiTTHTOk) | [Lugar ao Vento](https://open.spotify.com/album/3aZGaoMyVrUnYW1Cmjo0nn) | 2:11 | 2022-06-17 |  |
 | [Lozana](https://open.spotify.com/track/1huCke5q1BjT7VxypUCrc6) | [Graciela Flores](https://open.spotify.com/artist/1XcbatNvZ4Dv7PgPELmQWJ) | [Lozana](https://open.spotify.com/album/4iHmLYrL4zab3KOyydNKNb) | 2:09 | 2022-06-17 |  |
+| [Luz Oculta](https://open.spotify.com/track/0u7uSvFJUQ4iOVU1MORvBm) | [Barracuda Sound](https://open.spotify.com/artist/7kh6kV95YvmhBPmbi2tIRU) | [Luz Oculta](https://open.spotify.com/album/5LIoNLXzODduC2rShCaG2J) | 2:40 | 2022-09-02 |  |
 | [Manha De Carnaval](https://open.spotify.com/track/5D09utzIzyrzSRjeQMrssn) | [Pablo Despeyroux](https://open.spotify.com/artist/5PIQKptSn7b9KGsMrK296N) | [Manha De Carnaval](https://open.spotify.com/album/2xRj3jkw0xBoLTBdkM8BSK) | 2:26 | 2022-08-17 |  |
 | [Manhã de Carnaval](https://open.spotify.com/track/0G4qFYtNPWpYvk9RfGAOs1) | [Filip Benedetto](https://open.spotify.com/artist/1x6GlAVo5qvLhm45bgtlp7) | [Manhã de Carnaval](https://open.spotify.com/album/06PgdMpQa7mfoKK5odLA2g) | 3:52 | 2022-07-29 |  |
 | [Medianoche](https://open.spotify.com/track/1UAlByio9nRgNa1eIMvdtr) | [Barracuda Sound](https://open.spotify.com/artist/7kh6kV95YvmhBPmbi2tIRU) | [Medianoche](https://open.spotify.com/album/16jVhTdkRtcfjnCWnOnmbL) | 2:19 | 2022-06-17 |  |
@@ -85,6 +86,7 @@
 | [Mime](https://open.spotify.com/track/3V6amXCAJ43nMu9D2cheyv) | [Kee Marcello Nylon Nation](https://open.spotify.com/artist/6nr71zoxIIzQndEmpvyuiN) | [Mime](https://open.spotify.com/album/2HVnBQwJ22pUVBeCIPqhF6) | 3:13 | 2022-06-17 |  |
 | [Mirada](https://open.spotify.com/track/3PDsnkJXHj4eTPkCuhfTBS) | [Julian Mari](https://open.spotify.com/artist/4F0VCWk7SLkuBevjKJEw8e) | [Mirada](https://open.spotify.com/album/1Mc3fzPLnPs3aLkmI15MNK) | 2:22 | 2022-06-17 |  |
 | [Montevideo](https://open.spotify.com/track/275koCzLil06PwQOAuRGvI) | [Julian Vigil](https://open.spotify.com/artist/37iIAObpTKbDOZ9BjSrmMv) | [Montevideo](https://open.spotify.com/album/2bYa90u46gvqghDV3MHQzs) | 3:27 | 2022-06-17 |  |
+| [Moonlight and Grace Reimagined](https://open.spotify.com/track/6YLhil5rBjNBGQ5wCIsIgH) | [Phil Klein](https://open.spotify.com/artist/7D4v9W10LK3ftu5UBRuNow) | [Moonlight and Grace Reimagined](https://open.spotify.com/album/5VypWMT7ShaGTFMhDjrUge) | 3:01 | 2022-09-02 |  |
 | [Naranjas en Diciembre](https://open.spotify.com/track/0rOdCo5QAldEbty63ZDaHl) | [Vendla](https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu) | [Naranjas en Diciembre](https://open.spotify.com/album/39HaNigg9oTEiOKusCWz5V) | 2:22 | 2022-06-17 |  |
 | [Outonecendo](https://open.spotify.com/track/5mzYXTWLRX5o6JUkhFe4PS) | [Alexandre Guerra](https://open.spotify.com/artist/1aK1TyJBakc4zSAKAPfd8O), [Daniel Murray](https://open.spotify.com/artist/0nK5viu6PiGYoeBiTTHTOk) | [Lugar ao Vento](https://open.spotify.com/album/3aZGaoMyVrUnYW1Cmjo0nn) | 3:28 | 2022-06-17 | 2022-08-18 |
 | [Para Alan Kurdi](https://open.spotify.com/track/0zZiVJy8p5ZSkaAWso7YUc) | [El Retiro](https://open.spotify.com/artist/4cOlybzY6JERcCmnmtcSUD) | [Para Alan Kurdi](https://open.spotify.com/album/69Ot2vGXY3E5yfJjT5CTQo) | 2:56 | 2022-07-01 |  |

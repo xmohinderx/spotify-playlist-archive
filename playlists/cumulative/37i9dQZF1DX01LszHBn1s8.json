@@ -1618,6 +1618,24 @@
     },
     {
       "album": {
+        "name": "break my heart",
+        "url": "https://open.spotify.com/album/3Bx72slNcFS4gRjmtiBl7b"
+      },
+      "artists": [
+        {
+          "name": "Matt Hansen",
+          "url": "https://open.spotify.com/artist/6wlhqnATSJIc0NQ64VxOVJ"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178099,
+      "name": "break my heart",
+      "url": "https://open.spotify.com/track/5nlKcuzD8Pd79njhGXt1vT"
+    },
+    {
+      "album": {
         "name": "BREAK MY SOUL",
         "url": "https://open.spotify.com/album/5JgCaA43ECaGeqbPEo6WUP"
       },
@@ -5437,12 +5455,12 @@
       },
       "artists": [
         {
-          "name": "The Gregory Brothers",
-          "url": "https://open.spotify.com/artist/0V8tQXWkKPD5SxsB2moGew"
-        },
-        {
           "name": "Tariq",
           "url": "https://open.spotify.com/artist/599hKOVjadkb7Ny10pYc0M"
+        },
+        {
+          "name": "The Gregory Brothers",
+          "url": "https://open.spotify.com/artist/0V8tQXWkKPD5SxsB2moGew"
         },
         {
           "name": "Recess Therapy",

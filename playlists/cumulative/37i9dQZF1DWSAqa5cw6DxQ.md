@@ -4,7 +4,7 @@
 
 > Clear your mind with soothing new age guitar.
 
-95 songs - 4 hr 48 min - [published](https://open.spotify.com/playlist/436FR3vTM10amif2FlaZkJ)
+96 songs - 4 hr 51 min - [published](https://open.spotify.com/playlist/436FR3vTM10amif2FlaZkJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [Adrift in Time](https://open.spotify.com/track/41GSq7PxoKXyXNsYNRDSkT) | [Christos Konstantinidis](https://open.spotify.com/artist/1r6SmaBSJVyCN1gT5mMODO) | [Something Beautiful](https://open.spotify.com/album/1hom2yJ8gLUvbvSoIWEL1S) | 2:54 | 2022-02-28 |  |
 | [Agape](https://open.spotify.com/track/1RM8shXinDriSL1trnsh9H) | [Voyage Control](https://open.spotify.com/artist/2ZxdgHyc8cnGVXvUgaApbc) | [Agape](https://open.spotify.com/album/4Il0ZsUVa4e3qTivFLbqeV) | 3:23 | 2022-02-28 |  |
 | [Aleph](https://open.spotify.com/track/4YxflJfXcejk4dMsCCjVQ5) | [Ciaran Delany](https://open.spotify.com/artist/2WuIGHkWICbZ4ZnIWWwaQE) | [Aleph](https://open.spotify.com/album/3RVeSq0URHjXScaMXDCMJn) | 3:02 | 2022-02-28 |  |
-| [Angelica](https://open.spotify.com/track/33QdFnE3AIsQZaGZZWYMEo) | [Lionheart](https://open.spotify.com/artist/7sHTXnqmYqCECjKKb2iqWS) | [Soil of the Earth](https://open.spotify.com/album/02U4NcvO35hnPWETMhAKSE) | 4:38 | 2022-02-28 |  |
+| [Angelica](https://open.spotify.com/track/33QdFnE3AIsQZaGZZWYMEo) | [Lionheart](https://open.spotify.com/artist/7sHTXnqmYqCECjKKb2iqWS) | [Soil of the Earth](https://open.spotify.com/album/02U4NcvO35hnPWETMhAKSE) | 4:38 | 2022-02-28 | 2022-09-03 |
 | [Astral Body](https://open.spotify.com/track/17yuGlOR1mCfOOjdu1XmqH) | [Michel Mondrain](https://open.spotify.com/artist/4UwUTmJanOQvwAGmUKkewh) | [Astral Body](https://open.spotify.com/album/7GwWItskLCrgRjyEwbKzhZ) | 3:07 | 2022-02-28 |  |
 | [Aurora](https://open.spotify.com/track/50FEe1nYGhnjMk4XEkh3HQ) | [Savino Fiorelli](https://open.spotify.com/artist/3UhmIVKpLg4zkoyOTuduU4) | [Aurora](https://open.spotify.com/album/03SWBRDS5HAEMKQCKp1dew) | 2:55 | 2022-02-28 |  |
 | [Autumn](https://open.spotify.com/track/0ansjnBkSFKDqlQ0KaTydJ) | [Kee Marcello](https://open.spotify.com/artist/5yBVDQGDI58X71bTYrle3o), [Freddie Hultana](https://open.spotify.com/artist/2kbBom27w5NJydUVB2SonR) | [The Four Seasons](https://open.spotify.com/album/6ekmiW4L7zlzHgAqWKbImP) | 2:03 | 2022-02-28 |  |
@@ -84,6 +84,7 @@
 | [Slow](https://open.spotify.com/track/4C18P7OaNo271fYNnbpoVR) | [Dag Sommer](https://open.spotify.com/artist/7C14yKyhGQefwbz7ckNHmy) | [Slow](https://open.spotify.com/album/1wNUZDyBD23Omaly7HaOql) | 2:40 | 2022-02-28 |  |
 | [Slower Breathing](https://open.spotify.com/track/3ge5gs7BWnadCCG41cFS0n) | [Distant Waves](https://open.spotify.com/artist/7GEwtxqekjKY0au4q89hHG) | [Slower Breathing](https://open.spotify.com/album/6DRmJEnmXSjpUx8rpuwwUD) | 4:05 | 2022-02-28 |  |
 | [Slumbering](https://open.spotify.com/track/7G93PdOrq65MM44MULk4LF) | [Mindful Eclipse](https://open.spotify.com/artist/7AqjdmOiPPFzX6oy0Mfo1j) | [Slumbering](https://open.spotify.com/album/38kQws0XCqhTwzmVs9SJX0) | 3:02 | 2022-02-28 |  |
+| [Solitary Dream](https://open.spotify.com/track/0j2OXnzJXz64RdW5Cd9YXF) | [Luka Vida](https://open.spotify.com/artist/0likNjMTiDiVjqPr4OcsZC) | [Solitary Dream](https://open.spotify.com/album/2XPb71dayODjs1YmaFQRnC) | 2:40 | 2022-09-02 |  |
 | [Somber](https://open.spotify.com/track/1IaWSNyIJgS5I2wG7zmWJJ) | [Polarsken](https://open.spotify.com/artist/776CEyHtewX4OuzP3zDVjH) | [Somber](https://open.spotify.com/album/07nrUzwmwDB4KM1ihnIy8X) | 4:13 | 2022-03-29 |  |
 | [State of Existence](https://open.spotify.com/track/2ZA0J8gcbUxetOh1R3rzMp) | [Christos Konstantinidis](https://open.spotify.com/artist/1r6SmaBSJVyCN1gT5mMODO) | [State of Existence](https://open.spotify.com/album/4VBg4QcYhgsnVVFGEU5wzI) | 2:56 | 2022-02-28 |  |
 | [Stills](https://open.spotify.com/track/76aOwjgXrk9f8SPhDcLXWz) | [Places Within](https://open.spotify.com/artist/00rLUyC4CkQCYpvg0kBI87) | [Stills](https://open.spotify.com/album/0dcqSIGN8na4KTTDlNYm3O) | 2:20 | 2022-02-28 |  |

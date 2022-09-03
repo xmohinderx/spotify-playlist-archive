@@ -4,7 +4,7 @@
 
 > Sapphic songs that defined your music taste as "yearning"
 
-260 songs - 15 hr 33 min - [published](https://open.spotify.com/playlist/5xkrtz2ZNtOUjV3wvR4itN)
+261 songs - 15 hr 37 min - [published](https://open.spotify.com/playlist/5xkrtz2ZNtOUjV3wvR4itN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,6 +136,7 @@
 | [Look Who’s Inside Again](https://open.spotify.com/track/7d8dqy6GbiUqotcTSs0jXg) | [Bo Burnham](https://open.spotify.com/artist/2Waw2sSbqvAwK8NwACNjVo) | [Inside \(The Songs\)](https://open.spotify.com/album/1e5OlE0EY5fucq6GIU1xi3) | 1:23 | 2022-02-04 | 2022-07-29 |
 | [Loose Garment](https://open.spotify.com/track/1CE5yIkftpwJ3dhtfc3ndl) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [MUNA](https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l) | 3:10 | 2022-07-14 |  |
 | [Love in the Time of Socialism](https://open.spotify.com/track/0JuJ0M9ZaKDwXms3rUh1Hk) | [Yellow House](https://open.spotify.com/artist/2jAzx88tHo3KNYauXANisl) | [A Carnival of Fears](https://open.spotify.com/album/06YsuIiMmeV7GzKNTxNy59) | 4:11 | 2021-12-15 | 2022-07-29 |
+| [Love of Her Life](https://open.spotify.com/track/5SF2uq9nZItW8MXNy6I4zE) | [Lizzie Reid](https://open.spotify.com/artist/0GytihetIdprntMyuyAJm6) | [Love of Her Life](https://open.spotify.com/album/3BUfowBL6EwLo9O9X2ASAJ) | 4:01 | 2022-09-02 |  |
 | [Lovers Rock](https://open.spotify.com/track/1H7zdcRD0gLGQY0w5ejGgX) | [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W) | [French Exit](https://open.spotify.com/album/6WrxgVbi9Q96gV8tZMq3FH) | 3:33 | 2021-12-15 | 2022-07-29 |
 | [Lovers Rock](https://open.spotify.com/track/6dBUzqjtbnIa1TwYbyw5CM) | [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W) | [French Exit](https://open.spotify.com/album/4Hai0uVzRbyTSaTPzxTY4e) | 3:33 | 2022-06-10 |  |
 | [Luna \- Remastered](https://open.spotify.com/track/5Q6Xzp25aXYxNJ4B6vBkcf) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Siamese Dream \(Deluxe Edition\)](https://open.spotify.com/album/0bQglEvsHphrS19FGODEGo) | 3:22 | 2021-12-15 | 2022-04-21 |
@@ -260,7 +261,7 @@
 | [Wish I Was You](https://open.spotify.com/track/2wbY4rxFUCDyvK7mksf5HG) | [EXES](https://open.spotify.com/artist/39R87tT1qaTxHwu5m87USa) | [Wish I Was You](https://open.spotify.com/album/5E8qV4Xas0bLhhZJiNbPoq) | 3:07 | 2022-02-04 | 2022-02-12 |
 | [Work](https://open.spotify.com/track/1knUACOt5yfNAYn7gnYQVt) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [CDW](https://open.spotify.com/album/6gCycQSo1Yp503MXyvzSF9) | 3:44 | 2022-06-10 |  |
 | [Work](https://open.spotify.com/track/5T1xKMA4xA7MDX4EiB8Cup) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [Work](https://open.spotify.com/album/1OzNHYZsbugdZIvC4cv1IT) | 3:44 | 2022-01-08 | 2022-04-21 |
-| [Yards / Gardens](https://open.spotify.com/track/6suniHkw9kWbCWMta68RxR) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Yards / Gardens](https://open.spotify.com/album/2Z7WFypYB4NdZBX4EKoPOQ) | 2:21 | 2022-07-20 |  |
+| [Yards / Gardens](https://open.spotify.com/track/6suniHkw9kWbCWMta68RxR) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Yards / Gardens](https://open.spotify.com/album/2Z7WFypYB4NdZBX4EKoPOQ) | 2:21 | 2022-07-20 | 2022-09-03 |
 | [yellow is the color of her eyes](https://open.spotify.com/track/5EDBVVqd2ogoG89XVQOvsn) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [color theory](https://open.spotify.com/album/2CISL0rSGzbO0MbQMlqBez) | 7:15 | 2021-12-15 | 2022-07-29 |
 | [You](https://open.spotify.com/track/1iLBI0xUhGKZQM1DresHuj) | [Good Morning](https://open.spotify.com/artist/2kMzxA8edU05hvMFU493zJ) | [On The Street / You](https://open.spotify.com/album/1lJC5KM0Gle2KBpiQeNbLE) | 3:10 | 2022-03-03 | 2022-04-17 |
 | [you ruined phoebe bridgers](https://open.spotify.com/track/1wbqhfq7CIN9Q5FL8CL90r) | [Anya Gupta](https://open.spotify.com/artist/6SHpQ6QnVZdoPVhQa3A2sL) | [i \(don't\) know you](https://open.spotify.com/album/3Vyl6gXOqLsiaao9xxUpn7) | 2:46 | 2022-06-10 | 2022-07-15 |

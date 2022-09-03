@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-250 songs - 14 hr 43 min - [published](https://open.spotify.com/playlist/0rvk5w1vdyj62Mqfk2UdnJ)
+252 songs - 14 hr 50 min - [published](https://open.spotify.com/playlist/0rvk5w1vdyj62Mqfk2UdnJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -233,6 +233,7 @@
 | [TROUBLEMAKER](https://open.spotify.com/track/6mo88PgAWke0VsVbFmABoT) | [F.O.O.L](https://open.spotify.com/artist/1ldNdtZX38LAsOk0ciLvb2) | [TROUBLEMAKER](https://open.spotify.com/album/5XxwIsdTvY6h335Jmcf10Y) | 3:42 | 2021-11-19 | 2022-01-27 |
 | [True Love](https://open.spotify.com/track/3OHmWRelVqwo2OxNdLbA4d) | [Claes Rosen](https://open.spotify.com/artist/0DJbbindURDhi6N4cRf48d) | [True Love](https://open.spotify.com/album/0iqNuyAe1rOwBVrSrVAT2D) | 4:30 | 2022-05-11 | 2022-07-22 |
 | [Trust Issues](https://open.spotify.com/track/5nAcDjHi1Sn9d24ZPwYpZc) | [SABAI](https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ), [Adam Pearce](https://open.spotify.com/artist/0AhdWP01wLAKxDfhsKMEKf), [Zack Gray](https://open.spotify.com/artist/4ts4KzTqLDytonufwGpl9l) | [Trust Issues](https://open.spotify.com/album/1l3DW3iuvlS7uxxhxjAWoF) | 3:02 | 2022-02-22 | 2022-05-04 |
+| [Try Me](https://open.spotify.com/track/2x4X4bn0hzj2AJLC7jPfJa) | [OCULA](https://open.spotify.com/artist/2VzzhmEHXT4nGim8nBw4ij) | [Try Me](https://open.spotify.com/album/2rZztGcRl9pUAbSfEQshRC) | 3:14 | 2022-09-02 |  |
 | [Turn It Up](https://open.spotify.com/track/64c7I8GWjcOqK8guyLmN8u) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We) | [Turn It Up](https://open.spotify.com/album/6uE9OqskHZdqjKMvwf8GYf) | 3:13 | 2021-12-02 | 2022-03-08 |
 | [U](https://open.spotify.com/track/3Qjs17YjOxj0QjuiQoCgV4) | [Terry Da Libra](https://open.spotify.com/artist/1N18Bl1O1zRsE0uRrt3ekB) | [U](https://open.spotify.com/album/4CJ2YvdHFMZ8Pyfvh7rI0T) | 4:32 | 2021-11-19 | 2022-02-04 |
 | [Uatchu](https://open.spotify.com/track/4eUX2nKYBGSbknXF6zoRgj) | [Enviado Vida](https://open.spotify.com/artist/0oIm7Qj3lCZzwr1xLlRqT8) | [Uatchu](https://open.spotify.com/album/2Kdrhi2A9RY0gmB2yyBPUw) | 4:37 | 2021-11-19 | 2022-01-25 |
@@ -255,6 +256,7 @@
 | [Won't Make A Sound](https://open.spotify.com/track/1mgsWGf69P448vP0md1Z8e) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1), [NURKO](https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4), [Micah Martin](https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3) | [Won't Make A Sound](https://open.spotify.com/album/30dC6io6lDi08GNNyGnudg) | 4:36 | 2022-05-17 | 2022-07-28 |
 | [Won't Stop](https://open.spotify.com/track/6oS0xGbxzpkHh3f7ODXImB) | [Leah Culver](https://open.spotify.com/artist/0KEExJc1NKwmzJxQHbbkts) | [Won't Stop](https://open.spotify.com/album/3NXkqxY34ICPVZdMKl0CPO) | 4:38 | 2022-04-19 | 2022-06-30 |
 | [WYGD](https://open.spotify.com/track/2TRhRhzp9xGrS7yWtDJili) | [Bishu](https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL) | [WYGD](https://open.spotify.com/album/0nuPNR9F9QyfuxtOT0Fqhs) | 2:28 | 2022-03-01 | 2022-05-13 |
+| [Yesterday](https://open.spotify.com/track/6Wz9kNEppcp9U6jHptH6sQ) | [No Mana](https://open.spotify.com/artist/20yuGdfbRkW0HH3OfG1Nkg) | [Yesterday](https://open.spotify.com/album/0MU0ovgIP5zFj9CJLbkTaM) | 4:33 | 2022-09-02 |  |
 | [You Fill My Soul](https://open.spotify.com/track/0IOG53eZR3vo0HtmfKkyG5) | [Approaching Black](https://open.spotify.com/artist/0SfWu37246YXADKirimzyW) | [You Fill My Soul](https://open.spotify.com/album/29hikAxjTpTa0hO5wAi1vL) | 4:18 | 2022-08-05 |  |
 | [Your Heart](https://open.spotify.com/track/6KbV2Dp0Bb4ZbRp2Wa2jxN) | [Maliboux](https://open.spotify.com/artist/157IWDnr2hC9SFL5OJF8j7) | [Your Heart](https://open.spotify.com/album/543ni1eZzOpFEMWjYifIJ9) | 2:35 | 2022-06-03 | 2022-08-17 |
 | [Your Way](https://open.spotify.com/track/3kSm5HaznTY7Lkhl5fFpS6) | [Odsen](https://open.spotify.com/artist/5u9LEu640uGxBEKnU1PY9V) | [Your Way](https://open.spotify.com/album/75EEPbee9YaPfkY8oHEpAT) | 2:57 | 2022-06-24 |  |

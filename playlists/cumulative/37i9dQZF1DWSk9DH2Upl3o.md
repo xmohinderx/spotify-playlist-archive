@@ -4,7 +4,7 @@
 
 > The jam scene is alive and well\. Cover: Papadosio
 
-64 songs - 6 hr 28 min - [published](https://open.spotify.com/playlist/1MZeQVXDEN8ttDWSeIbiNY)
+67 songs - 6 hr 43 min - [published](https://open.spotify.com/playlist/1MZeQVXDEN8ttDWSeIbiNY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,11 +22,11 @@
 | [Duck Farm](https://open.spotify.com/track/7bafHzGkh71QJhViBaohcm) | [The Werks](https://open.spotify.com/artist/2w3mdKFSuS2cyXd6ZLYEvs) | [The Werks](https://open.spotify.com/album/4GdrviBOifZPQe1r7At1qG) | 7:36 | 2022-06-23 |  |
 | [Electric Taco Stand](https://open.spotify.com/track/2mMElb3GObwkGdVYtyT0nu) | [Spafford](https://open.spotify.com/artist/7fA0IDinGo27lmOeGy6oGV) | [Spafford](https://open.spotify.com/album/6XNKBFhh66GoOhMpOd8s05) | 4:23 | 2022-06-23 |  |
 | [Enjoy the Ride](https://open.spotify.com/track/4EAZKkjcKYdjm2Ms0cL1Mm) | [The Jauntee](https://open.spotify.com/artist/79iSQLNRiPa93oo3yYxAmN) | [Enjoy the Ride](https://open.spotify.com/album/5CfoFSPM4KCVjS6MbIEDZr) | 6:23 | 2022-06-23 | 2022-08-01 |
-| [Fact from Fiction](https://open.spotify.com/track/2vWHuNouTFcfkcOY7zQKZ9) | [The Fritz](https://open.spotify.com/artist/792UqbFMNV10U1J1onyAq8) | [Natural Mind](https://open.spotify.com/album/6MDZ1To0ibnc4VcKMMYhBj) | 8:25 | 2022-06-23 |  |
+| [Fact from Fiction](https://open.spotify.com/track/2vWHuNouTFcfkcOY7zQKZ9) | [The Fritz](https://open.spotify.com/artist/792UqbFMNV10U1J1onyAq8) | [Natural Mind](https://open.spotify.com/album/6MDZ1To0ibnc4VcKMMYhBj) | 8:25 | 2022-06-23 | 2022-09-03 |
 | [Fannie](https://open.spotify.com/track/3L2U8GgZE0y2WX0z6cUYGX) | [Dopapod](https://open.spotify.com/artist/6ur6SxSBdRLBgehOIT2iwX) | [Dopapod](https://open.spotify.com/album/2LrH4Sm8KxA10mnUy3IcFA) | 4:07 | 2022-06-23 |  |
 | [Figure It Out](https://open.spotify.com/track/4z64nIlAoBSrZ60M8FbgnE) | [Eggy](https://open.spotify.com/artist/3gcJMFyZwSnYr9ChgnPpYj) | [Watercolor Days](https://open.spotify.com/album/60pMnmVxIovDVR03otDSfV) | 5:38 | 2022-06-23 | 2022-07-29 |
 | [Galactic Passport](https://open.spotify.com/track/3OAg1ONfFGgdps1INL4qaX) | [The Werks](https://open.spotify.com/artist/2w3mdKFSuS2cyXd6ZLYEvs) | [The Werks](https://open.spotify.com/album/4GdrviBOifZPQe1r7At1qG) | 6:52 | 2022-06-23 |  |
-| [Get out of Your Head](https://open.spotify.com/track/2wyegJVpew6bQlSNrkASBY) | [Cycles](https://open.spotify.com/artist/3VqGpoIhVcMCzMmIDHXPDS) | [Selections, Vol\. 1](https://open.spotify.com/album/76PdXZ62mwchCRDj6cxtC7) | 12:11 | 2022-06-23 |  |
+| [Get out of Your Head](https://open.spotify.com/track/2wyegJVpew6bQlSNrkASBY) | [Cycles](https://open.spotify.com/artist/3VqGpoIhVcMCzMmIDHXPDS) | [Selections, Vol\. 1](https://open.spotify.com/album/76PdXZ62mwchCRDj6cxtC7) | 12:11 | 2022-06-23 | 2022-09-03 |
 | [Ghost In The Machine](https://open.spotify.com/track/5VBPHVGLIpMdwRolGDxAm9) | [Dawes](https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV) | [Ghost In The Machine](https://open.spotify.com/album/35uUl3hTYQfBhH8CvSsTiV) | 6:19 | 2022-07-08 |  |
 | [Hiccup](https://open.spotify.com/track/4GXPo6bO1KpGJ0AGZbq75o) | [Umphrey's McGee](https://open.spotify.com/artist/7mQilAy42MqNPqUFqK4Z0o) | [Asking For A Friend](https://open.spotify.com/album/6SLMJC96T8b2uADVaiYfOf) | 3:06 | 2022-07-01 |  |
 | [How Long...](https://open.spotify.com/track/5ahLdSDP6XlGLRdEjRVhyX) | [Cbdb](https://open.spotify.com/artist/0Rt9ML8x5r1DFhSPAJhbwr) | [Phone.Keys.Wallet](https://open.spotify.com/album/2fVFLWl9qjao0Q1eal6yx4) | 7:31 | 2022-06-23 |  |
@@ -41,7 +41,9 @@
 | [Keep Your Hands to Yourself](https://open.spotify.com/track/32fEIMGIvlJhlw8HMiCdjh) | [Ghost Light](https://open.spotify.com/artist/2daxH6yPiKVTF0CtQ6XWOe) | [Best Kept Secrets](https://open.spotify.com/album/3gEFsGzKi28JJpyGiS0o5s) | 4:19 | 2022-06-23 |  |
 | [Kinetic Bump](https://open.spotify.com/track/54gS8v9fTUVOK9xsFgAeOt) | [The Mantras](https://open.spotify.com/artist/72H4GGWlWYkqZlNdkmX2Ji) | [Jambands Ruined My Life](https://open.spotify.com/album/4F9i2AtLXhnfSPCuNcOjqU) | 6:15 | 2022-06-23 | 2022-08-27 |
 | [Kitty Chaser \(Explosions\)](https://open.spotify.com/track/31prZotiPV46jh06xCTop4) | [Aqueous](https://open.spotify.com/artist/74d8upOdwQZyoDGXWEguMn) | [Cycles](https://open.spotify.com/album/2Q4TCChrfQOSkHoOj3bce1) | 9:39 | 2022-06-23 |  |
+| [Left Behind](https://open.spotify.com/track/160RJAfQ71LcES9hN06z3b) | [Bywater Call](https://open.spotify.com/artist/1bhk3AmtYKQAcDzbDyWG4M) | [Remain](https://open.spotify.com/album/6Ra2EYAa2ZUGMdFDOwPrgj) | 5:54 | 2022-09-02 |  |
 | [Lemon Haze](https://open.spotify.com/track/5xxDOqegRiTJ5n1LwePJx0) | [Frequilibrium](https://open.spotify.com/artist/0JNcTTdEYtUhOfoWdhRbXM) | [Frequilibrium](https://open.spotify.com/album/1iyratUHXjtigpYB9CWRI0) | 4:38 | 2022-06-23 | 2022-07-29 |
+| [Lessons](https://open.spotify.com/track/5iVNIJ2EE9JS7KVLxwWSFC) | [WIZRD](https://open.spotify.com/artist/1PJytjaK6elVRZ7ZI3u3lr) | [Lessons](https://open.spotify.com/album/3nTwX55ca9E75rrRXjbD27) | 4:10 | 2022-09-02 |  |
 | [Lily's Tiger](https://open.spotify.com/track/1wEt9nM5wq2U5RNuWBxnyA) | [Great Blue](https://open.spotify.com/artist/1LlkBNUOz29oWc0IeX0lXc) | [Great Blue](https://open.spotify.com/album/3EuzVI8uESnKwlOOdh4wr6) | 4:57 | 2022-06-23 |  |
 | [Mcmansion](https://open.spotify.com/track/3bFDEWT2lFhBMM6cxcBEGY) | [The Trichomes](https://open.spotify.com/artist/0Z7aFWvcTx8NhWRUfTInfz) | [Jazz Cabbage Soiree](https://open.spotify.com/album/1eBGpVUNZptUK32L7YG2XO) | 7:51 | 2022-06-23 | 2022-07-25 |
 | [Mokuba](https://open.spotify.com/track/58Ge6PmTc9PfP0mK5GC8Mk) | [Tauk](https://open.spotify.com/artist/6qauwCj8W2mTcDGbyDGo6O) | [Collisions](https://open.spotify.com/album/0Hzx5qahFYpoxFlNz0iHrK) | 5:27 | 2022-06-23 |  |
@@ -70,7 +72,8 @@
 | [The World Is A Ghetto](https://open.spotify.com/track/5yiEFVz2RhuNvi9msiw3oI) | [Los Lobos](https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT) | [Native Sons](https://open.spotify.com/album/2AH53pDM2S1jAggLLAueAM) | 8:33 | 2022-06-23 |  |
 | [Time Dilates](https://open.spotify.com/track/2rGANn1EnbCGUC0oftuwW9) | [Lotus ](https://open.spotify.com/artist/1a4N2lwra7WGjwCDJS1Dkk) | [Time Dilates](https://open.spotify.com/album/6fPbxh0gX0GZl4Ppy8pJ29) | 5:21 | 2022-08-26 |  |
 | [Tumbleweed](https://open.spotify.com/track/1DWPCV6sKNGnzn4ypzDIcm) | [Big Something](https://open.spotify.com/artist/3kzqfNqrlEwieWGqRFiQso) | [Tumbleweed](https://open.spotify.com/album/0Wdd7IhlwI1uGNIeJayzM4) | 6:40 | 2022-06-23 |  |
-| [What'cha Gonna Do](https://open.spotify.com/track/54LhVzJOJxT2S6Nl30wPBs) | [Skyfoot](https://open.spotify.com/artist/5Igs9PLJ9qlRa627kIjTH0) | [What'cha Gonna Do](https://open.spotify.com/album/6aHGit3gxe7m5iSlbAi6vD) | 5:46 | 2022-06-23 |  |
+| [What'cha Gonna Do](https://open.spotify.com/track/54LhVzJOJxT2S6Nl30wPBs) | [Skyfoot](https://open.spotify.com/artist/5Igs9PLJ9qlRa627kIjTH0) | [What'cha Gonna Do](https://open.spotify.com/album/6aHGit3gxe7m5iSlbAi6vD) | 5:46 | 2022-06-23 | 2022-09-03 |
 | [Whiskey](https://open.spotify.com/track/3q4QhuBKrbdBw55m1JC2T0) | [The Jauntee](https://open.spotify.com/artist/79iSQLNRiPa93oo3yYxAmN) | [Enjoy the Ride](https://open.spotify.com/album/5CfoFSPM4KCVjS6MbIEDZr) | 3:20 | 2022-06-23 | 2022-07-29 |
+| [Yes We Can Can](https://open.spotify.com/track/0KOYauWfZId5BWZDBGOkOA) | [Moonalice](https://open.spotify.com/artist/03UgRdV3bSLEHGmdagyM0e) | [Yes We Can Can](https://open.spotify.com/album/471new68y9IZShdxJHtCUT) | 4:43 | 2022-09-02 |  |
 
 \*This playlist was first scraped on 2022-06-28. Prior content cannot be recovered.

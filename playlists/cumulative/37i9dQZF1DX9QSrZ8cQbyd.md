@@ -4,7 +4,7 @@
 
 > Glockenspiel lullabies for your baby to fall asleep.
 
-139 songs - 3 hr 50 min - [published](https://open.spotify.com/playlist/79jliU0lroEmqzvLywaZ5u)
+143 songs - 3 hr 56 min - [published](https://open.spotify.com/playlist/79jliU0lroEmqzvLywaZ5u)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [I Love You](https://open.spotify.com/track/2ANrXzrdthrTcW7M7eN9Ow) | [Niles Hodges](https://open.spotify.com/artist/56QqQPFEpl4yfIYc5EHIc5) | [I Love You](https://open.spotify.com/album/2b8qJ3ImYhPzJzIeIMaMvw) | 1:34 | 2021-11-11 |  |
 | [I Want More S'mores!](https://open.spotify.com/track/2Z3GPJnVtRufB4ofJd8hJR) | [Laurene Woss](https://open.spotify.com/artist/49F4r3o5c5UQgy1AASNfEb) | [I Want More S'mores!](https://open.spotify.com/album/2Ppj1in5kz23W1TsvVybt4) | 1:08 | 2021-11-11 |  |
 | [If you could fly](https://open.spotify.com/track/4aDqhVtxy605zGBXp3XsxJ) | [Jervis Tollemache](https://open.spotify.com/artist/2RtsCV1nqcCjQ82JpCbtho) | [If you could fly](https://open.spotify.com/album/54k1esexpddjve7sUPnU4q) | 1:52 | 2021-11-11 |  |
+| [In The Moonlight](https://open.spotify.com/track/1qdZZBPWAh1nQQZ7o4wkxL) | [Lyndon Kelsey](https://open.spotify.com/artist/2MhESJnJMSY6WDl9xC5BUG) | [In The Moonlight](https://open.spotify.com/album/1ljrzJaXJrRAAkHmaYCenG) | 1:31 | 2022-09-02 |  |
 | [Itsy Bitsy Spider](https://open.spotify.com/track/3rRgStxDZMMv1irHYhZsX8) | [Pascal Pauli](https://open.spotify.com/artist/6gGkVAzOgJnvTGohZy4DpT) | [Buenos Noches](https://open.spotify.com/album/1CSwrZUn5OT63c94owSBMr) | 1:13 | 2021-11-11 |  |
 | [K is for Kisses](https://open.spotify.com/track/3NyMMyYiwcdJk4SdmJq6Lh) | [Catherine Barwick](https://open.spotify.com/artist/7cZhGFoCAeoYdzvnSOuBQH) | [K is for Kisses](https://open.spotify.com/album/5WckEpbVB5z3wNCUbfTfDf) | 1:43 | 2022-05-17 |  |
 | [Katie Belle](https://open.spotify.com/track/25NbUsz4IfKSTmNin4GqHl) | [Laurene Woss](https://open.spotify.com/artist/49F4r3o5c5UQgy1AASNfEb) | [I Want More S'mores!](https://open.spotify.com/album/2Ppj1in5kz23W1TsvVybt4) | 1:39 | 2021-11-11 |  |
@@ -122,6 +123,7 @@
 | [Sunbeam](https://open.spotify.com/track/5sN2ztotXMAalZaQmmfMeZ) | [Chiara Almanza](https://open.spotify.com/artist/1moO688fElQ5uMSbixmBya) | [Peace and Quiet](https://open.spotify.com/album/077PeucgkWd6GbZauVg4kL) | 2:11 | 2021-11-11 |  |
 | [Sunday Best](https://open.spotify.com/track/13JaY16Co0IQ86s2Zd9gXK) | [Liebe Glocken](https://open.spotify.com/artist/3p3unInQrETgfYGBCPatYA) | [Liebe Glocken](https://open.spotify.com/album/4N7Hefy1YjBOp9iQIPknLQ) | 3:01 | 2021-11-11 |  |
 | [Surrender](https://open.spotify.com/track/2Ad9LUxxFANeu2XZhwZOeA) | [Liebe Glocken](https://open.spotify.com/artist/3p3unInQrETgfYGBCPatYA) | [Liebe Glocken](https://open.spotify.com/album/4N7Hefy1YjBOp9iQIPknLQ) | 2:31 | 2021-11-11 |  |
+| [Swimming In The Sky](https://open.spotify.com/track/6vD6chblxLdWNorys9bg3X) | [Eugene Mayes](https://open.spotify.com/artist/1t9KJ8FeFMxdTMG4Bl6g6I) | [Swimming In The Sky](https://open.spotify.com/album/4oFkbqFZGBkNgQXHYLZEVY) | 1:28 | 2022-09-02 |  |
 | [The Blue Danub](https://open.spotify.com/track/0eOT0Fyd7TDeKAGWTnbfrO) | [Nappy Naps](https://open.spotify.com/artist/3kksb9EVU9RfPYMPTAl9Ju) | [Hush Little Baby](https://open.spotify.com/album/69BYBIDwAdbaI1DM5TL36s) | 1:16 | 2021-11-11 | 2022-02-11 |
 | [The Button Song](https://open.spotify.com/track/53asbytXgNUysTYzx36QKL) | [Conway Rose](https://open.spotify.com/artist/5MPStf6vX21ukgWegFXU3K) | [The Button Song](https://open.spotify.com/album/2GczQclNVTVpionfA4751C) | 1:05 | 2021-11-11 |  |
 | [The More We Get Together](https://open.spotify.com/track/1NFGCM05E8UmXCYlYxGZ1x) | [Leslie Cyzner](https://open.spotify.com/artist/2hA7X1UG3Vb95EUylqcf3N) | [Mary Had a Little Lamb](https://open.spotify.com/album/4LF5iraotVnbVyZ4N30qfv) | 1:21 | 2021-11-11 | 2022-04-23 |
@@ -137,6 +139,7 @@
 | [Trevor the peaceful Snake](https://open.spotify.com/track/1zd87iMSOe0pffocJ08WgF) | [Conway Rose](https://open.spotify.com/artist/5MPStf6vX21ukgWegFXU3K) | [Trevor the peaceful Snake](https://open.spotify.com/album/0tkjpc0XqX9Z7yM1mDQXa8) | 1:47 | 2021-11-11 |  |
 | [Trudy The Fox](https://open.spotify.com/track/2S3uOARpZwfZdkXcq7gYtQ) | [Orson Pierson](https://open.spotify.com/artist/43rTSYyJFSBjnuS3nNQswf) | [Trudy The Fox](https://open.spotify.com/album/6W2b1qWMVDCPJAKaEX1qAu) | 1:38 | 2022-06-10 |  |
 | [Twinkle Twinkle Little Star \(Music Box Version\)](https://open.spotify.com/track/1jkWPpYdq58FozTvsW3XFo) | [John B\. Lund](https://open.spotify.com/artist/7aeRsfmuN284l1Hs1eyVbW) | [Twinkle Twinkle Little Star](https://open.spotify.com/album/5tqLaaETd1BYq5muZoirC8) | 1:33 | 2021-11-11 |  |
+| [Visit the Rabbit](https://open.spotify.com/track/1EBqHgwneHELPC9t5NCmeX) | [Codie Banner](https://open.spotify.com/artist/2zvjZSjUq7B9ECMj1aIuI6) | [Visit the Rabbit](https://open.spotify.com/album/4gyPnrjegVhy1sNeljFU7n) | 1:15 | 2022-09-02 |  |
 | [When she sleeps](https://open.spotify.com/track/08ilBU7S4yPwYm9Ke8veyF) | [Rusty Everett](https://open.spotify.com/artist/6XzRNYTnp1uab8LvuYBaTg) | [When she sleeps](https://open.spotify.com/album/2dBj0EjXxzfNiNZtlXBTbi) | 1:28 | 2021-11-11 |  |
 | [When the stars](https://open.spotify.com/track/0Jz7MSxiJIySmnQ9YRXNXG) | [Winslow Winchester](https://open.spotify.com/artist/1r4Sgia0s6wqck1PKaNmuH) | [When the stars](https://open.spotify.com/album/113aJdsZnyvHbxsWQZZvt8) | 1:39 | 2021-11-11 |  |
 | [When You Say Goodnight](https://open.spotify.com/track/79NuT2YtlM18mndrxJ07dN) | [Kaja Tucker](https://open.spotify.com/artist/5MTYungdXV9JzKLDWg4Uyt) | [Happiness Is](https://open.spotify.com/album/69B8GVczeTLiAc8SCVTP3J) | 1:23 | 2022-07-29 |  |
@@ -145,6 +148,7 @@
 | [Write to Me](https://open.spotify.com/track/1EXfPEm8YJeO0Y55FSnLkE) | [Elroy Sadler](https://open.spotify.com/artist/2uXHbgkDsEIZK5roQl8xBt) | [Write to Me](https://open.spotify.com/album/2hOLsqSymCvbq6dtD8JGIK) | 1:07 | 2022-05-17 |  |
 | [Yawn at Dawn](https://open.spotify.com/track/0DcbhT9Gkji3MzxHzjkBGU) | [Kirsten Cagle](https://open.spotify.com/artist/5PccRblfC6x56aEc9QFFa6) | [Naptime](https://open.spotify.com/album/6gkiPwfiBMRrFHfPuL3JmD) | 1:42 | 2021-11-11 |  |
 | [You Are My Sunshine](https://open.spotify.com/track/47e0nnskYVSS2VMw1HuIQ9) | [Stig Speleman](https://open.spotify.com/artist/6TaqXDgR9ZFZmXJgNmSpqR) | [Glockenspiel](https://open.spotify.com/album/4vJcvpxBnK5RsH8qLBghIa) | 2:38 | 2021-11-11 |  |
+| [You Shine Like The Stars](https://open.spotify.com/track/7EFZHQLk1iXhrvYjxELyyt) | [Niles Hodges](https://open.spotify.com/artist/56QqQPFEpl4yfIYc5EHIc5) | [You Shine Like The Stars](https://open.spotify.com/album/1pa9vZETSAftxp9fvhm7qx) | 1:45 | 2022-09-02 |  |
 | [Your First Words](https://open.spotify.com/track/1Rg5up8Vq7fSUXvi9T0ENn) | [Anthony Pinkley](https://open.spotify.com/artist/1yXV6gm8CPTqCLQ9XHkDBR) | [Bobby Bird](https://open.spotify.com/album/4UnSUHkjh50hz52I4NiZ1a) | 1:07 | 2021-11-11 |  |
 | [’Round Bedtime](https://open.spotify.com/track/4GWnLFPZHuoOrZ6w20PAP4) | [Jonty Kitchen](https://open.spotify.com/artist/6iHkOcJyOSWq4YC0LpBO2L) | [’Round Bedtime](https://open.spotify.com/album/7wDxb1WU5AJMVSJ9smiS4W) | 1:37 | 2021-11-11 |  |
 

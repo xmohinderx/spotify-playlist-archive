@@ -4,7 +4,7 @@
 
 > Extra vicious, hard\-hitting pop\.  This is SALT\.  Cover: Demi Lovato
 
-233 songs - 10 hr 42 min - [published](https://open.spotify.com/playlist/6uOoVSA8DjAX2qeF3BOP8u)
+235 songs - 10 hr 47 min - [published](https://open.spotify.com/playlist/6uOoVSA8DjAX2qeF3BOP8u)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Breakup Sex](https://open.spotify.com/track/5qy7Tp0aeBNEuAbV3mo3Xq) | [NERIAH](https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG) | [Breakup Sex](https://open.spotify.com/album/2Tjdq0ZoX7pIoTbfsRxbyb) | 2:33 | 2022-07-22 |  |
 | [Broken](https://open.spotify.com/track/6yFuexjIGUagtt3fyLgJgb) | [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67), [The Tech Thieves](https://open.spotify.com/artist/06bun5reMRmLxFCbcB6UHW) | [Broken](https://open.spotify.com/album/7o1htT58cH7mxL1ow9QOB8) | 3:02 | 2022-02-11 | 2022-03-26 |
 | [brutal](https://open.spotify.com/track/6SRsiMl7w1USE4mFqrOhHC) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:23 | 2021-12-24 | 2022-03-18 |
+| [Bury Me Alive](https://open.spotify.com/track/6vCsRxJAyCB75JQKZc8MHb) | [Xowie Jones](https://open.spotify.com/artist/0ZlBHRn2ZsHc1FESUa43ij) | [Bury Me Alive](https://open.spotify.com/album/7JwAaRcuWbdfqkfGX2VbA5) | 1:57 | 2022-09-02 |  |
 | [But I Don'T](https://open.spotify.com/track/1BZ8ne2p76ugVsn5TBjeuL) | [JESSIA](https://open.spotify.com/artist/6DdbeAeBlrYj8bNToZv4TY) | [How Are You?](https://open.spotify.com/album/6JCn8Tk6OGj3t0YYG55zy7) | 2:17 | 2022-03-18 | 2022-08-13 |
 | [CAROUSEL](https://open.spotify.com/track/2oIwlCLMTmNm21n1V16phB) | [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5), [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [CAROUSEL](https://open.spotify.com/album/0cVhAl4V39EyqY9iSg1SVL) | 2:58 | 2022-03-25 | 2022-08-13 |
 | [CASUALTY](https://open.spotify.com/track/3OWxpc6Zguzep0XKWGxDyc) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [CASUALTY](https://open.spotify.com/album/2Ctdbwmab7JKb5ZB8nbT0q) | 2:38 | 2022-01-28 | 2022-03-12 |
@@ -62,12 +63,12 @@
 | [did it hurt?](https://open.spotify.com/track/4NUEtHceMHws1GfgAelmAB) | [NOT THE MAIN CHARACTERS](https://open.spotify.com/artist/3zXPbW06DXFBAToUstfD1V) | [bad things come in 3s](https://open.spotify.com/album/29NCAQcGId5b4HAJp87xCM) | 2:09 | 2022-05-20 |  |
 | [Dirty Thoughts](https://open.spotify.com/track/2g1QPpTd4o8gTAapxEUPnz) | [Chloe Adams](https://open.spotify.com/artist/4B1bjBU8CLkIBTYTRklo2u) | [Dirty Thoughts](https://open.spotify.com/album/5bQZRw0e4UHu3KrkGrVKto) | 2:09 | 2021-11-05 |  |
 | [Dirty Thoughts](https://open.spotify.com/track/3ngV3q1Mplay2vhxAwamZP) | [Chloe Adams](https://open.spotify.com/artist/4B1bjBU8CLkIBTYTRklo2u) | [Dirty Thoughts](https://open.spotify.com/album/4fx89RUIG0uiPUebkD3iil) | 2:09 | 2021-11-05 | 2022-07-29 |
-| [DIY \(From “American Song Contest”\)](https://open.spotify.com/track/4JW9qAFkAuPkENUEDvO4hr) | [Stela Cole](https://open.spotify.com/artist/1PlWf6idMAz65Luiq6aOY9), [American Song Contest](https://open.spotify.com/artist/3pPClIZCqgahG8bguvacGh) | [American Song Contest: Episode 4](https://open.spotify.com/album/5tLEwslxrLWstMLpvNflyc) | 2:39 | 2022-04-15 |  |
+| [DIY \(From “American Song Contest”\)](https://open.spotify.com/track/4JW9qAFkAuPkENUEDvO4hr) | [Stela Cole](https://open.spotify.com/artist/1PlWf6idMAz65Luiq6aOY9), [American Song Contest](https://open.spotify.com/artist/3pPClIZCqgahG8bguvacGh) | [American Song Contest: Episode 4](https://open.spotify.com/album/5tLEwslxrLWstMLpvNflyc) | 2:39 | 2022-04-15 | 2022-09-03 |
 | [Dolls](https://open.spotify.com/track/0tFUl3tPqBzUM2aV0gitdq) | [Bella Poarch](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm) | [Dolls](https://open.spotify.com/album/6NgwO4JwL6tuwwQObi0HBe) | 2:12 | 2022-07-15 |  |
 | [Don't Break His Heart](https://open.spotify.com/track/21dzN9GnrRDYB8PmYCNSeh) | [bülow](https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4) | [Don't Break His Heart](https://open.spotify.com/album/07ZwhNrmU4jykdXMntIub0) | 3:10 | 2022-01-28 | 2022-02-19 |
 | [Donkey Kong](https://open.spotify.com/track/7xn7WXN302ayw4JPJWf5qZ) | [EHLE](https://open.spotify.com/artist/2OaUwJcloDhX02J3qLPw7q) | [Donkey Kong](https://open.spotify.com/album/7g3V0Gwowdfwcxqt3c4Bf2) | 2:31 | 2022-04-22 | 2022-07-02 |
 | [dramatic](https://open.spotify.com/track/5uBlr2RNpuu3n7ROgiQa7w) | [Cat & Calmell](https://open.spotify.com/artist/0SaaipFXHYbYDLDB6atAoR) | [dramatic](https://open.spotify.com/album/2uIYbXxbgDyGpndqhhHQS9) | 2:30 | 2021-10-22 | 2022-07-23 |
-| [dying on the inside](https://open.spotify.com/track/6h1s7cKnUtsbRpE5bwnUTf) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [dying on the inside](https://open.spotify.com/album/67sFRrnPbvz9Te28kO6Ktu) | 3:24 | 2022-02-25 |  |
+| [dying on the inside](https://open.spotify.com/track/6h1s7cKnUtsbRpE5bwnUTf) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [dying on the inside](https://open.spotify.com/album/67sFRrnPbvz9Te28kO6Ktu) | 3:24 | 2022-02-25 | 2022-09-03 |
 | [Easier than Lying](https://open.spotify.com/track/7N1TIml2jRQRgXUrpXgXrk) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [If I Can’t Have Love, I Want Power](https://open.spotify.com/album/3sq0hRtlT2SYeYajr5Cx22) | 3:26 | 2022-03-18 | 2022-04-02 |
 | [engravings](https://open.spotify.com/track/4u5CfuAGAHNYDIHSSW7BiY) | [Ethan Bortnick](https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY) | [engravings](https://open.spotify.com/album/2SbLcM1nwlKO76evmEuX6w) | 3:00 | 2022-07-01 |  |
 | [Ew](https://open.spotify.com/track/5uucqkAbfZCxwdTWolFyju) | [Andi](https://open.spotify.com/artist/7fEXIS5LgSLbCdzTePqe0V) | [Ew](https://open.spotify.com/album/3Q4uaS3TVjQg4dsX0fn8F6) | 2:35 | 2022-01-28 | 2022-04-29 |
@@ -135,6 +136,7 @@
 | [little boy](https://open.spotify.com/track/7xe5j7CnB63ejlzg5Y5H9Q) | [Pam Rabbit](https://open.spotify.com/artist/60jJZhMQOPHeCvoBosXVWU) | [Mom, I’m Lost](https://open.spotify.com/album/3oNFHLzr3qCJTNaXTzEOzA) | 2:46 | 2022-01-28 | 2022-02-19 |
 | [Losing My Mind](https://open.spotify.com/track/6ZlaFfhkHLPninRONOwHAu) | [JXCKY](https://open.spotify.com/artist/6BaMvb4XicSCtYWqjXw3hV) | [Losing My Mind](https://open.spotify.com/album/75biEwUSuKVlwVs1K3HgqM) | 2:48 | 2022-07-01 | 2022-07-29 |
 | [Losing My Mind](https://open.spotify.com/track/6lAnOqAIMG0UVlYkSm2jM1) | [JXCKY](https://open.spotify.com/artist/6BaMvb4XicSCtYWqjXw3hV) | [Losing My Mind](https://open.spotify.com/album/6L7O4HqttNPIIVTGa4xZVH) | 2:48 | 2022-07-01 |  |
+| [LOVE AND WAR](https://open.spotify.com/track/3YOPBDerQJorMfLrORcbsY) | [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [LOVE AND WAR](https://open.spotify.com/album/2q5AVOB26ptWtuXN3hjfok) | 2:40 | 2022-09-02 |  |
 | [Love Me Till U Hate Me](https://open.spotify.com/track/0f72jNvO6UORzL8J51jPIW) | [Niko Rubio](https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa) | [Love Me Till U Hate Me](https://open.spotify.com/album/6OB6AKoC7SXypIT5j8mViB) | 3:32 | 2022-05-13 |  |
 | [luv starved](https://open.spotify.com/track/6FpU7rjYGiCScT8H7cEOpv) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [a study of the human experience volume one](https://open.spotify.com/album/1oZ8mqRS1vJFZhSpc4WI4S) | 2:40 | 2022-03-18 | 2022-05-20 |
 | [Make A Wish](https://open.spotify.com/track/4zuYVAvlOW5rxDjyEzii6N) | [Julietta](https://open.spotify.com/artist/59GuvWzFy0o7wTJL81TVLV) | [Make A Wish](https://open.spotify.com/album/7nUfxVkgiGGaPddm8Y4ojp) | 2:38 | 2022-02-25 | 2022-05-07 |

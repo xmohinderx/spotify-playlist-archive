@@ -1300,6 +1300,24 @@
     },
     {
       "album": {
+        "name": "Luz Oculta",
+        "url": "https://open.spotify.com/album/5LIoNLXzODduC2rShCaG2J"
+      },
+      "artists": [
+        {
+          "name": "Barracuda Sound",
+          "url": "https://open.spotify.com/artist/7kh6kV95YvmhBPmbi2tIRU"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160774,
+      "name": "Luz Oculta",
+      "url": "https://open.spotify.com/track/0u7uSvFJUQ4iOVU1MORvBm"
+    },
+    {
+      "album": {
         "name": "Manha De Carnaval",
         "url": "https://open.spotify.com/album/2xRj3jkw0xBoLTBdkM8BSK"
       },
@@ -1431,6 +1449,24 @@
       "duration_ms": 207493,
       "name": "Montevideo",
       "url": "https://open.spotify.com/track/275koCzLil06PwQOAuRGvI"
+    },
+    {
+      "album": {
+        "name": "Moonlight and Grace Reimagined",
+        "url": "https://open.spotify.com/album/5VypWMT7ShaGTFMhDjrUge"
+      },
+      "artists": [
+        {
+          "name": "Phil Klein",
+          "url": "https://open.spotify.com/artist/7D4v9W10LK3ftu5UBRuNow"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181819,
+      "name": "Moonlight and Grace Reimagined",
+      "url": "https://open.spotify.com/track/6YLhil5rBjNBGQ5wCIsIgH"
     },
     {
       "album": {

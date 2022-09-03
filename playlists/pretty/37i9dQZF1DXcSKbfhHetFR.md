@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSKbfhHetFR.md) - [plain]
 
 > On a pas pu appeler ça Québec Shiny Tunes\. Photo: EXTERIO
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,185 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,186 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,17 +12,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSKbfhHetFR.md) - [plain]
 | 2 | [Hawaiienne](https://open.spotify.com/track/0BUD8MCnamel6skM7YCSJJ) | [Les Trois Accords](https://open.spotify.com/artist/2Xoi1HPP0Wa6nyNSYyHxgI) | [Gros mammouth album turbo](https://open.spotify.com/album/3gqXv0lUseQpAWqbjU3YQm) | 2:29 |
 | 3 | [Le train](https://open.spotify.com/track/3WXD1s3xsBGydb1rgZagd6) | [Vilain Pingouin](https://open.spotify.com/artist/7lS2jO7gRXSOtMYlhfjtbi) | [Vilain Pingouin](https://open.spotify.com/album/1ODLZJUUkSVaoLILmTYMtu) | 3:58 |
 | 4 | [Dale Hawerchuk](https://open.spotify.com/track/25Yj66WWWgyXbPNJZNNXvS) | [Les Dales Hawerchuk](https://open.spotify.com/artist/5kYwyvlqsCuDlzmfsSNSSC) | [Les Dales Hawerchuk](https://open.spotify.com/album/5woV8wdB6mPBfgrVONkapY) | 2:12 |
-| 5 | [Boomerang](https://open.spotify.com/track/6xw1lHAsGmik1lu0k15zk9) | [Kevin Parent](https://open.spotify.com/artist/5hOp5PaxAcdnaZtv4oqJCw) | [Pigeon d'argile](https://open.spotify.com/album/1GTX1BnzitW8M9h1Nrpofh) | 3:54 |
-| 6 | [Amalgame](https://open.spotify.com/track/21ATIZAwB9QXBOpTzw2lDM) | [Les Respectables](https://open.spotify.com/artist/1BgrTWzH5jW2zl79JfSLtl) | [$=Bonheur](https://open.spotify.com/album/3S1vz4DSEQFippvw8v05ev) | 4:27 |
+| 5 | [Amalgame](https://open.spotify.com/track/21ATIZAwB9QXBOpTzw2lDM) | [Les Respectables](https://open.spotify.com/artist/1BgrTWzH5jW2zl79JfSLtl) | [$=Bonheur](https://open.spotify.com/album/3S1vz4DSEQFippvw8v05ev) | 4:27 |
+| 6 | [Boomerang](https://open.spotify.com/track/6xw1lHAsGmik1lu0k15zk9) | [Kevin Parent](https://open.spotify.com/artist/5hOp5PaxAcdnaZtv4oqJCw) | [Pigeon d'argile](https://open.spotify.com/album/1GTX1BnzitW8M9h1Nrpofh) | 3:54 |
 | 7 | [Compter les corps](https://open.spotify.com/track/7mDh6tKtDYEkt8b1rXVTe0) | [Vulgaires Machins](https://open.spotify.com/artist/7ys7ta4FOM1pKxJwpqvazG) | [Compter les corps](https://open.spotify.com/album/0KPZyx1f8iQqRkj9d0gTbB) | 3:50 |
-| 8 | [J'ai oublié](https://open.spotify.com/track/0fxyIaAHcZg6uBlFSHYyJM) | [Captaine Révolte](https://open.spotify.com/artist/7qsCifJn8gcqcLP5nUfWPC) | [Danse sociale](https://open.spotify.com/album/43HrZpsHePmMfgN69PTnFR) | 3:55 |
-| 9 | [Le temps passe](https://open.spotify.com/track/4Wn546nf6SBGLC69yWHyos) | [Vincent Vallières](https://open.spotify.com/artist/2iG6QPoQAVjR93cWyMKqen) | [Chacun dans son espace](https://open.spotify.com/album/4t7Fp8XNpNChA2HQegZAEX) | 3:24 |
+| 8 | [Le temps passe](https://open.spotify.com/track/4Wn546nf6SBGLC69yWHyos) | [Vincent Vallières](https://open.spotify.com/artist/2iG6QPoQAVjR93cWyMKqen) | [Chacun dans son espace](https://open.spotify.com/album/4t7Fp8XNpNChA2HQegZAEX) | 3:24 |
+| 9 | [J'ai oublié](https://open.spotify.com/track/0fxyIaAHcZg6uBlFSHYyJM) | [Captaine Révolte](https://open.spotify.com/artist/7qsCifJn8gcqcLP5nUfWPC) | [Danse sociale](https://open.spotify.com/album/43HrZpsHePmMfgN69PTnFR) | 3:55 |
 | 10 | [Moisi moé'ssi](https://open.spotify.com/track/7AjsJZERJcf80ZqBSK9JYL) | [Fred Fortin](https://open.spotify.com/artist/5ryQZJpg6hSgRjMO5Jh5I1) | [Joseph Antoine Frédéric Fortin Perron](https://open.spotify.com/album/4eX5rBmbbwvO2aDefCrDLo) | 3:15 |
 | 11 | [Le savant fou](https://open.spotify.com/track/2LHoVyY2KYcbvtyhiX90LN) | [eXterio](https://open.spotify.com/artist/3wF6f7YFIwgmtD3daujyeF) | [Le délire du savant fou](https://open.spotify.com/album/5U0ic2IdlLwMhRI328aU1J) | 3:19 |
 | 12 | [Le petit castor](https://open.spotify.com/track/7d2Z5noBhH5DWDVm0JtcIe) | [Yelo Molo](https://open.spotify.com/artist/6Myhhn1uQSl9qnbjSVfZPs) | [Méli\-molo](https://open.spotify.com/album/670rCJX9NEOutCLX8zoz1I) | 4:38 |
 | 13 | [R'viens Pas Trop Tard](https://open.spotify.com/track/03JOOBLgi1qBNy2rt5wjGS) | [Zebulon](https://open.spotify.com/artist/21P7XY4ebrRnhvVa8UxGBQ) | [L'oeil Du Zig](https://open.spotify.com/album/6scH7horuxSKf8d0cu7WJe) | 3:27 |
-| 14 | [Gros tas d'marde](https://open.spotify.com/track/4sNMeBsZYUFRwSj2CfUOpE) | [GrimSkunk](https://open.spotify.com/artist/5RC6gtSdMierMrsHaCn9eL) | [Fieldtrip](https://open.spotify.com/album/7dxPJbTYWfHj9SzsbRtZhV) | 3:10 |
-| 15 | [Les patates](https://open.spotify.com/track/7BnwGX5p7SSgcsST0vBS08) | [Mononc' Serge](https://open.spotify.com/artist/35BsDVEPHGqz4fPhlRJHB1), [Anonymus](https://open.spotify.com/artist/47KsZ7WY3lQUXxhOpXkIG8) | [L'académie du massacre](https://open.spotify.com/album/1dUcPSoAYiiJ2ywiDbqnZ4) | 2:56 |
+| 14 | [Les patates](https://open.spotify.com/track/7BnwGX5p7SSgcsST0vBS08) | [Mononc' Serge](https://open.spotify.com/artist/35BsDVEPHGqz4fPhlRJHB1), [Anonymus](https://open.spotify.com/artist/47KsZ7WY3lQUXxhOpXkIG8) | [L'académie du massacre](https://open.spotify.com/album/1dUcPSoAYiiJ2ywiDbqnZ4) | 2:56 |
+| 15 | [Gros tas d'marde](https://open.spotify.com/track/4sNMeBsZYUFRwSj2CfUOpE) | [GrimSkunk](https://open.spotify.com/artist/5RC6gtSdMierMrsHaCn9eL) | [Fieldtrip](https://open.spotify.com/album/7dxPJbTYWfHj9SzsbRtZhV) | 3:10 |
 | 16 | [Magané](https://open.spotify.com/track/10ftfZxIPLStdkw7hTuL09) | [Les Pistolets Roses](https://open.spotify.com/artist/375krjLXVD5sy9AFZ7PqLj) | [Ma génération](https://open.spotify.com/album/71HOD6rGHk89meMJ7KQEBk) | 3:47 |
 | 17 | [Crabe](https://open.spotify.com/track/6ddojwlnvq2ITqdqCeuSJm) | [Les Goules](https://open.spotify.com/artist/2aBnogNdLxxLhpnRji3maA) | [Les Goules](https://open.spotify.com/album/6fts4TU4zrjx6IyYmbdwQC) | 3:38 |
 | 18 | [Johnny go](https://open.spotify.com/track/1SLovCqrzoxNbzT6AJGZhi) | [Jean Leloup](https://open.spotify.com/artist/4wxSKb9ur3AbGRCv81xFAd) | [1985\-2003 Je joue de la guitare](https://open.spotify.com/album/13dpLxuec4cGilEfXHNeOR) | 5:28 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSKbfhHetFR.md) - [plain]
 | 49 | [La chèvre](https://open.spotify.com/track/2Nvculpts84TZr7VlUNwMi) | [Band de Garage](https://open.spotify.com/artist/30faJrJ4VEfodwMTLEHeqa) | [Corpo\-Trash\-Vidange](https://open.spotify.com/album/2YPx6Dndpg7rxy6xwck48d) | 2:55 |
 | 50 | [Touche pas](https://open.spotify.com/track/1T3vIR5SmlUt0pkm1huM2V) | [Elyzabeth Diaga](https://open.spotify.com/artist/0KIJUMvTUQiTNulWUpBIbj) | [Elyzabeth Diaga](https://open.spotify.com/album/3Ryel4PeIcsaOcaIhTrB1d) | 3:06 |
 
-Snapshot ID: `MTU5MjkyMzY1MCwwMDAwMDAwMGY1NzkyMmNkYmIzNzI1MzMzNzRmNjllODU0NTE1ZjFh`
+Snapshot ID: `MTU5MjkyMzY1MCwwMDAwMDAwMDRiMTI3MTJmNWEwM2UzMmNiNzRhYWIyMGJjYzJhNzNk`

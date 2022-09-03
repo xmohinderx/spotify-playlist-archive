@@ -4,7 +4,7 @@
 
 > 사랑이 더욱 뜨겁게 섞일 때.
 
-196 songs - 10 hr 45 min - [published](https://open.spotify.com/playlist/6gtl26s3KlictDYYFa2Et6)
+197 songs - 10 hr 48 min - [published](https://open.spotify.com/playlist/6gtl26s3KlictDYYFa2Et6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [Dank](https://open.spotify.com/track/11r7IfsMb8jT8AMFaGvsh4) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [V](https://open.spotify.com/album/09agRqLawn8DRSVYlKsJJo) | 3:18 | 2022-07-08 |  |
 | [DATE NiTE \(feat\. Yoonmirae\)](https://open.spotify.com/track/53rzmLk7JlZazvvZuVf04d) | [MRSHLL](https://open.spotify.com/artist/0seQaFC4HsYcxj5o27Ls45), [Yoon Mirae](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [XYZ](https://open.spotify.com/album/07W9u6v5DClq89nGm8MwLc) | 3:37 | 2022-05-03 | 2022-07-28 |
 | [Dawn](https://open.spotify.com/track/1iUHDuJ3ZL6HrrgxQNVWF7) | [yey](https://open.spotify.com/artist/502fuIaKBgR51zNneCKFGj) | [Dawn](https://open.spotify.com/album/4r3f6kbozqZ1daPFEvmd0N) | 2:41 | 2022-05-03 | 2022-07-29 |
-| [Dawn Call](https://open.spotify.com/track/1e9JncQXdjM4DtFpyZrlU7) | [BB](https://open.spotify.com/artist/4AsWfslaatLcNfRiK0RXX6) | [Dawn Call](https://open.spotify.com/album/49P8OaQVu9YVHQcUoLLmoX) | 3:13 | 2022-06-09 |  |
+| [Dawn Call](https://open.spotify.com/track/1e9JncQXdjM4DtFpyZrlU7) | [BB](https://open.spotify.com/artist/4AsWfslaatLcNfRiK0RXX6) | [Dawn Call](https://open.spotify.com/album/49P8OaQVu9YVHQcUoLLmoX) | 3:13 | 2022-06-09 | 2022-09-03 |
 | [Daydreaming](https://open.spotify.com/track/6bWpJP0DGtSO5r9aWFCYMh) | [Lee Juck](https://open.spotify.com/artist/0pfVDTchnVMBTzGylIuJNa) | [House of Lies \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/0NWeQSWJaihEyBVjvdns8A) | 3:53 | 2022-06-13 | 2022-07-29 |
 | [Dejavu \(Song by SIM2\) \(Feat\. JUNNY\)](https://open.spotify.com/track/5ER4mtPENIKPNxmYCUNxIJ) | [SOUND PALETTE](https://open.spotify.com/artist/0vReM81CSMXlENdSzVSHQF), [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [PALETTE C\#505.](https://open.spotify.com/album/6I2eTUSibn3Y8uJZj1pTS8) | 3:36 | 2022-06-20 | 2022-06-28 |
 | [Don't pretend](https://open.spotify.com/track/3yvjU1X8MziKtJP0QzqKbe) | [entoy](https://open.spotify.com/artist/25OMfKk5AnZxUdzwDy3bOj), [Malitabu](https://open.spotify.com/artist/1t1pVSzMxm5JAfsdvl4SWb) | [Don't pretend](https://open.spotify.com/album/7AVQj5RTLOTvoKMPZMBUEi) | 3:06 | 2022-05-03 | 2022-07-29 |
@@ -188,6 +188,7 @@
 | [Walk along](https://open.spotify.com/track/5Sv8HzkZnp3L7oBOHTPvKb) | [Nody Cika](https://open.spotify.com/artist/2pETIGvbFcdUF0CnODpycj) | [Walk along](https://open.spotify.com/album/0hT3EUgHkR9uks37SlT7bI) | 3:23 | 2022-05-03 | 2022-07-14 |
 | [Wasting Time](https://open.spotify.com/track/0bD2HMaG0QeruS7ahVTc0b) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc), [Rovv](https://open.spotify.com/artist/2ExJZeWFE28d7G0uq1olVy), [Sweet The Kid](https://open.spotify.com/artist/4qaGGZulMdVRK7uDgGAaNq) | [The Good Days Boys Vol.6](https://open.spotify.com/album/6SUU76CAiFelXZCXITjoVC) | 2:59 | 2022-05-03 | 2022-07-28 |
 | [Waterfall](https://open.spotify.com/track/3MUX4QV6VWySFkihjKzU93) | [Shower System](https://open.spotify.com/artist/7xJ3JEzp3mVTHgWVtuKWv5) | [Waterfall](https://open.spotify.com/album/5k837IWARGZIaG4rQSS6hi) | 2:53 | 2022-06-20 | 2022-07-29 |
+| [waves](https://open.spotify.com/track/1vcRXGJjkqFouLvE2brOBe) | [Risso](https://open.spotify.com/artist/7zXv0fZJFxrDkYxAtWxoGM) | [waves](https://open.spotify.com/album/6NHa67iNrY5iq0LYiFDEGu) | 2:41 | 2022-08-19 |  |
 | [waves](https://open.spotify.com/track/7vkDQedL9mp2ItJM98N7zB) | [Risso](https://open.spotify.com/artist/7zXv0fZJFxrDkYxAtWxoGM) | [waves](https://open.spotify.com/album/3VQbyEZSFxmZveA9dabFJM) | 2:41 | 2022-05-03 | 2022-07-28 |
 | [WAY](https://open.spotify.com/track/2MCDkhPAa7FYexf8zkO4cR) | [Loopy](https://open.spotify.com/artist/3l9s67pOK4Stw9yW1wr0Bg), [LILOOP](https://open.spotify.com/artist/6iKrHUvFuVvoDPYb2AjtgS), [CLO￦D](https://open.spotify.com/artist/7uZssMIcJngQSZg1lyq7mB) | [QUESTIONS](https://open.spotify.com/album/3Jlslc3LjT6OKGv51O1g32) | 3:49 | 2022-05-03 | 2022-06-05 |
 | [Wet The Bed](https://open.spotify.com/track/0SdSuUUoVuQWA40yldhDht) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn), [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja) | [S.O.S \(Sink or Swim\)](https://open.spotify.com/album/1e9a1koBntuC0NdrJuqmel) | 3:00 | 2022-05-03 |  |

@@ -4,7 +4,7 @@
 
 > The calming and pensive side of electric guitar\. Instrumental only.
 
-91 songs - 4 hr 41 min - [published](https://open.spotify.com/playlist/3oJlWxouvmQCoHhx3LLhbO)
+92 songs - 4 hr 44 min - [published](https://open.spotify.com/playlist/3oJlWxouvmQCoHhx3LLhbO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [Vast Open Sky](https://open.spotify.com/track/42gzCgGFiRmoDvzhVQvEOI) | [J\. J\. Zapata](https://open.spotify.com/artist/6ospPIOrQaXpxQD5dsKAAL) | [Vast Open Sky](https://open.spotify.com/album/1yN0XDhIYbhffVOzLpEHq4) | 2:12 | 2022-05-13 |  |
 | [Wagonside](https://open.spotify.com/track/4Tb2hOoWV5c6Xe8CcI2sUP) | [Arpwatch](https://open.spotify.com/artist/4QWzCQdSl0I35LnBIN5Lmr) | [Rotations](https://open.spotify.com/album/1yyulWBUveBEnszGh0Zseu) | 3:18 | 2022-05-13 |  |
 | [White Ferrari](https://open.spotify.com/track/3peYvBrl7CyE0zXUujPGnN) | [Justice Der](https://open.spotify.com/artist/2N79L5eT2Xraec4UJsi2Fz) | [Favorites 2](https://open.spotify.com/album/1wCB84h6r1T0nv9ZQDcM3e) | 4:54 | 2022-05-13 |  |
+| [Wild Lake](https://open.spotify.com/track/5mxf8aV7VUU7C1nzVdu9D6) | [Lama House](https://open.spotify.com/artist/3We2SFbH59mXg6D42TPhWJ) | [Wild Lake](https://open.spotify.com/album/2T1PnhzqQwnHGPRQO7Hdff) | 3:07 | 2022-09-02 |  |
 | [You Decide](https://open.spotify.com/track/6af2G4iym8KvVXcL6CvYG9) | [Sobrante](https://open.spotify.com/artist/6EdMmAogESKj2fFzAGM8yE) | [Friends](https://open.spotify.com/album/7duzFBoBK7inOjkfa74spr) | 5:10 | 2022-05-13 |  |
 | [Youngblood](https://open.spotify.com/track/6o5J6cSMaL5Eawyj5kcPNj) | [Smith/Hill](https://open.spotify.com/artist/7HBGJDqgtjAhCnoFpZzFDS) | [Youngblood](https://open.spotify.com/album/31UVKQURguKgZxV4rED6Gc) | 3:12 | 2022-05-13 |  |
 

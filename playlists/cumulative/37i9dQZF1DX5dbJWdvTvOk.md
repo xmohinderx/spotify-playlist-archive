@@ -4,7 +4,7 @@
 
 > Canciones instrumentales de guitarra.
 
-144 songs - 7 hr 0 min - [published](https://open.spotify.com/playlist/284nn8KHwKE48t5E3olrdV)
+145 songs - 7 hr 2 min - [published](https://open.spotify.com/playlist/284nn8KHwKE48t5E3olrdV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Homebound](https://open.spotify.com/track/3fZolWbWofhjyFDQXWL0T3) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [Homebound](https://open.spotify.com/album/36VPh59fnClN38LLdlgHnU) | 2:24 | 2022-07-15 |  |
 | [I Never Really Lost You](https://open.spotify.com/track/5ktW8oGQimLO9EE7mPdkrc) | [Penélope Diaz](https://open.spotify.com/artist/2LDBNTLWlHsBYpstmWFZth) | [I Never Really Lost You](https://open.spotify.com/album/5NB6PAUks28HbiKhYl09DI) | 3:37 | 2022-07-15 |  |
 | [Igueldo](https://open.spotify.com/track/4IN9TQVhu3Mzw1fEwblxGq) | [Rick Strauss](https://open.spotify.com/artist/5eZxnhbh1hSbnwiSBzlb5q) | [Silver Castle](https://open.spotify.com/album/60mfbInhL61D5iw97J0nE5) | 2:12 | 2022-07-15 |  |
+| [Isola Bella](https://open.spotify.com/track/3JlL4o7hhUC2eWOByAdbk1) | [Laura Di Vaio](https://open.spotify.com/artist/0fsOkzhBJjiWTWcHuuC9O6) | [Isola Bella](https://open.spotify.com/album/1usC9bDEEJ79QAVmg1FoCx) | 1:49 | 2022-09-02 |  |
 | [It Started With A Simple Hello](https://open.spotify.com/track/2GFdkqyE2bUWo55W3BxiPe) | [Penélope Diaz](https://open.spotify.com/artist/2LDBNTLWlHsBYpstmWFZth) | [It Started With A Simple Hello](https://open.spotify.com/album/3mb2nHbWyloy0dzdjlm3Fd) | 2:48 | 2022-07-15 |  |
 | [Jobim: Road to the Sun](https://open.spotify.com/track/6LhNIBQ3c711HIIhwWoFpx) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG), [Sharon Isbin](https://open.spotify.com/artist/3TXeUeBzDNk93uvzr0byAu) | [Latin Romances for Guitar](https://open.spotify.com/album/3NUzY7X9ebHv9lJpQBtIrQ) | 2:32 | 2022-07-15 | 2022-08-19 |
 | [Just One Step At A Time](https://open.spotify.com/track/7dtIQWNjGxG4s2JoWD0hVD) | [Oliver Young](https://open.spotify.com/artist/1v27VC8z9CqB2tpHBzZ0xv) | [Just One Step At A Time](https://open.spotify.com/album/49pNKyGqE0DIc9vF9XVjGp) | 4:08 | 2022-07-15 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Want some metal? Better to start with the essentials. Cover: Metallica",
-  "num_followers": 1553480,
+  "num_followers": 1552692,
   "original_name": "Metal Essentials",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTU0MDIxNCwwMDAwMDAwMDBiY2Y0ZjhjYzMxNmUyZjhlNTYxZDhiMjkyZjhkZmIw",
+  "snapshot_id": "MTY2MTU0MDIxNCwwMDAwMDAwMDk4OTllZDBkMjRmM2E5NTU3Y2E4MzgyMGI5MzQ3Nzli",
   "tracks": [
     {
       "added_at": "2022-08-26 18:56:54",
@@ -395,22 +395,6 @@
     {
       "added_at": "2022-08-26 18:56:54",
       "album": {
-        "name": "Shout At The Devil",
-        "url": "https://open.spotify.com/album/7xuz2r1QalMeEVkYuDfPgY"
-      },
-      "artists": [
-        {
-          "name": "M\u00f6tley Cr\u00fce",
-          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
-        }
-      ],
-      "duration_ms": 194986,
-      "name": "Shout At The Devil",
-      "url": "https://open.spotify.com/track/6VZivrPxu9MJ5rIPIERg56"
-    },
-    {
-      "added_at": "2022-08-26 18:56:54",
-      "album": {
         "name": "Sehnsucht",
         "url": "https://open.spotify.com/album/0C9p8YMtbdOkcXPPlEmZvY"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 234226,
       "name": "Du hast",
       "url": "https://open.spotify.com/track/6uEvFCaOqXyEidoO8BZbyh"
+    },
+    {
+      "added_at": "2022-08-26 18:56:54",
+      "album": {
+        "name": "Shout At The Devil",
+        "url": "https://open.spotify.com/album/7xuz2r1QalMeEVkYuDfPgY"
+      },
+      "artists": [
+        {
+          "name": "M\u00f6tley Cr\u00fce",
+          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
+        }
+      ],
+      "duration_ms": 194986,
+      "name": "Shout At The Devil",
+      "url": "https://open.spotify.com/track/6VZivrPxu9MJ5rIPIERg56"
     },
     {
       "added_at": "2022-08-26 18:56:54",
@@ -491,22 +491,6 @@
     {
       "added_at": "2022-08-26 18:56:54",
       "album": {
-        "name": "As Daylight Dies (Special Edition)",
-        "url": "https://open.spotify.com/album/6iJEtgHTEbVlSS5isIS71z"
-      },
-      "artists": [
-        {
-          "name": "Killswitch Engage",
-          "url": "https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l"
-        }
-      ],
-      "duration_ms": 244773,
-      "name": "My Curse",
-      "url": "https://open.spotify.com/track/6zKF4293k44ItKWJJgrhXv"
-    },
-    {
-      "added_at": "2022-08-26 18:56:54",
-      "album": {
         "name": "Heroes",
         "url": "https://open.spotify.com/album/5TdhTTvwtD0ekZBYve97r7"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 206546,
       "name": "To Hell and Back",
       "url": "https://open.spotify.com/track/1BrgjqSg9du0lj3TUMLluL"
+    },
+    {
+      "added_at": "2022-08-26 18:56:54",
+      "album": {
+        "name": "As Daylight Dies (Special Edition)",
+        "url": "https://open.spotify.com/album/6iJEtgHTEbVlSS5isIS71z"
+      },
+      "artists": [
+        {
+          "name": "Killswitch Engage",
+          "url": "https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l"
+        }
+      ],
+      "duration_ms": 244773,
+      "name": "My Curse",
+      "url": "https://open.spotify.com/track/6zKF4293k44ItKWJJgrhXv"
     },
     {
       "added_at": "2022-08-26 18:56:54",
@@ -1163,18 +1163,18 @@
     {
       "added_at": "2022-08-26 18:56:54",
       "album": {
-        "name": "Octavarium",
-        "url": "https://open.spotify.com/album/4v6kYkn7mYjlWS9vONmmCP"
+        "name": "L'Enfant Sauvage (Special Edition)",
+        "url": "https://open.spotify.com/album/5dxqD5Kc6cRRi3rErmDfXG"
       },
       "artists": [
         {
-          "name": "Dream Theater",
-          "url": "https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep"
+          "name": "Gojira",
+          "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
         }
       ],
-      "duration_ms": 493026,
-      "name": "Panic Attack",
-      "url": "https://open.spotify.com/track/5axwj3ekvw85989jjO8Ov8"
+      "duration_ms": 257733,
+      "name": "L'enfant sauvage",
+      "url": "https://open.spotify.com/track/4PWxt9Fy949kUtkEi2GI5V"
     },
     {
       "added_at": "2022-08-26 18:56:54",
@@ -1195,34 +1195,18 @@
     {
       "added_at": "2022-08-26 18:56:54",
       "album": {
-        "name": "L'Enfant Sauvage (Special Edition)",
-        "url": "https://open.spotify.com/album/5dxqD5Kc6cRRi3rErmDfXG"
+        "name": "Octavarium",
+        "url": "https://open.spotify.com/album/4v6kYkn7mYjlWS9vONmmCP"
       },
       "artists": [
         {
-          "name": "Gojira",
-          "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
+          "name": "Dream Theater",
+          "url": "https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep"
         }
       ],
-      "duration_ms": 257733,
-      "name": "L'enfant sauvage",
-      "url": "https://open.spotify.com/track/4PWxt9Fy949kUtkEi2GI5V"
-    },
-    {
-      "added_at": "2022-08-26 18:56:54",
-      "album": {
-        "name": "Nola",
-        "url": "https://open.spotify.com/album/04BvRPJwuDeuJ3DhbAw9Wg"
-      },
-      "artists": [
-        {
-          "name": "DOWN",
-          "url": "https://open.spotify.com/artist/1m0B9ak05G0jqDY4ACLhQu"
-        }
-      ],
-      "duration_ms": 282506,
-      "name": "Stone the Crow",
-      "url": "https://open.spotify.com/track/7DuRbuweGD2cpGN74cpPAF"
+      "duration_ms": 493026,
+      "name": "Panic Attack",
+      "url": "https://open.spotify.com/track/5axwj3ekvw85989jjO8Ov8"
     },
     {
       "added_at": "2022-08-26 18:56:54",
@@ -1243,18 +1227,34 @@
     {
       "added_at": "2022-08-26 18:56:54",
       "album": {
-        "name": "Breaking the Chains",
-        "url": "https://open.spotify.com/album/7f89NbaCH568pUcYy6mqBq"
+        "name": "Nola",
+        "url": "https://open.spotify.com/album/04BvRPJwuDeuJ3DhbAw9Wg"
       },
       "artists": [
         {
-          "name": "Dokken",
-          "url": "https://open.spotify.com/artist/09hNSPPOxDop4FRdr6UEnq"
+          "name": "DOWN",
+          "url": "https://open.spotify.com/artist/1m0B9ak05G0jqDY4ACLhQu"
         }
       ],
-      "duration_ms": 231693,
-      "name": "Breaking the Chains",
-      "url": "https://open.spotify.com/track/2W7CvGjipq3EmHqNGN7lN9"
+      "duration_ms": 282506,
+      "name": "Stone the Crow",
+      "url": "https://open.spotify.com/track/7DuRbuweGD2cpGN74cpPAF"
+    },
+    {
+      "added_at": "2022-08-26 18:56:54",
+      "album": {
+        "name": "Opus Eponymous",
+        "url": "https://open.spotify.com/album/7xusHmkJUWt1XqPrM3pC9U"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "duration_ms": 268746,
+      "name": "Ritual",
+      "url": "https://open.spotify.com/track/5ZiTzbMB53mIiP3I4uQCmt"
     },
     {
       "added_at": "2022-08-26 18:56:54",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2022-08-26 18:56:54",
       "album": {
+        "name": "Breaking the Chains",
+        "url": "https://open.spotify.com/album/7f89NbaCH568pUcYy6mqBq"
+      },
+      "artists": [
+        {
+          "name": "Dokken",
+          "url": "https://open.spotify.com/artist/09hNSPPOxDop4FRdr6UEnq"
+        }
+      ],
+      "duration_ms": 231693,
+      "name": "Breaking the Chains",
+      "url": "https://open.spotify.com/track/2W7CvGjipq3EmHqNGN7lN9"
+    },
+    {
+      "added_at": "2022-08-26 18:56:54",
+      "album": {
         "name": "Cleansing",
         "url": "https://open.spotify.com/album/1RmsgRJnBFyRMAVl1NW9pO"
       },
@@ -1287,22 +1303,6 @@
       "duration_ms": 251533,
       "name": "Snap Your Fingers, Snap Your Neck",
       "url": "https://open.spotify.com/track/7hgtn706RqLE5q1mWe8aQx"
-    },
-    {
-      "added_at": "2022-08-26 18:56:54",
-      "album": {
-        "name": "Opus Eponymous",
-        "url": "https://open.spotify.com/album/7xusHmkJUWt1XqPrM3pC9U"
-      },
-      "artists": [
-        {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
-        }
-      ],
-      "duration_ms": 268746,
-      "name": "Ritual",
-      "url": "https://open.spotify.com/track/5ZiTzbMB53mIiP3I4uQCmt"
     },
     {
       "added_at": "2022-08-26 18:56:54",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2022-08-26 18:56:54",
       "album": {
-        "name": "Brotherhood of the Snake",
-        "url": "https://open.spotify.com/album/70oAOzrUemHFWB8VKToEtu"
-      },
-      "artists": [
-        {
-          "name": "Testament",
-          "url": "https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg"
-        }
-      ],
-      "duration_ms": 253988,
-      "name": "Brotherhood of the Snake",
-      "url": "https://open.spotify.com/track/4VcN84ZdC7doe4yoIarJUA"
-    },
-    {
-      "added_at": "2022-08-26 18:56:54",
-      "album": {
         "name": "Arise",
         "url": "https://open.spotify.com/album/7hgWmH16eu70yqrg5Pc3SM"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 198226,
       "name": "Arise",
       "url": "https://open.spotify.com/track/1erRDf98WX0VllciGPYO1H"
+    },
+    {
+      "added_at": "2022-08-26 18:56:54",
+      "album": {
+        "name": "Brotherhood of the Snake",
+        "url": "https://open.spotify.com/album/70oAOzrUemHFWB8VKToEtu"
+      },
+      "artists": [
+        {
+          "name": "Testament",
+          "url": "https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg"
+        }
+      ],
+      "duration_ms": 253988,
+      "name": "Brotherhood of the Snake",
+      "url": "https://open.spotify.com/track/4VcN84ZdC7doe4yoIarJUA"
     },
     {
       "added_at": "2022-08-26 18:56:54",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2022-08-26 18:56:54",
       "album": {
-        "name": "Melissa",
-        "url": "https://open.spotify.com/album/1hxG9oE767xQ4MLsEU5u58"
-      },
-      "artists": [
-        {
-          "name": "Mercyful Fate",
-          "url": "https://open.spotify.com/artist/0W8edGiwAsv6HXF0Kyc2V9"
-        }
-      ],
-      "duration_ms": 284960,
-      "name": "Evil",
-      "url": "https://open.spotify.com/track/5pH1BecbNktYDbYw0XCEWn"
-    },
-    {
-      "added_at": "2022-08-26 18:56:54",
-      "album": {
         "name": "Slave to the Grind",
         "url": "https://open.spotify.com/album/0AiXcZbksZoX2pSe2384Z3"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 208666,
       "name": "Slave to the Grind",
       "url": "https://open.spotify.com/track/49IA4BhFCOWZQ7A7wxfa4e"
+    },
+    {
+      "added_at": "2022-08-26 18:56:54",
+      "album": {
+        "name": "Melissa",
+        "url": "https://open.spotify.com/album/1hxG9oE767xQ4MLsEU5u58"
+      },
+      "artists": [
+        {
+          "name": "Mercyful Fate",
+          "url": "https://open.spotify.com/artist/0W8edGiwAsv6HXF0Kyc2V9"
+        }
+      ],
+      "duration_ms": 284960,
+      "name": "Evil",
+      "url": "https://open.spotify.com/track/5pH1BecbNktYDbYw0XCEWn"
     },
     {
       "added_at": "2022-08-26 18:56:54",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2022-08-26 18:56:54",
       "album": {
-        "name": "Demanufacture (Special Edition)",
-        "url": "https://open.spotify.com/album/6GPHWrMQG5Ns8O3aQKMro2"
-      },
-      "artists": [
-        {
-          "name": "Fear Factory",
-          "url": "https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX"
-        }
-      ],
-      "duration_ms": 237360,
-      "name": "Replica",
-      "url": "https://open.spotify.com/track/5YeQoMo5py82YmqXMTjM5S"
-    },
-    {
-      "added_at": "2022-08-26 18:56:54",
-      "album": {
         "name": "The Ritual",
         "url": "https://open.spotify.com/album/6YXf0vbjFhURCPUewYhVWE"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 390800,
       "name": "Return to Serenity",
       "url": "https://open.spotify.com/track/5awljpWNO5TpXCyjpvCBbs"
+    },
+    {
+      "added_at": "2022-08-26 18:56:54",
+      "album": {
+        "name": "Demanufacture (Special Edition)",
+        "url": "https://open.spotify.com/album/6GPHWrMQG5Ns8O3aQKMro2"
+      },
+      "artists": [
+        {
+          "name": "Fear Factory",
+          "url": "https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX"
+        }
+      ],
+      "duration_ms": 237360,
+      "name": "Replica",
+      "url": "https://open.spotify.com/track/5YeQoMo5py82YmqXMTjM5S"
     },
     {
       "added_at": "2022-08-26 18:56:54",

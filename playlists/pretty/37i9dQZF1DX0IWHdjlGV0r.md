@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IWHdjlGV0r.md) - [plain]
 
 > Certi amori bruciano di più\. Cover: Luchè
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,185 likes - 64 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,326 likes - 64 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

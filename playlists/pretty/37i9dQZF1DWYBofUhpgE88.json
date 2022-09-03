@@ -1,12 +1,12 @@
 {
   "description": "La carica giusta per i tuoi allenamenti!",
-  "num_followers": 277400,
+  "num_followers": 277484,
   "original_name": "Rap Motivazionale",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTg1NjA4OSwwMDAwMDAwMGM0MWQ5ZmMyMmRkMGIxYTZmN2EyZjY3ZjJkNWY0ZmEw",
+  "snapshot_id": "MTY2MTg1NjA4OSwwMDAwMDAwMDQwNDY3MWZiMGNkZDcyMWI1MjY0ZTZjMDc0NTk0YTRm",
   "tracks": [
     {
       "added_at": "2022-08-29 14:00:11",
@@ -291,26 +291,6 @@
     {
       "added_at": "2022-08-29 14:00:11",
       "album": {
-        "name": "BLAME IT ON BABY",
-        "url": "https://open.spotify.com/album/623PL2MBg50Br5dLXC9E9e"
-      },
-      "artists": [
-        {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
-        },
-        {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
-        }
-      ],
-      "duration_ms": 181733,
-      "name": "ROCKSTAR (feat. Roddy Ricch)",
-      "url": "https://open.spotify.com/track/7ytR5pFWmSjzHJIeQkgog4"
-    },
-    {
-      "added_at": "2022-08-29 14:00:11",
-      "album": {
         "name": "2001",
         "url": "https://open.spotify.com/album/7q2B4M5EiBkqrlsNW8lB7N"
       },
@@ -327,6 +307,26 @@
       "duration_ms": 161506,
       "name": "The Next Episode",
       "url": "https://open.spotify.com/track/4LwU4Vp6od3Sb08CsP99GC"
+    },
+    {
+      "added_at": "2022-08-29 14:00:11",
+      "album": {
+        "name": "BLAME IT ON BABY",
+        "url": "https://open.spotify.com/album/623PL2MBg50Br5dLXC9E9e"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        },
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "duration_ms": 181733,
+      "name": "ROCKSTAR (feat. Roddy Ricch)",
+      "url": "https://open.spotify.com/track/7ytR5pFWmSjzHJIeQkgog4"
     },
     {
       "added_at": "2022-08-29 14:00:11",
@@ -915,6 +915,22 @@
     {
       "added_at": "2022-08-29 14:00:11",
       "album": {
+        "name": "Beg For Mercy",
+        "url": "https://open.spotify.com/album/0BolFrIcCXXppUK50ETvgy"
+      },
+      "artists": [
+        {
+          "name": "G-Unit",
+          "url": "https://open.spotify.com/artist/6evKD5JWJON3qPBJtUEmtY"
+        }
+      ],
+      "duration_ms": 240800,
+      "name": "Poppin' Them Thangs",
+      "url": "https://open.spotify.com/track/4E5IFAXCob6QqZaJMTw5YN"
+    },
+    {
+      "added_at": "2022-08-29 14:00:11",
+      "album": {
         "name": "That's My N**** (with Meek Mill, YG & Snoop Dogg) [From Bright: The Album]",
         "url": "https://open.spotify.com/album/3wDMK9yGHVUEweHksZmGTU"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 199746,
       "name": "That's My N**** (with Meek Mill, YG & Snoop Dogg)",
       "url": "https://open.spotify.com/track/3i1B1PnsfnOQPGVIzhf1lr"
-    },
-    {
-      "added_at": "2022-08-29 14:00:11",
-      "album": {
-        "name": "Beg For Mercy",
-        "url": "https://open.spotify.com/album/0BolFrIcCXXppUK50ETvgy"
-      },
-      "artists": [
-        {
-          "name": "G-Unit",
-          "url": "https://open.spotify.com/artist/6evKD5JWJON3qPBJtUEmtY"
-        }
-      ],
-      "duration_ms": 240800,
-      "name": "Poppin' Them Thangs",
-      "url": "https://open.spotify.com/track/4E5IFAXCob6QqZaJMTw5YN"
     },
     {
       "added_at": "2022-08-29 14:00:11",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2022-08-29 14:00:11",
       "album": {
+        "name": "SWISH",
+        "url": "https://open.spotify.com/album/4RH1KjpPQxqtOTyV6WikPh"
+      },
+      "artists": [
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "duration_ms": 194935,
+      "name": "SWISH",
+      "url": "https://open.spotify.com/track/55GiOwtxNajXVbpjjIzMnD"
+    },
+    {
+      "added_at": "2022-08-29 14:00:11",
+      "album": {
         "name": "Filtri",
         "url": "https://open.spotify.com/album/0Rh1xvnuSs3GyZAvpLlkut"
       },
@@ -1323,22 +1339,6 @@
       "duration_ms": 169683,
       "name": "Rompo (feat. Boro Boro)",
       "url": "https://open.spotify.com/track/4oPh7HAoMR1bLBbxwqKmgn"
-    },
-    {
-      "added_at": "2022-08-29 14:00:11",
-      "album": {
-        "name": "SWISH",
-        "url": "https://open.spotify.com/album/4RH1KjpPQxqtOTyV6WikPh"
-      },
-      "artists": [
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        }
-      ],
-      "duration_ms": 194935,
-      "name": "SWISH",
-      "url": "https://open.spotify.com/track/55GiOwtxNajXVbpjjIzMnD"
     }
   ],
   "unique_name": "Rap Motivazionale",

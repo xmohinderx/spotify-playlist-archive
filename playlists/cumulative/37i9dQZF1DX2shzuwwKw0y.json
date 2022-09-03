@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-26",
-  "description": "Del rancho a la ciudad, las historias que pocos se atreven a contar. El Fantasma & Luis R Conriquez en portada. ",
+  "description": "Del rancho a la ciudad, las historias que pocos se atreven a contar. Gerardo Ort\u00edz en portada. ",
   "name": "Corridos Perrones",
   "published_playlist_ids": [
     "7MKeGtBxLUek4q2wQW5uWo"
@@ -739,7 +739,7 @@
       ],
       "date_added": "2022-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 137323,
       "name": "El Circo",
       "url": "https://open.spotify.com/track/66SvxvblhUIEL6awyLMGL2"
@@ -930,6 +930,24 @@
     },
     {
       "album": {
+        "name": "El Gabito",
+        "url": "https://open.spotify.com/album/1toEeNk0tz2X6J0bVwZGlR"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163422,
+      "name": "El Gabito",
+      "url": "https://open.spotify.com/track/4irQHeQLap1F8Roqj3xJXW"
+    },
+    {
+      "album": {
         "name": "El G\u00fcero (Feat. Marca MP)",
         "url": "https://open.spotify.com/album/6JB7kAukHIaovbGdgkvCfI"
       },
@@ -967,6 +985,24 @@
       "duration_ms": 196500,
       "name": "El Hijo Mayor",
       "url": "https://open.spotify.com/track/1RGlfmdvcfatN0ZLOmzanS"
+    },
+    {
+      "album": {
+        "name": "El Jami",
+        "url": "https://open.spotify.com/album/511TVSxb1rXXuTfUHWdTXO"
+      },
+      "artists": [
+        {
+          "name": "Grupo 3030",
+          "url": "https://open.spotify.com/artist/7b5a0FZafkLHB56YkKZHAL"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179610,
+      "name": "El Jami",
+      "url": "https://open.spotify.com/track/05DOiyiRvyed2Kd5Z1sV7S"
     },
     {
       "album": {
@@ -1249,7 +1285,7 @@
       ],
       "date_added": "2022-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 235221,
       "name": "Gracias - En Vivo",
       "url": "https://open.spotify.com/track/2XlGKZNMkRKvEJsbwQ6MCl"
@@ -1533,7 +1569,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 205692,
       "name": "LA PERRIE",
       "url": "https://open.spotify.com/track/5AWwqpQnuMNCUXVZd6TOwY"

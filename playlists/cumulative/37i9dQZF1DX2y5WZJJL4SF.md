@@ -4,7 +4,7 @@
 
 > Soft and calm renditions of songs for harp.
 
-155 songs - 4 hr 11 min - [published](https://open.spotify.com/playlist/5s5aESIlnEiqencTr1QRMW)
+156 songs - 4 hr 14 min - [published](https://open.spotify.com/playlist/5s5aESIlnEiqencTr1QRMW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Bestevennen](https://open.spotify.com/track/1S7GRWwKfMQLST2R1FfIvw) | [Alma Frandsen](https://open.spotify.com/artist/3OEGjgTxjDV723ILNM5lZa) | [Tid til at sove](https://open.spotify.com/album/1epskxiNYOdzzvaWKs4FME) | 1:57 | 2021-11-11 |  |
 | [Bill the Fox](https://open.spotify.com/track/5E75P0Ge6BoVxzACFQjxy9) | [Hudson Hull](https://open.spotify.com/artist/5nAHYyaImYxFBWBConOC5o) | [Bill the Fox](https://open.spotify.com/album/0dJ4TvtYgMRg1Ki9hiZUnF) | 1:20 | 2021-11-11 |  |
 | [Blanket Snuggles](https://open.spotify.com/track/7qIGCFkrCMnUPUk4dE6FSb) | [Bennie Radcliff](https://open.spotify.com/artist/4Kkr4hETN5QeAeRxjvkZ5U) | [Blanket Snuggles](https://open.spotify.com/album/0n09zmE4h2rPbrcH9pC9nW) | 1:53 | 2021-11-11 |  |
+| [Blessed Moments](https://open.spotify.com/track/22SkVTI0VMOBmn7hYZ0lZW) | [Mrs Mayford](https://open.spotify.com/artist/1DnajjlzcHuEugVA6brKPr) | [Blessed Moments](https://open.spotify.com/album/6dzws1YlB8XQ7fRGxqu2hd) | 2:28 | 2022-09-02 |  |
 | [Born To Be Yours](https://open.spotify.com/track/0JTSi51ekyjFA32HI0QfQW) | [Camilla Bergman](https://open.spotify.com/artist/5UzLH4NmnDOyOrawKWcB0a) | [Harp](https://open.spotify.com/album/5FF67Wj7LCfgoQrHTwST64) | 2:05 | 2021-11-11 | 2022-06-11 |
 | [Brahms Lullaby](https://open.spotify.com/track/2VZF8Q8GoTGQPSOZikEAZl) | [Lia Phillips](https://open.spotify.com/artist/4j0ENajb8xeVIbhZinVXOU) | [Brahms Lullaby](https://open.spotify.com/album/3cKluVpLsSxkWxbttLN7uD) | 1:46 | 2021-11-11 | 2022-06-11 |
 | [Brahms Lullaby](https://open.spotify.com/track/3F9MddqpygKDUUkIqcydsT) | [Michaela Quinn](https://open.spotify.com/artist/7cW08KYG0Liawn96x7fAXX) | [Bedtime Stories](https://open.spotify.com/album/475sNo7ki5mekQ8eOsyepB) | 1:25 | 2021-11-11 |  |
@@ -57,7 +58,7 @@
 | [Down the River](https://open.spotify.com/track/6IcLI0Fo5egePIjWt05mUp) | [Morris Warwick](https://open.spotify.com/artist/6Wg9YE1YeFo3CIPJjBvisW) | [Down the River](https://open.spotify.com/album/1zU33D5pT0hbgkgRV7ThZj) | 1:08 | 2021-11-11 |  |
 | [Dream a Little Dream of Me](https://open.spotify.com/track/1Z4KpYwEgywjOfIGllZy79) | [Noah Dixon](https://open.spotify.com/artist/6YA3vpJ1H12hHnxiwczvZD) | [Dream a Little Dream of Me](https://open.spotify.com/album/6hGgvW9C70D1vrQsLnA8kC) | 1:55 | 2021-11-11 | 2022-01-22 |
 | [Duermete Mi Nino](https://open.spotify.com/track/2f8NeDKkIfjjmHJMp6ETyb) | [Julia Zerrano](https://open.spotify.com/artist/18VV4kqB6xgRj86VsETZyF) | [Duermete Mi Nino](https://open.spotify.com/album/2UqaMWBOwi7DzjC41EXZ04) | 1:32 | 2021-11-11 |  |
-| [Endnu en dag](https://open.spotify.com/track/6fL7itT01Wt99xDdkmkVhC) | [Saga Villadsen](https://open.spotify.com/artist/1cuFpoEhNxpI99ojgimE64) | [På en blomstereng](https://open.spotify.com/album/4d1F6hCt9yX8C3scF4QXdw) | 1:45 | 2021-11-11 |  |
+| [Endnu en dag](https://open.spotify.com/track/6fL7itT01Wt99xDdkmkVhC) | [Saga Villadsen](https://open.spotify.com/artist/1cuFpoEhNxpI99ojgimE64) | [På en blomstereng](https://open.spotify.com/album/4d1F6hCt9yX8C3scF4QXdw) | 1:45 | 2021-11-11 | 2022-09-03 |
 | [Everlong](https://open.spotify.com/track/7A9ewjBMiEg2eXKHsojDa0) | [Emile Beskow](https://open.spotify.com/artist/0bB5nmobdyJCtKRqT6L9aY) | [Classics](https://open.spotify.com/album/53KvNOtTAe5tgJiwfcQ1Ax) | 2:22 | 2021-11-11 | 2022-05-18 |
 | [Feel Free to Sleep](https://open.spotify.com/track/7fBKXwIpRXfesqArhNu8Sc) | [Odell Aylmer](https://open.spotify.com/artist/6kFti89t1ebLGedez1cGeG) | [Feel Free to Sleep](https://open.spotify.com/album/0g69AegryKvyXLgiQQDlra) | 1:22 | 2021-11-11 |  |
 | [Feeling Happy](https://open.spotify.com/track/6YemG0JU5lTv7X3Qc5UajS) | [Chad Isaacson](https://open.spotify.com/artist/5UzSphuk1wV4EkpEpsxfJJ) | [Feeling Happy](https://open.spotify.com/album/05XQpRE0NTHqKH0hQXjbPz) | 1:42 | 2021-11-11 |  |
@@ -114,7 +115,7 @@
 | [My Sweet Sweet Angel](https://open.spotify.com/track/3GfJmGYQnoXXW7HfupCB0K) | [Elliot Adasik](https://open.spotify.com/artist/0ygQ1CuZpZqv6dsdnIl3wL) | [You Are My Sunshine](https://open.spotify.com/album/0nKXkJyhxjkkCspsLGHyz5) | 1:47 | 2021-11-11 | 2022-06-11 |
 | [My Wiggly Tooth](https://open.spotify.com/track/5bLJFknbjDtNMqc48JJ27i) | [Mary\-Anne Ayers](https://open.spotify.com/artist/1eI4z1e4E9YDFhpzDPOvPV) | [My Wiggly Tooth](https://open.spotify.com/album/348wr92h8CnKzESqC3Uxeo) | 1:19 | 2021-11-11 |  |
 | [Old Macdonald Had A Farm](https://open.spotify.com/track/5LHzazDsCpwIWfB6OjyXVU) | [Cheyenne Hunnisett](https://open.spotify.com/artist/642588gEqSbzMw10PacsKh) | [Old Macdonald Had A Farm](https://open.spotify.com/album/2wZKX4v85x4xB6mrce6jb1) | 1:38 | 2021-11-11 |  |
-| [One for you, one for me](https://open.spotify.com/track/3D5eIqkrGvHEe42hEaBTwK) | [Amy\-leigh Hill](https://open.spotify.com/artist/3EKtt09Qwccgxvs5QiIazR) | [Peek\-a\-boo](https://open.spotify.com/album/1FoAFlOjirEpU0bHgNhxBZ) | 1:48 | 2021-11-11 |  |
+| [One for you, one for me](https://open.spotify.com/track/3D5eIqkrGvHEe42hEaBTwK) | [Amy\-leigh Hill](https://open.spotify.com/artist/3EKtt09Qwccgxvs5QiIazR) | [Peek\-a\-boo](https://open.spotify.com/album/1FoAFlOjirEpU0bHgNhxBZ) | 1:48 | 2021-11-11 | 2022-09-03 |
 | [Our Quiet Place \- Harp Version](https://open.spotify.com/track/2lobqow3CzYBtgZTbzxnyc) | [Wunder Harp](https://open.spotify.com/artist/7Hki2k0mnobCrWYGthcAqO) | [Our Quiet Place \- Harp Version](https://open.spotify.com/album/7rRDK6ScjuwoLpGCMgMnZM) | 1:22 | 2022-07-29 |  |
 | [Pajama Time](https://open.spotify.com/track/2nIqwZQ8w0c0bP2IOGyhbT) | [Jonathan Behler](https://open.spotify.com/artist/0W4uCS7ueC32qLWzlz0jFh) | [Pajama Time](https://open.spotify.com/album/0mKeEcOqZK8ojLlO8RyDnt) | 1:39 | 2021-11-11 |  |
 | [Puppy Love](https://open.spotify.com/track/6DaTj3tFSinoMzMtdv1yVM) | [September Blackwood](https://open.spotify.com/artist/2U5xaVrnCTnR6xSNc7Pwrp) | [Come Sail Away](https://open.spotify.com/album/2Kusp6AwauNVXkSixFiUXu) | 1:42 | 2021-11-11 | 2022-07-02 |

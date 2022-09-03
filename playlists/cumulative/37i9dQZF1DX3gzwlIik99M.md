@@ -4,10 +4,11 @@
 
 > Metal hecho en Iberoamérica\. Bandas que ya conoces y que estás a punto de conocer\. Foto: Sepultura
 
-178 songs - 12 hr 11 min - [published](https://open.spotify.com/playlist/7s5Dgpk9E3N59KDagZAZrc)
+179 songs - 12 hr 14 min - [published](https://open.spotify.com/playlist/7s5Dgpk9E3N59KDagZAZrc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [A Toda Madre](https://open.spotify.com/track/5707LxrLRlO7Bq9b0TpQIG) | [Thell Barrio](https://open.spotify.com/artist/5JMS3Ijapn92ZJ8EKFcW59) | [A Toda Madre](https://open.spotify.com/album/0nSnKL7zhrxu16hZX0L0vr) | 3:22 | 2020-10-24 |  |
 | [A Toda Madre](https://open.spotify.com/track/5ENXT56BbduQWWHCX0FI3G) | [Thell Barrio](https://open.spotify.com/artist/5JMS3Ijapn92ZJ8EKFcW59) | [A Toda Madre](https://open.spotify.com/album/5KIUxfQu6NOlotK0EeM9Ie) | 3:22 | 2020-10-24 | 2022-09-01 |
 | [Absurda Doctrina](https://open.spotify.com/track/66VQI8CG6w3GB367DOGJQA) | [Profanación Sepulcral](https://open.spotify.com/artist/67t3eMrdOjl6uk1jXKd9W8) | [Estigmatizados por el Caos Dantesco](https://open.spotify.com/album/4EFZ4IYT8yrELNypid4UvA) | 4:45 | 2020-10-24 | 2022-07-20 |
 | [Acero Inmortal](https://open.spotify.com/track/3SpitFUWlOXFj50cArug4M) | [Voltax](https://open.spotify.com/artist/1A5Dt5zgajoli6BFEiL4P2) | [Fugitive State of Mind](https://open.spotify.com/album/6N7IWhu9D9iXmw7jT3VJai) | 3:47 | 2020-10-24 | 2022-07-27 |
@@ -26,7 +27,7 @@
 | [Bandera de los Libres](https://open.spotify.com/track/5IP2mkpT2DxsVV8g6dOb6G) | [Retrovértigo](https://open.spotify.com/artist/3MMhjoyHQi1B8Z7xu27kwF) | [Dias Negros](https://open.spotify.com/album/4XkMn7c1sDvjel4cxvbVdS) | 3:32 | 2020-10-24 | 2022-07-08 |
 | [Blackout](https://open.spotify.com/track/6qZcq9975jZjdKCAfqLkKW) | [S7N](https://open.spotify.com/artist/4x3vYufIC84GFmlVdzQjMm) | [Fearless](https://open.spotify.com/album/2w8nokxtxKijyLK7V3egt7) | 4:08 | 2020-10-24 | 2022-07-29 |
 | [Blackout](https://open.spotify.com/track/7fzCMARWJO6W7AlgT9UWrX) | [S7N](https://open.spotify.com/artist/4x3vYufIC84GFmlVdzQjMm) | [Fearless](https://open.spotify.com/album/51y1nedHb7b4PTLzpbPCfm) | 4:08 | 2020-10-24 |  |
-| [Brutal Existencia](https://open.spotify.com/track/2evFymF2OK3gW1enigpUqD) | [Acutor](https://open.spotify.com/artist/4tHrTzSpJDv756VU0oVnn0) | [Dios Ha Muerto](https://open.spotify.com/album/2FlG7v1XqcqUwXLpXZiwFi) | 4:08 | 2020-10-24 |  |
+| [Brutal Existencia](https://open.spotify.com/track/2evFymF2OK3gW1enigpUqD) | [Acutor](https://open.spotify.com/artist/4tHrTzSpJDv756VU0oVnn0) | [Dios Ha Muerto](https://open.spotify.com/album/2FlG7v1XqcqUwXLpXZiwFi) | 4:08 | 2020-10-24 | 2022-09-03 |
 | [Cacique Yatel](https://open.spotify.com/track/564R2CUjKmBW3hNTghZeKk) | [Aonikenk](https://open.spotify.com/artist/7hjJ0q7oXYcl866xlKLmu7) | [Sentir Metalero](https://open.spotify.com/album/1ptYeB038RINyS0cxPoP4J) | 4:16 | 2020-10-24 |  |
 | [Cantina Del Infierno](https://open.spotify.com/track/0eR2mWPtubdE8Rea23zAc2) | [Dia De Los Muertos](https://open.spotify.com/artist/0zfiIAZ9Pe1zyVz0NLshqD) | [No Money No Fiesta](https://open.spotify.com/album/4alBZkNLtgeGiCI4AbUBtq) | 2:49 | 2020-10-24 | 2022-07-25 |
 | [Carne Molida](https://open.spotify.com/track/387993G17HB8qj9j5a5cvu) | [Criminal](https://open.spotify.com/artist/2obZTQu3NO5oRcIZKY9fOh) | [Fear Itself](https://open.spotify.com/album/19TKYe5VaqGIE8McaUDm44) | 3:40 | 2020-10-24 | 2022-07-29 |

@@ -1218,6 +1218,24 @@
     },
     {
       "album": {
+        "name": "Away",
+        "url": "https://open.spotify.com/album/7McWabMN5DBrjkAawmQ0gZ"
+      },
+      "artists": [
+        {
+          "name": "FM EXPERIMENT",
+          "url": "https://open.spotify.com/artist/66eDac0JXyReY3uG8W6c9F"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259006,
+      "name": "Away",
+      "url": "https://open.spotify.com/track/7BSGiGKf9IfhVRvvdFpyBh"
+    },
+    {
+      "album": {
         "name": "Baby Face",
         "url": "https://open.spotify.com/album/2G1QuPpH23Ii2CD3Puu3j7"
       },

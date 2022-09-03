@@ -4,7 +4,7 @@
 
 > The sweet sounds of Morocco.
 
-150 songs - 8 hr 8 min - [published](https://open.spotify.com/playlist/3rERU7jhrUFm3TLTfgFuLD)
+151 songs - 8 hr 10 min - [published](https://open.spotify.com/playlist/3rERU7jhrUFm3TLTfgFuLD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,7 @@
 | [Marfoud](https://open.spotify.com/track/56Bs6dWaxizARR9y1Ghs5y) | [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3) | [Marfoud](https://open.spotify.com/album/0xaytxkgDNmIjvnh1pCQ9p) | 3:23 | 2021-12-25 | 2022-03-15 |
 | [MILANO](https://open.spotify.com/track/5TR5g2mXk58AbVbHLVRbsM) | [7\-Toun](https://open.spotify.com/artist/3IRAzpoLeNDGv7kqwNK3bp) | [MILANO](https://open.spotify.com/album/7DgRfSHOYWDEV6svVQqLiJ) | 4:09 | 2021-12-25 |  |
 | [Mmi Lalla](https://open.spotify.com/track/7nsSXzC5emf376CWUkn8Sw) | [Khalifa](https://open.spotify.com/artist/19qkQqETJstZ0IOcVoZhUJ) | [Mmi Lalla](https://open.spotify.com/album/7yIchg5XojEvKS3lYnZd4L) | 3:27 | 2022-01-24 | 2022-04-16 |
-| [Moulat Taj \- Delali](https://open.spotify.com/track/6MGvR6zRaMnBi4sejIANew) | [Atif Zinachi](https://open.spotify.com/artist/29R5LaRZ6ceDKec9pYJU8o) | [Moulat Taj \(Delali\)](https://open.spotify.com/album/3EYxGv2x4HKpr1vpugqB9y) | 3:03 | 2022-08-09 |  |
+| [Moulat Taj \- Delali](https://open.spotify.com/track/6MGvR6zRaMnBi4sejIANew) | [Atif Zinachi](https://open.spotify.com/artist/29R5LaRZ6ceDKec9pYJU8o) | [Moulat Taj \(Delali\)](https://open.spotify.com/album/3EYxGv2x4HKpr1vpugqB9y) | 3:03 | 2022-08-09 | 2022-09-03 |
 | [MUSTAHIL](https://open.spotify.com/track/79dYolBgVt3BjSR7OacQNI) | [Douzi](https://open.spotify.com/artist/2elOTj4JyFOFPiZOcn4RNG) | [MUSTAHIL](https://open.spotify.com/album/255KMUYYIGcjX5AO61BCbF) | 4:00 | 2022-05-04 | 2022-07-26 |
 | [Nabra](https://open.spotify.com/track/4zrKP7AehgyJaU8jGIGvPQ) | [Plylist](https://open.spotify.com/artist/3s2IJ6our3HssoUtzDd4QW) | [Nabra](https://open.spotify.com/album/7Mj2Go09HnPewEFgyOlral) | 3:40 | 2021-12-25 | 2022-01-04 |
 | [Nada Nada \(feat\. Chawki\)](https://open.spotify.com/track/1lF775PA7nBwkYW0jEQlyk) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Chawki](https://open.spotify.com/artist/79b2ipSR68Uf9EzA438KZt) | [MON VOYAGE](https://open.spotify.com/album/4tCCEyA2VMRbda3WAsMAqy) | 3:08 | 2021-12-25 | 2022-01-08 |
@@ -151,6 +151,7 @@
 | [Zawali](https://open.spotify.com/track/4YjQb4TGxnBaGDxzVxoHcP) | [Abdeelgha4](https://open.spotify.com/artist/714WB17jXnpvAmSRQJpYGv) | [Zawali](https://open.spotify.com/album/5DY406iJLXtKIw11Jvd9N4) | 3:02 | 2022-06-11 |  |
 | [ZEKARA](https://open.spotify.com/track/3qe9cnNbkv4zqUPAPASf1S) | [Mr\. Crazy](https://open.spotify.com/artist/3T0mKZYTDmRODhPJYsQNoz) | [ZEKARA](https://open.spotify.com/album/14yyNsJnlVmBp5ACuuSsNa) | 2:22 | 2022-08-16 |  |
 | [Zerba](https://open.spotify.com/track/4kVeCnMy5d1sh8WPyGFTMQ) | [Echbiy](https://open.spotify.com/artist/6BwGFQFM6wA6vPgjjFo34K) | [Zerba](https://open.spotify.com/album/0rk4KargHTEdXsEz1FxQKt) | 2:45 | 2022-08-05 |  |
+| [Zina](https://open.spotify.com/track/6aSUxiUElMeHaUhVJdTSPl) | [Slimane](https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz), [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F) | [Chroniques d’un cupidon](https://open.spotify.com/album/1a6v54PDHcrn6y5iA7wuT1) | 2:45 | 2022-09-02 |  |
 | [Ztam](https://open.spotify.com/track/3nKhMcqmVeeAy9xTEesfiZ) | [Hind Ziadi](https://open.spotify.com/artist/0jGwvpxtkFVxvk9XGunXuK) | [Ztam](https://open.spotify.com/album/4144sqiUaw55a7rANh9mIE) | 3:31 | 2022-03-14 | 2022-07-22 |
 | [Ça tourne dans ma tête](https://open.spotify.com/track/7zp1weGEkBHmcbLQ0oO4oa) | [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3), [Nassi](https://open.spotify.com/artist/1qKKI6tBqJZCZfAmXjYFjN), [Faux Contact](https://open.spotify.com/artist/1R52hZ1pSoTLPvZpWSMQDv) | [Ça tourne dans ma tête](https://open.spotify.com/album/4NcyyH7fmHZg1CCO54v6zA) | 3:19 | 2021-12-25 | 2022-02-03 |
 | [Ça Y Est](https://open.spotify.com/track/2qu0j5rf7W5ZAmQafEg0bB) | [Ihab Amir](https://open.spotify.com/artist/3B0pL0vuA6bTa94mcJFyIN) | [Ça Y Est](https://open.spotify.com/album/0tVYqwsUb9qtzBsMEYpCjB) | 2:48 | 2022-06-20 | 2022-07-19 |

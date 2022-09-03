@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqfgj8NZEp1.md) - [plain]
 
 ### [Coffee Table Jazz](https://open.spotify.com/playlist/37i9dQZF1DWVqfgj8NZEp1)
 
-> Relax to the sound of jazz.
+> Relax to the sound of gentle instrumental jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,395,280 likes - 143 songs - 12 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,394,645 likes - 143 songs - 12 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -152,4 +152,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqfgj8NZEp1.md) - [plain]
 | 142 | [For Wee Folks](https://open.spotify.com/track/7kFpCWoKe2iqZSsBe9xwm5) | [Joey Alexander](https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII) | [Countdown](https://open.spotify.com/album/4WHtmqNJCJtXiaQojOHHEC) | 6:28 |
 | 143 | [I Have Dreamed](https://open.spotify.com/track/4bBIADw4urJPkcx0YOfEIo) | [Christian McBride Trio](https://open.spotify.com/artist/3nh2jsKXbzQzTBm5qzVXEP) | [Out Here](https://open.spotify.com/album/14BJkt0RNMcXU14xMmNRxH) | 8:27 |
 
-Snapshot ID: `MTY2MTc4MTUwNSwwMDAwMDAwMDExN2M5M2RkZjI0M2M1ZmFmMGI2OGI5YjJkMDE0MTBi`
+Snapshot ID: `MTY2MjEwODEwNywwMDAwMDAwMDhiOTEwZDRkNTM0YjU3Y2Y2OGIxMzA1MmNjNmU5MzY2`

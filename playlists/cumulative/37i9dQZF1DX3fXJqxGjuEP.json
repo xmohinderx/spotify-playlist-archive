@@ -1433,7 +1433,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 243934,
       "name": "Cambiar\u00e1s",
       "url": "https://open.spotify.com/track/3IJX2DqFm8G6joQQsbQrqC"
@@ -1907,6 +1907,28 @@
       "duration_ms": 224459,
       "name": "Clich\u00e9",
       "url": "https://open.spotify.com/track/4LibnjBGrnHExVThKnN3BG"
+    },
+    {
+      "album": {
+        "name": "Comadre",
+        "url": "https://open.spotify.com/album/5GsTcqmOSSHQcWStrI0E2m"
+      },
+      "artists": [
+        {
+          "name": "Zuaraz",
+          "url": "https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch"
+        },
+        {
+          "name": "TIRAYA",
+          "url": "https://open.spotify.com/artist/3VbXBoA7I3k5KURFPIajpy"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212821,
+      "name": "Comadre",
+      "url": "https://open.spotify.com/track/6KZnvozLmnxxOEzHaH404F"
     },
     {
       "album": {
@@ -3915,6 +3937,28 @@
       "duration_ms": 202105,
       "name": "La Luna",
       "url": "https://open.spotify.com/track/5xqKWqpuBAOyvfe75s5wXw"
+    },
+    {
+      "album": {
+        "name": "La Matanza",
+        "url": "https://open.spotify.com/album/2CbqEOFIp1BIRIs3NPUVU6"
+      },
+      "artists": [
+        {
+          "name": "French Braids",
+          "url": "https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1"
+        },
+        {
+          "name": "Eva de Marce",
+          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201562,
+      "name": "La Matanza",
+      "url": "https://open.spotify.com/track/538h4bDYuZYT99IMlbMsdp"
     },
     {
       "album": {
@@ -7231,7 +7275,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 196984,
       "name": "Temes",
       "url": "https://open.spotify.com/track/4y7MogcFeMrp4QXPVHloyB"
@@ -7430,6 +7474,32 @@
     },
     {
       "album": {
+        "name": "Un Canto por M\u00e9xico, Vol. II",
+        "url": "https://open.spotify.com/album/0Ece1my4kjbR0frvMUzRT0"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        },
+        {
+          "name": "Mare Advertencia Lirika",
+          "url": "https://open.spotify.com/artist/3QVB7ctBlqEFuQZeMDt6Qh"
+        },
+        {
+          "name": "Rub\u00e9n Blades",
+          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
+        }
+      ],
+      "date_added": "2021-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268280,
+      "name": "T\u00fa S\u00ed Sabes Quererme",
+      "url": "https://open.spotify.com/track/0cvrnpQP2UBc9f68M28JDt"
+    },
+    {
+      "album": {
         "name": "T\u00fa S\u00ed Sabes Quererme",
         "url": "https://open.spotify.com/album/3l1VLXgsVJQ2iBLeIkByZn"
       },
@@ -7449,7 +7519,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 268280,
       "name": "T\u00fa S\u00ed Sabes Quererme",
       "url": "https://open.spotify.com/track/4Y4LIwW0Wu2ofbnaz9qZVN"

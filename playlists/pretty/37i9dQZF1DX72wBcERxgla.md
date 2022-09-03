@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX72wBcERxgla.md) - [plain]
 
 ### [Jazz for Reading](https://open.spotify.com/playlist/37i9dQZF1DX72wBcERxgla)
 
-> 
+> Jazz piano to accompany your reading.
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,479 likes - 150 songs - 8 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,297 likes - 150 songs - 8 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX72wBcERxgla.md) - [plain]
 | 149 | [Dedicated To You](https://open.spotify.com/track/47k5XrHgnwF7yMRUALGOyt) | [Bill Walton](https://open.spotify.com/artist/7fHixSSo2DvBypEXNKjgBl) | [Dedicated To You](https://open.spotify.com/album/1d7Uj2w97J6ctIoXXAWxnP) | 4:45 |
 | 150 | [I Fall In Love Too Easily](https://open.spotify.com/track/0ZuEKQKcR0Zm53Bhb2wgLO) | [Drew Milner](https://open.spotify.com/artist/0OtsXpbZBM7OkX8FiDhpS5) | [I Fall In Love Too Easily](https://open.spotify.com/album/5xh9QdbDD89FmJ44R1CA0e) | 2:27 |
 
-Snapshot ID: `MTY2MTg1MTIzNCwwMDAwMDAwMGE0ZWEyNjQ3ZTM3NjFmMmU5NGQwMjljMmEzYzkxYjE3`
+Snapshot ID: `MTY2MjEyMTI1NiwwMDAwMDAwMDY5MGUyNDg1ZTFhMTk4NmVjMTNmYTljNTk4ZDVhZDVh`

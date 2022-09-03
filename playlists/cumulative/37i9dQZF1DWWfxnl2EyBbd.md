@@ -4,7 +4,7 @@
 
 > The soft sound of a jazz piano trio to help you relax and unwind.
 
-212 songs - 20 hr 6 min - [published](https://open.spotify.com/playlist/3Q3sahGulDQZJZy0Nf1cgl)
+213 songs - 20 hr 9 min - [published](https://open.spotify.com/playlist/3Q3sahGulDQZJZy0Nf1cgl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Central Park West](https://open.spotify.com/track/4HMx9XCTgwwbQELIfWN9b5) | [Glenn Zaleski](https://open.spotify.com/artist/0M5jsQVMD2A3wpBLI9qs8W) | [Fellowship](https://open.spotify.com/album/7FtiFheUH43hI2aEFM8ndF) | 7:26 | 2022-02-10 |  |
 | [Christmas in Bilbao](https://open.spotify.com/track/4yEV9RgUepXeLCdSFG3ohP) | [Juan Ortiz](https://open.spotify.com/artist/72wv4vWevdN2V78wvxj44U), [Gene Jackson](https://open.spotify.com/artist/6vmvNKIhsms4fxFD8YfQG8), [Hiroshi Takase](https://open.spotify.com/artist/5wdKbfjSsOpldsBV3GBg9H) | [Brighter Days](https://open.spotify.com/album/6QFy0zMnOL1Y5oacJYP2RE) | 6:41 | 2022-06-03 |  |
 | [Come Sunday](https://open.spotify.com/track/3Nctgma8nqUtYcfOUbmSLn) | [Charlie Haden](https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin), [Hank Jones](https://open.spotify.com/artist/0BhFfJmScFj7OzqVaDqnSv) | [Come Sunday](https://open.spotify.com/album/2ntGI3niS9mmoSvTdt4BtS) | 3:29 | 2022-02-10 |  |
-| [Counting Sheep](https://open.spotify.com/track/4Z1gZdDIGrnV7OvHdSyzJM) | [Addison Frei](https://open.spotify.com/artist/4NfMAQV9vkPudAdPGTDKSq), [Ben Wolfe](https://open.spotify.com/artist/7A1xxtVfUahU8u7Z4kKFRC), [Terreon Gully](https://open.spotify.com/artist/1SqJPsQ1Xl7SqS7bNcea5P) | [Time and Again](https://open.spotify.com/album/7AbI9I8qhECFl9dxFnphs6) | 4:08 | 2022-02-10 |  |
+| [Counting Sheep](https://open.spotify.com/track/4Z1gZdDIGrnV7OvHdSyzJM) | [Addison Frei](https://open.spotify.com/artist/4NfMAQV9vkPudAdPGTDKSq), [Ben Wolfe](https://open.spotify.com/artist/7A1xxtVfUahU8u7Z4kKFRC), [Terreon Gully](https://open.spotify.com/artist/1SqJPsQ1Xl7SqS7bNcea5P) | [Time and Again](https://open.spotify.com/album/7AbI9I8qhECFl9dxFnphs6) | 4:08 | 2022-02-10 | 2022-09-03 |
 | [Cry Me a River \- Live](https://open.spotify.com/track/1T1vnu1TrKqbscghZb4npM) | [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq) | [Progression: The Art of the Trio, Vol\. 5](https://open.spotify.com/album/6b6b4JqCmmzwD4enWK8lf0) | 8:50 | 2022-07-07 | 2022-08-12 |
 | [Cry Me a River \- Live](https://open.spotify.com/track/518gXaq0LZe99Bz0Laspi2) | [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq) | [Progression: The Art of the Trio, Vol\. 5](https://open.spotify.com/album/4P8bWmuZtipCFvNsnzGXLd) | 8:50 | 2022-02-10 | 2022-07-29 |
 | [Danny Boy](https://open.spotify.com/track/3GimzseMaUjoAWjo6Gs3QH) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF), [Shelly Manne](https://open.spotify.com/artist/6M7ScGp8p2GspFJaIMh1Yo) | [Empathy](https://open.spotify.com/album/3R0A51xf7JzlKCEm3RmleH) | 3:40 | 2022-04-08 |  |
@@ -208,6 +208,7 @@
 | [Very Early](https://open.spotify.com/track/58gg22rFN1xRC2MqKkzDNq) | [Bill Evans Trio](https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS) | [Moon Beams](https://open.spotify.com/album/6BF1FJIGXf9wj4FKbDIaH1) | 5:04 | 2022-02-10 |  |
 | [Waltz for Lee](https://open.spotify.com/track/5BYn6GKE2Yd0O0vUQNqBkp) | [Brad Hatfield](https://open.spotify.com/artist/2Z5iQ23reHkZArqqSM27zj) | [Straight Up: Jazz and Cocktails, Vol\. 3](https://open.spotify.com/album/6Lvf6z9nGN6FjesTVA0WO0) | 4:48 | 2022-02-10 | 2022-08-12 |
 | [We Don´t Need Another Hero](https://open.spotify.com/track/4RVQO4cSPaeek08d9cHLWt) | [Espen Eriksen Trio](https://open.spotify.com/artist/57BkYLMXOYqJ7KHFhd1VST) | [What Took You so Long](https://open.spotify.com/album/7k2gMK9zmm8yxS9uqnztLt) | 4:31 | 2022-02-10 |  |
+| [What A Difference A Day Made](https://open.spotify.com/track/7n8x83Z1a5q1Ct4eWCSDbU) | [Ola W Jansson](https://open.spotify.com/artist/4hoFdBmz4b5NykkV0SCEVz), [W JAZZ TRIO](https://open.spotify.com/artist/4nFofMNAntqM5p8Q4ha2YA) | [What A Difference A Day Made](https://open.spotify.com/album/4VrMjhLhsy4nvXqfX7xKe1) | 2:43 | 2022-09-01 |  |
 | [What Are You Doing The Rest Of Your Life?](https://open.spotify.com/track/6UN7iywg34GxVpbWGcEuPd) | [Bill Charlap Trio](https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja) | [Street Of Dreams](https://open.spotify.com/album/61y1rgjqARtBJxEn4WEPPr) | 7:30 | 2022-02-10 |  |
 | [When I Fell for You](https://open.spotify.com/track/5o7zflAK8LxDYuqpSDmwhM) | [David Hazeltine](https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q) | [When I Fell for You](https://open.spotify.com/album/6v6O5lQqx8E3PqENPC7hAk) | 5:22 | 2022-02-10 | 2022-08-18 |
 | [Where Breathing Starts](https://open.spotify.com/track/5e4pjbR6UsKQE9fvWmQRkw) | [Tord Gustavsen Trio](https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a) | [Changing Places](https://open.spotify.com/album/4572n5PFAccWTD3Aq3tw5g) | 8:49 | 2022-05-13 |  |

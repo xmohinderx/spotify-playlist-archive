@@ -4,7 +4,7 @@
 
 > A collection of classics from the height of the folk revival to the rise of the folk rock era\. Cover: <a href="spotify:artist:74ASZWbe4lXaubB36ztrGX">Bob Dylan</a>
 
-147 songs - 9 hr 13 min - [published](https://open.spotify.com/playlist/5XrR4yd4Dusry8J0LVbkFW)
+148 songs - 9 hr 17 min - [published](https://open.spotify.com/playlist/5XrR4yd4Dusry8J0LVbkFW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,8 @@
 | [I'll Never Find Another You](https://open.spotify.com/track/6Ln9F9lZNMgV5Ht87z9Bd0) | [The Seekers](https://open.spotify.com/artist/7dedWAqd0IKTdCiqiadUrV) | [The Ultimate Collection](https://open.spotify.com/album/2bhcZbOcrAFH69kD3TLFB0) | 2:42 | 2021-08-18 |  |
 | [If I Had A Boat](https://open.spotify.com/track/6oZaeLPOAb3Rn408f3IQiB) | [Lyle Lovett](https://open.spotify.com/artist/0zlJDQgqnr9AocrH9gs1Es) | [Pontiac](https://open.spotify.com/album/5vUis8FOVDqezxkJke9BOw) | 3:10 | 2021-08-18 |  |
 | [If I Had a Hammer \- 2004 Remaster](https://open.spotify.com/track/6R9LiK1WhfnTvFsVfusdQl) | [Peter, Paul and Mary](https://open.spotify.com/artist/6yrBBtqX2gKCHCrZOYBDrB) | [The Very Best of Peter, Paul and Mary](https://open.spotify.com/album/14Qo0TZ3M82PC4EFTt39X0) | 2:01 | 2021-08-18 |  |
-| [If You Could Read My Mind](https://open.spotify.com/track/0QAZgZkHYERH1rYN3u8Gci) | [Gordon Lightfoot](https://open.spotify.com/artist/23rleGXVOVVgTk3xgtmfE4) | [Rhino Hi\-Five: Gordon Lightfoot](https://open.spotify.com/album/5eUwVFk2vkWl8R9bHj15jo) | 3:48 | 2021-08-18 |  |
+| [If You Could Read My Mind](https://open.spotify.com/track/0QAZgZkHYERH1rYN3u8Gci) | [Gordon Lightfoot](https://open.spotify.com/artist/23rleGXVOVVgTk3xgtmfE4) | [Rhino Hi\-Five: Gordon Lightfoot](https://open.spotify.com/album/5eUwVFk2vkWl8R9bHj15jo) | 3:48 | 2021-08-18 | 2022-09-03 |
+| [If You Could Read My Mind](https://open.spotify.com/track/57ct8jKi6trntXiRV0NnXi) | [Gordon Lightfoot](https://open.spotify.com/artist/23rleGXVOVVgTk3xgtmfE4) | [If You Could Read My Mind](https://open.spotify.com/album/6bzqUICBtzct7TiQC8if9s) | 3:48 | 2022-03-11 |  |
 | [If You Want To Sing Out, Sing Out](https://open.spotify.com/track/1UDeGeTBw2GdbNKqFUzGyu) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [Gold](https://open.spotify.com/album/1S1NJXGjE6yBGIq2PhVKyE) | 2:44 | 2021-08-18 | 2022-07-29 |
 | [If You Want To Sing Out, Sing Out](https://open.spotify.com/track/340t55txxJWQmTFK7wARZh) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [Tea For The Tillerman \(Super Deluxe\)](https://open.spotify.com/album/4odgU4XFiB5pxEKKqB9QJA) | 2:45 | 2022-03-11 |  |
 | [In Spite of Ourselves](https://open.spotify.com/track/71PfUEYhCLmqttVTYizFDh) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT), [Iris DeMent](https://open.spotify.com/artist/3NPZs8XgXtaWslUcnIw6rY) | [In Spite of Ourselves](https://open.spotify.com/album/7glNzaTbKXqYvu2mUqcmll) | 3:33 | 2021-08-18 | 2022-07-29 |

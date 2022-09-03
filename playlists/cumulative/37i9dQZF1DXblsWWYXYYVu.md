@@ -4,7 +4,7 @@
 
 > Relax and take it slow today
 
-146 songs - 8 hr 13 min - [published](https://open.spotify.com/playlist/3p1V85d927eyG2kPYAHK5f)
+148 songs - 8 hr 20 min - [published](https://open.spotify.com/playlist/3p1V85d927eyG2kPYAHK5f)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,8 +30,8 @@
 | [Far Side of the World](https://open.spotify.com/track/5JAnepWYVyWqJBQlJuZhfD) | [Holden Miller](https://open.spotify.com/artist/1SsWCyijEv548QDkKcclDG), [Jake Fine](https://open.spotify.com/artist/43Bw9eMbgU3flCZxlk238n) | [Far Side of the World](https://open.spotify.com/album/5dpUh5bWCdCrsQCovr25vh) | 2:56 | 2022-03-25 |  |
 | [Far Too Good](https://open.spotify.com/track/1WUHeOPayLKPMG35uBJVUj) | [John Smith](https://open.spotify.com/artist/56GNqAFg9wJNTwcHsJhyS2) | [Headlong](https://open.spotify.com/album/0wqLLyEsGv9Lf8ztk1NKNZ) | 3:39 | 2021-04-19 |  |
 | [Find My Faith](https://open.spotify.com/track/5lq3jWJKqwtrqPhymjdpVd) | [Ben Fuller](https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d) | [Find My Faith](https://open.spotify.com/album/2MoBKnJvcU1qyXCo1UWsyj) | 2:56 | 2021-04-19 |  |
-| [Find the One](https://open.spotify.com/track/4wQXTdCIapsqFASz3FfYE3) | [Raquel Cole](https://open.spotify.com/artist/79d6Lyd8uQbZsCWtpnZqtF) | [The Essence of Me](https://open.spotify.com/album/3ld5yn7a5fLuaDDWpSp8ZG) | 3:19 | 2021-04-19 |  |
-| [For Who You Are](https://open.spotify.com/track/66FzvLilvqQYeqGlJmNSnF) | [Eric Lee](https://open.spotify.com/artist/4YctQpJB8K4FYJwM03A6e5) | [For Who You Are](https://open.spotify.com/album/5LX8mDeAJsTDLjI3DrT8NE) | 3:32 | 2021-04-19 |  |
+| [Find the One](https://open.spotify.com/track/4wQXTdCIapsqFASz3FfYE3) | [Raquel Cole](https://open.spotify.com/artist/79d6Lyd8uQbZsCWtpnZqtF) | [The Essence of Me](https://open.spotify.com/album/3ld5yn7a5fLuaDDWpSp8ZG) | 3:19 | 2021-04-19 | 2022-09-03 |
+| [For Who You Are](https://open.spotify.com/track/66FzvLilvqQYeqGlJmNSnF) | [Eric Lee](https://open.spotify.com/artist/4YctQpJB8K4FYJwM03A6e5) | [For Who You Are](https://open.spotify.com/album/5LX8mDeAJsTDLjI3DrT8NE) | 3:32 | 2021-04-19 | 2022-09-03 |
 | [Forgiveness](https://open.spotify.com/track/0uEqGj52IUFOcVXb4nK0sz) | [David Nail](https://open.spotify.com/artist/4DZGvSv2oMkBUnPz67E6z6) | [Oh, Mother](https://open.spotify.com/album/0F6OzF79qmK77Kd7LfzCgL) | 4:07 | 2021-04-19 |  |
 | [Frontlines](https://open.spotify.com/track/26G5UCxN0jtGKFETe2QM9m) | [Ripp + Rice](https://open.spotify.com/artist/60islalA9m7zDvmEGoz7Yu) | [Songs We Wrote on Tuesdays](https://open.spotify.com/album/1PpOJ157jhp4WRWIVIAcA4) | 1:47 | 2021-04-19 | 2022-04-29 |
 | [Giving You Up \- Acoustic](https://open.spotify.com/track/5NIGKX5at9iO87OyOHmoiV) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Giving You Up \(Acoustic\)](https://open.spotify.com/album/7MQzvFfSyYioQwB6r98dwD) | 3:52 | 2021-04-19 |  |
@@ -95,6 +95,7 @@
 | [Pretty Shiny Things](https://open.spotify.com/track/1VJwwtODVYNjgk1O7J16m0) | [Kassi Ashton](https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg) | [Pretty Shiny Things](https://open.spotify.com/album/1sQsBkSzUDRZOGh3WlYmKS) | 3:08 | 2021-04-19 |  |
 | [Pretty Things](https://open.spotify.com/track/39xEaNKhJgBovrThCsz7pq) | [TFDI](https://open.spotify.com/artist/5yyewYEjlKM5SeTp8eJrif) | [TFDI](https://open.spotify.com/album/3qIuuJrNO2lZ2TfiGwkFnh) | 5:06 | 2021-04-19 |  |
 | [Put You Back Together](https://open.spotify.com/track/1mWEc9hJrK5JFRj6NlAPoX) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Only Ticket Home](https://open.spotify.com/album/6JpQ684RhKhJJK9ZDIDT88) | 3:37 | 2021-04-19 |  |
+| [Quitting \(The Way I Wrote It\)](https://open.spotify.com/track/5MFD8psq13YEL9HdqTBGeJ) | [Ian McConnell](https://open.spotify.com/artist/4cnccBVC82QHFHuOVxzqM1) | [Quitting \(The Way I Wrote It\)](https://open.spotify.com/album/3QFX3aPTIkkjZkEK2V4boI) | 2:32 | 2022-09-02 |  |
 | [Rebound](https://open.spotify.com/track/3maqVYkwbQv9bYcOzLN4u7) | [Mariya Stokes](https://open.spotify.com/artist/38JkwdrqzjT3YrIH7wkCDS) | [Rebound](https://open.spotify.com/album/4tJxnECufcU2cVVsTNsSPG) | 3:37 | 2021-04-19 |  |
 | [Revvin' My Cj7 \- Juniper Version](https://open.spotify.com/track/7hxIicKl9uy1IRHhthOCnt) | [Summer Salt](https://open.spotify.com/artist/3MATPJ9tYbcMhw5VOZrRU6) | [The Juniper Songbook](https://open.spotify.com/album/6HmJiODv0iTye63TG2g4h0) | 3:20 | 2022-03-11 |  |
 | [Rise and Shine](https://open.spotify.com/track/0SjIo6BGy7Aq2vuKnEkB4D) | [Cassadee Pope](https://open.spotify.com/artist/7ahuvq1mbb4idwG1iJbSFG) | [Rise and Shine](https://open.spotify.com/album/2xaRueD4DNWoJ2JyMKBXde) | 3:40 | 2021-04-19 |  |
@@ -151,6 +152,7 @@
 | [Won't Let Go](https://open.spotify.com/track/7J2PKevNeTneR2gPdc5EBg) | [Francis Skyes](https://open.spotify.com/artist/0eDNDJ6p75kQRD2dYx6qL5) | [Won't Let Go](https://open.spotify.com/album/4s2LOOskqLO04nW8j4FLW4) | 2:22 | 2022-01-28 |  |
 | [Worry No More \(Acoustic\)](https://open.spotify.com/track/7Hn0D4VbdU9Q6UkytEJNLB) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [Worry No More \(Acoustic\)](https://open.spotify.com/album/69EIfIPCXnX3ddxn1nPDZO) | 3:17 | 2021-09-17 |  |
 | [Wrong Side of Goodbye \(Reimagined\)](https://open.spotify.com/track/0uhnVe3CgAhOI4NnSeWxTm) | [Muscadine Bloodline](https://open.spotify.com/artist/0EyZDKtc41e4A3a3v69MxD) | [Wrong Side of Goodbye \(Reimagined\)](https://open.spotify.com/album/7lbcv8zWEcRjWd6XJs2ueK) | 2:17 | 2021-04-19 |  |
+| [You and Me On The Rock \(In The Canyon Haze\)](https://open.spotify.com/track/7tmtdHPAoUZLuJqTnDR7FS) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [You and Me On The Rock \(In The Canyon Haze\)](https://open.spotify.com/album/22EMSIjfksTwA1yizWVXa6) | 4:17 | 2022-09-02 |  |
 | [You Belong To Somebody Else](https://open.spotify.com/track/20R40KmQrdwKES14PmDwaf) | [PJ Harding](https://open.spotify.com/artist/1RryIbDjpwt00AKkSpCGvP), [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [You Belong To Somebody Else](https://open.spotify.com/album/0KFJcWV5MW76YWSfKS83rW) | 3:19 | 2021-04-19 |  |
 | [You Can't Do Enough](https://open.spotify.com/track/759pX6ms3foc1dxBzPfT1U) | [Colton Venner](https://open.spotify.com/artist/2j8Sh4ZxKM8iqE55xUoR1L) | [Walk Through Fire](https://open.spotify.com/album/1ZNrtxvfN5AqL3KYmlGiQ6) | 3:39 | 2021-04-19 |  |
 | [You Don't Have to Be Sorry](https://open.spotify.com/track/0lUv6PZaaUxQBZaeTJihGf) | [Ryan Dilmore](https://open.spotify.com/artist/4B8TXOImx4gm4RraBvUZHr) | [You Don't Have to Be Sorry](https://open.spotify.com/album/3HVU2CppIWKtWNvOpxlOd9) | 2:33 | 2021-04-19 |  |

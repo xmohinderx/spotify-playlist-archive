@@ -2,7 +2,7 @@
 
 ### [Jazz for Reading](https://open.spotify.com/playlist/37i9dQZF1DX72wBcERxgla)
 
-> 
+> Jazz piano to accompany your reading.
 
 169 songs - 10 hr 11 min - [published](https://open.spotify.com/playlist/4cNGHDcvjEjFQPQd3RNnQf)
 

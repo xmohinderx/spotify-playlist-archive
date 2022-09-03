@@ -4,7 +4,7 @@
 
 > the mood is to scream into your dashboard/choke back tears in the parking lot
 
-300 songs - 16 hr 57 min - [published](https://open.spotify.com/playlist/32BidoR3zFJ9QHJUXqSSjL)
+301 songs - 17 hr 2 min - [published](https://open.spotify.com/playlist/32BidoR3zFJ9QHJUXqSSjL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,10 +12,11 @@
 | [2%](https://open.spotify.com/track/4fV8zuE5GmRCjzl8b3JUgg) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [see you later](https://open.spotify.com/album/2nf6Ptrirj20PgJaGqZhcE) | 3:27 | 2022-04-01 | 2022-04-07 |
 | [24/5](https://open.spotify.com/track/1A6gT680oQr98VtDkNzys7) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [24/5](https://open.spotify.com/album/263g4l4u6u115I2ISnMkQP) | 2:38 | 2022-04-01 | 2022-04-20 |
 | [3 Moods](https://open.spotify.com/track/3n9ok4Eyi26VSubDdVLA1E) | [Abe Parker](https://open.spotify.com/artist/5V61WloeXM3XLslOqJ8RES) | [3 Moods](https://open.spotify.com/album/5eWV4nxVgx850XQp3ZJSEn) | 3:08 | 2022-04-08 | 2022-04-13 |
+| [505](https://open.spotify.com/track/58ge6dfP91o9oXMzq3XkIS) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Favourite Worst Nightmare \(Standard Version\)](https://open.spotify.com/album/6rsQnwaoJHxXJRCDBPkBRw) | 4:13 | 2022-09-02 |  |
 | [Adelaide](https://open.spotify.com/track/16NGKSGdga9PpKni7czkLl) | [Johnny Orlando](https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW) | [It’s Never Really Over](https://open.spotify.com/album/6uo1RAD4bTkbHVn1cnxaED) | 3:02 | 2022-02-11 | 2022-04-16 |
 | [aftermath](https://open.spotify.com/track/4nzBST9JdZIy9qfilr93Po) | [vaultboy](https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB) | [aftermath](https://open.spotify.com/album/1fwElcYJZ9su3GXu627HNs) | 2:46 | 2021-12-17 | 2022-07-29 |
 | [All For You](https://open.spotify.com/track/29Co9NKhOM5R9vWCrpkPPK) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [All For You](https://open.spotify.com/album/3SHliIKddH4xZVyr7hyjML) | 3:39 | 2022-04-08 | 2022-04-16 |
-| [All Girls Are The Same](https://open.spotify.com/track/4VXIryQMWpIdGgYR4TrjT1) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Goodbye & Good Riddance](https://open.spotify.com/album/6tkjU4Umpo79wwkgPMV3nZ) | 2:45 | 2022-04-01 |  |
+| [All Girls Are The Same](https://open.spotify.com/track/4VXIryQMWpIdGgYR4TrjT1) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Goodbye & Good Riddance](https://open.spotify.com/album/6tkjU4Umpo79wwkgPMV3nZ) | 2:45 | 2022-04-01 | 2022-09-03 |
 | [All I Ask](https://open.spotify.com/track/6DEMMeWXfmFAXgDUMMzeg6) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/6TVfiWmo8KtflUAmkK9gGF) | 4:31 | 2022-02-11 | 2022-04-18 |
 | [All I Want](https://open.spotify.com/track/0NlGoUyOJSuSHmngoibVAs) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [In A Perfect World \(Expanded Edition\)](https://open.spotify.com/album/1ttGpGzOEi6JDDOHO4qD1y) | 5:05 | 2022-04-01 | 2022-04-19 |
 | [All I Want](https://open.spotify.com/track/1v6svH1Fyx9C1nIt1mA2DT) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [High School Musical: The Musical: The Series \(Original Soundtrack\)](https://open.spotify.com/album/4GgojLZOPRu8MdUVmjNRSI) | 2:57 | 2021-12-17 | 2022-07-29 |

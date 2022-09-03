@@ -1,13 +1,29 @@
 {
   "description": "All eyes on you. Cover: Bo Burnham",
-  "num_followers": 168613,
+  "num_followers": 169443,
   "original_name": "Limelight",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTk2OTE0NiwwMDAwMDAwMDg4NGUyODQ5ZWEzMDdjMGE0Y2YwYzYwNTE1NGEzZjk4",
+  "snapshot_id": "MTY2MjE0MjkzMSwwMDAwMDAwMDU1ZWY5OTkyNjc5Mjk3ZDM2ZjhkYjJkOGRhMzY3MGE3",
   "tracks": [
+    {
+      "added_at": "2022-09-02 18:22:11",
+      "album": {
+        "name": "Inarticulation",
+        "url": "https://open.spotify.com/album/4EEIHZ5NSNBBJG2RhLYdBW"
+      },
+      "artists": [
+        {
+          "name": "Rio Romeo",
+          "url": "https://open.spotify.com/artist/22y08IZx7u6SWpsfap1Cub"
+        }
+      ],
+      "duration_ms": 163000,
+      "name": "Inarticulation",
+      "url": "https://open.spotify.com/track/1V8lTzBz2irnrqIVsjOuFL"
+    },
     {
       "added_at": "2022-08-08 21:53:31",
       "album": {
@@ -39,6 +55,54 @@
       "duration_ms": 233979,
       "name": "The Red Means I Love You",
       "url": "https://open.spotify.com/track/5pLbM4PU1wZyMvoQyEAorp"
+    },
+    {
+      "added_at": "2022-09-02 18:22:11",
+      "album": {
+        "name": "Ex-Girlfriend",
+        "url": "https://open.spotify.com/album/37xFZDZTBANnDJdPpXHgU8"
+      },
+      "artists": [
+        {
+          "name": "Melina KB",
+          "url": "https://open.spotify.com/artist/2bFguwibp03RkAAuC9oYrP"
+        }
+      ],
+      "duration_ms": 139821,
+      "name": "Ex-Girlfriend",
+      "url": "https://open.spotify.com/track/30RnHZzh0YfZu7FNIBxiIH"
+    },
+    {
+      "added_at": "2022-08-05 10:25:00",
+      "album": {
+        "name": "THE INSIDE OUTTAKES",
+        "url": "https://open.spotify.com/album/1m44SygOrmURyQXnYYq59H"
+      },
+      "artists": [
+        {
+          "name": "Bo Burnham",
+          "url": "https://open.spotify.com/artist/2Waw2sSbqvAwK8NwACNjVo"
+        }
+      ],
+      "duration_ms": 146654,
+      "name": "1985",
+      "url": "https://open.spotify.com/track/2FdzIRCqzjhdxP5W99FSvS"
+    },
+    {
+      "added_at": "2022-09-02 18:22:11",
+      "album": {
+        "name": "Falling Behind",
+        "url": "https://open.spotify.com/album/47ikRYlLNytQQxCBXzCQrQ"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 173640,
+      "name": "Falling Behind",
+      "url": "https://open.spotify.com/track/38EDrbRyjeIFaAw0XPNX6e"
     },
     {
       "added_at": "2022-08-05 10:25:00",
@@ -73,56 +137,36 @@
       "url": "https://open.spotify.com/track/0I1eFRytp4XRhLCjT6tZm7"
     },
     {
-      "added_at": "2022-08-31 18:05:46",
+      "added_at": "2022-09-02 18:22:11",
       "album": {
-        "name": "HEARTBEAT",
-        "url": "https://open.spotify.com/album/7cLRRJ3fRfyExOHOIwcLDy"
+        "name": "Mad Hoes",
+        "url": "https://open.spotify.com/album/7tuRGmj8L9bUYjlpkNXJWT"
       },
       "artists": [
         {
-          "name": "Isabel LaRosa",
-          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
+          "name": "TAELA",
+          "url": "https://open.spotify.com/artist/0UpJN0IU36gOyMJLHYHTYq"
         }
       ],
-      "duration_ms": 124959,
-      "name": "HEARTBEAT",
-      "url": "https://open.spotify.com/track/6nStBZGqGgTR87MrBpNza0"
+      "duration_ms": 163986,
+      "name": "Mad Hoes",
+      "url": "https://open.spotify.com/track/7g1o1CUxSRbuTWa8m1Afgi"
     },
     {
-      "added_at": "2022-08-05 10:25:00",
+      "added_at": "2022-09-02 18:22:11",
       "album": {
-        "name": "THE INSIDE OUTTAKES",
-        "url": "https://open.spotify.com/album/1m44SygOrmURyQXnYYq59H"
+        "name": "Genesis",
+        "url": "https://open.spotify.com/album/4yojiZOEenXhf4nPO8EPLq"
       },
       "artists": [
         {
-          "name": "Bo Burnham",
-          "url": "https://open.spotify.com/artist/2Waw2sSbqvAwK8NwACNjVo"
+          "name": "Benjamin Clementine",
+          "url": "https://open.spotify.com/artist/7zHIrsSBL7A0gEJfzv1m7z"
         }
       ],
-      "duration_ms": 146654,
-      "name": "1985",
-      "url": "https://open.spotify.com/track/2FdzIRCqzjhdxP5W99FSvS"
-    },
-    {
-      "added_at": "2022-08-21 17:02:07",
-      "album": {
-        "name": "Let You Break My Heart Again",
-        "url": "https://open.spotify.com/album/0UTQmhcsGE1eqCLTwvGAcR"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        },
-        {
-          "name": "Philharmonia Orchestra",
-          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
-        }
-      ],
-      "duration_ms": 269066,
-      "name": "Let You Break My Heart Again",
-      "url": "https://open.spotify.com/track/3oX7VxSz6EHHnxKGUjk9sx"
+      "duration_ms": 148369,
+      "name": "Genesis",
+      "url": "https://open.spotify.com/track/49nE8KUUvy7LGJG1kKqheT"
     },
     {
       "added_at": "2022-08-05 10:25:00",
@@ -173,6 +217,22 @@
       "url": "https://open.spotify.com/track/2gvmxusSOe3vNjNDjQWaso"
     },
     {
+      "added_at": "2022-09-02 18:22:11",
+      "album": {
+        "name": "Love Letter From The Sea to The Shore",
+        "url": "https://open.spotify.com/album/5OTyzmAOlaJviW3PhFsxz0"
+      },
+      "artists": [
+        {
+          "name": "Delaney Bailey",
+          "url": "https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp"
+        }
+      ],
+      "duration_ms": 191960,
+      "name": "Love Letter From The Sea to The Shore",
+      "url": "https://open.spotify.com/track/2uPFYzZXZSgIP6AHKneCLT"
+    },
+    {
       "added_at": "2022-08-26 14:01:31",
       "album": {
         "name": "Will Of The People",
@@ -221,6 +281,26 @@
       "url": "https://open.spotify.com/track/2mlGPkAx4kwF8Df0GlScsC"
     },
     {
+      "added_at": "2022-08-21 17:02:07",
+      "album": {
+        "name": "Let You Break My Heart Again",
+        "url": "https://open.spotify.com/album/0UTQmhcsGE1eqCLTwvGAcR"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        },
+        {
+          "name": "Philharmonia Orchestra",
+          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
+        }
+      ],
+      "duration_ms": 269066,
+      "name": "Let You Break My Heart Again",
+      "url": "https://open.spotify.com/track/3oX7VxSz6EHHnxKGUjk9sx"
+    },
+    {
       "added_at": "2022-08-05 10:25:00",
       "album": {
         "name": "The Family Jewels",
@@ -235,6 +315,22 @@
       "duration_ms": 215960,
       "name": "Hermit the Frog",
       "url": "https://open.spotify.com/track/4Zcz6saEkOII3PlXd9gN3o"
+    },
+    {
+      "added_at": "2022-08-31 18:05:46",
+      "album": {
+        "name": "HEARTBEAT",
+        "url": "https://open.spotify.com/album/7cLRRJ3fRfyExOHOIwcLDy"
+      },
+      "artists": [
+        {
+          "name": "Isabel LaRosa",
+          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
+        }
+      ],
+      "duration_ms": 124959,
+      "name": "HEARTBEAT",
+      "url": "https://open.spotify.com/track/6nStBZGqGgTR87MrBpNza0"
     },
     {
       "added_at": "2022-08-05 10:25:00",
@@ -315,22 +411,6 @@
       "duration_ms": 185176,
       "name": "I Hear a Symphony",
       "url": "https://open.spotify.com/track/4ZHGRFGwjnEIXHG2FhcDPv"
-    },
-    {
-      "added_at": "2022-08-05 10:25:00",
-      "album": {
-        "name": "Valentine",
-        "url": "https://open.spotify.com/album/2BI2mJAuuoQ10WFRz6cqb6"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 168906,
-      "name": "Valentine",
-      "url": "https://open.spotify.com/track/2EjuEHTRZRgE9pvaBm5Hh3"
     },
     {
       "added_at": "2022-08-05 10:25:00",

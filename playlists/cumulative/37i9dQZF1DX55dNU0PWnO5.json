@@ -1316,6 +1316,36 @@
     },
     {
       "album": {
+        "name": "Twelve Chapters",
+        "url": "https://open.spotify.com/album/2CEkaTZxGY6wrwURFq9bpf"
+      },
+      "artists": [
+        {
+          "name": "Glimlip",
+          "url": "https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3"
+        },
+        {
+          "name": "S\u00f8ren S\u00f8strom",
+          "url": "https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke"
+        },
+        {
+          "name": "Soul Food Horns",
+          "url": "https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN"
+        },
+        {
+          "name": "Slug",
+          "url": "https://open.spotify.com/artist/2E14TlP0N4RU8X3Y2i2Pq3"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223475,
+      "name": "Dr. Disclosure",
+      "url": "https://open.spotify.com/track/3UekZOLmo7XP1zofrdAltA"
+    },
+    {
+      "album": {
         "name": "Dr. T",
         "url": "https://open.spotify.com/album/3VyBpt3BJXx5GiuVAcBz1f"
       },
@@ -2443,7 +2473,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 213936,
       "name": "Limited Time Only",
       "url": "https://open.spotify.com/track/7wiolaEKwMpf1buxKaDUhA"
@@ -3654,6 +3684,24 @@
     },
     {
       "album": {
+        "name": "Seventh Wonder",
+        "url": "https://open.spotify.com/album/2tAKWf8odVUWee488RX9tM"
+      },
+      "artists": [
+        {
+          "name": "Tenderlonious",
+          "url": "https://open.spotify.com/artist/5D1w6T6H7pnRDQZIrhwlxo"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207707,
+      "name": "Seventh Wonder",
+      "url": "https://open.spotify.com/track/1FKTKsoFiaIaQL6vlr4JEJ"
+    },
+    {
+      "album": {
         "name": "Shift (Mike Casey Remix)",
         "url": "https://open.spotify.com/album/1xCJZNGDVgVTpz5NeEhtcP"
       },
@@ -3739,7 +3787,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 282577,
       "name": "Sight Spring",
       "url": "https://open.spotify.com/track/1Y5iIqTBVLmR2CXzeYlEda"
@@ -3801,7 +3849,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 181840,
       "name": "Skybox",
       "url": "https://open.spotify.com/track/3D1z6wtEXWMtL4sNjE6G34"
@@ -3823,6 +3871,24 @@
       "duration_ms": 123925,
       "name": "Smoothman",
       "url": "https://open.spotify.com/track/4TNryKx5swcMlRv6wfdyCk"
+    },
+    {
+      "album": {
+        "name": "Sombra Bajo El Limero",
+        "url": "https://open.spotify.com/album/1l2pU8jmFRH9TsgF8H64UX"
+      },
+      "artists": [
+        {
+          "name": "Kansado",
+          "url": "https://open.spotify.com/artist/40is4UfaphbysAcimFzUDW"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182361,
+      "name": "Sombra Bajo El Limero",
+      "url": "https://open.spotify.com/track/1ETV3x7A3sYplEfLnbpfao"
     },
     {
       "album": {
@@ -4445,7 +4511,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 272955,
       "name": "Timeline-100",
       "url": "https://open.spotify.com/track/3RqzZUxCXl6Rowgc6fnuwE"
@@ -5067,6 +5133,24 @@
       "duration_ms": 333818,
       "name": "When We Gather",
       "url": "https://open.spotify.com/track/2DgrhZQkh0EOEFoDpr4mxh"
+    },
+    {
+      "album": {
+        "name": "Why Not Jungle",
+        "url": "https://open.spotify.com/album/40oY1hBdf6Inarnr3iM8sC"
+      },
+      "artists": [
+        {
+          "name": "Skalpel",
+          "url": "https://open.spotify.com/artist/4NMgXxIMZeiJ5PqxdA0t6q"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264680,
+      "name": "Why Not Jungle",
+      "url": "https://open.spotify.com/track/0R7j6lvGVhpcs15ePBLLr7"
     },
     {
       "album": {

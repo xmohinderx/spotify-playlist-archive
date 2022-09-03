@@ -1,12 +1,12 @@
 {
   "description": "The best new experimental music by independent artists and labels. Updates every Wednesday. Cover: Hatis Noit / Boku to Georges Artwork: Thami Nabil",
-  "num_followers": 91439,
+  "num_followers": 91176,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTkxODUyMSwwMDAwMDAwMDdlZGZlOTBjODA2ODc4YzIzZDk3MGIwNzJlNWJhZDFk",
+  "snapshot_id": "MTY2MTkxODUyMSwwMDAwMDAwMGU4MjgxYWYxMDg1Njc5NTI4NzM2Y2NiMzdiZDNhYWNi",
   "tracks": [
     {
       "added_at": "2022-08-31 04:02:01",
@@ -217,6 +217,22 @@
       "url": "https://open.spotify.com/track/0RFwd1ZWNSVT7LtAvenIVg"
     },
     {
+      "added_at": "2022-08-24 01:37:13",
+      "album": {
+        "name": "Flux",
+        "url": "https://open.spotify.com/album/47OhENaoLcx2paWK9GgzUR"
+      },
+      "artists": [
+        {
+          "name": "Eusebeia",
+          "url": "https://open.spotify.com/artist/6Vya9cujyDikgMmgOo1DRD"
+        }
+      ],
+      "duration_ms": 101380,
+      "name": "Flux",
+      "url": "https://open.spotify.com/track/1FBZeHlILzJFN2YGKk0yPS"
+    },
+    {
       "added_at": "2022-07-06 13:58:15",
       "album": {
         "name": "Strands",
@@ -231,22 +247,6 @@
       "duration_ms": 155980,
       "name": "Open Mind",
       "url": "https://open.spotify.com/track/2ffxaPccRoZmT99U5wgJQJ"
-    },
-    {
-      "added_at": "2022-08-10 04:00:00",
-      "album": {
-        "name": "Aura",
-        "url": "https://open.spotify.com/album/1CtdQTfP0DzM3GJA95Po52"
-      },
-      "artists": [
-        {
-          "name": "Hatis Noit",
-          "url": "https://open.spotify.com/artist/1VMXdJgyzy12hZGmEk8LPY"
-        }
-      ],
-      "duration_ms": 517362,
-      "name": "Inori",
-      "url": "https://open.spotify.com/track/3MXcm06AFDryFxJR7w21OP"
     },
     {
       "added_at": "2022-08-03 03:56:48",
@@ -265,6 +265,22 @@
       "url": "https://open.spotify.com/track/3YFLHrRwTAcryw4TZXvvYS"
     },
     {
+      "added_at": "2022-08-10 04:00:00",
+      "album": {
+        "name": "Aura",
+        "url": "https://open.spotify.com/album/1CtdQTfP0DzM3GJA95Po52"
+      },
+      "artists": [
+        {
+          "name": "Hatis Noit",
+          "url": "https://open.spotify.com/artist/1VMXdJgyzy12hZGmEk8LPY"
+        }
+      ],
+      "duration_ms": 517362,
+      "name": "Inori",
+      "url": "https://open.spotify.com/track/3MXcm06AFDryFxJR7w21OP"
+    },
+    {
       "added_at": "2022-07-27 14:53:59",
       "album": {
         "name": "Truffles Sprinkles",
@@ -281,22 +297,6 @@
       "url": "https://open.spotify.com/track/6IcvrVg1YFoLGH6mcuZtZL"
     },
     {
-      "added_at": "2022-08-24 01:37:13",
-      "album": {
-        "name": "Flux",
-        "url": "https://open.spotify.com/album/47OhENaoLcx2paWK9GgzUR"
-      },
-      "artists": [
-        {
-          "name": "Eusebeia",
-          "url": "https://open.spotify.com/artist/6Vya9cujyDikgMmgOo1DRD"
-        }
-      ],
-      "duration_ms": 101380,
-      "name": "Flux",
-      "url": "https://open.spotify.com/track/1FBZeHlILzJFN2YGKk0yPS"
-    },
-    {
       "added_at": "2022-08-03 02:51:09",
       "album": {
         "name": "Time Traveller",
@@ -311,6 +311,22 @@
       "duration_ms": 269206,
       "name": "Time Traveller",
       "url": "https://open.spotify.com/track/0ikN70Jj1Why1Mf3FMz61a"
+    },
+    {
+      "added_at": "2022-08-24 01:37:13",
+      "album": {
+        "name": "Uncanny Being (Violin Study #2)",
+        "url": "https://open.spotify.com/album/0Uf0ZJAVfCBhRhiZ7uGNKk"
+      },
+      "artists": [
+        {
+          "name": "Jessica Moss",
+          "url": "https://open.spotify.com/artist/0mXuTfa0qloI8dL4G41V5n"
+        }
+      ],
+      "duration_ms": 383680,
+      "name": "Uncanny Being (Violin Study #2)",
+      "url": "https://open.spotify.com/track/3ZQWUYowGRJ6pyed7OMm5h"
     },
     {
       "added_at": "2022-08-24 01:37:13",
@@ -345,6 +361,22 @@
       "url": "https://open.spotify.com/track/6cdrN8vixkhW6F6E2vS6yT"
     },
     {
+      "added_at": "2022-08-24 01:37:13",
+      "album": {
+        "name": "After Dark 4",
+        "url": "https://open.spotify.com/album/6x3gv3hXKXbJC1VCsn1o8M"
+      },
+      "artists": [
+        {
+          "name": "Mesh Kimono",
+          "url": "https://open.spotify.com/artist/0JrIlMMd4MQAQXo59etjQh"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Afterburn",
+      "url": "https://open.spotify.com/track/3ZeOlJzcevGwxnnIGS2e4C"
+    },
+    {
       "added_at": "2022-07-20 05:00:00",
       "album": {
         "name": "Aura",
@@ -361,20 +393,20 @@
       "url": "https://open.spotify.com/track/3yLrFNajQckehtRDyh2FiI"
     },
     {
-      "added_at": "2022-08-24 01:37:13",
+      "added_at": "2022-07-27 14:53:59",
       "album": {
-        "name": "Uncanny Being (Violin Study #2)",
-        "url": "https://open.spotify.com/album/0Uf0ZJAVfCBhRhiZ7uGNKk"
+        "name": "Carte Blanche",
+        "url": "https://open.spotify.com/album/09vQxbdKCIeapIcG72bR62"
       },
       "artists": [
         {
-          "name": "Jessica Moss",
-          "url": "https://open.spotify.com/artist/0mXuTfa0qloI8dL4G41V5n"
+          "name": "Bon-Psy",
+          "url": "https://open.spotify.com/artist/5Vv4f9pucnXPVExpBKfBXn"
         }
       ],
-      "duration_ms": 383680,
-      "name": "Uncanny Being (Violin Study #2)",
-      "url": "https://open.spotify.com/track/3ZQWUYowGRJ6pyed7OMm5h"
+      "duration_ms": 194050,
+      "name": "Carte Blanche",
+      "url": "https://open.spotify.com/track/76NPiAAkI1o5pj0HsZ4zvt"
     },
     {
       "added_at": "2022-08-03 02:51:09",
@@ -393,22 +425,6 @@
       "url": "https://open.spotify.com/track/0jaYsfrSaAGb4d81qE5APl"
     },
     {
-      "added_at": "2022-08-24 01:37:13",
-      "album": {
-        "name": "After Dark 4",
-        "url": "https://open.spotify.com/album/6x3gv3hXKXbJC1VCsn1o8M"
-      },
-      "artists": [
-        {
-          "name": "Mesh Kimono",
-          "url": "https://open.spotify.com/artist/0JrIlMMd4MQAQXo59etjQh"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Afterburn",
-      "url": "https://open.spotify.com/track/3ZeOlJzcevGwxnnIGS2e4C"
-    },
-    {
       "added_at": "2022-08-03 02:51:09",
       "album": {
         "name": "Shallots",
@@ -423,22 +439,6 @@
       "duration_ms": 221298,
       "name": "Shallots",
       "url": "https://open.spotify.com/track/3un8NWwFpSvbN0m0JZ29da"
-    },
-    {
-      "added_at": "2022-07-27 14:53:59",
-      "album": {
-        "name": "Carte Blanche",
-        "url": "https://open.spotify.com/album/09vQxbdKCIeapIcG72bR62"
-      },
-      "artists": [
-        {
-          "name": "Bon-Psy",
-          "url": "https://open.spotify.com/artist/5Vv4f9pucnXPVExpBKfBXn"
-        }
-      ],
-      "duration_ms": 194050,
-      "name": "Carte Blanche",
-      "url": "https://open.spotify.com/track/76NPiAAkI1o5pj0HsZ4zvt"
     },
     {
       "added_at": "2022-07-20 05:00:00",
@@ -491,22 +491,6 @@
     {
       "added_at": "2022-08-10 04:00:00",
       "album": {
-        "name": "Third Places",
-        "url": "https://open.spotify.com/album/3IcMehEpCefcsYx1GESzZb"
-      },
-      "artists": [
-        {
-          "name": "RamonPang",
-          "url": "https://open.spotify.com/artist/5rgp60RQWM2lsyrHloYD7D"
-        }
-      ],
-      "duration_ms": 241714,
-      "name": "Recklessly",
-      "url": "https://open.spotify.com/track/7MPIHBgqA4UN1WpZ8iaDrC"
-    },
-    {
-      "added_at": "2022-08-10 04:00:00",
-      "album": {
         "name": "UFO",
         "url": "https://open.spotify.com/album/51ED2mdClgKUQEEvwoleqR"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 177964,
       "name": "UFO",
       "url": "https://open.spotify.com/track/0UUtE4lVu3L0TWGlMSDwQd"
+    },
+    {
+      "added_at": "2022-08-10 04:00:00",
+      "album": {
+        "name": "Third Places",
+        "url": "https://open.spotify.com/album/3IcMehEpCefcsYx1GESzZb"
+      },
+      "artists": [
+        {
+          "name": "RamonPang",
+          "url": "https://open.spotify.com/artist/5rgp60RQWM2lsyrHloYD7D"
+        }
+      ],
+      "duration_ms": 241714,
+      "name": "Recklessly",
+      "url": "https://open.spotify.com/track/7MPIHBgqA4UN1WpZ8iaDrC"
     },
     {
       "added_at": "2022-08-24 01:37:13",
@@ -585,6 +585,22 @@
       "url": "https://open.spotify.com/track/1KSvw7Nbb93VfeTYv3PPEo"
     },
     {
+      "added_at": "2022-08-10 04:00:00",
+      "album": {
+        "name": "Castle In The Sky",
+        "url": "https://open.spotify.com/album/4z2WEOYZ7w5kOO0LVfMTWS"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Vanilla",
+          "url": "https://open.spotify.com/artist/2Itr8TQK5dkOjUpreaamWP"
+        }
+      ],
+      "duration_ms": 124186,
+      "name": "Jennifer Calling",
+      "url": "https://open.spotify.com/track/6l22VxrbgYAV8tnWUbsHje"
+    },
+    {
       "added_at": "2022-08-03 02:51:09",
       "album": {
         "name": "6\u00b030\u203233.372\u2033N 3\u00b022\u20320.66\u2033E",
@@ -603,18 +619,18 @@
     {
       "added_at": "2022-08-10 04:00:00",
       "album": {
-        "name": "Castle In The Sky",
-        "url": "https://open.spotify.com/album/4z2WEOYZ7w5kOO0LVfMTWS"
+        "name": "Illogical Dance",
+        "url": "https://open.spotify.com/album/43nUH6IPPJNtBmrmsTza8g"
       },
       "artists": [
         {
-          "name": "Jennifer Vanilla",
-          "url": "https://open.spotify.com/artist/2Itr8TQK5dkOjUpreaamWP"
+          "name": "Hatis Noit",
+          "url": "https://open.spotify.com/artist/1VMXdJgyzy12hZGmEk8LPY"
         }
       ],
-      "duration_ms": 124186,
-      "name": "Jennifer Calling",
-      "url": "https://open.spotify.com/track/6l22VxrbgYAV8tnWUbsHje"
+      "duration_ms": 473075,
+      "name": "Illogical Lullaby",
+      "url": "https://open.spotify.com/track/7KaENU972ZBPtD1Cy2H3tc"
     },
     {
       "added_at": "2022-06-29 16:46:05",
@@ -637,36 +653,20 @@
       "url": "https://open.spotify.com/track/6nx0pWdx5KpH09BuerI1uG"
     },
     {
-      "added_at": "2022-08-10 04:00:00",
+      "added_at": "2022-08-24 01:37:13",
       "album": {
-        "name": "Illogical Dance",
-        "url": "https://open.spotify.com/album/43nUH6IPPJNtBmrmsTza8g"
+        "name": "Pause",
+        "url": "https://open.spotify.com/album/2hspcikJXpHWS7xeaKwvgf"
       },
       "artists": [
         {
-          "name": "Hatis Noit",
-          "url": "https://open.spotify.com/artist/1VMXdJgyzy12hZGmEk8LPY"
+          "name": "Stack Effect",
+          "url": "https://open.spotify.com/artist/52xTPDMfTQEHXnBfyKQXFz"
         }
       ],
-      "duration_ms": 473075,
-      "name": "Illogical Lullaby",
-      "url": "https://open.spotify.com/track/7KaENU972ZBPtD1Cy2H3tc"
-    },
-    {
-      "added_at": "2022-07-27 14:53:59",
-      "album": {
-        "name": "Umfang EP",
-        "url": "https://open.spotify.com/album/7ytVXRA7bx91PWGyDGglY1"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Kaspar",
-          "url": "https://open.spotify.com/artist/0R3hsihsVWcPQq5H898UP0"
-        }
-      ],
-      "duration_ms": 392275,
-      "name": "Am Raster",
-      "url": "https://open.spotify.com/track/5PyPycSLKkGLkYuyk2Dptr"
+      "duration_ms": 289371,
+      "name": "Day By Day",
+      "url": "https://open.spotify.com/track/3tpqnJwdfTJJycsLHwUbtC"
     },
     {
       "added_at": "2022-07-27 14:53:59",
@@ -683,6 +683,38 @@
       "duration_ms": 155805,
       "name": "Your Element (a spell of equality)",
       "url": "https://open.spotify.com/track/6PUcSmfUnUEsRy7JhHrWVT"
+    },
+    {
+      "added_at": "2022-08-24 01:37:13",
+      "album": {
+        "name": "it's a secret / sunflower",
+        "url": "https://open.spotify.com/album/2rNYQwtk5VPJq9mpswLmF6"
+      },
+      "artists": [
+        {
+          "name": "Otto Taimela",
+          "url": "https://open.spotify.com/artist/2bfnN87vIJ9DhQ02kXgh44"
+        }
+      ],
+      "duration_ms": 224470,
+      "name": "sunflower",
+      "url": "https://open.spotify.com/track/3JFCJBNiBsjdnihfqaLnKN"
+    },
+    {
+      "added_at": "2022-07-27 14:53:59",
+      "album": {
+        "name": "Umfang EP",
+        "url": "https://open.spotify.com/album/7ytVXRA7bx91PWGyDGglY1"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Kaspar",
+          "url": "https://open.spotify.com/artist/0R3hsihsVWcPQq5H898UP0"
+        }
+      ],
+      "duration_ms": 392275,
+      "name": "Am Raster",
+      "url": "https://open.spotify.com/track/5PyPycSLKkGLkYuyk2Dptr"
     },
     {
       "added_at": "2022-08-03 02:51:09",
@@ -719,38 +751,6 @@
     {
       "added_at": "2022-08-24 01:37:13",
       "album": {
-        "name": "Pause",
-        "url": "https://open.spotify.com/album/2hspcikJXpHWS7xeaKwvgf"
-      },
-      "artists": [
-        {
-          "name": "Stack Effect",
-          "url": "https://open.spotify.com/artist/52xTPDMfTQEHXnBfyKQXFz"
-        }
-      ],
-      "duration_ms": 289371,
-      "name": "Day By Day",
-      "url": "https://open.spotify.com/track/3tpqnJwdfTJJycsLHwUbtC"
-    },
-    {
-      "added_at": "2022-08-24 01:37:13",
-      "album": {
-        "name": "it's a secret / sunflower",
-        "url": "https://open.spotify.com/album/2rNYQwtk5VPJq9mpswLmF6"
-      },
-      "artists": [
-        {
-          "name": "Otto Taimela",
-          "url": "https://open.spotify.com/artist/2bfnN87vIJ9DhQ02kXgh44"
-        }
-      ],
-      "duration_ms": 224470,
-      "name": "sunflower",
-      "url": "https://open.spotify.com/track/3JFCJBNiBsjdnihfqaLnKN"
-    },
-    {
-      "added_at": "2022-08-24 01:37:13",
-      "album": {
         "name": "Eve",
         "url": "https://open.spotify.com/album/6L7J405BwZ5hxM5Px7iyOe"
       },
@@ -765,28 +765,36 @@
       "url": "https://open.spotify.com/track/0nFJMIWFrQQkJ8AOcAfvPf"
     },
     {
-      "added_at": "2022-07-27 14:53:59",
+      "added_at": "2022-08-10 04:00:00",
       "album": {
-        "name": "\u672a\u958b\u306e\u667a",
-        "url": "https://open.spotify.com/album/2yTy8rqgHhTWWkPqlJ8udf"
+        "name": "6\u00b030\u203233.372\u2033N 3\u00b022\u20320.66\u2033E",
+        "url": "https://open.spotify.com/album/5ORagktp2f72d9tqOAxz49"
       },
       "artists": [
         {
-          "name": "Boku to Georges",
-          "url": "https://open.spotify.com/artist/2977kdIaYljU33WWtK8ZDI"
-        },
-        {
-          "name": "Himeno Tama",
-          "url": "https://open.spotify.com/artist/3SlQMcAkPmn94PeFYCKarT"
-        },
-        {
-          "name": "\u4f50\u85e4\u512a\u4ecb",
-          "url": "https://open.spotify.com/artist/48l1ZXH0Liagpd4Cqovx7L"
+          "name": "Emeka Ogboh",
+          "url": "https://open.spotify.com/artist/3wogpkBUlSTZrtz3fq4qG7"
         }
       ],
-      "duration_ms": 115263,
-      "name": "\u672a\u958b\u306e\u667a",
-      "url": "https://open.spotify.com/track/4sv6XvEU3w9jLFpjP17rxA"
+      "duration_ms": 406365,
+      "name": "No Counterfeit",
+      "url": "https://open.spotify.com/track/3UCxLjpSymzhVKQRZHdLw8"
+    },
+    {
+      "added_at": "2022-08-24 01:37:13",
+      "album": {
+        "name": "Order",
+        "url": "https://open.spotify.com/album/1fFU85M8LbkuMS28rHI3zn"
+      },
+      "artists": [
+        {
+          "name": "Bon-Psy",
+          "url": "https://open.spotify.com/artist/5Vv4f9pucnXPVExpBKfBXn"
+        }
+      ],
+      "duration_ms": 138350,
+      "name": "Order",
+      "url": "https://open.spotify.com/track/475IphfrYFRjHxnPHBnLX1"
     },
     {
       "added_at": "2022-07-20 05:00:00",
@@ -807,22 +815,6 @@
       "duration_ms": 316693,
       "name": "At the Opposite Pole of Architectural Virtue",
       "url": "https://open.spotify.com/track/5RedG0fnDPdtnyqTlUQW9n"
-    },
-    {
-      "added_at": "2022-08-03 02:51:09",
-      "album": {
-        "name": "Di poche parole",
-        "url": "https://open.spotify.com/album/2LpZfc5CugTbCW9SEs83sE"
-      },
-      "artists": [
-        {
-          "name": "Le Feste Antonacci",
-          "url": "https://open.spotify.com/artist/1RoRpJGQ2bVPfzYGoUr4fe"
-        }
-      ],
-      "duration_ms": 352000,
-      "name": "Sempre pi\u00f9 solo",
-      "url": "https://open.spotify.com/track/2YMeKnmEmQns1KhoglEZqi"
     }
   ],
   "unique_name": "Fresh Finds Experimental",

@@ -55,7 +55,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 84500,
       "name": "1, 2, 3, 4, 5, Once I Caught A Fish Alive",
       "url": "https://open.spotify.com/track/3VwwZeTCGCv1A8tKvSYZ2q"
@@ -289,7 +289,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 191812,
       "name": "All is well",
       "url": "https://open.spotify.com/track/05M5kMUuKmhnezFLu2OTgj"
@@ -473,6 +473,24 @@
       "duration_ms": 91500,
       "name": "Apples And Bananas",
       "url": "https://open.spotify.com/track/0jBP56KjBoH04nUqazspFb"
+    },
+    {
+      "album": {
+        "name": "Are You Sleeping",
+        "url": "https://open.spotify.com/album/0cp6uLiJibKpbwnJePB1oY"
+      },
+      "artists": [
+        {
+          "name": "Ellie Cox",
+          "url": "https://open.spotify.com/artist/7wOOvJ7BwpFWIoVGa0nhh6"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84051,
+      "name": "Are You Sleeping",
+      "url": "https://open.spotify.com/track/2HNkXighYriN6oyzn0jpPM"
     },
     {
       "album": {
@@ -1171,7 +1189,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 80053,
       "name": "Cardboard Castle",
       "url": "https://open.spotify.com/track/3d72QILd88K2qjBCOBQ8J4"
@@ -1441,7 +1459,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 85212,
       "name": "Daisy Bell (Bicycle Built for Two)",
       "url": "https://open.spotify.com/track/4gyBcXuZe5VGOijSvq7O47"
@@ -1621,7 +1639,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 114750,
       "name": "Do Re Mi",
       "url": "https://open.spotify.com/track/4MXdzN8AzgAAjOqj61Tk1R"
@@ -2737,7 +2755,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 89748,
       "name": "Hot Crossed Buns",
       "url": "https://open.spotify.com/track/4YRARpkUow9hauMEKnCtPF"
@@ -2773,7 +2791,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 134731,
       "name": "How It Was Supposed To Be",
       "url": "https://open.spotify.com/track/7y39ldlFRK27CYlYM2kIy5"
@@ -3104,6 +3122,24 @@
     },
     {
       "album": {
+        "name": "In Every Single Way",
+        "url": "https://open.spotify.com/album/50HBZFTCWhJfjdJu2YtByu"
+      },
+      "artists": [
+        {
+          "name": "Natalie Gillman",
+          "url": "https://open.spotify.com/artist/6d7LO8Ouv0KFEQ3VLwdeQ1"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100531,
+      "name": "In Every Single Way",
+      "url": "https://open.spotify.com/track/0sngOPuxK8Y39dKvJ8k6Ap"
+    },
+    {
+      "album": {
         "name": "In het land der dromen",
         "url": "https://open.spotify.com/album/1xZssdeR1lnNu2I7tn1sEe"
       },
@@ -3227,6 +3263,24 @@
       "duration_ms": 82500,
       "name": "Itsy bitsy spider",
       "url": "https://open.spotify.com/track/1oMUYmXy85ZOQGZ2fylBiN"
+    },
+    {
+      "album": {
+        "name": "Jacks Adventure",
+        "url": "https://open.spotify.com/album/7FpgFq4cA3w8QEWSa2v8ZR"
+      },
+      "artists": [
+        {
+          "name": "Roosevelt Blakely",
+          "url": "https://open.spotify.com/artist/1gL9bk6tHQa7tiCb3DxTeI"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 72606,
+      "name": "Jacks Adventure",
+      "url": "https://open.spotify.com/track/4bihDr47XVSRSK5sUPIMud"
     },
     {
       "album": {
@@ -3515,6 +3569,24 @@
       "duration_ms": 120000,
       "name": "Lights Out",
       "url": "https://open.spotify.com/track/1TFzBNWPnHtHhDhdyNI1eT"
+    },
+    {
+      "album": {
+        "name": "Like A Cuddly Koala",
+        "url": "https://open.spotify.com/album/2msMQl2f7f8Qz1s4XmCMyU"
+      },
+      "artists": [
+        {
+          "name": "Sherry Grayson",
+          "url": "https://open.spotify.com/artist/7bx1kBLW47pR2XvBd4T7wT"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105602,
+      "name": "Like A Cuddly Koala",
+      "url": "https://open.spotify.com/track/2pu3FDtVe5R03xt6v8sdQY"
     },
     {
       "album": {
@@ -3860,6 +3932,24 @@
     },
     {
       "album": {
+        "name": "Make A Wish",
+        "url": "https://open.spotify.com/album/0uRNCqlnbwPl75hV4F4XyT"
+      },
+      "artists": [
+        {
+          "name": "Nola Chauncey",
+          "url": "https://open.spotify.com/artist/1GJBejOzMI7Bu94lKJQlth"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93089,
+      "name": "Make A Wish",
+      "url": "https://open.spotify.com/track/5TCkbh2eGCbp14pbv5ilkK"
+    },
+    {
+      "album": {
         "name": "Mana skaista\u0304 meita",
         "url": "https://open.spotify.com/album/7xeAspmTdQ4miPemMvD0On"
       },
@@ -3965,6 +4055,24 @@
       "duration_ms": 91812,
       "name": "Meu Anjo",
       "url": "https://open.spotify.com/track/75KGgPHDmqduc8ty6GTJoW"
+    },
+    {
+      "album": {
+        "name": "Missy Mouse",
+        "url": "https://open.spotify.com/album/7AuHtp3xdNEoMdoGa7Mv1w"
+      },
+      "artists": [
+        {
+          "name": "Lily Hodges",
+          "url": "https://open.spotify.com/artist/4NNYjQ7N1R7TTNtcfTq8MS"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111528,
+      "name": "Missy Mouse",
+      "url": "https://open.spotify.com/track/054ym2zOgxj4X4rjaNzVHR"
     },
     {
       "album": {
@@ -5390,6 +5498,24 @@
     },
     {
       "album": {
+        "name": "Sleep Tight",
+        "url": "https://open.spotify.com/album/2MtsvNNxj1bMXUDX4DNrrW"
+      },
+      "artists": [
+        {
+          "name": "Alonso \u00c1guila",
+          "url": "https://open.spotify.com/artist/6ziDHzJcxM6qsh8As478MS"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112409,
+      "name": "Sleep Tight",
+      "url": "https://open.spotify.com/track/75VbqJE4wpR7upFz5lCgP4"
+    },
+    {
+      "album": {
         "name": "Sleep, My Little Friend",
         "url": "https://open.spotify.com/album/1QZTBycQ3kWQHnboczhpQC"
       },
@@ -5966,6 +6092,24 @@
     },
     {
       "album": {
+        "name": "Everything Will Be Alright",
+        "url": "https://open.spotify.com/album/3IhAfPTYNaUczXs2LWBU2e"
+      },
+      "artists": [
+        {
+          "name": "The Stories We Tell",
+          "url": "https://open.spotify.com/artist/0KZ1jg7xT2z2zrMCY2iAlB"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127805,
+      "name": "The Calm Nights",
+      "url": "https://open.spotify.com/track/5LCk4PsvRCzUDo2wFA81W2"
+    },
+    {
+      "album": {
         "name": "The Carousel",
         "url": "https://open.spotify.com/album/5SWODmAqFYemJpa93Ud483"
       },
@@ -6031,7 +6175,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 69131,
       "name": "The Dollhouse Sleeps",
       "url": "https://open.spotify.com/track/774AtBbCtOjcMI9qLPEbFM"
@@ -6571,7 +6715,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 198952,
       "name": "Tone of Love",
       "url": "https://open.spotify.com/track/3Z0n8POAcDQCSyxA06cqbW"
@@ -6715,7 +6859,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 112789,
       "name": "Two Little Blackbirds",
       "url": "https://open.spotify.com/track/4GrJb2CouAQIqymFQEdweV"
@@ -6830,6 +6974,24 @@
     },
     {
       "album": {
+        "name": "Weightless Sleep",
+        "url": "https://open.spotify.com/album/5yQCAsPHnjxMhaKGKLs8Ax"
+      },
+      "artists": [
+        {
+          "name": "Goodnight sweetheart",
+          "url": "https://open.spotify.com/artist/3hVfERu6fWfKySpoHenfnp"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139442,
+      "name": "Weightless Sleep",
+      "url": "https://open.spotify.com/track/1BA6K5gxk0oGldorRcH6gG"
+    },
+    {
+      "album": {
         "name": "Wer hat die sch\u00f6nsten Sch\u00e4fchen?",
         "url": "https://open.spotify.com/album/20HcCUrPq2LudI6Xiq6Asr"
       },
@@ -6841,7 +7003,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 116731,
       "name": "Wer hat die sch\u00f6nsten Sch\u00e4fchen?",
       "url": "https://open.spotify.com/track/0JBFJj0Nu7CoDnzSpNelXo"
@@ -7165,10 +7327,28 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 115069,
       "name": "Yankee Doodle",
       "url": "https://open.spotify.com/track/1FIlBc2LI8yjVvhRokhV9Y"
+    },
+    {
+      "album": {
+        "name": "Rest in my arms",
+        "url": "https://open.spotify.com/album/6F2YEeLI953mLYFaBG32iW"
+      },
+      "artists": [
+        {
+          "name": "Lova Carling",
+          "url": "https://open.spotify.com/artist/7mZRGYwWF15QNqKAG9hNCI"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123692,
+      "name": "You are my light",
+      "url": "https://open.spotify.com/track/0zDx0GsDAi9ZqI9Y80hOqk"
     },
     {
       "album": {

@@ -1,28 +1,32 @@
 {
-  "description": "Only the hottest out now in South African Rock and Punk. Cover: <a href=\"https://open.spotify.com/artist/1y87T8TRFJAPIEF7X9oQMz?si=0Q0OnJy5StCjRQ68-f_T9A\">Sold Ash</a>",
-  "num_followers": 10846,
+  "description": "Only the hottest out now in South African Rock and Punk. Cover: <a href=\"https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb?si=y9eRB-kFSJCJjrCpXvWyog\">Die Heuwels Fantasties</a>",
+  "num_followers": 10855,
   "original_name": "SA Rock Essentials",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQ2NDc0MCwwMDAwMDAwMDc3ZjhmMjNjODhhOTI1MTU1YmQ3ZWY3NmZiOTYzYjg0",
+  "snapshot_id": "MTY2MjExNTQ2MCwwMDAwMDAwMDc3Njg5YmNjNzRiNGFhNTg5ZDA4ZGI2MmE3OGI2N2Fh",
   "tracks": [
     {
-      "added_at": "2022-08-25 21:59:00",
+      "added_at": "2022-09-02 10:44:20",
       "album": {
-        "name": "Howl A Little Louder Just Don't Spit In My Mouth",
-        "url": "https://open.spotify.com/album/33Lu72KGrREZEPh7py0il7"
+        "name": "C'est La Vie",
+        "url": "https://open.spotify.com/album/6rwHalenFvXv3J6H2xj3MQ"
       },
       "artists": [
         {
-          "name": "Sold Ash",
-          "url": "https://open.spotify.com/artist/1y87T8TRFJAPIEF7X9oQMz"
+          "name": "Die Heuwels Fantasties",
+          "url": "https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb"
+        },
+        {
+          "name": "Francois van Coke",
+          "url": "https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF"
         }
       ],
-      "duration_ms": 233185,
-      "name": "Silver Foyer",
-      "url": "https://open.spotify.com/track/7z0kfDxyBzRkHxoEEjQxU7"
+      "duration_ms": 207525,
+      "name": "Maksimum Volume",
+      "url": "https://open.spotify.com/track/4JsFnYPu7208vajpj05I7B"
     },
     {
       "added_at": "2022-07-28 21:59:00",
@@ -39,6 +43,22 @@
       "duration_ms": 204106,
       "name": "The Waltz",
       "url": "https://open.spotify.com/track/1o75mFZMjlWXDupelG6AM7"
+    },
+    {
+      "added_at": "2022-08-25 21:59:00",
+      "album": {
+        "name": "Howl A Little Louder Just Don't Spit In My Mouth",
+        "url": "https://open.spotify.com/album/33Lu72KGrREZEPh7py0il7"
+      },
+      "artists": [
+        {
+          "name": "Sold Ash",
+          "url": "https://open.spotify.com/artist/1y87T8TRFJAPIEF7X9oQMz"
+        }
+      ],
+      "duration_ms": 233185,
+      "name": "Silver Foyer",
+      "url": "https://open.spotify.com/track/7z0kfDxyBzRkHxoEEjQxU7"
     },
     {
       "added_at": "2021-09-02 21:59:00",
@@ -87,6 +107,22 @@
       "duration_ms": 230186,
       "name": "Leech",
       "url": "https://open.spotify.com/track/213FfJIwavzYZrAXa2nNL5"
+    },
+    {
+      "added_at": "2022-09-02 10:44:20",
+      "album": {
+        "name": "Cancelled",
+        "url": "https://open.spotify.com/album/1BUsmvb1vytWr69VgR9hCX"
+      },
+      "artists": [
+        {
+          "name": "Nine",
+          "url": "https://open.spotify.com/artist/3AjJvYXOMFBBSqgEV7u5me"
+        }
+      ],
+      "duration_ms": 284075,
+      "name": "Cancelled",
+      "url": "https://open.spotify.com/track/7BhiRAIIveb33FYNdrzBfA"
     },
     {
       "added_at": "2021-11-18 21:59:00",
@@ -157,6 +193,54 @@
       "url": "https://open.spotify.com/track/2zFcrZtmrvIftt0ZDcm6BI"
     },
     {
+      "added_at": "2022-04-07 21:59:00",
+      "album": {
+        "name": "Man Down",
+        "url": "https://open.spotify.com/album/6yPesYP8A3zZWXKpc1s8PV"
+      },
+      "artists": [
+        {
+          "name": "FUZIGISH",
+          "url": "https://open.spotify.com/artist/5NOfiSV5NL7MVz8JO0oE1v"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "Man Down",
+      "url": "https://open.spotify.com/track/6LvcACjtwZr8d8Rjyz3Jw3"
+    },
+    {
+      "added_at": "2021-07-29 21:59:00",
+      "album": {
+        "name": "Wasteland - The Purgatory EP",
+        "url": "https://open.spotify.com/album/5iFkEubAbRjQN50VLXmhYF"
+      },
+      "artists": [
+        {
+          "name": "Seether",
+          "url": "https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW"
+        }
+      ],
+      "duration_ms": 289320,
+      "name": "What Would You Do?",
+      "url": "https://open.spotify.com/track/0NWvwMNhJW0vIMrWHmrp6Q"
+    },
+    {
+      "added_at": "2021-06-10 21:59:00",
+      "album": {
+        "name": "Ons Het Gewen",
+        "url": "https://open.spotify.com/album/2hJ1WMh8F9qtnLHpgr9J3O"
+      },
+      "artists": [
+        {
+          "name": "Francois van Coke",
+          "url": "https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF"
+        }
+      ],
+      "duration_ms": 182410,
+      "name": "Ons Het Gewen",
+      "url": "https://open.spotify.com/track/11CVceR6cMGoXEA9IM18sO"
+    },
+    {
       "added_at": "2022-03-31 21:59:00",
       "album": {
         "name": "Fine thanks, and you?",
@@ -177,36 +261,20 @@
       "url": "https://open.spotify.com/track/5ERIKZDFo9IDQl4dg69fzS"
     },
     {
-      "added_at": "2022-04-07 21:59:00",
+      "added_at": "2022-09-02 10:44:20",
       "album": {
-        "name": "Man Down",
-        "url": "https://open.spotify.com/album/6yPesYP8A3zZWXKpc1s8PV"
+        "name": "Adorn",
+        "url": "https://open.spotify.com/album/31T0ESmfCXIWrd2kHQILbP"
       },
       "artists": [
         {
-          "name": "FUZIGISH",
-          "url": "https://open.spotify.com/artist/5NOfiSV5NL7MVz8JO0oE1v"
+          "name": "Constellatia",
+          "url": "https://open.spotify.com/artist/1r8tzQXEPrte5GZ06LppsS"
         }
       ],
-      "duration_ms": 260000,
-      "name": "Man Down",
-      "url": "https://open.spotify.com/track/6LvcACjtwZr8d8Rjyz3Jw3"
-    },
-    {
-      "added_at": "2022-08-25 21:59:00",
-      "album": {
-        "name": "Drunk 'n Irate",
-        "url": "https://open.spotify.com/album/5JyKQ7U1Cy5xucch8ZVFaF"
-      },
-      "artists": [
-        {
-          "name": "Werner Bekker",
-          "url": "https://open.spotify.com/artist/1mbI2Vrn5ZIHEH1PzTrA4K"
-        }
-      ],
-      "duration_ms": 153480,
-      "name": "Drunk 'n Irate",
-      "url": "https://open.spotify.com/track/25vGUFIheFaFNOdl0T8APH"
+      "duration_ms": 606300,
+      "name": "Adorn",
+      "url": "https://open.spotify.com/track/41W0utTSMSS6F5yL7QJ5Fw"
     },
     {
       "added_at": "2022-03-17 21:59:00",
@@ -231,6 +299,22 @@
     {
       "added_at": "2022-08-25 21:59:00",
       "album": {
+        "name": "Drunk 'n Irate",
+        "url": "https://open.spotify.com/album/5JyKQ7U1Cy5xucch8ZVFaF"
+      },
+      "artists": [
+        {
+          "name": "Werner Bekker",
+          "url": "https://open.spotify.com/artist/1mbI2Vrn5ZIHEH1PzTrA4K"
+        }
+      ],
+      "duration_ms": 153480,
+      "name": "Drunk 'n Irate",
+      "url": "https://open.spotify.com/track/25vGUFIheFaFNOdl0T8APH"
+    },
+    {
+      "added_at": "2022-08-25 21:59:00",
+      "album": {
         "name": "FAKE LOVE",
         "url": "https://open.spotify.com/album/2EuqxVxPLgeVGrIri3Tbhs"
       },
@@ -247,22 +331,6 @@
       "duration_ms": 173770,
       "name": "FAKE LOVE",
       "url": "https://open.spotify.com/track/4yCzdEiGPcpcDQ87fG4nHS"
-    },
-    {
-      "added_at": "2021-07-29 21:59:00",
-      "album": {
-        "name": "Wasteland - The Purgatory EP",
-        "url": "https://open.spotify.com/album/5iFkEubAbRjQN50VLXmhYF"
-      },
-      "artists": [
-        {
-          "name": "Seether",
-          "url": "https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW"
-        }
-      ],
-      "duration_ms": 289320,
-      "name": "What Would You Do?",
-      "url": "https://open.spotify.com/track/0NWvwMNhJW0vIMrWHmrp6Q"
     },
     {
       "added_at": "2022-08-04 21:59:00",
@@ -297,20 +365,20 @@
       "url": "https://open.spotify.com/track/1lXXDSVn8fZ32AxIEvM6oX"
     },
     {
-      "added_at": "2021-06-10 21:59:00",
+      "added_at": "2022-09-02 10:44:20",
       "album": {
-        "name": "Ons Het Gewen",
-        "url": "https://open.spotify.com/album/2hJ1WMh8F9qtnLHpgr9J3O"
+        "name": "The Kid",
+        "url": "https://open.spotify.com/album/4HQlRenLS3Mu9gvIk3tJzk"
       },
       "artists": [
         {
-          "name": "Francois van Coke",
-          "url": "https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF"
+          "name": "the klubs",
+          "url": "https://open.spotify.com/artist/6hbEqXIhCdWLuQn3SUgibF"
         }
       ],
-      "duration_ms": 182410,
-      "name": "Ons Het Gewen",
-      "url": "https://open.spotify.com/track/11CVceR6cMGoXEA9IM18sO"
+      "duration_ms": 173892,
+      "name": "The Kid",
+      "url": "https://open.spotify.com/track/30E5yBOsMJ14qYzBbLY9Xo"
     },
     {
       "added_at": "2022-04-28 21:59:00",
@@ -989,22 +1057,6 @@
       "url": "https://open.spotify.com/track/2RvRa53Ni5Nd5H1IJpjjNl"
     },
     {
-      "added_at": "2021-05-06 21:59:00",
-      "album": {
-        "name": "Psycho Killer",
-        "url": "https://open.spotify.com/album/7cTCOfxcE0S8iHCGCCrdXG"
-      },
-      "artists": [
-        {
-          "name": "The Medicine Dolls",
-          "url": "https://open.spotify.com/artist/2kmitkJxxZXckoOmXtAese"
-        }
-      ],
-      "duration_ms": 239500,
-      "name": "Psycho Killer - Single Version",
-      "url": "https://open.spotify.com/track/52pS1roeMc4TUNkBDiSUYW"
-    },
-    {
       "added_at": "2022-01-21 09:30:41",
       "album": {
         "name": "Demons",
@@ -1023,22 +1075,6 @@
       "duration_ms": 125142,
       "name": "Demons",
       "url": "https://open.spotify.com/track/1ks9wTTBtoKDviVn0UzU0e"
-    },
-    {
-      "added_at": "2022-02-03 21:59:00",
-      "album": {
-        "name": "Country in Me",
-        "url": "https://open.spotify.com/album/14TyyqNVDqZ7i1X60CNE0J"
-      },
-      "artists": [
-        {
-          "name": "Jono Grayson",
-          "url": "https://open.spotify.com/artist/2A91hKSHbGC0awW297Plqi"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Country in Me",
-      "url": "https://open.spotify.com/track/5s0aFRBOpQzWBivW8EHiZK"
     },
     {
       "added_at": "2022-03-17 21:59:00",
@@ -1135,22 +1171,6 @@
       "duration_ms": 152634,
       "name": "Sick & Tired",
       "url": "https://open.spotify.com/track/31VzttOuHMtdhoZLwPyPLF"
-    },
-    {
-      "added_at": "2022-04-08 07:20:14",
-      "album": {
-        "name": "Autobiography of an Evening",
-        "url": "https://open.spotify.com/album/22D7FzPzfB5NvHRsRNWQuF"
-      },
-      "artists": [
-        {
-          "name": "Lucy Kruger & The Lost Boys",
-          "url": "https://open.spotify.com/artist/2qFDhzWBDqbPOjhy8Fkl3u"
-        }
-      ],
-      "duration_ms": 191933,
-      "name": "Autobiography of an Evening",
-      "url": "https://open.spotify.com/track/0Zn9ANNxd0BvndaB73DXMX"
     }
   ],
   "unique_name": "SA Rock Essentials",

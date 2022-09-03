@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-09-30",
-  "description": "The hottest tracks of today...featuring Rod Wave, Drake, and Post Malone ",
+  "description": "The hottest tracks of today...featuring Drake, Rod Wave, and Post Malone ",
   "name": "Hot Rhythmic",
   "published_playlist_ids": [
     "0v71FT0Grm2FI0apea0kFF"
@@ -2841,7 +2841,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 256000,
       "name": "City of Gods",
       "url": "https://open.spotify.com/track/4huBDGP4I3S0pYI0EaRN1c"
@@ -2903,7 +2903,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 192021,
       "name": "Cold December",
       "url": "https://open.spotify.com/track/6UAy9xYeTWjZB7h05p83e9"
@@ -3271,6 +3271,24 @@
       "duration_ms": 180000,
       "name": "Denial",
       "url": "https://open.spotify.com/track/4MQnXVR8DJvsySuXYuzUtf"
+    },
+    {
+      "album": {
+        "name": "Detox",
+        "url": "https://open.spotify.com/album/4y77zrDMRkZznufMBScSal"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161636,
+      "name": "Detox",
+      "url": "https://open.spotify.com/track/7fSM2taFBEB1WNZl8AOIoo"
     },
     {
       "album": {
@@ -4389,6 +4407,24 @@
       "duration_ms": 252069,
       "name": "family ties (with Kendrick Lamar)",
       "url": "https://open.spotify.com/track/7Bpx2vsWfQFBACRz4h3IqH"
+    },
+    {
+      "album": {
+        "name": "Fantastic",
+        "url": "https://open.spotify.com/album/1N5NSxPMp1hpqwM5v5KIkz"
+      },
+      "artists": [
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172361,
+      "name": "Fantastic",
+      "url": "https://open.spotify.com/track/7fdTVjOFYWyfUXXTpIL917"
     },
     {
       "album": {
@@ -8783,7 +8819,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 198056,
       "name": "My G (feat. Ed Sheeran)",
       "url": "https://open.spotify.com/track/6Iqz3QB6zSdn1N61acinau"

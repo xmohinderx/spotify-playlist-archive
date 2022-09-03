@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 
 > Only the hottest South African House and Dance singles out right now\. Cover: <a href="https://open.spotify.com/artist/5gVxephJtTx5uMF26ZVptW?si=w5Sf3CMgQkG4HbK58xv\_Pg">Mobi Dixon</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,276 likes - 74 songs - 7 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,294 likes - 74 songs - 7 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [3 In The Morning](https://open.spotify.com/track/1uGivKy4r1xbPbxhI6Jp3q) | [Prince Kaybee](https://open.spotify.com/artist/4H7q5OwAgX1uQuhwb7bg2C), [Ben September](https://open.spotify.com/artist/1wAVD7w8mfrKNxpfe8dGEq) | [3 In The Morning](https://open.spotify.com/album/1HgLqBJlhYGbOVQkXEKgkJ) | 5:07 |
-| 2 | [Abasiyeke](https://open.spotify.com/track/027f4IovyxzazHUnCWUoO9) | [Mafikizolo](https://open.spotify.com/artist/04Hrgux8cIaNJKUAX7WwJN), [Zakes Bantwini](https://open.spotify.com/artist/5mZLaYqN0ZkjxfeUUmiuqL) | [Idwala](https://open.spotify.com/album/2nBnaZl4NHAOZWjB1V5GbS) | 6:12 |
+| 2 | [Abasiyeke](https://open.spotify.com/track/027f4IovyxzazHUnCWUoO9) | [Mafikizolo](https://open.spotify.com/artist/04Hrgux8cIaNJKUAX7WwJN), [Zakes Bantwini](https://open.spotify.com/artist/5mZLaYqN0ZkjxfeUUmiuqL), [Karyendasoul](https://open.spotify.com/artist/2eSj64hhMVJPYbjpli6k4p) | [Idwala](https://open.spotify.com/album/2nBnaZl4NHAOZWjB1V5GbS) | 6:12 |
 | 3 | [Ebsuku \- Radio Edit](https://open.spotify.com/track/26v5GteKRWo2vpgRg5FkYk) | [Lebzin](https://open.spotify.com/artist/5g0Z3S2S1jqM9wBCpM9VhA), [Echo Deep](https://open.spotify.com/artist/3oQxXy7RkKmUAoo0sftSLU) | [Ebsuku](https://open.spotify.com/album/15I3rxOfACdFyGiaCoDP9O) | 4:05 |
 | 4 | [I Told You Not To Go](https://open.spotify.com/track/6N3bqyU6KO3hqykGqJxUnf) | [Dave Audinary](https://open.spotify.com/artist/6O7qXYxw1B8belOxZSwaNm), [The Colored](https://open.spotify.com/artist/0vlWnOvNJ66cC55UwnHtdj) | [I Told You Not To Go](https://open.spotify.com/album/2QzouCM5U0pe3FPiLcSG98) | 4:04 |
 | 5 | [All In You](https://open.spotify.com/track/75VD2d6BPTuESBrzRqD6xl) | [Senior Oat](https://open.spotify.com/artist/5cAwYPpCI9QI5V7N0mxUKw), [Kemy Chienda](https://open.spotify.com/artist/21ubOXEDOMELSW2LDxG8HK) | [All In You](https://open.spotify.com/album/0YJOAYBMM8zEhcMNHnGe95) | 8:32 |

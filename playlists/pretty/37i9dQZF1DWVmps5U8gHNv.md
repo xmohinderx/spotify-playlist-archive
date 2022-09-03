@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVmps5U8gHNv.md) - [plain]
 
 > A collection of classics from the height of the folk revival to the rise of the folk rock era\. Cover: <a href="spotify:artist:74ASZWbe4lXaubB36ztrGX">Bob Dylan</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 642,085 likes - 109 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 642,258 likes - 109 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVmps5U8gHNv.md) - [plain]
 | 96 | [Shady Grove](https://open.spotify.com/track/0fwlPV7jI472wSgwetA0fv) | [Crooked Still](https://open.spotify.com/artist/7LOJ56d8VmOebynlV01KfU) | [Hop High](https://open.spotify.com/album/1gMbP8NUIeYFa9GhGpT0KU) | 3:47 |
 | 97 | [To Know Him Is to Love Him \- 2015 Remaster](https://open.spotify.com/track/0gIhlWV243Z1K93QfCeJTM) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Linda Ronstadt](https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc), [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Trio \(2016 Remaster\)](https://open.spotify.com/album/4sQEu1QnbFvtYItC4mQSO4) | 3:47 |
 | 98 | [If You Want To Sing Out, Sing Out](https://open.spotify.com/track/340t55txxJWQmTFK7wARZh) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [Tea For The Tillerman \(Super Deluxe\)](https://open.spotify.com/album/4odgU4XFiB5pxEKKqB9QJA) | 2:45 |
-| 99 | [If You Could Read My Mind](https://open.spotify.com/track/0QAZgZkHYERH1rYN3u8Gci) | [Gordon Lightfoot](https://open.spotify.com/artist/23rleGXVOVVgTk3xgtmfE4) | [Rhino Hi\-Five: Gordon Lightfoot](https://open.spotify.com/album/5eUwVFk2vkWl8R9bHj15jo) | 3:48 |
+| 99 | [If You Could Read My Mind](https://open.spotify.com/track/57ct8jKi6trntXiRV0NnXi) | [Gordon Lightfoot](https://open.spotify.com/artist/23rleGXVOVVgTk3xgtmfE4) | [If You Could Read My Mind](https://open.spotify.com/album/6bzqUICBtzct7TiQC8if9s) | 3:48 |
 | 100 | [Lullaby](https://open.spotify.com/track/6oVt9GBbquoFDz3VTPFe1e) | [Loudon Wainwright III](https://open.spotify.com/artist/3loACRmkzdtOMNJEaB6j8L) | [Attempted Mustache](https://open.spotify.com/album/1AG8ibJ2nQF7iEMpu84LSM) | 2:57 |
 | 101 | [Oh, Susanna](https://open.spotify.com/track/3nj18sxe1CA0eohDsDirrm) | [Pete Seeger](https://open.spotify.com/artist/1P9syEkl41IFowWIJN7ZBY) | [American Favorite Ballads, Vol\. 1](https://open.spotify.com/album/7tOP92RZSo7e896sPIOPY8) | 1:17 |
 | 102 | [Rocky Mountain High](https://open.spotify.com/track/1ne9wOtDF2jM6Cm8WBkaER) | [John Denver](https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w) | [Rocky Mountain High](https://open.spotify.com/album/2gEurk31djZjI3P3SY8ZcC) | 4:43 |
@@ -118,4 +118,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVmps5U8gHNv.md) - [plain]
 | 108 | [I'll Never Find Another You](https://open.spotify.com/track/6Ln9F9lZNMgV5Ht87z9Bd0) | [The Seekers](https://open.spotify.com/artist/7dedWAqd0IKTdCiqiadUrV) | [The Ultimate Collection](https://open.spotify.com/album/2bhcZbOcrAFH69kD3TLFB0) | 2:42 |
 | 109 | [Alice's Restaurant Massacree](https://open.spotify.com/track/4OjKHySJHstsImlUW3qfml) | [Arlo Guthrie](https://open.spotify.com/artist/0B6QEFtRnneEzb4iqjI0Nw) | [Alice's Restaurant](https://open.spotify.com/album/0Y1XtcuCEFhVIyGtPbBmvm) | 18:36 |
 
-Snapshot ID: `MTY0Njk3NDgwMCwwMDAwMDAwMDMxMWMxZTc1ZDIzMDIxZjkwYjJlNDZhNjM4NmRjYjc3`
+Snapshot ID: `MTY0Njk3NDgwMCwwMDAwMDAwMDJlYTQxNmMyYmIzZWJkMWNkNTcyMWYzMTY4NDYzMzA3`

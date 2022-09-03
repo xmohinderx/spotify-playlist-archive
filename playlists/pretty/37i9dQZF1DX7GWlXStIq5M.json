@@ -1,12 +1,12 @@
 {
   "description": "Hip Hop nacional e gringo para acompanhar gamers e gaming.",
-  "num_followers": 118610,
+  "num_followers": 118597,
   "original_name": "Gamer Gang",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwMzIyNTQxOSwwMDAwMDAwMDNkOGNlZGNiNDZjMWJlYjM3ZjJlYjM5NzJhZjhlNTcw",
+  "snapshot_id": "MTYwMzIyNTQxOSwwMDAwMDAwMDU2ZTRiNTZmMGE0NDFiN2FkMzUxNWU5M2Y0NzE5Yjg4",
   "tracks": [
     {
       "added_at": "2020-10-20 20:23:39",
@@ -191,6 +191,22 @@
     {
       "added_at": "2020-10-20 20:23:39",
       "album": {
+        "name": "ANTI (Deluxe)",
+        "url": "https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 191600,
+      "name": "Needed Me",
+      "url": "https://open.spotify.com/track/4pAl7FkDMNBsjykPXo91B3"
+    },
+    {
+      "added_at": "2020-10-20 20:23:39",
+      "album": {
         "name": "Laugh Now Cry Later (feat. Lil Durk)",
         "url": "https://open.spotify.com/album/0qGdc7fNq9RNIPEzZufa43"
       },
@@ -207,22 +223,6 @@
       "duration_ms": 261492,
       "name": "Laugh Now Cry Later (feat. Lil Durk)",
       "url": "https://open.spotify.com/track/2SAqBLGA283SUiwJ3xOUVI"
-    },
-    {
-      "added_at": "2020-10-20 20:23:39",
-      "album": {
-        "name": "ANTI (Deluxe)",
-        "url": "https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 191600,
-      "name": "Needed Me",
-      "url": "https://open.spotify.com/track/4pAl7FkDMNBsjykPXo91B3"
     },
     {
       "added_at": "2020-10-20 20:23:39",
@@ -419,26 +419,6 @@
     {
       "added_at": "2020-10-20 20:23:39",
       "album": {
-        "name": "Life Is Good (feat. Drake)",
-        "url": "https://open.spotify.com/album/5uCEoLCj3ZZZ1EtzQdQWVl"
-      },
-      "artists": [
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 237735,
-      "name": "Life Is Good (feat. Drake)",
-      "url": "https://open.spotify.com/track/5yY9lUy8nbvjM1Uyo1Uqoc"
-    },
-    {
-      "added_at": "2020-10-20 20:23:39",
-      "album": {
         "name": "The Best In The World Pack",
         "url": "https://open.spotify.com/album/00HZxSA1sOS9T3nA950sg4"
       },
@@ -455,6 +435,26 @@
       "duration_ms": 205426,
       "name": "Money In The Grave (Drake ft. Rick Ross)",
       "url": "https://open.spotify.com/track/5ry2OE6R2zPQFDO85XkgRb"
+    },
+    {
+      "added_at": "2020-10-20 20:23:39",
+      "album": {
+        "name": "Life Is Good (feat. Drake)",
+        "url": "https://open.spotify.com/album/5uCEoLCj3ZZZ1EtzQdQWVl"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 237735,
+      "name": "Life Is Good (feat. Drake)",
+      "url": "https://open.spotify.com/track/5yY9lUy8nbvjM1Uyo1Uqoc"
     },
     {
       "added_at": "2020-10-20 20:23:39",
@@ -1331,38 +1331,6 @@
     {
       "added_at": "2020-10-20 20:23:39",
       "album": {
-        "name": "Everything Sucks",
-        "url": "https://open.spotify.com/album/6JP1xbkFnacGAvrIWW5pzF"
-      },
-      "artists": [
-        {
-          "name": "Princess Nokia",
-          "url": "https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL"
-        }
-      ],
-      "duration_ms": 132453,
-      "name": "I Like Him",
-      "url": "https://open.spotify.com/track/68UU9oaQtMDnh6PRlW842H"
-    },
-    {
-      "added_at": "2020-10-20 20:23:39",
-      "album": {
-        "name": "M\u00e1quina do Tempo",
-        "url": "https://open.spotify.com/album/6ehm0SMBBoSxH8oSrFXre6"
-      },
-      "artists": [
-        {
-          "name": "Matu\u00ea",
-          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
-        }
-      ],
-      "duration_ms": 165336,
-      "name": "Gorilla Roxo",
-      "url": "https://open.spotify.com/track/0bV0LtjtZH76gD0ujPYS3n"
-    },
-    {
-      "added_at": "2020-10-20 20:23:39",
-      "album": {
         "name": "Ladr\u00e3o",
         "url": "https://open.spotify.com/album/4bVYzv8uj0wanD6BdwmdwM"
       },
@@ -1383,6 +1351,38 @@
       "duration_ms": 212650,
       "name": "LEAL",
       "url": "https://open.spotify.com/track/7LC49U08KjfwzDMiGNkE1q"
+    },
+    {
+      "added_at": "2020-10-20 20:23:39",
+      "album": {
+        "name": "M\u00e1quina do Tempo",
+        "url": "https://open.spotify.com/album/6ehm0SMBBoSxH8oSrFXre6"
+      },
+      "artists": [
+        {
+          "name": "Matu\u00ea",
+          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
+        }
+      ],
+      "duration_ms": 165336,
+      "name": "Gorilla Roxo",
+      "url": "https://open.spotify.com/track/0bV0LtjtZH76gD0ujPYS3n"
+    },
+    {
+      "added_at": "2020-10-20 20:23:39",
+      "album": {
+        "name": "Everything Sucks",
+        "url": "https://open.spotify.com/album/6JP1xbkFnacGAvrIWW5pzF"
+      },
+      "artists": [
+        {
+          "name": "Princess Nokia",
+          "url": "https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL"
+        }
+      ],
+      "duration_ms": 132453,
+      "name": "I Like Him",
+      "url": "https://open.spotify.com/track/68UU9oaQtMDnh6PRlW842H"
     },
     {
       "added_at": "2020-10-20 20:23:39",
@@ -1867,18 +1867,22 @@
     {
       "added_at": "2020-10-20 20:23:39",
       "album": {
-        "name": "EVERYTHING IS LOVE",
-        "url": "https://open.spotify.com/album/3hCiP4V5Mu3Y0Z8lb70iDp"
+        "name": "Celebridade",
+        "url": "https://open.spotify.com/album/1O14i0prsw0PrQYgHQ19Pa"
       },
       "artists": [
         {
-          "name": "The Carters",
-          "url": "https://open.spotify.com/artist/4fpTMHe34LC5t3h5ztK8qu"
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
         }
       ],
-      "duration_ms": 264853,
-      "name": "APESHIT",
-      "url": "https://open.spotify.com/track/0E6PsO3ymCfUh7pJQjBgkj"
+      "duration_ms": 253333,
+      "name": "Bal\u00e3o",
+      "url": "https://open.spotify.com/track/4QFzCjkQl2c7wrzVrOu2sz"
     }
   ],
   "unique_name": "Gamer Gang",

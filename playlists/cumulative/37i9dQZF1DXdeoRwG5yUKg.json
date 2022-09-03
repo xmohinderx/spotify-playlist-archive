@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Soulful, bluesy ballads. Cover: Lizz Wright",
+  "description": "Soulful, bluesy ballads. Cover: The War and Treaty",
   "name": "Blue Ballads",
   "published_playlist_ids": [
     "75KE2wEWnN31m3GF8kYS07"
@@ -336,6 +336,24 @@
     },
     {
       "album": {
+        "name": "Cryin In The Rain",
+        "url": "https://open.spotify.com/album/28ex3FmGr9cbxk4TvIA6Dv"
+      },
+      "artists": [
+        {
+          "name": "Alex Lambert",
+          "url": "https://open.spotify.com/artist/6iQBhWmcQcl9s4w1hL5lnN"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210882,
+      "name": "Cryin In The Rain",
+      "url": "https://open.spotify.com/track/7mLm2YnptlX4CSqpfp1P34"
+    },
+    {
+      "album": {
         "name": "Devil May Care",
         "url": "https://open.spotify.com/album/0vetIsh52LB0I10eBDTdLP"
       },
@@ -575,7 +593,7 @@
       ],
       "date_added": "2020-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 313240,
       "name": "Hearts",
       "url": "https://open.spotify.com/track/2rPiEp1fCw6lTF9NWsO8XH"
@@ -701,7 +719,7 @@
       ],
       "date_added": "2020-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 163026,
       "name": "I'm Gonna Find Another You",
       "url": "https://open.spotify.com/track/0bYDebBlQxsDR4hCgbbpOW"
@@ -1838,6 +1856,24 @@
     },
     {
       "album": {
+        "name": "That's How Love Is Made",
+        "url": "https://open.spotify.com/album/7jEsDY3DfzPI2MRJaOyZdP"
+      },
+      "artists": [
+        {
+          "name": "The War and Treaty",
+          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226986,
+      "name": "That's How Love Is Made",
+      "url": "https://open.spotify.com/track/1BIX2BQa6BroVxG6O97UWk"
+    },
+    {
+      "album": {
         "name": "The World Moves On",
         "url": "https://open.spotify.com/album/4fvPhrcHvGlB9fPD1BjIVK"
       },
@@ -1903,7 +1939,7 @@
       ],
       "date_added": "2020-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 298400,
       "name": "Time To Leave",
       "url": "https://open.spotify.com/track/5TUCm5o4qf5y47EnyHStZy"
@@ -2201,6 +2237,24 @@
       "duration_ms": 236186,
       "name": "Worst In Me",
       "url": "https://open.spotify.com/track/1zX45MGjbDDt2zceTraRvn"
+    },
+    {
+      "album": {
+        "name": "You Ruined That Song For Me",
+        "url": "https://open.spotify.com/album/3aRX20jl9YSVFMGUY5ZUoV"
+      },
+      "artists": [
+        {
+          "name": "Meghan Linsey",
+          "url": "https://open.spotify.com/artist/5CoW8VGpf9la64TUDhnkVn"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199904,
+      "name": "You Ruined That Song For Me",
+      "url": "https://open.spotify.com/track/7e8LdgIws3VVqkON2puJwN"
     },
     {
       "album": {

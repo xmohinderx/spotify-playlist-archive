@@ -1622,6 +1622,24 @@
     },
     {
       "album": {
+        "name": "Wild Lake",
+        "url": "https://open.spotify.com/album/2T1PnhzqQwnHGPRQO7Hdff"
+      },
+      "artists": [
+        {
+          "name": "Lama House",
+          "url": "https://open.spotify.com/artist/3We2SFbH59mXg6D42TPhWJ"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187212,
+      "name": "Wild Lake",
+      "url": "https://open.spotify.com/track/5mxf8aV7VUU7C1nzVdu9D6"
+    },
+    {
+      "album": {
         "name": "Friends",
         "url": "https://open.spotify.com/album/7duzFBoBK7inOjkfa74spr"
       },

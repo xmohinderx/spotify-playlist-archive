@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4fQhfyVRsHW.md) - [plain]
 
 > Lie back to chilled ambient with the sounds of nature.
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,407 likes - 108 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,440 likes - 108 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,14 +18,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4fQhfyVRsHW.md) - [plain]
 | 8 | [Forest Meditation](https://open.spotify.com/track/7rbdKNARg0eWP3H1bvkZbi) | [Naturalists](https://open.spotify.com/artist/1sp0zRK6eY8NaAYAjBJoAf) | [Forest Meditation](https://open.spotify.com/album/3xkbtsbWXCVPsuJCORRtTO) | 2:34 |
 | 9 | [Above The Trees](https://open.spotify.com/track/4qzxepc9e8IRuqmknRIeAN) | [Ashagen](https://open.spotify.com/artist/65JkSnMfywXP7I1Xuk1XFp) | [Above The Trees](https://open.spotify.com/album/2fsy6gg50jg2yqzDUHYkyX) | 3:23 |
 | 10 | [Soothing the Ocean](https://open.spotify.com/track/2dGwmaVEeKceZET2Tw1UvK) | [Zonestays](https://open.spotify.com/artist/7qrpF6gvKx1zA0dGofJVdh) | [Soothing the Ocean](https://open.spotify.com/album/26sn9bQUdYBJpalMa9Fikl) | 2:41 |
-| 11 | [Backwood Recline](https://open.spotify.com/track/2PFy9vF3sK1J736Dw55Yt8) | [Pia Singh](https://open.spotify.com/artist/2ZwBCFyYPefWuccMWR34ZE) | [Backwood Recline](https://open.spotify.com/album/2n2onOGsIkuUaD3192y8u4) | 3:49 |
-| 12 | [Comfortable under the Surface](https://open.spotify.com/track/3W63szGlVtLFTkmrA8dgXJ) | [Hanna Lindgren](https://open.spotify.com/artist/34GCwt10cx3SKWmWbTgUC2) | [Comfortable under the Surface](https://open.spotify.com/album/0AzrK9ejFOS16BOM2feyHg) | 3:05 |
-| 13 | [Moonglow](https://open.spotify.com/track/6qPcMQn285Q0IsaHnskKqX) | [Soothe My Soul](https://open.spotify.com/artist/7C8p7eBuwDPhRuOFamOJ9T) | [Moonglow](https://open.spotify.com/album/5kKx3skFzMgYhtWHrucfFI) | 3:28 |
-| 14 | [Royal Whispers](https://open.spotify.com/track/3n3D4PEIcG5JuLmT094Zt4) | [George Memfri](https://open.spotify.com/artist/45b6UK7Bn3GavDYBkkgTxl) | [Tales Of Nature](https://open.spotify.com/album/1eQ34ctlOThK1SBmdavTNu) | 4:15 |
-| 15 | [Underwater Dreams](https://open.spotify.com/track/5hXdhKr9aa6O9tJbXJXphA) | [Silver Blue Moon](https://open.spotify.com/artist/0Nhbspw23XX6i6EsnkP0pX) | [Underwater Dreams](https://open.spotify.com/album/1fqf2kxSls8sPND15hCgsH) | 3:33 |
-| 16 | [Beautiful Path](https://open.spotify.com/track/1BIR1oNAcL7YmST5pnN8m4) | [Caspian Nerida](https://open.spotify.com/artist/27uIFFlt4Wxf4DLVJQXtcV) | [Beautiful Path](https://open.spotify.com/album/3OQt0hZHKA3cAbzfnwAiul) | 3:41 |
-| 17 | [Sandesh](https://open.spotify.com/track/3kpkB2326UhsSncNxiVsUC) | [Ajay Samra](https://open.spotify.com/artist/4FxL7eKB7Uz1rWIpMOC6rW) | [Sandesh](https://open.spotify.com/album/5rsPOyuIJrmFBxESU4FN55) | 3:09 |
-| 18 | [Calming Seashore](https://open.spotify.com/track/4msQl50RTvdYVaak2Z99Fc) | [Adam By Nature](https://open.spotify.com/artist/24FFkUJXOJMxw4WRVlLng1) | [Tones of Nature](https://open.spotify.com/album/10RrCngn0oIs8S0KyYKTRW) | 3:42 |
+| 11 | [The Bliss Of Nature](https://open.spotify.com/track/28lD0XCgpWglPM2cuqRTv6) | [Aventurine Skies](https://open.spotify.com/artist/1P9nalZuZKGyqEWPbPdSIZ) | [The Bliss Of Nature](https://open.spotify.com/album/62xIZlAEHbL6K9x7B1G50A) | 3:26 |
+| 12 | [Backwood Recline](https://open.spotify.com/track/2PFy9vF3sK1J736Dw55Yt8) | [Pia Singh](https://open.spotify.com/artist/2ZwBCFyYPefWuccMWR34ZE) | [Backwood Recline](https://open.spotify.com/album/2n2onOGsIkuUaD3192y8u4) | 3:49 |
+| 13 | [Comfortable under the Surface](https://open.spotify.com/track/3W63szGlVtLFTkmrA8dgXJ) | [Hanna Lindgren](https://open.spotify.com/artist/34GCwt10cx3SKWmWbTgUC2) | [Comfortable under the Surface](https://open.spotify.com/album/0AzrK9ejFOS16BOM2feyHg) | 3:05 |
+| 14 | [Moonglow](https://open.spotify.com/track/6qPcMQn285Q0IsaHnskKqX) | [Soothe My Soul](https://open.spotify.com/artist/7C8p7eBuwDPhRuOFamOJ9T) | [Moonglow](https://open.spotify.com/album/5kKx3skFzMgYhtWHrucfFI) | 3:28 |
+| 15 | [Royal Whispers](https://open.spotify.com/track/3n3D4PEIcG5JuLmT094Zt4) | [George Memfri](https://open.spotify.com/artist/45b6UK7Bn3GavDYBkkgTxl) | [Tales Of Nature](https://open.spotify.com/album/1eQ34ctlOThK1SBmdavTNu) | 4:15 |
+| 16 | [Underwater Dreams](https://open.spotify.com/track/5hXdhKr9aa6O9tJbXJXphA) | [Silver Blue Moon](https://open.spotify.com/artist/0Nhbspw23XX6i6EsnkP0pX) | [Underwater Dreams](https://open.spotify.com/album/1fqf2kxSls8sPND15hCgsH) | 3:33 |
+| 17 | [Beautiful Path](https://open.spotify.com/track/1BIR1oNAcL7YmST5pnN8m4) | [Caspian Nerida](https://open.spotify.com/artist/27uIFFlt4Wxf4DLVJQXtcV) | [Beautiful Path](https://open.spotify.com/album/3OQt0hZHKA3cAbzfnwAiul) | 3:41 |
+| 18 | [Sandesh](https://open.spotify.com/track/3kpkB2326UhsSncNxiVsUC) | [Ajay Samra](https://open.spotify.com/artist/4FxL7eKB7Uz1rWIpMOC6rW) | [Sandesh](https://open.spotify.com/album/5rsPOyuIJrmFBxESU4FN55) | 3:09 |
 | 19 | [Ocean Unwind](https://open.spotify.com/track/2HLgn2iuSkMPlMCdV3BNdH) | [Haf](https://open.spotify.com/artist/4ZN3pGwIN6s1NNiKAivvuM) | [Ocean Unwind](https://open.spotify.com/album/6hAXiuDrYUvmhYjEZdfXkq) | 3:06 |
 | 20 | [Colors Of The Wind](https://open.spotify.com/track/0YL8kXuNOcOF8curSrGOEw) | [Alex Patel](https://open.spotify.com/artist/4e90KIWr9PXRvOsvB7kdnb) | [Colors Of The Wind](https://open.spotify.com/album/1Ta8HPmo20jBMUCyah11oC) | 3:05 |
 | 21 | [Breath Of The Wilderness](https://open.spotify.com/track/7lVRii95o1sRkanRZTNVOk) | [Mhino](https://open.spotify.com/artist/1DR1nFSKpiWjUZO4PpydG8) | [Breath Of The Wilderness](https://open.spotify.com/album/4WiJ4NAttKpGAYkdT2TnTK) | 3:15 |
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4fQhfyVRsHW.md) - [plain]
 | 107 | [Dream Maps](https://open.spotify.com/track/0NoCoOtd8LFywZnH9KIKGo) | [Oneironautics](https://open.spotify.com/artist/6VYV0dDe760s66s9973L1Q) | [Floating Mind](https://open.spotify.com/album/2cAj2jNdLgh4pUwcfwiKyM) | 2:16 |
 | 108 | [Vila](https://open.spotify.com/track/2M78TKNx5DGgXKfCPTHIXK) | [Johanna Frid](https://open.spotify.com/artist/7wik4zcVVjCv1eOp5yOSYW) | [Vila](https://open.spotify.com/album/2OraxQTVImlSvRdxIhgR84) | 3:20 |
 
-Snapshot ID: `MTY1OTcxNTMxMiwwMDAwMDAwMDg2MjNjZTJiZTEyMTc2ZTQ3NWQyYzgyM2I1NzNhMzFj`
+Snapshot ID: `MTY2MjEyNDE2OSwwMDAwMDAwMGJiNmQ4YzgyMjFlZjU1MzNiYmU4ZGYwNmY2OGVjN2Iw`

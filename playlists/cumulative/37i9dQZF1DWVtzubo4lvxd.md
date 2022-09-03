@@ -4,7 +4,7 @@
 
 > Chill lo\-fi beats to enjoy a great afternoon.
 
-192 songs - 7 hr 49 min - [published](https://open.spotify.com/playlist/7on3y4t0dpM9kcFySbFRWF)
+193 songs - 7 hr 51 min - [published](https://open.spotify.com/playlist/7on3y4t0dpM9kcFySbFRWF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [Getting Lost](https://open.spotify.com/track/2qu7wb9uya6Kh1YqgHyxOy) | [Veritas](https://open.spotify.com/artist/2S6iwClVoSNnpOcCzyMeUj) | [Getting Lost](https://open.spotify.com/album/37kZUfnuctnnWXvDEATO21) | 3:52 | 2022-04-15 | 2022-07-29 |
 | [go away](https://open.spotify.com/track/0fXfA8rpomAF4jMx58zs67) | [Sarent](https://open.spotify.com/artist/0CdPrYbzWcdfC54xRFo28k), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [go away](https://open.spotify.com/album/6vtdKV232OX7c3KHCcgeLD) | 2:12 | 2022-04-15 | 2022-07-29 |
 | [gold](https://open.spotify.com/track/58LtMOwgUsR2RH70Du6hiK) | [Flux The Cynic](https://open.spotify.com/artist/7KVnt5tFYViqLUPgUkkDoF), [Chill Children](https://open.spotify.com/artist/1HIUSy6Z18XvHfvsGPSWYx) | [flux the cynic](https://open.spotify.com/album/298IErQJY2iMNJxzJrEGtF) | 1:47 | 2022-04-15 | 2022-07-17 |
-| [Green Stamps](https://open.spotify.com/track/30zouM8GTBeX57AFYDCcDI) | [Tesk](https://open.spotify.com/artist/7ntBtETW7gkufH8Hw38gb4) | [Spotless Minds](https://open.spotify.com/album/502M2AoaTM2CDYghPlH0Mn) | 2:37 | 2022-04-15 |  |
+| [Green Stamps](https://open.spotify.com/track/30zouM8GTBeX57AFYDCcDI) | [Tesk](https://open.spotify.com/artist/7ntBtETW7gkufH8Hw38gb4) | [Spotless Minds](https://open.spotify.com/album/502M2AoaTM2CDYghPlH0Mn) | 2:37 | 2022-04-15 | 2022-09-03 |
 | [hammock](https://open.spotify.com/track/1PdJvxvhuImI0dpuWoPwWe) | [mommy](https://open.spotify.com/artist/0DJoMHFNyxWdoGqi8XMdfk) | [hometown](https://open.spotify.com/album/1algiZiHrfsA4siGIdUZRq) | 1:56 | 2022-04-15 |  |
 | [hand of god](https://open.spotify.com/track/5BkpjyhjGiptuzxI2n5L67) | [lofi.samurai](https://open.spotify.com/artist/6NLqFFCoVnFwbXzoIB5Col) | [oldies](https://open.spotify.com/album/6Aq2NyYQkpTbFvr4oJKaEu) | 1:43 | 2022-04-15 |  |
 | [Here There](https://open.spotify.com/track/2uKCULX5fviDo0PspMcxRs) | [Huey Daze](https://open.spotify.com/artist/5WWaSxxDu0B6pDpeZJke3Y) | [Romance](https://open.spotify.com/album/2v8fJtNbT42y6huBvyyvIT) | 1:59 | 2022-04-15 | 2022-07-29 |
@@ -191,6 +191,7 @@
 | [viola](https://open.spotify.com/track/2U42jVkNgEU6DoM64eFD7i) | [eevee](https://open.spotify.com/artist/4pwqNyMSvuv7VOhQBdjB6Q) | [unexpected](https://open.spotify.com/album/1o6jIyr6byHhgU8Y1EpvZV) | 1:26 | 2022-04-15 |  |
 | [viola](https://open.spotify.com/track/6ghICeprXG957CqdLx67WN) | [eevee](https://open.spotify.com/artist/4pwqNyMSvuv7VOhQBdjB6Q) | [ep unexpected](https://open.spotify.com/album/1x6l5C4ZifQ3u0NkILPlcc) | 1:26 | 2022-04-15 | 2022-07-03 |
 | [Water](https://open.spotify.com/track/1D1T85tGQBtiQwXbTRYXXC) | [Caleb Belkin](https://open.spotify.com/artist/12TcsyqAd3lJUcZFJVogXZ) | [Discography](https://open.spotify.com/album/1z2EULhFIYioLEV4K6DEHp) | 1:58 | 2022-04-15 | 2022-08-12 |
+| [Water](https://open.spotify.com/track/3kMVwcWq73jxj9w3OlgrmR) | [Caleb Belkin](https://open.spotify.com/artist/12TcsyqAd3lJUcZFJVogXZ) | [Discography](https://open.spotify.com/album/17KY09ISAVpJ30vTaiTW3n) | 1:58 | 2022-04-15 |  |
 | [Water](https://open.spotify.com/track/5Z393NbAlwjAl0vYzUZh9D) | [omarr](https://open.spotify.com/artist/6VlR5v7VgUjpqIrIgrZ7wb) | [Desire](https://open.spotify.com/album/0yC7LKmarREa0WIHiZNbnL) | 2:42 | 2022-04-15 |  |
 | [we used to talk every night](https://open.spotify.com/track/6kAMaQt8UveeTctekIpUjF) | [Elijah Who](https://open.spotify.com/artist/2b0aKuno01NxPWVCUVIEc8) | [time off](https://open.spotify.com/album/25mhdKvHHJ6QwDnsCmAaav) | 2:02 | 2022-04-15 |  |
 | [what does hiphop mean to you](https://open.spotify.com/track/7qFb8eLt503uCdvhUmlmvS) | [eevee](https://open.spotify.com/artist/4pwqNyMSvuv7VOhQBdjB6Q) | [beat tape 06](https://open.spotify.com/album/5zpXXNH6qDDCeLPS6hLO3Y) | 2:03 | 2022-04-15 | 2022-07-25 |

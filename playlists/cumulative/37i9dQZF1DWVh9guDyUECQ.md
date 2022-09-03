@@ -4,7 +4,7 @@
 
 > Lo nuevo del Trap, Rap y Reggaeton Cristiano\. <br/>Foto: Vaes
 
-316 songs - 18 hr 37 min - [published](https://open.spotify.com/playlist/6c2GnXTfpCe6c4SEH9u1bm)
+317 songs - 18 hr 41 min - [published](https://open.spotify.com/playlist/6c2GnXTfpCe6c4SEH9u1bm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,7 @@
 | [Dinero](https://open.spotify.com/track/4MXt7Xh7WQiL85Q6Et2OfF) | [Creyente.7](https://open.spotify.com/artist/5MaYKizuZvefKKYa85knBs), [Trez Hache](https://open.spotify.com/artist/0wgDsnsyLZpCS1Gj5cnI0r), [Helementt](https://open.spotify.com/artist/153zCjJxe1HnU2huS6jnMU) | [Dinero](https://open.spotify.com/album/5i4rUuV3HlivEuXKQrNGIo) | 3:42 | 2022-04-17 | 2022-07-19 |
 | [Dios, Familia & Rap](https://open.spotify.com/track/2Y4iS0tbGlyllgxLf7SCnV) | [El Philippe](https://open.spotify.com/artist/3COYG9FFfTZQEB5B58Ufi1) | [Dios, Familia & Rap](https://open.spotify.com/album/4NXzCfxbZIrKTTvs4BgIBb) | 4:17 | 2022-04-17 | 2022-07-29 |
 | [Dios, Familia & Rap](https://open.spotify.com/track/3ppiIqfZjtxmd5ZT1qPluY) | [El Philippe](https://open.spotify.com/artist/3COYG9FFfTZQEB5B58Ufi1) | [Dios, Familia & Rap](https://open.spotify.com/album/1lue6TfOPJ4qL1EXkQ2Kne) | 4:17 | 2022-04-29 |  |
-| [Distinto](https://open.spotify.com/track/6EGduvmEGHgdF3fHYPuUvj) | [Pablo Martinez](https://open.spotify.com/artist/5IirgPwhfjHp6MDFXbLRdz) | [Distinto](https://open.spotify.com/album/4rjWPPDroLLKu5ql0HAdkn) | 3:06 | 2022-04-17 |  |
+| [Distinto](https://open.spotify.com/track/6EGduvmEGHgdF3fHYPuUvj) | [Pablo Martinez](https://open.spotify.com/artist/5IirgPwhfjHp6MDFXbLRdz) | [Distinto](https://open.spotify.com/album/4rjWPPDroLLKu5ql0HAdkn) | 3:06 | 2022-04-17 | 2022-09-03 |
 | [Doble Filo](https://open.spotify.com/track/6AGv5GVeeCGwNr2KeNPhRb) | [CRYS](https://open.spotify.com/artist/7uZO1ri6Y9Wlv7cDoOOUDI) | [Doble Filo](https://open.spotify.com/album/5yTsLpw3nxNRFq6eFX59qb) | 2:20 | 2022-08-27 |  |
 | [Donde Quiera Que Estes](https://open.spotify.com/track/5n3wuWDLAp466ZdO07x4mS) | [Micky Medina](https://open.spotify.com/artist/7os2zbfBHSRid4kmvX3h78), [CSHALOM](https://open.spotify.com/artist/5SnxvQmYVN1duOHPQpequL) | [Donde Quiera Que Estes](https://open.spotify.com/album/0TvE44uETp6tU494NZFyy3) | 4:14 | 2021-11-05 | 2022-03-21 |
 | [Doña Religión CMR3](https://open.spotify.com/track/0vzMJrrOkKUpOCnqheEVKy) | [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd) | [Doña Religión CMR3](https://open.spotify.com/album/1inTILQDQwCrlP4SmQ0ho9) | 3:24 | 2021-11-05 | 2022-04-18 |
@@ -157,6 +157,7 @@
 | [Luna](https://open.spotify.com/track/3rEFHkpVayHvY6wx5Fb7a1) | [Indiomar](https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM) | [Luna](https://open.spotify.com/album/6jLDlv6qLUjwVgvcq8h3NB) | 3:20 | 2022-08-27 |  |
 | [Luna Que Me Alumbra](https://open.spotify.com/track/1QJXOveHlGy5N9Lie82Gm2) | [El Leo Pa´](https://open.spotify.com/artist/67SzMFfffYwYnlQhxPGsOt), [Lemuel Amaury](https://open.spotify.com/artist/0XrJ1hYeE7gqPA77uNADqe) | [Luna Que Me Alumbra](https://open.spotify.com/album/3DSh6c9bEuPAfwBGHs6sAZ) | 2:59 | 2022-08-27 |  |
 | [M.E.M.E](https://open.spotify.com/track/38QXdsQx52ZdzKxL0MznhO) | [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd) | [M.E.M.E](https://open.spotify.com/album/42xUePv4soMOo14hJovWe3) | 3:50 | 2021-11-05 | 2022-03-21 |
+| [Ma' Na](https://open.spotify.com/track/5xzJaxXzxWRNwsyawQpNeE) | [Arias](https://open.spotify.com/artist/2GK6y5dmhaWM16VZxHiO15) | [El Hijo del Borracho](https://open.spotify.com/album/1kTx3gBCYhoOKFPXuyi0S8) | 3:20 | 2022-08-27 |  |
 | [Madre Querida](https://open.spotify.com/track/4A4N3LBckQSSoBnEyD56GD) | [F.Silver](https://open.spotify.com/artist/1Z5hLL3rwRTOnlPtfu5FVN) | [Madre Querida](https://open.spotify.com/album/3R6H7h7SxgfWj6iryOLz3Z) | 4:36 | 2021-11-05 | 2022-03-14 |
 | [Manada](https://open.spotify.com/track/5Pde1RKCdQ5mfAYNQVeC56) | [Jaydan](https://open.spotify.com/artist/7h9VV4VCZdFXVh3FsUxus5) | [Manada](https://open.spotify.com/album/0ZL7kzDvNRkEAc8Co51xue) | 3:33 | 2022-04-17 | 2022-07-29 |
 | [Manos en el aire \(Remix\)](https://open.spotify.com/track/4ywj45xfKm0Y97mgBehyPN) | [Zelote El Rabakanda](https://open.spotify.com/artist/5KTntGyT7yudVsG4WI5NKI), [Creyente.7](https://open.spotify.com/artist/5MaYKizuZvefKKYa85knBs) | [Manos en el aire \(Remix\)](https://open.spotify.com/album/2E1UPeb6D2QByHeEH52Bsl) | 2:57 | 2022-08-27 |  |

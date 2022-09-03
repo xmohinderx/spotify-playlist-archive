@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzL4bYZBn6V.md) - [plain]
 
 > 50 canciones que llenan tu rutina de pura energía.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,340 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,386 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzL4bYZBn6V.md) - [plain]
 | 25 | [La Música](https://open.spotify.com/track/1HBy0FTxfdKiZ8yLEYPdIS) | [Bsno](https://open.spotify.com/artist/1ou0Yboh9yJJHRt2bxxz29) | [La Música](https://open.spotify.com/album/2WemEhIuMzJqw9oBzD8Nwc) | 3:30 |
 | 26 | [Dance and Chant](https://open.spotify.com/track/26LrcfQvosoKyUiLV0057Q) | [Yolanda Be Cool](https://open.spotify.com/artist/4KkHjCe8ouh8C2P9LPoD4F) | [Dance and Chant](https://open.spotify.com/album/6zdC2SBKX4WLLSztigHAJ0) | 3:09 |
 | 27 | [Turn On the Bass](https://open.spotify.com/track/7hSTXrC5oAMss4LTPbbkua) | [Sheeqo Beat](https://open.spotify.com/artist/4PPVTIy0XtTMJuiA7mC4Ak) | [Turn On the Bass](https://open.spotify.com/album/4VAt1w3oStAsuT1Gh3g84o) | 3:40 |
-| 28 | [Push Me](https://open.spotify.com/track/2IDa4VHiakky6xNeSrkYE8) | [Minow](https://open.spotify.com/artist/53WBL9mWs6KRVyrWBB6Fen), [Vale](https://open.spotify.com/artist/3xO9hPdz5KQ7wOXxshldeL), [House Music Bro](https://open.spotify.com/artist/6CK6I6I7fKtcThateyQpVY) | [Push Me](https://open.spotify.com/album/5jamFfc9LWWvJCceNcZZgg) | 4:25 |
-| 29 | [Dawn](https://open.spotify.com/track/4hpDoKsVsjCTC5pbTgyUyG) | [Joy Corporation](https://open.spotify.com/artist/22DpF66KIdKHmy1IvzEZXc), [Antdot](https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx) | [Dawn](https://open.spotify.com/album/6al3sqwfmUAOSSucHsyy1U) | 3:32 |
+| 28 | [Dawn](https://open.spotify.com/track/4hpDoKsVsjCTC5pbTgyUyG) | [Joy Corporation](https://open.spotify.com/artist/22DpF66KIdKHmy1IvzEZXc), [Antdot](https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx) | [Dawn](https://open.spotify.com/album/6al3sqwfmUAOSSucHsyy1U) | 3:32 |
+| 29 | [Push Me](https://open.spotify.com/track/2IDa4VHiakky6xNeSrkYE8) | [Minow](https://open.spotify.com/artist/53WBL9mWs6KRVyrWBB6Fen), [Vale](https://open.spotify.com/artist/3xO9hPdz5KQ7wOXxshldeL), [House Music Bro](https://open.spotify.com/artist/6CK6I6I7fKtcThateyQpVY) | [Push Me](https://open.spotify.com/album/5jamFfc9LWWvJCceNcZZgg) | 4:25 |
 | 30 | [One A Day](https://open.spotify.com/track/09VGT0e2aYkoCVNRjOPKZa) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta) | [One A Day](https://open.spotify.com/album/7a3CD5WnyDxWxpCaBQHYHx) | 3:12 |
 | 31 | [Day N' Night](https://open.spotify.com/track/1UI2XoFQxOm7ufFoXQhkhb) | [VAVO](https://open.spotify.com/artist/44re77WwNG34C182Jq3WIK), [ZHIKO](https://open.spotify.com/artist/0zr2hUrgdQC7g7v2fpd166) | [Day N' Night](https://open.spotify.com/album/2Cb1nGPZtIKEoNUjDhiZw0) | 2:41 |
 | 32 | [Let You Down](https://open.spotify.com/track/1niAie0JRjlHg1id7hFCfS) | [JØRD](https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV), [SPECT3R](https://open.spotify.com/artist/4NWK1Lp9NUDfJpAnSmAo4t) | [Let You Down](https://open.spotify.com/album/0SIxLZVzSBT22y2s8Iw4X6) | 3:25 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzL4bYZBn6V.md) - [plain]
 | 49 | [Change](https://open.spotify.com/track/7uHh8SlhRmPwxmm2jwu4Ph) | [Lemarroy](https://open.spotify.com/artist/0MbIn3hLqEhgj784ocMT1W), [Nino Lucarelli](https://open.spotify.com/artist/2Z6k8JBzhJPPRIAyKaUEJZ) | [Change](https://open.spotify.com/album/4qEQg7gOeQlsp61IjSTQ69) | 2:56 |
 | 50 | [Vampiro \(Pyura Remix\)](https://open.spotify.com/track/4XGyifnRty1FI3qQe8bhet) | [Lucas & The Woods](https://open.spotify.com/artist/4OIDWn0ASVx73rysnf6pqA), [Pyura](https://open.spotify.com/artist/77cMdN9JK8HlrCtHdPKSHi) | [Vampiro \(Pyura Remix\)](https://open.spotify.com/album/2IcmfBYtzX45pZmlo8yV0q) | 3:40 |
 
-Snapshot ID: `MTYxOTIxOTY3MywwMDAwMDAwMGVhNmQ0NmQwOTRhZjAwZTZlOWIzMjU1MTE1NDcyYTg0`
+Snapshot ID: `MTYxOTIxOTY3MywwMDAwMDAwMDllZGIyM2U5ZWQ4YmFmMWU5OWM2NzljYjAzZjY0Zjgy`

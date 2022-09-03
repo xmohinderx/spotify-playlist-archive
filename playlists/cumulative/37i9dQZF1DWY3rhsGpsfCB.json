@@ -228,6 +228,24 @@
     },
     {
       "album": {
+        "name": "Beautiful Love (Free Fire)",
+        "url": "https://open.spotify.com/album/3Dukyn15RlALh1JDtQRqO0"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207837,
+      "name": "Beautiful Love - Free Fire",
+      "url": "https://open.spotify.com/track/3e10Ct9oFcIdgFjkDUBV2k"
+    },
+    {
+      "album": {
         "name": "Beauty In The Madness",
         "url": "https://open.spotify.com/album/3kMARMOndO5NMBDU37J4G8"
       },
@@ -773,7 +791,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 152523,
       "name": "I Got You",
       "url": "https://open.spotify.com/track/7vF63z20Gyd0oZU8jYqGgX"
@@ -1592,6 +1610,32 @@
     },
     {
       "album": {
+        "name": "SETE (feat. Young Stunna & Blxckie)",
+        "url": "https://open.spotify.com/album/7ceVgKif2FV49HL1u7qxlG"
+      },
+      "artists": [
+        {
+          "name": "K.O",
+          "url": "https://open.spotify.com/artist/3ilw3NJXRWd153LIBsme1z"
+        },
+        {
+          "name": "Young Stunna",
+          "url": "https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ"
+        },
+        {
+          "name": "Blxckie",
+          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249533,
+      "name": "SETE (feat. Young Stunna & Blxckie)",
+      "url": "https://open.spotify.com/track/5mXZz0tXIToxu3HRohrdSK"
+    },
+    {
+      "album": {
         "name": "Shakara",
         "url": "https://open.spotify.com/album/2IAaPLIeM9CHUzqrTllGJI"
       },
@@ -1893,7 +1937,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 195976,
       "name": "Wickedest (feat. Haile)",
       "url": "https://open.spotify.com/track/4BDCfO09NqfpGM9cbFi9Ef"

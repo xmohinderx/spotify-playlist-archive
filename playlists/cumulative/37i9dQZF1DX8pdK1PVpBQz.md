@@ -4,7 +4,7 @@
 
 > Discover something new from local independent artists on the rise\. Cover: Elizabeth M Drummond Artwork: Isu Kim
 
-1,179 songs - 2 day 17 hr 12 min - [published](https://open.spotify.com/playlist/6SzaS17cgVZQMPJsRPmBsR)
+1,181 songs - 2 day 17 hr 19 min - [published](https://open.spotify.com/playlist/6SzaS17cgVZQMPJsRPmBsR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,7 +192,8 @@
 | [Cant Live Without You](https://open.spotify.com/track/1euDJh9CIeCTiYYWxAR1jn) | [Triangle Head](https://open.spotify.com/artist/3EyqyLIH9AptdFA4MAeUt7) | [Cant Live Without You](https://open.spotify.com/album/7sAxqIvE7jcX7cW00SgQfV) | 3:46 | 2022-03-23 | 2022-04-14 |
 | [CARE](https://open.spotify.com/track/5QRXdYWeTnJ5NQeO1GGgW3) | [CHISEKO](https://open.spotify.com/artist/5Z7R9YTOZFv7zC9Ns1gPMS), [Your Girl Pho](https://open.spotify.com/artist/5PqOO6WkdOrWgmvDinM2mc) | [CARE](https://open.spotify.com/album/6aiG6lqNOXbZscZaAO0225) | 3:16 | 2022-02-16 | 2022-03-10 |
 | [Care Too Much](https://open.spotify.com/track/7nxyOFmn57FrSek6DkU5Gd) | [jas.](https://open.spotify.com/artist/35m7eRKwhoNWAGSPop4m8J) | [Care Too Much](https://open.spotify.com/album/0uUbdsiNa87MAPCeYDU3vP) | 3:23 | 2022-03-01 | 2022-03-24 |
-| [Catch Up](https://open.spotify.com/track/77pajJBvdYbu5dYWmvUys6) | [Aodhan](https://open.spotify.com/artist/3rlMJg2MzNFDMUoupg8EPB) | [Catch Up](https://open.spotify.com/album/30I1YapFpqStMAL2sCa2jz) | 3:37 | 2022-08-31 |  |
+| [Catch Up](https://open.spotify.com/track/0MFqoTrvJfCzxSbwTRZPCv) | [Aodhan](https://open.spotify.com/artist/3rlMJg2MzNFDMUoupg8EPB) | [Catch Up](https://open.spotify.com/album/46vWvnCkl7dXbBiMHh16Vj) | 3:37 | 2022-09-02 |  |
+| [Catch Up](https://open.spotify.com/track/77pajJBvdYbu5dYWmvUys6) | [Aodhan](https://open.spotify.com/artist/3rlMJg2MzNFDMUoupg8EPB) | [Catch Up](https://open.spotify.com/album/30I1YapFpqStMAL2sCa2jz) | 3:37 | 2022-08-31 | 2022-09-03 |
 | [CEO](https://open.spotify.com/track/430r2J61kgNMepgBGB40RR) | [ZedYou](https://open.spotify.com/artist/197mhSTWX1hoHUyY4JMuuq) | [CEO](https://open.spotify.com/album/2lRVtsUReYzvL5ndArytbi) | 2:21 | 2022-05-04 | 2022-05-12 |
 | [CHAINS](https://open.spotify.com/track/2q4mCp49FNXqQaYtWf6MnV) | [Sailor Goon](https://open.spotify.com/artist/1FZj2HbeTP7F5xOqIrPKKZ) | [CHAINS](https://open.spotify.com/album/4fovs2ukI9qKs6Sux2tDl1) | 2:26 | 2022-03-23 | 2022-04-07 |
 | [CHAMPAGNE](https://open.spotify.com/track/4m7oYzwLhwFI5DCBhvAj2l) | [Lukan Raisey](https://open.spotify.com/artist/0bwxbNKufvEMi1wcb5dkMR), [Stone ii](https://open.spotify.com/artist/0gT9h6RKIly0WCPC25bEWn) | [DEAR LOVE](https://open.spotify.com/album/4sVORN27CWU5R5OKaEH6gA) | 2:40 | 2022-07-06 | 2022-07-28 |
@@ -530,6 +531,7 @@
 | [In 10,000 Places](https://open.spotify.com/track/2MThJYGRpWfPmfdK04VrjQ) | [Jennifer Loveless](https://open.spotify.com/artist/2Vsiki0qM11ADccRwwvS1c) | [In 10,000 Places](https://open.spotify.com/album/7F67kb9cW8j6aT5OksMoCS) | 6:35 | 2021-12-28 | 2022-01-13 |
 | [In Limbo](https://open.spotify.com/track/6lUTqculiTLkrKuurgLu9c) | [Holo](https://open.spotify.com/artist/5PrWAhH8BO28ieKNfYYFEX) | [In Limbo](https://open.spotify.com/album/4Gfx69HAAqJBnh4XSrjpcn) | 7:39 | 2022-03-16 | 2022-04-07 |
 | [In Our Own Backyard](https://open.spotify.com/track/4ApefEche3lwf2eSiptDAR) | [TUSHAR](https://open.spotify.com/artist/4Z4QSQuaIocs1CPUEM8shD) | [In Our Own Backyard](https://open.spotify.com/album/095Z4UO1NFP2FFrR9VYqj7) | 3:32 | 2022-05-25 | 2022-06-16 |
+| [IN THE HIVE](https://open.spotify.com/track/1IpFfFgEsiTlG5VWJv7ga5) | [DIVEBAR YOUTH](https://open.spotify.com/artist/3KtqczwOaFO6xJUEZ0UvYT) | [IN THE HIVE](https://open.spotify.com/album/6n5SPV276zNnLHA0mFyb7P) | 2:39 | 2022-09-02 |  |
 | [In the Moment](https://open.spotify.com/track/0CLaKNUF7Ufhh4p7IyX0Ae) | [RIIKI](https://open.spotify.com/artist/5E9EpWliOZr1yTJ8A7XSqC) | [In the Moment](https://open.spotify.com/album/2lHl2GkCwbBEQ7xbSeMFCU) | 2:59 | 2021-12-28 | 2022-01-13 |
 | [Indigo](https://open.spotify.com/track/7t10EOFwsClvZED8zuOXkn) | [Chores](https://open.spotify.com/artist/1iRqRj6wAq5wAAjfzpbH1I), [Rei](https://open.spotify.com/artist/09eBKIxIhMym3kxJyDnVXh) | [Indigo](https://open.spotify.com/album/04A2stsemHV2CBnZidmRrJ) | 3:15 | 2022-04-13 | 2022-05-12 |
 | [Information Overload](https://open.spotify.com/track/2RyGZxXzjQhsjcuApmpoA9) | [PLANET](https://open.spotify.com/artist/00BZcQJXuUSMVEB9FVqgUl) | [Information Overload](https://open.spotify.com/album/2Yt5ndaIxP0QvEq7WlViie) | 2:44 | 2022-01-25 | 2022-02-10 |

@@ -1168,6 +1168,24 @@
     },
     {
       "album": {
+        "name": "Isola Bella",
+        "url": "https://open.spotify.com/album/1usC9bDEEJ79QAVmg1FoCx"
+      },
+      "artists": [
+        {
+          "name": "Laura Di Vaio",
+          "url": "https://open.spotify.com/artist/0fsOkzhBJjiWTWcHuuC9O6"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109254,
+      "name": "Isola Bella",
+      "url": "https://open.spotify.com/track/3JlL4o7hhUC2eWOByAdbk1"
+    },
+    {
+      "album": {
         "name": "It Started With A Simple Hello",
         "url": "https://open.spotify.com/album/3mb2nHbWyloy0dzdjlm3Fd"
       },

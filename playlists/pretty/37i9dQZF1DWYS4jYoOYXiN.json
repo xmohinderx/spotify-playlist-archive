@@ -1,12 +1,12 @@
 {
   "description": "We like it like that! Cover: Pete Rodriguez (Courtesy of Fania)",
-  "num_followers": 57704,
+  "num_followers": 57748,
   "original_name": "Boogaloo Essentials",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTQ3ODM5MiwwMDAwMDAwMGQ2MDkzYjE2ZjZmNWVhNTQzM2U1Zjk3YTFiOGRmMDg5",
+  "snapshot_id": "MTY0OTQ3ODM5MiwwMDAwMDAwMDRkOWYyNTM5MTQzNTAyYzlmZWYwOTdmNTRjODA5NWJk",
   "tracks": [
     {
       "added_at": "2022-04-09 04:26:32",
@@ -227,26 +227,6 @@
     {
       "added_at": "2022-04-09 04:26:32",
       "album": {
-        "name": "Conga Blue",
-        "url": "https://open.spotify.com/album/07nnA2Zlxl32A0CIB2qxlf"
-      },
-      "artists": [
-        {
-          "name": "Poncho Sanchez",
-          "url": "https://open.spotify.com/artist/7wIvJyLDNfkgdKFVxJl5tL"
-        },
-        {
-          "name": "Mongo Santamaria",
-          "url": "https://open.spotify.com/artist/2oVwztjpHpJlAvlVVuqVa0"
-        }
-      ],
-      "duration_ms": 225960,
-      "name": "Watermelon Man",
-      "url": "https://open.spotify.com/track/5ZCHcxVW3vMPzJMTW9wBpc"
-    },
-    {
-      "added_at": "2022-04-09 04:26:32",
-      "album": {
         "name": "Anthology",
         "url": "https://open.spotify.com/album/3ukST4dz4n39IwgDiFTk8x"
       },
@@ -267,6 +247,26 @@
     {
       "added_at": "2022-04-09 04:26:32",
       "album": {
+        "name": "Conga Blue",
+        "url": "https://open.spotify.com/album/07nnA2Zlxl32A0CIB2qxlf"
+      },
+      "artists": [
+        {
+          "name": "Poncho Sanchez",
+          "url": "https://open.spotify.com/artist/7wIvJyLDNfkgdKFVxJl5tL"
+        },
+        {
+          "name": "Mongo Santamaria",
+          "url": "https://open.spotify.com/artist/2oVwztjpHpJlAvlVVuqVa0"
+        }
+      ],
+      "duration_ms": 225960,
+      "name": "Watermelon Man",
+      "url": "https://open.spotify.com/track/5ZCHcxVW3vMPzJMTW9wBpc"
+    },
+    {
+      "added_at": "2022-04-09 04:26:32",
+      "album": {
         "name": "Talkin' Verve",
         "url": "https://open.spotify.com/album/5tUnjO8Xd6oEhQ0E8Kp6WU"
       },
@@ -283,22 +283,6 @@
     {
       "added_at": "2021-09-07 18:02:03",
       "album": {
-        "name": "Champagne",
-        "url": "https://open.spotify.com/album/1KZtrO0xrq8lzs8SFBNMg6"
-      },
-      "artists": [
-        {
-          "name": "Eddie Palmieri",
-          "url": "https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C"
-        }
-      ],
-      "duration_ms": 209440,
-      "name": "Ay Qu\u00e9 Rico",
-      "url": "https://open.spotify.com/track/5RQpdEGQXehE1P95XzghLf"
-    },
-    {
-      "added_at": "2021-09-07 18:02:03",
-      "album": {
         "name": "Joey",
         "url": "https://open.spotify.com/album/2N69ERhN11ludnptsYs16c"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 452373,
       "name": "That's How Rumors Start",
       "url": "https://open.spotify.com/track/51TS79ehSs5WDLIm0YWRRv"
+    },
+    {
+      "added_at": "2021-09-07 18:02:03",
+      "album": {
+        "name": "Champagne",
+        "url": "https://open.spotify.com/album/1KZtrO0xrq8lzs8SFBNMg6"
+      },
+      "artists": [
+        {
+          "name": "Eddie Palmieri",
+          "url": "https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C"
+        }
+      ],
+      "duration_ms": 209440,
+      "name": "Ay Qu\u00e9 Rico",
+      "url": "https://open.spotify.com/track/5RQpdEGQXehE1P95XzghLf"
     },
     {
       "added_at": "2022-04-09 04:26:32",

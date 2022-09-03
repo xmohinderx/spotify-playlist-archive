@@ -1441,7 +1441,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 217258,
       "name": "Eternity (feat. Lena Leon)",
       "url": "https://open.spotify.com/track/7DDIVNWlbGJpQjVDDg8rXR"
@@ -3147,7 +3147,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 197052,
       "name": "Make Me Move",
       "url": "https://open.spotify.com/track/5ZAUiOlYURVJEJ5ktV03v5"
@@ -3741,7 +3741,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 199111,
       "name": "PEW PEW",
       "url": "https://open.spotify.com/track/0VUiaSYJJgUF0JvweD6Mr9"
@@ -3946,6 +3946,28 @@
     },
     {
       "album": {
+        "name": "RAGNAROK",
+        "url": "https://open.spotify.com/album/45pOAmgOLYGcAU9r4yscc9"
+      },
+      "artists": [
+        {
+          "name": "chyxz",
+          "url": "https://open.spotify.com/artist/6iWgYyd1erLvfDuafIT9DG"
+        },
+        {
+          "name": "SLOWYMANE",
+          "url": "https://open.spotify.com/artist/2pw1uH6zGd0WlW4DNlFRMu"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195714,
+      "name": "RAGNAROK",
+      "url": "https://open.spotify.com/track/1sWb35nydLCjD71JGURDEv"
+    },
+    {
+      "album": {
         "name": "Rainbow Tears",
         "url": "https://open.spotify.com/album/26DOC6q64fqWFgwR3QJNt8"
       },
@@ -4107,6 +4129,32 @@
       "duration_ms": 207627,
       "name": "Rose Colored Lenses",
       "url": "https://open.spotify.com/track/3bS1DYVMpJbMusBlDN2MUh"
+    },
+    {
+      "album": {
+        "name": "Royalty",
+        "url": "https://open.spotify.com/album/5fNgtPuw6QFGW7M9FdOX5x"
+      },
+      "artists": [
+        {
+          "name": "Egzod",
+          "url": "https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6"
+        },
+        {
+          "name": "Maestro Chives",
+          "url": "https://open.spotify.com/artist/1HD6q5dxREv64GOc3H7vBs"
+        },
+        {
+          "name": "Neoni",
+          "url": "https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223520,
+      "name": "Royalty",
+      "url": "https://open.spotify.com/track/7kUljt0NM5sISL3OGNVxYd"
     },
     {
       "album": {
@@ -4337,6 +4385,28 @@
       "duration_ms": 182857,
       "name": "Seduce / Destroy",
       "url": "https://open.spotify.com/track/1eG6ogBMDCT36ciEocKV8V"
+    },
+    {
+      "album": {
+        "name": "SHADOW",
+        "url": "https://open.spotify.com/album/4w0uRvtIjqipuoZ7ngqqcV"
+      },
+      "artists": [
+        {
+          "name": "ONIMXRU",
+          "url": "https://open.spotify.com/artist/3ysIyoivMDpeqLg0VMRPQw"
+        },
+        {
+          "name": "SMITHMANE",
+          "url": "https://open.spotify.com/artist/5WOke44Ea57bHmJ3X0qluG"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162041,
+      "name": "SHADOW",
+      "url": "https://open.spotify.com/track/0wGbyS1tExQSwOYu6UceyE"
     },
     {
       "album": {
@@ -4798,6 +4868,24 @@
     },
     {
       "album": {
+        "name": "SUNRISE (Slowed + Reverb)",
+        "url": "https://open.spotify.com/album/2tiHE58yMuZI1wiygJxxSM"
+      },
+      "artists": [
+        {
+          "name": "Xantesha",
+          "url": "https://open.spotify.com/artist/2rgcNuLkn8pPBdKZhjZ8Em"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138857,
+      "name": "SUNRISE (Slowed + Reverb)",
+      "url": "https://open.spotify.com/track/0G17UriYHMjXnZE2OJJSMR"
+    },
+    {
+      "album": {
         "name": "Superhero",
         "url": "https://open.spotify.com/album/2H6vrT8YGOtWEZgj0DmJSm"
       },
@@ -5179,7 +5267,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 186150,
       "name": "Therapy",
       "url": "https://open.spotify.com/track/5q7AR3TkyCxlgxAjBMu4yL"

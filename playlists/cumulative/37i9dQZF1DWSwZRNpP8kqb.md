@@ -4,7 +4,7 @@
 
 > Cantoras y compositoras de nuestra tierra, con Sele Vera en portada.
 
-91 songs - 5 hr 27 min - [published](https://open.spotify.com/playlist/7nXcjXNUK7S3A7KHXp1lNb)
+92 songs - 5 hr 31 min - [published](https://open.spotify.com/playlist/7nXcjXNUK7S3A7KHXp1lNb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Cuequita del Desengaño](https://open.spotify.com/track/5Kr39KxODTjvdNQ66XFyJm) | [Mariana Carrizo](https://open.spotify.com/artist/4CacTDAcLCUIscmGzoQE4z) | [Coplas de Sangre](https://open.spotify.com/album/011zFfQ0I8631cVIxfNyTn) | 2:45 | 2022-01-14 | 2022-07-29 |
 | [Cómo Pájaros en el Aire](https://open.spotify.com/track/5ZA0iEXMqSs7f9YzRnqj1u) | [Anabella Zoch](https://open.spotify.com/artist/7hxv4viTwAh1SxAFcB2u2v) | [Espejo de Amor: Anabella Zoch Canta a Peteco Carabajal](https://open.spotify.com/album/5EvslgD1DNVwI7OOXBGviw) | 4:27 | 2022-01-14 |  |
 | [De Los Dias, Los Mas Lindos](https://open.spotify.com/track/2YtgcLaJPgUjAyJD3mAVFW) | [Veronica Condomi](https://open.spotify.com/artist/0HRRgz3RdNIFJUaeo811Be) | [Remedio Pal Alma](https://open.spotify.com/album/7qSASpxrhn4SARBSSprDQi) | 3:38 | 2022-01-14 |  |
-| [Devuélveme el Corazón](https://open.spotify.com/track/2dT7KgU7h8wzK7u6PT7IFA) | [Sele Vera y Pampas de Bariloche](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [Devuélveme el Corazón](https://open.spotify.com/album/1SEH9Nm2xKk3gtlqIdwZS0) | 3:00 | 2022-06-10 |  |
+| [Devuélveme el Corazón](https://open.spotify.com/track/2dT7KgU7h8wzK7u6PT7IFA) | [Sele Vera y Pampas de Bariloche](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [Devuélveme el Corazón](https://open.spotify.com/album/1SEH9Nm2xKk3gtlqIdwZS0) | 3:00 | 2022-06-10 | 2022-09-03 |
 | [Diez Noches de Desvelo](https://open.spotify.com/track/02qaC2Zfs9QQileRKT8Md9) | [Sele Vera y Pampas de Bariloche](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [El Amor Es Así](https://open.spotify.com/album/4KTEFtNZMvkzVYg21OntrQ) | 2:56 | 2022-07-08 |  |
 | [Disfruto \(En Vivo, Teatro Provincial J.C.Saravia \- Salta\)](https://open.spotify.com/track/1JG6hhiK0IY5KgpYBRTG5u) | [Sele Vera y Los Pampas](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [En Vivo, Teatro Provincial J.C.Saravia \- Salta \(Pt\. 3\)](https://open.spotify.com/album/3jzgWB3dDYbzk5QED3TcGy) | 3:06 | 2022-02-25 | 2022-07-29 |
 | [Distinto](https://open.spotify.com/track/3VtRTDL0ecFzROdU4IQ6cD) | [Teresa Parodi](https://open.spotify.com/artist/4D56DujhnBViJ4oYCSl1GK) | [Distinto](https://open.spotify.com/album/1UL1AsHbjRw2Wu8hASGPfP) | 3:46 | 2022-01-14 |  |
@@ -69,6 +69,7 @@
 | [Luna De Cabotaje](https://open.spotify.com/track/5qn2JqkaXBDhDSsAxiiiON) | [Sylvia Zabzuk](https://open.spotify.com/artist/2ZJNcuNJm104OqLjD9LY3M) | [De Piedra y Agua](https://open.spotify.com/album/6BOdeQ0LrixZT3UngksPJZ) | 5:19 | 2022-01-14 |  |
 | [Maria Sabina](https://open.spotify.com/track/59WZZenkOSwmCN1BzbXHBO) | [Paola Bernal](https://open.spotify.com/artist/4tL93YWLvL0kNlg42d6I8f) | [Pajaro Rojo](https://open.spotify.com/album/30CNaOBBICXPs1CcmqC0RL) | 4:59 | 2022-01-14 |  |
 | [Mate Con Cedrón](https://open.spotify.com/track/1leD3TsB3nNofcOwqHQHnG) | [Marité Berbel](https://open.spotify.com/artist/36qkmiSQko9dzUPJXFKueU) | [Sigo Soñando](https://open.spotify.com/album/55OtrniFRuCVB1rh7rxDnA) | 2:50 | 2022-01-14 |  |
+| [Mi Loco Amor](https://open.spotify.com/track/2IkjSf9VxQAA7uSipkNsOJ) | [Sele Vera y Pampas de Bariloche](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [Mi Loco Amor](https://open.spotify.com/album/6oNvO33sdfOdnE2o2RLP62) | 3:33 | 2022-09-02 |  |
 | [Morenito](https://open.spotify.com/track/4JeNZ4z648L1D1c2Gdlt8h) | [Flor Paz](https://open.spotify.com/artist/6tbaPxePAN1xMs9T7Z2b26) | [Soy Semilla](https://open.spotify.com/album/5OM1ghjw8slI1C0dX9OmOD) | 3:34 | 2022-01-14 |  |
 | [Ojalá te enamores](https://open.spotify.com/track/3DouRunRt5ZRorT4K1rTfI) | [Ariadna Prime](https://open.spotify.com/artist/1TVF9sJWVWR6TmGHeYUVjY) | [Noche, día y madrugada](https://open.spotify.com/album/6CunOUfNEYq1oIiUP4ImDc) | 3:13 | 2022-01-14 |  |
 | [Oración Del Remanso](https://open.spotify.com/track/7qzvssyQLOwo1fycCSEQCK) | [Liliana Herrero](https://open.spotify.com/artist/6iqeypk1XRa2zQVRcIVmlF) | [Confesion del Viento](https://open.spotify.com/album/0TgYYZdef8PHVqbaB8FLKe) | 4:28 | 2022-01-14 |  |

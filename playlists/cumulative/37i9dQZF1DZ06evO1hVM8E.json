@@ -651,7 +651,7 @@
       ],
       "date_added": "2022-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-02",
+      "date_removed": null,
       "duration_ms": 151053,
       "name": "La Chica Fresa",
       "url": "https://open.spotify.com/track/4CLffwkFj6NNeB3i9sEBrT"
@@ -875,7 +875,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 213640,
       "name": "Los Traficantes",
       "url": "https://open.spotify.com/track/03baQe85J4C8PH6TNTUcUC"
@@ -947,7 +947,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-27",
+      "date_removed": null,
       "duration_ms": 191533,
       "name": "Ma\u00f1ana Se Lo Digo",
       "url": "https://open.spotify.com/track/0MxxcP0LDkam6gHgFFerOX"
@@ -1037,7 +1037,7 @@
       ],
       "date_added": "2022-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 179586,
       "name": "Negrita Eae",
       "url": "https://open.spotify.com/track/4GhYLLUuRKMgK8oSApgAO4"
@@ -1055,7 +1055,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 274314,
       "name": "No Dejes Que",
       "url": "https://open.spotify.com/track/729wxTN5RenV8HLAjXZhTo"
@@ -1323,6 +1323,28 @@
       "duration_ms": 220146,
       "name": "Sin Pensar Yo Te Enga\u00f1\u00e9",
       "url": "https://open.spotify.com/track/2TPOVXCnOQtJSY6GmHYA1z"
+    },
+    {
+      "album": {
+        "name": "Te Llevaste Lo Mejor",
+        "url": "https://open.spotify.com/album/113eqLjB58bCdPOBjTYVsh"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        },
+        {
+          "name": "Joel Elizalde",
+          "url": "https://open.spotify.com/artist/55EA5tfk6pyYA7L6Hgb5Nr"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228778,
+      "name": "Te Llevaste Lo Mejor",
+      "url": "https://open.spotify.com/track/1ghKTQnQ3eK4PCz1sCdNoa"
     },
     {
       "album": {

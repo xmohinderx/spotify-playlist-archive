@@ -1,13 +1,61 @@
 {
-  "description": "The hottest out the south. Cover: EST Gee",
-  "num_followers": 1083857,
+  "description": "The hottest out the south. Cover: DaBaby",
+  "num_followers": 1084026,
   "original_name": "No Cap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQ4NjQ2MCwwMDAwMDAwMDg5ZDhhZDRmMmU2ZTcwOWZhYWU5NjUzNzBkYWM3ODBl",
+  "snapshot_id": "MTY2MjA5MTIwMCwwMDAwMDAwMGI4YjE1ODc2NjEwZDNkMDM4YTU2NzU0NGViYzYyNDE1",
   "tracks": [
+    {
+      "added_at": "2022-09-02 04:00:00",
+      "album": {
+        "name": "Detox",
+        "url": "https://open.spotify.com/album/4y77zrDMRkZznufMBScSal"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 161636,
+      "name": "Detox",
+      "url": "https://open.spotify.com/track/7fSM2taFBEB1WNZl8AOIoo"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "Haitian Scarface",
+        "url": "https://open.spotify.com/album/0Dvd4RQ44MBoK0eslFXDpP"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 145245,
+      "name": "Haitian Scarface",
+      "url": "https://open.spotify.com/track/6HW0HSK7j7FHeFlxqNdKR4"
+    },
+    {
+      "added_at": "2022-09-02 04:00:00",
+      "album": {
+        "name": "Hell",
+        "url": "https://open.spotify.com/album/1F5dynTBqwMT46sY4OcvO6"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "duration_ms": 139265,
+      "name": "Hell",
+      "url": "https://open.spotify.com/track/5X79uZsOrtg2iolPYhqeUa"
+    },
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
@@ -33,20 +81,40 @@
       "url": "https://open.spotify.com/track/6pr7X9UZCDn8CruopaNVha"
     },
     {
-      "added_at": "2022-08-12 04:00:00",
+      "added_at": "2022-08-05 04:00:00",
       "album": {
-        "name": "Haitian Scarface",
-        "url": "https://open.spotify.com/album/0Dvd4RQ44MBoK0eslFXDpP"
+        "name": "Who is Nardo Wick?? (Deluxe)",
+        "url": "https://open.spotify.com/album/47Thm1tltjJVofuRumhfmi"
       },
       "artists": [
         {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+          "name": "Nardo Wick",
+          "url": "https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN"
         }
       ],
-      "duration_ms": 145245,
-      "name": "Haitian Scarface",
-      "url": "https://open.spotify.com/track/6HW0HSK7j7FHeFlxqNdKR4"
+      "duration_ms": 151776,
+      "name": "Dah Dah DahDah",
+      "url": "https://open.spotify.com/track/2TSfStvlAMLw89u3tali79"
+    },
+    {
+      "added_at": "2022-09-02 04:00:00",
+      "album": {
+        "name": "Look Ma I Did It",
+        "url": "https://open.spotify.com/album/6anFwVV3gBuCNINmz4Vnvz"
+      },
+      "artists": [
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "name": "Baby Racks",
+          "url": "https://open.spotify.com/artist/768KV6PLzzcqy1CRCMFUNW"
+        }
+      ],
+      "duration_ms": 207786,
+      "name": "Look Ma I Did It",
+      "url": "https://open.spotify.com/track/0JvnmNjMnTQMRizhrKzMSO"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -63,22 +131,6 @@
       "duration_ms": 169306,
       "name": "From Nothing",
       "url": "https://open.spotify.com/track/5RtOqP26S4KrWexNolBaQc"
-    },
-    {
-      "added_at": "2022-08-05 04:00:00",
-      "album": {
-        "name": "Who is Nardo Wick?? (Deluxe)",
-        "url": "https://open.spotify.com/album/47Thm1tltjJVofuRumhfmi"
-      },
-      "artists": [
-        {
-          "name": "Nardo Wick",
-          "url": "https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN"
-        }
-      ],
-      "duration_ms": 151776,
-      "name": "Dah Dah DahDah",
-      "url": "https://open.spotify.com/track/2TSfStvlAMLw89u3tali79"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -115,6 +167,22 @@
       "duration_ms": 238333,
       "name": "Hall of Fame",
       "url": "https://open.spotify.com/track/0ehikRZdaCWkqg5gd8ilMJ"
+    },
+    {
+      "added_at": "2022-09-02 04:00:00",
+      "album": {
+        "name": "Little Miss",
+        "url": "https://open.spotify.com/album/2yJNQq4qviVMcukvnoFEzy"
+      },
+      "artists": [
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        }
+      ],
+      "duration_ms": 190370,
+      "name": "Little Miss",
+      "url": "https://open.spotify.com/track/3Tv0qk6Zz09z8tueWLRW3i"
     },
     {
       "added_at": "2022-06-24 04:01:00",
@@ -189,6 +257,26 @@
       "url": "https://open.spotify.com/track/1glNxnW018oGrJoYRHQV9Q"
     },
     {
+      "added_at": "2022-09-02 04:00:00",
+      "album": {
+        "name": "I Ain\u2019t Gone Hold Ya",
+        "url": "https://open.spotify.com/album/3ZuQtnBkECX096kcyhoISC"
+      },
+      "artists": [
+        {
+          "name": "DJ Drama",
+          "url": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+        },
+        {
+          "name": "Jeezy",
+          "url": "https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH"
+        }
+      ],
+      "duration_ms": 139370,
+      "name": "I Ain\u2019t Gone Hold Ya",
+      "url": "https://open.spotify.com/track/2jCQXY0zjBdSpp12egn0Wo"
+    },
+    {
       "added_at": "2022-08-26 04:01:00",
       "album": {
         "name": "GOD DID",
@@ -227,6 +315,26 @@
       "duration_ms": 132018,
       "name": "WAITRESS",
       "url": "https://open.spotify.com/track/6I5DkMtgMjN6k270nRwNEl"
+    },
+    {
+      "added_at": "2022-09-02 04:00:00",
+      "album": {
+        "name": "No Mind",
+        "url": "https://open.spotify.com/album/7whE3mVgEdIUitoZZgc7A2"
+      },
+      "artists": [
+        {
+          "name": "Rot Ken",
+          "url": "https://open.spotify.com/artist/64WnGi9H0Xc2RCGbjYAFd5"
+        },
+        {
+          "name": "jetsonmade",
+          "url": "https://open.spotify.com/artist/0UcXjTpzt0DmIwPSNwlJfF"
+        }
+      ],
+      "duration_ms": 161052,
+      "name": "No Mind",
+      "url": "https://open.spotify.com/track/2g7RAqIAWvejbBMiv0qYHj"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -337,6 +445,26 @@
       "url": "https://open.spotify.com/track/0TaoUjbYZUEKK20zgy4bca"
     },
     {
+      "added_at": "2022-09-02 04:00:00",
+      "album": {
+        "name": "Give Me A Sign",
+        "url": "https://open.spotify.com/album/2zGi3DyjpXt2MGubp54aQ0"
+      },
+      "artists": [
+        {
+          "name": "Quando Rondo",
+          "url": "https://open.spotify.com/artist/4IprNlQiJZUUJhDl0fL2SL"
+        },
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "duration_ms": 169010,
+      "name": "Give Me A Sign",
+      "url": "https://open.spotify.com/track/5jghmO5j7lvR10i0WrWZpg"
+    },
+    {
       "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "Dissin the Dead",
@@ -367,50 +495,6 @@
       "duration_ms": 163630,
       "name": "Pip N' Walk",
       "url": "https://open.spotify.com/track/5trKhl8w5Rcg8wbenmmlWj"
-    },
-    {
-      "added_at": "2022-08-05 04:00:00",
-      "album": {
-        "name": "STAYING ALIVE (feat. Drake & Lil Baby)",
-        "url": "https://open.spotify.com/album/0oEsQwXJhNbbb8VT0xOMok"
-      },
-      "artists": [
-        {
-          "name": "DJ Khaled",
-          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 178176,
-      "name": "STAYING ALIVE (feat. Drake & Lil Baby)",
-      "url": "https://open.spotify.com/track/0g2Bbgy7P41pFjMWJuzsf4"
-    },
-    {
-      "added_at": "2022-06-03 04:00:00",
-      "album": {
-        "name": "Keep Dissing 2 (with Lil Durk)",
-        "url": "https://open.spotify.com/album/5Xt2jd95PhUWTLXoy2pyJN"
-      },
-      "artists": [
-        {
-          "name": "Real Boston Richey",
-          "url": "https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi"
-        },
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        }
-      ],
-      "duration_ms": 173683,
-      "name": "Keep Dissing 2 (with Lil Durk)",
-      "url": "https://open.spotify.com/track/68ccsqXPhYGGTQ1RVDDtOh"
     },
     {
       "added_at": "2022-08-05 04:00:00",
@@ -483,46 +567,6 @@
       "duration_ms": 136980,
       "name": "Wet",
       "url": "https://open.spotify.com/track/4RCwUGboTNqqrY2tgy37nF"
-    },
-    {
-      "added_at": "2022-07-15 04:01:00",
-      "album": {
-        "name": "Groovy (feat. Fivio Foreign)",
-        "url": "https://open.spotify.com/album/6Qa5jPHgdY6NW3P4tY7ej9"
-      },
-      "artists": [
-        {
-          "name": "Seddy Hendrinx",
-          "url": "https://open.spotify.com/artist/4TYOMrAFzxu8wO0yLIpOm4"
-        },
-        {
-          "name": "Fivio Foreign",
-          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
-        }
-      ],
-      "duration_ms": 214849,
-      "name": "Groovy (feat. Fivio Foreign)",
-      "url": "https://open.spotify.com/track/7Fp4m0ZcpES3hb99q4WQII"
-    },
-    {
-      "added_at": "2022-07-08 04:00:00",
-      "album": {
-        "name": "Live Life Die Faster (with Kodak Black)",
-        "url": "https://open.spotify.com/album/2iAZ2v69xjK5mz9ndKywVr"
-      },
-      "artists": [
-        {
-          "name": "Hotboii",
-          "url": "https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l"
-        },
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 180002,
-      "name": "Live Life Die Faster (with Kodak Black)",
-      "url": "https://open.spotify.com/track/79TJ0JoYhZYJLEozMVrT0T"
     },
     {
       "added_at": "2022-08-05 04:00:00",
@@ -631,22 +675,6 @@
       "duration_ms": 176728,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/6B2Uwx4edHAudfLdL82tlT"
-    },
-    {
-      "added_at": "2022-07-08 04:00:00",
-      "album": {
-        "name": "Diapers",
-        "url": "https://open.spotify.com/album/6sNwECVSTPQloh3A4ZKnss"
-      },
-      "artists": [
-        {
-          "name": "Key Glock",
-          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
-        }
-      ],
-      "duration_ms": 121653,
-      "name": "Diapers",
-      "url": "https://open.spotify.com/track/3zXZcKgkvMcQpRZclhprxS"
     },
     {
       "added_at": "2022-07-15 04:01:00",
@@ -851,38 +879,6 @@
       "duration_ms": 113844,
       "name": "Tomorrow",
       "url": "https://open.spotify.com/track/2RkyV0KXNLstEKn2qb1KZ6"
-    },
-    {
-      "added_at": "2022-07-22 04:00:00",
-      "album": {
-        "name": "You Still Here, Ho ?",
-        "url": "https://open.spotify.com/album/42C76ZnwdWqEu6zs6NFW1A"
-      },
-      "artists": [
-        {
-          "name": "Flo Milli",
-          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
-        }
-      ],
-      "duration_ms": 147525,
-      "name": "Big Steppa",
-      "url": "https://open.spotify.com/track/4wS4YABWUMDxcbImu3llWL"
-    },
-    {
-      "added_at": "2022-07-15 04:01:00",
-      "album": {
-        "name": "Right Back Out",
-        "url": "https://open.spotify.com/album/31xIfDFOWIDfO9pU9i1SuP"
-      },
-      "artists": [
-        {
-          "name": "Yung Mal",
-          "url": "https://open.spotify.com/artist/6m0MLa2Q5RwIF8R7nwQkQ2"
-        }
-      ],
-      "duration_ms": 204062,
-      "name": "Right Back Out",
-      "url": "https://open.spotify.com/track/3HEpCfvOH619LRMUTx2NxR"
     },
     {
       "added_at": "2022-07-29 04:01:00",

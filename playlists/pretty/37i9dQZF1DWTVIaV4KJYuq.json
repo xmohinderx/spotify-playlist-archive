@@ -1,12 +1,12 @@
 {
   "description": "All the classic songs you love\u2014covered. Cover: Brandi Carlile",
-  "num_followers": 642274,
+  "num_followers": 642260,
   "original_name": "Classic Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Mzk1MDkyMCwwMDAwMDAwMDM1Njk4YTY0NjhmMTYzMjFlMjE0NDMyM2ZlOWUzZWJk",
+  "snapshot_id": "MTY0Mzk1MDkyMCwwMDAwMDAwMDZjZGQ4NWViNzllZTVjMWZiMGU3YmY1ODgxOTMyNGJi",
   "tracks": [
     {
       "added_at": "2022-02-04 05:02:00",
@@ -439,6 +439,22 @@
     {
       "added_at": "2022-02-04 05:02:00",
       "album": {
+        "name": "I Melt with You",
+        "url": "https://open.spotify.com/album/2LtZ92MK0h2C1zJofjUMaQ"
+      },
+      "artists": [
+        {
+          "name": "Daulton Hopkins",
+          "url": "https://open.spotify.com/artist/2OKzhqOz5VFrrD1lCwfNSS"
+        }
+      ],
+      "duration_ms": 217344,
+      "name": "I Melt with You",
+      "url": "https://open.spotify.com/track/6uYFQyxZtCZih0aUfk1XdQ"
+    },
+    {
+      "added_at": "2022-02-04 05:02:00",
+      "album": {
         "name": "I Would Die 4 U",
         "url": "https://open.spotify.com/album/6DcwJRj8l5BvOpVjt7pLxS"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 180779,
       "name": "I Would Die 4 U",
       "url": "https://open.spotify.com/track/7exBqqAMs0t2xDETXYvBAH"
-    },
-    {
-      "added_at": "2022-02-04 05:02:00",
-      "album": {
-        "name": "I Melt with You",
-        "url": "https://open.spotify.com/album/2LtZ92MK0h2C1zJofjUMaQ"
-      },
-      "artists": [
-        {
-          "name": "Daulton Hopkins",
-          "url": "https://open.spotify.com/artist/2OKzhqOz5VFrrD1lCwfNSS"
-        }
-      ],
-      "duration_ms": 217344,
-      "name": "I Melt with You",
-      "url": "https://open.spotify.com/track/6uYFQyxZtCZih0aUfk1XdQ"
     },
     {
       "added_at": "2022-02-04 05:02:00",
@@ -623,22 +623,6 @@
     {
       "added_at": "2022-02-04 05:02:00",
       "album": {
-        "name": "The Essential The Chicks",
-        "url": "https://open.spotify.com/album/31St5diPbTZoCjOwWXSMWD"
-      },
-      "artists": [
-        {
-          "name": "The Chicks",
-          "url": "https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57"
-        }
-      ],
-      "duration_ms": 228480,
-      "name": "Landslide",
-      "url": "https://open.spotify.com/track/65nCVhtlWYUzNvcM1MYp4l"
-    },
-    {
-      "added_at": "2022-02-04 05:02:00",
-      "album": {
         "name": "Spotify Sessions",
         "url": "https://open.spotify.com/album/5cNnduB4QgrxQzaJvEuC8z"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 208198,
       "name": "Brandy (You're a Fine Girl)",
       "url": "https://open.spotify.com/track/3fORBfRj5nyTDvsCslufoH"
+    },
+    {
+      "added_at": "2022-02-04 05:02:00",
+      "album": {
+        "name": "The Essential The Chicks",
+        "url": "https://open.spotify.com/album/31St5diPbTZoCjOwWXSMWD"
+      },
+      "artists": [
+        {
+          "name": "The Chicks",
+          "url": "https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57"
+        }
+      ],
+      "duration_ms": 228480,
+      "name": "Landslide",
+      "url": "https://open.spotify.com/track/65nCVhtlWYUzNvcM1MYp4l"
     },
     {
       "added_at": "2022-02-04 05:02:00",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2022-02-04 05:02:00",
       "album": {
-        "name": "Sobrevolando",
-        "url": "https://open.spotify.com/album/3rCmFIVWG9ktkGhKNcZnli"
-      },
-      "artists": [
-        {
-          "name": "Cultura Prof\u00e9tica",
-          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
-        }
-      ],
-      "duration_ms": 308756,
-      "name": "Love and Happiness",
-      "url": "https://open.spotify.com/track/2Q4iDZrwPmn5aEqWFYyPR2"
-    },
-    {
-      "added_at": "2022-02-04 05:02:00",
-      "album": {
         "name": "I Remember Everything",
         "url": "https://open.spotify.com/album/3ei2zsbxwzra1rMmokmYZM"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 156146,
       "name": "I Remember Everything",
       "url": "https://open.spotify.com/track/1J6OHcQjnrD0upP4skciHO"
+    },
+    {
+      "added_at": "2022-02-04 05:02:00",
+      "album": {
+        "name": "Sobrevolando",
+        "url": "https://open.spotify.com/album/3rCmFIVWG9ktkGhKNcZnli"
+      },
+      "artists": [
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        }
+      ],
+      "duration_ms": 308756,
+      "name": "Love and Happiness",
+      "url": "https://open.spotify.com/track/2Q4iDZrwPmn5aEqWFYyPR2"
     },
     {
       "added_at": "2022-02-04 05:02:00",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2022-02-04 05:02:00",
       "album": {
-        "name": "Vignettes",
-        "url": "https://open.spotify.com/album/3q2dNzIenzJnFyDmV7cY3M"
-      },
-      "artists": [
-        {
-          "name": "Wesley Schultz",
-          "url": "https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX"
-        }
-      ],
-      "duration_ms": 256798,
-      "name": "My City of Ruins",
-      "url": "https://open.spotify.com/track/0F8Ec2ppXwQxDEdMRWEVaX"
-    },
-    {
-      "added_at": "2022-02-04 05:02:00",
-      "album": {
         "name": "Both Sides Now",
         "url": "https://open.spotify.com/album/7vlApA4V6FDavmJBpr3R5N"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 257941,
       "name": "Both Sides Now",
       "url": "https://open.spotify.com/track/0d5tb0XcClqZo7CJ4GQuBm"
+    },
+    {
+      "added_at": "2022-02-04 05:02:00",
+      "album": {
+        "name": "Vignettes",
+        "url": "https://open.spotify.com/album/3q2dNzIenzJnFyDmV7cY3M"
+      },
+      "artists": [
+        {
+          "name": "Wesley Schultz",
+          "url": "https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX"
+        }
+      ],
+      "duration_ms": 256798,
+      "name": "My City of Ruins",
+      "url": "https://open.spotify.com/track/0F8Ec2ppXwQxDEdMRWEVaX"
     },
     {
       "added_at": "2022-02-04 05:02:00",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2022-02-04 05:02:00",
       "album": {
-        "name": "Delta Tour EP",
-        "url": "https://open.spotify.com/album/1TFeTu8yjVVRcC6KzxZ0D9"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 359691,
-      "name": "With a Little Help from My Friends - Live From London",
-      "url": "https://open.spotify.com/track/6tUI3ts8MMiMaGRHspW8Qx"
-    },
-    {
-      "added_at": "2022-02-04 05:02:00",
-      "album": {
         "name": "What a Wonderful World",
         "url": "https://open.spotify.com/album/4G3BqD95dtfO19wUNwi0M7"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 162907,
       "name": "What a Wonderful World",
       "url": "https://open.spotify.com/track/0bb1B382NhX0cxMMnheGNC"
+    },
+    {
+      "added_at": "2022-02-04 05:02:00",
+      "album": {
+        "name": "Delta Tour EP",
+        "url": "https://open.spotify.com/album/1TFeTu8yjVVRcC6KzxZ0D9"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 359691,
+      "name": "With a Little Help from My Friends - Live From London",
+      "url": "https://open.spotify.com/track/6tUI3ts8MMiMaGRHspW8Qx"
     },
     {
       "added_at": "2022-02-04 05:02:00",
@@ -1711,6 +1711,22 @@
     {
       "added_at": "2022-02-04 05:02:00",
       "album": {
+        "name": "Mercy Mercy Me (The Ecology)",
+        "url": "https://open.spotify.com/album/23R9tHU6mYMP4vLItECWfl"
+      },
+      "artists": [
+        {
+          "name": "Devon Gilfillian",
+          "url": "https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH"
+        }
+      ],
+      "duration_ms": 190885,
+      "name": "Mercy Mercy Me (The Ecology)",
+      "url": "https://open.spotify.com/track/0rwicAYj73I9yhDUB40E1e"
+    },
+    {
+      "added_at": "2022-02-04 05:02:00",
+      "album": {
         "name": "Here Comes Your Man",
         "url": "https://open.spotify.com/album/7amyXS0aB3cRAmgVii9MMK"
       },
@@ -1727,22 +1743,6 @@
       "duration_ms": 159541,
       "name": "Here Comes Your Man",
       "url": "https://open.spotify.com/track/2XgwFuyUbYZwk327DVYBIY"
-    },
-    {
-      "added_at": "2022-02-04 05:02:00",
-      "album": {
-        "name": "Mercy Mercy Me (The Ecology)",
-        "url": "https://open.spotify.com/album/23R9tHU6mYMP4vLItECWfl"
-      },
-      "artists": [
-        {
-          "name": "Devon Gilfillian",
-          "url": "https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH"
-        }
-      ],
-      "duration_ms": 190885,
-      "name": "Mercy Mercy Me (The Ecology)",
-      "url": "https://open.spotify.com/track/0rwicAYj73I9yhDUB40E1e"
     },
     {
       "added_at": "2022-02-04 05:02:00",

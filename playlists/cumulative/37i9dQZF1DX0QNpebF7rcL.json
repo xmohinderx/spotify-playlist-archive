@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best in blues right now. Cover: Kirk Fletcher",
+  "description": "The best in blues right now. Cover: Buddy Guy",
   "name": "Got Blues",
   "published_playlist_ids": [
     "6WXBnoSHTaV1fXgP91Rwcb"
@@ -2865,7 +2865,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 275853,
       "name": "Sitting At Home Alone",
       "url": "https://open.spotify.com/track/3y5yJbyAJcCSWJmUF7Fi8d"
@@ -2901,7 +2901,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 239320,
       "name": "Sleeping Dogs Best Left Alone",
       "url": "https://open.spotify.com/track/29ZxWblASXbWazPYJyI8Nl"
@@ -3704,6 +3704,24 @@
     },
     {
       "album": {
+        "name": "Two Steps From The Blues",
+        "url": "https://open.spotify.com/album/1BHB22TjTZOivmUqVXg9zV"
+      },
+      "artists": [
+        {
+          "name": "Angela Strehli",
+          "url": "https://open.spotify.com/artist/3lrwdIWcHi2VyhaiiqNw35"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157853,
+      "name": "Two Steps From The Blues",
+      "url": "https://open.spotify.com/track/6ehBcXu26w7KT5ZMUHnEBj"
+    },
+    {
+      "album": {
         "name": "Under Your Spell",
         "url": "https://open.spotify.com/album/5k0hBiaEUAwqu54TauMa4T"
       },
@@ -3857,6 +3875,28 @@
       "duration_ms": 215946,
       "name": "We Get By",
       "url": "https://open.spotify.com/track/5PqC3OJ24NIO5pP7me68dn"
+    },
+    {
+      "album": {
+        "name": "We Go Back (feat. Mavis Staples)",
+        "url": "https://open.spotify.com/album/00mf4w80NkJ3G01W3LK7ex"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        },
+        {
+          "name": "Mavis Staples",
+          "url": "https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279840,
+      "name": "We Go Back (feat. Mavis Staples)",
+      "url": "https://open.spotify.com/track/3BPogMgZeF4e3l71x2ax4w"
     },
     {
       "album": {

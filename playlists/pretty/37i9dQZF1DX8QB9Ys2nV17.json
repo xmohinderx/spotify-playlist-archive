@@ -1,12 +1,12 @@
 {
   "description": "The greatest female voices in blues today. Cover: Amythyst Kiah",
-  "num_followers": 169404,
+  "num_followers": 169208,
   "original_name": "EQUAL Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Njc0ODA2OSwwMDAwMDAwMDY0NDg3MzgyMGVkYjg2YWNjMDEzNTBjYzI1MjExYWE0",
+  "snapshot_id": "MTY0Njc0ODA2OSwwMDAwMDAwMDJiZTBjMjg0ZmVkMmExOGVlZGM2MmI4YzJhYzhjMDJm",
   "tracks": [
     {
       "added_at": "2022-03-08 14:01:09",
@@ -239,22 +239,6 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
-        "name": "Voodoo in the Shadows",
-        "url": "https://open.spotify.com/album/30sZe7tBbgrO1PFuULYoAK"
-      },
-      "artists": [
-        {
-          "name": "Fiona Boyes",
-          "url": "https://open.spotify.com/artist/2dQerNdFoiwLUnBfji9ZBE"
-        }
-      ],
-      "duration_ms": 255106,
-      "name": "Party at Red's",
-      "url": "https://open.spotify.com/track/2oW9JOaiukULquG0dYrkwp"
-    },
-    {
-      "added_at": "2022-03-08 14:01:09",
-      "album": {
         "name": "Simple Case of the Blues",
         "url": "https://open.spotify.com/album/13la0jdzx3vrRcbwf6PBXU"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 218746,
       "name": "Simple Case of the Blues",
       "url": "https://open.spotify.com/track/2mqLNOkpN21ig18xli9WQV"
+    },
+    {
+      "added_at": "2022-03-08 14:01:09",
+      "album": {
+        "name": "Voodoo in the Shadows",
+        "url": "https://open.spotify.com/album/30sZe7tBbgrO1PFuULYoAK"
+      },
+      "artists": [
+        {
+          "name": "Fiona Boyes",
+          "url": "https://open.spotify.com/artist/2dQerNdFoiwLUnBfji9ZBE"
+        }
+      ],
+      "duration_ms": 255106,
+      "name": "Party at Red's",
+      "url": "https://open.spotify.com/track/2oW9JOaiukULquG0dYrkwp"
     },
     {
       "added_at": "2022-03-08 14:01:09",
@@ -351,6 +351,22 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
+        "name": "Loud Guitars, Big Suspicions",
+        "url": "https://open.spotify.com/album/31YVnDFP920mK7VVqU3Fyp"
+      },
+      "artists": [
+        {
+          "name": "Shannon Curfman",
+          "url": "https://open.spotify.com/artist/2sn2g4lNGlsAoJm15MOM7x"
+        }
+      ],
+      "duration_ms": 209866,
+      "name": "No Riders",
+      "url": "https://open.spotify.com/track/0NHW16lrKx7ra3ix9xKqxh"
+    },
+    {
+      "added_at": "2022-03-08 14:01:09",
+      "album": {
         "name": "Love on the Rocks",
         "url": "https://open.spotify.com/album/2UE190kQ5nUHXGpP5r686Q"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 303600,
       "name": "Falling",
       "url": "https://open.spotify.com/track/30h268bCKmGWxFleXGYATy"
-    },
-    {
-      "added_at": "2022-03-08 14:01:09",
-      "album": {
-        "name": "Loud Guitars, Big Suspicions",
-        "url": "https://open.spotify.com/album/31YVnDFP920mK7VVqU3Fyp"
-      },
-      "artists": [
-        {
-          "name": "Shannon Curfman",
-          "url": "https://open.spotify.com/artist/2sn2g4lNGlsAoJm15MOM7x"
-        }
-      ],
-      "duration_ms": 209866,
-      "name": "No Riders",
-      "url": "https://open.spotify.com/track/0NHW16lrKx7ra3ix9xKqxh"
     },
     {
       "added_at": "2022-03-08 14:01:09",
@@ -515,38 +515,6 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
-        "name": "Love Spin",
-        "url": "https://open.spotify.com/album/0jHM5tctOO79BT3POpCSfd"
-      },
-      "artists": [
-        {
-          "name": "Debbie Davies",
-          "url": "https://open.spotify.com/artist/21OcU2kzq3Oqkl8XxsEli7"
-        }
-      ],
-      "duration_ms": 231080,
-      "name": "Life Of The Party",
-      "url": "https://open.spotify.com/track/0YdyAqpiuGX1GPocApE83R"
-    },
-    {
-      "added_at": "2022-03-08 14:01:09",
-      "album": {
-        "name": "Tricky Thing",
-        "url": "https://open.spotify.com/album/4aPtimYS5kIEl8d03ToDUz"
-      },
-      "artists": [
-        {
-          "name": "Jessy Martens and Band",
-          "url": "https://open.spotify.com/artist/4kJMG0aB4UYiKfHA9esWDt"
-        }
-      ],
-      "duration_ms": 271733,
-      "name": "Tricky Thing",
-      "url": "https://open.spotify.com/track/7bpJJDFOR7CQMA2Ssm1yka"
-    },
-    {
-      "added_at": "2022-03-08 14:01:09",
-      "album": {
         "name": "Healing Creek",
         "url": "https://open.spotify.com/album/7dF7ZkpIBrkCMDqFEIEzh6"
       },
@@ -575,6 +543,38 @@
       "duration_ms": 197640,
       "name": "Heavy Hearts Hard Fists",
       "url": "https://open.spotify.com/track/2cwGnAb2HrxnzTLxqfZnyJ"
+    },
+    {
+      "added_at": "2022-03-08 14:01:09",
+      "album": {
+        "name": "Tricky Thing",
+        "url": "https://open.spotify.com/album/4aPtimYS5kIEl8d03ToDUz"
+      },
+      "artists": [
+        {
+          "name": "Jessy Martens and Band",
+          "url": "https://open.spotify.com/artist/4kJMG0aB4UYiKfHA9esWDt"
+        }
+      ],
+      "duration_ms": 271733,
+      "name": "Tricky Thing",
+      "url": "https://open.spotify.com/track/7bpJJDFOR7CQMA2Ssm1yka"
+    },
+    {
+      "added_at": "2022-03-08 14:01:09",
+      "album": {
+        "name": "Love Spin",
+        "url": "https://open.spotify.com/album/0jHM5tctOO79BT3POpCSfd"
+      },
+      "artists": [
+        {
+          "name": "Debbie Davies",
+          "url": "https://open.spotify.com/artist/21OcU2kzq3Oqkl8XxsEli7"
+        }
+      ],
+      "duration_ms": 231080,
+      "name": "Life Of The Party",
+      "url": "https://open.spotify.com/track/0YdyAqpiuGX1GPocApE83R"
     },
     {
       "added_at": "2022-03-08 14:01:09",
@@ -691,22 +691,6 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
-        "name": "Masters of War",
-        "url": "https://open.spotify.com/album/32L4ByoDGk3hSJTfXunr58"
-      },
-      "artists": [
-        {
-          "name": "Dani Wilde",
-          "url": "https://open.spotify.com/artist/75Fysjl73jB4dHfN0Yb1iB"
-        }
-      ],
-      "duration_ms": 296413,
-      "name": "Masters of War",
-      "url": "https://open.spotify.com/track/4KIpaOe8mx1Ss7THfddQCR"
-    },
-    {
-      "added_at": "2022-03-08 14:01:09",
-      "album": {
         "name": "Ina Forsman",
         "url": "https://open.spotify.com/album/2jlehXrLv0Ry0QaugJYx6Y"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 435426,
       "name": "Handle Me with Care",
       "url": "https://open.spotify.com/track/3mL3yHCMcY5NfvEo1KxZpP"
+    },
+    {
+      "added_at": "2022-03-08 14:01:09",
+      "album": {
+        "name": "Masters of War",
+        "url": "https://open.spotify.com/album/32L4ByoDGk3hSJTfXunr58"
+      },
+      "artists": [
+        {
+          "name": "Dani Wilde",
+          "url": "https://open.spotify.com/artist/75Fysjl73jB4dHfN0Yb1iB"
+        }
+      ],
+      "duration_ms": 296413,
+      "name": "Masters of War",
+      "url": "https://open.spotify.com/track/4KIpaOe8mx1Ss7THfddQCR"
     },
     {
       "added_at": "2022-03-08 14:01:09",
@@ -791,22 +791,6 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
-        "name": "The Sky Is Crying",
-        "url": "https://open.spotify.com/album/3mQMXVI0HCbJ6yamBHpcBU"
-      },
-      "artists": [
-        {
-          "name": "Erja Lyytinen",
-          "url": "https://open.spotify.com/artist/73i095FtGSlyCoudRYl6MD"
-        }
-      ],
-      "duration_ms": 306680,
-      "name": "It Hurts Me Too",
-      "url": "https://open.spotify.com/track/7EFUJYLscAMh62ZkSUhZyc"
-    },
-    {
-      "added_at": "2022-03-08 14:01:09",
-      "album": {
         "name": "10,000 Feet Below",
         "url": "https://open.spotify.com/album/6qGoljg8VssC15xzOsr0C5"
       },
@@ -823,18 +807,18 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
-        "name": "Out Of The Dark",
-        "url": "https://open.spotify.com/album/00EueLV9XQ46OWV5EnOPlt"
+        "name": "The Sky Is Crying",
+        "url": "https://open.spotify.com/album/3mQMXVI0HCbJ6yamBHpcBU"
       },
       "artists": [
         {
-          "name": "Gr\u00e1inne Duffy",
-          "url": "https://open.spotify.com/artist/6Uz1iG3enjltFOqqwAhQ2Y"
+          "name": "Erja Lyytinen",
+          "url": "https://open.spotify.com/artist/73i095FtGSlyCoudRYl6MD"
         }
       ],
-      "duration_ms": 215946,
-      "name": "Good Love Had To Die",
-      "url": "https://open.spotify.com/track/3waUNDqqEcv8GFLr6w3YNz"
+      "duration_ms": 306680,
+      "name": "It Hurts Me Too",
+      "url": "https://open.spotify.com/track/7EFUJYLscAMh62ZkSUhZyc"
     },
     {
       "added_at": "2022-03-08 14:01:09",
@@ -855,18 +839,18 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
-        "name": "Throw Away Your Blues",
-        "url": "https://open.spotify.com/album/6o0oOQJLcdw8v65RwBohCe"
+        "name": "Out Of The Dark",
+        "url": "https://open.spotify.com/album/00EueLV9XQ46OWV5EnOPlt"
       },
       "artists": [
         {
-          "name": "Kyla Brox",
-          "url": "https://open.spotify.com/artist/2PhZS7xGMEpgT6xdNgrm42"
+          "name": "Gr\u00e1inne Duffy",
+          "url": "https://open.spotify.com/artist/6Uz1iG3enjltFOqqwAhQ2Y"
         }
       ],
-      "duration_ms": 298173,
-      "name": "If You See Him",
-      "url": "https://open.spotify.com/track/1nPXV1tU2TwxWCcGEI2NR3"
+      "duration_ms": 215946,
+      "name": "Good Love Had To Die",
+      "url": "https://open.spotify.com/track/3waUNDqqEcv8GFLr6w3YNz"
     },
     {
       "added_at": "2022-03-08 14:01:09",
@@ -883,6 +867,22 @@
       "duration_ms": 277760,
       "name": "Geechee Woman",
       "url": "https://open.spotify.com/track/7KC0ebVIUOAlmCw83iWOYY"
+    },
+    {
+      "added_at": "2022-03-08 14:01:09",
+      "album": {
+        "name": "Throw Away Your Blues",
+        "url": "https://open.spotify.com/album/6o0oOQJLcdw8v65RwBohCe"
+      },
+      "artists": [
+        {
+          "name": "Kyla Brox",
+          "url": "https://open.spotify.com/artist/2PhZS7xGMEpgT6xdNgrm42"
+        }
+      ],
+      "duration_ms": 298173,
+      "name": "If You See Him",
+      "url": "https://open.spotify.com/track/1nPXV1tU2TwxWCcGEI2NR3"
     },
     {
       "added_at": "2022-03-08 14:01:09",

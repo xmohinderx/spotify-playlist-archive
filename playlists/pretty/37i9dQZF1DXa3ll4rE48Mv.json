@@ -1,12 +1,12 @@
 {
   "description": "The sounds of LGBTQ+ punk. Cover: Big Joanie",
-  "num_followers": 119077,
+  "num_followers": 119122,
   "original_name": "Queercore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDAzODA2MCwwMDAwMDAwMDY1MzkzNWE4OTM4NmY4MGM1MWEwYmE2NjcwZTNiZDQ2",
+  "snapshot_id": "MTY1NDAzODA2MCwwMDAwMDAwMDQzZGJjN2MzZmNkZmFjYWYxNWY2YWQxZTljZTIxOGJl",
   "tracks": [
     {
       "added_at": "2022-05-31 23:01:00",
@@ -347,18 +347,34 @@
     {
       "added_at": "2022-05-31 23:01:00",
       "album": {
-        "name": "Total 90",
-        "url": "https://open.spotify.com/album/4efq58i5lqhrDIigg4mGNj"
+        "name": "Lost Time",
+        "url": "https://open.spotify.com/album/62hqSIE4mKpvl9sCs8AaKh"
       },
       "artists": [
         {
-          "name": "DITZ",
-          "url": "https://open.spotify.com/artist/3oSKgWx1dqjhidhnhpGbfJ"
+          "name": "Tacocat",
+          "url": "https://open.spotify.com/artist/3h0MN1neFknEvlYKxFmSQW"
         }
       ],
-      "duration_ms": 163867,
-      "name": "Total 90",
-      "url": "https://open.spotify.com/track/0wt9XdllRuII1YlWz0sPrR"
+      "duration_ms": 125935,
+      "name": "I Hate the Weekend",
+      "url": "https://open.spotify.com/track/4ve7zbGDOJ9WIlPiUoTtVp"
+    },
+    {
+      "added_at": "2022-05-31 23:01:00",
+      "album": {
+        "name": "Always Happy",
+        "url": "https://open.spotify.com/album/3BvygxzbzswFKbo3DKzbXt"
+      },
+      "artists": [
+        {
+          "name": "Grandmas House",
+          "url": "https://open.spotify.com/artist/6BFppN7DZ1DR7zFyNTj7Nv"
+        }
+      ],
+      "duration_ms": 158372,
+      "name": "Always Happy",
+      "url": "https://open.spotify.com/track/5MB2xF8ziRtSqwuncTOlxk"
     },
     {
       "added_at": "2022-05-31 23:01:00",
@@ -379,22 +395,6 @@
     {
       "added_at": "2022-05-31 23:01:00",
       "album": {
-        "name": "Lost Time",
-        "url": "https://open.spotify.com/album/62hqSIE4mKpvl9sCs8AaKh"
-      },
-      "artists": [
-        {
-          "name": "Tacocat",
-          "url": "https://open.spotify.com/artist/3h0MN1neFknEvlYKxFmSQW"
-        }
-      ],
-      "duration_ms": 125935,
-      "name": "I Hate the Weekend",
-      "url": "https://open.spotify.com/track/4ve7zbGDOJ9WIlPiUoTtVp"
-    },
-    {
-      "added_at": "2022-05-31 23:01:00",
-      "album": {
         "name": "In Birth",
         "url": "https://open.spotify.com/album/1OAxny9o7MDCz7oZTVfLAV"
       },
@@ -411,18 +411,18 @@
     {
       "added_at": "2022-05-31 23:01:00",
       "album": {
-        "name": "Always Happy",
-        "url": "https://open.spotify.com/album/3BvygxzbzswFKbo3DKzbXt"
+        "name": "Total 90",
+        "url": "https://open.spotify.com/album/4efq58i5lqhrDIigg4mGNj"
       },
       "artists": [
         {
-          "name": "Grandmas House",
-          "url": "https://open.spotify.com/artist/6BFppN7DZ1DR7zFyNTj7Nv"
+          "name": "DITZ",
+          "url": "https://open.spotify.com/artist/3oSKgWx1dqjhidhnhpGbfJ"
         }
       ],
-      "duration_ms": 158372,
-      "name": "Always Happy",
-      "url": "https://open.spotify.com/track/5MB2xF8ziRtSqwuncTOlxk"
+      "duration_ms": 163867,
+      "name": "Total 90",
+      "url": "https://open.spotify.com/track/0wt9XdllRuII1YlWz0sPrR"
     },
     {
       "added_at": "2022-05-31 23:01:00",
@@ -571,22 +571,6 @@
     {
       "added_at": "2022-05-31 23:01:00",
       "album": {
-        "name": "Free Bleedin'",
-        "url": "https://open.spotify.com/album/20EOnbktQbZbkxOJGrqLmA"
-      },
-      "artists": [
-        {
-          "name": "The Menstrual Cramps",
-          "url": "https://open.spotify.com/artist/5ZV8lDOPUCh9tzkSQBVarI"
-        }
-      ],
-      "duration_ms": 197052,
-      "name": "Tinder Girl",
-      "url": "https://open.spotify.com/track/4v8Ld3zwasdQvBZtVJgO0H"
-    },
-    {
-      "added_at": "2022-05-31 23:01:00",
-      "album": {
         "name": "Chickens",
         "url": "https://open.spotify.com/album/1aDGrlOO5aCxtArveJH8fI"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 260000,
       "name": "Chickens",
       "url": "https://open.spotify.com/track/5hnktvtMR96jGKA54FEi7U"
+    },
+    {
+      "added_at": "2022-05-31 23:01:00",
+      "album": {
+        "name": "Free Bleedin'",
+        "url": "https://open.spotify.com/album/20EOnbktQbZbkxOJGrqLmA"
+      },
+      "artists": [
+        {
+          "name": "The Menstrual Cramps",
+          "url": "https://open.spotify.com/artist/5ZV8lDOPUCh9tzkSQBVarI"
+        }
+      ],
+      "duration_ms": 197052,
+      "name": "Tinder Girl",
+      "url": "https://open.spotify.com/track/4v8Ld3zwasdQvBZtVJgO0H"
     },
     {
       "added_at": "2022-05-31 23:01:00",
@@ -651,6 +651,22 @@
     {
       "added_at": "2022-05-31 23:01:00",
       "album": {
+        "name": "In Search of Lost Time",
+        "url": "https://open.spotify.com/album/1IPEfgp0l3XWsnAm0F30Ax"
+      },
+      "artists": [
+        {
+          "name": "Partner",
+          "url": "https://open.spotify.com/artist/15rbZYMoW9AYb3zcuFUNOU"
+        }
+      ],
+      "duration_ms": 176786,
+      "name": "Play the Field",
+      "url": "https://open.spotify.com/track/6MBMpHYzCrFOcExyNGPRRb"
+    },
+    {
+      "added_at": "2022-05-31 23:01:00",
+      "album": {
         "name": "Zombie Terrorist",
         "url": "https://open.spotify.com/album/1b8585sIYVvPbWpdW7Vms3"
       },
@@ -683,34 +699,18 @@
     {
       "added_at": "2022-05-31 23:01:00",
       "album": {
-        "name": "In Search of Lost Time",
-        "url": "https://open.spotify.com/album/1IPEfgp0l3XWsnAm0F30Ax"
+        "name": "Dream Wife",
+        "url": "https://open.spotify.com/album/0fFlloNPNem2XOi4AeU5ty"
       },
       "artists": [
         {
-          "name": "Partner",
-          "url": "https://open.spotify.com/artist/15rbZYMoW9AYb3zcuFUNOU"
+          "name": "Dream Wife",
+          "url": "https://open.spotify.com/artist/2DaP4uXwKOXAaD77XokW9a"
         }
       ],
-      "duration_ms": 176786,
-      "name": "Play the Field",
-      "url": "https://open.spotify.com/track/6MBMpHYzCrFOcExyNGPRRb"
-    },
-    {
-      "added_at": "2022-05-31 23:01:00",
-      "album": {
-        "name": "The Reson For Hardcore Vibes Again",
-        "url": "https://open.spotify.com/album/2ulPQaaJiq1rK6YK86wPsI"
-      },
-      "artists": [
-        {
-          "name": "Joe & The Shitboys",
-          "url": "https://open.spotify.com/artist/1LQe0AlqV1e2GD3Ry1UFTg"
-        }
-      ],
-      "duration_ms": 55733,
-      "name": "Save the Planet, You Dumb Shit",
-      "url": "https://open.spotify.com/track/6Kk9Zy9dYzgvTEPNCh2s8o"
+      "duration_ms": 175760,
+      "name": "Let's Make Out",
+      "url": "https://open.spotify.com/track/6sFBi0lIQ2tWedzNcFDnkR"
     },
     {
       "added_at": "2022-05-31 23:01:00",
@@ -731,18 +731,18 @@
     {
       "added_at": "2022-05-31 23:01:00",
       "album": {
-        "name": "Dream Wife",
-        "url": "https://open.spotify.com/album/0fFlloNPNem2XOi4AeU5ty"
+        "name": "The Reson For Hardcore Vibes Again",
+        "url": "https://open.spotify.com/album/2ulPQaaJiq1rK6YK86wPsI"
       },
       "artists": [
         {
-          "name": "Dream Wife",
-          "url": "https://open.spotify.com/artist/2DaP4uXwKOXAaD77XokW9a"
+          "name": "Joe & The Shitboys",
+          "url": "https://open.spotify.com/artist/1LQe0AlqV1e2GD3Ry1UFTg"
         }
       ],
-      "duration_ms": 175760,
-      "name": "Let's Make Out",
-      "url": "https://open.spotify.com/track/6sFBi0lIQ2tWedzNcFDnkR"
+      "duration_ms": 55733,
+      "name": "Save the Planet, You Dumb Shit",
+      "url": "https://open.spotify.com/track/6Kk9Zy9dYzgvTEPNCh2s8o"
     },
     {
       "added_at": "2022-05-31 23:01:00",
@@ -955,22 +955,6 @@
     {
       "added_at": "2022-05-31 23:01:00",
       "album": {
-        "name": "Sorry",
-        "url": "https://open.spotify.com/album/12mEYu1QsUj8mWVhNMuyr5"
-      },
-      "artists": [
-        {
-          "name": "LIINES",
-          "url": "https://open.spotify.com/artist/1JfKFoNd6l125tY9uJcd4f"
-        }
-      ],
-      "duration_ms": 144170,
-      "name": "Sorry",
-      "url": "https://open.spotify.com/track/1LrMwgLn973lcjAlkxoX0p"
-    },
-    {
-      "added_at": "2022-05-31 23:01:00",
-      "album": {
         "name": "Friends. Lovers. Favorites",
         "url": "https://open.spotify.com/album/3nffqxNgYlaorWIVUm56R8"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 63466,
       "name": "It's Ok to Be Sick",
       "url": "https://open.spotify.com/track/02Xk3OGe1Q4mtOcrokOOAY"
+    },
+    {
+      "added_at": "2022-05-31 23:01:00",
+      "album": {
+        "name": "Sorry",
+        "url": "https://open.spotify.com/album/12mEYu1QsUj8mWVhNMuyr5"
+      },
+      "artists": [
+        {
+          "name": "LIINES",
+          "url": "https://open.spotify.com/artist/1JfKFoNd6l125tY9uJcd4f"
+        }
+      ],
+      "duration_ms": 144170,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/1LrMwgLn973lcjAlkxoX0p"
     },
     {
       "added_at": "2022-05-31 23:01:00",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2022-05-31 23:01:00",
       "album": {
-        "name": "Talk It Out",
-        "url": "https://open.spotify.com/album/2Pd2r2Lif7ChcLIlZNPG61"
-      },
-      "artists": [
-        {
-          "name": "Sports Bra",
-          "url": "https://open.spotify.com/artist/3U4YNgmMwXjWfIt4UTNm4b"
-        }
-      ],
-      "duration_ms": 180442,
-      "name": "Precious and Perfect",
-      "url": "https://open.spotify.com/track/4pxxxqnaDQZMEHWS9AP5gD"
-    },
-    {
-      "added_at": "2022-05-31 23:01:00",
-      "album": {
         "name": "Egg on Face. Foot in Mouth. Wriggling Wriggling Wriggling.",
         "url": "https://open.spotify.com/album/26WIpPiL8DGHgdZ0xQR4sC"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 153813,
       "name": "Woodchuck",
       "url": "https://open.spotify.com/track/6GUeUdO8AOZ52UcRFPn1eH"
+    },
+    {
+      "added_at": "2022-05-31 23:01:00",
+      "album": {
+        "name": "Talk It Out",
+        "url": "https://open.spotify.com/album/2Pd2r2Lif7ChcLIlZNPG61"
+      },
+      "artists": [
+        {
+          "name": "Sports Bra",
+          "url": "https://open.spotify.com/artist/3U4YNgmMwXjWfIt4UTNm4b"
+        }
+      ],
+      "duration_ms": 180442,
+      "name": "Precious and Perfect",
+      "url": "https://open.spotify.com/track/4pxxxqnaDQZMEHWS9AP5gD"
     },
     {
       "added_at": "2022-05-31 23:01:00",
@@ -1275,18 +1275,18 @@
     {
       "added_at": "2022-05-31 23:01:00",
       "album": {
-        "name": "Tender Resignation",
-        "url": "https://open.spotify.com/album/7zqUAHgtvrGDgrQMe3MVha"
+        "name": "Fake Great Britain",
+        "url": "https://open.spotify.com/album/604nwPmwMK2bFGUeHnnmMN"
       },
       "artists": [
         {
-          "name": "Dyke Drama",
-          "url": "https://open.spotify.com/artist/2mEd7XiiEr2Ym4JMeWE7t1"
+          "name": "pink suits",
+          "url": "https://open.spotify.com/artist/2tetR4N7chonvlPLHlNzOL"
         }
       ],
-      "duration_ms": 130598,
-      "name": "The Thing I Do Best",
-      "url": "https://open.spotify.com/track/5Ae7KzPFdnb8PgrMBjI1oo"
+      "duration_ms": 143568,
+      "name": "Fake Great Britain",
+      "url": "https://open.spotify.com/track/3SeQfwjcIIlCAMEYO9tGgZ"
     }
   ],
   "unique_name": "Queercore",

@@ -1417,7 +1417,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-30",
+      "date_removed": null,
       "duration_ms": 147031,
       "name": "Cosmonaut",
       "url": "https://open.spotify.com/track/2Lt9iwXSIbQBEgWvQe0Dxa"
@@ -6251,7 +6251,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 247719,
       "name": "Refills",
       "url": "https://open.spotify.com/track/52WfTHyb9QU937CpWBeN4I"
@@ -6833,6 +6833,24 @@
       "duration_ms": 165983,
       "name": "Sour Soul",
       "url": "https://open.spotify.com/track/48mJsuV6IsDVrjkhqR2mHG"
+    },
+    {
+      "album": {
+        "name": "Southside",
+        "url": "https://open.spotify.com/album/1bBH7XmYduj4tVTip9zuRo"
+      },
+      "artists": [
+        {
+          "name": "Ashton Travis",
+          "url": "https://open.spotify.com/artist/5QFkhK4qG4aIeYZIWg2DO8"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201056,
+      "name": "Southside",
+      "url": "https://open.spotify.com/track/5kRAI8FU35oY52jn8xwrI0"
     },
     {
       "album": {
@@ -8127,7 +8145,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 216774,
       "name": "WHENITSTIME",
       "url": "https://open.spotify.com/track/6AiY3yvV6mc1DQgPEhDhUv"

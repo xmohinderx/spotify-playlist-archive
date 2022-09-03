@@ -4,7 +4,7 @@
 
 > A mix of folk and bluegrass covers of pop, rock, hip\-hop, folk, and indie songs\. Cover: Front Country
 
-164 songs - 10 hr 30 min - [published](https://open.spotify.com/playlist/6j3EUqB0DJZF4yMM5cX435)
+165 songs - 10 hr 32 min - [published](https://open.spotify.com/playlist/6j3EUqB0DJZF4yMM5cX435)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Gentle On My Mind](https://open.spotify.com/track/2uZXypPpmXiGHFtvQOn50W) | [John Mailander](https://open.spotify.com/artist/4MYqkPU4l4Gpohaub6mGFr) | [Walking Distance](https://open.spotify.com/album/0SUBhrbVZ1IiDtCsSkoTIb) | 3:32 | 2022-05-27 |  |
 | [Get Lucky](https://open.spotify.com/track/1lDPD85vlOjj4WmhSrpswH) | [The Beef Seeds](https://open.spotify.com/artist/2Lgu1zUJEcEB1A1tbhUSBR) | [Rhythm and Moos](https://open.spotify.com/album/7r3AaWzndFKa1PUYrck1RN) | 3:29 | 2021-08-20 | 2022-07-29 |
 | [Get Lucky](https://open.spotify.com/track/5rs8b6GOWiKokzSjEhCIN8) | [The Beef Seeds](https://open.spotify.com/artist/2Lgu1zUJEcEB1A1tbhUSBR) | [Rhythm and Moo's](https://open.spotify.com/album/5W0SRmCrSDB4ncf86ayv2R) | 3:29 | 2022-05-27 |  |
+| [Get Rhythm](https://open.spotify.com/track/5zYT8PNbW8CmEx5lsJFc2E) | [James Hand](https://open.spotify.com/artist/0LhTZWBL8vvxZhJxYBWUmi) | [Get Rhythm](https://open.spotify.com/album/33BZQZJpcH5WT0fX0NxCxN) | 1:42 | 2022-09-02 |  |
 | [Gin and Juice](https://open.spotify.com/track/44eriZvPXHtb065mbCAfeg) | [Hayseed Dixie](https://open.spotify.com/artist/7x1riqKyOjly8udO9DhPVi) | [Grasswhoopin' Party Pack, Vol\. 2](https://open.spotify.com/album/0CcwYASwggPkViUxIWFCUA) | 6:26 | 2021-08-20 |  |
 | [Gin and Juice](https://open.spotify.com/track/6CeszonFOlgp7HiawTSqCu) | [The Gourds](https://open.spotify.com/artist/2gk28RNJaPStV8BnugHYpF) | [Shinebox](https://open.spotify.com/album/2Ril3zeU3IlvS6e4NQLWd2) | 6:23 | 2022-05-27 |  |
 | [Gin and Juice](https://open.spotify.com/track/7v7ytRZIWuZuNxXSGwxIhK) | [The Gourds](https://open.spotify.com/artist/2gk28RNJaPStV8BnugHYpF) | [Shinebox](https://open.spotify.com/album/6tqUpnBCm5rYkmVdHfJjzP) | 6:23 | 2021-08-20 | 2022-07-29 |

@@ -1,12 +1,12 @@
 {
   "description": "The wave of U.S. Latinos in Hip-Hop. Cover: Coyote",
-  "num_followers": 15246,
+  "num_followers": 15260,
   "original_name": "Our Wave, Nuestro Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Nzg1NzYwMCwwMDAwMDAwMDI5YjVjZGZlY2I4N2YxMTE1YTA0YTNkYTQ3N2RmZDlh",
+  "snapshot_id": "MTY1Nzg1NzYwMCwwMDAwMDAwMDFiMmJlYWRkZGUwNGUyZmEzNTYwZjliZDYxZWU0MDYw",
   "tracks": [
     {
       "added_at": "2022-07-15 04:00:00",
@@ -623,6 +623,22 @@
     {
       "added_at": "2022-07-15 04:00:00",
       "album": {
+        "name": "Ghetto Birds & Thugs",
+        "url": "https://open.spotify.com/album/3b3FoQ8WMEt3Dw0E4bS9GL"
+      },
+      "artists": [
+        {
+          "name": "Lil Weirdo",
+          "url": "https://open.spotify.com/artist/0ktQyBsFidxvy9e6naHXMo"
+        }
+      ],
+      "duration_ms": 170676,
+      "name": "Ghetto Birds & Thugs",
+      "url": "https://open.spotify.com/track/4IiXLK78ssJpAj3VZLC9uY"
+    },
+    {
+      "added_at": "2022-07-15 04:00:00",
+      "album": {
         "name": "Rosary",
         "url": "https://open.spotify.com/album/5FkDXNLe2kioCXGj4ZoBp0"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 238723,
       "name": "Rosary",
       "url": "https://open.spotify.com/track/4hdVtvDNdhvsrdiX22gcaN"
-    },
-    {
-      "added_at": "2022-07-15 04:00:00",
-      "album": {
-        "name": "Ghetto Birds & Thugs",
-        "url": "https://open.spotify.com/album/3b3FoQ8WMEt3Dw0E4bS9GL"
-      },
-      "artists": [
-        {
-          "name": "Lil Weirdo",
-          "url": "https://open.spotify.com/artist/0ktQyBsFidxvy9e6naHXMo"
-        }
-      ],
-      "duration_ms": 170676,
-      "name": "Ghetto Birds & Thugs",
-      "url": "https://open.spotify.com/track/4IiXLK78ssJpAj3VZLC9uY"
     },
     {
       "added_at": "2022-07-15 04:00:00",
@@ -899,42 +899,6 @@
     {
       "added_at": "2022-07-15 04:00:00",
       "album": {
-        "name": "Street Lights",
-        "url": "https://open.spotify.com/album/7hPnEAEort4kGDrajIjQvl"
-      },
-      "artists": [
-        {
-          "name": "Coyote",
-          "url": "https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD"
-        },
-        {
-          "name": "Bino Rideaux",
-          "url": "https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB"
-        }
-      ],
-      "duration_ms": 153934,
-      "name": "Street Lights",
-      "url": "https://open.spotify.com/track/5LS8Lax9czRiYWbkiygVJL"
-    },
-    {
-      "added_at": "2022-07-15 04:00:00",
-      "album": {
-        "name": "i'm Hot",
-        "url": "https://open.spotify.com/album/2pqazlndQ7KukNyjVCmmkF"
-      },
-      "artists": [
-        {
-          "name": "J.I Bandz",
-          "url": "https://open.spotify.com/artist/5uFHcYGhMBxkgjpBrWGpPK"
-        }
-      ],
-      "duration_ms": 128994,
-      "name": "i'm Hot",
-      "url": "https://open.spotify.com/track/3IpYHjNv8VuVxq1aOP4Aqe"
-    },
-    {
-      "added_at": "2022-07-15 04:00:00",
-      "album": {
         "name": "Our Finale",
         "url": "https://open.spotify.com/album/2vH9bbemJEV0yEFYikceZB"
       },
@@ -955,22 +919,38 @@
     {
       "added_at": "2022-07-15 04:00:00",
       "album": {
-        "name": "On My Diez",
-        "url": "https://open.spotify.com/album/1IAGzdrpYoDkT8pxXFXL0U"
+        "name": "i'm Hot",
+        "url": "https://open.spotify.com/album/2pqazlndQ7KukNyjVCmmkF"
       },
       "artists": [
         {
-          "name": "Feefa",
-          "url": "https://open.spotify.com/artist/52EfcUQ2nkatuNSusz3v7C"
-        },
-        {
-          "name": "Frankie P",
-          "url": "https://open.spotify.com/artist/6LQI3uEz03wvTZ2k7aV16v"
+          "name": "J.I Bandz",
+          "url": "https://open.spotify.com/artist/5uFHcYGhMBxkgjpBrWGpPK"
         }
       ],
-      "duration_ms": 155064,
-      "name": "On My Diez",
-      "url": "https://open.spotify.com/track/5bu48uXPHfFNjLsLZSsjbC"
+      "duration_ms": 128994,
+      "name": "i'm Hot",
+      "url": "https://open.spotify.com/track/3IpYHjNv8VuVxq1aOP4Aqe"
+    },
+    {
+      "added_at": "2022-07-15 04:00:00",
+      "album": {
+        "name": "Street Lights",
+        "url": "https://open.spotify.com/album/7hPnEAEort4kGDrajIjQvl"
+      },
+      "artists": [
+        {
+          "name": "Coyote",
+          "url": "https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD"
+        },
+        {
+          "name": "Bino Rideaux",
+          "url": "https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB"
+        }
+      ],
+      "duration_ms": 153934,
+      "name": "Street Lights",
+      "url": "https://open.spotify.com/track/5LS8Lax9czRiYWbkiygVJL"
     },
     {
       "added_at": "2022-07-15 04:00:00",
@@ -987,6 +967,26 @@
       "duration_ms": 117629,
       "name": "From The Gravel",
       "url": "https://open.spotify.com/track/1EWWs7U6CLe8vjeuat3SZa"
+    },
+    {
+      "added_at": "2022-07-15 04:00:00",
+      "album": {
+        "name": "On My Diez",
+        "url": "https://open.spotify.com/album/1IAGzdrpYoDkT8pxXFXL0U"
+      },
+      "artists": [
+        {
+          "name": "Feefa",
+          "url": "https://open.spotify.com/artist/52EfcUQ2nkatuNSusz3v7C"
+        },
+        {
+          "name": "Frankie P",
+          "url": "https://open.spotify.com/artist/6LQI3uEz03wvTZ2k7aV16v"
+        }
+      ],
+      "duration_ms": 155064,
+      "name": "On My Diez",
+      "url": "https://open.spotify.com/track/5bu48uXPHfFNjLsLZSsjbC"
     },
     {
       "added_at": "2022-07-15 04:00:00",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2022-07-15 04:00:00",
       "album": {
+        "name": "Vida Por Tinta",
+        "url": "https://open.spotify.com/album/3dakaQnFPuHDiCzne70gEQ"
+      },
+      "artists": [
+        {
+          "name": "Juanillo Diaz",
+          "url": "https://open.spotify.com/artist/43QAcxJuLK8pBo8yKn2Vgz"
+        }
+      ],
+      "duration_ms": 253977,
+      "name": "Carta Para Dios",
+      "url": "https://open.spotify.com/track/4Cu0FaKXRzg5elkpncWGaS"
+    },
+    {
+      "added_at": "2022-07-15 04:00:00",
+      "album": {
         "name": "Fuck The Yotes",
         "url": "https://open.spotify.com/album/2Y99BDsQw0fKCJY5qjOndk"
       },
@@ -1135,22 +1151,6 @@
       "duration_ms": 184947,
       "name": "get 2 know ya",
       "url": "https://open.spotify.com/track/7LKRH8gSBHXJ5qKvoLJCa3"
-    },
-    {
-      "added_at": "2022-07-15 04:00:00",
-      "album": {
-        "name": "Vida Por Tinta",
-        "url": "https://open.spotify.com/album/3dakaQnFPuHDiCzne70gEQ"
-      },
-      "artists": [
-        {
-          "name": "Juanillo Diaz",
-          "url": "https://open.spotify.com/artist/43QAcxJuLK8pBo8yKn2Vgz"
-        }
-      ],
-      "duration_ms": 253977,
-      "name": "Carta Para Dios",
-      "url": "https://open.spotify.com/track/4Cu0FaKXRzg5elkpncWGaS"
     },
     {
       "added_at": "2022-07-15 04:00:00",

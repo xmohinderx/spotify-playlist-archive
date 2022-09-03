@@ -672,6 +672,24 @@
     },
     {
       "album": {
+        "name": "Detox",
+        "url": "https://open.spotify.com/album/4y77zrDMRkZznufMBScSal"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161636,
+      "name": "Detox",
+      "url": "https://open.spotify.com/track/7fSM2taFBEB1WNZl8AOIoo"
+    },
+    {
+      "album": {
         "name": "Meet The Woo",
         "url": "https://open.spotify.com/album/6d1vGZsr6Uy3h9IigBpPAf"
       },
@@ -1148,6 +1166,24 @@
     },
     {
       "album": {
+        "name": "Hell",
+        "url": "https://open.spotify.com/album/1F5dynTBqwMT46sY4OcvO6"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139265,
+      "name": "Hell",
+      "url": "https://open.spotify.com/track/5X79uZsOrtg2iolPYhqeUa"
+    },
+    {
+      "album": {
         "name": "IN DIMES WE TRUST",
         "url": "https://open.spotify.com/album/6iQuqlO95HG2WVqVh4jxRi"
       },
@@ -1547,7 +1583,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 132986,
       "name": "LIKE ME (feat. 42 Dugg & Lil Baby)",
       "url": "https://open.spotify.com/track/3gOL6mYIq19Oq8raxIntrV"
@@ -1937,7 +1973,7 @@
       ],
       "date_added": "2021-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 195680,
       "name": "Need It",
       "url": "https://open.spotify.com/track/6mtjo5kIHKlboGE84lf1FJ"

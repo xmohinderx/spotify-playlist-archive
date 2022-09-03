@@ -4,7 +4,7 @@
 
 > 우산을 던지고 빗 속으로 뛰어들고 싶은 날에 들으세요!
 
-107 songs - 6 hr 26 min - [published](https://open.spotify.com/playlist/0fYuaDGdomcOuqOi0yoUUE)
+108 songs - 6 hr 30 min - [published](https://open.spotify.com/playlist/0fYuaDGdomcOuqOi0yoUUE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Cloud](https://open.spotify.com/track/10WR5K1KXPTw0fkHoc7Iah) | [박지원](https://open.spotify.com/artist/7sYsnmmEZ0vpNVoz9V7h3E) | [Racket Boys \(Original Television Soundtrack\) Pt\. 5](https://open.spotify.com/album/3LZCD80VWyUCWwJW9wuxLX) | 3:23 | 2022-06-20 |  |
 | [Cold World](https://open.spotify.com/track/4N2qh0ovGWJOSPqCB2007q) | [OVAN](https://open.spotify.com/artist/4FuRHFtCeoYaeeVDKyyvbS) | [Cold World](https://open.spotify.com/album/1LV9rvmb5ibcrCKLcv6Pv2) | 3:28 | 2022-08-12 |  |
 | [Disconnected](https://open.spotify.com/track/7FoSoIvql4oXc8I60L8Fqi) | [Highlight](https://open.spotify.com/artist/3T0fMfxYBU3q9oAUAdPIsr) | [The Blowing](https://open.spotify.com/album/12bPrSSJZ1qysNAGEFGzGC) | 3:10 | 2022-06-20 |  |
-| [Don't](https://open.spotify.com/track/617N2yLHP178pCJQTRx2oe) | [RETA](https://open.spotify.com/artist/2l7HsagjXMw1994RTTxA0j), [unofficialboyy](https://open.spotify.com/artist/0hoIUrMFR0Cy6aTbma8b2o) | [Don't](https://open.spotify.com/album/2AyXNozyDPLyBoQKHfTAvP) | 3:12 | 2022-06-20 |  |
+| [Don't](https://open.spotify.com/track/617N2yLHP178pCJQTRx2oe) | [RETA](https://open.spotify.com/artist/2l7HsagjXMw1994RTTxA0j), [unofficialboyy](https://open.spotify.com/artist/0hoIUrMFR0Cy6aTbma8b2o) | [Don't](https://open.spotify.com/album/2AyXNozyDPLyBoQKHfTAvP) | 3:12 | 2022-06-20 | 2022-09-03 |
 | [Eunha Store \(feat\. KIM YUNA\)](https://open.spotify.com/track/30O9nIW0UhMSCmb7z3DOjm) | [015B](https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7), [Kim Yuna](https://open.spotify.com/artist/7jZIyFyyKxgPjelZN2nepI) | [New Edition 42](https://open.spotify.com/album/0V3R0jOLSn5K6jqSdPMEAM) | 2:44 | 2022-08-08 |  |
 | [Ex](https://open.spotify.com/track/1mZttLRYMGTq4m88qbgCE7) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [IN LIFE](https://open.spotify.com/album/1fOJ6SHLXOLnsuuwiLyzft) | 3:37 | 2022-06-20 | 2022-07-29 |
 | [Ex](https://open.spotify.com/track/4y7C13wqDLE7xuilBsLNvd) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [IN LIFE](https://open.spotify.com/album/0aERWcI2KYSCM4biUihB9X) | 3:37 | 2022-07-22 |  |
@@ -106,6 +106,7 @@
 | [WINE \(Feat.Changmo\) \(Prod\. SUGA\)](https://open.spotify.com/track/3eHkFA3StDR9BU7EVrUFLs) | [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K), [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [WINE](https://open.spotify.com/album/26adxLsliyYcCfVTF6xA75) | 3:52 | 2022-06-20 |  |
 | [YOU \(feat\. Beenzino\)](https://open.spotify.com/track/0U3rsGULd1uysrZo4B7bCj) | [Lim Seul Ong](https://open.spotify.com/artist/0lfuVlyKgbJIpdDXEfGRiR), [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg) | [YOU \(feat .Beenzino\)](https://open.spotify.com/album/3EDGzwwhumpoxgsqGwzpFn) | 4:15 | 2022-06-20 |  |
 | [You Erase Me](https://open.spotify.com/track/2EK0Oo72mbDGmAqhh9VT4e) | [ClaD](https://open.spotify.com/artist/1wcpuACr4nnlIO4EXptG6t) | [You Erase Me](https://open.spotify.com/album/13dKrAwZZZAVChkOuhZ9LB) | 3:01 | 2022-06-20 | 2022-08-30 |
+| [You need my love](https://open.spotify.com/track/2KnF8lF5elSlvN97jOgAaw) | [verycoybunny](https://open.spotify.com/artist/2J9XKuzbhYp7Ibs7sqGoGB) | [You need my love](https://open.spotify.com/album/1dXOIUrXCi7RBbQSj5WfGE) | 3:40 | 2022-08-18 |  |
 | [You Never Know](https://open.spotify.com/track/39kzWAiVPpycdMpr745oPj) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [THE ALBUM](https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N) | 3:51 | 2022-06-20 |  |
 | [Your Night](https://open.spotify.com/track/1NcLpiwC2TxybWwSwUcQBl) | [Leebull Kim](https://open.spotify.com/artist/2hgrTOhZ18zSBEMbiQldoB) | [Your Noon](https://open.spotify.com/album/3hgoW6tT3nXxzlugyVD3CI) | 3:37 | 2022-06-20 | 2022-07-09 |
 | [Your Voice Makes Me Dream](https://open.spotify.com/track/23Pw6OjQUUg06RGKq406yK) | [Dinner Coat](https://open.spotify.com/artist/0NBzQhDqLwWJbfuQhNmgiV) | [Your Voice Makes Me Dream](https://open.spotify.com/album/3SGS1Q2ohr21a7Vq8G0C0n) | 4:00 | 2022-06-20 |  |

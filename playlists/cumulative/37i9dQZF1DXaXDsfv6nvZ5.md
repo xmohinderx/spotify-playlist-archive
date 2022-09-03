@@ -4,7 +4,7 @@
 
 > The soulful tunes to ease you into your day.
 
-94 songs - 5 hr 59 min - [published](https://open.spotify.com/playlist/6PhsjniBhG4w601hh0mPNL)
+95 songs - 6 hr 2 min - [published](https://open.spotify.com/playlist/6PhsjniBhG4w601hh0mPNL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Breakfast \- A COLORS SHOW](https://open.spotify.com/track/4pXaDCpq459IkaUp84VM5m) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [Breakfast \- A COLORS SHOW](https://open.spotify.com/album/3dE3ZGLl0XaYuGBibxSYbh) | 3:12 | 2022-01-28 | 2022-07-29 |
 | [Bring it on Home to Me \(feat\. Charlie Bereal\)](https://open.spotify.com/track/578ziqCj8ieyz7NLrZ31km) | [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe), [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7), [Kenyon Dixon](https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be), [Charlie Bereal](https://open.spotify.com/artist/2uMEr7c0zWQrtoAzebTMsa) | [Bring it on Home to Me \(feat\. Charlie Bereal\)](https://open.spotify.com/album/54tJsoenzgUlUokisFrWVA) | 3:21 | 2021-12-03 |  |
 | [Brown Angel](https://open.spotify.com/track/5KFj6CPcfKGS6MI3gQEzNe) | [Tamaraebi](https://open.spotify.com/artist/5PRqaEB5d1aoPXZzCHNmoZ) | [Brown Angel](https://open.spotify.com/album/0UjaOB9o3zp7dQnuiG3yMG) | 3:02 | 2021-12-03 | 2022-07-28 |
+| [Can I Call You Rose?](https://open.spotify.com/track/7wnj1zRcZVlPNJ58shwl7h) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Thee Sacred Souls](https://open.spotify.com/album/0UKT9me1zkVDmah2MjmCma) | 3:10 | 2022-08-26 |  |
 | [Can We Be Friends?](https://open.spotify.com/track/0dQ5ByUHcI2ngYfUhCqNLP) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Can We Be Friends?](https://open.spotify.com/album/5HqBHeAw3CNbWqu4U3aw6o) | 2:56 | 2021-12-03 | 2022-07-29 |
 | [Can We Be Friends?](https://open.spotify.com/track/0dSUVLUIEtbKdbpq39qPI8) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Sis\. He Wasn't the One](https://open.spotify.com/album/4qffm0dKWKgFOP3Wwfghq1) | 2:56 | 2022-03-11 | 2022-08-27 |
 | [Close Your Eyes](https://open.spotify.com/track/20LWQNq7yaMPDhkZsRCoMk) | [Black Atlass](https://open.spotify.com/artist/7AbKOHOvn27dK0FOiboAno) | [Dream Awake](https://open.spotify.com/album/0dwlqqTeFovdI0oMN4dfYQ) | 3:23 | 2022-03-11 |  |
@@ -67,7 +68,7 @@
 | [My Baby Just Cares for Me](https://open.spotify.com/track/63GvtdKbAbi2feQxp0DBpA) | [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA), [Metropole Orkest](https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI) | [Ledisi Sings Nina](https://open.spotify.com/album/0uRNGjcdUeOG9aekGr1cvc) | 3:39 | 2021-12-03 | 2022-07-29 |
 | [N Side](https://open.spotify.com/track/18t9EUBOfOPRv4nrJUpRAq) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [N Side](https://open.spotify.com/album/0oBHAZtvWGE21oxQpq2laq) | 3:44 | 2022-03-11 |  |
 | [Need You](https://open.spotify.com/track/34i3j7m0YtGOWPrpiTMzOS) | [Emanuel](https://open.spotify.com/artist/4Dj6yFk1Y4v6J4jZyhtrZ7) | [Need You](https://open.spotify.com/album/6VIkLtDoLRSIJ9ytyAgphV) | 4:15 | 2021-12-03 | 2022-07-26 |
-| [Neva Gonna Break My Heart Again](https://open.spotify.com/track/7c9d8GYjOixUL7I3o2BJn0) | [Tweet](https://open.spotify.com/artist/6zDBeei6hHRiZdAJ6zoTCo) | [Neva Gonna Break My Heart Again](https://open.spotify.com/album/4GiaM3A5j9Yll69ESxGKyE) | 5:18 | 2021-12-03 |  |
+| [Neva Gonna Break My Heart Again](https://open.spotify.com/track/7c9d8GYjOixUL7I3o2BJn0) | [Tweet](https://open.spotify.com/artist/6zDBeei6hHRiZdAJ6zoTCo) | [Neva Gonna Break My Heart Again](https://open.spotify.com/album/4GiaM3A5j9Yll69ESxGKyE) | 5:18 | 2021-12-03 | 2022-09-03 |
 | [Nobody But You](https://open.spotify.com/track/6VFKuuqSbA1GpMEosUgTwQ) | [Sonder](https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Nobody But You](https://open.spotify.com/album/0HaY1bBhaYUEXBOSva6Pf7) | 3:33 | 2022-01-28 |  |
 | [One More Kiss](https://open.spotify.com/track/5PEvIq7hMnnE85qphra5Oa) | [Kenneth Whalum](https://open.spotify.com/artist/2lnrl1gyJvhaFtNIIRnB16) | [One More Kiss](https://open.spotify.com/album/1qufygTBLF7OnpyRKoj87R) | 3:46 | 2022-02-18 | 2022-08-31 |
 | [Only You](https://open.spotify.com/track/4AvOXTQ2semU5FAmtl8vtk) | [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [Only You](https://open.spotify.com/album/3rdIkWOlV1MfsZ5qmQ7Us5) | 3:14 | 2021-12-03 | 2022-07-29 |

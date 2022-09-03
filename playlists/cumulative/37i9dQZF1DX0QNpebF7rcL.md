@@ -2,9 +2,9 @@
 
 ### [Got Blues](https://open.spotify.com/playlist/37i9dQZF1DX0QNpebF7rcL)
 
-> The best in blues right now\. Cover: Kirk Fletcher
+> The best in blues right now\. Cover: Buddy Guy
 
-218 songs - 14 hr 39 min - [published](https://open.spotify.com/playlist/6WXBnoSHTaV1fXgP91Rwcb)
+220 songs - 14 hr 46 min - [published](https://open.spotify.com/playlist/6WXBnoSHTaV1fXgP91Rwcb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,9 +157,9 @@
 | [Signs, High Times](https://open.spotify.com/track/2ugzSmr5FKy9AwBmTUkEiT) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [Signs](https://open.spotify.com/album/2SWcIu27vvZHPxEHU3FDck) | 3:51 | 2020-12-14 | 2022-02-26 |
 | [Simple Man](https://open.spotify.com/track/09NEAaQ8HTHtyTRfkZI4Gm) | [Robert Randolph & The Family Band](https://open.spotify.com/artist/4xac3zhHlBm5QDxbZeqgeR) | [Brighter Days](https://open.spotify.com/album/0O2cq6Qpljvqt4zBas4On2) | 3:03 | 2020-12-14 | 2022-02-26 |
 | [Sitting At Home Alone](https://open.spotify.com/track/1rjhzTMKG8NdgkNKRFnFmi) | [GA\-20](https://open.spotify.com/artist/5lg8xPLWMK8R3EfQlKA5bT) | [Sitting At Home Alone](https://open.spotify.com/album/77MTWaEpZrh3vjitwDfsdC) | 4:35 | 2021-08-13 | 2022-07-29 |
-| [Sitting At Home Alone](https://open.spotify.com/track/3y5yJbyAJcCSWJmUF7Fi8d) | [GA\-20](https://open.spotify.com/artist/5lg8xPLWMK8R3EfQlKA5bT) | [Try It...You Might Like It: GA\-20 Does Hound Dog Taylor](https://open.spotify.com/album/4d9H4axCobgD9iuMsP3XCj) | 4:35 | 2021-08-13 |  |
+| [Sitting At Home Alone](https://open.spotify.com/track/3y5yJbyAJcCSWJmUF7Fi8d) | [GA\-20](https://open.spotify.com/artist/5lg8xPLWMK8R3EfQlKA5bT) | [Try It...You Might Like It: GA\-20 Does Hound Dog Taylor](https://open.spotify.com/album/4d9H4axCobgD9iuMsP3XCj) | 4:35 | 2021-08-13 | 2022-09-03 |
 | [Sitting On Top Of The World](https://open.spotify.com/track/4UXEchrcvlBwJgXzlYf7Fr) | [Eric Johnson](https://open.spotify.com/artist/4CxobvwTpmfpIEbkYh4pAb) | [Sitting on Top of the World / Love Will Never Say Goodbye](https://open.spotify.com/album/5pDNlo70gsJgTs8YX1FTjp) | 3:53 | 2022-05-06 |  |
-| [Sleeping Dogs Best Left Alone](https://open.spotify.com/track/29ZxWblASXbWazPYJyI8Nl) | [Dr\. John](https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO) | [Sleeping Dogs Best Left Alone](https://open.spotify.com/album/3U9s5zYOPVSFuKpPo55iSN) | 3:59 | 2022-06-10 |  |
+| [Sleeping Dogs Best Left Alone](https://open.spotify.com/track/29ZxWblASXbWazPYJyI8Nl) | [Dr\. John](https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO) | [Sleeping Dogs Best Left Alone](https://open.spotify.com/album/3U9s5zYOPVSFuKpPo55iSN) | 3:59 | 2022-06-10 | 2022-09-03 |
 | [Sleeping Without You Is a Dragg \(feat\. Justin Vernon, Jenny Lewis\)](https://open.spotify.com/track/647yyMzcgJc1dON8QddRFo) | [Swamp Dogg](https://open.spotify.com/artist/6ZEUa75BqZkvpjhuVzCsdX), [Justin Vernon](https://open.spotify.com/artist/13rHmjtJmlIJ2aDyJc7CLV), [Jenny Lewis](https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED) | [Sorry You Couldn't Make It](https://open.spotify.com/album/3Z2NP5RmJvOwxdRm2AGKAA) | 4:01 | 2020-12-14 | 2022-02-26 |
 | [Smokestack Lightning](https://open.spotify.com/track/0AA58C0kJduvq8gvDF1E4r) | [Ghost Hounds](https://open.spotify.com/artist/69cpkpEaffiFjwcE19bvor) | [Smokestack Lightning](https://open.spotify.com/album/1mS7rSoYHzeyCHk7KHuERv) | 3:58 | 2022-04-08 | 2022-05-28 |
 | [Solid Ground](https://open.spotify.com/track/29kOOOgYW6OfqblR5Kawqt) | [Davy Knowles](https://open.spotify.com/artist/4yiPHMcw2R2SKfIsMuatfB) | [What Happens Next](https://open.spotify.com/album/5YPB4NSqjifClpCCbiNVXB) | 2:34 | 2021-10-22 |  |
@@ -202,6 +202,7 @@
 | [Twisted Ambition](https://open.spotify.com/track/0kB5X2jVipRRWxGyz0xGRC) | [Samantha Fish](https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5) | [Twisted Ambition](https://open.spotify.com/album/3PiBghHOpoFuvDw0w61QlI) | 3:14 | 2021-07-23 |  |
 | [Two Bit Texas Town](https://open.spotify.com/track/48WPGpuRXtUYWa353MFFtU) | [Sue Foley](https://open.spotify.com/artist/6bp17u6Ya0RGnEobNVGvwS) | [Pinky's Blues](https://open.spotify.com/album/7g9Y9WfxLZuswzgCy4Pwpq) | 3:44 | 2021-10-22 |  |
 | [Two Hands](https://open.spotify.com/track/61PT5UtpBFUmuJMdSlf6ii) | [Albert Cummings](https://open.spotify.com/artist/1YYXyn4etM5oe9RnJe3Mvg) | [Two Hands](https://open.spotify.com/album/38rXeCAEtZ7zYA4zYLAtEC) | 3:31 | 2022-04-05 | 2022-04-09 |
+| [Two Steps From The Blues](https://open.spotify.com/track/6ehBcXu26w7KT5ZMUHnEBj) | [Angela Strehli](https://open.spotify.com/artist/3lrwdIWcHi2VyhaiiqNw35) | [Two Steps From The Blues](https://open.spotify.com/album/1BHB22TjTZOivmUqVXg9zV) | 2:37 | 2022-09-02 |  |
 | [Under Your Spell](https://open.spotify.com/track/1n4OzgYj9CwubUx7vhf1uD) | [Tito Jackson](https://open.spotify.com/artist/1laENy18mrm9kaI9BJUbdP), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Under Your Spell](https://open.spotify.com/album/5k0hBiaEUAwqu54TauMa4T) | 2:53 | 2021-08-06 | 2022-07-29 |
 | [Under Your Spell](https://open.spotify.com/track/6cq0Q5NdeKfO6jjCrAnIov) | [Tito Jackson](https://open.spotify.com/artist/1laENy18mrm9kaI9BJUbdP), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Under Your Spell](https://open.spotify.com/album/18U447Ip4CM4yoQc26DJ1i) | 2:53 | 2021-08-06 |  |
 | [Up and Rolling](https://open.spotify.com/track/1Wg6dLYXgqxs0YtQS6ifco) | [North Mississippi Allstars](https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY) | [Up and Rolling](https://open.spotify.com/album/5jEiXH4G09AiHqBkEm2ZMM) | 5:03 | 2020-12-14 | 2022-02-26 |
@@ -210,6 +211,7 @@
 | [Warm Me Up](https://open.spotify.com/track/5FfUJfRvU5qQ7xxjzJJjQ6) | [Mike Clark & the Sugar Sounds](https://open.spotify.com/artist/01RocYhqTJzt3gzdpVM2MJ) | [Warm Me Up](https://open.spotify.com/album/4SHFOYqlrh2RPH8BOeV8zM) | 3:47 | 2022-02-18 |  |
 | [Waste Time With Me](https://open.spotify.com/track/6P9dpTcBhEWHkEQyvo5CGc) | [Son Of Dave](https://open.spotify.com/artist/5t81Dbcvlm5J7YP7cI2kae) | [Waste Time With Me](https://open.spotify.com/album/3ObYcqtUkxQkxjSxCla997) | 2:57 | 2021-10-22 | 2022-05-28 |
 | [We Get By](https://open.spotify.com/track/5PqC3OJ24NIO5pP7me68dn) | [Mavis Staples](https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0), [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [We Get By](https://open.spotify.com/album/162ZDwMcg8NGzp6BPKy58G) | 3:35 | 2020-12-14 | 2022-02-26 |
+| [We Go Back \(feat\. Mavis Staples\)](https://open.spotify.com/track/3BPogMgZeF4e3l71x2ax4w) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Mavis Staples](https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0) | [We Go Back \(feat\. Mavis Staples\)](https://open.spotify.com/album/00mf4w80NkJ3G01W3LK7ex) | 4:39 | 2022-09-02 |  |
 | [Well Well Well](https://open.spotify.com/track/6Gr0nYfH4DpKYrAggRGGZZ) | [Seasick Steve](https://open.spotify.com/artist/6OVkHZQP8QoBYqr1ejCGDv) | [Blues In Mono](https://open.spotify.com/album/2IQagMayRx6kAilOpLcBhs) | 2:30 | 2020-12-14 | 2022-02-26 |
 | [What Can I Do?](https://open.spotify.com/track/6KPBLaWLqk5CJjRprggRaP) | [Roomful Of Blues](https://open.spotify.com/artist/2ngCOxUAUuIwjkl4qYX51L) | [In A Roomful Of Blues](https://open.spotify.com/album/035KBtKfNPmzg4nR6Ab13w) | 3:04 | 2021-04-13 | 2022-04-23 |
 | [What The Hell?](https://open.spotify.com/track/5oLJtF9K70uDnGDOh6RpLC) | [Elvin Bishop & Charlie Musselwhite](https://open.spotify.com/artist/1lxMdFIZ1fKJzdG9QFkhnO), [Elvin Bishop](https://open.spotify.com/artist/2G1yVp387GlUf9yvLk6V11), [Charlie Musselwhite](https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc) | [100 Years Of Blues](https://open.spotify.com/album/0FVnunlqxdepVfMF2DBgI6) | 3:06 | 2020-12-14 | 2022-02-26 |

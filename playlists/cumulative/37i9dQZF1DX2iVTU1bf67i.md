@@ -2,7 +2,7 @@
 
 ### [In the Mood for Jazz](https://open.spotify.com/playlist/37i9dQZF1DX2iVTU1bf67i)
 
-> The warm sound and the cozy mood of classic Jazz\. Cover: Hank Mobley
+> The warm sound and the cozy mood of classic Jazz\. A soundtrack in the background for relaxing, dinner or focus\. Cover: Hank Mobley
 
 217 songs - 14 hr 47 min - [published](https://open.spotify.com/playlist/4W1f5QkM0RmmszcjLODvTL)
 
@@ -43,7 +43,7 @@
 | [Dear Kathy](https://open.spotify.com/track/151RegbPut96kOvkSiPqLb) | [Benny Golson](https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG) | [Turning Point](https://open.spotify.com/album/0agszqZvTEs9EpGAsAj6yT) | 4:48 | 2022-01-20 |  |
 | [Dedicated To You \- Remastered](https://open.spotify.com/track/3vc4CWFDV1anT2owEaQIqg) | [Sammy Davis Jr.](https://open.spotify.com/artist/1NAWG3AngjBXyKbmPaz92D) | [Capitol Collector's Series](https://open.spotify.com/album/0L3a0HwsJSOR0dARdZuWzs) | 3:14 | 2022-04-08 | 2022-04-21 |
 | [Do It Again](https://open.spotify.com/track/0NaArK8e9ovK75lLRU0OWM) | [Shirley Horn](https://open.spotify.com/artist/0x9L9ChXVAf3hFOb0CbRmd) | [Loads Of Love](https://open.spotify.com/album/4Wb8zemQ91ofj5B74Y82IY) | 2:57 | 2022-01-20 |  |
-| [Don't Be That Way](https://open.spotify.com/track/3994UsKs0tNI54lY0srRny) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Ella And Louis Again](https://open.spotify.com/album/4zWqQOob980K9drUrUGM8M) | 4:59 | 2022-04-08 |  |
+| [Don't Be That Way](https://open.spotify.com/track/3994UsKs0tNI54lY0srRny) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Ella And Louis Again](https://open.spotify.com/album/4zWqQOob980K9drUrUGM8M) | 4:59 | 2022-04-08 | 2022-09-03 |
 | [Don't Explain](https://open.spotify.com/track/5trSBbOg0lYbiDq9khCB8u) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Let It All Out](https://open.spotify.com/album/4bGiPtwVEKcXbXs7oKCMqD) | 4:18 | 2022-01-20 |  |
 | [Don't Get Around Much Any More](https://open.spotify.com/track/0U9GZufDpyO2YQRLHmcMa6) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [King Of The Tenors](https://open.spotify.com/album/2Lqk81OEcLDPxcY5ZGmB4v) | 3:05 | 2022-01-26 |  |
 | [Don't Get Around Much Anymore](https://open.spotify.com/track/0KJRVbEIMIVCjDGZ17jzWP) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [The Great Reunion](https://open.spotify.com/album/6wzvXoJA93qyTqjf4Ebeoz) | 3:35 | 2022-04-08 | 2022-09-02 |
@@ -168,7 +168,7 @@
 | [Something Cool \- Mono](https://open.spotify.com/track/2mqjKGlSdJHdjCQHtOx6PD) | [June Christy](https://open.spotify.com/artist/7D51E97yRZ8Su45PW9zbzP) | [Something Cool \(1955 Mono Version\)](https://open.spotify.com/album/1GJeSeLhbyiOpsNNjndHLA) | 4:18 | 2022-08-12 |  |
 | [Something To Remember You By](https://open.spotify.com/track/2YBFTDX53KehUg8RQY820l) | [Etta Jones](https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0) | [Don't Go To Strangers \(Rudy Van Gelder Remaster\)](https://open.spotify.com/album/5haiDu2ti0IHBHchx7dNjt) | 3:42 | 2022-01-20 |  |
 | [Soon](https://open.spotify.com/track/6FWtmmLX3pJEhKdS0OwPTc) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Sings Gershwin](https://open.spotify.com/album/3DJYxksYYP018jgpOTVXqO) | 2:47 | 2022-01-20 |  |
-| [Spring Can Really Hang You Up The Most](https://open.spotify.com/track/1706f2W2p6OpGj3n6WVGJR) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Clap Hands, Here Comes Charlie! \(Expanded Edition\)](https://open.spotify.com/album/051AdKfsuNyfiUc81mkJIR) | 6:17 | 2022-08-12 | 2022-08-18 |
+| [Spring Can Really Hang You Up The Most](https://open.spotify.com/track/1706f2W2p6OpGj3n6WVGJR) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Clap Hands, Here Comes Charlie! \(Expanded Edition\)](https://open.spotify.com/album/051AdKfsuNyfiUc81mkJIR) | 6:17 | 2022-08-12 |  |
 | [Steppin' Out With My Baby](https://open.spotify.com/track/16XegBhsozta1GH3t5LGSm) | [Fred Astaire](https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX) | [Mr\. Top Hat](https://open.spotify.com/album/0eNmpX93xeVCWWuNnKE7Oz) | 2:20 | 2022-01-20 | 2022-08-18 |
 | [Stompin' At The Savoy](https://open.spotify.com/track/4Vlx6e5XTN3aQ9MjUF1p6q) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Ella And Louis Again](https://open.spotify.com/album/4zWqQOob980K9drUrUGM8M) | 5:12 | 2022-08-17 | 2022-08-31 |
 | [Stormy Weather](https://open.spotify.com/track/2IdwQxhJn9ZE4zIotcCefR) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [At Last!](https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt) | 3:07 | 2022-01-20 | 2022-08-11 |

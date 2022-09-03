@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Chloe Moriondo
 
-1,332 songs - 2 day 21 hr 58 min - [published](https://open.spotify.com/playlist/2nCGCENCYFC3EyufXsiFQ9)
+1,333 songs - 2 day 22 hr 2 min - [published](https://open.spotify.com/playlist/2nCGCENCYFC3EyufXsiFQ9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -537,6 +537,7 @@
 | [Home](https://open.spotify.com/track/2VqAGGmmxomwGTxp7699JB) | [Fiji Blue](https://open.spotify.com/artist/1e7K8jD3wRuQfnwDAOeGqe) | [Home](https://open.spotify.com/album/2BJtTSnAiDwhByqZR7Cwhv) | 2:40 | 2020-10-20 | 2020-10-21 |
 | [Home](https://open.spotify.com/track/62VYVWExRnkAmcbKTOvk1l) | [Scarypoolparty](https://open.spotify.com/artist/6nnETPmZS7rdAwzBLhMPXn) | [Home](https://open.spotify.com/album/4n9GXR9Tu9o4SE0eGvTMfA) | 3:45 | 2021-02-22 | 2021-05-28 |
 | [Home By Now](https://open.spotify.com/track/5nnPrQFYUQijEz4lwMX4dC) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Home By Now](https://open.spotify.com/album/6ua077NQRY18YA0Yhk5rVt) | 4:28 | 2022-06-01 | 2022-08-06 |
+| [Home By Now](https://open.spotify.com/track/5vYaBqOAT6JpZlAD3gO1AO) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [MUNA](https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l) | 4:28 | 2022-08-26 |  |
 | [homebody](https://open.spotify.com/track/0JVd3a4OYQCFg6MPKDtQTx) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [sucks to see you doing better](https://open.spotify.com/album/5lfELljfy64NbnEZVksAXn) | 3:11 | 2020-11-10 | 2022-07-29 |
 | [homebody](https://open.spotify.com/track/4By9kkp1R1TSmAMckSM3KO) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [sucks to see you doing better \(extended\)](https://open.spotify.com/album/2W8nO4x2KlHc3z3xxe23PW) | 3:11 | 2022-06-17 | 2022-08-06 |
 | [Honey](https://open.spotify.com/track/658qcSLPvoU4IZJhjxPHRo) | [Rook Monroe](https://open.spotify.com/artist/0xwMjJn29gSNkQYNxc5IED) | [Honey](https://open.spotify.com/album/2erYmQSfrlmfOdktVdUcE3) | 2:28 | 2021-02-06 | 2021-10-23 |
@@ -959,7 +960,7 @@
 | [Prom](https://open.spotify.com/track/5flMoOfc914PhFtAD8e1gX) | [Augustine](https://open.spotify.com/artist/1esNGCDFDiy6sKEqPhlLb4) | [Prom](https://open.spotify.com/album/35R9EjeVUv2oZBiEur310h) | 2:47 | 2021-02-25 | 2021-10-14 |
 | [Prom](https://open.spotify.com/track/0jDly7CyGCcPWGw5LNr7KL) | [courtship.](https://open.spotify.com/artist/2OK16hAFRHoJiFZKeZe8A8) | [Prom](https://open.spotify.com/album/0NB5k9Uopjw1Fxg5wjISAk) | 4:09 | 2021-05-08 | 2022-04-16 |
 | [Prom Queen](https://open.spotify.com/track/6MpCaSIOfqBqbMED4kXgNY) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Prom Queen](https://open.spotify.com/album/1lgr82yCJYR5lgsSyxXgBH) | 2:16 | 2021-03-06 | 2022-04-06 |
-| [Punching Bag](https://open.spotify.com/track/68LD7fYCVnACJtnLKHd3Q9) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Punching Bag](https://open.spotify.com/album/5btTgXXIZWCd7oAnToE1pl) | 2:33 | 2021-06-04 |  |
+| [Punching Bag](https://open.spotify.com/track/68LD7fYCVnACJtnLKHd3Q9) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Punching Bag](https://open.spotify.com/album/5btTgXXIZWCd7oAnToE1pl) | 2:33 | 2021-06-04 | 2022-09-03 |
 | [Puppy](https://open.spotify.com/track/3R5YAmx1HzkobNpMDNbFT4) | [Grady](https://open.spotify.com/artist/6FmiNnTXQJTmOMAx4kB38R) | [Puppy](https://open.spotify.com/album/7yVEnMhX4OPPftLAsU6zsn) | 2:26 | 2020-10-13\* | 2020-10-16 |
 | [Purge The Poison](https://open.spotify.com/track/1sy0mqUBREJx0A89UsIkIl) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [Purge The Poison](https://open.spotify.com/album/4l15cBxcsMtKozzTLPsXnc) | 3:16 | 2021-05-03 | 2021-05-26 |
 | [Purple Haze](https://open.spotify.com/track/6CD5sIa3Li1gUvlfIL8ew3) | [Zella Day](https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6) | [Purple Haze](https://open.spotify.com/album/1eQdAPkg20LXtt71zE97Pj) | 3:18 | 2021-01-16 | 2021-05-25 |

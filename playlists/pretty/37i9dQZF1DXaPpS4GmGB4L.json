@@ -1,12 +1,12 @@
 {
   "description": "Grab your dancing shoes and strut your stuff with these upbeat blues numbers.",
-  "num_followers": 25046,
+  "num_followers": 25091,
   "original_name": "Upbeat Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDgyMjA4MywwMDAwMDAwMGJjNzk1YzJiZTk5MzE5ZjFiYzIzYmFhOTg1ZTYwMmVl",
+  "snapshot_id": "MTY2MDgyMjA4MywwMDAwMDAwMGZlOTAwNzgzNDIyOGFlM2EyN2IxY2IzMGNmM2NiYTA3",
   "tracks": [
     {
       "added_at": "2022-08-18 11:28:03",
@@ -547,22 +547,6 @@
     {
       "added_at": "2022-08-18 11:28:03",
       "album": {
-        "name": "Hate To See You Go",
-        "url": "https://open.spotify.com/album/7KZt4TYZm8A4tN1hqQpLRI"
-      },
-      "artists": [
-        {
-          "name": "Little Walter",
-          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
-        }
-      ],
-      "duration_ms": 136013,
-      "name": "Hate To See You Go",
-      "url": "https://open.spotify.com/track/5jthNmPnbVPiEcO8JGgRsZ"
-    },
-    {
-      "added_at": "2022-08-18 11:28:03",
-      "album": {
         "name": "The Real Folk Blues",
         "url": "https://open.spotify.com/album/1q9Zi4GCAuso7SetyHHaXg"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 168466,
       "name": "One Way Out - Mono Version",
       "url": "https://open.spotify.com/track/2itCQlm9s7yW21eZoF4eyH"
+    },
+    {
+      "added_at": "2022-08-18 11:28:03",
+      "album": {
+        "name": "Hate To See You Go",
+        "url": "https://open.spotify.com/album/7KZt4TYZm8A4tN1hqQpLRI"
+      },
+      "artists": [
+        {
+          "name": "Little Walter",
+          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
+        }
+      ],
+      "duration_ms": 136013,
+      "name": "Hate To See You Go",
+      "url": "https://open.spotify.com/track/5jthNmPnbVPiEcO8JGgRsZ"
     },
     {
       "added_at": "2022-08-18 11:28:03",
@@ -727,22 +727,6 @@
     {
       "added_at": "2022-08-18 11:28:03",
       "album": {
-        "name": "Shake Your Money Maker: The Best Of The Fire Sessions",
-        "url": "https://open.spotify.com/album/5f4i4c03PdC3yHI63Ccauu"
-      },
-      "artists": [
-        {
-          "name": "Elmore James",
-          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
-        }
-      ],
-      "duration_ms": 152893,
-      "name": "Shake Your Money Maker",
-      "url": "https://open.spotify.com/track/2VxnY6jbl0SckkZp9wrNF7"
-    },
-    {
-      "added_at": "2022-08-18 11:28:03",
-      "album": {
         "name": "The Essential Little Walter",
         "url": "https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 144493,
       "name": "Just Your Fool",
       "url": "https://open.spotify.com/track/4Dxe3Y8MPu7ffNrBFPNzRL"
+    },
+    {
+      "added_at": "2022-08-18 11:28:03",
+      "album": {
+        "name": "Shake Your Money Maker: The Best Of The Fire Sessions",
+        "url": "https://open.spotify.com/album/5f4i4c03PdC3yHI63Ccauu"
+      },
+      "artists": [
+        {
+          "name": "Elmore James",
+          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
+        }
+      ],
+      "duration_ms": 152893,
+      "name": "Shake Your Money Maker",
+      "url": "https://open.spotify.com/track/2VxnY6jbl0SckkZp9wrNF7"
     },
     {
       "added_at": "2022-08-18 11:28:03",

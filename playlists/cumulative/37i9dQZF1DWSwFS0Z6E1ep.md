@@ -4,7 +4,7 @@
 
 > The biggest party hits of the 1950s\. Cover: Elvis.
 
-261 songs - 11 hr 23 min - [published](https://open.spotify.com/playlist/5d834Vfy0GpgZiax0dUN0t)
+262 songs - 11 hr 25 min - [published](https://open.spotify.com/playlist/5d834Vfy0GpgZiax0dUN0t)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -266,7 +266,8 @@
 | [Why Do I Love You](https://open.spotify.com/track/7LkUjO1SvSUbtZGv2U3UqX) | [Alton and Jimmy](https://open.spotify.com/artist/6vWyaGuabliWa65EWzVnOp) | [Sun Records \- Rockabilly Archive](https://open.spotify.com/album/11T29v7GCXUnwgRziqoNZL) | 2:20 | 2021-04-23 | 2022-07-08 |
 | [Wild One](https://open.spotify.com/track/1IzdDoX6afO75QGfISsc9U) | [Jerry Lee Lewis](https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo) | [Rockabilly Portrait](https://open.spotify.com/album/0O2LfyOYGw2sbFYt26NMse) | 1:49 | 2022-04-29 |  |
 | [Wild Thing](https://open.spotify.com/track/7jGzYUZ2Bgg8BDfYlQRfn8) | [The Troggs](https://open.spotify.com/artist/57xdnSVt4ahJCIXYLieQ25) | [From Nowhere](https://open.spotify.com/album/1myVNI7Ucy8g9HudbJ8Vu2) | 2:35 | 2022-06-07 |  |
-| [Yakety Yak](https://open.spotify.com/track/7demHL0GXA6YmTNqw3Btz8) | [The Coasters](https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM) | [Rhino Hi\-Five: The Coasters](https://open.spotify.com/album/2Yvat4w8j7hrJ1JVUz0wAw) | 1:53 | 2021-04-23 |  |
+| [Yakety Yak](https://open.spotify.com/track/7demHL0GXA6YmTNqw3Btz8) | [The Coasters](https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM) | [Rhino Hi\-Five: The Coasters](https://open.spotify.com/album/2Yvat4w8j7hrJ1JVUz0wAw) | 1:53 | 2021-04-23 | 2022-09-03 |
+| [Yakety Yak \- 2007 Remaster](https://open.spotify.com/track/3Lbxie6whOW4eMt4jtI32k) | [The Coasters](https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM) | [There's A Riot Goin' On: The Coasters On Atco](https://open.spotify.com/album/1oi6aLPgSAwv3352Jtmjku) | 1:56 | 2022-06-07 |  |
 | [You Make Me Feel So Young \- Remastered 1998](https://open.spotify.com/track/2WaYW84yWij5NSCpgSeU2R) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Songs For Swingin' Lovers! \(Remastered\)](https://open.spotify.com/album/4kca7vXd1Wo5GE2DMafvMc) | 2:57 | 2021-04-23 |  |
 | [You Never Can Tell](https://open.spotify.com/track/6FT83pFXKhDlXDsNJFAHWz) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [St\. Louis To Liverpool](https://open.spotify.com/album/6ITR4bqkKZGyanAlQgXtyK) | 2:41 | 2022-06-07 |  |
 

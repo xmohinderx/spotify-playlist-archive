@@ -4,7 +4,7 @@
 
 > The best in current indie rock\. Cover: Connie Constance
 
-244 songs - 13 hr 45 min - [published](https://open.spotify.com/playlist/6icr08W6LxkqPUtZpmcgvv)
+245 songs - 13 hr 48 min - [published](https://open.spotify.com/playlist/6icr08W6LxkqPUtZpmcgvv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,8 @@
 | [Deep](https://open.spotify.com/track/1Qd0jDJKlgBTuCNqlM4GWO) | [ARXX](https://open.spotify.com/artist/1pQ8qfxpuRJKEUFPGrf6Uc) | [Deep](https://open.spotify.com/album/3UVA6Nxe9gBBRVmbZwwIld) | 3:00 | 2021-03-19 | 2022-01-17 |
 | [Designated Driver](https://open.spotify.com/track/73u0xUD9Aag0hI1d2d0VU5) | [Motel Marys](https://open.spotify.com/artist/1mLFRG2MVmK7pRIoPTSRcj) | [Designated Driver](https://open.spotify.com/album/0MQ37Z3Hnkd1KhOHAhCkcH) | 2:35 | 2021-03-09 | 2022-01-17 |
 | [Diet Cigarette](https://open.spotify.com/track/66MqvK5aWjC4c2t8txkZh9) | [Uninvited](https://open.spotify.com/artist/5q0XJRqusj0KaNKwLVSVQn) | [Diet Cigarette](https://open.spotify.com/album/6S8jivSZAqfqU81AR6dZSP) | 3:41 | 2021-10-29 | 2022-08-19 |
-| [Dig!](https://open.spotify.com/track/003jZXYNwnO3rl83ajtLpd) | [Sports Team](https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh) | [Dig!](https://open.spotify.com/album/5HoYh07ZPhKkZ1hwV5VFL7) | 2:41 | 2022-09-01 |  |
+| [Dig!](https://open.spotify.com/track/003jZXYNwnO3rl83ajtLpd) | [Sports Team](https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh) | [Dig!](https://open.spotify.com/album/5HoYh07ZPhKkZ1hwV5VFL7) | 2:41 | 2022-09-01 | 2022-09-03 |
+| [Dig!](https://open.spotify.com/track/0jhhWCD0oXc4E480bMl6L7) | [Sports Team](https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh) | [Dig!](https://open.spotify.com/album/2Hs7jUW49pEuMW7jirgbt8) | 2:41 | 2022-09-01 |  |
 | [Digital Atlas](https://open.spotify.com/track/4DweoPyHETeUjbkUDwHlnl) | [Daisy Brain](https://open.spotify.com/artist/5WuDKeWph4EKsyy9e56Mz4) | [Digital Atlas](https://open.spotify.com/album/3pPp2gMM0o5BK92geIkWa8) | 3:02 | 2022-02-04 |  |
 | [Do It All the Same](https://open.spotify.com/track/6o9mE8B6hhpDWutaOSsAho) | [Molly Payton](https://open.spotify.com/artist/6mbzLeDgokrXD05pj6kf0N) | [Do It All the Same](https://open.spotify.com/album/0oqtiAPmi6ZiZd7PnuDLuT) | 3:27 | 2022-09-01 |  |
 | [Don't Press Me](https://open.spotify.com/track/1kjV1x2jSTA6g4RoPm3HdY) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [Anna Calls From The Arctic](https://open.spotify.com/album/5jwTWkWKnLiNQL9NXklUva) | 1:50 | 2022-08-18 |  |

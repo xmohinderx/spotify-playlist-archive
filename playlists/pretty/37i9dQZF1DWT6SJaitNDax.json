@@ -1,12 +1,12 @@
 {
   "description": "Afro sounds crossing borders.  Cover: <a href=\"https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg?si=xCx4Iw6eRwWSDCBpAtKEbQ\">Pheelz</a>",
-  "num_followers": 544454,
+  "num_followers": 544643,
   "original_name": "We Everywhere",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDg4MTY2MCwwMDAwMDAwMDhhZjNiZGRmMTU5MTkxMmU2OTkzM2JjNGUwNDI2MGEx",
+  "snapshot_id": "MTY2MDg4MTY2MCwwMDAwMDAwMGU1YWVlMzZjNzI2YmNlZDc2MTdhYjIwZjQ4YmMyOGJi",
   "tracks": [
     {
       "added_at": "2022-08-19 04:01:00",
@@ -207,18 +207,22 @@
     {
       "added_at": "2022-08-19 04:01:00",
       "album": {
-        "name": "Honestly, Nevermind",
-        "url": "https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw"
+        "name": "Made In Lagos",
+        "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
       },
       "artists": [
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "WizKid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
         }
       ],
-      "duration_ms": 308820,
-      "name": "Texts Go Green",
-      "url": "https://open.spotify.com/track/4FIgHqXd4KkOwxrGeLDYM2"
+      "duration_ms": 248040,
+      "name": "Essence (feat. Tems)",
+      "url": "https://open.spotify.com/track/5FG7Tl93LdH117jEKYl3Cm"
     },
     {
       "added_at": "2022-08-19 04:01:00",
@@ -303,22 +307,18 @@
     {
       "added_at": "2022-08-19 04:01:00",
       "album": {
-        "name": "Made In Lagos",
-        "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
+        "name": "Honestly, Nevermind",
+        "url": "https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw"
       },
       "artists": [
         {
-          "name": "WizKid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        },
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 248040,
-      "name": "Essence (feat. Tems)",
-      "url": "https://open.spotify.com/track/5FG7Tl93LdH117jEKYl3Cm"
+      "duration_ms": 308820,
+      "name": "Texts Go Green",
+      "url": "https://open.spotify.com/track/4FIgHqXd4KkOwxrGeLDYM2"
     },
     {
       "added_at": "2022-08-19 04:01:00",
@@ -467,26 +467,6 @@
     {
       "added_at": "2022-08-19 04:01:00",
       "album": {
-        "name": "Certified Lover Boy",
-        "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 192417,
-      "name": "Fountains (with Tems)",
-      "url": "https://open.spotify.com/track/08XWh5c0BMyD1nKVxxl91z"
-    },
-    {
-      "added_at": "2022-08-19 04:01:00",
-      "album": {
         "name": "The Beauty of Becoming",
         "url": "https://open.spotify.com/album/1AUSfQC9x3SsqNQhFq05l7"
       },
@@ -523,6 +503,26 @@
       "duration_ms": 207030,
       "name": "Be Honest (feat. Burna Boy)",
       "url": "https://open.spotify.com/track/5pAbCxt9e3f81lOmjIXwzd"
+    },
+    {
+      "added_at": "2022-08-19 04:01:00",
+      "album": {
+        "name": "Certified Lover Boy",
+        "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 192417,
+      "name": "Fountains (with Tems)",
+      "url": "https://open.spotify.com/track/08XWh5c0BMyD1nKVxxl91z"
     },
     {
       "added_at": "2022-08-19 04:01:00",
@@ -571,22 +571,6 @@
     {
       "added_at": "2022-08-19 04:01:00",
       "album": {
-        "name": "M\u00e9chante",
-        "url": "https://open.spotify.com/album/1k6MS0e5EMEkCDZ88fiLQ5"
-      },
-      "artists": [
-        {
-          "name": "Aya Nakamura",
-          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
-        }
-      ],
-      "duration_ms": 171493,
-      "name": "M\u00e9chante",
-      "url": "https://open.spotify.com/track/5k5duWxo5HqhetBe6ucgZJ"
-    },
-    {
-      "added_at": "2022-08-19 04:01:00",
-      "album": {
         "name": "[BUMP] Pick Me Up",
         "url": "https://open.spotify.com/album/6zRk8SdWozgrlByoZJkCjM"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 204434,
       "name": "[The Jackie] (with J. Cole & Lil Tjay)",
       "url": "https://open.spotify.com/track/2cny5OSTr2976U3o018GoV"
+    },
+    {
+      "added_at": "2022-08-19 04:01:00",
+      "album": {
+        "name": "M\u00e9chante",
+        "url": "https://open.spotify.com/album/1k6MS0e5EMEkCDZ88fiLQ5"
+      },
+      "artists": [
+        {
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+        }
+      ],
+      "duration_ms": 171493,
+      "name": "M\u00e9chante",
+      "url": "https://open.spotify.com/track/5k5duWxo5HqhetBe6ucgZJ"
     },
     {
       "added_at": "2022-08-19 04:01:00",
@@ -707,18 +707,22 @@
     {
       "added_at": "2022-08-19 04:01:00",
       "album": {
-        "name": "Bobo",
-        "url": "https://open.spotify.com/album/5SCo5QT25AqRFb5CnipuTI"
+        "name": "We're All Alone In This Together",
+        "url": "https://open.spotify.com/album/6HwzIlrCDq3WF9vMq8meqG"
       },
       "artists": [
         {
-          "name": "Aya Nakamura",
-          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        },
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
         }
       ],
-      "duration_ms": 187873,
-      "name": "Bobo",
-      "url": "https://open.spotify.com/track/6wL9pSXJ4roDSEoBpYyQy7"
+      "duration_ms": 204373,
+      "name": "Lazarus (feat. Boj)",
+      "url": "https://open.spotify.com/track/4wvnXoQqjIOoEis5eyTbCl"
     },
     {
       "added_at": "2022-08-19 04:01:00",
@@ -747,22 +751,34 @@
     {
       "added_at": "2022-08-19 04:01:00",
       "album": {
-        "name": "We're All Alone In This Together",
-        "url": "https://open.spotify.com/album/6HwzIlrCDq3WF9vMq8meqG"
+        "name": "Bobo",
+        "url": "https://open.spotify.com/album/5SCo5QT25AqRFb5CnipuTI"
       },
       "artists": [
         {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        },
-        {
-          "name": "Boj",
-          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
         }
       ],
-      "duration_ms": 204373,
-      "name": "Lazarus (feat. Boj)",
-      "url": "https://open.spotify.com/track/4wvnXoQqjIOoEis5eyTbCl"
+      "duration_ms": 187873,
+      "name": "Bobo",
+      "url": "https://open.spotify.com/track/6wL9pSXJ4roDSEoBpYyQy7"
+    },
+    {
+      "added_at": "2022-08-19 04:01:00",
+      "album": {
+        "name": "African Giant",
+        "url": "https://open.spotify.com/album/34vlTd4355ddD4q9pPsoqF"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 188741,
+      "name": "Anybody",
+      "url": "https://open.spotify.com/track/44SSviC4R1TkAdsyptjDpE"
     },
     {
       "added_at": "2022-08-19 04:01:00",
@@ -783,22 +799,6 @@
       "duration_ms": 213860,
       "name": "No Woman No Cry",
       "url": "https://open.spotify.com/track/6jo1FMdBzPKofW4iPIdQkR"
-    },
-    {
-      "added_at": "2022-08-19 04:01:00",
-      "album": {
-        "name": "African Giant",
-        "url": "https://open.spotify.com/album/34vlTd4355ddD4q9pPsoqF"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 188741,
-      "name": "Anybody",
-      "url": "https://open.spotify.com/track/44SSviC4R1TkAdsyptjDpE"
     },
     {
       "added_at": "2022-08-19 04:01:00",
@@ -867,26 +867,6 @@
     {
       "added_at": "2022-08-19 04:01:00",
       "album": {
-        "name": "Roadblock",
-        "url": "https://open.spotify.com/album/5Iqujhk1y4Q4KoQILNzvgS"
-      },
-      "artists": [
-        {
-          "name": "NSG",
-          "url": "https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA"
-        },
-        {
-          "name": "LD",
-          "url": "https://open.spotify.com/artist/4eQGLO5ExQniSLvj5NjW6m"
-        }
-      ],
-      "duration_ms": 233293,
-      "name": "Roadblock",
-      "url": "https://open.spotify.com/track/1TfpBtkEQiDISwBcW1BeCX"
-    },
-    {
-      "added_at": "2022-08-19 04:01:00",
-      "album": {
         "name": "Twice As Tall",
         "url": "https://open.spotify.com/album/218CJKDCszsQQj7Amk7vIu"
       },
@@ -907,22 +887,22 @@
     {
       "added_at": "2022-08-19 04:01:00",
       "album": {
-        "name": "EDNA",
-        "url": "https://open.spotify.com/album/0fq4uzIIA44Bkw0fCQ5KAU"
+        "name": "Roadblock",
+        "url": "https://open.spotify.com/album/5Iqujhk1y4Q4KoQILNzvgS"
       },
       "artists": [
         {
-          "name": "Headie One",
-          "url": "https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh"
+          "name": "NSG",
+          "url": "https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA"
         },
         {
-          "name": "Young T & Bugsey",
-          "url": "https://open.spotify.com/artist/6M6XXCcO5gI68XpIlrUL3Z"
+          "name": "LD",
+          "url": "https://open.spotify.com/artist/4eQGLO5ExQniSLvj5NjW6m"
         }
       ],
-      "duration_ms": 185080,
-      "name": "Princess Cuts (feat. Young T & Bugsey)",
-      "url": "https://open.spotify.com/track/63Sb1AMnhb37DR59uXZdQd"
+      "duration_ms": 233293,
+      "name": "Roadblock",
+      "url": "https://open.spotify.com/track/1TfpBtkEQiDISwBcW1BeCX"
     },
     {
       "added_at": "2022-08-19 04:01:00",
@@ -943,6 +923,26 @@
       "duration_ms": 145652,
       "name": "Come Over (Remix)",
       "url": "https://open.spotify.com/track/5RBc2SUllAJG4gUZdXTBIj"
+    },
+    {
+      "added_at": "2022-08-19 04:01:00",
+      "album": {
+        "name": "EDNA",
+        "url": "https://open.spotify.com/album/0fq4uzIIA44Bkw0fCQ5KAU"
+      },
+      "artists": [
+        {
+          "name": "Headie One",
+          "url": "https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh"
+        },
+        {
+          "name": "Young T & Bugsey",
+          "url": "https://open.spotify.com/artist/6M6XXCcO5gI68XpIlrUL3Z"
+        }
+      ],
+      "duration_ms": 185080,
+      "name": "Princess Cuts (feat. Young T & Bugsey)",
+      "url": "https://open.spotify.com/track/63Sb1AMnhb37DR59uXZdQd"
     },
     {
       "added_at": "2022-08-19 04:01:00",
@@ -1043,26 +1043,6 @@
     {
       "added_at": "2022-08-19 04:01:00",
       "album": {
-        "name": "Made In Lagos",
-        "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
-      },
-      "artists": [
-        {
-          "name": "WizKid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        },
-        {
-          "name": "Damian Marley",
-          "url": "https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi"
-        }
-      ],
-      "duration_ms": 262973,
-      "name": "Blessed (feat. Damian Marley)",
-      "url": "https://open.spotify.com/track/3QO1m6i0nsrp8aOnapvbkx"
-    },
-    {
-      "added_at": "2022-08-19 04:01:00",
-      "album": {
         "name": "Pioneers",
         "url": "https://open.spotify.com/album/7tFUesVQ7An8e5pEu7sPYv"
       },
@@ -1091,6 +1071,26 @@
       "duration_ms": 194594,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/319xYgRF9JFpGLTtiCDhC7"
+    },
+    {
+      "added_at": "2022-08-19 04:01:00",
+      "album": {
+        "name": "Made In Lagos",
+        "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
+      },
+      "artists": [
+        {
+          "name": "WizKid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Damian Marley",
+          "url": "https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi"
+        }
+      ],
+      "duration_ms": 262973,
+      "name": "Blessed (feat. Damian Marley)",
+      "url": "https://open.spotify.com/track/3QO1m6i0nsrp8aOnapvbkx"
     },
     {
       "added_at": "2022-08-19 04:01:00",
@@ -1355,6 +1355,22 @@
     {
       "added_at": "2022-08-19 04:01:00",
       "album": {
+        "name": "AWAY",
+        "url": "https://open.spotify.com/album/0ARscMPXbdZCwPgjhFPTWy"
+      },
+      "artists": [
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        }
+      ],
+      "duration_ms": 164571,
+      "name": "AWAY",
+      "url": "https://open.spotify.com/track/1wfIqsTXmMVtZxYk8uWxGa"
+    },
+    {
+      "added_at": "2022-08-19 04:01:00",
+      "album": {
         "name": "A Good Time",
         "url": "https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n"
       },
@@ -1371,22 +1387,6 @@
       "duration_ms": 172500,
       "name": "D & G (feat. Summer Walker)",
       "url": "https://open.spotify.com/track/0xr7t6jQWzFsZ9XwfcxAu7"
-    },
-    {
-      "added_at": "2022-08-19 04:01:00",
-      "album": {
-        "name": "AWAY",
-        "url": "https://open.spotify.com/album/0ARscMPXbdZCwPgjhFPTWy"
-      },
-      "artists": [
-        {
-          "name": "Oxlade",
-          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
-        }
-      ],
-      "duration_ms": 164571,
-      "name": "AWAY",
-      "url": "https://open.spotify.com/track/1wfIqsTXmMVtZxYk8uWxGa"
     },
     {
       "added_at": "2022-08-19 04:01:00",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2022-08-19 04:01:00",
       "album": {
-        "name": "Therapy",
-        "url": "https://open.spotify.com/album/5HTQ5jXZYHmG0rsYpABqGp"
-      },
-      "artists": [
-        {
-          "name": "Stonebwoy",
-          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
-        }
-      ],
-      "duration_ms": 185341,
-      "name": "Therapy",
-      "url": "https://open.spotify.com/track/1qIATFQg93M6KvhPh9QSNc"
-    },
-    {
-      "added_at": "2022-08-19 04:01:00",
-      "album": {
         "name": "Mirage",
         "url": "https://open.spotify.com/album/0vNvd6GC6cy7BKyP2dqPZY"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 194000,
       "name": "Peace",
       "url": "https://open.spotify.com/track/4aMtac1abQZDOliAZpbIJF"
+    },
+    {
+      "added_at": "2022-08-19 04:01:00",
+      "album": {
+        "name": "Therapy",
+        "url": "https://open.spotify.com/album/5HTQ5jXZYHmG0rsYpABqGp"
+      },
+      "artists": [
+        {
+          "name": "Stonebwoy",
+          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
+        }
+      ],
+      "duration_ms": 185341,
+      "name": "Therapy",
+      "url": "https://open.spotify.com/track/1qIATFQg93M6KvhPh9QSNc"
     },
     {
       "added_at": "2022-08-19 04:01:00",
@@ -1667,34 +1667,6 @@
     {
       "added_at": "2022-08-19 04:01:00",
       "album": {
-        "name": "WATAWI (feat. Davido, Focalistic & Abidoza) [Edit]",
-        "url": "https://open.spotify.com/album/2aN0xNQEkjaEGW2d0NReSg"
-      },
-      "artists": [
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        },
-        {
-          "name": "Focalistic",
-          "url": "https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "Abidoza",
-          "url": "https://open.spotify.com/artist/1Ck3UYsoNkZ63PLY8yZR33"
-        }
-      ],
-      "duration_ms": 169911,
-      "name": "WATAWI (feat. Davido, Focalistic & Abidoza) - Edit",
-      "url": "https://open.spotify.com/track/2ZLcMQmxJvHHQgcRbawsjz"
-    },
-    {
-      "added_at": "2022-08-19 04:01:00",
-      "album": {
         "name": "Dream Girl (Global Remix)",
         "url": "https://open.spotify.com/album/0sQ2hDPOvRDi71FSWB73JD"
       },
@@ -1715,6 +1687,26 @@
       "duration_ms": 212405,
       "name": "Dream Girl - Global Remix",
       "url": "https://open.spotify.com/track/5Etwr8GddDDAwuTK84m5JI"
+    },
+    {
+      "added_at": "2022-08-19 04:01:00",
+      "album": {
+        "name": "Fleur froide - Second \u00e9tat : la cristallisation",
+        "url": "https://open.spotify.com/album/1Z660Pt8QbyPBmJUjuHS34"
+      },
+      "artists": [
+        {
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+        },
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        }
+      ],
+      "duration_ms": 179884,
+      "name": "D O D O - Adekunle Gold Version",
+      "url": "https://open.spotify.com/track/6bHb2ngQ4ZxxQbnjq4ir3D"
     },
     {
       "added_at": "2022-08-19 04:01:00",
@@ -1771,22 +1763,50 @@
     {
       "added_at": "2022-08-19 04:01:00",
       "album": {
-        "name": "Fleur froide - Second \u00e9tat : la cristallisation",
-        "url": "https://open.spotify.com/album/1Z660Pt8QbyPBmJUjuHS34"
+        "name": "WATAWI (feat. Davido, Focalistic & Abidoza) [Edit]",
+        "url": "https://open.spotify.com/album/2aN0xNQEkjaEGW2d0NReSg"
       },
       "artists": [
         {
-          "name": "Tayc",
-          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
         },
         {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+          "name": "Focalistic",
+          "url": "https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Abidoza",
+          "url": "https://open.spotify.com/artist/1Ck3UYsoNkZ63PLY8yZR33"
         }
       ],
-      "duration_ms": 179884,
-      "name": "D O D O - Adekunle Gold Version",
-      "url": "https://open.spotify.com/track/6bHb2ngQ4ZxxQbnjq4ir3D"
+      "duration_ms": 169911,
+      "name": "WATAWI (feat. Davido, Focalistic & Abidoza) - Edit",
+      "url": "https://open.spotify.com/track/2ZLcMQmxJvHHQgcRbawsjz"
+    },
+    {
+      "added_at": "2022-08-19 04:01:00",
+      "album": {
+        "name": "All or Nothing",
+        "url": "https://open.spotify.com/album/35J4qJY7CLZzn3o682sx2V"
+      },
+      "artists": [
+        {
+          "name": "Rotimi",
+          "url": "https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf"
+        },
+        {
+          "name": "Busy Signal",
+          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
+        }
+      ],
+      "duration_ms": 206786,
+      "name": "Fiction (feat. Busy Signal)",
+      "url": "https://open.spotify.com/track/27FUxZMduwKmhhCmnXjqTO"
     },
     {
       "added_at": "2022-08-19 04:01:00",
@@ -1811,30 +1831,6 @@
     {
       "added_at": "2022-08-19 04:01:00",
       "album": {
-        "name": "Ke Star (Remix)",
-        "url": "https://open.spotify.com/album/0ycU5aDeq22IewMlUF1A66"
-      },
-      "artists": [
-        {
-          "name": "Focalistic",
-          "url": "https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "Virgo Deep",
-          "url": "https://open.spotify.com/artist/4Ml0ZcVza4oApvqWK8K7wM"
-        }
-      ],
-      "duration_ms": 328766,
-      "name": "Ke Star - Remix",
-      "url": "https://open.spotify.com/track/7b3991NnMDhwZRq7C2Cpgc"
-    },
-    {
-      "added_at": "2022-08-19 04:01:00",
-      "album": {
         "name": "Lenu (Remix)",
         "url": "https://open.spotify.com/album/0XPpgvyG25SbLEcKvAMinb"
       },
@@ -1855,22 +1851,26 @@
     {
       "added_at": "2022-08-19 04:01:00",
       "album": {
-        "name": "All or Nothing",
-        "url": "https://open.spotify.com/album/35J4qJY7CLZzn3o682sx2V"
+        "name": "Ke Star (Remix)",
+        "url": "https://open.spotify.com/album/0ycU5aDeq22IewMlUF1A66"
       },
       "artists": [
         {
-          "name": "Rotimi",
-          "url": "https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf"
+          "name": "Focalistic",
+          "url": "https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju"
         },
         {
-          "name": "Busy Signal",
-          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Virgo Deep",
+          "url": "https://open.spotify.com/artist/4Ml0ZcVza4oApvqWK8K7wM"
         }
       ],
-      "duration_ms": 206786,
-      "name": "Fiction (feat. Busy Signal)",
-      "url": "https://open.spotify.com/track/27FUxZMduwKmhhCmnXjqTO"
+      "duration_ms": 328766,
+      "name": "Ke Star - Remix",
+      "url": "https://open.spotify.com/track/7b3991NnMDhwZRq7C2Cpgc"
     },
     {
       "added_at": "2022-08-19 04:01:00",

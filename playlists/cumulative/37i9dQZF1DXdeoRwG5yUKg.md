@@ -2,9 +2,9 @@
 
 ### [Blue Ballads](https://open.spotify.com/playlist/37i9dQZF1DXdeoRwG5yUKg)
 
-> Soulful, bluesy ballads\. Cover: Lizz Wright
+> Soulful, bluesy ballads\. Cover: The War and Treaty
 
-120 songs - 8 hr 26 min - [published](https://open.spotify.com/playlist/75KE2wEWnN31m3GF8kYS07)
+123 songs - 8 hr 37 min - [published](https://open.spotify.com/playlist/75KE2wEWnN31m3GF8kYS07)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Call On God](https://open.spotify.com/track/6S2WRQBK9uKW2J6RTJXY6N) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [Call on God \- Single](https://open.spotify.com/album/4H7Zk2z3wYfj5UuwoPIoPl) | 3:37 | 2020-11-05 | 2022-07-29 |
 | [Carry On](https://open.spotify.com/track/4ZFhVVawR0xMJ5dJFNxFRl) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Day Breaks](https://open.spotify.com/album/7ampUMuhfCx0briKjYNKRQ) | 2:48 | 2020-11-05 |  |
 | [Closer](https://open.spotify.com/track/5QqFQFSVdUeTY0xb7uehR5) | [Rebekka Bakken](https://open.spotify.com/artist/3oY7VC1i7SwfO1EhOIlc0t) | [Things You Leave Behind](https://open.spotify.com/album/34XDSyI2Yfa28pGUWQiIq0) | 3:53 | 2020-11-05 |  |
+| [Cryin In The Rain](https://open.spotify.com/track/7mLm2YnptlX4CSqpfp1P34) | [Alex Lambert](https://open.spotify.com/artist/6iQBhWmcQcl9s4w1hL5lnN) | [Cryin In The Rain](https://open.spotify.com/album/28ex3FmGr9cbxk4TvIA6Dv) | 3:30 | 2022-09-02 |  |
 | [Don't Bury Our Love](https://open.spotify.com/track/7Ja98hUS6HfvQN5UOIQCMh) | [Tinsley Ellis](https://open.spotify.com/artist/56LMX8mqaIhJCaxjZBM1on) | [Devil May Care](https://open.spotify.com/album/0vetIsh52LB0I10eBDTdLP) | 5:19 | 2022-03-15 |  |
 | [Drown in My Own Tears](https://open.spotify.com/track/0FntDGdy2Kgd75xCSO6eZ3) | [Joe Barr](https://open.spotify.com/artist/0f9bTNbq05JMuZBbdeNlWs), [Breezy Rodio](https://open.spotify.com/artist/5aTdwObrbHvEhcTorgXZ8o) | [Drown in My Own Tears](https://open.spotify.com/album/2jXFprFNbuaBkZPkWj7Zrp) | 4:35 | 2021-10-22 |  |
 | [Everybody Loves a Winner](https://open.spotify.com/track/2EUDthXhUTD7M40VSkWDq1) | [Lisa Mills](https://open.spotify.com/artist/5qjvtl7sQsjMEFadXXdEvE) | [The Triangle \(Expanded Edition\)](https://open.spotify.com/album/6ziGDbVoEO24tCewCBejrK) | 3:15 | 2021-07-30 |  |
@@ -38,14 +39,14 @@
 | [Gold](https://open.spotify.com/track/0okw8NRaGP97EFyBmvTyT1) | [Robert Jon & the Wreck](https://open.spotify.com/artist/4FXvPjJz57tIo23OpzHlYC) | [Last Light on the Highway](https://open.spotify.com/album/4vEdVmsibS4TDTvdJ07Xae) | 4:57 | 2020-11-05 |  |
 | [Grab Ahold](https://open.spotify.com/track/0C6pIDg2abd0am3BwgeBM7) | [Seth Walker](https://open.spotify.com/artist/3Bl4eNAFJkXXi0ewcjgGP9) | [Sky Still Blue](https://open.spotify.com/album/0VGS15dOqh1uA2mYF6cRaq) | 4:03 | 2020-11-05 |  |
 | [Handle Me with Care](https://open.spotify.com/track/3mL3yHCMcY5NfvEo1KxZpP) | [Jade Macrae](https://open.spotify.com/artist/3m6tQTaPCGclNhgcC0wgOd) | [Handle Me with Care](https://open.spotify.com/album/2imCmg8SU9Cms5BS8RWfkI) | 7:15 | 2020-12-08 |  |
-| [Hearts](https://open.spotify.com/track/2rPiEp1fCw6lTF9NWsO8XH) | [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Healing Tide](https://open.spotify.com/album/06UpUVi6uLrcg2kjlQoE5Q) | 5:13 | 2020-11-05 |  |
+| [Hearts](https://open.spotify.com/track/2rPiEp1fCw6lTF9NWsO8XH) | [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Healing Tide](https://open.spotify.com/album/06UpUVi6uLrcg2kjlQoE5Q) | 5:13 | 2020-11-05 | 2022-09-03 |
 | [Heavenly](https://open.spotify.com/track/7tLvtMMRMSzxqT6wTfGuAI) | [Priscilla Renea](https://open.spotify.com/artist/2XqJd0g4yNVm0m90Vm1bbS) | [Heavenly](https://open.spotify.com/album/6pYjhJeycyRubBoSv2RGjN) | 3:32 | 2020-11-05 |  |
 | [How Many Tears](https://open.spotify.com/track/3d8ZtqYPchg3dY05IpPNIM) | [Quinn Sullivan](https://open.spotify.com/artist/3RBOewcm7cYn3IhFBxkQ2J) | [How Many Tears](https://open.spotify.com/album/3PP99enC9m8vnlM5FJST6X) | 3:32 | 2021-04-09 | 2022-07-29 |
 | [How Many Tears](https://open.spotify.com/track/4hYjPSFmCPeYL8JGinnD4N) | [Quinn Sullivan](https://open.spotify.com/artist/3RBOewcm7cYn3IhFBxkQ2J) | [Wide Awake](https://open.spotify.com/album/2b7MbvztGNG6i21VrDclME) | 3:32 | 2021-04-09 |  |
 | [I Love You More Than You'll Ever Know](https://open.spotify.com/track/4FcpPf53TWKOrsdfX9pA5O) | [Janiva Magness](https://open.spotify.com/artist/3igRFmvurYBLvQ4aYliwXg) | [Blue Again](https://open.spotify.com/album/5mIuCWBG1unPCj6YKTF16O) | 5:38 | 2020-11-05 |  |
 | [I Love You More Than You'll Ever Know](https://open.spotify.com/track/7FUqdSCIFQCNdaX3bGXfw8) | [Janiva Magness](https://open.spotify.com/artist/3igRFmvurYBLvQ4aYliwXg) | [Blue Again](https://open.spotify.com/album/0pLAn8grfMFtJoKU310Etx) | 5:38 | 2020-11-05 | 2022-07-29 |
 | [I'm Gonna Find Another You](https://open.spotify.com/track/2KbKSPA3oHnZGlreYLGA92) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Continuum](https://open.spotify.com/album/6feeQj5H1QIpt1y17F1jJG) | 2:39 | 2020-11-05 | 2022-07-29 |
-| [I'm Gonna Find Another You](https://open.spotify.com/track/0bYDebBlQxsDR4hCgbbpOW) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Continuum](https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM) | 2:43 | 2020-11-05 |  |
+| [I'm Gonna Find Another You](https://open.spotify.com/track/0bYDebBlQxsDR4hCgbbpOW) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Continuum](https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM) | 2:43 | 2020-11-05 | 2022-09-03 |
 | [I'm Only Lonely](https://open.spotify.com/track/4bkjWF12Zz5Ri60OiHbNFV) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [Reckless Heart](https://open.spotify.com/album/4qg7yQHWWUw0DMlix6ZbUG) | 5:28 | 2020-11-05 |  |
 | [If There Was a Way](https://open.spotify.com/track/51qxhpLKVMSslaDSbqGjgs) | [Rosie Flores](https://open.spotify.com/artist/112VrRSCpsoUkVgnxZvD1w) | [Simple Case of the Blues](https://open.spotify.com/album/0BhHUwgNZxOSNkS0d89Mu9) | 4:25 | 2020-11-05 | 2022-07-29 |
 | [If There Was a Way](https://open.spotify.com/track/7h4hCfrO02xSxQs6NgBXY4) | [Rosie Flores](https://open.spotify.com/artist/112VrRSCpsoUkVgnxZvD1w) | [Simple Case of the Blues](https://open.spotify.com/album/13la0jdzx3vrRcbwf6PBXU) | 4:25 | 2020-11-05 |  |
@@ -107,10 +108,11 @@
 | [Take Me Home](https://open.spotify.com/track/5Ilym2G41PI6qjYTshJD8f) | [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz), [Lizz Wright](https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW) | [No Beginning No End 2](https://open.spotify.com/album/1dwWH4m6TIepflnji3hVsG) | 4:11 | 2020-11-05 |  |
 | [Take Me Home](https://open.spotify.com/track/4PyYmYeTVUv2dEkaj1VxnG) | [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz), [Lizz Wright](https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW) | [No Beginning No End 2](https://open.spotify.com/album/0KKurlvDI9YjNgwHm8fNP4) | 4:11 | 2020-11-05 | 2022-07-29 |
 | [Tell Me](https://open.spotify.com/track/6VLqNoGxbJZd3mKa4cCSXS) | [Meena](https://open.spotify.com/artist/7sntqdL07LSVjtlbVJgoui) | [Tell Me](https://open.spotify.com/album/4XSyd1dqmvO4SX4xh7tvru) | 4:55 | 2020-11-05 |  |
+| [That's How Love Is Made](https://open.spotify.com/track/1BIX2BQa6BroVxG6O97UWk) | [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [That's How Love Is Made](https://open.spotify.com/album/7jEsDY3DfzPI2MRJaOyZdP) | 3:46 | 2022-09-02 |  |
 | [The World Moves On](https://open.spotify.com/track/2O8w4ULp2uun76A2IgVjsz) | [Hitman Blues Band](https://open.spotify.com/artist/01auum1XBkykoXiQl6ynkx) | [The World Moves On](https://open.spotify.com/album/4fvPhrcHvGlB9fPD1BjIVK) | 4:44 | 2020-11-05 |  |
 | [They Never Pay Me](https://open.spotify.com/track/1o84dOcVPieSWx54D6Vpd2) | [Gina Sicilia](https://open.spotify.com/artist/5G7a5hIfomqVuXlk4D3WfQ) | [Tug of War](https://open.spotify.com/album/71JBQT7xsnizt4TYu0eUzY) | 3:33 | 2020-11-05 |  |
 | [They Never Pay Me](https://open.spotify.com/track/6FblM1pI9C3mZng2qPzXBj) | [Gina Sicilia](https://open.spotify.com/artist/5G7a5hIfomqVuXlk4D3WfQ) | [Sunset Avenue](https://open.spotify.com/album/0DPnQNdHFY8kxsXwhCyaDk) | 3:33 | 2020-11-05 | 2022-07-29 |
-| [Time To Leave](https://open.spotify.com/track/5TUCm5o4qf5y47EnyHStZy) | [Rich Robinson](https://open.spotify.com/artist/7lEokLkF9CWjEBogNWcV69) | [Flux](https://open.spotify.com/album/0aCwNu0L6QMcSexzdUjcGD) | 4:58 | 2020-11-05 |  |
+| [Time To Leave](https://open.spotify.com/track/5TUCm5o4qf5y47EnyHStZy) | [Rich Robinson](https://open.spotify.com/artist/7lEokLkF9CWjEBogNWcV69) | [Flux](https://open.spotify.com/album/0aCwNu0L6QMcSexzdUjcGD) | 4:58 | 2020-11-05 | 2022-09-03 |
 | [Tricky Thing](https://open.spotify.com/track/7bpJJDFOR7CQMA2Ssm1yka) | [Jessy Martens and Band](https://open.spotify.com/artist/4kJMG0aB4UYiKfHA9esWDt) | [Tricky Thing](https://open.spotify.com/album/4aPtimYS5kIEl8d03ToDUz) | 4:31 | 2020-11-05 |  |
 | [Try Me](https://open.spotify.com/track/5vjbpawQ7l5Qdgwh1WafWe) | [Gina Sicilia](https://open.spotify.com/artist/5G7a5hIfomqVuXlk4D3WfQ) | [Allow Me to Confess](https://open.spotify.com/album/2c2cFKHtezKf5Fna1rZO4T) | 3:14 | 2020-11-05 | 2022-07-29 |
 | [Try Me](https://open.spotify.com/track/7fdF1y8Sm2dWryO5kRDlGL) | [Gina Sicilia](https://open.spotify.com/artist/5G7a5hIfomqVuXlk4D3WfQ) | [Allow Me to Confess](https://open.spotify.com/album/4vcPUYfpoYWXqbucRoATgK) | 3:14 | 2020-11-05 |  |
@@ -126,6 +128,7 @@
 | [Who Will Come for Me](https://open.spotify.com/track/7hEsiIvB2jg0BI3Xe8F4eg) | [Janiva Magness](https://open.spotify.com/artist/3igRFmvurYBLvQ4aYliwXg) | [Love Wins Again](https://open.spotify.com/album/5koT5jFcF9Iy0iZjG09rBT) | 4:38 | 2020-11-05 |  |
 | [Why Don't You Stay?](https://open.spotify.com/track/44CgGAQHAxrRWRSNS9mFQ8) | [Muddy Magnolias](https://open.spotify.com/artist/1t7mdRbvflM5966YVfyk1X) | [Broken People](https://open.spotify.com/album/3MIBce2g1BNk3mUuj10Ylr) | 4:33 | 2020-11-05 |  |
 | [Worst In Me](https://open.spotify.com/track/1zX45MGjbDDt2zceTraRvn) | [Dana Williams](https://open.spotify.com/artist/4rljPSpCHQzUJMNOvmw1DL) | [Worst In Me](https://open.spotify.com/album/20BncSSGfvm3kCZZ8C28MU) | 3:56 | 2020-11-05 |  |
+| [You Ruined That Song For Me](https://open.spotify.com/track/7e8LdgIws3VVqkON2puJwN) | [Meghan Linsey](https://open.spotify.com/artist/5CoW8VGpf9la64TUDhnkVn) | [You Ruined That Song For Me](https://open.spotify.com/album/3aRX20jl9YSVFMGUY5ZUoV) | 3:19 | 2022-09-02 |  |
 | [You Were Mine](https://open.spotify.com/track/4njmTrh1kqxmPql07KKnlT) | [Tami Neilson](https://open.spotify.com/artist/4PmC63uE7ZLY5TI3p0PGd3) | [CHICKABOOM!](https://open.spotify.com/album/1Gke51utVy7IagtyciRGMA) | 3:43 | 2020-11-05 |  |
 | [You Were Mine](https://open.spotify.com/track/6VFbrvnjVfrSRPIwEf7ept) | [Tami Neilson](https://open.spotify.com/artist/4PmC63uE7ZLY5TI3p0PGd3) | [You Were Mine](https://open.spotify.com/album/0qZHzQ6plJgW7SqP1fDF1A) | 3:43 | 2020-11-05 | 2022-07-29 |
 

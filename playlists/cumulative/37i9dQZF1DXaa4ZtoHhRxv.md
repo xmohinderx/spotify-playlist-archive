@@ -4,7 +4,7 @@
 
 > Hit the floor with these hot new tracks and dance remixes of your favorite country songs! Cover: Dolly Parton and Destructo
 
-121 songs - 6 hr 46 min - [published](https://open.spotify.com/playlist/2qjkli2L9nRlyk9PRGesSw)
+122 songs - 6 hr 49 min - [published](https://open.spotify.com/playlist/2qjkli2L9nRlyk9PRGesSw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [GOOD TIME \- Andrelli Remix](https://open.spotify.com/track/7n4UKXvKGFZKSdU1NUw06T) | [Niko Moon](https://open.spotify.com/artist/6Rw7DRa1dzChBvxGPCpOxU), [Andrelli](https://open.spotify.com/artist/5M2y5A6d5QZjw9JeKClagC) | [GOOD TIME \(Andrelli Remix\)](https://open.spotify.com/album/4IGBxXXi1Mz0y3jLgh0zhf) | 2:44 | 2021-12-10 |  |
 | [Got No Choice \- Dave Audé Remix](https://open.spotify.com/track/0MWV88QURJzWteCK2glxOZ) | [Brooke Eden](https://open.spotify.com/artist/6TFhESBLRTi95wmI1dRFVt), [Dave Audé](https://open.spotify.com/artist/1vWImodgVqIgTUkekGEfR9) | [Got No Choice \(Dave Audé Remix\)](https://open.spotify.com/album/3OoVO3D4GIw36Fz0r7azfl) | 3:50 | 2021-12-10 |  |
 | [Hard Out Here For A Country Boy \- + FUZZ](https://open.spotify.com/track/0YjAoqGYQuuvSWCMZBaZI4) | [The Cadillac Three](https://open.spotify.com/artist/1nivFfWu6oXBFDNyVfFU5x) | [Hard Out Here For A Country Boy \(+ FUZZ\)](https://open.spotify.com/album/2fvbbiXAYuHjZphvBOsFYZ) | 3:28 | 2021-12-10 |  |
+| [Head Over Boots \- Cahill Remix](https://open.spotify.com/track/493j3Kgwyj10g5KAOVDtuF) | [Phil Dust](https://open.spotify.com/artist/3QjqGZ3r7sMq8XHsRbFU5U), [Jaron Strom](https://open.spotify.com/artist/6Hm2cThGavZW4kAWpYzfWP), [Cahill](https://open.spotify.com/artist/02nqwOvmlIhYQtZ5kVqJZm) | [Head Over Boots \(Cahill Remix\)](https://open.spotify.com/album/3mwB1cyeK7t6OKgw2gBm5L) | 3:06 | 2022-09-02 |  |
 | [Heartless \(feat\. Morgan Wallen\)](https://open.spotify.com/track/3FU6urUVsgXa6RBuV2PdRk) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Diplo Presents Thomas Wesley Chapter 1: Snake Oil](https://open.spotify.com/album/2Om5VEKaBd4Afht33ToQGD) | 2:49 | 2022-02-11 |  |
 | [Hey Brother](https://open.spotify.com/track/4lhqb6JvbHId48OUJGwymk) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [True](https://open.spotify.com/album/2H6i2CrWgXE1HookLu8Au0) | 4:15 | 2021-12-10 | 2022-03-26 |
 | [High Horse \(feat\. BRELAND and Blanco Brown\)](https://open.spotify.com/track/4XMNF67BLR9zzti9XLVFR7) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw), [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1), [Blanco Brown](https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i) | [High Horse](https://open.spotify.com/album/2j0bqyuBna2QagVKpxvXSK) | 2:32 | 2021-12-10 |  |

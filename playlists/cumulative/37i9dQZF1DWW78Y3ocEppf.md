@@ -4,7 +4,7 @@
 
 > The feelings you can't put into words...only songs\. Cover: Brent Faiyaz
 
-300 songs - 16 hr 32 min - [published](https://open.spotify.com/playlist/2kdisFoq51qaCb3npEXTAg)
+301 songs - 16 hr 35 min - [published](https://open.spotify.com/playlist/2kdisFoq51qaCb3npEXTAg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -234,6 +234,7 @@
 | [PRICE OF FAME](https://open.spotify.com/track/1RR29QADKP8ygptqTDdHSH) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [PRICE OF FAME](https://open.spotify.com/album/0ZPaMBoUZhJhJnJQgShm8X) | 6:19 | 2022-06-24 | 2022-08-06 |
 | [Promises](https://open.spotify.com/track/6aQ7nlAEOhhRnsHi6eY0zT) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Mother](https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR) | 4:24 | 2021-12-15 |  |
 | [Purple](https://open.spotify.com/track/0FrZlv2YeaeNoegY6ZwWJ3) | [Unusual Demont](https://open.spotify.com/artist/5KpmWCJ5NqsY9meqhjwbxR) | [Purple](https://open.spotify.com/album/1ACYwKV5Eo6IGA0NAcUnAN) | 4:10 | 2021-12-15 | 2022-04-21 |
+| [Queen Space \(with Summer Walker\)](https://open.spotify.com/track/3Gz3Tl8TicQbsR0OGvmc6C) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Queen Space \(with Summer Walker\)](https://open.spotify.com/album/6juUcr1BHeBUg2ipoLI0mV) | 3:50 | 2022-09-02 |  |
 | [Right Now](https://open.spotify.com/track/75iErUVF1heXnj5CB1gaju) | [Elaine](https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx) | [Right Now](https://open.spotify.com/album/3Lk51jNfQewZIGuTvvE8uk) | 3:12 | 2021-12-15 | 2022-07-27 |
 | [ROLE MODEL](https://open.spotify.com/track/1wGpEisE7VmhhSazD8hZ5l) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [WASTELAND](https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg) | 3:14 | 2022-07-08 | 2022-08-06 |
 | [ROLLING STONE](https://open.spotify.com/track/0e0JshRej2NwT7jahEmv52) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [WASTELAND](https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg) | 2:42 | 2022-08-05 |  |
@@ -294,7 +295,7 @@
 | [We Need A Resolution \(feat\. Timbaland\)](https://open.spotify.com/track/2c7huQpWR29bcXrrvLcG2j) | [Aaliyah](https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [Aaliyah](https://open.spotify.com/album/0cNaDPtbHC1PMJMRTY2GFc) | 4:02 | 2022-03-25 | 2022-04-16 |
 | [WEAKEND \(feat\. D Smoke\)](https://open.spotify.com/track/5wQXnFCRgb3HO6f28AkdjU) | [Rhyon Brown](https://open.spotify.com/artist/5jwCDGKUT2wrfp8yAu8Qob), [D Smoke](https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo) | [WEAKEND](https://open.spotify.com/album/7DtoI2IFo25oN7q8DFRblP) | 3:23 | 2021-12-15 | 2022-04-16 |
 | [What A Lie](https://open.spotify.com/track/1VI7GQmBBgdslV3tQRvsRD) | [Justine Skye](https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ) | [What A Lie](https://open.spotify.com/album/3YYUucEXwtTJC0FWcpqrB4) | 3:48 | 2022-04-29 |  |
-| [What About Us \(feat\. Sevyn Streeter\)](https://open.spotify.com/track/0A7xgfdP4RKVJD95kF0dx6) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9), [Sevyn Streeter](https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca) | [New Light](https://open.spotify.com/album/3BY4kqH3wxKXvnDK6GUqH4) | 3:08 | 2022-02-04 |  |
+| [What About Us \(feat\. Sevyn Streeter\)](https://open.spotify.com/track/0A7xgfdP4RKVJD95kF0dx6) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9), [Sevyn Streeter](https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca) | [New Light](https://open.spotify.com/album/3BY4kqH3wxKXvnDK6GUqH4) | 3:08 | 2022-02-04 | 2022-09-03 |
 | [What About Us \(feat\. Sevyn Streeter\)](https://open.spotify.com/track/2rXEvLUrJergtH0iQnyr29) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9), [Sevyn Streeter](https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca) | [What About Us \(feat\. Sevyn Streeter\)](https://open.spotify.com/album/5soGYnfqSGI3S1vOHDG9xe) | 3:08 | 2021-12-15 | 2022-07-02 |
 | [What Are We?](https://open.spotify.com/track/1m0DML2ofQeH65HwZXoDoZ) | [Inayah](https://open.spotify.com/artist/2jomvyAKdqYYimeLl3XcdZ) | [What Are We?](https://open.spotify.com/album/0Vf9CCUkwm35bSTcK85e81) | 2:40 | 2021-12-15 | 2022-08-06 |
 | [What's Love](https://open.spotify.com/track/7mu9vxVH3VJVvSGepIay0q) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [What's Love / Sl\*t Him Out](https://open.spotify.com/album/1nJEmFZiNByDdugR0gOeb9) | 4:12 | 2022-02-18 | 2022-07-29 |

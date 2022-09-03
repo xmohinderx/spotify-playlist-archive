@@ -1,12 +1,12 @@
 {
   "description": "Classic tunes to soundtrack your weekend. Cover: The Tragically Hip",
-  "num_followers": 49257,
+  "num_followers": 49266,
   "original_name": "Canadian Weekend",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTUxNTQwMCwwMDAwMDAwMDEyZWZmNmMxNDY0OTdiZDYzYzI1YWQ3Nzc1ZjNlZGE4",
+  "snapshot_id": "MTY1MTUxNTQwMCwwMDAwMDAwMDhiNzkzZmE4ZjY0MmM4MjBkZTg2MWEwZGMwYjFmYWNj",
   "tracks": [
     {
       "added_at": "2022-05-02 18:16:39",
@@ -795,6 +795,22 @@
     {
       "added_at": "2022-05-02 18:16:39",
       "album": {
+        "name": "Bring Me Your Love (Special Edition)",
+        "url": "https://open.spotify.com/album/1GYDVFWPK1HFI3TRWmj7hr"
+      },
+      "artists": [
+        {
+          "name": "City and Colour",
+          "url": "https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR"
+        }
+      ],
+      "duration_ms": 248000,
+      "name": "Sleeping Sickness",
+      "url": "https://open.spotify.com/track/2SBFyml6gSXByXMRfW6UYi"
+    },
+    {
+      "added_at": "2022-05-02 18:16:39",
+      "album": {
         "name": "The Thin Red Line (Deluxe)",
         "url": "https://open.spotify.com/album/6kpcZGUWKsAtrWv7EYCLbV"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 334866,
       "name": "Everybody Knows",
       "url": "https://open.spotify.com/track/60s0QWaOZ2UTzqdIHBCt3x"
-    },
-    {
-      "added_at": "2022-05-02 18:16:39",
-      "album": {
-        "name": "Bring Me Your Love (Special Edition)",
-        "url": "https://open.spotify.com/album/1GYDVFWPK1HFI3TRWmj7hr"
-      },
-      "artists": [
-        {
-          "name": "City and Colour",
-          "url": "https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR"
-        }
-      ],
-      "duration_ms": 248000,
-      "name": "Sleeping Sickness",
-      "url": "https://open.spotify.com/track/2SBFyml6gSXByXMRfW6UYi"
     },
     {
       "added_at": "2022-05-02 18:16:39",
@@ -875,18 +875,18 @@
     {
       "added_at": "2022-05-02 18:16:39",
       "album": {
-        "name": "You Forgot It In People",
-        "url": "https://open.spotify.com/album/6nL0U84JsEJ0cRsGCnsDnJ"
+        "name": "Honeymoon Suite",
+        "url": "https://open.spotify.com/album/30S6ZGFNC9KcUZeOqxuq3n"
       },
       "artists": [
         {
-          "name": "Broken Social Scene",
-          "url": "https://open.spotify.com/artist/7lOJ7WXyopaxri0dbOiZkd"
+          "name": "Honeymoon Suite",
+          "url": "https://open.spotify.com/artist/7kFyhQTV7cbd3iSYW2yt1Q"
         }
       ],
-      "duration_ms": 275693,
-      "name": "Anthems For A Seventeen Year-Old Girl",
-      "url": "https://open.spotify.com/track/0VXp4zDspR993l2hIKW17g"
+      "duration_ms": 216693,
+      "name": "New Girl Now",
+      "url": "https://open.spotify.com/track/1grnSNpTAe14gjtqfArZan"
     },
     {
       "added_at": "2022-05-02 18:16:39",
@@ -939,8 +939,8 @@
     {
       "added_at": "2022-05-02 18:16:39",
       "album": {
-        "name": "Knock 'Em Dead Kid",
-        "url": "https://open.spotify.com/album/4lRGegSdH4MiZGY0dCCIDQ"
+        "name": "Thick As Thieves",
+        "url": "https://open.spotify.com/album/4LyTOb4shQjOLSwE0zUpk0"
       },
       "artists": [
         {
@@ -948,25 +948,25 @@
           "url": "https://open.spotify.com/artist/2bT4eELLlSuDTtZWV2Z3jN"
         }
       ],
-      "duration_ms": 214253,
-      "name": "We're Here For A Good Time (Not A Long Time)",
-      "url": "https://open.spotify.com/track/5QSf82Wy6anGZ1NEUr1neJ"
+      "duration_ms": 222426,
+      "name": "Raise A Little Hell",
+      "url": "https://open.spotify.com/track/1yNz3A4ubmE5IEvpNFkjdc"
     },
     {
       "added_at": "2022-05-02 18:16:39",
       "album": {
-        "name": "Honeymoon Suite",
-        "url": "https://open.spotify.com/album/30S6ZGFNC9KcUZeOqxuq3n"
+        "name": "You Forgot It In People",
+        "url": "https://open.spotify.com/album/6nL0U84JsEJ0cRsGCnsDnJ"
       },
       "artists": [
         {
-          "name": "Honeymoon Suite",
-          "url": "https://open.spotify.com/artist/7kFyhQTV7cbd3iSYW2yt1Q"
+          "name": "Broken Social Scene",
+          "url": "https://open.spotify.com/artist/7lOJ7WXyopaxri0dbOiZkd"
         }
       ],
-      "duration_ms": 216693,
-      "name": "New Girl Now",
-      "url": "https://open.spotify.com/track/1grnSNpTAe14gjtqfArZan"
+      "duration_ms": 275693,
+      "name": "Anthems For A Seventeen Year-Old Girl",
+      "url": "https://open.spotify.com/track/0VXp4zDspR993l2hIKW17g"
     },
     {
       "added_at": "2022-05-02 18:16:39",
@@ -1035,8 +1035,8 @@
     {
       "added_at": "2022-05-02 18:16:39",
       "album": {
-        "name": "Thick As Thieves",
-        "url": "https://open.spotify.com/album/4LyTOb4shQjOLSwE0zUpk0"
+        "name": "Knock 'Em Dead Kid",
+        "url": "https://open.spotify.com/album/4lRGegSdH4MiZGY0dCCIDQ"
       },
       "artists": [
         {
@@ -1044,9 +1044,9 @@
           "url": "https://open.spotify.com/artist/2bT4eELLlSuDTtZWV2Z3jN"
         }
       ],
-      "duration_ms": 222426,
-      "name": "Raise A Little Hell",
-      "url": "https://open.spotify.com/track/1yNz3A4ubmE5IEvpNFkjdc"
+      "duration_ms": 214253,
+      "name": "We're Here For A Good Time (Not A Long Time)",
+      "url": "https://open.spotify.com/track/5QSf82Wy6anGZ1NEUr1neJ"
     },
     {
       "added_at": "2022-05-02 18:16:39",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2022-05-02 18:16:39",
       "album": {
+        "name": "Alannah Myles",
+        "url": "https://open.spotify.com/album/1Ghv7iViywM23K8BRFggQv"
+      },
+      "artists": [
+        {
+          "name": "Alannah Myles",
+          "url": "https://open.spotify.com/artist/6IYnSXO40Bh7Zdqhf6rQoj"
+        }
+      ],
+      "duration_ms": 277400,
+      "name": "Lover of Mine",
+      "url": "https://open.spotify.com/track/61a5lY9pQk8Q4D56WHvp1l"
+    },
+    {
+      "added_at": "2022-05-02 18:16:39",
+      "album": {
         "name": "Dreams, Dreams, Dreams",
         "url": "https://open.spotify.com/album/0HFcnY7LMUaE0PsCg9W1KI"
       },
@@ -1175,22 +1191,6 @@
       "duration_ms": 235600,
       "name": "Share the Land",
       "url": "https://open.spotify.com/track/51krF0CyHT5AEuh81K0t0z"
-    },
-    {
-      "added_at": "2022-05-02 18:16:39",
-      "album": {
-        "name": "Alannah Myles",
-        "url": "https://open.spotify.com/album/1Ghv7iViywM23K8BRFggQv"
-      },
-      "artists": [
-        {
-          "name": "Alannah Myles",
-          "url": "https://open.spotify.com/artist/6IYnSXO40Bh7Zdqhf6rQoj"
-        }
-      ],
-      "duration_ms": 277400,
-      "name": "Lover of Mine",
-      "url": "https://open.spotify.com/track/61a5lY9pQk8Q4D56WHvp1l"
     },
     {
       "added_at": "2022-05-02 18:16:39",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2022-05-02 18:16:39",
       "album": {
-        "name": "Forgiveness Rock Record",
-        "url": "https://open.spotify.com/album/5hzEg6FhiOIXHufj0EithW"
-      },
-      "artists": [
-        {
-          "name": "Broken Social Scene",
-          "url": "https://open.spotify.com/artist/7lOJ7WXyopaxri0dbOiZkd"
-        }
-      ],
-      "duration_ms": 309306,
-      "name": "Sweetest Kill",
-      "url": "https://open.spotify.com/track/488u1IbVEsaC7fxjABWjHx"
-    },
-    {
-      "added_at": "2022-05-02 18:16:39",
-      "album": {
         "name": "Sometimes",
         "url": "https://open.spotify.com/album/4RiXxyAgLSoTNcIgPYV5dn"
       },
@@ -1303,18 +1287,18 @@
     {
       "added_at": "2022-05-02 18:16:39",
       "album": {
-        "name": "Wanna Be A Star",
-        "url": "https://open.spotify.com/album/2kBrliB2nFyFGVTUtIQrge"
+        "name": "Forgiveness Rock Record",
+        "url": "https://open.spotify.com/album/5hzEg6FhiOIXHufj0EithW"
       },
       "artists": [
         {
-          "name": "Chilliwack",
-          "url": "https://open.spotify.com/artist/3TkWygOTDBZXAdFDh9HOkG"
+          "name": "Broken Social Scene",
+          "url": "https://open.spotify.com/artist/7lOJ7WXyopaxri0dbOiZkd"
         }
       ],
-      "duration_ms": 254506,
-      "name": "My Girl (Gone, Gone, Gone)",
-      "url": "https://open.spotify.com/track/3F3qMsKHOAmHDezIK840bp"
+      "duration_ms": 309306,
+      "name": "Sweetest Kill",
+      "url": "https://open.spotify.com/track/488u1IbVEsaC7fxjABWjHx"
     },
     {
       "added_at": "2022-05-02 18:16:39",
@@ -1335,22 +1319,6 @@
     {
       "added_at": "2022-05-02 18:16:39",
       "album": {
-        "name": "House of Ill Fame (Bonus Live Cut Edition)",
-        "url": "https://open.spotify.com/album/5gQedR7N5Upa5UD2R0C0gd"
-      },
-      "artists": [
-        {
-          "name": "The Trews",
-          "url": "https://open.spotify.com/artist/2mCd5QO8EUB5rmbGUbCrTJ"
-        }
-      ],
-      "duration_ms": 183853,
-      "name": "Not Ready to Go",
-      "url": "https://open.spotify.com/track/1NGH22lTbPAkuj7gLdCcJW"
-    },
-    {
-      "added_at": "2022-05-02 18:16:39",
-      "album": {
         "name": "Beautiful Midnight",
         "url": "https://open.spotify.com/album/5ISNKUHRn9zX5vM7Z6Khka"
       },
@@ -1363,6 +1331,38 @@
       "duration_ms": 220573,
       "name": "Load Me Up",
       "url": "https://open.spotify.com/track/63PN42ugudZf4DDhXeWQ2M"
+    },
+    {
+      "added_at": "2022-05-02 18:16:39",
+      "album": {
+        "name": "Wanna Be A Star",
+        "url": "https://open.spotify.com/album/2kBrliB2nFyFGVTUtIQrge"
+      },
+      "artists": [
+        {
+          "name": "Chilliwack",
+          "url": "https://open.spotify.com/artist/3TkWygOTDBZXAdFDh9HOkG"
+        }
+      ],
+      "duration_ms": 254506,
+      "name": "My Girl (Gone, Gone, Gone)",
+      "url": "https://open.spotify.com/track/3F3qMsKHOAmHDezIK840bp"
+    },
+    {
+      "added_at": "2022-05-02 18:16:39",
+      "album": {
+        "name": "House of Ill Fame (Bonus Live Cut Edition)",
+        "url": "https://open.spotify.com/album/5gQedR7N5Upa5UD2R0C0gd"
+      },
+      "artists": [
+        {
+          "name": "The Trews",
+          "url": "https://open.spotify.com/artist/2mCd5QO8EUB5rmbGUbCrTJ"
+        }
+      ],
+      "duration_ms": 183853,
+      "name": "Not Ready to Go",
+      "url": "https://open.spotify.com/track/1NGH22lTbPAkuj7gLdCcJW"
     },
     {
       "added_at": "2022-05-02 18:16:39",
@@ -1447,18 +1447,18 @@
     {
       "added_at": "2022-05-02 18:16:39",
       "album": {
-        "name": "Young Beauties and Fools",
-        "url": "https://open.spotify.com/album/7bauAaXGIb5m0O5zliJKwE"
+        "name": "Reconstruction Site",
+        "url": "https://open.spotify.com/album/14gpuI6JNy9gekaT0p6m9N"
       },
       "artists": [
         {
-          "name": "The Glorious Sons",
-          "url": "https://open.spotify.com/artist/5CPxrqCStgt6AfI4fLiedH"
+          "name": "The Weakerthans",
+          "url": "https://open.spotify.com/artist/1US3cA3tVZ50O7n4xE1o0K"
         }
       ],
-      "duration_ms": 193325,
-      "name": "Everything Is Alright",
-      "url": "https://open.spotify.com/track/42lrhaZzqJqCYHlfQTGozP"
+      "duration_ms": 229666,
+      "name": "Plea from a Cat Named Virtute",
+      "url": "https://open.spotify.com/track/6FfMiOK3Ma2GNAbjbGxFVn"
     },
     {
       "added_at": "2022-05-02 18:16:39",
@@ -1479,18 +1479,18 @@
     {
       "added_at": "2022-05-02 18:16:39",
       "album": {
-        "name": "Reconstruction Site",
-        "url": "https://open.spotify.com/album/14gpuI6JNy9gekaT0p6m9N"
+        "name": "Young Beauties and Fools",
+        "url": "https://open.spotify.com/album/7bauAaXGIb5m0O5zliJKwE"
       },
       "artists": [
         {
-          "name": "The Weakerthans",
-          "url": "https://open.spotify.com/artist/1US3cA3tVZ50O7n4xE1o0K"
+          "name": "The Glorious Sons",
+          "url": "https://open.spotify.com/artist/5CPxrqCStgt6AfI4fLiedH"
         }
       ],
-      "duration_ms": 229666,
-      "name": "Plea from a Cat Named Virtute",
-      "url": "https://open.spotify.com/track/6FfMiOK3Ma2GNAbjbGxFVn"
+      "duration_ms": 193325,
+      "name": "Everything Is Alright",
+      "url": "https://open.spotify.com/track/42lrhaZzqJqCYHlfQTGozP"
     },
     {
       "added_at": "2022-05-02 18:16:39",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2022-05-02 18:16:39",
       "album": {
-        "name": "The Future",
-        "url": "https://open.spotify.com/album/7E4FRoU4Pk0WuO1SQMV1Bo"
-      },
-      "artists": [
-        {
-          "name": "Leonard Cohen",
-          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
-        }
-      ],
-      "duration_ms": 357960,
-      "name": "Closing Time",
-      "url": "https://open.spotify.com/track/2MeYsitFbcxoNVCO31Vjmz"
-    },
-    {
-      "added_at": "2022-05-02 18:16:39",
-      "album": {
         "name": "Sittin' Heavy",
         "url": "https://open.spotify.com/album/1xPJIBohk5DtRCXwdmAZAd"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 266093,
       "name": "Don't Tell Me How to Live",
       "url": "https://open.spotify.com/track/3vvNbg3Z5fQYk4FKkDK6V7"
+    },
+    {
+      "added_at": "2022-05-02 18:16:39",
+      "album": {
+        "name": "The Future",
+        "url": "https://open.spotify.com/album/7E4FRoU4Pk0WuO1SQMV1Bo"
+      },
+      "artists": [
+        {
+          "name": "Leonard Cohen",
+          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
+        }
+      ],
+      "duration_ms": 357960,
+      "name": "Closing Time",
+      "url": "https://open.spotify.com/track/2MeYsitFbcxoNVCO31Vjmz"
     },
     {
       "added_at": "2022-05-02 18:16:39",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-13",
-  "description": "it's scary hours...\u26c8 cover: Alicia Keys",
+  "description": "it's scary hours...\u26c8 cover: Outkast",
   "name": "mid:nite storm ",
   "published_playlist_ids": [
     "5JxuVXVwLcumgmoRyl2uUE"
@@ -1204,6 +1204,24 @@
     },
     {
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0aTksyiafCXTH3jbUIkwVs"
+      },
+      "artists": [
+        {
+          "name": "Chl\u00f6e",
+          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188989,
+      "name": "Freak Like Me - Spotify Singles",
+      "url": "https://open.spotify.com/track/7lxF9OOlLhxslC3BEDIMfB"
+    },
+    {
+      "album": {
         "name": "Nothing Was The Same",
         "url": "https://open.spotify.com/album/1XslIirSxfAhhxRdn4Li9t"
       },
@@ -1465,6 +1483,24 @@
       "duration_ms": 195000,
       "name": "Guillotine",
       "url": "https://open.spotify.com/track/2nhYCeMM3Q7ySBPiUXqaO8"
+    },
+    {
+      "album": {
+        "name": "Away Message",
+        "url": "https://open.spotify.com/album/6wImAlRsVb1ldJzOE4Uc1U"
+      },
+      "artists": [
+        {
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141886,
+      "name": "Gummy",
+      "url": "https://open.spotify.com/track/657jlDn3QlxiuR0pFcyjPB"
     },
     {
       "album": {
@@ -2379,7 +2415,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 232400,
       "name": "No Good",
       "url": "https://open.spotify.com/track/5eNUpkGw6ss8j5PAenJTGz"
@@ -2419,7 +2455,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 274333,
       "name": "Not Your Friend",
       "url": "https://open.spotify.com/track/3Tzff5nOHwe1AjbWKUd8Ia"

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVleyMkaelTd.md) - [plain]
 
 ### [Bossa Nova Dinner](https://open.spotify.com/playlist/37i9dQZF1DWVleyMkaelTd)
 
-> Soundtrack your dinner with bossa sounds.
+> Soundtrack your cozy dinner with bossa nova jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,791 likes - 101 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,906 likes - 101 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVleyMkaelTd.md) - [plain]
 | 100 | [Bésame Mucho](https://open.spotify.com/track/7Kh9w5XOJqykS2IpTdZC8X) | [Cristiana Cunha](https://open.spotify.com/artist/3W5iyQ6JGJHqSgNtq86GrT) | [Bésame Mucho](https://open.spotify.com/album/0XpWh98WxM7rtw67TfHh38) | 3:26 |
 | 101 | [Só Tinha de Ser com Você](https://open.spotify.com/track/5KrmPhZXWsrn1xVey30806) | [Joao Silva Oliveira](https://open.spotify.com/artist/2H9tPIniwpdz9EvKYvRKFq) | [Só Tinha de Ser com Você](https://open.spotify.com/album/7nUM7a3z2pGH5pII2MEy8n) | 3:58 |
 
-Snapshot ID: `MTY2MTg1NDQ3MCwwMDAwMDAwMDk1OWQzMTAyODBhNjVkZDhhNjE2MjNjY2UyMjVhM2Fm`
+Snapshot ID: `MTY2MjEwNTgxNSwwMDAwMDAwMDI5Y2NjMGViNTMxMzdhYmM5N2NjYTAwZGUxYjU5ODcw`

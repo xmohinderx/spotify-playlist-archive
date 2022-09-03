@@ -1,12 +1,12 @@
 {
   "description": "Tesoros musicales del ayer.",
-  "num_followers": 473397,
+  "num_followers": 474005,
   "original_name": "Viejitas pero Bonitas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzgxNDM5OSwwMDAwMDAwMGI5N2Q2MDNiYTZhNjhiNmY3NGQwMzNjMDM2OWRjYTA0",
+  "snapshot_id": "MTY1NzgxNDM5OSwwMDAwMDAwMDRiYWI1NDYwYjg0ZDdhNzA2ZWU0NTlhZmY5YWZiMWQy",
   "tracks": [
     {
       "added_at": "2021-04-22 14:20:49",
@@ -787,22 +787,6 @@
     {
       "added_at": "2021-04-22 14:20:49",
       "album": {
-        "name": "Recordando Monterrey",
-        "url": "https://open.spotify.com/album/2n1CryXhnIVXisogTOd9JF"
-      },
-      "artists": [
-        {
-          "name": "Rigo Tovar",
-          "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
-        }
-      ],
-      "duration_ms": 183026,
-      "name": "Mi Amiga, Mi Esposa, Mi Amante",
-      "url": "https://open.spotify.com/track/6AgSJsbx0DRnH0jIwDVOGF"
-    },
-    {
-      "added_at": "2021-04-22 14:20:49",
-      "album": {
         "name": "Solo Exitos",
         "url": "https://open.spotify.com/album/5b01rzpRKnF0NZXgdcgcA1"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 219826,
       "name": "Con Olor a Hierba",
       "url": "https://open.spotify.com/track/30PNkwSPcer18CoQ8uyUct"
+    },
+    {
+      "added_at": "2021-04-22 14:20:49",
+      "album": {
+        "name": "Recordando Monterrey",
+        "url": "https://open.spotify.com/album/2n1CryXhnIVXisogTOd9JF"
+      },
+      "artists": [
+        {
+          "name": "Rigo Tovar",
+          "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
+        }
+      ],
+      "duration_ms": 183026,
+      "name": "Mi Amiga, Mi Esposa, Mi Amante",
+      "url": "https://open.spotify.com/track/6AgSJsbx0DRnH0jIwDVOGF"
     },
     {
       "added_at": "2021-04-22 14:20:49",
@@ -899,6 +899,22 @@
     {
       "added_at": "2021-04-22 14:20:49",
       "album": {
+        "name": "Serie Diamante (USA)",
+        "url": "https://open.spotify.com/album/2fgUn3x6HujXAP2AXxMoer"
+      },
+      "artists": [
+        {
+          "name": "Los Solitarios",
+          "url": "https://open.spotify.com/artist/5oXtNxxScsHb1cRjqqfcMj"
+        }
+      ],
+      "duration_ms": 173506,
+      "name": "Mi amor es para ti",
+      "url": "https://open.spotify.com/track/7pVViW51vp66dqaBRkmAv7"
+    },
+    {
+      "added_at": "2021-04-22 14:20:49",
+      "album": {
         "name": "Que Nada Nos Separe",
         "url": "https://open.spotify.com/album/0tv0ugArh5TtRPMORE70RY"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 267000,
       "name": "No Hace Falta",
       "url": "https://open.spotify.com/track/5DiHLU0npIbhSTZm8EGeuT"
-    },
-    {
-      "added_at": "2021-04-22 14:20:49",
-      "album": {
-        "name": "Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/4wqRBtvdUx8rWZebL0982U"
-      },
-      "artists": [
-        {
-          "name": "Dyango",
-          "url": "https://open.spotify.com/artist/0PbO1lSBsJPgyqdEypJJVb"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Coraz\u00f3n m\u00e1gico",
-      "url": "https://open.spotify.com/track/1bpOD9jv1ge8RiyKccjLHW"
     },
     {
       "added_at": "2021-04-22 14:20:49",
@@ -963,18 +963,18 @@
     {
       "added_at": "2021-04-22 14:20:49",
       "album": {
-        "name": "Serie Diamante (USA)",
-        "url": "https://open.spotify.com/album/2fgUn3x6HujXAP2AXxMoer"
+        "name": "Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/4wqRBtvdUx8rWZebL0982U"
       },
       "artists": [
         {
-          "name": "Los Solitarios",
-          "url": "https://open.spotify.com/artist/5oXtNxxScsHb1cRjqqfcMj"
+          "name": "Dyango",
+          "url": "https://open.spotify.com/artist/0PbO1lSBsJPgyqdEypJJVb"
         }
       ],
-      "duration_ms": 173506,
-      "name": "Mi amor es para ti",
-      "url": "https://open.spotify.com/track/7pVViW51vp66dqaBRkmAv7"
+      "duration_ms": 198000,
+      "name": "Coraz\u00f3n m\u00e1gico",
+      "url": "https://open.spotify.com/track/1bpOD9jv1ge8RiyKccjLHW"
     },
     {
       "added_at": "2021-04-22 14:20:49",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2021-04-22 14:20:49",
       "album": {
-        "name": "\u00c9xitos Eternos",
-        "url": "https://open.spotify.com/album/3P9Y7c860rgTpYjK8SBMon"
-      },
-      "artists": [
-        {
-          "name": "Los Pasteles Verdes",
-          "url": "https://open.spotify.com/artist/2lHzW2pMhRYX3ohx5lZY8y"
-        }
-      ],
-      "duration_ms": 259866,
-      "name": "Hipocres\u00eda",
-      "url": "https://open.spotify.com/track/5Cf4aRX1Kr6Y0DMb18zaqi"
-    },
-    {
-      "added_at": "2021-04-22 14:20:49",
-      "album": {
         "name": "Matamoros Querido",
         "url": "https://open.spotify.com/album/3JhqydiRWszqD9YZ7xf4PR"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 195506,
       "name": "Lamento De Amor",
       "url": "https://open.spotify.com/track/6pYz8bkZvf84S49VWLRHah"
+    },
+    {
+      "added_at": "2021-04-22 14:20:49",
+      "album": {
+        "name": "\u00c9xitos Eternos",
+        "url": "https://open.spotify.com/album/3P9Y7c860rgTpYjK8SBMon"
+      },
+      "artists": [
+        {
+          "name": "Los Pasteles Verdes",
+          "url": "https://open.spotify.com/artist/2lHzW2pMhRYX3ohx5lZY8y"
+        }
+      ],
+      "duration_ms": 259866,
+      "name": "Hipocres\u00eda",
+      "url": "https://open.spotify.com/track/5Cf4aRX1Kr6Y0DMb18zaqi"
     },
     {
       "added_at": "2021-04-22 14:20:49",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2021-04-22 14:20:49",
       "album": {
-        "name": "Mi Pueblo",
-        "url": "https://open.spotify.com/album/3X6vNPToCXfZcdLVIGaJk2"
-      },
-      "artists": [
-        {
-          "name": "Cesar Costa",
-          "url": "https://open.spotify.com/artist/3XzMaBTbJva7quyxFSubuP"
-        }
-      ],
-      "duration_ms": 152711,
-      "name": "Mi Pueblo",
-      "url": "https://open.spotify.com/track/3SSOvO40lo6wmz8r0Kt3M1"
-    },
-    {
-      "added_at": "2021-04-22 14:20:49",
-      "album": {
         "name": "Baladas",
         "url": "https://open.spotify.com/album/55vtZQyrfCGjZBeoHLtT6o"
       },
@@ -1551,6 +1535,22 @@
     {
       "added_at": "2021-04-22 14:20:49",
       "album": {
+        "name": "Mi Pueblo",
+        "url": "https://open.spotify.com/album/3X6vNPToCXfZcdLVIGaJk2"
+      },
+      "artists": [
+        {
+          "name": "Cesar Costa",
+          "url": "https://open.spotify.com/artist/3XzMaBTbJva7quyxFSubuP"
+        }
+      ],
+      "duration_ms": 152711,
+      "name": "Mi Pueblo",
+      "url": "https://open.spotify.com/track/3SSOvO40lo6wmz8r0Kt3M1"
+    },
+    {
+      "added_at": "2021-04-22 14:20:49",
+      "album": {
         "name": "Original Masters",
         "url": "https://open.spotify.com/album/4CxnKxTQuQKXWrWHAVtaMO"
       },
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2021-04-22 14:20:49",
       "album": {
-        "name": "Lo Mejor De Lo Mejor",
-        "url": "https://open.spotify.com/album/3IqPx1fXB2GeEPcvT9RKn7"
-      },
-      "artists": [
-        {
-          "name": "To\u00f1a La Negra",
-          "url": "https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3"
-        }
-      ],
-      "duration_ms": 192400,
-      "name": "Cenizas",
-      "url": "https://open.spotify.com/track/3Zv4Z2YsgVoLoKKMahdDAN"
-    },
-    {
-      "added_at": "2021-04-22 14:20:49",
-      "album": {
         "name": "Solo Para Ti",
         "url": "https://open.spotify.com/album/3LRXbYxa6LgY8W7jUHYNnk"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 181586,
       "name": "Quien",
       "url": "https://open.spotify.com/track/3gcDZpRcPnRgmP3EguPv6K"
+    },
+    {
+      "added_at": "2021-04-22 14:20:49",
+      "album": {
+        "name": "Lo Mejor De Lo Mejor",
+        "url": "https://open.spotify.com/album/3IqPx1fXB2GeEPcvT9RKn7"
+      },
+      "artists": [
+        {
+          "name": "To\u00f1a La Negra",
+          "url": "https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3"
+        }
+      ],
+      "duration_ms": 192400,
+      "name": "Cenizas",
+      "url": "https://open.spotify.com/track/3Zv4Z2YsgVoLoKKMahdDAN"
     },
     {
       "added_at": "2021-04-22 14:20:49",

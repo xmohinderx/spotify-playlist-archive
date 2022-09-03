@@ -4,7 +4,7 @@
 
 > Ultimate 101 Punjabi hits with AP Dhillon
 
-135 songs - 7 hr 14 min - [published](https://open.spotify.com/playlist/65mo2NWVu4B5tAS7KU5k4E)
+137 songs - 7 hr 21 min - [published](https://open.spotify.com/playlist/65mo2NWVu4B5tAS7KU5k4E)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,8 @@
 | [DESIRES](https://open.spotify.com/track/5pcmtf1lwrMqmAWWm248fY) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Gurinder Gill](https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl) | [HIDDEN GEMS](https://open.spotify.com/album/3fOswFPlmSWKTTFTlksdiv) | 2:48 | 2022-05-29 |  |
 | [Distance Love](https://open.spotify.com/track/55nRhkhe7ckZhazYrv6ZOX) | [Grewal](https://open.spotify.com/artist/6Wg3YW7eun3woBKYL8jJT6), [Zehr Vibe](https://open.spotify.com/artist/48cVwD5hffidwvlxLCc2pm) | [Distance Love](https://open.spotify.com/album/0FSTdbfd0XFtEjWK8VCjgY) | 3:30 | 2022-05-29 |  |
 | [Dream](https://open.spotify.com/track/1qbD2xTTBGif2ki4D5Po7P) | [Inder Chahal](https://open.spotify.com/artist/2ZzyxohC32i649slMn9Kgk), [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Dream](https://open.spotify.com/album/7FHStROpaJ7y8BkoeGqb2n) | 3:35 | 2022-05-29 | 2022-06-21 |
-| [ELEVATED](https://open.spotify.com/track/6btas8Eignhw8yKp4VJvGi) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [ELEVATED](https://open.spotify.com/album/7tK9pQYQGTEduNW5i6V24t) | 3:20 | 2022-05-29 |  |
+| [ELEVATED](https://open.spotify.com/track/2AilvPt1AQ8PixlCKqkjfj) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Elevated](https://open.spotify.com/album/1XNS0VIWnEKteOv1fa0okk) | 3:20 | 2022-08-22 |  |
+| [ELEVATED](https://open.spotify.com/track/6btas8Eignhw8yKp4VJvGi) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [ELEVATED](https://open.spotify.com/album/7tK9pQYQGTEduNW5i6V24t) | 3:20 | 2022-05-29 | 2022-09-03 |
 | [Everybody Hurts](https://open.spotify.com/track/1w3exvIgbRFV2ijf6qyWm8) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ) | [No Name](https://open.spotify.com/album/57SIarHHgfby4AvV6ftCB5) | 2:53 | 2022-06-01 |  |
 | [Excuses](https://open.spotify.com/track/29m79w9xPMH4YCD6r8JSmV) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Gurinder Gill](https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl), [Intense](https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN) | [Excuses](https://open.spotify.com/album/3GkXRRRkV3rfgwG1wJset9) | 2:56 | 2022-05-29 |  |
 | [Fallin Star](https://open.spotify.com/track/45w4U2lr3UCEShY27BV8VO) | [Harnoor](https://open.spotify.com/artist/4eB5clMaoi0cCRnCwLkkiS), [Ilam](https://open.spotify.com/artist/3BmI2nuXJ2sCiVa3miR7PT) | [Fallin Star](https://open.spotify.com/album/6b4VNmMlPoEJKyxkokPVvI) | 2:45 | 2022-06-28 | 2022-08-06 |
@@ -141,7 +142,8 @@
 | [Waalian](https://open.spotify.com/track/4hOsYVSWKWP71u3yQbcqZB) | [Harnoor](https://open.spotify.com/artist/4eB5clMaoi0cCRnCwLkkiS) | [Waalian](https://open.spotify.com/album/3TMR3K620scT4kBTSTMrnb) | 3:26 | 2022-05-29 |  |
 | [Wait & Watch \(From "Babbar"\)](https://open.spotify.com/track/6ryOGfMaBty1cmkiJt9Qzz) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [Wait & Watch \(From "Babbar"\)](https://open.spotify.com/album/0NMM1rVmULQqE38GOz6e1t) | 2:32 | 2022-07-28 |  |
 | [Wait & Watch \(From "Babbar"\)](https://open.spotify.com/track/6zl5Tp2B2JAcEfucv4D5p1) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [Wait & Watch \(From "Babbar"\)](https://open.spotify.com/album/5KcP4ZbOmBEJk12Ihy0x3L) | 2:32 | 2022-05-29 | 2022-07-29 |
-| [WE ROLLIN](https://open.spotify.com/track/605r6rtj7kBlJwZWmYx1Dt) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [WE ROLLIN](https://open.spotify.com/album/7EJI4AmDQIyLoxegf5AjDO) | 3:19 | 2022-05-29 |  |
+| [WE ROLLIN](https://open.spotify.com/track/605r6rtj7kBlJwZWmYx1Dt) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [WE ROLLIN](https://open.spotify.com/album/7EJI4AmDQIyLoxegf5AjDO) | 3:19 | 2022-05-29 | 2022-09-03 |
+| [WE ROLLIN](https://open.spotify.com/track/6ZYxNjuAU9Vy3VtF6W1dtE) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [We Rollin](https://open.spotify.com/album/09vnsHZoXH0OQWNAaOkVcf) | 3:19 | 2022-08-22 |  |
 | [Ykwim](https://open.spotify.com/track/6qS40yL7kXVoChI8SSCQIQ) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t), [Mehar Vaani](https://open.spotify.com/artist/1292Fb98poF6N9aEk9oibw) | [Ykwim](https://open.spotify.com/album/14XBYP5RcavbvSREiaQ17V) | 3:14 | 2022-05-29 |  |
 
 \*This playlist was first scraped on 2022-05-30. Prior content cannot be recovered.

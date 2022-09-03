@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "Keep up with all the latest pop hits. Cover: Rema, Selena Gomez",
+  "description": "Keep up with all the latest pop hits. Cover: TALK",
   "name": "Pop All Day",
   "published_playlist_ids": [
     "72ei0AA5JxKKu1O5OfW8cY"
@@ -865,7 +865,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 206070,
       "name": "Bam Bam (feat. Ed Sheeran)",
       "url": "https://open.spotify.com/track/3lDSWvR0FXWGXo7mhDUs3v"
@@ -913,6 +913,24 @@
       "duration_ms": 223232,
       "name": "BEAUTIFUL (feat. Future & SZA)",
       "url": "https://open.spotify.com/track/5kYSScXYOZYyi0fxramiW6"
+    },
+    {
+      "album": {
+        "name": "Beautiful Love (Free Fire)",
+        "url": "https://open.spotify.com/album/3Dukyn15RlALh1JDtQRqO0"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207837,
+      "name": "Beautiful Love - Free Fire",
+      "url": "https://open.spotify.com/track/3e10Ct9oFcIdgFjkDUBV2k"
     },
     {
       "album": {
@@ -1901,7 +1919,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 217470,
       "name": "Congrats",
       "url": "https://open.spotify.com/track/3pJMOvec8R8OKzEmB9PRJD"
@@ -2017,7 +2035,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 226937,
       "name": "Dance With You",
       "url": "https://open.spotify.com/track/2nsf0yZBCWNq20FvTUCXpe"
@@ -2263,7 +2281,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 229517,
       "name": "Don't Let The Light Go Out",
       "url": "https://open.spotify.com/track/2lCyQnftM6ptqC3vk7qeao"
@@ -2819,7 +2837,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 171411,
       "name": "Fire",
       "url": "https://open.spotify.com/track/6uDnDG2QenoT0oJuisqcjC"
@@ -3279,6 +3297,28 @@
       "duration_ms": 174784,
       "name": "Hallie's Song",
       "url": "https://open.spotify.com/track/3iiXGM3DAnB1qaKsrsHn3w"
+    },
+    {
+      "album": {
+        "name": "Handle Me (feat. Adekunle Gold)",
+        "url": "https://open.spotify.com/album/3Cd3jHPeIl4euaDfPIccK4"
+      },
+      "artists": [
+        {
+          "name": "Lous and The Yakuza",
+          "url": "https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R"
+        },
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167735,
+      "name": "Handle Me (feat. Adekunle Gold)",
+      "url": "https://open.spotify.com/track/4dLfcjzMHZAVgnmuglRvhY"
     },
     {
       "album": {
@@ -4870,6 +4910,42 @@
     },
     {
       "album": {
+        "name": "Songs of Sonder",
+        "url": "https://open.spotify.com/album/3meoZUwEJiy7nyrDsv2HHJ"
+      },
+      "artists": [
+        {
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229436,
+      "name": "Kiss Me",
+      "url": "https://open.spotify.com/track/1Xq9ilOLiknCaGYtSsvFrH"
+    },
+    {
+      "album": {
+        "name": "KU LO SA - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/36bNKiiUjxUCaAO7QtUVfi"
+      },
+      "artists": [
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147580,
+      "name": "KU LO SA - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/2WigMwGJysIh9fRnSJvpjn"
+    },
+    {
+      "album": {
         "name": "The After Party",
         "url": "https://open.spotify.com/album/3RJi4CGEm5KVAdPxl2fWWa"
       },
@@ -5071,7 +5147,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 154486,
       "name": "Left and Right (Feat. Jung Kook of BTS)",
       "url": "https://open.spotify.com/track/0mBP9X2gPCuapvpZ7TGDk3"
@@ -5161,7 +5237,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 184933,
       "name": "Lift Off",
       "url": "https://open.spotify.com/track/3ZcLmonVVD1MTQtmQb8yf3"
@@ -5731,7 +5807,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 190318,
       "name": "Maybe You\u2019re The Problem",
       "url": "https://open.spotify.com/track/0sb8ClU3CLoNblxkpmOKzA"
@@ -5825,6 +5901,24 @@
       "duration_ms": 184447,
       "name": "MIDDLE OF THE NIGHT",
       "url": "https://open.spotify.com/track/58HvfVOeJY7lUuCqF0m3ly"
+    },
+    {
+      "album": {
+        "name": "Million Dollar Baby",
+        "url": "https://open.spotify.com/album/4fCW1XNPfBY6rgL1scsfGC"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184294,
+      "name": "Million Dollar Baby",
+      "url": "https://open.spotify.com/track/3pPN20syOYvbUuEiBpbenI"
     },
     {
       "album": {
@@ -6525,6 +6619,24 @@
       "duration_ms": 161271,
       "name": "On My Own",
       "url": "https://open.spotify.com/track/0FZI4FaJlgmfwJn5LuStDE"
+    },
+    {
+      "album": {
+        "name": "One of the Guys",
+        "url": "https://open.spotify.com/album/3PMqsg6TJ2AaTCA00Y7Sjb"
+      },
+      "artists": [
+        {
+          "name": "JESSIA",
+          "url": "https://open.spotify.com/artist/6DdbeAeBlrYj8bNToZv4TY"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118759,
+      "name": "One of the Guys",
+      "url": "https://open.spotify.com/track/4jXEvctpjLM9moyDwG8SGp"
     },
     {
       "album": {
@@ -7385,7 +7497,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 203573,
       "name": "Save Your Love",
       "url": "https://open.spotify.com/track/2egtrr5T0vdqOBtuYbzEu4"
@@ -7628,6 +7740,28 @@
     },
     {
       "album": {
+        "name": "Sin Fin",
+        "url": "https://open.spotify.com/album/6bcsXfLlMTAWGWdWofzM2l"
+      },
+      "artists": [
+        {
+          "name": "Romeo Santos",
+          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+        },
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234666,
+      "name": "Sin Fin",
+      "url": "https://open.spotify.com/track/3qaHzxjNtFU7QiEuhGx70x"
+    },
+    {
+      "album": {
         "name": "EUPHORIA SEASON 2 OFFICIAL SCORE (FROM THE HBO ORIGINAL SERIES)",
         "url": "https://open.spotify.com/album/43tSLc6ZxW8TTRLrBO0SU1"
       },
@@ -7719,6 +7853,24 @@
       "duration_ms": 152280,
       "name": "Small Talk",
       "url": "https://open.spotify.com/track/2VSDgY45ztAF4R4TJHKVOu"
+    },
+    {
+      "album": {
+        "name": "Smells Like Me",
+        "url": "https://open.spotify.com/album/3XvDbxerzYjQZRc6JfF9jY"
+      },
+      "artists": [
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204079,
+      "name": "Smells Like Me",
+      "url": "https://open.spotify.com/track/6LXIhiXK8z1KLd3giR904b"
     },
     {
       "album": {
@@ -8369,6 +8521,28 @@
       "duration_ms": 196760,
       "name": "Tears In The Club (feat. The Weeknd)",
       "url": "https://open.spotify.com/track/60wMNCIWYZwbOywZXgfQ9P"
+    },
+    {
+      "album": {
+        "name": "Teenage Tears",
+        "url": "https://open.spotify.com/album/1V5vfb0B2U2pMuyfz3NDOi"
+      },
+      "artists": [
+        {
+          "name": "Arkells",
+          "url": "https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk"
+        },
+        {
+          "name": "Tegan and Sara",
+          "url": "https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202283,
+      "name": "Teenage Tears",
+      "url": "https://open.spotify.com/track/02bXsIFfIuKXcNw1LTBu80"
     },
     {
       "album": {

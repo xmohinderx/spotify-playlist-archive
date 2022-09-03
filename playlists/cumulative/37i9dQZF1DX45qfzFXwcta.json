@@ -612,6 +612,24 @@
     },
     {
       "album": {
+        "name": "Listen to your heart",
+        "url": "https://open.spotify.com/album/2rkomgqyv6owGar7tmmW2Y"
+      },
+      "artists": [
+        {
+          "name": "NICKELMAN",
+          "url": "https://open.spotify.com/artist/36pqgmoQFc12FhcRZitq6I"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196173,
+      "name": "Listen to your heart",
+      "url": "https://open.spotify.com/track/2ov6f8mXppqPHffDiCKZtZ"
+    },
+    {
+      "album": {
         "name": "Fake Business",
         "url": "https://open.spotify.com/album/79VlsORhx2r88yW7TRmDWW"
       },

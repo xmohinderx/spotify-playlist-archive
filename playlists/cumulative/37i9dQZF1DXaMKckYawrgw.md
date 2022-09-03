@@ -2,7 +2,7 @@
 
 ### [Ska Mexa](https://open.spotify.com/playlist/37i9dQZF1DXaMKckYawrgw)
 
-> Ska con cuadritos blancos, negros, y tricolores\. Los de Abajo en portada.
+> Ska con cuadritos blancos, negros, y tricolores\. La Tremenda Korte en portada.
 
 135 songs - 8 hr 20 min - [published](https://open.spotify.com/playlist/7o4h9V9vhPDNT8jAt3VvIq)
 

@@ -1,12 +1,12 @@
 {
   "description": "Chilled R&B jams for your most relaxed moods.",
-  "num_followers": 2262612,
+  "num_followers": 2262915,
   "original_name": "Chilled R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTc4NDI4MywwMDAwMDAwMDQ3MzlmOTRjMzc0YmZiZDQzY2JhYWVkMTBiZDMwMjBj",
+  "snapshot_id": "MTY2MjA5MTIwMCwwMDAwMDAwMDE4NjM2ZjBiMjliYmZlNDU3MjU4MjEwMWFlNTVmNmY3",
   "tracks": [
     {
       "added_at": "2022-07-08 20:50:37",
@@ -99,6 +99,26 @@
       "duration_ms": 161274,
       "name": "A Dream",
       "url": "https://open.spotify.com/track/0Ntl87gyxtztbpfK8hfqQr"
+    },
+    {
+      "added_at": "2022-09-02 04:00:00",
+      "album": {
+        "name": "Queen Space (with Summer Walker)",
+        "url": "https://open.spotify.com/album/6juUcr1BHeBUg2ipoLI0mV"
+      },
+      "artists": [
+        {
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        },
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 230841,
+      "name": "Queen Space (with Summer Walker)",
+      "url": "https://open.spotify.com/track/3Gz3Tl8TicQbsR0OGvmc6C"
     },
     {
       "added_at": "2022-07-08 20:50:37",
@@ -321,6 +341,22 @@
       "url": "https://open.spotify.com/track/7dAtplicSnwRymddH1qmpC"
     },
     {
+      "added_at": "2022-09-02 04:00:00",
+      "album": {
+        "name": "Thinking of You",
+        "url": "https://open.spotify.com/album/79rtD8Fb3cam1TlbEeQOw0"
+      },
+      "artists": [
+        {
+          "name": "Kwaku Asante",
+          "url": "https://open.spotify.com/artist/2aUr9B6iwO3eYiEHJIpB0M"
+        }
+      ],
+      "duration_ms": 201836,
+      "name": "Thinking of You",
+      "url": "https://open.spotify.com/track/7uJdcCDuGFWBUWEkAeukb6"
+    },
+    {
       "added_at": "2022-08-19 04:15:53",
       "album": {
         "name": "R&B MONEY",
@@ -425,6 +461,22 @@
       "url": "https://open.spotify.com/track/0PBfcu5ehGtLsECI40GWEg"
     },
     {
+      "added_at": "2022-09-02 04:00:00",
+      "album": {
+        "name": "KINDA HAPPY, KINDA SAD",
+        "url": "https://open.spotify.com/album/3nOrmM1aN9RBB9vpwoSEzl"
+      },
+      "artists": [
+        {
+          "name": "Zilo",
+          "url": "https://open.spotify.com/artist/3fcW2V4zOfFm0IsWCJUuzz"
+        }
+      ],
+      "duration_ms": 230354,
+      "name": "emotional",
+      "url": "https://open.spotify.com/track/1BMffJnuEsz31KwwSyjbQv"
+    },
+    {
       "added_at": "2022-08-26 04:04:31",
       "album": {
         "name": "Only Gold",
@@ -483,6 +535,22 @@
       "duration_ms": 207551,
       "name": "everything",
       "url": "https://open.spotify.com/track/6pyM30WDpG70VTfwoQg4m2"
+    },
+    {
+      "added_at": "2022-09-02 04:00:00",
+      "album": {
+        "name": "Super Power (Acoustic)",
+        "url": "https://open.spotify.com/album/75zhRwhmiXv57jcu14KEqc"
+      },
+      "artists": [
+        {
+          "name": "Jordan Hawkins",
+          "url": "https://open.spotify.com/artist/70XiOMiwBAHHspwHrkxlJY"
+        }
+      ],
+      "duration_ms": 182686,
+      "name": "Super Power - Acoustic",
+      "url": "https://open.spotify.com/track/4NNjqi7nSxVvcQxlQCECAS"
     },
     {
       "added_at": "2022-08-19 04:15:53",

@@ -4,7 +4,7 @@
 
 > 以輕快又富原野氣息的民謠搭配午茶，讓耳際、齒頰一同留香，好心情開花結果。
 
-141 songs - 7 hr 57 min - [published](https://open.spotify.com/playlist/2huVTNU2fzUcSwfsB8l29J)
+142 songs - 8 hr 1 min - [published](https://open.spotify.com/playlist/2huVTNU2fzUcSwfsB8l29J)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Beautiful People](https://open.spotify.com/track/2G0MFuEXoxdDgBjfFXP65I) | [Sara Farell](https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV) | [Beautiful People](https://open.spotify.com/album/2ETALrfBaNSSZbFITODMkM) | 3:32 | 2022-05-30 | 2022-07-29 |
 | [Beautiful People Beautiful Problems \(feat\. Stevie Nicks\)](https://open.spotify.com/track/3O7p9Itz8PXUoAjD2vmuM6) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Lust For Life](https://open.spotify.com/album/7xYiTrbTL57QO0bb4hXIKo) | 4:13 | 2022-07-25 |  |
 | [Beautiful Scars \(Maximillian x Moira Dela Torre\) \- Acoustic](https://open.spotify.com/track/2vcDl2SLudnltyDEos3v6E) | [Maximillian](https://open.spotify.com/artist/2Q9c6ETFOkDDTy53U7DIgr), [Moira Dela Torre](https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc) | [Beautiful Scars \(Maximillian x Moira Dela Torre\) \[Acoustic\]](https://open.spotify.com/album/3w21pYIhQWUtUcNfyoYiba) | 2:37 | 2022-05-30 | 2022-08-09 |
+| [Beautiful Stranger](https://open.spotify.com/track/2Hs7CsaCy7U6tGy8s3zdMB) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/3t4SFDwWJlt7A3RQS2YT1c) | 3:21 | 2022-08-29 |  |
 | [Better Together](https://open.spotify.com/track/6huS9u0BDfeQHq0lObNLPl) | [Us The Duo](https://open.spotify.com/artist/3QGKsAfhZdldQCLuLjk6zl) | [Better Together](https://open.spotify.com/album/0KAwOGS6XRZfVBx9qmSlMc) | 3:20 | 2022-07-25 |  |
 | [Better with You \- Acoustic](https://open.spotify.com/track/2AARwDC2ylbWF61qXrteHK) | [Jesse McCartney](https://open.spotify.com/artist/2Hjj68yyUPiC0HKEOigcEp) | [Better with You \(Acoustic\)](https://open.spotify.com/album/1c4I4b4Lp7XayJqcWVCnoG) | 3:28 | 2022-08-08 |  |
 | [Blue](https://open.spotify.com/track/65HsXWtHGIMXJE9YB7CvZA) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [Blue](https://open.spotify.com/album/7e8MAOJkh11RROwjECuxUG) | 3:11 | 2022-05-30 |  |
@@ -33,7 +34,7 @@
 | [Dear Winter](https://open.spotify.com/track/4Dd0v2LBhMpqOwhmeU4yBJ) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [Neotheater](https://open.spotify.com/album/02tIakRsIFGW8sO4pBtJgj) | 2:48 | 2022-08-08 |  |
 | [Devil Eyes](https://open.spotify.com/track/7eGgaxBDg13KBgZCCULIje) | [VORANAH](https://open.spotify.com/artist/3tiqYfeRIozfVNnniIB7ij), [Jasmine](https://open.spotify.com/artist/3zoeO3T9qt9Vt3sHmaT1UQ) | [THE MASTERPIECE \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/77QhNf1KG1kCd6ecDhvnnn) | 2:35 | 2022-07-11 | 2022-07-26 |
 | [dinner in bed](https://open.spotify.com/track/72ChE6ENMalJJnPbh0rjyM) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx) | [dinner in bed](https://open.spotify.com/album/00ZZcWUP6oHeKpuqPe1Pvh) | 3:17 | 2022-05-30 | 2022-07-29 |
-| [Don't Grow Up Too Fast](https://open.spotify.com/track/0zQStWTaXhsovcUMcxa3ui) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Don't Grow Up Too Fast](https://open.spotify.com/album/7CwpEBfMIZ7His4bkV8maE) | 4:02 | 2022-07-25 |  |
+| [Don't Grow Up Too Fast](https://open.spotify.com/track/0zQStWTaXhsovcUMcxa3ui) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Don't Grow Up Too Fast](https://open.spotify.com/album/7CwpEBfMIZ7His4bkV8maE) | 4:02 | 2022-07-25 | 2022-09-03 |
 | [Don't Stop Believing](https://open.spotify.com/track/2cPPd2bGMjuxUcYPA2Y7fh) | [Clementine Duo](https://open.spotify.com/artist/4s6YWKUwngB7oxE6CPWsW2) | [Don't Stop Believing](https://open.spotify.com/album/7lioeM9YLlGipkbkfFxS3R) | 4:11 | 2022-08-08 |  |
 | [Don't You Worry](https://open.spotify.com/track/5XaGqclLmeuH0EBg75Li0n) | [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [Home Tapes](https://open.spotify.com/album/6ZGs1cTdS7wvHa10DicJuw) | 3:39 | 2022-05-30 |  |
 | [Down by the Water](https://open.spotify.com/track/4Vutl1Y7OJOBwIqVISNmzL) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [EP](https://open.spotify.com/album/1ewyUvC97wRYnvK61UssDm) | 2:58 | 2022-07-25 |  |

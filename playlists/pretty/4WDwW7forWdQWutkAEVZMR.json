@@ -1,13 +1,145 @@
 {
   "description": "Your go-to playlist for this week's hottest music featuring Beyonc\u00e9, Harry Styles &amp; more!",
-  "num_followers": 8313,
+  "num_followers": 8312,
   "original_name": "Columbia Records: Weekly Mix",
   "owner": {
     "name": "Columbia Records",
     "url": "https://open.spotify.com/user/columbiarecords_us"
   },
-  "snapshot_id": "NTUwNiwzNWE0OGZmOTE4NGI5NDBjODI2OTI5ODRmNjZmMWJhM2ZlN2NmYzM5",
+  "snapshot_id": "NTUzMSw5YTY1NDI1MzVkOWNmMmY4MjZhNTBiNWFjODAwNGJlMzU3MTU2ZjI2",
   "tracks": [
+    {
+      "added_at": "2022-05-20 04:16:34",
+      "album": {
+        "name": "Harry's House",
+        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 177954,
+      "name": "Late Night Talking",
+      "url": "https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK"
+    },
+    {
+      "added_at": "2022-09-02 12:43:34",
+      "album": {
+        "name": "less than three",
+        "url": "https://open.spotify.com/album/3yHXeIqPAFAFEAoxeErVZX"
+      },
+      "artists": [
+        {
+          "name": "Foster",
+          "url": "https://open.spotify.com/artist/6vCIRD06VaQwwaZS0TqiCz"
+        }
+      ],
+      "duration_ms": 163200,
+      "name": "digital gf",
+      "url": "https://open.spotify.com/track/3mOeiCImsneDTJJMVqRJaa"
+    },
+    {
+      "added_at": "2022-09-02 12:46:59",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0aTksyiafCXTH3jbUIkwVs"
+      },
+      "artists": [
+        {
+          "name": "Chl\u00f6e",
+          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
+        }
+      ],
+      "duration_ms": 171198,
+      "name": "Surprise - Unplugged Remix - Spotify Singles",
+      "url": "https://open.spotify.com/track/3H7qZb4vWMgi7LOUtXeugK"
+    },
+    {
+      "added_at": "2022-09-02 12:44:34",
+      "album": {
+        "name": "Flossin",
+        "url": "https://open.spotify.com/album/4cKaizIpiddKdkAVfCi9rw"
+      },
+      "artists": [
+        {
+          "name": "Onlybino!",
+          "url": "https://open.spotify.com/artist/2kdZj6QvBXkeo95aio52pF"
+        }
+      ],
+      "duration_ms": 147644,
+      "name": "Flossin",
+      "url": "https://open.spotify.com/track/21NMu2aJm3z8oCSPXYY6wo"
+    },
+    {
+      "added_at": "2022-09-02 12:45:30",
+      "album": {
+        "name": "Heart's Done Breakin'",
+        "url": "https://open.spotify.com/album/1w14uCltfdbe7IR6326d0A"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Hart",
+          "url": "https://open.spotify.com/artist/7CtoMP5ulZz7vn2Sdj3Hiu"
+        }
+      ],
+      "duration_ms": 176001,
+      "name": "Heart's Done Breakin'",
+      "url": "https://open.spotify.com/track/4iZ5XVGHw4YdGO4etZIPxO"
+    },
+    {
+      "added_at": "2022-09-02 12:44:59",
+      "album": {
+        "name": "HARD",
+        "url": "https://open.spotify.com/album/3b1SWPjpkf4jEDtnNQdfu4"
+      },
+      "artists": [
+        {
+          "name": "Tove Styrke",
+          "url": "https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9"
+        }
+      ],
+      "duration_ms": 167500,
+      "name": "Another Broken Heart",
+      "url": "https://open.spotify.com/track/7MGEno7KAP4QgcBMGZzusR"
+    },
+    {
+      "added_at": "2022-09-02 12:44:13",
+      "album": {
+        "name": "Handle Me (feat. Adekunle Gold)",
+        "url": "https://open.spotify.com/album/3Cd3jHPeIl4euaDfPIccK4"
+      },
+      "artists": [
+        {
+          "name": "Lous and The Yakuza",
+          "url": "https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R"
+        },
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        }
+      ],
+      "duration_ms": 167735,
+      "name": "Handle Me (feat. Adekunle Gold)",
+      "url": "https://open.spotify.com/track/4dLfcjzMHZAVgnmuglRvhY"
+    },
+    {
+      "added_at": "2022-09-02 12:43:56",
+      "album": {
+        "name": "Late Night Talking",
+        "url": "https://open.spotify.com/album/1oakW9zmpF3oSaZ1DzPBw4"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 173226,
+      "name": "Late Night Talking - Instrumental",
+      "url": "https://open.spotify.com/track/2INabx4FScgmFGSAcsNOKx"
+    },
     {
       "added_at": "2022-08-26 14:25:28",
       "album": {
@@ -23,162 +155,6 @@
       "duration_ms": 150000,
       "name": "Beat the Odds",
       "url": "https://open.spotify.com/track/2BJWxD8xKrDv8vneTvTIm9"
-    },
-    {
-      "added_at": "2022-08-26 14:57:02",
-      "album": {
-        "name": "in loving memory",
-        "url": "https://open.spotify.com/album/0ZvU2iSXtYxBeR9QzvHQau"
-      },
-      "artists": [
-        {
-          "name": "blackbear",
-          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
-        }
-      ],
-      "duration_ms": 182792,
-      "name": "dead inside",
-      "url": "https://open.spotify.com/track/2Oo397nWzelAKMQBBIL8YI"
-    },
-    {
-      "added_at": "2022-08-26 14:26:05",
-      "album": {
-        "name": "Let It Breathe",
-        "url": "https://open.spotify.com/album/6tZVnffRGdPeTtONlgRVia"
-      },
-      "artists": [
-        {
-          "name": "Joey Bada$$",
-          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
-        }
-      ],
-      "duration_ms": 204106,
-      "name": "Let It Breathe",
-      "url": "https://open.spotify.com/track/0sJgYuySEv6icDbfsrIXYD"
-    },
-    {
-      "added_at": "2022-08-26 14:51:38",
-      "album": {
-        "name": "Creeps",
-        "url": "https://open.spotify.com/album/2lUDd3HMuFnMgK3KfniBGB"
-      },
-      "artists": [
-        {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
-        }
-      ],
-      "duration_ms": 226309,
-      "name": "Creeps",
-      "url": "https://open.spotify.com/track/0zOert4KpMDEf332FVRuxb"
-    },
-    {
-      "added_at": "2022-08-26 14:52:10",
-      "album": {
-        "name": "Every Beginning Ends",
-        "url": "https://open.spotify.com/album/7pHo5Tov9GyzVnBLxPuHYB"
-      },
-      "artists": [
-        {
-          "name": "Noah Cyrus",
-          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
-        },
-        {
-          "name": "Benjamin Gibbard",
-          "url": "https://open.spotify.com/artist/4CvZd3qzC2HbLxAoAEBRIL"
-        }
-      ],
-      "duration_ms": 150491,
-      "name": "Every Beginning Ends",
-      "url": "https://open.spotify.com/track/7lagLMBTqqOkta5eqRfNXc"
-    },
-    {
-      "added_at": "2022-08-26 14:53:37",
-      "album": {
-        "name": "we're all sad here (deluxe)",
-        "url": "https://open.spotify.com/album/45fsJlG48RvWvJoW2pIK8r"
-      },
-      "artists": [
-        {
-          "name": "Zevia",
-          "url": "https://open.spotify.com/artist/6z9k3E8sR90LH0N4zyOxUu"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "why am i alive",
-      "url": "https://open.spotify.com/track/7gbnz8hJzzGNZ2WDVPAjUV"
-    },
-    {
-      "added_at": "2022-08-26 14:52:53",
-      "album": {
-        "name": "touch tank",
-        "url": "https://open.spotify.com/album/4XsixtHgUzRfUd9zrhX5eh"
-      },
-      "artists": [
-        {
-          "name": "quinnie",
-          "url": "https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e"
-        }
-      ],
-      "duration_ms": 201653,
-      "name": "touch tank - acoustic",
-      "url": "https://open.spotify.com/track/4dJEa4hNhNcOeebBymYty6"
-    },
-    {
-      "added_at": "2022-08-26 14:51:53",
-      "album": {
-        "name": "Car's Outside",
-        "url": "https://open.spotify.com/album/0BbIbUGBYjryhlMrbM7ki2"
-      },
-      "artists": [
-        {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
-        }
-      ],
-      "duration_ms": 248735,
-      "name": "Car's Outside - Acoustic",
-      "url": "https://open.spotify.com/track/0FJlNZyxbicLmzOvNl8PJs"
-    },
-    {
-      "added_at": "2022-08-26 14:53:24",
-      "album": {
-        "name": "Circles (feat. Ocean Wisdom)",
-        "url": "https://open.spotify.com/album/0AWzvfBX7il2fjJVGvjhDP"
-      },
-      "artists": [
-        {
-          "name": "Rag'n'Bone Man",
-          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
-        },
-        {
-          "name": "Ocean Wisdom",
-          "url": "https://open.spotify.com/artist/0D9N9NxMbXKjmoRI1JVdz8"
-        }
-      ],
-      "duration_ms": 210857,
-      "name": "Circles (feat. Ocean Wisdom)",
-      "url": "https://open.spotify.com/track/74RWuKK8uKMbxj4KnJpEgG"
-    },
-    {
-      "added_at": "2022-08-12 14:53:49",
-      "album": {
-        "name": "BREAK MY SOUL (THE QUEENS REMIX)",
-        "url": "https://open.spotify.com/album/4xm2wzhAU05Y4dEdj1BO5J"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        },
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 356000,
-      "name": "BREAK MY SOUL - THE QUEENS REMIX",
-      "url": "https://open.spotify.com/track/4DukzQv7lF6DXe6Un7lghr"
     },
     {
       "added_at": "2022-08-12 14:54:39",
@@ -263,22 +239,6 @@
       "duration_ms": 157017,
       "name": "DESPECH\u00c1",
       "url": "https://open.spotify.com/track/5ildQOEKmJuWGl2vRkFdYc"
-    },
-    {
-      "added_at": "2022-06-24 15:06:09",
-      "album": {
-        "name": "engravings",
-        "url": "https://open.spotify.com/album/2SbLcM1nwlKO76evmEuX6w"
-      },
-      "artists": [
-        {
-          "name": "Ethan Bortnick",
-          "url": "https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY"
-        }
-      ],
-      "duration_ms": 180186,
-      "name": "engravings",
-      "url": "https://open.spotify.com/track/4u5CfuAGAHNYDIHSSW7BiY"
     },
     {
       "added_at": "2022-08-01 15:34:36",
@@ -391,22 +351,6 @@
       "duration_ms": 216135,
       "name": "Cash In Cash Out",
       "url": "https://open.spotify.com/track/3S68RFe1lsdCdTMPIMJM3X"
-    },
-    {
-      "added_at": "2022-05-20 04:16:34",
-      "album": {
-        "name": "Harry's House",
-        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 177954,
-      "name": "Late Night Talking",
-      "url": "https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK"
     },
     {
       "added_at": "2022-04-29 06:58:43",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd7fmFWnsK8n.md) - [plain]
 
 > アイドリッシュセブンの煌びやかな物語を彩る楽曲たちを1つのプレイリストに。Enjoy Music from the game & anime series of “IDOLiSH 7”!  ©アイドリッシュセブン
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,036 likes - 70 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,977 likes - 70 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,9 +50,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd7fmFWnsK8n.md) - [plain]
 | 40 | [June is Natural](https://open.spotify.com/track/4xFYYIWrWIZ0pTSQaTSopH) | [六弥ナギ \(CV.江口拓也\)](https://open.spotify.com/artist/3iY2wSNXnl4HozD3jUxo4a) | [June is Natural](https://open.spotify.com/album/5bLKKcHymzP2IS0dSeweTh) | 4:02 |
 | 41 | [SEPTET for...](https://open.spotify.com/track/3tAYaiZSKIK0DjtFlR1bAb) | [七瀬 陸 \(CV.小野賢章\)](https://open.spotify.com/artist/63rbHQicCyyjZ5yTOuVu6H) | [SEPTET for...](https://open.spotify.com/album/4yyA9hnwHdRGllZt0ULtMZ) | 4:20 |
 | 42 | [100%ハピネス](https://open.spotify.com/track/5UNiqysZNXw5IBHnMQ5G4w) | [百 \(CV.保志総一朗\)](https://open.spotify.com/artist/3pn6k1AxOtm76sgtZZbmk9) | [100%ハピネス](https://open.spotify.com/album/2PrKTNIToXC8a8oZLAAQOG) | 4:29 |
-| 43 | [My Friend](https://open.spotify.com/track/3TKZ0FCAUIOuHolsZVjR7o) | [二階堂大和 \(CV.白井悠介\)](https://open.spotify.com/artist/7ycBMG2dLX1m13ij2Liumm), [和泉三月 \(CV.代永 翼\)](https://open.spotify.com/artist/7oPep8A9azbYvgnADjeh0c), [六弥ナギ \(CV.江口拓也\)](https://open.spotify.com/artist/3iY2wSNXnl4HozD3jUxo4a) | [My Friend](https://open.spotify.com/album/0SsBA1WDO7VQ2C2DgzBgGB) | 4:16 |
+| 43 | [my 10plate](https://open.spotify.com/track/2kte2hCFMQSmYNkVXW78bn) | [十 龍之介 \(CV.佐藤拓也\)](https://open.spotify.com/artist/4QPLEBNjogoJQeF9dlHM82) | [my 10plate](https://open.spotify.com/album/2uRJHQyUej7qF3bh1xvfJ8) | 4:28 |
 | 44 | [miss you...](https://open.spotify.com/track/7GdsInz5oCHoQagRIczvE9) | [MEZZO”](https://open.spotify.com/artist/2ya2zQtAJSzAiQEXLllxv0) | [恋のかけら](https://open.spotify.com/album/2jBadSUvZhUnY53uaeeTK0) | 4:48 |
-| 45 | [my 10plate](https://open.spotify.com/track/2kte2hCFMQSmYNkVXW78bn) | [十 龍之介 \(CV.佐藤拓也\)](https://open.spotify.com/artist/4QPLEBNjogoJQeF9dlHM82) | [my 10plate](https://open.spotify.com/album/2uRJHQyUej7qF3bh1xvfJ8) | 4:28 |
+| 45 | [My Friend](https://open.spotify.com/track/3TKZ0FCAUIOuHolsZVjR7o) | [二階堂大和 \(CV.白井悠介\)](https://open.spotify.com/artist/7ycBMG2dLX1m13ij2Liumm), [和泉三月 \(CV.代永 翼\)](https://open.spotify.com/artist/7oPep8A9azbYvgnADjeh0c), [六弥ナギ \(CV.江口拓也\)](https://open.spotify.com/artist/3iY2wSNXnl4HozD3jUxo4a) | [My Friend](https://open.spotify.com/album/0SsBA1WDO7VQ2C2DgzBgGB) | 4:16 |
 | 46 | [ONE dream](https://open.spotify.com/track/6cYCUqJd87A0N472I17G9e) | [和泉一織 \(CV.増田俊樹\)](https://open.spotify.com/artist/7bVbZHNFI8TkukUSoMcbGj) | [ONE dream](https://open.spotify.com/album/1xjzWuNAvuMdKaFUs3FF0E) | 4:28 |
 | 47 | [ピタゴラス☆ファイター](https://open.spotify.com/track/10kBUC4nLCkzXyHMMtrKsY) | [二階堂大和 \(CV.白井悠介\)](https://open.spotify.com/artist/2bs7gIAXdwGgIr7UNVLfrw), [和泉三月 \(CV.代永 翼\)](https://open.spotify.com/artist/7oPep8A9azbYvgnADjeh0c), [六弥ナギ \(CV.江口拓也\)](https://open.spotify.com/artist/3iY2wSNXnl4HozD3jUxo4a) | [ピタゴラス☆ファイター](https://open.spotify.com/album/6SEPaqjGbkToWj5l2ePNwR) | 5:24 |
 | 48 | [U COMPLETE ME](https://open.spotify.com/track/7cDIqOnlDvvsyETwyKjtIO) | [九条 天 \(CV.斉藤壮馬\)](https://open.spotify.com/artist/0nD072zUYls8MmYPvUdmBm) | [REGALITY](https://open.spotify.com/album/1lYrz8KfQ6O2sb31UMtTrU) | 4:19 |
@@ -66,9 +66,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd7fmFWnsK8n.md) - [plain]
 | 56 | [DiSCOVER THE FUTURE](https://open.spotify.com/track/1996GO8XdzaIzstVxlQ6VT) | [IDOLiSH7](https://open.spotify.com/artist/0IcPjyCeXNduddHImlSKLH) | [DiSCOVER THE FUTURE](https://open.spotify.com/album/3T3IUShTLoWT6DCxs9U0dF) | 3:41 |
 | 57 | [DAYBREAK INTERLUDE](https://open.spotify.com/track/2EJ9iqqcZ3fo2viIC6mO95) | [TRIGGER](https://open.spotify.com/artist/11h1iiNftmZ7WB33TYOwXH) | [REGALITY](https://open.spotify.com/album/1lYrz8KfQ6O2sb31UMtTrU) | 4:52 |
 | 58 | [Mr.AFFECTiON](https://open.spotify.com/track/2vGVhtVqqhldFTbBGFtzZL) | [IDOLiSH7](https://open.spotify.com/artist/0IcPjyCeXNduddHImlSKLH) | [Mr.AFFECTiON](https://open.spotify.com/album/7JrXymArQDokcZIEuGP0rm) | 4:42 |
-| 59 | [Dis one.](https://open.spotify.com/track/35C0bBZenqx3wrVawrwwjh) | [Re:vale](https://open.spotify.com/artist/6HZWwafY9e39VNy6gFFgrU) | [Re:al Axis](https://open.spotify.com/album/1GL2a2l2jLE3jPcFMn0zQT) | 3:59 |
-| 60 | [Leopard Eyes](https://open.spotify.com/track/1pBQJ0hZyFIwKCayM9nISj) | [TRIGGER](https://open.spotify.com/artist/11h1iiNftmZ7WB33TYOwXH) | [REGALITY](https://open.spotify.com/album/1lYrz8KfQ6O2sb31UMtTrU) | 4:32 |
-| 61 | [Bang!Bang!Bang!](https://open.spotify.com/track/0ZuhTLqnLM5lGQV4k7eZGT) | [ŹOOĻ](https://open.spotify.com/artist/2ZJxvizuWt2geMy6D2p3ol) | [Bang!Bang!Bang!](https://open.spotify.com/album/3mvj8t30jZOic1I5Oe2gFg) | 4:21 |
+| 59 | [Bang!Bang!Bang!](https://open.spotify.com/track/0ZuhTLqnLM5lGQV4k7eZGT) | [ŹOOĻ](https://open.spotify.com/artist/2ZJxvizuWt2geMy6D2p3ol) | [Bang!Bang!Bang!](https://open.spotify.com/album/3mvj8t30jZOic1I5Oe2gFg) | 4:21 |
+| 60 | [Dis one.](https://open.spotify.com/track/35C0bBZenqx3wrVawrwwjh) | [Re:vale](https://open.spotify.com/artist/6HZWwafY9e39VNy6gFFgrU) | [Re:al Axis](https://open.spotify.com/album/1GL2a2l2jLE3jPcFMn0zQT) | 3:59 |
+| 61 | [Leopard Eyes](https://open.spotify.com/track/1pBQJ0hZyFIwKCayM9nISj) | [TRIGGER](https://open.spotify.com/artist/11h1iiNftmZ7WB33TYOwXH) | [REGALITY](https://open.spotify.com/album/1lYrz8KfQ6O2sb31UMtTrU) | 4:32 |
 | 62 | [Poisonous Gangster](https://open.spotify.com/track/6ofggKiHtSyvR2ZMoDDkV3) | [ŹOOĻ](https://open.spotify.com/artist/2ZJxvizuWt2geMy6D2p3ol) | [Poisonous Gangster](https://open.spotify.com/album/4kmAe9Rr3hKdtBrG2pUGVd) | 3:45 |
 | 63 | [Re\-raise](https://open.spotify.com/track/4RqIz3fZW3K00ZG4rSqwLn) | [Re:vale](https://open.spotify.com/artist/6HZWwafY9e39VNy6gFFgrU) | [Re\-raise](https://open.spotify.com/album/1ahdCCGrE726AaQLrl5bu2) | 4:13 |
 | 64 | [Everyday Yeah!](https://open.spotify.com/track/392HE8tcR75B2L4tID259H) | [IDOLiSH7](https://open.spotify.com/artist/0IcPjyCeXNduddHImlSKLH) | [DiSCOVER THE FUTURE](https://open.spotify.com/album/3T3IUShTLoWT6DCxs9U0dF) | 4:15 |
@@ -77,6 +77,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd7fmFWnsK8n.md) - [plain]
 | 67 | [ZONE OF OVERLAP](https://open.spotify.com/track/3G7t21C567I2ryejOVX2ue) | [ŹOOĻ](https://open.spotify.com/artist/2ZJxvizuWt2geMy6D2p3ol) | [Bang!Bang!Bang!](https://open.spotify.com/album/3mvj8t30jZOic1I5Oe2gFg) | 4:01 |
 | 68 | [In the meantime](https://open.spotify.com/track/6n1zhNf9zUqffLObNEDRUH) | [TRIGGER](https://open.spotify.com/artist/11h1iiNftmZ7WB33TYOwXH) | [REGALITY](https://open.spotify.com/album/1lYrz8KfQ6O2sb31UMtTrU) | 4:03 |
 | 69 | [激情](https://open.spotify.com/track/3qOVMClhpgvWo1NLVeCn6T) | [TRIGGER](https://open.spotify.com/artist/11h1iiNftmZ7WB33TYOwXH), [IDOLiSH7](https://open.spotify.com/artist/0IcPjyCeXNduddHImlSKLH) | [TVアニメ『アイドリッシュセブン Second BEAT!』オリジナルサウンドトラック「BEYOND THE SHiNE」](https://open.spotify.com/album/0MgWGPhbTjNGKwLltSznhc) | 4:23 |
-| 70 | [Start Rec](https://open.spotify.com/track/1y405pTIwFqIThLlvSH7GA) | [Re:vale](https://open.spotify.com/artist/6HZWwafY9e39VNy6gFFgrU) | [ココロ、ハレ晴レ](https://open.spotify.com/album/1m2PwqWbu5EjHRxKTgz5mE) | 4:44 |
+| 70 | [Ache](https://open.spotify.com/track/0gaM0xYRyVebGj1YPx608K) | [ŹOOĻ](https://open.spotify.com/artist/2ZJxvizuWt2geMy6D2p3ol) | [einsatZ](https://open.spotify.com/album/596RLm71012YWZ7BYB8Lph) | 3:06 |
 
-Snapshot ID: `MTY2MTg3MTYwMCwwMDAwMDAwMGQ4OWM5MTM3OGM3ZjlmZDNkMDgyODBlN2JkYTk0OTZl`
+Snapshot ID: `MTY2MTg3MTYwMCwwMDAwMDAwMGYyOWZkYmQ4OTU1YzMxNDU0MjExZjk5ZmRmNmQwZjE2`

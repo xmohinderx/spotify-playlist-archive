@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwNzYQXHuHY.md) - [plain]
 
 > 썸타고 계신가요? 설레임이 담긴 노래들을 만나보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,918 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,935 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,10 +36,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwNzYQXHuHY.md) - [plain]
 | 26 | [2U](https://open.spotify.com/track/00S4PrcWUb3f3dQ9PuC0uy) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW) | [CYAN](https://open.spotify.com/album/54mKbSh20yke318bPZMsjb) | 3:15 |
 | 27 | [busy guy](https://open.spotify.com/track/24aNJe1sZzjUyJI2WuPzud) | [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [DA DA!](https://open.spotify.com/album/2yTa42wc72yX9hzK7yBrgu) | 3:45 |
 | 28 | [so this is love](https://open.spotify.com/track/18xXVZwosvArMOJOs7wd6S) | [DAY6 \(Even of Day\)](https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd) | [bimil:ier vol.1 "so this is love"](https://open.spotify.com/album/5uGkgOzshdeNMMsR34kucM) | 3:23 |
-| 29 | [Telepathy](https://open.spotify.com/track/1xbxSb7zTHysqWZmjFdJ2n) | [Yang Yoseob](https://open.spotify.com/artist/1fwMtpwCEJovQuyxSuHcAd), [EUNHA](https://open.spotify.com/artist/4MLK9Hhz7UhxAzU2awoLxk) | [Under the Oak Tree \(Original Soundtrack\), Part\. 4](https://open.spotify.com/album/5zJVeHgHrwJ3m24sSMSrTV) | 3:12 |
+| 29 | [Maybe](https://open.spotify.com/track/4PoMMt1P8TAIRbeAcY8PN3) | [JO YURI](https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz) | [Maybe](https://open.spotify.com/album/1rzf2NYL9t1iA9HE6MYYvs) | 3:41 |
 | 30 | [How Do You Think](https://open.spotify.com/track/1xfu5RELA5t2E2KeOG2ePD) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [Q](https://open.spotify.com/album/18QFWd8sXbRzeviP7ND7mr) | 3:25 |
 | 31 | [Feel Like Falling In Love](https://open.spotify.com/track/4wMUV1YyLoaRvKskgmH6Yi) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Because This Is My First Life \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/3ZmhNW8CSb2EKYcCW4gVuy) | 3:14 |
-| 32 | [Maybe](https://open.spotify.com/track/4PoMMt1P8TAIRbeAcY8PN3) | [JO YURI](https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz) | [Maybe](https://open.spotify.com/album/1rzf2NYL9t1iA9HE6MYYvs) | 3:41 |
+| 32 | [Telepathy](https://open.spotify.com/track/1xbxSb7zTHysqWZmjFdJ2n) | [Yang Yoseob](https://open.spotify.com/artist/1fwMtpwCEJovQuyxSuHcAd), [EUNHA](https://open.spotify.com/artist/4MLK9Hhz7UhxAzU2awoLxk) | [Under the Oak Tree \(Original Soundtrack\), Part\. 4](https://open.spotify.com/album/5zJVeHgHrwJ3m24sSMSrTV) | 3:12 |
 | 33 | [Why isn't love always easy? \(Romance 101 X JOY\)](https://open.spotify.com/track/0i2zK59gngO1kHTnq9Hvp8) | [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [Why isn't love always easy? \(Romance 101 X JOY\)](https://open.spotify.com/album/5CGt6ALaaHUzCHtbqhpDJi) | 3:41 |
 | 34 | [Actor \(Feat\. pH\-1\)](https://open.spotify.com/track/35vGPMlJwGQeBPzjJAZMW5) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [NANGMAN](https://open.spotify.com/album/2hBJR1SQ4cGDjGTCY6eV8m) | 3:32 |
 | 35 | [See You Again](https://open.spotify.com/track/389DRP9O3ftN8r7QZxcUX0) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Our Love is Great](https://open.spotify.com/album/6o7uJmwJP40A8lllMXk8MW) | 3:44 |
@@ -47,16 +47,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwNzYQXHuHY.md) - [plain]
 | 37 | [HONEY \(Feat\. Crucial Star\)](https://open.spotify.com/track/2Lt1ZRU6nFY88vw24GdYLy) | [Chawoo](https://open.spotify.com/artist/4IQIYg9spHoy4FgnnManxR), [CRUCiAL STAR](https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ) | [HONEY](https://open.spotify.com/album/13G1o00M2cXesfbhj8p8H2) | 3:47 |
 | 38 | [Pong Dang](https://open.spotify.com/track/1z4RuGHHajj2eRK8IMbxMw) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [Pong Dang](https://open.spotify.com/album/1pFgxq13Tw9ZU7owb3BTP2) | 3:53 |
 | 39 | [Not In Public](https://open.spotify.com/track/6WQE9m9BhyKcsXZXWeGBqD) | [SUMMER CAKE](https://open.spotify.com/artist/00tfbtz9VWPIzJmHPojKgm) | [3rd Digital Single 'Not In Public'](https://open.spotify.com/album/4LX6PAK8lwgaKtC00wFGcy) | 2:51 |
-| 40 | [Your name](https://open.spotify.com/track/0gblvM8zgTe3d4WSYeamBI) | [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [The One and Only, Pt\. 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/53JUFGKYYyfhlHXMRirdIB) | 3:45 |
-| 41 | [NDGGA](https://open.spotify.com/track/15beUhJeOn4YdMOYW34AVJ) | [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [NDGGA](https://open.spotify.com/album/3UZvC0lIUCeLscHzuIojxg) | 2:55 |
+| 40 | [NDGGA](https://open.spotify.com/track/15beUhJeOn4YdMOYW34AVJ) | [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [NDGGA](https://open.spotify.com/album/3UZvC0lIUCeLscHzuIojxg) | 2:55 |
+| 41 | [Your name](https://open.spotify.com/track/0gblvM8zgTe3d4WSYeamBI) | [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [The One and Only, Pt\. 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/53JUFGKYYyfhlHXMRirdIB) | 3:45 |
 | 42 | [Milky Way](https://open.spotify.com/track/1BcokUlDjWwaTPu05OarRG) | [SEOHYUN](https://open.spotify.com/artist/5uM1Et50auro2hTS6ZLcmT) | [Jinxed at First \(Original Television Soundtrack\), Pt.2](https://open.spotify.com/album/2fe7Nm865FuJYBn0L2sjw8) | 2:56 |
 | 43 | [Tattoo](https://open.spotify.com/track/3B4AOfW6nDbCPb1pIEczJQ) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [Tattoo](https://open.spotify.com/album/6bj3FAvqE5M3tfANem3X08) | 3:09 |
-| 44 | [Oh My Boy](https://open.spotify.com/track/3qsxjwVRHAu69j7LoglBEz) | [KWON EUN BI](https://open.spotify.com/artist/0qr7Rhj0yU7BPySYecNUlm) | [Oh My Boy](https://open.spotify.com/album/3wB6o7osE6fIGUBNG4dk1F) | 3:03 |
-| 45 | [Full of You](https://open.spotify.com/track/0VSh0IcBr84KLQiSqTwpDH) | [HAE YOON \(Cherry Bullet\)](https://open.spotify.com/artist/0ceAcBBCbrST7xKlPzcg6h) | [The King's Affection OST Part.6](https://open.spotify.com/album/1KVynTSbGiMYJCZFAsU80U) | 3:16 |
-| 46 | [I Study You](https://open.spotify.com/track/0KjzuciHomg603Pk1n64R9) | [SORAN](https://open.spotify.com/artist/7eZGd0sv1TxpOwzyKc9P4R) | [I Study You](https://open.spotify.com/album/1GjqVAgkAdFotA8zkoRphT) | 3:37 |
+| 44 | [Full of You](https://open.spotify.com/track/0VSh0IcBr84KLQiSqTwpDH) | [HAE YOON \(Cherry Bullet\)](https://open.spotify.com/artist/0ceAcBBCbrST7xKlPzcg6h) | [The King's Affection OST Part.6](https://open.spotify.com/album/1KVynTSbGiMYJCZFAsU80U) | 3:16 |
+| 45 | [I Study You](https://open.spotify.com/track/0KjzuciHomg603Pk1n64R9) | [SORAN](https://open.spotify.com/artist/7eZGd0sv1TxpOwzyKc9P4R) | [I Study You](https://open.spotify.com/album/1GjqVAgkAdFotA8zkoRphT) | 3:37 |
+| 46 | [Oh My Boy](https://open.spotify.com/track/3qsxjwVRHAu69j7LoglBEz) | [KWON EUN BI](https://open.spotify.com/artist/0qr7Rhj0yU7BPySYecNUlm) | [Oh My Boy](https://open.spotify.com/album/3wB6o7osE6fIGUBNG4dk1F) | 3:03 |
 | 47 | [Should Not Love You](https://open.spotify.com/track/0Er9o2H59VVOmgMB4VG4fk) | [DINDIN](https://open.spotify.com/artist/63cvWayCvPbWYNDi537w0z) | [A New Decade](https://open.spotify.com/album/4mYVg4U1xnQyBA3hbH1DB4) | 3:39 |
 | 48 | [Fool](https://open.spotify.com/track/4EIJ8e7f0104nDFFVhWg0x) | [JUNIEL](https://open.spotify.com/artist/0F8gvxccUYPndXVsyLmCi6), [Jung Yong Hwa](https://open.spotify.com/artist/6zhAP0FoDccL9kuETOC20q) | [My First June](https://open.spotify.com/album/7DeVjzaqs8JcuHetuERgE7) | 3:50 |
 | 49 | [Strawberry Smoothie](https://open.spotify.com/track/4Fa5yirnUwGuELJ3t054mz) | [Lee Aram](https://open.spotify.com/artist/3j0Q7sspsBVQm6SdlkqYp1) | [Farmers \(Original Soundtrack\)](https://open.spotify.com/album/4imnAiy9VXoGhPYoqdns9j) | 2:37 |
-| 50 | [Stupid \(feat\. Amin & H!\)](https://open.spotify.com/track/6tgPZHN5aSPU3IFxcG7V6r) | [merrymerryseoul](https://open.spotify.com/artist/5vePfIx5trgioIznzp2cuy), [amin](https://open.spotify.com/artist/05FbaV2QkbVQoHri4l491N), [H!](https://open.spotify.com/artist/3gVpUJcNNDu43pV4xlzmyJ) | [Weekday is long, Weekend is gone](https://open.spotify.com/album/2P4txqRH8hlDQLBoMnXlIl) | 2:55 |
+| 50 | [Something Precious](https://open.spotify.com/track/7yoqiaAawHktS5Gao5rzLO) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [Forecasting Love and Weather \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/5wEeXyJVwgTvVis9XPOs7Q) | 3:29 |
 
-Snapshot ID: `MTY2MDgzMjYyNSwwMDAwMDAwMGJkOThiZWJmZDJmMzk3OTZiMjE5OWY0N2VjODIwNTVi`
+Snapshot ID: `MTY2MDgzMjYyNSwwMDAwMDAwMDYwZWUxYjVjNDRkMDM4ZmI4YzQ5MTExYjIyNzg1NzA0`

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s chicloso! Sofi Mata en portada.",
-  "num_followers": 49263,
+  "num_followers": 49332,
   "original_name": "Oye Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDg4NTIwMCwwMDAwMDAwMDdiMDY3YTk0M2IzODlmNThlNDJiYzFiYTk5OGY2YmEy",
+  "snapshot_id": "MTY2MDg4NTIwMCwwMDAwMDAwMGM5NmNmYTA0NDdhNDFjN2I3MjE3OGQzOWUyNmM1NGUw",
   "tracks": [
     {
       "added_at": "2022-08-19 05:00:00",
@@ -415,22 +415,18 @@
     {
       "added_at": "2022-08-19 05:00:00",
       "album": {
-        "name": "NO ERES T\u00da (feat. Gloria Trevi)",
-        "url": "https://open.spotify.com/album/7CEvogoNvFLnDR0z1nPw1k"
+        "name": "Dementes",
+        "url": "https://open.spotify.com/album/0fsASfqU4Xd5UlCGN7ltTR"
       },
       "artists": [
         {
-          "name": "Jennifer Rojo",
-          "url": "https://open.spotify.com/artist/0SMyQijONSkk6q5UseJXEN"
-        },
-        {
-          "name": "Gloria Trevi",
-          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+          "name": "Alex Hoyer",
+          "url": "https://open.spotify.com/artist/45ztMs8dTg6GRQ41yY4xtr"
         }
       ],
-      "duration_ms": 229144,
-      "name": "NO ERES T\u00da (feat. Gloria Trevi)",
-      "url": "https://open.spotify.com/track/1Ak0ucQzPS6mvMn1m8YQTY"
+      "duration_ms": 176207,
+      "name": "Dementes",
+      "url": "https://open.spotify.com/track/05T29iTmS1rFDLrF1Qy1JI"
     },
     {
       "added_at": "2022-08-19 05:00:00",
@@ -451,18 +447,22 @@
     {
       "added_at": "2022-08-19 05:00:00",
       "album": {
-        "name": "Dementes",
-        "url": "https://open.spotify.com/album/0fsASfqU4Xd5UlCGN7ltTR"
+        "name": "NO ERES T\u00da (feat. Gloria Trevi)",
+        "url": "https://open.spotify.com/album/7CEvogoNvFLnDR0z1nPw1k"
       },
       "artists": [
         {
-          "name": "Alex Hoyer",
-          "url": "https://open.spotify.com/artist/45ztMs8dTg6GRQ41yY4xtr"
+          "name": "Jennifer Rojo",
+          "url": "https://open.spotify.com/artist/0SMyQijONSkk6q5UseJXEN"
+        },
+        {
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
         }
       ],
-      "duration_ms": 176207,
-      "name": "Dementes",
-      "url": "https://open.spotify.com/track/05T29iTmS1rFDLrF1Qy1JI"
+      "duration_ms": 229144,
+      "name": "NO ERES T\u00da (feat. Gloria Trevi)",
+      "url": "https://open.spotify.com/track/1Ak0ucQzPS6mvMn1m8YQTY"
     },
     {
       "added_at": "2022-08-19 05:00:00",
@@ -571,6 +571,22 @@
     {
       "added_at": "2022-08-19 05:00:00",
       "album": {
+        "name": "Aunque Digan",
+        "url": "https://open.spotify.com/album/4yfVjYikNqAH8liyfw3n7K"
+      },
+      "artists": [
+        {
+          "name": "Picus",
+          "url": "https://open.spotify.com/artist/2BUqEy3gCJYDKmKqV06Ojt"
+        }
+      ],
+      "duration_ms": 189986,
+      "name": "Aunque Digan",
+      "url": "https://open.spotify.com/track/5BJVD5vb0XEpugqc2EzImr"
+    },
+    {
+      "added_at": "2022-08-19 05:00:00",
+      "album": {
         "name": "IDIOTA",
         "url": "https://open.spotify.com/album/5HLaq4AONQkCMvFVHswg85"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 202574,
       "name": "Solo Qu\u00e9date en Silencio",
       "url": "https://open.spotify.com/track/5tHlx87NpprW9FXF1jweH5"
-    },
-    {
-      "added_at": "2022-08-19 05:00:00",
-      "album": {
-        "name": "Aunque Digan",
-        "url": "https://open.spotify.com/album/4yfVjYikNqAH8liyfw3n7K"
-      },
-      "artists": [
-        {
-          "name": "Picus",
-          "url": "https://open.spotify.com/artist/2BUqEy3gCJYDKmKqV06Ojt"
-        }
-      ],
-      "duration_ms": 189986,
-      "name": "Aunque Digan",
-      "url": "https://open.spotify.com/track/5BJVD5vb0XEpugqc2EzImr"
     },
     {
       "added_at": "2022-08-19 05:00:00",
@@ -755,6 +755,22 @@
     {
       "added_at": "2022-08-19 05:00:00",
       "album": {
+        "name": "Fr\u00edo",
+        "url": "https://open.spotify.com/album/52fZOIMpznnGr5pwXm2aMA"
+      },
+      "artists": [
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        }
+      ],
+      "duration_ms": 170253,
+      "name": "Fr\u00edo",
+      "url": "https://open.spotify.com/track/1p9vRub1lRUQDdFNxzJfCu"
+    },
+    {
+      "added_at": "2022-08-19 05:00:00",
+      "album": {
         "name": "Eclipse de Luna (Edici\u00f3n Especial)",
         "url": "https://open.spotify.com/album/72B74qlICDqsf9R9mtSQWR"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 220492,
       "name": "Eclipse de Luna - Edici\u00f3n Especial",
       "url": "https://open.spotify.com/track/3kYAIegzm6Ounx1nFg2mxa"
-    },
-    {
-      "added_at": "2022-08-19 05:00:00",
-      "album": {
-        "name": "Fr\u00edo",
-        "url": "https://open.spotify.com/album/52fZOIMpznnGr5pwXm2aMA"
-      },
-      "artists": [
-        {
-          "name": "Ventino",
-          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
-        }
-      ],
-      "duration_ms": 170253,
-      "name": "Fr\u00edo",
-      "url": "https://open.spotify.com/track/1p9vRub1lRUQDdFNxzJfCu"
     },
     {
       "added_at": "2022-08-19 05:00:00",
@@ -847,6 +847,22 @@
     {
       "added_at": "2022-08-19 05:00:00",
       "album": {
+        "name": "Shot Shot",
+        "url": "https://open.spotify.com/album/5I0GqHbj7MEGF0RRd5haZF"
+      },
+      "artists": [
+        {
+          "name": "Lamentablemente Flow",
+          "url": "https://open.spotify.com/artist/5b6Hl206aXLFcGUPx7DLSk"
+        }
+      ],
+      "duration_ms": 178786,
+      "name": "Shot Shot",
+      "url": "https://open.spotify.com/track/1T9uhHXZspigDRS10mzBmt"
+    },
+    {
+      "added_at": "2022-08-19 05:00:00",
+      "album": {
         "name": "Despertar",
         "url": "https://open.spotify.com/album/1YLJe893LXBJ91Y9ZKOnfh"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 198000,
       "name": "Despertar",
       "url": "https://open.spotify.com/track/2zvKyZEqzTHCFseMncakGl"
-    },
-    {
-      "added_at": "2022-08-19 05:00:00",
-      "album": {
-        "name": "Shot Shot",
-        "url": "https://open.spotify.com/album/5I0GqHbj7MEGF0RRd5haZF"
-      },
-      "artists": [
-        {
-          "name": "Lamentablemente Flow",
-          "url": "https://open.spotify.com/artist/5b6Hl206aXLFcGUPx7DLSk"
-        }
-      ],
-      "duration_ms": 178786,
-      "name": "Shot Shot",
-      "url": "https://open.spotify.com/track/1T9uhHXZspigDRS10mzBmt"
     },
     {
       "added_at": "2022-08-19 05:00:00",

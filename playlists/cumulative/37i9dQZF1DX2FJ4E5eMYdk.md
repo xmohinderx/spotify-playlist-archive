@@ -4,7 +4,7 @@
 
 > groovy.
 
-110 songs - 7 hr 37 min - [published](https://open.spotify.com/playlist/3pt2XHEmoAsRNo2qzVm6m5)
+111 songs - 7 hr 43 min - [published](https://open.spotify.com/playlist/3pt2XHEmoAsRNo2qzVm6m5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Hippo](https://open.spotify.com/track/1suoH2qGw6E4wzG3T0JIIA) | [The Lazy Eyes](https://open.spotify.com/artist/5ZCOgPpZNvlJEBnUZnDqW8) | [SongBook](https://open.spotify.com/album/1w73ipVNe04ERHc8bwEQG0) | 2:20 | 2022-07-22 |  |
 | [Hippo](https://open.spotify.com/track/62ik4X7W26bB7X9JtJcTjY) | [The Lazy Eyes](https://open.spotify.com/artist/5ZCOgPpZNvlJEBnUZnDqW8) | [Hippo](https://open.spotify.com/album/1w2SKr8HERIcQbsP3kWEUB) | 2:20 | 2022-04-15 | 2022-07-27 |
 | [Hummingbird](https://open.spotify.com/track/6mgIfZWip9DpqFD6q2Gf4G) | [Tom West](https://open.spotify.com/artist/4IszB4IvfBur47pa0bm1sr) | [Vanishing Shores](https://open.spotify.com/album/1uUarXMkJvV1R2syV3cYnU) | 3:32 | 2021-10-08 | 2022-08-22 |
+| [If I Were A Butterfly \- Single Version](https://open.spotify.com/track/6inkWeYbXK6IuhCALR379j) | [Rayland Baxter](https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq) | [If I Were A Butterfly](https://open.spotify.com/album/5zF48gx3TWHg2Mi8nFrtpn) | 5:11 | 2022-09-02 |  |
 | [Island Time](https://open.spotify.com/track/453gfGTfhbbOGXVaaNVrPo) | [Jamtown](https://open.spotify.com/artist/32eTdkXPNVrfPShFVWZu1N) | [Island Time](https://open.spotify.com/album/0ILY6L8LhDDnmfctnXdwjj) | 3:55 | 2021-10-08 | 2022-04-21 |
 | [Island Time](https://open.spotify.com/track/64ITiMSrRWmyU5WDQCG6Rm) | [Jamtown](https://open.spotify.com/artist/32eTdkXPNVrfPShFVWZu1N), [Donavon Frankenreiter](https://open.spotify.com/artist/2IAZ2xX1Ovh5jxhBWE7wda), [Cisco Adler](https://open.spotify.com/artist/23apFYuBTpFemqLDn8ViLW), [G\. Love & Special Sauce](https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89) | [Jamtown](https://open.spotify.com/album/4AT0jvWKpqejzojMxPHZvL) | 3:55 | 2022-07-22 |  |
 | [It Came to Me](https://open.spotify.com/track/1wSTaoEcGPZy9osC25kn0m) | [The Barr Brothers](https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7) | [It Came to Me](https://open.spotify.com/album/6RaF1MxbjvBteIflXzSvt4) | 4:21 | 2021-10-08 |  |
@@ -112,7 +113,7 @@
 | [To Who Knows Where](https://open.spotify.com/track/4WmR52KdbGjBNYswu0vCxq) | [Vetiver](https://open.spotify.com/artist/7ACSlU8kTcQIbvpwLWze8E) | [To Who Knows Where](https://open.spotify.com/album/5NAczxw7gfuk2RaADp1aMn) | 3:19 | 2021-10-08 |  |
 | [Trust Me](https://open.spotify.com/track/0pvrCp6dJ07yIqv10yGzT7) | [Barnaby Keen](https://open.spotify.com/artist/6D9DHfYu4mNuNgCe5kDnBA) | [Trust Me](https://open.spotify.com/album/17zWsw6bRbky5USG6OeO08) | 3:41 | 2022-04-15 |  |
 | [Waiting for an Invitation](https://open.spotify.com/track/71yh7sKS2R54c3qcGuRv2j) | [Benji Hughes](https://open.spotify.com/artist/1w4UUVXVsk63VT2vTwx1e1) | [A Love Extreme](https://open.spotify.com/album/2zQGpwdvHqZhw2BguUqb18) | 4:15 | 2022-04-15 |  |
-| [Washed Out](https://open.spotify.com/track/3tPJ5lnVg2dT3NqGCoOnOX) | [Timberwolf](https://open.spotify.com/artist/1EOuZ9k42Xpo2pGtpv986O) | [Íkaros](https://open.spotify.com/album/1Te304pis78wXeMCIawVuz) | 4:44 | 2022-07-22 |  |
+| [Washed Out](https://open.spotify.com/track/3tPJ5lnVg2dT3NqGCoOnOX) | [Timberwolf](https://open.spotify.com/artist/1EOuZ9k42Xpo2pGtpv986O) | [Íkaros](https://open.spotify.com/album/1Te304pis78wXeMCIawVuz) | 4:44 | 2022-07-22 | 2022-09-03 |
 | [Washed Out](https://open.spotify.com/track/6eRWiC37qNFG4p3IsLrst6) | [Timberwolf](https://open.spotify.com/artist/1EOuZ9k42Xpo2pGtpv986O) | [Íkaros](https://open.spotify.com/album/67M0ktUMgHOrZqDVdZLOfl) | 4:44 | 2021-10-08 | 2022-04-21 |
 | [Where Do You Go When You Dream](https://open.spotify.com/track/2bdDETZsaSuA00ctnPEnLX) | [Woods](https://open.spotify.com/artist/2sBPVEeMBXKNsZtYaJixnJ) | [Strange to Explain](https://open.spotify.com/album/6W3ljBUTGb9FhuOVZBPbQI) | 5:51 | 2022-04-15 |  |
 | [Wild Heart](https://open.spotify.com/track/2jhCa4f4eQmynH1IKJ5k5a) | [Kashena Sampson](https://open.spotify.com/artist/4tFBS73AOrz19igc1nTjUt) | [Wild Heart](https://open.spotify.com/album/0qnnjt02keWTODhegEvQ09) | 3:42 | 2021-10-08 | 2022-07-29 |

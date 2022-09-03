@@ -4,7 +4,7 @@
 
 > Real nasty house\. Cover: ESSEL
 
-329 songs - 17 hr 37 min - [published](https://open.spotify.com/playlist/2H083FLJ5ZhYNqx83NgdpT)
+330 songs - 17 hr 40 min - [published](https://open.spotify.com/playlist/2H083FLJ5ZhYNqx83NgdpT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Change Your Mind](https://open.spotify.com/track/614o3Tg9I7Xv8xkovjSp7a) | [Interupt](https://open.spotify.com/artist/0OFn6uw0q674vCcjDRNP4I) | [Change Your Mind](https://open.spotify.com/album/4lzvg3fmxUlAGaxfbWhBt4) | 3:04 | 2021-10-29 | 2022-07-30 |
 | [Chocolate](https://open.spotify.com/track/0WYJ11EFojH6SjUTi3xVXI) | [BROHUG](https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab) | [Chocolate](https://open.spotify.com/album/2fvEeYWxMM3FHMriKdrKKZ) | 2:56 | 2021-10-29 | 2022-01-17 |
 | [Chop It Up](https://open.spotify.com/track/0KJAVizRhvcLNd2f8QxhdI) | [BIJOU](https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA), [SPLASHWOE](https://open.spotify.com/artist/6ym17k1ZaNgqTHC5mwumsy) | [Chop It Up](https://open.spotify.com/album/0OawUd5gm7MqmwHSdyye76) | 3:35 | 2021-10-29 | 2022-04-02 |
+| [City Of Lights](https://open.spotify.com/track/0g9y5TxBEyAyGmY3O2ZKAH) | [BUTTER](https://open.spotify.com/artist/5SOSqzQyhsHTTuxAMGPkaO) | [City Of Lights](https://open.spotify.com/album/0lhKewAQzYzvNyONpUKhjE) | 3:17 | 2022-08-26 |  |
 | [Code Blue](https://open.spotify.com/track/1S7zKcXAnr3G65hGnUq4MY) | [BIJOU](https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA), [Elcamino](https://open.spotify.com/artist/54jJabxN5Xa0aMGK4mYdVg) | [Code Blue](https://open.spotify.com/album/1hTIUorQRxlzlh1BCwc3E8) | 3:39 | 2021-10-29 | 2022-05-28 |
 | [Come Again \(feat\. Scrufizzer\)](https://open.spotify.com/track/3BXkQUkKCPQzB8FitUJh4N) | [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R), [Shahay](https://open.spotify.com/artist/1pjJMzKi91pQ2AWcEcXPZ2), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Come Again \(feat\. Scrufizzer\)](https://open.spotify.com/album/0imeEEICV87asg6t6YTv9z) | 4:16 | 2021-10-29 |  |
 | [Come Over](https://open.spotify.com/track/1Zw0EkCEoEtHTzmZV3UlIf) | [ALOTT](https://open.spotify.com/artist/5NIERWixyvXlwwmiJgFms3), [Dario Rodriguez](https://open.spotify.com/artist/2hWrmZhAfziW6WnBytCCUv) | [Come Over](https://open.spotify.com/album/2jzHwNoy3czD29KqeAvXLl) | 3:01 | 2022-01-21 |  |
@@ -224,7 +225,7 @@
 | [Only Fans Song](https://open.spotify.com/track/2fY70bBq6Bz14N74M6AegY) | [Rich DietZ](https://open.spotify.com/artist/1mMlBc8LXvVOSxtaskKiE8) | [Only Fans Song](https://open.spotify.com/album/0GFUx6LG4nYHLOZN9wz2X7) | 3:58 | 2021-10-29 | 2022-01-14 |
 | [Only For Tonight](https://open.spotify.com/track/1CKd1z0JCo4HG7Qqt1gjkN) | [Kura](https://open.spotify.com/artist/3NwcP2GO2sZZS2BVvWcc9T) | [Only For Tonight](https://open.spotify.com/album/4DOyQG8UqNxa1EtsK1mkbM) | 2:48 | 2022-03-18 | 2022-05-05 |
 | [Over You](https://open.spotify.com/track/7qm3YjedUCXH2p58VLwUHi) | [Holy Goof](https://open.spotify.com/artist/2gNmFyBanPG1slh2pHnCtU), [TS7](https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki) | [Over You](https://open.spotify.com/album/2CGESyjnHOzZiisdclbMLr) | 3:07 | 2022-04-22 |  |
-| [Overthinkin'](https://open.spotify.com/track/2cmM9VWTXlE08tPNqTHpSg) | [Jayms](https://open.spotify.com/artist/1reef06goIFAhuhQsLUHf5) | [Overthinkin'](https://open.spotify.com/album/5uTmgjfsvn20jTcVrInbyH) | 4:59 | 2022-05-27 |  |
+| [Overthinkin'](https://open.spotify.com/track/2cmM9VWTXlE08tPNqTHpSg) | [Jayms](https://open.spotify.com/artist/1reef06goIFAhuhQsLUHf5) | [Overthinkin'](https://open.spotify.com/album/5uTmgjfsvn20jTcVrInbyH) | 4:59 | 2022-05-27 | 2022-09-03 |
 | [Pass](https://open.spotify.com/track/1RrTBlXTL0S4ny1KaqGZIe) | [Bassani](https://open.spotify.com/artist/47g7XpOmuBClZV47fdNvux) | [Awake](https://open.spotify.com/album/1rKAlRLrD5XX1Zy9OrKbJD) | 3:10 | 2021-10-29 | 2022-05-07 |
 | [Pick Your Battles \- Malaa Remix](https://open.spotify.com/track/4v4kiKe8FM3WTQkZQ2Nqu7) | [Petit Biscuit](https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2), [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Pick Your Battles \(Malaa Remix\)](https://open.spotify.com/album/4qs4lxuG4zMkCQv1HL90Pb) | 4:12 | 2021-10-29 | 2022-05-28 |
 | [Pina Colada](https://open.spotify.com/track/1uPwBcCxY6Hi7hzugbgwZ0) | [Barlas & Mert](https://open.spotify.com/artist/7EUoayuA45Swh5j4TYxrYd) | [Pina Colada](https://open.spotify.com/album/7gblMjdlmXvmI5SZWBP7wh) | 2:53 | 2021-10-29 | 2022-04-23 |

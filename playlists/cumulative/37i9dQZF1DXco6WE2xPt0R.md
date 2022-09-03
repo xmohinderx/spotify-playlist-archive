@@ -4,7 +4,7 @@
 
 > Aquela playlist pra ficar no quentin, gostosin.
 
-174 songs - 10 hr 50 min - [published](https://open.spotify.com/playlist/1UgxtLr4GKJDtfVaD2Kqru)
+175 songs - 10 hr 53 min - [published](https://open.spotify.com/playlist/1UgxtLr4GKJDtfVaD2Kqru)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [A Muse](https://open.spotify.com/track/7AOIpGjtubeC0uSiMEhOyR) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [A Muse](https://open.spotify.com/album/3hVw6V8hze4yXUGfkO1gE2) | 3:42 | 2022-02-25 |  |
 | [All About You](https://open.spotify.com/track/2uddLj27GIDBIdwRuIomE4) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [All About You](https://open.spotify.com/album/36Lr1Ipl7w3gn0NdZbRcge) | 3:00 | 2022-02-25 | 2022-03-18 |
 | [All I Want](https://open.spotify.com/track/3pEXcNA3Qe7Q2xTfRp3G3k) | [Eric Roberson](https://open.spotify.com/artist/2ewAU3d4El7WSIxWUJaZJn), [Kenny Greene](https://open.spotify.com/artist/6aEQsH3DcqRL3b3iEZcj3J), [Intro](https://open.spotify.com/artist/03n0Ll5tJjUxajYOvc0TQm) | [All I Want](https://open.spotify.com/album/4OtJ4StIlfpWJz3BsXAKSV) | 4:43 | 2022-03-25 |  |
-| [All In](https://open.spotify.com/track/7FqgILt2JtU2NIUFVNWprd) | [Kenny Lattimore](https://open.spotify.com/artist/1UjTUqWfGkof4L5HO5NmzP) | [All In](https://open.spotify.com/album/61aKnk6jGB7LkVlTzsw9gX) | 3:19 | 2022-02-25 |  |
+| [All In](https://open.spotify.com/track/7FqgILt2JtU2NIUFVNWprd) | [Kenny Lattimore](https://open.spotify.com/artist/1UjTUqWfGkof4L5HO5NmzP) | [All In](https://open.spotify.com/album/61aKnk6jGB7LkVlTzsw9gX) | 3:19 | 2022-02-25 | 2022-09-03 |
 | [All Pride Aside with Summer Walker](https://open.spotify.com/track/5xJqIMx7GZg4Lt1dRims0V) | [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [All Pride Aside with Summer Walker](https://open.spotify.com/album/5OXWFTGZLq6ro7IKpL7E8v) | 4:18 | 2022-02-25 |  |
 | [All That Matters \- Spotify Singles](https://open.spotify.com/track/3lAVnqeRhV3zmkdDhEunUq) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [Spotify Singles](https://open.spotify.com/album/2jsHeeW2DY8HuwZWmU1dvc) | 3:44 | 2022-08-05 |  |
 | [Another](https://open.spotify.com/track/0R3BfnrLdW13mopXeKOTQZ) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Another](https://open.spotify.com/album/2jc8WpsmpUSKMzAKBQw6di) | 2:32 | 2022-04-15 | 2022-08-27 |
@@ -56,6 +56,7 @@
 | [Fool of Me](https://open.spotify.com/track/3Fw7pl6UpksTfmYcXLbvx3) | [Meshell Ndegeocello](https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj) | [Bitter](https://open.spotify.com/album/3acZy0MqbDAet78jYKYOyR) | 3:32 | 2022-02-25 | 2022-05-07 |
 | [For Lovers Only \- Remastered 2021](https://open.spotify.com/track/6FZiaYBbXsPb95Osu5aEwJ) | [Maxwell](https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j) | [Now](https://open.spotify.com/album/3Ul8Nyuzr2AEwE8iSrQepC) | 3:41 | 2022-02-25 | 2022-03-26 |
 | [Frank For You](https://open.spotify.com/track/6ionsmjjnodm4pynvQxrgv) | [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO) | [Frank For You](https://open.spotify.com/album/1NxJyMpFWsTT1vaHEXC3uW) | 4:09 | 2022-02-25 | 2022-03-12 |
+| [Freak Like Me \- Spotify Singles](https://open.spotify.com/track/7lxF9OOlLhxslC3BEDIMfB) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Spotify Singles](https://open.spotify.com/album/0aTksyiafCXTH3jbUIkwVs) | 3:08 | 2022-09-02 |  |
 | [Friends To Lovers](https://open.spotify.com/track/5zMHwddz7IBSrCkafg8WOr) | [AlunaGeorge](https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38) | [Body Music \(Deluxe\)](https://open.spotify.com/album/5WwesTmhyEx9cNre8fwnm9) | 4:36 | 2022-02-25 | 2022-07-29 |
 | [Friends To Lovers](https://open.spotify.com/track/2sROAaC8BMV13cn31OLdpF) | [AlunaGeorge](https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38) | [Body Music \(Deluxe\)](https://open.spotify.com/album/3eSysZ5EvnyWZ2naPABIdd) | 4:37 | 2022-07-01 |  |
 | [FYF](https://open.spotify.com/track/30CtlcCw99gOYiIoqqYHvE) | [ELHAE](https://open.spotify.com/artist/6TrQLQR8tUluPbmdPy6jqY) | [FYF](https://open.spotify.com/album/6poRyRRuXJ6uBUg6pnewTU) | 2:53 | 2022-04-22 |  |

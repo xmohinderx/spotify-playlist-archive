@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV7EzJMK2FUI.md) - [plain]
 
 ### [Jazz in the Background](https://open.spotify.com/playlist/37i9dQZF1DWV7EzJMK2FUI)
 
-> Soft Jazz for all your activities.
+> Soft instrumental Jazz for all your activities.
 
-[Spotify](https://open.spotify.com/user/spotify) - 794,694 likes - 346 songs - 21 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 794,951 likes - 346 songs - 21 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -355,4 +355,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV7EzJMK2FUI.md) - [plain]
 | 345 | [Quite Late](https://open.spotify.com/track/5PzrM2NUo81JLdzNILxMLd) | [Turning Trio](https://open.spotify.com/artist/2BLWgfWw6pN9dHB5XoJPKC) | [Quite Late](https://open.spotify.com/album/5KxCBsHw577NA6vYm5CAte) | 2:56 |
 | 346 | [Blue in Green](https://open.spotify.com/track/36cspwQPiIL9ElURDU7bGX) | [Hudson Harris & Haim](https://open.spotify.com/artist/29EE6iBb3i7sWjsz410xbV) | [Blue in Green](https://open.spotify.com/album/1gFhq2ad0vX0D3MyxG3Kqq) | 3:49 |
 
-Snapshot ID: `MTY2MTc3NDE3NCwwMDAwMDAwMDc2M2JlZmFlNzczM2RjZTIxYTEzZDQ2Yjg2ZTEwNWZl`
+Snapshot ID: `MTY2MjEwNTAwMSwwMDAwMDAwMDhhMjA4NThiNDIxMmI3ODZlY2ZjYTRhMjhkOTE1ZGVl`

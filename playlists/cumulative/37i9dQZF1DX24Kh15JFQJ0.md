@@ -4,7 +4,7 @@
 
 > The latest music from our Country Heroes\. Cover: Ronnie Dunn
 
-154 songs - 9 hr 2 min - [published](https://open.spotify.com/playlist/5GBlntmj7cxNabVRK2ZjTV)
+155 songs - 9 hr 6 min - [published](https://open.spotify.com/playlist/5GBlntmj7cxNabVRK2ZjTV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,6 +134,7 @@
 | [Stone Blind Horses](https://open.spotify.com/track/7A7XBREnqLg97yuGRUiYUu) | [Ray Wylie Hubbard](https://open.spotify.com/artist/4gQ8biCMcMrOuBdJx639Q0), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Stone Blind Horses](https://open.spotify.com/album/5lFUHRlw15fEKUaZ0y0nYU) | 3:45 | 2022-03-04 | 2022-07-29 |
 | [Stranger in My House \(feat\. Luke Bryan\)](https://open.spotify.com/track/2EDbLhcX7HRoSj9gvG1MQO) | [Ronnie Milsap](https://open.spotify.com/artist/6Sb8EHpZvyjSTT5KD9DjUZ), [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [The Duets](https://open.spotify.com/album/1ru2yPj8ayXP2xAHQ3hbbb) | 4:17 | 2021-10-15 |  |
 | [Strawberry Wine \- 2021 Version](https://open.spotify.com/track/1iSyS51Ujpm1IHWxoJ97fn) | [Deana Carter](https://open.spotify.com/artist/0aqrM7Fo3Ml66Kc5JAzmjt), [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv), [Martina McBride](https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj), [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV), [Kylie Morgan](https://open.spotify.com/artist/3g2yaL04Uapb5fxmwsUZgV), [Vince Gill](https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo) | [Did I Shave My Legs For This? \(25th Anniversary Edition\)](https://open.spotify.com/album/7LLjjbEIbUTpMROr1AkCSL) | 5:19 | 2021-11-05 |  |
+| [Take It Like a Man](https://open.spotify.com/track/4tUzsCOYbYhyj0x064W37G) | [Michelle Wright](https://open.spotify.com/artist/1Kp8PxFfeU5CFHkITQF9sY) | [Milestone](https://open.spotify.com/album/1WZzoVlzSUTxrfa5ApTHw9) | 4:02 | 2022-09-02 |  |
 | [Take It to the Bank](https://open.spotify.com/track/4bP7A6zIgLqCr6c99dktyv) | [Tracy Byrd](https://open.spotify.com/artist/0xxJO75NeIAF5jYruLYIDT) | [All American Texan](https://open.spotify.com/album/0lQ8btmxplIW9B8vVGHOti) | 5:15 | 2021-10-15 |  |
 | [The Highway](https://open.spotify.com/track/1stGWwuI8yRU1VoaDW3LPq) | [Terri Clark](https://open.spotify.com/artist/0HLOP0AdsaWe5Pt5TNueGC) | [The Highway](https://open.spotify.com/album/6pBG3VzgZx5fR6Fs6GK5KA) | 3:29 | 2021-10-15 |  |
 | [The Letter That Johnny Walker Read \(feat\. Lee Ann Womack\)](https://open.spotify.com/track/05dkkp51ZkuPj98URZSG8l) | [Asleep At The Wheel](https://open.spotify.com/artist/54tWKkrjv4bQgKrQrNlecm), [Lee Ann Womack](https://open.spotify.com/artist/738OS3zrCO782uDiUN9pet) | [Half a Hundred Years](https://open.spotify.com/album/6SpBTmlOgevRZFjXT1kNWG) | 3:37 | 2021-10-15 |  |

@@ -894,6 +894,24 @@
     },
     {
       "album": {
+        "name": "Faltam Palavras",
+        "url": "https://open.spotify.com/album/1XnHyT1lXkLZc9UQYizWiC"
+      },
+      "artists": [
+        {
+          "name": "Annick",
+          "url": "https://open.spotify.com/artist/7MBC4MpNfqH87jfzeZn3tE"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163368,
+      "name": "Faltam Palavras",
+      "url": "https://open.spotify.com/track/4TnbzKpiC9Us4I6E71o0uz"
+    },
+    {
+      "album": {
         "name": "Fica Mais um Pouco (Speed)",
         "url": "https://open.spotify.com/album/60RIdS7LLMXgpeq9MXcZGD"
       },

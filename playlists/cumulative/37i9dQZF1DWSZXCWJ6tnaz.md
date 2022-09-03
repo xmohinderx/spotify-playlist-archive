@@ -2,7 +2,7 @@
 
 ### [Reflection](https://open.spotify.com/playlist/37i9dQZF1DWSZXCWJ6tnaz)
 
-> Soft, instrumental music to help you reflect.
+> A safe space for reflecting and remembering\. Soft, instrumental music to bring you comfort and strength.
 
 45 songs - 2 hr 46 min - [published](https://open.spotify.com/playlist/795SCNBaIRC4NKBwTzfdNv)
 

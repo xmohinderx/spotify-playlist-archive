@@ -1,12 +1,12 @@
 {
   "description": "Dulces rasgueos de cuerdas para acompa\u00f1ar tu velada",
-  "num_followers": 41443,
+  "num_followers": 41472,
   "original_name": "Cena con Guitarras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODQ0MDg2MCwwMDAwMDAwMDBmNDNkYWVmNDRkOTIyZTExNGRlYTI2NTk1NGYwMTFm",
+  "snapshot_id": "MTY1ODQ0MDg2MCwwMDAwMDAwMDJlMzI1YWFmZGM2YmMzNDBjMTdkMTk0NWZkOGNiODcy",
   "tracks": [
     {
       "added_at": "2022-07-21 22:01:00",
@@ -291,26 +291,6 @@
     {
       "added_at": "2022-07-21 22:01:00",
       "album": {
-        "name": "Paco De Lucia, Al Di Meola, John McLaughlin",
-        "url": "https://open.spotify.com/album/3S83H2RAz4qYHibsrEKfm7"
-      },
-      "artists": [
-        {
-          "name": "John McLaughlin",
-          "url": "https://open.spotify.com/artist/4v0R1feRiuCDch7aAheVhY"
-        },
-        {
-          "name": "Al Di Meola",
-          "url": "https://open.spotify.com/artist/3bBWKHfpepPOychRNFzg4q"
-        }
-      ],
-      "duration_ms": 372160,
-      "name": "Manh\u00e3 De Carnaval",
-      "url": "https://open.spotify.com/track/2T8p7MvybiHtfvvldFJ218"
-    },
-    {
-      "added_at": "2022-07-21 22:01:00",
-      "album": {
         "name": "Serenidad",
         "url": "https://open.spotify.com/album/7aVycit4E2ZeTlVXU9J2xz"
       },
@@ -327,6 +307,22 @@
     {
       "added_at": "2022-07-21 22:01:00",
       "album": {
+        "name": "Cuando Te Duermas",
+        "url": "https://open.spotify.com/album/5BKc9zMji1Cinb42FPoCbT"
+      },
+      "artists": [
+        {
+          "name": "Las Penas",
+          "url": "https://open.spotify.com/artist/2v5fDmNadBqRCk7r6u9nFS"
+        }
+      ],
+      "duration_ms": 162927,
+      "name": "Cuando Te Duermas",
+      "url": "https://open.spotify.com/track/1XApSfAeOAewrGd6Sst1sA"
+    },
+    {
+      "added_at": "2022-07-21 22:01:00",
+      "album": {
         "name": "One",
         "url": "https://open.spotify.com/album/3oZkynRnCLOPFi2elO0JXD"
       },
@@ -339,6 +335,42 @@
       "duration_ms": 311000,
       "name": "Canto De Ossanha",
       "url": "https://open.spotify.com/track/0FCx8spWfkTjpEU7sEQr7M"
+    },
+    {
+      "added_at": "2022-07-21 22:01:00",
+      "album": {
+        "name": "The Little Island Bossa",
+        "url": "https://open.spotify.com/album/26eAXBY2VjxAroih5J59nW"
+      },
+      "artists": [
+        {
+          "name": "Filip Benedetto",
+          "url": "https://open.spotify.com/artist/1x6GlAVo5qvLhm45bgtlp7"
+        }
+      ],
+      "duration_ms": 246128,
+      "name": "The Little Island Bossa",
+      "url": "https://open.spotify.com/track/1mbjGoWhwkv5n14ibOlSTU"
+    },
+    {
+      "added_at": "2022-07-21 22:01:00",
+      "album": {
+        "name": "Paco De Lucia, Al Di Meola, John McLaughlin",
+        "url": "https://open.spotify.com/album/3S83H2RAz4qYHibsrEKfm7"
+      },
+      "artists": [
+        {
+          "name": "John McLaughlin",
+          "url": "https://open.spotify.com/artist/4v0R1feRiuCDch7aAheVhY"
+        },
+        {
+          "name": "Al Di Meola",
+          "url": "https://open.spotify.com/artist/3bBWKHfpepPOychRNFzg4q"
+        }
+      ],
+      "duration_ms": 372160,
+      "name": "Manh\u00e3 De Carnaval",
+      "url": "https://open.spotify.com/track/2T8p7MvybiHtfvvldFJ218"
     },
     {
       "added_at": "2022-07-21 22:01:00",
@@ -367,38 +399,6 @@
       "duration_ms": 134113,
       "name": "Querida Amiga",
       "url": "https://open.spotify.com/track/4QOAWEwpQQLTh7lcjZPQ3k"
-    },
-    {
-      "added_at": "2022-07-21 22:01:00",
-      "album": {
-        "name": "Cuando Te Duermas",
-        "url": "https://open.spotify.com/album/5BKc9zMji1Cinb42FPoCbT"
-      },
-      "artists": [
-        {
-          "name": "Las Penas",
-          "url": "https://open.spotify.com/artist/2v5fDmNadBqRCk7r6u9nFS"
-        }
-      ],
-      "duration_ms": 162927,
-      "name": "Cuando Te Duermas",
-      "url": "https://open.spotify.com/track/1XApSfAeOAewrGd6Sst1sA"
-    },
-    {
-      "added_at": "2022-07-21 22:01:00",
-      "album": {
-        "name": "The Little Island Bossa",
-        "url": "https://open.spotify.com/album/26eAXBY2VjxAroih5J59nW"
-      },
-      "artists": [
-        {
-          "name": "Filip Benedetto",
-          "url": "https://open.spotify.com/artist/1x6GlAVo5qvLhm45bgtlp7"
-        }
-      ],
-      "duration_ms": 246128,
-      "name": "The Little Island Bossa",
-      "url": "https://open.spotify.com/track/1mbjGoWhwkv5n14ibOlSTU"
     },
     {
       "added_at": "2022-07-21 22:01:00",
@@ -603,6 +603,22 @@
     {
       "added_at": "2022-07-21 22:01:00",
       "album": {
+        "name": "Commitments",
+        "url": "https://open.spotify.com/album/5Hzye9VDXOIUJviuOwR4st"
+      },
+      "artists": [
+        {
+          "name": "Affe Reidhoff",
+          "url": "https://open.spotify.com/artist/4pqJbzXUZa8by7nb50hlN0"
+        }
+      ],
+      "duration_ms": 194944,
+      "name": "Commitments",
+      "url": "https://open.spotify.com/track/1oIDF7ezAEtZbPaR9kaZ99"
+    },
+    {
+      "added_at": "2022-07-21 22:01:00",
+      "album": {
         "name": "Re-Foc",
         "url": "https://open.spotify.com/album/16i22w9V74VL7euoZIjX6G"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 254933,
       "name": "30 De Marzo",
       "url": "https://open.spotify.com/track/23jaacZ4V3mdoMJYWrDI3n"
-    },
-    {
-      "added_at": "2022-07-21 22:01:00",
-      "album": {
-        "name": "Blue Bossa",
-        "url": "https://open.spotify.com/album/2V0hmdlUjy5stwFM1HrI4g"
-      },
-      "artists": [
-        {
-          "name": "Denisinho",
-          "url": "https://open.spotify.com/artist/2KECXRDFavUmOjCWBT9KH6"
-        }
-      ],
-      "duration_ms": 181498,
-      "name": "Black Orpheus",
-      "url": "https://open.spotify.com/track/4CciHxY48WF8liFZJoRV8Z"
     },
     {
       "added_at": "2022-07-21 22:01:00",
@@ -659,22 +659,6 @@
     {
       "added_at": "2022-07-21 22:01:00",
       "album": {
-        "name": "Commitments",
-        "url": "https://open.spotify.com/album/5Hzye9VDXOIUJviuOwR4st"
-      },
-      "artists": [
-        {
-          "name": "Affe Reidhoff",
-          "url": "https://open.spotify.com/artist/4pqJbzXUZa8by7nb50hlN0"
-        }
-      ],
-      "duration_ms": 194944,
-      "name": "Commitments",
-      "url": "https://open.spotify.com/track/1oIDF7ezAEtZbPaR9kaZ99"
-    },
-    {
-      "added_at": "2022-07-21 22:01:00",
-      "album": {
         "name": "Recital Flamenco. 12 de Sus Toques Originales",
         "url": "https://open.spotify.com/album/35I2VAs6hVpC3pobXmNSrh"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 279293,
       "name": "El Ca\u00f1averal - Guajira",
       "url": "https://open.spotify.com/track/70aQ5WqBFN8bpyRyeaucwL"
+    },
+    {
+      "added_at": "2022-07-21 22:01:00",
+      "album": {
+        "name": "Blue Bossa",
+        "url": "https://open.spotify.com/album/2V0hmdlUjy5stwFM1HrI4g"
+      },
+      "artists": [
+        {
+          "name": "Denisinho",
+          "url": "https://open.spotify.com/artist/2KECXRDFavUmOjCWBT9KH6"
+        }
+      ],
+      "duration_ms": 181498,
+      "name": "Black Orpheus",
+      "url": "https://open.spotify.com/track/4CciHxY48WF8liFZJoRV8Z"
     },
     {
       "added_at": "2022-07-21 22:01:00",
@@ -739,18 +739,18 @@
     {
       "added_at": "2022-07-21 22:01:00",
       "album": {
-        "name": "Paz",
-        "url": "https://open.spotify.com/album/6FTHzmqkzw39Ey8o20i39k"
+        "name": "La Fuente",
+        "url": "https://open.spotify.com/album/5X26QsoSZWmENHqPGwRV3J"
       },
       "artists": [
         {
-          "name": "Nino Josele",
-          "url": "https://open.spotify.com/artist/7KPoRAFSOQXa0jX1Pad5wT"
+          "name": "Muniesa",
+          "url": "https://open.spotify.com/artist/3ZQonINCoqeD0Fe8FzeZ8v"
         }
       ],
-      "duration_ms": 304600,
-      "name": "My Foolish Heart",
-      "url": "https://open.spotify.com/track/57hSvxwQrxe3BZ8vDu6pVF"
+      "duration_ms": 162000,
+      "name": "La Fuente",
+      "url": "https://open.spotify.com/track/4C41YNht2Eupsw096RpcJj"
     },
     {
       "added_at": "2022-07-21 22:01:00",
@@ -775,26 +775,6 @@
     {
       "added_at": "2022-07-21 22:01:00",
       "album": {
-        "name": "Querencia",
-        "url": "https://open.spotify.com/album/67mxe3mnxhw7YrOqMnNczL"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Tamez",
-          "url": "https://open.spotify.com/artist/6kX0LY1Cv1cE5FbsiSHwCF"
-        },
-        {
-          "name": "Terceto De Guitarras De La Ciudad De Mexico",
-          "url": "https://open.spotify.com/artist/0ny4eZbPXPp631aVhUi7qV"
-        }
-      ],
-      "duration_ms": 219786,
-      "name": "Tierra Mestiza",
-      "url": "https://open.spotify.com/track/2s4SLxIaORw4KQSMIyMb9l"
-    },
-    {
-      "added_at": "2022-07-21 22:01:00",
-      "album": {
         "name": "Guitar Pop Covers, Vol. 1",
         "url": "https://open.spotify.com/album/7ijQQwrViFIZWVJKor2NWy"
       },
@@ -811,18 +791,38 @@
     {
       "added_at": "2022-07-21 22:01:00",
       "album": {
-        "name": "La Fuente",
-        "url": "https://open.spotify.com/album/5X26QsoSZWmENHqPGwRV3J"
+        "name": "Paz",
+        "url": "https://open.spotify.com/album/6FTHzmqkzw39Ey8o20i39k"
       },
       "artists": [
         {
-          "name": "Muniesa",
-          "url": "https://open.spotify.com/artist/3ZQonINCoqeD0Fe8FzeZ8v"
+          "name": "Nino Josele",
+          "url": "https://open.spotify.com/artist/7KPoRAFSOQXa0jX1Pad5wT"
         }
       ],
-      "duration_ms": 162000,
-      "name": "La Fuente",
-      "url": "https://open.spotify.com/track/4C41YNht2Eupsw096RpcJj"
+      "duration_ms": 304600,
+      "name": "My Foolish Heart",
+      "url": "https://open.spotify.com/track/57hSvxwQrxe3BZ8vDu6pVF"
+    },
+    {
+      "added_at": "2022-07-21 22:01:00",
+      "album": {
+        "name": "Querencia",
+        "url": "https://open.spotify.com/album/67mxe3mnxhw7YrOqMnNczL"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Tamez",
+          "url": "https://open.spotify.com/artist/6kX0LY1Cv1cE5FbsiSHwCF"
+        },
+        {
+          "name": "Terceto De Guitarras De La Ciudad De Mexico",
+          "url": "https://open.spotify.com/artist/0ny4eZbPXPp631aVhUi7qV"
+        }
+      ],
+      "duration_ms": 219786,
+      "name": "Tierra Mestiza",
+      "url": "https://open.spotify.com/track/2s4SLxIaORw4KQSMIyMb9l"
     },
     {
       "added_at": "2022-07-21 22:01:00",
@@ -907,22 +907,6 @@
     {
       "added_at": "2022-07-21 22:01:00",
       "album": {
-        "name": "Ni\u00f1o Josele",
-        "url": "https://open.spotify.com/album/79653plha39OpqECC3HCln"
-      },
-      "artists": [
-        {
-          "name": "Nino Josele",
-          "url": "https://open.spotify.com/artist/7KPoRAFSOQXa0jX1Pad5wT"
-        }
-      ],
-      "duration_ms": 245466,
-      "name": "Madera Negra",
-      "url": "https://open.spotify.com/track/4KIDmG6SAq3EQWytkk0gu7"
-    },
-    {
-      "added_at": "2022-07-21 22:01:00",
-      "album": {
         "name": "Fabulous Flamenco!/La Gitarra Flamenca",
         "url": "https://open.spotify.com/album/08apameAgGxWqzUoQF1XZK"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 205746,
       "name": "Repiqueteos Flamencos (Zapateado)",
       "url": "https://open.spotify.com/track/6y9rL8o5OK9IQ7u6OT6LwH"
+    },
+    {
+      "added_at": "2022-07-21 22:01:00",
+      "album": {
+        "name": "Ni\u00f1o Josele",
+        "url": "https://open.spotify.com/album/79653plha39OpqECC3HCln"
+      },
+      "artists": [
+        {
+          "name": "Nino Josele",
+          "url": "https://open.spotify.com/artist/7KPoRAFSOQXa0jX1Pad5wT"
+        }
+      ],
+      "duration_ms": 245466,
+      "name": "Madera Negra",
+      "url": "https://open.spotify.com/track/4KIDmG6SAq3EQWytkk0gu7"
     },
     {
       "added_at": "2022-07-21 22:01:00",
@@ -971,18 +971,18 @@
     {
       "added_at": "2022-07-21 22:01:00",
       "album": {
-        "name": "Wasi",
-        "url": "https://open.spotify.com/album/0PoKRHhIITIb48H5r6M7SJ"
+        "name": "Spanish Guitar EP",
+        "url": "https://open.spotify.com/album/5qLOiuTrmvrpmPxBuGtaNk"
       },
       "artists": [
         {
-          "name": "Elias Carrera",
-          "url": "https://open.spotify.com/artist/7qKazhBQV8sScUWPr8xVOO"
+          "name": "Alex Albright",
+          "url": "https://open.spotify.com/artist/26JRo0347XPbM7ve7owOdj"
         }
       ],
-      "duration_ms": 152663,
-      "name": "Me Estas Haciendo Falta",
-      "url": "https://open.spotify.com/track/5V0WQGIPkrEgpgQAOaGBif"
+      "duration_ms": 109505,
+      "name": "Lagrima",
+      "url": "https://open.spotify.com/track/5BI10E53YBSMYbCnKijBEN"
     },
     {
       "added_at": "2022-07-21 22:01:00",
@@ -1003,18 +1003,18 @@
     {
       "added_at": "2022-07-21 22:01:00",
       "album": {
-        "name": "Spanish Guitar EP",
-        "url": "https://open.spotify.com/album/5qLOiuTrmvrpmPxBuGtaNk"
+        "name": "Wasi",
+        "url": "https://open.spotify.com/album/0PoKRHhIITIb48H5r6M7SJ"
       },
       "artists": [
         {
-          "name": "Alex Albright",
-          "url": "https://open.spotify.com/artist/26JRo0347XPbM7ve7owOdj"
+          "name": "Elias Carrera",
+          "url": "https://open.spotify.com/artist/7qKazhBQV8sScUWPr8xVOO"
         }
       ],
-      "duration_ms": 109505,
-      "name": "Lagrima",
-      "url": "https://open.spotify.com/track/5BI10E53YBSMYbCnKijBEN"
+      "duration_ms": 152663,
+      "name": "Me Estas Haciendo Falta",
+      "url": "https://open.spotify.com/track/5V0WQGIPkrEgpgQAOaGBif"
     },
     {
       "added_at": "2022-07-21 22:01:00",

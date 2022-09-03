@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUur0QPPsOn.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/keithpowers/">Keith Powers</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 216,490 likes - 50 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 216,802 likes - 50 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUur0QPPsOn.md) - [plain]
 | 42 | [BM J.R.](https://open.spotify.com/track/3AmVUYa0BTGd1AhrWWj4Gz) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Tha Carter](https://open.spotify.com/album/5POcKy926GgzFHZpGptJac) | 4:58 |
 | 43 | [What More Can I Say](https://open.spotify.com/track/75JwFVMnX88ypgshWYBSYL) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [The Black Album](https://open.spotify.com/album/4FWvo9oS4gRgHtAwDwUjiO) | 4:55 |
 | 44 | [Glamorous Lifestyle \(feat\. Andre Nickatina\)](https://open.spotify.com/track/7s7ojmrvFe0Tg1OCEub1g0) | [The Jacka](https://open.spotify.com/artist/1Z3HvW1V35gdsbhY20SMoU), [Andre Nickatina](https://open.spotify.com/artist/7boQqq2hUcz9kHcQOecG4j) | [Tear Gas](https://open.spotify.com/album/04W10ISbgbzu65wVhY5KQP) | 3:57 |
-| 45 | [Sei Luv](https://open.spotify.com/track/4tDiCpJEVzpfeF5jRXue3h) | [Messy Marv](https://open.spotify.com/artist/5QoPmqq8UfE0zsTWkM3CQD) | [Draped Up & Chipped Out 2](https://open.spotify.com/album/37zg6C3wuZALIR2Fk4elB5) | 3:47 |
-| 46 | [Grown Sh!t](https://open.spotify.com/track/1CusNEZHTyqLOmrSMQVOvy) | [Mac Dre](https://open.spotify.com/artist/4sv6VJ2QZlaSosz3kFlxQH) | [All Boo Boo](https://open.spotify.com/album/5sRZOBlc8CQmBlQsPvYOPf) | 3:18 |
+| 45 | [Grown Sh!t](https://open.spotify.com/track/1CusNEZHTyqLOmrSMQVOvy) | [Mac Dre](https://open.spotify.com/artist/4sv6VJ2QZlaSosz3kFlxQH) | [All Boo Boo](https://open.spotify.com/album/5sRZOBlc8CQmBlQsPvYOPf) | 3:18 |
+| 46 | [Sei Luv](https://open.spotify.com/track/4tDiCpJEVzpfeF5jRXue3h) | [Messy Marv](https://open.spotify.com/artist/5QoPmqq8UfE0zsTWkM3CQD) | [Draped Up & Chipped Out 2](https://open.spotify.com/album/37zg6C3wuZALIR2Fk4elB5) | 3:47 |
 | 47 | [Jodeci Freestyle \(feat\. J\. Cole\)](https://open.spotify.com/track/2xUHiyGeGrWmmfv7NbDTWC) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Care Package](https://open.spotify.com/album/7dqpveMVcWgbzqYrOdkFTD) | 4:14 |
 | 48 | [Vans](https://open.spotify.com/track/5bKpkqdqeLaFkoWVQkKgG4) | [The Pack](https://open.spotify.com/artist/5M6GE2n46o0qBIyGXtzdQz) | [Based Boys](https://open.spotify.com/album/34E7pyC3nsoc4f17G6XHTi) | 4:15 |
 | 49 | [Sprung \(feat\. Tee Fli\)](https://open.spotify.com/track/6OPkZWSBUWEFbDMmYsc7Ah) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Teefli](https://open.spotify.com/artist/4HM9tfuUkSpOsarhSqUeTW) | [Just Re'd up 2](https://open.spotify.com/album/6LYs6vCaIZd3kemw1JDGti) | 2:47 |
 | 50 | [Grown Man](https://open.spotify.com/track/0nitSOenlpkqkDCEVy23OZ) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Currency](https://open.spotify.com/artist/03UM8fo7vZyT5B2jLVfLtv) | [Tha Carter II](https://open.spotify.com/album/7slHgsEMuJfnuft5LAPyw6) | 4:06 |
 
-Snapshot ID: `MTY2MjAwNDgwMCwwMDAwMDAwMDE2NTQ1ZmE4MDNhYmI4MDcyZmNlMmU2MzEwN2E2Zjg1`
+Snapshot ID: `MTY2MjAwNDgwMCwwMDAwMDAwMGQxYzBmOTk3MDQ3YWMwNmI2MjljMDE0ZTU3MzgyZWMx`

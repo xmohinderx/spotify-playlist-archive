@@ -4,7 +4,7 @@
 
 > Jazzy sounds with soft beats for relaxing and unwinding.
 
-210 songs - 13 hr 32 min - [published](https://open.spotify.com/playlist/6x5bLDuTDrk1dE08PCXWyO)
+211 songs - 13 hr 34 min - [published](https://open.spotify.com/playlist/6x5bLDuTDrk1dE08PCXWyO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,7 @@
 | [Frontline \- CARRTOONS Remix](https://open.spotify.com/track/3Qhv1YKYj84eJ6JSVO6E5n) | [Butcher Brown](https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP), [CARRTOONS](https://open.spotify.com/artist/0994Up3Ob4zUFm3OFOWpzJ) | [Frontline \(CARRTOONS Remix\)](https://open.spotify.com/album/20J2i6BDv9gNl2ytEXSHSL) | 3:06 | 2022-02-17 | 2022-06-03 |
 | [Fruit Market Jazz](https://open.spotify.com/track/2rUed9JkrDpHCU0KR1AYEh) | [The Brothers Nylon](https://open.spotify.com/artist/5WLTGcENPt84BZtmx6rt50) | [Fruit Market Jazz](https://open.spotify.com/album/7mTU3mxr061prOhmRKuHzQ) | 1:59 | 2022-02-17 |  |
 | [Gone Surfing](https://open.spotify.com/track/6K8z3GPdPLr6DqDxiluhyk) | [Hemai](https://open.spotify.com/artist/0eOlWPcqRSIbrJ1i9ESFhz) | [Strange Beauty Instrumental](https://open.spotify.com/album/3ZoOg4mHUlrcATrLte79uZ) | 3:14 | 2022-04-22 | 2022-06-03 |
-| [Grey Life](https://open.spotify.com/track/7mboIxKtkeuIOHwNEAVSZR) | [Braccus Beats](https://open.spotify.com/artist/04xlOQaGOCK5eYoinzCPqm), [TTechmak](https://open.spotify.com/artist/7BpxyVfC8cscZ1JKB48tP2) | [Grey Life](https://open.spotify.com/album/4VtzLzkxLPZGwrCpbs6jug) | 1:57 | 2022-06-02 |  |
+| [Grey Life](https://open.spotify.com/track/7mboIxKtkeuIOHwNEAVSZR) | [Braccus Beats](https://open.spotify.com/artist/04xlOQaGOCK5eYoinzCPqm), [TTechmak](https://open.spotify.com/artist/7BpxyVfC8cscZ1JKB48tP2) | [Grey Life](https://open.spotify.com/album/4VtzLzkxLPZGwrCpbs6jug) | 1:57 | 2022-06-02 | 2022-09-03 |
 | [Happiness](https://open.spotify.com/track/3dyNc3TbcaGcmLrQuk4Hls) | [DARGZ](https://open.spotify.com/artist/0AggcZhPMyJglaaruoxJpN), [Charlie Stacey](https://open.spotify.com/artist/3Uw7i8bbD7k8eOD5SIqn9g), [Moses Boyd](https://open.spotify.com/artist/1otDUlTEBjcyDQg6CkHRaV) | [Happiness](https://open.spotify.com/album/4QmRHhICo301Jue6KX2IVU) | 1:40 | 2022-06-02 | 2022-08-12 |
 | [Horizon](https://open.spotify.com/track/4LozgbXR8jUiDkcySk7x1F) | [The Golden Eternity](https://open.spotify.com/artist/4aqECXxlXiQKDaOIJYrwTu) | [Horizon](https://open.spotify.com/album/09jbzo4JUhVIf3j0W6WZ9Q) | 3:24 | 2022-04-22 | 2022-06-03 |
 | [i remember this picture](https://open.spotify.com/track/7zbUE5XSMaHqMIAu1yqU54) | [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J) | [i remember this picture](https://open.spotify.com/album/7kPMtDGlSbbfXtJP0rQ22q) | 3:33 | 2022-02-17 |  |
@@ -132,6 +132,7 @@
 | [Orbit](https://open.spotify.com/track/0rAmThgNLvsC86kd3S7bBD) | [Svaneborg Kardyb](https://open.spotify.com/artist/2aGCFk3Mvhs9Am7JHwoyRr) | [Orbit](https://open.spotify.com/album/1rEFeHf8hGrb2YiSPBMr0U) | 4:10 | 2022-06-22 |  |
 | [Orbit](https://open.spotify.com/track/2NdXhY5crEGXaMip9d1t9h) | [Svaneborg Kardyb](https://open.spotify.com/artist/2aGCFk3Mvhs9Am7JHwoyRr) | [Orbit](https://open.spotify.com/album/6Ytfboldn9yARBARdAxENg) | 4:10 | 2022-04-28 | 2022-07-29 |
 | [out and about with my love at the weekend](https://open.spotify.com/track/3ik0mKAt5Hq76jXPZYOI0Z) | [Akassia](https://open.spotify.com/artist/6ricu3j0F0VOuEOR08jGw5), [Samuel Williams](https://open.spotify.com/artist/08QnqhAnx6UeOtHjxdk2bv) | [out and about with my love at the weekend](https://open.spotify.com/album/6K8UbVR79JVTMD5blpendd) | 2:19 | 2022-03-17 |  |
+| [Outro](https://open.spotify.com/track/4blnfSoZ2eYxzkvafHAG9e) | [Hernán Jacinto](https://open.spotify.com/artist/3waJSGCslQ87FHecJ3aRpl), [Flavio Romero](https://open.spotify.com/artist/3ijppPVPUI69GgojvRikVl), [Fernando Moreno](https://open.spotify.com/artist/56IVhkzxUrZKf0VJJ7B8vp) | [Hope](https://open.spotify.com/album/3de8puitnJdwLisWEsQmrl) | 1:54 | 2022-08-31 |  |
 | [Ozu](https://open.spotify.com/track/0fym4mro3A1876ysJ7ulJQ) | [Gotts Street Park](https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y) | [Diego E.P.](https://open.spotify.com/album/6jBUi3Hjp0GihmvfNMmeGI) | 3:41 | 2022-02-17 | 2022-04-28 |
 | [P64 By My Side](https://open.spotify.com/track/2Fv3OV4gjNh5EhCJH8gbrO) | [John Carroll Kirby](https://open.spotify.com/artist/7FQiZr787umw7P5dO3zqld) | [P64 By My Side](https://open.spotify.com/album/7wMUCUUAuP9EY4QaeRNqBI) | 4:11 | 2022-02-17 | 2022-04-29 |
 | [Pan’s Dance](https://open.spotify.com/track/16s2buIEfxT0y8X4yMbebk) | [John Carroll Kirby](https://open.spotify.com/artist/7FQiZr787umw7P5dO3zqld) | [Dance Ancestral](https://open.spotify.com/album/20BoLUZgIPSXtK4m5jE64n) | 4:34 | 2022-04-07 | 2022-06-03 |

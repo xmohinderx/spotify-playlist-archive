@@ -2783,7 +2783,7 @@
       ],
       "date_added": "2022-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 174506,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/1h4SQsufLENc6oCAbskc1T"
@@ -4171,7 +4171,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 140613,
       "name": "In The Sunrise",
       "url": "https://open.spotify.com/track/23fsXHpRPkozkePmm8h3vG"
@@ -4651,6 +4651,32 @@
       "duration_ms": 174720,
       "name": "Konstig (F\u00f6rst\u00e5r mig inte p\u00e5 dig)",
       "url": "https://open.spotify.com/track/23CTXfKqXyz4QkEwCGONhz"
+    },
+    {
+      "album": {
+        "name": "Korthus",
+        "url": "https://open.spotify.com/album/08oifjJ5L0K7l2a7UaUKBN"
+      },
+      "artists": [
+        {
+          "name": "Maxida M\u00e4rak",
+          "url": "https://open.spotify.com/artist/3FfnFeTonanbog4rEvYXns"
+        },
+        {
+          "name": "Joakim Berg",
+          "url": "https://open.spotify.com/artist/5Z3qZD6rDNxloqapoa1QUC"
+        },
+        {
+          "name": "Maria Jane Smith",
+          "url": "https://open.spotify.com/artist/3IiNai4mJpTKP4SGjhJau5"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182720,
+      "name": "Korthus",
+      "url": "https://open.spotify.com/track/791sTulD9FqjjDlraYYIpT"
     },
     {
       "album": {
@@ -7495,6 +7521,24 @@
       "duration_ms": 175400,
       "name": "Sk\u00e5l",
       "url": "https://open.spotify.com/track/0d53D9YtdbRErx5b94XNpm"
+    },
+    {
+      "album": {
+        "name": "Slutet av dagen",
+        "url": "https://open.spotify.com/album/7b7qdKJlsMRhIibvs7Zo0Q"
+      },
+      "artists": [
+        {
+          "name": "Petter",
+          "url": "https://open.spotify.com/artist/5A0Bu9azuFEnud3q7t0V2r"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208043,
+      "name": "Slutet av dagen",
+      "url": "https://open.spotify.com/track/3BwAqx9Bm9W9PQROjHQ07Z"
     },
     {
       "album": {

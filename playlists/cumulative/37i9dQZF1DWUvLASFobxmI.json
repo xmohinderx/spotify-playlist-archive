@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-04",
-  "description": "Brav\u00edas, rom\u00e1nticas y rancheras, las mejores canciones norte\u00f1as. Alfredo Olivas en portada.",
+  "description": "Brav\u00edas, rom\u00e1nticas y rancheras, las mejores canciones norte\u00f1as. Grupo Arriesgado en portada.",
   "name": "Norte\u00f1o 2022",
   "published_playlist_ids": [
     "4CWnohjaUvTAEcQVufM78y"
@@ -23,6 +23,24 @@
       "duration_ms": 231165,
       "name": "#HASHTAG",
       "url": "https://open.spotify.com/track/4JnxfY3GQaU60zZVSm2qvD"
+    },
+    {
+      "album": {
+        "name": "24 Siete (Studio)",
+        "url": "https://open.spotify.com/album/1rV6nUqCq85wuP9x5OJtfk"
+      },
+      "artists": [
+        {
+          "name": "Duelo",
+          "url": "https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172264,
+      "name": "24 Siete - Studio",
+      "url": "https://open.spotify.com/track/2Tyf0QV9468mwVR70FIBHR"
     },
     {
       "album": {
@@ -377,7 +395,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 179226,
       "name": "Cuando Me Besas",
       "url": "https://open.spotify.com/track/6ZdXJXmzxsKFB4nKfpne5D"
@@ -395,7 +413,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 192913,
       "name": "Cuando Me Importabas",
       "url": "https://open.spotify.com/track/0ihv6gQs9XoIr7me3M9sCy"
@@ -539,7 +557,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 154053,
       "name": "Demente",
       "url": "https://open.spotify.com/track/642V8Exx3tLDW7yYrbKgCW"
@@ -914,6 +932,24 @@
     },
     {
       "album": {
+        "name": "A Bailar Huapangos",
+        "url": "https://open.spotify.com/album/3HwzYVu702BGntM846aF8T"
+      },
+      "artists": [
+        {
+          "name": "Los Igualados",
+          "url": "https://open.spotify.com/artist/7CZBDOxXPcGXM2IAoZHCmB"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252000,
+      "name": "El P\u00e1vido N\u00e1vido",
+      "url": "https://open.spotify.com/track/0sTV1ucJEAj8M15YJQCLsR"
+    },
+    {
+      "album": {
         "name": "El Que a Ti Te Gusta",
         "url": "https://open.spotify.com/album/47wEWNQJIhuqODvvVTUtrl"
       },
@@ -1081,6 +1117,24 @@
       "duration_ms": 189224,
       "name": "Enamorado",
       "url": "https://open.spotify.com/track/2lQ907kdNk2IL7WRQZHlZy"
+    },
+    {
+      "album": {
+        "name": "Enloquecido",
+        "url": "https://open.spotify.com/album/7pm3bU5WKxGhRI5uyfOKuI"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212915,
+      "name": "Enloquecido",
+      "url": "https://open.spotify.com/track/3T5F6ulZvDzBQwq3wS31xZ"
     },
     {
       "album": {
@@ -1475,7 +1529,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 245568,
       "name": "Las Dos Cruces",
       "url": "https://open.spotify.com/track/3smZXzA9dK9vtp8FCdmcWu"
@@ -1572,6 +1626,24 @@
     },
     {
       "album": {
+        "name": "En Vivo Vol. One (En vivo)",
+        "url": "https://open.spotify.com/album/56p8CK0TWqMnwCHN8yqG0N"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187929,
+      "name": "Mas Que Amigos - En vivo",
+      "url": "https://open.spotify.com/track/2i6er0a1fHBsxibw8g3jNX"
+    },
+    {
+      "album": {
         "name": "Me Dicen El Chavo",
         "url": "https://open.spotify.com/album/2GAQ8DhWnILWXcnbLTny2W"
       },
@@ -1645,6 +1717,24 @@
       "duration_ms": 191094,
       "name": "Me Sigue Calando",
       "url": "https://open.spotify.com/track/3nDuiLZyyMDIN65BovPoOW"
+    },
+    {
+      "album": {
+        "name": "Mi Historia",
+        "url": "https://open.spotify.com/album/1zJhuy5sDc94mjr96UG9hD"
+      },
+      "artists": [
+        {
+          "name": "Palomo",
+          "url": "https://open.spotify.com/artist/27plYDXNJSOD084j39Lmlj"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172726,
+      "name": "Mi Historia",
+      "url": "https://open.spotify.com/track/0yj2kjBVyzV4uuFolZf6t5"
     },
     {
       "album": {
@@ -1995,7 +2085,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 150466,
       "name": "Perd\u00f3n Porque?",
       "url": "https://open.spotify.com/track/5hPLduAGq6QIKhId97NzcP"
@@ -2483,7 +2573,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 231018,
       "name": "Sindrome De Estocolmo",
       "url": "https://open.spotify.com/track/5EJ3ZjHeXeVQezMhQuzvn7"
@@ -2721,6 +2811,24 @@
       "duration_ms": 184411,
       "name": "Un Suspir\u00f3",
       "url": "https://open.spotify.com/track/3nD8VUJphfkoxSjy4lmeP1"
+    },
+    {
+      "album": {
+        "name": "Vaiv\u00e9n",
+        "url": "https://open.spotify.com/album/0wZC53nTNW23eTtTTX73Vo"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192626,
+      "name": "Vaiv\u00e9n",
+      "url": "https://open.spotify.com/track/41bThbXGVhiFwHa5hX6jaD"
     },
     {
       "album": {

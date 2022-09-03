@@ -1,12 +1,12 @@
 {
   "description": "Brand new music from Steve Aoki\u2019s Dim Mak Records, updated every Tuesday and Friday!",
-  "num_followers": 44425,
+  "num_followers": 44406,
   "original_name": "Dim Mak New Releases",
   "owner": {
     "name": "Dim Mak Records",
     "url": "https://open.spotify.com/user/dimmakrecords"
   },
-  "snapshot_id": "NTg5MSw0YWI0NjE4NjRhMGVjNDY5OTc1NGM0YjRlOWM5ZGFjN2I4ZDliOTFk",
+  "snapshot_id": "NTg5NCw4Njc4YzQ0ZTVlODgyNmExMjdkMzViMGM5NDk3ZjNmZjZkZmM5Yjc3",
   "tracks": [
     {
       "added_at": "2022-08-12 16:42:20",
@@ -31,6 +31,46 @@
       "duration_ms": 131500,
       "name": "The Whistle",
       "url": "https://open.spotify.com/track/0nYD5euxX3xsIe9bda0Fqg"
+    },
+    {
+      "added_at": "2022-09-02 20:29:04",
+      "album": {
+        "name": "Young & Lit (feat. Bok Nero)",
+        "url": "https://open.spotify.com/album/0cwp9pwywIQAjMfIuezSJM"
+      },
+      "artists": [
+        {
+          "name": "Slushii",
+          "url": "https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We"
+        },
+        {
+          "name": "Bok Nero",
+          "url": "https://open.spotify.com/artist/7rnzdGq1qPizursGNI1P0V"
+        },
+        {
+          "name": "Softest Hard",
+          "url": "https://open.spotify.com/artist/1smczP1QDorQcyiGA69tF6"
+        }
+      ],
+      "duration_ms": 189595,
+      "name": "Young & Lit (feat. Bok Nero)",
+      "url": "https://open.spotify.com/track/6KnBrpwDJZgMAIXXyRFkEN"
+    },
+    {
+      "added_at": "2022-09-02 20:29:48",
+      "album": {
+        "name": "Time",
+        "url": "https://open.spotify.com/album/6Q7CghzgduIYq5exyNO2Pv"
+      },
+      "artists": [
+        {
+          "name": "NEOTEK",
+          "url": "https://open.spotify.com/artist/44btqMHopGiWCGHMtFw3mv"
+        }
+      ],
+      "duration_ms": 156800,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/08J3WyZe6XG53cL8OW3ZnU"
     },
     {
       "added_at": "2022-08-26 15:49:03",

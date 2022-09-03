@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 
 > The home for alternative electronic music\. Cover: TSHA
 
-[Spotify](https://open.spotify.com/user/spotify) - 404,235 likes - 117 songs - 8 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 403,739 likes - 117 songs - 8 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Endless Sky](https://open.spotify.com/track/3oHOObxpYRdsRwVqizxWNM) | [Dusky](https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu) | [Endless Sky](https://open.spotify.com/album/2gudZLuzUEnf5AXljy75vO) | 2:39 |
 | 2 | [B.O.T.A\. \(Baddest Of Them All\)](https://open.spotify.com/track/45bfH0GZvUyujIBiKRhXso) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [B.O.T.A\. \(Baddest Of Them All\)](https://open.spotify.com/album/2lQgd3Svp1ZWAzZPLobAPK) | 5:58 |
-| 3 | [Dancing In The Shadows](https://open.spotify.com/track/2edB8M0PPZCoYKm8ohDaNm) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Dancing In The Shadows](https://open.spotify.com/album/2rJpFV7L5MsabqxrEeHVd6) | 4:36 |
+| 3 | [Dancing In The Shadows](https://open.spotify.com/track/2edB8M0PPZCoYKm8ohDaNm) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Dancing In The Shadows](https://open.spotify.com/album/2rJpFV7L5MsabqxrEeHVd6) | 4:37 |
 | 4 | [Setting Sun](https://open.spotify.com/track/4BG4Smwt9cu1RzAKurrIN6) | [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t) | [Setting Sun](https://open.spotify.com/album/2ExANkuoKaZn7qOGvf014G) | 6:13 |
 | 5 | [Follow You](https://open.spotify.com/track/0QiIiiGroBqnleILFsPUuc) | [Kornél Kovács](https://open.spotify.com/artist/0Ij7th9uWcDVYNAIOn5W22), [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE) | [Follow You](https://open.spotify.com/album/1fliEPXtaZylODnCOuoHHE) | 4:04 |
 | 6 | [Talkin' Drums](https://open.spotify.com/track/5qJm4xvRCOQ1zedunDnndW) | [Melé](https://open.spotify.com/artist/6EZO7Baz0SIFskWTO1GHqX), [Touré Kunda](https://open.spotify.com/artist/76ynyZUsg0vGxiQSWvQx5f) | [Talkin' Drums](https://open.spotify.com/album/5k6TCxCvcSpWdBpEoXBa2W) | 3:00 |

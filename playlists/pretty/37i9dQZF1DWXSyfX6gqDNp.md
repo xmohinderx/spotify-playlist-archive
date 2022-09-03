@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXSyfX6gqDNp.md) - [plain]
 
 ### [Evening Jazz](https://open.spotify.com/playlist/37i9dQZF1DWXSyfX6gqDNp)
 
-> Slow jazz for evening listening pleasure.
+> Slow instrumental jazz for evening listening pleasure.
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,474 likes - 134 songs - 8 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,401 likes - 134 songs - 8 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -143,4 +143,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXSyfX6gqDNp.md) - [plain]
 | 133 | [Soft Like Rain](https://open.spotify.com/track/1kA2atXO3zrz1L5uEZpVcB) | [Anita Rosswell](https://open.spotify.com/artist/6Qer09QopgWLGMd601P0Zk) | [Soft Like Rain](https://open.spotify.com/album/2et7XBXAiuqsxBX7MgwHiZ) | 2:48 |
 | 134 | [Darn That Dream](https://open.spotify.com/track/2lzmr63brYXxdCQsFNJNE0) | [Saginaw Society](https://open.spotify.com/artist/6DZHD4qSGUFPJVZZARcJDY) | [Being In Love](https://open.spotify.com/album/5NZCSnRwXtV5AWnm7EpkBX) | 4:53 |
 
-Snapshot ID: `MTY2MTg2ODIwMywwMDAwMDAwMDNkNjYyMGQyNDgyNjJmNGRkYTIxZmY4MTFmZjgzYzc0`
+Snapshot ID: `MTY2MjEwOTI0MywwMDAwMDAwMDUxZjdmMjcwZmMzMGYzOWU5Njc1NGJlNDVmYWQ3Yzc3`

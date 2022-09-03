@@ -1,12 +1,12 @@
 {
   "description": "The softer side of dance.",
-  "num_followers": 356069,
+  "num_followers": 355618,
   "original_name": "Chilled Dance Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjUxNzY0NCwwMDAwMDAwMDc2OTdjMTEwYTVkMjMxMzg3YzgwOTNjYTc3Nzg3YTQx",
+  "snapshot_id": "MTY0MjUxNzY0NCwwMDAwMDAwMGY1NjljMDNlZTdkYmUxYTEyNDM4MzA3MDZiOWY4ZDk2",
   "tracks": [
     {
       "added_at": "2022-01-18 14:54:04",
@@ -655,26 +655,6 @@
     {
       "added_at": "2022-01-18 14:54:04",
       "album": {
-        "name": "Sun Goes Down",
-        "url": "https://open.spotify.com/album/6VjNaalNwGON6ymlTEWNn8"
-      },
-      "artists": [
-        {
-          "name": "Bruno Martini",
-          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
-        },
-        {
-          "name": "ADORA",
-          "url": "https://open.spotify.com/artist/0Ymiodu1YzvWwqq528sWiW"
-        }
-      ],
-      "duration_ms": 203586,
-      "name": "Sun Goes Down",
-      "url": "https://open.spotify.com/track/2JpTwRVXioTZSdizBGAhUH"
-    },
-    {
-      "added_at": "2022-01-18 14:54:04",
-      "album": {
         "name": "Panorama",
         "url": "https://open.spotify.com/album/4ZaeYUM5vgvkpexijZ3w2r"
       },
@@ -691,6 +671,26 @@
       "duration_ms": 218480,
       "name": "Aloha",
       "url": "https://open.spotify.com/track/7IfOWyh4jTfkcGVrXKVNq0"
+    },
+    {
+      "added_at": "2022-01-18 14:54:04",
+      "album": {
+        "name": "Sun Goes Down",
+        "url": "https://open.spotify.com/album/6VjNaalNwGON6ymlTEWNn8"
+      },
+      "artists": [
+        {
+          "name": "Bruno Martini",
+          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
+        },
+        {
+          "name": "ADORA",
+          "url": "https://open.spotify.com/artist/0Ymiodu1YzvWwqq528sWiW"
+        }
+      ],
+      "duration_ms": 203586,
+      "name": "Sun Goes Down",
+      "url": "https://open.spotify.com/track/2JpTwRVXioTZSdizBGAhUH"
     },
     {
       "added_at": "2022-01-18 14:54:04",
@@ -823,8 +823,8 @@
     {
       "added_at": "2022-01-18 14:54:04",
       "album": {
-        "name": "Carry On (from the Original Motion Picture \"POK\u00c9MON Detective Pikachu\")",
-        "url": "https://open.spotify.com/album/1Z7WbPmn7QFoJ2DrNfEehz"
+        "name": "First Time",
+        "url": "https://open.spotify.com/album/6wu7tiTr8zchRG7PWwTOK1"
       },
       "artists": [
         {
@@ -832,13 +832,13 @@
           "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
         },
         {
-          "name": "Rita Ora",
-          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
         }
       ],
-      "duration_ms": 215315,
-      "name": "Carry On (from the Original Motion Picture \"POK\u00c9MON Detective Pikachu\")",
-      "url": "https://open.spotify.com/track/3y3brCCecHC3Db18aIOnny"
+      "duration_ms": 193511,
+      "name": "First Time",
+      "url": "https://open.spotify.com/track/2Gl0FzuLxflY6nPifJp5Dr"
     },
     {
       "added_at": "2022-01-18 14:54:04",
@@ -907,26 +907,6 @@
     {
       "added_at": "2022-01-18 14:54:04",
       "album": {
-        "name": "Crazy",
-        "url": "https://open.spotify.com/album/6SysUU95ns1m8xfNrLCWDx"
-      },
-      "artists": [
-        {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-        },
-        {
-          "name": "Zonderling",
-          "url": "https://open.spotify.com/artist/0bMKf3lIYR9GaNTdFKkTOr"
-        }
-      ],
-      "duration_ms": 153391,
-      "name": "Crazy",
-      "url": "https://open.spotify.com/track/64fwanXDvwmsQrLsDSVHMv"
-    },
-    {
-      "added_at": "2022-01-18 14:54:04",
-      "album": {
         "name": "THE NIGHTDAY",
         "url": "https://open.spotify.com/album/59irM3hSsX9Kpj31rJnsHc"
       },
@@ -939,6 +919,22 @@
       "duration_ms": 223480,
       "name": "Faded",
       "url": "https://open.spotify.com/track/2GQEM9JuHu30sGFvRYeCxz"
+    },
+    {
+      "added_at": "2022-01-18 14:54:04",
+      "album": {
+        "name": "Worlds",
+        "url": "https://open.spotify.com/album/7AJPV0L05IyIBid97AvwVD"
+      },
+      "artists": [
+        {
+          "name": "Porter Robinson",
+          "url": "https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam"
+        }
+      ],
+      "duration_ms": 350690,
+      "name": "Sad Machine",
+      "url": "https://open.spotify.com/track/1JY6B9ILvmRla2IKKRZvnH"
     },
     {
       "added_at": "2022-01-18 14:54:04",
@@ -963,18 +959,22 @@
     {
       "added_at": "2022-01-18 14:54:04",
       "album": {
-        "name": "Worlds",
-        "url": "https://open.spotify.com/album/7AJPV0L05IyIBid97AvwVD"
+        "name": "Crazy",
+        "url": "https://open.spotify.com/album/6SysUU95ns1m8xfNrLCWDx"
       },
       "artists": [
         {
-          "name": "Porter Robinson",
-          "url": "https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam"
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        },
+        {
+          "name": "Zonderling",
+          "url": "https://open.spotify.com/artist/0bMKf3lIYR9GaNTdFKkTOr"
         }
       ],
-      "duration_ms": 350690,
-      "name": "Sad Machine",
-      "url": "https://open.spotify.com/track/1JY6B9ILvmRla2IKKRZvnH"
+      "duration_ms": 153391,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/64fwanXDvwmsQrLsDSVHMv"
     },
     {
       "added_at": "2022-01-18 14:54:04",
@@ -1251,18 +1251,22 @@
     {
       "added_at": "2022-01-18 14:54:04",
       "album": {
-        "name": "Stories",
-        "url": "https://open.spotify.com/album/7dqftJ3kas6D0VAdmt3k3V"
+        "name": "Talk About It",
+        "url": "https://open.spotify.com/album/1FpT2UrL4Fa69ORtdGqEfW"
       },
       "artists": [
         {
-          "name": "Avicii",
-          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+          "name": "Mike Perry",
+          "url": "https://open.spotify.com/artist/6lB8vOoI4DRrrVxXwuV19c"
+        },
+        {
+          "name": "Hot Shade",
+          "url": "https://open.spotify.com/artist/3GtCKJA4SkOxN65MWjm82R"
         }
       ],
-      "duration_ms": 215813,
-      "name": "Gonna Love Ya",
-      "url": "https://open.spotify.com/track/1rDETmcizen79JghAEm1Se"
+      "duration_ms": 164536,
+      "name": "Talk About It",
+      "url": "https://open.spotify.com/track/68CwDQwKXMYLBLWI8ZfRMG"
     },
     {
       "added_at": "2022-01-18 14:54:04",
@@ -1283,22 +1287,18 @@
     {
       "added_at": "2022-01-18 14:54:04",
       "album": {
-        "name": "Talk About It",
-        "url": "https://open.spotify.com/album/1FpT2UrL4Fa69ORtdGqEfW"
+        "name": "Stories",
+        "url": "https://open.spotify.com/album/7dqftJ3kas6D0VAdmt3k3V"
       },
       "artists": [
         {
-          "name": "Mike Perry",
-          "url": "https://open.spotify.com/artist/6lB8vOoI4DRrrVxXwuV19c"
-        },
-        {
-          "name": "Hot Shade",
-          "url": "https://open.spotify.com/artist/3GtCKJA4SkOxN65MWjm82R"
+          "name": "Avicii",
+          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
         }
       ],
-      "duration_ms": 164536,
-      "name": "Talk About It",
-      "url": "https://open.spotify.com/track/68CwDQwKXMYLBLWI8ZfRMG"
+      "duration_ms": 215813,
+      "name": "Gonna Love Ya",
+      "url": "https://open.spotify.com/track/1rDETmcizen79JghAEm1Se"
     },
     {
       "added_at": "2022-01-18 14:54:04",
@@ -1495,26 +1495,6 @@
     {
       "added_at": "2022-01-18 14:54:04",
       "album": {
-        "name": "Favela",
-        "url": "https://open.spotify.com/album/1s7ZwUeLcKAM4GqHY6PHcQ"
-      },
-      "artists": [
-        {
-          "name": "Ina Wroldsen",
-          "url": "https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3"
-        },
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        }
-      ],
-      "duration_ms": 185104,
-      "name": "Favela",
-      "url": "https://open.spotify.com/track/0pKMDhDrQExUqF6SxUpTpb"
-    },
-    {
-      "added_at": "2022-01-18 14:54:04",
-      "album": {
         "name": "Oh Child",
         "url": "https://open.spotify.com/album/0FyKwRPv0vtwLP2rApCyoU"
       },
@@ -1531,6 +1511,26 @@
       "duration_ms": 195261,
       "name": "Oh Child",
       "url": "https://open.spotify.com/track/2xw9PXlt8IaCWZjfpJ2HPL"
+    },
+    {
+      "added_at": "2022-01-18 14:54:04",
+      "album": {
+        "name": "Favela",
+        "url": "https://open.spotify.com/album/1s7ZwUeLcKAM4GqHY6PHcQ"
+      },
+      "artists": [
+        {
+          "name": "Ina Wroldsen",
+          "url": "https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3"
+        },
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        }
+      ],
+      "duration_ms": 185104,
+      "name": "Favela",
+      "url": "https://open.spotify.com/track/0pKMDhDrQExUqF6SxUpTpb"
     },
     {
       "added_at": "2022-01-18 14:54:04",
@@ -1555,18 +1555,22 @@
     {
       "added_at": "2022-01-18 14:54:04",
       "album": {
-        "name": "Summer Air",
-        "url": "https://open.spotify.com/album/5bcHkau6y7drfSvfnTwMsv"
+        "name": "Sonnentanz",
+        "url": "https://open.spotify.com/album/1BBqa3UQfVawVGQN0aIcs4"
       },
       "artists": [
         {
-          "name": "ItaloBrothers",
-          "url": "https://open.spotify.com/artist/5nkYRuiIHg2xXHFC8bfosJ"
+          "name": "Klangkarussell",
+          "url": "https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo"
+        },
+        {
+          "name": "Will Heard",
+          "url": "https://open.spotify.com/artist/39AZSw4A8hCFWunEg2k89Z"
         }
       ],
-      "duration_ms": 183587,
-      "name": "Summer Air",
-      "url": "https://open.spotify.com/track/4zHbzMPCg3tovIILIa7dsB"
+      "duration_ms": 236333,
+      "name": "Sonnentanz - Sun Don't Shine",
+      "url": "https://open.spotify.com/track/5NKfB21hWeirObQjEN44x1"
     },
     {
       "added_at": "2022-01-18 14:54:04",
@@ -1591,22 +1595,18 @@
     {
       "added_at": "2022-01-18 14:54:04",
       "album": {
-        "name": "Sonnentanz",
-        "url": "https://open.spotify.com/album/1BBqa3UQfVawVGQN0aIcs4"
+        "name": "Summer Air",
+        "url": "https://open.spotify.com/album/5bcHkau6y7drfSvfnTwMsv"
       },
       "artists": [
         {
-          "name": "Klangkarussell",
-          "url": "https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo"
-        },
-        {
-          "name": "Will Heard",
-          "url": "https://open.spotify.com/artist/39AZSw4A8hCFWunEg2k89Z"
+          "name": "ItaloBrothers",
+          "url": "https://open.spotify.com/artist/5nkYRuiIHg2xXHFC8bfosJ"
         }
       ],
-      "duration_ms": 236333,
-      "name": "Sonnentanz - Sun Don't Shine",
-      "url": "https://open.spotify.com/track/5NKfB21hWeirObQjEN44x1"
+      "duration_ms": 183587,
+      "name": "Summer Air",
+      "url": "https://open.spotify.com/track/4zHbzMPCg3tovIILIa7dsB"
     },
     {
       "added_at": "2022-01-18 14:54:04",
@@ -1995,8 +1995,8 @@
     {
       "added_at": "2022-01-18 14:54:04",
       "album": {
-        "name": "First Time",
-        "url": "https://open.spotify.com/album/6wu7tiTr8zchRG7PWwTOK1"
+        "name": "Carry On (from the Original Motion Picture \"POK\u00c9MON Detective Pikachu\")",
+        "url": "https://open.spotify.com/album/1Z7WbPmn7QFoJ2DrNfEehz"
       },
       "artists": [
         {
@@ -2004,13 +2004,13 @@
           "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
         },
         {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
         }
       ],
-      "duration_ms": 193511,
-      "name": "First Time",
-      "url": "https://open.spotify.com/track/2Gl0FzuLxflY6nPifJp5Dr"
+      "duration_ms": 215315,
+      "name": "Carry On (from the Original Motion Picture \"POK\u00c9MON Detective Pikachu\")",
+      "url": "https://open.spotify.com/track/3y3brCCecHC3Db18aIOnny"
     },
     {
       "added_at": "2022-01-18 14:54:04",
@@ -2084,13 +2084,13 @@
           "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
         },
         {
-          "name": "Julia Michaels",
-          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+          "name": "Kodaline",
+          "url": "https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4"
         }
       ],
-      "duration_ms": 233133,
-      "name": "Carry Me (feat. Julia Michaels)",
-      "url": "https://open.spotify.com/track/3FZEv9JddkjHNFiMVxJYpS"
+      "duration_ms": 224486,
+      "name": "Raging (feat. Kodaline)",
+      "url": "https://open.spotify.com/track/2Vhd5uZB4brKHmM0MNxkZo"
     },
     {
       "added_at": "2022-01-18 14:54:04",
@@ -2104,13 +2104,13 @@
           "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
         },
         {
-          "name": "Kodaline",
-          "url": "https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4"
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
         }
       ],
-      "duration_ms": 224486,
-      "name": "Raging (feat. Kodaline)",
-      "url": "https://open.spotify.com/track/2Vhd5uZB4brKHmM0MNxkZo"
+      "duration_ms": 233133,
+      "name": "Carry Me (feat. Julia Michaels)",
+      "url": "https://open.spotify.com/track/3FZEv9JddkjHNFiMVxJYpS"
     },
     {
       "added_at": "2022-01-18 14:54:04",

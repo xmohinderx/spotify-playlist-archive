@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 
 > The magical world map! Play it in shuffle ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,908 likes - 1,196 songs - 3 day 7 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,942 likes - 1,196 songs - 3 day 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1193,7 +1193,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 1183 | [Çayelinden Öteye/Yali Yali](https://open.spotify.com/track/6fcqnQf44Ppvc36jKd4uch) | [Neşe Karaböcek](https://open.spotify.com/artist/2LyOwgMY8RSQU5iK9rHj0B) | [Dost Bahçesi](https://open.spotify.com/album/3SAlmME2G8dReliNrcJQ45) | 2:41 |
 | 1184 | [L'enfant et la gazelle](https://open.spotify.com/track/7wFA1UMkKQEh2c9Aqh6iuX) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [The Guinea Years](https://open.spotify.com/album/2bL3sBngYPOBSOwZH1A90H) | 3:45 |
 | 1185 | [Gonna Make Time Version](https://open.spotify.com/track/7tG68NtLXzWV2tiN6ghLeb) | [The Frightnrs](https://open.spotify.com/artist/0wwBxT2qVH327KlBJbwMEP), [Victor Axelrod](https://open.spotify.com/artist/2biUp9VdsGaM1dL1kjLLUy) | [More to Say Versions](https://open.spotify.com/album/02R0gk6SfC5hbtmFvPsQ6j) | 3:57 |
-| 1186 | [Kilariô](https://open.spotify.com/track/3LKYxRZ16ZZ1daIkThMIME) | [Di Melo](https://open.spotify.com/artist/4KyZtyl55zzHoBJUp07Doe) | [Di Melo](https://open.spotify.com/album/1XGgFeL4PsPYqEghH7JXth) | 2:48 |
+| 1186 | [Kilario](https://open.spotify.com/track/00Xcf47ApZUt6omH2RgdUM) | [Di Melo](https://open.spotify.com/artist/4KyZtyl55zzHoBJUp07Doe) | [Di Melo](https://open.spotify.com/album/2Uri1KkpSo6YOnjLC4ly7F) | 2:47 |
 | 1187 | [Greetings](https://open.spotify.com/track/03P5b745wtD0qS5IdNtrh9) | [Joni Haastrup](https://open.spotify.com/artist/4Mp7yETSzhsOZt0lm4TaRu) | [Nigeria 70 \- Funky Lagos](https://open.spotify.com/album/6vbhwiICICM9vQiUK62Me0) | 6:13 |
 | 1188 | [Il faut tenir](https://open.spotify.com/track/5zHYXKveaDsPDuYpS9pqxb) | [Les Masques](https://open.spotify.com/artist/4zq7rOqvZ5un2eashidqW8) | [Brasilian Sound](https://open.spotify.com/album/1G5RxKRw5xMLzgU47VWTX6) | 3:01 |
 | 1189 | [Patuscada de Gandhi \- Afoxé filhos de Gandhi](https://open.spotify.com/track/6pqvI3ods51ID3ZSJ67H9S) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Refavela](https://open.spotify.com/album/7gl0SUDwWTOdUehXFypXna) | 2:35 |
@@ -1205,4 +1205,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 1195 | [María del Carmen](https://open.spotify.com/track/4wwLkoEEtiWSVy0EVVMiy1) | [Andres Landero Y Su Conjunto](https://open.spotify.com/artist/1a1B3usUWpHK4S3u0iN8T4) | [Cumbias y Más Cumbias](https://open.spotify.com/album/4pD1vtjlFm2ftlWQPZCQJd) | 4:16 |
 | 1196 | [Quem Não Faz Filhos](https://open.spotify.com/track/3GEYdZGGJthGoLjPk9E7Kd) | [Os Kiezos](https://open.spotify.com/artist/5y4KGcTAhFsxkLXQiE8cZf) | [Angola Anos d'Ouro: Reviver Os Kiezos](https://open.spotify.com/album/4yMv047txxleA3j7dtOBBb) | 4:11 |
 
-Snapshot ID: `MTY2MTQ2NDg2MCwwMDAwMDAwMGE3NzI2ZTM0MzQyYzZlOTA0OTM1YTJmMjkyNzBjODg5`
+Snapshot ID: `MTY2MTQ2NDg2MCwwMDAwMDAwMDI3MGIxYTJjYjkwYzEzZTdmYzc3ZDM4ZTNlMTgxNzM3`

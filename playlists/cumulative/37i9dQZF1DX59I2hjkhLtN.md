@@ -4,7 +4,7 @@
 
 > Novos rappers, novos sons\. Tamos juntos! Foto: BDK.
 
-134 songs - 6 hr 51 min - [published](https://open.spotify.com/playlist/0yWUJgN7fowGbytoYMefKR)
+135 songs - 6 hr 54 min - [published](https://open.spotify.com/playlist/0yWUJgN7fowGbytoYMefKR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,7 +109,7 @@
 | [Quem Diria](https://open.spotify.com/track/1fMTCZHVN3COMa5N9BcLw1) | [Westy](https://open.spotify.com/artist/0QHhjrJBxwATyeg2xXzwbN), [Deni](https://open.spotify.com/artist/6HqlRHxDB2t1XzsLCmeK6G) | [Quem Diria](https://open.spotify.com/album/1AtnRKMSIVOeOXxg4kvVMV) | 4:29 | 2022-07-07 | 2022-09-02 |
 | [Rendez Vous](https://open.spotify.com/track/083SY7cT3XODPbG3rSteh6) | [L\-Ali](https://open.spotify.com/artist/2O6Oes2ZnqSwoUHFl7rTyy) | [Rendez Vous](https://open.spotify.com/album/63dhxW3bKwPsh7diCrP9Kh) | 2:12 | 2022-09-01 |  |
 | [Ronaldo](https://open.spotify.com/track/3CmccPzPZRHwXWKGoXUVde) | [Sekai](https://open.spotify.com/artist/4T5B6T18yziN16acvy3XtT) | [Ronaldo](https://open.spotify.com/album/5qPXzQhaqdBaWALdmAMt7T) | 2:20 | 2022-08-04 |  |
-| [Sabes o Que é a Life? Pt\. 2](https://open.spotify.com/track/5p5hRYa6Lkerb0jTIgYZMe) | [Edi Ventura](https://open.spotify.com/artist/4Q8Yv1CiUWvjhLfNq7c72F) | [Sabes o Que é a Life? Pt\. 2](https://open.spotify.com/album/4QDBnHZTK19AixLoc7yqZm) | 4:32 | 2022-08-04 |  |
+| [Sabes o Que é Life? Pt\. 2](https://open.spotify.com/track/5p5hRYa6Lkerb0jTIgYZMe) | [Edi Ventura](https://open.spotify.com/artist/4Q8Yv1CiUWvjhLfNq7c72F) | [Sabes o Que é Life? Pt\. 2](https://open.spotify.com/album/4QDBnHZTK19AixLoc7yqZm) | 4:32 | 2022-08-04 |  |
 | [Sai Feiticeiro](https://open.spotify.com/track/1TnxG0q4CYSg2PyvuIOdjZ) | [Ama G](https://open.spotify.com/artist/5j3HpkNw30Hnq4J8O2GJVa) | [Sai Feiticeiro](https://open.spotify.com/album/6QPfDXLDXwuBLuGpZ3el1G) | 4:11 | 2022-07-07 | 2022-08-26 |
 | [Sangue](https://open.spotify.com/track/6MEOW2h9FfRhkrnZCYv1sU) | [ENOCK](https://open.spotify.com/artist/0ZQbhzbdCo4Mm77BxPVBIY), [LO KYO](https://open.spotify.com/artist/0x7ZY4ZNkD8Af2UixK4tUi) | [Sangue](https://open.spotify.com/album/1pDuOefGj0PWu3M1PcPjUJ) | 3:13 | 2022-07-07 | 2022-09-02 |
 | [Satisfeito](https://open.spotify.com/track/24qakudGyiOuOhTDTaTQ20) | [Pardo](https://open.spotify.com/artist/7I2mGF3XBNuIa5hs1NeeGm) | [Enquadrado](https://open.spotify.com/album/1FKvPr2K5KPnVSNZ3ulUZU) | 3:15 | 2022-07-21 | 2022-08-02 |
@@ -133,6 +133,7 @@
 | [Tá Tudo Fixe](https://open.spotify.com/track/16V1tpqSJZvz2GLMmFK6SK) | [Kenwhy](https://open.spotify.com/artist/5Yp3BOk6SCxdUw914xgm3U) | [Tá Tudo Fixe](https://open.spotify.com/album/0hhHD13nUy5hcUpkmhmHZF) | 3:01 | 2022-07-07 | 2022-07-22 |
 | [Um Brinde](https://open.spotify.com/track/7wla2GPUvZfUwe7Lmyh9Sy) | [C57](https://open.spotify.com/artist/3A3a9O9OLay8KocxjNKlyP) | [Um Brinde](https://open.spotify.com/album/1WUXK28K3aakrN7VZPbc9F) | 4:19 | 2022-07-21 |  |
 | [VAI SÓ](https://open.spotify.com/track/3J6JSpDeoRW4Pqx8OhDKQo) | [Shadow N](https://open.spotify.com/artist/5qa1mGisbGLSY4wwwi6sjs) | [VAI SÓ](https://open.spotify.com/album/7AVMYJ4aTTugSLYsb1gCJF) | 2:14 | 2022-09-01 |  |
+| [Valentino Rossi](https://open.spotify.com/track/7DBJP0meqZxL6EybX4bHQt) | [Tino OG](https://open.spotify.com/artist/4eS9qGsJeOE6d5cqAlfPST), [Real GUNS](https://open.spotify.com/artist/3DNrmBolKZNsx5UHwJCLnT) | [Valentino Rossi](https://open.spotify.com/album/0NhgWVpQmdK095mHJFipM0) | 3:21 | 2022-09-01 |  |
 | [Valsa](https://open.spotify.com/track/3DrcRD28mi1ZMJBbqBXjc3) | [GoblinKN](https://open.spotify.com/artist/0OJs0er3DOXBhjT6xZhNHA) | [Valsa](https://open.spotify.com/album/0bc70vim4DlBzPfOlLh1ij) | 3:18 | 2022-07-07 | 2022-08-19 |
 | [Vento](https://open.spotify.com/track/7sn5PxtRuPDS8HuWyWxOHr) | [Cora](https://open.spotify.com/artist/3ZC3YPJ5cPRz0CRjIcnUhB), [Jackie](https://open.spotify.com/artist/3DonXKWiwWaVZdaHuWXl4v) | [Vento](https://open.spotify.com/album/4QwnkhxCQEgVnmAvUSquRX) | 2:52 | 2022-07-07 |  |
 | [versus gui](https://open.spotify.com/track/1ojTMI2xUl021R3qVSexiP) | [Guii](https://open.spotify.com/artist/0YCzur9vTCSmievDpR3s7h) | [Corpo & Alma](https://open.spotify.com/album/1VJWSayoxhvr7ASQHKoWqe) | 3:12 | 2022-08-01 |  |

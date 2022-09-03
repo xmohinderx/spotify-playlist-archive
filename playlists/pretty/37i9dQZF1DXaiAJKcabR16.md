@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiAJKcabR16.md) - [plain]
 
 > Slide and steel\. Set your soundtrack to some moody, gritty blues folk.
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,435 likes - 62 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,439 likes - 62 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiAJKcabR16.md) - [plain]
 | 43 | [Honeysuckle Reel](https://open.spotify.com/track/6AvLsGpRX9GEej0zB7evfj) | [Daniel Bachman](https://open.spotify.com/artist/3beAmqA2s5xwxDAIFJwDG9) | [Jesus I'm a Sinner](https://open.spotify.com/album/398IZHABZSTKg102AxTtTO) | 6:02 |
 | 44 | [By The Evening](https://open.spotify.com/track/0okuLdhmvvHTB2BhdSO5Mx) | [Benjamin Booker](https://open.spotify.com/artist/7mZgBMpvaBziYQfc9TbJH5) | [Benjamin Booker](https://open.spotify.com/album/3U5HIgBNjlWD7s83b5JVpu) | 3:50 |
 | 45 | [Lazaretto](https://open.spotify.com/track/3T76zPJz3tWL27FrjJe2ot) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Lazaretto](https://open.spotify.com/album/36LXzRarDP8TU8K0REGpt6) | 3:39 |
-| 46 | [Shake It](https://open.spotify.com/track/24MehCp25qxUDWadb0XNRw) | [Steve Smyth](https://open.spotify.com/artist/4ejc2q1FtezVtEDOEOuyMO) | [Exits](https://open.spotify.com/album/3JV08IVUR8OrMfCTMdfThw) | 3:42 |
+| 46 | [Shake It](https://open.spotify.com/track/6u9jFigKKYdCLJKeAc1LOb) | [Steve Smyth](https://open.spotify.com/artist/4ejc2q1FtezVtEDOEOuyMO) | [Exits](https://open.spotify.com/album/71N8R4aZ6VDXWUP9jo8l08) | 3:42 |
 | 47 | [Don't Need It](https://open.spotify.com/track/6NeQt64zijJZbNgFXwvw0I) | [William Elliott Whitmore](https://open.spotify.com/artist/55N838yCXjxLVkBkIM5pnf) | [Field Songs \(Deluxe Edition\)](https://open.spotify.com/album/0LdlWYQ0uHsrG4YjwtOcnJ) | 3:33 |
 | 48 | [Top Yourself](https://open.spotify.com/track/7w85ReRElKKmLNCbPaKPGN) | [The Raconteurs](https://open.spotify.com/artist/4wo1267SJuUfHgasdlfNfc) | [Consolers of the Lonely](https://open.spotify.com/album/3yx8gEFlojRtt2WBhmxwfg) | 4:25 |
 | 49 | [No Sugar In My Coffee](https://open.spotify.com/track/2sgliG5TcHwAiWQn8ecT71) | [Caught A Ghost](https://open.spotify.com/artist/2e898fil1F5umrc2LBtV93) | [Human Nature](https://open.spotify.com/album/39p98KJBGbgCvKjhU6FJ87) | 3:28 |
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiAJKcabR16.md) - [plain]
 | 61 | [Crazy Woman](https://open.spotify.com/track/5ke9Y5BL0wbGOg4pshd1B0) | [Joseph LeMay](https://open.spotify.com/artist/3BRHUE4Ml0PKrgZ5EjVtxf) | [Seventeen Acres](https://open.spotify.com/album/2gHqNCEbiiYGoE8WAEkFZf) | 2:02 |
 | 62 | [Trouble](https://open.spotify.com/track/5aGkIyzLVYGuLIHkxpNAFF) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Trouble](https://open.spotify.com/album/2DQHgaOMVOs2OKLaksiMx9) | 4:01 |
 
-Snapshot ID: `MTYyNzYxNzY2MCwwMDAwMDAwMGM3NGZmYjJkNjk3Y2ZjODU2MmVjODAxOGFlNTFjMWVj`
+Snapshot ID: `MTYyNzYxNzY2MCwwMDAwMDAwMDYwNjA4MjRlNDc5MDczOTcxMmQ0YjNkMDI5NmFiNjM3`

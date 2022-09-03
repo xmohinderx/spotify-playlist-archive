@@ -1,12 +1,12 @@
 {
   "description": "The best newly released songs of the week. Cover: Yuna",
-  "num_followers": 59146,
+  "num_followers": 59160,
   "original_name": "New Music Friday Malaysia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjA0ODAwMCwwMDAwMDAwMDJkMDE2N2JjODY2NWZmYjNhOTkyMzlhMDk1YjY3YzAx",
+  "snapshot_id": "MTY2MjA0ODAwMCwwMDAwMDAwMDBmNTAwNjg2MDE2ZGQxNTgyMTE0MGRmOTUxZDg3Y2Q3",
   "tracks": [
     {
       "added_at": "2022-09-01 16:00:00",
@@ -187,6 +187,22 @@
       "duration_ms": 229436,
       "name": "Kiss Me",
       "url": "https://open.spotify.com/track/1Xq9ilOLiknCaGYtSsvFrH"
+    },
+    {
+      "added_at": "2022-09-01 16:00:00",
+      "album": {
+        "name": "WYAT (Where You At)",
+        "url": "https://open.spotify.com/album/2KNLbEBtNGRbVGXH74zOcW"
+      },
+      "artists": [
+        {
+          "name": "SB19",
+          "url": "https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP"
+        }
+      ],
+      "duration_ms": 218461,
+      "name": "WYAT (Where You At)",
+      "url": "https://open.spotify.com/track/1z50Hub2XCsAPWo8zgoePu"
     },
     {
       "added_at": "2022-09-01 16:00:00",
@@ -488,7 +504,7 @@
       "added_at": "2022-09-01 16:00:00",
       "album": {
         "name": "Keep On Smiling",
-        "url": "https://open.spotify.com/album/1PKL24mnakuCYCZkHgKgwJ"
+        "url": "https://open.spotify.com/album/0SbaC7OZOVB2WKGzf9ZMSQ"
       },
       "artists": [
         {
@@ -498,7 +514,7 @@
       ],
       "duration_ms": 262356,
       "name": "Everybody's Cool",
-      "url": "https://open.spotify.com/track/66YV5WPbSqEZsM6WwShkEM"
+      "url": "https://open.spotify.com/track/5HUxswbr7V4fzwG1LGCf7U"
     },
     {
       "added_at": "2022-09-01 16:00:00",
@@ -539,6 +555,26 @@
       "duration_ms": 184103,
       "name": "Living Without You",
       "url": "https://open.spotify.com/track/1KkV5NgLa2XtD00IfaCPyG"
+    },
+    {
+      "added_at": "2022-09-01 16:00:00",
+      "album": {
+        "name": "Sin Fin",
+        "url": "https://open.spotify.com/album/6bcsXfLlMTAWGWdWofzM2l"
+      },
+      "artists": [
+        {
+          "name": "Romeo Santos",
+          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+        },
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "duration_ms": 234666,
+      "name": "Sin Fin",
+      "url": "https://open.spotify.com/track/3qaHzxjNtFU7QiEuhGx70x"
     },
     {
       "added_at": "2022-09-01 16:00:00",
@@ -599,6 +635,50 @@
     {
       "added_at": "2022-09-01 16:00:00",
       "album": {
+        "name": "Too Much (feat. Moneybagg Yo)",
+        "url": "https://open.spotify.com/album/0R87OEh0NzfdjavsrmrGtj"
+      },
+      "artists": [
+        {
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+        },
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "duration_ms": 188869,
+      "name": "Too Much (feat. Moneybagg Yo)",
+      "url": "https://open.spotify.com/track/7pZeacKYnK4unCplCmI2qb"
+    },
+    {
+      "added_at": "2022-09-01 16:00:00",
+      "album": {
+        "name": "STUNNA",
+        "url": "https://open.spotify.com/album/6GsGCToyCrO0PokU9RQSjM"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        },
+        {
+          "name": "Too $hort",
+          "url": "https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v"
+        },
+        {
+          "name": "Michael Sneed",
+          "url": "https://open.spotify.com/artist/42KWzHkbr6Q6BV7gSfYkpl"
+        }
+      ],
+      "duration_ms": 166662,
+      "name": "The Roof (feat. Too $hort & Michael Sneed)",
+      "url": "https://open.spotify.com/track/5LPYA53CeQhBrANnmxcT3G"
+    },
+    {
+      "added_at": "2022-09-01 16:00:00",
+      "album": {
         "name": "\u00c4lskar",
         "url": "https://open.spotify.com/album/7hnwD5fSafzPIxpkbbO8Dk"
       },
@@ -645,7 +725,7 @@
         }
       ],
       "duration_ms": 257853,
-      "name": "You and Me On The Rock - In The Canyon Haze",
+      "name": "You and Me On The Rock (In The Canyon Haze)",
       "url": "https://open.spotify.com/track/7tmtdHPAoUZLuJqTnDR7FS"
     },
     {

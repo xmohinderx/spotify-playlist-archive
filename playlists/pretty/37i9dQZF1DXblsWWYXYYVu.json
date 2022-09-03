@@ -1,13 +1,29 @@
 {
   "description": "Relax and take it slow today",
-  "num_followers": 67019,
+  "num_followers": 67002,
   "original_name": "Take it Slow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI3NjkyMCwwMDAwMDAwMDY4MzhmNmY1ZmVhMzk4ZDk3NGQ5MDFkZTRkN2EzMjNl",
+  "snapshot_id": "MTY2MjA5MTMyMCwwMDAwMDAwMDYyMzAzNTJiMTZiOGY5MGI3NDg2ZWRhYmI0YzA0Yzkz",
   "tracks": [
+    {
+      "added_at": "2022-09-02 04:02:00",
+      "album": {
+        "name": "You and Me On The Rock (In The Canyon Haze)",
+        "url": "https://open.spotify.com/album/22EMSIjfksTwA1yizWVXa6"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 257853,
+      "name": "You and Me On The Rock (In The Canyon Haze)",
+      "url": "https://open.spotify.com/track/7tmtdHPAoUZLuJqTnDR7FS"
+    },
     {
       "added_at": "2022-08-10 17:22:16",
       "album": {
@@ -23,6 +39,22 @@
       "duration_ms": 206000,
       "name": "Life Ain't Always Pretty",
       "url": "https://open.spotify.com/track/1BNvU8Mn5aHnq0SxBIUoV4"
+    },
+    {
+      "added_at": "2022-09-02 04:02:00",
+      "album": {
+        "name": "Quitting (The Way I Wrote It)",
+        "url": "https://open.spotify.com/album/3QFX3aPTIkkjZkEK2V4boI"
+      },
+      "artists": [
+        {
+          "name": "Ian McConnell",
+          "url": "https://open.spotify.com/artist/4cnccBVC82QHFHuOVxzqM1"
+        }
+      ],
+      "duration_ms": 152543,
+      "name": "Quitting (The Way I Wrote It)",
+      "url": "https://open.spotify.com/track/5MFD8psq13YEL9HdqTBGeJ"
     },
     {
       "added_at": "2022-08-12 04:02:00",
@@ -1347,22 +1379,6 @@
     {
       "added_at": "2021-04-19 17:11:28",
       "album": {
-        "name": "The Essence of Me",
-        "url": "https://open.spotify.com/album/3ld5yn7a5fLuaDDWpSp8ZG"
-      },
-      "artists": [
-        {
-          "name": "Raquel Cole",
-          "url": "https://open.spotify.com/artist/79d6Lyd8uQbZsCWtpnZqtF"
-        }
-      ],
-      "duration_ms": 199066,
-      "name": "Find the One",
-      "url": "https://open.spotify.com/track/4wQXTdCIapsqFASz3FfYE3"
-    },
-    {
-      "added_at": "2021-04-19 17:11:28",
-      "album": {
         "name": "Hindsight",
         "url": "https://open.spotify.com/album/0HohoNniglpDithTFEnqaW"
       },
@@ -1615,22 +1631,6 @@
       "duration_ms": 187671,
       "name": "A Few Days",
       "url": "https://open.spotify.com/track/7JFj0OKnXDafgLc7LNPl9w"
-    },
-    {
-      "added_at": "2021-04-19 17:11:28",
-      "album": {
-        "name": "For Who You Are",
-        "url": "https://open.spotify.com/album/5LX8mDeAJsTDLjI3DrT8NE"
-      },
-      "artists": [
-        {
-          "name": "Eric Lee",
-          "url": "https://open.spotify.com/artist/4YctQpJB8K4FYJwM03A6e5"
-        }
-      ],
-      "duration_ms": 212946,
-      "name": "For Who You Are",
-      "url": "https://open.spotify.com/track/66FzvLilvqQYeqGlJmNSnF"
     }
   ],
   "unique_name": "Take it Slow",

@@ -671,7 +671,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 248000,
       "name": "Counting Sheep",
       "url": "https://open.spotify.com/track/4Z1gZdDIGrnV7OvHdSyzJM"
@@ -4137,6 +4137,28 @@
       "duration_ms": 271922,
       "name": "We Don\u00b4t Need Another Hero",
       "url": "https://open.spotify.com/track/4RVQO4cSPaeek08d9cHLWt"
+    },
+    {
+      "album": {
+        "name": "What A Difference A Day Made",
+        "url": "https://open.spotify.com/album/4VrMjhLhsy4nvXqfX7xKe1"
+      },
+      "artists": [
+        {
+          "name": "Ola W Jansson",
+          "url": "https://open.spotify.com/artist/4hoFdBmz4b5NykkV0SCEVz"
+        },
+        {
+          "name": "W JAZZ TRIO",
+          "url": "https://open.spotify.com/artist/4nFofMNAntqM5p8Q4ha2YA"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163475,
+      "name": "What A Difference A Day Made",
+      "url": "https://open.spotify.com/track/7n8x83Z1a5q1Ct4eWCSDbU"
     },
     {
       "album": {

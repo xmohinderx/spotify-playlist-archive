@@ -2,7 +2,7 @@
 
 ### [+852 Rising](https://open.spotify.com/playlist/37i9dQZF1DX5JZ2TewQjUr)
 
-> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Alexmalism
+> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Eagle 陳天翺
 
 225 songs - 12 hr 57 min - [published](https://open.spotify.com/playlist/3cSFMATQHJw7Fzc2uC3LB1)
 

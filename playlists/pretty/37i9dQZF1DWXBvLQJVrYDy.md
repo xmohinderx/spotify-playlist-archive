@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBvLQJVrYDy.md) - [plain]
 
 ### [Gentle Jazz Saxophone](https://open.spotify.com/playlist/37i9dQZF1DWXBvLQJVrYDy)
 
-> Soft and cozy saxophone ballads to relax or focus.
+> Smooth and cozy saxophone ballads for relaxing or focus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 574 likes - 105 songs - 7 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 635 likes - 105 songs - 7 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBvLQJVrYDy.md) - [plain]
 | 104 | [Mirror Images](https://open.spotify.com/track/7owDJ8Pr9sF4YNIdb3yrrX) | [Ballroom Jazz Collective](https://open.spotify.com/artist/0i7Yh2vJ2r5pMEMUjgntGL) | [Mirror Images](https://open.spotify.com/album/0Vt5qVvs6LQLIHkikKawqg) | 3:57 |
 | 105 | [I´ll Be Around](https://open.spotify.com/track/4axKyMqOx8NIyGsfKBA7Cv) | [Andreas Gidlund](https://open.spotify.com/artist/1i1prvKQoU8d7eTrRHIMtO) | [I´ll Be Around](https://open.spotify.com/album/50XozG3HbIyUJWTJ9Fsoao) | 3:35 |
 
-Snapshot ID: `MTY2MjAxNTQwMiwwMDAwMDAwMDUyMmNkZGRiMzNiNmQ2NzhmNTE0MTQzNDAzZjI1MTli`
+Snapshot ID: `MTY2MjExMDAwNCwwMDAwMDAwMDk4YWJkZjdmYzljZWI3NzdhNWE1ZDMyNGRjYjQ3OTgw`

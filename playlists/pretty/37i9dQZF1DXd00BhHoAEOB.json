@@ -1,12 +1,12 @@
 {
   "description": "Planta de la bugambilia que me cubres y me matas. ",
-  "num_followers": 31505,
+  "num_followers": 31537,
   "original_name": "Bugambilias",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDQzMDgwMCwwMDAwMDAwMDBkYjZkMjllMWU4YjU5YmNlYmY2ZTRkYjg1Njc2YWNl",
+  "snapshot_id": "MTY1MDQzMDgwMCwwMDAwMDAwMDUzZDk0NDVlYjVkZDQzZjA0N2Y2MjFmMmY4ODAxNWMy",
   "tracks": [
     {
       "added_at": "2022-04-20 05:00:00",
@@ -371,6 +371,22 @@
     {
       "added_at": "2022-03-04 16:51:15",
       "album": {
+        "name": "D\u00e9jenme Llorar",
+        "url": "https://open.spotify.com/album/6BZkhYCGp75O2R4oX25nve"
+      },
+      "artists": [
+        {
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+        }
+      ],
+      "duration_ms": 241626,
+      "name": "Hasta la Piel",
+      "url": "https://open.spotify.com/track/5zu4MAEQblGCaTrbXtfpb8"
+    },
+    {
+      "added_at": "2022-03-04 16:51:15",
+      "album": {
         "name": "Luz V",
         "url": "https://open.spotify.com/album/495PNGzppo3wT27Em5Yy8o"
       },
@@ -403,22 +419,6 @@
       "duration_ms": 303532,
       "name": "Ll\u00e9vame en un Beso",
       "url": "https://open.spotify.com/track/2LyNql7yzPQ8cW4tpWFzVK"
-    },
-    {
-      "added_at": "2022-03-04 16:51:15",
-      "album": {
-        "name": "D\u00e9jenme Llorar",
-        "url": "https://open.spotify.com/album/6BZkhYCGp75O2R4oX25nve"
-      },
-      "artists": [
-        {
-          "name": "Carla Morrison",
-          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
-        }
-      ],
-      "duration_ms": 241626,
-      "name": "Hasta la Piel",
-      "url": "https://open.spotify.com/track/5zu4MAEQblGCaTrbXtfpb8"
     },
     {
       "added_at": "2022-03-04 16:51:15",
@@ -615,22 +615,6 @@
     {
       "added_at": "2022-03-04 16:51:15",
       "album": {
-        "name": "Omara Portuondo (Buena Vista Social Club Presents)",
-        "url": "https://open.spotify.com/album/49I0jh6YTRjT56eqZvR0fs"
-      },
-      "artists": [
-        {
-          "name": "Omara Portuondo",
-          "url": "https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy"
-        }
-      ],
-      "duration_ms": 223133,
-      "name": "\u00bfD\u00f3nde estabas t\u00fa?",
-      "url": "https://open.spotify.com/track/3mNKgwNiyOkGPWCo3jV1Ap"
-    },
-    {
-      "added_at": "2022-03-04 16:51:15",
-      "album": {
         "name": "Piel Canela",
         "url": "https://open.spotify.com/album/4LZIwHEvfRBNmEyT9rBduh"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 212500,
       "name": "Piel Canela",
       "url": "https://open.spotify.com/track/6giLMzQSzjxQ7T2kmRhlVb"
+    },
+    {
+      "added_at": "2022-03-04 16:51:15",
+      "album": {
+        "name": "Omara Portuondo (Buena Vista Social Club Presents)",
+        "url": "https://open.spotify.com/album/49I0jh6YTRjT56eqZvR0fs"
+      },
+      "artists": [
+        {
+          "name": "Omara Portuondo",
+          "url": "https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy"
+        }
+      ],
+      "duration_ms": 223133,
+      "name": "\u00bfD\u00f3nde estabas t\u00fa?",
+      "url": "https://open.spotify.com/track/3mNKgwNiyOkGPWCo3jV1Ap"
     },
     {
       "added_at": "2022-03-04 16:51:15",
@@ -771,18 +771,18 @@
     {
       "added_at": "2022-03-04 16:51:15",
       "album": {
-        "name": "Mis Amigos",
-        "url": "https://open.spotify.com/album/2lftV3fcZKJnVMHXwZyDGg"
+        "name": "Sensei",
+        "url": "https://open.spotify.com/album/4UmvMCp8mznPpqY65qKz5X"
       },
       "artists": [
         {
-          "name": "Los Rivera Destino",
-          "url": "https://open.spotify.com/artist/7LQaY9LGXHzoJY8DvwpSid"
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
         }
       ],
-      "duration_ms": 180569,
-      "name": "Mis Amigos",
-      "url": "https://open.spotify.com/track/78mspwUpeCM5W1AaA6ffiN"
+      "duration_ms": 174680,
+      "name": "Sensei",
+      "url": "https://open.spotify.com/track/2KZPFCkQWT7Wt6OS4bPaF6"
     },
     {
       "added_at": "2022-03-04 16:51:15",
@@ -823,18 +823,18 @@
     {
       "added_at": "2022-03-04 16:51:15",
       "album": {
-        "name": "Sensei",
-        "url": "https://open.spotify.com/album/4UmvMCp8mznPpqY65qKz5X"
+        "name": "Mis Amigos",
+        "url": "https://open.spotify.com/album/2lftV3fcZKJnVMHXwZyDGg"
       },
       "artists": [
         {
-          "name": "Caloncho",
-          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+          "name": "Los Rivera Destino",
+          "url": "https://open.spotify.com/artist/7LQaY9LGXHzoJY8DvwpSid"
         }
       ],
-      "duration_ms": 174680,
-      "name": "Sensei",
-      "url": "https://open.spotify.com/track/2KZPFCkQWT7Wt6OS4bPaF6"
+      "duration_ms": 180569,
+      "name": "Mis Amigos",
+      "url": "https://open.spotify.com/track/78mspwUpeCM5W1AaA6ffiN"
     },
     {
       "added_at": "2022-03-04 16:51:15",
@@ -1209,20 +1209,20 @@
       "url": "https://open.spotify.com/track/1uNBXMLgAC1mx1KH7reIG5"
     },
     {
-      "added_at": "2022-04-08 18:59:44",
+      "added_at": "2022-03-04 16:51:15",
       "album": {
-        "name": "Mabanzo",
-        "url": "https://open.spotify.com/album/27YMkY29ejf68IpDywP91w"
+        "name": "Ch\u00e9ni (Miedo)",
+        "url": "https://open.spotify.com/album/4flHvkwECB2pulBoyc9DJA"
       },
       "artists": [
         {
-          "name": "Juanita Euka",
-          "url": "https://open.spotify.com/artist/5a7zFB39QFXzf8amit9zJh"
+          "name": "La Bruja de Texcoco",
+          "url": "https://open.spotify.com/artist/7gnuQGVeNQv0QTjZ5QLHpu"
         }
       ],
-      "duration_ms": 291786,
-      "name": "Alma Seca",
-      "url": "https://open.spotify.com/track/0TjNcJLSuyWByX7IjYYYs9"
+      "duration_ms": 228400,
+      "name": "Ch\u00e9ni (Miedo)",
+      "url": "https://open.spotify.com/track/4spSLPqeKzT5oXPJBTetZt"
     },
     {
       "added_at": "2022-03-04 16:51:15",
@@ -1241,20 +1241,20 @@
       "url": "https://open.spotify.com/track/0anotjq0eIK4DsolmSaofp"
     },
     {
-      "added_at": "2022-03-04 16:51:15",
+      "added_at": "2022-04-08 18:59:44",
       "album": {
-        "name": "Ch\u00e9ni (Miedo)",
-        "url": "https://open.spotify.com/album/4flHvkwECB2pulBoyc9DJA"
+        "name": "Mabanzo",
+        "url": "https://open.spotify.com/album/27YMkY29ejf68IpDywP91w"
       },
       "artists": [
         {
-          "name": "La Bruja de Texcoco",
-          "url": "https://open.spotify.com/artist/7gnuQGVeNQv0QTjZ5QLHpu"
+          "name": "Juanita Euka",
+          "url": "https://open.spotify.com/artist/5a7zFB39QFXzf8amit9zJh"
         }
       ],
-      "duration_ms": 228400,
-      "name": "Ch\u00e9ni (Miedo)",
-      "url": "https://open.spotify.com/track/4spSLPqeKzT5oXPJBTetZt"
+      "duration_ms": 291786,
+      "name": "Alma Seca",
+      "url": "https://open.spotify.com/track/0TjNcJLSuyWByX7IjYYYs9"
     },
     {
       "added_at": "2022-03-04 16:51:15",
@@ -1343,38 +1343,6 @@
     {
       "added_at": "2022-03-04 16:51:15",
       "album": {
-        "name": "Madre",
-        "url": "https://open.spotify.com/album/15yeAN5L3PVuz0LkvOrwmL"
-      },
-      "artists": [
-        {
-          "name": "Alejandro y Maria Laura",
-          "url": "https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u"
-        }
-      ],
-      "duration_ms": 223921,
-      "name": "Lagrim\u00f3n",
-      "url": "https://open.spotify.com/track/2jXkchCKJP645dRwqohTLz"
-    },
-    {
-      "added_at": "2022-03-04 16:51:15",
-      "album": {
-        "name": "Bugambilia",
-        "url": "https://open.spotify.com/album/6B8eaSDz44DFsAwmgFWjaK"
-      },
-      "artists": [
-        {
-          "name": "Zuaraz",
-          "url": "https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch"
-        }
-      ],
-      "duration_ms": 187016,
-      "name": "La Can\u00edcula",
-      "url": "https://open.spotify.com/track/5ltGrLgjwhLk5o0yGP1WXL"
-    },
-    {
-      "added_at": "2022-03-04 16:51:15",
-      "album": {
         "name": "De Brujas, Peteneras y Chachalacas",
         "url": "https://open.spotify.com/album/1oqhkbPFH04GnzVwO3nFJX"
       },
@@ -1387,6 +1355,22 @@
       "duration_ms": 397520,
       "name": "T\u00e9 de Malv\u00f3n",
       "url": "https://open.spotify.com/track/3BYSoeWlqUgIwfY77C8VgE"
+    },
+    {
+      "added_at": "2022-03-04 16:51:15",
+      "album": {
+        "name": "Madre",
+        "url": "https://open.spotify.com/album/15yeAN5L3PVuz0LkvOrwmL"
+      },
+      "artists": [
+        {
+          "name": "Alejandro y Maria Laura",
+          "url": "https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u"
+        }
+      ],
+      "duration_ms": 223921,
+      "name": "Lagrim\u00f3n",
+      "url": "https://open.spotify.com/track/2jXkchCKJP645dRwqohTLz"
     },
     {
       "added_at": "2022-03-04 16:51:15",
@@ -1407,6 +1391,22 @@
       "duration_ms": 278626,
       "name": "Bodas de oro",
       "url": "https://open.spotify.com/track/4KOhE95xAsioxIVzpGCVgM"
+    },
+    {
+      "added_at": "2022-03-04 16:51:15",
+      "album": {
+        "name": "Bugambilia",
+        "url": "https://open.spotify.com/album/6B8eaSDz44DFsAwmgFWjaK"
+      },
+      "artists": [
+        {
+          "name": "Zuaraz",
+          "url": "https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch"
+        }
+      ],
+      "duration_ms": 187016,
+      "name": "La Can\u00edcula",
+      "url": "https://open.spotify.com/track/5ltGrLgjwhLk5o0yGP1WXL"
     },
     {
       "added_at": "2022-03-04 16:51:15",
@@ -1505,26 +1505,6 @@
       "url": "https://open.spotify.com/track/5FBiauPqHLjdm4pZLIEOg2"
     },
     {
-      "added_at": "2022-03-04 16:51:15",
-      "album": {
-        "name": "Apasionadamente",
-        "url": "https://open.spotify.com/album/2OQoV2aCykRNe95vvZC6Vl"
-      },
-      "artists": [
-        {
-          "name": "Mel Mu\u00f1iz",
-          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
-        },
-        {
-          "name": "Pehuenche",
-          "url": "https://open.spotify.com/artist/7oXCcD0gC5pmtZk0HIxOhk"
-        }
-      ],
-      "duration_ms": 180500,
-      "name": "Apasionadamente",
-      "url": "https://open.spotify.com/track/5j6tIKVYQm4IX34SWQGQoE"
-    },
-    {
       "added_at": "2022-04-08 18:59:44",
       "album": {
         "name": "No tenemos prisa",
@@ -1543,6 +1523,26 @@
       "duration_ms": 238847,
       "name": "Como una punzada",
       "url": "https://open.spotify.com/track/6gKaMK2pe6ZUCaypnnA9AM"
+    },
+    {
+      "added_at": "2022-03-04 16:51:15",
+      "album": {
+        "name": "Apasionadamente",
+        "url": "https://open.spotify.com/album/2OQoV2aCykRNe95vvZC6Vl"
+      },
+      "artists": [
+        {
+          "name": "Mel Mu\u00f1iz",
+          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
+        },
+        {
+          "name": "Pehuenche",
+          "url": "https://open.spotify.com/artist/7oXCcD0gC5pmtZk0HIxOhk"
+        }
+      ],
+      "duration_ms": 180500,
+      "name": "Apasionadamente",
+      "url": "https://open.spotify.com/track/5j6tIKVYQm4IX34SWQGQoE"
     },
     {
       "added_at": "2022-03-04 16:51:15",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2022-03-04 16:51:15",
       "album": {
-        "name": "Cascabel",
-        "url": "https://open.spotify.com/album/4LKr3W9nb0ZAU56TsKgye5"
-      },
-      "artists": [
-        {
-          "name": "Centeno",
-          "url": "https://open.spotify.com/artist/0SXDnCbgaeQMMXjXaspnUb"
-        }
-      ],
-      "duration_ms": 194999,
-      "name": "Cascabel",
-      "url": "https://open.spotify.com/track/7KMZLP9Ehk6rbFHs6F3QWR"
-    },
-    {
-      "added_at": "2022-03-04 16:51:15",
-      "album": {
         "name": "Sabor a Mar",
         "url": "https://open.spotify.com/album/5WfWuKkIHBJqcCogIQem9v"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 197862,
       "name": "Sabor a M\u00ed - Amuzgo",
       "url": "https://open.spotify.com/track/3Gdua3DERZXgZBaozvc9fb"
+    },
+    {
+      "added_at": "2022-03-04 16:51:15",
+      "album": {
+        "name": "Cascabel",
+        "url": "https://open.spotify.com/album/4LKr3W9nb0ZAU56TsKgye5"
+      },
+      "artists": [
+        {
+          "name": "Centeno",
+          "url": "https://open.spotify.com/artist/0SXDnCbgaeQMMXjXaspnUb"
+        }
+      ],
+      "duration_ms": 194999,
+      "name": "Cascabel",
+      "url": "https://open.spotify.com/track/7KMZLP9Ehk6rbFHs6F3QWR"
     },
     {
       "added_at": "2022-03-04 16:51:15",

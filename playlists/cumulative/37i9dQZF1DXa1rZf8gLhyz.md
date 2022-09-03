@@ -2,7 +2,7 @@
 
 ### [Jazz for Sleep](https://open.spotify.com/playlist/37i9dQZF1DXa1rZf8gLhyz)
 
-> Let these jazz tracks lull you to sleep.
+> Let these calm jazz tracks lull you to sleep.
 
 185 songs - 10 hr 46 min - [published](https://open.spotify.com/playlist/0Dm40xjOVgLrqCdWoo1pw0)
 

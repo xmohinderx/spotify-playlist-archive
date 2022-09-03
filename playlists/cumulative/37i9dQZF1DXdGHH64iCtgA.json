@@ -1642,6 +1642,24 @@
     },
     {
       "album": {
+        "name": "MADELINE",
+        "url": "https://open.spotify.com/album/5x9JJzj5K9J6IldkIMonXM"
+      },
+      "artists": [
+        {
+          "name": "INJI",
+          "url": "https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204791,
+      "name": "MADELINE",
+      "url": "https://open.spotify.com/track/04o27HjgqTVm8NwgEfOqRH"
+    },
+    {
+      "album": {
         "name": "Mount Everest",
         "url": "https://open.spotify.com/album/0nkyBztSulCRM2vlPR2GF1"
       },
@@ -2921,7 +2939,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 491652,
       "name": "White Lights",
       "url": "https://open.spotify.com/track/3beMeoozbBTrATGW5u4Emz"

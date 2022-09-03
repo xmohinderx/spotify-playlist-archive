@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvgjYSMUA0Z.md) - [plain]
 
 > Music to encourage emotional and physical healing through Reiki.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,622 likes - 106 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,661 likes - 106 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,10 +17,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvgjYSMUA0Z.md) - [plain]
 | 7 | [Hands of Love](https://open.spotify.com/track/5jhjteLUEdraJNZOWco1dN) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Koyasan: Reiki Sound Healing](https://open.spotify.com/album/2KqIIRnERVHqimzQSAZaRD) | 4:32 |
 | 8 | [It’s Never Too Late](https://open.spotify.com/track/5j7Jg9bruInMqk96DOCxjH) | [Lily Valley](https://open.spotify.com/artist/24fmge1nCy1ahvJV09fEN7) | [It’s Never Too Late](https://open.spotify.com/album/0NaMd9PrXKi9QU8Z05Em4v) | 3:00 |
 | 9 | [The Magical Forest](https://open.spotify.com/track/3vHmuBwbtMLwo0hfUyENAU) | [Garden of Lotus](https://open.spotify.com/artist/7I1z8LXW0jX3fyWx7h0PRs) | [History of a Legend](https://open.spotify.com/album/4e8l7QDGdpAHrCN4bJatXj) | 3:22 |
-| 10 | [Surrounding](https://open.spotify.com/track/7IW08v4Bnug7Tn7869gZp3) | [Lovisa Gulli](https://open.spotify.com/artist/58n0GT0HiGmwsB3cyH6Bfl) | [Surrounding](https://open.spotify.com/album/3qPDbOCPQSKh2OiuJOzWk9) | 3:24 |
-| 11 | [Water](https://open.spotify.com/track/5hZdB74Yjz7wty1aMVkBQU) | [Asha Ward](https://open.spotify.com/artist/2CvaBwhJi75nuaWjpB1IeV) | [Air Water Wind](https://open.spotify.com/album/7j7biPGl4BQfPBb1wPZlCs) | 2:12 |
-| 12 | [Chakra Healing](https://open.spotify.com/track/0uMK8rvIDTz9B1wakrMdkd) | [Makalu](https://open.spotify.com/artist/37iyLYETxVTFwmHXjVwlcj) | [Chakra Healing](https://open.spotify.com/album/2E53QAT0NpsO0QTzh1zwg9) | 4:13 |
-| 13 | [Recline](https://open.spotify.com/track/5sAIeiXf3O08GhLBb9sO9R) | [C\. Lindquist](https://open.spotify.com/artist/59yCLT7odiMwxirAZ4YZaw) | [Recline](https://open.spotify.com/album/6Whp4MggXtkjsGYWct0aGU) | 4:14 |
+| 10 | [Peaceful Garden](https://open.spotify.com/track/109Az5ZRvRYKE6UU9Rdnf0) | [Buddha's Lounge](https://open.spotify.com/artist/0DQtE70SlFZZkbNpCRaMHb) | [Peaceful Garden](https://open.spotify.com/album/26UPIsHGsD24Si9M186oYK) | 6:17 |
+| 11 | [Surrounding](https://open.spotify.com/track/7IW08v4Bnug7Tn7869gZp3) | [Lovisa Gulli](https://open.spotify.com/artist/58n0GT0HiGmwsB3cyH6Bfl) | [Surrounding](https://open.spotify.com/album/3qPDbOCPQSKh2OiuJOzWk9) | 3:24 |
+| 12 | [Water](https://open.spotify.com/track/5hZdB74Yjz7wty1aMVkBQU) | [Asha Ward](https://open.spotify.com/artist/2CvaBwhJi75nuaWjpB1IeV) | [Air Water Wind](https://open.spotify.com/album/7j7biPGl4BQfPBb1wPZlCs) | 2:12 |
+| 13 | [Chakra Healing](https://open.spotify.com/track/0uMK8rvIDTz9B1wakrMdkd) | [Makalu](https://open.spotify.com/artist/37iyLYETxVTFwmHXjVwlcj) | [Chakra Healing](https://open.spotify.com/album/2E53QAT0NpsO0QTzh1zwg9) | 4:13 |
 | 14 | [Vollmond im Herbst \(Full Moon in Autumn\)](https://open.spotify.com/track/7I42dEHbS8rKpu19tkQQ2A) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Mysterium](https://open.spotify.com/album/10YHfrv4zqC7WjpeEF445V) | 5:36 |
 | 15 | [Bright Lights](https://open.spotify.com/track/652msrYYe7mj1JnHTCEpVh) | [Ashtanga](https://open.spotify.com/artist/5G1Q1LkBEWL6WLWjbDHoTe) | [Bright Lights](https://open.spotify.com/album/03hxhv179JxuT0J98k5djH) | 2:46 |
 | 16 | [Voice Healing](https://open.spotify.com/track/0kaXyVNzFEfBqkXW5dOC6m) | [Johan Davidsson](https://open.spotify.com/artist/0i70m6QJcItJ6uOmxZwuWi) | [Voice Healing](https://open.spotify.com/album/7xYSAwu51DTDeaB5qStm0N) | 6:18 |
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvgjYSMUA0Z.md) - [plain]
 | 105 | [Agape](https://open.spotify.com/track/1RM8shXinDriSL1trnsh9H) | [Voyage Control](https://open.spotify.com/artist/2ZxdgHyc8cnGVXvUgaApbc) | [Agape](https://open.spotify.com/album/4Il0ZsUVa4e3qTivFLbqeV) | 3:23 |
 | 106 | [The Source of Life](https://open.spotify.com/track/7lsw1FcjPgrfFt2enr4Gcf) | [Florence Sunday](https://open.spotify.com/artist/4KjQulEjM6UKCV5nJMp4Jc) | [The Source of Life](https://open.spotify.com/album/5VrZDu1NZf4AL6U5CHHGbz) | 3:05 |
 
-Snapshot ID: `MTY2MDU4NzkxOCwwMDAwMDAwMDE5ZDYxOTA1NzBkYzg3MDRmYmU0ZmQwNDg4NjU1OTVk`
+Snapshot ID: `MTY2MjEyNDEzMSwwMDAwMDAwMGU5MDYwY2I4NzhjNjMxZjE1ZDljMjlmYWIwMzg1YWZm`

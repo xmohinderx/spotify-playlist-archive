@@ -4,7 +4,7 @@
 
 > Son jóvenes, guerreras y cool\. Foto: Delfina Campos
 
-430 songs - 1 day 0 hr 59 min - [published](https://open.spotify.com/playlist/3HX8jFotLiNc9gbpMw8vKv)
+431 songs - 1 day 1 hr 2 min - [published](https://open.spotify.com/playlist/3HX8jFotLiNc9gbpMw8vKv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -261,6 +261,7 @@
 | [Musa introvertida](https://open.spotify.com/track/7mH6ndKQtl7Pk7VaNwBfxt) | [Sofía Paola](https://open.spotify.com/artist/6gC5HmMueMdiRY3rGtkrKx) | [Limbo Habitual, Vol\. I](https://open.spotify.com/album/4Moq6bYqlcEmQ4VFwg4A01) | 3:35 | 2022-01-21 | 2022-07-28 |
 | [Muñequita Linda](https://open.spotify.com/track/6jGAAW47TMyEzouHsl4YEn) | [Najwa](https://open.spotify.com/artist/7dp8dR96gWncIypef8kTnS) | [AMA](https://open.spotify.com/album/4jfzDg1g67lwmVYemdoVPd) | 3:01 | 2022-01-14 |  |
 | [Nabundearé](https://open.spotify.com/track/35TRct8Yqqmy0XUPg8UFbn) | [Nicole Bunout](https://open.spotify.com/artist/5jyOjqLd2YRArrVlguvv4F) | [Crisálida](https://open.spotify.com/album/6SnUm6EI8bn6uFV7p2LIIR) | 2:55 | 2022-01-14 | 2022-08-11 |
+| [Nabundearé](https://open.spotify.com/track/53qZjbmjh3d3nbzxEzKOkF) | [Nicole Bunout](https://open.spotify.com/artist/5jyOjqLd2YRArrVlguvv4F) | [Crisálida](https://open.spotify.com/album/76XYjBKZrBuAj50Vyxpiur) | 2:55 | 2022-09-02 |  |
 | [Nada](https://open.spotify.com/track/3jtScBEbsSCwtHX0Vgcps4) | [AnaLu](https://open.spotify.com/artist/4jdzNnXPIXGaJEU06L5b8F), [Lorena Blume](https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W) | [Nada](https://open.spotify.com/album/50nxmSkAJM5mEmqwjVfp0a) | 3:47 | 2022-01-21 | 2022-07-22 |
 | [Nada](https://open.spotify.com/track/3ZN8ok1idMxc5AFOUs4uim) | [Anastasia Amarante](https://open.spotify.com/artist/6b3WWqGeBBkcnO1YcFE304) | [Nada](https://open.spotify.com/album/3VGRzWSNxAghWIE998mES2) | 3:11 | 2022-04-01 | 2022-04-29 |
 | [Nada](https://open.spotify.com/track/0IqrBjsS2wToMuIJgZjur7) | [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3), [Li Saumet](https://open.spotify.com/artist/1hYzHxIYlfYgHXN9DVZaNw) | [Nada](https://open.spotify.com/album/6uvd9g2I5M3x6EaKusdJDK) | 4:58 | 2022-01-14 |  |
@@ -272,7 +273,7 @@
 | [No Azara](https://open.spotify.com/track/4uIOcEPajm9DLUVZJnLFOO) | [La Muchacha](https://open.spotify.com/artist/74IAICxWfYBsjabuEbKQXV) | [No Azara](https://open.spotify.com/album/5UiqNGN6vSO7QRHosfbdHQ) | 3:56 | 2022-01-14 |  |
 | [No Está Tan Mal](https://open.spotify.com/track/5E9y8BNSVhY3CyCrUDmMeI) | [Jazmín Mazzuchelli](https://open.spotify.com/artist/0ZiRsCKLvcfyDQwbMYgAhm), [JUD](https://open.spotify.com/artist/2nsbsMDYDShTn9qi96XNDB) | [No Está Tan Mal](https://open.spotify.com/album/1lecsZUQgeiZKJ0ySteHKn) | 3:05 | 2022-04-01 | 2022-06-19 |
 | [No Preguntes](https://open.spotify.com/track/2fCZieAMbaaj76IRwEgOfS) | [Rodra](https://open.spotify.com/artist/2kobUsQpUoViHFQI2Se4TQ) | [Al Humo](https://open.spotify.com/album/4fgNWfFYTXoxkIadmc5ook) | 2:50 | 2022-02-11 | 2022-04-21 |
-| [No quería venir](https://open.spotify.com/track/6FsVhGbphT7UNIylFhgbwt) | [INE](https://open.spotify.com/artist/6ipS4LV3wt9uKWEm8q6gcB) | [No quería venir](https://open.spotify.com/album/3qHx3Gmu3Yez34wkzKCwSb) | 3:33 | 2022-06-03 |  |
+| [No quería venir](https://open.spotify.com/track/6FsVhGbphT7UNIylFhgbwt) | [INE](https://open.spotify.com/artist/6ipS4LV3wt9uKWEm8q6gcB) | [No quería venir](https://open.spotify.com/album/3qHx3Gmu3Yez34wkzKCwSb) | 3:33 | 2022-06-03 | 2022-09-03 |
 | [No Sentir Nada](https://open.spotify.com/track/5G7rYoZVdKckqoxU8HeEPb) | [Mariana Michi](https://open.spotify.com/artist/31eAzxn0H5U0iAzTokpYBR) | [No Sentir Nada](https://open.spotify.com/album/1LiWH8PyGt4qh97xGOQYxo) | 3:53 | 2022-02-11 | 2022-07-25 |
 | [No sé qué tienes](https://open.spotify.com/track/1s8QRwM3pW5ekIUKwlHsxo) | [Ire](https://open.spotify.com/artist/4ysRrzj3LSYDIhtty6ErKI) | [No sé qué tienes](https://open.spotify.com/album/11yf5SY78sbU0KlhflFv50) | 2:54 | 2022-01-21 |  |
 | [No Te Perdono](https://open.spotify.com/track/6VCtOmBEoVZ1vMVS7HBY4C) | [MUGRE](https://open.spotify.com/artist/2mJNVPV7WxtrVrPSddTW6V) | [No Te Perdono](https://open.spotify.com/album/5xp6MOD8RdA1KQsR1qSXN0) | 3:23 | 2022-01-14 | 2022-07-29 |

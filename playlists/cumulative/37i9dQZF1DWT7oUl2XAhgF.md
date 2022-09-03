@@ -4,7 +4,7 @@
 
 > A new take on a classic sound\. Cover: Thee Sacred Souls
 
-175 songs - 10 hr 50 min - [published](https://open.spotify.com/playlist/19AFs6pZ8WyCXnrxjl6M3m)
+176 songs - 10 hr 53 min - [published](https://open.spotify.com/playlist/19AFs6pZ8WyCXnrxjl6M3m)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Hard Up](https://open.spotify.com/track/2PdrcHhYBZdzP4yhkgpuhw) | [The Bamboos](https://open.spotify.com/artist/1QVWN3ebl1dVgVbMgQPG8K) | [Hard Up \(Deluxe Version\)](https://open.spotify.com/album/3C5Dlf8RweGoTH4p2M0ISo) | 4:15 | 2021-07-09 |  |
 | [Hard Up](https://open.spotify.com/track/2rs00HEFJT0yg1NC64JWpS) | [The Bamboos](https://open.spotify.com/artist/1QVWN3ebl1dVgVbMgQPG8K) | [Hard Up](https://open.spotify.com/album/22UwgOvqggRpQcmkEPLvUl) | 4:15 | 2021-07-09 | 2022-07-29 |
 | [Hear Me](https://open.spotify.com/track/1tWiKJTUfH5DjDrJT9P00l) | [The Buttshakers](https://open.spotify.com/artist/2FNblbLTuqK1YeCEE9YWLJ) | [Arcadia](https://open.spotify.com/album/3bjM3xf0u6r9NE15RUJnuv) | 2:36 | 2021-11-05 |  |
+| [Hear Me Singing \(na Na Na Na Na Na Na Na\)](https://open.spotify.com/track/19vDhiyfEiDossnoDkDgKA) | [Dawn Brothers](https://open.spotify.com/artist/05vyC7M8P5Wr120O1yTv6a), [DeWolff](https://open.spotify.com/artist/1OHnmln4huMiBLyxBHNx0k) | [Double Cream](https://open.spotify.com/album/6QOMBBhNPQUGSbLDLKIoVN) | 3:17 | 2022-09-02 |  |
 | [Heat Wave](https://open.spotify.com/track/7gkwA9D1GqsbecFEfLR1ka) | [Motel Radio](https://open.spotify.com/artist/69tXKp8pHBX6ZoVMkNdvt7) | [Heat Wave](https://open.spotify.com/album/757XmHJA5ltYC7lX4oazsP) | 3:49 | 2022-05-13 | 2022-07-21 |
 | [Here We Are \- Instrumental](https://open.spotify.com/track/3ADmuMKzCBkdrI7eJ50Hg0) | [Dojo Cuts](https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL), [Carlton Jumel Smith](https://open.spotify.com/artist/0jbXsyUAMmaJHGgF8g8HZy) | [Here We Are](https://open.spotify.com/album/2oqrXHW02bBgBJIMvb6tKL) | 3:02 | 2022-05-06 | 2022-07-29 |
 | [hey rose](https://open.spotify.com/track/6J4et4u2ECB9AH2QC9B5tg) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [aloha](https://open.spotify.com/album/3rioHzbE7RDGbgxzg9uFNd) | 2:55 | 2021-12-03 |  |
@@ -123,7 +124,7 @@
 | [Ordinary Lives](https://open.spotify.com/track/4MU7yhKkOpVVDCWfxTGfxk) | [Lee Fields](https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0) | [Ordinary Lives](https://open.spotify.com/album/0z87IQzrtDMve4JMe8LZjO) | 3:16 | 2022-01-21 | 2022-07-29 |
 | [Our Love \(from the series Arcane League of Legends\)](https://open.spotify.com/track/0OFSdfkFF5wLszOz0csftu) | [Curtis Harding](https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3), [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Arcane League of Legends \(Soundtrack from the Animated Series\)](https://open.spotify.com/album/3MdiH74FL8mhlbnR6DcqJd) | 3:38 | 2021-12-13 |  |
 | [Paddle to the Stars](https://open.spotify.com/track/74TtehL8KqCN6dvTX6uiRi) | [The Dip](https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn) | [Paddle to the Stars](https://open.spotify.com/album/4BXAPfbjgQM0JEHopQKkFU) | 2:36 | 2021-11-05 | 2022-07-29 |
-| [Pelvis Pusher](https://open.spotify.com/track/6bo1ykqKEAYsdwVtR1ze8x) | [Vintage Trouble](https://open.spotify.com/artist/72Pauuctba5lMzC89R0Vk0) | [Pelvis Pusher](https://open.spotify.com/album/1bmrKIWcFwqW6PwAe5EnI8) | 3:07 | 2021-07-09 |  |
+| [Pelvis Pusher](https://open.spotify.com/track/6bo1ykqKEAYsdwVtR1ze8x) | [Vintage Trouble](https://open.spotify.com/artist/72Pauuctba5lMzC89R0Vk0) | [Pelvis Pusher](https://open.spotify.com/album/1bmrKIWcFwqW6PwAe5EnI8) | 3:07 | 2021-07-09 | 2022-09-03 |
 | [Piece of Me](https://open.spotify.com/track/5CbcqhKsBbiOsjdkh5Hsea) | [Lady Wray](https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy) | [Piece of Me](https://open.spotify.com/album/76yrGYfxRIv1FnVU01IhdS) | 3:42 | 2021-07-09 | 2022-07-29 |
 | [Piece Of Me](https://open.spotify.com/track/63hmrFUS4mvbiWzFP9u2LK) | [Lady Wray](https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy) | [Piece of Me](https://open.spotify.com/album/6YZfQdeTTIIkPUEAFmXvMB) | 3:44 | 2021-07-09 |  |
 | [Prism](https://open.spotify.com/track/4Sqnq8upurWk6ZS4zOVZvC) | [Say She She](https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC) | [Prism](https://open.spotify.com/album/6AUK6GoEdBjMN8P1YDJz3F) | 3:52 | 2022-08-26 |  |

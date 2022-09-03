@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-21",
-  "description": "Estas son las indomables del Regional Mexicano. Janely Rosa en portada.",
+  "description": "Estas son las indomables del Regional Mexicano. Cheli Madrid en portada.",
   "name": "Mujeres Brav\u00edas",
   "published_playlist_ids": [
     "0i8T7w20lOXAWefxMbsjZ0"
@@ -23,6 +23,24 @@
       "duration_ms": 198080,
       "name": "200 COPAS",
       "url": "https://open.spotify.com/track/5IiyU0TCHJXuD8GDOfh5ST"
+    },
+    {
+      "album": {
+        "name": "Esencia",
+        "url": "https://open.spotify.com/album/1zwouzqra6ZrjRg9qkk1gL"
+      },
+      "artists": [
+        {
+          "name": "Erika Vidrio",
+          "url": "https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "40 Y 21",
+      "url": "https://open.spotify.com/track/3bPCfYzKsnzhT4YYcYC0lq"
     },
     {
       "album": {
@@ -313,7 +331,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 156320,
       "name": "Ay Qu\u00e9 Pena",
       "url": "https://open.spotify.com/track/5MK1eRhpOSJ0PRfoyTXHVV"
@@ -519,7 +537,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 258026,
       "name": "Cielo Rojo - En Vivo Desde Pa\u2019l Norte",
       "url": "https://open.spotify.com/track/4oEEJNX2pRZGS9AYhHPATV"
@@ -1614,6 +1632,24 @@
     },
     {
       "album": {
+        "name": "Le Cale A Quien Le Cale",
+        "url": "https://open.spotify.com/album/39KCoeSQExkWfgYx4UuvQn"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152768,
+      "name": "Le Cale A Quien Le Cale",
+      "url": "https://open.spotify.com/track/2nhM06RQQ8uY8s0JdCBKod"
+    },
+    {
+      "album": {
         "name": "Loca De Amar",
         "url": "https://open.spotify.com/album/2eyl66bHPrqMjjTfzLxHt3"
       },
@@ -1629,6 +1665,24 @@
       "duration_ms": 275893,
       "name": "Lo Busqu\u00e9",
       "url": "https://open.spotify.com/track/7ceiXwNZ2DwNIJ54tsJwRY"
+    },
+    {
+      "album": {
+        "name": "Lo de Anoche",
+        "url": "https://open.spotify.com/album/4ik5ysg5eOb1CfL7FMdbFL"
+      },
+      "artists": [
+        {
+          "name": "Cheli Madrid",
+          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187750,
+      "name": "Lo de Anoche",
+      "url": "https://open.spotify.com/track/2dZAF8kwSjlkYASXpHN2OU"
     },
     {
       "album": {
@@ -1719,7 +1773,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 166933,
       "name": "Mala Racha",
       "url": "https://open.spotify.com/track/3Skq5ppANsqiSN6H6JAp3C"
@@ -1839,6 +1893,24 @@
     {
       "album": {
         "name": "Me Vale",
+        "url": "https://open.spotify.com/album/2AB0FCPBg9G7pbHoQIhDZX"
+      },
+      "artists": [
+        {
+          "name": "Karla Cruise",
+          "url": "https://open.spotify.com/artist/1lDvMKVfuYM3tO8iAIlYrs"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167966,
+      "name": "Me Vale",
+      "url": "https://open.spotify.com/track/1oUmSARy0Baw05S8G1Er55"
+    },
+    {
+      "album": {
+        "name": "Me Vale",
         "url": "https://open.spotify.com/album/65gyP6lTxC1JcRWQSiX7nj"
       },
       "artists": [
@@ -1849,7 +1921,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 181466,
       "name": "Me Vale",
       "url": "https://open.spotify.com/track/0JVgORYQZm05UVmrHs4DXN"
@@ -2343,7 +2415,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 197253,
       "name": "No Voy A Llorar",
       "url": "https://open.spotify.com/track/3v6f1Bn9Pyz6NkI2ISINPt"
@@ -2379,7 +2451,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 186626,
       "name": "Ojal\u00e1 Que No Puedas",
       "url": "https://open.spotify.com/track/2KtO9NfY8sY3gJyEKdUhFr"
@@ -2441,6 +2513,24 @@
       "duration_ms": 188458,
       "name": "Pa Todo el An\u0303o",
       "url": "https://open.spotify.com/track/0uf7n9tUDhsj6f8ioS0WQm"
+    },
+    {
+      "album": {
+        "name": "Pa' Dentro",
+        "url": "https://open.spotify.com/album/1KuZ2S6sbJF1BE3Uw70ncW"
+      },
+      "artists": [
+        {
+          "name": "Lupita Infante",
+          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152160,
+      "name": "Pa' Dentro - Versi\u00f3n Banda",
+      "url": "https://open.spotify.com/track/10Uc1hSwdM9RG9zMbIeJSz"
     },
     {
       "album": {
@@ -3080,6 +3170,24 @@
     },
     {
       "album": {
+        "name": "Se Disfraz\u00f3",
+        "url": "https://open.spotify.com/album/0e90dEopSeHMvkBdWB2nX8"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206383,
+      "name": "Se Disfraz\u00f3",
+      "url": "https://open.spotify.com/track/3Z33YVoP5VK4lLjwDR8Yb7"
+    },
+    {
+      "album": {
         "name": "Se Me Va A Quemar El Coraz\u00f3n",
         "url": "https://open.spotify.com/album/3GCJk2I7oqa1WTKtaGv9ya"
       },
@@ -3514,6 +3622,24 @@
     },
     {
       "album": {
+        "name": "Besos",
+        "url": "https://open.spotify.com/album/5fGqMJB9ima0bVAMn1gWy9"
+      },
+      "artists": [
+        {
+          "name": "Irany & David",
+          "url": "https://open.spotify.com/artist/0D9IxwuqUWlytmoPOvurIo"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146964,
+      "name": "Un Bello Error",
+      "url": "https://open.spotify.com/track/2UnJ3cvIcKYUApiGPuI53A"
+    },
+    {
+      "album": {
         "name": "Un D\u00eda 27",
         "url": "https://open.spotify.com/album/3zqkIKpyXUSx3RVwZVS4GU"
       },
@@ -3619,6 +3745,24 @@
       "duration_ms": 168840,
       "name": "Vete Mucho a Donde Quieras",
       "url": "https://open.spotify.com/track/6JifnN1etuBesf7VHbyntA"
+    },
+    {
+      "album": {
+        "name": "Vida Prestada",
+        "url": "https://open.spotify.com/album/7agDaMTnaNFNi819B4pSaK"
+      },
+      "artists": [
+        {
+          "name": "Janeth Valenzuela",
+          "url": "https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194739,
+      "name": "Vida Prestada",
+      "url": "https://open.spotify.com/track/14oT5LTQiYKZIb1kk6lJMM"
     },
     {
       "album": {
@@ -3781,7 +3925,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 223883,
       "name": "Ya No Me Importa",
       "url": "https://open.spotify.com/track/12rkhRzMY5uTZHviXYyBRf"
@@ -3817,7 +3961,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 101680,
       "name": "Ya Viv\u00ed El Desamor",
       "url": "https://open.spotify.com/track/5SZcsfj451HOgs3GYxOHgj"

@@ -1,12 +1,12 @@
 {
   "description": "Celebrate Women's History Month with these powerful voices. Cover: Greeicy",
-  "num_followers": 18791,
+  "num_followers": 18829,
   "original_name": "Women of Latin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODQ3NzQyMywwMDAwMDAwMDZmMGY1ODM0YjFhM2I4NmNhYjQ2MWYwOWY0NDZkMzRh",
+  "snapshot_id": "MTY0ODQ3NzQyMywwMDAwMDAwMGQ5YjIwYjFkNmI5N2U5OGIwYWVlYmRkZGQ5NjUyZjE2",
   "tracks": [
     {
       "added_at": "2022-03-28 14:23:43",
@@ -379,22 +379,6 @@
     {
       "added_at": "2022-03-28 14:23:43",
       "album": {
-        "name": "Para La Eternidad",
-        "url": "https://open.spotify.com/album/2MSP1JG7KflqYqAHtk7wlB"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        }
-      ],
-      "duration_ms": 278866,
-      "name": "La Vida Es Un Carnaval",
-      "url": "https://open.spotify.com/track/1BwrMGGhPA6GarWIYaFrW8"
-    },
-    {
-      "added_at": "2022-03-28 14:23:43",
-      "album": {
         "name": "HA-ASH Primera Fila - Hecho Realidad",
         "url": "https://open.spotify.com/album/2RCKVV7j5dZax3YZHfG0QM"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 226986,
       "name": "Perd\u00f3n, Perd\u00f3n - HA-ASH Primera Fila - Hecho Realidad [En Vivo]",
       "url": "https://open.spotify.com/track/15Hx1oi6C3AxYhhvolqrJG"
+    },
+    {
+      "added_at": "2022-03-28 14:23:43",
+      "album": {
+        "name": "Para La Eternidad",
+        "url": "https://open.spotify.com/album/2MSP1JG7KflqYqAHtk7wlB"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 278866,
+      "name": "La Vida Es Un Carnaval",
+      "url": "https://open.spotify.com/track/1BwrMGGhPA6GarWIYaFrW8"
     },
     {
       "added_at": "2022-03-28 14:23:43",
@@ -431,22 +431,6 @@
     {
       "added_at": "2022-03-28 14:23:43",
       "album": {
-        "name": "On The 6",
-        "url": "https://open.spotify.com/album/3Gby5NNeNYkMgAnrtEA3lc"
-      },
-      "artists": [
-        {
-          "name": "Jennifer Lopez",
-          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
-        }
-      ],
-      "duration_ms": 239400,
-      "name": "Let's Get Loud",
-      "url": "https://open.spotify.com/track/42nSaPdT6g3ZIMHmKLlP2p"
-    },
-    {
-      "added_at": "2022-03-28 14:23:43",
-      "album": {
         "name": "Valiente",
         "url": "https://open.spotify.com/album/2vcyOtFtWOYuQ6j4AH2FIG"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 217653,
       "name": "No Me Acuerdo",
       "url": "https://open.spotify.com/track/1G586ld1gbaECg4Bc6w40O"
+    },
+    {
+      "added_at": "2022-03-28 14:23:43",
+      "album": {
+        "name": "On The 6",
+        "url": "https://open.spotify.com/album/3Gby5NNeNYkMgAnrtEA3lc"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        }
+      ],
+      "duration_ms": 239400,
+      "name": "Let's Get Loud",
+      "url": "https://open.spotify.com/track/42nSaPdT6g3ZIMHmKLlP2p"
     },
     {
       "added_at": "2022-03-28 14:23:43",
@@ -579,6 +579,38 @@
     {
       "added_at": "2022-03-28 14:23:43",
       "album": {
+        "name": "D\u00e9jenme Llorar",
+        "url": "https://open.spotify.com/album/6BZkhYCGp75O2R4oX25nve"
+      },
+      "artists": [
+        {
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+        }
+      ],
+      "duration_ms": 228253,
+      "name": "Eres T\u00fa",
+      "url": "https://open.spotify.com/track/75zvC8d4iozawMJvxt8T1f"
+    },
+    {
+      "added_at": "2022-03-28 14:23:43",
+      "album": {
+        "name": "Eres Diamante",
+        "url": "https://open.spotify.com/album/6phS5YYVMKIpCKeymOdL7v"
+      },
+      "artists": [
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        }
+      ],
+      "duration_ms": 240295,
+      "name": "Ojos Noche",
+      "url": "https://open.spotify.com/track/6ltxt8idwnKPqZ5wmTEkpV"
+    },
+    {
+      "added_at": "2022-03-28 14:23:43",
+      "album": {
         "name": "T\u00fa",
         "url": "https://open.spotify.com/album/41OfyTxfB3ou95Ib24VlV2"
       },
@@ -611,22 +643,6 @@
     {
       "added_at": "2022-03-28 14:23:43",
       "album": {
-        "name": "Eres Diamante",
-        "url": "https://open.spotify.com/album/6phS5YYVMKIpCKeymOdL7v"
-      },
-      "artists": [
-        {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
-        }
-      ],
-      "duration_ms": 240295,
-      "name": "Ojos Noche",
-      "url": "https://open.spotify.com/track/6ltxt8idwnKPqZ5wmTEkpV"
-    },
-    {
-      "added_at": "2022-03-28 14:23:43",
-      "album": {
         "name": "Antes De Ti",
         "url": "https://open.spotify.com/album/0r2OaEU4I8vfWw4hALciVN"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 242240,
       "name": "Antes De Ti",
       "url": "https://open.spotify.com/track/5IkOnAKGDJT5M8KpFIHzsd"
-    },
-    {
-      "added_at": "2022-03-28 14:23:43",
-      "album": {
-        "name": "D\u00e9jenme Llorar",
-        "url": "https://open.spotify.com/album/6BZkhYCGp75O2R4oX25nve"
-      },
-      "artists": [
-        {
-          "name": "Carla Morrison",
-          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
-        }
-      ],
-      "duration_ms": 228253,
-      "name": "Eres T\u00fa",
-      "url": "https://open.spotify.com/track/75zvC8d4iozawMJvxt8T1f"
     },
     {
       "added_at": "2022-03-28 14:23:43",
@@ -775,6 +775,30 @@
     {
       "added_at": "2022-03-28 14:23:43",
       "album": {
+        "name": "R.I.P. (feat. Rita Ora & Anitta)",
+        "url": "https://open.spotify.com/album/2yN1kxrx1Z1CHO5VMdO2Yk"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        },
+        {
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 187200,
+      "name": "R.I.P. (feat. Rita Ora & Anitta)",
+      "url": "https://open.spotify.com/track/6JqpFboOH2bq9pzaYbkKBn"
+    },
+    {
+      "added_at": "2022-03-28 14:23:43",
+      "album": {
         "name": "Pa Mis Muchachas (feat. Nathy Peluso)",
         "url": "https://open.spotify.com/album/0WtOyuBYge9gx7X8MpCeeW"
       },
@@ -799,30 +823,6 @@
       "duration_ms": 216737,
       "name": "Pa Mis Muchachas (feat. Nathy Peluso)",
       "url": "https://open.spotify.com/track/1kGhjFgl6A68ZAYvtw2UDK"
-    },
-    {
-      "added_at": "2022-03-28 14:23:43",
-      "album": {
-        "name": "R.I.P. (feat. Rita Ora & Anitta)",
-        "url": "https://open.spotify.com/album/2yN1kxrx1Z1CHO5VMdO2Yk"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        },
-        {
-          "name": "Rita Ora",
-          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
-        },
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 187200,
-      "name": "R.I.P. (feat. Rita Ora & Anitta)",
-      "url": "https://open.spotify.com/track/6JqpFboOH2bq9pzaYbkKBn"
     },
     {
       "added_at": "2022-03-28 14:23:43",
@@ -911,26 +911,6 @@
     {
       "added_at": "2022-03-28 14:23:43",
       "album": {
-        "name": "Santo",
-        "url": "https://open.spotify.com/album/4M6KWDyo4wi2wY9rxpV9RC"
-      },
-      "artists": [
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 183414,
-      "name": "Santo",
-      "url": "https://open.spotify.com/track/2M6IDHdaSAyt7FcJcptHjj"
-    },
-    {
-      "added_at": "2022-03-28 14:23:43",
-      "album": {
         "name": "Ella (Remix De Ellas)",
         "url": "https://open.spotify.com/album/1S3W5Bf9guhX9p3m8DG1Oe"
       },
@@ -971,22 +951,6 @@
     {
       "added_at": "2022-03-28 14:23:43",
       "album": {
-        "name": "Ag\u00fcita e Coco",
-        "url": "https://open.spotify.com/album/7tmpf27P7FaqCfHVk7YkDk"
-      },
-      "artists": [
-        {
-          "name": "Kany Garc\u00eda",
-          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
-        }
-      ],
-      "duration_ms": 176759,
-      "name": "Ag\u00fcita e Coco",
-      "url": "https://open.spotify.com/track/34T7iPVVZcOoIThh32RJDi"
-    },
-    {
-      "added_at": "2022-03-28 14:23:43",
-      "album": {
         "name": "Normal",
         "url": "https://open.spotify.com/album/5Qkxw86wtQYlK2dEjTJcSP"
       },
@@ -1003,6 +967,42 @@
       "duration_ms": 173226,
       "name": "Taxi",
       "url": "https://open.spotify.com/track/3U73C3VYVAeMjvxOizh5Ad"
+    },
+    {
+      "added_at": "2022-03-28 14:23:43",
+      "album": {
+        "name": "Santo",
+        "url": "https://open.spotify.com/album/4M6KWDyo4wi2wY9rxpV9RC"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 183414,
+      "name": "Santo",
+      "url": "https://open.spotify.com/track/2M6IDHdaSAyt7FcJcptHjj"
+    },
+    {
+      "added_at": "2022-03-28 14:23:43",
+      "album": {
+        "name": "Ag\u00fcita e Coco",
+        "url": "https://open.spotify.com/album/7tmpf27P7FaqCfHVk7YkDk"
+      },
+      "artists": [
+        {
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+        }
+      ],
+      "duration_ms": 176759,
+      "name": "Ag\u00fcita e Coco",
+      "url": "https://open.spotify.com/track/34T7iPVVZcOoIThh32RJDi"
     },
     {
       "added_at": "2022-03-28 14:23:43",
@@ -1979,22 +1979,6 @@
     {
       "added_at": "2022-03-28 14:23:43",
       "album": {
-        "name": "Lo Que Yo Diga",
-        "url": "https://open.spotify.com/album/5bFC6O53uKjv2iVtDtkIq4"
-      },
-      "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        }
-      ],
-      "duration_ms": 152656,
-      "name": "Lo Que Yo Diga",
-      "url": "https://open.spotify.com/track/2z73UZLP42AKB1xFtdvDCB"
-    },
-    {
-      "added_at": "2022-03-28 14:23:43",
-      "album": {
         "name": "Extranjera",
         "url": "https://open.spotify.com/album/4nw8mW9zWzm6mtD0UXeqJK"
       },
@@ -2007,6 +1991,22 @@
       "duration_ms": 208000,
       "name": "Extranjera",
       "url": "https://open.spotify.com/track/2mffDxSjRPov1vMXTPGy9i"
+    },
+    {
+      "added_at": "2022-03-28 14:23:43",
+      "album": {
+        "name": "Lo Que Yo Diga",
+        "url": "https://open.spotify.com/album/5bFC6O53uKjv2iVtDtkIq4"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "duration_ms": 152656,
+      "name": "Lo Que Yo Diga",
+      "url": "https://open.spotify.com/track/2z73UZLP42AKB1xFtdvDCB"
     },
     {
       "added_at": "2022-03-28 14:23:43",
@@ -2171,22 +2171,6 @@
     {
       "added_at": "2022-03-28 14:23:43",
       "album": {
-        "name": "En Letra de Otro",
-        "url": "https://open.spotify.com/album/7FF6VL4ExrnHjnKAnFgZ4E"
-      },
-      "artists": [
-        {
-          "name": "Goyo",
-          "url": "https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX"
-        }
-      ],
-      "duration_ms": 138626,
-      "name": "Na Na Na",
-      "url": "https://open.spotify.com/track/2Jir9NKPpn83SZodIOXYKz"
-    },
-    {
-      "added_at": "2022-03-28 14:23:43",
-      "album": {
         "name": "Insecure",
         "url": "https://open.spotify.com/album/2S32rMqgkDur5hStJolwg6"
       },
@@ -2203,6 +2187,22 @@
     {
       "added_at": "2022-03-28 14:23:43",
       "album": {
+        "name": "En Letra de Otro",
+        "url": "https://open.spotify.com/album/7FF6VL4ExrnHjnKAnFgZ4E"
+      },
+      "artists": [
+        {
+          "name": "Goyo",
+          "url": "https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX"
+        }
+      ],
+      "duration_ms": 138626,
+      "name": "Na Na Na",
+      "url": "https://open.spotify.com/track/2Jir9NKPpn83SZodIOXYKz"
+    },
+    {
+      "added_at": "2022-03-28 14:23:43",
+      "album": {
         "name": "Almadura",
         "url": "https://open.spotify.com/album/5ggXegN9GWgNOSS83gZHGT"
       },
@@ -2215,6 +2215,26 @@
       "duration_ms": 195810,
       "name": "Odio",
       "url": "https://open.spotify.com/track/7ss9oVoeAgsvNPhn5DyeQh"
+    },
+    {
+      "added_at": "2022-03-28 14:23:43",
+      "album": {
+        "name": "Ticket De Salida",
+        "url": "https://open.spotify.com/album/4rzbH6FLHISy07kILLO5Hr"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        },
+        {
+          "name": "Amandititita",
+          "url": "https://open.spotify.com/artist/1zvDryyqbfBiK0SojGrndv"
+        }
+      ],
+      "duration_ms": 184520,
+      "name": "Ticket De Salida",
+      "url": "https://open.spotify.com/track/01ONRpkfIIAiavWJVY03AH"
     },
     {
       "added_at": "2022-03-28 14:23:43",
@@ -2239,26 +2259,6 @@
       "duration_ms": 180000,
       "name": "Restart",
       "url": "https://open.spotify.com/track/6lPzHeMLBsSF7CeeEC9eVp"
-    },
-    {
-      "added_at": "2022-03-28 14:23:43",
-      "album": {
-        "name": "Ticket De Salida",
-        "url": "https://open.spotify.com/album/4rzbH6FLHISy07kILLO5Hr"
-      },
-      "artists": [
-        {
-          "name": "Chiquis",
-          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
-        },
-        {
-          "name": "Amandititita",
-          "url": "https://open.spotify.com/artist/1zvDryyqbfBiK0SojGrndv"
-        }
-      ],
-      "duration_ms": 184520,
-      "name": "Ticket De Salida",
-      "url": "https://open.spotify.com/track/01ONRpkfIIAiavWJVY03AH"
     },
     {
       "added_at": "2022-03-28 14:23:43",

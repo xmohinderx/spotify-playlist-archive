@@ -4,7 +4,7 @@
 
 > Instrumental beats to boost your weight lifting workout.
 
-154 songs - 7 hr 5 min - [published](https://open.spotify.com/playlist/6VwdykSTPFgJcfQcjE3Tsi)
+156 songs - 7 hr 10 min - [published](https://open.spotify.com/playlist/6VwdykSTPFgJcfQcjE3Tsi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Club404 \- Remix](https://open.spotify.com/track/6vNJcvgnEQMXsvfwG5RDc8) | [Ebytra](https://open.spotify.com/artist/2IRYEhwiuITvRyXfPbYDBZ) | [Dead & Alive](https://open.spotify.com/album/3L6yqVORgRpJJVidUwjm9U) | 2:43 | 2022-08-05 | 2022-08-17 |
 | [Composure](https://open.spotify.com/track/4C4sN0TViLk3P2htA7tPC2) | [Leytonstoned](https://open.spotify.com/artist/6ZbJZBtFBl9YHooEmEBe0m) | [Composure](https://open.spotify.com/album/3jIkn3PQdzq1sLoz82R7ub) | 1:48 | 2021-11-11 |  |
 | [Criminal](https://open.spotify.com/track/76zhOrQn8dhBnyFTeteLaJ) | [DJ M](https://open.spotify.com/artist/3P5DeQSZXl547HcStiUkoY) | [Criminal](https://open.spotify.com/album/30pgaBfjKpz1GZpcwNhyum) | 2:17 | 2022-07-15 |  |
+| [Destroyer](https://open.spotify.com/track/3wdsSODAZAaWz3QwABi8tb) | [Cushy](https://open.spotify.com/artist/6L1Baujfn33sG3PXou8n1q), [Ballpoint](https://open.spotify.com/artist/5vbgY6zVUKz1haJv618QvC) | [Destroyer](https://open.spotify.com/album/0uGHL52MiHrXs37iIqsTJ7) | 2:59 | 2022-09-02 |  |
 | [Distorcido](https://open.spotify.com/track/1veEROQqh83r67W1gthulY) | [I Mps I](https://open.spotify.com/artist/0i44Z70SJWehRFJQJOAm36) | [Mps Ii](https://open.spotify.com/album/2ITKfOcwympjJyTPV5AnJ7) | 1:18 | 2021-11-11 |  |
 | [DO YOU HAVE THE DRUGS](https://open.spotify.com/track/2TrTDkj7cHjME50RaEZ3iZ) | [SLVG](https://open.spotify.com/artist/779QJkvhTmrxtUGaMo8QbK), [Grimmjøw](https://open.spotify.com/artist/7uzsn9U6OTLBagyn5sQSnL) | [DELUSIONS III](https://open.spotify.com/album/3f4QMkLNvMJ7mYloBZtJBD) | 3:50 | 2022-07-29 |  |
 | [Edén](https://open.spotify.com/track/5HPE8nk9CE58K5sRuw6GY6) | [Nerso & Verse](https://open.spotify.com/artist/1jRF8rcj4TMuVQR9PWnpFm) | [Edén](https://open.spotify.com/album/3CoNv5qTB6GN0EzLbzweGK) | 3:35 | 2022-04-08 |  |
@@ -107,6 +108,7 @@
 | [Ransomware](https://open.spotify.com/track/0Xq3MbT0WU19vw6n3kw9CU) | [Toby Tranter](https://open.spotify.com/artist/6jQ21P9GEZfQf4aOMoTYDj) | [Ransomware / Missed Out](https://open.spotify.com/album/5kwTPu2nX7XlMfU6NlwkG6) | 2:43 | 2022-07-15 |  |
 | [Respect Me](https://open.spotify.com/track/5lq2h9XA6dzKM567SVXuWR) | [Toby Tranter](https://open.spotify.com/artist/6jQ21P9GEZfQf4aOMoTYDj) | [Call Me A Cab](https://open.spotify.com/album/5OYvzMi4M9wW3NMQXOcdXe) | 2:58 | 2021-11-11 |  |
 | [Reverse Spell](https://open.spotify.com/track/2pKWTPdKUWgRam6kmRG8Em) | [Takek](https://open.spotify.com/artist/0g5pLf3taXGdGznIGtm01k) | [Reverse Spell](https://open.spotify.com/album/0HQzJaw6UxOjgfRhUSCUdp) | 3:11 | 2022-07-01 |  |
+| [Ritual](https://open.spotify.com/track/3uDWsAoVlvzaNz0JdTRKvv) | [Alx Beats](https://open.spotify.com/artist/5n8XW4GI0uT3sHgwUOUapx) | [Ritual](https://open.spotify.com/album/0TPakPFzZk4JJDjIU4MLSG) | 1:58 | 2022-09-02 |  |
 | [Roddy](https://open.spotify.com/track/0BfTbisZxX8U0sly9fA5CW) | [Treyon Dubs](https://open.spotify.com/artist/4pI8EDlzNqCOIndxbX5RFo) | [Roddy](https://open.spotify.com/album/4h1XpHRfiBXd3pdnWI5tuZ) | 2:22 | 2021-11-11 |  |
 | [Rooftop](https://open.spotify.com/track/6849JqU4mi9w90w8pQABt9) | [Prashant!](https://open.spotify.com/artist/4CjSeBGPPvu2DXCVdN8gK2) | [Vol\. \#002](https://open.spotify.com/album/3klKcK3sSrrynypVWQsa7P) | 2:17 | 2021-11-11 |  |
 | [Royal](https://open.spotify.com/track/0yzK5lKI284QwESdd8ieVc) | [trabbey](https://open.spotify.com/artist/3njIliuv3ugKzuNZgEOZ6s) | [Royal](https://open.spotify.com/album/02X9P2VUWUlXLBhWVZlJDt) | 1:49 | 2022-05-20 |  |

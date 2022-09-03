@@ -2,9 +2,9 @@
 
 ### [Grade A](https://open.spotify.com/playlist/37i9dQZF1DWT59aKliWtId)
 
-> A quality alternative blend\. Cover: Ashe
+> A quality alternative blend\. Cover: Rayland Baxter
 
-464 songs - 1 day 4 hr 20 min - [published](https://open.spotify.com/playlist/5atRHR4vc4jlkDH31Rwpnd)
+469 songs - 1 day 4 hr 42 min - [published](https://open.spotify.com/playlist/5atRHR4vc4jlkDH31Rwpnd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [As Innocent Looking As Candy](https://open.spotify.com/track/1UZxXSDDaOABCoYhpi4BCJ) | [Night Moves](https://open.spotify.com/artist/6Pled8lBAODAviS574l1Q4) | [The Redaction](https://open.spotify.com/album/7s8s81xhb27Y13HQLx20be) | 1:59 | 2022-07-22 | 2022-08-20 |
 | [As It Was](https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [As It Was](https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8) | 2:47 | 2022-04-08 | 2022-08-20 |
 | [Atomized](https://open.spotify.com/track/0vSOiAgMIduuVfloqlaf2t) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [Atomized](https://open.spotify.com/album/057lK6W2g5aC8x8gtvtkII) | 4:45 | 2022-03-18 | 2022-04-23 |
+| [Automatic](https://open.spotify.com/track/3TbdbnsJ7MRhyqayI7s17O) | [Motel Radio](https://open.spotify.com/artist/69tXKp8pHBX6ZoVMkNdvt7) | [The Garden](https://open.spotify.com/album/0mqEfZEXRTGAqGSAhn9RkK) | 4:23 | 2022-09-02 |  |
 | [Autopilot](https://open.spotify.com/track/3MY1eRB3cQ3GBomJtXpPNL) | [Allison Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [Autopilot](https://open.spotify.com/album/4VKCiFy5sziSZJkpBfhN1f) | 3:20 | 2022-04-08 | 2022-07-16 |
 | [B\-Side](https://open.spotify.com/track/0Hm61sSVBycsO5Se5mbKdu) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [B\-Side](https://open.spotify.com/album/0JxSewL4a7vp10TzeQVDvo) | 4:34 | 2021-12-10 | 2022-05-14 |
 | [Baby Don't Cry](https://open.spotify.com/track/0fq4yVxkZbu59JiCe5zeFZ) | [Sunflower Bean](https://open.spotify.com/artist/1xVcjJ5YsYOClO2Unt3Rm8) | [Baby Don't Cry](https://open.spotify.com/album/6MYBlQZe66fp8R7npEl9xZ) | 3:57 | 2021-12-10 | 2022-02-05 |
@@ -119,6 +120,7 @@
 | [Every Shade of Blue](https://open.spotify.com/track/1cKWyEiGWLXAUTz6jI1d7c) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Every Shade of Blue](https://open.spotify.com/album/4ee1hU8IWOpRMN7GNjZ4Nf) | 3:33 | 2022-01-21 | 2022-02-12 |
 | [Everybody \(feat\. Jenny Lewis\)](https://open.spotify.com/track/4kUTA4ftbqY5uZHJzm0wCL) | [The Cactus Blossoms](https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S), [Jenny Lewis](https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED) | [Everybody \(feat\. Jenny Lewis\)](https://open.spotify.com/album/2UJQBQGLVhmnt8qVIVZshO) | 2:58 | 2022-01-07 | 2022-03-05 |
 | [Everybody's Birthday](https://open.spotify.com/track/6E10YI1UfAcoW7gIgCv1v6) | [Hana Vu](https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO) | [Public Storage](https://open.spotify.com/album/31NBYL6BkDpHgYK7cWl32S) | 2:48 | 2022-01-14 | 2022-04-09 |
+| [Everybody's Cool](https://open.spotify.com/track/5HUxswbr7V4fzwG1LGCf7U) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Keep On Smiling](https://open.spotify.com/album/0SbaC7OZOVB2WKGzf9ZMSQ) | 4:22 | 2022-09-02 |  |
 | [Everything](https://open.spotify.com/track/3tQXwwGZOYrz6xbl7e7yZg) | [Hovvdy](https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C) | [Everything](https://open.spotify.com/album/0OvSbzmj1pyI5z4PNNFnDA) | 3:17 | 2022-03-18 | 2022-05-14 |
 | [Everything Is Simple](https://open.spotify.com/track/3W9LUDqaup6AK5uoozN7Wh) | [Widowspeak](https://open.spotify.com/artist/5ZW7HlSuZz8ng2X21cXbdP) | [Everything Is Simple](https://open.spotify.com/album/7na0XY52XbzkAhIvTygfxt) | 4:19 | 2022-01-07 | 2022-06-25 |
 | [Everything's Electric](https://open.spotify.com/track/63JU4kHsgytIKkSM4tedme) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9) | [Everything's Electric](https://open.spotify.com/album/2Dqayfhl6Eow6nsHBXTXM3) | 3:36 | 2022-02-04 | 2022-03-12 |
@@ -196,9 +198,10 @@
 | [I Know](https://open.spotify.com/track/6rYnkkiwRDrJlNnkV1jc0R) | [Jonathan Terrell](https://open.spotify.com/artist/2SQQDXpVix78q2nKkks3E3) | [I Know](https://open.spotify.com/album/26Y1K8zcHQ47LUM53dlie5) | 4:14 | 2022-06-24 | 2022-08-13 |
 | [I NEED YOU](https://open.spotify.com/track/0RDUnNaGubiseI1W9T3YTf) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [WE ARE](https://open.spotify.com/album/6kHFkPvL2X3rZPuS3CEMUE) | 2:37 | 2022-04-05 | 2022-07-09 |
 | [I Was Born To Love You](https://open.spotify.com/track/3PG6V5yuFfo4APiovOQoRv) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj), [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [I Was Born To Love You](https://open.spotify.com/album/7cwHkTgTHLbCUFB6hRi9QQ) | 4:25 | 2022-04-08 |  |
-| [I Was Neon](https://open.spotify.com/track/790lYlUNxJzwyUkEBkcGb7) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [I Was Neon](https://open.spotify.com/album/1AqDTVzqtJDMciqllUWWbm) | 4:02 | 2022-06-17 |  |
+| [I Was Neon](https://open.spotify.com/track/790lYlUNxJzwyUkEBkcGb7) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [I Was Neon](https://open.spotify.com/album/1AqDTVzqtJDMciqllUWWbm) | 4:02 | 2022-06-17 | 2022-09-03 |
 | [I'm a Man](https://open.spotify.com/track/0x0BAh5h0ttabkoiWcv3Wo) | [Michelle Branch](https://open.spotify.com/artist/5rScKX1Sh1U67meeUyTGwk) | [I'm a Man](https://open.spotify.com/album/5quvKWbQnbnOLhRrQmt1Gn) | 3:01 | 2022-07-15 |  |
 | [If I Die Tomorrow](https://open.spotify.com/track/0VKpmchcyKYQ1ZalAKnfhT) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [If I Die Tomorrow](https://open.spotify.com/album/1c5GxvnVBWZQsTEODrZqpQ) | 2:59 | 2022-06-10 | 2022-08-27 |
+| [If I Were A Butterfly \- Single Version](https://open.spotify.com/track/6inkWeYbXK6IuhCALR379j) | [Rayland Baxter](https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq) | [If I Were A Butterfly](https://open.spotify.com/album/5zF48gx3TWHg2Mi8nFrtpn) | 5:11 | 2022-09-02 |  |
 | [If You Were Me](https://open.spotify.com/track/2MCwBbYNrpT0RTDIrOPHoE) | [Deanna Petcoff](https://open.spotify.com/artist/40wJiyTgK3egckAlDOp1ea) | [If You Were Me](https://open.spotify.com/album/7MmxPEfTJp1ZiHkbjVcLCR) | 3:45 | 2022-03-18 | 2022-04-09 |
 | [In Color](https://open.spotify.com/track/30QqxbN8pdgumVt5cqL0x2) | [My Morning Jacket](https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM) | [My Morning Jacket](https://open.spotify.com/album/3L8hsIkIH21xMPiRjalZmH) | 7:20 | 2022-03-11 | 2022-04-09 |
 | [In My Head](https://open.spotify.com/track/06RESLziavoi6gBcXJnvXF) | [Michigander](https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu), [Manchester Orchestra](https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f) | [In My Head](https://open.spotify.com/album/2cCZOwzwsyLDCEdaPVcBPm) | 3:15 | 2022-04-08 | 2022-07-16 |
@@ -411,6 +414,7 @@
 | [The Weakness in Me](https://open.spotify.com/track/1cAKZih7f5kzaBDYPfCbdj) | [Flock of Dimes](https://open.spotify.com/artist/1TTfuOdEtj8lin2zR4OWmP) | [Head of Roses: Phantom Limb](https://open.spotify.com/album/05X6RWZJ0lmYUPjpkM8rZH) | 3:42 | 2022-04-15 | 2022-05-20 |
 | [The Wire](https://open.spotify.com/track/0UrtLwXYnDIAtHtUDmGe4V) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [The Wire](https://open.spotify.com/album/41UFnVR8Qb8NqBxvhteQrh) | 3:06 | 2021-12-10 | 2022-01-15 |
 | [There's A Moon On](https://open.spotify.com/track/7075wZ2Rmp2NSCsO4RjkPm) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [There's A Moon On](https://open.spotify.com/album/68fbHjtzq0wZR0tuhsZU7u) | 2:50 | 2022-06-10 | 2022-07-16 |
+| [There’d Better Be A Mirrorball](https://open.spotify.com/track/0yowbJnnbTLpr99f9l1uba) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [There’d Better Be A Mirrorball](https://open.spotify.com/album/0ZUmodAwUq8cQJFvyibKwT) | 4:25 | 2022-09-02 |  |
 | [These Are The Days](https://open.spotify.com/track/6fyCVdU5lJT9ErO9QicFWC) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [These Are The Days](https://open.spotify.com/album/2cP0n7ZCTCH4MDgirIWZmz) | 3:42 | 2022-06-10 | 2022-08-06 |
 | [Thinking Of Nina](https://open.spotify.com/track/0RuAxLY0kcwKu2r2LK3Hej) | [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [Thinking Of Nina](https://open.spotify.com/album/4HMmeChxjWsAgqXozzytkR) | 3:16 | 2022-07-22 |  |
 | [Thinking Of Nina](https://open.spotify.com/track/29gkgCwkQdU1OrqAkSNxpC) | [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [Thinking Of Nina](https://open.spotify.com/album/6OIGPi1ShcRlf3CYwFkV7m) | 3:16 | 2022-06-17 | 2022-07-29 |
@@ -470,6 +474,7 @@
 | [Yellow](https://open.spotify.com/track/3AsPDfysPpXHXm8JK85F3W) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Yellow](https://open.spotify.com/album/46x6iizcB1N1WdwHO7EO7e) | 3:48 | 2022-07-15 |  |
 | [You and Me On The Rock \(feat\. Lucius\)](https://open.spotify.com/track/61X73CJcpwGIxgQgKEXbw0) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej), [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [In These Silent Days](https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f) | 3:50 | 2021-12-10 |  |
 | [You Will Never Work In Television Again](https://open.spotify.com/track/2Aa4sRrWDddEmVRfAjVjsw) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [You Will Never Work In Television Again](https://open.spotify.com/album/0b897zzLyDXXpXAZxfAeK5) | 2:48 | 2022-01-07 | 2022-03-26 |
+| [Youngblood](https://open.spotify.com/track/11jCHa5pshglw7YHSmoDYm) | [Jonathan Jeremiah](https://open.spotify.com/artist/2TdWlAJcUHu32O3Yld3rsU) | [Youngblood](https://open.spotify.com/album/5tDG6ZFXWVigQfyuQ8FdsY) | 3:34 | 2022-09-02 |  |
 | [Your Other Life](https://open.spotify.com/track/4sWZVIOHuTrQOt6mqzMiBE) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Long Lost \(Deluxe Edition\)](https://open.spotify.com/album/6yEdJA4H2O4VOi4pk14GdS) | 4:40 | 2022-05-27 | 2022-07-16 |
 | [Zum Herz](https://open.spotify.com/track/3w0F6bkQdev902vrCxDHe4) | [Guerilla Toss](https://open.spotify.com/artist/2PlLrStX2yK6CzyRi3TKnO), [NEU!](https://open.spotify.com/artist/2CqEOngQOOMstJupNn6Hmf) | [Zum Herz](https://open.spotify.com/album/0miVSp8X4tYSuxINhZRyO8) | 4:18 | 2022-08-12 |  |
 

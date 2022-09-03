@@ -4,7 +4,7 @@
 
 > Great food, good company and some soft music.
 
-407 songs - 1 day 1 hr 31 min - [published](https://open.spotify.com/playlist/1Dge1FHASpXA6Hu1SnM8w8)
+408 songs - 1 day 1 hr 35 min - [published](https://open.spotify.com/playlist/1Dge1FHASpXA6Hu1SnM8w8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Be Alright](https://open.spotify.com/track/3EPXxR3ImUwfayaurPi3cm) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Be Alright](https://open.spotify.com/album/0YZLXTaHLcgl5UdtKDiUXD) | 3:16 | 2022-07-08 |  |
 | [Be Something](https://open.spotify.com/track/5fyhNy0XC0JjVBXBrODuk5) | [Memi](https://open.spotify.com/artist/31izqGyZa2M6cgBAkNQ4kt), [Staffan Carlén](https://open.spotify.com/artist/1KBpWE9XJDISBwQ0PKkf0g) | [For The Little Things](https://open.spotify.com/album/4xuADOa4tPDmW3t8pQtMRN) | 3:22 | 2022-01-27 | 2022-07-29 |
 | [Beautiful](https://open.spotify.com/track/3TCauNPqFiniaYHBvEVoHG) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Stripped](https://open.spotify.com/album/2USigX9DhGuAini71XZEEK) | 3:58 | 2022-01-27 |  |
+| [Before I Go](https://open.spotify.com/track/6k9s52t7GyxRA4mNDERlwH) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Before I Go](https://open.spotify.com/album/1t8UZRcZbRmtDjH6a0tD9S) | 3:07 | 2022-09-02 |  |
 | [Before I Go](https://open.spotify.com/track/3q4PyKrOXN7TR1JZmdHXzK) | [Tim Qualls](https://open.spotify.com/artist/12J7rAVoeFIUNkRelq5zw8) | [Before I Go](https://open.spotify.com/album/3ezPKT7pWBH4mgAUJcVUQS) | 3:43 | 2022-05-02 | 2022-07-25 |
 | [Best Part of Me \(feat\. YEBBA\)](https://open.spotify.com/track/5ug4vqGZ3eisGhY1IsziNX) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Best Part of Me \(feat\. YEBBA\)](https://open.spotify.com/album/6Z5DhADmyybfKNdymaPLjB) | 4:03 | 2022-01-27 | 2022-07-29 |
 | [Better Together](https://open.spotify.com/track/2iXdwVdzA0KrI2Q0iZNJbX) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [In Between Dreams](https://open.spotify.com/album/2B9q4KPjOEYu885Keo9dfX) | 3:27 | 2022-01-27 | 2022-07-29 |
@@ -211,7 +212,7 @@
 | [Li'l Darlin](https://open.spotify.com/track/39CPeGjg70L1qtXzdJmKmU) | [Monica Borrfors](https://open.spotify.com/artist/6kQLrF8BwbKymqwvCJJzLb) | [Li'l Darlin](https://open.spotify.com/album/1Vsqz9ExEorZDUJ7Zw72m9) | 3:15 | 2022-01-27 | 2022-07-29 |
 | [Long Way Down](https://open.spotify.com/track/5sdliaZjk3rVGuT13UVhxn) | [Joshua Hyslop](https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu) | [Echos](https://open.spotify.com/album/6NEBdOy6auSHbdeC3jB4hQ) | 4:17 | 2022-07-08 |  |
 | [Long Way Down](https://open.spotify.com/track/25Caem6cbUveFkgPSXtGXe) | [Joshua Hyslop](https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu) | [Echos](https://open.spotify.com/album/5IxfsBZbu9tnPQRgTjwOyc) | 4:17 | 2022-01-27 | 2022-07-29 |
-| [Lost](https://open.spotify.com/track/1hiheFL9zaexJXxhQ4cAZA) | [Noak Hellsing](https://open.spotify.com/artist/47WlUGFrUj1hDhjzX1l6nc) | [Lost](https://open.spotify.com/album/3GeI3Jh2eRhwBnFOkFYUdO) | 2:49 | 2022-08-19 |  |
+| [Lost](https://open.spotify.com/track/1hiheFL9zaexJXxhQ4cAZA) | [Noak Hellsing](https://open.spotify.com/artist/47WlUGFrUj1hDhjzX1l6nc) | [Lost](https://open.spotify.com/album/3GeI3Jh2eRhwBnFOkFYUdO) | 2:49 | 2022-08-19 | 2022-09-03 |
 | [Lost](https://open.spotify.com/track/6dexp1WYGzQWDr8DA8yDHG) | [Noak Hellsing](https://open.spotify.com/artist/47WlUGFrUj1hDhjzX1l6nc) | [Lost](https://open.spotify.com/album/1mam9hcxnLjCGkt8ovWija) | 2:49 | 2022-01-27 | 2022-07-31 |
 | [Lost In A Blue Note](https://open.spotify.com/track/29dFStdDNJHdgGPhwyKdbB) | [April Barrows](https://open.spotify.com/artist/49Pr1w34iIV8qlIcnsLdwQ) | [My Dream is You](https://open.spotify.com/album/26ACa71xPjvov8cZ4Rai52) | 4:24 | 2022-01-27 | 2022-07-10 |
 | [Lost Without U](https://open.spotify.com/track/4V2F0DZrAXOWq9hkwMMG3x) | [Robin Thicke](https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP) | [The Evolution of Robin Thicke](https://open.spotify.com/album/55ErdDg54WTAEySb0r7yzb) | 4:14 | 2022-07-08 |  |

@@ -4,7 +4,7 @@
 
 > A relaxing atmosphere of jazz piano sounds.
 
-302 songs - 20 hr 27 min - [published](https://open.spotify.com/playlist/4rBgcgd1OSYR929BKpPyA1)
+304 songs - 20 hr 34 min - [published](https://open.spotify.com/playlist/4rBgcgd1OSYR929BKpPyA1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,7 +138,7 @@
 | [In the Wee Small Hours of the Morning](https://open.spotify.com/track/6GqdOl9kasXJdzfcUboF1a) | [Grayville Trio](https://open.spotify.com/artist/6ll13Y20dnndy8mAuF9tgk) | [In the Wee Small Hours of the Morning](https://open.spotify.com/album/7cxKG7mTCE6hmI3t1SsJvk) | 4:30 | 2020-10-20\* | 2022-07-27 |
 | [In Thoughtful](https://open.spotify.com/track/4xaWsmSgkCOXOaxEF0ofjy) | [MEGTARO](https://open.spotify.com/artist/3o3JLHE1KQzNc2wh46UiNI) | [Newselves](https://open.spotify.com/album/3HJTUfUEzmkCHyGqSPEf24) | 4:02 | 2020-10-20\* | 2022-09-02 |
 | [Infant Eyes](https://open.spotify.com/track/4PEO2xAMctCKn1D7ocUR8S) | [Alexis Cohen](https://open.spotify.com/artist/6oEEfYQspfp3tgt5X20ok1) | [It Might as Well Be Spring](https://open.spotify.com/album/5QhyU13nEI1rWgjXfuQEmW) | 4:33 | 2020-10-20\* | 2022-08-12 |
-| [Isfahan](https://open.spotify.com/track/3qHkojTMHvL6CduADwqsLk) | [Francis Frost Duo](https://open.spotify.com/artist/5fDbSIxXEyyfVMYMq3fIur) | [Isfahan](https://open.spotify.com/album/6c2oXnuik7GmOD1TIRwyS2) | 4:08 | 2021-01-07 |  |
+| [Isfahan](https://open.spotify.com/track/3qHkojTMHvL6CduADwqsLk) | [Francis Frost Duo](https://open.spotify.com/artist/5fDbSIxXEyyfVMYMq3fIur) | [Isfahan](https://open.spotify.com/album/6c2oXnuik7GmOD1TIRwyS2) | 4:08 | 2021-01-07 | 2022-09-03 |
 | [It Could Happen To You](https://open.spotify.com/track/3JSz6DZZBRSLhIr4LMIkDD) | [Danny Walgreen](https://open.spotify.com/artist/5wLYued1hgW5dBLySxqoF5) | [It Could Happen To You](https://open.spotify.com/album/1ehoJKWcjUnHtLVseVCAmS) | 3:28 | 2020-10-20\* | 2021-01-21 |
 | [It Might As Well Be Spring](https://open.spotify.com/track/62sqdTmnNpWcJtxtJXmKzy) | [Mark Roswell Trio](https://open.spotify.com/artist/5LyofWLANV5qojc0VHqh6i) | [It Might As Well Be Spring](https://open.spotify.com/album/0FMeAHDC7zwcktJQ3KUzGw) | 4:35 | 2021-06-04 |  |
 | [It Never Entered My Mind](https://open.spotify.com/track/55C4kway5euJFyKBafRgrP) | [Billy Childs](https://open.spotify.com/artist/2DalOaFXdbHCB4cyMJhQtR) | [Acceptance](https://open.spotify.com/album/3dtXMJBjEBZ5qvV6HmVMzB) | 5:12 | 2020-10-20\* | 2020-11-05 |
@@ -189,7 +189,7 @@
 | [My Foolish Heart](https://open.spotify.com/track/1tNqV5MzAOOkuFT2VkmYVo) | [The Sunday Duo](https://open.spotify.com/artist/454oiwevZw5pjE66lYi9Zn) | [My Foolish Heart](https://open.spotify.com/album/412It4VvdQT3AdofM6xjt8) | 4:49 | 2020-10-20\* | 2021-01-21 |
 | [My Funny Valentine](https://open.spotify.com/track/2A6qg2En98HEsRYEOk51fi) | [Donald Minestra](https://open.spotify.com/artist/4Vp3eoDbOl901ITzOwanhB) | [My Funny Valentine](https://open.spotify.com/album/0MhVtAsuAec2fIiiX7XBHB) | 2:49 | 2020-11-05 | 2021-01-21 |
 | [My Ideal](https://open.spotify.com/track/5B5k3kiDwwpK7hArxRIvJX) | [Charlie Neil Band](https://open.spotify.com/artist/5oSchkmb8iheVxObVtQ4eO) | [Love for Sale](https://open.spotify.com/album/6J86v7X1Qf6Pn6zUe6Ygwj) | 5:23 | 2020-10-20\* | 2020-11-18 |
-| [My Ideal](https://open.spotify.com/track/5rYHuAsiH4jUhhuIsad72T) | [Danny Rose Trio](https://open.spotify.com/artist/4MrD9E3RmznlHm61i4LmKA) | [My Ideal](https://open.spotify.com/album/2nXNqoNYN14eGLYLuPb1QG) | 3:52 | 2020-10-20\* |  |
+| [My Ideal](https://open.spotify.com/track/5rYHuAsiH4jUhhuIsad72T) | [Danny Rose Trio](https://open.spotify.com/artist/4MrD9E3RmznlHm61i4LmKA) | [My Ideal](https://open.spotify.com/album/2nXNqoNYN14eGLYLuPb1QG) | 3:52 | 2020-10-20\* | 2022-09-03 |
 | [My One and Only Love](https://open.spotify.com/track/4sZ6tw9dPrHfoiadJMXnqW) | [Jill & Henry](https://open.spotify.com/artist/4QkzpeG7jg03J4HrpXoTUi) | [My One and Only Love](https://open.spotify.com/album/4XLSNqlvDJlRtA2rZGeIO5) | 3:25 | 2021-05-22 |  |
 | [my romance](https://open.spotify.com/track/1jUutuE0MOLuCYq8K7WKcB) | [Matthew Simmons](https://open.spotify.com/artist/0VLnZmWurenu8BMwOR8iSF) | [The midnight sun will never set](https://open.spotify.com/album/2OyFudTG8k36YEzfScXgLQ) | 4:27 | 2020-10-20\* | 2021-01-21 |
 | [My Romance](https://open.spotify.com/track/536cUtbCGI3ic8xqGQTsry) | [Red Rose Jazz Trio](https://open.spotify.com/artist/18pdfLWgThCHa9DBN1OcwW) | [My Romance](https://open.spotify.com/album/6qW9Bj24JVdDcoUl2JH6UC) | 6:32 | 2020-10-20\* | 2020-11-18 |
@@ -213,6 +213,7 @@
 | [Pretty Ballad](https://open.spotify.com/track/4T82mssmK8VpyjB6QVMlcI) | [Louis Silva Band](https://open.spotify.com/artist/73EUNkbwvo1Y6ZmVjummIq) | [Pretty Ballad](https://open.spotify.com/album/03Xyg4vzclkEFYYnLDvGMB) | 3:26 | 2020-10-20\* | 2021-03-23 |
 | [Quiet Now](https://open.spotify.com/track/42Z4Egilt6kqyDKDugV9v3) | [The Collective](https://open.spotify.com/artist/36tnEBoX2HE41bmQi1xWKP) | [Same As Ever](https://open.spotify.com/album/2cEEweAitLTN47YeFWz0Gc) | 4:43 | 2021-03-27 |  |
 | [Remembering Benny](https://open.spotify.com/track/7HFXTKZhD4wsko0rty1WIk) | [Three Four Trio](https://open.spotify.com/artist/71RWScq7sSiOx08UQe37fv) | [A Simple Book](https://open.spotify.com/album/49asGdlaiX4oisY9vHf3vt) | 3:49 | 2022-08-10 |  |
+| [Remembrance](https://open.spotify.com/track/0kbWuiN6FdHJXu1xCBVxvW) | [Grayville Trio](https://open.spotify.com/artist/6ll13Y20dnndy8mAuF9tgk) | [Remembrance](https://open.spotify.com/album/6aO2ui4ldnUa338vXUkMGz) | 3:10 | 2022-08-30 |  |
 | [Repetition](https://open.spotify.com/track/5110P5yc85WSckGmf47eA9) | [Steve Kuhn](https://open.spotify.com/artist/6KEBRNgSvb95hjK9Nh0tzt) | [Porgy](https://open.spotify.com/album/3U2aPSYf6tu5YVgBw1X7SR) | 4:54 | 2021-01-21 | 2022-07-26 |
 | [Sails](https://open.spotify.com/track/6Acd5lhILmBOlhjGDFEUqz) | [Manor Blue](https://open.spotify.com/artist/01ZpfNTUsz8qKnnobquC1q) | [Sails](https://open.spotify.com/album/5XHGdBZXgVYsADNLTH19Fm) | 3:27 | 2021-11-16 |  |
 | [Save Your Love](https://open.spotify.com/track/2OJIrPRRxgCq42vq5Uxynq) | [Oscar Daniels](https://open.spotify.com/artist/6f9QBCS6fPwO7vKTHlkWYq) | [Stockholm](https://open.spotify.com/album/3zfXlbNfPkOE6T6Uj57pqw) | 3:40 | 2020-10-20\* | 2021-01-21 |
@@ -244,6 +245,7 @@
 | [Star Eyes](https://open.spotify.com/track/3fJsrfPYlvYrll2306xwJn) | [Bill Walton](https://open.spotify.com/artist/7fHixSSo2DvBypEXNKjgBl) | [Star Eyes](https://open.spotify.com/album/6sscV2kzdu75DlL4b3bIDX) | 4:29 | 2022-08-10 |  |
 | [Stardust](https://open.spotify.com/track/41qzCwPm0Myt0uJIarjl4p) | [Lisa Gordan Trio](https://open.spotify.com/artist/5as2rPZvgwaMW96pHHPDTW) | [Stardust](https://open.spotify.com/album/3zzFdi4zMi1OwjrOvg6Au7) | 6:24 | 2020-10-20\* | 2020-12-15 |
 | [Stars Fell On Alabama](https://open.spotify.com/track/6V9XxCoJ9Ujckla3A0aUYL) | [Mark Roswell Trio](https://open.spotify.com/artist/5LyofWLANV5qojc0VHqh6i) | [Stars Fell On Alabama](https://open.spotify.com/album/1jJKCnldeVDpCo5p7DFXJp) | 4:04 | 2022-08-10 |  |
+| [Stella By Starlight](https://open.spotify.com/track/0RXtnsHGJOHHk1aH3RvTRS) | [Figgy Mold](https://open.spotify.com/artist/1nr44rcCUJR2qL0SKfCOYF) | [Figgy Mold](https://open.spotify.com/album/4p6Hg570bX3GCNL7mGGzWx) | 3:28 | 2022-08-30 |  |
 | [Stella by Starlight](https://open.spotify.com/track/3vI6xOQVh0DPw0vDJLXQIJ) | [Jeannie Purdue](https://open.spotify.com/artist/0A0cOM444T6hJehiTABk83) | [Stella by Starlight](https://open.spotify.com/album/2JQaZBlmCm13PQAaRRTnCg) | 2:46 | 2020-10-20\* | 2021-01-21 |
 | [Still in Love With You](https://open.spotify.com/track/0ih8Jf1BQ3TpVHiPKW9WTZ) | [Angelina Winter](https://open.spotify.com/artist/59hnRNabyJTGrtAmliJFEl) | [Still in Love With You](https://open.spotify.com/album/7a5LKBZ7B5093OFghLDbic) | 2:36 | 2020-10-20\* | 2021-01-21 |
 | [Still Life](https://open.spotify.com/track/6Mhy6TO8fdgnWVPKZWhqaV) | [Wildflower Trio](https://open.spotify.com/artist/201JTvpknVv2BZgtwDaQH6) | [Still Life](https://open.spotify.com/album/0pWn90Gk2Qj8baJa12Rm8w) | 3:06 | 2020-10-20\* | 2021-06-18 |

@@ -779,7 +779,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-14",
+      "date_removed": null,
       "duration_ms": 169559,
       "name": "Canci\u00f3n Bonita",
       "url": "https://open.spotify.com/track/5iF33sXejXwfTuidVHMll0"
@@ -875,7 +875,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 204136,
       "name": "Como \u00d1engo (feat. Jota Rosa)",
       "url": "https://open.spotify.com/track/4xvYZWvfmL7FnWJHZhV1VS"
@@ -980,6 +980,32 @@
     },
     {
       "album": {
+        "name": "CXO (A Qui\u00e9n No Le Gusta)",
+        "url": "https://open.spotify.com/album/77istRQF1XwnI20tjlcwYu"
+      },
+      "artists": [
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        },
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        },
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236156,
+      "name": "CXO (A Qui\u00e9n No Le Gusta)",
+      "url": "https://open.spotify.com/track/5Oticg4aAjACVhbzqe6KDY"
+    },
+    {
+      "album": {
         "name": "De 100 a 0",
         "url": "https://open.spotify.com/album/11QTKoa3O2tD7Vz1AmSgSc"
       },
@@ -1017,6 +1043,28 @@
       "duration_ms": 174250,
       "name": "De Pari",
       "url": "https://open.spotify.com/track/2oYbmygoO3gzLychByw297"
+    },
+    {
+      "album": {
+        "name": "De Tanto Chimbiar",
+        "url": "https://open.spotify.com/album/2KeczAPgvvkbctpPl50BNp"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Totoy El Frio",
+          "url": "https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186066,
+      "name": "De Tanto Chimbiar",
+      "url": "https://open.spotify.com/track/5Zf8ytWP3Q6LWoTPl4SGHO"
     },
     {
       "album": {
@@ -1653,7 +1701,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 198520,
       "name": "Fuego Forestal",
       "url": "https://open.spotify.com/track/1G5rMuBltKhOavItlryMIO"
@@ -2037,7 +2085,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 190666,
       "name": "La Loto",
       "url": "https://open.spotify.com/track/3AbNNvo2OmyeDMvRBgf9vk"
@@ -2387,7 +2435,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 232843,
       "name": "LOS APARATOS",
       "url": "https://open.spotify.com/track/4SSbtLDkepeOHAckM1FCBP"
@@ -2449,7 +2497,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 172561,
       "name": "Luces",
       "url": "https://open.spotify.com/track/77UICuAzXRYuJqdhcy6R3m"
@@ -2475,6 +2523,28 @@
       "duration_ms": 179004,
       "name": "Machu Picchu",
       "url": "https://open.spotify.com/track/1LXb70u8SLsvBAPWHMCTMe"
+    },
+    {
+      "album": {
+        "name": "MAL DE AMOR",
+        "url": "https://open.spotify.com/album/1PJGPDQCUfl18e5C3to1Uk"
+      },
+      "artists": [
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221270,
+      "name": "MAL DE AMOR",
+      "url": "https://open.spotify.com/track/0j15NSe9m6egjzJXXn1QXQ"
     },
     {
       "album": {
@@ -2767,7 +2837,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 225161,
       "name": "Miami",
       "url": "https://open.spotify.com/track/0969BXUHWVqlmZa7zhuuRV"
@@ -3559,7 +3629,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 250933,
       "name": "PRENDE OTRO",
       "url": "https://open.spotify.com/track/1PNNztcJlNIcThPBs9lKBi"
@@ -3739,6 +3809,32 @@
       "duration_ms": 247308,
       "name": "Relaci\u00f3n - Remix",
       "url": "https://open.spotify.com/track/35UUpTmrcFXNIVIN26ujXl"
+    },
+    {
+      "album": {
+        "name": "Reversa",
+        "url": "https://open.spotify.com/album/4QUHGv6FoTKcdEnjRAPlLh"
+      },
+      "artists": [
+        {
+          "name": "Jiggy Drama",
+          "url": "https://open.spotify.com/artist/2wJhXMulep4to8JaxUYjeY"
+        },
+        {
+          "name": "Farina",
+          "url": "https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90"
+        },
+        {
+          "name": "Cornetto",
+          "url": "https://open.spotify.com/artist/5VUUCzj7ZOGku7STS2vUQc"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227368,
+      "name": "Reversa",
+      "url": "https://open.spotify.com/track/68MIjgtAsK2rnPqxt9p65V"
     },
     {
       "album": {
@@ -4131,7 +4227,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 188411,
       "name": "Sin Novia",
       "url": "https://open.spotify.com/track/4IsO1J5LSrVwkQOIEdZ417"
@@ -4215,7 +4311,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 172414,
       "name": "Somos Iguales",
       "url": "https://open.spotify.com/track/3uZgr5fHIzOAc3sjX5zHc1"
@@ -4285,7 +4381,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-30",
+      "date_removed": null,
       "duration_ms": 222680,
       "name": "Tattoo - Remix with Camilo",
       "url": "https://open.spotify.com/track/4ZRrLHqzhGRXYj2qcB4s5S"
@@ -4432,6 +4528,32 @@
     },
     {
       "album": {
+        "name": "Tiempo",
+        "url": "https://open.spotify.com/album/41Wxh8xLNvaolvU44HBupA"
+      },
+      "artists": [
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        },
+        {
+          "name": "Natti Natasha",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+        },
+        {
+          "name": "Los Legendarios",
+          "url": "https://open.spotify.com/artist/0n6sKrG0xKAf8xmdqeNGke"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226120,
+      "name": "Tiempo",
+      "url": "https://open.spotify.com/track/79wZgmcWFMYPjV6Ty58t8b"
+    },
+    {
+      "album": {
         "name": "Todo De Ti",
         "url": "https://open.spotify.com/album/3zjKITMp5FHj5aqtWWXrxH"
       },
@@ -4465,7 +4587,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 222857,
       "name": "Traductor",
       "url": "https://open.spotify.com/track/77l75UICfUZK5k0G7WRGqg"
@@ -4549,6 +4671,32 @@
       "duration_ms": 149787,
       "name": "T\u00fa no me conoces",
       "url": "https://open.spotify.com/track/2ENHU0Zzp2BwZLr3Cyesc1"
+    },
+    {
+      "album": {
+        "name": "Ultimate (ft. Snow Tha Product)",
+        "url": "https://open.spotify.com/album/4qGyc7iOQDVBlIrq1VXtu6"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Snow Tha Product",
+          "url": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213281,
+      "name": "Ultimate (ft. Snow Tha Product)",
+      "url": "https://open.spotify.com/track/3cQo8Sz2SaYHcPFXrqBxGT"
     },
     {
       "album": {
@@ -4643,7 +4791,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-20",
+      "date_removed": null,
       "duration_ms": 285746,
       "name": "Un Viaje",
       "url": "https://open.spotify.com/track/3huLeBRjZPOzkePH7ph91y"
@@ -4771,7 +4919,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-14",
+      "date_removed": null,
       "duration_ms": 187426,
       "name": "Vida de Rico",
       "url": "https://open.spotify.com/track/73nAK3HgQK8dak83Y2WQ8F"

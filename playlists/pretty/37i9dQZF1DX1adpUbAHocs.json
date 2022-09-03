@@ -1,12 +1,12 @@
 {
   "description": "hop in and take the long way.",
-  "num_followers": 640829,
+  "num_followers": 640966,
   "original_name": "Scenic Route",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Nzk4Mjc4OSwwMDAwMDAwMDUyODhiYWMyNmI4YjRhZDIyMWZjZTk3YmIwMzdiYjVj",
+  "snapshot_id": "MTY0Nzk4Mjc4OSwwMDAwMDAwMDVlOGIwYjA0N2ZkOGRhNjEyNjhjYTc3OTU1MjA0MTZk",
   "tracks": [
     {
       "added_at": "2022-03-22 20:59:49",
@@ -263,22 +263,6 @@
     {
       "added_at": "2022-03-22 20:59:49",
       "album": {
-        "name": "Wasteland, Baby!",
-        "url": "https://open.spotify.com/album/2c7gFThUYyo2t6ogAgIYNw"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 298880,
-      "name": "Shrike",
-      "url": "https://open.spotify.com/track/083PU4XnYAOMAGVruma3vb"
-    },
-    {
-      "added_at": "2022-03-22 20:59:49",
-      "album": {
         "name": "Wet Leg",
         "url": "https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 232320,
       "name": "Angelica",
       "url": "https://open.spotify.com/track/3EwTIu5qka2l5ZekB0b6QC"
+    },
+    {
+      "added_at": "2022-03-22 20:59:49",
+      "album": {
+        "name": "Wasteland, Baby!",
+        "url": "https://open.spotify.com/album/2c7gFThUYyo2t6ogAgIYNw"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 298880,
+      "name": "Shrike",
+      "url": "https://open.spotify.com/track/083PU4XnYAOMAGVruma3vb"
     },
     {
       "added_at": "2022-03-22 20:59:49",
@@ -783,6 +783,22 @@
     {
       "added_at": "2022-03-22 20:59:49",
       "album": {
+        "name": "Resin",
+        "url": "https://open.spotify.com/album/3zurNYr1HaGcnoI20tvYSX"
+      },
+      "artists": [
+        {
+          "name": "Dustin Tebbutt",
+          "url": "https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX"
+        }
+      ],
+      "duration_ms": 203939,
+      "name": "Resin",
+      "url": "https://open.spotify.com/track/6AmrRS8slCMxGUZePjV6dH"
+    },
+    {
+      "added_at": "2022-03-22 20:59:49",
+      "album": {
         "name": "Somewhere",
         "url": "https://open.spotify.com/album/3tqWpScYda0eUqExXOqQnm"
       },
@@ -799,22 +815,6 @@
     {
       "added_at": "2022-03-22 20:59:49",
       "album": {
-        "name": "Wilderado",
-        "url": "https://open.spotify.com/album/27PS3oqiVzOqqAT04Ku6at"
-      },
-      "artists": [
-        {
-          "name": "Wilderado",
-          "url": "https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI"
-        }
-      ],
-      "duration_ms": 197737,
-      "name": "Head Right",
-      "url": "https://open.spotify.com/track/2G01I6SbQqSPmAOz895M0a"
-    },
-    {
-      "added_at": "2022-03-22 20:59:49",
-      "album": {
         "name": "Blue Skies",
         "url": "https://open.spotify.com/album/1vzqa9wcGcflSTyVbQPRFE"
       },
@@ -827,6 +827,22 @@
       "duration_ms": 150824,
       "name": "Bad Love",
       "url": "https://open.spotify.com/track/0atclF6Pp5MffEEi7CSFlE"
+    },
+    {
+      "added_at": "2022-03-22 20:59:49",
+      "album": {
+        "name": "Wilderado",
+        "url": "https://open.spotify.com/album/27PS3oqiVzOqqAT04Ku6at"
+      },
+      "artists": [
+        {
+          "name": "Wilderado",
+          "url": "https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI"
+        }
+      ],
+      "duration_ms": 197737,
+      "name": "Head Right",
+      "url": "https://open.spotify.com/track/2G01I6SbQqSPmAOz895M0a"
     },
     {
       "added_at": "2022-03-22 20:59:49",
@@ -863,22 +879,6 @@
     {
       "added_at": "2022-03-22 20:59:49",
       "album": {
-        "name": "Resin",
-        "url": "https://open.spotify.com/album/3zurNYr1HaGcnoI20tvYSX"
-      },
-      "artists": [
-        {
-          "name": "Dustin Tebbutt",
-          "url": "https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX"
-        }
-      ],
-      "duration_ms": 203939,
-      "name": "Resin",
-      "url": "https://open.spotify.com/track/6AmrRS8slCMxGUZePjV6dH"
-    },
-    {
-      "added_at": "2022-03-22 20:59:49",
-      "album": {
         "name": "I Need to Start a Garden",
         "url": "https://open.spotify.com/album/4I8BEAiq1kPqRRlvWLTo5B"
       },
@@ -891,6 +891,22 @@
       "duration_ms": 177339,
       "name": "Oom Sha La La",
       "url": "https://open.spotify.com/track/28kOpVf1aCgL0LSFfuKV4w"
+    },
+    {
+      "added_at": "2022-03-22 20:59:49",
+      "album": {
+        "name": "Kindness, A Rebel",
+        "url": "https://open.spotify.com/album/1RNcYrqXqFyb3R6jjQrwT7"
+      },
+      "artists": [
+        {
+          "name": "River Whyless",
+          "url": "https://open.spotify.com/artist/7gRGh8w4G9zaFJSaIYp8HH"
+        }
+      ],
+      "duration_ms": 195126,
+      "name": "Motel 6",
+      "url": "https://open.spotify.com/track/6hUTzxvNiJ1c0lYqgoOTBW"
     },
     {
       "added_at": "2022-03-22 20:59:49",
@@ -943,18 +959,18 @@
     {
       "added_at": "2022-03-22 20:59:49",
       "album": {
-        "name": "Lost Track",
-        "url": "https://open.spotify.com/album/3oiTuW8YuHwmhpDHQOdJGE"
+        "name": "Who Are You Now",
+        "url": "https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy"
       },
       "artists": [
         {
-          "name": "HAIM",
-          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
         }
       ],
-      "duration_ms": 142133,
-      "name": "Lost Track",
-      "url": "https://open.spotify.com/track/3dxgq3THNqGk6Mv5ZZ7yXY"
+      "duration_ms": 280293,
+      "name": "Song In My Head",
+      "url": "https://open.spotify.com/track/0SqfoSpuWsk4CJpCX2LvCD"
     },
     {
       "added_at": "2022-03-22 20:59:49",
@@ -975,34 +991,18 @@
     {
       "added_at": "2022-03-22 20:59:49",
       "album": {
-        "name": "Who Are You Now",
-        "url": "https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy"
+        "name": "Lost Track",
+        "url": "https://open.spotify.com/album/3oiTuW8YuHwmhpDHQOdJGE"
       },
       "artists": [
         {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+          "name": "HAIM",
+          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
         }
       ],
-      "duration_ms": 280293,
-      "name": "Song In My Head",
-      "url": "https://open.spotify.com/track/0SqfoSpuWsk4CJpCX2LvCD"
-    },
-    {
-      "added_at": "2022-03-22 20:59:49",
-      "album": {
-        "name": "Stand For Myself",
-        "url": "https://open.spotify.com/album/1aF9Xjtg1d1wwsE4hRAkQV"
-      },
-      "artists": [
-        {
-          "name": "Yola",
-          "url": "https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14"
-        }
-      ],
-      "duration_ms": 204693,
-      "name": "Diamond Studded Shoes",
-      "url": "https://open.spotify.com/track/5SfM1f729pv1DdiEcyDiex"
+      "duration_ms": 142133,
+      "name": "Lost Track",
+      "url": "https://open.spotify.com/track/3dxgq3THNqGk6Mv5ZZ7yXY"
     },
     {
       "added_at": "2022-03-22 20:59:49",
@@ -1023,34 +1023,18 @@
     {
       "added_at": "2022-03-22 20:59:49",
       "album": {
-        "name": "Kindness, A Rebel",
-        "url": "https://open.spotify.com/album/1RNcYrqXqFyb3R6jjQrwT7"
+        "name": "Stand For Myself",
+        "url": "https://open.spotify.com/album/1aF9Xjtg1d1wwsE4hRAkQV"
       },
       "artists": [
         {
-          "name": "River Whyless",
-          "url": "https://open.spotify.com/artist/7gRGh8w4G9zaFJSaIYp8HH"
+          "name": "Yola",
+          "url": "https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14"
         }
       ],
-      "duration_ms": 195126,
-      "name": "Motel 6",
-      "url": "https://open.spotify.com/track/6hUTzxvNiJ1c0lYqgoOTBW"
-    },
-    {
-      "added_at": "2022-03-22 20:59:49",
-      "album": {
-        "name": "Rearrange Us",
-        "url": "https://open.spotify.com/album/0JEbkW1a2Ws7P8vMflSPc9"
-      },
-      "artists": [
-        {
-          "name": "Mt. Joy",
-          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
-        }
-      ],
-      "duration_ms": 234600,
-      "name": "Witness",
-      "url": "https://open.spotify.com/track/56GEhx9XahoD6sxkJwczod"
+      "duration_ms": 204693,
+      "name": "Diamond Studded Shoes",
+      "url": "https://open.spotify.com/track/5SfM1f729pv1DdiEcyDiex"
     },
     {
       "added_at": "2022-03-22 20:59:49",
@@ -1067,6 +1051,22 @@
       "duration_ms": 195600,
       "name": "Lilacs",
       "url": "https://open.spotify.com/track/69Akwuscu16hdYN637eTis"
+    },
+    {
+      "added_at": "2022-03-22 20:59:49",
+      "album": {
+        "name": "Rearrange Us",
+        "url": "https://open.spotify.com/album/0JEbkW1a2Ws7P8vMflSPc9"
+      },
+      "artists": [
+        {
+          "name": "Mt. Joy",
+          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
+        }
+      ],
+      "duration_ms": 234600,
+      "name": "Witness",
+      "url": "https://open.spotify.com/track/56GEhx9XahoD6sxkJwczod"
     },
     {
       "added_at": "2022-03-22 20:59:49",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2022-03-22 20:59:49",
       "album": {
-        "name": "Delta",
-        "url": "https://open.spotify.com/album/4cKEpUZp7REMrSjd4ICCZz"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 265096,
-      "name": "Beloved",
-      "url": "https://open.spotify.com/track/4XzBJwWmmvBP1I8y4sY4g4"
-    },
-    {
-      "added_at": "2022-03-22 20:59:49",
-      "album": {
         "name": "Terms of Surrender",
         "url": "https://open.spotify.com/album/4eKRqA554vK2k4khe190Yu"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 197596,
       "name": "I Need a Teacher",
       "url": "https://open.spotify.com/track/7nvAdiuXhFeHICyy2OzOcS"
+    },
+    {
+      "added_at": "2022-03-22 20:59:49",
+      "album": {
+        "name": "Delta",
+        "url": "https://open.spotify.com/album/4cKEpUZp7REMrSjd4ICCZz"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 265096,
+      "name": "Beloved",
+      "url": "https://open.spotify.com/track/4XzBJwWmmvBP1I8y4sY4g4"
     },
     {
       "added_at": "2022-03-22 20:59:49",
@@ -1143,6 +1143,22 @@
     {
       "added_at": "2022-03-22 20:59:49",
       "album": {
+        "name": "Capacity",
+        "url": "https://open.spotify.com/album/3jXbdginoAtjcBqT7GcYRd"
+      },
+      "artists": [
+        {
+          "name": "Big Thief",
+          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
+        }
+      ],
+      "duration_ms": 238893,
+      "name": "Shark Smile",
+      "url": "https://open.spotify.com/track/0Fc0vCE3yWvAGKbU5twVOz"
+    },
+    {
+      "added_at": "2022-03-22 20:59:49",
+      "album": {
         "name": "KIWANUKA",
         "url": "https://open.spotify.com/album/1yIqauTni1V7l7djYAKSsZ"
       },
@@ -1159,18 +1175,18 @@
     {
       "added_at": "2022-03-22 20:59:49",
       "album": {
-        "name": "Capacity",
-        "url": "https://open.spotify.com/album/3jXbdginoAtjcBqT7GcYRd"
+        "name": "Lost At Last Vol. 1",
+        "url": "https://open.spotify.com/album/4XlvkGpGZ0wqf13YkHyrXd"
       },
       "artists": [
         {
-          "name": "Big Thief",
-          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
+          "name": "Langhorne Slim",
+          "url": "https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy"
         }
       ],
-      "duration_ms": 238893,
-      "name": "Shark Smile",
-      "url": "https://open.spotify.com/track/0Fc0vCE3yWvAGKbU5twVOz"
+      "duration_ms": 173280,
+      "name": "House Of My Soul (You Light The Rooms)",
+      "url": "https://open.spotify.com/track/7JA24QmrS7YbSRuyU2E8LV"
     },
     {
       "added_at": "2022-03-22 20:59:49",
@@ -1207,38 +1223,6 @@
     {
       "added_at": "2022-03-22 20:59:49",
       "album": {
-        "name": "Santa Barbara",
-        "url": "https://open.spotify.com/album/24TRZ0557IVU06q4TaYgNI"
-      },
-      "artists": [
-        {
-          "name": "Angelo De Augustine",
-          "url": "https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi"
-        }
-      ],
-      "duration_ms": 194026,
-      "name": "Santa Barbara",
-      "url": "https://open.spotify.com/track/4yuVmMynbF6qBDsT3w6aXy"
-    },
-    {
-      "added_at": "2022-03-22 20:59:49",
-      "album": {
-        "name": "Lost At Last Vol. 1",
-        "url": "https://open.spotify.com/album/4XlvkGpGZ0wqf13YkHyrXd"
-      },
-      "artists": [
-        {
-          "name": "Langhorne Slim",
-          "url": "https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy"
-        }
-      ],
-      "duration_ms": 173280,
-      "name": "House Of My Soul (You Light The Rooms)",
-      "url": "https://open.spotify.com/track/7JA24QmrS7YbSRuyU2E8LV"
-    },
-    {
-      "added_at": "2022-03-22 20:59:49",
-      "album": {
         "name": "Second Nature",
         "url": "https://open.spotify.com/album/23rODwWw3dylrLEzUW1tIw"
       },
@@ -1263,6 +1247,22 @@
     {
       "added_at": "2022-03-22 20:59:49",
       "album": {
+        "name": "Santa Barbara",
+        "url": "https://open.spotify.com/album/24TRZ0557IVU06q4TaYgNI"
+      },
+      "artists": [
+        {
+          "name": "Angelo De Augustine",
+          "url": "https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi"
+        }
+      ],
+      "duration_ms": 194026,
+      "name": "Santa Barbara",
+      "url": "https://open.spotify.com/track/4yuVmMynbF6qBDsT3w6aXy"
+    },
+    {
+      "added_at": "2022-03-22 20:59:49",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4P4Melmltlh69qk94BPZDY"
       },
@@ -1275,22 +1275,6 @@
       "duration_ms": 196772,
       "name": "I Can't Make You Love Me - Spotify Singles",
       "url": "https://open.spotify.com/track/6AdxrIYy5CT1LLzLYAQOwy"
-    },
-    {
-      "added_at": "2022-03-22 20:59:49",
-      "album": {
-        "name": "Reunions",
-        "url": "https://open.spotify.com/album/5XIafkwTpyvL7jjLJx1xKz"
-      },
-      "artists": [
-        {
-          "name": "Jason Isbell and the 400 Unit",
-          "url": "https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf"
-        }
-      ],
-      "duration_ms": 224034,
-      "name": "Dreamsicle",
-      "url": "https://open.spotify.com/track/68wI8QNqMeIraj7Ix16hS3"
     },
     {
       "added_at": "2022-03-22 20:59:49",
@@ -1323,6 +1307,22 @@
       "duration_ms": 212142,
       "name": "Devil I Know",
       "url": "https://open.spotify.com/track/6R0v4lA69KxsAUYDskYwgs"
+    },
+    {
+      "added_at": "2022-03-22 20:59:49",
+      "album": {
+        "name": "Reunions",
+        "url": "https://open.spotify.com/album/5XIafkwTpyvL7jjLJx1xKz"
+      },
+      "artists": [
+        {
+          "name": "Jason Isbell and the 400 Unit",
+          "url": "https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf"
+        }
+      ],
+      "duration_ms": 224034,
+      "name": "Dreamsicle",
+      "url": "https://open.spotify.com/track/68wI8QNqMeIraj7Ix16hS3"
     },
     {
       "added_at": "2022-03-22 20:59:49",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2022-03-22 20:59:49",
       "album": {
-        "name": "The Emitt Rhodes Recordings (1969-1973)",
-        "url": "https://open.spotify.com/album/6r4mUQIagaCmJjrOBW3SIB"
-      },
-      "artists": [
-        {
-          "name": "Emitt Rhodes",
-          "url": "https://open.spotify.com/artist/1yap1SgRPMxgyfrrDlQ95y"
-        }
-      ],
-      "duration_ms": 146680,
-      "name": "Somebody Made For Me",
-      "url": "https://open.spotify.com/track/2hq50hCUUknhUXZ9uL3wgq"
-    },
-    {
-      "added_at": "2022-03-22 20:59:49",
-      "album": {
         "name": "The Nude Party",
         "url": "https://open.spotify.com/album/7eL0YCyfl9aaNuzt3gn23Q"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 258146,
       "name": "Chevrolet Van",
       "url": "https://open.spotify.com/track/5QpkOt3hpNf4zns6FJ7JRH"
+    },
+    {
+      "added_at": "2022-03-22 20:59:49",
+      "album": {
+        "name": "The Emitt Rhodes Recordings (1969-1973)",
+        "url": "https://open.spotify.com/album/6r4mUQIagaCmJjrOBW3SIB"
+      },
+      "artists": [
+        {
+          "name": "Emitt Rhodes",
+          "url": "https://open.spotify.com/artist/1yap1SgRPMxgyfrrDlQ95y"
+        }
+      ],
+      "duration_ms": 146680,
+      "name": "Somebody Made For Me",
+      "url": "https://open.spotify.com/track/2hq50hCUUknhUXZ9uL3wgq"
     },
     {
       "added_at": "2022-03-22 20:59:49",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2022-03-22 20:59:49",
       "album": {
-        "name": "Now is the Time",
-        "url": "https://open.spotify.com/album/2LYm9NJMZYR8V3Ldq5Umh4"
-      },
-      "artists": [
-        {
-          "name": "Jade Bird",
-          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
-        }
-      ],
-      "duration_ms": 215493,
-      "name": "Now is the Time",
-      "url": "https://open.spotify.com/track/5ddrYyHEHIwXeeELXkgEel"
-    },
-    {
-      "added_at": "2022-03-22 20:59:49",
-      "album": {
         "name": "to Perth, before the border closes",
         "url": "https://open.spotify.com/album/4gblLDiEXc4UOwTWlF3UZS"
       },
@@ -1587,18 +1571,18 @@
     {
       "added_at": "2022-03-22 20:59:49",
       "album": {
-        "name": "Porta",
-        "url": "https://open.spotify.com/album/4qf9PU9z1f7qql846P9bYO"
+        "name": "Now is the Time",
+        "url": "https://open.spotify.com/album/2LYm9NJMZYR8V3Ldq5Umh4"
       },
       "artists": [
         {
-          "name": "Sharon Van Etten",
-          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
+          "name": "Jade Bird",
+          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
         }
       ],
-      "duration_ms": 206960,
-      "name": "Porta",
-      "url": "https://open.spotify.com/track/6zfI5bLVFhDzYUBHmMA7ni"
+      "duration_ms": 215493,
+      "name": "Now is the Time",
+      "url": "https://open.spotify.com/track/5ddrYyHEHIwXeeELXkgEel"
     },
     {
       "added_at": "2022-03-22 20:59:49",
@@ -1631,6 +1615,22 @@
       "duration_ms": 248925,
       "name": "The Balcony",
       "url": "https://open.spotify.com/track/27GaPhdSkbvrfPTKZk2C6V"
+    },
+    {
+      "added_at": "2022-03-22 20:59:49",
+      "album": {
+        "name": "Porta",
+        "url": "https://open.spotify.com/album/4qf9PU9z1f7qql846P9bYO"
+      },
+      "artists": [
+        {
+          "name": "Sharon Van Etten",
+          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
+        }
+      ],
+      "duration_ms": 206960,
+      "name": "Porta",
+      "url": "https://open.spotify.com/track/6zfI5bLVFhDzYUBHmMA7ni"
     },
     {
       "added_at": "2022-03-22 20:59:49",

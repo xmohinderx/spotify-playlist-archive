@@ -4,7 +4,7 @@
 
 > O melhor do sertanejo em uma só playlist! Foto: Luan Santana, Luisa Sonza
 
-93 songs - 4 hr 29 min - [published](https://open.spotify.com/playlist/1QClRCShAKNcti565v7TOp)
+94 songs - 4 hr 32 min - [published](https://open.spotify.com/playlist/1QClRCShAKNcti565v7TOp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Evento Cancelado \- Ao Vivo](https://open.spotify.com/track/11fqunD6qlOCrRd88kMOk6) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Manifesto Musical \(Ao Vivo\)](https://open.spotify.com/album/44apM3pC4x6oLt5ULbtV3j) | 3:03 | 2022-05-27 |  |
 | [Ex Alcoolizado \- Ao Vivo](https://open.spotify.com/track/2VATVdFqb7QqxfAcQPvNpc) | [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid) | [Israel & Rodolffo: Ao Vivo Em Brasília, Vol\. 3](https://open.spotify.com/album/33kS9T1bA6L7fosKns9fx6) | 2:42 | 2022-04-29 |  |
 | [Expectativa x Realidade](https://open.spotify.com/track/1wdhj1r7aeWVDUl9d18YKu) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Expectativa x Realidade](https://open.spotify.com/album/39ZFdo1y2IeExS8zKixGgw) | 2:43 | 2021-12-31 | 2022-08-13 |
+| [Fala Alguma Coisa \- Ao Vivo](https://open.spotify.com/track/0JAnjmcYMX157RsnmkhDBW) | [Paulo e Nathan](https://open.spotify.com/artist/3CGLLDfrPjF2FJ8HDCKMMv) | [Fala Alguma Coisa \(Ao Vivo\)](https://open.spotify.com/album/5KNtqlfJEyuLHqNRwHYE3B) | 2:41 | 2022-09-02 |  |
 | [Fala Mal de Mim \- Ao Vivo](https://open.spotify.com/track/6gEOM9IEBzvTdbwNrSkBdC) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Fala Mal de Mim \(Ao Vivo\)](https://open.spotify.com/album/5cCDnN0XpXRSfYCd7vUAAB) | 3:24 | 2022-07-15 |  |
 | [Faz Amor Comigo Só Hoje \- Ao Vivo](https://open.spotify.com/track/7Kba4OaxQFQ1zlknQUpNqN) | [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid), [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [Faz Amor Comigo Só Hoje \(Ao Vivo\)](https://open.spotify.com/album/3J7UQC40YfybB6TvralOEK) | 2:28 | 2021-12-31 | 2022-02-12 |
 | [Felicidade Dela \- Ao Vivo](https://open.spotify.com/track/6BIvQ6KIdwhUB29lCVy0cd) | [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl) | [Próximo Passo \(Ao Vivo\)](https://open.spotify.com/album/3CL1Onx0BwSqt6vlxWE2NQ) | 2:45 | 2022-04-08 |  |
@@ -87,7 +88,7 @@
 | [Te Amo Demais](https://open.spotify.com/track/4xxeEWGQNFQ6qehlnev5LS) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Decretos Reais, Vol.1](https://open.spotify.com/album/24aslPrdihuSQ59jrB2eBB) | 3:25 | 2022-07-22 |  |
 | [Termina Comigo Antes](https://open.spotify.com/track/1K8AtBJXcdq5mywMnZuARP) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Termina Comigo Antes](https://open.spotify.com/album/3DnY0LdBlcqVcSOGLHE4Vq) | 3:07 | 2022-04-06 |  |
 | [Tesão Da Madrugada \- Ao Vivo](https://open.spotify.com/track/4grGI2vFnknrfmHT1JOVFU) | [George Henrique & Rodrigo](https://open.spotify.com/artist/3FlCKtwOEYQQYyGVEbxG2Z), [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Ao Vivo Em Brasília](https://open.spotify.com/album/6NM4daMHIA3uWxf2YjITpC) | 2:53 | 2022-02-18 |  |
-| [Todo Mundo Menos Você](https://open.spotify.com/track/6H1OZfzhdwK4lmaPnOLJ0b) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Festa das Patroas 35%](https://open.spotify.com/album/50wAyDdWCMpPnG3lzWUChj) | 3:26 | 2021-12-31 |  |
+| [Todo Mundo Menos Você](https://open.spotify.com/track/6H1OZfzhdwK4lmaPnOLJ0b) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Festa das Patroas 35%](https://open.spotify.com/album/50wAyDdWCMpPnG3lzWUChj) | 3:26 | 2021-12-31 | 2022-09-03 |
 | [Todo Seu \- Ao Vivo](https://open.spotify.com/track/546dFmvwFGBY7MJOkV5ctq) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Todo Seu \(Ao Vivo\)](https://open.spotify.com/album/6tcIk5cJCa6xNtRUuTTBVB) | 2:51 | 2022-05-13 |  |
 | [Troca](https://open.spotify.com/track/6HV630GY0GT3RN2efFRmbP) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Tudo Em Paz](https://open.spotify.com/album/57h6WHDjwNGIs5NMeKYEoL) | 2:51 | 2021-12-31 | 2022-04-29 |
 | [Troca de Calçada](https://open.spotify.com/track/4AAIAVjSyiq1N7SXKkwXZe) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Troca de Calçada](https://open.spotify.com/album/4CwfuAMrV2zwnoOzJtuI1k) | 3:23 | 2021-12-31 |  |

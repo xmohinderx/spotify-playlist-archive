@@ -1,12 +1,12 @@
 {
   "description": "\ubc9a\uaf43\uc774 \ud769\ub0a0\ub9ac\uace0 \uc0c8\uc2f9\uc774 \ud53c\uc5b4\uc624\ub974\ub294 \ubd04\uc758 \uc124\ub808\uc784\uc744 \ub9cc\ub07d\ud558\uc138\uc694.",
-  "num_followers": 2848,
+  "num_followers": 2853,
   "original_name": "\ubd04\uac19\uc740 \uc124\ub808\uc784",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDA2NDMyNywwMDAwMDAwMDRiZTYwZDljMGQxMjlkOTRhYTEyMzAxOGM0MGNiMTUx",
+  "snapshot_id": "MTY2MDA2NDMyNywwMDAwMDAwMGRhMDdmMzk1MzExMjE4NDhmNjc5ODM3ODYyM2E0Nzhm",
   "tracks": [
     {
       "added_at": "2022-08-09 16:58:47",
@@ -847,22 +847,6 @@
     {
       "added_at": "2022-08-09 16:58:47",
       "album": {
-        "name": "First Love Story (Original Soundtrack from the Webtoon Fight For My Way)",
-        "url": "https://open.spotify.com/album/1e5e5KZ97uAAUufTpjd5OJ"
-      },
-      "artists": [
-        {
-          "name": "Baek A Yeon",
-          "url": "https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX"
-        }
-      ],
-      "duration_ms": 207773,
-      "name": "First Love Story",
-      "url": "https://open.spotify.com/track/7yaFG7IYstppb3WrI7nMWY"
-    },
-    {
-      "added_at": "2022-08-09 16:58:47",
-      "album": {
         "name": "AFTER THE LIGHT",
         "url": "https://open.spotify.com/album/0o5EHrWY8OhObL2HwHNGpv"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 194453,
       "name": "AFTER THE LIGHT",
       "url": "https://open.spotify.com/track/7CAlzZZI89CpcNgw0rTIHh"
+    },
+    {
+      "added_at": "2022-08-09 16:58:47",
+      "album": {
+        "name": "First Love Story (Original Soundtrack from the Webtoon Fight For My Way)",
+        "url": "https://open.spotify.com/album/1e5e5KZ97uAAUufTpjd5OJ"
+      },
+      "artists": [
+        {
+          "name": "Baek A Yeon",
+          "url": "https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX"
+        }
+      ],
+      "duration_ms": 207773,
+      "name": "First Love Story",
+      "url": "https://open.spotify.com/track/7yaFG7IYstppb3WrI7nMWY"
     },
     {
       "added_at": "2022-08-09 16:58:47",
@@ -1055,38 +1055,6 @@
     {
       "added_at": "2022-08-09 16:58:47",
       "album": {
-        "name": "A daily adventurer",
-        "url": "https://open.spotify.com/album/4RbiWNvhyQFKjiC6d0bTRP"
-      },
-      "artists": [
-        {
-          "name": "Lee Jin Ah",
-          "url": "https://open.spotify.com/artist/4SzO3ea2qcjg1uLyNJAWnM"
-        }
-      ],
-      "duration_ms": 204053,
-      "name": "Where the Wind Rises",
-      "url": "https://open.spotify.com/track/6s6n1Rc2zy9LtSAPsvaEPM"
-    },
-    {
-      "added_at": "2022-08-09 16:58:47",
-      "album": {
-        "name": "Mini Stewardess",
-        "url": "https://open.spotify.com/album/0uU0wcGNAp8ODhVCosMWab"
-      },
-      "artists": [
-        {
-          "name": "Harryan Yoonsoan",
-          "url": "https://open.spotify.com/artist/1yiaSLGVlq43ZC9pFLQ8lQ"
-        }
-      ],
-      "duration_ms": 202823,
-      "name": "Mini Stewardess",
-      "url": "https://open.spotify.com/track/2kG9KpdmG8hKdJI6UOQZiN"
-    },
-    {
-      "added_at": "2022-08-09 16:58:47",
-      "album": {
         "name": "Fling at Convenience Store (Original Television Soundtrack) Pt. 2",
         "url": "https://open.spotify.com/album/0ftFFfhQ3SUJ2Hrj6gkbnU"
       },
@@ -1103,6 +1071,22 @@
     {
       "added_at": "2022-08-09 16:58:47",
       "album": {
+        "name": "A daily adventurer",
+        "url": "https://open.spotify.com/album/4RbiWNvhyQFKjiC6d0bTRP"
+      },
+      "artists": [
+        {
+          "name": "Lee Jin Ah",
+          "url": "https://open.spotify.com/artist/4SzO3ea2qcjg1uLyNJAWnM"
+        }
+      ],
+      "duration_ms": 204053,
+      "name": "Where the Wind Rises",
+      "url": "https://open.spotify.com/track/6s6n1Rc2zy9LtSAPsvaEPM"
+    },
+    {
+      "added_at": "2022-08-09 16:58:47",
+      "album": {
         "name": "Spring",
         "url": "https://open.spotify.com/album/1wGIkXzSpJd7VfoGJBkVbs"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 173880,
       "name": "Spring",
       "url": "https://open.spotify.com/track/2jqFUiYryAqZRbCNA5D1oM"
+    },
+    {
+      "added_at": "2022-08-09 16:58:47",
+      "album": {
+        "name": "Mini Stewardess",
+        "url": "https://open.spotify.com/album/0uU0wcGNAp8ODhVCosMWab"
+      },
+      "artists": [
+        {
+          "name": "Harryan Yoonsoan",
+          "url": "https://open.spotify.com/artist/1yiaSLGVlq43ZC9pFLQ8lQ"
+        }
+      ],
+      "duration_ms": 202823,
+      "name": "Mini Stewardess",
+      "url": "https://open.spotify.com/track/2kG9KpdmG8hKdJI6UOQZiN"
     },
     {
       "added_at": "2022-08-09 16:58:47",

@@ -2,7 +2,7 @@
 
 ### [Funk Hits](https://open.spotify.com/playlist/37i9dQZF1DWTkIwO2HDifB)
 
-> Vento Forte e os funks mais 🔑 do Brasil\. Foto: MC Jacaré, Dj Tk
+> Casei com a Putaria e os funks mais 🔑 do Brasil\. Foto: Mc Paiva, MC Ryan SP, Kotim
 
 111 songs - 5 hr 38 min - [published](https://open.spotify.com/playlist/2m2xgH6abY0Jl6lg6L64lU)
 

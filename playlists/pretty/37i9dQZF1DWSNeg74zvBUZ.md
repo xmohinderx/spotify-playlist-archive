@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSNeg74zvBUZ.md) - [plain]
 
 > Sunlight! The most precious gold to be found on Earth.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,456 likes - 50 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,452 likes - 50 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSNeg74zvBUZ.md) - [plain]
 | 32 | [Impossible Island](https://open.spotify.com/track/312f1c2NbtQKam65h7Mq39) | [Gaussian Curve](https://open.spotify.com/artist/2rxgmguaQSynTMnBKZL73G) | [Clouds](https://open.spotify.com/album/4FC9qI04vobItNEKVeRh8Q) | 7:28 |
 | 33 | [GREEN](https://open.spotify.com/track/6RPQdkI8t1eaG2abymrYVK) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Green](https://open.spotify.com/album/07KJ48Y7pbXvz3Q4H44GZl) | 5:14 |
 | 34 | [Oceanic Feeling](https://open.spotify.com/track/6pkXXWpMwdZZTXoaCDZ6Ci) | [Molly Lewis](https://open.spotify.com/artist/16eM95zw2t0KRDniuNFKVt) | [Oceanic Feeling](https://open.spotify.com/album/3XNiuRi67PCCF4SradXcqH) | 2:23 |
-| 35 | [Mary, You Were Wrong](https://open.spotify.com/track/7cAjwU15bF9O81UjiC1HpH) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [Mary, You Were Wrong](https://open.spotify.com/album/1QumBx2mlFuTfFu8zR2sM7) | 4:58 |
-| 36 | [Peperomia Seedling](https://open.spotify.com/track/5Gly7CIj29ZKPw5Zo0qFmz) | [Green\-House](https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45) | [Six Songs for Invisible Gardens](https://open.spotify.com/album/6cxjFHSQOwAeURTpzDjp0t) | 3:43 |
+| 35 | [Peperomia Seedling](https://open.spotify.com/track/5Gly7CIj29ZKPw5Zo0qFmz) | [Green\-House](https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45) | [Six Songs for Invisible Gardens](https://open.spotify.com/album/6cxjFHSQOwAeURTpzDjp0t) | 3:43 |
+| 36 | [Mary, You Were Wrong](https://open.spotify.com/track/7cAjwU15bF9O81UjiC1HpH) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [Mary, You Were Wrong](https://open.spotify.com/album/1QumBx2mlFuTfFu8zR2sM7) | 4:58 |
 | 37 | [Dissolving Clouds](https://open.spotify.com/track/2IB1P4oT2EHRFJA5O7eRnC) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Dropsonde](https://open.spotify.com/album/20oIWphcRX2FDfRHa2e580) | 4:28 |
 | 38 | [Rebecca's Theme \(Water\)](https://open.spotify.com/track/5JA1wMXh6C072LePIqWTdR) | [A.R.T\. Wilson](https://open.spotify.com/artist/3Ml899ULPFArc5T9GpwgRp) | [Overworld](https://open.spotify.com/album/5I4w85SAzHx1ZApr0ddtzH) | 4:36 |
 | 39 | [Integration](https://open.spotify.com/track/2Rdu1w66Rt2AKdbU9a5RfQ) | [Equanimous](https://open.spotify.com/artist/33W9Pu3NHtSlqbaOI6pqXn), [Ruby Chase](https://open.spotify.com/artist/7z3jWevFVKWVvlSbPVpjeq), [Bliss Looper](https://open.spotify.com/artist/2vcc8a70GimYU5JkdSngnN), [OPUS](https://open.spotify.com/artist/4iLJWObQDJTdSs6nmll4zU) | [Attract](https://open.spotify.com/album/5J2fHqmcPXesKLfGDFtekA) | 2:54 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSNeg74zvBUZ.md) - [plain]
 | 44 | [Bismillahi 'Rrahmani 'Rrahim](https://open.spotify.com/track/5oTnjavcEz8hENl2nlYmdx) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [The Pavilion Of Dreams](https://open.spotify.com/album/0hWjBUtA4eoFsyh6lygVRN) | 18:27 |
 | 45 | [Ho Renomo](https://open.spotify.com/track/2nBtV4NSZJiarMBMpsn6UH) | [Cluster](https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Cluster & Eno](https://open.spotify.com/album/0VSmGsL1RtyjE7bdAaSAvy) | 5:11 |
 | 46 | [A New Day](https://open.spotify.com/track/7AbrQSJZsLhWOi4zNFIWeb) | [Forest Walks](https://open.spotify.com/artist/18InfiT5lp2g36MZgGqjZW) | [A New Day](https://open.spotify.com/album/3duG9vrpxecZceRKXBqc7M) | 2:58 |
-| 47 | [Natural Bridges](https://open.spotify.com/track/43oEjzPLnmve0ea2WjqV6W) | [Signa](https://open.spotify.com/artist/0NNkdG1hVjxDA0Viq5cERJ), [John Mark Nelson](https://open.spotify.com/artist/7JhOzFlNJjcRrFan1wlwYB) | [Two](https://open.spotify.com/album/1XE0ohBl8Wfml1KJUzzNtF) | 2:43 |
-| 48 | [Le jardin](https://open.spotify.com/track/5kaqycPUjIi1PdZWlhfWsD) | [Roedelius](https://open.spotify.com/artist/7v5E9zviGMsOGHRdMVmhDc) | [Jardin au fou](https://open.spotify.com/album/7eQ5WjiXia8SrVxyeBLUVV) | 4:28 |
+| 47 | [Le jardin](https://open.spotify.com/track/5kaqycPUjIi1PdZWlhfWsD) | [Roedelius](https://open.spotify.com/artist/7v5E9zviGMsOGHRdMVmhDc) | [Jardin au fou](https://open.spotify.com/album/7eQ5WjiXia8SrVxyeBLUVV) | 4:28 |
+| 48 | [Natural Bridges](https://open.spotify.com/track/43oEjzPLnmve0ea2WjqV6W) | [Signa](https://open.spotify.com/artist/0NNkdG1hVjxDA0Viq5cERJ), [John Mark Nelson](https://open.spotify.com/artist/7JhOzFlNJjcRrFan1wlwYB) | [Two](https://open.spotify.com/album/1XE0ohBl8Wfml1KJUzzNtF) | 2:43 |
 | 49 | [Celeste](https://open.spotify.com/track/3Lbh8U2HMWa1CD7GK5wEQf) | [Roger Eno](https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Mixing Colours](https://open.spotify.com/album/20WDVLmfzGI6vlXNGoLyxf) | 4:22 |
 | 50 | [Trade Winds, White Heat](https://open.spotify.com/track/56DtANH92Wh0BE7cUrb7hy) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [Radio Amor](https://open.spotify.com/album/5yHH2l3d2d2K5tNQGorEdR) | 4:22 |
 
-Snapshot ID: `MTY1OTQ5NjgxMiwwMDAwMDAwMDU4YTZjNjdkN2NkNDBiYmQyYjEzOTAzYjZmNDljZGVh`
+Snapshot ID: `MTY1OTQ5NjgxMiwwMDAwMDAwMDhlZmFkYTcyNDI1MGExNmNkMDQyNGZmN2U1ODIxN2E0`

@@ -80,6 +80,24 @@
     },
     {
       "album": {
+        "name": "Awaiting The Night",
+        "url": "https://open.spotify.com/album/4WbmSphPzHRMjuboa8haMl"
+      },
+      "artists": [
+        {
+          "name": "Celestial Seekr",
+          "url": "https://open.spotify.com/artist/6vzDsyuY7VKxGPDCcz9Eel"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134285,
+      "name": "Awaiting The Night",
+      "url": "https://open.spotify.com/track/30uebPIcKyKLYs6GvCMoGI"
+    },
+    {
+      "album": {
         "name": "Views from Sixteen Stories",
         "url": "https://open.spotify.com/album/05ECaoh4qEPv4Ph2M1htDX"
       },
@@ -170,6 +188,42 @@
     },
     {
       "album": {
+        "name": "Breathe",
+        "url": "https://open.spotify.com/album/2gyvkLTdR9Vo0mFwNJTuNQ"
+      },
+      "artists": [
+        {
+          "name": "Reiki Akoya",
+          "url": "https://open.spotify.com/artist/0VYt8sIrhLaI1J5XBw4Ez5"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190382,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/30iFs745w3sWOU8HSCcvrQ"
+    },
+    {
+      "album": {
+        "name": "Bring Us Back",
+        "url": "https://open.spotify.com/album/6oUu8OWwS3L9YPYleN2Ofu"
+      },
+      "artists": [
+        {
+          "name": "Will Carano",
+          "url": "https://open.spotify.com/artist/6J60g4WW0jL1uCe6cwyAZd"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158986,
+      "name": "Bring Us Back",
+      "url": "https://open.spotify.com/track/59Vt25MOgFp1CkzdRFzMJP"
+    },
+    {
+      "album": {
         "name": "Semillero",
         "url": "https://open.spotify.com/album/4wXMtPpipCgbiz8kyYR2dx"
       },
@@ -181,7 +235,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 124718,
       "name": "Brotes",
       "url": "https://open.spotify.com/track/6kxKu4HXQetA3Uu0UeAcl1"
@@ -685,7 +739,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 154062,
       "name": "Kyoto 5 AM",
       "url": "https://open.spotify.com/track/0lJAlB8iVsp6Y99MnTjlu8"
@@ -1027,7 +1081,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 214698,
       "name": "Pan Serenade",
       "url": "https://open.spotify.com/track/26hAV8CJvMK58Gdvve3vyx"
@@ -1067,6 +1121,24 @@
       "duration_ms": 120303,
       "name": "Pathways",
       "url": "https://open.spotify.com/track/67hrn4W0iAgUWwkVpmplTW"
+    },
+    {
+      "album": {
+        "name": "Peaceful Garden",
+        "url": "https://open.spotify.com/album/26UPIsHGsD24Si9M186oYK"
+      },
+      "artists": [
+        {
+          "name": "Buddha's Lounge",
+          "url": "https://open.spotify.com/artist/0DQtE70SlFZZkbNpCRaMHb"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 377000,
+      "name": "Peaceful Garden",
+      "url": "https://open.spotify.com/track/109Az5ZRvRYKE6UU9Rdnf0"
     },
     {
       "album": {
@@ -1214,6 +1286,24 @@
     },
     {
       "album": {
+        "name": "Restful Dream",
+        "url": "https://open.spotify.com/album/6wZFjc47KdhamOOPBMrSHL"
+      },
+      "artists": [
+        {
+          "name": "Buddha's Flute",
+          "url": "https://open.spotify.com/artist/1j6Futx8f5ywiHqPnX32bl"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366610,
+      "name": "Restful Dream",
+      "url": "https://open.spotify.com/track/57wGsyF2YSyRkHZrksQXrB"
+    },
+    {
+      "album": {
         "name": "Aura",
         "url": "https://open.spotify.com/album/1GgB6wCGMjv9eIWbysYO4x"
       },
@@ -1283,6 +1373,24 @@
       "duration_ms": 142105,
       "name": "Rising Above",
       "url": "https://open.spotify.com/track/7qVMaIJNIRLVGfdFqYlnBX"
+    },
+    {
+      "album": {
+        "name": "Rivers Of Flutes",
+        "url": "https://open.spotify.com/album/2b62YJsJ8REP4fGZKh9Qv7"
+      },
+      "artists": [
+        {
+          "name": "Sacred Flute",
+          "url": "https://open.spotify.com/artist/6dn5BFtVFrmBuZXS3Pt2Qi"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 445000,
+      "name": "Rivers Of Flutes",
+      "url": "https://open.spotify.com/track/6DewZxWwJwOTWeyIXsntrH"
     },
     {
       "album": {

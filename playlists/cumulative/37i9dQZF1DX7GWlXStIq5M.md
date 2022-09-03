@@ -4,7 +4,7 @@
 
 > Hip Hop nacional e gringo para acompanhar gamers e gaming.
 
-234 songs - 13 hr 32 min - [published](https://open.spotify.com/playlist/73qzmtM6uDZBs8ROQmiLzF)
+235 songs - 13 hr 36 min - [published](https://open.spotify.com/playlist/73qzmtM6uDZBs8ROQmiLzF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Alma de Cigana](https://open.spotify.com/track/5bm3eNPRGw03HdazdZOiMK) | [3030](https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5) | [Infinito Interno](https://open.spotify.com/album/7gibqU8NtLuvNfAflMqZj3) | 2:11 | 2020-10-20 | 2022-07-29 |
 | [American Pie](https://open.spotify.com/track/1PZUD6jjtYsOUC9vDjdJHK) | [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [CMK](https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src), [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx) | [O Iluminado](https://open.spotify.com/album/0e2bs8KEArBtFeMYoqBYKP) | 2:59 | 2020-10-20 | 2022-07-29 |
 | [Amor de Fim de Noite](https://open.spotify.com/track/0nDnvGagGAQP5vpgCyS5yH) | [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv) | [Amor de Fim de Noite](https://open.spotify.com/album/0ZR4TfAlmGulel1uFDDxRM) | 3:41 | 2020-10-20 | 2022-07-29 |
-| [APESHIT](https://open.spotify.com/track/0E6PsO3ymCfUh7pJQjBgkj) | [The Carters](https://open.spotify.com/artist/4fpTMHe34LC5t3h5ztK8qu) | [EVERYTHING IS LOVE](https://open.spotify.com/album/3hCiP4V5Mu3Y0Z8lb70iDp) | 4:24 | 2020-10-20 |  |
+| [APESHIT](https://open.spotify.com/track/0E6PsO3ymCfUh7pJQjBgkj) | [The Carters](https://open.spotify.com/artist/4fpTMHe34LC5t3h5ztK8qu) | [EVERYTHING IS LOVE](https://open.spotify.com/album/3hCiP4V5Mu3Y0Z8lb70iDp) | 4:24 | 2020-10-20 | 2022-09-03 |
 | [Assault \(Crime Perfeito\)](https://open.spotify.com/track/7b8kjWj4TKWmWo2LX9Lkiz) | [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Azevedo](https://open.spotify.com/artist/0wopeyG3WHLoKcmrFD2jrY), [PL Quest](https://open.spotify.com/artist/6J6U2JAv7LUF0cSQ98gpjM), [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg) | [Assault \(Crime Perfeito\)](https://open.spotify.com/album/3tnFroQ43SHOKeCxMLAAxY) | 3:44 | 2020-10-20 | 2022-07-27 |
 | [Avião](https://open.spotify.com/track/3vG5tTQZsAPTDqMiXFhKJy) | [MC Caverinha](https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee) | [Avião](https://open.spotify.com/album/3qB0aw6UmDycNX9pWvyjXf) | 2:19 | 2020-10-20 | 2022-07-29 |
 | [Babushka Boi](https://open.spotify.com/track/643PW82aBMUa1FiWi5VQY7) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Babushka Boi](https://open.spotify.com/album/3zOkSAbg9o7gQ3yXtZhx5v) | 3:07 | 2020-10-20 |  |
@@ -33,6 +33,7 @@
 | [Bailão](https://open.spotify.com/track/2hgfeYKzJIaUlrhk6oP3wc) | [Meno Tody](https://open.spotify.com/artist/2mNP0EIVZICxF8NJ46SG0L) | [Bailão](https://open.spotify.com/album/7sZwY31f8pBNa5KvlFfSYR) | 3:30 | 2020-10-20 | 2022-07-24 |
 | [ball w/o you](https://open.spotify.com/track/4UW4GsTVETXP2mzXfMT2iC) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [i am > i was \(Deluxe\)](https://open.spotify.com/album/6guJZpZ52v4MrJKIH7tASl) | 3:15 | 2020-10-20 | 2022-07-25 |
 | [Ballin' \(with Roddy Ricch\)](https://open.spotify.com/track/3QzAOrNlsabgbMwlZt7TAY) | [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Perfect Ten](https://open.spotify.com/album/2WrNHOba5u6P9S9xEboaUy) | 3:00 | 2020-10-20 |  |
+| [Balão](https://open.spotify.com/track/4QFzCjkQl2c7wrzVrOu2sz) | [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [Celebridade](https://open.spotify.com/album/1O14i0prsw0PrQYgHQ19Pa) | 4:13 | 2020-10-20 |  |
 | [Balão](https://open.spotify.com/track/6nc3d5wRTTzkZo29kZRr5r) | [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [Balão](https://open.spotify.com/album/3ExChVUPgeX4QKS0kqLYNz) | 4:13 | 2020-10-20 | 2022-07-29 |
 | [Banco](https://open.spotify.com/track/7MPQNyAX02uIEQCRsC4sgc) | [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8), [Predella](https://open.spotify.com/artist/3lMQtpA4i6FrIe6DmDfDVa) | [Banco](https://open.spotify.com/album/60iZnmmLOgY1LpkCinkELW) | 4:14 | 2020-10-20 |  |
 | [Bandido Artista](https://open.spotify.com/track/10QoaVwkMEQPgqq21cw4Iq) | [Derek](https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td), [MC Igu](https://open.spotify.com/artist/5K854sjdzabwOy9KltU3Po), [Dalsin](https://open.spotify.com/artist/6W2jVpE55n1wT0SrpxoeFk) | [Ícone](https://open.spotify.com/album/4AQFmyYck7Rf10CHW2w2Pr) | 3:34 | 2020-10-20 | 2022-07-28 |

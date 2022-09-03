@@ -4,7 +4,7 @@
 
 > Have a quiet morning with this mix of something familiar and something new.
 
-263 songs - 16 hr 10 min - [published](https://open.spotify.com/playlist/28RD6nYufPNLui4c84uOdv)
+264 songs - 16 hr 13 min - [published](https://open.spotify.com/playlist/28RD6nYufPNLui4c84uOdv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,6 +156,7 @@
 | [Mad About You](https://open.spotify.com/track/5fBjPtOxhgdpU6LNWLyVHv) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [New Magic](https://open.spotify.com/album/6wYeJwJU9Y4fuLQVfGyJk9) | 3:33 | 2020-10-17 |  |
 | [Magnetic](https://open.spotify.com/track/4rbGIJobQJLUCgKrrsY6mm) | [Full Crate](https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g), [Susan Carol](https://open.spotify.com/artist/7lkBIPB2g6tiQos6UF9plP), [Sergiio](https://open.spotify.com/artist/1TyV1ii0zQpDUf242p8JI0) | [Magnetic](https://open.spotify.com/album/5ViCoszPDZqEOu2UVB34LQ) | 3:00 | 2020-10-17 | 2022-04-21 |
 | [Making Room](https://open.spotify.com/track/5QRfxsSpzpWqzw4v3vKTCH) | [Kelly Schenk](https://open.spotify.com/artist/3kHGDGEmX8EWocacdi5Ijk) | [Making Room](https://open.spotify.com/album/4Dca3AwituUnPJFqTMTolt) | 4:19 | 2021-01-22 | 2022-07-29 |
+| [matthew](https://open.spotify.com/track/34IEw2kMFrBNl6svjx7hVJ) | [elijah woods](https://open.spotify.com/artist/3IR6DvP0x2a6oUSist9UMu) | [matthew](https://open.spotify.com/album/1x7NuNlKTgLRY7hJZdM3Cr) | 3:13 | 2022-09-02 |  |
 | [Maybe I Do](https://open.spotify.com/track/33Yo16lC0glS0lYgRTxpLD) | [Nick Wayne](https://open.spotify.com/artist/6Y92NtvBVk5tL0wIYXGVhl) | [Maybe I Do](https://open.spotify.com/album/1Nouwpgvi7Oi1PMxNFIB2W) | 3:28 | 2020-10-17 | 2022-04-19 |
 | [Meet The Moonlight](https://open.spotify.com/track/6M70kLblnAfCQ9uj8BdcUR) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [Meet The Moonlight](https://open.spotify.com/album/6A5YfsWJbtLqFenuOQCsDG) | 5:05 | 2022-05-13 |  |
 | [Meltdown](https://open.spotify.com/track/3ka3EiIf8D2kffzcQkdwdp) | [Johnny Stimson](https://open.spotify.com/artist/00OF0nwYaoBSO3AnPVq3vE) | [Meltdown](https://open.spotify.com/album/0cb33rdz5GzgW9R8zj6CAo) | 2:52 | 2022-08-12 | 2022-08-27 |
@@ -167,7 +168,7 @@
 | [Moment](https://open.spotify.com/track/7hKTSydLsRENnTOqHiPVT0) | [Jay Warren](https://open.spotify.com/artist/692sqZdmqkQjdCk87QECpd) | [Moment](https://open.spotify.com/album/45eSjtBmN4SZsW3RB4RXUu) | 3:15 | 2020-10-17 | 2022-07-25 |
 | [Money and Fools](https://open.spotify.com/track/5Dd3iLxJNlFnzsY8T8PW3a) | [Benny Walker](https://open.spotify.com/artist/7vkMTeJB89xakcCt1kaU0W) | [Chosen Line](https://open.spotify.com/album/1bT2pL7uhyDea49uNAV2W3) | 3:50 | 2021-07-26 | 2022-07-16 |
 | [Move Me](https://open.spotify.com/track/3zyBMnHwaDlf1xsRwJ5tzq) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Matters Of The Heart](https://open.spotify.com/album/56GwQuFFJwfFMcSsmvwUYK) | 2:58 | 2020-10-17 | 2022-07-29 |
-| [Musta Been Something](https://open.spotify.com/track/0Vr6vFlxGoAMs6RPA5vJZY) | [Lake Street Dive](https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd) | [Free Yourself Up](https://open.spotify.com/album/1eWP4CbLwVsVuC44utXBOD) | 5:46 | 2020-10-17 |  |
+| [Musta Been Something](https://open.spotify.com/track/0Vr6vFlxGoAMs6RPA5vJZY) | [Lake Street Dive](https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd) | [Free Yourself Up](https://open.spotify.com/album/1eWP4CbLwVsVuC44utXBOD) | 5:46 | 2020-10-17 | 2022-09-03 |
 | [My Life](https://open.spotify.com/track/2hPY2x0M6k8pQiBxeCzD5T) | [Loren Kramar](https://open.spotify.com/artist/3LDUvPQ97zYOzFliNk9GmV) | [My Life](https://open.spotify.com/album/32FU3BRS2YpxpVpQvCitpU) | 4:12 | 2020-10-17 | 2022-07-24 |
 | [My Whole World Stopped Without You](https://open.spotify.com/track/7awBL5Pu8LD6Fl7iTrJotx) | [Vintage Trouble](https://open.spotify.com/artist/72Pauuctba5lMzC89R0Vk0) | [My Whole World Stopped Without You](https://open.spotify.com/album/0DQXRwHKiT7lKk0T2S7jOj) | 4:04 | 2020-10-17 | 2022-04-20 |
 | [nervous](https://open.spotify.com/track/3zorFzOo3SA8VkV89FgRnu) | [Jonah Yano](https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [nervous](https://open.spotify.com/album/0SRx4QsNCcQcEFrDuwLvGi) | 3:16 | 2020-10-17 | 2022-04-21 |

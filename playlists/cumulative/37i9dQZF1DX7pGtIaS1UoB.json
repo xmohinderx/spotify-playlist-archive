@@ -1712,6 +1712,28 @@
     },
     {
       "album": {
+        "name": "\u590f\u827217\u53f7-\u6bd4\u5c14\u7684\u6b4c",
+        "url": "https://open.spotify.com/album/0ZO8r4sN5eymZG4YMozKT1"
+      },
+      "artists": [
+        {
+          "name": "Bomb\u6bd4\u5c14",
+          "url": "https://open.spotify.com/artist/3Sb1u6CGLCWHHphMqX326E"
+        },
+        {
+          "name": "\u4e0d\u662f\u82b1\u706b\u5440",
+          "url": "https://open.spotify.com/artist/5CxdR3VSEWjiAa5DabdLVd"
+        }
+      ],
+      "date_added": "2022-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193469,
+      "name": "\u590f\u827217\u53f7-\u6bd4\u5c14\u7684\u6b4c",
+      "url": "https://open.spotify.com/track/5Dr6LweBUX9A0w4Fm0oaB0"
+    },
+    {
+      "album": {
         "name": "\u51e1\u4eba",
         "url": "https://open.spotify.com/album/1MZZXzwEPXBvwG29dpGCDZ"
       },
@@ -3063,7 +3085,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 243520,
       "name": "\u6709\u7a7a\u8a18\u5f97\u7d04\u6211 - \u96fb\u8996\u96fb\u5f71\u300a\u96dc\u8ca8\u5e97\u300b\u4e3b\u984c\u66f2",
       "url": "https://open.spotify.com/track/1ruZAxKKU6x6fl7MKlkRfs"

@@ -1,12 +1,12 @@
 {
   "description": "A cup of Joe and the raw blues.\n",
-  "num_followers": 32208,
+  "num_followers": 32310,
   "original_name": "Black Coffee Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTEwNTU1NiwwMDAwMDAwMDJjZjVjZjU1N2MzZmIyNWJhMzZlY2Y2MmU5YzM0NGFm",
+  "snapshot_id": "MTY1OTEwNTU1NiwwMDAwMDAwMGE2MzkwODk2NjYwZGUyNzZmZTg0MTYyMWI3MmMyOTQx",
   "tracks": [
     {
       "added_at": "2022-07-29 14:39:16",
@@ -423,6 +423,22 @@
     {
       "added_at": "2022-07-29 14:39:16",
       "album": {
+        "name": "Booker's Guitar",
+        "url": "https://open.spotify.com/album/3Ska5qQfOmK6PyxdGhUnSG"
+      },
+      "artists": [
+        {
+          "name": "Eric Bibb",
+          "url": "https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1"
+        }
+      ],
+      "duration_ms": 221120,
+      "name": "With My Maker I Am One",
+      "url": "https://open.spotify.com/track/1P3EPqytwKmzzgrbw72xRP"
+    },
+    {
+      "added_at": "2022-07-29 14:39:16",
+      "album": {
         "name": "Get Up! (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1xu9bQjnB72GNFeH31UDX7"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 261573,
       "name": "You Found Another Lover (I Lost Another Friend) - The Machine Shop Session",
       "url": "https://open.spotify.com/track/2ElTJmWJbuHT7owpTe3upS"
-    },
-    {
-      "added_at": "2022-07-29 14:39:16",
-      "album": {
-        "name": "Booker's Guitar",
-        "url": "https://open.spotify.com/album/3Ska5qQfOmK6PyxdGhUnSG"
-      },
-      "artists": [
-        {
-          "name": "Eric Bibb",
-          "url": "https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1"
-        }
-      ],
-      "duration_ms": 221120,
-      "name": "With My Maker I Am One",
-      "url": "https://open.spotify.com/track/1P3EPqytwKmzzgrbw72xRP"
     },
     {
       "added_at": "2022-07-29 14:39:16",
@@ -579,22 +579,6 @@
     {
       "added_at": "2022-07-29 14:39:16",
       "album": {
-        "name": "Racing To A Red Light",
-        "url": "https://open.spotify.com/album/19gorkDhGxNv1eydTzvZ1a"
-      },
-      "artists": [
-        {
-          "name": "Early James",
-          "url": "https://open.spotify.com/artist/6fJpluuZmZ2tX2AviJ3bNY"
-        }
-      ],
-      "duration_ms": 264066,
-      "name": "Racing To A Red Light",
-      "url": "https://open.spotify.com/track/171aGpy6zowgTlHROdFKdY"
-    },
-    {
-      "added_at": "2022-07-29 14:39:16",
-      "album": {
         "name": "All Blues's Up: Songs of Led Zeppelin",
         "url": "https://open.spotify.com/album/1nvuBxN1Uc6HdVyS2J01Yp"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 139146,
       "name": "When The Levee Breaks (Part One)",
       "url": "https://open.spotify.com/track/1hzhyWY6IkZEnVRPIDIhwm"
+    },
+    {
+      "added_at": "2022-07-29 14:39:16",
+      "album": {
+        "name": "Racing To A Red Light",
+        "url": "https://open.spotify.com/album/19gorkDhGxNv1eydTzvZ1a"
+      },
+      "artists": [
+        {
+          "name": "Early James",
+          "url": "https://open.spotify.com/artist/6fJpluuZmZ2tX2AviJ3bNY"
+        }
+      ],
+      "duration_ms": 264066,
+      "name": "Racing To A Red Light",
+      "url": "https://open.spotify.com/track/171aGpy6zowgTlHROdFKdY"
     },
     {
       "added_at": "2022-07-29 14:39:16",
@@ -671,6 +671,22 @@
     {
       "added_at": "2022-07-29 14:39:16",
       "album": {
+        "name": "Smoke From The Chimney",
+        "url": "https://open.spotify.com/album/5VcbS7I5iRYJoZSOp344F1"
+      },
+      "artists": [
+        {
+          "name": "Tony Joe White",
+          "url": "https://open.spotify.com/artist/6QvgWa4x3Ij4tvBpFMo11P"
+        }
+      ],
+      "duration_ms": 207573,
+      "name": "Boot Money",
+      "url": "https://open.spotify.com/track/2WzaKNNPxwE4dKGaGlghqh"
+    },
+    {
+      "added_at": "2022-07-29 14:39:16",
+      "album": {
         "name": "Angel In The Alleyways",
         "url": "https://open.spotify.com/album/0dDD5xoKda8099F4wTuByT"
       },
@@ -695,22 +711,6 @@
     {
       "added_at": "2022-07-29 14:39:16",
       "album": {
-        "name": "Smoke From The Chimney",
-        "url": "https://open.spotify.com/album/5VcbS7I5iRYJoZSOp344F1"
-      },
-      "artists": [
-        {
-          "name": "Tony Joe White",
-          "url": "https://open.spotify.com/artist/6QvgWa4x3Ij4tvBpFMo11P"
-        }
-      ],
-      "duration_ms": 207573,
-      "name": "Boot Money",
-      "url": "https://open.spotify.com/track/2WzaKNNPxwE4dKGaGlghqh"
-    },
-    {
-      "added_at": "2022-07-29 14:39:16",
-      "album": {
         "name": "Set Sail",
         "url": "https://open.spotify.com/album/12psJfvIqIEwGY6JNuQMzF"
       },
@@ -731,6 +731,22 @@
     {
       "added_at": "2022-07-29 14:39:16",
       "album": {
+        "name": "Presenting Robert Nighthawk",
+        "url": "https://open.spotify.com/album/4VIFEGvSDLnyTUoZDSJinS"
+      },
+      "artists": [
+        {
+          "name": "Robert Nighthawk",
+          "url": "https://open.spotify.com/artist/1ycL0Ct3hz0glGDIwsUyNG"
+        }
+      ],
+      "duration_ms": 184466,
+      "name": "Black Angel Blues",
+      "url": "https://open.spotify.com/track/5insosOirGOL3cvJ0li2bD"
+    },
+    {
+      "added_at": "2022-07-29 14:39:16",
+      "album": {
         "name": "Blues From The Gutter",
         "url": "https://open.spotify.com/album/6tBbwtL1simKd3VF6jE5dL"
       },
@@ -747,18 +763,18 @@
     {
       "added_at": "2022-07-29 14:39:16",
       "album": {
-        "name": "Presenting Robert Nighthawk",
-        "url": "https://open.spotify.com/album/4VIFEGvSDLnyTUoZDSJinS"
+        "name": "Martin Scorsese Presents The Blues: Keb' Mo'",
+        "url": "https://open.spotify.com/album/1El1ZLtpLoUpQHjUdXtLxc"
       },
       "artists": [
         {
-          "name": "Robert Nighthawk",
-          "url": "https://open.spotify.com/artist/1ycL0Ct3hz0glGDIwsUyNG"
+          "name": "Keb' Mo'",
+          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
         }
       ],
-      "duration_ms": 184466,
-      "name": "Black Angel Blues",
-      "url": "https://open.spotify.com/track/5insosOirGOL3cvJ0li2bD"
+      "duration_ms": 195226,
+      "name": "Perpetual Blues Machine",
+      "url": "https://open.spotify.com/track/2CgFNet99tzGTEIxYrYbuN"
     },
     {
       "added_at": "2022-07-29 14:39:16",
@@ -787,22 +803,6 @@
       "duration_ms": 181546,
       "name": "You Was Born To Die (feat. Kyshona Armstrong, Margo Price & Jason Isbell)",
       "url": "https://open.spotify.com/track/2SVuc7b7qwCcDX4rCAqkyJ"
-    },
-    {
-      "added_at": "2022-07-29 14:39:16",
-      "album": {
-        "name": "Martin Scorsese Presents The Blues: Keb' Mo'",
-        "url": "https://open.spotify.com/album/1El1ZLtpLoUpQHjUdXtLxc"
-      },
-      "artists": [
-        {
-          "name": "Keb' Mo'",
-          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
-        }
-      ],
-      "duration_ms": 195226,
-      "name": "Perpetual Blues Machine",
-      "url": "https://open.spotify.com/track/2CgFNet99tzGTEIxYrYbuN"
     },
     {
       "added_at": "2022-07-29 14:39:16",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2022-07-29 14:39:16",
       "album": {
+        "name": "Great God Almighty (Demo, Summer 2018)",
+        "url": "https://open.spotify.com/album/346VRPWFqkGJ6r67HMvOm4"
+      },
+      "artists": [
+        {
+          "name": "Mike Trask",
+          "url": "https://open.spotify.com/artist/03QTVe1gbMUcw3wF1Vdn4k"
+        }
+      ],
+      "duration_ms": 178276,
+      "name": "Great God Almighty - Demo, Summer 2018",
+      "url": "https://open.spotify.com/track/1LOYHXCCqHpnLuzfXRCjfy"
+    },
+    {
+      "added_at": "2022-07-29 14:39:16",
+      "album": {
         "name": "First McDonell's on the Moon",
         "url": "https://open.spotify.com/album/6hVnFJurOhApCMbjug96f4"
       },
@@ -1095,22 +1111,6 @@
     {
       "added_at": "2022-07-29 14:39:16",
       "album": {
-        "name": "Great God Almighty (Demo, Summer 2018)",
-        "url": "https://open.spotify.com/album/346VRPWFqkGJ6r67HMvOm4"
-      },
-      "artists": [
-        {
-          "name": "Mike Trask",
-          "url": "https://open.spotify.com/artist/03QTVe1gbMUcw3wF1Vdn4k"
-        }
-      ],
-      "duration_ms": 178276,
-      "name": "Great God Almighty - Demo, Summer 2018",
-      "url": "https://open.spotify.com/track/1LOYHXCCqHpnLuzfXRCjfy"
-    },
-    {
-      "added_at": "2022-07-29 14:39:16",
-      "album": {
         "name": "Hangover Blues",
         "url": "https://open.spotify.com/album/5tVLK620Eepr8FfUFvYmkz"
       },
@@ -1123,22 +1123,6 @@
       "duration_ms": 244746,
       "name": "Hangover Blues",
       "url": "https://open.spotify.com/track/1babQrGnsSw3RZ07KvMapY"
-    },
-    {
-      "added_at": "2022-07-29 14:39:16",
-      "album": {
-        "name": "Buffalo Nichols",
-        "url": "https://open.spotify.com/album/2P9z3iSo6T3NmaX5q4FjTc"
-      },
-      "artists": [
-        {
-          "name": "Buffalo Nichols",
-          "url": "https://open.spotify.com/artist/5dT9JLuBwGNiHJQsY29Qmh"
-        }
-      ],
-      "duration_ms": 205201,
-      "name": "Back on Top",
-      "url": "https://open.spotify.com/track/1Ps6uZFGUtM8VZlOTY6EnU"
     },
     {
       "added_at": "2022-07-29 14:39:16",
@@ -1159,18 +1143,18 @@
     {
       "added_at": "2022-07-29 14:39:16",
       "album": {
-        "name": "Jolene",
-        "url": "https://open.spotify.com/album/6bD5yWr1tSMSnuCqkR1HsG"
+        "name": "Buffalo Nichols",
+        "url": "https://open.spotify.com/album/2P9z3iSo6T3NmaX5q4FjTc"
       },
       "artists": [
         {
-          "name": "GA-20",
-          "url": "https://open.spotify.com/artist/5lg8xPLWMK8R3EfQlKA5bT"
+          "name": "Buffalo Nichols",
+          "url": "https://open.spotify.com/artist/5dT9JLuBwGNiHJQsY29Qmh"
         }
       ],
-      "duration_ms": 237769,
-      "name": "Jolene",
-      "url": "https://open.spotify.com/track/7xy2SAiuKSfpUeUizXvmX7"
+      "duration_ms": 205201,
+      "name": "Back on Top",
+      "url": "https://open.spotify.com/track/1Ps6uZFGUtM8VZlOTY6EnU"
     },
     {
       "added_at": "2022-07-29 14:39:16",
@@ -1187,6 +1171,22 @@
       "duration_ms": 289786,
       "name": "Black Horizon",
       "url": "https://open.spotify.com/track/3E6epwRVuuksTZDlvc24VH"
+    },
+    {
+      "added_at": "2022-07-29 14:39:16",
+      "album": {
+        "name": "Jolene",
+        "url": "https://open.spotify.com/album/6bD5yWr1tSMSnuCqkR1HsG"
+      },
+      "artists": [
+        {
+          "name": "GA-20",
+          "url": "https://open.spotify.com/artist/5lg8xPLWMK8R3EfQlKA5bT"
+        }
+      ],
+      "duration_ms": 237769,
+      "name": "Jolene",
+      "url": "https://open.spotify.com/track/7xy2SAiuKSfpUeUizXvmX7"
     },
     {
       "added_at": "2022-07-29 14:39:16",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2022-07-29 14:39:16",
       "album": {
-        "name": "Neckbone Stew",
-        "url": "https://open.spotify.com/album/5WaGSIkfMgfuJ0Yd9FNyKb"
-      },
-      "artists": [
-        {
-          "name": "Big Daddy Wilson",
-          "url": "https://open.spotify.com/artist/4xBhIBf0DEjAcJvGSwJdFr"
-        }
-      ],
-      "duration_ms": 181040,
-      "name": "Cross Creek Road",
-      "url": "https://open.spotify.com/track/6sfZbIO4O4BtgE0mJ20zFg"
-    },
-    {
-      "added_at": "2022-07-29 14:39:16",
-      "album": {
         "name": "The Best Of Delta Records",
         "url": "https://open.spotify.com/album/6qF7UpIdnbVMPukKa9rpee"
       },
@@ -1259,6 +1243,22 @@
     {
       "added_at": "2022-07-29 14:39:16",
       "album": {
+        "name": "Neckbone Stew",
+        "url": "https://open.spotify.com/album/5WaGSIkfMgfuJ0Yd9FNyKb"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Wilson",
+          "url": "https://open.spotify.com/artist/4xBhIBf0DEjAcJvGSwJdFr"
+        }
+      ],
+      "duration_ms": 181040,
+      "name": "Cross Creek Road",
+      "url": "https://open.spotify.com/track/6sfZbIO4O4BtgE0mJ20zFg"
+    },
+    {
+      "added_at": "2022-07-29 14:39:16",
+      "album": {
         "name": "Blue River Rising",
         "url": "https://open.spotify.com/album/2oKbRUC7S1CmDvIXIPDG4W"
       },
@@ -1275,18 +1275,22 @@
     {
       "added_at": "2022-07-29 14:39:16",
       "album": {
-        "name": "Devil Got My Woman",
-        "url": "https://open.spotify.com/album/0sgYD9rg6DpI2uWrffTXEr"
+        "name": "Brother Johnny",
+        "url": "https://open.spotify.com/album/4xRZx0cl1NVIG2oDtACbpa"
       },
       "artists": [
         {
-          "name": "Skip James",
-          "url": "https://open.spotify.com/artist/2zlMeTjA7szCmqcJjBzYXJ"
+          "name": "Edgar Winter",
+          "url": "https://open.spotify.com/artist/3UNrI3SG1l2ezKikxQ2zuk"
+        },
+        {
+          "name": "Keb' Mo'",
+          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
         }
       ],
-      "duration_ms": 315000,
-      "name": "Devil Got My Woman",
-      "url": "https://open.spotify.com/track/6DawgaTuMtL9DOq1jCVeVN"
+      "duration_ms": 237096,
+      "name": "Lone Star Blues",
+      "url": "https://open.spotify.com/track/6RQBEr8vjgHlRIANySsjbm"
     }
   ],
   "unique_name": "Black Coffee Blues",

@@ -1,12 +1,12 @@
 {
   "description": "Jazzy takes on your favorite Holiday songs. Cover: Nat King Cole",
-  "num_followers": 453130,
+  "num_followers": 453128,
   "original_name": "Christmas Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzOTExMjQ2MCwwMDAwMDAwMGVjNjJlNTBmZDNkMTcyYzdkMzYyZDE3NGUzZmFkNDMy",
+  "snapshot_id": "MTYzOTExMjQ2MCwwMDAwMDAwMGI3Zjc2MDU4OTY5YzU3YzFjMmRhMDc0ZmVkNGEyODE0",
   "tracks": [
     {
       "added_at": "2021-11-12 15:48:58",
@@ -371,6 +371,22 @@
     {
       "added_at": "2021-11-12 15:48:58",
       "album": {
+        "name": "White Christmas",
+        "url": "https://open.spotify.com/album/3YsRLmD4nlPi6fJOEmsO30"
+      },
+      "artists": [
+        {
+          "name": "Matt Belsante",
+          "url": "https://open.spotify.com/artist/4xJmGeK78D0iQa6rk4wlgz"
+        }
+      ],
+      "duration_ms": 214786,
+      "name": "Home For The Holidays",
+      "url": "https://open.spotify.com/track/0UzJq86HhxcMzisUcX2BcV"
+    },
+    {
+      "added_at": "2021-11-12 15:48:58",
+      "album": {
         "name": "Three Suites",
         "url": "https://open.spotify.com/album/4YfEBSeidWGv2gn4LUUiVS"
       },
@@ -435,22 +451,6 @@
     {
       "added_at": "2021-11-12 15:48:58",
       "album": {
-        "name": "White Christmas",
-        "url": "https://open.spotify.com/album/3YsRLmD4nlPi6fJOEmsO30"
-      },
-      "artists": [
-        {
-          "name": "Matt Belsante",
-          "url": "https://open.spotify.com/artist/4xJmGeK78D0iQa6rk4wlgz"
-        }
-      ],
-      "duration_ms": 214786,
-      "name": "Home For The Holidays",
-      "url": "https://open.spotify.com/track/0UzJq86HhxcMzisUcX2BcV"
-    },
-    {
-      "added_at": "2021-11-12 15:48:58",
-      "album": {
         "name": "Billie Holiday Love Songs",
         "url": "https://open.spotify.com/album/3MXpFQDq1cTE4WfGZDAsY4"
       },
@@ -499,6 +499,22 @@
     {
       "added_at": "2021-11-12 15:48:58",
       "album": {
+        "name": "Breaking It Up!",
+        "url": "https://open.spotify.com/album/0nwd49YxEDzYuCJG5hlfAX"
+      },
+      "artists": [
+        {
+          "name": "Louis Prima",
+          "url": "https://open.spotify.com/artist/52lBOxCxbJg0ttXEW9CQpW"
+        }
+      ],
+      "duration_ms": 145333,
+      "name": "Shake Hands with Santa Claus - Mono Recording",
+      "url": "https://open.spotify.com/track/4uWOOyWwhkYAchf4WFuiTT"
+    },
+    {
+      "added_at": "2021-11-12 15:48:58",
+      "album": {
         "name": "The Classic Christmas Album",
         "url": "https://open.spotify.com/album/6Djk03kVAeEzGpFpLbA141"
       },
@@ -531,18 +547,18 @@
     {
       "added_at": "2021-11-12 15:48:58",
       "album": {
-        "name": "What A Night! A Christmas Album",
-        "url": "https://open.spotify.com/album/545gVC14v9Z8qiThMSJgui"
+        "name": "Merry Christmas from Jos\u00e9 James",
+        "url": "https://open.spotify.com/album/4bcdBu4Vjwu1J0GGs7HU72"
       },
       "artists": [
         {
-          "name": "Harry Connick, Jr.",
-          "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
+          "name": "Jos\u00e9 James",
+          "url": "https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz"
         }
       ],
-      "duration_ms": 243600,
-      "name": "Have a Holly Jolly Christmas",
-      "url": "https://open.spotify.com/track/2Lb9nBoZ8V5GNtMOgcaF8o"
+      "duration_ms": 178066,
+      "name": "Christmas in New York",
+      "url": "https://open.spotify.com/track/4OtoXQ2ySVcmudZT4jF8jH"
     },
     {
       "added_at": "2021-11-12 15:48:58",
@@ -563,34 +579,18 @@
     {
       "added_at": "2021-11-12 15:48:58",
       "album": {
-        "name": "Merry Christmas from Jos\u00e9 James",
-        "url": "https://open.spotify.com/album/4bcdBu4Vjwu1J0GGs7HU72"
+        "name": "What A Night! A Christmas Album",
+        "url": "https://open.spotify.com/album/545gVC14v9Z8qiThMSJgui"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 James",
-          "url": "https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz"
+          "name": "Harry Connick, Jr.",
+          "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
         }
       ],
-      "duration_ms": 178066,
-      "name": "Christmas in New York",
-      "url": "https://open.spotify.com/track/4OtoXQ2ySVcmudZT4jF8jH"
-    },
-    {
-      "added_at": "2021-11-12 15:48:58",
-      "album": {
-        "name": "Breaking It Up!",
-        "url": "https://open.spotify.com/album/0nwd49YxEDzYuCJG5hlfAX"
-      },
-      "artists": [
-        {
-          "name": "Louis Prima",
-          "url": "https://open.spotify.com/artist/52lBOxCxbJg0ttXEW9CQpW"
-        }
-      ],
-      "duration_ms": 145333,
-      "name": "Shake Hands with Santa Claus - Mono Recording",
-      "url": "https://open.spotify.com/track/4uWOOyWwhkYAchf4WFuiTT"
+      "duration_ms": 243600,
+      "name": "Have a Holly Jolly Christmas",
+      "url": "https://open.spotify.com/track/2Lb9nBoZ8V5GNtMOgcaF8o"
     },
     {
       "added_at": "2021-11-12 15:48:58",
@@ -615,22 +615,6 @@
     {
       "added_at": "2021-11-12 15:48:58",
       "album": {
-        "name": "An Oscar Peterson Christmas",
-        "url": "https://open.spotify.com/album/74wmf30QFStNhgwiLLNPuk"
-      },
-      "artists": [
-        {
-          "name": "Oscar Peterson",
-          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
-        }
-      ],
-      "duration_ms": 286533,
-      "name": "What Child Is This?",
-      "url": "https://open.spotify.com/track/08dQ920WdoLvM1iItUuflQ"
-    },
-    {
-      "added_at": "2021-11-12 15:48:58",
-      "album": {
         "name": "Christmas With The Puppini Sisters",
         "url": "https://open.spotify.com/album/3u6OeK5MR1dNsK7UQId0W0"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 181773,
       "name": "Here Comes Santa Claus",
       "url": "https://open.spotify.com/track/1k0Fo8boJohHlLF4n9Zhht"
+    },
+    {
+      "added_at": "2021-11-12 15:48:58",
+      "album": {
+        "name": "An Oscar Peterson Christmas",
+        "url": "https://open.spotify.com/album/74wmf30QFStNhgwiLLNPuk"
+      },
+      "artists": [
+        {
+          "name": "Oscar Peterson",
+          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
+        }
+      ],
+      "duration_ms": 286533,
+      "name": "What Child Is This?",
+      "url": "https://open.spotify.com/track/08dQ920WdoLvM1iItUuflQ"
     },
     {
       "added_at": "2021-11-12 15:48:58",
@@ -747,22 +747,6 @@
     {
       "added_at": "2021-11-12 15:48:58",
       "album": {
-        "name": "Christmas in the Rockies",
-        "url": "https://open.spotify.com/album/4jfBNIB9fPR9tZLalMMIxu"
-      },
-      "artists": [
-        {
-          "name": "Stacey Kent",
-          "url": "https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi"
-        }
-      ],
-      "duration_ms": 226917,
-      "name": "Christmas Time is Here",
-      "url": "https://open.spotify.com/track/5zgSvriujXdqbP0kyEhZvS"
-    },
-    {
-      "added_at": "2021-11-12 15:48:58",
-      "album": {
         "name": "Jazz Christmas Songs By The Fire",
         "url": "https://open.spotify.com/album/0F8Aw2DVnhQNINV62SYtqg"
       },
@@ -775,22 +759,6 @@
       "duration_ms": 201375,
       "name": "Have Yourself A Merry Little Christmas - Fireplace",
       "url": "https://open.spotify.com/track/3aZemyBU6kMjsqVGTWQ0v4"
-    },
-    {
-      "added_at": "2021-11-12 15:48:58",
-      "album": {
-        "name": "Christmas Blues: Savoy Jazz Christmas Album",
-        "url": "https://open.spotify.com/album/1QMmVNZc6MpssCZy62IuNI"
-      },
-      "artists": [
-        {
-          "name": "Charlie Parker",
-          "url": "https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC"
-        }
-      ],
-      "duration_ms": 297200,
-      "name": "White Christmas",
-      "url": "https://open.spotify.com/track/1Als47O3HnJ8NGg5je6s4A"
     },
     {
       "added_at": "2021-11-12 15:48:58",
@@ -811,6 +779,22 @@
     {
       "added_at": "2021-11-12 15:48:58",
       "album": {
+        "name": "Christmas Blues: Savoy Jazz Christmas Album",
+        "url": "https://open.spotify.com/album/1QMmVNZc6MpssCZy62IuNI"
+      },
+      "artists": [
+        {
+          "name": "Charlie Parker",
+          "url": "https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC"
+        }
+      ],
+      "duration_ms": 297200,
+      "name": "White Christmas",
+      "url": "https://open.spotify.com/track/1Als47O3HnJ8NGg5je6s4A"
+    },
+    {
+      "added_at": "2021-11-12 15:48:58",
+      "album": {
         "name": "Joe Pass - Six String Santa",
         "url": "https://open.spotify.com/album/1SXRnss2fnudVkXZrVxIJX"
       },
@@ -823,6 +807,26 @@
       "duration_ms": 275745,
       "name": "Angels We Have Heard on High / Joy to the World",
       "url": "https://open.spotify.com/track/3ZtqRGAm0Q3hUjRKKGoDeA"
+    },
+    {
+      "added_at": "2021-11-12 15:48:58",
+      "album": {
+        "name": "A Very Swingin\u2019 Basie Christmas!",
+        "url": "https://open.spotify.com/album/2YeKSxPeuQYiml0g6pzn7S"
+      },
+      "artists": [
+        {
+          "name": "Count Basie Orchestra",
+          "url": "https://open.spotify.com/artist/2Hn9fch2OLB5jZuEAVjTCe"
+        },
+        {
+          "name": "Ledisi",
+          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
+        }
+      ],
+      "duration_ms": 221240,
+      "name": "The Christmas Song",
+      "url": "https://open.spotify.com/track/6mIzy7czAJV2sEYA1H7ws3"
     },
     {
       "added_at": "2021-11-12 15:48:58",

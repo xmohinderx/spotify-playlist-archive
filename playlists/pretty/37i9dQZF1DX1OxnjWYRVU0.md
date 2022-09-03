@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OxnjWYRVU0.md) - [plain]
 
 > New takes on old classics!
 
-[Spotify](https://open.spotify.com/user/spotify) - 334,284 likes - 327 songs - 14 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,492 likes - 327 songs - 14 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OxnjWYRVU0.md) - [plain]
 | 23 | [Friday](https://open.spotify.com/track/2b4VSmtrC8yVZq7BnwR54W) | [Poylow](https://open.spotify.com/artist/2u1KLzprGSRmfFhjt7MDYq), [Masove](https://open.spotify.com/artist/1SridnvhrGK3S0cfnVcOYR), [Camilia](https://open.spotify.com/artist/58jQ9ySMbgsPyB4VkDjGrQ) | [Friday](https://open.spotify.com/album/2oel6AtBABS8vaLLcKUUWL) | 2:12 |
 | 24 | [L'Amour Toujours](https://open.spotify.com/track/7qq1J6TCW2Zw1A2ORoOIH2) | [Beachbag](https://open.spotify.com/artist/2dZshj2g0klBLuEML2xkWg), [Max Fail](https://open.spotify.com/artist/6fyLFM7G6aSFpZ1BUUDCLf), [Viktoria Vane](https://open.spotify.com/artist/79dlbfHIQnyxL71jvyQw4J) | [L'Amour Toujours](https://open.spotify.com/album/6YRVf3VlMETzY7A5BUrEH9) | 2:21 |
 | 25 | [Cry for You](https://open.spotify.com/track/3mRbaq32Z5NSEIlsICMGxl) | [Alex D'Rosso](https://open.spotify.com/artist/6gT6Fw0g5nBD3RQiZub7cA), [Luc Ross](https://open.spotify.com/artist/2W3Sn6sLJ81kw6lOOY1bLJ), [WAGMI](https://open.spotify.com/artist/4zekO499ywZod7PN71TR2i), [VARGENTA](https://open.spotify.com/artist/4hg56haGFxxnKEt3AkW3fo) | [Cry for You](https://open.spotify.com/album/4tHn2eKtlFRvdAQ0JM17el) | 2:53 |
-| 26 | [Goodies](https://open.spotify.com/track/1rGd2CoMxEg2dnaytLY5ZG) | [Dillon Hart Francis](https://open.spotify.com/artist/4ihnAynAAXOjXeDCM7nffR) | [Goodies](https://open.spotify.com/album/67bFXY7O9MCywon0nEyS1Z) | 2:01 |
+| 26 | [Goodies](https://open.spotify.com/track/1rGd2CoMxEg2dnaytLY5ZG) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf) | [Goodies](https://open.spotify.com/album/67bFXY7O9MCywon0nEyS1Z) | 2:01 |
 | 27 | [I Wanna Go](https://open.spotify.com/track/17ijhkx4lfVk4fxJJssRQn) | [Sam Giancana](https://open.spotify.com/artist/6jJ3jEaGTuUHfBI6ndwAnI), [Milan Gavris](https://open.spotify.com/artist/5Ukdziss6tmNzMRrJ60UKJ), [Frank Moody](https://open.spotify.com/artist/0ZL2OZFfHk4BiwnnPKsD3e) | [I Wanna Go](https://open.spotify.com/album/6j1jtymMGSUQVNnbi05FeW) | 2:37 |
 | 28 | [Ni\*\*as in Paris \- HEDEGAARD & Matt Hawk Remix](https://open.spotify.com/track/5MnY5YCv552pFeSwNdCqZw) | [HEDEGAARD](https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2), [Matt Hawk](https://open.spotify.com/artist/0lGQjr3FTxAwGLlpce0jMg) | [Ni\*\*as in Paris \(HEDEGAARD & Matt Hawk Remix\)](https://open.spotify.com/album/6oazaMjIfrJiNU2HLKtqzs) | 4:06 |
 | 29 | [I Don't Care](https://open.spotify.com/track/1pvIVEBrRjkiQM4rwDMDe8) | [DJSM](https://open.spotify.com/artist/13qjHQyFpjR48hBIbPrwMx), [Robbe](https://open.spotify.com/artist/58imfUscPVwuhuHt1MpBDA), [Milan Gavris](https://open.spotify.com/artist/5Ukdziss6tmNzMRrJ60UKJ) | [I Don't Care](https://open.spotify.com/album/2lAylOKJNQd6xEWr30a0E4) | 2:48 |

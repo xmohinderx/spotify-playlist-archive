@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSAqa5cw6DxQ.md) - [plain]
 
 > Clear your mind with soothing new age guitar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,586 likes - 90 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,472 likes - 90 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,14 +17,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSAqa5cw6DxQ.md) - [plain]
 | 7 | [Aurora](https://open.spotify.com/track/50FEe1nYGhnjMk4XEkh3HQ) | [Savino Fiorelli](https://open.spotify.com/artist/3UhmIVKpLg4zkoyOTuduU4) | [Aurora](https://open.spotify.com/album/03SWBRDS5HAEMKQCKp1dew) | 2:55 |
 | 8 | [In the Far Away Distance](https://open.spotify.com/track/1oHDNBIxtHai4IcMQ4mJuL) | [Zen Gaya](https://open.spotify.com/artist/5zC4k86g6y3NsIvUwFVX1G) | [In the Far Away Distance](https://open.spotify.com/album/6hxNWvBvsKr4mV1YAjz9HS) | 2:56 |
 | 9 | [mise\-en\-scène](https://open.spotify.com/track/2p0qjcvA9P0OQhL3vaT7BR) | [Samaneh Awad](https://open.spotify.com/artist/2r6oyERO8APn3d2BXDB3e1) | [mise\-en\-scène](https://open.spotify.com/album/3TKTuzJj6Wdngg3Fm7dVzZ) | 2:29 |
-| 10 | [Zenya](https://open.spotify.com/track/5ks86NE9jyrLfQJinAcfiA) | [Voyage Control](https://open.spotify.com/artist/2ZxdgHyc8cnGVXvUgaApbc) | [Zenya](https://open.spotify.com/album/3loauhCt2lDAVpdhYSTgrE) | 4:21 |
-| 11 | [Transparency](https://open.spotify.com/track/73ZnCLiPERq5SRGZ3cOpEz) | [Tristan Wilson](https://open.spotify.com/artist/0Whtro6LqFditoj7nzIOMH) | [Transparency](https://open.spotify.com/album/7L0fkPPLzgQWjo9CApHGOJ) | 2:14 |
-| 12 | [Midnight Rose](https://open.spotify.com/track/2vKrC9WVOelEnhhbDasiSe) | [Dayonas Dream](https://open.spotify.com/artist/46iZlIvXWYhgSp8geA7Ea3) | [Ethereal](https://open.spotify.com/album/0rizgZBRMsmGtpor6EMBg7) | 2:58 |
-| 13 | [Maudlin](https://open.spotify.com/track/7AsZvhrcwhWNTrmaDvITQF) | [Serge Matui](https://open.spotify.com/artist/2VqTonKthGJNoE3oYzsxzY) | [Maudlin](https://open.spotify.com/album/6dwlDjvOvNa4GFLKuWUtjs) | 2:14 |
-| 14 | [Nothing But Now](https://open.spotify.com/track/7b6rxgdX4vxUxE7nVVImh5) | [Distant Waves](https://open.spotify.com/artist/7GEwtxqekjKY0au4q89hHG) | [Nothing But Now](https://open.spotify.com/album/0e06o5DjhB0wI8KYIZfRFM) | 4:13 |
-| 15 | [Kulning](https://open.spotify.com/track/66hBtNKN7ofJ4tWy0kSqQ3) | [Sten Hammarlund](https://open.spotify.com/artist/5OtOvmgag48UrQamOtdP9x) | [Kulning](https://open.spotify.com/album/0FQQzyWWFlrWYil8EyTTQw) | 1:50 |
-| 16 | [Bedside Angels](https://open.spotify.com/track/5zWCWoMWqqBtvJxqlzNG3k) | [Sleepy Stills](https://open.spotify.com/artist/1Ft3gRFnTagadwt0sARe1r) | [Bedside Angels](https://open.spotify.com/album/2TFKgSDqj74cQAMvQMMsZq) | 2:14 |
-| 17 | [Angelica](https://open.spotify.com/track/33QdFnE3AIsQZaGZZWYMEo) | [Lionheart](https://open.spotify.com/artist/7sHTXnqmYqCECjKKb2iqWS) | [Soil of the Earth](https://open.spotify.com/album/02U4NcvO35hnPWETMhAKSE) | 4:38 |
+| 10 | [Solitary Dream](https://open.spotify.com/track/0j2OXnzJXz64RdW5Cd9YXF) | [Luka Vida](https://open.spotify.com/artist/0likNjMTiDiVjqPr4OcsZC) | [Solitary Dream](https://open.spotify.com/album/2XPb71dayODjs1YmaFQRnC) | 2:40 |
+| 11 | [Zenya](https://open.spotify.com/track/5ks86NE9jyrLfQJinAcfiA) | [Voyage Control](https://open.spotify.com/artist/2ZxdgHyc8cnGVXvUgaApbc) | [Zenya](https://open.spotify.com/album/3loauhCt2lDAVpdhYSTgrE) | 4:21 |
+| 12 | [Transparency](https://open.spotify.com/track/73ZnCLiPERq5SRGZ3cOpEz) | [Tristan Wilson](https://open.spotify.com/artist/0Whtro6LqFditoj7nzIOMH) | [Transparency](https://open.spotify.com/album/7L0fkPPLzgQWjo9CApHGOJ) | 2:14 |
+| 13 | [Midnight Rose](https://open.spotify.com/track/2vKrC9WVOelEnhhbDasiSe) | [Dayonas Dream](https://open.spotify.com/artist/46iZlIvXWYhgSp8geA7Ea3) | [Ethereal](https://open.spotify.com/album/0rizgZBRMsmGtpor6EMBg7) | 2:58 |
+| 14 | [Maudlin](https://open.spotify.com/track/7AsZvhrcwhWNTrmaDvITQF) | [Serge Matui](https://open.spotify.com/artist/2VqTonKthGJNoE3oYzsxzY) | [Maudlin](https://open.spotify.com/album/6dwlDjvOvNa4GFLKuWUtjs) | 2:14 |
+| 15 | [Nothing But Now](https://open.spotify.com/track/7b6rxgdX4vxUxE7nVVImh5) | [Distant Waves](https://open.spotify.com/artist/7GEwtxqekjKY0au4q89hHG) | [Nothing But Now](https://open.spotify.com/album/0e06o5DjhB0wI8KYIZfRFM) | 4:13 |
+| 16 | [Kulning](https://open.spotify.com/track/66hBtNKN7ofJ4tWy0kSqQ3) | [Sten Hammarlund](https://open.spotify.com/artist/5OtOvmgag48UrQamOtdP9x) | [Kulning](https://open.spotify.com/album/0FQQzyWWFlrWYil8EyTTQw) | 1:50 |
+| 17 | [Bedside Angels](https://open.spotify.com/track/5zWCWoMWqqBtvJxqlzNG3k) | [Sleepy Stills](https://open.spotify.com/artist/1Ft3gRFnTagadwt0sARe1r) | [Bedside Angels](https://open.spotify.com/album/2TFKgSDqj74cQAMvQMMsZq) | 2:14 |
 | 18 | [Reach The Creator](https://open.spotify.com/track/6vA2G72W5805Bpl7RTQGDa) | [Pale Blue](https://open.spotify.com/artist/15Ls0YwUCgfjO5Ib4JCtdF) | [Reach The Creator](https://open.spotify.com/album/1vWfZT1ara3oBSTUqGkSeU) | 4:07 |
 | 19 | [Obion Pulse](https://open.spotify.com/track/0zSRxrBb1PJ9Zlliu5PYtn) | [Polarsken](https://open.spotify.com/artist/776CEyHtewX4OuzP3zDVjH) | [Obion Pulse](https://open.spotify.com/album/0LnDW7jS8XsJ2QwegTlAHo) | 4:44 |
 | 20 | [Slumbering](https://open.spotify.com/track/7G93PdOrq65MM44MULk4LF) | [Mindful Eclipse](https://open.spotify.com/artist/7AqjdmOiPPFzX6oy0Mfo1j) | [Slumbering](https://open.spotify.com/album/38kQws0XCqhTwzmVs9SJX0) | 3:02 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSAqa5cw6DxQ.md) - [plain]
 | 89 | [Beginners Mind](https://open.spotify.com/track/750EM9eXVnU3XeHW945rJv) | [Delta Lab](https://open.spotify.com/artist/54v62EvD3dmxVaEo3LTVYe) | [Beginners Mind](https://open.spotify.com/album/7wjigSjvD3ERxDtKS9o7f0) | 3:53 |
 | 90 | [Waves](https://open.spotify.com/track/6b0IEewTmxjEoowlloqId2) | [Aliya Coldwell](https://open.spotify.com/artist/0kUap0NamZGz6FwR7tCjUE) | [Waves](https://open.spotify.com/album/45zsAjed9wN1PpVTnkl6n5) | 2:56 |
 
-Snapshot ID: `MTY2MDU4Nzg4MSwwMDAwMDAwMDFiMTJhOWY1NTY4YTExZjZlMjhlYzYwNjlkMzRiY2Q3`
+Snapshot ID: `MTY2MjEyNDAxNSwwMDAwMDAwMGYyNzk0YTQ3MDEzNmQ5ODg2M2E1MDYwNjM5ZmUyZjhj`

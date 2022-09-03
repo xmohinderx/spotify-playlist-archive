@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/keithpowers/\">Keith Powers</a>",
-  "num_followers": 216490,
+  "num_followers": 216802,
   "original_name": "Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjAwNDgwMCwwMDAwMDAwMDE2NTQ1ZmE4MDNhYmI4MDcyZmNlMmU2MzEwN2E2Zjg1",
+  "snapshot_id": "MTY2MjAwNDgwMCwwMDAwMDAwMGQxYzBmOTk3MDQ3YWMwNmI2MjljMDE0ZTU3MzgyZWMx",
   "tracks": [
     {
       "added_at": "2022-09-01 04:00:00",
@@ -811,22 +811,6 @@
     {
       "added_at": "2022-09-01 04:00:00",
       "album": {
-        "name": "Draped Up & Chipped Out 2",
-        "url": "https://open.spotify.com/album/37zg6C3wuZALIR2Fk4elB5"
-      },
-      "artists": [
-        {
-          "name": "Messy Marv",
-          "url": "https://open.spotify.com/artist/5QoPmqq8UfE0zsTWkM3CQD"
-        }
-      ],
-      "duration_ms": 227520,
-      "name": "Sei Luv",
-      "url": "https://open.spotify.com/track/4tDiCpJEVzpfeF5jRXue3h"
-    },
-    {
-      "added_at": "2022-09-01 04:00:00",
-      "album": {
         "name": "All Boo Boo",
         "url": "https://open.spotify.com/album/5sRZOBlc8CQmBlQsPvYOPf"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 198653,
       "name": "Grown Sh!t",
       "url": "https://open.spotify.com/track/1CusNEZHTyqLOmrSMQVOvy"
+    },
+    {
+      "added_at": "2022-09-01 04:00:00",
+      "album": {
+        "name": "Draped Up & Chipped Out 2",
+        "url": "https://open.spotify.com/album/37zg6C3wuZALIR2Fk4elB5"
+      },
+      "artists": [
+        {
+          "name": "Messy Marv",
+          "url": "https://open.spotify.com/artist/5QoPmqq8UfE0zsTWkM3CQD"
+        }
+      ],
+      "duration_ms": 227520,
+      "name": "Sei Luv",
+      "url": "https://open.spotify.com/track/4tDiCpJEVzpfeF5jRXue3h"
     },
     {
       "added_at": "2022-09-01 04:00:00",

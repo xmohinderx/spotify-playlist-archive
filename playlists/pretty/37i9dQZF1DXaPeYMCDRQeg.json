@@ -1,12 +1,12 @@
 {
   "description": "Celebrating Black love, one song at a time.",
-  "num_followers": 136562,
+  "num_followers": 136655,
   "original_name": "Love Language",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzI4NzY1OCwwMDAwMDAwMDE0YjY3NjA3YjkzZDFhOTA2MWQxYTBjOTAzNTA2NzA2",
+  "snapshot_id": "MTY0NzI4NzY1OCwwMDAwMDAwMGI0YWJiOGY4NDU2N2FlMmZkZDIzZmY1NDQwMWE2Yzhj",
   "tracks": [
     {
       "added_at": "2022-03-14 19:54:18",
@@ -291,6 +291,22 @@
     {
       "added_at": "2022-03-14 19:54:18",
       "album": {
+        "name": "Over It",
+        "url": "https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 193840,
+      "name": "Body",
+      "url": "https://open.spotify.com/track/7vxLj7MREliG5i5vSnqSVr"
+    },
+    {
+      "added_at": "2022-03-14 19:54:18",
+      "album": {
         "name": "War & Leisure",
         "url": "https://open.spotify.com/album/05LEST8E8mkEIl2LRfUkcI"
       },
@@ -311,22 +327,6 @@
       "duration_ms": 322000,
       "name": "Come Through and Chill (feat. J. Cole & Salaam Remi)",
       "url": "https://open.spotify.com/track/1m8WpLYXEiNVZchsWEcCSy"
-    },
-    {
-      "added_at": "2022-03-14 19:54:18",
-      "album": {
-        "name": "Over It",
-        "url": "https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 193840,
-      "name": "Body",
-      "url": "https://open.spotify.com/track/7vxLj7MREliG5i5vSnqSVr"
     },
     {
       "added_at": "2022-03-14 19:54:18",
@@ -615,22 +615,6 @@
     {
       "added_at": "2022-03-14 19:54:18",
       "album": {
-        "name": "Thriller",
-        "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 300106,
-      "name": "The Lady in My Life",
-      "url": "https://open.spotify.com/track/07L1pzoVerhRSSaDGZHrKy"
-    },
-    {
-      "added_at": "2022-03-14 19:54:18",
-      "album": {
         "name": "Floetic",
         "url": "https://open.spotify.com/album/37dLqaW3KP18Aeqesq0Exi"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 268373,
       "name": "Say Yes",
       "url": "https://open.spotify.com/track/2fE4MbwX3QGMzNaMjGVhtw"
+    },
+    {
+      "added_at": "2022-03-14 19:54:18",
+      "album": {
+        "name": "Thriller",
+        "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 300106,
+      "name": "The Lady in My Life",
+      "url": "https://open.spotify.com/track/07L1pzoVerhRSSaDGZHrKy"
     },
     {
       "added_at": "2022-03-14 19:54:18",
@@ -699,22 +699,6 @@
     {
       "added_at": "2022-03-14 19:54:18",
       "album": {
-        "name": "onmyradio",
-        "url": "https://open.spotify.com/album/50kPvqerqvDdl0JoWNMukp"
-      },
-      "artists": [
-        {
-          "name": "Musiq Soulchild",
-          "url": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8"
-        }
-      ],
-      "duration_ms": 291133,
-      "name": "sobeautiful",
-      "url": "https://open.spotify.com/track/2PN3gbuBn5WBEwrEJH3xiu"
-    },
-    {
-      "added_at": "2022-03-14 19:54:18",
-      "album": {
         "name": "Speakerboxxx/The Love Below",
         "url": "https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 326240,
       "name": "Prototype",
       "url": "https://open.spotify.com/track/1QJb6LWvPXZpTMiqqODqkH"
+    },
+    {
+      "added_at": "2022-03-14 19:54:18",
+      "album": {
+        "name": "onmyradio",
+        "url": "https://open.spotify.com/album/50kPvqerqvDdl0JoWNMukp"
+      },
+      "artists": [
+        {
+          "name": "Musiq Soulchild",
+          "url": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8"
+        }
+      ],
+      "duration_ms": 291133,
+      "name": "sobeautiful",
+      "url": "https://open.spotify.com/track/2PN3gbuBn5WBEwrEJH3xiu"
     },
     {
       "added_at": "2022-03-14 19:54:18",
@@ -751,22 +751,6 @@
     {
       "added_at": "2022-03-14 19:54:18",
       "album": {
-        "name": "Enter The Dru",
-        "url": "https://open.spotify.com/album/6L5uROBQ5wy3MOPI334RHE"
-      },
-      "artists": [
-        {
-          "name": "Dru Hill",
-          "url": "https://open.spotify.com/artist/1255GTUKNCLCTvH9ctD4cT"
-        }
-      ],
-      "duration_ms": 272560,
-      "name": "Beauty",
-      "url": "https://open.spotify.com/track/125dAqUSmX1nOG50fBz9vb"
-    },
-    {
-      "added_at": "2022-03-14 19:54:18",
-      "album": {
         "name": "Ashanti",
         "url": "https://open.spotify.com/album/5M3BrdaT0TV5SsYsM5PM8X"
       },
@@ -783,18 +767,18 @@
     {
       "added_at": "2022-03-14 19:54:18",
       "album": {
-        "name": "Guy",
-        "url": "https://open.spotify.com/album/1b4uW38DLtC6GlGr39AGHc"
+        "name": "Enter The Dru",
+        "url": "https://open.spotify.com/album/6L5uROBQ5wy3MOPI334RHE"
       },
       "artists": [
         {
-          "name": "Guy",
-          "url": "https://open.spotify.com/artist/2IBPIcSkvQZyoaVfoyZKE8"
+          "name": "Dru Hill",
+          "url": "https://open.spotify.com/artist/1255GTUKNCLCTvH9ctD4cT"
         }
       ],
-      "duration_ms": 294475,
-      "name": "I Like",
-      "url": "https://open.spotify.com/track/67j0ZucyzdfMGWLe2kh6Ze"
+      "duration_ms": 272560,
+      "name": "Beauty",
+      "url": "https://open.spotify.com/track/125dAqUSmX1nOG50fBz9vb"
     },
     {
       "added_at": "2022-03-14 19:54:18",
@@ -819,6 +803,22 @@
       "duration_ms": 283573,
       "name": "Breakdown (feat. Krayzie Bone & Wish Bone)",
       "url": "https://open.spotify.com/track/6iUlUzSGZzKtlCvQ3wCVZD"
+    },
+    {
+      "added_at": "2022-03-14 19:54:18",
+      "album": {
+        "name": "Guy",
+        "url": "https://open.spotify.com/album/1b4uW38DLtC6GlGr39AGHc"
+      },
+      "artists": [
+        {
+          "name": "Guy",
+          "url": "https://open.spotify.com/artist/2IBPIcSkvQZyoaVfoyZKE8"
+        }
+      ],
+      "duration_ms": 294475,
+      "name": "I Like",
+      "url": "https://open.spotify.com/track/67j0ZucyzdfMGWLe2kh6Ze"
     },
     {
       "added_at": "2022-03-14 19:54:18",
@@ -947,22 +947,6 @@
     {
       "added_at": "2022-03-14 19:54:18",
       "album": {
-        "name": "From The Mint Factory",
-        "url": "https://open.spotify.com/album/7hzFhf3WpRUNM52MVjgCVe"
-      },
-      "artists": [
-        {
-          "name": "Mint Condition",
-          "url": "https://open.spotify.com/artist/4MT97VeycuegSicrrphisJ"
-        }
-      ],
-      "duration_ms": 314537,
-      "name": "U Send Me Swingin'",
-      "url": "https://open.spotify.com/track/1mC7u32zemMLC1mVOU02Pm"
-    },
-    {
-      "added_at": "2022-03-14 19:54:18",
-      "album": {
         "name": "Capitol Gold: The Best Of Minnie Riperton",
         "url": "https://open.spotify.com/album/1Zc6fY5TjkirFsQIeX7KFL"
       },
@@ -979,50 +963,18 @@
     {
       "added_at": "2022-03-14 19:54:18",
       "album": {
-        "name": "Total",
-        "url": "https://open.spotify.com/album/4uLoT81NWVFx09mkfnGCHb"
+        "name": "From The Mint Factory",
+        "url": "https://open.spotify.com/album/7hzFhf3WpRUNM52MVjgCVe"
       },
       "artists": [
         {
-          "name": "Total",
-          "url": "https://open.spotify.com/artist/1urjDGTd4iBze91Z1W1gu7"
+          "name": "Mint Condition",
+          "url": "https://open.spotify.com/artist/4MT97VeycuegSicrrphisJ"
         }
       ],
-      "duration_ms": 282333,
-      "name": "Kissin' You",
-      "url": "https://open.spotify.com/track/1e5DTpM1WeggytDXbphivX"
-    },
-    {
-      "added_at": "2022-03-14 19:54:18",
-      "album": {
-        "name": "Three for Love",
-        "url": "https://open.spotify.com/album/62jHAFPLTBs0u6McU9DV4X"
-      },
-      "artists": [
-        {
-          "name": "Shalamar",
-          "url": "https://open.spotify.com/artist/3REpOYo13YkVj1dFzda12A"
-        }
-      ],
-      "duration_ms": 304000,
-      "name": "This Is for the Lover in You",
-      "url": "https://open.spotify.com/track/78zalqlTeKYmNiQBXANKDl"
-    },
-    {
-      "added_at": "2022-03-14 19:54:18",
-      "album": {
-        "name": "Where I Wanna Be",
-        "url": "https://open.spotify.com/album/01riz9JMpPdL99fYhoZaph"
-      },
-      "artists": [
-        {
-          "name": "Donell Jones",
-          "url": "https://open.spotify.com/artist/5KNqYrivNgVCHBssEUSu5B"
-        }
-      ],
-      "duration_ms": 249506,
-      "name": "This Luv",
-      "url": "https://open.spotify.com/track/4l34rbUYqKWufYEWriVnB5"
+      "duration_ms": 314537,
+      "name": "U Send Me Swingin'",
+      "url": "https://open.spotify.com/track/1mC7u32zemMLC1mVOU02Pm"
     },
     {
       "added_at": "2022-03-14 19:54:18",
@@ -1043,6 +995,54 @@
     {
       "added_at": "2022-03-14 19:54:18",
       "album": {
+        "name": "Three for Love",
+        "url": "https://open.spotify.com/album/62jHAFPLTBs0u6McU9DV4X"
+      },
+      "artists": [
+        {
+          "name": "Shalamar",
+          "url": "https://open.spotify.com/artist/3REpOYo13YkVj1dFzda12A"
+        }
+      ],
+      "duration_ms": 304000,
+      "name": "This Is for the Lover in You",
+      "url": "https://open.spotify.com/track/78zalqlTeKYmNiQBXANKDl"
+    },
+    {
+      "added_at": "2022-03-14 19:54:18",
+      "album": {
+        "name": "Total",
+        "url": "https://open.spotify.com/album/4uLoT81NWVFx09mkfnGCHb"
+      },
+      "artists": [
+        {
+          "name": "Total",
+          "url": "https://open.spotify.com/artist/1urjDGTd4iBze91Z1W1gu7"
+        }
+      ],
+      "duration_ms": 282333,
+      "name": "Kissin' You",
+      "url": "https://open.spotify.com/track/1e5DTpM1WeggytDXbphivX"
+    },
+    {
+      "added_at": "2022-03-14 19:54:18",
+      "album": {
+        "name": "Where I Wanna Be",
+        "url": "https://open.spotify.com/album/01riz9JMpPdL99fYhoZaph"
+      },
+      "artists": [
+        {
+          "name": "Donell Jones",
+          "url": "https://open.spotify.com/artist/5KNqYrivNgVCHBssEUSu5B"
+        }
+      ],
+      "duration_ms": 249506,
+      "name": "This Luv",
+      "url": "https://open.spotify.com/track/4l34rbUYqKWufYEWriVnB5"
+    },
+    {
+      "added_at": "2022-03-14 19:54:18",
+      "album": {
         "name": "The Revival",
         "url": "https://open.spotify.com/album/5yORmYtkTZdFgo6ppcsFZT"
       },
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2022-03-14 19:54:18",
       "album": {
-        "name": "The Best of Sade",
-        "url": "https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK"
-      },
-      "artists": [
-        {
-          "name": "Sade",
-          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
-        }
-      ],
-      "duration_ms": 378373,
-      "name": "Cherish the Day",
-      "url": "https://open.spotify.com/track/38QnxZJMktnt96bxalqgEl"
-    },
-    {
-      "added_at": "2022-03-14 19:54:18",
-      "album": {
         "name": "Faithfully",
         "url": "https://open.spotify.com/album/0pP9NBXbbRH2ZJb7fazkZy"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 267160,
       "name": "I Love You",
       "url": "https://open.spotify.com/track/6gsmFgUiSTuinJlScwFODv"
+    },
+    {
+      "added_at": "2022-03-14 19:54:18",
+      "album": {
+        "name": "The Best of Sade",
+        "url": "https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "duration_ms": 378373,
+      "name": "Cherish the Day",
+      "url": "https://open.spotify.com/track/38QnxZJMktnt96bxalqgEl"
     },
     {
       "added_at": "2022-03-14 19:54:18",

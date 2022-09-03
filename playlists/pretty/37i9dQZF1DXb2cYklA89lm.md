@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb2cYklA89lm.md) - [plain]
 
 > Fast cars, zombie love, and psychobilly freakouts!
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,914 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,812 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb2cYklA89lm.md) - [plain]
 | 12 | [Nature Calls](https://open.spotify.com/track/1p1RgiJTvoaWFnkM1M0JFH) | [Iguana Death Cult](https://open.spotify.com/artist/3krOZK9c8q5QOdt9QSdEV8) | [Nude Casino](https://open.spotify.com/album/3ikzXiKu90dwjhX3kz6gWV) | 3:48 |
 | 13 | [Mind Control](https://open.spotify.com/track/32weR7gT1q5DDwP9Zr7lSB) | [Snash](https://open.spotify.com/artist/34vKcVb8KHcZzOJgokh0Y4) | [Mind Control](https://open.spotify.com/album/1MFwVDPT3hggfu3WWWTeZ0) | 2:14 |
 | 14 | [Mayhem](https://open.spotify.com/track/0kxkgi1SRDFaX9dqwdhdgk) | [Imelda May](https://open.spotify.com/artist/6AnjHMqEAps8VJdHU8RykH) | [Mayhem](https://open.spotify.com/album/6QLKR2LZaSZzZuZpiosZNR) | 2:46 |
-| 15 | [Miss Take](https://open.spotify.com/track/4ooN58vt6HJdTH5QxPzQ5y) | [Horrorpops](https://open.spotify.com/artist/7MvgOAoxA9ZgOxtRBYxLWJ) | [Hell Yeah!](https://open.spotify.com/album/0VOcNE4u7ADFpWm5AG7gDC) | 3:58 |
-| 16 | [Nightmare on Elm Street](https://open.spotify.com/track/3GeIm6HhGv6k6yBxoFqQy4) | [Misfits](https://open.spotify.com/artist/1cXi8ALPQCBHZbf0EgP4Ey) | [Friday The 13th](https://open.spotify.com/album/5lWhwbVAq6NJY1FkRcIybm) | 2:53 |
+| 15 | [Nightmare on Elm Street](https://open.spotify.com/track/3GeIm6HhGv6k6yBxoFqQy4) | [Misfits](https://open.spotify.com/artist/1cXi8ALPQCBHZbf0EgP4Ey) | [Friday The 13th](https://open.spotify.com/album/5lWhwbVAq6NJY1FkRcIybm) | 2:53 |
+| 16 | [Miss Take](https://open.spotify.com/track/4ooN58vt6HJdTH5QxPzQ5y) | [Horrorpops](https://open.spotify.com/artist/7MvgOAoxA9ZgOxtRBYxLWJ) | [Hell Yeah!](https://open.spotify.com/album/0VOcNE4u7ADFpWm5AG7gDC) | 3:58 |
 | 17 | [Victory Lap](https://open.spotify.com/track/1vVF4BT9Khi5wuO9fwBMj3) | [The Reverend Horton Heat](https://open.spotify.com/artist/4byZW0sEv5RUoyQBfv7CPw) | [Rev](https://open.spotify.com/album/7vTpOzMO04lY6z62reNXaL) | 3:23 |
 | 18 | [Who Killed The Cheerleader](https://open.spotify.com/track/3Ero9C3m7RlEf1xu5XhFDC) | [Nekromantix](https://open.spotify.com/artist/3KPGTmc7LTodUo6mG4KvzQ) | [Return Of The Loving Dead](https://open.spotify.com/album/7dr1Aqdu3jMjHKC8J3QCvd) | 4:09 |
 | 19 | [Bodies in the Basement](https://open.spotify.com/track/3wZXkoUcXsTP3iRf6UIH0C) | [Demented Are Go](https://open.spotify.com/artist/7fvToIpjDfwtLhAoZdVF5W) | [Welcome Back To Insanity Hall](https://open.spotify.com/album/5pYc0q0qCPcASzOLi03U9k) | 2:28 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb2cYklA89lm.md) - [plain]
 | 49 | [Rockin' at the House of Strange](https://open.spotify.com/track/1eTnInP2B470IIF2iOkzf8) | [The Meteors](https://open.spotify.com/artist/7a2sloQlmdKSmj3fwMMpg9) | [The Power of 3](https://open.spotify.com/album/2gnRgPZJ0OqctKSfiap17y) | 3:01 |
 | 50 | [When Oskar Fische Comes to Town](https://open.spotify.com/track/15KxRLHTkff3ztQDLws3Rj) | [Sarah and the Safe Word](https://open.spotify.com/artist/4YguD206MPuadAlhnGppL3) | [Good Gracious! Bad People.](https://open.spotify.com/album/14EbrCLMvjsmasRxNMy6r4) | 3:11 |
 
-Snapshot ID: `MTYxMDgxNTY3NSwwMDAwMDAwMDRjMDYzMjI3ZTM0MDczYzg2MmViMmMzNWFmYzY1ZDE1`
+Snapshot ID: `MTYxMDgxNTY3NSwwMDAwMDAwMGQ5ZDYzNGE2NjM0MTIyNWYxMjJiZWU3ODQ1NGUyYmQ1`

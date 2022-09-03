@@ -4,7 +4,7 @@
 
 > The best drill, trap and genre bending rap from Australia and NZ\. Cover: Babyface Mal
 
-229 songs - 11 hr 10 min - [published](https://open.spotify.com/playlist/4Dkoxwgg3cIjwa7yuFFJFE)
+232 songs - 11 hr 18 min - [published](https://open.spotify.com/playlist/4Dkoxwgg3cIjwa7yuFFJFE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [Make Money Not Friends](https://open.spotify.com/track/5F152wL6HnVIyr0UWvKh5v) | [Hooligan Hefs](https://open.spotify.com/artist/1VXE1xqGNlT9HG6TcjpQ9I) | [Make Money Not Friends](https://open.spotify.com/album/74vJth8gmNpP0eGJLYWiZX) | 2:56 | 2022-04-28 |  |
 | [Making it](https://open.spotify.com/track/1qNeeHV2WT7Ax4XiA1Qj5J) | [Izzy Est](https://open.spotify.com/artist/7r8FHhthMc6AykuuIvYjT8) | [Making it](https://open.spotify.com/album/5MKM5U3ibcIp6IIO25xxah) | 2:56 | 2022-05-07 | 2022-08-26 |
 | [MBAPPÉ \(feat\. KAHUKX\)](https://open.spotify.com/track/69ECulmgzH6xt9pZH7bIYz) | [Day1](https://open.spotify.com/artist/0iFJbJ7jMv5QAmA6hWm6Ic), [KAHUKX](https://open.spotify.com/artist/3OkbxDtag6zvVnAaa9YLLC) | [MBAPPÉ \(feat\. KAHUKX\)](https://open.spotify.com/album/0kQpqZ5BSPyA2JF6payfYS) | 2:53 | 2022-06-30 |  |
+| [Me, Myself & I](https://open.spotify.com/track/1ArxdrtfnJF0TmX1nKYLo1) | [Day1](https://open.spotify.com/artist/0iFJbJ7jMv5QAmA6hWm6Ic) | [Me, Myself & I](https://open.spotify.com/album/29j7VYXyK0w4WqkESTRICn) | 2:18 | 2022-09-02 |  |
 | [MHMM](https://open.spotify.com/track/53vnp4yNfgLRjT1jfcukkq) | [Shely210](https://open.spotify.com/artist/6utJwWy5PZjCM2qYgKQKAK), [Vinny](https://open.spotify.com/artist/6WCaEpEZmlapvnhfIdTxMN) | [Stack or Starve](https://open.spotify.com/album/1EJAt0Q2dC719lyBugb3gv) | 3:17 | 2022-03-21 |  |
 | [Molly Meldrum](https://open.spotify.com/track/3jZaqu5nKGdJAbFPuNFG51) | [Freesouls](https://open.spotify.com/artist/1nGYnSTlhdtfiP9goJ8UaF) | [FS Type Beats](https://open.spotify.com/album/2r0tKVKRCyof88kyiyFNUL) | 2:31 | 2022-05-01 |  |
 | [Moppin](https://open.spotify.com/track/1nmHyC4nZmCwWkpgDC31n9) | [Yaz](https://open.spotify.com/artist/7zcoCcZ5ofhGbbdbl5jULg) | [Moppin](https://open.spotify.com/album/7gg2TgpdyK6Xz45qExCw6M) | 3:10 | 2022-05-05 |  |
@@ -139,6 +140,7 @@
 | [Nintendo](https://open.spotify.com/track/65NrY7O1GxRR4R7xwJEJcb) | [Ben Jones](https://open.spotify.com/artist/3Tdc4Os3L5gHDozXuubEcO), [Taro](https://open.spotify.com/artist/1VJRmubTyX5ICGPUtl0jaI), [Vilan ✘](https://open.spotify.com/artist/5slzQA3GOAlaex2mJCXNai) | [Nintendo](https://open.spotify.com/album/5cy5WsmOJlgvUp6bZVAKoF) | 3:21 | 2022-06-30 | 2022-07-26 |
 | [NO BONNIE N CLYDE](https://open.spotify.com/track/31EJY5zvDJhQdfXc7g4V7T) | [KAHUKX](https://open.spotify.com/artist/3OkbxDtag6zvVnAaa9YLLC) | [NO BONNIE N CLYDE](https://open.spotify.com/album/5E1DYCj30VW0PshMibXmFm) | 2:13 | 2022-03-21 |  |
 | [No Gang](https://open.spotify.com/track/0ZXsjdga92OfHtqQHdOcNX) | [MLBRN](https://open.spotify.com/artist/7ihFSoNSgZOARN8pLr6g5L) | [No Gang](https://open.spotify.com/album/6NWqkkaDMh3ynqgkz9tASS) | 3:04 | 2022-03-21 | 2022-08-10 |
+| [NO TELLIN](https://open.spotify.com/track/1G0sjeBdmr2gmVAR3xgZVs) | [Dau Dau](https://open.spotify.com/artist/5zE6gcTHIzl8LuAqhcCDu1) | [NO TELLIN](https://open.spotify.com/album/247yuZ7hBgYGX7S3Sh5Fdw) | 2:11 | 2022-09-02 |  |
 | [Nobody Gotta Know](https://open.spotify.com/track/5VJH36W5nsZL9AFfmPQy1L) | [Open Till L8](https://open.spotify.com/artist/6niasBrBbbzrUe7iWT6swJ), [Youngn Lipz](https://open.spotify.com/artist/36PxHmbx5QrRTpuCaw4FuV) | [Nobody Gotta Know](https://open.spotify.com/album/2FQMjWTSevddEV2DxefJRK) | 2:51 | 2022-03-21 | 2022-07-01 |
 | [Northside Stepper](https://open.spotify.com/track/2ONo43uD9sG5Bhth17nTA7) | [Yaz](https://open.spotify.com/artist/7zcoCcZ5ofhGbbdbl5jULg) | [Northside Stepper](https://open.spotify.com/album/6gPlt7EUFhnEQ16DRn4AUU) | 2:23 | 2022-06-23 |  |
 | [O.T](https://open.spotify.com/track/6W3wz3J5LLRmum0v35uSec) | [SKIVZ](https://open.spotify.com/artist/2NdB9CTILAHKLk0a0SgNHb) | [O.T](https://open.spotify.com/album/2FhzbED5me6JRyW6XhcLoz) | 3:08 | 2022-03-21 | 2022-03-25 |
@@ -151,6 +153,7 @@
 | [OUAH](https://open.spotify.com/track/3GJjsCXEqEJVWEY5vlbBcb) | [Yeloboi Tommy](https://open.spotify.com/artist/6sZgmrmf7pl9yez8UvGgJa) | [OUAH](https://open.spotify.com/album/370CeIiTZ9g6TaJDJR8XfG) | 2:58 | 2022-03-21 | 2022-03-25 |
 | [OUR CITY](https://open.spotify.com/track/5aL4qbUxr3ryeZTLhKPV8w) | [Brothers](https://open.spotify.com/artist/5XJlnf7mD44GXWHmRGxt0I) | [OUR CITY](https://open.spotify.com/album/2yQg7DiHMd8AQyjr5gvchV) | 3:20 | 2022-03-21 | 2022-03-31 |
 | [OUT OF SIGHT](https://open.spotify.com/track/6a2POOrd49v2PW9RZkV6LD) | [YP](https://open.spotify.com/artist/69UmThngo84p8zzyAAMkGB), [ONEFOUR](https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U) | [OUT OF SIGHT](https://open.spotify.com/album/5qdOHbi7GnkKVISrjGZ8iF) | 2:37 | 2022-03-21 | 2022-08-26 |
+| [Out the Mud](https://open.spotify.com/track/5cThxcOI5jdCKqXz0gd112) | [The 046](https://open.spotify.com/artist/0rJUZobNG4r8bsot6DiF8g) | [Out the Mud](https://open.spotify.com/album/0ENiWnxRDIwCv58BX0dsVH) | 3:38 | 2022-09-02 |  |
 | [Outside](https://open.spotify.com/track/3Ol2aO4yJjegkEwNt36Ctn) | [BnB](https://open.spotify.com/artist/4jUxz9vL5BF7GAakeqD1iS), [SouthSideFredo](https://open.spotify.com/artist/4bVkr9PjjD5nhe6YcFHWrH) | [Outside](https://open.spotify.com/album/5G4KGwNvqioBxNGE45pJsT) | 2:47 | 2022-03-24 |  |
 | [Overdrive](https://open.spotify.com/track/6pvgf5w2USf0cztqmdi5PL) | [PROPH3T](https://open.spotify.com/artist/3CfDgUAqzcrVjX2GSgAroa), [Shely210](https://open.spotify.com/artist/6utJwWy5PZjCM2qYgKQKAK) | [The Legacy](https://open.spotify.com/album/0hauPWAr24m6Jeq0EWDtKP) | 2:46 | 2022-03-21 | 2022-06-10 |
 | [Paid Our Dues](https://open.spotify.com/track/087Pqo2qtQtTNn9FbpXnb9) | [The 046](https://open.spotify.com/artist/0rJUZobNG4r8bsot6DiF8g), [Th4 W3st](https://open.spotify.com/artist/49a6yPIQOQhPDL6e6d0hCB) | [Paid Our Dues](https://open.spotify.com/album/4vcPSEIWa5yuAqL983EalS) | 3:53 | 2022-07-28 |  |

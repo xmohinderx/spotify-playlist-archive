@@ -1,12 +1,12 @@
 {
   "description": "The best from Britain's vibrant scene. Cover: Kokoroko",
-  "num_followers": 264583,
+  "num_followers": 264201,
   "original_name": "Jazz UK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTUwNjc0NywwMDAwMDAwMDRlNzE5YjUxODFhY2M3OGFlNTMxNzQ2NzJkNjcxNTg1",
+  "snapshot_id": "MTY2MTUwNjc0NywwMDAwMDAwMDNjN2I0NzYzNmE3NGE5ZWRlNWJkMzA3YzIwOTZhZDNm",
   "tracks": [
     {
       "added_at": "2022-08-26 09:39:07",
@@ -263,6 +263,62 @@
     {
       "added_at": "2022-08-26 09:39:07",
       "album": {
+        "name": "(Why You So) Green With Envy",
+        "url": "https://open.spotify.com/album/1paw3uKEs0vZ4HcBsjjjuE"
+      },
+      "artists": [
+        {
+          "name": "Oscar Jerome",
+          "url": "https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh"
+        },
+        {
+          "name": "Oscar #Worldpeace",
+          "url": "https://open.spotify.com/artist/63h1vcgwz5lbgfiIyF6mcs"
+        }
+      ],
+      "duration_ms": 292306,
+      "name": "(Why You So) Green With Envy",
+      "url": "https://open.spotify.com/track/4AcKEOwQ9T2U7yYK9AJdRs"
+    },
+    {
+      "added_at": "2022-08-26 09:39:07",
+      "album": {
+        "name": "Bring Backs",
+        "url": "https://open.spotify.com/album/4qoGWMatT4g6qA7UCoPnJq"
+      },
+      "artists": [
+        {
+          "name": "Alfa Mist",
+          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
+        }
+      ],
+      "duration_ms": 292200,
+      "name": "Run Outs",
+      "url": "https://open.spotify.com/track/5eTvrED91AN0WORZDslNEr"
+    },
+    {
+      "added_at": "2022-08-26 09:39:07",
+      "album": {
+        "name": "Life Goes On (feat. Sampa the Great)",
+        "url": "https://open.spotify.com/album/6cEqbEv5wTsNkOGr7k3HTU"
+      },
+      "artists": [
+        {
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+        },
+        {
+          "name": "Sampa the Great",
+          "url": "https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk"
+        }
+      ],
+      "duration_ms": 203560,
+      "name": "Life Goes On (feat. Sampa the Great)",
+      "url": "https://open.spotify.com/track/7pEAzggpyq4sjREdLBfcuX"
+    },
+    {
+      "added_at": "2022-08-26 09:39:07",
+      "album": {
         "name": "Hold On, Pt.2",
         "url": "https://open.spotify.com/album/3m1iWUCNFY4XyDSL3yMh70"
       },
@@ -283,22 +339,6 @@
       "duration_ms": 135269,
       "name": "Hold On, Pt.2",
       "url": "https://open.spotify.com/track/19PCs8bTfMvXybqD1HAscU"
-    },
-    {
-      "added_at": "2022-08-26 09:39:07",
-      "album": {
-        "name": "Bring Backs",
-        "url": "https://open.spotify.com/album/4qoGWMatT4g6qA7UCoPnJq"
-      },
-      "artists": [
-        {
-          "name": "Alfa Mist",
-          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
-        }
-      ],
-      "duration_ms": 292200,
-      "name": "Run Outs",
-      "url": "https://open.spotify.com/track/5eTvrED91AN0WORZDslNEr"
     },
     {
       "added_at": "2022-08-26 09:39:07",
@@ -335,22 +375,22 @@
     {
       "added_at": "2022-08-26 09:39:07",
       "album": {
-        "name": "(Why You So) Green With Envy",
-        "url": "https://open.spotify.com/album/1paw3uKEs0vZ4HcBsjjjuE"
+        "name": "Smile",
+        "url": "https://open.spotify.com/album/7xQ7j0RjNCkkkAeJfFhdaX"
       },
       "artists": [
         {
-          "name": "Oscar Jerome",
-          "url": "https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh"
+          "name": "Conor Albert",
+          "url": "https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M"
         },
         {
-          "name": "Oscar #Worldpeace",
-          "url": "https://open.spotify.com/artist/63h1vcgwz5lbgfiIyF6mcs"
+          "name": "Alice Auer",
+          "url": "https://open.spotify.com/artist/2H6HNBemqWxtIGPDoCptI8"
         }
       ],
-      "duration_ms": 292306,
-      "name": "(Why You So) Green With Envy",
-      "url": "https://open.spotify.com/track/4AcKEOwQ9T2U7yYK9AJdRs"
+      "duration_ms": 184650,
+      "name": "See You",
+      "url": "https://open.spotify.com/track/0zYHvLLjzBbMYsk2dHY2gY"
     },
     {
       "added_at": "2022-08-26 09:39:07",
@@ -375,94 +415,6 @@
       "duration_ms": 215863,
       "name": "Home",
       "url": "https://open.spotify.com/track/1ofGBwyRKtNKRi6NXRz1tg"
-    },
-    {
-      "added_at": "2022-08-26 09:39:07",
-      "album": {
-        "name": "Smile",
-        "url": "https://open.spotify.com/album/7xQ7j0RjNCkkkAeJfFhdaX"
-      },
-      "artists": [
-        {
-          "name": "Conor Albert",
-          "url": "https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M"
-        },
-        {
-          "name": "Alice Auer",
-          "url": "https://open.spotify.com/artist/2H6HNBemqWxtIGPDoCptI8"
-        }
-      ],
-      "duration_ms": 184650,
-      "name": "See You",
-      "url": "https://open.spotify.com/track/0zYHvLLjzBbMYsk2dHY2gY"
-    },
-    {
-      "added_at": "2022-08-26 09:39:07",
-      "album": {
-        "name": "So Cold",
-        "url": "https://open.spotify.com/album/72P2ODRJFb2O2THMjfXAlb"
-      },
-      "artists": [
-        {
-          "name": "Jackson Mathod",
-          "url": "https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx"
-        },
-        {
-          "name": "David Mrakpor",
-          "url": "https://open.spotify.com/artist/7JNCmuOVO13j5XNE8s1Bvr"
-        }
-      ],
-      "duration_ms": 252000,
-      "name": "So Cold",
-      "url": "https://open.spotify.com/track/6vv87FsmQpbakkEQUm3G3n"
-    },
-    {
-      "added_at": "2022-08-26 09:39:07",
-      "album": {
-        "name": "May The Funk Be With You",
-        "url": "https://open.spotify.com/album/5WoBBQEGsj7URsnboRwGVQ"
-      },
-      "artists": [
-        {
-          "name": "Ezra Collective",
-          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
-        }
-      ],
-      "duration_ms": 267213,
-      "name": "May The Funk Be With You",
-      "url": "https://open.spotify.com/track/0nLPiYtwLN82ohURgzmY0j"
-    },
-    {
-      "added_at": "2022-08-26 09:39:07",
-      "album": {
-        "name": "Monument",
-        "url": "https://open.spotify.com/album/5Q45lNUhaH40wPqhUgjJNC"
-      },
-      "artists": [
-        {
-          "name": "Portico Quartet",
-          "url": "https://open.spotify.com/artist/7sYipTRgDXS2JVOPEhRutx"
-        }
-      ],
-      "duration_ms": 280800,
-      "name": "Monument",
-      "url": "https://open.spotify.com/track/3kwHyKwVFLMMGsnJlv35bQ"
-    },
-    {
-      "added_at": "2022-08-26 09:39:07",
-      "album": {
-        "name": "Ascent",
-        "url": "https://open.spotify.com/album/6cnOKQregeePTvoeH2ahO0"
-      },
-      "artists": [
-        {
-          "name": "GoGo Penguin",
-          "url": "https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L"
-        }
-      ],
-      "duration_ms": 280400,
-      "name": "Ascent",
-      "url": "https://open.spotify.com/track/5FHITxNz6XuYTfSnyqMVGR"
     },
     {
       "added_at": "2022-08-26 09:39:07",
@@ -511,6 +463,74 @@
     {
       "added_at": "2022-08-26 09:39:07",
       "album": {
+        "name": "Ascent",
+        "url": "https://open.spotify.com/album/6cnOKQregeePTvoeH2ahO0"
+      },
+      "artists": [
+        {
+          "name": "GoGo Penguin",
+          "url": "https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L"
+        }
+      ],
+      "duration_ms": 280400,
+      "name": "Ascent",
+      "url": "https://open.spotify.com/track/5FHITxNz6XuYTfSnyqMVGR"
+    },
+    {
+      "added_at": "2022-08-26 09:39:07",
+      "album": {
+        "name": "Monument",
+        "url": "https://open.spotify.com/album/5Q45lNUhaH40wPqhUgjJNC"
+      },
+      "artists": [
+        {
+          "name": "Portico Quartet",
+          "url": "https://open.spotify.com/artist/7sYipTRgDXS2JVOPEhRutx"
+        }
+      ],
+      "duration_ms": 280800,
+      "name": "Monument",
+      "url": "https://open.spotify.com/track/3kwHyKwVFLMMGsnJlv35bQ"
+    },
+    {
+      "added_at": "2022-08-26 09:39:07",
+      "album": {
+        "name": "So Cold",
+        "url": "https://open.spotify.com/album/72P2ODRJFb2O2THMjfXAlb"
+      },
+      "artists": [
+        {
+          "name": "Jackson Mathod",
+          "url": "https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx"
+        },
+        {
+          "name": "David Mrakpor",
+          "url": "https://open.spotify.com/artist/7JNCmuOVO13j5XNE8s1Bvr"
+        }
+      ],
+      "duration_ms": 252000,
+      "name": "So Cold",
+      "url": "https://open.spotify.com/track/6vv87FsmQpbakkEQUm3G3n"
+    },
+    {
+      "added_at": "2022-08-26 09:39:07",
+      "album": {
+        "name": "May The Funk Be With You",
+        "url": "https://open.spotify.com/album/5WoBBQEGsj7URsnboRwGVQ"
+      },
+      "artists": [
+        {
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+        }
+      ],
+      "duration_ms": 267213,
+      "name": "May The Funk Be With You",
+      "url": "https://open.spotify.com/track/0nLPiYtwLN82ohURgzmY0j"
+    },
+    {
+      "added_at": "2022-08-26 09:39:07",
+      "album": {
         "name": "Take Your Time",
         "url": "https://open.spotify.com/album/4HEynfpdDFX61F4fOvmT3J"
       },
@@ -551,6 +571,42 @@
     {
       "added_at": "2022-08-26 09:39:07",
       "album": {
+        "name": "Between Two Waves",
+        "url": "https://open.spotify.com/album/3K20Qp773ImY8pBQ1vUt93"
+      },
+      "artists": [
+        {
+          "name": "GoGo Penguin",
+          "url": "https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L"
+        }
+      ],
+      "duration_ms": 192715,
+      "name": "Lost in Thought",
+      "url": "https://open.spotify.com/track/1UVjC46kICqTceu7wCi8zK"
+    },
+    {
+      "added_at": "2022-08-26 09:39:07",
+      "album": {
+        "name": "Sweet Isolation (Metropole Orkest)",
+        "url": "https://open.spotify.com/album/1Bfdlb132DDKkNK946T9rC"
+      },
+      "artists": [
+        {
+          "name": "Oscar Jerome",
+          "url": "https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh"
+        },
+        {
+          "name": "Metropole Orkest",
+          "url": "https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI"
+        }
+      ],
+      "duration_ms": 332000,
+      "name": "Sweet Isolation (Metropole Orkest)",
+      "url": "https://open.spotify.com/track/3jNdydQGl08mlbmd2Xceal"
+    },
+    {
+      "added_at": "2022-08-26 09:39:07",
+      "album": {
         "name": "Honey For Wounds (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2bEHvwq0E9SVwBuy4G0Cnk"
       },
@@ -567,22 +623,6 @@
       "duration_ms": 197872,
       "name": "Give A Little - Blue Lab Beats Remix",
       "url": "https://open.spotify.com/track/1iJwihRpjyrLH9BzqlT1qt"
-    },
-    {
-      "added_at": "2022-08-26 09:39:07",
-      "album": {
-        "name": "Between Two Waves",
-        "url": "https://open.spotify.com/album/3K20Qp773ImY8pBQ1vUt93"
-      },
-      "artists": [
-        {
-          "name": "GoGo Penguin",
-          "url": "https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L"
-        }
-      ],
-      "duration_ms": 192715,
-      "name": "Lost in Thought",
-      "url": "https://open.spotify.com/track/1UVjC46kICqTceu7wCi8zK"
     },
     {
       "added_at": "2022-08-26 09:39:07",
@@ -607,26 +647,6 @@
     {
       "added_at": "2022-08-26 09:39:07",
       "album": {
-        "name": "Life Goes On (feat. Sampa the Great)",
-        "url": "https://open.spotify.com/album/6cEqbEv5wTsNkOGr7k3HTU"
-      },
-      "artists": [
-        {
-          "name": "Ezra Collective",
-          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
-        },
-        {
-          "name": "Sampa the Great",
-          "url": "https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk"
-        }
-      ],
-      "duration_ms": 203560,
-      "name": "Life Goes On (feat. Sampa the Great)",
-      "url": "https://open.spotify.com/track/7pEAzggpyq4sjREdLBfcuX"
-    },
-    {
-      "added_at": "2022-08-26 09:39:07",
-      "album": {
         "name": "Freedom Fables",
         "url": "https://open.spotify.com/album/3HDaoy8TYaaLfKPKSVcsOq"
       },
@@ -643,26 +663,6 @@
       "duration_ms": 369160,
       "name": "If I Know",
       "url": "https://open.spotify.com/track/47VF1JogE1dN0joA5FTebh"
-    },
-    {
-      "added_at": "2022-08-26 09:39:07",
-      "album": {
-        "name": "Sweet Isolation (Metropole Orkest)",
-        "url": "https://open.spotify.com/album/1Bfdlb132DDKkNK946T9rC"
-      },
-      "artists": [
-        {
-          "name": "Oscar Jerome",
-          "url": "https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh"
-        },
-        {
-          "name": "Metropole Orkest",
-          "url": "https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI"
-        }
-      ],
-      "duration_ms": 332000,
-      "name": "Sweet Isolation (Metropole Orkest)",
-      "url": "https://open.spotify.com/track/3jNdydQGl08mlbmd2Xceal"
     },
     {
       "added_at": "2022-08-26 09:39:07",
@@ -719,22 +719,6 @@
     {
       "added_at": "2022-08-26 09:39:07",
       "album": {
-        "name": "Through The Noise (Chant No. 2)",
-        "url": "https://open.spotify.com/album/0Ta7zn4Nj7wE8WcHeuHExX"
-      },
-      "artists": [
-        {
-          "name": "Nubiyan Twist",
-          "url": "https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO"
-        }
-      ],
-      "duration_ms": 288933,
-      "name": "Through The Noise (Chant No. 2)",
-      "url": "https://open.spotify.com/track/5QG1CBiBZqbznczwEVQFFG"
-    },
-    {
-      "added_at": "2022-08-26 09:39:07",
-      "album": {
         "name": "The Morning Side of Love",
         "url": "https://open.spotify.com/album/4pK5UBmbIGB03jcNZb4TJf"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 360053,
       "name": "Teki",
       "url": "https://open.spotify.com/track/4IFQvZZTHrbF5NenzeMsWS"
+    },
+    {
+      "added_at": "2022-08-26 09:39:07",
+      "album": {
+        "name": "Through The Noise (Chant No. 2)",
+        "url": "https://open.spotify.com/album/0Ta7zn4Nj7wE8WcHeuHExX"
+      },
+      "artists": [
+        {
+          "name": "Nubiyan Twist",
+          "url": "https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO"
+        }
+      ],
+      "duration_ms": 288933,
+      "name": "Through The Noise (Chant No. 2)",
+      "url": "https://open.spotify.com/track/5QG1CBiBZqbznczwEVQFFG"
     },
     {
       "added_at": "2022-08-26 09:39:07",
@@ -819,22 +819,6 @@
     {
       "added_at": "2022-08-26 09:39:07",
       "album": {
-        "name": "DiVine Ascension",
-        "url": "https://open.spotify.com/album/7BZEpa8960drwbbRbjo3jq"
-      },
-      "artists": [
-        {
-          "name": "muva of Earth",
-          "url": "https://open.spotify.com/artist/3Sjvp3uM9DWVg54ZhdfmO3"
-        }
-      ],
-      "duration_ms": 269589,
-      "name": "DiVine Ascension",
-      "url": "https://open.spotify.com/track/4nm2iwvavAyduOTOqiq8PF"
-    },
-    {
-      "added_at": "2022-08-26 09:39:07",
-      "album": {
         "name": "Imagination",
         "url": "https://open.spotify.com/album/15R2xjP52mnJkWztc1pgCo"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 349629,
       "name": "Imagination",
       "url": "https://open.spotify.com/track/4jsWwL5JRWrHrWRqid2Jvg"
+    },
+    {
+      "added_at": "2022-08-26 09:39:07",
+      "album": {
+        "name": "DiVine Ascension",
+        "url": "https://open.spotify.com/album/7BZEpa8960drwbbRbjo3jq"
+      },
+      "artists": [
+        {
+          "name": "muva of Earth",
+          "url": "https://open.spotify.com/artist/3Sjvp3uM9DWVg54ZhdfmO3"
+        }
+      ],
+      "duration_ms": 269589,
+      "name": "DiVine Ascension",
+      "url": "https://open.spotify.com/track/4nm2iwvavAyduOTOqiq8PF"
     },
     {
       "added_at": "2022-08-26 09:39:07",
@@ -871,6 +871,22 @@
     {
       "added_at": "2022-08-26 09:39:07",
       "album": {
+        "name": "Could We Be More",
+        "url": "https://open.spotify.com/album/2EN95hEamtoztxIF6WATgZ"
+      },
+      "artists": [
+        {
+          "name": "Kokoroko",
+          "url": "https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr"
+        }
+      ],
+      "duration_ms": 220853,
+      "name": "We Give Thanks",
+      "url": "https://open.spotify.com/track/6clBGIQRBtCnmMGeHM2g75"
+    },
+    {
+      "added_at": "2022-08-26 09:39:07",
+      "album": {
         "name": "Together Is A Beautiful Place To Be (Nala Sinephro Remix)",
         "url": "https://open.spotify.com/album/4x9VGbC18b9s9f5rxxngIr"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 147000,
       "name": "Together Is A Beautiful Place To Be - Nala Sinephro Remix",
       "url": "https://open.spotify.com/track/4z17HamuFu3h0yiZ59xRzY"
-    },
-    {
-      "added_at": "2022-08-26 09:39:07",
-      "album": {
-        "name": "Could We Be More",
-        "url": "https://open.spotify.com/album/2EN95hEamtoztxIF6WATgZ"
-      },
-      "artists": [
-        {
-          "name": "Kokoroko",
-          "url": "https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr"
-        }
-      ],
-      "duration_ms": 220853,
-      "name": "We Give Thanks",
-      "url": "https://open.spotify.com/track/6clBGIQRBtCnmMGeHM2g75"
     },
     {
       "added_at": "2022-08-26 09:39:07",
@@ -959,6 +959,26 @@
     {
       "added_at": "2022-08-26 09:39:07",
       "album": {
+        "name": "Who Am I (eh-eh)",
+        "url": "https://open.spotify.com/album/0CGNWI2meh3fOhLpagrkDm"
+      },
+      "artists": [
+        {
+          "name": "Isatta Sheriff",
+          "url": "https://open.spotify.com/artist/0MzwdYm3L1uIIFASbl13XK"
+        },
+        {
+          "name": "Koralle",
+          "url": "https://open.spotify.com/artist/3OW3qK7Wl9ESAGLvjVOw2h"
+        }
+      ],
+      "duration_ms": 190466,
+      "name": "Who Am I (eh-eh)",
+      "url": "https://open.spotify.com/track/3DBGRXEiGyQOxdkV6JltUY"
+    },
+    {
+      "added_at": "2022-08-26 09:39:07",
+      "album": {
         "name": "Did It Yesterday",
         "url": "https://open.spotify.com/album/6qVwOxqFQMNawnwxpUzPEo"
       },
@@ -979,22 +999,6 @@
     {
       "added_at": "2022-08-26 09:39:07",
       "album": {
-        "name": "Next Stop",
-        "url": "https://open.spotify.com/album/3tAyluhjmvdlCtLPJPh8sz"
-      },
-      "artists": [
-        {
-          "name": "Portico Quartet",
-          "url": "https://open.spotify.com/artist/7sYipTRgDXS2JVOPEhRutx"
-        }
-      ],
-      "duration_ms": 308600,
-      "name": "Youth",
-      "url": "https://open.spotify.com/track/7KK4ixxZE3K1I8MbR8dGcX"
-    },
-    {
-      "added_at": "2022-08-26 09:39:07",
-      "album": {
         "name": "piano joint",
         "url": "https://open.spotify.com/album/6u4j6qb1hdzYthdbgyZWYG"
       },
@@ -1011,18 +1015,18 @@
     {
       "added_at": "2022-08-26 09:39:07",
       "album": {
-        "name": "Something I Said",
-        "url": "https://open.spotify.com/album/0zr2ptBk071gHAlhpPDLG2"
+        "name": "Next Stop",
+        "url": "https://open.spotify.com/album/3tAyluhjmvdlCtLPJPh8sz"
       },
       "artists": [
         {
-          "name": "Sophie Faith",
-          "url": "https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh"
+          "name": "Portico Quartet",
+          "url": "https://open.spotify.com/artist/7sYipTRgDXS2JVOPEhRutx"
         }
       ],
-      "duration_ms": 196235,
-      "name": "Something I Said",
-      "url": "https://open.spotify.com/track/1gYnHtPZLkoyLN5GxyBZu2"
+      "duration_ms": 308600,
+      "name": "Youth",
+      "url": "https://open.spotify.com/track/7KK4ixxZE3K1I8MbR8dGcX"
     },
     {
       "added_at": "2022-08-26 09:39:07",
@@ -1047,22 +1051,18 @@
     {
       "added_at": "2022-08-26 09:39:07",
       "album": {
-        "name": "Who Am I (eh-eh)",
-        "url": "https://open.spotify.com/album/0CGNWI2meh3fOhLpagrkDm"
+        "name": "Something I Said",
+        "url": "https://open.spotify.com/album/0zr2ptBk071gHAlhpPDLG2"
       },
       "artists": [
         {
-          "name": "Isatta Sheriff",
-          "url": "https://open.spotify.com/artist/0MzwdYm3L1uIIFASbl13XK"
-        },
-        {
-          "name": "Koralle",
-          "url": "https://open.spotify.com/artist/3OW3qK7Wl9ESAGLvjVOw2h"
+          "name": "Sophie Faith",
+          "url": "https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh"
         }
       ],
-      "duration_ms": 190466,
-      "name": "Who Am I (eh-eh)",
-      "url": "https://open.spotify.com/track/3DBGRXEiGyQOxdkV6JltUY"
+      "duration_ms": 196235,
+      "name": "Something I Said",
+      "url": "https://open.spotify.com/track/1gYnHtPZLkoyLN5GxyBZu2"
     },
     {
       "added_at": "2022-08-26 09:39:07",
@@ -1231,6 +1231,26 @@
     {
       "added_at": "2022-08-26 09:39:07",
       "album": {
+        "name": "Fleur bleue",
+        "url": "https://open.spotify.com/album/5TckHbP7bzLjA8JgoImqcu"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9esau",
+          "url": "https://open.spotify.com/artist/5m6hZJfUOm9EPFyiLIRjSs"
+        },
+        {
+          "name": "Blue Lab Beats",
+          "url": "https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR"
+        }
+      ],
+      "duration_ms": 233933,
+      "name": "Fleur bleue",
+      "url": "https://open.spotify.com/track/7gPMJj8rKTU5YVJxtiKuNw"
+    },
+    {
+      "added_at": "2022-08-26 09:39:07",
+      "album": {
         "name": "Invisible Things",
         "url": "https://open.spotify.com/album/1RnirhqC0ZQjTfb18z0Wk6"
       },
@@ -1243,6 +1263,26 @@
       "duration_ms": 209509,
       "name": "Crazy That You Love",
       "url": "https://open.spotify.com/track/4Z4lh6KduIfW4REI6XGnDw"
+    },
+    {
+      "added_at": "2022-08-26 09:39:07",
+      "album": {
+        "name": "After This",
+        "url": "https://open.spotify.com/album/0fBhiPoYqBf8jpVlcT1lkR"
+      },
+      "artists": [
+        {
+          "name": "Kwam\u00e9",
+          "url": "https://open.spotify.com/artist/1KIS0P3Qlw8evjLOQvxcAi"
+        },
+        {
+          "name": "Nia Kali",
+          "url": "https://open.spotify.com/artist/2GgWeT0aMpTFbrQwsx4Lyn"
+        }
+      ],
+      "duration_ms": 163043,
+      "name": "After This",
+      "url": "https://open.spotify.com/track/0iXcE8BgY3pk6GdRNNjeQa"
     },
     {
       "added_at": "2022-08-26 09:39:07",
@@ -1267,26 +1307,6 @@
       "duration_ms": 218969,
       "name": "Days Like This",
       "url": "https://open.spotify.com/track/5HHpKZFPMp2QzLMRiaT5sx"
-    },
-    {
-      "added_at": "2022-08-26 09:39:07",
-      "album": {
-        "name": "Fleur bleue",
-        "url": "https://open.spotify.com/album/5TckHbP7bzLjA8JgoImqcu"
-      },
-      "artists": [
-        {
-          "name": "B\u00e9esau",
-          "url": "https://open.spotify.com/artist/5m6hZJfUOm9EPFyiLIRjSs"
-        },
-        {
-          "name": "Blue Lab Beats",
-          "url": "https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR"
-        }
-      ],
-      "duration_ms": 233933,
-      "name": "Fleur bleue",
-      "url": "https://open.spotify.com/track/7gPMJj8rKTU5YVJxtiKuNw"
     },
     {
       "added_at": "2022-08-26 09:39:07",
@@ -1319,26 +1339,6 @@
       "duration_ms": 328988,
       "name": "No BS",
       "url": "https://open.spotify.com/track/4evaB44maldA4OML15SHQk"
-    },
-    {
-      "added_at": "2022-08-26 09:39:07",
-      "album": {
-        "name": "After This",
-        "url": "https://open.spotify.com/album/0fBhiPoYqBf8jpVlcT1lkR"
-      },
-      "artists": [
-        {
-          "name": "Kwam\u00e9",
-          "url": "https://open.spotify.com/artist/1KIS0P3Qlw8evjLOQvxcAi"
-        },
-        {
-          "name": "Nia Kali",
-          "url": "https://open.spotify.com/artist/2GgWeT0aMpTFbrQwsx4Lyn"
-        }
-      ],
-      "duration_ms": 163043,
-      "name": "After This",
-      "url": "https://open.spotify.com/track/0iXcE8BgY3pk6GdRNNjeQa"
     },
     {
       "added_at": "2022-08-26 09:39:07",

@@ -2,7 +2,7 @@
 
 ### [Heavy Metal](https://open.spotify.com/playlist/37i9dQZF1DX9qNs32fujYe)
 
-> Heavy Metal forever\. From classics to fresh new tracks, just play it loud! Cover: Megadeth
+> Heavy Metal forever\. From classics to fresh new tracks, just play it loud! Cover: Five Finger Death Punch
 
 644 songs - 2 day 0 hr 12 min - [published](https://open.spotify.com/playlist/6NpBTQ0b3N3b1zdtxQGNsV)
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQM3rmTXpBR.md) - [plain]
 
 > Alternative Arabic songs\. Cover: Ghaliaa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,938 likes - 58 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,962 likes - 58 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQM3rmTXpBR.md) - [plain]
 | 47 | [Samurai](https://open.spotify.com/track/7dTgSeAVu9EWJusdCsRyTo) | [Cairokee](https://open.spotify.com/artist/2GVksDv9UpY60i4CvytrZK) | [Samurai](https://open.spotify.com/album/17r6jfsKAlkpqUPuMOHClZ) | 2:55 |
 | 48 | [Ha'oud \(I Will Return\)](https://open.spotify.com/track/1OExzy9fGc3TGP5zFvp0AH) | [Yo\-Yo Ma](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk), [Mashrou' Leila](https://open.spotify.com/artist/2RIrl9cApI8HwM6aF4Jt5m), [Narcy](https://open.spotify.com/artist/0dkcQCK8GjDBCGrjlUJhlg) | [Ha'oud \(I Will Return\)](https://open.spotify.com/album/2sp15C7t9ATNj3TuJKDtWF) | 3:45 |
 | 49 | [Al Fajer Al Kazeb](https://open.spotify.com/track/75f1DWsH7SzOHQbtURZf0u) | [Yousef Kekhia](https://open.spotify.com/artist/7EhcVdfydM4Hdfv5usdCRw) | [Polylog](https://open.spotify.com/album/68PRVUPTJsIygqpuDKrgXG) | 6:04 |
-| 50 | [Wein Rayheen](https://open.spotify.com/track/7mHpjI49tleTX9YezPPqS6) | [Aziz Maraka](https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU), [Noel Kharman](https://open.spotify.com/artist/1GsARczxaleCcAzZinTcjK) | [Wein Rayheen](https://open.spotify.com/album/4bcHZwnRYGf63bmvfpUFDq) | 3:05 |
+| 50 | [Wein Rayheen](https://open.spotify.com/track/7mHpjI49tleTX9YezPPqS6) | [Aziz Maraka](https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU), [Noel Kharman](https://open.spotify.com/artist/76G2QPGz4HBmhn0D3vr9UL) | [Wein Rayheen](https://open.spotify.com/album/4bcHZwnRYGf63bmvfpUFDq) | 3:05 |
 | 51 | [GRAND CASABLANCA](https://open.spotify.com/track/0XSH8YUaehYghWI5Mw2FYC) | [Ayoub Hattab](https://open.spotify.com/artist/718mVE4zMicra6iqqKY5h3) | [GRAND CASABLANCA](https://open.spotify.com/album/7eKFo8B2iSBV9KMZ7rqKsY) | 3:08 |
 | 52 | [Mraite](https://open.spotify.com/track/7mEO8E9koxx19CywaN0pwi) | [Xoureldin](https://open.spotify.com/artist/6dGfzQZmB2W9ImyY2wIMUi) | [Mraite](https://open.spotify.com/album/4pPi3KRT8uRBS1svqdbUqN) | 3:00 |
 | 53 | [Laysh](https://open.spotify.com/track/6cOEsSZeuzPX3V2GgvB4CF) | [Assasi](https://open.spotify.com/artist/1TuHc6zFa31PJpMpvyKZoz) | [Third World Wide Vol\. 1](https://open.spotify.com/album/0hFSce1HiBRXsZaii7qAZh) | 2:58 |

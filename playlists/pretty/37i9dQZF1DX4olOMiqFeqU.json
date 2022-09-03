@@ -1,12 +1,12 @@
 {
   "description": "100% Pinoy hits from your favorite artists!",
-  "num_followers": 2282097,
+  "num_followers": 2281918,
   "original_name": "OPM Favorites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDExMTMzMSwwMDAwMDAwMDI1ZmQyOTdmMzViOGYwYTQ1OGRlNzFlMmYyZmU3Zjdl",
+  "snapshot_id": "MTY2MDExMTMzMSwwMDAwMDAwMGVkZDZjMGEyOWQ4ZjRjMGE2OGE5YmE5NzQ0OTg2YjAz",
   "tracks": [
     {
       "added_at": "2022-06-13 03:55:05",
@@ -455,22 +455,6 @@
     {
       "added_at": "2022-06-13 03:55:05",
       "album": {
-        "name": "G9",
-        "url": "https://open.spotify.com/album/4OS6H3C1zimI6QPXA9MXvG"
-      },
-      "artists": [
-        {
-          "name": "Gloc 9",
-          "url": "https://open.spotify.com/artist/7HJDRQAfEcFiARVehhM6qD"
-        }
-      ],
-      "duration_ms": 244600,
-      "name": "Simpleng Tao",
-      "url": "https://open.spotify.com/track/6bMSUhAmaAGTb5RTTuzWE3"
-    },
-    {
-      "added_at": "2022-06-13 03:55:05",
-      "album": {
         "name": "Versions & Beyond",
         "url": "https://open.spotify.com/album/5ak2XNLAZyBKcUuvtZImhZ"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 253013,
       "name": "Tell Me Where It Hurts",
       "url": "https://open.spotify.com/track/4sYpTI5RPkhX2OWfrmjNl3"
+    },
+    {
+      "added_at": "2022-06-13 03:55:05",
+      "album": {
+        "name": "G9",
+        "url": "https://open.spotify.com/album/4OS6H3C1zimI6QPXA9MXvG"
+      },
+      "artists": [
+        {
+          "name": "Gloc 9",
+          "url": "https://open.spotify.com/artist/7HJDRQAfEcFiARVehhM6qD"
+        }
+      ],
+      "duration_ms": 244600,
+      "name": "Simpleng Tao",
+      "url": "https://open.spotify.com/track/6bMSUhAmaAGTb5RTTuzWE3"
     },
     {
       "added_at": "2022-06-13 03:55:05",
@@ -555,6 +555,26 @@
     {
       "added_at": "2022-06-13 03:55:05",
       "album": {
+        "name": "Romantico",
+        "url": "https://open.spotify.com/album/0HYAcVSUVkfxzHKgHu6DqR"
+      },
+      "artists": [
+        {
+          "name": "Kamikazee",
+          "url": "https://open.spotify.com/artist/4GBFKKuwmZUnAJt6nBal7A"
+        },
+        {
+          "name": "Kyla",
+          "url": "https://open.spotify.com/artist/2vTbuBRo7ACOZ3JsCnaL7S"
+        }
+      ],
+      "duration_ms": 295413,
+      "name": "Huling Sayaw",
+      "url": "https://open.spotify.com/track/7L8GQLm6e7cGoMMUAgWCVp"
+    },
+    {
+      "added_at": "2022-06-13 03:55:05",
+      "album": {
         "name": "Titig",
         "url": "https://open.spotify.com/album/4tk561oaKN5jhKhu8XuP1W"
       },
@@ -579,26 +599,6 @@
       "duration_ms": 259114,
       "name": "Titig",
       "url": "https://open.spotify.com/track/1x8pFCRfBnDqckyB6mlZci"
-    },
-    {
-      "added_at": "2022-06-13 03:55:05",
-      "album": {
-        "name": "Romantico",
-        "url": "https://open.spotify.com/album/0HYAcVSUVkfxzHKgHu6DqR"
-      },
-      "artists": [
-        {
-          "name": "Kamikazee",
-          "url": "https://open.spotify.com/artist/4GBFKKuwmZUnAJt6nBal7A"
-        },
-        {
-          "name": "Kyla",
-          "url": "https://open.spotify.com/artist/2vTbuBRo7ACOZ3JsCnaL7S"
-        }
-      ],
-      "duration_ms": 295413,
-      "name": "Huling Sayaw",
-      "url": "https://open.spotify.com/track/7L8GQLm6e7cGoMMUAgWCVp"
     },
     {
       "added_at": "2022-06-13 03:55:05",
@@ -699,22 +699,6 @@
     {
       "added_at": "2022-06-13 03:55:05",
       "album": {
-        "name": "It Might Be You (Theme from Everyday I Love You)",
-        "url": "https://open.spotify.com/album/0obyXODEHnssLgwFovpusL"
-      },
-      "artists": [
-        {
-          "name": "Michael Pangilinan",
-          "url": "https://open.spotify.com/artist/1t2caVgyabZrVDAlmMGraV"
-        }
-      ],
-      "duration_ms": 252969,
-      "name": "It Might Be You - Theme from Everyday I Love You",
-      "url": "https://open.spotify.com/track/4FdQYoWFym37QDQ2GkEHi1"
-    },
-    {
-      "added_at": "2022-06-13 03:55:05",
-      "album": {
         "name": "Monodramatic",
         "url": "https://open.spotify.com/album/0fWuyWoKTJty03n7xpCrEe"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 253360,
       "name": "Sa'yo",
       "url": "https://open.spotify.com/track/3WLDRtRzbKDNZW5AZaAvk0"
+    },
+    {
+      "added_at": "2022-06-13 03:55:05",
+      "album": {
+        "name": "It Might Be You (Theme from Everyday I Love You)",
+        "url": "https://open.spotify.com/album/0obyXODEHnssLgwFovpusL"
+      },
+      "artists": [
+        {
+          "name": "Michael Pangilinan",
+          "url": "https://open.spotify.com/artist/1t2caVgyabZrVDAlmMGraV"
+        }
+      ],
+      "duration_ms": 252969,
+      "name": "It Might Be You - Theme from Everyday I Love You",
+      "url": "https://open.spotify.com/track/4FdQYoWFym37QDQ2GkEHi1"
     },
     {
       "added_at": "2022-06-13 03:55:05",
@@ -815,22 +815,6 @@
     {
       "added_at": "2022-06-13 03:55:05",
       "album": {
-        "name": "She's Dating the Gangster (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0NfAzxHZ4diQArSqZMTJHc"
-      },
-      "artists": [
-        {
-          "name": "Angeline Quinto",
-          "url": "https://open.spotify.com/artist/7DW4ijH3n36QN0RlC0n649"
-        }
-      ],
-      "duration_ms": 240065,
-      "name": "Till I Met You",
-      "url": "https://open.spotify.com/track/0JzwzRDkwZr8s1WRfNgUqA"
-    },
-    {
-      "added_at": "2022-06-13 03:55:05",
-      "album": {
         "name": "Episode III",
         "url": "https://open.spotify.com/album/6bMej3xtNOTiiHLdhR4wzX"
       },
@@ -847,18 +831,34 @@
     {
       "added_at": "2022-06-13 03:55:05",
       "album": {
-        "name": "Popcorn",
-        "url": "https://open.spotify.com/album/2CZhWHzzLkNUtfONjbKOy1"
+        "name": "She's Dating the Gangster (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0NfAzxHZ4diQArSqZMTJHc"
       },
       "artists": [
         {
-          "name": "Moonstar88",
-          "url": "https://open.spotify.com/artist/2kZThDGZcHl4klYYFk0v8n"
+          "name": "Angeline Quinto",
+          "url": "https://open.spotify.com/artist/7DW4ijH3n36QN0RlC0n649"
         }
       ],
-      "duration_ms": 264202,
-      "name": "Torete",
-      "url": "https://open.spotify.com/track/3nQtkvFMNkRwxjKVAlGPcG"
+      "duration_ms": 240065,
+      "name": "Till I Met You",
+      "url": "https://open.spotify.com/track/0JzwzRDkwZr8s1WRfNgUqA"
+    },
+    {
+      "added_at": "2022-06-13 03:55:05",
+      "album": {
+        "name": "Blush",
+        "url": "https://open.spotify.com/album/2WNYwZg6JlIjSkQGq0fggk"
+      },
+      "artists": [
+        {
+          "name": "Imago",
+          "url": "https://open.spotify.com/artist/6MXu7TWZnmykwkXiRJeUMh"
+        }
+      ],
+      "duration_ms": 243653,
+      "name": "Sundo",
+      "url": "https://open.spotify.com/track/2OqQDFY4MgzkAoAZ67CscA"
     }
   ],
   "unique_name": "OPM Favorites",

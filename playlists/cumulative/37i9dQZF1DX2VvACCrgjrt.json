@@ -1322,6 +1322,24 @@
     },
     {
       "album": {
+        "name": "City Of Lights",
+        "url": "https://open.spotify.com/album/0lhKewAQzYzvNyONpUKhjE"
+      },
+      "artists": [
+        {
+          "name": "BUTTER",
+          "url": "https://open.spotify.com/artist/5SOSqzQyhsHTTuxAMGPkaO"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197746,
+      "name": "City Of Lights",
+      "url": "https://open.spotify.com/track/0g9y5TxBEyAyGmY3O2ZKAH"
+    },
+    {
+      "album": {
         "name": "Code Blue",
         "url": "https://open.spotify.com/album/1hTIUorQRxlzlh1BCwc3E8"
       },
@@ -4467,7 +4485,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 299527,
       "name": "Overthinkin'",
       "url": "https://open.spotify.com/track/2cmM9VWTXlE08tPNqTHpSg"

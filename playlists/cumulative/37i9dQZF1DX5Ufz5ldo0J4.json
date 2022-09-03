@@ -44,6 +44,24 @@
     },
     {
       "album": {
+        "name": "A Journey",
+        "url": "https://open.spotify.com/album/0xpGZx3qwQLBodx6voW3M6"
+      },
+      "artists": [
+        {
+          "name": "Castillo Indigo",
+          "url": "https://open.spotify.com/artist/4XdYi3SHxZqmqrJtn1M1Yv"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164392,
+      "name": "A Journey",
+      "url": "https://open.spotify.com/track/5PKCpP5i64Jxdnc9jDnIVV"
+    },
+    {
+      "album": {
         "name": "Little Things",
         "url": "https://open.spotify.com/album/6D5LLJs53kFNpxoIhQWGlY"
       },
@@ -343,7 +361,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 133879,
       "name": "Beloved",
       "url": "https://open.spotify.com/track/3OLeQWqsXLKFbboNufjc8Z"
@@ -379,7 +397,7 @@
       ],
       "date_added": "2022-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 116500,
       "name": "Between Moments",
       "url": "https://open.spotify.com/track/7IeAd6rhMU9zMG0wccZbwb"
@@ -1297,7 +1315,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 128671,
       "name": "First Bridge",
       "url": "https://open.spotify.com/track/09g7JMQLhGPspMm1hfeqCc"
@@ -1513,7 +1531,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 182475,
       "name": "Haumea",
       "url": "https://open.spotify.com/track/2LXzGeoY2Cm8SFIaq5v0sJ"
@@ -1657,7 +1675,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 179086,
       "name": "In Bloom",
       "url": "https://open.spotify.com/track/60nhoUdtsUq4FOwts7B2bM"
@@ -1675,7 +1693,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 212250,
       "name": "In Peace",
       "url": "https://open.spotify.com/track/1LLLm2nPAEw0F8nREc7mbe"
@@ -1801,7 +1819,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 160112,
       "name": "La Femme Soleil",
       "url": "https://open.spotify.com/track/3ZGqYamRfdQJ1lcQa27gHj"
@@ -1999,7 +2017,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 192000,
       "name": "Lost at Sea",
       "url": "https://open.spotify.com/track/13TlLMjvV0pZqBF7DKIs94"
@@ -2017,7 +2035,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 110434,
       "name": "Loveliness",
       "url": "https://open.spotify.com/track/5nMsoz257d3AbY8O8FC4Jx"
@@ -2737,7 +2755,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 200000,
       "name": "Past Lives",
       "url": "https://open.spotify.com/track/72KilUGrpXNCPE0yWjcSmN"
@@ -3691,7 +3709,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 211368,
       "name": "Sugar Dreams",
       "url": "https://open.spotify.com/track/1PU9FtEOCCDjigFFl5SliB"
@@ -3817,7 +3835,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 118500,
       "name": "That day",
       "url": "https://open.spotify.com/track/6pvG7rCh9GQQTWUCkPVjDB"
@@ -3997,7 +4015,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 204216,
       "name": "The Way There",
       "url": "https://open.spotify.com/track/2X0ophIMSyCw9SSISrIEpQ"
@@ -4249,7 +4267,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 98557,
       "name": "Unmasked",
       "url": "https://open.spotify.com/track/6LzOEMWZPX3AuKZuaNePpr"
@@ -4429,7 +4447,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 113750,
       "name": "Whenever You're With Me",
       "url": "https://open.spotify.com/track/37svGyFPieAZ9D89ejymzG"

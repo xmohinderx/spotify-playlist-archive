@@ -4,7 +4,7 @@
 
 > Your go to Christian playlist for every day listening \. Cover: Sadie Robertson Huff
 
-148 songs - 9 hr 21 min - [published](https://open.spotify.com/playlist/2zseWEoTrqeulGuq5qhUGU)
+149 songs - 9 hr 25 min - [published](https://open.spotify.com/playlist/2zseWEoTrqeulGuq5qhUGU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [\[wonder working\]](https://open.spotify.com/track/6KdS6nIKd0YKjukYsnj6IX) | [All Creatures](https://open.spotify.com/artist/2YgZPJl3jMabwzd1UZONon) | [\[wonder working\]](https://open.spotify.com/album/1CslCV4Trf529mhODsZVRx) | 3:01 | 2022-02-17 | 2022-08-27 |
 | [A BEAUTIFUL LIFE](https://open.spotify.com/track/0YRY2NKNTbq6T1KJ9ngbsu) | [Alexander Pappas](https://open.spotify.com/artist/5bjQjhv3Zzxo1VoxGcyaHC) | [A BEAUTIFUL LIFE](https://open.spotify.com/album/5bY2uh7ACqw1UZYfv0ED9f) | 3:51 | 2022-02-17 | 2022-08-27 |
 | [A Thousand Hallelujahs \- Live](https://open.spotify.com/track/0yQNofkmcY7exdnWvjTUHu) | [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [A Thousand Hallelujahs \(Live\)](https://open.spotify.com/album/5Lc6XxnPUfunAvhY5I6lxV) | 5:09 | 2022-02-17 |  |
+| [Ain't Nobody \- Radio Version](https://open.spotify.com/track/2iNzuYDmmD8dgEMLEaEpTx) | [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Ain't Nobody](https://open.spotify.com/album/7fhnMJOjUfoIpU10Vrknv2) | 3:33 | 2022-09-02 |  |
 | [Alive](https://open.spotify.com/track/4xG2EUEUnmSfAIMt5xdQoa) | [NONAH](https://open.spotify.com/artist/76SJxLztAMHPMieGTNZPeI) | [ALIVE \(VERSIONS\)](https://open.spotify.com/album/3fjEBRJZDBChnCdRpGyMDa) | 2:40 | 2022-04-01 |  |
 | [All I Ever Need](https://open.spotify.com/track/7sQ3XZD56ACwxkPstd0Mbg) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4) | [All I Ever Need](https://open.spotify.com/album/05QEZYQlfpjn0Y8dXnImv5) | 4:15 | 2022-02-17 | 2022-08-27 |
 | [All I See](https://open.spotify.com/track/1OIhubEHsc9JJskFkqa1h3) | [Gary LeVox](https://open.spotify.com/artist/6daR4Ec3o6K4VJnRcPM6w6), [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [One On One](https://open.spotify.com/album/5UGVoX8a8k9bh46FWaVWcr) | 2:58 | 2022-02-17 | 2022-08-27 |

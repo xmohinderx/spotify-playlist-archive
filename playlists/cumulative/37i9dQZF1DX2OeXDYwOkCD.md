@@ -4,7 +4,7 @@
 
 > Si te gustan por separado, ¿cómo no te van a gustar juntos?
 
-101 songs - 5 hr 17 min - [published](https://open.spotify.com/playlist/5xE0Z6rCVdMCq72w3t0VYv)
+102 songs - 5 hr 21 min - [published](https://open.spotify.com/playlist/5xE0Z6rCVdMCq72w3t0VYv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Dio$ No$ Libre Del Dinero](https://open.spotify.com/track/5m9l5wILQ9iiLd8csLeR5v) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Fucking Money Man](https://open.spotify.com/album/7qJZgNj9IMy9onoTe5uhZc) | 1:48 | 2022-03-29 |  |
 | [Dolerme](https://open.spotify.com/track/2reL9PAUza4PUtbjqW1fRf) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Dolerme](https://open.spotify.com/album/1sETl1onOh3oZIAMn9Kfyo) | 2:23 | 2022-03-29 |  |
 | [Día 14 De Abril](https://open.spotify.com/track/623kdaD0Wi2L0L6GyZvXUP) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Los Ángeles](https://open.spotify.com/album/7mGsUwMuhsKiOKx9X9k7tj) | 6:06 | 2022-03-29 |  |
+| [El Pañuelo](https://open.spotify.com/track/3c7H5RL3H6jFgDTbMxGBe9) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [El Pañuelo](https://open.spotify.com/album/6UHVdZCYgXo8xeSCw4RXp5) | 3:54 | 2022-09-02 |  |
 | [El Redentor](https://open.spotify.com/track/0JRUe91TOCuUtwczlhbhsG) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Los Ángeles](https://open.spotify.com/album/7mGsUwMuhsKiOKx9X9k7tj) | 3:01 | 2022-03-29 |  |
 | [Guerrera](https://open.spotify.com/track/3Q6zROQvMXRtR9NYfDpNWL) | [DELLAFUENTE](https://open.spotify.com/artist/4bJh7sMPcVRiqe5jlnsWQV), [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO) | [Guerrera](https://open.spotify.com/album/2qx3hMFjEnHK41oQ0kHqwW) | 3:28 | 2022-03-29 |  |
 | [HIGHEST IN THE ROOM \(feat\. ROSALÍA & Lil Baby\) \- REMIX](https://open.spotify.com/track/7h0d2h0fUmzbs7zeFigJPn) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [JACKBOYS](https://open.spotify.com/album/1Sf8GsXG32t0jNrX11xqWx) | 4:04 | 2022-03-29 |  |

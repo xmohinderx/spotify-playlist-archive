@@ -2,15 +2,15 @@
 
 ### [pov](https://open.spotify.com/playlist/37i9dQZF1DX54NB08XsyEC)
 
-> pov: as bam bam bans voltaram more!! / BLACKPINK
+> pov: vc é um bebê de um milhão de doláres/Ava Max
 
-92 songs - 4 hr 51 min - [published](https://open.spotify.com/playlist/1N2aY5nA8MrfxngP6TMfX7)
+94 songs - 4 hr 57 min - [published](https://open.spotify.com/playlist/1N2aY5nA8MrfxngP6TMfX7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A QUEDA](https://open.spotify.com/track/2s9BO8c0co0PmgBiUoTT17) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [A QUEDA](https://open.spotify.com/album/1nrGJRwyxKMNnGB8Rz1QJR) | 2:52 | 2022-05-06 |  |
 | [abcdefu](https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [abcdefu](https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI) | 2:48 | 2022-05-06 |  |
-| [ACORDA PEDRINHO](https://open.spotify.com/track/2sUhjzuc6w4SRFwoC3LvXZ) | [Jovem Dionisio](https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ) | [ACORDA PEDRINHO](https://open.spotify.com/album/3zYKRs5QY4f5B66TTAg3p6) | 2:53 | 2022-07-22 |  |
+| [ACORDA PEDRINHO](https://open.spotify.com/track/2sUhjzuc6w4SRFwoC3LvXZ) | [Jovem Dionisio](https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ) | [ACORDA PEDRINHO](https://open.spotify.com/album/3zYKRs5QY4f5B66TTAg3p6) | 2:53 | 2022-07-22 | 2022-09-03 |
 | [Amigos Que Se Beijam](https://open.spotify.com/track/5b7LOeiHvIhmj7rxzPSrzm) | [Dody](https://open.spotify.com/artist/57zabUYj0PmYHv4YeaeiEs) | [Amigos Que Se Beijam](https://open.spotify.com/album/0GxaNSeUoWDFYolnWKvGzN) | 2:07 | 2022-05-06 | 2022-08-20 |
 | [Apê 1001](https://open.spotify.com/track/3q6ZCGgFDIVCJQ5XG4JTL2) | [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [Apê 1001](https://open.spotify.com/album/1YBdcdUHmr5q2yrUf7ARYV) | 2:51 | 2022-05-06 |  |
 | [As It Was](https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [As It Was](https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8) | 2:47 | 2022-07-01 |  |
@@ -21,6 +21,7 @@
 | [Bandido](https://open.spotify.com/track/5PZAbR6JHYYV9xp5gv0XES) | [Zé Felipe](https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu), [MC Mari](https://open.spotify.com/artist/2AdUWxNm17kkGZiPGuorth) | [Bandido](https://open.spotify.com/album/05f4GTA4Okt2L7VEiLWns9) | 2:12 | 2022-07-22 | 2022-08-13 |
 | [Bateria Social](https://open.spotify.com/track/1sz0sqdm8bUMLXrTfR5gEE) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov) | [Bateria Social](https://open.spotify.com/album/698LkunOLkOj80zdayoiHa) | 2:59 | 2022-05-06 | 2022-05-28 |
 | [Beggin'](https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Chosen](https://open.spotify.com/album/2qJw6w5XwQO0PQlSWPu7Tw) | 3:31 | 2022-05-06 |  |
+| [Bigger Than Me](https://open.spotify.com/track/1igXQJ8h25DY4AiVgyGohE) | [Louis Tomlinson](https://open.spotify.com/artist/57WHJIHrjOE3iAxpihhMnp) | [Bigger Than Me](https://open.spotify.com/album/11Kmry6hzWz0VFAI7s2Iz1) | 3:41 | 2022-09-02 |  |
 | [BIZCOCHITO](https://open.spotify.com/track/4kXxEhuatrvwrTQycA7s9B) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 1:49 | 2022-08-22 |  |
 | [bonita e miserável](https://open.spotify.com/track/1ePCG4jmr5NWT84Pw678kZ) | [Clarissa](https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK) | [bonita e miserável](https://open.spotify.com/album/2uF3enSQoCCusAYTAiIWhK) | 2:51 | 2022-05-06 | 2022-08-23 |
 | [Bored](https://open.spotify.com/track/04sN26COy28wTXYj3dMoiZ) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Bored](https://open.spotify.com/album/4iyJ8i3eKbez8JXDbsHIdZ) | 3:00 | 2022-05-06 | 2022-07-30 |
@@ -48,7 +49,7 @@
 | [INDUSTRY BABY \(feat\. Jack Harlow\)](https://open.spotify.com/track/27NovPIUIRrOZoCHxABJwK) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [INDUSTRY BABY \(feat\. Jack Harlow\)](https://open.spotify.com/album/622NFw5Yk0OReMJ2XWcXUh) | 3:32 | 2022-05-06 |  |
 | [INFERNO](https://open.spotify.com/track/7aonAWn0J0AJ47ZU9WHCXC) | [Sub Urban](https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG), [Bella Poarch](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm) | [INFERNO](https://open.spotify.com/album/0o6H7RwYZAE6v15lnENDab) | 2:13 | 2022-05-06 | 2022-07-23 |
 | [Infinity](https://open.spotify.com/track/1SOClUWhOi8vHZYMz3GluK) | [Jaymes Young](https://open.spotify.com/artist/6QrQ7OrISRYIfS5mtacaw2) | [Feel Something](https://open.spotify.com/album/6MuWCR3WPjwyKhqsTKLZ3z) | 3:57 | 2022-05-06 |  |
-| [I’m Tired \(with Zendaya\) \- Bonus Track](https://open.spotify.com/track/6LtHYDgYHRCHoKK3snfr2w) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [I’m Tired \(with Zendaya\) \- Bonus Track](https://open.spotify.com/album/28phJkFTSPLnwo555dFLKu) | 3:07 | 2022-05-06 |  |
+| [I’m Tired \(with Zendaya\) \- Bonus Track](https://open.spotify.com/track/6LtHYDgYHRCHoKK3snfr2w) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [I’m Tired \(with Zendaya\) \- Bonus Track](https://open.spotify.com/album/28phJkFTSPLnwo555dFLKu) | 3:07 | 2022-05-06 | 2022-09-03 |
 | [Jungle](https://open.spotify.com/track/5sAYqcQTEQbTbxdcqI4b8v) | [Emma Louise](https://open.spotify.com/artist/1A96iePIMNFBjLrjXEl718) | [Vs Head Vs Heart](https://open.spotify.com/album/53QfQ7ykD9nVoTaCvsdVi8) | 3:22 | 2022-05-06 | 2022-06-11 |
 | [Living Hell](https://open.spotify.com/track/6bTbMMEShyGyrcuIwtBlpA) | [Bella Poarch](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm) | [Dolls EP](https://open.spotify.com/album/4W8QhTVggLgkJLdsXLLnnz) | 2:54 | 2022-08-12 |  |
 | [Louis V, Menina Linda](https://open.spotify.com/track/5NunX2CvtMyvZHdV1CPZsJ) | [Sidoka](https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l) | [Louis V, Menina Linda](https://open.spotify.com/album/5eaGuSnryGzU9Z6qg2pXxP) | 3:35 | 2022-08-22 |  |
@@ -58,8 +59,9 @@
 | [love nwantiti \(feat\. Dj Yo! & AX'EL\) \- Remix](https://open.spotify.com/track/4gvrJnKCKIPiacNsWVQwEU) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Dj Yo!](https://open.spotify.com/artist/7iTLGcddv1bOPirdYJjKVy), [AX'EL](https://open.spotify.com/artist/5fUXK5m3BNwoRgTyKq8tnz) | [love nwantiti \(feat\. Dj Yo! & AX'EL\) \[Remix\]](https://open.spotify.com/album/5NzoKSfocwLOb6o0lXfTM9) | 3:08 | 2022-05-06 |  |
 | [Me rendi ao love song](https://open.spotify.com/track/7CRsO8aLopgWGHjEygr6dF) | [Dri](https://open.spotify.com/artist/0ZS2ehyvFN05jP3MH25l4g) | [Me rendi ao love song](https://open.spotify.com/album/7bjW8HtQhukkVCX2DBJ98k) | 3:45 | 2022-05-06 | 2022-08-13 |
 | [meu romance](https://open.spotify.com/track/4r9uSrToSVxAgs9ElYwfeP) | [TINN](https://open.spotify.com/artist/36I80iG1HUNzgtpM34yJlq) | [meu romance](https://open.spotify.com/album/5oQlhlDuDbXlp0go3eut4F) | 3:22 | 2022-06-10 | 2022-07-02 |
+| [Million Dollar Baby](https://open.spotify.com/track/3pPN20syOYvbUuEiBpbenI) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Million Dollar Baby](https://open.spotify.com/album/4fCW1XNPfBY6rgL1scsfGC) | 3:04 | 2022-09-02 |  |
 | [MONEY](https://open.spotify.com/track/7hU3IHwjX150XLoTVmjD0q) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [LALISA](https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd) | 2:48 | 2022-05-06 |  |
-| [MORE](https://open.spotify.com/track/4XKXphKH76W4zNpkgFS5o2) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [MORE](https://open.spotify.com/album/5Sk4Inca1WZhP7VLuD7DOi) | 3:00 | 2022-08-22 |  |
+| [MORE](https://open.spotify.com/track/4XKXphKH76W4zNpkgFS5o2) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [MORE](https://open.spotify.com/album/5Sk4Inca1WZhP7VLuD7DOi) | 3:00 | 2022-08-22 | 2022-09-03 |
 | [Motive X Promiscuous Mix](https://open.spotify.com/track/6BUql1GVeHgWvpWAYlqJro) | [Khlaw](https://open.spotify.com/artist/0oAK0DvKNnuXm1TQdhDEOv) | [Motive X Promiscuous](https://open.spotify.com/album/7hWMr3tYwq1gJLMqAxflSh) | 3:13 | 2022-05-06 | 2022-07-02 |
 | [nada contra \(ciúme\)](https://open.spotify.com/track/1YGLrVineKYS0UzvBAA3gH) | [Clarissa](https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK) | [nada contra \(ciúme\)](https://open.spotify.com/album/0GKDqWpEF0cRw9Q6Ha1zpH) | 2:22 | 2022-05-06 | 2022-07-29 |
 | [nada contra \(ciúme\)](https://open.spotify.com/track/1unDZmI0EXHaZ7FWugXSqC) | [Clarissa](https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK) | [nada contra \(ciúme\)](https://open.spotify.com/album/4eQOYhDped8j3q2tZHVdM0) | 2:22 | 2022-07-22 |  |

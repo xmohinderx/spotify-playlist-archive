@@ -278,6 +278,24 @@
     },
     {
       "album": {
+        "name": "Diabolic",
+        "url": "https://open.spotify.com/album/5JXXDea10HLfGk9zMoK90j"
+      },
+      "artists": [
+        {
+          "name": "My Favourite Nemesis",
+          "url": "https://open.spotify.com/artist/3YKCy7kEFDbG1ZGq6qNKjM"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205590,
+      "name": "Diabolic",
+      "url": "https://open.spotify.com/track/35nX8jOmfuUEofO4r20zJN"
+    },
+    {
+      "album": {
         "name": "Dimorphous Display",
         "url": "https://open.spotify.com/album/5jocUat4D4KpAUT9A8Zyk7"
       },
@@ -361,7 +379,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 130688,
       "name": "FANTASY",
       "url": "https://open.spotify.com/track/7AWdmCY0VJ2EB40OFQlJyN"
@@ -769,7 +787,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 137250,
       "name": "NADA",
       "url": "https://open.spotify.com/track/3Hci2iLarYEtZxuQBfIgyZ"
@@ -993,7 +1011,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 220722,
       "name": "Siren's Calling",
       "url": "https://open.spotify.com/track/2Rid5rm3i8pAMWbMFTqFRT"
@@ -1256,6 +1274,42 @@
     },
     {
       "album": {
+        "name": "Tiny Disappointments",
+        "url": "https://open.spotify.com/album/4itHsRrDzMue3SKuVcIoCw"
+      },
+      "artists": [
+        {
+          "name": "The Offering",
+          "url": "https://open.spotify.com/artist/69gpxGPOo7OguSCeHSlO9C"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 396410,
+      "name": "Tiny Disappointments",
+      "url": "https://open.spotify.com/track/1pfAi5l2hIvVoBN13s1Gbj"
+    },
+    {
+      "album": {
+        "name": "Toxic",
+        "url": "https://open.spotify.com/album/1o7TaQ4EMPhF8wHpUFv08z"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Wessels",
+          "url": "https://open.spotify.com/artist/6yyPaE45AE346XVgFJgiaI"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190293,
+      "name": "Toxic",
+      "url": "https://open.spotify.com/track/5yPoXFHbffwThUvx0ssfFZ"
+    },
+    {
+      "album": {
         "name": "No Good At Goodbyes",
         "url": "https://open.spotify.com/album/5XfEUtLHyx1mcHQ9bwWLZN"
       },
@@ -1375,7 +1429,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 320647,
       "name": "We Can Never Go Back to Arizona",
       "url": "https://open.spotify.com/track/5dr7QhlY2wPGYvVCcKN58K"
@@ -1397,6 +1451,24 @@
       "duration_ms": 215634,
       "name": "Worn Out",
       "url": "https://open.spotify.com/track/1dErvWB1kTwYQuSvYn8zrs"
+    },
+    {
+      "album": {
+        "name": "Wraith",
+        "url": "https://open.spotify.com/album/59wlkyqNZcSr6XwOZFQYqq"
+      },
+      "artists": [
+        {
+          "name": "Half Me",
+          "url": "https://open.spotify.com/artist/4LNvQot1CDYC3kWGW144XC"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180857,
+      "name": "Wraith",
+      "url": "https://open.spotify.com/track/3l01YBmdkodOql6KenzqHr"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXdiUbJTV2anj"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uFbqkOlzEH.md) - [plain]
 
 > Crush on Crush's K\-R&B and musics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,729 likes - 101 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,765 likes - 101 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uFbqkOlzEH.md) - [plain]
 | 44 | [She Said \(with BIBI\)](https://open.spotify.com/track/53ea1y50REK9XOjzEmsm4W) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [with HER](https://open.spotify.com/album/2NBgvn1II3DilIlJIEL5tW) | 3:28 |
 | 45 | [Late Autumn](https://open.spotify.com/track/2qTAE4kS2ea1CYF9ND7tMn) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Late Autumn](https://open.spotify.com/album/72657rD0E5qtjgwNi0R5Nm) | 3:33 |
 | 46 | [wanderlust](https://open.spotify.com/track/1YDRBnkxAr2AQjSbC3DKsL) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [wonderlust](https://open.spotify.com/album/2pgzGj9PQ4nhc1l3NBlATj) | 2:08 |
-| 47 | [Make Up](https://open.spotify.com/track/19zsSUEuJNzNA6eqInqyF9) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Sun And Moon](https://open.spotify.com/album/0AsQlY5YENtlvd8SLnrSxX) | 3:27 |
+| 47 | [Make Up \(Feat\. Crush\)](https://open.spotify.com/track/19zsSUEuJNzNA6eqInqyF9) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Sun And Moon](https://open.spotify.com/album/0AsQlY5YENtlvd8SLnrSxX) | 3:27 |
 | 48 | [What 2 Do](https://open.spotify.com/track/6GS3lnAVy5w6AHWEKYzYeS) | [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [Jeff Bernat](https://open.spotify.com/artist/2vVT4qoxWje0gVD2FiWZ4u) | [130 Mood : TRBL](https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU) | 3:44 |
 | 49 | [2411](https://open.spotify.com/track/7187aqQ77ROGubLXO9Jv36) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [wonderlust](https://open.spotify.com/album/2pgzGj9PQ4nhc1l3NBlATj) | 2:23 |
 | 50 | [Let Us Go](https://open.spotify.com/track/3RhwOffN5GMvTZZ7ZYXTQk) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Crash Landing on You \(Original Television Soundtrack\), Pt\. 10](https://open.spotify.com/album/2t3uzrkNH5XOfgfe5bnTEE) | 3:41 |
@@ -107,7 +107,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uFbqkOlzEH.md) - [plain]
 | 97 | [The Key](https://open.spotify.com/track/3WwccpehsAfh3FL85CFCpb) | [JUSTHIS](https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3), [Paloalto](https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [4 the Youth](https://open.spotify.com/album/4S4oCOWlvUSiYWwKBk7bbE) | 3:06 |
 | 98 | [Domino \(feat\. Crush\) \(Prod\. Crush, Gxxd\)](https://open.spotify.com/track/5IMS0D9wJu1U91O73sFqT1) | [1THE9](https://open.spotify.com/artist/6ZZafCTzyk1yjqEES63cMm), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [XIX](https://open.spotify.com/album/1u6A9D6lnJ3RT1wRjVRueH) | 3:29 |
 | 99 | [highfiVe](https://open.spotify.com/track/406Ot9eId70MKTtSOjxepe) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4), [Primary](https://open.spotify.com/artist/2nv1iHUnYCudHQxDUlglpx), [Boi B](https://open.spotify.com/artist/7MJnvH71CgBGCN9obN4aY5), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [highfiVe](https://open.spotify.com/album/1Sgh4Ol7jqp3s3E8KmGYRY) | 4:01 |
-| 100 | [Peace \(Prod\. By Cosmic Boy\)](https://open.spotify.com/track/6srHgSGinLdhwZCJezlcNd) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq), [CHOILB](https://open.spotify.com/artist/02WoRfOhF5nUVpwddshInq), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [hightechnology](https://open.spotify.com/album/04zlcxqJ5PJ8PY6wwkTmER) | 3:57 |
+| 100 | [Peace \(Prod\. By Cosmic Boy\) \(Feat\. Crush, Choi LB\)](https://open.spotify.com/track/6srHgSGinLdhwZCJezlcNd) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq), [CHOILB](https://open.spotify.com/artist/02WoRfOhF5nUVpwddshInq), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [hightechnology](https://open.spotify.com/album/04zlcxqJ5PJ8PY6wwkTmER) | 3:57 |
 | 101 | [You Are My Lady \(해외파 뮤지션 마이콜\)](https://open.spotify.com/track/1F1PRYM5ZKwXX8CKAegvMi) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Mask Singer 64th \(Live Version\)](https://open.spotify.com/album/0GTENfEeLNiEAqynhk8oRN) | 4:25 |
 
 Snapshot ID: `MTYwOTA2MTUxMywwMDAwMDAwMGQzNjRjNGMyNmIwZmFmOTlmM2MxNWRlOGQ4YTgxNTZm`

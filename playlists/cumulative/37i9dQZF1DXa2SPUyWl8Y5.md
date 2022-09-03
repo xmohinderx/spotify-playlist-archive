@@ -4,7 +4,7 @@
 
 > Focus with deep techno and tech house.
 
-309 songs - 1 day 10 hr 51 min - [published](https://open.spotify.com/playlist/2NF8nAjl3TnPE9TJlqKk6S)
+310 songs - 1 day 10 hr 56 min - [published](https://open.spotify.com/playlist/2NF8nAjl3TnPE9TJlqKk6S)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Chrysalis](https://open.spotify.com/track/5wlV5kpg4XyeMUcetHoTDw) | [Clawz SG](https://open.spotify.com/artist/2Em0PWUcrHZFGLrpVv0xtb), [Mashk](https://open.spotify.com/artist/5kB9WpgrgUoKxmknyQpGHW) | [Chrysalis](https://open.spotify.com/album/7hi2OS9XFqF8n0xsn8DrCA) | 7:36 | 2019-05-26\* | 2019-09-27 |
 | [Civilist](https://open.spotify.com/track/4Nkqr387bkoRn8omFcjQnS) | [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z) | [You Are Safe](https://open.spotify.com/album/7lg5i5BW3Fhmay7kEpyORQ) | 6:50 | 2019-05-26\* | 2019-07-05 |
 | [Cliff \- Einmusik Remix](https://open.spotify.com/track/27hMse6DWTePfwtnoUtsvr) | [Oliver Schories](https://open.spotify.com/artist/0iTjLBepeGaLgZS18kxgRq), [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1) | [Cliff \(Einmusik Remix\)](https://open.spotify.com/album/1Y2UePUXE1qCL4DlxeO9Zy) | 7:24 | 2021-09-05 |  |
+| [Close to the Edge](https://open.spotify.com/track/5QC6Ze5kjWoFr3xHOXhx1N) | [Klanglos](https://open.spotify.com/artist/1jV311C5ADuBqCPpprsjUp) | [Close to the Edge](https://open.spotify.com/album/6fDQUCufTFl072nXDT54Hm) | 5:08 | 2022-09-02 |  |
 | [Coalescence](https://open.spotify.com/track/3P3hqAX11ByilOMaeM2uGB) | [Strinner](https://open.spotify.com/artist/1fwhAXbVWWu93TsEpwjK92) | [Strinner Presents Authentic Steyoyoke \#014](https://open.spotify.com/album/4CTCl1DvHQVliCzpa5GTMc) | 7:50 | 2019-05-26\* | 2021-05-27 |
 | [Coast Ride](https://open.spotify.com/track/7KGnlXVmZKfsadE8a577bD) | [Anja Schneider](https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV) | [Changes](https://open.spotify.com/album/1xmLXwpj7I874BENnmJgMS) | 7:18 | 2019-06-03 | 2019-06-28 |
 | [Concussion](https://open.spotify.com/track/0ATXjHFhOLgQcMEJcBRdGa) | [ATTLAS](https://open.spotify.com/artist/0jM4IKp6YlTxq8tNDH9fX3) | [Concussion](https://open.spotify.com/album/4vE1V3tfB9zWzvbIHvOneu) | 5:13 | 2019-05-26\* | 2019-07-05 |
@@ -149,7 +150,7 @@
 | [Juriaan](https://open.spotify.com/track/79OXUEyFARdL5o6d0mufkn) | [Innacircle](https://open.spotify.com/artist/4XFq9dpY7G0laKhv41WqQ6) | [Amaranth](https://open.spotify.com/album/0irTTzTLcFslW4dz6KGq2o) | 7:41 | 2019-08-18 | 2022-04-21 |
 | [Kinetics](https://open.spotify.com/track/5WIOrOpTFKBRzGvleamhOF) | [Matchy](https://open.spotify.com/artist/5BF9eGIdwa9gt4RAXP8w1n), [Matthias Schuell](https://open.spotify.com/artist/4JPG7E5xdfg4TIaRPRSFrk) | [Kinetics](https://open.spotify.com/album/40ACOK23jII7rDzgFxM9tn) | 5:48 | 2021-12-17 | 2022-04-20 |
 | [Kosmos](https://open.spotify.com/track/7KTjB28PA4fG1XrdMvcQwK) | [ZAC](https://open.spotify.com/artist/5xUXAwPZ98FzFgjTNOIPyv), [Circle of Life](https://open.spotify.com/artist/42RQg877YIAzBlaGWWGEPs) | [Kosmos](https://open.spotify.com/album/3NIhhiNLa8eirGzZRF1PvO) | 6:45 | 2021-12-17 | 2022-07-27 |
-| [La Napoule \- Nathan Micay's Life in Every Breath Remix](https://open.spotify.com/track/26BnoECfbkfmgw05VNMFGW) | [Toh Imago](https://open.spotify.com/artist/5u9DNVFl4Or5RhHPQFoiac), [Nathan Micay](https://open.spotify.com/artist/6U7MOIhacysUEnfJ41WfhC) | [La Napoule \(Nathan Micay's Life in Every Breath Remix\)](https://open.spotify.com/album/1IhIyCKQM9SIxc2CONztlE) | 7:27 | 2020-03-17 |  |
+| [La Napoule \- Nathan Micay's Life in Every Breath Remix](https://open.spotify.com/track/26BnoECfbkfmgw05VNMFGW) | [Toh Imago](https://open.spotify.com/artist/5u9DNVFl4Or5RhHPQFoiac), [Nathan Micay](https://open.spotify.com/artist/6U7MOIhacysUEnfJ41WfhC) | [La Napoule \(Nathan Micay's Life in Every Breath Remix\)](https://open.spotify.com/album/1IhIyCKQM9SIxc2CONztlE) | 7:27 | 2020-03-17 | 2022-09-03 |
 | [Landing in Halifax](https://open.spotify.com/track/3CLUfqZpiTv3EO2eAS5nll) | [Passenger 10](https://open.spotify.com/artist/1Rmh4YOuttbNyVthCkTokT) | [Landing in Halifax](https://open.spotify.com/album/79DbNRg47wmpCmtoJrByH1) | 4:09 | 2022-04-04 |  |
 | [Lapislazuli](https://open.spotify.com/track/1eoCPqc4PZQfC8Li7DwoTE) | [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1) | [Lapislazuli](https://open.spotify.com/album/4ExtDGNIDCRIQWWyaJBP3S) | 8:35 | 2019-12-25 | 2022-05-07 |
 | [Last Storm](https://open.spotify.com/track/3mN0xBvHnDlSheEUdkdObs) | [Johan Mila](https://open.spotify.com/artist/2pRosGbLxjNNeijcRGKYli) | [Last Storm](https://open.spotify.com/album/1rxYS0QgwUnSqbLnIPoes1) | 6:41 | 2020-11-28 | 2022-07-29 |

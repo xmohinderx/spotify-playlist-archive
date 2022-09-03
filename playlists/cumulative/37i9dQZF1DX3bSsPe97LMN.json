@@ -1,11 +1,29 @@
 {
   "date_first_scraped": "2022-07-24",
-  "description": "Esta es la plebada que est\u00e1 marcando tendencia en la M\u00fasica Mexicana. Ivonne Galaz en portada.",
+  "description": "Esta es la plebada que est\u00e1 marcando tendencia en la M\u00fasica Mexicana. Porte Diferente en portada.",
   "name": "La Nueva Ola: M\u00fasica Mexicana",
   "published_playlist_ids": [
     "20A5pNUH5lOcBuXoAP4e1k"
   ],
   "tracks": [
+    {
+      "album": {
+        "name": "11: 11",
+        "url": "https://open.spotify.com/album/5ZuV7NA7e2albgIzv4FZT6"
+      },
+      "artists": [
+        {
+          "name": "Los Parras",
+          "url": "https://open.spotify.com/artist/1mXD3HVrObKWyjMvRjfsXp"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211208,
+      "name": "11: 11",
+      "url": "https://open.spotify.com/track/58iqJkgLGdfiDkadJqGYny"
+    },
     {
       "album": {
         "name": "12 Rifles",
@@ -59,6 +77,28 @@
       "duration_ms": 149163,
       "name": "300 Locos - En Vivo",
       "url": "https://open.spotify.com/track/2v7r3q9rDqNWfrhAU157gV"
+    },
+    {
+      "album": {
+        "name": "A La Orden (El Menor)",
+        "url": "https://open.spotify.com/album/4nA6tCmBMPlaj1cHDc3iWL"
+      },
+      "artists": [
+        {
+          "name": "Dan Sanchez",
+          "url": "https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG"
+        },
+        {
+          "name": "Adrian L Santos",
+          "url": "https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184554,
+      "name": "A La Orden (El Menor)",
+      "url": "https://open.spotify.com/track/6KSUBF2lLNzsPGiy8bV95y"
     },
     {
       "album": {
@@ -134,6 +174,28 @@
     },
     {
       "album": {
+        "name": "Artista Independiente",
+        "url": "https://open.spotify.com/album/5f4Uf0IvK5gHPZzcoyJ4Gm"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
+        {
+          "name": "Tapy Quintero",
+          "url": "https://open.spotify.com/artist/1CTYCiBGcZTsZBzYoa4pxM"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203157,
+      "name": "Artista Independiente",
+      "url": "https://open.spotify.com/track/61oFEnL56Vvu0shgd7aJPO"
+    },
+    {
+      "album": {
         "name": "Qu\u00e9date Conmigo",
         "url": "https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE"
       },
@@ -193,6 +255,24 @@
       "duration_ms": 208680,
       "name": "Belico El Asunto (En Vivo)",
       "url": "https://open.spotify.com/track/7kIDShjwKNfhXv1dNfT9ec"
+    },
+    {
+      "album": {
+        "name": "Bella Mujer",
+        "url": "https://open.spotify.com/album/7AyFGqdzc3zqoW68XI8SA3"
+      },
+      "artists": [
+        {
+          "name": "Grupo Nueva Liga",
+          "url": "https://open.spotify.com/artist/0iVRaTxHkNNvEaY1SOD8dk"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146692,
+      "name": "Bella Mujer",
+      "url": "https://open.spotify.com/track/4UdElq0dpUVS6fNyhLYwYM"
     },
     {
       "album": {
@@ -313,7 +393,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 187250,
       "name": "Cuando Te Acuerdes De Mi (En Vivo)",
       "url": "https://open.spotify.com/track/1pQrVutT9kzgLavLMUFubD"
@@ -378,6 +458,42 @@
     },
     {
       "album": {
+        "name": "Con Un Porte Diferente (Vol 2)",
+        "url": "https://open.spotify.com/album/23uvyq2VGIf4l5uUt9OgHN"
+      },
+      "artists": [
+        {
+          "name": "Porte Diferente",
+          "url": "https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216851,
+      "name": "Dices Que Me Quieres",
+      "url": "https://open.spotify.com/track/6YjnTgoNTiRKIcSGcFRZwE"
+    },
+    {
+      "album": {
+        "name": "DOCTOR DEL BARRIO",
+        "url": "https://open.spotify.com/album/655hE0RKEAe5CkBJ2USxwf"
+      },
+      "artists": [
+        {
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141040,
+      "name": "DOCTOR DEL BARRIO",
+      "url": "https://open.spotify.com/track/4qYYPkAWSwCnOEvvRrNaWj"
+    },
+    {
+      "album": {
         "name": "NOSTALGIA",
         "url": "https://open.spotify.com/album/72rN7YPXX4BxMQ3nNmipAd"
       },
@@ -393,7 +509,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 238560,
       "name": "DOS MORRITAS",
       "url": "https://open.spotify.com/track/2gpaJPUWNx2xmOwy2NNLu8"
@@ -641,7 +757,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 186947,
       "name": "El Mero Mero",
       "url": "https://open.spotify.com/track/1kOzNZLM7Hmdfl7mm3IEpd"
@@ -885,7 +1001,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 158441,
       "name": "Flores",
       "url": "https://open.spotify.com/track/2n6qEM9e2a6yS50fWyaPQT"
@@ -983,7 +1099,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 158093,
       "name": "JGL",
       "url": "https://open.spotify.com/track/5kpxVMDvYGRmNqawPqDTYR"
@@ -1085,7 +1201,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 135611,
       "name": "Los Botones Azules",
       "url": "https://open.spotify.com/track/3ZGkdrigbWXLgHungXfZkt"
@@ -1314,6 +1430,24 @@
     },
     {
       "album": {
+        "name": "Limerencia",
+        "url": "https://open.spotify.com/album/4d9KK2351FK3PAzlqfy8yj"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226636,
+      "name": "No Te Quiero Perder",
+      "url": "https://open.spotify.com/track/4AwlNIyid3oRyNqX61kTKt"
+    },
+    {
+      "album": {
         "name": "Pa Los Que Hoy",
         "url": "https://open.spotify.com/album/36xEtIBvLwYCUrtHsw9rbU"
       },
@@ -1395,7 +1529,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 242553,
       "name": "Pensar en Ti (Remix)",
       "url": "https://open.spotify.com/track/2K0bFO9bEzx8t5UFEHAcyM"
@@ -1760,6 +1894,24 @@
     },
     {
       "album": {
+        "name": "Una Chevy",
+        "url": "https://open.spotify.com/album/6Yt4FwoiLC7XebognYM5fx"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141500,
+      "name": "Una Chevy",
+      "url": "https://open.spotify.com/track/7xxQJetweF4orA784Bfae2"
+    },
+    {
+      "album": {
         "name": "Vamos Para Arriba",
         "url": "https://open.spotify.com/album/0vzPpFmWik8bxZ7GSvOD37"
       },
@@ -1775,7 +1927,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 172227,
       "name": "Vamos Para Arriba",
       "url": "https://open.spotify.com/track/7cZoAjj5vufdREBJZGW2lH"

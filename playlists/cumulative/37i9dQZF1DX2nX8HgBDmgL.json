@@ -1706,6 +1706,28 @@
     },
     {
       "album": {
+        "name": "Pardesi",
+        "url": "https://open.spotify.com/album/0wCSc43ppzINWPUnJEyzsu"
+      },
+      "artists": [
+        {
+          "name": "F1rstman",
+          "url": "https://open.spotify.com/artist/0IA4SdCS8HBDX6oBoOlgaf"
+        },
+        {
+          "name": "Jay Psar",
+          "url": "https://open.spotify.com/artist/2FXSYpIIZhJ260UvGZN8wr"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165600,
+      "name": "Pardesi",
+      "url": "https://open.spotify.com/track/0azDXr0cxe2lePuQgsSxRa"
+    },
+    {
+      "album": {
         "name": "Pasoori",
         "url": "https://open.spotify.com/album/7wgrW5XyZdtk0K8PkW5A7h"
       },

@@ -1,12 +1,12 @@
 {
   "description": "let me hold both your hands in the holes of my sweater",
-  "num_followers": 32071,
+  "num_followers": 32284,
   "original_name": "Sweater Weather",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MTU3ODA3MCwwMDAwMDAwMDYwZGU2YmU1NjY5NWRiZDRmMThlM2E5ZjJhZjIzZDM0",
+  "snapshot_id": "MTY0MTU3ODA3MCwwMDAwMDAwMGI0NWQwMWEwODQyMDdjM2RkYjU0MDcxNTExODljMWJh",
   "tracks": [
     {
       "added_at": "2022-01-07 17:54:30",
@@ -423,22 +423,6 @@
     {
       "added_at": "2022-01-07 17:54:30",
       "album": {
-        "name": "Give Me A Minute",
-        "url": "https://open.spotify.com/album/2PullXMROSpzCdFdzEmFhy"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 157493,
-      "name": "Give Me A Minute",
-      "url": "https://open.spotify.com/track/0d0iBmyaaywSWyEjN9NQla"
-    },
-    {
-      "added_at": "2022-01-07 17:54:30",
-      "album": {
         "name": "Writing of Blues and Yellows (Deluxe Version)",
         "url": "https://open.spotify.com/album/3WHmv6ghPoM7oA0rP6jMkT"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 187266,
       "name": "La Lune",
       "url": "https://open.spotify.com/track/0DwaOWI1kC2s98qLj0LTDd"
+    },
+    {
+      "added_at": "2022-01-07 17:54:30",
+      "album": {
+        "name": "Give Me A Minute",
+        "url": "https://open.spotify.com/album/2PullXMROSpzCdFdzEmFhy"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 157493,
+      "name": "Give Me A Minute",
+      "url": "https://open.spotify.com/track/0d0iBmyaaywSWyEjN9NQla"
     },
     {
       "added_at": "2022-01-07 17:54:30",
@@ -751,22 +751,6 @@
     {
       "added_at": "2022-01-07 17:54:30",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5lLa32kU65Y7mhYLMiEcXn"
-      },
-      "artists": [
-        {
-          "name": "Maggie Rogers",
-          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
-        }
-      ],
-      "duration_ms": 250836,
-      "name": "Tim McGraw - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/5sn1BmEOPP1bu4cZq9OgoF"
-    },
-    {
-      "added_at": "2022-01-07 17:54:30",
-      "album": {
         "name": "Idle Mind",
         "url": "https://open.spotify.com/album/5jz07RajgJtqxfBAwWULOW"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 295265,
       "name": "Warped Window",
       "url": "https://open.spotify.com/track/7jd2h2mIeyKpqkFsrl5EHN"
+    },
+    {
+      "added_at": "2022-01-07 17:54:30",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5lLa32kU65Y7mhYLMiEcXn"
+      },
+      "artists": [
+        {
+          "name": "Maggie Rogers",
+          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
+        }
+      ],
+      "duration_ms": 250836,
+      "name": "Tim McGraw - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/5sn1BmEOPP1bu4cZq9OgoF"
     },
     {
       "added_at": "2022-01-07 17:54:30",
@@ -847,22 +847,6 @@
     {
       "added_at": "2022-01-07 17:54:30",
       "album": {
-        "name": "Tomb",
-        "url": "https://open.spotify.com/album/4bUHu3F1zbCbKKcwvCmAXj"
-      },
-      "artists": [
-        {
-          "name": "Angelo De Augustine",
-          "url": "https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi"
-        }
-      ],
-      "duration_ms": 205657,
-      "name": "You Needed Love, I Needed You",
-      "url": "https://open.spotify.com/track/0MIqB2F979ng3e9fLKEAt6"
-    },
-    {
-      "added_at": "2022-01-07 17:54:30",
-      "album": {
         "name": "Now That The Light Is Fading",
         "url": "https://open.spotify.com/album/16wZsyXQ463IYlrXyJnRfY"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 277506,
       "name": "Dog Years",
       "url": "https://open.spotify.com/track/5RRNZFyOi17nTh2bPEKPtp"
+    },
+    {
+      "added_at": "2022-01-07 17:54:30",
+      "album": {
+        "name": "Tomb",
+        "url": "https://open.spotify.com/album/4bUHu3F1zbCbKKcwvCmAXj"
+      },
+      "artists": [
+        {
+          "name": "Angelo De Augustine",
+          "url": "https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi"
+        }
+      ],
+      "duration_ms": 205657,
+      "name": "You Needed Love, I Needed You",
+      "url": "https://open.spotify.com/track/0MIqB2F979ng3e9fLKEAt6"
     },
     {
       "added_at": "2022-01-07 17:54:30",
@@ -895,22 +895,6 @@
     {
       "added_at": "2022-01-07 17:54:30",
       "album": {
-        "name": "Call Me A Dreamer",
-        "url": "https://open.spotify.com/album/3zKpAuwGhuBpavexvu6ySj"
-      },
-      "artists": [
-        {
-          "name": "Kings Elliot",
-          "url": "https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy"
-        }
-      ],
-      "duration_ms": 228798,
-      "name": "Call Me A Dreamer",
-      "url": "https://open.spotify.com/track/5PMp84lVFm0SWEWOx1aQsw"
-    },
-    {
-      "added_at": "2022-01-07 17:54:30",
-      "album": {
         "name": "Vanilla (Stairwell Version)",
         "url": "https://open.spotify.com/album/30AiPggrojM01hleb8j12f"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 246070,
       "name": "Vanilla (Stairwell Version)",
       "url": "https://open.spotify.com/track/7yuecadXy2rAgc6Id2D6Qw"
+    },
+    {
+      "added_at": "2022-01-07 17:54:30",
+      "album": {
+        "name": "Call Me A Dreamer",
+        "url": "https://open.spotify.com/album/3zKpAuwGhuBpavexvu6ySj"
+      },
+      "artists": [
+        {
+          "name": "Kings Elliot",
+          "url": "https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy"
+        }
+      ],
+      "duration_ms": 228798,
+      "name": "Call Me A Dreamer",
+      "url": "https://open.spotify.com/track/5PMp84lVFm0SWEWOx1aQsw"
     },
     {
       "added_at": "2022-01-07 17:54:30",
@@ -991,22 +991,6 @@
     {
       "added_at": "2022-01-07 17:54:30",
       "album": {
-        "name": "Tomb",
-        "url": "https://open.spotify.com/album/4bUHu3F1zbCbKKcwvCmAXj"
-      },
-      "artists": [
-        {
-          "name": "Angelo De Augustine",
-          "url": "https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi"
-        }
-      ],
-      "duration_ms": 236819,
-      "name": "Time",
-      "url": "https://open.spotify.com/track/0FjTazWaBSHBVWm2PAGghQ"
-    },
-    {
-      "added_at": "2022-01-07 17:54:30",
-      "album": {
         "name": "Devon or Las Vegas",
         "url": "https://open.spotify.com/album/2iBH65jlLWmkzAAkqu0Ade"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 260000,
       "name": "Unconditional",
       "url": "https://open.spotify.com/track/4s3G9Ifc1dp8xEksZxNe8P"
+    },
+    {
+      "added_at": "2022-01-07 17:54:30",
+      "album": {
+        "name": "Tomb",
+        "url": "https://open.spotify.com/album/4bUHu3F1zbCbKKcwvCmAXj"
+      },
+      "artists": [
+        {
+          "name": "Angelo De Augustine",
+          "url": "https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi"
+        }
+      ],
+      "duration_ms": 236819,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/0FjTazWaBSHBVWm2PAGghQ"
     },
     {
       "added_at": "2022-01-07 17:54:30",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2022-01-07 17:54:30",
       "album": {
+        "name": "Blood Wolf Moon",
+        "url": "https://open.spotify.com/album/7gWTR3utfEnwboOuxGtuAK"
+      },
+      "artists": [
+        {
+          "name": "Tommy Ashby",
+          "url": "https://open.spotify.com/artist/7y1RS42LqlRYnpONXTjN3t"
+        }
+      ],
+      "duration_ms": 180010,
+      "name": "Blood Wolf Moon",
+      "url": "https://open.spotify.com/track/3wihzwWc7SD7plghq6xNxV"
+    },
+    {
+      "added_at": "2022-01-07 17:54:30",
+      "album": {
         "name": "Unfortunate Love",
         "url": "https://open.spotify.com/album/67aV8hBRcZ0irSncujuXA6"
       },
@@ -1107,18 +1123,18 @@
     {
       "added_at": "2022-01-07 17:54:30",
       "album": {
-        "name": "Blood Wolf Moon",
-        "url": "https://open.spotify.com/album/7gWTR3utfEnwboOuxGtuAK"
+        "name": "folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition]",
+        "url": "https://open.spotify.com/album/0PZ7lAru5FDFHuirTkWe9Z"
       },
       "artists": [
         {
-          "name": "Tommy Ashby",
-          "url": "https://open.spotify.com/artist/7y1RS42LqlRYnpONXTjN3t"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 180010,
-      "name": "Blood Wolf Moon",
-      "url": "https://open.spotify.com/track/3wihzwWc7SD7plghq6xNxV"
+      "duration_ms": 208973,
+      "name": "mirrorball",
+      "url": "https://open.spotify.com/track/5jQyGzcwqAxwT5QUIMivoX"
     },
     {
       "added_at": "2022-01-07 17:54:30",
@@ -1139,18 +1155,18 @@
     {
       "added_at": "2022-01-07 17:54:30",
       "album": {
-        "name": "folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition]",
-        "url": "https://open.spotify.com/album/0PZ7lAru5FDFHuirTkWe9Z"
+        "name": "Fake Plastic Trees",
+        "url": "https://open.spotify.com/album/6HeM8ZTANrAREphp6jQ5Ym"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
         }
       ],
-      "duration_ms": 208973,
-      "name": "mirrorball",
-      "url": "https://open.spotify.com/track/5jQyGzcwqAxwT5QUIMivoX"
+      "duration_ms": 260000,
+      "name": "Fake Plastic Trees",
+      "url": "https://open.spotify.com/track/2wVoRTUczkumuqcgNlRnLa"
     },
     {
       "added_at": "2022-01-07 17:54:30",
@@ -1167,22 +1183,6 @@
       "duration_ms": 225017,
       "name": "Warm Foothills",
       "url": "https://open.spotify.com/track/1YUcTZ0ehoHY6G6Prhcbj0"
-    },
-    {
-      "added_at": "2022-01-07 17:54:30",
-      "album": {
-        "name": "Fake Plastic Trees",
-        "url": "https://open.spotify.com/album/6HeM8ZTANrAREphp6jQ5Ym"
-      },
-      "artists": [
-        {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "Fake Plastic Trees",
-      "url": "https://open.spotify.com/track/2wVoRTUczkumuqcgNlRnLa"
     },
     {
       "added_at": "2022-01-07 17:54:30",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2022-01-07 17:54:30",
       "album": {
-        "name": "Arcadia",
-        "url": "https://open.spotify.com/album/6PLChyiJHbYkpX9XXtW6Ye"
-      },
-      "artists": [
-        {
-          "name": "Lily Kershaw",
-          "url": "https://open.spotify.com/artist/0p0ksmwMDQlAM24TWKu4Ua"
-        }
-      ],
-      "duration_ms": 199172,
-      "name": "Now & Then",
-      "url": "https://open.spotify.com/track/1dbaHk2530DwkAe5vwOYez"
-    },
-    {
-      "added_at": "2022-01-07 17:54:30",
-      "album": {
         "name": "Mountaineer",
         "url": "https://open.spotify.com/album/5AtMxNyGbY4sJnEyFbbig7"
       },
@@ -1275,18 +1259,18 @@
     {
       "added_at": "2022-01-07 17:54:30",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7vD0UV7p87sy5MnOhJqDDW"
+        "name": "Arcadia",
+        "url": "https://open.spotify.com/album/6PLChyiJHbYkpX9XXtW6Ye"
       },
       "artists": [
         {
-          "name": "alt-J",
-          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
+          "name": "Lily Kershaw",
+          "url": "https://open.spotify.com/artist/0p0ksmwMDQlAM24TWKu4Ua"
         }
       ],
-      "duration_ms": 143966,
-      "name": "Dancing in the Moonlight (It's Caught Me in Its Spotlight) - Live from Spotify Studios, New York City, NY",
-      "url": "https://open.spotify.com/track/2fpfApt0LZiOWybYfRVXTB"
+      "duration_ms": 199172,
+      "name": "Now & Then",
+      "url": "https://open.spotify.com/track/1dbaHk2530DwkAe5vwOYez"
     },
     {
       "added_at": "2022-01-07 17:54:30",
@@ -1303,6 +1287,22 @@
       "duration_ms": 160720,
       "name": "Glad I Got You",
       "url": "https://open.spotify.com/track/77QHKxBniAzCLen3aKgKgw"
+    },
+    {
+      "added_at": "2022-01-07 17:54:30",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7vD0UV7p87sy5MnOhJqDDW"
+      },
+      "artists": [
+        {
+          "name": "alt-J",
+          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
+        }
+      ],
+      "duration_ms": 143966,
+      "name": "Dancing in the Moonlight (It's Caught Me in Its Spotlight) - Live from Spotify Studios, New York City, NY",
+      "url": "https://open.spotify.com/track/2fpfApt0LZiOWybYfRVXTB"
     },
     {
       "added_at": "2022-01-07 17:54:30",
@@ -1467,6 +1467,22 @@
     {
       "added_at": "2022-01-07 17:54:30",
       "album": {
+        "name": "Breathe",
+        "url": "https://open.spotify.com/album/6HDqgrcQJjK2tckVLCDfvp"
+      },
+      "artists": [
+        {
+          "name": "Morgan Harper-Jones",
+          "url": "https://open.spotify.com/artist/73s0o3W8ycCcK4hRjuGNrj"
+        }
+      ],
+      "duration_ms": 182240,
+      "name": "I Wanna Dance With Somebody (Who Loves Me)",
+      "url": "https://open.spotify.com/track/0cbBZFEMcIsQujl5dIdcdi"
+    },
+    {
+      "added_at": "2022-01-07 17:54:30",
+      "album": {
         "name": "A Beginner's Mind",
         "url": "https://open.spotify.com/album/7AS9VaIdnYSR13T3vkVtu9"
       },
@@ -1483,22 +1499,6 @@
       "duration_ms": 147229,
       "name": "It\u2019s Your Own Body And Mind",
       "url": "https://open.spotify.com/track/6oNmSG8JbMa4jG5UQC5Fr2"
-    },
-    {
-      "added_at": "2022-01-07 17:54:30",
-      "album": {
-        "name": "Breathe",
-        "url": "https://open.spotify.com/album/6HDqgrcQJjK2tckVLCDfvp"
-      },
-      "artists": [
-        {
-          "name": "Morgan Harper-Jones",
-          "url": "https://open.spotify.com/artist/73s0o3W8ycCcK4hRjuGNrj"
-        }
-      ],
-      "duration_ms": 182240,
-      "name": "I Wanna Dance With Somebody (Who Loves Me)",
-      "url": "https://open.spotify.com/track/0cbBZFEMcIsQujl5dIdcdi"
     },
     {
       "added_at": "2022-01-07 17:54:30",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2022-01-07 17:54:30",
       "album": {
-        "name": "Where The Rocks Are",
-        "url": "https://open.spotify.com/album/0JseMx4hFfMch3y8MfbDNo"
-      },
-      "artists": [
-        {
-          "name": "Maia Friedman",
-          "url": "https://open.spotify.com/artist/3SAdHKW3ICNgtyFgaWdC6c"
-        }
-      ],
-      "duration_ms": 233773,
-      "name": "Where The Rocks Are",
-      "url": "https://open.spotify.com/track/0XzVFPCmBmQuNjshP49T1R"
-    },
-    {
-      "added_at": "2022-01-07 17:54:30",
-      "album": {
         "name": "Our Day",
         "url": "https://open.spotify.com/album/5EpS9xRiHoo93AsV1Y6ShI"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 123374,
       "name": "I Can See New Zealand From Here",
       "url": "https://open.spotify.com/track/27V4KpRC7Y5oYWdXssEUMU"
+    },
+    {
+      "added_at": "2022-01-07 17:54:30",
+      "album": {
+        "name": "Where The Rocks Are",
+        "url": "https://open.spotify.com/album/0JseMx4hFfMch3y8MfbDNo"
+      },
+      "artists": [
+        {
+          "name": "Maia Friedman",
+          "url": "https://open.spotify.com/artist/3SAdHKW3ICNgtyFgaWdC6c"
+        }
+      ],
+      "duration_ms": 233773,
+      "name": "Where The Rocks Are",
+      "url": "https://open.spotify.com/track/0XzVFPCmBmQuNjshP49T1R"
     },
     {
       "added_at": "2022-01-07 17:54:30",

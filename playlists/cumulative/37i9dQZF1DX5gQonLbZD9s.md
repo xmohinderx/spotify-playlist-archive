@@ -4,7 +4,7 @@
 
 > Throw the weights around with your favorite uptempo pop songs!
 
-229 songs - 12 hr 22 min - [published](https://open.spotify.com/playlist/2PdN5idnlpDGB9nQ1OsLKL)
+230 songs - 12 hr 25 min - [published](https://open.spotify.com/playlist/2PdN5idnlpDGB9nQ1OsLKL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,6 +152,7 @@
 | [Met Him Last Night \- Dave Audé Remix](https://open.spotify.com/track/0mHz9vqcznnfUcLqfQb3kd) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Dave Audé](https://open.spotify.com/artist/1vWImodgVqIgTUkekGEfR9) | [Met Him Last Night \(Dave Audé Remix\)](https://open.spotify.com/album/4MBl3DXlabFiVVQX6gwZLd) | 3:44 | 2022-01-28 | 2022-07-29 |
 | [Midnight Sky](https://open.spotify.com/track/27ycaQnQAxaPiyeg3nr2aB) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Midnight Sky](https://open.spotify.com/album/7z5fmW3FDD6jlpJtwMXV51) | 3:43 | 2022-01-28 | 2022-07-28 |
 | [Midnight Sky](https://open.spotify.com/track/4i2qxFEVVUi8yOYoxB8TCX) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Plastic Hearts](https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR) | 3:43 | 2022-07-28 |  |
+| [Million Dollar Baby](https://open.spotify.com/track/3pPN20syOYvbUuEiBpbenI) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Million Dollar Baby](https://open.spotify.com/album/4fCW1XNPfBY6rgL1scsfGC) | 3:04 | 2022-09-02 |  |
 | [Mirror](https://open.spotify.com/track/4NjTrZ2IQeWnIbzyY2SOfz) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Mirror](https://open.spotify.com/album/70xpiL7Pl2AlH9J64acWpD) | 2:36 | 2022-01-28 | 2022-07-29 |
 | [Mon Amour \- Remix](https://open.spotify.com/track/5TMLavqGRKNxgzMBrVpC9R) | [zzoilo](https://open.spotify.com/artist/7c53ZFyajVMTo08HmvoB6b), [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Mon Amour \(Remix\)](https://open.spotify.com/album/4TWsxSw8df17aja6JSaar5) | 2:59 | 2022-03-24 | 2022-04-19 |
 | [Monument \- The Inevitable End Version](https://open.spotify.com/track/616ddBwW0LpyhCpLE5BpIP) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH), [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [The Inevitable End](https://open.spotify.com/album/3ZBCxww5l2GuPEtOmhP73N) | 4:46 | 2022-03-24 | 2022-04-21 |
@@ -195,7 +196,7 @@
 | [Say So](https://open.spotify.com/track/3Dv1eDb0MEgF93GpLXlucZ) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Hot Pink](https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3) | 3:57 | 2022-03-24 | 2022-08-20 |
 | [Shape of You](https://open.spotify.com/track/7qiZfU4dY1lWllzX7mPBI3) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [÷ \(Deluxe\)](https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu) | 3:53 | 2022-03-24 | 2022-04-16 |
 | [SHOW OFF \(feat\. Nicole Scherzinger\)](https://open.spotify.com/track/1jpnnxTKqfvSWl6MccJjAd) | [Todrick Hall](https://open.spotify.com/artist/0gBvuNzrFCOVaiyKexoYMH), [Nicole Scherzinger](https://open.spotify.com/artist/40xbWSB4JPdOkRyuTDy1oP) | [FEMULINE](https://open.spotify.com/album/5HMKe2aSQafz0Oix7nePGT) | 3:40 | 2022-01-28 | 2022-07-29 |
-| [Since U Been Gone](https://open.spotify.com/track/3xrn9i8zhNZsTtcoWgQEAd) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Breakaway](https://open.spotify.com/album/5gDAEao3VxFdbm8vS0koQq) | 3:08 | 2022-03-24 |  |
+| [Since U Been Gone](https://open.spotify.com/track/3xrn9i8zhNZsTtcoWgQEAd) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Breakaway](https://open.spotify.com/album/5gDAEao3VxFdbm8vS0koQq) | 3:08 | 2022-03-24 | 2022-09-03 |
 | [Some Say \- Felix Jaehn Remix](https://open.spotify.com/track/7C1trmcQQ5n5RNy4l6ziCv) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [Some Say \(Felix Jaehn Remix\)](https://open.spotify.com/album/3HE3e3QqmuhAsxcJGtxyEr) | 3:06 | 2022-03-24 | 2022-04-21 |
 | [Somebody I Fucked Once \- Lady Bee Remix](https://open.spotify.com/track/4QeEtuZ4paF4UxTtb2MauS) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU), [Lady Bee](https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN) | [Somebody I Fucked Once \(The Extras\)](https://open.spotify.com/album/42n9e4oj8yQcXV5CN4uQx0) | 2:25 | 2022-02-07 | 2022-02-10 |
 | [Sorry](https://open.spotify.com/track/09CtPGIpYB4BrO8qb1RGsF) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Purpose \(Deluxe\)](https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr) | 3:20 | 2022-03-24 | 2022-04-19 |

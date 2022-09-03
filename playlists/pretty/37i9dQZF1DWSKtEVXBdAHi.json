@@ -1,12 +1,12 @@
 {
   "description": "Utan bra musik blir det ingen bra AW. S\u00e5 enkel \u00e4r ekvationen.",
-  "num_followers": 27026,
+  "num_followers": 27024,
   "original_name": "After Work",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU4MjAzMjY5MCwwMDAwMDAwMDUyM2EzY2MzYzc1ZWI1MDk2N2U1YjdkY2RkNDBkZDM2",
+  "snapshot_id": "MTU4MjAzMjY5MCwwMDAwMDAwMGQ2MzdmZDJiMjM1MmFhMjc1OGI3MmVlMmRiNzRjZWJi",
   "tracks": [
     {
       "added_at": "2020-02-18 13:31:30",
@@ -563,6 +563,22 @@
     {
       "added_at": "2020-02-18 13:31:30",
       "album": {
+        "name": "Just Friends",
+        "url": "https://open.spotify.com/album/0viriXpPADYCcQmmI6RkSe"
+      },
+      "artists": [
+        {
+          "name": "Virginia To Vegas",
+          "url": "https://open.spotify.com/artist/3v9wPA58IVrX2dg6AjSPgi"
+        }
+      ],
+      "duration_ms": 168946,
+      "name": "Just Friends",
+      "url": "https://open.spotify.com/track/02Ygu8lo3qSknRpcBnspso"
+    },
+    {
+      "added_at": "2020-02-18 13:31:30",
+      "album": {
         "name": "Carry On (from the Original Motion Picture \"POK\u00c9MON Detective Pikachu\")",
         "url": "https://open.spotify.com/album/1Z7WbPmn7QFoJ2DrNfEehz"
       },
@@ -583,18 +599,22 @@
     {
       "added_at": "2020-02-18 13:31:30",
       "album": {
-        "name": "Just Friends",
-        "url": "https://open.spotify.com/album/0viriXpPADYCcQmmI6RkSe"
+        "name": "Body Back (feat. Maia Wright)",
+        "url": "https://open.spotify.com/album/3VCPQRcHVxiVaePlQ6TwoF"
       },
       "artists": [
         {
-          "name": "Virginia To Vegas",
-          "url": "https://open.spotify.com/artist/3v9wPA58IVrX2dg6AjSPgi"
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        {
+          "name": "Maia Wright",
+          "url": "https://open.spotify.com/artist/5qQFXHDOeYjiZVrCUO56Pk"
         }
       ],
-      "duration_ms": 168946,
-      "name": "Just Friends",
-      "url": "https://open.spotify.com/track/02Ygu8lo3qSknRpcBnspso"
+      "duration_ms": 214634,
+      "name": "Body Back (feat. Maia Wright)",
+      "url": "https://open.spotify.com/track/1z1XegUChLLQfcbtIK8ABn"
     },
     {
       "added_at": "2020-02-18 13:31:30",
@@ -615,26 +635,6 @@
       "duration_ms": 220396,
       "name": "What I Like About You (feat. Theresa Rex)",
       "url": "https://open.spotify.com/track/4NSW0Km5ZG60L8FthUebPJ"
-    },
-    {
-      "added_at": "2020-02-18 13:31:30",
-      "album": {
-        "name": "Body Back (feat. Maia Wright)",
-        "url": "https://open.spotify.com/album/3VCPQRcHVxiVaePlQ6TwoF"
-      },
-      "artists": [
-        {
-          "name": "Gryffin",
-          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
-        },
-        {
-          "name": "Maia Wright",
-          "url": "https://open.spotify.com/artist/5qQFXHDOeYjiZVrCUO56Pk"
-        }
-      ],
-      "duration_ms": 214634,
-      "name": "Body Back (feat. Maia Wright)",
-      "url": "https://open.spotify.com/track/1z1XegUChLLQfcbtIK8ABn"
     },
     {
       "added_at": "2020-02-18 13:31:30",
@@ -767,6 +767,26 @@
     {
       "added_at": "2020-02-18 13:31:30",
       "album": {
+        "name": "Lost In Japan (Remix)",
+        "url": "https://open.spotify.com/album/3ynoYncFXzo2OfPT8j93Pw"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        },
+        {
+          "name": "Zedd",
+          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
+        }
+      ],
+      "duration_ms": 201253,
+      "name": "Lost In Japan - Remix",
+      "url": "https://open.spotify.com/track/575NJxNUVDqwJGdzBrlLbv"
+    },
+    {
+      "added_at": "2020-02-18 13:31:30",
+      "album": {
         "name": "Beautiful People (feat. Khalid) [NOTD Remix]",
         "url": "https://open.spotify.com/album/2oEcytQ5u5QtR9VZc2XgE2"
       },
@@ -787,26 +807,6 @@
       "duration_ms": 162081,
       "name": "Beautiful People (feat. Khalid) - NOTD Remix",
       "url": "https://open.spotify.com/track/6J7WMB5GII6pEOzy687jhO"
-    },
-    {
-      "added_at": "2020-02-18 13:31:30",
-      "album": {
-        "name": "Lost In Japan (Remix)",
-        "url": "https://open.spotify.com/album/3ynoYncFXzo2OfPT8j93Pw"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        },
-        {
-          "name": "Zedd",
-          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
-        }
-      ],
-      "duration_ms": 201253,
-      "name": "Lost In Japan - Remix",
-      "url": "https://open.spotify.com/track/575NJxNUVDqwJGdzBrlLbv"
     },
     {
       "added_at": "2020-02-18 13:31:30",

@@ -1,12 +1,12 @@
 {
   "description": "Slacker jams. Cover: Frankie Cosmos",
-  "num_followers": 368431,
+  "num_followers": 367423,
   "original_name": "Lo-fi Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDg2MDE1OCwwMDAwMDAwMGZiZDRiMmExMmJmNzdkZmY1M2Y0ZWQ3MmM4ZmZjYjYw",
+  "snapshot_id": "MTY2MDg2MDE1OCwwMDAwMDAwMDJhMzBiOTBjZTU1MDMyZGI2ZjMzNDhmYTY3MzI3MjA2",
   "tracks": [
     {
       "added_at": "2022-08-05 10:50:57",
@@ -435,22 +435,6 @@
     {
       "added_at": "2022-08-05 10:50:57",
       "album": {
-        "name": "Huli Ka",
-        "url": "https://open.spotify.com/album/4TtzUdu7yLu0gWH7Nmoo9u"
-      },
-      "artists": [
-        {
-          "name": "Whatever, Dad",
-          "url": "https://open.spotify.com/artist/1wMNhhG8VUhDGZ249MZBtn"
-        }
-      ],
-      "duration_ms": 95000,
-      "name": "Death of the Phone Call",
-      "url": "https://open.spotify.com/track/15z5xDY6UAjEiWoMXhTK3Q"
-    },
-    {
-      "added_at": "2022-08-05 10:50:57",
-      "album": {
         "name": "GLOW ON",
         "url": "https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 176002,
       "name": "ALIEN LOVE CALL",
       "url": "https://open.spotify.com/track/5o5SdS2vu1PgKblBABGlER"
+    },
+    {
+      "added_at": "2022-08-05 10:50:57",
+      "album": {
+        "name": "Huli Ka",
+        "url": "https://open.spotify.com/album/4TtzUdu7yLu0gWH7Nmoo9u"
+      },
+      "artists": [
+        {
+          "name": "Whatever, Dad",
+          "url": "https://open.spotify.com/artist/1wMNhhG8VUhDGZ249MZBtn"
+        }
+      ],
+      "duration_ms": 95000,
+      "name": "Death of the Phone Call",
+      "url": "https://open.spotify.com/track/15z5xDY6UAjEiWoMXhTK3Q"
     },
     {
       "added_at": "2022-08-05 10:50:57",
@@ -763,22 +763,6 @@
     {
       "added_at": "2022-08-05 10:50:57",
       "album": {
-        "name": "Waves",
-        "url": "https://open.spotify.com/album/3fsuoXmdJU3QLMNVucfQNE"
-      },
-      "artists": [
-        {
-          "name": "NewDad",
-          "url": "https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6"
-        }
-      ],
-      "duration_ms": 275013,
-      "name": "I Don't Recognise You",
-      "url": "https://open.spotify.com/track/2W94sTwflT0Fg2tQc0vlfG"
-    },
-    {
-      "added_at": "2022-08-05 10:50:57",
-      "album": {
         "name": "Sun Outside My Window",
         "url": "https://open.spotify.com/album/2f9WckhKSSRXLJ53QJUCRo"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 201226,
       "name": "Sun Outside My Window",
       "url": "https://open.spotify.com/track/4VpLdvee1V7CTKXv1xaDCk"
+    },
+    {
+      "added_at": "2022-08-05 10:50:57",
+      "album": {
+        "name": "Waves",
+        "url": "https://open.spotify.com/album/3fsuoXmdJU3QLMNVucfQNE"
+      },
+      "artists": [
+        {
+          "name": "NewDad",
+          "url": "https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6"
+        }
+      ],
+      "duration_ms": 275013,
+      "name": "I Don't Recognise You",
+      "url": "https://open.spotify.com/track/2W94sTwflT0Fg2tQc0vlfG"
     },
     {
       "added_at": "2022-08-05 10:50:57",
@@ -939,6 +939,22 @@
     {
       "added_at": "2022-08-05 10:50:57",
       "album": {
+        "name": "Can\u2019t Get Enough",
+        "url": "https://open.spotify.com/album/474MpKHvn3W8j2E9x3qEfu"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 131174,
+      "name": "Can\u2019t Get Enough",
+      "url": "https://open.spotify.com/track/6zp8BWzu4dzuygZTVf5H2H"
+    },
+    {
+      "added_at": "2022-08-05 10:50:57",
+      "album": {
         "name": "5AM Empanada with You",
         "url": "https://open.spotify.com/album/3i52R3QnIBb4knh1CZf3n6"
       },
@@ -971,22 +987,6 @@
     {
       "added_at": "2022-08-05 10:50:57",
       "album": {
-        "name": "Can\u2019t Get Enough",
-        "url": "https://open.spotify.com/album/474MpKHvn3W8j2E9x3qEfu"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 131174,
-      "name": "Can\u2019t Get Enough",
-      "url": "https://open.spotify.com/track/6zp8BWzu4dzuygZTVf5H2H"
-    },
-    {
-      "added_at": "2022-08-05 10:50:57",
-      "album": {
         "name": "\u20ac \u20ac \u20ac \u20ac^^%%!!!!!heaven!!!!!!",
         "url": "https://open.spotify.com/album/7H9foucw2Pl96e1bwW8L3Q"
       },
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2022-08-05 10:50:57",
       "album": {
-        "name": "Me Oh My Mirror",
-        "url": "https://open.spotify.com/album/4FIEhoPQZpjjSS6japEfDx"
-      },
-      "artists": [
-        {
-          "name": "Current Joys",
-          "url": "https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL"
-        }
-      ],
-      "duration_ms": 223186,
-      "name": "Desire",
-      "url": "https://open.spotify.com/track/2CgjSLZmBqcJZyefZSDFQ3"
-    },
-    {
-      "added_at": "2022-08-05 10:50:57",
-      "album": {
         "name": "Wednesday",
         "url": "https://open.spotify.com/album/2yVx5Ark5dEz7YN6tYX4Mu"
       },
@@ -1039,18 +1023,18 @@
     {
       "added_at": "2022-08-05 10:50:57",
       "album": {
-        "name": "Alive",
-        "url": "https://open.spotify.com/album/3EfT0FhcsFzflCWBTxJd2k"
+        "name": "Me Oh My Mirror",
+        "url": "https://open.spotify.com/album/4FIEhoPQZpjjSS6japEfDx"
       },
       "artists": [
         {
-          "name": "Yot Club",
-          "url": "https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR"
+          "name": "Current Joys",
+          "url": "https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL"
         }
       ],
-      "duration_ms": 180295,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/2zAzuCsqsZkSkozxTXqtSn"
+      "duration_ms": 223186,
+      "name": "Desire",
+      "url": "https://open.spotify.com/track/2CgjSLZmBqcJZyefZSDFQ3"
     },
     {
       "added_at": "2022-08-05 10:50:57",
@@ -1075,18 +1059,18 @@
     {
       "added_at": "2022-08-05 10:50:57",
       "album": {
-        "name": "Buzzkill Bummer",
-        "url": "https://open.spotify.com/album/2TsdVKTcu9dzDb2SeZHMjd"
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/3EfT0FhcsFzflCWBTxJd2k"
       },
       "artists": [
         {
-          "name": "Vanillaroma",
-          "url": "https://open.spotify.com/artist/3tTYiqgqmGlr2tfujTR7P7"
+          "name": "Yot Club",
+          "url": "https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR"
         }
       ],
-      "duration_ms": 182250,
-      "name": "Buzzkill Bummer",
-      "url": "https://open.spotify.com/track/5pLN9j3IQF63Dx4J5OT53p"
+      "duration_ms": 180295,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/2zAzuCsqsZkSkozxTXqtSn"
     },
     {
       "added_at": "2022-08-05 10:50:57",
@@ -1139,6 +1123,22 @@
       "duration_ms": 179141,
       "name": "Before the Fall",
       "url": "https://open.spotify.com/track/2KQmCj4MpTZUKyOVo2sGQZ"
+    },
+    {
+      "added_at": "2022-08-05 10:50:57",
+      "album": {
+        "name": "Buzzkill Bummer",
+        "url": "https://open.spotify.com/album/2TsdVKTcu9dzDb2SeZHMjd"
+      },
+      "artists": [
+        {
+          "name": "Vanillaroma",
+          "url": "https://open.spotify.com/artist/3tTYiqgqmGlr2tfujTR7P7"
+        }
+      ],
+      "duration_ms": 182250,
+      "name": "Buzzkill Bummer",
+      "url": "https://open.spotify.com/track/5pLN9j3IQF63Dx4J5OT53p"
     },
     {
       "added_at": "2022-08-05 10:50:57",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2022-08-05 10:50:57",
       "album": {
-        "name": "Into",
-        "url": "https://open.spotify.com/album/22Ta1z6nV13bCOXLQpdY6f"
-      },
-      "artists": [
-        {
-          "name": "CASTLEBEAT",
-          "url": "https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3"
-        }
-      ],
-      "duration_ms": 239343,
-      "name": "Into",
-      "url": "https://open.spotify.com/track/5O408HCYe3tXhyLf5JMjhJ"
-    },
-    {
-      "added_at": "2022-08-05 10:50:57",
-      "album": {
         "name": "Year Of The Rat",
         "url": "https://open.spotify.com/album/2wqVGl7R2cfwaZecFLTGIm"
       },
@@ -1375,22 +1359,6 @@
     {
       "added_at": "2022-08-05 10:50:57",
       "album": {
-        "name": "Anti-glory",
-        "url": "https://open.spotify.com/album/64rQzBshwp5tyR7ExhJaAk"
-      },
-      "artists": [
-        {
-          "name": "Horsegirl",
-          "url": "https://open.spotify.com/artist/2FDvUb4YgyUPpmnm1ILPra"
-        }
-      ],
-      "duration_ms": 210640,
-      "name": "Anti-glory",
-      "url": "https://open.spotify.com/track/7fDPgekQGJKkyyqjuhtNSG"
-    },
-    {
-      "added_at": "2022-08-05 10:50:57",
-      "album": {
         "name": "QUEEN CITY",
         "url": "https://open.spotify.com/album/2v2bIVg2RT8VWWF2u6lj1q"
       },
@@ -1407,6 +1375,22 @@
       "duration_ms": 214426,
       "name": "GROWING PAINS",
       "url": "https://open.spotify.com/track/7hTFHCtOfsMFaiNVDPzUJ9"
+    },
+    {
+      "added_at": "2022-08-05 10:50:57",
+      "album": {
+        "name": "Anti-glory",
+        "url": "https://open.spotify.com/album/64rQzBshwp5tyR7ExhJaAk"
+      },
+      "artists": [
+        {
+          "name": "Horsegirl",
+          "url": "https://open.spotify.com/artist/2FDvUb4YgyUPpmnm1ILPra"
+        }
+      ],
+      "duration_ms": 210640,
+      "name": "Anti-glory",
+      "url": "https://open.spotify.com/track/7fDPgekQGJKkyyqjuhtNSG"
     },
     {
       "added_at": "2022-08-05 10:50:57",
@@ -1475,50 +1459,18 @@
     {
       "added_at": "2022-08-05 10:50:57",
       "album": {
-        "name": "No Smoke",
-        "url": "https://open.spotify.com/album/01JxwvDoVgfQjA9PBeLNMa"
+        "name": "Altitude",
+        "url": "https://open.spotify.com/album/7DtfdvLRl8czN4vhSNRJv0"
       },
       "artists": [
         {
-          "name": "Tiberius b",
-          "url": "https://open.spotify.com/artist/0Kt443UQm5aqR2WCwqSMe0"
+          "name": "Saint Jude",
+          "url": "https://open.spotify.com/artist/3xjaPchHHfcWBvkFtpejFh"
         }
       ],
-      "duration_ms": 252631,
-      "name": "No Smoke",
-      "url": "https://open.spotify.com/track/1IXHaRuIIuYpIYvisruDvG"
-    },
-    {
-      "added_at": "2022-08-05 10:50:57",
-      "album": {
-        "name": "Body Jumper",
-        "url": "https://open.spotify.com/album/7A5DR85t7aah8LkyyewTYR"
-      },
-      "artists": [
-        {
-          "name": "Provoker",
-          "url": "https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9"
-        }
-      ],
-      "duration_ms": 118521,
-      "name": "Blue Sheen",
-      "url": "https://open.spotify.com/track/6DDC0m1Ht7U0V98aOcT8eu"
-    },
-    {
-      "added_at": "2022-08-05 10:50:57",
-      "album": {
-        "name": "blood on the pavement",
-        "url": "https://open.spotify.com/album/6DOi6n9hQ6mSDLd1iJfIVz"
-      },
-      "artists": [
-        {
-          "name": "chemical club",
-          "url": "https://open.spotify.com/artist/1J4KMCREAODEtqsexXWbeN"
-        }
-      ],
-      "duration_ms": 221333,
-      "name": "blood on the pavement",
-      "url": "https://open.spotify.com/track/7wZ3k0Ii8P1j0MOi595RMf"
+      "duration_ms": 210446,
+      "name": "Altitude",
+      "url": "https://open.spotify.com/track/5hh5t7Wc3NuzFlRhl5Yxhx"
     },
     {
       "added_at": "2022-08-05 10:50:57",
@@ -1539,6 +1491,54 @@
       "duration_ms": 179669,
       "name": "Warning Sign - Alt Version",
       "url": "https://open.spotify.com/track/1rIols5fQBAIwsCuN4kFXG"
+    },
+    {
+      "added_at": "2022-08-05 10:50:57",
+      "album": {
+        "name": "Body Jumper",
+        "url": "https://open.spotify.com/album/7A5DR85t7aah8LkyyewTYR"
+      },
+      "artists": [
+        {
+          "name": "Provoker",
+          "url": "https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9"
+        }
+      ],
+      "duration_ms": 118521,
+      "name": "Blue Sheen",
+      "url": "https://open.spotify.com/track/6DDC0m1Ht7U0V98aOcT8eu"
+    },
+    {
+      "added_at": "2022-08-05 10:50:57",
+      "album": {
+        "name": "No Smoke",
+        "url": "https://open.spotify.com/album/01JxwvDoVgfQjA9PBeLNMa"
+      },
+      "artists": [
+        {
+          "name": "Tiberius b",
+          "url": "https://open.spotify.com/artist/0Kt443UQm5aqR2WCwqSMe0"
+        }
+      ],
+      "duration_ms": 252631,
+      "name": "No Smoke",
+      "url": "https://open.spotify.com/track/1IXHaRuIIuYpIYvisruDvG"
+    },
+    {
+      "added_at": "2022-08-05 10:50:57",
+      "album": {
+        "name": "blood on the pavement",
+        "url": "https://open.spotify.com/album/6DOi6n9hQ6mSDLd1iJfIVz"
+      },
+      "artists": [
+        {
+          "name": "chemical club",
+          "url": "https://open.spotify.com/artist/1J4KMCREAODEtqsexXWbeN"
+        }
+      ],
+      "duration_ms": 221333,
+      "name": "blood on the pavement",
+      "url": "https://open.spotify.com/track/7wZ3k0Ii8P1j0MOi595RMf"
     },
     {
       "added_at": "2022-08-05 10:50:57",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2022-08-05 10:50:57",
       "album": {
-        "name": "Dreams of Losing Teeth",
-        "url": "https://open.spotify.com/album/6wdNsB7Bwk1bk3TAPdRk1w"
-      },
-      "artists": [
-        {
-          "name": "Suave Punk",
-          "url": "https://open.spotify.com/artist/7mHAXsMI3hAj3dUZMR4fnt"
-        }
-      ],
-      "duration_ms": 202818,
-      "name": "Dreams of Losing Teeth",
-      "url": "https://open.spotify.com/track/6hp3izQkKSK5JUpNLAOGSS"
-    },
-    {
-      "added_at": "2022-08-05 10:50:57",
-      "album": {
         "name": "Good For You",
         "url": "https://open.spotify.com/album/3j4P5XClGIWJhnXT6NTix2"
       },
@@ -1611,18 +1595,18 @@
     {
       "added_at": "2022-08-05 10:50:57",
       "album": {
-        "name": "Altitude",
-        "url": "https://open.spotify.com/album/7DtfdvLRl8czN4vhSNRJv0"
+        "name": "Dreams of Losing Teeth",
+        "url": "https://open.spotify.com/album/6wdNsB7Bwk1bk3TAPdRk1w"
       },
       "artists": [
         {
-          "name": "Saint Jude",
-          "url": "https://open.spotify.com/artist/3xjaPchHHfcWBvkFtpejFh"
+          "name": "Suave Punk",
+          "url": "https://open.spotify.com/artist/7mHAXsMI3hAj3dUZMR4fnt"
         }
       ],
-      "duration_ms": 210446,
-      "name": "Altitude",
-      "url": "https://open.spotify.com/track/5hh5t7Wc3NuzFlRhl5Yxhx"
+      "duration_ms": 202818,
+      "name": "Dreams of Losing Teeth",
+      "url": "https://open.spotify.com/track/6hp3izQkKSK5JUpNLAOGSS"
     },
     {
       "added_at": "2022-08-05 10:50:57",
@@ -1655,6 +1639,26 @@
       "duration_ms": 120000,
       "name": "babyur2nice",
       "url": "https://open.spotify.com/track/0OmJlR4IEktvY7RzpakxVk"
+    },
+    {
+      "added_at": "2022-08-05 10:50:57",
+      "album": {
+        "name": "wish i could see you again",
+        "url": "https://open.spotify.com/album/6ub14KPnedemkpxkj0KNfB"
+      },
+      "artists": [
+        {
+          "name": "Hypx",
+          "url": "https://open.spotify.com/artist/0dawqbUeQnvKVNWbjDYYww"
+        },
+        {
+          "name": "LEVI",
+          "url": "https://open.spotify.com/artist/3wFB9K2H2mWmIqy48sAUs2"
+        }
+      ],
+      "duration_ms": 187988,
+      "name": "wish i could see you again",
+      "url": "https://open.spotify.com/track/1eFjWN9bIGAtF7bMEU4eUU"
     }
   ],
   "unique_name": "Lo-fi Indie",

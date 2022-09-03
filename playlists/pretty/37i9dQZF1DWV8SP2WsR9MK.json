@@ -1,12 +1,12 @@
 {
   "description": "The classic jazz guitarists and their finest pieces. Cover: Grant Green",
-  "num_followers": 37062,
+  "num_followers": 37128,
   "original_name": "Jazz Guitar Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjAyNzkxOCwwMDAwMDAwMGYxYzFmMzc2MWQwZDliZWYyMmMwNzg5NWM0NWY0Njc0",
+  "snapshot_id": "MTY2MjAyNzkxOCwwMDAwMDAwMDZkZTYyZjFkYzY5YWZhNWM0YmVmYTVjODY4ZDc2MTE1",
   "tracks": [
     {
       "added_at": "2022-09-01 10:25:18",
@@ -151,26 +151,18 @@
     {
       "added_at": "2022-09-01 10:25:18",
       "album": {
-        "name": "Angular Blues",
-        "url": "https://open.spotify.com/album/4wxLJpGmJetMtZHslJz3DR"
+        "name": "Arclight",
+        "url": "https://open.spotify.com/album/6sKJEBTRRuQhI696nyr1mD"
       },
       "artists": [
         {
-          "name": "Wolfgang Muthspiel",
-          "url": "https://open.spotify.com/artist/7a7Vs88vzOcmHh4GOpUEJJ"
-        },
-        {
-          "name": "Scott Colley",
-          "url": "https://open.spotify.com/artist/7AxNB7slEfo3WsWmZf4TSs"
-        },
-        {
-          "name": "Brian Blade",
-          "url": "https://open.spotify.com/artist/0nXwIc4NAbu2K881ealRDu"
+          "name": "Julian Lage",
+          "url": "https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT"
         }
       ],
-      "duration_ms": 315493,
-      "name": "H\u00fcttengriffe",
-      "url": "https://open.spotify.com/track/15pJPbo0r00e82puUIUS1i"
+      "duration_ms": 199015,
+      "name": "Nocturne",
+      "url": "https://open.spotify.com/track/7BQVhWw9GR1Up3eKQrYFlI"
     },
     {
       "added_at": "2022-09-01 10:25:18",
@@ -243,18 +235,26 @@
     {
       "added_at": "2022-09-01 10:25:18",
       "album": {
-        "name": "Arclight",
-        "url": "https://open.spotify.com/album/6sKJEBTRRuQhI696nyr1mD"
+        "name": "Angular Blues",
+        "url": "https://open.spotify.com/album/4wxLJpGmJetMtZHslJz3DR"
       },
       "artists": [
         {
-          "name": "Julian Lage",
-          "url": "https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT"
+          "name": "Wolfgang Muthspiel",
+          "url": "https://open.spotify.com/artist/7a7Vs88vzOcmHh4GOpUEJJ"
+        },
+        {
+          "name": "Scott Colley",
+          "url": "https://open.spotify.com/artist/7AxNB7slEfo3WsWmZf4TSs"
+        },
+        {
+          "name": "Brian Blade",
+          "url": "https://open.spotify.com/artist/0nXwIc4NAbu2K881ealRDu"
         }
       ],
-      "duration_ms": 199015,
-      "name": "Nocturne",
-      "url": "https://open.spotify.com/track/7BQVhWw9GR1Up3eKQrYFlI"
+      "duration_ms": 315493,
+      "name": "H\u00fcttengriffe",
+      "url": "https://open.spotify.com/track/15pJPbo0r00e82puUIUS1i"
     },
     {
       "added_at": "2022-09-01 10:25:18",
@@ -327,22 +327,18 @@
     {
       "added_at": "2022-09-01 10:25:18",
       "album": {
-        "name": "I Can See Your House From Here",
-        "url": "https://open.spotify.com/album/6rrp2wRfrtYxuHM6N5Uavb"
+        "name": "Love Hurts",
+        "url": "https://open.spotify.com/album/72SR28cHjGmcS8xaJJ0fve"
       },
       "artists": [
         {
-          "name": "John Scofield",
-          "url": "https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK"
-        },
-        {
-          "name": "Pat Metheny",
-          "url": "https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA"
+          "name": "Julian Lage",
+          "url": "https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT"
         }
       ],
-      "duration_ms": 259360,
-      "name": "The Red One",
-      "url": "https://open.spotify.com/track/1P4XzKG2bldGbhg6EO1N23"
+      "duration_ms": 334368,
+      "name": "Crying",
+      "url": "https://open.spotify.com/track/1UeLNAJiklqa9RGRvtVqUx"
     },
     {
       "added_at": "2022-09-01 10:25:18",
@@ -379,18 +375,22 @@
     {
       "added_at": "2022-09-01 10:25:18",
       "album": {
-        "name": "Love Hurts",
-        "url": "https://open.spotify.com/album/72SR28cHjGmcS8xaJJ0fve"
+        "name": "I Can See Your House From Here",
+        "url": "https://open.spotify.com/album/6rrp2wRfrtYxuHM6N5Uavb"
       },
       "artists": [
         {
-          "name": "Julian Lage",
-          "url": "https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT"
+          "name": "John Scofield",
+          "url": "https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK"
+        },
+        {
+          "name": "Pat Metheny",
+          "url": "https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA"
         }
       ],
-      "duration_ms": 334368,
-      "name": "Crying",
-      "url": "https://open.spotify.com/track/1UeLNAJiklqa9RGRvtVqUx"
+      "duration_ms": 259360,
+      "name": "The Red One",
+      "url": "https://open.spotify.com/track/1P4XzKG2bldGbhg6EO1N23"
     },
     {
       "added_at": "2022-09-01 10:25:18",
@@ -499,26 +499,6 @@
     {
       "added_at": "2022-09-01 10:25:18",
       "album": {
-        "name": "Alive! (Live At The Cliche' Lounge, Newark, New Jersey, 1970 / Remastered 2000)",
-        "url": "https://open.spotify.com/album/4NL6PN6GkMqI7Ztz4iGPU6"
-      },
-      "artists": [
-        {
-          "name": "Grant Green",
-          "url": "https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k"
-        },
-        {
-          "name": "Ray Blair",
-          "url": "https://open.spotify.com/artist/2D3XOzloX98FKjvCa9inP1"
-        }
-      ],
-      "duration_ms": 658333,
-      "name": "Sookie Sookie - Live At The Cliche' Lounge, Newark, New Jersey, 1970 / Remastered 2000",
-      "url": "https://open.spotify.com/track/6i9Uhx8fUHQu9aHXCjiu7B"
-    },
-    {
-      "added_at": "2022-09-01 10:25:18",
-      "album": {
         "name": "Standards Trio: Reflections",
         "url": "https://open.spotify.com/album/2iQuKhBU83MbUIsRAKcYPn"
       },
@@ -547,6 +527,26 @@
       "duration_ms": 212066,
       "name": "Night And Day",
       "url": "https://open.spotify.com/track/6BH7yXu2TGulH6Gdn6zJSI"
+    },
+    {
+      "added_at": "2022-09-01 10:25:18",
+      "album": {
+        "name": "Alive! (Live At The Cliche' Lounge, Newark, New Jersey, 1970 / Remastered 2000)",
+        "url": "https://open.spotify.com/album/4NL6PN6GkMqI7Ztz4iGPU6"
+      },
+      "artists": [
+        {
+          "name": "Grant Green",
+          "url": "https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k"
+        },
+        {
+          "name": "Ray Blair",
+          "url": "https://open.spotify.com/artist/2D3XOzloX98FKjvCa9inP1"
+        }
+      ],
+      "duration_ms": 658333,
+      "name": "Sookie Sookie - Live At The Cliche' Lounge, Newark, New Jersey, 1970 / Remastered 2000",
+      "url": "https://open.spotify.com/track/6i9Uhx8fUHQu9aHXCjiu7B"
     },
     {
       "added_at": "2022-09-01 10:25:18",
@@ -619,18 +619,18 @@
     {
       "added_at": "2022-09-01 10:25:18",
       "album": {
-        "name": "Unforgettable",
-        "url": "https://open.spotify.com/album/6B7Oo2qWozbz9hz1s4S8Yi"
+        "name": "Ellis In Wonderland",
+        "url": "https://open.spotify.com/album/0eoeuhP2vaqXF05wiDTTWP"
       },
       "artists": [
         {
-          "name": "Joe Pass",
-          "url": "https://open.spotify.com/artist/4DuZTASH5eSyd0K73W6fuZ"
+          "name": "Herb Ellis",
+          "url": "https://open.spotify.com/artist/3cE7UG46bdFd8gHHgzyQEz"
         }
       ],
-      "duration_ms": 151506,
-      "name": "Autumn Leaves",
-      "url": "https://open.spotify.com/track/2rFRXdxA9PupBVau54E3tl"
+      "duration_ms": 224320,
+      "name": "It Could Happen To You",
+      "url": "https://open.spotify.com/track/7ns8zu3jKepR1oed6TvglA"
     },
     {
       "added_at": "2022-09-01 10:25:18",
@@ -651,6 +651,22 @@
     {
       "added_at": "2022-09-01 10:25:18",
       "album": {
+        "name": "Unforgettable",
+        "url": "https://open.spotify.com/album/6B7Oo2qWozbz9hz1s4S8Yi"
+      },
+      "artists": [
+        {
+          "name": "Joe Pass",
+          "url": "https://open.spotify.com/artist/4DuZTASH5eSyd0K73W6fuZ"
+        }
+      ],
+      "duration_ms": 151506,
+      "name": "Autumn Leaves",
+      "url": "https://open.spotify.com/track/2rFRXdxA9PupBVau54E3tl"
+    },
+    {
+      "added_at": "2022-09-01 10:25:18",
+      "album": {
         "name": "Bright Size Life",
         "url": "https://open.spotify.com/album/1wyaHGxXkIGaLGSQTTgKzw"
       },
@@ -667,18 +683,22 @@
     {
       "added_at": "2022-09-01 10:25:18",
       "album": {
-        "name": "Ellis In Wonderland",
-        "url": "https://open.spotify.com/album/0eoeuhP2vaqXF05wiDTTWP"
+        "name": "Intermodulation",
+        "url": "https://open.spotify.com/album/2fdNshVv7KpFZJOy6qKpJS"
       },
       "artists": [
         {
-          "name": "Herb Ellis",
-          "url": "https://open.spotify.com/artist/3cE7UG46bdFd8gHHgzyQEz"
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+        },
+        {
+          "name": "Jim Hall",
+          "url": "https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr"
         }
       ],
-      "duration_ms": 224320,
-      "name": "It Could Happen To You",
-      "url": "https://open.spotify.com/track/7ns8zu3jKepR1oed6TvglA"
+      "duration_ms": 290000,
+      "name": "All Across The City",
+      "url": "https://open.spotify.com/track/4IHEsg1VgH9dZE4QswwhaE"
     },
     {
       "added_at": "2022-09-01 10:25:18",
@@ -703,26 +723,6 @@
       "duration_ms": 188333,
       "name": "A Foggy Day",
       "url": "https://open.spotify.com/track/6uddYxVxC6qX5PSPzAylid"
-    },
-    {
-      "added_at": "2022-09-01 10:25:18",
-      "album": {
-        "name": "Intermodulation",
-        "url": "https://open.spotify.com/album/2fdNshVv7KpFZJOy6qKpJS"
-      },
-      "artists": [
-        {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
-        },
-        {
-          "name": "Jim Hall",
-          "url": "https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr"
-        }
-      ],
-      "duration_ms": 290000,
-      "name": "All Across The City",
-      "url": "https://open.spotify.com/track/4IHEsg1VgH9dZE4QswwhaE"
     },
     {
       "added_at": "2022-09-01 10:25:18",
@@ -799,26 +799,6 @@
     {
       "added_at": "2022-09-01 10:25:18",
       "album": {
-        "name": "Intermodulation",
-        "url": "https://open.spotify.com/album/2fdNshVv7KpFZJOy6qKpJS"
-      },
-      "artists": [
-        {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
-        },
-        {
-          "name": "Jim Hall",
-          "url": "https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr"
-        }
-      ],
-      "duration_ms": 394333,
-      "name": "Angel Face",
-      "url": "https://open.spotify.com/track/2gePqIl6YIoKbDlATyIYgN"
-    },
-    {
-      "added_at": "2022-09-01 10:25:18",
-      "album": {
         "name": "Midnight Blue (The Rudy Van Gelder Edition)",
         "url": "https://open.spotify.com/album/0hMuKAciHKinu4L3R4Ojjl"
       },
@@ -863,6 +843,26 @@
       "duration_ms": 254160,
       "name": "It's a Blue World",
       "url": "https://open.spotify.com/track/2CXfxQY057JczwoKonH8dl"
+    },
+    {
+      "added_at": "2022-09-01 10:25:18",
+      "album": {
+        "name": "Intermodulation",
+        "url": "https://open.spotify.com/album/2fdNshVv7KpFZJOy6qKpJS"
+      },
+      "artists": [
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+        },
+        {
+          "name": "Jim Hall",
+          "url": "https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr"
+        }
+      ],
+      "duration_ms": 394333,
+      "name": "Angel Face",
+      "url": "https://open.spotify.com/track/2gePqIl6YIoKbDlATyIYgN"
     },
     {
       "added_at": "2022-09-01 10:25:18",
@@ -915,6 +915,22 @@
     {
       "added_at": "2022-09-01 10:25:18",
       "album": {
+        "name": "The Best Of Grant Green",
+        "url": "https://open.spotify.com/album/6DJNcDFC9fT8Ll1WnX4oq7"
+      },
+      "artists": [
+        {
+          "name": "Grant Green",
+          "url": "https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k"
+        }
+      ],
+      "duration_ms": 897626,
+      "name": "Idle Moments",
+      "url": "https://open.spotify.com/track/6bY9atW7iC0JMy7nx4eT0Y"
+    },
+    {
+      "added_at": "2022-09-01 10:25:18",
+      "album": {
         "name": "Kaleidoscope",
         "url": "https://open.spotify.com/album/4HpPxBDSrsPQfcM69FME8z"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 209053,
       "name": "My Foolish Heart",
       "url": "https://open.spotify.com/track/0gqWIxTMmUQPucykcPb6IH"
-    },
-    {
-      "added_at": "2022-09-01 10:25:18",
-      "album": {
-        "name": "We'll Be Together Again",
-        "url": "https://open.spotify.com/album/0ucCtWHiorF9dyVIt9FxNL"
-      },
-      "artists": [
-        {
-          "name": "Pat Martino",
-          "url": "https://open.spotify.com/artist/4DlMMgnldzX6OkCskmeGKz"
-        }
-      ],
-      "duration_ms": 286973,
-      "name": "You Don't Know What Love Is",
-      "url": "https://open.spotify.com/track/7Ca2gDDPC5qR2o2hv39muC"
     },
     {
       "added_at": "2022-09-01 10:25:18",
@@ -975,22 +975,6 @@
     {
       "added_at": "2022-09-01 10:25:18",
       "album": {
-        "name": "The Best Of Grant Green",
-        "url": "https://open.spotify.com/album/6DJNcDFC9fT8Ll1WnX4oq7"
-      },
-      "artists": [
-        {
-          "name": "Grant Green",
-          "url": "https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k"
-        }
-      ],
-      "duration_ms": 897626,
-      "name": "Idle Moments",
-      "url": "https://open.spotify.com/track/6bY9atW7iC0JMy7nx4eT0Y"
-    },
-    {
-      "added_at": "2022-09-01 10:25:18",
-      "album": {
         "name": "Firefly",
         "url": "https://open.spotify.com/album/60MOA021iZ4tJDSg0s78je"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 469360,
       "name": "In A Sentimental Mood",
       "url": "https://open.spotify.com/track/1NaYmJphKpCQqW2nUIIClH"
+    },
+    {
+      "added_at": "2022-09-01 10:25:18",
+      "album": {
+        "name": "We'll Be Together Again",
+        "url": "https://open.spotify.com/album/0ucCtWHiorF9dyVIt9FxNL"
+      },
+      "artists": [
+        {
+          "name": "Pat Martino",
+          "url": "https://open.spotify.com/artist/4DlMMgnldzX6OkCskmeGKz"
+        }
+      ],
+      "duration_ms": 286973,
+      "name": "You Don't Know What Love Is",
+      "url": "https://open.spotify.com/track/7Ca2gDDPC5qR2o2hv39muC"
     },
     {
       "added_at": "2022-09-01 10:25:18",
@@ -1063,54 +1063,6 @@
     {
       "added_at": "2022-09-01 10:25:18",
       "album": {
-        "name": "Standards Trio: Reflections",
-        "url": "https://open.spotify.com/album/2iQuKhBU83MbUIsRAKcYPn"
-      },
-      "artists": [
-        {
-          "name": "Kurt Rosenwinkel",
-          "url": "https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP"
-        }
-      ],
-      "duration_ms": 217400,
-      "name": "You Go To My Head",
-      "url": "https://open.spotify.com/track/73re1KsASRSKXmk0MdhwcT"
-    },
-    {
-      "added_at": "2022-09-01 10:25:18",
-      "album": {
-        "name": "Jazz Guitar",
-        "url": "https://open.spotify.com/album/6mFt5Ao230rf7Dedo8C6mK"
-      },
-      "artists": [
-        {
-          "name": "Russell Malone",
-          "url": "https://open.spotify.com/artist/4U5eHAv5qBumRcWEl84ZCb"
-        }
-      ],
-      "duration_ms": 318840,
-      "name": "For Toddlers Only",
-      "url": "https://open.spotify.com/track/19GBMJXq6kXHemriVnEtnC"
-    },
-    {
-      "added_at": "2022-09-01 10:25:18",
-      "album": {
-        "name": "Idle Moments",
-        "url": "https://open.spotify.com/album/1lDtUlOPGKp56gQ24MvmNG"
-      },
-      "artists": [
-        {
-          "name": "Grant Green",
-          "url": "https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k"
-        }
-      ],
-      "duration_ms": 409880,
-      "name": "Jean De Fleur - Rudy Van Gelder Edition / Remastered 1999",
-      "url": "https://open.spotify.com/track/6ZniDtZIvYjdYHG8sHh2jD"
-    },
-    {
-      "added_at": "2022-09-01 10:25:18",
-      "album": {
         "name": "The Essential Benny Goodman",
         "url": "https://open.spotify.com/album/7ykWEOYdt8gyA4seOlwtWK"
       },
@@ -1135,18 +1087,50 @@
     {
       "added_at": "2022-09-01 10:25:18",
       "album": {
-        "name": "Bill Frisell (with Dave Holland and Elvin Jones)",
-        "url": "https://open.spotify.com/album/5nHaGUyP3XFR9MwebTFESQ"
+        "name": "Standards Trio: Reflections",
+        "url": "https://open.spotify.com/album/2iQuKhBU83MbUIsRAKcYPn"
       },
       "artists": [
         {
-          "name": "Bill Frisell",
-          "url": "https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5"
+          "name": "Kurt Rosenwinkel",
+          "url": "https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP"
         }
       ],
-      "duration_ms": 386133,
-      "name": "Moon River",
-      "url": "https://open.spotify.com/track/7m3MJIwWdNA5xuIuZDfawS"
+      "duration_ms": 217400,
+      "name": "You Go To My Head",
+      "url": "https://open.spotify.com/track/73re1KsASRSKXmk0MdhwcT"
+    },
+    {
+      "added_at": "2022-09-01 10:25:18",
+      "album": {
+        "name": "Idle Moments",
+        "url": "https://open.spotify.com/album/1lDtUlOPGKp56gQ24MvmNG"
+      },
+      "artists": [
+        {
+          "name": "Grant Green",
+          "url": "https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k"
+        }
+      ],
+      "duration_ms": 409880,
+      "name": "Jean De Fleur - Rudy Van Gelder Edition / Remastered 1999",
+      "url": "https://open.spotify.com/track/6ZniDtZIvYjdYHG8sHh2jD"
+    },
+    {
+      "added_at": "2022-09-01 10:25:18",
+      "album": {
+        "name": "Jazz Guitar",
+        "url": "https://open.spotify.com/album/6mFt5Ao230rf7Dedo8C6mK"
+      },
+      "artists": [
+        {
+          "name": "Russell Malone",
+          "url": "https://open.spotify.com/artist/4U5eHAv5qBumRcWEl84ZCb"
+        }
+      ],
+      "duration_ms": 318840,
+      "name": "For Toddlers Only",
+      "url": "https://open.spotify.com/track/19GBMJXq6kXHemriVnEtnC"
     },
     {
       "added_at": "2022-09-01 10:25:18",
@@ -1163,6 +1147,22 @@
       "duration_ms": 255280,
       "name": "When The Sun Comes Out",
       "url": "https://open.spotify.com/track/6AVztYjd9LnVjXtDHK73NU"
+    },
+    {
+      "added_at": "2022-09-01 10:25:18",
+      "album": {
+        "name": "Bill Frisell (with Dave Holland and Elvin Jones)",
+        "url": "https://open.spotify.com/album/5nHaGUyP3XFR9MwebTFESQ"
+      },
+      "artists": [
+        {
+          "name": "Bill Frisell",
+          "url": "https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5"
+        }
+      ],
+      "duration_ms": 386133,
+      "name": "Moon River",
+      "url": "https://open.spotify.com/track/7m3MJIwWdNA5xuIuZDfawS"
     },
     {
       "added_at": "2022-09-01 10:25:18",
@@ -1187,30 +1187,6 @@
       "duration_ms": 345706,
       "name": "Giant Steps",
       "url": "https://open.spotify.com/track/74c8OtmpOrPtwjroiriM54"
-    },
-    {
-      "added_at": "2022-09-01 10:25:18",
-      "album": {
-        "name": "Sight",
-        "url": "https://open.spotify.com/album/4Hud8C5AEW8aKw1AdIVPgt"
-      },
-      "artists": [
-        {
-          "name": "Adam Rogers",
-          "url": "https://open.spotify.com/artist/68u79CqTqTgKncfDRbjDLH"
-        },
-        {
-          "name": "John Patitucci",
-          "url": "https://open.spotify.com/artist/4KmKbbEq6PMnW2TdkrbBIH"
-        },
-        {
-          "name": "Clarence Penn",
-          "url": "https://open.spotify.com/artist/5rJj8HrmzwTut6lKzChcEh"
-        }
-      ],
-      "duration_ms": 388546,
-      "name": "Dexterity",
-      "url": "https://open.spotify.com/track/1XWNom3RjC845iyW9vx6X3"
     },
     {
       "added_at": "2022-09-01 10:25:18",
@@ -1243,38 +1219,26 @@
     {
       "added_at": "2022-09-01 10:25:18",
       "album": {
-        "name": "The Sound Of Johnny Smith",
-        "url": "https://open.spotify.com/album/1zeJkPpy0WkLnTQo9TUEeh"
+        "name": "Sight",
+        "url": "https://open.spotify.com/album/4Hud8C5AEW8aKw1AdIVPgt"
       },
       "artists": [
         {
-          "name": "Johnny Smith",
-          "url": "https://open.spotify.com/artist/3u7Tz2oLTRPG9Cn7PcuZ2q"
+          "name": "Adam Rogers",
+          "url": "https://open.spotify.com/artist/68u79CqTqTgKncfDRbjDLH"
         },
         {
-          "name": "Malcolm Addey",
-          "url": "https://open.spotify.com/artist/4v0dBZBhhgZctlUGPFOGyH"
-        }
-      ],
-      "duration_ms": 328800,
-      "name": "Misty - 2001 Remaster",
-      "url": "https://open.spotify.com/track/5fQFn9MwQFgh1MRIl4eg7u"
-    },
-    {
-      "added_at": "2022-09-01 10:25:18",
-      "album": {
-        "name": "The Next Step",
-        "url": "https://open.spotify.com/album/3drOgtndHJN96npMdxHvQb"
-      },
-      "artists": [
+          "name": "John Patitucci",
+          "url": "https://open.spotify.com/artist/4KmKbbEq6PMnW2TdkrbBIH"
+        },
         {
-          "name": "Kurt Rosenwinkel",
-          "url": "https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP"
+          "name": "Clarence Penn",
+          "url": "https://open.spotify.com/artist/5rJj8HrmzwTut6lKzChcEh"
         }
       ],
-      "duration_ms": 354293,
-      "name": "Minor Blues",
-      "url": "https://open.spotify.com/track/7btfNlGGzQYLE13vUUChUt"
+      "duration_ms": 388546,
+      "name": "Dexterity",
+      "url": "https://open.spotify.com/track/1XWNom3RjC845iyW9vx6X3"
     },
     {
       "added_at": "2022-09-01 10:25:18",
@@ -1299,6 +1263,42 @@
     {
       "added_at": "2022-09-01 10:25:18",
       "album": {
+        "name": "The Next Step",
+        "url": "https://open.spotify.com/album/3drOgtndHJN96npMdxHvQb"
+      },
+      "artists": [
+        {
+          "name": "Kurt Rosenwinkel",
+          "url": "https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP"
+        }
+      ],
+      "duration_ms": 354293,
+      "name": "Minor Blues",
+      "url": "https://open.spotify.com/track/7btfNlGGzQYLE13vUUChUt"
+    },
+    {
+      "added_at": "2022-09-01 10:25:18",
+      "album": {
+        "name": "The Sound Of Johnny Smith",
+        "url": "https://open.spotify.com/album/1zeJkPpy0WkLnTQo9TUEeh"
+      },
+      "artists": [
+        {
+          "name": "Johnny Smith",
+          "url": "https://open.spotify.com/artist/3u7Tz2oLTRPG9Cn7PcuZ2q"
+        },
+        {
+          "name": "Malcolm Addey",
+          "url": "https://open.spotify.com/artist/4v0dBZBhhgZctlUGPFOGyH"
+        }
+      ],
+      "duration_ms": 328800,
+      "name": "Misty - 2001 Remaster",
+      "url": "https://open.spotify.com/track/5fQFn9MwQFgh1MRIl4eg7u"
+    },
+    {
+      "added_at": "2022-09-01 10:25:18",
+      "album": {
         "name": "Verve Jazz Masters: Tal Farlow",
         "url": "https://open.spotify.com/album/3s1NyCyNpsGKgUZncxwvyi"
       },
@@ -1311,6 +1311,22 @@
       "duration_ms": 101400,
       "name": "Autumn Leaves",
       "url": "https://open.spotify.com/track/4kAmZwI6PGdgMrkJaodfQp"
+    },
+    {
+      "added_at": "2022-09-01 10:25:18",
+      "album": {
+        "name": "Rambler",
+        "url": "https://open.spotify.com/album/1vkLfWBiL2wHMxdGpDCbPC"
+      },
+      "artists": [
+        {
+          "name": "Bill Frisell",
+          "url": "https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5"
+        }
+      ],
+      "duration_ms": 492266,
+      "name": "Rambler",
+      "url": "https://open.spotify.com/track/09AbZLx0X2GsRSXFgEpLKA"
     },
     {
       "added_at": "2022-09-01 10:25:18",
@@ -1331,22 +1347,6 @@
       "duration_ms": 370866,
       "name": "The Nearness Of You - Instrumental",
       "url": "https://open.spotify.com/track/118oSpIpxvMlnpeX2TOiKr"
-    },
-    {
-      "added_at": "2022-09-01 10:25:18",
-      "album": {
-        "name": "Rambler",
-        "url": "https://open.spotify.com/album/1vkLfWBiL2wHMxdGpDCbPC"
-      },
-      "artists": [
-        {
-          "name": "Bill Frisell",
-          "url": "https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5"
-        }
-      ],
-      "duration_ms": 492266,
-      "name": "Rambler",
-      "url": "https://open.spotify.com/track/09AbZLx0X2GsRSXFgEpLKA"
     },
     {
       "added_at": "2022-09-01 10:25:18",
@@ -1427,6 +1427,30 @@
     {
       "added_at": "2022-09-01 10:25:18",
       "album": {
+        "name": "Close Your Eyes",
+        "url": "https://open.spotify.com/album/4juJmyC6vE1k4KYZVSJYMQ"
+      },
+      "artists": [
+        {
+          "name": "Lionel Loueke",
+          "url": "https://open.spotify.com/artist/6q6EXv5ybArXqifMdmTIig"
+        },
+        {
+          "name": "Reuben Rogers",
+          "url": "https://open.spotify.com/artist/4suPNNUCtzkjmLIQnCGNeL"
+        },
+        {
+          "name": "Eric Harland",
+          "url": "https://open.spotify.com/artist/0wTdAqanDZiEonTBUmBSQh"
+        }
+      ],
+      "duration_ms": 432093,
+      "name": "Skylark",
+      "url": "https://open.spotify.com/track/27ayGUimrPyUrjAriMYGZv"
+    },
+    {
+      "added_at": "2022-09-01 10:25:18",
+      "album": {
         "name": "The Artistry Of Tal Farlow",
         "url": "https://open.spotify.com/album/3DhbpcnuskeHWkCzWAM9cO"
       },
@@ -1459,26 +1483,18 @@
     {
       "added_at": "2022-09-01 10:25:18",
       "album": {
-        "name": "Close Your Eyes",
-        "url": "https://open.spotify.com/album/4juJmyC6vE1k4KYZVSJYMQ"
+        "name": "Time On My Hands",
+        "url": "https://open.spotify.com/album/204uhoOaWn4a1XK8RmJi92"
       },
       "artists": [
         {
-          "name": "Lionel Loueke",
-          "url": "https://open.spotify.com/artist/6q6EXv5ybArXqifMdmTIig"
-        },
-        {
-          "name": "Reuben Rogers",
-          "url": "https://open.spotify.com/artist/4suPNNUCtzkjmLIQnCGNeL"
-        },
-        {
-          "name": "Eric Harland",
-          "url": "https://open.spotify.com/artist/0wTdAqanDZiEonTBUmBSQh"
+          "name": "John Scofield",
+          "url": "https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK"
         }
       ],
-      "duration_ms": 432093,
-      "name": "Skylark",
-      "url": "https://open.spotify.com/track/27ayGUimrPyUrjAriMYGZv"
+      "duration_ms": 267800,
+      "name": "Let's Say We Did",
+      "url": "https://open.spotify.com/track/301YnLmQmSX7mURPKvWOy5"
     },
     {
       "added_at": "2022-09-01 10:25:18",
@@ -1495,22 +1511,6 @@
       "duration_ms": 253586,
       "name": "The More I See You",
       "url": "https://open.spotify.com/track/4WdktJEmG5Q3nXfyEnMQxe"
-    },
-    {
-      "added_at": "2022-09-01 10:25:18",
-      "album": {
-        "name": "Time On My Hands",
-        "url": "https://open.spotify.com/album/204uhoOaWn4a1XK8RmJi92"
-      },
-      "artists": [
-        {
-          "name": "John Scofield",
-          "url": "https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK"
-        }
-      ],
-      "duration_ms": 267800,
-      "name": "Let's Say We Did",
-      "url": "https://open.spotify.com/track/301YnLmQmSX7mURPKvWOy5"
     },
     {
       "added_at": "2022-09-01 10:25:18",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2022-09-01 10:25:18",
       "album": {
-        "name": "Concierto (CTI Records 40th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/7N3ZysMrLSuJAtPPCjCba0"
-      },
-      "artists": [
-        {
-          "name": "Jim Hall",
-          "url": "https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr"
-        }
-      ],
-      "duration_ms": 447026,
-      "name": "You'd Be So Nice To Come Home To - alt. take",
-      "url": "https://open.spotify.com/track/1XTSIuZKon87IZortCLsWV"
-    },
-    {
-      "added_at": "2022-09-01 10:25:18",
-      "album": {
         "name": "Idlewild",
         "url": "https://open.spotify.com/album/1fyvwidfmrQQ1DGA3WKZqV"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 448413,
       "name": "Rumspringa",
       "url": "https://open.spotify.com/track/05bdN80ISiWSlVcqpn5BLN"
+    },
+    {
+      "added_at": "2022-09-01 10:25:18",
+      "album": {
+        "name": "Concierto (CTI Records 40th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/7N3ZysMrLSuJAtPPCjCba0"
+      },
+      "artists": [
+        {
+          "name": "Jim Hall",
+          "url": "https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr"
+        }
+      ],
+      "duration_ms": 447026,
+      "name": "You'd Be So Nice To Come Home To - alt. take",
+      "url": "https://open.spotify.com/track/1XTSIuZKon87IZortCLsWV"
     },
     {
       "added_at": "2022-09-01 10:25:18",

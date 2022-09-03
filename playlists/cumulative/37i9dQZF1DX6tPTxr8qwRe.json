@@ -578,6 +578,24 @@
     },
     {
       "album": {
+        "name": "Bury Me Alive",
+        "url": "https://open.spotify.com/album/7JwAaRcuWbdfqkfGX2VbA5"
+      },
+      "artists": [
+        {
+          "name": "Xowie Jones",
+          "url": "https://open.spotify.com/artist/0ZlBHRn2ZsHc1FESUa43ij"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117464,
+      "name": "Bury Me Alive",
+      "url": "https://open.spotify.com/track/6vCsRxJAyCB75JQKZc8MHb"
+    },
+    {
+      "album": {
         "name": "How Are You?",
         "url": "https://open.spotify.com/album/6JCn8Tk6OGj3t0YYG55zy7"
       },
@@ -1015,7 +1033,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 159050,
       "name": "DIY (From \u201cAmerican Song Contest\u201d)",
       "url": "https://open.spotify.com/track/4JW9qAFkAuPkENUEDvO4hr"
@@ -1105,7 +1123,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 204847,
       "name": "dying on the inside",
       "url": "https://open.spotify.com/track/6h1s7cKnUtsbRpE5bwnUTf"
@@ -2339,6 +2357,24 @@
       "duration_ms": 168981,
       "name": "Losing My Mind",
       "url": "https://open.spotify.com/track/6lAnOqAIMG0UVlYkSm2jM1"
+    },
+    {
+      "album": {
+        "name": "LOVE AND WAR",
+        "url": "https://open.spotify.com/album/2q5AVOB26ptWtuXN3hjfok"
+      },
+      "artists": [
+        {
+          "name": "AViVA",
+          "url": "https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160737,
+      "name": "LOVE AND WAR",
+      "url": "https://open.spotify.com/track/3YOPBDerQJorMfLrORcbsY"
     },
     {
       "album": {

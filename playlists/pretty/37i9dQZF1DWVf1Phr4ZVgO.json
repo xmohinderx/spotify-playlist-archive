@@ -1,12 +1,12 @@
 {
   "description": "Big bands and tuxedos. The playlist for the wedding or just an elegant evening.",
-  "num_followers": 920196,
+  "num_followers": 920035,
   "original_name": "An Elegant Affair",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTg0OTQ3MSwwMDAwMDAwMGNjM2QxMTcxZGY2MzM2YTQyMDY3MzFiNzk5YjFlZWEy",
+  "snapshot_id": "MTY2MTg0OTQ3MSwwMDAwMDAwMGIxNmVkYzhlYTEzMjE0OGNiYTBkMjA4ODMwNzAwNzM2",
   "tracks": [
     {
       "added_at": "2022-08-30 08:51:11",
@@ -111,22 +111,6 @@
     {
       "added_at": "2022-08-30 08:51:11",
       "album": {
-        "name": "Come Fly With Me (Remastered)",
-        "url": "https://open.spotify.com/album/66v9QmjAj0Wwhh2OpbU4BE"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 199093,
-      "name": "Come Fly With Me - Remastered 1998",
-      "url": "https://open.spotify.com/track/4hHbeIIKO5Y5uLyIEbY9Gn"
-    },
-    {
-      "added_at": "2022-08-30 08:51:11",
-      "album": {
         "name": "Time Out",
         "url": "https://open.spotify.com/album/0nTTEAhCZsbbeplyDMIFuA"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 324133,
       "name": "Take Five",
       "url": "https://open.spotify.com/track/1YQWosTIljIvxAgHWTp7KP"
+    },
+    {
+      "added_at": "2022-08-30 08:51:11",
+      "album": {
+        "name": "Come Fly With Me (Remastered)",
+        "url": "https://open.spotify.com/album/66v9QmjAj0Wwhh2OpbU4BE"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 199093,
+      "name": "Come Fly With Me - Remastered 1998",
+      "url": "https://open.spotify.com/track/4hHbeIIKO5Y5uLyIEbY9Gn"
     },
     {
       "added_at": "2022-08-30 08:51:11",
@@ -191,22 +191,6 @@
     {
       "added_at": "2022-08-30 08:51:11",
       "album": {
-        "name": "Songs For Swingin' Lovers! (Remastered)",
-        "url": "https://open.spotify.com/album/4kca7vXd1Wo5GE2DMafvMc"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 177400,
-      "name": "You Make Me Feel So Young - Remastered 1998",
-      "url": "https://open.spotify.com/track/2WaYW84yWij5NSCpgSeU2R"
-    },
-    {
-      "added_at": "2022-08-30 08:51:11",
-      "album": {
         "name": "The Look Of Love",
         "url": "https://open.spotify.com/album/4nmjBh2Td9I9x9JDncrQr3"
       },
@@ -243,6 +227,22 @@
     {
       "added_at": "2022-08-30 08:51:11",
       "album": {
+        "name": "That's All",
+        "url": "https://open.spotify.com/album/5MsJK0kqiYIJDmd3cjkGMn"
+      },
+      "artists": [
+        {
+          "name": "Bobby Darin",
+          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
+        }
+      ],
+      "duration_ms": 184333,
+      "name": "Mack the Knife",
+      "url": "https://open.spotify.com/track/3E5ndyOfO6vFDEIE42HA8o"
+    },
+    {
+      "added_at": "2022-08-30 08:51:11",
+      "album": {
         "name": "At Last!",
         "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
       },
@@ -259,18 +259,18 @@
     {
       "added_at": "2022-08-30 08:51:11",
       "album": {
-        "name": "That's All",
-        "url": "https://open.spotify.com/album/5MsJK0kqiYIJDmd3cjkGMn"
+        "name": "Songs For Swingin' Lovers! (Remastered)",
+        "url": "https://open.spotify.com/album/4kca7vXd1Wo5GE2DMafvMc"
       },
       "artists": [
         {
-          "name": "Bobby Darin",
-          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
         }
       ],
-      "duration_ms": 184333,
-      "name": "Mack the Knife",
-      "url": "https://open.spotify.com/track/3E5ndyOfO6vFDEIE42HA8o"
+      "duration_ms": 177400,
+      "name": "You Make Me Feel So Young - Remastered 1998",
+      "url": "https://open.spotify.com/track/2WaYW84yWij5NSCpgSeU2R"
     },
     {
       "added_at": "2022-08-30 08:51:11",
@@ -359,26 +359,6 @@
     {
       "added_at": "2022-08-30 08:51:11",
       "album": {
-        "name": "Ultimate Sinatra",
-        "url": "https://open.spotify.com/album/7gmak9ZGm10y4PtZa9SBQn"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        },
-        {
-          "name": "Count Basie",
-          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
-        }
-      ],
-      "duration_ms": 147146,
-      "name": "Fly Me To The Moon",
-      "url": "https://open.spotify.com/track/2dR5WkrpwylTuT3jRWNufa"
-    },
-    {
-      "added_at": "2022-08-30 08:51:11",
-      "album": {
         "name": "Dean Martin: The Capitol Recordings, Vol. 11 (1960-1961)",
         "url": "https://open.spotify.com/album/3LGVxGRKwi4WfDnhMaBygF"
       },
@@ -391,22 +371,6 @@
       "duration_ms": 147293,
       "name": "Ain't That A Kick In The Head",
       "url": "https://open.spotify.com/track/7fQ3PYTYdu208fQ3JEm2U7"
-    },
-    {
-      "added_at": "2022-08-30 08:51:11",
-      "album": {
-        "name": "What A Wonderful World",
-        "url": "https://open.spotify.com/album/6mmv0gwumlFGWDGJXF4yEv"
-      },
-      "artists": [
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        }
-      ],
-      "duration_ms": 196840,
-      "name": "Dream A Little Dream Of Me",
-      "url": "https://open.spotify.com/track/3HuJDcOWx0gE9Yng2uWY7K"
     },
     {
       "added_at": "2022-08-30 08:51:11",
@@ -427,22 +391,18 @@
     {
       "added_at": "2022-08-30 08:51:11",
       "album": {
-        "name": "With A Smile And A Song",
-        "url": "https://open.spotify.com/album/6Ltxm93iOwkB1rw6nBdLNS"
+        "name": "What A Wonderful World",
+        "url": "https://open.spotify.com/album/6mmv0gwumlFGWDGJXF4yEv"
       },
       "artists": [
         {
-          "name": "Doris Day",
-          "url": "https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6"
-        },
-        {
-          "name": "Frank DeVol & His Orchestra",
-          "url": "https://open.spotify.com/artist/2N0Yx2ISFxGV0yt7xffcnd"
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
         }
       ],
-      "duration_ms": 123360,
-      "name": "Whatever Will Be, Will Be (Que Sera, Sera) (with Frank DeVol & His Orchestra)",
-      "url": "https://open.spotify.com/track/6yhLR2sVn1IfsScVrR4ocr"
+      "duration_ms": 196840,
+      "name": "Dream A Little Dream Of Me",
+      "url": "https://open.spotify.com/track/3HuJDcOWx0gE9Yng2uWY7K"
     },
     {
       "added_at": "2022-08-30 08:51:11",
@@ -459,6 +419,46 @@
       "duration_ms": 129061,
       "name": "(What A) Wonderful World",
       "url": "https://open.spotify.com/track/7N15WWy12QAMpGAh6QMAej"
+    },
+    {
+      "added_at": "2022-08-30 08:51:11",
+      "album": {
+        "name": "Ultimate Sinatra",
+        "url": "https://open.spotify.com/album/7gmak9ZGm10y4PtZa9SBQn"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        },
+        {
+          "name": "Count Basie",
+          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
+        }
+      ],
+      "duration_ms": 147146,
+      "name": "Fly Me To The Moon",
+      "url": "https://open.spotify.com/track/2dR5WkrpwylTuT3jRWNufa"
+    },
+    {
+      "added_at": "2022-08-30 08:51:11",
+      "album": {
+        "name": "With A Smile And A Song",
+        "url": "https://open.spotify.com/album/6Ltxm93iOwkB1rw6nBdLNS"
+      },
+      "artists": [
+        {
+          "name": "Doris Day",
+          "url": "https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6"
+        },
+        {
+          "name": "Frank DeVol & His Orchestra",
+          "url": "https://open.spotify.com/artist/2N0Yx2ISFxGV0yt7xffcnd"
+        }
+      ],
+      "duration_ms": 123360,
+      "name": "Whatever Will Be, Will Be (Que Sera, Sera) (with Frank DeVol & His Orchestra)",
+      "url": "https://open.spotify.com/track/6yhLR2sVn1IfsScVrR4ocr"
     },
     {
       "added_at": "2022-08-30 08:51:11",
@@ -575,22 +575,6 @@
     {
       "added_at": "2022-08-30 08:51:11",
       "album": {
-        "name": "A Swingin' Affair! (Remastered)",
-        "url": "https://open.spotify.com/album/5Jxf3eOoGvWDGg957iXEkj"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 194306,
-      "name": "The Lady Is A Tramp - Remastered",
-      "url": "https://open.spotify.com/track/4Z4eU8yoBtBGIQPQrhCFr2"
-    },
-    {
-      "added_at": "2022-08-30 08:51:11",
-      "album": {
         "name": "This Guy's In Love",
         "url": "https://open.spotify.com/album/6CvJ1nkaBFnqfK1JSJ60Jy"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 152000,
       "name": "I've Got a Crush On You",
       "url": "https://open.spotify.com/track/0Kp6wskdOWA5U74pbtZ3qQ"
+    },
+    {
+      "added_at": "2022-08-30 08:51:11",
+      "album": {
+        "name": "A Swingin' Affair! (Remastered)",
+        "url": "https://open.spotify.com/album/5Jxf3eOoGvWDGg957iXEkj"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 194306,
+      "name": "The Lady Is A Tramp - Remastered",
+      "url": "https://open.spotify.com/track/4Z4eU8yoBtBGIQPQrhCFr2"
     },
     {
       "added_at": "2022-08-30 08:51:11",
@@ -671,6 +671,22 @@
     {
       "added_at": "2022-08-30 08:51:11",
       "album": {
+        "name": "Ultimate Sinatra",
+        "url": "https://open.spotify.com/album/7gmak9ZGm10y4PtZa9SBQn"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 204146,
+      "name": "Theme From New York, New York",
+      "url": "https://open.spotify.com/track/4ODWgs1CVAZKDbryEodjiz"
+    },
+    {
+      "added_at": "2022-08-30 08:51:11",
+      "album": {
         "name": "Skylark (Std. Version)",
         "url": "https://open.spotify.com/album/46FYQKraT48SZMaZRg7IOP"
       },
@@ -707,22 +723,6 @@
     {
       "added_at": "2022-08-30 08:51:11",
       "album": {
-        "name": "As Time Goes By",
-        "url": "https://open.spotify.com/album/2Jr81lF1N4Lq9rGzroCQQR"
-      },
-      "artists": [
-        {
-          "name": "Bryan Ferry",
-          "url": "https://open.spotify.com/artist/5RNFFojXkPRmlJZIwXeKQC"
-        }
-      ],
-      "duration_ms": 154360,
-      "name": "As Time Goes By",
-      "url": "https://open.spotify.com/track/4N6xY1v1oOuXb6GdEJqQTP"
-    },
-    {
-      "added_at": "2022-08-30 08:51:11",
-      "album": {
         "name": "Michael Bubl\u00e9",
         "url": "https://open.spotify.com/album/3rpSksJSFdNFqk5vne8at2"
       },
@@ -739,18 +739,18 @@
     {
       "added_at": "2022-08-30 08:51:11",
       "album": {
-        "name": "Ultimate Sinatra",
-        "url": "https://open.spotify.com/album/7gmak9ZGm10y4PtZa9SBQn"
+        "name": "As Time Goes By",
+        "url": "https://open.spotify.com/album/2Jr81lF1N4Lq9rGzroCQQR"
       },
       "artists": [
         {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+          "name": "Bryan Ferry",
+          "url": "https://open.spotify.com/artist/5RNFFojXkPRmlJZIwXeKQC"
         }
       ],
-      "duration_ms": 204146,
-      "name": "Theme From New York, New York",
-      "url": "https://open.spotify.com/track/4ODWgs1CVAZKDbryEodjiz"
+      "duration_ms": 154360,
+      "name": "As Time Goes By",
+      "url": "https://open.spotify.com/track/4N6xY1v1oOuXb6GdEJqQTP"
     },
     {
       "added_at": "2022-08-30 08:51:11",
@@ -955,18 +955,18 @@
     {
       "added_at": "2022-08-30 08:51:11",
       "album": {
-        "name": "Swing When You're Winning",
-        "url": "https://open.spotify.com/album/3eWoVPAUtBO8JpwOkWpvnw"
+        "name": "French Fries & Champagne",
+        "url": "https://open.spotify.com/album/3heL0BxCl4Ts7IhS0NRYSv"
       },
       "artists": [
         {
-          "name": "Robbie Williams",
-          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
+          "name": "The Hot Sardines",
+          "url": "https://open.spotify.com/artist/7zIBiD6dJ7x0a6BPND2fIy"
         }
       ],
-      "duration_ms": 154133,
-      "name": "Have You Met Miss Jones?",
-      "url": "https://open.spotify.com/track/6wcWYONsa1wGcmhu3WX7SK"
+      "duration_ms": 141640,
+      "name": "Sweet Pea",
+      "url": "https://open.spotify.com/track/5QyNvhoW9N0xzrzc5uNZKc"
     },
     {
       "added_at": "2022-08-30 08:51:11",
@@ -1007,18 +1007,18 @@
     {
       "added_at": "2022-08-30 08:51:11",
       "album": {
-        "name": "French Fries & Champagne",
-        "url": "https://open.spotify.com/album/3heL0BxCl4Ts7IhS0NRYSv"
+        "name": "Swing When You're Winning",
+        "url": "https://open.spotify.com/album/3eWoVPAUtBO8JpwOkWpvnw"
       },
       "artists": [
         {
-          "name": "The Hot Sardines",
-          "url": "https://open.spotify.com/artist/7zIBiD6dJ7x0a6BPND2fIy"
+          "name": "Robbie Williams",
+          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
         }
       ],
-      "duration_ms": 141640,
-      "name": "Sweet Pea",
-      "url": "https://open.spotify.com/track/5QyNvhoW9N0xzrzc5uNZKc"
+      "duration_ms": 154133,
+      "name": "Have You Met Miss Jones?",
+      "url": "https://open.spotify.com/track/6wcWYONsa1wGcmhu3WX7SK"
     },
     {
       "added_at": "2022-08-30 08:51:11",
@@ -1363,6 +1363,22 @@
     {
       "added_at": "2022-08-30 08:51:11",
       "album": {
+        "name": "I Belong To You",
+        "url": "https://open.spotify.com/album/4abZmMGlhSgaf9SDL1m70d"
+      },
+      "artists": [
+        {
+          "name": "Emilia Mitiku",
+          "url": "https://open.spotify.com/artist/65RLNrrTTS9ztKiuK0fZg2"
+        }
+      ],
+      "duration_ms": 196320,
+      "name": "I Belong to You",
+      "url": "https://open.spotify.com/track/7FqvieB7KLTInMvfieRq5a"
+    },
+    {
+      "added_at": "2022-08-30 08:51:11",
+      "album": {
         "name": "On Your Side",
         "url": "https://open.spotify.com/album/7ameJ6pSgZagUBgwubwTMq"
       },
@@ -1375,22 +1391,6 @@
       "duration_ms": 277773,
       "name": "Lay Lady Lay",
       "url": "https://open.spotify.com/track/5YFlYhVwQNPjy5tmUryDRD"
-    },
-    {
-      "added_at": "2022-08-30 08:51:11",
-      "album": {
-        "name": "Greatest Hits Volume II",
-        "url": "https://open.spotify.com/album/65YVCw3Gk9ttaiPNNKaHR5"
-      },
-      "artists": [
-        {
-          "name": "Andy Williams",
-          "url": "https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9"
-        }
-      ],
-      "duration_ms": 182840,
-      "name": "Speak Softly Love - Love Theme from \"The Godfather\"",
-      "url": "https://open.spotify.com/track/3NNM8rlskOvhul2y9PDl8u"
     },
     {
       "added_at": "2022-08-30 08:51:11",
@@ -1411,18 +1411,18 @@
     {
       "added_at": "2022-08-30 08:51:11",
       "album": {
-        "name": "I Belong To You",
-        "url": "https://open.spotify.com/album/4abZmMGlhSgaf9SDL1m70d"
+        "name": "Greatest Hits Volume II",
+        "url": "https://open.spotify.com/album/65YVCw3Gk9ttaiPNNKaHR5"
       },
       "artists": [
         {
-          "name": "Emilia Mitiku",
-          "url": "https://open.spotify.com/artist/65RLNrrTTS9ztKiuK0fZg2"
+          "name": "Andy Williams",
+          "url": "https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9"
         }
       ],
-      "duration_ms": 196320,
-      "name": "I Belong to You",
-      "url": "https://open.spotify.com/track/7FqvieB7KLTInMvfieRq5a"
+      "duration_ms": 182840,
+      "name": "Speak Softly Love - Love Theme from \"The Godfather\"",
+      "url": "https://open.spotify.com/track/3NNM8rlskOvhul2y9PDl8u"
     },
     {
       "added_at": "2022-08-30 08:51:11",
@@ -1475,18 +1475,22 @@
     {
       "added_at": "2022-08-30 08:51:11",
       "album": {
-        "name": "Days Of Wine And Roses, Moon River And Other Academy Award Winners",
-        "url": "https://open.spotify.com/album/7FAo3wmrJNNzz2W5Z5ZG80"
+        "name": "Ultimate Nat King Cole",
+        "url": "https://open.spotify.com/album/2IFGaozoXFA3m9IUH2Hcc4"
       },
       "artists": [
         {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        },
+        {
+          "name": "Gregory Porter",
+          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
         }
       ],
-      "duration_ms": 173693,
-      "name": "Swinging On A Star",
-      "url": "https://open.spotify.com/track/7DhjBWlWMv0Lsspq7KLvIz"
+      "duration_ms": 174773,
+      "name": "The Girl From Ipanema",
+      "url": "https://open.spotify.com/track/3niaqXwt6bSu5HCXJpaee7"
     },
     {
       "added_at": "2022-08-30 08:51:11",

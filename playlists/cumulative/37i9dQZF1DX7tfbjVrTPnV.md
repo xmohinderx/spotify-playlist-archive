@@ -4,7 +4,7 @@
 
 > Enjoy new and classic releases from icons of folk and Americana\. Cover: Bonnie Raitt
 
-234 songs - 14 hr 56 min - [published](https://open.spotify.com/playlist/7LN5PEHjWoyc7Gr8YesNHn)
+235 songs - 15 hr 0 min - [published](https://open.spotify.com/playlist/7LN5PEHjWoyc7Gr8YesNHn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Can’t Let Go](https://open.spotify.com/track/6dQh60A0KlpwPT2p9ptJaY) | [Robert Plant](https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y), [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [Raise The Roof](https://open.spotify.com/album/5CQ3SOj1ZgudhbsTLcTTI2) | 3:41 | 2022-04-22 |  |
 | [Car Wheels On A Gravel Road](https://open.spotify.com/track/5rUqENE7bmNffBbZDhVBty) | [Lucinda Williams](https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP) | [Car Wheels On A Gravel Road](https://open.spotify.com/album/3iC6dJobZulVXp0F4Bojig) | 4:44 | 2021-11-11 |  |
 | [Choctaw Bingo](https://open.spotify.com/track/3d0EH8kmmejGmBtvQHYgU6) | [James McMurtry](https://open.spotify.com/artist/52BKc9OtCbQstAAPTIvLGH) | [Saint Mary Of The Woods](https://open.spotify.com/album/0j3PNuIO77kdjrTypChx5y) | 8:33 | 2021-11-11 |  |
+| [Closer to You](https://open.spotify.com/track/3cv5ztdkBxly1hhZGWTcLW) | [The Mastersons](https://open.spotify.com/artist/4U34CdSiwH2Imlt7ddNPTC) | [Good Luck Charm](https://open.spotify.com/album/2dREaKg1P5fT3tGTQskANP) | 3:48 | 2022-04-22 |  |
 | [Closer To You](https://open.spotify.com/track/6hsE0S4ytXK7HSgDJYMkqo) | [The Mastersons](https://open.spotify.com/artist/4U34CdSiwH2Imlt7ddNPTC) | [Good Luck Charm](https://open.spotify.com/album/6GAgduAUKT4za3wmxec1Jh) | 3:48 | 2021-11-11 | 2022-07-28 |
 | [Color of the Blues \(feat\. Susan Tedeschi\)](https://open.spotify.com/track/3PD8oSUFfmtPTz7Xm5uTN4) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT), [Susan Tedeschi](https://open.spotify.com/artist/5Ws3s6lSP4Un8kQf8CrAta) | [Color of the Blues \(feat\. Susan Tedeschi\)](https://open.spotify.com/album/0nlgiEuFFxXlc5vlDL3gr0) | 2:54 | 2021-11-11 | 2022-07-29 |
 | [Copper Canteen](https://open.spotify.com/track/2jG8qg7KDYWKm9smYCXz1i) | [James McMurtry](https://open.spotify.com/artist/52BKc9OtCbQstAAPTIvLGH) | [Complicated Game](https://open.spotify.com/album/0uZF0Y3tD2XLnIfBGn59Ly) | 4:37 | 2021-11-11 |  |
@@ -101,7 +102,7 @@
 | [I Ain't Lookin' For No Trouble](https://open.spotify.com/track/1GTEEvwTjh7xah3BgulsBA) | [Ray Benson](https://open.spotify.com/artist/2G6E8Q9UTzDIhoawhJm33M) | [A Little Piece](https://open.spotify.com/album/5CntyXoAEn6ubp3LXaL95I) | 4:02 | 2021-11-11 | 2022-07-29 |
 | [I Am Your Tambourine](https://open.spotify.com/track/0TWanZCXaXfRwCpOhcgJ6A) | [Tift Merritt](https://open.spotify.com/artist/2jL1PBvL0gBZBPk6B38p3z) | [Tambourine](https://open.spotify.com/album/5WxgJTkb7d1eGsCAoG276N) | 3:44 | 2021-11-11 | 2022-07-24 |
 | [I Contain Multitudes](https://open.spotify.com/track/7n68LuJzbmdxRRYiSq3gSf) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [I Contain Multitudes](https://open.spotify.com/album/5QlsyfXfvtmm6MmFdlVOAV) | 4:36 | 2021-11-11 |  |
-| [I Could Have Told You](https://open.spotify.com/track/0HDABp2OCDAHppnpm1YhuX) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [I Could Have Told You](https://open.spotify.com/album/2iHYtDm5xAdk074E4x28Vh) | 3:36 | 2021-11-11 |  |
+| [I Could Have Told You](https://open.spotify.com/track/0HDABp2OCDAHppnpm1YhuX) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [I Could Have Told You](https://open.spotify.com/album/2iHYtDm5xAdk074E4x28Vh) | 3:36 | 2021-11-11 | 2022-09-03 |
 | [I Feel the Earth Move](https://open.spotify.com/track/1BWsOxeMx83OrKGCV4gxly) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Tapestry](https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS) | 2:58 | 2022-04-22 |  |
 | [I Feel the Earth Move](https://open.spotify.com/track/7onOpypcFWFc2YjMIcJnx9) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Tapestry \(Legacy Edition\)](https://open.spotify.com/album/7kLLC7CN8oxt0HgP2a051K) | 2:58 | 2021-11-11 | 2022-07-29 |
 | [I Have Met My Love Today \- Recorded at RCA Studio a, Nashville](https://open.spotify.com/track/0WK7SpoCnKifXNYgRMjYZc) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT), [The Secret Sisters](https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL) | [Spotify Singles](https://open.spotify.com/album/0Q6SEonIrUCqHqYaj4ZWzr) | 2:29 | 2021-11-11 |  |

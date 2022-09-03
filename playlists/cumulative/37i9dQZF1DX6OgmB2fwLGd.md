@@ -4,7 +4,7 @@
 
 > The soundtrack to the internet\. Cover: JELEEL!
 
-388 songs - 15 hr 59 min - [published](https://open.spotify.com/playlist/22i2vvRs1o18fCRD821qvI)
+391 songs - 16 hr 8 min - [published](https://open.spotify.com/playlist/22i2vvRs1o18fCRD821qvI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [DAMN HOMIE \(feat\. Lil Yachty\)](https://open.spotify.com/track/1P3ngSxpsmwSVlnAq4iszK) | [yvngxchris](https://open.spotify.com/artist/2qB0DlFsQOpNh0bdMCJLwr), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [DAMN HOMIE \(feat\. Lil Yachty\)](https://open.spotify.com/album/2XNIXSvuuUUdC7I9zsSRvW) | 2:20 | 2022-05-13 |  |
 | [damn Right](https://open.spotify.com/track/01ukVTKa6DhejzNulpoG2t) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb) | [a liquid breakfast](https://open.spotify.com/album/45QlLBsyMU0XRqw3cxdTKb) | 2:44 | 2022-01-11 | 2022-02-05 |
 | [Dance](https://open.spotify.com/track/3RshwpG2D2FtdpEWe6ItAK) | [Jay Safari](https://open.spotify.com/artist/1ZDLdMwbdm4AdfXZTqbVdT) | [Dance](https://open.spotify.com/album/0Rkl5rosO2RGnoKz5Cw6j5) | 2:45 | 2022-02-02 | 2022-07-02 |
+| [Dance Now \(feat\. Kenny Mason\)](https://open.spotify.com/track/6wj7wjtegmkziorQ2tt5Pz) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv) | [The Forever Story](https://open.spotify.com/album/3QVjpIxcksDkJmOnvlOJjg) | 3:47 | 2022-09-02 |  |
 | [Dat Way](https://open.spotify.com/track/1xN0TrhNn6vsdcAbW0LOQo) | [Barely Legal](https://open.spotify.com/artist/3zxSRSA34s9MDljcnI9Rol), [Jay Browne](https://open.spotify.com/artist/345vrTFNzEOhTuVkrZD9aZ) | [Daytona](https://open.spotify.com/album/0vk3ZQ5tBSo0kjj6BAniWa) | 3:08 | 2022-03-11 | 2022-07-16 |
 | [Deadguy](https://open.spotify.com/track/1lITtbljRbadZO0eXgSoIX) | [Zelly Ocho](https://open.spotify.com/artist/3svb0AOLHdFPE6P8PRB2ML) | [Vlamily](https://open.spotify.com/album/04UXzrSTCTv7AN32oxVpKF) | 1:55 | 2022-04-06 | 2022-05-25 |
 | [Dean Kissick](https://open.spotify.com/track/09AILqJtBjyMGJah1zYyQB) | [Blaketheman1000](https://open.spotify.com/artist/0QrLOWMTGOF7Vwb3SAhf3I) | [Dean Kissick](https://open.spotify.com/album/4GrqSrbnSOZZmCEvezSQYy) | 1:48 | 2022-07-29 | 2022-08-30 |
@@ -176,6 +177,7 @@
 | [Hotel](https://open.spotify.com/track/1rfsEU57ofvxhII8Xs57WF) | [Lawsy](https://open.spotify.com/artist/4KatuTqriDODW9YiAIZD3T) | [Hotel](https://open.spotify.com/album/4wSF1oy5QmEopBZ2KZxIy1) | 2:35 | 2022-07-12 |  |
 | [How Much Cash](https://open.spotify.com/track/7MqhkWnXD53EK4XreeK2F1) | [Noah Davis](https://open.spotify.com/artist/7lVbD38aVBVACNzgta9awX) | [How Much Cash](https://open.spotify.com/album/3h1vVs84r2jOB5BgEnCQh0) | 2:08 | 2022-02-11 | 2022-02-19 |
 | [I Chose Violence](https://open.spotify.com/track/7l5GAw0cglUUnN7bKAz5ab) | [iamjakehill](https://open.spotify.com/artist/26JloX1vHxGGrGUVeMItFJ) | [I Chose Violence](https://open.spotify.com/album/0VGDZJXfVVi3vEgbJTRXQ8) | 2:19 | 2021-10-28 | 2022-04-29 |
+| [I Deserve \(w/ NOS.\)](https://open.spotify.com/track/4SqPtAd2irUOyLoLcOFtkl) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD), [NOS.](https://open.spotify.com/artist/7iRauMPdOJBF3RiDHKrXTB) | [I Deserve \(w/ NOS.\)](https://open.spotify.com/album/1jCHZ0ggPkFnm5b1r5ZY8V) | 2:42 | 2022-09-02 |  |
 | [I Feel Fantastic](https://open.spotify.com/track/2CMq2UImv0YssAzKb95YBH) | [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8) | [I Feel Fantastic](https://open.spotify.com/album/7EK9acXyOaMuemZA2rRqqz) | 2:26 | 2022-01-04 | 2022-05-20 |
 | [I Feel Funny](https://open.spotify.com/track/2AVaz5BV1gTrjSZt0HZ8dV) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [I Feel Funny](https://open.spotify.com/album/06aEQhiev6dMRsPbSQ2cFC) | 1:15 | 2022-04-28 | 2022-04-30 |
 | [I feel it](https://open.spotify.com/track/2JddvCwB2cnFwUU8JE8Xy9) | [Bryansanon](https://open.spotify.com/artist/4Gi918o3VYKKgw6WWWs36s) | [I feel it](https://open.spotify.com/album/77EQnCprOOLzzBVw8hhGpD) | 2:07 | 2022-04-26 |  |
@@ -345,6 +347,7 @@
 | [Super Urus](https://open.spotify.com/track/4d1MKNhs76Fsrnjz9u16zb) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [Super Urus](https://open.spotify.com/album/1cL86ZgHUK02aGXz75Q2rh) | 2:22 | 2022-03-16 | 2022-07-30 |
 | [Surround Sound \(feat\. 21 Savage & Baby Tate\)](https://open.spotify.com/track/0cp97b37sFNsdIbQH6po3T) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Surround Sound \(feat\. 21 Savage & Baby Tate\)](https://open.spotify.com/album/0MdgqhI26wmlQ1aLV5y2Ks) | 3:49 | 2022-02-08 | 2022-07-02 |
 | [Swiper Of The Year](https://open.spotify.com/track/4zQY1lPJv072WQI9gy5dt7) | [Teejayx6](https://open.spotify.com/artist/5jGqKmL1iBtlEb3LZovw8Y) | [Swiper Of The Year](https://open.spotify.com/album/4O7rwsxAeJE4jjNIoEIFYI) | 1:28 | 2022-01-07 | 2022-01-13 |
+| [Talk](https://open.spotify.com/track/0ypjMI7vHiDP4sLB1C0Qna) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Talk](https://open.spotify.com/album/7dMwNA2bcmk60N4s27fk5e) | 2:54 | 2022-09-02 |  |
 | [TBTF](https://open.spotify.com/track/01Vormnc8QSPgBQYkvrQ7P) | [Coco & Clair Clair](https://open.spotify.com/artist/5FkMS3KgG0cjiRm250NFTJ) | [TBTF](https://open.spotify.com/album/7AcCd36B5Fu0N1qQZVBqVg) | 2:52 | 2022-01-21 | 2022-02-05 |
 | [Tears](https://open.spotify.com/track/5PUxWxXQEJJidGkIVIF7Tq) | [Mudrigo](https://open.spotify.com/artist/301jinGFu9ZVQZTPXMwRoM) | [Tears](https://open.spotify.com/album/51JeumHc5NAoZTZaaLw9v0) | 1:50 | 2022-05-13 |  |
 | [Tears of a Tiger](https://open.spotify.com/track/2pRU7Hr7vmSWT90NNOQiTd) | [Big Body Bes](https://open.spotify.com/artist/1dGP47tYOn4oiYFyrw3abP) | [Tears of a Tiger](https://open.spotify.com/album/2qLFnJ5LOvJpQURsaVdsdK) | 2:20 | 2021-12-10 | 2021-12-27 |

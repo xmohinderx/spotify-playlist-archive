@@ -59,7 +59,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 168000,
       "name": "Blue Velvet",
       "url": "https://open.spotify.com/track/3WO8ZBnOtad3xMz46Z54pY"
@@ -803,6 +803,24 @@
       "duration_ms": 142360,
       "name": "Sea of Love",
       "url": "https://open.spotify.com/track/0Jbcki0GtjK4CdPlmZO8XR"
+    },
+    {
+      "album": {
+        "name": "Sea Of Love: The Collection",
+        "url": "https://open.spotify.com/album/7sDEzqAGqgx95qRrLmqFBB"
+      },
+      "artists": [
+        {
+          "name": "Phil Phillips & The Twilights",
+          "url": "https://open.spotify.com/artist/5EQjT95lePa71P9ZUA6adW"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141933,
+      "name": "Sea Of Love",
+      "url": "https://open.spotify.com/track/4gUDdUr5yK0JGlR49zSRVt"
     },
     {
       "album": {

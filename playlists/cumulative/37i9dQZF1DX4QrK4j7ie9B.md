@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DX4QrK4j7ie9B.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4QrK4j7ie9B) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4QrK4j7ie9B)
 
-### [Classical Yoga](https://open.spotify.com/playlist/37i9dQZF1DX4QrK4j7ie9B)
+### [Classical Cooldown](https://open.spotify.com/playlist/37i9dQZF1DX4QrK4j7ie9B)
 
-> The ultimate classical playlist for yoga, meditation and daily mindfulness.
+> The ultimate classical playlist for post\-workout stretching, meditation and mindfulness.
 
 71 songs - 4 hr 38 min - [published](https://open.spotify.com/playlist/6WzOVMHapSVAlzMq8XAa77)
 

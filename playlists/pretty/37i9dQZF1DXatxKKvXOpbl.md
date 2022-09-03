@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatxKKvXOpbl.md) - [plain]
 
 > Uma seleção good vibes pra você trabalhar de boa!
 
-[Spotify](https://open.spotify.com/user/spotify) - 409,118 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 409,202 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatxKKvXOpbl.md) - [plain]
 | 99 | [Home](https://open.spotify.com/track/3X01VeoR0GckfiXlFRrJmF) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Home](https://open.spotify.com/album/0227L6DB3iVlI5xDLttmTN) | 4:07 |
 | 100 | [We Are Young \(feat\. Janelle Monáe\)](https://open.spotify.com/track/7a86XRg84qjasly9f6bPSD) | [fun.](https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0), [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [Some Nights](https://open.spotify.com/album/7iycyHwOW2plljYIK6I1Zo) | 4:10 |
 
-Snapshot ID: `MTY2MDc1NDI1MCwwMDAwMDAwMDgwNTM4MjRhOTdmMDhmN2JhM2E4ZDQ0YmYwMmNiMjg5`
+Snapshot ID: `MTY2MjEzNDQ2MiwwMDAwMDAwMGY0NTZiMTY3NWExMGZiYWQ2NDAxNGI1MTc4MDUyOGU5`

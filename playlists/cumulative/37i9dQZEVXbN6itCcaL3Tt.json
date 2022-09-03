@@ -6091,7 +6091,7 @@
       ],
       "date_added": "2022-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 153598,
       "name": "Jad\u0119 noc\u0105 na Mazurach 2",
       "url": "https://open.spotify.com/track/1qeJpVuhVscumLYp9YOZC7"
@@ -7435,7 +7435,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-10",
+      "date_removed": null,
       "duration_ms": 120016,
       "name": "KOCIMI\u0118TKA",
       "url": "https://open.spotify.com/track/0czMIykCNrza3OEmWvJEYO"
@@ -8631,7 +8631,7 @@
       ],
       "date_added": "2022-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 244804,
       "name": "Mary On A Cross",
       "url": "https://open.spotify.com/track/2HZLXBOnaSRhXStMLrq9fD"
@@ -8719,6 +8719,24 @@
       "duration_ms": 170608,
       "name": "Matrioszki",
       "url": "https://open.spotify.com/track/59LspAvNwvlbqLagvgqZwm"
+    },
+    {
+      "album": {
+        "name": "Ma\u0142e Krople",
+        "url": "https://open.spotify.com/album/3dD3hIgOhQo7zZph0rkhu6"
+      },
+      "artists": [
+        {
+          "name": "Young Igi",
+          "url": "https://open.spotify.com/artist/1yq2JzsqbzFbJ1B7wGOXLc"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164363,
+      "name": "Ma\u0142e Krople",
+      "url": "https://open.spotify.com/track/6wkV4uyxWrfNim5QmLmQnp"
     },
     {
       "album": {
@@ -10941,7 +10959,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-07",
+      "date_removed": null,
       "duration_ms": 154000,
       "name": "Pakuje Walize",
       "url": "https://open.spotify.com/track/7CRfTE9FGb9YdSvoGhl2IP"
@@ -15453,7 +15471,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 136500,
       "name": "VANILLA",
       "url": "https://open.spotify.com/track/28xVHKzee6ujyNhFJjdbiq"

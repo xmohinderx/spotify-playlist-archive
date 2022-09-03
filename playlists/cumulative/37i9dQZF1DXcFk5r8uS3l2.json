@@ -951,7 +951,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 239933,
       "name": "Fire",
       "url": "https://open.spotify.com/track/4mGkVCstt9CC4mIU8iHOZ5"
@@ -1081,6 +1081,24 @@
       "duration_ms": 150560,
       "name": "Gonna Walk This Road",
       "url": "https://open.spotify.com/track/1VcKAAbJoU9tUtjrLHuEAW"
+    },
+    {
+      "album": {
+        "name": "Good Thing",
+        "url": "https://open.spotify.com/album/2OyrsRxTuxC5mgAvYPaOYI"
+      },
+      "artists": [
+        {
+          "name": "Drew Foust",
+          "url": "https://open.spotify.com/artist/7enMAKmPy57r3E6He9IgWE"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244011,
+      "name": "Good Thing",
+      "url": "https://open.spotify.com/track/7ztepPjeNZuOUFCsEmlzDj"
     },
     {
       "album": {
@@ -3162,6 +3180,24 @@
     },
     {
       "album": {
+        "name": "The Breeze",
+        "url": "https://open.spotify.com/album/20qckV3u4PYG6MHZSWJwhH"
+      },
+      "artists": [
+        {
+          "name": "Kenny Sharp",
+          "url": "https://open.spotify.com/artist/7HL0NItywvJ7qgDfBiIo0E"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156158,
+      "name": "The Breeze",
+      "url": "https://open.spotify.com/track/0Oou2wDOZJFrNqRbDgOFir"
+    },
+    {
+      "album": {
         "name": "The Fifth of June",
         "url": "https://open.spotify.com/album/6VRdWjagHR5bwoq8iI7uYF"
       },
@@ -3209,7 +3245,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 289293,
       "name": "The Kids Are Having None Of It",
       "url": "https://open.spotify.com/track/1okc9vBreGSAqixbVaAGUH"

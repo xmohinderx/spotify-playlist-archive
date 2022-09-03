@@ -2310,6 +2310,24 @@
     },
     {
       "album": {
+        "name": "Fire Out",
+        "url": "https://open.spotify.com/album/7w9iA1DnVoALqGoLIHHKza"
+      },
+      "artists": [
+        {
+          "name": "Call Me Karizma",
+          "url": "https://open.spotify.com/artist/5fENlrINIVP0gJOtKxvORt"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Fire Out",
+      "url": "https://open.spotify.com/track/4hYTiJcNgQLXi4556RAr7L"
+    },
+    {
+      "album": {
         "name": "Flustered Snowflakes",
         "url": "https://open.spotify.com/album/6nAMNqUvskOnwqR2SjvNcE"
       },
@@ -4353,7 +4371,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 318266,
       "name": "Jesus Christ",
       "url": "https://open.spotify.com/track/72ccSGl5YcEWm0vhtVpi25"

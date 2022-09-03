@@ -984,6 +984,28 @@
     },
     {
       "album": {
+        "name": "Doubts (Live from Studio 54, 2022)",
+        "url": "https://open.spotify.com/album/3hMtt6d0eyyfm1lOI3O9ib"
+      },
+      "artists": [
+        {
+          "name": "The Past",
+          "url": "https://open.spotify.com/artist/1wHteDz57DCfgztS5vR2jU"
+        },
+        {
+          "name": "Robbie Rosen",
+          "url": "https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203228,
+      "name": "Doubts - Live from Studio 54, 2022",
+      "url": "https://open.spotify.com/track/3rzEkGL4fjIB6hdIx2DZc5"
+    },
+    {
+      "album": {
         "name": "Dragonball Durag (Remix)",
         "url": "https://open.spotify.com/album/4pjJMjf9P4ZrRoGuGrdUQg"
       },
@@ -1095,6 +1117,24 @@
       "duration_ms": 234194,
       "name": "Everybody in the World (feat. New Breed Brass Band)",
       "url": "https://open.spotify.com/track/3xRrcTVx6yjNGSEhw8rE2A"
+    },
+    {
+      "album": {
+        "name": "Keep On Smiling",
+        "url": "https://open.spotify.com/album/0SbaC7OZOVB2WKGzf9ZMSQ"
+      },
+      "artists": [
+        {
+          "name": "Two Door Cinema Club",
+          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262356,
+      "name": "Everybody's Cool",
+      "url": "https://open.spotify.com/track/5HUxswbr7V4fzwG1LGCf7U"
     },
     {
       "album": {
@@ -1365,7 +1405,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 99068,
       "name": "GET DOWN",
       "url": "https://open.spotify.com/track/3zylRjS84s0SgiB72bvxR0"
@@ -1669,7 +1709,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 192000,
       "name": "Happy Meal",
       "url": "https://open.spotify.com/track/2XA4OlwOVNnm09yMXUc1nI"

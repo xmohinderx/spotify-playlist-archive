@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Spooky sounds from your favorite horror features on Netflix.",
+  "description": "Spooky sounds from your favorite horror features on Netflix. Cover: Devil in Ohio. ",
   "name": "Netflix and Chills",
   "published_playlist_ids": [
     "4bN0zeSuBKVuYpNOMsD9q1"
@@ -366,6 +366,24 @@
     },
     {
       "album": {
+        "name": "Devil in Ohio (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/6NGsQGLhikXABCBVJypLiH"
+      },
+      "artists": [
+        {
+          "name": "Bishop Briggs",
+          "url": "https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193892,
+      "name": "Lessons of the Fire (from the Netflix Series \"Devil In Ohio\")",
+      "url": "https://open.spotify.com/track/7uCoscfmQbuG1NBfyeaYvy"
+    },
+    {
+      "album": {
         "name": "Locke & Key (Music from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/7pvZ5JKQV6ilOHwp0keXIe"
       },
@@ -591,7 +609,7 @@
       ],
       "date_added": "2021-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 160416,
       "name": "Straight To Hell (from Netflix's \"Chilling Adventures of Sabrina\u201d)",
       "url": "https://open.spotify.com/track/3TsnZQm78Idawqs1KtOas4"

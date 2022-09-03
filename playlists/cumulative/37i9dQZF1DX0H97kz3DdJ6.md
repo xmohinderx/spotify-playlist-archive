@@ -4,7 +4,7 @@
 
 > as mais tristes do brasil
 
-91 songs - 4 hr 23 min - [published](https://open.spotify.com/playlist/4ADBfixRHFwffrKYoekmv1)
+92 songs - 4 hr 26 min - [published](https://open.spotify.com/playlist/4ADBfixRHFwffrKYoekmv1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Eu te fiz sofrer](https://open.spotify.com/track/7LJ4i3QW0lri9IDg1FPRFZ) | [Lil Chainz](https://open.spotify.com/artist/6LRVpC7lJ4IYrPNeAiylYB), [Kourah](https://open.spotify.com/artist/0ZZjUA7WDQGjBN416iSBae) | [Eu te fiz sofrer](https://open.spotify.com/album/3S2JOAUJ7NdY0QbrFksthT) | 2:44 | 2022-05-20 |  |
 | [Eu Tentei](https://open.spotify.com/track/7LzWELj8YFDdQcoyfsmRW1) | [Ilowzzy](https://open.spotify.com/artist/5WPUWYSDTiArtucNN3LD6m), [Indie Space](https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr), [Sadnation](https://open.spotify.com/artist/03eBztaT761cekpkMOZEDY) | [Eu Tentei](https://open.spotify.com/album/1EEwQA8UnhcLDPtU2uReeu) | 3:10 | 2022-05-20 |  |
 | [Eu Tô Bem](https://open.spotify.com/track/5HR0ti4siqbTIr1BitbZ7d) | [Luiz Lins](https://open.spotify.com/artist/0hWRVPGWjaXcEvg8l65Tx0) | [Eu Tô Bem](https://open.spotify.com/album/4uoVTixtQcytRqPUZ0qBKE) | 2:14 | 2022-05-20 |  |
+| [Faltam Palavras](https://open.spotify.com/track/4TnbzKpiC9Us4I6E71o0uz) | [Annick](https://open.spotify.com/artist/7MBC4MpNfqH87jfzeZn3tE) | [Faltam Palavras](https://open.spotify.com/album/1XnHyT1lXkLZc9UQYizWiC) | 2:43 | 2022-09-02 |  |
 | [Fica Mais um Pouco \- Speed](https://open.spotify.com/track/60pOKtx48FsYVKii0pG0bL) | [Fuji](https://open.spotify.com/artist/2hRHTgxBeovtixZArRGiY1), [Indie Space](https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr), [Sadnation](https://open.spotify.com/artist/03eBztaT761cekpkMOZEDY) | [Fica Mais um Pouco \(Speed\)](https://open.spotify.com/album/60RIdS7LLMXgpeq9MXcZGD) | 1:36 | 2022-07-08 |  |
 | [Fim do Dia](https://open.spotify.com/track/1gIqYVNx0tKaKYf0LAZ2Mu) | [Konai](https://open.spotify.com/artist/12YpLBd0FvDYA0c4nsaxFp) | [Fim do Dia](https://open.spotify.com/album/1RvaZRpmC03BbhFaS6hGJa) | 2:39 | 2022-05-20 |  |
 | [Fragmentado](https://open.spotify.com/track/2rq3atuTm26XTjbnTDWtti) | [Nasac](https://open.spotify.com/artist/6g5b2tgMUMnb51tZ8Z3Tby), [Sadstation](https://open.spotify.com/artist/4OFUU6MkPNc2X96UJMlR0h) | [Fragmentado](https://open.spotify.com/album/0fOi6D7J5ySn7S3NbB3SQN) | 2:00 | 2022-05-20 |  |

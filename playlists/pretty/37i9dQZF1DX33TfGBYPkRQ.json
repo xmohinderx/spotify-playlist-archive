@@ -1,12 +1,12 @@
 {
   "description": "That feeling of being punched in the gut by a song.",
-  "num_followers": 89106,
+  "num_followers": 89179,
   "original_name": "Devastating",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxOTgwMzc4NywwMDAwMDAwMGU2MjYwZTYzOWEzMTJmMDQ0N2NlMmMxNzNjYzgzMTQ3",
+  "snapshot_id": "MTYxOTgwMzc4NywwMDAwMDAwMDk1MmE3NmViNjg3ZjQ4YmU5NjljMjQxOTk4ZTQ2ZDI3",
   "tracks": [
     {
       "added_at": "2021-04-30 17:29:47",
@@ -159,22 +159,6 @@
     {
       "added_at": "2021-04-30 17:29:47",
       "album": {
-        "name": "Bathing Beach",
-        "url": "https://open.spotify.com/album/4vGuMdwnxc6X8izbVS6MTN"
-      },
-      "artists": [
-        {
-          "name": "Novo Amor",
-          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
-        }
-      ],
-      "duration_ms": 273106,
-      "name": "Carry You",
-      "url": "https://open.spotify.com/track/0u4rkpmNtgcFxYHepnVF4v"
-    },
-    {
-      "added_at": "2021-04-30 17:29:47",
-      "album": {
         "name": "Historian",
         "url": "https://open.spotify.com/album/0LqhbUfmHsxovfSirhEIGu"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 391829,
       "name": "Night Shift",
       "url": "https://open.spotify.com/track/1yYlpGuBiRRf33e1gY61bN"
+    },
+    {
+      "added_at": "2021-04-30 17:29:47",
+      "album": {
+        "name": "Bathing Beach",
+        "url": "https://open.spotify.com/album/4vGuMdwnxc6X8izbVS6MTN"
+      },
+      "artists": [
+        {
+          "name": "Novo Amor",
+          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
+        }
+      ],
+      "duration_ms": 273106,
+      "name": "Carry You",
+      "url": "https://open.spotify.com/track/0u4rkpmNtgcFxYHepnVF4v"
     },
     {
       "added_at": "2021-04-30 17:29:47",
@@ -375,18 +375,18 @@
     {
       "added_at": "2021-04-30 17:29:47",
       "album": {
-        "name": "Misty",
-        "url": "https://open.spotify.com/album/70ozU7uYRApcu4Dluq0xMV"
+        "name": "Close to Paradise",
+        "url": "https://open.spotify.com/album/056yp65HkG28gOvkLPWAem"
       },
       "artists": [
         {
-          "name": "Caamp",
-          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
+          "name": "Patrick Watson",
+          "url": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
         }
       ],
-      "duration_ms": 224445,
-      "name": "Misty",
-      "url": "https://open.spotify.com/track/0jX7GLf5pVGZpchy64sluA"
+      "duration_ms": 187373,
+      "name": "The Great Escape",
+      "url": "https://open.spotify.com/track/1GIPP103zfsythULEpsmdw"
     },
     {
       "added_at": "2021-04-30 17:29:47",
@@ -407,18 +407,18 @@
     {
       "added_at": "2021-04-30 17:29:47",
       "album": {
-        "name": "Close to Paradise",
-        "url": "https://open.spotify.com/album/056yp65HkG28gOvkLPWAem"
+        "name": "Misty",
+        "url": "https://open.spotify.com/album/70ozU7uYRApcu4Dluq0xMV"
       },
       "artists": [
         {
-          "name": "Patrick Watson",
-          "url": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
+          "name": "Caamp",
+          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
         }
       ],
-      "duration_ms": 187373,
-      "name": "The Great Escape",
-      "url": "https://open.spotify.com/track/1GIPP103zfsythULEpsmdw"
+      "duration_ms": 224445,
+      "name": "Misty",
+      "url": "https://open.spotify.com/track/0jX7GLf5pVGZpchy64sluA"
     },
     {
       "added_at": "2021-04-30 17:29:47",
@@ -699,22 +699,6 @@
     {
       "added_at": "2021-04-30 17:29:47",
       "album": {
-        "name": "Inside Wants Out",
-        "url": "https://open.spotify.com/album/5KMP6XLSrhsswEuN2A9VO2"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 299333,
-      "name": "Comfortable - EP Version",
-      "url": "https://open.spotify.com/track/26PnyFUmYdeRG7nQrsTpHc"
-    },
-    {
-      "added_at": "2021-04-30 17:29:47",
-      "album": {
         "name": "Hold It Together",
         "url": "https://open.spotify.com/album/2gO1pyq1nVTs7PdIMlX0r9"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 193466,
       "name": "25 in Barcelona",
       "url": "https://open.spotify.com/track/3T26BJ8XxWaxyxs8oGt8eR"
+    },
+    {
+      "added_at": "2021-04-30 17:29:47",
+      "album": {
+        "name": "Inside Wants Out",
+        "url": "https://open.spotify.com/album/5KMP6XLSrhsswEuN2A9VO2"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 299333,
+      "name": "Comfortable - EP Version",
+      "url": "https://open.spotify.com/track/26PnyFUmYdeRG7nQrsTpHc"
     },
     {
       "added_at": "2021-04-30 17:29:47",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2021-04-30 17:29:47",
       "album": {
-        "name": "Hallelujah",
-        "url": "https://open.spotify.com/album/3Pc41S8rrkBpKAV6PrbDuo"
-      },
-      "artists": [
-        {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
-        }
-      ],
-      "duration_ms": 189337,
-      "name": "Hallelujah",
-      "url": "https://open.spotify.com/track/5bbGG2Ts8j4KKSFZjVhjVG"
-    },
-    {
-      "added_at": "2021-04-30 17:29:47",
-      "album": {
         "name": "Is There Anybody Out There?",
         "url": "https://open.spotify.com/album/1yOcLa4euMk9sV7rRJ89Dl"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 163960,
       "name": "I Don't Wanna Love Somebody Else",
       "url": "https://open.spotify.com/track/5XY2CyLE68jlt7nNj5ygVh"
+    },
+    {
+      "added_at": "2021-04-30 17:29:47",
+      "album": {
+        "name": "Hallelujah",
+        "url": "https://open.spotify.com/album/3Pc41S8rrkBpKAV6PrbDuo"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "duration_ms": 189337,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/5bbGG2Ts8j4KKSFZjVhjVG"
     },
     {
       "added_at": "2021-04-30 17:29:47",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2021-04-30 17:29:47",
       "album": {
-        "name": "A Crow Looked at Me",
-        "url": "https://open.spotify.com/album/5p64XgvFREt1P6mC7Xl6XN"
-      },
-      "artists": [
-        {
-          "name": "Mount Eerie",
-          "url": "https://open.spotify.com/artist/4Sw0SFu1fFdYXdAEVdrqnO"
-        }
-      ],
-      "duration_ms": 181680,
-      "name": "Seaweed",
-      "url": "https://open.spotify.com/track/2jpaYrcduGAlHkFZwLobxN"
-    },
-    {
-      "added_at": "2021-04-30 17:29:47",
-      "album": {
         "name": "Take Out Of Me EP",
         "url": "https://open.spotify.com/album/0c5kUADkXAnNiVeaRtTTty"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 147853,
       "name": "Bring It Back to Me",
       "url": "https://open.spotify.com/track/3jyF9eNYpI3vxJWHzcZPIv"
+    },
+    {
+      "added_at": "2021-04-30 17:29:47",
+      "album": {
+        "name": "A Crow Looked at Me",
+        "url": "https://open.spotify.com/album/5p64XgvFREt1P6mC7Xl6XN"
+      },
+      "artists": [
+        {
+          "name": "Mount Eerie",
+          "url": "https://open.spotify.com/artist/4Sw0SFu1fFdYXdAEVdrqnO"
+        }
+      ],
+      "duration_ms": 181680,
+      "name": "Seaweed",
+      "url": "https://open.spotify.com/track/2jpaYrcduGAlHkFZwLobxN"
     },
     {
       "added_at": "2021-04-30 17:29:47",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2021-04-30 17:29:47",
       "album": {
-        "name": "Undiscovered",
-        "url": "https://open.spotify.com/album/00QEcKEqSmwP8odEMImIuz"
-      },
-      "artists": [
-        {
-          "name": "James Morrison",
-          "url": "https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35"
-        }
-      ],
-      "duration_ms": 255840,
-      "name": "The Pieces Don't Fit Anymore",
-      "url": "https://open.spotify.com/track/05muUAppQeMnnVxH8lVsw9"
-    },
-    {
-      "added_at": "2021-04-30 17:29:47",
-      "album": {
         "name": "Giants",
         "url": "https://open.spotify.com/album/5jZ99kZu474tcvbhzBuqHI"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 219253,
       "name": "Heart In My Hands",
       "url": "https://open.spotify.com/track/218cVN5U8vVxHNXMQp6zEu"
+    },
+    {
+      "added_at": "2021-04-30 17:29:47",
+      "album": {
+        "name": "Undiscovered",
+        "url": "https://open.spotify.com/album/00QEcKEqSmwP8odEMImIuz"
+      },
+      "artists": [
+        {
+          "name": "James Morrison",
+          "url": "https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35"
+        }
+      ],
+      "duration_ms": 255840,
+      "name": "The Pieces Don't Fit Anymore",
+      "url": "https://open.spotify.com/track/05muUAppQeMnnVxH8lVsw9"
     },
     {
       "added_at": "2021-04-30 17:29:47",

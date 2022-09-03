@@ -1,12 +1,12 @@
 {
   "description": "Oblique: Angular. Asymmetrical. Experimental.",
-  "num_followers": 113884,
+  "num_followers": 113702,
   "original_name": "Oblique",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTkyMjAzMiwwMDAwMDAwMGI4ZTViMjE2NTFmMWU0Y2Y3YThlNTdhODgyOWNlMDQ2",
+  "snapshot_id": "MTY2MTkyMjAzMiwwMDAwMDAwMGFhNzVlZDc3MWJhOTY5YzJmYTIyMDE4NjQ4Zjc3NjEy",
   "tracks": [
     {
       "added_at": "2022-08-13 00:36:29",
@@ -405,22 +405,6 @@
       "url": "https://open.spotify.com/track/4dZoE86OgZ0LrFWAsrAXNP"
     },
     {
-      "added_at": "2022-03-04 01:52:10",
-      "album": {
-        "name": "Mandatory Enjoyment",
-        "url": "https://open.spotify.com/album/29qUZKyYST9LzfffZ9aUqc"
-      },
-      "artists": [
-        {
-          "name": "Dummy",
-          "url": "https://open.spotify.com/artist/51ymXnZGhf6Z4OcNXPviZC"
-        }
-      ],
-      "duration_ms": 168613,
-      "name": "Daffodils",
-      "url": "https://open.spotify.com/track/2rlBLY6Iy6dRy3X0Epkt3W"
-    },
-    {
       "added_at": "2022-02-04 15:20:01",
       "album": {
         "name": "I Could Be Your Dog / I Could Be Your Moon",
@@ -439,6 +423,22 @@
       "duration_ms": 171342,
       "name": "Log In Your Fire",
       "url": "https://open.spotify.com/track/6ZvVNzqFvCXIIpX9Z22CsN"
+    },
+    {
+      "added_at": "2022-03-04 01:52:10",
+      "album": {
+        "name": "Mandatory Enjoyment",
+        "url": "https://open.spotify.com/album/29qUZKyYST9LzfffZ9aUqc"
+      },
+      "artists": [
+        {
+          "name": "Dummy",
+          "url": "https://open.spotify.com/artist/51ymXnZGhf6Z4OcNXPviZC"
+        }
+      ],
+      "duration_ms": 168613,
+      "name": "Daffodils",
+      "url": "https://open.spotify.com/track/2rlBLY6Iy6dRy3X0Epkt3W"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -717,20 +717,20 @@
       "url": "https://open.spotify.com/track/1mhVCuP7ebwpmfCc2zE64U"
     },
     {
-      "added_at": "2022-08-03 03:08:55",
+      "added_at": "2022-04-20 13:58:09",
       "album": {
-        "name": "Have You Felt Lately?",
-        "url": "https://open.spotify.com/album/2xJpkYv3kleK0HDFznrpn9"
+        "name": "Las Olas Contra Todos",
+        "url": "https://open.spotify.com/album/4J8d90YhrrYBiZbSeRiacK"
       },
       "artists": [
         {
-          "name": "Kaitlyn Aurelia Smith",
-          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
+          "name": "La Villana",
+          "url": "https://open.spotify.com/artist/6hZrSCRkq3lgHZ9dFxpzhq"
         }
       ],
-      "duration_ms": 234160,
-      "name": "Have You Felt Lately?",
-      "url": "https://open.spotify.com/track/6UQAuCPxNBIbVcKG2cgAsX"
+      "duration_ms": 165113,
+      "name": "Las Olas Contra Todos",
+      "url": "https://open.spotify.com/track/67QxnzLtZh9NiD7NzlBgs1"
     },
     {
       "added_at": "2022-01-19 19:33:05",
@@ -749,6 +749,22 @@
       "url": "https://open.spotify.com/track/2P0LyX02PXKXKMPOH7Zff7"
     },
     {
+      "added_at": "2022-08-03 03:08:55",
+      "album": {
+        "name": "Have You Felt Lately?",
+        "url": "https://open.spotify.com/album/2xJpkYv3kleK0HDFznrpn9"
+      },
+      "artists": [
+        {
+          "name": "Kaitlyn Aurelia Smith",
+          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
+        }
+      ],
+      "duration_ms": 234160,
+      "name": "Have You Felt Lately?",
+      "url": "https://open.spotify.com/track/6UQAuCPxNBIbVcKG2cgAsX"
+    },
+    {
       "added_at": "2021-10-06 20:23:10",
       "album": {
         "name": "The Universe Is Always Right",
@@ -763,22 +779,6 @@
       "duration_ms": 244390,
       "name": "The Universe Is Always Right",
       "url": "https://open.spotify.com/track/01XeqVgaNzcGKxJ7aNmmSo"
-    },
-    {
-      "added_at": "2022-04-20 13:58:09",
-      "album": {
-        "name": "Las Olas Contra Todos",
-        "url": "https://open.spotify.com/album/4J8d90YhrrYBiZbSeRiacK"
-      },
-      "artists": [
-        {
-          "name": "La Villana",
-          "url": "https://open.spotify.com/artist/6hZrSCRkq3lgHZ9dFxpzhq"
-        }
-      ],
-      "duration_ms": 165113,
-      "name": "Las Olas Contra Todos",
-      "url": "https://open.spotify.com/track/67QxnzLtZh9NiD7NzlBgs1"
     },
     {
       "added_at": "2022-01-20 01:49:28",
@@ -847,6 +847,22 @@
     {
       "added_at": "2021-10-06 20:23:10",
       "album": {
+        "name": "Room For The Moon",
+        "url": "https://open.spotify.com/album/5KduXFab1jkKushmutNYbq"
+      },
+      "artists": [
+        {
+          "name": "Kate NV",
+          "url": "https://open.spotify.com/artist/1OkYyMwTFtCIl6Jn664Xtx"
+        }
+      ],
+      "duration_ms": 338371,
+      "name": "Plans",
+      "url": "https://open.spotify.com/track/7qCsvM2VP5cAbMFgBbS60B"
+    },
+    {
+      "added_at": "2021-10-06 20:23:10",
+      "album": {
         "name": "Pizza Conspiracy",
         "url": "https://open.spotify.com/album/0yWP0bki3piEYrWzRZH369"
       },
@@ -859,6 +875,22 @@
       "duration_ms": 213734,
       "name": "Okandjambameya",
       "url": "https://open.spotify.com/track/04fNJ0ZewYhVTBBJEF5bsm"
+    },
+    {
+      "added_at": "2021-10-06 20:23:10",
+      "album": {
+        "name": "Centre",
+        "url": "https://open.spotify.com/album/2JizQfhhkRRiyOFlwVikV7"
+      },
+      "artists": [
+        {
+          "name": "Mt. Mountain",
+          "url": "https://open.spotify.com/artist/0bnTW40PsAYmEgWwucEpS4"
+        }
+      ],
+      "duration_ms": 280404,
+      "name": "Aplomb",
+      "url": "https://open.spotify.com/track/2W0eN3BqaBz4WeInKnQmCR"
     },
     {
       "added_at": "2021-10-15 03:46:13",
@@ -879,34 +911,18 @@
     {
       "added_at": "2021-10-06 20:23:10",
       "album": {
-        "name": "Room For The Moon",
-        "url": "https://open.spotify.com/album/5KduXFab1jkKushmutNYbq"
+        "name": "Cosmorama",
+        "url": "https://open.spotify.com/album/51huDw05lsbbpDcR1MuIfq"
       },
       "artists": [
         {
-          "name": "Kate NV",
-          "url": "https://open.spotify.com/artist/1OkYyMwTFtCIl6Jn664Xtx"
+          "name": "Beautify Junkyards",
+          "url": "https://open.spotify.com/artist/2Rrf9CkzPdPihESHDo5KZl"
         }
       ],
-      "duration_ms": 338371,
-      "name": "Plans",
-      "url": "https://open.spotify.com/track/7qCsvM2VP5cAbMFgBbS60B"
-    },
-    {
-      "added_at": "2021-10-06 20:23:10",
-      "album": {
-        "name": "Centre",
-        "url": "https://open.spotify.com/album/2JizQfhhkRRiyOFlwVikV7"
-      },
-      "artists": [
-        {
-          "name": "Mt. Mountain",
-          "url": "https://open.spotify.com/artist/0bnTW40PsAYmEgWwucEpS4"
-        }
-      ],
-      "duration_ms": 280404,
-      "name": "Aplomb",
-      "url": "https://open.spotify.com/track/2W0eN3BqaBz4WeInKnQmCR"
+      "duration_ms": 258420,
+      "name": "Reverie",
+      "url": "https://open.spotify.com/track/3SliuInyApsQsaDwCDbbvY"
     },
     {
       "added_at": "2022-08-13 01:26:08",
@@ -957,36 +973,20 @@
       "url": "https://open.spotify.com/track/03W4UGst7Ugynx4OLJGlwn"
     },
     {
-      "added_at": "2021-10-06 20:23:10",
+      "added_at": "2022-03-30 04:28:53",
       "album": {
-        "name": "Cosmorama",
-        "url": "https://open.spotify.com/album/51huDw05lsbbpDcR1MuIfq"
+        "name": "Sans oublier",
+        "url": "https://open.spotify.com/album/5gTvIe8CJZMUqsGohBOA7c"
       },
       "artists": [
         {
-          "name": "Beautify Junkyards",
-          "url": "https://open.spotify.com/artist/2Rrf9CkzPdPihESHDo5KZl"
+          "name": "Lysandre",
+          "url": "https://open.spotify.com/artist/5EtRfuHiXyKw18rAaIaSEh"
         }
       ],
-      "duration_ms": 258420,
-      "name": "Reverie",
-      "url": "https://open.spotify.com/track/3SliuInyApsQsaDwCDbbvY"
-    },
-    {
-      "added_at": "2022-05-24 01:31:24",
-      "album": {
-        "name": "Golden Air",
-        "url": "https://open.spotify.com/album/32jgOrE90Ntl88omcg7C9J"
-      },
-      "artists": [
-        {
-          "name": "Sun's Signature",
-          "url": "https://open.spotify.com/artist/112n8pqLHAybFBHk2nB9yp"
-        }
-      ],
-      "duration_ms": 342520,
-      "name": "Golden Air",
-      "url": "https://open.spotify.com/track/2o8xeyC4vUCchOrsAbhlMr"
+      "duration_ms": 170737,
+      "name": "La Roseraie",
+      "url": "https://open.spotify.com/track/4fSzvoIxLIW84DiqWd3axz"
     },
     {
       "added_at": "2022-02-25 03:06:43",
@@ -1005,20 +1005,20 @@
       "url": "https://open.spotify.com/track/13WPG61eqdPbhpHnVlH3lF"
     },
     {
-      "added_at": "2022-03-30 04:28:53",
+      "added_at": "2022-05-24 01:31:24",
       "album": {
-        "name": "Sans oublier",
-        "url": "https://open.spotify.com/album/5gTvIe8CJZMUqsGohBOA7c"
+        "name": "Golden Air",
+        "url": "https://open.spotify.com/album/32jgOrE90Ntl88omcg7C9J"
       },
       "artists": [
         {
-          "name": "Lysandre",
-          "url": "https://open.spotify.com/artist/5EtRfuHiXyKw18rAaIaSEh"
+          "name": "Sun's Signature",
+          "url": "https://open.spotify.com/artist/112n8pqLHAybFBHk2nB9yp"
         }
       ],
-      "duration_ms": 170737,
-      "name": "La Roseraie",
-      "url": "https://open.spotify.com/track/4fSzvoIxLIW84DiqWd3axz"
+      "duration_ms": 342520,
+      "name": "Golden Air",
+      "url": "https://open.spotify.com/track/2o8xeyC4vUCchOrsAbhlMr"
     },
     {
       "added_at": "2022-02-25 04:13:48",
@@ -1053,20 +1053,20 @@
       "url": "https://open.spotify.com/track/0laa1rK5dPLXwF1Qi4Vu4b"
     },
     {
-      "added_at": "2022-07-15 05:20:53",
+      "added_at": "2022-03-18 05:57:00",
       "album": {
-        "name": "K\u00fcbler-Ross",
-        "url": "https://open.spotify.com/album/0A0ZbSG5YvybVXyLFwhAAH"
+        "name": "Xela",
+        "url": "https://open.spotify.com/album/7Gpwzyny4QUiqCs68MhnVe"
       },
       "artists": [
         {
-          "name": "K\u00fcbler-Ross",
-          "url": "https://open.spotify.com/artist/3zPzwe9nrdhQLEu3SB7pRy"
+          "name": "Clea Vincent",
+          "url": "https://open.spotify.com/artist/6eforqOxk5mRrgprF7XtYu"
         }
       ],
-      "duration_ms": 258174,
-      "name": "Victims of Victimless Crimes",
-      "url": "https://open.spotify.com/track/0sOipgMTgqhBSq3dYkR2OE"
+      "duration_ms": 226373,
+      "name": "Xela",
+      "url": "https://open.spotify.com/track/3TEZwf2lJWIeEwBog3TXDf"
     },
     {
       "added_at": "2022-06-08 02:42:32",
@@ -1085,6 +1085,22 @@
       "url": "https://open.spotify.com/track/3WxgxW4qjDCL3MZzzWuwff"
     },
     {
+      "added_at": "2022-07-15 05:20:53",
+      "album": {
+        "name": "K\u00fcbler-Ross",
+        "url": "https://open.spotify.com/album/0A0ZbSG5YvybVXyLFwhAAH"
+      },
+      "artists": [
+        {
+          "name": "K\u00fcbler-Ross",
+          "url": "https://open.spotify.com/artist/3zPzwe9nrdhQLEu3SB7pRy"
+        }
+      ],
+      "duration_ms": 258174,
+      "name": "Victims of Victimless Crimes",
+      "url": "https://open.spotify.com/track/0sOipgMTgqhBSq3dYkR2OE"
+    },
+    {
       "added_at": "2022-07-04 22:42:30",
       "album": {
         "name": "Plexiglass",
@@ -1099,22 +1115,6 @@
       "duration_ms": 267844,
       "name": "Rain Take Me Back Himalaya",
       "url": "https://open.spotify.com/track/4S2be7DT90dt19piW7wj8O"
-    },
-    {
-      "added_at": "2022-03-18 05:57:00",
-      "album": {
-        "name": "Xela",
-        "url": "https://open.spotify.com/album/7Gpwzyny4QUiqCs68MhnVe"
-      },
-      "artists": [
-        {
-          "name": "Clea Vincent",
-          "url": "https://open.spotify.com/artist/6eforqOxk5mRrgprF7XtYu"
-        }
-      ],
-      "duration_ms": 226373,
-      "name": "Xela",
-      "url": "https://open.spotify.com/track/3TEZwf2lJWIeEwBog3TXDf"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -1473,22 +1473,6 @@
       "url": "https://open.spotify.com/track/52OBVPpbLif9YczNqUJUUd"
     },
     {
-      "added_at": "2022-04-23 03:28:42",
-      "album": {
-        "name": "Desire",
-        "url": "https://open.spotify.com/album/0Rfg5ysqll9jPrb0JNROhj"
-      },
-      "artists": [
-        {
-          "name": "Zola Jesus",
-          "url": "https://open.spotify.com/artist/78OKNrjc3BvniYTqvpOp6P"
-        }
-      ],
-      "duration_ms": 301544,
-      "name": "Desire",
-      "url": "https://open.spotify.com/track/4j0dM9U56g1xSjUp82GKsz"
-    },
-    {
       "added_at": "2022-02-09 04:04:07",
       "album": {
         "name": "Tintagel",
@@ -1503,6 +1487,22 @@
       "duration_ms": 228809,
       "name": "Tintagel",
       "url": "https://open.spotify.com/track/3erdL9LpuvDMfXugy2rHLc"
+    },
+    {
+      "added_at": "2022-04-23 03:28:42",
+      "album": {
+        "name": "Desire",
+        "url": "https://open.spotify.com/album/0Rfg5ysqll9jPrb0JNROhj"
+      },
+      "artists": [
+        {
+          "name": "Zola Jesus",
+          "url": "https://open.spotify.com/artist/78OKNrjc3BvniYTqvpOp6P"
+        }
+      ],
+      "duration_ms": 301544,
+      "name": "Desire",
+      "url": "https://open.spotify.com/track/4j0dM9U56g1xSjUp82GKsz"
     },
     {
       "added_at": "2021-10-06 20:23:10",

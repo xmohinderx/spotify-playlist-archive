@@ -1,12 +1,12 @@
 {
   "description": "\u9019\u4e9b\u6709\u7bc0\u594f\u6709\u6eab\u5ea6\u7684\u60c5\u6b4c\uff0c\u80fd\u8b93\u4f60\u6642\u6642\u523b\u523b\u90fd\u6709\u5728\u5e78\u798f\u4e2d\u904a\u8d70\u7684\u611f\u89ba\u3002",
-  "num_followers": 84916,
+  "num_followers": 84924,
   "original_name": "\u6696\u5fc3\u60c5\u6b4c",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjAwNjgwNiwwMDAwMDAwMGYyOGVmNWNkMGI3NmQ1ZjU4NDEzNWU1MmU2MmFkOTVm",
+  "snapshot_id": "MTY2MjAwNjgwNiwwMDAwMDAwMDMxYjJhZmUwOGY4NDliMjI4YjhjZDNhODhkZjA4ZjQ0",
   "tracks": [
     {
       "added_at": "2022-08-29 07:17:11",
@@ -291,6 +291,22 @@
     {
       "added_at": "2022-08-29 07:17:11",
       "album": {
+        "name": "\u7f8e",
+        "url": "https://open.spotify.com/album/2AnHAP4FN9Edjt3ZHGPkVG"
+      },
+      "artists": [
+        {
+          "name": "KIRE",
+          "url": "https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "\u7f8e",
+      "url": "https://open.spotify.com/track/7637Rypif3OgNpr8EZoCnf"
+    },
+    {
+      "added_at": "2022-08-29 07:17:11",
+      "album": {
         "name": "Thoughts Of You",
         "url": "https://open.spotify.com/album/2ZXNtjobXsbWgzcRlYGaPx"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 221443,
       "name": "\u5df4\u9ece\u7684\u5341\u4e8c\u9ede",
       "url": "https://open.spotify.com/track/4dVlQJVxsUNEL4lTSSwAJB"
-    },
-    {
-      "added_at": "2022-08-29 07:17:11",
-      "album": {
-        "name": "\u7f8e",
-        "url": "https://open.spotify.com/album/2AnHAP4FN9Edjt3ZHGPkVG"
-      },
-      "artists": [
-        {
-          "name": "KIRE",
-          "url": "https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "\u7f8e",
-      "url": "https://open.spotify.com/track/7637Rypif3OgNpr8EZoCnf"
     },
     {
       "added_at": "2022-08-29 07:17:11",
@@ -791,22 +791,6 @@
     {
       "added_at": "2022-08-29 07:17:11",
       "album": {
-        "name": "\u4e00\u6574\u4e2a\u7231\u4f4f\u4f60",
-        "url": "https://open.spotify.com/album/6cuddwe4icENbr7R6NvtIt"
-      },
-      "artists": [
-        {
-          "name": "\u9648\u4e00\u5f64",
-          "url": "https://open.spotify.com/artist/1QRNCzU7Xci4JwbwqfnD2d"
-        }
-      ],
-      "duration_ms": 207272,
-      "name": "\u4e00\u6574\u4e2a\u7231\u4f4f\u4f60",
-      "url": "https://open.spotify.com/track/0yyYSJBeXYNGa7TSgB8TJ7"
-    },
-    {
-      "added_at": "2022-08-29 07:17:11",
-      "album": {
         "name": "\u4e00\u5929 (\u96fb\u8996\u5287\u300a\u60f3\u898b\u4f60\u300b\u63d2\u66f2)",
         "url": "https://open.spotify.com/album/0gvJLsBulK413oR9BJTOUM"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 248629,
       "name": "\u4e00\u5929 (\u96fb\u8996\u5287\u300a\u60f3\u898b\u4f60\u300b\u63d2\u66f2)",
       "url": "https://open.spotify.com/track/4yJIECgIOgowfgAkPyvo2c"
+    },
+    {
+      "added_at": "2022-08-29 07:17:11",
+      "album": {
+        "name": "\u4e00\u6574\u4e2a\u7231\u4f4f\u4f60",
+        "url": "https://open.spotify.com/album/6cuddwe4icENbr7R6NvtIt"
+      },
+      "artists": [
+        {
+          "name": "\u9648\u4e00\u5f64",
+          "url": "https://open.spotify.com/artist/1QRNCzU7Xci4JwbwqfnD2d"
+        }
+      ],
+      "duration_ms": 207272,
+      "name": "\u4e00\u6574\u4e2a\u7231\u4f4f\u4f60",
+      "url": "https://open.spotify.com/track/0yyYSJBeXYNGa7TSgB8TJ7"
     },
     {
       "added_at": "2022-08-29 07:17:11",
@@ -871,26 +871,6 @@
     {
       "added_at": "2022-08-29 07:17:11",
       "album": {
-        "name": "\u975e\u914b",
-        "url": "https://open.spotify.com/album/3wXVp7uFmElrmsm65zAhzG"
-      },
-      "artists": [
-        {
-          "name": "\u859b\u660e\u5a9b",
-          "url": "https://open.spotify.com/artist/7j15ACuH4YxdpLiuBHvFAv"
-        },
-        {
-          "name": "\u6731\u8d3a",
-          "url": "https://open.spotify.com/artist/40So5hAPxfVdbVhafEMgA8"
-        }
-      ],
-      "duration_ms": 172200,
-      "name": "\u975e\u914b",
-      "url": "https://open.spotify.com/track/6PPqL3Oj5qzpTN8xG19W2z"
-    },
-    {
-      "added_at": "2022-08-29 07:17:11",
-      "album": {
         "name": "\u4e0d\u5b8c\u7f8e\u4e0d\u5f8c\u6094",
         "url": "https://open.spotify.com/album/443gH48fTBtHf7dHNyh4uW"
       },
@@ -907,6 +887,26 @@
       "duration_ms": 228228,
       "name": "\u4e0d\u5b8c\u7f8e\u4e0d\u5f8c\u6094",
       "url": "https://open.spotify.com/track/7enqjdBiOa8RK3P9NBIRz7"
+    },
+    {
+      "added_at": "2022-08-29 07:17:11",
+      "album": {
+        "name": "\u975e\u914b",
+        "url": "https://open.spotify.com/album/3wXVp7uFmElrmsm65zAhzG"
+      },
+      "artists": [
+        {
+          "name": "\u859b\u660e\u5a9b",
+          "url": "https://open.spotify.com/artist/7j15ACuH4YxdpLiuBHvFAv"
+        },
+        {
+          "name": "\u6731\u8d3a",
+          "url": "https://open.spotify.com/artist/40So5hAPxfVdbVhafEMgA8"
+        }
+      ],
+      "duration_ms": 172200,
+      "name": "\u975e\u914b",
+      "url": "https://open.spotify.com/track/6PPqL3Oj5qzpTN8xG19W2z"
     },
     {
       "added_at": "2022-08-29 07:17:11",
@@ -1263,6 +1263,26 @@
     {
       "added_at": "2022-08-29 07:17:11",
       "album": {
+        "name": "\u590f\u827217\u53f7-\u6bd4\u5c14\u7684\u6b4c",
+        "url": "https://open.spotify.com/album/0ZO8r4sN5eymZG4YMozKT1"
+      },
+      "artists": [
+        {
+          "name": "Bomb\u6bd4\u5c14",
+          "url": "https://open.spotify.com/artist/3Sb1u6CGLCWHHphMqX326E"
+        },
+        {
+          "name": "\u4e0d\u662f\u82b1\u706b\u5440",
+          "url": "https://open.spotify.com/artist/5CxdR3VSEWjiAa5DabdLVd"
+        }
+      ],
+      "duration_ms": 193469,
+      "name": "\u590f\u827217\u53f7-\u6bd4\u5c14\u7684\u6b4c",
+      "url": "https://open.spotify.com/track/5Dr6LweBUX9A0w4Fm0oaB0"
+    },
+    {
+      "added_at": "2022-08-29 07:17:11",
+      "album": {
         "name": "\u4e0d\u5b8c\u7f8e\u4eba\u751f\u6307\u5357",
         "url": "https://open.spotify.com/album/1wu8RmvWNBQN4vOQCq44KK"
       },
@@ -1279,22 +1299,6 @@
       "duration_ms": 227200,
       "name": "\u4ec0\u4e48\u8ddf\u4ec0\u4e48\u6709\u4ec0\u4e48\u5173\u7cfb",
       "url": "https://open.spotify.com/track/2JGEft6dySYE0qGMKbMbf6"
-    },
-    {
-      "added_at": "2022-08-29 07:17:11",
-      "album": {
-        "name": "\u6709\u7a7a\u8a18\u5f97\u7d04\u6211 (\u96fb\u8996\u96fb\u5f71\u300a\u96dc\u8ca8\u5e97\u300b\u4e3b\u984c\u66f2)",
-        "url": "https://open.spotify.com/album/4gFAG2ZXep3vHcqzDlt8PV"
-      },
-      "artists": [
-        {
-          "name": "The Freshman",
-          "url": "https://open.spotify.com/artist/2pZzvphS66rCxKBiJCrO9y"
-        }
-      ],
-      "duration_ms": 243520,
-      "name": "\u6709\u7a7a\u8a18\u5f97\u7d04\u6211 - \u96fb\u8996\u96fb\u5f71\u300a\u96dc\u8ca8\u5e97\u300b\u4e3b\u984c\u66f2",
-      "url": "https://open.spotify.com/track/1ruZAxKKU6x6fl7MKlkRfs"
     }
   ],
   "unique_name": "\u6696\u5fc3\u60c5\u6b4c",

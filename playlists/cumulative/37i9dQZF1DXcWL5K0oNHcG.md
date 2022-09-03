@@ -4,7 +4,7 @@
 
 > Fresh jazz by independent artists every Wednesday\. Cover: J\. White Artwork: Joy Yamusangie
 
-738 songs - 2 day 11 hr 46 min - [published](https://open.spotify.com/playlist/0wb3k7kBCUHVvVA8CRqr8x)
+739 songs - 2 day 11 hr 51 min - [published](https://open.spotify.com/playlist/0wb3k7kBCUHVvVA8CRqr8x)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [AVI](https://open.spotify.com/track/1XRBB4V63njU1Zne8leGUu) | [Ralph Heidel](https://open.spotify.com/artist/0bMg0IViAwAYQ5WUenR92H) | [AVI](https://open.spotify.com/album/0Cru2Scr6EShfOEO2cFHHv) | 5:05 | 2022-03-16 | 2022-04-21 |
 | [Avoid the Void](https://open.spotify.com/track/4iB4mfVeBS1DK5WW59jmV3) | [Ellipsis Quintet](https://open.spotify.com/artist/0AUVfEYoxFlalJQKfEuFof) | [Avoid the Void](https://open.spotify.com/album/3NXIdLJ1s49UBEil04i9wF) | 6:25 | 2022-05-25 | 2022-06-23 |
 | [Awareness](https://open.spotify.com/track/60Nrb78Usyi8OQldKp5Mo7) | [Kabir Dalawari](https://open.spotify.com/artist/23hPG6nUZjGxAeytioXw6j) | [Awareness](https://open.spotify.com/album/0pvrhIN1Tf3dXrZBUeCJV0) | 5:19 | 2022-03-09 | 2022-04-07 |
+| [Away](https://open.spotify.com/track/7BSGiGKf9IfhVRvvdFpyBh) | [FM EXPERIMENT](https://open.spotify.com/artist/66eDac0JXyReY3uG8W6c9F) | [Away](https://open.spotify.com/album/7McWabMN5DBrjkAawmQ0gZ) | 4:19 | 2022-08-31 |  |
 | [Baby Face](https://open.spotify.com/track/1FCbFhZ4PxGryp2NYqt3N8) | [Midwest Duplex](https://open.spotify.com/artist/5GTHNd9U0FynHuCzV5078L) | [Baby Face](https://open.spotify.com/album/2G1QuPpH23Ii2CD3Puu3j7) | 4:11 | 2022-06-22 | 2022-07-21 |
 | [Back into Space](https://open.spotify.com/track/3Io8fYuBkKtRCAV80N1BDy) | [Ryosuke Kojima](https://open.spotify.com/artist/1RvRcyEoFhC2hxNJ182Vi2) | [Back into Space](https://open.spotify.com/album/5vDRjgLpG543rxS5KRdSfR) | 4:11 | 2022-05-18 | 2022-06-16 |
 | [Back to the Future](https://open.spotify.com/track/2DJRXtc51sD6tC1qOLiQLl) | [Ludivine Issambourg](https://open.spotify.com/artist/7nuphNSch4dZshJyLgNixV), [Antiloops](https://open.spotify.com/artist/7xpNzqZV8QdDRSNA53fUAb) | [Back to the Future](https://open.spotify.com/album/1Prun5wLBaM7tfTEyJe2ap) | 3:24 | 2022-04-13 | 2022-05-12 |

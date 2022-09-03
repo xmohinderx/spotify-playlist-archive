@@ -2168,6 +2168,28 @@
     },
     {
       "album": {
+        "name": "Different (With Majid Jordan)",
+        "url": "https://open.spotify.com/album/0XRJnjejsA9YXjYGdek23k"
+      },
+      "artists": [
+        {
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+        },
+        {
+          "name": "Majid Jordan",
+          "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146400,
+      "name": "Different (With Majid Jordan)",
+      "url": "https://open.spotify.com/track/2U474RK9GnAqXXh5YqigaY"
+    },
+    {
+      "album": {
         "name": "Dirty Nikes",
         "url": "https://open.spotify.com/album/5YdFoNEcjwj1srs1l6nlmh"
       },
@@ -4362,6 +4384,24 @@
     },
     {
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2jsHeeW2DY8HuwZWmU1dvc"
+      },
+      "artists": [
+        {
+          "name": "dvsn",
+          "url": "https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211468,
+      "name": "If I Get Caught - Spotify Singles",
+      "url": "https://open.spotify.com/track/2B7ttNw5LpZxTcXAQ1u817"
+    },
+    {
+      "album": {
         "name": "Imported (with 6LACK)",
         "url": "https://open.spotify.com/album/29vt4BpW3GYX7hHCbFkhfg"
       },
@@ -4939,7 +4979,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 209133,
       "name": "Leave You Alone",
       "url": "https://open.spotify.com/track/0cNc0bSxmRVhAUJVYEd2Qk"
@@ -6315,7 +6355,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 160799,
       "name": "One Woman",
       "url": "https://open.spotify.com/track/7BglTfVmbUUOCQUNof4RBF"
@@ -6811,7 +6851,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 193279,
       "name": "Pressure",
       "url": "https://open.spotify.com/track/6ElfCM1XppU0YWkkFYh4s2"
@@ -7111,6 +7151,24 @@
       "duration_ms": 219686,
       "name": "Red Lights (feat. Wale)",
       "url": "https://open.spotify.com/track/0nzqv2KS3q7SMA2s18RbAJ"
+    },
+    {
+      "album": {
+        "name": "\"Awaken, My Love!\"",
+        "url": "https://open.spotify.com/album/4Carzsnpd6yvuHZ49I0oz8"
+      },
+      "artists": [
+        {
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326933,
+      "name": "Redbone",
+      "url": "https://open.spotify.com/track/0wXuerDYiBnERgIpbb3JBR"
     },
     {
       "album": {

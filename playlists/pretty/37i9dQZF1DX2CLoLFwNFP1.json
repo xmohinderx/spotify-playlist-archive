@@ -1,12 +1,12 @@
 {
   "description": "The hustle king and worldwide multi talent of Korean hip-hop/r&b.",
-  "num_followers": 3126,
+  "num_followers": 3215,
   "original_name": "This Is Jay Park",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDgzMzI3MiwwMDAwMDAwMDM1YTYzOWRiY2Y4ODZlMjJjZTAwMTIwMWVjOWU4NWU3",
+  "snapshot_id": "MTY2MDgzMzI3MiwwMDAwMDAwMDI1NDYxNmEzOTkwZTJmMWIxZjRmYmNhZGE0ZmZlMTBh",
   "tracks": [
     {
       "added_at": "2022-08-18 14:34:32",
@@ -1335,6 +1335,26 @@
     {
       "added_at": "2022-08-18 14:34:32",
       "album": {
+        "name": "K-TOWN",
+        "url": "https://open.spotify.com/album/0djg1pfwluHDX41m0NLmdF"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "Hit-Boy",
+          "url": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
+        }
+      ],
+      "duration_ms": 123280,
+      "name": "K-TOWN",
+      "url": "https://open.spotify.com/track/4PBYhNbFFXPcwXYUCMUTeF"
+    },
+    {
+      "added_at": "2022-08-18 14:34:32",
+      "album": {
         "name": "Worldwide",
         "url": "https://open.spotify.com/album/5vESroqrGYDxDPAwUceQxf"
       },
@@ -1391,26 +1411,6 @@
       "duration_ms": 237903,
       "name": "My Last",
       "url": "https://open.spotify.com/track/2LTLUWY6bTkBZD5OAqhkuI"
-    },
-    {
-      "added_at": "2022-08-18 14:34:32",
-      "album": {
-        "name": "K-TOWN",
-        "url": "https://open.spotify.com/album/0djg1pfwluHDX41m0NLmdF"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "Hit-Boy",
-          "url": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
-        }
-      ],
-      "duration_ms": 123280,
-      "name": "K-TOWN",
-      "url": "https://open.spotify.com/track/4PBYhNbFFXPcwXYUCMUTeF"
     },
     {
       "added_at": "2022-08-18 14:34:32",
@@ -1628,13 +1628,13 @@
           "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
         },
         {
-          "name": "VIC MENSA",
-          "url": "https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG"
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
         }
       ],
-      "duration_ms": 198893,
-      "name": "Yacht (feat. Vic Mensa)",
-      "url": "https://open.spotify.com/track/4qyXiEXiOfSxqn3YrY0NKW"
+      "duration_ms": 228840,
+      "name": "SOJU (feat. 2 Chainz)",
+      "url": "https://open.spotify.com/track/1fRIaQ4nHZF5FybsAsqKZz"
     },
     {
       "added_at": "2022-08-18 14:34:32",
@@ -1648,13 +1648,13 @@
           "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
         },
         {
-          "name": "2 Chainz",
-          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+          "name": "VIC MENSA",
+          "url": "https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG"
         }
       ],
-      "duration_ms": 228840,
-      "name": "SOJU (feat. 2 Chainz)",
-      "url": "https://open.spotify.com/track/1fRIaQ4nHZF5FybsAsqKZz"
+      "duration_ms": 198893,
+      "name": "Yacht (feat. Vic Mensa)",
+      "url": "https://open.spotify.com/track/4qyXiEXiOfSxqn3YrY0NKW"
     },
     {
       "added_at": "2022-08-18 14:34:32",
@@ -1875,30 +1875,6 @@
     {
       "added_at": "2022-08-18 14:34:32",
       "album": {
-        "name": "REBORN",
-        "url": "https://open.spotify.com/album/5QOZlmEou75NZ0QsFLkfZq"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "ILLSON",
-          "url": "https://open.spotify.com/artist/1o3mKG33qvuXI2s3HXTkYd"
-        },
-        {
-          "name": "Boi B",
-          "url": "https://open.spotify.com/artist/7MJnvH71CgBGCN9obN4aY5"
-        }
-      ],
-      "duration_ms": 235364,
-      "name": "REBORN",
-      "url": "https://open.spotify.com/track/3j5P08hfKY8oUSARXvmjjZ"
-    },
-    {
-      "added_at": "2022-08-18 14:34:32",
-      "album": {
         "name": "Ask Bout Me",
         "url": "https://open.spotify.com/album/6XlL7j4p0WXpm1y8HqnBmM"
       },
@@ -1919,6 +1895,30 @@
       "duration_ms": 231360,
       "name": "FSU (feat. GASHI & Rich The Kid)",
       "url": "https://open.spotify.com/track/0nJnzVlIJV3vqckZ06PeaM"
+    },
+    {
+      "added_at": "2022-08-18 14:34:32",
+      "album": {
+        "name": "REBORN",
+        "url": "https://open.spotify.com/album/5QOZlmEou75NZ0QsFLkfZq"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "ILLSON",
+          "url": "https://open.spotify.com/artist/1o3mKG33qvuXI2s3HXTkYd"
+        },
+        {
+          "name": "Boi B",
+          "url": "https://open.spotify.com/artist/7MJnvH71CgBGCN9obN4aY5"
+        }
+      ],
+      "duration_ms": 235364,
+      "name": "REBORN",
+      "url": "https://open.spotify.com/track/3j5P08hfKY8oUSARXvmjjZ"
     },
     {
       "added_at": "2022-08-18 14:34:32",
@@ -1999,8 +1999,8 @@
     {
       "added_at": "2022-08-18 14:34:32",
       "album": {
-        "name": "EVERYTHING YOU WANTED",
-        "url": "https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2"
+        "name": "Worldwide",
+        "url": "https://open.spotify.com/album/5vESroqrGYDxDPAwUceQxf"
       },
       "artists": [
         {
@@ -2008,13 +2008,13 @@
           "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
         },
         {
-          "name": "Cha Cha Malone",
-          "url": "https://open.spotify.com/artist/7632p5JJi58r3q9GfhqSyF"
+          "name": "DJ Wegun",
+          "url": "https://open.spotify.com/artist/7p552gLGzaDKXB5sETgTEP"
         }
       ],
-      "duration_ms": 230414,
-      "name": "Feature (Feat. Cha Cha Malone)",
-      "url": "https://open.spotify.com/track/4slKa6L7iKXdQSgGJxKe8S"
+      "duration_ms": 224564,
+      "name": "ON IT",
+      "url": "https://open.spotify.com/track/7itI01MnLETtK0rn2JR7o8"
     },
     {
       "added_at": "2022-08-18 14:34:32",
@@ -2043,42 +2043,6 @@
     {
       "added_at": "2022-08-18 14:34:32",
       "album": {
-        "name": "Ask Bout Me",
-        "url": "https://open.spotify.com/album/6XlL7j4p0WXpm1y8HqnBmM"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 268066,
-      "name": "Million",
-      "url": "https://open.spotify.com/track/7gw9EmECP4BXUvQdhY5HPq"
-    },
-    {
-      "added_at": "2022-08-18 14:34:32",
-      "album": {
-        "name": "Worldwide",
-        "url": "https://open.spotify.com/album/5vESroqrGYDxDPAwUceQxf"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "DJ Wegun",
-          "url": "https://open.spotify.com/artist/7p552gLGzaDKXB5sETgTEP"
-        }
-      ],
-      "duration_ms": 224564,
-      "name": "ON IT",
-      "url": "https://open.spotify.com/track/7itI01MnLETtK0rn2JR7o8"
-    },
-    {
-      "added_at": "2022-08-18 14:34:32",
-      "album": {
         "name": "Worldwide",
         "url": "https://open.spotify.com/album/5vESroqrGYDxDPAwUceQxf"
       },
@@ -2091,6 +2055,42 @@
       "duration_ms": 256642,
       "name": "In This B*tch",
       "url": "https://open.spotify.com/track/5Dy4Aj5VdMdHElLSXLhWLZ"
+    },
+    {
+      "added_at": "2022-08-18 14:34:32",
+      "album": {
+        "name": "EVERYTHING YOU WANTED",
+        "url": "https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "Cha Cha Malone",
+          "url": "https://open.spotify.com/artist/7632p5JJi58r3q9GfhqSyF"
+        }
+      ],
+      "duration_ms": 230414,
+      "name": "Feature (Feat. Cha Cha Malone)",
+      "url": "https://open.spotify.com/track/4slKa6L7iKXdQSgGJxKe8S"
+    },
+    {
+      "added_at": "2022-08-18 14:34:32",
+      "album": {
+        "name": "Ask Bout Me",
+        "url": "https://open.spotify.com/album/6XlL7j4p0WXpm1y8HqnBmM"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 268066,
+      "name": "Million",
+      "url": "https://open.spotify.com/track/7gw9EmECP4BXUvQdhY5HPq"
     },
     {
       "added_at": "2022-08-18 14:34:32",
@@ -2139,34 +2139,6 @@
     {
       "added_at": "2022-08-18 14:34:32",
       "album": {
-        "name": "SOJU (Remix)",
-        "url": "https://open.spotify.com/album/5up3gHITO86zXeGtDm79K8"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "Simon Dominic",
-          "url": "https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN"
-        },
-        {
-          "name": "CHANGMO",
-          "url": "https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b"
-        },
-        {
-          "name": "Woodie Gochild",
-          "url": "https://open.spotify.com/artist/6iLGJqxVgxxWsJe5bW4dxt"
-        }
-      ],
-      "duration_ms": 318747,
-      "name": "SOJU - Remix",
-      "url": "https://open.spotify.com/track/4QuqMDWbg2poF8ytkH6pCm"
-    },
-    {
-      "added_at": "2022-08-18 14:34:32",
-      "album": {
         "name": "Worldwide",
         "url": "https://open.spotify.com/album/5vESroqrGYDxDPAwUceQxf"
       },
@@ -2195,8 +2167,8 @@
     {
       "added_at": "2022-08-18 14:34:32",
       "album": {
-        "name": "Nothing Matters",
-        "url": "https://open.spotify.com/album/04CIIYIudc1AOT3zK74eOn"
+        "name": "SOJU (Remix)",
+        "url": "https://open.spotify.com/album/5up3gHITO86zXeGtDm79K8"
       },
       "artists": [
         {
@@ -2204,17 +2176,45 @@
           "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
         },
         {
-          "name": "HAON",
-          "url": "https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9"
+          "name": "Simon Dominic",
+          "url": "https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN"
         },
         {
-          "name": "YUMDDA",
-          "url": "https://open.spotify.com/artist/0su5mZ6qhvOUhz7ckEx8rR"
+          "name": "CHANGMO",
+          "url": "https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b"
+        },
+        {
+          "name": "Woodie Gochild",
+          "url": "https://open.spotify.com/artist/6iLGJqxVgxxWsJe5bW4dxt"
         }
       ],
-      "duration_ms": 219088,
-      "name": "All Day (Flex) [Prod. by OkayJJack]",
-      "url": "https://open.spotify.com/track/5FbiD78OtBrsaX8KP5DmDP"
+      "duration_ms": 318747,
+      "name": "SOJU - Remix",
+      "url": "https://open.spotify.com/track/4QuqMDWbg2poF8ytkH6pCm"
+    },
+    {
+      "added_at": "2022-08-18 14:34:32",
+      "album": {
+        "name": "Evolution",
+        "url": "https://open.spotify.com/album/5ikIgNGFVc8nwQ8Xzsg1p4"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "Simon Dominic",
+          "url": "https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN"
+        },
+        {
+          "name": "GRAY",
+          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
+        }
+      ],
+      "duration_ms": 238102,
+      "name": "Metronome",
+      "url": "https://open.spotify.com/track/3rtOtOEXkzo6tjEfr1IrqZ"
     }
   ],
   "unique_name": "This Is Jay Park",

@@ -587,6 +587,24 @@
     {
       "album": {
         "name": "Before I Go",
+        "url": "https://open.spotify.com/album/1t8UZRcZbRmtDjH6a0tD9S"
+      },
+      "artists": [
+        {
+          "name": "Mimi Webb",
+          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187815,
+      "name": "Before I Go",
+      "url": "https://open.spotify.com/track/6k9s52t7GyxRA4mNDERlwH"
+    },
+    {
+      "album": {
+        "name": "Before I Go",
         "url": "https://open.spotify.com/album/3ezPKT7pWBH4mgAUJcVUQS"
       },
       "artists": [
@@ -3773,7 +3791,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 169666,
       "name": "Lost",
       "url": "https://open.spotify.com/track/1hiheFL9zaexJXxhQ4cAZA"

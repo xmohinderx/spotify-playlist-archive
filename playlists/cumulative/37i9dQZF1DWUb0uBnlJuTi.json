@@ -841,7 +841,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 594133,
       "name": "Cloudburst",
       "url": "https://open.spotify.com/track/7iSSsyuZwrBrw9f3hernoc"
@@ -2515,6 +2515,32 @@
       "duration_ms": 219173,
       "name": "Mr. Funky samba",
       "url": "https://open.spotify.com/track/4SXWXupjFY49tbQWCG5rFf"
+    },
+    {
+      "album": {
+        "name": "MXC.MMBL",
+        "url": "https://open.spotify.com/album/6z0B2ceHgNNQ8beB2ZyAVK"
+      },
+      "artists": [
+        {
+          "name": "Unc D",
+          "url": "https://open.spotify.com/artist/4nYyzsmTazjKFqRPQCuBCO"
+        },
+        {
+          "name": "Thin Thicket",
+          "url": "https://open.spotify.com/artist/40Wb8U0vUhR1a7UQXCJ9Ng"
+        },
+        {
+          "name": "Damon Soulful Samurai Poole",
+          "url": "https://open.spotify.com/artist/7JDkG25Uyz1ozs0PPcvvoQ"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157333,
+      "name": "MXC.MMBL",
+      "url": "https://open.spotify.com/track/6Sxnxm8dsA7SSNtT1TVtPK"
     },
     {
       "album": {

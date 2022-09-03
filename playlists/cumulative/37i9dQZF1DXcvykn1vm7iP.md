@@ -4,7 +4,7 @@
 
 > Beautiful, uplifting Ambient for being in the moment.
 
-76 songs - 3 hr 43 min - [published](https://open.spotify.com/playlist/4IVbdAUmvNe0Yl83P8wD6V)
+78 songs - 3 hr 49 min - [published](https://open.spotify.com/playlist/4IVbdAUmvNe0Yl83P8wD6V)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Circle Of Everything](https://open.spotify.com/track/3rydBdAYaK1gslIS8JSm5D) | [Dance Of Centuries](https://open.spotify.com/artist/5y6jYkmnAqeXseHx3earZD) | [Circle Of Everything](https://open.spotify.com/album/0wHGczI6bIhfsYgCB0niAL) | 2:42 | 2022-08-05 |  |
 | [Clear Path](https://open.spotify.com/track/2tCmr9BYhSjQilIomSM8EI) | [William Francisco](https://open.spotify.com/artist/2jQwLGGaI5zOgqc5SiMp7V) | [Clear Path](https://open.spotify.com/album/10tajn5McEnxj6z3B5KOqN) | 3:02 | 2022-08-05 |  |
 | [Clear Vista](https://open.spotify.com/track/44ztxC2QwDByUgrB5TTpxt) | [Alice Torrence](https://open.spotify.com/artist/5c14a0TXRif4CrCsHgYh3E) | [Clear Vista](https://open.spotify.com/album/1KJfyjN6iDu1s6Ax9sYC41) | 2:13 | 2022-08-05 |  |
+| [Consapevolezza](https://open.spotify.com/track/63kxLIjDG9maJO1T1oxVoP) | [Dormiente](https://open.spotify.com/artist/5CsUyEbyQ9JoZLTaP9HJhu) | [Consapevolezza](https://open.spotify.com/album/5miTWb698z08O6V5pxTc8X) | 2:34 | 2022-09-02 |  |
 | [Consolation](https://open.spotify.com/track/6aZui1qCJi7owqT0AANuHb) | [Atmospheric Lights](https://open.spotify.com/artist/65IYpN2ZX0vQzO3JRCpNHX) | [Consolation](https://open.spotify.com/album/2nlJZihKLK6FiycKLEMaQd) | 3:16 | 2022-08-11 |  |
 | [Dagdraumur](https://open.spotify.com/track/4vpUme6bonH4EPwMxBBLOP) | [Arnkatla](https://open.spotify.com/artist/66neAkEGsYZ4onMSMHMSbC) | [Dagdraumur](https://open.spotify.com/album/2mwJKpI6depPe7yzYAIzGT) | 2:46 | 2022-08-05 |  |
 | [Decoder](https://open.spotify.com/track/5qzcXIVuKxOwtMbXYils8n) | [Margaret Phineas](https://open.spotify.com/artist/2O6ryyAOlxGJZqANs7wtoK) | [Hobart](https://open.spotify.com/album/5KTEcDkNtEDdPPBMSqzCqC) | 3:16 | 2022-08-05 |  |
@@ -57,6 +58,7 @@
 | [Peaceful Harmony](https://open.spotify.com/track/5YXMvnrosh3tVYusmR8lyb) | [Jasmine Bordeaux](https://open.spotify.com/artist/5kxIHAETC8i2dwHZOASyVD) | [Peaceful Harmony](https://open.spotify.com/album/6yigwF9cIfuoVoWwhf1YET) | 2:15 | 2022-08-05 |  |
 | [Petribungi](https://open.spotify.com/track/57kdkW0uoj8wZkKj6J6ucp) | [Numerorum mysteria](https://open.spotify.com/artist/3DAhwqtZw5k7ygr3JxFuKL) | [Petribungi](https://open.spotify.com/album/5QTxoUuOXKWxpeXbLKyRhP) | 3:36 | 2022-08-05 |  |
 | [Petrichor](https://open.spotify.com/track/5nDE13yxQhHjYUCfZs2KYL) | [Gus Pachis](https://open.spotify.com/artist/0NOlCBBabcH18ynPm8D9Mp) | [Petrichor](https://open.spotify.com/album/7EbaELvX8k5l6RLs2MvwoQ) | 2:57 | 2022-08-05 |  |
+| [Pojď se mnou](https://open.spotify.com/track/1s8Nw1IcBENpU7pIGOH8Uk) | [Václav Slezák](https://open.spotify.com/artist/3VHBfS16hX93D0BLGwraUz) | [Pojď se mnou](https://open.spotify.com/album/5fTi5LgFPvSVBBEMAJRL6s) | 3:05 | 2022-09-02 |  |
 | [Reflexion](https://open.spotify.com/track/5GYechptfXvISLcJKLMB0l) | [DEX 1200](https://open.spotify.com/artist/2roONpdgmZHRTpr1IFNw0d) | [Reflexion](https://open.spotify.com/album/75xsR4b1EL3pkChLyo1VGG) | 3:08 | 2022-08-05 |  |
 | [Rejuvenate](https://open.spotify.com/track/2BMsZTRgwxpLN4tQFSUcSo) | [D/S/T/N/C/E](https://open.spotify.com/artist/6aOdz7c7KzcgQfsfDYETIT) | [Rejuvenate](https://open.spotify.com/album/0ovPC1p3FWLW1NHSgiobYf) | 3:13 | 2022-08-05 |  |
 | [Revolve](https://open.spotify.com/track/0X33Oo6yg2qlTsrFiH1qta) | [Sleepless Eye](https://open.spotify.com/artist/0q1jgFxjleKLegFYRiyPxS) | [Revolve](https://open.spotify.com/album/5x1eSN3IFw7QEbT9sm44w2) | 3:07 | 2022-08-05 |  |

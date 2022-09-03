@@ -1,12 +1,12 @@
 {
   "description": "Channel some chilled-out back yard vibes.",
-  "num_followers": 852146,
+  "num_followers": 851878,
   "original_name": "Chill Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDQ4MzM4OCwwMDAwMDAwMGZlNTRiMzEyMDNiZGRmNTUzNmEzN2Q5NDRjMjEzMWVk",
+  "snapshot_id": "MTY1MDQ4MzM4OCwwMDAwMDAwMDBkMTAxNzYwZTdlMGI4MGE3ZTViMzg4MmQ3ZDhlZjVl",
   "tracks": [
     {
       "added_at": "2022-04-15 04:00:00",
@@ -91,22 +91,6 @@
     {
       "added_at": "2022-04-15 04:00:00",
       "album": {
-        "name": "Sidelines",
-        "url": "https://open.spotify.com/album/4R09OvFyz47HfjecIjoEtP"
-      },
-      "artists": [
-        {
-          "name": "Wild Rivers",
-          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
-        }
-      ],
-      "duration_ms": 213920,
-      "name": "Amsterdam",
-      "url": "https://open.spotify.com/track/52BtapS0Wy7LM8R6QvJRpp"
-    },
-    {
-      "added_at": "2022-04-15 04:00:00",
-      "album": {
         "name": "Tearing At The Seams",
         "url": "https://open.spotify.com/album/6d0PPZVxoyKN3VlFrzsKYp"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 214160,
       "name": "You Worry Me",
       "url": "https://open.spotify.com/track/7ADBL3WZ9Oyj7zgkg7ODT8"
+    },
+    {
+      "added_at": "2022-04-15 04:00:00",
+      "album": {
+        "name": "Sidelines",
+        "url": "https://open.spotify.com/album/4R09OvFyz47HfjecIjoEtP"
+      },
+      "artists": [
+        {
+          "name": "Wild Rivers",
+          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
+        }
+      ],
+      "duration_ms": 213920,
+      "name": "Amsterdam",
+      "url": "https://open.spotify.com/track/52BtapS0Wy7LM8R6QvJRpp"
     },
     {
       "added_at": "2022-04-15 04:00:00",
@@ -615,8 +615,8 @@
     {
       "added_at": "2022-04-15 04:00:00",
       "album": {
-        "name": "Tides of a Teardrop",
-        "url": "https://open.spotify.com/album/09NM7gTdr3ij71aksxr4Qs"
+        "name": "New Star",
+        "url": "https://open.spotify.com/album/3zRIyC1QFzYOxRuuocyOt3"
       },
       "artists": [
         {
@@ -624,9 +624,9 @@
           "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
         }
       ],
-      "duration_ms": 245653,
-      "name": "The Wolves",
-      "url": "https://open.spotify.com/track/6Q4GtzdnpQohD8JtEzRW1R"
+      "duration_ms": 185728,
+      "name": "New Star",
+      "url": "https://open.spotify.com/track/3PUln07oXes6xzvFFBnPO1"
     },
     {
       "added_at": "2022-04-15 04:00:00",
@@ -699,22 +699,6 @@
     {
       "added_at": "2022-04-15 04:00:00",
       "album": {
-        "name": "Slow Reveal: Chapter One",
-        "url": "https://open.spotify.com/album/5iTODzVpwUxEctZCqOo15s"
-      },
-      "artists": [
-        {
-          "name": "Dekker",
-          "url": "https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN"
-        }
-      ],
-      "duration_ms": 158948,
-      "name": "The Love",
-      "url": "https://open.spotify.com/track/1WWF1IGjA7VjAFjnpaNoRI"
-    },
-    {
-      "added_at": "2022-04-15 04:00:00",
-      "album": {
         "name": "Neptune",
         "url": "https://open.spotify.com/album/2PaNkZV2WVwOMoRWR7V9cS"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 244960,
       "name": "Horse to Water",
       "url": "https://open.spotify.com/track/0szmjOw9XbtbQYWz0GvXSp"
+    },
+    {
+      "added_at": "2022-04-15 04:00:00",
+      "album": {
+        "name": "Slow Reveal: Chapter One",
+        "url": "https://open.spotify.com/album/5iTODzVpwUxEctZCqOo15s"
+      },
+      "artists": [
+        {
+          "name": "Dekker",
+          "url": "https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN"
+        }
+      ],
+      "duration_ms": 158948,
+      "name": "The Love",
+      "url": "https://open.spotify.com/track/1WWF1IGjA7VjAFjnpaNoRI"
     },
     {
       "added_at": "2022-04-15 04:00:00",
@@ -747,8 +747,8 @@
     {
       "added_at": "2022-04-15 04:00:00",
       "album": {
-        "name": "New Star",
-        "url": "https://open.spotify.com/album/3zRIyC1QFzYOxRuuocyOt3"
+        "name": "Tides of a Teardrop",
+        "url": "https://open.spotify.com/album/09NM7gTdr3ij71aksxr4Qs"
       },
       "artists": [
         {
@@ -756,9 +756,9 @@
           "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
         }
       ],
-      "duration_ms": 185728,
-      "name": "New Star",
-      "url": "https://open.spotify.com/track/3PUln07oXes6xzvFFBnPO1"
+      "duration_ms": 245653,
+      "name": "The Wolves",
+      "url": "https://open.spotify.com/track/6Q4GtzdnpQohD8JtEzRW1R"
     },
     {
       "added_at": "2022-04-15 04:00:00",
@@ -859,22 +859,6 @@
     {
       "added_at": "2022-04-15 04:00:00",
       "album": {
-        "name": "Before the Bridge",
-        "url": "https://open.spotify.com/album/3xY0Wdf37DDDWjyi89g9pj"
-      },
-      "artists": [
-        {
-          "name": "Eddie Berman",
-          "url": "https://open.spotify.com/artist/7FfxvcUIbQ1VxrApeoq8ql"
-        }
-      ],
-      "duration_ms": 229800,
-      "name": "Easy Rider",
-      "url": "https://open.spotify.com/track/16bjzffqGoXKFQ5DYJlsxU"
-    },
-    {
-      "added_at": "2022-04-15 04:00:00",
-      "album": {
         "name": "Mipso",
         "url": "https://open.spotify.com/album/71wj7iB4JXxUUTPosOpXMM"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 215040,
       "name": "Caroline",
       "url": "https://open.spotify.com/track/0laEXE6mKdErCC67yhsHaO"
+    },
+    {
+      "added_at": "2022-04-15 04:00:00",
+      "album": {
+        "name": "Before the Bridge",
+        "url": "https://open.spotify.com/album/3xY0Wdf37DDDWjyi89g9pj"
+      },
+      "artists": [
+        {
+          "name": "Eddie Berman",
+          "url": "https://open.spotify.com/artist/7FfxvcUIbQ1VxrApeoq8ql"
+        }
+      ],
+      "duration_ms": 229800,
+      "name": "Easy Rider",
+      "url": "https://open.spotify.com/track/16bjzffqGoXKFQ5DYJlsxU"
     },
     {
       "added_at": "2022-04-15 04:00:00",
@@ -955,22 +955,6 @@
     {
       "added_at": "2022-04-15 04:00:00",
       "album": {
-        "name": "Because I Wanted You to Know",
-        "url": "https://open.spotify.com/album/4t4kHyQ0DvmfYYHJITb9l8"
-      },
-      "artists": [
-        {
-          "name": "Matilda Mann",
-          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
-        }
-      ],
-      "duration_ms": 184301,
-      "name": "As It Is",
-      "url": "https://open.spotify.com/track/3nqhacrhmERFCAO6YTCAMB"
-    },
-    {
-      "added_at": "2022-04-15 04:00:00",
-      "album": {
         "name": "Need You",
         "url": "https://open.spotify.com/album/5AmqUjMfw0VoXNaP5VgFQQ"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 189282,
       "name": "Need You",
       "url": "https://open.spotify.com/track/1i9yDwcpeOaM96zODWnqZn"
+    },
+    {
+      "added_at": "2022-04-15 04:00:00",
+      "album": {
+        "name": "Because I Wanted You to Know",
+        "url": "https://open.spotify.com/album/4t4kHyQ0DvmfYYHJITb9l8"
+      },
+      "artists": [
+        {
+          "name": "Matilda Mann",
+          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
+        }
+      ],
+      "duration_ms": 184301,
+      "name": "As It Is",
+      "url": "https://open.spotify.com/track/3nqhacrhmERFCAO6YTCAMB"
     },
     {
       "added_at": "2022-04-15 04:00:00",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2022-04-15 04:00:00",
       "album": {
-        "name": "Barchords",
-        "url": "https://open.spotify.com/album/753yeghJKIjYDaLbJB2ZW9"
-      },
-      "artists": [
-        {
-          "name": "Bahamas",
-          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
-        }
-      ],
-      "duration_ms": 236720,
-      "name": "Lost In The Light",
-      "url": "https://open.spotify.com/track/25J4d78ESH2MgAJoIakB8O"
-    },
-    {
-      "added_at": "2022-04-15 04:00:00",
-      "album": {
         "name": "Imaginary Man",
         "url": "https://open.spotify.com/album/72YUTJrAuTuSHSVrgixbor"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 223440,
       "name": "Mr. Rodriguez",
       "url": "https://open.spotify.com/track/5aXYNj2v1ut661U0HLT6fP"
+    },
+    {
+      "added_at": "2022-04-15 04:00:00",
+      "album": {
+        "name": "Barchords",
+        "url": "https://open.spotify.com/album/753yeghJKIjYDaLbJB2ZW9"
+      },
+      "artists": [
+        {
+          "name": "Bahamas",
+          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
+        }
+      ],
+      "duration_ms": 236720,
+      "name": "Lost In The Light",
+      "url": "https://open.spotify.com/track/25J4d78ESH2MgAJoIakB8O"
     },
     {
       "added_at": "2022-04-15 04:00:00",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2022-04-15 04:00:00",
       "album": {
+        "name": "Marchita",
+        "url": "https://open.spotify.com/album/34e3bWZtXnZl19dJYOx6zE"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 207786,
+      "name": "Ser De Ti",
+      "url": "https://open.spotify.com/track/2E7zPND4kJd1y3KSWez0ET"
+    },
+    {
+      "added_at": "2022-04-15 04:00:00",
+      "album": {
         "name": "America",
         "url": "https://open.spotify.com/album/7m8l1V5XSWHN7QF6cDDYby"
       },
@@ -1195,22 +1211,6 @@
       "duration_ms": 251733,
       "name": "America",
       "url": "https://open.spotify.com/track/1inPvlZzUNG4hqYxLLEF0W"
-    },
-    {
-      "added_at": "2022-04-15 04:00:00",
-      "album": {
-        "name": "Marchita",
-        "url": "https://open.spotify.com/album/34e3bWZtXnZl19dJYOx6zE"
-      },
-      "artists": [
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        }
-      ],
-      "duration_ms": 207786,
-      "name": "Ser De Ti",
-      "url": "https://open.spotify.com/track/2E7zPND4kJd1y3KSWez0ET"
     },
     {
       "added_at": "2022-04-15 04:00:00",
@@ -1247,6 +1247,26 @@
     {
       "added_at": "2022-04-15 04:00:00",
       "album": {
+        "name": "A Mermaid in Lisbon",
+        "url": "https://open.spotify.com/album/1NnqLqMQgh9ftyQPtUuKJd"
+      },
+      "artists": [
+        {
+          "name": "Patrick Watson",
+          "url": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
+        },
+        {
+          "name": "Teresa Salgueiro",
+          "url": "https://open.spotify.com/artist/49W26EcOwY0UdytNfa3zGH"
+        }
+      ],
+      "duration_ms": 208649,
+      "name": "A Mermaid in Lisbon",
+      "url": "https://open.spotify.com/track/6A8BvPrNOo5l1j3c80KhAb"
+    },
+    {
+      "added_at": "2022-04-15 04:00:00",
+      "album": {
         "name": "Nightflyer",
         "url": "https://open.spotify.com/album/0eINi61xfEo3l5Eeztkrzx"
       },
@@ -1259,6 +1279,22 @@
       "duration_ms": 295546,
       "name": "Nightflyer",
       "url": "https://open.spotify.com/track/2Y6JBUc0T7EW2VAA1p9acN"
+    },
+    {
+      "added_at": "2022-04-15 04:00:00",
+      "album": {
+        "name": "Inwards & Onwards",
+        "url": "https://open.spotify.com/album/29j0NVMwzc0qypaxuQlIoK"
+      },
+      "artists": [
+        {
+          "name": "Half Moon Run",
+          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
+        }
+      ],
+      "duration_ms": 138939,
+      "name": "How Come My Body",
+      "url": "https://open.spotify.com/track/1q5uVotoogbJqqJmb0apbx"
     },
     {
       "added_at": "2022-04-15 04:00:00",
@@ -1295,42 +1331,6 @@
     {
       "added_at": "2022-04-15 04:00:00",
       "album": {
-        "name": "A Mermaid in Lisbon",
-        "url": "https://open.spotify.com/album/1NnqLqMQgh9ftyQPtUuKJd"
-      },
-      "artists": [
-        {
-          "name": "Patrick Watson",
-          "url": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
-        },
-        {
-          "name": "Teresa Salgueiro",
-          "url": "https://open.spotify.com/artist/49W26EcOwY0UdytNfa3zGH"
-        }
-      ],
-      "duration_ms": 208649,
-      "name": "A Mermaid in Lisbon",
-      "url": "https://open.spotify.com/track/6A8BvPrNOo5l1j3c80KhAb"
-    },
-    {
-      "added_at": "2022-04-15 04:00:00",
-      "album": {
-        "name": "Inwards & Onwards",
-        "url": "https://open.spotify.com/album/29j0NVMwzc0qypaxuQlIoK"
-      },
-      "artists": [
-        {
-          "name": "Half Moon Run",
-          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
-        }
-      ],
-      "duration_ms": 138939,
-      "name": "How Come My Body",
-      "url": "https://open.spotify.com/track/1q5uVotoogbJqqJmb0apbx"
-    },
-    {
-      "added_at": "2022-04-15 04:00:00",
-      "album": {
         "name": "Flag Day (Original Soundtrack)",
         "url": "https://open.spotify.com/album/6y8qx4wS06EbInD9x8q5Xx"
       },
@@ -1343,6 +1343,22 @@
       "duration_ms": 212546,
       "name": "I Think Of Angels",
       "url": "https://open.spotify.com/track/2OiTeK0Cjs1zGu6ZiA4yC2"
+    },
+    {
+      "added_at": "2022-04-15 04:00:00",
+      "album": {
+        "name": "Good Woman",
+        "url": "https://open.spotify.com/album/6b3CgvhvJFT6asCeHiOF3M"
+      },
+      "artists": [
+        {
+          "name": "The Staves",
+          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
+        }
+      ],
+      "duration_ms": 197640,
+      "name": "Good Woman",
+      "url": "https://open.spotify.com/track/6hZ3wAZGh5yQcZMxDXnTL3"
     },
     {
       "added_at": "2022-04-15 04:00:00",
@@ -1367,18 +1383,18 @@
     {
       "added_at": "2022-04-15 04:00:00",
       "album": {
-        "name": "Good Woman",
-        "url": "https://open.spotify.com/album/6b3CgvhvJFT6asCeHiOF3M"
+        "name": "Local Valley",
+        "url": "https://open.spotify.com/album/6FtOADddclxzVHrpqCe79m"
       },
       "artists": [
         {
-          "name": "The Staves",
-          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
+          "name": "Jos\u00e9 Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
         }
       ],
-      "duration_ms": 197640,
-      "name": "Good Woman",
-      "url": "https://open.spotify.com/track/6hZ3wAZGh5yQcZMxDXnTL3"
+      "duration_ms": 153413,
+      "name": "El Invento",
+      "url": "https://open.spotify.com/track/23CYKO5L1wUGng3TL37fq0"
     },
     {
       "added_at": "2022-04-15 04:00:00",
@@ -1395,22 +1411,6 @@
       "duration_ms": 221000,
       "name": "Burden",
       "url": "https://open.spotify.com/track/7HOTm58hiTnCjpSJq4OvJs"
-    },
-    {
-      "added_at": "2022-04-15 04:00:00",
-      "album": {
-        "name": "Local Valley",
-        "url": "https://open.spotify.com/album/6FtOADddclxzVHrpqCe79m"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
-        }
-      ],
-      "duration_ms": 153413,
-      "name": "El Invento",
-      "url": "https://open.spotify.com/track/23CYKO5L1wUGng3TL37fq0"
     },
     {
       "added_at": "2022-04-15 04:00:00",
@@ -1563,6 +1563,22 @@
     {
       "added_at": "2022-04-15 04:00:00",
       "album": {
+        "name": "Motivational Speaking",
+        "url": "https://open.spotify.com/album/0XMWbprQxPKfQKU3i8AyAl"
+      },
+      "artists": [
+        {
+          "name": "Old Sea Brigade",
+          "url": "https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45"
+        }
+      ],
+      "duration_ms": 242400,
+      "name": "Salt",
+      "url": "https://open.spotify.com/track/7xD1cDSRz033zGBBTW6z2q"
+    },
+    {
+      "added_at": "2022-04-15 04:00:00",
+      "album": {
         "name": "Shenandoah Shakedown",
         "url": "https://open.spotify.com/album/5oHKjSgvLaRyydVKFYwA79"
       },
@@ -1591,22 +1607,6 @@
       "duration_ms": 183205,
       "name": "Jah Werx",
       "url": "https://open.spotify.com/track/0epaptkWK7BHkHJheQJtZ4"
-    },
-    {
-      "added_at": "2022-04-15 04:00:00",
-      "album": {
-        "name": "Motivational Speaking",
-        "url": "https://open.spotify.com/album/0XMWbprQxPKfQKU3i8AyAl"
-      },
-      "artists": [
-        {
-          "name": "Old Sea Brigade",
-          "url": "https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45"
-        }
-      ],
-      "duration_ms": 242400,
-      "name": "Salt",
-      "url": "https://open.spotify.com/track/7xD1cDSRz033zGBBTW6z2q"
     },
     {
       "added_at": "2022-04-15 04:00:00",

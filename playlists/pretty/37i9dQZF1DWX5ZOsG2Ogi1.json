@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Perreo del bueno!\nCover: YoGambii, Luar La L",
-  "num_followers": 1266897,
+  "num_followers": 1266884,
   "original_name": "Puro Perreo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDg4MTYwMCwwMDAwMDAwMGE5Y2UzNTZkYzc5MTcyZDgxZGIyZjgxYWU2YTE4ZGZl",
+  "snapshot_id": "MTY2MDg4MTYwMCwwMDAwMDAwMDdmNDJlYWVkODllNDQ0ZDkxMzZiNDY3ZWY1YjVmZmQ2",
   "tracks": [
     {
       "added_at": "2022-08-19 04:00:00",
@@ -871,6 +871,22 @@
     {
       "added_at": "2022-08-19 04:00:00",
       "album": {
+        "name": "Christian Dior",
+        "url": "https://open.spotify.com/album/4qLn9tjRhGQLjImUMTjOMz"
+      },
+      "artists": [
+        {
+          "name": "Jhay Cortez",
+          "url": "https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz"
+        }
+      ],
+      "duration_ms": 147120,
+      "name": "Christian Dior",
+      "url": "https://open.spotify.com/track/4jOBQxq4Ffd8DDrsN4wPOR"
+    },
+    {
+      "added_at": "2022-08-19 04:00:00",
+      "album": {
         "name": "NOS ENTENDEMOS",
         "url": "https://open.spotify.com/album/5LzXrJCwZ0JfW4yGANf9T3"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 205729,
       "name": "NOS ENTENDEMOS",
       "url": "https://open.spotify.com/track/77RSjB1opOKcwYJohCE6Fb"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
-        "name": "Christian Dior",
-        "url": "https://open.spotify.com/album/4qLn9tjRhGQLjImUMTjOMz"
-      },
-      "artists": [
-        {
-          "name": "Jhay Cortez",
-          "url": "https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz"
-        }
-      ],
-      "duration_ms": 147120,
-      "name": "Christian Dior",
-      "url": "https://open.spotify.com/track/4jOBQxq4Ffd8DDrsN4wPOR"
     },
     {
       "added_at": "2022-08-19 04:00:00",

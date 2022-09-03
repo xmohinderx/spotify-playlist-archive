@@ -4,7 +4,7 @@
 
 > This is Marca MP\. The essential tracks, all in one playlist.
 
-65 songs - 3 hr 30 min - [published](https://open.spotify.com/playlist/47goMATczW5EiQYFKhWMw6)
+66 songs - 3 hr 33 min - [published](https://open.spotify.com/playlist/47goMATczW5EiQYFKhWMw6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [Acá en Guanajuato](https://open.spotify.com/track/317vHXvCtvtAJIEbBJIuys) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [DEV, Vol\. 2](https://open.spotify.com/album/07TMPBekE9j6Q1ae126ysU) | 2:55 | 2022-06-01 |  |
 | [Aguanta Corazon \- En vivo](https://open.spotify.com/track/7nICKx0YTIEi9JSNid54tb) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Las Preferidas, Vol\. 2 \(En vivo\)](https://open.spotify.com/album/7drHvS63o9Crp4k85GNo9D) | 2:52 | 2022-06-01 | 2022-06-30 |
 | [Aquí en El Chaleco](https://open.spotify.com/track/2knMErrj3LxbqXSM0rDSSY) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [DEV, Vol\. 2](https://open.spotify.com/album/07TMPBekE9j6Q1ae126ysU) | 3:00 | 2022-06-01 |  |
+| [Bien Alerta \- En vivo](https://open.spotify.com/track/4Up6b4TbzzUCxqWDHaxslv) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Bien Alerta \(En vivo\)](https://open.spotify.com/album/1Wz6iNlCxF0iyuwnoe22kx) | 2:33 | 2022-09-02 |  |
 | [Bien Me Conoces](https://open.spotify.com/track/2evi3YjhkOYdeE8l6meZtS) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [DEV, Vol\. 2](https://open.spotify.com/album/07TMPBekE9j6Q1ae126ysU) | 2:41 | 2022-06-01 |  |
 | [Brindo](https://open.spotify.com/track/6XvKF7H5ESlpsQNDYax1sQ) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Brindo](https://open.spotify.com/album/39BGT0v33s4yMplCSCILeI) | 3:12 | 2022-07-16 | 2022-08-31 |
 | [Como Hueso](https://open.spotify.com/track/7eoxbqx7fRSCj6zjwm6rnk) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Brindo](https://open.spotify.com/album/39BGT0v33s4yMplCSCILeI) | 1:42 | 2022-07-01 |  |
@@ -29,7 +30,7 @@
 | [El Muchacho De La Barba \- en Vivo](https://open.spotify.com/track/6CkRmXlHU4EK01FXpB4eyu) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Desde El Cantón \(en Vivo\)](https://open.spotify.com/album/2c3E1sKcWvcIt1lxYbiqgv) | 3:13 | 2022-06-01 |  |
 | [El Shadow \- En vivo](https://open.spotify.com/track/752ewFkVffZbVoSfBXdNx3) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [En Vivo EP, Vol\. 1 \(En vivo\)](https://open.spotify.com/album/6ewLeV1GpI2Jg1vMXqXBIN) | 3:39 | 2022-06-01 |  |
 | [El Solicitado \- En vivo](https://open.spotify.com/track/4hC9Nq2yhpD2OAy3TN9k51) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Las Preferidas, Vol\. 5 \(En vivo\)](https://open.spotify.com/album/6ERihYOfcsvTucjGuBXuI7) | 2:53 | 2022-06-22 | 2022-06-24 |
-| [El Velador](https://open.spotify.com/track/1bnM75H69llLIWrazZwKty) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [$ad Boyz 4 Life](https://open.spotify.com/album/0X24VcVf6nQJ52c5QmncsO) | 3:49 | 2022-06-25 |  |
+| [El Velador](https://open.spotify.com/track/1bnM75H69llLIWrazZwKty) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [$ad Boyz 4 Life](https://open.spotify.com/album/0X24VcVf6nQJ52c5QmncsO) | 3:49 | 2022-06-25 | 2022-09-03 |
 | [Escuela de la Vida \- En vivo](https://open.spotify.com/track/1dkVY6IUehZkOojMTDobOe) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Las Preferidas, Vol\. 2 \(En vivo\)](https://open.spotify.com/album/7drHvS63o9Crp4k85GNo9D) | 2:04 | 2022-06-01 |  |
 | [Hombre De Respeto](https://open.spotify.com/track/0Gr2I1qIAHvavmROFRIgXP) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Seguimos Avanzando](https://open.spotify.com/album/0oN9LSWr8UQGbxfCZvk2RC) | 2:46 | 2022-06-01 |  |
 | [Ismael](https://open.spotify.com/track/3eaEpp8GTMBLRV0BCDlXMe) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Brindo](https://open.spotify.com/album/39BGT0v33s4yMplCSCILeI) | 2:46 | 2022-06-27 | 2022-06-29 |
@@ -53,7 +54,7 @@
 | [Rios Por Apellido \- En vivo](https://open.spotify.com/track/6AY4yiKt405DygjNOXWDAK) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [En Vivo EP, Vol\. 1 \(En vivo\)](https://open.spotify.com/album/6ewLeV1GpI2Jg1vMXqXBIN) | 3:04 | 2022-06-01 |  |
 | [Sabes Amor \- En vivo](https://open.spotify.com/track/70Py0XCeJloi2ERN3w3Mj7) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Despegando el Vuelo \(En vivo\)](https://open.spotify.com/album/3Ftnxdxa5fGWKuMMrncCNF) | 4:36 | 2022-06-01 |  |
 | [Saliste De Mi Mente](https://open.spotify.com/track/4ox1UpoN1U5bUOfU79aHmn) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Brindo](https://open.spotify.com/album/39BGT0v33s4yMplCSCILeI) | 3:50 | 2022-07-30 | 2022-08-24 |
-| [Si Tu Te Fueras De Mi](https://open.spotify.com/track/6WssB2o4BjzHzJMl7qprYg) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Brindo](https://open.spotify.com/album/39BGT0v33s4yMplCSCILeI) | 3:07 | 2022-08-11 |  |
+| [Si Tu Te Fueras De Mi](https://open.spotify.com/track/6WssB2o4BjzHzJMl7qprYg) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Brindo](https://open.spotify.com/album/39BGT0v33s4yMplCSCILeI) | 3:07 | 2022-08-11 | 2022-09-03 |
 | [Sigo Al Frente](https://open.spotify.com/track/0na2KcdWb67qUDu0297IWf) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Seguimos Avanzando](https://open.spotify.com/album/0oN9LSWr8UQGbxfCZvk2RC) | 2:57 | 2022-06-01 |  |
 | [Sigues Siendo Tu \- En vivo](https://open.spotify.com/track/2QAnp9ABPbpoTWfjyjRBD3) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Las Preferidas, Vol\. 5 \(En vivo\)](https://open.spotify.com/album/6ERihYOfcsvTucjGuBXuI7) | 3:35 | 2022-06-01 |  |
 | [Sofisticado](https://open.spotify.com/track/0vq4MJPXBzJoufua6cZryv) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Brindo](https://open.spotify.com/album/39BGT0v33s4yMplCSCILeI) | 2:43 | 2022-07-19 | 2022-08-23 |
@@ -66,7 +67,7 @@
 | [Te Quiero](https://open.spotify.com/track/0mAf9lYGmf5qEusEhrc7pC) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Brindo](https://open.spotify.com/album/39BGT0v33s4yMplCSCILeI) | 3:51 | 2022-06-27 |  |
 | [Tengo Con Que](https://open.spotify.com/track/6Gv2GDFZzmhK6b82lUwjhG) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Brindo](https://open.spotify.com/album/39BGT0v33s4yMplCSCILeI) | 3:04 | 2022-06-28 |  |
 | [Todo Cambió \- En vivo](https://open.spotify.com/track/3ypv02X21XqFopTC7Hw3qx) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Las Preferidas, Vol\. 3 \(En vivo\)](https://open.spotify.com/album/4jufeGTVJpClLZiktiMMGn) | 4:31 | 2022-06-01 |  |
-| [Tolin Infante](https://open.spotify.com/track/0uNTAScdqGpKxnqZ3Gj8dg) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Brindo](https://open.spotify.com/album/39BGT0v33s4yMplCSCILeI) | 2:47 | 2022-07-26 | 2022-08-26 |
+| [Tolin Infante](https://open.spotify.com/track/0uNTAScdqGpKxnqZ3Gj8dg) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Brindo](https://open.spotify.com/album/39BGT0v33s4yMplCSCILeI) | 2:47 | 2022-07-26 |  |
 | [Tu](https://open.spotify.com/track/6ajVb9JDdueaxbtLImUEPC) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Flores](https://open.spotify.com/album/1JWDyNqyEL0FQBaM1jc6KO) | 2:33 | 2022-06-01 |  |
 | [Ven Conmigo](https://open.spotify.com/track/642pJ6MwUEE6QI426ScXmO) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Flores](https://open.spotify.com/album/1JWDyNqyEL0FQBaM1jc6KO) | 2:33 | 2022-06-01 |  |
 | [Vida Rencorosa](https://open.spotify.com/track/6FdGKzJRwqIoZCpxUiQKzr) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [En Vivo Desde el Malecon: Sold Out](https://open.spotify.com/album/5UNBJmHfoH32MrZBKNkhc6) | 2:48 | 2022-06-01 | 2022-06-26 |

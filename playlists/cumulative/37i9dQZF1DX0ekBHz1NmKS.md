@@ -4,7 +4,7 @@
 
 > Här hör du de bästa svenska låtarna just nu.
 
-532 songs - 1 day 4 hr 13 min - [published](https://open.spotify.com/playlist/7a7Rgh6ytRT1AxGURNfohE)
+534 songs - 1 day 4 hr 20 min - [published](https://open.spotify.com/playlist/7a7Rgh6ytRT1AxGURNfohE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,7 +156,7 @@
 | [First Place](https://open.spotify.com/track/30OOcKVwvFSOEPOlPUPW8J) | [Zikai](https://open.spotify.com/artist/1bnxdcJP0Kn0EP2sBfd8Sn) | [First Place](https://open.spotify.com/album/40NbNPVyrVG549WUMtVYhQ) | 3:13 | 2021-12-16 | 2022-01-04 |
 | [Flyg Fula Fluga Flyg](https://open.spotify.com/track/01fQ3xuWfYAHmUIiFC1JVP) | [Hanna Ferm](https://open.spotify.com/artist/2xQUbkvQFCU8DpdBFbMfLq) | [Flyg Fula Fluga Flyg \- Spotify Studio It's Hits Recording](https://open.spotify.com/album/5xwu2ZxKFPk1wM1JBEO2Jf) | 2:39 | 2021-12-16 |  |
 | [Forever](https://open.spotify.com/track/2kt6eZpklbhOPxAqkcNHYz) | [AMADEUS](https://open.spotify.com/artist/2t7THYoDAV1wXEmsp7HNH1) | [Forever](https://open.spotify.com/album/5nkPAhhUXp9FQlsQSC4fD4) | 2:50 | 2022-04-28 | 2022-07-28 |
-| [Freedom](https://open.spotify.com/track/1h4SQsufLENc6oCAbskc1T) | [Faith Kakembo](https://open.spotify.com/artist/7uyCbr8t8wRzRgPoADaHvl) | [Freedom](https://open.spotify.com/album/1b1fH8cmdB7KNG9A9P4Y85) | 2:54 | 2022-02-26 |  |
+| [Freedom](https://open.spotify.com/track/1h4SQsufLENc6oCAbskc1T) | [Faith Kakembo](https://open.spotify.com/artist/7uyCbr8t8wRzRgPoADaHvl) | [Freedom](https://open.spotify.com/album/1b1fH8cmdB7KNG9A9P4Y85) | 2:54 | 2022-02-26 | 2022-09-03 |
 | [FRIENDS](https://open.spotify.com/track/5nfxIGqARkkvpkVjhnj6BL) | [Molly Hammar](https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM) | [God Is Lonely Too](https://open.spotify.com/album/63vdcGFlCkEs9h5THcGKnR) | 2:29 | 2021-12-16 | 2022-03-08 |
 | [Friends, Right?](https://open.spotify.com/track/7Hxdp3Pdo8EgE7Qq1sCsHE) | [AMWIN](https://open.spotify.com/artist/4Lj9IwyjADyWsk9eEtQUbY) | [Friends, Right?](https://open.spotify.com/album/2tsIzbMjexsSAMXpkByB9N) | 2:14 | 2022-03-24 | 2022-07-25 |
 | [Färger](https://open.spotify.com/track/3l6vQCLlMS2Ljjf8FlVOZX) | [Clara Klingenström](https://open.spotify.com/artist/3tl4Gc5RItD9lE6MJZGhLg) | [Färger](https://open.spotify.com/album/0EQWkXtKIW6AhxyfXfFJt0) | 3:16 | 2022-03-17 | 2022-07-29 |
@@ -230,7 +230,7 @@
 | [Idén om oss](https://open.spotify.com/track/51KeFicZrswYfj2BxvOP3Z) | [Albin Johnsén](https://open.spotify.com/artist/6IfZesOI3vKCZy8pjzVknj) | [Idén om oss](https://open.spotify.com/album/0XBIH0lWaW3vHIrtQ2jx2L) | 2:38 | 2021-12-16 | 2022-03-11 |
 | [In i dimman](https://open.spotify.com/track/095zAxJmG96ap3ol3zVRZs) | [Medina](https://open.spotify.com/artist/3HbP7OfT7PCV0BrR0ReUkC) | [In i dimman](https://open.spotify.com/album/28RPgvITk9r0msUN8PVJVX) | 2:53 | 2022-03-04 | 2022-03-18 |
 | [In The End](https://open.spotify.com/track/3UGZ9VUAZAJeIN1p0V7v8j) | [Thomas Daniel](https://open.spotify.com/artist/6szSMqKKwkFqJoK3MxK3Hk) | [In The End](https://open.spotify.com/album/3Yp86nU21Kw0lMSBCL8iwO) | 3:18 | 2022-03-10 | 2022-04-21 |
-| [In The Sunrise](https://open.spotify.com/track/23fsXHpRPkozkePmm8h3vG) | [Omar Rudberg](https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd) | [OMR](https://open.spotify.com/album/5U3yzxL13Rvj8uydja4ncH) | 2:20 | 2022-05-30 |  |
+| [In The Sunrise](https://open.spotify.com/track/23fsXHpRPkozkePmm8h3vG) | [Omar Rudberg](https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd) | [OMR](https://open.spotify.com/album/5U3yzxL13Rvj8uydja4ncH) | 2:20 | 2022-05-30 | 2022-09-03 |
 | [Ingen luft mellan oss](https://open.spotify.com/track/1SOGSI8UPEwBnqG15h6NiC) | [Newkid](https://open.spotify.com/artist/5wXRHaEx8AvtUv0gyZHGf6) | [Ingen luft mellan oss](https://open.spotify.com/album/50pmFuV7ABGcA6cZz0Cqmt) | 3:16 | 2021-12-16 | 2022-03-11 |
 | [Innocent Love](https://open.spotify.com/track/71vojPlEiXkv0ZGWyfWqFj) | [Robin Bengtsson](https://open.spotify.com/artist/1CQLPgGkfHrxNMqrXt5oWS) | [Innocent Love](https://open.spotify.com/album/5p61tjKE3bf96LDICjSBa5) | 3:02 | 2022-02-26 |  |
 | [Irreplaceable](https://open.spotify.com/track/1gK79XAWFSYyl8FpphEQiH) | [JUNG](https://open.spotify.com/artist/1OHba9a2SK2KcJmJgkGQZO) | [Irreplaceable](https://open.spotify.com/album/2dIihXdiXigVetfKI2QDqs) | 3:35 | 2021-12-16 | 2022-03-11 |
@@ -257,6 +257,7 @@
 | [Knallpulver](https://open.spotify.com/track/4KFTbuGudoMnSKwFlK4yrO) | [Niello](https://open.spotify.com/artist/3oKLD3PuOc20nNDoSCKDY7) | [Knallpulver](https://open.spotify.com/album/4OAO9n9fnusvbLTBa3m0fl) | 2:38 | 2022-05-26 | 2022-07-28 |
 | [Komma över dig \(feat\. Benjamin Ingrosso\)](https://open.spotify.com/track/7ahokyY6O0NK0PnpFBxUHM) | [Petter](https://open.spotify.com/artist/5A0Bu9azuFEnud3q7t0V2r), [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Komma över dig \(feat\. Benjamin Ingrosso\)](https://open.spotify.com/album/32HVqxhJDc732q8O1TeapO) | 3:08 | 2022-05-05 |  |
 | [Konstig \(Förstår mig inte på dig\)](https://open.spotify.com/track/23CTXfKqXyz4QkEwCGONhz) | [Ella Hedström](https://open.spotify.com/artist/2yZOGE9w5XZPTWF9e6wYEr) | [Konstig \(Förstår mig inte på dig\)](https://open.spotify.com/album/3wGLhdFwuUVEpkuswcM5km) | 2:54 | 2022-05-05 | 2022-07-22 |
+| [Korthus](https://open.spotify.com/track/791sTulD9FqjjDlraYYIpT) | [Maxida Märak](https://open.spotify.com/artist/3FfnFeTonanbog4rEvYXns), [Joakim Berg](https://open.spotify.com/artist/5Z3qZD6rDNxloqapoa1QUC), [Maria Jane Smith](https://open.spotify.com/artist/3IiNai4mJpTKP4SGjhJau5) | [Korthus](https://open.spotify.com/album/08oifjJ5L0K7l2a7UaUKBN) | 3:02 | 2022-09-01 |  |
 | [Kylskåpspoesi](https://open.spotify.com/track/3unNZwXGzgKOFdaL6EPj4C) | [Kvarteret](https://open.spotify.com/artist/6xBSrouGcMUDnoibs8MnlE) | [Kylskåpspoesi](https://open.spotify.com/album/2nPyHdabNvD39J6RH9pkLr) | 2:58 | 2022-03-04 | 2022-07-06 |
 | [Kyss!](https://open.spotify.com/track/3ldYKctJWFisYe41pa6VWo) | [Daniela Rathana](https://open.spotify.com/artist/5U2TzkbKD84n8gHhZtL3Ui) | [Kyss!](https://open.spotify.com/album/3cFLqMC1sJAIdQibUcmfhe) | 3:24 | 2021-12-16 | 2022-03-11 |
 | [Känner ingenting](https://open.spotify.com/track/2373AatpPbJF5klnOAfI2X) | [Marika Larsson](https://open.spotify.com/artist/5WIrNia2mhdmq27YqJj1hB) | [Känner ingenting](https://open.spotify.com/album/7yxwheJBWmnfyzyqI0bLI4) | 2:57 | 2021-12-16 | 2022-03-03 |
@@ -409,6 +410,7 @@
 | [Skies](https://open.spotify.com/track/5UfHl6LcGtkUAe7UItl3KH) | [Bavé](https://open.spotify.com/artist/35y24zM1eLIcSUbdf7vPhM) | [Skies](https://open.spotify.com/album/3QsQU7HHMeIKXMUyl9MHef) | 3:05 | 2021-12-16 | 2022-05-12 |
 | [Skräck eller lycka?](https://open.spotify.com/track/0X04NMcv87lgoJW1AxreT4) | [bob hund](https://open.spotify.com/artist/6OZxE19iim1JKvCA3GmCVx) | [Skräck eller lycka?](https://open.spotify.com/album/7kWgErSsJxYRJawnzHLVSa) | 4:59 | 2022-03-24 | 2022-04-21 |
 | [Skål](https://open.spotify.com/track/0d53D9YtdbRErx5b94XNpm) | [Tjuvjakt](https://open.spotify.com/artist/0XDfNJsQy7B3q0GfsMHSkp) | [Skål](https://open.spotify.com/album/2U56u39r3FrTJkhdBthB8W) | 2:55 | 2022-06-30 |  |
+| [Slutet av dagen](https://open.spotify.com/track/3BwAqx9Bm9W9PQROjHQ07Z) | [Petter](https://open.spotify.com/artist/5A0Bu9azuFEnud3q7t0V2r) | [Slutet av dagen](https://open.spotify.com/album/7b7qdKJlsMRhIibvs7Zo0Q) | 3:28 | 2022-09-01 |  |
 | [Släpp mig](https://open.spotify.com/track/2EZmE6pdwIhsOEJKS3nUFI) | [INOMI](https://open.spotify.com/artist/4y6IXL3FLmSLs4CCgpq5i2) | [Släpp mig](https://open.spotify.com/album/74bF6o1WKlI2ZkWwOCY7Gx) | 2:36 | 2022-03-10 | 2022-05-12 |
 | [Smile](https://open.spotify.com/track/3OUlwrGsM6xGuA66YVpeGT) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Smile](https://open.spotify.com/album/24quzyKLUAsPgZXsZXQdky) | 3:12 | 2021-12-16 | 2022-03-11 |
 | [Smile for You](https://open.spotify.com/track/5g8Blci6F1FQTlHEEt6xUo) | [Vicki Vox](https://open.spotify.com/artist/7cPHWzJNSiVkCenk3nxQdJ) | [Smile For You](https://open.spotify.com/album/0JVEngez3de3wsfiUdLNvk) | 2:51 | 2022-03-10 | 2022-04-01 |

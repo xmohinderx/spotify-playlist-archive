@@ -4,7 +4,7 @@
 
 > Repeat\-free hours of new and beloved indie folk\. Cover: Julia Jacklin
 
-427 songs - 1 day 2 hr 48 min - [published](https://open.spotify.com/playlist/3LST0f4pA1dtcimgRwJiWD)
+428 songs - 1 day 2 hr 51 min - [published](https://open.spotify.com/playlist/3LST0f4pA1dtcimgRwJiWD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [30 Degrees](https://open.spotify.com/track/2YtMeE0OtjgicwIgxdoiTU) | [Naima Bock](https://open.spotify.com/artist/3UvBjnS0xNdifivRctkxok) | [30 Degrees](https://open.spotify.com/album/1bTdglags9MlgQqco739ZV) | 4:52 | 2022-01-14 | 2022-07-29 |
 | [4th of july](https://open.spotify.com/track/1jRhmp69z3clRhNjev6P6f) | [Hand Habits](https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5) | [4th of july](https://open.spotify.com/album/45YbP2VEW69SUjcm27JV6O) | 2:56 | 2021-10-22 | 2022-07-29 |
 | [4th of july](https://open.spotify.com/track/5U4u97LnLFFTKBAf9MaOdH) | [Hand Habits](https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5) | [dirt](https://open.spotify.com/album/1cnrZ3t6GI4S6JIiiEkVuB) | 2:56 | 2022-06-24 |  |
+| [8 Hour Drive](https://open.spotify.com/track/4HB7zl4UghBqyX84KkY0Gs) | [Riley Pearce](https://open.spotify.com/artist/0A3HlWZGV8WrCcqxKM2neg) | [The Water & The Rough](https://open.spotify.com/album/1gw5CZBYqPIwYAe3BUfSKL) | 3:36 | 2022-08-12 |  |
 | [8 Hour Drive](https://open.spotify.com/track/5cAjdVKtvPKvJxnl8jxPiG) | [Riley Pearce](https://open.spotify.com/artist/0A3HlWZGV8WrCcqxKM2neg) | [8 Hour Drive](https://open.spotify.com/album/02uc7wgJJrJEreif6wnoZi) | 3:36 | 2022-04-13 | 2022-06-11 |
 | [A Mermaid in Lisbon](https://open.spotify.com/track/6A8BvPrNOo5l1j3c80KhAb) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM), [Teresa Salgueiro](https://open.spotify.com/artist/49W26EcOwY0UdytNfa3zGH) | [A Mermaid in Lisbon](https://open.spotify.com/album/1NnqLqMQgh9ftyQPtUuKJd) | 3:28 | 2021-10-22 |  |
 | [A Pair Of Brown Eyes](https://open.spotify.com/track/6ayUfc9EndL7Eg9VYApdHC) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [Bad Religion / A Pair Of Brown Eyes](https://open.spotify.com/album/2yjZoxPqfpRQyGwuOXo5Rp) | 3:42 | 2021-10-22 | 2022-07-25 |
@@ -415,7 +416,7 @@
 | [Wheels Roll Home](https://open.spotify.com/track/1wd0u072G276gdTtWLqkK2) | [The Antlers](https://open.spotify.com/artist/5o8Wylae9k23IEJMIiwd8s) | [Wheels Roll Home](https://open.spotify.com/album/665tMuXoH0iLocWMQlon4m) | 3:57 | 2021-10-22 | 2022-07-29 |
 | [When I Found You](https://open.spotify.com/track/1cKENoq9iVmI3hpZNqILYa) | [Robby Hecht](https://open.spotify.com/artist/0ZDm55WIaMpvEkX8cY1AAk) | [Evergreen](https://open.spotify.com/album/0ASmRi4XET265lfPliO3uM) | 3:29 | 2022-04-13 | 2022-04-21 |
 | [When I Say That I Love You](https://open.spotify.com/track/1L5jdavZ7YMWIFafo1gyZD) | [Gabe Goodman](https://open.spotify.com/artist/3ak5fTKu5X8h4yhvf5ThmF) | [When I Say That I Love You](https://open.spotify.com/album/0cPJV0lQbAtuMXeFK3a784) | 2:57 | 2021-10-22 |  |
-| [Where The Rocks Are](https://open.spotify.com/track/0XzVFPCmBmQuNjshP49T1R) | [Maia Friedman](https://open.spotify.com/artist/3SAdHKW3ICNgtyFgaWdC6c) | [Where The Rocks Are](https://open.spotify.com/album/0JseMx4hFfMch3y8MfbDNo) | 3:53 | 2022-01-14 |  |
+| [Where The Rocks Are](https://open.spotify.com/track/0XzVFPCmBmQuNjshP49T1R) | [Maia Friedman](https://open.spotify.com/artist/3SAdHKW3ICNgtyFgaWdC6c) | [Where The Rocks Are](https://open.spotify.com/album/0JseMx4hFfMch3y8MfbDNo) | 3:53 | 2022-01-14 | 2022-09-03 |
 | [White Horses](https://open.spotify.com/track/325jtJL36IDaxRIlxbXaoR) | [Darlingside](https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm) | [Birds Say](https://open.spotify.com/album/4Y9Fzg4r73Eh3OdmZpUtwl) | 4:12 | 2021-10-22 | 2021-12-29 |
 | [Wild Parts](https://open.spotify.com/track/3RG5SUMbOTOEaQoOuCBSgG) | [Maddie Medley](https://open.spotify.com/artist/03JEWIBjHgE7jGqQZvG7k3) | [Wild Parts](https://open.spotify.com/album/7kTYlYTFHfIrL9kplUnRam) | 3:59 | 2021-10-22 | 2022-07-29 |
 | [Wind on Tin](https://open.spotify.com/track/5puD6cc8BPlXu3feo5bafr) | [Jess Williamson](https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9) | [Sorceress](https://open.spotify.com/album/4PFQNELzkJ1AFwb9GsQc26) | 3:06 | 2021-10-22 | 2022-07-29 |

@@ -4,7 +4,7 @@
 
 > The biggest songs of the 1950s.
 
-254 songs - 11 hr 36 min - [published](https://open.spotify.com/playlist/0KP8tMIBjL4MwHe5MXMJNh)
+255 songs - 11 hr 38 min - [published](https://open.spotify.com/playlist/0KP8tMIBjL4MwHe5MXMJNh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,7 +126,7 @@
 | [Lollipop](https://open.spotify.com/track/1hFB1obL3dCyIDigkojSTm) | [The Chordettes](https://open.spotify.com/artist/62GnBjssWSXBlKvQohT2Bk) | [The Chordettes' Best](https://open.spotify.com/album/2lWhM9NDUKCfyZ9Ze27XYl) | 2:10 | 2022-06-09 |  |
 | [Lonely Boy](https://open.spotify.com/track/4kh2S9hRpPvoF9JkwZcYGN) | [Paul Anka](https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh) | [Put Your Head On My Shoulder: The Very Best Of Paul Anka](https://open.spotify.com/album/75zBkbUSaFzpyPa1mBDjON) | 2:31 | 2021-04-28 | 2022-07-29 |
 | [Lonely Teardrops](https://open.spotify.com/track/6TYR3IVgIwDK6ydc2EPEQq) | [Jackie Wilson](https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju) | [Lonely Teardrops](https://open.spotify.com/album/4Ixm6f2gdD6Ai1qKkE5NGT) | 2:46 | 2021-04-28 |  |
-| [Lonesome Town \- 1990 Digital Remaster](https://open.spotify.com/track/56XoFI6v7kbGNdM8ALYWof) | [Ricky Nelson](https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS) | [The Legendary Masters Series \(Volume 1\)](https://open.spotify.com/album/5R27t83T8Jhltww09lriMo) | 2:15 | 2021-04-28 |  |
+| [Lonesome Town \- 1990 Digital Remaster](https://open.spotify.com/track/56XoFI6v7kbGNdM8ALYWof) | [Ricky Nelson](https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS) | [The Legendary Masters Series \(Volume 1\)](https://open.spotify.com/album/5R27t83T8Jhltww09lriMo) | 2:15 | 2021-04-28 | 2022-09-03 |
 | [Long Tall Sally \(The Thing\)](https://open.spotify.com/track/507IFqPuG8mBQoKebfGG9t) | [Little Richard](https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm) | [Here's Little Richard \(Deluxe Edition\)](https://open.spotify.com/album/18tV6PLXYvVjsdOVk0S7M8) | 2:07 | 2021-04-28 |  |
 | [Louisiana Blues](https://open.spotify.com/track/2nbV8brWogyKVqRhypvzJS) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [The Chess Box](https://open.spotify.com/album/182PeD4zms8Cup3oZcACOB) | 2:54 | 2021-04-28 | 2022-05-28 |
 | [Love & Marriage](https://open.spotify.com/track/1jdE62HRy0U5vJaOZ0LUUb) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [150 '50s Valentines](https://open.spotify.com/album/1V04gqYfEEbAhXkO0oRIDN) | 2:35 | 2021-04-28 | 2022-07-29 |
@@ -190,6 +190,7 @@
 | [Roll Over Beethoven](https://open.spotify.com/track/6C7aTTCUWRK7dD379yUT3W) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Berry Is On Top](https://open.spotify.com/album/6eedtCtCjibu80yOhylSGL) | 2:24 | 2022-06-09 |  |
 | [Sea of Love](https://open.spotify.com/track/0Jbcki0GtjK4CdPlmZO8XR) | [Phil Phillips](https://open.spotify.com/artist/4RoSFlSfHkTux15j7kUIAc) | [Presenting Phil Phillips](https://open.spotify.com/album/4tqGJjcTcgGfQ7MrhMlczm) | 2:22 | 2022-06-09 | 2022-08-28 |
 | [Sea Of Love](https://open.spotify.com/track/14T8UhqU8EaJpp3tRxqJbr) | [Phil Phillips](https://open.spotify.com/artist/4RoSFlSfHkTux15j7kUIAc) | [Golden Hits forever V5](https://open.spotify.com/album/7aDs155Ps2HI81WIrqQ6Oh) | 2:24 | 2021-04-28 | 2022-07-29 |
+| [Sea Of Love](https://open.spotify.com/track/4gUDdUr5yK0JGlR49zSRVt) | [Phil Phillips & The Twilights](https://open.spotify.com/artist/5EQjT95lePa71P9ZUA6adW) | [Sea Of Love: The Collection](https://open.spotify.com/album/7sDEzqAGqgx95qRrLmqFBB) | 2:21 | 2022-06-09 |  |
 | [See You Later, Alligator](https://open.spotify.com/track/1s4hyUFWmLWiAamsclb4xA) | [Bill Haley & His Comets](https://open.spotify.com/artist/3MFp4cYuYtTZe3d3xkLLbr) | [Bill Haley's Greatest Hits](https://open.spotify.com/album/6dbK5OGjpXh6TxgLLyAtlV) | 2:45 | 2021-04-28 | 2022-07-29 |
 | [Sh\-Boom](https://open.spotify.com/track/6ZKB999ZdaFVgrYWvxkl49) | [The Chords](https://open.spotify.com/artist/3xXSg1WJPGJuNjQV0REAzk) | [Doo Wop Classics, Vol\. 6](https://open.spotify.com/album/6bT7ES8R1gu7H9c5jMNFaX) | 2:27 | 2022-06-09 |  |
 | [Sh\-Boom](https://open.spotify.com/track/6Et6uBEIIDEforjX21VLZi) | [The Chords](https://open.spotify.com/artist/3xXSg1WJPGJuNjQV0REAzk) | [Presenting The Chords](https://open.spotify.com/album/2Qw0tZfNYrKgAqqyrwDUkY) | 2:27 | 2022-06-09 | 2022-07-29 |
@@ -253,9 +254,9 @@
 | [Wild One](https://open.spotify.com/track/1IzdDoX6afO75QGfISsc9U) | [Jerry Lee Lewis](https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo) | [Rockabilly Portrait](https://open.spotify.com/album/0O2LfyOYGw2sbFYt26NMse) | 1:49 | 2022-04-29 | 2022-07-29 |
 | [Wild One](https://open.spotify.com/track/77FRvC6JRthZBYDiMJeAFg) | [Jerry Lee Lewis](https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo) | [BD Music Presents Jerry Lee lewis](https://open.spotify.com/album/2HQ3nHpKUGVfxRSp09ewne) | 1:54 | 2021-04-28 | 2022-04-29 |
 | [Wonderful! Wonderful! \(with Ray Conniff & His Orchestra & Chorus\) \- Single Version](https://open.spotify.com/track/5bDVkMLsBJgNL3eejUhBKF) | [Johnny Mathis](https://open.spotify.com/artist/21LGsW7bziR4Ledx7WZ1Wf), [Ray Conniff](https://open.spotify.com/artist/7LfRnzGM0wRSyS5mmAwJbv) | [The Essential Johnny Mathis](https://open.spotify.com/album/4KM9hhWCgasx9j7y3NogNv) | 2:49 | 2021-04-28 | 2022-07-29 |
-| [Yakety Yak](https://open.spotify.com/track/7demHL0GXA6YmTNqw3Btz8) | [The Coasters](https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM) | [Rhino Hi\-Five: The Coasters](https://open.spotify.com/album/2Yvat4w8j7hrJ1JVUz0wAw) | 1:53 | 2021-04-28 |  |
+| [Yakety Yak](https://open.spotify.com/track/7demHL0GXA6YmTNqw3Btz8) | [The Coasters](https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM) | [Rhino Hi\-Five: The Coasters](https://open.spotify.com/album/2Yvat4w8j7hrJ1JVUz0wAw) | 1:53 | 2021-04-28 | 2022-09-03 |
 | [You Belong To Me](https://open.spotify.com/track/3xZe0jFAwc3akvChOrPS7u) | [Jo Stafford](https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw) | [The Magic Of Jo Stafford](https://open.spotify.com/album/1kLGKgc8o8F3Kd4dgti9ka) | 3:12 | 2021-04-28 | 2022-07-29 |
-| [You Belong To Me](https://open.spotify.com/track/2NDMLabAjx4oL7ezx2PNxS) | [Jo Stafford](https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw) | [The Ultimate](https://open.spotify.com/album/7FAu65eXZrds9zcezKtYhl) | 3:13 | 2022-06-09 | 2022-08-07 |
+| [You Belong To Me](https://open.spotify.com/track/2NDMLabAjx4oL7ezx2PNxS) | [Jo Stafford](https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw) | [The Ultimate](https://open.spotify.com/album/7FAu65eXZrds9zcezKtYhl) | 3:13 | 2022-06-09 |  |
 | [You Make Me Feel So Young \- Remastered 1998](https://open.spotify.com/track/2WaYW84yWij5NSCpgSeU2R) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Songs For Swingin' Lovers! \(Remastered\)](https://open.spotify.com/album/4kca7vXd1Wo5GE2DMafvMc) | 2:57 | 2021-04-28 |  |
 | [You Mean Everything to Me](https://open.spotify.com/track/18YPNs20cBfgqkY8YCJlOH) | [Neil Sedaka](https://open.spotify.com/artist/5N6GwJzOcOY5kv8p0NjhYL) | [Rock with Sedaka \(Expanded Edition\)](https://open.spotify.com/album/1Ue6n39wDCfKyy4IBOuPqO) | 2:37 | 2022-06-09 |  |
 | [You Send Me](https://open.spotify.com/track/24lvdbt9pS7DFEjhEWSl49) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [A Cupid's Valentine](https://open.spotify.com/album/0cvF6655OPZeLDYeU8UqL6) | 2:43 | 2022-06-09 |  |

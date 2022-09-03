@@ -4,7 +4,7 @@
 
 > Músicas calminhas pra começar o dia bem relax.
 
-174 songs - 10 hr 4 min - [published](https://open.spotify.com/playlist/3Prl0c7SA1E9u4rw7chWDq)
+175 songs - 10 hr 8 min - [published](https://open.spotify.com/playlist/3Prl0c7SA1E9u4rw7chWDq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,6 +169,7 @@
 | [Verdadeiro Amor \- Studio Sessions](https://open.spotify.com/track/4mbI71cdIBaXLzswdAlEoV) | [Romero Ferro](https://open.spotify.com/artist/6RQQuhhlJwsjKJTW1P9PU9), [YOYOTRACKS](https://open.spotify.com/artist/0X813faPRmYEvgsc5foonA) | [Milk Box](https://open.spotify.com/album/0NJn5bUXyBhRXIzdI3Qd3Z) | 4:21 | 2022-02-18 | 2022-07-29 |
 | [Vilarejo](https://open.spotify.com/track/4TEVYGrLOKCpZtdFl7RtcS) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH) | [Infinito Particular](https://open.spotify.com/album/0RkhMpjAwTFKQgEY3gUl47) | 3:29 | 2022-02-18 | 2022-07-29 |
 | [Vilarejo](https://open.spotify.com/track/4qvUtYRNwmFzfJ2loWkQCH) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH) | [Infinito Particular](https://open.spotify.com/album/4vJUBwgIaG2AD5rP32O730) | 3:29 | 2022-06-24 |  |
+| [Vilão](https://open.spotify.com/track/1sza7qeTDLiwXE4OjRJNXt) | [Castel](https://open.spotify.com/artist/4RTi9WT73fsYrGnYZRneJf), [Tuyo](https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj), [XAN](https://open.spotify.com/artist/2cMza1RvA2IKw4oFvs8YTS) | [Vilão](https://open.spotify.com/album/0Z2ttWpaxmj3eut3OlxQX9) | 4:36 | 2022-09-02 |  |
 | [Você Me Pergunta](https://open.spotify.com/track/5dLGgdtMSSthUP5mJxmazN) | [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW), [Adriana Calcanhotto](https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi) | [Você Me Pergunta](https://open.spotify.com/album/4mrWGbExP66DZb4lwcWdGm) | 3:54 | 2022-04-01 | 2022-04-21 |
 | [Você Tem](https://open.spotify.com/track/6MMeHHFx8H30NoxkfAD5Bn) | [Dreicon](https://open.spotify.com/artist/2LISPU6eTTWHZeJmkElmMv), [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [Você Tem](https://open.spotify.com/album/1HlIJFkzruHJ0LsgVth2tX) | 2:44 | 2022-04-01 | 2022-04-18 |
 | [você vai gostar de mim](https://open.spotify.com/track/7HsnCQcbbgou7ZFb8n4kZ8) | [Nina Fernandes](https://open.spotify.com/artist/3KrkRHLMHe2nzcpcvIJmDP) | [você vai gostar de mim](https://open.spotify.com/album/7jDRuADZZM08Uq83BBQnuj) | 3:07 | 2022-02-18 | 2022-07-29 |
@@ -176,7 +177,7 @@
 | [Várias Queixas](https://open.spotify.com/track/18TXfDzDZptWGoim29fDry) | [Gilsons](https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t) | [Gilsons](https://open.spotify.com/album/1FNbRPG8Oy5zi5WLRZP0YZ) | 2:50 | 2022-02-18 | 2022-07-29 |
 | [Várias Queixas](https://open.spotify.com/track/5HFvMPiNjclAq8DbEAPWMw) | [Gilsons](https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t) | [Várias Queixas](https://open.spotify.com/album/6l1z1eqs0jA0iYAhVboYgp) | 2:50 | 2022-06-24 |  |
 | [Zen](https://open.spotify.com/track/1aUUrBmdIYN7FvIzHdpisn) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Anitta](https://open.spotify.com/album/7IcgpWsMMBvW5NzNoKRu6z) | 2:45 | 2022-02-18 | 2022-06-07 |
-| [Zero](https://open.spotify.com/track/7Jl757vT5eNqemc6PtY2dA) | [Liniker e os Caramelows](https://open.spotify.com/artist/5ZtyHkAGvYFPSYcWPfmL5n) | [Cru](https://open.spotify.com/album/7wYN6lMpcVx2maHSGc2yQb) | 6:04 | 2022-04-01 |  |
+| [Zero](https://open.spotify.com/track/7Jl757vT5eNqemc6PtY2dA) | [Liniker e os Caramelows](https://open.spotify.com/artist/5ZtyHkAGvYFPSYcWPfmL5n) | [Cru](https://open.spotify.com/album/7wYN6lMpcVx2maHSGc2yQb) | 6:04 | 2022-04-01 | 2022-09-03 |
 | [Zé Do Caroço](https://open.spotify.com/track/1x8uLFuwVbLxcvVerQtuWq) | [Mariana Aydar](https://open.spotify.com/artist/3rE82NMVBb5C5tQ83o8u8N), [Leci Brandao](https://open.spotify.com/artist/5iiQvuDCnlXoK8iAhydW0u) | [Kavita 1](https://open.spotify.com/album/7hqmVqRcjVRqcEfoAQjqoO) | 6:32 | 2022-04-01 | 2022-04-20 |
 | [Á Primeira Vista](https://open.spotify.com/track/2hjDxNmryN9ziHAIYiRksM) | [Chico César](https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH) | [Aos Vivos](https://open.spotify.com/album/4oUdOO2U2FwFiuHOMUwkNF) | 3:36 | 2022-04-01 |  |
 | [É tudo pra ontem](https://open.spotify.com/track/48QajhR9A10V7uM2UbIWxO) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [É tudo pra ontem](https://open.spotify.com/album/0ucGkC2GM4IBycOIAw9eBj) | 5:10 | 2022-02-18 | 2022-06-29 |

@@ -443,7 +443,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 206949,
       "name": "Cross Country",
       "url": "https://open.spotify.com/track/2YgwcrRc33vIWgv5n2TNZ9"
@@ -569,7 +569,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 167533,
       "name": "Downtown Baby",
       "url": "https://open.spotify.com/track/3NIMPlnySYOfVF5Vxr4Ae1"
@@ -1040,6 +1040,24 @@
     },
     {
       "album": {
+        "name": "Handle On You",
+        "url": "https://open.spotify.com/album/65UKRbP97zWe5gBZ48jBkR"
+      },
+      "artists": [
+        {
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219333,
+      "name": "Handle On You",
+      "url": "https://open.spotify.com/track/6Qpfsw8OS5HW5XxgmXYLWS"
+    },
+    {
+      "album": {
         "name": "Heart Like A Truck",
         "url": "https://open.spotify.com/album/5NRfYTHlDOZ9poFHN2pVQo"
       },
@@ -1301,7 +1319,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 194666,
       "name": "If I Were Rock & Roll",
       "url": "https://open.spotify.com/track/7GMXESVLghURYtnMXl7Ngn"
@@ -1517,7 +1535,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-07",
+      "date_removed": null,
       "duration_ms": 173131,
       "name": "Love Talking",
       "url": "https://open.spotify.com/track/5kFLWyiAXjYrecLHnR7bTk"
@@ -2138,6 +2156,24 @@
     },
     {
       "album": {
+        "name": "Strange",
+        "url": "https://open.spotify.com/album/4vneC29twpGq58PsT0toQJ"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211226,
+      "name": "Strange",
+      "url": "https://open.spotify.com/track/7hI55ccDQBFpkNXYByCdUk"
+    },
+    {
+      "album": {
         "name": "Summer In A Small Town",
         "url": "https://open.spotify.com/album/0JubqhaKGIbLxtG8IUBG95"
       },
@@ -2167,7 +2203,7 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 208066,
       "name": "Sunrise Tells The Story",
       "url": "https://open.spotify.com/track/7fCHWKWhCKPlAKmTqOEMM4"
@@ -2542,6 +2578,24 @@
     },
     {
       "album": {
+        "name": "Wild as Her",
+        "url": "https://open.spotify.com/album/4mGSNYd2LF27N8MaFwxNFg"
+      },
+      "artists": [
+        {
+          "name": "Corey Kent",
+          "url": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199733,
+      "name": "Wild as Her",
+      "url": "https://open.spotify.com/track/4RG7P0CXQ4pe0OeCAHjX5L"
+    },
+    {
+      "album": {
         "name": "Wild Hearts",
         "url": "https://open.spotify.com/album/4zxsqQuLQMHfG48BZI3A2Y"
       },
@@ -2633,6 +2687,28 @@
       "duration_ms": 177951,
       "name": "Woman You Got",
       "url": "https://open.spotify.com/track/2NNioXX1t4whQsBF8FfExl"
+    },
+    {
+      "album": {
+        "name": "Worth A Shot (feat. Dierks Bentley)",
+        "url": "https://open.spotify.com/album/6BkvN6AfqiLF186w0SThQm"
+      },
+      "artists": [
+        {
+          "name": "Elle King",
+          "url": "https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx"
+        },
+        {
+          "name": "Dierks Bentley",
+          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211933,
+      "name": "Worth A Shot (feat. Dierks Bentley)",
+      "url": "https://open.spotify.com/track/16Sdmdt7jpibASwEsO0s9j"
     },
     {
       "album": {

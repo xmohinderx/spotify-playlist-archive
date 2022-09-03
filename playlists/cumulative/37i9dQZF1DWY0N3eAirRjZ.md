@@ -2,7 +2,7 @@
 
 ### [All the Aloha: Native Hawaii](https://open.spotify.com/playlist/37i9dQZF1DWY0N3eAirRjZ)
 
-> From slack\-key masters to songwriting royals, Native Hawaiians have been behind the isles' most memorable music\. Cover: <a href="spotify:artist:69NjH5MsRLr0CX0zSlGmN3">Jake Shimabukuro</a>
+> From slack\-key masters to songwriting royals, Native Hawaiians have been behind the isles' most memorable music\. Cover: Keauhou
 
 61 songs - 3 hr 50 min - [published](https://open.spotify.com/playlist/1jo88XDGrRdHEAZh0fJEh3)
 

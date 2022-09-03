@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Esto s\u00ed es Bachata! Portada: Romeo Santos",
-  "num_followers": 185955,
+  "num_followers": 186125,
   "original_name": "Bachat\u00e9ame",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NDk0MDgwMCwwMDAwMDAwMGQwY2NhMDYzYmNiYjM4ZTY1Nzg4NjQzYWIwYmVkNzkx",
+  "snapshot_id": "MTY0NDk0MDgwMCwwMDAwMDAwMDUzMmI1ZTJkZWU3ZjdjNzU0YmExNDNmMzczYzhjNDZm",
   "tracks": [
     {
       "added_at": "2022-02-15 16:00:00",
@@ -799,22 +799,6 @@
     {
       "added_at": "2022-02-15 16:00:00",
       "album": {
-        "name": "Bachatica",
-        "url": "https://open.spotify.com/album/4RKlBiJIMMhQ9yXOeoJwi8"
-      },
-      "artists": [
-        {
-          "name": "Leslie Grace",
-          "url": "https://open.spotify.com/artist/6BeO1KuAWBqFriL1mLHtNc"
-        }
-      ],
-      "duration_ms": 196461,
-      "name": "Bachatica",
-      "url": "https://open.spotify.com/track/4DZYmpPrr6agOFB1qQSJ8I"
-    },
-    {
-      "added_at": "2022-02-15 16:00:00",
-      "album": {
         "name": "Directo Al Corazon",
         "url": "https://open.spotify.com/album/6pxW8JeqkH4wo8JJqICWBh"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 221080,
       "name": "Bailando Con El",
       "url": "https://open.spotify.com/track/6YhrPNvIJga1ACuEmsyaPO"
+    },
+    {
+      "added_at": "2022-02-15 16:00:00",
+      "album": {
+        "name": "Bachatica",
+        "url": "https://open.spotify.com/album/4RKlBiJIMMhQ9yXOeoJwi8"
+      },
+      "artists": [
+        {
+          "name": "Leslie Grace",
+          "url": "https://open.spotify.com/artist/6BeO1KuAWBqFriL1mLHtNc"
+        }
+      ],
+      "duration_ms": 196461,
+      "name": "Bachatica",
+      "url": "https://open.spotify.com/track/4DZYmpPrr6agOFB1qQSJ8I"
     },
     {
       "added_at": "2022-02-15 16:00:00",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2022-02-15 16:00:00",
       "album": {
-        "name": "Bachata",
-        "url": "https://open.spotify.com/album/4wbPbmtbTxKufauK9RaAIA"
-      },
-      "artists": [
-        {
-          "name": "Orquesta Picante",
-          "url": "https://open.spotify.com/artist/2O1nM4vaWVhGZum3nhSP18"
-        }
-      ],
-      "duration_ms": 241684,
-      "name": "Muchachita Loca",
-      "url": "https://open.spotify.com/track/0EWwi2Gt8xRYc90h8W0Q8A"
-    },
-    {
-      "added_at": "2022-02-15 16:00:00",
-      "album": {
         "name": "Frente A Frente : Dos Estrellas en Uno (Luis Segura Vs. Raulin Rodriguez)",
         "url": "https://open.spotify.com/album/1e4guYZRcx5lqxvWCYgcx4"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 219040,
       "name": "Traicionera",
       "url": "https://open.spotify.com/track/3MoVVUGwLlQTW3k1kQUe5U"
+    },
+    {
+      "added_at": "2022-02-15 16:00:00",
+      "album": {
+        "name": "Bachata",
+        "url": "https://open.spotify.com/album/4wbPbmtbTxKufauK9RaAIA"
+      },
+      "artists": [
+        {
+          "name": "Orquesta Picante",
+          "url": "https://open.spotify.com/artist/2O1nM4vaWVhGZum3nhSP18"
+        }
+      ],
+      "duration_ms": 241684,
+      "name": "Muchachita Loca",
+      "url": "https://open.spotify.com/track/0EWwi2Gt8xRYc90h8W0Q8A"
     },
     {
       "added_at": "2022-02-15 16:00:00",

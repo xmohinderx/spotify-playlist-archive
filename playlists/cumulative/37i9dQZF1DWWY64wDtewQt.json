@@ -319,7 +319,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 238644,
       "name": "Awareness",
       "url": "https://open.spotify.com/track/24vFPHmQXc0CzfAkNId1al"
@@ -569,7 +569,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 154848,
       "name": "BONES",
       "url": "https://open.spotify.com/track/3QslPNyh3s8UdAtNX3c2Fy"
@@ -653,7 +653,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 146819,
       "name": "BREAKDOWN",
       "url": "https://open.spotify.com/track/49koCgN91HKGyBjYWwIQic"
@@ -801,10 +801,28 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 153277,
       "name": "CRIMINAL MANE",
       "url": "https://open.spotify.com/track/3W5AJtjwTqzYJWhF2iBKAE"
+    },
+    {
+      "album": {
+        "name": "Crystals",
+        "url": "https://open.spotify.com/album/0pbn1QDWs2wOehyxQwVhJS"
+      },
+      "artists": [
+        {
+          "name": "Isolate.exe",
+          "url": "https://open.spotify.com/artist/6awzrpxHXHtibHWUv86jVI"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139200,
+      "name": "Crystals",
+      "url": "https://open.spotify.com/track/2BH3j05ZXWr5PR30sW079d"
     },
     {
       "album": {
@@ -2098,6 +2116,28 @@
     },
     {
       "album": {
+        "name": "HEART RATE",
+        "url": "https://open.spotify.com/album/6U6xBai9lQCn6sqDJJGGW7"
+      },
+      "artists": [
+        {
+          "name": "CURSEDEVIL",
+          "url": "https://open.spotify.com/artist/6rzNFUmaEVnYb8kzh9tBTt"
+        },
+        {
+          "name": "D4C",
+          "url": "https://open.spotify.com/artist/03dgMbqosvNOQzxyfqALkq"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125538,
+      "name": "HEART RATE",
+      "url": "https://open.spotify.com/track/2ht13ee9lxkXCMOxVQo0jB"
+    },
+    {
+      "album": {
         "name": "HELLDRIFT 2",
         "url": "https://open.spotify.com/album/7G5DdkPOsb2rcuJaByJjbz"
       },
@@ -2501,7 +2541,7 @@
       ],
       "date_added": "2021-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 142258,
       "name": "KILLKA",
       "url": "https://open.spotify.com/track/3SQV31uJMStclklmwxQHe1"
@@ -2717,7 +2757,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 179407,
       "name": "LETTERS TO BANKSY",
       "url": "https://open.spotify.com/track/3qwlyPrjF2GJLbm7r2D2jO"
@@ -3647,7 +3687,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 123208,
       "name": "Phonk Save the World",
       "url": "https://open.spotify.com/track/7ze3dmIW0eC4ZL2cfReTWO"
@@ -3723,6 +3763,28 @@
       "duration_ms": 138364,
       "name": "Pleasure",
       "url": "https://open.spotify.com/track/56DUuT3T0rKQsq0NH2jY5y"
+    },
+    {
+      "album": {
+        "name": "Poison",
+        "url": "https://open.spotify.com/album/5ms0HwGA2tl2wO6W8zNs1U"
+      },
+      "artists": [
+        {
+          "name": "HXELLPLAYA",
+          "url": "https://open.spotify.com/artist/139o7LrZwdg6500us8tVNH"
+        },
+        {
+          "name": "Daft Culture",
+          "url": "https://open.spotify.com/artist/3IA6UawCGO9Om0DJEU8FOt"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184905,
+      "name": "Poison",
+      "url": "https://open.spotify.com/track/0Uym38yYXOvZLjiIFYP8T0"
     },
     {
       "album": {
@@ -3807,6 +3869,24 @@
       "duration_ms": 123870,
       "name": "PRINCE OF DARKNESS",
       "url": "https://open.spotify.com/track/3F8ydJz1se1vIxZTRcRjIJ"
+    },
+    {
+      "album": {
+        "name": "Psycho",
+        "url": "https://open.spotify.com/album/5cdFDCeHiZce0GZED9Ztjz"
+      },
+      "artists": [
+        {
+          "name": "KSLV Noh",
+          "url": "https://open.spotify.com/artist/2ElMqlv5py0QFIVXUff627"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112996,
+      "name": "Psycho",
+      "url": "https://open.spotify.com/track/3fq2Hq0JRSvLA8cpH70KeT"
     },
     {
       "album": {
@@ -4080,6 +4160,28 @@
     },
     {
       "album": {
+        "name": "ROADKILL",
+        "url": "https://open.spotify.com/album/6v6nePEhOnTXq7Zfk7EHmM"
+      },
+      "artists": [
+        {
+          "name": "SAOTOMAMORE",
+          "url": "https://open.spotify.com/artist/4MxJYU17fdqZ9tzK1d7aeM"
+        },
+        {
+          "name": "SMITHMANE",
+          "url": "https://open.spotify.com/artist/5WOke44Ea57bHmJ3X0qluG"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124800,
+      "name": "ROADKILL",
+      "url": "https://open.spotify.com/track/2WqPiS79q9a5PXQhA3tun7"
+    },
+    {
+      "album": {
         "name": "RUNWAY",
         "url": "https://open.spotify.com/album/4cuC8GYSNhztfeZC75DzzN"
       },
@@ -4330,6 +4432,28 @@
     },
     {
       "album": {
+        "name": "SLAUGHTER HOUSE",
+        "url": "https://open.spotify.com/album/74VzeE1hiSnr1P2SsQ2m0L"
+      },
+      "artists": [
+        {
+          "name": "Phonkha",
+          "url": "https://open.spotify.com/artist/5LloPEToP2oZZGdSmh1TFU"
+        },
+        {
+          "name": "zecki",
+          "url": "https://open.spotify.com/artist/3hmaJ9tTvaDVTrJyHPO9T0"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151135,
+      "name": "SLAUGHTER HOUSE",
+      "url": "https://open.spotify.com/track/512GmOfa7bOg5IJcrVHMdy"
+    },
+    {
+      "album": {
         "name": "SLAYER",
         "url": "https://open.spotify.com/album/6jeoIb83bE8HaEr1HvHTZj"
       },
@@ -4469,6 +4593,28 @@
       "duration_ms": 174404,
       "name": "Splash",
       "url": "https://open.spotify.com/track/3cpTFbDoo3JS9ORoA29s4g"
+    },
+    {
+      "album": {
+        "name": "Step Back!",
+        "url": "https://open.spotify.com/album/5bgXspdu04zFxX5gq8uXMl"
+      },
+      "artists": [
+        {
+          "name": "1nonly",
+          "url": "https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER"
+        },
+        {
+          "name": "Sxmpra",
+          "url": "https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150674,
+      "name": "Step Back!",
+      "url": "https://open.spotify.com/track/6jdwbcH788txYS6Doy1F1j"
     },
     {
       "album": {
@@ -4885,7 +5031,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 136280,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/2mPChVIzI68uupwyAKhDVv"
@@ -5333,6 +5479,24 @@
       "duration_ms": 146285,
       "name": "YOUR SMILE",
       "url": "https://open.spotify.com/track/1TDCt6qpnBhxGctJsgB1yg"
+    },
+    {
+      "album": {
+        "name": "|BONKERS|",
+        "url": "https://open.spotify.com/album/0WQa2WyVWjNNiTB7ACrWwr"
+      },
+      "artists": [
+        {
+          "name": "staplegun",
+          "url": "https://open.spotify.com/artist/4UwArHrn7xxZleV0q6OzwI"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212335,
+      "name": "|BONKERS|",
+      "url": "https://open.spotify.com/track/2G23H0snYYKYqRlyFvVObS"
     },
     {
       "album": {

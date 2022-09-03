@@ -1,29 +1,13 @@
 {
   "description": "Extra vicious, hard-hitting pop.  This is SALT.  Cover: Demi Lovato",
-  "num_followers": 296556,
+  "num_followers": 296409,
   "original_name": "SALT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQ4NjQwMCwwMDAwMDAwMDYyZDVlOGQ4Y2FhZTY2ODFjOGU4N2UwMmRlN2YyYmJm",
+  "snapshot_id": "MTY2MjA5MTIwMCwwMDAwMDAwMDA2NjI5YWZmNjFkZDNiYjIyNjYxMDdjN2QxZjA0ODA1",
   "tracks": [
-    {
-      "added_at": "2022-08-19 04:01:00",
-      "album": {
-        "name": "29",
-        "url": "https://open.spotify.com/album/2xMel5JwlO9RiqCANKjCaQ"
-      },
-      "artists": [
-        {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
-        }
-      ],
-      "duration_ms": 163027,
-      "name": "29",
-      "url": "https://open.spotify.com/track/35GQVy9TgNSRFQRTlr0e7m"
-    },
     {
       "added_at": "2022-08-19 04:01:00",
       "album": {
@@ -41,6 +25,38 @@
       "url": "https://open.spotify.com/track/749rod7GCmj0OVdumGfzVq"
     },
     {
+      "added_at": "2022-08-19 04:01:00",
+      "album": {
+        "name": "29",
+        "url": "https://open.spotify.com/album/2xMel5JwlO9RiqCANKjCaQ"
+      },
+      "artists": [
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "duration_ms": 163027,
+      "name": "29",
+      "url": "https://open.spotify.com/track/35GQVy9TgNSRFQRTlr0e7m"
+    },
+    {
+      "added_at": "2022-06-24 04:00:00",
+      "album": {
+        "name": "Breakfast",
+        "url": "https://open.spotify.com/album/7HWnZ3HvfiVjEIyFWC4Qlf"
+      },
+      "artists": [
+        {
+          "name": "Dove Cameron",
+          "url": "https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE"
+        }
+      ],
+      "duration_ms": 148470,
+      "name": "Breakfast",
+      "url": "https://open.spotify.com/track/6GUiIbJ834FcHewby3PwV0"
+    },
+    {
       "added_at": "2022-08-12 04:00:00",
       "album": {
         "name": "Dolls EP",
@@ -55,6 +71,22 @@
       "duration_ms": 145386,
       "name": "Villain",
       "url": "https://open.spotify.com/track/6y0VIRo9CyIIHBdlPklTl0"
+    },
+    {
+      "added_at": "2022-08-26 04:00:00",
+      "album": {
+        "name": "W.I.T.C.H.",
+        "url": "https://open.spotify.com/album/3Z8vTrrDg2JbOgtYf82G7b"
+      },
+      "artists": [
+        {
+          "name": "Devon Cole",
+          "url": "https://open.spotify.com/artist/1VFt2HpmFG8Ufq6SDCoZe4"
+        }
+      ],
+      "duration_ms": 132133,
+      "name": "W.I.T.C.H.",
+      "url": "https://open.spotify.com/track/5XemvyG79fcKPl5lgbhplq"
     },
     {
       "added_at": "2022-08-05 04:01:00",
@@ -75,22 +107,6 @@
     {
       "added_at": "2022-08-19 04:01:00",
       "album": {
-        "name": "Bad Game Of Telephone",
-        "url": "https://open.spotify.com/album/20Wa4xEz4oj4tG8n2CNN1s"
-      },
-      "artists": [
-        {
-          "name": "AJA",
-          "url": "https://open.spotify.com/artist/4i8jleH8zrMtVQNpir3iDj"
-        }
-      ],
-      "duration_ms": 185112,
-      "name": "Bad Game Of Telephone",
-      "url": "https://open.spotify.com/track/1XlzvHH3NU2csyowpJcr6C"
-    },
-    {
-      "added_at": "2022-08-19 04:01:00",
-      "album": {
         "name": "Trust Issues",
         "url": "https://open.spotify.com/album/45yZQnazJjAbDlJyIkGEQ9"
       },
@@ -105,20 +121,20 @@
       "url": "https://open.spotify.com/track/2z5uCpJamxXgs7GKa6qzPi"
     },
     {
-      "added_at": "2022-08-26 04:00:00",
+      "added_at": "2022-08-19 04:01:00",
       "album": {
-        "name": "W.I.T.C.H.",
-        "url": "https://open.spotify.com/album/3Z8vTrrDg2JbOgtYf82G7b"
+        "name": "Bad Game Of Telephone",
+        "url": "https://open.spotify.com/album/20Wa4xEz4oj4tG8n2CNN1s"
       },
       "artists": [
         {
-          "name": "Devon Cole",
-          "url": "https://open.spotify.com/artist/1VFt2HpmFG8Ufq6SDCoZe4"
+          "name": "AJA",
+          "url": "https://open.spotify.com/artist/4i8jleH8zrMtVQNpir3iDj"
         }
       ],
-      "duration_ms": 132133,
-      "name": "W.I.T.C.H.",
-      "url": "https://open.spotify.com/track/5XemvyG79fcKPl5lgbhplq"
+      "duration_ms": 185112,
+      "name": "Bad Game Of Telephone",
+      "url": "https://open.spotify.com/track/1XlzvHH3NU2csyowpJcr6C"
     },
     {
       "added_at": "2022-08-19 04:01:00",
@@ -137,20 +153,36 @@
       "url": "https://open.spotify.com/track/0skYUMpS0AcbpjcGsAbRGj"
     },
     {
-      "added_at": "2022-06-24 04:00:00",
+      "added_at": "2022-09-02 04:00:00",
       "album": {
-        "name": "Breakfast",
-        "url": "https://open.spotify.com/album/7HWnZ3HvfiVjEIyFWC4Qlf"
+        "name": "Bury Me Alive",
+        "url": "https://open.spotify.com/album/7JwAaRcuWbdfqkfGX2VbA5"
       },
       "artists": [
         {
-          "name": "Dove Cameron",
-          "url": "https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE"
+          "name": "Xowie Jones",
+          "url": "https://open.spotify.com/artist/0ZlBHRn2ZsHc1FESUa43ij"
         }
       ],
-      "duration_ms": 148470,
-      "name": "Breakfast",
-      "url": "https://open.spotify.com/track/6GUiIbJ834FcHewby3PwV0"
+      "duration_ms": 117464,
+      "name": "Bury Me Alive",
+      "url": "https://open.spotify.com/track/6vCsRxJAyCB75JQKZc8MHb"
+    },
+    {
+      "added_at": "2022-09-02 04:00:00",
+      "album": {
+        "name": "LOVE AND WAR",
+        "url": "https://open.spotify.com/album/2q5AVOB26ptWtuXN3hjfok"
+      },
+      "artists": [
+        {
+          "name": "AViVA",
+          "url": "https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67"
+        }
+      ],
+      "duration_ms": 160737,
+      "name": "LOVE AND WAR",
+      "url": "https://open.spotify.com/track/3YOPBDerQJorMfLrORcbsY"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1045,26 +1077,6 @@
       "url": "https://open.spotify.com/track/2muY007Tkz4pMR9L15jlJL"
     },
     {
-      "added_at": "2022-04-15 04:01:00",
-      "album": {
-        "name": "American Song Contest: Episode 4",
-        "url": "https://open.spotify.com/album/5tLEwslxrLWstMLpvNflyc"
-      },
-      "artists": [
-        {
-          "name": "Stela Cole",
-          "url": "https://open.spotify.com/artist/1PlWf6idMAz65Luiq6aOY9"
-        },
-        {
-          "name": "American Song Contest",
-          "url": "https://open.spotify.com/artist/3pPClIZCqgahG8bguvacGh"
-        }
-      ],
-      "duration_ms": 159050,
-      "name": "DIY (From \u201cAmerican Song Contest\u201d)",
-      "url": "https://open.spotify.com/track/4JW9qAFkAuPkENUEDvO4hr"
-    },
-    {
       "added_at": "2022-04-08 04:00:00",
       "album": {
         "name": "Honestly I'm Disappointed",
@@ -1095,22 +1107,6 @@
       "duration_ms": 148275,
       "name": "When You Say My Name",
       "url": "https://open.spotify.com/track/3a8b6uo4vnQSJroGhaNhgG"
-    },
-    {
-      "added_at": "2022-02-25 05:00:00",
-      "album": {
-        "name": "dying on the inside",
-        "url": "https://open.spotify.com/album/67sFRrnPbvz9Te28kO6Ktu"
-      },
-      "artists": [
-        {
-          "name": "Nessa Barrett",
-          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
-        }
-      ],
-      "duration_ms": 204847,
-      "name": "dying on the inside",
-      "url": "https://open.spotify.com/track/6h1s7cKnUtsbRpE5bwnUTf"
     },
     {
       "added_at": "2022-01-28 05:07:55",

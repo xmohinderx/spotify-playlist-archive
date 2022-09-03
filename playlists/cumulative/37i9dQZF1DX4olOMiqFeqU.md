@@ -4,7 +4,7 @@
 
 > 100% Pinoy hits from your favorite artists!
 
-89 songs - 6 hr 34 min - [published](https://open.spotify.com/playlist/2aC5BPUM0MsoTBT2ZjgARC)
+90 songs - 6 hr 38 min - [published](https://open.spotify.com/playlist/2aC5BPUM0MsoTBT2ZjgARC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [So Slow](https://open.spotify.com/track/1Xr4t4Ze6gfuzY1Yb4bP3z) | [Side A & Freestyle](https://open.spotify.com/artist/3JITwr6Xwkz8p6cm9leNUh) | [Back 2 Back](https://open.spotify.com/album/5m3Qj30Vp2BKZVGzBFxCyD) | 4:36 | 2022-06-13 | 2022-07-28 |
 | [Someday](https://open.spotify.com/track/1MkiRsYBkXbXvdiYvTTiQT) | [Nina](https://open.spotify.com/artist/2tQbSWgZLIB8MXMnsXVRro) | [Nina](https://open.spotify.com/album/1yx0lKqG8Z1J3IOxx4gbzs) | 3:34 | 2022-04-19 |  |
 | [Starting over Again](https://open.spotify.com/track/7DpfL3u92JKKTys5w7jfY7) | [Toni Gonzaga](https://open.spotify.com/artist/5BAyYwbv8OSfqeXMjPgWX6) | [Celestine](https://open.spotify.com/album/2VGSxW3eF2Ass0Qlp7g2PY) | 4:06 | 2022-04-19 | 2022-07-28 |
+| [Sundo](https://open.spotify.com/track/2OqQDFY4MgzkAoAZ67CscA) | [Imago](https://open.spotify.com/artist/6MXu7TWZnmykwkXiRJeUMh) | [Blush](https://open.spotify.com/album/2WNYwZg6JlIjSkQGq0fggk) | 4:03 | 2022-06-13 |  |
 | [Tadhana](https://open.spotify.com/track/6FIEuf1JIzmCtach0gXpeG) | [Up Dharma Down](https://open.spotify.com/artist/3wbCeEPAW6po7J46netxMT) | [Capacities](https://open.spotify.com/album/1QpFitywD6FWjFWvTmLOw9) | 3:42 | 2022-06-13 |  |
 | [Tadhana](https://open.spotify.com/track/6NFKf8vBApSvtzkapYmnVR) | [Up Dharma Down](https://open.spotify.com/artist/3wbCeEPAW6po7J46netxMT) | [Capacities](https://open.spotify.com/album/4SjshYHT8OeSHB6zun2Hxx) | 3:42 | 2022-04-19 | 2022-07-28 |
 | [Teka Lang](https://open.spotify.com/track/3CP6W4N2CnsZgejmUprD6v) | [Emman](https://open.spotify.com/artist/3FwNjtXQCdxpDOXmgJQGnG) | [Teka Lang](https://open.spotify.com/album/0QK7IkS5mne9e95ef0BjAE) | 3:16 | 2022-06-13 |  |
@@ -91,7 +92,7 @@
 | [Till I Met You](https://open.spotify.com/track/0JzwzRDkwZr8s1WRfNgUqA) | [Angeline Quinto](https://open.spotify.com/artist/7DW4ijH3n36QN0RlC0n649) | [She's Dating the Gangster \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0NfAzxHZ4diQArSqZMTJHc) | 4:00 | 2022-04-19 |  |
 | [Till My Heartaches End \- From "The Significant Other"](https://open.spotify.com/track/4isDU5tDNqFLQ5xQ9NgPmz) | [KZ Tandingan](https://open.spotify.com/artist/1mcqfNCReSFxun2vIWvC28) | [Till My Heartaches End \(From "The Significant Other"\)](https://open.spotify.com/album/6Mt2ypZ8Q48fAdqiVkw1kH) | 4:16 | 2022-04-19 | 2022-07-29 |
 | [Titig](https://open.spotify.com/track/1x8pFCRfBnDqckyB6mlZci) | [MC Einstein](https://open.spotify.com/artist/7dxr6AabRWhsfYRyVJlErK), [Flow G](https://open.spotify.com/artist/3PDFGpPl4ienSn5Vwisfrh), [Jekkpot](https://open.spotify.com/artist/7ypt5Qvb2h6rIahhfls05p), [Yuridope](https://open.spotify.com/artist/5xOvrnVpLjzfGi69GDlzQY) | [Titig](https://open.spotify.com/album/4tk561oaKN5jhKhu8XuP1W) | 4:19 | 2022-06-13 |  |
-| [Torete](https://open.spotify.com/track/3nQtkvFMNkRwxjKVAlGPcG) | [Moonstar88](https://open.spotify.com/artist/2kZThDGZcHl4klYYFk0v8n) | [Popcorn](https://open.spotify.com/album/2CZhWHzzLkNUtfONjbKOy1) | 4:24 | 2022-06-13 |  |
+| [Torete](https://open.spotify.com/track/3nQtkvFMNkRwxjKVAlGPcG) | [Moonstar88](https://open.spotify.com/artist/2kZThDGZcHl4klYYFk0v8n) | [Popcorn](https://open.spotify.com/album/2CZhWHzzLkNUtfONjbKOy1) | 4:24 | 2022-06-13 | 2022-09-03 |
 | [Tulad Mo](https://open.spotify.com/track/1YDHJAVkG1Z6mnzu1Orpap) | [TJ Monterde](https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0) | [Tulad Mo](https://open.spotify.com/album/4Rl0tuXTg3rfQJyMf2Ufa1) | 3:40 | 2022-04-19 | 2022-07-29 |
 | [Unang Sayaw](https://open.spotify.com/track/4iRRAvxPPWXQp3mV1rAbPF) | [NOBITA](https://open.spotify.com/artist/5GVk1KCKa1tdHRev4bMw7V) | [Unang Sayaw](https://open.spotify.com/album/05VgPoz2XrqlgnnOYBaPsk) | 4:38 | 2022-04-19 |  |
 | [Why Can't It Be](https://open.spotify.com/track/0zFYa7NIpKhmom8zrZx7Ga) | [Kaye Cal](https://open.spotify.com/artist/0xNog7ZdcTq9sJFiIXJJTH) | [Kaye Cal](https://open.spotify.com/album/77ZkVwowfs27AEXl6GHiET) | 4:08 | 2022-04-19 | 2022-07-26 |

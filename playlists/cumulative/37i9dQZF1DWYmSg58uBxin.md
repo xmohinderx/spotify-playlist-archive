@@ -4,7 +4,7 @@
 
 > Soothing piano and strings to help you concentrate.
 
-174 songs - 8 hr 16 min - [published](https://open.spotify.com/playlist/4no306NeRC0dER7OtnYIDZ)
+175 songs - 8 hr 19 min - [published](https://open.spotify.com/playlist/4no306NeRC0dER7OtnYIDZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Angustifolia](https://open.spotify.com/track/0wXoceSodypn4BlHQRUYLA) | [Dagmar Sheernan](https://open.spotify.com/artist/3sQmwQXoOcmGEc20ZM1zG9) | [Angustifolia](https://open.spotify.com/album/13Qyyw6AwtO4QPNeFrHfEF) | 2:13 | 2020-10-20\* |  |
 | [As We Float](https://open.spotify.com/track/2mCHLtMrI4SLayY8spzC5V) | [Joe Kirby](https://open.spotify.com/artist/0Vqhg7RKoHs40Y2Nc9jA8a) | [Abbey Road Masters: Repair & Reflect](https://open.spotify.com/album/3qbfM9ChNmnFlb1iU8B3Yv) | 2:46 | 2022-05-27 |  |
 | [Aspiration](https://open.spotify.com/track/2t8KaPzrQ3Isk45ZlhXKL4) | [Tip Ferreira](https://open.spotify.com/artist/3TSlZVPsG99cbGNs8AJAYw) | [Aspiration](https://open.spotify.com/album/4mgZqnt9d1LMagwFdV0Ic6) | 3:06 | 2020-10-20\* |  |
-| [At Peace](https://open.spotify.com/track/0Dd0bM1MWg2JvHbjRe7o1K) | [Milo Stavos](https://open.spotify.com/artist/4qJYgLgyq8lH4yaQ4qrJYP) | [At Peace](https://open.spotify.com/album/1FOao3k0m5W7rsuANmI7DB) | 3:46 | 2020-10-20\* |  |
+| [At Peace](https://open.spotify.com/track/0Dd0bM1MWg2JvHbjRe7o1K) | [Milo Stavos](https://open.spotify.com/artist/4qJYgLgyq8lH4yaQ4qrJYP) | [At Peace](https://open.spotify.com/album/1FOao3k0m5W7rsuANmI7DB) | 3:46 | 2020-10-20\* | 2022-09-03 |
 | [Atlantis](https://open.spotify.com/track/48ONVlzVpQiJNY3oHM7dud) | [Clarence Öfwerman](https://open.spotify.com/artist/58c41fbN8x9viByYPYSdSc) | [Atlantis](https://open.spotify.com/album/47KJxUttlgxLOPkxmAqTYK) | 2:55 | 2020-10-20\* | 2022-01-08 |
 | [Avenues](https://open.spotify.com/track/6JO9hJYbENVIeo5J6NP8l4) | [Seth Fernsby](https://open.spotify.com/artist/1HURo2WjQ7rMSgqgcKT6MX) | [Avenues](https://open.spotify.com/album/0rvrpin8MFriRR4dIIneA1) | 2:19 | 2020-10-20\* |  |
 | [Barcarolle](https://open.spotify.com/track/5BHPZXzyqpVDsUhzzf7nTS) | [Niccolò Pagliani](https://open.spotify.com/artist/59yX2grILnPdqDdLnYhKJE) | [Continuo](https://open.spotify.com/album/6J9zqyjrncN68DgTubHoGr) | 2:20 | 2020-10-20\* | 2021-10-21 |
@@ -23,11 +23,11 @@
 | [Benevolent](https://open.spotify.com/track/6PySB4GoTTMKXhH4Ksaugj) | [Yonder Dale](https://open.spotify.com/artist/4EEGhKKHmkHT31LAlDnXfb) | [These Steady Hands](https://open.spotify.com/album/5JHD4Jdz7wj1AUxH5IxOPP) | 3:08 | 2020-10-20\* |  |
 | [Berceuse Andalouse](https://open.spotify.com/track/0iEaYbbs0Py0s8TgwZLpSd) | [Marcel Leblanc](https://open.spotify.com/artist/4pZL5hrGaaGSVfFOCtYxz7) | [Thérapie Acoustique](https://open.spotify.com/album/5XNtYndkZcj7HNUxtOSP6X) | 2:11 | 2020-10-20\* |  |
 | [Between Moments](https://open.spotify.com/track/4dnjEaI4F2OigWbi95JIDm) | [Rand Aldo](https://open.spotify.com/artist/28COj84KB3mitRVXZkNW4N) | [Tomorrow Will Save Us](https://open.spotify.com/album/1IsXOWnEnSntKkJqVaPRhw) | 1:56 | 2020-10-20\* | 2022-07-29 |
-| [Between Moments](https://open.spotify.com/track/7IeAd6rhMU9zMG0wccZbwb) | [Rand Aldo](https://open.spotify.com/artist/28COj84KB3mitRVXZkNW4N) | [Tomorrow Will Save Us](https://open.spotify.com/album/7GQ5hOaFFAcwBhJqSCZCCC) | 1:56 | 2022-07-22 |  |
+| [Between Moments](https://open.spotify.com/track/7IeAd6rhMU9zMG0wccZbwb) | [Rand Aldo](https://open.spotify.com/artist/28COj84KB3mitRVXZkNW4N) | [Tomorrow Will Save Us](https://open.spotify.com/album/7GQ5hOaFFAcwBhJqSCZCCC) | 1:56 | 2022-07-22 | 2022-09-03 |
 | [Bibo No Aozora](https://open.spotify.com/track/2DPCymMTTu2SbGsPe7wPSU) | [evighet.](https://open.spotify.com/artist/2jv3T5ewJ2FaezIjkWEQQz) | [Bibo No Aozora](https://open.spotify.com/album/03Xgef5UP1nAoXxpvLxwYc) | 3:18 | 2020-10-20\* |  |
 | [Big Wide World \(Reimagined for Piano\)](https://open.spotify.com/track/0NRJQn7P89YOHSIgq11WWp) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC), [Philip Daniel](https://open.spotify.com/artist/58erVRK8N3stJghsvYAFq5) | [Big Wide World \(Reimagined for Piano\)](https://open.spotify.com/album/1Zt7ye77WN7lANfcOVYwPJ) | 4:53 | 2022-06-24 |  |
 | [Birdman](https://open.spotify.com/track/6baoHqXdPuEnkmBUazVpoO) | [Abbie Lou Johnston](https://open.spotify.com/artist/4rc9dcTUGouPU90UA8Kwjo) | [Birdman](https://open.spotify.com/album/545Py5RMl9HVcHEIvGXnzF) | 3:21 | 2020-10-20\* |  |
-| [Bord de L’eau](https://open.spotify.com/track/0g6LbYjAdDmV4YQcnzV4tF) | [Lou D'Audrey](https://open.spotify.com/artist/1Af7tZT5ll2gtgG4jO1Kxl) | [Une Dernière Histoire](https://open.spotify.com/album/7z1hYYM53riIc9GF9PN41P) | 2:38 | 2020-10-20\* |  |
+| [Bord de L’eau](https://open.spotify.com/track/0g6LbYjAdDmV4YQcnzV4tF) | [Lou D'Audrey](https://open.spotify.com/artist/1Af7tZT5ll2gtgG4jO1Kxl) | [Une Dernière Histoire](https://open.spotify.com/album/7z1hYYM53riIc9GF9PN41P) | 2:38 | 2020-10-20\* | 2022-09-03 |
 | [Broken and Beautiful](https://open.spotify.com/track/4JBJiBA9gjVrWhHHf8lhgE) | [Dawn, Dawn, Dawn](https://open.spotify.com/artist/6qT731U8rSadVUrqDvGakd) | [A Gentle Invitation](https://open.spotify.com/album/3u9VcEAHRGzXiejoaybCOw) | 3:29 | 2020-10-20\* |  |
 | [Buonanotte e sogni d’oro](https://open.spotify.com/track/6pQlRxPMSILxVr7vz3JmGC) | [Artemio Li Fonti](https://open.spotify.com/artist/78cI0FrhBVpr9Dq0fN5BZw) | [Buonanotte e sogni d’oro](https://open.spotify.com/album/2mqptjD5PxNAeTPzouxYKT) | 3:44 | 2020-10-20\* | 2021-10-21 |
 | [Buoyant](https://open.spotify.com/track/6Wq0t1A5sxrYNxKtfXuXHB) | [Iremia](https://open.spotify.com/artist/2GQxq7lvcYy8w71KvQHJM6) | [Lucid Air](https://open.spotify.com/album/2sAUWgPdApJIaescPesSPq) | 1:30 | 2021-01-30 |  |
@@ -36,6 +36,7 @@
 | [Calm Skies](https://open.spotify.com/track/2FXFAi4sseuJfboDNpP9sQ) | [Vincent Fanguro](https://open.spotify.com/artist/4VWpxQlVnMltoRKKVToSJM) | [Calm Skies](https://open.spotify.com/album/4cXfofUmdPZ87JT6cixyAc) | 2:55 | 2021-09-18 |  |
 | [Cloudsailing](https://open.spotify.com/track/7aHbZez2yeqJFJWalKL0WH) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [Windflower](https://open.spotify.com/album/5pMpxNkROAIq7wygp4oHbl) | 3:19 | 2021-12-23 |  |
 | [Cloudy Mountains](https://open.spotify.com/track/5uDs595iEmAkqkNfzGB6cl) | [Wolf Keller](https://open.spotify.com/artist/0nL3okOqVl6PvsOmtzWwkb) | [Cloudy Mountains](https://open.spotify.com/album/1VWWZQ49IFtLX1iWWVK1p5) | 2:39 | 2021-06-18 |  |
+| [Colin](https://open.spotify.com/track/1Bd5aIOYLMyxvI4FtG08x9) | [Las Desorden](https://open.spotify.com/artist/05Vq9YRP30tBWRiSR7mUV3) | [Colin](https://open.spotify.com/album/2naNvERtXmruzo0nxV4pWR) | 2:43 | 2022-09-02 |  |
 | [Creating](https://open.spotify.com/track/1WomdwYcTk5F70E4hxAOE3) | [Niccolò Pagliani](https://open.spotify.com/artist/59yX2grILnPdqDdLnYhKJE) | [Dolce](https://open.spotify.com/album/0ygFEGKH9Rn6GeeThGKVOc) | 2:25 | 2020-10-20\* |  |
 | [Crossing](https://open.spotify.com/track/08Q4GyxnB8ak1ZwHnjwova) | [The Tides](https://open.spotify.com/artist/0Z3GVEGMJYq0nTdZNJAx4V) | [Crossing](https://open.spotify.com/album/3FljiBhzr6zWL9zymtBkpV) | 2:33 | 2020-10-20\* |  |
 | [Curiosity](https://open.spotify.com/track/3WEdWvAScE1EcBfErseQnC) | [Beau Projet](https://open.spotify.com/artist/5bLGj9jAzmBqGwjB2UbjOC) | [Curiosity](https://open.spotify.com/album/5FbnGcGNWnjufAuOrXss3k) | 2:35 | 2020-10-20\* |  |
@@ -103,7 +104,7 @@
 | [Missing Harmony](https://open.spotify.com/track/2W08tDSfh59v7bw7v3Jani) | [Jeff Birma](https://open.spotify.com/artist/3fxSwAHp7NQsGYVj13iwu6) | [Missing Harmony](https://open.spotify.com/album/59FcURvu4YbOKsC0tvyXAe) | 3:41 | 2020-10-20\* |  |
 | [Mistral](https://open.spotify.com/track/5jagNBf5f4KJuUtt1SG1ID) | [Eva Nordstroem](https://open.spotify.com/artist/0UbUiRmguo8sTWZMEaG1ZO) | [Mistral](https://open.spotify.com/album/2Zeq0dsOsavJwQisliP7FB) | 1:13 | 2020-10-20\* |  |
 | [Moon Ballad](https://open.spotify.com/track/4v2YcdQ5O3jaL4kAo9RLMC) | [Oliver Évilo](https://open.spotify.com/artist/6pr16671AS8qchaPqDDM0Y) | [Jupiter Sunrise](https://open.spotify.com/album/0HkECsNONkYufTgr4dnBJv) | 2:37 | 2020-10-20\* |  |
-| [Moving Space](https://open.spotify.com/track/3m1hoXw6tRHXRqK37bNbax) | [Dilaz](https://open.spotify.com/artist/0TOvt96p0iReJMOGxtV5ub) | [In The Deep](https://open.spotify.com/album/3Zs6jLiLhNzQcwJFHq677C) | 3:04 | 2020-10-20\* |  |
+| [Moving Space](https://open.spotify.com/track/3m1hoXw6tRHXRqK37bNbax) | [Dilaz](https://open.spotify.com/artist/0TOvt96p0iReJMOGxtV5ub) | [In The Deep](https://open.spotify.com/album/3Zs6jLiLhNzQcwJFHq677C) | 3:04 | 2020-10-20\* | 2022-09-03 |
 | [Moving Towards Fine](https://open.spotify.com/track/2apnPHVAbn0ny2K8RowbpN) | [Amaranth Cove](https://open.spotify.com/artist/1Gt39QnTBTndeyiJ5SO04q) | [Envision](https://open.spotify.com/album/4yg5OckIrdMo7yIJcDRU4F) | 3:14 | 2020-10-20\* |  |
 | [Music For Growing Flowers \- Pt\. 4](https://open.spotify.com/track/0iMFw7AbmYbQS1KwdeFHgW) | [Erland Cooper](https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa) | [Music For Growing Flowers](https://open.spotify.com/album/0L51mBkDmhgzIUvRtogtGw) | 5:34 | 2022-06-03 | 2022-08-11 |
 | [Music For Growing Flowers \- Pt\. 4](https://open.spotify.com/track/0kY5iUcL7JGqGLz3t2hhCL) | [Erland Cooper](https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa) | [Music For Growing Flowers](https://open.spotify.com/album/7nlNFxFHuJxLHtfGM2mAkD) | 5:34 | 2022-07-22 |  |
@@ -165,7 +166,7 @@
 | [The Sacrament](https://open.spotify.com/track/7JDeCzVl0C9cqqTxqaFhU9) | [Elenor Fuchs](https://open.spotify.com/artist/0sDCRQ87f2NG1mIoXc9yBb) | [The Sacrament](https://open.spotify.com/album/6PCHBDH0Zpllxm3FKuBnMz) | 2:15 | 2020-10-20\* |  |
 | [The Saga](https://open.spotify.com/track/08ar8UUeKtraKthaGfEAVs) | [Rick Mays Orchestra](https://open.spotify.com/artist/6M8CwqhafAjTE6iqSPXazJ) | [The Saga](https://open.spotify.com/album/1m1Zh5Fy3fkbiXcYzc7H2l) | 1:49 | 2020-10-20\* |  |
 | [The Seeds I’ve Sown](https://open.spotify.com/track/3OLr0gzUC0zLlWmpE6L0Ay) | [Alina Linnéa](https://open.spotify.com/artist/2eWNqV0E7nkCq8MndbcmAU) | [The Seeds I've Sown](https://open.spotify.com/album/7FN3LtwM4XRkXXHuLPTzdI) | 3:01 | 2020-10-20\* |  |
-| [These Steady Hands](https://open.spotify.com/track/3IIJBXhYKDDRk5UAaSSacY) | [Yonder Dale](https://open.spotify.com/artist/4EEGhKKHmkHT31LAlDnXfb) | [These Steady Hands](https://open.spotify.com/album/5JHD4Jdz7wj1AUxH5IxOPP) | 2:45 | 2020-10-20\* |  |
+| [These Steady Hands](https://open.spotify.com/track/3IIJBXhYKDDRk5UAaSSacY) | [Yonder Dale](https://open.spotify.com/artist/4EEGhKKHmkHT31LAlDnXfb) | [These Steady Hands](https://open.spotify.com/album/5JHD4Jdz7wj1AUxH5IxOPP) | 2:45 | 2020-10-20\* | 2022-09-03 |
 | [Thoughts](https://open.spotify.com/track/3MUvt8kUIA6QPSBTEnjgMr) | [Dilaz](https://open.spotify.com/artist/0TOvt96p0iReJMOGxtV5ub) | [Empty Canvas](https://open.spotify.com/album/6xla5pUFL0vlN6NjCEeOV3) | 3:21 | 2020-10-20\* |  |
 | [Til Mathilde](https://open.spotify.com/track/74hynqEUgqRntXOfiqAkd9) | [Tine Mydland](https://open.spotify.com/artist/2EvTWBcDR6yBKnXj4aCgQp) | [Til Mathilde](https://open.spotify.com/album/3VgStQpHt6x0AfiBI1t92P) | 4:15 | 2020-10-20\* | 2021-09-03 |
 | [Time Freezes](https://open.spotify.com/track/7A7WJn6zZ1RNoM6FWIffq1) | [Milo Edale](https://open.spotify.com/artist/6ht27sA8oqmvcG4a2gcCsk) | [Winter Solstice](https://open.spotify.com/album/5GWU9xzKbfbKHXneotKD7f) | 3:15 | 2020-10-20\* | 2022-05-20 |

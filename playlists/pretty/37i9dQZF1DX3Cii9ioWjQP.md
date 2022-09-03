@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Cii9ioWjQP.md) - [plain]
 
 > All about Korean Jazz hits & new \(Cover: Woong San\(웅산\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,808 likes - 51 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,829 likes - 51 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

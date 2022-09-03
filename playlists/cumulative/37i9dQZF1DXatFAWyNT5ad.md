@@ -4,7 +4,7 @@
 
 > Let's mix it.
 
-504 songs - 1 day 2 hr 27 min - [published](https://open.spotify.com/playlist/7btkhvftx7WY0w5vxyn75X)
+505 songs - 1 day 2 hr 31 min - [published](https://open.spotify.com/playlist/7btkhvftx7WY0w5vxyn75X)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -237,7 +237,7 @@
 | [I Want You Gone](https://open.spotify.com/track/57Pnwjod2OYmwNlyivrsoe) | [Cyan Kicks](https://open.spotify.com/artist/6nA097TpH4DgdzRYFXAXry) | [Not Your Kind](https://open.spotify.com/album/37be69Kxa6pUHHqo8V8u5L) | 3:22 | 2022-03-24 | 2022-05-12 |
 | [I'm Dead \(feat\. jxdn\) \[From the Podcast “Prom In Hell”\]](https://open.spotify.com/track/6v3uCeZyBl3nygTVIRIMS6) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ), [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [I'm Dead \(feat\. jxdn\) \[From the Podcast “Prom In Hell”\]](https://open.spotify.com/album/1t9u3ZrWBilDu0SADcPbI2) | 2:38 | 2022-03-24 | 2022-05-17 |
 | [I'm Not Mad](https://open.spotify.com/track/6SL8U8TtdwOtGhbmGzsMfX) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Manic](https://open.spotify.com/album/1hlapolkCnQLMgKcKNVCuc) | 2:53 | 2022-03-17 | 2022-08-27 |
-| [i'm too pretty for this](https://open.spotify.com/track/4shULiz3P7luscRsQobtDN) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [i’m too pretty for this](https://open.spotify.com/album/50hj2kKggCkXqSIX2c1rxF) | 2:46 | 2022-07-07 |  |
+| [i'm too pretty for this](https://open.spotify.com/track/4shULiz3P7luscRsQobtDN) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [i’m too pretty for this](https://open.spotify.com/album/50hj2kKggCkXqSIX2c1rxF) | 2:46 | 2022-07-07 | 2022-09-03 |
 | [IDONTWANNATALKTOYOU! \(with renforshort\)](https://open.spotify.com/track/39LAVN7bpAOvpCwA06dvWZ) | [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw), [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [CHASING HARMONY](https://open.spotify.com/album/2bAyamw2R64VLAFsQW20xc) | 2:18 | 2022-03-24 | 2022-04-21 |
 | [idwgtyp](https://open.spotify.com/track/28Qv23wjvAhPZGr5NXhBq8) | [lovelytheband](https://open.spotify.com/artist/4KJ6jujcNPzOyhdNoiNftp) | [idwgtyp](https://open.spotify.com/album/0x5swq6Ju73lmGUdR7sjwi) | 3:06 | 2022-03-24 | 2022-06-06 |
 | [If I Can Dream \(From The Original Motion Picture Soundtrack ELVIS\)](https://open.spotify.com/track/4yibMEwSzelLmFtyXwWwZs) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [If I Can Dream \(From The Original Motion Picture Soundtrack ELVIS\)](https://open.spotify.com/album/5q021NVGXBp7c9QPpZnijt) | 3:16 | 2022-06-16 |  |
@@ -358,6 +358,7 @@
 | [Paranoia](https://open.spotify.com/track/4Hz1TXZ942m4W0nYuajJ2R) | [Finn Askew](https://open.spotify.com/artist/0ZYv8jRFp5YAC29bfjaP9X) | [Paranoia](https://open.spotify.com/album/6Ian4PAL9WBViBcTQ5vYi6) | 2:38 | 2022-03-24 | 2022-07-07 |
 | [parents](https://open.spotify.com/track/68rVGSTnCiFOET9k5Vd8Se) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [the underrated youth](https://open.spotify.com/album/0kGTcfwQC5nlsubgxUXdwP) | 2:51 | 2022-03-17 |  |
 | [Partycrasher](https://open.spotify.com/track/5QfVA7ZS9RtZCefzNedeIe) | [Huddy](https://open.spotify.com/artist/3BxsweDMcgp9gNWmG40u6f) | [Partycrasher](https://open.spotify.com/album/2Vbn9c20CFkn25VxtztPzo) | 3:09 | 2022-03-17 | 2022-07-29 |
+| [Pass The Nirvana](https://open.spotify.com/track/5SDhI2jKg0S5fzEEqPCHiV) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [Pass The Nirvana](https://open.spotify.com/album/50eq5hUKnqB9e51D9GSmKs) | 3:17 | 2022-09-01 |  |
 | [Petty Drone](https://open.spotify.com/track/3CcKRG50NetH6Bsc5AcXZH) | [Mystery Jets](https://open.spotify.com/artist/09K1H1DgyIXHsMx2j7KTFX) | [Petty Drone](https://open.spotify.com/album/7kavQRNZD6BcLV6Gh0wRRd) | 4:45 | 2022-03-24 | 2022-04-18 |
 | [Photographic Head](https://open.spotify.com/track/5TLTQj9GgRcpsMQZifQjuL) | [VANT](https://open.spotify.com/artist/4Xxkt0tSJr1uNxGDZcJLRc) | [Photographic Head](https://open.spotify.com/album/6jqTyNhgUrcXYYSgXPoKQ3) | 4:08 | 2022-03-24 | 2022-04-11 |
 | [Play](https://open.spotify.com/track/4ndo07xOLtWk712vJGKjty) | [Callum Beattie](https://open.spotify.com/artist/4uFxymnU41sM7ytUCjuYTN) | [Play](https://open.spotify.com/album/14k6pQ78800KZL86UWLU4M) | 2:43 | 2022-03-24 | 2022-04-08 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cZuAHLNjGz.md) - [plain]
 
 > Ultimate 101 Punjabi hits with AP Dhillon
 
-[Spotify](https://open.spotify.com/user/spotify) - 683,034 likes - 101 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 684,031 likes - 101 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cZuAHLNjGz.md) - [plain]
 | 5 | [Moon Rise](https://open.spotify.com/track/3oWv5qDKYN7MH6FdlglMN5) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Sanjoy](https://open.spotify.com/artist/6qjhYs5KNSoSU6fNJqDGIo) | [Man Of The Moon](https://open.spotify.com/album/0jasm0jnhQ6Y6OUYTI1NL6) | 2:54 |
 | 6 | [Freestyle](https://open.spotify.com/track/7rlulUEMn27TLbdHpNPugE) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv) | [FAME](https://open.spotify.com/album/6gTapG6daOo6Y9XhibKBvg) | 2:55 |
 | 7 | [OG](https://open.spotify.com/track/3dPlLOjFnKpGpakkhPEIgF) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [No Lookin' Back](https://open.spotify.com/album/3TvDVoxi5iIi1oqCPMt4zp) | 2:53 |
-| 8 | [WE ROLLIN](https://open.spotify.com/track/605r6rtj7kBlJwZWmYx1Dt) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [WE ROLLIN](https://open.spotify.com/album/7EJI4AmDQIyLoxegf5AjDO) | 3:19 |
+| 8 | [WE ROLLIN](https://open.spotify.com/track/6ZYxNjuAU9Vy3VtF6W1dtE) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [We Rollin](https://open.spotify.com/album/09vnsHZoXH0OQWNAaOkVcf) | 3:19 |
 | 9 | [295](https://open.spotify.com/track/5W7DOVGQLTigu09afW7QMT) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ) | [Moosetape](https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T) | 4:30 |
 | 10 | [Excuses](https://open.spotify.com/track/29m79w9xPMH4YCD6r8JSmV) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Gurinder Gill](https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl), [Intense](https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN) | [Excuses](https://open.spotify.com/album/3GkXRRRkV3rfgwG1wJset9) | 2:56 |
 | 11 | [Akhiyaan](https://open.spotify.com/track/2l3dFxtoSMgMQVyRIUHjpz) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Akhiyaan](https://open.spotify.com/album/4MBCBnMZyFFv8Ch9elmLsL) | 3:11 |
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cZuAHLNjGz.md) - [plain]
 | 13 | [Street Style](https://open.spotify.com/track/4RULn5FlCuqIFSreEVp2Lb) | [JERRY](https://open.spotify.com/artist/1mUl05hT77FrwVFW51wOlr) | [Street Style](https://open.spotify.com/album/1vLiDlDZ2rUAzvorR7Fhp9) | 2:38 |
 | 14 | [Plug Talk](https://open.spotify.com/track/4HKbWbn8acXeTq6j0rqO5z) | [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1) | [Plug Talk](https://open.spotify.com/album/3U8R6hOmgBXVxoxii9NBt7) | 2:42 |
 | 15 | [So High](https://open.spotify.com/track/1W1dS4VnIrYnllQJ3CAcZy) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ) | [So High](https://open.spotify.com/album/1p2HziuxqItJYONt8krJbF) | 3:38 |
-| 16 | [ELEVATED](https://open.spotify.com/track/6btas8Eignhw8yKp4VJvGi) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [ELEVATED](https://open.spotify.com/album/7tK9pQYQGTEduNW5i6V24t) | 3:20 |
+| 16 | [ELEVATED](https://open.spotify.com/track/2AilvPt1AQ8PixlCKqkjfj) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Elevated](https://open.spotify.com/album/1XNS0VIWnEKteOv1fa0okk) | 3:20 |
 | 17 | [Pasoori](https://open.spotify.com/track/7lvDsmTRXFE3dK4OjvRiWB) | [Shae Gill](https://open.spotify.com/artist/3bWIy9AUrQdiNeS62Bp3OP), [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl) | [Pasoori](https://open.spotify.com/album/7wgrW5XyZdtk0K8PkW5A7h) | 3:44 |
 | 18 | [Gangsta](https://open.spotify.com/track/3Vmo13MxVRKBszmfK61ONH) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [Way Ahead](https://open.spotify.com/album/0hyDY9e60a2LNEasyI52KF) | 3:10 |
 | 19 | [Nah They Can’t](https://open.spotify.com/track/6PO6EnP2QoP4vN27KmKvrj) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [No Lookin' Back](https://open.spotify.com/album/3TvDVoxi5iIi1oqCPMt4zp) | 3:24 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cZuAHLNjGz.md) - [plain]
 | 100 | [Navi Navi Yaari](https://open.spotify.com/track/39pjjDG9o44eDjkM4BPdiG) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [G.O.A.T.](https://open.spotify.com/album/0wkGNaTXbbxaD9QjvxlNGE) | 3:35 |
 | 101 | [G\-Shit \(feat\. Blockboi Twitch\)](https://open.spotify.com/track/5uuVGnkZEFHBz8unViC3iA) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Blockboi Twitch](https://open.spotify.com/artist/7fc9ZrMgda9ugNGz5DOTtw) | [Moosetape](https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T) | 3:53 |
 
-Snapshot ID: `MTY2MTE2MTExMCwwMDAwMDAwMGM0OGUwMGQyZjVjMjE1MjBhZTQ4ZjkxYjY2Y2FkNmY5`
+Snapshot ID: `MTY2MTE2MTExMCwwMDAwMDAwMDUyOWYwZjg0NDhiMjZlZDhhNjY2MWVlZTdmMGZlMTQ0`

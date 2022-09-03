@@ -1178,6 +1178,24 @@
     },
     {
       "album": {
+        "name": "Wala Fuse (Special Version)",
+        "url": "https://open.spotify.com/album/2MUWf8lrTWfSkyqapMlHfI"
+      },
+      "artists": [
+        {
+          "name": "Assasi",
+          "url": "https://open.spotify.com/artist/1TuHc6zFa31PJpMpvyKZoz"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187075,
+      "name": "Wala Fuse - Special Version",
+      "url": "https://open.spotify.com/track/1bQEqxv5YcCgXXYVwSa9Us"
+    },
+    {
+      "album": {
         "name": "Wall\u00e9",
         "url": "https://open.spotify.com/album/0llPrZmYWkRxQnH9o1ERF3"
       },

@@ -2,7 +2,7 @@
 
 ### [Calming Jazz](https://open.spotify.com/playlist/37i9dQZF1DX0ZgPbUQ205W)
 
-> Calm and relaxing sounds of  jazz to help you unwind.
+> Calm and soft sounds of  jazz to help you relax and unwind.
 
 183 songs - 14 hr 26 min - [published](https://open.spotify.com/playlist/4VFlkwzjI7ScFjbEAfcPrl)
 

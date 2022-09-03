@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd3AhRYJnfcl.md) - [plain]
 
 > أفضل الأغاني المصرية التي لن تتوقف عن الاستماع إليها 🔝 الغلاف: ويجز و آش
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,451 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,646 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd3AhRYJnfcl.md) - [plain]
 | 46 | [Layali Taweela](https://open.spotify.com/track/0hA2CXgMOXTAuwV9iDNZEq) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [Cigara](https://open.spotify.com/album/6tlo8DzuR11Z9g8nHP8vd3) | 4:58 |
 | 47 | [BARBARY](https://open.spotify.com/track/5NcTOxzo2WE20tFdtUhbAM) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [BARBARY](https://open.spotify.com/album/3RiX3QwpPvPEaBeLfRtvRR) | 2:36 |
 | 48 | [Ahkelak](https://open.spotify.com/track/60gNtG4TeY7YQxbxx9mUwU) | [Ali Loka](https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1) | [Ahkelak](https://open.spotify.com/album/30DzaAannug4aragLVhSMA) | 3:16 |
-| 49 | [مايركبش البسكلته](https://open.spotify.com/track/6uiTyyvUkV0NbQA11D7gT3) | [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH) | [مايركبش البسكلته](https://open.spotify.com/album/0IuctadW5Mwa7RhSfioGb9) | 2:16 |
+| 49 | [متغاظين](https://open.spotify.com/track/6uiTyyvUkV0NbQA11D7gT3) | [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH) | [متغاظين](https://open.spotify.com/album/0IuctadW5Mwa7RhSfioGb9) | 2:16 |
 | 50 | [Maraseel](https://open.spotify.com/track/0u9aJyzc9Cxx7NRY8YFLwZ) | [Ahmed Kamel](https://open.spotify.com/artist/41g2nSmocqVLuYnmndxefu) | [Maraseel](https://open.spotify.com/album/4gyLlBFiTxl1lYUtmnQN7T) | 3:31 |
 
 Snapshot ID: `MTY2MTk0MjY0NSwwMDAwMDAwMGFmZWQ2OWUzZmM3ZGU3NjVmMzA2MTQ3NTY3YWI3ODk1`

@@ -1,12 +1,12 @@
 {
   "description": "Corridos viejitos que cuentan los hechos reales de nuestro pueblo. Chalino S\u00e1nchez en portada. ",
-  "num_followers": 352229,
+  "num_followers": 352464,
   "original_name": "Corridos de Anta\u00f1o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTYwMjEyMCwwMDAwMDAwMDE2YTEzNDhiMThiN2IzM2RlMGI1MmRkODE1ZDI0ZTg0",
+  "snapshot_id": "MTY1MTYwMjEyMCwwMDAwMDAwMGM2MDVkNDFkZGMzYWNjYWU5OTVlOTYyYjY5ZmQ3YTRi",
   "tracks": [
     {
       "added_at": "2022-05-03 18:22:00",
@@ -383,18 +383,18 @@
     {
       "added_at": "2022-01-28 04:38:41",
       "album": {
-        "name": "Tesoros Musicales",
-        "url": "https://open.spotify.com/album/4IxKA1cMz3SCYZiWlFrOZz"
+        "name": "De Mexico para el Mundo",
+        "url": "https://open.spotify.com/album/32TIJn1x8SCsHVCswGnQZQ"
       },
       "artists": [
         {
-          "name": "Carlos Y Jose",
-          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
         }
       ],
-      "duration_ms": 181453,
-      "name": "El Odio De Dos Hermanos",
-      "url": "https://open.spotify.com/track/7E9LZqiVJUtDP2yt3ysoP0"
+      "duration_ms": 180426,
+      "name": "La Cheyene del A\u00f1o",
+      "url": "https://open.spotify.com/track/1k1kg1xFTxodz5bhh1WIG3"
     },
     {
       "added_at": "2022-01-28 04:38:41",
@@ -415,18 +415,18 @@
     {
       "added_at": "2022-01-28 04:38:41",
       "album": {
-        "name": "Cruz De Madera",
-        "url": "https://open.spotify.com/album/6D9a2VeAyvMqcCN27uzi4V"
+        "name": "Tesoros Musicales",
+        "url": "https://open.spotify.com/album/4IxKA1cMz3SCYZiWlFrOZz"
       },
       "artists": [
         {
-          "name": "Miguel Y Miguel",
-          "url": "https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm"
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
         }
       ],
-      "duration_ms": 207866,
-      "name": "Contrabando De Ju\u00e1rez",
-      "url": "https://open.spotify.com/track/4gwuwo3PgUrWzyJ7ofjN59"
+      "duration_ms": 181453,
+      "name": "El Odio De Dos Hermanos",
+      "url": "https://open.spotify.com/track/7E9LZqiVJUtDP2yt3ysoP0"
     },
     {
       "added_at": "2022-01-28 04:38:41",
@@ -463,18 +463,18 @@
     {
       "added_at": "2022-01-28 04:38:41",
       "album": {
-        "name": "De Mexico para el Mundo",
-        "url": "https://open.spotify.com/album/32TIJn1x8SCsHVCswGnQZQ"
+        "name": "Cruz De Madera",
+        "url": "https://open.spotify.com/album/6D9a2VeAyvMqcCN27uzi4V"
       },
       "artists": [
         {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+          "name": "Miguel Y Miguel",
+          "url": "https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm"
         }
       ],
-      "duration_ms": 180426,
-      "name": "La Cheyene del A\u00f1o",
-      "url": "https://open.spotify.com/track/1k1kg1xFTxodz5bhh1WIG3"
+      "duration_ms": 207866,
+      "name": "Contrabando De Ju\u00e1rez",
+      "url": "https://open.spotify.com/track/4gwuwo3PgUrWzyJ7ofjN59"
     },
     {
       "added_at": "2022-05-03 18:22:00",
@@ -691,6 +691,22 @@
     {
       "added_at": "2022-01-28 04:38:41",
       "album": {
+        "name": "Se Me Canso El Corazon",
+        "url": "https://open.spotify.com/album/2SQA2dNyXsqxSKZJ52osuq"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "duration_ms": 168026,
+      "name": "Los Tres Gallos",
+      "url": "https://open.spotify.com/track/23i2YYyRUNEGbeJoBWXdUY"
+    },
+    {
+      "added_at": "2022-01-28 04:38:41",
+      "album": {
         "name": "12 Kilates Puros Corridos",
         "url": "https://open.spotify.com/album/1y9lJbemJO1OdyIQvcL1q4"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 145360,
       "name": "Sucedio en el Aguaje",
       "url": "https://open.spotify.com/track/6tyNlDonoU3GnU6fqnjCWD"
-    },
-    {
-      "added_at": "2022-01-28 04:38:41",
-      "album": {
-        "name": "Se Me Canso El Corazon",
-        "url": "https://open.spotify.com/album/2SQA2dNyXsqxSKZJ52osuq"
-      },
-      "artists": [
-        {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
-        }
-      ],
-      "duration_ms": 168026,
-      "name": "Los Tres Gallos",
-      "url": "https://open.spotify.com/track/23i2YYyRUNEGbeJoBWXdUY"
     },
     {
       "added_at": "2022-01-28 04:38:41",
@@ -855,18 +855,18 @@
     {
       "added_at": "2022-01-28 04:38:41",
       "album": {
-        "name": "Exitos de Los Broncos de Reynosa",
-        "url": "https://open.spotify.com/album/3WuRR3ZB1IFPuDG4pyWdHT"
+        "name": "A Las Damas Tambi\u00e9n Les Gustan Los Corridos",
+        "url": "https://open.spotify.com/album/11qoNS56p2qkACwivdfIVv"
       },
       "artists": [
         {
-          "name": "Los Broncos de Reynosa",
-          "url": "https://open.spotify.com/artist/3fzjCvgvfaez28s4JTabRS"
+          "name": "Luis y Julian",
+          "url": "https://open.spotify.com/artist/5lcjVQ4c220HJHr0AuZXdl"
         }
       ],
-      "duration_ms": 174920,
-      "name": "Paso del norte",
-      "url": "https://open.spotify.com/track/4Nq6fPnW3hGWolYhevaopV"
+      "duration_ms": 175908,
+      "name": "El Penal De La Loma",
+      "url": "https://open.spotify.com/track/5Nf9M4uFmcQQqhcaWeX0TT"
     },
     {
       "added_at": "2022-01-28 04:38:41",
@@ -887,6 +887,22 @@
     {
       "added_at": "2022-01-28 04:38:41",
       "album": {
+        "name": "Exitos de Los Broncos de Reynosa",
+        "url": "https://open.spotify.com/album/3WuRR3ZB1IFPuDG4pyWdHT"
+      },
+      "artists": [
+        {
+          "name": "Los Broncos de Reynosa",
+          "url": "https://open.spotify.com/artist/3fzjCvgvfaez28s4JTabRS"
+        }
+      ],
+      "duration_ms": 174920,
+      "name": "Paso del norte",
+      "url": "https://open.spotify.com/track/4Nq6fPnW3hGWolYhevaopV"
+    },
+    {
+      "added_at": "2022-01-28 04:38:41",
+      "album": {
         "name": "Corridos bien Pesados para la Bohemia",
         "url": "https://open.spotify.com/album/3nG2ti1HDXSb8ANhXSaupS"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 227533,
       "name": "El \u00e1rbol de la horca",
       "url": "https://open.spotify.com/track/2ZN3h7KZgmjF7AMgTL6miJ"
-    },
-    {
-      "added_at": "2022-01-28 04:38:41",
-      "album": {
-        "name": "A Las Damas Tambi\u00e9n Les Gustan Los Corridos",
-        "url": "https://open.spotify.com/album/11qoNS56p2qkACwivdfIVv"
-      },
-      "artists": [
-        {
-          "name": "Luis y Julian",
-          "url": "https://open.spotify.com/artist/5lcjVQ4c220HJHr0AuZXdl"
-        }
-      ],
-      "duration_ms": 175908,
-      "name": "El Penal De La Loma",
-      "url": "https://open.spotify.com/track/5Nf9M4uFmcQQqhcaWeX0TT"
     },
     {
       "added_at": "2022-01-28 04:38:41",

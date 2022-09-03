@@ -1,12 +1,12 @@
 {
   "description": "Caminando de la mano... eres mi raz\u00f3n de ser.",
-  "num_followers": 85369,
+  "num_followers": 85472,
   "original_name": "Mi Raz\u00f3n de Ser",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzM0MjgwNCwwMDAwMDAwMDc1Yjc5NjZmY2FlYjQ3N2Q4ZTcxNzAwOWQxMWM3NDYy",
+  "snapshot_id": "MTY1MzM0MjgwNCwwMDAwMDAwMDJkMzA5N2JiYzcxNmM4ZTY3MGQzMjQ5NGNjYjljYTJj",
   "tracks": [
     {
       "added_at": "2021-12-03 19:11:51",
@@ -91,22 +91,6 @@
     {
       "added_at": "2021-12-03 19:11:51",
       "album": {
-        "name": "Pideme (En Vivo)",
-        "url": "https://open.spotify.com/album/5YDFEV3hqfXdvFWO9DNFPR"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 256170,
-      "name": "Pideme - En Vivo",
-      "url": "https://open.spotify.com/track/4OvWsid9gwU8nimd6KIXN6"
-    },
-    {
-      "added_at": "2021-12-03 19:11:51",
-      "album": {
         "name": "Our Wave Nuestra Ola",
         "url": "https://open.spotify.com/album/7k3KEedw9YYKrgSrIKknuo"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 239497,
       "name": "Ojitos de Miel",
       "url": "https://open.spotify.com/track/3V1jBnDI3zCn25ONFiqwN8"
+    },
+    {
+      "added_at": "2021-12-03 19:11:51",
+      "album": {
+        "name": "Pideme (En Vivo)",
+        "url": "https://open.spotify.com/album/5YDFEV3hqfXdvFWO9DNFPR"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 256170,
+      "name": "Pideme - En Vivo",
+      "url": "https://open.spotify.com/track/4OvWsid9gwU8nimd6KIXN6"
     },
     {
       "added_at": "2021-12-03 19:11:51",
@@ -699,22 +699,6 @@
     {
       "added_at": "2021-12-03 19:11:51",
       "album": {
-        "name": "Y Cambi\u00f3 Mi Suerte",
-        "url": "https://open.spotify.com/album/7AhZ4dvdeMlKnVgfsVIEHC"
-      },
-      "artists": [
-        {
-          "name": "Virlan Garcia",
-          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
-        }
-      ],
-      "duration_ms": 185637,
-      "name": "Y Cambi\u00f3 Mi Suerte",
-      "url": "https://open.spotify.com/track/2OBX8tIXkbnRG82Hdm7OmT"
-    },
-    {
-      "added_at": "2021-12-03 19:11:51",
-      "album": {
         "name": "Me Dej\u00e9 Llevar",
         "url": "https://open.spotify.com/album/2XHw4PFHT6srg7dxA3yrKv"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 192560,
       "name": "Eres",
       "url": "https://open.spotify.com/track/6Syi9hj45fiEW2UtYIZbJ9"
+    },
+    {
+      "added_at": "2021-12-03 19:11:51",
+      "album": {
+        "name": "Y Cambi\u00f3 Mi Suerte",
+        "url": "https://open.spotify.com/album/7AhZ4dvdeMlKnVgfsVIEHC"
+      },
+      "artists": [
+        {
+          "name": "Virlan Garcia",
+          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
+        }
+      ],
+      "duration_ms": 185637,
+      "name": "Y Cambi\u00f3 Mi Suerte",
+      "url": "https://open.spotify.com/track/2OBX8tIXkbnRG82Hdm7OmT"
     },
     {
       "added_at": "2021-12-03 19:11:51",
@@ -875,26 +875,6 @@
     {
       "added_at": "2021-12-03 19:11:51",
       "album": {
-        "name": "Mi Amor Por Ti (En Vivo)",
-        "url": "https://open.spotify.com/album/2uApDE90u1pYGQvHlkoAyg"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 239695,
-      "name": "Mi Amor Por Ti (En Vivo)",
-      "url": "https://open.spotify.com/track/463qI2v2wPH2OOF5m6J8Gm"
-    },
-    {
-      "added_at": "2021-12-03 19:11:51",
-      "album": {
         "name": "En Peligro De Extinci\u00f3n",
         "url": "https://open.spotify.com/album/0ry0G7C5xL0zOukvP0yPjt"
       },
@@ -923,6 +903,26 @@
       "duration_ms": 184173,
       "name": "Me Gusta Todo De Ti",
       "url": "https://open.spotify.com/track/0lQw1AoV5ZUAatpZN0Lrl5"
+    },
+    {
+      "added_at": "2021-12-03 19:11:51",
+      "album": {
+        "name": "Mi Amor Por Ti (En Vivo)",
+        "url": "https://open.spotify.com/album/2uApDE90u1pYGQvHlkoAyg"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 239695,
+      "name": "Mi Amor Por Ti (En Vivo)",
+      "url": "https://open.spotify.com/track/463qI2v2wPH2OOF5m6J8Gm"
     },
     {
       "added_at": "2021-12-03 19:11:51",

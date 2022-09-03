@@ -3489,6 +3489,24 @@
     {
       "album": {
         "name": "Catch Up",
+        "url": "https://open.spotify.com/album/46vWvnCkl7dXbBiMHh16Vj"
+      },
+      "artists": [
+        {
+          "name": "Aodhan",
+          "url": "https://open.spotify.com/artist/3rlMJg2MzNFDMUoupg8EPB"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217000,
+      "name": "Catch Up",
+      "url": "https://open.spotify.com/track/0MFqoTrvJfCzxSbwTRZPCv"
+    },
+    {
+      "album": {
+        "name": "Catch Up",
         "url": "https://open.spotify.com/album/30I1YapFpqStMAL2sCa2jz"
       },
       "artists": [
@@ -3499,7 +3517,7 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 217000,
       "name": "Catch Up",
       "url": "https://open.spotify.com/track/77pajJBvdYbu5dYWmvUys6"
@@ -9837,6 +9855,24 @@
       "duration_ms": 212694,
       "name": "In Our Own Backyard",
       "url": "https://open.spotify.com/track/4ApefEche3lwf2eSiptDAR"
+    },
+    {
+      "album": {
+        "name": "IN THE HIVE",
+        "url": "https://open.spotify.com/album/6n5SPV276zNnLHA0mFyb7P"
+      },
+      "artists": [
+        {
+          "name": "DIVEBAR YOUTH",
+          "url": "https://open.spotify.com/artist/3KtqczwOaFO6xJUEZ0UvYT"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159198,
+      "name": "IN THE HIVE",
+      "url": "https://open.spotify.com/track/1IpFfFgEsiTlG5VWJv7ga5"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Traditional country sounds from artists of yesterday and today.
 
-145 songs - 8 hr 23 min - [published](https://open.spotify.com/playlist/1PinEuxNNxda9HKkvWhvaJ)
+147 songs - 8 hr 29 min - [published](https://open.spotify.com/playlist/1PinEuxNNxda9HKkvWhvaJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,7 +116,8 @@
 | [Should've Been A Cowboy](https://open.spotify.com/track/69ku805AjIcFQh0IfkGohf) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Toby Keith](https://open.spotify.com/album/4iWbxbStpDbMoMJMkILb24) | 3:31 | 2022-02-17 | 2022-07-29 |
 | [Small Town Hypocrite](https://open.spotify.com/track/7Bpivl6q9y2FgSp1nr5MZ8) | [Caylee Hammack](https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Small Town Hypocrite](https://open.spotify.com/album/19Rq07L8SBNeIWRQqFLkiT) | 4:01 | 2022-02-17 |  |
 | [Small Town Saturday Night](https://open.spotify.com/track/7uLQTOxQ3nwwoHuxwt2AHJ) | [Hal Ketchum](https://open.spotify.com/artist/6Pys4xsyQVA5ZjkN2Ka2S7) | [Past The Point Of Rescue](https://open.spotify.com/album/1brBaxqOD8xGebXZF8ISfE) | 2:57 | 2022-02-17 |  |
-| [Sold \(The Grundy County Auction Incident\)](https://open.spotify.com/track/4PkVIBGCoYfGi8MQQS4m7U) | [John Michael Montgomery](https://open.spotify.com/artist/7mPcfx7PhnBh6n4HMCd61A) | [Rhino Hi\-Five: John Michael Montgomery](https://open.spotify.com/album/6Aix3bSl8pwxkfNyFmai01) | 2:31 | 2022-02-17 |  |
+| [Sold \(The Grundy County Auction Incident\)](https://open.spotify.com/track/4PkVIBGCoYfGi8MQQS4m7U) | [John Michael Montgomery](https://open.spotify.com/artist/7mPcfx7PhnBh6n4HMCd61A) | [Rhino Hi\-Five: John Michael Montgomery](https://open.spotify.com/album/6Aix3bSl8pwxkfNyFmai01) | 2:31 | 2022-02-17 | 2022-09-03 |
+| [Sold \(The Grundy County Auction Incident\)](https://open.spotify.com/track/0NLBwQBYJhEM9t3KAMPFVR) | [John Michael Montgomery](https://open.spotify.com/artist/7mPcfx7PhnBh6n4HMCd61A) | [John Michael Montgomery](https://open.spotify.com/album/5UPjyfi3zD7Oak7frjH8zk) | 2:32 | 2022-08-26 |  |
 | [Sounds So Good](https://open.spotify.com/track/6ONHzocQurXRl6HkQ4th2y) | [Ashton Shepherd](https://open.spotify.com/artist/43eAoOm70bzBUNs4JKP5nE) | [Sounds So Good](https://open.spotify.com/album/6z5A4jV5MDikX4blitvPiO) | 3:27 | 2022-02-17 | 2022-08-21 |
 | [Stealing Cinderella](https://open.spotify.com/track/6aOdhGqD0xuFM0OauOedNl) | [Chuck Wicks](https://open.spotify.com/artist/696fbyLHSMBSYjDrDU5yiK) | [Starting Now](https://open.spotify.com/album/3WyCVkjnQvHnS29LogStFV) | 4:02 | 2022-02-17 |  |
 | [Still Gonna Be You](https://open.spotify.com/track/3ihVt9DqGFWgUWSBbzsAbo) | [Jade Eagleson](https://open.spotify.com/artist/2nTzAHwCk0swkDdIPj2FIP) | [Jade Eagleson](https://open.spotify.com/album/5RKUuRB0ardN0FfTxNil1w) | 3:21 | 2022-02-17 | 2022-07-10 |
@@ -137,7 +138,8 @@
 | [Thinkin Bout Cheatin](https://open.spotify.com/track/35GoYj5urnSOCabDAKphBF) | [Mae Estes](https://open.spotify.com/artist/6352GDDDFjnbhNMDbCRIuX) | [Thinkin Bout Cheatin](https://open.spotify.com/album/4DQoCcBOoRZBsY2LsQJ0Wc) | 3:42 | 2022-08-05 |  |
 | [Thinkin' About You](https://open.spotify.com/track/5CQ1Pol5ud3mFBqAuCUE9o) | [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Thinkin' About You](https://open.spotify.com/album/5JqF92VDewHtYXqueUHuyx) | 3:23 | 2022-02-17 |  |
 | [Three Chords and the Truth](https://open.spotify.com/track/5JQ6WqccFWUY3A6rW1Zh7v) | [Sara Evans](https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG) | [Three Chords And The Truth](https://open.spotify.com/album/2GEvIBkTftxwEzg7WzGVU8) | 4:05 | 2022-02-17 | 2022-07-29 |
-| [Three Chords at a Time](https://open.spotify.com/track/5WK6BXzufbkZ3o4jfwGYiw) | [Josiah Siska](https://open.spotify.com/artist/0xRlqiatkqSzYyaAofNHlx) | [Three Chords at a Time](https://open.spotify.com/album/2W6KhRdsmImKKFi4DpvuIt) | 3:41 | 2022-07-29 |  |
+| [Three Chords at a Time](https://open.spotify.com/track/5WK6BXzufbkZ3o4jfwGYiw) | [Josiah Siska](https://open.spotify.com/artist/0xRlqiatkqSzYyaAofNHlx) | [Three Chords at a Time](https://open.spotify.com/album/2W6KhRdsmImKKFi4DpvuIt) | 3:41 | 2022-07-29 | 2022-09-03 |
+| [Three Chords at a Time](https://open.spotify.com/track/6IxRtoq2yObhqJ6NbGfUJw) | [Josiah Siska](https://open.spotify.com/artist/0xRlqiatkqSzYyaAofNHlx) | [Three Chords at a Time](https://open.spotify.com/album/69r15hje0MZxDf4OQR2pz0) | 3:41 | 2022-08-26 |  |
 | [Time Marches On](https://open.spotify.com/track/2TIEeLrOQrGnO2D2OeDDJu) | [Tracy Lawrence](https://open.spotify.com/artist/2BQVRw9md4UKcGUrDXABCD) | [Time Marches On](https://open.spotify.com/album/5zSPDpefI09DHOSdQLJTW6) | 3:05 | 2022-02-17 |  |
 | [Two Dozen Roses](https://open.spotify.com/track/0e05wFNr6zg1ULcp4NKs1p) | [Shenandoah](https://open.spotify.com/artist/36eTeLNx8ErucrEyRm6JOo) | [Now And Then](https://open.spotify.com/album/53ggnni69yCjLQIboZCc3e) | 3:24 | 2022-05-13 |  |
 | [Watermelon Crawl](https://open.spotify.com/track/3Q9t1A12iUemHTAWnH7PjD) | [Tracy Byrd](https://open.spotify.com/artist/0xxJO75NeIAF5jYruLYIDT) | [No Ordinary Man](https://open.spotify.com/album/53g8c9eM74nQkKXDEE5tlu) | 3:01 | 2022-02-17 |  |

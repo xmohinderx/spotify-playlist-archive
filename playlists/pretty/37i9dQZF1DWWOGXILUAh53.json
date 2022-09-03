@@ -1,13 +1,153 @@
 {
-  "description": "The hottest new pop with the all the drops. Cover: Cheat Codes & Russell Dickerson",
-  "num_followers": 96869,
+  "description": "The hottest new pop with the all the drops. Cover: Ava Max",
+  "num_followers": 97000,
   "original_name": "Fresh Dance Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTk1NjM4NywwMDAwMDAwMDQ1NjgyZTczYTAzMGYzZTVmMTFjZmY4YjlkZjZhMmE4",
+  "snapshot_id": "MTY2MjA5MTIwMCwwMDAwMDAwMDlhNzAxNWVjZGRhNmE0MTZlYWYzZWI2NmVkOTA5MmVm",
   "tracks": [
+    {
+      "added_at": "2022-09-02 04:00:00",
+      "album": {
+        "name": "Million Dollar Baby",
+        "url": "https://open.spotify.com/album/4fCW1XNPfBY6rgL1scsfGC"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 184294,
+      "name": "Million Dollar Baby",
+      "url": "https://open.spotify.com/track/3pPN20syOYvbUuEiBpbenI"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
+        "name": "I'm Good (Blue)",
+        "url": "https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        }
+      ],
+      "duration_ms": 175238,
+      "name": "I'm Good (Blue)",
+      "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
+    },
+    {
+      "added_at": "2022-09-02 04:00:00",
+      "album": {
+        "name": "Perfect Love (feat. Mila Falls)",
+        "url": "https://open.spotify.com/album/2hBjckThyUfbVmY56mtdBF"
+      },
+      "artists": [
+        {
+          "name": "Tom Westy",
+          "url": "https://open.spotify.com/artist/0HhpiOJAde5crSTrd6sMbW"
+        },
+        {
+          "name": "Mila Falls",
+          "url": "https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve"
+        }
+      ],
+      "duration_ms": 163278,
+      "name": "Perfect Love (feat. Mila Falls)",
+      "url": "https://open.spotify.com/track/5iag0U1zHcmy5IKPb7BEGz"
+    },
+    {
+      "added_at": "2022-09-02 04:00:00",
+      "album": {
+        "name": "Living Without You",
+        "url": "https://open.spotify.com/album/6i5EQgCokHB7wgiP68UYmA"
+      },
+      "artists": [
+        {
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Sam Ryder",
+          "url": "https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m"
+        }
+      ],
+      "duration_ms": 184103,
+      "name": "Living Without You",
+      "url": "https://open.spotify.com/track/1KkV5NgLa2XtD00IfaCPyG"
+    },
+    {
+      "added_at": "2022-09-02 04:00:00",
+      "album": {
+        "name": "B.O.T.A. (Baddest Of Them All)",
+        "url": "https://open.spotify.com/album/2lQgd3Svp1ZWAzZPLobAPK"
+      },
+      "artists": [
+        {
+          "name": "Eliza Rose",
+          "url": "https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP"
+        },
+        {
+          "name": "Interplanetary Criminal",
+          "url": "https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI"
+        }
+      ],
+      "duration_ms": 226626,
+      "name": "B.O.T.A. (Baddest Of Them All) - Edit",
+      "url": "https://open.spotify.com/track/39JofJHEtg8I4fSyo7Imft"
+    },
+    {
+      "added_at": "2022-09-02 04:00:00",
+      "album": {
+        "name": "Killing Me",
+        "url": "https://open.spotify.com/album/4cj0lhzyzTnshmDz6SFbHm"
+      },
+      "artists": [
+        {
+          "name": "NOTD",
+          "url": "https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy"
+        },
+        {
+          "name": "Hastings",
+          "url": "https://open.spotify.com/artist/0cMrisD7Y14WMODerxofNO"
+        }
+      ],
+      "duration_ms": 175724,
+      "name": "Killing Me",
+      "url": "https://open.spotify.com/track/1E9OxtPYXVqFGKm8Q4eeVY"
+    },
+    {
+      "added_at": "2022-09-02 04:00:00",
+      "album": {
+        "name": "True (with Karen Harding)",
+        "url": "https://open.spotify.com/album/7yNqFAbrMJ5f5qzavVpDtq"
+      },
+      "artists": [
+        {
+          "name": "Jonasu",
+          "url": "https://open.spotify.com/artist/7u4ayw4QFEsolPxZgnPAMT"
+        },
+        {
+          "name": "Karen Harding",
+          "url": "https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b"
+        }
+      ],
+      "duration_ms": 176557,
+      "name": "True (with Karen Harding)",
+      "url": "https://open.spotify.com/track/3EfSCuNKoxxpEvAAy58BwN"
+    },
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
@@ -29,24 +169,180 @@
       "url": "https://open.spotify.com/track/5e2ZOmiFEAOFEgXNj1mHEk"
     },
     {
-      "added_at": "2022-08-26 04:01:00",
+      "added_at": "2022-09-02 04:00:00",
       "album": {
-        "name": "I'm Good (Blue)",
-        "url": "https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3"
+        "name": "Uninvited",
+        "url": "https://open.spotify.com/album/1CRxGPP7ZLPOLlLVpSCqOj"
       },
       "artists": [
         {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+          "name": "Dave Aud\u00e9",
+          "url": "https://open.spotify.com/artist/1vWImodgVqIgTUkekGEfR9"
         },
         {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+          "name": "LeAnn Rimes",
+          "url": "https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL"
         }
       ],
-      "duration_ms": 175238,
-      "name": "I'm Good (Blue)",
-      "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
+      "duration_ms": 208678,
+      "name": "Uninvited",
+      "url": "https://open.spotify.com/track/0dh4kct5pSxTRofwPkZhQf"
+    },
+    {
+      "added_at": "2022-08-19 04:02:00",
+      "album": {
+        "name": "Don't Hurt Me (What Is Love)",
+        "url": "https://open.spotify.com/album/4NM3zrdNq6tpELPeaPM8QY"
+      },
+      "artists": [
+        {
+          "name": "Yves V",
+          "url": "https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV"
+        },
+        {
+          "name": "Conor Maynard",
+          "url": "https://open.spotify.com/artist/6mU8ucezzms5I2kNH6HNlu"
+        }
+      ],
+      "duration_ms": 157000,
+      "name": "Don't Hurt Me (What Is Love)",
+      "url": "https://open.spotify.com/track/6Lytqcs0fMmCO8JNewrnbj"
+    },
+    {
+      "added_at": "2022-09-02 04:00:00",
+      "album": {
+        "name": "NO HAY LEY",
+        "url": "https://open.spotify.com/album/58bXMbR7x7k6ubKP7CyZpQ"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 157000,
+      "name": "NO HAY LEY",
+      "url": "https://open.spotify.com/track/5enNYN3hDG4Dsey9WsF6TJ"
+    },
+    {
+      "added_at": "2022-09-02 04:00:00",
+      "album": {
+        "name": "Always Be There",
+        "url": "https://open.spotify.com/album/5AjjKzTDARZEg5gPPJx597"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Louisa Johnson",
+          "url": "https://open.spotify.com/artist/5IHqlcCbQkyhWl0KmIwgeq"
+        }
+      ],
+      "duration_ms": 198407,
+      "name": "Always Be There",
+      "url": "https://open.spotify.com/track/1PKqiewc0OyZVYxFz5ugbH"
+    },
+    {
+      "added_at": "2022-09-02 04:00:00",
+      "album": {
+        "name": "MADELINE",
+        "url": "https://open.spotify.com/album/5x9JJzj5K9J6IldkIMonXM"
+      },
+      "artists": [
+        {
+          "name": "INJI",
+          "url": "https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki"
+        }
+      ],
+      "duration_ms": 204791,
+      "name": "MADELINE",
+      "url": "https://open.spotify.com/track/04o27HjgqTVm8NwgEfOqRH"
+    },
+    {
+      "added_at": "2022-09-02 04:00:00",
+      "album": {
+        "name": "What Is Real / If You Loop It, They Will Come",
+        "url": "https://open.spotify.com/album/2PowNQehJv4CYSDB8gLM0S"
+      },
+      "artists": [
+        {
+          "name": "Andrew Bayer",
+          "url": "https://open.spotify.com/artist/5dFuu05x8SPBuymudrTBU8"
+        },
+        {
+          "name": "V\u00f6k",
+          "url": "https://open.spotify.com/artist/7oDTyDfeA2JE2jUZztkBj8"
+        }
+      ],
+      "duration_ms": 276562,
+      "name": "What Is Real - Edit",
+      "url": "https://open.spotify.com/track/1t5qLStBx9Jx3j1x7D4k4K"
+    },
+    {
+      "added_at": "2022-08-12 04:01:00",
+      "album": {
+        "name": "Sunroof (Loud Luxury Remix)",
+        "url": "https://open.spotify.com/album/7LC439zjDcvAgdooLmL67Q"
+      },
+      "artists": [
+        {
+          "name": "Nicky Youre",
+          "url": "https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs"
+        },
+        {
+          "name": "dazy",
+          "url": "https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x"
+        },
+        {
+          "name": "Loud Luxury",
+          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
+        }
+      ],
+      "duration_ms": 173658,
+      "name": "Sunroof - Loud Luxury Remix",
+      "url": "https://open.spotify.com/track/1E8i4Xq9tH2LVWC0b1Sptj"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
+        "name": "All That Really Matters",
+        "url": "https://open.spotify.com/album/2OW7PzcHkPrB2fY0fLvx4Q"
+      },
+      "artists": [
+        {
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 244235,
+      "name": "All That Really Matters",
+      "url": "https://open.spotify.com/track/5zviMoAeuerK1Rd58qXASv"
+    },
+    {
+      "added_at": "2022-08-19 04:02:00",
+      "album": {
+        "name": "I Just Want Your Touch",
+        "url": "https://open.spotify.com/album/5D0gIehKqW8DqGlr3l9oLc"
+      },
+      "artists": [
+        {
+          "name": "Jolyon Petch",
+          "url": "https://open.spotify.com/artist/00Ja3YjvU4DYCHWt6cPs42"
+        },
+        {
+          "name": "Starley",
+          "url": "https://open.spotify.com/artist/02A3cEvlLLCbIMVDrK2GHV"
+        }
+      ],
+      "duration_ms": 176603,
+      "name": "I Just Want Your Touch",
+      "url": "https://open.spotify.com/track/6HZAjfGnfhrly4dI23vjOH"
     },
     {
       "added_at": "2022-08-19 04:02:00",
@@ -73,26 +369,6 @@
       "url": "https://open.spotify.com/track/1elhmWW7Bv0MOQj2gAsyoV"
     },
     {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
-        "name": "All That Really Matters",
-        "url": "https://open.spotify.com/album/2OW7PzcHkPrB2fY0fLvx4Q"
-      },
-      "artists": [
-        {
-          "name": "ILLENIUM",
-          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
-        },
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 244235,
-      "name": "All That Really Matters",
-      "url": "https://open.spotify.com/track/5zviMoAeuerK1Rd58qXASv"
-    },
-    {
       "added_at": "2022-08-26 04:01:00",
       "album": {
         "name": "Shadow",
@@ -111,26 +387,6 @@
       "duration_ms": 166572,
       "name": "Shadow",
       "url": "https://open.spotify.com/track/102rhgJ5PEFt62e0PumSF2"
-    },
-    {
-      "added_at": "2022-08-19 04:02:00",
-      "album": {
-        "name": "Don't Hurt Me (What Is Love)",
-        "url": "https://open.spotify.com/album/4NM3zrdNq6tpELPeaPM8QY"
-      },
-      "artists": [
-        {
-          "name": "Yves V",
-          "url": "https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV"
-        },
-        {
-          "name": "Conor Maynard",
-          "url": "https://open.spotify.com/artist/6mU8ucezzms5I2kNH6HNlu"
-        }
-      ],
-      "duration_ms": 157000,
-      "name": "Don't Hurt Me (What Is Love)",
-      "url": "https://open.spotify.com/track/6Lytqcs0fMmCO8JNewrnbj"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -171,50 +427,6 @@
       "duration_ms": 124959,
       "name": "HEARTBEAT",
       "url": "https://open.spotify.com/track/6nStBZGqGgTR87MrBpNza0"
-    },
-    {
-      "added_at": "2022-08-19 04:02:00",
-      "album": {
-        "name": "I Just Want Your Touch",
-        "url": "https://open.spotify.com/album/5D0gIehKqW8DqGlr3l9oLc"
-      },
-      "artists": [
-        {
-          "name": "Jolyon Petch",
-          "url": "https://open.spotify.com/artist/00Ja3YjvU4DYCHWt6cPs42"
-        },
-        {
-          "name": "Starley",
-          "url": "https://open.spotify.com/artist/02A3cEvlLLCbIMVDrK2GHV"
-        }
-      ],
-      "duration_ms": 176603,
-      "name": "I Just Want Your Touch",
-      "url": "https://open.spotify.com/track/6HZAjfGnfhrly4dI23vjOH"
-    },
-    {
-      "added_at": "2022-08-12 04:01:00",
-      "album": {
-        "name": "Sunroof (Loud Luxury Remix)",
-        "url": "https://open.spotify.com/album/7LC439zjDcvAgdooLmL67Q"
-      },
-      "artists": [
-        {
-          "name": "Nicky Youre",
-          "url": "https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs"
-        },
-        {
-          "name": "dazy",
-          "url": "https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x"
-        },
-        {
-          "name": "Loud Luxury",
-          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
-        }
-      ],
-      "duration_ms": 173658,
-      "name": "Sunroof - Loud Luxury Remix",
-      "url": "https://open.spotify.com/track/1E8i4Xq9tH2LVWC0b1Sptj"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -293,6 +505,30 @@
       "url": "https://open.spotify.com/track/5IfHQilcjciOxJQBFCNCCN"
     },
     {
+      "added_at": "2022-07-15 04:00:00",
+      "album": {
+        "name": "DON'T YOU WORRY",
+        "url": "https://open.spotify.com/album/3plMoBhvQ07H4itII2Qdeb"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        },
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 196363,
+      "name": "DON'T YOU WORRY",
+      "url": "https://open.spotify.com/track/0gYXw7aPoybWFfB7btQ0eM"
+    },
+    {
       "added_at": "2022-07-29 04:00:00",
       "album": {
         "name": "Sun Will Shine",
@@ -335,26 +571,6 @@
       "duration_ms": 128000,
       "name": "Stranger",
       "url": "https://open.spotify.com/track/6HsP8AwuSVliAtYXr93br0"
-    },
-    {
-      "added_at": "2022-08-12 04:01:00",
-      "album": {
-        "name": "What's With The Roses",
-        "url": "https://open.spotify.com/album/0y7Me7TzBLzmBC0h5Wruns"
-      },
-      "artists": [
-        {
-          "name": "NOTD",
-          "url": "https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy"
-        },
-        {
-          "name": "Kiiara",
-          "url": "https://open.spotify.com/artist/4u5smJBskI6Adzv08PuiUP"
-        }
-      ],
-      "duration_ms": 170087,
-      "name": "What's With The Roses",
-      "url": "https://open.spotify.com/track/55h1aacXiM4YAUcNi8cfh1"
     },
     {
       "added_at": "2022-08-19 04:02:00",
@@ -459,30 +675,6 @@
       "duration_ms": 165752,
       "name": "Deep Down (feat. Never Dull)",
       "url": "https://open.spotify.com/track/7MIhUdNJtaOnDmC5nBC1fb"
-    },
-    {
-      "added_at": "2022-07-15 04:00:00",
-      "album": {
-        "name": "DON'T YOU WORRY",
-        "url": "https://open.spotify.com/album/3plMoBhvQ07H4itII2Qdeb"
-      },
-      "artists": [
-        {
-          "name": "Black Eyed Peas",
-          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
-        },
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 196363,
-      "name": "DON'T YOU WORRY",
-      "url": "https://open.spotify.com/track/0gYXw7aPoybWFfB7btQ0eM"
     },
     {
       "added_at": "2022-07-22 04:05:00",
@@ -783,26 +975,6 @@
     {
       "added_at": "2022-07-15 04:00:00",
       "album": {
-        "name": "Hate Me",
-        "url": "https://open.spotify.com/album/0sJEjzcDY59OtCL5UbUmRA"
-      },
-      "artists": [
-        {
-          "name": "Sam Feldt",
-          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
-        },
-        {
-          "name": "salem ilese",
-          "url": "https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT"
-        }
-      ],
-      "duration_ms": 154468,
-      "name": "Hate Me",
-      "url": "https://open.spotify.com/track/4UkpdfVqpn7aHlXWibsv5q"
-    },
-    {
-      "added_at": "2022-07-15 04:00:00",
-      "album": {
         "name": "Honestly, Nevermind",
         "url": "https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw"
       },
@@ -931,26 +1103,6 @@
       "duration_ms": 167526,
       "name": "Lonely Heart",
       "url": "https://open.spotify.com/track/4iGjLLvo4Pax82YX3jE3Q1"
-    },
-    {
-      "added_at": "2022-07-15 04:00:00",
-      "album": {
-        "name": "Unity",
-        "url": "https://open.spotify.com/album/2WbKsEdA7Agdo1Q0e7qPCk"
-      },
-      "artists": [
-        {
-          "name": "R\u00f6yksopp",
-          "url": "https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH"
-        },
-        {
-          "name": "Karen Harding",
-          "url": "https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b"
-        }
-      ],
-      "duration_ms": 226996,
-      "name": "Unity - Edit",
-      "url": "https://open.spotify.com/track/3kv5TAQ9W8DNHvd2iP8ipH"
     },
     {
       "added_at": "2022-07-15 04:00:00",
@@ -1091,38 +1243,6 @@
     {
       "added_at": "2022-07-15 04:00:00",
       "album": {
-        "name": "Change for You",
-        "url": "https://open.spotify.com/album/4mdxIp0ImjUcvppSH5Y4bK"
-      },
-      "artists": [
-        {
-          "name": "KRISM",
-          "url": "https://open.spotify.com/artist/7cVZWlcePQyEZ6qWAnncl3"
-        }
-      ],
-      "duration_ms": 140163,
-      "name": "Change for You",
-      "url": "https://open.spotify.com/track/5bnuoFoMRJFEPyDlb7StOr"
-    },
-    {
-      "added_at": "2022-07-15 04:00:00",
-      "album": {
-        "name": "I Would Probably Hate You",
-        "url": "https://open.spotify.com/album/7iM4xNI1QxQP3MuCLGQDCA"
-      },
-      "artists": [
-        {
-          "name": "Jules Paymer",
-          "url": "https://open.spotify.com/artist/5RsYo1rckHPH2ERWm3tGeS"
-        }
-      ],
-      "duration_ms": 180022,
-      "name": "I Would Probably Hate You",
-      "url": "https://open.spotify.com/track/6cZRlGzpks6vcWAidMAb88"
-    },
-    {
-      "added_at": "2022-07-15 04:00:00",
-      "album": {
         "name": "I Want You Back",
         "url": "https://open.spotify.com/album/4X51GZl6hcHOBo182CkJ1a"
       },
@@ -1167,26 +1287,6 @@
       "duration_ms": 207023,
       "name": "I Told You",
       "url": "https://open.spotify.com/track/42gwqd35893WOKpyNLRcCL"
-    },
-    {
-      "added_at": "2022-07-15 04:00:00",
-      "album": {
-        "name": "Do It Better (feat. Zoe Wees)",
-        "url": "https://open.spotify.com/album/5mqNZCRQAKtzzDyohUmBEU"
-      },
-      "artists": [
-        {
-          "name": "Felix Jaehn",
-          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
-        },
-        {
-          "name": "Zoe Wees",
-          "url": "https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS"
-        }
-      ],
-      "duration_ms": 170045,
-      "name": "Do It Better (feat. Zoe Wees)",
-      "url": "https://open.spotify.com/track/1kwHrBWAlucOE57lWugotk"
     },
     {
       "added_at": "2022-07-15 04:00:00",

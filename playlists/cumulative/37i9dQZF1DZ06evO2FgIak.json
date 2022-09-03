@@ -285,7 +285,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 311506,
       "name": "Diddley Daddy",
       "url": "https://open.spotify.com/track/1rgDmiw0dWFmMq7oIM2GL3"
@@ -339,7 +339,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 320293,
       "name": "Five Long Years - Live",
       "url": "https://open.spotify.com/track/04fJfOXeaxpzH4kHy0Y2OF"
@@ -375,7 +375,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 174567,
       "name": "Forty Days And Forty Nights",
       "url": "https://open.spotify.com/track/7FQje5Elyeuou3n5lUbgvs"
@@ -401,7 +401,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-02",
+      "date_removed": null,
       "duration_ms": 289173,
       "name": "Goin' Down Slow",
       "url": "https://open.spotify.com/track/2DonFSnhEr0WQcuHcHb5ti"
@@ -437,7 +437,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-02",
+      "date_removed": null,
       "duration_ms": 173040,
       "name": "Got My Mojo Working",
       "url": "https://open.spotify.com/track/65VzqBb5ogD2xIFD8jetMG"
@@ -531,7 +531,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 162933,
       "name": "I Can't Be Satisfied",
       "url": "https://open.spotify.com/track/7FDFtgdyzlBN0tUo3boGZe"
@@ -567,7 +567,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 171600,
       "name": "I Love The Life I Live (I Live The Life I Love)",
       "url": "https://open.spotify.com/track/2aZ8nrq3RIXEXUviAwzyLV"
@@ -585,7 +585,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-02",
+      "date_removed": null,
       "duration_ms": 141466,
       "name": "I Want to Be Loved #2",
       "url": "https://open.spotify.com/track/5Q5GJBCmWJo7z7K8g223K1"
@@ -817,7 +817,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-02",
+      "date_removed": null,
       "duration_ms": 554826,
       "name": "Long Distance Call",
       "url": "https://open.spotify.com/track/1puGCG7BtUHdN3G3R4YdTw"
@@ -835,10 +835,28 @@
       ],
       "date_added": "2022-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 174866,
       "name": "Louisiana Blues",
       "url": "https://open.spotify.com/track/2nbV8brWogyKVqRhypvzJS"
+    },
+    {
+      "album": {
+        "name": "The Best Of Muddy Waters",
+        "url": "https://open.spotify.com/album/6xU8hHhpGaDmFdOVEGRzpY"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183880,
+      "name": "Mad Love (I Want You To Love Me) - Single Version",
+      "url": "https://open.spotify.com/track/6KRVb1xpxVOdg4Q2jn36e6"
     },
     {
       "album": {
@@ -1003,7 +1021,7 @@
       ],
       "date_added": "2022-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-31",
+      "date_removed": null,
       "duration_ms": 394173,
       "name": "Ooh, Baby / Wrecking My Love Life - Medley",
       "url": "https://open.spotify.com/track/0lp6c7BBYNlDVksKGQqy8X"
@@ -1057,7 +1075,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 188160,
       "name": "Rollin' Stone",
       "url": "https://open.spotify.com/track/61K6lqGyrl2Aerk0LjAZem"
@@ -1257,7 +1275,7 @@
       ],
       "date_added": "2022-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 398200,
       "name": "Sweet Little Angel",
       "url": "https://open.spotify.com/track/3iJvWGUipSrSzh8mbn7UhR"
@@ -1293,7 +1311,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-02",
+      "date_removed": null,
       "duration_ms": 135973,
       "name": "Tell Me Baby",
       "url": "https://open.spotify.com/track/71yVjDvQpUzzPdocf3DAYo"
@@ -1409,7 +1427,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-02",
+      "date_removed": null,
       "duration_ms": 178600,
       "name": "Walkin' Blues",
       "url": "https://open.spotify.com/track/2xF0ubRru7TwLHdqFwH6Uo"
@@ -1427,7 +1445,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-02",
+      "date_removed": null,
       "duration_ms": 164293,
       "name": "Walkin' Thru The Park",
       "url": "https://open.spotify.com/track/4MWQ0HRkPlWq70BKxeY1S1"
@@ -1463,7 +1481,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 185960,
       "name": "When I Get To Thinking",
       "url": "https://open.spotify.com/track/1QepT9veYgc2mv1OLPWLwE"
@@ -1481,7 +1499,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 179760,
       "name": "You Can't Lose What You Ain't Never Had",
       "url": "https://open.spotify.com/track/3R8jEWbqIexfbDteE3jlOz"
@@ -1543,7 +1561,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-01",
+      "date_removed": null,
       "duration_ms": 193266,
       "name": "You Gonna Need My Help",
       "url": "https://open.spotify.com/track/2TUF4yTaTVRYh1I64AjvqO"
@@ -1561,7 +1579,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 165106,
       "name": "You Need Love",
       "url": "https://open.spotify.com/track/7Ak1aR9cK5b4yKHdhIhNVq"
@@ -1579,7 +1597,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-02",
+      "date_removed": null,
       "duration_ms": 166493,
       "name": "You Shook Me",
       "url": "https://open.spotify.com/track/0JGycbFUWSITx4NFCkEeqM"

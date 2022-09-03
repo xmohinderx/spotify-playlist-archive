@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Villabanks, Quentin40, Dani Faiv, Sapobully e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,895 likes - 79 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,936 likes - 79 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgmQDgebb6.md) - [plain]
 
 > Korean hipster & experimental music essential\. 당신의 힙스터 감성을 충전해줄 인디 곡들을 만나보세요\. \(Cover: Zayvo\(제이보\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,817 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,826 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,12 +34,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgmQDgebb6.md) - [plain]
 | 24 | [theme park](https://open.spotify.com/track/7wxmAq4BHKdqsDZLIzMfaD) | [chilly](https://open.spotify.com/artist/0xqJO0QQzAus8twmNudscb) | [theme park](https://open.spotify.com/album/5Tltw8nlbaJhFiavrLIh6i) | 3:49 |
 | 25 | [SPACE MULAN](https://open.spotify.com/track/2PhUsk5qimnIOOEoQ80ErP) | [BÉBE YANA](https://open.spotify.com/artist/6ozuxhSx8Ci0o8tPpgrCT2) | [SPACE MULAN](https://open.spotify.com/album/4GMuwZdk6fdruHwLWZe83a) | 2:39 |
 | 26 | [Signs](https://open.spotify.com/track/7cFCyAUvXLHHWdhJ7fdtRk) | [iiso](https://open.spotify.com/artist/77LNT0q7AZsv4hKt7HDS8v) | [Signs](https://open.spotify.com/album/3QZlhnWxRlERxUsfuzHmk6) | 2:25 |
-| 27 | [Rehab](https://open.spotify.com/track/4Uuw8zkh8pesHx3FaEDNQo) | [Mokyo](https://open.spotify.com/artist/1kRGgLBLwdQ16TxyfN1YgP) | [Rehab](https://open.spotify.com/album/7shV9Ltl8Cd7yjQgARX6J6) | 3:05 |
-| 28 | [Amoo\-rae\-do](https://open.spotify.com/track/0P2ZMsx0ZSORtoAltJje1B) | [COCONA](https://open.spotify.com/artist/5UukZH6jYHqTwLSSWGj7FN) | [Amoo\-rae\-do](https://open.spotify.com/album/5javGGT9UBP0kc0ayoWCGP) | 1:48 |
-| 29 | [I LOVE YOU](https://open.spotify.com/track/4hTDFUxvF9hx6WH1xsZigc) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [I LOVE YOU](https://open.spotify.com/album/76KAp3rsIGWC0FcoPjAHkT) | 1:38 |
-| 30 | [New](https://open.spotify.com/track/3RbkzuLs2u9TprBTPnUp4W) | [Chimmi](https://open.spotify.com/artist/19bRgj5ThGcxiGkwvohFHJ) | [CINEMA](https://open.spotify.com/album/3c12AipT5WBHnU6zz2yGzx) | 3:02 |
-| 31 | [Electric Animal](https://open.spotify.com/track/5WsxLJtXDWl5EfH5z7N05R) | [Tabber](https://open.spotify.com/artist/4CYjITN8Au3K5CWFeex7fU), [Keyon Christ](https://open.spotify.com/artist/71p9YcOYtzkakGsABYYxKW) | [Electric Animal](https://open.spotify.com/album/6bMe66LMpqunGFxKcVJ2Sc) | 2:41 |
-| 32 | [PRETTY \(feat\. Nafla, Bryn\)](https://open.spotify.com/track/3LGlLoEK1ZPGRcS6gHYhWm) | [lnb](https://open.spotify.com/artist/2fHTnW5arnhwXNwW2GD4fK), [nafla](https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr), [Bryn](https://open.spotify.com/artist/74r4YBm6qWOBKKF6MhVXVq) | [PROJECT .1](https://open.spotify.com/album/5HlAriF53xhN5BfF05IiHZ) | 3:05 |
+| 27 | [I LOVE YOU](https://open.spotify.com/track/4hTDFUxvF9hx6WH1xsZigc) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [I LOVE YOU](https://open.spotify.com/album/76KAp3rsIGWC0FcoPjAHkT) | 1:38 |
+| 28 | [Rehab](https://open.spotify.com/track/4Uuw8zkh8pesHx3FaEDNQo) | [Mokyo](https://open.spotify.com/artist/1kRGgLBLwdQ16TxyfN1YgP) | [Rehab](https://open.spotify.com/album/7shV9Ltl8Cd7yjQgARX6J6) | 3:05 |
+| 29 | [Amoo\-rae\-do](https://open.spotify.com/track/0P2ZMsx0ZSORtoAltJje1B) | [COCONA](https://open.spotify.com/artist/5UukZH6jYHqTwLSSWGj7FN) | [Amoo\-rae\-do](https://open.spotify.com/album/5javGGT9UBP0kc0ayoWCGP) | 1:48 |
+| 30 | [PRETTY \(feat\. Nafla, Bryn\)](https://open.spotify.com/track/3LGlLoEK1ZPGRcS6gHYhWm) | [lnb](https://open.spotify.com/artist/2fHTnW5arnhwXNwW2GD4fK), [nafla](https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr), [Bryn](https://open.spotify.com/artist/74r4YBm6qWOBKKF6MhVXVq) | [PROJECT .1](https://open.spotify.com/album/5HlAriF53xhN5BfF05IiHZ) | 3:05 |
+| 31 | [New](https://open.spotify.com/track/3RbkzuLs2u9TprBTPnUp4W) | [Chimmi](https://open.spotify.com/artist/19bRgj5ThGcxiGkwvohFHJ) | [CINEMA](https://open.spotify.com/album/3c12AipT5WBHnU6zz2yGzx) | 3:02 |
+| 32 | [Electric Animal](https://open.spotify.com/track/5WsxLJtXDWl5EfH5z7N05R) | [Tabber](https://open.spotify.com/artist/4CYjITN8Au3K5CWFeex7fU), [Keyon Christ](https://open.spotify.com/artist/71p9YcOYtzkakGsABYYxKW) | [Electric Animal](https://open.spotify.com/album/6bMe66LMpqunGFxKcVJ2Sc) | 2:41 |
 | 33 | [OUTGROWN](https://open.spotify.com/track/6qNFeGOQt4gj57V4B2b6WW) | [HUNJIYA](https://open.spotify.com/artist/3BX7RIMRQexSiSSshJFPzC) | [KHAMAI](https://open.spotify.com/album/0vnfG9S9NskFX5FPP1SxHR) | 4:16 |
 | 34 | [GO! \(feat\. Eelittlee\)](https://open.spotify.com/track/6Qxyowsn90zcO5guo9vwl1) | [BÉBE YANA](https://open.spotify.com/artist/6ozuxhSx8Ci0o8tPpgrCT2), [Eelittlee](https://open.spotify.com/artist/0wrqnbFtOGgYllDGFr8JPA) | [SPACE MULAN](https://open.spotify.com/album/1GHYvCUVTfIiKoB3qGRKV9) | 3:17 |
 | 35 | [GGOOM \(feat\. Jvcki Wai\)](https://open.spotify.com/track/5A5BNPzrLuPZROBKVS03GL) | [Lil Cherry](https://open.spotify.com/artist/523GImBnBoIvcq0n8BZIv4), [Jvcki Wai](https://open.spotify.com/artist/4bjcB3ZKiHgPzJvY2S2FLN) | [SPACE TALK](https://open.spotify.com/album/2fCmv8LfALrhNR1yM8jsn1) | 2:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgmQDgebb6.md) - [plain]
 | 49 | [Wait](https://open.spotify.com/track/2ILuzHZ3x0KUctLIpYhVAg) | [Fisherman](https://open.spotify.com/artist/3VBZBLX807XsYkBcZqEGn4), [Ku One Chan](https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5) | [Format](https://open.spotify.com/album/7IVXJq84oVDxFmDQIHHkrR) | 4:00 |
 | 50 | [Who Are You](https://open.spotify.com/track/1DIcwjXEd7kmzVpxqWBK5J) | [We Are The Night](https://open.spotify.com/artist/5UT1mOF7JAjcc7e3wen8vw) | [Who Are You](https://open.spotify.com/album/0AJedZzGLJy6NlD8eaI9QN) | 3:46 |
 
-Snapshot ID: `MTY2MDg5NDcxOCwwMDAwMDAwMDc2ODFiNzRiYTA0YTEwNDVmMjAyZDAyZjRlMGY4MWE3`
+Snapshot ID: `MTY2MDg5NDcxOCwwMDAwMDAwMDczMGJiMDczNWM2OWZiYTMxMmE0NzEyNGU4YmYxZWE2`

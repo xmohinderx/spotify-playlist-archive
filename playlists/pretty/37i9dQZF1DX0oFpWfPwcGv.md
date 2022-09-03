@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oFpWfPwcGv.md) - [plain]
 
 > Disco forever\. Deeper cuts, forgotten gems and 8 minute versions.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,738 likes - 85 songs - 8 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,829 likes - 85 songs - 8 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oFpWfPwcGv.md) - [plain]
 | 33 | [Keep On Jumpin'](https://open.spotify.com/track/6J9rBgsm9USju9PkLf2exF) | [Musique](https://open.spotify.com/artist/5JO0fCMUiEJtUQjyOXyaCl) | [Keep On Jumpin'](https://open.spotify.com/album/5gQh0forPeR556hKjhEdXW) | 5:39 |
 | 34 | [Come to Me](https://open.spotify.com/track/5wmVHVCMNO6TfCBcXU0cCk) | [France Joli](https://open.spotify.com/artist/10yNnmMFF3U0MW7oeG3bFr) | [Come to Me](https://open.spotify.com/album/36xBZHKGsbSbWNZkSy6TH1) | 9:50 |
 | 35 | [Love Is the Message \(feat\. The Three Degrees\) \- Love Groove Bonus](https://open.spotify.com/track/3rwrt4Ks6N6EWIfjfIfLAP) | [MFSB](https://open.spotify.com/artist/2mknvtcck8i82nKxDPDibv), [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Deep Grooves](https://open.spotify.com/album/4YmLFWoRJ18TSlw7ROIPIf) | 5:13 |
-| 36 | [Date With The Rain](https://open.spotify.com/track/4fN44oV5yhUEt6NDSDCLBS) | [Eddie Kendricks](https://open.spotify.com/artist/2Uuon75BhnuuxdKLYn4wHn) | [People..\. Hold On](https://open.spotify.com/album/56H0s8mDvyhVZOWn3vEBgS) | 2:40 |
-| 37 | [I'm Caught up \(In a One Night Love Affair\) \- 12” Edit](https://open.spotify.com/track/5XaBOlOPKJGnq3XFiS5ZHH) | [Inner Life](https://open.spotify.com/artist/39fymbns0snQudVbD1hZjX) | [I'm Caught Up \(In a One Night Love Affair\)](https://open.spotify.com/album/60o5ZuM7b03ENGBfED56RG) | 7:26 |
+| 36 | [I'm Caught up \(In a One Night Love Affair\) \- 12” Edit](https://open.spotify.com/track/5XaBOlOPKJGnq3XFiS5ZHH) | [Inner Life](https://open.spotify.com/artist/39fymbns0snQudVbD1hZjX) | [I'm Caught Up \(In a One Night Love Affair\)](https://open.spotify.com/album/60o5ZuM7b03ENGBfED56RG) | 7:26 |
+| 37 | [Date With The Rain](https://open.spotify.com/track/4fN44oV5yhUEt6NDSDCLBS) | [Eddie Kendricks](https://open.spotify.com/artist/2Uuon75BhnuuxdKLYn4wHn) | [People..\. Hold On](https://open.spotify.com/album/56H0s8mDvyhVZOWn3vEBgS) | 2:40 |
 | 38 | [Stand on the Word \(Studio Version\)](https://open.spotify.com/track/5vENdsWnbqEBK54OowpBlR) | [The Joubert Singers](https://open.spotify.com/artist/2uGpuH0yo0iKx6rBqfgiA9) | [Stand on the Word](https://open.spotify.com/album/6326gB2TfeUk41ywKkoo6M) | 5:03 |
 | 39 | [Dance \(Disco Heat\)](https://open.spotify.com/track/0z7k9lTYzdTjuT7KmtOr2q) | [Sylvester](https://open.spotify.com/artist/5TGTpu4g8siFOIctZuQO7y) | [Step II](https://open.spotify.com/album/6y64gP67AegGu2rspM2GHo) | 5:55 |
 | 40 | [Thinking of You \- Dimitri from Paris Remix; 2018 Remaster](https://open.spotify.com/track/6J0pQrsvXUc1Xy4DvScrIK) | [Sister Sledge](https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays), [Dimitri From Paris](https://open.spotify.com/artist/5Il27M5JXuQLgwDgVrQMgo) | [Dimitri From Paris Presents Le CHIC Remix](https://open.spotify.com/album/0SbNsZY1MvowLeC5YgEMrg) | 6:29 |
@@ -85,13 +85,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oFpWfPwcGv.md) - [plain]
 | 75 | [Changin'](https://open.spotify.com/track/0fkmYAlaWRl8PekuNfSsYE) | [Ms\. \(Sharon\) Ridley](https://open.spotify.com/artist/1bN0ObJIFfCWF5Pa0vXROz) | [Full Moon](https://open.spotify.com/album/1PbVQRjZQxRK6ml00vOKrp) | 6:28 |
 | 76 | [Soul Makossa](https://open.spotify.com/track/0ofK8UNWOtCFbbizCe8hta) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Crooklyn Volume II](https://open.spotify.com/album/0D6AKEKQLa5VR5akhUjV0l) | 4:26 |
 | 77 | [It's a Better Than Good Time](https://open.spotify.com/track/07HoKinMluYrInnQoMj4zu) | [Gladys Knight](https://open.spotify.com/artist/2aXiJJHJei5BmCykxI37y0) | [Miss Gladys Knight](https://open.spotify.com/album/2mY1RyBSnE7tkjh7EVJNNc) | 5:51 |
-| 78 | [Stay Free](https://open.spotify.com/track/39rVzigiXOF0feDwgKzKIs) | [Ashford & Simpson](https://open.spotify.com/artist/2EURsXo9qlt1aMWlviGCRi), [James Simpson](https://open.spotify.com/artist/2iphCH37GnHODxVanwu4Wf) | [Stay Free](https://open.spotify.com/album/0deJgBEQc6s9ljcW2My2uV) | 5:22 |
-| 79 | [Time Waits for No One](https://open.spotify.com/track/3Z7zgWmObUJD9mh4ZX1uBL) | [Jean Carn](https://open.spotify.com/artist/5swBKHtsRDaCBmdpYRYOg1) | [Jean Carn](https://open.spotify.com/album/4gsuDhx9sgXP5tqKFolPIj) | 4:15 |
+| 78 | [Time Waits for No One](https://open.spotify.com/track/3Z7zgWmObUJD9mh4ZX1uBL) | [Jean Carn](https://open.spotify.com/artist/5swBKHtsRDaCBmdpYRYOg1) | [Jean Carn](https://open.spotify.com/album/4gsuDhx9sgXP5tqKFolPIj) | 4:15 |
+| 79 | [Stay Free](https://open.spotify.com/track/39rVzigiXOF0feDwgKzKIs) | [Ashford & Simpson](https://open.spotify.com/artist/2EURsXo9qlt1aMWlviGCRi), [James Simpson](https://open.spotify.com/artist/2iphCH37GnHODxVanwu4Wf) | [Stay Free](https://open.spotify.com/album/0deJgBEQc6s9ljcW2My2uV) | 5:22 |
 | 80 | [The Love I Lost \- A Tom Moulton Mix](https://open.spotify.com/track/6kTRD53rZvscOShCDotKVy) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Tom Moulton](https://open.spotify.com/artist/6xDW6TfPeBAiq1gmqMJnM6) | [Philadelphia International Records: The Tom Moulton Remixes](https://open.spotify.com/album/25R1Y9bt82lbSwZemUBJ1A) | 12:30 |
-| 81 | [Sinner Man](https://open.spotify.com/track/4ejEDBcfJgMXyBd9hooIp8) | [Sarah Dash](https://open.spotify.com/artist/40GzTuEPg9xjzGeXJESEMH) | [Club Epic \- A Collection Of Classic Dance Mixes: Volume 4](https://open.spotify.com/album/5EeLmKBK9L5zt1m2hpzIjW) | 5:38 |
+| 81 | [Earth Can Be Just Like Heaven](https://open.spotify.com/track/3nmBEXWVfbtT1OIJIUisuk) | [Two Tons Of Fun](https://open.spotify.com/artist/0saeDZpMg2N0q5nLTlGANX) | [Get The Feeling](https://open.spotify.com/album/7crScJSELYuXpuUbnJZGK0) | 4:25 |
 | 82 | [I Wanna Be With You](https://open.spotify.com/track/6CkJTGW06HbJqXRrlRJaG7) | [Coffee](https://open.spotify.com/artist/0FKrKK6FcyzlTnuhmv7i6h) | [Slippin' and Dippin' \(Bonus Track Version\)](https://open.spotify.com/album/4LvH1pQ8ysoBXLicmLdifO) | 7:40 |
-| 83 | [Earth Can Be Just Like Heaven](https://open.spotify.com/track/3nmBEXWVfbtT1OIJIUisuk) | [Two Tons Of Fun](https://open.spotify.com/artist/0saeDZpMg2N0q5nLTlGANX) | [Get The Feeling](https://open.spotify.com/album/7crScJSELYuXpuUbnJZGK0) | 4:25 |
+| 83 | [Sinner Man](https://open.spotify.com/track/4ejEDBcfJgMXyBd9hooIp8) | [Sarah Dash](https://open.spotify.com/artist/40GzTuEPg9xjzGeXJESEMH) | [Club Epic \- A Collection Of Classic Dance Mixes: Volume 4](https://open.spotify.com/album/5EeLmKBK9L5zt1m2hpzIjW) | 5:38 |
 | 84 | [Victim](https://open.spotify.com/track/4YPsI3caCo9mOsqI3tc6hv) | [Candi Staton](https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et) | [The Best of Candi Staton](https://open.spotify.com/album/3cb3mTuLI8rwHFxLozs8fg) | 5:17 |
 | 85 | [Angel in My Pocket \- Extended Version](https://open.spotify.com/track/3oLeHyYhacSx9LTy7jQiTZ) | [Change](https://open.spotify.com/artist/2fJ2vi4PUSxyvYaeq0FTbE) | [Magical Night \(Greatest Hits Special Price\)](https://open.spotify.com/album/4oJxJx3YxgItQdfcihMD0f) | 7:09 |
 
-Snapshot ID: `MTY1Nzg2MDAxNCwwMDAwMDAwMDI5OWMwNzY0NWZjMmQzZWIwNjRhY2I5ZmE3NjY3NmQ3`
+Snapshot ID: `MTY1Nzg2MDAxNCwwMDAwMDAwMDViM2MxMjcxYjJiZDBhZDY1ZGYwZGNkM2UwYWU4OTRk`

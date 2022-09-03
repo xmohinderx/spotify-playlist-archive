@@ -704,6 +704,24 @@
     },
     {
       "album": {
+        "name": "Consapevolezza",
+        "url": "https://open.spotify.com/album/5miTWb698z08O6V5pxTc8X"
+      },
+      "artists": [
+        {
+          "name": "Dormiente",
+          "url": "https://open.spotify.com/artist/5CsUyEbyQ9JoZLTaP9HJhu"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154508,
+      "name": "Consapevolezza",
+      "url": "https://open.spotify.com/track/63kxLIjDG9maJO1T1oxVoP"
+    },
+    {
+      "album": {
         "name": "Contemplation",
         "url": "https://open.spotify.com/album/4X1afAsNqXENvFo1ijXnau"
       },
@@ -2897,6 +2915,24 @@
       "duration_ms": 195374,
       "name": "Rho Bootis",
       "url": "https://open.spotify.com/track/4Ug0Y3KIvka9tOYjFeWFD1"
+    },
+    {
+      "album": {
+        "name": "Rhythms",
+        "url": "https://open.spotify.com/album/3r2nphYPieVtEcbWCfWMP3"
+      },
+      "artists": [
+        {
+          "name": "Pascal Dirac",
+          "url": "https://open.spotify.com/artist/55UOeJ9KXXCNAQ0b4REsiR"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148797,
+      "name": "Rhythms",
+      "url": "https://open.spotify.com/track/2ZvyrcGO1JLsfc2XqD7oio"
     },
     {
       "album": {

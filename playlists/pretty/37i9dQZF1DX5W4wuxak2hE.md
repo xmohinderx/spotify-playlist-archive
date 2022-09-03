@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5W4wuxak2hE.md) - [plain]
 
 > Here's a taste of power pop\. <a href="spotify:genre:0JQ5IMCbQBLk5woFi85yOT">Click here for further discovery.</a> Cover: Cheap Trick
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,783 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,888 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5W4wuxak2hE.md) - [plain]
 | 42 | [Jet \- Remastered 2010](https://open.spotify.com/track/4D40ZlFAWsvX7lua1Kablh) | [Wings](https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m) | [Band On The Run \(Standard\)](https://open.spotify.com/album/257oomaawruFknt5wYCPDh) | 4:08 |
 | 43 | [Day After Day \- Remastered 2010](https://open.spotify.com/track/2XKW8CH8nRZH9cF2DNjBHN) | [Badfinger](https://open.spotify.com/artist/4pJCawaKSZ40EnxN0YEYw3) | [Straight Up \(Remastered 2010 / Deluxe Edition\)](https://open.spotify.com/album/0BWOueFZKxQrQWNRt20Lvc) | 3:11 |
 | 44 | [Oliver's Army](https://open.spotify.com/track/4Zz1ctRTK04dytKiFuavBX) | [Elvis Costello & The Attractions](https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH) | [Armed Forces \(Remastered 2020\)](https://open.spotify.com/album/5w3q6GZbw0gsAtvl1c0rmu) | 3:00 |
-| 45 | [Alison](https://open.spotify.com/track/1v98rfd0an913AzHvMNG8a) | [Elvis Costello](https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn) | [My Aim Is True](https://open.spotify.com/album/1aucGNKimhgARC7iO2xLt2) | 3:24 |
-| 46 | [Cruel to Be Kind](https://open.spotify.com/track/7D5ycpIrqwGNTQFKmzhDIg) | [Nick Lowe](https://open.spotify.com/artist/3BqaUtuQmqIHg7B5Bc7fP7) | [Labour of Lust](https://open.spotify.com/album/7c8NVsxXciWMbAMN51GKim) | 3:30 |
+| 45 | [Cruel to Be Kind](https://open.spotify.com/track/7D5ycpIrqwGNTQFKmzhDIg) | [Nick Lowe](https://open.spotify.com/artist/3BqaUtuQmqIHg7B5Bc7fP7) | [Labour of Lust](https://open.spotify.com/album/7c8NVsxXciWMbAMN51GKim) | 3:30 |
+| 46 | [Alison](https://open.spotify.com/track/1v98rfd0an913AzHvMNG8a) | [Elvis Costello](https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn) | [My Aim Is True](https://open.spotify.com/album/1aucGNKimhgARC7iO2xLt2) | 3:24 |
 | 47 | [Hello It's Me](https://open.spotify.com/track/3gHFKiDanj4d2rqgHlRFFc) | [Todd Rundgren](https://open.spotify.com/artist/0Lpr5wXzWLtDWm1SjNbpPb) | [Something / Anything?](https://open.spotify.com/album/3fRCOoTbBsOITBWlCRCJQr) | 4:24 |
 | 48 | [Connection](https://open.spotify.com/track/53LZqMzQEnjBkFXPqOq0cD) | [Elastica](https://open.spotify.com/artist/3l14gV4hIMAjmo7KUvEWTx) | [Elastica](https://open.spotify.com/album/00MAXeszCotk3g9q8KYJlZ) | 2:20 |
 | 49 | [Pulling Mussels \(From The Shell\)](https://open.spotify.com/track/2TjXzbUt5zQ4PpHG0dEaT1) | [Squeeze](https://open.spotify.com/artist/6Jrj26oAY96EEC2lqC6fua) | [Argybargy](https://open.spotify.com/album/7Me29nlWdDxCGAAwupHfSV) | 3:58 |
 | 50 | [\(What's So Funny 'Bout\) Peace, Love And Understanding](https://open.spotify.com/track/77XzsYwTkvLoveW01Lanrk) | [Elvis Costello & The Attractions](https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH) | [Armed Forces \(Remastered 2020\)](https://open.spotify.com/album/5w3q6GZbw0gsAtvl1c0rmu) | 3:31 |
 
-Snapshot ID: `MTY2MDc0NjAzNiwwMDAwMDAwMDA3OTQ2MDJhNmZhMzQ5Y2RkMGM1Y2I0NjQ3MzU0MTBi`
+Snapshot ID: `MTY2MDc0NjAzNiwwMDAwMDAwMGVjZjBkOWIyNWVkNWZiOTJlZGYyNzkzOTIzY2NlODM2`

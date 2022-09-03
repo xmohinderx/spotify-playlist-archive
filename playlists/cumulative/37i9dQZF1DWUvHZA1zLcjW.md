@@ -4,7 +4,7 @@
 
 > Chilled classical tunes to help you relax and unwind.
 
-138 songs - 10 hr 21 min - [published](https://open.spotify.com/playlist/4Num9648PBh0tHBNi9kTl7)
+139 songs - 10 hr 24 min - [published](https://open.spotify.com/playlist/4Num9648PBh0tHBNi9kTl7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Delius: 2 Pieces for Small Orchestra: No\. 1, On Hearing the First Cuckoo in Spring](https://open.spotify.com/track/2dEbRirkEtImY7HdYxrgRS) | [Frederick Delius](https://open.spotify.com/artist/65YhYi4Fz5Ibgq7ueev2Rm), [Vernon Handley](https://open.spotify.com/artist/2lfhRHLz3kC17tcVKJqJ4Y), [London Philharmonic Orchestra](https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA) | [The Lark Ascending collection](https://open.spotify.com/album/5kTtD1xA5yYPrwjEYWk5uy) | 5:49 | 2022-01-28 |  |
 | [Dew Drops](https://open.spotify.com/track/0NnFglDnuZH6qKuvhZpB0r) | [Pieter de Graaf](https://open.spotify.com/artist/387mxb1p13O8OdJ6r8pc2q) | [Vortex](https://open.spotify.com/album/4Rl1GYlwognM6bADTz5Ey2) | 5:34 | 2022-01-28 | 2022-08-03 |
 | [Die Nacht \(Arr\. for Cello and Guitar by Anja Lechner and Pablo Márquez\)](https://open.spotify.com/track/5s8B58Hj2GlkAoo5V658bU) | [Franz Schubert](https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP), [Anja Lechner](https://open.spotify.com/artist/0SGPrWBKXE2DfxLX4GbtBN), [Pablo Marquez](https://open.spotify.com/artist/0lwJbmjABuZ51dYqLrARNE) | [Schubert: Die Nacht \(Arr\. for Cello and Guitar by Anja Lechner and Pablo Márquez\)](https://open.spotify.com/album/4Gi7J0yFWPlVxJ6qp2MI1e) | 2:23 | 2022-08-02 |  |
+| [Douze préludes, Op\. 36: No\. 10, Sur une tombe](https://open.spotify.com/track/4HgG9qvhKPOTsAjxvkhH9h) | [Louis Vierne](https://open.spotify.com/artist/5s5DbmkHjHiMe5rlFdUMGL), [Laurent Wagschal](https://open.spotify.com/artist/1KH9u201pXo6g9cXxNZo12) | [Douze préludes, Op\. 36: No\. 10, Sur une tombe](https://open.spotify.com/album/4iYPvpZZnNbCuCgajYIThI) | 2:36 | 2022-09-02 |  |
 | [Eternal Source of Light Divine, HWV 74 \(Arrangement\)](https://open.spotify.com/track/2GTQ3iVNLw90PLPVUdPE4t) | [George Frideric Handel](https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2), [Rolf Lislevand](https://open.spotify.com/artist/6JM9ijNSKNjSXzxVrFjmuh), [Concerto Stella Matutina](https://open.spotify.com/artist/5MtjwE0QvUGLeepPhEu7gU) | [Nuove Invenzioni](https://open.spotify.com/album/6mPNYpx47nLYi6pekAqhoK) | 5:53 | 2022-01-28 | 2022-08-03 |
 | [Fauré: Pavane, Op\. 50](https://open.spotify.com/track/4CZq7M6hBTg77Qhp3TJHdN) | [Gabriel Fauré](https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO), [San Francisco Symphony](https://open.spotify.com/artist/1qHStDLIc8uV7hvTG6FGRJ), [Michael Tilson Thomas](https://open.spotify.com/artist/2v1lHgfpG4joXW7kDdDI78) | [Masterpieces in Miniature](https://open.spotify.com/album/05Eck7k66jfjQEs0NGVPHj) | 6:25 | 2022-01-28 | 2022-08-03 |
 | [Five Pieces For Violin And Piano: I\. Elegia \(Andante Larghetto\)](https://open.spotify.com/track/1d1FNmfO3dFlH8873yNFX3) | [Valentin Silvestrov](https://open.spotify.com/artist/1bauOA5U5M3RwH2euX3Eq6), [Duo Gazzana](https://open.spotify.com/artist/44yqsYKtToaDXjtyMuVXCj) | [Takemitsu, Hindemith, Janáček, Silvestrov: Five Pieces](https://open.spotify.com/album/3NCv2JjqPcJQx1dYcGDPiv) | 2:59 | 2022-01-28 | 2022-08-03 |

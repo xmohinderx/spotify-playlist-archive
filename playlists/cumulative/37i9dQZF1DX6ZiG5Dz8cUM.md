@@ -2,7 +2,7 @@
 
 ### [Date Night Jazz](https://open.spotify.com/playlist/37i9dQZF1DX6ZiG5Dz8cUM)
 
-> Set the tone for your date night with some cozy and romantic jazz.
+> Set the mood for your romantic date night with some soft and cozy jazz.
 
 146 songs - 10 hr 12 min - [published](https://open.spotify.com/playlist/5E3RpynfPg8MsP0i3gsukx)
 

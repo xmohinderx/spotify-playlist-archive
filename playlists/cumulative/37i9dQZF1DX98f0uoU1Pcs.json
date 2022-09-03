@@ -206,6 +206,24 @@
     },
     {
       "album": {
+        "name": "Waterslide, Diving Board, Ladder To The Sky",
+        "url": "https://open.spotify.com/album/6wdThJ2V58nkaWfv1jA4B5"
+      },
+      "artists": [
+        {
+          "name": "Porridge Radio",
+          "url": "https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187586,
+      "name": "Back To The Radio",
+      "url": "https://open.spotify.com/track/0hHOIVyywNzkoh1v6RWFb3"
+    },
+    {
+      "album": {
         "name": "Back To The Radio",
         "url": "https://open.spotify.com/album/1o0lARFP2l0SYsY6H8PeGY"
       },
@@ -217,7 +235,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 187586,
       "name": "Back To The Radio",
       "url": "https://open.spotify.com/track/3UwdNQUttlGa8fX1Jq7VeN"

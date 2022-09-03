@@ -1,12 +1,12 @@
 {
   "description": "Groovy sounds from around the world.",
-  "num_followers": 526216,
+  "num_followers": 526024,
   "original_name": "Global Groove",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTkyMzE5MCwwMDAwMDAwMGU1OWNkOWQ3MjQ2MDFhMTBkNmQ3YWUzMWEyOGU5NWQ3",
+  "snapshot_id": "MTY2MjA5ODQ3NSwwMDAwMDAwMGQ5YzJlYmZiZGJjNjJlYTliMzBiNjc1NjI3N2JlNzQ2",
   "tracks": [
     {
       "added_at": "2022-08-31 03:52:58",
@@ -165,6 +165,26 @@
       "url": "https://open.spotify.com/track/2HPB1X4LrvvHxoNgMQGB8S"
     },
     {
+      "added_at": "2022-09-02 06:01:15",
+      "album": {
+        "name": "La Matanza",
+        "url": "https://open.spotify.com/album/2CbqEOFIp1BIRIs3NPUVU6"
+      },
+      "artists": [
+        {
+          "name": "French Braids",
+          "url": "https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1"
+        },
+        {
+          "name": "Eva de Marce",
+          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
+        }
+      ],
+      "duration_ms": 201562,
+      "name": "La Matanza",
+      "url": "https://open.spotify.com/track/538h4bDYuZYT99IMlbMsdp"
+    },
+    {
       "added_at": "2021-12-17 06:00:00",
       "album": {
         "name": "Texas Moon",
@@ -201,22 +221,6 @@
       "url": "https://open.spotify.com/track/7wYN8yIS47A71ZCb3ekHY5"
     },
     {
-      "added_at": "2022-04-29 00:00:00",
-      "album": {
-        "name": "Bar Mediterraneo",
-        "url": "https://open.spotify.com/album/2OeKJLLD5jcYMgJAExURqS"
-      },
-      "artists": [
-        {
-          "name": "Nu Genea",
-          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
-        }
-      ],
-      "duration_ms": 278029,
-      "name": "Tienat\u00e9",
-      "url": "https://open.spotify.com/track/1SIXMGcsAeA6sNxaY1EG3O"
-    },
-    {
       "added_at": "2022-08-09 18:35:48",
       "album": {
         "name": "Tukumtak",
@@ -237,6 +241,22 @@
       "url": "https://open.spotify.com/track/4aOaDvOhOeTkF3sItgGY8y"
     },
     {
+      "added_at": "2022-04-29 00:00:00",
+      "album": {
+        "name": "Bar Mediterraneo",
+        "url": "https://open.spotify.com/album/2OeKJLLD5jcYMgJAExURqS"
+      },
+      "artists": [
+        {
+          "name": "Nu Genea",
+          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
+        }
+      ],
+      "duration_ms": 278029,
+      "name": "Tienat\u00e9",
+      "url": "https://open.spotify.com/track/1SIXMGcsAeA6sNxaY1EG3O"
+    },
+    {
       "added_at": "2022-03-17 01:03:21",
       "album": {
         "name": "Isaac Chambers & Dub Princess",
@@ -255,22 +275,6 @@
       "duration_ms": 336000,
       "name": "Move On",
       "url": "https://open.spotify.com/track/26Prfvk9o5cwyLMCl5zQMS"
-    },
-    {
-      "added_at": "2021-10-28 03:11:06",
-      "album": {
-        "name": "Mordechai",
-        "url": "https://open.spotify.com/album/2IzUZlhtBvPQYs74KeG6fb"
-      },
-      "artists": [
-        {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        }
-      ],
-      "duration_ms": 342189,
-      "name": "Time (You and I)",
-      "url": "https://open.spotify.com/track/0S3BtG3i5tkQmehJhIhHF3"
     },
     {
       "added_at": "2021-10-06 02:02:41",
@@ -361,20 +365,20 @@
       "url": "https://open.spotify.com/track/1gE7p3b4J8p4ivOCR2CO0Y"
     },
     {
-      "added_at": "2021-10-06 02:02:41",
+      "added_at": "2021-10-28 03:11:06",
       "album": {
-        "name": "Fine Anyway (Habibi Funk 016)",
-        "url": "https://open.spotify.com/album/2HrlABnkwte3NYA0erFtCU"
+        "name": "Mordechai",
+        "url": "https://open.spotify.com/album/2IzUZlhtBvPQYs74KeG6fb"
       },
       "artists": [
         {
-          "name": "Rog\u00e9r Fakhr",
-          "url": "https://open.spotify.com/artist/6UFqtFCNxhYqsQ1QRF6HRd"
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
         }
       ],
-      "duration_ms": 196000,
-      "name": "Had to Come Back Wet",
-      "url": "https://open.spotify.com/track/4Pd6uKE3iJm437tc0TAob0"
+      "duration_ms": 342189,
+      "name": "Time (You and I)",
+      "url": "https://open.spotify.com/track/0S3BtG3i5tkQmehJhIhHF3"
     },
     {
       "added_at": "2022-08-19 02:19:00",
@@ -393,20 +397,20 @@
       "url": "https://open.spotify.com/track/5vnvRZC36MdztW4vFaFL7a"
     },
     {
-      "added_at": "2022-03-29 03:12:27",
+      "added_at": "2021-10-06 02:02:41",
       "album": {
-        "name": "Mordechai",
-        "url": "https://open.spotify.com/album/2IzUZlhtBvPQYs74KeG6fb"
+        "name": "Fine Anyway (Habibi Funk 016)",
+        "url": "https://open.spotify.com/album/2HrlABnkwte3NYA0erFtCU"
       },
       "artists": [
         {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+          "name": "Rog\u00e9r Fakhr",
+          "url": "https://open.spotify.com/artist/6UFqtFCNxhYqsQ1QRF6HRd"
         }
       ],
-      "duration_ms": 298333,
-      "name": "So We Won't Forget",
-      "url": "https://open.spotify.com/track/4HpFU6eMThgW6Cael5AwYy"
+      "duration_ms": 196000,
+      "name": "Had to Come Back Wet",
+      "url": "https://open.spotify.com/track/4Pd6uKE3iJm437tc0TAob0"
     },
     {
       "added_at": "2021-10-06 02:02:41",
@@ -495,22 +499,6 @@
     {
       "added_at": "2021-10-06 02:02:41",
       "album": {
-        "name": "Mordechai",
-        "url": "https://open.spotify.com/album/2IzUZlhtBvPQYs74KeG6fb"
-      },
-      "artists": [
-        {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        }
-      ],
-      "duration_ms": 167972,
-      "name": "Pelota",
-      "url": "https://open.spotify.com/track/6FNdzxV9g4NaINrejBTPUi"
-    },
-    {
-      "added_at": "2021-10-06 02:02:41",
-      "album": {
         "name": "Mr Bongo Record Club, Vol. 1",
         "url": "https://open.spotify.com/album/54FBJ6Mge0mw3czvirto1r"
       },
@@ -543,6 +531,22 @@
       "duration_ms": 248127,
       "name": "Mon Cheri",
       "url": "https://open.spotify.com/track/1Fu9QYiYh8izSKG0cqUXxn"
+    },
+    {
+      "added_at": "2022-03-29 03:12:27",
+      "album": {
+        "name": "Mordechai",
+        "url": "https://open.spotify.com/album/2IzUZlhtBvPQYs74KeG6fb"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "duration_ms": 298333,
+      "name": "So We Won't Forget",
+      "url": "https://open.spotify.com/track/4HpFU6eMThgW6Cael5AwYy"
     },
     {
       "added_at": "2021-10-06 02:02:41",
@@ -635,26 +639,6 @@
     {
       "added_at": "2021-10-06 02:02:41",
       "album": {
-        "name": "Mordechai Remixes",
-        "url": "https://open.spotify.com/album/2WKWg3fF8dwCXt4qPDHdYG"
-      },
-      "artists": [
-        {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        },
-        {
-          "name": "Quantic",
-          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
-        }
-      ],
-      "duration_ms": 301995,
-      "name": "Pelota (Cut a Rug Mix)",
-      "url": "https://open.spotify.com/track/7JC2I6zKONCvnr4HPlY9hi"
-    },
-    {
-      "added_at": "2021-10-06 02:02:41",
-      "album": {
         "name": "On te l'avait dit",
         "url": "https://open.spotify.com/album/769hXvYI0EBGEC2ldfRgnp"
       },
@@ -671,22 +655,6 @@
       "duration_ms": 432963,
       "name": "Spies Are Watching Me",
       "url": "https://open.spotify.com/track/1UIqpCB0b56K7U0JJPfskN"
-    },
-    {
-      "added_at": "2021-10-06 02:02:41",
-      "album": {
-        "name": "Tape 19.11 / Ayonha",
-        "url": "https://open.spotify.com/album/2ndCkboIEM4g6Z2n2IjLd1"
-      },
-      "artists": [
-        {
-          "name": "Hamid Al Shaeri",
-          "url": "https://open.spotify.com/artist/7u1V0Ucu5ggW1VaXwh8KeT"
-        }
-      ],
-      "duration_ms": 221500,
-      "name": "Ayonha",
-      "url": "https://open.spotify.com/track/01NKQM0t8lyzOo4YZOZLYw"
     },
     {
       "added_at": "2022-06-03 16:50:58",
@@ -707,6 +675,38 @@
       "duration_ms": 103220,
       "name": "Pueblo",
       "url": "https://open.spotify.com/track/4LOw0j83cz4aaqgP555uAT"
+    },
+    {
+      "added_at": "2021-10-06 02:02:41",
+      "album": {
+        "name": "Tape 19.11 / Ayonha",
+        "url": "https://open.spotify.com/album/2ndCkboIEM4g6Z2n2IjLd1"
+      },
+      "artists": [
+        {
+          "name": "Hamid Al Shaeri",
+          "url": "https://open.spotify.com/artist/7u1V0Ucu5ggW1VaXwh8KeT"
+        }
+      ],
+      "duration_ms": 221500,
+      "name": "Ayonha",
+      "url": "https://open.spotify.com/track/01NKQM0t8lyzOo4YZOZLYw"
+    },
+    {
+      "added_at": "2021-10-06 02:02:41",
+      "album": {
+        "name": "Mordechai",
+        "url": "https://open.spotify.com/album/2IzUZlhtBvPQYs74KeG6fb"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "duration_ms": 167972,
+      "name": "Pelota",
+      "url": "https://open.spotify.com/track/6FNdzxV9g4NaINrejBTPUi"
     },
     {
       "added_at": "2021-10-06 02:02:41",
@@ -795,6 +795,26 @@
     {
       "added_at": "2021-10-06 02:02:41",
       "album": {
+        "name": "\u00c7a fait 2x plus de bien",
+        "url": "https://open.spotify.com/album/5v03jp3rrC4R0AVFlMsMAE"
+      },
+      "artists": [
+        {
+          "name": "Antonin",
+          "url": "https://open.spotify.com/artist/5Z1r1R8kuSh4FRdQh7kzmC"
+        },
+        {
+          "name": "Voilaaa",
+          "url": "https://open.spotify.com/artist/6MQoRoLtsUg7Fzi5nJGmC1"
+        }
+      ],
+      "duration_ms": 208153,
+      "name": "\u00c7a fait du bien - Voilaaa Remix",
+      "url": "https://open.spotify.com/track/35iCo2B0jaGwYpaFP2fFZ8"
+    },
+    {
+      "added_at": "2021-10-06 02:02:41",
+      "album": {
         "name": "Celestial Strut",
         "url": "https://open.spotify.com/album/5UAtIWTEaVwzoZ4NZDtElM"
       },
@@ -815,22 +835,22 @@
     {
       "added_at": "2021-10-06 02:02:41",
       "album": {
-        "name": "\u00c7a fait 2x plus de bien",
-        "url": "https://open.spotify.com/album/5v03jp3rrC4R0AVFlMsMAE"
+        "name": "Mordechai Remixes",
+        "url": "https://open.spotify.com/album/2WKWg3fF8dwCXt4qPDHdYG"
       },
       "artists": [
         {
-          "name": "Antonin",
-          "url": "https://open.spotify.com/artist/5Z1r1R8kuSh4FRdQh7kzmC"
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
         },
         {
-          "name": "Voilaaa",
-          "url": "https://open.spotify.com/artist/6MQoRoLtsUg7Fzi5nJGmC1"
+          "name": "Quantic",
+          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
         }
       ],
-      "duration_ms": 208153,
-      "name": "\u00c7a fait du bien - Voilaaa Remix",
-      "url": "https://open.spotify.com/track/35iCo2B0jaGwYpaFP2fFZ8"
+      "duration_ms": 301995,
+      "name": "Pelota (Cut a Rug Mix)",
+      "url": "https://open.spotify.com/track/7JC2I6zKONCvnr4HPlY9hi"
     },
     {
       "added_at": "2021-10-06 02:02:41",
@@ -927,22 +947,18 @@
     {
       "added_at": "2021-10-06 02:02:41",
       "album": {
-        "name": "La Cura",
-        "url": "https://open.spotify.com/album/0SMT9ClQIEh49gPEIPH1Nf"
+        "name": "Haditouni (Habibi Funk 015)",
+        "url": "https://open.spotify.com/album/6sRXH84YpSaYltT7qDCxMM"
       },
       "artists": [
         {
-          "name": "Pahua",
-          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
-        },
-        {
-          "name": "Gizmo Varillas",
-          "url": "https://open.spotify.com/artist/47i4lPow1dIRwOb85AB6lj"
+          "name": "Douaa",
+          "url": "https://open.spotify.com/artist/4iAexb7ScY5FYSUsViF4io"
         }
       ],
-      "duration_ms": 181000,
-      "name": "La Cura",
-      "url": "https://open.spotify.com/track/0UVwUs9TMKgee3kvE2uMxC"
+      "duration_ms": 205874,
+      "name": "Haditouni (Habibi Funk 015)",
+      "url": "https://open.spotify.com/track/40Eql6g1f9BLSWeJ8mZgOU"
     },
     {
       "added_at": "2021-10-06 02:02:41",
@@ -967,18 +983,38 @@
     {
       "added_at": "2021-10-06 02:02:41",
       "album": {
-        "name": "Haditouni (Habibi Funk 015)",
-        "url": "https://open.spotify.com/album/6sRXH84YpSaYltT7qDCxMM"
+        "name": "La Cura",
+        "url": "https://open.spotify.com/album/0SMT9ClQIEh49gPEIPH1Nf"
       },
       "artists": [
         {
-          "name": "Douaa",
-          "url": "https://open.spotify.com/artist/4iAexb7ScY5FYSUsViF4io"
+          "name": "Pahua",
+          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
+        },
+        {
+          "name": "Gizmo Varillas",
+          "url": "https://open.spotify.com/artist/47i4lPow1dIRwOb85AB6lj"
         }
       ],
-      "duration_ms": 205874,
-      "name": "Haditouni (Habibi Funk 015)",
-      "url": "https://open.spotify.com/track/40Eql6g1f9BLSWeJ8mZgOU"
+      "duration_ms": 181000,
+      "name": "La Cura",
+      "url": "https://open.spotify.com/track/0UVwUs9TMKgee3kvE2uMxC"
+    },
+    {
+      "added_at": "2022-02-11 00:29:03",
+      "album": {
+        "name": "Darker Than Blue",
+        "url": "https://open.spotify.com/album/3AHvkBPz12A5UAcDHfFvn7"
+      },
+      "artists": [
+        {
+          "name": "Devon Russell",
+          "url": "https://open.spotify.com/artist/5qpAbHQfFzjfDhHRTTMwkz"
+        }
+      ],
+      "duration_ms": 235706,
+      "name": "Move on Up",
+      "url": "https://open.spotify.com/track/3LIy6dd3MYDjtS2AuIWB9h"
     },
     {
       "added_at": "2021-10-06 02:02:41",
@@ -1003,26 +1039,6 @@
     {
       "added_at": "2021-10-06 02:02:41",
       "album": {
-        "name": "Frente Cumbiero Meets Mad Professor",
-        "url": "https://open.spotify.com/album/1dnal49FIWH19CsWYjYMOV"
-      },
-      "artists": [
-        {
-          "name": "Frente Cumbiero",
-          "url": "https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6"
-        },
-        {
-          "name": "Mad Professor",
-          "url": "https://open.spotify.com/artist/3hbnUwHvxyFxeJ9veCzOE7"
-        }
-      ],
-      "duration_ms": 263933,
-      "name": "Chucusteady",
-      "url": "https://open.spotify.com/track/1mUPcRmSmi2XsKAOWFKAF1"
-    },
-    {
-      "added_at": "2021-10-06 02:02:41",
-      "album": {
         "name": "Theme from Selva",
         "url": "https://open.spotify.com/album/6ht7LwHxyNVk8gkqGaK6mM"
       },
@@ -1039,38 +1055,22 @@
     {
       "added_at": "2021-10-06 02:02:41",
       "album": {
-        "name": "Calentita",
-        "url": "https://open.spotify.com/album/4NycotM0tlCFNtXd6JCzce"
+        "name": "Frente Cumbiero Meets Mad Professor",
+        "url": "https://open.spotify.com/album/1dnal49FIWH19CsWYjYMOV"
       },
       "artists": [
         {
-          "name": "The Limi\u00f1anas",
-          "url": "https://open.spotify.com/artist/2joJCoCL4EmiVqic3vZn7n"
+          "name": "Frente Cumbiero",
+          "url": "https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6"
         },
         {
-          "name": "Nuria",
-          "url": "https://open.spotify.com/artist/21sVXoR17xphV2u6PNTpo2"
+          "name": "Mad Professor",
+          "url": "https://open.spotify.com/artist/3hbnUwHvxyFxeJ9veCzOE7"
         }
       ],
-      "duration_ms": 200991,
-      "name": "Calentita",
-      "url": "https://open.spotify.com/track/0MYCrsAFlIGtVcfxlCEzah"
-    },
-    {
-      "added_at": "2022-02-11 00:29:03",
-      "album": {
-        "name": "Darker Than Blue",
-        "url": "https://open.spotify.com/album/3AHvkBPz12A5UAcDHfFvn7"
-      },
-      "artists": [
-        {
-          "name": "Devon Russell",
-          "url": "https://open.spotify.com/artist/5qpAbHQfFzjfDhHRTTMwkz"
-        }
-      ],
-      "duration_ms": 235706,
-      "name": "Move on Up",
-      "url": "https://open.spotify.com/track/3LIy6dd3MYDjtS2AuIWB9h"
+      "duration_ms": 263933,
+      "name": "Chucusteady",
+      "url": "https://open.spotify.com/track/1mUPcRmSmi2XsKAOWFKAF1"
     },
     {
       "added_at": "2021-10-06 02:02:41",
@@ -1111,18 +1111,22 @@
     {
       "added_at": "2021-10-06 02:02:41",
       "album": {
-        "name": "Late Night Tales: Khruangbin",
-        "url": "https://open.spotify.com/album/6G9fIqCsV0qEiBsdwLOACy"
+        "name": "Calentita",
+        "url": "https://open.spotify.com/album/4NycotM0tlCFNtXd6JCzce"
       },
       "artists": [
         {
-          "name": "Maxwell Udoh",
-          "url": "https://open.spotify.com/artist/7sBObaY7xVN3bDVU9AW8O9"
+          "name": "The Limi\u00f1anas",
+          "url": "https://open.spotify.com/artist/2joJCoCL4EmiVqic3vZn7n"
+        },
+        {
+          "name": "Nuria",
+          "url": "https://open.spotify.com/artist/21sVXoR17xphV2u6PNTpo2"
         }
       ],
-      "duration_ms": 390121,
-      "name": "I Like It (Don't Stop)",
-      "url": "https://open.spotify.com/track/5f3Pu9oUnc4URLrViyqxj9"
+      "duration_ms": 200991,
+      "name": "Calentita",
+      "url": "https://open.spotify.com/track/0MYCrsAFlIGtVcfxlCEzah"
     },
     {
       "added_at": "2021-10-06 02:02:41",
@@ -1143,18 +1147,18 @@
     {
       "added_at": "2021-10-06 02:02:41",
       "album": {
-        "name": "Road Of The Lonely Ones",
-        "url": "https://open.spotify.com/album/28MiwOX8Od693aOkUnEgsf"
+        "name": "Late Night Tales: Khruangbin",
+        "url": "https://open.spotify.com/album/6G9fIqCsV0qEiBsdwLOACy"
       },
       "artists": [
         {
-          "name": "Madlib",
-          "url": "https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf"
+          "name": "Maxwell Udoh",
+          "url": "https://open.spotify.com/artist/7sBObaY7xVN3bDVU9AW8O9"
         }
       ],
-      "duration_ms": 218466,
-      "name": "Road Of The Lonely Ones",
-      "url": "https://open.spotify.com/track/4VaICpePVA67Wqvv8SryFr"
+      "duration_ms": 390121,
+      "name": "I Like It (Don't Stop)",
+      "url": "https://open.spotify.com/track/5f3Pu9oUnc4URLrViyqxj9"
     },
     {
       "added_at": "2022-03-29 03:12:27",
@@ -1179,22 +1183,18 @@
     {
       "added_at": "2021-10-06 02:02:41",
       "album": {
-        "name": "Robson Jorge e Lincoln Olivetti",
-        "url": "https://open.spotify.com/album/23YsJH4l99KmP9OLXIwsaM"
+        "name": "Road Of The Lonely Ones",
+        "url": "https://open.spotify.com/album/28MiwOX8Od693aOkUnEgsf"
       },
       "artists": [
         {
-          "name": "Robson Jorge",
-          "url": "https://open.spotify.com/artist/59giNkLqQNTZs8MnlrkUhM"
-        },
-        {
-          "name": "Lincoln Olivetti",
-          "url": "https://open.spotify.com/artist/2Pky4QuIXrFq6ZERGi4m1E"
+          "name": "Madlib",
+          "url": "https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf"
         }
       ],
-      "duration_ms": 181427,
-      "name": "Ginga",
-      "url": "https://open.spotify.com/track/2KDF5lrsQNBN0a89SwkwDg"
+      "duration_ms": 218466,
+      "name": "Road Of The Lonely Ones",
+      "url": "https://open.spotify.com/track/4VaICpePVA67Wqvv8SryFr"
     },
     {
       "added_at": "2021-10-06 02:02:41",
@@ -1217,6 +1217,26 @@
       "url": "https://open.spotify.com/track/29iikcw9YrjhYEmfLgBTHF"
     },
     {
+      "added_at": "2021-10-06 02:02:41",
+      "album": {
+        "name": "Robson Jorge e Lincoln Olivetti",
+        "url": "https://open.spotify.com/album/23YsJH4l99KmP9OLXIwsaM"
+      },
+      "artists": [
+        {
+          "name": "Robson Jorge",
+          "url": "https://open.spotify.com/artist/59giNkLqQNTZs8MnlrkUhM"
+        },
+        {
+          "name": "Lincoln Olivetti",
+          "url": "https://open.spotify.com/artist/2Pky4QuIXrFq6ZERGi4m1E"
+        }
+      ],
+      "duration_ms": 181427,
+      "name": "Ginga",
+      "url": "https://open.spotify.com/track/2KDF5lrsQNBN0a89SwkwDg"
+    },
+    {
       "added_at": "2022-04-17 20:13:34",
       "album": {
         "name": "Roots in the Air",
@@ -1233,22 +1253,6 @@
       "url": "https://open.spotify.com/track/4oRvjHoSmt1mOagLCdgtkK"
     },
     {
-      "added_at": "2022-08-03 03:52:21",
-      "album": {
-        "name": "Mushroom Samba",
-        "url": "https://open.spotify.com/album/2vZDpV5nFLejbX10a04HM2"
-      },
-      "artists": [
-        {
-          "name": "Saib",
-          "url": "https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk"
-        }
-      ],
-      "duration_ms": 250434,
-      "name": "Mushroom Samba",
-      "url": "https://open.spotify.com/track/06dKqow8ddfH8FREVTLJoy"
-    },
-    {
       "added_at": "2021-10-06 02:02:41",
       "album": {
         "name": "The Rabbit That Hunts Tigers",
@@ -1263,6 +1267,22 @@
       "duration_ms": 348148,
       "name": "The Rabbit That Hunts Tigers",
       "url": "https://open.spotify.com/track/13rx5XnSVYoN2IhPnERw24"
+    },
+    {
+      "added_at": "2022-08-03 03:52:21",
+      "album": {
+        "name": "Mushroom Samba",
+        "url": "https://open.spotify.com/album/2vZDpV5nFLejbX10a04HM2"
+      },
+      "artists": [
+        {
+          "name": "Saib",
+          "url": "https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk"
+        }
+      ],
+      "duration_ms": 250434,
+      "name": "Mushroom Samba",
+      "url": "https://open.spotify.com/track/06dKqow8ddfH8FREVTLJoy"
     },
     {
       "added_at": "2021-10-06 02:02:41",
@@ -1303,6 +1323,22 @@
     {
       "added_at": "2021-10-06 02:02:41",
       "album": {
+        "name": "Resonate",
+        "url": "https://open.spotify.com/album/32wdlbMm4TWfi75n9qW1rs"
+      },
+      "artists": [
+        {
+          "name": "Lettuce",
+          "url": "https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8"
+        }
+      ],
+      "duration_ms": 343841,
+      "name": "Silence is Golden",
+      "url": "https://open.spotify.com/track/72pAdCNhYcGaKndmsJBbyz"
+    },
+    {
+      "added_at": "2021-10-06 02:02:41",
+      "album": {
         "name": "Jungle Fire",
         "url": "https://open.spotify.com/album/2bproUHkH4ZckvOhxIYoT7"
       },
@@ -1335,38 +1371,6 @@
     {
       "added_at": "2021-10-06 02:02:41",
       "album": {
-        "name": "Resonate",
-        "url": "https://open.spotify.com/album/32wdlbMm4TWfi75n9qW1rs"
-      },
-      "artists": [
-        {
-          "name": "Lettuce",
-          "url": "https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8"
-        }
-      ],
-      "duration_ms": 343841,
-      "name": "Silence is Golden",
-      "url": "https://open.spotify.com/track/72pAdCNhYcGaKndmsJBbyz"
-    },
-    {
-      "added_at": "2021-10-06 02:02:41",
-      "album": {
-        "name": "Bijou voyou caillou",
-        "url": "https://open.spotify.com/album/7e6x6o4pHIMPUgHkav3A14"
-      },
-      "artists": [
-        {
-          "name": "Florian Pellissier Quintet",
-          "url": "https://open.spotify.com/artist/6fOPaURJ1ObsYrql4cZBcx"
-        }
-      ],
-      "duration_ms": 262453,
-      "name": "Coup de foudre \u00e0 Thessalonique",
-      "url": "https://open.spotify.com/track/6g7Mf0uuommKD2qyyOmzCd"
-    },
-    {
-      "added_at": "2021-10-06 02:02:41",
-      "album": {
         "name": "I Can't Get Along Without You",
         "url": "https://open.spotify.com/album/2O3dAHww2VONqi9uFhBjzZ"
       },
@@ -1395,6 +1399,22 @@
       "duration_ms": 311546,
       "name": "House of Cards",
       "url": "https://open.spotify.com/track/4lmzz09uUKtHnh740nyu37"
+    },
+    {
+      "added_at": "2021-10-06 02:02:41",
+      "album": {
+        "name": "Bijou voyou caillou",
+        "url": "https://open.spotify.com/album/7e6x6o4pHIMPUgHkav3A14"
+      },
+      "artists": [
+        {
+          "name": "Florian Pellissier Quintet",
+          "url": "https://open.spotify.com/artist/6fOPaURJ1ObsYrql4cZBcx"
+        }
+      ],
+      "duration_ms": 262453,
+      "name": "Coup de foudre \u00e0 Thessalonique",
+      "url": "https://open.spotify.com/track/6g7Mf0uuommKD2qyyOmzCd"
     },
     {
       "added_at": "2021-10-06 02:02:41",
@@ -1443,38 +1463,6 @@
       "duration_ms": 357500,
       "name": "Gobi",
       "url": "https://open.spotify.com/track/1DgTnSP026pNUjCDlhXfu5"
-    },
-    {
-      "added_at": "2022-08-03 03:52:21",
-      "album": {
-        "name": "Oghneya (Habibi Funk 019)",
-        "url": "https://open.spotify.com/album/6QBVtB2OYklJWLNBkgcaXe"
-      },
-      "artists": [
-        {
-          "name": "Ferkat Al Ard",
-          "url": "https://open.spotify.com/artist/1Rf1hYrWaOiHIL2u8VJxfW"
-        }
-      ],
-      "duration_ms": 256750,
-      "name": "Entazerni",
-      "url": "https://open.spotify.com/track/5AlZF5TmT4CRwqQSSQSTxl"
-    },
-    {
-      "added_at": "2021-10-06 02:02:41",
-      "album": {
-        "name": "Feelings",
-        "url": "https://open.spotify.com/album/0gmjvJvdWuD3AFk9sZ02Yi"
-      },
-      "artists": [
-        {
-          "name": "Brijean",
-          "url": "https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb"
-        }
-      ],
-      "duration_ms": 192656,
-      "name": "Wifi Beach",
-      "url": "https://open.spotify.com/track/06ukn4Va91MfzMcxc1N0cu"
     },
     {
       "added_at": "2021-10-06 02:02:41",
@@ -1529,6 +1517,54 @@
       "url": "https://open.spotify.com/track/15Cv0RFfDJQwAeZKcgQjrf"
     },
     {
+      "added_at": "2021-10-06 02:02:41",
+      "album": {
+        "name": "Feelings",
+        "url": "https://open.spotify.com/album/0gmjvJvdWuD3AFk9sZ02Yi"
+      },
+      "artists": [
+        {
+          "name": "Brijean",
+          "url": "https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb"
+        }
+      ],
+      "duration_ms": 192656,
+      "name": "Wifi Beach",
+      "url": "https://open.spotify.com/track/06ukn4Va91MfzMcxc1N0cu"
+    },
+    {
+      "added_at": "2021-10-06 02:02:41",
+      "album": {
+        "name": "Gun Metal Grey",
+        "url": "https://open.spotify.com/album/1ksIAr0EZzkqpKuVI9BgJQ"
+      },
+      "artists": [
+        {
+          "name": "The Budos Band",
+          "url": "https://open.spotify.com/artist/5q4eLKmqFVP0xII8087PHz"
+        }
+      ],
+      "duration_ms": 196746,
+      "name": "Gun Metal Grey",
+      "url": "https://open.spotify.com/track/2xBMnos2JHuKgRGr0cSgK5"
+    },
+    {
+      "added_at": "2022-08-03 03:52:21",
+      "album": {
+        "name": "Oghneya (Habibi Funk 019)",
+        "url": "https://open.spotify.com/album/6QBVtB2OYklJWLNBkgcaXe"
+      },
+      "artists": [
+        {
+          "name": "Ferkat Al Ard",
+          "url": "https://open.spotify.com/artist/1Rf1hYrWaOiHIL2u8VJxfW"
+        }
+      ],
+      "duration_ms": 256750,
+      "name": "Entazerni",
+      "url": "https://open.spotify.com/track/5AlZF5TmT4CRwqQSSQSTxl"
+    },
+    {
       "added_at": "2021-10-26 03:22:21",
       "album": {
         "name": "El Traketeo",
@@ -1547,22 +1583,6 @@
       "duration_ms": 202368,
       "name": "El Traketeo",
       "url": "https://open.spotify.com/track/68wZUaqJLlzSgDpvtOD5z1"
-    },
-    {
-      "added_at": "2021-10-06 02:02:41",
-      "album": {
-        "name": "Gun Metal Grey",
-        "url": "https://open.spotify.com/album/1ksIAr0EZzkqpKuVI9BgJQ"
-      },
-      "artists": [
-        {
-          "name": "The Budos Band",
-          "url": "https://open.spotify.com/artist/5q4eLKmqFVP0xII8087PHz"
-        }
-      ],
-      "duration_ms": 196746,
-      "name": "Gun Metal Grey",
-      "url": "https://open.spotify.com/track/2xBMnos2JHuKgRGr0cSgK5"
     },
     {
       "added_at": "2021-10-06 02:02:41",
@@ -1611,6 +1631,26 @@
       "duration_ms": 187906,
       "name": "Tinko Tinko (Don't Play Me for a Fool)",
       "url": "https://open.spotify.com/track/6f8pOnEswFwiU4FTcZicV6"
+    },
+    {
+      "added_at": "2022-04-17 19:23:27",
+      "album": {
+        "name": "No Me Quieres (feat. Fabi Reyna)",
+        "url": "https://open.spotify.com/album/0XwtNqA59iplkPTxi4Qoam"
+      },
+      "artists": [
+        {
+          "name": "Sumohair",
+          "url": "https://open.spotify.com/artist/5lDU6YOrMGStD7lnzHvDk5"
+        },
+        {
+          "name": "Fabi Reyna",
+          "url": "https://open.spotify.com/artist/58G2Hb81kZxBJ4MOvZBAID"
+        }
+      ],
+      "duration_ms": 203076,
+      "name": "No Me Quieres (feat. Fabi Reyna)",
+      "url": "https://open.spotify.com/track/2LCtUA1vEQKH1YoLGMX5Rv"
     },
     {
       "added_at": "2022-04-26 02:37:33",
@@ -1665,42 +1705,6 @@
       "url": "https://open.spotify.com/track/1R2g3aWdOv9BOUjqMgZTic"
     },
     {
-      "added_at": "2022-04-17 19:23:27",
-      "album": {
-        "name": "No Me Quieres (feat. Fabi Reyna)",
-        "url": "https://open.spotify.com/album/0XwtNqA59iplkPTxi4Qoam"
-      },
-      "artists": [
-        {
-          "name": "Sumohair",
-          "url": "https://open.spotify.com/artist/5lDU6YOrMGStD7lnzHvDk5"
-        },
-        {
-          "name": "Fabi Reyna",
-          "url": "https://open.spotify.com/artist/58G2Hb81kZxBJ4MOvZBAID"
-        }
-      ],
-      "duration_ms": 203076,
-      "name": "No Me Quieres (feat. Fabi Reyna)",
-      "url": "https://open.spotify.com/track/2LCtUA1vEQKH1YoLGMX5Rv"
-    },
-    {
-      "added_at": "2021-10-06 02:02:41",
-      "album": {
-        "name": "Tropic of Tulli",
-        "url": "https://open.spotify.com/album/7CAafJQeHEftsjYQmTkxS9"
-      },
-      "artists": [
-        {
-          "name": "Maajo",
-          "url": "https://open.spotify.com/artist/1CHnBSP2xS4bRyHRenc5aO"
-        }
-      ],
-      "duration_ms": 284070,
-      "name": "Musa Paradisa",
-      "url": "https://open.spotify.com/track/3NG1ycecXW6GpDkzgbFosE"
-    },
-    {
       "added_at": "2021-12-17 06:00:00",
       "album": {
         "name": "Look at My Soul: The Latin Shade of Texas Soul",
@@ -1727,22 +1731,18 @@
     {
       "added_at": "2021-10-06 02:02:41",
       "album": {
-        "name": "Pat Thomas & Kwashibu Area Band",
-        "url": "https://open.spotify.com/album/2HMkfg3XgwUka7EnAvGbPC"
+        "name": "Tropic of Tulli",
+        "url": "https://open.spotify.com/album/7CAafJQeHEftsjYQmTkxS9"
       },
       "artists": [
         {
-          "name": "Pat Thomas",
-          "url": "https://open.spotify.com/artist/6bDPzH0ZXkaMcXYlcQ2yoy"
-        },
-        {
-          "name": "Kwashibu Area Band",
-          "url": "https://open.spotify.com/artist/53PQcfQVWV5FU1Mh7Of1yP"
+          "name": "Maajo",
+          "url": "https://open.spotify.com/artist/1CHnBSP2xS4bRyHRenc5aO"
         }
       ],
-      "duration_ms": 252889,
-      "name": "Gyae Su",
-      "url": "https://open.spotify.com/track/3U9NVmsEdrTutU49F1ykvf"
+      "duration_ms": 284070,
+      "name": "Musa Paradisa",
+      "url": "https://open.spotify.com/track/3NG1ycecXW6GpDkzgbFosE"
     },
     {
       "added_at": "2021-10-06 02:02:41",

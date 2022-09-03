@@ -4,7 +4,7 @@
 
 > Strut to electronic tracks that grace the runways everywhere.
 
-157 songs - 12 hr 53 min - [published](https://open.spotify.com/playlist/5wAPYscM8lPvRRX5e0inx7)
+158 songs - 12 hr 56 min - [published](https://open.spotify.com/playlist/5wAPYscM8lPvRRX5e0inx7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [Lucky](https://open.spotify.com/track/5Msk5Zka4UHzKqajJg5y5a) | [Club Eat](https://open.spotify.com/artist/073L1kDK5ruwVLIRHGQgwc) | [Club Eat](https://open.spotify.com/album/3gP8Uueu9UuhRIFrwKEcWR) | 3:54 | 2022-05-06 |  |
 | [Lucky \- Edit](https://open.spotify.com/track/32NQyxOI8S3Cvvt3Dp6s8K) | [Cameo Blush](https://open.spotify.com/artist/2Lx2CAHHQ2IC1iXjS6Y70v) | [Lucky](https://open.spotify.com/album/1twdlt63HPInhVkVgZ1Dr2) | 3:11 | 2022-05-06 | 2022-07-29 |
 | [Lune est l'autre](https://open.spotify.com/track/355aCQI1oP2uebzzCrvabZ) | [Vendredi sur Mer](https://open.spotify.com/artist/0wuuYZFptujAsRthrdea2B) | [Premiers émois](https://open.spotify.com/album/3VCwYQFMhuSzcuQ1B33TNZ) | 3:53 | 2022-05-06 |  |
+| [MADELINE](https://open.spotify.com/track/04o27HjgqTVm8NwgEfOqRH) | [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki) | [MADELINE](https://open.spotify.com/album/5x9JJzj5K9J6IldkIMonXM) | 3:24 | 2022-09-02 |  |
 | [Mount Everest](https://open.spotify.com/track/18wCJcoFmXZ0jfrFhF6cYS) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Mount Everest](https://open.spotify.com/album/0nkyBztSulCRM2vlPR2GF1) | 2:37 | 2022-05-06 | 2022-07-18 |
 | [Mount Everest](https://open.spotify.com/track/1ZdhOMWyFR8Iv9eylMGYg2) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Imagination & the Misfit Kid](https://open.spotify.com/album/0FSsRH1jeZqKbGcHwq3UO0) | 2:37 | 2022-06-14 |  |
 | [Musique](https://open.spotify.com/track/2easgxsXK5j6lNp63yZF7S) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Musique, Vol\. 1](https://open.spotify.com/album/4a0p1M12f7VaZWdoNSdEK4) | 6:53 | 2022-05-06 |  |
@@ -157,7 +158,7 @@
 | [We All Move Together \- Kevin Saunderson x Latroit Remix](https://open.spotify.com/track/2REuKIENtXdluRdxVFYG17) | [Inner City](https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp), [Idris Elba](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS), [Kevin Saunderson](https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG), [Latroit](https://open.spotify.com/artist/4keJDDQx0ac2jhmknbSLFK) | [We All Move Together \(Kevin Saunderson x Latroit Remix\)](https://open.spotify.com/album/2jCX2SAk1TFen1uv51Deqc) | 3:20 | 2022-05-06 |  |
 | [We're Alive \- Virgil Abloh Remix](https://open.spotify.com/track/5r8HTctugtsyA9SrnDlvb5) | [Loco Dice](https://open.spotify.com/artist/4rbw4Z9Hjn6n9x5oYzZe7P), [Virgil Abloh](https://open.spotify.com/artist/6zKRU70JFcCQtP3vKV4ANm) | [Love Letters Remix Edition](https://open.spotify.com/album/0D9RB5hd10x4kfAp0y44Uu) | 6:29 | 2022-05-06 | 2022-07-28 |
 | [Where Love Lives \(Come On In\) \- Classic Mix](https://open.spotify.com/track/696jgH18JDcPgpIsmaZq4Z) | [Alison Limerick](https://open.spotify.com/artist/0ELXBCSsRl2m92MgnOsA69), [Frankie Knuckles](https://open.spotify.com/artist/63yl9nDNrHpiAYGlNJxxjc), [David Morales](https://open.spotify.com/artist/6CwQfN34JdGHfo0A752Lts) | [Dance Vault Mixes \- Where Love Lives](https://open.spotify.com/album/0bmvAevl0AD5xaLHHjjHHP) | 6:58 | 2022-05-06 | 2022-06-16 |
-| [White Lights](https://open.spotify.com/track/3beMeoozbBTrATGW5u4Emz) | [Jordan Gill](https://open.spotify.com/artist/4SMjBNhuUVL2dqIk67vsKx) | [Cataclysmic](https://open.spotify.com/album/4eXNPTKfQUhbT6JgENZeY4) | 8:11 | 2022-05-06 |  |
+| [White Lights](https://open.spotify.com/track/3beMeoozbBTrATGW5u4Emz) | [Jordan Gill](https://open.spotify.com/artist/4SMjBNhuUVL2dqIk67vsKx) | [Cataclysmic](https://open.spotify.com/album/4eXNPTKfQUhbT6JgENZeY4) | 8:11 | 2022-05-06 | 2022-09-03 |
 | [Wildfires](https://open.spotify.com/track/4Tzw9IdZbVyzmpWrvsGaNX) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [Untitled \(Black Is\)](https://open.spotify.com/album/0GPmuVuCdC5hCsiuy1wXle) | 3:26 | 2022-05-06 |  |
 | [Woodpecker](https://open.spotify.com/track/2ZLX6RCcJLp4uoIH2CwivA) | [Castelle](https://open.spotify.com/artist/4EDL1aHoT46jRLUjubeVNM) | [Woodpecker](https://open.spotify.com/album/0JygTmxFm484atUuryZF2F) | 3:26 | 2022-05-06 |  |
 | [Work It \- Soulwax Remix](https://open.spotify.com/track/6WfL1pwMyFf3IvFWLnre4P) | [Marie Davidson](https://open.spotify.com/artist/7xJVICbAWizNBKBD3mRWjF), [Soulwax](https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff) | [Work It \(Soulwax Remix\)](https://open.spotify.com/album/074U95kLP3roPuXrpjTYtT) | 4:46 | 2022-05-06 |  |

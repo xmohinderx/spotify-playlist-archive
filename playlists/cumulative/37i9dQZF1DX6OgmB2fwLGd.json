@@ -1732,6 +1732,28 @@
     },
     {
       "album": {
+        "name": "The Forever Story",
+        "url": "https://open.spotify.com/album/3QVjpIxcksDkJmOnvlOJjg"
+      },
+      "artists": [
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        },
+        {
+          "name": "Kenny Mason",
+          "url": "https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227555,
+      "name": "Dance Now (feat. Kenny Mason)",
+      "url": "https://open.spotify.com/track/6wj7wjtegmkziorQ2tt5Pz"
+    },
+    {
+      "album": {
         "name": "Daytona",
         "url": "https://open.spotify.com/album/0vk3ZQ5tBSo0kjj6BAniWa"
       },
@@ -3301,6 +3323,28 @@
       "duration_ms": 139870,
       "name": "I Chose Violence",
       "url": "https://open.spotify.com/track/7l5GAw0cglUUnN7bKAz5ab"
+    },
+    {
+      "album": {
+        "name": "I Deserve (w/ NOS.)",
+        "url": "https://open.spotify.com/album/1jCHZ0ggPkFnm5b1r5ZY8V"
+      },
+      "artists": [
+        {
+          "name": "Smino",
+          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
+        },
+        {
+          "name": "NOS.",
+          "url": "https://open.spotify.com/artist/7iRauMPdOJBF3RiDHKrXTB"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162858,
+      "name": "I Deserve (w/ NOS.)",
+      "url": "https://open.spotify.com/track/4SqPtAd2irUOyLoLcOFtkl"
     },
     {
       "album": {
@@ -6635,6 +6679,24 @@
       "duration_ms": 88653,
       "name": "Swiper Of The Year",
       "url": "https://open.spotify.com/track/4zQY1lPJv072WQI9gy5dt7"
+    },
+    {
+      "album": {
+        "name": "Talk",
+        "url": "https://open.spotify.com/album/7dMwNA2bcmk60N4s27fk5e"
+      },
+      "artists": [
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174857,
+      "name": "Talk",
+      "url": "https://open.spotify.com/track/0ypjMI7vHiDP4sLB1C0Qna"
     },
     {
       "album": {

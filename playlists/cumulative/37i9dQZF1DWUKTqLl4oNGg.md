@@ -4,7 +4,7 @@
 
 > Above the city of Los Angeles, here are a few of the influential songs that echoed from the hills of Laurel Canyon in the 60s & 70s.
 
-68 songs - 3 hr 56 min - [published](https://open.spotify.com/playlist/3Rtd8cSKHPhlLrvluCR6Gh)
+69 songs - 3 hr 59 min - [published](https://open.spotify.com/playlist/3Rtd8cSKHPhlLrvluCR6Gh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,8 @@
 | [In My Room \- Remastered](https://open.spotify.com/track/62fX8EW16l8St2yL8rMer9) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Surfer Girl \(Remastered\)](https://open.spotify.com/album/1AhsZr98dNCfhO1XC4Ht7C) | 2:14 | 2019-12-05 |  |
 | [Jamaica Say You Will](https://open.spotify.com/track/0RwqThYUfPkAi71H2j63As) | [Jackson Browne](https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m) | [Jackson Browne \(Saturate Before Using\)](https://open.spotify.com/album/0n93YRc9GP3ZgREgTHvP5u) | 3:23 | 2019-12-05 |  |
 | [Jesus in 3/4 Time](https://open.spotify.com/track/62zvmUQ6zmZKH6jEYvz7cE) | [JD Souther](https://open.spotify.com/artist/0I7UnRLIdCD310ZBgeuqh5) | [John David Souther](https://open.spotify.com/album/5pw5GDqCQjkfc6LctnfQKX) | 3:38 | 2019-12-05 |  |
-| [Kite Woman](https://open.spotify.com/track/4Z0aLq8K9YEvXssrfcVpd2) | [JD Souther](https://open.spotify.com/artist/0I7UnRLIdCD310ZBgeuqh5) | [Rhino Hi\-Five: J.D\. Souther](https://open.spotify.com/album/4Rq6anggo36B53PflhdgmV) | 3:06 | 2019-12-05 |  |
+| [Kite Woman](https://open.spotify.com/track/3OLcz4dQuohRRsJqLS2iXw) | [JD Souther](https://open.spotify.com/artist/0I7UnRLIdCD310ZBgeuqh5) | [John David Souther](https://open.spotify.com/album/5pw5GDqCQjkfc6LctnfQKX) | 3:06 | 2019-12-05 |  |
+| [Kite Woman](https://open.spotify.com/track/4Z0aLq8K9YEvXssrfcVpd2) | [JD Souther](https://open.spotify.com/artist/0I7UnRLIdCD310ZBgeuqh5) | [Rhino Hi\-Five: J.D\. Souther](https://open.spotify.com/album/4Rq6anggo36B53PflhdgmV) | 3:06 | 2019-12-05 | 2022-09-03 |
 | [Ladies of the Canyon](https://open.spotify.com/track/1Q8BMaKg8czMR2Y6wLlXJf) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Ladies of the Canyon](https://open.spotify.com/album/7JOdtLDLyXJIppDRB7kxr9) | 3:32 | 2019-12-05 |  |
 | [Love Street](https://open.spotify.com/track/5Q2Im8o4RthlAMkvUMYwGj) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Waiting for the Sun](https://open.spotify.com/album/0qZTwrunzX3LG45PvRghmh) | 2:49 | 2019-12-05 |  |
 | [Love the One You're With](https://open.spotify.com/track/3NNkJwiHucP5QyUEAIMXra) | [Stephen Stills](https://open.spotify.com/artist/4WlSvDKaq1PA2Nr7cCIPxX) | [Stephen Stills](https://open.spotify.com/album/2nkFniR6DseqFJLhxXV01T) | 3:04 | 2019-12-05 |  |

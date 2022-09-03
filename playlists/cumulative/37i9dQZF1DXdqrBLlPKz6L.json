@@ -878,6 +878,36 @@
     },
     {
       "album": {
+        "name": "La Movie",
+        "url": "https://open.spotify.com/album/3uSH8eA5bgrPCHLCBTRGss"
+      },
+      "artists": [
+        {
+          "name": "Dani Torres",
+          "url": "https://open.spotify.com/artist/3FCbl6b1JHLfVADjqG7iP5"
+        },
+        {
+          "name": "Neutro Shorty",
+          "url": "https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y"
+        },
+        {
+          "name": "Akapellah",
+          "url": "https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym"
+        },
+        {
+          "name": "Blunted Vato",
+          "url": "https://open.spotify.com/artist/15RLdM61VHtknTIYIuNviR"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264776,
+      "name": "La Movie",
+      "url": "https://open.spotify.com/track/5vXtCT27kRaDJASx4HNlGO"
+    },
+    {
+      "album": {
         "name": "La pas\u00e9 cabr\u00f3n",
         "url": "https://open.spotify.com/album/6ElfLUNrxLvu0kGEBkCjHh"
       },
@@ -1009,7 +1039,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 136332,
       "name": "Mil Curitas",
       "url": "https://open.spotify.com/track/4VNLSG0SHlSrFPvBiFA9ks"
@@ -1193,6 +1223,36 @@
       "duration_ms": 195574,
       "name": "Panamera",
       "url": "https://open.spotify.com/track/6ggVSxqawOpYsjsyOYKtGC"
+    },
+    {
+      "album": {
+        "name": "Party Trippy (feat. Totoy El Frio)",
+        "url": "https://open.spotify.com/album/75BqSoSbTrDofWH3MIKgXN"
+      },
+      "artists": [
+        {
+          "name": "DJ Maff",
+          "url": "https://open.spotify.com/artist/5CKb0P2vvpC9JD7wjB80gu"
+        },
+        {
+          "name": "Snow Tha Product",
+          "url": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
+        },
+        {
+          "name": "Akapellah",
+          "url": "https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym"
+        },
+        {
+          "name": "Totoy El Frio",
+          "url": "https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201935,
+      "name": "Party Trippy (feat. Totoy El Frio)",
+      "url": "https://open.spotify.com/track/1UP8LOk66LufjRtBBEZtGL"
     },
     {
       "album": {
@@ -1621,7 +1681,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 177374,
       "name": "T\u00f3xicos",
       "url": "https://open.spotify.com/track/3d3Fm6zl1r92THmUESENbW"

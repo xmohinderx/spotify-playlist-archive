@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-10",
-  "description": "La nueva ola de artistas y creadores mexas: presentamos a Kevin Kaarl. \ud83c\udf0a\u2728 ",
+  "description": "la nueva ola de artistas con Kevin Kaarl en portada. \ud83c\udf0a\u2728 ",
   "name": "la pop~wave",
   "published_playlist_ids": [
     "6I4k19QivQTwxJMIU1FW10"
@@ -577,7 +577,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 219822,
       "name": "Chihiro",
       "url": "https://open.spotify.com/track/0PDjU1tGuHogWax0Dpcq3m"
@@ -975,7 +975,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 178173,
       "name": "empleado del mes",
       "url": "https://open.spotify.com/track/1p4PINMyO9rjyt4AN0DWxo"
@@ -1665,7 +1665,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 221323,
       "name": "Milk",
       "url": "https://open.spotify.com/track/100SnCUiirUNKx24j5GPe2"
@@ -2077,6 +2077,24 @@
       "duration_ms": 157228,
       "name": "no me asusta (me gusta)",
       "url": "https://open.spotify.com/track/0QEj1wfXQ7UxQ9erHYZirm"
+    },
+    {
+      "album": {
+        "name": "Limerencia",
+        "url": "https://open.spotify.com/album/4d9KK2351FK3PAzlqfy8yj"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226636,
+      "name": "No Te Quiero Perder",
+      "url": "https://open.spotify.com/track/4AwlNIyid3oRyNqX61kTKt"
     },
     {
       "album": {
@@ -3711,6 +3729,42 @@
       "duration_ms": 189621,
       "name": "vienes y te vas :|",
       "url": "https://open.spotify.com/track/7JYmphizKecTyAicTJYgco"
+    },
+    {
+      "album": {
+        "name": "Voltearemos",
+        "url": "https://open.spotify.com/album/2SgQl7yy0oMnEJ22uaYIfQ"
+      },
+      "artists": [
+        {
+          "name": "Vera Pedro",
+          "url": "https://open.spotify.com/artist/2agXYMhipkDXIGmy5C158S"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192293,
+      "name": "Voltearemos",
+      "url": "https://open.spotify.com/track/6aICoU4YETT0xmhGkQNWVr"
+    },
+    {
+      "album": {
+        "name": "VIZIO",
+        "url": "https://open.spotify.com/album/0hUuaQgTtfn8UdUDSzXPAQ"
+      },
+      "artists": [
+        {
+          "name": "Mathilde Sobrino",
+          "url": "https://open.spotify.com/artist/0x69Qlg7mSMTjjkO323OH0"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214090,
+      "name": "Volver A Caer",
+      "url": "https://open.spotify.com/track/5AganyOOzJscDmQ1Wd6JBN"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Hip hop tracks to kick your workout up a notch",
-  "num_followers": 3816,
+  "num_followers": 3828,
   "original_name": "Pump it Up ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjA3MzIwMCwwMDAwMDAwMDMxNjk3YzRmMDA0YTM5ZjY1MDZiZmNmZjIyZDdlNzUw",
+  "snapshot_id": "MTY2MjA3MzIwMCwwMDAwMDAwMGE5OTQ0ZGE0ZWViYTE0MmM2NmYwM2FkMTM3NTIyMzhh",
   "tracks": [
     {
       "added_at": "2022-07-28 23:00:00",
@@ -85,22 +85,6 @@
       "url": "https://open.spotify.com/track/2cYqizR4lgvp4Qu6IQ3qGN"
     },
     {
-      "added_at": "2022-06-23 23:09:00",
-      "album": {
-        "name": "The Big 3",
-        "url": "https://open.spotify.com/album/48eC2urnoRGt6AeU7KsOoC"
-      },
-      "artists": [
-        {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
-        }
-      ],
-      "duration_ms": 183186,
-      "name": "Real Talk",
-      "url": "https://open.spotify.com/track/32ny2YtiR7zKi7PBjiQ5Iy"
-    },
-    {
       "added_at": "2022-08-25 23:00:00",
       "album": {
         "name": "GOD DID",
@@ -123,6 +107,22 @@
       "duration_ms": 173783,
       "name": "BIG TIME (feat. Future & Lil Baby)",
       "url": "https://open.spotify.com/track/6pr7X9UZCDn8CruopaNVha"
+    },
+    {
+      "added_at": "2022-06-23 23:09:00",
+      "album": {
+        "name": "The Big 3",
+        "url": "https://open.spotify.com/album/48eC2urnoRGt6AeU7KsOoC"
+      },
+      "artists": [
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "duration_ms": 183186,
+      "name": "Real Talk",
+      "url": "https://open.spotify.com/track/32ny2YtiR7zKi7PBjiQ5Iy"
     },
     {
       "added_at": "2022-04-14 23:00:00",
@@ -213,6 +213,26 @@
       "url": "https://open.spotify.com/track/0P2P1AxcRYhiZvoF5MyRmM"
     },
     {
+      "added_at": "2021-07-09 00:00:00",
+      "album": {
+        "name": "Clash (feat. Stormzy)",
+        "url": "https://open.spotify.com/album/58GjA2xPMQ8PjNKyddHIqP"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        },
+        {
+          "name": "Stormzy",
+          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+        }
+      ],
+      "duration_ms": 251733,
+      "name": "Clash (feat. Stormzy)",
+      "url": "https://open.spotify.com/track/2oUwMN5VfdGX10XeQJLBBi"
+    },
+    {
       "added_at": "2022-08-25 23:00:00",
       "album": {
         "name": "GOD DID",
@@ -235,26 +255,6 @@
       "duration_ms": 170197,
       "name": "IT AIN'T SAFE (feat. Nardo Wick & Kodak Black)",
       "url": "https://open.spotify.com/track/2d4XHh61JufZpNdm88TXXx"
-    },
-    {
-      "added_at": "2021-07-09 00:00:00",
-      "album": {
-        "name": "Clash (feat. Stormzy)",
-        "url": "https://open.spotify.com/album/58GjA2xPMQ8PjNKyddHIqP"
-      },
-      "artists": [
-        {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        },
-        {
-          "name": "Stormzy",
-          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
-        }
-      ],
-      "duration_ms": 251733,
-      "name": "Clash (feat. Stormzy)",
-      "url": "https://open.spotify.com/track/2oUwMN5VfdGX10XeQJLBBi"
     },
     {
       "added_at": "2022-07-07 23:00:00",
@@ -361,6 +361,26 @@
       "url": "https://open.spotify.com/track/6UX9WrpJFv5LZW4hTH6svZ"
     },
     {
+      "added_at": "2021-08-13 00:00:00",
+      "album": {
+        "name": "We're All Alone In This Together",
+        "url": "https://open.spotify.com/album/6HwzIlrCDq3WF9vMq8meqG"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        },
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+        }
+      ],
+      "duration_ms": 204373,
+      "name": "Lazarus (feat. Boj)",
+      "url": "https://open.spotify.com/track/4wvnXoQqjIOoEis5eyTbCl"
+    },
+    {
       "added_at": "2022-02-11 00:00:00",
       "album": {
         "name": "Worst Day",
@@ -375,30 +395,6 @@
       "duration_ms": 184893,
       "name": "Worst Day",
       "url": "https://open.spotify.com/track/70pwY1UfPmSVE3ybPjFy0p"
-    },
-    {
-      "added_at": "2022-08-05 07:55:34",
-      "album": {
-        "name": "STAYING ALIVE (feat. Drake & Lil Baby)",
-        "url": "https://open.spotify.com/album/2i9q4Ax4pXU62uNOJHy2qo"
-      },
-      "artists": [
-        {
-          "name": "DJ Khaled",
-          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 178176,
-      "name": "STAYING ALIVE (feat. Drake & Lil Baby)",
-      "url": "https://open.spotify.com/track/36YpCIK6NmhC9i6bvcwcdm"
     },
     {
       "added_at": "2021-10-01 05:37:36",
@@ -441,24 +437,28 @@
       "url": "https://open.spotify.com/track/4Go2u6SexdY2Qxo0oHMIzE"
     },
     {
-      "added_at": "2021-08-13 00:00:00",
+      "added_at": "2022-08-05 07:55:34",
       "album": {
-        "name": "We're All Alone In This Together",
-        "url": "https://open.spotify.com/album/6HwzIlrCDq3WF9vMq8meqG"
+        "name": "STAYING ALIVE (feat. Drake & Lil Baby)",
+        "url": "https://open.spotify.com/album/2i9q4Ax4pXU62uNOJHy2qo"
       },
       "artists": [
         {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
         },
         {
-          "name": "Boj",
-          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
         }
       ],
-      "duration_ms": 204373,
-      "name": "Lazarus (feat. Boj)",
-      "url": "https://open.spotify.com/track/4wvnXoQqjIOoEis5eyTbCl"
+      "duration_ms": 178176,
+      "name": "STAYING ALIVE (feat. Drake & Lil Baby)",
+      "url": "https://open.spotify.com/track/36YpCIK6NmhC9i6bvcwcdm"
     },
     {
       "added_at": "2021-12-09 23:01:00",
@@ -501,26 +501,6 @@
       "url": "https://open.spotify.com/track/2koM4vqlpUzeRbNkjsDBwF"
     },
     {
-      "added_at": "2022-06-30 23:00:00",
-      "album": {
-        "name": "Bigger Than Life",
-        "url": "https://open.spotify.com/album/6Nf93VWSRWwBArgnPXhn8G"
-      },
-      "artists": [
-        {
-          "name": "Headie One",
-          "url": "https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh"
-        },
-        {
-          "name": "Frenna",
-          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
-        }
-      ],
-      "duration_ms": 160106,
-      "name": "Bigger Than Life",
-      "url": "https://open.spotify.com/track/5PqO45k0bwz7idhZYdbHSY"
-    },
-    {
       "added_at": "2021-10-01 05:37:36",
       "album": {
         "name": "Poke It Out (feat. J. Cole)",
@@ -543,6 +523,26 @@
       "duration_ms": 183333,
       "name": "Poke It Out (feat. J. Cole)",
       "url": "https://open.spotify.com/track/1IeCWMwZs4rCmwPOjZYWN7"
+    },
+    {
+      "added_at": "2022-06-30 23:00:00",
+      "album": {
+        "name": "Bigger Than Life",
+        "url": "https://open.spotify.com/album/6Nf93VWSRWwBArgnPXhn8G"
+      },
+      "artists": [
+        {
+          "name": "Headie One",
+          "url": "https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh"
+        },
+        {
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+        }
+      ],
+      "duration_ms": 160106,
+      "name": "Bigger Than Life",
+      "url": "https://open.spotify.com/track/5PqO45k0bwz7idhZYdbHSY"
     },
     {
       "added_at": "2022-02-11 00:00:00",
@@ -617,22 +617,6 @@
       "url": "https://open.spotify.com/track/488HG8lR11JswT2YgcWGRB"
     },
     {
-      "added_at": "2022-03-17 23:00:00",
-      "album": {
-        "name": "Pier Pressure",
-        "url": "https://open.spotify.com/album/2acy6L0ZXAGSHoW6TIVtyW"
-      },
-      "artists": [
-        {
-          "name": "ArrDee",
-          "url": "https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk"
-        }
-      ],
-      "duration_ms": 166767,
-      "name": "Early Hours",
-      "url": "https://open.spotify.com/track/3NWzA0reKxIRyXPZtBHTDB"
-    },
-    {
       "added_at": "2021-06-07 14:17:55",
       "album": {
         "name": "King of Parole",
@@ -647,6 +631,22 @@
       "duration_ms": 196529,
       "name": "King of Parole",
       "url": "https://open.spotify.com/track/1neQ0MJbFV4O1eYwa7Hj2x"
+    },
+    {
+      "added_at": "2022-03-17 23:00:00",
+      "album": {
+        "name": "Pier Pressure",
+        "url": "https://open.spotify.com/album/2acy6L0ZXAGSHoW6TIVtyW"
+      },
+      "artists": [
+        {
+          "name": "ArrDee",
+          "url": "https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk"
+        }
+      ],
+      "duration_ms": 166767,
+      "name": "Early Hours",
+      "url": "https://open.spotify.com/track/3NWzA0reKxIRyXPZtBHTDB"
     },
     {
       "added_at": "2022-04-07 23:00:00",
@@ -945,46 +945,6 @@
       "url": "https://open.spotify.com/track/1Crv7EI1sdcy07OlvvoA2Y"
     },
     {
-      "added_at": "2022-04-07 23:00:00",
-      "album": {
-        "name": "Go German",
-        "url": "https://open.spotify.com/album/566SSg2JNZLMGCVu8euxNN"
-      },
-      "artists": [
-        {
-          "name": "King Perryy",
-          "url": "https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW"
-        },
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        },
-        {
-          "name": "BackRoad Gee",
-          "url": "https://open.spotify.com/artist/51op6E2hjkeutwFhgw32mL"
-        }
-      ],
-      "duration_ms": 178285,
-      "name": "Go German",
-      "url": "https://open.spotify.com/track/1YpGByjEamqwgni31e3Ylu"
-    },
-    {
-      "added_at": "2022-04-21 23:00:00",
-      "album": {
-        "name": "SKI",
-        "url": "https://open.spotify.com/album/24rTvY9feCnZe0SLsLdzbF"
-      },
-      "artists": [
-        {
-          "name": "Khaid",
-          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
-        }
-      ],
-      "duration_ms": 154285,
-      "name": "SKI",
-      "url": "https://open.spotify.com/track/1vE1nV0Q3t9gcw6ZlZ0yJT"
-    },
-    {
       "added_at": "2021-12-02 23:01:00",
       "album": {
         "name": "Connecting the Dots",
@@ -1015,6 +975,46 @@
       "duration_ms": 195482,
       "name": "Holy F4k",
       "url": "https://open.spotify.com/track/7eWoPZVIC0RzgFghNDrLbQ"
+    },
+    {
+      "added_at": "2022-04-21 23:00:00",
+      "album": {
+        "name": "SKI",
+        "url": "https://open.spotify.com/album/24rTvY9feCnZe0SLsLdzbF"
+      },
+      "artists": [
+        {
+          "name": "Khaid",
+          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
+        }
+      ],
+      "duration_ms": 154285,
+      "name": "SKI",
+      "url": "https://open.spotify.com/track/1vE1nV0Q3t9gcw6ZlZ0yJT"
+    },
+    {
+      "added_at": "2022-04-07 23:00:00",
+      "album": {
+        "name": "Go German",
+        "url": "https://open.spotify.com/album/566SSg2JNZLMGCVu8euxNN"
+      },
+      "artists": [
+        {
+          "name": "King Perryy",
+          "url": "https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW"
+        },
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        },
+        {
+          "name": "BackRoad Gee",
+          "url": "https://open.spotify.com/artist/51op6E2hjkeutwFhgw32mL"
+        }
+      ],
+      "duration_ms": 178285,
+      "name": "Go German",
+      "url": "https://open.spotify.com/track/1YpGByjEamqwgni31e3Ylu"
     }
   ],
   "unique_name": "Pump it Up ",

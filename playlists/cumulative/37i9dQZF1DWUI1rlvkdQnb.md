@@ -4,7 +4,7 @@
 
 > Soft, relaxing music for workout recovery.
 
-135 songs - 7 hr 13 min - [published](https://open.spotify.com/playlist/1NtCBQAYwIxeG4sSBLGcvt)
+136 songs - 7 hr 16 min - [published](https://open.spotify.com/playlist/1NtCBQAYwIxeG4sSBLGcvt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,12 +106,13 @@
 | [Rejected](https://open.spotify.com/track/0rswAuO5hDPINyHXA3XCrP) | [Geonose](https://open.spotify.com/artist/4HMimTAIfAny7O6iToeY3J) | [Personal Disasters](https://open.spotify.com/album/0HPHeEu6npThQPFPKtx3di) | 2:13 | 2021-12-10 |  |
 | [Relaxar](https://open.spotify.com/track/517MFgG7lzEZn286TL5F74) | [Miranda Moniz](https://open.spotify.com/artist/5kpJ18Oz0PCOMeSQH8ELOT) | [Relaxamento](https://open.spotify.com/album/4EtRcn4zeWMP65uM0j5u1s) | 3:57 | 2021-12-10 | 2022-08-13 |
 | [Repetetive Chattering Mind](https://open.spotify.com/track/6l8Xxuu9DMIEzZqfvedNZA) | [Eleanor Arroway](https://open.spotify.com/artist/3x2VCXXsd5bySXXdbhLZPJ) | [Findings Inside](https://open.spotify.com/album/4kyzuLwgaOBwVrpMI9hBXH) | 3:13 | 2021-12-10 |  |
+| [Resolutions](https://open.spotify.com/track/4ovVCv4X9VZfT79f79c0XN) | [Bevan Holcomb](https://open.spotify.com/artist/4c2v7qErEBJfzjDs2UXStG) | [Resolutions](https://open.spotify.com/album/4aHmDEtV3YWFakmdD2LMow) | 3:08 | 2022-09-02 |  |
 | [Sajama](https://open.spotify.com/track/16lkqroAzQvli59vxKjvpF) | [Connie Li](https://open.spotify.com/artist/2pQHm9K7nA97zJGOYhfXau) | [Sajama](https://open.spotify.com/album/6MSBAT2vZRcoi3Ez6TMzV6) | 3:06 | 2021-12-10 |  |
 | [Salaio](https://open.spotify.com/track/3JtiHgyAOj8mvHUi5zR3Sq) | [De Seu](https://open.spotify.com/artist/1cnFAHOmH9W9QqZYhNSoMs) | [Salaio](https://open.spotify.com/album/1wp9I2G3CzvuTB8LpBQ52k) | 2:36 | 2021-12-10 |  |
 | [Salamanca](https://open.spotify.com/track/04NXOnaOXZdHPYkldpqcCg) | [Salvador Vega](https://open.spotify.com/artist/2r485eL2sjIfMsTNsvpHNs) | [La Mancha 34](https://open.spotify.com/album/0T7TfOC2jHTwFFT0Spdkz9) | 3:30 | 2022-06-29 |  |
 | [Salamanca](https://open.spotify.com/track/0wcO44QmAQWAXaCRbyWJzG) | [Salvador Vega](https://open.spotify.com/artist/2r485eL2sjIfMsTNsvpHNs) | [La Mancha 34](https://open.spotify.com/album/3SMBwU08IA8vUO3QgC8MK3) | 3:30 | 2021-12-10 | 2022-07-29 |
 | [Seasons](https://open.spotify.com/track/2k4okcxh49oktYeFDo1hXZ) | [Mesiki](https://open.spotify.com/artist/583apEAhOJAxhyzuljX9dL) | [Seasons](https://open.spotify.com/album/6f0GjbMUJGpZvMEJEdJuuf) | 2:30 | 2022-06-16 |  |
-| [Secret Haven](https://open.spotify.com/track/0sk2c1F1WqhnBDFlxefiQM) | [August D\. Valentine](https://open.spotify.com/artist/4MJYe0nbmZr7ty64T1VGoN) | [Secret Haven](https://open.spotify.com/album/6VjqiyIPItbntWdMsTH3DB) | 4:30 | 2021-12-10 |  |
+| [Secret Haven](https://open.spotify.com/track/0sk2c1F1WqhnBDFlxefiQM) | [August D\. Valentine](https://open.spotify.com/artist/4MJYe0nbmZr7ty64T1VGoN) | [Secret Haven](https://open.spotify.com/album/6VjqiyIPItbntWdMsTH3DB) | 4:30 | 2021-12-10 | 2022-09-03 |
 | [Secret Message](https://open.spotify.com/track/6hF7fW0UptdNRovONZT3JJ) | [Clouds of Calm](https://open.spotify.com/artist/4aFC3M76kBNOVNH1YIvtaD) | [Secret Message](https://open.spotify.com/album/6sVGOHFLrN1sbHnMkkWK3d) | 2:59 | 2021-12-10 |  |
 | [Send a Wish](https://open.spotify.com/track/4wbEVRqsPLbvuFMvJ35quo) | [Purple Yard](https://open.spotify.com/artist/2MzcjX0qbx7Q41aerLazxm) | [Send a Wish](https://open.spotify.com/album/3hAWKSZ4pAfc6b9da47UrS) | 2:46 | 2021-12-10 | 2022-08-13 |
 | [Sense of Peace](https://open.spotify.com/track/2gjP5Kqd1L7WN0jWmbrL5e) | [Keanna Elsdon](https://open.spotify.com/artist/7aCTQb9ffSuNsbwJJbpxz3) | [Sense of Peace](https://open.spotify.com/album/1HcOJv7VSB3YeDJG0vTeqO) | 2:24 | 2021-12-10 |  |

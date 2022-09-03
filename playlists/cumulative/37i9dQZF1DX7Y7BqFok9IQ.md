@@ -4,7 +4,7 @@
 
 > The best of modern blues rock\. Cover: Anthony Gomes
 
-119 songs - 7 hr 21 min - [published](https://open.spotify.com/playlist/2ytdQyvJSh0gNxZ2IJT8lV)
+120 songs - 7 hr 24 min - [published](https://open.spotify.com/playlist/2ytdQyvJSh0gNxZ2IJT8lV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Forgiveness Through Pain](https://open.spotify.com/track/3li81Hq4UMXw8iDQboaL2y) | [The Yawpers](https://open.spotify.com/artist/6MYRV74tUjBf9X4PwTRykW) | [Human Question](https://open.spotify.com/album/6RbAMKxuW5Z8thwxl5NRgW) | 3:00 | 2020-10-16 | 2022-08-27 |
 | [Freedom](https://open.spotify.com/track/7c0TwwS3FUInC9pqw7RgVo) | [Dorothy](https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up) | [28 Days In The Valley](https://open.spotify.com/album/3Wl7Bde5TcxZX3ZJweBE9d) | 4:36 | 2020-10-16 | 2022-08-31 |
 | [Get Out](https://open.spotify.com/track/6WLtfOdxB7FdmY7GePc6us) | [Dirty Streets](https://open.spotify.com/artist/34iizXl7oXappF8Fpl27ST) | [Get Out](https://open.spotify.com/album/0cdFr8n7xLEV616xKYN2kT) | 2:41 | 2022-06-10 | 2022-07-23 |
+| [Ghostrider](https://open.spotify.com/track/70cwVFHonl7K3PEtaohgAz) | [Tyler Bryant & the Shakedown](https://open.spotify.com/artist/3Ig1cmnFAUxpTEYVjTRkLo) | [Ghostrider](https://open.spotify.com/album/7fV9Bc20rWlAdAILFGK5jL) | 3:15 | 2022-09-02 |  |
 | [Go Away Satan](https://open.spotify.com/track/1mdLQR5E86HLziKr6gHV96) | [J.D\. Simo](https://open.spotify.com/artist/443OoeHtWnNdDNKN4xgkeg) | [Mind Control](https://open.spotify.com/album/61RXKxgnQEomHQlbgVXYdt) | 6:15 | 2021-11-05 | 2022-07-28 |
 | [God Damn Wolf Man](https://open.spotify.com/track/50UtDNOwKeVHlBnO5xF0eU) | [The Heavy Eyes](https://open.spotify.com/artist/0zpMEtJmjRr1MKFveLQqeZ) | [Love Like Machines](https://open.spotify.com/album/7Jb8xZhM5Fswg5i7Te6yez) | 2:49 | 2020-10-16 | 2022-06-19 |
 | [Got Love \- Made In Muscle Shoals](https://open.spotify.com/track/4TN7nQty1SvMEwNxOaug0b) | [The Revivalists](https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA) | [Made In Muscle Shoals Vol\. 2](https://open.spotify.com/album/1lBoq5SRprSiyxDcQNpob5) | 4:22 | 2022-06-24 |  |
@@ -84,7 +85,7 @@
 | [Pick Your Poison](https://open.spotify.com/track/2oXl8o2g4iPAEZL1YbmYVH) | [Black Pistol Fire](https://open.spotify.com/artist/0Nrwy16xCPXG8AwkMbcVvo) | [Pick Your Poison](https://open.spotify.com/album/7DVKYtrPILCQxbUgP7EJ0a) | 3:45 | 2020-10-16 | 2022-07-27 |
 | [Prosecution Blues](https://open.spotify.com/track/6DdX7BH2VJzfcjIAlyyPzk) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Prosecution Blues](https://open.spotify.com/album/3GvnjHR6Vm28smZDaxS0Ww) | 3:53 | 2021-07-16 | 2022-07-29 |
 | [Ride](https://open.spotify.com/track/0FwmAMxNdTC515HY3lexJR) | [Tyler Bryant & the Shakedown](https://open.spotify.com/artist/3Ig1cmnFAUxpTEYVjTRkLo) | [Truth And Lies](https://open.spotify.com/album/7KAu22Uam2on7ZzDp41w72) | 3:26 | 2020-10-16 |  |
-| [Roll Bones](https://open.spotify.com/track/4YAcRalM7dHtbbSRHwF92p) | [The Record Company](https://open.spotify.com/artist/6vYg01ZFt1nREsUDMDPUYX) | [All Of This Life](https://open.spotify.com/album/0Xe0NMbJ7t8dTv0wiTH3wi) | 3:41 | 2020-10-16 |  |
+| [Roll Bones](https://open.spotify.com/track/4YAcRalM7dHtbbSRHwF92p) | [The Record Company](https://open.spotify.com/artist/6vYg01ZFt1nREsUDMDPUYX) | [All Of This Life](https://open.spotify.com/album/0Xe0NMbJ7t8dTv0wiTH3wi) | 3:41 | 2020-10-16 | 2022-09-03 |
 | [Rollin 'N Tumblin](https://open.spotify.com/track/02V2PwXfovnT03QPHpp1SF) | [North Mississippi Allstars](https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY) | [World Boogie Is Coming](https://open.spotify.com/album/46nKDUcNFmBL8ASwFH3P94) | 2:35 | 2020-10-16 |  |
 | [Rubberband](https://open.spotify.com/track/597NMs0QRqHKrkj5e8pvHH) | [Jesse Redwing](https://open.spotify.com/artist/7E2iToLix5cqUAgbR7zswK) | [Rubberband](https://open.spotify.com/album/1jdW9CDZQtIRFb4ReH2XcB) | 3:38 | 2020-10-16 | 2022-07-25 |
 | [Sailing Down](https://open.spotify.com/track/1ApqnL4anYkSjhh8RoLkPw) | [The Wanton Bishops](https://open.spotify.com/artist/7gN2pFFXjxG72z9rb0PCqe) | [Nowhere Everywhere](https://open.spotify.com/album/0sjqLg2v3wdaHC3kt18Mko) | 2:48 | 2020-10-16 |  |

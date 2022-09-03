@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/1rq5TZtl1Z46v2gRAMtmmW.md) - [plain]
 
 > 
 
-[Ninja Tune](https://open.spotify.com/user/ninja-tune) - 26,783 likes - 40 songs - 2 hr 59 min
+[Ninja Tune](https://open.spotify.com/user/ninja-tune) - 26,751 likes - 40 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Dancing In The Shadows](https://open.spotify.com/track/2edB8M0PPZCoYKm8ohDaNm) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Dancing In The Shadows](https://open.spotify.com/album/2rJpFV7L5MsabqxrEeHVd6) | 4:36 |
+| 1 | [Dancing In The Shadows](https://open.spotify.com/track/2edB8M0PPZCoYKm8ohDaNm) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Dancing In The Shadows](https://open.spotify.com/album/2rJpFV7L5MsabqxrEeHVd6) | 4:37 |
 | 2 | [Body Mind Hell](https://open.spotify.com/track/30JmGKxf1oItI6lOLNNSeq) | [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN) | [Body Mind Hell](https://open.spotify.com/album/18IjZBVEOQrzENrx7012bd) | 2:44 |
 | 3 | [Hey Baby \- Edit](https://open.spotify.com/track/7MndqEJo8v79ZzT0dfkVdE) | [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [Hey Baby](https://open.spotify.com/album/5SFR0BM59foRYgSloVXkWI) | 3:20 |
 | 4 | [AZD SURF](https://open.spotify.com/track/15RXHgm7esKYvPcHGTelUI) | [Actress](https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH), [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl), [Kai Campos](https://open.spotify.com/artist/0ud7Vcl9BBEoOVwoWDqXIH) | [AZD SURF](https://open.spotify.com/album/4vorYlWcWYeKPGIf1OIFUR) | 4:11 |

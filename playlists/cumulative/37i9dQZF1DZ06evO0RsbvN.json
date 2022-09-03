@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-01",
+      "date_removed": null,
       "duration_ms": 179040,
       "name": "Army Camp Harmony Blues",
       "url": "https://open.spotify.com/track/6RsdMKNawozhGqlP2i1IZu"
@@ -109,7 +109,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 152947,
       "name": "Black Cat Hoot Owl Blues",
       "url": "https://open.spotify.com/track/3UGcwgbDYLuVGUTHXhkWuQ"
@@ -145,7 +145,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 198933,
       "name": "Black Eye Blues",
       "url": "https://open.spotify.com/track/0pyIUitbPJ0Yau1DSlMZYc"
@@ -199,7 +199,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 191608,
       "name": "Booze And Blues",
       "url": "https://open.spotify.com/track/1SF9hCpHJ6gZ6FVz1heNA1"
@@ -235,7 +235,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 184800,
       "name": "Chain Gang Blues",
       "url": "https://open.spotify.com/track/14SjdOx2HaetXQbkzevjgm"
@@ -289,7 +289,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 163053,
       "name": "Deep Moanin Blues",
       "url": "https://open.spotify.com/track/7HFlwmFEzq3vXL6oJGd3xe"
@@ -361,7 +361,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-02",
+      "date_removed": null,
       "duration_ms": 165744,
       "name": "Dream Blues",
       "url": "https://open.spotify.com/track/7aj4OzROMRSbop2hvsfiqS"
@@ -379,7 +379,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-02",
+      "date_removed": null,
       "duration_ms": 207080,
       "name": "Explaining the Blues",
       "url": "https://open.spotify.com/track/7il4L95CZqh0bzb2a9630n"
@@ -469,7 +469,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-02",
+      "date_removed": null,
       "duration_ms": 179506,
       "name": "Hear Me Talking To You",
       "url": "https://open.spotify.com/track/30udwhIIyw4p8aFeOKNTsY"
@@ -541,7 +541,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 190200,
       "name": "Jealous Hearted Blues",
       "url": "https://open.spotify.com/track/29rFcZbCR4mKJ9dOlVgKTz"
@@ -595,7 +595,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 178426,
       "name": "Last Minute Blues",
       "url": "https://open.spotify.com/track/62g0YxDu47NwTjxLo9JUrC"
@@ -649,7 +649,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 189080,
       "name": "Leaving This Morning",
       "url": "https://open.spotify.com/track/6R73IyuMx4cbGXRkEXgHQZ"
@@ -671,6 +671,24 @@
       "duration_ms": 168826,
       "name": "Levee Camp Moan",
       "url": "https://open.spotify.com/track/1UTphFJdgJ6xrKCUcRulDC"
+    },
+    {
+      "album": {
+        "name": "Presenting Ma Rainey",
+        "url": "https://open.spotify.com/album/6gT3PeOxGiMBGcfMC55h8y"
+      },
+      "artists": [
+        {
+          "name": "Ma Rainey",
+          "url": "https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184093,
+      "name": "Little Low Mama Blues",
+      "url": "https://open.spotify.com/track/3Ksjkbl552uKeZiVRMAjIm"
     },
     {
       "album": {
@@ -827,6 +845,24 @@
           "url": "https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH"
         }
       ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157733,
+      "name": "Mountain Jack Blues",
+      "url": "https://open.spotify.com/track/2TczffyjhN9ZKy1nZMvO6t"
+    },
+    {
+      "album": {
+        "name": "Ma Rainey",
+        "url": "https://open.spotify.com/album/62spmsoOdWsaM8Q9itsM1j"
+      },
+      "artists": [
+        {
+          "name": "Ma Rainey",
+          "url": "https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH"
+        }
+      ],
       "date_added": "2022-08-07",
       "date_added_asterisk": false,
       "date_removed": "2022-08-18",
@@ -937,7 +973,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-01",
+      "date_removed": null,
       "duration_ms": 195493,
       "name": "See See Rider Blues",
       "url": "https://open.spotify.com/track/0zUUGSlU5QbKwsS49EqGge"
@@ -973,7 +1009,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 157960,
       "name": "Shaveem Dry Blues",
       "url": "https://open.spotify.com/track/7nkHURLVxHGIf65QNJKwTP"
@@ -1099,7 +1135,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 177400,
       "name": "Stack O' Lee Blues",
       "url": "https://open.spotify.com/track/0BjMBdn02dt8BysajdzhJ9"
@@ -1135,7 +1171,7 @@
       ],
       "date_added": "2022-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-01",
+      "date_removed": null,
       "duration_ms": 163030,
       "name": "Stormy Sea Blues",
       "url": "https://open.spotify.com/track/5ruTFfl1a6p0ox63nlRpQW"
@@ -1171,7 +1207,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-02",
+      "date_removed": null,
       "duration_ms": 187853,
       "name": "Those All Night Blues",
       "url": "https://open.spotify.com/track/3NWcy10odYa4dR9k1bZt8D"
@@ -1261,7 +1297,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-02",
+      "date_removed": null,
       "duration_ms": 182465,
       "name": "Yonder Come The Blues",
       "url": "https://open.spotify.com/track/3yh8U9XVznJKRVGqqabHEf"

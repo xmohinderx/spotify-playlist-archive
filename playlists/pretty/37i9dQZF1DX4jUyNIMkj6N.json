@@ -1,12 +1,12 @@
 {
   "description": "The very best in Scandifolk - from Icelandic blues rock to Norwegicana.",
-  "num_followers": 160697,
+  "num_followers": 160744,
   "original_name": "Nordic Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjA2OTYwMCwwMDAwMDAwMDczNjM4N2Y5ZWQ4MDM2YzlhY2JkZGM1OGJkMGYxYzU4",
+  "snapshot_id": "MTY2MjA2OTYwMCwwMDAwMDAwMDE2MDM0ZTI4MzVkZDk3MmY5NGEwYjQ0MDJhMzZjZGVm",
   "tracks": [
     {
       "added_at": "2022-09-01 22:00:00",
@@ -355,22 +355,6 @@
     {
       "added_at": "2022-09-01 22:00:00",
       "album": {
-        "name": "Tell Me About It",
-        "url": "https://open.spotify.com/album/10yraezHmuWHzLrJK5qEls"
-      },
-      "artists": [
-        {
-          "name": "thea wang",
-          "url": "https://open.spotify.com/artist/1Rlj58KRo8BwuksKHsoZCo"
-        }
-      ],
-      "duration_ms": 200906,
-      "name": "Tell Me About It",
-      "url": "https://open.spotify.com/track/4NVTUHYCmMGtnnULELfZjy"
-    },
-    {
-      "added_at": "2022-09-01 22:00:00",
-      "album": {
         "name": "Morten Myklebust",
         "url": "https://open.spotify.com/album/1VWqsF4WiqAjzw50HBMHLg"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 178746,
       "name": "Away",
       "url": "https://open.spotify.com/track/4d6EvoLIZvyUzX8XHQu0XQ"
+    },
+    {
+      "added_at": "2022-09-01 22:00:00",
+      "album": {
+        "name": "Tell Me About It",
+        "url": "https://open.spotify.com/album/10yraezHmuWHzLrJK5qEls"
+      },
+      "artists": [
+        {
+          "name": "thea wang",
+          "url": "https://open.spotify.com/artist/1Rlj58KRo8BwuksKHsoZCo"
+        }
+      ],
+      "duration_ms": 200906,
+      "name": "Tell Me About It",
+      "url": "https://open.spotify.com/track/4NVTUHYCmMGtnnULELfZjy"
     },
     {
       "added_at": "2022-09-01 22:00:00",
@@ -551,22 +551,6 @@
     {
       "added_at": "2022-09-01 22:00:00",
       "album": {
-        "name": "Grey",
-        "url": "https://open.spotify.com/album/2hhuqUYYuwCGiGVPDFt53J"
-      },
-      "artists": [
-        {
-          "name": "Silver Lining",
-          "url": "https://open.spotify.com/artist/2fpiIE5NAH8HpcYthaxm97"
-        }
-      ],
-      "duration_ms": 232960,
-      "name": "Grey",
-      "url": "https://open.spotify.com/track/6VVMhLXX7329EmXVwrm40I"
-    },
-    {
-      "added_at": "2022-09-01 22:00:00",
-      "album": {
         "name": "Flowers",
         "url": "https://open.spotify.com/album/4LzplREyxz4OBGBYjkLCaW"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 220080,
       "name": "Look At The Light",
       "url": "https://open.spotify.com/track/56aazenLnCcpAzCEgsCyYV"
+    },
+    {
+      "added_at": "2022-09-01 22:00:00",
+      "album": {
+        "name": "Grey",
+        "url": "https://open.spotify.com/album/2hhuqUYYuwCGiGVPDFt53J"
+      },
+      "artists": [
+        {
+          "name": "Silver Lining",
+          "url": "https://open.spotify.com/artist/2fpiIE5NAH8HpcYthaxm97"
+        }
+      ],
+      "duration_ms": 232960,
+      "name": "Grey",
+      "url": "https://open.spotify.com/track/6VVMhLXX7329EmXVwrm40I"
     },
     {
       "added_at": "2022-09-01 22:00:00",
@@ -611,22 +611,6 @@
       "duration_ms": 200613,
       "name": "Your Ghost",
       "url": "https://open.spotify.com/track/1itLAVoiQi49DTjW3dRtNS"
-    },
-    {
-      "added_at": "2022-09-01 22:00:00",
-      "album": {
-        "name": "I Saw Her from Here / I Saw Here",
-        "url": "https://open.spotify.com/album/6VR7bphUiAWAguSNdCxpHI"
-      },
-      "artists": [
-        {
-          "name": "Christian Kjellvander",
-          "url": "https://open.spotify.com/artist/2NNMCcN4t0zn04kTzdVAS6"
-        }
-      ],
-      "duration_ms": 224560,
-      "name": "When the Mourning Comes",
-      "url": "https://open.spotify.com/track/0EaHuGgiDdWDQi9VsS6Xrv"
     },
     {
       "added_at": "2022-09-01 22:00:00",
@@ -667,18 +651,38 @@
     {
       "added_at": "2022-09-01 22:00:00",
       "album": {
-        "name": "Joni Was Right",
-        "url": "https://open.spotify.com/album/4b9Jd0hGddS6xH6zjsCEV7"
+        "name": "The Last Great Country Swindle",
+        "url": "https://open.spotify.com/album/1I25HgAQMA4yhiW7jIv0qQ"
       },
       "artists": [
         {
-          "name": "Marit Larsen",
-          "url": "https://open.spotify.com/artist/0SGEunj6EBwdWMNCdWSrPg"
+          "name": "Bendik Br\u00e6nne",
+          "url": "https://open.spotify.com/artist/2xHFB5Nl4D6Il5tfP57sr1"
+        },
+        {
+          "name": "Daniel Romano",
+          "url": "https://open.spotify.com/artist/2kTXvMOmrHVjVewErG5kHD"
         }
       ],
-      "duration_ms": 197192,
-      "name": "Morgan, I Might",
-      "url": "https://open.spotify.com/track/546zJv5pyapMZO5O0l0p4x"
+      "duration_ms": 203933,
+      "name": "Ain't Nobody Like Me",
+      "url": "https://open.spotify.com/track/1HClG4JoFtukyPDO73eoVe"
+    },
+    {
+      "added_at": "2022-09-01 22:00:00",
+      "album": {
+        "name": "I Saw Her from Here / I Saw Here",
+        "url": "https://open.spotify.com/album/6VR7bphUiAWAguSNdCxpHI"
+      },
+      "artists": [
+        {
+          "name": "Christian Kjellvander",
+          "url": "https://open.spotify.com/artist/2NNMCcN4t0zn04kTzdVAS6"
+        }
+      ],
+      "duration_ms": 224560,
+      "name": "When the Mourning Comes",
+      "url": "https://open.spotify.com/track/0EaHuGgiDdWDQi9VsS6Xrv"
     },
     {
       "added_at": "2022-09-01 22:00:00",
@@ -695,6 +699,22 @@
       "duration_ms": 146573,
       "name": "Ei ny tid",
       "url": "https://open.spotify.com/track/2tK1DxbYpBl4x5sp7wJJFi"
+    },
+    {
+      "added_at": "2022-09-01 22:00:00",
+      "album": {
+        "name": "Joni Was Right",
+        "url": "https://open.spotify.com/album/4b9Jd0hGddS6xH6zjsCEV7"
+      },
+      "artists": [
+        {
+          "name": "Marit Larsen",
+          "url": "https://open.spotify.com/artist/0SGEunj6EBwdWMNCdWSrPg"
+        }
+      ],
+      "duration_ms": 197192,
+      "name": "Morgan, I Might",
+      "url": "https://open.spotify.com/track/546zJv5pyapMZO5O0l0p4x"
     },
     {
       "added_at": "2022-09-01 22:00:00",
@@ -727,26 +747,6 @@
       "duration_ms": 253212,
       "name": "Year of Love",
       "url": "https://open.spotify.com/track/2P0LyX02PXKXKMPOH7Zff7"
-    },
-    {
-      "added_at": "2022-09-01 22:00:00",
-      "album": {
-        "name": "The Last Great Country Swindle",
-        "url": "https://open.spotify.com/album/1I25HgAQMA4yhiW7jIv0qQ"
-      },
-      "artists": [
-        {
-          "name": "Bendik Br\u00e6nne",
-          "url": "https://open.spotify.com/artist/2xHFB5Nl4D6Il5tfP57sr1"
-        },
-        {
-          "name": "Daniel Romano",
-          "url": "https://open.spotify.com/artist/2kTXvMOmrHVjVewErG5kHD"
-        }
-      ],
-      "duration_ms": 203933,
-      "name": "Ain't Nobody Like Me",
-      "url": "https://open.spotify.com/track/1HClG4JoFtukyPDO73eoVe"
     },
     {
       "added_at": "2022-09-01 22:00:00",
@@ -799,6 +799,22 @@
     {
       "added_at": "2022-09-01 22:00:00",
       "album": {
+        "name": "Early Summer Rain",
+        "url": "https://open.spotify.com/album/41rw0yKJcpUla5orniwd45"
+      },
+      "artists": [
+        {
+          "name": "August Flendahl",
+          "url": "https://open.spotify.com/artist/2YdblFMUbUSxdwFNffi7ct"
+        }
+      ],
+      "duration_ms": 170181,
+      "name": "Early Summer Rain",
+      "url": "https://open.spotify.com/track/44Weew9zeqTPmGujEIFXnh"
+    },
+    {
+      "added_at": "2022-09-01 22:00:00",
+      "album": {
         "name": "When the Cellar Children See the Light of Day",
         "url": "https://open.spotify.com/album/4RP8ZcEWH1tPoEdkaPf8KK"
       },
@@ -815,22 +831,6 @@
     {
       "added_at": "2022-09-01 22:00:00",
       "album": {
-        "name": "Classic Objects",
-        "url": "https://open.spotify.com/album/71T5vyKWwbd4oUPfDpyNwb"
-      },
-      "artists": [
-        {
-          "name": "Jenny Hval",
-          "url": "https://open.spotify.com/artist/5eerVxtb9lY9p6D7m89Bs7"
-        }
-      ],
-      "duration_ms": 136960,
-      "name": "Freedom",
-      "url": "https://open.spotify.com/track/4nPhLPoZrUxSQHEUwtZ6n9"
-    },
-    {
-      "added_at": "2022-09-01 22:00:00",
-      "album": {
         "name": "Poetry & Airplanes",
         "url": "https://open.spotify.com/album/56fpdPOaGl7IHh71TPtQo1"
       },
@@ -843,6 +843,42 @@
       "duration_ms": 211426,
       "name": "I Was Just Thinking",
       "url": "https://open.spotify.com/track/1kcTZCAV8k8CQ0LOz735Gd"
+    },
+    {
+      "added_at": "2022-09-01 22:00:00",
+      "album": {
+        "name": "Jag \u00e4r sen igen",
+        "url": "https://open.spotify.com/album/0UiQGJXyPQz6ZEvl6I2Y5d"
+      },
+      "artists": [
+        {
+          "name": "Benedikt",
+          "url": "https://open.spotify.com/artist/4PctuqqAnmfZRDGZFNSH1Y"
+        },
+        {
+          "name": "\u00c6vestaden",
+          "url": "https://open.spotify.com/artist/7r8pTV56VazgkUAAUW4ucw"
+        }
+      ],
+      "duration_ms": 170875,
+      "name": "Halsmandlar",
+      "url": "https://open.spotify.com/track/22f4SB1GpL4PCqrwsxHNav"
+    },
+    {
+      "added_at": "2022-09-01 22:00:00",
+      "album": {
+        "name": "Classic Objects",
+        "url": "https://open.spotify.com/album/71T5vyKWwbd4oUPfDpyNwb"
+      },
+      "artists": [
+        {
+          "name": "Jenny Hval",
+          "url": "https://open.spotify.com/artist/5eerVxtb9lY9p6D7m89Bs7"
+        }
+      ],
+      "duration_ms": 136960,
+      "name": "Freedom",
+      "url": "https://open.spotify.com/track/4nPhLPoZrUxSQHEUwtZ6n9"
     },
     {
       "added_at": "2022-09-01 22:00:00",
@@ -879,22 +915,18 @@
     {
       "added_at": "2022-09-01 22:00:00",
       "album": {
-        "name": "Jag \u00e4r sen igen",
-        "url": "https://open.spotify.com/album/0UiQGJXyPQz6ZEvl6I2Y5d"
+        "name": "June",
+        "url": "https://open.spotify.com/album/4nNRxS6sgZOa7o96KfyIRM"
       },
       "artists": [
         {
-          "name": "Benedikt",
-          "url": "https://open.spotify.com/artist/4PctuqqAnmfZRDGZFNSH1Y"
-        },
-        {
-          "name": "\u00c6vestaden",
-          "url": "https://open.spotify.com/artist/7r8pTV56VazgkUAAUW4ucw"
+          "name": "Mathias Gundhus",
+          "url": "https://open.spotify.com/artist/6PURFnZQmtTtjlraMNaHW7"
         }
       ],
-      "duration_ms": 170875,
-      "name": "Halsmandlar",
-      "url": "https://open.spotify.com/track/22f4SB1GpL4PCqrwsxHNav"
+      "duration_ms": 218497,
+      "name": "June",
+      "url": "https://open.spotify.com/track/4pduaq2UnV1fpgevorNxAv"
     },
     {
       "added_at": "2022-09-01 22:00:00",
@@ -911,22 +943,6 @@
       "duration_ms": 236480,
       "name": "Tran\u00f8y fyr",
       "url": "https://open.spotify.com/track/1ZiY38qhaI4HF6lilr2FV8"
-    },
-    {
-      "added_at": "2022-09-01 22:00:00",
-      "album": {
-        "name": "Early Summer Rain",
-        "url": "https://open.spotify.com/album/41rw0yKJcpUla5orniwd45"
-      },
-      "artists": [
-        {
-          "name": "August Flendahl",
-          "url": "https://open.spotify.com/artist/2YdblFMUbUSxdwFNffi7ct"
-        }
-      ],
-      "duration_ms": 170181,
-      "name": "Early Summer Rain",
-      "url": "https://open.spotify.com/track/44Weew9zeqTPmGujEIFXnh"
     },
     {
       "added_at": "2022-09-01 22:00:00",
@@ -959,22 +975,6 @@
       "duration_ms": 200262,
       "name": "Bluebelle Mountain",
       "url": "https://open.spotify.com/track/02nxCFRn4cmbfKQB4mUFP5"
-    },
-    {
-      "added_at": "2022-09-01 22:00:00",
-      "album": {
-        "name": "June",
-        "url": "https://open.spotify.com/album/4nNRxS6sgZOa7o96KfyIRM"
-      },
-      "artists": [
-        {
-          "name": "Mathias Gundhus",
-          "url": "https://open.spotify.com/artist/6PURFnZQmtTtjlraMNaHW7"
-        }
-      ],
-      "duration_ms": 218497,
-      "name": "June",
-      "url": "https://open.spotify.com/track/4pduaq2UnV1fpgevorNxAv"
     },
     {
       "added_at": "2022-09-01 22:00:00",

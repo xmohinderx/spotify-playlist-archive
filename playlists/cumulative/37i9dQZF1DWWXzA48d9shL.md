@@ -4,7 +4,7 @@
 
 > New CORPSE ft\. Scarlxrd & Kordhell
 
-293 songs - 11 hr 32 min - [published](https://open.spotify.com/playlist/3WXmsauxjmiMQXOcPd40BY)
+296 songs - 11 hr 40 min - [published](https://open.spotify.com/playlist/3WXmsauxjmiMQXOcPd40BY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,6 +200,7 @@
 | [Miss YOU!](https://open.spotify.com/track/3pXVmZh293nWtqxildz9jf) | [CORPSE](https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW) | [Miss YOU!](https://open.spotify.com/album/1N4sOPjYya80HsT6idMO0f) | 1:32 | 2021-09-17 | 2022-04-19 |
 | [Molasses](https://open.spotify.com/track/6S3SnnZ7HRMoTF11Fqu8th) | [YNG Martyr](https://open.spotify.com/artist/357dDcxIE2hkKGn03PClIF), [EGOVERT](https://open.spotify.com/artist/4PfKPdq8QEgcerLwGApWIp) | [Molasses](https://open.spotify.com/album/0XYwE2kQ3N6vpCiHQkjGHT) | 2:22 | 2022-03-16 | 2022-06-04 |
 | [Mr\. Make Her Dance](https://open.spotify.com/track/4DtVUDgdAyUynlbZPrbj24) | [Night Lovell](https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO) | [Mr\. Make Her Dance](https://open.spotify.com/album/2bFOfBfOwE10X9B6CPyQmO) | 2:35 | 2022-04-15 |  |
+| [MUDD](https://open.spotify.com/track/0MEMJNYVMS7TBNgFzV1aVN) | [$werve](https://open.spotify.com/artist/60vF1fLR6yzLxCQUlnAYYj), [Grioten](https://open.spotify.com/artist/2UM0Qcw48WXGm5kN5hgpqt), [Day$okee](https://open.spotify.com/artist/6aLKPuO7rSHfgRhDkYzfJF) | [MUDD](https://open.spotify.com/album/2WwhmvIhoJ5FVzDPc2NuVH) | 2:21 | 2022-09-02 |  |
 | [NADA](https://open.spotify.com/track/6CBGS3dppVtfF1WDKTuTb6) | [YKARE](https://open.spotify.com/artist/1p9c4UC7cX15y830hNHwm1) | [NADA](https://open.spotify.com/album/7EueOgedGZdZ3sZk8OAlvS) | 1:51 | 2022-03-09 | 2022-04-20 |
 | [Never Enough](https://open.spotify.com/track/08mjZYnpAFVWjKtLom6lRg) | [Pouya](https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY), [Lu](https://open.spotify.com/artist/67ZBvSCWPfqDt63Bu1PmZ4) | [Never Enough](https://open.spotify.com/album/5PE0K2u8spjs5v55RPYMOE) | 2:00 | 2022-02-04 | 2022-05-17 |
 | [NEW PROFILE PIC](https://open.spotify.com/track/1gyRKqGojB0xbiommbjN32) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [NEW PROFILE PIC](https://open.spotify.com/album/5H1l5WjzOXeKYakngqyqRa) | 2:07 | 2021-09-17 | 2022-05-17 |
@@ -245,9 +246,11 @@
 | [SMITH & WESSON](https://open.spotify.com/track/2iqscA9e8ZmnWf3STlHUKc) | [Sinizter](https://open.spotify.com/artist/5owshUGXR3vxuTQqfo28Q8), [Ghostface Playa](https://open.spotify.com/artist/5xegBBY3vjR75woVR9kiy7), [Fidi](https://open.spotify.com/artist/7E0x5KaMlXKgcCUU4v5jgL) | [SMITH & WESSON](https://open.spotify.com/album/2slJ63YXYZT997rcxkGKe2) | 2:10 | 2022-01-28 | 2022-04-21 |
 | [Smoke Screen](https://open.spotify.com/track/1AZgMmMNpWW3eiBE2MNdk2) | [Night Lovell](https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO) | [Just Say You Don't Care](https://open.spotify.com/album/4nPKWikt1QDHHTfYhno0ze) | 2:09 | 2021-09-17 | 2022-07-27 |
 | [SMUSH](https://open.spotify.com/track/6T6D9mupMB8DYBULaNOpFn) | [WaitingForPairing](https://open.spotify.com/artist/1NCPoDfKMICNtbc65jTbeb) | [SMUSH](https://open.spotify.com/album/6ODe0zE6KPWORQki0luvva) | 1:36 | 2022-03-04 | 2022-04-21 |
+| [sorry im a haunted house](https://open.spotify.com/track/5TwVPtLbxVEdlmSXfIE9ny) | [Savage Ga$p](https://open.spotify.com/artist/0x7qiZJaal6j8qS7yCydFk), [KAMAARA](https://open.spotify.com/artist/06d6Jun2N1hugnXeN98kQ0) | [sorry im a haunted house](https://open.spotify.com/album/25oNU5hHbzv3GAF8UfLZUy) | 2:26 | 2022-09-02 |  |
 | [SPIDERBLOOD](https://open.spotify.com/track/0kx1cK3Lhr7yaJ47uvG36X) | [Witchouse 40k](https://open.spotify.com/artist/7chdPv6Kx0frN0lKfppD2J) | [SPIDERBLOOD](https://open.spotify.com/album/4dmFTJ8TSyXxj7EyHf4Uee) | 3:31 | 2021-09-17 | 2022-06-01 |
 | [Static](https://open.spotify.com/track/6Itf6EBUn3NZA1ZKkiEurI) | [Pouya](https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY), [Fat Nick](https://open.spotify.com/artist/5dfFr2qhmXQLvHZqg0dynx) | [Static](https://open.spotify.com/album/5j9vFsTPY5wKRdmZcuoUN6) | 2:17 | 2021-09-17 | 2022-07-27 |
 | [STATIC SHOCC](https://open.spotify.com/track/0w8rFaLu8fDDdYchCtSTa2) | [Ethan Ross](https://open.spotify.com/artist/59PupD35uDhgTCVfuV3GtN), [Bad Smith](https://open.spotify.com/artist/5ENi6vIaG2GiuMP9ykUcMw), [Daegho](https://open.spotify.com/artist/1HyuVyBL4O5dvdalaDhjwS) | [STATIC SHOCC](https://open.spotify.com/album/5BaWNtN23bX8x0hfgCf2WZ) | 2:08 | 2022-05-20 | 2022-07-27 |
+| [Step Back!](https://open.spotify.com/track/6jdwbcH788txYS6Doy1F1j) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER), [Sxmpra](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R) | [Step Back!](https://open.spotify.com/album/5bgXspdu04zFxX5gq8uXMl) | 2:30 | 2022-09-02 |  |
 | [Strangers](https://open.spotify.com/track/1VMjSIruIaLUTR1BGkR63W) | [Beamon](https://open.spotify.com/artist/4YdeEI1YlIPMBgxdDNc39K) | [Strangers](https://open.spotify.com/album/2SaTMaYwMzNy4rqU3zEDzV) | 2:03 | 2021-09-17 | 2022-05-21 |
 | [SUFFER WELL](https://open.spotify.com/track/27a0M1XQ4T1wjeRd0p7pof) | [Sinizter](https://open.spotify.com/artist/5owshUGXR3vxuTQqfo28Q8) | [SUFFER WELL](https://open.spotify.com/album/4ozL8awM5CpG6OGQXdabSM) | 2:42 | 2022-02-25 | 2022-05-17 |
 | [Superstitious](https://open.spotify.com/track/2TK4veXba4R8Qc5750IMYO) | [R4ID](https://open.spotify.com/artist/4z7o1Qx1IXfOlG9U1Vxi0u), [thisisNOMA](https://open.spotify.com/artist/21xTdTIsj03P6vCnNqrcae), [Keifergr33n](https://open.spotify.com/artist/5QaXbjEgDAPc0BwAaeNbtn) | [Superstitious](https://open.spotify.com/album/2AWthCZWHEY9ER6HlMEirr) | 2:40 | 2022-04-15 |  |

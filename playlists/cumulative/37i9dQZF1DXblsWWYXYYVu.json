@@ -431,7 +431,7 @@
       ],
       "date_added": "2021-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 199066,
       "name": "Find the One",
       "url": "https://open.spotify.com/track/4wQXTdCIapsqFASz3FfYE3"
@@ -449,7 +449,7 @@
       ],
       "date_added": "2021-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 212946,
       "name": "For Who You Are",
       "url": "https://open.spotify.com/track/66FzvLilvqQYeqGlJmNSnF"
@@ -1610,6 +1610,24 @@
     },
     {
       "album": {
+        "name": "Quitting (The Way I Wrote It)",
+        "url": "https://open.spotify.com/album/3QFX3aPTIkkjZkEK2V4boI"
+      },
+      "artists": [
+        {
+          "name": "Ian McConnell",
+          "url": "https://open.spotify.com/artist/4cnccBVC82QHFHuOVxzqM1"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152543,
+      "name": "Quitting (The Way I Wrote It)",
+      "url": "https://open.spotify.com/track/5MFD8psq13YEL9HdqTBGeJ"
+    },
+    {
+      "album": {
         "name": "Rebound",
         "url": "https://open.spotify.com/album/4tJxnECufcU2cVVsTNsSPG"
       },
@@ -2623,6 +2641,24 @@
       "duration_ms": 137045,
       "name": "Wrong Side of Goodbye (Reimagined)",
       "url": "https://open.spotify.com/track/0uhnVe3CgAhOI4NnSeWxTm"
+    },
+    {
+      "album": {
+        "name": "You and Me On The Rock (In The Canyon Haze)",
+        "url": "https://open.spotify.com/album/22EMSIjfksTwA1yizWVXa6"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257853,
+      "name": "You and Me On The Rock (In The Canyon Haze)",
+      "url": "https://open.spotify.com/track/7tmtdHPAoUZLuJqTnDR7FS"
     },
     {
       "album": {

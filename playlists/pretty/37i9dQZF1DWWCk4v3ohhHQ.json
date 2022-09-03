@@ -1,12 +1,12 @@
 {
   "description": "The essential pop rock songs from the 2010s. Cover: Coldplay.",
-  "num_followers": 122156,
+  "num_followers": 122297,
   "original_name": "10s Pop Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzQyMjIwMywwMDAwMDAwMGE1ZmI4ZDFhMTg4MTc5MWMxNWM3NjJjMDBlNjE4MWFh",
+  "snapshot_id": "MTY1MzQyMjIwMywwMDAwMDAwMDdiY2YxYzE2NzM1NTU1ZDQ3ZTc1MzRhMmFlNGFkM2E2",
   "tracks": [
     {
       "added_at": "2021-12-02 09:05:08",
@@ -283,22 +283,6 @@
     {
       "added_at": "2021-12-02 09:05:08",
       "album": {
-        "name": "California 37",
-        "url": "https://open.spotify.com/album/5zseibu9WEsPaZmkJUMkz1"
-      },
-      "artists": [
-        {
-          "name": "Train",
-          "url": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
-        }
-      ],
-      "duration_ms": 195973,
-      "name": "Drive By",
-      "url": "https://open.spotify.com/track/0KAiuUOrLTIkzkpfpn9jb9"
-    },
-    {
-      "added_at": "2021-12-02 09:05:08",
-      "album": {
         "name": "A Head Full of Dreams",
         "url": "https://open.spotify.com/album/3cfAM8b8KqJRoIzt3zLKqw"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 263786,
       "name": "Adventure of a Lifetime",
       "url": "https://open.spotify.com/track/69uxyAqqPIsUyTO8txoP2M"
+    },
+    {
+      "added_at": "2021-12-02 09:05:08",
+      "album": {
+        "name": "California 37",
+        "url": "https://open.spotify.com/album/5zseibu9WEsPaZmkJUMkz1"
+      },
+      "artists": [
+        {
+          "name": "Train",
+          "url": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
+        }
+      ],
+      "duration_ms": 195973,
+      "name": "Drive By",
+      "url": "https://open.spotify.com/track/0KAiuUOrLTIkzkpfpn9jb9"
     },
     {
       "added_at": "2021-12-02 09:05:08",
@@ -363,26 +363,6 @@
     {
       "added_at": "2021-12-02 09:05:08",
       "album": {
-        "name": "Some Nights",
-        "url": "https://open.spotify.com/album/7iycyHwOW2plljYIK6I1Zo"
-      },
-      "artists": [
-        {
-          "name": "fun.",
-          "url": "https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0"
-        },
-        {
-          "name": "Janelle Mon\u00e1e",
-          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
-        }
-      ],
-      "duration_ms": 250626,
-      "name": "We Are Young (feat. Janelle Mon\u00e1e)",
-      "url": "https://open.spotify.com/track/7a86XRg84qjasly9f6bPSD"
-    },
-    {
-      "added_at": "2021-12-02 09:05:08",
-      "album": {
         "name": "No Sound Without Silence",
         "url": "https://open.spotify.com/album/6yd9yk8nFcHalXzy7mgaDx"
       },
@@ -399,18 +379,22 @@
     {
       "added_at": "2021-12-02 09:05:08",
       "album": {
-        "name": "Ghost Stories",
-        "url": "https://open.spotify.com/album/2G4AUqfwxcV1UdQjm2ouYr"
+        "name": "Some Nights",
+        "url": "https://open.spotify.com/album/7iycyHwOW2plljYIK6I1Zo"
       },
       "artists": [
         {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+          "name": "fun.",
+          "url": "https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0"
+        },
+        {
+          "name": "Janelle Mon\u00e1e",
+          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
         }
       ],
-      "duration_ms": 285014,
-      "name": "Magic",
-      "url": "https://open.spotify.com/track/23khhseCLQqVMCIT1WMAns"
+      "duration_ms": 250626,
+      "name": "We Are Young (feat. Janelle Mon\u00e1e)",
+      "url": "https://open.spotify.com/track/7a86XRg84qjasly9f6bPSD"
     },
     {
       "added_at": "2021-12-02 09:05:08",
@@ -443,6 +427,22 @@
       "duration_ms": 219800,
       "name": "Someone To You",
       "url": "https://open.spotify.com/track/14BH4qO7pgCmIe6mgLKOK3"
+    },
+    {
+      "added_at": "2021-12-02 09:05:08",
+      "album": {
+        "name": "Ghost Stories",
+        "url": "https://open.spotify.com/album/2G4AUqfwxcV1UdQjm2ouYr"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 285014,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/23khhseCLQqVMCIT1WMAns"
     },
     {
       "added_at": "2021-12-02 09:05:08",
@@ -527,22 +527,6 @@
     {
       "added_at": "2021-12-02 09:05:08",
       "album": {
-        "name": "Evolve",
-        "url": "https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU"
-      },
-      "artists": [
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        }
-      ],
-      "duration_ms": 232906,
-      "name": "Walking The Wire",
-      "url": "https://open.spotify.com/track/1y3bE5i57eUm3hfLAc7h08"
-    },
-    {
-      "added_at": "2021-12-02 09:05:08",
-      "album": {
         "name": "Mylo Xyloto",
         "url": "https://open.spotify.com/album/2R7iJz5uaHjLEVnMkloO18"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 240796,
       "name": "Every Teardrop Is a Waterfall",
       "url": "https://open.spotify.com/track/2U8g9wVcUu9wsg6i7sFSv8"
+    },
+    {
+      "added_at": "2021-12-02 09:05:08",
+      "album": {
+        "name": "Evolve",
+        "url": "https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "duration_ms": 232906,
+      "name": "Walking The Wire",
+      "url": "https://open.spotify.com/track/1y3bE5i57eUm3hfLAc7h08"
     },
     {
       "added_at": "2021-12-02 09:05:08",
@@ -627,22 +627,6 @@
     {
       "added_at": "2021-12-02 09:05:08",
       "album": {
-        "name": "ATLAS",
-        "url": "https://open.spotify.com/album/6pUg9RDDoVyQQVJ48FkmXz"
-      },
-      "artists": [
-        {
-          "name": "The Score",
-          "url": "https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I"
-        }
-      ],
-      "duration_ms": 231986,
-      "name": "Revolution",
-      "url": "https://open.spotify.com/track/7Fv8Qp3tTSbSS2VjryUF7L"
-    },
-    {
-      "added_at": "2021-12-02 09:05:08",
-      "album": {
         "name": "Sweeter",
         "url": "https://open.spotify.com/album/2zVRgW8bXd7ukXRZSWw81j"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 218520,
       "name": "Not Over You",
       "url": "https://open.spotify.com/track/6j7hih15xG2cdYwIJnQXsq"
+    },
+    {
+      "added_at": "2021-12-02 09:05:08",
+      "album": {
+        "name": "ATLAS",
+        "url": "https://open.spotify.com/album/6pUg9RDDoVyQQVJ48FkmXz"
+      },
+      "artists": [
+        {
+          "name": "The Score",
+          "url": "https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I"
+        }
+      ],
+      "duration_ms": 231986,
+      "name": "Revolution",
+      "url": "https://open.spotify.com/track/7Fv8Qp3tTSbSS2VjryUF7L"
     },
     {
       "added_at": "2021-12-02 09:05:08",

@@ -1498,6 +1498,28 @@
     },
     {
       "album": {
+        "name": "Give Me Time (Remixes)",
+        "url": "https://open.spotify.com/album/2F74ITFbI9Dbwkh5ygT66D"
+      },
+      "artists": [
+        {
+          "name": "Zeina",
+          "url": "https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI"
+        },
+        {
+          "name": "Malik Ninety Five",
+          "url": "https://open.spotify.com/artist/3UIuW6kGq5SLaiFCaKqZ99"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118222,
+      "name": "Give Me Time - Malik Ninety Five Remix",
+      "url": "https://open.spotify.com/track/6qXZPdA9Tr1GmuGbs4Hj1Y"
+    },
+    {
+      "album": {
         "name": "give that girl some room",
         "url": "https://open.spotify.com/album/1KBE8SWnINGznlUs1ll4Sm"
       },
@@ -1933,7 +1955,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 192518,
       "name": "i",
       "url": "https://open.spotify.com/track/3nOK7iHFsy16nsIflFhGnP"
@@ -4086,6 +4108,24 @@
     },
     {
       "album": {
+        "name": "Svengali",
+        "url": "https://open.spotify.com/album/2NqZ5jCcoAevfo62dyJKk5"
+      },
+      "artists": [
+        {
+          "name": "Cakes da Killa",
+          "url": "https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179482,
+      "name": "Svengali",
+      "url": "https://open.spotify.com/track/4mIJ0lm0B8ynSPeGTjqJ5G"
+    },
+    {
+      "album": {
         "name": "Sweet Sensation",
         "url": "https://open.spotify.com/album/09aDpEjCtUlVcfDvTqhEte"
       },
@@ -4257,7 +4297,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 153607,
       "name": "That's Your Problem (STANK HOEZ)",
       "url": "https://open.spotify.com/track/4VY4yhB6w8bPAjLvYbE4BX"

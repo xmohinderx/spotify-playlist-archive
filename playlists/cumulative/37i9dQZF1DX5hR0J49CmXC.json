@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The Real hip-hop. Cover: Roc Marciano & The Alchemist",
+  "description": "The Real hip-hop. Cover: JID",
   "name": "Mind Right",
   "published_playlist_ids": [
     "3aBEPaCmxnNZhkIPP42r3z"
@@ -107,6 +107,36 @@
       "duration_ms": 148027,
       "name": "2010",
       "url": "https://open.spotify.com/track/5kUgMxXcpAdsnKumXs4J5Z"
+    },
+    {
+      "album": {
+        "name": "297 Parkside",
+        "url": "https://open.spotify.com/album/2rOxqka7BLWvKHaoz76qS2"
+      },
+      "artists": [
+        {
+          "name": "Black Soprano Family",
+          "url": "https://open.spotify.com/artist/3s7WzrEs4FkNObqj4WyfQm"
+        },
+        {
+          "name": "Rick Hyde",
+          "url": "https://open.spotify.com/artist/5bgr1sPXFeiNuS4vARMZp1"
+        },
+        {
+          "name": "Stove God Cooks",
+          "url": "https://open.spotify.com/artist/35fcckhFq2cF2u7hIG0fPv"
+        },
+        {
+          "name": "Elcamino",
+          "url": "https://open.spotify.com/artist/54jJabxN5Xa0aMGK4mYdVg"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "297 Parkside",
+      "url": "https://open.spotify.com/track/2Rsie0RsUDFt3NRBM94gUM"
     },
     {
       "album": {
@@ -1397,7 +1427,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 253232,
       "name": "FATHER'S DAY",
       "url": "https://open.spotify.com/track/6umZfXvscE1GxzTG2SDiol"
@@ -2487,7 +2517,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 229839,
       "name": "Menace",
       "url": "https://open.spotify.com/track/1xX6wr2lEHsDmR72AFN0Hx"
@@ -2825,6 +2855,32 @@
       "duration_ms": 219483,
       "name": "No Monsters",
       "url": "https://open.spotify.com/track/65pA1h2u8yCG8YWtw6a1cu"
+    },
+    {
+      "album": {
+        "name": "No Time to Waste",
+        "url": "https://open.spotify.com/album/703IZAt2zkMP9FHknPPyML"
+      },
+      "artists": [
+        {
+          "name": "Apathy",
+          "url": "https://open.spotify.com/artist/6fK2hnSgfRPxR6sL975XQS"
+        },
+        {
+          "name": "Jadakiss",
+          "url": "https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi"
+        },
+        {
+          "name": "Stu Bangas",
+          "url": "https://open.spotify.com/artist/4DDwOouMwiZIhZIqmexqFa"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174016,
+      "name": "No Time to Waste",
+      "url": "https://open.spotify.com/track/28QNJm9kbQlColMyEDdRYk"
     },
     {
       "album": {
@@ -3471,12 +3527,12 @@
           "url": "https://open.spotify.com/artist/3ZMur3elMyOs248ah86NRk"
         },
         {
-          "name": "Tha God Fahim",
-          "url": "https://open.spotify.com/artist/0qLTeI81hEhEK1PK3WOf77"
-        },
-        {
           "name": "Your Old Droog",
           "url": "https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp"
+        },
+        {
+          "name": "Tha God Fahim",
+          "url": "https://open.spotify.com/artist/0qLTeI81hEhEK1PK3WOf77"
         }
       ],
       "date_added": "2022-08-26",
@@ -4036,6 +4092,28 @@
     },
     {
       "album": {
+        "name": "Too Much (feat. Moneybagg Yo)",
+        "url": "https://open.spotify.com/album/0R87OEh0NzfdjavsrmrGtj"
+      },
+      "artists": [
+        {
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+        },
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188869,
+      "name": "Too Much (feat. Moneybagg Yo)",
+      "url": "https://open.spotify.com/track/7pZeacKYnK4unCplCmI2qb"
+    },
+    {
+      "album": {
         "name": "Trigger Point Therapy",
         "url": "https://open.spotify.com/album/2Nbanm8jupeIkUWqrq7GCS"
       },
@@ -4377,7 +4455,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 188386,
       "name": "Where I Belong",
       "url": "https://open.spotify.com/track/1PwY8OpvFFt7CmnpnPAw7O"

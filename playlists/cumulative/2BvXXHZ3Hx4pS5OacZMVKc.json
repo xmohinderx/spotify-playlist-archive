@@ -1158,6 +1158,32 @@
     },
     {
       "album": {
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/5d0m1rwDpjHleCQyfDUu3f"
+      },
+      "artists": [
+        {
+          "name": "32Stitches",
+          "url": "https://open.spotify.com/artist/4NH2deLFDDB0YeV3PNLjWQ"
+        },
+        {
+          "name": "CHENDA",
+          "url": "https://open.spotify.com/artist/38HqxBtUpMunEP3kKLjEby"
+        },
+        {
+          "name": "Harley Bird",
+          "url": "https://open.spotify.com/artist/7kXDaUD3imvM6el5qK6tAu"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225279,
+      "name": "Freedom",
+      "url": "https://open.spotify.com/track/1roivsvHAUwl9VhnEpRGjD"
+    },
+    {
+      "album": {
         "name": "Freefalling",
         "url": "https://open.spotify.com/album/0nBHpS95DU0znkctgMQ4Ty"
       },

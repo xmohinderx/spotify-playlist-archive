@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU4C3nPzApC.md) - [plain]
 
 ### [Very Nearly Nashville](https://open.spotify.com/playlist/37i9dQZF1DWXU4C3nPzApC)
 
-> The best music with a Nashville flavour\. Cover: Twinnie
+> The best music with a Nashville flavour\. Cover: The Shires
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,850 likes - 55 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,907 likes - 55 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU4C3nPzApC.md) - [plain]
 | 54 | [Sunshine & White Wine](https://open.spotify.com/track/5ZrU3Wkpro4V1b9jNXuZRw) | [Savannah Jaine](https://open.spotify.com/artist/1EiW3GLNSmLFCr9TuPGUCO) | [Sunshine & White Wine](https://open.spotify.com/album/47lEkhKprkM7dEGOs7B6sW) | 3:44 |
 | 55 | [Back To The Beginning](https://open.spotify.com/track/79D9sS05hiL69QszESYsAr) | [Tim McNary](https://open.spotify.com/artist/37CGTzcBezP4KjLI2lKk2u), [Machaela Nesler](https://open.spotify.com/artist/2DK8dF5cpYKCWYBmQefqKV) | [Back To The Beginning](https://open.spotify.com/album/1mu2MMauRuWXh1v8ztD7rD) | 3:36 |
 
-Snapshot ID: `MTY0Njk1NjgwMCwwMDAwMDAwMDQwZjhkODZiZDc5MWUyOTIwZjc2ZDkwOGNmNjExZmRm`
+Snapshot ID: `MTY2MjEyNzU0NSwwMDAwMDAwMDZjMjU1NzIwNzY3OWJmZTdmYWFlOWQwNzllY2MyNjgw`

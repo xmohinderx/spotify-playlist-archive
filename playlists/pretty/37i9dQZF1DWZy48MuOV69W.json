@@ -1,12 +1,12 @@
 {
   "description": "Cozy and jazzy interpretations of all your favourite Christmas songs.",
-  "num_followers": 44720,
+  "num_followers": 44628,
   "original_name": "Fireside Christmas Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDA5MDkzOSwwMDAwMDAwMGY1YzUwYzdkZDNiNDI2ZDgyZTgyMDdmZGRjYWM2MGVl",
+  "snapshot_id": "MTY0MDA5MDkzOSwwMDAwMDAwMGM1YWQxNjMzM2I5NzMyZDk5NjY1NjEyMzg0ZDdmYzEy",
   "tracks": [
     {
       "added_at": "2021-12-21 12:48:59",
@@ -335,22 +335,6 @@
     {
       "added_at": "2021-12-21 12:48:59",
       "album": {
-        "name": "Winter Wonderland",
-        "url": "https://open.spotify.com/album/7Djta9G35BBXrjz4CnSg39"
-      },
-      "artists": [
-        {
-          "name": "Nicki Parrott",
-          "url": "https://open.spotify.com/artist/5iHeuA1c9Mvy1DXO7aToU7"
-        }
-      ],
-      "duration_ms": 230906,
-      "name": "Blue Christmas",
-      "url": "https://open.spotify.com/track/7vdYX4mdSNdy9g8FeBSKRm"
-    },
-    {
-      "added_at": "2021-12-21 12:48:59",
-      "album": {
         "name": "'Tis The Season",
         "url": "https://open.spotify.com/album/47BNK2T9N8W3XmdQDgIrdZ"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 159544,
       "name": "Have Yourself A Merry Little Christmas",
       "url": "https://open.spotify.com/track/4EMFafiPV0WM7ogBpJbfzO"
+    },
+    {
+      "added_at": "2021-12-21 12:48:59",
+      "album": {
+        "name": "Winter Wonderland",
+        "url": "https://open.spotify.com/album/7Djta9G35BBXrjz4CnSg39"
+      },
+      "artists": [
+        {
+          "name": "Nicki Parrott",
+          "url": "https://open.spotify.com/artist/5iHeuA1c9Mvy1DXO7aToU7"
+        }
+      ],
+      "duration_ms": 230906,
+      "name": "Blue Christmas",
+      "url": "https://open.spotify.com/track/7vdYX4mdSNdy9g8FeBSKRm"
     },
     {
       "added_at": "2021-12-21 12:48:59",
@@ -383,6 +383,22 @@
     {
       "added_at": "2021-12-21 12:48:59",
       "album": {
+        "name": "The Classic Christmas Album",
+        "url": "https://open.spotify.com/album/6Djk03kVAeEzGpFpLbA141"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        }
+      ],
+      "duration_ms": 205120,
+      "name": "Christmas In Herald Square",
+      "url": "https://open.spotify.com/track/4XJ9FZtkJxnzGyB6mVXgld"
+    },
+    {
+      "added_at": "2021-12-21 12:48:59",
+      "album": {
         "name": "Christmas Songs",
         "url": "https://open.spotify.com/album/3m5GSvrmG2wnDiiJsMm6Om"
       },
@@ -399,42 +415,6 @@
     {
       "added_at": "2021-12-21 12:48:59",
       "album": {
-        "name": "A Merry Christmas With Bing Crosby & The Andrews Sisters (Remastered)",
-        "url": "https://open.spotify.com/album/0w8UpAutS4akZSqbvJH4fk"
-      },
-      "artists": [
-        {
-          "name": "Bing Crosby",
-          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
-        }
-      ],
-      "duration_ms": 187906,
-      "name": "The First Snowfall - Single Version",
-      "url": "https://open.spotify.com/track/1OwGYy9S2R0lzhoGn7vv6S"
-    },
-    {
-      "added_at": "2021-12-21 12:48:59",
-      "album": {
-        "name": "Spotify Singles - Christmas",
-        "url": "https://open.spotify.com/album/4F49nBJxc0MwyIgZCekkk6"
-      },
-      "artists": [
-        {
-          "name": "Tony Bennett",
-          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
-        },
-        {
-          "name": "Diana Krall",
-          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
-        }
-      ],
-      "duration_ms": 166853,
-      "name": "Santa Claus Is Comin' To Town - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/1wX2vUVICRwjQuYOyBTWHO"
-    },
-    {
-      "added_at": "2021-12-21 12:48:59",
-      "album": {
         "name": "Let's Share Christmas",
         "url": "https://open.spotify.com/album/1NfiYHxoziSkGlC121fURe"
       },
@@ -447,6 +427,22 @@
       "duration_ms": 192800,
       "name": "Snowfall",
       "url": "https://open.spotify.com/track/1UWCJQJv0PbtWa2KXyN6yY"
+    },
+    {
+      "added_at": "2021-12-21 12:48:59",
+      "album": {
+        "name": "A Merry Christmas With Bing Crosby & The Andrews Sisters (Remastered)",
+        "url": "https://open.spotify.com/album/0w8UpAutS4akZSqbvJH4fk"
+      },
+      "artists": [
+        {
+          "name": "Bing Crosby",
+          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
+        }
+      ],
+      "duration_ms": 187906,
+      "name": "The First Snowfall - Single Version",
+      "url": "https://open.spotify.com/track/1OwGYy9S2R0lzhoGn7vv6S"
     },
     {
       "added_at": "2021-12-21 12:48:59",
@@ -487,22 +483,18 @@
     {
       "added_at": "2021-12-21 12:48:59",
       "album": {
-        "name": "No\u00ebl ! No\u00ebl !! No\u00ebl !!!",
-        "url": "https://open.spotify.com/album/2rdx6TO7cg7BLcqGFNzLU3"
+        "name": "Reflections III Christmas",
+        "url": "https://open.spotify.com/album/1fxObqAQsE5iz2lEWQwrL6"
       },
       "artists": [
         {
-          "name": "Carla Bruni",
-          "url": "https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx"
-        },
-        {
-          "name": "Michel Legrand",
-          "url": "https://open.spotify.com/artist/1EtE0iSY6iFlN9L9c53ETy"
+          "name": "Sissel",
+          "url": "https://open.spotify.com/artist/2jaOpr7Go1avixlg1lfJOb"
         }
       ],
-      "duration_ms": 242506,
-      "name": "Jolis sapins",
-      "url": "https://open.spotify.com/track/30wgv3YjIy0MUtKrtolqRd"
+      "duration_ms": 213889,
+      "name": "Make Me a Present of You",
+      "url": "https://open.spotify.com/track/09MXanUedyI3MBy3KXHxrk"
     },
     {
       "added_at": "2021-12-21 12:48:59",
@@ -523,50 +515,42 @@
     {
       "added_at": "2021-12-21 12:48:59",
       "album": {
-        "name": "Reflections III Christmas",
-        "url": "https://open.spotify.com/album/1fxObqAQsE5iz2lEWQwrL6"
-      },
-      "artists": [
-        {
-          "name": "Sissel",
-          "url": "https://open.spotify.com/artist/2jaOpr7Go1avixlg1lfJOb"
-        }
-      ],
-      "duration_ms": 213889,
-      "name": "Make Me a Present of You",
-      "url": "https://open.spotify.com/track/09MXanUedyI3MBy3KXHxrk"
-    },
-    {
-      "added_at": "2021-12-21 12:48:59",
-      "album": {
-        "name": "The Classic Christmas Album",
-        "url": "https://open.spotify.com/album/6Djk03kVAeEzGpFpLbA141"
+        "name": "Spotify Singles - Christmas",
+        "url": "https://open.spotify.com/album/4F49nBJxc0MwyIgZCekkk6"
       },
       "artists": [
         {
           "name": "Tony Bennett",
           "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        },
+        {
+          "name": "Diana Krall",
+          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
         }
       ],
-      "duration_ms": 205120,
-      "name": "Christmas In Herald Square",
-      "url": "https://open.spotify.com/track/4XJ9FZtkJxnzGyB6mVXgld"
+      "duration_ms": 166853,
+      "name": "Santa Claus Is Comin' To Town - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/1wX2vUVICRwjQuYOyBTWHO"
     },
     {
       "added_at": "2021-12-21 12:48:59",
       "album": {
-        "name": "Holiday For Swing!",
-        "url": "https://open.spotify.com/album/1oPkmzcGvZT9Q32eLLjIS4"
+        "name": "No\u00ebl ! No\u00ebl !! No\u00ebl !!!",
+        "url": "https://open.spotify.com/album/2rdx6TO7cg7BLcqGFNzLU3"
       },
       "artists": [
         {
-          "name": "Seth MacFarlane",
-          "url": "https://open.spotify.com/artist/79D4dipwR6scV8AN3dm7gW"
+          "name": "Carla Bruni",
+          "url": "https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx"
+        },
+        {
+          "name": "Michel Legrand",
+          "url": "https://open.spotify.com/artist/1EtE0iSY6iFlN9L9c53ETy"
         }
       ],
-      "duration_ms": 167973,
-      "name": "Christmas Dreaming",
-      "url": "https://open.spotify.com/track/3u9QZbQtAoMjm0sgmdQ7bx"
+      "duration_ms": 242506,
+      "name": "Jolis sapins",
+      "url": "https://open.spotify.com/track/30wgv3YjIy0MUtKrtolqRd"
     },
     {
       "added_at": "2021-12-21 12:48:59",
@@ -583,6 +567,22 @@
       "duration_ms": 235546,
       "name": "Baby, It's Cold Outside",
       "url": "https://open.spotify.com/track/1odvHu7LNcEkRn83LwnoZb"
+    },
+    {
+      "added_at": "2021-12-21 12:48:59",
+      "album": {
+        "name": "Holiday For Swing!",
+        "url": "https://open.spotify.com/album/1oPkmzcGvZT9Q32eLLjIS4"
+      },
+      "artists": [
+        {
+          "name": "Seth MacFarlane",
+          "url": "https://open.spotify.com/artist/79D4dipwR6scV8AN3dm7gW"
+        }
+      ],
+      "duration_ms": 167973,
+      "name": "Christmas Dreaming",
+      "url": "https://open.spotify.com/track/3u9QZbQtAoMjm0sgmdQ7bx"
     },
     {
       "added_at": "2021-12-21 12:48:59",
@@ -639,6 +639,42 @@
     {
       "added_at": "2021-12-21 12:48:59",
       "album": {
+        "name": "Merry Christmas Darling",
+        "url": "https://open.spotify.com/album/1tHctD2yAOz3P7fxWCj5aF"
+      },
+      "artists": [
+        {
+          "name": "James Lanman",
+          "url": "https://open.spotify.com/artist/1AdskP8cgmAIqfRQkDTJ36"
+        },
+        {
+          "name": "Alanna Vicente",
+          "url": "https://open.spotify.com/artist/7q8ZRdJqcvmbwKBoJCiufK"
+        }
+      ],
+      "duration_ms": 155641,
+      "name": "Merry Christmas Darling",
+      "url": "https://open.spotify.com/track/6yO8zPQZFMT2u4VUUZ1AO3"
+    },
+    {
+      "added_at": "2021-12-21 12:48:59",
+      "album": {
+        "name": "The Classic Christmas Album",
+        "url": "https://open.spotify.com/album/6Djk03kVAeEzGpFpLbA141"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        }
+      ],
+      "duration_ms": 238173,
+      "name": "Christmas Time Is Here",
+      "url": "https://open.spotify.com/track/3HLuXYvlzcfAKMddEk73CE"
+    },
+    {
+      "added_at": "2021-12-21 12:48:59",
+      "album": {
         "name": "Have Yourself a Soulful Little Christmas",
         "url": "https://open.spotify.com/album/2qecynSla5V5qcg8Xdqzgw"
       },
@@ -671,26 +707,6 @@
     {
       "added_at": "2021-12-21 12:48:59",
       "album": {
-        "name": "Merry Christmas Darling",
-        "url": "https://open.spotify.com/album/1tHctD2yAOz3P7fxWCj5aF"
-      },
-      "artists": [
-        {
-          "name": "James Lanman",
-          "url": "https://open.spotify.com/artist/1AdskP8cgmAIqfRQkDTJ36"
-        },
-        {
-          "name": "Alanna Vicente",
-          "url": "https://open.spotify.com/artist/7q8ZRdJqcvmbwKBoJCiufK"
-        }
-      ],
-      "duration_ms": 155641,
-      "name": "Merry Christmas Darling",
-      "url": "https://open.spotify.com/track/6yO8zPQZFMT2u4VUUZ1AO3"
-    },
-    {
-      "added_at": "2021-12-21 12:48:59",
-      "album": {
         "name": "Merry Christmas",
         "url": "https://open.spotify.com/album/6el8HN8F8E4l7gv5TbZFmE"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 236354,
       "name": "Maybe Next Christmas",
       "url": "https://open.spotify.com/track/4HPE7dfz44sK8Azlix2hLV"
-    },
-    {
-      "added_at": "2021-12-21 12:48:59",
-      "album": {
-        "name": "The Classic Christmas Album",
-        "url": "https://open.spotify.com/album/6Djk03kVAeEzGpFpLbA141"
-      },
-      "artists": [
-        {
-          "name": "Tony Bennett",
-          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
-        }
-      ],
-      "duration_ms": 238173,
-      "name": "Christmas Time Is Here",
-      "url": "https://open.spotify.com/track/3HLuXYvlzcfAKMddEk73CE"
     },
     {
       "added_at": "2021-12-21 12:48:59",

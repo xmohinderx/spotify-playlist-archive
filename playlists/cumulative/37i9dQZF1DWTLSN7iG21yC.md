@@ -4,7 +4,7 @@
 
 > Clock in from the comfort of your own home and let the music carry you through the day.
 
-516 songs - 1 day 3 hr 31 min - [published](https://open.spotify.com/playlist/1nCLDzLkfoW4PEmPPr38Hp)
+517 songs - 1 day 3 hr 34 min - [published](https://open.spotify.com/playlist/1nCLDzLkfoW4PEmPPr38Hp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -205,6 +205,7 @@
 | [HEADSTART](https://open.spotify.com/track/4au9zOGq4UoV03sLuXFZZI) | [Ritt Momney](https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka) | [Sunny Boy](https://open.spotify.com/album/5m2dVboM31qQtwPVch8pFv) | 3:10 | 2021-10-22 | 2022-04-20 |
 | [Heat Waves](https://open.spotify.com/track/6CDzDgIUqeDY5g8ujExx2f) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Heat Waves](https://open.spotify.com/album/69K1zrf6TkXHdYUO8n2qVi) | 3:58 | 2021-06-07 |  |
 | [Here’s Your Perfect \(with salem ilese\)](https://open.spotify.com/track/4Cw1fQBX3TaiZQwOAyddnj) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6), [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [Here’s Your Perfect \(with salem ilese\)](https://open.spotify.com/album/5GniWbyYasCTUi8UZO6JZA) | 2:38 | 2021-08-13 | 2022-07-28 |
+| [High](https://open.spotify.com/track/09AvsbivV1FQBRAEBJh7UL) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [So Far So Good](https://open.spotify.com/album/4nZ4dv1XvDE25Lf2MFhOqA) | 2:55 | 2022-01-28 |  |
 | [High](https://open.spotify.com/track/0Dtv5iaqPWtftabQfjBvxh) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [So Far So Good](https://open.spotify.com/album/1CxCEPIZbaE28qUDW4wN0t) | 2:55 | 2022-01-28 | 2022-08-17 |
 | [High](https://open.spotify.com/track/3t4KHjd8uQpJJ2fa0fRIpR) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [High](https://open.spotify.com/album/5xo6DC8pajMhzbLxVzTmxP) | 2:55 | 2022-01-28 | 2022-07-29 |
 | [Hold Me Closer](https://open.spotify.com/track/72yP0DUlWPyH8P7IoxskwN) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Hold Me Closer](https://open.spotify.com/album/4QQWpCEX4BxMXwRQmtkKY6) | 3:22 | 2022-08-26 |  |
@@ -511,7 +512,7 @@
 | [Without Me](https://open.spotify.com/track/6FZDfxM3a3UCqtzo5pxSLZ) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Manic](https://open.spotify.com/album/68enXe5XcJdciSDAZr0Alr) | 3:21 | 2021-06-07 |  |
 | [WITHOUT YOU \(with Miley Cyrus\)](https://open.spotify.com/track/1EHUQesfVKwbthtNcpBi9g) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [WITHOUT YOU \(with Miley Cyrus\)](https://open.spotify.com/album/6Aqt69riJ3JPLxIEI8EkzT) | 2:41 | 2021-06-07 |  |
 | [Wonder](https://open.spotify.com/track/5KCbr5ndeby4y4ggthdiAb) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Wonder](https://open.spotify.com/album/7vif3nVzXURIrjGjHeHytB) | 2:52 | 2021-06-07 |  |
-| [working](https://open.spotify.com/track/31sSFHIe4NaxltVFOEIcTa) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [working](https://open.spotify.com/album/4iCcsBlzVQVZoJzxBvhuyS) | 3:30 | 2021-06-18 |  |
+| [working](https://open.spotify.com/track/31sSFHIe4NaxltVFOEIcTa) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [working](https://open.spotify.com/album/4iCcsBlzVQVZoJzxBvhuyS) | 3:30 | 2021-06-18 | 2022-09-03 |
 | [WTSGD \(with Alessia Cara\)](https://open.spotify.com/track/2JerYQPEZWTiTEIFgfUEoV) | [CLAY](https://open.spotify.com/artist/20aPu5vizjmoX2A7f7AOWL), [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [WTSGD \(with Alessia Cara\)](https://open.spotify.com/album/4VkgVNf0yIMLkwfls1J83u) | 4:04 | 2022-03-04 | 2022-07-29 |
 | [WYD Now? \[Feat\. Zai1k & Zakhar\]](https://open.spotify.com/track/53D7CWY7E38xNbq4jFX4ep) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d), [Zakhar](https://open.spotify.com/artist/6sGJ9AOz3XJH8S8WDcZUUO), [Zai1k](https://open.spotify.com/artist/2ORU5xiGsr9qfRKNvZ3UII) | [WYD Now? \[Feat\. Zai1k & Zakhar\]](https://open.spotify.com/album/1AmTl9VY7GBIKmxUveuxfM) | 3:12 | 2022-05-27 | 2022-06-01 |
 | [Years](https://open.spotify.com/track/0X2cr7dIICfHDM7odECFhr) | [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL) | [Years](https://open.spotify.com/album/7FGhkvcwZtus2Yr2PwLVtn) | 3:46 | 2021-07-16 | 2022-05-09 |

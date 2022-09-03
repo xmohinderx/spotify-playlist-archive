@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7rqPov2ZRCB.md) - [plain]
 
 > Ponte a guayar con este playlist de Merengue Tipico\. Cover: El Prodigio
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,620 likes - 51 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,647 likes - 51 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,16 +24,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7rqPov2ZRCB.md) - [plain]
 | 14 | [Te Fuiste De Aqui](https://open.spotify.com/track/5I36CCSzMMzvvK5wr8ZhR5) | [Urbanda](https://open.spotify.com/artist/0gEbDhqRDCeCdZM9N970ov) | [Te Fuiste De Aqui](https://open.spotify.com/album/2uDDVpFlkowms7UgY6T2Eu) | 4:40 |
 | 15 | [No Te Vayas](https://open.spotify.com/track/40Hmq1MsOhQP2y5Aff4VtI) | [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A) | [Cojelo Ahí](https://open.spotify.com/album/3DMQ0XGeZlnUJtqHU8kDWm) | 4:18 |
 | 16 | [Porque Te Fuiste Dulce Amor](https://open.spotify.com/track/2teVg77oXxa7UOSochwdEo) | [Raquel Arias](https://open.spotify.com/artist/49P6VROZM32gIQyX9CvJE8) | [Porque Te Fuiste Dulce Amor](https://open.spotify.com/album/3eYIiRrrWsTWP76NwqrFBd) | 5:57 |
-| 17 | [El Conejo De La Vecina](https://open.spotify.com/track/0quAI5YgttjrisTDw3CH4d) | [Blas Duran](https://open.spotify.com/artist/0N8kOoceUhHFL16Rhe5rvb) | [Bachata Pueblo](https://open.spotify.com/album/0GMRJn4slEK9YSkAIfT9BU) | 5:38 |
+| 17 | [El Maiz](https://open.spotify.com/track/4P7wu5ZhOk92I1NYde1YwL) | [Krisspy](https://open.spotify.com/artist/5EG8kX3NJR8Az7XKu4Czu7) | [Tipico Live](https://open.spotify.com/album/4a5WXhcbJ3tfxilPKCaIZz) | 5:31 |
 | 18 | [El Amor De Su Vida](https://open.spotify.com/track/5czvt8OzNCPsfvlmZSaZSy) | [Geovanny Polanco](https://open.spotify.com/artist/0awBNuVACBDglhyp0vRMgY) | [Pero Dime](https://open.spotify.com/album/3QCV2feb5IGyfAOB6x2mBC) | 4:11 |
-| 19 | [El Maiz](https://open.spotify.com/track/4P7wu5ZhOk92I1NYde1YwL) | [Krisspy](https://open.spotify.com/artist/5EG8kX3NJR8Az7XKu4Czu7) | [Tipico Live](https://open.spotify.com/album/4a5WXhcbJ3tfxilPKCaIZz) | 5:31 |
+| 19 | [El Conejo De La Vecina](https://open.spotify.com/track/0quAI5YgttjrisTDw3CH4d) | [Blas Duran](https://open.spotify.com/artist/0N8kOoceUhHFL16Rhe5rvb) | [Bachata Pueblo](https://open.spotify.com/album/0GMRJn4slEK9YSkAIfT9BU) | 5:38 |
 | 20 | [El Refrán](https://open.spotify.com/track/5JMVZua23rOH7Wt1rFYeSH) | [El Prodigio](https://open.spotify.com/artist/0mXFUCl68VMz2BhKzq1zCO) | [From Santo Domingo: Live!](https://open.spotify.com/album/7j6mg2CE7wd6i3R5dRkr2Z) | 5:35 |
 | 21 | [La Pava](https://open.spotify.com/track/7dwqCe1TRY8pUG3HIgjzdm) | [Tatico Henriquez](https://open.spotify.com/artist/3Ut6HQlDNxriysExMqRCYm) | [Consagración de Cariño](https://open.spotify.com/album/4eUT2dtQUXBoBF0GxhTxFE) | 2:51 |
 | 22 | [El Pobre Infeliz](https://open.spotify.com/track/0lxmQbbQEpIo7nViGV4SkK) | [Urbanda](https://open.spotify.com/artist/0gEbDhqRDCeCdZM9N970ov) | [El Pobre Infeliz](https://open.spotify.com/album/2tnZoQHJZoMsDjYaGUtGRL) | 4:21 |
 | 23 | [Vamos hablar ingles](https://open.spotify.com/track/0sCPSj1zmc6utsy0czb54e) | [Fefita La Grande](https://open.spotify.com/artist/4IYHkkHuBFwfBrqQ4XJiPA) | [El Prodigio Vs\. Geovanny Polanco: La Batalla del Tipico \- Round 3](https://open.spotify.com/album/716GiAM5y7ZXcfotDUNb13) | 4:31 |
 | 24 | [La Mecedora](https://open.spotify.com/track/4gud2okz9KBcDUjVGw36sD) | [Tatico Henriquez Y Sus Muchachos](https://open.spotify.com/artist/4Pva9KTs5FoQl4TuyZZ3Mm) | [Homenaje A Tatico Henríquez](https://open.spotify.com/album/6wpHAV5jdgysuRBal7lYvu) | 2:54 |
-| 25 | [El Total](https://open.spotify.com/track/36kTM5MeWQLjhkMxAlxqII) | [Blas Duran](https://open.spotify.com/artist/0N8kOoceUhHFL16Rhe5rvb) | [Éxitos de Oro](https://open.spotify.com/album/0hjzbRJGIAlvfWhoX3n2Oj) | 5:52 |
-| 26 | [La Muerte De Martín](https://open.spotify.com/track/6dRqfRIFbxbu65vsjCUXeI) | [El Prodigio](https://open.spotify.com/artist/0mXFUCl68VMz2BhKzq1zCO) | [From Santo Domingo: Live!](https://open.spotify.com/album/7j6mg2CE7wd6i3R5dRkr2Z) | 5:20 |
+| 25 | [La Muerte De Martín](https://open.spotify.com/track/6dRqfRIFbxbu65vsjCUXeI) | [El Prodigio](https://open.spotify.com/artist/0mXFUCl68VMz2BhKzq1zCO) | [From Santo Domingo: Live!](https://open.spotify.com/album/7j6mg2CE7wd6i3R5dRkr2Z) | 5:20 |
+| 26 | [El Total](https://open.spotify.com/track/36kTM5MeWQLjhkMxAlxqII) | [Blas Duran](https://open.spotify.com/artist/0N8kOoceUhHFL16Rhe5rvb) | [Éxitos de Oro](https://open.spotify.com/album/0hjzbRJGIAlvfWhoX3n2Oj) | 5:52 |
 | 27 | [Que Se Vaya](https://open.spotify.com/track/0Xtj6e8Buf5iPqopUp74N3) | [El Prodigio & Su Banda Tipica](https://open.spotify.com/artist/20f0aBVhhWPudN6pWBcfb6) | [Que Se Vaya](https://open.spotify.com/album/1zPVnHTB7zHAcfENR2zDIo) | 3:58 |
 | 28 | [Dile Que Vuelva](https://open.spotify.com/track/2HDynkWGsEg1pGoTEZlN9S) | [Geovanny Polanco](https://open.spotify.com/artist/0awBNuVACBDglhyp0vRMgY) | [1](https://open.spotify.com/album/5Q8p7lerPqauI6Hz9kSAN6) | 5:36 |
 | 29 | [La Pimienta es la Que Pica](https://open.spotify.com/track/1cwD4kYEcYmLCPj42Ym8Yx) | [Fefita La Grande](https://open.spotify.com/artist/4IYHkkHuBFwfBrqQ4XJiPA) | [Cantando He De Morir](https://open.spotify.com/album/1WLMlfIxmGS78b2oQXKNHW) | 4:44 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7rqPov2ZRCB.md) - [plain]
 | 50 | [La Chiflera \- 2k15 Edition](https://open.spotify.com/track/51MmT2oz05BA71QbyDUcNU) | [Maria Diaz](https://open.spotify.com/artist/5dYa0AAqG7tZT1vsX3j7Aj), [El Prodigio](https://open.spotify.com/artist/0mXFUCl68VMz2BhKzq1zCO) | [Maria y el Prodigio](https://open.spotify.com/album/1nzkjZM7mdGxbxinEWil2d) | 5:09 |
 | 51 | [La Correa](https://open.spotify.com/track/09HW13Gn5zXFQnJlvt95n9) | [Tatico Henriquez](https://open.spotify.com/artist/3Ut6HQlDNxriysExMqRCYm) | [60 Éxitos](https://open.spotify.com/album/49AtvL6fjFXMg8ckR7cFjm) | 2:48 |
 
-Snapshot ID: `MTU2ODA1MTM2NCwwMDAwMDAwMDlmODJmMTQ0Yzc1OGYyZDBhNjE2NDhkYTM3OWRmMWQ3`
+Snapshot ID: `MTU2ODA1MTM2NCwwMDAwMDAwMGM0MTA0Yjc2NTBhYjVlMDA4YWE3NzJhYTVjOGJmNmQ3`

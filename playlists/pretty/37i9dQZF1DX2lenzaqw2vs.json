@@ -1,12 +1,12 @@
 {
   "description": "LGBTQ+ artists and allies join this fiesta. \nCover: Nicole Zignago",
-  "num_followers": 123871,
+  "num_followers": 123876,
   "original_name": "Latin Pride",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzA0ODgwNCwwMDAwMDAwMGJiYzdiYTIzYzE2ZjRhNmFlZTZkMjU4MmI4NjBjMjcz",
+  "snapshot_id": "MTY1NzA0ODgwNCwwMDAwMDAwMDJhNGNiZjZiZWZlMzgwZmI3ZjE5YThmM2M3YzAwYTY0",
   "tracks": [
     {
       "added_at": "2022-07-05 19:20:04",
@@ -591,26 +591,6 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
-        "name": "S\u00f3lo Qu\u00e9date En Silencio",
-        "url": "https://open.spotify.com/album/6GIZBF6pkjNmBGgSCeLrPB"
-      },
-      "artists": [
-        {
-          "name": "Moderatto",
-          "url": "https://open.spotify.com/artist/5XsWrYhwadPBjW20qYbdZg"
-        },
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 235360,
-      "name": "S\u00f3lo Qu\u00e9date En Silencio",
-      "url": "https://open.spotify.com/track/2yqqGDKsgqw27XvnBCgXwD"
-    },
-    {
-      "added_at": "2022-07-05 19:20:04",
-      "album": {
         "name": "A Veces Bien Y A Veces Mal",
         "url": "https://open.spotify.com/album/0pWorPBOSUnnsjMWWAXtci"
       },
@@ -627,6 +607,26 @@
       "duration_ms": 145783,
       "name": "A Veces Bien Y A Veces Mal",
       "url": "https://open.spotify.com/track/21DZByorOzBJ0a0mikH8ri"
+    },
+    {
+      "added_at": "2022-07-05 19:20:04",
+      "album": {
+        "name": "S\u00f3lo Qu\u00e9date En Silencio",
+        "url": "https://open.spotify.com/album/6GIZBF6pkjNmBGgSCeLrPB"
+      },
+      "artists": [
+        {
+          "name": "Moderatto",
+          "url": "https://open.spotify.com/artist/5XsWrYhwadPBjW20qYbdZg"
+        },
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 235360,
+      "name": "S\u00f3lo Qu\u00e9date En Silencio",
+      "url": "https://open.spotify.com/track/2yqqGDKsgqw27XvnBCgXwD"
     },
     {
       "added_at": "2022-07-05 19:20:04",
@@ -1071,18 +1071,22 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
-        "name": "EL PEOR",
-        "url": "https://open.spotify.com/album/1kBaRHAH9gtFHuoz7zbgOv"
+        "name": "Follow Me",
+        "url": "https://open.spotify.com/album/445vYMgXM6mKFRPJzYeeav"
       },
       "artists": [
         {
-          "name": "Cami",
-          "url": "https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn"
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        },
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
         }
       ],
-      "duration_ms": 114000,
-      "name": "EL PEOR",
-      "url": "https://open.spotify.com/track/1J7zkJKLpHYwSgpcz8jBwq"
+      "duration_ms": 177564,
+      "name": "Follow Me",
+      "url": "https://open.spotify.com/track/0BhxEu4q4jg6Ul7XUxv7So"
     },
     {
       "added_at": "2022-07-05 19:20:04",
@@ -1107,22 +1111,18 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
-        "name": "Follow Me",
-        "url": "https://open.spotify.com/album/445vYMgXM6mKFRPJzYeeav"
+        "name": "EL PEOR",
+        "url": "https://open.spotify.com/album/1kBaRHAH9gtFHuoz7zbgOv"
       },
       "artists": [
         {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        },
-        {
-          "name": "Rina Sawayama",
-          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+          "name": "Cami",
+          "url": "https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn"
         }
       ],
-      "duration_ms": 177564,
-      "name": "Follow Me",
-      "url": "https://open.spotify.com/track/0BhxEu4q4jg6Ul7XUxv7So"
+      "duration_ms": 114000,
+      "name": "EL PEOR",
+      "url": "https://open.spotify.com/track/1J7zkJKLpHYwSgpcz8jBwq"
     },
     {
       "added_at": "2022-07-05 19:20:04",
@@ -1251,26 +1251,6 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
-        "name": "LOVE? (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2l8HCTHlnWSUwK47umlJ2C"
-      },
-      "artists": [
-        {
-          "name": "Jennifer Lopez",
-          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
-        },
-        {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
-        }
-      ],
-      "duration_ms": 284866,
-      "name": "On The Floor",
-      "url": "https://open.spotify.com/track/3STTVKfJGTdhbg5aLppEzX"
-    },
-    {
-      "added_at": "2022-07-05 19:20:04",
-      "album": {
         "name": "Plata Ta T\u00e1",
         "url": "https://open.spotify.com/album/7HVCoZ2c1vfGjRXVPoGnkS"
       },
@@ -1287,6 +1267,26 @@
       "duration_ms": 255506,
       "name": "Plata Ta T\u00e1",
       "url": "https://open.spotify.com/track/0937IXPkSlckRCq1WoHSEl"
+    },
+    {
+      "added_at": "2022-07-05 19:20:04",
+      "album": {
+        "name": "LOVE? (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2l8HCTHlnWSUwK47umlJ2C"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        },
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        }
+      ],
+      "duration_ms": 284866,
+      "name": "On The Floor",
+      "url": "https://open.spotify.com/track/3STTVKfJGTdhbg5aLppEzX"
     },
     {
       "added_at": "2022-07-05 19:20:04",
@@ -2279,6 +2279,22 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
+        "name": "Soy Asi",
+        "url": "https://open.spotify.com/album/6LKhRfBpI3Osjue9OgxWUl"
+      },
+      "artists": [
+        {
+          "name": "Kevin Fret",
+          "url": "https://open.spotify.com/artist/2qljieCcALPZhtxYzQVLDM"
+        }
+      ],
+      "duration_ms": 232362,
+      "name": "Soy Asi",
+      "url": "https://open.spotify.com/track/7qYCZTW9lkTYqvmat6S3RJ"
+    },
+    {
+      "added_at": "2022-07-05 19:20:04",
+      "album": {
         "name": "Exterra",
         "url": "https://open.spotify.com/album/4YoUqV4ZdD652Z49VqEw4B"
       },
@@ -2295,22 +2311,6 @@
       "duration_ms": 203111,
       "name": "Exterra",
       "url": "https://open.spotify.com/track/4C022PY7OeolXksa1LJB4P"
-    },
-    {
-      "added_at": "2022-07-05 19:20:04",
-      "album": {
-        "name": "Soy Asi",
-        "url": "https://open.spotify.com/album/6LKhRfBpI3Osjue9OgxWUl"
-      },
-      "artists": [
-        {
-          "name": "Kevin Fret",
-          "url": "https://open.spotify.com/artist/2qljieCcALPZhtxYzQVLDM"
-        }
-      ],
-      "duration_ms": 232362,
-      "name": "Soy Asi",
-      "url": "https://open.spotify.com/track/7qYCZTW9lkTYqvmat6S3RJ"
     },
     {
       "added_at": "2022-07-05 19:20:04",
@@ -2487,6 +2487,26 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
+        "name": "Luces",
+        "url": "https://open.spotify.com/album/1fTA11dukn2IrHiFyNb3qD"
+      },
+      "artists": [
+        {
+          "name": "ARIA",
+          "url": "https://open.spotify.com/artist/6W4UUzoroQt4P9pjHnauHt"
+        },
+        {
+          "name": "Georgel",
+          "url": "https://open.spotify.com/artist/0K8M0RUbeMZscUCj1Mb24j"
+        }
+      ],
+      "duration_ms": 206739,
+      "name": "Luces",
+      "url": "https://open.spotify.com/track/5ZbZqPiTSQJzKvkMHyZoYi"
+    },
+    {
+      "added_at": "2022-07-05 19:20:04",
+      "album": {
         "name": "Feeling Good (Pauza Remix)",
         "url": "https://open.spotify.com/album/7EOBTLrvjTNFnD5Oil88v1"
       },
@@ -2511,22 +2531,18 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
-        "name": "Luces",
-        "url": "https://open.spotify.com/album/1fTA11dukn2IrHiFyNb3qD"
+        "name": "Amor, Locura & Otros Vicios",
+        "url": "https://open.spotify.com/album/3RM6JchSNTtRsZ8Do0iWRD"
       },
       "artists": [
         {
-          "name": "ARIA",
-          "url": "https://open.spotify.com/artist/6W4UUzoroQt4P9pjHnauHt"
-        },
-        {
-          "name": "Georgel",
-          "url": "https://open.spotify.com/artist/0K8M0RUbeMZscUCj1Mb24j"
+          "name": "Ni\u00f1a Dioz",
+          "url": "https://open.spotify.com/artist/7G4N4GY4l0qHm1yflRvsQ0"
         }
       ],
-      "duration_ms": 206739,
-      "name": "Luces",
-      "url": "https://open.spotify.com/track/5ZbZqPiTSQJzKvkMHyZoYi"
+      "duration_ms": 168640,
+      "name": "Sorpresa",
+      "url": "https://open.spotify.com/track/3RQIY31sKQOkk5uiRBr0su"
     },
     {
       "added_at": "2022-07-05 19:20:04",
@@ -2543,22 +2559,6 @@
       "duration_ms": 297544,
       "name": "Ruido",
       "url": "https://open.spotify.com/track/1MQsLLmZ6tyJ88Fuwjwcx8"
-    },
-    {
-      "added_at": "2022-07-05 19:20:04",
-      "album": {
-        "name": "Amor, Locura & Otros Vicios",
-        "url": "https://open.spotify.com/album/3RM6JchSNTtRsZ8Do0iWRD"
-      },
-      "artists": [
-        {
-          "name": "Ni\u00f1a Dioz",
-          "url": "https://open.spotify.com/artist/7G4N4GY4l0qHm1yflRvsQ0"
-        }
-      ],
-      "duration_ms": 168640,
-      "name": "Sorpresa",
-      "url": "https://open.spotify.com/track/3RQIY31sKQOkk5uiRBr0su"
     },
     {
       "added_at": "2022-07-05 19:20:04",

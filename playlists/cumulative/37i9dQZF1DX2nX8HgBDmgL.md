@@ -4,7 +4,7 @@
 
 > Celebrating South Asian Heritage Month with Raja Kumari.
 
-124 songs - 6 hr 32 min - [published](https://open.spotify.com/playlist/4KvGVxCqKJ3562UipuWVPS)
+125 songs - 6 hr 35 min - [published](https://open.spotify.com/playlist/4KvGVxCqKJ3562UipuWVPS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Out of Love](https://open.spotify.com/track/6x4fJlgsoGqklYyMQN7vLN) | [Raashi Sood](https://open.spotify.com/artist/0ZEiDnkNsdY6IXWUjWuBU2), [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25) | [Out of Love](https://open.spotify.com/album/1bv1UnuDeOnL6odVRPJksM) | 3:17 | 2022-07-18 |  |
 | [Over You](https://open.spotify.com/track/7DIy5vxJsbvAQqtN6zIYvp) | [Rishi Rich](https://open.spotify.com/artist/2DpITTpb4v5SQtB3iA4A44), [Roach Killa](https://open.spotify.com/artist/62RUJAVFb2U8n54mYnZAmS), [Kiranee](https://open.spotify.com/artist/0A8jiUMRlCzO8eDWnvtE3Y) | [Over You](https://open.spotify.com/album/4qzK6pkjG3mO9AUz1Z7SQT) | 3:15 | 2021-11-11 | 2022-07-19 |
 | [Para Rum Pa](https://open.spotify.com/track/3D5w9GsRZBPw8F5t6e6BhU) | [Jernade Miah](https://open.spotify.com/artist/7eymaZJllgRKh54C1slh3M), [Zack Knight](https://open.spotify.com/artist/7JMBJmGMqw4H33HECyW4QP) | [Para Rum Pa](https://open.spotify.com/album/31qUEnN9ehlK2v9t3QMgSy) | 2:25 | 2021-11-11 | 2022-07-19 |
+| [Pardesi](https://open.spotify.com/track/0azDXr0cxe2lePuQgsSxRa) | [F1rstman](https://open.spotify.com/artist/0IA4SdCS8HBDX6oBoOlgaf), [Jay Psar](https://open.spotify.com/artist/2FXSYpIIZhJ260UvGZN8wr) | [Pardesi](https://open.spotify.com/album/0wCSc43ppzINWPUnJEyzsu) | 2:45 | 2022-09-02 |  |
 | [Pasoori](https://open.spotify.com/track/7lvDsmTRXFE3dK4OjvRiWB) | [Shae Gill](https://open.spotify.com/artist/3bWIy9AUrQdiNeS62Bp3OP), [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl) | [Pasoori](https://open.spotify.com/album/7wgrW5XyZdtk0K8PkW5A7h) | 3:44 | 2022-07-18 |  |
 | [Patakay](https://open.spotify.com/track/2UB5xkPwY3Y2tVD0GbIccf) | [DJ Harpz](https://open.spotify.com/artist/6ClT6x4LnhH5CDLBePdoaA), [Amar Sandhu](https://open.spotify.com/artist/52azpeiy7FKa0hoa8CwL6E), [Ezu](https://open.spotify.com/artist/2r3HmBK84dHpMW5WFNdWNP) | [Patakay](https://open.spotify.com/album/3wtlASWLBCT37d97rQiJpa) | 3:57 | 2021-11-11 | 2022-07-19 |
 | [Phone](https://open.spotify.com/track/6MRuNaMaH65vGyek33fXMV) | [Mickey Singh](https://open.spotify.com/artist/3KDhyMTFZlrfAO0zK18z4t), [UpsideDown](https://open.spotify.com/artist/0Vjwka9dESqFMtbXD1phDu) | [Phone](https://open.spotify.com/album/4DAhFI1sR57V7fjwxRc9a9) | 3:32 | 2021-11-11 | 2022-07-19 |

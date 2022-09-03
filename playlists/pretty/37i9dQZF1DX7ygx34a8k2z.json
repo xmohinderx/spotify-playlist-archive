@@ -1,12 +1,12 @@
 {
   "description": "dig through the record bin.",
-  "num_followers": 64886,
+  "num_followers": 65157,
   "original_name": "Thrifted",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzkxOTUyMSwwMDAwMDAwMDQzNGM5MzA2MDk3N2Q0NDgyMjZmYWY2OThmY2ZjMDE5",
+  "snapshot_id": "MTY1MzkxOTUyMSwwMDAwMDAwMDYwNjBlMzQwYWZmMDQ4MmI5NzA0M2JiYzBjNTlmYzNj",
   "tracks": [
     {
       "added_at": "2022-05-30 14:05:21",
@@ -635,22 +635,6 @@
     {
       "added_at": "2022-05-30 14:05:21",
       "album": {
-        "name": "The Mollusk",
-        "url": "https://open.spotify.com/album/1yfJqxKKXG320vhqLfUEeC"
-      },
-      "artists": [
-        {
-          "name": "Ween",
-          "url": "https://open.spotify.com/artist/3u1ulLq00Y3bfmq9FfjsPu"
-        }
-      ],
-      "duration_ms": 126946,
-      "name": "Ocean Man",
-      "url": "https://open.spotify.com/track/6M14BiCN00nOsba4JaYsHW"
-    },
-    {
-      "added_at": "2022-05-30 14:05:21",
-      "album": {
         "name": "In the Aeroplane Over the Sea",
         "url": "https://open.spotify.com/album/0vVekV45lOaVKs6RZQQNob"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 202346,
       "name": "In the Aeroplane Over the Sea",
       "url": "https://open.spotify.com/track/5rfT032kGmLvbxZzfHlu5D"
+    },
+    {
+      "added_at": "2022-05-30 14:05:21",
+      "album": {
+        "name": "The Mollusk",
+        "url": "https://open.spotify.com/album/1yfJqxKKXG320vhqLfUEeC"
+      },
+      "artists": [
+        {
+          "name": "Ween",
+          "url": "https://open.spotify.com/artist/3u1ulLq00Y3bfmq9FfjsPu"
+        }
+      ],
+      "duration_ms": 126946,
+      "name": "Ocean Man",
+      "url": "https://open.spotify.com/track/6M14BiCN00nOsba4JaYsHW"
     },
     {
       "added_at": "2022-05-30 14:05:21",
@@ -683,22 +683,6 @@
     {
       "added_at": "2022-05-30 14:05:21",
       "album": {
-        "name": "Electriclarryland",
-        "url": "https://open.spotify.com/album/7nawZF1eeyTGbrL9OsOCwz"
-      },
-      "artists": [
-        {
-          "name": "Butthole Surfers",
-          "url": "https://open.spotify.com/artist/62BcWP4fzR8axESibNQEhs"
-        }
-      ],
-      "duration_ms": 297266,
-      "name": "Pepper",
-      "url": "https://open.spotify.com/track/1ng36571Iyov4HBxUClySn"
-    },
-    {
-      "added_at": "2022-05-30 14:05:21",
-      "album": {
         "name": "13 Songs",
         "url": "https://open.spotify.com/album/1FcRwT7uoNdO8L9wbYsfAY"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 173266,
       "name": "Waiting Room",
       "url": "https://open.spotify.com/track/2DBlfjL5chsdeULzhTp5K8"
+    },
+    {
+      "added_at": "2022-05-30 14:05:21",
+      "album": {
+        "name": "Electriclarryland",
+        "url": "https://open.spotify.com/album/7nawZF1eeyTGbrL9OsOCwz"
+      },
+      "artists": [
+        {
+          "name": "Butthole Surfers",
+          "url": "https://open.spotify.com/artist/62BcWP4fzR8axESibNQEhs"
+        }
+      ],
+      "duration_ms": 297266,
+      "name": "Pepper",
+      "url": "https://open.spotify.com/track/1ng36571Iyov4HBxUClySn"
     },
     {
       "added_at": "2022-05-30 14:05:21",
@@ -1375,6 +1375,22 @@
     {
       "added_at": "2022-05-30 14:05:21",
       "album": {
+        "name": "Refried Ectoplasm [Switched On Volume 2]",
+        "url": "https://open.spotify.com/album/6grZsNH92wnHOtj4VDBEeY"
+      },
+      "artists": [
+        {
+          "name": "Stereolab",
+          "url": "https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt"
+        }
+      ],
+      "duration_ms": 215825,
+      "name": "French Disko",
+      "url": "https://open.spotify.com/track/5BlmlqySQMeRvRm6YjhwyO"
+    },
+    {
+      "added_at": "2022-05-30 14:05:21",
+      "album": {
         "name": "Screamadelica",
         "url": "https://open.spotify.com/album/4TECsw2dFHZ1ULrT7OA3OL"
       },
@@ -1391,18 +1407,18 @@
     {
       "added_at": "2022-05-30 14:05:21",
       "album": {
-        "name": "Refried Ectoplasm [Switched On Volume 2]",
-        "url": "https://open.spotify.com/album/6grZsNH92wnHOtj4VDBEeY"
+        "name": "Signals, Calls and Marches",
+        "url": "https://open.spotify.com/album/3MylADAiyOAf5ddH6iiflo"
       },
       "artists": [
         {
-          "name": "Stereolab",
-          "url": "https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt"
+          "name": "Mission Of Burma",
+          "url": "https://open.spotify.com/artist/5UMQV83wwZCCvRSQCVjZw6"
         }
       ],
-      "duration_ms": 215825,
-      "name": "French Disko",
-      "url": "https://open.spotify.com/track/5BlmlqySQMeRvRm6YjhwyO"
+      "duration_ms": 233573,
+      "name": "That's When I Reach For My Revolver",
+      "url": "https://open.spotify.com/track/3bSKHihztyH9D1ZyQsoqzI"
     },
     {
       "added_at": "2022-05-30 14:05:21",
@@ -1427,18 +1443,18 @@
     {
       "added_at": "2022-05-30 14:05:21",
       "album": {
-        "name": "Signals, Calls and Marches",
-        "url": "https://open.spotify.com/album/3MylADAiyOAf5ddH6iiflo"
+        "name": "Car Button Cloth",
+        "url": "https://open.spotify.com/album/5NQ9PLQuzOIKG4R1lxcVMf"
       },
       "artists": [
         {
-          "name": "Mission Of Burma",
-          "url": "https://open.spotify.com/artist/5UMQV83wwZCCvRSQCVjZw6"
+          "name": "The Lemonheads",
+          "url": "https://open.spotify.com/artist/6w7fc6IZlo5zwBaKT5jU1X"
         }
       ],
-      "duration_ms": 233573,
-      "name": "That's When I Reach For My Revolver",
-      "url": "https://open.spotify.com/track/3bSKHihztyH9D1ZyQsoqzI"
+      "duration_ms": 170906,
+      "name": "If I Could Talk I'd Tell You",
+      "url": "https://open.spotify.com/track/7F8eSGduNKaqn16evCtdB0"
     },
     {
       "added_at": "2022-05-30 14:05:21",
@@ -1475,22 +1491,6 @@
     {
       "added_at": "2022-05-30 14:05:21",
       "album": {
-        "name": "Car Button Cloth",
-        "url": "https://open.spotify.com/album/5NQ9PLQuzOIKG4R1lxcVMf"
-      },
-      "artists": [
-        {
-          "name": "The Lemonheads",
-          "url": "https://open.spotify.com/artist/6w7fc6IZlo5zwBaKT5jU1X"
-        }
-      ],
-      "duration_ms": 170906,
-      "name": "If I Could Talk I'd Tell You",
-      "url": "https://open.spotify.com/track/7F8eSGduNKaqn16evCtdB0"
-    },
-    {
-      "added_at": "2022-05-30 14:05:21",
-      "album": {
         "name": "24 Hour Revenge Therapy (Remastered)",
         "url": "https://open.spotify.com/album/3n1jTsW0E5gEsiftAFx3N6"
       },
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2022-05-30 14:05:21",
       "album": {
-        "name": "Mic City Sons",
-        "url": "https://open.spotify.com/album/0D3hElyxCMZnBVI4pDMSAL"
-      },
-      "artists": [
-        {
-          "name": "Heatmiser",
-          "url": "https://open.spotify.com/artist/59IPo3F7aZifhZtHnoGHbo"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Plainclothes Man",
-      "url": "https://open.spotify.com/track/7yYf5GF0jX6M6KywKygE0c"
-    },
-    {
-      "added_at": "2022-05-30 14:05:21",
-      "album": {
         "name": "Dusk at Cubist Castle",
         "url": "https://open.spotify.com/album/7IBuhzVZPhSqMDMIP60Ehh"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 112066,
       "name": "Jumping Fences",
       "url": "https://open.spotify.com/track/36Us7iQfslxRe1sOqUDmyt"
+    },
+    {
+      "added_at": "2022-05-30 14:05:21",
+      "album": {
+        "name": "Mic City Sons",
+        "url": "https://open.spotify.com/album/0D3hElyxCMZnBVI4pDMSAL"
+      },
+      "artists": [
+        {
+          "name": "Heatmiser",
+          "url": "https://open.spotify.com/artist/59IPo3F7aZifhZtHnoGHbo"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Plainclothes Man",
+      "url": "https://open.spotify.com/track/7yYf5GF0jX6M6KywKygE0c"
     },
     {
       "added_at": "2022-05-30 14:05:21",

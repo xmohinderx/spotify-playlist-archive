@@ -1,12 +1,12 @@
 {
   "description": "The best of today's funk. Cover: Dabeull",
-  "num_followers": 270219,
+  "num_followers": 270100,
   "original_name": "Nu-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQ4NjUyMCwwMDAwMDAwMGU4NDAwYjg3ZWIwYzIwZmQxNzZkODRlZjJlZmQwZWIw",
+  "snapshot_id": "MTY2MjA5MTMyMCwwMDAwMDAwMGY5NGE1ZDM5MDY2YWIzMjYwMTZhODVmZDYzZGRmZGZm",
   "tracks": [
     {
       "added_at": "2022-08-26 04:02:00",
@@ -61,6 +61,22 @@
       "url": "https://open.spotify.com/track/2GtECeftLDCtulYx0sIiXP"
     },
     {
+      "added_at": "2022-09-02 04:02:00",
+      "album": {
+        "name": "Keep On Smiling",
+        "url": "https://open.spotify.com/album/0SbaC7OZOVB2WKGzf9ZMSQ"
+      },
+      "artists": [
+        {
+          "name": "Two Door Cinema Club",
+          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
+        }
+      ],
+      "duration_ms": 262356,
+      "name": "Everybody's Cool",
+      "url": "https://open.spotify.com/track/5HUxswbr7V4fzwG1LGCf7U"
+    },
+    {
       "added_at": "2022-08-19 04:02:00",
       "album": {
         "name": "Olive",
@@ -111,6 +127,26 @@
       "duration_ms": 136773,
       "name": "Major Love",
       "url": "https://open.spotify.com/track/5YwslI1NOE5ZIs99KYtO0z"
+    },
+    {
+      "added_at": "2022-09-02 04:02:00",
+      "album": {
+        "name": "Doubts (Live from Studio 54, 2022)",
+        "url": "https://open.spotify.com/album/3hMtt6d0eyyfm1lOI3O9ib"
+      },
+      "artists": [
+        {
+          "name": "The Past",
+          "url": "https://open.spotify.com/artist/1wHteDz57DCfgztS5vR2jU"
+        },
+        {
+          "name": "Robbie Rosen",
+          "url": "https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM"
+        }
+      ],
+      "duration_ms": 203228,
+      "name": "Doubts - Live from Studio 54, 2022",
+      "url": "https://open.spotify.com/track/3rzEkGL4fjIB6hdIx2DZc5"
     },
     {
       "added_at": "2022-08-26 04:02:00",
@@ -1545,26 +1581,6 @@
       "url": "https://open.spotify.com/track/7kGtjCDWSXuImBomjoeKS5"
     },
     {
-      "added_at": "2021-09-17 04:02:00",
-      "album": {
-        "name": "GET DOWN",
-        "url": "https://open.spotify.com/album/0tWjDz7dJv6Hrh2J4vO8eZ"
-      },
-      "artists": [
-        {
-          "name": "Marlon McClain",
-          "url": "https://open.spotify.com/artist/4koQLefRqeoEQcHYt4lMKq"
-        },
-        {
-          "name": "BD3",
-          "url": "https://open.spotify.com/artist/7HXr3w238HsQoQInMLxosZ"
-        }
-      ],
-      "duration_ms": 99068,
-      "name": "GET DOWN",
-      "url": "https://open.spotify.com/track/3zylRjS84s0SgiB72bvxR0"
-    },
-    {
       "added_at": "2021-09-10 04:02:00",
       "album": {
         "name": "Blue Solstice: Volume 1",
@@ -1631,26 +1647,6 @@
       "duration_ms": 250283,
       "name": "Lesson",
       "url": "https://open.spotify.com/track/3cR97t8jvOLzIUU4s4mWS4"
-    },
-    {
-      "added_at": "2021-10-01 04:01:00",
-      "album": {
-        "name": "Happy Meal",
-        "url": "https://open.spotify.com/album/644apP2mf0OYoBgU2iahms"
-      },
-      "artists": [
-        {
-          "name": "Apollo Theo",
-          "url": "https://open.spotify.com/artist/4gdIEqgsdPdiAyNyArsLRz"
-        },
-        {
-          "name": "Jaz Lund",
-          "url": "https://open.spotify.com/artist/76wFPyb3pS7rjiDOJOeS7P"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Happy Meal",
-      "url": "https://open.spotify.com/track/2XA4OlwOVNnm09yMXUc1nI"
     },
     {
       "added_at": "2021-07-23 04:01:00",

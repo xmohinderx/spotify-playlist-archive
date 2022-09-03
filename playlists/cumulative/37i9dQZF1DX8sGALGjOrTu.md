@@ -4,7 +4,7 @@
 
 > When emo and hardcore fell hard for each other.
 
-172 songs - 11 hr 3 min - [published](https://open.spotify.com/playlist/7AabT1bJ1kvk7gPJFBbjjL)
+173 songs - 11 hr 6 min - [published](https://open.spotify.com/playlist/7AabT1bJ1kvk7gPJFBbjjL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Decoration \- Rock Version](https://open.spotify.com/track/6b9zC4tbdV3jmRtpErsKP1) | [The Early November](https://open.spotify.com/artist/2rxtSTPBJawYhQAXIpgEAi) | [The Mother, The Mechanic, And The Path](https://open.spotify.com/album/6ArZlxEdAfMNjsGt64hnsw) | 3:17 | 2021-12-07 | 2022-07-29 |
 | [Devil In Jersey City](https://open.spotify.com/track/14fcbToPrshMsN1IY8CKvE) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [The Second Stage Turbine Blade \(Re\-Issue\)](https://open.spotify.com/album/0puQN87m8wxSu8lcDkwV2k) | 4:47 | 2021-12-07 |  |
 | [Die Romantic](https://open.spotify.com/track/3t9OWuyMpQclTWD6ABjqXj) | [Aiden](https://open.spotify.com/artist/1FNjzdmDeHeZjU5qUJlQ1G) | [Nightmare Anatomy](https://open.spotify.com/album/2D1VW1OkgB4t2x8vLWu2Az) | 3:40 | 2021-12-07 | 2022-07-28 |
+| [Die Romantic](https://open.spotify.com/track/6X6hTTh32bJM24wYY26MTc) | [Aiden](https://open.spotify.com/artist/1FNjzdmDeHeZjU5qUJlQ1G) | [Nightmare Anatomy](https://open.spotify.com/album/2K3Ga1V2OzVtBLemgMDcIB) | 3:40 | 2021-12-07 |  |
 | [Do It Now Remember It Later](https://open.spotify.com/track/3ikf8zLuO1MACbNFfDvJ12) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [Let's Cheers To This](https://open.spotify.com/album/4TuNgoALZ10zEOHgfkxs8T) | 3:23 | 2021-12-07 |  |
 | [Don't Waste Your Breath](https://open.spotify.com/track/75mBsDQrHEQfuyK8ZUHr14) | [Close to Home](https://open.spotify.com/artist/1NgynHOx23zTkveKFZC7lu) | [Momentum](https://open.spotify.com/album/6wXAqWSjKlf2NTWUhu6pdC) | 3:34 | 2021-12-07 | 2022-06-24 |
 | [Dream to Make Believe](https://open.spotify.com/track/33kiSXAy1GBwqOh4O7v9Lv) | [Armor For Sleep](https://open.spotify.com/artist/7eSbps3Uha3MMBNWhMYa2H) | [Dream to Make Believe](https://open.spotify.com/album/2BpTMalKI3yhZ2tVATUPXk) | 3:01 | 2021-12-07 | 2022-07-26 |
@@ -170,7 +171,7 @@
 | [Wake Up](https://open.spotify.com/track/6mKvriTiArIIJWa2IEQ3dN) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [The Black Swan](https://open.spotify.com/album/0Qk9nVlmC49ZNo9j14khzF) | 3:31 | 2021-12-07 | 2022-08-17 |
 | [Waking the Demon](https://open.spotify.com/track/1ZEoYuekZQo62DLFtPVdqT) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Scream Aim Fire](https://open.spotify.com/album/04VE36yBM6GyJpDtD61e0p) | 4:07 | 2021-12-07 |  |
 | [Waking the Demon](https://open.spotify.com/track/6RQtpVNDkfM91CpkCuRBzP) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Scream Aim Fire](https://open.spotify.com/album/1vu0ReYrTmj5ylzSejEUsc) | 4:07 | 2021-12-07 | 2022-07-29 |
-| [Walls](https://open.spotify.com/track/7zVv1G1EB8k7BbrTF6f2SQ) | [Emery](https://open.spotify.com/artist/4feAxLUxIU7G4KXhH0h2ni) | [The Weak's End](https://open.spotify.com/album/7fiFm9mCrQ9s0iswgK4X0a) | 3:23 | 2021-12-07 |  |
+| [Walls](https://open.spotify.com/track/7zVv1G1EB8k7BbrTF6f2SQ) | [Emery](https://open.spotify.com/artist/4feAxLUxIU7G4KXhH0h2ni) | [The Weak's End](https://open.spotify.com/album/7fiFm9mCrQ9s0iswgK4X0a) | 3:23 | 2021-12-07 | 2022-09-03 |
 | [War All The Time](https://open.spotify.com/track/43CG5O08Tj6ODmSWQ9pfvF) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [War All The Time](https://open.spotify.com/album/7gd57Ics8NX1LGdGgvYZ0t) | 4:32 | 2021-12-07 |  |
 | [We Sleep Forever](https://open.spotify.com/track/3XyNeWiP6IogXUNdQLS6Qg) | [Aiden](https://open.spotify.com/artist/1FNjzdmDeHeZjU5qUJlQ1G) | [Rain In Hell](https://open.spotify.com/album/4rMIjVfRgrRml5cZyQ8Cgv) | 3:17 | 2021-12-07 | 2022-07-29 |
 | [Welcome Home](https://open.spotify.com/track/42GP0xKtkolBnmqQRvSllO) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [Good Apollo I'm Burning Star IV Volume One: From Fear Through The Eyes Of Madness](https://open.spotify.com/album/4nYsnQpTAQaPzrPc6rOsBN) | 6:14 | 2021-12-07 |  |

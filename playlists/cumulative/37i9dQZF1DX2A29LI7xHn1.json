@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Crossing over like Allen I. Cover: Doja Cat\n",
+  "description": "Crossing over like Allen I. Cover: Tyga\n",
   "name": "Signed XOXO",
   "published_playlist_ids": [
     "2r5DE6CSqTiYmBM4pn2qN9"
@@ -347,7 +347,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 156083,
       "name": "Are You Entertained (feat. Ed Sheeran)",
       "url": "https://open.spotify.com/track/5bLGQqcpsz5ISWeihZfJnR"
@@ -387,7 +387,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 183306,
       "name": "Aye Yai Yai (with Yung Bleu)",
       "url": "https://open.spotify.com/track/5598VtNWcsDXh61B70Ryco"
@@ -2154,6 +2154,24 @@
     },
     {
       "album": {
+        "name": "Fantastic",
+        "url": "https://open.spotify.com/album/1N5NSxPMp1hpqwM5v5KIkz"
+      },
+      "artists": [
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172361,
+      "name": "Fantastic",
+      "url": "https://open.spotify.com/track/7fdTVjOFYWyfUXXTpIL917"
+    },
+    {
+      "album": {
         "name": "Feel Good (feat. Lil Tjay)",
         "url": "https://open.spotify.com/album/6dbeacXCPoTEfTqfVQ9IvX"
       },
@@ -3508,6 +3526,24 @@
     },
     {
       "album": {
+        "name": "Little Miss",
+        "url": "https://open.spotify.com/album/2yJNQq4qviVMcukvnoFEzy"
+      },
+      "artists": [
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190370,
+      "name": "Little Miss",
+      "url": "https://open.spotify.com/track/3Tv0qk6Zz09z8tueWLRW3i"
+    },
+    {
+      "album": {
         "name": "Shape Up",
         "url": "https://open.spotify.com/album/0sdLAra6HEkMJuxB7ZkXSi"
       },
@@ -3563,7 +3599,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 250722,
       "name": "LONDON (feat. J. Cole)",
       "url": "https://open.spotify.com/track/5vhrsx08dHh2QcVh1Rsiwt"
@@ -3725,6 +3761,24 @@
       "duration_ms": 243189,
       "name": "Loyal To A Fault (feat. Bryson Tiller, Lil Durk)",
       "url": "https://open.spotify.com/track/6QTTPp4rzMqcbWWzgrGf9c"
+    },
+    {
+      "album": {
+        "name": "Luv Me Again",
+        "url": "https://open.spotify.com/album/5eJKFgn1w9nPytqjnt1x0s"
+      },
+      "artists": [
+        {
+          "name": "PnB Rock",
+          "url": "https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127929,
+      "name": "Luv Me Again",
+      "url": "https://open.spotify.com/track/6jXaJ37W4yKIBOEMpjGlli"
     },
     {
       "album": {
@@ -5437,7 +5491,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 144509,
       "name": "Seduce & Scheme (RAP SH!T: Soundtrack From The Max Original Series)",
       "url": "https://open.spotify.com/track/7soX1jrCsDhZdwikQiiibk"

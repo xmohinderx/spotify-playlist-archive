@@ -4,11 +4,12 @@
 
 > Respira, inspira..\. Uma seleção musical ideal para você relaxar.
 
-182 songs - 8 hr 56 min - [published](https://open.spotify.com/playlist/04VqmIAE8iwyctfiRi2dWU)
+185 songs - 9 hr 5 min - [published](https://open.spotify.com/playlist/04VqmIAE8iwyctfiRi2dWU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A côté de toi](https://open.spotify.com/track/1Pr6ajOmxuhjmn4CwuBxle) | [Nuit Pluie](https://open.spotify.com/artist/6fPF7rV8SX0fysuJVs7mZb) | [A côté de toi](https://open.spotify.com/album/25AARypQIJKCdYgunYo0OS) | 2:56 | 2022-02-18 |  |
+| [A Day By The Sea](https://open.spotify.com/track/32caN3mL4dftJrVNKYwr1t) | [On Dunes](https://open.spotify.com/artist/6oMeZudDfeCsLbPHmZFt1x) | [A Day By The Sea](https://open.spotify.com/album/7D3GuuvNP5IwTYwZcN1g5j) | 3:41 | 2022-09-02 |  |
 | [A Free Mind](https://open.spotify.com/track/2W3IFaBdj4QzU6NSR9mCQ1) | [Jupos](https://open.spotify.com/artist/2lXry9UbuyQKv0yDP4qSFB) | [A Free Mind](https://open.spotify.com/album/0PVEmsVmGT0MKASkABJbEe) | 3:30 | 2022-06-16 |  |
 | [A Night In Spring](https://open.spotify.com/track/6j6wtwEtxK5ZAXzRK47WED) | [Ardah](https://open.spotify.com/artist/6mQg8hTrGBvS36Jjl7Ajr2) | [A Night In Spring](https://open.spotify.com/album/7iLqhJMN4MlHHsp0JGbtJ6) | 2:31 | 2022-03-08 |  |
 | [A Whisper In The Dark](https://open.spotify.com/track/1JSfa72GZUWBydnIcI93k5) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [Incomplete](https://open.spotify.com/album/3K2G1cnq8sUdsnzYx1JVww) | 2:19 | 2022-02-18 | 2022-07-29 |
@@ -80,6 +81,7 @@
 | [Hermosa](https://open.spotify.com/track/5Qg04tWgRG0Yv8VNRUKs9k) | [Julia Alvarez](https://open.spotify.com/artist/1G10mtuBoefYi1F0aNfa6G) | [Hermosa](https://open.spotify.com/album/5lLEiFsDZ1OexGJOxxfQnp) | 2:58 | 2022-02-18 |  |
 | [Hesperus](https://open.spotify.com/track/5BPskS9THo8GzpNB1prEOM) | [Rosa Løvstrøm](https://open.spotify.com/artist/13f3uLVCX4o7wjqwtVlDwC) | [Hesperus](https://open.spotify.com/album/3HzGSOjcVYWlvhLBIf60JH) | 3:20 | 2022-02-18 |  |
 | [Hollow](https://open.spotify.com/track/0r0SemZMW04XkiIp8dvFQQ) | [Smith/Hill](https://open.spotify.com/artist/7HBGJDqgtjAhCnoFpZzFDS) | [Hollow](https://open.spotify.com/album/3fuPthOuUnuZw9aC7H1qyt) | 2:37 | 2022-02-18 |  |
+| [Hope For Tomorrow](https://open.spotify.com/track/3KDUPdVPn8GTeqWo90MEIs) | [Luca Sana](https://open.spotify.com/artist/4s8JJteAbznSpmyrVCkSGA) | [Hope For Tomorrow](https://open.spotify.com/album/5LnDRliCzdyPUIcasFKzVR) | 2:36 | 2022-09-02 |  |
 | [I et andet liv](https://open.spotify.com/track/48UNHWGzRfk4AOKrCJM7XJ) | [Minik Knudsen](https://open.spotify.com/artist/0vPGOBFcfVsCzqsYTxubi6) | [I et andet liv](https://open.spotify.com/album/0g1IbymnrPiH2sgYQX1YKG) | 3:06 | 2022-02-18 |  |
 | [I Promise](https://open.spotify.com/track/1XH3miXC6EsroQKHct8ygN) | [Gary Koepp](https://open.spotify.com/artist/03b5zfYHJxK8v6IpTnVUlX) | [I Promise](https://open.spotify.com/album/2o2U7cZ6PCZMe1nGR6ZDH1) | 3:23 | 2022-02-18 |  |
 | [Inner Balance](https://open.spotify.com/track/15lQpJKviToQERV0rsDbEp) | [Figgy Malone](https://open.spotify.com/artist/0MeNDWmyEBS65fk2Vihetl) | [Inner Balance](https://open.spotify.com/album/6Ej5kB2huJ30SKb0QXgXei) | 3:08 | 2022-02-18 |  |
@@ -163,6 +165,7 @@
 | [Speed of Light](https://open.spotify.com/track/34BSd3iWTdJ38hhTxUP5vw) | [Oliver Évilo](https://open.spotify.com/artist/6pr16671AS8qchaPqDDM0Y) | [Sleep](https://open.spotify.com/album/1tFb4gpyJ8AxTbAyvgMOob) | 2:01 | 2022-02-18 |  |
 | [Stillness of Mind](https://open.spotify.com/track/5NL5Ez564SBRCpaaxB89CP) | [Taylor Dawson](https://open.spotify.com/artist/7triIHgYSjbQ6ahcPBgicy) | [Stillness of Mind](https://open.spotify.com/album/479Isl9ZcoSHeZtKPB8bX4) | 3:08 | 2022-02-18 |  |
 | [Sueño tranquilo](https://open.spotify.com/track/7vCDAK4DJNr1GHYEG3Ylyp) | [Pedro Caceres](https://open.spotify.com/artist/61YOovGWdnYImyV9dgnaMA) | [Sueño tranquilo](https://open.spotify.com/album/7jstHQo9AWHr8buCOkbM1K) | 3:02 | 2022-02-18 |  |
+| [The Broken](https://open.spotify.com/track/5zYA6XdGJbTF5zJGbLyjL3) | [Juni](https://open.spotify.com/artist/68kbxgcI5HmdfhnfW3vkbv) | [The Broken](https://open.spotify.com/album/18FKM6nTXUBpyKRE5185Fb) | 3:03 | 2022-09-02 |  |
 | [The Day is Done](https://open.spotify.com/track/5cVKlN0vdJiXiwc3F4HcYX) | [Ellia Dunn](https://open.spotify.com/artist/4TxtbbN9ln1SgIcf9NAjBw) | [The Day is Done](https://open.spotify.com/album/5cC2JD0wxNRmC5fdRnCn0U) | 3:31 | 2022-07-15 |  |
 | [The Edge of Love](https://open.spotify.com/track/5awyHvXpb5txqlRuqUiHAl) | [Dawn Huntley](https://open.spotify.com/artist/6uyCGuIi7ItiVD9zVFaa4s) | [The Edge of Love](https://open.spotify.com/album/3pKPQzSHTrCBpUVsd00g5Y) | 2:02 | 2022-02-18 |  |
 | [The Garden](https://open.spotify.com/track/2OaoXYurShXZuFU5hmUva6) | [Vita Menzer](https://open.spotify.com/artist/42qLi1hQmxw9USs3HEfXVV) | [The Garden](https://open.spotify.com/album/45dL7k8Mvl17qNTwRdE1OO) | 2:27 | 2022-02-18 |  |

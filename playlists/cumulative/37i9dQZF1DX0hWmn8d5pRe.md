@@ -2,7 +2,7 @@
 
 ### [Born To Run 150 BPM](https://open.spotify.com/playlist/37i9dQZF1DX0hWmn8d5pRe)
 
-> Run to this collection of heavy rock jams.
+> Run to this collection of rock jams.
 
 166 songs - 11 hr 40 min - [published](https://open.spotify.com/playlist/5XZ0SzCrSLHVIM2j43NcHt)
 

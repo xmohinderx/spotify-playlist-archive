@@ -2128,6 +2128,28 @@
     },
     {
       "album": {
+        "name": "Unsere Bank",
+        "url": "https://open.spotify.com/album/3Wfmjr6HuaCjt0jzSyaufv"
+      },
+      "artists": [
+        {
+          "name": "Provinz",
+          "url": "https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx"
+        },
+        {
+          "name": "Danger Dan",
+          "url": "https://open.spotify.com/artist/2jXb8AWz82Sn3RRGOaia7a"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170772,
+      "name": "Unsere Bank",
+      "url": "https://open.spotify.com/track/3qUwFUpcYidCB9VbZaV0XX"
+    },
+    {
+      "album": {
         "name": "Unsere Bank (feat. Danger Dan)",
         "url": "https://open.spotify.com/album/3GHY2KycHJNt3mffQ0nIiR"
       },
@@ -2143,7 +2165,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 170772,
       "name": "Unsere Bank (feat. Danger Dan)",
       "url": "https://open.spotify.com/track/1Tb272NQuHyWVAlYZEcJDt"

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Oi nom\u00e1s ese cumbi\u00f3n! ",
-  "num_followers": 104421,
+  "num_followers": 104649,
   "original_name": "Cumbias Para Bailar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTQ4MjYxMCwwMDAwMDAwMGRiYTYxZjFmYTY4YWNjNzk2MTEyMjZiYWUzYzJlODk5",
+  "snapshot_id": "MTY1OTQ4MjYxMCwwMDAwMDAwMDU3NGJmY2QwODU3ZWEwMTNiNzRhYjI0OTFjMzM2MjMy",
   "tracks": [
     {
       "added_at": "2022-08-02 23:23:30",
@@ -471,22 +471,6 @@
     {
       "added_at": "2022-08-02 23:23:30",
       "album": {
-        "name": "De Mil Maneras",
-        "url": "https://open.spotify.com/album/2KY2R606LkTJcyDy0pPGc8"
-      },
-      "artists": [
-        {
-          "name": "Sonora Siguaray",
-          "url": "https://open.spotify.com/artist/5mJH0BUCHkK1xHYde4pAgv"
-        }
-      ],
-      "duration_ms": 246733,
-      "name": "Que Nadie Sepa Mi Sufrir",
-      "url": "https://open.spotify.com/track/746BX8eh7gTFJUaVwF3Hpk"
-    },
-    {
-      "added_at": "2022-08-02 23:23:30",
-      "album": {
         "name": "Corazoncito Pum Pum",
         "url": "https://open.spotify.com/album/07MvwQNWa6J5fSw3FSS4C5"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 207516,
       "name": "Como Decirte Adios",
       "url": "https://open.spotify.com/track/0NpBzxRYK7lcC0T98mLjCI"
+    },
+    {
+      "added_at": "2022-08-02 23:23:30",
+      "album": {
+        "name": "De Mil Maneras",
+        "url": "https://open.spotify.com/album/2KY2R606LkTJcyDy0pPGc8"
+      },
+      "artists": [
+        {
+          "name": "Sonora Siguaray",
+          "url": "https://open.spotify.com/artist/5mJH0BUCHkK1xHYde4pAgv"
+        }
+      ],
+      "duration_ms": 246733,
+      "name": "Que Nadie Sepa Mi Sufrir",
+      "url": "https://open.spotify.com/track/746BX8eh7gTFJUaVwF3Hpk"
     },
     {
       "added_at": "2022-08-02 23:23:30",
@@ -567,34 +567,18 @@
     {
       "added_at": "2022-08-02 23:23:30",
       "album": {
-        "name": "Felicidad",
-        "url": "https://open.spotify.com/album/62sFaXABrQ6potGL10NAtl"
+        "name": "El Condor Legendario",
+        "url": "https://open.spotify.com/album/1JizA2c3lbWRkz7p0jZEeG"
       },
       "artists": [
         {
-          "name": "Los Socios Del Ritmo",
-          "url": "https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW"
+          "name": "Aniceto Molina",
+          "url": "https://open.spotify.com/artist/0vpwDjHfD1T65OcmvpcF0S"
         }
       ],
-      "duration_ms": 197640,
-      "name": "Felicidad",
-      "url": "https://open.spotify.com/track/5BAbezIjIvHR4VOMECrIv9"
-    },
-    {
-      "added_at": "2022-08-02 23:23:30",
-      "album": {
-        "name": "Corazoncito Pum Pum",
-        "url": "https://open.spotify.com/album/07MvwQNWa6J5fSw3FSS4C5"
-      },
-      "artists": [
-        {
-          "name": "Los Yaguar\u00fa",
-          "url": "https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ"
-        }
-      ],
-      "duration_ms": 228675,
-      "name": "Vida No Te Vayas",
-      "url": "https://open.spotify.com/track/6GU3eVzFRKEFme03ut4b6G"
+      "duration_ms": 266866,
+      "name": "El Diario De Un Borracho",
+      "url": "https://open.spotify.com/track/3A4awt6Y9DwHBRuFDoRX5S"
     },
     {
       "added_at": "2022-08-02 23:23:30",
@@ -615,18 +599,34 @@
     {
       "added_at": "2022-08-02 23:23:30",
       "album": {
-        "name": "El Condor Legendario",
-        "url": "https://open.spotify.com/album/1JizA2c3lbWRkz7p0jZEeG"
+        "name": "Corazoncito Pum Pum",
+        "url": "https://open.spotify.com/album/07MvwQNWa6J5fSw3FSS4C5"
       },
       "artists": [
         {
-          "name": "Aniceto Molina",
-          "url": "https://open.spotify.com/artist/0vpwDjHfD1T65OcmvpcF0S"
+          "name": "Los Yaguar\u00fa",
+          "url": "https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ"
         }
       ],
-      "duration_ms": 266866,
-      "name": "El Diario De Un Borracho",
-      "url": "https://open.spotify.com/track/3A4awt6Y9DwHBRuFDoRX5S"
+      "duration_ms": 228675,
+      "name": "Vida No Te Vayas",
+      "url": "https://open.spotify.com/track/6GU3eVzFRKEFme03ut4b6G"
+    },
+    {
+      "added_at": "2022-08-02 23:23:30",
+      "album": {
+        "name": "Felicidad",
+        "url": "https://open.spotify.com/album/62sFaXABrQ6potGL10NAtl"
+      },
+      "artists": [
+        {
+          "name": "Los Socios Del Ritmo",
+          "url": "https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW"
+        }
+      ],
+      "duration_ms": 197640,
+      "name": "Felicidad",
+      "url": "https://open.spotify.com/track/5BAbezIjIvHR4VOMECrIv9"
     },
     {
       "added_at": "2022-08-02 23:23:30",
@@ -715,22 +715,6 @@
     {
       "added_at": "2022-08-02 23:23:30",
       "album": {
-        "name": "Conga Y Timbal",
-        "url": "https://open.spotify.com/album/5Lzi3hgh55BuQEj1RsD2VO"
-      },
-      "artists": [
-        {
-          "name": "Los Yaguar\u00fa",
-          "url": "https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ"
-        }
-      ],
-      "duration_ms": 219559,
-      "name": "Conga Y Timbal",
-      "url": "https://open.spotify.com/track/7hEGGwLjfVZ83avJgpt4Fc"
-    },
-    {
-      "added_at": "2022-08-02 23:23:30",
-      "album": {
         "name": "S\u00f3lo \u00c9xitos",
         "url": "https://open.spotify.com/album/5hfRoSTXSY1sISkQTVc0nn"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 220533,
       "name": "Cumbia Francesa",
       "url": "https://open.spotify.com/track/6gcI2byXyIPQM2tFybviuo"
+    },
+    {
+      "added_at": "2022-08-02 23:23:30",
+      "album": {
+        "name": "Conga Y Timbal",
+        "url": "https://open.spotify.com/album/5Lzi3hgh55BuQEj1RsD2VO"
+      },
+      "artists": [
+        {
+          "name": "Los Yaguar\u00fa",
+          "url": "https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ"
+        }
+      ],
+      "duration_ms": 219559,
+      "name": "Conga Y Timbal",
+      "url": "https://open.spotify.com/track/7hEGGwLjfVZ83avJgpt4Fc"
     },
     {
       "added_at": "2022-08-02 23:23:30",
@@ -763,22 +763,6 @@
     {
       "added_at": "2022-08-02 23:23:30",
       "album": {
-        "name": "Lo Nuevo Y\u2026Lo Mejor",
-        "url": "https://open.spotify.com/album/7qIY0P5qM0LzI1SYx9r8dZ"
-      },
-      "artists": [
-        {
-          "name": "Grupo Sonador",
-          "url": "https://open.spotify.com/artist/2EliUhznUrwHp1yJvhlHQF"
-        }
-      ],
-      "duration_ms": 216346,
-      "name": "El Gigante De Hierro",
-      "url": "https://open.spotify.com/track/4HswuCNDyzUiRFfb8DH5Ub"
-    },
-    {
-      "added_at": "2022-08-02 23:23:30",
-      "album": {
         "name": "Los Mejores Hits del Ano",
         "url": "https://open.spotify.com/album/60kUtdHaTgEfTFESmWUlcV"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 197040,
       "name": "Mariana",
       "url": "https://open.spotify.com/track/4xFjlFkQ4zrPKGhCwe6vNW"
+    },
+    {
+      "added_at": "2022-08-02 23:23:30",
+      "album": {
+        "name": "Lo Nuevo Y\u2026Lo Mejor",
+        "url": "https://open.spotify.com/album/7qIY0P5qM0LzI1SYx9r8dZ"
+      },
+      "artists": [
+        {
+          "name": "Grupo Sonador",
+          "url": "https://open.spotify.com/artist/2EliUhznUrwHp1yJvhlHQF"
+        }
+      ],
+      "duration_ms": 216346,
+      "name": "El Gigante De Hierro",
+      "url": "https://open.spotify.com/track/4HswuCNDyzUiRFfb8DH5Ub"
     },
     {
       "added_at": "2022-08-02 23:23:30",
@@ -823,22 +823,6 @@
       "duration_ms": 201333,
       "name": "Mama Cumbia",
       "url": "https://open.spotify.com/track/1dXasj2uaiOP4B5xPzRcDc"
-    },
-    {
-      "added_at": "2022-08-02 23:23:30",
-      "album": {
-        "name": "Corazoncito Pum Pum",
-        "url": "https://open.spotify.com/album/07MvwQNWa6J5fSw3FSS4C5"
-      },
-      "artists": [
-        {
-          "name": "Los Yaguar\u00fa",
-          "url": "https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ"
-        }
-      ],
-      "duration_ms": 226716,
-      "name": "Pero Tu Mirada",
-      "url": "https://open.spotify.com/track/5vePtAKApe4o16JIXCcHeS"
     },
     {
       "added_at": "2022-08-02 23:23:30",
@@ -879,18 +863,18 @@
     {
       "added_at": "2022-08-02 23:23:30",
       "album": {
-        "name": "Trayectoria",
-        "url": "https://open.spotify.com/album/0YtGKnOCOt9IYnHDsuJwQt"
+        "name": "Corazoncito Pum Pum",
+        "url": "https://open.spotify.com/album/07MvwQNWa6J5fSw3FSS4C5"
       },
       "artists": [
         {
-          "name": "Los Yes Yes",
-          "url": "https://open.spotify.com/artist/6h9B8wche8pbvJ0wiWKn8q"
+          "name": "Los Yaguar\u00fa",
+          "url": "https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ"
         }
       ],
-      "duration_ms": 315680,
-      "name": "El Verde De Tus Ojos - Remix",
-      "url": "https://open.spotify.com/track/1Nl4EXAxSulKlbiro793i4"
+      "duration_ms": 226716,
+      "name": "Pero Tu Mirada",
+      "url": "https://open.spotify.com/track/5vePtAKApe4o16JIXCcHeS"
     },
     {
       "added_at": "2022-08-02 23:23:30",
@@ -907,6 +891,22 @@
       "duration_ms": 213906,
       "name": "\u00a1Ay! El Amor",
       "url": "https://open.spotify.com/track/1qwxoareNYzR62kM9iK9Ww"
+    },
+    {
+      "added_at": "2022-08-02 23:23:30",
+      "album": {
+        "name": "Trayectoria",
+        "url": "https://open.spotify.com/album/0YtGKnOCOt9IYnHDsuJwQt"
+      },
+      "artists": [
+        {
+          "name": "Los Yes Yes",
+          "url": "https://open.spotify.com/artist/6h9B8wche8pbvJ0wiWKn8q"
+        }
+      ],
+      "duration_ms": 315680,
+      "name": "El Verde De Tus Ojos - Remix",
+      "url": "https://open.spotify.com/track/1Nl4EXAxSulKlbiro793i4"
     },
     {
       "added_at": "2022-08-02 23:23:30",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2022-08-02 23:23:30",
       "album": {
-        "name": "Tesoros De Coleccion",
-        "url": "https://open.spotify.com/album/7g5bfjbwzzYDTXFqBXaGfn"
-      },
-      "artists": [
-        {
-          "name": "Sonora Tropicana",
-          "url": "https://open.spotify.com/artist/0XKgjkHamDZy6obrO52fIs"
-        }
-      ],
-      "duration_ms": 247000,
-      "name": "El Hombre Que Yo Amo",
-      "url": "https://open.spotify.com/track/3bukaSKEeFiyYx9JfgiqYf"
-    },
-    {
-      "added_at": "2022-08-02 23:23:30",
-      "album": {
         "name": "Sue\u00f1o Contigo",
         "url": "https://open.spotify.com/album/6g6KhEpDtyvSFyoUXk9g2O"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 211506,
       "name": "Mami (Angel De Paz)",
       "url": "https://open.spotify.com/track/6Ty47iTpofWm0kytiMddq9"
+    },
+    {
+      "added_at": "2022-08-02 23:23:30",
+      "album": {
+        "name": "Tesoros De Coleccion",
+        "url": "https://open.spotify.com/album/7g5bfjbwzzYDTXFqBXaGfn"
+      },
+      "artists": [
+        {
+          "name": "Sonora Tropicana",
+          "url": "https://open.spotify.com/artist/0XKgjkHamDZy6obrO52fIs"
+        }
+      ],
+      "duration_ms": 247000,
+      "name": "El Hombre Que Yo Amo",
+      "url": "https://open.spotify.com/track/3bukaSKEeFiyYx9JfgiqYf"
     },
     {
       "added_at": "2022-08-02 23:23:30",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2022-08-02 23:23:30",
       "album": {
+        "name": "Locura De Amor",
+        "url": "https://open.spotify.com/album/5EDey3kMxdheEFK69Tq8EF"
+      },
+      "artists": [
+        {
+          "name": "Grupo Karo's",
+          "url": "https://open.spotify.com/artist/3wOf6DlTkRycQcnlDrTe2x"
+        }
+      ],
+      "duration_ms": 237080,
+      "name": "Amor Carnal",
+      "url": "https://open.spotify.com/track/2BvixI7ri9MTF60jLSZLGW"
+    },
+    {
+      "added_at": "2022-08-02 23:23:30",
+      "album": {
         "name": "Muy Tropical y Bailable",
         "url": "https://open.spotify.com/album/2MFR4ywLd3BPvVDa8U52Us"
       },
@@ -1247,22 +1263,6 @@
     {
       "added_at": "2022-08-02 23:23:30",
       "album": {
-        "name": "Locura De Amor",
-        "url": "https://open.spotify.com/album/5EDey3kMxdheEFK69Tq8EF"
-      },
-      "artists": [
-        {
-          "name": "Grupo Karo's",
-          "url": "https://open.spotify.com/artist/3wOf6DlTkRycQcnlDrTe2x"
-        }
-      ],
-      "duration_ms": 237080,
-      "name": "Amor Carnal",
-      "url": "https://open.spotify.com/track/2BvixI7ri9MTF60jLSZLGW"
-    },
-    {
-      "added_at": "2022-08-02 23:23:30",
-      "album": {
         "name": "T\u00fa Eres La Raz\u00f3n (Electrocumbia Remake)",
         "url": "https://open.spotify.com/album/2Ym9wv4J5XWjnkeWmG5r3w"
       },
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2022-08-02 23:23:30",
       "album": {
+        "name": "Duelo de Sonoras",
+        "url": "https://open.spotify.com/album/6cKW6XlgLPzuNM0f7emBjY"
+      },
+      "artists": [
+        {
+          "name": "Margarita la diosa de la cumbia",
+          "url": "https://open.spotify.com/artist/2vdi5RS6XV5Qy7J5GgDqgn"
+        }
+      ],
+      "duration_ms": 288560,
+      "name": "Esc\u00e1ndalo",
+      "url": "https://open.spotify.com/track/4EhRKeEN4RE7AWaI9pWXQ5"
+    },
+    {
+      "added_at": "2022-08-02 23:23:30",
+      "album": {
         "name": "Greatest Cumbia Classics Of Colombia, Vol. 1",
         "url": "https://open.spotify.com/album/53W9qG1q6xaKlUVuzkBNPV"
       },
@@ -1315,22 +1331,6 @@
       "duration_ms": 234706,
       "name": "Mi Cucu",
       "url": "https://open.spotify.com/track/2cUKBUN66IsL9lc8PdISQY"
-    },
-    {
-      "added_at": "2022-08-02 23:23:30",
-      "album": {
-        "name": "Duelo de Sonoras",
-        "url": "https://open.spotify.com/album/6cKW6XlgLPzuNM0f7emBjY"
-      },
-      "artists": [
-        {
-          "name": "Margarita la diosa de la cumbia",
-          "url": "https://open.spotify.com/artist/2vdi5RS6XV5Qy7J5GgDqgn"
-        }
-      ],
-      "duration_ms": 288560,
-      "name": "Esc\u00e1ndalo",
-      "url": "https://open.spotify.com/track/4EhRKeEN4RE7AWaI9pWXQ5"
     },
     {
       "added_at": "2022-08-02 23:23:30",
@@ -1535,26 +1535,6 @@
     {
       "added_at": "2022-08-02 23:23:30",
       "album": {
-        "name": "Juntos Por La Sonora",
-        "url": "https://open.spotify.com/album/0exIxyDjKib8Qbc7RTeIG5"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Dinamita",
-          "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
-        },
-        {
-          "name": "Mariana Seoane",
-          "url": "https://open.spotify.com/artist/5erc8Dr6fyYJSoIXJKlFZV"
-        }
-      ],
-      "duration_ms": 278120,
-      "name": "Esc\u00e1ndalo",
-      "url": "https://open.spotify.com/track/1MDqUM1XbzZ2wei3mrpPbA"
-    },
-    {
-      "added_at": "2022-08-02 23:23:30",
-      "album": {
         "name": "Coraz\u00f3n Enamorado",
         "url": "https://open.spotify.com/album/2MzkTpKrYylAQue1a1Jh6P"
       },
@@ -1571,6 +1551,26 @@
       "duration_ms": 300840,
       "name": "Coraz\u00f3n Enamorado",
       "url": "https://open.spotify.com/track/29xZSv5HOvmAI2bFIJnWHc"
+    },
+    {
+      "added_at": "2022-08-02 23:23:30",
+      "album": {
+        "name": "Juntos Por La Sonora",
+        "url": "https://open.spotify.com/album/0exIxyDjKib8Qbc7RTeIG5"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Dinamita",
+          "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
+        },
+        {
+          "name": "Mariana Seoane",
+          "url": "https://open.spotify.com/artist/5erc8Dr6fyYJSoIXJKlFZV"
+        }
+      ],
+      "duration_ms": 278120,
+      "name": "Esc\u00e1ndalo",
+      "url": "https://open.spotify.com/track/1MDqUM1XbzZ2wei3mrpPbA"
     },
     {
       "added_at": "2022-08-02 23:23:30",

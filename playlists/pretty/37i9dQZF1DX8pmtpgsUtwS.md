@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pmtpgsUtwS.md) - [plain]
 
 > Weaving magic with their music, Indian Classical style\. Cover\- Shadow and Light
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,790 likes - 66 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,801 likes - 66 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pmtpgsUtwS.md) - [plain]
 | 65 | [Luki \- Live](https://open.spotify.com/track/6ZtmKFdnEqyRaOcMKwWRsA) | [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a), [John McLaughlin](https://open.spotify.com/artist/4v0R1feRiuCDch7aAheVhY) | [Remember Shakti: Saturday Night In Bombay](https://open.spotify.com/album/6qD0dBDPOasER1sWmfLjuZ) | 5:38 |
 | 66 | [The Celestial Nymph \(Manassi Dussaham\)](https://open.spotify.com/track/3oN3Ko3rSGszXL8VCYAS5p) | [Agam](https://open.spotify.com/artist/4DHXXUP4qza7DacDKVT23G) | [The Celestial Nymph \(Manassi Dussaham\) \- Single](https://open.spotify.com/album/0QIlgq2GR8jTthBkdsGDft) | 8:31 |
 
-Snapshot ID: `MTY1ODI5ODQyNCwwMDAwMDAwMDlhOGFhOWE1MGI2NDA3YzIzNGQwZmNiYWE2Zjg1NmRi`
+Snapshot ID: `MTY2MjEwMzQ0NSwwMDAwMDAwMDlkNWNiOTcyYjU3YmU4YTdmZjI5NDc5MjdlYjY5Yzk5`

@@ -941,7 +941,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 242613,
       "name": "Con las Manos en la Masa",
       "url": "https://open.spotify.com/track/6fowwGHZH717DW2PfrvI7O"
@@ -2758,6 +2758,24 @@
     },
     {
       "album": {
+        "name": "Vamos a Darlo Todo",
+        "url": "https://open.spotify.com/album/3BgDMBLh8A0ckMRhIVY6nW"
+      },
+      "artists": [
+        {
+          "name": "Mickey Taveras",
+          "url": "https://open.spotify.com/artist/1iVpMZKqpnZWfCXO2vIozm"
+        }
+      ],
+      "date_added": "2021-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284421,
+      "name": "La Ventanita",
+      "url": "https://open.spotify.com/track/6VjR5nMX70LuBpfMMo2tTU"
+    },
+    {
+      "album": {
         "name": "Luchar\u00e9",
         "url": "https://open.spotify.com/album/6D1EQ3P1Rma06b68UPZCNe"
       },
@@ -2769,7 +2787,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 284533,
       "name": "La Ventanita",
       "url": "https://open.spotify.com/track/3jrbhJwKcWYgRPyNGXLhXz"
@@ -5023,7 +5041,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-02",
+      "date_removed": null,
       "duration_ms": 234600,
       "name": "Te Quiero",
       "url": "https://open.spotify.com/track/5Tk8DkD7gyfOaEkbd6DoRW"

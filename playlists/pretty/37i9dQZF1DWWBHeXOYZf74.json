@@ -1,32 +1,28 @@
 {
-  "description": "Genre-less. Quality first always. Cover: JID",
-  "num_followers": 1329400,
+  "description": "Genre-less. Quality first always. Cover: Kenny Beats",
+  "num_followers": 1329253,
   "original_name": "POLLEN",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTk3MjE0OCwwMDAwMDAwMDA5N2I5ODU1YmQxYTAxZDI3NjVkZDk5ZTNmYmYwY2Zh",
+  "snapshot_id": "MTY2MjE0MTc2MCwwMDAwMDAwMGY0MTQ0MWRmYWNkYjEyNjFjNTg5YTk4MDhkODc4OGFk",
   "tracks": [
     {
-      "added_at": "2022-08-26 04:01:00",
+      "added_at": "2022-09-02 04:01:00",
       "album": {
-        "name": "Easy v2",
-        "url": "https://open.spotify.com/album/01c1TtxDepIhj3i14YiRzA"
+        "name": "LOUIE",
+        "url": "https://open.spotify.com/album/3SKVtzmihlnGFylW5nC5kj"
       },
       "artists": [
         {
-          "name": "Baird",
-          "url": "https://open.spotify.com/artist/7GdGZWPHxDEu0ppvLoB4GO"
-        },
-        {
-          "name": "Kevin Abstract",
-          "url": "https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE"
+          "name": "Kenny Beats",
+          "url": "https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC"
         }
       ],
-      "duration_ms": 175302,
-      "name": "Easy v2",
-      "url": "https://open.spotify.com/track/1ZNOwjcEAqka5feaa5dEko"
+      "duration_ms": 106866,
+      "name": "Hold My Head",
+      "url": "https://open.spotify.com/track/4eSZUNz2flCKs7zESV50kW"
     },
     {
       "added_at": "2022-08-25 20:02:38",
@@ -47,6 +43,54 @@
       "duration_ms": 244262,
       "name": "Follow You",
       "url": "https://open.spotify.com/track/0QiIiiGroBqnleILFsPUuc"
+    },
+    {
+      "added_at": "2022-09-02 04:01:00",
+      "album": {
+        "name": "MK 3.5: In Your Eyes & A Deities Encore | Q & Quartz",
+        "url": "https://open.spotify.com/album/1Go6FfjxKnKipsnWuPJPZb"
+      },
+      "artists": [
+        {
+          "name": "Mount Kimbie",
+          "url": "https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl"
+        },
+        {
+          "name": "Dom Maker",
+          "url": "https://open.spotify.com/artist/0mOUTmvCZnw2EWdQqY3RGc"
+        },
+        {
+          "name": "slowthai",
+          "url": "https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP"
+        },
+        {
+          "name": "Danny Brown",
+          "url": "https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU"
+        }
+      ],
+      "duration_ms": 208946,
+      "name": "in your eyes",
+      "url": "https://open.spotify.com/track/73HRbponIzYwPXVbuc2yAg"
+    },
+    {
+      "added_at": "2022-09-02 04:01:00",
+      "album": {
+        "name": "Volcano",
+        "url": "https://open.spotify.com/album/6sk0HqPJwTGhBglyfXVmjH"
+      },
+      "artists": [
+        {
+          "name": "Moglii",
+          "url": "https://open.spotify.com/artist/0lIIsJafIVVi3ruN2vFzpS"
+        },
+        {
+          "name": "Palmaria",
+          "url": "https://open.spotify.com/artist/6FiIZF4NkLo6V2C0lovmrQ"
+        }
+      ],
+      "duration_ms": 169002,
+      "name": "Volcano",
+      "url": "https://open.spotify.com/track/49YdSfNFhK1emSgD2e7Mhx"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -71,6 +115,122 @@
       "duration_ms": 233077,
       "name": "Lauder Too (feat. Ravyn Lenae & Eryn Allen Kane)",
       "url": "https://open.spotify.com/track/5XCRe3sFlMuVfQAvv3JBwF"
+    },
+    {
+      "added_at": "2022-09-02 04:01:00",
+      "album": {
+        "name": "All Over This Party",
+        "url": "https://open.spotify.com/album/4ofp2cEcuD3oelw7Qp3ooz"
+      },
+      "artists": [
+        {
+          "name": "Sans Soucis",
+          "url": "https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc"
+        }
+      ],
+      "duration_ms": 212830,
+      "name": "All Over This Party",
+      "url": "https://open.spotify.com/track/4Wbfb7B6ke5nJZUHX0P7mk"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
+        "name": "Easy v2",
+        "url": "https://open.spotify.com/album/01c1TtxDepIhj3i14YiRzA"
+      },
+      "artists": [
+        {
+          "name": "Baird",
+          "url": "https://open.spotify.com/artist/7GdGZWPHxDEu0ppvLoB4GO"
+        },
+        {
+          "name": "Kevin Abstract",
+          "url": "https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE"
+        }
+      ],
+      "duration_ms": 175302,
+      "name": "Easy v2",
+      "url": "https://open.spotify.com/track/1ZNOwjcEAqka5feaa5dEko"
+    },
+    {
+      "added_at": "2022-09-02 04:01:00",
+      "album": {
+        "name": "Holding on to You",
+        "url": "https://open.spotify.com/album/5FJQTiYHMOL01mewrJk7i4"
+      },
+      "artists": [
+        {
+          "name": "Self Tape",
+          "url": "https://open.spotify.com/artist/2OqNVgWhbgGiCO4an8N5eI"
+        }
+      ],
+      "duration_ms": 252409,
+      "name": "Holding on to You",
+      "url": "https://open.spotify.com/track/3NOx5rHwKupINajmxRRnL1"
+    },
+    {
+      "added_at": "2022-08-03 13:29:30",
+      "album": {
+        "name": "candy reign (!)",
+        "url": "https://open.spotify.com/album/0z0crJtgrHGrqPXX3BitF2"
+      },
+      "artists": [
+        {
+          "name": "Jim Legxacy",
+          "url": "https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2"
+        }
+      ],
+      "duration_ms": 138000,
+      "name": "candy reign (!)",
+      "url": "https://open.spotify.com/track/35cVkyTqIGkwpg7OhIl5TE"
+    },
+    {
+      "added_at": "2022-09-02 04:01:00",
+      "album": {
+        "name": "ME vs ME",
+        "url": "https://open.spotify.com/album/4ieAnAU0Z8OmYcgoebSO45"
+      },
+      "artists": [
+        {
+          "name": "ELIZA",
+          "url": "https://open.spotify.com/artist/0PgYKqH7ohfAm9LFgWjpl8"
+        }
+      ],
+      "duration_ms": 273152,
+      "name": "ME vs ME",
+      "url": "https://open.spotify.com/track/56kDP4pURuK3YAS9TRSahR"
+    },
+    {
+      "added_at": "2022-09-02 04:01:00",
+      "album": {
+        "name": "LOUIE",
+        "url": "https://open.spotify.com/album/3SKVtzmihlnGFylW5nC5kj"
+      },
+      "artists": [
+        {
+          "name": "Kenny Beats",
+          "url": "https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC"
+        }
+      ],
+      "duration_ms": 110226,
+      "name": "Moire",
+      "url": "https://open.spotify.com/track/3KD4Tdiz6DFlvG2wjL4vBb"
+    },
+    {
+      "added_at": "2022-09-02 04:01:00",
+      "album": {
+        "name": "Nike",
+        "url": "https://open.spotify.com/album/4TheMbO9MrRGaDzJwyTyVx"
+      },
+      "artists": [
+        {
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+        }
+      ],
+      "duration_ms": 127624,
+      "name": "Nike",
+      "url": "https://open.spotify.com/track/1ueaBqr5S3NxQhj1gKgmwj"
     },
     {
       "added_at": "2022-08-05 04:00:00",
@@ -127,6 +287,22 @@
       "duration_ms": 176930,
       "name": "Picture in my mind",
       "url": "https://open.spotify.com/track/0z3YYobsavHguLTgqg5GC1"
+    },
+    {
+      "added_at": "2022-09-02 18:02:40",
+      "album": {
+        "name": "Hologram",
+        "url": "https://open.spotify.com/album/30ef2BpCTTCbxFFucsENZj"
+      },
+      "artists": [
+        {
+          "name": "Forest Claudette",
+          "url": "https://open.spotify.com/artist/4d26k6BPR9MhZyTj3g5yEM"
+        }
+      ],
+      "duration_ms": 206058,
+      "name": "Hologram",
+      "url": "https://open.spotify.com/track/0F2zGnaOrsVCOD900FebJk"
     },
     {
       "added_at": "2022-07-22 04:00:00",
@@ -583,22 +759,6 @@
       "duration_ms": 248000,
       "name": "Strangers (feat. A$AP Rocky and Run The Jewels)",
       "url": "https://open.spotify.com/track/5iP1KNUxchR64bieN9pE7z"
-    },
-    {
-      "added_at": "2022-08-03 13:29:30",
-      "album": {
-        "name": "candy reign (!)",
-        "url": "https://open.spotify.com/album/0z0crJtgrHGrqPXX3BitF2"
-      },
-      "artists": [
-        {
-          "name": "Jim Legxacy",
-          "url": "https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2"
-        }
-      ],
-      "duration_ms": 138000,
-      "name": "candy reign (!)",
-      "url": "https://open.spotify.com/track/35cVkyTqIGkwpg7OhIl5TE"
     },
     {
       "added_at": "2022-08-12 04:01:00",
@@ -1125,22 +1285,6 @@
       "url": "https://open.spotify.com/track/6bkedSfBm08y2ZWRl4v4iK"
     },
     {
-      "added_at": "2022-07-22 04:00:00",
-      "album": {
-        "name": "Coochie (a bedtime story)",
-        "url": "https://open.spotify.com/album/2cQKZRfGU3kSnxyNCHZuiZ"
-      },
-      "artists": [
-        {
-          "name": "Shygirl",
-          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
-        }
-      ],
-      "duration_ms": 182250,
-      "name": "Coochie (a bedtime story)",
-      "url": "https://open.spotify.com/track/1YlGZLo4J0URBx31Qvd5zg"
-    },
-    {
       "added_at": "2022-07-15 04:00:00",
       "album": {
         "name": "Message (Better Days)",
@@ -1533,22 +1677,6 @@
       "url": "https://open.spotify.com/track/4ipoHe6bjN9IeXr8CGJYgR"
     },
     {
-      "added_at": "2022-06-17 04:00:00",
-      "album": {
-        "name": "killer",
-        "url": "https://open.spotify.com/album/4BYCmmwbSU2bxcQEEI6RBU"
-      },
-      "artists": [
-        {
-          "name": "FKA twigs",
-          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
-        }
-      ],
-      "duration_ms": 176876,
-      "name": "killer",
-      "url": "https://open.spotify.com/track/4QUzLCXrpHO4c6dGyZlpO2"
-    },
-    {
       "added_at": "2022-05-24 15:24:16",
       "album": {
         "name": "Selfish Soul",
@@ -1649,26 +1777,6 @@
       "url": "https://open.spotify.com/track/7IBLt4Qarf4JDLxIQDv2O5"
     },
     {
-      "added_at": "2022-06-02 23:00:00",
-      "album": {
-        "name": "Un Verano Sin Ti",
-        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Buscabulla",
-          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
-        }
-      ],
-      "duration_ms": 339611,
-      "name": "Andrea",
-      "url": "https://open.spotify.com/track/44XjoNvtwevktFKjvVe1vH"
-    },
-    {
       "added_at": "2022-05-25 15:28:13",
       "album": {
         "name": "Another Sketch",
@@ -1759,38 +1867,6 @@
       "duration_ms": 240937,
       "name": "Please Do Not Lean (feat. BADBADNOTGOOD)",
       "url": "https://open.spotify.com/track/5uXO1sjZ7VbNKexKaFRna3"
-    },
-    {
-      "added_at": "2022-04-29 04:01:00",
-      "album": {
-        "name": "EL SUR",
-        "url": "https://open.spotify.com/album/1sHYyBeTBczpD87Bt3f8rz"
-      },
-      "artists": [
-        {
-          "name": "Girl Ultra",
-          "url": "https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls"
-        }
-      ],
-      "duration_ms": 186299,
-      "name": "BOMBAY",
-      "url": "https://open.spotify.com/track/6rQYdEoWTZZBqCJexRei11"
-    },
-    {
-      "added_at": "2022-05-20 04:00:00",
-      "album": {
-        "name": "Xtasy",
-        "url": "https://open.spotify.com/album/4zH7FPMFwa1Q1D1e9ZP3lV"
-      },
-      "artists": [
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        }
-      ],
-      "duration_ms": 178200,
-      "name": "Xtasy",
-      "url": "https://open.spotify.com/track/7yJ1KekatthELLQTE1VRc7"
     }
   ],
   "unique_name": "POLLEN",

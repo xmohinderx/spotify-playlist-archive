@@ -1,13 +1,33 @@
 {
-  "description": "Explore the ever-evolving folk & roots scene. Cover: Tedeschi Trucks Band",
-  "num_followers": 1831896,
+  "description": "Explore the ever-evolving folk & roots scene. Cover: Hermanos Guti\u00e9rrez",
+  "num_followers": 1831807,
   "original_name": "Roots Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQ4NjQwMCwwMDAwMDAwMDQ5MGU0ZjUzMGE1NzE0MTZlN2Y5YjdiOGM3OGM3YjFl",
+  "snapshot_id": "MTY2MjA5MTI2MCwwMDAwMDAwMDMyMDE3YjVhNTMxYjFmNmRhYzIzOWEwZjZhMzkxODIy",
   "tracks": [
+    {
+      "added_at": "2022-08-19 04:00:00",
+      "album": {
+        "name": "I Was Born To Love You",
+        "url": "https://open.spotify.com/album/7cwHkTgTHLbCUFB6hRi9QQ"
+      },
+      "artists": [
+        {
+          "name": "Ray LaMontagne",
+          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+        },
+        {
+          "name": "Sierra Ferrell",
+          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
+        }
+      ],
+      "duration_ms": 265843,
+      "name": "I Was Born To Love You",
+      "url": "https://open.spotify.com/track/3PG6V5yuFfo4APiovOQoRv"
+    },
     {
       "added_at": "2022-08-19 04:00:00",
       "album": {
@@ -43,6 +63,58 @@
       "duration_ms": 309746,
       "name": "You're Not Alone [Feat. Brandi Carlile]",
       "url": "https://open.spotify.com/track/4ltCYG04Xhzv5cViM6mp16"
+    },
+    {
+      "added_at": "2022-08-19 04:00:00",
+      "album": {
+        "name": "Monoflora",
+        "url": "https://open.spotify.com/album/398U3OCGdd08lD6gdMC0rE"
+      },
+      "artists": [
+        {
+          "name": "River Whyless",
+          "url": "https://open.spotify.com/artist/7gRGh8w4G9zaFJSaIYp8HH"
+        }
+      ],
+      "duration_ms": 223400,
+      "name": "Michigan Cherry",
+      "url": "https://open.spotify.com/track/0fOEjjXBEiyu395pW3C1eo"
+    },
+    {
+      "added_at": "2022-08-26 04:00:00",
+      "album": {
+        "name": "Tres Hermanos",
+        "url": "https://open.spotify.com/album/6EegfhQTzRiBxkmZJ79sC4"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Guti\u00e9rrez",
+          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
+        },
+        {
+          "name": "Dan Auerbach",
+          "url": "https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC"
+        }
+      ],
+      "duration_ms": 201413,
+      "name": "Tres Hermanos",
+      "url": "https://open.spotify.com/track/0cb9Ov9eC2eFxac6bCcUZl"
+    },
+    {
+      "added_at": "2022-09-02 04:01:00",
+      "album": {
+        "name": "You and Me On The Rock (In The Canyon Haze)",
+        "url": "https://open.spotify.com/album/22EMSIjfksTwA1yizWVXa6"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 257853,
+      "name": "You and Me On The Rock (In The Canyon Haze)",
+      "url": "https://open.spotify.com/track/7tmtdHPAoUZLuJqTnDR7FS"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -85,44 +157,36 @@
       "url": "https://open.spotify.com/track/1hCrL9BjC03mTYR5905Q9k"
     },
     {
-      "added_at": "2022-08-26 04:00:00",
+      "added_at": "2022-09-02 04:01:00",
       "album": {
-        "name": "Tres Hermanos",
-        "url": "https://open.spotify.com/album/6EegfhQTzRiBxkmZJ79sC4"
+        "name": "Mountain Song",
+        "url": "https://open.spotify.com/album/2LSEZyWtzulIr0vS1mD4Xy"
       },
       "artists": [
         {
-          "name": "Hermanos Guti\u00e9rrez",
-          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
-        },
-        {
-          "name": "Dan Auerbach",
-          "url": "https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC"
+          "name": "Flatland Cavalry",
+          "url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
         }
       ],
-      "duration_ms": 201413,
-      "name": "Tres Hermanos",
-      "url": "https://open.spotify.com/track/0cb9Ov9eC2eFxac6bCcUZl"
+      "duration_ms": 249920,
+      "name": "Mountain Song",
+      "url": "https://open.spotify.com/track/2mDdkeVuUsyIepwzLCxuu6"
     },
     {
       "added_at": "2022-08-19 04:00:00",
       "album": {
-        "name": "I Was Born To Love You",
-        "url": "https://open.spotify.com/album/7cwHkTgTHLbCUFB6hRi9QQ"
+        "name": "That's How I Got To Memphis",
+        "url": "https://open.spotify.com/album/2l1jCDzi1IHIykvqFyLJJI"
       },
       "artists": [
         {
-          "name": "Ray LaMontagne",
-          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
-        },
-        {
-          "name": "Sierra Ferrell",
-          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
+          "name": "The Brother Brothers",
+          "url": "https://open.spotify.com/artist/7bsyET4aRFBJ9dOtGeHCX5"
         }
       ],
-      "duration_ms": 265843,
-      "name": "I Was Born To Love You",
-      "url": "https://open.spotify.com/track/3PG6V5yuFfo4APiovOQoRv"
+      "duration_ms": 221320,
+      "name": "That's How I Got To Memphis",
+      "url": "https://open.spotify.com/track/6GJfsXltqAGluvLNCdQLUa"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -141,36 +205,40 @@
       "url": "https://open.spotify.com/track/6hAZx4PQIlwyazfANp6joe"
     },
     {
-      "added_at": "2022-08-19 04:00:00",
+      "added_at": "2022-09-02 04:01:00",
       "album": {
-        "name": "Monoflora",
-        "url": "https://open.spotify.com/album/398U3OCGdd08lD6gdMC0rE"
+        "name": "Hold My Hand",
+        "url": "https://open.spotify.com/album/0CyBAwMsqEOxlyUMIMB2I4"
       },
       "artists": [
         {
-          "name": "River Whyless",
-          "url": "https://open.spotify.com/artist/7gRGh8w4G9zaFJSaIYp8HH"
+          "name": "Wild Pink",
+          "url": "https://open.spotify.com/artist/2BS3fywRW33o5GygfzZaOZ"
+        },
+        {
+          "name": "Julien Baker",
+          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
         }
       ],
-      "duration_ms": 223400,
-      "name": "Michigan Cherry",
-      "url": "https://open.spotify.com/track/0fOEjjXBEiyu395pW3C1eo"
+      "duration_ms": 301506,
+      "name": "Hold My Hand",
+      "url": "https://open.spotify.com/track/0v3lkM0UK7RfbtdkeycqdI"
     },
     {
       "added_at": "2022-08-19 04:00:00",
       "album": {
-        "name": "That's How I Got To Memphis",
-        "url": "https://open.spotify.com/album/2l1jCDzi1IHIykvqFyLJJI"
+        "name": "Th\u00e9r\u00e8se",
+        "url": "https://open.spotify.com/album/1lbJOgLXOtyxQbvjt17eGT"
       },
       "artists": [
         {
-          "name": "The Brother Brothers",
-          "url": "https://open.spotify.com/artist/7bsyET4aRFBJ9dOtGeHCX5"
+          "name": "Maya Hawke",
+          "url": "https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x"
         }
       ],
-      "duration_ms": 221320,
-      "name": "That's How I Got To Memphis",
-      "url": "https://open.spotify.com/track/6GJfsXltqAGluvLNCdQLUa"
+      "duration_ms": 207389,
+      "name": "Th\u00e9r\u00e8se",
+      "url": "https://open.spotify.com/track/1LklAGxyeK07JYRzw3Vzx9"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -531,26 +599,6 @@
     {
       "added_at": "2022-08-19 04:00:00",
       "album": {
-        "name": "In These Silent Days",
-        "url": "https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        },
-        {
-          "name": "Lucius",
-          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
-        }
-      ],
-      "duration_ms": 230098,
-      "name": "You and Me On The Rock (feat. Lucius)",
-      "url": "https://open.spotify.com/track/61X73CJcpwGIxgQgKEXbw0"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
         "name": "Ready or Not (feat. Sierra Ferrell)",
         "url": "https://open.spotify.com/album/5JcW9l6CD3JJbn7DbJrrkh"
       },
@@ -723,22 +771,6 @@
       "duration_ms": 266706,
       "name": "Hurricane",
       "url": "https://open.spotify.com/track/430AdcQfEGaKOZepLczGTo"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
-        "name": "Th\u00e9r\u00e8se",
-        "url": "https://open.spotify.com/album/1lbJOgLXOtyxQbvjt17eGT"
-      },
-      "artists": [
-        {
-          "name": "Maya Hawke",
-          "url": "https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x"
-        }
-      ],
-      "duration_ms": 207389,
-      "name": "Th\u00e9r\u00e8se",
-      "url": "https://open.spotify.com/track/1LklAGxyeK07JYRzw3Vzx9"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -923,22 +955,6 @@
     {
       "added_at": "2022-08-19 04:00:00",
       "album": {
-        "name": "Amsterdam",
-        "url": "https://open.spotify.com/album/4LF9PCKsTfcOVnh2ufagbO"
-      },
-      "artists": [
-        {
-          "name": "Mary Gauthier",
-          "url": "https://open.spotify.com/artist/4SK1IgkcWWc5HC1TOBq1VS"
-        }
-      ],
-      "duration_ms": 301142,
-      "name": "Amsterdam",
-      "url": "https://open.spotify.com/track/3TpqFZxnxNe2qn362Wydz8"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
         "name": "Collecting Dust",
         "url": "https://open.spotify.com/album/5rICmJCVw98Yuu3cA7ItA4"
       },
@@ -1063,22 +1079,6 @@
       "duration_ms": 163648,
       "name": "My Boy",
       "url": "https://open.spotify.com/track/5PHbusMmCka1GbXiYoSD47"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
-        "name": "New Girl",
-        "url": "https://open.spotify.com/album/2CgSadfSWTw2Sbv2ZA4QlK"
-      },
-      "artists": [
-        {
-          "name": "Jamie Drake",
-          "url": "https://open.spotify.com/artist/7rvB7ONJSqlmaCrcbhelir"
-        }
-      ],
-      "duration_ms": 265936,
-      "name": "It's A New Life",
-      "url": "https://open.spotify.com/track/3ku06NWgtn63zs0yGSjQoe"
     },
     {
       "added_at": "2022-08-19 04:00:00",

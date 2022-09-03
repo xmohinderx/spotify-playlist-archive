@@ -2,7 +2,7 @@
 
 ### [Bossa Nova Dinner](https://open.spotify.com/playlist/37i9dQZF1DWVleyMkaelTd)
 
-> Soundtrack your dinner with bossa sounds.
+> Soundtrack your cozy dinner with bossa nova jazz.
 
 117 songs - 7 hr 24 min - [published](https://open.spotify.com/playlist/00GgJo3w4SYrEnE4bIAXpT)
 

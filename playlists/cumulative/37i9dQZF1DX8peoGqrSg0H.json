@@ -106,6 +106,42 @@
     },
     {
       "album": {
+        "name": "Based on whose story?",
+        "url": "https://open.spotify.com/album/3Y4DNfi7F1CfqWOiUDKSP3"
+      },
+      "artists": [
+        {
+          "name": "Waii",
+          "url": "https://open.spotify.com/artist/2RMcYn32IFfN1FQdpUArrC"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213456,
+      "name": "Based on whose story?",
+      "url": "https://open.spotify.com/track/1PSN6e5cQbumCzz74Imhhz"
+    },
+    {
+      "album": {
+        "name": "Believers",
+        "url": "https://open.spotify.com/album/2rWCbQocy0hMs6Kc7scxCq"
+      },
+      "artists": [
+        {
+          "name": "BNK48",
+          "url": "https://open.spotify.com/artist/0A7q0U0IEdNOHWnQpMRQdD"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256484,
+      "name": "Believers",
+      "url": "https://open.spotify.com/track/4rBFjW1hkzp9ttWG34HUXJ"
+    },
+    {
+      "album": {
         "name": "Blurred",
         "url": "https://open.spotify.com/album/6RCVDrIfZY3darb6ig8Vn9"
       },
@@ -175,6 +211,24 @@
       "duration_ms": 223278,
       "name": "Boys Like You",
       "url": "https://open.spotify.com/track/1VyRhsi6GfBusI1Vb061s4"
+    },
+    {
+      "album": {
+        "name": "Chop Chop!",
+        "url": "https://open.spotify.com/album/5cG51iqdsWcuZ5BGmEumN5"
+      },
+      "artists": [
+        {
+          "name": "RedSpin",
+          "url": "https://open.spotify.com/artist/3NM9LMFT0J6AhkQXov8Ck7"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "Chop Chop!",
+      "url": "https://open.spotify.com/track/6M8nx5vDof89UySjbL8KPM"
     },
     {
       "album": {
@@ -770,6 +824,24 @@
     },
     {
       "album": {
+        "name": "\u0e02\u0e49\u0e2d\u0e2a\u0e2d\u0e1a",
+        "url": "https://open.spotify.com/album/4kavHltvGrYIDk80daVY65"
+      },
+      "artists": [
+        {
+          "name": "DOM",
+          "url": "https://open.spotify.com/artist/6ZnhVXjHWYNQakkNpO1fcL"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171375,
+      "name": "\u0e02\u0e49\u0e2d\u0e2a\u0e2d\u0e1a",
+      "url": "https://open.spotify.com/track/3djIwknyvdh9STESkxpS62"
+    },
+    {
+      "album": {
         "name": "\u0e02\u0e49\u0e32\u0e07\u0e01\u0e31\u0e19 (City) [feat. \u0e2d\u0e2d\u0e21 TELExTELEXs]",
         "url": "https://open.spotify.com/album/61V9QCyJm3LPEUHrm84AIj"
       },
@@ -922,7 +994,7 @@
     },
     {
       "album": {
-        "name": "\u0e04\u0e19\u0e44\u0e21\u0e48\u0e04\u0e38\u0e22",
+        "name": "\u0e04\u0e19\u0e44\u0e21\u0e48\u0e04\u0e38\u0e22 (Silent Mode)",
         "url": "https://open.spotify.com/album/1K7cv40prwoUAbxCXX1CTh"
       },
       "artists": [
@@ -935,7 +1007,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 230400,
-      "name": "\u0e04\u0e19\u0e44\u0e21\u0e48\u0e04\u0e38\u0e22",
+      "name": "\u0e04\u0e19\u0e44\u0e21\u0e48\u0e04\u0e38\u0e22 (Silent Mode)",
       "url": "https://open.spotify.com/track/4Z64nGulQN49i9D03NcF8a"
     },
     {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The essential indie dance, featuring Little Dragon",
+  "description": "The essential indie dance, featuring Nosaj Thing",
   "name": "metropolis",
   "published_playlist_ids": [
     "6jBSzkiPzz4z9EGB6tLdZW"
@@ -1013,6 +1013,28 @@
       "duration_ms": 286133,
       "name": "Blood In The Snow",
       "url": "https://open.spotify.com/track/5yiEvFextSviCStbutB8UI"
+    },
+    {
+      "album": {
+        "name": "Blue Hour",
+        "url": "https://open.spotify.com/album/2m57meR4I847cmV8m7cNxn"
+      },
+      "artists": [
+        {
+          "name": "Nosaj Thing",
+          "url": "https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT"
+        },
+        {
+          "name": "Julianna Barwick",
+          "url": "https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211845,
+      "name": "Blue Hour",
+      "url": "https://open.spotify.com/track/7lggwV1nP2sMYOieWNvjfw"
     },
     {
       "album": {
@@ -2223,7 +2245,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 233469,
       "name": "Eleanor - Edit",
       "url": "https://open.spotify.com/track/4kLyAbRTMMfmAH5Fjm3cYU"
@@ -7137,7 +7159,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 227543,
       "name": "OnlyL",
       "url": "https://open.spotify.com/track/01XAVHIdfq8SNtZDplT0ZD"
@@ -8455,6 +8477,28 @@
       "duration_ms": 274267,
       "name": "Shapeless",
       "url": "https://open.spotify.com/track/2OFJN3S8i6aDPXXUgkSJME"
+    },
+    {
+      "album": {
+        "name": "Shotgun (Magdalena Bay Remix)",
+        "url": "https://open.spotify.com/album/1ADuxT0WV9GAkcEdtNJxCB"
+      },
+      "artists": [
+        {
+          "name": "Soccer Mommy",
+          "url": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
+        },
+        {
+          "name": "Magdalena Bay",
+          "url": "https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239864,
+      "name": "Shotgun - Magdalena Bay Remix",
+      "url": "https://open.spotify.com/track/5m4EJmInvHQJ1wvPx2Qs36"
     },
     {
       "album": {

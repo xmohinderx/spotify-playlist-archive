@@ -583,7 +583,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 189272,
       "name": "Comando",
       "url": "https://open.spotify.com/track/13GNmtxaAHgSYvf03I76IC"
@@ -1456,6 +1456,28 @@
     },
     {
       "album": {
+        "name": "Killer Bomb\u00f3n",
+        "url": "https://open.spotify.com/album/67n9KcQSGTqIJVkIL4ghe8"
+      },
+      "artists": [
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        },
+        {
+          "name": "Los Palmeras",
+          "url": "https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160180,
+      "name": "Killer Bomb\u00f3n",
+      "url": "https://open.spotify.com/track/4z5qbMlx4iAexxMQ9FbSa1"
+    },
+    {
+      "album": {
         "name": "La Trampa es Ley",
         "url": "https://open.spotify.com/album/652wPJ4HAF6ODuEDM2feRs"
       },
@@ -1897,7 +1919,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 154405,
       "name": "no twin",
       "url": "https://open.spotify.com/track/2phdLu86u9OXfmRCrZ2Dur"
@@ -2251,6 +2273,24 @@
       "duration_ms": 140130,
       "name": "PUFF",
       "url": "https://open.spotify.com/track/2Asa5boIOZADugCzoy0lRS"
+    },
+    {
+      "album": {
+        "name": "P\u00e1lpitos",
+        "url": "https://open.spotify.com/album/5Y436fUo4pGsKcJNRMcY97"
+      },
+      "artists": [
+        {
+          "name": "Frozouda",
+          "url": "https://open.spotify.com/artist/6pCBRiHhyUMQBqs0WUSxEL"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167743,
+      "name": "P\u00e1lpitos",
+      "url": "https://open.spotify.com/track/1C80yOmk8Ub5bhZHvvnir3"
     },
     {
       "album": {
@@ -2717,7 +2757,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 159834,
       "name": "T.O.P",
       "url": "https://open.spotify.com/track/0n7FYkpKt7bQ61jolNhV78"

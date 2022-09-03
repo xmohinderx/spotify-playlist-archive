@@ -1,85 +1,13 @@
 {
-  "description": "blackbear along with the top Alternative songs of today.",
-  "num_followers": 339192,
+  "description": "Gorillaz along with the top Alternative songs of today.",
+  "num_followers": 340171,
   "original_name": "Alt NOW",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTg5MTc4NCwwMDAwMDAwMDUwYjUzYWEyZThkNjczNTI4YWM3ZGExNTQ1M2E2MGRl",
+  "snapshot_id": "MTY2MjA5MTIyOCwwMDAwMDAwMDZkM2MyNzUyNjg1YzY3MmRmYTg3YjU3MjYyNzI0ZmJm",
   "tracks": [
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
-        "name": "in loving memory",
-        "url": "https://open.spotify.com/album/0ZvU2iSXtYxBeR9QzvHQau"
-      },
-      "artists": [
-        {
-          "name": "blackbear",
-          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
-        },
-        {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
-        }
-      ],
-      "duration_ms": 191559,
-      "name": "toxic energy (with Bert McCracken of The Used)",
-      "url": "https://open.spotify.com/track/01tEAvdPLPREA9JT9Wpb26"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
-        "name": "Natural Born Killer/Pink Lullabye",
-        "url": "https://open.spotify.com/album/379z7WiokF2pa4kKUgVjRF"
-      },
-      "artists": [
-        {
-          "name": "Highly Suspect",
-          "url": "https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg"
-        }
-      ],
-      "duration_ms": 196135,
-      "name": "Natural Born Killer",
-      "url": "https://open.spotify.com/track/78wMThFTNKThsWq19o0F1H"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
-        "name": "Cracker Island (feat. Thundercat)",
-        "url": "https://open.spotify.com/album/3488fiYQcGSfkKKpr3ttCD"
-      },
-      "artists": [
-        {
-          "name": "Gorillaz",
-          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
-        },
-        {
-          "name": "Thundercat",
-          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
-        }
-      ],
-      "duration_ms": 213750,
-      "name": "Cracker Island (feat. Thundercat)",
-      "url": "https://open.spotify.com/track/2W3ZpQg9i6lE6kmHbcdu9N"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
-        "name": "Tippa My Tongue",
-        "url": "https://open.spotify.com/album/58As6ZmLLmhtkF8l5voV9p"
-      },
-      "artists": [
-        {
-          "name": "Red Hot Chili Peppers",
-          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
-        }
-      ],
-      "duration_ms": 260808,
-      "name": "Tippa My Tongue",
-      "url": "https://open.spotify.com/track/3s53zBEi1ZU6dJj19eFOxW"
-    },
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
@@ -111,6 +39,46 @@
       "duration_ms": 196784,
       "name": "Sex, Drugs, Etc.",
       "url": "https://open.spotify.com/track/7DbdUf8aHSYoliSjO6LZv6"
+    },
+    {
+      "added_at": "2022-08-30 20:36:24",
+      "album": {
+        "name": "There\u2019d Better Be A Mirrorball",
+        "url": "https://open.spotify.com/album/0ZUmodAwUq8cQJFvyibKwT"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "duration_ms": 265798,
+      "name": "There\u2019d Better Be A Mirrorball",
+      "url": "https://open.spotify.com/track/0yowbJnnbTLpr99f9l1uba"
+    },
+    {
+      "added_at": "2022-09-02 04:00:28",
+      "album": {
+        "name": "New Gold (feat. Tame Impala and Bootie Brown)",
+        "url": "https://open.spotify.com/album/4V9YFKLqZ5h8nQFTvDQscC"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        },
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        },
+        {
+          "name": "Bootie Brown",
+          "url": "https://open.spotify.com/artist/6GI3CJjT2bOnMfprCpjT1d"
+        }
+      ],
+      "duration_ms": 215149,
+      "name": "New Gold (feat. Tame Impala and Bootie Brown)",
+      "url": "https://open.spotify.com/track/64dLd6rVqDLtkXFYrEUHIU"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -163,6 +131,42 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
+        "name": "in loving memory",
+        "url": "https://open.spotify.com/album/0ZvU2iSXtYxBeR9QzvHQau"
+      },
+      "artists": [
+        {
+          "name": "blackbear",
+          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
+        },
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "duration_ms": 191559,
+      "name": "toxic energy (with Bert McCracken of The Used)",
+      "url": "https://open.spotify.com/track/01tEAvdPLPREA9JT9Wpb26"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
+        "name": "Natural Born Killer/Pink Lullabye",
+        "url": "https://open.spotify.com/album/379z7WiokF2pa4kKUgVjRF"
+      },
+      "artists": [
+        {
+          "name": "Highly Suspect",
+          "url": "https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg"
+        }
+      ],
+      "duration_ms": 196135,
+      "name": "Natural Born Killer",
+      "url": "https://open.spotify.com/track/78wMThFTNKThsWq19o0F1H"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
         "name": "Don\u2019t Let The Light Go Out",
         "url": "https://open.spotify.com/album/12sVYYyzqFcgA6o3yqCx5i"
       },
@@ -175,6 +179,26 @@
       "duration_ms": 229517,
       "name": "Don't Let The Light Go Out",
       "url": "https://open.spotify.com/track/2lCyQnftM6ptqC3vk7qeao"
+    },
+    {
+      "added_at": "2022-09-02 04:00:28",
+      "album": {
+        "name": "Records (feat. Noga Erez)",
+        "url": "https://open.spotify.com/album/6i14pMUR9CMUtuuJITLEI7"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        },
+        {
+          "name": "Noga Erez",
+          "url": "https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ"
+        }
+      ],
+      "duration_ms": 212067,
+      "name": "Records (feat. Noga Erez)",
+      "url": "https://open.spotify.com/track/0ZrZjd1zu5Cl4s4xXCUT6E"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -223,6 +247,38 @@
       "duration_ms": 190883,
       "name": "Sharks",
       "url": "https://open.spotify.com/track/0TyUOnU4H4GLqOcrH0auc8"
+    },
+    {
+      "added_at": "2022-09-02 04:00:28",
+      "album": {
+        "name": "Tissues",
+        "url": "https://open.spotify.com/album/1LIAp7pyElYRzvlP0mXSew"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "duration_ms": 215163,
+      "name": "Tissues",
+      "url": "https://open.spotify.com/track/0jRY4XO556pn1zHZAoY3ph"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
+        "name": "Tippa My Tongue",
+        "url": "https://open.spotify.com/album/58As6ZmLLmhtkF8l5voV9p"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "duration_ms": 260808,
+      "name": "Tippa My Tongue",
+      "url": "https://open.spotify.com/track/3s53zBEi1ZU6dJj19eFOxW"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -339,6 +395,26 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
+        "name": "Cracker Island (feat. Thundercat)",
+        "url": "https://open.spotify.com/album/3488fiYQcGSfkKKpr3ttCD"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        },
+        {
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+        }
+      ],
+      "duration_ms": 213750,
+      "name": "Cracker Island (feat. Thundercat)",
+      "url": "https://open.spotify.com/track/2W3ZpQg9i6lE6kmHbcdu9N"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
         "name": "Wake Up",
         "url": "https://open.spotify.com/album/635iu3VXqCVPvUJvOoCDB9"
       },
@@ -367,22 +443,6 @@
       "duration_ms": 253599,
       "name": "Grace",
       "url": "https://open.spotify.com/track/0aJq40QZqvfGubgfKy5knk"
-    },
-    {
-      "added_at": "2022-08-30 20:36:24",
-      "album": {
-        "name": "There\u2019d Better Be A Mirrorball",
-        "url": "https://open.spotify.com/album/0ZUmodAwUq8cQJFvyibKwT"
-      },
-      "artists": [
-        {
-          "name": "Arctic Monkeys",
-          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
-        }
-      ],
-      "duration_ms": 265798,
-      "name": "There\u2019d Better Be A Mirrorball",
-      "url": "https://open.spotify.com/track/0yowbJnnbTLpr99f9l1uba"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -447,6 +507,22 @@
       "duration_ms": 177511,
       "name": "My Love - Edit",
       "url": "https://open.spotify.com/track/0vQYe6g8bNbdUKnUnXdQQV"
+    },
+    {
+      "added_at": "2022-09-02 04:00:28",
+      "album": {
+        "name": "Run Away to Mars",
+        "url": "https://open.spotify.com/album/4ks1Xkpt67UXbJamJFZ8et"
+      },
+      "artists": [
+        {
+          "name": "TALK",
+          "url": "https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87"
+        }
+      ],
+      "duration_ms": 213753,
+      "name": "Run Away to Mars",
+      "url": "https://open.spotify.com/track/6G1Mz5yMgn0ydOlIvTrZ65"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -567,22 +643,6 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "Broken",
-        "url": "https://open.spotify.com/album/1ADbmheBGdOcaAIF44h4Yu"
-      },
-      "artists": [
-        {
-          "name": "Palaye Royale",
-          "url": "https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI"
-        }
-      ],
-      "duration_ms": 190657,
-      "name": "Broken",
-      "url": "https://open.spotify.com/track/3tnKdIkmqLiL9UKxxqjM8C"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
         "name": "THREE HEADS*",
         "url": "https://open.spotify.com/album/02BIHNzIl0WCC17CPM83gN"
       },
@@ -611,26 +671,6 @@
       "duration_ms": 192878,
       "name": "Jealousy",
       "url": "https://open.spotify.com/track/6d0v3O81urNRzxLWkXVLD3"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
-        "name": "Memories (with WILLOW)",
-        "url": "https://open.spotify.com/album/0OJD74cS6Isaf2iAdkGSOd"
-      },
-      "artists": [
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
-        },
-        {
-          "name": "WILLOW",
-          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
-        }
-      ],
-      "duration_ms": 155919,
-      "name": "Memories (with WILLOW)",
-      "url": "https://open.spotify.com/track/3LcMLFApeU9uCT8VCWEVjr"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -667,38 +707,6 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "Hounds of Love (2018 Remaster)",
-        "url": "https://open.spotify.com/album/3OYnManu1Nlxnw9OMng7BH"
-      },
-      "artists": [
-        {
-          "name": "Kate Bush",
-          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
-        }
-      ],
-      "duration_ms": 300840,
-      "name": "Running Up That Hill (A Deal With God) - 2018 Remaster",
-      "url": "https://open.spotify.com/track/29d0nY7TzCoi22XBqDQkiP"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
-        "name": "Clarity",
-        "url": "https://open.spotify.com/album/4V3BerycmgxqE3sr3RaDYE"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 227240,
-      "name": "Clarity",
-      "url": "https://open.spotify.com/track/5c6lM2zjAF6MFoD8C1hiBr"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
         "name": "Running",
         "url": "https://open.spotify.com/album/2dEf6lN5qYFQQy3Jd3ScHG"
       },
@@ -729,6 +737,22 @@
       "url": "https://open.spotify.com/track/2ouFrmMwYik8nQX2n9SeZu"
     },
     {
+      "added_at": "2022-09-02 04:00:28",
+      "album": {
+        "name": "Happy Face",
+        "url": "https://open.spotify.com/album/663C3TEQrU97Lm6gVKp5zi"
+      },
+      "artists": [
+        {
+          "name": "Jagwar Twin",
+          "url": "https://open.spotify.com/artist/4luZExkmgn39Kj5XsYWria"
+        }
+      ],
+      "duration_ms": 169760,
+      "name": "Happy Face",
+      "url": "https://open.spotify.com/track/6QNCvcs758QuBEBISL6XIV"
+    },
+    {
       "added_at": "2022-08-26 04:01:00",
       "album": {
         "name": "Settling",
@@ -743,22 +767,6 @@
       "duration_ms": 188316,
       "name": "Settling",
       "url": "https://open.spotify.com/track/6jQALCbfH7gYSN46Ns839Q"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
-        "name": "Same Team",
-        "url": "https://open.spotify.com/album/54jXm087W12kSJyT6VmHdu"
-      },
-      "artists": [
-        {
-          "name": "Alice Merton",
-          "url": "https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip"
-        }
-      ],
-      "duration_ms": 211493,
-      "name": "Same Team",
-      "url": "https://open.spotify.com/track/4bKKc5wpLsdCPVj1QVUICf"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -807,26 +815,6 @@
       "duration_ms": 273693,
       "name": "Unconditional I (Lookout Kid)",
       "url": "https://open.spotify.com/track/6xcrYjTKuONMfC1Qoc6Bdy"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
-        "name": "Sonder",
-        "url": "https://open.spotify.com/album/4cKYUcPZBniJthOcf89r20"
-      },
-      "artists": [
-        {
-          "name": "The Wrecks",
-          "url": "https://open.spotify.com/artist/458aS6ALc3QkzwfR5USt34"
-        },
-        {
-          "name": "girlhouse",
-          "url": "https://open.spotify.com/artist/7AWyYXZ5tIc0xNSfKLD3QX"
-        }
-      ],
-      "duration_ms": 225128,
-      "name": "Where Are You Now? (feat. girlhouse)",
-      "url": "https://open.spotify.com/track/6yqCz1a30TyBBkLQrAcs7L"
     },
     {
       "added_at": "2022-08-26 04:01:00",

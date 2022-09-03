@@ -1,12 +1,12 @@
 {
   "description": "\uc774\ubd88 \uc548 \uc18d\ucc98\ub7fc \ud3ec\uadfc\ud558\uace0 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uacfc \ud568\uaed8 \ud3ed\uc2e0\ud55c \uae30\ubd84\uc744 \ub9cc\ub07d\ud558\uc138\uc694.",
-  "num_followers": 5758,
+  "num_followers": 5766,
   "original_name": "\ud3ec\uadfc \ud3b8\uc548 \ud3ed\uc2e0",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTc1Nzk3NywwMDAwMDAwMDYxZGZhN2ZjNWM3ZmU0OGRiNDIzNjQ2NzY3NDFlYTQx",
+  "snapshot_id": "MTY2MTc1Nzk3NywwMDAwMDAwMGE0NDcxOWQyYjQwZWIzOTAxYTYxOTRkMzM0ZjhhYTU2",
   "tracks": [
     {
       "added_at": "2022-08-29 07:26:17",
@@ -91,6 +91,22 @@
     {
       "added_at": "2022-08-29 07:26:17",
       "album": {
+        "name": "Moving",
+        "url": "https://open.spotify.com/album/0T2md2tJWwA35Wl2EFHbiH"
+      },
+      "artists": [
+        {
+          "name": "Krr",
+          "url": "https://open.spotify.com/artist/2wCEpu2tMAildqH0BrJNT7"
+        }
+      ],
+      "duration_ms": 202853,
+      "name": "Moving",
+      "url": "https://open.spotify.com/track/4jzNb4SziJCRL7K7dVimn7"
+    },
+    {
+      "added_at": "2022-08-29 07:26:17",
+      "album": {
         "name": "NANGMAN",
         "url": "https://open.spotify.com/album/2hBJR1SQ4cGDjGTCY6eV8m"
       },
@@ -115,22 +131,6 @@
       "duration_ms": 370946,
       "name": "Hachiko (Feat. Sion, Yescoba, Dayoung Ahn)",
       "url": "https://open.spotify.com/track/4MrCH9VqTyEKmeXQ7m6Geh"
-    },
-    {
-      "added_at": "2022-08-29 07:26:17",
-      "album": {
-        "name": "Moving",
-        "url": "https://open.spotify.com/album/0T2md2tJWwA35Wl2EFHbiH"
-      },
-      "artists": [
-        {
-          "name": "Krr",
-          "url": "https://open.spotify.com/artist/2wCEpu2tMAildqH0BrJNT7"
-        }
-      ],
-      "duration_ms": 202853,
-      "name": "Moving",
-      "url": "https://open.spotify.com/track/4jzNb4SziJCRL7K7dVimn7"
     },
     {
       "added_at": "2022-08-29 07:26:17",
@@ -163,6 +163,22 @@
       "duration_ms": 212470,
       "name": "all day",
       "url": "https://open.spotify.com/track/4Y8J7oYuDjYfj1dKaiIhBq"
+    },
+    {
+      "added_at": "2022-08-29 07:26:17",
+      "album": {
+        "name": "Stroll",
+        "url": "https://open.spotify.com/album/2zTRBl0d9LGCNwuwlf63Wx"
+      },
+      "artists": [
+        {
+          "name": "Choi Yuree",
+          "url": "https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v"
+        }
+      ],
+      "duration_ms": 228266,
+      "name": "Forest",
+      "url": "https://open.spotify.com/track/33xRp6ZX1DKraRFHR9ZDck"
     },
     {
       "added_at": "2022-08-29 07:26:17",
@@ -203,18 +219,18 @@
     {
       "added_at": "2022-08-29 07:26:17",
       "album": {
-        "name": "Stroll",
-        "url": "https://open.spotify.com/album/2zTRBl0d9LGCNwuwlf63Wx"
+        "name": "If",
+        "url": "https://open.spotify.com/album/5M7zOeOjBLJDQaSkDotiH5"
       },
       "artists": [
         {
-          "name": "Choi Yuree",
-          "url": "https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v"
+          "name": "Standing Egg",
+          "url": "https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d"
         }
       ],
-      "duration_ms": 228266,
-      "name": "Forest",
-      "url": "https://open.spotify.com/track/33xRp6ZX1DKraRFHR9ZDck"
+      "duration_ms": 251560,
+      "name": "If",
+      "url": "https://open.spotify.com/track/3go56fUuNPhwvZifMuTnpJ"
     },
     {
       "added_at": "2022-08-29 07:26:17",
@@ -231,22 +247,6 @@
       "duration_ms": 228834,
       "name": "Hello",
       "url": "https://open.spotify.com/track/2XeZwMyRKG9vSvTLq7Y40Z"
-    },
-    {
-      "added_at": "2022-08-29 07:26:17",
-      "album": {
-        "name": "If",
-        "url": "https://open.spotify.com/album/5M7zOeOjBLJDQaSkDotiH5"
-      },
-      "artists": [
-        {
-          "name": "Standing Egg",
-          "url": "https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d"
-        }
-      ],
-      "duration_ms": 251560,
-      "name": "If",
-      "url": "https://open.spotify.com/track/3go56fUuNPhwvZifMuTnpJ"
     },
     {
       "added_at": "2022-08-29 07:26:17",
@@ -319,6 +319,22 @@
     {
       "added_at": "2022-08-29 07:26:17",
       "album": {
+        "name": "All at Sea",
+        "url": "https://open.spotify.com/album/0Obk9iicqt7qGuBYcAAVWe"
+      },
+      "artists": [
+        {
+          "name": "Ha Yang Su",
+          "url": "https://open.spotify.com/artist/0qDdf7110IG0xfOFulWftA"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "All at Sea",
+      "url": "https://open.spotify.com/track/0213ZfdsDJ5daAi09oZOH5"
+    },
+    {
+      "added_at": "2022-08-29 07:26:17",
+      "album": {
         "name": "Summer Festa",
         "url": "https://open.spotify.com/album/014u0JnJJYVQCpxVSQ9awM"
       },
@@ -351,22 +367,6 @@
     {
       "added_at": "2022-08-29 07:26:17",
       "album": {
-        "name": "All at Sea",
-        "url": "https://open.spotify.com/album/0Obk9iicqt7qGuBYcAAVWe"
-      },
-      "artists": [
-        {
-          "name": "Ha Yang Su",
-          "url": "https://open.spotify.com/artist/0qDdf7110IG0xfOFulWftA"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "All at Sea",
-      "url": "https://open.spotify.com/track/0213ZfdsDJ5daAi09oZOH5"
-    },
-    {
-      "added_at": "2022-08-29 07:26:17",
-      "album": {
         "name": "Deep in the night, you and me",
         "url": "https://open.spotify.com/album/2HmxJAWEQLr6g2IIZ8DnXQ"
       },
@@ -383,22 +383,6 @@
     {
       "added_at": "2022-08-29 07:26:17",
       "album": {
-        "name": "Star",
-        "url": "https://open.spotify.com/album/2ZEpVzbFGcMGBXuYRdYVE7"
-      },
-      "artists": [
-        {
-          "name": "Paul Kim",
-          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
-        }
-      ],
-      "duration_ms": 200862,
-      "name": "Star",
-      "url": "https://open.spotify.com/track/7GGTWjlLnoDIm9DMY9I9cI"
-    },
-    {
-      "added_at": "2022-08-29 07:26:17",
-      "album": {
         "name": "What Should I do",
         "url": "https://open.spotify.com/album/4uJHtqDoEdNtRYxCmLMURt"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 267893,
       "name": "What Should I do",
       "url": "https://open.spotify.com/track/4ARhTCA10vYH49DceecURl"
+    },
+    {
+      "added_at": "2022-08-29 07:26:17",
+      "album": {
+        "name": "Star",
+        "url": "https://open.spotify.com/album/2ZEpVzbFGcMGBXuYRdYVE7"
+      },
+      "artists": [
+        {
+          "name": "Paul Kim",
+          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
+        }
+      ],
+      "duration_ms": 200862,
+      "name": "Star",
+      "url": "https://open.spotify.com/track/7GGTWjlLnoDIm9DMY9I9cI"
     },
     {
       "added_at": "2022-08-29 07:26:17",
@@ -515,6 +515,22 @@
     {
       "added_at": "2022-08-29 07:26:17",
       "album": {
+        "name": "let\u2019s play tug",
+        "url": "https://open.spotify.com/album/58dDHLjbbAYjwsKnxnTSuR"
+      },
+      "artists": [
+        {
+          "name": "heyden",
+          "url": "https://open.spotify.com/artist/2ZIDhUnok7DtASQi5blDnE"
+        }
+      ],
+      "duration_ms": 166196,
+      "name": "let\u2019s play tug",
+      "url": "https://open.spotify.com/track/2D4ePOWVxw7LVFY1NNAAca"
+    },
+    {
+      "added_at": "2022-08-29 07:26:17",
+      "album": {
         "name": "Beautiful GunbarI OST",
         "url": "https://open.spotify.com/album/6J9aBraciskBz10VIcOwo5"
       },
@@ -531,18 +547,18 @@
     {
       "added_at": "2022-08-29 07:26:17",
       "album": {
-        "name": "let\u2019s play tug",
-        "url": "https://open.spotify.com/album/58dDHLjbbAYjwsKnxnTSuR"
+        "name": "OceanooM\u2218\u263d",
+        "url": "https://open.spotify.com/album/7DuHhV2JLZRN36IpeQ8Jcq"
       },
       "artists": [
         {
-          "name": "heyden",
-          "url": "https://open.spotify.com/artist/2ZIDhUnok7DtASQi5blDnE"
+          "name": "MAKTUB",
+          "url": "https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j"
         }
       ],
-      "duration_ms": 166196,
-      "name": "let\u2019s play tug",
-      "url": "https://open.spotify.com/track/2D4ePOWVxw7LVFY1NNAAca"
+      "duration_ms": 205306,
+      "name": "OceanooM\u2218\u263d",
+      "url": "https://open.spotify.com/track/6BlMjy03nLmO7s60Ql1Uc2"
     },
     {
       "added_at": "2022-08-29 07:26:17",
@@ -563,22 +579,6 @@
     {
       "added_at": "2022-08-29 07:26:17",
       "album": {
-        "name": "Now On, Showtime! (Original Television Soundtrack) - 'DANDELION'",
-        "url": "https://open.spotify.com/album/0p6LcAuJfbKxZaPpsgUlF9"
-      },
-      "artists": [
-        {
-          "name": "Zitten",
-          "url": "https://open.spotify.com/artist/3of4z5k152Et4C0IQ7HUAg"
-        }
-      ],
-      "duration_ms": 182906,
-      "name": "DANDELION",
-      "url": "https://open.spotify.com/track/5erdZRi65gQvc4m7znELQp"
-    },
-    {
-      "added_at": "2022-08-29 07:26:17",
-      "album": {
         "name": "sleepless nights (My Sweden Laundry #1)",
         "url": "https://open.spotify.com/album/4U33ucPMfJMmaMo0SA6kqd"
       },
@@ -595,18 +595,18 @@
     {
       "added_at": "2022-08-29 07:26:17",
       "album": {
-        "name": "OceanooM\u2218\u263d",
-        "url": "https://open.spotify.com/album/7DuHhV2JLZRN36IpeQ8Jcq"
+        "name": "Now On, Showtime! (Original Television Soundtrack) - 'DANDELION'",
+        "url": "https://open.spotify.com/album/0p6LcAuJfbKxZaPpsgUlF9"
       },
       "artists": [
         {
-          "name": "MAKTUB",
-          "url": "https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j"
+          "name": "Zitten",
+          "url": "https://open.spotify.com/artist/3of4z5k152Et4C0IQ7HUAg"
         }
       ],
-      "duration_ms": 205306,
-      "name": "OceanooM\u2218\u263d",
-      "url": "https://open.spotify.com/track/6BlMjy03nLmO7s60Ql1Uc2"
+      "duration_ms": 182906,
+      "name": "DANDELION",
+      "url": "https://open.spotify.com/track/5erdZRi65gQvc4m7znELQp"
     },
     {
       "added_at": "2022-08-29 07:26:17",
@@ -679,22 +679,6 @@
     {
       "added_at": "2022-08-29 07:26:17",
       "album": {
-        "name": "Tropical night",
-        "url": "https://open.spotify.com/album/1ABhZPNxNz5supUUmVDraK"
-      },
-      "artists": [
-        {
-          "name": "\uc5ec\ub3d9\uc0dd",
-          "url": "https://open.spotify.com/artist/3nksJgo6Gv1JKTKf3nlQq1"
-        }
-      ],
-      "duration_ms": 311797,
-      "name": "Tropical night",
-      "url": "https://open.spotify.com/track/1HqHn3JyuGpCsTuc4HHNNk"
-    },
-    {
-      "added_at": "2022-08-29 07:26:17",
-      "album": {
         "name": "Greeting",
         "url": "https://open.spotify.com/album/3nsi8ersP7BvMbA7Qrh5m6"
       },
@@ -715,22 +699,18 @@
     {
       "added_at": "2022-08-29 07:26:17",
       "album": {
-        "name": "Ocean (feat. Aden)",
-        "url": "https://open.spotify.com/album/1pGgckc3VwImx2Ka1wfZcX"
+        "name": "Tropical night",
+        "url": "https://open.spotify.com/album/1ABhZPNxNz5supUUmVDraK"
       },
       "artists": [
         {
-          "name": "Sumsher",
-          "url": "https://open.spotify.com/artist/5hb1plh7RDdl57ztwwzAzm"
-        },
-        {
-          "name": "Aden",
-          "url": "https://open.spotify.com/artist/4DC3zLbfVrTZo2WmvjMMls"
+          "name": "\uc5ec\ub3d9\uc0dd",
+          "url": "https://open.spotify.com/artist/3nksJgo6Gv1JKTKf3nlQq1"
         }
       ],
-      "duration_ms": 203590,
-      "name": "Ocean (feat. Aden)",
-      "url": "https://open.spotify.com/track/1RaY3cmtdqTJS1dOd3rTEV"
+      "duration_ms": 311797,
+      "name": "Tropical night",
+      "url": "https://open.spotify.com/track/1HqHn3JyuGpCsTuc4HHNNk"
     },
     {
       "added_at": "2022-08-29 07:26:17",
@@ -747,6 +727,26 @@
       "duration_ms": 233284,
       "name": "\ub0b4 \uc0ac\ub791 \ub0b4 \uacc1\uc5d0",
       "url": "https://open.spotify.com/track/77odrU6Z94fsXryPiPf7P7"
+    },
+    {
+      "added_at": "2022-08-29 07:26:17",
+      "album": {
+        "name": "Ocean (feat. Aden)",
+        "url": "https://open.spotify.com/album/1pGgckc3VwImx2Ka1wfZcX"
+      },
+      "artists": [
+        {
+          "name": "Sumsher",
+          "url": "https://open.spotify.com/artist/5hb1plh7RDdl57ztwwzAzm"
+        },
+        {
+          "name": "Aden",
+          "url": "https://open.spotify.com/artist/4DC3zLbfVrTZo2WmvjMMls"
+        }
+      ],
+      "duration_ms": 203590,
+      "name": "Ocean (feat. Aden)",
+      "url": "https://open.spotify.com/track/1RaY3cmtdqTJS1dOd3rTEV"
     },
     {
       "added_at": "2022-08-29 07:26:17",
@@ -783,6 +783,22 @@
     {
       "added_at": "2022-08-29 07:26:17",
       "album": {
+        "name": "Olive",
+        "url": "https://open.spotify.com/album/4OOcKhTPbVZtDdy2WKVVEE"
+      },
+      "artists": [
+        {
+          "name": "Artinb",
+          "url": "https://open.spotify.com/artist/5t7WiBzx4KeS4VZg9dZ6Kp"
+        }
+      ],
+      "duration_ms": 129000,
+      "name": "Olive",
+      "url": "https://open.spotify.com/track/4npfaORHCIotPdE5pROSX8"
+    },
+    {
+      "added_at": "2022-08-29 07:26:17",
+      "album": {
         "name": "Mm Mm",
         "url": "https://open.spotify.com/album/4XdRqwWMaqajrsAguE0sTw"
       },
@@ -799,38 +815,6 @@
     {
       "added_at": "2022-08-29 07:26:17",
       "album": {
-        "name": "Losing Myself",
-        "url": "https://open.spotify.com/album/5YKhG5PZw6BkLlEzmzKRuH"
-      },
-      "artists": [
-        {
-          "name": "Gogang",
-          "url": "https://open.spotify.com/artist/2ZIVYoGzw18q8IDsLny9UU"
-        }
-      ],
-      "duration_ms": 176373,
-      "name": "Losing Myself",
-      "url": "https://open.spotify.com/track/5tAwagT5QqjBYrzsYE2RIX"
-    },
-    {
-      "added_at": "2022-08-29 07:26:17",
-      "album": {
-        "name": "Asteroid",
-        "url": "https://open.spotify.com/album/5geu7QO5MtvQHbN8ohLjNj"
-      },
-      "artists": [
-        {
-          "name": "Lee MinHyuk",
-          "url": "https://open.spotify.com/artist/2KbxyNY5Dt6CJ6FBLcWfkH"
-        }
-      ],
-      "duration_ms": 210840,
-      "name": "To My Friend",
-      "url": "https://open.spotify.com/track/3v7xLuhQtnm74cJBASJ9eZ"
-    },
-    {
-      "added_at": "2022-08-29 07:26:17",
-      "album": {
         "name": "When I'm With You",
         "url": "https://open.spotify.com/album/08tAEJdZVHvS1I9RzZZaxp"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 204813,
       "name": "I Wanna Be With You",
       "url": "https://open.spotify.com/track/4BRllgokpqghTc6b52mDMa"
+    },
+    {
+      "added_at": "2022-08-29 07:26:17",
+      "album": {
+        "name": "Losing Myself",
+        "url": "https://open.spotify.com/album/5YKhG5PZw6BkLlEzmzKRuH"
+      },
+      "artists": [
+        {
+          "name": "Gogang",
+          "url": "https://open.spotify.com/artist/2ZIVYoGzw18q8IDsLny9UU"
+        }
+      ],
+      "duration_ms": 176373,
+      "name": "Losing Myself",
+      "url": "https://open.spotify.com/track/5tAwagT5QqjBYrzsYE2RIX"
     }
   ],
   "unique_name": "\ud3ec\uadfc \ud3b8\uc548 \ud3ed\uc2e0",

@@ -4,7 +4,7 @@
 
 > Warming instrumental guitar for sitting by the fire.
 
-172 songs - 8 hr 5 min - [published](https://open.spotify.com/playlist/6TRgNbMRFQsRi7cwbkVPjA)
+173 songs - 8 hr 9 min - [published](https://open.spotify.com/playlist/6TRgNbMRFQsRi7cwbkVPjA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,6 +176,7 @@
 | [Wide Open Fields](https://open.spotify.com/track/5JcB7SJbD2TeJKEwHE4Pjt) | [Robert Lowe](https://open.spotify.com/artist/4omS6iWv8SKCrZULjKfeI5) | [Wide Open Fields](https://open.spotify.com/album/66QsqLd9r1qVermYTWChlO) | 3:52 | 2022-05-13 |  |
 | [Window From A Train](https://open.spotify.com/track/2Nvuy3Oj6KXMay8iCjJLsw) | [Carrie Mittenkemp](https://open.spotify.com/artist/6nKvQqW0UVk8LBPUNxUH1P) | [Window From A Train](https://open.spotify.com/album/6QGcFMaEC1eSBuO2QgH9yT) | 2:25 | 2022-05-13 |  |
 | [Windward Breath](https://open.spotify.com/track/65o5SX8EGxCoPhTh31YI94) | [Playfall](https://open.spotify.com/artist/0pqHT6ERaAgl6rawFnytRS) | [Situations](https://open.spotify.com/album/5jhBDjpYs8hBJTBR1HVxxp) | 2:35 | 2022-05-13 |  |
+| [With Eyes Closed](https://open.spotify.com/track/1iTlxUv96DWOGIbHCoL8Dr) | [Lance Allen](https://open.spotify.com/artist/5KFXAufcOTSKibMfLnmyYC) | [With Eyes Closed](https://open.spotify.com/album/5XlfbF5Ln48pZAaw7IPpxq) | 3:19 | 2022-09-02 |  |
 | [Within You, Within Me](https://open.spotify.com/track/4d1mlzslIWzM9Ky1YJ2vpQ) | [Sophie Hansen\-Agard](https://open.spotify.com/artist/46KklrpIr7r0aD2p8vmOMu) | [Within You, Within Me](https://open.spotify.com/album/5oKe4TVgb8IRk347ZVxQmS) | 2:44 | 2022-05-13 |  |
 | [Wood Circles](https://open.spotify.com/track/2gyh1Z3wAP2gChERJJG52c) | [Atacustico](https://open.spotify.com/artist/0rvubIwf5v5p5KqyCuVZmk) | [Wood Circles](https://open.spotify.com/album/7xr8qnA4cvLLuHmiUEpGer) | 2:54 | 2022-05-13 |  |
 | [Zauberblume](https://open.spotify.com/track/0FwDRIMPR7TRC0FQwd7yRQ) | [Dominik Buchheim](https://open.spotify.com/artist/7e8fzJdZ6xHzokB2aGULSA) | [Zauberblume](https://open.spotify.com/album/7H7Y6KY9pPie86T6L1b3hq) | 3:50 | 2022-05-13 |  |

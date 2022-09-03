@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdCsscAsbRNz.md) - [plain]
 
 > Peaceful instrumentals to help you keep calm.
 
-[Spotify](https://open.spotify.com/user/spotify) - 794,438 likes - 246 songs - 11 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 791,337 likes - 242 songs - 11 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -226,33 +226,29 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdCsscAsbRNz.md) - [plain]
 | 216 | [Forever Vanished](https://open.spotify.com/track/7zVHmyl7rjPZRNJtWhbcIf) | [Rick Hagen](https://open.spotify.com/artist/2hOK2gVqLtyZD0Hd4PpqlH) | [Forever Vanished](https://open.spotify.com/album/1ya21A58Y1M8E5sqyHzMaE) | 1:53 |
 | 217 | [Bedtime Roses](https://open.spotify.com/track/78p1VT3WakXX97qnnRqQGD) | [Enlightment Spirits](https://open.spotify.com/artist/0OLeckavC2DOpjGiVUTqTF) | [Bedtime Roses](https://open.spotify.com/album/1D1pF0jmc7dIiqltajtMPr) | 2:24 |
 | 218 | [Pisces](https://open.spotify.com/track/1Ff9bSqXJkerZyKfBtLUNw) | [Agaton Simon](https://open.spotify.com/artist/7h78jsrgSU8wxZnXAdzMlZ) | [Pisces](https://open.spotify.com/album/0uJZ0SfKEnNr45JmoNY3Zt) | 2:07 |
-| 219 | [True North](https://open.spotify.com/track/5Wem8XEBdqjKz7AwhDstTu) | [Trevor Kowalski](https://open.spotify.com/artist/4vPiZNfnHqzN52FOn38BEv) | [Remnants Of A Setting Sun](https://open.spotify.com/album/1dbvDjcQOn1TAK3j5YZPBA) | 2:52 |
-| 220 | [Slumbering](https://open.spotify.com/track/7G93PdOrq65MM44MULk4LF) | [Mindful Eclipse](https://open.spotify.com/artist/7AqjdmOiPPFzX6oy0Mfo1j) | [Slumbering](https://open.spotify.com/album/38kQws0XCqhTwzmVs9SJX0) | 3:02 |
-| 221 | [Evening Song](https://open.spotify.com/track/1gWYsSqPShi9oTU04dAofI) | [Alexander Sterling](https://open.spotify.com/artist/7jCHPpIZYNW9xezoE6m6Ez) | [Evening Song](https://open.spotify.com/album/2EGEPzrjEz8YVg3rCvgJ1A) | 3:18 |
-| 222 | [Sunbleached Memory](https://open.spotify.com/track/6JVIfxPhQXAyPcA2Ro94HX) | [Toledo Rains](https://open.spotify.com/artist/76uaa6flgNHI5elCp0ssBF) | [Sunbleached Memory](https://open.spotify.com/album/0uLlVkSLZIBxOgp5CxEU6A) | 2:35 |
-| 223 | [Nature Calling](https://open.spotify.com/track/1U5nro2p0IGtHE6kZqt8WG) | [Jonas Holmes](https://open.spotify.com/artist/1ktaC9yb8R0mC5KSPjENLl) | [Nature Calling](https://open.spotify.com/album/1IHAC5mZAYnmqlKkfEoH4L) | 1:54 |
-| 224 | [Sleepless](https://open.spotify.com/track/5oH5ijHVrmgwEfUttQ9pjX) | [Domenik Kalinsky](https://open.spotify.com/artist/4JYktW5hRyzdlGNRZDXjkQ) | [Sleepless](https://open.spotify.com/album/5ngJnKqFA5xkve0BQxjUUv) | 2:53 |
-| 225 | [Threads](https://open.spotify.com/track/5ASmAe7WcZaLVx6KcCqhW0) | [Ebb & Flod](https://open.spotify.com/artist/2thIq9dFmnfUClzXEjDIMr) | [Moonrise](https://open.spotify.com/album/217hUO8Iila5lozKvwmElh) | 3:12 |
-| 226 | [Relaxation](https://open.spotify.com/track/7xD5j8ZCGDAPTTH5EfAVRf) | [Yolta](https://open.spotify.com/artist/1FcdysxmyKBfSOyVppN3sw) | [Relaxation](https://open.spotify.com/album/4hiT3XpWt0dGVZpdnX0va5) | 3:36 |
-| 227 | [Cosmonova](https://open.spotify.com/track/1zNmkTJEovkzgCfk46DTId) | [Albie Monroy](https://open.spotify.com/artist/1v2h0KiWsSggTVVfv9QjhT) | [The Ember](https://open.spotify.com/album/5xoUiNRUh69Y6BbJg1luSE) | 3:31 |
-| 228 | [Rivière De Larmes](https://open.spotify.com/track/6wlVBEGKPvOoXfGwOJh0H8) | [Emile Franck](https://open.spotify.com/artist/7DOsl0l1wDk1N7kuv3czEn) | [Rivière De Larmes](https://open.spotify.com/album/195cjVIsH4r8veuhmMXVp5) | 2:58 |
-| 229 | [Lullaby](https://open.spotify.com/track/1UfLZIqSN1TGpe8UdPZ6Cg) | [Irma Kantola](https://open.spotify.com/artist/7eP5EaPos8EeIsG7UJfEVP) | [Lullaby](https://open.spotify.com/album/4fmQ6qrS7CxiZWXpsdTt4b) | 1:41 |
-| 230 | [Scarlet](https://open.spotify.com/track/2cIZnj2au400srT96TbOUO) | [Antonella Schiavone](https://open.spotify.com/artist/66UPdA7Hmxuf3JpXWWxh4s) | [Scarlet](https://open.spotify.com/album/5xlxpmwsMshrHl8BP5gYDe) | 1:42 |
-| 231 | [Lights](https://open.spotify.com/track/5plhWnhwmDY9WWNCCmM73D) | [Ageena](https://open.spotify.com/artist/183DOqgVm3LpcUQFICEpH2) | [Lights](https://open.spotify.com/album/1x80WCfNq7peLe03xg6Bnl) | 3:14 |
-| 232 | [White Light](https://open.spotify.com/track/5crvLtcVtQ0OYW3QtGpWcG) | [Leon White](https://open.spotify.com/artist/72ScelHE6WamhCvVXl9lp2) | [Living Memories](https://open.spotify.com/album/0GHeLRHh0oJu7n4Eke61mN) | 3:05 |
-| 233 | [Stuor Muorkke](https://open.spotify.com/track/0YicEESY4K4uK5iXldrVN6) | [Laponia](https://open.spotify.com/artist/2ofMsV0f4ziG96f4ZKPzGr) | [Sarek](https://open.spotify.com/album/2CmyrbcaDXk5SulZg9nRIi) | 1:47 |
-| 234 | [Far Fetched Sleep](https://open.spotify.com/track/2nvpLuJz7dfrmV2J0jGxdv) | [Millie S](https://open.spotify.com/artist/3WXETka20TU3p9HZZjQ0cj) | [Far Fetched Sleep](https://open.spotify.com/album/5UnOxSSbm5Ss1q5VHU2GnX) | 3:09 |
-| 235 | [Sunset](https://open.spotify.com/track/4gpqUShgtvlOZbtcVLjBM0) | [Vera Martin](https://open.spotify.com/artist/0niimfX9PMavXj1AWDcAjs) | [Sunset](https://open.spotify.com/album/2dPiwfhNgVCS1AHPcNkRsd) | 3:21 |
-| 236 | [North Haven](https://open.spotify.com/track/4UTzl5xz40YYzut1y3EBYi) | [Lundegard](https://open.spotify.com/artist/7Bd7PURdGa6srlW6VRpTiV) | [North Haven](https://open.spotify.com/album/0ai2noQFlGW1Fx57amRNls) | 3:44 |
-| 237 | [Nysnö](https://open.spotify.com/track/3XUoK60Lyhtf9qyqJrppKq) | [Folksaga](https://open.spotify.com/artist/3fRnbMogVMgEwoyHPx00nf) | [Nysnö](https://open.spotify.com/album/388EAxsyfHxg7BhyDlRTYt) | 2:36 |
-| 238 | [100 Different Ways](https://open.spotify.com/track/0qQYLDf5A6ezcYaYYAnhDI) | [Soleia](https://open.spotify.com/artist/5hD3baa7qYspuXyB859Eml) | [Ups and Downs](https://open.spotify.com/album/2Qgmkjkmj2ojKATQ8hSDvc) | 2:32 |
-| 239 | [Clarity](https://open.spotify.com/track/7mgX4lCdmvSN2lacmXAlSK) | [Blue is Blue](https://open.spotify.com/artist/1AjRe7I3aEcgXocpQuDUK0) | [Clarity](https://open.spotify.com/album/5uyfMS2E2lulhGql8Zp7kV) | 4:29 |
-| 240 | [Waiting](https://open.spotify.com/track/2l6cdCbfZ4l9LZMKjepbS2) | [Catherine Holm](https://open.spotify.com/artist/4L8nmO7kqdX1K9ydfCfbh7) | [Waiting](https://open.spotify.com/album/2DVdfvJAKnG2Xa5KPoWh2X) | 1:49 |
-| 241 | [Lost But Not Forgotten](https://open.spotify.com/track/50F8hTHpGzxthbPiEEvDfE) | [Pacific Humble](https://open.spotify.com/artist/0OhoLNQJv9eCwRiwEUjv4e) | [Lost But Not Forgotten](https://open.spotify.com/album/3poS1xDMOdeoRHHXE21McX) | 2:03 |
-| 242 | [Phenomena](https://open.spotify.com/track/1Naf16ekAHVTzYhhxoZCnQ) | [Primer Dia](https://open.spotify.com/artist/5kXyMVyXSK2cHnjOja5hRJ) | [Phenomena](https://open.spotify.com/album/1AozXJPuscfZsKrpaxpIhm) | 2:46 |
-| 243 | [Lacuna](https://open.spotify.com/track/6ugfn14Y2aS1loWCWh1APM) | [Rosa Løvstrøm](https://open.spotify.com/artist/13f3uLVCX4o7wjqwtVlDwC) | [Lacuna](https://open.spotify.com/album/6cfCcvxN1aCYWgkl5H1YSB) | 3:09 |
-| 244 | [Eternal Self](https://open.spotify.com/track/5nkMUigFhTzLpvMkXI6kPk) | [Arush Mandal](https://open.spotify.com/artist/5WSATrMjcuhKibg0jp4uHI) | [Eternal Self](https://open.spotify.com/album/79CUupsxoVX30cRSdKJJWQ) | 4:25 |
-| 245 | [Soledad natural](https://open.spotify.com/track/6rNvJRr2yErh0cRjMq7scQ) | [Sonhos de Solidão](https://open.spotify.com/artist/5u54CVdeb9o3uVJjigbrWS) | [Soledad natural \(Ambient version\)](https://open.spotify.com/album/0uWYghjpGDOUZ5kw9jUIZN) | 2:35 |
-| 246 | [Waiting For The Moment](https://open.spotify.com/track/0PWTD37PzDoCU9CunHUokE) | [Ronald Sims](https://open.spotify.com/artist/6Nqa1xXz6ABuyUVhsSDdUR) | [Waiting For The Moment](https://open.spotify.com/album/7hyIafLbk0WYcrydcN6PEX) | 3:24 |
+| 219 | [Slumbering](https://open.spotify.com/track/7G93PdOrq65MM44MULk4LF) | [Mindful Eclipse](https://open.spotify.com/artist/7AqjdmOiPPFzX6oy0Mfo1j) | [Slumbering](https://open.spotify.com/album/38kQws0XCqhTwzmVs9SJX0) | 3:02 |
+| 220 | [Evening Song](https://open.spotify.com/track/1gWYsSqPShi9oTU04dAofI) | [Alexander Sterling](https://open.spotify.com/artist/7jCHPpIZYNW9xezoE6m6Ez) | [Evening Song](https://open.spotify.com/album/2EGEPzrjEz8YVg3rCvgJ1A) | 3:18 |
+| 221 | [Sunbleached Memory](https://open.spotify.com/track/6JVIfxPhQXAyPcA2Ro94HX) | [Toledo Rains](https://open.spotify.com/artist/76uaa6flgNHI5elCp0ssBF) | [Sunbleached Memory](https://open.spotify.com/album/0uLlVkSLZIBxOgp5CxEU6A) | 2:35 |
+| 222 | [Nature Calling](https://open.spotify.com/track/1U5nro2p0IGtHE6kZqt8WG) | [Jonas Holmes](https://open.spotify.com/artist/1ktaC9yb8R0mC5KSPjENLl) | [Nature Calling](https://open.spotify.com/album/1IHAC5mZAYnmqlKkfEoH4L) | 1:54 |
+| 223 | [Sleepless](https://open.spotify.com/track/5oH5ijHVrmgwEfUttQ9pjX) | [Domenik Kalinsky](https://open.spotify.com/artist/4JYktW5hRyzdlGNRZDXjkQ) | [Sleepless](https://open.spotify.com/album/5ngJnKqFA5xkve0BQxjUUv) | 2:53 |
+| 224 | [Threads](https://open.spotify.com/track/5ASmAe7WcZaLVx6KcCqhW0) | [Ebb & Flod](https://open.spotify.com/artist/2thIq9dFmnfUClzXEjDIMr) | [Moonrise](https://open.spotify.com/album/217hUO8Iila5lozKvwmElh) | 3:12 |
+| 225 | [Cosmonova](https://open.spotify.com/track/1zNmkTJEovkzgCfk46DTId) | [Albie Monroy](https://open.spotify.com/artist/1v2h0KiWsSggTVVfv9QjhT) | [The Ember](https://open.spotify.com/album/5xoUiNRUh69Y6BbJg1luSE) | 3:31 |
+| 226 | [Rivière De Larmes](https://open.spotify.com/track/6wlVBEGKPvOoXfGwOJh0H8) | [Emile Franck](https://open.spotify.com/artist/7DOsl0l1wDk1N7kuv3czEn) | [Rivière De Larmes](https://open.spotify.com/album/195cjVIsH4r8veuhmMXVp5) | 2:58 |
+| 227 | [Lullaby](https://open.spotify.com/track/1UfLZIqSN1TGpe8UdPZ6Cg) | [Irma Kantola](https://open.spotify.com/artist/7eP5EaPos8EeIsG7UJfEVP) | [Lullaby](https://open.spotify.com/album/4fmQ6qrS7CxiZWXpsdTt4b) | 1:41 |
+| 228 | [Scarlet](https://open.spotify.com/track/2cIZnj2au400srT96TbOUO) | [Antonella Schiavone](https://open.spotify.com/artist/66UPdA7Hmxuf3JpXWWxh4s) | [Scarlet](https://open.spotify.com/album/5xlxpmwsMshrHl8BP5gYDe) | 1:42 |
+| 229 | [White Light](https://open.spotify.com/track/5crvLtcVtQ0OYW3QtGpWcG) | [Leon White](https://open.spotify.com/artist/72ScelHE6WamhCvVXl9lp2) | [Living Memories](https://open.spotify.com/album/0GHeLRHh0oJu7n4Eke61mN) | 3:05 |
+| 230 | [Stuor Muorkke](https://open.spotify.com/track/0YicEESY4K4uK5iXldrVN6) | [Laponia](https://open.spotify.com/artist/2ofMsV0f4ziG96f4ZKPzGr) | [Sarek](https://open.spotify.com/album/2CmyrbcaDXk5SulZg9nRIi) | 1:47 |
+| 231 | [Far Fetched Sleep](https://open.spotify.com/track/2nvpLuJz7dfrmV2J0jGxdv) | [Millie S](https://open.spotify.com/artist/3WXETka20TU3p9HZZjQ0cj) | [Far Fetched Sleep](https://open.spotify.com/album/5UnOxSSbm5Ss1q5VHU2GnX) | 3:09 |
+| 232 | [Sunset](https://open.spotify.com/track/4gpqUShgtvlOZbtcVLjBM0) | [Vera Martin](https://open.spotify.com/artist/0niimfX9PMavXj1AWDcAjs) | [Sunset](https://open.spotify.com/album/2dPiwfhNgVCS1AHPcNkRsd) | 3:21 |
+| 233 | [North Haven](https://open.spotify.com/track/4UTzl5xz40YYzut1y3EBYi) | [Lundegard](https://open.spotify.com/artist/7Bd7PURdGa6srlW6VRpTiV) | [North Haven](https://open.spotify.com/album/0ai2noQFlGW1Fx57amRNls) | 3:44 |
+| 234 | [Nysnö](https://open.spotify.com/track/3XUoK60Lyhtf9qyqJrppKq) | [Folksaga](https://open.spotify.com/artist/3fRnbMogVMgEwoyHPx00nf) | [Nysnö](https://open.spotify.com/album/388EAxsyfHxg7BhyDlRTYt) | 2:36 |
+| 235 | [100 Different Ways](https://open.spotify.com/track/0qQYLDf5A6ezcYaYYAnhDI) | [Soleia](https://open.spotify.com/artist/5hD3baa7qYspuXyB859Eml) | [Ups and Downs](https://open.spotify.com/album/2Qgmkjkmj2ojKATQ8hSDvc) | 2:32 |
+| 236 | [Clarity](https://open.spotify.com/track/7mgX4lCdmvSN2lacmXAlSK) | [Blue is Blue](https://open.spotify.com/artist/1AjRe7I3aEcgXocpQuDUK0) | [Clarity](https://open.spotify.com/album/5uyfMS2E2lulhGql8Zp7kV) | 4:29 |
+| 237 | [Lost But Not Forgotten](https://open.spotify.com/track/50F8hTHpGzxthbPiEEvDfE) | [Pacific Humble](https://open.spotify.com/artist/0OhoLNQJv9eCwRiwEUjv4e) | [Lost But Not Forgotten](https://open.spotify.com/album/3poS1xDMOdeoRHHXE21McX) | 2:03 |
+| 238 | [Phenomena](https://open.spotify.com/track/1Naf16ekAHVTzYhhxoZCnQ) | [Primer Dia](https://open.spotify.com/artist/5kXyMVyXSK2cHnjOja5hRJ) | [Phenomena](https://open.spotify.com/album/1AozXJPuscfZsKrpaxpIhm) | 2:46 |
+| 239 | [Lacuna](https://open.spotify.com/track/6ugfn14Y2aS1loWCWh1APM) | [Rosa Løvstrøm](https://open.spotify.com/artist/13f3uLVCX4o7wjqwtVlDwC) | [Lacuna](https://open.spotify.com/album/6cfCcvxN1aCYWgkl5H1YSB) | 3:09 |
+| 240 | [Eternal Self](https://open.spotify.com/track/5nkMUigFhTzLpvMkXI6kPk) | [Arush Mandal](https://open.spotify.com/artist/5WSATrMjcuhKibg0jp4uHI) | [Eternal Self](https://open.spotify.com/album/79CUupsxoVX30cRSdKJJWQ) | 4:25 |
+| 241 | [Soledad natural](https://open.spotify.com/track/6rNvJRr2yErh0cRjMq7scQ) | [Sonhos de Solidão](https://open.spotify.com/artist/5u54CVdeb9o3uVJjigbrWS) | [Soledad natural \(Ambient version\)](https://open.spotify.com/album/0uWYghjpGDOUZ5kw9jUIZN) | 2:35 |
+| 242 | [Waiting For The Moment](https://open.spotify.com/track/0PWTD37PzDoCU9CunHUokE) | [Ronald Sims](https://open.spotify.com/artist/6Nqa1xXz6ABuyUVhsSDdUR) | [Waiting For The Moment](https://open.spotify.com/album/7hyIafLbk0WYcrydcN6PEX) | 3:24 |
 
-Snapshot ID: `MTY2MDI5OTA2OCwwMDAwMDAwMGUzMjA2ZjQwNmM4YWI1ZGYwY2NkZjYzZDc0Y2JjOTNk`
+Snapshot ID: `MTY2MjEyNDczMSwwMDAwMDAwMDU5ZTRmZDAxYWI2ZDAxZDJlZDE5NzU3Yjk1OTMyMTNk`

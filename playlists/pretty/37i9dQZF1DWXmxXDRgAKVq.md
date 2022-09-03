@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXmxXDRgAKVq.md) - [plain]
 
 > Curated by A$AP Mob in honor of A$AP Yams.
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,830 likes - 45 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,455 likes - 45 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,9 +12,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXmxXDRgAKVq.md) - [plain]
 | 2 | [Dennis Rodman \(feat\. Tyga\)](https://open.spotify.com/track/2N8jIpNMutjwnt50OroVVL) | [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Floor Seats II](https://open.spotify.com/album/0QcZ0udPMK7JkcZW3ptDXV) | 3:18 |
 | 3 | [Babushka Boi](https://open.spotify.com/track/643PW82aBMUa1FiWi5VQY7) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Babushka Boi](https://open.spotify.com/album/3zOkSAbg9o7gQ3yXtZhx5v) | 3:07 |
 | 4 | [Jet Lag](https://open.spotify.com/track/2hyF1YWdX8yxExvRelT9nB) | [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL) | [Floor Seats](https://open.spotify.com/album/6bI4IQKBcLX0KsTjQ9NR97) | 3:23 |
-| 5 | [Kratez](https://open.spotify.com/track/3eYXE4SPxwKUVQhRmJS5fD) | [A$AP Twelvyy](https://open.spotify.com/artist/0tPjSrb43a58uznKru1k2P) | [Before Noon](https://open.spotify.com/album/2uckSYAOC5DPO2poCKPYTl) | 3:04 |
-| 6 | [Daytona](https://open.spotify.com/track/2YlK5QOMovLtTN10pWAYyd) | [A$AP Twelvyy](https://open.spotify.com/artist/0tPjSrb43a58uznKru1k2P) | [Before Noon](https://open.spotify.com/album/2uckSYAOC5DPO2poCKPYTl) | 3:12 |
-| 7 | [Bill Collector](https://open.spotify.com/track/1hgJMdjMg5eyPqWlkVePxx) | [A$AP Twelvyy](https://open.spotify.com/artist/0tPjSrb43a58uznKru1k2P) | [Before Noon](https://open.spotify.com/album/2uckSYAOC5DPO2poCKPYTl) | 2:51 |
+| 5 | [Kratez](https://open.spotify.com/track/3ZVV12Td7OBXRPEv3uASSz) | [A$AP Twelvyy](https://open.spotify.com/artist/0tPjSrb43a58uznKru1k2P) | [Before Noon](https://open.spotify.com/album/7fcmjYIIXmpNPM6r3nZ0TE) | 3:04 |
+| 6 | [Daytona](https://open.spotify.com/track/0A05GBydfE0BGfWDB8Hcl7) | [A$AP Twelvyy](https://open.spotify.com/artist/0tPjSrb43a58uznKru1k2P) | [Before Noon](https://open.spotify.com/album/7fcmjYIIXmpNPM6r3nZ0TE) | 3:12 |
+| 7 | [Bill Collector](https://open.spotify.com/track/56ch95KR0JyJUTbzjKVvAh) | [A$AP Twelvyy](https://open.spotify.com/artist/0tPjSrb43a58uznKru1k2P) | [Before Noon](https://open.spotify.com/album/7fcmjYIIXmpNPM6r3nZ0TE) | 2:51 |
 | 8 | [Designer Boi](https://open.spotify.com/track/5ZHdSdhLl9d79wasqTn3Ax) | [A$AP NAST](https://open.spotify.com/artist/1uLYUm2A6kpFYAECfAFoH1), [D33J](https://open.spotify.com/artist/6DIUUnQRMBTkigLlsAxblR) | [Designer Boi](https://open.spotify.com/album/7Lo5YxRSpt9VcQlxGbIxpa) | 2:10 |
 | 9 | [Bad Company \(feat\. BlocBoy JB\)](https://open.spotify.com/track/3ZYwSDF9knZI0RVlKR4PHC) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [BlocBoy JB](https://open.spotify.com/artist/4TEJudQY2pXxVHPE3gD2EU) | [Bad Company \(feat\. BlocBoy JB\)](https://open.spotify.com/album/2IB4u7CExI80gM2KbkDtDp) | 3:03 |
 | 10 | [Yamborghini High \(feat\. Juicy J\)](https://open.spotify.com/track/2rqUblDWJKlMVwh9uJc0Vv) | [A$AP Mob](https://open.spotify.com/artist/7yO4IdJjCEPz7YgZMe25iS), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) | [Yamborghini High \(feat\. Juicy J\)](https://open.spotify.com/album/788rHiWVrWzM8dF7IiumCB) | 5:02 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXmxXDRgAKVq.md) - [plain]
 | 44 | [Nasty's World \(feat\. A$AP Nast & Onyx\)](https://open.spotify.com/track/2fCoq1wZzsa18L8mD33iuM) | [A$AP Mob](https://open.spotify.com/artist/7yO4IdJjCEPz7YgZMe25iS), [A$AP NAST](https://open.spotify.com/artist/1uLYUm2A6kpFYAECfAFoH1), [Onyx](https://open.spotify.com/artist/10Khz9BDdDT2mzm3330Cvu) | [Cozy Tapes: Vol\. 1 Friends \-](https://open.spotify.com/album/3RaACfwYTY9uiDy3VSWLLc) | 3:58 |
 | 45 | [BYF \(feat\. A$AP Rocky, A$AP Ant & Smooky MarGielaa\)](https://open.spotify.com/track/6g5exlGGjNqJwIK6OQoolD) | [A$AP Mob](https://open.spotify.com/artist/7yO4IdJjCEPz7YgZMe25iS), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [A$AP ANT](https://open.spotify.com/artist/45m1IiS45uD1HcPlYkNWKj), [Smooky MarGielaa](https://open.spotify.com/artist/2HO2kO7O5gEnM91dhobllP) | [Cozy Tapes Vol\. 2: Too Cozy](https://open.spotify.com/album/0qr1Fvi1haEDWVbFtekZLb) | 2:54 |
 
-Snapshot ID: `MTYwMzc2MDk2MiwwMDAwMDAwMDE4YmIxNjVkMWZiZTIxNDk4NGUzMmJhNTQ2NjEzNzlm`
+Snapshot ID: `MTYwMzc2MDk2MiwwMDAwMDAwMGJjMjk5MDEyZmZhYjVjMzRkNGZiNmEwYmJhMjRkMzI2`

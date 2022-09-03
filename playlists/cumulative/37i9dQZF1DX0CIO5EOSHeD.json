@@ -2751,7 +2751,7 @@
       ],
       "date_added": "2021-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 239343,
       "name": "Into",
       "url": "https://open.spotify.com/track/5O408HCYe3tXhyLf5JMjhJ"
@@ -5535,6 +5535,28 @@
       "duration_ms": 162935,
       "name": "Why Would I?",
       "url": "https://open.spotify.com/track/2EQPHBmFdi6gIuHz7qNpMd"
+    },
+    {
+      "album": {
+        "name": "wish i could see you again",
+        "url": "https://open.spotify.com/album/6ub14KPnedemkpxkj0KNfB"
+      },
+      "artists": [
+        {
+          "name": "Hypx",
+          "url": "https://open.spotify.com/artist/0dawqbUeQnvKVNWbjDYYww"
+        },
+        {
+          "name": "LEVI",
+          "url": "https://open.spotify.com/artist/3wFB9K2H2mWmIqy48sAUs2"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187988,
+      "name": "wish i could see you again",
+      "url": "https://open.spotify.com/track/1eFjWN9bIGAtF7bMEU4eUU"
     },
     {
       "album": {

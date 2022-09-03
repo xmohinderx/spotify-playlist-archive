@@ -1294,6 +1294,28 @@
     },
     {
       "album": {
+        "name": "Heaven on Earth",
+        "url": "https://open.spotify.com/album/08R8TFMIdn2IwhDOmfKmqA"
+      },
+      "artists": [
+        {
+          "name": "Roann",
+          "url": "https://open.spotify.com/artist/6OwRvBiAqnNokRLAtnGDLy"
+        },
+        {
+          "name": "Jordan Hawkins",
+          "url": "https://open.spotify.com/artist/70XiOMiwBAHHspwHrkxlJY"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Heaven on Earth",
+      "url": "https://open.spotify.com/track/3FTpb7bVZEK503Ldoiewm1"
+    },
+    {
+      "album": {
         "name": "Heights",
         "url": "https://open.spotify.com/album/6mfFBO0ksZJTg3mNc4wfjf"
       },
@@ -1655,6 +1677,24 @@
       "duration_ms": 185428,
       "name": "I Want You",
       "url": "https://open.spotify.com/track/1rOi1VtkXsqt5I8LxvagIa"
+    },
+    {
+      "album": {
+        "name": "Amari' SZN 1",
+        "url": "https://open.spotify.com/album/7xHdTbAn5n1xFyW6afp5m4"
+      },
+      "artists": [
+        {
+          "name": "Amari Noelle",
+          "url": "https://open.spotify.com/artist/0oOSUbpeJXzsaPm0x7wBF7"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185428,
+      "name": "I Want You",
+      "url": "https://open.spotify.com/track/4vNKn8JtZrcwn7aR3x1unv"
     },
     {
       "album": {
@@ -3025,7 +3065,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 168311,
       "name": "Part Time Lover - Radio Edit",
       "url": "https://open.spotify.com/track/3RT0FdCEeCTTPbFY5Qk5pk"
@@ -3429,7 +3469,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 273760,
       "name": "Seduction",
       "url": "https://open.spotify.com/track/2qVqxcTXGugY41u8Sr8xfp"

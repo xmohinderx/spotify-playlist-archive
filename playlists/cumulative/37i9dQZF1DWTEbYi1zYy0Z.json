@@ -179,7 +179,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 231285,
       "name": "Amalfi",
       "url": "https://open.spotify.com/track/0Ge9juv7gNX6B3LaYICwk5"
@@ -1205,6 +1205,24 @@
       "duration_ms": 240554,
       "name": "Don't Dance Just Groove",
       "url": "https://open.spotify.com/track/3dsXfrmwFbFDIVonEmffrD"
+    },
+    {
+      "album": {
+        "name": "Donut Jam",
+        "url": "https://open.spotify.com/album/7iGtZfFdUgJnEGrGkUgAcQ"
+      },
+      "artists": [
+        {
+          "name": "Peet Project",
+          "url": "https://open.spotify.com/artist/7fiTd7VknYFR4muiLHf1yD"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216437,
+      "name": "Donut Jam",
+      "url": "https://open.spotify.com/track/4pXtjONiRse7CmVqc9Ujjs"
     },
     {
       "album": {
@@ -3084,6 +3102,24 @@
     },
     {
       "album": {
+        "name": "Cool Shades",
+        "url": "https://open.spotify.com/album/5g5y73FahNJx8mjSBvFNcz"
+      },
+      "artists": [
+        {
+          "name": "Nils",
+          "url": "https://open.spotify.com/artist/1vzmLZbXh0Bw5Kz5U4iIyB"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240640,
+      "name": "Nine 2 Five",
+      "url": "https://open.spotify.com/track/1zZ0JFlkidMKUBsnwpR3Tb"
+    },
+    {
+      "album": {
         "name": "Traveling",
         "url": "https://open.spotify.com/album/0GBvgAL1K5e02CdXPbOhcS"
       },
@@ -3685,7 +3721,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 248712,
       "name": "Safe and Sound",
       "url": "https://open.spotify.com/track/64YEp1YNctGTXdIMySqsWC"

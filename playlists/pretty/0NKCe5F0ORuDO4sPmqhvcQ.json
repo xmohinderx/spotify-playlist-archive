@@ -1,13 +1,37 @@
 {
   "description": "selects from music we've been listening to @ Moving Castle. Manila Killa's album, Dusk drops July 21st!",
-  "num_followers": 21258,
+  "num_followers": 21255,
   "original_name": "Moving Castle Monthly",
   "owner": {
     "name": "Moving Castle",
     "url": "https://open.spotify.com/user/moving-castle"
   },
-  "snapshot_id": "OTkyMiw3ZDhhZTVlNDZiZDk1MDQ2NDljNGRlYzFkMmNhYTljMWIxOWE2OThj",
+  "snapshot_id": "OTkzMiwwMmU0MjQ1YTNhYTMxNjZjYzRjNTJhNzcyZGFmOWZlMzM1NWYxMmUz",
   "tracks": [
+    {
+      "added_at": "2022-09-02 17:26:49",
+      "album": {
+        "name": "HEAVEN'S GATES (feat. Izzy Camina) [Manila Killa Remix]",
+        "url": "https://open.spotify.com/album/6VjleRIJlteuD8bd63EjN7"
+      },
+      "artists": [
+        {
+          "name": "Devault",
+          "url": "https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL"
+        },
+        {
+          "name": "Izzy Camina",
+          "url": "https://open.spotify.com/artist/1bEvuUxdYlGYGq5WvDAE1u"
+        },
+        {
+          "name": "Manila Killa",
+          "url": "https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "HEAVEN'S GATES (feat. Izzy Camina) - Manila Killa Remix",
+      "url": "https://open.spotify.com/track/0jT25u5GLiQtqX8k25Rjup"
+    },
     {
       "added_at": "2022-08-06 17:21:55",
       "album": {
@@ -29,44 +53,24 @@
       "url": "https://open.spotify.com/track/6J9A9BonPgsE2zH1bEe2QC"
     },
     {
-      "added_at": "2022-07-19 05:29:33",
+      "added_at": "2022-09-02 22:33:17",
       "album": {
-        "name": "Never Easy",
-        "url": "https://open.spotify.com/album/6hfjf52GzZmtmlz4hzsoFo"
+        "name": "Gorgeous (with Reo Cragun)",
+        "url": "https://open.spotify.com/album/2kNtLpsLRH3s2b74ZinmNs"
       },
       "artists": [
         {
-          "name": "Manila Killa",
-          "url": "https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN"
+          "name": "Daniel Allan",
+          "url": "https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra"
         },
         {
-          "name": "TRACE",
-          "url": "https://open.spotify.com/artist/5k7Y2t4cB5dG219QgFCvXW"
+          "name": "Reo Cragun",
+          "url": "https://open.spotify.com/artist/08v1r0jqDyvSo2LtSqHxcy"
         }
       ],
-      "duration_ms": 224391,
-      "name": "Never Easy",
-      "url": "https://open.spotify.com/track/6ggH9Ph0LiwqfTKZCtt4iJ"
-    },
-    {
-      "added_at": "2022-07-15 04:00:58",
-      "album": {
-        "name": "Sad and Famous",
-        "url": "https://open.spotify.com/album/4T9OM1COCw5qs5w6lCGyrn"
-      },
-      "artists": [
-        {
-          "name": "Terror Jr",
-          "url": "https://open.spotify.com/artist/5QatamYwvUTOmMHW6WA0AG"
-        },
-        {
-          "name": "AOBeats",
-          "url": "https://open.spotify.com/artist/2tfyKNBwTB41ArvliXX1zA"
-        }
-      ],
-      "duration_ms": 140958,
-      "name": "Sad and Famous",
-      "url": "https://open.spotify.com/track/5cxDKRfXUMLzf6Wasf7wSJ"
+      "duration_ms": 168552,
+      "name": "Gorgeous (with Reo Cragun)",
+      "url": "https://open.spotify.com/track/4inDHMhS9nxqOygYurJH2Q"
     },
     {
       "added_at": "2022-06-23 19:13:06",
@@ -143,6 +147,26 @@
       "duration_ms": 283980,
       "name": "Take Me Higher",
       "url": "https://open.spotify.com/track/7oDizfJpMCEvjMxkT5NgiL"
+    },
+    {
+      "added_at": "2022-07-19 05:29:33",
+      "album": {
+        "name": "Never Easy",
+        "url": "https://open.spotify.com/album/6hfjf52GzZmtmlz4hzsoFo"
+      },
+      "artists": [
+        {
+          "name": "Manila Killa",
+          "url": "https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN"
+        },
+        {
+          "name": "TRACE",
+          "url": "https://open.spotify.com/artist/5k7Y2t4cB5dG219QgFCvXW"
+        }
+      ],
+      "duration_ms": 224391,
+      "name": "Never Easy",
+      "url": "https://open.spotify.com/track/6ggH9Ph0LiwqfTKZCtt4iJ"
     },
     {
       "added_at": "2022-04-25 17:40:12",
@@ -235,6 +259,26 @@
       "duration_ms": 132352,
       "name": "Sexy Rave Boy",
       "url": "https://open.spotify.com/track/1m6iGcpFTtKTvsvukOL4Du"
+    },
+    {
+      "added_at": "2022-07-15 04:00:58",
+      "album": {
+        "name": "Sad and Famous",
+        "url": "https://open.spotify.com/album/4T9OM1COCw5qs5w6lCGyrn"
+      },
+      "artists": [
+        {
+          "name": "Terror Jr",
+          "url": "https://open.spotify.com/artist/5QatamYwvUTOmMHW6WA0AG"
+        },
+        {
+          "name": "AOBeats",
+          "url": "https://open.spotify.com/artist/2tfyKNBwTB41ArvliXX1zA"
+        }
+      ],
+      "duration_ms": 140958,
+      "name": "Sad and Famous",
+      "url": "https://open.spotify.com/track/5cxDKRfXUMLzf6Wasf7wSJ"
     },
     {
       "added_at": "2022-04-15 15:30:53",
@@ -2119,6 +2163,74 @@
       "duration_ms": 159310,
       "name": "See If I Care",
       "url": "https://open.spotify.com/track/58QNQ1ZfZ2Ad1NUecBPKer"
+    },
+    {
+      "added_at": "2022-09-02 17:27:09",
+      "album": {
+        "name": "Sable Valley Summer Vol. 3",
+        "url": "https://open.spotify.com/album/2TklWyQdmNHg7d2Xmam8G8"
+      },
+      "artists": [
+        {
+          "name": "VILLA",
+          "url": "https://open.spotify.com/artist/6CjQ1qXQdr7P84BkOEuTwS"
+        },
+        {
+          "name": "juuku",
+          "url": "https://open.spotify.com/artist/2ixBQngmF4ZFXYHi8sJTfl"
+        }
+      ],
+      "duration_ms": 198823,
+      "name": "void",
+      "url": "https://open.spotify.com/track/09RZdc0aGQIj2zyb533nT1"
+    },
+    {
+      "added_at": "2022-09-02 17:27:19",
+      "album": {
+        "name": "Sable Valley Summer Vol. 3",
+        "url": "https://open.spotify.com/album/2TklWyQdmNHg7d2Xmam8G8"
+      },
+      "artists": [
+        {
+          "name": "RL Grime",
+          "url": "https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP"
+        },
+        {
+          "name": "Hex Cougar",
+          "url": "https://open.spotify.com/artist/0AlNB0yIoyxdKloLmK9AOR"
+        },
+        {
+          "name": "fknsyd",
+          "url": "https://open.spotify.com/artist/4fHFFvChjfjG7sAseTwiXd"
+        }
+      ],
+      "duration_ms": 247500,
+      "name": "Silo (feat. fknsyd)",
+      "url": "https://open.spotify.com/track/49Z1VQivkHoY5KGdUwMv5i"
+    },
+    {
+      "added_at": "2022-09-02 18:59:18",
+      "album": {
+        "name": "Sable Valley Summer Vol. 3",
+        "url": "https://open.spotify.com/album/2TklWyQdmNHg7d2Xmam8G8"
+      },
+      "artists": [
+        {
+          "name": "RL Grime",
+          "url": "https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP"
+        },
+        {
+          "name": "Hex Cougar",
+          "url": "https://open.spotify.com/artist/0AlNB0yIoyxdKloLmK9AOR"
+        },
+        {
+          "name": "fknsyd",
+          "url": "https://open.spotify.com/artist/4fHFFvChjfjG7sAseTwiXd"
+        }
+      ],
+      "duration_ms": 247500,
+      "name": "Silo (feat. fknsyd)",
+      "url": "https://open.spotify.com/track/49Z1VQivkHoY5KGdUwMv5i"
     }
   ],
   "unique_name": "Moving Castle Monthly",

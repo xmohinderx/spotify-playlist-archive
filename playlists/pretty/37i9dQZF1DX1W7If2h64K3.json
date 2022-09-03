@@ -1,12 +1,12 @@
 {
   "description": "Discover the music of Schumann.",
-  "num_followers": 32781,
+  "num_followers": 32748,
   "original_name": "This Is Schumann",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjMyMDc4MywwMDAwMDAwMGJiMWFkNDliZjRmMWYwY2M1YThkMWMwYzVjZTk5Y2Rl",
+  "snapshot_id": "MTY1NjMyMDc4MywwMDAwMDAwMDRmNjdmOTA0MTJmOTBiMDg3MDM2OTg0ZmVmMjY4YTAx",
   "tracks": [
     {
       "added_at": "2022-06-27 09:06:23",
@@ -511,6 +511,26 @@
     {
       "added_at": "2022-06-27 09:06:23",
       "album": {
+        "name": "Schumann: Frage",
+        "url": "https://open.spotify.com/album/1PY3eZFiACssW8rfkG1qMu"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Christian Gerhaher",
+          "url": "https://open.spotify.com/artist/0reEj3pa0lTG2gOkj9BoPb"
+        }
+      ],
+      "duration_ms": 110773,
+      "name": "Sechs Ges\u00e4nge, Op. 107: No. 1, Herzeleid",
+      "url": "https://open.spotify.com/track/3eNYgvJHWGcfAlFp8ZrlRl"
+    },
+    {
+      "added_at": "2022-06-27 09:06:23",
+      "album": {
         "name": "Schumann, R.: Works for Oboe and Piano",
         "url": "https://open.spotify.com/album/7CijIoQoh5qLsfAPOZix3e"
       },
@@ -551,26 +571,6 @@
       "duration_ms": 386893,
       "name": "Blumenstuck, Op. 19",
       "url": "https://open.spotify.com/track/7F5eYGRqDcJzGdLz3uOV9A"
-    },
-    {
-      "added_at": "2022-06-27 09:06:23",
-      "album": {
-        "name": "Schumann: Frage",
-        "url": "https://open.spotify.com/album/1PY3eZFiACssW8rfkG1qMu"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Christian Gerhaher",
-          "url": "https://open.spotify.com/artist/0reEj3pa0lTG2gOkj9BoPb"
-        }
-      ],
-      "duration_ms": 110773,
-      "name": "Sechs Ges\u00e4nge, Op. 107: No. 1, Herzeleid",
-      "url": "https://open.spotify.com/track/3eNYgvJHWGcfAlFp8ZrlRl"
     },
     {
       "added_at": "2022-06-27 09:06:23",
@@ -763,6 +763,26 @@
     {
       "added_at": "2022-06-27 09:06:23",
       "album": {
+        "name": "Schumann, R.: Fantasie Op. 17 / Bunte Blatter Op. 99",
+        "url": "https://open.spotify.com/album/71F4hUTu6bw5xDTRSAjBJj"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "D\u00e9nes V\u00e1rjon",
+          "url": "https://open.spotify.com/artist/1uf45Fc4NypKo06YLc5J6q"
+        }
+      ],
+      "duration_ms": 593373,
+      "name": "Fantasie in C Major, Op. 17: III. Langsam getragen. Durchaus leise zu halten",
+      "url": "https://open.spotify.com/track/2uLi3RIKPSw49fdS3DKa08"
+    },
+    {
+      "added_at": "2022-06-27 09:06:23",
+      "album": {
         "name": "Schumann: Myrthen",
         "url": "https://open.spotify.com/album/7I0LzTM3LnH0byXdDn3cGf"
       },
@@ -779,26 +799,6 @@
       "duration_ms": 139000,
       "name": "Myrthen, Op. 25: No. 1, Widmung",
       "url": "https://open.spotify.com/track/29jmWDvrfrcSVDE3U0twzg"
-    },
-    {
-      "added_at": "2022-06-27 09:06:23",
-      "album": {
-        "name": "Mozart: Quintet in E-Flat & Trio in E-Flat - Schumann: M\u00e4rchenerz\u00e4hlungen & Fantasiest\u00fccke",
-        "url": "https://open.spotify.com/album/4ATmHy2jtryKewpgqLW1yR"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Nash Ensemble",
-          "url": "https://open.spotify.com/artist/4JxE9udapTtgj0yOFS4Se7"
-        }
-      ],
-      "duration_ms": 275466,
-      "name": "M\u00e4rchenerz\u00e4hlungen for Piano, Clarinet and Viola, Op. 132",
-      "url": "https://open.spotify.com/track/33kssi5UBcOtZIby6VxQhR"
     },
     {
       "added_at": "2022-06-27 09:06:23",
@@ -823,8 +823,8 @@
     {
       "added_at": "2022-06-27 09:06:23",
       "album": {
-        "name": "Schumann, R.: Fantasie Op. 17 / Bunte Blatter Op. 99",
-        "url": "https://open.spotify.com/album/71F4hUTu6bw5xDTRSAjBJj"
+        "name": "Mozart: Quintet in E-Flat & Trio in E-Flat - Schumann: M\u00e4rchenerz\u00e4hlungen & Fantasiest\u00fccke",
+        "url": "https://open.spotify.com/album/4ATmHy2jtryKewpgqLW1yR"
       },
       "artists": [
         {
@@ -832,13 +832,13 @@
           "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
         },
         {
-          "name": "D\u00e9nes V\u00e1rjon",
-          "url": "https://open.spotify.com/artist/1uf45Fc4NypKo06YLc5J6q"
+          "name": "Nash Ensemble",
+          "url": "https://open.spotify.com/artist/4JxE9udapTtgj0yOFS4Se7"
         }
       ],
-      "duration_ms": 593373,
-      "name": "Fantasie in C Major, Op. 17: III. Langsam getragen. Durchaus leise zu halten",
-      "url": "https://open.spotify.com/track/2uLi3RIKPSw49fdS3DKa08"
+      "duration_ms": 275466,
+      "name": "M\u00e4rchenerz\u00e4hlungen for Piano, Clarinet and Viola, Op. 132",
+      "url": "https://open.spotify.com/track/33kssi5UBcOtZIby6VxQhR"
     },
     {
       "added_at": "2022-06-27 09:06:23",
@@ -863,30 +863,6 @@
       "duration_ms": 162453,
       "name": "6 Gedichte und Requiem, Op. 90: No. 2. Meine Rose",
       "url": "https://open.spotify.com/track/1uGvjzTXFyTHauXfN0T5D6"
-    },
-    {
-      "added_at": "2022-06-27 09:06:23",
-      "album": {
-        "name": "Schumann: Manfred: Overture - Piano Concerto - Overture, Scherzo and Finale",
-        "url": "https://open.spotify.com/album/5O3tSB85mXcvnAuqqIL2SN"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Seattle Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/5KeUHRKEYWc5cFO5V032sb"
-        },
-        {
-          "name": "Gerard Schwarz",
-          "url": "https://open.spotify.com/artist/2m3QTMNI89DEFSlvmnayPE"
-        }
-      ],
-      "duration_ms": 266093,
-      "name": "Overture, Scherzo and Finale, Op. 52: Scherzo - Vivo",
-      "url": "https://open.spotify.com/track/1siFaMo0uVa8Npo1LqjZxE"
     },
     {
       "added_at": "2022-06-27 09:06:23",
@@ -947,6 +923,30 @@
     {
       "added_at": "2022-06-27 09:06:23",
       "album": {
+        "name": "Schumann: Manfred: Overture - Piano Concerto - Overture, Scherzo and Finale",
+        "url": "https://open.spotify.com/album/5O3tSB85mXcvnAuqqIL2SN"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Seattle Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5KeUHRKEYWc5cFO5V032sb"
+        },
+        {
+          "name": "Gerard Schwarz",
+          "url": "https://open.spotify.com/artist/2m3QTMNI89DEFSlvmnayPE"
+        }
+      ],
+      "duration_ms": 266093,
+      "name": "Overture, Scherzo and Finale, Op. 52: Scherzo - Vivo",
+      "url": "https://open.spotify.com/track/1siFaMo0uVa8Npo1LqjZxE"
+    },
+    {
+      "added_at": "2022-06-27 09:06:23",
+      "album": {
         "name": "Schumann: Symphony No.2; \"Manfred\" Overture; Konzertst\u00fcck for 4 Horns",
         "url": "https://open.spotify.com/album/0wWKS7tKOF2KxpMSURs08f"
       },
@@ -967,30 +967,6 @@
       "duration_ms": 773000,
       "name": "Symphony No.2 in C, Op.61: 1. Sostenuto assai - Un poco pi\u00f9 vivace - Allegro ma non troppo - Con fuoco",
       "url": "https://open.spotify.com/track/5OQl6PCd6FxO7qfz6tMVGq"
-    },
-    {
-      "added_at": "2022-06-27 09:06:23",
-      "album": {
-        "name": "Schumann: Lied Edition, Vol. 4: 12 Gedichte, Op. 35 - 5 Lieder Und Ges\u00e4nge, Op. 127 - 4 Ges\u00e4nge, Op. 142",
-        "url": "https://open.spotify.com/album/2gMMvfkICzWt9IpFfKedS1"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Hans-J\u00f6rg Mammel",
-          "url": "https://open.spotify.com/artist/19HTwufflsRQULGPkxN9m5"
-        },
-        {
-          "name": "Uta Hielscher",
-          "url": "https://open.spotify.com/artist/6C2UExBt8lQo1un3DBzZkq"
-        }
-      ],
-      "duration_ms": 170506,
-      "name": "12 Gedichte, Op. 35: No. 10, Stille Tranen",
-      "url": "https://open.spotify.com/track/4iUF6VfUUPziBpZP7A3Hcf"
     },
     {
       "added_at": "2022-06-27 09:06:23",
@@ -1019,8 +995,8 @@
     {
       "added_at": "2022-06-27 09:06:23",
       "album": {
-        "name": "Schumann: Liederkreis; Romances and Ballades",
-        "url": "https://open.spotify.com/album/4dd5w7LFFg8aCP49P5TxTz"
+        "name": "Schumann: Lied Edition, Vol. 4: 12 Gedichte, Op. 35 - 5 Lieder Und Ges\u00e4nge, Op. 127 - 4 Ges\u00e4nge, Op. 142",
+        "url": "https://open.spotify.com/album/2gMMvfkICzWt9IpFfKedS1"
       },
       "artists": [
         {
@@ -1028,17 +1004,17 @@
           "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
         },
         {
-          "name": "Bryn Terfel",
-          "url": "https://open.spotify.com/artist/6ILd69yy67k6OU7cwpGNSl"
+          "name": "Hans-J\u00f6rg Mammel",
+          "url": "https://open.spotify.com/artist/19HTwufflsRQULGPkxN9m5"
         },
         {
-          "name": "Malcolm Martineau",
-          "url": "https://open.spotify.com/artist/1i6erSbtyzD87TZVxLSiC2"
+          "name": "Uta Hielscher",
+          "url": "https://open.spotify.com/artist/6C2UExBt8lQo1un3DBzZkq"
         }
       ],
-      "duration_ms": 207000,
-      "name": "\"Mein Wagen rollet langsam\", Op.142, No.4",
-      "url": "https://open.spotify.com/track/2IiB2he5PNntuhU9yP7jJc"
+      "duration_ms": 170506,
+      "name": "12 Gedichte, Op. 35: No. 10, Stille Tranen",
+      "url": "https://open.spotify.com/track/4iUF6VfUUPziBpZP7A3Hcf"
     },
     {
       "added_at": "2022-06-27 09:06:23",
@@ -1059,6 +1035,30 @@
       "duration_ms": 374533,
       "name": "Presto passionato",
       "url": "https://open.spotify.com/track/4UpIfrd4UaEw94BDwjD516"
+    },
+    {
+      "added_at": "2022-06-27 09:06:23",
+      "album": {
+        "name": "Schumann: Liederkreis; Romances and Ballades",
+        "url": "https://open.spotify.com/album/4dd5w7LFFg8aCP49P5TxTz"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Bryn Terfel",
+          "url": "https://open.spotify.com/artist/6ILd69yy67k6OU7cwpGNSl"
+        },
+        {
+          "name": "Malcolm Martineau",
+          "url": "https://open.spotify.com/artist/1i6erSbtyzD87TZVxLSiC2"
+        }
+      ],
+      "duration_ms": 207000,
+      "name": "\"Mein Wagen rollet langsam\", Op.142, No.4",
+      "url": "https://open.spotify.com/track/2IiB2he5PNntuhU9yP7jJc"
     },
     {
       "added_at": "2022-06-27 09:06:23",
@@ -1163,26 +1163,6 @@
     {
       "added_at": "2022-06-27 09:06:23",
       "album": {
-        "name": "Schumann: Piano Works",
-        "url": "https://open.spotify.com/album/2ndIhvARtfbePKnG2ilv57"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Vladimir Horowitz",
-          "url": "https://open.spotify.com/artist/4Ws5hSoABAwvGJ4LhHwHgq"
-        }
-      ],
-      "duration_ms": 439213,
-      "name": "Concerto Without Orchestra, Op. 14 (Grand Sonata No. 3 in F Minor): III. Quasi variazioni. Andantino de Clara Wieck",
-      "url": "https://open.spotify.com/track/2IAnU53rak76TpGpA515Xl"
-    },
-    {
-      "added_at": "2022-06-27 09:06:23",
-      "album": {
         "name": "Schumann: Missa sacra; 4 doppelch\u00f6rige Ges\u00e4nge",
         "url": "https://open.spotify.com/album/0hcRHKRzGfDrUmqOvVpPsC"
       },
@@ -1211,6 +1191,50 @@
     {
       "added_at": "2022-06-27 09:06:23",
       "album": {
+        "name": "Schumann, R.: Dichterliebe, Op. 48 / Liederkreis, Op. 39",
+        "url": "https://open.spotify.com/album/5En6DGCjjYAZqLZ39egU8A"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Sebastian Bluth",
+          "url": "https://open.spotify.com/artist/4ipjAEa9ZO3UhUu1SE1TnE"
+        },
+        {
+          "name": "Anita Keller",
+          "url": "https://open.spotify.com/artist/3vjXL9sFRtbp3uHtHRWpBL"
+        }
+      ],
+      "duration_ms": 116200,
+      "name": "Liederkreis, Op. 39: In der Fremde",
+      "url": "https://open.spotify.com/track/4kStvokm1k1PFT5mTuoU1B"
+    },
+    {
+      "added_at": "2022-06-27 09:06:23",
+      "album": {
+        "name": "Schumann: Piano Works",
+        "url": "https://open.spotify.com/album/2ndIhvARtfbePKnG2ilv57"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Vladimir Horowitz",
+          "url": "https://open.spotify.com/artist/4Ws5hSoABAwvGJ4LhHwHgq"
+        }
+      ],
+      "duration_ms": 439213,
+      "name": "Concerto Without Orchestra, Op. 14 (Grand Sonata No. 3 in F Minor): III. Quasi variazioni. Andantino de Clara Wieck",
+      "url": "https://open.spotify.com/track/2IAnU53rak76TpGpA515Xl"
+    },
+    {
+      "added_at": "2022-06-27 09:06:23",
+      "album": {
         "name": "Schumann: Lied Edition, Vol. 1: 12 Gedichte Aus \"Liebesfruhling\", Op. 37 - Lieder Und Gesange Aus Goethes Wilhelm Meister, Op. 98A - Minnespiel",
         "url": "https://open.spotify.com/album/3b76JBP8F5vSUIMEgZnKi3"
       },
@@ -1235,30 +1259,6 @@
       "duration_ms": 201640,
       "name": "Minnespiel, Op. 101: No. 1: Meine Tone still und heiter",
       "url": "https://open.spotify.com/track/1xU1yjwGAGCCE3RiB8YKLe"
-    },
-    {
-      "added_at": "2022-06-27 09:06:23",
-      "album": {
-        "name": "Schumann, R.: Dichterliebe, Op. 48 / Liederkreis, Op. 39",
-        "url": "https://open.spotify.com/album/5En6DGCjjYAZqLZ39egU8A"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Sebastian Bluth",
-          "url": "https://open.spotify.com/artist/4ipjAEa9ZO3UhUu1SE1TnE"
-        },
-        {
-          "name": "Anita Keller",
-          "url": "https://open.spotify.com/artist/3vjXL9sFRtbp3uHtHRWpBL"
-        }
-      ],
-      "duration_ms": 116200,
-      "name": "Liederkreis, Op. 39: In der Fremde",
-      "url": "https://open.spotify.com/track/4kStvokm1k1PFT5mTuoU1B"
     },
     {
       "added_at": "2022-06-27 09:06:23",

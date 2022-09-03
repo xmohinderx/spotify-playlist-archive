@@ -628,6 +628,24 @@
     },
     {
       "album": {
+        "name": "Humble King",
+        "url": "https://open.spotify.com/album/2V3VCtF9U9XPWYp8pinRxN"
+      },
+      "artists": [
+        {
+          "name": "Brock Hewitt: Stories in Sound",
+          "url": "https://open.spotify.com/artist/1PWCCcjCmwzjYb48VWpGcm"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185065,
+      "name": "Humble King",
+      "url": "https://open.spotify.com/track/5Y2p8hsnCvJ9ctaUiMMdQ6"
+    },
+    {
+      "album": {
         "name": "The Road To Meteora",
         "url": "https://open.spotify.com/album/3PLSbFdaSc9nHiZsdutrAz"
       },
@@ -715,6 +733,24 @@
       "duration_ms": 177875,
       "name": "Let's Run Away Together",
       "url": "https://open.spotify.com/track/2HfkmgoO8fLWRFeksDGpa6"
+    },
+    {
+      "album": {
+        "name": "Lost Crusaders",
+        "url": "https://open.spotify.com/album/5BIJc879MbWsGzlAHOrST5"
+      },
+      "artists": [
+        {
+          "name": "Hampus Naeselius",
+          "url": "https://open.spotify.com/artist/1M3REpihyqFCmBRC9sMzp5"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256967,
+      "name": "Lost Crusaders",
+      "url": "https://open.spotify.com/track/6gsZtwWWTFL2tpLXFKl2Rw"
     },
     {
       "album": {

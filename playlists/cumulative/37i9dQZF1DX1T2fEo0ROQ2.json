@@ -26,6 +26,24 @@
     },
     {
       "album": {
+        "name": "A Journey",
+        "url": "https://open.spotify.com/album/0xpGZx3qwQLBodx6voW3M6"
+      },
+      "artists": [
+        {
+          "name": "Castillo Indigo",
+          "url": "https://open.spotify.com/artist/4XdYi3SHxZqmqrJtn1M1Yv"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164392,
+      "name": "A Journey",
+      "url": "https://open.spotify.com/track/5PKCpP5i64Jxdnc9jDnIVV"
+    },
+    {
+      "album": {
         "name": "A New Age",
         "url": "https://open.spotify.com/album/6Wj2S29YRCBUqb4YDQhMP6"
       },
@@ -1135,7 +1153,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 268926,
       "name": "Cosmic Awareness",
       "url": "https://open.spotify.com/track/3wUiacFzzsmxvdwramIwwg"
@@ -1495,7 +1513,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 204580,
       "name": "Earth",
       "url": "https://open.spotify.com/track/6UFSJF8pGDYJelHoadqPEe"
@@ -2744,6 +2762,24 @@
     },
     {
       "album": {
+        "name": "Light",
+        "url": "https://open.spotify.com/album/2MCEhwQ8lurgvTkZ7WMrjI"
+      },
+      "artists": [
+        {
+          "name": "Mina Rojas",
+          "url": "https://open.spotify.com/artist/492hHpujOt6WZGWFSy2712"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169684,
+      "name": "Light",
+      "url": "https://open.spotify.com/track/0peYIO0XdyvdK2znrrH3ys"
+    },
+    {
+      "album": {
         "name": "Light Wings",
         "url": "https://open.spotify.com/album/6YKV9jMAqOso3QRCsVwmC2"
       },
@@ -2845,7 +2881,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 258928,
       "name": "Lucid Alchemy",
       "url": "https://open.spotify.com/track/7u7dK1IXsG4jdB6bK9PCFm"
@@ -3745,7 +3781,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 267937,
       "name": "Pampeano",
       "url": "https://open.spotify.com/track/6TZtSaF9XUFlWBoDwYuqmR"
@@ -3781,7 +3817,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 120303,
       "name": "Pathways",
       "url": "https://open.spotify.com/track/67hrn4W0iAgUWwkVpmplTW"
@@ -4897,7 +4933,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 173875,
       "name": "Storulv\u00e5n",
       "url": "https://open.spotify.com/track/1i8DuLXHYm1i3W2aIvb6mn"

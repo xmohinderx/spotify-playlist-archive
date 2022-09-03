@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WTH49Vcnqp.md) - [plain]
 
 > all the hottest indie tunes in the world rn feat\. Gorillaz
 
-[Spotify](https://open.spotify.com/user/spotify) - 556,722 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 556,832 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WTH49Vcnqp.md) - [plain]
 | 19 | [can't get laid](https://open.spotify.com/track/3GyLZPZlnVteR6NpvPAJq7) | [bella amor](https://open.spotify.com/artist/0YHLS3lTpmblVqI74qAz6M) | [can't get laid](https://open.spotify.com/album/43r40totUGXyIiUH0OE0iI) | 2:54 |
 | 20 | [Persuasive \(with SZA\)](https://open.spotify.com/track/67v2UHujFruxWrDmjPYxD6) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Persuasive \(with SZA\)](https://open.spotify.com/album/7LYy99hyg4eHQeYkKPuS6R) | 3:30 |
 | 21 | [AMERICAN DREAM](https://open.spotify.com/track/1dZpKFO7vErbONAuYB4ON3) | [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H) | [AMERICAN DREAM](https://open.spotify.com/album/2K7Rl7AGmFmMvx4tYnC05u) | 2:31 |
-| 22 | [Hologram](https://open.spotify.com/track/19zjVWC09Iv6SZ0gOKDkHC) | [Forest Claudette](https://open.spotify.com/artist/4d26k6BPR9MhZyTj3g5yEM) | [Hologram](https://open.spotify.com/album/3Kv5QqWNChSLXPelipMZgg) | 3:26 |
+| 22 | [Hologram](https://open.spotify.com/track/0F2zGnaOrsVCOD900FebJk) | [Forest Claudette](https://open.spotify.com/artist/4d26k6BPR9MhZyTj3g5yEM) | [Hologram](https://open.spotify.com/album/30ef2BpCTTCbxFFucsENZj) | 3:26 |
 | 23 | [Is This What It Feels Like to Feel Like This?](https://open.spotify.com/track/2qiYy5k1mDAOpegYqv00wG) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Is This What It Feels Like to Feel Like This?](https://open.spotify.com/album/53FpLc8sSUmGGb0OY6cZKG) | 2:45 |
 | 24 | [Shoes On The Dash](https://open.spotify.com/track/1n1euHE2fvUoR3jR9FUUC8) | [90ivy](https://open.spotify.com/artist/0ysjzJcaC8CMgXBL1Iw3BC) | [Shoes On The Dash](https://open.spotify.com/album/5plnr7IBnnoxFA8ykTXfwf) | 3:09 |
 | 25 | [Scarlet](https://open.spotify.com/track/3nUjs7y1fhZYSmPNQ0YfqO) | [Telenova](https://open.spotify.com/artist/5UlJRJmlRLhQJX8lJuerVq) | [Scarlet](https://open.spotify.com/album/0uC6KvswSzKrzdvqbfOWZV) | 3:18 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WTH49Vcnqp.md) - [plain]
 | 99 | [<maybe> it's my fault](https://open.spotify.com/track/4w5wkuwuCByenZ6QufdeQN) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [<maybe> it's my fault](https://open.spotify.com/album/139YquG3RpaLBq98PbsOIM) | 2:39 |
 | 100 | [Bang My Line \(feat\. Tkay Maidza\)](https://open.spotify.com/track/5phuEZAscX7xyQgvxyLKir) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL), [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Bang My Line \(feat\. Tkay Maidza\)](https://open.spotify.com/album/6lqBnIRiQzELwDrz7MCbCt) | 2:33 |
 
-Snapshot ID: `MTY2MjA0MDgwMCwwMDAwMDAwMDhmOGUxN2Y0YzJiNTM4MWIxNWY3YzBmZjU5NmI4ZmJh`
+Snapshot ID: `MTY2MjA0MDgwMCwwMDAwMDAwMGY4M2M5MDAyNTdmZGE2OGE1YWZlMjk3NjA5NjY1ZTYy`

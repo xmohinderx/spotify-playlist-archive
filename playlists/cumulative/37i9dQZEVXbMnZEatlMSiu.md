@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Taiwan.
 
-471 songs - 1 day 4 hr 57 min - [published](https://open.spotify.com/playlist/6qEGFgtQEnclzvoSiB5z4r)
+472 songs - 1 day 4 hr 59 min - [published](https://open.spotify.com/playlist/6qEGFgtQEnclzvoSiB5z4r)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Attention](https://open.spotify.com/track/2pIUpMhHL6L9Z5lnKxJJr9) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 3:00 | 2022-08-16 |  |
 | [AURA](https://open.spotify.com/track/4jP982FpZoDv729D0X8BiN) | [WJSN](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) | [<Queendom2> FINAL](https://open.spotify.com/album/5ZorEUDqewnEygf4FAOjhm) | 3:35 | 2022-05-28 | 2022-06-01 |
 | [Baby Cakes](https://open.spotify.com/track/45daYf2BsGxDeWUlmX2a2Y) | [壞特 ?te](https://open.spotify.com/artist/7DZtdN4x13Amjw87cjdffb) | [A Bedroom of One's Own](https://open.spotify.com/album/106w7wcRpHY8hqHhajG3nb) | 3:48 | 2021-08-24 | 2021-08-28 |
+| [Baby U Decide](https://open.spotify.com/track/66EypNPbL0yK9AYj0Q6tZ5) | [高爾宣 OSN](https://open.spotify.com/artist/4TcOznbEZBqev21LzAH4KE) | [Baby U Decide](https://open.spotify.com/album/5cS6rl9rrb6qeko596BUP2) | 2:21 | 2022-09-02 |  |
 | [Bad Decisions \(with BTS & Snoop Dogg\)](https://open.spotify.com/track/0xzI1KAr0Yd9tv8jlIk3sn) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Bad Decisions \(with BTS & Snoop Dogg\)](https://open.spotify.com/album/2km2gV8HN1lk1e1GEDl7SN) | 2:52 | 2022-08-06 | 2022-08-28 |
 | [Bad Habits](https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:50 | 2021-10-31 | 2022-07-02 |
 | [Bad Habits](https://open.spotify.com/track/6PQ88X9TkUIAUIZJHW2upE) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Bad Habits](https://open.spotify.com/album/01NhUvviMytvV12pmJiDZH) | 3:51 | 2021-06-27 | 2021-10-31 |
@@ -303,7 +304,7 @@
 | [別再想見我](https://open.spotify.com/track/7geIT54duCCwpJWQCPSZg7) | [許光漢](https://open.spotify.com/artist/3hhUgkTf3fFYGogFMbV5Wv) | [許光漢](https://open.spotify.com/album/3w2vtxAWKHXvLRIaS5LITp) | 4:30 | 2021-12-12 | 2021-12-13 |
 | [刻在我心底的名字](https://open.spotify.com/track/63UkGQq18KEM46MsAHlLwd) | [Mayday](https://open.spotify.com/artist/16s0YTFcyjP4kgFwt7ktrY) | [刻在我心底的名字](https://open.spotify.com/album/5iK1vI2joFeDFvaW2hGpRH) | 5:20 | 2021-09-03 | 2021-09-10 |
 | [刻在我心底的名字 \(Your Name Engraved Herein\) \- 電影<刻在你心底的名字>主題曲](https://open.spotify.com/track/3OC84eKMxRJ4x0Hcwl9i4i) | [Crowd Lu](https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD) | [刻在我心底的名字 \(Your Name Engraved Herein\)](https://open.spotify.com/album/5RG4bEVKGMdLaEIv1dofR2) | 5:20 | 2021-03-27\* |  |
-| [勇气](https://open.spotify.com/track/5rY7xc2h5Imj6iFn97h8Qj) | [棉子](https://open.spotify.com/artist/6Y4Ur76H9vh8gw4QADaUKp) | [勇气](https://open.spotify.com/album/0CVoVI7UnycE7lcKcKqoeU) | 4:01 | 2021-07-16 |  |
+| [勇气](https://open.spotify.com/track/5rY7xc2h5Imj6iFn97h8Qj) | [棉子](https://open.spotify.com/artist/6Y4Ur76H9vh8gw4QADaUKp) | [勇气](https://open.spotify.com/album/0CVoVI7UnycE7lcKcKqoeU) | 4:01 | 2021-07-16 | 2022-09-03 |
 | [勵志論 \(C’MON\)](https://open.spotify.com/track/2PHoNQCaWKVshZp2huRP2Q) | [Crowd Lu](https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD) | [勵志論 \(C’MON\)](https://open.spotify.com/album/47gHdmxuBmTlIgIQnWeSfM) | 3:00 | 2021-10-01 | 2021-10-14 |
 | [句號](https://open.spotify.com/track/66YKSygcUZHHqHJZcWslI3) | [G.E.M.](https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI) | [摩天動物園](https://open.spotify.com/album/5BQmFN38iOhEhMVIdtvFhS) | 3:55 | 2021-03-27\* | 2021-07-08 |
 | [可](https://open.spotify.com/track/5mQzXOKoAwbpE7Y4cGO9Gc) | [Joker Xue](https://open.spotify.com/artist/1cg0bYpP5e2DNG0RgK2CMN), [Jane Zhang](https://open.spotify.com/artist/7qJmFr579WC8MMGj4PiWdu) | [可](https://open.spotify.com/album/6JcXxjHrSXgLCxMiObeOV9) | 4:40 | 2022-06-17 | 2022-06-25 |

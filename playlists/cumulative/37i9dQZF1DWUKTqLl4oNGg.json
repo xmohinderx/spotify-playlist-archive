@@ -592,6 +592,24 @@
     },
     {
       "album": {
+        "name": "John David Souther",
+        "url": "https://open.spotify.com/album/5pw5GDqCQjkfc6LctnfQKX"
+      },
+      "artists": [
+        {
+          "name": "JD Souther",
+          "url": "https://open.spotify.com/artist/0I7UnRLIdCD310ZBgeuqh5"
+        }
+      ],
+      "date_added": "2019-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186213,
+      "name": "Kite Woman",
+      "url": "https://open.spotify.com/track/3OLcz4dQuohRRsJqLS2iXw"
+    },
+    {
+      "album": {
         "name": "Rhino Hi-Five: J.D. Souther",
         "url": "https://open.spotify.com/album/4Rq6anggo36B53PflhdgmV"
       },
@@ -603,7 +621,7 @@
       ],
       "date_added": "2019-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 186213,
       "name": "Kite Woman",
       "url": "https://open.spotify.com/track/4Z0aLq8K9YEvXssrfcVpd2"

@@ -328,6 +328,24 @@
     },
     {
       "album": {
+        "name": "COLORWAY",
+        "url": "https://open.spotify.com/album/4cGY0jqWYTCIPwQRXHgKvy"
+      },
+      "artists": [
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143092,
+      "name": "BILL$",
+      "url": "https://open.spotify.com/track/0H6CZCG2F1N3XZWNZAVqE7"
+    },
+    {
+      "album": {
         "name": "Blessed",
         "url": "https://open.spotify.com/album/2rjXWUlGeNpRWNM7kIP3ia"
       },
@@ -535,6 +553,24 @@
       "duration_ms": 151739,
       "name": "Call Me",
       "url": "https://open.spotify.com/track/2wfhBk432aY2abZYUsFtdK"
+    },
+    {
+      "album": {
+        "name": "Thee Sacred Souls",
+        "url": "https://open.spotify.com/album/0UKT9me1zkVDmah2MjmCma"
+      },
+      "artists": [
+        {
+          "name": "Thee Sacred Souls",
+          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190546,
+      "name": "Can I Call You Rose?",
+      "url": "https://open.spotify.com/track/7wnj1zRcZVlPNJ58shwl7h"
     },
     {
       "album": {
@@ -2395,7 +2431,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 226865,
       "name": "Lock It Up",
       "url": "https://open.spotify.com/track/1GIKDc28Z95bWSIXgkr3y3"
@@ -3853,7 +3889,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 199746,
       "name": "So High",
       "url": "https://open.spotify.com/track/1yvSMyZn27M4wEslpSvB0D"
@@ -4041,7 +4077,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 255906,
       "name": "SULA (Paperback)",
       "url": "https://open.spotify.com/track/1RwK5al4DKxgHQ234mKbwB"
@@ -4085,6 +4121,24 @@
       "duration_ms": 252053,
       "name": "Sun, Moon & Herbs",
       "url": "https://open.spotify.com/track/6pHo3k15lbYuljy5GyZsV2"
+    },
+    {
+      "album": {
+        "name": "All I Want Is You",
+        "url": "https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R"
+      },
+      "artists": [
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195373,
+      "name": "Sure Thing",
+      "url": "https://open.spotify.com/track/0JXXNGljqupsJaZsgSbMZV"
     },
     {
       "album": {
@@ -4267,7 +4321,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 182500,
       "name": "Third Eye Tears (feat. Lava La Rue)",
       "url": "https://open.spotify.com/track/7Axv6Oe4ztIl9NQL9z1qgH"
@@ -4765,6 +4819,28 @@
       "duration_ms": 223900,
       "name": "You're Too Precious",
       "url": "https://open.spotify.com/track/5teYCP3pROESCEaASCVf5w"
+    },
+    {
+      "album": {
+        "name": "DARLING",
+        "url": "https://open.spotify.com/album/6XrAWrMOgdiK9a96OIM3Kb"
+      },
+      "artists": [
+        {
+          "name": "DIXSON",
+          "url": "https://open.spotify.com/artist/61677A13kBwbTfqECI65p8"
+        },
+        {
+          "name": "India Shawn",
+          "url": "https://open.spotify.com/artist/7g0SC4F149FUX5rKFuSpqL"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260538,
+      "name": "YOURS (ft. India Shawn)",
+      "url": "https://open.spotify.com/track/62jDisCcICzlm1hwrU2rxl"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX2yvmlOdMYzV"

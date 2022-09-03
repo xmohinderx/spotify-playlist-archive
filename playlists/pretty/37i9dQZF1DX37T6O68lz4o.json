@@ -1,13 +1,45 @@
 {
-  "description": "New England music breaking waves. Cover, Lily Rayne",
-  "num_followers": 1072,
+  "description": "New England music breaking waves. Cover, Van Buren Records",
+  "num_followers": 1078,
   "original_name": "Ripple Effect: New England",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjA0MzE3MCwwMDAwMDAwMDU5OGEyZGU1YTI3ODIwYTRmMThkMWIxZWQ1NTQ0Zjcy",
+  "snapshot_id": "MTY2MjE0MTIxOCwwMDAwMDAwMDBjNzc2YTU0MTdlOGEwOTA2ODVmODk0NGY0NWI1OGIz",
   "tracks": [
+    {
+      "added_at": "2022-09-02 17:53:38",
+      "album": {
+        "name": "FOUL",
+        "url": "https://open.spotify.com/album/2eQtXkKau6EcdDERcC2vPS"
+      },
+      "artists": [
+        {
+          "name": "Van Buren Records",
+          "url": "https://open.spotify.com/artist/2T6EOVQ5lAQc64poyLnXmj"
+        },
+        {
+          "name": "Luke Bar$",
+          "url": "https://open.spotify.com/artist/6CGyB4PAg5rEyzeGumZrjr"
+        },
+        {
+          "name": "Meech BOLD",
+          "url": "https://open.spotify.com/artist/3kv1DL4qsFPk2cPvfCqxrE"
+        },
+        {
+          "name": "Jiles",
+          "url": "https://open.spotify.com/artist/7pnz0G9l89KK5iC6Beevcx"
+        },
+        {
+          "name": "FELIX",
+          "url": "https://open.spotify.com/artist/6amRmqHeGwQAMZMOT5Xlrs"
+        }
+      ],
+      "duration_ms": 274848,
+      "name": "FOUL",
+      "url": "https://open.spotify.com/track/1vSswbc405HtunKunj9UnM"
+    },
     {
       "added_at": "2022-08-19 19:55:05",
       "album": {
@@ -93,6 +125,22 @@
       "url": "https://open.spotify.com/track/1IoUc7el8qPFVFOC5jSfl7"
     },
     {
+      "added_at": "2022-09-02 17:53:38",
+      "album": {
+        "name": "In My Head",
+        "url": "https://open.spotify.com/album/7qD8nZcGU5V98FU3LSSbHU"
+      },
+      "artists": [
+        {
+          "name": "HENNESSY",
+          "url": "https://open.spotify.com/artist/0d3nLtBfguQFq20JzWSlIW"
+        }
+      ],
+      "duration_ms": 232907,
+      "name": "In My Head",
+      "url": "https://open.spotify.com/track/4eTle2lZoO0A1har4Ut5KL"
+    },
+    {
       "added_at": "2022-04-15 08:01:02",
       "album": {
         "name": "LONDON (feat. J. Cole)",
@@ -131,22 +179,6 @@
       "duration_ms": 160496,
       "name": "CASH IN THE CLUB",
       "url": "https://open.spotify.com/track/5yPVWR0GMvNNBezPQTuYs4"
-    },
-    {
-      "added_at": "2022-07-29 19:36:45",
-      "album": {
-        "name": "When I Die",
-        "url": "https://open.spotify.com/album/5sIuSP0bcIm4uaddjEyF7f"
-      },
-      "artists": [
-        {
-          "name": "Jae Lynx",
-          "url": "https://open.spotify.com/artist/03lamRtaO7ZuCSn2qFfmMN"
-        }
-      ],
-      "duration_ms": 140522,
-      "name": "When I Die",
-      "url": "https://open.spotify.com/track/3S4iP2WmdQeDXPWZH6nA9f"
     },
     {
       "added_at": "2022-07-01 04:01:00",
@@ -217,6 +249,26 @@
       "url": "https://open.spotify.com/track/0Mxh4inXATNeyzreyU0GrA"
     },
     {
+      "added_at": "2022-09-02 17:53:38",
+      "album": {
+        "name": "Can't Help It",
+        "url": "https://open.spotify.com/album/3iaBnL7KWbEQXI651JhlGe"
+      },
+      "artists": [
+        {
+          "name": "Rasandra",
+          "url": "https://open.spotify.com/artist/5ibq0cQ3cmoJDa8iTdYql0"
+        },
+        {
+          "name": "Yelly",
+          "url": "https://open.spotify.com/artist/1ySXOXKvrgmzwHG6GJhkVE"
+        }
+      ],
+      "duration_ms": 196989,
+      "name": "Can't Help It",
+      "url": "https://open.spotify.com/track/3My45y3wg4XkU7NbJJowZC"
+    },
+    {
       "added_at": "2022-07-01 04:01:00",
       "album": {
         "name": "This Is Personal",
@@ -247,22 +299,6 @@
       "duration_ms": 230400,
       "name": "ALL FOR NOTHING",
       "url": "https://open.spotify.com/track/2L9SA0p0eO7eBOwhtYHhMh"
-    },
-    {
-      "added_at": "2022-07-18 21:17:51",
-      "album": {
-        "name": "Fool",
-        "url": "https://open.spotify.com/album/4YrTWDTEsPnRaJSbbOe3Zp"
-      },
-      "artists": [
-        {
-          "name": "Raiche",
-          "url": "https://open.spotify.com/artist/4yaRDENYr8yAAlEUf23DRI"
-        }
-      ],
-      "duration_ms": 190106,
-      "name": "Fool",
-      "url": "https://open.spotify.com/track/6zr3r5MNP6Fu0dfJcaMxof"
     },
     {
       "added_at": "2022-02-18 22:25:03",
@@ -385,46 +421,6 @@
       "url": "https://open.spotify.com/track/36aRN8cZQOsNCzflng8p4u"
     },
     {
-      "added_at": "2021-10-08 03:57:21",
-      "album": {
-        "name": "BLACK WALL STREET",
-        "url": "https://open.spotify.com/album/0hNK1V7xzigl41liZTk4XU"
-      },
-      "artists": [
-        {
-          "name": "Van Buren Records",
-          "url": "https://open.spotify.com/artist/2T6EOVQ5lAQc64poyLnXmj"
-        },
-        {
-          "name": "AzizTheShake",
-          "url": "https://open.spotify.com/artist/7wSfJLfPWSahg3J5SeVr4z"
-        },
-        {
-          "name": "Jazz Cartier",
-          "url": "https://open.spotify.com/artist/0sc5zYshOdiFD4ayqMrJbJ"
-        },
-        {
-          "name": "SAINT LYOR",
-          "url": "https://open.spotify.com/artist/0pltaFx5l05YFrswlNEafU"
-        },
-        {
-          "name": "Luke Bar$",
-          "url": "https://open.spotify.com/artist/6CGyB4PAg5rEyzeGumZrjr"
-        },
-        {
-          "name": "Invada",
-          "url": "https://open.spotify.com/artist/3FBvF7C8P5IztMR7Mbxc3X"
-        },
-        {
-          "name": "FELIX!",
-          "url": "https://open.spotify.com/artist/1DN9Pgv4fiAaRSSgiisj5G"
-        }
-      ],
-      "duration_ms": 280500,
-      "name": "CULT",
-      "url": "https://open.spotify.com/track/1P5pnfWEcH0qUICxrCF4Kl"
-    },
-    {
       "added_at": "2022-04-29 17:40:05",
       "album": {
         "name": "Watch The Chrome",
@@ -459,6 +455,38 @@
       "duration_ms": 152926,
       "name": "2night",
       "url": "https://open.spotify.com/track/0ccds5C86PU7kPquqqy7Gk"
+    },
+    {
+      "added_at": "2022-09-02 17:53:38",
+      "album": {
+        "name": "Tears I've Already Cried",
+        "url": "https://open.spotify.com/album/1BZXZS2IhE1DnDdUp4zSTc"
+      },
+      "artists": [
+        {
+          "name": "Donald Grunge",
+          "url": "https://open.spotify.com/artist/0OYdOAg5NBuS47KdnJF4lH"
+        }
+      ],
+      "duration_ms": 210245,
+      "name": "Dying To Save Yourself",
+      "url": "https://open.spotify.com/track/4lblRcSPFaeSX62IzQJuJ4"
+    },
+    {
+      "added_at": "2022-09-02 17:53:38",
+      "album": {
+        "name": "CHANEL INTERLUDE",
+        "url": "https://open.spotify.com/album/6pF7QRHA9vb5p5IvIGxFB7"
+      },
+      "artists": [
+        {
+          "name": "Craigy F.",
+          "url": "https://open.spotify.com/artist/74gjXz4Kg3qHBlkdAuqtM7"
+        }
+      ],
+      "duration_ms": 174393,
+      "name": "CHANEL INTERLUDE",
+      "url": "https://open.spotify.com/track/3VDam84f06Idp4O8Ncc8n0"
     },
     {
       "added_at": "2021-12-01 18:09:33",
@@ -537,6 +565,26 @@
       "url": "https://open.spotify.com/track/5myb2mYtD7r7unMLd6ldng"
     },
     {
+      "added_at": "2022-07-29 19:36:45",
+      "album": {
+        "name": "FN.F12",
+        "url": "https://open.spotify.com/album/1MoVRxZVKkgcjAtCUxg7jA"
+      },
+      "artists": [
+        {
+          "name": "8 Zipp",
+          "url": "https://open.spotify.com/artist/77p4nWKhsjAqUXybLgycLZ"
+        },
+        {
+          "name": "$hay Band$",
+          "url": "https://open.spotify.com/artist/42KDAxLYKbn91p26KCsQRB"
+        }
+      ],
+      "duration_ms": 173113,
+      "name": "In The Mood",
+      "url": "https://open.spotify.com/track/0ryQj98VTxuRWF4hLZYnFX"
+    },
+    {
       "added_at": "2022-08-12 17:11:54",
       "album": {
         "name": "Big Man",
@@ -583,26 +631,6 @@
       "duration_ms": 113712,
       "name": "1017 ALYX",
       "url": "https://open.spotify.com/track/2o7vrVIOh1tyqF7fNhDsR6"
-    },
-    {
-      "added_at": "2022-07-29 19:36:45",
-      "album": {
-        "name": "FN.F12",
-        "url": "https://open.spotify.com/album/1MoVRxZVKkgcjAtCUxg7jA"
-      },
-      "artists": [
-        {
-          "name": "8 Zipp",
-          "url": "https://open.spotify.com/artist/77p4nWKhsjAqUXybLgycLZ"
-        },
-        {
-          "name": "$hay Band$",
-          "url": "https://open.spotify.com/artist/42KDAxLYKbn91p26KCsQRB"
-        }
-      ],
-      "duration_ms": 173113,
-      "name": "In The Mood",
-      "url": "https://open.spotify.com/track/0ryQj98VTxuRWF4hLZYnFX"
     },
     {
       "added_at": "2022-04-29 17:40:05",
@@ -771,22 +799,6 @@
     {
       "added_at": "2022-07-18 21:17:51",
       "album": {
-        "name": "All The Smoke",
-        "url": "https://open.spotify.com/album/5VkrNFiVn2NVxQ2Gws42JW"
-      },
-      "artists": [
-        {
-          "name": "Rasandra",
-          "url": "https://open.spotify.com/artist/5ibq0cQ3cmoJDa8iTdYql0"
-        }
-      ],
-      "duration_ms": 153626,
-      "name": "All The Smoke",
-      "url": "https://open.spotify.com/track/6GNcDphWIqBuR2EJyWIQcS"
-    },
-    {
-      "added_at": "2022-07-18 21:17:51",
-      "album": {
         "name": "Bread & Butta(2-Pack)",
         "url": "https://open.spotify.com/album/3VHDlfPfU2pMiF48nk6Pad"
       },
@@ -859,22 +871,6 @@
       "duration_ms": 183902,
       "name": "Major Fact (Bonus)",
       "url": "https://open.spotify.com/track/5qigctoNr6xPS4M418rvCp"
-    },
-    {
-      "added_at": "2022-08-05 19:58:13",
-      "album": {
-        "name": "Tears I've Already Cried",
-        "url": "https://open.spotify.com/album/1BZXZS2IhE1DnDdUp4zSTc"
-      },
-      "artists": [
-        {
-          "name": "Donald Grunge",
-          "url": "https://open.spotify.com/artist/0OYdOAg5NBuS47KdnJF4lH"
-        }
-      ],
-      "duration_ms": 122116,
-      "name": "G.B.N Forgotten",
-      "url": "https://open.spotify.com/track/1unRO6bmqcnRODhtjxxMG5"
     },
     {
       "added_at": "2022-01-29 00:15:56",

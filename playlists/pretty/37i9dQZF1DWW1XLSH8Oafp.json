@@ -1,13 +1,29 @@
 {
   "description": "ur on the list bb \ud83e\ude90 featuring DJ Planet Express",
-  "num_followers": 184948,
+  "num_followers": 184548,
   "original_name": "planet rave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTUyNzQ3NiwwMDAwMDAwMDhjNThiODU4NThlYjJkODIyZDc1Njg4NzM0YzA2OTMw",
+  "snapshot_id": "MTY2MjA5MTI2MCwwMDAwMDAwMDY5MjY5ZTFhNzlmYWE0NjEzOGFlNmY0NzE0ZDc1Yzkz",
   "tracks": [
+    {
+      "added_at": "2022-09-02 04:01:00",
+      "album": {
+        "name": "shooting star",
+        "url": "https://open.spotify.com/album/3hIW6mxTBNcuejh80gkqhI"
+      },
+      "artists": [
+        {
+          "name": "Senses",
+          "url": "https://open.spotify.com/artist/2soiLmeGhmq9uQ9fqZm3KA"
+        }
+      ],
+      "duration_ms": 138104,
+      "name": "shooting star",
+      "url": "https://open.spotify.com/track/6cutZu2pvxF6yTfB9zhuV6"
+    },
     {
       "added_at": "2022-08-26 04:00:00",
       "album": {
@@ -47,6 +63,38 @@
       "duration_ms": 176930,
       "name": "Picture in my mind",
       "url": "https://open.spotify.com/track/0z3YYobsavHguLTgqg5GC1"
+    },
+    {
+      "added_at": "2022-09-02 04:01:00",
+      "album": {
+        "name": "Glimmer",
+        "url": "https://open.spotify.com/album/4UQ7SYtwVP2TzxBbqHKfNz"
+      },
+      "artists": [
+        {
+          "name": "FOURA",
+          "url": "https://open.spotify.com/artist/1irJOloDtTVbecTnRt7nk4"
+        }
+      ],
+      "duration_ms": 196363,
+      "name": "Glimmer",
+      "url": "https://open.spotify.com/track/6mbaDSOA05Cy4txRRYuJqL"
+    },
+    {
+      "added_at": "2022-09-02 04:01:00",
+      "album": {
+        "name": "v0013",
+        "url": "https://open.spotify.com/album/310MLqcIAqRpbgKUKukR16"
+      },
+      "artists": [
+        {
+          "name": "yion",
+          "url": "https://open.spotify.com/artist/0SKj35DCAPNfu3KVUBTiVE"
+        }
+      ],
+      "duration_ms": 147692,
+      "name": "v0013",
+      "url": "https://open.spotify.com/track/46guwiCD3lXaB3cjSfRnwy"
     },
     {
       "added_at": "2022-08-26 04:00:00",
@@ -141,6 +189,22 @@
       "url": "https://open.spotify.com/track/6Vn5hk8NQIkzGsdkx5nF4q"
     },
     {
+      "added_at": "2022-09-02 04:01:00",
+      "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/6FYQHkZTk1loxJmcTAynGh"
+      },
+      "artists": [
+        {
+          "name": "Lwny",
+          "url": "https://open.spotify.com/artist/0nwK1tWueQUPpKudMyAArz"
+        }
+      ],
+      "duration_ms": 150702,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/7lfzzDkPkf4gkMkyZUbDnw"
+    },
+    {
       "added_at": "2022-08-26 04:00:00",
       "album": {
         "name": "Came To Dance",
@@ -159,6 +223,22 @@
       "duration_ms": 198836,
       "name": "Came To Dance",
       "url": "https://open.spotify.com/track/0m7RwgD5mopezt4VLChKwp"
+    },
+    {
+      "added_at": "2022-09-02 04:01:00",
+      "album": {
+        "name": "serotonin dump",
+        "url": "https://open.spotify.com/album/5P7Qecx791F5vLtSHU6Ucf"
+      },
+      "artists": [
+        {
+          "name": "Ben Ohr",
+          "url": "https://open.spotify.com/artist/4RTUllFdPttQHfthpDXKoG"
+        }
+      ],
+      "duration_ms": 120178,
+      "name": "serotonin dump",
+      "url": "https://open.spotify.com/track/3ud2BmAe0EkYr2fGNxrIJj"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -489,22 +569,6 @@
       "url": "https://open.spotify.com/track/3FPApN9ITPe43zexQ8HwMV"
     },
     {
-      "added_at": "2022-07-15 04:00:00",
-      "album": {
-        "name": "Just Remember",
-        "url": "https://open.spotify.com/album/0WLCXtpAAkKqt2AIaNpwD3"
-      },
-      "artists": [
-        {
-          "name": "Sharda",
-          "url": "https://open.spotify.com/artist/4iAs0GwTsi8q6a7ZnzR2Qi"
-        }
-      ],
-      "duration_ms": 248000,
-      "name": "Just Remember",
-      "url": "https://open.spotify.com/track/0r00GmsuZ6o12uKsYjn8wz"
-    },
-    {
       "added_at": "2022-08-26 04:00:00",
       "album": {
         "name": "souldive",
@@ -539,30 +603,6 @@
       "duration_ms": 135789,
       "name": "BELLS LIKE BABY",
       "url": "https://open.spotify.com/track/0cPB5MvFBFmD8aOrXgb2yi"
-    },
-    {
-      "added_at": "2022-07-21 14:26:03",
-      "album": {
-        "name": "Bluff (yeule & Kin Leonn Remix)",
-        "url": "https://open.spotify.com/album/53gadAfcSnos0A24W747L3"
-      },
-      "artists": [
-        {
-          "name": "yun\u00e8 pinku",
-          "url": "https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD"
-        },
-        {
-          "name": "yeule",
-          "url": "https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X"
-        },
-        {
-          "name": "Kin Leonn",
-          "url": "https://open.spotify.com/artist/7h9uypOhMJuqwLKsMghsLK"
-        }
-      ],
-      "duration_ms": 175398,
-      "name": "Bluff - yeule & Kin Leonn Remix",
-      "url": "https://open.spotify.com/track/45rqRN1h6iNDMIAb0idSjQ"
     },
     {
       "added_at": "2022-08-12 14:25:41",
@@ -1143,22 +1183,6 @@
     {
       "added_at": "2022-06-10 14:44:12",
       "album": {
-        "name": "walk-4.0",
-        "url": "https://open.spotify.com/album/12k6tCJAmLyUpCm3LcaC08"
-      },
-      "artists": [
-        {
-          "name": "yion",
-          "url": "https://open.spotify.com/artist/0SKj35DCAPNfu3KVUBTiVE"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "walk-4.0",
-      "url": "https://open.spotify.com/track/4uZcR0pZQBlhFMnmNfSiOV"
-    },
-    {
-      "added_at": "2022-06-10 14:44:12",
-      "album": {
         "name": "you're a parasite",
         "url": "https://open.spotify.com/album/0gxx85pC89jMKmPIyL0kPa"
       },
@@ -1171,26 +1195,6 @@
       "duration_ms": 152450,
       "name": "you're a parasite",
       "url": "https://open.spotify.com/track/2uMv1AvQhvXk4F3DAeABGg"
-    },
-    {
-      "added_at": "2022-04-22 04:14:56",
-      "album": {
-        "name": "Where you are (feat. WILLOW)",
-        "url": "https://open.spotify.com/album/1wFiFlS50SnyKPAIcBzAQN"
-      },
-      "artists": [
-        {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
-        },
-        {
-          "name": "WILLOW",
-          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
-        }
-      ],
-      "duration_ms": 153706,
-      "name": "Where you are (feat. WILLOW)",
-      "url": "https://open.spotify.com/track/4icnlpI5IbZcRO9mpixVVW"
     },
     {
       "added_at": "2022-06-10 14:44:12",
@@ -1243,26 +1247,6 @@
       "duration_ms": 235750,
       "name": "Gift",
       "url": "https://open.spotify.com/track/66UcoWnZPHQUJwpRRywYFm"
-    },
-    {
-      "added_at": "2022-04-22 04:14:56",
-      "album": {
-        "name": "words",
-        "url": "https://open.spotify.com/album/4BmDulVoVXieakGP3ZrJqn"
-      },
-      "artists": [
-        {
-          "name": "piri",
-          "url": "https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s"
-        },
-        {
-          "name": "Tommy Villiers",
-          "url": "https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN"
-        }
-      ],
-      "duration_ms": 189960,
-      "name": "words",
-      "url": "https://open.spotify.com/track/0MjMYoSWmtVYAhv1Uj3zQO"
     },
     {
       "added_at": "2022-06-03 04:01:00",
@@ -1413,22 +1397,6 @@
       "url": "https://open.spotify.com/track/4rBlO3uwANGtnw1Yh8kKxc"
     },
     {
-      "added_at": "2022-05-20 04:00:00",
-      "album": {
-        "name": "\u0442\u0435\u0440\u044f\u044e",
-        "url": "https://open.spotify.com/album/21lKKYs9spOzIFXYmKMuNb"
-      },
-      "artists": [
-        {
-          "name": "niteboi",
-          "url": "https://open.spotify.com/artist/2Ue601Op6mLGMwrQYjAOSW"
-        }
-      ],
-      "duration_ms": 255427,
-      "name": "\u0442\u0435\u0440\u044f\u044e",
-      "url": "https://open.spotify.com/track/5QuD7ZrP38cZZwelNKYG4o"
-    },
-    {
       "added_at": "2022-04-08 04:00:00",
       "album": {
         "name": "heavensleep",
@@ -1511,22 +1479,6 @@
       "duration_ms": 172027,
       "name": "LiiTE_13-37 w/ iglooghost",
       "url": "https://open.spotify.com/track/0uTrVniKqic1122qBJOjkg"
-    },
-    {
-      "added_at": "2022-04-15 04:01:00",
-      "album": {
-        "name": "star queen yuuki",
-        "url": "https://open.spotify.com/album/77R3coeQiPjpiw1pAqDaPN"
-      },
-      "artists": [
-        {
-          "name": "FlowerBoyDeMii",
-          "url": "https://open.spotify.com/artist/7HcU7yCOfyw3hqrj1ZSORc"
-        }
-      ],
-      "duration_ms": 148235,
-      "name": "star queen yuuki",
-      "url": "https://open.spotify.com/track/5SZy32XBX6XcCfuTNvDxwO"
     },
     {
       "added_at": "2022-05-27 21:37:45",
@@ -1645,22 +1597,6 @@
       "url": "https://open.spotify.com/track/6UeUyaI0Mg6YVrleDiUzdG"
     },
     {
-      "added_at": "2022-02-23 23:03:26",
-      "album": {
-        "name": "im lost in a neverending dream",
-        "url": "https://open.spotify.com/album/5LhJziay2LhxujQ0HsvSlk"
-      },
-      "artists": [
-        {
-          "name": "AKIBA",
-          "url": "https://open.spotify.com/artist/5y51w1wj1qFCNOAU1b7BEc"
-        }
-      ],
-      "duration_ms": 156267,
-      "name": "popipo00",
-      "url": "https://open.spotify.com/track/3oYZkaAsoi7UqinSUcidnA"
-    },
-    {
       "added_at": "2022-02-25 05:01:00",
       "album": {
         "name": "Different Places",
@@ -1767,22 +1703,6 @@
       "duration_ms": 219428,
       "name": "C-C-Come On",
       "url": "https://open.spotify.com/track/0M1c4H0xUfMzbw1RZD7D7R"
-    },
-    {
-      "added_at": "2022-03-04 05:01:00",
-      "album": {
-        "name": "Drivin' Me Crazy",
-        "url": "https://open.spotify.com/album/6MpGVt0srq4BwYBvIj4Elu"
-      },
-      "artists": [
-        {
-          "name": "Particle",
-          "url": "https://open.spotify.com/artist/7rLJelomw75vyEpt1HwwP0"
-        }
-      ],
-      "duration_ms": 218125,
-      "name": "Drivin' Me Crazy",
-      "url": "https://open.spotify.com/track/1fPUG09vA8KRKwdcj4rHI5"
     },
     {
       "added_at": "2022-01-21 05:01:00",

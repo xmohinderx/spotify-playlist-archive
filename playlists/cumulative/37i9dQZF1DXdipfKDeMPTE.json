@@ -59,7 +59,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 125918,
       "name": "2am Light",
       "url": "https://open.spotify.com/track/1qV0g7FVesoJBO9N3m7Y5G"
@@ -189,7 +189,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 189931,
       "name": "A Slight Return",
       "url": "https://open.spotify.com/track/4CeZdj5rYqg8hb5csZ6LhI"
@@ -708,6 +708,24 @@
     },
     {
       "album": {
+        "name": "Caf\u00e9 Contemplation",
+        "url": "https://open.spotify.com/album/2bqr69PRrmEuWScCjgK4kZ"
+      },
+      "artists": [
+        {
+          "name": "PI\u00d1A PINK",
+          "url": "https://open.spotify.com/artist/7L2I1AuvyRXd2ysLSTeKZX"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184800,
+      "name": "Caf\u00e9 Contemplation",
+      "url": "https://open.spotify.com/track/3axcOHtOYpoE4opkZ4RKfk"
+    },
+    {
+      "album": {
         "name": "Calicall",
         "url": "https://open.spotify.com/album/7f0iQN9EVtjX2qzBTJM0lO"
       },
@@ -983,6 +1001,24 @@
       "duration_ms": 109714,
       "name": "clever ground",
       "url": "https://open.spotify.com/track/4s6r8g1LcwUOco4eNsQMWQ"
+    },
+    {
+      "album": {
+        "name": "Pendulum // Cliff of Moher",
+        "url": "https://open.spotify.com/album/0IOwpef52JjaVeL1kNxLgG"
+      },
+      "artists": [
+        {
+          "name": "Wun Two",
+          "url": "https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94579,
+      "name": "Cliffs Of Moher",
+      "url": "https://open.spotify.com/track/6prAGj7rFTHSqkE66EBZCI"
     },
     {
       "album": {
@@ -1329,6 +1365,24 @@
       "duration_ms": 171748,
       "name": "disentanglement",
       "url": "https://open.spotify.com/track/5aA8y3w8ePaPHKXga359os"
+    },
+    {
+      "album": {
+        "name": "Distant",
+        "url": "https://open.spotify.com/album/5JFSZYiPLmlrRvmklMGla2"
+      },
+      "artists": [
+        {
+          "name": "ilaywho",
+          "url": "https://open.spotify.com/artist/4OiOGOoUj1rFh8WmSREZey"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "Distant",
+      "url": "https://open.spotify.com/track/40UnyZYOhAsYBj14YKXXOS"
     },
     {
       "album": {
@@ -2728,6 +2782,24 @@
     },
     {
       "album": {
+        "name": "Lovely Creations",
+        "url": "https://open.spotify.com/album/5sZkXhDoZIA7jqtZCDKr3i"
+      },
+      "artists": [
+        {
+          "name": "Yana Allison",
+          "url": "https://open.spotify.com/artist/4v9LqKVkp6E2U9NAQDnDW6"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91784,
+      "name": "Lovely Creations",
+      "url": "https://open.spotify.com/track/45P9AOzJtLSBuqo5anuRB9"
+    },
+    {
+      "album": {
         "name": "lovesick",
         "url": "https://open.spotify.com/album/7t37sjRrkcLyYeSDgWsZdM"
       },
@@ -3140,6 +3212,28 @@
     },
     {
       "album": {
+        "name": "Mystery Room",
+        "url": "https://open.spotify.com/album/7BZaWbhBHHJwiO54DI7Ug9"
+      },
+      "artists": [
+        {
+          "name": "Merlin on the beat",
+          "url": "https://open.spotify.com/artist/6DCj7gPdhAycyf6FXtDUBx"
+        },
+        {
+          "name": "smoke bunny",
+          "url": "https://open.spotify.com/artist/7kca8Ze9vonJL7ptIShwxI"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179705,
+      "name": "Mystery Room",
+      "url": "https://open.spotify.com/track/5Wr6kkpDjvUkgJa4RmRWV0"
+    },
+    {
+      "album": {
         "name": "In Your Head",
         "url": "https://open.spotify.com/album/08pzGhysC0jaWMuqkZVLkp"
       },
@@ -3405,6 +3499,42 @@
       "duration_ms": 136000,
       "name": "Nocturne",
       "url": "https://open.spotify.com/track/1bHV89KOaMMAHn9DGbpn0i"
+    },
+    {
+      "album": {
+        "name": "Noir",
+        "url": "https://open.spotify.com/album/3zyrdG6EpiXt1Yif7dtFod"
+      },
+      "artists": [
+        {
+          "name": "Warbrum",
+          "url": "https://open.spotify.com/artist/2wB56GDHDdCPYAbtVU5gkG"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153600,
+      "name": "Noir",
+      "url": "https://open.spotify.com/track/0fzPyhqVO1fHUWsp7GmnBR"
+    },
+    {
+      "album": {
+        "name": "Nordic Noir",
+        "url": "https://open.spotify.com/album/5IGLvQzRwTAkKuC8XT5us4"
+      },
+      "artists": [
+        {
+          "name": "Ullis",
+          "url": "https://open.spotify.com/artist/3GGTIeWyoM9LCS27Mo2UH2"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133656,
+      "name": "Nordic Noir",
+      "url": "https://open.spotify.com/track/2WNBXRh0PiCUoFVQNVAPXs"
     },
     {
       "album": {
@@ -3697,7 +3827,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 132800,
       "name": "Paris",
       "url": "https://open.spotify.com/track/2BIArm6TEad2ZwZyvLUvU8"
@@ -4141,7 +4271,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 137470,
       "name": "Round and Round",
       "url": "https://open.spotify.com/track/3gYn7Jul0vLyATg45b5gcx"
@@ -4163,6 +4293,24 @@
       "duration_ms": 133153,
       "name": "RU4Real?",
       "url": "https://open.spotify.com/track/3SYmrigQoWiKo91CjrszFE"
+    },
+    {
+      "album": {
+        "name": "Sad Lofi Minecraft",
+        "url": "https://open.spotify.com/album/6Dn73AX6byOvTlnocvoY12"
+      },
+      "artists": [
+        {
+          "name": "Dellasollounge",
+          "url": "https://open.spotify.com/artist/55r17oOBrjjHLLXBC5BsE3"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140074,
+      "name": "Sad Lofi Minecraft",
+      "url": "https://open.spotify.com/track/6TRQgCgeNr1sCoYdkfLCx1"
     },
     {
       "album": {
@@ -4451,6 +4599,24 @@
       "duration_ms": 115200,
       "name": "Side Focus",
       "url": "https://open.spotify.com/track/3bXjePJ9oGJJ4pt7U9yWw6"
+    },
+    {
+      "album": {
+        "name": "Sighs",
+        "url": "https://open.spotify.com/album/5GqQGI6bAz4oeJESSgo5MM"
+      },
+      "artists": [
+        {
+          "name": "Kyomi",
+          "url": "https://open.spotify.com/artist/40Ni6zxyeBMGPnEXaObaw1"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170250,
+      "name": "Sighs",
+      "url": "https://open.spotify.com/track/34DRQ32zhF8Bk4ssNFQ1ra"
     },
     {
       "album": {
@@ -4862,6 +5028,46 @@
     },
     {
       "album": {
+        "name": "Sunrise Express",
+        "url": "https://open.spotify.com/album/3Yn62GXWFekaczHeFi0p5m"
+      },
+      "artists": [
+        {
+          "name": "Oh, My.",
+          "url": "https://open.spotify.com/artist/1f5I28sZb2efjRLXO1jX0h"
+        },
+        {
+          "name": "Banks",
+          "url": "https://open.spotify.com/artist/6L9h5cN2DNOoMqFRgIv7uU"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171000,
+      "name": "Sunrise Express",
+      "url": "https://open.spotify.com/track/2oAW3jN90nOCms2Igyxm02"
+    },
+    {
+      "album": {
+        "name": "Blue Sky",
+        "url": "https://open.spotify.com/album/5nlguCfIN0dqhs7Q2Ij0Eq"
+      },
+      "artists": [
+        {
+          "name": "aki_",
+          "url": "https://open.spotify.com/artist/5ieQ7RZaGQqEoKspB6Ho5L"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93333,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/5h0n0jJhZm6zWuEciF0TrN"
+    },
+    {
+      "album": {
         "name": "Supercalifragilistic",
         "url": "https://open.spotify.com/album/5ShNcVs7JPP5z9PbJRFrcm"
       },
@@ -5061,6 +5267,24 @@
       "duration_ms": 183245,
       "name": "These Sleepless Hours",
       "url": "https://open.spotify.com/track/2XPkr4NiBrLIIkIYB5qT1B"
+    },
+    {
+      "album": {
+        "name": "This is Amsterdam",
+        "url": "https://open.spotify.com/album/10wlmyMecAxIx7bdoIPNzK"
+      },
+      "artists": [
+        {
+          "name": "Flying Animal",
+          "url": "https://open.spotify.com/artist/2swCJIywMR8xcM3yCXUFRx"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108760,
+      "name": "This is Amsterdam",
+      "url": "https://open.spotify.com/track/6DR19qqLR5SmXfMtOvFrrW"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Shuffle</a> your heart out.
 
-245 songs - 12 hr 1 min - [published](https://open.spotify.com/playlist/3x0R9H3q2apK7ItZZ2pCtQ)
+246 songs - 12 hr 4 min - [published](https://open.spotify.com/playlist/3x0R9H3q2apK7ItZZ2pCtQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Fool for You](https://open.spotify.com/track/2tt4GTCzZdV3yP2PZQjrbr) | [tyDi](https://open.spotify.com/artist/7tOUuyCplrFWLXCZuhE3C4) | [Fool for You](https://open.spotify.com/album/2UV9snZDoMGxjR8j40ZTyB) | 3:14 | 2021-10-29 | 2022-06-11 |
 | [Forget It](https://open.spotify.com/track/76XAEIVTSmXwrq41rt2n5G) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz) | [Forget It](https://open.spotify.com/album/7eHMIQZVEnyoGAacgmuTTf) | 2:53 | 2021-10-29 | 2022-02-12 |
 | [Free My Mind](https://open.spotify.com/track/4mYWE9Agg0hvKuaOaej6vF) | [Dr\. Fresch](https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC), [Marten Hørger](https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls) | [Free My Mind](https://open.spotify.com/album/2OUYqhPPHwCd9K4u8qO9jU) | 2:51 | 2022-08-26 |  |
+| [Funky Sound](https://open.spotify.com/track/6uKA5VNApuHQoWnSRH1jlc) | [Plastik Funk](https://open.spotify.com/artist/7wmCy21VjfmbP8DznMJe8v), [HINA](https://open.spotify.com/artist/6sn3ynJRzn7OJUdW9Tzz9K) | [Funky Sound](https://open.spotify.com/album/49PKyqHw17jBNcTUaLlafR) | 2:19 | 2022-08-26 |  |
 | [Get Back \(feat\. TITUS\)](https://open.spotify.com/track/2636BVOgTRI8QQ3f1GsA41) | [Breathe Carolina](https://open.spotify.com/artist/53M4Iv2RkzzxFFvW2B1jhC), [SMACK](https://open.spotify.com/artist/5uJw4WCX5nYj4FHky9r1Ug), [TITUS](https://open.spotify.com/artist/20U0ZkzluaLiHuPaG6eGRd) | [Get Back \(feat\. TITUS\)](https://open.spotify.com/album/4qfVFlToM12oeuzk9nvuqO) | 2:40 | 2021-11-26 | 2022-07-28 |
 | [Get This Party Jumpin'](https://open.spotify.com/track/4ynbqZykOfiYZx6OV5QJI2) | [Croatia Squad](https://open.spotify.com/artist/3FAUGHLioXySQ1QTnCOWQC) | [Get This Party Jumpin'](https://open.spotify.com/album/0Hx311oNGTzDIi6eJOS4wD) | 3:22 | 2021-10-29 |  |
 | [Get Up Off The Floor](https://open.spotify.com/track/00TNno8mzugrcej0FqJvrW) | [FORTELLA](https://open.spotify.com/artist/1Gv25YA8ciVilOJBBD2Hv9) | [Get Up Off The Floor](https://open.spotify.com/album/3hWpTTQXIhRZy9Ln14ZlNt) | 2:35 | 2022-08-26 |  |
@@ -209,7 +210,7 @@
 | [Something's about to go down](https://open.spotify.com/track/0MmCny6gGuYPM4wT1rqoz3) | [Anti Up](https://open.spotify.com/artist/4UwR1ir6PovnQiwX5jRPvF) | [Something's about to go down](https://open.spotify.com/album/5pBZxgiRxPdcaTCFnac9CK) | 3:35 | 2021-10-29 |  |
 | [Sorry](https://open.spotify.com/track/3vkzxY2aRL7uhz2BIFzT0V) | [TCTS](https://open.spotify.com/artist/1mFGfrveXbpolppPgO29Io), [Nonô](https://open.spotify.com/artist/2izgj6WOKJsuCRCQUKOoVO) | [Sorry](https://open.spotify.com/album/3QEx4nahZb3ewLKs8b87UV) | 2:42 | 2021-10-29 | 2022-08-06 |
 | [Spirits](https://open.spotify.com/track/73XK1IzeAze8hYceZwTelV) | [Me & My Toothbrush](https://open.spotify.com/artist/5X83BYTRaFGSoKLknnIpWz) | [Spirits](https://open.spotify.com/album/2tj2FGo35WbsWgFjfAd8TD) | 3:10 | 2022-04-01 | 2022-04-19 |
-| [Stay Awake \- Don Diablo VIP Mix](https://open.spotify.com/track/1kp7epwsW5zkObe35QAl5C) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [Freak Fantastique](https://open.spotify.com/artist/3aLw8FpbsV03fqQc7PdlEl) | [Stay Awake \(Don Diablo VIP Mix\)](https://open.spotify.com/album/6bIP2bFeiGUS5qnBkUkczJ) | 3:17 | 2021-12-03 |  |
+| [Stay Awake \- Don Diablo VIP Mix](https://open.spotify.com/track/1kp7epwsW5zkObe35QAl5C) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [Freak Fantastique](https://open.spotify.com/artist/3aLw8FpbsV03fqQc7PdlEl) | [Stay Awake \(Don Diablo VIP Mix\)](https://open.spotify.com/album/6bIP2bFeiGUS5qnBkUkczJ) | 3:17 | 2021-12-03 | 2022-09-03 |
 | [Stockholm](https://open.spotify.com/track/1qbfDP2K3YhA02U1KX06UM) | [BROHUG](https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab) | [Stockholm](https://open.spotify.com/album/6igOkvOpRiiJkQXj1454v2) | 3:17 | 2021-10-29 | 2022-07-29 |
 | [stop](https://open.spotify.com/track/6BM9s0Pqmj5mvHsrDvLozu) | [warner case](https://open.spotify.com/artist/106OuakzOxxbXTuigEEf01), [Max Kaluza](https://open.spotify.com/artist/6lNLgymfWudNsbC0Vio7Qi) | [stop](https://open.spotify.com/album/4CbJbnUWtedRpgLGIgaEiw) | 3:18 | 2021-10-29 | 2022-08-06 |
 | [Stop Talkin \(feat\. ALMA\)](https://open.spotify.com/track/05r0Rw0wlUSC6Az3fssRlj) | [Valentino Khan](https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh), [ALMA](https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8) | [Stop Talkin \(feat\. ALMA\)](https://open.spotify.com/album/55iVqhNXuBbgvx21VTDgdW) | 2:57 | 2021-10-29 |  |

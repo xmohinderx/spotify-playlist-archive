@@ -4,7 +4,7 @@
 
 > Being alone \(again\) can be tough, but these songs will keep you company.
 
-313 songs - 19 hr 35 min - [published](https://open.spotify.com/playlist/4TuqprRvF3pWyUXfGA1jsb)
+314 songs - 19 hr 41 min - [published](https://open.spotify.com/playlist/4TuqprRvF3pWyUXfGA1jsb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,6 +118,7 @@
 | [I Don't Want You Back](https://open.spotify.com/track/38nKfxyRrjYfx0ODX1W5yB) | [AJ Mitchell](https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77) | [Hopeful](https://open.spotify.com/album/2HkUMYp8oYG62y7qKK2olM) | 3:44 | 2022-04-29 |  |
 | [I Feel Nothing](https://open.spotify.com/track/3ZSfV96QUPfBrVgeGGVlTz) | [Stefan Hjort](https://open.spotify.com/artist/2LxJgk9hfxaOFWTZRfV9kR) | [I Feel Nothing](https://open.spotify.com/album/39qmg94F46V2HwyXEb6LH9) | 3:26 | 2022-01-05 | 2022-07-28 |
 | [I Found \- Acoustic](https://open.spotify.com/track/3i7Iyc932rv1AZz7gl7dj8) | [Amber Run](https://open.spotify.com/artist/0MmnmsAuQKRFpo6vJElcaU) | [Pilot EP](https://open.spotify.com/album/6gYzypEY4tTiESfptdoOrB) | 4:19 | 2021-12-06 |  |
+| [I Get Lonely](https://open.spotify.com/track/5xLDmkobOw674TLTBBmnuN) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [The Velvet Rope](https://open.spotify.com/album/6ZANEjETQ9L9pjBuvOAhCQ) | 5:17 | 2022-09-02 |  |
 | [i hate u, i love u \(feat\. olivia o'brien\)](https://open.spotify.com/track/7vRriwrloYVaoAe3a9wJHe) | [gnash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw), [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [us](https://open.spotify.com/album/3L0H4RjVXpEkwfDgi3XOdf) | 4:11 | 2021-12-06 |  |
 | [i hate you for this](https://open.spotify.com/track/4pVqrsykRGIyicylgR2gIx) | [Munn](https://open.spotify.com/artist/3cKS6z9VNfN9u5ZyNiph4l) | [i hate you for this](https://open.spotify.com/album/483ZvZXLixgFx8hqyyp3Mf) | 2:17 | 2021-12-06 |  |
 | [I Have Nothing](https://open.spotify.com/track/5pToiT0Ux6xlNk9MYG5r3I) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Sad Songs](https://open.spotify.com/album/7izeaWTIMPh2kLE1htv4bQ) | 4:47 | 2022-01-05 | 2022-04-21 |
@@ -193,7 +194,7 @@
 | [Never Say Never](https://open.spotify.com/track/57uX2vR9j9DNiANDYfXw1i) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [The Fray](https://open.spotify.com/album/3ibdlhMmbFPMYoWvwHCzI3) | 4:16 | 2021-12-06 |  |
 | [No Matter](https://open.spotify.com/track/5Q1m46EdcNAkg0Ht0f3YgC) | [Cinzia & The Eclipse](https://open.spotify.com/artist/3eyyNHkVEK4Hy9Qnw7i13W) | [No Matter](https://open.spotify.com/album/5NRbTPuE8enOjvcKkuhzDP) | 3:09 | 2021-12-06 | 2022-07-24 |
 | [No Peace](https://open.spotify.com/track/5ZX1X9Rl4zbx1Wwyn3idVD) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [The Thrill Of It All \(Special Edition\)](https://open.spotify.com/album/3TJz2UBNYJtlEly0sPeNrQ) | 4:43 | 2021-12-06 | 2022-06-24 |
-| [No Peace](https://open.spotify.com/track/75TlwJ8oBgdq8P9kO7uVML) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [The Thrill Of It All \(Special Edition\)](https://open.spotify.com/album/3XftSbguntyRTBQaGItmfK) | 4:43 | 2022-07-08 |  |
+| [No Peace](https://open.spotify.com/track/75TlwJ8oBgdq8P9kO7uVML) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [The Thrill Of It All \(Special Edition\)](https://open.spotify.com/album/3XftSbguntyRTBQaGItmfK) | 4:43 | 2022-07-08 | 2022-09-03 |
 | [Not About Angels](https://open.spotify.com/track/5sF7hdYvhrcgNq8NZjfK8L) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Not About Angels](https://open.spotify.com/album/7DRvJhjucsH34zMXtEh0ER) | 3:09 | 2021-12-06 |  |
 | [Not Me That You're Thinking 'Bout](https://open.spotify.com/track/16u0ZLBYb1eQiPtt32QMU0) | [Tate Brusa](https://open.spotify.com/artist/39FZo4zmc3OZiukHmL752v) | [Not Me That You're Thinking 'Bout](https://open.spotify.com/album/6KjNNctJCoppR0sJiA0TIz) | 4:31 | 2021-12-06 | 2022-07-29 |
 | [Not My Fault](https://open.spotify.com/track/6UTIhC7SMebdZRooBi6ojZ) | [Madi Beede](https://open.spotify.com/artist/6ju6KugSiJ1luEBrdxAHUV) | [Not My Fault](https://open.spotify.com/album/4P3tzuxw1GbcMoZT0yi2I4) | 2:46 | 2022-02-25 | 2022-03-02 |

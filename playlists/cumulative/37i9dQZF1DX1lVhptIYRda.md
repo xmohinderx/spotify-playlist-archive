@@ -2,9 +2,9 @@
 
 ### [Hot Country](https://open.spotify.com/playlist/37i9dQZF1DX1lVhptIYRda)
 
-> Today's top country hits of the week, worldwide! Cover: Ingrid Andress
+> Today's top country hits of the week, worldwide! Cover: Jon Pardi
 
-550 songs - 1 day 5 hr 39 min - [published](https://open.spotify.com/playlist/6kgRyUaLssWEGETpjboDD4)
+552 songs - 1 day 5 hr 46 min - [published](https://open.spotify.com/playlist/6kgRyUaLssWEGETpjboDD4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -232,6 +232,7 @@
 | [Homesick](https://open.spotify.com/track/6D2Up6lpoFazlmFn0Zpkty) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Experiment](https://open.spotify.com/album/3950MST9uRPKyh4Prv7lh1) | 3:25 | 2019-11-16 | 2020-03-21 |
 | [How Many Times](https://open.spotify.com/track/0x5aqRejnsR6kiMq0ficsp) | [Kat & Alex](https://open.spotify.com/artist/6K4y1ejK5kZ0kRdgCv5bRg) | [How Many Times](https://open.spotify.com/album/0KWgaxKtKrMDOrzUZguLTd) | 3:25 | 2020-12-12 | 2021-03-27 |
 | [How They Remember You](https://open.spotify.com/track/3qwPYg8xTWPafQD3YUNaTU) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [How They Remember You](https://open.spotify.com/album/1XwToQelPUXtUKSYUApT9G) | 3:31 | 2021-01-23 | 2021-02-20 |
+| [Human](https://open.spotify.com/track/5AihIu9yF3flkw1jFMyfwW) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Human The Double Album](https://open.spotify.com/album/3og8X1LYiVq3nPdMxpM9Wb) | 3:41 | 2022-09-02 |  |
 | [Hung Up On You](https://open.spotify.com/track/7uokjCoYFxSdgcq53GNWhJ) | [Troy Cartwright](https://open.spotify.com/artist/24I45QsPZf5Gr7aVlVmTfr) | [Hung Up on You](https://open.spotify.com/album/6uLznR1dDQtiPu7QRYDgOK) | 3:21 | 2020-04-18 | 2020-06-21 |
 | [I Bet You Think About Me \(feat\. Chris Stapleton\) \(Taylor’s Version\) \(From The Vault\)](https://open.spotify.com/track/4CkgMiMqZ5JzW9iYXSTMTL) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 4:45 | 2021-11-13 | 2022-02-05 |
 | [I Bet You Wanna Know](https://open.spotify.com/track/0mOJz5X44w1RScid7BZ4Mq) | [Priscilla Block](https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1) | [I Bet You Wanna Know](https://open.spotify.com/album/6d6FyAZ8g1W6TdyF6bWMUl) | 2:37 | 2021-02-14 | 2021-02-27 |
@@ -303,7 +304,7 @@
 | [Love Ain't](https://open.spotify.com/track/6lUNNXp7M8boA7gUEd6PSm) | [Eli Young Band](https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv) | [This Is Eli Young Band: Greatest Hits](https://open.spotify.com/album/0IjcGyW09KmCKIntVY7Ain) | 3:06 | 2019-05-26\* | 2019-06-15 |
 | [Love Is Real](https://open.spotify.com/track/0pJLfGfCgmr0z9WRjwY7A3) | [Morgan Evans](https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS) | [Country Outta My Girl](https://open.spotify.com/album/5yMa7b6GWvPHTPijIDQVtJ) | 2:42 | 2021-10-16 | 2022-02-26 |
 | [Love Someone](https://open.spotify.com/track/43CFDpciGFDm226POTLEXU) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Brett Eldredge](https://open.spotify.com/album/1NUKNYLtePSiZnQj0QeZlo) | 3:31 | 2019-05-26\* | 2019-06-22 |
-| [Love Talking](https://open.spotify.com/track/5kFLWyiAXjYrecLHnR7bTk) | [Eli Young Band](https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv) | [Love Talking](https://open.spotify.com/album/0bflVbQQISnuMdv5KjVPHB) | 2:53 | 2022-06-03 |  |
+| [Love Talking](https://open.spotify.com/track/5kFLWyiAXjYrecLHnR7bTk) | [Eli Young Band](https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv) | [Love Talking](https://open.spotify.com/album/0bflVbQQISnuMdv5KjVPHB) | 2:53 | 2022-06-03 | 2022-09-03 |
 | [Love That About You](https://open.spotify.com/track/6eKhWSDPM9cDicwsBCvUwB) | [Filmore](https://open.spotify.com/artist/0FvJm0y2eHw0aPkLLU3sIG) | [Love That About You](https://open.spotify.com/album/35nqtUdzuwfzYRLPE6odU4) | 2:37 | 2019-05-26\* | 2019-06-15 |
 | [Love You Like I Used To](https://open.spotify.com/track/1D7cfiC5mxqHfTCcOiRBej) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [Love You Like I Used To](https://open.spotify.com/album/7odU4foqIpRNmUSblazLBq) | 3:06 | 2020-02-12 | 2021-01-23 |
 | [Love You Too Late](https://open.spotify.com/track/1cxSTaUfweIG0dw3a9BGi3) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW) | [Love You Too Late \(Live at Joe's\)](https://open.spotify.com/album/5O2o5h4GdpGrQlxyaVmk6p) | 3:23 | 2019-08-11 | 2019-11-09 |
@@ -500,6 +501,7 @@
 | [Trouble With A Heartbreak](https://open.spotify.com/track/4lSNyiHil3tuiwtvEpN1qq) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [Trouble With A Heartbreak](https://open.spotify.com/album/3hs2Iakgld3yGrrcJSpg28) | 3:16 | 2022-02-04 | 2022-07-02 |
 | [TRUCK](https://open.spotify.com/track/0OPcMpjhDyILRccj05f6S6) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [A ROCK](https://open.spotify.com/album/6j6uNK4vsfLXqVwWXwvqYQ) | 3:38 | 2020-09-04 | 2020-09-11 |
 | [Truth About You](https://open.spotify.com/track/4Qum1kECNQrpREev5fvAQ4) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [Truth About You](https://open.spotify.com/album/3XoK5Dz1cSeeRi5bbO2Gbt) | 3:23 | 2021-07-31 | 2022-08-06 |
+| [Try Losing One](https://open.spotify.com/track/6mDokQBBmkDhu7uDEFhyQ7) | [Tyler Braden](https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N) | [What Do They Know](https://open.spotify.com/album/0NR3FJJhD27XgurmHEQHY0) | 3:39 | 2022-09-02 |  |
 | [Try Saying Goodbye](https://open.spotify.com/track/6p3tET0bTKLDv4iF0hl0p2) | [John King](https://open.spotify.com/artist/32Cj2WsRALt1SCWaPBR9QP) | [Try Saying Goodbye](https://open.spotify.com/album/4JtQiwXOtyA8WVaHYR3NhG) | 3:01 | 2019-05-26\* | 2019-08-13 |
 | [Trying Like The Devil](https://open.spotify.com/track/1ALSPkVDcZFDj2eBcVTzWL) | [Aaron Watson](https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3) | [Red Bandana](https://open.spotify.com/album/0WMC1R1SgwLSLwiklZGIhI) | 3:40 | 2019-06-22 | 2019-06-30 |
 | [Under My Skin](https://open.spotify.com/track/59SoAaZ8tWxL5OBkWOG6aN) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [Under My Skin](https://open.spotify.com/album/0KZJ9CMf2E4hi7uC55Bp6X) | 2:58 | 2020-11-22 | 2021-04-10 |
@@ -541,7 +543,7 @@
 | [Wilder Days](https://open.spotify.com/track/2vubFQgAJO5SeuVa7ytIHc) | [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP) | [Reckless](https://open.spotify.com/album/1PuZ5juin9Mpt3Tyiygzio) | 4:11 | 2022-07-22 | 2022-08-27 |
 | [Wildfire](https://open.spotify.com/track/21HxYsyuuXZNqB1Dme5PQN) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [Wildfire](https://open.spotify.com/album/0x6S6Ym4obKr2dz23OvDyd) | 3:10 | 2020-08-08 | 2020-11-22 |
 | [Wine, Beer, Whiskey](https://open.spotify.com/track/5avVDmK9FVJpd3MDO8I3Zl) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [Nightfall](https://open.spotify.com/album/4qs02AtQxPiPkklCBD7y8q) | 3:16 | 2021-05-29 | 2021-08-07 |
-| [Wishful Drinking \(with Sam Hunt\)](https://open.spotify.com/track/3HGnIIdHYIbkowzLk8UHbE) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii), [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Wishful Drinking \(with Sam Hunt\)](https://open.spotify.com/album/2vb8B3MYGjfYlGch4KlEfe) | 3:14 | 2021-08-07 |  |
+| [Wishful Drinking \(with Sam Hunt\)](https://open.spotify.com/track/3HGnIIdHYIbkowzLk8UHbE) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii), [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Wishful Drinking \(with Sam Hunt\)](https://open.spotify.com/album/2vb8B3MYGjfYlGch4KlEfe) | 3:14 | 2021-08-07 | 2022-09-03 |
 | [With A Woman You Love](https://open.spotify.com/track/20WKHeDTmtU0Zj4sNB8aoA) | [Justin Moore](https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk) | [With A Woman You Love](https://open.spotify.com/album/1b6svBmo0eVcAIfhOSmf71) | 2:47 | 2022-07-29 |  |
 | [Without You](https://open.spotify.com/track/34slXA5D75T5S0dwYYRd4J) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS), [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN) | [Without You](https://open.spotify.com/album/3uGsdBLGyKfbP3OXzDL48Y) | 3:44 | 2020-09-19 | 2021-01-23 |
 | [Woman You Got](https://open.spotify.com/track/2NNioXX1t4whQsBF8FfExl) | [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y) | [Woman You Got](https://open.spotify.com/album/19GuJrC5nV45shkMHbBEXm) | 2:57 | 2021-07-04 | 2021-11-13 |

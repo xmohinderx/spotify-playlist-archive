@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "A Special Place",
+        "url": "https://open.spotify.com/album/1C8SRnPi8Fs6Bhdceyiheb"
+      },
+      "artists": [
+        {
+          "name": "Danielle Bradbery",
+          "url": "https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174193,
+      "name": "A Special Place",
+      "url": "https://open.spotify.com/track/1xk2TQgJNtH3FErgICPgmb"
+    },
+    {
+      "album": {
         "name": "Four The Record",
         "url": "https://open.spotify.com/album/1Pv6Znx8kGygusP4fqBD7m"
       },
@@ -311,6 +329,24 @@
       "duration_ms": 191693,
       "name": "Gunpowder & Lead",
       "url": "https://open.spotify.com/track/3z1PqYwMtct2Dm4R9lhWnT"
+    },
+    {
+      "album": {
+        "name": "Hate Me",
+        "url": "https://open.spotify.com/album/28aNImQBnhTpzp02HkW9YX"
+      },
+      "artists": [
+        {
+          "name": "Abbey Cone",
+          "url": "https://open.spotify.com/artist/1N53jg6KZxBoFI9oWNchct"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172440,
+      "name": "Hate Me",
+      "url": "https://open.spotify.com/track/0B1lajXBzwHLTihUW19xEh"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music from Electronica to Techno\. Cover: Klanglos
 
-[Spotify](https://open.spotify.com/user/spotify) - 549,137 likes - 79 songs - 7 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 547,960 likes - 79 songs - 7 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 9 | [Home Again](https://open.spotify.com/track/1hE2C8ux9dG6cscNbTkiYH) | [Dandara](https://open.spotify.com/artist/6h2EcimpzT4Ft2t2vfjEt4) | [Sayo EP](https://open.spotify.com/album/1eYSq0OvKX9tHT2qD6pNL3) | 7:06 |
 | 10 | [Regina Blue](https://open.spotify.com/track/4TR6mBYhwSML6pxV0gF4Ts) | [Sébastien Léger](https://open.spotify.com/artist/17j0kFtqn9Fss3D916jSlp) | [Regina Blue EP](https://open.spotify.com/album/43QIn889yImNDXw4bWTk0f) | 8:45 |
 | 11 | [HokusPokus](https://open.spotify.com/track/7MVSFH6QTeIoIcBsFI0qBz) | [MOGUAI](https://open.spotify.com/artist/4xgFgBZ7CRtgtHcziClOwQ), [Watermät](https://open.spotify.com/artist/4a9sClW4YpYQE5jUMAWx5W) | [HokusPokus](https://open.spotify.com/album/0obpvQAxKpEVOQNhInn4WI) | 2:15 |
-| 12 | [Dancing In The Shadows](https://open.spotify.com/track/2edB8M0PPZCoYKm8ohDaNm) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Dancing In The Shadows](https://open.spotify.com/album/2rJpFV7L5MsabqxrEeHVd6) | 4:36 |
+| 12 | [Dancing In The Shadows](https://open.spotify.com/track/2edB8M0PPZCoYKm8ohDaNm) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Dancing In The Shadows](https://open.spotify.com/album/2rJpFV7L5MsabqxrEeHVd6) | 4:37 |
 | 13 | [Looking at Your Pager \- Solomun Remix](https://open.spotify.com/track/3SrLEavYNM4QQ8IaTySHGT) | [KH](https://open.spotify.com/artist/7nwdEDnfgNpPhWQCXX3KSx), [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC) | [Looking At Your Pager \(Solomun Remix\)](https://open.spotify.com/album/7HhVsiE0RjoBhLvE3P1O6u) | 4:28 |
 | 14 | [The Night](https://open.spotify.com/track/53BuEZN76TDiPYjEjGaUgu) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH), [Alison Goldfrapp](https://open.spotify.com/artist/72f5AR6hMeL3BwtcO7HqhS) | [The Night](https://open.spotify.com/album/4tcynk4uZZOErApTQxqGI4) | 7:38 |
 | 15 | [Plato](https://open.spotify.com/track/5eQhX9iv6jDuzaGi6N4z0V) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR), [Cherry \(UA\)](https://open.spotify.com/artist/6xuIqCB0qedzXRYmj7fsGq) | [Plato](https://open.spotify.com/album/4fsQTws2mzQ0p6IemZb0oU) | 4:25 |

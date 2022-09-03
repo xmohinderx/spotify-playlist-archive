@@ -4,7 +4,7 @@
 
 > Cover Artist: Nothing More &amp; Primal Darkness                                                  Rock out while you work out! Follow for updates!
 
-159 songs - 10 hr 7 min - [published](https://open.spotify.com/playlist/4aA1F6VQ4ECBvdhFded4Yt)
+160 songs - 10 hr 11 min - [published](https://open.spotify.com/playlist/4aA1F6VQ4ECBvdhFded4Yt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Anti\-Everything](https://open.spotify.com/track/2JKNnH7OFhyPNLF90PoEDB) | [DED](https://open.spotify.com/artist/312CXoyqdQ0p6ZJ67NJoVa) | [Mis\-An\-Thrope](https://open.spotify.com/album/6h7D8BubMPDllyAla1jJQ1) | 3:14 | 2022-01-24 |  |
 | [Around The Sun \(feat\. Brandon Saller of Atreyu\)](https://open.spotify.com/track/5N9yzJL4LpVgnFoUwuagrf) | [Escape the Fate](https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum), [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [Chemical Warfare: B\-Sides](https://open.spotify.com/album/1PxVdOGI6SoPDuHmKNLELy) | 2:34 | 2021-09-11 |  |
 | [Betray And Degrade](https://open.spotify.com/track/3XHnaUAFX8PfNMW1hHC75N) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Poison The Parish \(Deluxe Edition\)](https://open.spotify.com/album/2CbMgWfTfT4n80PjrDkbbt) | 4:04 | 2021-08-20 |  |
+| [Bii Biyelgee](https://open.spotify.com/track/2m30WlnHkXQgUlQNyFizTL) | [The HU](https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc) | [Rumble Of Thunder](https://open.spotify.com/album/5gqOvY9dUDP8JQygMUYPTn) | 4:18 | 2022-09-02 |  |
 | [Black Thunder](https://open.spotify.com/track/3cX0XeN0p3QKxtLu0MxNNy) | [The HU](https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc) | [Black Thunder](https://open.spotify.com/album/4b9ASxLZiYaJXC4XsFgeDv) | 4:15 | 2022-08-17 |  |
 | [Black Wedding \(feat\. Rob Halford\)](https://open.spotify.com/track/3zUwwYcmob803s2Bkck8GY) | [In This Moment](https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT), [Rob Halford](https://open.spotify.com/artist/7CTjkl9M3enzBBfm1u10Sy) | [Ritual](https://open.spotify.com/album/1JIIc6FIetBaCAzWkCSBjL) | 4:07 | 2022-01-24 |  |
 | [Blame It On The Double \(feat\. Tyler Connolly of Theory of a Deadman & Jason Hook\)](https://open.spotify.com/track/5u0VRvkQ9iklgcVw631pJu) | [Cory Marks](https://open.spotify.com/artist/17pJAHDfdLvGuUwl2DkEgv), [Theory of a Deadman](https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ), [Jason Hook](https://open.spotify.com/artist/1Nm7n07ydhbE1jjagpvJQQ) | [Blame It On The Double \(feat\. Tyler Connolly of Theory of a Deadman & Jason Hook\)](https://open.spotify.com/album/6WUx4f0koM9yb5bfLQcXNv) | 3:27 | 2021-08-20 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoKKKetKEw.md) - [plain]
 
 > Jesus Music but make it pon pon\.   Get your fill of Afrobeats and Bible right here!  Cover: Limoblaze
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,552 likes - 52 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,710 likes - 52 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoKKKetKEw.md) - [plain]
 | 32 | [Lotta Things](https://open.spotify.com/track/190mAgySPlWSbOZd5kLlyq) | [Paul the Messenger](https://open.spotify.com/artist/2UbUpUm5AVacCH9eYrIkPD) | [Lotta Things](https://open.spotify.com/album/6psz7fSrqECBaL6feOB8b5) | 2:36 |
 | 33 | [Akorede](https://open.spotify.com/track/6nNnOZRV4X5rxMMivAItDp) | [TB1](https://open.spotify.com/artist/79nV5xcc87fTQ2T527OqAG), [Kelly Lyon](https://open.spotify.com/artist/4ifitpTpp7bzrEyxkHuFmj), [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [Akorede](https://open.spotify.com/album/60OHPdjGHgbHZBwBQVnlyE) | 4:00 |
 | 34 | [Made Whole](https://open.spotify.com/track/5k04oXnUohIKuaVSlDy0kV) | [Gil Joe](https://open.spotify.com/artist/7wEZIbeR4EyyHKhMEvBo5h) | [Made Whole](https://open.spotify.com/album/7B7LqjPV3iVz3Qa1oEN5lM) | 3:32 |
-| 35 | [Shalaye](https://open.spotify.com/track/2I2nI93M7QVN0cg8CStNzr) | [Benji Kasule](https://open.spotify.com/artist/53sV72PJJCP9xX96d6eFgh), [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY) | [Shalaye](https://open.spotify.com/album/6oG5GAz0pv16zRyuHahRGw) | 2:49 |
-| 36 | [GOD'S LOVE](https://open.spotify.com/track/1xcc6JnRYCf0Kbi3154MLp) | [Lilmizzy](https://open.spotify.com/artist/5r7lPFWqzEAQu7RkzGYqPy), [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY) | [GOD'S LOVE](https://open.spotify.com/album/73GEyB7EE4XjzUVXiYCJGP) | 2:17 |
+| 35 | [GOD'S LOVE](https://open.spotify.com/track/1xcc6JnRYCf0Kbi3154MLp) | [Lilmizzy](https://open.spotify.com/artist/5r7lPFWqzEAQu7RkzGYqPy), [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY) | [GOD'S LOVE](https://open.spotify.com/album/73GEyB7EE4XjzUVXiYCJGP) | 2:17 |
+| 36 | [Shalaye](https://open.spotify.com/track/2I2nI93M7QVN0cg8CStNzr) | [Benji Kasule](https://open.spotify.com/artist/53sV72PJJCP9xX96d6eFgh), [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY) | [Shalaye](https://open.spotify.com/album/6oG5GAz0pv16zRyuHahRGw) | 2:49 |
 | 37 | [The Best](https://open.spotify.com/track/6WbvBYlHI7cFxCfQiioSUc) | [Paul Rarity](https://open.spotify.com/artist/1NIAd4wWEI2kYYBM0i9T48), [A Mose](https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X) | [The Best](https://open.spotify.com/album/2ctbxwSVw2IkSSMwWcHdqV) | 2:37 |
 | 38 | [Still Blessed](https://open.spotify.com/track/6D2re3VXyUdjuTCSY2pJmL) | [TBabz](https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V), [Nathanael](https://open.spotify.com/artist/51A0nSOeTdS9Z0fVtDNFEs) | [Still Blessed](https://open.spotify.com/album/61qxBk4OxpnuR2o5WnK4Qt) | 2:55 |
 | 39 | [Yellow Soul](https://open.spotify.com/track/0jrECMaT9BfIfvEHRvOn3h) | [Malcolm Rue](https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H) | [Yellow Soul](https://open.spotify.com/album/0fCxrsjbDEipf1uTTjRZBd) | 2:42 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoKKKetKEw.md) - [plain]
 | 51 | [Belongs to You \- EDM Remix](https://open.spotify.com/track/2KCyx1wmIdWUwJPM7LItHS) | [Sarah Téibo](https://open.spotify.com/artist/2TiTzlqsBiRzHXSHQIIabT), [Sigag Lauren](https://open.spotify.com/artist/0CYHsfVyqOajHaAn2uqZzA), [Paola Carla](https://open.spotify.com/artist/0pD33OcFUmNfYfg1EHoVU6) | [Belongs to You \(EDM Remix\)](https://open.spotify.com/album/5bO2RKSu7dpos2tguifru8) | 3:07 |
 | 52 | [No Play](https://open.spotify.com/track/3LP9gtouosFKgwQw3KkrWb) | [Maikon West](https://open.spotify.com/artist/3QKJ7PXenJvvf1MiicgBIG), [Lekan Salamii](https://open.spotify.com/artist/2S8pBLSlvmEiRPl2SMPfPB), [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY) | [No Play](https://open.spotify.com/album/3Op5W7Mf4IAD8jLEBynDeh) | 2:30 |
 
-Snapshot ID: `MTY2MDYwOTAwNiwwMDAwMDAwMDUxODY1NDZiNzkwZTI0NDE1MzJiOTZhMzJlMWMzNDE1`
+Snapshot ID: `MTY2MDYwOTAwNiwwMDAwMDAwMDAxN2Q0NTgwMmI3ZTY0ZDI4YWQ2MjA5NWFlNzVhMjFh`

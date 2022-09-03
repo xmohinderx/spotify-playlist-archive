@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQ6UgJlQibR.md) - [plain]
 
 > Where music and emotions meet\. Cover: <a href="spotify:artist:7Ddov9nbJDbpgzvBVb7cU1">George Wassouf</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,672 likes - 40 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,719 likes - 40 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Seket El Kalam](https://open.spotify.com/track/7AFuJ7RH19rEML28nWb7oF) | [George Wassouf](https://open.spotify.com/artist/7Ddov9nbJDbpgzvBVb7cU1) | [Seket El Kalam](https://open.spotify.com/album/7vENdfNGO5G9E713VdAUPw) | 4:15 |
 | 2 | [Batwanes Beek](https://open.spotify.com/track/2A4xTe1uOdRKKJUyilAqrF) | [Warda](https://open.spotify.com/artist/3myefQO8upDe4aNxjTFddr) | [Batwanes Beek](https://open.spotify.com/album/3w6wliAjhJS16hZyimZpT7) | 13:24 |
-| 3 | [Meen Habeebee Ana \(Duet Nawal Al Zoghbi\)](https://open.spotify.com/track/5Ht5pDYfnyxp8SuEndKDQF) | [Wael Kfoury](https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws) | [Kfoury Classic](https://open.spotify.com/album/1ICamuikY1Ye2nRiSUXN8x) | 5:42 |
-| 4 | [Gana El Hawa Live Record](https://open.spotify.com/track/4vN8c5cbkX3Zg9NyWGf661) | [Abdel Halim Hafez](https://open.spotify.com/artist/6IW026WCYU8L1WF79dfwss) | [El Toba](https://open.spotify.com/album/6Gp4f6CK3GBiGkDOoIslQu) | 12:22 |
+| 3 | [Gana El Hawa Live Record](https://open.spotify.com/track/4vN8c5cbkX3Zg9NyWGf661) | [Abdel Halim Hafez](https://open.spotify.com/artist/6IW026WCYU8L1WF79dfwss) | [El Toba](https://open.spotify.com/album/6Gp4f6CK3GBiGkDOoIslQu) | 12:22 |
+| 4 | [Meen Habeebee Ana \(Duet Nawal Al Zoghbi\)](https://open.spotify.com/track/5Ht5pDYfnyxp8SuEndKDQF) | [Wael Kfoury](https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws) | [Kfoury Classic](https://open.spotify.com/album/1ICamuikY1Ye2nRiSUXN8x) | 5:42 |
 | 5 | [Midri](https://open.spotify.com/track/1yOlhO1ejjlNSyV83ImGLW) | [Malek El Yaman](https://open.spotify.com/artist/10bHG6pbiXXIT63inPNyCI), [Carole Aoun](https://open.spotify.com/artist/5eo1Obe1OnCuklPbWBIMMM) | [Midri](https://open.spotify.com/album/5dkJWG1lsaGl03VaivzqIs) | 4:35 |
 | 6 | [Zay Elasal](https://open.spotify.com/track/6WL468M0cawkNfDIXMsjPK) | [Sabah](https://open.spotify.com/artist/1sA9ybX80IVJ00sdbm5kB9) | [Sabah](https://open.spotify.com/album/5ewdGO8RViJxkGMVGx4KdP) | 8:31 |
 | 7 | [Maliket Gamal El Rouh](https://open.spotify.com/track/0g8dUzQS5hkB2FxmZA4CCv) | [George Wassouf](https://open.spotify.com/artist/7Ddov9nbJDbpgzvBVb7cU1) | [Maliket Gamal El Rouh](https://open.spotify.com/album/4bzpxq9uHStQAUOJiFEuuR) | 3:47 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQ6UgJlQibR.md) - [plain]
 | 39 | [Khamratal Houbbi](https://open.spotify.com/track/1Iz1pyVDrnEAJkutlgQxXL) | [Nour Mehanna](https://open.spotify.com/artist/5AILvx0r074KUi1FDzRsoF) | [Greatest Hits](https://open.spotify.com/album/7ALk1jLl63umul7khEyEjD) | 5:21 |
 | 40 | [Akdeb Alik](https://open.spotify.com/track/1ZsMhxFNAJwPNDBbTNF0Hr) | [Adam](https://open.spotify.com/artist/38hkUvMOhAhRSNGfd402SF) | [Sahrat Tarab](https://open.spotify.com/album/72iiKUrgjejSb61GMtZmEy) | 6:04 |
 
-Snapshot ID: `MTYwNjAzNzU2NSwwMDAwMDAwMDdiM2YyMzM0ODEzMWRhY2M5MDE2MTdjYzliOTVmZmQw`
+Snapshot ID: `MTYwNjAzNzU2NSwwMDAwMDAwMDBhY2EzNWJhOGVmNWY0MDVkY2JkMTk5NTBlNDE3ZDMy`

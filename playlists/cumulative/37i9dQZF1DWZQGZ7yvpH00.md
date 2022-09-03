@@ -2,13 +2,14 @@
 
 ### [sad sierreño](https://open.spotify.com/playlist/37i9dQZF1DWZQGZ7yvpH00)
 
-> guitarras agüitadas pa' cantarle al amor y al desamor 💔🙁 Los Aptos en portada.
+> guitarras agüitadas pa' cantarle al amor y al desamor 💔🙁 DannyLux en portada.
 
-86 songs - 4 hr 53 min - [published](https://open.spotify.com/playlist/7yuqccTYEQrtqPBOlPtt5b)
+89 songs - 5 hr 2 min - [published](https://open.spotify.com/playlist/7yuqccTYEQrtqPBOlPtt5b)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1004 Kilómetros](https://open.spotify.com/track/0pt0wjZNeFOMIeCudmXRrl) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Jimmy Humilde Presenta Lo Mejor De Las Calles Edición Mexico](https://open.spotify.com/album/43R7kF6zEbcmD3A5CWwBnv) | 4:37 | 2021-11-22 | 2022-07-09 |
+| [2 De La](https://open.spotify.com/track/2ImJtl2zKUto4nB34YJHBO) | [LDNE](https://open.spotify.com/artist/5hkcGbdTv8nC62vVT7RJmZ) | [2 De La](https://open.spotify.com/album/5mffXgdpyrt2qyOejlBK7u) | 3:10 | 2022-09-02 |  |
 | [2:26am](https://open.spotify.com/track/17FDxgsz6jzkAwIs2cULWO) | [El Proyecto](https://open.spotify.com/artist/5tm5SxkL3KMVzl9XQvr5Ai) | [2:26am](https://open.spotify.com/album/51Sby9woh6xtIDTMTUyeCF) | 3:21 | 2022-08-05 |  |
 | [Ahora Bailas Con Él](https://open.spotify.com/track/5yPI7QUoey5bpyGhecujrR) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO) | [Ahora Bailas Con Él](https://open.spotify.com/album/0vZ4LGuN4iAvFp8LzRlTrb) | 4:20 | 2022-08-26 |  |
 | [Airplanes](https://open.spotify.com/track/5DZjm7FxWFoAamWPegY7cM) | [Proximo Nivel](https://open.spotify.com/artist/3aEa0X3wMYErFrys1jgV94), [Angel Tumbado](https://open.spotify.com/artist/6Vlv2tBpKw6ib5C7DHkOfq) | [Proximo Nivel](https://open.spotify.com/album/3Mh5n49gD1gafG2e83Emjk) | 3:10 | 2022-06-03 |  |
@@ -57,6 +58,7 @@
 | [Mientras Duermes](https://open.spotify.com/track/22PH5e4SxE8EPI5YVc0Zin) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [Mientras Duermes](https://open.spotify.com/album/3MZAzqL04CpxMuymwFdA8j) | 3:07 | 2022-05-06 | 2022-07-09 |
 | [MODO DEPRE :\(](https://open.spotify.com/track/2U27fF38cgWIPsfoMDuYQD) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [NOSTALGIA](https://open.spotify.com/album/72rN7YPXX4BxMQ3nNmipAd) | 3:19 | 2022-05-06 | 2022-06-11 |
 | [No Eres La Oficial](https://open.spotify.com/track/7LYWPZL216dyiN02mjefro) | [David Santos](https://open.spotify.com/artist/3sc9qeCcbKwYiiBspwVUzU) | [No Eres La Oficial](https://open.spotify.com/album/3Y1AadLWzuo9uXJ2SD0w8V) | 3:20 | 2021-11-22 | 2022-06-25 |
+| [No Te Quiero Perder](https://open.spotify.com/track/4AwlNIyid3oRyNqX61kTKt) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Limerencia](https://open.spotify.com/album/4d9KK2351FK3PAzlqfy8yj) | 3:46 | 2022-09-02 |  |
 | [No Tengo Escape](https://open.spotify.com/track/7vHICHFIVRi5lTMaAOPEoB) | [Angel Perez](https://open.spotify.com/artist/39dTY1F07rdtbJ1zgjDQOe), [ERRE](https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3) | [Una Ocasión De Verano](https://open.spotify.com/album/5DYMmAQ5sUT2eXmmGReLfO) | 2:35 | 2022-08-05 |  |
 | [Nuestra Felicidad](https://open.spotify.com/track/7f2mAgfVjPp2m0hfVKrHN9) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Las Dos Caras Del Amor](https://open.spotify.com/album/30Zq5q0nnyLYluf1ZmsvF7) | 3:18 | 2021-11-26 | 2022-07-09 |
 | [Nuestras metas](https://open.spotify.com/track/3jAm5zs7oSKWv5UkrTFYBQ) | [Ivan Orozco](https://open.spotify.com/artist/3WG2Qwav9SV56V57SFe92i) | [Nuestras metas](https://open.spotify.com/album/1K1EUCVp9qWENfEG0ShLBK) | 4:14 | 2022-05-23 |  |
@@ -69,6 +71,7 @@
 | [Que Me Hiciste](https://open.spotify.com/track/7DODSQw9dsnwETuU1UtlSn) | [Estilo Noreste](https://open.spotify.com/artist/1vdVGzUNrVi6PFCUTeFY7r) | [Que Me Hiciste](https://open.spotify.com/album/7vUpsaiqHYSAo9PUqharum) | 4:07 | 2022-07-08 |  |
 | [Que Te Vas](https://open.spotify.com/track/5YgpBbSqDc50OOVDahLoJZ) | [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv) | [Our Wave Nuestra Ola](https://open.spotify.com/album/7k3KEedw9YYKrgSrIKknuo) | 3:26 | 2021-11-22 | 2022-07-09 |
 | [Qué Te Pasó](https://open.spotify.com/track/7BVHWUOsmn3NcptPMpQ8vo) | [Erick B](https://open.spotify.com/artist/7vp0b6TMlF5PF9eIeSzadf) | [Qué Te Pasó](https://open.spotify.com/album/3rqTW2aAuGgzRY4uOUYEMx) | 2:58 | 2022-08-05 |  |
+| [Reina De Mi Amor](https://open.spotify.com/track/0jR9yktMaTQcaCVWCkq6zV) | [Tania Dominguez](https://open.spotify.com/artist/1GijCBCaciNgWn7Z0HeZ7v) | [Reina De Mi Amor](https://open.spotify.com/album/1vtIbdkq7ThJ685gWkMwEP) | 2:18 | 2022-09-02 |  |
 | [Si Me Ven Tomar](https://open.spotify.com/track/4YtK6d4nvS7Z40Z12dYqZu) | [Juanchito](https://open.spotify.com/artist/5dHeVV4GJVmQwEWqqOuB8v) | [Si Me Ven Tomar](https://open.spotify.com/album/6aOYYhHha8C74a19jItJrY) | 3:13 | 2022-04-22 | 2022-05-28 |
 | [SI SUPIERAS](https://open.spotify.com/track/7KDYKPhxFFRDBSbgcfLxUT) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [NOSTALGIA](https://open.spotify.com/album/72rN7YPXX4BxMQ3nNmipAd) | 3:47 | 2022-05-09 |  |
 | [solo](https://open.spotify.com/track/3Ca34mFUBOXwWhWxfOsUv3) | [ERRE](https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3) | [solo](https://open.spotify.com/album/7GqXnEzfhxnXYFdutyomuG) | 3:48 | 2022-05-23 |  |

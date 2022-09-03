@@ -1,12 +1,12 @@
 {
   "description": "Il sound giusto per creare in cucina!",
-  "num_followers": 19546,
+  "num_followers": 19550,
   "original_name": "Musica per Cucinare",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwNTAzNDA0MiwwMDAwMDAwMGE3ZDczZTQ5ZDBjMGQwNDlhNTcxOWNkOTY0ZDhhZWVk",
+  "snapshot_id": "MTYwNTAzNDA0MiwwMDAwMDAwMGY1Mjk5YmYyNDA1MDI4MjhhNTRlYjY4ODI0NWYyMzkz",
   "tracks": [
     {
       "added_at": "2020-11-10 18:47:22",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2020-11-10 18:47:22",
       "album": {
+        "name": "Jersey Beat: The Music Of Frankie Valli and The Four Seasons",
+        "url": "https://open.spotify.com/album/0sEAJ8QdJQPRNL2km3NYqg"
+      },
+      "artists": [
+        {
+          "name": "Frankie Valli & The Four Seasons",
+          "url": "https://open.spotify.com/artist/6mcrZQmgzFGRWf7C0SObou"
+        }
+      ],
+      "duration_ms": 168706,
+      "name": "Beggin' - 2007 Remaster",
+      "url": "https://open.spotify.com/track/4LQtQV5HHTdVBCBJYaEuUr"
+    },
+    {
+      "added_at": "2020-11-10 18:47:22",
+      "album": {
         "name": "Gal Costa",
         "url": "https://open.spotify.com/album/5ZVLLME05cmciSZz4IGcZu"
       },
@@ -1023,22 +1039,6 @@
       "duration_ms": 214933,
       "name": "Que Pena (Ele J\u00e1 N\u00e3o Gosta Mais De Mim)",
       "url": "https://open.spotify.com/track/1wuB9MID26ep43OlkOtBXd"
-    },
-    {
-      "added_at": "2020-11-10 18:47:22",
-      "album": {
-        "name": "Jersey Beat: The Music Of Frankie Valli and The Four Seasons",
-        "url": "https://open.spotify.com/album/0sEAJ8QdJQPRNL2km3NYqg"
-      },
-      "artists": [
-        {
-          "name": "Frankie Valli & The Four Seasons",
-          "url": "https://open.spotify.com/artist/6mcrZQmgzFGRWf7C0SObou"
-        }
-      ],
-      "duration_ms": 168706,
-      "name": "Beggin' - 2007 Remaster",
-      "url": "https://open.spotify.com/track/4LQtQV5HHTdVBCBJYaEuUr"
     },
     {
       "added_at": "2020-11-10 18:47:22",

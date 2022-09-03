@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- France.
 
-909 songs - 2 day 1 hr 0 min - [published](https://open.spotify.com/playlist/0roUxfrHsT5pkgnu6UBgDT)
+910 songs - 2 day 1 hr 3 min - [published](https://open.spotify.com/playlist/0roUxfrHsT5pkgnu6UBgDT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -365,10 +365,11 @@
 | [How Do I Make You Love Me?](https://open.spotify.com/track/2Ghp894n1laIf2w98VeAOJ) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:34 | 2022-01-08 | 2022-01-10 |
 | [Hubert et Saïd](https://open.spotify.com/track/0D9rH9AWYV1zdi7P41B1hC) | [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [Enna Boost](https://open.spotify.com/album/2INbsI9qbLPDqII4MNkowx) | 3:16 | 2021-11-14 | 2021-11-21 |
 | [Hurricane](https://open.spotify.com/track/0RbW8kWozrVSIGb4V13o0o) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 4:03 | 2021-08-31 | 2021-09-05 |
-| [Hurricane \(feat\. SHIBUI\)](https://open.spotify.com/track/1SlLP2AI4L2oh3VRJfHBpf) | [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD), [Prezioso](https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr), [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe), [Shibui](https://open.spotify.com/artist/3DgZk9TPxWee4QgbRpKGF4) | [Hurricane \(feat\. SHIBUI\)](https://open.spotify.com/album/5QGih7kgYuAfmYJROylEX3) | 2:33 | 2022-08-28 |  |
+| [Hurricane \(feat\. SHIBUI\)](https://open.spotify.com/track/1SlLP2AI4L2oh3VRJfHBpf) | [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD), [Prezioso](https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr), [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe), [Shibui](https://open.spotify.com/artist/3DgZk9TPxWee4QgbRpKGF4) | [Hurricane \(feat\. SHIBUI\)](https://open.spotify.com/album/5QGih7kgYuAfmYJROylEX3) | 2:33 | 2022-08-28 | 2022-09-03 |
 | [Hypocrite](https://open.spotify.com/track/2P7fDeCiHjHAOECP7bJkpP) | [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j), [YNS](https://open.spotify.com/artist/0HzHhRb9z0JTaBMggZptRp) | [Réelle vie 3.0](https://open.spotify.com/album/4nqsV5gavODGyZ2lx2M2tw) | 3:20 | 2021-11-28 | 2021-12-02 |
 | [I Ain't Worried](https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [I Ain’t Worried \(Music From The Motion Picture "Top Gun: Maverick"\)](https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2) | 2:28 | 2022-07-09 |  |
 | [I Love You](https://open.spotify.com/track/3PyznUqNXz4O8woVOvvUh9) | [Kalash](https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [Tombolo](https://open.spotify.com/album/5x2zkoZogYhBNF6pYJIzk3) | 3:06 | 2022-04-30 | 2022-05-02 |
+| [I'm Good \(Blue\)](https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I'm Good \(Blue\)](https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3) | 2:55 | 2022-09-02 |  |
 | [I'M THAT GIRL](https://open.spotify.com/track/1MpCaOeUWhox2Fgigbe1cL) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 3:28 | 2022-07-30 | 2022-08-01 |
 | [Ici](https://open.spotify.com/track/46q47fNFlw92EzX6xdJHg1) | [Kekra](https://open.spotify.com/artist/20pbz4TbpkBUr5JwYfGgPS), [Boumidjal X](https://open.spotify.com/artist/3i2AdhSP4YeSYY1m5JoUnK) | [Kekra](https://open.spotify.com/album/01BiXX7GWR0MKgrbCordRr) | 2:58 | 2021-04-04 | 2021-04-05 |
 | [Iko Iko \(My Bestie\)](https://open.spotify.com/track/7MC4XR9M9amdmKQr2iDF7i) | [Justin Wellington](https://open.spotify.com/artist/5lTjv8Ag00qHSGhvK4JbeF), [Small Jam](https://open.spotify.com/artist/6c8akjSeJQw2NYemV6qVT8) | [Iko Iko \(My Bestie\)](https://open.spotify.com/album/0IVeq4oFSUAAXmdQqXFTrU) | 3:02 | 2021-04-26 | 2021-09-07 |

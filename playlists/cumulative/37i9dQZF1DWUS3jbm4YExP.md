@@ -4,7 +4,7 @@
 
 > Groovy sounds from around the world.
 
-437 songs - 1 day 8 hr 21 min - [published](https://open.spotify.com/playlist/4cy2JLPcTDNKlCrRVhjOKn)
+438 songs - 1 day 8 hr 24 min - [published](https://open.spotify.com/playlist/4cy2JLPcTDNKlCrRVhjOKn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,7 +168,7 @@
 | [Gueta](https://open.spotify.com/track/5pvFJSec5bmKEpd2Tqs9nn) | [Liquid Saloon](https://open.spotify.com/artist/3BNFABSmkMPrS0H2oKZm2G), [Nitai Hershkovits](https://open.spotify.com/artist/7lysajaDFp2cX097v7H4SN), [Nomok](https://open.spotify.com/artist/2a24cfhTFjaIUk1AoYLfN3), [Amir Bresler](https://open.spotify.com/artist/0YkHSziGnJb3civlSaKWk1), [Sefi Zisling](https://open.spotify.com/artist/5EctF8sY4mgGmG2II0rw9H) | [Gueta \(feat\. Nitai Hershkovits, Nomok, Amir Bresler & Sefi Zisling\)](https://open.spotify.com/album/2USulCoijgTECfEEoWJ2NO) | 4:25 | 2021-10-06 | 2022-04-20 |
 | [Gun Metal Grey](https://open.spotify.com/track/2xBMnos2JHuKgRGr0cSgK5) | [The Budos Band](https://open.spotify.com/artist/5q4eLKmqFVP0xII8087PHz) | [Gun Metal Grey](https://open.spotify.com/album/1ksIAr0EZzkqpKuVI9BgJQ) | 3:16 | 2021-10-06 |  |
 | [Gwadloup](https://open.spotify.com/track/7ikYwcWf1gwqJiMCAPg7NS) | [Edmony Krater](https://open.spotify.com/artist/4lXQcK6QxfnG6VMtj3TbeF) | [African Acid Is the Future \- Ambiance II](https://open.spotify.com/album/5ApV1y3Ks7IayzCbtHnK2G) | 7:39 | 2021-10-06 | 2022-05-08 |
-| [Gyae Su](https://open.spotify.com/track/3U9NVmsEdrTutU49F1ykvf) | [Pat Thomas](https://open.spotify.com/artist/6bDPzH0ZXkaMcXYlcQ2yoy), [Kwashibu Area Band](https://open.spotify.com/artist/53PQcfQVWV5FU1Mh7Of1yP) | [Pat Thomas & Kwashibu Area Band](https://open.spotify.com/album/2HMkfg3XgwUka7EnAvGbPC) | 4:12 | 2021-10-06 |  |
+| [Gyae Su](https://open.spotify.com/track/3U9NVmsEdrTutU49F1ykvf) | [Pat Thomas](https://open.spotify.com/artist/6bDPzH0ZXkaMcXYlcQ2yoy), [Kwashibu Area Band](https://open.spotify.com/artist/53PQcfQVWV5FU1Mh7Of1yP) | [Pat Thomas & Kwashibu Area Band](https://open.spotify.com/album/2HMkfg3XgwUka7EnAvGbPC) | 4:12 | 2021-10-06 | 2022-09-03 |
 | [Gyae Su](https://open.spotify.com/track/4dqT5slEDm4TCG8TKako0t) | [Pat Thomas](https://open.spotify.com/artist/6bDPzH0ZXkaMcXYlcQ2yoy), [Kwashibu Area Band](https://open.spotify.com/artist/53PQcfQVWV5FU1Mh7Of1yP) | [Pat Thomas & Kwashibu Area Band](https://open.spotify.com/album/0vI4coIOAGzhLZRAIcDKHL) | 4:12 | 2021-10-06 | 2022-04-17 |
 | [Gypsy Woman](https://open.spotify.com/track/3xt0wOjQFYUcIdVGByFps0) | [Animanz](https://open.spotify.com/artist/29tB8MAwH1C3Sny13oaCFf), [Juanita Euka](https://open.spotify.com/artist/5a7zFB39QFXzf8amit9zJh) | [Exotic Other](https://open.spotify.com/album/3rUHG38e2nqtUqQIlrgAJ9) | 2:29 | 2022-03-30 | 2022-07-29 |
 | [Had to Come Back Wet](https://open.spotify.com/track/4Pd6uKE3iJm437tc0TAob0) | [Rogér Fakhr](https://open.spotify.com/artist/6UFqtFCNxhYqsQ1QRF6HRd) | [Fine Anyway \(Habibi Funk 016\)](https://open.spotify.com/album/2HrlABnkwte3NYA0erFtCU) | 3:16 | 2021-10-06 |  |
@@ -226,6 +226,7 @@
 | [L.A\. Night](https://open.spotify.com/track/5t3qH3xZNxTscMT0adF8hF) | [Yasuko Agawa](https://open.spotify.com/artist/5kk6wMgDfumWGwd0GDvvk2) | [L.A\. Night](https://open.spotify.com/album/6MEdamjFV17MAGzlcV8zDF) | 5:23 | 2021-10-06 | 2022-04-21 |
 | [La Cura](https://open.spotify.com/track/0UVwUs9TMKgee3kvE2uMxC) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [Gizmo Varillas](https://open.spotify.com/artist/47i4lPow1dIRwOb85AB6lj) | [La Cura](https://open.spotify.com/album/0SMT9ClQIEh49gPEIPH1Nf) | 3:01 | 2021-10-06 |  |
 | [La Fibra Humana \- Instrumental](https://open.spotify.com/track/4a5gvEMnfw3OIRmQYyykY1) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Sobrevolando Instrumental](https://open.spotify.com/album/47OSRvZFU2wRfQy0UX68Xa) | 5:27 | 2021-10-06 | 2022-04-20 |
+| [La Matanza](https://open.spotify.com/track/538h4bDYuZYT99IMlbMsdp) | [French Braids](https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [La Matanza](https://open.spotify.com/album/2CbqEOFIp1BIRIs3NPUVU6) | 3:21 | 2022-09-02 |  |
 | [La Negra](https://open.spotify.com/track/7tUhh4MxnkgNvasB6ZxlAu) | [Hektombe](https://open.spotify.com/artist/1IJq0H8jAxPSeGSh2q0jPK) | [La Negra](https://open.spotify.com/album/7mzcTL8cKCD6uJ9lmXeIlf) | 5:59 | 2021-10-06 | 2022-04-19 |
 | [La Número Uno](https://open.spotify.com/track/2U0oiUjN3BqsIAVEdTgqoy) | [El Dragón Criollo](https://open.spotify.com/artist/2e5EPaxeuRZ8sMxElaiP2G) | [La Número Uno](https://open.spotify.com/album/2qMKOE7IQlLOlFgXqoqwzW) | 4:04 | 2021-10-06 | 2022-07-19 |
 | [La Número Uno](https://open.spotify.com/track/4eNcQUEVbRkIIu9HdfN180) | [El Dragón Criollo](https://open.spotify.com/artist/2e5EPaxeuRZ8sMxElaiP2G) | [Pase lo Que Pase](https://open.spotify.com/album/0VpJRPCHSMXQpI1LGJx179) | 4:04 | 2021-10-06 | 2022-08-14 |

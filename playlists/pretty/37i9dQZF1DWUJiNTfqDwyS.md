@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUJiNTfqDwyS.md) - [plain]
 
 > A collection of the best Metal covers out there\. Cover: Metallica
 
-[Spotify](https://open.spotify.com/user/spotify) - 182,549 likes - 75 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 182,423 likes - 75 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,13 +37,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUJiNTfqDwyS.md) - [plain]
 | 27 | [Fight Fire With Fire](https://open.spotify.com/track/1uUq5kvGpoH5HTyw3nuh4X) | [Vader](https://open.spotify.com/artist/2s5DSt9VBNzAn2TbtDHzFZ), [Maciej Taff](https://open.spotify.com/artist/18dCFH8hnuw0gZLOAW7wml) | [Necropolis](https://open.spotify.com/album/3Eny2VFLghnTaejvPxgoqR) | 4:05 |
 | 28 | [Message in a Bottle](https://open.spotify.com/track/6Iy5KEB1kO2BVOGnAgVV65) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [The Burning Red](https://open.spotify.com/album/3hOfgUH1xNzCeJgANjO5dA) | 3:31 |
 | 29 | [Whiplash](https://open.spotify.com/track/37DZmu83mrbb1qQIKumak7) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Under Cöver](https://open.spotify.com/album/2k92YJRQpz64koEILL4DUs) | 3:49 |
-| 30 | [Hey Joe](https://open.spotify.com/track/6MmosOlhXxBwlWKXR04jAe) | [Body Count](https://open.spotify.com/artist/5KCph1z3jaSwhtwPzoYp6i) | [Born Dead](https://open.spotify.com/album/4dcc16iApVBmr8Q6XVMvmz) | 4:28 |
-| 31 | [Paranoid](https://open.spotify.com/track/53pWOzRC9DI6LixasJEdZZ) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Diamonds in the Rough](https://open.spotify.com/album/6VcCunBnnw4BVkCit5rk7d) | 2:42 |
+| 30 | [Paranoid](https://open.spotify.com/track/53pWOzRC9DI6LixasJEdZZ) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Diamonds in the Rough](https://open.spotify.com/album/6VcCunBnnw4BVkCit5rk7d) | 2:42 |
+| 31 | [Hey Joe](https://open.spotify.com/track/6MmosOlhXxBwlWKXR04jAe) | [Body Count](https://open.spotify.com/artist/5KCph1z3jaSwhtwPzoYp6i) | [Born Dead](https://open.spotify.com/album/4dcc16iApVBmr8Q6XVMvmz) | 4:28 |
 | 32 | [Creeping Death](https://open.spotify.com/track/6onRH7iyBTjrm2GXGrSXUp) | [Stone Sour](https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF) | [Meanwhile in Burbank...](https://open.spotify.com/album/4WSCUCjHrIRTRkMy1TqI8X) | 6:35 |
 | 33 | [Drowning in the Sound](https://open.spotify.com/track/4nnoWkdf9ZSQJnMQhmxyMj) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Drowning in the Sound](https://open.spotify.com/album/2NpAvxFCF4HHkLn8VfuNJo) | 3:43 |
 | 34 | [Aerials](https://open.spotify.com/track/0qAi6FKsbiGXAkk6Sx4mVn) | [Amon Amarth](https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL) | [Surtur Rising](https://open.spotify.com/album/6bz1yWjzSUlsXXlih2fjyB) | 3:39 |
-| 35 | [Enemy](https://open.spotify.com/track/0tobjNbP51FMlEUslgm9CR) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5) | [Enemy](https://open.spotify.com/album/6wgIIWbiJM5SajVwzIw898) | 2:51 |
-| 36 | [The Devil Went Down to Georgia](https://open.spotify.com/track/7z3yEMhxw6ggDA9MjBqXow) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD), [Yelawolf](https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57) | [The Devil Went Down to Georgia](https://open.spotify.com/album/6WMyuY1fcOfwMcjLqI3X1W) | 3:51 |
+| 35 | [The Devil Went Down to Georgia](https://open.spotify.com/track/7z3yEMhxw6ggDA9MjBqXow) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD), [Yelawolf](https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57) | [The Devil Went Down to Georgia](https://open.spotify.com/album/6WMyuY1fcOfwMcjLqI3X1W) | 3:51 |
+| 36 | [Enemy](https://open.spotify.com/track/0tobjNbP51FMlEUslgm9CR) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5) | [Enemy](https://open.spotify.com/album/6wgIIWbiJM5SajVwzIw898) | 2:51 |
 | 37 | [Cinnamon Girl](https://open.spotify.com/track/7DeR4JkyfQHmUja3XC5oR9) | [Type O Negative](https://open.spotify.com/artist/0blJzvevdXrp21YeI2vbco) | [October Rust \(Special Edition\)](https://open.spotify.com/album/6BkeUWI72Lssc077AxqQek) | 4:08 |
 | 38 | [Enter Sandman](https://open.spotify.com/track/0YatuNVDfq8a2VoYlPka9k) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Enter Sandman](https://open.spotify.com/album/5833BTHlYCmErR58ED2wmu) | 3:51 |
 | 39 | [Stairway to Heaven](https://open.spotify.com/track/0il7xIzXf94gNmYw2tnsUI) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Stairway to Nick John](https://open.spotify.com/album/1fifpfPsjplmA61cZcxN1e) | 8:05 |
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUJiNTfqDwyS.md) - [plain]
 | 41 | [Lay All Your Love on Me](https://open.spotify.com/track/2Btn2mmghzndEJVi06z65t) | [Amberian Dawn](https://open.spotify.com/artist/01DQQFGEOzbFugH5FcVAgI) | [Looking for You](https://open.spotify.com/album/2pesVUS0cVRFLtGjiU4sJ9) | 3:53 |
 | 42 | [Lovely \(feat\. Charlotte Buchholz\)](https://open.spotify.com/track/73lnNys5DP9GOM2YKqNkQz) | [Time, The Valuator](https://open.spotify.com/artist/5XMVfR85CUqujqUkN9c9VQ), [Charlotte Buchholz](https://open.spotify.com/artist/6wkvIFk3Ao7Rjr2cUdJ8Kc) | [Lovely \(feat\. Charlotte Buchholz\)](https://open.spotify.com/album/2zXwjDE1op3goWSzN31I4G) | 3:58 |
 | 43 | [Let It Go](https://open.spotify.com/track/0XUBVMTYG5YFdbUstP34EC) | [Dead by April](https://open.spotify.com/artist/2otRZcOVNcmdkZ5nEoogy6) | [Let It Go](https://open.spotify.com/album/5ACse9gOjTzWMuJQoJjDwR) | 3:11 |
-| 44 | [No More Mr\. Nice Guy](https://open.spotify.com/track/48xclRgatXaAZQVIc6DYcT) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Hidden Treasures](https://open.spotify.com/album/3jfeL3OUh2Kimx9ZKja8fY) | 3:03 |
-| 45 | [Lose Yourself](https://open.spotify.com/track/7wKLhqM1eZHAB3W8GBFV6W) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5) | [Lose Yourself](https://open.spotify.com/album/36LDkbYemz8vhelZvh3b9F) | 3:27 |
+| 44 | [Lose Yourself](https://open.spotify.com/track/7wKLhqM1eZHAB3W8GBFV6W) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5) | [Lose Yourself](https://open.spotify.com/album/36LDkbYemz8vhelZvh3b9F) | 3:27 |
+| 45 | [No More Mr\. Nice Guy](https://open.spotify.com/track/48xclRgatXaAZQVIc6DYcT) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Hidden Treasures](https://open.spotify.com/album/3jfeL3OUh2Kimx9ZKja8fY) | 3:03 |
 | 46 | [Toss A Coin To Your Witcher](https://open.spotify.com/track/3Oz3R5UH9ynO4h1dcpEey1) | [Matthew K\. Heafy](https://open.spotify.com/artist/2YRpsoIsb4KGe66E7hfEx5) | [Toss A Coin To Your Witcher](https://open.spotify.com/album/2O8wiCuevOATbL5OJRYLP0) | 2:59 |
 | 47 | [If You Want Blood \(You Got It\)](https://open.spotify.com/track/6TWhvdum4pJxzka53znStD) | [Gwar](https://open.spotify.com/artist/3dnH7fdVm2X07MK6Fkbhbt) | [The Blood of Gods](https://open.spotify.com/album/4Ps3txaybLW14aDROZ48sL) | 5:05 |
 | 48 | [Chop Suey!](https://open.spotify.com/track/6mAtV1MrrpaAFtcUgSj3q0) | [Nekrogoblikon](https://open.spotify.com/artist/3FILKvtNoiEfCJO9qVNCNF) | [Chop Suey!](https://open.spotify.com/album/6FDx7On1oIaLAn95L3Swhx) | 3:34 |
@@ -77,11 +77,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUJiNTfqDwyS.md) - [plain]
 | 67 | [My Own Summer \- Shove It](https://open.spotify.com/track/3JAFPy9eiSkeevje6xmCyY) | [Oceans](https://open.spotify.com/artist/7x3hXpGkI296eBLTbhbND0) | [Cover Me in Darkness](https://open.spotify.com/album/3j69OIOknRiDRk2aaHh5tD) | 3:38 |
 | 68 | [Livin' la Vida Loca \- Cover](https://open.spotify.com/track/3v6ji8IE3AXlBeHK3vwJTc) | [COMETRON](https://open.spotify.com/artist/3zlHrJ9PNVZzqy7qobJFIi) | [Livin' la Vida Loca \(Cover\)](https://open.spotify.com/album/1vwAdEbrf2M5oC79nUyjWC) | 3:37 |
 | 69 | [Renegades](https://open.spotify.com/track/66gXuXJx50t2a8XGwhDiHP) | [36 Crazyfists](https://open.spotify.com/artist/4ijGLY4dzlurDh7jqH3tW7) | [Renegades](https://open.spotify.com/album/387RMZLKNvf1s3ZPSIkYCM) | 3:28 |
-| 70 | [Animals](https://open.spotify.com/track/6656ZMxIGQewFwQt5x4GvR) | [Villain of the Story](https://open.spotify.com/artist/28XopU8Uw6D6Wl7rIgCVNE) | [Animals](https://open.spotify.com/album/2TGEqCNx8wHVFtgZ820rPd) | 3:02 |
-| 71 | [Judas](https://open.spotify.com/track/1siidHE9T8LBQVltAw8piM) | [Lord Of The Lost](https://open.spotify.com/artist/28eLrVsohdXynlnIzQ2VvI) | [Judas](https://open.spotify.com/album/0fl4B7VkU0WjZ9OGRByR0E) | 4:11 |
+| 70 | [Judas](https://open.spotify.com/track/1siidHE9T8LBQVltAw8piM) | [Lord Of The Lost](https://open.spotify.com/artist/28eLrVsohdXynlnIzQ2VvI) | [Judas](https://open.spotify.com/album/0fl4B7VkU0WjZ9OGRByR0E) | 4:11 |
+| 71 | [Animals](https://open.spotify.com/track/6656ZMxIGQewFwQt5x4GvR) | [Villain of the Story](https://open.spotify.com/artist/28XopU8Uw6D6Wl7rIgCVNE) | [Animals](https://open.spotify.com/album/2TGEqCNx8wHVFtgZ820rPd) | 3:02 |
 | 72 | [Symphony of Destruction \- cover version](https://open.spotify.com/track/0WxklKp98Lt2Gr3dqHBjDa) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Covered In Blood](https://open.spotify.com/album/7LfAQgQQISJJRTfgcDxVQS) | 4:02 |
 | 73 | [Bodies](https://open.spotify.com/track/5eDJaMNW8uSayxhKBXhmUW) | [We're Wolves](https://open.spotify.com/artist/73hZY77xQYtJsTrslIzy7v) | [Bodies](https://open.spotify.com/album/76VYWxgc2GZTVNJGRRAoEX) | 3:22 |
 | 74 | [Looks That Kill](https://open.spotify.com/track/6EsmreLQ4j67JOyq9cDiA5) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Looks That Kill](https://open.spotify.com/album/4SgYiHjpOwZ1EqweySZRun) | 4:11 |
-| 75 | [Mambo No\. 5 \- Cover](https://open.spotify.com/track/6zVPxBtCzKMewKLC9OOfcx) | [COMETRON](https://open.spotify.com/artist/3zlHrJ9PNVZzqy7qobJFIi) | [Mambo No\. 5 \(Cover\)](https://open.spotify.com/album/5Ng9lsJwo1waGpQhSOMBSn) | 3:30 |
+| 75 | [Astronomy Domine](https://open.spotify.com/track/4gHNdbRBmLgMmZFBG99Hje) | [Voivod](https://open.spotify.com/artist/0lFiKrJUofJpnrAJnMsnQ3) | [The Best of Voivod](https://open.spotify.com/album/0TJzcxxTif2yPcgdn1EKdj) | 5:30 |
 
-Snapshot ID: `MTY2MTUxODgwMCwwMDAwMDAwMDU2NWY1MGE0ZTMzNDcwNmIwNDQ4NDg5NjQ3MTgyNjMy`
+Snapshot ID: `MTY2MTUxODgwMCwwMDAwMDAwMDdiOTZiNGM5ODkyYzdhMTUzZGE4YmQ5M2Q0ZjllMTJj`

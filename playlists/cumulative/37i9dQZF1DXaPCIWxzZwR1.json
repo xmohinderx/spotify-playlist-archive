@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-02-16",
-  "description": "next gen pop cover: Devon Cole",
+  "description": "next gen pop cover: Dove Cameron ",
   "name": "Pop Sauce",
   "published_playlist_ids": [
     "1MUGAYRMba2bUffdFFswRE"
@@ -795,7 +795,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 202721,
       "name": "Aimed to Kill",
       "url": "https://open.spotify.com/track/3EZekHDwiGXJo7tH1Jolhv"
@@ -2093,7 +2093,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 143428,
       "name": "Bitches These Days",
       "url": "https://open.spotify.com/track/1Ls9hQqVRPIIWnylIlHg48"
@@ -2295,7 +2295,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 163933,
       "name": "Blow",
       "url": "https://open.spotify.com/track/0QPPJN3d42PINVAyBPZTC3"
@@ -2821,7 +2821,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 179173,
       "name": "Burn",
       "url": "https://open.spotify.com/track/3gw2Mz111daFVWm7IF0Gb7"
@@ -4182,6 +4182,24 @@
     },
     {
       "album": {
+        "name": "Cyclone",
+        "url": "https://open.spotify.com/album/6Myyu3JPWPjy4W1ziaFUMy"
+      },
+      "artists": [
+        {
+          "name": "Maude Latour",
+          "url": "https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216463,
+      "name": "Cyclone",
+      "url": "https://open.spotify.com/track/36SEfTZlBgmypZn0sgGroO"
+    },
+    {
+      "album": {
         "name": "Dadada",
         "url": "https://open.spotify.com/album/0UUBtEMsxJwMQkoYKiFdjK"
       },
@@ -4771,7 +4789,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 152786,
       "name": "don't come back",
       "url": "https://open.spotify.com/track/3RhyHYnYxuGnP8njFlNxHq"
@@ -5177,7 +5195,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 213133,
       "name": "drunk text me",
       "url": "https://open.spotify.com/track/5gukv8x9eP58gFy2OcZEBQ"
@@ -5905,7 +5923,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 163090,
       "name": "fingers crossed",
       "url": "https://open.spotify.com/track/7jb91qnNv2R1XdrICW4A0y"
@@ -9939,7 +9957,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 174386,
       "name": "KEEP IT TO YOURSELF",
       "url": "https://open.spotify.com/track/6UcfBPUiBB7ZeQQkwZ8OF5"
@@ -11167,7 +11185,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 150173,
       "name": "Love You Still (abcdefu romantic version)",
       "url": "https://open.spotify.com/track/31fMJwgrgNdk1IbWZEchX2"
@@ -11641,7 +11659,7 @@
       ],
       "date_added": "2021-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 137806,
       "name": "MEMORIES!",
       "url": "https://open.spotify.com/track/27XMmSWSOXJ7eVb40tH93T"
@@ -11775,6 +11793,24 @@
       "duration_ms": 157733,
       "name": "Midnight",
       "url": "https://open.spotify.com/track/6UFgl268d84gzw0ghtfOFG"
+    },
+    {
+      "album": {
+        "name": "Million Dollar Baby",
+        "url": "https://open.spotify.com/album/4fCW1XNPfBY6rgL1scsfGC"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184294,
+      "name": "Million Dollar Baby",
+      "url": "https://open.spotify.com/track/3pPN20syOYvbUuEiBpbenI"
     },
     {
       "album": {
@@ -12201,6 +12237,24 @@
       "duration_ms": 193973,
       "name": "Mr. Percocet",
       "url": "https://open.spotify.com/track/2HmNAp3GcJ7DCKtnmV7N84"
+    },
+    {
+      "album": {
+        "name": "age tape 8",
+        "url": "https://open.spotify.com/album/5cYaUdDHrHhOIsTlHU9Tbk"
+      },
+      "artists": [
+        {
+          "name": "Arden Jones",
+          "url": "https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177230,
+      "name": "mr. sunshine",
+      "url": "https://open.spotify.com/track/6x984mI891z1E2sVwYumUx"
     },
     {
       "album": {
@@ -13227,6 +13281,24 @@
       "duration_ms": 167280,
       "name": "One Night",
       "url": "https://open.spotify.com/track/1U9Jp66F0x7IM3Gv09hoxq"
+    },
+    {
+      "album": {
+        "name": "One of the Guys",
+        "url": "https://open.spotify.com/album/3PMqsg6TJ2AaTCA00Y7Sjb"
+      },
+      "artists": [
+        {
+          "name": "JESSIA",
+          "url": "https://open.spotify.com/artist/6DdbeAeBlrYj8bNToZv4TY"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118759,
+      "name": "One of the Guys",
+      "url": "https://open.spotify.com/track/4jXEvctpjLM9moyDwG8SGp"
     },
     {
       "album": {
@@ -16143,7 +16215,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 103283,
       "name": "starstruck - demo",
       "url": "https://open.spotify.com/track/2uMsFpftVG7MjDLNszjyZh"
@@ -16379,6 +16451,24 @@
       "duration_ms": 153294,
       "name": "Still Don't Know My Name",
       "url": "https://open.spotify.com/track/6N22FZs2ZhPBYi3b9XPajV"
+    },
+    {
+      "album": {
+        "name": "Sting",
+        "url": "https://open.spotify.com/album/7yzUIJZNrla6TdWmYiziuR"
+      },
+      "artists": [
+        {
+          "name": "FLETCHER",
+          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187253,
+      "name": "Sting",
+      "url": "https://open.spotify.com/track/3CRLMDJygwt1KWMg1FASye"
     },
     {
       "album": {
@@ -18267,7 +18357,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 188864,
       "name": "To All The Boys I\u2019ve Loved Before",
       "url": "https://open.spotify.com/track/6WXvM7Ku5aM7SfdXym7DEN"
@@ -20195,7 +20285,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 196619,
       "name": "You Never Know",
       "url": "https://open.spotify.com/track/01tNpXoTjrqvb1zhG6wmop"

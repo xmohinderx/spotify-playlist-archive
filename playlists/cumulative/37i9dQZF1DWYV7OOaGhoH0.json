@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Explore the ever-evolving folk & roots scene. Cover: Tedeschi Trucks Band",
+  "description": "Explore the ever-evolving folk & roots scene. Cover: Hermanos Guti\u00e9rrez",
   "name": "Roots Rising",
   "published_playlist_ids": [
     "253UejjPPflLcat0bb66LZ"
@@ -257,7 +257,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 301142,
       "name": "Amsterdam",
       "url": "https://open.spotify.com/track/3TpqFZxnxNe2qn362Wydz8"
@@ -2026,6 +2026,28 @@
     },
     {
       "album": {
+        "name": "Hold My Hand",
+        "url": "https://open.spotify.com/album/0CyBAwMsqEOxlyUMIMB2I4"
+      },
+      "artists": [
+        {
+          "name": "Wild Pink",
+          "url": "https://open.spotify.com/artist/2BS3fywRW33o5GygfzZaOZ"
+        },
+        {
+          "name": "Julien Baker",
+          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301506,
+      "name": "Hold My Hand",
+      "url": "https://open.spotify.com/track/0v3lkM0UK7RfbtdkeycqdI"
+    },
+    {
+      "album": {
         "name": "Donde Los Terremotos: Songs from and Inspired by the Film",
         "url": "https://open.spotify.com/album/0gcM0ST0KNf9v3ua0rnpkf"
       },
@@ -2415,7 +2437,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 265936,
       "name": "It's A New Life",
       "url": "https://open.spotify.com/track/3ku06NWgtn63zs0yGSjQoe"
@@ -2837,6 +2859,24 @@
       "duration_ms": 208746,
       "name": "Morning",
       "url": "https://open.spotify.com/track/5Y6stLs2V5bK0ALhrz78FE"
+    },
+    {
+      "album": {
+        "name": "Mountain Song",
+        "url": "https://open.spotify.com/album/2LSEZyWtzulIr0vS1mD4Xy"
+      },
+      "artists": [
+        {
+          "name": "Flatland Cavalry",
+          "url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249920,
+      "name": "Mountain Song",
+      "url": "https://open.spotify.com/track/2mDdkeVuUsyIepwzLCxuu6"
     },
     {
       "album": {
@@ -5165,10 +5205,28 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 230098,
       "name": "You and Me On The Rock (feat. Lucius)",
       "url": "https://open.spotify.com/track/61X73CJcpwGIxgQgKEXbw0"
+    },
+    {
+      "album": {
+        "name": "You and Me On The Rock (In The Canyon Haze)",
+        "url": "https://open.spotify.com/album/22EMSIjfksTwA1yizWVXa6"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257853,
+      "name": "You and Me On The Rock (In The Canyon Haze)",
+      "url": "https://open.spotify.com/track/7tmtdHPAoUZLuJqTnDR7FS"
     },
     {
       "album": {

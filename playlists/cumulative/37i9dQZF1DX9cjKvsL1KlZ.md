@@ -4,7 +4,7 @@
 
 > Sounds of New York curated by <a href="https://www.instagram.com/sidetalknyc/">Sidetalk</a>, New York’s one\-minute street show
 
-221 songs - 10 hr 54 min - [published](https://open.spotify.com/playlist/0rqcdEr09hY4EkqH1rg5qo)
+222 songs - 10 hr 56 min - [published](https://open.spotify.com/playlist/0rqcdEr09hY4EkqH1rg5qo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,8 @@
 | [IYKYK](https://open.spotify.com/track/66Ms7aYFty1lNm02SuY6II) | [B\-Lovee](https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y) | [IYKYK](https://open.spotify.com/album/796fmi9gkQZMxFYqUBLQ14) | 2:14 | 2022-03-25 | 2022-07-13 |
 | [Izzo \(H.O.V.A.\)](https://open.spotify.com/track/4h5KBcltGefua73AUPYps7) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [The Blueprint \(Explicit Version\)](https://open.spotify.com/album/69CmkikTHkGKdkrUZTtyWl) | 4:00 | 2022-03-25 | 2022-06-04 |
 | [Juicy \- 2007 Remaster](https://open.spotify.com/track/2b7FqlHc3JrzlYtGEkzq22) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [Greatest Hits](https://open.spotify.com/album/5XqEf16OrHdmMoNS1b6WDg) | 5:01 | 2022-07-12 | 2022-07-30 |
-| [Jus Lef Phoenix](https://open.spotify.com/track/1DlOo9zWP7nMZWa2OdC9jz) | [A$AP Twelvyy](https://open.spotify.com/artist/0tPjSrb43a58uznKru1k2P) | [A Quarter Til](https://open.spotify.com/album/5SfDBaDWh1Oz5HrJhPCkRU) | 1:32 | 2022-08-16 |  |
+| [Jus Lef Phoenix](https://open.spotify.com/track/1DlOo9zWP7nMZWa2OdC9jz) | [A$AP Twelvyy](https://open.spotify.com/artist/0tPjSrb43a58uznKru1k2P) | [A Quarter Til](https://open.spotify.com/album/5SfDBaDWh1Oz5HrJhPCkRU) | 1:32 | 2022-08-16 | 2022-09-03 |
+| [Jus Lef Phoenix](https://open.spotify.com/track/67ildkjzEsv38VbiUoCVnc) | [A$AP Twelvyy](https://open.spotify.com/artist/0tPjSrb43a58uznKru1k2P) | [A Quarter Til](https://open.spotify.com/album/1pH42Rw6Ug6qxBwWFc00Z8) | 1:32 | 2022-08-16 |  |
 | [Kidnap Who](https://open.spotify.com/track/7s0Vb0uZHyJOBueJOJOxFE) | [Bouba Savage](https://open.spotify.com/artist/6IvMzEgPA1Ftl3XbMV0s0m), [CJ GOON](https://open.spotify.com/artist/7fWFVBexhpbMXR4iO3l1AX) | [Kidnap Who](https://open.spotify.com/album/4301ORxglfPtiBLqtmKjW3) | 2:41 | 2022-06-03 | 2022-08-17 |
 | [Leaked](https://open.spotify.com/track/0W64NfLrIsRTAFObko6uJx) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [True 2 Myself](https://open.spotify.com/album/1bCBZ8LedqwVYOLDLrRbbY) | 3:40 | 2022-03-01 | 2022-08-17 |
 | [Like This](https://open.spotify.com/track/4qpMObtGQsfLsxbw8Rcedt) | [Young Devyn](https://open.spotify.com/artist/5JPJZcr0m2OkOEA1pagpSb) | [Women of Def Jam: Young Devyn](https://open.spotify.com/album/1CyFNaeJVKNfJqb8JFuMtY) | 1:54 | 2022-06-03 | 2022-06-19 |

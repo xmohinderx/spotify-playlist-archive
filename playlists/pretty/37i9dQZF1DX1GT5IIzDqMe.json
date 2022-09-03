@@ -1,12 +1,12 @@
 {
   "description": "Detroit <a href=\"spotify:genre:techno\">Techno</a> Essentials. Cover: DJ Minx.",
-  "num_followers": 68174,
+  "num_followers": 67966,
   "original_name": "Detroit Techno",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODQ4MDI2OCwwMDAwMDAwMDQyNTQ3MGU4MWIyZWVjOGU4MmM0ZmRkNzFlMDAzZDVi",
+  "snapshot_id": "MTY1ODQ4MDI2OCwwMDAwMDAwMDdmODAyMGU5NjdiN2ZkZGNlZmM1NDg4MDUyZGFmZGVm",
   "tracks": [
     {
       "added_at": "2022-07-22 08:57:48",
@@ -487,22 +487,6 @@
     {
       "added_at": "2022-07-22 08:57:48",
       "album": {
-        "name": "Psyche/BFC - DELUXE DIGITAL VERSION",
-        "url": "https://open.spotify.com/album/1Bb0ser2obQ8dLRfNAiO7U"
-      },
-      "artists": [
-        {
-          "name": "Psyche/BFC",
-          "url": "https://open.spotify.com/artist/0HyKkzt6higWFs5IwxSzrw"
-        }
-      ],
-      "duration_ms": 411999,
-      "name": "Elements",
-      "url": "https://open.spotify.com/track/2mLPPe67nRyoMSiRZyLsVr"
-    },
-    {
-      "added_at": "2022-07-22 08:57:48",
-      "album": {
         "name": "When We Used To Play",
         "url": "https://open.spotify.com/album/6pIUwQ9AJrFCIeEoo1H2nC"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 500807,
       "name": "When We Used To Play - Original Extended Mix",
       "url": "https://open.spotify.com/track/3N5usV7I51Fj9WMiWQbBYJ"
+    },
+    {
+      "added_at": "2022-07-22 08:57:48",
+      "album": {
+        "name": "Psyche/BFC - DELUXE DIGITAL VERSION",
+        "url": "https://open.spotify.com/album/1Bb0ser2obQ8dLRfNAiO7U"
+      },
+      "artists": [
+        {
+          "name": "Psyche/BFC",
+          "url": "https://open.spotify.com/artist/0HyKkzt6higWFs5IwxSzrw"
+        }
+      ],
+      "duration_ms": 411999,
+      "name": "Elements",
+      "url": "https://open.spotify.com/track/2mLPPe67nRyoMSiRZyLsVr"
     },
     {
       "added_at": "2022-07-22 08:57:48",

@@ -1,12 +1,12 @@
 {
   "description": "Country Music that ROCKS!!  \nCover: Kendall Marvel",
-  "num_followers": 470868,
+  "num_followers": 470652,
   "original_name": "Country Rocks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjAwNDg2MCwwMDAwMDAwMDAxZGM1MzY2ZTZlNDhlYmJiNDk3MDIzYmIxYzgwMGQw",
+  "snapshot_id": "MTY2MjAwNDg2MCwwMDAwMDAwMDA5Yjg3YzI0OTkyNWYzODNmOTlkMTU3MzQyMTgxNWYw",
   "tracks": [
     {
       "added_at": "2022-08-26 04:02:00",
@@ -311,18 +311,18 @@
     {
       "added_at": "2022-08-26 04:02:00",
       "album": {
-        "name": "Heart",
-        "url": "https://open.spotify.com/album/5aWReU8nqP0WiJPRwiNTyt"
+        "name": "Better Off",
+        "url": "https://open.spotify.com/album/2roA5wl3liKHgs7kVGrgL6"
       },
       "artists": [
         {
-          "name": "Eric Church",
-          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
+          "name": "Hayden Coffman",
+          "url": "https://open.spotify.com/artist/5p7Ph7LBiVb8cUCCSGq5aF"
         }
       ],
-      "duration_ms": 258799,
-      "name": "Heart On Fire",
-      "url": "https://open.spotify.com/track/0ysCB1Jg4hli0XlEWlipo7"
+      "duration_ms": 198113,
+      "name": "Better Off",
+      "url": "https://open.spotify.com/track/5KcBudCONtFGSI4c9YAH5u"
     },
     {
       "added_at": "2022-08-26 04:02:00",
@@ -343,6 +343,22 @@
     {
       "added_at": "2022-08-26 04:02:00",
       "album": {
+        "name": "Heart",
+        "url": "https://open.spotify.com/album/5aWReU8nqP0WiJPRwiNTyt"
+      },
+      "artists": [
+        {
+          "name": "Eric Church",
+          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
+        }
+      ],
+      "duration_ms": 258799,
+      "name": "Heart On Fire",
+      "url": "https://open.spotify.com/track/0ysCB1Jg4hli0XlEWlipo7"
+    },
+    {
+      "added_at": "2022-08-26 04:02:00",
+      "album": {
         "name": "Starting Over",
         "url": "https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW"
       },
@@ -355,22 +371,6 @@
       "duration_ms": 231720,
       "name": "Devil Always Made Me Think Twice",
       "url": "https://open.spotify.com/track/3olGkpomYOWwRZsbFTZqiX"
-    },
-    {
-      "added_at": "2022-08-26 04:02:00",
-      "album": {
-        "name": "Better Off",
-        "url": "https://open.spotify.com/album/2roA5wl3liKHgs7kVGrgL6"
-      },
-      "artists": [
-        {
-          "name": "Hayden Coffman",
-          "url": "https://open.spotify.com/artist/5p7Ph7LBiVb8cUCCSGq5aF"
-        }
-      ],
-      "duration_ms": 198113,
-      "name": "Better Off",
-      "url": "https://open.spotify.com/track/5KcBudCONtFGSI4c9YAH5u"
     },
     {
       "added_at": "2022-08-26 04:02:00",
@@ -471,22 +471,6 @@
     {
       "added_at": "2022-08-26 04:02:00",
       "album": {
-        "name": "From A Room: Volume 2",
-        "url": "https://open.spotify.com/album/24fkX2Gdqw4a6pR9BUYbE5"
-      },
-      "artists": [
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
-        }
-      ],
-      "duration_ms": 222653,
-      "name": "Midnight Train To Memphis",
-      "url": "https://open.spotify.com/track/6tInq1Sn2eehdsQGA9Aafh"
-    },
-    {
-      "added_at": "2022-08-26 04:02:00",
-      "album": {
         "name": "Breaking News",
         "url": "https://open.spotify.com/album/5cMBd65MGVa8H7sEt9Y8Li"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 220234,
       "name": "Breaking News",
       "url": "https://open.spotify.com/track/66cdCIrACw7lCLjeUQKx6v"
+    },
+    {
+      "added_at": "2022-08-26 04:02:00",
+      "album": {
+        "name": "I Only Date Cowboys",
+        "url": "https://open.spotify.com/album/6haivFChfJxUDTm0DytCpI"
+      },
+      "artists": [
+        {
+          "name": "Kylie Morgan",
+          "url": "https://open.spotify.com/artist/3g2yaL04Uapb5fxmwsUZgV"
+        }
+      ],
+      "duration_ms": 176813,
+      "name": "I Only Date Cowboys",
+      "url": "https://open.spotify.com/track/0Jq7igSKyTZxkvLoqr0bsX"
     },
     {
       "added_at": "2022-08-26 04:02:00",
@@ -519,18 +519,18 @@
     {
       "added_at": "2022-08-26 04:02:00",
       "album": {
-        "name": "I Only Date Cowboys",
-        "url": "https://open.spotify.com/album/6haivFChfJxUDTm0DytCpI"
+        "name": "From A Room: Volume 2",
+        "url": "https://open.spotify.com/album/24fkX2Gdqw4a6pR9BUYbE5"
       },
       "artists": [
         {
-          "name": "Kylie Morgan",
-          "url": "https://open.spotify.com/artist/3g2yaL04Uapb5fxmwsUZgV"
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
         }
       ],
-      "duration_ms": 176813,
-      "name": "I Only Date Cowboys",
-      "url": "https://open.spotify.com/track/0Jq7igSKyTZxkvLoqr0bsX"
+      "duration_ms": 222653,
+      "name": "Midnight Train To Memphis",
+      "url": "https://open.spotify.com/track/6tInq1Sn2eehdsQGA9Aafh"
     },
     {
       "added_at": "2022-08-26 04:02:00",
@@ -631,22 +631,6 @@
     {
       "added_at": "2022-08-26 04:02:00",
       "album": {
-        "name": "Like an Arrow",
-        "url": "https://open.spotify.com/album/4r0Zb1FdEFbpF5olm5ZIW0"
-      },
-      "artists": [
-        {
-          "name": "Blackberry Smoke",
-          "url": "https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8"
-        }
-      ],
-      "duration_ms": 247008,
-      "name": "Waiting for the Thunder",
-      "url": "https://open.spotify.com/track/0Rxgdpe1zgZ6ZzHgxSaYEJ"
-    },
-    {
-      "added_at": "2022-08-26 04:02:00",
-      "album": {
         "name": "One Hell of an Angel",
         "url": "https://open.spotify.com/album/4qngZnFUHmu4I3cGpENpWF"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 211517,
       "name": "One Hell of an Angel",
       "url": "https://open.spotify.com/track/1SniaPt656Q2RJFOh5QBPK"
+    },
+    {
+      "added_at": "2022-08-26 04:02:00",
+      "album": {
+        "name": "Like an Arrow",
+        "url": "https://open.spotify.com/album/4r0Zb1FdEFbpF5olm5ZIW0"
+      },
+      "artists": [
+        {
+          "name": "Blackberry Smoke",
+          "url": "https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8"
+        }
+      ],
+      "duration_ms": 247008,
+      "name": "Waiting for the Thunder",
+      "url": "https://open.spotify.com/track/0Rxgdpe1zgZ6ZzHgxSaYEJ"
     },
     {
       "added_at": "2022-08-26 04:02:00",
@@ -819,6 +819,22 @@
     {
       "added_at": "2022-08-26 04:02:00",
       "album": {
+        "name": "LOSER",
+        "url": "https://open.spotify.com/album/2lofvNiQCqRcPpMzNDR6Fq"
+      },
+      "artists": [
+        {
+          "name": "Lakeview",
+          "url": "https://open.spotify.com/artist/4m7IOKt2QRPsoHJSWBmeZD"
+        }
+      ],
+      "duration_ms": 194896,
+      "name": "LOSER",
+      "url": "https://open.spotify.com/track/5hggNU5pVbB5bLUdg3kCeH"
+    },
+    {
+      "added_at": "2022-08-26 04:02:00",
+      "album": {
         "name": "Workin' Man",
         "url": "https://open.spotify.com/album/0qr6dl07Lmp48MxO4dQcEX"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 213826,
       "name": "Shoot From The Hip",
       "url": "https://open.spotify.com/track/4F880Aeo2WO7N0lULjWgzm"
-    },
-    {
-      "added_at": "2022-08-26 04:02:00",
-      "album": {
-        "name": "LOSER",
-        "url": "https://open.spotify.com/album/2lofvNiQCqRcPpMzNDR6Fq"
-      },
-      "artists": [
-        {
-          "name": "Lakeview",
-          "url": "https://open.spotify.com/artist/4m7IOKt2QRPsoHJSWBmeZD"
-        }
-      ],
-      "duration_ms": 194896,
-      "name": "LOSER",
-      "url": "https://open.spotify.com/track/5hggNU5pVbB5bLUdg3kCeH"
     },
     {
       "added_at": "2022-08-26 04:02:00",
@@ -931,22 +931,6 @@
     {
       "added_at": "2022-08-26 04:02:00",
       "album": {
-        "name": "My Ex Came Over",
-        "url": "https://open.spotify.com/album/41dWvxkKc9C4LXkj040o13"
-      },
-      "artists": [
-        {
-          "name": "Trey Lewis",
-          "url": "https://open.spotify.com/artist/15tTVhFpH8EFXeDgO9xkRO"
-        }
-      ],
-      "duration_ms": 175000,
-      "name": "My Ex Came Over",
-      "url": "https://open.spotify.com/track/1DZjxXWHlbbADBfCYME9EK"
-    },
-    {
-      "added_at": "2022-08-26 04:02:00",
-      "album": {
         "name": "Cloud of Dust (feat. The Gronkowski Brothers)",
         "url": "https://open.spotify.com/album/72EWD9Ef18RP1lV5jQ9bCC"
       },
@@ -983,18 +967,18 @@
     {
       "added_at": "2022-08-26 04:02:00",
       "album": {
-        "name": "Excuses",
-        "url": "https://open.spotify.com/album/4LAo9lNxakhW24GiAW0P6t"
+        "name": "My Ex Came Over",
+        "url": "https://open.spotify.com/album/41dWvxkKc9C4LXkj040o13"
       },
       "artists": [
         {
-          "name": "Kolby Cooper",
-          "url": "https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx"
+          "name": "Trey Lewis",
+          "url": "https://open.spotify.com/artist/15tTVhFpH8EFXeDgO9xkRO"
         }
       ],
-      "duration_ms": 206646,
-      "name": "Excuses",
-      "url": "https://open.spotify.com/track/2dXZhZ6OgUPAaiwJs8yR79"
+      "duration_ms": 175000,
+      "name": "My Ex Came Over",
+      "url": "https://open.spotify.com/track/1DZjxXWHlbbADBfCYME9EK"
     },
     {
       "added_at": "2022-08-26 04:02:00",
@@ -1051,6 +1035,22 @@
       "duration_ms": 184760,
       "name": "Whole World Gone Crazy",
       "url": "https://open.spotify.com/track/6sEVFnBN97Fcq065OsUMVI"
+    },
+    {
+      "added_at": "2022-08-26 04:02:00",
+      "album": {
+        "name": "Excuses",
+        "url": "https://open.spotify.com/album/4LAo9lNxakhW24GiAW0P6t"
+      },
+      "artists": [
+        {
+          "name": "Kolby Cooper",
+          "url": "https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx"
+        }
+      ],
+      "duration_ms": 206646,
+      "name": "Excuses",
+      "url": "https://open.spotify.com/track/2dXZhZ6OgUPAaiwJs8yR79"
     },
     {
       "added_at": "2022-08-26 04:02:00",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2022-08-26 04:02:00",
       "album": {
-        "name": "Backslider",
-        "url": "https://open.spotify.com/album/3ajAv3GaQivcQyU5JuE8eY"
-      },
-      "artists": [
-        {
-          "name": "Elvie Shane",
-          "url": "https://open.spotify.com/artist/2eIB6vFotL2su94z3pUC1j"
-        }
-      ],
-      "duration_ms": 210532,
-      "name": "Sundress",
-      "url": "https://open.spotify.com/track/2YoecwfC0hko9DhQyezZVK"
-    },
-    {
-      "added_at": "2022-08-26 04:02:00",
-      "album": {
         "name": "Ain't My Day",
         "url": "https://open.spotify.com/album/1aJj0KP16u9ksUixsCAJ61"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 201480,
       "name": "Ain't My Day",
       "url": "https://open.spotify.com/track/6xscb3IfPqwanr2IoG5c8d"
+    },
+    {
+      "added_at": "2022-08-26 04:02:00",
+      "album": {
+        "name": "Backslider",
+        "url": "https://open.spotify.com/album/3ajAv3GaQivcQyU5JuE8eY"
+      },
+      "artists": [
+        {
+          "name": "Elvie Shane",
+          "url": "https://open.spotify.com/artist/2eIB6vFotL2su94z3pUC1j"
+        }
+      ],
+      "duration_ms": 210532,
+      "name": "Sundress",
+      "url": "https://open.spotify.com/track/2YoecwfC0hko9DhQyezZVK"
     },
     {
       "added_at": "2022-08-26 04:02:00",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2022-08-26 04:02:00",
       "album": {
-        "name": "These Old Boots",
-        "url": "https://open.spotify.com/album/5gRxnlqVjNaVryzoh6Anym"
-      },
-      "artists": [
-        {
-          "name": "Seth Anthony",
-          "url": "https://open.spotify.com/artist/69fyBUeaP6u5zUKxhJi2wo"
-        }
-      ],
-      "duration_ms": 206307,
-      "name": "These Old Boots",
-      "url": "https://open.spotify.com/track/7eaqzZaLKrUZYW58SALER2"
-    },
-    {
-      "added_at": "2022-08-26 04:02:00",
-      "album": {
         "name": "Varsity Type",
         "url": "https://open.spotify.com/album/3QMqwEyKKpfc60T6P46ImP"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 202383,
       "name": "Varsity Type",
       "url": "https://open.spotify.com/track/6ib18tpFXAP1kVlzWMmJzD"
+    },
+    {
+      "added_at": "2022-08-26 04:02:00",
+      "album": {
+        "name": "These Old Boots",
+        "url": "https://open.spotify.com/album/5gRxnlqVjNaVryzoh6Anym"
+      },
+      "artists": [
+        {
+          "name": "Seth Anthony",
+          "url": "https://open.spotify.com/artist/69fyBUeaP6u5zUKxhJi2wo"
+        }
+      ],
+      "duration_ms": 206307,
+      "name": "These Old Boots",
+      "url": "https://open.spotify.com/track/7eaqzZaLKrUZYW58SALER2"
     },
     {
       "added_at": "2022-08-26 04:02:00",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2022-08-26 04:02:00",
       "album": {
-        "name": "Another Mile",
-        "url": "https://open.spotify.com/album/04ZMBbLR8QaHRjkjNaxTpz"
-      },
-      "artists": [
-        {
-          "name": "A Thousand Horses",
-          "url": "https://open.spotify.com/artist/55RI2GNCfyXr0f14uIdhwd"
-        }
-      ],
-      "duration_ms": 216626,
-      "name": "Another Mile",
-      "url": "https://open.spotify.com/track/5p98ydi4Izu5UJZvGN5pCu"
-    },
-    {
-      "added_at": "2022-08-26 04:02:00",
-      "album": {
         "name": "Solid Gold Sounds (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6ijbApenMjsqqWxUtJi1p8"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 177320,
       "name": "Train",
       "url": "https://open.spotify.com/track/1ytcL1DNTMly6tmYUrAdPl"
+    },
+    {
+      "added_at": "2022-08-26 04:02:00",
+      "album": {
+        "name": "Another Mile",
+        "url": "https://open.spotify.com/album/04ZMBbLR8QaHRjkjNaxTpz"
+      },
+      "artists": [
+        {
+          "name": "A Thousand Horses",
+          "url": "https://open.spotify.com/artist/55RI2GNCfyXr0f14uIdhwd"
+        }
+      ],
+      "duration_ms": 216626,
+      "name": "Another Mile",
+      "url": "https://open.spotify.com/track/5p98ydi4Izu5UJZvGN5pCu"
     },
     {
       "added_at": "2022-08-26 04:02:00",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2022-08-26 04:02:00",
       "album": {
-        "name": "Huckleberry",
-        "url": "https://open.spotify.com/album/1iaC7rKb2xgcf0ZpuPRsdJ"
-      },
-      "artists": [
-        {
-          "name": "Daniel Lee",
-          "url": "https://open.spotify.com/artist/6l3pNvLTkJiDE3V1SLSGCj"
-        }
-      ],
-      "duration_ms": 230411,
-      "name": "Huckleberry",
-      "url": "https://open.spotify.com/track/5sRNw5nGGirWXvxECIxpSX"
-    },
-    {
-      "added_at": "2022-08-26 04:02:00",
-      "album": {
         "name": "You Hear Georgia",
         "url": "https://open.spotify.com/album/0zPQpAPYM2YG3G0pzuLiey"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 245838,
       "name": "You Hear Georgia",
       "url": "https://open.spotify.com/track/3v5hpjKoF63Lr9vLIKOpL8"
+    },
+    {
+      "added_at": "2022-08-26 04:02:00",
+      "album": {
+        "name": "Huckleberry",
+        "url": "https://open.spotify.com/album/1iaC7rKb2xgcf0ZpuPRsdJ"
+      },
+      "artists": [
+        {
+          "name": "Daniel Lee",
+          "url": "https://open.spotify.com/artist/6l3pNvLTkJiDE3V1SLSGCj"
+        }
+      ],
+      "duration_ms": 230411,
+      "name": "Huckleberry",
+      "url": "https://open.spotify.com/track/5sRNw5nGGirWXvxECIxpSX"
     },
     {
       "added_at": "2022-08-26 04:02:00",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2022-08-26 04:02:00",
       "album": {
-        "name": "Long Shots",
-        "url": "https://open.spotify.com/album/2wIIIZwinQQ2ieKTL3iqjs"
-      },
-      "artists": [
-        {
-          "name": "Tim Montana",
-          "url": "https://open.spotify.com/artist/5RM955coCWa6UkFtlMapwC"
-        }
-      ],
-      "duration_ms": 185146,
-      "name": "Get Em Up",
-      "url": "https://open.spotify.com/track/17B1eRYbcpI808XW81JnMw"
-    },
-    {
-      "added_at": "2022-08-26 04:02:00",
-      "album": {
         "name": "Times Are Changing",
         "url": "https://open.spotify.com/album/20Q4v43C8afzHFQqFqOHEw"
       },
@@ -1663,18 +1647,34 @@
     {
       "added_at": "2022-08-26 04:02:00",
       "album": {
-        "name": "Welcome to the South",
-        "url": "https://open.spotify.com/album/5JFFYGoY1O0LjR5NDod3XA"
+        "name": "Long Shots",
+        "url": "https://open.spotify.com/album/2wIIIZwinQQ2ieKTL3iqjs"
       },
       "artists": [
         {
-          "name": "Dave Fenley",
-          "url": "https://open.spotify.com/artist/6qGu24WJrspRNLeieoWQai"
+          "name": "Tim Montana",
+          "url": "https://open.spotify.com/artist/5RM955coCWa6UkFtlMapwC"
         }
       ],
-      "duration_ms": 188440,
-      "name": "Welcome to the South",
-      "url": "https://open.spotify.com/track/3fgVZPySJ6fbCIm4r2PitX"
+      "duration_ms": 185146,
+      "name": "Get Em Up",
+      "url": "https://open.spotify.com/track/17B1eRYbcpI808XW81JnMw"
+    },
+    {
+      "added_at": "2022-08-26 04:02:00",
+      "album": {
+        "name": "Truck In The Yard",
+        "url": "https://open.spotify.com/album/5NCiBKLmmjt6mU7OrOrPoZ"
+      },
+      "artists": [
+        {
+          "name": "Sam Grow",
+          "url": "https://open.spotify.com/artist/4cFA9cxl7v3CrFYxOOXsSs"
+        }
+      ],
+      "duration_ms": 182624,
+      "name": "Truck In The Yard",
+      "url": "https://open.spotify.com/track/2kQ0IAbyOu2OEI9qGwkqbQ"
     },
     {
       "added_at": "2022-08-26 04:02:00",

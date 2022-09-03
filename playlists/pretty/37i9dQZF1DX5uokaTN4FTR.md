@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5uokaTN4FTR.md) - [plain]
 
 > The UK's biggest dance playlist! Cover: Sigala, David Guetta and Sam Ryder
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,286,450 likes - 65 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,286,796 likes - 65 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5uokaTN4FTR.md) - [plain]
 | 19 | [When It Rains, It Pours](https://open.spotify.com/track/0Qb8vbig4Wky0RKhOWh2Ze) | [Bad Boy Chiller Crew](https://open.spotify.com/artist/5SRr4ZJMoygWecytkIwlaV) | [When It Rains, It Pours](https://open.spotify.com/album/7gw75X0Cp4ya2yz6tW0Rio) | 3:17 |
 | 20 | [Higher](https://open.spotify.com/track/7gfFqigmPAHrHt6c84b5cm) | [DJ Fresh](https://open.spotify.com/artist/6r20qOqY7qDWI0PPTxVMlC), [Used](https://open.spotify.com/artist/4sewbfr40so8t6Zfh9tmoK), [Nikki Ambers](https://open.spotify.com/artist/01PAM2LxCLL6tflnv7mbV7) | [Higher](https://open.spotify.com/album/3PsDcHdtiMfXxYcakymN39) | 2:52 |
 | 21 | [Jungle](https://open.spotify.com/track/31B7wLv4yvtjDoTTmbnxeE) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Jungle](https://open.spotify.com/album/3iDLGLmecmdkmdxYmuol5d) | 3:18 |
-| 22 | [Dancing In The Shadows](https://open.spotify.com/track/2edB8M0PPZCoYKm8ohDaNm) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Dancing In The Shadows](https://open.spotify.com/album/2rJpFV7L5MsabqxrEeHVd6) | 4:36 |
+| 22 | [Dancing In The Shadows](https://open.spotify.com/track/2edB8M0PPZCoYKm8ohDaNm) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Dancing In The Shadows](https://open.spotify.com/album/2rJpFV7L5MsabqxrEeHVd6) | 4:37 |
 | 23 | [More Love](https://open.spotify.com/track/5PY9fTLp4MPXsbeRouS8gd) | [Noizu](https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7), [Secondcity](https://open.spotify.com/artist/2ew9JvyyuOGkhahuwdovDq) | [More Love](https://open.spotify.com/album/6RqDJ6CVMcWAYKJjrR2SHx) | 3:11 |
 | 24 | [He Goes Down](https://open.spotify.com/track/4Jxqo3meY7nbbnqa7cQY7p) | [Rain Radio](https://open.spotify.com/artist/2T8o1YNgbgsE41xb62AlRY) | [He Goes Down](https://open.spotify.com/album/2fD8NBqB9lxwJpTdZuZhSr) | 2:38 |
 | 25 | [Stay With Me \(with Justin Timberlake, Halsey, & Pharrell\)](https://open.spotify.com/track/5lfWrciYtohtIMVDVZd0Rf) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Stay With Me \(with Justin Timberlake, Halsey, & Pharrell\)](https://open.spotify.com/album/62SWIKrov7HPXU0Jpc6LY1) | 3:49 |

@@ -1334,6 +1334,24 @@
     },
     {
       "album": {
+        "name": "Know My Name",
+        "url": "https://open.spotify.com/album/4u3WpX3v5gyBHFqfH5JObW"
+      },
+      "artists": [
+        {
+          "name": "TS7",
+          "url": "https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183750,
+      "name": "Know My Name",
+      "url": "https://open.spotify.com/track/1JeM2RHVfWP3S4mKE3akNf"
+    },
+    {
+      "album": {
         "name": "Last Thought (feat. MKLA)",
         "url": "https://open.spotify.com/album/6IeRGYRqUbbfCnxN9Aw8Yg"
       },
@@ -2885,7 +2903,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 168201,
       "name": "You & I",
       "url": "https://open.spotify.com/track/0OE5nvs8Sc1meDrjN7vwBw"

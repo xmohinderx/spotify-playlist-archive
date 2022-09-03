@@ -4,7 +4,7 @@
 
 > The perfect mix of Punk, Rock, Alt & Indie\. Cover: FIDLAR
 
-291 songs - 15 hr 19 min - [published](https://open.spotify.com/playlist/2w2n6MDKx2mk1T0ObTv6mW)
+292 songs - 15 hr 22 min - [published](https://open.spotify.com/playlist/2w2n6MDKx2mk1T0ObTv6mW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,8 @@
 | [Alphabet](https://open.spotify.com/track/32Xy5JWUdXb4GLZ0Eug06N) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Alphabet](https://open.spotify.com/album/71Aynu7WtmIHqxvvDHoTEh) | 2:53 | 2021-10-07 | 2022-06-18 |
 | [Antagonist](https://open.spotify.com/track/76NdeyUe2IEANeAopr4V31) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Antagonist](https://open.spotify.com/album/4cAKhG7S3jOL53LaGMtdNw) | 3:06 | 2021-10-29 | 2022-07-09 |
 | [Anti\-glory](https://open.spotify.com/track/7fDPgekQGJKkyyqjuhtNSG) | [Horsegirl](https://open.spotify.com/artist/2FDvUb4YgyUPpmnm1ILPra) | [Anti\-glory](https://open.spotify.com/album/64rQzBshwp5tyR7ExhJaAk) | 3:30 | 2022-03-11 |  |
-| [Back To The Radio](https://open.spotify.com/track/3UwdNQUttlGa8fX1Jq7VeN) | [Porridge Radio](https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48) | [Back To The Radio](https://open.spotify.com/album/1o0lARFP2l0SYsY6H8PeGY) | 3:07 | 2022-02-25 |  |
+| [Back To The Radio](https://open.spotify.com/track/0hHOIVyywNzkoh1v6RWFb3) | [Porridge Radio](https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48) | [Waterslide, Diving Board, Ladder To The Sky](https://open.spotify.com/album/6wdThJ2V58nkaWfv1jA4B5) | 3:07 | 2022-08-26 |  |
+| [Back To The Radio](https://open.spotify.com/track/3UwdNQUttlGa8fX1Jq7VeN) | [Porridge Radio](https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48) | [Back To The Radio](https://open.spotify.com/album/1o0lARFP2l0SYsY6H8PeGY) | 3:07 | 2022-02-25 | 2022-09-03 |
 | [Bad Bite](https://open.spotify.com/track/16NPxCHpfh6Y1iXn2QTs2J) | ['68](https://open.spotify.com/artist/51EEn3UICoilrrWVZFz30C) | [Bad Bite](https://open.spotify.com/album/4JWsBNMXOSxbjd1eIdTTEo) | 3:10 | 2021-10-07 | 2022-01-08 |
 | [Bad Brain](https://open.spotify.com/track/7Mngit6PeIwYZ6aMWXE8UW) | [Ghum](https://open.spotify.com/artist/41yzFXg6iuyDfw0PYviMHs) | [Bad Brain](https://open.spotify.com/album/0WWLXM4sQQrFEMIrHjnGCL) | 4:08 | 2022-06-10 | 2022-07-09 |
 | [Bad Love](https://open.spotify.com/track/0atclF6Pp5MffEEi7CSFlE) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Blue Skies](https://open.spotify.com/album/1vzqa9wcGcflSTyVbQPRFE) | 2:30 | 2022-07-08 |  |

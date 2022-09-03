@@ -4,12 +4,13 @@
 
 > Get the good times started with this party playlist with jams from Zedd, Justin Bieber and more!
 
-65 songs - 3 hr 28 min - [published](https://open.spotify.com/playlist/6IH94a7PQVQNzjRks3D5kN)
+66 songs - 3 hr 30 min - [published](https://open.spotify.com/playlist/6IH94a7PQVQNzjRks3D5kN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [34+35 Remix \(feat\. Doja Cat, Megan Thee Stallion\) \- Remix](https://open.spotify.com/track/3jjBPF4NDMCU51psU8JPpR) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [34+35 \(Remix\)](https://open.spotify.com/album/11X2d5C6rFBFZZUOCJLPt9) | 3:02 | 2021-07-02 |  |
 | [All Day And Night \- Jax Jones & Martin Solveig Present Europa](https://open.spotify.com/track/11o2y87vqODipLK98a1v34) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Martin Solveig](https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl), [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q), [Europa](https://open.spotify.com/artist/2NlKrNMdpYxGjt3Pvw87rC) | [Snacks](https://open.spotify.com/album/1SJwQGcL8CpUz0SLbLWVS3) | 2:49 | 2021-07-02 |  |
+| [Betty \(Get Money\)](https://open.spotify.com/track/4cacyP5c3PMlfnyjpg13xW) | [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ) | [Betty \(Get Money\)](https://open.spotify.com/album/3FEQZNn34v3EdxrVKi9pZF) | 2:26 | 2022-09-02 |  |
 | [Blinding Lights](https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) | 3:20 | 2021-07-02 |  |
 | [Blueberry Faygo](https://open.spotify.com/track/22LAwLoDA5b4AaGSkg6bKW) | [Lil Mosey](https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk) | [Certified Hitmaker](https://open.spotify.com/album/2a1AHCq835BXUcX1aTTWqQ) | 2:42 | 2021-07-02 |  |
 | [BOOM](https://open.spotify.com/track/6iC7vapdKp0XlKhxOkp8QJ) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Sevenn](https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [BOOM](https://open.spotify.com/album/47wyCwrChF50ZTFNOuWx99) | 2:59 | 2021-07-02 |  |

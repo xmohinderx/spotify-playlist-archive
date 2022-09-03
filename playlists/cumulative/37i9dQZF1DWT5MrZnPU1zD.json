@@ -55,7 +55,7 @@
       ],
       "date_added": "2022-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 168613,
       "name": "10 Missed Calls",
       "url": "https://open.spotify.com/track/3rsRFBpgO0xrR1eYIjyz3N"
@@ -711,7 +711,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 162253,
       "name": "Arya (feat. A$AP Rocky)",
       "url": "https://open.spotify.com/track/0Rq6JJwpZ9f1SU6Cfhgjv7"
@@ -919,7 +919,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 200424,
       "name": "Beat Box 3 (feat. DaBaby)",
       "url": "https://open.spotify.com/track/6toQdWWc4noiOk3Eo5mVDS"
@@ -2290,6 +2290,24 @@
     },
     {
       "album": {
+        "name": "Detox",
+        "url": "https://open.spotify.com/album/4y77zrDMRkZznufMBScSal"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161636,
+      "name": "Detox",
+      "url": "https://open.spotify.com/track/7fSM2taFBEB1WNZl8AOIoo"
+    },
+    {
+      "album": {
         "name": "222",
         "url": "https://open.spotify.com/album/3zSACdYWSh5TPr5fn0YO0T"
       },
@@ -3215,7 +3233,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 168000,
       "name": "Flossin\u2019 (feat. YoungBoy Never Broke Again)",
       "url": "https://open.spotify.com/track/3zDMTxEANpj6hedyCrHXBg"
@@ -3485,7 +3503,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 105931,
       "name": "Go Get It",
       "url": "https://open.spotify.com/track/0CIusTSIe1WLFrIPg6ekKx"
@@ -3837,6 +3855,24 @@
       "duration_ms": 200425,
       "name": "Heavy (with Lil Uzi Vert)",
       "url": "https://open.spotify.com/track/02WDt2eCNOU2mt0DF5w678"
+    },
+    {
+      "album": {
+        "name": "Hell",
+        "url": "https://open.spotify.com/album/1F5dynTBqwMT46sY4OcvO6"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139265,
+      "name": "Hell",
+      "url": "https://open.spotify.com/track/5X79uZsOrtg2iolPYhqeUa"
     },
     {
       "album": {
@@ -6478,6 +6514,28 @@
     },
     {
       "album": {
+        "name": "No Mind",
+        "url": "https://open.spotify.com/album/7whE3mVgEdIUitoZZgc7A2"
+      },
+      "artists": [
+        {
+          "name": "Rot Ken",
+          "url": "https://open.spotify.com/artist/64WnGi9H0Xc2RCGbjYAFd5"
+        },
+        {
+          "name": "jetsonmade",
+          "url": "https://open.spotify.com/artist/0UcXjTpzt0DmIwPSNwlJfF"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161052,
+      "name": "No Mind",
+      "url": "https://open.spotify.com/track/2g7RAqIAWvejbBMiv0qYHj"
+    },
+    {
+      "album": {
         "name": "From The Can",
         "url": "https://open.spotify.com/album/7D59qIBeJucYHLc1Kq6i69"
       },
@@ -6561,7 +6619,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 180000,
       "name": "NOSTYLIST",
       "url": "https://open.spotify.com/track/42tD9J0KCPFSc1d2hFTvAf"
@@ -7195,7 +7253,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 149074,
       "name": "Private Valet",
       "url": "https://open.spotify.com/track/3c1sfDYFzlTGTnyVjUZNl1"
@@ -7297,6 +7355,24 @@
       "duration_ms": 181970,
       "name": "Punch Bowl (with Clipse & Nigo)",
       "url": "https://open.spotify.com/track/1NxZp8uYShqpkxcyaaLUKs"
+    },
+    {
+      "album": {
+        "name": "Put Me In The Game",
+        "url": "https://open.spotify.com/album/4bl6fMBTVSXZZwKwtEBZGj"
+      },
+      "artists": [
+        {
+          "name": "Symba",
+          "url": "https://open.spotify.com/artist/06S3fr7xEES7e3QPXhu3ay"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107304,
+      "name": "Put Me In The Game",
+      "url": "https://open.spotify.com/track/33dE78WbBIzSCZMYDdOaTr"
     },
     {
       "album": {
@@ -7605,6 +7681,24 @@
       "duration_ms": 144717,
       "name": "Riot",
       "url": "https://open.spotify.com/track/3WjZJKJGwO4xNAbTXdy5jS"
+    },
+    {
+      "album": {
+        "name": "Robbery",
+        "url": "https://open.spotify.com/album/5Fr4WRmEtwWsIxvexjotiy"
+      },
+      "artists": [
+        {
+          "name": "Tee Grizzley",
+          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144630,
+      "name": "Robbery",
+      "url": "https://open.spotify.com/track/4fHwoYTU9sy539FSX7fv1j"
     },
     {
       "album": {
@@ -8926,6 +9020,24 @@
     },
     {
       "album": {
+        "name": "Talk",
+        "url": "https://open.spotify.com/album/7dMwNA2bcmk60N4s27fk5e"
+      },
+      "artists": [
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174857,
+      "name": "Talk",
+      "url": "https://open.spotify.com/track/0ypjMI7vHiDP4sLB1C0Qna"
+    },
+    {
+      "album": {
         "name": "DRILLMATIC Heart vs. Mind",
         "url": "https://open.spotify.com/album/2yBfRM9cxHgHb155SdDoWl"
       },
@@ -9783,7 +9895,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 158693,
       "name": "Voodoo",
       "url": "https://open.spotify.com/track/7k57GqXkbiHWEzZ1FwVGv7"
@@ -9831,6 +9943,24 @@
       "duration_ms": 226115,
       "name": "Walkin - Key Glock remix",
       "url": "https://open.spotify.com/track/5GJS3CY3aqbT9j2lv434aQ"
+    },
+    {
+      "album": {
+        "name": "WASTE NO TIME",
+        "url": "https://open.spotify.com/album/6e5f6M6FQLhi8pSgxazQ1a"
+      },
+      "artists": [
+        {
+          "name": "AJRadico",
+          "url": "https://open.spotify.com/artist/6n7llPn2HLKS375ZyJQ2VR"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "WASTE NO TIME",
+      "url": "https://open.spotify.com/track/0jF9AZAaMv49jsy3InMUjQ"
     },
     {
       "album": {
@@ -10007,6 +10137,32 @@
       "duration_ms": 163149,
       "name": "What A Day",
       "url": "https://open.spotify.com/track/7FkUJd0gAcRR9Mjl59dp8U"
+    },
+    {
+      "album": {
+        "name": "WHATCHUEXPECT",
+        "url": "https://open.spotify.com/album/0YPgJF6eLxQgtQeKJheW9V"
+      },
+      "artists": [
+        {
+          "name": "KAS",
+          "url": "https://open.spotify.com/artist/4AUPalZalhZyyd6kwhBiL5"
+        },
+        {
+          "name": "Qu'ality",
+          "url": "https://open.spotify.com/artist/61muz1GBom0coVyQLRiu67"
+        },
+        {
+          "name": "Connie Diiamond",
+          "url": "https://open.spotify.com/artist/0XJA8RpM6VgQeIYzjnP8wK"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123480,
+      "name": "WHATCHUEXPECT",
+      "url": "https://open.spotify.com/track/06DkMPykiPT6roBlEi0oHY"
     },
     {
       "album": {

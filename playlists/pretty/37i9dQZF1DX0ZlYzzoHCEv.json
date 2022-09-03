@@ -1,12 +1,12 @@
 {
   "description": "musica per quando non sai insomma come",
-  "num_followers": 14597,
+  "num_followers": 14650,
   "original_name": "la mia testa:",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTc4NTE1MCwwMDAwMDAwMDg1ODk4M2E4OGYyY2E5YmRkYTc3NDA1ODFhY2RhYzdh",
+  "snapshot_id": "MTY2MTc4NTE1MCwwMDAwMDAwMGEwZmYxNDhjNDk1MjhiMWRiMTViOGU4OWQ5YzVlZGVh",
   "tracks": [
     {
       "added_at": "2022-08-29 14:59:09",
@@ -363,22 +363,6 @@
     {
       "added_at": "2022-08-29 14:59:09",
       "album": {
-        "name": "Je M'appelle",
-        "url": "https://open.spotify.com/album/6T6uWGOSAUhvoZfLlIyDuJ"
-      },
-      "artists": [
-        {
-          "name": "Benzz",
-          "url": "https://open.spotify.com/artist/2GYIFLUsVVHPPUzOfJndRh"
-        }
-      ],
-      "duration_ms": 139574,
-      "name": "Je M'appelle",
-      "url": "https://open.spotify.com/track/6A3SB2C4U6JtCavQOXLYNN"
-    },
-    {
-      "added_at": "2022-08-29 14:59:09",
-      "album": {
         "name": "Be the Cowboy",
         "url": "https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 128198,
       "name": "Washing Machine Heart",
       "url": "https://open.spotify.com/track/3jjsRKEsF42ccXf8kWR3nu"
+    },
+    {
+      "added_at": "2022-08-29 14:59:09",
+      "album": {
+        "name": "Je M'appelle",
+        "url": "https://open.spotify.com/album/6T6uWGOSAUhvoZfLlIyDuJ"
+      },
+      "artists": [
+        {
+          "name": "Benzz",
+          "url": "https://open.spotify.com/artist/2GYIFLUsVVHPPUzOfJndRh"
+        }
+      ],
+      "duration_ms": 139574,
+      "name": "Je M'appelle",
+      "url": "https://open.spotify.com/track/6A3SB2C4U6JtCavQOXLYNN"
     },
     {
       "added_at": "2022-08-29 14:59:09",
@@ -427,6 +427,22 @@
     {
       "added_at": "2022-08-29 14:59:09",
       "album": {
+        "name": "Romantic Homicide",
+        "url": "https://open.spotify.com/album/2VOw1TVu3PduPt9LYd3eF2"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "duration_ms": 132630,
+      "name": "Romantic Homicide",
+      "url": "https://open.spotify.com/track/4jonEzO6nIIBt5xPGsyOA0"
+    },
+    {
+      "added_at": "2022-08-29 14:59:09",
+      "album": {
         "name": "True Love",
         "url": "https://open.spotify.com/album/1YA0gAfV91LkDq1DODSCbc"
       },
@@ -447,22 +463,6 @@
     {
       "added_at": "2022-08-29 14:59:09",
       "album": {
-        "name": "Blonde",
-        "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
-      },
-      "artists": [
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "duration_ms": 184516,
-      "name": "Pink + White",
-      "url": "https://open.spotify.com/track/3xKsf9qdS1CyvXSMEid6g8"
-    },
-    {
-      "added_at": "2022-08-29 14:59:09",
-      "album": {
         "name": "Victoria\u2019s Secret",
         "url": "https://open.spotify.com/album/47eeG5ewIbO53gXZOkvHhg"
       },
@@ -479,18 +479,18 @@
     {
       "added_at": "2022-08-29 14:59:09",
       "album": {
-        "name": "Romantic Homicide",
-        "url": "https://open.spotify.com/album/2VOw1TVu3PduPt9LYd3eF2"
+        "name": "Blonde",
+        "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
       },
       "artists": [
         {
-          "name": "d4vd",
-          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
         }
       ],
-      "duration_ms": 132630,
-      "name": "Romantic Homicide",
-      "url": "https://open.spotify.com/track/4jonEzO6nIIBt5xPGsyOA0"
+      "duration_ms": 184516,
+      "name": "Pink + White",
+      "url": "https://open.spotify.com/track/3xKsf9qdS1CyvXSMEid6g8"
     },
     {
       "added_at": "2022-08-29 14:59:09",
@@ -527,6 +527,22 @@
     {
       "added_at": "2022-08-29 14:59:09",
       "album": {
+        "name": "Who is Nardo Wick?? (Deluxe)",
+        "url": "https://open.spotify.com/album/47Thm1tltjJVofuRumhfmi"
+      },
+      "artists": [
+        {
+          "name": "Nardo Wick",
+          "url": "https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN"
+        }
+      ],
+      "duration_ms": 151776,
+      "name": "Dah Dah DahDah",
+      "url": "https://open.spotify.com/track/2TSfStvlAMLw89u3tali79"
+    },
+    {
+      "added_at": "2022-08-29 14:59:09",
+      "album": {
         "name": "Little Dark Age",
         "url": "https://open.spotify.com/album/7GjVWG39IOj4viyWplJV4H"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 168489,
       "name": "...And to Those I Love, Thanks for Sticking Around",
       "url": "https://open.spotify.com/track/30QR0ndUdiiMQMA9g1PGCm"
-    },
-    {
-      "added_at": "2022-08-29 14:59:09",
-      "album": {
-        "name": "Who is Nardo Wick?? (Deluxe)",
-        "url": "https://open.spotify.com/album/47Thm1tltjJVofuRumhfmi"
-      },
-      "artists": [
-        {
-          "name": "Nardo Wick",
-          "url": "https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN"
-        }
-      ],
-      "duration_ms": 151776,
-      "name": "Dah Dah DahDah",
-      "url": "https://open.spotify.com/track/2TSfStvlAMLw89u3tali79"
     },
     {
       "added_at": "2022-08-29 14:59:09",
@@ -611,6 +611,22 @@
     {
       "added_at": "2022-08-29 14:59:09",
       "album": {
+        "name": "Salad Days",
+        "url": "https://open.spotify.com/album/2sij95QgjmgrhNv33achzn"
+      },
+      "artists": [
+        {
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        }
+      ],
+      "duration_ms": 231723,
+      "name": "Chamber Of Reflection",
+      "url": "https://open.spotify.com/track/7H7NyZ3G075GqPx2evsfeb"
+    },
+    {
+      "added_at": "2022-08-29 14:59:09",
+      "album": {
         "name": "Tell Em",
         "url": "https://open.spotify.com/album/3OE8gkPLqI9zr3hlEz6ruQ"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 180379,
       "name": "Tell Em",
       "url": "https://open.spotify.com/track/7nc7mlSdWYeFom84zZ8Wr8"
-    },
-    {
-      "added_at": "2022-08-29 14:59:09",
-      "album": {
-        "name": "Salad Days",
-        "url": "https://open.spotify.com/album/2sij95QgjmgrhNv33achzn"
-      },
-      "artists": [
-        {
-          "name": "Mac DeMarco",
-          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
-        }
-      ],
-      "duration_ms": 231723,
-      "name": "Chamber Of Reflection",
-      "url": "https://open.spotify.com/track/7H7NyZ3G075GqPx2evsfeb"
     },
     {
       "added_at": "2022-08-29 14:59:09",
@@ -811,22 +811,6 @@
     {
       "added_at": "2022-08-29 14:59:09",
       "album": {
-        "name": "Maybe My Soulmate Died",
-        "url": "https://open.spotify.com/album/0sCKHcwHvwtLYuaBNfE6BL"
-      },
-      "artists": [
-        {
-          "name": "iamnotshane",
-          "url": "https://open.spotify.com/artist/3jN7f9X0EmFnsbRS6nl6as"
-        }
-      ],
-      "duration_ms": 114375,
-      "name": "Maybe My Soulmate Died",
-      "url": "https://open.spotify.com/track/7N1bEUVuQo8HHuikDgJ10c"
-    },
-    {
-      "added_at": "2022-08-29 14:59:09",
-      "album": {
         "name": "Phonky Town",
         "url": "https://open.spotify.com/album/1TphjjWjHo2s2nFeZWrThI"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 153294,
       "name": "Still Don't Know My Name",
       "url": "https://open.spotify.com/track/6N22FZs2ZhPBYi3b9XPajV"
+    },
+    {
+      "added_at": "2022-08-29 14:59:09",
+      "album": {
+        "name": "Maybe My Soulmate Died",
+        "url": "https://open.spotify.com/album/0sCKHcwHvwtLYuaBNfE6BL"
+      },
+      "artists": [
+        {
+          "name": "iamnotshane",
+          "url": "https://open.spotify.com/artist/3jN7f9X0EmFnsbRS6nl6as"
+        }
+      ],
+      "duration_ms": 114375,
+      "name": "Maybe My Soulmate Died",
+      "url": "https://open.spotify.com/track/7N1bEUVuQo8HHuikDgJ10c"
     },
     {
       "added_at": "2022-08-29 14:59:09",
@@ -899,26 +899,6 @@
     {
       "added_at": "2022-08-29 14:59:09",
       "album": {
-        "name": "Shootout",
-        "url": "https://open.spotify.com/album/2lQQ5xfJwzELcecvu8gZN5"
-      },
-      "artists": [
-        {
-          "name": "Izzamuzzic",
-          "url": "https://open.spotify.com/artist/5EiDVD35ofoSKq1KE0jcs8"
-        },
-        {
-          "name": "Julien Marchal",
-          "url": "https://open.spotify.com/artist/7e4AmALFiKR69Xra2EksPU"
-        }
-      ],
-      "duration_ms": 295308,
-      "name": "Shootout",
-      "url": "https://open.spotify.com/track/4pTkDIlpFNoeWbahu8pVXW"
-    },
-    {
-      "added_at": "2022-08-29 14:59:09",
-      "album": {
         "name": "Traumazine",
         "url": "https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim"
       },
@@ -935,18 +915,22 @@
     {
       "added_at": "2022-08-29 14:59:09",
       "album": {
-        "name": "Animal (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6fpLLJsDSSAlToEDW2jv4F"
+        "name": "Shootout",
+        "url": "https://open.spotify.com/album/2lQQ5xfJwzELcecvu8gZN5"
       },
       "artists": [
         {
-          "name": "Kesha",
-          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
+          "name": "Izzamuzzic",
+          "url": "https://open.spotify.com/artist/5EiDVD35ofoSKq1KE0jcs8"
+        },
+        {
+          "name": "Julien Marchal",
+          "url": "https://open.spotify.com/artist/7e4AmALFiKR69Xra2EksPU"
         }
       ],
-      "duration_ms": 186840,
-      "name": "Backstabber",
-      "url": "https://open.spotify.com/track/4GRFzKI7jTZ3kbMfouc7bn"
+      "duration_ms": 295308,
+      "name": "Shootout",
+      "url": "https://open.spotify.com/track/4pTkDIlpFNoeWbahu8pVXW"
     },
     {
       "added_at": "2022-08-29 14:59:09",
@@ -971,6 +955,22 @@
     {
       "added_at": "2022-08-29 14:59:09",
       "album": {
+        "name": "Animal (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6fpLLJsDSSAlToEDW2jv4F"
+      },
+      "artists": [
+        {
+          "name": "Kesha",
+          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
+        }
+      ],
+      "duration_ms": 186840,
+      "name": "Backstabber",
+      "url": "https://open.spotify.com/track/4GRFzKI7jTZ3kbMfouc7bn"
+    },
+    {
+      "added_at": "2022-08-29 14:59:09",
+      "album": {
         "name": "Rotten",
         "url": "https://open.spotify.com/album/2jgKK8iIX83mPrCyDhvEdf"
       },
@@ -983,6 +983,22 @@
       "duration_ms": 139440,
       "name": "HDMI",
       "url": "https://open.spotify.com/track/7I4ibsZgwuf46g0xHuTC8s"
+    },
+    {
+      "added_at": "2022-08-29 14:59:09",
+      "album": {
+        "name": "Baby Girl",
+        "url": "https://open.spotify.com/album/06SuoEMTpd5PGRVwuIpETC"
+      },
+      "artists": [
+        {
+          "name": "Disco Lines",
+          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
+        }
+      ],
+      "duration_ms": 111074,
+      "name": "Baby Girl",
+      "url": "https://open.spotify.com/track/2cSdAkzAf2T4j4aLvx4LLz"
     },
     {
       "added_at": "2022-08-29 14:59:09",
@@ -1007,22 +1023,6 @@
     {
       "added_at": "2022-08-29 14:59:09",
       "album": {
-        "name": "Baby Girl",
-        "url": "https://open.spotify.com/album/06SuoEMTpd5PGRVwuIpETC"
-      },
-      "artists": [
-        {
-          "name": "Disco Lines",
-          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
-        }
-      ],
-      "duration_ms": 111074,
-      "name": "Baby Girl",
-      "url": "https://open.spotify.com/track/2cSdAkzAf2T4j4aLvx4LLz"
-    },
-    {
-      "added_at": "2022-08-29 14:59:09",
-      "album": {
         "name": "Matangi",
         "url": "https://open.spotify.com/album/3dAxXNscIj0p53lBMEziYR"
       },
@@ -1035,22 +1035,6 @@
       "duration_ms": 227520,
       "name": "Bad Girls",
       "url": "https://open.spotify.com/track/6nzXkCBOhb2mxctNihOqbb"
-    },
-    {
-      "added_at": "2022-08-29 14:59:09",
-      "album": {
-        "name": "BABY GODDAMN",
-        "url": "https://open.spotify.com/album/6bOKRuocPC83OuQDrRIklj"
-      },
-      "artists": [
-        {
-          "name": "Tananai",
-          "url": "https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s"
-        }
-      ],
-      "duration_ms": 149605,
-      "name": "BABY GODDAMN",
-      "url": "https://open.spotify.com/track/3yWHQ4n4ARLDfYTuT2NhnN"
     },
     {
       "added_at": "2022-08-29 14:59:09",
@@ -1091,6 +1075,22 @@
       "duration_ms": 99748,
       "name": "Scary Garry",
       "url": "https://open.spotify.com/track/658QJ4p8WcbT3O7iWLpO1D"
+    },
+    {
+      "added_at": "2022-08-29 14:59:09",
+      "album": {
+        "name": "BABY GODDAMN",
+        "url": "https://open.spotify.com/album/6bOKRuocPC83OuQDrRIklj"
+      },
+      "artists": [
+        {
+          "name": "Tananai",
+          "url": "https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s"
+        }
+      ],
+      "duration_ms": 149605,
+      "name": "BABY GODDAMN",
+      "url": "https://open.spotify.com/track/3yWHQ4n4ARLDfYTuT2NhnN"
     },
     {
       "added_at": "2022-08-29 14:59:09",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2022-08-29 14:59:09",
       "album": {
-        "name": "Rich Minion",
-        "url": "https://open.spotify.com/album/2JDTUHzxf0mkHdKxIw8Aje"
-      },
-      "artists": [
-        {
-          "name": "Yeat",
-          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
-        }
-      ],
-      "duration_ms": 165517,
-      "name": "Rich Minion",
-      "url": "https://open.spotify.com/track/1JIgFmCP5OCTEGV866WP3b"
-    },
-    {
-      "added_at": "2022-08-29 14:59:09",
-      "album": {
         "name": "Play with Fire (feat. Yacht Money)",
         "url": "https://open.spotify.com/album/2BS025TrS5OtDzutLrZBWD"
       },
@@ -1215,6 +1199,22 @@
     {
       "added_at": "2022-08-29 14:59:09",
       "album": {
+        "name": "Rich Minion",
+        "url": "https://open.spotify.com/album/2JDTUHzxf0mkHdKxIw8Aje"
+      },
+      "artists": [
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        }
+      ],
+      "duration_ms": 165517,
+      "name": "Rich Minion",
+      "url": "https://open.spotify.com/track/1JIgFmCP5OCTEGV866WP3b"
+    },
+    {
+      "added_at": "2022-08-29 14:59:09",
+      "album": {
         "name": "#BrooklynBloodPop!",
         "url": "https://open.spotify.com/album/68i0gDIA5T5YVUIxj9QdsU"
       },
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2022-08-29 14:59:09",
       "album": {
-        "name": "SugarCrash!",
-        "url": "https://open.spotify.com/album/064pDjy5L2sQn0XLJj2wWx"
-      },
-      "artists": [
-        {
-          "name": "ElyOtto",
-          "url": "https://open.spotify.com/artist/4b19vuzlDcNdU4quI7L6sW"
-        }
-      ],
-      "duration_ms": 80080,
-      "name": "SugarCrash!",
-      "url": "https://open.spotify.com/track/2ePtv8MlBO9nuuXABqAfEX"
-    },
-    {
-      "added_at": "2022-08-29 14:59:09",
-      "album": {
         "name": "to hell with it",
         "url": "https://open.spotify.com/album/65YAjLCn7Jp33nJpOxIPMe"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 98544,
       "name": "Pain",
       "url": "https://open.spotify.com/track/4S4QJfBGGrC8jRIjJHf1Ka"
+    },
+    {
+      "added_at": "2022-08-29 14:59:09",
+      "album": {
+        "name": "SugarCrash!",
+        "url": "https://open.spotify.com/album/064pDjy5L2sQn0XLJj2wWx"
+      },
+      "artists": [
+        {
+          "name": "ElyOtto",
+          "url": "https://open.spotify.com/artist/4b19vuzlDcNdU4quI7L6sW"
+        }
+      ],
+      "duration_ms": 80080,
+      "name": "SugarCrash!",
+      "url": "https://open.spotify.com/track/2ePtv8MlBO9nuuXABqAfEX"
     },
     {
       "added_at": "2022-08-29 14:59:09",

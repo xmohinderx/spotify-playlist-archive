@@ -1,12 +1,12 @@
 {
   "description": "The cool sound of West coast jazz. Cover: Gerry Mulligan",
-  "num_followers": 10680,
+  "num_followers": 10678,
   "original_name": "West Coast Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Njk5MzMxMSwwMDAwMDAwMGJmMjBhMTgwMGM2NGRlNjAyYTg3OWQyMjczMDVjY2Zj",
+  "snapshot_id": "MTY0Njk5MzMxMSwwMDAwMDAwMGYwMWEwYmQ0NjY3ZDgyODQ0ZWM2NDcxMWQ0MzA1YjAx",
   "tracks": [
     {
       "added_at": "2022-03-11 10:08:31",
@@ -327,6 +327,22 @@
     {
       "added_at": "2022-03-11 10:08:31",
       "album": {
+        "name": "Son Of Gunn!!",
+        "url": "https://open.spotify.com/album/0wIqfFb0f9BQTjdUt31Zlq"
+      },
+      "artists": [
+        {
+          "name": "Shelly Manne and His Men",
+          "url": "https://open.spotify.com/artist/0jiF8voCldfvNjfCEr6JDF"
+        }
+      ],
+      "duration_ms": 289360,
+      "name": "Blue Steel",
+      "url": "https://open.spotify.com/track/6A5n5BZfgR2IhzlV1GbGWf"
+    },
+    {
+      "added_at": "2022-03-11 10:08:31",
+      "album": {
         "name": "Stan Getz With Cal Tjader",
         "url": "https://open.spotify.com/album/2JoYII1dEoiwkRSNexKo3J"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 236960,
       "name": "I've Grown Accustomed To Her Face",
       "url": "https://open.spotify.com/track/2p14371u2TyoND8KyyyN0T"
-    },
-    {
-      "added_at": "2022-03-11 10:08:31",
-      "album": {
-        "name": "Son Of Gunn!!",
-        "url": "https://open.spotify.com/album/0wIqfFb0f9BQTjdUt31Zlq"
-      },
-      "artists": [
-        {
-          "name": "Shelly Manne and His Men",
-          "url": "https://open.spotify.com/artist/0jiF8voCldfvNjfCEr6JDF"
-        }
-      ],
-      "duration_ms": 289360,
-      "name": "Blue Steel",
-      "url": "https://open.spotify.com/track/6A5n5BZfgR2IhzlV1GbGWf"
     },
     {
       "added_at": "2022-03-11 10:08:31",
@@ -707,22 +707,6 @@
     {
       "added_at": "2022-03-11 10:08:31",
       "album": {
-        "name": "What Is There To Say?",
-        "url": "https://open.spotify.com/album/0NUxMpyjIOP71y3NaThnTW"
-      },
-      "artists": [
-        {
-          "name": "Gerry Mulligan",
-          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
-        }
-      ],
-      "duration_ms": 303533,
-      "name": "News From Blueport",
-      "url": "https://open.spotify.com/track/19cN9w8acuY1mhelpksd6h"
-    },
-    {
-      "added_at": "2022-03-11 10:08:31",
-      "album": {
         "name": "Afro-Cuban Influence",
         "url": "https://open.spotify.com/album/6eTeF2FhtgBmKn6ya2RWn5"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 257440,
       "name": "Moon Over Cuba",
       "url": "https://open.spotify.com/track/5lflPjZdIBV3aJjn79dkoO"
+    },
+    {
+      "added_at": "2022-03-11 10:08:31",
+      "album": {
+        "name": "What Is There To Say?",
+        "url": "https://open.spotify.com/album/0NUxMpyjIOP71y3NaThnTW"
+      },
+      "artists": [
+        {
+          "name": "Gerry Mulligan",
+          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
+        }
+      ],
+      "duration_ms": 303533,
+      "name": "News From Blueport",
+      "url": "https://open.spotify.com/track/19cN9w8acuY1mhelpksd6h"
     },
     {
       "added_at": "2022-03-11 10:08:31",

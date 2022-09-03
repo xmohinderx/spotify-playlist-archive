@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Vl51vsat7a.md) - [plain]
 
 > Discover your new favourite artists with a focus on Germany, Switzerland, Austria\. Cover: ENNIO
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,941 likes - 60 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,125 likes - 60 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Unendlichkeit](https://open.spotify.com/track/4TaWCdfI6VyR1O8GVuyCf7) | [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [Unendlichkeit](https://open.spotify.com/album/6I0qSXltDmckxauHYmJPNv) | 3:00 |
-| 2 | [Unsere Bank \(feat\. Danger Dan\)](https://open.spotify.com/track/1Tb272NQuHyWVAlYZEcJDt) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx), [Danger Dan](https://open.spotify.com/artist/2jXb8AWz82Sn3RRGOaia7a) | [Unsere Bank \(feat\. Danger Dan\)](https://open.spotify.com/album/3GHY2KycHJNt3mffQ0nIiR) | 2:50 |
+| 2 | [Unsere Bank](https://open.spotify.com/track/3qUwFUpcYidCB9VbZaV0XX) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx), [Danger Dan](https://open.spotify.com/artist/2jXb8AWz82Sn3RRGOaia7a) | [Unsere Bank](https://open.spotify.com/album/3Wfmjr6HuaCjt0jzSyaufv) | 2:50 |
 | 3 | [Crushed](https://open.spotify.com/track/713AJFIsjfdlwC6IvY9FeJ) | [Pabst](https://open.spotify.com/artist/72fLLt8HNxQ2VwCbYFxQCD) | [Crushed by the Weight of the World](https://open.spotify.com/album/1Axcj3Di7G4Qw0iYTJAhC0) | 3:48 |
 | 4 | [REMIND ME](https://open.spotify.com/track/3sQwXoHktwhzOKT2rFBo9Z) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [REMIND ME](https://open.spotify.com/album/084HROOXCRrykD5zzuGXZ1) | 5:32 |
 | 5 | [Body Mind Hell](https://open.spotify.com/track/30JmGKxf1oItI6lOLNNSeq) | [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN) | [Body Mind Hell](https://open.spotify.com/album/18IjZBVEOQrzENrx7012bd) | 2:44 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Vl51vsat7a.md) - [plain]
 | 59 | [Gone](https://open.spotify.com/track/2mD8ODdKo0y165EtmfAHqN) | [ELI](https://open.spotify.com/artist/63gbXCha1jpkrJJ9K5gGpR) | [Gone](https://open.spotify.com/album/651CcYUL1asuZzRClUinai) | 2:35 |
 | 60 | [Rich Girl](https://open.spotify.com/track/1BCBzCwhOZ3MEfOybVmoRs) | [TCTS](https://open.spotify.com/artist/1mFGfrveXbpolppPgO29Io), [CHAMELEON LIME WHOOPIEPIE](https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj) | [Rich Girl](https://open.spotify.com/album/5invgj6RjVaDwh3Odvaj3v) | 4:04 |
 
-Snapshot ID: `MTY2MjA2OTY2MCwwMDAwMDAwMDk0YTk4ZDhmMmNmOTdjNzM0YmYzZjI5NTNjNmZmYTA1`
+Snapshot ID: `MTY2MjA2OTY2MCwwMDAwMDAwMDI2ZmNhN2FiOTQ5MWVlMDY2YmQ4MTllNzRhZjI3NGJm`

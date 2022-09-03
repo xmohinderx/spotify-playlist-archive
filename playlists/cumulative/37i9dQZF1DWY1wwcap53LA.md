@@ -4,7 +4,7 @@
 
 > Country music making waves\. Cover: Tanner Adell
 
-99 songs - 5 hr 10 min - [published](https://open.spotify.com/playlist/2oo6Fd5OoiJz8X71tS41jA)
+101 songs - 5 hr 17 min - [published](https://open.spotify.com/playlist/2oo6Fd5OoiJz8X71tS41jA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,8 @@
 | [Found It In You \- Demo](https://open.spotify.com/track/6PiD58522iUZHJETf0zbAu) | [Tiera Kennedy](https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1) | [Tiera](https://open.spotify.com/album/50jNCjQGuhYEG5z6iVmzRC) | 3:14 | 2022-07-22 |  |
 | [Freedom Was A Highway](https://open.spotify.com/track/3J5jotqUAjU479WhAiNkpU) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c), [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [Bettie James](https://open.spotify.com/album/7wftPNQFSMYlpxzNMPHo1h) | 3:32 | 2021-12-03 |  |
 | [GAS!](https://open.spotify.com/track/3QsIonKmbe7lollXunUVRZ) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [GAS!](https://open.spotify.com/album/5ymTB3P1DqX0fbIHvWeb8F) | 2:28 | 2022-06-17 |  |
-| [Get Low, Get High](https://open.spotify.com/track/7n4HT2w1thbnN6MhbamJMU) | [Willie Jones](https://open.spotify.com/artist/5OCZWZ399lBKgxBxE8cjRM) | [Get Low, Get High](https://open.spotify.com/album/3UuVq0rn3sNPtQew0f3XcS) | 2:44 | 2021-12-03 |  |
+| [Get Low, Get High](https://open.spotify.com/track/7n4HT2w1thbnN6MhbamJMU) | [Willie Jones](https://open.spotify.com/artist/5OCZWZ399lBKgxBxE8cjRM) | [Get Low, Get High](https://open.spotify.com/album/3UuVq0rn3sNPtQew0f3XcS) | 2:44 | 2021-12-03 | 2022-09-03 |
+| [Get Low, Get High \(Part 2\) \(feat\. Jon Batiste & Michael Todd\)](https://open.spotify.com/track/7vV9b8mBZhw6eiCc80VOSb) | [Willie Jones](https://open.spotify.com/artist/5OCZWZ399lBKgxBxE8cjRM), [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU), [Michael Todd](https://open.spotify.com/artist/0DjXhpFVGNYlevPm7EGjrp) | [Get Low, Get High \(Part 2\) \(feat\. Jon Batiste & Michael Todd\)](https://open.spotify.com/album/5egAPl3SGfXZIW2dIzqDpo) | 3:38 | 2022-09-02 |  |
 | [Goner](https://open.spotify.com/track/5aoAYO5gJL9VnCxWU3q0EU) | [Skyelor Anderson](https://open.spotify.com/artist/5bclkN4UM70TfIa6NGMGcr) | [Bonfire](https://open.spotify.com/album/2DuONDxO2ITx5MNJbjPnr5) | 3:00 | 2021-12-03 |  |
 | [Good Love](https://open.spotify.com/track/7sMoGNd6xOM7CD1WdFRWBQ) | [Shy Carter](https://open.spotify.com/artist/7JZafQsN8syJ9agEtcyP4V) | [Good Love](https://open.spotify.com/album/3lpdLJbh71M7f7YezuOEww) | 2:59 | 2021-12-03 |  |
 | [Good To You](https://open.spotify.com/track/49dnp7E5qladhZJLDXQEmA) | [Coffey Anderson](https://open.spotify.com/artist/29YJnMJ7MoLKPM04siMnP5) | [Good To You](https://open.spotify.com/album/2yM7cuSkxvVaquqZ3RcLOG) | 3:01 | 2022-02-18 |  |
@@ -45,6 +46,7 @@
 | [Hotel Room](https://open.spotify.com/track/1owUVU4Hg4Qqb6sn6wnVid) | [Tony Evans Jr.](https://open.spotify.com/artist/3PvNwJTtWwtnkwW01JkNeE) | [Hotel Room](https://open.spotify.com/album/2SoyvUgq6doxWrBW45q1E8) | 2:31 | 2022-05-20 |  |
 | [I Like You Better](https://open.spotify.com/track/6O2U3KEpMJusHQ6m3IR2vg) | [Rodell Duff](https://open.spotify.com/artist/4JMY9dX6C0SYxm1YEGAEky) | [I Like You Better](https://open.spotify.com/album/79MV4Y5B13sz8nlhEJh4bG) | 2:51 | 2022-04-01 |  |
 | [If I Wanted Wine](https://open.spotify.com/track/4cgwtyl8Ig2RxDTz0d0JyM) | [Sacha](https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u) | [We Did](https://open.spotify.com/album/4T5T6Py0YU61WOtWOuhRwg) | 2:44 | 2022-06-01 |  |
+| [Just In Case](https://open.spotify.com/track/0YXTxxhAcbshkZ6n4QO30H) | [Rodell Duff](https://open.spotify.com/artist/4JMY9dX6C0SYxm1YEGAEky) | [Red Dirt Cursed](https://open.spotify.com/album/6ZJaKkfHx5nfEkXXjq3Ond) | 2:58 | 2022-09-02 |  |
 | [Just Say I Love You](https://open.spotify.com/track/4iVi2YeSzYut5CgMu9WBu3) | [Chapel Hart](https://open.spotify.com/artist/1Xc3WbacoW8ISqReb7Hjpj) | [Just Say I Love You](https://open.spotify.com/album/2HCLaqqb00O9PPNy4aYXx3) | 4:00 | 2021-12-03 |  |
 | [Just the Way](https://open.spotify.com/track/3FE6cfCDhmhOraeSLPe6Vj) | [Parmalee](https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I), [Blanco Brown](https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i) | [For You](https://open.spotify.com/album/33TRcgk13pDfnELf22G8wN) | 3:13 | 2022-07-22 |  |
 | [Just the Way](https://open.spotify.com/track/5PAvFGse5jjDH9ke8Mae7D) | [Parmalee](https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I), [Blanco Brown](https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i) | [Just the Way](https://open.spotify.com/album/3BwXeSOrCEZNWEPqxxh7yE) | 3:13 | 2021-12-03 | 2022-07-29 |

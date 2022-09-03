@@ -643,7 +643,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 357227,
       "name": "Attention",
       "url": "https://open.spotify.com/track/1qvzL0oWnc4msWpcDiAmGG"
@@ -2568,6 +2568,28 @@
     },
     {
       "album": {
+        "name": "Gilgamesh",
+        "url": "https://open.spotify.com/album/5vjiZbJumXYEWM9d9Qouol"
+      },
+      "artists": [
+        {
+          "name": "Spartaque",
+          "url": "https://open.spotify.com/artist/2OpUrUeIF1sqWHwSbMPNkB"
+        },
+        {
+          "name": "Fabio Neural",
+          "url": "https://open.spotify.com/artist/18gG21ZrYo2Iq6jeobmdRj"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284651,
+      "name": "Gilgamesh",
+      "url": "https://open.spotify.com/track/7vmXmhia1MFqu8t3IAYOkP"
+    },
+    {
+      "album": {
         "name": "Go Back",
         "url": "https://open.spotify.com/album/2cuIYvl4ZtyQpl2LafPH8M"
       },
@@ -2619,7 +2641,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 351022,
       "name": "Graphit",
       "url": "https://open.spotify.com/track/6JA0qxD77cmKHevcgAyn8a"
@@ -2753,10 +2775,28 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 392008,
       "name": "Hercules",
       "url": "https://open.spotify.com/track/56fFmIpNTFTcQSrfCNxeyu"
+    },
+    {
+      "album": {
+        "name": "Here We Go",
+        "url": "https://open.spotify.com/album/45g34pO040lSS6mKtrxRmG"
+      },
+      "artists": [
+        {
+          "name": "Jay Lumen",
+          "url": "https://open.spotify.com/artist/6rxmj7vNEofe96g84qMWoV"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 416000,
+      "name": "Here We Go",
+      "url": "https://open.spotify.com/track/6GoOF1Ao8tu8BFwBGSbwdV"
     },
     {
       "album": {
@@ -3628,6 +3668,46 @@
     },
     {
       "album": {
+        "name": "Little Hero",
+        "url": "https://open.spotify.com/album/0iwVgKvRzzYRLDNgfalW4H"
+      },
+      "artists": [
+        {
+          "name": "Cosmic Boys",
+          "url": "https://open.spotify.com/artist/2jvTYwyzxK1FVYGEoKfZLQ"
+        },
+        {
+          "name": "T78",
+          "url": "https://open.spotify.com/artist/5FgLkieOqGXPn01dnbJp9Z"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 390000,
+      "name": "Little Hero",
+      "url": "https://open.spotify.com/track/73Z9bB6pDnpj4pQhzScrWm"
+    },
+    {
+      "album": {
+        "name": "Lonely Traveller",
+        "url": "https://open.spotify.com/album/4i9RkTe3UWHPknzuGLHHit"
+      },
+      "artists": [
+        {
+          "name": "Klanglos",
+          "url": "https://open.spotify.com/artist/1jV311C5ADuBqCPpprsjUp"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366038,
+      "name": "Lonely Traveller",
+      "url": "https://open.spotify.com/track/2tfiF1GUsv0z78VraiNU5A"
+    },
+    {
+      "album": {
         "name": "Macid (Original Mix)",
         "url": "https://open.spotify.com/album/1KeqJnW1Fv7zEtWIhTnKsb"
       },
@@ -3820,6 +3900,32 @@
     },
     {
       "album": {
+        "name": "Mercury",
+        "url": "https://open.spotify.com/album/5q2bsjSrluBoWf3F61Fofp"
+      },
+      "artists": [
+        {
+          "name": "HI-LO",
+          "url": "https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd"
+        },
+        {
+          "name": "Space 92",
+          "url": "https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD"
+        },
+        {
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225346,
+      "name": "Mercury",
+      "url": "https://open.spotify.com/track/25dFcH5EsCJLMSmFDDJLT3"
+    },
+    {
+      "album": {
         "name": "Metron",
         "url": "https://open.spotify.com/album/3Cd2TcLNpCpsDOmsAYHbE8"
       },
@@ -3943,7 +4049,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 292989,
       "name": "Morphing",
       "url": "https://open.spotify.com/track/6Y2OimS3u5eKd0LLco0Vlq"
@@ -4327,7 +4433,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 347481,
       "name": "Omen",
       "url": "https://open.spotify.com/track/4kC2zk1YArAcIq7K68EYok"
@@ -5015,7 +5121,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 396992,
       "name": "Rush",
       "url": "https://open.spotify.com/track/7GSCbkKiC0yW0OJt8KG9T7"
@@ -6419,6 +6525,24 @@
       "duration_ms": 361846,
       "name": "Tunnel",
       "url": "https://open.spotify.com/track/6J8CNMeXUBKpoTxGNxvHG1"
+    },
+    {
+      "album": {
+        "name": "Digital Age",
+        "url": "https://open.spotify.com/album/1FS174VHssFFCmZajvmQ6t"
+      },
+      "artists": [
+        {
+          "name": "Layton Giordani",
+          "url": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296812,
+      "name": "UFOs & LFOs",
+      "url": "https://open.spotify.com/track/6ohzW6SWk4erB5DWFGUPaK"
     },
     {
       "album": {

@@ -597,10 +597,28 @@
       ],
       "date_added": "2022-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-10",
+      "date_removed": null,
       "duration_ms": 196535,
       "name": "Bubble - Florentino Remix",
       "url": "https://open.spotify.com/track/5P1QwaMIdhi9N5UDwTHwOS"
+    },
+    {
+      "album": {
+        "name": "BUBBLEGUM",
+        "url": "https://open.spotify.com/album/0Wi614PbxDMUurzK8xJDwe"
+      },
+      "artists": [
+        {
+          "name": "ESSEL",
+          "url": "https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148538,
+      "name": "BUBBLEGUM",
+      "url": "https://open.spotify.com/track/3VQWkf0zg6397V3ql6mwMq"
     },
     {
       "album": {
@@ -615,7 +633,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 215280,
       "name": "BUY ME NOW",
       "url": "https://open.spotify.com/track/0TObe8QnOyojmnDAwjNRQK"
@@ -869,7 +887,7 @@
       ],
       "date_added": "2022-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 164605,
       "name": "damn Right",
       "url": "https://open.spotify.com/track/76Gw6K3kG2zjuNGoFuwxIP"
@@ -1099,7 +1117,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 153694,
       "name": "Drugs Du Jour",
       "url": "https://open.spotify.com/track/62HGGtTszF9K7xl5G2uuJp"
@@ -1165,7 +1183,7 @@
       ],
       "date_added": "2022-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 143833,
       "name": "Feels Like",
       "url": "https://open.spotify.com/track/0F9v0lpBD93UIOh4g0BcPm"
@@ -1459,7 +1477,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 185616,
       "name": "H2hoe",
       "url": "https://open.spotify.com/track/3fAiq5yzGtjJAbUgT85EBh"
@@ -1542,6 +1560,28 @@
     },
     {
       "album": {
+        "name": "Horsey",
+        "url": "https://open.spotify.com/album/71ZYo5DABA1qaup7JcUy0B"
+      },
+      "artists": [
+        {
+          "name": "Alex Chapman",
+          "url": "https://open.spotify.com/artist/3c8wfedCs5BJGHcFyusyeh"
+        },
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137206,
+      "name": "Horsey",
+      "url": "https://open.spotify.com/track/347HlvMjlbtP1KzuzBBAWf"
+    },
+    {
+      "album": {
         "name": "Bxtch Sl\u00e4p",
         "url": "https://open.spotify.com/album/5ZQgUIk9rZc7JpbTqwpp2F"
       },
@@ -1578,6 +1618,24 @@
     },
     {
       "album": {
+        "name": "Hummer",
+        "url": "https://open.spotify.com/album/2iT8KeGh5G7yOtdnWL3U1q"
+      },
+      "artists": [
+        {
+          "name": "Juicy Romance",
+          "url": "https://open.spotify.com/artist/55RZaB7LJnx3sXeyVJXB2e"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234245,
+      "name": "Hummer",
+      "url": "https://open.spotify.com/track/4ewmSKVCdsKn7YORFhDUAS"
+    },
+    {
+      "album": {
         "name": "Error 404",
         "url": "https://open.spotify.com/album/1P5LPhxM7YCe7cqiPr3xvx"
       },
@@ -1593,6 +1651,24 @@
       "duration_ms": 157293,
       "name": "Hungry",
       "url": "https://open.spotify.com/track/56A642KYZhihTxjirnyW3y"
+    },
+    {
+      "album": {
+        "name": "Hypnotized",
+        "url": "https://open.spotify.com/album/0Jx1Hy8YQ5ZzGwy8DLW8Hu"
+      },
+      "artists": [
+        {
+          "name": "Soraya",
+          "url": "https://open.spotify.com/artist/6mHCVD6zJMB6lFNfg5mi7R"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265714,
+      "name": "Hypnotized",
+      "url": "https://open.spotify.com/track/3BDAxgeGpUEUfKCbuXCyxn"
     },
     {
       "album": {
@@ -1647,6 +1723,24 @@
       "duration_ms": 197882,
       "name": "IN IN IN",
       "url": "https://open.spotify.com/track/6s5fztn7rjtRs2gGdP9n7t"
+    },
+    {
+      "album": {
+        "name": "ITCH",
+        "url": "https://open.spotify.com/album/3cs9dwE0Ffz4Cxto5NvsXY"
+      },
+      "artists": [
+        {
+          "name": "Kellalit",
+          "url": "https://open.spotify.com/artist/0vhgNjiYhyTROMaRqoHCGy"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98867,
+      "name": "ITCH",
+      "url": "https://open.spotify.com/track/4aC0jqEIYvwlZKPaKXSsr5"
     },
     {
       "album": {
@@ -2115,7 +2209,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 123570,
       "name": "PAPER BOYFRIEND",
       "url": "https://open.spotify.com/track/5kmgBZhT1uXEljgE0EJahO"
@@ -2245,7 +2339,7 @@
       ],
       "date_added": "2022-07-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-10",
+      "date_removed": null,
       "duration_ms": 272000,
       "name": "Pump My Body Up - Ariel Zetina Remix",
       "url": "https://open.spotify.com/track/5PRzZ6AdWj1LZnhcdZ4pwh"
@@ -2416,6 +2510,28 @@
     },
     {
       "album": {
+        "name": "Hypnotica",
+        "url": "https://open.spotify.com/album/6jXS5LAsZHlN8U9jMSMfFf"
+      },
+      "artists": [
+        {
+          "name": "Benny Benassi",
+          "url": "https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6"
+        },
+        {
+          "name": "The Biz",
+          "url": "https://open.spotify.com/artist/1jQDgp9Fak4WYVZedWLF4G"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285413,
+      "name": "Satisfaction",
+      "url": "https://open.spotify.com/track/213yG5o4EISfGoceayLo6u"
+    },
+    {
+      "album": {
         "name": "Scooter",
         "url": "https://open.spotify.com/album/1Ib8Y9ZWFGTI4zjglUKxwV"
       },
@@ -2427,7 +2543,7 @@
       ],
       "date_added": "2022-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 128770,
       "name": "Scooter",
       "url": "https://open.spotify.com/track/1RBIzko2PMY5CP0d3MIkwl"
@@ -2790,6 +2906,24 @@
     },
     {
       "album": {
+        "name": "Svengali",
+        "url": "https://open.spotify.com/album/2NqZ5jCcoAevfo62dyJKk5"
+      },
+      "artists": [
+        {
+          "name": "Cakes da Killa",
+          "url": "https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179482,
+      "name": "Svengali",
+      "url": "https://open.spotify.com/track/4mIJ0lm0B8ynSPeGTjqJ5G"
+    },
+    {
+      "album": {
         "name": "Joyful Death",
         "url": "https://open.spotify.com/album/37RBUO05YPPvrIHcEst8Kg"
       },
@@ -2923,6 +3057,24 @@
     {
       "album": {
         "name": "JACKIE EXTREME",
+        "url": "https://open.spotify.com/album/0Mn2OXVX6vGMWkqJWVoZuP"
+      },
+      "artists": [
+        {
+          "name": "JACKIE EXTREME",
+          "url": "https://open.spotify.com/artist/3lTxQgwx9i1S3u0UoZHCRr"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132632,
+      "name": "THAT",
+      "url": "https://open.spotify.com/track/6yGxfjVzv3u3b85FuUSJaN"
+    },
+    {
+      "album": {
+        "name": "JACKIE EXTREME",
         "url": "https://open.spotify.com/album/2EgLkW1shKJc43nqvzToYN"
       },
       "artists": [
@@ -2995,7 +3147,7 @@
       ],
       "date_added": "2022-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 140000,
       "name": "Throat Goat",
       "url": "https://open.spotify.com/track/2eKFa10K8Hu1VCTLm3DUkO"
@@ -3035,6 +3187,28 @@
       "duration_ms": 172172,
       "name": "Tired and Sick",
       "url": "https://open.spotify.com/track/5fZ3sFURm6vOo5cwAFV1Y8"
+    },
+    {
+      "album": {
+        "name": "Touch (Leonce Remix)",
+        "url": "https://open.spotify.com/album/1oR96yctfi93SFLn0l1NLk"
+      },
+      "artists": [
+        {
+          "name": "UNIIQU3",
+          "url": "https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx"
+        },
+        {
+          "name": "Leonce",
+          "url": "https://open.spotify.com/artist/4CtHfoB4Jfn9hpWMHBq3lc"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234441,
+      "name": "Touch - Leonce Remix",
+      "url": "https://open.spotify.com/track/2ktWS8sHNDJ7hgRmxDHsXb"
     },
     {
       "album": {
@@ -3217,7 +3391,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 232933,
       "name": "Unlock it (Lock It) - feat. Kim Petras and Jay Park",
       "url": "https://open.spotify.com/track/3qGHAKgjQruzj6doKkyEb5"
@@ -3253,7 +3427,7 @@
       ],
       "date_added": "2022-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 194493,
       "name": "Versace Hottie",
       "url": "https://open.spotify.com/track/125U9Ok6RD3jG5aLzyvxnY"
@@ -3297,7 +3471,7 @@
       ],
       "date_added": "2022-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 109714,
       "name": "Violin",
       "url": "https://open.spotify.com/track/4se25yP3bMpaMAlcxvyJ5Q"

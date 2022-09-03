@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: Bialystocks
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,436 likes - 57 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,435 likes - 57 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [灯台](https://open.spotify.com/track/0rWizJ6KV5Wna8dPdXB5CU) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [灯台](https://open.spotify.com/album/7HkIv5XkyvMwR3DXz5mmwk) | 2:57 |
+| 1 | [Todai](https://open.spotify.com/track/6O75NV4KyMzh47TS9Zow5m) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Todai](https://open.spotify.com/album/4hE6Ux4bskxZzUV7HKbIES) | 2:57 |
 | 2 | [向こうから](https://open.spotify.com/track/1FVA1zzhSi7U7SwTIidQeC) | [Ritsuki Akiyama](https://open.spotify.com/artist/2RyFl8CsXJDOd4hnh3RRE9) | [向こうから](https://open.spotify.com/album/6jH9JpnMI6GmtHZYAjoacR) | 3:45 |
 | 3 | [Deadstock](https://open.spotify.com/track/1h3XEx3bmfIARIJQqE3NA5) | [PEOPLE 1](https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU), [きのぽっぽ](https://open.spotify.com/artist/7wELjvjV3KJdFtxYlZ5bhf) | [Deadstock](https://open.spotify.com/album/4Z9igjlzrOpnidH6MwRhEc) | 3:19 |
 | 4 | [真夏の恋は気まぐれ](https://open.spotify.com/track/3DYLsJ0hAzbVGCOIWN011L) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [真夏の恋は気まぐれ](https://open.spotify.com/album/6B0YhBGykGrRAfkgCe2ODk) | 4:09 |
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 56 | [ダンスフロア](https://open.spotify.com/track/4DB9XpxWVdGXsHjX8YoIzF) | [LAYRUS LOOP](https://open.spotify.com/artist/3EO554jUf79NLR9mBuD2vk) | [ダンスフロアEP](https://open.spotify.com/album/0OqXDoI0GTKevz8B96ueE9) | 3:55 |
 | 57 | [Hitono Katachi](https://open.spotify.com/track/04HdAkdqkHsxE6g4pCtKvx) | [Limre](https://open.spotify.com/artist/7hDICOxRG5iwTYyMUiYSHT) | [Limre](https://open.spotify.com/album/5CK1FaKsSogYM6ufKrUcv3) | 2:27 |
 
-Snapshot ID: `MTY2MjA0NDQwMCwwMDAwMDAwMDg0N2Y2NzNkNmI0NmUyYjdkNDA0ODg2MWJmNzgzMTZj`
+Snapshot ID: `MTY2MjA0NDQwMCwwMDAwMDAwMDI0YjdmMWY0NWNhNzU2ZTZiNTk1YTg5YmU1ODk4YjNj`

@@ -4,7 +4,7 @@
 
 > Current indie tunes from Asia and around the world\. Cover: Artic Monkeys
 
-544 songs - 1 day 8 hr 0 min - [published](https://open.spotify.com/playlist/20Eh596su19VARcgGsKVKl)
+545 songs - 1 day 8 hr 5 min - [published](https://open.spotify.com/playlist/20Eh596su19VARcgGsKVKl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,7 +144,8 @@
 | [Entropy](https://open.spotify.com/track/5zmKtYP6HI3SItzAVBUEIH) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Entropy](https://open.spotify.com/album/2EXJutCpZBOaCZFA4rw9D7) | 3:41 | 2022-06-10 | 2022-07-16 |
 | [Especially You](https://open.spotify.com/track/1prCMVGhgKF805LZJhFIHe) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Especially You](https://open.spotify.com/album/6GdntthLLMwjMcKiv4b70R) | 3:01 | 2022-02-03 | 2022-04-01 |
 | [Essential](https://open.spotify.com/track/5jtEduKSyyJXEE6IbZFLJR) | [quicksand bed](https://open.spotify.com/artist/5PHCGqnqL1dzGEud0XL2ym) | [Essential](https://open.spotify.com/album/6WdkSCs0MlShCNo8FQTNC0) | 3:06 | 2021-12-16 | 2022-06-10 |
-| [Everybody's Cool](https://open.spotify.com/track/66YV5WPbSqEZsM6WwShkEM) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Keep On Smiling](https://open.spotify.com/album/1PKL24mnakuCYCZkHgKgwJ) | 4:22 | 2022-09-01 |  |
+| [Everybody's Cool](https://open.spotify.com/track/5HUxswbr7V4fzwG1LGCf7U) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Keep On Smiling](https://open.spotify.com/album/0SbaC7OZOVB2WKGzf9ZMSQ) | 4:22 | 2022-09-01 |  |
+| [Everybody's Cool](https://open.spotify.com/track/66YV5WPbSqEZsM6WwShkEM) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Keep On Smiling](https://open.spotify.com/album/1PKL24mnakuCYCZkHgKgwJ) | 4:22 | 2022-09-01 | 2022-09-03 |
 | [Everysunrise](https://open.spotify.com/track/7FgIyU5i7Y2Eo8coZ1eeNW) | [Olin MattiBlue](https://open.spotify.com/artist/2E5pDM8XRBqBVdALkdcgcH) | [Everysunrise](https://open.spotify.com/album/4PrgQIQ3rmux1TSWa8Fzsv) | 3:14 | 2021-12-23 | 2022-01-21 |
 | [Everything You Do](https://open.spotify.com/track/4vy6Lc1ko2F0CF4Elc2dMj) | [The Kopycat](https://open.spotify.com/artist/7y4M1no7kXEEsCeIAZkeuR), [Nick temp.](https://open.spotify.com/artist/1NXenNaio8ydGsJz9bHZxB) | [Everything You Do](https://open.spotify.com/album/6LfR1BcfmDBr6KTaSx02qT) | 3:17 | 2021-12-23 | 2022-02-18 |
 | [Eyes](https://open.spotify.com/track/3SSXUmJovq6rivUE81Smvs) | [FUR](https://open.spotify.com/artist/0e0z6v7dIm0XM7BgQTtB0a) | [Oldies & Goldies](https://open.spotify.com/album/0n4sAkLa48ycqcY8mpLfVt) | 3:41 | 2022-08-26 |  |

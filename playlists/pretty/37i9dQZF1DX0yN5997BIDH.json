@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Deja que la m\u00fasica te inspire para acabar con tu tarea!",
-  "num_followers": 365629,
+  "num_followers": 365627,
   "original_name": "Tarea Casual",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTg4MjUxMSwwMDAwMDAwMDQzYTJkY2I4MDg0NWIyYTNjNmVjNzVmMjZmZTgwYTlk",
+  "snapshot_id": "MTY2MTg4MjUxMSwwMDAwMDAwMDFlNzQzOTZjZDgwNGVmZDI4YzQ4ZmQyM2Q4M2JiN2Yx",
   "tracks": [
     {
       "added_at": "2022-08-30 18:01:51",
@@ -219,6 +219,26 @@
     {
       "added_at": "2022-08-30 18:01:51",
       "album": {
+        "name": "STAY (with Justin Bieber)",
+        "url": "https://open.spotify.com/album/4QLAtpLNUsHEYrcHXmMIZZ"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 141805,
+      "name": "STAY (with Justin Bieber)",
+      "url": "https://open.spotify.com/track/5HCyWlXZPP0y6Gqq8TgA20"
+    },
+    {
+      "added_at": "2022-08-30 18:01:51",
+      "album": {
         "name": "Cold Heart (PNAU Remix)",
         "url": "https://open.spotify.com/album/5D8Rdb09BkmHscEGSWAlA6"
       },
@@ -239,26 +259,6 @@
       "duration_ms": 202735,
       "name": "Cold Heart - PNAU Remix",
       "url": "https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz"
-    },
-    {
-      "added_at": "2022-08-30 18:01:51",
-      "album": {
-        "name": "STAY (with Justin Bieber)",
-        "url": "https://open.spotify.com/album/4QLAtpLNUsHEYrcHXmMIZZ"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        },
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 141805,
-      "name": "STAY (with Justin Bieber)",
-      "url": "https://open.spotify.com/track/5HCyWlXZPP0y6Gqq8TgA20"
     },
     {
       "added_at": "2022-08-30 18:01:51",
@@ -359,6 +359,22 @@
     {
       "added_at": "2022-08-30 18:01:51",
       "album": {
+        "name": "Kid Krow",
+        "url": "https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5"
+      },
+      "artists": [
+        {
+          "name": "Conan Gray",
+          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
+        }
+      ],
+      "duration_ms": 198040,
+      "name": "Heather",
+      "url": "https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA"
+    },
+    {
+      "added_at": "2022-08-30 18:01:51",
+      "album": {
         "name": "Justice",
         "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 198081,
       "name": "Peaches (feat. Daniel Caesar & Giveon)",
       "url": "https://open.spotify.com/track/4iJyoBOLtHqaGxP12qzhQI"
-    },
-    {
-      "added_at": "2022-08-30 18:01:51",
-      "album": {
-        "name": "Kid Krow",
-        "url": "https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5"
-      },
-      "artists": [
-        {
-          "name": "Conan Gray",
-          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
-        }
-      ],
-      "duration_ms": 198040,
-      "name": "Heather",
-      "url": "https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA"
     },
     {
       "added_at": "2022-08-30 18:01:51",
@@ -771,22 +771,6 @@
     {
       "added_at": "2022-08-30 18:01:51",
       "album": {
-        "name": "Light Switch (Instrumental)",
-        "url": "https://open.spotify.com/album/4RRj9PqBj79OFDB2ydM7qs"
-      },
-      "artists": [
-        {
-          "name": "Charlie Puth",
-          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
-        }
-      ],
-      "duration_ms": 185680,
-      "name": "Light Switch",
-      "url": "https://open.spotify.com/track/3AVXwaOGCEL8cmBecfcsFJ"
-    },
-    {
-      "added_at": "2022-08-30 18:01:51",
-      "album": {
         "name": "folklore",
         "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 239560,
       "name": "cardigan",
       "url": "https://open.spotify.com/track/4R2kfaDFhslZEMJqAFNpdd"
+    },
+    {
+      "added_at": "2022-08-30 18:01:51",
+      "album": {
+        "name": "Light Switch (Instrumental)",
+        "url": "https://open.spotify.com/album/4RRj9PqBj79OFDB2ydM7qs"
+      },
+      "artists": [
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        }
+      ],
+      "duration_ms": 185680,
+      "name": "Light Switch",
+      "url": "https://open.spotify.com/track/3AVXwaOGCEL8cmBecfcsFJ"
     },
     {
       "added_at": "2022-08-30 18:01:51",
@@ -1427,6 +1427,22 @@
     {
       "added_at": "2022-08-30 18:01:51",
       "album": {
+        "name": "i can't help it",
+        "url": "https://open.spotify.com/album/1vJ1jmaxBT3tHp54igkrmK"
+      },
+      "artists": [
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        }
+      ],
+      "duration_ms": 177886,
+      "name": "i can't help it",
+      "url": "https://open.spotify.com/track/1HkRnB3c6aVMJxAryrsMsc"
+    },
+    {
+      "added_at": "2022-08-30 18:01:51",
+      "album": {
         "name": "=",
         "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
       },
@@ -1439,22 +1455,6 @@
       "duration_ms": 185586,
       "name": "The Joker And The Queen",
       "url": "https://open.spotify.com/track/3NuLxTXowTRcguTh9RsPmM"
-    },
-    {
-      "added_at": "2022-08-30 18:01:51",
-      "album": {
-        "name": "Girlfriend",
-        "url": "https://open.spotify.com/album/7AfbvLhUxPt0qOcXB2GTzY"
-      },
-      "artists": [
-        {
-          "name": "Charlie Puth",
-          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
-        }
-      ],
-      "duration_ms": 177438,
-      "name": "Girlfriend",
-      "url": "https://open.spotify.com/track/1UNs8AlFM8c0uAkSyjIW3P"
     },
     {
       "added_at": "2022-08-30 18:01:51",
@@ -1475,6 +1475,22 @@
     {
       "added_at": "2022-08-30 18:01:51",
       "album": {
+        "name": "Girlfriend",
+        "url": "https://open.spotify.com/album/7AfbvLhUxPt0qOcXB2GTzY"
+      },
+      "artists": [
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        }
+      ],
+      "duration_ms": 177438,
+      "name": "Girlfriend",
+      "url": "https://open.spotify.com/track/1UNs8AlFM8c0uAkSyjIW3P"
+    },
+    {
+      "added_at": "2022-08-30 18:01:51",
+      "album": {
         "name": "Nectar",
         "url": "https://open.spotify.com/album/5EzDhyNZuO7kuaABHwbBKX"
       },
@@ -1487,22 +1503,6 @@
       "duration_ms": 163758,
       "name": "Your Man",
       "url": "https://open.spotify.com/track/5sbZj8hcae2ebXVBonKQ6g"
-    },
-    {
-      "added_at": "2022-08-30 18:01:51",
-      "album": {
-        "name": "i can't help it",
-        "url": "https://open.spotify.com/album/1vJ1jmaxBT3tHp54igkrmK"
-      },
-      "artists": [
-        {
-          "name": "JVKE",
-          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
-        }
-      ],
-      "duration_ms": 177886,
-      "name": "i can't help it",
-      "url": "https://open.spotify.com/track/1HkRnB3c6aVMJxAryrsMsc"
     },
     {
       "added_at": "2022-08-30 18:01:51",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2022-08-30 18:01:51",
       "album": {
-        "name": "mona lisa",
-        "url": "https://open.spotify.com/album/3wVcBPUDJrmInLD0G1W1r2"
-      },
-      "artists": [
-        {
-          "name": "mxmtoon",
-          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
-        }
-      ],
-      "duration_ms": 190052,
-      "name": "mona lisa",
-      "url": "https://open.spotify.com/track/5O7TgofxqSQh31TiRcKXzo"
-    },
-    {
-      "added_at": "2022-08-30 18:01:51",
-      "album": {
         "name": "drivers license",
         "url": "https://open.spotify.com/album/4YhRWYWS8ntXFgQwvEIUrB"
       },
@@ -1707,6 +1691,22 @@
       "duration_ms": 246345,
       "name": "drivers license",
       "url": "https://open.spotify.com/track/66V40iz2mphPbYvuJVj13i"
+    },
+    {
+      "added_at": "2022-08-30 18:01:51",
+      "album": {
+        "name": "mona lisa",
+        "url": "https://open.spotify.com/album/3wVcBPUDJrmInLD0G1W1r2"
+      },
+      "artists": [
+        {
+          "name": "mxmtoon",
+          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+        }
+      ],
+      "duration_ms": 190052,
+      "name": "mona lisa",
+      "url": "https://open.spotify.com/track/5O7TgofxqSQh31TiRcKXzo"
     },
     {
       "added_at": "2022-08-30 18:01:51",
@@ -1727,6 +1727,22 @@
     {
       "added_at": "2022-08-30 18:01:51",
       "album": {
+        "name": "You Get What You Give",
+        "url": "https://open.spotify.com/album/7eAjW0akqpFZc14QeBj4Gd"
+      },
+      "artists": [
+        {
+          "name": "Jenny Thorn",
+          "url": "https://open.spotify.com/artist/6lyyztZQV3gJ1ptg97K2y9"
+        }
+      ],
+      "duration_ms": 173250,
+      "name": "You Get What You Give",
+      "url": "https://open.spotify.com/track/7BoCnys48XsoCiJwE6g491"
+    },
+    {
+      "added_at": "2022-08-30 18:01:51",
+      "album": {
         "name": "Somewhere (feat. Gus Dapperton)",
         "url": "https://open.spotify.com/album/6QPRwYT6byImXj3adBh6wm"
       },
@@ -1743,22 +1759,6 @@
       "duration_ms": 183943,
       "name": "Somewhere (feat. Gus Dapperton)",
       "url": "https://open.spotify.com/track/0bmQ5H9mHFzRnJ4ZntylFg"
-    },
-    {
-      "added_at": "2022-08-30 18:01:51",
-      "album": {
-        "name": "You Get What You Give",
-        "url": "https://open.spotify.com/album/7eAjW0akqpFZc14QeBj4Gd"
-      },
-      "artists": [
-        {
-          "name": "Jenny Thorn",
-          "url": "https://open.spotify.com/artist/6lyyztZQV3gJ1ptg97K2y9"
-        }
-      ],
-      "duration_ms": 173250,
-      "name": "You Get What You Give",
-      "url": "https://open.spotify.com/track/7BoCnys48XsoCiJwE6g491"
     },
     {
       "added_at": "2022-08-30 18:01:51",

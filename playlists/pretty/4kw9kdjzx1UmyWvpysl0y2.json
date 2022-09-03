@@ -1,13 +1,45 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 127842,
+  "num_followers": 127438,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "MzYwMyxiM2MwNDI0ZDdkNGRhN2NiM2ZmN2Q4MmJhZWEyNTk5Zjg3MmE4NWZj",
+  "snapshot_id": "MzYwNSxiN2VhMWYwYmIzMTU4NzdjNjMyNzcyMjMxNWQyZTVhYTU2MDA1M2Q1",
   "tracks": [
+    {
+      "added_at": "2022-09-02 17:08:24",
+      "album": {
+        "name": "Yesterday",
+        "url": "https://open.spotify.com/album/0MU0ovgIP5zFj9CJLbkTaM"
+      },
+      "artists": [
+        {
+          "name": "No Mana",
+          "url": "https://open.spotify.com/artist/20yuGdfbRkW0HH3OfG1Nkg"
+        }
+      ],
+      "duration_ms": 273750,
+      "name": "Yesterday",
+      "url": "https://open.spotify.com/track/6Wz9kNEppcp9U6jHptH6sQ"
+    },
+    {
+      "added_at": "2022-09-02 17:08:13",
+      "album": {
+        "name": "Try Me",
+        "url": "https://open.spotify.com/album/2rZztGcRl9pUAbSfEQshRC"
+      },
+      "artists": [
+        {
+          "name": "OCULA",
+          "url": "https://open.spotify.com/artist/2VzzhmEHXT4nGim8nBw4ij"
+        }
+      ],
+      "duration_ms": 194125,
+      "name": "Try Me",
+      "url": "https://open.spotify.com/track/2x4X4bn0hzj2AJLC7jPfJa"
+    },
     {
       "added_at": "2022-09-01 16:05:48",
       "album": {

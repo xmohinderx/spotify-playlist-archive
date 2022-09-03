@@ -1,12 +1,12 @@
 {
   "description": "The Latin Pop hits of yesterday and today all in one place!\n\n",
-  "num_followers": 1134068,
+  "num_followers": 1134105,
   "original_name": "Now & Then Latin Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Mjk5ODU1NiwwMDAwMDAwMDU1MGI2NDdkOWY2ZTAyMzI3ZGZiNGNhNjg2YTJiYWJk",
+  "snapshot_id": "MTY1Mjk5ODU1NiwwMDAwMDAwMDRkYjMzODUzOGQxZmY2ZjUxNzFiNDViZjJlMDBlYjVk",
   "tracks": [
     {
       "added_at": "2022-04-07 20:26:02",
@@ -683,22 +683,6 @@
     {
       "added_at": "2022-04-07 20:26:02",
       "album": {
-        "name": "Experimento",
-        "url": "https://open.spotify.com/album/1KKwufGzWD4zIKqlBCtwWv"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 222728,
-      "name": "Experimento",
-      "url": "https://open.spotify.com/track/6c32C8T3KlXrbvWSoD5aON"
-    },
-    {
-      "added_at": "2022-04-07 20:26:02",
-      "album": {
         "name": "Independiente + Demos",
         "url": "https://open.spotify.com/album/3LrWQfyoO7cEc7ZGkWqHgy"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 265306,
       "name": "Fuiste T\u00fa (feat. Gaby Moreno)",
       "url": "https://open.spotify.com/track/29csiYMOfBmLmGwxmISrMy"
+    },
+    {
+      "added_at": "2022-04-07 20:26:02",
+      "album": {
+        "name": "Experimento",
+        "url": "https://open.spotify.com/album/1KKwufGzWD4zIKqlBCtwWv"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 222728,
+      "name": "Experimento",
+      "url": "https://open.spotify.com/track/6c32C8T3KlXrbvWSoD5aON"
     },
     {
       "added_at": "2022-04-07 20:26:02",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2022-04-07 20:26:02",
       "album": {
-        "name": "ADMV",
-        "url": "https://open.spotify.com/album/6wUJI0qgwrwiYJhFr53Gaa"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 193699,
-      "name": "ADMV",
-      "url": "https://open.spotify.com/track/3eJMSq78dDaFb7VvhNFnq6"
-    },
-    {
-      "added_at": "2022-04-07 20:26:02",
-      "album": {
         "name": "Yo Creo",
         "url": "https://open.spotify.com/album/3AprieF2G5BAcPGbeANZ6e"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 222826,
       "name": "Que Lo Nuestro Se Quede Nuestro",
       "url": "https://open.spotify.com/track/3rtxFFGZ10e2vYBo7PsPf2"
+    },
+    {
+      "added_at": "2022-04-07 20:26:02",
+      "album": {
+        "name": "ADMV",
+        "url": "https://open.spotify.com/album/6wUJI0qgwrwiYJhFr53Gaa"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 193699,
+      "name": "ADMV",
+      "url": "https://open.spotify.com/track/3eJMSq78dDaFb7VvhNFnq6"
     },
     {
       "added_at": "2022-04-07 20:26:02",
@@ -1219,42 +1219,6 @@
     {
       "added_at": "2022-04-07 20:26:02",
       "album": {
-        "name": "A Un Paso De La Luna",
-        "url": "https://open.spotify.com/album/0IuCnS7obPd6pE3lJx0Ax8"
-      },
-      "artists": [
-        {
-          "name": "Ana Mena",
-          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
-        },
-        {
-          "name": "Rocco Hunt",
-          "url": "https://open.spotify.com/artist/0L1f9i3L3fkMNENljDOsjG"
-        }
-      ],
-      "duration_ms": 167313,
-      "name": "A Un Paso De La Luna",
-      "url": "https://open.spotify.com/track/7ql2RUmAmj36tkMUNWo7MT"
-    },
-    {
-      "added_at": "2022-04-07 20:26:02",
-      "album": {
-        "name": "Guerra (+ Sessions Recorded at Abbey Road)",
-        "url": "https://open.spotify.com/album/0sGgHg4QRIBACnetu6z45Z"
-      },
-      "artists": [
-        {
-          "name": "Carlos Rivera",
-          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
-        }
-      ],
-      "duration_ms": 196040,
-      "name": "Me Muero",
-      "url": "https://open.spotify.com/track/4dpTz2Tgczw9lDdBAT0fvT"
-    },
-    {
-      "added_at": "2022-04-07 20:26:02",
-      "album": {
         "name": "Rayando El Sol (feat. Pablo Albor\u00e1n)",
         "url": "https://open.spotify.com/album/7h8WIue8MJiW8Erw1Nr6N8"
       },
@@ -1275,6 +1239,26 @@
     {
       "added_at": "2022-04-07 20:26:02",
       "album": {
+        "name": "A Un Paso De La Luna",
+        "url": "https://open.spotify.com/album/0IuCnS7obPd6pE3lJx0Ax8"
+      },
+      "artists": [
+        {
+          "name": "Ana Mena",
+          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
+        },
+        {
+          "name": "Rocco Hunt",
+          "url": "https://open.spotify.com/artist/0L1f9i3L3fkMNENljDOsjG"
+        }
+      ],
+      "duration_ms": 167313,
+      "name": "A Un Paso De La Luna",
+      "url": "https://open.spotify.com/track/7ql2RUmAmj36tkMUNWo7MT"
+    },
+    {
+      "added_at": "2022-04-07 20:26:02",
+      "album": {
         "name": "Bajo La Mesa",
         "url": "https://open.spotify.com/album/7skwkKwi2c3AZF5oBQDUY0"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 157080,
       "name": "Bajo La Mesa",
       "url": "https://open.spotify.com/track/7BEPdOI0neT6p7PnLViqmH"
+    },
+    {
+      "added_at": "2022-04-07 20:26:02",
+      "album": {
+        "name": "Guerra (+ Sessions Recorded at Abbey Road)",
+        "url": "https://open.spotify.com/album/0sGgHg4QRIBACnetu6z45Z"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rivera",
+          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
+        }
+      ],
+      "duration_ms": 196040,
+      "name": "Me Muero",
+      "url": "https://open.spotify.com/track/4dpTz2Tgczw9lDdBAT0fvT"
     },
     {
       "added_at": "2022-04-07 20:26:02",
@@ -1419,26 +1419,6 @@
     {
       "added_at": "2022-04-07 20:26:02",
       "album": {
-        "name": "Casualidad",
-        "url": "https://open.spotify.com/album/2TMrMWOfJY01n2MRhANkWi"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        },
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        }
-      ],
-      "duration_ms": 193112,
-      "name": "Casualidad",
-      "url": "https://open.spotify.com/track/5FcT2TuosRkokjn3xyncER"
-    },
-    {
-      "added_at": "2022-04-07 20:26:02",
-      "album": {
         "name": "Afrodis\u00edaco",
         "url": "https://open.spotify.com/album/3fq06DDIkadDRB9RuBb22v"
       },
@@ -1455,6 +1435,26 @@
       "duration_ms": 222680,
       "name": "Tattoo - Remix with Camilo",
       "url": "https://open.spotify.com/track/4G3PTss3mU33Tau7t4KbwE"
+    },
+    {
+      "added_at": "2022-04-07 20:26:02",
+      "album": {
+        "name": "Casualidad",
+        "url": "https://open.spotify.com/album/2TMrMWOfJY01n2MRhANkWi"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        },
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "duration_ms": 193112,
+      "name": "Casualidad",
+      "url": "https://open.spotify.com/track/5FcT2TuosRkokjn3xyncER"
     },
     {
       "added_at": "2022-04-07 20:26:02",
@@ -1779,22 +1779,6 @@
     {
       "added_at": "2022-04-07 20:26:02",
       "album": {
-        "name": "Al Lau",
-        "url": "https://open.spotify.com/album/3ub3CVweJ2BJAZD1PTm4st"
-      },
-      "artists": [
-        {
-          "name": "Lele Pons",
-          "url": "https://open.spotify.com/artist/6i3DxIlAqnDkwELLw4aVrx"
-        }
-      ],
-      "duration_ms": 164184,
-      "name": "Al Lau",
-      "url": "https://open.spotify.com/track/1oeIC89Q2kH7pBhUnGGFi0"
-    },
-    {
-      "added_at": "2022-04-07 20:26:02",
-      "album": {
         "name": "b\u00e1ilame en los besos (with Danny Ocean & Daramola)",
         "url": "https://open.spotify.com/album/42xtXqJiVEqAHLCXbKhSVX"
       },
@@ -1815,6 +1799,22 @@
       "duration_ms": 207980,
       "name": "b\u00e1ilame en los besos (with Danny Ocean & Daramola)",
       "url": "https://open.spotify.com/track/2Ux9T8N2b0GRTOSfenwxlr"
+    },
+    {
+      "added_at": "2022-04-07 20:26:02",
+      "album": {
+        "name": "Al Lau",
+        "url": "https://open.spotify.com/album/3ub3CVweJ2BJAZD1PTm4st"
+      },
+      "artists": [
+        {
+          "name": "Lele Pons",
+          "url": "https://open.spotify.com/artist/6i3DxIlAqnDkwELLw4aVrx"
+        }
+      ],
+      "duration_ms": 164184,
+      "name": "Al Lau",
+      "url": "https://open.spotify.com/track/1oeIC89Q2kH7pBhUnGGFi0"
     },
     {
       "added_at": "2022-04-07 20:26:02",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cjKvsL1KlZ.md) - [plain]
 
 > Sounds of New York curated by <a href="https://www.instagram.com/sidetalknyc/">Sidetalk</a>, New York’s one\-minute street show
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,896 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,987 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cjKvsL1KlZ.md) - [plain]
 | 35 | [Only Fans](https://open.spotify.com/track/2aDVipOC8oKpij3lDQ6kfh) | [26ar](https://open.spotify.com/artist/5Juzk12OF6455izbnUr10x) | [Drench Em](https://open.spotify.com/album/5S5RHz9pTEe4P632bBiAmD) | 2:45 |
 | 36 | [Uzi](https://open.spotify.com/track/7bYMYyBCfWSfoC2zRacK2x) | [Dougie B](https://open.spotify.com/artist/6ykgQbKcZFy5qoKBU4YiWj) | [Uzi](https://open.spotify.com/album/17PdpZnabSvsU9mopDQo3t) | 2:27 |
 | 37 | [Ain't Care](https://open.spotify.com/track/4xeAQ6sFPZzhR3lWdlMaqe) | [Bouba Savage](https://open.spotify.com/artist/6IvMzEgPA1Ftl3XbMV0s0m) | [Ain't Care](https://open.spotify.com/album/4FFQEpyPlQoHlIJ4EvXWAO) | 1:49 |
-| 38 | [Jus Lef Phoenix](https://open.spotify.com/track/1DlOo9zWP7nMZWa2OdC9jz) | [A$AP Twelvyy](https://open.spotify.com/artist/0tPjSrb43a58uznKru1k2P) | [A Quarter Til](https://open.spotify.com/album/5SfDBaDWh1Oz5HrJhPCkRU) | 1:32 |
+| 38 | [Jus Lef Phoenix](https://open.spotify.com/track/67ildkjzEsv38VbiUoCVnc) | [A$AP Twelvyy](https://open.spotify.com/artist/0tPjSrb43a58uznKru1k2P) | [A Quarter Til](https://open.spotify.com/album/1pH42Rw6Ug6qxBwWFc00Z8) | 1:32 |
 | 39 | [Rowdy vs\. Rebel](https://open.spotify.com/track/7jiqbtYrKrdE7T6WekI7vt) | [Rowdy Rebel](https://open.spotify.com/artist/6LXRvV2OAtXF7685fzh3mj) | [Rebel vs\. Rowdy](https://open.spotify.com/album/0zxvDMvFNW7h9JQb4oq2eS) | 2:42 |
 | 40 | [Dreams N' Nightmares](https://open.spotify.com/track/6q8UIzUSII0Nw62S1IBOIg) | [Quelly Woo](https://open.spotify.com/artist/5PPetvBg4hGBkco4Y267hd) | [Dreams N' Nightmares](https://open.spotify.com/album/4CdqgQybE89xHoIgFYfLnU) | 2:16 |
 | 41 | [Strangers \(feat\. A$AP Rocky and Run The Jewels\)](https://open.spotify.com/track/5iP1KNUxchR64bieN9pE7z) | [Danger Mouse](https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf), [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Run The Jewels](https://open.spotify.com/artist/4RnBFZRiMLRyZy0AzzTg2C) | [Strangers \(feat\. A$AP Rocky and Run The Jewels\)](https://open.spotify.com/album/6OHZ8QAgIJC7nPwACpWqG8) | 4:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cjKvsL1KlZ.md) - [plain]
 | 49 | [Frat Rules \(feat\. A$AP Rocky, Playboi Carti & Big Sean\)](https://open.spotify.com/track/0RyA3o15NOLJYtm9NlDu5c) | [A$AP Mob](https://open.spotify.com/artist/7yO4IdJjCEPz7YgZMe25iS), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Cozy Tapes Vol\. 2: Too Cozy](https://open.spotify.com/album/0qr1Fvi1haEDWVbFtekZLb) | 3:38 |
 | 50 | [Merci Beaucoup](https://open.spotify.com/track/6mPZVis3gEGSSR2rhxlehT) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Faith](https://open.spotify.com/album/2MlT9dGKoGH2hsfcz7UUXL) | 2:55 |
 
-Snapshot ID: `MTY2MTIwOTYxNywwMDAwMDAwMDFkNjdlNTRlYzg3NjU2ZmU5MjE5MjIwNDIxOGFkYzA5`
+Snapshot ID: `MTY2MTIwOTYxNywwMDAwMDAwMGYwYzZlNGMyNjA1ODNhYjQ3MjkzMGE2OWY2Yjk4OWJi`

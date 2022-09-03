@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-05-22",
-  "description": "The best of UK Rap & Drill.  Cover: Jbee",
+  "description": "The best of UK Rap & Drill.  Cover: Yung Fume",
   "name": "Rap UK",
   "published_playlist_ids": [
     "5FuQUpQ2GSOITS1tCcS7A2"
@@ -2890,6 +2890,24 @@
     },
     {
       "album": {
+        "name": "Berlin",
+        "url": "https://open.spotify.com/album/7apJG7RDrKlucsqpDt3qCp"
+      },
+      "artists": [
+        {
+          "name": "SL",
+          "url": "https://open.spotify.com/artist/0wY1K9SgxbaRfoFRmSR5x5"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144135,
+      "name": "Berlin",
+      "url": "https://open.spotify.com/track/7CqqX8wSqvsXaUx4SWIHyN"
+    },
+    {
+      "album": {
         "name": "Best Shot",
         "url": "https://open.spotify.com/album/5NbXA7jB4xToWGBJLIRmsA"
       },
@@ -3479,7 +3497,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 165507,
       "name": "blessing me (with Pa Salieu & Skillibeng)",
       "url": "https://open.spotify.com/track/3wyfDf57MYVDeGW8qYIWsn"
@@ -5992,6 +6010,24 @@
     },
     {
       "album": {
+        "name": "Da Maximum",
+        "url": "https://open.spotify.com/album/3WnIb2NtzmtNUs12uS7azx"
+      },
+      "artists": [
+        {
+          "name": "Giggs",
+          "url": "https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167683,
+      "name": "Da Maximum",
+      "url": "https://open.spotify.com/track/0aPp6AoN4sZg4a9tXmowKd"
+    },
+    {
+      "album": {
         "name": "The Godfather 3",
         "url": "https://open.spotify.com/album/59lh0EJ7FGeio8iP101six"
       },
@@ -7105,6 +7141,24 @@
       "duration_ms": 141020,
       "name": "Don't Sleep",
       "url": "https://open.spotify.com/track/70dAhHaNpyVSpiIaikbo2p"
+    },
+    {
+      "album": {
+        "name": "Don't wake me",
+        "url": "https://open.spotify.com/album/6jng0PAGyojiyAjwfEGpeG"
+      },
+      "artists": [
+        {
+          "name": "Novelist",
+          "url": "https://open.spotify.com/artist/4OPTZC24954HYBeHKeoLSc"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175000,
+      "name": "Don't wake me",
+      "url": "https://open.spotify.com/track/1CbfBucpCtSpTObMAHskQq"
     },
     {
       "album": {
@@ -10227,6 +10281,24 @@
     {
       "album": {
         "name": "Highest",
+        "url": "https://open.spotify.com/album/4mmkr3avUy6hzxtA69l6aN"
+      },
+      "artists": [
+        {
+          "name": "FLOHIO",
+          "url": "https://open.spotify.com/artist/7qffELscxpltKCso3ByH67"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186408,
+      "name": "Highest",
+      "url": "https://open.spotify.com/track/7u67mIFOxmyRXC0AoA8qSz"
+    },
+    {
+      "album": {
+        "name": "Highest",
         "url": "https://open.spotify.com/album/4FUAyUwLwNwkXRmUqc71OM"
       },
       "artists": [
@@ -11967,6 +12039,28 @@
       "duration_ms": 134567,
       "name": "Last Night In Brixton",
       "url": "https://open.spotify.com/track/6F7zun3KXebaBImS9S085I"
+    },
+    {
+      "album": {
+        "name": "Noughts & Crosses, Vol. 2",
+        "url": "https://open.spotify.com/album/77hUVaTjr5HgLcuQ1ovF4k"
+      },
+      "artists": [
+        {
+          "name": "Yung Fume",
+          "url": "https://open.spotify.com/artist/1h5mZb0u9bcFGeViohj87o"
+        },
+        {
+          "name": "Lorine Chia",
+          "url": "https://open.spotify.com/artist/6NnWCx7mer62qXytwEKZm9"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265263,
+      "name": "Late Night Thinking",
+      "url": "https://open.spotify.com/track/7u2gCYLTgJEJUMBX7rKbBN"
     },
     {
       "album": {
@@ -23237,6 +23331,28 @@
       "duration_ms": 180201,
       "name": "Who Cares",
       "url": "https://open.spotify.com/track/2HEKpchL28AQKWZ9SZw7rB"
+    },
+    {
+      "album": {
+        "name": "Who Else (feat. Unknown T)",
+        "url": "https://open.spotify.com/album/3dVDMKUj4X35IMG63SCbwe"
+      },
+      "artists": [
+        {
+          "name": "Tion Wayne",
+          "url": "https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt"
+        },
+        {
+          "name": "Unknown T",
+          "url": "https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154285,
+      "name": "Who Else (feat. Unknown T)",
+      "url": "https://open.spotify.com/track/6BERzZBkuvnjuf7dUYOL3R"
     },
     {
       "album": {

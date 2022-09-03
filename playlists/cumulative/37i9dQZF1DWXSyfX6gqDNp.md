@@ -2,7 +2,7 @@
 
 ### [Evening Jazz](https://open.spotify.com/playlist/37i9dQZF1DWXSyfX6gqDNp)
 
-> Slow jazz for evening listening pleasure.
+> Slow instrumental jazz for evening listening pleasure.
 
 161 songs - 11 hr 4 min - [published](https://open.spotify.com/playlist/5fb91bkAejoTbTEhFeEeo3)
 

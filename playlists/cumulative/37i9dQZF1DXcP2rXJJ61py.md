@@ -4,7 +4,7 @@
 
 > The official playlist for House of the Dragon \(and House Targaryen\)\. Watch Sundays on HBO Max.
 
-40 songs - 2 hr 12 min - not published yet
+40 songs - 2 hr 12 min - [published](https://open.spotify.com/playlist/6wtPhYZd7evCLez2bU4QX6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

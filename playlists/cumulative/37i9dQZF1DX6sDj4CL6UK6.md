@@ -2,9 +2,9 @@
 
 ### [IndiEnglish](https://open.spotify.com/playlist/37i9dQZF1DX6sDj4CL6UK6)
 
-> Finest of the Indian English Indie\. Cover \- Prateek Kuhad
+> Finest of the Indian English Indie\. Cover \-Parekh & Singh
 
-103 songs - 5 hr 58 min - [published](https://open.spotify.com/playlist/4hbRgfKnTzMsI4t17faPau)
+109 songs - 6 hr 21 min - [published](https://open.spotify.com/playlist/4hbRgfKnTzMsI4t17faPau)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Alive With You](https://open.spotify.com/track/2olspTlBoEJZvoDDMEEKtz) | [Ribhavv](https://open.spotify.com/artist/01nF5O4sTf8RDuec39ZPnp) | [Alive With You](https://open.spotify.com/album/0TOntj1DBUeTOitcPD6Yj0) | 3:12 | 2022-03-25 | 2022-04-06 |
 | [All I Need](https://open.spotify.com/track/47hXMyQDGW8sA1NGqmFL7h) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [The Way That Lovers Do](https://open.spotify.com/album/4WLh56ZjwINYBNhaxLvEhA) | 2:33 | 2022-05-20 |  |
 | [Am I Overthinking This?](https://open.spotify.com/track/0nHm0hPOwDYwwCbZUs0XKv) | [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN) | [Am I Overthinking This?](https://open.spotify.com/album/54UsiUkSKRfIkSc7qPAhn1) | 2:47 | 2022-04-08 |  |
+| [Angel](https://open.spotify.com/track/3fiJON79NQ5PfWniQ6EK3i) | [Prabhtoj Singh](https://open.spotify.com/artist/78XtO5iHFCF6gSqWV18AWA), [Aman Sagar](https://open.spotify.com/artist/44RHVQwXmrmkfsOnSuURmF) | [Angel](https://open.spotify.com/album/0TbvqQkBA8c5zrkpXNOn7G) | 3:06 | 2022-09-02 |  |
 | [Around you](https://open.spotify.com/track/3yxInFvUf3YkNbqt4UTPNZ) | [Kaxi](https://open.spotify.com/artist/2Aaz4mQGMr0iuyBE2lcfxn) | [Around you](https://open.spotify.com/album/7dhNRW5oEv6WCdRcaA3XDm) | 3:33 | 2022-03-25 | 2022-04-06 |
 | [As I'm Getting Older](https://open.spotify.com/track/1BwO9XLe7M3Qc4wrZ69wk9) | [Tejas](https://open.spotify.com/artist/4CK1oDthUad8mQBb8GAcfl) | [As I'm Getting Older](https://open.spotify.com/album/4KzZtZPmRN1YfdIWczXFb7) | 3:33 | 2022-03-25 |  |
 | [Bad for Me](https://open.spotify.com/track/4h5YzicLLdtt8NSRU8cRmF) | [Akshath](https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo) | [Bad for Me](https://open.spotify.com/album/6I3uThRU2DxXUG7HlQJn2a) | 3:23 | 2022-03-25 |  |
@@ -32,6 +33,7 @@
 | [Dear Us](https://open.spotify.com/track/1Yt5Jo4jR1eLpxAj05vCvN) | [Jeremiah de Rozario](https://open.spotify.com/artist/77JtYqejZiIOtqTfrtadna) | [Dear Us](https://open.spotify.com/album/3cauT2XM9GVuKgnv0uUEtm) | 3:06 | 2022-03-25 |  |
 | [Desert Island](https://open.spotify.com/track/4v4lyqBQuvFyIzPkrVX1xQ) | [Nikhil D'Souza](https://open.spotify.com/artist/39fT56OHEL2E98zDKrqBsC) | [Desert Island](https://open.spotify.com/album/0FOG8vBG0OfDwFVfKDwf29) | 3:28 | 2022-03-25 |  |
 | [DFWM](https://open.spotify.com/track/6356OPdyCg97sRoBnYyTwe) | [Kayan](https://open.spotify.com/artist/3lfolnS8yn0VWK2FKM0hWs), [Oceantied](https://open.spotify.com/artist/755GG4WXDoBMcDlcBEwgp3) | [DFWM](https://open.spotify.com/album/2wu92Nq78NWpXjL6S2Uu0M) | 3:17 | 2022-03-25 | 2022-05-22 |
+| [Disconnect](https://open.spotify.com/track/2aiQyxSMWMvmKs4YC9Av7a) | [Pragnya Wakhlu](https://open.spotify.com/artist/2YIHuXM9ivsh3cGQ0Ne1tl) | [Disconnect](https://open.spotify.com/album/73Kr7Mho0OoSB7DCVUk0Ez) | 4:19 | 2022-09-02 |  |
 | [Dream Girl](https://open.spotify.com/track/669SiWtpzweozGGgO9bGVx) | [Jhalli](https://open.spotify.com/artist/4WYrwXBnVA79QFb6pI3xEf) | [Why Should I?](https://open.spotify.com/album/294eYYYdub5x8R5nwQCDRB) | 3:16 | 2022-04-28 | 2022-05-08 |
 | [Dreaming In My Mind](https://open.spotify.com/track/5d0vzUSG3l87BRtGR726RN) | [Jaden Maskie](https://open.spotify.com/artist/14GDCPY8cDyxLReAEXiNt0) | [Dreaming In My Mind](https://open.spotify.com/album/1pCyN5L4pRaw7l0ouq9AFF) | 3:14 | 2022-03-25 |  |
 | [Everything's Fine?](https://open.spotify.com/track/5dST1RxAvJtCeyogTnn6dr) | [Sanjeeta Bhattacharya](https://open.spotify.com/artist/4Kz7utJFZMqzO9lS4mfgvc) | [Everything's Fine?](https://open.spotify.com/album/42zEB4XQfZXWn8pNGT7vF8) | 4:19 | 2022-03-25 | 2022-05-26 |
@@ -72,12 +74,14 @@
 | [Lt Dwn](https://open.spotify.com/track/4f1spv2bssB5VP9VGgzH1i) | [Moondrip](https://open.spotify.com/artist/4nDtB3eC5cOCiA27wYqDTh) | [Lt Dwn](https://open.spotify.com/album/5ldsw3j4SYLuTmtc4jLWGm) | 4:07 | 2022-03-25 |  |
 | [Makin' My Move](https://open.spotify.com/track/7FQ8a1PJLyQkiJCeI8MTVD) | [Easy Wanderlings](https://open.spotify.com/artist/2hfWu4We2fbIRY9kClxBHT) | [Makin' My Move](https://open.spotify.com/album/150hkUZW2dWT2CEDvk5UA1) | 4:19 | 2022-03-25 |  |
 | [Medieval Minds](https://open.spotify.com/track/5rhCzgfI1KYJJeCRvb10Kw) | [Shashaa Tirupati](https://open.spotify.com/artist/12CpR4SNDzVIlDoPSeNFeW), [Keba Jeremiah](https://open.spotify.com/artist/6DkjwBFBsTAzEo9M5HCI9c) | [Medieval Minds](https://open.spotify.com/album/4Wu97w4VsQIhIZ1br2Modf) | 3:49 | 2022-04-12 |  |
+| [Midnite Spaceflite](https://open.spotify.com/track/6Rwdw7zWGXojCdpRvF661T) | [Aditya Rao](https://open.spotify.com/artist/1R1TnxUWLvnOzsBChmemTa) | [Midnite Spaceflite](https://open.spotify.com/album/0IeEWXCjt42ZgAVRUnPmWn) | 3:26 | 2022-09-02 |  |
 | [Miracle](https://open.spotify.com/track/5daYg1jlX2JoOgDnlK4V0m) | [Jaden Maskie](https://open.spotify.com/artist/14GDCPY8cDyxLReAEXiNt0) | [Miracle](https://open.spotify.com/album/2OPof019rnmR6xThgEF71j) | 3:49 | 2022-03-25 |  |
 | [Mustard Yellow](https://open.spotify.com/track/2lY8B9x9JyQI6SVyp9OdtL) | [Jeremiah de Rozario](https://open.spotify.com/artist/77JtYqejZiIOtqTfrtadna) | [Mustard Yellow](https://open.spotify.com/album/7BECaIEpCKN0iFmnm8KxWp) | 4:04 | 2022-03-25 | 2022-05-26 |
 | [Mutual](https://open.spotify.com/track/25T9KzOqSe44j3nsWuKfiM) | [RANJ](https://open.spotify.com/artist/1vR6C8xoVTgy9yVRsCsr7H), [Clifr](https://open.spotify.com/artist/1o9ja4Dha8IqKI3e5DpH14) | [Mutual](https://open.spotify.com/album/5zjzWWpPmYwZVTTHXOL3Vy) | 2:35 | 2022-03-25 |  |
 | [Never](https://open.spotify.com/track/1gfzJ5dFmiciUmt1DXt4ty) | [Sukruth Mallesh](https://open.spotify.com/artist/51tevckKFOo3yISAc0JDh1) | [Never](https://open.spotify.com/album/5Dok14CF9Vg7F9J6NNpohN) | 3:08 | 2022-07-08 |  |
 | [Ocean Calls My Name](https://open.spotify.com/track/0E6j1oe4eGdjtb039vhXq8) | [Anupam Roy](https://open.spotify.com/artist/5LZ894xYE9MG1sal0gjt5L) | [Ocean Calls My Name](https://open.spotify.com/album/554nCrw78BshclRnREAjUV) | 4:23 | 2022-03-25 |  |
 | [On My Own](https://open.spotify.com/track/12jHntVUvHSFiXiLW1eaVy) | [Kayan](https://open.spotify.com/artist/3lfolnS8yn0VWK2FKM0hWs) | [On My Own](https://open.spotify.com/album/3IpkOKy7xlKRyJ8TNZGOz0) | 2:36 | 2022-03-25 |  |
+| [Paper Boats](https://open.spotify.com/track/4Js7oC6qWF8UgZgnBBVDfO) | [Chirag Todi](https://open.spotify.com/artist/44kXrtuLNc6FpMB8YNbMdE), [Gouri and Aksha](https://open.spotify.com/artist/2pEp8Qlef5Pj2KHSE61zrF) | [Paper Boats](https://open.spotify.com/album/2zFL0B15XOryvnMv5QyVyI) | 3:47 | 2022-09-02 |  |
 | [Pause](https://open.spotify.com/track/5h1L6nOR9QYXeeNW14aeus) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Pause](https://open.spotify.com/album/3vKSAwLbfwXygEiGH1vpvs) | 2:51 | 2022-03-25 |  |
 | [People](https://open.spotify.com/track/0lygeGFALYsTrHXi6yThOK) | [Nikhil D'Souza](https://open.spotify.com/artist/39fT56OHEL2E98zDKrqBsC) | [People \- Single](https://open.spotify.com/album/3ltUujzRKci71C5quo9TNS) | 3:08 | 2022-03-25 |  |
 | [Permanent Food](https://open.spotify.com/track/2tt1Q2eYTrMl7fhfPqOGlG) | [Shantanu Pandit](https://open.spotify.com/artist/0s6UCPuypDgqfdqp0bypNG) | [Permanent Food](https://open.spotify.com/album/4mwKW9CZbncuZCitTBQbRc) | 2:34 | 2022-03-25 |  |
@@ -96,6 +100,7 @@
 | [Sleepyhead](https://open.spotify.com/track/5WppvSzsJBoQhT6V8HV9U8) | [Parekh & Singh](https://open.spotify.com/artist/5HyacDSdBkCTDOBoX49ayp) | [Sleepyhead](https://open.spotify.com/album/3fw8NcJqdA53NtZHGzU6cS) | 3:06 | 2022-03-25 |  |
 | [So Good](https://open.spotify.com/track/0CawrCDxkBgaR2ImcpQYMm) | [OAFF](https://open.spotify.com/artist/2k66ibJfgMigF5QWqUgLyR), [Kayan](https://open.spotify.com/artist/3lfolnS8yn0VWK2FKM0hWs) | [So Good](https://open.spotify.com/album/7zp2nLduPlDbfn9ejFTuZE) | 2:59 | 2022-03-25 |  |
 | [Someone To Rely On](https://open.spotify.com/track/3ObhVfAPn5qYx2ZNBvA6nK) | [Dropped Out](https://open.spotify.com/artist/7zN7ZzgJdUZdEcbecViK4N), [Ramya Pothuri](https://open.spotify.com/artist/0JgLc59DdeDlgyZtnvAJQ6) | [Someone To Rely On](https://open.spotify.com/album/1TMHobI2cDoQtCzullJbVG) | 3:57 | 2022-07-29 |  |
+| [Songbird](https://open.spotify.com/track/5VkxoPlgC2ujrWX5anVdax) | [Parekh & Singh](https://open.spotify.com/artist/5HyacDSdBkCTDOBoX49ayp) | [The Night is Clear](https://open.spotify.com/album/4AzsujfeRZCjymYlgxOpjm) | 3:44 | 2022-09-02 |  |
 | [sophomore sweetheart](https://open.spotify.com/track/3PaBfBBp3jJw6sxMp0E669) | [sunflower tape machine](https://open.spotify.com/artist/5Bk7ZZFYTY2ILPZljqdfrf) | [sophomore sweetheart](https://open.spotify.com/album/7BF29uGUwtFWrJNV71JkXv) | 3:37 | 2022-03-25 |  |
 | [Spare My Heart](https://open.spotify.com/track/5jjnLuRNoiLsk2Ew7of6rI) | [Imcha Imchen](https://open.spotify.com/artist/279G7M1MozdYogR2qrcMtA) | [Spare My Heart](https://open.spotify.com/album/4yF6GYnhCa6GZvLBujpp0D) | 2:43 | 2022-03-25 |  |
 | [Start Over](https://open.spotify.com/track/00o6tjjeGukLZiL6E42Oki) | [Utope](https://open.spotify.com/artist/7vv9ZatuDKlxihVvSbLHbN), [Jaden Maskie](https://open.spotify.com/artist/14GDCPY8cDyxLReAEXiNt0) | [Start Over](https://open.spotify.com/album/4uAIRF3atS9Oy6xxmVoFdC) | 2:38 | 2022-03-25 |  |
@@ -103,6 +108,7 @@
 | [Sucks To Be Human](https://open.spotify.com/track/0Rn2cteUVGOabK55rQVN3Z) | [The F16s](https://open.spotify.com/artist/5PVlXEAvlt6SfYpWBYTM4C) | [Sucks To Be Human](https://open.spotify.com/album/69EKPVK5owroH5jbQhlXv7) | 3:25 | 2022-03-25 | 2022-07-29 |
 | [Sucks to Be Human](https://open.spotify.com/track/6z0GP8AOTDIShCXUOw1E3Y) | [The F16s](https://open.spotify.com/artist/5PVlXEAvlt6SfYpWBYTM4C) | [Sucks to Be Human](https://open.spotify.com/album/27Ume3SwDAJJd4h0vQBdgd) | 3:25 | 2022-07-28 |  |
 | [Swimming](https://open.spotify.com/track/0jf7Z8WEKagWMyIIqioial) | [Kamakshi Khanna](https://open.spotify.com/artist/1HMOlfBc4CK1WXcIeNnLPq), [Sanjeeta Bhattacharya](https://open.spotify.com/artist/4Kz7utJFZMqzO9lS4mfgvc) | [Swimming](https://open.spotify.com/album/4cmTN5VnKA4aMvsMv0IzTQ) | 3:23 | 2022-03-25 |  |
+| [The End](https://open.spotify.com/track/0IkVhFaDqI39XlTRl5VPoK) | [Avanti Nagral](https://open.spotify.com/artist/2Wwa2Sov84hVY7Hxfqu71Y) | [The End](https://open.spotify.com/album/7pT89w7mNXavMZjUZOz7qn) | 3:46 | 2022-09-02 |  |
 | [Through These Years](https://open.spotify.com/track/34OnHRNEwBUIzICP1FulTO) | [Semwal](https://open.spotify.com/artist/0uNhaTjKYwyBEKJoG7gPjq), [Sparsh Dangwal](https://open.spotify.com/artist/1SClATlfgXE2qlr4FcEhUS) | [Through These Years](https://open.spotify.com/album/2i4UWMCrYHyvV1pSllSDpu) | 3:43 | 2022-03-25 |  |
 | [Tomorrow](https://open.spotify.com/track/7IrCTxnRCyhLhTYEf729Ni) | [Chai Lenin](https://open.spotify.com/artist/3yG7K52cBqJ7HPqrNKsAF3) | [Tomorrow](https://open.spotify.com/album/46ergrjBnO4VMGR4gc6HbS) | 3:59 | 2022-03-25 |  |
 | [Traffic](https://open.spotify.com/track/4z2oHMR3XlJJyyME3ZOkPr) | [Till Apes](https://open.spotify.com/artist/7qzkGpR5qvkIVPXN5UwvVZ) | [ill tapes, Vol\. 1](https://open.spotify.com/album/16UYyBhOMc8C6wCLagb1Vr) | 2:18 | 2022-05-06 |  |

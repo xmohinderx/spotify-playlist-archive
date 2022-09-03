@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX15iTqq2X8NE.md) - [plain]
 
 > A journey in the modern & old Sudanese sounds.<br/>Cover: Soulja
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,438 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,445 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,26 +37,26 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX15iTqq2X8NE.md) - [plain]
 | 27 | [pretty kitten](https://open.spotify.com/track/2VvirlkCrKMtmMJyJJSOx8) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB) | [pretty kitten](https://open.spotify.com/album/2QUUYnHejVdzcIp3pQPAEm) | 2:22 |
 | 28 | [Ejaza](https://open.spotify.com/track/5gZV4PSCLqcDVPklLfqmHk) | [Rotation](https://open.spotify.com/artist/3juZpBl6TvM4KdFKFRj4So), [TooDope](https://open.spotify.com/artist/7D0M64Ii5Iv83dlQ50PMnd) | [Tnt: Injaz](https://open.spotify.com/album/08nO4dVa88kyXFzL89vMVf) | 3:40 |
 | 29 | [Asly](https://open.spotify.com/track/6yd4XAjTaBDb3mXWT0AI4j) | [TooDope](https://open.spotify.com/artist/7D0M64Ii5Iv83dlQ50PMnd), [Eaz Da Bully](https://open.spotify.com/artist/2lGPSSDGEuGfpakifE8kbp) | [Asly](https://open.spotify.com/album/7wLNRBJA0Y1AkV48IKv3Hx) | 3:24 |
-| 30 | [Sudan](https://open.spotify.com/track/7M7e7aCLu2dhbMzEHL1aVO) | [MaMan](https://open.spotify.com/artist/4OGMVOTexmW4hEV4bZMX30), [Aidyproof](https://open.spotify.com/artist/7uzLUplPMKoZZ8ZC5XoeIN) | [Sudan](https://open.spotify.com/album/2qCIMTuoQUvvLHss2eZxUj) | 2:58 |
-| 31 | [Bouquets \(Freestyle\)](https://open.spotify.com/track/4A52eJ2VD8d2wQxaH4ckMv) | [G\-SALIH](https://open.spotify.com/artist/3scwYk1hqSSlet4g32bRw6) | [Bouquets \(Freestyle\)](https://open.spotify.com/album/6sqH8lc5qVrsvtRMJWcTtq) | 3:12 |
+| 30 | [Bouquets \(Freestyle\)](https://open.spotify.com/track/4A52eJ2VD8d2wQxaH4ckMv) | [G\-SALIH](https://open.spotify.com/artist/3scwYk1hqSSlet4g32bRw6) | [Bouquets \(Freestyle\)](https://open.spotify.com/album/6sqH8lc5qVrsvtRMJWcTtq) | 3:12 |
+| 31 | [Sudan](https://open.spotify.com/track/7M7e7aCLu2dhbMzEHL1aVO) | [MaMan](https://open.spotify.com/artist/4OGMVOTexmW4hEV4bZMX30), [Aidyproof](https://open.spotify.com/artist/7uzLUplPMKoZZ8ZC5XoeIN) | [Sudan](https://open.spotify.com/album/2qCIMTuoQUvvLHss2eZxUj) | 2:58 |
 | 32 | [النار ولعت](https://open.spotify.com/track/2mvK1TlgqapzTkPoYnv7Px) | [Esaam Satti](https://open.spotify.com/artist/4G0Y7SHFiexAC2U8UU5EVy), [Ali Naseraldeen](https://open.spotify.com/artist/7f57uC78jbchvWZjdQf96c) | [النار ولعت](https://open.spotify.com/album/46sQoHYjvUTY36S6zb2Iy0) | 1:19 |
 | 33 | [Matalib](https://open.spotify.com/track/0chh0JBXHHvrOymWelevQM) | [Sammany](https://open.spotify.com/artist/4NyCG4OTfplfwyO65U7gY7) | [Matalib](https://open.spotify.com/album/4kyeAYBNCYeGHEa2CktKDx) | 4:48 |
 | 34 | [Sit Al Banat \(feat\. Sheme\)](https://open.spotify.com/track/6epkYhfZvmAYz6dbAgP2Jw) | [MarSimba](https://open.spotify.com/artist/04mOXDs7deriXMuchiI48W), [Sheme](https://open.spotify.com/artist/5XKKqryFZZpWO2oVEbBesD) | [Sit Al Banat \(feat\. Sheme\)](https://open.spotify.com/album/7gwGg3MoOvIUPe0kQ4lonz) | 3:26 |
 | 35 | [Argos Farfish](https://open.spotify.com/track/1d4HxmK73RxLhbqEj9k8XD) | [Sharhabil Ahmed](https://open.spotify.com/artist/0caFqNO2pJ97tE5CAqXNRq) | [Habibi Funk: An Eclectic Selection of Music from the Arab World \(Habibi Funk 007\)](https://open.spotify.com/album/1B3W5u06uIB7Elyk70pt9R) | 4:38 |
 | 36 | [Taban Ahwak](https://open.spotify.com/track/6AbIm68PEd1R3ua5n2H2hh) | [Kamal Keila](https://open.spotify.com/artist/3hvpB2JNbOGd2NTjdaDMGl) | [Muslims and Christians \(Habibi Funk 008\)](https://open.spotify.com/album/7eECqp8MX57IOvt5Me1eXM) | 6:31 |
 | 37 | [Farrah Galbi Aljadeed](https://open.spotify.com/track/26vTeYgVVVqNwZLfOicw9p) | [The Scorpions](https://open.spotify.com/artist/0nV4gg0Bp7hJOYCFFMVNzb), [Saif Abu Bakr](https://open.spotify.com/artist/6gA3mg8N7XGRwY1WwKcm8D) | [Jazz, Jazz, Jazz \(Habibi Funk 009\)](https://open.spotify.com/album/46zogVWfGDNCxsJud1x9KV) | 5:01 |
-| 38 | [Blue \- COLORS Sudan](https://open.spotify.com/track/1OdkisCZUpGjqRIEOCVF5X) | [Flippter](https://open.spotify.com/artist/3E60sH2l7t9f4bIfCZo5DX) | [Blue \- COLORS Sudan](https://open.spotify.com/album/654DDiRWyseI6jGG3Wq7k1) | 2:46 |
-| 39 | [Honey Butter](https://open.spotify.com/track/5M1qJ55WcgLKPlVuufaWJF) | [Nadine El Roubi](https://open.spotify.com/artist/0LFs7mfW7n7DOKwmRTO0sf) | [Honey Butter](https://open.spotify.com/album/6h4XKVixD373Cup55t3RYj) | 3:41 |
+| 38 | [Honey Butter](https://open.spotify.com/track/5M1qJ55WcgLKPlVuufaWJF) | [Nadine El Roubi](https://open.spotify.com/artist/0LFs7mfW7n7DOKwmRTO0sf) | [Honey Butter](https://open.spotify.com/album/6h4XKVixD373Cup55t3RYj) | 3:41 |
+| 39 | [Blue \- COLORS Sudan](https://open.spotify.com/track/1OdkisCZUpGjqRIEOCVF5X) | [Flippter](https://open.spotify.com/artist/3E60sH2l7t9f4bIfCZo5DX) | [Blue \- COLORS Sudan](https://open.spotify.com/album/654DDiRWyseI6jGG3Wq7k1) | 2:46 |
 | 40 | [Fan3](https://open.spotify.com/track/0e9wgOCa3s2oqM03jNc2qx) | [Fodi](https://open.spotify.com/artist/4fhdYn7sQME3sJkPuCpYZE) | [Fan3](https://open.spotify.com/album/0RTNur3c132jazOHMua1wU) | 2:19 |
 | 41 | [III IV V](https://open.spotify.com/track/4M9KDFkhwSMVrIbHWtMu2n) | [Rotation](https://open.spotify.com/artist/3juZpBl6TvM4KdFKFRj4So) | [III IV V](https://open.spotify.com/album/2m3crqNTdjgWR46h9FTdDY) | 3:12 |
 | 42 | [Ganay Albreedo](https://open.spotify.com/track/0S45re7HsNZYqlktnE9niZ) | [Taha Suliman](https://open.spotify.com/artist/0f8AQFo3xYsmSvDIrLG94a) | [Ganay Albreedo](https://open.spotify.com/album/1dntlbkIw0jZGk3HIDxu2q) | 5:35 |
 | 43 | [Qamar Al Massa \(Moon of the Night\)](https://open.spotify.com/track/0qFCusOSOxNdjSWuDILGt2) | [Abu Obaida Hassan](https://open.spotify.com/artist/3opqEDktF05rXFAnoFAzFj) | [Qamar Al Massa \(Moon of the Night\)](https://open.spotify.com/album/3MWCstcGYsm2Bqc1muNEOh) | 8:15 |
-| 44 | [Manaok \(Forbidden\)](https://open.spotify.com/track/10LEmxW2mReKO9krEEROLa) | [Amira Kheir](https://open.spotify.com/artist/5WZN5v7MdgFPu29h88MWvh) | [Mystic Dance](https://open.spotify.com/album/3xQYBIIhwi1Xmts6Y8lgSq) | 6:15 |
-| 45 | [Silsila](https://open.spotify.com/track/5KTy5Suuea5uBUID1pwKU5) | [ElKhaleefa](https://open.spotify.com/artist/3tREMnMFWzcm8nzHIPXnBG) | [Silsila](https://open.spotify.com/album/1P1feiWIo2Mtl6HGDS0Gqz) | 3:45 |
-| 46 | [Gatluak](https://open.spotify.com/track/4hO1yAA2fkmAAEhjkUhZOj) | [Nyaruach](https://open.spotify.com/artist/6kpYdtbD0QinjBcwkxLPm3), [Friday](https://open.spotify.com/artist/514K0z1r3agJbyK5VfqUGx) | [Naath](https://open.spotify.com/album/0wPRCemh0eIjlowDg6yE6k) | 3:26 |
-| 47 | [Picasso \(Outro\)](https://open.spotify.com/track/09foknzEQOePhFgW1wvxeb) | [O'd](https://open.spotify.com/artist/0LwmaxKGW5M2qF7Mas5ejk) | [Picasso \(Outro\)](https://open.spotify.com/album/5FHpioMLjDuoJMvCg8GWQw) | 4:00 |
+| 44 | [Silsila](https://open.spotify.com/track/5KTy5Suuea5uBUID1pwKU5) | [ElKhaleefa](https://open.spotify.com/artist/3tREMnMFWzcm8nzHIPXnBG) | [Silsila](https://open.spotify.com/album/1P1feiWIo2Mtl6HGDS0Gqz) | 3:45 |
+| 45 | [Manaok \(Forbidden\)](https://open.spotify.com/track/10LEmxW2mReKO9krEEROLa) | [Amira Kheir](https://open.spotify.com/artist/5WZN5v7MdgFPu29h88MWvh) | [Mystic Dance](https://open.spotify.com/album/3xQYBIIhwi1Xmts6Y8lgSq) | 6:15 |
+| 46 | [Picasso \(Outro\)](https://open.spotify.com/track/09foknzEQOePhFgW1wvxeb) | [O'd](https://open.spotify.com/artist/0LwmaxKGW5M2qF7Mas5ejk) | [Picasso \(Outro\)](https://open.spotify.com/album/5FHpioMLjDuoJMvCg8GWQw) | 4:00 |
+| 47 | [Gatluak](https://open.spotify.com/track/4hO1yAA2fkmAAEhjkUhZOj) | [Nyaruach](https://open.spotify.com/artist/6kpYdtbD0QinjBcwkxLPm3), [Friday](https://open.spotify.com/artist/514K0z1r3agJbyK5VfqUGx) | [Naath](https://open.spotify.com/album/0wPRCemh0eIjlowDg6yE6k) | 3:26 |
 | 48 | [Soudani Manayou \- Cervo Edit](https://open.spotify.com/track/6lJJHmqZGULV0H34Dyw1kF) | [Majid Bekkas](https://open.spotify.com/artist/6T4kWmFsjL5rnWOLOHKa7C), [Cervo](https://open.spotify.com/artist/4U5yFCOe1UuvE72efEJAlX) | [Soudani Manayou](https://open.spotify.com/album/2iPwYRSgVpjaqL7fPW2wRR) | 8:05 |
 | 49 | [الحزن النبيل](https://open.spotify.com/track/4Mqiut95E3p232OapUrZ9I) | [Mostafa Sid Ahmed](https://open.spotify.com/artist/4Uh5nF1SKIp4no3YzmZyDO) | [الحزن النبيل](https://open.spotify.com/album/4VHzt5ldOK5UU3QAde1gOj) | 11:28 |
 | 50 | [Hatred](https://open.spotify.com/track/3YqraMIdzw8WLE8Ipy5Ekq) | [Flippter](https://open.spotify.com/artist/3E60sH2l7t9f4bIfCZo5DX) | [Hatred](https://open.spotify.com/album/0x8GN6HjP2qfgjrYS6uxfG) | 1:52 |
 
-Snapshot ID: `MTY2MTMyMjYyNiwwMDAwMDAwMDg4Y2ViMWIzOTBiNzM4M2RkYzVmMzc4YWQ0NTdlNjUw`
+Snapshot ID: `MTY2MTMyMjYyNiwwMDAwMDAwMGUwOTYzZjYzMDNkMmY0NDUzMzc1OWI0MWM2ZjRhNjcz`

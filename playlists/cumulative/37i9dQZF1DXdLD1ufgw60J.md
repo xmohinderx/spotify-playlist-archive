@@ -4,7 +4,7 @@
 
 > The perfect classical side\-dish to some light chopping, stirring and seasoning.
 
-112 songs - 6 hr 44 min - [published](https://open.spotify.com/playlist/0qcGmeoFUYwrsRQwVNsJ5x)
+113 songs - 6 hr 48 min - [published](https://open.spotify.com/playlist/0qcGmeoFUYwrsRQwVNsJ5x)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Platti: Cello Sonata No\. 7 in D Major, I\. 84: I\. Adagio](https://open.spotify.com/track/1H3t2fw8RI1Qh5rFz2Vv2Q) | [Giovanni Benedetto Platti](https://open.spotify.com/artist/0RFpVAGFCugeIDlW97oCFq), [Abel Selaocoe](https://open.spotify.com/artist/44LUiqh2zLIWA4UPdPmvWU) | [Platti: Cello Sonata No\. 7 in D Major, I\. 84: I\. Adagio](https://open.spotify.com/album/1hkv1NoWUsHcl3vyIdoBgZ) | 3:32 | 2022-07-01 |  |
 | [Préludes / Book 1, L\. 117: VIII\. La fille aux cheveux de lin](https://open.spotify.com/track/5NAIQcA3vCUOC9AxNteyfD) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Daniel Barenboim](https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH) | [Claude Debussy](https://open.spotify.com/album/1oBuZ8mBCBpEYqm1X2k4NP) | 2:31 | 2022-05-11 |  |
 | [Puccini: Gianni Schicchi, Act 1: "O mio babbino caro" \(Lauretta\)](https://open.spotify.com/track/18VNXlRteVgchjjqaTKZmm) | [Giacomo Puccini](https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR), [Renaud Capuçon](https://open.spotify.com/artist/6ttz1LgWFVgRiNDOjtDb2L) | [Un violon à Paris](https://open.spotify.com/album/1lZyDr7mP2qj6jTl8kj9US) | 2:01 | 2022-05-11 | 2022-07-02 |
+| [Raymonda, Op\. 57: Prélude et la Romanesca](https://open.spotify.com/track/6rQKvS3JdNeFI7dJg3YKBH) | [Alexander Glazunov](https://open.spotify.com/artist/78t7WfwhjZLkDHN5QKwS5u), [Xavier De Maistre](https://open.spotify.com/artist/65T5r0RCfJBz5z0gdEkgRp), [Nathalie Stutzmann](https://open.spotify.com/artist/01nToDFj9swyFm6Pm3H2EL), [WDR Sinfonieorchester](https://open.spotify.com/artist/3QFf9QniZrojhI4UtZPQ97) | [Raymonda, Op\. 57: Prélude et la Romanesca](https://open.spotify.com/album/0PQ1N6Tq2RA7UzBiUXPIZe) | 3:46 | 2022-09-02 |  |
 | [Reflection](https://open.spotify.com/track/3mrWC8aEj9JrxKl6gQ0HRv) | [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [Reflections Pt\. 1 / Debussy: Bruyères](https://open.spotify.com/album/4vIHi1vbAM6U4WzJ85RP8y) | 5:32 | 2021-01-06 | 2022-03-30 |
 | [Rinaldo, HWV 7: Lascia ch'io pianga \(Arr\. for Piano & Bass\)](https://open.spotify.com/track/45QVpFPpNOYMXDbbEeZ39X) | [George Frideric Handel](https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2), [PianoBasso](https://open.spotify.com/artist/0lFzJ6s1Rip3L1KbqTDmP7) | [Tranquillo II](https://open.spotify.com/album/0YijaagftFAOjGIfwFwji3) | 3:32 | 2022-05-11 |  |
 | [Rinaldo, HWV 7: Lascia ch'io pianga \(Arr\. for Piano\)](https://open.spotify.com/track/0dfAHJmRg7JtCbitsageQG) | [George Frideric Handel](https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2), [Martin Stadtfeld](https://open.spotify.com/artist/2Habwewg0ZpMr2YWSTANE9) | [Handel Variations](https://open.spotify.com/album/21lcyOutL6OClPcldmOP3Q) | 4:28 | 2021-01-06 | 2022-03-30 |

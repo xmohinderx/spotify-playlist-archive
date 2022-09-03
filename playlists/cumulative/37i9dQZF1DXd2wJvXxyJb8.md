@@ -4,7 +4,7 @@
 
 > Tudo o que está bombando e viralizando por aí!
 
-148 songs - 7 hr 3 min - [published](https://open.spotify.com/playlist/3ZCsRJhuxv7PAx5MFF7E1z)
+149 songs - 7 hr 5 min - [published](https://open.spotify.com/playlist/3ZCsRJhuxv7PAx5MFF7E1z)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,7 +116,8 @@
 | [Pique, Piquezin X Cintura Ignorante](https://open.spotify.com/track/5AuOlnnQlEKRwN6biy0c2P) | [DJ Patrick Muniz](https://open.spotify.com/artist/2MUXvv3lFulPYMUCtNrEBu), [Pet & Bobii](https://open.spotify.com/artist/2lJQn1DHF1ipwxytJBMljq), [MC Buraga](https://open.spotify.com/artist/5OjUzfzhGFTQDWfKiPcxAE) | [Pique, Piquezin X Cintura Ignorante](https://open.spotify.com/album/3osieNmAeTHS8DNxJw1kfP) | 3:23 | 2022-07-28 | 2022-08-09 |
 | [Piui Tic Tac Camisinha de Chocolate](https://open.spotify.com/track/2aMF3nO14nw77EMDg0spS3) | [Mc Rd](https://open.spotify.com/artist/6ugw7JCu0AG7txRcRAxU8d), [dj fury](https://open.spotify.com/artist/31F57cAEyyEHY2coP5Q6DV) | [Piui Tic Tac Camisinha de Chocolate](https://open.spotify.com/album/7zFyHvOaq5Yhy846Zf77hg) | 2:40 | 2022-05-26 |  |
 | [Pontos de Exclamação](https://open.spotify.com/track/2mlsK27VNUj8y08BvtIbXu) | [Jovem Dionisio](https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ) | [Pontos de Exclamação](https://open.spotify.com/album/6OMICpWuK1nwndfvZJuGyb) | 3:01 | 2022-05-26 | 2022-07-19 |
-| [Primeiro Beck Ela Me Mamou](https://open.spotify.com/track/3DNgjjNmVUj5z1uvLVd343) | [ascendingboy](https://open.spotify.com/artist/2d05ivGt1JcxoIcbMB7g48) | [Primeiro Beck Ela Me Mamou](https://open.spotify.com/album/1Q7VZ0frBrYW1T2SoWKg2U) | 1:54 | 2022-08-31 |  |
+| [Primeiro Beck Ela Me Mamou](https://open.spotify.com/track/3DNgjjNmVUj5z1uvLVd343) | [ascendingboy](https://open.spotify.com/artist/2d05ivGt1JcxoIcbMB7g48) | [Primeiro Beck Ela Me Mamou](https://open.spotify.com/album/1Q7VZ0frBrYW1T2SoWKg2U) | 1:54 | 2022-08-31 | 2022-09-03 |
+| [Primeiro Beck Ela Me Mamou](https://open.spotify.com/track/4QQTPEwqE4Aq7LXSyIgSci) | [Mc Kitinho](https://open.spotify.com/artist/1d2PrJ5wELpihT8yrwH4mO), [Silva MC](https://open.spotify.com/artist/0xbV62T2N67aqaRQbgU943), [Mc guizinho niazi](https://open.spotify.com/artist/6iUG0pMyifNBudO9B1s7cD), [DJ DEIVÃO](https://open.spotify.com/artist/5dLVqC89Drj8IZ82EICZZk) | [Primeiro Beck Ela Me Mamou](https://open.spotify.com/album/1ykijYnxFNpMVJrInjLdMc) | 2:19 | 2022-09-02 |  |
 | [Putariazinha](https://open.spotify.com/track/2jwrYBGz7osKI31v50bS7b) | [Felipe Amorim](https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U) | [Putariazinha](https://open.spotify.com/album/6e6ytT287uBWcf6jz4qEIt) | 2:42 | 2022-05-26 | 2022-07-29 |
 | [Putariazinha](https://open.spotify.com/track/7JaxdBtSfqGGNyZEjGtSrg) | [Felipe Amorim](https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U) | [Putariazinha](https://open.spotify.com/album/0r8y7aLZgWn9jzxU82K0r5) | 2:42 | 2022-07-28 |  |
 | [QUEBRA DE LADINHO e FAZ CORAçãoOZINHO](https://open.spotify.com/track/0qL3FhMjtyDwuBubFhRwvE) | [Dj JL O Único](https://open.spotify.com/artist/4jxavP0DgDmPzx11P5HYxS), [Dj LK da Escócia](https://open.spotify.com/artist/6WIjKbyqeO9MkfNMFJsF50), [DJ Breno](https://open.spotify.com/artist/0MU7bIngzZFJkLksK8Hh94), [DJ Pedrin](https://open.spotify.com/artist/4anI4492Z1ogF7JJqCiI0i), [Dj Créu](https://open.spotify.com/artist/6t0Zo9vl0h5qUavwMjQPLz) | [QUEBRA DE LADINHO e FAZ CORAçãoOZINHO](https://open.spotify.com/album/2sA87vgkhrNFPcN7LIhKVu) | 2:23 | 2022-05-26 |  |

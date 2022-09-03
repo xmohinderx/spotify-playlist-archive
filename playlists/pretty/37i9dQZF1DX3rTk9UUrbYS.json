@@ -1,12 +1,12 @@
 {
   "description": "Avant-garde, experimental and free jazz.",
-  "num_followers": 34469,
+  "num_followers": 34505,
   "original_name": "Avant-Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQ4NjUyMCwwMDAwMDAwMDk0NTUzOTRlYWExMmFlOGRhMDcxNDM5MzRmYWJmN2Mx",
+  "snapshot_id": "MTY2MTQ4NjUyMCwwMDAwMDAwMDI0MDFlNDJhNTVkZGIzZjAxMjdkZWJkYjZlYWRjY2Mz",
   "tracks": [
     {
       "added_at": "2020-08-25 21:55:35",
@@ -313,22 +313,6 @@
       "url": "https://open.spotify.com/track/4zxRrjQfGDcF1yEOXkcdXN"
     },
     {
-      "added_at": "2020-08-25 21:55:35",
-      "album": {
-        "name": "New York Is Now",
-        "url": "https://open.spotify.com/album/5YExsVX6QRDHsLJLLm4ogy"
-      },
-      "artists": [
-        {
-          "name": "Ornette Coleman",
-          "url": "https://open.spotify.com/artist/47odibUtrN3lnWx0p0pk2P"
-        }
-      ],
-      "duration_ms": 378666,
-      "name": "Round Trip",
-      "url": "https://open.spotify.com/track/19nWocKXsR6KsD8PLbeNha"
-    },
-    {
       "added_at": "2020-09-18 04:02:00",
       "album": {
         "name": "Kaiju Eats Cheeseburgers",
@@ -351,6 +335,22 @@
       "duration_ms": 310773,
       "name": "Charbon",
       "url": "https://open.spotify.com/track/1aAoU8KcgP5JQSkuWML8xG"
+    },
+    {
+      "added_at": "2020-08-25 21:55:35",
+      "album": {
+        "name": "New York Is Now",
+        "url": "https://open.spotify.com/album/5YExsVX6QRDHsLJLLm4ogy"
+      },
+      "artists": [
+        {
+          "name": "Ornette Coleman",
+          "url": "https://open.spotify.com/artist/47odibUtrN3lnWx0p0pk2P"
+        }
+      ],
+      "duration_ms": 378666,
+      "name": "Round Trip",
+      "url": "https://open.spotify.com/track/19nWocKXsR6KsD8PLbeNha"
     },
     {
       "added_at": "2020-08-25 21:55:35",
@@ -545,6 +545,26 @@
       "url": "https://open.spotify.com/track/2h9BKEX4eg6SCiwllNxc2T"
     },
     {
+      "added_at": "2022-08-26 04:02:00",
+      "album": {
+        "name": "Dolunay",
+        "url": "https://open.spotify.com/album/2w5jxwOWbkn7ci66PmUmmD"
+      },
+      "artists": [
+        {
+          "name": "Konstrukt",
+          "url": "https://open.spotify.com/artist/31LWw1daUaifpCWuXKKey9"
+        },
+        {
+          "name": "Peter Br\u00f6tzmann",
+          "url": "https://open.spotify.com/artist/5DlFW9TwvDgSJHJuufuiAO"
+        }
+      ],
+      "duration_ms": 207373,
+      "name": "Tepe",
+      "url": "https://open.spotify.com/track/3U66YsEEXqz0rig8U0bVNd"
+    },
+    {
       "added_at": "2020-08-25 21:55:35",
       "album": {
         "name": "Translinear Light",
@@ -615,18 +635,78 @@
     {
       "added_at": "2020-08-25 21:55:35",
       "album": {
-        "name": "Argonautica",
-        "url": "https://open.spotify.com/album/779K5iF5o1GS0GR0v1YUEu"
+        "name": "After Fallen Leaves",
+        "url": "https://open.spotify.com/album/7Ch1GSEeikqpUTXvOHwnW2"
       },
       "artists": [
         {
-          "name": "Nate Wooley",
-          "url": "https://open.spotify.com/artist/151kdGxCPmdZZqaYsd79F5"
+          "name": "Roscoe Mitchell",
+          "url": "https://open.spotify.com/artist/6DR6ugRdVaVi7lyqooqJov"
+        },
+        {
+          "name": "Brus Trio",
+          "url": "https://open.spotify.com/artist/0brD6EfLudasLGmL0JVIJY"
         }
       ],
-      "duration_ms": 2573175,
-      "name": "Argonautica",
-      "url": "https://open.spotify.com/track/0GJKX05V9I7tOtGeGlUkWA"
+      "duration_ms": 291066,
+      "name": "And Then There Was Peace",
+      "url": "https://open.spotify.com/track/65pbkrOOLNGacAfdEd1f9h"
+    },
+    {
+      "added_at": "2022-04-15 04:02:00",
+      "album": {
+        "name": "Old Stories",
+        "url": "https://open.spotify.com/album/6UqK3CSEE52UwtK2e9JQPc"
+      },
+      "artists": [
+        {
+          "name": "Matthew Shipp",
+          "url": "https://open.spotify.com/artist/1Lw2WbL7CWZXAWSLWYXq4r"
+        },
+        {
+          "name": "Chad Fowler",
+          "url": "https://open.spotify.com/artist/7ttY2znRRuk0WwrI8i6oFj"
+        }
+      ],
+      "duration_ms": 374688,
+      "name": "Chapter I",
+      "url": "https://open.spotify.com/track/6Sz3J0ifbdSZoW8O2BIM1S"
+    },
+    {
+      "added_at": "2020-08-25 21:55:35",
+      "album": {
+        "name": "Poetry in Motion",
+        "url": "https://open.spotify.com/album/0Y20dYkp1wEb5d4lvLtOLW"
+      },
+      "artists": [
+        {
+          "name": "Conference Call",
+          "url": "https://open.spotify.com/artist/7nhPj7gM7iUwU72LPRtFx0"
+        }
+      ],
+      "duration_ms": 258333,
+      "name": "The Path",
+      "url": "https://open.spotify.com/track/4T5BNirZQn8jjEcjNPMnQ5"
+    },
+    {
+      "added_at": "2021-11-19 05:02:00",
+      "album": {
+        "name": "Playing Retention",
+        "url": "https://open.spotify.com/album/0uOZ13KE48h7MMervUQHyf"
+      },
+      "artists": [
+        {
+          "name": "Daniel Carter",
+          "url": "https://open.spotify.com/artist/783kRxpzUwR6w8ggk2vUE4"
+        },
+        {
+          "name": "Jim Clouse",
+          "url": "https://open.spotify.com/artist/6Uh5YINky16BQvJ5KboFNp"
+        }
+      ],
+      "duration_ms": 458760,
+      "name": "Playing Retention",
+      "url": "https://open.spotify.com/track/3fWp8KYdXpJpdXODLXSnjE"
     },
     {
       "added_at": "2020-08-25 21:55:35",
@@ -661,24 +741,20 @@
       "url": "https://open.spotify.com/track/6McPJR3272275IfZti9RuC"
     },
     {
-      "added_at": "2022-04-15 04:02:00",
+      "added_at": "2020-08-25 21:55:35",
       "album": {
-        "name": "Old Stories",
-        "url": "https://open.spotify.com/album/6UqK3CSEE52UwtK2e9JQPc"
+        "name": "Argonautica",
+        "url": "https://open.spotify.com/album/779K5iF5o1GS0GR0v1YUEu"
       },
       "artists": [
         {
-          "name": "Matthew Shipp",
-          "url": "https://open.spotify.com/artist/1Lw2WbL7CWZXAWSLWYXq4r"
-        },
-        {
-          "name": "Chad Fowler",
-          "url": "https://open.spotify.com/artist/7ttY2znRRuk0WwrI8i6oFj"
+          "name": "Nate Wooley",
+          "url": "https://open.spotify.com/artist/151kdGxCPmdZZqaYsd79F5"
         }
       ],
-      "duration_ms": 374688,
-      "name": "Chapter I",
-      "url": "https://open.spotify.com/track/6Sz3J0ifbdSZoW8O2BIM1S"
+      "duration_ms": 2573175,
+      "name": "Argonautica",
+      "url": "https://open.spotify.com/track/0GJKX05V9I7tOtGeGlUkWA"
     },
     {
       "added_at": "2020-10-02 04:02:00",
@@ -705,26 +781,6 @@
       "url": "https://open.spotify.com/track/53BmPoPyhQwscQJcy32ly7"
     },
     {
-      "added_at": "2021-11-19 05:02:00",
-      "album": {
-        "name": "Playing Retention",
-        "url": "https://open.spotify.com/album/0uOZ13KE48h7MMervUQHyf"
-      },
-      "artists": [
-        {
-          "name": "Daniel Carter",
-          "url": "https://open.spotify.com/artist/783kRxpzUwR6w8ggk2vUE4"
-        },
-        {
-          "name": "Jim Clouse",
-          "url": "https://open.spotify.com/artist/6Uh5YINky16BQvJ5KboFNp"
-        }
-      ],
-      "duration_ms": 458760,
-      "name": "Playing Retention",
-      "url": "https://open.spotify.com/track/3fWp8KYdXpJpdXODLXSnjE"
-    },
-    {
       "added_at": "2020-08-25 21:55:35",
       "album": {
         "name": "Albert Mangelsdorff and His Friends",
@@ -739,22 +795,6 @@
       "duration_ms": 347092,
       "name": "Way Beyond Cave",
       "url": "https://open.spotify.com/track/5uKsWL6LKETa5xKizE04TZ"
-    },
-    {
-      "added_at": "2020-08-25 21:55:35",
-      "album": {
-        "name": "Poetry in Motion",
-        "url": "https://open.spotify.com/album/0Y20dYkp1wEb5d4lvLtOLW"
-      },
-      "artists": [
-        {
-          "name": "Conference Call",
-          "url": "https://open.spotify.com/artist/7nhPj7gM7iUwU72LPRtFx0"
-        }
-      ],
-      "duration_ms": 258333,
-      "name": "The Path",
-      "url": "https://open.spotify.com/track/4T5BNirZQn8jjEcjNPMnQ5"
     },
     {
       "added_at": "2020-08-25 21:55:35",
@@ -783,46 +823,6 @@
     {
       "added_at": "2020-08-25 21:55:35",
       "album": {
-        "name": "After Fallen Leaves",
-        "url": "https://open.spotify.com/album/7Ch1GSEeikqpUTXvOHwnW2"
-      },
-      "artists": [
-        {
-          "name": "Roscoe Mitchell",
-          "url": "https://open.spotify.com/artist/6DR6ugRdVaVi7lyqooqJov"
-        },
-        {
-          "name": "Brus Trio",
-          "url": "https://open.spotify.com/artist/0brD6EfLudasLGmL0JVIJY"
-        }
-      ],
-      "duration_ms": 291066,
-      "name": "And Then There Was Peace",
-      "url": "https://open.spotify.com/track/65pbkrOOLNGacAfdEd1f9h"
-    },
-    {
-      "added_at": "2022-08-26 04:02:00",
-      "album": {
-        "name": "Dolunay",
-        "url": "https://open.spotify.com/album/2w5jxwOWbkn7ci66PmUmmD"
-      },
-      "artists": [
-        {
-          "name": "Konstrukt",
-          "url": "https://open.spotify.com/artist/31LWw1daUaifpCWuXKKey9"
-        },
-        {
-          "name": "Peter Br\u00f6tzmann",
-          "url": "https://open.spotify.com/artist/5DlFW9TwvDgSJHJuufuiAO"
-        }
-      ],
-      "duration_ms": 207373,
-      "name": "Tepe",
-      "url": "https://open.spotify.com/track/3U66YsEEXqz0rig8U0bVNd"
-    },
-    {
-      "added_at": "2020-08-25 21:55:35",
-      "album": {
         "name": "The Dorothy Wallace Suite",
         "url": "https://open.spotify.com/album/2SRt058wErJ8zyNLdm4Zg5"
       },
@@ -839,22 +839,6 @@
       "duration_ms": 284333,
       "name": "Symphony in Green",
       "url": "https://open.spotify.com/track/28iVB0oZMjPgXxvNgx0gOC"
-    },
-    {
-      "added_at": "2020-08-25 21:55:35",
-      "album": {
-        "name": "Alexander Hawkins Trio",
-        "url": "https://open.spotify.com/album/0PuuU5hvA2CRAedC8xHEAq"
-      },
-      "artists": [
-        {
-          "name": "Alexander Hawkins",
-          "url": "https://open.spotify.com/artist/5odU2GyEFgXZzhs1nfdu7r"
-        }
-      ],
-      "duration_ms": 329760,
-      "name": "One Tree Found",
-      "url": "https://open.spotify.com/track/7pR9ESwH8E0Y8z79PflnZY"
     },
     {
       "added_at": "2020-08-25 21:55:35",
@@ -899,6 +883,22 @@
       "duration_ms": 468600,
       "name": "Explain It To Me",
       "url": "https://open.spotify.com/track/1gSwFnKQa7E5Etks6oXlzM"
+    },
+    {
+      "added_at": "2020-08-25 21:55:35",
+      "album": {
+        "name": "Alexander Hawkins Trio",
+        "url": "https://open.spotify.com/album/0PuuU5hvA2CRAedC8xHEAq"
+      },
+      "artists": [
+        {
+          "name": "Alexander Hawkins",
+          "url": "https://open.spotify.com/artist/5odU2GyEFgXZzhs1nfdu7r"
+        }
+      ],
+      "duration_ms": 329760,
+      "name": "One Tree Found",
+      "url": "https://open.spotify.com/track/7pR9ESwH8E0Y8z79PflnZY"
     },
     {
       "added_at": "2020-08-25 21:55:35",

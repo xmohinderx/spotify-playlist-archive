@@ -4,7 +4,7 @@
 
 > Smooth, relaxing as jazz can be, here's the soothing magic in the thick of night from the middle of the light...
 
-185 songs - 13 hr 40 min - [published](https://open.spotify.com/playlist/1s0nnW1GT4rUSPV8jIty04)
+186 songs - 13 hr 46 min - [published](https://open.spotify.com/playlist/1s0nnW1GT4rUSPV8jIty04)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,7 +128,7 @@
 | [On The One](https://open.spotify.com/track/0NL4WODOFyg5qcbcNQ4MaJ) | [Adam Hawley](https://open.spotify.com/artist/1lWqhDiZ2OtpsJsQFtXsKX) | [Risin' Up](https://open.spotify.com/album/3fNuTnYGJ1rQmhnPvlqa8t) | 4:49 | 2022-07-11 | 2022-07-21 |
 | [Only 4 One Moment](https://open.spotify.com/track/1G7QHZpMheDi2hrriqALma) | [Thom Rotella](https://open.spotify.com/artist/72FbTlHE6bOKc7HLQoa7pm) | [A Day In The Life](https://open.spotify.com/album/2grvoFsNL4w9k0kXP6fkyn) | 4:24 | 2022-01-10 | 2022-06-12 |
 | [Only You](https://open.spotify.com/track/7t6q9hCtvEY9it0G5pj7Mm) | [Nils](https://open.spotify.com/artist/1vzmLZbXh0Bw5Kz5U4iIyB) | [Ready to Play](https://open.spotify.com/album/2ezdxx2baHQ7qTEUgXR4F5) | 4:41 | 2022-04-11 | 2022-04-21 |
-| [Open Skies](https://open.spotify.com/track/0uuGRLt4ZeRI4JLIDw4oEo) | [Gary Metz](https://open.spotify.com/artist/1U1yKduFJ40wGcQvQ9ZK4g) | [Open Skies](https://open.spotify.com/album/4RdKMd5Nxe316RTZPzA1CM) | 3:32 | 2022-01-03 |  |
+| [Open Skies](https://open.spotify.com/track/0uuGRLt4ZeRI4JLIDw4oEo) | [Gary Metz](https://open.spotify.com/artist/1U1yKduFJ40wGcQvQ9ZK4g) | [Open Skies](https://open.spotify.com/album/4RdKMd5Nxe316RTZPzA1CM) | 3:32 | 2022-01-03 | 2022-09-03 |
 | [Out of the Blue](https://open.spotify.com/track/5pQQjMOsR4HjuO94AEXTqX) | [Chris Standring](https://open.spotify.com/artist/1XeMzpgjVKU2dR5xXaZLut) | [Real Life](https://open.spotify.com/album/7DvHuhuhqmJSQZenm73mSv) | 5:58 | 2021-12-27 |  |
 | [Outside In](https://open.spotify.com/track/3CPHNSS3twGZ8mXgzu5vn7) | [Craig Sharmat](https://open.spotify.com/artist/7AOYuTczmJd2pICRBxEPn4) | [Outside In](https://open.spotify.com/album/2Rio4q1A9RZNdPnCe0iJ2A) | 4:20 | 2022-04-11 | 2022-04-18 |
 | [Pacifica](https://open.spotify.com/track/4zfF62Jy2mtNCG2wlGy2VK) | [Michael Lington](https://open.spotify.com/artist/23P8kVBVyDkO8s6sn1QDre) | [Stay With Me](https://open.spotify.com/album/0ivqeO68UTwDwuaVIo0sU3) | 4:16 | 2021-12-27 |  |
@@ -159,6 +159,7 @@
 | [Soul Vibration](https://open.spotify.com/track/5KaSTemL2bEHw5HDFFIZyB) | [Chris Standring](https://open.spotify.com/artist/1XeMzpgjVKU2dR5xXaZLut) | [Ten](https://open.spotify.com/album/6vw1IOlxgQy2otoKPOng7e) | 4:26 | 2021-12-27 |  |
 | [Soulfood Sunday](https://open.spotify.com/track/7CkzM33RNqE8PyUdsVUBBZ) | [Ben Tankard](https://open.spotify.com/artist/60nfj9O2pKtlqIPfxp3FEg) | [Shine!](https://open.spotify.com/album/1TFKjCxkfw8XVb6nh7o9VY) | 4:02 | 2022-01-03 |  |
 | [Soulfully](https://open.spotify.com/track/6QIv6nsWBk84KgNbN618O8) | [Ryan Montano](https://open.spotify.com/artist/60c1zWUz1UhsnemRwziySF) | [Soulfully](https://open.spotify.com/album/4bRm3UKAKAmfLJ6bWuDigT) | 4:10 | 2021-12-27 |  |
+| [Southern Style](https://open.spotify.com/track/18xGFscyHeMxrlgyti66gX) | [Jeffery Smith](https://open.spotify.com/artist/7CW9qPfjuZqNDJsJqT9iM2) | [Smooth Grooves, Vol\. 2](https://open.spotify.com/album/2dWhDa6kTyZlw7ip13EhTm) | 6:05 | 2022-08-29 |  |
 | [Spray Bay](https://open.spotify.com/track/3KHLV5FTalpbnNmmznJcVk) | [Jeremy Sean Hector](https://open.spotify.com/artist/1akYcPyDtIQAN54HFVHbWR) | [Ascension](https://open.spotify.com/album/5wZPP4EBzRTbOltJNGPdDi) | 4:47 | 2022-04-11 | 2022-04-20 |
 | [Static in the Attic](https://open.spotify.com/track/69cpqIccenZsg4tO3lYgrK) | [Chris Standring](https://open.spotify.com/artist/1XeMzpgjVKU2dR5xXaZLut) | [Sunlight](https://open.spotify.com/album/0kx7WayUflfeiYpDKhsbnB) | 4:49 | 2022-04-11 | 2022-04-18 |
 | [Steppin' Out](https://open.spotify.com/track/1TQEe8NQLc3ml4p23ueRzq) | [Kim Waters](https://open.spotify.com/artist/6kgHtfY7ECO4JWbOpXOu4I) | [All For Love](https://open.spotify.com/album/2DmMf1bOCZniiHjBNPlTyt) | 4:05 | 2021-12-27 | 2022-07-28 |

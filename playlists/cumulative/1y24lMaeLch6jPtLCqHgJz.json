@@ -60,6 +60,24 @@
     },
     {
       "album": {
+        "name": "Alive (Edit)",
+        "url": "https://open.spotify.com/album/2UaVJ8I7jP3j5F69gby1bt"
+      },
+      "artists": [
+        {
+          "name": "JAT",
+          "url": "https://open.spotify.com/artist/1XJPIFp92YDeTJW1SEbvg6"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193125,
+      "name": "Alive - Edit",
+      "url": "https://open.spotify.com/track/0GtkzHw73XXHn4rZJFqcxh"
+    },
+    {
+      "album": {
         "name": "All My Life",
         "url": "https://open.spotify.com/album/63wRjrPw2IHWN53aeFLhQM"
       },
@@ -879,7 +897,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 227885,
       "name": "If I Could Be",
       "url": "https://open.spotify.com/track/0sBfZWTh37Oe41odntXpIF"

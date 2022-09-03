@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Lyrical, lo-fi, and lowlife raps. Cover: The Game",
+  "description": "Lyrical, lo-fi, and lowlife raps. Cover: Royce Da 5'9\"",
   "name": "Spilled Ink",
   "published_playlist_ids": [
     "263ylGzX2g8MfE4QemXHet"
@@ -114,6 +114,36 @@
     },
     {
       "album": {
+        "name": "297 Parkside",
+        "url": "https://open.spotify.com/album/2rOxqka7BLWvKHaoz76qS2"
+      },
+      "artists": [
+        {
+          "name": "Black Soprano Family",
+          "url": "https://open.spotify.com/artist/3s7WzrEs4FkNObqj4WyfQm"
+        },
+        {
+          "name": "Rick Hyde",
+          "url": "https://open.spotify.com/artist/5bgr1sPXFeiNuS4vARMZp1"
+        },
+        {
+          "name": "Stove God Cooks",
+          "url": "https://open.spotify.com/artist/35fcckhFq2cF2u7hIG0fPv"
+        },
+        {
+          "name": "Elcamino",
+          "url": "https://open.spotify.com/artist/54jJabxN5Xa0aMGK4mYdVg"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "297 Parkside",
+      "url": "https://open.spotify.com/track/2Rsie0RsUDFt3NRBM94gUM"
+    },
+    {
+      "album": {
         "name": "Nehruvia: My Disregarded Thoughts",
         "url": "https://open.spotify.com/album/2noJiJ7pCVOIu1yc5BT50a"
       },
@@ -147,6 +177,24 @@
       "duration_ms": 187416,
       "name": "505",
       "url": "https://open.spotify.com/track/0Tmh90l0RvTR0lZMWSey2i"
+    },
+    {
+      "album": {
+        "name": "50K or Brunch",
+        "url": "https://open.spotify.com/album/2nQwGLF2oQfLuy5I0i9DqE"
+      },
+      "artists": [
+        {
+          "name": "Your Old Droog",
+          "url": "https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158386,
+      "name": "50K or Brunch",
+      "url": "https://open.spotify.com/track/3Ibuz2B3qy9a6EJBdwC8UV"
     },
     {
       "album": {
@@ -887,7 +935,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 222307,
       "name": "Bricks & Bags",
       "url": "https://open.spotify.com/track/3XhRkia2pZ0apnY1Yp2DfK"
@@ -1704,6 +1752,24 @@
     },
     {
       "album": {
+        "name": "Extra Credit",
+        "url": "https://open.spotify.com/album/2xpeZujHknYIFaU5IeBNeb"
+      },
+      "artists": [
+        {
+          "name": "Big K.R.I.T.",
+          "url": "https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172768,
+      "name": "Extra Credit",
+      "url": "https://open.spotify.com/track/6MJli89DxGWgOyrCvYeGsm"
+    },
+    {
+      "album": {
         "name": "Bo Jackson",
         "url": "https://open.spotify.com/album/1KHFw3hsKvNGGCkXKQMrbT"
       },
@@ -1815,7 +1881,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 122733,
       "name": "Fire Proof",
       "url": "https://open.spotify.com/track/3QANNgnNhT17Ll4xbPPKpY"
@@ -1885,6 +1951,40 @@
       "duration_ms": 185306,
       "name": "For Real (feat. Kemba)",
       "url": "https://open.spotify.com/track/05IZnB0bFIEl6fIPITzfqg"
+    },
+    {
+      "album": {
+        "name": "FOUL",
+        "url": "https://open.spotify.com/album/2eQtXkKau6EcdDERcC2vPS"
+      },
+      "artists": [
+        {
+          "name": "Van Buren Records",
+          "url": "https://open.spotify.com/artist/2T6EOVQ5lAQc64poyLnXmj"
+        },
+        {
+          "name": "Luke Bar$",
+          "url": "https://open.spotify.com/artist/6CGyB4PAg5rEyzeGumZrjr"
+        },
+        {
+          "name": "Meech BOLD",
+          "url": "https://open.spotify.com/artist/3kv1DL4qsFPk2cPvfCqxrE"
+        },
+        {
+          "name": "Jiles",
+          "url": "https://open.spotify.com/artist/7pnz0G9l89KK5iC6Beevcx"
+        },
+        {
+          "name": "FELIX",
+          "url": "https://open.spotify.com/artist/6amRmqHeGwQAMZMOT5Xlrs"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274848,
+      "name": "FOUL",
+      "url": "https://open.spotify.com/track/1vSswbc405HtunKunj9UnM"
     },
     {
       "album": {
@@ -2417,7 +2517,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 178677,
       "name": "Hollandaise",
       "url": "https://open.spotify.com/track/4NvX8KPT4RGT2yh6ZjVYsK"
@@ -2797,7 +2897,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 177946,
       "name": "Is What It Is",
       "url": "https://open.spotify.com/track/1hKMOXgE5jEgGPNSPerDem"
@@ -2835,6 +2935,28 @@
       "duration_ms": 296982,
       "name": "Isis - Remix",
       "url": "https://open.spotify.com/track/2hf7qisR1NhP3MuedFyOkp"
+    },
+    {
+      "album": {
+        "name": "GOD DID",
+        "url": "https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50"
+      },
+      "artists": [
+        {
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+        },
+        {
+          "name": "Jadakiss",
+          "url": "https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172499,
+      "name": "JADAKISS INTERLUDE (feat. Jadakiss)",
+      "url": "https://open.spotify.com/track/39zh5ufK1qVSOh6fJk4hNl"
     },
     {
       "album": {
@@ -3211,6 +3333,32 @@
       "duration_ms": 139050,
       "name": "LAW OF AVERAGES",
       "url": "https://open.spotify.com/track/5H9dz6nY2JtAvtSkX8Xj5K"
+    },
+    {
+      "album": {
+        "name": "Layers",
+        "url": "https://open.spotify.com/album/0sOYErujvWBLfPaYcTboFq"
+      },
+      "artists": [
+        {
+          "name": "Royce Da 5'9\"",
+          "url": "https://open.spotify.com/artist/6DVipHzYsPlIoA0DW8Gmns"
+        },
+        {
+          "name": "Pusha T",
+          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
+        },
+        {
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260217,
+      "name": "Layers (feat. Pusha T and Rick Ross)",
+      "url": "https://open.spotify.com/track/75d8slzsZjFRqIZhGP3crR"
     },
     {
       "album": {
@@ -3839,7 +3987,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 177949,
       "name": "NAOMI",
       "url": "https://open.spotify.com/track/2q4Vq5gPgWIHeAXEWKZELu"
@@ -5899,7 +6047,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 625793,
       "name": "The Black Slim Shady",
       "url": "https://open.spotify.com/track/42DZT2eoL7rJBw21f3sb0h"

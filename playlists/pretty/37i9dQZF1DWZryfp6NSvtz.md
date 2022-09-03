@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new tracks every week\. Cover: Pabst
 
-[Spotify](https://open.spotify.com/user/spotify) - 345,272 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 345,285 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 6 | [Do It All the Same](https://open.spotify.com/track/6o9mE8B6hhpDWutaOSsAho) | [Molly Payton](https://open.spotify.com/artist/6mbzLeDgokrXD05pj6kf0N) | [Do It All the Same](https://open.spotify.com/album/0oqtiAPmi6ZiZd7PnuDLuT) | 3:27 |
 | 7 | [Let Me Let You Go](https://open.spotify.com/track/5CgkbROq94tTSnXnrfvtGH) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Let Me Let You Go](https://open.spotify.com/album/4DSQT7lIc5Unlz6LoyBPzI) | 3:00 |
 | 8 | [deep fake](https://open.spotify.com/track/1I3EjtaIQz2zzDE1aeiUEz) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [deep fake](https://open.spotify.com/album/4JwL8PccOelOQpqspai7uF) | 3:33 |
-| 9 | [Dig!](https://open.spotify.com/track/003jZXYNwnO3rl83ajtLpd) | [Sports Team](https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh) | [Dig!](https://open.spotify.com/album/5HoYh07ZPhKkZ1hwV5VFL7) | 2:41 |
+| 9 | [Dig!](https://open.spotify.com/track/0jhhWCD0oXc4E480bMl6L7) | [Sports Team](https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh) | [Dig!](https://open.spotify.com/album/2Hs7jUW49pEuMW7jirgbt8) | 2:41 |
 | 10 | [Bleak Sublime](https://open.spotify.com/track/5G6ww56ErVJEaU6ZpHq6RU) | [Lizzie Esau](https://open.spotify.com/artist/3E2PKHxfpNa2R6N3RIpa8S) | [Bleak Sublime](https://open.spotify.com/album/64g1LV7RIu1N0t15nJLDqQ) | 3:51 |
 | 11 | [Congratulations](https://open.spotify.com/track/0ZoUXwjbV6eetZmiEWEf3T) | [Alex Lahey](https://open.spotify.com/artist/5kdYrM3h2sB1Eid5tDf6Hk) | [Congratulations](https://open.spotify.com/album/0T2tUhoUEv04RQBCc1qjAh) | 2:50 |
 | 12 | [In My Head](https://open.spotify.com/track/4sCciQuIK0eK8DSBaEpt4M) | [Dear Seattle](https://open.spotify.com/artist/5gWPNlps947GENk32pRV3S) | [In My Head](https://open.spotify.com/album/6Q7omJwQv8wK6WHWqCVVJ6) | 3:45 |
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 21 | [Love Mangled Heart](https://open.spotify.com/track/1vs4MOwPVFhT5pa60kvAFi) | [Beware Of Darkness](https://open.spotify.com/artist/4DGNqGOtNY9niSpCKwINyU) | [Love Mangled Heart](https://open.spotify.com/album/44ZgnNangam7zm7TAb6RrC) | 2:54 |
 | 22 | [Park Lodge](https://open.spotify.com/track/1eN9cS5xBwzH3Xqt2BCj2f) | [Enumclaw](https://open.spotify.com/artist/79yETfINxnDl54mTKLZUlb) | [Park Lodge](https://open.spotify.com/album/1hXRsKevSg8qrakx7AGZY5) | 3:23 |
 | 23 | [War Boys](https://open.spotify.com/track/6YEBtj2zB0ZHYPbJVg0Jku) | [Dead Pony](https://open.spotify.com/artist/3lGO6uBIzoFyU6OoGMER1B) | [War Boys](https://open.spotify.com/album/7eIQ1zCmcFaBiqyV8idtNB) | 3:09 |
-| 24 | [That Boy on the Stage](https://open.spotify.com/track/1tabPhoqhhwUcJHqnS00V4) | [Suede](https://open.spotify.com/artist/6PHIK3kjWggLtVygsOtpqS) | [That Boy on the Stage](https://open.spotify.com/album/5yAdJsCABqokvbponMtZxd) | 2:35 |
+| 24 | [That Boy on the Stage](https://open.spotify.com/track/4BfpB9pTHk3zDoz4iLlN4d) | [The London Suede](https://open.spotify.com/artist/6GuRYj1MEnu1WZhDA2Xy0t) | [That Boy on the Stage](https://open.spotify.com/album/0McRDHe2ppiux5nIjpn13H) | 2:35 |
 | 25 | [Dark Light](https://open.spotify.com/track/5GVXdILU7YeCryCXTSzHdi) | [The Butterfly Effect](https://open.spotify.com/artist/0kns2X0IFTXafgOGd2IlKJ) | [IV](https://open.spotify.com/album/5ikjZqItlAINSlmYpO7W2h) | 4:55 |
 | 26 | [Old Friends Like Lost Teeth](https://open.spotify.com/track/0hO47G5FaU2kbs8sSwwbda) | [The Wonder Years](https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K) | [Old Friends Like Lost Teeth](https://open.spotify.com/album/6oC4dyi4zjkrzja7sxcD8n) | 3:14 |
 | 27 | [Took Ur Face](https://open.spotify.com/track/1KP6eoEg8ieLVwz1xRX1yp) | [lina\-mariah](https://open.spotify.com/artist/3oCoTG5YGC6Z8cqH942oav) | [Took Ur Face](https://open.spotify.com/album/32pMHIJFBxiQOBqxr25I5j) | 2:53 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 49 | [CHOKE \(with grandson & Zero 9:36\)](https://open.spotify.com/track/3AV8nyFN5AgejU5DZI9wKl) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh), [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4), [Zero 9:36](https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0) | [CHOKE](https://open.spotify.com/album/6AovsGSkC91dKnj7rXeK0z) | 2:40 |
 | 50 | [Thousand Lifetimes](https://open.spotify.com/track/3iSgwMXZtxE7fBMqK214JX) | [Fire From The Gods](https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS) | [Thousand Lifetimes](https://open.spotify.com/album/1AQe2iTO5cYZqmPDT52ti6) | 3:12 |
 
-Snapshot ID: `MTY2MjA3MzIwMCwwMDAwMDAwMDUyZjE0NjQxOWMyMWMyMDg4YmY5ODMwMzY2OWQyOTdh`
+Snapshot ID: `MTY2MjA3MzIwMCwwMDAwMDAwMDk3MGI3YTQxYTBjOThhNzY0YzM0YjBkZWY0YTI1Nzg0`

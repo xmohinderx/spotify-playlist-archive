@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvM9hRJYH10.md) - [plain]
 
 > Music from Nashville's emerging Singers and Songwriters across the musical spectrum\.  Cover: Hannah Ellis
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,159 likes - 142 songs - 7 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,163 likes - 142 songs - 7 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvM9hRJYH10.md) - [plain]
 | 19 | [Old School Love](https://open.spotify.com/track/0pZTEmnD9xSpaVZVRSCYFZ) | [Gracie Carol](https://open.spotify.com/artist/24GbtL2XINFQxX2NxiTWSO) | [Old School Love](https://open.spotify.com/album/5rWIkYxlGTNVRMIp2WuhHr) | 3:09 |
 | 20 | [Love Takes Time](https://open.spotify.com/track/01YA6z2H4vYzQ9XLlrE3Qt) | [Jonathan Hutcherson](https://open.spotify.com/artist/1hOBbdBjbeXf3uO1ik4G43) | [Jonathan Hutcherson](https://open.spotify.com/album/2H4lPoj1CgW9dK3DukPdGh) | 2:39 |
 | 21 | [When I Get Home](https://open.spotify.com/track/0pYO30NBbEZTqLzHj1eWww) | [King Calaway](https://open.spotify.com/artist/1IdbSuYtF7RSaFarmctwoE) | [When I Get Home](https://open.spotify.com/album/5Vx9kDNjXzjDyeOVajPWLA) | 3:13 |
-| 22 | [Started Right Here](https://open.spotify.com/track/6g1hr3hkvJPopynA633RvQ) | [SixForty1](https://open.spotify.com/artist/4dcnHUWXWZAHfA8FvQBtJS) | [Started Right Here](https://open.spotify.com/album/5Np7Ek9CPromitJthQCLfO) | 2:44 |
+| 22 | [Started Right Here](https://open.spotify.com/track/7AdMQLG4UbBQF6RNFs57IT) | [SixForty1](https://open.spotify.com/artist/4dcnHUWXWZAHfA8FvQBtJS) | [Started Right Here](https://open.spotify.com/album/113bFdIiv0jfchW7SKyBa8) | 2:45 |
 | 23 | [One Girl To Another](https://open.spotify.com/track/6P5B6KUAYlAfHyJmkmrFpf) | [Madison Kozak](https://open.spotify.com/artist/3UsRi9YafI0zUTd0OR8VSJ) | [One Girl To Another](https://open.spotify.com/album/6v70eBRRGOT2GHLbSBxedx) | 2:56 |
 | 24 | [Damn You](https://open.spotify.com/track/2ChfZlDoaI34ZoAVzzTQQE) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Damn You](https://open.spotify.com/album/6C5pn8Iv7yow2MZFhycH0s) | 3:03 |
 | 25 | [Momentum](https://open.spotify.com/track/2Km7p52eJt51AsLoizZsXz) | [Patrick Murphy](https://open.spotify.com/artist/2GV1qOwwdkJFVbDL4u6rlh) | [Momentum](https://open.spotify.com/album/1UVUIMDHj2I0Lt5Mumd6eh) | 3:21 |
@@ -151,4 +151,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvM9hRJYH10.md) - [plain]
 | 141 | [Home To Me](https://open.spotify.com/track/0aE6UUxRrKXQPL4f24PhDL) | [Jeffrey East](https://open.spotify.com/artist/3f8yNgA4o9YVIq87Kv0O0S) | [Home To Me](https://open.spotify.com/album/3v3RaCDPgrUhjxQwqqcNMZ) | 3:06 |
 | 142 | [Fallback](https://open.spotify.com/track/3Awkc2RG0sxtLjJWgnYAHx) | [Sophia Scott](https://open.spotify.com/artist/3lNLsfeVJSiSyjk2tXnPAp) | [Fallback](https://open.spotify.com/album/2tfzITEHPPyizfRoiTTzhX) | 2:53 |
 
-Snapshot ID: `MTY2MjAwNDgwMCwwMDAwMDAwMDU0NDIwMjU2NWNhNzY2ODkwZDNkNmY1NWMwZWQ1ZjVi`
+Snapshot ID: `MTY2MjA5MTIwMCwwMDAwMDAwMGU1ZGFlYWY5YmZjYzc4OWVlYzZiODA3ZmMyYTBlNzQz`

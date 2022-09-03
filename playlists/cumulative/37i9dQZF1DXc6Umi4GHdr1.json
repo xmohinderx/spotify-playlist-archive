@@ -296,6 +296,24 @@
     },
     {
       "album": {
+        "name": "Cheese and Wine",
+        "url": "https://open.spotify.com/album/19Cbc4r3BvAIrk8wk51yGW"
+      },
+      "artists": [
+        {
+          "name": "Agust\u00edn Amig\u00f3",
+          "url": "https://open.spotify.com/artist/3hUFjtgMr2bvq6E6tY7yQB"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149660,
+      "name": "Cheese and Wine",
+      "url": "https://open.spotify.com/track/2tjM3I6MKoiggjXcupqR3s"
+    },
+    {
+      "album": {
         "name": "Chimes",
         "url": "https://open.spotify.com/album/0FVTcnV3vxODYuvgviCTaU"
       },

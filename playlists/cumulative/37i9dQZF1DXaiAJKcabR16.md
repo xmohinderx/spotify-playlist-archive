@@ -4,7 +4,7 @@
 
 > Slide and steel\. Set your soundtrack to some moody, gritty blues folk.
 
-89 songs - 5 hr 57 min - [published](https://open.spotify.com/playlist/0UHsjagwmAQGvmHUDaFYKF)
+90 songs - 6 hr 0 min - [published](https://open.spotify.com/playlist/0UHsjagwmAQGvmHUDaFYKF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,8 +70,9 @@
 | [Red Right Hand \- 2011 \- Remaster](https://open.spotify.com/track/1YrdxppVdO7a5S99gudh43) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Let Love In \(2011 \- Remaster\)](https://open.spotify.com/album/5xDXyagODJCky1n6I2eJXq) | 6:10 | 2021-07-30 | 2022-07-29 |
 | [Red Right Hand \- 2011 Remastered Version](https://open.spotify.com/track/0qHeP8zt2WWef7EWCs1ECj) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Let Love In \(2011 Remastered Version\)](https://open.spotify.com/album/0Ewp4PEIzkcAyrC463a5xF) | 6:10 | 2021-07-30 |  |
 | [Set My Soul on Fire](https://open.spotify.com/track/5yuqWMCOtMY0IBaQCBzqT5) | [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Down to the River](https://open.spotify.com/album/3JiILntTtRreadH6W8ftB2) | 4:59 | 2021-07-30 |  |
-| [Shake It](https://open.spotify.com/track/24MehCp25qxUDWadb0XNRw) | [Steve Smyth](https://open.spotify.com/artist/4ejc2q1FtezVtEDOEOuyMO) | [Exits](https://open.spotify.com/album/3JV08IVUR8OrMfCTMdfThw) | 3:42 | 2021-07-30 |  |
+| [Shake It](https://open.spotify.com/track/24MehCp25qxUDWadb0XNRw) | [Steve Smyth](https://open.spotify.com/artist/4ejc2q1FtezVtEDOEOuyMO) | [Exits](https://open.spotify.com/album/3JV08IVUR8OrMfCTMdfThw) | 3:42 | 2021-07-30 | 2022-09-03 |
 | [Shake It](https://open.spotify.com/track/6RjnBLAqjop8cgSsPrUlCs) | [Steve Smyth](https://open.spotify.com/artist/4ejc2q1FtezVtEDOEOuyMO) | [Exits](https://open.spotify.com/album/3vSNB85xVwlQHjh2AmME8s) | 3:42 | 2021-07-30 | 2022-07-29 |
+| [Shake It](https://open.spotify.com/track/6u9jFigKKYdCLJKeAc1LOb) | [Steve Smyth](https://open.spotify.com/artist/4ejc2q1FtezVtEDOEOuyMO) | [Exits](https://open.spotify.com/album/71N8R4aZ6VDXWUP9jo8l08) | 3:42 | 2021-07-30 |  |
 | [She Took a Gamble](https://open.spotify.com/track/0LzMVEtDRKTQ2WlIVUXT8s) | [Hannah Read](https://open.spotify.com/artist/3ffIal1i0EioO2cZE9oLa9) | [Way Out I'll Wander](https://open.spotify.com/album/1b6Q0enFSwYs4FiOrbgpEQ) | 3:15 | 2021-07-30 |  |
 | [She Took a Gamble](https://open.spotify.com/track/2b2oHgRMo5QYRLft2TRDFi) | [Hannah Read](https://open.spotify.com/artist/3ffIal1i0EioO2cZE9oLa9) | [She Took a Gamble](https://open.spotify.com/album/0l1lw4zbFRgQyUXkhJtYCZ) | 3:15 | 2021-07-30 | 2022-07-29 |
 | [Singing Saw](https://open.spotify.com/track/0VVBiLcDZthpwsXXBCXPgu) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [Singing Saw](https://open.spotify.com/album/1s8RmcZjTuvDt9eQ4MAKLI) | 7:15 | 2021-07-30 | 2022-07-29 |

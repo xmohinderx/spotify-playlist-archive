@@ -1,12 +1,12 @@
 {
   "description": "Reinas de la cumbia, de hoy y de siempre. \nFoto: Soledad & Natalie Perez.",
-  "num_followers": 74447,
+  "num_followers": 74459,
   "original_name": "Cumbieras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzI0OTIwMCwwMDAwMDAwMDIyY2MxMjRlYWEzZGZmYjAzY2QzZTNkMTVmYjI3MDQ5",
+  "snapshot_id": "MTY1NzI0OTIwMCwwMDAwMDAwMDIxMWVhYWVhMWVmNjE1N2FjMmE4YjNiOGFhNzYwMjRi",
   "tracks": [
     {
       "added_at": "2022-07-08 03:00:00",
@@ -99,22 +99,6 @@
     {
       "added_at": "2022-07-08 03:00:00",
       "album": {
-        "name": "Con la Misma Moneda",
-        "url": "https://open.spotify.com/album/0uHMJhys3A6ZexbwOQj0Hc"
-      },
-      "artists": [
-        {
-          "name": "Karina",
-          "url": "https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq"
-        }
-      ],
-      "duration_ms": 266760,
-      "name": "Con la Misma Moneda",
-      "url": "https://open.spotify.com/track/6HIZ8QjtS1jGxAfTEYFyi4"
-    },
-    {
-      "added_at": "2022-07-08 03:00:00",
-      "album": {
         "name": "Tonto Cari\u00f1o",
         "url": "https://open.spotify.com/album/1jsyIp7OFTpIHDkKXl0kgS"
       },
@@ -127,6 +111,22 @@
       "duration_ms": 299284,
       "name": "Estupido",
       "url": "https://open.spotify.com/track/1hA3c7Rf0oLHFNR4ZVL030"
+    },
+    {
+      "added_at": "2022-07-08 03:00:00",
+      "album": {
+        "name": "Con la Misma Moneda",
+        "url": "https://open.spotify.com/album/0uHMJhys3A6ZexbwOQj0Hc"
+      },
+      "artists": [
+        {
+          "name": "Karina",
+          "url": "https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq"
+        }
+      ],
+      "duration_ms": 266760,
+      "name": "Con la Misma Moneda",
+      "url": "https://open.spotify.com/track/6HIZ8QjtS1jGxAfTEYFyi4"
     },
     {
       "added_at": "2022-07-08 03:00:00",
@@ -179,22 +179,6 @@
     {
       "added_at": "2022-07-08 03:00:00",
       "album": {
-        "name": "No me Arrepiento de Este Amor",
-        "url": "https://open.spotify.com/album/3Y572iPz6e7ddpowsAffn2"
-      },
-      "artists": [
-        {
-          "name": "Gilda",
-          "url": "https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE"
-        }
-      ],
-      "duration_ms": 227373,
-      "name": "No Me Arrepiento de Este Amor",
-      "url": "https://open.spotify.com/track/3mXLgWxNIbEFXWPppGjc6a"
-    },
-    {
-      "added_at": "2022-07-08 03:00:00",
-      "album": {
         "name": "Viru Kumbieron",
         "url": "https://open.spotify.com/album/1CCcCWcacL3qH60tN70tp3"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 228583,
       "name": "Me Vas a Extra\u00f1ar",
       "url": "https://open.spotify.com/track/3KOxcKaiZSFYIcHnr8PIKB"
+    },
+    {
+      "added_at": "2022-07-08 03:00:00",
+      "album": {
+        "name": "No me Arrepiento de Este Amor",
+        "url": "https://open.spotify.com/album/3Y572iPz6e7ddpowsAffn2"
+      },
+      "artists": [
+        {
+          "name": "Gilda",
+          "url": "https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE"
+        }
+      ],
+      "duration_ms": 227373,
+      "name": "No Me Arrepiento de Este Amor",
+      "url": "https://open.spotify.com/track/3mXLgWxNIbEFXWPppGjc6a"
     },
     {
       "added_at": "2022-07-08 03:00:00",
@@ -227,6 +227,22 @@
     {
       "added_at": "2022-07-08 03:00:00",
       "album": {
+        "name": "Sin Verg\u00fcenza",
+        "url": "https://open.spotify.com/album/2WuEroV8xhS8VXN8xjArIT"
+      },
+      "artists": [
+        {
+          "name": "Karina",
+          "url": "https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq"
+        }
+      ],
+      "duration_ms": 179213,
+      "name": "Corazon Mentiroso",
+      "url": "https://open.spotify.com/track/2ZkWTFZ9rQCl6ccNAOO79L"
+    },
+    {
+      "added_at": "2022-07-08 03:00:00",
+      "album": {
         "name": "Nunca Es Suficiente",
         "url": "https://open.spotify.com/album/2MklkALAfaelRjcEzQ8jaq"
       },
@@ -243,22 +259,6 @@
       "duration_ms": 256052,
       "name": "Nunca Es Suficiente",
       "url": "https://open.spotify.com/track/4MT6VBDcFQzcrXwjDv7GYk"
-    },
-    {
-      "added_at": "2022-07-08 03:00:00",
-      "album": {
-        "name": "Sin Verg\u00fcenza",
-        "url": "https://open.spotify.com/album/2WuEroV8xhS8VXN8xjArIT"
-      },
-      "artists": [
-        {
-          "name": "Karina",
-          "url": "https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq"
-        }
-      ],
-      "duration_ms": 179213,
-      "name": "Corazon Mentiroso",
-      "url": "https://open.spotify.com/track/2ZkWTFZ9rQCl6ccNAOO79L"
     },
     {
       "added_at": "2022-07-08 03:00:00",
@@ -331,6 +331,22 @@
     {
       "added_at": "2022-07-08 03:00:00",
       "album": {
+        "name": "Tiempo de Cambio",
+        "url": "https://open.spotify.com/album/3usDqwS6WvQHSFuL5LuJbP"
+      },
+      "artists": [
+        {
+          "name": "Karina",
+          "url": "https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq"
+        }
+      ],
+      "duration_ms": 202946,
+      "name": "Fuera",
+      "url": "https://open.spotify.com/track/7oPKn4LrkqFJWAXYSNZPGv"
+    },
+    {
+      "added_at": "2022-07-08 03:00:00",
+      "album": {
         "name": "La Pollera Amarilla",
         "url": "https://open.spotify.com/album/1r02rGE96IPnrhhcHbZdWE"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 205613,
       "name": "Tomate el Palo (feat. Leo Garc\u00eda)",
       "url": "https://open.spotify.com/track/7Geqbi4bkZ6AM9yDeSHr5b"
-    },
-    {
-      "added_at": "2022-07-08 03:00:00",
-      "album": {
-        "name": "Tiempo de Cambio",
-        "url": "https://open.spotify.com/album/3usDqwS6WvQHSFuL5LuJbP"
-      },
-      "artists": [
-        {
-          "name": "Karina",
-          "url": "https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq"
-        }
-      ],
-      "duration_ms": 202946,
-      "name": "Fuera",
-      "url": "https://open.spotify.com/track/7oPKn4LrkqFJWAXYSNZPGv"
     },
     {
       "added_at": "2022-07-08 03:00:00",
@@ -447,22 +447,6 @@
     {
       "added_at": "2022-07-08 03:00:00",
       "album": {
-        "name": "20 TropiExitos",
-        "url": "https://open.spotify.com/album/27C2s8tthY7NsuuDOqrLxm"
-      },
-      "artists": [
-        {
-          "name": "Laura Leon",
-          "url": "https://open.spotify.com/artist/1dON8KmX1N7ZPHCRyhK2hX"
-        }
-      ],
-      "duration_ms": 218333,
-      "name": "La Cantaleta",
-      "url": "https://open.spotify.com/track/5Wtf9c3edivgTkGwxWEyUj"
-    },
-    {
-      "added_at": "2022-07-08 03:00:00",
-      "album": {
         "name": "Viru Kumbieron",
         "url": "https://open.spotify.com/album/1CCcCWcacL3qH60tN70tp3"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 250439,
       "name": "No Te Creas Tan Importante",
       "url": "https://open.spotify.com/track/0fwMnXtxDvVyz5qlcws0Uo"
+    },
+    {
+      "added_at": "2022-07-08 03:00:00",
+      "album": {
+        "name": "20 TropiExitos",
+        "url": "https://open.spotify.com/album/27C2s8tthY7NsuuDOqrLxm"
+      },
+      "artists": [
+        {
+          "name": "Laura Leon",
+          "url": "https://open.spotify.com/artist/1dON8KmX1N7ZPHCRyhK2hX"
+        }
+      ],
+      "duration_ms": 218333,
+      "name": "La Cantaleta",
+      "url": "https://open.spotify.com/track/5Wtf9c3edivgTkGwxWEyUj"
     },
     {
       "added_at": "2022-07-08 03:00:00",
@@ -947,8 +947,8 @@
     {
       "added_at": "2022-07-08 03:00:00",
       "album": {
-        "name": "Las Solteras",
-        "url": "https://open.spotify.com/album/6mUPYZs6lq67RYC6XVvRNF"
+        "name": "Es Mi Culpa",
+        "url": "https://open.spotify.com/album/47ReswkeLCiYbJrCW7OzyH"
       },
       "artists": [
         {
@@ -956,9 +956,9 @@
           "url": "https://open.spotify.com/artist/6ozZB05c03WzEeGM5vR6l7"
         }
       ],
-      "duration_ms": 200286,
-      "name": "Las Solteras",
-      "url": "https://open.spotify.com/track/2Y1fifO4FIdbdjC6KYYxR1"
+      "duration_ms": 215067,
+      "name": "Es Mi Culpa",
+      "url": "https://open.spotify.com/track/4S4oqyulWVGMTmgG9FR7JB"
     },
     {
       "added_at": "2022-07-08 03:00:00",
@@ -1027,8 +1027,8 @@
     {
       "added_at": "2022-07-08 03:00:00",
       "album": {
-        "name": "Es Mi Culpa",
-        "url": "https://open.spotify.com/album/47ReswkeLCiYbJrCW7OzyH"
+        "name": "Las Solteras",
+        "url": "https://open.spotify.com/album/6mUPYZs6lq67RYC6XVvRNF"
       },
       "artists": [
         {
@@ -1036,9 +1036,9 @@
           "url": "https://open.spotify.com/artist/6ozZB05c03WzEeGM5vR6l7"
         }
       ],
-      "duration_ms": 215067,
-      "name": "Es Mi Culpa",
-      "url": "https://open.spotify.com/track/4S4oqyulWVGMTmgG9FR7JB"
+      "duration_ms": 200286,
+      "name": "Las Solteras",
+      "url": "https://open.spotify.com/track/2Y1fifO4FIdbdjC6KYYxR1"
     },
     {
       "added_at": "2022-07-08 03:00:00",

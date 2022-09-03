@@ -2,7 +2,7 @@
 
 ### [Feel Good Jazz](https://open.spotify.com/playlist/37i9dQZF1DWZCkamcYMQkz)
 
-> Uplifting jazz to get you in a good mood.
+> Happy and uplifting jazz to get you in a good mood.
 
 146 songs - 9 hr 39 min - [published](https://open.spotify.com/playlist/4rHMKSAEVjnyNAUi0PpYVv)
 
@@ -34,7 +34,7 @@
 | [Don't Get Around Much Anymore](https://open.spotify.com/track/6RjvMuSa4ZCqPueIIO4IBs) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Duets II](https://open.spotify.com/album/5ktAYFq8wJ1hcWHaxl6AQf) | 2:39 | 2021-12-16 |  |
 | [Doozy](https://open.spotify.com/track/6qszUQoH3QJYvSNwFP9yJB) | [Benny Carter](https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32) | [Further Definitions](https://open.spotify.com/album/4HSABxiXhFWk3UQrCzloLz) | 5:33 | 2021-12-16 | 2022-07-29 |
 | [Doozy \- 1966 Album Version](https://open.spotify.com/track/0iZFlr1KifqE2h5jM8g5pF) | [Benny Carter](https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32) | [Additions To Further Definitions](https://open.spotify.com/album/7xZfgQPKxnmAAt6mLTTSVb) | 5:31 | 2022-06-28 |  |
-| [Dream a Little Dream of Me](https://open.spotify.com/track/49biLp7sPTHLW6sQib5F0V) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [Bing With A Beat](https://open.spotify.com/album/16nNC5RMywKfmx9shprH12) | 2:41 | 2021-12-16 |  |
+| [Dream a Little Dream of Me](https://open.spotify.com/track/49biLp7sPTHLW6sQib5F0V) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [Bing With A Beat](https://open.spotify.com/album/16nNC5RMywKfmx9shprH12) | 2:41 | 2021-12-16 | 2022-09-03 |
 | [Easy Does It](https://open.spotify.com/track/0RIQBKhveHc4LA4BhtkstS) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Night Train \(Expanded Edition\)](https://open.spotify.com/album/3gPOWmWT0q7Ygp95Xiuw1v) | 2:43 | 2021-12-16 |  |
 | [El Día Feliz Que Está Llegando](https://open.spotify.com/track/3tDgxtrndyfPWSZNiBpJXl) | [Gustav Lundgren](https://open.spotify.com/artist/2Qb6yi78O4qlvQDB5JvZKV) | [El Día Feliz Que Está Llegando](https://open.spotify.com/album/4hcdtal5UPhzK9Ix9yWy4f) | 4:15 | 2022-02-24 |  |
 | [Everything Happens to Me](https://open.spotify.com/track/44DiSGodp1YooCyJfI2aeQ) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Samara Joy](https://open.spotify.com/album/4vtI5mccGzPEsOXOtPmef6) | 3:47 | 2022-06-28 |  |
@@ -111,7 +111,7 @@
 | [Ramblin'](https://open.spotify.com/track/3PI3LtxqQtlQCxUxKqDfqm) | [Charles Lloyd](https://open.spotify.com/artist/0GC1oqEWpiAjfE7jm5LQO5) | [Ramblin'](https://open.spotify.com/album/6IF4t8d8X6WTr3KR5RRpSs) | 4:58 | 2021-12-16 |  |
 | [Recado Bossa Nova \- Remastered 2005](https://open.spotify.com/track/5K5NOAnF7DwQATrEumi6dS) | [Hank Mobley](https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv) | [Dippin'](https://open.spotify.com/album/3mx9Te2p8koxBI9oe1341j) | 8:11 | 2022-04-13 |  |
 | [Ridin' High](https://open.spotify.com/track/531BfkXiRcoBDqRaJWKfqT) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc) | [Things Are Swingin'](https://open.spotify.com/album/0puYTmfXiL5UZLyl33nXKT) | 2:10 | 2021-12-16 |  |
-| [Room 608 \- Remastered](https://open.spotify.com/track/7HjUmooZ5Mk8HcDkuWyD50) | [Horace Silver](https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5) | [Horace Silver And The Jazz Messengers](https://open.spotify.com/album/6ChBNNT405wL5eQz8be9Q9) | 5:22 | 2021-12-16 | 2022-09-02 |
+| [Room 608 \- Remastered](https://open.spotify.com/track/7HjUmooZ5Mk8HcDkuWyD50) | [Horace Silver](https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5) | [Horace Silver And The Jazz Messengers](https://open.spotify.com/album/6ChBNNT405wL5eQz8be9Q9) | 5:22 | 2021-12-16 |  |
 | [See See Rider](https://open.spotify.com/track/5NltGjgbV9hy4HMCS9CYoy) | [Ernestine Anderson](https://open.spotify.com/artist/7yNele4jnVhZJ2GE7Kg25T) | [My Kinda Swing](https://open.spotify.com/album/1LJPmxO2eGpzZGrr12LEIa) | 3:02 | 2021-12-16 |  |
 | [Singin' a Melody](https://open.spotify.com/track/60WNBop8SdFIZZ8PZABZNq) | [Paul Callander Quintet](https://open.spotify.com/artist/0eVyw9bcjrdnqRGiz18Yz5) | [Singin' a Melody](https://open.spotify.com/album/1A6JA1ogqLpX4HlV9APXKG) | 3:44 | 2022-06-28 | 2022-09-02 |
 | [Soul Bossa Nova](https://open.spotify.com/track/0Jw3cPBXlGnA6DEJrZSTI0) | [Quincy Jones](https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK) | [Big Band Bossa Nova](https://open.spotify.com/album/1KSOL1jvue2lfcdsNZ7YN8) | 2:46 | 2021-12-16 | 2022-04-21 |

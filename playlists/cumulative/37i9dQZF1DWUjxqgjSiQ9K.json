@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica.  Foto: Funky, Lizzy Parra, y Odanis BSK",
+  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica.  Foto: Majo y Dan",
   "name": "\u00c9xitos Cristianos",
   "published_playlist_ids": [
     "46xuGYmp3nbMhyLwZ3Xj5y"
@@ -273,7 +273,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 292298,
       "name": "Al Estar Aqu\u00ed",
       "url": "https://open.spotify.com/track/36IK0Hvtgilu4HewsuXYPH"
@@ -1371,7 +1371,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 212276,
       "name": "Despierta",
       "url": "https://open.spotify.com/track/3u4jkJRTMTWvXBAPmUB9Zc"
@@ -1749,7 +1749,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 281453,
       "name": "El Mismo Poder",
       "url": "https://open.spotify.com/track/5bDFLVMwotdePHsVOBgOn2"
@@ -2384,6 +2384,24 @@
     },
     {
       "album": {
+        "name": "Hay Fiesta",
+        "url": "https://open.spotify.com/album/6JOTjn48bOftueLqjFaFOp"
+      },
+      "artists": [
+        {
+          "name": "Su Presencia",
+          "url": "https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192959,
+      "name": "Hay Fiesta",
+      "url": "https://open.spotify.com/track/0O5JZMB8BntvrzyMlHY7UW"
+    },
+    {
+      "album": {
         "name": "Todos Mis Mejores Amigos",
         "url": "https://open.spotify.com/album/6yFD9a0CkXz8tY75nyN9wo"
       },
@@ -2509,7 +2527,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 244793,
       "name": "Indestructible",
       "url": "https://open.spotify.com/track/6pSAPtBPK6YlfOQ0DxqIQw"
@@ -3426,6 +3444,32 @@
     },
     {
       "album": {
+        "name": "New Generation Music",
+        "url": "https://open.spotify.com/album/0FN8PvGXPtg4P9Usxm6ldw"
+      },
+      "artists": [
+        {
+          "name": "El Leo Pa\u00b4",
+          "url": "https://open.spotify.com/artist/67SzMFfffYwYnlQhxPGsOt"
+        },
+        {
+          "name": "Abdi",
+          "url": "https://open.spotify.com/artist/1NFEqe4FKmf4nRScXBKfk6"
+        },
+        {
+          "name": "Jinys",
+          "url": "https://open.spotify.com/artist/4dojzRdnyV83FaWOMcK3ir"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237056,
+      "name": "No Confunda",
+      "url": "https://open.spotify.com/track/6PaOsutgehZ8iwKZ6HlLXJ"
+    },
+    {
+      "album": {
         "name": "No Dejaste de Amarme",
         "url": "https://open.spotify.com/album/06dn3mON84HtnP7e1r6qNT"
       },
@@ -3802,6 +3846,32 @@
     },
     {
       "album": {
+        "name": "Temporadas",
+        "url": "https://open.spotify.com/album/5xEKZw2IoJpe5Lh6bEYC45"
+      },
+      "artists": [
+        {
+          "name": "Niko Eme",
+          "url": "https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL"
+        },
+        {
+          "name": "Ada Betsabe",
+          "url": "https://open.spotify.com/artist/7uNB59gDx8XVl1rTJDL1KT"
+        },
+        {
+          "name": "Ander Bock",
+          "url": "https://open.spotify.com/artist/3ARwD7QJqYlDmcFeB6oPQM"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161684,
+      "name": "Probao",
+      "url": "https://open.spotify.com/track/69QW2gAqjCTlpSTW7TVCbh"
+    },
+    {
+      "album": {
         "name": "Probar y Verte / Deseo Eterno",
         "url": "https://open.spotify.com/album/5bkmI3E54lt7HBJf6yO1Ku"
       },
@@ -3919,6 +3989,28 @@
       "duration_ms": 248042,
       "name": "Quien Nos da la Luz del Sol",
       "url": "https://open.spotify.com/track/3s4HWqzLA8zMv41gN41i7s"
+    },
+    {
+      "album": {
+        "name": "Quiero Levantar Mis Manos",
+        "url": "https://open.spotify.com/album/4hQfzI83EELcr33pnRZhDb"
+      },
+      "artists": [
+        {
+          "name": "Adoraci\u00f3n",
+          "url": "https://open.spotify.com/artist/1TUjfvBVBLetTgJLy29Iz2"
+        },
+        {
+          "name": "Majo y Dan",
+          "url": "https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299287,
+      "name": "Quiero Levantar Mis Manos",
+      "url": "https://open.spotify.com/track/5WDZjlNmWt3n9CZ4HR3EfF"
     },
     {
       "album": {

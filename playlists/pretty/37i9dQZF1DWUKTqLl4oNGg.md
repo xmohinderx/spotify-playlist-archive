@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUKTqLl4oNGg.md) - [plain]
 
 > Above the city of Los Angeles, here are a few of the influential songs that echoed from the hills of Laurel Canyon in the 60s & 70s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,427 likes - 60 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,506 likes - 60 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUKTqLl4oNGg.md) - [plain]
 | 38 | [Helplessly Hoping](https://open.spotify.com/track/40WeJU3odsbq1fXNbub4nh) | [Crosby, Stills, Nash & Young](https://open.spotify.com/artist/1CYsQCypByMVgnv17qsSbQ) | [So Far](https://open.spotify.com/album/5C1NUv7hNWS6n0GBtLetKM) | 2:39 |
 | 39 | [Hot Burrito \#1](https://open.spotify.com/track/0fRAGPWGKsntkIB2uZ9zkd) | [The Flying Burrito Brothers](https://open.spotify.com/artist/0rESpKEusFHxhW59MIf7eM) | [The Gilded Palace Of Sin](https://open.spotify.com/album/6VWKy5o2OcdeWa7yolazjU) | 3:37 |
 | 40 | [Goin' Back](https://open.spotify.com/track/6mM3QPK502fHwOYaj6ELmm) | [The Byrds](https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc) | [The Notorious Byrd Brothers](https://open.spotify.com/album/5UI2X5VAmgu9xrlXDd5U7B) | 3:25 |
-| 41 | [Kite Woman](https://open.spotify.com/track/4Z0aLq8K9YEvXssrfcVpd2) | [JD Souther](https://open.spotify.com/artist/0I7UnRLIdCD310ZBgeuqh5) | [Rhino Hi\-Five: J.D\. Souther](https://open.spotify.com/album/4Rq6anggo36B53PflhdgmV) | 3:06 |
+| 41 | [Kite Woman](https://open.spotify.com/track/3OLcz4dQuohRRsJqLS2iXw) | [JD Souther](https://open.spotify.com/artist/0I7UnRLIdCD310ZBgeuqh5) | [John David Souther](https://open.spotify.com/album/5pw5GDqCQjkfc6LctnfQKX) | 3:06 |
 | 42 | [The Door Into Summer \- 2007 Remastered Version](https://open.spotify.com/track/2gzY74wkSgo1ts1IZbjxfT) | [The Monkees](https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck) | [Pisces, Aquarius, Capricorn & Jones Ltd\. \(Deluxe Edition\)](https://open.spotify.com/album/0hYCs5ttzuQcu86VPCEsXF) | 2:50 |
 | 43 | [Witchy Woman \- 2013 Remaster](https://open.spotify.com/track/436yrzQWA32vb1sTZKXg9r) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Eagles \(2013 Remaster\)](https://open.spotify.com/album/51B7LbLWgYLKBVSpkan8Z7) | 4:10 |
 | 44 | [California Dreamin' \- Single Version](https://open.spotify.com/track/4s6LhHAV5SEsOV0lC2tjvJ) | [The Mamas & The Papas](https://open.spotify.com/artist/1bs7HoMkSyQwcobCpE9KpN) | [If You Can Believe Your Eyes & Ears](https://open.spotify.com/album/76oMr4Y2pOtcrvZLc2ZikF) | 2:42 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUKTqLl4oNGg.md) - [plain]
 | 59 | [Desperados Under the Eaves](https://open.spotify.com/track/6PAGJfVrbxdIhIJmbsDLim) | [Warren Zevon](https://open.spotify.com/artist/3mY9Ii0cL5SQxpOTAm8SHx) | [Warren Zevon](https://open.spotify.com/album/5wY8fZoi9eFh3WMjLcHFps) | 4:47 |
 | 60 | [The Bells of Rhymney](https://open.spotify.com/track/1mpv6hIbfG75txI9zJGcf4) | [The Byrds](https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc) | [Mr\. Tambourine Man](https://open.spotify.com/album/0pkrqPjeq9K5KD0hFqAKNa) | 3:30 |
 
-Snapshot ID: `MTU5MDExMDI1NSwwMDAwMDAwMGZmNzZhZWY1MDE5MTYxMzNmMjhkNTMzM2YyNjc5NzI1`
+Snapshot ID: `MTU5MDExMDI1NSwwMDAwMDAwMDU3NDE0OTViZWU4OGU4ODRhODFjMjk3YzI1NWI1NGVh`

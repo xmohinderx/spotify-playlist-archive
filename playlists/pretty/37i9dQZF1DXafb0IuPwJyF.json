@@ -1,12 +1,12 @@
 {
   "description": "The hottest hits in Japan right now. \u65e5\u672c\u306e\u30dd\u30c3\u30d7\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u6700\u65b0\u30d9\u30b9\u30c850\u3002\u6bce\u9031\u6708\u66dc\u65e5\u66f4\u65b0\u3002Cover: yama",
-  "num_followers": 637304,
+  "num_followers": 637601,
   "original_name": "Tokyo Super Hits!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjAzMTk4MSwwMDAwMDAwMDlmNGZhNmEzMTA3MDllZGQ5ZWI1MWMzMDRjNDNmNTFi",
+  "snapshot_id": "MTY2MjE2MjM1NiwwMDAwMDAwMGQ4YmY5YWY3MjU2MGMxODQ0ZWRlNzc1OGFiNjcwZDEw",
   "tracks": [
     {
       "added_at": "2022-09-01 11:33:01",
@@ -23,6 +23,38 @@
       "duration_ms": 245400,
       "name": "Lost",
       "url": "https://open.spotify.com/track/4nkVAZETVn1GVaJ7EEc8GN"
+    },
+    {
+      "added_at": "2022-09-01 11:33:01",
+      "album": {
+        "name": "\u30d9\u30eb\u30d9\u30c3\u30c8\u306e\u8a69",
+        "url": "https://open.spotify.com/album/0qmE5lDI6Z8enOel9hzkS8"
+      },
+      "artists": [
+        {
+          "name": "back number",
+          "url": "https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g"
+        }
+      ],
+      "duration_ms": 254160,
+      "name": "\u30d9\u30eb\u30d9\u30c3\u30c8\u306e\u8a69",
+      "url": "https://open.spotify.com/track/2N4lCwOeFRX7qrbMPRcZ7d"
+    },
+    {
+      "added_at": "2022-09-01 11:33:01",
+      "album": {
+        "name": "NIGHT DANCER",
+        "url": "https://open.spotify.com/album/0qbkekB04QYsLqCX68e8Oy"
+      },
+      "artists": [
+        {
+          "name": "imase",
+          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
+        }
+      ],
+      "duration_ms": 210948,
+      "name": "NIGHT DANCER",
+      "url": "https://open.spotify.com/track/348NF6vX0Yh22xvH0EZEro"
     },
     {
       "added_at": "2022-09-01 11:33:01",
@@ -59,22 +91,6 @@
     {
       "added_at": "2022-09-01 11:33:01",
       "album": {
-        "name": "NIGHT DANCER",
-        "url": "https://open.spotify.com/album/0qbkekB04QYsLqCX68e8Oy"
-      },
-      "artists": [
-        {
-          "name": "imase",
-          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
-        }
-      ],
-      "duration_ms": 210948,
-      "name": "NIGHT DANCER",
-      "url": "https://open.spotify.com/track/348NF6vX0Yh22xvH0EZEro"
-    },
-    {
-      "added_at": "2022-09-01 11:33:01",
-      "album": {
         "name": "Celebrate",
         "url": "https://open.spotify.com/album/3JWwlQso9kjpJ7q7aw8C2F"
       },
@@ -107,18 +123,18 @@
     {
       "added_at": "2022-09-01 11:33:01",
       "album": {
-        "name": "\u30d9\u30eb\u30d9\u30c3\u30c8\u306e\u8a69",
-        "url": "https://open.spotify.com/album/0qmE5lDI6Z8enOel9hzkS8"
+        "name": "Falling into your eyes Record",
+        "url": "https://open.spotify.com/album/5KLZZ5X7b8eM8OXXUBYfgz"
       },
       "artists": [
         {
-          "name": "back number",
-          "url": "https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g"
+          "name": "Aimyon",
+          "url": "https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6"
         }
       ],
-      "duration_ms": 254160,
-      "name": "\u30d9\u30eb\u30d9\u30c3\u30c8\u306e\u8a69",
-      "url": "https://open.spotify.com/track/2N4lCwOeFRX7qrbMPRcZ7d"
+      "duration_ms": 251720,
+      "name": "3636",
+      "url": "https://open.spotify.com/track/2mHWjrN4rIL8vbWt0Od9Ux"
     },
     {
       "added_at": "2022-09-01 11:33:01",
@@ -155,22 +171,6 @@
     {
       "added_at": "2022-09-01 11:33:01",
       "album": {
-        "name": "Falling into your eyes Record",
-        "url": "https://open.spotify.com/album/5KLZZ5X7b8eM8OXXUBYfgz"
-      },
-      "artists": [
-        {
-          "name": "Aimyon",
-          "url": "https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6"
-        }
-      ],
-      "duration_ms": 251720,
-      "name": "3636",
-      "url": "https://open.spotify.com/track/2mHWjrN4rIL8vbWt0Od9Ux"
-    },
-    {
-      "added_at": "2022-09-01 11:33:01",
-      "album": {
         "name": "\u5815\u5929",
         "url": "https://open.spotify.com/album/6TyquheH5JW6c5YuZ4ectA"
       },
@@ -183,6 +183,34 @@
       "duration_ms": 172948,
       "name": "\u5815\u5929",
       "url": "https://open.spotify.com/track/1ndUYRPchJVNQCM7XwN7Hq"
+    },
+    {
+      "added_at": "2022-09-01 11:33:01",
+      "album": {
+        "name": "\u541b\u304c\u3044\u306a\u3044\u4e16\u754c",
+        "url": "https://open.spotify.com/album/3VCTWwETLTZtm0iXmFSq6A"
+      },
+      "artists": [
+        {
+          "name": "(sic)boy",
+          "url": "https://open.spotify.com/artist/19FI3bwyW062xAmEy3rzsk"
+        },
+        {
+          "name": "JUBEE",
+          "url": "https://open.spotify.com/artist/3NyJkvXLy5dg73SrT0ykba"
+        },
+        {
+          "name": "Chaki Zulu",
+          "url": "https://open.spotify.com/artist/1OZZwe2ji8xjfVC8qjrQup"
+        },
+        {
+          "name": "KM",
+          "url": "https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa"
+        }
+      ],
+      "duration_ms": 154110,
+      "name": "\u541b\u304c\u3044\u306a\u3044\u4e16\u754c",
+      "url": "https://open.spotify.com/track/1BduWmGXpjUAbunc1hrOr0"
     },
     {
       "added_at": "2022-09-01 11:33:01",
@@ -219,34 +247,6 @@
       "duration_ms": 244173,
       "name": "Always You",
       "url": "https://open.spotify.com/track/38kfx7lgJFHFxJMAvMMkRy"
-    },
-    {
-      "added_at": "2022-09-01 11:33:01",
-      "album": {
-        "name": "\u541b\u304c\u3044\u306a\u3044\u4e16\u754c",
-        "url": "https://open.spotify.com/album/3VCTWwETLTZtm0iXmFSq6A"
-      },
-      "artists": [
-        {
-          "name": "(sic)boy",
-          "url": "https://open.spotify.com/artist/19FI3bwyW062xAmEy3rzsk"
-        },
-        {
-          "name": "JUBEE",
-          "url": "https://open.spotify.com/artist/3NyJkvXLy5dg73SrT0ykba"
-        },
-        {
-          "name": "Chaki Zulu",
-          "url": "https://open.spotify.com/artist/1OZZwe2ji8xjfVC8qjrQup"
-        },
-        {
-          "name": "KM",
-          "url": "https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa"
-        }
-      ],
-      "duration_ms": 154110,
-      "name": "\u541b\u304c\u3044\u306a\u3044\u4e16\u754c",
-      "url": "https://open.spotify.com/track/1BduWmGXpjUAbunc1hrOr0"
     },
     {
       "added_at": "2022-09-01 11:33:01",

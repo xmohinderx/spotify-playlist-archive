@@ -1,12 +1,12 @@
 {
   "description": "Mellow songs from the 2000s. Cover: Rihanna.",
-  "num_followers": 343722,
+  "num_followers": 343509,
   "original_name": "Soft 00s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzkxNjE5MCwwMDAwMDAwMDY4YTNkNDljZjg2MDhjN2VhN2ZmY2JhOTM3ZDQ2ZjVi",
+  "snapshot_id": "MTY1MzkxNjE5MCwwMDAwMDAwMDcwNGVhYTRiNGI2YmZjZDNiMjhiYWIwMDcyMTBhOTcw",
   "tracks": [
     {
       "added_at": "2022-05-30 13:09:50",
@@ -355,6 +355,22 @@
     {
       "added_at": "2022-05-30 13:09:50",
       "album": {
+        "name": "Eyes Open",
+        "url": "https://open.spotify.com/album/3k7bXPw2u0C0SBKPMsgMS3"
+      },
+      "artists": [
+        {
+          "name": "Snow Patrol",
+          "url": "https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp"
+        }
+      ],
+      "duration_ms": 267960,
+      "name": "Chasing Cars",
+      "url": "https://open.spotify.com/track/5hnyJvgoWiQUYZttV4wXy6"
+    },
+    {
+      "added_at": "2022-05-30 13:09:50",
+      "album": {
         "name": "Back to Bedlam",
         "url": "https://open.spotify.com/album/1ekaxA9Q5GzUPCepx4wzMF"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 233640,
       "name": "Bad Day",
       "url": "https://open.spotify.com/track/0mUyMawtxj1CJ76kn9gIZK"
-    },
-    {
-      "added_at": "2022-05-30 13:09:50",
-      "album": {
-        "name": "Eyes Open",
-        "url": "https://open.spotify.com/album/3k7bXPw2u0C0SBKPMsgMS3"
-      },
-      "artists": [
-        {
-          "name": "Snow Patrol",
-          "url": "https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp"
-        }
-      ],
-      "duration_ms": 267960,
-      "name": "Chasing Cars",
-      "url": "https://open.spotify.com/track/5hnyJvgoWiQUYZttV4wXy6"
     },
     {
       "added_at": "2022-05-30 13:09:50",
@@ -599,22 +599,6 @@
     {
       "added_at": "2022-05-30 13:09:50",
       "album": {
-        "name": "Waking Up",
-        "url": "https://open.spotify.com/album/2pLAOZiilrhOrTQNqrF8qr"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 253306,
-      "name": "Good Life",
-      "url": "https://open.spotify.com/track/6OtCIsQZ64Vs1EbzztvAv4"
-    },
-    {
-      "added_at": "2022-05-30 13:09:50",
-      "album": {
         "name": "Results May Vary",
         "url": "https://open.spotify.com/album/3oUoQ0UH7Rv06x1kpSjS36"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 269973,
       "name": "Behind Blue Eyes",
       "url": "https://open.spotify.com/track/1MTQHCpraD4S8g5PAFKzoj"
+    },
+    {
+      "added_at": "2022-05-30 13:09:50",
+      "album": {
+        "name": "Waking Up",
+        "url": "https://open.spotify.com/album/2pLAOZiilrhOrTQNqrF8qr"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 253306,
+      "name": "Good Life",
+      "url": "https://open.spotify.com/track/6OtCIsQZ64Vs1EbzztvAv4"
     },
     {
       "added_at": "2022-05-30 13:09:50",
@@ -875,22 +875,6 @@
     {
       "added_at": "2022-05-30 13:09:50",
       "album": {
-        "name": "FutureSex/LoveSounds",
-        "url": "https://open.spotify.com/album/2scB1uhcCI1TSf6b9TCZK3"
-      },
-      "artists": [
-        {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        }
-      ],
-      "duration_ms": 448573,
-      "name": "What Goes Around.../...Comes Around (Interlude)",
-      "url": "https://open.spotify.com/track/3pD0f7hSJg2XdQ6udw5Tey"
-    },
-    {
-      "added_at": "2022-05-30 13:09:50",
-      "album": {
         "name": "Let Go",
         "url": "https://open.spotify.com/album/3zXjR3y2dUWklKmmp6lEhy"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 223066,
       "name": "I'm with You",
       "url": "https://open.spotify.com/track/1jlG3KJ3gdYmhfuySFfpO1"
+    },
+    {
+      "added_at": "2022-05-30 13:09:50",
+      "album": {
+        "name": "FutureSex/LoveSounds",
+        "url": "https://open.spotify.com/album/2scB1uhcCI1TSf6b9TCZK3"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "duration_ms": 448573,
+      "name": "What Goes Around.../...Comes Around (Interlude)",
+      "url": "https://open.spotify.com/track/3pD0f7hSJg2XdQ6udw5Tey"
     },
     {
       "added_at": "2022-05-30 13:09:50",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2022-05-30 13:09:50",
       "album": {
-        "name": "Dreaming Out Loud",
-        "url": "https://open.spotify.com/album/2KSpGeDoNjqCKg6HL8LAyI"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 208106,
-      "name": "Apologize",
-      "url": "https://open.spotify.com/track/1NrJYpdAi7uosDRPmSYrsG"
-    },
-    {
-      "added_at": "2022-05-30 13:09:50",
-      "album": {
         "name": "Good Girl Gone Bad: Reloaded",
         "url": "https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 218946,
       "name": "Hate That I Love You",
       "url": "https://open.spotify.com/track/7iu0WYLdo4yksKf3seaxzI"
+    },
+    {
+      "added_at": "2022-05-30 13:09:50",
+      "album": {
+        "name": "Dreaming Out Loud",
+        "url": "https://open.spotify.com/album/2KSpGeDoNjqCKg6HL8LAyI"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 208106,
+      "name": "Apologize",
+      "url": "https://open.spotify.com/track/1NrJYpdAi7uosDRPmSYrsG"
     },
     {
       "added_at": "2022-05-30 13:09:50",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2022-05-30 13:09:50",
       "album": {
-        "name": "Rated R",
-        "url": "https://open.spotify.com/album/7uGmyYwDFJbSc1xs4hkEs2"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 227533,
-      "name": "Russian Roulette",
-      "url": "https://open.spotify.com/track/3rMsX63C0IZVnOT5LGYoTH"
-    },
-    {
-      "added_at": "2022-05-30 13:09:50",
-      "album": {
         "name": "Taylor Swift",
         "url": "https://open.spotify.com/album/7mzrIsaAjnXihW3InKjlC3"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 203040,
       "name": "Teardrops On My Guitar - Radio Single Remix",
       "url": "https://open.spotify.com/track/7zMcNqs55Mxer82bvZFkpg"
+    },
+    {
+      "added_at": "2022-05-30 13:09:50",
+      "album": {
+        "name": "Rated R",
+        "url": "https://open.spotify.com/album/7uGmyYwDFJbSc1xs4hkEs2"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 227533,
+      "name": "Russian Roulette",
+      "url": "https://open.spotify.com/track/3rMsX63C0IZVnOT5LGYoTH"
     },
     {
       "added_at": "2022-05-30 13:09:50",
@@ -1643,6 +1643,22 @@
     {
       "added_at": "2022-05-30 13:09:50",
       "album": {
+        "name": "Back To Basics",
+        "url": "https://open.spotify.com/album/0zRJsgzHZUUdk8Rjk6Segd"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "duration_ms": 243373,
+      "name": "Hurt",
+      "url": "https://open.spotify.com/track/6gDXbcILAyBa2skSdbUYq7"
+    },
+    {
+      "added_at": "2022-05-30 13:09:50",
+      "album": {
         "name": "The Breakthrough",
         "url": "https://open.spotify.com/album/13HYuDhB1soZvHzwoymXoV"
       },
@@ -1659,22 +1675,6 @@
       "duration_ms": 260466,
       "name": "One",
       "url": "https://open.spotify.com/track/3Lk7RWStfLaHG7lXsuS87j"
-    },
-    {
-      "added_at": "2022-05-30 13:09:50",
-      "album": {
-        "name": "Back To Basics",
-        "url": "https://open.spotify.com/album/0zRJsgzHZUUdk8Rjk6Segd"
-      },
-      "artists": [
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        }
-      ],
-      "duration_ms": 243373,
-      "name": "Hurt",
-      "url": "https://open.spotify.com/track/6gDXbcILAyBa2skSdbUYq7"
     },
     {
       "added_at": "2022-05-30 13:09:50",
@@ -1923,22 +1923,6 @@
     {
       "added_at": "2022-05-30 13:09:50",
       "album": {
-        "name": "Shades of Purple",
-        "url": "https://open.spotify.com/album/64qpmVqrwUlBihBMhZDyJj"
-      },
-      "artists": [
-        {
-          "name": "M2M",
-          "url": "https://open.spotify.com/artist/0ZzYDST6Dib7iYd8hmcLcH"
-        }
-      ],
-      "duration_ms": 279240,
-      "name": "Pretty Boy",
-      "url": "https://open.spotify.com/track/5pgdZyYh16sAUkDjrqGPej"
-    },
-    {
-      "added_at": "2022-05-30 13:09:50",
-      "album": {
         "name": "PCD",
         "url": "https://open.spotify.com/album/5x8e8UcCeOgrOzSnDGuPye"
       },
@@ -1951,6 +1935,22 @@
       "duration_ms": 207506,
       "name": "Stickwitu",
       "url": "https://open.spotify.com/track/4NjR63Up0uMkQBlKvlZd1l"
+    },
+    {
+      "added_at": "2022-05-30 13:09:50",
+      "album": {
+        "name": "Shades of Purple",
+        "url": "https://open.spotify.com/album/64qpmVqrwUlBihBMhZDyJj"
+      },
+      "artists": [
+        {
+          "name": "M2M",
+          "url": "https://open.spotify.com/artist/0ZzYDST6Dib7iYd8hmcLcH"
+        }
+      ],
+      "duration_ms": 279240,
+      "name": "Pretty Boy",
+      "url": "https://open.spotify.com/track/5pgdZyYh16sAUkDjrqGPej"
     },
     {
       "added_at": "2022-05-30 13:09:50",
@@ -2227,22 +2227,6 @@
     {
       "added_at": "2022-05-30 13:09:50",
       "album": {
-        "name": "Mind Body & Soul",
-        "url": "https://open.spotify.com/album/6O0QKBENHPmifQwLZZGnqM"
-      },
-      "artists": [
-        {
-          "name": "Joss Stone",
-          "url": "https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi"
-        }
-      ],
-      "duration_ms": 280960,
-      "name": "Right To Be Wrong",
-      "url": "https://open.spotify.com/track/1atxtvAHagXDZYTuUWAoEC"
-    },
-    {
-      "added_at": "2022-05-30 13:09:50",
-      "album": {
         "name": "Britney (Digital Deluxe Version)",
         "url": "https://open.spotify.com/album/5ax3GTsfX5uCUaNgnJsSG5"
       },
@@ -2255,6 +2239,22 @@
       "duration_ms": 231066,
       "name": "I'm Not a Girl, Not Yet a Woman",
       "url": "https://open.spotify.com/track/1xg1yGPy1Y3YUf44s6TB1o"
+    },
+    {
+      "added_at": "2022-05-30 13:09:50",
+      "album": {
+        "name": "Mind Body & Soul",
+        "url": "https://open.spotify.com/album/6O0QKBENHPmifQwLZZGnqM"
+      },
+      "artists": [
+        {
+          "name": "Joss Stone",
+          "url": "https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi"
+        }
+      ],
+      "duration_ms": 280960,
+      "name": "Right To Be Wrong",
+      "url": "https://open.spotify.com/track/1atxtvAHagXDZYTuUWAoEC"
     },
     {
       "added_at": "2022-05-30 13:09:50",
@@ -2327,22 +2327,6 @@
     {
       "added_at": "2022-05-30 13:09:50",
       "album": {
-        "name": "Survivor",
-        "url": "https://open.spotify.com/album/480AZOo2VQ1kf3GedAiKV9"
-      },
-      "artists": [
-        {
-          "name": "Destiny's Child",
-          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
-        }
-      ],
-      "duration_ms": 236400,
-      "name": "Emotion",
-      "url": "https://open.spotify.com/track/01Aj44KIjCrPmZeXq4UOky"
-    },
-    {
-      "added_at": "2022-05-30 13:09:50",
-      "album": {
         "name": "In Blue",
         "url": "https://open.spotify.com/album/3F8v4omWXxDHrqntA83WJY"
       },
@@ -2355,6 +2339,22 @@
       "duration_ms": 240679,
       "name": "All the Love in the World",
       "url": "https://open.spotify.com/track/1kDWRREI28eCvDpJvSRd9b"
+    },
+    {
+      "added_at": "2022-05-30 13:09:50",
+      "album": {
+        "name": "Survivor",
+        "url": "https://open.spotify.com/album/480AZOo2VQ1kf3GedAiKV9"
+      },
+      "artists": [
+        {
+          "name": "Destiny's Child",
+          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
+        }
+      ],
+      "duration_ms": 236400,
+      "name": "Emotion",
+      "url": "https://open.spotify.com/track/01Aj44KIjCrPmZeXq4UOky"
     },
     {
       "added_at": "2022-05-30 13:09:50",

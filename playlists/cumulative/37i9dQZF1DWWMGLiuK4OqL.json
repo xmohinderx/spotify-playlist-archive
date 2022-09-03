@@ -1094,6 +1094,28 @@
     },
     {
       "album": {
+        "name": "Cover Up",
+        "url": "https://open.spotify.com/album/7JXds7hOl3z4LGfx8xTorg"
+      },
+      "artists": [
+        {
+          "name": "Caity Gyorgy",
+          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
+        },
+        {
+          "name": "Christine Jensen",
+          "url": "https://open.spotify.com/artist/6ILqwG2NEsYuwmqIzZ1Spu"
+        }
+      ],
+      "date_added": "2022-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366306,
+      "name": "Cover Up",
+      "url": "https://open.spotify.com/track/4uG1SPiRluQnbhRdfsgSYU"
+    },
+    {
+      "album": {
         "name": "C\u2019est Magnifique",
         "url": "https://open.spotify.com/album/3iFTFzxTLIJefXdCZH3RtN"
       },
@@ -5147,7 +5169,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 234533,
       "name": "You've Changed",
       "url": "https://open.spotify.com/track/1c4uYJTTaTzrEXAyyB95at"

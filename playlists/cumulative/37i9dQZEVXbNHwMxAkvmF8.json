@@ -778,6 +778,24 @@
     },
     {
       "album": {
+        "name": "Beb*sztam",
+        "url": "https://open.spotify.com/album/3uh6yLcgSxTaELqzlRXbba"
+      },
+      "artists": [
+        {
+          "name": "Bsw",
+          "url": "https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193572,
+      "name": "Beb*sztam",
+      "url": "https://open.spotify.com/track/4kHnC6jF3AG4P0K8WllpQr"
+    },
+    {
+      "album": {
         "name": "BED",
         "url": "https://open.spotify.com/album/36tML2tWjDrbLW4FgrX17U"
       },
@@ -2623,7 +2641,7 @@
       ],
       "date_added": "2022-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 181530,
       "name": "Feledn\u00e9d",
       "url": "https://open.spotify.com/track/3Mls3f2j9xGRqRRsoKA0Ef"
@@ -2859,7 +2877,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-21",
+      "date_removed": null,
       "duration_ms": 136286,
       "name": "Gett\u00f3 csirke",
       "url": "https://open.spotify.com/track/1PLekMr5mC9sf0n37TWv5G"
@@ -3094,6 +3112,24 @@
     },
     {
       "album": {
+        "name": "Gy\u00f6ny\u00f6r",
+        "url": "https://open.spotify.com/album/0oY3W5IWzrI58qN4aiOyQK"
+      },
+      "artists": [
+        {
+          "name": "Pog\u00e1ny Indul\u00f3",
+          "url": "https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195692,
+      "name": "Gy\u00f6ny\u00f6r",
+      "url": "https://open.spotify.com/track/1FlCC0MovzszzvUi8lUmF3"
+    },
+    {
+      "album": {
         "name": "Ha eddig nem kellettem",
         "url": "https://open.spotify.com/album/0I4eY1zWo3VxDU15WPIkG2"
       },
@@ -3141,7 +3177,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-12",
+      "date_removed": null,
       "duration_ms": 201600,
       "name": "Ha meghalok",
       "url": "https://open.spotify.com/track/5o5F8K2f2J258y3ZpfU5Ii"
@@ -5231,7 +5267,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 244804,
       "name": "Mary On A Cross",
       "url": "https://open.spotify.com/track/2HZLXBOnaSRhXStMLrq9fD"
@@ -7915,7 +7951,7 @@
       ],
       "date_added": "2022-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 179551,
       "name": "SNAP",
       "url": "https://open.spotify.com/track/6zJejIfVYLgjud3lTk4DLB"
@@ -8619,7 +8655,7 @@
       ],
       "date_added": "2021-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 164818,
       "name": "The Motto",
       "url": "https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO"

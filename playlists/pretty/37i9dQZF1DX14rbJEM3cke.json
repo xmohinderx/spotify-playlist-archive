@@ -1,13 +1,85 @@
 {
-  "description": "New Rock driving the current, every week. Cover: Rico Nasty",
-  "num_followers": 16134,
+  "description": "New Rock driving the current, every week. Cover: James Mantis\n",
+  "num_followers": 16180,
   "original_name": "Rock Frequency",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQ4NjQwMCwwMDAwMDAwMGI4NzJiODg5MWFiOGI0N2U2ODkyNjEzMDdmOGExYzU4",
+  "snapshot_id": "MTY2MjE2NjkxMywwMDAwMDAwMGY2Y2FiYWU5NTg1MDViYjMxYjNlYzNlN2ZhM2Y3ZjM4",
   "tracks": [
+    {
+      "added_at": "2022-09-03 01:01:53",
+      "album": {
+        "name": "CRUMBLE",
+        "url": "https://open.spotify.com/album/3tukKF6gkRQ7OIWu3kse3j"
+      },
+      "artists": [
+        {
+          "name": "James Mantis",
+          "url": "https://open.spotify.com/artist/0HzRhsDxi3nyKikga3GW5r"
+        }
+      ],
+      "duration_ms": 134640,
+      "name": "CRUMBLE",
+      "url": "https://open.spotify.com/track/1ud2gKMwBIK5XkePiIr16r"
+    },
+    {
+      "added_at": "2022-09-03 01:01:53",
+      "album": {
+        "name": "Memories (with WILLOW)",
+        "url": "https://open.spotify.com/album/0OJD74cS6Isaf2iAdkGSOd"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        },
+        {
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+        }
+      ],
+      "duration_ms": 155919,
+      "name": "Memories (with WILLOW)",
+      "url": "https://open.spotify.com/track/3LcMLFApeU9uCT8VCWEVjr"
+    },
+    {
+      "added_at": "2022-09-03 01:01:53",
+      "album": {
+        "name": "TAKE THIS CROWN (feat. Good Charlotte)",
+        "url": "https://open.spotify.com/album/5A4pLq7sNTS4kdEnd6lN9M"
+      },
+      "artists": [
+        {
+          "name": "DE'WAYNE",
+          "url": "https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O"
+        },
+        {
+          "name": "Good Charlotte",
+          "url": "https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS"
+        }
+      ],
+      "duration_ms": 215986,
+      "name": "TAKE THIS CROWN (feat. Good Charlotte)",
+      "url": "https://open.spotify.com/track/2IY9lQ8pD2uVzAoIxJUPK8"
+    },
+    {
+      "added_at": "2022-06-03 04:00:00",
+      "album": {
+        "name": "Nasty",
+        "url": "https://open.spotify.com/album/4RKiTVGT9pCVRnqIkwKWo1"
+      },
+      "artists": [
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        }
+      ],
+      "duration_ms": 140571,
+      "name": "Rage",
+      "url": "https://open.spotify.com/track/0d3pSVPhCfuzAJLyMUZYjT"
+    },
     {
       "added_at": "2022-08-26 04:00:00",
       "album": {
@@ -25,20 +97,52 @@
       "url": "https://open.spotify.com/track/2KkglYERoV6dGi9ME4iYsw"
     },
     {
-      "added_at": "2022-06-03 04:00:00",
+      "added_at": "2022-09-03 01:01:53",
       "album": {
-        "name": "Nasty",
-        "url": "https://open.spotify.com/album/4RKiTVGT9pCVRnqIkwKWo1"
+        "name": "Mood Hoover",
+        "url": "https://open.spotify.com/album/6QMxKOuHssNVCqphLFbUn1"
       },
       "artists": [
         {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+          "name": "Connie Constance",
+          "url": "https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt"
         }
       ],
-      "duration_ms": 140571,
-      "name": "Rage",
-      "url": "https://open.spotify.com/track/0d3pSVPhCfuzAJLyMUZYjT"
+      "duration_ms": 194773,
+      "name": "Mood Hoover",
+      "url": "https://open.spotify.com/track/1Kma7Z2DAv6tI7beez0Jqo"
+    },
+    {
+      "added_at": "2022-09-03 01:01:53",
+      "album": {
+        "name": "wish i was dead",
+        "url": "https://open.spotify.com/album/3B4UmoO1zRScG8X8MSDHy4"
+      },
+      "artists": [
+        {
+          "name": "EKKSTACY",
+          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
+        }
+      ],
+      "duration_ms": 98800,
+      "name": "wish i was dead",
+      "url": "https://open.spotify.com/track/16dzo8i1mlh2AkmQ4DhwXH"
+    },
+    {
+      "added_at": "2022-09-03 01:01:53",
+      "album": {
+        "name": "nothing (in my head)",
+        "url": "https://open.spotify.com/album/42jJ257HJG8CNZdGGpj61K"
+      },
+      "artists": [
+        {
+          "name": "Pinkshift",
+          "url": "https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P"
+        }
+      ],
+      "duration_ms": 185319,
+      "name": "nothing (in my head)",
+      "url": "https://open.spotify.com/track/4PFn8XOYbV4zlWr4Jhu7XX"
     },
     {
       "added_at": "2022-08-26 04:00:00",
@@ -819,22 +923,6 @@
       "duration_ms": 150039,
       "name": "Respectfully",
       "url": "https://open.spotify.com/track/59ezMUPbbZ5xR8HAtGr24s"
-    },
-    {
-      "added_at": "2022-06-03 04:00:00",
-      "album": {
-        "name": "The Metal In Me",
-        "url": "https://open.spotify.com/album/0DEh8au4ajDFEIUuMBrUOD"
-      },
-      "artists": [
-        {
-          "name": "Kamiyada+",
-          "url": "https://open.spotify.com/artist/7cB6KjTm98hhNE9eeyhcnF"
-        }
-      ],
-      "duration_ms": 151331,
-      "name": "Metal In Me",
-      "url": "https://open.spotify.com/track/5YHWa4a7MX7ogGuCgmHou8"
     },
     {
       "added_at": "2022-06-03 04:00:00",

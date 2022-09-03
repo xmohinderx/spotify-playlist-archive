@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4fxf4OrMhXb.md) - [plain]
 
 > Close the curtains, it's time for some leftfield gems.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,431 likes - 60 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,520 likes - 60 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4fxf4OrMhXb.md) - [plain]
 | 28 | [Love Divide](https://open.spotify.com/track/5N6x5VY1I0ER9JRtD9PEcy) | [Ross from Friends](https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF) | [Love Divide](https://open.spotify.com/album/16dR19lw7xsjTvpkga7Sg0) | 4:29 |
 | 29 | [Naif](https://open.spotify.com/track/1ouVOHVm1FGkEch0sinTTE) | [Recondite](https://open.spotify.com/artist/1doQgXssRfKnLx70adszbK) | [Naif](https://open.spotify.com/album/72lhRktJCMEHHZ5lTaEzeA) | 3:44 |
 | 30 | [Music To Heal To](https://open.spotify.com/track/2KvkzuYVnHaGEYbY5gfF8R) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS) | [Harmonic Frequencies](https://open.spotify.com/album/0xk9jsZcE6LAl9jNEqBQz7) | 6:23 |
-| 31 | [Heartbreak \- Kerri Chandler Remix](https://open.spotify.com/track/6UpWBI1nTv9PnqnGKuzIuT) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN), [Kerri Chandler](https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W) | [Heartbreak \(Kerri Chandler Remix\)](https://open.spotify.com/album/6gxKfyBsjJVL2GdH2YBajb) | 6:19 |
-| 32 | [The East](https://open.spotify.com/track/3f24OX8Zk6JAbZJbpbXd6U) | [Godford](https://open.spotify.com/artist/4pUwtnbS6FdBniLp410AOu) | [I YOU SHE \(Remixes\)](https://open.spotify.com/album/4Q5GWCi3s7c9ei0au3ewMA) | 3:07 |
+| 31 | [The East](https://open.spotify.com/track/3f24OX8Zk6JAbZJbpbXd6U) | [Godford](https://open.spotify.com/artist/4pUwtnbS6FdBniLp410AOu) | [I YOU SHE \(Remixes\)](https://open.spotify.com/album/4Q5GWCi3s7c9ei0au3ewMA) | 3:07 |
+| 32 | [Heartbreak \- Kerri Chandler Remix](https://open.spotify.com/track/6UpWBI1nTv9PnqnGKuzIuT) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN), [Kerri Chandler](https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W) | [Heartbreak \(Kerri Chandler Remix\)](https://open.spotify.com/album/6gxKfyBsjJVL2GdH2YBajb) | 6:19 |
 | 33 | [L.S.B.](https://open.spotify.com/track/6oemEFeEzyfzykENkTCbKf) | [Studio Barnhus](https://open.spotify.com/artist/3BQyyXUJs39bwh0o4W2Pvs) | [L.S.B.](https://open.spotify.com/album/4O8zXtocpAJZo4kjrhMJmc) | 4:12 |
 | 34 | [Poly 61](https://open.spotify.com/track/504mdqIfWU65Ar6ePzsZJU) | [Liam Mour](https://open.spotify.com/artist/5XaT1otgH5hpyqjkDbt8d0) | [Poly 61](https://open.spotify.com/album/4QtJHCnRvyffr6Jx34K68H) | 4:33 |
 | 35 | [I've Felt Better \- Daniel Avery Remix](https://open.spotify.com/track/776c1GM41sF4ZbWeWiUEgr) | [Gold Panda](https://open.spotify.com/artist/6xS3zemJD9h94iueQvGqVk), [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [I've Felt Better \(Daniel Avery Remix\)](https://open.spotify.com/album/6v0NEvA792ns4sxahYn8iB) | 5:12 |
@@ -47,11 +47,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4fxf4OrMhXb.md) - [plain]
 | 37 | [Survival Mode](https://open.spotify.com/track/5NkuFcVjBnrZU6JKSAU546) | [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2) | [Night Creature](https://open.spotify.com/album/2jye5HOLZkOmO2p97B3fgU) | 3:31 |
 | 38 | [Euro Visions \- Marlon Hoffstadt AKA Dj Daddy Trance Remix](https://open.spotify.com/track/1nvoh304h7a0RQgPgquxgZ) | [S7RENS](https://open.spotify.com/artist/4ZJGyUysIpIEULuzIzOzfl), [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f) | [Euro Visions \(Marlon Hoffstadt AKA Dj Daddy Trance Remix\)](https://open.spotify.com/album/0C3yLvZNlvr1deVChjY2PZ) | 6:14 |
 | 39 | [She Loves Me](https://open.spotify.com/track/5oSPxL7HL9TmZdEC11mYd4) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q), [Stella Explorer](https://open.spotify.com/artist/4dPeWqBSnhunEI2okArvwD) | [She Loves Me](https://open.spotify.com/album/3RWu10vRzLgRiw7X9hwijw) | 4:08 |
-| 40 | [Untitled IV](https://open.spotify.com/track/1m6l9yUMnbFpBdaxYZXsuj) | [Fort Romeau](https://open.spotify.com/artist/5MKqWyqq5CStK7AhkTvzQF) | [Untitled IV](https://open.spotify.com/album/1z4Q3HjmtpRViik5kb1fGZ) | 4:44 |
-| 41 | [Play In The Dark](https://open.spotify.com/track/4ND92kpiHy3mxvLVgFSowz) | [Seth Troxler](https://open.spotify.com/artist/3JkLFcTej6tdwZoQT6Nx4B), [The Martinez Brothers](https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU) | [Play In The Dark](https://open.spotify.com/album/4hU3TVtRDIPFugFjCGMKEC) | 4:55 |
-| 42 | [Aubades](https://open.spotify.com/track/0g0qLH5j3rPgmlkBik4E12) | [rAHHH](https://open.spotify.com/artist/1Y6WK1BxA34xgovJAKPYki) | [Blinking/Aubades](https://open.spotify.com/album/0EqUoT7hlOpNjUiEfabM7U) | 3:40 |
-| 43 | [agape](https://open.spotify.com/track/7xAy9XzbF4M0qtZuoQYtdI) | [dj poolboi](https://open.spotify.com/artist/3uL9a8QRwQ6J8Sc7NYK7oJ) | [agape](https://open.spotify.com/album/0fLcvbxE3GGVBVv6v5NG5S) | 3:18 |
-| 44 | [Hey Baby \- Edit](https://open.spotify.com/track/7MndqEJo8v79ZzT0dfkVdE) | [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [Hey Baby](https://open.spotify.com/album/5SFR0BM59foRYgSloVXkWI) | 3:20 |
+| 40 | [Hey Baby \- Edit](https://open.spotify.com/track/7MndqEJo8v79ZzT0dfkVdE) | [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [Hey Baby](https://open.spotify.com/album/5SFR0BM59foRYgSloVXkWI) | 3:20 |
+| 41 | [Untitled IV](https://open.spotify.com/track/1m6l9yUMnbFpBdaxYZXsuj) | [Fort Romeau](https://open.spotify.com/artist/5MKqWyqq5CStK7AhkTvzQF) | [Untitled IV](https://open.spotify.com/album/1z4Q3HjmtpRViik5kb1fGZ) | 4:44 |
+| 42 | [Play In The Dark](https://open.spotify.com/track/4ND92kpiHy3mxvLVgFSowz) | [Seth Troxler](https://open.spotify.com/artist/3JkLFcTej6tdwZoQT6Nx4B), [The Martinez Brothers](https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU) | [Play In The Dark](https://open.spotify.com/album/4hU3TVtRDIPFugFjCGMKEC) | 4:55 |
+| 43 | [Aubades](https://open.spotify.com/track/0g0qLH5j3rPgmlkBik4E12) | [rAHHH](https://open.spotify.com/artist/1Y6WK1BxA34xgovJAKPYki) | [Blinking/Aubades](https://open.spotify.com/album/0EqUoT7hlOpNjUiEfabM7U) | 3:40 |
+| 44 | [agape](https://open.spotify.com/track/7xAy9XzbF4M0qtZuoQYtdI) | [dj poolboi](https://open.spotify.com/artist/3uL9a8QRwQ6J8Sc7NYK7oJ) | [agape](https://open.spotify.com/album/0fLcvbxE3GGVBVv6v5NG5S) | 3:18 |
 | 45 | [Moments](https://open.spotify.com/track/30YAjV3UwFbCwYaYzTqHyE) | [Kid Kun](https://open.spotify.com/artist/4rQ2NFicaqDkXbmATxbReQ) | [Lost City Archives, Vol\. 6](https://open.spotify.com/album/564WpzxRdvGxi2QW3px5QM) | 4:42 |
 | 46 | [Polymer Pyramid](https://open.spotify.com/track/0SSgDTHqX7y3JwJ47XUtmx) | [Space Dimension Controller](https://open.spotify.com/artist/7rZjYMRC5pTV089WKn1Y4s) | [Polymer Pyramid](https://open.spotify.com/album/7JgvbVWgRYz1IqkieeUaqQ) | 4:49 |
 | 47 | [Self Oscillation](https://open.spotify.com/track/323rrOHJM4CdGHTGvWcqAy) | [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn) | [Self Oscillation](https://open.spotify.com/album/1IFsw8Gq05lBJQWAcSM3I5) | 4:19 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4fxf4OrMhXb.md) - [plain]
 | 59 | [M\-type](https://open.spotify.com/track/0bHco4SUI1EJmxtcRohKIn) | [COMPUTER DATA](https://open.spotify.com/artist/5wwnitxvqbrtiGk3QW3BuN) | [Ego](https://open.spotify.com/album/4uDqyUV4prv6jdBwIVaXaY) | 8:44 |
 | 60 | [Novella](https://open.spotify.com/track/5e39g1T0asZ7IsEFZcMqpC) | [Odette](https://open.spotify.com/artist/7mKPKcRmTkm2yODrmr7K1s) | [Novella EP](https://open.spotify.com/album/4beeUsxhIEEp0PmphMv8zS) | 6:27 |
 
-Snapshot ID: `MTY2MTk2MjYwMCwwMDAwMDAwMDcwNTM3YmFhMDQ0MDU1MzNiZWNiNTE4NTA0MzExOTc1`
+Snapshot ID: `MTY2MTk2MjYwMCwwMDAwMDAwMDZiMWYyNTcyZjNmNDRjNDI1MWFmNWE2NWYzMmUwYTlj`

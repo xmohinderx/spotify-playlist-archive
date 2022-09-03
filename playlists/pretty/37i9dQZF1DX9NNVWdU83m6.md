@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NNVWdU83m6.md) - [plain]
 
 > A progressive fusion of jazz, rock and avant\-garde.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,945 likes - 50 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,963 likes - 50 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NNVWdU83m6.md) - [plain]
 | 39 | [Ultima](https://open.spotify.com/track/4vy44P8oqIZohMWfRawUHO) | [Evan Marien](https://open.spotify.com/artist/7j3WzD4hWEZ0CL4dDH9d6H), [Dana Hawkins](https://open.spotify.com/artist/6ZWC49mHWN4xLxfNW63sJe), [Plini](https://open.spotify.com/artist/3Gs10XJ4S4OEFrMRqZJcic) | [Ultima](https://open.spotify.com/album/20BlG8qWwhDJWBxnNJIrPZ) | 4:29 |
 | 40 | [Sons of Creation](https://open.spotify.com/track/0JuPd6sug8NBmLPLMUsELk) | [Cameron Graves](https://open.spotify.com/artist/6ivVgdQ8qi5Tu2pc1zeVKP) | [Seven](https://open.spotify.com/album/24N4zsxdUCnH3340jhDvMX) | 4:21 |
 | 41 | [Consider Yourself Judged](https://open.spotify.com/track/2L11VPEQ44OCSTjjHp4HdE) | [T.R.A.M](https://open.spotify.com/artist/4rXMIjexfwIsaY2455P7jB) | [Lingua Franca](https://open.spotify.com/album/2xoZN3Rk6x5Llp8PgJjwlh) | 4:44 |
-| 42 | [Truck Fump](https://open.spotify.com/track/68z5eTF7No9JRQHnsT7gic) | [Butcher Brown](https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP) | [ENCORE](https://open.spotify.com/album/4g0lXhnrip7njhqaY787O9) | 5:05 |
-| 43 | [Dormammu \(Featuring the Shady Horns\)](https://open.spotify.com/track/0yYAeUeFMCLqSdLjc9U2Qw) | [Tauk](https://open.spotify.com/artist/6qauwCj8W2mTcDGbyDGo6O), [The Shady Horns](https://open.spotify.com/artist/5JF9I2tmWTyj8fKyF6tdnM) | [Chaos Companion](https://open.spotify.com/album/73yzdyUJj6gVJNzjbiFazy) | 5:00 |
+| 42 | [Dormammu \(Featuring the Shady Horns\)](https://open.spotify.com/track/0yYAeUeFMCLqSdLjc9U2Qw) | [Tauk](https://open.spotify.com/artist/6qauwCj8W2mTcDGbyDGo6O), [The Shady Horns](https://open.spotify.com/artist/5JF9I2tmWTyj8fKyF6tdnM) | [Chaos Companion](https://open.spotify.com/album/73yzdyUJj6gVJNzjbiFazy) | 5:00 |
+| 43 | [Truck Fump](https://open.spotify.com/track/68z5eTF7No9JRQHnsT7gic) | [Butcher Brown](https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP) | [ENCORE](https://open.spotify.com/album/4g0lXhnrip7njhqaY787O9) | 5:05 |
 | 44 | [Swarna Jingga](https://open.spotify.com/track/3PfgXEKgkEP1pAcFvOP4oy) | [Dewa Budjana](https://open.spotify.com/artist/1DvbGHKUGTOIns3BXzyKhB), [Dave Weck](https://open.spotify.com/artist/4oCrrQt5LOsudylDqLHLgq), [Jimmy Johnson](https://open.spotify.com/artist/4piaw0UhXEi9S0G5CyJo2B), [Mateus Asato](https://open.spotify.com/artist/4en3qu5SDsPtBcTkXasukc) | [Naurora](https://open.spotify.com/album/4WJmpMeNY0dKGGxbt5ovox) | 6:51 |
 | 45 | [Meteor Stream](https://open.spotify.com/track/04SqwJdOlYCMuFZ6xxEggx) | [fox capture plan](https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo) | [Meteor Stream](https://open.spotify.com/album/0JLhkI3D3ZRtr3swzVqNqb) | 5:45 |
 | 46 | [Earthrise](https://open.spotify.com/track/6piC8NdaOgfjcQ9jM1Od3S) | [Camel](https://open.spotify.com/artist/3Uz6jx81OY2J5K8Z4wmy2P) | [Mirage](https://open.spotify.com/album/33620GQZTMEMzOUZRMkBHf) | 6:41 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NNVWdU83m6.md) - [plain]
 | 49 | [Immersion](https://open.spotify.com/track/5nv9ykXZiXsUyiNK5NNpAL) | [Lilly Legit](https://open.spotify.com/artist/6fjp5A7R2M5xDQm47bi2UO) | [Rubicon](https://open.spotify.com/album/7ptRUDMLC7vPGkezegz0qR) | 3:01 |
 | 50 | [The Noonward Race \- Remastered](https://open.spotify.com/track/4BWrLhJXXYAlVIHOLSPsmN) | [Mahavishnu Orchestra](https://open.spotify.com/artist/3Ao7NH7lRyQAeKQg2mlTcO) | [The Inner Mounting Flame](https://open.spotify.com/album/6XHQCPGwvSaqv9MZ2tauqr) | 6:27 |
 
-Snapshot ID: `MTY2MDg4MTcyMCwwMDAwMDAwMDc2MjNjNGFmZmFmZmY2YTZmN2QzYjNkODg1NTg3M2M2`
+Snapshot ID: `MTY2MDg4MTcyMCwwMDAwMDAwMDcwYmMyOGJjMzc5ZTgwODA5M2E0MWUxYmI1NjA4MDgy`

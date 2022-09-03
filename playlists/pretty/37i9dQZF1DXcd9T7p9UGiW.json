@@ -1,12 +1,12 @@
 {
   "description": "Catching flights and going global. Cover:  <a href=\"https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx?si=uVza7nKJRjCDhVZ8of4HQg\" > Selena Gomez </a> and <a href=\"https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS?si=FG7-ztOsQ46cuzDucGCEoQ\" > Rema </a>",
-  "num_followers": 6564,
+  "num_followers": 6611,
   "original_name": "Gone Abroad ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQyNTIwMCwwMDAwMDAwMGE5YmEwOGE0NmM4ODA0OTg0ZTM3ZjU4YzVmMDQ5ZWQy",
+  "snapshot_id": "MTY2MjEwNzM2OSwwMDAwMDAwMGE2MjQ2YjY1MmRlM2I5YjIzZGJlZWJlZTgzMjIwYzMy",
   "tracks": [
     {
       "added_at": "2022-08-25 11:00:00",
@@ -31,6 +31,50 @@
     {
       "added_at": "2022-06-30 23:00:00",
       "album": {
+        "name": "Call Me Every Day (feat. WizKid)",
+        "url": "https://open.spotify.com/album/6FKhBgElPu5RBHlarPE1aO"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "WizKid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 146840,
+      "name": "Call Me Every Day (feat. WizKid)",
+      "url": "https://open.spotify.com/track/7vVs4XCsQyGn1Au3drvo9Z"
+    },
+    {
+      "added_at": "2022-06-30 23:00:00",
+      "album": {
+        "name": "Heavy Is The Head",
+        "url": "https://open.spotify.com/album/3y4AaloFccKNLQcZNS9L8c"
+      },
+      "artists": [
+        {
+          "name": "Stormzy",
+          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 216706,
+      "name": "Own It (feat. Ed Sheeran & Burna Boy)",
+      "url": "https://open.spotify.com/track/4QPEwDdOMhY7rNS05mTyMR"
+    },
+    {
+      "added_at": "2022-06-30 23:00:00",
+      "album": {
         "name": "Be Honest (feat. Burna Boy)",
         "url": "https://open.spotify.com/album/4d2oTHRFwGifGFgve7zSGC"
       },
@@ -47,6 +91,30 @@
       "duration_ms": 207030,
       "name": "Be Honest (feat. Burna Boy)",
       "url": "https://open.spotify.com/track/5pAbCxt9e3f81lOmjIXwzd"
+    },
+    {
+      "added_at": "2022-06-30 23:00:00",
+      "album": {
+        "name": "Views",
+        "url": "https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "WizKid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Kyla",
+          "url": "https://open.spotify.com/artist/77DAFfvm3O9zT5dIoG0eIO"
+        }
+      ],
+      "duration_ms": 173986,
+      "name": "One Dance",
+      "url": "https://open.spotify.com/track/1zi7xx7UVEFkmKfv06H8x0"
     },
     {
       "added_at": "2022-06-30 23:00:00",
@@ -71,6 +139,38 @@
       "duration_ms": 194181,
       "name": "Sere - Remix",
       "url": "https://open.spotify.com/track/6kxo2n2WY48fAhLuiwYOAb"
+    },
+    {
+      "added_at": "2022-06-30 23:00:00",
+      "album": {
+        "name": "4AM",
+        "url": "https://open.spotify.com/album/1lOAu6ugGCM0WVXfmdwEnO"
+      },
+      "artists": [
+        {
+          "name": "Manny Nort\u00e9",
+          "url": "https://open.spotify.com/artist/5IZXhE6DcoszTt30hAeJuw"
+        },
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+        },
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        },
+        {
+          "name": "Tion Wayne",
+          "url": "https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt"
+        },
+        {
+          "name": "Love Renaissance (LVRN)",
+          "url": "https://open.spotify.com/artist/5f3peNznKH0RaAYeJtDWnf"
+        }
+      ],
+      "duration_ms": 225146,
+      "name": "4AM",
+      "url": "https://open.spotify.com/track/1b6seOTvtPREZUKqjhUtl5"
     },
     {
       "added_at": "2022-06-30 23:00:00",
@@ -117,6 +217,54 @@
       "url": "https://open.spotify.com/track/0HaRLPnr887lcQM2YQzkff"
     },
     {
+      "added_at": "2022-09-02 08:29:29",
+      "album": {
+        "name": "Sugarcane (Latin Remix)",
+        "url": "https://open.spotify.com/album/0bgv84IDiggOHkjuQCsovu"
+      },
+      "artists": [
+        {
+          "name": "Camidoh",
+          "url": "https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi"
+        },
+        {
+          "name": "Sie7e",
+          "url": "https://open.spotify.com/artist/11wOrJLuakmQqTuhXXW2xz"
+        },
+        {
+          "name": "Franco \"El Gorilla\"",
+          "url": "https://open.spotify.com/artist/2biH2I1TvZlIIIc5W14oIJ"
+        },
+        {
+          "name": "Green Cookie",
+          "url": "https://open.spotify.com/artist/3eOWhN0q9wQ90g8NcmfZbV"
+        }
+      ],
+      "duration_ms": 258048,
+      "name": "Sugarcane - Latin Remix",
+      "url": "https://open.spotify.com/track/6e70q5Yht4GCZeB6VtXxO2"
+    },
+    {
+      "added_at": "2022-06-30 23:00:00",
+      "album": {
+        "name": "OCEAN",
+        "url": "https://open.spotify.com/album/6j5UNH6J13v4wjKVDlpOXI"
+      },
+      "artists": [
+        {
+          "name": "B Young",
+          "url": "https://open.spotify.com/artist/7JMwO9tyFPMsb2KnsJqZlp"
+        },
+        {
+          "name": "BNXN fka Buju",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 246323,
+      "name": "OCEAN",
+      "url": "https://open.spotify.com/track/5PHyvWrp5vtBS8lma8IWRo"
+    },
+    {
       "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "Bad Habits (The Remixes)",
@@ -155,6 +303,22 @@
       "duration_ms": 179884,
       "name": "D O D O - Adekunle Gold Version",
       "url": "https://open.spotify.com/track/5F9F0SxcAM9bCVyi00tL0W"
+    },
+    {
+      "added_at": "2022-07-28 23:00:00",
+      "album": {
+        "name": "Indigo (Extended)",
+        "url": "https://open.spotify.com/album/3okhA6w5uau6ZNhnVpwVww"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 184613,
+      "name": "Under The Influence",
+      "url": "https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb"
     },
     {
       "added_at": "2022-06-30 23:00:00",
@@ -203,6 +367,34 @@
       "duration_ms": 263288,
       "name": "Essence (feat. Justin Bieber & Tems)",
       "url": "https://open.spotify.com/track/1mSdbey7RstGLY2udgXv74"
+    },
+    {
+      "added_at": "2022-09-02 08:29:29",
+      "album": {
+        "name": "Worth My While",
+        "url": "https://open.spotify.com/album/4xjs0e8UUcJ7HUWrapvqR5"
+      },
+      "artists": [
+        {
+          "name": "Manny Nort\u00e9",
+          "url": "https://open.spotify.com/artist/5IZXhE6DcoszTt30hAeJuw"
+        },
+        {
+          "name": "Stalk Ashley",
+          "url": "https://open.spotify.com/artist/6VCt6Dh7TaZF330ZFeNHv5"
+        },
+        {
+          "name": "Tiana Major9",
+          "url": "https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 205045,
+      "name": "Worth My While",
+      "url": "https://open.spotify.com/track/61yCjv5bKruUBDmbsls0Pn"
     },
     {
       "added_at": "2022-06-30 23:00:00",
@@ -473,24 +665,28 @@
       "url": "https://open.spotify.com/track/5NI7jC26RB9s7prQc7SkZg"
     },
     {
-      "added_at": "2022-06-30 23:00:00",
+      "added_at": "2022-09-02 08:29:29",
       "album": {
-        "name": "Call Me Every Day (feat. WizKid)",
-        "url": "https://open.spotify.com/album/6FKhBgElPu5RBHlarPE1aO"
+        "name": "Lock That Door",
+        "url": "https://open.spotify.com/album/1oLzGsJFsQKDo8s22D5Zfx"
       },
       "artists": [
         {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+          "name": "C-Mart",
+          "url": "https://open.spotify.com/artist/5Gp2z5HyXJ8ezC5if2DlXk"
         },
         {
-          "name": "WizKid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+          "name": "Bartofso",
+          "url": "https://open.spotify.com/artist/5EBNHekbDwV3Q9POxvSMBI"
+        },
+        {
+          "name": "Positivv",
+          "url": "https://open.spotify.com/artist/7BrzYQ8rJ3qsyzsGgAlvof"
         }
       ],
-      "duration_ms": 146840,
-      "name": "Call Me Every Day (feat. WizKid)",
-      "url": "https://open.spotify.com/track/7vVs4XCsQyGn1Au3drvo9Z"
+      "duration_ms": 166153,
+      "name": "Lock That Door",
+      "url": "https://open.spotify.com/track/4poAVGGbeNk2elYU5uIYdJ"
     },
     {
       "added_at": "2022-08-12 05:26:31",
@@ -571,34 +767,6 @@
       "duration_ms": 169583,
       "name": "A Body, A Coffin",
       "url": "https://open.spotify.com/track/2YYYrSLbcf5eNB5VQJxfM9"
-    },
-    {
-      "added_at": "2022-08-05 07:07:51",
-      "album": {
-        "name": "LORD FORGIVE ME",
-        "url": "https://open.spotify.com/album/3hkubccNWxxhxzF6HsIaoh"
-      },
-      "artists": [
-        {
-          "name": "Tobe Nwigwe",
-          "url": "https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3"
-        },
-        {
-          "name": "Pharrell Williams",
-          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
-        },
-        {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        },
-        {
-          "name": "Fat Nwigwe",
-          "url": "https://open.spotify.com/artist/6vKEwTQ0TVz0aJoobvLG1Y"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "LORD FORGIVE ME",
-      "url": "https://open.spotify.com/track/3PnDz7t38mzVZaImRrSknW"
     },
     {
       "added_at": "2022-06-30 23:00:00",
@@ -845,54 +1013,6 @@
       "url": "https://open.spotify.com/track/6ztz7MysNjHec8CHmigWDp"
     },
     {
-      "added_at": "2022-07-28 23:00:00",
-      "album": {
-        "name": "Indigo (Extended)",
-        "url": "https://open.spotify.com/album/3okhA6w5uau6ZNhnVpwVww"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 184613,
-      "name": "Under The Influence",
-      "url": "https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb"
-    },
-    {
-      "added_at": "2022-06-30 23:00:00",
-      "album": {
-        "name": "4AM",
-        "url": "https://open.spotify.com/album/1lOAu6ugGCM0WVXfmdwEnO"
-      },
-      "artists": [
-        {
-          "name": "Manny Nort\u00e9",
-          "url": "https://open.spotify.com/artist/5IZXhE6DcoszTt30hAeJuw"
-        },
-        {
-          "name": "6LACK",
-          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
-        },
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        },
-        {
-          "name": "Tion Wayne",
-          "url": "https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt"
-        },
-        {
-          "name": "Love Renaissance (LVRN)",
-          "url": "https://open.spotify.com/artist/5f3peNznKH0RaAYeJtDWnf"
-        }
-      ],
-      "duration_ms": 225146,
-      "name": "4AM",
-      "url": "https://open.spotify.com/track/1b6seOTvtPREZUKqjhUtl5"
-    },
-    {
       "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "Made In Lagos",
@@ -1015,54 +1135,6 @@
       "duration_ms": 223668,
       "name": "Beauty In The Madness",
       "url": "https://open.spotify.com/track/1ZeNNGi93weFVbOHdmTB6F"
-    },
-    {
-      "added_at": "2022-06-30 23:00:00",
-      "album": {
-        "name": "Heavy Is The Head",
-        "url": "https://open.spotify.com/album/3y4AaloFccKNLQcZNS9L8c"
-      },
-      "artists": [
-        {
-          "name": "Stormzy",
-          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
-        },
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        },
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 216706,
-      "name": "Own It (feat. Ed Sheeran & Burna Boy)",
-      "url": "https://open.spotify.com/track/4QPEwDdOMhY7rNS05mTyMR"
-    },
-    {
-      "added_at": "2022-06-30 23:00:00",
-      "album": {
-        "name": "Views",
-        "url": "https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "WizKid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        },
-        {
-          "name": "Kyla",
-          "url": "https://open.spotify.com/artist/77DAFfvm3O9zT5dIoG0eIO"
-        }
-      ],
-      "duration_ms": 173986,
-      "name": "One Dance",
-      "url": "https://open.spotify.com/track/1zi7xx7UVEFkmKfv06H8x0"
     },
     {
       "added_at": "2022-07-28 23:00:00",
@@ -1319,50 +1391,6 @@
       "duration_ms": 167680,
       "name": "Simmer (feat. Burna Boy)",
       "url": "https://open.spotify.com/track/4JSEMSiKPVcIEBQIlmGuI3"
-    },
-    {
-      "added_at": "2022-06-30 23:00:00",
-      "album": {
-        "name": "OCEAN",
-        "url": "https://open.spotify.com/album/6j5UNH6J13v4wjKVDlpOXI"
-      },
-      "artists": [
-        {
-          "name": "B Young",
-          "url": "https://open.spotify.com/artist/7JMwO9tyFPMsb2KnsJqZlp"
-        },
-        {
-          "name": "BNXN fka Buju",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 246323,
-      "name": "OCEAN",
-      "url": "https://open.spotify.com/track/5PHyvWrp5vtBS8lma8IWRo"
-    },
-    {
-      "added_at": "2022-07-14 23:00:00",
-      "album": {
-        "name": "you know.",
-        "url": "https://open.spotify.com/album/1URgQgR5u5Fvt4lSf7VuKK"
-      },
-      "artists": [
-        {
-          "name": "Maurice Moore",
-          "url": "https://open.spotify.com/artist/2r3A0lVppaYaTz2ttY1Jws"
-        },
-        {
-          "name": "Jaz Karis",
-          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
-        },
-        {
-          "name": "Ycee",
-          "url": "https://open.spotify.com/artist/5zqRdlPXeCIuxgaPimSKXj"
-        }
-      ],
-      "duration_ms": 235339,
-      "name": "you know.",
-      "url": "https://open.spotify.com/track/0GYpa6GYpJAOvC1ySnNRGE"
     },
     {
       "added_at": "2022-06-30 23:00:00",
@@ -1631,30 +1659,6 @@
       "duration_ms": 180563,
       "name": "attention",
       "url": "https://open.spotify.com/track/2IhARxCm5lBKHgQvGw8RPo"
-    },
-    {
-      "added_at": "2022-06-30 23:00:00",
-      "album": {
-        "name": "Falling",
-        "url": "https://open.spotify.com/album/0FVNUQpXBN55azvwBh4hhr"
-      },
-      "artists": [
-        {
-          "name": "Smallgod",
-          "url": "https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP"
-        },
-        {
-          "name": "Darkoo",
-          "url": "https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR"
-        },
-        {
-          "name": "KiDi",
-          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
-        }
-      ],
-      "duration_ms": 165142,
-      "name": "Falling",
-      "url": "https://open.spotify.com/track/7CGwYCUFYdGKuW3KNYtw6K"
     },
     {
       "added_at": "2022-06-30 23:00:00",

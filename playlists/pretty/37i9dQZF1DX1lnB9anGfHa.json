@@ -1,12 +1,12 @@
 {
   "description": "A journey into the unknown, dark, and experimental.",
-  "num_followers": 162207,
+  "num_followers": 162309,
   "original_name": "Terra Incognita",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTkyMjA2MCwwMDAwMDAwMGY1ZmY3YzZhODBiYjdmNDEyZDMxM2VhZGZhODBmOWFh",
+  "snapshot_id": "MTY2MjA5NDY5OSwwMDAwMDAwMGZiM2E5MjM2ZmRjY2U4NDhhMjc5NGI4MzJhOWI4MDc0",
   "tracks": [
     {
       "added_at": "2022-08-31 03:46:25",
@@ -39,6 +39,26 @@
       "duration_ms": 164598,
       "name": "Dicen",
       "url": "https://open.spotify.com/track/6Fp99MU2pE8RILQnqAL8iT"
+    },
+    {
+      "added_at": "2022-09-02 04:58:19",
+      "album": {
+        "name": "VIZIO",
+        "url": "https://open.spotify.com/album/0hUuaQgTtfn8UdUDSzXPAQ"
+      },
+      "artists": [
+        {
+          "name": "Mathilde Sobrino",
+          "url": "https://open.spotify.com/artist/0x69Qlg7mSMTjjkO323OH0"
+        },
+        {
+          "name": "Lytos",
+          "url": "https://open.spotify.com/artist/4D6SZOeCXxbUpnJyxQfufX"
+        }
+      ],
+      "duration_ms": 233514,
+      "name": "Vizio",
+      "url": "https://open.spotify.com/track/3obbCnT8ZoQBfJBMyrLoEW"
     },
     {
       "added_at": "2022-08-31 04:47:04",

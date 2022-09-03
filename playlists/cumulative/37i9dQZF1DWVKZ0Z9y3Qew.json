@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-25",
-  "description": "Pacific Northwest music breaking waves. Cover, The Last Artful, Dodgr",
+  "description": "Pacific Northwest music breaking waves. Cover, Enumclaw  ",
   "name": "Ripple Effect: PNW",
   "published_playlist_ids": [
     "7rrnuxThUr8V2Q5Pzc1Cr6"
@@ -633,7 +633,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 119260,
       "name": "BIG ON BIG",
       "url": "https://open.spotify.com/track/7GDNf6BsZFpdKpbqPknPFj"
@@ -753,6 +753,28 @@
       "duration_ms": 126634,
       "name": "Black Rainbow",
       "url": "https://open.spotify.com/track/3SGuc8R5vkPayGZKkPIlEI"
+    },
+    {
+      "album": {
+        "name": "BLUETOOTH BITCHEZ",
+        "url": "https://open.spotify.com/album/7MdfOkKcguuhE86N3bAdSg"
+      },
+      "artists": [
+        {
+          "name": "Taylar Elizza Beth",
+          "url": "https://open.spotify.com/artist/0XE4mkNAnSI2molchwNfGQ"
+        },
+        {
+          "name": "WD4D",
+          "url": "https://open.spotify.com/artist/53QqYQtqceXhifEin57aM3"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117580,
+      "name": "BLUETOOTH BITCHEZ",
+      "url": "https://open.spotify.com/track/15knzKIzqfDOsUJKWrjbZW"
     },
     {
       "album": {
@@ -947,7 +969,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 167966,
       "name": "Can't Stop Me",
       "url": "https://open.spotify.com/track/4olrNl0Q9qz33eRIDuVGDx"
@@ -1590,6 +1612,28 @@
     },
     {
       "album": {
+        "name": "Im In The Kitchen",
+        "url": "https://open.spotify.com/album/4Q4dOPmkZpecoqdB2ZhUbU"
+      },
+      "artists": [
+        {
+          "name": "Feezle Man",
+          "url": "https://open.spotify.com/artist/4vYLKukf7aP66a33CR8rSD"
+        },
+        {
+          "name": "Richie Profit",
+          "url": "https://open.spotify.com/artist/2ef00cl0avhXamfU8qW8qW"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160488,
+      "name": "Duck Duck Goose",
+      "url": "https://open.spotify.com/track/25TYAe7AulWTssg8762129"
+    },
+    {
+      "album": {
         "name": "Gumbo God Effect",
         "url": "https://open.spotify.com/album/76ZmnMSHjnBSLBiWLB1xZ6"
       },
@@ -1823,7 +1867,7 @@
       ],
       "date_added": "2022-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 225140,
       "name": "FIFTH & GOLDMAN",
       "url": "https://open.spotify.com/track/08qOdAEhwPlHBDflrNdnWE"
@@ -2145,6 +2189,28 @@
       "duration_ms": 115503,
       "name": "Heartache",
       "url": "https://open.spotify.com/track/6aS8fHOeblu2OXVEbXEzj7"
+    },
+    {
+      "album": {
+        "name": "Herbs",
+        "url": "https://open.spotify.com/album/2LwZvilrgs9o0cUrmI7AuH"
+      },
+      "artists": [
+        {
+          "name": "Kid Cambo",
+          "url": "https://open.spotify.com/artist/4n9wn5OJVBp96xO2cAqVDf"
+        },
+        {
+          "name": "SuburbanTrapstar",
+          "url": "https://open.spotify.com/artist/0G4D8cALvzSuA5a1G9sAR7"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171230,
+      "name": "Herbs",
+      "url": "https://open.spotify.com/track/6U3dD0Ab653YZoPOvpiaVO"
     },
     {
       "album": {
@@ -2724,6 +2790,24 @@
     },
     {
       "album": {
+        "name": "Let That Shxt Go",
+        "url": "https://open.spotify.com/album/2SEgki4PnIlSrwb9k5xIwn"
+      },
+      "artists": [
+        {
+          "name": "Pinder",
+          "url": "https://open.spotify.com/artist/4VNhdOgxfxVzFRWLNPP2kz"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255319,
+      "name": "Let That Shxt Go",
+      "url": "https://open.spotify.com/track/0OtPVDfQnKAygo6tUYQM6u"
+    },
+    {
+      "album": {
         "name": "Lex Luthor",
         "url": "https://open.spotify.com/album/7hSpsjqZQgMGQPaMF7glDl"
       },
@@ -2853,6 +2937,28 @@
       "duration_ms": 109367,
       "name": "LOSING MY RELIGION",
       "url": "https://open.spotify.com/track/5t4oa0XNO7DDYifb3SGibS"
+    },
+    {
+      "album": {
+        "name": "Split",
+        "url": "https://open.spotify.com/album/77HdnE9idz2OSqmw9VffSS"
+      },
+      "artists": [
+        {
+          "name": "Laz\u0101",
+          "url": "https://open.spotify.com/artist/7KWbU8vlvkICzAOXsiRLal"
+        },
+        {
+          "name": "PMO $howtime",
+          "url": "https://open.spotify.com/artist/04ZMheNMb4UfMn4Up7d1xf"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158862,
+      "name": "Lost & Found",
+      "url": "https://open.spotify.com/track/23fthSqLjCaARYx25zHBzp"
     },
     {
       "album": {
@@ -3227,7 +3333,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 192433,
       "name": "My High (Edit)",
       "url": "https://open.spotify.com/track/67HFbeyAkneVBBwMVk84y7"
@@ -3420,6 +3526,24 @@
     },
     {
       "album": {
+        "name": "No Guitar",
+        "url": "https://open.spotify.com/album/1hgl3ZKdbsRrj59KauC78a"
+      },
+      "artists": [
+        {
+          "name": "Highway",
+          "url": "https://open.spotify.com/artist/3ipYF6lYiU7lmIb5k3JGej"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216386,
+      "name": "No Guitar",
+      "url": "https://open.spotify.com/track/3OUq77Wnow5PwqWXJC1Ktf"
+    },
+    {
+      "album": {
         "name": "Enigma",
         "url": "https://open.spotify.com/album/1Zm3t2Fb7DvhgPORFKVaAe"
       },
@@ -3527,6 +3651,28 @@
       "duration_ms": 199805,
       "name": "Not the One (feat. Tempest)",
       "url": "https://open.spotify.com/track/6K0jgAlcDaZhOF07wfsBou"
+    },
+    {
+      "album": {
+        "name": "Division (Deluxe)",
+        "url": "https://open.spotify.com/album/4hTubSHf6zjOOPZJmJPyBq"
+      },
+      "artists": [
+        {
+          "name": "Jenevieve",
+          "url": "https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq"
+        },
+        {
+          "name": "lophiile",
+          "url": "https://open.spotify.com/artist/5g5eVr2vAQnd12Q1XCJD7R"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143413,
+      "name": "Nxwhere (with lophiile) - lophiile Remix",
+      "url": "https://open.spotify.com/track/5DS1a0fGhmEruQfritbawn"
     },
     {
       "album": {
@@ -3709,7 +3855,7 @@
       ],
       "date_added": "2022-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 160007,
       "name": "Over Due",
       "url": "https://open.spotify.com/track/66qJubv7O2mhtodzvSengq"
@@ -3760,6 +3906,24 @@
     },
     {
       "album": {
+        "name": "Park Lodge",
+        "url": "https://open.spotify.com/album/1hXRsKevSg8qrakx7AGZY5"
+      },
+      "artists": [
+        {
+          "name": "Enumclaw",
+          "url": "https://open.spotify.com/artist/79yETfINxnDl54mTKLZUlb"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203177,
+      "name": "Park Lodge",
+      "url": "https://open.spotify.com/track/1eN9cS5xBwzH3Xqt2BCj2f"
+    },
+    {
+      "album": {
         "name": "Performance",
         "url": "https://open.spotify.com/album/4c99L3Ccgut9PJjmmPQlB9"
       },
@@ -3797,6 +3961,32 @@
       "duration_ms": 172570,
       "name": "Phonetap",
       "url": "https://open.spotify.com/track/3zXR49QJU1cKN8SeNhgxBI"
+    },
+    {
+      "album": {
+        "name": "SUGA (Deluxe)",
+        "url": "https://open.spotify.com/album/6jRNrR4aBBBR1OpBbQzQPG"
+      },
+      "artists": [
+        {
+          "name": "Kyle Dion",
+          "url": "https://open.spotify.com/artist/5qfkUSH3ip5dD2eEPhjkT3"
+        },
+        {
+          "name": "Duckwrth",
+          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
+        },
+        {
+          "name": "UMI",
+          "url": "https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197205,
+      "name": "Play Too Much",
+      "url": "https://open.spotify.com/track/3dIQBJdqStpq539wSrqhXw"
     },
     {
       "album": {
@@ -3891,7 +4081,7 @@
       ],
       "date_added": "2022-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 209361,
       "name": "Pretty Girls Love It Outside (PGLO)",
       "url": "https://open.spotify.com/track/7z6OhsX1veWUk7Sm1Z0syF"
@@ -4397,7 +4587,7 @@
       ],
       "date_added": "2022-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 128000,
       "name": "see thru",
       "url": "https://open.spotify.com/track/518zcsVjtfXN4KiiD2YhE5"
@@ -4503,10 +4693,28 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 178461,
       "name": "Skydive",
       "url": "https://open.spotify.com/track/2aPc786LDXhSEcuVIXaPU6"
+    },
+    {
+      "album": {
+        "name": "SLIIIDE",
+        "url": "https://open.spotify.com/album/6NpUxL3DBHAebXKd1y93rZ"
+      },
+      "artists": [
+        {
+          "name": "Connect Zero",
+          "url": "https://open.spotify.com/artist/3k8lBDenIm90lWaSpAYQeH"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240169,
+      "name": "SLIIIDE",
+      "url": "https://open.spotify.com/track/18z0K3xS9Kp7a3BfY9cPIh"
     },
     {
       "album": {
@@ -4733,7 +4941,7 @@
       ],
       "date_added": "2022-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 172848,
       "name": "Sumn On Me",
       "url": "https://open.spotify.com/track/1H2ZpDJ06Q0yHCUVgU2m7n"
@@ -4879,6 +5087,32 @@
       "duration_ms": 234049,
       "name": "Telfar",
       "url": "https://open.spotify.com/track/7yRplFHiYyqx9PzFgcTMXw"
+    },
+    {
+      "album": {
+        "name": "97",
+        "url": "https://open.spotify.com/album/4wbsWobZ0K2jb4fAlNtSjn"
+      },
+      "artists": [
+        {
+          "name": "Juniper",
+          "url": "https://open.spotify.com/artist/3h55d9cBydMk3jlDfMu1rN"
+        },
+        {
+          "name": "Sango",
+          "url": "https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg"
+        },
+        {
+          "name": "Xavier Om\u00e4r",
+          "url": "https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171099,
+      "name": "Tell Me (feat. Xavier Om\u00e4r)",
+      "url": "https://open.spotify.com/track/280jAZjtRyS3InROryTLmy"
     },
     {
       "album": {
@@ -5431,7 +5665,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 200877,
       "name": "whatever u like",
       "url": "https://open.spotify.com/track/1iyg2VGc73ypcexY1qTXxq"
@@ -5471,7 +5705,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 167150,
       "name": "Whiteclaw",
       "url": "https://open.spotify.com/track/6DpLbRHQLP3dJvz3khE3UE"

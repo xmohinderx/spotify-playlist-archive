@@ -1,12 +1,12 @@
 {
   "description": "Laid back cratedigger hip-hop from around the world.",
-  "num_followers": 1008500,
+  "num_followers": 1005767,
   "original_name": "Jazz Rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTUyODk1MCwwMDAwMDAwMDE1MzdlYzBhNjM5ZDQxYTJmZGQ0ZDQwZWU1N2JkNzlk",
+  "snapshot_id": "MTY2MTUyODk1MCwwMDAwMDAwMGYwMGY1N2UyNGIyMTE2M2FmN2NhMTk0MzRmYzI3NDcz",
   "tracks": [
     {
       "added_at": "2022-08-26 15:49:09",
@@ -659,22 +659,6 @@
     {
       "added_at": "2022-08-26 15:49:09",
       "album": {
-        "name": "Helping Hands",
-        "url": "https://open.spotify.com/album/0aICyOA2b1l0eR6GwkFBT1"
-      },
-      "artists": [
-        {
-          "name": "Ivan Ave",
-          "url": "https://open.spotify.com/artist/7BxJEL8I7OoAMGyPWn1cPS"
-        }
-      ],
-      "duration_ms": 209613,
-      "name": "The Circle",
-      "url": "https://open.spotify.com/track/60DLWXwghcL7vBZmanhLtU"
-    },
-    {
-      "added_at": "2022-08-26 15:49:09",
-      "album": {
         "name": "The Rain",
         "url": "https://open.spotify.com/album/6BtyNPQCLIJAsKVw5mojjn"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 157603,
       "name": "Blue Skies",
       "url": "https://open.spotify.com/track/4sw0pibcfTp63iRctT7Fnk"
+    },
+    {
+      "added_at": "2022-08-26 15:49:09",
+      "album": {
+        "name": "Helping Hands",
+        "url": "https://open.spotify.com/album/0aICyOA2b1l0eR6GwkFBT1"
+      },
+      "artists": [
+        {
+          "name": "Ivan Ave",
+          "url": "https://open.spotify.com/artist/7BxJEL8I7OoAMGyPWn1cPS"
+        }
+      ],
+      "duration_ms": 209613,
+      "name": "The Circle",
+      "url": "https://open.spotify.com/track/60DLWXwghcL7vBZmanhLtU"
     },
     {
       "added_at": "2022-08-26 15:49:09",
@@ -715,6 +715,22 @@
     {
       "added_at": "2022-08-26 15:49:09",
       "album": {
+        "name": "2nd Exit",
+        "url": "https://open.spotify.com/album/7DYnI0CZgasN25teMmX9O9"
+      },
+      "artists": [
+        {
+          "name": "2nd Exit",
+          "url": "https://open.spotify.com/artist/4M0DtVyxxAVjPTFQYPpX1y"
+        }
+      ],
+      "duration_ms": 176884,
+      "name": "It's Alright",
+      "url": "https://open.spotify.com/track/0Wk1F7rr43ANfiyAgHZxOs"
+    },
+    {
+      "added_at": "2022-08-26 15:49:09",
+      "album": {
         "name": "Jagged Tooth Crook",
         "url": "https://open.spotify.com/album/192hNpxnuWIEaWZiIJmkNV"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 224374,
       "name": "Feeling High",
       "url": "https://open.spotify.com/track/1aBettOr79Ze27sceoL6U9"
-    },
-    {
-      "added_at": "2022-08-26 15:49:09",
-      "album": {
-        "name": "2nd Exit",
-        "url": "https://open.spotify.com/album/7DYnI0CZgasN25teMmX9O9"
-      },
-      "artists": [
-        {
-          "name": "2nd Exit",
-          "url": "https://open.spotify.com/artist/4M0DtVyxxAVjPTFQYPpX1y"
-        }
-      ],
-      "duration_ms": 176884,
-      "name": "It's Alright",
-      "url": "https://open.spotify.com/track/0Wk1F7rr43ANfiyAgHZxOs"
     },
     {
       "added_at": "2022-08-26 15:49:09",
@@ -823,22 +823,6 @@
     {
       "added_at": "2022-08-26 15:49:09",
       "album": {
-        "name": "Blowout Comb",
-        "url": "https://open.spotify.com/album/5gvlpKnnINq8Z1YICdtiBt"
-      },
-      "artists": [
-        {
-          "name": "Digable Planets",
-          "url": "https://open.spotify.com/artist/0gqIrDRL7CEPBWMmkuZPdQ"
-        }
-      ],
-      "duration_ms": 279373,
-      "name": "Jettin'",
-      "url": "https://open.spotify.com/track/1BXastKgdI3AiFipVt69Fv"
-    },
-    {
-      "added_at": "2022-08-26 15:49:09",
-      "album": {
         "name": "The Feeling",
         "url": "https://open.spotify.com/album/7kGiqLXIF51OdCqx7F9ape"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 179463,
       "name": "The Feeling",
       "url": "https://open.spotify.com/track/58nrWMP7Gsr4SUOowBn7Y6"
+    },
+    {
+      "added_at": "2022-08-26 15:49:09",
+      "album": {
+        "name": "Blowout Comb",
+        "url": "https://open.spotify.com/album/5gvlpKnnINq8Z1YICdtiBt"
+      },
+      "artists": [
+        {
+          "name": "Digable Planets",
+          "url": "https://open.spotify.com/artist/0gqIrDRL7CEPBWMmkuZPdQ"
+        }
+      ],
+      "duration_ms": 279373,
+      "name": "Jettin'",
+      "url": "https://open.spotify.com/track/1BXastKgdI3AiFipVt69Fv"
     },
     {
       "added_at": "2022-08-26 15:49:09",
@@ -939,6 +939,22 @@
     {
       "added_at": "2022-08-26 15:49:09",
       "album": {
+        "name": "2000",
+        "url": "https://open.spotify.com/album/32JCQPzflPiUX9weKyUrFZ"
+      },
+      "artists": [
+        {
+          "name": "Grand Puba",
+          "url": "https://open.spotify.com/artist/6IjhOxJSTPh15KgFTSZ68K"
+        }
+      ],
+      "duration_ms": 220400,
+      "name": "A Little Of This",
+      "url": "https://open.spotify.com/track/1M3D5FWqKil0eNpKksKBa1"
+    },
+    {
+      "added_at": "2022-08-26 15:49:09",
+      "album": {
         "name": "The LP",
         "url": "https://open.spotify.com/album/7hzM3Sa8BoCKrNqrKJqyz1"
       },
@@ -971,22 +987,6 @@
     {
       "added_at": "2022-08-26 15:49:09",
       "album": {
-        "name": "2000",
-        "url": "https://open.spotify.com/album/32JCQPzflPiUX9weKyUrFZ"
-      },
-      "artists": [
-        {
-          "name": "Grand Puba",
-          "url": "https://open.spotify.com/artist/6IjhOxJSTPh15KgFTSZ68K"
-        }
-      ],
-      "duration_ms": 220400,
-      "name": "A Little Of This",
-      "url": "https://open.spotify.com/track/1M3D5FWqKil0eNpKksKBa1"
-    },
-    {
-      "added_at": "2022-08-26 15:49:09",
-      "album": {
         "name": "The Actual Proof",
         "url": "https://open.spotify.com/album/2wXkMcPSKQz0NagH6RpAwe"
       },
@@ -1007,22 +1007,6 @@
       "duration_ms": 163636,
       "name": "The Rain",
       "url": "https://open.spotify.com/track/1aI71C2hn6RGLhNPpD2Gew"
-    },
-    {
-      "added_at": "2022-08-26 15:49:09",
-      "album": {
-        "name": "Elephant in the Room",
-        "url": "https://open.spotify.com/album/5u9fxl08KewKRV27T3nqGN"
-      },
-      "artists": [
-        {
-          "name": "Mick Jenkins",
-          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
-        }
-      ],
-      "duration_ms": 189082,
-      "name": "Gucci Tried to Tell Me",
-      "url": "https://open.spotify.com/track/1ufp82dH3kwlqiPmeKNBVz"
     },
     {
       "added_at": "2022-08-26 15:49:09",
@@ -1051,18 +1035,18 @@
     {
       "added_at": "2022-08-26 15:49:09",
       "album": {
-        "name": "Train Of Thought",
-        "url": "https://open.spotify.com/album/2PbWFmysd3j9MEacjjhozx"
+        "name": "Elephant in the Room",
+        "url": "https://open.spotify.com/album/5u9fxl08KewKRV27T3nqGN"
       },
       "artists": [
         {
-          "name": "Reflection Eternal",
-          "url": "https://open.spotify.com/artist/6vwJ3e6KaQAhLEpBPxCMBC"
+          "name": "Mick Jenkins",
+          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
         }
       ],
-      "duration_ms": 238573,
-      "name": "Memories Live",
-      "url": "https://open.spotify.com/track/0kHIEdWbOvnrvTmRfPtHDN"
+      "duration_ms": 189082,
+      "name": "Gucci Tried to Tell Me",
+      "url": "https://open.spotify.com/track/1ufp82dH3kwlqiPmeKNBVz"
     },
     {
       "added_at": "2022-08-26 15:49:09",
@@ -1083,22 +1067,18 @@
     {
       "added_at": "2022-08-26 15:49:09",
       "album": {
-        "name": "POETRY JAM (feat. Foggieraw)",
-        "url": "https://open.spotify.com/album/080MkxfDcHTrtEs0JGkb1z"
+        "name": "Train Of Thought",
+        "url": "https://open.spotify.com/album/2PbWFmysd3j9MEacjjhozx"
       },
       "artists": [
         {
-          "name": "Ciscero",
-          "url": "https://open.spotify.com/artist/5oSCIcpPdrO3UhTMATxkYL"
-        },
-        {
-          "name": "Foggieraw",
-          "url": "https://open.spotify.com/artist/1dbTwUlL11ZYdC1YAR07AM"
+          "name": "Reflection Eternal",
+          "url": "https://open.spotify.com/artist/6vwJ3e6KaQAhLEpBPxCMBC"
         }
       ],
-      "duration_ms": 198525,
-      "name": "POETRY JAM (feat. Foggieraw)",
-      "url": "https://open.spotify.com/track/4m4IJ0GaepAsVNP3qqSVDW"
+      "duration_ms": 238573,
+      "name": "Memories Live",
+      "url": "https://open.spotify.com/track/0kHIEdWbOvnrvTmRfPtHDN"
     },
     {
       "added_at": "2022-08-26 15:49:09",
@@ -1115,6 +1095,26 @@
       "duration_ms": 254928,
       "name": "Breakadawn",
       "url": "https://open.spotify.com/track/3vYxoh9Y7L5Tdr0mhaAaUu"
+    },
+    {
+      "added_at": "2022-08-26 15:49:09",
+      "album": {
+        "name": "POETRY JAM (feat. Foggieraw)",
+        "url": "https://open.spotify.com/album/080MkxfDcHTrtEs0JGkb1z"
+      },
+      "artists": [
+        {
+          "name": "Ciscero",
+          "url": "https://open.spotify.com/artist/5oSCIcpPdrO3UhTMATxkYL"
+        },
+        {
+          "name": "Foggieraw",
+          "url": "https://open.spotify.com/artist/1dbTwUlL11ZYdC1YAR07AM"
+        }
+      ],
+      "duration_ms": 198525,
+      "name": "POETRY JAM (feat. Foggieraw)",
+      "url": "https://open.spotify.com/track/4m4IJ0GaepAsVNP3qqSVDW"
     },
     {
       "added_at": "2022-08-26 15:49:09",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2022-08-26 15:49:09",
       "album": {
-        "name": "Fr\u00edo Blues",
-        "url": "https://open.spotify.com/album/7ArZMGlCkmAp3r4fvZhXmB"
-      },
-      "artists": [
-        {
-          "name": "Marki",
-          "url": "https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Fr\u00edo Blues",
-      "url": "https://open.spotify.com/track/5uKWEd2V4M8ELUpQR01ttX"
-    },
-    {
-      "added_at": "2022-08-26 15:49:09",
-      "album": {
         "name": "The Return (Deluxe Edition)",
         "url": "https://open.spotify.com/album/00z50uIcE2E3V7i1LLwOcv"
       },
@@ -1211,6 +1195,42 @@
       "duration_ms": 147617,
       "name": "Make It Happen",
       "url": "https://open.spotify.com/track/5wFSWUVoztfAzENetY2FNZ"
+    },
+    {
+      "added_at": "2022-08-26 15:49:09",
+      "album": {
+        "name": "Fr\u00edo Blues",
+        "url": "https://open.spotify.com/album/7ArZMGlCkmAp3r4fvZhXmB"
+      },
+      "artists": [
+        {
+          "name": "Marki",
+          "url": "https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Fr\u00edo Blues",
+      "url": "https://open.spotify.com/track/5uKWEd2V4M8ELUpQR01ttX"
+    },
+    {
+      "added_at": "2022-08-26 15:49:09",
+      "album": {
+        "name": "IMMORTAL",
+        "url": "https://open.spotify.com/album/319LHi4wWscQDHlrGrS4qI"
+      },
+      "artists": [
+        {
+          "name": "Ricki Monique",
+          "url": "https://open.spotify.com/artist/2qiQ2hQPZpDnkn30EzDwRr"
+        },
+        {
+          "name": "yourbeautifulruin",
+          "url": "https://open.spotify.com/artist/5YQYYzqGLj9zvH7Qx8SCag"
+        }
+      ],
+      "duration_ms": 185298,
+      "name": "IMMORTAL",
+      "url": "https://open.spotify.com/track/6zTl1HyJZfPGzc7jjgcpeq"
     },
     {
       "added_at": "2022-08-26 15:49:09",
@@ -1267,26 +1287,6 @@
       "duration_ms": 190116,
       "name": "Carefree",
       "url": "https://open.spotify.com/track/5CTaFr3yPs4SEtCMt70Hfv"
-    },
-    {
-      "added_at": "2022-08-26 15:49:09",
-      "album": {
-        "name": "IMMORTAL",
-        "url": "https://open.spotify.com/album/319LHi4wWscQDHlrGrS4qI"
-      },
-      "artists": [
-        {
-          "name": "Ricki Monique",
-          "url": "https://open.spotify.com/artist/2qiQ2hQPZpDnkn30EzDwRr"
-        },
-        {
-          "name": "yourbeautifulruin",
-          "url": "https://open.spotify.com/artist/5YQYYzqGLj9zvH7Qx8SCag"
-        }
-      ],
-      "duration_ms": 185298,
-      "name": "IMMORTAL",
-      "url": "https://open.spotify.com/track/6zTl1HyJZfPGzc7jjgcpeq"
     },
     {
       "added_at": "2022-08-26 15:49:09",
@@ -1595,22 +1595,18 @@
     {
       "added_at": "2022-08-26 15:49:09",
       "album": {
-        "name": "City All Stars (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1OBLIhYknohZpGq5KD6J3N"
+        "name": "Day & Night",
+        "url": "https://open.spotify.com/album/2aG0GB0P4uAaaZaMkSVZuG"
       },
       "artists": [
         {
-          "name": "PENPALS",
-          "url": "https://open.spotify.com/artist/5h3ft4SBafRVuuoH4iVYS5"
-        },
-        {
-          "name": "EMERLD",
-          "url": "https://open.spotify.com/artist/4u3lbIhbrOqejxRJhK6Wjp"
+          "name": "RAIZA BIZA",
+          "url": "https://open.spotify.com/artist/5woPu1EbjrUxdisOcQL7uo"
         }
       ],
-      "duration_ms": 180290,
-      "name": "The Stars My Destination",
-      "url": "https://open.spotify.com/track/1s0mnVoDGTp6Qh8Y6Aqtmw"
+      "duration_ms": 243711,
+      "name": "Wassup",
+      "url": "https://open.spotify.com/track/1JeTPnPjrna50Cfon0PBqe"
     },
     {
       "added_at": "2022-08-26 15:49:09",
@@ -1635,18 +1631,22 @@
     {
       "added_at": "2022-08-26 15:49:09",
       "album": {
-        "name": "Day & Night",
-        "url": "https://open.spotify.com/album/2aG0GB0P4uAaaZaMkSVZuG"
+        "name": "City All Stars (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1OBLIhYknohZpGq5KD6J3N"
       },
       "artists": [
         {
-          "name": "RAIZA BIZA",
-          "url": "https://open.spotify.com/artist/5woPu1EbjrUxdisOcQL7uo"
+          "name": "PENPALS",
+          "url": "https://open.spotify.com/artist/5h3ft4SBafRVuuoH4iVYS5"
+        },
+        {
+          "name": "EMERLD",
+          "url": "https://open.spotify.com/artist/4u3lbIhbrOqejxRJhK6Wjp"
         }
       ],
-      "duration_ms": 243711,
-      "name": "Wassup",
-      "url": "https://open.spotify.com/track/1JeTPnPjrna50Cfon0PBqe"
+      "duration_ms": 180290,
+      "name": "The Stars My Destination",
+      "url": "https://open.spotify.com/track/1s0mnVoDGTp6Qh8Y6Aqtmw"
     },
     {
       "added_at": "2022-08-26 15:49:09",
@@ -1695,26 +1695,6 @@
     {
       "added_at": "2022-08-26 15:49:09",
       "album": {
-        "name": "Osmosis (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3SijTYVL4RJqAPvff3ZXZH"
-      },
-      "artists": [
-        {
-          "name": "Godfather Don",
-          "url": "https://open.spotify.com/artist/7j91LXmuyKBXTykkvYfrQ2"
-        },
-        {
-          "name": "Parental",
-          "url": "https://open.spotify.com/artist/1zcTB8gtjbKxJmluk0amve"
-        }
-      ],
-      "duration_ms": 207992,
-      "name": "Watching You",
-      "url": "https://open.spotify.com/track/5nNKzoQ842OmIuyvTgRgX9"
-    },
-    {
-      "added_at": "2022-08-26 15:49:09",
-      "album": {
         "name": "Head Highs",
         "url": "https://open.spotify.com/album/6r1uf6dIkqkQvqFb24zZwS"
       },
@@ -1731,6 +1711,26 @@
       "duration_ms": 155346,
       "name": "Head Highs",
       "url": "https://open.spotify.com/track/3oib1sfr5xfi3Hklnyspq8"
+    },
+    {
+      "added_at": "2022-08-26 15:49:09",
+      "album": {
+        "name": "Osmosis (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3SijTYVL4RJqAPvff3ZXZH"
+      },
+      "artists": [
+        {
+          "name": "Godfather Don",
+          "url": "https://open.spotify.com/artist/7j91LXmuyKBXTykkvYfrQ2"
+        },
+        {
+          "name": "Parental",
+          "url": "https://open.spotify.com/artist/1zcTB8gtjbKxJmluk0amve"
+        }
+      ],
+      "duration_ms": 207992,
+      "name": "Watching You",
+      "url": "https://open.spotify.com/track/5nNKzoQ842OmIuyvTgRgX9"
     },
     {
       "added_at": "2022-08-26 15:49:09",
@@ -1759,30 +1759,22 @@
     {
       "added_at": "2022-08-26 15:49:09",
       "album": {
-        "name": "The Silhouettes Project",
-        "url": "https://open.spotify.com/album/6SWC8WHsLllzDsUNkw6dHY"
+        "name": "Three/Three",
+        "url": "https://open.spotify.com/album/5YWh19vM9DvHTJ8cvqPRBf"
       },
       "artists": [
         {
-          "name": "The Silhouettes Project",
-          "url": "https://open.spotify.com/artist/3CJEpzlVzfyLTpKJlpKdHw"
+          "name": "Dabrye",
+          "url": "https://open.spotify.com/artist/1tVRa7YiCwE6hTGsqqb4Te"
         },
         {
-          "name": "KeepVibesNear",
-          "url": "https://open.spotify.com/artist/1DjFYTQJksL0kkw9VABxdU"
-        },
-        {
-          "name": "Nix Northwest",
-          "url": "https://open.spotify.com/artist/1nJX9DZHvd27lKDx8NM8Rt"
-        },
-        {
-          "name": "Purple Cloud",
-          "url": "https://open.spotify.com/artist/0uqmXcssVwrJzz9wVl0pRl"
+          "name": "Denmark Vessey",
+          "url": "https://open.spotify.com/artist/6o8VpmZLTJZfFUQhKCDYoZ"
         }
       ],
-      "duration_ms": 216866,
-      "name": "What U Need",
-      "url": "https://open.spotify.com/track/6mbUvThGAzb6hep4dl9kze"
+      "duration_ms": 212546,
+      "name": "First Law of Nature Rock Day (feat. Denmark Vessey)",
+      "url": "https://open.spotify.com/track/4xRxoDdkC1z55jlQy9SIa3"
     },
     {
       "added_at": "2022-08-26 15:49:09",
@@ -1819,22 +1811,30 @@
     {
       "added_at": "2022-08-26 15:49:09",
       "album": {
-        "name": "Three/Three",
-        "url": "https://open.spotify.com/album/5YWh19vM9DvHTJ8cvqPRBf"
+        "name": "The Silhouettes Project",
+        "url": "https://open.spotify.com/album/6SWC8WHsLllzDsUNkw6dHY"
       },
       "artists": [
         {
-          "name": "Dabrye",
-          "url": "https://open.spotify.com/artist/1tVRa7YiCwE6hTGsqqb4Te"
+          "name": "The Silhouettes Project",
+          "url": "https://open.spotify.com/artist/3CJEpzlVzfyLTpKJlpKdHw"
         },
         {
-          "name": "Denmark Vessey",
-          "url": "https://open.spotify.com/artist/6o8VpmZLTJZfFUQhKCDYoZ"
+          "name": "KeepVibesNear",
+          "url": "https://open.spotify.com/artist/1DjFYTQJksL0kkw9VABxdU"
+        },
+        {
+          "name": "Nix Northwest",
+          "url": "https://open.spotify.com/artist/1nJX9DZHvd27lKDx8NM8Rt"
+        },
+        {
+          "name": "Purple Cloud",
+          "url": "https://open.spotify.com/artist/0uqmXcssVwrJzz9wVl0pRl"
         }
       ],
-      "duration_ms": 212546,
-      "name": "First Law of Nature Rock Day (feat. Denmark Vessey)",
-      "url": "https://open.spotify.com/track/4xRxoDdkC1z55jlQy9SIa3"
+      "duration_ms": 216866,
+      "name": "What U Need",
+      "url": "https://open.spotify.com/track/6mbUvThGAzb6hep4dl9kze"
     },
     {
       "added_at": "2022-08-26 15:49:09",
@@ -1875,6 +1875,30 @@
     {
       "added_at": "2022-08-26 15:49:09",
       "album": {
+        "name": "Late Night Link",
+        "url": "https://open.spotify.com/album/6xiSx5GzmERQNULG4nXe8H"
+      },
+      "artists": [
+        {
+          "name": "KeepVibesNear",
+          "url": "https://open.spotify.com/artist/1DjFYTQJksL0kkw9VABxdU"
+        },
+        {
+          "name": "Harvey Whyte",
+          "url": "https://open.spotify.com/artist/0oixhuMlcSB9H0TociqrsI"
+        },
+        {
+          "name": "Luke RV",
+          "url": "https://open.spotify.com/artist/4q7ILdeeWJ4NqBtYp0l7Yd"
+        }
+      ],
+      "duration_ms": 194545,
+      "name": "Late Night Link",
+      "url": "https://open.spotify.com/track/14BlhqVzXpnHmZpyqhMnOV"
+    },
+    {
+      "added_at": "2022-08-26 15:49:09",
+      "album": {
         "name": "Once In The Life (Original Motion Picture Soundtrack) [Digitally Remastered]",
         "url": "https://open.spotify.com/album/1OZ06WuBDhR2fS4r5huztx"
       },
@@ -1887,22 +1911,6 @@
       "duration_ms": 354640,
       "name": "Breakfast At Denny's",
       "url": "https://open.spotify.com/track/7uLrf2TyeptKCxsAVRIsXi"
-    },
-    {
-      "added_at": "2022-08-26 15:49:09",
-      "album": {
-        "name": "That Jazz",
-        "url": "https://open.spotify.com/album/5fmTUqAxnXPx3UjgV8VYds"
-      },
-      "artists": [
-        {
-          "name": "Coops",
-          "url": "https://open.spotify.com/artist/0sXhBmVgBTDxkQb8CUbhhR"
-        }
-      ],
-      "duration_ms": 188764,
-      "name": "That Jazz",
-      "url": "https://open.spotify.com/track/2fDT3A5tLwiySARQEawvRo"
     },
     {
       "added_at": "2022-08-26 15:49:09",
@@ -1927,26 +1935,18 @@
     {
       "added_at": "2022-08-26 15:49:09",
       "album": {
-        "name": "Late Night Link",
-        "url": "https://open.spotify.com/album/6xiSx5GzmERQNULG4nXe8H"
+        "name": "That Jazz",
+        "url": "https://open.spotify.com/album/5fmTUqAxnXPx3UjgV8VYds"
       },
       "artists": [
         {
-          "name": "KeepVibesNear",
-          "url": "https://open.spotify.com/artist/1DjFYTQJksL0kkw9VABxdU"
-        },
-        {
-          "name": "Harvey Whyte",
-          "url": "https://open.spotify.com/artist/0oixhuMlcSB9H0TociqrsI"
-        },
-        {
-          "name": "Luke RV",
-          "url": "https://open.spotify.com/artist/4q7ILdeeWJ4NqBtYp0l7Yd"
+          "name": "Coops",
+          "url": "https://open.spotify.com/artist/0sXhBmVgBTDxkQb8CUbhhR"
         }
       ],
-      "duration_ms": 194545,
-      "name": "Late Night Link",
-      "url": "https://open.spotify.com/track/14BlhqVzXpnHmZpyqhMnOV"
+      "duration_ms": 188764,
+      "name": "That Jazz",
+      "url": "https://open.spotify.com/track/2fDT3A5tLwiySARQEawvRo"
     },
     {
       "added_at": "2022-08-26 15:49:09",

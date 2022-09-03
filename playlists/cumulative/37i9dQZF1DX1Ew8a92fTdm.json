@@ -944,6 +944,24 @@
     },
     {
       "album": {
+        "name": "Fields of Gold",
+        "url": "https://open.spotify.com/album/0Wpnk7hAtae7Lbcvp7eJdW"
+      },
+      "artists": [
+        {
+          "name": "Nibble Pig",
+          "url": "https://open.spotify.com/artist/1yGBlYX70u0Ok69QkNOwtF"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99309,
+      "name": "Fields of Gold",
+      "url": "https://open.spotify.com/track/0co79KitoGgWocyVuQE4xI"
+    },
+    {
+      "album": {
         "name": "Finders Keepers",
         "url": "https://open.spotify.com/album/6JTi6UKaDxBBARuoTGIl1A"
       },
@@ -2597,6 +2615,24 @@
       "duration_ms": 77663,
       "name": "Whisper",
       "url": "https://open.spotify.com/track/2zO8FacMH5qKmRl0K4KQCX"
+    },
+    {
+      "album": {
+        "name": "Yesterday",
+        "url": "https://open.spotify.com/album/4A57hMzEz3dI0cUDwB3qbw"
+      },
+      "artists": [
+        {
+          "name": "Bella Notte",
+          "url": "https://open.spotify.com/artist/5GWqn1K9HufkeR8NEMNn5S"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95937,
+      "name": "Yesterday",
+      "url": "https://open.spotify.com/track/6sGDR7NjjMNmoj2ORLOyFZ"
     },
     {
       "album": {

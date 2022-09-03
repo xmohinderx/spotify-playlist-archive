@@ -1461,7 +1461,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 168181,
       "name": "mi amiga & yo",
       "url": "https://open.spotify.com/track/6ukxKZD87THmjrF2utaAGF"
@@ -1981,7 +1981,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 167361,
       "name": "pizza",
       "url": "https://open.spotify.com/track/7rvKogufniHwoxQIgdcGde"
@@ -2191,7 +2191,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 194874,
       "name": "seguiremos siendo",
       "url": "https://open.spotify.com/track/6zX7KSFicewSnSeT3W2tvN"
@@ -2542,6 +2542,24 @@
     },
     {
       "album": {
+        "name": "Triste Pop",
+        "url": "https://open.spotify.com/album/2zIYA9Zs3vk0yQk241Omgt"
+      },
+      "artists": [
+        {
+          "name": "Lasitud",
+          "url": "https://open.spotify.com/artist/1zQ7Htx1vh0vmCHmxVVG0d"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322184,
+      "name": "Triste Pop",
+      "url": "https://open.spotify.com/track/30zVKpTZnkrmKMiIcpoPlV"
+    },
+    {
+      "album": {
         "name": "So\u00f1\u00e9",
         "url": "https://open.spotify.com/album/3aGmHJLrFubhnEBeaASZoy"
       },
@@ -2557,6 +2575,24 @@
       "duration_ms": 239988,
       "name": "Un d\u00eda es un d\u00eda",
       "url": "https://open.spotify.com/track/62bvM6Glmk6Ek6Gf34GWwn"
+    },
+    {
+      "album": {
+        "name": "Un Momento",
+        "url": "https://open.spotify.com/album/6rObLR3OfwtAkft3WuEuTI"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189311,
+      "name": "Un Momento",
+      "url": "https://open.spotify.com/track/4k1wOvis4BrvbkOT6jmaJ9"
     },
     {
       "album": {
@@ -2781,6 +2817,24 @@
       "duration_ms": 197881,
       "name": "XAT (Juanita La O Remix)",
       "url": "https://open.spotify.com/track/2HFqgimGHdB73kdBoNKAY3"
+    },
+    {
+      "album": {
+        "name": "Y Si",
+        "url": "https://open.spotify.com/album/2zGCoMAOkdVwmEpCew4SL3"
+      },
+      "artists": [
+        {
+          "name": "Kimberley Tell",
+          "url": "https://open.spotify.com/artist/1NTTlLcsHvqOZFC6CQp6Ka"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114782,
+      "name": "Y Si",
+      "url": "https://open.spotify.com/track/081225Aw909qAbV9UjAQeM"
     },
     {
       "album": {

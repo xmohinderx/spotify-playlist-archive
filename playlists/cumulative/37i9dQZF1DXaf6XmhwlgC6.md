@@ -4,7 +4,7 @@
 
 > Music from the ether to focus to.
 
-99 songs - 5 hr 52 min - [published](https://open.spotify.com/playlist/4H4DMjqQpBwmgjBZppzOqM)
+102 songs - 6 hr 0 min - [published](https://open.spotify.com/playlist/4H4DMjqQpBwmgjBZppzOqM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [High Up](https://open.spotify.com/track/794SxkpLERVaBoag5946LG) | [Mirror Inside](https://open.spotify.com/artist/7qoAxsJr24mbtIRupSaI3Z) | [High Up](https://open.spotify.com/album/4DrcJ7w0o3G59qIlS25Mdx) | 2:18 | 2022-03-30 |  |
 | [Horizons](https://open.spotify.com/track/53TsZT0ySAHpRJ8GClsekU) | [Hers Lake](https://open.spotify.com/artist/7EqcX6VMuJAQViJqJrL2yA) | [Horizons](https://open.spotify.com/album/2JualanmCPX3pupSVgIMWZ) | 2:43 | 2022-03-30 |  |
 | [I'll Be Gone](https://open.spotify.com/track/5s0gxKFZCSQ6USPwKMdgUu) | [Smoky](https://open.spotify.com/artist/3y90MDsIV7MPY0MckhOOQg) | [It Sounds a Bit Like Heaven](https://open.spotify.com/album/3nPxg4CCoDJFNee7p29QZP) | 2:31 | 2022-05-19 |  |
+| [In Deep Colors](https://open.spotify.com/track/4UZ2mG3RkVtXBBCwHNdN3J) | [Hyalite Glow](https://open.spotify.com/artist/3DT9YiO0OHVX5mEsehDD89) | [In Deep Colors](https://open.spotify.com/album/0hg2UklcSrQrctoVPNbhbw) | 3:21 | 2022-09-02 |  |
 | [jubilance](https://open.spotify.com/track/4F21Bmd7GOjukwGjOUy67I) | [Däalo](https://open.spotify.com/artist/63MSacJKhcx4g646lJsDL7) | [Great Heights, Great Falls](https://open.spotify.com/album/4PQdI5zCwFWpV3D2exeGSl) | 2:42 | 2022-03-30 |  |
 | [Just An Unkind Time](https://open.spotify.com/track/7cmSGCMt0V9C3junM4m29v) | [Zelienople](https://open.spotify.com/artist/7JoqPuWVcwttLMTT0jgSgY) | [Hold You Up](https://open.spotify.com/album/6Dd9ZLCztKoulxoSTGXBn4) | 5:02 | 2022-03-30 |  |
 | [Kindly Refrain](https://open.spotify.com/track/6Jk0CC8q4pwt6NGjOOxuPZ) | [Abstract Rose](https://open.spotify.com/artist/4rZFgAj9MDm0tr1vTChIVI) | [Kindly Refrain](https://open.spotify.com/album/4xRnIHpHuM0FEiWdyUyOcL) | 2:28 | 2022-03-30 |  |
@@ -56,11 +57,12 @@
 | [Mending a Secret](https://open.spotify.com/track/5b5isnIY653i8qEmopWVej) | [Steve Jansen](https://open.spotify.com/artist/5o1OTSNeI8tu3s54avv6Ba) | [Tender Extinction](https://open.spotify.com/album/5rtQaDi9nnrfAwQCxDgoZj) | 5:03 | 2022-03-30 |  |
 | [mixtapes](https://open.spotify.com/track/6e9hqBIQzF9q0M1tqp8mqj) | [Garden Collective](https://open.spotify.com/artist/6rT3tJQmePSMr68mPaqyyp) | [mixtapes](https://open.spotify.com/album/2rMzwSfdnPKcThZRB77Lp1) | 2:09 | 2022-08-23 |  |
 | [Modeling Structures](https://open.spotify.com/track/5j69T9lwivG9Uf452qRu6l) | [Akustique](https://open.spotify.com/artist/2AOnQvebnP4UuohgsdRJ6A) | [Modeling Structures](https://open.spotify.com/album/3Rf2n1WL2wEFfa6N58nygc) | 2:21 | 2022-08-23 |  |
+| [moon in motion](https://open.spotify.com/track/3GOYS5D20KoipqTbLYjQRM) | [Spaced Out Dreams](https://open.spotify.com/artist/7iGqNpmYWmkzGG6gwIVAha) | [moon in motion](https://open.spotify.com/album/4tWt4T1Yh0581fO8FTLuqN) | 2:30 | 2022-09-02 |  |
 | [Narrowed Down](https://open.spotify.com/track/6EancDMLEZXKyGvRWwmzWL) | [Elevated States](https://open.spotify.com/artist/7ylpJybZ4ixg9kzdnWBDQQ) | [Narrowed Down](https://open.spotify.com/album/4K2mMpyONR4MpBYbHBCe7T) | 3:03 | 2022-03-30 |  |
 | [Nautilus](https://open.spotify.com/track/0C8xen3Hd4WzIw6XDJGN6L) | [Ebb & Flod](https://open.spotify.com/artist/2thIq9dFmnfUClzXEjDIMr) | [Nautilus](https://open.spotify.com/album/2VasJoI8fBf5tBhf6ozAKL) | 2:51 | 2022-03-30 |  |
 | [neckless](https://open.spotify.com/track/5vU0ILQHzg8W293FZGwYcV) | [Kol Gron](https://open.spotify.com/artist/1dkHQSbVNP5EofkycCkJMb) | [neckless](https://open.spotify.com/album/27DEm76rOIIHMCxW7VGkfb) | 2:56 | 2022-03-30 |  |
 | [Nuraghe](https://open.spotify.com/track/1c3QWfGAadGw4ywwmLx5ju) | [PLACID](https://open.spotify.com/artist/7KQH1xnmFmACcxY4VBCTBn) | [Nuraghe](https://open.spotify.com/album/4fTiVmhdvJ2ICQmb7LYlD4) | 2:30 | 2022-05-19 |  |
-| [Ocean Flow Zither \- Mia Doi Todd Remix](https://open.spotify.com/track/09ppgcPGVtmFioqXjHIWJs) | [Laraaji](https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4), [Mia Doi Todd](https://open.spotify.com/artist/1r3efMZ0kcejkPKP8oQZzv) | [Sun Transformations](https://open.spotify.com/album/36tmFK2dtwsUrPWjsjnaEL) | 4:16 | 2022-03-30 |  |
+| [Ocean Flow Zither \- Mia Doi Todd Remix](https://open.spotify.com/track/09ppgcPGVtmFioqXjHIWJs) | [Laraaji](https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4), [Mia Doi Todd](https://open.spotify.com/artist/1r3efMZ0kcejkPKP8oQZzv) | [Sun Transformations](https://open.spotify.com/album/36tmFK2dtwsUrPWjsjnaEL) | 4:16 | 2022-03-30 | 2022-09-03 |
 | [ouma](https://open.spotify.com/track/0WRbfmpoYdrlMRv4BmJcPS) | [Fall Ball](https://open.spotify.com/artist/4fuQaoYKyoJhGu6Vabhrv3) | [ouma](https://open.spotify.com/album/4WrX59hznwV9m58GN5J4EZ) | 2:57 | 2022-03-30 | 2022-08-06 |
 | [Parallels](https://open.spotify.com/track/4ujZScjhNsCcDdK5iriHhU) | [Hollow Light](https://open.spotify.com/artist/0ANrW9wJEthapCrJsd4i4F) | [Parallels](https://open.spotify.com/album/1WEeuWUxTIuVUc3i1lKwFn) | 2:54 | 2022-06-24 |  |
 | [Past the Pasture and Beyond The Hill](https://open.spotify.com/track/4NZoI2toESyiMrobse6WSK) | [Clem Leek](https://open.spotify.com/artist/5FbBZ9ZLIoVdgbbnGmsKNk) | [Lifenotes](https://open.spotify.com/album/4YJIgx2MTliPfREF342MD4) | 2:11 | 2022-03-30 |  |
@@ -91,6 +93,7 @@
 | [Thies](https://open.spotify.com/track/3RfjNVMgziqIzos59Vi586) | [Bottle of Stars](https://open.spotify.com/artist/0l5ciixkdvIhJVQFvkrejW) | [Thies](https://open.spotify.com/album/7omeZxsKnZeYzqe03dzWsc) | 3:16 | 2022-03-30 |  |
 | [Thinking About Thinking](https://open.spotify.com/track/4wRESAxmq6EiKtouyOb2hC) | [Laura Groves](https://open.spotify.com/artist/680a4iDO5tGb0Mb3IIcrVz) | [Thinking About Thinking](https://open.spotify.com/album/7BF0FWt9cJIoWFpQ8j5IZG) | 4:09 | 2022-03-30 |  |
 | [Tomber Amoureux](https://open.spotify.com/track/0sTlmrgtj3om9MCoCFTzZm) | [Michael Szonja](https://open.spotify.com/artist/3gnRflW7ax20AhBEKnfrhF) | [Tomber Amoureux](https://open.spotify.com/album/1btvvbxQsUYmaXsRgZa0R4) | 2:20 | 2022-03-30 |  |
+| [Trail Of Emptiness \- Ambient Version](https://open.spotify.com/track/7soUChMHrOcBc80OPPVkbN) | [Francesco Siano](https://open.spotify.com/artist/1zvky5OoBfFdl75mLioOw5) | [Trail Of Emptiness \(Ambient Version\)](https://open.spotify.com/album/0DQ5cSbXp0bhuFbGKWzJk7) | 1:58 | 2022-09-02 |  |
 | [Traversing](https://open.spotify.com/track/6zaIazO4IJN92brWslJ3TQ) | [Flood First](https://open.spotify.com/artist/73aValriFtRYc0K5EzFVpZ) | [Traversing](https://open.spotify.com/album/0diFPJv3sk4ChhKrDXCrsn) | 3:10 | 2022-03-30 |  |
 | [Treefingers](https://open.spotify.com/track/4DPQvbgSM0IdX4O3HOACwL) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Kid A](https://open.spotify.com/album/19RUXBFyM4PpmrLRdtqWbp) | 3:42 | 2022-03-30 | 2022-07-29 |
 | [Treefingers](https://open.spotify.com/track/4LrfsgQ5AGouvH3PlxW2PC) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Kid A](https://open.spotify.com/album/6GjwtEZcfenmOf6l18N7T7) | 3:42 | 2022-07-15 |  |

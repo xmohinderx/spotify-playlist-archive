@@ -157,7 +157,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 163027,
       "name": "29",
       "url": "https://open.spotify.com/track/3gXWe15nwrjfhjYQ5RqLx7"
@@ -861,6 +861,24 @@
       "duration_ms": 229173,
       "name": "Atlantis",
       "url": "https://open.spotify.com/track/1Fid2jjqsHViMX6xNH70hE"
+    },
+    {
+      "album": {
+        "name": "NewJeans 1st EP 'New Jeans'",
+        "url": "https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180066,
+      "name": "Attention",
+      "url": "https://open.spotify.com/track/2pIUpMhHL6L9Z5lnKxJJr9"
     },
     {
       "album": {
@@ -4727,12 +4745,12 @@
       },
       "artists": [
         {
-          "name": "The Gregory Brothers",
-          "url": "https://open.spotify.com/artist/0V8tQXWkKPD5SxsB2moGew"
-        },
-        {
           "name": "Tariq",
           "url": "https://open.spotify.com/artist/599hKOVjadkb7Ny10pYc0M"
+        },
+        {
+          "name": "The Gregory Brothers",
+          "url": "https://open.spotify.com/artist/0V8tQXWkKPD5SxsB2moGew"
         },
         {
           "name": "Recess Therapy",
@@ -6764,6 +6782,28 @@
     },
     {
       "album": {
+        "name": "DOUBLE M'S",
+        "url": "https://open.spotify.com/album/3gkkk6YBBtdhJeBeoUBxui"
+      },
+      "artists": [
+        {
+          "name": "Lil Mabu",
+          "url": "https://open.spotify.com/artist/6FAo7ORAHEzSSf5q10LLfN"
+        },
+        {
+          "name": "DUSTY LOCANE",
+          "url": "https://open.spotify.com/artist/22hWz22JAmIhIEp0u1X01L"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "NO SNITCHING (with Dusty Locane)",
+      "url": "https://open.spotify.com/track/3W9jnJBPYeihwNSXsr65f9"
+    },
+    {
+      "album": {
         "name": "OK Computer",
         "url": "https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE"
       },
@@ -7243,7 +7283,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 205426,
       "name": "Pass The Dutchie",
       "url": "https://open.spotify.com/track/1BkY0N8ChFk2mdLbAUu8ZK"
@@ -7571,7 +7611,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 119409,
       "name": "prolly my spookiest beat",
       "url": "https://open.spotify.com/track/7bzZzwCiidSodNRK1Deyf2"
@@ -8927,7 +8967,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 137299,
       "name": "Sw\u00ebrved It",
       "url": "https://open.spotify.com/track/0bihOtJtBxl6r9DUJorNUh"

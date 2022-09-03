@@ -4,7 +4,7 @@
 
 > Gym harder, better, faster and longer\. Yes, you CAN do it.
 
-137 songs - 7 hr 6 min - [published](https://open.spotify.com/playlist/7KYDTb9MPMU550wXeMZesu)
+138 songs - 7 hr 9 min - [published](https://open.spotify.com/playlist/7KYDTb9MPMU550wXeMZesu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [I Need You](https://open.spotify.com/track/1NMmSM6DYwhAf7027fowmD) | [Maxinne](https://open.spotify.com/artist/3sv9dCyzqOsGcJHPl5seiq), [Hayla](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Red Alert](https://open.spotify.com/album/7lxnv0bArIIsZGTDULr7bE) | 3:56 | 2022-04-15 | 2022-07-26 |
 | [I Want You](https://open.spotify.com/track/1maNPmlhAlRAaZ7DWP3uGK) | [ESSEL](https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc), [Mila Falls](https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve), [James Hurr](https://open.spotify.com/artist/2g9i2kA0jUr6sfAT28l2vL) | [I Want You](https://open.spotify.com/album/10a8SvipqTqlNabcG2eykC) | 2:53 | 2022-07-05 | 2022-07-27 |
 | [I'm Just Sayin' \- Radio Edit](https://open.spotify.com/track/4YviPw2SBoQbGklWcFy014) | [Relicah](https://open.spotify.com/artist/3M5IeUgphKkpoonBB5TBwn) | [I'm Just Sayin'](https://open.spotify.com/album/7IuYkNSRcKweogPrK4UNLD) | 3:58 | 2022-04-15 | 2022-05-09 |
+| [Know My Name](https://open.spotify.com/track/1JeM2RHVfWP3S4mKE3akNf) | [TS7](https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki) | [Know My Name](https://open.spotify.com/album/4u3WpX3v5gyBHFqfH5JObW) | 3:03 | 2022-07-29 |  |
 | [Last Thought \(feat\. MKLA\)](https://open.spotify.com/track/1tZC1ktebdhQSlhnFSetLk) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [MKLA](https://open.spotify.com/artist/57Vnemieu10x71jR2UWc4o) | [Last Thought \(feat\. MKLA\)](https://open.spotify.com/album/6IeRGYRqUbbfCnxN9Aw8Yg) | 3:58 | 2022-05-10 | 2022-06-16 |
 | [Let Me Love You](https://open.spotify.com/track/5kgeY10kFAXvA3l6xuOEhE) | [John Gibbons](https://open.spotify.com/artist/72luDUYRlE8N8lPSgyhiwo), [Franklin](https://open.spotify.com/artist/4bU685oayr3KvaP4qdoYdu) | [Let Me Love You](https://open.spotify.com/album/247DAQfRMhRrWYIqscvwbA) | 3:06 | 2022-04-15 | 2022-05-11 |
 | [Let U Have Me](https://open.spotify.com/track/0y2sS5edZlqYvTebwphr8q) | [Shift K3Y](https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM) | [Let U Have Me](https://open.spotify.com/album/6oZBo1srQJ4hi4KT3ibm2v) | 2:45 | 2022-05-10 | 2022-07-27 |
@@ -143,7 +144,7 @@
 | [Where Did You Go?](https://open.spotify.com/track/26KOUSe9W0ZsTxMgNfbmq1) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Where Did You Go?](https://open.spotify.com/album/27ilYTtTrqVRdHSSfm94jA) | 2:57 | 2022-04-15 | 2022-07-29 |
 | [Where Did You Go? \(feat\. MNEK\)](https://open.spotify.com/track/3sa06xVNmLLYIxdNNmVQN8) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Where Did You Go \(feat\. MNEK\)](https://open.spotify.com/album/5vSLX6JljaSXuRY2Wqi6xL) | 2:57 | 2022-07-05 |  |
 | [Yes!](https://open.spotify.com/track/1btu0d80Q8qkkqUCkud15r) | [Jack Wins](https://open.spotify.com/artist/5v8ZROs9c26k4yGMxUkebt) | [Yes!](https://open.spotify.com/album/1mO9BuJINy0FTRPMUazpUC) | 2:36 | 2022-04-15 | 2022-07-29 |
-| [You & I](https://open.spotify.com/track/0OE5nvs8Sc1meDrjN7vwBw) | [Navos](https://open.spotify.com/artist/6YCM9JwkqdEFQSzztmh4Kb), [HARLEE](https://open.spotify.com/artist/6eNlaSdxs8F7F0XlfDBhZy) | [You & I](https://open.spotify.com/album/2R65x1NUpvpI1Dp97sEPFU) | 2:48 | 2022-04-15 |  |
+| [You & I](https://open.spotify.com/track/0OE5nvs8Sc1meDrjN7vwBw) | [Navos](https://open.spotify.com/artist/6YCM9JwkqdEFQSzztmh4Kb), [HARLEE](https://open.spotify.com/artist/6eNlaSdxs8F7F0XlfDBhZy) | [You & I](https://open.spotify.com/album/2R65x1NUpvpI1Dp97sEPFU) | 2:48 | 2022-04-15 | 2022-09-03 |
 | [Your Body](https://open.spotify.com/track/697HW34FLNURvRAbSieICv) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o) | [Your Body](https://open.spotify.com/album/6mHS5vgGYalErBmxhX3TXx) | 3:27 | 2022-07-05 |  |
 
 \*This playlist was first scraped on 2022-05-01. Prior content cannot be recovered.

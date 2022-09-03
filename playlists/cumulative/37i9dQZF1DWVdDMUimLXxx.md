@@ -4,7 +4,7 @@
 
 > Add dramatic flair to your strategy game.
 
-72 songs - 3 hr 42 min - [published](https://open.spotify.com/playlist/7chXrYGnaDM6wXcboPhu0N)
+74 songs - 3 hr 49 min - [published](https://open.spotify.com/playlist/7chXrYGnaDM6wXcboPhu0N)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,11 +42,13 @@
 | [Holy \- String Ensemble](https://open.spotify.com/track/2635mg4Ef7isjdHXXkEcAy) | [The Bedtime Orchestra](https://open.spotify.com/artist/2YNrq9cmdroJa9v8kmKmsr) | [Holy & Mad At Disney \(String Ensemble\)](https://open.spotify.com/album/42yDUWgIoDifBUDAm7zhsi) | 2:49 | 2022-04-22 |  |
 | [Huddled in the Shadows](https://open.spotify.com/track/45mG9ywi5sbbxjA2Rdv95L) | [Austin Wintory](https://open.spotify.com/artist/3Rwlus4QnnBSnTe8pJV0rw) | [The Banner Saga](https://open.spotify.com/album/4dZzebB3bTIXLJpTMOSE44) | 3:02 | 2022-04-22 |  |
 | [Human Revolution](https://open.spotify.com/track/2sXXleqZhdiplnq4qEK3Xq) | [Christoffer Moe Ditlevsen](https://open.spotify.com/artist/1byqtZiN0rWjNg7kXy5j3S) | [Human Revolution](https://open.spotify.com/album/6vsWQN5DoKQ6OydmtfBT0r) | 2:23 | 2022-04-22 |  |
+| [Humble King](https://open.spotify.com/track/5Y2p8hsnCvJ9ctaUiMMdQ6) | [Brock Hewitt: Stories in Sound](https://open.spotify.com/artist/1PWCCcjCmwzjYb48VWpGcm) | [Humble King](https://open.spotify.com/album/2V3VCtF9U9XPWYp8pinRxN) | 3:05 | 2022-09-02 |  |
 | [Hunger, Thirst](https://open.spotify.com/track/2CH3Ub29VJrqNgg0v2fx0D) | [Johannes Bornlöf](https://open.spotify.com/artist/1yLIaxyVkZnLMXhfRSYEjV) | [The Road To Meteora](https://open.spotify.com/album/3PLSbFdaSc9nHiZsdutrAz) | 2:13 | 2022-04-22 |  |
 | [I Thought I'd Never Forget](https://open.spotify.com/track/66TyP1oeJXmnCkNpyul9T1) | [August D\. Valentine](https://open.spotify.com/artist/4MJYe0nbmZr7ty64T1VGoN) | [Momentum](https://open.spotify.com/album/1pP6DihqrGirs9YPUp6bHQ) | 2:20 | 2022-04-22 |  |
 | [Il Confine Del Dolore \- feat: Ensemble Cordes De La Mer](https://open.spotify.com/track/307JdSdFWDM2u0H5JoIixw) | [Nora Maddox](https://open.spotify.com/artist/5yZabwuaVYo86cGVx0BzUX) | [Il Confine Del Dolore](https://open.spotify.com/album/1zTtByo8f2pVkZPhVvapWk) | 1:58 | 2022-04-22 |  |
 | [Let's Run Away Together](https://open.spotify.com/track/7jxJHRmtMpGNR3EmxnspDB) | [Johannes Bornlöf](https://open.spotify.com/artist/1yLIaxyVkZnLMXhfRSYEjV) | [The Boy Who Flew Away](https://open.spotify.com/album/4dgeskwXtoICOIJuPqXBAt) | 2:57 | 2022-04-22 | 2022-07-29 |
 | [Let's Run Away Together](https://open.spotify.com/track/2HfkmgoO8fLWRFeksDGpa6) | [Johannes Bornlöf](https://open.spotify.com/artist/1yLIaxyVkZnLMXhfRSYEjV) | [The Boy Who Flew Away](https://open.spotify.com/album/1s1aADIorXvJ1DUmMKxWId) | 2:57 | 2022-07-08 |  |
+| [Lost Crusaders](https://open.spotify.com/track/6gsZtwWWTFL2tpLXFKl2Rw) | [Hampus Naeselius](https://open.spotify.com/artist/1M3REpihyqFCmBRC9sMzp5) | [Lost Crusaders](https://open.spotify.com/album/5BIJc879MbWsGzlAHOrST5) | 4:16 | 2022-09-02 |  |
 | [Love Theme For Linda](https://open.spotify.com/track/6yEKX6B4ehcaI2epFjkKtl) | [Ulf Janson](https://open.spotify.com/artist/6EY0o8bLVxMJlgpipFvfhK) | [Love Theme For Linda](https://open.spotify.com/album/0cBmUUiRdqPsX1NNU8U3QQ) | 2:03 | 2022-04-22 |  |
 | [MATI](https://open.spotify.com/track/6HeFLsBljHuuYdG4gUzlyE) | [Mallias](https://open.spotify.com/artist/7Jha5lv1MsoExRH2GMSNLk) | [MATI](https://open.spotify.com/album/41wh35g4nY8ilqZKYDBr4h) | 2:16 | 2022-04-22 |  |
 | [Mouvement Déterminé](https://open.spotify.com/track/6ryCqg8031fqxpL7Tic6qZ) | [Erinrad Viker Sinfonietta](https://open.spotify.com/artist/577NHFNqD3EF7ePgJxpCzu) | [Mouvement Déterminé](https://open.spotify.com/album/70WIfeigUPwzlT0PUWSXAW) | 3:14 | 2022-04-22 |  |

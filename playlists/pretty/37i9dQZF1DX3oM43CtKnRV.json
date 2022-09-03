@@ -1,12 +1,12 @@
 {
   "description": "These songs rocked the 00s. Cover: Linkin Park",
-  "num_followers": 4345252,
+  "num_followers": 4347003,
   "original_name": "00s Rock Anthems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTk4NjM0OCwwMDAwMDAwMDhjOTQ1MTBiNjU1YTUwMzdmNTk4N2ZiMDU5MGY1ZTRh",
+  "snapshot_id": "MTY2MTk4NjM0OCwwMDAwMDAwMDE0OGJlNzU3MzYyZGM4ZmMxM2E4MDExNzUyZjI5NTRl",
   "tracks": [
     {
       "added_at": "2022-04-17 17:19:54",
@@ -603,22 +603,6 @@
     {
       "added_at": "2022-04-17 17:19:54",
       "album": {
-        "name": "Get Born",
-        "url": "https://open.spotify.com/album/6NrLpQCPYrNS3kVWxDgIlg"
-      },
-      "artists": [
-        {
-          "name": "Jet",
-          "url": "https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI"
-        }
-      ],
-      "duration_ms": 213800,
-      "name": "Are You Gonna Be My Girl",
-      "url": "https://open.spotify.com/track/305WCRhhS10XUcH6AEwZk6"
-    },
-    {
-      "added_at": "2022-04-17 17:19:54",
-      "album": {
         "name": "Anthology",
         "url": "https://open.spotify.com/album/5klPnHQ5dy6Qm2Ul7h1lp5"
       },
@@ -635,18 +619,34 @@
     {
       "added_at": "2022-04-17 17:19:54",
       "album": {
-        "name": "Riot!",
-        "url": "https://open.spotify.com/album/71rziY9eLo1tA2dBMxrwhc"
+        "name": "Get Born",
+        "url": "https://open.spotify.com/album/6NrLpQCPYrNS3kVWxDgIlg"
       },
       "artists": [
         {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+          "name": "Jet",
+          "url": "https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI"
         }
       ],
-      "duration_ms": 211520,
-      "name": "Misery Business",
-      "url": "https://open.spotify.com/track/6SpLc7EXZIPpy0sVko0aoU"
+      "duration_ms": 213800,
+      "name": "Are You Gonna Be My Girl",
+      "url": "https://open.spotify.com/track/305WCRhhS10XUcH6AEwZk6"
+    },
+    {
+      "added_at": "2022-04-17 17:19:54",
+      "album": {
+        "name": "Three Cheers for Sweet Revenge",
+        "url": "https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h"
+      },
+      "artists": [
+        {
+          "name": "My Chemical Romance",
+          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+        }
+      ],
+      "duration_ms": 186480,
+      "name": "I'm Not Okay (I Promise)",
+      "url": "https://open.spotify.com/track/7lRlq939cDG4SzWOF4VAnd"
     },
     {
       "added_at": "2022-04-17 17:19:54",
@@ -667,18 +667,18 @@
     {
       "added_at": "2022-04-17 17:19:54",
       "album": {
-        "name": "Three Cheers for Sweet Revenge",
-        "url": "https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h"
+        "name": "Riot!",
+        "url": "https://open.spotify.com/album/71rziY9eLo1tA2dBMxrwhc"
       },
       "artists": [
         {
-          "name": "My Chemical Romance",
-          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
         }
       ],
-      "duration_ms": 186480,
-      "name": "I'm Not Okay (I Promise)",
-      "url": "https://open.spotify.com/track/7lRlq939cDG4SzWOF4VAnd"
+      "duration_ms": 211520,
+      "name": "Misery Business",
+      "url": "https://open.spotify.com/track/6SpLc7EXZIPpy0sVko0aoU"
     },
     {
       "added_at": "2022-04-17 17:19:54",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2022-04-17 17:19:54",
       "album": {
-        "name": "Conspiracy Of One",
-        "url": "https://open.spotify.com/album/09OM7urF0SXgJqbFcllYQs"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 202573,
-      "name": "Want You Bad",
-      "url": "https://open.spotify.com/track/6hwQ69v7VbPhTTR2fOtYX7"
-    },
-    {
-      "added_at": "2022-04-17 17:19:54",
-      "album": {
         "name": "White Blood Cells",
         "url": "https://open.spotify.com/album/6Xvc1TfpVEhDeHhmTQEtp0"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 110093,
       "name": "Fell In Love With a Girl",
       "url": "https://open.spotify.com/track/21Qsj3cMVCx2xF2EVVNbEu"
+    },
+    {
+      "added_at": "2022-04-17 17:19:54",
+      "album": {
+        "name": "Conspiracy Of One",
+        "url": "https://open.spotify.com/album/09OM7urF0SXgJqbFcllYQs"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 202573,
+      "name": "Want You Bad",
+      "url": "https://open.spotify.com/track/6hwQ69v7VbPhTTR2fOtYX7"
     },
     {
       "added_at": "2022-04-17 17:19:54",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2022-04-17 17:19:54",
       "album": {
-        "name": "The Used",
-        "url": "https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv"
-      },
-      "artists": [
-        {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
-        }
-      ],
-      "duration_ms": 208693,
-      "name": "The Taste of Ink",
-      "url": "https://open.spotify.com/track/5jZ1Z2GFTf2gwmFc3qiUxs"
-    },
-    {
-      "added_at": "2022-04-17 17:19:54",
-      "album": {
         "name": "Sleeping With Ghosts",
         "url": "https://open.spotify.com/album/4fUDor6o5gw0b18iYKEaRq"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 190573,
       "name": "The Bitter End",
       "url": "https://open.spotify.com/track/3WBPiogtVDBSXK7uOpxJ6m"
+    },
+    {
+      "added_at": "2022-04-17 17:19:54",
+      "album": {
+        "name": "The Used",
+        "url": "https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "duration_ms": 208693,
+      "name": "The Taste of Ink",
+      "url": "https://open.spotify.com/track/5jZ1Z2GFTf2gwmFc3qiUxs"
     },
     {
       "added_at": "2022-04-17 17:19:54",

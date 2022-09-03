@@ -1,12 +1,12 @@
 {
   "description": "Soft and smooth vocal jazz to help you relax and unwind.",
-  "num_followers": 11162,
+  "num_followers": 11232,
   "original_name": "Relaxing Vocal Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTk1MDYxNiwwMDAwMDAwMGQyYjM3Zjc5NWQ3ZjBkOGVjY2FjNTUzZjQwM2Y2YzQ5",
+  "snapshot_id": "MTY2MTk1MDYxNiwwMDAwMDAwMGQ5ZmQ1ZWVjYmI2ZTFiOGNmMmYzZTAwZGM3NDAwMDEw",
   "tracks": [
     {
       "added_at": "2022-08-31 12:56:56",
@@ -451,6 +451,26 @@
     {
       "added_at": "2022-08-31 12:56:56",
       "album": {
+        "name": "The Nearness of You",
+        "url": "https://open.spotify.com/album/1m52IEUS08ohNLcVyxdyqu"
+      },
+      "artists": [
+        {
+          "name": "Camille Harris",
+          "url": "https://open.spotify.com/artist/245uCozaIRf8nxTWhQ09rL"
+        },
+        {
+          "name": "David Linard",
+          "url": "https://open.spotify.com/artist/3dcJT8sUQjH1UPor3vDh6l"
+        }
+      ],
+      "duration_ms": 303109,
+      "name": "The Nearness of You",
+      "url": "https://open.spotify.com/track/1XF80YjwjuzuIfLzIfbqkt"
+    },
+    {
+      "added_at": "2022-08-31 12:56:56",
+      "album": {
         "name": "Entre eux deux",
         "url": "https://open.spotify.com/album/73n8nSybQyRr7MxUIi82K7"
       },
@@ -471,22 +491,18 @@
     {
       "added_at": "2022-08-31 12:56:56",
       "album": {
-        "name": "The Nearness of You",
-        "url": "https://open.spotify.com/album/1m52IEUS08ohNLcVyxdyqu"
+        "name": "The Art of Jazz with Miriam Netti",
+        "url": "https://open.spotify.com/album/4lfb694MUymWtIMowS1SO2"
       },
       "artists": [
         {
-          "name": "Camille Harris",
-          "url": "https://open.spotify.com/artist/245uCozaIRf8nxTWhQ09rL"
-        },
-        {
-          "name": "David Linard",
-          "url": "https://open.spotify.com/artist/3dcJT8sUQjH1UPor3vDh6l"
+          "name": "Miriam Netti",
+          "url": "https://open.spotify.com/artist/4ADL2QLAHszBP0oYINSMaP"
         }
       ],
-      "duration_ms": 303109,
-      "name": "The Nearness of You",
-      "url": "https://open.spotify.com/track/1XF80YjwjuzuIfLzIfbqkt"
+      "duration_ms": 310275,
+      "name": "May I Come In",
+      "url": "https://open.spotify.com/track/0YhFeyMLMbQ09mMFa8Konr"
     },
     {
       "added_at": "2022-08-31 12:56:56",
@@ -527,22 +543,6 @@
       "duration_ms": 371170,
       "name": "Velvet Curtains (feat. H\u00e5kon Kornstad)",
       "url": "https://open.spotify.com/track/4wfF91BDvZYOiP7LKq2New"
-    },
-    {
-      "added_at": "2022-08-31 12:56:56",
-      "album": {
-        "name": "The Art of Jazz with Miriam Netti",
-        "url": "https://open.spotify.com/album/4lfb694MUymWtIMowS1SO2"
-      },
-      "artists": [
-        {
-          "name": "Miriam Netti",
-          "url": "https://open.spotify.com/artist/4ADL2QLAHszBP0oYINSMaP"
-        }
-      ],
-      "duration_ms": 310275,
-      "name": "May I Come In",
-      "url": "https://open.spotify.com/track/0YhFeyMLMbQ09mMFa8Konr"
     },
     {
       "added_at": "2022-08-31 12:56:56",
@@ -731,22 +731,6 @@
     {
       "added_at": "2022-08-31 12:56:56",
       "album": {
-        "name": "Every Star Above",
-        "url": "https://open.spotify.com/album/7EptFOAT6xWnPWJa9vDt4t"
-      },
-      "artists": [
-        {
-          "name": "Mandy Barnett",
-          "url": "https://open.spotify.com/artist/1dueb4USSa0IBdtDolg4pO"
-        }
-      ],
-      "duration_ms": 173360,
-      "name": "For All We Know",
-      "url": "https://open.spotify.com/track/3wKXSiJ2OqbqPUXpppnjWh"
-    },
-    {
-      "added_at": "2022-08-31 12:56:56",
-      "album": {
         "name": "Some Other Time",
         "url": "https://open.spotify.com/album/1KvuEly7wop2kY2YKkqjAg"
       },
@@ -771,6 +755,38 @@
       "duration_ms": 207895,
       "name": "Some Other Time",
       "url": "https://open.spotify.com/track/0wVDgWsBZkeLzERYSYj8CJ"
+    },
+    {
+      "added_at": "2022-08-31 12:56:56",
+      "album": {
+        "name": "Every Star Above",
+        "url": "https://open.spotify.com/album/7EptFOAT6xWnPWJa9vDt4t"
+      },
+      "artists": [
+        {
+          "name": "Mandy Barnett",
+          "url": "https://open.spotify.com/artist/1dueb4USSa0IBdtDolg4pO"
+        }
+      ],
+      "duration_ms": 173360,
+      "name": "For All We Know",
+      "url": "https://open.spotify.com/track/3wKXSiJ2OqbqPUXpppnjWh"
+    },
+    {
+      "added_at": "2022-08-31 12:56:56",
+      "album": {
+        "name": "Neon Blue",
+        "url": "https://open.spotify.com/album/6HB4riiVFAoYGkeDPwmdeh"
+      },
+      "artists": [
+        {
+          "name": "Muriel Zoe",
+          "url": "https://open.spotify.com/artist/4BwzaXVRPUYnVYGo07Queq"
+        }
+      ],
+      "duration_ms": 262346,
+      "name": "Body And Soul",
+      "url": "https://open.spotify.com/track/2KCvVYuwYhuzxbH7pQSfUL"
     },
     {
       "added_at": "2022-08-31 12:56:56",
@@ -807,22 +823,6 @@
     {
       "added_at": "2022-08-31 12:56:56",
       "album": {
-        "name": "Neon Blue",
-        "url": "https://open.spotify.com/album/6HB4riiVFAoYGkeDPwmdeh"
-      },
-      "artists": [
-        {
-          "name": "Muriel Zoe",
-          "url": "https://open.spotify.com/artist/4BwzaXVRPUYnVYGo07Queq"
-        }
-      ],
-      "duration_ms": 262346,
-      "name": "Body And Soul",
-      "url": "https://open.spotify.com/track/2KCvVYuwYhuzxbH7pQSfUL"
-    },
-    {
-      "added_at": "2022-08-31 12:56:56",
-      "album": {
         "name": "Abbey Lincoln's Affair... A Story Of A Girl In Love (Expanded Edition)",
         "url": "https://open.spotify.com/album/75kSQXvLMJh5TsK65zGkOg"
       },
@@ -835,34 +835,6 @@
       "duration_ms": 204040,
       "name": "The Masquerade Is Over",
       "url": "https://open.spotify.com/track/7A826LB6RXDtLE6a5IXMck"
-    },
-    {
-      "added_at": "2022-08-31 12:56:56",
-      "album": {
-        "name": "Live Sings Sassy",
-        "url": "https://open.spotify.com/album/1iimKeyogFlVxDgnrpaKTr"
-      },
-      "artists": [
-        {
-          "name": "Live Foyn Friis",
-          "url": "https://open.spotify.com/artist/4dZ1woIhLE3Y92MRKhr8af"
-        },
-        {
-          "name": "B\u00e5rd Helgerud",
-          "url": "https://open.spotify.com/artist/2GMYgVdLfQj8frPJDRLkvh"
-        },
-        {
-          "name": "Rodrigo Villagra",
-          "url": "https://open.spotify.com/artist/0RgfOjYOuHTiBygi9BwAzv"
-        },
-        {
-          "name": "Magnus Sefaniassen Eide",
-          "url": "https://open.spotify.com/artist/6S5pM5PQo4Z7dv6xUE8Ahw"
-        }
-      ],
-      "duration_ms": 376085,
-      "name": "You Go to My Head",
-      "url": "https://open.spotify.com/track/1xxxPMRx3geNxH5IzUGpbX"
     },
     {
       "added_at": "2022-08-31 12:56:56",
@@ -903,6 +875,26 @@
     {
       "added_at": "2022-08-31 12:56:56",
       "album": {
+        "name": "The Night and the Music",
+        "url": "https://open.spotify.com/album/3G8RPQgYAbX2Gpyc69YU3k"
+      },
+      "artists": [
+        {
+          "name": "Lina Nyberg",
+          "url": "https://open.spotify.com/artist/51lkmSxQ5rpUuRSgoAzWcv"
+        },
+        {
+          "name": "Daniel Karlsson",
+          "url": "https://open.spotify.com/artist/133ujfci80J2umYb3Oas89"
+        }
+      ],
+      "duration_ms": 249026,
+      "name": "Night and Day",
+      "url": "https://open.spotify.com/track/52Bx2eqyLGX1r70PN3ePOk"
+    },
+    {
+      "added_at": "2022-08-31 12:56:56",
+      "album": {
         "name": "One Evening in July",
         "url": "https://open.spotify.com/album/1yiTkfeQNG2CDc7AaYru01"
       },
@@ -935,22 +927,6 @@
     {
       "added_at": "2022-08-31 12:56:56",
       "album": {
-        "name": "Come What May",
-        "url": "https://open.spotify.com/album/1PfdkCao8Kpvpwn977xklZ"
-      },
-      "artists": [
-        {
-          "name": "Jane Monheit",
-          "url": "https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ"
-        }
-      ],
-      "duration_ms": 345120,
-      "name": "Lush Life",
-      "url": "https://open.spotify.com/track/2ShXVI9NNJwVnYGBWRd7nd"
-    },
-    {
-      "added_at": "2022-08-31 12:56:56",
-      "album": {
         "name": "More Than You Know",
         "url": "https://open.spotify.com/album/4VU42lLFiXY4Xcr4tcoPZa"
       },
@@ -971,22 +947,46 @@
     {
       "added_at": "2022-08-31 12:56:56",
       "album": {
-        "name": "The Night and the Music",
-        "url": "https://open.spotify.com/album/3G8RPQgYAbX2Gpyc69YU3k"
+        "name": "Come What May",
+        "url": "https://open.spotify.com/album/1PfdkCao8Kpvpwn977xklZ"
       },
       "artists": [
         {
-          "name": "Lina Nyberg",
-          "url": "https://open.spotify.com/artist/51lkmSxQ5rpUuRSgoAzWcv"
-        },
-        {
-          "name": "Daniel Karlsson",
-          "url": "https://open.spotify.com/artist/133ujfci80J2umYb3Oas89"
+          "name": "Jane Monheit",
+          "url": "https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ"
         }
       ],
-      "duration_ms": 249026,
-      "name": "Night and Day",
-      "url": "https://open.spotify.com/track/52Bx2eqyLGX1r70PN3ePOk"
+      "duration_ms": 345120,
+      "name": "Lush Life",
+      "url": "https://open.spotify.com/track/2ShXVI9NNJwVnYGBWRd7nd"
+    },
+    {
+      "added_at": "2022-08-31 12:56:56",
+      "album": {
+        "name": "Live Sings Sassy",
+        "url": "https://open.spotify.com/album/1iimKeyogFlVxDgnrpaKTr"
+      },
+      "artists": [
+        {
+          "name": "Live Foyn Friis",
+          "url": "https://open.spotify.com/artist/4dZ1woIhLE3Y92MRKhr8af"
+        },
+        {
+          "name": "B\u00e5rd Helgerud",
+          "url": "https://open.spotify.com/artist/2GMYgVdLfQj8frPJDRLkvh"
+        },
+        {
+          "name": "Rodrigo Villagra",
+          "url": "https://open.spotify.com/artist/0RgfOjYOuHTiBygi9BwAzv"
+        },
+        {
+          "name": "Magnus Sefaniassen Eide",
+          "url": "https://open.spotify.com/artist/6S5pM5PQo4Z7dv6xUE8Ahw"
+        }
+      ],
+      "duration_ms": 376085,
+      "name": "You Go to My Head",
+      "url": "https://open.spotify.com/track/1xxxPMRx3geNxH5IzUGpbX"
     },
     {
       "added_at": "2022-08-31 12:56:56",
@@ -1019,6 +1019,46 @@
       "duration_ms": 430081,
       "name": "If You Could See Me Now",
       "url": "https://open.spotify.com/track/1yDPuRttnvxpTsh402ySUH"
+    },
+    {
+      "added_at": "2022-08-31 12:56:56",
+      "album": {
+        "name": "Undefined",
+        "url": "https://open.spotify.com/album/05tAyvFf9Z15aC0rViC5qu"
+      },
+      "artists": [
+        {
+          "name": "Caity Gyorgy",
+          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
+        }
+      ],
+      "duration_ms": 335720,
+      "name": "Undefined",
+      "url": "https://open.spotify.com/track/4pHydJxZ7Bb7xEIsFVcquI"
+    },
+    {
+      "added_at": "2022-08-31 12:56:56",
+      "album": {
+        "name": "City Garden",
+        "url": "https://open.spotify.com/album/67jd34ZxYdzKLkmIJDE246"
+      },
+      "artists": [
+        {
+          "name": "Katrine Madsen",
+          "url": "https://open.spotify.com/artist/20QOEqeaMRFRLa839sDCnj"
+        },
+        {
+          "name": "Anders Jormin",
+          "url": "https://open.spotify.com/artist/4GyvHXnvKDjmMjMQJmsOTy"
+        },
+        {
+          "name": "Jacob Christoffersen",
+          "url": "https://open.spotify.com/artist/3ljK3UprmcWotHs686486V"
+        }
+      ],
+      "duration_ms": 234493,
+      "name": "Marie",
+      "url": "https://open.spotify.com/track/4qDlFHTl5YlyowI3LazpgU"
     },
     {
       "added_at": "2022-08-31 12:56:56",
@@ -1059,22 +1099,6 @@
     {
       "added_at": "2022-08-31 12:56:56",
       "album": {
-        "name": "Undefined",
-        "url": "https://open.spotify.com/album/05tAyvFf9Z15aC0rViC5qu"
-      },
-      "artists": [
-        {
-          "name": "Caity Gyorgy",
-          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
-        }
-      ],
-      "duration_ms": 335720,
-      "name": "Undefined",
-      "url": "https://open.spotify.com/track/4pHydJxZ7Bb7xEIsFVcquI"
-    },
-    {
-      "added_at": "2022-08-31 12:56:56",
-      "album": {
         "name": "Stations",
         "url": "https://open.spotify.com/album/1d21jnvVSGyjHtvKBKJZH6"
       },
@@ -1087,46 +1111,6 @@
       "duration_ms": 293124,
       "name": "The Streets of Berlin",
       "url": "https://open.spotify.com/track/2KUrFIcgYAMbadHxF0JX4B"
-    },
-    {
-      "added_at": "2022-08-31 12:56:56",
-      "album": {
-        "name": "City Garden",
-        "url": "https://open.spotify.com/album/67jd34ZxYdzKLkmIJDE246"
-      },
-      "artists": [
-        {
-          "name": "Katrine Madsen",
-          "url": "https://open.spotify.com/artist/20QOEqeaMRFRLa839sDCnj"
-        },
-        {
-          "name": "Anders Jormin",
-          "url": "https://open.spotify.com/artist/4GyvHXnvKDjmMjMQJmsOTy"
-        },
-        {
-          "name": "Jacob Christoffersen",
-          "url": "https://open.spotify.com/artist/3ljK3UprmcWotHs686486V"
-        }
-      ],
-      "duration_ms": 234493,
-      "name": "Marie",
-      "url": "https://open.spotify.com/track/4qDlFHTl5YlyowI3LazpgU"
-    },
-    {
-      "added_at": "2022-08-31 12:56:56",
-      "album": {
-        "name": "It Happens Like That",
-        "url": "https://open.spotify.com/album/5ojWrYc5keKYq774cZicWo"
-      },
-      "artists": [
-        {
-          "name": "Katherine Kostoff",
-          "url": "https://open.spotify.com/artist/6iejr7uXjNOIaqvE5R9t8W"
-        }
-      ],
-      "duration_ms": 211740,
-      "name": "It Happens Like That",
-      "url": "https://open.spotify.com/track/6U0y4ZrWLqrUb82XmJEmLP"
     },
     {
       "added_at": "2022-08-31 12:56:56",
@@ -1147,6 +1131,22 @@
     {
       "added_at": "2022-08-31 12:56:56",
       "album": {
+        "name": "It Happens Like That",
+        "url": "https://open.spotify.com/album/5ojWrYc5keKYq774cZicWo"
+      },
+      "artists": [
+        {
+          "name": "Katherine Kostoff",
+          "url": "https://open.spotify.com/artist/6iejr7uXjNOIaqvE5R9t8W"
+        }
+      ],
+      "duration_ms": 211740,
+      "name": "It Happens Like That",
+      "url": "https://open.spotify.com/track/6U0y4ZrWLqrUb82XmJEmLP"
+    },
+    {
+      "added_at": "2022-08-31 12:56:56",
+      "album": {
         "name": "Tell Him I Said Hello",
         "url": "https://open.spotify.com/album/39QI8WaZmEFH6UxIPqz94J"
       },
@@ -1159,6 +1159,30 @@
       "duration_ms": 266138,
       "name": "I Didn't Know About You",
       "url": "https://open.spotify.com/track/2ffVdQxr7RREUKtmxuM6Rn"
+    },
+    {
+      "added_at": "2022-08-31 12:56:56",
+      "album": {
+        "name": "City Garden",
+        "url": "https://open.spotify.com/album/6ziyb5Tcw8wGU9hISjQZEr"
+      },
+      "artists": [
+        {
+          "name": "Katrine Madsen",
+          "url": "https://open.spotify.com/artist/20QOEqeaMRFRLa839sDCnj"
+        },
+        {
+          "name": "Anders Jormin",
+          "url": "https://open.spotify.com/artist/4GyvHXnvKDjmMjMQJmsOTy"
+        },
+        {
+          "name": "Jacob Christoffersen",
+          "url": "https://open.spotify.com/artist/3ljK3UprmcWotHs686486V"
+        }
+      ],
+      "duration_ms": 394453,
+      "name": "City Garden",
+      "url": "https://open.spotify.com/track/271DgzkEDb5ojjbZNaZw91"
     },
     {
       "added_at": "2022-08-31 12:56:56",
@@ -1223,30 +1247,6 @@
     {
       "added_at": "2022-08-31 12:56:56",
       "album": {
-        "name": "City Garden",
-        "url": "https://open.spotify.com/album/6ziyb5Tcw8wGU9hISjQZEr"
-      },
-      "artists": [
-        {
-          "name": "Katrine Madsen",
-          "url": "https://open.spotify.com/artist/20QOEqeaMRFRLa839sDCnj"
-        },
-        {
-          "name": "Anders Jormin",
-          "url": "https://open.spotify.com/artist/4GyvHXnvKDjmMjMQJmsOTy"
-        },
-        {
-          "name": "Jacob Christoffersen",
-          "url": "https://open.spotify.com/artist/3ljK3UprmcWotHs686486V"
-        }
-      ],
-      "duration_ms": 394453,
-      "name": "City Garden",
-      "url": "https://open.spotify.com/track/271DgzkEDb5ojjbZNaZw91"
-    },
-    {
-      "added_at": "2022-08-31 12:56:56",
-      "album": {
         "name": "What'll I Do",
         "url": "https://open.spotify.com/album/5Kr5XbBJCKgQEYkCki7Ddz"
       },
@@ -1291,6 +1291,42 @@
     {
       "added_at": "2022-08-31 12:56:56",
       "album": {
+        "name": "I'm Glad There Is You",
+        "url": "https://open.spotify.com/album/2C6nFIz4Dc9zkXldL1cxbl"
+      },
+      "artists": [
+        {
+          "name": "Heidi Skjerve",
+          "url": "https://open.spotify.com/artist/7yQwGCbUgmOy5uK5GpqUQB"
+        },
+        {
+          "name": "Daniel Formo",
+          "url": "https://open.spotify.com/artist/1TE9dWxNyEb7IHOyJRFHLz"
+        },
+        {
+          "name": "Bj\u00f8rn Marius Hegge",
+          "url": "https://open.spotify.com/artist/0iXjovxW8QucGrQeA8KzKj"
+        },
+        {
+          "name": "H\u00e5kon Mj\u00e5set Johansen",
+          "url": "https://open.spotify.com/artist/34geeAnKKUjjNBe6byjL5I"
+        },
+        {
+          "name": "Klaus Ellerhusen Holm",
+          "url": "https://open.spotify.com/artist/6Fx5X9rVPeuPKJ56JNZndv"
+        },
+        {
+          "name": "Marthe Belsvik Stavrum",
+          "url": "https://open.spotify.com/artist/4QQEUXQffz5kZynvfMfENr"
+        }
+      ],
+      "duration_ms": 332066,
+      "name": "Lazy Afternoon",
+      "url": "https://open.spotify.com/track/6ZEHSRUjfNVZ5cIfCfu71H"
+    },
+    {
+      "added_at": "2022-08-31 12:56:56",
+      "album": {
         "name": "Julian",
         "url": "https://open.spotify.com/album/63QrOaQz8pdeXGG7XfTAYb"
       },
@@ -1327,38 +1363,30 @@
     {
       "added_at": "2022-08-31 12:56:56",
       "album": {
-        "name": "I'm Glad There Is You",
-        "url": "https://open.spotify.com/album/2C6nFIz4Dc9zkXldL1cxbl"
+        "name": "Indigo",
+        "url": "https://open.spotify.com/album/2TexgqYYV0EitC949gQKGx"
       },
       "artists": [
         {
-          "name": "Heidi Skjerve",
-          "url": "https://open.spotify.com/artist/7yQwGCbUgmOy5uK5GpqUQB"
+          "name": "Katrine Madsen",
+          "url": "https://open.spotify.com/artist/20QOEqeaMRFRLa839sDCnj"
         },
         {
-          "name": "Daniel Formo",
-          "url": "https://open.spotify.com/artist/1TE9dWxNyEb7IHOyJRFHLz"
+          "name": "Jesper Thorn",
+          "url": "https://open.spotify.com/artist/4DB375t3aSO9yDzf1O8IpD"
         },
         {
-          "name": "Bj\u00f8rn Marius Hegge",
-          "url": "https://open.spotify.com/artist/0iXjovxW8QucGrQeA8KzKj"
+          "name": "Morten Lund",
+          "url": "https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP"
         },
         {
-          "name": "H\u00e5kon Mj\u00e5set Johansen",
-          "url": "https://open.spotify.com/artist/34geeAnKKUjjNBe6byjL5I"
-        },
-        {
-          "name": "Klaus Ellerhusen Holm",
-          "url": "https://open.spotify.com/artist/6Fx5X9rVPeuPKJ56JNZndv"
-        },
-        {
-          "name": "Marthe Belsvik Stavrum",
-          "url": "https://open.spotify.com/artist/4QQEUXQffz5kZynvfMfENr"
+          "name": "Mads La Cour",
+          "url": "https://open.spotify.com/artist/7Lf4MgF9wFY6sNwHfa08Tf"
         }
       ],
-      "duration_ms": 332066,
-      "name": "Lazy Afternoon",
-      "url": "https://open.spotify.com/track/6ZEHSRUjfNVZ5cIfCfu71H"
+      "duration_ms": 448640,
+      "name": "From a Mother to a Child",
+      "url": "https://open.spotify.com/track/2fcHfAhlK9D2DHAyn1xttw"
     },
     {
       "added_at": "2022-08-31 12:56:56",
@@ -1415,6 +1443,22 @@
     {
       "added_at": "2022-08-31 12:56:56",
       "album": {
+        "name": "Here You Come Again",
+        "url": "https://open.spotify.com/album/5I8ibWprKS3IJA41m1HSS9"
+      },
+      "artists": [
+        {
+          "name": "Staci Griesbach",
+          "url": "https://open.spotify.com/artist/4AYJ30X58CPBmSpsXgWehO"
+        }
+      ],
+      "duration_ms": 309810,
+      "name": "Here You Come Again",
+      "url": "https://open.spotify.com/track/1Op7axBAcQMIBAQrP3welR"
+    },
+    {
+      "added_at": "2022-08-31 12:56:56",
+      "album": {
         "name": "My Mood Is You",
         "url": "https://open.spotify.com/album/6Eqi72QvWARDyhff3pQbqY"
       },
@@ -1427,34 +1471,6 @@
       "duration_ms": 345821,
       "name": "My Mood Is You",
       "url": "https://open.spotify.com/track/17kume3IjetNXGJlsrs3HE"
-    },
-    {
-      "added_at": "2022-08-31 12:56:56",
-      "album": {
-        "name": "Indigo",
-        "url": "https://open.spotify.com/album/2TexgqYYV0EitC949gQKGx"
-      },
-      "artists": [
-        {
-          "name": "Katrine Madsen",
-          "url": "https://open.spotify.com/artist/20QOEqeaMRFRLa839sDCnj"
-        },
-        {
-          "name": "Jesper Thorn",
-          "url": "https://open.spotify.com/artist/4DB375t3aSO9yDzf1O8IpD"
-        },
-        {
-          "name": "Morten Lund",
-          "url": "https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP"
-        },
-        {
-          "name": "Mads La Cour",
-          "url": "https://open.spotify.com/artist/7Lf4MgF9wFY6sNwHfa08Tf"
-        }
-      ],
-      "duration_ms": 448640,
-      "name": "From a Mother to a Child",
-      "url": "https://open.spotify.com/track/2fcHfAhlK9D2DHAyn1xttw"
     },
     {
       "added_at": "2022-08-31 12:56:56",
@@ -1483,22 +1499,6 @@
       "duration_ms": 212866,
       "name": "Fly Me to the Moon",
       "url": "https://open.spotify.com/track/4MdP2ZOWlwWLk1W7JxuuBL"
-    },
-    {
-      "added_at": "2022-08-31 12:56:56",
-      "album": {
-        "name": "Here You Come Again",
-        "url": "https://open.spotify.com/album/5I8ibWprKS3IJA41m1HSS9"
-      },
-      "artists": [
-        {
-          "name": "Staci Griesbach",
-          "url": "https://open.spotify.com/artist/4AYJ30X58CPBmSpsXgWehO"
-        }
-      ],
-      "duration_ms": 309810,
-      "name": "Here You Come Again",
-      "url": "https://open.spotify.com/track/1Op7axBAcQMIBAQrP3welR"
     },
     {
       "added_at": "2022-08-31 12:56:56",
@@ -1631,6 +1631,22 @@
     {
       "added_at": "2022-08-31 12:56:56",
       "album": {
+        "name": "The Art of Jazz with Miriam Netti",
+        "url": "https://open.spotify.com/album/4lfb694MUymWtIMowS1SO2"
+      },
+      "artists": [
+        {
+          "name": "Miriam Netti",
+          "url": "https://open.spotify.com/artist/4ADL2QLAHszBP0oYINSMaP"
+        }
+      ],
+      "duration_ms": 320250,
+      "name": "If I Had You",
+      "url": "https://open.spotify.com/track/61A9PmGW9zONp5V8Ah9SsI"
+    },
+    {
+      "added_at": "2022-08-31 12:56:56",
+      "album": {
         "name": "'Round Midnight",
         "url": "https://open.spotify.com/album/1EQmKx9SFKyMyFhTLchdEZ"
       },
@@ -1671,22 +1687,6 @@
       "duration_ms": 312186,
       "name": "I Can't Get Started",
       "url": "https://open.spotify.com/track/2pTg3UNkYi7dT5dghfUjjy"
-    },
-    {
-      "added_at": "2022-08-31 12:56:56",
-      "album": {
-        "name": "The Art of Jazz with Miriam Netti",
-        "url": "https://open.spotify.com/album/4lfb694MUymWtIMowS1SO2"
-      },
-      "artists": [
-        {
-          "name": "Miriam Netti",
-          "url": "https://open.spotify.com/artist/4ADL2QLAHszBP0oYINSMaP"
-        }
-      ],
-      "duration_ms": 320250,
-      "name": "If I Had You",
-      "url": "https://open.spotify.com/track/61A9PmGW9zONp5V8Ah9SsI"
     },
     {
       "added_at": "2022-08-31 12:56:56",
@@ -1883,18 +1883,18 @@
     {
       "added_at": "2022-08-31 12:56:56",
       "album": {
-        "name": "On Broadway, Vol. 4: The Paradox of Continuity",
-        "url": "https://open.spotify.com/album/5vy138qK08Tm7oqjBROeJn"
+        "name": "Willow Weep For Me",
+        "url": "https://open.spotify.com/album/46rIGsBH4cGh39xDCSD13x"
       },
       "artists": [
         {
-          "name": "Paul Motian Trio 2000 + One",
-          "url": "https://open.spotify.com/artist/6ablJgrdQ5HMaWKqxbGLSC"
+          "name": "Olivia Van Goor",
+          "url": "https://open.spotify.com/artist/2FWAbctEyBW7vxsl2UMvpy"
         }
       ],
-      "duration_ms": 296066,
-      "name": "High, Wide and Handsome: The Folks Who Live on the Hill",
-      "url": "https://open.spotify.com/track/2N8UU86Y1SOSMWpXtIqRV1"
+      "duration_ms": 283377,
+      "name": "Willow Weep For Me",
+      "url": "https://open.spotify.com/track/4VO3tcKdrr7xiyu7bGZGyo"
     }
   ],
   "unique_name": "Relaxing Vocal Jazz",

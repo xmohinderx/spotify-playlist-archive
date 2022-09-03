@@ -322,6 +322,24 @@
     },
     {
       "album": {
+        "name": "Edasi",
+        "url": "https://open.spotify.com/album/60g34Dm8jNth4tptfiYAr4"
+      },
+      "artists": [
+        {
+          "name": "L\u00f5hmus",
+          "url": "https://open.spotify.com/artist/3TybHE2vGmjjIgpEpoogjE"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222757,
+      "name": "Edasi",
+      "url": "https://open.spotify.com/track/7ytnlVd8PmIQKbIz0xDEls"
+    },
+    {
+      "album": {
         "name": "Empty Nest",
         "url": "https://open.spotify.com/album/6Sh1KdQm1FyXcGkUfe0Xqn"
       },

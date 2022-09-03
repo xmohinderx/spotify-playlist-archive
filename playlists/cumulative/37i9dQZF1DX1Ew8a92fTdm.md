@@ -4,7 +4,7 @@
 
 > Peaceful music box tunes for sleepy babies.
 
-146 songs - 3 hr 38 min - [published](https://open.spotify.com/playlist/6TPXRhAYwfF0T2qiE0ZMzm)
+148 songs - 3 hr 41 min - [published](https://open.spotify.com/playlist/6TPXRhAYwfF0T2qiE0ZMzm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Evening Hugging](https://open.spotify.com/track/2atBnRDYHZEr8FOqzPRfHC) | [Robin Swan](https://open.spotify.com/artist/6Di4ALvMopgtmvPy6qzoC7) | [Safe Haven Lullaby](https://open.spotify.com/album/6LRKwMzWAbB5rKvWs26qeO) | 1:47 | 2022-02-10 |  |
 | [Evening Song](https://open.spotify.com/track/3PrdHOBhWRtE4qih1vRe19) | [Emma Fredrikson](https://open.spotify.com/artist/593Pvds6UCt7EErZ6I63y9) | [Evening Song](https://open.spotify.com/album/4A6ddYIanxdO5mL5QLYUF6) | 1:09 | 2022-05-17 |  |
 | [Fall Asleep My Little Angel](https://open.spotify.com/track/4UU4RTh1YEjZIAWbnnzf8Q) | [Louis Pope](https://open.spotify.com/artist/7FavKAHYzE41fG2nWlbAXj) | [Fall Asleep My Little Angel](https://open.spotify.com/album/4nA8Ac5jgG93hgcoMzjLbD) | 1:32 | 2022-02-10 |  |
+| [Fields of Gold](https://open.spotify.com/track/0co79KitoGgWocyVuQE4xI) | [Nibble Pig](https://open.spotify.com/artist/1yGBlYX70u0Ok69QkNOwtF) | [Fields of Gold](https://open.spotify.com/album/0Wpnk7hAtae7Lbcvp7eJdW) | 1:39 | 2022-09-02 |  |
 | [Finders Keepers](https://open.spotify.com/track/2awz5iJRmlH1SPIWHWRTSX) | [Loriann Owen](https://open.spotify.com/artist/44f73pKwHeEGpmgZN0GaCr) | [Finders Keepers](https://open.spotify.com/album/6JTi6UKaDxBBARuoTGIl1A) | 1:28 | 2022-02-10 |  |
 | [Flying](https://open.spotify.com/track/5ivEvbvH6B40OTa4cdoZKZ) | [Miklos Whelan](https://open.spotify.com/artist/48jB9Z4z5OFMYizmWzOcmf) | [Flying](https://open.spotify.com/album/1fGV9ztSqsStPdKUfpKlKL) | 1:52 | 2022-02-10 |  |
 | [Giver of All Dreams](https://open.spotify.com/track/0YMs4x4b2VgKyYVBC1hqy8) | [Robert Lansky](https://open.spotify.com/artist/0KvC4eGmYHgj33vFtAlcaY) | [Giver of All Dreams](https://open.spotify.com/album/2QowJgu3GkclkMVYNsdKeV) | 1:13 | 2022-02-10 |  |
@@ -152,6 +153,7 @@
 | [When you wish upon a star](https://open.spotify.com/track/4yT4xev2ymB9x0SCahcLlV) | [Royce Prichard](https://open.spotify.com/artist/4iajyddKaNIX6a1LKwpovL) | [Somewhere over the rainbow](https://open.spotify.com/album/6OmptZeMhscTHVBeReXTz1) | 1:37 | 2022-02-10 |  |
 | [Whiskers](https://open.spotify.com/track/75ihfv5Y3KwvIiP5OhQPOF) | [Cat Morris](https://open.spotify.com/artist/1z4h0BDNJOpTzksITIOM6k) | [Whiskers](https://open.spotify.com/album/7IwJhve8nfyWXz7sEhfYIs) | 1:53 | 2022-02-10 |  |
 | [Whisper](https://open.spotify.com/track/2zO8FacMH5qKmRl0K4KQCX) | [Joan Carlsen](https://open.spotify.com/artist/6I0M6KDTQZvSCKt7iF8B4T) | [Whisper](https://open.spotify.com/album/7hGRrzGnFNR0XAWWYs2fN6) | 1:17 | 2022-02-10 |  |
+| [Yesterday](https://open.spotify.com/track/6sGDR7NjjMNmoj2ORLOyFZ) | [Bella Notte](https://open.spotify.com/artist/5GWqn1K9HufkeR8NEMNn5S) | [Yesterday](https://open.spotify.com/album/4A57hMzEz3dI0cUDwB3qbw) | 1:35 | 2022-09-02 |  |
 | [You Are My Sunshine](https://open.spotify.com/track/5WMbHgjzFrAzcSJk8ZrJc3) | [Jesse Nielsen](https://open.spotify.com/artist/28hL1CMeKSmGDu43cUqsWW) | [Lullabies on Music Box](https://open.spotify.com/album/1hDnsG6Lx0x4J2Q8pdJTo1) | 1:02 | 2022-02-10 |  |
 | [Zoe the Zebra](https://open.spotify.com/track/26B0F7D6IuonLfBep3KScC) | [Kazue Oyanagi](https://open.spotify.com/artist/3OMM7IfAu8t78Oysd4zgfu) | [Zoe the Zebra](https://open.spotify.com/album/0MgZVZt8jI09WJEKLDxCUG) | 0:48 | 2022-02-10 | 2022-04-23 |
 

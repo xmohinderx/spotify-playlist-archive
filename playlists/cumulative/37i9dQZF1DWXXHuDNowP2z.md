@@ -4,7 +4,7 @@
 
 > ¡A levantar polvadera!
 
-208 songs - 11 hr 47 min - [published](https://open.spotify.com/playlist/7AVTLss0jdvM2YQNxTY8ci)
+209 songs - 11 hr 51 min - [published](https://open.spotify.com/playlist/7AVTLss0jdvM2YQNxTY8ci)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [A Quién No Le Gusta Eso](https://open.spotify.com/track/1ocotVnvTXqgSHqtfqx3yt) | [Banda Alteñita de Morelia](https://open.spotify.com/artist/17ND8vMcTSrwhZOUvG7CnA) | [Con Sangre Ranchera](https://open.spotify.com/album/7vujUCeiFL1L347J9ghpR4) | 2:16 | 2022-04-08 |  |
 | [A Ver Si Capea](https://open.spotify.com/track/1seRvngYgRfDeCbIkJOMQK) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [21 Black Jack](https://open.spotify.com/album/5ZyR9EAtVpj70b11dZYmNC) | 3:11 | 2022-04-08 |  |
 | [Agua De Té](https://open.spotify.com/track/2UwprRPnvsWhN3ygnpayMD) | [Los Titanes De Durango](https://open.spotify.com/artist/3wGRXHdFCbyHhyVbdAWNrd) | [Los Locos Del Corrido](https://open.spotify.com/album/1SkvbWNmVnuTQwNzWRIBTo) | 3:56 | 2022-04-08 |  |
+| [Aguita De Melon \( En Vivo \)](https://open.spotify.com/track/3DT6kLTyizXVkQKnT3VHlE) | [Grupo Zenzio](https://open.spotify.com/artist/0phhTEgdg0vxSb5G3dPVsC) | [En Vivo Desde El Valle](https://open.spotify.com/album/4uyoaM5Cw7jerrCZNzFAs9) | 3:32 | 2022-08-01 |  |
 | [Al Estilo Potosí: El Pistolero / Ordeñando la Vaca / Cuando los Frijoles Bailan](https://open.spotify.com/track/1nyMsdNsF6t7Ar88vnudFE) | [Banda La Fregona](https://open.spotify.com/artist/5QjGlm1dx35Pgsg5S1hVf7) | [De la Ciudad pal' Rancho \(Puro Añuuu Weiii\)](https://open.spotify.com/album/2JN6smXOqkzHF0dXAtCFcJ) | 4:24 | 2022-04-08 |  |
 | [Alaska](https://open.spotify.com/track/607ZGkxOxHJUVDEU3MZl86) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Alaska](https://open.spotify.com/album/6un8b7BMCwlYBFxbf3rSnZ) | 4:01 | 2022-08-19 |  |
 | [Amanda Baila Con La Banda](https://open.spotify.com/track/5Yjn82Y8uI6qsq0jRGVBD6) | [Los Pepe's NorteÑo](https://open.spotify.com/artist/1WvzH7P4Tb1xHZamsLxOF2) | [Popurrí De Cumbias..\. A Bailar Con Los Pepe's](https://open.spotify.com/album/0Wz5x8cNgXZAo5sLsIEw4E) | 3:53 | 2022-04-08 |  |
@@ -204,7 +205,7 @@
 | [Te vez Buena](https://open.spotify.com/track/0GzOtepkwolnl5WrDv61ys) | [De Parranda](https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi) | [De Parranda Lives Vol\. 5](https://open.spotify.com/album/1JsM9bGRvLyZvZbALOFj3E) | 4:12 | 2022-04-08 |  |
 | [Todas Son Bonitas \( En Vivo \)](https://open.spotify.com/track/224vKp4BSlWWcO49BQsFLV) | [Grupo Zenzio](https://open.spotify.com/artist/0phhTEgdg0vxSb5G3dPVsC), [De Parranda](https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi) | [En Vivo Desde El Valle](https://open.spotify.com/album/4uyoaM5Cw7jerrCZNzFAs9) | 3:17 | 2022-08-01 |  |
 | [Tongoneaito](https://open.spotify.com/track/13nitMCnQQCcpvcI03KQrE) | [De Parranda](https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi) | [De Parranda Lives Vol\. 2/3](https://open.spotify.com/album/2qI4lRalMMAEAY7vOkd9Q1) | 3:44 | 2022-04-08 |  |
-| [Un Angel No Debe Llorar](https://open.spotify.com/track/55owFYkdLsQ0W9BORZ3C84) | [Banda Ola Azul de Zirahuen](https://open.spotify.com/artist/5GwsVzB4N0FIiILYzLuszR) | [Nuestra Historia Musical \(Volumen 1\)](https://open.spotify.com/album/1k9LWM4YJYsRLUK3okmr8r) | 3:13 | 2022-04-08 |  |
+| [Un Angel No Debe Llorar](https://open.spotify.com/track/55owFYkdLsQ0W9BORZ3C84) | [Banda Ola Azul de Zirahuen](https://open.spotify.com/artist/5GwsVzB4N0FIiILYzLuszR) | [Nuestra Historia Musical \(Volumen 1\)](https://open.spotify.com/album/1k9LWM4YJYsRLUK3okmr8r) | 3:13 | 2022-04-08 | 2022-09-03 |
 | [Un Cariño Como Tú](https://open.spotify.com/track/20WRrWYgSULYXFtxBcazwU) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Norteño, Vol\. 2](https://open.spotify.com/album/2misjU3JTrJmzfXwmhK41R) | 2:47 | 2022-04-08 |  |
 | [Vanidosa](https://open.spotify.com/track/1BMYzxO9iuPGmi5jeR6HS3) | [La Zenda Norteña](https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG) | [Cuarentena](https://open.spotify.com/album/2LT6UCYbbOx7KbXgxG73rV) | 3:43 | 2022-04-08 |  |
 | [Vanidosa](https://open.spotify.com/track/7Io1uxWdBYeYasxiaxbdMQ) | [La Zenda Norteña](https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG) | [Vanidosa](https://open.spotify.com/album/0BQGI46BLIpUFknd8hlCjP) | 3:43 | 2022-04-08 | 2022-07-29 |

@@ -769,7 +769,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 197773,
       "name": "Back to Back",
       "url": "https://open.spotify.com/track/5IvAhpE2N6BAinhPpNpOR7"
@@ -2691,7 +2691,7 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 84426,
       "name": "EVIL SHIT",
       "url": "https://open.spotify.com/track/1gTXzFmtZKf1SX0gigm2l5"
@@ -3285,7 +3285,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 150909,
       "name": "Ghetto",
       "url": "https://open.spotify.com/track/0QVk6PwSRUvEd69ySUgISU"
@@ -7300,6 +7300,24 @@
     },
     {
       "album": {
+        "name": "SOMEGUYDEZ FREESTYLE",
+        "url": "https://open.spotify.com/album/5PMkQFaRfXaPXoFNR1Ryg8"
+      },
+      "artists": [
+        {
+          "name": "Radamiz",
+          "url": "https://open.spotify.com/artist/56UwW3oPU8t6IPhyiS1dju"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145531,
+      "name": "SOMEGUYDEZ FREESTYLE",
+      "url": "https://open.spotify.com/track/5cjUkDnlyimGgWDLIEv5C5"
+    },
+    {
+      "album": {
         "name": "Sorry Not Sorry",
         "url": "https://open.spotify.com/album/0oABHFklKPZDDlUFAI05Wf"
       },
@@ -8326,6 +8344,24 @@
     },
     {
       "album": {
+        "name": "WASTE NO TIME",
+        "url": "https://open.spotify.com/album/6e5f6M6FQLhi8pSgxazQ1a"
+      },
+      "artists": [
+        {
+          "name": "AJRadico",
+          "url": "https://open.spotify.com/artist/6n7llPn2HLKS375ZyJQ2VR"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "WASTE NO TIME",
+      "url": "https://open.spotify.com/track/0jF9AZAaMv49jsy3InMUjQ"
+    },
+    {
+      "album": {
         "name": "Water",
         "url": "https://open.spotify.com/album/7q8egUmkTzz2Nh2EtRP1n9"
       },
@@ -8733,6 +8769,28 @@
       "duration_ms": 161982,
       "name": "You Nasty",
       "url": "https://open.spotify.com/track/5z1kyPW0cB6clR3yKBj99n"
+    },
+    {
+      "album": {
+        "name": "Ziploc",
+        "url": "https://open.spotify.com/album/6JedRAOLDmKcVcqGS6Zc2O"
+      },
+      "artists": [
+        {
+          "name": "Dot Cromwell",
+          "url": "https://open.spotify.com/artist/0hdfJGPr62ZDCTakn4tWa0"
+        },
+        {
+          "name": "BARii",
+          "url": "https://open.spotify.com/artist/4jE5cWGKx0v4EibgRbhZYJ"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190231,
+      "name": "Ziploc",
+      "url": "https://open.spotify.com/track/3enOaywliYFULGbAWiSaHH"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWW4igXXl2Qkp"

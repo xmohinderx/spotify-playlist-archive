@@ -4,7 +4,7 @@
 
 > Instrumental beats from Hip\-Hop's hey day; to help you study, work and vibe.
 
-56 songs - 3 hr 2 min - [published](https://open.spotify.com/playlist/6CSS7RARjkDOfGavjcxjur)
+57 songs - 3 hr 5 min - [published](https://open.spotify.com/playlist/6CSS7RARjkDOfGavjcxjur)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Iced Down Medallions \[Instrumental\]](https://open.spotify.com/track/6agh6N2v8Elw1bWbTZFXP1) | [Royal Flush](https://open.spotify.com/artist/4ihZJgEVoshKe606OAK4xE) | [Iced Down Medallions \- EP](https://open.spotify.com/album/7pb5NZXRuupx0dyIu4OfIf) | 3:30 | 2022-07-22 |  |
 | [Immersive](https://open.spotify.com/track/5eqdjCfqFcbX4F6GBISrHm) | [Pjuck](https://open.spotify.com/artist/4y7TV9mGqoi2fHB1RLhqZm) | [Immersive](https://open.spotify.com/album/7JEyelqrTWVdYq5jhH2a22) | 3:04 | 2022-07-22 |  |
 | [Jam On It](https://open.spotify.com/track/08OHpvm1MmHuWZnLZrRnxO) | [K\-DEF](https://open.spotify.com/artist/16FH3fjfgWVv3JbLs8zUA7) | [BEATS FROM THE 90's](https://open.spotify.com/album/5gmtiIxZ1cYc40JpMLTMK0) | 3:13 | 2022-07-22 |  |
+| [Listen to your heart](https://open.spotify.com/track/2ov6f8mXppqPHffDiCKZtZ) | [NICKELMAN](https://open.spotify.com/artist/36pqgmoQFc12FhcRZitq6I) | [Listen to your heart](https://open.spotify.com/album/2rkomgqyv6owGar7tmmW2Y) | 3:16 | 2022-09-02 |  |
 | [Main Stage](https://open.spotify.com/track/3FGPjaDyaVXSpubOPwFV0Q) | [\_91nova](https://open.spotify.com/artist/0fZYZqIGnT5RimC1YWfWP2) | [Fake Business](https://open.spotify.com/album/79VlsORhx2r88yW7TRmDWW) | 2:18 | 2022-07-22 |  |
 | [mtv cribs](https://open.spotify.com/track/7xquksomVzxsHXvgCw6OYs) | [Kobe Banks](https://open.spotify.com/artist/5oNNblNaS9wcfoe7iYO4HI), [Roadetrix](https://open.spotify.com/artist/7Md5xGlvby3sPI2NLkbYlv) | [mtv cribs](https://open.spotify.com/album/2tzSHLpARzLa3kXWbpBFFb) | 1:38 | 2022-07-22 |  |
 | [N.Y.S.O.M\. \#20](https://open.spotify.com/track/4GgFRWzP9vAviZhWbd8ZFp) | [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7) | [Beats That Collected Dust Vol\. 2](https://open.spotify.com/album/6VDSvx3Z6cfz6GXkFBNYLX) | 3:33 | 2022-07-22 |  |

@@ -2,9 +2,9 @@
 
 ### [Netflix and Chills](https://open.spotify.com/playlist/37i9dQZF1DX3qlqnyl4p68)
 
-> Spooky sounds from your favorite horror features on Netflix.
+> Spooky sounds from your favorite horror features on Netflix\. Cover: Devil in Ohio.
 
-43 songs - 1 hr 55 min - [published](https://open.spotify.com/playlist/4bN0zeSuBKVuYpNOMsD9q1)
+44 songs - 1 hr 58 min - [published](https://open.spotify.com/playlist/4bN0zeSuBKVuYpNOMsD9q1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Heart of Darkness](https://open.spotify.com/track/7tKATv1QDnRDXjgA6fiqTi) | [Marco Beltrami](https://open.spotify.com/artist/7yAPsqNhqqsTGsuOSZJg0i), [Brandon Roberts](https://open.spotify.com/artist/7EDDArVp3EXwuDx8HUQrTo) | [Fear Street Part Two: 1978 \(Music from the Netflix Trilogy\)](https://open.spotify.com/album/3raKbOorwWzqQyW71579NM) | 1:11 | 2021-10-25 |  |
 | [Hostage Crisis](https://open.spotify.com/track/3RbI5JNk19sSytyXQDzvI9) | [23](https://open.spotify.com/artist/2YsdzHeTSiaIBz9eYBjq6C) | [Squid Game \(Original Soundtrack from The Netflix Series\)](https://open.spotify.com/album/3LUdxlF9Gq90Jcd9Y24ZH8) | 2:22 | 2021-10-25 |  |
 | [Kill Party](https://open.spotify.com/track/1wkYDg8BUgjSwdvQVpA6Tw) | [Zachary Dawes](https://open.spotify.com/artist/1CZejX1UWfKLW0BncrZDc5) | [There's Someone Inside Your House \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/4LDXtYA4wQhjS33Xiw9Bfs) | 0:50 | 2021-10-25 |  |
+| [Lessons of the Fire \(from the Netflix Series "Devil In Ohio"\)](https://open.spotify.com/track/7uCoscfmQbuG1NBfyeaYvy) | [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) | [Devil in Ohio \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/6NGsQGLhikXABCBVJypLiH) | 3:13 | 2022-09-02 |  |
 | [Lights Out](https://open.spotify.com/track/3IcAhCG7vhl5d1hIABoiyF) | [Torin Borrowdale](https://open.spotify.com/artist/0n8DMPYma49MMKFG97Sn4H) | [Locke & Key \(Music from the Netflix Original Series\)](https://open.spotify.com/album/7pvZ5JKQV6ilOHwp0keXIe) | 2:22 | 2022-07-15 |  |
 | [Lights Out](https://open.spotify.com/track/4BxIJSZ9HlozFVCSUvjqpX) | [Torin Borrowdale](https://open.spotify.com/artist/0n8DMPYma49MMKFG97Sn4H) | [Locke & Key \(Music from the Netflix Original Series\)](https://open.spotify.com/album/70imhSWOEIsbf9HREtSVbB) | 2:22 | 2021-10-25 | 2022-07-29 |
 | [Locke & Key \- Main Titles](https://open.spotify.com/track/1Zjd1tlVgJQqauMsiyk3an) | [Torin Borrowdale](https://open.spotify.com/artist/0n8DMPYma49MMKFG97Sn4H) | [Locke & Key \(Music from the Netflix Original Series\)](https://open.spotify.com/album/70imhSWOEIsbf9HREtSVbB) | 1:04 | 2021-10-25 | 2022-07-29 |
@@ -38,7 +39,7 @@
 | [Pink Soldiers](https://open.spotify.com/track/7AUCyNjckeQBBnKol7MZ59) | [23](https://open.spotify.com/artist/2YsdzHeTSiaIBz9eYBjq6C) | [Squid Game \(Original Soundtrack from The Netflix Series\)](https://open.spotify.com/album/3LUdxlF9Gq90Jcd9Y24ZH8) | 0:38 | 2021-10-25 |  |
 | [Planck's Constant](https://open.spotify.com/track/4CfxlFpty3kFzquuDnuKKM) | [Kyle Dixon & Michael Stein](https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd) | [Stranger Things 3 \(Original Score from the Netflix Original Series\)](https://open.spotify.com/album/3yWXEa4TRUts0oMWjNo2qc) | 1:19 | 2021-10-25 |  |
 | [Reflection](https://open.spotify.com/track/5CqtCYt0pFAS5H2hS0hNJW) | [Marco Beltrami](https://open.spotify.com/artist/7yAPsqNhqqsTGsuOSZJg0i), [Anna Drubich](https://open.spotify.com/artist/3Hhf33NhkCphsWxzngs0rE) | [Fear Street Part Three: 1666 \(Music from the Netflix Trilogy\)](https://open.spotify.com/album/7qzk7Jz68VemYwOKe3PLdz) | 1:15 | 2021-10-25 |  |
-| [Straight To Hell \(from Netflix's "Chilling Adventures of Sabrina”\)](https://open.spotify.com/track/3TsnZQm78Idawqs1KtOas4) | [LVCRFT](https://open.spotify.com/artist/49JFqkKqN2PWANlXIQlB5T), [Sabrina Spellman](https://open.spotify.com/artist/040ydyDkutRTUunNufxr5T) | [Straight To Hell \(from Netflix's "Chilling Adventures of Sabrina”\)](https://open.spotify.com/album/7DgtPlDBL8ZycaSWC75eGz) | 2:40 | 2021-10-25 |  |
+| [Straight To Hell \(from Netflix's "Chilling Adventures of Sabrina”\)](https://open.spotify.com/track/3TsnZQm78Idawqs1KtOas4) | [LVCRFT](https://open.spotify.com/artist/49JFqkKqN2PWANlXIQlB5T), [Sabrina Spellman](https://open.spotify.com/artist/040ydyDkutRTUunNufxr5T) | [Straight To Hell \(from Netflix's "Chilling Adventures of Sabrina”\)](https://open.spotify.com/album/7DgtPlDBL8ZycaSWC75eGz) | 2:40 | 2021-10-25 | 2022-09-03 |
 | [Stranger Things](https://open.spotify.com/track/0kwuKfWntoGh0EWyYb7Mpf) | [Kyle Dixon & Michael Stein](https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd) | [Stranger Things, Vol\. 1 \(A Netflix Original Series Soundtrack\)](https://open.spotify.com/album/1puplOrvmUGoq2VxsB0ENJ) | 1:07 | 2021-10-25 |  |
 | [Sunrise](https://open.spotify.com/track/0ATEEf6nfgpLXRKN9ETxnB) | [Colin Stetson](https://open.spotify.com/artist/4G6HhUUQ1LgyYnA2WJppf8) | [Texas Chainsaw Massacre \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/5vbAIkPHM50aGUu41htjH2) | 1:30 | 2022-02-24 |  |
 | [The Gingerbread House](https://open.spotify.com/track/777eYSMUhhu2Uh3eK6WTL5) | [Michael Abels](https://open.spotify.com/artist/7lDkWxhwIuRAIzmHf85yKx) | [Nightbooks \(Music from the Netflix Film\)](https://open.spotify.com/album/6VbWfq61YDRAb8w1n1EJp5) | 3:20 | 2021-10-25 |  |

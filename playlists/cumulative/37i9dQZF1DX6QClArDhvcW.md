@@ -4,7 +4,7 @@
 
 > Laid\-back beats for an easygoing morning.
 
-213 songs - 7 hr 54 min - [published](https://open.spotify.com/playlist/12agLavhB21B7hX1nj1r3c)
+217 songs - 8 hr 3 min - [published](https://open.spotify.com/playlist/12agLavhB21B7hX1nj1r3c)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [bottle rockets](https://open.spotify.com/track/0H9T97wS2k3bk1JcyOlrrN) | [hope mona](https://open.spotify.com/artist/4dY5OgoQjnx0jwht0P6siG) | [campfire talks](https://open.spotify.com/album/5UgSVmsWg4jgAuGUwjssVU) | 2:19 | 2022-07-22 |  |
 | [Breeze 52](https://open.spotify.com/track/0rNTOI1K11CSPTj3dvq1tU) | [Pluto Tracks](https://open.spotify.com/artist/1JFmZ9XvgZnVttQHe8RSj1) | [Breeze 52](https://open.spotify.com/album/1qRVaci6Oqo43ssMt88MwZ) | 1:58 | 2022-05-20 |  |
 | [bulb](https://open.spotify.com/track/5Atzb2RbMN2l8YKUElBiyM) | [niff\_](https://open.spotify.com/artist/2vpm14X9dM28wOrLAOUlto) | [bulb](https://open.spotify.com/album/6oBfJtYLWBE3f3fY8dK7Pl) | 2:05 | 2022-05-20 |  |
+| [Candy](https://open.spotify.com/track/6JD16eoMFjKNU9OVmSL2eq) | [Ada Vula](https://open.spotify.com/artist/79KlmpJEbaL2Eif2lceNLv) | [Candy](https://open.spotify.com/album/38oI19U6Dm87afeEMF5f9N) | 1:46 | 2022-09-02 |  |
 | [Candy Clouds](https://open.spotify.com/track/0Z4O3yTtmqdLXzCxSX9XPt) | [Airship River](https://open.spotify.com/artist/6v5wK0vEKyLP05vV9dvly6) | [Lemo](https://open.spotify.com/album/0rA6rd8ashXD1xaAQkbZRI) | 3:12 | 2022-05-20 |  |
 | [Cashmere Gifts](https://open.spotify.com/track/1K372fPaHuSfk4yCANtbRG) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Cashmere Gifts](https://open.spotify.com/album/5h7s0PzCnsG8tNiP8LmSED) | 2:07 | 2022-05-27 |  |
 | [Cereal](https://open.spotify.com/track/7zmnH5VY7m2TDJjMnr1g7k) | [Lightbulb Factory](https://open.spotify.com/artist/78iAJp4pn43kp0qykn8j84) | [Rumble](https://open.spotify.com/album/62H1oUwmHeqO1wUciIpWoZ) | 3:31 | 2022-05-20 |  |
@@ -97,6 +98,8 @@
 | [Kinda Hungry](https://open.spotify.com/track/3e1r4Nqk5eyRnSWdv6XS0E) | [tender spring](https://open.spotify.com/artist/0WCCipy2qiobvuygnTMdkC), [jinhee](https://open.spotify.com/artist/26LmpFgGrsh86EFXEwQNfz) | [Kinda Hungry](https://open.spotify.com/album/7fJJVGHS98okrAyef2fhuq) | 1:46 | 2022-05-20 | 2022-08-19 |
 | [Klok](https://open.spotify.com/track/1FUxKfCKHPLpvB8h1wWZ8Y) | [Rhode Chain](https://open.spotify.com/artist/7bNOMStsWlhQ05wzIu8vIW) | [Rhode Chain](https://open.spotify.com/album/4hNCIHb12UGIyHcGItCD3m) | 2:12 | 2022-05-20 | 2022-07-08 |
 | [Lagoon](https://open.spotify.com/track/0bVyfYQTJoFbj1xR3ZzzdE) | [Zzcenic](https://open.spotify.com/artist/0ZEozBSxUxi99LJmOE3qOL) | [Lagoon](https://open.spotify.com/album/6ZzoQZAu83Y4F7q1LGn7xy) | 2:14 | 2022-05-20 |  |
+| [Last Days of Summer](https://open.spotify.com/track/3FsBpfFdkScMDLRXoJbixf) | [Picture Talk](https://open.spotify.com/artist/2ERrGspEfSe1sycxXBU48l) | [Last Days of Summer](https://open.spotify.com/album/6QXnQxEAS9BIHSvHLk8uR3) | 1:44 | 2022-09-02 |  |
+| [Lazy Morning Park Life](https://open.spotify.com/track/4CY3fB6NqsugoCtXiWcp35) | [Lofi MMMO](https://open.spotify.com/artist/7mC3tlq3rhrrGfWzMnV0qw) | [Livin La Vida Lofi Loca](https://open.spotify.com/album/2C5qc19784Ret4oa5xLrRh) | 2:36 | 2022-09-02 |  |
 | [Le Hippie](https://open.spotify.com/track/37bVtb7OiKv6L8qJuDWCBG) | [Herbert Ungarn](https://open.spotify.com/artist/0ha44a2tcK2b9iERUaXWAQ) | [Le Hippie](https://open.spotify.com/album/3y9zpas3INXBk6lUVnrIVF) | 2:22 | 2022-05-20 |  |
 | [left staring](https://open.spotify.com/track/1aKmyCgZQbhVeN9aH6co0I) | [bugdawn](https://open.spotify.com/artist/3iB5oTLzBMSaNQ2CajhcGz) | [left staring](https://open.spotify.com/album/0qRiHtoEzskxs1lcKzLIml) | 2:12 | 2022-05-20 |  |
 | [Lego](https://open.spotify.com/track/6qdYRJZesimF7fPkTaGSFL) | [Gibbon Baby](https://open.spotify.com/artist/57e5lRPOUi6N1Oroph48nz) | [Lego](https://open.spotify.com/album/6D4m3UGV2LVloI7Vmh3fQv) | 2:04 | 2022-05-20 |  |
@@ -180,6 +183,7 @@
 | [Sunshine In The Rain](https://open.spotify.com/track/5BT81IYxSte0ledyySYmWe) | [Jazzavelha](https://open.spotify.com/artist/2Rif6F63hq2L9p8DWkFq4k) | [Sunshine In The Rain](https://open.spotify.com/album/2GH5th8g2YU8fiuxjMiqFj) | 2:15 | 2022-05-20 | 2022-07-15 |
 | [Sweet Home](https://open.spotify.com/track/4K0rbmXkGLx1a8pdfDhPTw) | [Amarià](https://open.spotify.com/artist/4cINnaHD0aezcbeGklAzGm), [Grisby](https://open.spotify.com/artist/5UbHC1X5ez55xfl4SHQ9eK) | [Sweet Home](https://open.spotify.com/album/5fIuYDIia6DJkyFkYi442F) | 1:40 | 2022-07-22 |  |
 | [Swift Coasting](https://open.spotify.com/track/2M7KlFrPtccH6wNjTk4P87) | [Drift Crew](https://open.spotify.com/artist/1izsiM2GuR0dyNhBZ1HwXI) | [Swift Coasting](https://open.spotify.com/album/3zgpEvqf1mxy3ZWmp913R8) | 1:55 | 2022-05-20 | 2022-05-27 |
+| [Swimming with You](https://open.spotify.com/track/0heL4m1abtT1Srd0cKT5JM) | [Sid Southside](https://open.spotify.com/artist/4TiVNrltbnF40ju8ZrCgmG) | [Dance Closer](https://open.spotify.com/album/1QskRHXavrB690pfv3hg5L) | 2:55 | 2022-09-02 |  |
 | [Take It or Leave It](https://open.spotify.com/track/7tAoeaOoVEizKJ67Xln5jX) | [With All Respect](https://open.spotify.com/artist/1owj0RO3l3iK7vPwn4rV1O) | [Take It or Leave It](https://open.spotify.com/album/40BGwehnsepICk24hRi5tq) | 2:39 | 2022-07-29 |  |
 | [Tall Grass](https://open.spotify.com/track/2EQkLsBElVQZU35xdsTr45) | [ohlos](https://open.spotify.com/artist/72l8ZKvwKkr1ZMLzDcFxQC) | [Tall Grass](https://open.spotify.com/album/0693VKyfsOAqKY6MXJAPbn) | 2:06 | 2022-05-20 |  |
 | [Tea Tree](https://open.spotify.com/track/55mpA2gpXm8lnifAvhGmro) | [Jobii](https://open.spotify.com/artist/2MGL4XU2LCJC47c7VvSwuE) | [Tea Tree](https://open.spotify.com/album/1KHbsf2RfIBpoWAqLgudbU) | 2:04 | 2022-05-20 |  |

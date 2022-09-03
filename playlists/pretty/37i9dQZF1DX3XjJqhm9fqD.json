@@ -1,12 +1,12 @@
 {
   "description": "Celebrating Haitian music. Cover: Francis Mercier.",
-  "num_followers": 69350,
+  "num_followers": 69377,
   "original_name": "Haitian Heat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDMwMjEwMywwMDAwMDAwMDkzYzFmZTAwODM5YzgwZGVlNTQ1MGIwN2UzZjkxOTJh",
+  "snapshot_id": "MTY2MDMwMjEwMywwMDAwMDAwMDIyYzY3ZDZhMzhmNmNkYzEyYWI3M2M5NDA2Y2E3YWFk",
   "tracks": [
     {
       "added_at": "2022-07-14 21:35:16",
@@ -751,26 +751,6 @@
     {
       "added_at": "2022-07-14 21:35:16",
       "album": {
-        "name": "Kelly Krow",
-        "url": "https://open.spotify.com/album/3EYeR8N7uxBO83LZxaqAXk"
-      },
-      "artists": [
-        {
-          "name": "Kelly Krow",
-          "url": "https://open.spotify.com/artist/1RG2FZvpca9J9VjnCtmD4p"
-        },
-        {
-          "name": "Mozart Louis",
-          "url": "https://open.spotify.com/artist/1IgFh9pBdbDBFgaSn91oul"
-        }
-      ],
-      "duration_ms": 270315,
-      "name": "Sal Vle",
-      "url": "https://open.spotify.com/track/1fGEwTxAB5Q4bgtPQL47rm"
-    },
-    {
-      "added_at": "2022-07-14 21:35:16",
-      "album": {
         "name": "Kanvaz",
         "url": "https://open.spotify.com/album/6FHdFwiaNMFrFkpEcBOg9l"
       },
@@ -787,6 +767,26 @@
       "duration_ms": 178556,
       "name": "Ns Bounce",
       "url": "https://open.spotify.com/track/6wUuMSgi7CVstyIr68xIFo"
+    },
+    {
+      "added_at": "2022-07-14 21:35:16",
+      "album": {
+        "name": "Kelly Krow",
+        "url": "https://open.spotify.com/album/3EYeR8N7uxBO83LZxaqAXk"
+      },
+      "artists": [
+        {
+          "name": "Kelly Krow",
+          "url": "https://open.spotify.com/artist/1RG2FZvpca9J9VjnCtmD4p"
+        },
+        {
+          "name": "Mozart Louis",
+          "url": "https://open.spotify.com/artist/1IgFh9pBdbDBFgaSn91oul"
+        }
+      ],
+      "duration_ms": 270315,
+      "name": "Sal Vle",
+      "url": "https://open.spotify.com/track/1fGEwTxAB5Q4bgtPQL47rm"
     },
     {
       "added_at": "2022-07-14 21:35:16",
@@ -921,22 +921,6 @@
       "url": "https://open.spotify.com/track/4AURmzBFOWJENT7btoNopH"
     },
     {
-      "added_at": "2022-08-12 11:01:43",
-      "album": {
-        "name": "K\u00c8M",
-        "url": "https://open.spotify.com/album/1wdzr58LSQYTt4aXtfaAd3"
-      },
-      "artists": [
-        {
-          "name": "Kelly Krow",
-          "url": "https://open.spotify.com/artist/1RG2FZvpca9J9VjnCtmD4p"
-        }
-      ],
-      "duration_ms": 165624,
-      "name": "K\u00c8M",
-      "url": "https://open.spotify.com/track/6BiiDyQPxtij96XHBCyloG"
-    },
-    {
       "added_at": "2022-07-14 21:35:16",
       "album": {
         "name": "Bal Tout",
@@ -951,6 +935,22 @@
       "duration_ms": 191067,
       "name": "Bal Tout",
       "url": "https://open.spotify.com/track/6ZBZ0q3WXLK9VAszMLenAU"
+    },
+    {
+      "added_at": "2022-08-12 11:01:43",
+      "album": {
+        "name": "K\u00c8M",
+        "url": "https://open.spotify.com/album/1wdzr58LSQYTt4aXtfaAd3"
+      },
+      "artists": [
+        {
+          "name": "Kelly Krow",
+          "url": "https://open.spotify.com/artist/1RG2FZvpca9J9VjnCtmD4p"
+        }
+      ],
+      "duration_ms": 165624,
+      "name": "K\u00c8M",
+      "url": "https://open.spotify.com/track/6BiiDyQPxtij96XHBCyloG"
     },
     {
       "added_at": "2022-07-14 21:35:16",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2022-07-14 21:35:16",
       "album": {
-        "name": "Love a Plein Temps",
-        "url": "https://open.spotify.com/album/4ZnxFv2iPAGRWksNm5ILr0"
-      },
-      "artists": [
-        {
-          "name": "Steves J. Bryan",
-          "url": "https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E"
-        }
-      ],
-      "duration_ms": 200816,
-      "name": "Love a Plein Temps",
-      "url": "https://open.spotify.com/track/665HvOWV9Uxm40fuXiYI1B"
-    },
-    {
-      "added_at": "2022-07-14 21:35:16",
-      "album": {
         "name": "Ogou (Pran Ka Mwen)",
         "url": "https://open.spotify.com/album/0pcQNg6r5x7FInniNRjP6y"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 296666,
       "name": "Ogou (Pran Ka Mwen)",
       "url": "https://open.spotify.com/track/24w5p9O076nNIdVRkRwhhj"
+    },
+    {
+      "added_at": "2022-07-14 21:35:16",
+      "album": {
+        "name": "Love a Plein Temps",
+        "url": "https://open.spotify.com/album/4ZnxFv2iPAGRWksNm5ILr0"
+      },
+      "artists": [
+        {
+          "name": "Steves J. Bryan",
+          "url": "https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E"
+        }
+      ],
+      "duration_ms": 200816,
+      "name": "Love a Plein Temps",
+      "url": "https://open.spotify.com/track/665HvOWV9Uxm40fuXiYI1B"
     },
     {
       "added_at": "2022-07-14 21:35:16",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2022-07-14 21:35:16",
       "album": {
-        "name": "Mercy",
-        "url": "https://open.spotify.com/album/2LMAGmJtjSF4yu3LFKs4NK"
-      },
-      "artists": [
-        {
-          "name": "NEVRMIND",
-          "url": "https://open.spotify.com/artist/09apxys93rFK3x28ufjH6w"
-        }
-      ],
-      "duration_ms": 153473,
-      "name": "Mercy",
-      "url": "https://open.spotify.com/track/3ytSwpnF36uspwdRkqPTG1"
-    },
-    {
-      "added_at": "2022-07-14 21:35:16",
-      "album": {
         "name": "Haiti debout",
         "url": "https://open.spotify.com/album/7iQLxY4WDpSaeUJh9T43GE"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 198533,
       "name": "Kote moun yo",
       "url": "https://open.spotify.com/track/356kn7ubMjPvMYT7VCYLts"
+    },
+    {
+      "added_at": "2022-07-14 21:35:16",
+      "album": {
+        "name": "Mercy",
+        "url": "https://open.spotify.com/album/2LMAGmJtjSF4yu3LFKs4NK"
+      },
+      "artists": [
+        {
+          "name": "NEVRMIND",
+          "url": "https://open.spotify.com/artist/09apxys93rFK3x28ufjH6w"
+        }
+      ],
+      "duration_ms": 153473,
+      "name": "Mercy",
+      "url": "https://open.spotify.com/track/3ytSwpnF36uspwdRkqPTG1"
     },
     {
       "added_at": "2022-07-14 21:35:16",
@@ -1663,22 +1663,18 @@
     {
       "added_at": "2022-07-14 21:35:16",
       "album": {
-        "name": "Bade Zile",
-        "url": "https://open.spotify.com/album/1UjE3qnxksHjs7nJIY2kSW"
+        "name": "Ram 6: Manmanm Se Ginen",
+        "url": "https://open.spotify.com/album/2b8afIvm6I8ggOj9kTgf24"
       },
       "artists": [
         {
-          "name": "Lakou Mizik",
-          "url": "https://open.spotify.com/artist/2AzO6D2TXB9qEqL6UfUU8r"
-        },
-        {
-          "name": "Joseph Ray",
-          "url": "https://open.spotify.com/artist/4O2IFXgH0FqMSHU4pzpqQX"
+          "name": "RAM",
+          "url": "https://open.spotify.com/artist/2h9NlG3ROPRc0Rt17PDicl"
         }
       ],
-      "duration_ms": 225727,
-      "name": "Bade Zile",
-      "url": "https://open.spotify.com/track/37EoU9KaaOMKhFdECTArsN"
+      "duration_ms": 183333,
+      "name": "Mpral D\u00f2mi Nan Simity\u00e8",
+      "url": "https://open.spotify.com/track/42SxbX0YCh8z2CLN3g1mey"
     },
     {
       "added_at": "2022-07-14 21:35:16",
@@ -1703,18 +1699,22 @@
     {
       "added_at": "2022-07-14 21:35:16",
       "album": {
-        "name": "Ram 6: Manmanm Se Ginen",
-        "url": "https://open.spotify.com/album/2b8afIvm6I8ggOj9kTgf24"
+        "name": "Bade Zile",
+        "url": "https://open.spotify.com/album/1UjE3qnxksHjs7nJIY2kSW"
       },
       "artists": [
         {
-          "name": "RAM",
-          "url": "https://open.spotify.com/artist/2h9NlG3ROPRc0Rt17PDicl"
+          "name": "Lakou Mizik",
+          "url": "https://open.spotify.com/artist/2AzO6D2TXB9qEqL6UfUU8r"
+        },
+        {
+          "name": "Joseph Ray",
+          "url": "https://open.spotify.com/artist/4O2IFXgH0FqMSHU4pzpqQX"
         }
       ],
-      "duration_ms": 183333,
-      "name": "Mpral D\u00f2mi Nan Simity\u00e8",
-      "url": "https://open.spotify.com/track/42SxbX0YCh8z2CLN3g1mey"
+      "duration_ms": 225727,
+      "name": "Bade Zile",
+      "url": "https://open.spotify.com/track/37EoU9KaaOMKhFdECTArsN"
     },
     {
       "added_at": "2022-07-14 21:35:16",
@@ -1831,22 +1831,6 @@
     {
       "added_at": "2022-07-14 21:35:16",
       "album": {
-        "name": "Worth It",
-        "url": "https://open.spotify.com/album/4vAtGDq9hmY0Bhr3mKpikD"
-      },
-      "artists": [
-        {
-          "name": "Tadia",
-          "url": "https://open.spotify.com/artist/3Zv8NBwNoq4Gatgjvwl8I6"
-        }
-      ],
-      "duration_ms": 158663,
-      "name": "Worth It",
-      "url": "https://open.spotify.com/track/2JuHUDQH485DV7C5gl9TBg"
-    },
-    {
-      "added_at": "2022-07-14 21:35:16",
-      "album": {
         "name": "REFLEXION",
         "url": "https://open.spotify.com/album/6i72auNGChVZB8lwCC0pTM"
       },
@@ -1859,6 +1843,22 @@
       "duration_ms": 165720,
       "name": "Hallyday",
       "url": "https://open.spotify.com/track/1usHOAm45uCnvTu4IUYZGm"
+    },
+    {
+      "added_at": "2022-07-14 21:35:16",
+      "album": {
+        "name": "Worth It",
+        "url": "https://open.spotify.com/album/4vAtGDq9hmY0Bhr3mKpikD"
+      },
+      "artists": [
+        {
+          "name": "Tadia",
+          "url": "https://open.spotify.com/artist/3Zv8NBwNoq4Gatgjvwl8I6"
+        }
+      ],
+      "duration_ms": 158663,
+      "name": "Worth It",
+      "url": "https://open.spotify.com/track/2JuHUDQH485DV7C5gl9TBg"
     },
     {
       "added_at": "2022-07-14 21:35:16",

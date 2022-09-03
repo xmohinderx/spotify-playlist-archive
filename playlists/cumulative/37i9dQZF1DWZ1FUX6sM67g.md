@@ -2,9 +2,9 @@
 
 ### [Punto Tropical](https://open.spotify.com/playlist/37i9dQZF1DWZ1FUX6sM67g)
 
-> ¡En este punto tropical, se encuentra un poco de todo! Foto: ROSALÍA
+> ¡En este punto tropical, se encuentra un poco de todo! Foto: Romeo Santos
 
-70 songs - 4 hr 19 min - [published](https://open.spotify.com/playlist/16anPiH3Ulo6h6pHaV7pop)
+72 songs - 4 hr 26 min - [published](https://open.spotify.com/playlist/16anPiH3Ulo6h6pHaV7pop)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,8 +34,9 @@
 | [Después de la Playa / Me Porto Bonito](https://open.spotify.com/track/1j5zmxtObsNWBsd4pZMCqi) | [Combinacion De La Habana](https://open.spotify.com/artist/3hfczsQRbhO3io1UwQFM1y) | [Después de la Playa / Me Porto Bonito](https://open.spotify.com/album/0SXL43fhwmNUWngNuDXLCO) | 6:00 | 2022-08-05 |  |
 | [Dios Así Lo Quiso](https://open.spotify.com/track/6pSS2IOxlapb62T7NAOX1Q) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD), [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Dios Así Lo Quiso](https://open.spotify.com/album/2XLdU438g2M5bBHAO1yNWf) | 3:33 | 2022-05-20 |  |
 | [El Mismo Aire](https://open.spotify.com/track/5Y0hkLkzdrTuPGWYLvm6oO) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [El Mismo Aire](https://open.spotify.com/album/58jn8fMK2cWTJUuVLjLJdY) | 3:29 | 2022-05-20 |  |
-| [El Mito del Ayahuasca](https://open.spotify.com/track/422hEiUIkdltQvJvk6xU6U) | [Juaneco Y Su Combo](https://open.spotify.com/artist/4sTcgUXJRSvSQHei3ZQUBR), [Miki Gonzalez](https://open.spotify.com/artist/0ifCMWK5i03zLZL2N5hmWy) | [El Mito del Ayahuasca](https://open.spotify.com/album/5t6VxqdIyiOR0uB4nhuLvi) | 3:04 | 2022-08-05 |  |
+| [El Mito del Ayahuasca](https://open.spotify.com/track/422hEiUIkdltQvJvk6xU6U) | [Juaneco Y Su Combo](https://open.spotify.com/artist/4sTcgUXJRSvSQHei3ZQUBR), [Miki Gonzalez](https://open.spotify.com/artist/0ifCMWK5i03zLZL2N5hmWy) | [El Mito del Ayahuasca](https://open.spotify.com/album/5t6VxqdIyiOR0uB4nhuLvi) | 3:04 | 2022-08-05 | 2022-09-03 |
 | [El Negrito](https://open.spotify.com/track/3OymSyNaXj5AQI6veTh9f2) | [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [De Menor a Mayor](https://open.spotify.com/album/2e2SQ7KNvfX4B5MinwH4Cs) | 2:56 | 2022-05-20 |  |
+| [El Pañuelo](https://open.spotify.com/track/3c7H5RL3H6jFgDTbMxGBe9) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [El Pañuelo](https://open.spotify.com/album/6UHVdZCYgXo8xeSCw4RXp5) | 3:54 | 2022-09-02 |  |
 | [En Barranquilla Me Quedo](https://open.spotify.com/track/72MkzD8gSET1ofpIuvTNe0) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [En Barranquilla Me Quedo \(Homenaje a Joe Arroyo\)](https://open.spotify.com/album/4UiHiuhosaIa2229YiJXKn) | 4:44 | 2022-05-20 | 2022-07-29 |
 | [En Barranquilla Me Quedo](https://open.spotify.com/track/7C3Czet53d8yHPg6S97L29) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [En Barranquilla Me Quedo \(Homenaje a Joe Arroyo\)](https://open.spotify.com/album/6OjhfiVCYhYx1Qne6IfChP) | 4:44 | 2022-07-28 |  |
 | [Enséñame a Bailar](https://open.spotify.com/track/2NMjggapJcXXM7WccGEBUO) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 2:56 | 2022-05-20 |  |
@@ -47,7 +48,7 @@
 | [La Mejor Versión de Mi](https://open.spotify.com/track/62WQGsG4lHE0gQhLjBeAO6) | [Los Barraza](https://open.spotify.com/artist/5uX7ebKHlBttut8EUM9Uzs) | [La Mejor Versión de Mi](https://open.spotify.com/album/0WWfQgz8vCAqLeg7TcdBMJ) | 4:29 | 2022-07-28 |  |
 | [Lao' a Lao'](https://open.spotify.com/track/7FERDnffKGQKul3P32Sm37) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Lao' a Lao'](https://open.spotify.com/album/1tvJvDz3tXfhq0xfABFuU9) | 3:04 | 2022-05-20 |  |
 | [Las Locuras Mías](https://open.spotify.com/track/58sCyRSFBV0m60kbV9rtp9) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e) | [Las Locuras Mías](https://open.spotify.com/album/0PE6hxgSMyjrsiN0MktJpL) | 3:42 | 2022-05-20 |  |
-| [Leave the Door Open](https://open.spotify.com/track/0FL9B5QQ3605w7qwz9gz7S) | [Tony Succar](https://open.spotify.com/artist/17S2mEKDY4xHBWCy9kAPzk), [Jean Rodriguez](https://open.spotify.com/artist/0AaeA0bBuFyAWdJ2W6597x), [Noel Schajris](https://open.spotify.com/artist/2uEjXyVi0SA1HPpj3zquXh) | [Leave the Door Open](https://open.spotify.com/album/5mwOyb0JniHStZYUvN1Bdx) | 5:10 | 2022-05-20 |  |
+| [Leave the Door Open](https://open.spotify.com/track/0FL9B5QQ3605w7qwz9gz7S) | [Tony Succar](https://open.spotify.com/artist/17S2mEKDY4xHBWCy9kAPzk), [Jean Rodriguez](https://open.spotify.com/artist/0AaeA0bBuFyAWdJ2W6597x), [Noel Schajris](https://open.spotify.com/artist/2uEjXyVi0SA1HPpj3zquXh) | [Leave the Door Open](https://open.spotify.com/album/5mwOyb0JniHStZYUvN1Bdx) | 5:10 | 2022-05-20 | 2022-09-03 |
 | [MAFIOSA](https://open.spotify.com/track/1X1vW0xDpkOS35ZxcPqLv6) | [Nathy Peluso](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [MAFIOSA](https://open.spotify.com/album/2UViwTgvnwO2aKYLFrQ9RH) | 4:26 | 2022-05-20 |  |
 | [Mala](https://open.spotify.com/track/2kjj1x4sXh2D9ACYNnvVMn) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Mala](https://open.spotify.com/album/6w2JzY6IjHoT8KH4IuSlIY) | 3:48 | 2022-05-20 |  |
 | [Mami](https://open.spotify.com/track/6q4l4MRRrqwtkrjlwHcAwg) | [Combinacion De La Habana](https://open.spotify.com/artist/3hfczsQRbhO3io1UwQFM1y) | [Mami](https://open.spotify.com/album/7z1Bjl01ywsdKdAX5KYw6F) | 3:00 | 2022-05-20 | 2022-08-06 |
@@ -66,6 +67,7 @@
 | [Rechazame](https://open.spotify.com/track/07p0kLnvfQQ2bLujHyzSGK) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Prince Royce](https://open.spotify.com/album/5zEFCJy9kAyD8rMbBESdYh) | 3:43 | 2022-05-20 |  |
 | [Rosalía \- Live](https://open.spotify.com/track/4YwUVJPlq93RcAYDLz31uP) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Rosalía \(Live\)](https://open.spotify.com/album/22mTAWnV1iRTeYdF9sq7D8) | 3:20 | 2022-05-20 |  |
 | [Señor Juez](https://open.spotify.com/track/2PH533J1xudlfZ5GaHAdVX) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A) | [Señor Juez](https://open.spotify.com/album/7jAArelViCK8oA7Anmlw5v) | 4:24 | 2022-05-20 |  |
+| [Sin Fin](https://open.spotify.com/track/3qaHzxjNtFU7QiEuhGx70x) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Sin Fin](https://open.spotify.com/album/6bcsXfLlMTAWGWdWofzM2l) | 3:54 | 2022-09-02 |  |
 | [Sincero \- Versión Salsa](https://open.spotify.com/track/5mQtZ1tv8of7sHwdOOiW6T) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [Sincero](https://open.spotify.com/album/1z4qd96xvRzjc5MWONlsWG) | 3:05 | 2022-05-20 | 2022-05-27 |
 | [Sus Huellas](https://open.spotify.com/track/2NTMjOwveAazm5GS2wgDgw) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Sus Huellas](https://open.spotify.com/album/3dlSb1l960OG7kjmPvirXU) | 3:36 | 2022-05-20 |  |
 | [Te Espero](https://open.spotify.com/track/46GsFW8AFIvi8TUDlYRlXR) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Te Espero](https://open.spotify.com/album/6vBJJJEUCqmzaBnzwtRgPK) | 4:06 | 2022-05-20 |  |

@@ -4,7 +4,7 @@
 
 > Nothing but precious sounds from the 90s & 2000s\. Cover: K\-OS
 
-114 songs - 7 hr 28 min - [published](https://open.spotify.com/playlist/0rXoGbjDMsfaWXFMqBwgOM)
+115 songs - 7 hr 32 min - [published](https://open.spotify.com/playlist/0rXoGbjDMsfaWXFMqBwgOM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Best I Ever Had](https://open.spotify.com/track/3QLjDkgLh9AOEHlhQtDuhs) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [So Far Gone](https://open.spotify.com/album/1LShhEEKRT5MNPcO7jtYHh) | 4:17 | 2022-07-01 | 2022-09-01 |
 | [Big](https://open.spotify.com/track/16rS604ZDQUYLk3ZuxkGzi) | [Brassmunk](https://open.spotify.com/artist/0mkac0FVvXY3uiOvQlcmtj) | [Lyrics of Fury III](https://open.spotify.com/album/2zyRI2YymhCrEOSFWpp9kd) | 3:54 | 2022-07-01 | 2022-07-29 |
 | [Big](https://open.spotify.com/track/6iu1itsoivbwdTvqOARpVi) | [Brassmunk](https://open.spotify.com/artist/0mkac0FVvXY3uiOvQlcmtj) | [Lyrics of Fury III](https://open.spotify.com/album/2gwIsI7l0bZgUSL8rqKYJu) | 3:54 | 2022-07-01 |  |
-| [Blurred Lines](https://open.spotify.com/track/0n4bITAu0Y0nigrz3MFJMb) | [Robin Thicke](https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Blurred Lines \(Deluxe\)](https://open.spotify.com/album/1eHyfkrIOVLGVnt5E4MD2j) | 4:23 | 2022-08-31 |  |
+| [Blurred Lines](https://open.spotify.com/track/0n4bITAu0Y0nigrz3MFJMb) | [Robin Thicke](https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Blurred Lines \(Deluxe\)](https://open.spotify.com/album/1eHyfkrIOVLGVnt5E4MD2j) | 4:23 | 2022-08-31 | 2022-09-03 |
 | [Born And Raised In The Ghetto](https://open.spotify.com/track/7J4NU5c7UoEgFdkkDHLCJv) | [Point Blank](https://open.spotify.com/artist/4HYVAD8r5cumxUTuKnjBNp) | [Point Blank](https://open.spotify.com/album/7B3PgLVdjLBkeCLT1FYRU0) | 3:28 | 2022-07-01 |  |
 | [Bring It Home](https://open.spotify.com/track/5yI6BchTdUhyXpAoYvM4aR) | [Swollen Members](https://open.spotify.com/artist/30QbUq31PEXAT4QFYZyBAM), [Moka Only](https://open.spotify.com/artist/7G9ZUoEjbi5Z2bR5w60S0h) | [Bad Dreams](https://open.spotify.com/album/1CGFeeLL6owKpbxTuZ8Rje) | 3:14 | 2022-07-01 |  |
 | [California Dreamin'](https://open.spotify.com/track/1xIADUASoF8HEnvH0r37Fj) | [Dream Warriors](https://open.spotify.com/artist/4FrJKQblIjEyw8rbqYHNpU) | [The Great Canadian Soundtrack: Summer songs](https://open.spotify.com/album/5aqvbg8RKJWc5HMYIPxFed) | 5:04 | 2022-08-31 |  |
@@ -67,6 +67,7 @@
 | [Light It Up](https://open.spotify.com/track/4SDQdOCIMSbBr3s9R9RDY6) | [Choclair](https://open.spotify.com/artist/6Ku2nSbcjRann6nTPimcFS), [Jully Black](https://open.spotify.com/artist/781516XewTgtGAnpg6dlmd) | [Memoirs Of Blake Savage](https://open.spotify.com/album/5c1Ln2nyfegHmx2oUOIpuV) | 3:55 | 2022-07-01 |  |
 | [Live at the Barbeque \- 2017 Remastered Version](https://open.spotify.com/track/1tfG2xbt0ChyClVTf8imjP) | [Main Source](https://open.spotify.com/artist/0zi2OowIfzNqUQiuUVyGLs), [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [Breaking Atoms \(2017 Remastered\)](https://open.spotify.com/album/0YBKh4pphYo7UW6f4b6uxy) | 4:35 | 2022-08-31 |  |
 | [Lost Without U](https://open.spotify.com/track/4V2F0DZrAXOWq9hkwMMG3x) | [Robin Thicke](https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP) | [The Evolution of Robin Thicke](https://open.spotify.com/album/55ErdDg54WTAEySb0r7yzb) | 4:14 | 2022-07-01 |  |
+| [Magic Touch \- Extended](https://open.spotify.com/track/1YnpOewGrWskSENwS05FON) | [Robin Thicke](https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP), [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [Magic Touch](https://open.spotify.com/album/3ulZv9agxM6bBn0cq1dzll) | 3:49 | 2022-09-02 |  |
 | [Man I Used To Be](https://open.spotify.com/track/1jVudwSMKdHz3Fod2dI5Ma) | [K\-OS](https://open.spotify.com/artist/3EZWlSBWlPsC8lCI2Y36Gl) | [Collected](https://open.spotify.com/album/6uNDNflKRjEjnEESQUQrXT) | 3:43 | 2022-07-01 |  |
 | [Missed Your Chance](https://open.spotify.com/track/3uVUL7r2Z6kEIurmQURWCL) | [Ray Robinson](https://open.spotify.com/artist/2HSZwphXEa7hKWKnOCN0Dq) | [What It Is.](https://open.spotify.com/album/1xI8g1hZhPF4eBEzwPQl9s) | 4:15 | 2022-08-31 |  |
 | [Money or Love](https://open.spotify.com/track/6pkupgGf333srAF5a6nr7p) | [Saukrates](https://open.spotify.com/artist/4xvUHg4mIFbXo2caP0PO73) | [The Underground Tapes](https://open.spotify.com/album/6UIyK3wIpD8xxDn8XjTdLv) | 4:18 | 2022-07-01 | 2022-07-29 |

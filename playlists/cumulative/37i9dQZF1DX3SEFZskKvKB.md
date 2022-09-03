@@ -4,7 +4,7 @@
 
 > Ambient and percussion to move the body and heal the soul.
 
-82 songs - 4 hr 52 min - [published](https://open.spotify.com/playlist/7HkZZGF1Y6JqmNQTbDBEZq)
+83 songs - 4 hr 56 min - [published](https://open.spotify.com/playlist/7HkZZGF1Y6JqmNQTbDBEZq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Come Hang With Me](https://open.spotify.com/track/3nkVPQqsAnSVfcwJ2tHXh1) | [Gadaragh](https://open.spotify.com/artist/2htCgKICdd3y3WpVjh5hyR) | [Come Hang With Me](https://open.spotify.com/album/6dhlzRNnvtYFO7lLomD8hS) | 1:55 | 2022-05-26 |  |
 | [Dance of Calming Sun](https://open.spotify.com/track/21FOpLRPeaNDp4kLANJL9A) | [African Music Drums Collection](https://open.spotify.com/artist/1VZg5g46KNbpD7CsIxPrKo) | [African Healing Dance Therapy \- Tribal Trip, Ethno Lullaby, Vital Trance, Shamanic Serenity, Safari Sunrise](https://open.spotify.com/album/2BamWXOnKROZeTh0VW775W) | 3:31 | 2022-05-26 |  |
 | [Drums of Shamanic Ritual](https://open.spotify.com/track/0zbUcJfHT0cvEpxOmIlKNx) | [Relaxing Zen Music Therapy](https://open.spotify.com/artist/1uWS5oGawRMbrNpjVFOqAp) | [Drums Trance of World \(Ritual Native Drumming, Ancient Sounds, Ethnic Journey, Healing Meditation\)](https://open.spotify.com/album/3QUAMlKM04VN1JAbok6H7R) | 3:43 | 2022-05-26 |  |
+| [Edasi](https://open.spotify.com/track/7ytnlVd8PmIQKbIz0xDEls) | [Lõhmus](https://open.spotify.com/artist/3TybHE2vGmjjIgpEpoogjE) | [Edasi](https://open.spotify.com/album/60g34Dm8jNth4tptfiYAr4) | 3:42 | 2022-09-02 |  |
 | [Empty Nest](https://open.spotify.com/track/7EXaHleHFbECQcHRB4zc5i) | [Nirvana Handpan](https://open.spotify.com/artist/5HGiYfzLihy6ko4T5231Pw) | [Empty Nest](https://open.spotify.com/album/6Sh1KdQm1FyXcGkUfe0Xqn) | 2:50 | 2022-05-26 |  |
 | [Enjoy African Sun](https://open.spotify.com/track/4dEzopSuO0YrBQ7A9fzcZu) | [Mysterious World Music](https://open.spotify.com/artist/1M25cy1w92G4Sf3Xnjogki) | [African Dance: Traditional Drums Music](https://open.spotify.com/album/4iyuNvRNniCwhh3oolXQ31) | 3:48 | 2022-05-26 |  |
 | [Espejos](https://open.spotify.com/track/784ubxHoYpDpUEQc8d69oP) | [Aeromancias](https://open.spotify.com/artist/3jiI4qEyqOZAmbB2VBB6tw) | [Fugaces II](https://open.spotify.com/album/1KWOCiqjUpYRjP5vGFziZe) | 3:19 | 2022-05-26 |  |

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 
 ### [+852 Rising](https://open.spotify.com/playlist/37i9dQZF1DX5JZ2TewQjUr)
 
-> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Alexmalism
+> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Eagle 陳天翺
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,166 likes - 124 songs - 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,182 likes - 124 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -133,4 +133,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 | 123 | [Fotan Jazz Club](https://open.spotify.com/track/2EThbrd13icX0eP6OPzdBR) | [Room307](https://open.spotify.com/artist/0DlQgBmj0XzrSsOknlxUHw), [Matt Force](https://open.spotify.com/artist/4ymVglyzE9C7StALg2Sx9N), [Akira Mimasu](https://open.spotify.com/artist/5JtWkrls291QYKbtm1oSVU) | [Windsong](https://open.spotify.com/album/1oCtNZFONXjJoAgZJBckHJ) | 3:44 |
 | 124 | [Hotel V](https://open.spotify.com/track/1WhCMZuYVLqRoSHFTYkYCi) | [Distant Vega](https://open.spotify.com/artist/3nj7zqPOrLe1f2lPZN3W0U) | [Hotel V](https://open.spotify.com/album/4iLFOuFjU5pQfxjnNdHcki) | 3:23 |
 
-Snapshot ID: `MTY2MjA0ODAwMCwwMDAwMDAwMDEwM2RhZDE0NTg0YzMxOTRlY2IzMzIwZDcxMGIzYTFm`
+Snapshot ID: `MTY2MjEwMDAzMywwMDAwMDAwMDUzNTkxZDg0ZWYxMGJmMjY1OGUxNDVhMmQ1YTg4MDE2`

@@ -1140,6 +1140,32 @@
     },
     {
       "album": {
+        "name": "Head Over Boots (Cahill Remix)",
+        "url": "https://open.spotify.com/album/3mwB1cyeK7t6OKgw2gBm5L"
+      },
+      "artists": [
+        {
+          "name": "Phil Dust",
+          "url": "https://open.spotify.com/artist/3QjqGZ3r7sMq8XHsRbFU5U"
+        },
+        {
+          "name": "Jaron Strom",
+          "url": "https://open.spotify.com/artist/6Hm2cThGavZW4kAWpYzfWP"
+        },
+        {
+          "name": "Cahill",
+          "url": "https://open.spotify.com/artist/02nqwOvmlIhYQtZ5kVqJZm"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186785,
+      "name": "Head Over Boots - Cahill Remix",
+      "url": "https://open.spotify.com/track/493j3Kgwyj10g5KAOVDtuF"
+    },
+    {
+      "album": {
         "name": "Diplo Presents Thomas Wesley Chapter 1: Snake Oil",
         "url": "https://open.spotify.com/album/2Om5VEKaBd4Afht33ToQGD"
       },

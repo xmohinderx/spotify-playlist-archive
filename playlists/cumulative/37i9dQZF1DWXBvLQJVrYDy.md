@@ -2,7 +2,7 @@
 
 ### [Gentle Jazz Saxophone](https://open.spotify.com/playlist/37i9dQZF1DWXBvLQJVrYDy)
 
-> Soft and cozy saxophone ballads to relax or focus.
+> Smooth and cozy saxophone ballads for relaxing or focus.
 
 105 songs - 7 hr 12 min - [published](https://open.spotify.com/playlist/6nq7hWNk2cvvhG65Oqh64w)
 

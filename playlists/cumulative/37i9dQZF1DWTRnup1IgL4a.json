@@ -1139,7 +1139,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 145159,
       "name": "Lullaby",
       "url": "https://open.spotify.com/track/5kRkm8A5dYvORg85jBjtrF"
@@ -1481,7 +1481,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 126545,
       "name": "Peaceful Workshop",
       "url": "https://open.spotify.com/track/5FsZl5A4Pn38PX1tajTsTB"
@@ -1575,6 +1575,24 @@
       "duration_ms": 246750,
       "name": "Rio De La Plata",
       "url": "https://open.spotify.com/track/1H4v0YFVVKN8uU6nxzmfWt"
+    },
+    {
+      "album": {
+        "name": "Rolling Hills",
+        "url": "https://open.spotify.com/album/3ATXMDroBKLW4VtUeLtEd8"
+      },
+      "artists": [
+        {
+          "name": "Ava Olivia Bailey",
+          "url": "https://open.spotify.com/artist/1NjdPXI16F7zIDzhZBxk79"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117333,
+      "name": "Rolling Hills",
+      "url": "https://open.spotify.com/track/365aGwp7tIjLPorjrgjsUv"
     },
     {
       "album": {
@@ -1683,6 +1701,24 @@
       "duration_ms": 168374,
       "name": "Sire\u0300ne",
       "url": "https://open.spotify.com/track/5Jn40Qnf4EwXEdpJbJeX7y"
+    },
+    {
+      "album": {
+        "name": "Slaap Niet Meer",
+        "url": "https://open.spotify.com/album/2ZyTh0oFrwe5HhUUKPQmw4"
+      },
+      "artists": [
+        {
+          "name": "Celia Cloten",
+          "url": "https://open.spotify.com/artist/43K8HrRsXFfNZqCjavPbsa"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147511,
+      "name": "Slaap Niet Meer",
+      "url": "https://open.spotify.com/track/17zkvQZwuaKdZkSyR1MmV3"
     },
     {
       "album": {

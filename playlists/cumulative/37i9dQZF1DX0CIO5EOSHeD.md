@@ -4,7 +4,7 @@
 
 > Slacker jams\. Cover: Frankie Cosmos
 
-310 songs - 16 hr 36 min - [published](https://open.spotify.com/playlist/3DFRzyGUurZxuvxmPOrIHy)
+311 songs - 16 hr 39 min - [published](https://open.spotify.com/playlist/3DFRzyGUurZxuvxmPOrIHy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,7 +156,7 @@
 | [IN THE DOG HOUSE](https://open.spotify.com/track/0WFalqmpdkBXkD1RLet7hz) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB), [Franky Villani](https://open.spotify.com/artist/29JCRfv9Nox4co1GozSPDb) | [FULL TIME LOVER](https://open.spotify.com/album/1h8IiVZrZcdG68TYvxduLt) | 1:42 | 2022-08-05 |  |
 | [IN THE DOG HOUSE](https://open.spotify.com/track/4x9Yt0EnOEKRs2cdSJwSzN) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB), [Franky Villani](https://open.spotify.com/artist/29JCRfv9Nox4co1GozSPDb) | [IN THE DOG HOUSE](https://open.spotify.com/album/2gRMnlczuJaGBVYl1X1vpg) | 1:42 | 2022-08-05 | 2022-08-28 |
 | [Intersection](https://open.spotify.com/track/4rNqlRwYCCcVUv37ZLmMTY) | [Modern Baseball](https://open.spotify.com/artist/1HxXNvsraqrsgfmju1yKk8) | [Polyvinyl 4\-Track Singles Series, Vol\. 3](https://open.spotify.com/album/7HxyUjqGjryGDxX0aVyoEh) | 3:53 | 2021-04-29 |  |
-| [Into](https://open.spotify.com/track/5O408HCYe3tXhyLf5JMjhJ) | [CASTLEBEAT](https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3) | [Into](https://open.spotify.com/album/22Ta1z6nV13bCOXLQpdY6f) | 3:59 | 2021-09-07 |  |
+| [Into](https://open.spotify.com/track/5O408HCYe3tXhyLf5JMjhJ) | [CASTLEBEAT](https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3) | [Into](https://open.spotify.com/album/22Ta1z6nV13bCOXLQpdY6f) | 3:59 | 2021-09-07 | 2022-09-03 |
 | [into ash](https://open.spotify.com/track/2yPIuAeJ2Y5mKPo82Lruw3) | [Adam Youngman](https://open.spotify.com/artist/3K8XkFDgyQhbHQGzD0xz8Y) | [into ash](https://open.spotify.com/album/7guivDMrs7rBgX84UAp2vL) | 1:29 | 2020-10-27\* | 2022-07-28 |
 | [Islands Past](https://open.spotify.com/track/3xhCYwASA70y9xdDvdQ44h) | [Saccades](https://open.spotify.com/artist/3hE6XvCH9Di82RPfY8c9tn) | [Islands Past](https://open.spotify.com/album/05WLagEEkSzOETGQoYCq1c) | 3:40 | 2021-02-06 | 2022-05-23 |
 | [it only gets worse, i promise](https://open.spotify.com/track/3Y1iVG5c7me95XqqFZY97x) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [it only gets worse, i promise](https://open.spotify.com/album/361dxLkzUSAyH159ZtXUUj) | 2:34 | 2021-09-26 | 2022-07-13 |
@@ -307,6 +307,7 @@
 | [Where Do I Belong?](https://open.spotify.com/track/06bcKv1UX8IumhdJwDsG8m) | [DellaXOZ](https://open.spotify.com/artist/5WmkhaLngDDw9tLfZ0Z28e) | [Where Do I Belong?](https://open.spotify.com/album/2Gb1vqzOGr9SCf11SsAhYk) | 3:21 | 2021-09-03 | 2022-07-24 |
 | [where do i belong?](https://open.spotify.com/track/4qc1GyMWVOOoKKRi7xA9V7) | [DellaXOZ](https://open.spotify.com/artist/5WmkhaLngDDw9tLfZ0Z28e) | [where do i belong?](https://open.spotify.com/album/2TcbahDTErEx0Rz6BPPy50) | 3:21 | 2022-08-05 |  |
 | [Why Would I?](https://open.spotify.com/track/2EQPHBmFdi6gIuHz7qNpMd) | [nelward](https://open.spotify.com/artist/4DVe11vtKHN5TRtG8TEjNb) | [Why Would I?](https://open.spotify.com/album/2K1WSoNMQ55kyRzKTknQEy) | 2:42 | 2020-10-27\* | 2021-02-26 |
+| [wish i could see you again](https://open.spotify.com/track/1eFjWN9bIGAtF7bMEU4eUU) | [Hypx](https://open.spotify.com/artist/0dawqbUeQnvKVNWbjDYYww), [LEVI](https://open.spotify.com/artist/3wFB9K2H2mWmIqy48sAUs2) | [wish i could see you again](https://open.spotify.com/album/6ub14KPnedemkpxkj0KNfB) | 3:07 | 2022-08-05 |  |
 | [Witch Hunt](https://open.spotify.com/track/36KmgLTPLTDaig7gjdmqtI) | [bloody/bath](https://open.spotify.com/artist/6U0yRPIBTZbMoRS3FRvyWc) | [Unholy Sonnets](https://open.spotify.com/album/1wukvZuURPYJCeJYbsGaeL) | 2:49 | 2021-11-27 | 2022-07-27 |
 | [Worth the Wait](https://open.spotify.com/track/1K1M1pMNmGLOcSf73PzfXd) | [COOL BOY](https://open.spotify.com/artist/77c3dsWSmQRci2HAdaFFeT) | [Worth the Wait](https://open.spotify.com/album/6dYOEipp17buof2LRzjf5K) | 2:26 | 2021-06-21 | 2022-07-18 |
 | [Yin to Yang](https://open.spotify.com/track/331h4sIr7Xz17a3UpNXhTS) | [petal boy](https://open.spotify.com/artist/0ZPEyvYITWMAedn4Wtx0mr) | [yolk](https://open.spotify.com/album/7cr5rWVLRSqvN09ukc7zBg) | 2:24 | 2021-10-10 | 2022-05-16 |

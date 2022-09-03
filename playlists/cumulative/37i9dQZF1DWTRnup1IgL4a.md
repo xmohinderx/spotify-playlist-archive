@@ -4,7 +4,7 @@
 
 > Get a great night's sleep with these soft acoustic guitar tunes.
 
-125 songs - 5 hr 26 min - [published](https://open.spotify.com/playlist/7ISFFwuQB5ntspjOylTJdw)
+127 songs - 5 hr 30 min - [published](https://open.spotify.com/playlist/7ISFFwuQB5ntspjOylTJdw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,7 @@
 | [Longe pode estar muito perto](https://open.spotify.com/track/4PuhyQFzQDXzwzNceo9HuP) | [Mats Norrefalk](https://open.spotify.com/artist/3O4YUhd1HPKacXqpXcDmQy) | [Longe pode estar muito perto](https://open.spotify.com/album/5h9gB87yOZyVJpBHxJv7Hx) | 4:00 | 2021-12-09 | 2022-05-27 |
 | [Love me again](https://open.spotify.com/track/4Nt6VXEs0TiEVoLOHu6xkF) | [Tim Hans](https://open.spotify.com/artist/432QjwpddzTUEL02W60QRg) | [Taormina](https://open.spotify.com/album/0J3DkSJheCCLgfQSyhdurt) | 1:53 | 2022-06-10 |  |
 | [luce della città](https://open.spotify.com/track/1CZjaS4Gvcrrd1oH7k5C4k) | [Lennox Lorenzo](https://open.spotify.com/artist/6t2AbQr1GudAPoxHZSsOTM) | [luce della città](https://open.spotify.com/album/15JumhpSCgFxjHOw6xeKA6) | 2:41 | 2021-12-09 |  |
-| [Lullaby](https://open.spotify.com/track/5kRkm8A5dYvORg85jBjtrF) | [Frolin](https://open.spotify.com/artist/77kqbxpFKZGED3HZCYn0A8) | [Lullaby](https://open.spotify.com/album/7d0O5W3HAoeMZ7SdgDgsVB) | 2:25 | 2022-06-17 |  |
+| [Lullaby](https://open.spotify.com/track/5kRkm8A5dYvORg85jBjtrF) | [Frolin](https://open.spotify.com/artist/77kqbxpFKZGED3HZCYn0A8) | [Lullaby](https://open.spotify.com/album/7d0O5W3HAoeMZ7SdgDgsVB) | 2:25 | 2022-06-17 | 2022-09-03 |
 | [Lullaby for My Love](https://open.spotify.com/track/6eixAHLUQZrcUblQ4xJ62L) | [Liona Boyd](https://open.spotify.com/artist/33lm6MIpEXiHzv06MUIUBu) | [Relaxing Guitar for Insomnia, Dreaming and Romance](https://open.spotify.com/album/720bY37FzXk2RHn7soZuPi) | 5:52 | 2021-12-09 | 2022-05-27 |
 | [Luz de la tarde](https://open.spotify.com/track/3DKBcKpkpmPpp9WUjvpPCn) | [Owen Larssen](https://open.spotify.com/artist/5KC38oAHkvoeZvx2k9Pwlo) | [Luz de la tarde](https://open.spotify.com/album/3MEwyUjJPURTeJqL1RcEas) | 2:02 | 2022-03-29 |  |
 | [Magic Wind](https://open.spotify.com/track/77ekrhV3OHhwaTO4CNoFo5) | [Al McCain](https://open.spotify.com/artist/1oyb8StNAS9nsBNHOKlqpN) | [Moods](https://open.spotify.com/album/0RAExk1jIs0Q9CSso8uAR8) | 2:02 | 2021-12-09 |  |
@@ -89,18 +89,20 @@
 | [Olessa](https://open.spotify.com/track/3uWeyoRHCWz52lhK37mYmT) | [Las Tres Abejas](https://open.spotify.com/artist/4AAGqhXf0H3FXHXkQzgLOi) | [Olessa](https://open.spotify.com/album/1mJRv18DBOxzSBiYHC3xvC) | 3:07 | 2022-04-22 |  |
 | [Over the hill is Leighan](https://open.spotify.com/track/21dL4Fi5yOXGm3PBgZI1yk) | [Dawn Geller](https://open.spotify.com/artist/0HSRJAuF3aNdrbivhOb9SC) | [Over the hill is Leighan](https://open.spotify.com/album/62YlNkM4p58NlHPjyUuexA) | 1:59 | 2021-12-09 |  |
 | [Passing Rain](https://open.spotify.com/track/3DsShklw3Th0y25Xm66L2d) | [Marta Jobim](https://open.spotify.com/artist/1mdSEV97zy0wyiCU8jfqwj) | [Passing Rain](https://open.spotify.com/album/3JxVyJJEMbFr7XV2SkhyUM) | 3:02 | 2022-06-10 |  |
-| [Peaceful Workshop](https://open.spotify.com/track/5FsZl5A4Pn38PX1tajTsTB) | [Ewan O'Connoll](https://open.spotify.com/artist/1RiZWCRIUcWj990GDoTQro) | [Peaceful Workshop](https://open.spotify.com/album/632wdGEM8BkJLGGhnCoHcl) | 2:06 | 2021-12-09 |  |
+| [Peaceful Workshop](https://open.spotify.com/track/5FsZl5A4Pn38PX1tajTsTB) | [Ewan O'Connoll](https://open.spotify.com/artist/1RiZWCRIUcWj990GDoTQro) | [Peaceful Workshop](https://open.spotify.com/album/632wdGEM8BkJLGGhnCoHcl) | 2:06 | 2021-12-09 | 2022-09-03 |
 | [Phineas](https://open.spotify.com/track/6gchsDdOQFrkGBWQoel7Jh) | [Helen Wei](https://open.spotify.com/artist/618kVtXxOEnfAasArnWgvA) | [Phineas](https://open.spotify.com/album/3UzIbQNfxZb5ttHxR28d50) | 1:40 | 2021-12-09 |  |
 | [Plaisir](https://open.spotify.com/track/5st9nAlvjp9bd7MUq9tidJ) | [Yanis Bernard](https://open.spotify.com/artist/3WCrMlMMPdM3jS5GsWyXlC) | [Plaisir](https://open.spotify.com/album/4WpSzztK6nez8yWy6oKHXo) | 3:04 | 2021-12-09 |  |
 | [Porchside Wheat](https://open.spotify.com/track/3OdREuHZmpOwvxR4JTABhs) | [Pastall](https://open.spotify.com/artist/4xWbSW8Fkjt8DVkJ5QDIvV) | [Back to Pompiko](https://open.spotify.com/album/5Iir2VRVIrPf09KEW7ONMH) | 3:05 | 2021-12-09 |  |
 | [Rest Sea](https://open.spotify.com/track/5UcoxNaxIuTV1WQ4eOzvYm) | [Glen Beasley](https://open.spotify.com/artist/46Xi2XceJCdHvaqnh55jyP) | [Rest Sea](https://open.spotify.com/album/1TXSpQbz2TlYhGxfh5eowq) | 2:13 | 2022-02-22 |  |
 | [Rio De La Plata](https://open.spotify.com/track/1H4v0YFVVKN8uU6nxzmfWt) | [Las Penas](https://open.spotify.com/artist/2v5fDmNadBqRCk7r6u9nFS) | [Rio De La Plata](https://open.spotify.com/album/4WhBZeA6L71Jy9sNXZm0Cd) | 4:06 | 2021-12-09 |  |
+| [Rolling Hills](https://open.spotify.com/track/365aGwp7tIjLPorjrgjsUv) | [Ava Olivia Bailey](https://open.spotify.com/artist/1NjdPXI16F7zIDzhZBxk79) | [Rolling Hills](https://open.spotify.com/album/3ATXMDroBKLW4VtUeLtEd8) | 1:57 | 2022-09-02 |  |
 | [Satellites](https://open.spotify.com/track/241ZXbv26EbLNmVADe6yDK) | [Liam Stoler](https://open.spotify.com/artist/3siLaFiKTJUQKTTkUS8xaR) | [West End](https://open.spotify.com/album/2ze5UXnapC2cmlXG70feQ3) | 2:36 | 2021-12-09 |  |
 | [Scarlet Dreams](https://open.spotify.com/track/5bDxO7o9npXf4TzfZhvSMM) | [Van Kann](https://open.spotify.com/artist/0q9Un6IHIN7D4OkGv6KHkl) | [Scarlet Dreams](https://open.spotify.com/album/6lFon0oNp8tVMSFzQJaLMy) | 2:52 | 2021-12-09 |  |
 | [Seed of Perfection](https://open.spotify.com/track/0kAHMCRN2lFkDnwhedKl1M) | [Lavelle Barber](https://open.spotify.com/artist/09NZ6wf6hcbml8X1aPwyEX) | [Seed of Perfection](https://open.spotify.com/album/3zX0E0myYc2mtjWGVJzffI) | 2:39 | 2022-08-19 |  |
 | [Seresta](https://open.spotify.com/track/5cTsLgmhCzeBmTO7jPVkfg) | [Benedict Wallfish](https://open.spotify.com/artist/0J9KRHzB7ZVu5zqVztzclJ) | [Rain Forest](https://open.spotify.com/album/5VtmbXvAvcBOSc60XRa2Sr) | 2:46 | 2022-01-06 | 2022-06-10 |
 | [Signum](https://open.spotify.com/track/70Z6rUWqzQha0RMFcyJIiJ) | [Alexas Lucio](https://open.spotify.com/artist/5K78fvhC7TVBC8mcpkMGvQ) | [Signum](https://open.spotify.com/album/49dELtri6eKyk7Dq2zIqQB) | 2:35 | 2022-08-12 |  |
 | [Sirène](https://open.spotify.com/track/5Jn40Qnf4EwXEdpJbJeX7y) | [Yanis Bernard](https://open.spotify.com/artist/3WCrMlMMPdM3jS5GsWyXlC) | [Sirène](https://open.spotify.com/album/1OAOGMX9WGCcf61JhhPHn3) | 2:48 | 2021-12-09 | 2022-04-06 |
+| [Slaap Niet Meer](https://open.spotify.com/track/17zkvQZwuaKdZkSyR1MmV3) | [Celia Cloten](https://open.spotify.com/artist/43K8HrRsXFfNZqCjavPbsa) | [Slaap Niet Meer](https://open.spotify.com/album/2ZyTh0oFrwe5HhUUKPQmw4) | 2:27 | 2022-09-02 |  |
 | [Sleepover](https://open.spotify.com/track/3qQ1RkMq1Fc3Kf1beqcZDZ) | [Robert Delofeu](https://open.spotify.com/artist/05HoDshGmaZHJBCs6HWFA3) | [Sleepover](https://open.spotify.com/album/78ncS8rEV6irr9m1Nhtro1) | 1:38 | 2022-07-01 | 2022-08-19 |
 | [Softly Falling \- Guitar Version](https://open.spotify.com/track/0SvvodEiTxOor9LbluX31v) | [Brie Michelle](https://open.spotify.com/artist/4cmtHcvJeFJIYBNXVmRzGz) | [Softly Falling \- Guitar Version](https://open.spotify.com/album/4YsBZRtkKjwetx2CJtrnAr) | 2:17 | 2022-07-01 |  |
 | [Softly Spoken](https://open.spotify.com/track/3fdjOJT2aXArEAmx68eK8P) | [Atticus Laines](https://open.spotify.com/artist/5lvoIhUaKTZ5DPNElfgAu6) | [Softly Spoken \- Guitar Version](https://open.spotify.com/album/25eYx7OeEr6auVC04XSUlr) | 1:30 | 2022-06-17 |  |

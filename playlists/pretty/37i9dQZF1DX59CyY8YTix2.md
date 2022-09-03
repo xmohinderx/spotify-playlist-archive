@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 
 > Japanese female rock icons\. Cover: SHISHAMO
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,529 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,552 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 | 2 | [I was](https://open.spotify.com/track/7t1vX4bSTlw830w6j17Um0) | [Kaneyorimasaru](https://open.spotify.com/artist/5h5smZjPHUEDyYNuafjehf) | [I was](https://open.spotify.com/album/7IHhcmqk7OOgrl2LHIkCcQ) | 3:26 |
 | 3 | [普通のロック](https://open.spotify.com/track/3YolTYm3e3Bc23wosdUs70) | [peanut butters](https://open.spotify.com/artist/54hEgY8Ut3i0OriX1fELbP) | [E\-Peanut](https://open.spotify.com/album/1n6UmAxDAo3JMcKhKWcDu6) | 3:20 |
 | 4 | [Girl](https://open.spotify.com/track/1M5x3ztSHcQM0OGNc10CAq) | [INNER JOURNEY](https://open.spotify.com/artist/19NLrvn6bFFk0R0UaSfGR9) | [Girl](https://open.spotify.com/album/2BXNNQa9tBXq6ZGvdGNdHo) | 3:40 |
-| 5 | [Balloon](https://open.spotify.com/track/18QFpkJFiMBeOBzZMxtV8y) | [Boundary](https://open.spotify.com/artist/4CLh84k1pT9WmMC3hkJCiS) | [Balloon](https://open.spotify.com/album/74C7JKHUV6QsQVK7ZuZRwx) | 3:29 |
+| 5 | [Balloon](https://open.spotify.com/track/18QFpkJFiMBeOBzZMxtV8y) | [Boundary](https://open.spotify.com/artist/7EYH7GNNmSQu0MqLFBupH9) | [Balloon](https://open.spotify.com/album/74C7JKHUV6QsQVK7ZuZRwx) | 3:29 |
 | 6 | [Dramatic](https://open.spotify.com/track/3pT5vtG177l2jrxpPy76jB) | [MASS OF THE FERMENTING DREGS](https://open.spotify.com/artist/14d5KCX9nprUcxnKIShrr1) | [Awakening:Sleeping](https://open.spotify.com/album/3CtgykVNQgaZ42o6f89PQy) | 3:47 |
 | 7 | [逆光 \- ウタ from ONE PIECE FILM RED](https://open.spotify.com/track/5GXYKnnzBlHvrzBQ5WoxME) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [逆光 \(ウタ from ONE PIECE FILM RED\)](https://open.spotify.com/album/3ZARNbKk2zkYDeVQpHE564) | 3:57 |
 | 8 | [地球でつかまえて](https://open.spotify.com/track/6RaKIiR2SMcSKh9VOJ8Toe) | [Regal Lily](https://open.spotify.com/artist/75eQ7NabzgaaUYcrqSY0FK) | [恋と戦争](https://open.spotify.com/album/5HcaNz0KIxxjzg8ipOSfZD) | 3:02 |

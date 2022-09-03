@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IplhwNexYg.md) - [plain]
 
 > The best in current indie rock\. Cover: Connie Constance
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,893 likes - 80 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,872 likes - 80 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Hell On Earth](https://open.spotify.com/track/5zkVTkQkHV4ygkf4sjicbA) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Hell On Earth](https://open.spotify.com/album/0H19BYgfRBOrW5BXg7yFqH) | 2:45 |
-| 2 | [Dig!](https://open.spotify.com/track/003jZXYNwnO3rl83ajtLpd) | [Sports Team](https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh) | [Dig!](https://open.spotify.com/album/5HoYh07ZPhKkZ1hwV5VFL7) | 2:41 |
+| 2 | [Dig!](https://open.spotify.com/track/0jhhWCD0oXc4E480bMl6L7) | [Sports Team](https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh) | [Dig!](https://open.spotify.com/album/2Hs7jUW49pEuMW7jirgbt8) | 2:41 |
 | 3 | [Mood Hoover](https://open.spotify.com/track/1Kma7Z2DAv6tI7beez0Jqo) | [Connie Constance](https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt) | [Mood Hoover](https://open.spotify.com/album/6QMxKOuHssNVCqphLFbUn1) | 3:14 |
 | 4 | [Easy On Your Own?](https://open.spotify.com/track/2ZmQI8hVG0wGsvBAvSPx47) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Easy On Your Own?](https://open.spotify.com/album/1v3VgD0YVk0bOrwfs0TO3J) | 2:54 |
 | 5 | [Charlie Bronson](https://open.spotify.com/track/7dZFOg2cJIz57li5yByDXK) | [Black Honey](https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS) | [Charlie Bronson](https://open.spotify.com/album/4epVkITSRbajj8VlnOIWvN) | 3:24 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IplhwNexYg.md) - [plain]
 | 79 | [Roll The Dice](https://open.spotify.com/track/2q7RE1Csj30DPOXqO4sWqO) | [Sunflower Bean](https://open.spotify.com/artist/1xVcjJ5YsYOClO2Unt3Rm8) | [Roll The Dice](https://open.spotify.com/album/4ujPS7j4S1xyRS4ZQh4VgN) | 3:14 |
 | 80 | [Digital Atlas](https://open.spotify.com/track/4DweoPyHETeUjbkUDwHlnl) | [Daisy Brain](https://open.spotify.com/artist/5WuDKeWph4EKsyy9e56Mz4) | [Digital Atlas](https://open.spotify.com/album/3pPp2gMM0o5BK92geIkWa8) | 3:02 |
 
-Snapshot ID: `MTY2MjA3MzIwMCwwMDAwMDAwMDQ3MzBmOTQzN2M1YjIxYzU2MGVhYmVlMzBlZTYxZWEw`
+Snapshot ID: `MTY2MjA3MzIwMCwwMDAwMDAwMDM2YTg5NWQ4NWMyMDI5Y2FiZmQyNjFhOWU5YWUyOTUy`

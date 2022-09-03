@@ -4,7 +4,7 @@
 
 > Focus and relax with the help of these chilled cinematic soundtracks.
 
-47 songs - 2 hr 38 min - [published](https://open.spotify.com/playlist/11XWwRk7eQQIfj4KpfiOmZ)
+48 songs - 2 hr 40 min - [published](https://open.spotify.com/playlist/11XWwRk7eQQIfj4KpfiOmZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Lady Steph and Henry](https://open.spotify.com/track/25CNdDtmkXxnAogRTVQ89P) | [Jan Valta](https://open.spotify.com/artist/3refNRo1fb7DLZi9rGUEo9), [Adam Sporka](https://open.spotify.com/artist/1tfJNGH0H6MudsgqCS7DS4) | [Kingdom Come: Deliverance \(Original Soundtrack Essentials\)](https://open.spotify.com/album/0XvTyYwQQhNXYFPbsCzmrg) | 1:55 | 2022-08-05 |  |
 | [Lost Love](https://open.spotify.com/track/3WiLTYZ0QqFOsHx3qSI1kY) | [Pinar Toprak](https://open.spotify.com/artist/7z1L55q63jRGHqqS3xcGgl) | [The Lightkeepers \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6jOwyfWCjP78gXn49Q1zf2) | 6:19 | 2022-08-05 |  |
 | [Mae](https://open.spotify.com/track/0UI8Jk6Ps9tHcvIchV1nuO) | [Berlinist](https://open.spotify.com/artist/6EUPmAvpY341eXZwJVy6dn) | [Gris \(Original Game Soundtrack\)](https://open.spotify.com/album/2YMWspDGtbDgYULXvVQFM6) | 2:33 | 2022-08-05 |  |
+| [Main Theme \(From "Schindler's List"\)](https://open.spotify.com/track/1I89mrLCOoHc9SaxAZFFs7) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [Alexandre Tharaud](https://open.spotify.com/artist/5HG9Eg7Ik8ZuNtMyGYTxLG) | [Cinema \- Main Theme \(From "Schindler's List"\)](https://open.spotify.com/album/3nC29H6JtRAzhaIZ9Qkw64) | 2:07 | 2022-09-02 |  |
 | [Mandy Love Theme](https://open.spotify.com/track/0sTXvRbRyjFCoUbRo7CJ6S) | [Jóhann Jóhannsson](https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF) | [Mandy \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/60f6ypxsKLEemkp4216Ood) | 4:38 | 2022-08-05 |  |
 | [My Sanctuary](https://open.spotify.com/track/6d1NPNNXtUPmqdwg8bEGSo) | [Amelia Warner](https://open.spotify.com/artist/1SSl5N7XDvbNT88DomuDmW) | [Mary Shelley \(Original Motion Picture Score\)](https://open.spotify.com/album/4Bu9CTxnEx079i37tGHlXi) | 3:01 | 2022-08-05 |  |
 | [Nascence](https://open.spotify.com/track/1Lw8az0pvHNLIhOT2DWQ9W) | [Austin Wintory](https://open.spotify.com/artist/3Rwlus4QnnBSnTe8pJV0rw) | [Journey \(Original Video Game Soundtrack\)](https://open.spotify.com/album/5fEkyTeRzYV32RcT8c5tTn) | 1:46 | 2022-08-05 |  |

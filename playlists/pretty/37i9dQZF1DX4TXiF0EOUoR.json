@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Los reyes del jaripeo!",
-  "num_followers": 94205,
+  "num_followers": 94273,
   "original_name": "Jaripeo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MzE1NDY0MywwMDAwMDAwMDU3N2VlYmE0MTFmMzg5YTI3MTFkMjNiMDZjNzRkZTc1",
+  "snapshot_id": "MTY0MzE1NDY0MywwMDAwMDAwMDBmNGY2MTM5NGRhMzhkNjBjODFhMTZlOTE5OGMyNGMw",
   "tracks": [
     {
       "added_at": "2022-01-25 23:50:43",
@@ -403,22 +403,6 @@
     {
       "added_at": "2022-01-25 23:50:43",
       "album": {
-        "name": "Que Bonito Es Lo Bonito",
-        "url": "https://open.spotify.com/album/1Bnb8merB3783bs12XA2Fl"
-      },
-      "artists": [
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-        }
-      ],
-      "duration_ms": 166093,
-      "name": "El Ahualulco",
-      "url": "https://open.spotify.com/track/1tcHkEZH1FoYEFmEpDIJp1"
-    },
-    {
-      "added_at": "2022-01-25 23:50:43",
-      "album": {
         "name": "Vencedor",
         "url": "https://open.spotify.com/album/4cPRux21b3M1X668qR5lZ3"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 219480,
       "name": "C\u00f3mo Me Duele",
       "url": "https://open.spotify.com/track/50GRxHQ3cW2yBmlPIF9urf"
+    },
+    {
+      "added_at": "2022-01-25 23:50:43",
+      "album": {
+        "name": "Que Bonito Es Lo Bonito",
+        "url": "https://open.spotify.com/album/1Bnb8merB3783bs12XA2Fl"
+      },
+      "artists": [
+        {
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+        }
+      ],
+      "duration_ms": 166093,
+      "name": "El Ahualulco",
+      "url": "https://open.spotify.com/track/1tcHkEZH1FoYEFmEpDIJp1"
     },
     {
       "added_at": "2022-01-25 23:50:43",
@@ -471,22 +471,6 @@
     {
       "added_at": "2022-01-25 23:50:43",
       "album": {
-        "name": "Banda La Jaripera Vol.1",
-        "url": "https://open.spotify.com/album/0GAamZXoKD58SatXppxSSn"
-      },
-      "artists": [
-        {
-          "name": "Banda La Jaripera Vol.1",
-          "url": "https://open.spotify.com/artist/12sCV8dJinmPyv9S4CkpqZ"
-        }
-      ],
-      "duration_ms": 145520,
-      "name": "Arriba Pichataro",
-      "url": "https://open.spotify.com/track/2LlavtI2ZyzTEEgPwOXrLg"
-    },
-    {
-      "added_at": "2022-01-25 23:50:43",
-      "album": {
         "name": "Que Se Arme la Fiesta",
         "url": "https://open.spotify.com/album/4AKnoboSYY1A9EotKTRjyO"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 240000,
       "name": "Molinos de Viento",
       "url": "https://open.spotify.com/track/3xCyBGCKtkyzD44L1pQJr3"
+    },
+    {
+      "added_at": "2022-01-25 23:50:43",
+      "album": {
+        "name": "Banda La Jaripera Vol.1",
+        "url": "https://open.spotify.com/album/0GAamZXoKD58SatXppxSSn"
+      },
+      "artists": [
+        {
+          "name": "Banda La Jaripera Vol.1",
+          "url": "https://open.spotify.com/artist/12sCV8dJinmPyv9S4CkpqZ"
+        }
+      ],
+      "duration_ms": 145520,
+      "name": "Arriba Pichataro",
+      "url": "https://open.spotify.com/track/2LlavtI2ZyzTEEgPwOXrLg"
     },
     {
       "added_at": "2022-01-25 23:50:43",
@@ -995,22 +995,6 @@
     {
       "added_at": "2022-01-25 23:50:43",
       "album": {
-        "name": "El Guapo",
-        "url": "https://open.spotify.com/album/1pSk7ehWJhdmJYaU8JobaP"
-      },
-      "artists": [
-        {
-          "name": "Banda Fresa Roja",
-          "url": "https://open.spotify.com/artist/5k6geKS4IAc3ay7YuDM7Y0"
-        }
-      ],
-      "duration_ms": 188696,
-      "name": "El Guapo",
-      "url": "https://open.spotify.com/track/51zDKkKUFMpKtT40t80lpq"
-    },
-    {
-      "added_at": "2022-01-25 23:50:43",
-      "album": {
         "name": "Durmiendo en el Lugar Equivocado",
         "url": "https://open.spotify.com/album/50x6RBfdV0Ao2eX3T2ekty"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 210280,
       "name": "La Bola (Pelotero a la Bola)",
       "url": "https://open.spotify.com/track/2pdaGbHeRy6i5DJuWbLg3t"
+    },
+    {
+      "added_at": "2022-01-25 23:50:43",
+      "album": {
+        "name": "El Guapo",
+        "url": "https://open.spotify.com/album/1pSk7ehWJhdmJYaU8JobaP"
+      },
+      "artists": [
+        {
+          "name": "Banda Fresa Roja",
+          "url": "https://open.spotify.com/artist/5k6geKS4IAc3ay7YuDM7Y0"
+        }
+      ],
+      "duration_ms": 188696,
+      "name": "El Guapo",
+      "url": "https://open.spotify.com/track/51zDKkKUFMpKtT40t80lpq"
     },
     {
       "added_at": "2022-01-25 23:50:43",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2022-01-25 23:50:43",
       "album": {
-        "name": "Puras De Viento En Vivo, Vol. 2",
-        "url": "https://open.spotify.com/album/2I1QM5M1gqlrpV6IbkYUrz"
-      },
-      "artists": [
-        {
-          "name": "Banda Renovacion",
-          "url": "https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk"
-        }
-      ],
-      "duration_ms": 119807,
-      "name": "El Toro De Once (En Vivo)",
-      "url": "https://open.spotify.com/track/4jAO429cfLZ4ctSM0QqYOZ"
-    },
-    {
-      "added_at": "2022-01-25 23:50:43",
-      "album": {
         "name": "Y Sigue la Historia (12 Exitos \u00a1\u00a1 la Explosiva!!)",
         "url": "https://open.spotify.com/album/54fAyGnLO7KQjjWdB1nQaV"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 135146,
       "name": "El Sauce y la Palma",
       "url": "https://open.spotify.com/track/1qmNvOyMuWtVCsLD4fvdz1"
+    },
+    {
+      "added_at": "2022-01-25 23:50:43",
+      "album": {
+        "name": "Puras De Viento En Vivo, Vol. 2",
+        "url": "https://open.spotify.com/album/2I1QM5M1gqlrpV6IbkYUrz"
+      },
+      "artists": [
+        {
+          "name": "Banda Renovacion",
+          "url": "https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk"
+        }
+      ],
+      "duration_ms": 119807,
+      "name": "El Toro De Once (En Vivo)",
+      "url": "https://open.spotify.com/track/4jAO429cfLZ4ctSM0QqYOZ"
     },
     {
       "added_at": "2022-01-25 23:50:43",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2022-01-25 23:50:43",
       "album": {
-        "name": "Como Loco Alucino",
-        "url": "https://open.spotify.com/album/2HZ10UUKKSRmVpVBjRXh1k"
-      },
-      "artists": [
-        {
-          "name": "Banda La Coste\u00f1a",
-          "url": "https://open.spotify.com/artist/1r8tUG15NMJEj1j5NynES7"
-        }
-      ],
-      "duration_ms": 192066,
-      "name": "La Vaquilla",
-      "url": "https://open.spotify.com/track/42zeCHx9BC59y2oRG6DBxf"
-    },
-    {
-      "added_at": "2022-01-25 23:50:43",
-      "album": {
         "name": "De Puro Gusto! (18 A\u00f1os de Trayectoria)",
         "url": "https://open.spotify.com/album/5BMdxiYzfvfpdBC7oc0WIx"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 192989,
       "name": "Los Mayeles - Sones para Jaripeo",
       "url": "https://open.spotify.com/track/6wpAMs81FDzTKIbrFtQWEN"
+    },
+    {
+      "added_at": "2022-01-25 23:50:43",
+      "album": {
+        "name": "Como Loco Alucino",
+        "url": "https://open.spotify.com/album/2HZ10UUKKSRmVpVBjRXh1k"
+      },
+      "artists": [
+        {
+          "name": "Banda La Coste\u00f1a",
+          "url": "https://open.spotify.com/artist/1r8tUG15NMJEj1j5NynES7"
+        }
+      ],
+      "duration_ms": 192066,
+      "name": "La Vaquilla",
+      "url": "https://open.spotify.com/track/42zeCHx9BC59y2oRG6DBxf"
     },
     {
       "added_at": "2022-01-25 23:50:43",
@@ -1303,6 +1303,22 @@
     {
       "added_at": "2022-01-25 23:50:43",
       "album": {
+        "name": "Y Seguimos Loqueando!",
+        "url": "https://open.spotify.com/album/03RRx4Txfj8Q151lsqoJAq"
+      },
+      "artists": [
+        {
+          "name": "Banda Monarca de Morelia",
+          "url": "https://open.spotify.com/artist/5iGyyOAirGdcluvetz7mMn"
+        }
+      ],
+      "duration_ms": 244680,
+      "name": "El Torito de Petate - La Fiesta del Carnaval",
+      "url": "https://open.spotify.com/track/3gnPTcrVXDY0fN3gjMCCB2"
+    },
+    {
+      "added_at": "2022-01-25 23:50:43",
+      "album": {
         "name": "Arriba Mi Rancho",
         "url": "https://open.spotify.com/album/6N3CeUo9y7YMRBvAfscZmZ"
       },
@@ -1331,22 +1347,6 @@
       "duration_ms": 261712,
       "name": "El Sonao",
       "url": "https://open.spotify.com/track/6dSReOEVUQqBgXGYQyWSZw"
-    },
-    {
-      "added_at": "2022-01-25 23:50:43",
-      "album": {
-        "name": "Y Seguimos Loqueando!",
-        "url": "https://open.spotify.com/album/03RRx4Txfj8Q151lsqoJAq"
-      },
-      "artists": [
-        {
-          "name": "Banda Monarca de Morelia",
-          "url": "https://open.spotify.com/artist/5iGyyOAirGdcluvetz7mMn"
-        }
-      ],
-      "duration_ms": 244680,
-      "name": "El Torito de Petate - La Fiesta del Carnaval",
-      "url": "https://open.spotify.com/track/3gnPTcrVXDY0fN3gjMCCB2"
     },
     {
       "added_at": "2022-01-25 23:50:43",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2022-01-25 23:50:43",
       "album": {
+        "name": "Bailando Ando",
+        "url": "https://open.spotify.com/album/0kSHlUFHyJgwldae6Xt6Ss"
+      },
+      "artists": [
+        {
+          "name": "Banda 466 Paso a Paso",
+          "url": "https://open.spotify.com/artist/6RfT1OjkFTBrGC48aiJjvm"
+        }
+      ],
+      "duration_ms": 160725,
+      "name": "El Toro De Once",
+      "url": "https://open.spotify.com/track/3MAhgwZtPsbCmBphO49ZxF"
+    },
+    {
+      "added_at": "2022-01-25 23:50:43",
+      "album": {
         "name": "El Novillo Despuntado / Toro Pinto",
         "url": "https://open.spotify.com/album/1EhpKhG4GZk68qlAtupGzv"
       },
@@ -1479,22 +1495,6 @@
     {
       "added_at": "2022-01-25 23:50:43",
       "album": {
-        "name": "Bailando Ando",
-        "url": "https://open.spotify.com/album/0kSHlUFHyJgwldae6Xt6Ss"
-      },
-      "artists": [
-        {
-          "name": "Banda 466 Paso a Paso",
-          "url": "https://open.spotify.com/artist/6RfT1OjkFTBrGC48aiJjvm"
-        }
-      ],
-      "duration_ms": 160725,
-      "name": "El Toro De Once",
-      "url": "https://open.spotify.com/track/3MAhgwZtPsbCmBphO49ZxF"
-    },
-    {
-      "added_at": "2022-01-25 23:50:43",
-      "album": {
         "name": "De Michoac\u00e1n al Guamuchil (Los Mejores Sones de Jaripeo)",
         "url": "https://open.spotify.com/album/5L4DglvthWqL4C95K4xhzQ"
       },
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2022-01-25 23:50:43",
       "album": {
-        "name": "Nuevos Rumbos - La Herencia del Rey (En Vivo)",
-        "url": "https://open.spotify.com/album/49u2pFJJZqCxQAgwxFNyLZ"
-      },
-      "artists": [
-        {
-          "name": "Banda Cruz De La Candelaria",
-          "url": "https://open.spotify.com/artist/0YzzMBA0jYCOSQojb3AtYr"
-        }
-      ],
-      "duration_ms": 274038,
-      "name": "El Jaripeo el Jaripeo / La Iguana / Ofelia - En Vivo",
-      "url": "https://open.spotify.com/track/4nAykwTTZBlBsn5D5V3BpG"
-    },
-    {
-      "added_at": "2022-01-25 23:50:43",
-      "album": {
         "name": "De Puro Gusto! (18 A\u00f1os de Trayectoria)",
         "url": "https://open.spotify.com/album/5BMdxiYzfvfpdBC7oc0WIx"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 180197,
       "name": "La Amachona - Sones para Jaripeo",
       "url": "https://open.spotify.com/track/6ZrBD31V7AhBqnCcDDEibM"
+    },
+    {
+      "added_at": "2022-01-25 23:50:43",
+      "album": {
+        "name": "Nuevos Rumbos - La Herencia del Rey (En Vivo)",
+        "url": "https://open.spotify.com/album/49u2pFJJZqCxQAgwxFNyLZ"
+      },
+      "artists": [
+        {
+          "name": "Banda Cruz De La Candelaria",
+          "url": "https://open.spotify.com/artist/0YzzMBA0jYCOSQojb3AtYr"
+        }
+      ],
+      "duration_ms": 274038,
+      "name": "El Jaripeo el Jaripeo / La Iguana / Ofelia - En Vivo",
+      "url": "https://open.spotify.com/track/4nAykwTTZBlBsn5D5V3BpG"
     },
     {
       "added_at": "2022-01-25 23:50:43",

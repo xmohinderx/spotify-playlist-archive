@@ -4,7 +4,7 @@
 
 > The soft sound of some of the smoothest and sweetest vocal jazz.
 
-265 songs - 17 hr 56 min - [published](https://open.spotify.com/playlist/2jXyMwumv2Y3AF0FeiCzYC)
+266 songs - 18 hr 2 min - [published](https://open.spotify.com/playlist/2jXyMwumv2Y3AF0FeiCzYC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Come Away With Me \- Alternate Version](https://open.spotify.com/track/4yaoi2yin0n9WHaGFPcszQ) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Come Away With Me \(Super Deluxe Edition\)](https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl) | 3:27 | 2022-07-14 |  |
 | [Come Fly With Me](https://open.spotify.com/track/12v7P7tjpUJmNCdhsBbeSl) | [Eliane Elias](https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR) | [Love Stories](https://open.spotify.com/album/3quRrdM2QORsA07w31zq5N) | 5:52 | 2022-01-20 |  |
 | [Come Rain or Come Shine](https://open.spotify.com/track/4LSplRZj1Xk5JUCARpUV8j) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [Sarah Vaughan In Hi\-Fi](https://open.spotify.com/album/3pmwIzJoyWl2gys1A8jUml) | 3:23 | 2022-03-25 |  |
+| [Cover Up](https://open.spotify.com/track/4uG1SPiRluQnbhRdfsgSYU) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa), [Christine Jensen](https://open.spotify.com/artist/6ILqwG2NEsYuwmqIzZ1Spu) | [Cover Up](https://open.spotify.com/album/7JXds7hOl3z4LGfx8xTorg) | 6:06 | 2022-08-29 |  |
 | [C’est Magnifique](https://open.spotify.com/track/4AglSowvxI1sD2OfAxhiFQ) | [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J), [António Zambujo](https://open.spotify.com/artist/72G65J87dqMi39O00Du2Je) | [C’est Magnifique](https://open.spotify.com/album/3iFTFzxTLIJefXdCZH3RtN) | 4:52 | 2022-05-24 | 2022-08-17 |
 | [Dance Me To The End Of Love](https://open.spotify.com/track/69X2tFJnXPGGGvSOJdZ8ou) | [Madeleine Peyroux](https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef) | [Careless Love \(Deluxe Edition\)](https://open.spotify.com/album/51v8hjqV3KirevIh7jWI0H) | 3:57 | 2022-01-20 | 2022-05-25 |
 | [Darn That Dream](https://open.spotify.com/track/1bKYwMDGYIRbo2vqm8UCym) | [Dianne Reeves](https://open.spotify.com/artist/7nwrblOf59ulOiB6djwPVh) | [A Little Moonlight](https://open.spotify.com/album/2kI3zicMFYrMlRDHOLXJ7s) | 4:46 | 2022-01-20 |  |
@@ -270,7 +271,7 @@
 | [You Don't Know What Love Is](https://open.spotify.com/track/5UPJdlkMWG2G2UwTfGSjOe) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Lady In Satin](https://open.spotify.com/album/4LrLP7DM1KBj8r2Sc098JA) | 3:48 | 2022-01-20 |  |
 | [You Know](https://open.spotify.com/track/59o8bFVlsoE39rbuaxUY4U) | [Valentina Ranalli](https://open.spotify.com/artist/2ESQP8n7proCRJRgAxzhzK), [Enrico Pieranunzi](https://open.spotify.com/artist/5vACdMa2kY7jHnlJwqYRKP), [GIACOMO SERINO](https://open.spotify.com/artist/5P6GASLyZpxTAUHrixh3C3), [Cesare Mangiocavallo](https://open.spotify.com/artist/0bvOqAM4T7bvH2pzfiRx8b), [Giuseppe Romagnoli](https://open.spotify.com/artist/6sF2CAI4RkNd7czhFYRm9L) | [Cantare Pieranunzi](https://open.spotify.com/album/5gZQsyFV01xEKHeRCtEhJQ) | 4:11 | 2022-03-31 | 2022-08-30 |
 | [You'd Be So Nice To Come Home To](https://open.spotify.com/track/5J6264keZ3ksbsHwef1U7G) | [Helen Merrill](https://open.spotify.com/artist/4JHlHSUko0ivu6fXYT8J2q) | [Helen Merill](https://open.spotify.com/album/5ilzjsH4ER5ZaytJwnmn3C) | 4:19 | 2022-01-20 |  |
-| [You've Changed](https://open.spotify.com/track/1c4uYJTTaTzrEXAyyB95at) | [Mandy Barnett](https://open.spotify.com/artist/1dueb4USSa0IBdtDolg4pO) | [Every Star Above](https://open.spotify.com/album/7EptFOAT6xWnPWJa9vDt4t) | 3:54 | 2022-01-20 |  |
+| [You've Changed](https://open.spotify.com/track/1c4uYJTTaTzrEXAyyB95at) | [Mandy Barnett](https://open.spotify.com/artist/1dueb4USSa0IBdtDolg4pO) | [Every Star Above](https://open.spotify.com/album/7EptFOAT6xWnPWJa9vDt4t) | 3:54 | 2022-01-20 | 2022-09-03 |
 | [You've Changed](https://open.spotify.com/track/6R8E6KJoBLcSEtWRUcKali) | [Molly Johnson](https://open.spotify.com/artist/0OhbmRARz9nrChla8W2OGU) | [Because Of Billie](https://open.spotify.com/album/6Bz3G8ZBPt3raos669LnuB) | 4:30 | 2022-02-18 | 2022-07-29 |
 | [You´ve Got A Friend \(Bossa Version\)](https://open.spotify.com/track/72d2qNpo39PRtwMWS9m2nq) | [Tahta Menezes](https://open.spotify.com/artist/5zto0NhFPEDUohvCEOYlrM) | [Relaxing Bossa Lounge 4](https://open.spotify.com/album/7FsSg66ihkEh20WpiGN2wg) | 4:15 | 2022-01-20 |  |
 

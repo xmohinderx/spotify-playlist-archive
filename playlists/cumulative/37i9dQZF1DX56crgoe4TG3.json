@@ -1102,6 +1102,24 @@
     },
     {
       "album": {
+        "name": "Get Rhythm",
+        "url": "https://open.spotify.com/album/33BZQZJpcH5WT0fX0NxCxN"
+      },
+      "artists": [
+        {
+          "name": "James Hand",
+          "url": "https://open.spotify.com/artist/0LhTZWBL8vvxZhJxYBWUmi"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102060,
+      "name": "Get Rhythm",
+      "url": "https://open.spotify.com/track/5zYT8PNbW8CmEx5lsJFc2E"
+    },
+    {
+      "album": {
         "name": "Grasswhoopin' Party Pack, Vol. 2",
         "url": "https://open.spotify.com/album/0CcwYASwggPkViUxIWFCUA"
       },

@@ -1,12 +1,12 @@
 {
   "description": "The perfect uptempo tracks for your Party.\nCover : Nithiin",
-  "num_followers": 25091,
+  "num_followers": 25106,
   "original_name": "EDM Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODQ5Mzc2NywwMDAwMDAwMDU4YjkxYWI2OWZkYmIwNTU2MDNiMTNlNjA1NjM2NjQ0",
+  "snapshot_id": "MTY1ODQ5Mzc2NywwMDAwMDAwMGM3ZDBmZTM2YWFiNWFkZTgzNWU2YWViYTFjMTYwNjkz",
   "tracks": [
     {
       "added_at": "2022-06-03 13:02:58",
@@ -248,26 +248,6 @@
       },
       "artists": [
         {
-          "name": "M.C. Vickey",
-          "url": "https://open.spotify.com/artist/7bxJB2vrMkzPAHRBLhaeiL"
-        },
-        {
-          "name": "M. M. Manasi",
-          "url": "https://open.spotify.com/artist/3JGrxsZ6kfzJrfwsxwERhS"
-        }
-      ],
-      "duration_ms": 263440,
-      "name": "Private Party",
-      "url": "https://open.spotify.com/track/55lcV76gPJUqAnHj3Z9xRd"
-    },
-    {
-      "added_at": "2021-06-24 14:44:57",
-      "album": {
-        "name": "Sarrainodu",
-        "url": "https://open.spotify.com/album/4wwqWlnn6LF8CplJfZcHF8"
-      },
-      "artists": [
-        {
           "name": "Shreya Ghoshal",
           "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
         },
@@ -291,6 +271,26 @@
       "duration_ms": 304987,
       "name": "Blockbuster",
       "url": "https://open.spotify.com/track/37S2kL71k5LOmGxzJ7JLzE"
+    },
+    {
+      "added_at": "2021-06-24 14:44:57",
+      "album": {
+        "name": "Sarrainodu",
+        "url": "https://open.spotify.com/album/4wwqWlnn6LF8CplJfZcHF8"
+      },
+      "artists": [
+        {
+          "name": "M.C. Vickey",
+          "url": "https://open.spotify.com/artist/7bxJB2vrMkzPAHRBLhaeiL"
+        },
+        {
+          "name": "M. M. Manasi",
+          "url": "https://open.spotify.com/artist/3JGrxsZ6kfzJrfwsxwERhS"
+        }
+      ],
+      "duration_ms": 263440,
+      "name": "Private Party",
+      "url": "https://open.spotify.com/track/55lcV76gPJUqAnHj3Z9xRd"
     },
     {
       "added_at": "2021-06-24 14:44:57",
@@ -435,22 +435,6 @@
     {
       "added_at": "2021-06-24 14:44:57",
       "album": {
-        "name": "Attarrintiki Daaredi",
-        "url": "https://open.spotify.com/album/4rjF7pEttnd3hMEt7iuzgk"
-      },
-      "artists": [
-        {
-          "name": "David Simon|Malgadi Subha",
-          "url": "https://open.spotify.com/artist/1boEI6lCFhu5guBcZ8CUos"
-        }
-      ],
-      "duration_ms": 269111,
-      "name": "Time To Party",
-      "url": "https://open.spotify.com/track/4MCwrrZj6yl2hL6rGxeXQu"
-    },
-    {
-      "added_at": "2021-06-24 14:44:57",
-      "album": {
         "name": "Race Gurram",
         "url": "https://open.spotify.com/album/6qESUjEdldht18WkWpLw4n"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 239010,
       "name": "Down Down Duppa",
       "url": "https://open.spotify.com/track/3PP1G6ukDSE3fOn4BJBtUw"
+    },
+    {
+      "added_at": "2021-06-24 14:44:57",
+      "album": {
+        "name": "Attarrintiki Daaredi",
+        "url": "https://open.spotify.com/album/4rjF7pEttnd3hMEt7iuzgk"
+      },
+      "artists": [
+        {
+          "name": "David Simon|Malgadi Subha",
+          "url": "https://open.spotify.com/artist/1boEI6lCFhu5guBcZ8CUos"
+        }
+      ],
+      "duration_ms": 269111,
+      "name": "Time To Party",
+      "url": "https://open.spotify.com/track/4MCwrrZj6yl2hL6rGxeXQu"
     },
     {
       "added_at": "2021-06-24 14:44:57",

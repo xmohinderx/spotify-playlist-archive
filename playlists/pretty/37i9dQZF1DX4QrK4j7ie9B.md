@@ -1,19 +1,19 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4QrK4j7ie9B.md) - [plain](/playlists/plain/37i9dQZF1DX4QrK4j7ie9B) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4QrK4j7ie9B)
 
-### [Classical Yoga](https://open.spotify.com/playlist/37i9dQZF1DX4QrK4j7ie9B)
+### [Classical Cooldown](https://open.spotify.com/playlist/37i9dQZF1DX4QrK4j7ie9B)
 
-> The ultimate classical playlist for yoga, meditation and daily mindfulness.
+> The ultimate classical playlist for post\-workout stretching, meditation and mindfulness.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,293 likes - 47 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,335 likes - 47 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Night Wave \- Julien Marchal Remix](https://open.spotify.com/track/1UrTS3o13421j7Wq5EKJr0) | [Zeb Samuels](https://open.spotify.com/artist/4tNpitVfhjvN9Jov2ruIjS), [Julien Marchal](https://open.spotify.com/artist/7e4AmALFiKR69Xra2EksPU) | [Night Wave](https://open.spotify.com/album/0x5Cu6bkvrKDZbgCM8HAf0) | 4:43 |
-| 2 | [Orchestral Suite No\. 3 in D Major, BWV 1068: II\. Air "On a G String" \(Arr\. for Piano\)](https://open.spotify.com/track/4WH081NcZkk93PVK2S3q5N) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Romance](https://open.spotify.com/album/4TnEt9eadhYke8xi04QG22) | 5:28 |
+| 2 | [Mid Air](https://open.spotify.com/track/5O3UGMP9XJLbshKKZHsrGN) | [GÅEL](https://open.spotify.com/artist/3IDwktZCJFdN7oBKwLOZX5) | [Mid Air](https://open.spotify.com/album/3WDpzRaFtaWQlWxFQn8jxK) | 2:27 |
 | 3 | [Due tramonti](https://open.spotify.com/track/1Zv6RyHM08gyC4qvOlCZUL) | [Lavinia Meijer](https://open.spotify.com/artist/1QpDFI4PxPwdv2E3iS6pCp) | [Passaggio](https://open.spotify.com/album/7FLcizCIuoOOTEKUZlrANJ) | 4:27 |
-| 4 | [Portrait Gallery](https://open.spotify.com/track/3oRuCzqdduzZ2CBhAtv8zO) | [Luke Howard](https://open.spotify.com/artist/3duTXsC49HoPt4f4EySDKf) | [Sun, Cloud](https://open.spotify.com/album/25ePjvtvxfiYd3XjPQFuDj) | 6:07 |
-| 5 | [Après un rêve, Op\. 7, No\. 1](https://open.spotify.com/track/05yzhEWkmVXiigqWfcNTQS) | [Gabriel Fauré](https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO), [Yo\-Yo Ma](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk) | [Songs from the Arc of Life](https://open.spotify.com/album/2y85NsbsBnGTXcXgHpj3PD) | 2:40 |
-| 6 | [Mid Air](https://open.spotify.com/track/5O3UGMP9XJLbshKKZHsrGN) | [GÅEL](https://open.spotify.com/artist/3IDwktZCJFdN7oBKwLOZX5) | [Mid Air](https://open.spotify.com/album/3WDpzRaFtaWQlWxFQn8jxK) | 2:27 |
+| 4 | [Orchestral Suite No\. 3 in D Major, BWV 1068: II\. Air "On a G String" \(Arr\. for Piano\)](https://open.spotify.com/track/4WH081NcZkk93PVK2S3q5N) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Romance](https://open.spotify.com/album/4TnEt9eadhYke8xi04QG22) | 5:28 |
+| 5 | [Portrait Gallery](https://open.spotify.com/track/3oRuCzqdduzZ2CBhAtv8zO) | [Luke Howard](https://open.spotify.com/artist/3duTXsC49HoPt4f4EySDKf) | [Sun, Cloud](https://open.spotify.com/album/25ePjvtvxfiYd3XjPQFuDj) | 6:07 |
+| 6 | [Après un rêve, Op\. 7, No\. 1](https://open.spotify.com/track/05yzhEWkmVXiigqWfcNTQS) | [Gabriel Fauré](https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO), [Yo\-Yo Ma](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk) | [Songs from the Arc of Life](https://open.spotify.com/album/2y85NsbsBnGTXcXgHpj3PD) | 2:40 |
 | 7 | [Quavers](https://open.spotify.com/track/31cXSScPQ2Cw4DiXwCQnZq) | [Howard Skempton](https://open.spotify.com/artist/6YDIJAK6v8fMuaRtf3zBp9), [Duncan Honeybourne](https://open.spotify.com/artist/0EWVTiMmGeJ7I4wymz5XST) | [A Hundred Years of British Piano Miniatures](https://open.spotify.com/album/0PwC5fdWWy7N6uZZyrEkiy) | 2:49 |
 | 8 | [Where Worlds Collide](https://open.spotify.com/track/04F2CVACUouSEWkaApQnmf) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Evolution](https://open.spotify.com/album/4N4dU9titX6FRpkHnjvAct) | 4:02 |
 | 9 | [4 Postludes for Piano & String Orchestra: No\. 1\. Larghetto \- Andante](https://open.spotify.com/track/71FqqOSUSVjaM4ZT3Ugj83) | [Valentin Silvestrov](https://open.spotify.com/artist/1bauOA5U5M3RwH2euX3Eq6), [Elisaveta Blumina](https://open.spotify.com/artist/2PfSqNvD6yUMeq9krR7X3g), [Stuttgart Chamber Orchestra](https://open.spotify.com/artist/51RiZjPgKKJ1uDsZVmntmF), [Thomas Sanderling](https://open.spotify.com/artist/3S55Z8j2m8fHa1L2axqywa) | [Ustvolskaya, Silvestrov & Kancheli: Works for Piano & Orchestra](https://open.spotify.com/album/56kiotGWV3BT7x39WeAr4H) | 5:36 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4QrK4j7ie9B.md) - [plain]
 | 46 | [Naive Music: No\. 2\. Nocturne](https://open.spotify.com/track/1Px3T30V89JCSKZkgyAb4W) | [Valentin Silvestrov](https://open.spotify.com/artist/1bauOA5U5M3RwH2euX3Eq6), [Elisaveta Blumina](https://open.spotify.com/artist/2PfSqNvD6yUMeq9krR7X3g) | [Silvestrov: Piano Music](https://open.spotify.com/album/0MF4s1iTa2la59V01TGEgW) | 2:35 |
 | 47 | [8 Norwegian Folk Tunes, Op\. 70: No\. 2, Um morgon tidleg "Um morgon tidleg på høgste nut"](https://open.spotify.com/track/4FLtKRreqGXZNZFs0XKdvH) | [Johan Kvandal](https://open.spotify.com/artist/5Pod14R8rXwlW13GpvTG6Q), [Joachim Knoph](https://open.spotify.com/artist/1wuIOgNE6mJIvoRdsnRst1) | [Kvandal: Complete Works for Solo Piano](https://open.spotify.com/album/3UWIf4RkDckggS5pkfzmi9) | 1:36 |
 
-Snapshot ID: `MTY1ODkyODU0OCwwMDAwMDAwMDQ5ZjlkYTE0ZDJiZThlNTk2ZjE0NTQwYWI4YjNmOTU4`
+Snapshot ID: `MTY2MjEzMTQ4MiwwMDAwMDAwMGI4ZWU0OWE4Mzk3MzE0NzZjOTgwMGU1Njk1Y2UxOWNh`

@@ -1,12 +1,12 @@
 {
   "description": "\ube57\ubc29\uc6b8\ub300\uc2e0 \uac10\uc131\uc744 \ub9de\ub294 \uc2dc\uac04.",
-  "num_followers": 5727,
+  "num_followers": 5767,
   "original_name": "\uc6b0\uc0b0 \uc544\ub798",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDg5NDk0NiwwMDAwMDAwMGE3ZTZkNzAxODExNGZjYzQ4NWY0NmVkZWY3ZWU2ZTA5",
+  "snapshot_id": "MTY2MDg5NDk0NiwwMDAwMDAwMGQ3NGNhMDU5ZmM5ZmNjYTE4MWM5NDgyY2QwZDYyMTBi",
   "tracks": [
     {
       "added_at": "2022-08-19 07:42:26",
@@ -411,26 +411,6 @@
     {
       "added_at": "2022-08-19 07:42:26",
       "album": {
-        "name": "Epik High Is Here \u4e0b (Part 2)",
-        "url": "https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh"
-      },
-      "artists": [
-        {
-          "name": "Epik High",
-          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
-        },
-        {
-          "name": "Younha",
-          "url": "https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS"
-        }
-      ],
-      "duration_ms": 252986,
-      "name": "Gray So Gray (Feat. Younha)",
-      "url": "https://open.spotify.com/track/6A4iYPzPVM4OSjIMgxMYnY"
-    },
-    {
-      "added_at": "2022-08-19 07:42:26",
-      "album": {
         "name": "SOMO: FUME",
         "url": "https://open.spotify.com/album/2T8iLSKPraJotM2uXFKW4F"
       },
@@ -451,18 +431,22 @@
     {
       "added_at": "2022-08-19 07:42:26",
       "album": {
-        "name": "Sun Shower (A Business Proposal OST Part.3)",
-        "url": "https://open.spotify.com/album/27s8y4T4C2XIP9y4Rv5AO2"
+        "name": "Epik High Is Here \u4e0b (Part 2)",
+        "url": "https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh"
       },
       "artists": [
         {
-          "name": "MOVNING",
-          "url": "https://open.spotify.com/artist/6tuZdsQHRegQDPlRdcMjbn"
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        },
+        {
+          "name": "Younha",
+          "url": "https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS"
         }
       ],
-      "duration_ms": 256959,
-      "name": "Sun Shower",
-      "url": "https://open.spotify.com/track/4dGJC7qU8dGOE00P5SgJWL"
+      "duration_ms": 252986,
+      "name": "Gray So Gray (Feat. Younha)",
+      "url": "https://open.spotify.com/track/6A4iYPzPVM4OSjIMgxMYnY"
     },
     {
       "added_at": "2022-08-19 07:42:26",
@@ -483,6 +467,22 @@
       "duration_ms": 230560,
       "name": "Sool (Feat. THAMA)",
       "url": "https://open.spotify.com/track/2wLsNE3k1TGAMm5JSqsYUX"
+    },
+    {
+      "added_at": "2022-08-19 07:42:26",
+      "album": {
+        "name": "Sun Shower (A Business Proposal OST Part.3)",
+        "url": "https://open.spotify.com/album/27s8y4T4C2XIP9y4Rv5AO2"
+      },
+      "artists": [
+        {
+          "name": "MOVNING",
+          "url": "https://open.spotify.com/artist/6tuZdsQHRegQDPlRdcMjbn"
+        }
+      ],
+      "duration_ms": 256959,
+      "name": "Sun Shower",
+      "url": "https://open.spotify.com/track/4dGJC7qU8dGOE00P5SgJWL"
     },
     {
       "added_at": "2022-08-19 07:42:26",
@@ -615,22 +615,6 @@
     {
       "added_at": "2022-08-19 07:42:26",
       "album": {
-        "name": "6equence",
-        "url": "https://open.spotify.com/album/0SXzCRUFSNGBG1S1lqvzb1"
-      },
-      "artists": [
-        {
-          "name": "Moon Byul",
-          "url": "https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL"
-        }
-      ],
-      "duration_ms": 212280,
-      "name": "ddu ddu ddu",
-      "url": "https://open.spotify.com/track/6WfW2xPw3X5FiJPQWkaXoN"
-    },
-    {
-      "added_at": "2022-08-19 07:42:26",
-      "album": {
         "name": "Magnolia",
         "url": "https://open.spotify.com/album/1xvErKDx1NMXm0nYNgMuW7"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 171333,
       "name": "Magnolia",
       "url": "https://open.spotify.com/track/5XrRVO7bjxl1HUZ5Ffri4g"
+    },
+    {
+      "added_at": "2022-08-19 07:42:26",
+      "album": {
+        "name": "6equence",
+        "url": "https://open.spotify.com/album/0SXzCRUFSNGBG1S1lqvzb1"
+      },
+      "artists": [
+        {
+          "name": "Moon Byul",
+          "url": "https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL"
+        }
+      ],
+      "duration_ms": 212280,
+      "name": "ddu ddu ddu",
+      "url": "https://open.spotify.com/track/6WfW2xPw3X5FiJPQWkaXoN"
     },
     {
       "added_at": "2022-08-19 07:42:26",
@@ -679,18 +679,18 @@
     {
       "added_at": "2022-08-19 07:42:26",
       "album": {
-        "name": "Fall in Love Again",
-        "url": "https://open.spotify.com/album/6udqW4k67GIeTy0M7alLZX"
+        "name": "You Are My Spring OST Part 3",
+        "url": "https://open.spotify.com/album/3XRvOMIh5LEfdSu1q69U96"
       },
       "artists": [
         {
-          "name": "ALEPH",
-          "url": "https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv"
+          "name": "Ha Hyunsang",
+          "url": "https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb"
         }
       ],
-      "duration_ms": 218700,
-      "name": "Fall in Love Again",
-      "url": "https://open.spotify.com/track/3HjKfAEeG40jBKIuUlJlGK"
+      "duration_ms": 161738,
+      "name": "Still Wonder",
+      "url": "https://open.spotify.com/track/1hD35Fj6NBNm2CEOn3QLCE"
     },
     {
       "added_at": "2022-08-19 07:42:26",
@@ -715,18 +715,18 @@
     {
       "added_at": "2022-08-19 07:42:26",
       "album": {
-        "name": "You Are My Spring OST Part 3",
-        "url": "https://open.spotify.com/album/3XRvOMIh5LEfdSu1q69U96"
+        "name": "Fall in Love Again",
+        "url": "https://open.spotify.com/album/6udqW4k67GIeTy0M7alLZX"
       },
       "artists": [
         {
-          "name": "Ha Hyunsang",
-          "url": "https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb"
+          "name": "ALEPH",
+          "url": "https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv"
         }
       ],
-      "duration_ms": 161738,
-      "name": "Still Wonder",
-      "url": "https://open.spotify.com/track/1hD35Fj6NBNm2CEOn3QLCE"
+      "duration_ms": 218700,
+      "name": "Fall in Love Again",
+      "url": "https://open.spotify.com/track/3HjKfAEeG40jBKIuUlJlGK"
     },
     {
       "added_at": "2022-08-19 07:42:26",
@@ -747,6 +747,22 @@
     {
       "added_at": "2022-08-19 07:42:26",
       "album": {
+        "name": "babyblue",
+        "url": "https://open.spotify.com/album/76GB3RzVtNrBANCl9Cici4"
+      },
+      "artists": [
+        {
+          "name": "Grass",
+          "url": "https://open.spotify.com/artist/3IAV4UlkGi0MzK0rEijrHi"
+        }
+      ],
+      "duration_ms": 228120,
+      "name": "babyblue",
+      "url": "https://open.spotify.com/track/0n4dgPfvfdqrt2LwDytMrD"
+    },
+    {
+      "added_at": "2022-08-19 07:42:26",
+      "album": {
         "name": "Alive with you",
         "url": "https://open.spotify.com/album/7cQ8kH5jyOLLZuAJUhccUT"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 203500,
       "name": "Alive with you (feat. SFC.JGR)",
       "url": "https://open.spotify.com/track/3jLd5QpiODmjFrZnDj32o4"
-    },
-    {
-      "added_at": "2022-08-19 07:42:26",
-      "album": {
-        "name": "babyblue",
-        "url": "https://open.spotify.com/album/76GB3RzVtNrBANCl9Cici4"
-      },
-      "artists": [
-        {
-          "name": "Grass",
-          "url": "https://open.spotify.com/artist/3IAV4UlkGi0MzK0rEijrHi"
-        }
-      ],
-      "duration_ms": 228120,
-      "name": "babyblue",
-      "url": "https://open.spotify.com/track/0n4dgPfvfdqrt2LwDytMrD"
     },
     {
       "added_at": "2022-08-19 07:42:26",
@@ -819,22 +819,6 @@
     {
       "added_at": "2022-08-19 07:42:26",
       "album": {
-        "name": "SEOULITE",
-        "url": "https://open.spotify.com/album/3cGyWEJaQlj7kCdKBCOGeb"
-      },
-      "artists": [
-        {
-          "name": "LeeHi",
-          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
-        }
-      ],
-      "duration_ms": 248051,
-      "name": "MISSING U",
-      "url": "https://open.spotify.com/track/4uk677I1lb0ZPSXGhL2FcA"
-    },
-    {
-      "added_at": "2022-08-19 07:42:26",
-      "album": {
         "name": "Lost Way (Good Doctor X Gaho)",
         "url": "https://open.spotify.com/album/6dAFSut5NhJhMJcTyHzYEL"
       },
@@ -851,18 +835,18 @@
     {
       "added_at": "2022-08-19 07:42:26",
       "album": {
-        "name": "When It Rains",
-        "url": "https://open.spotify.com/album/4wrbH5Mw71UDtdUnfJxJPJ"
+        "name": "SEOULITE",
+        "url": "https://open.spotify.com/album/3cGyWEJaQlj7kCdKBCOGeb"
       },
       "artists": [
         {
-          "name": "WEN",
-          "url": "https://open.spotify.com/artist/0FXbobEfUaIn6Z95FSJBIE"
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
         }
       ],
-      "duration_ms": 194000,
-      "name": "When It Rains",
-      "url": "https://open.spotify.com/track/47IzvV73meHMGPrEfwZUuT"
+      "duration_ms": 248051,
+      "name": "MISSING U",
+      "url": "https://open.spotify.com/track/4uk677I1lb0ZPSXGhL2FcA"
     },
     {
       "added_at": "2022-08-19 07:42:26",
@@ -879,6 +863,22 @@
       "duration_ms": 249213,
       "name": "Delete",
       "url": "https://open.spotify.com/track/48a0s6zGIkfbSBrt3k9uVC"
+    },
+    {
+      "added_at": "2022-08-19 07:42:26",
+      "album": {
+        "name": "D-day",
+        "url": "https://open.spotify.com/album/6FAG9dF5HWKlUALQeLYWpt"
+      },
+      "artists": [
+        {
+          "name": "Hoody",
+          "url": "https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL"
+        }
+      ],
+      "duration_ms": 181653,
+      "name": "When The Rain Stops",
+      "url": "https://open.spotify.com/track/5UvS2soEVuRr4SFpvB09KJ"
     }
   ],
   "unique_name": "\uc6b0\uc0b0 \uc544\ub798",

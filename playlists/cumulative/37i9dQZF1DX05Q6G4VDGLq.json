@@ -152,6 +152,24 @@
     },
     {
       "album": {
+        "name": "After Hours",
+        "url": "https://open.spotify.com/album/3itxUrPWLTA7nUFpL3LiTS"
+      },
+      "artists": [
+        {
+          "name": "Eduard Landings",
+          "url": "https://open.spotify.com/artist/6SF8oe9fw9X65MbLwQfkau"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212794,
+      "name": "After Hours",
+      "url": "https://open.spotify.com/track/3RoPN08vWMKxViEhdoqeuW"
+    },
+    {
+      "album": {
         "name": "Here's That Rainy Day",
         "url": "https://open.spotify.com/album/5v5UCmE3YVNgLbQs8WFNfs"
       },
@@ -541,7 +559,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 181256,
       "name": "Caithness",
       "url": "https://open.spotify.com/track/6qmiDC8t6n6J817uqAhMYE"
@@ -581,6 +599,24 @@
       "duration_ms": 146824,
       "name": "Carpet Ride",
       "url": "https://open.spotify.com/track/4kfcIpwJoHkFbGOX0kmGzX"
+    },
+    {
+      "album": {
+        "name": "Casual",
+        "url": "https://open.spotify.com/album/3ieMsFkfAmnxD3wPyMB3WL"
+      },
+      "artists": [
+        {
+          "name": "Baker St.",
+          "url": "https://open.spotify.com/artist/0k4UL5tOqUHXxJpxM4Wyae"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220431,
+      "name": "Casual",
+      "url": "https://open.spotify.com/track/0l38zb1uYJy2XlSblloL17"
     },
     {
       "album": {
@@ -1057,7 +1093,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 305091,
       "name": "Embraceable You",
       "url": "https://open.spotify.com/track/0TBwVpOEEwPDExkKPtnzef"
@@ -1687,7 +1723,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 238000,
       "name": "I Fall In Love Too Easily",
       "url": "https://open.spotify.com/track/7CFnOzCVrrPbmJk9aCTk9q"
@@ -1975,7 +2011,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 328896,
       "name": "In A Sentimental Mood",
       "url": "https://open.spotify.com/track/4Yei8oBWmxHrq1pruXvB5X"
@@ -2029,7 +2065,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 350254,
       "name": "In the Blue of Evening",
       "url": "https://open.spotify.com/track/3a55Ev3zFKc3P3cNgCUGoq"
@@ -2065,7 +2101,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 242600,
       "name": "In Thoughtful",
       "url": "https://open.spotify.com/track/4xaWsmSgkCOXOaxEF0ofjy"
@@ -2594,6 +2630,24 @@
     },
     {
       "album": {
+        "name": "Laura",
+        "url": "https://open.spotify.com/album/53Vz2jcWzo7abWsSzjBWrj"
+      },
+      "artists": [
+        {
+          "name": "Saginaw Society",
+          "url": "https://open.spotify.com/artist/6DZHD4qSGUFPJVZZARcJDY"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244194,
+      "name": "Laura",
+      "url": "https://open.spotify.com/track/5c6uQOFSUzRGOiEVdDB6Zx"
+    },
+    {
+      "album": {
         "name": "Litania",
         "url": "https://open.spotify.com/album/1h5ET74uSoTx5vr58suMeR"
       },
@@ -3041,6 +3095,24 @@
       "duration_ms": 153287,
       "name": "Mornin",
       "url": "https://open.spotify.com/track/5lKkgKB4yZ6BW0Aps1CKcL"
+    },
+    {
+      "album": {
+        "name": "My First Choice",
+        "url": "https://open.spotify.com/album/23DX1smryDu58RH0nxWHJx"
+      },
+      "artists": [
+        {
+          "name": "Halcyon Jazz Band",
+          "url": "https://open.spotify.com/artist/65v6vabYRS8eorJk8Heb6n"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224463,
+      "name": "My First Choice",
+      "url": "https://open.spotify.com/track/5Hd1LiJmHktsqPpoEKhKGv"
     },
     {
       "album": {
@@ -3656,6 +3728,24 @@
     },
     {
       "album": {
+        "name": "Rising Apple Tree of Hope",
+        "url": "https://open.spotify.com/album/5EBSKClKn3AF6vEwiRqbYz"
+      },
+      "artists": [
+        {
+          "name": "Kingsbury Station",
+          "url": "https://open.spotify.com/artist/0yaQHG0mUFfPP4QerRD3zD"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169686,
+      "name": "Rising Apple Tree of Hope",
+      "url": "https://open.spotify.com/track/3lXhXavD2xl20yELJfAT3U"
+    },
+    {
+      "album": {
         "name": "Sails",
         "url": "https://open.spotify.com/album/5XHGdBZXgVYsADNLTH19Fm"
       },
@@ -3851,7 +3941,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 438625,
       "name": "Skylark",
       "url": "https://open.spotify.com/track/4GMJNNA04YDBVixAWiK5zD"
@@ -4269,6 +4359,24 @@
       "duration_ms": 281400,
       "name": "Stars Fell on Alabama",
       "url": "https://open.spotify.com/track/6i27I5FwSeruTANEO9dyIQ"
+    },
+    {
+      "album": {
+        "name": "Figgy Mold",
+        "url": "https://open.spotify.com/album/4p6Hg570bX3GCNL7mGGzWx"
+      },
+      "artists": [
+        {
+          "name": "Figgy Mold",
+          "url": "https://open.spotify.com/artist/1nr44rcCUJR2qL0SKfCOYF"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208227,
+      "name": "Stella By Starlight",
+      "url": "https://open.spotify.com/track/0RXtnsHGJOHHk1aH3RvTRS"
     },
     {
       "album": {
@@ -4737,6 +4845,24 @@
       "duration_ms": 184877,
       "name": "Time Remembered",
       "url": "https://open.spotify.com/track/2kuCedGQNreDSHNCmxJLwr"
+    },
+    {
+      "album": {
+        "name": "Time To Ponder",
+        "url": "https://open.spotify.com/album/1xcd6r2pl7i1V55S6sEqRL"
+      },
+      "artists": [
+        {
+          "name": "The Lyon Hearts",
+          "url": "https://open.spotify.com/artist/2PmIl3LOJlfzGgWvxrj1Hd"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192803,
+      "name": "Time To Ponder",
+      "url": "https://open.spotify.com/track/4sM2NQDJUC9PRbswwfdFwT"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "A new take on the freshest dance tracks with remixes from Dubdogz & J\u00d8RD, Sonny Fodera, LP Giobbi and more!",
-  "num_followers": 13938,
+  "num_followers": 13952,
   "original_name": "mint Remix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NTc2NTI2MCwwMDAwMDAwMDgxMzZiODY3MzEwYTA2ODk3ZDRmMzY0ZGNkOTZhNDJm",
+  "snapshot_id": "MTY0NTc2NTI2MCwwMDAwMDAwMDZhOGY2MTZhMDUyNTI2N2NjMmM1MDJkNTllZjI5YmFh",
   "tracks": [
     {
       "added_at": "2021-07-30 04:00:00",
@@ -219,26 +219,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Roses (Imanbek Remix)",
-        "url": "https://open.spotify.com/album/6XcYTEonLIpg9NpAbJnqrC"
-      },
-      "artists": [
-        {
-          "name": "SAINt JHN",
-          "url": "https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ"
-        },
-        {
-          "name": "Imanbek",
-          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
-        }
-      ],
-      "duration_ms": 176218,
-      "name": "Roses - Imanbek Remix",
-      "url": "https://open.spotify.com/track/2Wo6QQD1KMDWeFkkjLqwx5"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "Take Your Time (D.O.D Remix)",
         "url": "https://open.spotify.com/album/4O3plD4j9hEQiFr5DkISNB"
       },
@@ -279,6 +259,26 @@
       "duration_ms": 140500,
       "name": "Sweet Dreams (feat. Imanbek) - With Alok",
       "url": "https://open.spotify.com/track/5mnidOH84oGj82xBcypP2j"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "Roses (Imanbek Remix)",
+        "url": "https://open.spotify.com/album/6XcYTEonLIpg9NpAbJnqrC"
+      },
+      "artists": [
+        {
+          "name": "SAINt JHN",
+          "url": "https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ"
+        },
+        {
+          "name": "Imanbek",
+          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
+        }
+      ],
+      "duration_ms": 176218,
+      "name": "Roses - Imanbek Remix",
+      "url": "https://open.spotify.com/track/2Wo6QQD1KMDWeFkkjLqwx5"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -679,22 +679,26 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Get Out My Head (Todd Terry Remix)",
-        "url": "https://open.spotify.com/album/6u0OWvS5IO3r4Mi5P3RH46"
+        "name": "Diplo (Deluxe)",
+        "url": "https://open.spotify.com/album/6zPSpPHyyOkbT8zDy7Kzl7"
       },
       "artists": [
         {
-          "name": "Shane Codd",
-          "url": "https://open.spotify.com/artist/2s7Oijd4mFGgEkhYJtf3sJ"
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
         },
         {
-          "name": "Todd Terry",
-          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
+          "name": "SIDEPIECE",
+          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
+        },
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
         }
       ],
-      "duration_ms": 188575,
-      "name": "Get Out My Head - Todd Terry Remix",
-      "url": "https://open.spotify.com/track/6TmxmvREJqrc1JaZVTzwCL"
+      "duration_ms": 263414,
+      "name": "On My Mind - Purple Disco Machine Remix",
+      "url": "https://open.spotify.com/track/6geg6XWPAxmwlVl8ZNYns0"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -743,6 +747,26 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
+        "name": "Get Out My Head (Todd Terry Remix)",
+        "url": "https://open.spotify.com/album/6u0OWvS5IO3r4Mi5P3RH46"
+      },
+      "artists": [
+        {
+          "name": "Shane Codd",
+          "url": "https://open.spotify.com/artist/2s7Oijd4mFGgEkhYJtf3sJ"
+        },
+        {
+          "name": "Todd Terry",
+          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
+        }
+      ],
+      "duration_ms": 188575,
+      "name": "Get Out My Head - Todd Terry Remix",
+      "url": "https://open.spotify.com/track/6TmxmvREJqrc1JaZVTzwCL"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
         "name": "Neon Jungle Remixes",
         "url": "https://open.spotify.com/album/2DFDsmaWVdYxxkxGaPi2i2"
       },
@@ -759,30 +783,6 @@
       "duration_ms": 249919,
       "name": "Neon Jungle - Lane 8 Remix",
       "url": "https://open.spotify.com/track/4G3qY8rJC9C4BjKpzwsZN3"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
-        "name": "Diplo (Deluxe)",
-        "url": "https://open.spotify.com/album/6zPSpPHyyOkbT8zDy7Kzl7"
-      },
-      "artists": [
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        },
-        {
-          "name": "SIDEPIECE",
-          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
-        },
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-        }
-      ],
-      "duration_ms": 263414,
-      "name": "On My Mind - Purple Disco Machine Remix",
-      "url": "https://open.spotify.com/track/6geg6XWPAxmwlVl8ZNYns0"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -1059,6 +1059,26 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
+        "name": "Strut (Sofi Tukker Remix)",
+        "url": "https://open.spotify.com/album/6ocuXtWD8MENZxginKNy7J"
+      },
+      "artists": [
+        {
+          "name": "Elohim",
+          "url": "https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY"
+        },
+        {
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        }
+      ],
+      "duration_ms": 189965,
+      "name": "Strut - Sofi Tukker Remix",
+      "url": "https://open.spotify.com/track/2XUX1LmtKEISX9Xy0P9lq1"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
         "name": "Burning (Snakehips Remix)",
         "url": "https://open.spotify.com/album/45vKAFdlF1uNhaaBrYwcK2"
       },
@@ -1079,26 +1099,6 @@
       "duration_ms": 179080,
       "name": "Burning - Snakehips Remix",
       "url": "https://open.spotify.com/track/1XRQW5C4WEr0mNc5ygZgAN"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
-        "name": "Strut (Sofi Tukker Remix)",
-        "url": "https://open.spotify.com/album/6ocuXtWD8MENZxginKNy7J"
-      },
-      "artists": [
-        {
-          "name": "Elohim",
-          "url": "https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY"
-        },
-        {
-          "name": "Sofi Tukker",
-          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
-        }
-      ],
-      "duration_ms": 189965,
-      "name": "Strut - Sofi Tukker Remix",
-      "url": "https://open.spotify.com/track/2XUX1LmtKEISX9Xy0P9lq1"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -1159,6 +1159,30 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
+        "name": "BED (Joel Corry VIP Mix)",
+        "url": "https://open.spotify.com/album/7LQyP0CttZ5pgZeM112RHT"
+      },
+      "artists": [
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        },
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 179078,
+      "name": "BED - Joel Corry VIP Mix",
+      "url": "https://open.spotify.com/track/4pyUjXNoZuDXVB9ath5wkT"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
         "name": "Let It Go (with Marc E. Bassy) [Dom Dolla Remix]",
         "url": "https://open.spotify.com/album/1dNdUSIBedHHqM5i8jKPmB"
       },
@@ -1183,30 +1207,6 @@
       "duration_ms": 279948,
       "name": "Let It Go (with Marc E. Bassy) - Dom Dolla Remix",
       "url": "https://open.spotify.com/track/4V3oJg19fIQCbwhGrBES6Y"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
-        "name": "BED (Joel Corry VIP Mix)",
-        "url": "https://open.spotify.com/album/7LQyP0CttZ5pgZeM112RHT"
-      },
-      "artists": [
-        {
-          "name": "Joel Corry",
-          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
-        },
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 179078,
-      "name": "BED - Joel Corry VIP Mix",
-      "url": "https://open.spotify.com/track/4pyUjXNoZuDXVB9ath5wkT"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -1415,30 +1415,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Stars Align (The Remixes)",
-        "url": "https://open.spotify.com/album/3GxU98ArKcm5NVeANn9QSX"
-      },
-      "artists": [
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        },
-        {
-          "name": "Jolin Tsai",
-          "url": "https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL"
-        },
-        {
-          "name": "Alle Farben",
-          "url": "https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo"
-        }
-      ],
-      "duration_ms": 174759,
-      "name": "Stars Align (with Jolin Tsai) [Alle Farben Remix]",
-      "url": "https://open.spotify.com/track/5XXNwkFGSRcv8Gw2hOngBB"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "Higher (feat. iann dior) [VIZE Remix]",
         "url": "https://open.spotify.com/album/4DLOoRFic472ZCoVyZih5J"
       },
@@ -1459,6 +1435,30 @@
       "duration_ms": 151820,
       "name": "Higher (feat. iann dior) - VIZE Remix",
       "url": "https://open.spotify.com/track/7AY9zVsDed72P0CytpQpL3"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "Stars Align (The Remixes)",
+        "url": "https://open.spotify.com/album/3GxU98ArKcm5NVeANn9QSX"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "Jolin Tsai",
+          "url": "https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL"
+        },
+        {
+          "name": "Alle Farben",
+          "url": "https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo"
+        }
+      ],
+      "duration_ms": 174759,
+      "name": "Stars Align (with Jolin Tsai) [Alle Farben Remix]",
+      "url": "https://open.spotify.com/track/5XXNwkFGSRcv8Gw2hOngBB"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -1887,6 +1887,30 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
+        "name": "Nobody (Devault Remix)",
+        "url": "https://open.spotify.com/album/01OOT3N1D5E07vEapwcwDN"
+      },
+      "artists": [
+        {
+          "name": "NOTD",
+          "url": "https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy"
+        },
+        {
+          "name": "Catello",
+          "url": "https://open.spotify.com/artist/4cpqUkL78IoYnEvYj440WE"
+        },
+        {
+          "name": "Devault",
+          "url": "https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL"
+        }
+      ],
+      "duration_ms": 259286,
+      "name": "Nobody - Devault Remix",
+      "url": "https://open.spotify.com/track/0WF8FilL1k9ABgfNEumVUB"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
         "name": "Hearts on Fire (The Remixes)",
         "url": "https://open.spotify.com/album/2V9a4XGtFOYI8UyAwHnYjn"
       },
@@ -1915,30 +1939,6 @@
       "duration_ms": 213878,
       "name": "Hearts on Fire - CORSAK & Willim Remix",
       "url": "https://open.spotify.com/track/5gpy8VcqvPox6XHAIJzuCw"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
-        "name": "Nobody (Devault Remix)",
-        "url": "https://open.spotify.com/album/01OOT3N1D5E07vEapwcwDN"
-      },
-      "artists": [
-        {
-          "name": "NOTD",
-          "url": "https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy"
-        },
-        {
-          "name": "Catello",
-          "url": "https://open.spotify.com/artist/4cpqUkL78IoYnEvYj440WE"
-        },
-        {
-          "name": "Devault",
-          "url": "https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL"
-        }
-      ],
-      "duration_ms": 259286,
-      "name": "Nobody - Devault Remix",
-      "url": "https://open.spotify.com/track/0WF8FilL1k9ABgfNEumVUB"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -1995,26 +1995,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Space (Remixes)",
-        "url": "https://open.spotify.com/album/4s8FtZOAWCXamQjW4SXNpc"
-      },
-      "artists": [
-        {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
-        },
-        {
-          "name": "Nathan Dawe",
-          "url": "https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p"
-        }
-      ],
-      "duration_ms": 143139,
-      "name": "Space - Nathan Dawe Remix",
-      "url": "https://open.spotify.com/track/32WJqqRF1bvWG9EAF54siR"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "Pomegranate (Jay Robinson Remix)",
         "url": "https://open.spotify.com/album/3I4jrDAM138QXgHszi4N8K"
       },
@@ -2035,6 +2015,26 @@
       "duration_ms": 332691,
       "name": "Pomegranate - Jay Robinson Remix",
       "url": "https://open.spotify.com/track/7v94HEWxH9qdM5eAXcY2lR"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "Space (Remixes)",
+        "url": "https://open.spotify.com/album/4s8FtZOAWCXamQjW4SXNpc"
+      },
+      "artists": [
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        },
+        {
+          "name": "Nathan Dawe",
+          "url": "https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p"
+        }
+      ],
+      "duration_ms": 143139,
+      "name": "Space - Nathan Dawe Remix",
+      "url": "https://open.spotify.com/track/32WJqqRF1bvWG9EAF54siR"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -2131,42 +2131,22 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Lifetime Remixes",
-        "url": "https://open.spotify.com/album/4cfOKU0ncsVL4PYaZ1kkiy"
+        "name": "tell me what you\u2019re thinking (Remixes)",
+        "url": "https://open.spotify.com/album/1r9rQcfPM8fatgA50Jzv1B"
       },
       "artists": [
         {
-          "name": "Romy",
-          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
+          "name": "Aviella",
+          "url": "https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe"
         },
         {
-          "name": "Jayda G",
-          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
+          "name": "Disco Fries",
+          "url": "https://open.spotify.com/artist/7G7KvDCLdVG0Ok511Iqc9U"
         }
       ],
-      "duration_ms": 194755,
-      "name": "Lifetime - Jayda G Baleen Mix",
-      "url": "https://open.spotify.com/track/2w3dLUIDO4WqPxTbYEU5B0"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
-        "name": "You've Done Enough (with DRAMA) [The Purple Prince Version]",
-        "url": "https://open.spotify.com/album/2bmFRz4d6TzkxrYLF89Mcn"
-      },
-      "artists": [
-        {
-          "name": "Gorgon City",
-          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
-        },
-        {
-          "name": "DRAMA",
-          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
-        }
-      ],
-      "duration_ms": 185652,
-      "name": "You've Done Enough (with DRAMA) - The Purple Prince Version",
-      "url": "https://open.spotify.com/track/4lxbbQi7S7wVZCuY34xRjv"
+      "duration_ms": 161904,
+      "name": "tell me what you\u2019re thinking - Disco Fries Remix",
+      "url": "https://open.spotify.com/track/1EsVTKU0XQNqaZpazFWJpH"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -2191,22 +2171,42 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "tell me what you\u2019re thinking (Remixes)",
-        "url": "https://open.spotify.com/album/1r9rQcfPM8fatgA50Jzv1B"
+        "name": "You've Done Enough (with DRAMA) [The Purple Prince Version]",
+        "url": "https://open.spotify.com/album/2bmFRz4d6TzkxrYLF89Mcn"
       },
       "artists": [
         {
-          "name": "Aviella",
-          "url": "https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe"
+          "name": "Gorgon City",
+          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
         },
         {
-          "name": "Disco Fries",
-          "url": "https://open.spotify.com/artist/7G7KvDCLdVG0Ok511Iqc9U"
+          "name": "DRAMA",
+          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
         }
       ],
-      "duration_ms": 161904,
-      "name": "tell me what you\u2019re thinking - Disco Fries Remix",
-      "url": "https://open.spotify.com/track/1EsVTKU0XQNqaZpazFWJpH"
+      "duration_ms": 185652,
+      "name": "You've Done Enough (with DRAMA) - The Purple Prince Version",
+      "url": "https://open.spotify.com/track/4lxbbQi7S7wVZCuY34xRjv"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "Lifetime Remixes",
+        "url": "https://open.spotify.com/album/4cfOKU0ncsVL4PYaZ1kkiy"
+      },
+      "artists": [
+        {
+          "name": "Romy",
+          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
+        },
+        {
+          "name": "Jayda G",
+          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
+        }
+      ],
+      "duration_ms": 194755,
+      "name": "Lifetime - Jayda G Baleen Mix",
+      "url": "https://open.spotify.com/track/2w3dLUIDO4WqPxTbYEU5B0"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -2303,6 +2303,26 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
+        "name": "Views of a Room",
+        "url": "https://open.spotify.com/album/6ANwCdQj28Jc1BHsscxInh"
+      },
+      "artists": [
+        {
+          "name": "Rone",
+          "url": "https://open.spotify.com/artist/3Dw9w3jnmr58ocgxiwITcq"
+        },
+        {
+          "name": "Maceo Plex",
+          "url": "https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj"
+        }
+      ],
+      "duration_ms": 373890,
+      "name": "Babel - Maceo Plex Remix",
+      "url": "https://open.spotify.com/track/54y8QNTrKGMfsqbJeykPxK"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
         "name": "Praise (feat. Gunna) [Malaa Remix]",
         "url": "https://open.spotify.com/album/7k2HFlk4QkPRDMLrb4wLif"
       },
@@ -2323,26 +2343,6 @@
       "duration_ms": 269032,
       "name": "Praise (feat. Gunna) - Malaa Remix",
       "url": "https://open.spotify.com/track/4J2lw1uoLmprtkdN4QEHY0"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
-        "name": "Views of a Room",
-        "url": "https://open.spotify.com/album/6ANwCdQj28Jc1BHsscxInh"
-      },
-      "artists": [
-        {
-          "name": "Rone",
-          "url": "https://open.spotify.com/artist/3Dw9w3jnmr58ocgxiwITcq"
-        },
-        {
-          "name": "Maceo Plex",
-          "url": "https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj"
-        }
-      ],
-      "duration_ms": 373890,
-      "name": "Babel - Maceo Plex Remix",
-      "url": "https://open.spotify.com/track/54y8QNTrKGMfsqbJeykPxK"
     },
     {
       "added_at": "2021-07-30 04:00:00",

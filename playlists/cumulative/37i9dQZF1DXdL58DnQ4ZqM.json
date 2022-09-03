@@ -694,6 +694,24 @@
     },
     {
       "album": {
+        "name": "bleep",
+        "url": "https://open.spotify.com/album/2MnmOWac8GbeCedTkbGldw"
+      },
+      "artists": [
+        {
+          "name": "tori yami",
+          "url": "https://open.spotify.com/artist/3ZjRFcfag9ETSC777HOBDx"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127663,
+      "name": "bleep",
+      "url": "https://open.spotify.com/track/0VutyxcmjtC8Bs0QLcyIhb"
+    },
+    {
+      "album": {
         "name": "Morning",
         "url": "https://open.spotify.com/album/0oRYAbRJ0GxQrCV6Hysbh8"
       },
@@ -991,6 +1009,24 @@
       "duration_ms": 108103,
       "name": "Calculator",
       "url": "https://open.spotify.com/track/5ge3MKqV7AvdQmwUnsWaYX"
+    },
+    {
+      "album": {
+        "name": "cellphone",
+        "url": "https://open.spotify.com/album/3kEied4fRNVTQdM34NOdoU"
+      },
+      "artists": [
+        {
+          "name": "Chkody",
+          "url": "https://open.spotify.com/artist/0lpmaOMQwbE7m9MOQjBQuU"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166635,
+      "name": "cellphone",
+      "url": "https://open.spotify.com/track/5ddhmTdHGK4J97AyZgzGKj"
     },
     {
       "album": {
@@ -1483,6 +1519,28 @@
       "duration_ms": 256000,
       "name": "Deep Inside - Chill Mix",
       "url": "https://open.spotify.com/track/5NhOy0YdrJ2eW97aF751AJ"
+    },
+    {
+      "album": {
+        "name": "Desolate",
+        "url": "https://open.spotify.com/album/7nLqAz9Rs7Q6I9zL22Buyw"
+      },
+      "artists": [
+        {
+          "name": "Mariniwa",
+          "url": "https://open.spotify.com/artist/5ggoqTsmvRkOrmqtCSjMPE"
+        },
+        {
+          "name": "Late Night Tones",
+          "url": "https://open.spotify.com/artist/52wkMMF7s4aXTW4WYKvKmC"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147692,
+      "name": "Desolate",
+      "url": "https://open.spotify.com/track/0przNeaLk3vQ3WEdZkZjQO"
     },
     {
       "album": {
@@ -2631,7 +2689,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 214579,
       "name": "Horizon",
       "url": "https://open.spotify.com/track/3XRvk5eVsIoAIOlczehBmD"
@@ -3674,6 +3732,24 @@
     },
     {
       "album": {
+        "name": "Love",
+        "url": "https://open.spotify.com/album/2zc01gDvxUzpgHpmImUXeU"
+      },
+      "artists": [
+        {
+          "name": "Vincent Rayn",
+          "url": "https://open.spotify.com/artist/3zWwvS0OdQwTploEQjT1VG"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157509,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/5KcsUi67kYXlPI1JEgWO5q"
+    },
+    {
+      "album": {
         "name": "love it when we're alone",
         "url": "https://open.spotify.com/album/0Qz3F6AobL9YnI1t6C1XXw"
       },
@@ -4512,6 +4588,28 @@
     },
     {
       "album": {
+        "name": "Noire",
+        "url": "https://open.spotify.com/album/5h1wJvpwXIQYSPiVf8ODAU"
+      },
+      "artists": [
+        {
+          "name": "Dmnnce",
+          "url": "https://open.spotify.com/artist/1MzobgRe9ORnE8nIYGeEVT"
+        },
+        {
+          "name": "Chill Select",
+          "url": "https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124543,
+      "name": "Noire",
+      "url": "https://open.spotify.com/track/6Oa53AsVKqYwE28R68Pyjv"
+    },
+    {
+      "album": {
         "name": "Just Breathe",
         "url": "https://open.spotify.com/album/7oR6ePQufS93SsdWMM4DSH"
       },
@@ -4643,7 +4741,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 214358,
       "name": "Once In A Dream - Chill Original",
       "url": "https://open.spotify.com/track/15axDyGsxMRMbdblfSjSxI"
@@ -4897,6 +4995,24 @@
       "duration_ms": 136859,
       "name": "pizza plus booz",
       "url": "https://open.spotify.com/track/4jogRHPQuTBgzhM0Ude1tK"
+    },
+    {
+      "album": {
+        "name": "plastic flowers",
+        "url": "https://open.spotify.com/album/21hQzh3cGzCmBcf5IL3pN6"
+      },
+      "artists": [
+        {
+          "name": "Rosemary beats",
+          "url": "https://open.spotify.com/artist/1W56U3ujxXcEVxnavW4vJ8"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216338,
+      "name": "plastic flowers",
+      "url": "https://open.spotify.com/track/6i0C20TvKja1NUOmFvkpE2"
     },
     {
       "album": {
@@ -6250,6 +6366,24 @@
     },
     {
       "album": {
+        "name": "supercat",
+        "url": "https://open.spotify.com/album/5X3l3Wd6uzadJ6m5SQG4Lo"
+      },
+      "artists": [
+        {
+          "name": "sl\u00e5n",
+          "url": "https://open.spotify.com/artist/3FtHbjWZC4p0XzS0qbaleC"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111265,
+      "name": "supercat",
+      "url": "https://open.spotify.com/track/3zE7dFBDXnUm99HHzqY1rR"
+    },
+    {
+      "album": {
         "name": "So Far Away, But Still At Home",
         "url": "https://open.spotify.com/album/7nuDIZ0i9y7qPEAw2NY8ve"
       },
@@ -6495,7 +6629,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 275990,
       "name": "The Line",
       "url": "https://open.spotify.com/track/69DWLBhuZDT7LYF4swKDak"
@@ -7142,6 +7276,28 @@
     },
     {
       "album": {
+        "name": "whiskey sour",
+        "url": "https://open.spotify.com/album/1QzDis0oZARpSYyIWaRkHs"
+      },
+      "artists": [
+        {
+          "name": "tezpu",
+          "url": "https://open.spotify.com/artist/4qsNTmhzMYuDilyDFbJFp2"
+        },
+        {
+          "name": "Berezy",
+          "url": "https://open.spotify.com/artist/3XrRt4tc8xQk7ANDbJjZsv"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137142,
+      "name": "whiskey sour",
+      "url": "https://open.spotify.com/track/2gxmc5NdgXjfLOFlAYuDuG"
+    },
+    {
+      "album": {
         "name": "White Heart Sand",
         "url": "https://open.spotify.com/album/5yX6p6KpVVS9iPjWAKFrxd"
       },
@@ -7171,7 +7327,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 353354,
       "name": "White Rim Road",
       "url": "https://open.spotify.com/track/21IrjGlg2fktPvhGdbcL3g"
@@ -7297,7 +7453,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 255974,
       "name": "Wish I Could Fly - Ambient Mix",
       "url": "https://open.spotify.com/track/5t3yeV8dXGYKScVOAVZZqi"
@@ -7405,7 +7561,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 283917,
       "name": "You Are The Sun",
       "url": "https://open.spotify.com/track/28HWI9P6X0wuMSlfCYE5QB"

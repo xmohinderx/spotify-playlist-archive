@@ -1,12 +1,12 @@
 {
   "description": "Set the mood of your day with these happy songs.",
-  "num_followers": 1332682,
+  "num_followers": 1332296,
   "original_name": "Wake Up Happy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTUxNTIwMCwwMDAwMDAwMDJlMjA5NTFkOTI1MDc1ZDIzODhjYmRiY2YxZTU4ZTE5",
+  "snapshot_id": "MTY2MjA5NTU0NiwwMDAwMDAwMGRhOWEzNmUxMzI5NThhNDBmM2M0NTM4ZDNiOTQ4OTgx",
   "tracks": [
     {
       "added_at": "2022-08-26 12:00:00",
@@ -563,22 +563,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Too Rye Ay",
-        "url": "https://open.spotify.com/album/7nCWzcMZanUBPZgZaKpzM6"
-      },
-      "artists": [
-        {
-          "name": "Dexys Midnight Runners",
-          "url": "https://open.spotify.com/artist/4QTVePrFu1xuGM9K0kNXkk"
-        }
-      ],
-      "duration_ms": 287306,
-      "name": "Come On Eileen",
-      "url": "https://open.spotify.com/track/3MrWxJaD2AT0W9DjWF64Vm"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Daydream",
         "url": "https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 243493,
       "name": "Fantasy",
       "url": "https://open.spotify.com/track/6xkryXuiZU360Lngd4sx13"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Too Rye Ay",
+        "url": "https://open.spotify.com/album/7nCWzcMZanUBPZgZaKpzM6"
+      },
+      "artists": [
+        {
+          "name": "Dexys Midnight Runners",
+          "url": "https://open.spotify.com/artist/4QTVePrFu1xuGM9K0kNXkk"
+        }
+      ],
+      "duration_ms": 287306,
+      "name": "Come On Eileen",
+      "url": "https://open.spotify.com/track/3MrWxJaD2AT0W9DjWF64Vm"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -699,22 +699,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "The Album",
-        "url": "https://open.spotify.com/album/5fLOHW1UXr1cJrnXiU3FBt"
-      },
-      "artists": [
-        {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
-        }
-      ],
-      "duration_ms": 243933,
-      "name": "Take A Chance On Me",
-      "url": "https://open.spotify.com/track/5BckPAYcKEJuYs1eV1BHHe"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Doo-Wops & Hooligans",
         "url": "https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 230192,
       "name": "Marry You",
       "url": "https://open.spotify.com/track/22PMfvdz35fFKYnJyMn077"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "The Album",
+        "url": "https://open.spotify.com/album/5fLOHW1UXr1cJrnXiU3FBt"
+      },
+      "artists": [
+        {
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+        }
+      ],
+      "duration_ms": 243933,
+      "name": "Take A Chance On Me",
+      "url": "https://open.spotify.com/track/5BckPAYcKEJuYs1eV1BHHe"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -799,22 +799,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Waking Up",
-        "url": "https://open.spotify.com/album/2pLAOZiilrhOrTQNqrF8qr"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 253306,
-      "name": "Good Life",
-      "url": "https://open.spotify.com/track/6OtCIsQZ64Vs1EbzztvAv4"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Lover",
         "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
       },
@@ -831,18 +815,18 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "The Supremes A' Go-Go (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5fpOmAuZaVyEXPlQ4oOqJ6"
+        "name": "Waking Up",
+        "url": "https://open.spotify.com/album/2pLAOZiilrhOrTQNqrF8qr"
       },
       "artists": [
         {
-          "name": "The Supremes",
-          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
         }
       ],
-      "duration_ms": 167933,
-      "name": "You Can't Hurry Love",
-      "url": "https://open.spotify.com/track/1OppEieGNdItZbE14gLBEv"
+      "duration_ms": 253306,
+      "name": "Good Life",
+      "url": "https://open.spotify.com/track/6OtCIsQZ64Vs1EbzztvAv4"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -863,18 +847,18 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Yesterday, Today, Tomorrow - The Greatest Hits Of Kenny Loggins",
-        "url": "https://open.spotify.com/album/3uN87hwClF0hult2cxMbAW"
+        "name": "The Supremes A' Go-Go (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5fpOmAuZaVyEXPlQ4oOqJ6"
       },
       "artists": [
         {
-          "name": "Kenny Loggins",
-          "url": "https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW"
+          "name": "The Supremes",
+          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
         }
       ],
-      "duration_ms": 220706,
-      "name": "Footloose",
-      "url": "https://open.spotify.com/track/6W2VbtvMrDXm5vYeB7amkO"
+      "duration_ms": 167933,
+      "name": "You Can't Hurry Love",
+      "url": "https://open.spotify.com/track/1OppEieGNdItZbE14gLBEv"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -891,6 +875,22 @@
       "duration_ms": 180644,
       "name": "What A Man Gotta Do",
       "url": "https://open.spotify.com/track/4wNIkl5XGiAACjFBlDWuSd"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Yesterday, Today, Tomorrow - The Greatest Hits Of Kenny Loggins",
+        "url": "https://open.spotify.com/album/3uN87hwClF0hult2cxMbAW"
+      },
+      "artists": [
+        {
+          "name": "Kenny Loggins",
+          "url": "https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW"
+        }
+      ],
+      "duration_ms": 220706,
+      "name": "Footloose",
+      "url": "https://open.spotify.com/track/6W2VbtvMrDXm5vYeB7amkO"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -955,6 +955,22 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
+        "name": "Fine Line",
+        "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 197346,
+      "name": "Treat People With Kindness",
+      "url": "https://open.spotify.com/track/03mMSLEJCPoGJwQhHpN5y0"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
         "name": "I Should Coco",
         "url": "https://open.spotify.com/album/3YfIjaJEWqiSbKPguS9Bxd"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 189109,
       "name": "The Lazy Song",
       "url": "https://open.spotify.com/track/1ExfPZEiahqhLyajhybFeS"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
-        "name": "Fine Line",
-        "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 197346,
-      "name": "Treat People With Kindness",
-      "url": "https://open.spotify.com/track/03mMSLEJCPoGJwQhHpN5y0"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "All In a Night's Work (Expanded Version)",
-        "url": "https://open.spotify.com/album/52BJ1S5NOv7eFD6ZFDZga2"
-      },
-      "artists": [
-        {
-          "name": "KC & The Sunshine Band",
-          "url": "https://open.spotify.com/artist/3mQBpAOMWYqAZyxtyeo4Lo"
-        }
-      ],
-      "duration_ms": 254240,
-      "name": "Give It Up",
-      "url": "https://open.spotify.com/track/3yDhZq8f17SmumVmEyCaRN"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Cloudy Day",
         "url": "https://open.spotify.com/album/3IbmFFjHMuAkhfk1zFDSow"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 185303,
       "name": "Cloudy Day",
       "url": "https://open.spotify.com/track/0mA7zotmg2ZFMRALljdZsS"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "All In a Night's Work (Expanded Version)",
+        "url": "https://open.spotify.com/album/52BJ1S5NOv7eFD6ZFDZga2"
+      },
+      "artists": [
+        {
+          "name": "KC & The Sunshine Band",
+          "url": "https://open.spotify.com/artist/3mQBpAOMWYqAZyxtyeo4Lo"
+        }
+      ],
+      "duration_ms": 254240,
+      "name": "Give It Up",
+      "url": "https://open.spotify.com/track/3yDhZq8f17SmumVmEyCaRN"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -1747,6 +1747,22 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
+        "name": "Your Song",
+        "url": "https://open.spotify.com/album/6lrm01OVZZVmarH2XLSAXZ"
+      },
+      "artists": [
+        {
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+        }
+      ],
+      "duration_ms": 180757,
+      "name": "Your Song",
+      "url": "https://open.spotify.com/track/4c2W3VKsOFoIg2SFaO6DY5"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
         "name": "Wish You Well",
         "url": "https://open.spotify.com/album/1yZZdubJ2rovC4QIBP8riQ"
       },
@@ -1763,22 +1779,6 @@
       "duration_ms": 205653,
       "name": "Wish You Well",
       "url": "https://open.spotify.com/track/1yAPglN5AGf7UoLK062ZYq"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
-        "name": "Your Song",
-        "url": "https://open.spotify.com/album/6lrm01OVZZVmarH2XLSAXZ"
-      },
-      "artists": [
-        {
-          "name": "Rita Ora",
-          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
-        }
-      ],
-      "duration_ms": 180757,
-      "name": "Your Song",
-      "url": "https://open.spotify.com/track/4c2W3VKsOFoIg2SFaO6DY5"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -2007,6 +2007,22 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
+        "name": "Buddy's Song",
+        "url": "https://open.spotify.com/album/7METUyd4PkKZTuen6UqeQz"
+      },
+      "artists": [
+        {
+          "name": "Chesney Hawkes",
+          "url": "https://open.spotify.com/artist/3dipm6p2uAgitwQsOZU5oY"
+        }
+      ],
+      "duration_ms": 223666,
+      "name": "The One and Only",
+      "url": "https://open.spotify.com/track/5o5U2r5F3ojvkhLSqRbY1Y"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
         "name": "Hey! Baby (Deluxe Edition Remastered)",
         "url": "https://open.spotify.com/album/09YAng6bZ2wJVcL3MWVCri"
       },
@@ -2023,18 +2039,18 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Buddy's Song",
-        "url": "https://open.spotify.com/album/7METUyd4PkKZTuen6UqeQz"
+        "name": "Tougher Than Love",
+        "url": "https://open.spotify.com/album/5lwkQjfbO515jO9jwfzs6b"
       },
       "artists": [
         {
-          "name": "Chesney Hawkes",
-          "url": "https://open.spotify.com/artist/3dipm6p2uAgitwQsOZU5oY"
+          "name": "Diana King",
+          "url": "https://open.spotify.com/artist/221iMiF62DFPnVuCLJakP1"
         }
       ],
-      "duration_ms": 223666,
-      "name": "The One and Only",
-      "url": "https://open.spotify.com/track/5o5U2r5F3ojvkhLSqRbY1Y"
+      "duration_ms": 258560,
+      "name": "Shy Guy",
+      "url": "https://open.spotify.com/track/3ldG6XCLDXxWg1N6XhrSKo"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -2067,22 +2083,6 @@
       "duration_ms": 178289,
       "name": "FREEDOM",
       "url": "https://open.spotify.com/track/2QOB5UiRKggr2j9uMD3GYK"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
-        "name": "Tougher Than Love",
-        "url": "https://open.spotify.com/album/5lwkQjfbO515jO9jwfzs6b"
-      },
-      "artists": [
-        {
-          "name": "Diana King",
-          "url": "https://open.spotify.com/artist/221iMiF62DFPnVuCLJakP1"
-        }
-      ],
-      "duration_ms": 258560,
-      "name": "Shy Guy",
-      "url": "https://open.spotify.com/track/3ldG6XCLDXxWg1N6XhrSKo"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -2159,22 +2159,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "What A Night",
-        "url": "https://open.spotify.com/album/5x8srROrtSoC8dCCj6XtHf"
-      },
-      "artists": [
-        {
-          "name": "Flo Rida",
-          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
-        }
-      ],
-      "duration_ms": 124592,
-      "name": "What A Night",
-      "url": "https://open.spotify.com/track/3FUlqltjiMMJdyEPaYAUqK"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Some Kind of Trouble (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5b6T7m3DbNlWTwnaiuic2W"
       },
@@ -2207,18 +2191,18 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Wide Awake",
-        "url": "https://open.spotify.com/album/7h5LfM6tT7v8L2gTyL3Bbz"
+        "name": "What A Night",
+        "url": "https://open.spotify.com/album/5x8srROrtSoC8dCCj6XtHf"
       },
       "artists": [
         {
-          "name": "Parachute",
-          "url": "https://open.spotify.com/artist/2PCUhxD40qlMqsKHjTZD2e"
+          "name": "Flo Rida",
+          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
         }
       ],
-      "duration_ms": 228933,
-      "name": "Without You",
-      "url": "https://open.spotify.com/track/6R6ux6KaKrhAg2EIB2krdU"
+      "duration_ms": 124592,
+      "name": "What A Night",
+      "url": "https://open.spotify.com/track/3FUlqltjiMMJdyEPaYAUqK"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -2235,6 +2219,22 @@
       "duration_ms": 238386,
       "name": "Kids",
       "url": "https://open.spotify.com/track/5mQNY6pTeSDl2doFB7uLbE"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Wide Awake",
+        "url": "https://open.spotify.com/album/7h5LfM6tT7v8L2gTyL3Bbz"
+      },
+      "artists": [
+        {
+          "name": "Parachute",
+          "url": "https://open.spotify.com/artist/2PCUhxD40qlMqsKHjTZD2e"
+        }
+      ],
+      "duration_ms": 228933,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/6R6ux6KaKrhAg2EIB2krdU"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -2307,6 +2307,22 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
+        "name": "Hold My Hand",
+        "url": "https://open.spotify.com/album/6uZYkBePCdUP1LltEt9Qin"
+      },
+      "artists": [
+        {
+          "name": "Jess Glynne",
+          "url": "https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO"
+        }
+      ],
+      "duration_ms": 227343,
+      "name": "Hold My Hand",
+      "url": "https://open.spotify.com/track/1i1rNVtxbE7rdFfpHuNq2j"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
         "name": "Fly Between Falls",
         "url": "https://open.spotify.com/album/22gD4oyFnBAXsHPo2GnI6d"
       },
@@ -2323,22 +2339,6 @@
       "duration_ms": 218973,
       "name": "Girl, I Wanna Lay You Down",
       "url": "https://open.spotify.com/track/4SeSBHW3My7RdB4UW0h1m9"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
-        "name": "Hold My Hand",
-        "url": "https://open.spotify.com/album/6uZYkBePCdUP1LltEt9Qin"
-      },
-      "artists": [
-        {
-          "name": "Jess Glynne",
-          "url": "https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO"
-        }
-      ],
-      "duration_ms": 227343,
-      "name": "Hold My Hand",
-      "url": "https://open.spotify.com/track/1i1rNVtxbE7rdFfpHuNq2j"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -2395,22 +2395,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "single.",
-        "url": "https://open.spotify.com/album/6XeL8rkWXe5pUdg2uGqmak"
-      },
-      "artists": [
-        {
-          "name": "Loote",
-          "url": "https://open.spotify.com/artist/00TKPo9MxwZ0j4ooveIxWZ"
-        }
-      ],
-      "duration_ms": 197146,
-      "name": "Your Side Of The Bed",
-      "url": "https://open.spotify.com/track/3PWKPX3YJAHBL8JozsWTMC"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Glorious",
         "url": "https://open.spotify.com/album/4vzUW9Ehl9eFz59bvzazJ0"
       },
@@ -2423,6 +2407,22 @@
       "duration_ms": 184800,
       "name": "Glorious",
       "url": "https://open.spotify.com/track/0JVonv1gan1gae0mqHnUXm"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "single.",
+        "url": "https://open.spotify.com/album/6XeL8rkWXe5pUdg2uGqmak"
+      },
+      "artists": [
+        {
+          "name": "Loote",
+          "url": "https://open.spotify.com/artist/00TKPo9MxwZ0j4ooveIxWZ"
+        }
+      ],
+      "duration_ms": 197146,
+      "name": "Your Side Of The Bed",
+      "url": "https://open.spotify.com/track/3PWKPX3YJAHBL8JozsWTMC"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -2503,22 +2503,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "The Best of Sam Cooke",
-        "url": "https://open.spotify.com/album/2Dpw2XUAsBvuNdNLarNzz8"
-      },
-      "artists": [
-        {
-          "name": "Sam Cooke",
-          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
-        }
-      ],
-      "duration_ms": 129061,
-      "name": "(What A) Wonderful World",
-      "url": "https://open.spotify.com/track/7N15WWy12QAMpGAh6QMAej"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Lullaby",
         "url": "https://open.spotify.com/album/1SR7c6j94aiuYEhUrfTbZ7"
       },
@@ -2535,6 +2519,22 @@
       "duration_ms": 204022,
       "name": "Lullaby",
       "url": "https://open.spotify.com/track/5xzCzOAOfRi4DOttSzvznR"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "The Best of Sam Cooke",
+        "url": "https://open.spotify.com/album/2Dpw2XUAsBvuNdNLarNzz8"
+      },
+      "artists": [
+        {
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+        }
+      ],
+      "duration_ms": 129061,
+      "name": "(What A) Wonderful World",
+      "url": "https://open.spotify.com/track/7N15WWy12QAMpGAh6QMAej"
     },
     {
       "added_at": "2022-08-26 12:00:00",

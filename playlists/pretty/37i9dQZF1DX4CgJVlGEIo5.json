@@ -1,12 +1,12 @@
 {
   "description": "Cherish the day with these low-key favorites.",
-  "num_followers": 294966,
+  "num_followers": 295028,
   "original_name": "Easy Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODA3MTA4MSwwMDAwMDAwMGYxMTM3NjM4YWE1ZTE1OGZkZGUzNTM0MjUxNGU3NDVm",
+  "snapshot_id": "MTY0ODA3MTA4MSwwMDAwMDAwMGI1Yzk3OGFiYzcxNDllMDY2NjE2ZjE5YjliYjk3NGVk",
   "tracks": [
     {
       "added_at": "2022-03-23 21:31:21",
@@ -251,6 +251,22 @@
     {
       "added_at": "2022-03-23 21:31:21",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5Zi0SV2aU0OjmV9k2K1NVi"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "duration_ms": 204294,
+      "name": "Fool's Gold - Recorded At RAK Studios, London",
+      "url": "https://open.spotify.com/track/3AY6H68WNMDzWw9JhPW4Jv"
+    },
+    {
+      "added_at": "2022-03-23 21:31:21",
+      "album": {
         "name": "Call Me When You Land",
         "url": "https://open.spotify.com/album/0xff0oGrrPLKSbBjXbEZ3D"
       },
@@ -267,22 +283,6 @@
       "duration_ms": 287623,
       "name": "Call Me When You Land",
       "url": "https://open.spotify.com/track/24AlaGqIZd2nUspgzc2ph1"
-    },
-    {
-      "added_at": "2022-03-23 21:31:21",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5Zi0SV2aU0OjmV9k2K1NVi"
-      },
-      "artists": [
-        {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
-        }
-      ],
-      "duration_ms": 204294,
-      "name": "Fool's Gold - Recorded At RAK Studios, London",
-      "url": "https://open.spotify.com/track/3AY6H68WNMDzWw9JhPW4Jv"
     },
     {
       "added_at": "2022-03-23 21:31:21",
@@ -467,18 +467,18 @@
     {
       "added_at": "2022-03-23 21:31:21",
       "album": {
-        "name": "Place We Were Made",
-        "url": "https://open.spotify.com/album/1lFHYunIYd9r5R3dNVpTOT"
+        "name": "Lines",
+        "url": "https://open.spotify.com/album/1UkOPjlvgtqoeeIETfK2fs"
       },
       "artists": [
         {
-          "name": "Maisie Peters",
-          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+          "name": "Charlie Cunningham",
+          "url": "https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6"
         }
       ],
-      "duration_ms": 185274,
-      "name": "Place We Were Made",
-      "url": "https://open.spotify.com/track/0xKGPkn1RLsVifjDs4183v"
+      "duration_ms": 178826,
+      "name": "You Sigh",
+      "url": "https://open.spotify.com/track/2Gsare6GuBE2Ph3zJanNKl"
     },
     {
       "added_at": "2022-03-23 21:31:21",
@@ -515,34 +515,18 @@
     {
       "added_at": "2022-03-23 21:31:21",
       "album": {
-        "name": "Lines",
-        "url": "https://open.spotify.com/album/1UkOPjlvgtqoeeIETfK2fs"
+        "name": "Place We Were Made",
+        "url": "https://open.spotify.com/album/1lFHYunIYd9r5R3dNVpTOT"
       },
       "artists": [
         {
-          "name": "Charlie Cunningham",
-          "url": "https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6"
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
         }
       ],
-      "duration_ms": 178826,
-      "name": "You Sigh",
-      "url": "https://open.spotify.com/track/2Gsare6GuBE2Ph3zJanNKl"
-    },
-    {
-      "added_at": "2022-03-23 21:31:21",
-      "album": {
-        "name": "Issues (Acoustic)",
-        "url": "https://open.spotify.com/album/3VJx9QYw43oSfSBaHCUXYC"
-      },
-      "artists": [
-        {
-          "name": "Julia Michaels",
-          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
-        }
-      ],
-      "duration_ms": 175280,
-      "name": "Issues - Acoustic",
-      "url": "https://open.spotify.com/track/4TqiKcUUvK7y6x6JG5NpJX"
+      "duration_ms": 185274,
+      "name": "Place We Were Made",
+      "url": "https://open.spotify.com/track/0xKGPkn1RLsVifjDs4183v"
     },
     {
       "added_at": "2022-03-23 21:31:21",
@@ -563,6 +547,22 @@
       "duration_ms": 161324,
       "name": "Going In",
       "url": "https://open.spotify.com/track/51Zo4yemKVPqpmRxOZfYiX"
+    },
+    {
+      "added_at": "2022-03-23 21:31:21",
+      "album": {
+        "name": "Issues (Acoustic)",
+        "url": "https://open.spotify.com/album/3VJx9QYw43oSfSBaHCUXYC"
+      },
+      "artists": [
+        {
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+        }
+      ],
+      "duration_ms": 175280,
+      "name": "Issues - Acoustic",
+      "url": "https://open.spotify.com/track/4TqiKcUUvK7y6x6JG5NpJX"
     },
     {
       "added_at": "2022-03-23 21:31:21",
@@ -599,22 +599,6 @@
     {
       "added_at": "2022-03-23 21:31:21",
       "album": {
-        "name": "Fall, Fall, Fall",
-        "url": "https://open.spotify.com/album/0EfqcyLHP03RJpNRyA1MFY"
-      },
-      "artists": [
-        {
-          "name": "Caamp",
-          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
-        }
-      ],
-      "duration_ms": 281180,
-      "name": "Fall, Fall, Fall",
-      "url": "https://open.spotify.com/track/4MEhUxj35YRT7mqMaJgcWB"
-    },
-    {
-      "added_at": "2022-03-23 21:31:21",
-      "album": {
         "name": "Change It All",
         "url": "https://open.spotify.com/album/0dkUKtlAdUxzlhmvS4BVmU"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 247413,
       "name": "Change It All",
       "url": "https://open.spotify.com/track/7lWKpA4JZrGVqYURuz7cnu"
+    },
+    {
+      "added_at": "2022-03-23 21:31:21",
+      "album": {
+        "name": "Fall, Fall, Fall",
+        "url": "https://open.spotify.com/album/0EfqcyLHP03RJpNRyA1MFY"
+      },
+      "artists": [
+        {
+          "name": "Caamp",
+          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
+        }
+      ],
+      "duration_ms": 281180,
+      "name": "Fall, Fall, Fall",
+      "url": "https://open.spotify.com/track/4MEhUxj35YRT7mqMaJgcWB"
     },
     {
       "added_at": "2022-03-23 21:31:21",
@@ -711,22 +711,6 @@
     {
       "added_at": "2022-03-23 21:31:21",
       "album": {
-        "name": "The Wild Swan",
-        "url": "https://open.spotify.com/album/0njBaqTHPEL9qHsrT6NBVz"
-      },
-      "artists": [
-        {
-          "name": "Foy Vance",
-          "url": "https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu"
-        }
-      ],
-      "duration_ms": 229226,
-      "name": "She Burns",
-      "url": "https://open.spotify.com/track/3rUw4cRDeYVZhjkUXBnFUQ"
-    },
-    {
-      "added_at": "2022-03-23 21:31:21",
-      "album": {
         "name": "Can't See Straight (Acoustic)",
         "url": "https://open.spotify.com/album/0FeiXtVLwH2i5Bes9MKeWj"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 188057,
       "name": "Can't See Straight - Acoustic",
       "url": "https://open.spotify.com/track/68xnGmup4wL7Ie4vhy5SOs"
+    },
+    {
+      "added_at": "2022-03-23 21:31:21",
+      "album": {
+        "name": "The Wild Swan",
+        "url": "https://open.spotify.com/album/0njBaqTHPEL9qHsrT6NBVz"
+      },
+      "artists": [
+        {
+          "name": "Foy Vance",
+          "url": "https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu"
+        }
+      ],
+      "duration_ms": 229226,
+      "name": "She Burns",
+      "url": "https://open.spotify.com/track/3rUw4cRDeYVZhjkUXBnFUQ"
     },
     {
       "added_at": "2022-03-23 21:31:21",
@@ -759,22 +759,6 @@
     {
       "added_at": "2022-03-23 21:31:21",
       "album": {
-        "name": "searching for freedom",
-        "url": "https://open.spotify.com/album/01Dk72C4YTgkEHQRzk0rHX"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Alberts",
-          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
-        }
-      ],
-      "duration_ms": 271999,
-      "name": "heartbeat",
-      "url": "https://open.spotify.com/track/78MI46vAPFoPkLBJSgYADP"
-    },
-    {
-      "added_at": "2022-03-23 21:31:21",
-      "album": {
         "name": "History Of A Feeling",
         "url": "https://open.spotify.com/album/0bx5hbIbfqvl6XmqTiGvkt"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 173426,
       "name": "Resentment",
       "url": "https://open.spotify.com/track/2Dms8axOrrjXETwVwtvBF5"
+    },
+    {
+      "added_at": "2022-03-23 21:31:21",
+      "album": {
+        "name": "searching for freedom",
+        "url": "https://open.spotify.com/album/01Dk72C4YTgkEHQRzk0rHX"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Alberts",
+          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
+        }
+      ],
+      "duration_ms": 271999,
+      "name": "heartbeat",
+      "url": "https://open.spotify.com/track/78MI46vAPFoPkLBJSgYADP"
     },
     {
       "added_at": "2022-03-23 21:31:21",
@@ -823,38 +823,6 @@
     {
       "added_at": "2022-03-23 21:31:21",
       "album": {
-        "name": "Lean on Me",
-        "url": "https://open.spotify.com/album/5p1GT6Wdd1DERIG5oTTACX"
-      },
-      "artists": [
-        {
-          "name": "Imaginary Future",
-          "url": "https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF"
-        }
-      ],
-      "duration_ms": 184849,
-      "name": "Lean on Me",
-      "url": "https://open.spotify.com/track/3nluW0s91ld5iOjW9kE5Kg"
-    },
-    {
-      "added_at": "2022-03-23 21:31:21",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6KjX30XbUmMpQoek2DEHie"
-      },
-      "artists": [
-        {
-          "name": "Anderson East",
-          "url": "https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby"
-        }
-      ],
-      "duration_ms": 254834,
-      "name": "Always Be My Baby - Recorded at Sound Stage Nashville",
-      "url": "https://open.spotify.com/track/3QSnkhUvoPS5QogonimPfk"
-    },
-    {
-      "added_at": "2022-03-23 21:31:21",
-      "album": {
         "name": "Silence (Acoustic)",
         "url": "https://open.spotify.com/album/3GCiwl66wCiCt68MVCBp65"
       },
@@ -871,6 +839,22 @@
     {
       "added_at": "2022-03-23 21:31:21",
       "album": {
+        "name": "Lean on Me",
+        "url": "https://open.spotify.com/album/5p1GT6Wdd1DERIG5oTTACX"
+      },
+      "artists": [
+        {
+          "name": "Imaginary Future",
+          "url": "https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF"
+        }
+      ],
+      "duration_ms": 184849,
+      "name": "Lean on Me",
+      "url": "https://open.spotify.com/track/3nluW0s91ld5iOjW9kE5Kg"
+    },
+    {
+      "added_at": "2022-03-23 21:31:21",
+      "album": {
         "name": "Good Woman",
         "url": "https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 216746,
       "name": "Nothing\u2019s Gonna Happen",
       "url": "https://open.spotify.com/track/4WM5HfHQZ0N4o8HDNwRmRk"
+    },
+    {
+      "added_at": "2022-03-23 21:31:21",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6KjX30XbUmMpQoek2DEHie"
+      },
+      "artists": [
+        {
+          "name": "Anderson East",
+          "url": "https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby"
+        }
+      ],
+      "duration_ms": 254834,
+      "name": "Always Be My Baby - Recorded at Sound Stage Nashville",
+      "url": "https://open.spotify.com/track/3QSnkhUvoPS5QogonimPfk"
     },
     {
       "added_at": "2022-03-23 21:31:21",
@@ -919,22 +919,6 @@
     {
       "added_at": "2022-03-23 21:31:21",
       "album": {
-        "name": "Julie Blue",
-        "url": "https://open.spotify.com/album/6uxp18VG6vFW2TmjE0nrPN"
-      },
-      "artists": [
-        {
-          "name": "Joe Purdy",
-          "url": "https://open.spotify.com/artist/3MCxkaTJmYKH0FZbe3rYxa"
-        }
-      ],
-      "duration_ms": 278693,
-      "name": "I Love The Rain The Most",
-      "url": "https://open.spotify.com/track/63ogaJyLqKCR9BUBzmtnIG"
-    },
-    {
-      "added_at": "2022-03-23 21:31:21",
-      "album": {
         "name": "Doves & Ravens",
         "url": "https://open.spotify.com/album/64KvdiGpqwb0Lu1Zn4AcSf"
       },
@@ -951,18 +935,18 @@
     {
       "added_at": "2022-03-23 21:31:21",
       "album": {
-        "name": "Ruins",
-        "url": "https://open.spotify.com/album/5l2Ts5Hd4BN2O28rZksznR"
+        "name": "Julie Blue",
+        "url": "https://open.spotify.com/album/6uxp18VG6vFW2TmjE0nrPN"
       },
       "artists": [
         {
-          "name": "First Aid Kit",
-          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+          "name": "Joe Purdy",
+          "url": "https://open.spotify.com/artist/3MCxkaTJmYKH0FZbe3rYxa"
         }
       ],
-      "duration_ms": 192813,
-      "name": "To Live a Life",
-      "url": "https://open.spotify.com/track/4K00AQLpOhGUdDfDINDfYL"
+      "duration_ms": 278693,
+      "name": "I Love The Rain The Most",
+      "url": "https://open.spotify.com/track/63ogaJyLqKCR9BUBzmtnIG"
     },
     {
       "added_at": "2022-03-23 21:31:21",
@@ -995,6 +979,22 @@
       "duration_ms": 228646,
       "name": "No One's Gonna Love You (Stockholm Version)",
       "url": "https://open.spotify.com/track/371akJ9fYgSkrAFMyWoTdL"
+    },
+    {
+      "added_at": "2022-03-23 21:31:21",
+      "album": {
+        "name": "Ruins",
+        "url": "https://open.spotify.com/album/5l2Ts5Hd4BN2O28rZksznR"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "duration_ms": 192813,
+      "name": "To Live a Life",
+      "url": "https://open.spotify.com/track/4K00AQLpOhGUdDfDINDfYL"
     },
     {
       "added_at": "2022-03-23 21:31:21",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2022-03-23 21:31:21",
       "album": {
-        "name": "Cool Girl",
-        "url": "https://open.spotify.com/album/0TCc51KQYlnJ6WuFOgN6hI"
-      },
-      "artists": [
-        {
-          "name": "dodie",
-          "url": "https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS"
-        }
-      ],
-      "duration_ms": 199384,
-      "name": "Cool Girl",
-      "url": "https://open.spotify.com/track/0FSOenCj42lbikl1vd5ah9"
-    },
-    {
-      "added_at": "2022-03-23 21:31:21",
-      "album": {
         "name": "Mipso",
         "url": "https://open.spotify.com/album/71wj7iB4JXxUUTPosOpXMM"
       },
@@ -1119,6 +1103,22 @@
     {
       "added_at": "2022-03-23 21:31:21",
       "album": {
+        "name": "Cool Girl",
+        "url": "https://open.spotify.com/album/0TCc51KQYlnJ6WuFOgN6hI"
+      },
+      "artists": [
+        {
+          "name": "dodie",
+          "url": "https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS"
+        }
+      ],
+      "duration_ms": 199384,
+      "name": "Cool Girl",
+      "url": "https://open.spotify.com/track/0FSOenCj42lbikl1vd5ah9"
+    },
+    {
+      "added_at": "2022-03-23 21:31:21",
+      "album": {
         "name": "Puppy and a Truck",
         "url": "https://open.spotify.com/album/358Blro4SuMHGHYnH1Tgbl"
       },
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2022-03-23 21:31:21",
       "album": {
-        "name": "Vinter",
-        "url": "https://open.spotify.com/album/6ah9pwb4VzAVru5OahGLxO"
-      },
-      "artists": [
-        {
-          "name": "Emil Landman",
-          "url": "https://open.spotify.com/artist/0TaelSp6OIZw6mzikDmDrB"
-        }
-      ],
-      "duration_ms": 169044,
-      "name": "Little Marks",
-      "url": "https://open.spotify.com/track/3f6CKzOD5zaVvHCOboOp7Y"
-    },
-    {
-      "added_at": "2022-03-23 21:31:21",
-      "album": {
         "name": "Both Ways",
         "url": "https://open.spotify.com/album/1lCMPLXpxu11jKDngB9w8L"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 251324,
       "name": "Another Way",
       "url": "https://open.spotify.com/track/6xU24c00m15ZxjFqmVs0hN"
+    },
+    {
+      "added_at": "2022-03-23 21:31:21",
+      "album": {
+        "name": "Vinter",
+        "url": "https://open.spotify.com/album/6ah9pwb4VzAVru5OahGLxO"
+      },
+      "artists": [
+        {
+          "name": "Emil Landman",
+          "url": "https://open.spotify.com/artist/0TaelSp6OIZw6mzikDmDrB"
+        }
+      ],
+      "duration_ms": 169044,
+      "name": "Little Marks",
+      "url": "https://open.spotify.com/track/3f6CKzOD5zaVvHCOboOp7Y"
     },
     {
       "added_at": "2022-03-23 21:31:21",
@@ -1251,6 +1251,38 @@
     {
       "added_at": "2022-03-23 21:31:21",
       "album": {
+        "name": "Local Valley",
+        "url": "https://open.spotify.com/album/6FtOADddclxzVHrpqCe79m"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
+        }
+      ],
+      "duration_ms": 188080,
+      "name": "Line Of Fire",
+      "url": "https://open.spotify.com/track/2ET7YTxeo4tn7BlUGs3t4Y"
+    },
+    {
+      "added_at": "2022-03-23 21:31:21",
+      "album": {
+        "name": "Signs of Life",
+        "url": "https://open.spotify.com/album/4MOkPB90s3AsnbjNmGJ5x2"
+      },
+      "artists": [
+        {
+          "name": "Foy Vance",
+          "url": "https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu"
+        }
+      ],
+      "duration_ms": 233026,
+      "name": "System",
+      "url": "https://open.spotify.com/track/15mRJR5eMKMtV3e5fU2aDE"
+    },
+    {
+      "added_at": "2022-03-23 21:31:21",
+      "album": {
         "name": "Without People",
         "url": "https://open.spotify.com/album/51tp0W2tRU0IfrNpemM9ra"
       },
@@ -1283,22 +1315,6 @@
     {
       "added_at": "2022-03-23 21:31:21",
       "album": {
-        "name": "Local Valley",
-        "url": "https://open.spotify.com/album/6FtOADddclxzVHrpqCe79m"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
-        }
-      ],
-      "duration_ms": 188080,
-      "name": "Line Of Fire",
-      "url": "https://open.spotify.com/track/2ET7YTxeo4tn7BlUGs3t4Y"
-    },
-    {
-      "added_at": "2022-03-23 21:31:21",
-      "album": {
         "name": "Gravity",
         "url": "https://open.spotify.com/album/5Mx20XChcfUjpjdcJuPeno"
       },
@@ -1315,22 +1331,6 @@
       "duration_ms": 182066,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/5EjG2jgzovOhN3OzWCcbdu"
-    },
-    {
-      "added_at": "2022-03-23 21:31:21",
-      "album": {
-        "name": "Signs of Life",
-        "url": "https://open.spotify.com/album/4MOkPB90s3AsnbjNmGJ5x2"
-      },
-      "artists": [
-        {
-          "name": "Foy Vance",
-          "url": "https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu"
-        }
-      ],
-      "duration_ms": 233026,
-      "name": "System",
-      "url": "https://open.spotify.com/track/15mRJR5eMKMtV3e5fU2aDE"
     },
     {
       "added_at": "2022-03-23 21:31:21",

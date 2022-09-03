@@ -4,7 +4,7 @@
 
 > El inolvidable sonido del amor nunca había estado tan cerca de ti.
 
-109 songs - 5 hr 53 min - [published](https://open.spotify.com/playlist/13iVxCV9Zen1FfBrkzmqw4)
+110 songs - 5 hr 56 min - [published](https://open.spotify.com/playlist/13iVxCV9Zen1FfBrkzmqw4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,8 @@
 | [Cabellitos de Mi Madre](https://open.spotify.com/track/5CEIxkQc67VmkkR2pQljSj) | [Ramón Avilés](https://open.spotify.com/artist/1IJ4cVs5Zjf2445S6ge2R1) | [Poker de Ases](https://open.spotify.com/album/2vbLzJhA0KgGveLxp1qnnK) | 3:00 | 2021-12-17 |  |
 | [Canta Canta](https://open.spotify.com/track/6FmscChYXXYOYMrwMt6CZr) | [Toña "La Negra"](https://open.spotify.com/artist/1SZQKoMtYV7tyEZSagGFio) | [Aquellas Lindas Melodias, Vol\. 9](https://open.spotify.com/album/2gnllsi7CMqa2oo5APO54S) | 2:45 | 2021-12-17 |  |
 | [Cien Años](https://open.spotify.com/track/2PKXhSPdSw8W2KqZZneoy6) | [Infante](https://open.spotify.com/artist/0CUGdPMu03lV9TNf2wjunj) | [30 Grandes De Infante](https://open.spotify.com/album/0AJKbcwcTiVr6bSxZhxIyc) | 3:23 | 2021-12-17 |  |
-| [Cien Años](https://open.spotify.com/track/5CyehZ1DVKSrvwpntww0Md) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Cien Años](https://open.spotify.com/album/1qjnoUsmscffVjof5Q8O9A) | 3:42 | 2021-12-17 |  |
+| [Cien Años](https://open.spotify.com/track/4SL8wbnGRP0nkIYyjeIKRU) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Un Canto por México, Vol\. II](https://open.spotify.com/album/0Ece1my4kjbR0frvMUzRT0) | 3:42 | 2021-12-17 |  |
+| [Cien Años](https://open.spotify.com/track/5CyehZ1DVKSrvwpntww0Md) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Cien Años](https://open.spotify.com/album/1qjnoUsmscffVjof5Q8O9A) | 3:42 | 2021-12-17 | 2022-09-03 |
 | [Cien años](https://open.spotify.com/track/2p5oPFJh3hQTmm0S9QVuTK) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [Colección Mitos Pedro Infante](https://open.spotify.com/album/5wB5GW76Pxi04k2twIkWD5) | 3:22 | 2021-12-17 | 2022-07-29 |
 | [Como Fué](https://open.spotify.com/track/7yvBuMGvWigRvJgwtKEPLD) | [Beny Moré](https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw) | [Benny Moré Mágico](https://open.spotify.com/album/6eR6hzbY2nRAOEn04Ckixb) | 2:58 | 2021-12-17 |  |
 | [Con Tinta Roja](https://open.spotify.com/track/1jVRnGpiEm7GDycDsandp3) | [Los Hermanos Castro](https://open.spotify.com/artist/73bp01vqoNhqJr3sirTzIc) | [20 Años de Amor: Canciones y Recuerdos](https://open.spotify.com/album/1b9ukF4mqdJmqGw2kBViRf) | 2:58 | 2021-12-17 |  |
@@ -37,7 +38,7 @@
 | [Contigo \- Tema Remasterizado](https://open.spotify.com/track/6qvpcGNIOMkim3TZqvGhC6) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Leyendas Solamente Los Mejores](https://open.spotify.com/album/4R4CFtjXHrWFLKYaMs05lC) | 2:51 | 2021-12-17 |  |
 | [Convergencia](https://open.spotify.com/track/7hrfIQSiR8E5uNkzXmQQlB) | [Susana Baca](https://open.spotify.com/artist/1DiaZsjdOzFCdk7Dw9KIs0) | [Estrellas del Bolero: Conexión Lima \- La Habana](https://open.spotify.com/album/15Zd8kkEu47XtHJqIZz9RR) | 2:50 | 2021-12-17 | 2022-07-28 |
 | [Corazoncito](https://open.spotify.com/track/1ZLZh65nKQUKzb4Qss04pu) | [Guiller](https://open.spotify.com/artist/05qMOtzCy90GhGIvelpvaF) | [Serie Majestad: Boleros Cantineros](https://open.spotify.com/album/49O7gVQxbnaxukmGv9i7PC) | 3:12 | 2021-12-17 | 2022-07-27 |
-| [Corazón Herido](https://open.spotify.com/track/3VxjKuDkOsSjVv0PLiRytq) | [Gaby Zevallos](https://open.spotify.com/artist/5VYKwJPKsTeY3mcJk7NlTo) | [La Dama del Bolero](https://open.spotify.com/album/0bCz2IkWynHJzOFb6vkYoF) | 3:10 | 2021-12-17 |  |
+| [Corazón Herido](https://open.spotify.com/track/3VxjKuDkOsSjVv0PLiRytq) | [Gaby Zevallos](https://open.spotify.com/artist/5VYKwJPKsTeY3mcJk7NlTo) | [La Dama del Bolero](https://open.spotify.com/album/0bCz2IkWynHJzOFb6vkYoF) | 3:10 | 2021-12-17 | 2022-09-03 |
 | [Cruel Condena](https://open.spotify.com/track/5AQ5R9Aub1g5b8ZGapJtSX) | [Franklin Cabrejos](https://open.spotify.com/artist/2P2hO7D86NyPtMfxThbisN) | [Grandes del Bolero](https://open.spotify.com/album/0tazysjvIraPaJRG2StAjw) | 2:49 | 2021-12-17 | 2022-07-29 |
 | [Desvelo de Amor](https://open.spotify.com/track/5YDi9Bd66fc44Wiu6wRZB4) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Songs](https://open.spotify.com/album/0KQGOYXK7YdTavxcfDtcmI) | 2:54 | 2021-12-17 | 2022-07-29 |
 | [Desvelo De Amor](https://open.spotify.com/track/5z46fEEorQBtY64lIyyBfo) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD) | [La Tierna, Conmovedora, Bamboleadora](https://open.spotify.com/album/3505DvX9TkUjchDLCeSv5I) | 2:54 | 2021-12-17 |  |
@@ -104,7 +105,7 @@
 | [Señor Abogado](https://open.spotify.com/track/1FxgvTlF1Bq4DyymBjzhMo) | [Jhonny Farfán](https://open.spotify.com/artist/1jkXMtjlfNzgqNkdpOcfB4) | [Serie Majestad: Boleros Cantineros](https://open.spotify.com/album/49O7gVQxbnaxukmGv9i7PC) | 2:42 | 2021-12-17 | 2022-07-29 |
 | [Señor Abogado](https://open.spotify.com/track/1UAtOGKYcUw9b3Kwq9GMPl) | [Johnny Farfán](https://open.spotify.com/artist/0Bwzbgfx2UJ7tiHBs2LHwj) | [La Voz Elegante del Bolero](https://open.spotify.com/album/1JLkMWNGLHIp2KWRWXq39H) | 2:43 | 2021-12-17 |  |
 | [Señor Abogado](https://open.spotify.com/track/5b20eSs2NNL7K1MkW5KiWd) | [Lucho Barrios](https://open.spotify.com/artist/0THtXVjA70xW4Qk9o2YEYh) | [Lucho Barrios \- In Memoriam 1935 \- 2010](https://open.spotify.com/album/0VBFqcD3jsclm0q9Ad5NbS) | 1:53 | 2021-12-17 | 2022-07-29 |
-| [Si No Estás para Mi](https://open.spotify.com/track/3hGqPor9JKVGAMn2GSHyfn) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Aguerrida](https://open.spotify.com/album/45WFleOFs1vRsZ6M3ba1W6) | 3:26 | 2021-12-17 | 2022-08-30 |
+| [Si No Estás para Mi](https://open.spotify.com/track/3hGqPor9JKVGAMn2GSHyfn) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Aguerrida](https://open.spotify.com/album/45WFleOFs1vRsZ6M3ba1W6) | 3:26 | 2021-12-17 |  |
 | [Si Nos Dejan](https://open.spotify.com/track/4FRFwdjDKCD0of1vLLeCoE) | [Los Tres Ases](https://open.spotify.com/artist/2AvUIlDzLMzaxajDtniU4B) | [Fiesta Mexicana en las Voces de los Tres Ases](https://open.spotify.com/album/2RP4ihLMXbkJJWqVLmnKvC) | 3:02 | 2021-12-17 | 2022-07-29 |
 | [Si Nos Dejan \- Remastered](https://open.spotify.com/track/5BOaXQYdApvDBVFCSxd23D) | [Los Tres Ases](https://open.spotify.com/artist/2AvUIlDzLMzaxajDtniU4B) | [Selección Especial \(Remastered\)](https://open.spotify.com/album/5YHzSCQp8knlAlsoEh9DOR) | 3:02 | 2021-12-17 |  |
 | [Si Tú Me Quisieras](https://open.spotify.com/track/3XWCZdvN55Rjly1sSxrXqh) | [Adrian Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8), [Nia Vanie](https://open.spotify.com/artist/2AAkCTYG2KE8Ocl7JK97wD) | [Si Tú Me Quisieras](https://open.spotify.com/album/5jS82FjoNBNMEmcoILh0uE) | 4:21 | 2021-12-17 |  |

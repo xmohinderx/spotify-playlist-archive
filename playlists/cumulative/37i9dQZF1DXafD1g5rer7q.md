@@ -4,7 +4,7 @@
 
 > Create the new vibe by mixing in the retro sounds.
 
-161 songs - 7 hr 44 min - [published](https://open.spotify.com/playlist/6MFAOS4DnvWe0ANdEUS1lG)
+162 songs - 7 hr 46 min - [published](https://open.spotify.com/playlist/6MFAOS4DnvWe0ANdEUS1lG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Give It Up](https://open.spotify.com/track/2jp5Bdo4SQy8ToFSRIvxuQ) | [Firebeatz](https://open.spotify.com/artist/53YSn9tHwGJ6bq5P0gGoYo), [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1) | [Give It Up](https://open.spotify.com/album/1jZWtY4V0i85VKQB8QbQjX) | 2:16 | 2022-04-14 | 2022-07-29 |
 | [Gone Tomorrow](https://open.spotify.com/track/4WXJttCW2oufmQMrMoxjDx) | [The Boy Next Door](https://open.spotify.com/artist/4QfOh8rJ0OddhhXHD5QyWs), [Billy The Kit](https://open.spotify.com/artist/7mHUbNIflNX99gowiCMCwZ), [April Darby](https://open.spotify.com/artist/3hYoiohAx0QaaQ6bKfBmyq) | [Gone Tomorrow](https://open.spotify.com/album/7t7vUNzvXk5q3GAkkvi1eU) | 2:28 | 2022-04-14 | 2022-07-03 |
 | [Goodbye \(feat\. Xillions\)](https://open.spotify.com/track/0ncgj6yTGzZ4GwX2dbXAKE) | [le Shuuk](https://open.spotify.com/artist/7bH17jyjkwMPMh9AS8EH0u), [Xillions](https://open.spotify.com/artist/4bi8SmsdSp5AoD6RFZjyjW) | [Goodbye \(feat\. Xillions\)](https://open.spotify.com/album/2CV0IqmSrtuYH4bo1emCNv) | 2:35 | 2022-04-21 | 2022-05-01 |
+| [Havana](https://open.spotify.com/track/2cMH4ENPzIeKqXS0PbKLoY) | [Prezioso](https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr), [Laurell](https://open.spotify.com/artist/69Pm1OWlxk1tbYphlkcKHR) | [Havana](https://open.spotify.com/album/5RK7gHsV6IJ54NBJxan4fk) | 2:40 | 2022-08-25 |  |
 | [Hear Me Tonight](https://open.spotify.com/track/0v8OKUrqZGoEbgEUXScRSQ) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [THRDL!FE](https://open.spotify.com/artist/04O00MEN0lHEKWTwRjb1nS) | [Hear Me Tonight](https://open.spotify.com/album/2kJHrTUZ21XbtKO9fEFzhG) | 3:08 | 2022-07-28 |  |
 | [Heartbreaker](https://open.spotify.com/track/0VLDuXrmTAS0yo8QZNqf2Q) | [Daniel Blume](https://open.spotify.com/artist/7pbay7w0V7OdIr3jzSRkHj) | [Heartbreaker](https://open.spotify.com/album/0JccnC8ShsdQLhcJk030Rh) | 2:56 | 2022-04-14 | 2022-07-29 |
 | [Heathens](https://open.spotify.com/track/6Hwnp80LRzYPmYiF725R9Q) | [Koosen](https://open.spotify.com/artist/12nEr6QOfSKkiTXjEp8tBB), [Green Bull](https://open.spotify.com/artist/0jRbAcpQhqQJWgtSRG6oYy), [Strange Fruits Music](https://open.spotify.com/artist/3HphLd0XiELTvIPYf55dYC) | [Heathens](https://open.spotify.com/album/0YjtjNxRKbmA9wYfqnNzO5) | 2:00 | 2022-04-14 | 2022-04-21 |
@@ -95,7 +96,7 @@
 | [Monster](https://open.spotify.com/track/0YU17F0BlVXvmx5ytsR43w) | [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Monster](https://open.spotify.com/album/3S7LqjI8EzC8FudcsX2T2W) | 2:34 | 2022-07-28 |  |
 | [More Than Friends](https://open.spotify.com/track/53SnCRcGrB2UCqNGyYZhJD) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [More Than Friends](https://open.spotify.com/album/6A764hvsFQK48oNsYo7q9M) | 2:20 | 2022-07-28 |  |
 | [Move Up](https://open.spotify.com/track/1wyg0x1IvNNSWv8JWxKpRn) | [Autograf](https://open.spotify.com/artist/0FVj4JuzTyudaXAwfqDQ20) | [Move Up](https://open.spotify.com/album/0iX0mDDPY7A5ayoPza4tpK) | 2:59 | 2022-06-30 | 2022-07-24 |
-| [Mr\. Saxobeat](https://open.spotify.com/track/2dmZy75CTSv6BFo7IbO0eK) | [Klaas](https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif) | [Mr\. Saxobeat](https://open.spotify.com/album/70TSV0yHReXgd8pnbnrMmz) | 2:31 | 2022-04-21 |  |
+| [Mr\. Saxobeat](https://open.spotify.com/track/2dmZy75CTSv6BFo7IbO0eK) | [Klaas](https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif) | [Mr\. Saxobeat](https://open.spotify.com/album/70TSV0yHReXgd8pnbnrMmz) | 2:31 | 2022-04-21 | 2022-09-03 |
 | [My Head & My Heart](https://open.spotify.com/track/1KixkQVDUHggZMU9dUobgm) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Heaven & Hell](https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM) | 2:54 | 2022-04-14 |  |
 | [My Heart's Been Waiting for You \(feat\. Duvall\)](https://open.spotify.com/track/5CDdnP62YjCVbp8epDMdLY) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [Duvall](https://open.spotify.com/artist/1h2q9GGssdAOHl86JUZgVc) | [My Heart's Been Waiting For You \(feat\. Duvall\)](https://open.spotify.com/album/1JXZJkssqEVjgN6hE0lVVW) | 3:26 | 2022-06-02 | 2022-07-28 |
 | [My Loneliness \- Jake Tarry Remix](https://open.spotify.com/track/6uqOSS7xyQqAYFSgd7oM0A) | [71 Digits](https://open.spotify.com/artist/7rYojRyXBLPrX6UWfnAkaC), [Jake Tarry](https://open.spotify.com/artist/7qIllFUqzpSFXfdcwQlP7r) | [My Loneliness \(Jake Tarry Remix\)](https://open.spotify.com/album/2bLmdVUZ5XNg5kz5FGMF7E) | 2:41 | 2022-04-14 | 2022-07-29 |

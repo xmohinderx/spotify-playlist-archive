@@ -1,29 +1,13 @@
 {
-  "description": "Hip-hop\u00a0mexicano,\u00a0rimas de la calle,\u00a0en viva voz de Gera MX.",
-  "num_followers": 576289,
+  "description": "Hip-hop\u00a0mexicano,\u00a0rimas de la calle,\u00a0en viva voz de Santa Fe Klan.",
+  "num_followers": 576699,
   "original_name": "Arena Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQ0ODg1MiwwMDAwMDAwMDc2OWI2YTBiMjAzYTc2ODBlNzJjMTFmNzRhYzMzMmE0",
+  "snapshot_id": "MTY2MjA4OTEzMCwwMDAwMDAwMDFjZjhmYzRkNWM2MjViMGI2M2RiMWI1ZDNlOTJkZTky",
   "tracks": [
-    {
-      "added_at": "2022-08-25 17:32:17",
-      "album": {
-        "name": "No Ten\u00edamos Nada, Pero \u00c9ramos Felices",
-        "url": "https://open.spotify.com/album/23c29N9eKBUKm7sljfJMgs"
-      },
-      "artists": [
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        }
-      ],
-      "duration_ms": 200253,
-      "name": "Pap\u00e1",
-      "url": "https://open.spotify.com/track/6LqI79HurtSLxv8ulJohvG"
-    },
     {
       "added_at": "2022-08-25 17:32:17",
       "album": {
@@ -43,6 +27,66 @@
       "duration_ms": 181765,
       "name": "Ll\u00e9vame",
       "url": "https://open.spotify.com/track/0eduCnvSAPlph82xkBOGsY"
+    },
+    {
+      "added_at": "2022-09-02 03:25:30",
+      "album": {
+        "name": "El D\u00eda de Nuestra Suerte",
+        "url": "https://open.spotify.com/album/1OX990RQ1SpGmMyDFVUKoK"
+      },
+      "artists": [
+        {
+          "name": "Eme MalaFe",
+          "url": "https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi"
+        },
+        {
+          "name": "C-Kan",
+          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
+        }
+      ],
+      "duration_ms": 241031,
+      "name": "El D\u00eda de Nuestra Suerte",
+      "url": "https://open.spotify.com/track/3mRNhbCKWupqs2F6VwFUMu"
+    },
+    {
+      "added_at": "2022-08-25 17:32:17",
+      "album": {
+        "name": "Lejos de Ti",
+        "url": "https://open.spotify.com/album/1dWLpH4Z7QFzSTyjEM5WIi"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        },
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        }
+      ],
+      "duration_ms": 220612,
+      "name": "Lejos de Ti",
+      "url": "https://open.spotify.com/track/5B26ba8DVAD18tstVEwcOW"
+    },
+    {
+      "added_at": "2022-08-25 17:32:17",
+      "album": {
+        "name": "Suena En Mi Barrio",
+        "url": "https://open.spotify.com/album/5CI5uDMVwq1peqgm0nAO5c"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        },
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        }
+      ],
+      "duration_ms": 233142,
+      "name": "Suena En Mi Barrio",
+      "url": "https://open.spotify.com/track/74yqnVCGQpA9zGTTmBJe6C"
     },
     {
       "added_at": "2022-08-25 17:32:17",
@@ -71,42 +115,6 @@
       "duration_ms": 207218,
       "name": "C\u00f3mo Diamante",
       "url": "https://open.spotify.com/track/76j6ISLdqxSKJBNGLL0fPb"
-    },
-    {
-      "added_at": "2022-08-25 17:32:17",
-      "album": {
-        "name": "Suena En Mi Barrio",
-        "url": "https://open.spotify.com/album/5CI5uDMVwq1peqgm0nAO5c"
-      },
-      "artists": [
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        },
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        }
-      ],
-      "duration_ms": 233142,
-      "name": "Suena En Mi Barrio",
-      "url": "https://open.spotify.com/track/74yqnVCGQpA9zGTTmBJe6C"
-    },
-    {
-      "added_at": "2022-08-25 17:32:17",
-      "album": {
-        "name": "Ahora Tengo Todo Menos A Ti",
-        "url": "https://open.spotify.com/album/44cLix04JOwkepKq6nIUFL"
-      },
-      "artists": [
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        }
-      ],
-      "duration_ms": 189000,
-      "name": "Santo Grial",
-      "url": "https://open.spotify.com/track/2Yf1mFq3vuZKGKwolRVqsJ"
     },
     {
       "added_at": "2022-08-25 17:32:17",
@@ -203,62 +211,6 @@
       "duration_ms": 185870,
       "name": "Mar y Tierra",
       "url": "https://open.spotify.com/track/3lz3pZ0Jd5XtB4PfgvcHg1"
-    },
-    {
-      "added_at": "2022-08-25 17:32:17",
-      "album": {
-        "name": "Lejos de Ti",
-        "url": "https://open.spotify.com/album/1dWLpH4Z7QFzSTyjEM5WIi"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        },
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        }
-      ],
-      "duration_ms": 220612,
-      "name": "Lejos de Ti",
-      "url": "https://open.spotify.com/track/5B26ba8DVAD18tstVEwcOW"
-    },
-    {
-      "added_at": "2022-08-25 17:32:17",
-      "album": {
-        "name": "Mundo",
-        "url": "https://open.spotify.com/album/1ZSEd6KC03jopwyB22gaK9"
-      },
-      "artists": [
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        }
-      ],
-      "duration_ms": 254322,
-      "name": "Demasiado Tarde",
-      "url": "https://open.spotify.com/track/0F3QlgOx1MR7JSvrWDWaz3"
-    },
-    {
-      "added_at": "2022-08-25 17:32:17",
-      "album": {
-        "name": "Kiubole",
-        "url": "https://open.spotify.com/album/0LlWwpKdaI8CXtW2fzO1WD"
-      },
-      "artists": [
-        {
-          "name": "Under Side 821",
-          "url": "https://open.spotify.com/artist/2NtN73hhhgFt2NmbBOlFz1"
-        },
-        {
-          "name": "Richard Ahumada",
-          "url": "https://open.spotify.com/artist/4oR06FdpsOJTcTnOkSzUsC"
-        }
-      ],
-      "duration_ms": 294441,
-      "name": "Kiubole",
-      "url": "https://open.spotify.com/track/6FudvuBPvdFmmriJLEttGd"
     },
     {
       "added_at": "2022-08-25 17:32:17",
@@ -755,6 +707,30 @@
       "duration_ms": 227750,
       "name": "En El Avi\u00f3n",
       "url": "https://open.spotify.com/track/42u9e0pWIPYcaPERtBSJda"
+    },
+    {
+      "added_at": "2022-09-02 03:25:30",
+      "album": {
+        "name": "Socios II",
+        "url": "https://open.spotify.com/album/1tJRUkjWI6rY1pDmVoCaCZ"
+      },
+      "artists": [
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Samantha Barr\u00f3n",
+          "url": "https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk"
+        }
+      ],
+      "duration_ms": 237500,
+      "name": "Te Escondes",
+      "url": "https://open.spotify.com/track/5bzIKQnnY1aM9evAj1sZiZ"
     },
     {
       "added_at": "2022-08-25 17:32:17",
@@ -1681,6 +1657,22 @@
       "url": "https://open.spotify.com/track/721PP2J5zjvLgZB2dd2jEr"
     },
     {
+      "added_at": "2022-09-02 03:25:30",
+      "album": {
+        "name": "El G.O.A.T.",
+        "url": "https://open.spotify.com/album/1qI8dDPrB4jO8JmfPigBBC"
+      },
+      "artists": [
+        {
+          "name": "Aczino",
+          "url": "https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X"
+        }
+      ],
+      "duration_ms": 255306,
+      "name": "El G.O.A.T.",
+      "url": "https://open.spotify.com/track/0gsXBDtQMWBJPpl58X2fNO"
+    },
+    {
       "added_at": "2022-08-25 17:32:17",
       "album": {
         "name": "Pesadilla en el Cielo",
@@ -1795,6 +1787,22 @@
       "duration_ms": 257174,
       "name": "La Muerte Se Fue",
       "url": "https://open.spotify.com/track/7GNwZl8lvyf4jELBSQNX5v"
+    },
+    {
+      "added_at": "2022-09-02 03:25:30",
+      "album": {
+        "name": "Don Quijote",
+        "url": "https://open.spotify.com/album/1kaqwJoaGilRwKnrJ5wjv6"
+      },
+      "artists": [
+        {
+          "name": "Proof",
+          "url": "https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd"
+        }
+      ],
+      "duration_ms": 162007,
+      "name": "Don Quijote",
+      "url": "https://open.spotify.com/track/76IsXl3qjqwdi0i5T7JlYj"
     },
     {
       "added_at": "2022-08-25 17:32:17",

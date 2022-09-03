@@ -4654,6 +4654,24 @@
     },
     {
       "album": {
+        "name": "Try Me",
+        "url": "https://open.spotify.com/album/2rZztGcRl9pUAbSfEQshRC"
+      },
+      "artists": [
+        {
+          "name": "OCULA",
+          "url": "https://open.spotify.com/artist/2VzzhmEHXT4nGim8nBw4ij"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194125,
+      "name": "Try Me",
+      "url": "https://open.spotify.com/track/2x4X4bn0hzj2AJLC7jPfJa"
+    },
+    {
+      "album": {
         "name": "Turn It Up",
         "url": "https://open.spotify.com/album/6uE9OqskHZdqjKMvwf8GYf"
       },
@@ -5083,6 +5101,24 @@
       "duration_ms": 148800,
       "name": "WYGD",
       "url": "https://open.spotify.com/track/2TRhRhzp9xGrS7yWtDJili"
+    },
+    {
+      "album": {
+        "name": "Yesterday",
+        "url": "https://open.spotify.com/album/0MU0ovgIP5zFj9CJLbkTaM"
+      },
+      "artists": [
+        {
+          "name": "No Mana",
+          "url": "https://open.spotify.com/artist/20yuGdfbRkW0HH3OfG1Nkg"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273750,
+      "name": "Yesterday",
+      "url": "https://open.spotify.com/track/6Wz9kNEppcp9U6jHptH6sQ"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "The hottest Latin pop hits right now. Cover: Reik & Sech.",
+  "description": "The hottest Latin pop hits right now. Cover: Nicki Nicole",
   "name": "Latin Pop Today",
   "published_playlist_ids": [
     "1C2XqxMOTFW3XGWn44uwXh"
@@ -19,10 +19,36 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 159200,
       "name": "12x3",
       "url": "https://open.spotify.com/track/0HINQFSerZ6iMfSsaTO3G5"
+    },
+    {
+      "album": {
+        "name": "12x3 Remix (with Micro TDH & Rusherking)",
+        "url": "https://open.spotify.com/album/6kjJ9YLK0ZNTajArpF95qY"
+      },
+      "artists": [
+        {
+          "name": "DEKKO",
+          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
+        },
+        {
+          "name": "Micro TDH",
+          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
+        },
+        {
+          "name": "Rusherking",
+          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219906,
+      "name": "12x3 Remix (with Micro TDH & Rusherking)",
+      "url": "https://open.spotify.com/track/3nl2V4yl1Vt8EJSM8RhSmJ"
     },
     {
       "album": {
@@ -1998,6 +2024,28 @@
     },
     {
       "album": {
+        "name": "Miami",
+        "url": "https://open.spotify.com/album/3R3Kay5sDK4v3931l4evLG"
+      },
+      "artists": [
+        {
+          "name": "CNCO",
+          "url": "https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225161,
+      "name": "Miami",
+      "url": "https://open.spotify.com/track/0969BXUHWVqlmZa7zhuuRV"
+    },
+    {
+      "album": {
         "name": "Mon Amour (Remix)",
         "url": "https://open.spotify.com/album/4TWsxSw8df17aja6JSaar5"
       },
@@ -2115,6 +2163,24 @@
       "duration_ms": 185253,
       "name": "No Te Olvido",
       "url": "https://open.spotify.com/track/7HqIAVm70XTRuy61urYpLT"
+    },
+    {
+      "album": {
+        "name": "Nobody Like Yo",
+        "url": "https://open.spotify.com/album/2NhtV3QHi04aqmbnaLCEYJ"
+      },
+      "artists": [
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154666,
+      "name": "Nobody Like Yo",
+      "url": "https://open.spotify.com/track/5ETecrJ4HK8qglSLq382hG"
     },
     {
       "album": {
@@ -2691,6 +2757,28 @@
       "duration_ms": 181316,
       "name": "Simplemente Pasan",
       "url": "https://open.spotify.com/track/4RAJ1h4eqt2dHR6FyyiZLM"
+    },
+    {
+      "album": {
+        "name": "Sin Fin",
+        "url": "https://open.spotify.com/album/6bcsXfLlMTAWGWdWofzM2l"
+      },
+      "artists": [
+        {
+          "name": "Romeo Santos",
+          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+        },
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234666,
+      "name": "Sin Fin",
+      "url": "https://open.spotify.com/track/3qaHzxjNtFU7QiEuhGx70x"
     },
     {
       "album": {

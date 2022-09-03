@@ -1402,6 +1402,28 @@
     },
     {
       "album": {
+        "name": "Various Artists - Hive Audio 10 Years, Pt. 2",
+        "url": "https://open.spotify.com/album/7INr0oyKjX8oeRRyiKpudX"
+      },
+      "artists": [
+        {
+          "name": "Definition",
+          "url": "https://open.spotify.com/artist/7KT19dObRj1T5OgnyQFm4C"
+        },
+        {
+          "name": "Natascha Polk\u00e9",
+          "url": "https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 452017,
+      "name": "Haunted",
+      "url": "https://open.spotify.com/track/1TEuKXtzs6yLXKAOBLNsvT"
+    },
+    {
+      "album": {
         "name": "HAYII",
         "url": "https://open.spotify.com/album/73IrTAOufu4VMnQqcKw1za"
       },
@@ -1563,7 +1585,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 217104,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/6kG8jzJh9Wm4TRyMcX47xV"
@@ -1651,7 +1673,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 455714,
       "name": "I Want To Be A Tree - Franca Remix",
       "url": "https://open.spotify.com/track/1sEl6Uga1CfJbkoYd3Dwy2"
@@ -2234,6 +2256,24 @@
     },
     {
       "album": {
+        "name": "Melissa",
+        "url": "https://open.spotify.com/album/1A1S0M1PaKUr0F3gItBuu2"
+      },
+      "artists": [
+        {
+          "name": "SIS",
+          "url": "https://open.spotify.com/artist/4wzvXCxUnFdUjNgTwqPOf3"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 424500,
+      "name": "Melissa",
+      "url": "https://open.spotify.com/track/4BohvnbdJNs4HRNgQP7teT"
+    },
+    {
+      "album": {
         "name": "Perspective EP",
         "url": "https://open.spotify.com/album/0xZahoke4fTh9QtdCcduwh"
       },
@@ -2347,7 +2387,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 438533,
       "name": "Neunivai - Original Mix",
       "url": "https://open.spotify.com/track/3S8gi2Vq1t8bKysBJ4783m"
@@ -2605,6 +2645,32 @@
       "duration_ms": 196822,
       "name": "Olatu",
       "url": "https://open.spotify.com/track/6yeNK7QQ1dybAnnzIkIGDJ"
+    },
+    {
+      "album": {
+        "name": "on air (versions)",
+        "url": "https://open.spotify.com/album/2ltBFYq68lULx7AJBiluG6"
+      },
+      "artists": [
+        {
+          "name": "always centered at night",
+          "url": "https://open.spotify.com/artist/2g7F60LTm23xTIRugl1Ovw"
+        },
+        {
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+        },
+        {
+          "name": "serpentwithfeet",
+          "url": "https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 556385,
+      "name": "on air (4am version)",
+      "url": "https://open.spotify.com/track/15hu6iVm3TP4PQniXkkFCN"
     },
     {
       "album": {
@@ -4085,7 +4151,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 460000,
       "name": "Wolfgang",
       "url": "https://open.spotify.com/track/7fKQzhjitdrzOeJh43aydQ"
@@ -4107,6 +4173,24 @@
       "duration_ms": 287451,
       "name": "Woodstock",
       "url": "https://open.spotify.com/track/3g4avljMWYvDFkCJHkuMf1"
+    },
+    {
+      "album": {
+        "name": "World Turns",
+        "url": "https://open.spotify.com/album/7K8RJNBjoUJrM9mnXQrqfn"
+      },
+      "artists": [
+        {
+          "name": "Rival Consoles",
+          "url": "https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323919,
+      "name": "World Turns",
+      "url": "https://open.spotify.com/track/4JHtCJCbj7RcxfMQtCGOF4"
     },
     {
       "album": {

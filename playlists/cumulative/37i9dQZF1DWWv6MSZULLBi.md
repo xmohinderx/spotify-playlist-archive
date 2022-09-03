@@ -2,9 +2,9 @@
 
 ### [Folk & Friends](https://open.spotify.com/playlist/37i9dQZF1DWWv6MSZULLBi)
 
-> A laid\-back trip in the folk scene\. Cover: Ocie Elliott
+> A laid\-back trip in the folk scene\. Cover: Billy Raffoul
 
-182 songs - 10 hr 50 min - [published](https://open.spotify.com/playlist/5U0EeaLNxWf1VoBuo6txNc)
+185 songs - 10 hr 59 min - [published](https://open.spotify.com/playlist/5U0EeaLNxWf1VoBuo6txNc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Beautifully Black](https://open.spotify.com/track/0EgaO4boPVHe3Kk1sNUdMB) | [Rahael](https://open.spotify.com/artist/3oldP3klCA3xONdq9IW6YJ) | [Beautifully Black](https://open.spotify.com/album/74Ps9MKdrjQwRHY4rryHCG) | 3:05 | 2022-05-13 | 2022-06-11 |
 | [Before the Fall](https://open.spotify.com/track/2KQmCj4MpTZUKyOVo2sGQZ) | [afternoon bike ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9), [Ryan Hemsworth](https://open.spotify.com/artist/2CgysNw5B7rFNRtRjQbPZ9) | [Afternoon Bike Ride](https://open.spotify.com/album/6JO6ME8KqaBNAzrJg05yZT) | 2:59 | 2022-08-30 |  |
 | [Begin Again](https://open.spotify.com/track/02TKEQYD6jLEB0cYpBflFE) | [Rose Cousins](https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ) | [Begin Again](https://open.spotify.com/album/5XSgaLPBoAAno2FwKhaIHl) | 3:19 | 2022-05-13 | 2022-08-27 |
+| [Better](https://open.spotify.com/track/0JHKOlL6X1BG2nigAlfI45) | [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [Better](https://open.spotify.com/album/0lEAuFnxxO1j2umUmgrz5h) | 2:35 | 2022-09-02 |  |
 | [Blue Heron](https://open.spotify.com/track/4wtmy1jLQze3so4AYW7u0J) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Blue Heron Suite](https://open.spotify.com/album/3FK0O5gu17HYHEtbelgZaV) | 4:28 | 2022-05-13 | 2022-05-28 |
 | [Call You in the Morning](https://open.spotify.com/track/6pmtIWAw69AvKnajOPGVtz) | [Tom Rosenthal](https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB) | [Call You in the Morning](https://open.spotify.com/album/3IO0Epg4XkvOaES3dfTCXB) | 2:12 | 2022-06-10 | 2022-07-30 |
 | [Cannibal](https://open.spotify.com/track/4n0dJRuYwfluS0Mr6VIy2U) | [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB) | [Cannibal](https://open.spotify.com/album/4yG4NHC6KqlBTiCClOIome) | 4:00 | 2022-07-22 |  |
@@ -48,7 +49,7 @@
 | [Don't Feel Like Crying](https://open.spotify.com/track/7rbLQE71YypSgiewESHiiw) | [The Bros\. Landreth](https://open.spotify.com/artist/7aW0i5ASfG998fHzkNDniL), [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [Come Morning](https://open.spotify.com/album/70Lbc0nDNzvJb4UBDXVU6K) | 4:13 | 2022-05-13 |  |
 | [drowning](https://open.spotify.com/track/2CCMmAVXaG3LO2t3Aj4L5G) | [benjamiin](https://open.spotify.com/artist/7lSd5x0viArJytZV25tY2Y) | [drowning](https://open.spotify.com/album/5Ytwvvh8F2E4pszQQFFv7i) | 3:06 | 2022-08-19 |  |
 | [Echo](https://open.spotify.com/track/0XuSeDzApPW3VEeMM2G4ei) | [Alysha Brilla](https://open.spotify.com/artist/72McluarQZqpzSS95goQ0Q) | [Echo](https://open.spotify.com/album/4IF5F9A68n96gZd9uJTY7A) | 2:34 | 2022-06-10 | 2022-08-27 |
-| [EMPATHY 4 BETHANY](https://open.spotify.com/track/6Ly65M250uqDVZfj2Z0LdH) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [EMPATHY 4 BETHANY / GREEN APPLE \(EVERY NIGHT I RIDE NIGHT MARES\)](https://open.spotify.com/album/6sQW60NQvtOAjWhysIEO8q) | 4:54 | 2022-05-27 |  |
+| [EMPATHY 4 BETHANY](https://open.spotify.com/track/6Ly65M250uqDVZfj2Z0LdH) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [EMPATHY 4 BETHANY / GREEN APPLE \(EVERY NIGHT I RIDE NIGHT MARES\)](https://open.spotify.com/album/6sQW60NQvtOAjWhysIEO8q) | 4:54 | 2022-05-27 | 2022-09-03 |
 | [Endless Time](https://open.spotify.com/track/1JS1QZwFXKVCdJPxoUAwrl) | [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [How Is It That I Should Look At The Stars](https://open.spotify.com/album/6GgHy26g1ILOtU9hkrHbLb) | 4:20 | 2022-05-13 | 2022-06-04 |
 | [Every Beginning Ends](https://open.spotify.com/track/7lagLMBTqqOkta5eqRfNXc) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Benjamin Gibbard](https://open.spotify.com/artist/4CvZd3qzC2HbLxAoAEBRIL) | [Every Beginning Ends](https://open.spotify.com/album/7pHo5Tov9GyzVnBLxPuHYB) | 2:30 | 2022-08-26 |  |
 | [Every Shade of Blue](https://open.spotify.com/track/1cKWyEiGWLXAUTz6jI1d7c) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Every Shade of Blue](https://open.spotify.com/album/4ee1hU8IWOpRMN7GNjZ4Nf) | 3:33 | 2022-05-13 | 2022-07-09 |
@@ -61,6 +62,7 @@
 | [fetishizing struggle](https://open.spotify.com/track/24cn0KF3x38uSQ9NOMSuPQ) | [Hayley Gene Penner](https://open.spotify.com/artist/1ytHo44bNtIESiArfclJPe) | [fetishizing struggle](https://open.spotify.com/album/4eTyK0eoBFOF86ItFBKCtV) | 2:55 | 2022-05-13 | 2022-06-04 |
 | [flowers in the garden](https://open.spotify.com/track/1HModMENiKhlpB1P16bKMk) | [Group Project](https://open.spotify.com/artist/7gGjxniWt0ovSoAY7440o1) | [flowers in the garden](https://open.spotify.com/album/1KQvHodSIwDWG6R2Oevl5L) | 2:54 | 2022-05-13 | 2022-07-09 |
 | [Friends Are Miracles](https://open.spotify.com/track/0q2HapDSEvu9paa4xtabf4) | [Le Ren](https://open.spotify.com/artist/338ANSuWEHPphBye1qDGvF) | [Leftovers](https://open.spotify.com/album/3sZSRQklzPHi3IY6fPi6FK) | 3:17 | 2022-05-13 |  |
+| [From This Moment On](https://open.spotify.com/track/0AHnNbTIvus8ySn5X0gCVn) | [Geneviève Racette](https://open.spotify.com/artist/3puoZ6FIQPCCA2mX9Yh6fU) | [From This Moment On](https://open.spotify.com/album/2h8NIimdYYSdZBs0jLSXtI) | 4:06 | 2022-09-02 |  |
 | [Get Well](https://open.spotify.com/track/3TLoHaTjiHZa8smASRwzXk) | [Elissa Mielke](https://open.spotify.com/artist/0pu3ESGhCGupolNCwxDCOw) | [Get Well / Body Knows](https://open.spotify.com/album/16aw3U3CBhtms6esqGw6xM) | 4:04 | 2022-07-29 |  |
 | [Gone \(Away\)](https://open.spotify.com/track/6UCdCOFnahKI4yjILCPn3H) | [Ryan Harris](https://open.spotify.com/artist/38Cj253ij4uQ7Rce6tArIG) | [Gone \(Away\)](https://open.spotify.com/album/4vnVye9NBADjq2dYAinjMR) | 2:46 | 2022-08-26 |  |
 | [Greyhound](https://open.spotify.com/track/2c7BU7qdz3xGSndyj5OQKN) | [Benjamin Dakota Rogers](https://open.spotify.com/artist/255w1O3tp19jnUZPI6cMVL) | [Greyhound](https://open.spotify.com/album/65CRcFpY94KnI8NGo6Ezq5) | 4:15 | 2022-08-26 |  |
@@ -138,8 +140,8 @@
 | [Sleepyhead](https://open.spotify.com/track/5Y7XtAMfHNWOURJtdph6c7) | [Terra Lightfoot](https://open.spotify.com/artist/2LnGGtWA0aGHKW0hRghrWq) | [Sleepyhead](https://open.spotify.com/album/4wLqxmIiPSH6scEmssD5Wv) | 3:08 | 2022-05-13 | 2022-07-30 |
 | [Snake](https://open.spotify.com/track/3AYCM68uOBBJohCXZ107P0) | [Jason Bajada](https://open.spotify.com/artist/6yzmiHzZ0TIQTGyxqga04p) | [Snake](https://open.spotify.com/album/0dryzQjbnmvdyOVr2q4Rkr) | 4:04 | 2022-05-13 |  |
 | [Snowy Owl](https://open.spotify.com/track/6WSMa3dapwtDHoqWi92PZO) | [Stars](https://open.spotify.com/artist/2EO56JK4txid1Pss9GVbOL) | [Pretenders / Snowy Owl](https://open.spotify.com/album/7pm8B4hEadVF4jkzTRsxum) | 4:24 | 2022-05-13 | 2022-07-09 |
-| [Someone](https://open.spotify.com/track/5r0ixRffPjtVlj2VUbCTcm) | [Geneviève Racette](https://open.spotify.com/artist/3puoZ6FIQPCCA2mX9Yh6fU), [City and Colour](https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR) | [Someone](https://open.spotify.com/album/6OG669baXFkVHumwTUqVfP) | 3:37 | 2022-05-13 |  |
-| [Soon](https://open.spotify.com/track/7l4hemd0vYGUQ5j2abebFR) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq), [Michael Lessard](https://open.spotify.com/artist/6DpIwexYvFdPpsNOi6zTbE) | [Know/Soon](https://open.spotify.com/album/2nkVRH3soIiUryDHHJB6r3) | 4:03 | 2022-05-20 |  |
+| [Someone](https://open.spotify.com/track/5r0ixRffPjtVlj2VUbCTcm) | [Geneviève Racette](https://open.spotify.com/artist/3puoZ6FIQPCCA2mX9Yh6fU), [City and Colour](https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR) | [Someone](https://open.spotify.com/album/6OG669baXFkVHumwTUqVfP) | 3:37 | 2022-05-13 | 2022-09-03 |
+| [Soon](https://open.spotify.com/track/7l4hemd0vYGUQ5j2abebFR) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq), [Michael Lessard](https://open.spotify.com/artist/6DpIwexYvFdPpsNOi6zTbE) | [Know/Soon](https://open.spotify.com/album/2nkVRH3soIiUryDHHJB6r3) | 4:03 | 2022-05-20 | 2022-09-03 |
 | [Soul Mate](https://open.spotify.com/track/2xo3D4eKXs19ISgTcICbua) | [flora cash](https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd) | [Soul Mate](https://open.spotify.com/album/3pFB2FG0kMs3MhfDfcjHRr) | 3:57 | 2022-05-13 | 2022-05-20 |
 | [Sous](https://open.spotify.com/track/1QLIRpQ1hefPg79G8SIUWS) | [Okay Mann](https://open.spotify.com/artist/40LzaNxYeMt3RVPw6dHJRy) | [Sous](https://open.spotify.com/album/2RsaZIxP04R2bqRorEXEHZ) | 3:10 | 2022-05-13 | 2022-06-25 |
 | [Star](https://open.spotify.com/track/6OpUywbnvtDyCpgsv8FBdT) | [Clay Orange](https://open.spotify.com/artist/2FICqqKkeglWrQwrIqG5r7) | [Star](https://open.spotify.com/album/7LuB2Eyyz5Oj6RpX0fLinQ) | 3:42 | 2022-05-13 |  |
@@ -168,6 +170,7 @@
 | [These Days](https://open.spotify.com/track/2yABEsi6QYFkSFWQTIdGrg) | [Stu Larsen](https://open.spotify.com/artist/44M8i4BCwuBbmcQWwMaOfH) | [These Days](https://open.spotify.com/album/404DH5KgWamwVcCincjRJE) | 3:05 | 2022-08-26 |  |
 | [This Ain't the Night](https://open.spotify.com/track/0L0yuDW8ob26KpwDA0YKEt) | [Ken Presse](https://open.spotify.com/artist/0GAFnMAhzV7sDRxYu4AB7Z) | [This Ain't the Night](https://open.spotify.com/album/2eZ3FXceppcpEkhlRj7CVb) | 3:27 | 2022-05-13 | 2022-07-09 |
 | [This Book](https://open.spotify.com/track/5TC1Fufom6S1e0GgwwLij1) | [Jon Bryant](https://open.spotify.com/artist/2gzH4rGNFJeNg13yv2uI4L) | [This Book](https://open.spotify.com/album/5tUfKq4zkyyWAiC1LNGNkG) | 4:01 | 2022-05-13 |  |
+| [this town is a little less mine](https://open.spotify.com/track/4NtxiZ0LM2IWZecXKhY4MK) | [Jades Goudreault](https://open.spotify.com/artist/1LFfKkCrn95l1ZuxCNa3yN) | [this town is a little less mine](https://open.spotify.com/album/7Gr5p3X05a1cnlX5UI8oIT) | 2:07 | 2022-09-02 |  |
 | [Thérèse](https://open.spotify.com/track/1LklAGxyeK07JYRzw3Vzx9) | [Maya Hawke](https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x) | [Thérèse](https://open.spotify.com/album/1lbJOgLXOtyxQbvjt17eGT) | 3:27 | 2022-07-22 |  |
 | [Touch of Your Lips](https://open.spotify.com/track/2ho9amrBZbxod4VAKW76TN) | [Genesis Ritchot](https://open.spotify.com/artist/3G7RNCad1xTbtGy4GYMZhm), [Yanny Ritchot](https://open.spotify.com/artist/2zC9eI5Wa9lY9mVbjwzV7y) | [Touch of Your Lips / Four White Walls](https://open.spotify.com/album/6ovRzoOjpfQcIHVYyMuQQp) | 2:27 | 2022-05-13 |  |
 | [True Patriot Love](https://open.spotify.com/track/0IaYpkm0UInrmPsX0VY6IX) | [Joel Plaskett](https://open.spotify.com/artist/2AHGXy73E91elgCPcDlboC), [Mo Kenney](https://open.spotify.com/artist/37bB4IgC1rMZekz2XvshyS) | [The Window Inn Sessions](https://open.spotify.com/album/5QrNXKz7lvIiz5BQGFsVln) | 4:01 | 2022-08-26 |  |

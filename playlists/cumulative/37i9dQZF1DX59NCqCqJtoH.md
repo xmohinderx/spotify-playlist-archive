@@ -4,7 +4,7 @@
 
 > We hear you.
 
-477 songs - 23 hr 38 min - [published](https://open.spotify.com/playlist/40vV3pGK0ufA9YrTysgewE)
+478 songs - 23 hr 41 min - [published](https://open.spotify.com/playlist/40vV3pGK0ufA9YrTysgewE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [Feeling Whitney](https://open.spotify.com/track/35r28RDot7nPE7y9K9H7l0) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Stoney \(Deluxe\)](https://open.spotify.com/album/5s0rmjP8XOPhP6HhqOhuyC) | 4:17 | 2021-04-02 |  |
 | [Feelings](https://open.spotify.com/track/0MHHr2RhELZjSaMQiMF0d9) | [badly](https://open.spotify.com/artist/2REKndUsYi3335RA5rxbTT) | [Feelings](https://open.spotify.com/album/4UzuKBUSCR8CRbFPwSg53i) | 3:05 | 2021-04-02 | 2022-07-12 |
 | [figure it out](https://open.spotify.com/track/6BvqlzOwpuPA3894IUXaBI) | [Zubi](https://open.spotify.com/artist/1u58ZRn45A7jc3QmucALbY), [anatu](https://open.spotify.com/artist/2ZI8Omfu8U4dVTmmTQ3gCw) | [figure it out](https://open.spotify.com/album/6TGvxQgYwGUKn889LlqHLp) | 2:54 | 2021-04-02 | 2022-04-16 |
+| [Fire Out](https://open.spotify.com/track/4hYTiJcNgQLXi4556RAr7L) | [Call Me Karizma](https://open.spotify.com/artist/5fENlrINIVP0gJOtKxvORt) | [Fire Out](https://open.spotify.com/album/7w9iA1DnVoALqGoLIHHKza) | 3:04 | 2022-09-02 |  |
 | [Flustered Snowflakes](https://open.spotify.com/track/6Bjs0UKvexzajh8A0qKrC8) | [Pilar Victoria](https://open.spotify.com/artist/2DSFPJr5VQONBtmvondIke) | [Flustered Snowflakes](https://open.spotify.com/album/6nAMNqUvskOnwqR2SjvNcE) | 3:02 | 2021-04-02 | 2022-04-21 |
 | [fly](https://open.spotify.com/track/3jH30PGXQDOx1VP9nL75lU) | [lael](https://open.spotify.com/artist/1znowipTv2C0PgcaulHEA8) | [it didn't know it was a butterfly](https://open.spotify.com/album/4EHYixLT41BFnQrBiBOOzI) | 3:19 | 2022-04-01 | 2022-07-29 |
 | [fools \(can't help falling in love\) \(feat\. Sody\)](https://open.spotify.com/track/4VEEDnEFLI9dUy5QA51rom) | [Foster](https://open.spotify.com/artist/6vCIRD06VaQwwaZS0TqiCz), [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt), [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ) | [fools \(can't help falling in love\) \(feat\. Sody\)](https://open.spotify.com/album/4mNmrwxha3NNfEyciju5wc) | 2:45 | 2021-04-02 |  |
@@ -233,7 +234,7 @@
 | [it would feel like this](https://open.spotify.com/track/3trCY1lAWp0J7u17WuINl2) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [if i could make it go quiet](https://open.spotify.com/album/10nQ1u8Y1zlOb61zwZavDk) | 1:20 | 2021-04-30 | 2022-04-16 |
 | [It's Not The Same Anymore](https://open.spotify.com/track/7vRia9rlEuTDQxkfXIKySi) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Pony](https://open.spotify.com/album/5CNckxfLf4TCoMOoxgAU8l) | 6:26 | 2021-04-02 |  |
 | [It'sNotOver](https://open.spotify.com/track/46IYlGAbGcgllTPV7I7wOO) | [CHLOBOCOP](https://open.spotify.com/artist/56SXq1dAUN2vu4iWfXVnsL) | [It'sNotOver](https://open.spotify.com/album/7nKjwNymR0nZtWjYw2gdiz) | 2:36 | 2021-04-02 | 2022-04-14 |
-| [Jesus Christ](https://open.spotify.com/track/72ccSGl5YcEWm0vhtVpi25) | [Brand New](https://open.spotify.com/artist/168dgYui7ExaU612eooDF1) | [The Devil And God Are Raging Inside Me](https://open.spotify.com/album/2YnqAuFmC2r8JeQVOIozTy) | 5:18 | 2022-07-15 |  |
+| [Jesus Christ](https://open.spotify.com/track/72ccSGl5YcEWm0vhtVpi25) | [Brand New](https://open.spotify.com/artist/168dgYui7ExaU612eooDF1) | [The Devil And God Are Raging Inside Me](https://open.spotify.com/album/2YnqAuFmC2r8JeQVOIozTy) | 5:18 | 2022-07-15 | 2022-09-03 |
 | [Just a Little Bit](https://open.spotify.com/track/6ZmhbKECqsiXqnRUnOyObR) | [Teqkoi](https://open.spotify.com/artist/6fOKLk8GmQ8xKogCRuuAwD) | [Just a Little Bit](https://open.spotify.com/album/4ICkpi7j54DJS88WRmBWjy) | 1:49 | 2021-04-02 | 2022-04-20 |
 | [Just a Little Bit Lonely](https://open.spotify.com/track/5HkDr6w8kst095gAP09k8C) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [Just a Little Bit Lonely](https://open.spotify.com/album/3H0itk6lTMK8zFHT7MvZul) | 2:03 | 2021-04-02 | 2022-04-18 |
 | [just don't hurt me](https://open.spotify.com/track/0mXltaK1ktzHAK4rd6jAbY) | [badly](https://open.spotify.com/artist/2REKndUsYi3335RA5rxbTT) | [just don't hurt me](https://open.spotify.com/album/6huHcFOz0Rbbg9zsGUTF39) | 2:38 | 2022-01-27 | 2022-07-05 |

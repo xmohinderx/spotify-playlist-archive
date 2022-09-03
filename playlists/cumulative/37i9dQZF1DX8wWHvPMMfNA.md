@@ -2,7 +2,7 @@
 
 ### [Focus Jazz](https://open.spotify.com/playlist/37i9dQZF1DX8wWHvPMMfNA)
 
-> Soft instrumental jazz for your focus time.
+> Soft instrumental jazz for working or studying.
 
 128 songs - 11 hr 0 min - [published](https://open.spotify.com/playlist/2tOQPPwScgMTueE1ReWTmP)
 
@@ -18,7 +18,7 @@
 | [Blue And Sentimental](https://open.spotify.com/track/78ntGe4xyecZHg9exQWwK6) | [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [Plays Count Basie](https://open.spotify.com/album/7ETDHJ9yletBCxNx0ipr1x) | 2:26 | 2021-12-16 | 2022-08-18 |
 | [Blue in Green \(feat\. John Coltrane & Bill Evans\)](https://open.spotify.com/track/0aWMVrwxPNYkKmFthzmpRi) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Kind Of Blue \(Legacy Edition\)](https://open.spotify.com/album/4sb0eMpDn3upAFfyi4q2rw) | 5:37 | 2021-12-16 | 2022-05-11 |
 | [Blues For Daryl](https://open.spotify.com/track/6oTTdFI04W4QbfyzKfeTaI) | [Teddy Wilson](https://open.spotify.com/artist/0tg5uVI4VjzZOFzBryJZii) | [I Got Rhythm](https://open.spotify.com/album/06nblZEpSdnbBN6iLwl3W9) | 3:31 | 2021-12-16 | 2022-07-29 |
-| [Blues In The Night \- Short Version](https://open.spotify.com/track/4ZuUE6H5yONhrEw74aWcpU) | [Sonny Clark](https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8) | [Standards](https://open.spotify.com/album/20CL0GYrvQaf6haE8i2QOf) | 5:57 | 2021-12-16 |  |
+| [Blues In The Night \- Short Version](https://open.spotify.com/track/4ZuUE6H5yONhrEw74aWcpU) | [Sonny Clark](https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8) | [Standards](https://open.spotify.com/album/20CL0GYrvQaf6haE8i2QOf) | 5:57 | 2021-12-16 | 2022-09-03 |
 | [Body & Soul](https://open.spotify.com/track/12Ykc8GW0kQJURPlxZgyXM) | [Joshua Redman](https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S) | [Joshua Redman](https://open.spotify.com/album/58y5aHbnGlzb1npFhXI1j1) | 4:50 | 2021-12-16 |  |
 | [Born To Be Blue](https://open.spotify.com/track/0q2B8hRHzThL8CTlzCv06e) | [Tommy Flanagan Trio](https://open.spotify.com/artist/5N8jNQsfW9SHBkhVqqnXbU) | [Tommy Flanagan Trio](https://open.spotify.com/album/6ib55A9F22eHSqsVDjQPvu) | 4:21 | 2022-05-18 |  |
 | [Chartreuse](https://open.spotify.com/track/3AF40YsNhI8LfFnxKvcgGB) | [Kenny Drew](https://open.spotify.com/artist/65uKPt40QH8dMBLuoJHPVY) | [Kenny Drew And His Progressive Piano](https://open.spotify.com/album/3xelKHGo8Hcp0Eml2S95pe) | 4:33 | 2022-05-18 |  |
@@ -38,7 +38,7 @@
 | [Eleanor](https://open.spotify.com/track/0e73D9vZrxLVUPRhHae6r1) | [Hank Jones](https://open.spotify.com/artist/0BhFfJmScFj7OzqVaDqnSv), [Christian McBride](https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv), [Jimmy Cobb](https://open.spotify.com/artist/7KLg0R9RSUabK2CG2MTbBJ) | [West of 5th](https://open.spotify.com/album/6LLXvVf6WOOrL4YFy9BVy1) | 4:49 | 2022-06-29 |  |
 | [Eleanor](https://open.spotify.com/track/6vWkMerIb8fzLSeYQ7iCCi) | [Hank Jones](https://open.spotify.com/artist/0BhFfJmScFj7OzqVaDqnSv), [Christian McBride](https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv), [Jimmy Cobb](https://open.spotify.com/artist/7KLg0R9RSUabK2CG2MTbBJ) | [West of 5th](https://open.spotify.com/album/7HzP4w4TIlGa9I6xEAklBc) | 4:49 | 2021-12-16 | 2022-07-29 |
 | [Everybody's Somebody's Fool](https://open.spotify.com/track/3Fd6oqnuEVzOjzfh13k0CA) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [Gettin' Around](https://open.spotify.com/album/1kKp5dSbveAtH9KmuGP6z9) | 6:47 | 2021-12-16 |  |
-| [Everything Happens to Me](https://open.spotify.com/track/113E6wtJ5gM2KwhWnj8dwr) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [Nice People](https://open.spotify.com/album/2V8adRKIBTgptogEDc2U8p) | 5:19 | 2021-12-16 | 2022-08-31 |
+| [Everything Happens to Me](https://open.spotify.com/track/113E6wtJ5gM2KwhWnj8dwr) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [Nice People](https://open.spotify.com/album/2V8adRKIBTgptogEDc2U8p) | 5:19 | 2021-12-16 |  |
 | [Fellowship](https://open.spotify.com/track/5rxQWZpWoXrc9P4VfXJFR1) | [Glenn Zaleski](https://open.spotify.com/artist/0M5jsQVMD2A3wpBLI9qs8W) | [Fellowship](https://open.spotify.com/album/7FtiFheUH43hI2aEFM8ndF) | 6:57 | 2022-02-24 |  |
 | [Flamenco Sketches \(feat\. John Coltrane, Cannonball Adderley & Bill Evans\)](https://open.spotify.com/track/3R3fcrKaeBr3U6s9R2belr) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA), [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Kind Of Blue](https://open.spotify.com/album/1weenld61qoidwYuZ1GESA) | 9:26 | 2021-12-16 |  |
 | [Foolin' Myself](https://open.spotify.com/track/1M0bEJicvT2qmdJej9wjyk) | [Lee Konitz](https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k) | [Motion](https://open.spotify.com/album/5eREwMI0CzvPOH8V2HZZDU) | 6:57 | 2021-12-16 |  |

@@ -4,7 +4,7 @@
 
 > Music wellness for your soul.
 
-234 songs - 12 hr 31 min - [published](https://open.spotify.com/playlist/4mp9Oxx4e4HzTV82HU14u2)
+236 songs - 12 hr 36 min - [published](https://open.spotify.com/playlist/4mp9Oxx4e4HzTV82HU14u2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Clear Path](https://open.spotify.com/track/2tCmr9BYhSjQilIomSM8EI) | [William Francisco](https://open.spotify.com/artist/2jQwLGGaI5zOgqc5SiMp7V) | [Clear Path](https://open.spotify.com/album/10tajn5McEnxj6z3B5KOqN) | 3:02 | 2022-03-21 |  |
 | [Close your eyes](https://open.spotify.com/track/53Mz4V3XL02YupbVnJKfMl) | [Koby Laver](https://open.spotify.com/artist/639xerhpqwPMYay6bkjz75) | [Close your eyes](https://open.spotify.com/album/7n60AHGWLfjBq8eEdTbja0) | 3:12 | 2021-12-08 |  |
 | [Closing My Eyes](https://open.spotify.com/track/6nwr3T1dBHPgXPHPudwqzo) | [Meridiniella](https://open.spotify.com/artist/21Kjl0iOx81jLDXgrXB6JR) | [Closing My Eyes](https://open.spotify.com/album/3vGlGyOhjf9EjdbdHpYHMT) | 4:11 | 2021-12-08 |  |
+| [Consapevolezza](https://open.spotify.com/track/63kxLIjDG9maJO1T1oxVoP) | [Dormiente](https://open.spotify.com/artist/5CsUyEbyQ9JoZLTaP9HJhu) | [Consapevolezza](https://open.spotify.com/album/5miTWb698z08O6V5pxTc8X) | 2:34 | 2022-09-02 |  |
 | [Contemplation](https://open.spotify.com/track/6dAScKFmnc7epcmlV7uXRv) | [Night Sounds](https://open.spotify.com/artist/23t9fvBqS4kZ6aBANPfsb5) | [Contemplation](https://open.spotify.com/album/4X1afAsNqXENvFo1ijXnau) | 3:02 | 2021-12-08 |  |
 | [Decision](https://open.spotify.com/track/0AUsg7yWsJKPfDalSDt80e) | [Eleanor Arroway](https://open.spotify.com/artist/3x2VCXXsd5bySXXdbhLZPJ) | [Internal Voices](https://open.spotify.com/album/2hO9mfx0JczzFqrrLRqtWf) | 3:27 | 2021-12-08 |  |
 | [Decoder](https://open.spotify.com/track/5qzcXIVuKxOwtMbXYils8n) | [Margaret Phineas](https://open.spotify.com/artist/2O6ryyAOlxGJZqANs7wtoK) | [Hobart](https://open.spotify.com/album/5KTEcDkNtEDdPPBMSqzCqC) | 3:16 | 2021-12-08 |  |
@@ -168,6 +169,7 @@
 | [Repouso](https://open.spotify.com/track/41Fp3VZmyloxKUUcWDUrH2) | [Polysomni](https://open.spotify.com/artist/3ULKIOVe2bR3iZF1jFqzMN) | [Repouso](https://open.spotify.com/album/0FOLb3AIWL91ig6CEQu09c) | 3:56 | 2021-12-08 |  |
 | [Resident](https://open.spotify.com/track/1Y38ppiNHGNSO9r4UrbkL0) | [Bridge Dwellers](https://open.spotify.com/artist/2R7EEwkeG8KGbXRqQwC2EB) | [Resident](https://open.spotify.com/album/2CZtvsvYeZHY6djlNQw6dw) | 3:48 | 2021-12-08 |  |
 | [Rho Bootis](https://open.spotify.com/track/4Ug0Y3KIvka9tOYjFeWFD1) | [Donald Beaudoin](https://open.spotify.com/artist/2Z0z4n4ndyWuJVJYoSvlLI) | [Rho Bootis](https://open.spotify.com/album/44mawcpqpOV8ccmVJhzHN9) | 3:15 | 2021-12-08 |  |
+| [Rhythms](https://open.spotify.com/track/2ZvyrcGO1JLsfc2XqD7oio) | [Pascal Dirac](https://open.spotify.com/artist/55UOeJ9KXXCNAQ0b4REsiR) | [Rhythms](https://open.spotify.com/album/3r2nphYPieVtEcbWCfWMP3) | 2:28 | 2022-09-02 |  |
 | [Ripples](https://open.spotify.com/track/1Hwpy1vK4hFoEcdO25w6eu) | [Cotton Duo](https://open.spotify.com/artist/1kIGV2gyUr4qbx4o1jHVZ6) | [Ripples](https://open.spotify.com/album/4mKdlYkk85ECsIpO2CIBeu) | 2:05 | 2021-12-08 |  |
 | [Rocks for the Asterism](https://open.spotify.com/track/4lm4SMJ7CDTkObUswav5DR) | [Natural Disasters](https://open.spotify.com/artist/6X1avNxooPw8QKjGi3UszV) | [Rocks for the Asterism](https://open.spotify.com/album/0amtXZMVTX3BYw7z4ipaf3) | 3:12 | 2021-12-08 |  |
 | [Saddleworth](https://open.spotify.com/track/2dqHZOXBMrkntSDYahuzfF) | [Tonal Blues](https://open.spotify.com/artist/4op9odiUcMauXLhmhuxU2m) | [Squares](https://open.spotify.com/album/5mjzHuXW8jh4dmN9dBkyAp) | 3:40 | 2021-12-08 |  |

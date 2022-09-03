@@ -1,12 +1,12 @@
 {
   "description": "Experience the powerful messages and sounds of these gospel tunes.",
-  "num_followers": 599635,
+  "num_followers": 599626,
   "original_name": "Spread the Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYyNDYwNDA5OSwwMDAwMDAwMDFmYjg3ZTMyZTcyNDc0ZjE4NjJhODE1OWNmOTc1NDA0",
+  "snapshot_id": "MTYyNDYwNDA5OSwwMDAwMDAwMDlhMzRhNjJiMDQ1NDE0MWU2MGEwNDRmZTJiMjI4NGZm",
   "tracks": [
     {
       "added_at": "2021-06-25 06:54:59",
@@ -291,6 +291,22 @@
     {
       "added_at": "2021-06-25 06:54:59",
       "album": {
+        "name": "Thank You For It All",
+        "url": "https://open.spotify.com/album/4lbpO1M91NwQnMihAr3nEl"
+      },
+      "artists": [
+        {
+          "name": "Marvin Sapp",
+          "url": "https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo"
+        }
+      ],
+      "duration_ms": 264430,
+      "name": "Thank You For It All",
+      "url": "https://open.spotify.com/track/1uA4YKtkUT8wvFobwTtonp"
+    },
+    {
+      "added_at": "2021-06-25 06:54:59",
+      "album": {
         "name": "KIERRA",
         "url": "https://open.spotify.com/album/2twow9qKoLnhZO8FDjw82a"
       },
@@ -307,22 +323,6 @@
       "duration_ms": 402844,
       "name": "Something Has To Break (feat. Tasha Cobbs Leonard) - Live",
       "url": "https://open.spotify.com/track/719l9b2QzAejHepSi8vK5a"
-    },
-    {
-      "added_at": "2021-06-25 06:54:59",
-      "album": {
-        "name": "Thank You For It All",
-        "url": "https://open.spotify.com/album/4lbpO1M91NwQnMihAr3nEl"
-      },
-      "artists": [
-        {
-          "name": "Marvin Sapp",
-          "url": "https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo"
-        }
-      ],
-      "duration_ms": 264430,
-      "name": "Thank You For It All",
-      "url": "https://open.spotify.com/track/1uA4YKtkUT8wvFobwTtonp"
     },
     {
       "added_at": "2021-06-25 06:54:59",

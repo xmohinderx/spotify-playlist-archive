@@ -2,9 +2,9 @@
 
 ### [mid:nite storm ](https://open.spotify.com/playlist/37i9dQZF1DWYiatDTQvsFP)
 
-> it's scary hours...⛈ cover: Alicia Keys
+> it's scary hours...⛈ cover: Outkast
 
-176 songs - 11 hr 50 min - [published](https://open.spotify.com/playlist/5JxuVXVwLcumgmoRyl2uUE)
+178 songs - 11 hr 56 min - [published](https://open.spotify.com/playlist/5JxuVXVwLcumgmoRyl2uUE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Feeling U, Feeling Me \(Interlude\)](https://open.spotify.com/track/4noLzwgD4GzlbLRbSCElVq) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [The Diary Of Alicia Keys](https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij) | 2:07 | 2022-05-20 | 2022-08-20 |
 | [Figure It Out](https://open.spotify.com/track/7nZDS9vvNuDBE3w1JQNx3c) | [Sage Harris](https://open.spotify.com/artist/0oIjVtSreeU9ldQZFdQZn2) | [Figure It Out](https://open.spotify.com/album/4KM1PhBa0e4oYkn3qQ3xGt) | 2:51 | 2022-05-06 |  |
 | [Final Warning \(featuring Aaliyah\) \(feat\. Aaliyah\)](https://open.spotify.com/track/7A2RieWcxM2VOWY25aU4Qj) | [Ginuwine](https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP), [Aaliyah](https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4) | [100% Ginuwine](https://open.spotify.com/album/0yfC7hiO3iAaVvNCVcwjVY) | 7:24 | 2022-05-06 | 2022-06-25 |
+| [Freak Like Me \- Spotify Singles](https://open.spotify.com/track/7lxF9OOlLhxslC3BEDIMfB) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Spotify Singles](https://open.spotify.com/album/0aTksyiafCXTH3jbUIkwVs) | 3:08 | 2022-09-02 |  |
 | [From Time](https://open.spotify.com/track/0GaBIpyHvytM1UBYmqXu08) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Nothing Was The Same](https://open.spotify.com/album/1XslIirSxfAhhxRdn4Li9t) | 5:22 | 2022-05-06 |  |
 | [FRONTAL LOBE MUZIK](https://open.spotify.com/track/0b6l1obmzq1YrqiKBVLtIo) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [CASE STUDY 01](https://open.spotify.com/album/4mvxoogQn8p84Wz17zTHnJ) | 3:49 | 2022-05-06 | 2022-07-23 |
 | [Fu\-Gee\-La](https://open.spotify.com/track/1rJM37Dd4OcSJvzI84yCcP) | [Fugees](https://open.spotify.com/artist/2WKdxPFRD7IqZvlIAvhMgY), [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl), [Wyclef Jean](https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe), [Pras](https://open.spotify.com/artist/0kJMPTXq7h3ztpDukSx5iD) | [The Score \(Expanded Edition\)](https://open.spotify.com/album/18XFe4CPBgVezXkxZP6rTb) | 4:20 | 2022-05-06 | 2022-05-14 |
@@ -80,6 +81,7 @@
 | [Good Ol Love](https://open.spotify.com/track/1RZwfy4hD9ixk4XcIQpyW1) | [Masta Ace](https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv) | [A Long Hot Summer](https://open.spotify.com/album/7qvw3MPdulHThAPqaM9ynF) | 3:46 | 2022-05-06 |  |
 | [Got 'Til It's Gone](https://open.spotify.com/track/6jUyYHDikmw9WltPojSR37) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W), [Q\-Tip](https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU), [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [The Velvet Rope](https://open.spotify.com/album/6ZANEjETQ9L9pjBuvOAhCQ) | 4:01 | 2022-05-06 | 2022-05-20 |
 | [Guillotine](https://open.spotify.com/track/2nhYCeMM3Q7ySBPiUXqaO8) | [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW) | [Guillotine](https://open.spotify.com/album/1UwMqCzED7ZjYjDX7VIJ1H) | 3:15 | 2022-05-06 | 2022-07-02 |
+| [Gummy](https://open.spotify.com/track/657jlDn3QlxiuR0pFcyjPB) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Away Message](https://open.spotify.com/album/6wImAlRsVb1ldJzOE4Uc1U) | 2:21 | 2022-09-02 |  |
 | [Hate Our Love \(with Big Sean\)](https://open.spotify.com/track/3pEINn37iH5fx8TpXYNGIO) | [Queen Naija](https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Hate Our Love \(with Big Sean\)](https://open.spotify.com/album/5m7KrrURY0STYZGqmsupn7) | 3:46 | 2022-05-06 |  |
 | [Head High](https://open.spotify.com/track/1TUNcLZZImGkNlviSpQp6H) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [Head High](https://open.spotify.com/album/65KIgWKpqFbvMmH8QUkdUD) | 3:00 | 2022-05-06 | 2022-06-04 |
 | [Help](https://open.spotify.com/track/2d4zccfa2PvIF4dkjRfTD0) | [Lloyd Banks](https://open.spotify.com/artist/3vDUJHQtqT3jFRZ2ECXDTi), [Keri Hilson](https://open.spotify.com/artist/63wjoROpeh5f11Qm93UiJ1) | [Rotten Apple](https://open.spotify.com/album/6WP2OcxKfKSpZINvLKgTLH) | 3:54 | 2022-05-06 | 2022-08-20 |
@@ -124,9 +126,9 @@
 | [My World](https://open.spotify.com/track/5wXQFi7alwkKVf7PdYb3Co) | [Asiahn](https://open.spotify.com/artist/1mKtlPrXjWK6oIdk9cSOjs) | [The Interlude](https://open.spotify.com/album/6bZ7XNBJFwmpOdAp9xZkoX) | 3:11 | 2022-05-06 | 2022-06-25 |
 | [Neighborhood Winner](https://open.spotify.com/track/0AXqh1GdCXFooCQo351emP) | [Lu\-Kusa Woe](https://open.spotify.com/artist/5DGeTDECSuzKX8gn0hccZE) | [The Breakthrough](https://open.spotify.com/album/0DjCfvQEt1HeZRrR6dhmWM) | 1:38 | 2022-05-06 | 2022-05-14 |
 | [Nice & Slow \- Radio Version](https://open.spotify.com/track/5L0KDoZklMgs9GPoonneEl) | [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [My Way](https://open.spotify.com/album/0fQdoem8dnrl80YcZzQ8f0) | 3:47 | 2022-05-06 |  |
-| [No Good](https://open.spotify.com/track/5eNUpkGw6ss8j5PAenJTGz) | [kristina alcordo](https://open.spotify.com/artist/3y6KP6ZPC8SskJTCNAkFNs) | [No Good](https://open.spotify.com/album/6nCiMVlXiAvaD7cFNVfkLi) | 3:52 | 2022-05-06 |  |
+| [No Good](https://open.spotify.com/track/5eNUpkGw6ss8j5PAenJTGz) | [kristina alcordo](https://open.spotify.com/artist/3y6KP6ZPC8SskJTCNAkFNs) | [No Good](https://open.spotify.com/album/6nCiMVlXiAvaD7cFNVfkLi) | 3:52 | 2022-05-06 | 2022-09-03 |
 | [No Sleeep \(feat\. J\. Cole\)](https://open.spotify.com/track/2j9bG8ErzwDyAr7QljgBBp) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Unbreakable](https://open.spotify.com/album/5DjjcPVGw8jJoF9SlsQJed) | 4:20 | 2022-05-20 |  |
-| [Not Your Friend](https://open.spotify.com/track/3Tzff5nOHwe1AjbWKUd8Ia) | [Case](https://open.spotify.com/artist/5aEWnrN8h3MhuFUPRfaVuy) | [Open Letter](https://open.spotify.com/album/5nfFCN6B0AhReHctfLi1vL) | 4:34 | 2022-07-29 |  |
+| [Not Your Friend](https://open.spotify.com/track/3Tzff5nOHwe1AjbWKUd8Ia) | [Case](https://open.spotify.com/artist/5aEWnrN8h3MhuFUPRfaVuy) | [Open Letter](https://open.spotify.com/album/5nfFCN6B0AhReHctfLi1vL) | 4:34 | 2022-07-29 | 2022-09-03 |
 | [NWA \(feat\. Lil Durk\)](https://open.spotify.com/track/0a4x22Cu8ix2C0ylPLl7A7) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [NWA \(feat\. Lil Durk\)](https://open.spotify.com/album/4kMQqBGP8tSzvvyGPiyYTv) | 3:51 | 2022-05-06 | 2022-05-14 |
 | [On the Hotline](https://open.spotify.com/track/3bsoEOP4NHEoeVbAAYdbaU) | [Pretty Ricky](https://open.spotify.com/artist/6XwcepfAsPhrvwziGxhwju) | [Late Night Special](https://open.spotify.com/album/0xbRSFuLwoNrRurfUXkN09) | 4:02 | 2022-06-03 |  |
 | [One More Chance / Stay with Me \- Remix; 2007 Remaster](https://open.spotify.com/track/7fXhkARAtS66kxexMIAx8O) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [Greatest Hits](https://open.spotify.com/album/5XqEf16OrHdmMoNS1b6WDg) | 4:28 | 2022-06-24 |  |

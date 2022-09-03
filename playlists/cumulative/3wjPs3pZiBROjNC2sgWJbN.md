@@ -4,7 +4,7 @@
 
 > A collection of R&amp;B jams and viral trends featuring Summer Walker, Muni Long &amp; Diddy Updated weekly! Cover: Ari Lennox
 
-63 songs - 3 hr 47 min - [published](https://open.spotify.com/playlist/6HnqloX71hOSuHC1eMQwe6)
+64 songs - 3 hr 50 min - [published](https://open.spotify.com/playlist/6HnqloX71hOSuHC1eMQwe6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Get Free](https://open.spotify.com/track/0Vc8kuWRWUzHOcjSV5hO2G) | [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [The Jungle Is The Only Way Out](https://open.spotify.com/album/40L9yPrh6yD1ECI3ofNfPc) | 2:01 | 2022-06-09 |  |
 | [Gotta Move On \(feat\. Bryson Tiller\)](https://open.spotify.com/track/3K9IrLs25jHtvWjAAFAfav) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Gotta Move On \(feat\. Bryson Tiller\)](https://open.spotify.com/album/0JZyDPMrhPEnsuJEbVymJJ) | 2:40 | 2022-07-08 |  |
 | [Hate Love](https://open.spotify.com/track/6vKX4RARRayUWTbjOAZ5u0) | [Ann Marie](https://open.spotify.com/artist/3feB1IF85It42sebtWSqws) | [Hate Love](https://open.spotify.com/album/78byhY5U2A6DqsCxwCTKvg) | 2:34 | 2022-06-09 |  |
+| [Honest](https://open.spotify.com/track/48uFORndjPzqyqqmzSjrsY) | [Airliftz](https://open.spotify.com/artist/4O2Gfcx2x2dIrFdFrrf0PY) | [Real Hustlers Only](https://open.spotify.com/album/6tmkKxNXdTLkpbowLfodkk) | 2:47 | 2022-09-02 |  |
 | [Hoodie](https://open.spotify.com/track/4WQquFaW7w5ddLqjgwUizy) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Hoodie](https://open.spotify.com/album/1ZLgyjJGWx0ocXdzxGAToN) | 4:04 | 2022-08-12 |  |
 | [How \(feat\. Roddy Ricch\)](https://open.spotify.com/track/6w93UfN5MeXXQTrVIf5V6x) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Heart On My Sleeve](https://open.spotify.com/album/6p5jJLTFiYgk95HhW0unhy) | 3:38 | 2022-06-09 |  |
 | [Hrs and Hrs](https://open.spotify.com/track/3xRH6FPVtheDyNla3T1FE7) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection](https://open.spotify.com/album/4gECm6iRIuekmp8r6HIko0) | 3:24 | 2022-06-09 |  |

@@ -1,12 +1,12 @@
 {
-  "description": "Midwest music breaking waves. Tink",
-  "num_followers": 2267,
+  "description": "Midwest music breaking waves. Ohana Bam",
+  "num_followers": 2266,
   "original_name": "Ripple Effect:  Midwest",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTU0MTA1NiwwMDAwMDAwMGUwOTFhYzE5MjY5MGE3ZTIyYWY2ZGQyYjY1MjE0NGFi",
+  "snapshot_id": "MTY2MjE0OTMyMCwwMDAwMDAwMGI4MTBjODc0NDNmMzAxNTVhZThiNGU1Y2Y5YmNjYjdj",
   "tracks": [
     {
       "added_at": "2022-08-26 19:10:56",
@@ -73,6 +73,22 @@
       "url": "https://open.spotify.com/track/1OuEacOzBBWWPOGb7MgbZ3"
     },
     {
+      "added_at": "2022-09-02 20:08:40",
+      "album": {
+        "name": "No Sombrero",
+        "url": "https://open.spotify.com/album/0CTfD6q0yO84HGsCeHOEYL"
+      },
+      "artists": [
+        {
+          "name": "Sada Baby",
+          "url": "https://open.spotify.com/artist/2JSwnwAT1BupAQkhqcRCUw"
+        }
+      ],
+      "duration_ms": 197052,
+      "name": "No Sombrero",
+      "url": "https://open.spotify.com/track/2opW6xGI3lD8wlc8j3EGtd"
+    },
+    {
       "added_at": "2022-08-01 14:28:10",
       "album": {
         "name": "Fuck My Cousin, Pt. II (feat. Lil Durk)",
@@ -107,6 +123,26 @@
       "duration_ms": 158392,
       "name": "Anotha One",
       "url": "https://open.spotify.com/track/5NZtLC1p5RPFUPGmPq96zl"
+    },
+    {
+      "added_at": "2022-09-02 20:08:40",
+      "album": {
+        "name": "Too Much (feat. Moneybagg Yo)",
+        "url": "https://open.spotify.com/album/0R87OEh0NzfdjavsrmrGtj"
+      },
+      "artists": [
+        {
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+        },
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "duration_ms": 188869,
+      "name": "Too Much (feat. Moneybagg Yo)",
+      "url": "https://open.spotify.com/track/7pZeacKYnK4unCplCmI2qb"
     },
     {
       "added_at": "2022-08-26 19:10:56",
@@ -191,42 +227,6 @@
       "duration_ms": 124904,
       "name": "Real Bitch (feat. Gloss Up)",
       "url": "https://open.spotify.com/track/4zH4kR30s4Cx6HMvodrf32"
-    },
-    {
-      "added_at": "2022-07-22 19:59:25",
-      "album": {
-        "name": "Save Me (feat. Lil Durk)",
-        "url": "https://open.spotify.com/album/75AMuGJ8j2cM7smZ0HhJzn"
-      },
-      "artists": [
-        {
-          "name": "Southside",
-          "url": "https://open.spotify.com/artist/23DYJsw4uSCguIqiTIDtcN"
-        },
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        }
-      ],
-      "duration_ms": 173987,
-      "name": "Save Me (feat. Lil Durk)",
-      "url": "https://open.spotify.com/track/5HN3ikspb1MOyJ0MMjn55I"
-    },
-    {
-      "added_at": "2022-08-12 17:16:26",
-      "album": {
-        "name": "AKUNA",
-        "url": "https://open.spotify.com/album/4wr8ni8dr2e94Ae6tCbFHR"
-      },
-      "artists": [
-        {
-          "name": "Sada Baby",
-          "url": "https://open.spotify.com/artist/2JSwnwAT1BupAQkhqcRCUw"
-        }
-      ],
-      "duration_ms": 193072,
-      "name": "AKUNA",
-      "url": "https://open.spotify.com/track/6y9fIg54gDgqgldH4EMJhf"
     },
     {
       "added_at": "2022-07-01 03:55:56",
@@ -353,6 +353,22 @@
       "url": "https://open.spotify.com/track/3Lr9J0UuPrnTVlmA5wosqi"
     },
     {
+      "added_at": "2022-09-02 20:08:40",
+      "album": {
+        "name": "GO GO GO!",
+        "url": "https://open.spotify.com/album/0122L1z0RmowcHYZTg7tLo"
+      },
+      "artists": [
+        {
+          "name": "YSN Flow",
+          "url": "https://open.spotify.com/artist/1je11NKORfLMSjgSNP0DPF"
+        }
+      ],
+      "duration_ms": 135440,
+      "name": "GO GO GO!",
+      "url": "https://open.spotify.com/track/6WBOshy2g5d3HiFMCRmsoF"
+    },
+    {
       "added_at": "2022-08-01 14:28:10",
       "album": {
         "name": "CATCH ME IF YOU CAN",
@@ -383,6 +399,26 @@
       "duration_ms": 113972,
       "name": "400 Degrees",
       "url": "https://open.spotify.com/track/66nv9uIm7uFfLWoD2hRRfR"
+    },
+    {
+      "added_at": "2022-09-02 20:08:40",
+      "album": {
+        "name": "Pages",
+        "url": "https://open.spotify.com/album/4mt2fPV3Yk3CgsZNiuRHl9"
+      },
+      "artists": [
+        {
+          "name": "Rockie Fresh",
+          "url": "https://open.spotify.com/artist/5Joy3NHmxKQGEOnjxtaMz3"
+        },
+        {
+          "name": "ISM",
+          "url": "https://open.spotify.com/artist/1PmIns535yeirIKo6HpHMe"
+        }
+      ],
+      "duration_ms": 112175,
+      "name": "Pages",
+      "url": "https://open.spotify.com/track/10yOU0oIfzz7SxdlQjtBKo"
     },
     {
       "added_at": "2022-07-01 03:55:56",
@@ -419,6 +455,26 @@
       "duration_ms": 271883,
       "name": "DRILL MUSIC IN ZION",
       "url": "https://open.spotify.com/track/3GrHP2CwUNecBc1SdVMTJ8"
+    },
+    {
+      "added_at": "2022-09-02 20:08:40",
+      "album": {
+        "name": "Gimme Space",
+        "url": "https://open.spotify.com/album/0RyYJfNhL4YifaGnvo9qQO"
+      },
+      "artists": [
+        {
+          "name": "donSMITH",
+          "url": "https://open.spotify.com/artist/3WO3ZmTFuGjryOViAqhT2M"
+        },
+        {
+          "name": "Mick Jenkins",
+          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+        }
+      ],
+      "duration_ms": 191673,
+      "name": "Gimme Space",
+      "url": "https://open.spotify.com/track/2MSEJtE3R2SaM7jAooknT5"
     },
     {
       "added_at": "2022-08-19 19:57:18",
@@ -481,22 +537,6 @@
       "url": "https://open.spotify.com/track/0u0Wg5JO7Aza12fQJMIZ6Q"
     },
     {
-      "added_at": "2022-07-22 19:59:25",
-      "album": {
-        "name": "Goofy",
-        "url": "https://open.spotify.com/album/5JB8bhuOvIwo2CAYUPinmW"
-      },
-      "artists": [
-        {
-          "name": "Tink",
-          "url": "https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v"
-        }
-      ],
-      "duration_ms": 201592,
-      "name": "Goofy",
-      "url": "https://open.spotify.com/track/1A5hxo3hCF6FxBunEoKWcS"
-    },
-    {
       "added_at": "2022-08-26 19:10:56",
       "album": {
         "name": "Function 3000",
@@ -515,38 +555,6 @@
       "duration_ms": 121531,
       "name": "Good Pussy 3000",
       "url": "https://open.spotify.com/track/4IcsgDL3uJb66KEV18roiI"
-    },
-    {
-      "added_at": "2022-08-12 17:16:26",
-      "album": {
-        "name": "Right Quick",
-        "url": "https://open.spotify.com/album/6tgBNvjMvKYEX0ORqj64UC"
-      },
-      "artists": [
-        {
-          "name": "Rockie Fresh",
-          "url": "https://open.spotify.com/artist/5Joy3NHmxKQGEOnjxtaMz3"
-        }
-      ],
-      "duration_ms": 91034,
-      "name": "Right Quick",
-      "url": "https://open.spotify.com/track/6cQj8uV5Cq5JDm8cuQu0cX"
-    },
-    {
-      "added_at": "2022-07-18 21:46:49",
-      "album": {
-        "name": "Switch Music",
-        "url": "https://open.spotify.com/album/3m5015yxQTaCo83w7AQwA7"
-      },
-      "artists": [
-        {
-          "name": "PGF Nuk",
-          "url": "https://open.spotify.com/artist/0PUh7TSiwhSf0xL0b6SLXH"
-        }
-      ],
-      "duration_ms": 136469,
-      "name": "Five Guys",
-      "url": "https://open.spotify.com/track/6PCvjSXZSULzzlFoohAc9l"
     },
     {
       "added_at": "2022-08-19 19:57:18",
@@ -693,50 +701,6 @@
       "url": "https://open.spotify.com/track/0vRhfvw60myrUaWEOqt6kB"
     },
     {
-      "added_at": "2022-04-02 00:01:21",
-      "album": {
-        "name": "Ice Cream (feat. Rick Ross)",
-        "url": "https://open.spotify.com/album/7ciCOxjckrARP4Ngk1bLb0"
-      },
-      "artists": [
-        {
-          "name": "Freddie Gibbs",
-          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
-        },
-        {
-          "name": "Rick Ross",
-          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
-        }
-      ],
-      "duration_ms": 123750,
-      "name": "Ice Cream (feat. Rick Ross)",
-      "url": "https://open.spotify.com/track/2S9oc7DcLyDxKfJ8vY7SDi"
-    },
-    {
-      "added_at": "2022-07-01 03:55:56",
-      "album": {
-        "name": "Drive By",
-        "url": "https://open.spotify.com/album/1irwcgHKeiwvpyXFXSAkqu"
-      },
-      "artists": [
-        {
-          "name": "French Montana",
-          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
-        },
-        {
-          "name": "Harry Fraud",
-          "url": "https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S"
-        },
-        {
-          "name": "Babyface Ray",
-          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
-        }
-      ],
-      "duration_ms": 221094,
-      "name": "Drive By",
-      "url": "https://open.spotify.com/track/6THXudILWQ4VZQ3mganpt8"
-    },
-    {
       "added_at": "2022-06-07 21:57:42",
       "album": {
         "name": "ABOW",
@@ -763,6 +727,26 @@
       "duration_ms": 134184,
       "name": "ABOW",
       "url": "https://open.spotify.com/track/5KEpflyct0AqX7H7GVlQVj"
+    },
+    {
+      "added_at": "2022-09-02 20:08:40",
+      "album": {
+        "name": "Q-Pid",
+        "url": "https://open.spotify.com/album/5yDJEZiJ35JKdPcEBEWiYz"
+      },
+      "artists": [
+        {
+          "name": "2Rare",
+          "url": "https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "duration_ms": 131868,
+      "name": "Q-Pid",
+      "url": "https://open.spotify.com/track/0DgSlDcWG9jRlFZOqRyD0L"
     },
     {
       "added_at": "2022-08-26 19:10:56",
@@ -1005,6 +989,30 @@
       "url": "https://open.spotify.com/track/2PKeOgJhTy7ryQWtd58iXa"
     },
     {
+      "added_at": "2022-09-02 20:08:40",
+      "album": {
+        "name": "Looking for Water (feat. Boldy James)",
+        "url": "https://open.spotify.com/album/3xeIVO8AdEG1Xhga373Xi6"
+      },
+      "artists": [
+        {
+          "name": "Pink Siifu",
+          "url": "https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh"
+        },
+        {
+          "name": "Real Bad Man",
+          "url": "https://open.spotify.com/artist/1AmknJ29fbA6ahZXxFCNLE"
+        },
+        {
+          "name": "Boldy James",
+          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
+        }
+      ],
+      "duration_ms": 163850,
+      "name": "Looking for Water (feat. Boldy James)",
+      "url": "https://open.spotify.com/track/3d7ElSqY4RDoqSWe5rJCAc"
+    },
+    {
       "added_at": "2022-08-26 19:10:56",
       "album": {
         "name": "Red To Violet (Feat. Jamila Woods)",
@@ -1023,46 +1031,6 @@
       "duration_ms": 202746,
       "name": "Red To Violet - Feat. Jamila Woods",
       "url": "https://open.spotify.com/track/1uxUW64IFKirksOfzcBWxD"
-    },
-    {
-      "added_at": "2022-04-02 00:01:21",
-      "album": {
-        "name": "Sunset Drive - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/24tiks2kEOLQV4JcE45h74"
-      },
-      "artists": [
-        {
-          "name": "Dreamer Isioma",
-          "url": "https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i"
-        }
-      ],
-      "duration_ms": 193983,
-      "name": "Sunset Drive - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/6LAG03Nr7qRvPSdmrPC5JF"
-    },
-    {
-      "added_at": "2022-03-04 18:28:49",
-      "album": {
-        "name": "Not Scared",
-        "url": "https://open.spotify.com/album/1aJbTZEpa9NsETBsWHiznD"
-      },
-      "artists": [
-        {
-          "name": "DCG BROTHERS",
-          "url": "https://open.spotify.com/artist/7MP0JM4me8DNocS55hbd2J"
-        },
-        {
-          "name": "DCG Shun",
-          "url": "https://open.spotify.com/artist/7okkZ7wwW0Jkh3N8FHOR11"
-        },
-        {
-          "name": "DCG Bsavv",
-          "url": "https://open.spotify.com/artist/1mU5tzu4Oi1c7pq0WPqMOL"
-        }
-      ],
-      "duration_ms": 169858,
-      "name": "Not Scared",
-      "url": "https://open.spotify.com/track/2kxJsMWm69RBY4oJXeXblb"
     },
     {
       "added_at": "2022-07-01 03:55:56",

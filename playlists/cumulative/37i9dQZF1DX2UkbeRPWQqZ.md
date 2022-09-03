@@ -4,7 +4,7 @@
 
 > Sweet lullabies on guitar for little dreamers.
 
-111 songs - 3 hr 49 min - [published](https://open.spotify.com/playlist/0w5GCTe5oFicPO0HaemBhO)
+117 songs - 4 hr 4 min - [published](https://open.spotify.com/playlist/0w5GCTe5oFicPO0HaemBhO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,11 +22,13 @@
 | [Are You Sleeping/Frere Jacques](https://open.spotify.com/track/1YdSSgLpMWZcd19T1FoJVv) | [Tippy Tapp](https://open.spotify.com/artist/3mfGOb7OtunRN7s8MiRczA) | [Are You Sleeping/Frere Jacques](https://open.spotify.com/album/4VjJKT36JKTtQ6fLn1rX77) | 1:19 | 2021-11-11 |  |
 | [Ave Nocturne](https://open.spotify.com/track/28JvPv8QUEE747BM5ujR5B) | [Henrik Janson](https://open.spotify.com/artist/5kIhxGyX6VtcsLk88dwYED) | [Classical Baby Sleep Music](https://open.spotify.com/album/3c9bS2lz06ixypXB49deUz) | 2:49 | 2021-11-11 |  |
 | [Baa Baa Black Sheep](https://open.spotify.com/track/6nj5OQscS6xp5OT0O7sxwn) | [Brown Owl Plays](https://open.spotify.com/artist/44YvYIWPDPNLJaHiHktrJD) | [Lullabies on Solo Acoustic Guitar for Babies and Their Parents](https://open.spotify.com/album/5uXkJiM9uP7nxeiME3AVPe) | 1:21 | 2021-11-11 |  |
+| [Baby Bird Finds His Nest](https://open.spotify.com/track/1vsVVHBaRapF8CFfWbve80) | [Paula Morales](https://open.spotify.com/artist/1Y0NmP0wid5RIsGHrUnOwc) | [Baby Bird Finds His Nest](https://open.spotify.com/album/23YGvzDHUZtkpd0SBQv78H) | 2:57 | 2022-09-02 |  |
 | [Baby Mine](https://open.spotify.com/track/0QuySdLpzsu6KNfvd79WVL) | [Wholy Moly](https://open.spotify.com/artist/3XdE126uFbtnhVKolZQ65n) | [Baby Mine](https://open.spotify.com/album/7uigbvctsvCz0qaxWUWVIW) | 2:17 | 2021-11-11 |  |
 | [Bedtime Song](https://open.spotify.com/track/1VQoBu1BFz1VicW34FUGmW) | [High Road Guitars](https://open.spotify.com/artist/0f6A9z1kx48hxKrL0trfGw) | [Bedtime Song](https://open.spotify.com/album/7CV29FfihxpwnunsoDAVfH) | 1:36 | 2021-11-11 |  |
 | [Bedtimes Poems](https://open.spotify.com/track/6YpPCYMFLD5jU4lPptIRFF) | [My Little Guitar](https://open.spotify.com/artist/0N43eonuFdAXrUaAyFJAmQ) | [Bedtimes Poems](https://open.spotify.com/album/5AE0Q8Pjh7L6HpYobpbgdS) | 3:20 | 2022-06-10 |  |
 | [Bing Bong Song](https://open.spotify.com/track/7FNjRbEVcYgKVAtvGWeKjV) | [Mimi Davies](https://open.spotify.com/artist/1TyyV46EBJAiR2JXpMLFEX) | [Bing Bong Song](https://open.spotify.com/album/1ZJU0UL1r1yLihBg17hqq5) | 2:37 | 2022-08-11 |  |
 | [Blåsippor](https://open.spotify.com/track/0rGiMzYYgDInT9uJAhkhPi) | [Hjalmar Lagerqvist](https://open.spotify.com/artist/3Zk8GcjOL3OAI8zS8t1b0S) | [Blåsippor](https://open.spotify.com/album/0YdmV5pPDZOp30GXboRo3g) | 1:20 | 2021-11-11 |  |
+| [Blåsippan](https://open.spotify.com/track/3Jq8PjvkWvznKg1VQM0xmR) | [Richard Moore](https://open.spotify.com/artist/7LZONuTYEizh7Bv5NgCTNA) | [Blåsippan](https://open.spotify.com/album/2f8hU3lrEKAhLuLxeYBU74) | 2:17 | 2022-09-02 |  |
 | [Brahms Lullaby](https://open.spotify.com/track/4XpkimJZpewto3Pdy7fJ0v) | [Izakaru](https://open.spotify.com/artist/3EEBU8BY4dEYy9XrzIALCq) | [Zzzz](https://open.spotify.com/album/0qNimyY8eJHQRREEcznGGk) | 1:40 | 2021-11-11 | 2022-04-27 |
 | [Brahms Lullaby](https://open.spotify.com/track/6C5G5yWbUSPFiJvfuI1WaK) | [Jeffrey Keller](https://open.spotify.com/artist/3GtDYdKAnt1iA04jpZB0ze) | [Amazing Grace](https://open.spotify.com/album/70Yu1jjbIaVz7Bhp5LsYWD) | 1:52 | 2022-04-26 |  |
 | [Butterfly Fly](https://open.spotify.com/track/2KFKwbjRTXJj0lWKBkBLJX) | [Mimi Davies](https://open.spotify.com/artist/1TyyV46EBJAiR2JXpMLFEX) | [Butterfly Fly](https://open.spotify.com/album/5qs4Anclgvr4iTgsexkOX8) | 2:47 | 2021-11-11 |  |
@@ -59,6 +61,7 @@
 | [If You're Happy and You Know It](https://open.spotify.com/track/5r9A6XkKEjazT4A0PhXgiy) | [Izakaru](https://open.spotify.com/artist/3EEBU8BY4dEYy9XrzIALCq) | [If You're Happy and You Know It](https://open.spotify.com/album/2SYzk7ikiP4f2hPLtnnafR) | 2:06 | 2021-11-11 |  |
 | [Imse vimse spindel](https://open.spotify.com/track/4QNvxfmjIWKhNR5MEIMow2) | [Simon Fjällström](https://open.spotify.com/artist/5cmNqNdfwQv9XZWjT7YGpT) | [Bedtime Lullabies](https://open.spotify.com/album/0VLjmHAqOa6R1pv7MttzLL) | 1:29 | 2021-11-11 |  |
 | [In My Dreams](https://open.spotify.com/track/7bpuq3wZc7ZTd15SGyqs5O) | [Paulette Brannigan](https://open.spotify.com/artist/5XqF83ddtiCAPcNGUVsze8) | [In My Dreams](https://open.spotify.com/album/4X1xOO2HxsxuwxwNXvp2QI) | 1:42 | 2021-11-11 |  |
+| [It's Time To Come Home](https://open.spotify.com/track/0KiBDgHHknKpx21oimTDp2) | [Lissie Dunn](https://open.spotify.com/artist/2hI2FJVLX5KUMS3fUUl5ah) | [It's Time To Come Home](https://open.spotify.com/album/0MoqEpJYuQaJOGI1anBJIL) | 2:45 | 2022-09-02 |  |
 | [It's Time To Go To Sleep](https://open.spotify.com/track/0MODSghjQ1qBiy9mP5EoLm) | [The Magic Guitar](https://open.spotify.com/artist/2lETErpujLR6ngyVsrSj2v) | [A\-Hunting We Will Go](https://open.spotify.com/album/6O1oNKCphZNf7Qlzwmlr9E) | 2:08 | 2021-11-11 |  |
 | [It's Time To Say Sweet Dreams](https://open.spotify.com/track/32gQ8o6mhuQySEfh9ztsuq) | [Julio Neve](https://open.spotify.com/artist/1PQUU6PsqiLylfwDuzkGc8) | [It's Time To Say Sweet Dreams](https://open.spotify.com/album/6mGQmZTQ4Pvh6srEI0yL1w) | 1:45 | 2021-11-11 |  |
 | [Jumpin Bumpin Bounce](https://open.spotify.com/track/7a2OEKKGw9vO3aYIIoRvcF) | [Boris Vlašic](https://open.spotify.com/artist/3zNmA2R2BOtatVjh5rMgMQ) | [Jumpin Bumpin Bounce](https://open.spotify.com/album/5IrFRr42ArFhYggtmyQoYw) | 3:16 | 2022-07-29 |  |
@@ -72,6 +75,7 @@
 | [Lullabye and Goodnight](https://open.spotify.com/track/37c65lzhL7mlZanbzgo1eY) | [Jeremy Weber](https://open.spotify.com/artist/5kG2I7kJM2vgorcUBEmdQX) | [Guitar Lullabies](https://open.spotify.com/album/1RYmiB1F57bwA1CYhOctwu) | 1:58 | 2021-11-11 | 2022-01-22 |
 | [Mary Had A Little Lamb](https://open.spotify.com/track/27kM35PshaBwZOIydcAX2v) | [The Singing Guitar](https://open.spotify.com/artist/4HuZFgsc8Y4blxFSzwNTWF) | [Lullabies](https://open.spotify.com/album/6Mk6zRNF5DNBoUo1b8lxpW) | 1:28 | 2021-11-11 |  |
 | [Måne och sol](https://open.spotify.com/track/581iZrDptObqVHR5Yo5nFp) | [Thomas Scheller](https://open.spotify.com/artist/26Dtv4a7haiHQI10e0mDJg) | [Sånger för själen vol 2](https://open.spotify.com/album/5DOYzeiyApvUj0739e7VWf) | 1:55 | 2021-11-11 |  |
+| [Me and Teddy](https://open.spotify.com/track/4pLSsRwuJetD2G3H480CqZ) | [Carla Galloway](https://open.spotify.com/artist/4UCjsEwUrldNSYac9hetq0) | [Me and Teddy](https://open.spotify.com/album/1OwCOuuu7KRLbsA9h1AHtx) | 2:34 | 2022-09-02 |  |
 | [Mi Pequeña Bebe](https://open.spotify.com/track/6PJ8TOLeJxDeybMbyUBQFK) | [Juliana Gonsales](https://open.spotify.com/artist/0rASXzSswkFvGnrpmKIR8D) | [Mi Pequeña Bebe](https://open.spotify.com/album/3Z5U8zt4ED2iUwDJYLOTIo) | 1:49 | 2021-11-11 |  |
 | [Midnight Menuette](https://open.spotify.com/track/0C8SeH9vQP6gB4B9DsCnnq) | [Schlaf Hilfe](https://open.spotify.com/artist/0jcfbSKBBWLP199T78UyOt) | [Midnight Menuette](https://open.spotify.com/album/0ldXfVn53sgwykfOq1DeJj) | 1:41 | 2021-11-11 |  |
 | [Moonlight](https://open.spotify.com/track/6HjGZns9Umkfllzifv5Cxx) | [Marius Hallman](https://open.spotify.com/artist/0UPmd3m1jLjkDWZVdIMsel) | [Moonlight](https://open.spotify.com/album/55KSFSpaZ22Bfdp9avt9zE) | 1:19 | 2021-11-11 |  |
@@ -93,6 +97,7 @@
 | [Six Little Ducks](https://open.spotify.com/track/3RGS63bYLsf9kjL1GTjNFz) | [John Petravic](https://open.spotify.com/artist/1yvylwyE6YBJOErEOJrr7X) | [Bedtime Guitar Lullabies](https://open.spotify.com/album/08P9sX4mlNilheho0M8iia) | 2:10 | 2021-11-11 | 2022-06-11 |
 | [Skidamarink A Dink A Dink](https://open.spotify.com/track/3jWeocrrxb4mQmH0Po0UNA) | [Lisa Liddle](https://open.spotify.com/artist/1YzqZE21VmV1PvWp1bHmlq) | [Skidamarink A Dink A Dink](https://open.spotify.com/album/3ckHFaiiOJl3x1lCf5S9nw) | 2:20 | 2021-11-11 |  |
 | [Skogen Sover](https://open.spotify.com/track/42EfNrLcYB9vMAnfi928Ci) | [Sofia Andersson](https://open.spotify.com/artist/7vFIdjlk1tPniBpfYn0ShM) | [Skogen Sover](https://open.spotify.com/album/1Ng8bNMcVMR77m0yWd91kI) | 2:41 | 2022-04-26 |  |
+| [Sleep Birdie Sleep](https://open.spotify.com/track/42zVKfVVXZpW9cFkNUAsi1) | [Carla Galloway](https://open.spotify.com/artist/4UCjsEwUrldNSYac9hetq0) | [Sleep Birdie Sleep](https://open.spotify.com/album/2Pu9LPjvHdG5BxArbqZLNe) | 2:08 | 2022-09-02 |  |
 | [Sleep Hymn](https://open.spotify.com/track/0S2tBDiIpa03YnsBZFa5Or) | [Unni Wide](https://open.spotify.com/artist/5kkxB64YQjSwNgfftsQvOL) | [Sleep Hymn](https://open.spotify.com/album/7KhhtHKQ8rjeDRWpBoA1z8) | 2:11 | 2021-11-11 |  |
 | [Sleep You Little Videyoung](https://open.spotify.com/track/6AmhUIvNyevwaoy2D73OxJ) | [Henrik Janson](https://open.spotify.com/artist/5kIhxGyX6VtcsLk88dwYED) | [Musica Di Bambino](https://open.spotify.com/album/6sTdjqRsLtroU8vM8CswYg) | 2:57 | 2021-11-11 |  |
 | [So Many Stars](https://open.spotify.com/track/54Mmafmblu61obktO4hibb) | [Singing Guitar](https://open.spotify.com/artist/1SQq7ZFrr73CCZ5bidEnii) | [So Many Stars](https://open.spotify.com/album/19nV7OOmUPmLBjz4jswvoD) | 2:55 | 2022-06-10 |  |
@@ -112,6 +117,7 @@
 | [Tryggare kan ingen vara](https://open.spotify.com/track/4TDyCo1Vx6pbN5BKvkmP6h) | [Thomas Scheller](https://open.spotify.com/artist/26Dtv4a7haiHQI10e0mDJg) | [Sånger för själen vol 1](https://open.spotify.com/album/0BAIYSMDCppH6iFWzA0jEb) | 1:33 | 2021-11-11 |  |
 | [Twinkle Twinkle Little Star](https://open.spotify.com/track/6zWt8aRGtbqQ0kGaQIXV0W) | [My Little Guitar](https://open.spotify.com/artist/0N43eonuFdAXrUaAyFJAmQ) | [Twinkle Twinkle Little Star](https://open.spotify.com/album/3cofneXkg1OtWT3tYF4Z6k) | 1:37 | 2021-11-11 |  |
 | [Waltzing Matilda](https://open.spotify.com/track/35TStN96CwcjFedErjW8Wq) | [Will Moore](https://open.spotify.com/artist/6XnR821CI0nzD4XFQ2ZFDo) | [Classical Guitar Lullabies Volume 1](https://open.spotify.com/album/4bOdmU2jKgz7eMoyFxWE0L) | 2:28 | 2021-11-11 |  |
+| [We Walk Around](https://open.spotify.com/track/308Pv80NYNomGwut3BgKrQ) | [Mia O’Reilly](https://open.spotify.com/artist/73DTyr2tWDvEQQfoQUQUEc) | [We Walk Around](https://open.spotify.com/album/4aTGIFMnK2nTsjGlXTV1Qm) | 2:39 | 2022-09-02 |  |
 | [Wheels On The Bus](https://open.spotify.com/track/09inREgdiCICBK1z9gbPsw) | [Toola Hoot](https://open.spotify.com/artist/4MJ1e4BtHcv048OI92a4i9) | [Wheels On The Bus](https://open.spotify.com/album/1POdFavgcOurjDfD7C4jXb) | 1:33 | 2021-11-11 |  |
 | [When The Saints Go Marching In](https://open.spotify.com/track/4uTMTLSHl3kQAlU6CT2uAb) | [Lisa Jefferies](https://open.spotify.com/artist/4SWQEQ9XimBUaukFmdZNzi) | [Pretty Guitar Lullabies](https://open.spotify.com/album/6nACNDxZVOIiGGAsN0LFN5) | 1:56 | 2021-11-11 |  |
 | [Whisper](https://open.spotify.com/track/2NXiJEKOISN8R9Frlyb0UV) | [Izakaru](https://open.spotify.com/artist/3EEBU8BY4dEYy9XrzIALCq) | [Whisper](https://open.spotify.com/album/7mlmp16gqTU2KgrIqbtlwC) | 1:27 | 2022-05-16 |  |

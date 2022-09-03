@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The home of today\u2019s cutting edge Ambient, Atmospheric and Neo Classical music. Erland Cooper on cover. ",
+  "description": "The home of today\u2019s cutting edge Ambient, Atmospheric and Neo Classical music. Pantha Du Prince on cover. ",
   "name": "Ambiente",
   "published_playlist_ids": [
     "2VJZyunnZCFnCPLdfBtZ7N"
@@ -153,7 +153,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 241465,
       "name": "34-46",
       "url": "https://open.spotify.com/track/5Utgg5uI7sMaYNcw6rLt1x"
@@ -526,6 +526,28 @@
     },
     {
       "album": {
+        "name": "To Those Who Dwelt in a Land of Deep Darkness",
+        "url": "https://open.spotify.com/album/5gCoXk0VCqw3fLcK6aseuV"
+      },
+      "artists": [
+        {
+          "name": "zak\u00e8",
+          "url": "https://open.spotify.com/artist/22becwc1PhY3lSxHM3YThr"
+        },
+        {
+          "name": "Wayne Robert Thomas",
+          "url": "https://open.spotify.com/artist/7yueLMbHp3xEU37tq8JId1"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 420000,
+      "name": "Addendum 2",
+      "url": "https://open.spotify.com/track/6SH5CG9cy9Er9bYaC806nJ"
+    },
+    {
+      "album": {
         "name": "See-Voice",
         "url": "https://open.spotify.com/album/0a75zOogyDGl7bwfmSdyHn"
       },
@@ -577,6 +599,24 @@
       "duration_ms": 179439,
       "name": "After the Rain - Piano Solo",
       "url": "https://open.spotify.com/track/0z7IeekUiNaQvmGQhsfJdl"
+    },
+    {
+      "album": {
+        "name": "After Dark 4",
+        "url": "https://open.spotify.com/album/6x3gv3hXKXbJC1VCsn1o8M"
+      },
+      "artists": [
+        {
+          "name": "Mesh Kimono",
+          "url": "https://open.spotify.com/artist/0JrIlMMd4MQAQXo59etjQh"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Afterburn",
+      "url": "https://open.spotify.com/track/3ZeOlJzcevGwxnnIGS2e4C"
     },
     {
       "album": {
@@ -761,7 +801,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 256926,
       "name": "Alzheimer's Disease (Floor 1)",
       "url": "https://open.spotify.com/track/644RtTy8O2hT4zpF5BSVTA"
@@ -797,7 +837,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 182666,
       "name": "Ambient Spring Forest",
       "url": "https://open.spotify.com/track/5bwyptfcdhtAyfC3Uunniv"
@@ -837,6 +877,24 @@
       "duration_ms": 331377,
       "name": "Annoisance",
       "url": "https://open.spotify.com/track/1gkeLoO1pPZTzgsgF74n1A"
+    },
+    {
+      "album": {
+        "name": "Voz",
+        "url": "https://open.spotify.com/album/3uY9APJcADScKquOCujhw3"
+      },
+      "artists": [
+        {
+          "name": "Dania",
+          "url": "https://open.spotify.com/artist/6zT9Hqr8CQBZGevQoo9S9O"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151838,
+      "name": "Anomaly",
+      "url": "https://open.spotify.com/track/2qbm8KA7O83nPviXa5aK5I"
     },
     {
       "album": {
@@ -1217,6 +1275,24 @@
       "duration_ms": 290684,
       "name": "Awake",
       "url": "https://open.spotify.com/track/7nL6yJB0n2Odzl9wkIlyrO"
+    },
+    {
+      "album": {
+        "name": "J\u00e4rnn\u00e4tter",
+        "url": "https://open.spotify.com/album/1Z7zJp7hTa04uPoQZzyTlX"
+      },
+      "artists": [
+        {
+          "name": "Civilistj\u00e4vel!",
+          "url": "https://open.spotify.com/artist/3MVZ2vxkDeDuTy3cGsDuQC"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 74304,
+      "name": "B3",
+      "url": "https://open.spotify.com/track/3oL1cWdxaQR3fOY5LsscGc"
     },
     {
       "album": {
@@ -2051,7 +2127,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 247734,
       "name": "Cloud Hands",
       "url": "https://open.spotify.com/track/2ehqVRNX0DcWL7YZfcTsve"
@@ -2332,6 +2408,24 @@
     },
     {
       "album": {
+        "name": "Crescent",
+        "url": "https://open.spotify.com/album/52LLofRlwJJHhp13vDPIFc"
+      },
+      "artists": [
+        {
+          "name": "Christopher Willits",
+          "url": "https://open.spotify.com/artist/0XHtezS69NYZ51SEFh8WEA"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351379,
+      "name": "Crescent",
+      "url": "https://open.spotify.com/track/6rMKk5y9f3gbUKRrWhUclo"
+    },
+    {
+      "album": {
         "name": "Cry Me A Blizzard (AFRODEUTSCHE I'm Here Remix)",
         "url": "https://open.spotify.com/album/7hXkd8IoY96t96LsAAazg3"
       },
@@ -2419,7 +2513,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 280000,
       "name": "dana\u00efdes",
       "url": "https://open.spotify.com/track/1NuEOnS4XOfuwFyihgiXiD"
@@ -2517,6 +2611,42 @@
       "duration_ms": 208625,
       "name": "Dawn Chorus",
       "url": "https://open.spotify.com/track/6a06vmzIppjBTTdVrx8t5D"
+    },
+    {
+      "album": {
+        "name": "Theory",
+        "url": "https://open.spotify.com/album/1lgHQEYjhVOnpY3ew0hhpy"
+      },
+      "artists": [
+        {
+          "name": "TAKA",
+          "url": "https://open.spotify.com/artist/4EDsHhy34wYbBzKpOEXkYm"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238846,
+      "name": "deaf",
+      "url": "https://open.spotify.com/track/0RFwd1ZWNSVT7LtAvenIVg"
+    },
+    {
+      "album": {
+        "name": "The Truth Is",
+        "url": "https://open.spotify.com/album/6df4g0WHHjokEWvS7LJCp8"
+      },
+      "artists": [
+        {
+          "name": "Cameron Morse",
+          "url": "https://open.spotify.com/artist/5w17BTK3HRhjZoyqe47yIl"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212872,
+      "name": "Decide Every Second",
+      "url": "https://open.spotify.com/track/3cAG7OsSdJgPTLfRx0Xrng"
     },
     {
       "album": {
@@ -2645,7 +2775,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 110571,
       "name": "distorted memories",
       "url": "https://open.spotify.com/track/2QJEVdIX5xuBGrDSpPjocC"
@@ -3027,7 +3157,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 116565,
       "name": "Echoes",
       "url": "https://open.spotify.com/track/4vvpzJF121oJbfU2F7yaO0"
@@ -3133,7 +3263,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 182373,
       "name": "Ellis Island",
       "url": "https://open.spotify.com/track/6LKYTKdEEgikRjVjKXj3d9"
@@ -3212,6 +3342,24 @@
     },
     {
       "album": {
+        "name": "Endless Filament",
+        "url": "https://open.spotify.com/album/1pgBqtipj2AI0o07ugj5rl"
+      },
+      "artists": [
+        {
+          "name": "Fia Fiell",
+          "url": "https://open.spotify.com/artist/4C8lEDj85NWxS4MNCpyp9e"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 937000,
+      "name": "Endless Filament",
+      "url": "https://open.spotify.com/track/2ST4AaDsvY9D15iZSJuMXj"
+    },
+    {
+      "album": {
         "name": "Enigma",
         "url": "https://open.spotify.com/album/2tdi5KxoYhjlnOQDre2Jvb"
       },
@@ -3227,6 +3375,42 @@
       "duration_ms": 344711,
       "name": "Enigma",
       "url": "https://open.spotify.com/track/4eW3kSiXV8s2wCOCKGQHEL"
+    },
+    {
+      "album": {
+        "name": "Everything Was Forever Until It Was No More",
+        "url": "https://open.spotify.com/album/5B0128D2K1htOCWOibAXnm"
+      },
+      "artists": [
+        {
+          "name": "Esmerine",
+          "url": "https://open.spotify.com/artist/1uXKQUZkkDAQ89OPXLMtw2"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323012,
+      "name": "Entropy: Acquiescence",
+      "url": "https://open.spotify.com/track/4pTrgmYIYCRvZBIsdyNgnN"
+    },
+    {
+      "album": {
+        "name": "Ephemera",
+        "url": "https://open.spotify.com/album/3aCr59wGtaSDunfN6J0PPF"
+      },
+      "artists": [
+        {
+          "name": "Cameron Morse",
+          "url": "https://open.spotify.com/artist/5w17BTK3HRhjZoyqe47yIl"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178315,
+      "name": "Ephemera",
+      "url": "https://open.spotify.com/track/0lPuVl7IOARj1HFFL5t5yK"
     },
     {
       "album": {
@@ -3718,6 +3902,24 @@
     },
     {
       "album": {
+        "name": "Flux",
+        "url": "https://open.spotify.com/album/47OhENaoLcx2paWK9GgzUR"
+      },
+      "artists": [
+        {
+          "name": "Eusebeia",
+          "url": "https://open.spotify.com/artist/6Vya9cujyDikgMmgOo1DRD"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101380,
+      "name": "Flux",
+      "url": "https://open.spotify.com/track/1FBZeHlILzJFN2YGKk0yPS"
+    },
+    {
+      "album": {
         "name": "Follower",
         "url": "https://open.spotify.com/album/0Yz7gx5EnZuO7H3tTX1mya"
       },
@@ -4064,6 +4266,24 @@
     },
     {
       "album": {
+        "name": "Glint",
+        "url": "https://open.spotify.com/album/02ngGbggExsPeN8dzZbYmr"
+      },
+      "artists": [
+        {
+          "name": "Handbook",
+          "url": "https://open.spotify.com/artist/6OvOdUubb1MOOz2FtGWlHk"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166960,
+      "name": "Glint",
+      "url": "https://open.spotify.com/track/23ZVZvsAz6KLgeQQm3dGL0"
+    },
+    {
+      "album": {
         "name": "Gnossienne No. 1",
         "url": "https://open.spotify.com/album/4ZWDD7tNRRMB2eO4B5LsJh"
       },
@@ -4119,10 +4339,28 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 268813,
       "name": "Golden Galactic",
       "url": "https://open.spotify.com/track/1rYytjDuRhWSYLEvGVeX9m"
+    },
+    {
+      "album": {
+        "name": "Garden Gaia",
+        "url": "https://open.spotify.com/album/1DgRx1LvQ06RX992m1yn5m"
+      },
+      "artists": [
+        {
+          "name": "Pantha Du Prince",
+          "url": "https://open.spotify.com/artist/7Go2Fj2YWEQkYBqTVQArYi"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268813,
+      "name": "Golden Galactic",
+      "url": "https://open.spotify.com/track/5UV4bOGPyQyF5hnWuel6Zv"
     },
     {
       "album": {
@@ -4163,6 +4401,24 @@
       "duration_ms": 188697,
       "name": "Gradual of Image",
       "url": "https://open.spotify.com/track/23nCdon9t8jCCBFKqZDpXf"
+    },
+    {
+      "album": {
+        "name": "Grauer Sand",
+        "url": "https://open.spotify.com/album/1MZLj3NxYCPy13TO5s5hj1"
+      },
+      "artists": [
+        {
+          "name": "Pole",
+          "url": "https://open.spotify.com/artist/2oAUWVDrNRE76jqj9IkVK6"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246367,
+      "name": "Grauer Sand",
+      "url": "https://open.spotify.com/track/66IbIrMufglj4589q8126r"
     },
     {
       "album": {
@@ -4287,6 +4543,24 @@
       "duration_ms": 252733,
       "name": "Haut",
       "url": "https://open.spotify.com/track/17SMwXGNWXWRJIGUMkHxaq"
+    },
+    {
+      "album": {
+        "name": "Let's Turn It Into Sound",
+        "url": "https://open.spotify.com/album/6OejvHOkJc24k5Psvw2kS3"
+      },
+      "artists": [
+        {
+          "name": "Kaitlyn Aurelia Smith",
+          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234160,
+      "name": "Have You Felt Lately?",
+      "url": "https://open.spotify.com/track/2v7b1jWrpXzHRkeLmHE81K"
     },
     {
       "album": {
@@ -4917,7 +5191,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 1254000,
       "name": "Intorno allo schermo",
       "url": "https://open.spotify.com/track/6VzQf50Dq4klOk2JLvggSH"
@@ -5171,6 +5445,28 @@
       "duration_ms": 247043,
       "name": "Kassel - Robot Koch Rework",
       "url": "https://open.spotify.com/track/2xqRqf5is3SrJeYnIO2lPL"
+    },
+    {
+      "album": {
+        "name": "Kerber Remixes",
+        "url": "https://open.spotify.com/album/1vTpfmKAEd24vt9YxqzSKF"
+      },
+      "artists": [
+        {
+          "name": "Yann Tiersen",
+          "url": "https://open.spotify.com/artist/00sazWvoTLOqg5MFwC68Um"
+        },
+        {
+          "name": "Beatrice Dillon",
+          "url": "https://open.spotify.com/artist/14H1XUmtWYzRHCQDkoee97"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 391090,
+      "name": "Ker al Loch - Beatrice Dillon Remix",
+      "url": "https://open.spotify.com/track/4fnCsStFxp68J9ovqDxdch"
     },
     {
       "album": {
@@ -5907,7 +6203,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 519893,
       "name": "Management Of Sorrows",
       "url": "https://open.spotify.com/track/1E2ShBrH7M8h4GLKrLWYa6"
@@ -6019,7 +6315,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 257722,
       "name": "Meditation, No. 1",
       "url": "https://open.spotify.com/track/6YGBhIuanpChP7LeP26jhj"
@@ -6529,7 +6825,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 427299,
       "name": "Music For Psychedelic Therapy - Excerpt",
       "url": "https://open.spotify.com/track/4xT0BmSuDNp2vkK5v07yba"
@@ -7088,6 +7384,24 @@
     },
     {
       "album": {
+        "name": "Garden Gaia",
+        "url": "https://open.spotify.com/album/1DgRx1LvQ06RX992m1yn5m"
+      },
+      "artists": [
+        {
+          "name": "Pantha Du Prince",
+          "url": "https://open.spotify.com/artist/7Go2Fj2YWEQkYBqTVQArYi"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283093,
+      "name": "Open Day",
+      "url": "https://open.spotify.com/track/7pRuoZ6srxvHQOVXMZa9Qn"
+    },
+    {
+      "album": {
         "name": "Horizon",
         "url": "https://open.spotify.com/album/2FnyPVqxMi3DhDL9Ms53we"
       },
@@ -7175,7 +7489,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 247124,
       "name": "Orbit",
       "url": "https://open.spotify.com/track/5UjMb1mO2VQ3Kv1KB2G4oI"
@@ -7331,7 +7645,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 231624,
       "name": "Pale Interior",
       "url": "https://open.spotify.com/track/6nI1FAfYETS7qtrPpyg3d7"
@@ -7925,6 +8239,28 @@
       "duration_ms": 450000,
       "name": "Purples - Live",
       "url": "https://open.spotify.com/track/0bNg765s4JOqt3QpaLtbLu"
+    },
+    {
+      "album": {
+        "name": "MK 3.5: In Your Eyes & A Deities Encore | Q & Quartz",
+        "url": "https://open.spotify.com/album/1Go6FfjxKnKipsnWuPJPZb"
+      },
+      "artists": [
+        {
+          "name": "Mount Kimbie",
+          "url": "https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl"
+        },
+        {
+          "name": "Kai Campos",
+          "url": "https://open.spotify.com/artist/0ud7Vcl9BBEoOVwoWDqXIH"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122906,
+      "name": "Q",
+      "url": "https://open.spotify.com/track/6DkTpLhAsfsQNxnuZNMtVJ"
     },
     {
       "album": {
@@ -8583,7 +8919,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-20",
+      "date_removed": null,
       "duration_ms": 182400,
       "name": "Second Love",
       "url": "https://open.spotify.com/track/0jaYsfrSaAGb4d81qE5APl"
@@ -8975,7 +9311,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 121653,
       "name": "softly",
       "url": "https://open.spotify.com/track/1zp5bDTjX4hFLaKm3JAAub"
@@ -9141,7 +9477,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 316693,
       "name": "St Henri",
       "url": "https://open.spotify.com/track/2Zu8GTKVR2iXR3ZJIbbky3"
@@ -9285,7 +9621,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 210569,
       "name": "Summer on the River Banks",
       "url": "https://open.spotify.com/track/392rTwEgQPs1nczvd5Ys5h"
@@ -9405,6 +9741,24 @@
       "duration_ms": 259513,
       "name": "Sylvan",
       "url": "https://open.spotify.com/track/3owPl13RmiX6p0gIG7gBrx"
+    },
+    {
+      "album": {
+        "name": "I Survived, It's Over",
+        "url": "https://open.spotify.com/album/1KErFGaU1RWUTJDeHKJoK2"
+      },
+      "artists": [
+        {
+          "name": "Rich Ruth",
+          "url": "https://open.spotify.com/artist/3fzSa1ee522CjcS8Fdo7dl"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338053,
+      "name": "Taken Back",
+      "url": "https://open.spotify.com/track/2hJcalCWcwchGuVbZXPPic"
     },
     {
       "album": {
@@ -9575,6 +9929,24 @@
       "duration_ms": 360000,
       "name": "The Ecstasy of Annihilation - Lawrence English's Ecstasy Wave In Acid Mix",
       "url": "https://open.spotify.com/track/3uXkbKR6UBUCM5PeQrj3Mm"
+    },
+    {
+      "album": {
+        "name": "The Truth Is",
+        "url": "https://open.spotify.com/album/6df4g0WHHjokEWvS7LJCp8"
+      },
+      "artists": [
+        {
+          "name": "Cameron Morse",
+          "url": "https://open.spotify.com/artist/5w17BTK3HRhjZoyqe47yIl"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 402356,
+      "name": "The Fifty",
+      "url": "https://open.spotify.com/track/07VqE9HRlrZeWj72Ka4FKA"
     },
     {
       "album": {
@@ -9803,7 +10175,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 281229,
       "name": "The Secret Garden",
       "url": "https://open.spotify.com/track/5nQzwQJAMxPR8TV6BXhthc"
@@ -10771,7 +11143,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 367775,
       "name": "Upstairs Flat",
       "url": "https://open.spotify.com/track/7w6GXyNpjmfIL0jGCHyP2Z"
@@ -11169,7 +11541,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 382773,
       "name": "Welcome",
       "url": "https://open.spotify.com/track/2Mt27qdkzzjwSQq2TbTRnN"
@@ -11469,10 +11841,28 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 239232,
       "name": "You Make It Look so Easy - Reverbed by Malibu",
       "url": "https://open.spotify.com/track/5hKekn6sLhu07TbCNNqn9a"
+    },
+    {
+      "album": {
+        "name": "you're always with me",
+        "url": "https://open.spotify.com/album/1AvX14kEvlBKmWAsyTM4id"
+      },
+      "artists": [
+        {
+          "name": "innerinnerlife",
+          "url": "https://open.spotify.com/artist/3SJn3wuHQGbKFT0vDKT3Yo"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248934,
+      "name": "you're always with me",
+      "url": "https://open.spotify.com/track/5AXa5jxDOTBTLiTdZJcjvP"
     },
     {
       "album": {

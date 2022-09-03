@@ -4,7 +4,7 @@
 
 > Here it is, the playlist for the ultimate throwback bash!
 
-412 songs - 1 day 2 hr 32 min - [published](https://open.spotify.com/playlist/5TiGu0tiZTqKRaesFDomVT)
+413 songs - 1 day 2 hr 35 min - [published](https://open.spotify.com/playlist/5TiGu0tiZTqKRaesFDomVT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,6 +189,7 @@
 | [Jump \(For My Love\)](https://open.spotify.com/track/1kdxZYbXrqBX2hWtw3VFQF) | [The Pointer Sisters](https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N) | [Break Out](https://open.spotify.com/album/5jgQl00nL7ei2z5Biv7kdV) | 4:27 | 2021-12-15 | 2022-04-20 |
 | [Jump \- 2015 Remaster](https://open.spotify.com/track/7N3PAbqfTjSEU1edb2tY8j) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [1984 \(Remastered\)](https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0) | 4:01 | 2022-03-23 |  |
 | [Jump Around](https://open.spotify.com/track/2oTDOIAdsxPTE7yAp4YOcv) | [House Of Pain](https://open.spotify.com/artist/0AuW7OCyKfFrsMbtHrYgIV) | [House Of Pain](https://open.spotify.com/album/6aQe8pwmbv89DodASvyuSq) | 3:34 | 2022-03-23 | 2022-04-20 |
+| [Jump Around \- 30 Years Remaster](https://open.spotify.com/track/7L93GESzq43UkKUt5FsOCq) | [House Of Pain](https://open.spotify.com/artist/0AuW7OCyKfFrsMbtHrYgIV) | [House of Pain \(Fine Malt Lyrics\) \[30 Years\] \[Deluxe Edition\]](https://open.spotify.com/album/1GYvmeraQXDxxSC9T3RDvM) | 3:38 | 2022-08-26 |  |
 | [Just Can't Get Enough](https://open.spotify.com/track/0qi4b1l0eT3jpzeNHeFXDT) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Speak And Spell \(Deluxe\)](https://open.spotify.com/album/0Zp2eVzR9FW6lKX05lRpcu) | 3:40 | 2022-03-23 | 2022-04-21 |
 | [Just Dance](https://open.spotify.com/track/1dzQoRqT5ucxXVaAhTcT0J) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Colby O'Donis](https://open.spotify.com/artist/7fObcBw9VM3x7ntWKCYl0z) | [The Fame](https://open.spotify.com/album/1qwlxZTNLe1jq3b0iidlue) | 4:01 | 2021-12-15 | 2022-07-29 |
 | [Just Dance](https://open.spotify.com/track/2x7MyWybabEz6Y6wvHuwGE) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Colby O'Donis](https://open.spotify.com/artist/7fObcBw9VM3x7ntWKCYl0z) | [The Fame](https://open.spotify.com/album/1jpUMnKpRlng1OJN7LJauV) | 4:01 | 2022-07-07 |  |
@@ -224,7 +225,7 @@
 | [Lola's Theme \- Radio Edit](https://open.spotify.com/track/5mAh5J4w6BEZkajB1M7XrB) | [The Shapeshifters](https://open.spotify.com/artist/60FV7KyxIH9FH1uq7u8inP) | [Lola's Theme](https://open.spotify.com/album/0thmU9CS6evNvZSso54yCU) | 3:27 | 2021-12-15 | 2022-04-18 |
 | [Love Generation \- Radio Edit](https://open.spotify.com/track/3s3DWOPtKQSgJVDRKu85Tt) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN), [Gary Pine](https://open.spotify.com/artist/2cSQyZg5t274Y3Nv0uuwjd) | [La Saga Des Hits](https://open.spotify.com/album/7sImJdd7WylHtF8yCjIvzu) | 3:27 | 2021-12-15 | 2022-07-24 |
 | [Love Really Hurts Without You](https://open.spotify.com/track/0nlVsRpZgsOZi0BFfzHSL9) | [Billy Ocean](https://open.spotify.com/artist/5IDs1CK15HegSAhGEbSYXo) | [Here You Are: The Best of Billy Ocean](https://open.spotify.com/album/5ciu3GM6WiMGBOSbQKgc5z) | 2:58 | 2021-12-15 | 2022-04-21 |
-| [Love Shack](https://open.spotify.com/track/4W4wYHtsrgDiivRASVOINL) | [The B\-52's](https://open.spotify.com/artist/3gdbcIdNypBsYNu3iiCjtN) | [Cosmic Thing](https://open.spotify.com/album/5BAzAODqIwttjj7wxmlNMS) | 5:20 | 2022-01-05 |  |
+| [Love Shack](https://open.spotify.com/track/4W4wYHtsrgDiivRASVOINL) | [The B\-52's](https://open.spotify.com/artist/3gdbcIdNypBsYNu3iiCjtN) | [Cosmic Thing](https://open.spotify.com/album/5BAzAODqIwttjj7wxmlNMS) | 5:20 | 2022-01-05 | 2022-09-03 |
 | [Love Shack \- Edit](https://open.spotify.com/track/64B4UbGRLtGRBtiN2m8OvF) | [The B\-52's](https://open.spotify.com/artist/3gdbcIdNypBsYNu3iiCjtN) | [Love Shack \(Edit\) / Channel Z](https://open.spotify.com/album/4ugIloQYMfDhN7lOtEWezy) | 4:17 | 2022-03-23 | 2022-04-20 |
 | [Low \(feat\. T\-Pain\)](https://open.spotify.com/track/7jOuIhMrkiKj7bvYhRqaym) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Low \(feat\. T\-Pain\)](https://open.spotify.com/album/61XDGdDOPP4mTC76DvFpwq) | 3:50 | 2022-01-05 | 2022-07-29 |
 | [Low \(feat\. T\-Pain\)](https://open.spotify.com/track/0CAfXk7DXMnon4gLudAp7J) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Mail on Sunday](https://open.spotify.com/album/5j1wrOAOm5KFd17pPiSvle) | 3:51 | 2021-12-15 |  |

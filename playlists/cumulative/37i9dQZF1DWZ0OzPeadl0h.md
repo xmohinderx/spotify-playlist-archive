@@ -4,7 +4,7 @@
 
 > Elevate the moment and unwind with the lush sounds of these ethereal tracks.
 
-159 songs - 10 hr 23 min - [published](https://open.spotify.com/playlist/2sqAkZ7irgoKucdGgQUB0Y)
+160 songs - 10 hr 25 min - [published](https://open.spotify.com/playlist/2sqAkZ7irgoKucdGgQUB0Y)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Burning Hour](https://open.spotify.com/track/2dje3ZBu1j1r0QfR7mtS0l) | [Jadu Heart](https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj) | [Hyper Romance](https://open.spotify.com/album/08oR5PmpCJQ9FfWjsQtpXc) | 4:38 | 2021-11-17 |  |
 | [Calico](https://open.spotify.com/track/7EWwiyBXMaLzoSXwWZkYyU) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS) | [Calico](https://open.spotify.com/album/6ocDemfIGrj8hpvvpjDFoc) | 3:51 | 2021-10-22 |  |
 | [Carve Me Open](https://open.spotify.com/track/6n3eF5U86dQZbU7uBICvYC) | [Silences](https://open.spotify.com/artist/2O7t5nO7qGlTbKxRXVBmBT) | [Luna](https://open.spotify.com/album/5D6TVgFPTKFJuqsZYgLJJ8) | 3:03 | 2021-10-22 |  |
-| [Caution Cares](https://open.spotify.com/track/4PQPl27Acsw7b0fJGRtoPj) | [Hayden Calnin](https://open.spotify.com/artist/19OAtq7pNHnBRKJORFeahx) | [Cut Love \(Pt\. 2\)](https://open.spotify.com/album/3yV5wErzvF2tApRUa8oWRl) | 3:47 | 2021-10-22 |  |
+| [Caution Cares](https://open.spotify.com/track/4PQPl27Acsw7b0fJGRtoPj) | [Hayden Calnin](https://open.spotify.com/artist/19OAtq7pNHnBRKJORFeahx) | [Cut Love \(Pt\. 2\)](https://open.spotify.com/album/3yV5wErzvF2tApRUa8oWRl) | 3:47 | 2021-10-22 | 2022-09-03 |
 | [Caution Cares](https://open.spotify.com/track/64IQtRQehhKter1drFiUI1) | [Hayden Calnin](https://open.spotify.com/artist/19OAtq7pNHnBRKJORFeahx) | [Caution Cares](https://open.spotify.com/album/1hjKyMsGkc75LAlMvpjat3) | 3:47 | 2021-10-22 | 2022-07-29 |
 | [Cautionary Tale](https://open.spotify.com/track/2kJZvHENw6ZKuG1fO5yj6c) | [Dylan LeBlanc](https://open.spotify.com/artist/60rNO7ymhlxcYxrdkDYq1k) | [Cautionary Tale](https://open.spotify.com/album/3B8zNxf496nODv0c33djP2) | 3:40 | 2021-10-22 | 2022-07-29 |
 | [Cautionary Tale](https://open.spotify.com/track/2zEByOH565rMCSacbB56Pd) | [Dylan LeBlanc](https://open.spotify.com/artist/60rNO7ymhlxcYxrdkDYq1k) | [Cautionary Tale](https://open.spotify.com/album/6KPVsHAHibAlnZ2NHHTgyJ) | 3:40 | 2021-10-22 |  |
@@ -121,6 +121,7 @@
 | [Seven Hours](https://open.spotify.com/track/1g9n3Y040NXNrDYZ3xo3yb) | [Little May](https://open.spotify.com/artist/0TjAAwE04BeoSeOpJIakYH) | [For The Company](https://open.spotify.com/album/4ruKhGgJSmLx5fGAZquEH2) | 3:41 | 2021-10-22 |  |
 | [Seven Hours](https://open.spotify.com/track/6mmrnnwdZNLcl1k3er9mik) | [Little May](https://open.spotify.com/artist/0TjAAwE04BeoSeOpJIakYH) | [Seven Hours](https://open.spotify.com/album/6M240fvGl9RkyTPKBu7aVt) | 3:41 | 2021-10-22 | 2022-07-29 |
 | [Shortline](https://open.spotify.com/track/4ROdI7pMLhREchUg6xb4ix) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Dawn](https://open.spotify.com/album/0DvauBOn2G8RIEQR54Cmiv) | 3:54 | 2021-10-22 |  |
+| [Sister Take My Hand](https://open.spotify.com/track/6tqZStozYbny36BfkY4hHH) | [Eerie Wanda](https://open.spotify.com/artist/0CkWsjqKOX2aFrcmFvcQr9) | [Sister Take My Hand](https://open.spotify.com/album/6Ikl9fE6YOpIgTbC6bDLd7) | 2:53 | 2022-09-02 |  |
 | [Slacks](https://open.spotify.com/track/01qIefOW1UdSDS1mHoSZ3x) | [St\. South](https://open.spotify.com/artist/1n3X60xWCyL1zytSiKeu4D) | [Slacks](https://open.spotify.com/album/7dj1YwKeoOGrhvgQU87qWh) | 3:26 | 2021-10-22 | 2022-07-29 |
 | [Slacks](https://open.spotify.com/track/1fCtah6RlmidPvSiyMfncH) | [St\. South](https://open.spotify.com/artist/1n3X60xWCyL1zytSiKeu4D) | [Slacks](https://open.spotify.com/album/08W1N1M71WmwpgbnpVZOF3) | 3:26 | 2021-10-22 |  |
 | [Slumbr](https://open.spotify.com/track/5PQ1a1zxILh9ncbj2gwxEe) | [Zack Oke](https://open.spotify.com/artist/3M3KbaQtjT2PgdDLM85oqG), [Aby Coulibaly](https://open.spotify.com/artist/1ZjJVQsxUHP7MKnZg8yE33) | [Sleepwalkers](https://open.spotify.com/album/16b9hC4l55WPqi5K3frIUI) | 2:42 | 2021-10-22 |  |

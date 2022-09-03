@@ -4,7 +4,7 @@
 
 > The hottest local and global tracks in Pakistan\. Cover \- Asim Azhar
 
-78 songs - 4 hr 49 min - [published](https://open.spotify.com/playlist/7dqZIhUmQUoc5otwsdY7F6)
+79 songs - 4 hr 52 min - [published](https://open.spotify.com/playlist/7dqZIhUmQUoc5otwsdY7F6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,8 @@
 | [Tu Aake Dekhle](https://open.spotify.com/track/0yCWDaAgOtg6TKlNCg9rwA) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU) | [The Carnival](https://open.spotify.com/album/7uftfPn8f7lwtRLUrEVRYM) | 4:30 | 2022-06-20 |  |
 | [Tu Kahan](https://open.spotify.com/track/3t61rT4gCPht1hJRe4tcPv) | [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi), [Abdullah Maharvi](https://open.spotify.com/artist/1gcHKvKKZtEccnyXYlSvP5), [JANI](https://open.spotify.com/artist/63L8XYlQRWRGlg1d4ujXDc), [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V) | [Tu Kahan](https://open.spotify.com/album/6poXtouDyrWk4JhbI0iCL3) | 4:12 | 2022-07-18 |  |
 | [Vitamin D](https://open.spotify.com/track/1Sy1Y7Kug6XseJi7Oy7enX) | [Faris Shafi](https://open.spotify.com/artist/1LAdnp9wIdKClX7Cool0GD), [Talal Qureshi](https://open.spotify.com/artist/0nES9rTgJJV7uJF2cIkJNS) | [Vitamin D](https://open.spotify.com/album/1iXSrJmg2Xdi2hrgFELOOE) | 4:29 | 2022-08-01 |  |
-| [WE ROLLIN](https://open.spotify.com/track/605r6rtj7kBlJwZWmYx1Dt) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [WE ROLLIN](https://open.spotify.com/album/7EJI4AmDQIyLoxegf5AjDO) | 3:19 | 2022-06-20 |  |
+| [WE ROLLIN](https://open.spotify.com/track/605r6rtj7kBlJwZWmYx1Dt) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [WE ROLLIN](https://open.spotify.com/album/7EJI4AmDQIyLoxegf5AjDO) | 3:19 | 2022-06-20 | 2022-09-03 |
+| [WE ROLLIN](https://open.spotify.com/track/6ZYxNjuAU9Vy3VtF6W1dtE) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [We Rollin](https://open.spotify.com/album/09vnsHZoXH0OQWNAaOkVcf) | 3:19 | 2022-08-29 |  |
 | [Weli Ho](https://open.spotify.com/track/3xoeyCTIlvBaLuTmewPRwL) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Abdullah Kasumbi](https://open.spotify.com/artist/0GlE0oxdKhuakcFHkeZ7fR), [Talhah Yunus](https://open.spotify.com/artist/3mGW1eoqwNtCxd8R3hIOM5) | [Weli Ho](https://open.spotify.com/album/7CgXTd6AhH7tNNBq8soFu7) | 3:20 | 2022-06-20 | 2022-07-19 |
 | [Why](https://open.spotify.com/track/04qQIzDitcAY9Y2YWf28Q1) | [Young Stunners](https://open.spotify.com/artist/01PyusFVbXgoD5Kl1mR8CC), [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci), [Talhah Yunus](https://open.spotify.com/artist/3mGW1eoqwNtCxd8R3hIOM5) | [Why](https://open.spotify.com/album/2dPSXIW4BvNjQupxjPD5xp) | 4:21 | 2022-06-20 | 2022-07-29 |
 | [Why](https://open.spotify.com/track/6712goAF36pcQ2k51UwbIe) | [Young Stunners](https://open.spotify.com/artist/01PyusFVbXgoD5Kl1mR8CC), [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci), [Talhah Yunus](https://open.spotify.com/artist/3mGW1eoqwNtCxd8R3hIOM5) | [Why](https://open.spotify.com/album/6EFwmBkArb4qjWwB3dlPIi) | 4:21 | 2022-07-25 |  |

@@ -4,7 +4,7 @@
 
 > Piezas acústicas para cenar a la luz de las velas con alguien especial.
 
-128 songs - 6 hr 34 min - [published](https://open.spotify.com/playlist/0NRIi162ZzHvIFqC70MezX)
+130 songs - 6 hr 40 min - [published](https://open.spotify.com/playlist/0NRIi162ZzHvIFqC70MezX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [La Ultima Vez](https://open.spotify.com/track/4ohd4Soqh0KVuT3c5wVNs5) | [Nylonwings](https://open.spotify.com/artist/2FLK3ubX0vLLfbU5ViuJTN) | [Alma Azul](https://open.spotify.com/album/573aR866i22zkC8OTWKOVU) | 2:10 | 2022-03-03 |  |
 | [Lake Tahoe](https://open.spotify.com/track/1WzAwlgMrKrbImVPK7nxHY) | [Mac Lawlor](https://open.spotify.com/artist/0GaniHLie4Bik5osPQxfM3) | [Lake Tahoe](https://open.spotify.com/album/7qDXnV1wkeeCjx3ryDWHyk) | 3:02 | 2022-03-03 |  |
 | [Lembrei de Você](https://open.spotify.com/track/2qXVRAwRPbnPOTQv9ov0Zq) | [João Callado](https://open.spotify.com/artist/6eDeimOkEXaz1QkTkRuGjB), [Maurício Massunaga](https://open.spotify.com/artist/66CvqABI3thHckYwuwxk6i) | [Lembrei de Você](https://open.spotify.com/album/7qyVZP9PsptfF9ERJe7OpL) | 4:08 | 2022-07-15 |  |
+| [Love Letter 1 \- Guitar Solo](https://open.spotify.com/track/2q7sQMlVltYFHo479M0X2o) | [Ulrich Steier](https://open.spotify.com/artist/53d66ja0O9INgwNvA4dIIY) | [Love Letter 1 \(Guitar Solo\)](https://open.spotify.com/album/2yW3sBoJlFPbHXHxuMiSxC) | 3:39 | 2022-09-02 |  |
 | [Mais tarde](https://open.spotify.com/track/3OsoopvnzJWLErS19g6kkH) | [Margot Leavitt](https://open.spotify.com/artist/0eqVgQI4iTRtSBjclCTV5D) | [Mais tarde](https://open.spotify.com/album/76UFpZeSUJmxeefnkVmSSy) | 3:17 | 2022-03-03 |  |
 | [Maria Elena](https://open.spotify.com/track/6hBhCWOJRbY8lB9Es8iajN) | [Miles Higgins](https://open.spotify.com/artist/5tdW8sDHJ3jsFUSrEjJkn4) | [Amore](https://open.spotify.com/album/2FaBacnmmAyYE47pIiAvqT) | 2:44 | 2022-03-03 | 2022-07-22 |
 | [María Elena](https://open.spotify.com/track/10uj4OUMAm6uSylGheBhfp) | [Las Guitarras Románticas](https://open.spotify.com/artist/1ujwlcR6oyT856VONw14pD) | [Guitarras Mágicas \(En El Sonido De Los Indios Cabajaras\)](https://open.spotify.com/album/0ryTLVrwIMFxpUjNl3eDNG) | 2:40 | 2022-03-03 | 2022-07-15 |
@@ -108,6 +109,7 @@
 | [Seed](https://open.spotify.com/track/3VgV3RLmCE7PrXvOjCc6sq) | [Regina Costa](https://open.spotify.com/artist/5HTYfcxPnPgnplg9GvUIEr) | [Seed](https://open.spotify.com/album/7KVUNVwGXvGuNxAItcX4IH) | 3:26 | 2022-03-03 |  |
 | [Sentido](https://open.spotify.com/track/11UuEgcia8bJ4lS1uaFdAE) | [Gabriella Vargas Luna](https://open.spotify.com/artist/1P3NtjxAwU5gdEev4Pd93O) | [Sentido](https://open.spotify.com/album/0jmt8MYM4dZvhJ5sxsCAQa) | 2:28 | 2022-03-03 | 2022-07-15 |
 | [Serenata Campechana](https://open.spotify.com/track/1PHnNuRYKdQDCaPuyh03n4) | [Mexican Music Factory](https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb), [Duo: Ramos \- Monterrubio](https://open.spotify.com/artist/22qABRiNfRlmXEaSVX8mI3) | [Guitarras Mexicanas, Vol\. 2](https://open.spotify.com/album/28QGhzJl7Ylj9cTWZgJY9b) | 4:16 | 2022-03-03 | 2022-07-09 |
+| [Seul à nouveau](https://open.spotify.com/track/7MQ4bNNexc21xh5WjLNaqX) | [Constance Timon](https://open.spotify.com/artist/5svEYMmK1IFN983jkqrG7f) | [Seul à nouveau](https://open.spotify.com/album/18hZtTW0wKoF5FdjcpNRPh) | 2:18 | 2022-09-02 |  |
 | [silver lining](https://open.spotify.com/track/6HjCf5a7Zw9VrIxTjL15Z0) | [Andrew Savignon](https://open.spotify.com/artist/64RGjNCHRYOPxY93HKm2pZ) | [Lonely Sailor](https://open.spotify.com/album/6pEABLFpolzNbmvXnrBYEL) | 3:04 | 2022-03-03 |  |
 | [Somewhere In Between](https://open.spotify.com/track/6LQycnoIFwhHV30LJE4Q8G) | [Anila Mirela](https://open.spotify.com/artist/5ZyBxKhm8yMw8HCMWE5u3b) | [Somewhere In Between](https://open.spotify.com/album/19wUyXRjqtW5VcOqoiTMSd) | 2:23 | 2022-03-03 | 2022-07-15 |
 | [Sonata Bwv 1001 \- \(Siciliano\)](https://open.spotify.com/track/0m2bd4V456cYNWWM1AIW0g) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Adrián Montero](https://open.spotify.com/artist/081MBszlzVJ1QTxXrlotY3) | [Sonatas & Partita](https://open.spotify.com/album/4CI2y9jPflgEFP9FXdgy2d) | 3:04 | 2022-05-27 |  |

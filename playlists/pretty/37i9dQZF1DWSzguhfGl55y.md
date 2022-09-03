@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSzguhfGl55y.md) - [plain]
 
 > Die größten Hits der deutschen Hip\-Hop\-Geschichte.
 
-[Spotify](https://open.spotify.com/user/spotify) - 571,819 likes - 50 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 571,948 likes - 50 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,9 +43,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSzguhfGl55y.md) - [plain]
 | 33 | [Kompass ohne Norden](https://open.spotify.com/track/3JRlbFxtiQQ84Jcg9f5m0q) | [Prinz Pi](https://open.spotify.com/artist/3OYM3jjPVR60kOqmamRRgk) | [Kompass ohne Norden \(Premium Edition\)](https://open.spotify.com/album/6ZcglelPRZIyIQ0jnFpZeT) | 4:12 |
 | 34 | [Schwule Mädchen](https://open.spotify.com/track/3dKPA3BeuIF5yvv2xUVh0z) | [Fettes Brot](https://open.spotify.com/artist/3RRODs1rHC2ktLqyDDfgPH) | [Demotape](https://open.spotify.com/album/6QwV2M3WxXxapiLNJ7Vfx1) | 3:25 |
 | 35 | [So perfekt](https://open.spotify.com/track/2xWEfTSpapoxnmkeSb0hHf) | [Casper](https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv), [Marteria](https://open.spotify.com/artist/3nDNDLcZuSto4k9u4AbcLB) | [XOXO](https://open.spotify.com/album/7rql1BBqLNMfOX27mEvxUv) | 3:40 |
-| 36 | [Klar](https://open.spotify.com/track/01y4v0GVDAFwj9hjxTMshg) | [Jan Delay](https://open.spotify.com/artist/4KivBMgSnZ7hCDfPm46fKc) | [Mercedes Dance](https://open.spotify.com/album/2SBaZj97eH8S2s2KYjM6Th) | 4:55 |
+| 36 | [Cruisen](https://open.spotify.com/track/6e5kuZssmkwWL3Yt4jwTRy) | [Massive Töne](https://open.spotify.com/artist/1Ia0ZFqTFENtoU9bxYUsKJ) | [MT3](https://open.spotify.com/album/23e9X1a2ODDLWDi9Go747g) | 3:55 |
 | 37 | [Poesie Album](https://open.spotify.com/track/0T8wIusBn0OpzFm2H6AVNY) | [Samy Deluxe](https://open.spotify.com/artist/7J207fU1tty4DWCIhJSzh0) | [Up2Date XXL](https://open.spotify.com/album/2NFUNB6V1qSyhQ55FxZigO) | 3:50 |
-| 38 | [Cruisen](https://open.spotify.com/track/6e5kuZssmkwWL3Yt4jwTRy) | [Massive Töne](https://open.spotify.com/artist/1Ia0ZFqTFENtoU9bxYUsKJ) | [MT3](https://open.spotify.com/album/23e9X1a2ODDLWDi9Go747g) | 3:55 |
+| 38 | [Klar](https://open.spotify.com/track/01y4v0GVDAFwj9hjxTMshg) | [Jan Delay](https://open.spotify.com/artist/4KivBMgSnZ7hCDfPm46fKc) | [Mercedes Dance](https://open.spotify.com/album/2SBaZj97eH8S2s2KYjM6Th) | 4:55 |
 | 39 | [CLA$$IC](https://open.spotify.com/track/1NiRbfSiCys2d5JLLP4vJx) | [Bushido](https://open.spotify.com/artist/3c96G4d2lUOxhomM2mby5S), [Shindy](https://open.spotify.com/artist/5j21TGkrNEAJe3gG9VlS34) | [CLA$$IC](https://open.spotify.com/album/7JXqtxSJvV1QsBkdFtgmsL) | 3:46 |
 | 40 | [Bon Voyage \(feat\. Nina\)](https://open.spotify.com/track/4jaeRZRaBSlVkYAjWqrf7z) | [Deichkind](https://open.spotify.com/artist/49eo9xE4yGzJLWkOndiODs), [Nina Tenge](https://open.spotify.com/artist/5OsMY9Hwrho3pltegqow1p) | [Bitte ziehen sie durch](https://open.spotify.com/album/7DTkfgriE5mNBwC9CL2fWW) | 3:24 |
 | 41 | [Easy](https://open.spotify.com/track/2yQBDZfOxUudxE1wYUfeuq) | [CRO](https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu) | [Raop +5](https://open.spotify.com/album/1ziNkIHkCp5WTkduPnjebN) | 2:53 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSzguhfGl55y.md) - [plain]
 | 49 | [Fuffies Im Club](https://open.spotify.com/track/1A0b0yR0quuBByKQzASAvf) | [Sido](https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq) | [Maske X](https://open.spotify.com/album/4TbgjGDL2TAlflFfktyrNP) | 3:47 |
 | 50 | [Liebes Lied](https://open.spotify.com/track/6YzYyeMV5MY7wHOGskZdzf) | [Beginner](https://open.spotify.com/artist/4XkhEirR2JZT4fncyOxxtf) | [Bambule](https://open.spotify.com/album/4UnAhQ03mdUCpdNrHYBW7D) | 4:14 |
 
-Snapshot ID: `MTY1ODM5MDczOCwwMDAwMDAwMGI0MzNjMjE1YmM3NjhiYjAwMTJmN2M4NTg3MzMwZjBh`
+Snapshot ID: `MTY1ODM5MDczOCwwMDAwMDAwMGM5ZTEyMThhMTZlM2NiYTZmYTQzZjY1YzU1MWE0ZGRi`

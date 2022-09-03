@@ -1,12 +1,12 @@
 {
   "description": "Reimagined pop covers of your favorite songs.  Cover: Sasha Alex Sloan",
-  "num_followers": 72670,
+  "num_followers": 72715,
   "original_name": "Pop Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQ4NjQ2MCwwMDAwMDAwMDM1ZjA0YjYzNTNmOTJiZGNhMjdhNDk2NTA3MjBmNjA1",
+  "snapshot_id": "MTY2MTQ4NjQ2MCwwMDAwMDAwMDRhYzczMTI4MGQwMDk5ZDE0NTBlYTlhMjljZDhkYjQ0",
   "tracks": [
     {
       "added_at": "2022-08-26 04:01:00",
@@ -219,22 +219,6 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "Only Wanna Be With You (Pok\u00e9mon 25 Version)",
-        "url": "https://open.spotify.com/album/2xZhidR4y5OPpCRYF09XB4"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        }
-      ],
-      "duration_ms": 241360,
-      "name": "Only Wanna Be With You - Pok\u00e9mon 25 Version",
-      "url": "https://open.spotify.com/track/3SawmGBjjq8EOYZJV11cJm"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
         "name": "You Broke Me First",
         "url": "https://open.spotify.com/album/4bpL1S1jMzH9OlPWVSoaue"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 160942,
       "name": "You Broke Me First",
       "url": "https://open.spotify.com/track/2xKy8HbpMFgHV2xZhpQf12"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
+        "name": "Only Wanna Be With You (Pok\u00e9mon 25 Version)",
+        "url": "https://open.spotify.com/album/2xZhidR4y5OPpCRYF09XB4"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "duration_ms": 241360,
+      "name": "Only Wanna Be With You - Pok\u00e9mon 25 Version",
+      "url": "https://open.spotify.com/track/3SawmGBjjq8EOYZJV11cJm"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -404,22 +404,6 @@
       "added_at": "2022-08-26 04:01:00",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/14mR6XKPmsxzvOYCkqubJF"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 177214,
-      "name": "Baby One More Time - Recorded at Spotify Studios New York City",
-      "url": "https://open.spotify.com/track/4mJDfMcT7odIUjWlb2WO4L"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6ixkdVE4xrPNcVKhRpnPEh"
       },
       "artists": [
@@ -431,6 +415,22 @@
       "duration_ms": 176586,
       "name": "Use Somebody - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/5My4LtZW8JQJoKFDWodqIt"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/14mR6XKPmsxzvOYCkqubJF"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 177214,
+      "name": "Baby One More Time - Recorded at Spotify Studios New York City",
+      "url": "https://open.spotify.com/track/4mJDfMcT7odIUjWlb2WO4L"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -499,22 +499,6 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "i love you baby",
-        "url": "https://open.spotify.com/album/1VAVgRanSscfwdCot27ePc"
-      },
-      "artists": [
-        {
-          "name": "Emilee",
-          "url": "https://open.spotify.com/artist/4ArPQ1Opcksbbf3CPwEjWE"
-        }
-      ],
-      "duration_ms": 214000,
-      "name": "i love you baby",
-      "url": "https://open.spotify.com/track/124lzQbZK2jQZqwTq8jt2n"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
         "name": "glimpse of us",
         "url": "https://open.spotify.com/album/3O5iR8V0ZK340xpIIcUCVQ"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 222000,
       "name": "glimpse of us",
       "url": "https://open.spotify.com/track/2ssJdfI0u93JYpIrxDmxE6"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
+        "name": "i love you baby",
+        "url": "https://open.spotify.com/album/1VAVgRanSscfwdCot27ePc"
+      },
+      "artists": [
+        {
+          "name": "Emilee",
+          "url": "https://open.spotify.com/artist/4ArPQ1Opcksbbf3CPwEjWE"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "i love you baby",
+      "url": "https://open.spotify.com/track/124lzQbZK2jQZqwTq8jt2n"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -595,22 +595,6 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "Cover Sessions, Vol. 3",
-        "url": "https://open.spotify.com/album/1DpZ3jGqyRCTQ8Eoas1MP4"
-      },
-      "artists": [
-        {
-          "name": "Boyce Avenue",
-          "url": "https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv"
-        }
-      ],
-      "duration_ms": 227562,
-      "name": "Titanium",
-      "url": "https://open.spotify.com/track/0knwYd0kPonZMwaNWLLudK"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
         "name": "When I'm Alone: The Piano Retrospective",
         "url": "https://open.spotify.com/album/1PUJhxsAbBe5UhYjxNbrYA"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 274992,
       "name": "Dreams - Piano Version",
       "url": "https://open.spotify.com/track/7lcUx8bgiwGEn0BHNo3O31"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
+        "name": "Cover Sessions, Vol. 3",
+        "url": "https://open.spotify.com/album/1DpZ3jGqyRCTQ8Eoas1MP4"
+      },
+      "artists": [
+        {
+          "name": "Boyce Avenue",
+          "url": "https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv"
+        }
+      ],
+      "duration_ms": 227562,
+      "name": "Titanium",
+      "url": "https://open.spotify.com/track/0knwYd0kPonZMwaNWLLudK"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -843,22 +843,6 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "Still Into You",
-        "url": "https://open.spotify.com/album/3VSigF6xRqMohhx8qUjRmE"
-      },
-      "artists": [
-        {
-          "name": "Dylan Brady",
-          "url": "https://open.spotify.com/artist/69Lf9TlJ7qID862aDGbZx1"
-        }
-      ],
-      "duration_ms": 260415,
-      "name": "Still Into You",
-      "url": "https://open.spotify.com/track/3lFvgGhin8RuplMTfKlhSF"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
         "name": "In Your Eyes",
         "url": "https://open.spotify.com/album/6rMXObFQHowLksaLis6GXA"
       },
@@ -891,6 +875,22 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
+        "name": "Still Into You",
+        "url": "https://open.spotify.com/album/3VSigF6xRqMohhx8qUjRmE"
+      },
+      "artists": [
+        {
+          "name": "Dylan Brady",
+          "url": "https://open.spotify.com/artist/69Lf9TlJ7qID862aDGbZx1"
+        }
+      ],
+      "duration_ms": 260415,
+      "name": "Still Into You",
+      "url": "https://open.spotify.com/track/3lFvgGhin8RuplMTfKlhSF"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
         "name": "Mirrors (Acoustic)",
         "url": "https://open.spotify.com/album/0m5G4XqzE3BjpbtiLO4aUC"
       },
@@ -907,22 +907,6 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4P4Melmltlh69qk94BPZDY"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 196772,
-      "name": "I Can't Make You Love Me - Spotify Singles",
-      "url": "https://open.spotify.com/track/6AdxrIYy5CT1LLzLYAQOwy"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
         "name": "Moon River",
         "url": "https://open.spotify.com/album/7oEH9W5vXYrgeFM9h3SEx5"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 157674,
       "name": "Moon River",
       "url": "https://open.spotify.com/track/6MbITmnWbLYhQzcLBVFAs3"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4P4Melmltlh69qk94BPZDY"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 196772,
+      "name": "I Can't Make You Love Me - Spotify Singles",
+      "url": "https://open.spotify.com/track/6AdxrIYy5CT1LLzLYAQOwy"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -971,22 +971,6 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "drivers license",
-        "url": "https://open.spotify.com/album/0CCwZdow3z8rNFTP7uOawf"
-      },
-      "artists": [
-        {
-          "name": "Us The Duo",
-          "url": "https://open.spotify.com/artist/3QGKsAfhZdldQCLuLjk6zl"
-        }
-      ],
-      "duration_ms": 228693,
-      "name": "drivers license",
-      "url": "https://open.spotify.com/track/6i8lDXu86pOsPwGbxoD4RI"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
         "name": "Anyone",
         "url": "https://open.spotify.com/album/0KtdvlGTljVZ4D5Jarm4m8"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 172766,
       "name": "Anyone",
       "url": "https://open.spotify.com/track/0YhsOegsemgmT7ZHdWheUy"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
+        "name": "drivers license",
+        "url": "https://open.spotify.com/album/0CCwZdow3z8rNFTP7uOawf"
+      },
+      "artists": [
+        {
+          "name": "Us The Duo",
+          "url": "https://open.spotify.com/artist/3QGKsAfhZdldQCLuLjk6zl"
+        }
+      ],
+      "duration_ms": 228693,
+      "name": "drivers license",
+      "url": "https://open.spotify.com/track/6i8lDXu86pOsPwGbxoD4RI"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "It's A Sin",
-        "url": "https://open.spotify.com/album/06cRfTBdo0rxi7Xs9Toslg"
-      },
-      "artists": [
-        {
-          "name": "Years & Years",
-          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
-        }
-      ],
-      "duration_ms": 192078,
-      "name": "It's A Sin",
-      "url": "https://open.spotify.com/track/1CBD8aOExhsuPedP2P0wVi"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/07y7Hurh5dieo9clbTBICi"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 194480,
       "name": "Million Reasons - Live Session at Sound Stage Studios, Nashville, TN",
       "url": "https://open.spotify.com/track/1tx3VJH2ThfGR0uYvcmkaK"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
+        "name": "It's A Sin",
+        "url": "https://open.spotify.com/album/06cRfTBdo0rxi7Xs9Toslg"
+      },
+      "artists": [
+        {
+          "name": "Years & Years",
+          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
+        }
+      ],
+      "duration_ms": 192078,
+      "name": "It's A Sin",
+      "url": "https://open.spotify.com/track/1CBD8aOExhsuPedP2P0wVi"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -1555,6 +1555,22 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
+        "name": "Ocean Eyes (Acoustic)",
+        "url": "https://open.spotify.com/album/1CeJ6aLT0stviKNx2dZOYj"
+      },
+      "artists": [
+        {
+          "name": "SVRCINA",
+          "url": "https://open.spotify.com/artist/3wRt3iJpZDOg73CTUkfv5C"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Ocean Eyes (Acoustic)",
+      "url": "https://open.spotify.com/track/1mKAKzJuIZWz3M0nbVDfmD"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
         "name": "everywhere",
         "url": "https://open.spotify.com/album/1gkBtk4uRf9h4iUBXbPnxL"
       },
@@ -1575,18 +1591,18 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "Ocean Eyes (Acoustic)",
-        "url": "https://open.spotify.com/album/1CeJ6aLT0stviKNx2dZOYj"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4OGc172YSCEreeAyj8Eb25"
       },
       "artists": [
         {
-          "name": "SVRCINA",
-          "url": "https://open.spotify.com/artist/3wRt3iJpZDOg73CTUkfv5C"
+          "name": "Jimmie Allen",
+          "url": "https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c"
         }
       ],
-      "duration_ms": 216000,
-      "name": "Ocean Eyes (Acoustic)",
-      "url": "https://open.spotify.com/track/1mKAKzJuIZWz3M0nbVDfmD"
+      "duration_ms": 256278,
+      "name": "Un-Break My Heart - Spotify Singles",
+      "url": "https://open.spotify.com/track/0wGOX6Go9IHpSXgL6SfsD1"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -1607,22 +1623,6 @@
       "duration_ms": 197800,
       "name": "Manchild",
       "url": "https://open.spotify.com/track/1v8bDsrquS2MbPcY0rXnCl"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4OGc172YSCEreeAyj8Eb25"
-      },
-      "artists": [
-        {
-          "name": "Jimmie Allen",
-          "url": "https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c"
-        }
-      ],
-      "duration_ms": 256278,
-      "name": "Un-Break My Heart - Spotify Singles",
-      "url": "https://open.spotify.com/track/0wGOX6Go9IHpSXgL6SfsD1"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -1715,22 +1715,6 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "Heroes",
-        "url": "https://open.spotify.com/album/2gy5KgckchLwYAEhf10WsZ"
-      },
-      "artists": [
-        {
-          "name": "Vera Blue",
-          "url": "https://open.spotify.com/artist/5ujrA1eZLDHR7yQ6FZa2qA"
-        }
-      ],
-      "duration_ms": 208448,
-      "name": "Heroes",
-      "url": "https://open.spotify.com/track/6BSnTXlsNB6I7x9WSJi9y6"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
         "name": "Everybody Wants To Rule The World",
         "url": "https://open.spotify.com/album/4vNTnk9ZwBi2zIJlAiOYms"
       },
@@ -1743,6 +1727,22 @@
       "duration_ms": 167933,
       "name": "Everybody Wants To Rule The World",
       "url": "https://open.spotify.com/track/3lAzdfubFCfgrmSPUWBh4b"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
+        "name": "Heroes",
+        "url": "https://open.spotify.com/album/2gy5KgckchLwYAEhf10WsZ"
+      },
+      "artists": [
+        {
+          "name": "Vera Blue",
+          "url": "https://open.spotify.com/artist/5ujrA1eZLDHR7yQ6FZa2qA"
+        }
+      ],
+      "duration_ms": 208448,
+      "name": "Heroes",
+      "url": "https://open.spotify.com/track/6BSnTXlsNB6I7x9WSJi9y6"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -1763,6 +1763,22 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
+        "name": "Another Bundle of Tantrums",
+        "url": "https://open.spotify.com/album/79KDLcAFHxGR6D6p6x0kXB"
+      },
+      "artists": [
+        {
+          "name": "Jasmine Thompson",
+          "url": "https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg"
+        }
+      ],
+      "duration_ms": 247816,
+      "name": "Rather Be",
+      "url": "https://open.spotify.com/track/1dRrzIe6iCMEOXtut9CHg1"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
         "name": "Wedding Songs",
         "url": "https://open.spotify.com/album/3e2GfHTpoxEbCUdCj5TRzl"
       },
@@ -1779,22 +1795,6 @@
       "duration_ms": 231308,
       "name": "Anyone",
       "url": "https://open.spotify.com/track/2vK25Z3YBFJ44agZlDz9GG"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
-        "name": "Another Bundle of Tantrums",
-        "url": "https://open.spotify.com/album/79KDLcAFHxGR6D6p6x0kXB"
-      },
-      "artists": [
-        {
-          "name": "Jasmine Thompson",
-          "url": "https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg"
-        }
-      ],
-      "duration_ms": 247816,
-      "name": "Rather Be",
-      "url": "https://open.spotify.com/track/1dRrzIe6iCMEOXtut9CHg1"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -2087,22 +2087,6 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "Walking On The Moon",
-        "url": "https://open.spotify.com/album/2kwI7O2JRV0R0WXLPr9teL"
-      },
-      "artists": [
-        {
-          "name": "Ruelle",
-          "url": "https://open.spotify.com/artist/5tIkXJTex4JY7cv9mmgAZx"
-        }
-      ],
-      "duration_ms": 241213,
-      "name": "Walking On The Moon",
-      "url": "https://open.spotify.com/track/64NgJu6rPcsDYCN4IhYjDE"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
         "name": "Take On Me",
         "url": "https://open.spotify.com/album/15j2HxHLy1N90wLlCno4Uw"
       },
@@ -2115,6 +2099,22 @@
       "duration_ms": 146533,
       "name": "Take On Me",
       "url": "https://open.spotify.com/track/7aW7NJWNPSNOMGRUCmIody"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
+        "name": "Walking On The Moon",
+        "url": "https://open.spotify.com/album/2kwI7O2JRV0R0WXLPr9teL"
+      },
+      "artists": [
+        {
+          "name": "Ruelle",
+          "url": "https://open.spotify.com/artist/5tIkXJTex4JY7cv9mmgAZx"
+        }
+      ],
+      "duration_ms": 241213,
+      "name": "Walking On The Moon",
+      "url": "https://open.spotify.com/track/64NgJu6rPcsDYCN4IhYjDE"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -2151,22 +2151,6 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "Montero (Call Me By Your Name)",
-        "url": "https://open.spotify.com/album/3dapk74ATaYIUGIYLZBnmG"
-      },
-      "artists": [
-        {
-          "name": "Years & Years",
-          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
-        }
-      ],
-      "duration_ms": 141880,
-      "name": "Montero (Call Me By Your Name)",
-      "url": "https://open.spotify.com/track/6IhNb9Vd62Iov8Kmbf6EGL"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
         "name": "Chandelier",
         "url": "https://open.spotify.com/album/7qQyLTKV67RGg6TmY8vyit"
       },
@@ -2195,6 +2179,22 @@
       "duration_ms": 182986,
       "name": "Baby, I Love Your Way",
       "url": "https://open.spotify.com/track/3baZNMeoFa4vTZ3SZK71xD"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
+        "name": "Montero (Call Me By Your Name)",
+        "url": "https://open.spotify.com/album/3dapk74ATaYIUGIYLZBnmG"
+      },
+      "artists": [
+        {
+          "name": "Years & Years",
+          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
+        }
+      ],
+      "duration_ms": 141880,
+      "name": "Montero (Call Me By Your Name)",
+      "url": "https://open.spotify.com/track/6IhNb9Vd62Iov8Kmbf6EGL"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -2423,6 +2423,22 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
+        "name": "I\u2019m With You",
+        "url": "https://open.spotify.com/album/0lsB68u7qrrQLhYej5JD07"
+      },
+      "artists": [
+        {
+          "name": "Moncrieff",
+          "url": "https://open.spotify.com/artist/7axEazQlDDxu7KBQyFTfoC"
+        }
+      ],
+      "duration_ms": 235493,
+      "name": "I\u2019m With You",
+      "url": "https://open.spotify.com/track/4UiBMxmXRip1Er6xILD5Im"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
         "name": "Division (Deluxe)",
         "url": "https://open.spotify.com/album/4hTubSHf6zjOOPZJmJPyBq"
       },
@@ -2467,22 +2483,6 @@
       "duration_ms": 284050,
       "name": "Both Sides Now",
       "url": "https://open.spotify.com/track/0guXAYPSEiOgyYf4AUjrDa"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
-        "name": "I\u2019m With You",
-        "url": "https://open.spotify.com/album/0lsB68u7qrrQLhYej5JD07"
-      },
-      "artists": [
-        {
-          "name": "Moncrieff",
-          "url": "https://open.spotify.com/artist/7axEazQlDDxu7KBQyFTfoC"
-        }
-      ],
-      "duration_ms": 235493,
-      "name": "I\u2019m With You",
-      "url": "https://open.spotify.com/track/4UiBMxmXRip1Er6xILD5Im"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -2555,6 +2555,22 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
+        "name": "The Middle",
+        "url": "https://open.spotify.com/album/1sYANjZE2z9Ta9Ag56LFpv"
+      },
+      "artists": [
+        {
+          "name": "Emilee Moore",
+          "url": "https://open.spotify.com/artist/21k39bIiVAame9O5MWRS4m"
+        }
+      ],
+      "duration_ms": 192029,
+      "name": "The Middle",
+      "url": "https://open.spotify.com/track/5eutF3oggNdbWix4qCvHne"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
         "name": "Bam Bam (Acoustic)",
         "url": "https://open.spotify.com/album/1Z2GecoW9ZMdzhTIbaW3er"
       },
@@ -2571,22 +2587,6 @@
       "duration_ms": 143522,
       "name": "Bam Bam - Acoustic",
       "url": "https://open.spotify.com/track/4FsAUJTLWdlX3Z39VMszA4"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
-        "name": "The Middle",
-        "url": "https://open.spotify.com/album/1sYANjZE2z9Ta9Ag56LFpv"
-      },
-      "artists": [
-        {
-          "name": "Emilee Moore",
-          "url": "https://open.spotify.com/artist/21k39bIiVAame9O5MWRS4m"
-        }
-      ],
-      "duration_ms": 192029,
-      "name": "The Middle",
-      "url": "https://open.spotify.com/track/5eutF3oggNdbWix4qCvHne"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -2855,6 +2855,22 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
+        "name": "Black Velvet (Junos 365 Sessions)",
+        "url": "https://open.spotify.com/album/3vRrUGaOVWRzyKuzdFvK41"
+      },
+      "artists": [
+        {
+          "name": "Meghan Patrick",
+          "url": "https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ"
+        }
+      ],
+      "duration_ms": 218283,
+      "name": "Black Velvet - Junos 365 Sessions",
+      "url": "https://open.spotify.com/track/2ccf3s5PhImfbhrmg21CMG"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
         "name": "All The Things She Said",
         "url": "https://open.spotify.com/album/5ESAbhn6KetEUOmf5VOkkh"
       },
@@ -2871,18 +2887,18 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "Black Velvet (Junos 365 Sessions)",
-        "url": "https://open.spotify.com/album/3vRrUGaOVWRzyKuzdFvK41"
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/4JRsIxxToO1yQAxVcXcrMF"
       },
       "artists": [
         {
-          "name": "Meghan Patrick",
-          "url": "https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ"
+          "name": "Beatrich",
+          "url": "https://open.spotify.com/artist/4R7ILGBgDWUiAT1kWNe90W"
         }
       ],
-      "duration_ms": 218283,
-      "name": "Black Velvet - Junos 365 Sessions",
-      "url": "https://open.spotify.com/track/2ccf3s5PhImfbhrmg21CMG"
+      "duration_ms": 225931,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/0dq8XHrYcusGvwXmda53v1"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -2907,18 +2923,18 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/4JRsIxxToO1yQAxVcXcrMF"
+        "name": "positions",
+        "url": "https://open.spotify.com/album/4looOoYgMmelHyFjiCzEFT"
       },
       "artists": [
         {
-          "name": "Beatrich",
-          "url": "https://open.spotify.com/artist/4R7ILGBgDWUiAT1kWNe90W"
+          "name": "Chaz Mazzota",
+          "url": "https://open.spotify.com/artist/6UOLJXk2Gy4J6OM3RziWmM"
         }
       ],
-      "duration_ms": 225931,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/0dq8XHrYcusGvwXmda53v1"
+      "duration_ms": 145961,
+      "name": "positions",
+      "url": "https://open.spotify.com/track/4AzIX0rzbcTydZYFq3cmaz"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -2935,22 +2951,6 @@
       "duration_ms": 204186,
       "name": "In Da Club",
       "url": "https://open.spotify.com/track/4NDvqNg11hSuNpiGUtnlRU"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
-        "name": "positions",
-        "url": "https://open.spotify.com/album/4looOoYgMmelHyFjiCzEFT"
-      },
-      "artists": [
-        {
-          "name": "Chaz Mazzota",
-          "url": "https://open.spotify.com/artist/6UOLJXk2Gy4J6OM3RziWmM"
-        }
-      ],
-      "duration_ms": 145961,
-      "name": "positions",
-      "url": "https://open.spotify.com/track/4AzIX0rzbcTydZYFq3cmaz"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -2987,18 +2987,18 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "Magic",
-        "url": "https://open.spotify.com/album/7JqZcRZTsuvLO228vbGiwK"
+        "name": "Cover Sessions, Vol. 2",
+        "url": "https://open.spotify.com/album/3gQrQ8BQNEtaUXbr7vx9ss"
       },
       "artists": [
         {
-          "name": "nodisco.",
-          "url": "https://open.spotify.com/artist/5r9DYiYT0GKn6FcbbJtlqq"
+          "name": "Laura Zocca",
+          "url": "https://open.spotify.com/artist/43sKBGtNLR3Ovs81KWzQg7"
         }
       ],
-      "duration_ms": 184200,
-      "name": "Magic",
-      "url": "https://open.spotify.com/track/1ryKtGzdk4zMPLhEC6F95t"
+      "duration_ms": 212027,
+      "name": "Wildest Dreams",
+      "url": "https://open.spotify.com/track/7AgpN0aQSjp1rjWafXn8Xu"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -3019,18 +3019,18 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "Cover Sessions, Vol. 2",
-        "url": "https://open.spotify.com/album/3gQrQ8BQNEtaUXbr7vx9ss"
+        "name": "Magic",
+        "url": "https://open.spotify.com/album/7JqZcRZTsuvLO228vbGiwK"
       },
       "artists": [
         {
-          "name": "Laura Zocca",
-          "url": "https://open.spotify.com/artist/43sKBGtNLR3Ovs81KWzQg7"
+          "name": "nodisco.",
+          "url": "https://open.spotify.com/artist/5r9DYiYT0GKn6FcbbJtlqq"
         }
       ],
-      "duration_ms": 212027,
-      "name": "Wildest Dreams",
-      "url": "https://open.spotify.com/track/7AgpN0aQSjp1rjWafXn8Xu"
+      "duration_ms": 184200,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/1ryKtGzdk4zMPLhEC6F95t"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -3103,22 +3103,6 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "Spotify Singles (Recorded At Metropolis Studios, London)",
-        "url": "https://open.spotify.com/album/0SClXAA2IiMdo4emMv0cRv"
-      },
-      "artists": [
-        {
-          "name": "Pale Waves",
-          "url": "https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA"
-        }
-      ],
-      "duration_ms": 218938,
-      "name": "22 - Recorded At Metropolis Studios, London",
-      "url": "https://open.spotify.com/track/3ZfTICadMJOZniz7oA99d5"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
         "name": "Exile",
         "url": "https://open.spotify.com/album/7JCNbamEBw6AQoTgWbiZhJ"
       },
@@ -3135,6 +3119,22 @@
       "duration_ms": 200833,
       "name": "Exile",
       "url": "https://open.spotify.com/track/2l7PYimEwpigpxWOiYNoRl"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
+        "name": "Spotify Singles (Recorded At Metropolis Studios, London)",
+        "url": "https://open.spotify.com/album/0SClXAA2IiMdo4emMv0cRv"
+      },
+      "artists": [
+        {
+          "name": "Pale Waves",
+          "url": "https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA"
+        }
+      ],
+      "duration_ms": 218938,
+      "name": "22 - Recorded At Metropolis Studios, London",
+      "url": "https://open.spotify.com/track/3ZfTICadMJOZniz7oA99d5"
     },
     {
       "added_at": "2022-08-26 04:01:00",

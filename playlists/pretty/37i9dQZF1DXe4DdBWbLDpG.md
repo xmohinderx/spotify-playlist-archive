@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4DdBWbLDpG.md) - [plain]
 
 > Diego y las mejores batallas\. Assista los clips y descubre música original de los participantes, solo aquí.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,674 likes - 75 songs - 8 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,677 likes - 75 songs - 8 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

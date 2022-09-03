@@ -2,21 +2,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSZXCWJ6tnaz.md) - [plain]
 
 ### [Reflection](https://open.spotify.com/playlist/37i9dQZF1DWSZXCWJ6tnaz)
 
-> Soft, instrumental music to help you reflect.
+> A safe space for reflecting and remembering\. Soft, instrumental music to bring you comfort and strength.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,451 likes - 38 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,479 likes - 38 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Reflection](https://open.spotify.com/track/5EjEo7s2rLHcMZz0BxhOPm) | [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [Reflections](https://open.spotify.com/album/5BvQCAdlTeCpshkRFORsWY) | 5:34 |
-| 2 | [Avant\-dernières pensées: I\. Idylle \- Snorri Hallgrímsson Rework \(FRAGMENTS / Erik Satie\)](https://open.spotify.com/track/3q8PlM3EcBu5ab6CFrIbTe) | [Snorri Hallgrímsson](https://open.spotify.com/artist/0cz823HlK1N6jNAIztyYHs) | [Avant\-dernières pensées: I\. Idylle \[Snorri Hallgrímsson Rework \(FRAGMENTS / Erik Satie\)\]](https://open.spotify.com/album/1arRxLkgqEqmKAFodhjgCv) | 3:56 |
-| 3 | [much loved](https://open.spotify.com/track/6DV5mwk2kZw6GiDR2XUsjP) | [Rachel Portman](https://open.spotify.com/artist/1joFZGTRER78nUsWtgHCHR) | [ask the river](https://open.spotify.com/album/4yhyBrxpfFUjazK1rVgzzO) | 4:22 |
-| 4 | [Almost June](https://open.spotify.com/track/6dxs9Sv6Ic3oQ3tl6Hozi2) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Underwater](https://open.spotify.com/album/3DT821mYJb7Ore88vA8IOO) | 2:53 |
-| 5 | [For Mark](https://open.spotify.com/track/4sh6V9AnglIBepfD5mTyqn) | [Joep Beving](https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y) | [Hermetism](https://open.spotify.com/album/3kHd7wS71L5WVLzkz7O8yU) | 5:09 |
-| 6 | [Fljótavik \(Arr\. for Violin and String Orchestra\)](https://open.spotify.com/track/09XneqsFNCWE8BzWYjWzF3) | [Sigur Rós](https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy), [Dmitri Ensemble](https://open.spotify.com/artist/4XYWZA2XeLzJ11ddDNwnNg), [Stephanie Gonley](https://open.spotify.com/artist/6jArlkTGzRWdJsoEPutzQO), [Graham Ross](https://open.spotify.com/artist/5ALngZTunHWltWc3XsQZFZ) | [Ice Land: The Eternal Music](https://open.spotify.com/album/5jUyiDZ7TVNKTB2LjRLZ6l) | 4:20 |
-| 7 | [Dappled Light](https://open.spotify.com/track/5bhbv1xIbk0SbfQ2MEXe8F) | [Luke Howard](https://open.spotify.com/artist/3duTXsC49HoPt4f4EySDKf), [Jess Gillam](https://open.spotify.com/artist/41OHse5xHr1E6wceODGrPB), [Jess Gillam Ensemble](https://open.spotify.com/artist/6W0o59oeiRlY0XSViV604c) | [Howard: Dappled Light](https://open.spotify.com/album/7GuRclIncpIaFUj7MZJGlF) | 4:11 |
-| 8 | [saman](https://open.spotify.com/track/5RqKo9P4DLA0bVyY70cWkr) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [re:member](https://open.spotify.com/album/6JpQGIi2he6iskzR4aLwPG) | 2:11 |
-| 9 | [Duvet](https://open.spotify.com/track/1veZkUONsfxYDfqcGo6YbG) | [Niklas Paschburg](https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI), [Andy Barlow](https://open.spotify.com/artist/6TC2SpVp20fhwV7SAVr56o) | [Svalbard](https://open.spotify.com/album/57bDNgzUtAvKaL2wSPnsiF) | 3:24 |
+| 2 | [much loved](https://open.spotify.com/track/6DV5mwk2kZw6GiDR2XUsjP) | [Rachel Portman](https://open.spotify.com/artist/1joFZGTRER78nUsWtgHCHR) | [ask the river](https://open.spotify.com/album/4yhyBrxpfFUjazK1rVgzzO) | 4:22 |
+| 3 | [Almost June](https://open.spotify.com/track/6dxs9Sv6Ic3oQ3tl6Hozi2) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Underwater](https://open.spotify.com/album/3DT821mYJb7Ore88vA8IOO) | 2:53 |
+| 4 | [For Mark](https://open.spotify.com/track/4sh6V9AnglIBepfD5mTyqn) | [Joep Beving](https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y) | [Hermetism](https://open.spotify.com/album/3kHd7wS71L5WVLzkz7O8yU) | 5:09 |
+| 5 | [Fljótavik \(Arr\. for Violin and String Orchestra\)](https://open.spotify.com/track/09XneqsFNCWE8BzWYjWzF3) | [Sigur Rós](https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy), [Dmitri Ensemble](https://open.spotify.com/artist/4XYWZA2XeLzJ11ddDNwnNg), [Stephanie Gonley](https://open.spotify.com/artist/6jArlkTGzRWdJsoEPutzQO), [Graham Ross](https://open.spotify.com/artist/5ALngZTunHWltWc3XsQZFZ) | [Ice Land: The Eternal Music](https://open.spotify.com/album/5jUyiDZ7TVNKTB2LjRLZ6l) | 4:20 |
+| 6 | [Dappled Light](https://open.spotify.com/track/5bhbv1xIbk0SbfQ2MEXe8F) | [Luke Howard](https://open.spotify.com/artist/3duTXsC49HoPt4f4EySDKf), [Jess Gillam](https://open.spotify.com/artist/41OHse5xHr1E6wceODGrPB), [Jess Gillam Ensemble](https://open.spotify.com/artist/6W0o59oeiRlY0XSViV604c) | [Howard: Dappled Light](https://open.spotify.com/album/7GuRclIncpIaFUj7MZJGlF) | 4:11 |
+| 7 | [saman](https://open.spotify.com/track/5RqKo9P4DLA0bVyY70cWkr) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [re:member](https://open.spotify.com/album/6JpQGIi2he6iskzR4aLwPG) | 2:11 |
+| 8 | [Duvet](https://open.spotify.com/track/1veZkUONsfxYDfqcGo6YbG) | [Niklas Paschburg](https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI), [Andy Barlow](https://open.spotify.com/artist/6TC2SpVp20fhwV7SAVr56o) | [Svalbard](https://open.spotify.com/album/57bDNgzUtAvKaL2wSPnsiF) | 3:24 |
+| 9 | [Avant\-dernières pensées: I\. Idylle \- Snorri Hallgrímsson Rework \(FRAGMENTS / Erik Satie\)](https://open.spotify.com/track/3q8PlM3EcBu5ab6CFrIbTe) | [Snorri Hallgrímsson](https://open.spotify.com/artist/0cz823HlK1N6jNAIztyYHs) | [Avant\-dernières pensées: I\. Idylle \[Snorri Hallgrímsson Rework \(FRAGMENTS / Erik Satie\)\]](https://open.spotify.com/album/1arRxLkgqEqmKAFodhjgCv) | 3:56 |
 | 10 | [Still](https://open.spotify.com/track/6B0ZlLf0p2s1Lwt3ivAXKy) | [Ola Gjeilo](https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G) | [Still](https://open.spotify.com/album/0QxD0lOJH9NBtJuSb2can4) | 2:22 |
 | 11 | [An Idea](https://open.spotify.com/track/1PINN6x0Riouab3wPSglpp) | [Leo Brouwer](https://open.spotify.com/artist/4PdumqEAuo2EQzukVWnxa0), [Zsófia Boros](https://open.spotify.com/artist/6T9wLNtkKE8Z5GusLK6v9c) | [En Otra Parte](https://open.spotify.com/album/3TRN62RoTGNXKtKEu2JvxW) | 2:38 |
 | 12 | [Not Alone](https://open.spotify.com/track/51zxgx075eEXbFvg6xA2YM) | [Sophie Hutchings](https://open.spotify.com/artist/54MsweggxTxlfYUbhZNIQ0) | [Love & Keep](https://open.spotify.com/album/0McAK4hAugkV6K9CfySKl7) | 2:36 |
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSZXCWJ6tnaz.md) - [plain]
 | 37 | [Beginnings](https://open.spotify.com/track/6v4WvtbAbm88SeS4etJMTH) | [James Heather](https://open.spotify.com/artist/7GMpkbegUlL4UvUe5w47zu) | [Beginnings](https://open.spotify.com/album/6KOwv2I3BWLqaiEvjdtKOp) | 3:58 |
 | 38 | [Nouveau\-Né \(Re\-Imagined\)](https://open.spotify.com/track/1InWRArhMSgPnMnmL4DOre) | [Phoria](https://open.spotify.com/artist/0HDxlFsXwyrpufs4YgTNMm) | [Caught a Black Rabbit](https://open.spotify.com/album/3M0wS70M7tRZntXMfKqPtU) | 3:20 |
 
-Snapshot ID: `MTY1ODkyNjI4OCwwMDAwMDAwMDNjYzVjOTJjNzQzZDI5ZGU1MjdmOGYxYzNjNzM3OTUy`
+Snapshot ID: `MTY2MjExNTAxOSwwMDAwMDAwMDBjMDgwYTIyMmY2ZWM3ZmYzMGYwODliMTk2YmQ1NTBk`

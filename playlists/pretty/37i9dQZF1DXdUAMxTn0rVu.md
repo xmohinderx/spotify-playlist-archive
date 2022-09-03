@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUAMxTn0rVu.md) - [plain]
 
 > Essential songs from the late '90s, early 2000s underground hip\-hop scene\. Cover: J Dilla
 
-[Spotify](https://open.spotify.com/user/spotify) - 297,746 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 297,879 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,9 +22,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUAMxTn0rVu.md) - [plain]
 | 12 | [Concrete Schoolyard](https://open.spotify.com/track/37pnnS4zO9s6xzeblq9Jrd) | [Jurassic 5](https://open.spotify.com/artist/6wFId9Jhuf9AKVzWboOj2B) | [J5 \(Deluxe Edition\)](https://open.spotify.com/album/5Lj4qWG2xATA2XNz3l6BZT) | 5:21 |
 | 13 | [Rhymes Like Dimes](https://open.spotify.com/track/12OkZyDWNBLUqoReoseGrc) | [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL), [DJ Cucumber Slice](https://open.spotify.com/artist/6wwBv5Rq6Ev2USsDsIZO1o) | [Operation: Doomsday \(Complete\)](https://open.spotify.com/album/4UG3kz6qoHtNI1glQ2wdon) | 4:18 |
 | 14 | [Uknowhowwedu](https://open.spotify.com/track/5KapB9KJnRsZrprzIAXycW) | [Bahamadia](https://open.spotify.com/artist/6ZcRUVs3I5U8EOnm9ZdCsO) | [Kollage](https://open.spotify.com/album/4ioG1W3KU4WBhYlwEBp7BA) | 3:34 |
-| 15 | [Worst Comes To Worst \- Edited](https://open.spotify.com/track/7aSnPAggMMgElb6BgXeSEw) | [Dilated Peoples](https://open.spotify.com/artist/56OMwqr8qaLIRH4ZrvvdXq) | [Expansion Team](https://open.spotify.com/album/2cjb94ReCIDfak2sqzEcoB) | 3:35 |
+| 15 | [Travellin' Man \(Remastered\)](https://open.spotify.com/track/5BAwVGuohBVscZWyoLCkkG) | [dj honda](https://open.spotify.com/artist/7mrvU3OShTgthJV80o2day), [Mos Def](https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO) | [Travellin' Man \(Remastered\)](https://open.spotify.com/album/4HSWIy1jgNMLKxZkmiAP34) | 5:18 |
 | 16 | [Acid Raindrops](https://open.spotify.com/track/4MbV8zrWudQflnbiIzp29t) | [People Under The Stairs](https://open.spotify.com/artist/0av074qUwLn5eyzwqoq3xh) | [Acid Raindrops](https://open.spotify.com/album/6wRasCHEWubnqxdDlUf7mo) | 4:24 |
-| 17 | [Travellin' Man \(Remastered\)](https://open.spotify.com/track/5BAwVGuohBVscZWyoLCkkG) | [dj honda](https://open.spotify.com/artist/7mrvU3OShTgthJV80o2day), [Mos Def](https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO) | [Travellin' Man \(Remastered\)](https://open.spotify.com/album/4HSWIy1jgNMLKxZkmiAP34) | 5:18 |
+| 17 | [Worst Comes To Worst \- Edited](https://open.spotify.com/track/7aSnPAggMMgElb6BgXeSEw) | [Dilated Peoples](https://open.spotify.com/artist/56OMwqr8qaLIRH4ZrvvdXq) | [Expansion Team](https://open.spotify.com/album/2cjb94ReCIDfak2sqzEcoB) | 3:35 |
 | 18 | [I Juswanna Chill](https://open.spotify.com/track/3ipzZgH1766XXRamVwk1Iw) | [Large Professor](https://open.spotify.com/artist/01nVIuD8YZsnFH6x6Cc9rX) | [The LP](https://open.spotify.com/album/7hzM3Sa8BoCKrNqrKJqyz1) | 3:28 |
 | 19 | [Whirlwind Thru Cities](https://open.spotify.com/track/3uDa49zGfJFVXdBk9L5uQs) | [Afu\-Ra](https://open.spotify.com/artist/6SWohEYYTym0RIBxvoh6wt) | [Body Of The Life Force](https://open.spotify.com/album/2qgtKycDQ6FXW8palsRKrI) | 3:59 |
 | 20 | [Blast](https://open.spotify.com/track/1l7xvA5XajmKQDo1h8Vc3K) | [Reflection Eternal](https://open.spotify.com/artist/6vwJ3e6KaQAhLEpBPxCMBC), [Vinia Mojica](https://open.spotify.com/artist/1vsWTWAvfdqNeFmXq72SlC) | [Train Of Thought](https://open.spotify.com/album/2PbWFmysd3j9MEacjjhozx) | 3:07 |
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUAMxTn0rVu.md) - [plain]
 | 40 | [Boom \- Explicit Album Version](https://open.spotify.com/track/3CiSdq2SJSSUc1AVUU2F4G) | [Royce Da 5'9"](https://open.spotify.com/artist/6DVipHzYsPlIoA0DW8Gmns) | [Rock City](https://open.spotify.com/album/4ryY8S4t3r2kUmwKgAEqFA) | 3:52 |
 | 41 | [I Declare War](https://open.spotify.com/track/3x9oD1pM3gTgNBBOazMq1V) | [Pacewon](https://open.spotify.com/artist/4xlnKEcLzFYoxRmAuxI2Yt) | [Won](https://open.spotify.com/album/34fhxFsx0fd56F7qwfJUYH) | 2:37 |
 | 42 | [Don't Play](https://open.spotify.com/track/51DHGAvIbCO1HJMDjq45rT) | [J\-Live](https://open.spotify.com/artist/5bb5uytW59wDF0gpv8iQbE) | [The Best Part](https://open.spotify.com/album/7lvkfeGllsua86JXtLunNG) | 5:04 |
-| 43 | [100% Dundee](https://open.spotify.com/track/63J9sQnp8NxLuOgeqgAS6O) | [The Roots](https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu) | [Things Fall Apart](https://open.spotify.com/album/0qbl8aNaCUOvX8HGsZYLfh) | 3:53 |
-| 44 | [W.O.L.V.E.S.](https://open.spotify.com/track/2NR8YLRBR0AEUc6JQlnldo) | [Krumbsnatcha](https://open.spotify.com/artist/4StWnbDC5LLdf3socfu0gx), [M.O.P.](https://open.spotify.com/artist/1BH45DVSTeGBvcYXNCd67g) | [Krumbsnatcha Classics](https://open.spotify.com/album/5Wez6YN8Xw1mPptxfFlZhx) | 3:53 |
+| 43 | [W.O.L.V.E.S.](https://open.spotify.com/track/2NR8YLRBR0AEUc6JQlnldo) | [Krumbsnatcha](https://open.spotify.com/artist/4StWnbDC5LLdf3socfu0gx), [M.O.P.](https://open.spotify.com/artist/1BH45DVSTeGBvcYXNCd67g) | [Krumbsnatcha Classics](https://open.spotify.com/album/5Wez6YN8Xw1mPptxfFlZhx) | 3:53 |
+| 44 | [100% Dundee](https://open.spotify.com/track/63J9sQnp8NxLuOgeqgAS6O) | [The Roots](https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu) | [Things Fall Apart](https://open.spotify.com/album/0qbl8aNaCUOvX8HGsZYLfh) | 3:53 |
 | 45 | [Western Ways, Pt\. 2 \(La Seleccion\)](https://open.spotify.com/track/0dUKYPzjFe0tJYCKf3USWi) | [Delinquent Habits](https://open.spotify.com/artist/0Ph64AJnzKQwXj4y7bWi2U), [Big Pun](https://open.spotify.com/artist/2Xu7q46Hf02xOoEIm4E1Qs), [JUJU](https://open.spotify.com/artist/5VLVogbPeBgFHXQPZQzBej) | [Here Come The Horns](https://open.spotify.com/album/0crKVrdcLTyzjfZL2QpwTq) | 4:00 |
 | 46 | [3 Tha Hard Way](https://open.spotify.com/track/4B1w3clws55HXvcVoItOqS) | [Bahamadia](https://open.spotify.com/artist/6ZcRUVs3I5U8EOnm9ZdCsO) | [Kollage](https://open.spotify.com/album/4ioG1W3KU4WBhYlwEBp7BA) | 4:12 |
-| 47 | [Clear Blue Skies](https://open.spotify.com/track/1zA1vA6xf8VyzHCSu8wAve) | [Juggaknots](https://open.spotify.com/artist/0kU2Phi8xn8Sd6pC2qXxs5) | [Re:Release](https://open.spotify.com/album/5Xm5v4DQ9d9y02eK0jO6zG) | 3:55 |
-| 48 | [Smile](https://open.spotify.com/track/6XPFgx7ShYK55VBiA45NRS) | [Eyedea & Abilities](https://open.spotify.com/artist/4pxU0h86QnMOe6iNIy7pCU), [Eyedea](https://open.spotify.com/artist/1AgWsZON0joqldki9fG6bn), [DJ Abilities](https://open.spotify.com/artist/4nZ2lXJUlfy1zLvwz1cY7N) | [By The Throat](https://open.spotify.com/album/3v35RJSFVzUnOQLK3j1Mi0) | 4:02 |
+| 47 | [Smile](https://open.spotify.com/track/6XPFgx7ShYK55VBiA45NRS) | [Eyedea & Abilities](https://open.spotify.com/artist/4pxU0h86QnMOe6iNIy7pCU), [Eyedea](https://open.spotify.com/artist/1AgWsZON0joqldki9fG6bn), [DJ Abilities](https://open.spotify.com/artist/4nZ2lXJUlfy1zLvwz1cY7N) | [By The Throat](https://open.spotify.com/album/3v35RJSFVzUnOQLK3j1Mi0) | 4:02 |
+| 48 | [Clear Blue Skies](https://open.spotify.com/track/1zA1vA6xf8VyzHCSu8wAve) | [Juggaknots](https://open.spotify.com/artist/0kU2Phi8xn8Sd6pC2qXxs5) | [Re:Release](https://open.spotify.com/album/5Xm5v4DQ9d9y02eK0jO6zG) | 3:55 |
 | 49 | [Climax](https://open.spotify.com/track/7i47lf1W2WA41wagWBD3zH) | [Slum Village](https://open.spotify.com/artist/1020a42xVklY6c56imNcaa) | [Fan\-Tas\-Tic, Vol\. 2](https://open.spotify.com/album/22IhsI5JpldSrE7vhidAja) | 3:31 |
 | 50 | [Karma](https://open.spotify.com/track/7FyuOzN1V1Whhyh46tPiWZ) | [Mood](https://open.spotify.com/artist/2u2XHKuu3IWZvTvzXiciqu) | [Doom](https://open.spotify.com/album/7hOjTIuKBT7tP9XR0nGYCy) | 3:18 |
 
-Snapshot ID: `MTY0NDM1MTY0MywwMDAwMDAwMGM5ZTlhYzUzMjVkZjYwM2I3MWE5YjE3Yjk0YjM3ZTNj`
+Snapshot ID: `MTY0NDM1MTY0MywwMDAwMDAwMDZlY2I5NGVhYzUzOGQ3MzVhMDM1NTVlMDk0NWNkMzEy`

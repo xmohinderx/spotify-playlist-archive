@@ -4,7 +4,7 @@
 
 > Relájate y toma un profundo respiro de serenidad auditiva.
 
-291 songs - 14 hr 41 min - [published](https://open.spotify.com/playlist/4Os8nBg7RzVXxd5ntvlDFA)
+293 songs - 14 hr 47 min - [published](https://open.spotify.com/playlist/4Os8nBg7RzVXxd5ntvlDFA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [A State of Tranquility](https://open.spotify.com/track/4G4T8MVVDD9Tue5EcMGNgt) | [Sleepy Night Music](https://open.spotify.com/artist/3o4afy13rKHnQBOvWP1seP) | [A State of Tranquility](https://open.spotify.com/album/56CEy8rjd1d7G77gdJkdUU) | 2:50 | 2022-07-05 | 2022-07-29 |
 | [A State of Tranquility](https://open.spotify.com/track/5NL7zy2ebxoZcr6lSqZpsb) | [Sleepy Night Music](https://open.spotify.com/artist/3o4afy13rKHnQBOvWP1seP) | [A State of Tranquility](https://open.spotify.com/album/1pu1Z9sU4P0fJ1lGNhT9RS) | 2:50 | 2022-07-05 |  |
 | [Above Erta](https://open.spotify.com/track/5XodChHSGzXmfhoYyZ7Wjv) | [Il Sognatore](https://open.spotify.com/artist/7hmFAgrbDEAAIcGan0kxxM) | [Above Erta](https://open.spotify.com/album/6gv5VjD5c136sDxMod7WiY) | 3:13 | 2022-07-05 |  |
+| [After The Rain](https://open.spotify.com/track/4O2DxaGroS88YpNAeRQbgx) | [Sanyo Green](https://open.spotify.com/artist/3U92xEbJZRc7MDmXXCXiBy) | [After The Rain](https://open.spotify.com/album/1NL6vdJMA0zMZabuPYM3Dj) | 3:35 | 2022-09-02 |  |
 | [After The Rain Has Fallen](https://open.spotify.com/track/0j7QCxrWopn9BaCvTY4EF8) | [Yonder Dale](https://open.spotify.com/artist/4EEGhKKHmkHT31LAlDnXfb) | [After The Rain Has Fallen](https://open.spotify.com/album/3LdOpCpXEIiL6SiLd0tAd8) | 2:33 | 2022-07-05 |  |
 | [Against A Paler Sun](https://open.spotify.com/track/7yLum5NO3S84uFaKRnDbYV) | [Hushed](https://open.spotify.com/artist/6Jkxik23CyCBIj3rKlflPn) | [Hibernation](https://open.spotify.com/album/5dVDeiMsoSUGb0KJhXnpmi) | 2:20 | 2022-07-05 |  |
 | [Against The Sky \- 2005 Digital Remaster](https://open.spotify.com/track/50mwGp3PgKoZldhBvfy2cf) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [The Pearl](https://open.spotify.com/album/5SSf6lNbSoaAUx6PxQVjlP) | 4:52 | 2022-07-05 |  |
@@ -65,6 +66,7 @@
 | [Cloud Study](https://open.spotify.com/track/3rAchCb8ZxPuKJVXxQX6ui) | [Norris Melcher](https://open.spotify.com/artist/1uNKwFEjuT8w9eXOCqrcAA) | [Cloud Study](https://open.spotify.com/album/3Q1VDydFHxITwok0hVfSZT) | 3:10 | 2022-07-05 |  |
 | [Coming to Life](https://open.spotify.com/track/5qykZZrwFwvF1k68WzHXGx) | [Alex Couture](https://open.spotify.com/artist/25G0894RyKrGyKDqdG1pGu) | [The Calm Sessions](https://open.spotify.com/album/7DZtrPv9CLOwvCuT7KSTdQ) | 3:03 | 2022-07-05 |  |
 | [Connection](https://open.spotify.com/track/5BDIKKycvDRRpJGG76cg0n) | [Benny Dawn](https://open.spotify.com/artist/49ouFefWiDJtR7J8fn7Zqk) | [Connection](https://open.spotify.com/album/4IFgc3WJUTL09xNye07t89) | 2:24 | 2022-07-05 |  |
+| [Consapevolezza](https://open.spotify.com/track/63kxLIjDG9maJO1T1oxVoP) | [Dormiente](https://open.spotify.com/artist/5CsUyEbyQ9JoZLTaP9HJhu) | [Consapevolezza](https://open.spotify.com/album/5miTWb698z08O6V5pxTc8X) | 2:34 | 2022-09-02 |  |
 | [Consciousness](https://open.spotify.com/track/15uIB4knR9Okuy4OBNRNV6) | [Moments of Clarity](https://open.spotify.com/artist/752MndEnUavC68pPM6NtxB) | [Mindful Sleep](https://open.spotify.com/album/2kFyWqR5s7lvq8uNYGx6mj) | 4:02 | 2022-07-05 |  |
 | [darker area](https://open.spotify.com/track/5zIMS6F6nMXAl4Jt1xu39L) | [Fluvis](https://open.spotify.com/artist/7bQwDNMLfpbXVUyUxfN7XX) | [darker area](https://open.spotify.com/album/2BsZnscrvvgIvlqHWyCjf7) | 3:38 | 2022-08-05 |  |
 | [Daydream In Silver](https://open.spotify.com/track/3YJ1eWImuJhcpDUEIatzy3) | [Trevor Kowalski](https://open.spotify.com/artist/4vPiZNfnHqzN52FOn38BEv) | [Daydream In Silver](https://open.spotify.com/album/0W2X2Yarkdype9wknwGETD) | 2:36 | 2022-07-05 |  |

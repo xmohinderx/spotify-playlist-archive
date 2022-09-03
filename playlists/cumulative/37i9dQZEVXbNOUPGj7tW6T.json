@@ -853,7 +853,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 229740,
       "name": "Begin",
       "url": "https://open.spotify.com/track/0bGJHUPR6ems9tzIljlPFR"
@@ -2121,7 +2121,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 228615,
       "name": "Euphoria",
       "url": "https://open.spotify.com/track/5YMXGBD6vcYP7IolemyLtK"
@@ -3229,6 +3229,32 @@
       "duration_ms": 231603,
       "name": "Loco",
       "url": "https://open.spotify.com/track/6b2HYgqcK9mvktt4GxAu72"
+    },
+    {
+      "album": {
+        "name": "LOKERA",
+        "url": "https://open.spotify.com/album/4vJcqwIGUuk5TeP29OPovU"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Lyanno",
+          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
+        },
+        {
+          "name": "Brray",
+          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195294,
+      "name": "LOKERA",
+      "url": "https://open.spotify.com/track/79HZAZNnOE97rb2hnI0XQr"
     },
     {
       "album": {
@@ -4959,6 +4985,40 @@
       "duration_ms": 155825,
       "name": "Se Te Nota (with Guaynaa)",
       "url": "https://open.spotify.com/track/11EnQRgRMJwMAesfkB5pnu"
+    },
+    {
+      "album": {
+        "name": "SEXY NUKIM (feat. RM of BTS)",
+        "url": "https://open.spotify.com/album/7osIz9TFdxYQAm4fgakanT"
+      },
+      "artists": [
+        {
+          "name": "Balming Tiger",
+          "url": "https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1"
+        },
+        {
+          "name": "Omega Sapien",
+          "url": "https://open.spotify.com/artist/46KQM3HJyONaKRTbcfNPlU"
+        },
+        {
+          "name": "wnjn",
+          "url": "https://open.spotify.com/artist/4E4TZnDHlrhclSJgeund1d"
+        },
+        {
+          "name": "Mudd the student",
+          "url": "https://open.spotify.com/artist/4xHlg3Tcv7TZZzFq0aW2hQ"
+        },
+        {
+          "name": "RM",
+          "url": "https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229937,
+      "name": "SEXY NUKIM (feat. RM of BTS)",
+      "url": "https://open.spotify.com/track/1XkMxUilV0E3ChDERZJUEq"
     },
     {
       "album": {

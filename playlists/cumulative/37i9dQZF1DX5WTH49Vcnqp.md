@@ -4,7 +4,7 @@
 
 > all the hottest indie tunes in the world rn feat\. Gorillaz
 
-527 songs - 1 day 6 hr 10 min - [published](https://open.spotify.com/playlist/5RqnN0oKCcJKCYYq3GeJkr)
+528 songs - 1 day 6 hr 14 min - [published](https://open.spotify.com/playlist/5RqnN0oKCcJKCYYq3GeJkr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -211,7 +211,8 @@
 | [Holding Back](https://open.spotify.com/track/7GpYaKxoIl1XzCjF9aGck2) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Holding Back](https://open.spotify.com/album/2BknuzgtjnuSDuPF2bjWPJ) | 3:52 | 2022-03-07 | 2022-07-22 |
 | [Holiday \- Edit](https://open.spotify.com/track/1ngvsqVxDh3FtOzUfQam59) | [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [Holiday](https://open.spotify.com/album/2sqMPf5KvLYvzINqaKHFrS) | 3:55 | 2021-12-28 | 2022-01-25 |
 | [Hollow \(feat\. Emma Louise\)](https://open.spotify.com/track/3edn8srMWRiiJfYy0DUWLS) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Emma Louise](https://open.spotify.com/artist/1A96iePIMNFBjLrjXEl718) | [Hollow \(feat\. Emma Louise\)](https://open.spotify.com/album/7idCvUk6hQlyjKntzlTRUe) | 3:53 | 2022-05-19 |  |
-| [Hologram](https://open.spotify.com/track/19zjVWC09Iv6SZ0gOKDkHC) | [Forest Claudette](https://open.spotify.com/artist/4d26k6BPR9MhZyTj3g5yEM) | [Hologram](https://open.spotify.com/album/3Kv5QqWNChSLXPelipMZgg) | 3:26 | 2022-09-01 |  |
+| [Hologram](https://open.spotify.com/track/0F2zGnaOrsVCOD900FebJk) | [Forest Claudette](https://open.spotify.com/artist/4d26k6BPR9MhZyTj3g5yEM) | [Hologram](https://open.spotify.com/album/30ef2BpCTTCbxFFucsENZj) | 3:26 | 2022-09-01 |  |
+| [Hologram](https://open.spotify.com/track/19zjVWC09Iv6SZ0gOKDkHC) | [Forest Claudette](https://open.spotify.com/artist/4d26k6BPR9MhZyTj3g5yEM) | [Hologram](https://open.spotify.com/album/3Kv5QqWNChSLXPelipMZgg) | 3:26 | 2022-09-01 | 2022-09-03 |
 | [Holy Moley](https://open.spotify.com/track/70adpaRvafau6rQUxuiOg5) | [Lime Cordiale](https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs), [Idris Elba](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS) | [Cordi Elba](https://open.spotify.com/album/1BQHDNi0XZkSoNI09LPfht) | 3:51 | 2022-01-20 | 2022-03-04 |
 | [home](https://open.spotify.com/track/0fAuuR5hoWZtTMpuqqxAGy) | [Two Shell](https://open.spotify.com/artist/4mcHKwboFDmpDBQ4fiOrf3) | [home](https://open.spotify.com/album/1mjbcrgdY8PNeFDGBLsa55) | 4:05 | 2022-01-27 | 2022-02-18 |
 | [Home By Now](https://open.spotify.com/track/5nnPrQFYUQijEz4lwMX4dC) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Home By Now](https://open.spotify.com/album/6ua077NQRY18YA0Yhk5rVt) | 4:28 | 2022-06-06 | 2022-08-12 |

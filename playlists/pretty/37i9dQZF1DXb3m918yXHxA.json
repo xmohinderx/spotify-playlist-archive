@@ -1,12 +1,12 @@
 {
   "description": "Cruise to the smooth grooves of these yacht rock tunes",
-  "num_followers": 1259838,
+  "num_followers": 1259892,
   "original_name": "Yacht Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDE2ODc5MSwwMDAwMDAwMGY1MjUwMmYyYmUzZTFjNDg0MTNiMDNhMGRkMjY0ZWE2",
+  "snapshot_id": "MTY2MDE2ODc5MSwwMDAwMDAwMDI5MmU0MmFlZGExYTk5NGU0N2MyMjAwMDVlODE3NzM5",
   "tracks": [
     {
       "added_at": "2022-07-28 19:01:39",
@@ -899,6 +899,22 @@
     {
       "added_at": "2022-07-28 19:01:39",
       "album": {
+        "name": "Thriller",
+        "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 246040,
+      "name": "Human Nature",
+      "url": "https://open.spotify.com/track/4cgjA7B4fJBHyB9Ya2bu0t"
+    },
+    {
+      "added_at": "2022-07-28 19:01:39",
+      "album": {
         "name": "Takin' It to the Streets",
         "url": "https://open.spotify.com/album/6yXfAEtkB6MUyhRkiGg5X2"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 231600,
       "name": "Takin' It to the Streets",
       "url": "https://open.spotify.com/track/1WDgdCoNSN0fosaTaLGXKU"
-    },
-    {
-      "added_at": "2022-07-28 19:01:39",
-      "album": {
-        "name": "Thriller",
-        "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 246040,
-      "name": "Human Nature",
-      "url": "https://open.spotify.com/track/4cgjA7B4fJBHyB9Ya2bu0t"
     },
     {
       "added_at": "2022-07-28 19:01:39",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2022-07-28 19:01:39",
       "album": {
+        "name": "Thunder Island",
+        "url": "https://open.spotify.com/album/2ICj5EvbtucP1EeMID4zBj"
+      },
+      "artists": [
+        {
+          "name": "Jay Ferguson",
+          "url": "https://open.spotify.com/artist/3aahGWIXwvG1fxduXjimtl"
+        }
+      ],
+      "duration_ms": 240693,
+      "name": "Thunder Island",
+      "url": "https://open.spotify.com/track/3FkQN4NyCFlfn7fWzBkWCj"
+    },
+    {
+      "added_at": "2022-07-28 19:01:39",
+      "album": {
         "name": "Thriller",
         "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 222333,
       "name": "The Girl Is Mine (with Paul McCartney)",
       "url": "https://open.spotify.com/track/4IT6vDuKprKl6jyVndlY8V"
-    },
-    {
-      "added_at": "2022-07-28 19:01:39",
-      "album": {
-        "name": "Thunder Island",
-        "url": "https://open.spotify.com/album/2ICj5EvbtucP1EeMID4zBj"
-      },
-      "artists": [
-        {
-          "name": "Jay Ferguson",
-          "url": "https://open.spotify.com/artist/3aahGWIXwvG1fxduXjimtl"
-        }
-      ],
-      "duration_ms": 240693,
-      "name": "Thunder Island",
-      "url": "https://open.spotify.com/track/3FkQN4NyCFlfn7fWzBkWCj"
     },
     {
       "added_at": "2022-07-28 19:01:39",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2022-07-28 19:01:39",
       "album": {
-        "name": "Xanadu",
-        "url": "https://open.spotify.com/album/0dWzFLXRM8F1IsEYdKopAa"
-      },
-      "artists": [
-        {
-          "name": "Olivia Newton-John",
-          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
-        }
-      ],
-      "duration_ms": 271666,
-      "name": "Magic",
-      "url": "https://open.spotify.com/track/56BSwBKWHYldQOgYLHiehs"
-    },
-    {
-      "added_at": "2022-07-28 19:01:39",
-      "album": {
         "name": "Shango",
         "url": "https://open.spotify.com/album/5WGelYF98lYE9NIYrFMoRm"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 261026,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/1NZAeh2a8Y6Ry5hGBPGP1e"
+    },
+    {
+      "added_at": "2022-07-28 19:01:39",
+      "album": {
+        "name": "Xanadu",
+        "url": "https://open.spotify.com/album/0dWzFLXRM8F1IsEYdKopAa"
+      },
+      "artists": [
+        {
+          "name": "Olivia Newton-John",
+          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
+        }
+      ],
+      "duration_ms": 271666,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/56BSwBKWHYldQOgYLHiehs"
     },
     {
       "added_at": "2022-07-28 19:01:39",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2022-07-28 19:01:39",
       "album": {
-        "name": "Rit, Vol. 1",
-        "url": "https://open.spotify.com/album/4La5Rv7uDtnbsgVQxGdwMR"
-      },
-      "artists": [
-        {
-          "name": "Lee Ritenour",
-          "url": "https://open.spotify.com/artist/1nDqTUspmq8IXhcEZT93iq"
-        }
-      ],
-      "duration_ms": 269653,
-      "name": "Is It You",
-      "url": "https://open.spotify.com/track/5eWTNSMTX5BxuYYuOU4vYq"
-    },
-    {
-      "added_at": "2022-07-28 19:01:39",
-      "album": {
         "name": "Rock On",
         "url": "https://open.spotify.com/album/5ORcHUdS6M1dH8s6IIfHtO"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 203080,
       "name": "You Can't Change That",
       "url": "https://open.spotify.com/track/5vIvHVCP0n6EXTMH0fOpAp"
+    },
+    {
+      "added_at": "2022-07-28 19:01:39",
+      "album": {
+        "name": "Rit, Vol. 1",
+        "url": "https://open.spotify.com/album/4La5Rv7uDtnbsgVQxGdwMR"
+      },
+      "artists": [
+        {
+          "name": "Lee Ritenour",
+          "url": "https://open.spotify.com/artist/1nDqTUspmq8IXhcEZT93iq"
+        }
+      ],
+      "duration_ms": 269653,
+      "name": "Is It You",
+      "url": "https://open.spotify.com/track/5eWTNSMTX5BxuYYuOU4vYq"
     },
     {
       "added_at": "2022-07-28 19:01:39",

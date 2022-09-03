@@ -2,9 +2,9 @@
 
 ### [Al Tiro](https://open.spotify.com/playlist/37i9dQZF1DXdDoYRQ4LfQJ)
 
-> The hottest corridos in the US! Bien Al Tiro con Edgardo Nuñez y Fuerza Regida.
+> The hottest corridos in the US! Bien Al Tiro con Peso Pluma y Luis R Conriquez
 
-175 songs - 8 hr 58 min - [published](https://open.spotify.com/playlist/4NUSWCdJAi5DEcSry3A1Ae)
+176 songs - 9 hr 1 min - [published](https://open.spotify.com/playlist/4NUSWCdJAi5DEcSry3A1Ae)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Así Tocó Mi Vida](https://open.spotify.com/track/2YekzGSNDRlEvRLmvfRZfb) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Así Tocó Mi Vida](https://open.spotify.com/album/58E0nQ2a7axyw3rETsiB9r) | 4:10 | 2022-05-20 |  |
 | [Backpack](https://open.spotify.com/track/4Yrl7HbCo4xgkalAG985RF) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Quédate Conmigo](https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE) | 3:29 | 2022-08-05 |  |
 | [Beliko](https://open.spotify.com/track/0k6E3ZR9NUtjOUHEv0jZL2) | [Ruben Figueroa](https://open.spotify.com/artist/39sUQ6z3CTsNB4BhBecLOg) | [La Historia Cambio](https://open.spotify.com/album/21DI3BV8ZuJqkS1LTI4xMh) | 3:10 | 2022-05-27 | 2022-06-01 |
+| [Bien Alerta \- En vivo](https://open.spotify.com/track/4Up6b4TbzzUCxqWDHaxslv) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Bien Alerta \(En vivo\)](https://open.spotify.com/album/1Wz6iNlCxF0iyuwnoe22kx) | 2:33 | 2022-09-02 |  |
 | [Bien Motivados](https://open.spotify.com/track/6DezO5fZUZV6GRj7xV5k0k) | [Los Del Cristo](https://open.spotify.com/artist/3BarTzhsrWCqdYdTuHaXiK), [Grupo Diez 4tro](https://open.spotify.com/artist/6ubJLRTVzomuWIScbguoSY) | [Bien Motivados](https://open.spotify.com/album/01dP66RlK5xFUhyApHSoWd) | 2:52 | 2022-07-22 |  |
 | [Billete Grande \(En Vivo\)](https://open.spotify.com/track/3XfUFGzbr0LmwFVoLXd9cO) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Billete Grande \(En Vivo\)](https://open.spotify.com/album/3qYGLHQB2krhFp27Hm62Ip) | 2:43 | 2022-08-05 |  |
 | [Blackjack](https://open.spotify.com/track/0Muqo5yTYi4gTUpwYMQvYC) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA), [Zexta Alianza](https://open.spotify.com/artist/2dMIA9Z9kAwjqHptVnccGX) | [Blackjack](https://open.spotify.com/album/6Hu7oVnR7qp3ImU9LudnHH) | 3:37 | 2022-05-20 |  |
@@ -140,7 +141,7 @@
 | [No Falta Mas Tiempo](https://open.spotify.com/track/6xmtB0oKuEFvwm7jnGkNdg) | [Grupo Diez 4tro](https://open.spotify.com/artist/6ubJLRTVzomuWIScbguoSY) | [No Falta Mas Tiempo](https://open.spotify.com/album/26ZmTzkhby5ov3PFa3o5jY) | 2:46 | 2022-05-20 | 2022-08-06 |
 | [No Le Aflojo](https://open.spotify.com/track/7ifMxHITc3NIipJO4R5NGb) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [No Le Aflojo](https://open.spotify.com/album/3VABPNfUfSP5DurV7CUZaH) | 3:22 | 2022-05-20 |  |
 | [Ojos De Maniaco](https://open.spotify.com/track/52Cpyvd2dKb6XRn313nH87) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Duetos Con La Clika](https://open.spotify.com/album/5EV8DzL0vYdtHCOuZ2JDUq) | 3:38 | 2022-05-20 |  |
-| [Pa' Contarla](https://open.spotify.com/track/2JQifUvo3SrpOnD4K6ZudU) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Seguimos Avanzando](https://open.spotify.com/album/0oN9LSWr8UQGbxfCZvk2RC) | 2:57 | 2022-05-20 |  |
+| [Pa' Contarla](https://open.spotify.com/track/2JQifUvo3SrpOnD4K6ZudU) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Seguimos Avanzando](https://open.spotify.com/album/0oN9LSWr8UQGbxfCZvk2RC) | 2:57 | 2022-05-20 | 2022-09-03 |
 | [Pacas Verdes](https://open.spotify.com/track/2yFQXRSMJgaixzpP6gn8jr) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv) | [Pacas Verdes \(feat\. Ovi\)](https://open.spotify.com/album/5RiJUUPf6WYqZjU8FjmhUb) | 2:50 | 2022-05-20 |  |
 | [Plush](https://open.spotify.com/track/2WbeOf9bo82FZG0OMGYRAO) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6), [HERNAN TREJO](https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD) | [HP Everything](https://open.spotify.com/album/7DMfZUWisuEojumNEaolpr) | 2:57 | 2022-05-20 |  |
 | [Por Apodo Soy Sobrino \(En Vivo\)](https://open.spotify.com/track/49qfoWzVYUENMSdwzBjgs3) | [Victor Cibrian](https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [La Decima Banda](https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U) | [Por Apodo Soy Sobrino \(En Vivo\)](https://open.spotify.com/album/7B52dEX4yFDEYHZszTnQhk) | 3:26 | 2022-07-14 |  |

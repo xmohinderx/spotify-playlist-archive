@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Novidades e destaques do indie nacional. Foto: Vanguart\n",
+  "description": "Novidades e destaques do indie nacional. Foto: Duda In The Sky\n",
   "name": "Indie Brasil",
   "published_playlist_ids": [
     "6JgS0nFYvZfSw5mDRlDbjL"
@@ -641,6 +641,46 @@
       "duration_ms": 211874,
       "name": "Bicho Pap\u00e3o",
       "url": "https://open.spotify.com/track/6Dks697XrhDdbVfSydNAyQ"
+    },
+    {
+      "album": {
+        "name": "Bolero",
+        "url": "https://open.spotify.com/album/1vFlWGmTgzSQmoviObW7iY"
+      },
+      "artists": [
+        {
+          "name": "Andrea Martins",
+          "url": "https://open.spotify.com/artist/60Qv0Cy0hpcfkHcYI13kxG"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237083,
+      "name": "Bolero",
+      "url": "https://open.spotify.com/track/3OkBD3fUCvAR8PKC14n1av"
+    },
+    {
+      "album": {
+        "name": "PODERIA SER PIOR",
+        "url": "https://open.spotify.com/album/5N0xGpXhbba4Io7PAU3MwK"
+      },
+      "artists": [
+        {
+          "name": "Number Teddie",
+          "url": "https://open.spotify.com/artist/18TympJ9X4CQ45GYy7sORT"
+        },
+        {
+          "name": "Cleo",
+          "url": "https://open.spotify.com/artist/0Re3qA28AJh2eIITpbREtx"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141104,
+      "name": "bom ator",
+      "url": "https://open.spotify.com/track/6VrkNbCZW82ptUYPWV99sA"
     },
     {
       "album": {
@@ -3454,6 +3494,24 @@
     },
     {
       "album": {
+        "name": "Por um Fio",
+        "url": "https://open.spotify.com/album/7Ii1ewzjCQfZkULEOCMdDd"
+      },
+      "artists": [
+        {
+          "name": "Sulamericana",
+          "url": "https://open.spotify.com/artist/2FTphbeJlzLPNdfsOU7rRJ"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189271,
+      "name": "Por um Fio",
+      "url": "https://open.spotify.com/track/1APCTPKE5pVFC8GUr2kMA4"
+    },
+    {
+      "album": {
         "name": "Fragmentos 2",
         "url": "https://open.spotify.com/album/7tsqDAZfHq81EE3i81EOXG"
       },
@@ -3469,6 +3527,24 @@
       "duration_ms": 186250,
       "name": "Pra Curar",
       "url": "https://open.spotify.com/track/1DIBq09mcWCWuXc0TIqoOx"
+    },
+    {
+      "album": {
+        "name": "tres",
+        "url": "https://open.spotify.com/album/7LGefeRWzqVdHgdDC4GgGh"
+      },
+      "artists": [
+        {
+          "name": "Duda In The Sky",
+          "url": "https://open.spotify.com/artist/7JMMxGGAQVHUU3KAGHVUFu"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192698,
+      "name": "pra perto de mim",
+      "url": "https://open.spotify.com/track/0qEEoCPxNgQjXtwQB4AeNe"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > NCS / NoCopyrightSounds royalty free gaming music for YouTube &amp; Twitch Streaming
 
-181 songs - 9 hr 33 min - [published](https://open.spotify.com/playlist/4dffDAKNLn3DWHgAjcX4Hp)
+182 songs - 9 hr 37 min - [published](https://open.spotify.com/playlist/4dffDAKNLn3DWHgAjcX4Hp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Find You There](https://open.spotify.com/track/2WxmjSYBgaswXqyWI0HPfE) | [CHENDA](https://open.spotify.com/artist/38HqxBtUpMunEP3kKLjEby), [Shiah Maisel](https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t) | [Find You There](https://open.spotify.com/album/2xpDatXqJ7n62gtGutnhOP) | 4:02 | 2022-02-03 |  |
 | [For Good](https://open.spotify.com/track/4sarKZgklpsCrHEDLueslH) | [Guy Arthur](https://open.spotify.com/artist/7I82CsIAyE2RTFwtP6gcrP), [Clarx](https://open.spotify.com/artist/0FlpBojQwomu07ckcyz3wr), [Veronica Bravo](https://open.spotify.com/artist/3xIHOffeC188QWHIiCaLXr) | [For Good](https://open.spotify.com/album/2OrIECTQfNrBUf7ie7fzHY) | 2:50 | 2022-02-03 |  |
 | [Freaky](https://open.spotify.com/track/4C39BJ7XjxFYhN4jPHvJwn) | [Hush](https://open.spotify.com/artist/5yumQW70M7N3EeWFWV7fUZ) | [Freaky](https://open.spotify.com/album/26N7ToBjh2bBMvvBiUwDv9) | 2:58 | 2022-02-03 |  |
+| [Freedom](https://open.spotify.com/track/1roivsvHAUwl9VhnEpRGjD) | [32Stitches](https://open.spotify.com/artist/4NH2deLFDDB0YeV3PNLjWQ), [CHENDA](https://open.spotify.com/artist/38HqxBtUpMunEP3kKLjEby), [Harley Bird](https://open.spotify.com/artist/7kXDaUD3imvM6el5qK6tAu) | [Freedom](https://open.spotify.com/album/5d0m1rwDpjHleCQyfDUu3f) | 3:45 | 2022-09-02 |  |
 | [Freefalling](https://open.spotify.com/track/3rO1nOn3RTpDTkop8lCeY0) | [Facading](https://open.spotify.com/artist/3swqKb9ThB6V60oQEFyDu0) | [Freefalling](https://open.spotify.com/album/0nBHpS95DU0znkctgMQ4Ty) | 2:33 | 2022-02-03 |  |
 | [Game Over](https://open.spotify.com/track/1I7JfiqLXlKJN3FRBBdcSz) | [Egzod](https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6), [EMM](https://open.spotify.com/artist/1pYPWJEmCbWjcqnxw3qcyo) | [Game Over](https://open.spotify.com/album/07EtgZaV0yshfe6Q3P6vKL) | 4:08 | 2022-02-03 |  |
 | [Give Up On You](https://open.spotify.com/track/1Ju1JMsx9zmVxAHYnt7Iv9) | [hayve](https://open.spotify.com/artist/6HT10ZbNJFIRYirBe3PTxs), [ROY KNOX](https://open.spotify.com/artist/6rADW3yvxPKpxWuNUKEed3), [imallryt](https://open.spotify.com/artist/5WXjAq5jNEHfrvZDhEYDDD) | [Give Up On You](https://open.spotify.com/album/3fWEMGfQhcEp7rm0A2V5Ni) | 2:35 | 2022-02-03 |  |

@@ -4,7 +4,7 @@
 
 > Free your mind and let your thoughts flow to the sounds of guitar.
 
-120 songs - 5 hr 54 min - [published](https://open.spotify.com/playlist/4HU2Rw6bNgsjgvEsWWL6e8)
+121 songs - 5 hr 57 min - [published](https://open.spotify.com/playlist/4HU2Rw6bNgsjgvEsWWL6e8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Breeze](https://open.spotify.com/track/0m2ai6kCVY9meGot1RZwqz) | [WoodenSound](https://open.spotify.com/artist/0ouvNQ3dhZP8pyPHngaS9U) | [Breeze](https://open.spotify.com/album/6Ps3PkSR3CoAEcNUToyzzg) | 2:24 | 2022-05-27 |  |
 | [Cadaqués](https://open.spotify.com/track/4It0oWesPCt0G0h7HtaUca) | [August Wilkes](https://open.spotify.com/artist/19gSkzJPz68TJCpd3RIbm5) | [Cadaqués](https://open.spotify.com/album/6fdgn796SWB1DhUvDHU9wq) | 1:58 | 2022-05-27 | 2022-07-22 |
 | [Celebration of Sam](https://open.spotify.com/track/4RV2xO2WfaMS4W1lIxwx6J) | [Steve Pulvers](https://open.spotify.com/artist/4EIHPmsZkohwAGfn46iNmq) | [Acoustic Journey](https://open.spotify.com/album/4At2sTH7tL2Ovys5npBy7g) | 3:45 | 2021-12-10 | 2022-07-08 |
+| [Cheese and Wine](https://open.spotify.com/track/2tjM3I6MKoiggjXcupqR3s) | [Agustín Amigó](https://open.spotify.com/artist/3hUFjtgMr2bvq6E6tY7yQB) | [Cheese and Wine](https://open.spotify.com/album/19Cbc4r3BvAIrk8wk51yGW) | 2:29 | 2022-09-02 |  |
 | [Chimes](https://open.spotify.com/track/5SUEH5VIVUmIDyynFsjFgb) | [Anona Helene](https://open.spotify.com/artist/489KvuYBhHiNJYYnb2d2l2) | [Chimes](https://open.spotify.com/album/0FVTcnV3vxODYuvgviCTaU) | 2:47 | 2021-12-10 |  |
 | [Ciudad nueva](https://open.spotify.com/track/2tOy5Z4ECTD5AaEDqR4Khb) | [Constance Timon](https://open.spotify.com/artist/5svEYMmK1IFN983jkqrG7f) | [Ciudad nueva](https://open.spotify.com/album/5hEsUfEEb8BtmGvo0iJgFp) | 2:36 | 2021-12-10 |  |
 | [CLEVELAND, OH](https://open.spotify.com/track/7xAGtSGZCmzZ4gkJetmnoq) | [Brad Barr](https://open.spotify.com/artist/6FHxCoGlbKV6cvqO2AMaKv) | [THE WINTER MISSION](https://open.spotify.com/album/05dhqFgu0AVrq1qMjHhcfq) | 1:34 | 2022-05-13 | 2022-07-22 |

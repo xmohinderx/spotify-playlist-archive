@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 
 > اكتشف الأغاني المصرية الجديدة! الغلاف: محمد رمضان
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,069 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,181 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Amira](https://open.spotify.com/track/2BHxg3zP8IdRvvWPVavzqB) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q), [Ash](https://open.spotify.com/artist/4nkuNzBcYGlNmAqFWbHLqS) | [Amira](https://open.spotify.com/album/1VVZMKjwVA9hvPZcaCepOS) | 4:29 |
 | 2 | [El Dalo3a \- الدلوعه](https://open.spotify.com/track/5pOMkd7UP0qs3ESXchLhWZ) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB) | [El Dalo3a \- الدلوعه](https://open.spotify.com/album/5fq7qJFXwmWfsff0z7zsNz) | 3:00 |
 | 3 | [El Hala'](https://open.spotify.com/track/75erM0i0rM96ydo1ujzn7g) | [Saad Lamjarred](https://open.spotify.com/artist/0NjXtqYWpnV055KhfZgtuY) | [El Hala'](https://open.spotify.com/album/72a9NuF8ZI7ynsbjqGEj3o) | 2:52 |
-| 4 | [مايركبش البسكلته](https://open.spotify.com/track/6uiTyyvUkV0NbQA11D7gT3) | [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH) | [مايركبش البسكلته](https://open.spotify.com/album/0IuctadW5Mwa7RhSfioGb9) | 2:16 |
+| 4 | [متغاظين](https://open.spotify.com/track/6uiTyyvUkV0NbQA11D7gT3) | [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH) | [متغاظين](https://open.spotify.com/album/0IuctadW5Mwa7RhSfioGb9) | 2:16 |
 | 5 | [Taka Taka](https://open.spotify.com/track/56wfjZl06ATKuczJoL5RI6) | [Hamada Helal](https://open.spotify.com/artist/0ajxyFKgxh6n0Tui7kxY8Z) | [Taka Taka](https://open.spotify.com/album/4QaIYxJWkv0wL6rGalJFH2) | 3:18 |
 | 6 | [Alby Habak Gedan](https://open.spotify.com/track/4pGaxNrUaxI98DYSK6s7mj) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [Alby Habak Gedan](https://open.spotify.com/album/6C4b7LphPB912ZLNdO6AuU) | 3:19 |
 | 7 | [يا جميل](https://open.spotify.com/track/76WCLn1YVNLqCJ8y4pj5N7) | [Khaled Selim](https://open.spotify.com/artist/5J4acKeUuK5k6oZfx8e1rr) | [Ya Gamil](https://open.spotify.com/album/73fVexTsnpSydtpESG6FEm) | 3:39 |

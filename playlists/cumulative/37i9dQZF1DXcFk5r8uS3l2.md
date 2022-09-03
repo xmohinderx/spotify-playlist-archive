@@ -4,7 +4,7 @@
 
 > You've come to the crossroads of soul, folk, and the blues\. Cover: Amythyst Kiah
 
-200 songs - 12 hr 46 min - [published](https://open.spotify.com/playlist/3G1eoqHvHRUa7LJeikn6w5)
+202 songs - 12 hr 53 min - [published](https://open.spotify.com/playlist/3G1eoqHvHRUa7LJeikn6w5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [Everybody Wants To Be My Friend](https://open.spotify.com/track/2dHohxPASrUNxY5NDKWZ1e) | [The Reverend Shawn Amos](https://open.spotify.com/artist/2XfNsXm2GClde2U0tZpBQT) | [Everybody Wants To Be My Friend](https://open.spotify.com/album/1YTz5RAgMEKkSavrQAg3yN) | 3:37 | 2022-04-15 | 2022-06-12 |
 | [Feels so Bad \- Previously Unreleased Take](https://open.spotify.com/track/5cl45ejCEAoCeYzuOr7k1z) | [Junior Kimbrough](https://open.spotify.com/artist/03HEHGJoLPdARs4nrtUidr) | [Introducing Junior Kimbrough](https://open.spotify.com/album/1Aw2XfNshXdkGEcl8myTnD) | 2:17 | 2021-12-17 | 2022-08-18 |
 | [Fight the Good Fight](https://open.spotify.com/track/4SZcib7kgYNZC43ZeLpYQM) | [Vaneese Thomas](https://open.spotify.com/artist/79cmm0PKrLWIrqp80GpJtK) | [Fight the Good Fight](https://open.spotify.com/album/09KRwQuSiA0RE2Hy1L3u20) | 3:46 | 2022-04-15 | 2022-06-11 |
-| [Fire](https://open.spotify.com/track/4mGkVCstt9CC4mIU8iHOZ5) | [Ash Radford](https://open.spotify.com/artist/5xbTNkvW7vgjRXPKjwBEyw) | [Fire](https://open.spotify.com/album/2rGNHADUSv8bTiRa13dB0j) | 3:59 | 2022-08-19 |  |
+| [Fire](https://open.spotify.com/track/4mGkVCstt9CC4mIU8iHOZ5) | [Ash Radford](https://open.spotify.com/artist/5xbTNkvW7vgjRXPKjwBEyw) | [Fire](https://open.spotify.com/album/2rGNHADUSv8bTiRa13dB0j) | 3:59 | 2022-08-19 | 2022-09-03 |
 | [Fireman](https://open.spotify.com/track/2sSpzTMLQTLn2BjPTuSyaO) | [Janiva Magness](https://open.spotify.com/artist/3igRFmvurYBLvQ4aYliwXg) | [Hard to Kill](https://open.spotify.com/album/53nnG57cJkUHY52Ftihn0P) | 3:27 | 2022-06-24 | 2022-07-02 |
 | [First McDonell's on the Moon](https://open.spotify.com/track/5tIPp0eDCVopzvXyeMgUOm) | [Jake La Botz](https://open.spotify.com/artist/7pHtidPDRlqg71cTcwjWQX) | [First McDonell's on the Moon](https://open.spotify.com/album/6hVnFJurOhApCMbjug96f4) | 3:51 | 2022-04-01 | 2022-07-21 |
 | [Forever You and Me](https://open.spotify.com/track/4GUaG3df9nbrj77GKEB76j) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Forever You and Me](https://open.spotify.com/album/1aUMtW3DvOoPetvGzgkuUW) | 2:55 | 2021-12-17 |  |
@@ -66,6 +66,7 @@
 | [Full Throttle](https://open.spotify.com/track/3a9hjQyEt5g1L6jbK46oM3) | [Clayton Sturgeon](https://open.spotify.com/artist/48MYOaXNicyTiWBlRCkogN) | [Full Throttle](https://open.spotify.com/album/19GYEqqEXkYbCGNh65mRlu) | 3:11 | 2022-08-05 |  |
 | [Get Real High](https://open.spotify.com/track/1AsuZS5OuqOcftkRNXm5Hk) | [The California Honeydrops](https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk) | [Get Real High](https://open.spotify.com/album/6zQE9aX3u2NsNJcxxq37Qz) | 4:07 | 2022-04-22 |  |
 | [Gonna Walk This Road](https://open.spotify.com/track/1VcKAAbJoU9tUtjrLHuEAW) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1) | [Me to You](https://open.spotify.com/album/642PO6YTBiP26uQek3zOd5) | 2:30 | 2021-12-17 | 2022-07-29 |
+| [Good Thing](https://open.spotify.com/track/7ztepPjeNZuOUFCsEmlzDj) | [Drew Foust](https://open.spotify.com/artist/7enMAKmPy57r3E6He9IgWE) | [Good Thing](https://open.spotify.com/album/2OyrsRxTuxC5mgAvYPaOYI) | 4:04 | 2022-09-02 |  |
 | [Good To You](https://open.spotify.com/track/7t7VTdIZS01AfR2w2SHb17) | [Jonny P](https://open.spotify.com/artist/3UtTKOuKlWMQPSCyIvCDl6) | [Good To You](https://open.spotify.com/album/7FEsIzWGhL3x83QHxIHC15) | 2:38 | 2021-12-17 |  |
 | [Got Love \- Made In Muscle Shoals](https://open.spotify.com/track/4TN7nQty1SvMEwNxOaug0b) | [The Revivalists](https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA) | [Made In Muscle Shoals Vol\. 2](https://open.spotify.com/album/1lBoq5SRprSiyxDcQNpob5) | 4:22 | 2022-06-17 |  |
 | [Grass Is Greener](https://open.spotify.com/track/2rNVmfuyXAfmvZfg8O9D92) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Half The City](https://open.spotify.com/album/6BN0KczNzSrfmKoQzd6lMS) | 4:14 | 2022-01-28 |  |
@@ -177,9 +178,10 @@
 | [Take Me In](https://open.spotify.com/track/4AAFd6yIz0UwjxKsmStjrR) | [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Take Me In](https://open.spotify.com/album/1rIO1N6XbLqEbh5hgUgf8Z) | 3:47 | 2021-12-17 | 2022-06-11 |
 | [That's How Love Is Made](https://open.spotify.com/track/1BIX2BQa6BroVxG6O97UWk) | [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [That's How Love Is Made](https://open.spotify.com/album/7jEsDY3DfzPI2MRJaOyZdP) | 3:46 | 2022-08-26 |  |
 | [The Battle of Atlanta](https://open.spotify.com/track/6vwDgv1N8Iyv8YyMDpuUqx) | [Lee Bains + The Glory Fires](https://open.spotify.com/artist/1oTNCl6SRphYGb9NQ0toVE) | [The Battle of Atlanta](https://open.spotify.com/album/3UmdOo3j5KVnz4KBCtzu9K) | 5:16 | 2022-08-05 | 2022-08-13 |
+| [The Breeze](https://open.spotify.com/track/0Oou2wDOZJFrNqRbDgOFir) | [Kenny Sharp](https://open.spotify.com/artist/7HL0NItywvJ7qgDfBiIo0E) | [The Breeze](https://open.spotify.com/album/20qckV3u4PYG6MHZSWJwhH) | 2:36 | 2022-09-02 |  |
 | [The Fifth of June](https://open.spotify.com/track/2qx6g41H1pK7yP0G1wo3MY) | [Bad Flamingo](https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE) | [The Fifth of June](https://open.spotify.com/album/6VRdWjagHR5bwoq8iI7uYF) | 3:12 | 2022-06-10 | 2022-07-27 |
 | [The Future Ain't What It Used to Be](https://open.spotify.com/track/7mNrmOsmZyjJw9FAmrboQO) | [Seth Walker](https://open.spotify.com/artist/3Bl4eNAFJkXXi0ewcjgGP9) | [The Future Ain't What It Used to Be](https://open.spotify.com/album/0DW4kByILcJVsYLxbfx035) | 3:20 | 2022-03-11 | 2022-07-29 |
-| [The Kids Are Having None Of It](https://open.spotify.com/track/1okc9vBreGSAqixbVaAGUH) | [Frazey Ford](https://open.spotify.com/artist/3w6sr0v1PArSe6JAwqk8Bl) | [U kin B the Sun](https://open.spotify.com/album/4N5WuLpUuLCY98TrthGv3C) | 4:49 | 2021-12-17 |  |
+| [The Kids Are Having None Of It](https://open.spotify.com/track/1okc9vBreGSAqixbVaAGUH) | [Frazey Ford](https://open.spotify.com/artist/3w6sr0v1PArSe6JAwqk8Bl) | [U kin B the Sun](https://open.spotify.com/album/4N5WuLpUuLCY98TrthGv3C) | 4:49 | 2021-12-17 | 2022-09-03 |
 | [The Lengths](https://open.spotify.com/track/7nl6fbpRrLAED8KR2pUgTp) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Rubber Factory](https://open.spotify.com/album/1rlGDm1KQJfDyT5v1U8Xk5) | 4:54 | 2021-12-17 |  |
 | [The Map](https://open.spotify.com/track/7lBcer2WtpdnPpHVcVpROp) | [War & Pierce](https://open.spotify.com/artist/1YPZK8wRkpV1pyTD3OsgBh) | [The Map](https://open.spotify.com/album/2qabf6Z1Q1Bt1nXKoTunWd) | 3:35 | 2021-12-17 | 2022-07-29 |
 | [The Reckoning](https://open.spotify.com/track/0JoT21QZNDV1f52oKAiyCA) | [The Deadbeat Cousins](https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40) | [The Reckoning](https://open.spotify.com/album/4SpmzZschXxbCnNAFTTESm) | 3:38 | 2022-06-17 | 2022-06-25 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtKpmml7moA.md) - [plain]
 
 > Simmer down with this relaxing selection of old and new Reggae.
 
-[Spotify](https://open.spotify.com/user/spotify) - 352,652 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 351,989 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,10 +46,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtKpmml7moA.md) - [plain]
 | 36 | [Real Love](https://open.spotify.com/track/27yBUDE0EBDxQUkg72uL49) | [Jesse Royal](https://open.spotify.com/artist/4aXUVIuNCDbLoRAYfuVDi1) | [Lily of da Valley](https://open.spotify.com/album/4fFTF01yyYfAbsI0ktBb7H) | 4:09 |
 | 37 | [My Kinda Girl](https://open.spotify.com/track/3ca9aWbM7H6j138sWF4fPG) | [Beres Hammond](https://open.spotify.com/artist/2ruMkdO4e1tJWDHsYSEtxr) | [Never Ending](https://open.spotify.com/album/6pJrd3qBSNWEeidE1W0Ukd) | 4:14 |
 | 38 | [Use Me](https://open.spotify.com/track/3KDk6mLLHSd1YiaLtnAQdt) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij) | [Use Me](https://open.spotify.com/album/592Zbs7JSgwspo1O7BU1K1) | 3:12 |
-| 39 | [Hope \- LOCK\-IN](https://open.spotify.com/track/6j2DK9VA478EJySZ4oaxeb) | [Fat Freddy's Drop](https://open.spotify.com/artist/32lo0J8u6KZJTwBOIBrdYS), [Lisa Tomlins](https://open.spotify.com/artist/6SisxwZsa3yQ3VTNGJ8AXR) | [Hope \(LOCK\-IN\)](https://open.spotify.com/album/7Gtf3fYDUAmgpj4X5Bw0xN) | 9:02 |
-| 40 | [Buried Alive](https://open.spotify.com/track/0TihbhZf0uXlEcxDj4Fzpi) | [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | [Upside Down 2020](https://open.spotify.com/album/0gZau2nRsooGhfgul60N4l) | 3:52 |
+| 39 | [Holy Ground \(feat\. Buju Banton\)](https://open.spotify.com/track/1LZPELQqai6rO6JgvZtElr) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | [Father Of Asahd](https://open.spotify.com/album/1YgX8BWKleDlDeCOFklRfz) | 3:17 |
+| 40 | [Hope \- LOCK\-IN](https://open.spotify.com/track/6j2DK9VA478EJySZ4oaxeb) | [Fat Freddy's Drop](https://open.spotify.com/artist/32lo0J8u6KZJTwBOIBrdYS), [Lisa Tomlins](https://open.spotify.com/artist/6SisxwZsa3yQ3VTNGJ8AXR) | [Hope \(LOCK\-IN\)](https://open.spotify.com/album/7Gtf3fYDUAmgpj4X5Bw0xN) | 9:02 |
 | 41 | [Still I Wonder](https://open.spotify.com/track/1KTO0B48WH9AwjgbenacjP) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr) | [In Search Of Lost Time](https://open.spotify.com/album/3kF6kDaK450bGM7rgOTVgW) | 2:52 |
-| 42 | [Holy Ground \(feat\. Buju Banton\)](https://open.spotify.com/track/1LZPELQqai6rO6JgvZtElr) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | [Father Of Asahd](https://open.spotify.com/album/1YgX8BWKleDlDeCOFklRfz) | 3:17 |
+| 42 | [Buried Alive](https://open.spotify.com/track/0TihbhZf0uXlEcxDj4Fzpi) | [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | [Upside Down 2020](https://open.spotify.com/album/0gZau2nRsooGhfgul60N4l) | 3:52 |
 | 43 | [Truly](https://open.spotify.com/track/0O9R4pEwilYGjLSktvG3Ix) | [Etana](https://open.spotify.com/artist/6oF8gXhgD5ZTQ0biyaw4Cm) | [Gemini](https://open.spotify.com/album/4zpuo5gvZ9Ncqliyl5ReeH) | 4:00 |
 | 44 | [New Blessings](https://open.spotify.com/track/63foYg1Lz1djaWQizq7qjX) | [¡MAYDAY!](https://open.spotify.com/artist/71WhWdsVNTLxsnfe8M3Peh) | [South Of 5th](https://open.spotify.com/album/5uuDX34CbxXIArcU4PW2c6) | 4:19 |
 | 45 | [Amsterdam](https://open.spotify.com/track/19LXhmESLLMBb6bUJC02uR) | [Mungo's Hi Fi](https://open.spotify.com/artist/0Ism1B2cF9NxpXAwdUCkxK), [Eva Lazarus](https://open.spotify.com/artist/68eE2HHE6By6hOsOcsArcp) | [Amsterdam](https://open.spotify.com/album/3WVrgqUT8NWgAuicUPcKt0) | 3:58 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtKpmml7moA.md) - [plain]
 | 47 | [Rubble Rebel \(Champion\)](https://open.spotify.com/track/0eocMORTMwuO5wKYWGGSS1) | [Walshy Fire](https://open.spotify.com/artist/3yJLZoq3Ra2VmSW5teVgih), [The Expanders](https://open.spotify.com/artist/6TofIIqBhodHJAZU6vh9sT), [Randy Valentine](https://open.spotify.com/artist/6qPjo0iKI9TQoc4vlCzYk1) | [Walshy Fire & The Expanders Present Thanks For Life](https://open.spotify.com/album/46q2lXA0bm74ijORjFxTer) | 4:32 |
 | 48 | [Superstar](https://open.spotify.com/track/11SeVWsf1VtRsrZJNfrOuv) | [Hollie Cook](https://open.spotify.com/artist/1fwuUuFbqXJx3B17PUhFCE) | [Superstar b/w Superdub](https://open.spotify.com/album/3NX2wOljjGOxUbcz7aIGMh) | 4:05 |
 | 49 | [Lights Out](https://open.spotify.com/track/07kZfWFKcU7spoxuTEudtS) | [Estelle](https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn) | [Reggae Gold 2019](https://open.spotify.com/album/5cfZ5mWTwZwyzSSgDeiFN6) | 3:23 |
-| 50 | [Lovely State Of Mind](https://open.spotify.com/track/5Lpkr4t5096HDHqJYiNnJy) | [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | [Upside Down 2020](https://open.spotify.com/album/0gZau2nRsooGhfgul60N4l) | 4:06 |
+| 50 | [Foundation](https://open.spotify.com/track/10h9F7m8cUY6XGJzhvtZb2) | [Toddla T](https://open.spotify.com/artist/3l1C23aRp4lfkBK3lLAp2m), [Addis Pablo](https://open.spotify.com/artist/3qp2x3V8TKROAYg3OlYceu) | [Foreign Light](https://open.spotify.com/album/1EA4zDyAZSXFlxN5ffdOCx) | 3:29 |
 
-Snapshot ID: `MTY1NTczMjMyNywwMDAwMDAwMGE1OTBjNDNiNWI2NTQ3MmFmM2VmYmRmODNlYzlkZDJj`
+Snapshot ID: `MTY1NTczMjMyNywwMDAwMDAwMGE3NzhjMDFhODhiMjgxMzg4NjhhYzhkYmMzM2Y5YzAy`

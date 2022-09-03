@@ -1,12 +1,12 @@
 {
   "description": "P fkn R. Esto llega al choliiiii. Cover: Young Miko",
-  "num_followers": 220156,
+  "num_followers": 220190,
   "original_name": "Rompiendo: Puerto Rico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDc2MDY4MiwwMDAwMDAwMDRmZjEzODM0YWExMDU1MmRhOTJiOTgyM2QxMGZlMDg0",
+  "snapshot_id": "MTY2MDc2MDY4MiwwMDAwMDAwMGIzMTllZGJkMDI2NWRiMTNhNTdhY2VjZDNhODYyODlk",
   "tracks": [
     {
       "added_at": "2022-08-17 18:24:42",
@@ -391,18 +391,22 @@
     {
       "added_at": "2022-08-17 18:24:42",
       "album": {
-        "name": "Experimento",
-        "url": "https://open.spotify.com/album/1KKwufGzWD4zIKqlBCtwWv"
+        "name": "Felicilandia",
+        "url": "https://open.spotify.com/album/7jg09IJJXi1eigVLZja2hN"
       },
       "artists": [
         {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
         }
       ],
-      "duration_ms": 222728,
-      "name": "Experimento",
-      "url": "https://open.spotify.com/track/6c32C8T3KlXrbvWSoD5aON"
+      "duration_ms": 192613,
+      "name": "Problem\u00f3n",
+      "url": "https://open.spotify.com/track/1mSviQV9iQnGSRyvTIuxAj"
     },
     {
       "added_at": "2022-08-17 18:24:42",
@@ -427,22 +431,18 @@
     {
       "added_at": "2022-08-17 18:24:42",
       "album": {
-        "name": "Felicilandia",
-        "url": "https://open.spotify.com/album/7jg09IJJXi1eigVLZja2hN"
+        "name": "Experimento",
+        "url": "https://open.spotify.com/album/1KKwufGzWD4zIKqlBCtwWv"
       },
       "artists": [
         {
-          "name": "Alvaro Diaz",
-          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
         }
       ],
-      "duration_ms": 192613,
-      "name": "Problem\u00f3n",
-      "url": "https://open.spotify.com/track/1mSviQV9iQnGSRyvTIuxAj"
+      "duration_ms": 222728,
+      "name": "Experimento",
+      "url": "https://open.spotify.com/track/6c32C8T3KlXrbvWSoD5aON"
     },
     {
       "added_at": "2022-08-17 18:24:42",
@@ -667,22 +667,6 @@
     {
       "added_at": "2022-08-17 18:24:42",
       "album": {
-        "name": "De Mi Para Ti",
-        "url": "https://open.spotify.com/album/1GYQWPYnUhpVP2yJ4e8hFK"
-      },
-      "artists": [
-        {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Eazt",
-      "url": "https://open.spotify.com/track/4et8cFiIp4NPpWfULoukzc"
-    },
-    {
-      "added_at": "2022-08-17 18:24:42",
-      "album": {
         "name": "23 Preguntas",
         "url": "https://open.spotify.com/album/0iLhDl4hlkoBXLtsfhUg56"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 251221,
       "name": "23 Preguntas",
       "url": "https://open.spotify.com/track/5ANkjNH7elrxzggidjnH9v"
+    },
+    {
+      "added_at": "2022-08-17 18:24:42",
+      "album": {
+        "name": "De Mi Para Ti",
+        "url": "https://open.spotify.com/album/1GYQWPYnUhpVP2yJ4e8hFK"
+      },
+      "artists": [
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Eazt",
+      "url": "https://open.spotify.com/track/4et8cFiIp4NPpWfULoukzc"
     },
     {
       "added_at": "2022-08-17 18:24:42",
@@ -1039,26 +1039,6 @@
     {
       "added_at": "2022-08-17 18:24:42",
       "album": {
-        "name": "X2 (Remix)",
-        "url": "https://open.spotify.com/album/1sxG561Y3NC62QyZ2A05Ys"
-      },
-      "artists": [
-        {
-          "name": "Jossef",
-          "url": "https://open.spotify.com/artist/7kaC28XGoTp1ViSZAA0iuX"
-        },
-        {
-          "name": "Mariah Angeliq",
-          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
-        }
-      ],
-      "duration_ms": 219333,
-      "name": "X2 - Remix",
-      "url": "https://open.spotify.com/track/3fEUTIXek0kTmpnGAWNWxX"
-    },
-    {
-      "added_at": "2022-08-17 18:24:42",
-      "album": {
         "name": "Nube",
         "url": "https://open.spotify.com/album/1Isa3aYWmtcpoT4d2yh7ku"
       },
@@ -1075,6 +1055,26 @@
       "duration_ms": 187050,
       "name": "Nube",
       "url": "https://open.spotify.com/track/4fSp56ULFfajEsX0rNRu2D"
+    },
+    {
+      "added_at": "2022-08-17 18:24:42",
+      "album": {
+        "name": "X2 (Remix)",
+        "url": "https://open.spotify.com/album/1sxG561Y3NC62QyZ2A05Ys"
+      },
+      "artists": [
+        {
+          "name": "Jossef",
+          "url": "https://open.spotify.com/artist/7kaC28XGoTp1ViSZAA0iuX"
+        },
+        {
+          "name": "Mariah Angeliq",
+          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
+        }
+      ],
+      "duration_ms": 219333,
+      "name": "X2 - Remix",
+      "url": "https://open.spotify.com/track/3fEUTIXek0kTmpnGAWNWxX"
     },
     {
       "added_at": "2022-08-17 18:24:42",
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2022-08-17 18:24:42",
       "album": {
+        "name": "Tu Favorito",
+        "url": "https://open.spotify.com/album/5VoWV7iYUp5SbfiELfpARp"
+      },
+      "artists": [
+        {
+          "name": "Luar La L",
+          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
+        }
+      ],
+      "duration_ms": 186352,
+      "name": "Tu Favorito",
+      "url": "https://open.spotify.com/track/3eqxzZ4BIGeyvmqbg49LFe"
+    },
+    {
+      "added_at": "2022-08-17 18:24:42",
+      "album": {
         "name": "Proyecto Z",
         "url": "https://open.spotify.com/album/3Z906so8bqCrYxNCWZcBRJ"
       },
@@ -1291,18 +1307,18 @@
     {
       "added_at": "2022-08-17 18:24:42",
       "album": {
-        "name": "Tu Favorito",
-        "url": "https://open.spotify.com/album/5VoWV7iYUp5SbfiELfpARp"
+        "name": "Puerto Rican Mami",
+        "url": "https://open.spotify.com/album/4YNCuFzFnWgUrjtBan9jAy"
       },
       "artists": [
         {
-          "name": "Luar La L",
-          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
         }
       ],
-      "duration_ms": 186352,
-      "name": "Tu Favorito",
-      "url": "https://open.spotify.com/track/3eqxzZ4BIGeyvmqbg49LFe"
+      "duration_ms": 199627,
+      "name": "Puerto Rican Mami",
+      "url": "https://open.spotify.com/track/2Vz7y1NOvV3sq3bXvsS2DI"
     },
     {
       "added_at": "2022-08-17 18:24:42",
@@ -1331,22 +1347,6 @@
       "duration_ms": 212727,
       "name": "Jangueo",
       "url": "https://open.spotify.com/track/6mgNiJ6pJS5SwvqxhEiMHj"
-    },
-    {
-      "added_at": "2022-08-17 18:24:42",
-      "album": {
-        "name": "Puerto Rican Mami",
-        "url": "https://open.spotify.com/album/4YNCuFzFnWgUrjtBan9jAy"
-      },
-      "artists": [
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        }
-      ],
-      "duration_ms": 199627,
-      "name": "Puerto Rican Mami",
-      "url": "https://open.spotify.com/track/2Vz7y1NOvV3sq3bXvsS2DI"
     },
     {
       "added_at": "2022-08-17 18:24:42",

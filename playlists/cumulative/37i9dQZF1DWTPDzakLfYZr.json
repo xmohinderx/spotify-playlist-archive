@@ -511,7 +511,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 170862,
       "name": "Baloncito Viejo",
       "url": "https://open.spotify.com/track/1PGoOrdBQyahALB6Vu7HMN"
@@ -595,7 +595,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 186067,
       "name": "Borondo",
       "url": "https://open.spotify.com/track/3z8srTinnK1qpxRxwiHsCF"
@@ -1445,7 +1445,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 205210,
       "name": "Fino",
       "url": "https://open.spotify.com/track/2aa3zu8JIbWrE92naVcy7H"
@@ -1555,7 +1555,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 202478,
       "name": "Garabatos (with Jay Wheeler)",
       "url": "https://open.spotify.com/track/7IiFfzVEtu05WUEhR8i8ye"
@@ -1769,6 +1769,24 @@
       "duration_ms": 176575,
       "name": "KESI - Remix",
       "url": "https://open.spotify.com/track/0IqCoZ168iRc9LqfrYgpZy"
+    },
+    {
+      "album": {
+        "name": "La Bachata",
+        "url": "https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162637,
+      "name": "La Bachata",
+      "url": "https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u"
     },
     {
       "album": {
@@ -2150,6 +2168,28 @@
     },
     {
       "album": {
+        "name": "MAL DE AMOR",
+        "url": "https://open.spotify.com/album/1PJGPDQCUfl18e5C3to1Uk"
+      },
+      "artists": [
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221270,
+      "name": "MAL DE AMOR",
+      "url": "https://open.spotify.com/track/0j15NSe9m6egjzJXXn1QXQ"
+    },
+    {
+      "album": {
         "name": "MAMACITA",
         "url": "https://open.spotify.com/album/6XWurcsY0V3aJGIkDSWYiX"
       },
@@ -2353,6 +2393,28 @@
       "duration_ms": 255800,
       "name": "Mi Nin\u0303a - Remix",
       "url": "https://open.spotify.com/track/43PXER25C9JkExLBd5dObG"
+    },
+    {
+      "album": {
+        "name": "XOXO",
+        "url": "https://open.spotify.com/album/3UxgQmk5mb2G4zCFM4ScHH"
+      },
+      "artists": [
+        {
+          "name": "CNCO",
+          "url": "https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225161,
+      "name": "Miami",
+      "url": "https://open.spotify.com/track/49ShiPZnw2oUorrdMyqTz4"
     },
     {
       "album": {
@@ -3149,6 +3211,24 @@
       "duration_ms": 201066,
       "name": "Rep\u00edtelo",
       "url": "https://open.spotify.com/track/5IDjFFu1TMknvgKVAQ1CRX"
+    },
+    {
+      "album": {
+        "name": "Rompecabezas",
+        "url": "https://open.spotify.com/album/5p788bFZwrslgTpb6AUT4M"
+      },
+      "artists": [
+        {
+          "name": "Gusi",
+          "url": "https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182603,
+      "name": "Rompecabezas",
+      "url": "https://open.spotify.com/track/1wtEo5LAk0Hm405a26DaND"
     },
     {
       "album": {

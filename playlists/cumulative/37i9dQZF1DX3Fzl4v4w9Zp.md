@@ -2,7 +2,7 @@
 
 ### [The Pulse of Americana](https://open.spotify.com/playlist/37i9dQZF1DX3Fzl4v4w9Zp)
 
-> Keep your finger on the pulse of Americana\. Cover: Larkin Poe
+> Keep your finger on the pulse of Americana\. Cover: Heartless Bastards
 
 329 songs - 20 hr 33 min - [published](https://open.spotify.com/playlist/1H5Sok0MEuwSOB35Thab6M)
 

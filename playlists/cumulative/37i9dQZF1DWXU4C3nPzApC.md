@@ -2,7 +2,7 @@
 
 ### [Very Nearly Nashville](https://open.spotify.com/playlist/37i9dQZF1DWXU4C3nPzApC)
 
-> The best music with a Nashville flavour\. Cover: Twinnie
+> The best music with a Nashville flavour\. Cover: The Shires
 
 82 songs - 4 hr 31 min - [published](https://open.spotify.com/playlist/5MYHtRglmvJsgUyFpYLHKg)
 

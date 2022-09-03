@@ -4,7 +4,7 @@
 
 > The best in alt, folk, and indie rock\. Cover: Caamp
 
-209 songs - 12 hr 35 min - [published](https://open.spotify.com/playlist/0rsiUCSpnpRaY4LTurJ99p)
+210 songs - 12 hr 40 min - [published](https://open.spotify.com/playlist/0rsiUCSpnpRaY4LTurJ99p)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [I Feel Like I'm Falling](https://open.spotify.com/track/6zIMwJ0kW99r8QXWy3zYqK) | [HOKO](https://open.spotify.com/artist/7DBibsUWd2RMKmXbple4xZ) | [I Feel Like I'm Falling](https://open.spotify.com/album/1cLcnwiYrf51Oi6ePEEspe) | 2:24 | 2021-11-12 | 2022-01-12 |
 | [In Memory \(Of When I Cared\)](https://open.spotify.com/track/6ckJkoKEqCJi0jmtEVuvGc) | [The Bacon Brothers](https://open.spotify.com/artist/30vw9jA2FfUcjQNtJPZBEG) | [In Memory \(Of When I Cared\)](https://open.spotify.com/album/4JmtSJv4Hl3QAVhIjJKIT4) | 2:53 | 2022-05-25 | 2022-07-09 |
 | [in the wake of your leave](https://open.spotify.com/track/4vjB69VckVUeu0GzAxoZRm) | [Gang of Youths](https://open.spotify.com/artist/142YBUGmLWCJigFLzgguf8) | [in the wake of your leave](https://open.spotify.com/album/5cnVBEtmUA3g55e2qbzdw7) | 4:03 | 2022-01-11 |  |
+| [It's Alright](https://open.spotify.com/track/67LEdY2HlgEWNnrdaPyYpK) | [Cecilia Castleman](https://open.spotify.com/artist/6yB7WddQdPHwbyQpKl1qOH) | [It's Alright](https://open.spotify.com/album/5sxieYVKKC6kvgIdKmByyI) | 4:08 | 2022-08-28 |  |
 | [It's Depression \(feat\. Middle Part\)](https://open.spotify.com/track/6wxdyMsMqUHOeMffm1Gsch) | [Anna Shoemaker](https://open.spotify.com/artist/3STjhKc10jr3X60mDRpHV4), [Middle Part](https://open.spotify.com/artist/73QtCj6d6vlI7qkLDDJJx8) | [It's Depression \(feat\. Middle Part\)](https://open.spotify.com/album/71tpQtJhXuTp5sYYWasvwW) | 3:13 | 2021-11-12 |  |
 | [Jackie Down The Line](https://open.spotify.com/track/7fhoVNqC9nHGTz3VjlFV7A) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Jackie Down The Line](https://open.spotify.com/album/6rJkmd9HJJvzALTcUQi6fo) | 4:01 | 2022-01-21 |  |
 | [John Wayne](https://open.spotify.com/track/0gjUYiqimLvi6QxJ0Od2Dg) | [Whiskey Myers](https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc) | [John Wayne](https://open.spotify.com/album/1O9rZ9fDKAddiZSImbxRpG) | 4:55 | 2022-02-18 |  |
@@ -164,7 +165,7 @@
 | [So Happy It Hurts](https://open.spotify.com/track/6RZNw4khjjd6mehiLQ6Ztz) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [So Happy It Hurts](https://open.spotify.com/album/5tccDKivQOkZJSlAbVwWHI) | 3:35 | 2022-07-01 |  |
 | [Sort Of Stranger](https://open.spotify.com/track/5lAflCrqbAfo0nMflKGb0N) | [The Greeting Committee](https://open.spotify.com/artist/1MIe1z4RdqLqHSJsb7EBMm), [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Sort Of Stranger](https://open.spotify.com/album/027yuK6aJh9vCUNxp7i6YH) | 3:30 | 2022-02-11 |  |
 | [Speeding 72](https://open.spotify.com/track/70GadgaRBOWaBtD8qHc095) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Speeding 72](https://open.spotify.com/album/1SGdgzPuKfvCONrOQYX2wn) | 3:58 | 2022-05-25 |  |
-| [Spilt Salt](https://open.spotify.com/track/7BhkpF9Ns7hExArAv8E1X2) | [My Kid Brother](https://open.spotify.com/artist/2x6K5sYwi04Ev2zyGki2nu) | [Spilt Salt](https://open.spotify.com/album/2Y1Oxx76IZ3MF3ZehUiAW9) | 3:36 | 2022-07-01 |  |
+| [Spilt Salt](https://open.spotify.com/track/7BhkpF9Ns7hExArAv8E1X2) | [My Kid Brother](https://open.spotify.com/artist/2x6K5sYwi04Ev2zyGki2nu) | [Spilt Salt](https://open.spotify.com/album/2Y1Oxx76IZ3MF3ZehUiAW9) | 3:36 | 2022-07-01 | 2022-09-03 |
 | [Spirit](https://open.spotify.com/track/4At0MWVAHHBKyOBkyqWg3V) | [The Blue Stones](https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC) | [Spirit](https://open.spotify.com/album/1K2rmMC661DhMwzUp6iuMk) | 4:03 | 2021-03-19 |  |
 | [Stand For Myself](https://open.spotify.com/track/6Oxs28sGtuS3RYlOmIu5K7) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Stand For Myself](https://open.spotify.com/album/1aF9Xjtg1d1wwsE4hRAkQV) | 4:13 | 2021-11-23 |  |
 | [Starting Now](https://open.spotify.com/track/2ESJsIRGeB7gVU5X4HxANA) | [Toad The Wet Sprocket](https://open.spotify.com/artist/4j7EVY3kuDwLPfD2jfC7LC) | [Starting Now](https://open.spotify.com/album/261HvAw6KFCzyHCHtRTsLI) | 3:46 | 2021-01-29 | 2022-03-12 |

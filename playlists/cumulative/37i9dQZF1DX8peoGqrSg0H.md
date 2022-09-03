@@ -4,7 +4,7 @@
 
 > เพลงไทยป๊อปโดนใจ อัพเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: ALLY
 
-213 songs - 13 hr 11 min - [published](https://open.spotify.com/playlist/46jC5TDLIJijd5c6Z3EIRR)
+217 songs - 13 hr 25 min - [published](https://open.spotify.com/playlist/46jC5TDLIJijd5c6Z3EIRR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,10 +13,13 @@
 | [17 นาที](https://open.spotify.com/track/1CfKHIQhgKrUMAkj4VwI4J) | [MILLI](https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis), [mints](https://open.spotify.com/artist/6mehI8OceoNGRHfevtc4l0) | [17 นาที](https://open.spotify.com/album/5SJUJTC3angIZd2p8kmBUR) | 3:35 | 2022-05-26 |  |
 | [247](https://open.spotify.com/track/7AQFhodzN09DtXGiIDtFrd) | [LUSS](https://open.spotify.com/artist/6hJoakJWJIDyWnYujjhhR6) | [247](https://open.spotify.com/album/0Y9jkFL7qITGFYxPIzzqi4) | 3:18 | 2022-05-26 | 2022-07-31 |
 | [All Night \(feat\. Loco\)](https://open.spotify.com/track/2JMx6wah6eRezCInLGsoZ0) | [TYTAN](https://open.spotify.com/artist/5fTJwRSBleAeLkLivVLDZ4), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [All Night \(feat\. Loco\)](https://open.spotify.com/album/3PlPXgmBBVh9LK2czA9DPo) | 3:03 | 2022-06-09 | 2022-07-08 |
+| [Based on whose story?](https://open.spotify.com/track/1PSN6e5cQbumCzz74Imhhz) | [Waii](https://open.spotify.com/artist/2RMcYn32IFfN1FQdpUArrC) | [Based on whose story?](https://open.spotify.com/album/3Y4DNfi7F1CfqWOiUDKSP3) | 3:33 | 2022-09-02 |  |
+| [Believers](https://open.spotify.com/track/4rBFjW1hkzp9ttWG34HUXJ) | [BNK48](https://open.spotify.com/artist/0A7q0U0IEdNOHWnQpMRQdD) | [Believers](https://open.spotify.com/album/2rWCbQocy0hMs6Kc7scxCq) | 4:16 | 2022-09-02 |  |
 | [Blurred](https://open.spotify.com/track/1wCAXionqFLLZPUNY2nd6c) | [FrameThanavuch](https://open.spotify.com/artist/0K44arrw4gdFLzifOQLORP) | [Blurred](https://open.spotify.com/album/6RCVDrIfZY3darb6ig8Vn9) | 4:27 | 2022-05-26 | 2022-06-01 |
 | [Boutchya](https://open.spotify.com/track/2cqgWnsfBS5aKUHg1pq3fN) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [Boutchya](https://open.spotify.com/album/7weTHaUxknmqDfw1vU7ljr) | 3:19 | 2022-07-14 | 2022-07-25 |
 | [Boutchya \- Thai Version](https://open.spotify.com/track/2HH3EYgwHjM8ama77pYtNu) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [Boutchya \(Thai Version\)](https://open.spotify.com/album/7Elaz3IhrcFd3MGflDiSgt) | 3:20 | 2022-07-24 | 2022-08-12 |
 | [Boys Like You](https://open.spotify.com/track/1VyRhsi6GfBusI1Vb061s4) | [ALLY](https://open.spotify.com/artist/4dkCB7FJeRXK6OWpal7zpw) | [Boys Like You](https://open.spotify.com/album/1oslIjeU0faXGgimWvmL4l) | 3:43 | 2022-08-31 |  |
+| [Chop Chop!](https://open.spotify.com/track/6M8nx5vDof89UySjbL8KPM) | [RedSpin](https://open.spotify.com/artist/3NM9LMFT0J6AhkQXov8Ck7) | [Chop Chop!](https://open.spotify.com/album/5cG51iqdsWcuZ5BGmEumN5) | 2:58 | 2022-09-02 |  |
 | [Flame](https://open.spotify.com/track/07yq4fcfWqPecc3z6kk3bb) | [XI](https://open.spotify.com/artist/00EYO9tpVSk1YkXQs1awnQ) | [Flame](https://open.spotify.com/album/1KQkObxhoz8QXlHotEp7PS) | 3:57 | 2022-08-31 |  |
 | [Gone Gurl](https://open.spotify.com/track/2iD5UfAQlZQulHzgaV1BKW) | [Fyeqoodgurl](https://open.spotify.com/artist/47ryT65283NrXnJ8k6rKyc) | [Gone Gurl](https://open.spotify.com/album/4KLCiY1OGHlSKrTsIwpJUY) | 3:15 | 2022-06-09 | 2022-08-06 |
 | [good boy](https://open.spotify.com/track/3hVbL6BkM5rbRzozafghgh) | [KJ](https://open.spotify.com/artist/5VsLrcMVUw2PUCqAQNPXtn) | [good boy](https://open.spotify.com/album/50oaCQAz9HH45u4SPUWcmx) | 3:21 | 2022-07-14 |  |
@@ -47,6 +50,7 @@
 | [ขอบคุณที่เคยใจร้ายกับฉัน \(Thanks To You\)](https://open.spotify.com/track/2mhcGG5JdEotXGF4kDTjGM) | [Ton Thanasit](https://open.spotify.com/artist/6zOWc1PkZQNr5mDOgWyc9x) | [ขอบคุณที่เคยใจร้ายกับฉัน \(Thanks To You\)](https://open.spotify.com/album/58zEDQELi0atD10fgzGpym) | 3:41 | 2022-08-31 |  |
 | [ขี้แง \(Loser\)](https://open.spotify.com/track/26tG5gvCbjRi9HoNAD7v9f) | [LUSS](https://open.spotify.com/artist/6hJoakJWJIDyWnYujjhhR6), [Patrickananda](https://open.spotify.com/artist/4gjXKx2a7GaIYwSDCBveJx) | [ขี้แง \(Loser\)](https://open.spotify.com/album/01eUOdyqykhWOveIc7Vgtj) | 3:40 | 2022-07-28 |  |
 | [ข้อยกเว้น \(Exceptional\)](https://open.spotify.com/track/0T7uw5pfozE3gvom4ALE8D) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [ข้อยกเว้น \(Exceptional\)](https://open.spotify.com/album/6B21RxfWjt5eiNo9QchBIv) | 3:03 | 2022-05-26 |  |
+| [ข้อสอบ](https://open.spotify.com/track/3djIwknyvdh9STESkxpS62) | [DOM](https://open.spotify.com/artist/6ZnhVXjHWYNQakkNpO1fcL) | [ข้อสอบ](https://open.spotify.com/album/4kavHltvGrYIDk80daVY65) | 2:51 | 2022-09-02 |  |
 | [ข้างกัน \(City\)](https://open.spotify.com/track/2XDCs8vAubxRe8mO1A0eTa) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P), [feat\. ออม TELExTELEXs](https://open.spotify.com/artist/205wJyIv1vglYP2l428PAJ) | [ข้างกัน \(City\) \[feat\. ออม TELExTELEXs\]](https://open.spotify.com/album/61V9QCyJm3LPEUHrm84AIj) | 4:56 | 2022-05-26 |  |
 | [คงคา](https://open.spotify.com/track/5umkeJySqBIhm2uYGjidMT) | [BOWKYLION](https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr) | [คงคา](https://open.spotify.com/album/4pAuZ51mvoBeEIVSL1tI5n) | 4:17 | 2022-05-26 | 2022-08-26 |
 | [คงต้องบอกลาแล้ว](https://open.spotify.com/track/2EPMa8Jm1h5XRH4jwf8yK9) | [Dept](https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3) | [คงต้องบอกลาแล้ว](https://open.spotify.com/album/0tLEOYTiDJYMLam1orBK0B) | 4:30 | 2022-07-23 | 2022-07-29 |
@@ -55,7 +59,7 @@
 | [คนเก่าเขาทำไว้ดี \(Can’t win\)](https://open.spotify.com/track/1qkIG72UU08DBiLyCL3vLH) | [Chilling Sunday](https://open.spotify.com/artist/5UjfkANGRdbB6a6aLQHoz9) | [คนเก่าเขาทำไว้ดี \(Can’t win\)](https://open.spotify.com/album/3JGHfNlmX8ERpggp9G39oA) | 3:30 | 2022-05-26 | 2022-08-26 |
 | [คนเราจะแอบรักใครสักคนได้นานแค่ไหน](https://open.spotify.com/track/3IPtnAYykrWz9EPjPWx2D7) | [ROOFTOP](https://open.spotify.com/artist/3wzGjN26jzqLY2Gc836sjC), [AUTTA](https://open.spotify.com/artist/7kM2bHp9WgqwOE4VUKAlRv) | [คนเราจะแอบรักใครสักคนได้นานแค่ไหน](https://open.spotify.com/album/5ti3g7BuA74lw5zapYIWvJ) | 3:21 | 2022-05-26 | 2022-09-01 |
 | [คนไกล](https://open.spotify.com/track/63VOJDNJ3a5dve74kzWVcF) | [Patrickananda](https://open.spotify.com/artist/4gjXKx2a7GaIYwSDCBveJx) | [คนไกล](https://open.spotify.com/album/1Xe1DZBK5eVnfAhtK4RBbO) | 3:32 | 2022-05-26 |  |
-| [คนไม่คุย](https://open.spotify.com/track/4Z64nGulQN49i9D03NcF8a) | [PROXIE](https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF) | [คนไม่คุย](https://open.spotify.com/album/1K7cv40prwoUAbxCXX1CTh) | 3:50 | 2022-08-31 |  |
+| [คนไม่คุย \(Silent Mode\)](https://open.spotify.com/track/4Z64nGulQN49i9D03NcF8a) | [PROXIE](https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF) | [คนไม่คุย \(Silent Mode\)](https://open.spotify.com/album/1K7cv40prwoUAbxCXX1CTh) | 3:50 | 2022-08-31 |  |
 | [คนไม่น่ารัก](https://open.spotify.com/track/6pfGrakHsgPI8MPssDISPB) | [RedSpin](https://open.spotify.com/artist/3NM9LMFT0J6AhkQXov8Ck7) | [คนไม่น่ารัก](https://open.spotify.com/album/3WtbzeNwhOqF0lYFn2WQuk) | 3:13 | 2022-07-14 | 2022-07-23 |
 | [คาเฟอีน \(My Caffeine\)](https://open.spotify.com/track/5snqSVol9lu4kZWa9eHdin) | [Mercury Goldfish](https://open.spotify.com/artist/4Bx6XuumXiSdxSbeMGMGVb) | [คาเฟอีน](https://open.spotify.com/album/2n144mh5bLRanWiqkGxdSN) | 3:01 | 2022-05-26 | 2022-06-10 |
 | [คำถาม](https://open.spotify.com/track/15Xn4r9FY3725iHIfyq5hE) | [PUNYARB](https://open.spotify.com/artist/3DxqAGWVgEeW74mJLLwH2q) | [คำถาม](https://open.spotify.com/album/1yx9K6ymlCqz6iHXubz8DS) | 3:26 | 2022-05-26 |  |

@@ -1,13 +1,45 @@
 {
-  "description": "Soulful, bluesy ballads. Cover: Lizz Wright",
-  "num_followers": 73858,
+  "description": "Soulful, bluesy ballads. Cover: The War and Treaty",
+  "num_followers": 73805,
   "original_name": "Blue Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA2NzMyMCwwMDAwMDAwMDgwNGExNTg4MWZhNTRhZjRlNDFjMTM4M2JkNjExZDcy",
+  "snapshot_id": "MTY2MjA5MTMyMCwwMDAwMDAwMGI3OGUzZTJkNjMxYWZhMDU3ZjZkZWUzMGZjYWI2NGEy",
   "tracks": [
+    {
+      "added_at": "2022-09-02 04:02:00",
+      "album": {
+        "name": "That's How Love Is Made",
+        "url": "https://open.spotify.com/album/7jEsDY3DfzPI2MRJaOyZdP"
+      },
+      "artists": [
+        {
+          "name": "The War and Treaty",
+          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
+        }
+      ],
+      "duration_ms": 226986,
+      "name": "That's How Love Is Made",
+      "url": "https://open.spotify.com/track/1BIX2BQa6BroVxG6O97UWk"
+    },
+    {
+      "added_at": "2022-09-02 04:02:00",
+      "album": {
+        "name": "You Ruined That Song For Me",
+        "url": "https://open.spotify.com/album/3aRX20jl9YSVFMGUY5ZUoV"
+      },
+      "artists": [
+        {
+          "name": "Meghan Linsey",
+          "url": "https://open.spotify.com/artist/5CoW8VGpf9la64TUDhnkVn"
+        }
+      ],
+      "duration_ms": 199904,
+      "name": "You Ruined That Song For Me",
+      "url": "https://open.spotify.com/track/7e8LdgIws3VVqkON2puJwN"
+    },
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
@@ -59,6 +91,22 @@
       "duration_ms": 290973,
       "name": "Stand Up",
       "url": "https://open.spotify.com/track/3VCttwuRuGlFuCY4bgZKDD"
+    },
+    {
+      "added_at": "2022-09-02 04:02:00",
+      "album": {
+        "name": "Cryin In The Rain",
+        "url": "https://open.spotify.com/album/28ex3FmGr9cbxk4TvIA6Dv"
+      },
+      "artists": [
+        {
+          "name": "Alex Lambert",
+          "url": "https://open.spotify.com/artist/6iQBhWmcQcl9s4w1hL5lnN"
+        }
+      ],
+      "duration_ms": 210882,
+      "name": "Cryin In The Rain",
+      "url": "https://open.spotify.com/track/7mLm2YnptlX4CSqpfp1P34"
     },
     {
       "added_at": "2022-04-22 04:01:00",
@@ -671,22 +719,6 @@
     {
       "added_at": "2020-11-05 20:25:04",
       "album": {
-        "name": "Continuum",
-        "url": "https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 163026,
-      "name": "I'm Gonna Find Another You",
-      "url": "https://open.spotify.com/track/0bYDebBlQxsDR4hCgbbpOW"
-    },
-    {
-      "added_at": "2020-11-05 20:25:04",
-      "album": {
         "name": "1 Hopeful Rd.",
         "url": "https://open.spotify.com/album/7hEZhkFjaW8bH1cI1D6Dsd"
       },
@@ -943,22 +975,6 @@
       "duration_ms": 295746,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/6VLqNoGxbJZd3mKa4cCSXS"
-    },
-    {
-      "added_at": "2020-11-05 20:25:04",
-      "album": {
-        "name": "Flux",
-        "url": "https://open.spotify.com/album/0aCwNu0L6QMcSexzdUjcGD"
-      },
-      "artists": [
-        {
-          "name": "Rich Robinson",
-          "url": "https://open.spotify.com/artist/7lEokLkF9CWjEBogNWcV69"
-        }
-      ],
-      "duration_ms": 298400,
-      "name": "Time To Leave",
-      "url": "https://open.spotify.com/track/5TUCm5o4qf5y47EnyHStZy"
     },
     {
       "added_at": "2020-11-05 20:25:04",
@@ -1447,22 +1463,6 @@
       "duration_ms": 236013,
       "name": "Last Goodbye",
       "url": "https://open.spotify.com/track/0VnXemLs18D2jcH7wXaySJ"
-    },
-    {
-      "added_at": "2020-11-05 20:25:04",
-      "album": {
-        "name": "Healing Tide",
-        "url": "https://open.spotify.com/album/06UpUVi6uLrcg2kjlQoE5Q"
-      },
-      "artists": [
-        {
-          "name": "The War and Treaty",
-          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
-        }
-      ],
-      "duration_ms": 313240,
-      "name": "Hearts",
-      "url": "https://open.spotify.com/track/2rPiEp1fCw6lTF9NWsO8XH"
     },
     {
       "added_at": "2020-11-05 20:25:04",

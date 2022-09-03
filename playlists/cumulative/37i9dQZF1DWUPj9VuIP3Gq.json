@@ -8,6 +8,28 @@
   "tracks": [
     {
       "album": {
+        "name": "506",
+        "url": "https://open.spotify.com/album/38coX6excq4obQR4Z7sww7"
+      },
+      "artists": [
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        },
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180546,
+      "name": "506",
+      "url": "https://open.spotify.com/track/4scwMEdlKi8qWJzzyDB8Z3"
+    },
+    {
+      "album": {
         "name": "Diverso",
         "url": "https://open.spotify.com/album/1scH1s70wqo4uVm8pvZOXK"
       },
@@ -102,6 +124,24 @@
     },
     {
       "album": {
+        "name": "Amiga M\u00eda",
+        "url": "https://open.spotify.com/album/5BpGM2EOixRKmXjk9pGjIn"
+      },
+      "artists": [
+        {
+          "name": "Juan Pablo Vega",
+          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212877,
+      "name": "Amiga M\u00eda",
+      "url": "https://open.spotify.com/track/2nDsjbGVU7aUGNuoAXCIlc"
+    },
+    {
+      "album": {
         "name": "Oro Salsero",
         "url": "https://open.spotify.com/album/0FQmLebvYxK7seqvm32JKA"
       },
@@ -117,6 +157,24 @@
       "duration_ms": 301573,
       "name": "Amores Como el Nuestro",
       "url": "https://open.spotify.com/track/1RpCXjlxFGS6LfPOvqSJ7M"
+    },
+    {
+      "album": {
+        "name": "Antes de Perderte",
+        "url": "https://open.spotify.com/album/1l6jE76o3QeZOXPt6G5Je7"
+      },
+      "artists": [
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176727,
+      "name": "Antes de Perderte",
+      "url": "https://open.spotify.com/track/4RtPruLRZbyirtJGqYHPQm"
     },
     {
       "album": {
@@ -193,7 +251,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 259333,
       "name": "Brisa",
       "url": "https://open.spotify.com/track/5xhFO6kaUjGcSezSp5hIhG"
@@ -339,6 +397,24 @@
       "duration_ms": 218160,
       "name": "Como un burro amarrado en la puerta del baile - 2008 Remastered Version",
       "url": "https://open.spotify.com/track/6IMIx38wIqHoLTdGcBwyEC"
+    },
+    {
+      "album": {
+        "name": "Deja Vu",
+        "url": "https://open.spotify.com/album/3Y3l3HDUtqZogSr1JM4CKr"
+      },
+      "artists": [
+        {
+          "name": "Christian Meier",
+          "url": "https://open.spotify.com/artist/3OgfCHk8YwaZ7NjQHbL4f3"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224464,
+      "name": "Deja Vu",
+      "url": "https://open.spotify.com/track/2zanWa9j1c8ah8SdT4ONOK"
     },
     {
       "album": {
@@ -627,10 +703,32 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 166333,
       "name": "Llamada Perdida",
       "url": "https://open.spotify.com/track/1f6PB9enEpg3o07aHu0Cl4"
+    },
+    {
+      "album": {
+        "name": "Llorar y Llorar (con Carin Leon)",
+        "url": "https://open.spotify.com/album/3FytBDr6KeYhwstN8yanrn"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        },
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169705,
+      "name": "Llorar y Llorar - con Carin Leon",
+      "url": "https://open.spotify.com/track/4YF13O2n16dcTyGgVmiGvN"
     },
     {
       "album": {
@@ -805,7 +903,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 193698,
       "name": "Monta\u00f1a Solitaria",
       "url": "https://open.spotify.com/track/26HNGjzbmS7hPSvFxDONXK"
@@ -874,6 +972,28 @@
     },
     {
       "album": {
+        "name": "Ojos Marrones (Con Sebasti\u00e1n Yatra)",
+        "url": "https://open.spotify.com/album/6KY4FnsrJZWQNjMw0zgDgd"
+      },
+      "artists": [
+        {
+          "name": "Lasso",
+          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
+        },
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198880,
+      "name": "Ojos Marrones - Con Sebasti\u00e1n Yatra",
+      "url": "https://open.spotify.com/track/2GQclWZHwE4fMdqShvOPWU"
+    },
+    {
+      "album": {
         "name": "Cumbiana II",
         "url": "https://open.spotify.com/album/4fscMZmg0NKVmgDDDE6mA6"
       },
@@ -911,7 +1031,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 162594,
       "name": "Paralizante",
       "url": "https://open.spotify.com/track/621WP2Q0x77iGqByyCo8Z7"
@@ -1060,6 +1180,24 @@
     },
     {
       "album": {
+        "name": "Rompecabezas",
+        "url": "https://open.spotify.com/album/5p788bFZwrslgTpb6AUT4M"
+      },
+      "artists": [
+        {
+          "name": "Gusi",
+          "url": "https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182603,
+      "name": "Rompecabezas",
+      "url": "https://open.spotify.com/track/1wtEo5LAk0Hm405a26DaND"
+    },
+    {
+      "album": {
         "name": "Trozos De Mi Alma",
         "url": "https://open.spotify.com/album/750XK6PDJK3u7ZvIFIajqb"
       },
@@ -1075,6 +1213,28 @@
       "duration_ms": 287906,
       "name": "Si No Te Hubieras Ido",
       "url": "https://open.spotify.com/track/6kG8VuzqKZA8D1bMVYDp98"
+    },
+    {
+      "album": {
+        "name": "Sin Fin",
+        "url": "https://open.spotify.com/album/6bcsXfLlMTAWGWdWofzM2l"
+      },
+      "artists": [
+        {
+          "name": "Romeo Santos",
+          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+        },
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234666,
+      "name": "Sin Fin",
+      "url": "https://open.spotify.com/track/3qaHzxjNtFU7QiEuhGx70x"
     },
     {
       "album": {
@@ -1169,7 +1329,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 199229,
       "name": "Te Robar\u00e9",
       "url": "https://open.spotify.com/track/2Gs4ZRbciB3VRvzAjKPZ6M"
@@ -1209,7 +1369,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 180648,
       "name": "Tengamos Pasado",
       "url": "https://open.spotify.com/track/4fBDh59Cybyp5UNqoNGRfP"
@@ -1227,7 +1387,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 190580,
       "name": "Toda la Vida",
       "url": "https://open.spotify.com/track/2KSUy9yJZbXXfvIIIqQ6we"
@@ -1263,7 +1423,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 152383,
       "name": "Vali\u00f3 La Pena",
       "url": "https://open.spotify.com/track/0ET8DXzYpcYHAXuY6NNfqi"

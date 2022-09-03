@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbT5gAyEVKuo.md) - [plain]
 
 > The power of praise lives on LIVE! Get up on your feet and let the spirit move in your heart to these amazing performances.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,263 likes - 49 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,273 likes - 49 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbT5gAyEVKuo.md) - [plain]
 | 9 | [For Your Glory \- Live](https://open.spotify.com/track/0ruqgF5YjYjQPr0uwQsvYQ) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Grace \(Live/Deluxe\)](https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5) | 6:46 |
 | 10 | [I'll Just Say Yes \- Live](https://open.spotify.com/track/74pDUf3R1hfRTED2ZzZHUZ) | [Brian Courtney Wilson](https://open.spotify.com/artist/5K2BdUwQNqXy70BX2L8BQx) | [Worth Fighting For \(Deluxe Edition/Live\)](https://open.spotify.com/album/2k0sC10qtMISosAn9xgvNe) | 6:59 |
 | 11 | [We Fall Down \- Live](https://open.spotify.com/track/1HXzXYbhLDdpFkJyBxEjIF) | [Donnie McClurkin](https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra) | [Live in London and More ..](https://open.spotify.com/album/6A55aHMWgoZgzjLfsTJU6v) | 4:53 |
-| 12 | [Closer/Wrap Me In Your Arms](https://open.spotify.com/track/4ULyiYqodr8cjH1Y9HqudW) | [William McDowell](https://open.spotify.com/artist/6PTGRlwNbg36Mu4boWlixN) | [As We Worship Live](https://open.spotify.com/album/3Ainh78D6AeVHW9TvIbYvT) | 9:08 |
-| 13 | [Wide as the Sky \- Live](https://open.spotify.com/track/2efVdOaY8t4wqaIfMH2jik) | [Isabel Davis](https://open.spotify.com/artist/0zLMumXvsZqoNGYU5KWHX0) | [Wide as the Sky](https://open.spotify.com/album/5Tu8nE6k0ZDiwTanXGFCoO) | 7:58 |
+| 12 | [Wide as the Sky \- Live](https://open.spotify.com/track/2efVdOaY8t4wqaIfMH2jik) | [Isabel Davis](https://open.spotify.com/artist/0zLMumXvsZqoNGYU5KWHX0) | [Wide as the Sky](https://open.spotify.com/album/5Tu8nE6k0ZDiwTanXGFCoO) | 7:58 |
+| 13 | [Closer/Wrap Me In Your Arms](https://open.spotify.com/track/4ULyiYqodr8cjH1Y9HqudW) | [William McDowell](https://open.spotify.com/artist/6PTGRlwNbg36Mu4boWlixN) | [As We Worship Live](https://open.spotify.com/album/3Ainh78D6AeVHW9TvIbYvT) | 9:08 |
 | 14 | [This Is A Move \- Live](https://open.spotify.com/track/776imhCfnvp9NoIYJ8uj0G) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [This Is A Move \(Live\)](https://open.spotify.com/album/5SH3LZPcZVx5fr6uQ7R2pF) | 7:25 |
 | 15 | [Brighter Day](https://open.spotify.com/track/1QXhzptk3KMnO8xewGePhu) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Setlist: The Very Best Of Kirk Franklin Live](https://open.spotify.com/album/3pxNJpoQFVi4CBxEQdxTTU) | 5:40 |
 | 16 | [That's What I Believe](https://open.spotify.com/track/6sX8nB5PoeXEXjQGKvHR1N) | [Donnie McClurkin](https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra) | [Live in London and More ..](https://open.spotify.com/album/6A55aHMWgoZgzjLfsTJU6v) | 5:20 |
@@ -51,11 +51,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbT5gAyEVKuo.md) - [plain]
 | 41 | [As We Worship](https://open.spotify.com/track/3cSM9pXri2UMikc9zAFUAQ) | [William McDowell](https://open.spotify.com/artist/6PTGRlwNbg36Mu4boWlixN) | [As We Worship Live](https://open.spotify.com/album/3Ainh78D6AeVHW9TvIbYvT) | 4:52 |
 | 42 | [Open My Heart \- Live](https://open.spotify.com/track/2oujPaH4PjjRFSFUpnjg90) | [Yolanda Adams](https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11) | [The Experience](https://open.spotify.com/album/2rJx0qDPmdODn2YJvGZgSz) | 7:45 |
 | 43 | [I Will Bless the Lord \- Live](https://open.spotify.com/track/2wRfftZSv3H1s1qE6o4l9Y) | [Byron Cage](https://open.spotify.com/artist/1bxsoj9E6Z2GoHVIswbRez) | [Playlist: The Very Best Of Byron Cage](https://open.spotify.com/album/4XwIxTUXc3fY5XcOVTPrwa) | 5:17 |
-| 44 | [The Lord's Prayer \- Live](https://open.spotify.com/track/07Mjg6guQW9bJNspyyncGb) | [Richard Smallwood](https://open.spotify.com/artist/4WIRlLxuzmZciQ8JS2b3jP) | [20th Century Masters \- The Millennium Collection: The Best Of Richard Smallwood](https://open.spotify.com/album/1vqjoOP0rOi0zHrbvBp8nU) | 4:27 |
+| 44 | [He Always Wins \(feat\. Erica Campbell & 1K Phew\) \- Live](https://open.spotify.com/track/6qU9oq8DIy11V5ILcAkii2) | [Anthony Brown & group therAPy](https://open.spotify.com/artist/4sgW8IRub0jAU29ecct87w), [Erica Campbell](https://open.spotify.com/artist/46CCmeVLrgc6MnyVpVMOzp), [1K Phew](https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl) | [He Always Wins \(feat\. Erica Campbell & 1K Phew\) \[Live\]](https://open.spotify.com/album/3FrRXhBBSF97k0leyU4fGO) | 7:02 |
 | 45 | [Intentional \- Live](https://open.spotify.com/track/3Tgll8Cq5gfGUv03oTyQQD) | [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe) | [Setlist Vol\. 1 \(Live\)](https://open.spotify.com/album/0fRY9s3aFVDG3n9g4atgII) | 5:38 |
-| 46 | [He Always Wins \(feat\. Erica Campbell & 1K Phew\) \- Live](https://open.spotify.com/track/6qU9oq8DIy11V5ILcAkii2) | [Anthony Brown & group therAPy](https://open.spotify.com/artist/4sgW8IRub0jAU29ecct87w), [Erica Campbell](https://open.spotify.com/artist/46CCmeVLrgc6MnyVpVMOzp), [1K Phew](https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl) | [He Always Wins \(feat\. Erica Campbell & 1K Phew\) \[Live\]](https://open.spotify.com/album/3FrRXhBBSF97k0leyU4fGO) | 7:02 |
+| 46 | [The Lord's Prayer \- Live](https://open.spotify.com/track/07Mjg6guQW9bJNspyyncGb) | [Richard Smallwood](https://open.spotify.com/artist/4WIRlLxuzmZciQ8JS2b3jP) | [20th Century Masters \- The Millennium Collection: The Best Of Richard Smallwood](https://open.spotify.com/album/1vqjoOP0rOi0zHrbvBp8nU) | 4:27 |
 | 47 | [He'll Take The Pain Away](https://open.spotify.com/track/5pAx3uIKg4Mf6KUEOevB45) | [Gods Property](https://open.spotify.com/artist/3xtft29VZ2knyu7dEC9N7X) | [Kirk Franklin Presents Songs For The Storm, Volume 1](https://open.spotify.com/album/4HyeSvKpXXTgQjXa1RVIIz) | 8:38 |
 | 48 | [Celebrate \- Live](https://open.spotify.com/track/1VB3lMBTurh6z4DcKvINYL) | [Smokie Norful](https://open.spotify.com/artist/0sD8Amms4kSxs5tBV4CUmR) | [Gospel's Best Live](https://open.spotify.com/album/5NvLAYXvwMmEfYC5K2CsUd) | 4:03 |
-| 49 | [It's Not Over](https://open.spotify.com/track/4HY5Tyq3E7c7LlfSPUItRf) | [Karen Clark Sheard](https://open.spotify.com/artist/76dDIM8amCY58U3uvr1Rw1) | [The Best Of Gospel Superfest \(Live\)](https://open.spotify.com/album/7zXF8rjj6tDybn7aavDm6N) | 6:19 |
+| 49 | [Already Won \- Live](https://open.spotify.com/track/0cZAIIbDleBvlEXfpYJfVU) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Already Won \(Live\)](https://open.spotify.com/album/4epcjphraBNrnFAIGPl0GB) | 3:31 |
 
-Snapshot ID: `MTYyMzQ3MDc1NCwwMDAwMDAwMGE0YTM0NDliNzBiNDgwNjBkMTlhNzRiOTM4NmZkYzA5`
+Snapshot ID: `MTYyMzQ3MDc1NCwwMDAwMDAwMDAzNWQ0NzNlMjU3ZWJhMTAwN2I4ZDhlYjExOWRmNmVk`

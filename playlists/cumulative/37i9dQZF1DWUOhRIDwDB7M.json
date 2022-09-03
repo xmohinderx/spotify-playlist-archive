@@ -181,7 +181,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 228774,
       "name": "Altitude",
       "url": "https://open.spotify.com/track/4uVBqXnMHCwZ7GDyfhor86"
@@ -297,7 +297,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 161684,
       "name": "Astral Projection",
       "url": "https://open.spotify.com/track/6E5PG5bexno2S1McK27EVg"
@@ -531,7 +531,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 204923,
       "name": "Bright Morning",
       "url": "https://open.spotify.com/track/7tXgHTkGacOBktzEMsqvbv"
@@ -2104,6 +2104,24 @@
     },
     {
       "album": {
+        "name": "Hope For Tomorrow",
+        "url": "https://open.spotify.com/album/5LnDRliCzdyPUIcasFKzVR"
+      },
+      "artists": [
+        {
+          "name": "Luca Sana",
+          "url": "https://open.spotify.com/artist/4s8JJteAbznSpmyrVCkSGA"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156949,
+      "name": "Hope For Tomorrow",
+      "url": "https://open.spotify.com/track/3KDUPdVPn8GTeqWo90MEIs"
+    },
+    {
+      "album": {
         "name": "How She Said Goodbye",
         "url": "https://open.spotify.com/album/0G1dXPE8X1bLcP84OSZ9KQ"
       },
@@ -2277,7 +2295,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 172391,
       "name": "Inhale",
       "url": "https://open.spotify.com/track/01daTlkKA1V2ordhUQ7zAd"
@@ -2727,7 +2745,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 154545,
       "name": "Mountains",
       "url": "https://open.spotify.com/track/354rwG2WjcE4G6Gf43U1hy"
@@ -3375,7 +3393,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 196920,
       "name": "Say Nothing",
       "url": "https://open.spotify.com/track/1SBYIW8EddjCpTl4ARKO0B"
@@ -4149,7 +4167,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 189406,
       "name": "Wait Until Spring",
       "url": "https://open.spotify.com/track/4FQ1Wm24y1jm4iKbrfRQfW"

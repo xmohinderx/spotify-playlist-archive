@@ -1,12 +1,12 @@
 {
   "description": "slowed, reverbed, chopped and screwed.",
-  "num_followers": 470571,
+  "num_followers": 471325,
   "original_name": "slowed and reverbed",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTU0MTE2MywwMDAwMDAwMDA3YzMyZTQ0NmZmMGQyZjYxNTRjNTU3MjE5YzliMTJj",
+  "snapshot_id": "MTY2MTU0MTE2MywwMDAwMDAwMDNhYWQzMDFiNzI5MGM0ZTcyZmQyMGIzYTA5M2FlZjBl",
   "tracks": [
     {
       "added_at": "2022-08-26 06:26:00",
@@ -387,22 +387,6 @@
     {
       "added_at": "2022-08-26 06:26:00",
       "album": {
-        "name": "Vision (Slowed)",
-        "url": "https://open.spotify.com/album/7JVv3XN7S5KtI8MqSrVLjr"
-      },
-      "artists": [
-        {
-          "name": "Hucci",
-          "url": "https://open.spotify.com/artist/1wJNeTGqvB8WVYak3HC3pk"
-        }
-      ],
-      "duration_ms": 299572,
-      "name": "Vision - Slowed",
-      "url": "https://open.spotify.com/track/7vU308OLwga3urbN8aUPp6"
-    },
-    {
-      "added_at": "2022-08-26 06:26:00",
-      "album": {
         "name": "Righteous (SLOW & REVERB)",
         "url": "https://open.spotify.com/album/1AORwJs3ykui6D9A2yNlCf"
       },
@@ -419,6 +403,22 @@
     {
       "added_at": "2022-08-26 06:26:00",
       "album": {
+        "name": "Vision (Slowed)",
+        "url": "https://open.spotify.com/album/7JVv3XN7S5KtI8MqSrVLjr"
+      },
+      "artists": [
+        {
+          "name": "Hucci",
+          "url": "https://open.spotify.com/artist/1wJNeTGqvB8WVYak3HC3pk"
+        }
+      ],
+      "duration_ms": 299572,
+      "name": "Vision - Slowed",
+      "url": "https://open.spotify.com/track/7vU308OLwga3urbN8aUPp6"
+    },
+    {
+      "added_at": "2022-08-26 06:26:00",
+      "album": {
         "name": "SNAP PACK",
         "url": "https://open.spotify.com/album/2nzuzJvr3yowqbPaYjEYof"
       },
@@ -431,6 +431,22 @@
       "duration_ms": 203491,
       "name": "SNAP - Low and Slow",
       "url": "https://open.spotify.com/track/1XV9T4WLr3N4xacgl58hvT"
+    },
+    {
+      "added_at": "2022-08-26 06:26:00",
+      "album": {
+        "name": "Go (Remixes)",
+        "url": "https://open.spotify.com/album/1kGbwOHke3PrRnZAmlkoOu"
+      },
+      "artists": [
+        {
+          "name": "Cat Burns",
+          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "go - Lower & Slower",
+      "url": "https://open.spotify.com/track/4W1dEYQlTmRXabO9xhLGZi"
     },
     {
       "added_at": "2022-08-26 06:26:00",
@@ -455,50 +471,6 @@
       "duration_ms": 200453,
       "name": "After Party - CHOPNOTSLOP REMIX",
       "url": "https://open.spotify.com/track/5LNi0DUiEQ4Sp6JA5XUSIA"
-    },
-    {
-      "added_at": "2022-08-26 06:26:00",
-      "album": {
-        "name": "Bananza (Belly Dancer) [Remixes]",
-        "url": "https://open.spotify.com/album/4oMLAtWY28kQydDGxnrZxj"
-      },
-      "artists": [
-        {
-          "name": "Akon",
-          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
-        },
-        {
-          "name": "xxtristanxo",
-          "url": "https://open.spotify.com/artist/4kBCXTJBl1aY9pDHONsjfr"
-        },
-        {
-          "name": "Slowed Radio",
-          "url": "https://open.spotify.com/artist/7zmcKgBZSbMxqzqFe6Ac5k"
-        }
-      ],
-      "duration_ms": 153264,
-      "name": "Bananza (Belly Dancer) - Slowed",
-      "url": "https://open.spotify.com/track/5lEx9Oo3tMyP85ppH43Uar"
-    },
-    {
-      "added_at": "2022-08-26 06:26:00",
-      "album": {
-        "name": "Happier (Slowed + Reverb)",
-        "url": "https://open.spotify.com/album/05rI3acDbxhs9Hls0o78tZ"
-      },
-      "artists": [
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 240531,
-      "name": "Happier - Slowed + Reverb",
-      "url": "https://open.spotify.com/track/072Hl1zCG3UMxc7JBeQk7r"
     },
     {
       "added_at": "2022-08-26 06:26:00",
@@ -531,18 +503,26 @@
     {
       "added_at": "2022-08-26 06:26:00",
       "album": {
-        "name": "Go (Remixes)",
-        "url": "https://open.spotify.com/album/1kGbwOHke3PrRnZAmlkoOu"
+        "name": "Bananza (Belly Dancer) [Remixes]",
+        "url": "https://open.spotify.com/album/4oMLAtWY28kQydDGxnrZxj"
       },
       "artists": [
         {
-          "name": "Cat Burns",
-          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        },
+        {
+          "name": "xxtristanxo",
+          "url": "https://open.spotify.com/artist/4kBCXTJBl1aY9pDHONsjfr"
+        },
+        {
+          "name": "Slowed Radio",
+          "url": "https://open.spotify.com/artist/7zmcKgBZSbMxqzqFe6Ac5k"
         }
       ],
-      "duration_ms": 224000,
-      "name": "go - Lower & Slower",
-      "url": "https://open.spotify.com/track/4W1dEYQlTmRXabO9xhLGZi"
+      "duration_ms": 153264,
+      "name": "Bananza (Belly Dancer) - Slowed",
+      "url": "https://open.spotify.com/track/5lEx9Oo3tMyP85ppH43Uar"
     },
     {
       "added_at": "2022-08-26 06:26:00",
@@ -559,6 +539,26 @@
       "duration_ms": 191000,
       "name": "Dream Girl - Slowed + Reverb",
       "url": "https://open.spotify.com/track/3YLKkHR4fISvRe1N34l6EJ"
+    },
+    {
+      "added_at": "2022-08-26 06:26:00",
+      "album": {
+        "name": "Happier (Slowed + Reverb)",
+        "url": "https://open.spotify.com/album/05rI3acDbxhs9Hls0o78tZ"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 240531,
+      "name": "Happier - Slowed + Reverb",
+      "url": "https://open.spotify.com/track/072Hl1zCG3UMxc7JBeQk7r"
     },
     {
       "added_at": "2022-08-26 06:26:00",
@@ -727,30 +727,6 @@
     {
       "added_at": "2022-08-26 06:26:00",
       "album": {
-        "name": "WHEN EARTH FALLS",
-        "url": "https://open.spotify.com/album/0318U1QvSv1qAr9mfpY0LB"
-      },
-      "artists": [
-        {
-          "name": "YOUNG $ELLOUT",
-          "url": "https://open.spotify.com/artist/2P64m7x4cOMI1uLnZnRj8a"
-        },
-        {
-          "name": "Corbin",
-          "url": "https://open.spotify.com/artist/3K40SMapVhc8PxyYFofHff"
-        },
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        }
-      ],
-      "duration_ms": 196568,
-      "name": "NOT FAIR (slowed)",
-      "url": "https://open.spotify.com/track/3X9DJqqtiG2Uh48TDhtMgn"
-    },
-    {
-      "added_at": "2022-08-26 06:26:00",
-      "album": {
         "name": "Love Me Back (Fayahh Beat) [Slowed + Reverb]",
         "url": "https://open.spotify.com/album/3vAp0G0DDiQtbQ6p2jOQB3"
       },
@@ -775,6 +751,30 @@
       "duration_ms": 182166,
       "name": "Love Me Back (Fayahh Beat) - Slowed + Reverb",
       "url": "https://open.spotify.com/track/7jlPfhpd0tVCeaqBtmwFOA"
+    },
+    {
+      "added_at": "2022-08-26 06:26:00",
+      "album": {
+        "name": "WHEN EARTH FALLS",
+        "url": "https://open.spotify.com/album/0318U1QvSv1qAr9mfpY0LB"
+      },
+      "artists": [
+        {
+          "name": "YOUNG $ELLOUT",
+          "url": "https://open.spotify.com/artist/2P64m7x4cOMI1uLnZnRj8a"
+        },
+        {
+          "name": "Corbin",
+          "url": "https://open.spotify.com/artist/3K40SMapVhc8PxyYFofHff"
+        },
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "duration_ms": 196568,
+      "name": "NOT FAIR (slowed)",
+      "url": "https://open.spotify.com/track/3X9DJqqtiG2Uh48TDhtMgn"
     },
     {
       "added_at": "2022-08-26 06:26:00",
@@ -891,26 +891,18 @@
     {
       "added_at": "2022-08-26 06:26:00",
       "album": {
-        "name": "Us and Them",
-        "url": "https://open.spotify.com/album/4Hrrad0vv9BbvFjBPYb2xJ"
+        "name": "This December (slow)",
+        "url": "https://open.spotify.com/album/2xC918XnDFsH6h6qc6R7li"
       },
       "artists": [
         {
-          "name": "Brothel",
-          "url": "https://open.spotify.com/artist/3xYvvJ6tjXyJJdEXBs8qf0"
-        },
-        {
-          "name": "barnacle boi",
-          "url": "https://open.spotify.com/artist/6psDObCnL4BfpwqYzE0Dzu"
-        },
-        {
-          "name": "Derek Pope",
-          "url": "https://open.spotify.com/artist/5wWvcn0hJXPhCw9eYUody0"
+          "name": "Ricky Montgomery",
+          "url": "https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw"
         }
       ],
-      "duration_ms": 166956,
-      "name": "Us and Them",
-      "url": "https://open.spotify.com/track/4vqFDdkdribP2ykIOgnAjx"
+      "duration_ms": 213783,
+      "name": "This December - slow",
+      "url": "https://open.spotify.com/track/5x4R7DNsMj5ZFSJR63GVjV"
     },
     {
       "added_at": "2022-08-26 06:26:00",
@@ -935,18 +927,26 @@
     {
       "added_at": "2022-08-26 06:26:00",
       "album": {
-        "name": "This December (slow)",
-        "url": "https://open.spotify.com/album/2xC918XnDFsH6h6qc6R7li"
+        "name": "Us and Them",
+        "url": "https://open.spotify.com/album/4Hrrad0vv9BbvFjBPYb2xJ"
       },
       "artists": [
         {
-          "name": "Ricky Montgomery",
-          "url": "https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw"
+          "name": "Brothel",
+          "url": "https://open.spotify.com/artist/3xYvvJ6tjXyJJdEXBs8qf0"
+        },
+        {
+          "name": "barnacle boi",
+          "url": "https://open.spotify.com/artist/6psDObCnL4BfpwqYzE0Dzu"
+        },
+        {
+          "name": "Derek Pope",
+          "url": "https://open.spotify.com/artist/5wWvcn0hJXPhCw9eYUody0"
         }
       ],
-      "duration_ms": 213783,
-      "name": "This December - slow",
-      "url": "https://open.spotify.com/track/5x4R7DNsMj5ZFSJR63GVjV"
+      "duration_ms": 166956,
+      "name": "Us and Them",
+      "url": "https://open.spotify.com/track/4vqFDdkdribP2ykIOgnAjx"
     },
     {
       "added_at": "2022-08-26 06:26:00",

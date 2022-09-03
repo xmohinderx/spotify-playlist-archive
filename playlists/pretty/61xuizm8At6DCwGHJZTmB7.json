@@ -1,29 +1,13 @@
 {
   "description": "Listen to the top Christian and worship hits of 2022 featuring Hillsong Worship, Maverick City, Kari Jobe, Chris Tomlin and more.  Cover: Brooke Ligertwood",
-  "num_followers": 113054,
+  "num_followers": 113053,
   "original_name": "Worship 2022",
   "owner": {
     "name": "SOZO Playlists ",
     "url": "https://open.spotify.com/user/sozoofficial"
   },
-  "snapshot_id": "NjYyOCw1MmY5ZTRjMTVlNTVjNmZlNjAwM2Y3ZmMzMGU5MjJkZTRiYjViNDNl",
+  "snapshot_id": "NjYzNywxYmI4Yjc4MmFhN2JjMTQ0Mjc5OGFmNjczZjhlMDIzZmFhNjMxYjA5",
   "tracks": [
-    {
-      "added_at": "2022-08-22 21:02:28",
-      "album": {
-        "name": "SEVEN (Live)",
-        "url": "https://open.spotify.com/album/6ZVXKVGiyL96L6pflgfWrt"
-      },
-      "artists": [
-        {
-          "name": "Brooke Ligertwood",
-          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
-        }
-      ],
-      "duration_ms": 309329,
-      "name": "A Thousand Hallelujahs - Live",
-      "url": "https://open.spotify.com/track/3iJpkw9KKdzMNZQVrdRzsl"
-    },
     {
       "added_at": "2022-08-22 21:02:28",
       "album": {
@@ -43,8 +27,28 @@
     {
       "added_at": "2022-08-22 21:02:28",
       "album": {
-        "name": "Good (Can't Be Anything Else) [Live]",
-        "url": "https://open.spotify.com/album/4r1aFYazY78g3DGyQuiFh3"
+        "name": "SEVEN (Live)",
+        "url": "https://open.spotify.com/album/6ZVXKVGiyL96L6pflgfWrt"
+      },
+      "artists": [
+        {
+          "name": "Brooke Ligertwood",
+          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
+        },
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        }
+      ],
+      "duration_ms": 283964,
+      "name": "Honey In The Rock - Live",
+      "url": "https://open.spotify.com/track/06EzKxIt7WUokYpkitiIK2"
+    },
+    {
+      "added_at": "2022-09-02 04:12:11",
+      "album": {
+        "name": "Ain't Nobody",
+        "url": "https://open.spotify.com/album/7fhnMJOjUfoIpU10Vrknv2"
       },
       "artists": [
         {
@@ -52,9 +56,9 @@
           "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
         }
       ],
-      "duration_ms": 592000,
-      "name": "Good (Can't Be Anything Else) - Live",
-      "url": "https://open.spotify.com/track/77kvkHuxOiV491BKllJ6gn"
+      "duration_ms": 213967,
+      "name": "Ain't Nobody - Radio Version",
+      "url": "https://open.spotify.com/track/2iNzuYDmmD8dgEMLEaEpTx"
     },
     {
       "added_at": "2022-08-22 21:02:28",
@@ -75,6 +79,26 @@
       "duration_ms": 248733,
       "name": "Nobody Leaves The Same",
       "url": "https://open.spotify.com/track/5AkG5qu7FyslQ3svT9RdrF"
+    },
+    {
+      "added_at": "2022-09-02 04:24:15",
+      "album": {
+        "name": "Yahweh (Live)",
+        "url": "https://open.spotify.com/album/4MvAYYyQuarG23wdEeBkYF"
+      },
+      "artists": [
+        {
+          "name": "Lakewood Music",
+          "url": "https://open.spotify.com/artist/6SppFn5ihgxDw7tdfthnaK"
+        },
+        {
+          "name": "Travis Greene",
+          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
+        }
+      ],
+      "duration_ms": 569813,
+      "name": "Yahweh - Live",
+      "url": "https://open.spotify.com/track/7H15D8qlDcLdPG4FSFlK46"
     },
     {
       "added_at": "2022-08-22 21:02:28",
@@ -151,26 +175,6 @@
     {
       "added_at": "2022-08-22 21:02:28",
       "album": {
-        "name": "SEVEN (Live)",
-        "url": "https://open.spotify.com/album/6ZVXKVGiyL96L6pflgfWrt"
-      },
-      "artists": [
-        {
-          "name": "Brooke Ligertwood",
-          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
-        },
-        {
-          "name": "Brandon Lake",
-          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
-        }
-      ],
-      "duration_ms": 283964,
-      "name": "Honey In The Rock - Live",
-      "url": "https://open.spotify.com/track/06EzKxIt7WUokYpkitiIK2"
-    },
-    {
-      "added_at": "2022-08-22 21:02:28",
-      "album": {
         "name": "Firm Foundation (He Won't)",
         "url": "https://open.spotify.com/album/7a7spHufCfzU5ZO6O0nJJT"
       },
@@ -183,6 +187,38 @@
       "duration_ms": 382174,
       "name": "Firm Foundation (He Won\u2019t)",
       "url": "https://open.spotify.com/track/4iaas0o0bFzalTLwhQTuBH"
+    },
+    {
+      "added_at": "2022-08-22 21:02:28",
+      "album": {
+        "name": "SEVEN (Live)",
+        "url": "https://open.spotify.com/album/6ZVXKVGiyL96L6pflgfWrt"
+      },
+      "artists": [
+        {
+          "name": "Brooke Ligertwood",
+          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
+        }
+      ],
+      "duration_ms": 309329,
+      "name": "A Thousand Hallelujahs - Live",
+      "url": "https://open.spotify.com/track/3iJpkw9KKdzMNZQVrdRzsl"
+    },
+    {
+      "added_at": "2022-08-22 21:02:28",
+      "album": {
+        "name": "Good (Can't Be Anything Else) [Live]",
+        "url": "https://open.spotify.com/album/4r1aFYazY78g3DGyQuiFh3"
+      },
+      "artists": [
+        {
+          "name": "Cody Carnes",
+          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
+        }
+      ],
+      "duration_ms": 592000,
+      "name": "Good (Can't Be Anything Else) - Live",
+      "url": "https://open.spotify.com/track/77kvkHuxOiV491BKllJ6gn"
     },
     {
       "added_at": "2022-08-22 21:02:28",
@@ -203,6 +239,26 @@
       "duration_ms": 238200,
       "name": "What A Beautiful Name",
       "url": "https://open.spotify.com/track/4KLj9QjEhJl2WU50mxRF9Z"
+    },
+    {
+      "added_at": "2022-08-22 21:02:28",
+      "album": {
+        "name": "O Lord, You're Beautiful",
+        "url": "https://open.spotify.com/album/6gIib347YLlHGDMqpOHBL8"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        },
+        {
+          "name": "Steffany Gretzinger",
+          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
+        }
+      ],
+      "duration_ms": 235599,
+      "name": "O Lord, You\u2019re Beautiful (with Steffany Gretzinger)",
+      "url": "https://open.spotify.com/track/37Ms9rdo26omDpCINsHhui"
     },
     {
       "added_at": "2022-08-22 21:02:28",
@@ -299,26 +355,6 @@
     {
       "added_at": "2022-08-22 21:02:28",
       "album": {
-        "name": "O Lord, You're Beautiful",
-        "url": "https://open.spotify.com/album/6gIib347YLlHGDMqpOHBL8"
-      },
-      "artists": [
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        },
-        {
-          "name": "Steffany Gretzinger",
-          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
-        }
-      ],
-      "duration_ms": 235599,
-      "name": "O Lord, You\u2019re Beautiful (with Steffany Gretzinger)",
-      "url": "https://open.spotify.com/track/37Ms9rdo26omDpCINsHhui"
-    },
-    {
-      "added_at": "2022-08-22 21:02:28",
-      "album": {
         "name": "Holy Water",
         "url": "https://open.spotify.com/album/0lGxlaY1aWzp6RWFDwNHAf"
       },
@@ -363,6 +399,22 @@
       "duration_ms": 354040,
       "name": "Alpha Omega - Live",
       "url": "https://open.spotify.com/track/0f8tSFxXxTtDead0x8Lhhr"
+    },
+    {
+      "added_at": "2022-09-02 04:19:32",
+      "album": {
+        "name": "The Lord Almighty Reigns",
+        "url": "https://open.spotify.com/album/5ScPt3LXhLuUFqYFXKtqas"
+      },
+      "artists": [
+        {
+          "name": "Keith & Kristyn Getty",
+          "url": "https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "The Lord Almighty Reigns",
+      "url": "https://open.spotify.com/track/283smqTiVNtIDD1v0jXOFS"
     },
     {
       "added_at": "2022-08-22 21:02:28",

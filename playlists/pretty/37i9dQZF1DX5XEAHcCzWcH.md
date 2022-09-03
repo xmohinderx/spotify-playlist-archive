@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5XEAHcCzWcH.md) - [plain]
 
 > The unmistakable sound of Blues piano: the best pianists to have pioneered the sound and shape the genre\. Cover: Ray Charles
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,575 likes - 64 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,586 likes - 64 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,9 +30,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5XEAHcCzWcH.md) - [plain]
 | 20 | [Milk And Water](https://open.spotify.com/track/4Bo2E1DybKQL2radivMQFA) | [Amos Milburn](https://open.spotify.com/artist/3uZRvkqeNHKLMFQrJBaUCX) | [Down The Road Apiece \-The Best Of Amos Milburn](https://open.spotify.com/album/04bo29HzmFDq9Un9O93nEp) | 3:10 |
 | 21 | [Lovesick Soul](https://open.spotify.com/track/0E3Ck752Kw29gVpyAVDLDo) | [Eddie Boyd](https://open.spotify.com/artist/6tlPbmYME3fjRkSBb3pjoB) | [The Sonet Blues Story](https://open.spotify.com/album/4PTxdqiU8HhL5GW5Zf0pZ0) | 3:56 |
 | 22 | [None of My Jelly Roll](https://open.spotify.com/track/2fFhD3A1gSpm0liAvtvSdk) | [Sweet Emma Barrett](https://open.spotify.com/artist/0YLo7NrjjafYk8rbapwCZk) | [Her New Orleans Music](https://open.spotify.com/album/6KrB8Sf5g2WpCcWUOE9CpE) | 3:45 |
-| 23 | [Ain't Times Hard](https://open.spotify.com/track/7L5U6eRJEFQbjqUUTwDVPu) | [Nick Moss & The Flip Tops](https://open.spotify.com/artist/41z6z2F1HddUUSPOtOhhuk), [Barrelhouse Chuck](https://open.spotify.com/artist/5xdyzBf4bTgRC13sG3dShO), [Kate Moss](https://open.spotify.com/artist/3IP1UVkxCwvyb5wdQVn269) | [Count Your Blessings](https://open.spotify.com/album/0wXMoxr5erc9iBIkzuwzYl) | 4:01 |
+| 23 | [Key to the Highway](https://open.spotify.com/track/0KmVzmqMXi24EusC3MwlBB) | [Johnnie Johnson](https://open.spotify.com/artist/3y87PGuBh97sRWZKz3JmiY) | [Johnnie B\. Bad](https://open.spotify.com/album/6kCsbrIJOMSRdZI0T3wsRD) | 3:22 |
 | 24 | [Ooh La La](https://open.spotify.com/track/48z80QkPMtPvnwlISGnsQO) | [Champion Jack Dupree](https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7) | [La cave saravah, vol.1](https://open.spotify.com/album/1UQEub9EkeutcHqiBLPXSa) | 6:09 |
-| 25 | [Key to the Highway](https://open.spotify.com/track/0KmVzmqMXi24EusC3MwlBB) | [Johnnie Johnson](https://open.spotify.com/artist/3y87PGuBh97sRWZKz3JmiY) | [Johnnie B\. Bad](https://open.spotify.com/album/6kCsbrIJOMSRdZI0T3wsRD) | 3:22 |
+| 25 | [Ain't Times Hard](https://open.spotify.com/track/7L5U6eRJEFQbjqUUTwDVPu) | [Nick Moss & The Flip Tops](https://open.spotify.com/artist/41z6z2F1HddUUSPOtOhhuk), [Barrelhouse Chuck](https://open.spotify.com/artist/5xdyzBf4bTgRC13sG3dShO), [Kate Moss](https://open.spotify.com/artist/3IP1UVkxCwvyb5wdQVn269) | [Count Your Blessings](https://open.spotify.com/album/0wXMoxr5erc9iBIkzuwzYl) | 4:01 |
 | 26 | [Ain't Nobody's Business](https://open.spotify.com/track/5AguTIx7t7HqEJHjlizHHs) | [Otis Spann](https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X) | [The Biggest Thing Since Colossus](https://open.spotify.com/album/0JTpT75jTlXCJqAoCw1H4b) | 5:15 |
 | 27 | [Take It Easy](https://open.spotify.com/track/7LmI63pR8aUSjKNySdbffC) | [Pinetop Perkins](https://open.spotify.com/artist/6h3s7UekUkRHes73EG5N55) | [Down In Mississippi](https://open.spotify.com/album/0QWm32Qy7kRhGzhms5EtKH) | 3:43 |
 | 28 | [Roll 'Em Pete](https://open.spotify.com/track/4gqwSjQJBaqB1LYNyAfQsj) | [Big Joe Turner](https://open.spotify.com/artist/1DTgcOxytJHD8p17mhSgd7) | [Jumpin' With Joe](https://open.spotify.com/album/20iEYnDg4FqOWLfomgxWhM) | 2:55 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5XEAHcCzWcH.md) - [plain]
 | 36 | [It Hurts Me Too](https://open.spotify.com/track/59OhaqAccfavOAymsUSk4W) | [Bruce Katz](https://open.spotify.com/artist/3Nzai6Pe5noXPC8JsYtO57) | [Solo Ride](https://open.spotify.com/album/7jeC6jeaPD5DlVjYkekS29) | 3:45 |
 | 37 | [Anytime, Anyplace, Anywhere](https://open.spotify.com/track/1MqeY8vtJ435Oaj2suvtbW) | [Hadda Brooks](https://open.spotify.com/artist/1NJubf2lWeNdXONuic4fir) | [I've Got News For You](https://open.spotify.com/album/4LrFiga7TeKlnDhCngvSUl) | 3:09 |
 | 38 | [Long Way Home](https://open.spotify.com/track/2psY6edqjF6QMnC8v1Aitj) | [Kelley Hunt](https://open.spotify.com/artist/0L7Y276gBjB2pxuyhpgzgv) | [New Shade of Blue](https://open.spotify.com/album/7LCPGWetHUe8llQPpRacoh) | 4:22 |
-| 39 | [Empty Arms](https://open.spotify.com/track/4vuAINkUeHcx9JApp7fZKx) | [Eddie Boyd](https://open.spotify.com/artist/6tlPbmYME3fjRkSBb3pjoB) | [The Blue Horizon Story \(1965\-1970\)](https://open.spotify.com/album/6LAgwOR5Rh9VmCIosaSxkM) | 2:50 |
-| 40 | [New York City Blues](https://open.spotify.com/track/5dI7AFyk5idEj94ra4F5Y8) | [Dr\. John](https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO) | [Afterglow](https://open.spotify.com/album/6AWwvurjj21QEBbOucDWUQ) | 4:00 |
+| 39 | [New York City Blues](https://open.spotify.com/track/5dI7AFyk5idEj94ra4F5Y8) | [Dr\. John](https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO) | [Afterglow](https://open.spotify.com/album/6AWwvurjj21QEBbOucDWUQ) | 4:00 |
+| 40 | [Empty Arms](https://open.spotify.com/track/4vuAINkUeHcx9JApp7fZKx) | [Eddie Boyd](https://open.spotify.com/artist/6tlPbmYME3fjRkSBb3pjoB) | [The Blue Horizon Story \(1965\-1970\)](https://open.spotify.com/album/6LAgwOR5Rh9VmCIosaSxkM) | 2:50 |
 | 41 | [Fluff Boogie](https://open.spotify.com/track/53JbbJdZKRifKvPhVAOVG9) | [Camille Howard](https://open.spotify.com/artist/0QFOmSTku0zPMVoawXFCXX) | [X\-Temporaneous Boogie](https://open.spotify.com/album/7gKcCISq4MdFPIcslAvznp) | 2:19 |
 | 42 | [Pink Champagne](https://open.spotify.com/track/4NIC2PekIelrjo4DBbGhXG) | [Joe Liggins & The Honeydrippers](https://open.spotify.com/artist/61zdmia3oH5vUieNIqI7iI) | [Joe Liggins & The Honeydrippers](https://open.spotify.com/album/4xhs6dSoAHMYqJuq3zNygO) | 3:00 |
 | 43 | [Tipitina](https://open.spotify.com/track/7acA74x4jbKVKBljh5Qt3L) | [Professor Longhair](https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD) | [Fess at Home](https://open.spotify.com/album/1r6jk6qVIYqPlTzvOXMPUE) | 3:51 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5XEAHcCzWcH.md) - [plain]
 | 53 | [Hey Now Baby](https://open.spotify.com/track/3BDE7sDGBihu8EAIE21rto) | [Professor Longhair](https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD) | [The Bach of Rock](https://open.spotify.com/album/3XQzUwB49DzREHCMuFZz8s) | 5:44 |
 | 54 | [If I Hadn't Been High](https://open.spotify.com/track/4AngKkvtjelyQfgBiO9hUt) | [Detroit Junior](https://open.spotify.com/artist/3ggFb0YCOrTs2juujB4In3) | [Living Chicago Blues, Vol\. 4](https://open.spotify.com/album/2u30yjGXHGTO5UTWlyG47J) | 4:06 |
 | 55 | [Whistling Alex Moore's Blues](https://open.spotify.com/track/3HMJk1q9EfFSvvDPxqhAte) | [Alex Moore](https://open.spotify.com/artist/7xy38VWf17uAjb1ZOSJGq1) | [From North Dallas to the East Side](https://open.spotify.com/album/0y2COhaSasf9M8hQ0JwKb9) | 3:07 |
-| 56 | [Boot That Thing](https://open.spotify.com/track/5rwqwMmEWAqwRTDyUKba0u) | [Ken Saydak](https://open.spotify.com/artist/3CbqTmz4MT9cGAUZsGeFbJ) | [Tribute: Delmark's 65th Anniversary](https://open.spotify.com/album/7mtoUrLaCBwUODx3QwqlUi) | 4:00 |
-| 57 | [West Side Woman](https://open.spotify.com/track/1GW9zg3nvC65TTkOcDhZYm) | [Lovie Lee](https://open.spotify.com/artist/6cOz9TMiL8lfsFoWkxvqKM) | [Good Candy](https://open.spotify.com/album/2QYfgujx2IpnAuTm0zgHea) | 6:32 |
+| 56 | [West Side Woman](https://open.spotify.com/track/1GW9zg3nvC65TTkOcDhZYm) | [Lovie Lee](https://open.spotify.com/artist/6cOz9TMiL8lfsFoWkxvqKM) | [Good Candy](https://open.spotify.com/album/2QYfgujx2IpnAuTm0zgHea) | 6:32 |
+| 57 | [Boot That Thing](https://open.spotify.com/track/5rwqwMmEWAqwRTDyUKba0u) | [Ken Saydak](https://open.spotify.com/artist/3CbqTmz4MT9cGAUZsGeFbJ) | [Tribute: Delmark's 65th Anniversary](https://open.spotify.com/album/7mtoUrLaCBwUODx3QwqlUi) | 4:00 |
 | 58 | [Dices Blues](https://open.spotify.com/track/1SpInnSzoo1rAKv0BNQyrC) | [Big Chief Ellis](https://open.spotify.com/artist/1wVEYaqTmGsl3i7np7xQjW) | [Classic Piano Blues from Smithsonian Folkways](https://open.spotify.com/album/2v3tVwUhutMHIHeUd8lFaL) | 4:58 |
 | 59 | [Some Nerve](https://open.spotify.com/track/5YzJIzdXHA9c4ShXeMG62i) | [Detroit Junior](https://open.spotify.com/artist/3ggFb0YCOrTs2juujB4In3) | [The Blues Singer](https://open.spotify.com/album/1Hp4jDVJ563PF0IzvNCwzK) | 3:05 |
 | 60 | [Early In The Morning](https://open.spotify.com/track/0YbX9uVeQs6i4BuGL8ovUg) | [Booker T\. Laury](https://open.spotify.com/artist/6Tsq5rIvRhxQwRsvsRDsWH) | [SUN STUDIO STORY](https://open.spotify.com/album/5epU2OecYpVApVosZYDW9m) | 4:32 |
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5XEAHcCzWcH.md) - [plain]
 | 63 | [Me and My Gin](https://open.spotify.com/track/5L4sfgGbYh7CgXVBTmUcfz) | [Jimmie Gordon](https://open.spotify.com/artist/6XrOb8biVVH7gH09AIjB7l) | [This Is the Blues! Vol\. 7 \(Mono Version\)](https://open.spotify.com/album/4U9fxJlHlKvp5GwKmenuQ3) | 3:12 |
 | 64 | [I'll Be Right Some Day](https://open.spotify.com/track/3OpoVrckZ1J2IhAri7bWKl) | [Willie Dixon](https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY) | [Nail Jumping](https://open.spotify.com/album/2DegOuID6Bx94UtWX4xYf4) | 2:26 |
 
-Snapshot ID: `MTY1MjQzODk0OCwwMDAwMDAwMDZmMDE5ZTkyYmFkMmExMTBiMDI0MzUyZjY3MTI0ZWEx`
+Snapshot ID: `MTY1MjQzODk0OCwwMDAwMDAwMDU0ZWVjOGEwMzJhYjdmZDJiMzM1MDQ1ZTA1M2VmNWNi`

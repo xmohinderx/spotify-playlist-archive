@@ -1,12 +1,12 @@
 {
   "description": "Hip Hop and Rap songs guaranteed to get you hyped. Cover: DJ Khaled",
-  "num_followers": 412,
+  "num_followers": 427,
   "original_name": "Hype List",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjA3MzIwMCwwMDAwMDAwMDg0ODVjMGJmMTkyNTRhNTQxM2Y2MDZiZjliMTE2OTM3",
+  "snapshot_id": "MTY2MjA3MzIwMCwwMDAwMDAwMGEyNjczOGUwYzA2ZDViNjNjY2M5YTdlMzVlZjE0ZjY2",
   "tracks": [
     {
       "added_at": "2022-08-18 23:00:00",
@@ -439,22 +439,26 @@
     {
       "added_at": "2022-07-27 12:30:07",
       "album": {
-        "name": "Are You Entertained (feat. Ed Sheeran)",
-        "url": "https://open.spotify.com/album/1ZxzpJ4MVEbxilQfEnY0n9"
+        "name": "Hot Shit (feat. Ye & Lil Durk)",
+        "url": "https://open.spotify.com/album/2qTIltFPwJzsyssGeOwdRO"
       },
       "artists": [
         {
-          "name": "Russ",
-          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
         },
         {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
         }
       ],
-      "duration_ms": 156083,
-      "name": "Are You Entertained (feat. Ed Sheeran)",
-      "url": "https://open.spotify.com/track/5bLGQqcpsz5ISWeihZfJnR"
+      "duration_ms": 211649,
+      "name": "Hot Shit (feat. Ye & Lil Durk)",
+      "url": "https://open.spotify.com/track/3uJFmluXzYedoJcvhpC1AW"
     },
     {
       "added_at": "2022-07-27 12:30:07",
@@ -479,26 +483,22 @@
     {
       "added_at": "2022-07-27 12:30:07",
       "album": {
-        "name": "Hot Shit (feat. Ye & Lil Durk)",
-        "url": "https://open.spotify.com/album/2qTIltFPwJzsyssGeOwdRO"
+        "name": "Are You Entertained (feat. Ed Sheeran)",
+        "url": "https://open.spotify.com/album/1ZxzpJ4MVEbxilQfEnY0n9"
       },
       "artists": [
         {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+          "name": "Russ",
+          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
         },
         {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
         }
       ],
-      "duration_ms": 211649,
-      "name": "Hot Shit (feat. Ye & Lil Durk)",
-      "url": "https://open.spotify.com/track/3uJFmluXzYedoJcvhpC1AW"
+      "duration_ms": 156083,
+      "name": "Are You Entertained (feat. Ed Sheeran)",
+      "url": "https://open.spotify.com/track/5bLGQqcpsz5ISWeihZfJnR"
     },
     {
       "added_at": "2022-07-27 12:30:07",
@@ -685,6 +685,30 @@
       "url": "https://open.spotify.com/track/3lzUeaCbcCDB5IXYfqWRlF"
     },
     {
+      "added_at": "2022-08-26 09:32:14",
+      "album": {
+        "name": "GOD DID",
+        "url": "https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50"
+      },
+      "artists": [
+        {
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 223232,
+      "name": "BEAUTIFUL (feat. Future & SZA)",
+      "url": "https://open.spotify.com/track/5kYSScXYOZYyi0fxramiW6"
+    },
+    {
       "added_at": "2022-07-27 12:30:07",
       "album": {
         "name": "Big Energy",
@@ -739,26 +763,6 @@
     {
       "added_at": "2022-07-27 12:30:07",
       "album": {
-        "name": "Night Away (Dance) (feat. Tion Wayne)",
-        "url": "https://open.spotify.com/album/6WQPgcOtZCoXGBZQOxDJQ0"
-      },
-      "artists": [
-        {
-          "name": "A1 x J1",
-          "url": "https://open.spotify.com/artist/1WO1hFAkFbeo9tV3uVX7Dy"
-        },
-        {
-          "name": "Tion Wayne",
-          "url": "https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt"
-        }
-      ],
-      "duration_ms": 175774,
-      "name": "Night Away (Dance) (feat. Tion Wayne)",
-      "url": "https://open.spotify.com/track/7z5G2LOdV8okZn4yWg3q5g"
-    },
-    {
-      "added_at": "2022-07-27 12:30:07",
-      "album": {
         "name": "F.N.F. (Let's Go)",
         "url": "https://open.spotify.com/album/1FkcZKerCfWg4nUItVHf9B"
       },
@@ -779,6 +783,26 @@
     {
       "added_at": "2022-07-27 12:30:07",
       "album": {
+        "name": "Night Away (Dance) (feat. Tion Wayne)",
+        "url": "https://open.spotify.com/album/6WQPgcOtZCoXGBZQOxDJQ0"
+      },
+      "artists": [
+        {
+          "name": "A1 x J1",
+          "url": "https://open.spotify.com/artist/1WO1hFAkFbeo9tV3uVX7Dy"
+        },
+        {
+          "name": "Tion Wayne",
+          "url": "https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt"
+        }
+      ],
+      "duration_ms": 175774,
+      "name": "Night Away (Dance) (feat. Tion Wayne)",
+      "url": "https://open.spotify.com/track/7z5G2LOdV8okZn4yWg3q5g"
+    },
+    {
+      "added_at": "2022-07-27 12:30:07",
+      "album": {
         "name": "Honest",
         "url": "https://open.spotify.com/album/2luYA3MBCKI7SfK3K0U3xf"
       },
@@ -795,30 +819,6 @@
       "duration_ms": 193322,
       "name": "Honest (feat. Don Toliver)",
       "url": "https://open.spotify.com/track/2KdKh9vHbKW0tZLqtpxxI0"
-    },
-    {
-      "added_at": "2022-08-26 09:32:14",
-      "album": {
-        "name": "GOD DID",
-        "url": "https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50"
-      },
-      "artists": [
-        {
-          "name": "DJ Khaled",
-          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        },
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 223232,
-      "name": "BEAUTIFUL (feat. Future & SZA)",
-      "url": "https://open.spotify.com/track/5kYSScXYOZYyi0fxramiW6"
     },
     {
       "added_at": "2022-07-27 12:30:07",
@@ -929,6 +929,26 @@
       "url": "https://open.spotify.com/track/7My9ca9QEIR8MvIOdIrTWA"
     },
     {
+      "added_at": "2022-08-12 05:17:10",
+      "album": {
+        "name": "Traumazine",
+        "url": "https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 201979,
+      "name": "Budget (feat. Latto)",
+      "url": "https://open.spotify.com/track/3BFxkzhkESwALQxjxOVFgJ"
+    },
+    {
       "added_at": "2022-07-27 12:30:07",
       "album": {
         "name": "I NEVER LIKED YOU",
@@ -943,22 +963,6 @@
       "duration_ms": 172933,
       "name": "PUFFIN ON ZOOTIEZ",
       "url": "https://open.spotify.com/track/5qgFgsrrxOjyPmX5YCuK2E"
-    },
-    {
-      "added_at": "2022-07-27 12:30:07",
-      "album": {
-        "name": "Plan B",
-        "url": "https://open.spotify.com/album/7f9fxAFDIRaflD7W0k7Dhx"
-      },
-      "artists": [
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        }
-      ],
-      "duration_ms": 163764,
-      "name": "Plan B",
-      "url": "https://open.spotify.com/track/2PljnVsnl2PRwCvfhbdQup"
     },
     {
       "added_at": "2022-07-27 12:30:07",
@@ -997,6 +1001,30 @@
       "url": "https://open.spotify.com/track/1fz22sUZlpL9jZOWz02wws"
     },
     {
+      "added_at": "2022-08-26 09:32:14",
+      "album": {
+        "name": "GOD DID",
+        "url": "https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50"
+      },
+      "artists": [
+        {
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+        },
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        },
+        {
+          "name": "Takeoff",
+          "url": "https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J"
+        }
+      ],
+      "duration_ms": 211025,
+      "name": "PARTY (feat. Quavo & Takeoff)",
+      "url": "https://open.spotify.com/track/3kT6P4hFj0IVr45TjKOLRp"
+    },
+    {
       "added_at": "2022-07-27 12:30:07",
       "album": {
         "name": "Who is Nardo Wick?",
@@ -1023,6 +1051,38 @@
     {
       "added_at": "2022-07-27 12:30:07",
       "album": {
+        "name": "Plan B",
+        "url": "https://open.spotify.com/album/7f9fxAFDIRaflD7W0k7Dhx"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 163764,
+      "name": "Plan B",
+      "url": "https://open.spotify.com/track/2PljnVsnl2PRwCvfhbdQup"
+    },
+    {
+      "added_at": "2022-08-18 23:00:00",
+      "album": {
+        "name": "54321",
+        "url": "https://open.spotify.com/album/5vW8LuMydrkQQqkQlw5Won"
+      },
+      "artists": [
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "duration_ms": 182325,
+      "name": "54321",
+      "url": "https://open.spotify.com/track/0iPb0dxCtjFcmFa2ElfBJ5"
+    },
+    {
+      "added_at": "2022-07-27 12:30:07",
+      "album": {
         "name": "Je M'appelle (Remix)",
         "url": "https://open.spotify.com/album/7wAprxpngbUpq9Ch0nfY9A"
       },
@@ -1045,20 +1105,24 @@
       "url": "https://open.spotify.com/track/203uVLn0YRikqOgI4axq8n"
     },
     {
-      "added_at": "2022-08-18 23:00:00",
+      "added_at": "2022-08-05 07:53:58",
       "album": {
-        "name": "54321",
-        "url": "https://open.spotify.com/album/5vW8LuMydrkQQqkQlw5Won"
+        "name": "Curtain Call 2",
+        "url": "https://open.spotify.com/album/3aTuW4BtsyyyyQa9LKqj8n"
       },
       "artists": [
         {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
         }
       ],
-      "duration_ms": 182325,
-      "name": "54321",
-      "url": "https://open.spotify.com/track/0iPb0dxCtjFcmFa2ElfBJ5"
+      "duration_ms": 212013,
+      "name": "Is This Love ('09) (feat. 50 Cent)",
+      "url": "https://open.spotify.com/track/7rK0iM6jwuo1oizdx8suQA"
     },
     {
       "added_at": "2022-07-27 12:30:07",
@@ -1087,66 +1151,6 @@
       "duration_ms": 118249,
       "name": "Shake It (feat. Cardi B, Dougie B & Bory300)",
       "url": "https://open.spotify.com/track/0RkCnqwF8Tfl2QGPZwopyk"
-    },
-    {
-      "added_at": "2022-08-05 07:53:58",
-      "album": {
-        "name": "Curtain Call 2",
-        "url": "https://open.spotify.com/album/3aTuW4BtsyyyyQa9LKqj8n"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        },
-        {
-          "name": "50 Cent",
-          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
-        }
-      ],
-      "duration_ms": 212013,
-      "name": "Is This Love ('09) (feat. 50 Cent)",
-      "url": "https://open.spotify.com/track/7rK0iM6jwuo1oizdx8suQA"
-    },
-    {
-      "added_at": "2022-08-26 09:32:14",
-      "album": {
-        "name": "GOD DID",
-        "url": "https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50"
-      },
-      "artists": [
-        {
-          "name": "DJ Khaled",
-          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 47354,
-      "name": "NO SECRET (feat. Drake)",
-      "url": "https://open.spotify.com/track/1Gb6r4iX8w60t6OFTvWI4K"
-    },
-    {
-      "added_at": "2022-08-12 05:17:10",
-      "album": {
-        "name": "Traumazine",
-        "url": "https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim"
-      },
-      "artists": [
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        },
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 201979,
-      "name": "Budget (feat. Latto)",
-      "url": "https://open.spotify.com/track/3BFxkzhkESwALQxjxOVFgJ"
     },
     {
       "added_at": "2022-07-27 12:30:07",

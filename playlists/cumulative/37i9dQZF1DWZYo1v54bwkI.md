@@ -4,10 +4,11 @@
 
 > Respira profundamente y relaja tu mente.
 
-151 songs - 7 hr 45 min - [published](https://open.spotify.com/playlist/0G8qRVn0Vna4fIDYRsglM1)
+155 songs - 7 hr 58 min - [published](https://open.spotify.com/playlist/0G8qRVn0Vna4fIDYRsglM1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [A Day By The Sea](https://open.spotify.com/track/32caN3mL4dftJrVNKYwr1t) | [On Dunes](https://open.spotify.com/artist/6oMeZudDfeCsLbPHmZFt1x) | [A Day By The Sea](https://open.spotify.com/album/7D3GuuvNP5IwTYwZcN1g5j) | 3:41 | 2022-09-02 |  |
 | [A Night In Spring](https://open.spotify.com/track/6j6wtwEtxK5ZAXzRK47WED) | [Ardah](https://open.spotify.com/artist/6mQg8hTrGBvS36Jjl7Ajr2) | [A Night In Spring](https://open.spotify.com/album/7iLqhJMN4MlHHsp0JGbtJ6) | 2:31 | 2022-07-15 |  |
 | [A Thousand Memories](https://open.spotify.com/track/0NicReIOJqnuhT5kPe2Q1u) | [Xiaoming Chu](https://open.spotify.com/artist/3wWsMDO6XVcTyV9IvVhss9) | [A Thousand Memories](https://open.spotify.com/album/07W4VsvYKd4YDl7Zh1pG6B) | 3:06 | 2022-07-15 |  |
 | [A Waiting](https://open.spotify.com/track/6eua7DXiCZaYulrVuPI3i7) | [Even Massi](https://open.spotify.com/artist/2u7J0lL8WdlZBR6SqfyGFb) | [Delusion](https://open.spotify.com/album/2ucuXJp8Ym5wSuV6BJJcDX) | 2:13 | 2022-07-15 |  |
@@ -30,9 +31,11 @@
 | [Cape Cod](https://open.spotify.com/track/2DnjmwnSLvMS78MW0y8czV) | [Moonlight River](https://open.spotify.com/artist/3M2OEjKBqrrvP829uLJVDu) | [Glowing Aura](https://open.spotify.com/album/0hxddVL6RtkujMPjGvegn0) | 3:11 | 2022-07-15 |  |
 | [celestial sojourn](https://open.spotify.com/track/3tI1sd213SOODpv7bYRutx) | [AOI](https://open.spotify.com/artist/3GI4ib0hz1mAxLVdrQldsZ) | [phases of the moon](https://open.spotify.com/album/5zImrTFUWontzflxnybrH8) | 3:20 | 2022-07-15 |  |
 | [Celestial Visions](https://open.spotify.com/track/3A9nqhgcN0F7S1AHfeBLxp) | [Hatha Priya](https://open.spotify.com/artist/3PrmIS6YRTKENfGH4xf8S6) | [Celestial Visions](https://open.spotify.com/album/5CW2QFsfzbf5YVkAjbrM3u) | 2:27 | 2022-07-15 |  |
+| [Cette Montagne](https://open.spotify.com/track/0sMr78LRMvZNviXwmOWGQE) | [Tascenda](https://open.spotify.com/artist/5Xj1fqlAVsgyiKy5K4hy1d) | [Cette Montagne](https://open.spotify.com/album/4NIeCDqaUXOh2WD7jE0qNf) | 3:26 | 2022-09-02 |  |
 | [Choices](https://open.spotify.com/track/4rnHitehqGrHlgr8TiTMYX) | [Alva Adler](https://open.spotify.com/artist/6SWtPjGME9m6Slzy5KmEWl) | [Choices](https://open.spotify.com/album/1ypEOpmaYFV46bpgf4HiuR) | 2:41 | 2022-07-15 |  |
 | [Comfort Zone](https://open.spotify.com/track/3QjA9DSJn9hEIkfiRYMBZB) | [Sounds And Beyond](https://open.spotify.com/artist/751p5MqwmdTxiqWVg0J46Y) | [Comfort Zone](https://open.spotify.com/album/1svkSAU7m4SXST5rh8a7xw) | 2:34 | 2022-07-15 |  |
 | [Con Ojos Cerrados](https://open.spotify.com/track/0ZM4ZmYetI5obeA6bSyx8C) | [Esmeraldas](https://open.spotify.com/artist/1mIhqTBJzWF8W2iWSuuO8f) | [Con Ojos Cerrados](https://open.spotify.com/album/3w3zoZE8H5efdPfUv3vt4b) | 3:00 | 2022-07-15 |  |
+| [Consapevolezza](https://open.spotify.com/track/63kxLIjDG9maJO1T1oxVoP) | [Dormiente](https://open.spotify.com/artist/5CsUyEbyQ9JoZLTaP9HJhu) | [Consapevolezza](https://open.spotify.com/album/5miTWb698z08O6V5pxTc8X) | 2:34 | 2022-09-02 |  |
 | [Consciousness](https://open.spotify.com/track/5k7FW9EOM1Xaxr1qdRCQzj) | [Binary One](https://open.spotify.com/artist/71mFIlyvSib2V4MnPKERi2) | [Origin of I](https://open.spotify.com/album/34WplMhHu29z1djNneameH) | 3:32 | 2022-07-15 |  |
 | [Constellation](https://open.spotify.com/track/4nxiVXO8GJcHZMIb0UJMxv) | [Nagawa Meditation](https://open.spotify.com/artist/5YkvkEVx0z1r9HQ3mMTCQQ) | [Chapter One](https://open.spotify.com/album/165sSNwDCf4EhbZ9fuSxWJ) | 3:42 | 2022-07-15 |  |
 | [Cross A Line](https://open.spotify.com/track/1IkrL2wE6aWYzOmWjZmNO9) | [Sean Altar](https://open.spotify.com/artist/3Jo70Smt1IRBEAGBeXnczk) | [Cross A Line](https://open.spotify.com/album/32PoI04cGJfCgmH003knVN) | 2:18 | 2022-07-15 |  |
@@ -85,6 +88,7 @@
 | [Lakem](https://open.spotify.com/track/5gb5P8hzzC4l2PBMJl0FZF) | [Peaceful Peach](https://open.spotify.com/artist/7swB8qhjWa5PsRA90gjuWd) | [Lakem](https://open.spotify.com/album/2jFecqMEoEYYWCGXbsv4fF) | 3:36 | 2022-07-15 |  |
 | [Lasai](https://open.spotify.com/track/1vXPvFeZGpojHygGjSjQfH) | [Darcie Roman](https://open.spotify.com/artist/3bhvCKBgGPO4OURkbYkt3b) | [Lasai](https://open.spotify.com/album/7kYXPNnP4j96kO0FzCfYjb) | 3:41 | 2022-07-15 |  |
 | [Leuchten](https://open.spotify.com/track/4KNuwSHlzgZIRuT9Ur1JCZ) | [Mystisse](https://open.spotify.com/artist/6IpbJpzWfnVDsdJG9fJHWp) | [Leuchten](https://open.spotify.com/album/6fLtePVdyqmM4WrnC85p9j) | 2:42 | 2022-07-15 |  |
+| [Light](https://open.spotify.com/track/0peYIO0XdyvdK2znrrH3ys) | [Mina Rojas](https://open.spotify.com/artist/492hHpujOt6WZGWFSy2712) | [Light](https://open.spotify.com/album/2MCEhwQ8lurgvTkZ7WMrjI) | 2:49 | 2022-09-02 |  |
 | [Lux Mane](https://open.spotify.com/track/4k6GvMEtWF31ShIk24rLp3) | [Somnum Magnam](https://open.spotify.com/artist/5onmIZ1MD3z0KeVQ1gd5IP) | [Mane Fluctus](https://open.spotify.com/album/3J8JWYo4kC156FlaI3uc15) | 2:38 | 2022-07-15 |  |
 | [Macromedas](https://open.spotify.com/track/4r2XXfxvEHvQoSz1FVsrVu) | [Zoniacs](https://open.spotify.com/artist/6IiJPhO9buoldoCLSG4foO) | [Macromedas](https://open.spotify.com/album/2clBnik7oSq4iYjWCITgYl) | 2:33 | 2022-07-15 |  |
 | [Mantra](https://open.spotify.com/track/0mhg4wkvEjgVUu3P0vBlyA) | [Sunwell](https://open.spotify.com/artist/1FZkHf5jmlpSdySTd8BUu2) | [Mantra](https://open.spotify.com/album/3yj63MjABGbwMgVP8Az0oK) | 3:45 | 2022-07-15 |  |

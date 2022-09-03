@@ -2,9 +2,9 @@
 
 ### [Montréal Chill](https://open.spotify.com/playlist/37i9dQZF1DX1F430ihQKsD)
 
-> La crème de la crème of Montréal's music scene\. Photo: Pomme
+> La crème de la crème of Montréal's music scene\. Photo: Gab Bouchard
 
-190 songs - 11 hr 9 min - [published](https://open.spotify.com/playlist/4x7dCsK0Zzpdb88Niig3QN)
+193 songs - 11 hr 20 min - [published](https://open.spotify.com/playlist/4x7dCsK0Zzpdb88Niig3QN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Bigger Love](https://open.spotify.com/track/6BR7PRyiBy54vpa0pTksnw) | [Milk & Bone](https://open.spotify.com/artist/4fmvA5uVlZUNsje29D1PaW) | [Bigger Love](https://open.spotify.com/album/5OfM4QCrtxxcMkAp8aFEtK) | 3:49 | 2022-04-29 | 2022-08-23 |
 | [Bigger Love \- Spotify Singles](https://open.spotify.com/track/2t02C7mGZnwv5rnMBEYts9) | [Milk & Bone](https://open.spotify.com/artist/4fmvA5uVlZUNsje29D1PaW) | [Spotify Singles](https://open.spotify.com/album/3Xj4TtMdMydSBQTjCWobxp) | 3:48 | 2022-08-22 |  |
 | [Bittersweet](https://open.spotify.com/track/4r3dW2GaTXSMBOMxtnC2X0) | [Laroie](https://open.spotify.com/artist/3vm1wp0nCMQSIaPVT6f0IY), [SHAH FRANK](https://open.spotify.com/artist/4NetfCwJqpbsV7dSihbDD5) | [Bittersweet](https://open.spotify.com/album/1l7f3275NojBZM1FpxlDAT) | 3:26 | 2022-05-06 |  |
-| [Blind Eyes](https://open.spotify.com/track/3X5eIiJr9eciTzWfFcgO7r) | [Sara\-Danielle](https://open.spotify.com/artist/3asDPAs8xchUTMEEkpkkPO) | [Another Self](https://open.spotify.com/album/4sLpFVoB0AxlKo5W1O60l0) | 3:49 | 2022-04-15 |  |
+| [Blind Eyes](https://open.spotify.com/track/3X5eIiJr9eciTzWfFcgO7r) | [Sara\-Danielle](https://open.spotify.com/artist/3asDPAs8xchUTMEEkpkkPO) | [Another Self](https://open.spotify.com/album/4sLpFVoB0AxlKo5W1O60l0) | 3:49 | 2022-04-15 | 2022-09-03 |
 | [Blue World](https://open.spotify.com/track/2EQqbpuyUD4jwQHwoE6eQq) | [Jesse Mac Cormack](https://open.spotify.com/artist/2H8M8TXbgq7ZF676K4Zm2C) | [Blue World](https://open.spotify.com/album/4px3NENks6BfQoYDXBI4lM) | 4:41 | 2022-03-25 | 2022-04-23 |
 | [Boca Chica \- Bon Voyage Version](https://open.spotify.com/track/3VMYiD1rXYi6UScWqCBWND) | [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO) | [Bon Voyage](https://open.spotify.com/album/24pk86x4quyve0rILcnBPt) | 3:18 | 2022-05-06 |  |
 | [Bolero](https://open.spotify.com/track/6NqbGiEOws4tpCx3uUhxNb) | [Les Louanges](https://open.spotify.com/artist/57GQLJX1O8guO5PVj46e6l) | [Crash](https://open.spotify.com/album/2YifMIwGXJIIWV5rib1mb2) | 2:49 | 2022-06-10 |  |
@@ -37,6 +37,7 @@
 | [Car Crash](https://open.spotify.com/track/5nCiY7iatnqjRG3EpsNEPc) | [distraction4ever](https://open.spotify.com/artist/7thbB90E6B9E50WqGJlcSh) | [Car Crash](https://open.spotify.com/album/5FoPytrHR7RO00bCHEDJEa) | 1:56 | 2022-03-25 | 2022-08-27 |
 | [Carré Saint\-Louis](https://open.spotify.com/track/1YkNLHS0VUiLL9nKOID14Q) | [Kirouac](https://open.spotify.com/artist/6w8havv68HkDeiH6Tei3bt), [Kodakludo](https://open.spotify.com/artist/52ScNDotCN180BnXLSFiiQ) | [Les Gradins](https://open.spotify.com/album/4gRjWLWLsBAaIwx2XpfCQL) | 2:33 | 2022-03-25 | 2022-07-16 |
 | [Ce n'est pas de la chance](https://open.spotify.com/track/4GvY9PDlREAnpeTmGJAESR) | [Ariane Roy](https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM) | [medium plaisir](https://open.spotify.com/album/1Uq4V1N2AL1eI3M4cqq9sr) | 4:52 | 2022-03-25 | 2022-06-11 |
+| [Celle\-là](https://open.spotify.com/track/1zm0GXo74RpE4oZfvq2gEV) | [Grand Eugène](https://open.spotify.com/artist/15HoDsauDCgOxvCFijHxdT) | [Celle\-là](https://open.spotify.com/album/416sctnWh0f51OgNPvAhnP) | 3:18 | 2022-09-02 |  |
 | [Choker](https://open.spotify.com/track/2n9JkcdNp7pFviL0qdmmuH) | [Thomas Gauthier](https://open.spotify.com/artist/1o1lGge9gBLbaWPQ6QncqQ) | [Choker](https://open.spotify.com/album/795cwI0M8cjrFb86T2dcqf) | 3:13 | 2022-05-27 |  |
 | [CLOSER TO MY DREAMS](https://open.spotify.com/track/5Do0RgImAao120hKTxnhW8) | [KALLITECHNIS](https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl), [JAYLIEN](https://open.spotify.com/artist/6t3YMGSTDtFDBUFfUHsJS0) | [IT'S NOT PERSONAL](https://open.spotify.com/album/6l4GU3zH6IulyXT2zPfLB5) | 3:29 | 2022-03-25 |  |
 | [CNQDL](https://open.spotify.com/track/1pATaHaOYhL8Z7HNr2LH99) | [Clay and Friends](https://open.spotify.com/artist/0lF1vCOKBjs21HtxkGmWIm), [Louis\-Jean Cormier](https://open.spotify.com/artist/6ZsvBr9pLJY16NqVRKO88G) | [CNQDL](https://open.spotify.com/album/7Cd3ZKbhCXofx7GwjvHWei) | 3:40 | 2022-05-06 |  |
@@ -69,6 +70,7 @@
 | [Facile](https://open.spotify.com/track/0U2nIrAiDBB2GIavdQ3p6J) | [Les Louanges](https://open.spotify.com/artist/57GQLJX1O8guO5PVj46e6l) | [Crash](https://open.spotify.com/album/2YifMIwGXJIIWV5rib1mb2) | 3:13 | 2022-04-15 | 2022-06-11 |
 | [Femme\-Lady](https://open.spotify.com/track/2oEL7zcZ6W2auzcj0BGwsp) | [Bibi Club](https://open.spotify.com/artist/3TcKgwcrTy4oLOQoEq3tGD) | [Femme\-Lady](https://open.spotify.com/album/4CHbXHghoxgeaav8crDiEc) | 3:33 | 2022-04-22 | 2022-08-27 |
 | [Feu intérieur](https://open.spotify.com/track/1r3C1vCD4e0S4SA29V4auY) | [Hey Major](https://open.spotify.com/artist/1J7P80ENkmZgSWEm7diAhV) | [Feu intérieur](https://open.spotify.com/album/5yHCrq24mQpZEfaYFcRfIU) | 3:33 | 2022-05-27 |  |
+| [figure me out](https://open.spotify.com/track/0aW9tzWTluJpRqMrBzsrpB) | [Brvno](https://open.spotify.com/artist/5jEbZchGgpNRgeBQEgVMyN) | [figure me out](https://open.spotify.com/album/3qjOkOZ9FeKIHxsp8aCmFO) | 3:18 | 2022-09-02 |  |
 | [Fille à porter](https://open.spotify.com/track/6qpxifNt7ZpB8fmW2p6Vhx) | [Ariane Roy](https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM), [Lou\-Adriane Cassidy](https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt) | [medium plaisir](https://open.spotify.com/album/1Uq4V1N2AL1eI3M4cqq9sr) | 3:15 | 2022-03-25 |  |
 | [Fièvre](https://open.spotify.com/track/0i52Kimd9JK0cYbbqBYR6R) | [Hansom Ēli](https://open.spotify.com/artist/6NwI5CAoRbYCTWCiCiQ7Dh) | [Fièvre](https://open.spotify.com/album/4O1FVF6WNDLB2FLLxMBCBd) | 4:09 | 2022-03-25 |  |
 | [Flash](https://open.spotify.com/track/6QidTb1L7KCdbLmu7j0WIB) | [Xela Edna](https://open.spotify.com/artist/5uurP255LK3PxVKgkZWMdS), [Eius Echo](https://open.spotify.com/artist/5HKktNgsAXBcjWG4frwBmE) | [Flash](https://open.spotify.com/album/5vp5ih0pzIsUrNLcD8Hcyx) | 3:21 | 2022-07-08 |  |
@@ -179,13 +181,14 @@
 | [Sur la pointe des pieds](https://open.spotify.com/track/1jK4orgoFQGbmYAYp7OMbq) | [Allô Fantôme](https://open.spotify.com/artist/48P9cQW6qwEGKMfeM60h2i) | [Sur la pointe des pieds](https://open.spotify.com/album/3I79ViJzvgFejiCj2UJVye) | 6:36 | 2022-04-29 | 2022-07-29 |
 | [Sur la pointe des pieds](https://open.spotify.com/track/5kOivCUmRhPe9aSQCN7zy7) | [Allô Fantôme](https://open.spotify.com/artist/48P9cQW6qwEGKMfeM60h2i) | [Allô Fantôme](https://open.spotify.com/album/4EAVVokg9wiZN1vineldV8) | 6:36 | 2022-07-22 |  |
 | [T'es beau](https://open.spotify.com/track/4Zs2rCa1oXnMjzUlVQQxnT) | [Of Course](https://open.spotify.com/artist/70ZDhrqoXsWhA23HgtYp9w) | [Montréal bagarre 2](https://open.spotify.com/album/651734qFKfoKaPjnYT0mEk) | 3:05 | 2022-05-20 | 2022-06-11 |
+| [ta peau](https://open.spotify.com/track/4Tu5nR9YC9TnSp2YVnPmxP) | [Sara\-Danielle](https://open.spotify.com/artist/3asDPAs8xchUTMEEkpkkPO), [Jam Khalil](https://open.spotify.com/artist/0pQTmAZD71vfB70Jn3Yzh8) | [ta peau](https://open.spotify.com/album/0CDkekykSRQAUkQ6d7BRfH) | 3:48 | 2022-09-02 |  |
 | [Terminal](https://open.spotify.com/track/611bHLbCX1SlJUIdPLiJ3c) | [Marci](https://open.spotify.com/artist/2YvVKe1MfcslinaPCv402E) | [Terminal](https://open.spotify.com/album/3ggSo0sJMW38ysmz00zwSu) | 3:22 | 2022-06-10 | 2022-08-06 |
 | [Toune 2](https://open.spotify.com/track/0McnGxQOn78rzxXZvuNfKe) | [Anatole](https://open.spotify.com/artist/7Bbf1C1upxNS3U8GypL396) | [Toune 2](https://open.spotify.com/album/4D1iaqCVxIq7Za3dk2Gfiz) | 3:51 | 2022-05-27 |  |
 | [Trou d'eau](https://open.spotify.com/track/3eocwmTmeW2hA2fvhgpmo5) | [Gab Bouchard](https://open.spotify.com/artist/0J0nIuBa8qMlDnlS5QrkiP) | [Grafignes](https://open.spotify.com/album/4apNI8EVLPBkQH1ceRRcFl) | 3:17 | 2022-08-26 |  |
 | [Tu as le droit](https://open.spotify.com/track/7u0YtyBqNQ5qg3vAFjBqU3) | [Ariane Roy](https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM) | [medium plaisir](https://open.spotify.com/album/1Uq4V1N2AL1eI3M4cqq9sr) | 3:13 | 2022-06-10 | 2022-08-27 |
-| [Tôt ou tard](https://open.spotify.com/track/0JYJz0PGXsAgxe5sOZfCSf) | [Valence](https://open.spotify.com/artist/64SLcw5gWgSlsdXNQfEs44) | [Pêle\-mêle](https://open.spotify.com/album/0HtBYMZecK4pakcqckp4Qw) | 3:57 | 2022-03-25 |  |
+| [Tôt ou tard](https://open.spotify.com/track/0JYJz0PGXsAgxe5sOZfCSf) | [Valence](https://open.spotify.com/artist/64SLcw5gWgSlsdXNQfEs44) | [Pêle\-mêle](https://open.spotify.com/album/0HtBYMZecK4pakcqckp4Qw) | 3:57 | 2022-03-25 | 2022-09-03 |
 | [Umami \(edit\)](https://open.spotify.com/track/0N2efiVO6AXws1R4O8Rhhs) | [Klô Pelgag](https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi) | [Umami \(edit\)](https://open.spotify.com/album/4UxataWu6cEL0ihgfkFl4i) | 2:51 | 2022-03-25 | 2022-05-07 |
-| [Un homme sans visage](https://open.spotify.com/track/5j7agNHBVTcKA8QW4aWTF8) | [Jonathan Personne](https://open.spotify.com/artist/5Aw2a3f4H08TuXNR1OqtLy) | [Un homme sans visage](https://open.spotify.com/album/7BRO1JhEMBpqrsr0FJjL6h) | 3:26 | 2022-05-13 |  |
+| [Un homme sans visage](https://open.spotify.com/track/5j7agNHBVTcKA8QW4aWTF8) | [Jonathan Personne](https://open.spotify.com/artist/5Aw2a3f4H08TuXNR1OqtLy) | [Un homme sans visage](https://open.spotify.com/album/7BRO1JhEMBpqrsr0FJjL6h) | 3:26 | 2022-05-13 | 2022-09-03 |
 | [Untouchable](https://open.spotify.com/track/4SMtKuHmFgx98KizcSCj5m) | [Anomalie](https://open.spotify.com/artist/2ev6Cd0yJVCcpf2zezEQ8Z), [India Carney](https://open.spotify.com/artist/1P3aWqFIk6jRJ2IpxlHvGy) | [Galerie](https://open.spotify.com/album/1F7A1rsVd20Rpa4x8Hb5gJ) | 3:04 | 2022-04-29 |  |
 | [van gogh](https://open.spotify.com/track/5rfuxu9SeVji8qyeeltjI6) | [Avril Jensen](https://open.spotify.com/artist/5V9RpFO4rgqQ1P5ZLbMVqA) | [van gogh](https://open.spotify.com/album/5VI3LQqNNX2ptjVQgmff3a) | 3:26 | 2022-03-25 |  |
 | [Vaslaw](https://open.spotify.com/track/5Tsc2kib1Ver0jqZloT8nY) | [Lydia Képinski](https://open.spotify.com/artist/6lqpzCZWhymonpvpAVKx0C) | [Vaslaw](https://open.spotify.com/album/3AAj7Qak7bNlcwUqSF20Yc) | 4:34 | 2022-04-22 | 2022-05-07 |

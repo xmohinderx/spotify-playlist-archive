@@ -1,12 +1,12 @@
 {
   "description": "Sometimes it's nice to be nice, you know.",
-  "num_followers": 153607,
+  "num_followers": 153648,
   "original_name": "The Lovely Little Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTY5NTUwMCwwMDAwMDAwMGM2YjIyZDJlNzJhYTIwOWM4MWU5ODBkMGVmZTBiZDA3",
+  "snapshot_id": "MTY1OTY5NTUwMCwwMDAwMDAwMDg0NDUwNzJlZmZiZmQ1OTgzMjJjNzc4ZDIzNGY3MmVi",
   "tracks": [
     {
       "added_at": "2022-08-05 10:31:40",
@@ -443,22 +443,6 @@
     {
       "added_at": "2022-08-05 10:31:40",
       "album": {
-        "name": "My Own Person",
-        "url": "https://open.spotify.com/album/04D3qjBVzStR7FNHXFK373"
-      },
-      "artists": [
-        {
-          "name": "Ezra Williams",
-          "url": "https://open.spotify.com/artist/0vNuaHjk7DINrw3iRkYs48"
-        }
-      ],
-      "duration_ms": 264873,
-      "name": "My Own Person",
-      "url": "https://open.spotify.com/track/0o0BtyLhvu05czmflES2tH"
-    },
-    {
-      "added_at": "2022-08-05 10:31:40",
-      "album": {
         "name": "Designer",
         "url": "https://open.spotify.com/album/39CMyhmaEk6JMlqYUXQNOI"
       },
@@ -495,18 +479,18 @@
     {
       "added_at": "2022-08-05 10:31:40",
       "album": {
-        "name": "Smile in the Face of the Devil",
-        "url": "https://open.spotify.com/album/4RpOz3IeMf2KmjLn6eEyCC"
+        "name": "My Own Person",
+        "url": "https://open.spotify.com/album/04D3qjBVzStR7FNHXFK373"
       },
       "artists": [
         {
-          "name": "Matt Maltese",
-          "url": "https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf"
+          "name": "Ezra Williams",
+          "url": "https://open.spotify.com/artist/0vNuaHjk7DINrw3iRkYs48"
         }
       ],
-      "duration_ms": 158714,
-      "name": "Smile in the Face of the Devil",
-      "url": "https://open.spotify.com/track/0h6X7BCq7IYKHNoXln3LX3"
+      "duration_ms": 264873,
+      "name": "My Own Person",
+      "url": "https://open.spotify.com/track/0o0BtyLhvu05czmflES2tH"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -527,18 +511,18 @@
     {
       "added_at": "2022-08-05 10:31:40",
       "album": {
-        "name": "Chlo\u00eb and the Next 20th Century",
-        "url": "https://open.spotify.com/album/2tfg6zi5pwuYeQ0IHYnOBz"
+        "name": "Smile in the Face of the Devil",
+        "url": "https://open.spotify.com/album/4RpOz3IeMf2KmjLn6eEyCC"
       },
       "artists": [
         {
-          "name": "Father John Misty",
-          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+          "name": "Matt Maltese",
+          "url": "https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf"
         }
       ],
-      "duration_ms": 300240,
-      "name": "Goodbye Mr. Blue",
-      "url": "https://open.spotify.com/track/7ydJaSdC8Au68eYgspNznY"
+      "duration_ms": 158714,
+      "name": "Smile in the Face of the Devil",
+      "url": "https://open.spotify.com/track/0h6X7BCq7IYKHNoXln3LX3"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -555,6 +539,22 @@
       "duration_ms": 176506,
       "name": "Look Out!",
       "url": "https://open.spotify.com/track/4N1zjRwfeYAfKVIjjYbDRX"
+    },
+    {
+      "added_at": "2022-08-05 10:31:40",
+      "album": {
+        "name": "Chlo\u00eb and the Next 20th Century",
+        "url": "https://open.spotify.com/album/2tfg6zi5pwuYeQ0IHYnOBz"
+      },
+      "artists": [
+        {
+          "name": "Father John Misty",
+          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+        }
+      ],
+      "duration_ms": 300240,
+      "name": "Goodbye Mr. Blue",
+      "url": "https://open.spotify.com/track/7ydJaSdC8Au68eYgspNznY"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -623,6 +623,22 @@
     {
       "added_at": "2022-08-05 10:31:40",
       "album": {
+        "name": "Once Twice Melody",
+        "url": "https://open.spotify.com/album/79NySyjxJ8xric31mXKMAo"
+      },
+      "artists": [
+        {
+          "name": "Beach House",
+          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
+        }
+      ],
+      "duration_ms": 284906,
+      "name": "Once Twice Melody",
+      "url": "https://open.spotify.com/track/057rZ21MDp8Ld0TgQndNcv"
+    },
+    {
+      "added_at": "2022-08-05 10:31:40",
+      "album": {
         "name": "Pharmacist",
         "url": "https://open.spotify.com/album/34tneHefb6IXhuk95xh8vx"
       },
@@ -639,18 +655,22 @@
     {
       "added_at": "2022-08-05 10:31:40",
       "album": {
-        "name": "Once Twice Melody",
-        "url": "https://open.spotify.com/album/79NySyjxJ8xric31mXKMAo"
+        "name": "Hard Times / Bad Trips",
+        "url": "https://open.spotify.com/album/7adFlPgcQWFfPHcgNgZhUI"
       },
       "artists": [
         {
-          "name": "Beach House",
-          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
+          "name": "Pity Party (Girls Club)",
+          "url": "https://open.spotify.com/artist/5J3QKfJDFyjR3Q2qRcRaIU"
+        },
+        {
+          "name": "Lucys",
+          "url": "https://open.spotify.com/artist/3zfHIfmPkBRTy2EPGuTUxI"
         }
       ],
-      "duration_ms": 284906,
-      "name": "Once Twice Melody",
-      "url": "https://open.spotify.com/track/057rZ21MDp8Ld0TgQndNcv"
+      "duration_ms": 128000,
+      "name": "I hope that you think of me",
+      "url": "https://open.spotify.com/track/42LY6qYxu3L6nJ7Dt72gNy"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -731,26 +751,6 @@
       "duration_ms": 202226,
       "name": "Birdcage",
       "url": "https://open.spotify.com/track/1ulB5740qjdSila4Vjnb7Z"
-    },
-    {
-      "added_at": "2022-08-05 10:31:40",
-      "album": {
-        "name": "Hard Times / Bad Trips",
-        "url": "https://open.spotify.com/album/7adFlPgcQWFfPHcgNgZhUI"
-      },
-      "artists": [
-        {
-          "name": "Pity Party (Girls Club)",
-          "url": "https://open.spotify.com/artist/5J3QKfJDFyjR3Q2qRcRaIU"
-        },
-        {
-          "name": "Lucys",
-          "url": "https://open.spotify.com/artist/3zfHIfmPkBRTy2EPGuTUxI"
-        }
-      ],
-      "duration_ms": 128000,
-      "name": "I hope that you think of me",
-      "url": "https://open.spotify.com/track/42LY6qYxu3L6nJ7Dt72gNy"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -967,22 +967,6 @@
     {
       "added_at": "2022-08-05 10:31:40",
       "album": {
-        "name": "Mercurial World",
-        "url": "https://open.spotify.com/album/1ERrUvG31thFCxdwWUoJrY"
-      },
-      "artists": [
-        {
-          "name": "Magdalena Bay",
-          "url": "https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ"
-        }
-      ],
-      "duration_ms": 235565,
-      "name": "Hysterical Us",
-      "url": "https://open.spotify.com/track/0vMlVGJuREJk3c7vvObE5Z"
-    },
-    {
-      "added_at": "2022-08-05 10:31:40",
-      "album": {
         "name": "69 Love Songs",
         "url": "https://open.spotify.com/album/2GuROKcqyHdpIDcgxml1C7"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 166133,
       "name": "All My Little Words",
       "url": "https://open.spotify.com/track/3KvTZQPpzPw9UKxaGlJkBs"
+    },
+    {
+      "added_at": "2022-08-05 10:31:40",
+      "album": {
+        "name": "Mercurial World",
+        "url": "https://open.spotify.com/album/1ERrUvG31thFCxdwWUoJrY"
+      },
+      "artists": [
+        {
+          "name": "Magdalena Bay",
+          "url": "https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ"
+        }
+      ],
+      "duration_ms": 235565,
+      "name": "Hysterical Us",
+      "url": "https://open.spotify.com/track/0vMlVGJuREJk3c7vvObE5Z"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2022-08-05 10:31:40",
       "album": {
-        "name": "The Boy With The Arab Strap",
-        "url": "https://open.spotify.com/album/4AChnLbiWqxiotXz8kv6D7"
-      },
-      "artists": [
-        {
-          "name": "Belle and Sebastian",
-          "url": "https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h"
-        }
-      ],
-      "duration_ms": 314173,
-      "name": "The Boy With The Arab Strap",
-      "url": "https://open.spotify.com/track/2PV8oZJo3K3bXENO7FRRtp"
-    },
-    {
-      "added_at": "2022-08-05 10:31:40",
-      "album": {
         "name": "Arcadia",
         "url": "https://open.spotify.com/album/6KpJMQZAI4thJHoBzawHnZ"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 210880,
       "name": "Arcadia",
       "url": "https://open.spotify.com/track/1vLmc6JVzSGVnUT3BMfKXZ"
+    },
+    {
+      "added_at": "2022-08-05 10:31:40",
+      "album": {
+        "name": "The Boy With The Arab Strap",
+        "url": "https://open.spotify.com/album/4AChnLbiWqxiotXz8kv6D7"
+      },
+      "artists": [
+        {
+          "name": "Belle and Sebastian",
+          "url": "https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h"
+        }
+      ],
+      "duration_ms": 314173,
+      "name": "The Boy With The Arab Strap",
+      "url": "https://open.spotify.com/track/2PV8oZJo3K3bXENO7FRRtp"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -1159,18 +1159,18 @@
     {
       "added_at": "2022-08-05 10:31:40",
       "album": {
-        "name": "Dragon New Warm Mountain I Believe In You",
-        "url": "https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY"
+        "name": "Let's Get Out Of This Country",
+        "url": "https://open.spotify.com/album/3NcGNYXKiHeygdXXL7czL1"
       },
       "artists": [
         {
-          "name": "Big Thief",
-          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
+          "name": "Camera Obscura",
+          "url": "https://open.spotify.com/artist/5gInJ5P5gQnOKPM3SUEVFt"
         }
       ],
-      "duration_ms": 227156,
-      "name": "No Reason",
-      "url": "https://open.spotify.com/track/2mdaMDbjFxmxQPO90PxT5w"
+      "duration_ms": 231160,
+      "name": "Lloyd, I'm Ready To Be Heartbroken",
+      "url": "https://open.spotify.com/track/52PuLmsxTDOI2WAqpzYjoT"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -1191,18 +1191,18 @@
     {
       "added_at": "2022-08-05 10:31:40",
       "album": {
-        "name": "Let's Get Out Of This Country",
-        "url": "https://open.spotify.com/album/3NcGNYXKiHeygdXXL7czL1"
+        "name": "Dragon New Warm Mountain I Believe In You",
+        "url": "https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY"
       },
       "artists": [
         {
-          "name": "Camera Obscura",
-          "url": "https://open.spotify.com/artist/5gInJ5P5gQnOKPM3SUEVFt"
+          "name": "Big Thief",
+          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
         }
       ],
-      "duration_ms": 231160,
-      "name": "Lloyd, I'm Ready To Be Heartbroken",
-      "url": "https://open.spotify.com/track/52PuLmsxTDOI2WAqpzYjoT"
+      "duration_ms": 227156,
+      "name": "No Reason",
+      "url": "https://open.spotify.com/track/2mdaMDbjFxmxQPO90PxT5w"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2022-08-05 10:31:40",
       "album": {
-        "name": "Once Around the Block",
-        "url": "https://open.spotify.com/album/7cpwgE4OyxbMoHIqQv5EDQ"
-      },
-      "artists": [
-        {
-          "name": "Badly Drawn Boy",
-          "url": "https://open.spotify.com/artist/244fcyNSuyhbRlMGfMbYrO"
-        }
-      ],
-      "duration_ms": 244826,
-      "name": "Once Around the Block",
-      "url": "https://open.spotify.com/track/2TnNFFgZhaBzEEobxDy5uV"
-    },
-    {
-      "added_at": "2022-08-05 10:31:40",
-      "album": {
         "name": "The Sky Is Bleeding",
         "url": "https://open.spotify.com/album/1Uo1xB5dmrRWnhuouxDRib"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 191493,
       "name": "Lavender",
       "url": "https://open.spotify.com/track/5bftrb8CIRhhCt5ufD7JUi"
+    },
+    {
+      "added_at": "2022-08-05 10:31:40",
+      "album": {
+        "name": "Once Around the Block",
+        "url": "https://open.spotify.com/album/7cpwgE4OyxbMoHIqQv5EDQ"
+      },
+      "artists": [
+        {
+          "name": "Badly Drawn Boy",
+          "url": "https://open.spotify.com/artist/244fcyNSuyhbRlMGfMbYrO"
+        }
+      ],
+      "duration_ms": 244826,
+      "name": "Once Around the Block",
+      "url": "https://open.spotify.com/track/2TnNFFgZhaBzEEobxDy5uV"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2022-08-05 10:31:40",
       "album": {
-        "name": "B-Sides",
-        "url": "https://open.spotify.com/album/4TFemUhhzdeB4IXxSjD6sQ"
-      },
-      "artists": [
-        {
-          "name": "Julien Baker",
-          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
-        }
-      ],
-      "duration_ms": 204933,
-      "name": "Mental Math",
-      "url": "https://open.spotify.com/track/0XGZAOVm4d9e1UHykZATeK"
-    },
-    {
-      "added_at": "2022-08-05 10:31:40",
-      "album": {
         "name": "Moves",
         "url": "https://open.spotify.com/album/5kMj4ooSnYk9MUCedMrhi7"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 193031,
       "name": "Moves",
       "url": "https://open.spotify.com/track/56m9pSdW8e56jiadoFKuu8"
+    },
+    {
+      "added_at": "2022-08-05 10:31:40",
+      "album": {
+        "name": "My House",
+        "url": "https://open.spotify.com/album/7sSEGFxjJTaT1amaNYOmWD"
+      },
+      "artists": [
+        {
+          "name": "Declan McKenna",
+          "url": "https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c"
+        }
+      ],
+      "duration_ms": 256639,
+      "name": "My House",
+      "url": "https://open.spotify.com/track/5kuSneVOTmvanncpK3RZcl"
     }
   ],
   "unique_name": "The Lovely Little Playlist",

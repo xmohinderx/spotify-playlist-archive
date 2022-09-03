@@ -4,7 +4,7 @@
 
 > Let these country tunes light up your day
 
-73 songs - 4 hr 24 min - [published](https://open.spotify.com/playlist/7Fdh0ZQzW1X475GT90gmXk)
+75 songs - 4 hr 30 min - [published](https://open.spotify.com/playlist/7Fdh0ZQzW1X475GT90gmXk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,8 @@
 | [Sitting In Limbo](https://open.spotify.com/track/5kkT3J5trC533eXfZRxcaI) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Countryman](https://open.spotify.com/album/77pIdRuNu9xRYk6BB6l9nI) | 2:41 | 2021-04-20 |  |
 | [Smoke A Little Smoke](https://open.spotify.com/track/1ESipSqVefdknPg5IBKFND) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Carolina](https://open.spotify.com/album/37iovsHz9HV9PPR2DLbNnC) | 3:11 | 2022-04-20 |  |
 | [Smoke A Little Smoke](https://open.spotify.com/track/2uZhNjlUQ9mnt0rS7hcAgF) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Carolina](https://open.spotify.com/album/0QZc1pzqelwhdKftQQDdUw) | 3:11 | 2021-04-20 | 2022-07-29 |
+| [Smoke It \- Demo](https://open.spotify.com/track/5nNvU45Ngzvm29gNChh7mq) | [Haley Mae Campbell](https://open.spotify.com/artist/2NDqx1z4TTkFr0QOnk8nX3) | [Smoke It \(Demo\)](https://open.spotify.com/album/3JLtWB0tw1aMnqO9zaMtaY) | 3:03 | 2022-09-02 |  |
+| [Smokin' A Doobie](https://open.spotify.com/track/6tzknxnekWR1cs7aT165Ow) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Mr\. Saturday Night](https://open.spotify.com/album/2QriWWJQt8g8XXoC1ATDPa) | 2:55 | 2022-09-02 |  |
 | [Stoned At The Jukebox](https://open.spotify.com/track/4LzwAHl0qQJkfECwhmwj3Y) | [Hank Williams, Jr.](https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb) | [Lone Wolf](https://open.spotify.com/album/67FryHZj95IDkBAanbBMFc) | 2:59 | 2021-04-20 |  |
 | [Stoned In Traffic](https://open.spotify.com/track/1kQfN9SZbv6jvgfAV4LjVD) | [Porter and The Bluebonnet Rattlesnakes](https://open.spotify.com/artist/2E99cSqPWtmAFiuzWTE5HQ) | [Don't Go Baby It's Gonna Get Weird Without You](https://open.spotify.com/album/2TIA1N6WhgzAY3eRWpfmCF) | 2:48 | 2021-11-26 |  |
 | [Stop Drop and Roll One](https://open.spotify.com/track/2Je5HiZUABcRsPV6DQwhph) | [Pistol Annies](https://open.spotify.com/artist/2wSgVsgLUZeDJwoLcPO7ny), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Ashley Monroe](https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP), [Angaleena Presley](https://open.spotify.com/artist/7hmwyQifkGl8GgOMVJZvW0) | [Interstate Gospel](https://open.spotify.com/album/0IXxmmlfSQxgJNWnNjHhgJ) | 3:02 | 2021-04-20 |  |

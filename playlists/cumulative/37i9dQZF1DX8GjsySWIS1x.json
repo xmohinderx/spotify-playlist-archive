@@ -7792,6 +7792,24 @@
     },
     {
       "album": {
+        "name": "Lonely King",
+        "url": "https://open.spotify.com/album/4yRPqkgGjI8792xSBU4PvM"
+      },
+      "artists": [
+        {
+          "name": "CG5",
+          "url": "https://open.spotify.com/artist/3YJDqtTSjydvUpTvU1fJ6O"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196612,
+      "name": "Lonely King",
+      "url": "https://open.spotify.com/track/6xkkNUxwMGoGHUE9bewC4O"
+    },
+    {
+      "album": {
         "name": "The Slow Rush",
         "url": "https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL"
       },

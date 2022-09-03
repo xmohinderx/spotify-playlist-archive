@@ -1,12 +1,12 @@
 {
   "description": "All new, all blues. Cover: Dylan Triplett",
-  "num_followers": 120304,
+  "num_followers": 119994,
   "original_name": "Nu-Blue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQ4NjUyMCwwMDAwMDAwMDIwYWU5MWU0MDQxNzExZWUyYzc3OTA3ZGJhMjQ3YWUx",
+  "snapshot_id": "MTY2MjA5MTMyMCwwMDAwMDAwMDZmOWQ2MzIyODA1OGMzMTE3NjM2ZmQzMGRlYjA1YmE5",
   "tracks": [
     {
       "added_at": "2022-08-26 04:02:00",
@@ -49,6 +49,30 @@
       "url": "https://open.spotify.com/track/7kLR5l2d7Vz5kiJujbmY40"
     },
     {
+      "added_at": "2022-09-02 04:02:00",
+      "album": {
+        "name": "Give Praises",
+        "url": "https://open.spotify.com/album/60cMUwLJw5peMZnQb0FFP4"
+      },
+      "artists": [
+        {
+          "name": "The 32 Golden Souls",
+          "url": "https://open.spotify.com/artist/2zDq66Zcl7NcRY1XViXBN8"
+        },
+        {
+          "name": "Lymie Murray",
+          "url": "https://open.spotify.com/artist/6A53ujYIa2XYuZQou20kGI"
+        },
+        {
+          "name": "Winston McAnuff",
+          "url": "https://open.spotify.com/artist/3KnbABMv83BtL1scL56svt"
+        }
+      ],
+      "duration_ms": 216413,
+      "name": "Give Praises",
+      "url": "https://open.spotify.com/track/6Sa3ga6JEhzguGcmH4cAJV"
+    },
+    {
       "added_at": "2022-08-26 04:02:00",
       "album": {
         "name": "One Day Closer To Home",
@@ -81,6 +105,22 @@
       "url": "https://open.spotify.com/track/08VbstN22j4jlgMemYE2xk"
     },
     {
+      "added_at": "2022-09-02 04:02:00",
+      "album": {
+        "name": "Find Somebody New",
+        "url": "https://open.spotify.com/album/7yia02IejFb97Uv85hLddH"
+      },
+      "artists": [
+        {
+          "name": "Jason Weaver",
+          "url": "https://open.spotify.com/artist/6n0cnqQD5b9L0dpqQ3wOOq"
+        }
+      ],
+      "duration_ms": 170374,
+      "name": "Find Somebody New",
+      "url": "https://open.spotify.com/track/29PfxQh5YAZ0d1dT4ufRxY"
+    },
+    {
       "added_at": "2022-08-12 04:02:00",
       "album": {
         "name": "Pensive Pop",
@@ -97,30 +137,6 @@
       "url": "https://open.spotify.com/track/1KLyyQ9B4URptPsozR44l8"
     },
     {
-      "added_at": "2022-08-26 04:02:00",
-      "album": {
-        "name": "Log On",
-        "url": "https://open.spotify.com/album/1T44hQdjRZwInVBSqUWA0m"
-      },
-      "artists": [
-        {
-          "name": "The 32 Golden Souls",
-          "url": "https://open.spotify.com/artist/2zDq66Zcl7NcRY1XViXBN8"
-        },
-        {
-          "name": "Winston McAnuff",
-          "url": "https://open.spotify.com/artist/3KnbABMv83BtL1scL56svt"
-        },
-        {
-          "name": "Lymie Murray",
-          "url": "https://open.spotify.com/artist/6A53ujYIa2XYuZQou20kGI"
-        }
-      ],
-      "duration_ms": 259173,
-      "name": "Log On",
-      "url": "https://open.spotify.com/track/7v7NrUoc3pSV49qWdvFZxZ"
-    },
-    {
       "added_at": "2022-07-22 04:02:00",
       "album": {
         "name": "Need To Know Basis",
@@ -135,6 +151,22 @@
       "duration_ms": 119975,
       "name": "Need To Know Basis",
       "url": "https://open.spotify.com/track/03medhiG64fBChIiDBTNPK"
+    },
+    {
+      "added_at": "2022-09-02 04:02:00",
+      "album": {
+        "name": "Sunlight Lover (Moonshine Lover)",
+        "url": "https://open.spotify.com/album/20qgm11dR7wDnfauXFeuMx"
+      },
+      "artists": [
+        {
+          "name": "Soldier Story",
+          "url": "https://open.spotify.com/artist/6xUcGgLH1IwXKSoYe2EMr0"
+        }
+      ],
+      "duration_ms": 133516,
+      "name": "Sunlight Lover (Moonshine Lover)",
+      "url": "https://open.spotify.com/track/55xFE3JPlWpKoqRGg9j4L0"
     },
     {
       "added_at": "2022-08-26 04:02:00",
@@ -707,8 +739,8 @@
     {
       "added_at": "2022-02-25 05:02:00",
       "album": {
-        "name": "Practice What You Preach",
-        "url": "https://open.spotify.com/album/5FtVDZRzGwWzBqcsC0bmXf"
+        "name": "Traveling Man",
+        "url": "https://open.spotify.com/album/64rMgCug1OdOp98lGu5klK"
       },
       "artists": [
         {
@@ -718,7 +750,7 @@
       ],
       "duration_ms": 165680,
       "name": "Practice What You Preach",
-      "url": "https://open.spotify.com/track/1daAFUaK1bU26fuRSyQfs3"
+      "url": "https://open.spotify.com/track/4AvhtXaiaH2Z4x0BmBdvfA"
     },
     {
       "added_at": "2022-02-18 05:02:00",

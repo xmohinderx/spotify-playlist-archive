@@ -4,7 +4,7 @@
 
 > The biggest party hits of the 1990s\. Cover: Jennifer Lopez.
 
-296 songs - 20 hr 6 min - [published](https://open.spotify.com/playlist/6TUZaOg0zmZ7RSt0SzZOvF)
+297 songs - 20 hr 11 min - [published](https://open.spotify.com/playlist/6TUZaOg0zmZ7RSt0SzZOvF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -273,7 +273,7 @@
 | [Try Me Out](https://open.spotify.com/track/2QbuqnxPaHCsYnlbAZDxvV) | [Corona](https://open.spotify.com/artist/26T6b8maqEVltcmE4kSDUl) | [The Rhythm of the Night](https://open.spotify.com/album/6rrPmmb2lQd5pNRL6HKBZx) | 3:26 | 2021-09-08 | 2022-02-25 |
 | [Tubthumping](https://open.spotify.com/track/22HYEJveCvykVDHDiEEmjZ) | [Chumbawamba](https://open.spotify.com/artist/0TcYeHEK9sBtv7xPbKhzHz) | [Tubthumper](https://open.spotify.com/album/5yaumQgV6xGqCy014aOREt) | 4:38 | 2021-09-08 |  |
 | [Turn Around \- Radio Edit](https://open.spotify.com/track/2nx86MrPkXWQctveAEFJBf) | [Phats & Small](https://open.spotify.com/artist/4WLGcWrkSExCqILxDk7ol6), [Toney Lee](https://open.spotify.com/artist/1bqxl4NUclRsHX98Z3bn2v) | [Turn Around \- Single](https://open.spotify.com/album/0ekbBXoxN1AsU6dMJxpyzJ) | 3:32 | 2021-03-22 |  |
-| [Turn On, Tune In, Cop Out \- Radio Edit](https://open.spotify.com/track/2SC4TS2QvUcKvXRFGgyyDc) | [Freak Power](https://open.spotify.com/artist/0uh9TDn4yP8gqCmrnIcOPJ) | [Drive\-Thru Booty](https://open.spotify.com/album/30CvHpK3jlKpgndhjOx3n2) | 4:24 | 2021-09-08 |  |
+| [Turn On, Tune In, Cop Out \- Radio Edit](https://open.spotify.com/track/2SC4TS2QvUcKvXRFGgyyDc) | [Freak Power](https://open.spotify.com/artist/0uh9TDn4yP8gqCmrnIcOPJ) | [Drive\-Thru Booty](https://open.spotify.com/album/30CvHpK3jlKpgndhjOx3n2) | 4:24 | 2021-09-08 | 2022-09-03 |
 | [Twist And Shout](https://open.spotify.com/track/4wrS2dvdYei9jZN0JlUBP6) | [Chaka Demus & Pliers](https://open.spotify.com/artist/6RQkaOWddQmiLLJqSgnTbm), [Jack Radics](https://open.spotify.com/artist/0YeIluqMsCUwn5NC3TG2iQ), [The Taxi Gang](https://open.spotify.com/artist/2Af07b1sTnXHHSdCqdLSfy) | [Tease Me](https://open.spotify.com/album/6GTzBIyPe32G2mXBaYSqYY) | 3:57 | 2021-09-08 |  |
 | [Two Can Play That Game \- Radio Edit](https://open.spotify.com/track/1gsnWXeNlbfoHpaGRi4oQ0) | [Bobby Brown](https://open.spotify.com/artist/62sPt3fswraiEPnKQpAbdE), [K\-Klass](https://open.spotify.com/artist/4O1s9iVG46lSn1mD9ek1ES) | [Two Can Play That Game](https://open.spotify.com/album/1K62bZaGNA1eNoR2pNu585) | 3:31 | 2021-03-22 |  |
 | [Two Princes](https://open.spotify.com/track/4ePP9So5xRzspjLFVVbj90) | [Spin Doctors](https://open.spotify.com/artist/2PSiyldxmJze7xiqbz658m) | [Pocket Full Of Kryptonite](https://open.spotify.com/album/2TWdmpnFNCMlZDQROleupK) | 4:16 | 2021-03-22 |  |
@@ -300,6 +300,7 @@
 | [Whoomp! There It Is \- Radio Edit](https://open.spotify.com/track/3oWXoSkjdbTlQlteizN7Hb) | [Tag Team](https://open.spotify.com/artist/3NfJ6VPVz0lf3jWy5F1N7g) | [Whoomp! There It Is \(Radio Edit\)](https://open.spotify.com/album/4XHoIt7yz57IiEOApotVMw) | 3:45 | 2021-09-08 |  |
 | [Whoops Now \- Single Version](https://open.spotify.com/track/1A5ghTLlfevLE02mLTWIFO) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [Whoops Now](https://open.spotify.com/album/4d0kuZmuu1J0MWgbfC3m7R) | 3:40 | 2021-09-08 | 2022-07-29 |
 | [Would I Lie To You?](https://open.spotify.com/track/21MLFi0ISlqDBp7DQHPi7p) | [Charles & Eddie](https://open.spotify.com/artist/5rIhaCHkbFVvLJpKHWwOJD) | [Duophonic](https://open.spotify.com/album/7wSNRFFyUCDeSoVVuKYUYH) | 4:39 | 2021-09-08 | 2022-05-16 |
+| [Would I Lie To You?](https://open.spotify.com/track/3PkvYP6223QO3xlW2THd1x) | [Charles & Eddie](https://open.spotify.com/artist/5rIhaCHkbFVvLJpKHWwOJD) | [Duophonic](https://open.spotify.com/album/2qSjYxNL8dN8QCTTQyuNOA) | 4:39 | 2021-09-08 |  |
 | [You Don't Know Me \(feat\. Duane Harden\) \- Radio Edit](https://open.spotify.com/track/7BpyfQEmvi0sUmOq29plEE) | [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE), [Duane Harden](https://open.spotify.com/artist/6t8VAB5OTHKxi4p1I5aqn0) | [You Don't Know Me \(feat\. Duane Harden\)](https://open.spotify.com/album/62vJ3t4nZ50SigVCT6TUwb) | 4:02 | 2021-03-22 |  |
 | [You Got The Love \- New Voyager Radio Edit](https://open.spotify.com/track/4nQkNmJJWnFIRsbIMeIrlX) | [The Source & Candi Staton](https://open.spotify.com/artist/2xkmkfqXFQHMk0zhFXMUq6), [The Source](https://open.spotify.com/artist/25EAVXsff9L7LHy7UIsPbR), [Candi Staton](https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et) | [You Got the Love](https://open.spotify.com/album/1HT8FmsDQuWYmkCBVREimB) | 3:13 | 2021-03-22 |  |
 | [You're My Heart, You're My Soul '98](https://open.spotify.com/track/1bNYIF1HZlWJe8ZKmTIFfT) | [Modern Talking](https://open.spotify.com/artist/79bxUQsBIXO8nVLB9fYKf7) | [Back For Good](https://open.spotify.com/album/7hoiQ5aP55yfEq8TaMsZ0u) | 3:50 | 2021-09-08 |  |

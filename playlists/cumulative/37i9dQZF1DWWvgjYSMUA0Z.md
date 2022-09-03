@@ -4,7 +4,7 @@
 
 > Music to encourage emotional and physical healing through Reiki.
 
-113 songs - 6 hr 41 min - [published](https://open.spotify.com/playlist/7qJRjOP78BEAfkaayVTtAa)
+114 songs - 6 hr 47 min - [published](https://open.spotify.com/playlist/7qJRjOP78BEAfkaayVTtAa)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Pampus](https://open.spotify.com/track/7emdYdVOLn2nIzdFufWUQh) | [Dardan Leistra](https://open.spotify.com/artist/1iChBE5eMVIiJBpsUZ0rSH) | [Pampus](https://open.spotify.com/album/66EibKvWjwkOn8LPibdMcF) | 3:26 | 2021-12-22 |  |
 | [Paradigm Shift](https://open.spotify.com/track/6omeDJojxEUVrHOyKFtong) | [Voyage Control](https://open.spotify.com/artist/2ZxdgHyc8cnGVXvUgaApbc) | [Paradigm Shift](https://open.spotify.com/album/4715J2rUJgqsE0w5eZUdrz) | 4:41 | 2022-04-21 |  |
 | [Peaceful Beat](https://open.spotify.com/track/1K1bPlZna6jKf7awyKi6K8) | [Muyu Three](https://open.spotify.com/artist/6zb7OvAUpABDfVSe9NF1BN) | [Peaceful Beat](https://open.spotify.com/album/4geUtHZzcLPidEcjgaIvQB) | 2:58 | 2022-05-25 |  |
+| [Peaceful Garden](https://open.spotify.com/track/109Az5ZRvRYKE6UU9Rdnf0) | [Buddha's Lounge](https://open.spotify.com/artist/0DQtE70SlFZZkbNpCRaMHb) | [Peaceful Garden](https://open.spotify.com/album/26UPIsHGsD24Si9M186oYK) | 6:17 | 2022-09-02 |  |
 | [Perfect Rose](https://open.spotify.com/track/0Yuw1szR25KD6tmO1KSs9x) | [Jade Palace](https://open.spotify.com/artist/52FzcYdR52cgukrg4A3Tyv) | [Perfect Rose](https://open.spotify.com/album/2E8dJJLDCiKqWMVXuWetCq) | 3:06 | 2021-12-22 |  |
 | [Point of Departure](https://open.spotify.com/track/2mR5CtbwYl0hnyNIs5ue7B) | [Anuvida](https://open.spotify.com/artist/2cAY7ix5Q1KkGIHD46ahtG), [Nik Tyndall](https://open.spotify.com/artist/079KP7iub4gzBo3Orbbzmy) | [Reiki Healing Hands](https://open.spotify.com/album/2mzFH1tiasz7velHgJmWW1) | 9:57 | 2021-12-22 |  |
 | [Polaris](https://open.spotify.com/track/3u4oNZRvrA7pXN90HaGWkE) | [Burgundy Skies](https://open.spotify.com/artist/2txYwbS88ztbJYTKGVeUrq) | [Polaris](https://open.spotify.com/album/2Mx0KP6jL0AmsMuZsCjAft) | 1:55 | 2021-12-22 |  |
@@ -74,7 +75,7 @@
 | [Radiant Trust](https://open.spotify.com/track/7qCGORMXbhsWRN4ngiq2zy) | [Arissa Farrow](https://open.spotify.com/artist/6Wt3fy35MAVaFlyo8s3g6v) | [Radiant Trust](https://open.spotify.com/album/5ISQKMXsvXaLBUVQesJ3FO) | 3:01 | 2021-12-22 |  |
 | [Rainfall](https://open.spotify.com/track/4dnxPuIHGCSmEUG7vkfSBw) | [Vabali](https://open.spotify.com/artist/5YKbPWQH4geyg9ghiDSSF8) | [Rainfall](https://open.spotify.com/album/3ndp2H6qEh8lb8XAVJvgUe) | 3:50 | 2022-05-05 |  |
 | [Raise Me Up](https://open.spotify.com/track/4xQHXRTY5A3YbWBLt79QcJ) | [Bah Zen](https://open.spotify.com/artist/6WOLPTN3uKvcpJUYHkRb6k) | [Positive Thinking](https://open.spotify.com/album/2lMNGjVYdKvRG5DosyhjOi) | 2:33 | 2021-12-22 |  |
-| [Recline](https://open.spotify.com/track/5sAIeiXf3O08GhLBb9sO9R) | [C\. Lindquist](https://open.spotify.com/artist/59yCLT7odiMwxirAZ4YZaw) | [Recline](https://open.spotify.com/album/6Whp4MggXtkjsGYWct0aGU) | 4:14 | 2021-12-22 |  |
+| [Recline](https://open.spotify.com/track/5sAIeiXf3O08GhLBb9sO9R) | [C\. Lindquist](https://open.spotify.com/artist/59yCLT7odiMwxirAZ4YZaw) | [Recline](https://open.spotify.com/album/6Whp4MggXtkjsGYWct0aGU) | 4:14 | 2021-12-22 | 2022-09-03 |
 | [Rejuvenation](https://open.spotify.com/track/3fAV0eFLbmNgCjS3fMhqf6) | [Amela Clouds](https://open.spotify.com/artist/62UW4G3lvlmjFMTy5CUQ6l) | [Rejuvenation](https://open.spotify.com/album/7atqe3Cp2ezHLqBL8mo0OQ) | 3:20 | 2021-12-22 |  |
 | [Releaser](https://open.spotify.com/track/1GddIEy7hjJfOCRvjLq7Tu) | [Intentional Vibes](https://open.spotify.com/artist/5gtNVNylJUg6NfvM0LjLtr) | [Healing Touch](https://open.spotify.com/album/0fSmub8HrabT9rG53oOGbk) | 4:04 | 2021-12-22 |  |
 | [Relief](https://open.spotify.com/track/59xd0X9j4l5COqxkGuZiJp) | [Sheila Dawn](https://open.spotify.com/artist/5XSMONg34qtPY5qFntQfag) | [Aureole](https://open.spotify.com/album/00qD0iqQkCuQFXN1cu5Mwx) | 3:02 | 2022-03-09 |  |

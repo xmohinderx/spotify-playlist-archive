@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWTpLDJazDBum.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWTpLDJazDBum) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTpLDJazDBum)
 
-### [Gaming Beats](https://open.spotify.com/playlist/37i9dQZF1DWTpLDJazDBum)
+### [Chill Gaming Beats](https://open.spotify.com/playlist/37i9dQZF1DWTpLDJazDBum)
 
 > Find your flow with these instrumental trap and lofi beats.
 
-218 songs - 9 hr 35 min - [published](https://open.spotify.com/playlist/7G9URZLYPjRGYZEph2wbiQ)
+226 songs - 9 hr 56 min - [published](https://open.spotify.com/playlist/7G9URZLYPjRGYZEph2wbiQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [awareness](https://open.spotify.com/track/4fkuzFLzXSzslhrHWSGGhI) | [threefourfive](https://open.spotify.com/artist/6Egl0PesupE35TTNF6OF1X) | [awareness](https://open.spotify.com/album/0YErBks7Y3JioAcB3RHZDd) | 2:12 | 2022-04-08 | 2022-05-27 |
 | [Back in Time](https://open.spotify.com/track/06ebw65TXHJKCCyLtTFRS5) | [Synth Experiment](https://open.spotify.com/artist/30VM2eiFpTUVf4SofL3veT) | [To the Sun](https://open.spotify.com/album/4wiuIwkqHzSpZas5ySVu7w) | 2:53 | 2022-04-08 | 2022-05-27 |
 | [Back the Line](https://open.spotify.com/track/6VmLAZAbbDoqPAm8OHFbPs) | [IZY REALLY](https://open.spotify.com/artist/2QpnXxnib6tVD5Vy4Hlvar) | [Power](https://open.spotify.com/album/0ygj6ZCtEMvOHL2835FW3k) | 2:54 | 2022-07-08 |  |
+| [backlog](https://open.spotify.com/track/1Ee4Pg8aWE9VfiYTe17y9j) | [ticketera](https://open.spotify.com/artist/47NcEozr7pql5mzopYto5H) | [task management ep](https://open.spotify.com/album/47UY6OnzrajNQmzhVBAUOo) | 1:48 | 2022-09-02 |  |
 | [Base de Rap Boombap](https://open.spotify.com/track/39une7hhwJWCPMgQ1CwMRa) | [AesUno](https://open.spotify.com/artist/6XhXfXQZNqlcxxo4VN5ZyV), [Reli Beats](https://open.spotify.com/artist/533xFrFfSzMUl4IvUT7YH5) | [Base de Rap Boombap](https://open.spotify.com/album/3tgWYDhnQloU9SpBaSBG9v) | 2:29 | 2022-06-24 |  |
 | [Bay Area](https://open.spotify.com/track/6v7quBa8h01DoX1doPfznH) | [ChillsmokeႿ](https://open.spotify.com/artist/50PNApaaFiGIOQhsposZnn) | [Bay Area](https://open.spotify.com/album/4WboSIs9ckTP0CgjwcCfGh) | 1:57 | 2022-08-12 |  |
 | [Better Together](https://open.spotify.com/track/3ZO2JrKZIxtk8DZN8YVLHP) | [North Polo](https://open.spotify.com/artist/1HCLXZk93Ezf3V9ZwubETv) | [Better Together](https://open.spotify.com/album/0pI1ZdcRCAz99blamoXobq) | 2:29 | 2022-04-08 | 2022-05-27 |
@@ -33,6 +34,7 @@
 | [Call me](https://open.spotify.com/track/34A2accnIDPOhkRltN8KJY) | [90sFlav](https://open.spotify.com/artist/6OOxsmeDk34xk6Ok3Ap95C) | [Collection](https://open.spotify.com/album/4r5Uvinx2W572g2goXL0zW) | 2:06 | 2022-08-05 |  |
 | [Canterbury](https://open.spotify.com/track/6sMi7wVHKaFYIvZPZegu2s) | [SLAACEE](https://open.spotify.com/artist/32guYZQtWnj7Lx3kjqdxuT) | [Canterbury](https://open.spotify.com/album/4FQ63HSplUhltdkkqBsDFe) | 2:41 | 2022-04-08 |  |
 | [Carter](https://open.spotify.com/track/7DZXwGZwAZ0pMzyxPvLNin) | [Tatchy](https://open.spotify.com/artist/4kqLVasdVgw0NXBpR8yhug), [Classe Beats](https://open.spotify.com/artist/0pqLKPTH1BAW4brUdoXrzW) | [Carter](https://open.spotify.com/album/4Z4y1Fh6VHMo3Lwnaapdke) | 3:09 | 2022-04-08 |  |
+| [Casual](https://open.spotify.com/track/04vbqTabvnBVNS529gCjr7) | [Fadez N Rizer](https://open.spotify.com/artist/0Byvk0rx8JPDyTBHKnIfbP) | [Casual](https://open.spotify.com/album/34WYto1C7tTFFiyolKmtDW) | 2:58 | 2022-09-02 |  |
 | [Catcher in the rye](https://open.spotify.com/track/1MjAqFdbI32eabt6lufWfy) | [Hybrid Vibrations](https://open.spotify.com/artist/794S31SVHKMY16hMneo3XW) | [Catcher in the rye](https://open.spotify.com/album/1U7K08lz9Y5HK31C2yqYDd) | 3:52 | 2022-04-08 |  |
 | [Ceilings](https://open.spotify.com/track/6K9Y2y4KKovWcun1Nl5FKI) | [dreem](https://open.spotify.com/artist/66cMjcY2f2B1omrVfxHIlG) | [Deny](https://open.spotify.com/album/7EFM5bSubOwxnOWwygRRX2) | 3:56 | 2022-04-08 | 2022-05-27 |
 | [Charm City](https://open.spotify.com/track/1KjNiIzJrW7P5U6LiFHAWo) | [Daal Rhost](https://open.spotify.com/artist/4ymH6Ywnqm4Rd7t7u9Uj3n) | [Charm City](https://open.spotify.com/album/6kFIVvZxaeqpwkxHcLf6XL) | 2:59 | 2022-04-08 |  |
@@ -55,6 +57,7 @@
 | [Crinkle Cut](https://open.spotify.com/track/0ZBTWvV6fzGiTnQ1tAYt6m) | [Little Squares](https://open.spotify.com/artist/4OnLBUEcEzKVUJP3hsP3Tk) | [Crinkle Cut](https://open.spotify.com/album/1APBTEuaU8G1xofe63AbGx) | 2:44 | 2022-04-08 | 2022-05-27 |
 | [CupaJoe](https://open.spotify.com/track/3Mdkh1U3f1jBheP7nNlBAa) | [xJ\-Will](https://open.spotify.com/artist/14QbOxlbZBCybkcI60L96Z) | [CupaJoe](https://open.spotify.com/album/0xg4bBhWQksiKERlaIaq02) | 2:40 | 2022-04-08 | 2022-05-27 |
 | [Cut the Corner](https://open.spotify.com/track/0eFMuwqvjTywUzo4deJMVe) | [Luwaks](https://open.spotify.com/artist/74m92HtAJpU0X1B8h54RIr) | [The Northern Saga](https://open.spotify.com/album/6BmunqgCokKgxQhUziKEWJ) | 3:11 | 2022-04-08 | 2022-05-27 |
+| [Czar](https://open.spotify.com/track/6yZHd3WftNMEkQK51mQMrq) | [Slim Rex](https://open.spotify.com/artist/1HuOkLUeW7mCWXf8ZnEVNX) | [Czar](https://open.spotify.com/album/5k2PGTZx2rzpEubPeA0a2r) | 2:39 | 2022-09-02 |  |
 | [Dance with Me](https://open.spotify.com/track/55rn9bs7vZBsEK4Y4URraH) | [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r), [itssvd](https://open.spotify.com/artist/5yaF4LUw7ON1RmE4O8Q03C) | [Love Is the Same as Sadness](https://open.spotify.com/album/4JcORch57yBGLItxgest7E) | 1:27 | 2022-08-05 |  |
 | [Dark Catharsis](https://open.spotify.com/track/6wQH4wMkr5xZ7yA69k9NMK) | [Amro Daly](https://open.spotify.com/artist/2fZLqmy1qsTrcQEeVmm0qj) | [Dark Catharsis](https://open.spotify.com/album/6FVhPiKboFptJyXNt7LBaR) | 2:10 | 2022-04-08 | 2022-05-27 |
 | [Deep Dive](https://open.spotify.com/track/705vJqdDv7N9T4e4Hws030) | [Youth Fossils](https://open.spotify.com/artist/1EdwvYaV7m6bVSEmePPFPc) | [Deep Dive](https://open.spotify.com/album/0Mg3l9tvQ4KFpO5jy3mEL3) | 2:39 | 2022-04-08 | 2022-05-27 |
@@ -63,6 +66,7 @@
 | [Dirt Rhode](https://open.spotify.com/track/0OjrqFG58yjrB01lDkVjJL) | [HATAMITSUNAMI](https://open.spotify.com/artist/6FgjnW0Q1Kx3WEyWfApXmv) | [Dirt Rhode](https://open.spotify.com/album/61uS0CiEDftWmp0hjdXwgm) | 3:05 | 2022-08-05 |  |
 | [Do It Again Kate](https://open.spotify.com/track/38hducVe8xeP4ASuAfabkb) | [Whenever We Awaken](https://open.spotify.com/artist/0EJ64rzG113YSAbZW6gH6D) | [Do It Again Kate](https://open.spotify.com/album/6Xm5sGw2hglJM97U73mjA4) | 2:22 | 2022-04-08 | 2022-05-27 |
 | [Don't Be Afraid](https://open.spotify.com/track/3niRUhcQ4mkqQe4OVdxXW4) | [Clowee](https://open.spotify.com/artist/36AmbXsbnIm9hpzWt15wS7) | [Don't Be Afraid](https://open.spotify.com/album/2kkZtHc44yjGjtAL1i4VLD) | 1:56 | 2022-04-08 |  |
+| [Downheart](https://open.spotify.com/track/0Lp1LrUBqlSYTBf5s6jfTc) | [Michael Tylor](https://open.spotify.com/artist/3U4Nn3hdz5eDPdDQUPW0MM) | [Downheart](https://open.spotify.com/album/3qK5sZYstzW4yt29Tw7Ocl) | 2:09 | 2022-09-02 |  |
 | [Dusk](https://open.spotify.com/track/2lFTXt6gHlFgqOO8PXtagw) | [Unoriginals](https://open.spotify.com/artist/6LUOePAzkWw3iTrAzfiP1d) | [Dusk](https://open.spotify.com/album/2lM5JgM0TfX6avIjk8JXUr) | 2:56 | 2022-04-08 |  |
 | [Earthbound \- Drum Quixote Remix](https://open.spotify.com/track/4CGEmTX3M5IzoLPS9HHMDq) | [7apes](https://open.spotify.com/artist/4smeBjKru2y3oeQkGSfotv), [Joha](https://open.spotify.com/artist/2T1sSXJwmNHFMA3Ytp24PF), [Drum Quixote](https://open.spotify.com/artist/6s5uUqayWTF9ZOfxrElDmy) | [Earthbound \(Drum Quixote Remix\)](https://open.spotify.com/album/6PGrAuCS1nIgkKhhnQjsNf) | 2:25 | 2022-04-08 |  |
 | [Enigma](https://open.spotify.com/track/6ZSJa6ccyXHdMYhh9Y7Mea) | [FØRTE](https://open.spotify.com/artist/46vhqe1g0BJGdspci0dwbF) | [Enigma](https://open.spotify.com/album/1jXQLiD5zNR1gAOafc27bt) | 2:38 | 2022-04-08 |  |
@@ -86,6 +90,7 @@
 | [Gently, Downstream](https://open.spotify.com/track/1v2LaoxIPI1JycaBW48J8K) | [Blazing Paddles](https://open.spotify.com/artist/5Esn6Yce2c50zy7ivizDIf) | [Gently, Downstream](https://open.spotify.com/album/6xwDCeTCaNtOvvS3k2i3Eb) | 1:48 | 2022-04-08 | 2022-05-27 |
 | [Glideslope](https://open.spotify.com/track/6Ib4xM1h7foPUHLJ1amjmW) | [Sikon Avalon](https://open.spotify.com/artist/5YLuxVW2P13TpoUbzwGRx2) | [Flight 747](https://open.spotify.com/album/3Ht7ZdQHo9KnY55GKP0ddh) | 2:04 | 2022-04-08 | 2022-05-27 |
 | [Goodbye Jungle](https://open.spotify.com/track/6grPUbMbj1v8tM0aelZlrl) | [Stronk](https://open.spotify.com/artist/5ZxlK0rUSMMiFFR7JyYQT1) | [Goodbye Jungle](https://open.spotify.com/album/1u34cpiwyqWzRWCfUH9fGF) | 2:13 | 2022-04-08 | 2022-05-27 |
+| [Gunna](https://open.spotify.com/track/0fDl9aKIFx3rIwS4PbDLjE) | [Lindsey Leblanc](https://open.spotify.com/artist/7lPv78tlT005m22dYvSdNg) | [Gunna](https://open.spotify.com/album/6wVP21okgBoS1UbOecKSuM) | 2:49 | 2022-09-02 |  |
 | [Harvest](https://open.spotify.com/track/0GhNhefIBbZpoe3FQmVz2I) | [Minosour](https://open.spotify.com/artist/1cwzQoxtRJWvTDNQc6lc7a) | [Harvest](https://open.spotify.com/album/4NtVGPx6IoLyovOXtdjvHE) | 1:47 | 2022-04-08 |  |
 | [Hats Off](https://open.spotify.com/track/7M44Mj5Csy4IBWbWZUHaHV) | [Elias Riots](https://open.spotify.com/artist/3qEtWl4Gv3BvU2a6s2bJNy) | [Hats Off](https://open.spotify.com/album/0M46HmldM8GjIqW5ZHpYsv) | 3:05 | 2022-05-26 |  |
 | [Have Your Fun](https://open.spotify.com/track/5CLTIJXyJ6xbK5lt7feH5y) | [Ballpoint](https://open.spotify.com/artist/5vbgY6zVUKz1haJv618QvC) | [In the Dash](https://open.spotify.com/album/6TyFUvcYu5FgXLINlnAd2z) | 2:17 | 2022-06-03 |  |
@@ -99,6 +104,7 @@
 | [Jaxxon](https://open.spotify.com/track/0AhsGBXcirKOnkoOnATDuI) | [Hillside Reds](https://open.spotify.com/artist/2UPmPftzM6G8utXa3RQ2MB) | [Jaxxon](https://open.spotify.com/album/2uQPnSPTSyBx4uOd7UyFQY) | 2:57 | 2022-04-08 |  |
 | [Jetset](https://open.spotify.com/track/7dGTXRCBJ3cICSy9hk7BH5) | [BLUE STEEL](https://open.spotify.com/artist/41OiR6DTlbgJtrvqjKioMb) | [Jetset](https://open.spotify.com/album/1dSijj9syslNHC3zNURsB5) | 2:30 | 2022-07-29 |  |
 | [Joker](https://open.spotify.com/track/7CAwp6JcKR1aIZc6unYpOV) | [Screwbar](https://open.spotify.com/artist/4wFYoFRNMyPuk7YbtENoz9) | [Joker](https://open.spotify.com/album/2VoCKMm05uZR0Rxu7Pk28P) | 3:28 | 2022-05-26 |  |
+| [Knotty](https://open.spotify.com/track/11zBN5ADHArSCQgC2ZOfuS) | [\_91nova](https://open.spotify.com/artist/0fZYZqIGnT5RimC1YWfWP2) | [Knotty](https://open.spotify.com/album/0GrmnbP8s71b78UwIKL9AA) | 2:49 | 2022-09-02 |  |
 | [Laugh Away](https://open.spotify.com/track/5HnQ5gbXPjH524zeNn979c) | [Windows 96](https://open.spotify.com/artist/65XcfOOaVxbZnNlz40DK7i) | [Glass Prism](https://open.spotify.com/album/2LCpdfkxAhbDMLlQvb6NlA) | 2:51 | 2022-04-08 | 2022-05-27 |
 | [Laughing](https://open.spotify.com/track/1vGGQsLo0LgyAfDhpHkAku) | [Cushy](https://open.spotify.com/artist/6L1Baujfn33sG3PXou8n1q) | [Motivator](https://open.spotify.com/album/2N2zGpnTCrMqB8qdf5aPxS) | 2:30 | 2022-04-08 |  |
 | [Lauren's Way](https://open.spotify.com/track/6tFJjiCBaLahKH8Z2dXPOU) | [Planetary Alliance](https://open.spotify.com/artist/3esFA7WF237T0nHv9F4yKR) | [Somewhere Special](https://open.spotify.com/album/17w34OO0lRerIO62NbsDLJ) | 2:57 | 2022-04-08 | 2022-05-27 |
@@ -167,8 +173,10 @@
 | [Rushing](https://open.spotify.com/track/1pdKU0AICafQKlNqbPG5KO) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Baies](https://open.spotify.com/album/7MWBmKFXfFEPTGnPHMNOP8) | 2:36 | 2022-04-08 | 2022-05-27 |
 | [Safari of the Mind](https://open.spotify.com/track/4KSfADgE00WidnWhCZm6WI) | [Zebra Daydream](https://open.spotify.com/artist/60cKOZGjA809YVwoBnrp41) | [Safari of the Mind](https://open.spotify.com/album/3MiLjpdp7Xam7nisn6JlDB) | 2:06 | 2022-04-08 |  |
 | [Saturn](https://open.spotify.com/track/36x1ZTVotGKal7CrouiqBl) | [Pink Oak](https://open.spotify.com/artist/18P0Pm5wkx4lfHBG0UnUrO) | [Origi](https://open.spotify.com/album/3z8uJOtd7lN9lQFH5R6TZ8) | 3:55 | 2022-05-26 |  |
+| [Self Sabotage](https://open.spotify.com/track/44RCRlVH7h6QJsezBKjHGN) | [iGirl](https://open.spotify.com/artist/2wz3S9QQx5NnuU0UOEMd70) | [Self Sabotage](https://open.spotify.com/album/1FyPVZbFTETviOhC9c52SH) | 2:42 | 2022-09-02 |  |
 | [Serenade](https://open.spotify.com/track/4UKonMC9CO2XbvgNhnbPL7) | [Krynoze](https://open.spotify.com/artist/3iGthn6RykA9JUHnilAIr0), [H.1](https://open.spotify.com/artist/3azKf6nXrUCI1RLZkX4Aj6) | [Sleepless Night](https://open.spotify.com/album/4RbUBdVqWlbRDXs5D8rBFd) | 2:07 | 2022-08-12 |  |
 | [Serum](https://open.spotify.com/track/3T7QlyJOTh1VqqgGWH5T7Q) | [Moofushi](https://open.spotify.com/artist/040nbVsOxXbFZt3vlgzcNb) | [Serum](https://open.spotify.com/album/6QE03sUqVgNIQHNPFA5V9Q) | 2:27 | 2022-04-08 | 2022-05-27 |
+| [Shady Business](https://open.spotify.com/track/2hfb30t113bde0rFV4rA4S) | [Ryan Celsius Sounds](https://open.spotify.com/artist/2AtYJoC6VmUtkxonmVnbVR), [sword](https://open.spotify.com/artist/7aVAHmMUBvA8a8yKFv8NkC), [haku](https://open.spotify.com/artist/4bPSO3Oj1HPU6T4oIZfGRc) | [Adjust Your Tracking](https://open.spotify.com/album/4WQASjQl8fzEWW2h8hvxwQ) | 2:55 | 2022-09-02 |  |
 | [Shipping Delay](https://open.spotify.com/track/5rmM3XcXEHcPQ3Xl0NjnJq) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Club Fantastic](https://open.spotify.com/album/79FoCOHKpYLTps1AAqiLCV) | 2:17 | 2022-04-08 |  |
 | [Showtime](https://open.spotify.com/track/14pC7BwY6F1i2T9oA4TFjI) | [BLUE STEEL](https://open.spotify.com/artist/41OiR6DTlbgJtrvqjKioMb) | [Starpower](https://open.spotify.com/album/2Pnt9baDF2LhYGqXAmrvaH) | 2:21 | 2022-05-26 |  |
 | [Silky](https://open.spotify.com/track/1sGcWIEHSe8LGialPQqd7S) | [Griefcake](https://open.spotify.com/artist/7eIwiNtHsGoC9N9b0bvUU0) | [Silky](https://open.spotify.com/album/3OH2dH0dM2R2Xpi0MRBrSm) | 2:58 | 2022-04-08 | 2022-05-27 |

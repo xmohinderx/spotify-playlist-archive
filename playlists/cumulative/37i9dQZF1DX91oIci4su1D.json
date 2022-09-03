@@ -201,7 +201,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 209370,
       "name": "All or Nothing",
       "url": "https://open.spotify.com/track/5pUozP7ECHhMLAgRCR9z6y"
@@ -2642,6 +2642,28 @@
     },
     {
       "album": {
+        "name": "Feels Like Home",
+        "url": "https://open.spotify.com/album/2qNzaIxSP07ELzsFOPrspG"
+      },
+      "artists": [
+        {
+          "name": "Andrew Rayel",
+          "url": "https://open.spotify.com/artist/1UtBjqMZBAmqIPlDrKu7Tr"
+        },
+        {
+          "name": "AIDYL",
+          "url": "https://open.spotify.com/artist/63YNSGgVHzU8j43ngzTw1f"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266492,
+      "name": "Feels Like Home",
+      "url": "https://open.spotify.com/track/2OfDYA3xkEQ2fILrBlknHD"
+    },
+    {
+      "album": {
         "name": "Flashing Lights",
         "url": "https://open.spotify.com/album/1pHGFrAqPH3SVkAvcTEeDa"
       },
@@ -3229,7 +3251,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-31",
+      "date_removed": null,
       "duration_ms": 256699,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/0WU0YiTidd4MBZm8k41B92"
@@ -4153,7 +4175,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 197375,
       "name": "Kingdom",
       "url": "https://open.spotify.com/track/3wli1SxtT8HtklAWBnvCm1"
@@ -5567,7 +5589,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 239062,
       "name": "Nezuko",
       "url": "https://open.spotify.com/track/1LJbqEICZeMOZ6OGjgeksi"
@@ -5717,7 +5739,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-30",
+      "date_removed": null,
       "duration_ms": 213043,
       "name": "Nothing Compares To You",
       "url": "https://open.spotify.com/track/0HovEj9ww9qYqKjJGFO9fT"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9H435blNqg.md) - [plain]
 
 > A different shade of the blues\. Cover: Ash Grunwald
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,683 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,738 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9H435blNqg.md) - [plain]
 | 22 | [Under the Big Top](https://open.spotify.com/track/2RPRG4CSmUEKw16kdTNivn) | [Cris Jacobs](https://open.spotify.com/artist/1WAu5oR3vtpCZCbGvhrevc) | [Color Where You Are](https://open.spotify.com/album/1KDIWuNEljTyLIgeMYq0rM) | 3:47 |
 | 23 | [Tell Your Mother](https://open.spotify.com/track/4NrOX0curF1iOa5SUPdN6m) | [Dr JOE](https://open.spotify.com/artist/2hQXLKSqrDLgj3r6LtUU0Y) | [Tell Your Mother](https://open.spotify.com/album/0KyLimkIfVmiJOFGZQ1VWu) | 3:34 |
 | 24 | [Get Gone](https://open.spotify.com/track/6U4XpiZrqaYTVmKKfens2L) | [Swamp](https://open.spotify.com/artist/3JnCy7tffnn9EBDGk8ytQS) | [Don't Say Goodbye](https://open.spotify.com/album/4D1EqPba5ZOyIbYkaWqZR2) | 3:05 |
-| 25 | [Ain't Too Worried Yet](https://open.spotify.com/track/0jf5lyDBbgIU7kt5ULc1ZF) | [Bad Flamingo](https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE) | [Ain't Too Worried Yet](https://open.spotify.com/album/3ifmjG8tSe2MtZzFpmUKg4) | 3:32 |
-| 26 | [Bump that Mother](https://open.spotify.com/track/5UOyPqtOZwwwGIyp375MyE) | [North Mississippi Allstars](https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY) | [Up and Rolling](https://open.spotify.com/album/5jEiXH4G09AiHqBkEm2ZMM) | 3:11 |
+| 25 | [Bump that Mother](https://open.spotify.com/track/5UOyPqtOZwwwGIyp375MyE) | [North Mississippi Allstars](https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY) | [Up and Rolling](https://open.spotify.com/album/5jEiXH4G09AiHqBkEm2ZMM) | 3:11 |
+| 26 | [Ain't Too Worried Yet](https://open.spotify.com/track/0jf5lyDBbgIU7kt5ULc1ZF) | [Bad Flamingo](https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE) | [Ain't Too Worried Yet](https://open.spotify.com/album/3ifmjG8tSe2MtZzFpmUKg4) | 3:32 |
 | 27 | [Healing Creek](https://open.spotify.com/track/4AsrwPkPDdpzjjdr2SDykN) | [Talibah Safiya](https://open.spotify.com/artist/1E0Fc2u5OrryrpF8JH8srS) | [Healing Creek](https://open.spotify.com/album/7dF7ZkpIBrkCMDqFEIEzh6) | 3:11 |
 | 28 | [Deeper Well](https://open.spotify.com/track/0hAnedWjp1nrPXn4yyqp4u) | [Dirtwire](https://open.spotify.com/artist/0hc2qwaU2xy7LUd0FRjcHK) | [Deeper Well](https://open.spotify.com/album/6NxV2YhPxDRC4BQ55luKzQ) | 4:44 |
 | 29 | [Live Forever](https://open.spotify.com/track/3mD05E4WmEnVCC8bQgpQEd) | [Daniel Spaleniak](https://open.spotify.com/artist/2OnWZezIAII3VLBCxG5gQs) | [Tape V](https://open.spotify.com/album/24t3OdqKwiz0ePiBCBsScw) | 2:57 |
@@ -43,20 +43,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9H435blNqg.md) - [plain]
 | 33 | [Homemade Disaster](https://open.spotify.com/track/77jnDAj554H9X82zqhOXYz) | [Sugaray Rayford](https://open.spotify.com/artist/4dctcbWDGbSj1Nn29CV4g3) | [Homemade Disaster](https://open.spotify.com/album/07aWecL4qu105qqgmTbvA1) | 3:14 |
 | 34 | [Good So Bad](https://open.spotify.com/track/5xDXfTxwPm7Zecypbub0Gs) | [Eric Tessmer](https://open.spotify.com/artist/6iX9NroXEFPMatQ24ghK7C) | [Eric Tessmer 2](https://open.spotify.com/album/6P3z7MA4EFR2nC3JLBtesD) | 4:09 |
 | 35 | [Nobody's Wrong](https://open.spotify.com/track/5OPwCl6o8mJUOAti1sz1Ac) | [Gaby Moreno](https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW) | [Nobody's Wrong](https://open.spotify.com/album/2nQsviBF5EfSr3V5zGjjTp) | 3:55 |
-| 36 | [Nothing but a Cliché](https://open.spotify.com/track/7a19ONgUWreV4yZykAy7Ub) | [Black Joe Lewis & The Honeybears](https://open.spotify.com/artist/6kbzJ40luXJ5IKnSpWr7SD) | [The Difference Between Me & You](https://open.spotify.com/album/39vMDQxjFx7HO1O4YdPv5G) | 4:01 |
-| 37 | [Come On](https://open.spotify.com/track/7m1a5EhEx1qA4fWSqRLvaO) | [Artur Menezes](https://open.spotify.com/artist/0NxpILfCjl6UcOxMMMp8fo), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Come On](https://open.spotify.com/album/5UItOyIYBjcLlCESGf9fDX) | 3:45 |
+| 36 | [Come On](https://open.spotify.com/track/7m1a5EhEx1qA4fWSqRLvaO) | [Artur Menezes](https://open.spotify.com/artist/0NxpILfCjl6UcOxMMMp8fo), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Come On](https://open.spotify.com/album/5UItOyIYBjcLlCESGf9fDX) | 3:45 |
+| 37 | [Nothing but a Cliché](https://open.spotify.com/track/7a19ONgUWreV4yZykAy7Ub) | [Black Joe Lewis & The Honeybears](https://open.spotify.com/artist/6kbzJ40luXJ5IKnSpWr7SD) | [The Difference Between Me & You](https://open.spotify.com/album/39vMDQxjFx7HO1O4YdPv5G) | 4:01 |
 | 38 | [Searching for Captain Save a Hoe](https://open.spotify.com/track/2Q2QaeGLf2TC3czLKwv2P9) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13), [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V) | [Have You Lost Your Mind yet?](https://open.spotify.com/album/6b96nRUJmHMTQwK1IK9tJy) | 3:45 |
 | 39 | [Don't Say Goodbye](https://open.spotify.com/track/3vOtFfShTAHO2OMvv7GUxE) | [Swamp](https://open.spotify.com/artist/3JnCy7tffnn9EBDGk8ytQS) | [Don't Say Goodbye](https://open.spotify.com/album/4D1EqPba5ZOyIbYkaWqZR2) | 3:11 |
 | 40 | [Downtown](https://open.spotify.com/track/71dt9Epn88df9wWWdGDqJM) | [Rafferty](https://open.spotify.com/artist/37Kwz8lKQipujhPpz9Q5cQ) | [Downtown](https://open.spotify.com/album/5nqIOgayufE70Iy6i3jke5) | 3:32 |
 | 41 | [Go Crazy \(feat\. Keb' Mo'\)](https://open.spotify.com/track/7G6oI8xoGa62LGvE2xjtfP) | [G\. Love & Special Sauce](https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89), [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [The Juice](https://open.spotify.com/album/66glD8iZgTv1vKXZRGQWXL) | 3:40 |
-| 42 | [Howlin'](https://open.spotify.com/track/19nbRiVVV1nsBlpUmP1Hzp) | [Stealth](https://open.spotify.com/artist/6f3R3mqKR3kHp1KBNMUn80) | [Howlin’](https://open.spotify.com/album/7brvYKnu3a0WFQe1F2cPgd) | 2:56 |
-| 43 | [The Day Took My Sunshine Away](https://open.spotify.com/track/5ZAhCwTNmmcQTFB6GX1DCR) | [Howlin' Sun](https://open.spotify.com/artist/4BH1zbJ2HjPh8g3yrUEcTw) | [Howlin' Sun](https://open.spotify.com/album/2lWyPYPhVuPEd0fOTRHUwS) | 3:01 |
-| 44 | [Sweetwater](https://open.spotify.com/track/1XLZKmNR5HOB78jvDx0iU1) | [Digging Roots](https://open.spotify.com/artist/6jXRPYI1uhTRJKuetXMRpj) | [Sweetwater](https://open.spotify.com/album/4Dj6dQExClkwocUsSrAYMg) | 5:40 |
-| 45 | [This Is My Squad](https://open.spotify.com/track/16FhHjA9XNSQupLwrH6k8n) | [Midnight Riot](https://open.spotify.com/artist/20XwoapKdWs8gkwWKk3vLA) | [This Is My Squad](https://open.spotify.com/album/4BTkSlJR2wNzYznQfKYFff) | 2:55 |
+| 42 | [The Day Took My Sunshine Away](https://open.spotify.com/track/5ZAhCwTNmmcQTFB6GX1DCR) | [Howlin' Sun](https://open.spotify.com/artist/4BH1zbJ2HjPh8g3yrUEcTw) | [Howlin' Sun](https://open.spotify.com/album/2lWyPYPhVuPEd0fOTRHUwS) | 3:01 |
+| 43 | [Howlin'](https://open.spotify.com/track/19nbRiVVV1nsBlpUmP1Hzp) | [Stealth](https://open.spotify.com/artist/6f3R3mqKR3kHp1KBNMUn80) | [Howlin’](https://open.spotify.com/album/7brvYKnu3a0WFQe1F2cPgd) | 2:56 |
+| 44 | [This Is My Squad](https://open.spotify.com/track/16FhHjA9XNSQupLwrH6k8n) | [Midnight Riot](https://open.spotify.com/artist/20XwoapKdWs8gkwWKk3vLA) | [This Is My Squad](https://open.spotify.com/album/4BTkSlJR2wNzYznQfKYFff) | 2:55 |
+| 45 | [Sweetwater](https://open.spotify.com/track/1XLZKmNR5HOB78jvDx0iU1) | [Digging Roots](https://open.spotify.com/artist/6jXRPYI1uhTRJKuetXMRpj) | [Sweetwater](https://open.spotify.com/album/4Dj6dQExClkwocUsSrAYMg) | 5:40 |
 | 46 | [Chocolate Samurai](https://open.spotify.com/track/4UtHodK1fk12jrvPi2pCcP) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [Chocolate Samurai](https://open.spotify.com/album/0iAF0Ac7k0qAZ5AkugkgBX) | 4:55 |
 | 47 | [Hard Feelings](https://open.spotify.com/track/5LkZJ4wPxLFRcqXHTlVtel) | [Cobi](https://open.spotify.com/artist/4fuZypKGg7klMEF10KTuAN) | [Songs From The Ashes](https://open.spotify.com/album/45M1z5jiYIfoTFyMYaNugp) | 4:08 |
 | 48 | [The Juice \(feat\. Marcus King\)](https://open.spotify.com/track/3NQ0Q9VSHzSwwlzFBey6QY) | [G\. Love & Special Sauce](https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89), [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [The Juice](https://open.spotify.com/album/66glD8iZgTv1vKXZRGQWXL) | 3:07 |
-| 49 | [All of It, Again](https://open.spotify.com/track/0OdzIwQTj4BRGaQ7yfvJ6i) | [Katie Buchanan](https://open.spotify.com/artist/45JkiNZMtPXDGoKXzxoPE1) | [All of It, Again](https://open.spotify.com/album/5VQjDyJ416TBS2g8ESxZAI) | 4:03 |
-| 50 | [Going Down](https://open.spotify.com/track/0g2SE4JV2rn8rEzNcwaTgk) | [Black River Delta](https://open.spotify.com/artist/6wuLyOna5Zjh2OYb0ZtLey) | [Going Down](https://open.spotify.com/album/3Gvjf4FDSIqcBScnLI2Kw5) | 3:28 |
+| 49 | [Wishing Well](https://open.spotify.com/track/5pzZNwKYPFrI9UidaDcH9J) | [Jack Broadbent](https://open.spotify.com/artist/2yk5jg6yi5fV6xmUZoBPHU) | [Moonshine Blue](https://open.spotify.com/album/4w7N0SsMduNWCXAIVUONWw) | 2:48 |
+| 50 | [All of It, Again](https://open.spotify.com/track/0OdzIwQTj4BRGaQ7yfvJ6i) | [Katie Buchanan](https://open.spotify.com/artist/45JkiNZMtPXDGoKXzxoPE1) | [All of It, Again](https://open.spotify.com/album/5VQjDyJ416TBS2g8ESxZAI) | 4:03 |
 
-Snapshot ID: `MTY2MTk3NTU4OCwwMDAwMDAwMGE2YWIyNTliMDRhYmMzMGE5NTdiZGQ2NWJiNzRmNmRj`
+Snapshot ID: `MTY2MTk3NTU4OCwwMDAwMDAwMGExMTM1NTc2YTRjZGRkMDkxNjY3ZmExZjJjMDlkYWQ4`

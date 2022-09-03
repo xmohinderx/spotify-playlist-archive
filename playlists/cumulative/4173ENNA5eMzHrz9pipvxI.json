@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: Mike Williams",
+  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: KSHMR",
   "name": "Spinnin' Records Brand New",
   "published_playlist_ids": [
     "5y4MrJJ7gKnIUTSID8FBc6"
@@ -63,6 +63,32 @@
       "duration_ms": 162608,
       "name": "Adiemus",
       "url": "https://open.spotify.com/track/47MMjZQ0ZEHwhU3UXBtC7K"
+    },
+    {
+      "album": {
+        "name": "Alone (feat. John Dory)",
+        "url": "https://open.spotify.com/album/3NVe9dO6ZE4eQtfSf6XT6a"
+      },
+      "artists": [
+        {
+          "name": "LVNDSCAPE",
+          "url": "https://open.spotify.com/artist/2QlwnS23KrBeshXFyK5U6M"
+        },
+        {
+          "name": "Cr3on",
+          "url": "https://open.spotify.com/artist/2kARXKmAASddORKnpXif8j"
+        },
+        {
+          "name": "John Dory",
+          "url": "https://open.spotify.com/artist/6FIweVXB3whIgXmMLkSORg"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166829,
+      "name": "Alone (feat. John Dory)",
+      "url": "https://open.spotify.com/track/2rqaXoQ33zMayzUOrMz4Mn"
     },
     {
       "album": {
@@ -150,6 +176,24 @@
     },
     {
       "album": {
+        "name": "Anywhere's Home",
+        "url": "https://open.spotify.com/album/7s8g5nvFg2wa6a5wFWW0N3"
+      },
+      "artists": [
+        {
+          "name": "KSHMR",
+          "url": "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177436,
+      "name": "Anywhere's Home",
+      "url": "https://open.spotify.com/track/5XZZE1pniUcNCFHgDIdFnZ"
+    },
+    {
+      "album": {
         "name": "Apex",
         "url": "https://open.spotify.com/album/39DFgihpiauLPgVncx2g4J"
       },
@@ -223,7 +267,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 139625,
       "name": "Bad Girls",
       "url": "https://open.spotify.com/track/3RmEZBzLtImE9xRTcBXA0N"
@@ -494,6 +538,32 @@
     },
     {
       "album": {
+        "name": "Burning (feat. Drean)",
+        "url": "https://open.spotify.com/album/3HoEhViWWkxLu2TiYaxmBR"
+      },
+      "artists": [
+        {
+          "name": "STVW",
+          "url": "https://open.spotify.com/artist/3yycPRFMwYENrpe3nw7L4k"
+        },
+        {
+          "name": "Tatsunoshin",
+          "url": "https://open.spotify.com/artist/6dDL4IB1qW60paulrb2ZvP"
+        },
+        {
+          "name": "Drean",
+          "url": "https://open.spotify.com/artist/0fIg6a2SOYU1IY9GOh7wTq"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176250,
+      "name": "Burning (feat. Drean)",
+      "url": "https://open.spotify.com/track/3ZsNaDzCwCv7EUFbhQ6u3U"
+    },
+    {
+      "album": {
         "name": "Campeona (feat. Nicky Jam)",
         "url": "https://open.spotify.com/album/0Somt7nMoN8nsNXz0i3Xts"
       },
@@ -575,7 +645,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 208800,
       "name": "Circles (feat. Jack Dawson)",
       "url": "https://open.spotify.com/track/2JQS3vvTwJLDzB8b1sHHLn"
@@ -751,7 +821,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 157000,
       "name": "Don't Hurt Me (What Is Love)",
       "url": "https://open.spotify.com/track/6Lytqcs0fMmCO8JNewrnbj"
@@ -1133,7 +1203,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 149760,
       "name": "Feel So Good",
       "url": "https://open.spotify.com/track/1BGgJnXB5GKPh4D21Fw00R"
@@ -1163,6 +1233,24 @@
       "duration_ms": 182400,
       "name": "Feel The Same (feat. Jordan Grace)",
       "url": "https://open.spotify.com/track/5bk1ZBDKhPhd4ycGkBWEdG"
+    },
+    {
+      "album": {
+        "name": "Flex Game",
+        "url": "https://open.spotify.com/album/6u0LRF2NPjLvjW9FLLpgK1"
+      },
+      "artists": [
+        {
+          "name": "YO-TKHS",
+          "url": "https://open.spotify.com/artist/4k44uZLHVsaJIrFYVxRhZy"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155624,
+      "name": "Flex Game",
+      "url": "https://open.spotify.com/track/3tHAUjcO4ESpl1lJsMBnI4"
     },
     {
       "album": {
@@ -1353,7 +1441,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 170880,
       "name": "Heartbreak",
       "url": "https://open.spotify.com/track/5HopfU98O15r6TiQorUxSD"
@@ -1434,6 +1522,28 @@
     },
     {
       "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/67l4VMAHwYKctXYBaBM5c9"
+      },
+      "artists": [
+        {
+          "name": "Giorgio Gee",
+          "url": "https://open.spotify.com/artist/2uNkbVQ2yfwLDR79cYe92R"
+        },
+        {
+          "name": "Mojjo",
+          "url": "https://open.spotify.com/artist/6AVyGjQ7gNzSkGlBldHS1j"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168935,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/3ORYzYwZLl446hYx5Ah9To"
+    },
+    {
+      "album": {
         "name": "Hooked (Grafix Remix)",
         "url": "https://open.spotify.com/album/0dHg2rx5kEOYOmprzzLhT8"
       },
@@ -1453,6 +1563,28 @@
       "duration_ms": 201312,
       "name": "Hooked - Grafix Remix",
       "url": "https://open.spotify.com/track/3pRyzfeZ0wmgv7UcYMraAJ"
+    },
+    {
+      "album": {
+        "name": "Hot in Here (SMACK Remix)",
+        "url": "https://open.spotify.com/album/3lJV43qZb6vNNCSDUmNBhd"
+      },
+      "artists": [
+        {
+          "name": "Steff da Campo",
+          "url": "https://open.spotify.com/artist/7Bo6vpAmmhylCRWoHSBkcZ"
+        },
+        {
+          "name": "SMACK",
+          "url": "https://open.spotify.com/artist/5uJw4WCX5nYj4FHky9r1Ug"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139064,
+      "name": "Hot in Here - SMACK Remix",
+      "url": "https://open.spotify.com/track/1wmcrLqxOgMCqkXoaC475K"
     },
     {
       "album": {
@@ -2574,6 +2706,24 @@
     },
     {
       "album": {
+        "name": "My Rhythm",
+        "url": "https://open.spotify.com/album/21rrNc3Wh2EIXBxBxixLVs"
+      },
+      "artists": [
+        {
+          "name": "Madison Mars",
+          "url": "https://open.spotify.com/artist/4gJCFxvqKc43Ifk0UIBB42"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "My Rhythm",
+      "url": "https://open.spotify.com/track/68KqFu8Yvo7Ndrf23glBFo"
+    },
+    {
+      "album": {
         "name": "Mysterious Feeling",
         "url": "https://open.spotify.com/album/5bIXLfS2QHDXVjQ1d5vdma"
       },
@@ -2623,6 +2773,24 @@
       "duration_ms": 156895,
       "name": "Need U (feat. Hannah Boleyn)",
       "url": "https://open.spotify.com/track/3jQm9vFT0rePqjLGdk5B7W"
+    },
+    {
+      "album": {
+        "name": "Nel Blu Dipinto Di Blu (Volare)",
+        "url": "https://open.spotify.com/album/7ylqHsqYGZjrRnQXXb5uJT"
+      },
+      "artists": [
+        {
+          "name": "7 Skies",
+          "url": "https://open.spotify.com/artist/2mmqhYDTD0weseyXUf1QJ5"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161011,
+      "name": "Nel Blu Dipinto Di Blu (Volare)",
+      "url": "https://open.spotify.com/track/5XFSYfKx4JDJuK9ojLrQ7p"
     },
     {
       "album": {
@@ -3043,7 +3211,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 194000,
       "name": "Pyramid - Michael Calfan Remix",
       "url": "https://open.spotify.com/track/0sjQPSuO2Q2qR8lBsmVCkd"
@@ -3343,7 +3511,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 158888,
       "name": "See You Again (Feat. \u00c6J)",
       "url": "https://open.spotify.com/track/08fs5CvDMxpUFCD8IVqC9J"
@@ -3443,7 +3611,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 207096,
       "name": "Silence",
       "url": "https://open.spotify.com/track/3VyagTx2teqJAphMmLOnyR"
@@ -3699,7 +3867,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 195107,
       "name": "Tainted Love",
       "url": "https://open.spotify.com/track/3Mfx6W0pmOBw7UQO0mrD47"
@@ -3823,7 +3991,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 218880,
       "name": "Tengo ganas de ti",
       "url": "https://open.spotify.com/track/1lLeKTdKpvxrICyW4bD95B"
@@ -3899,7 +4067,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 150585,
       "name": "The Music",
       "url": "https://open.spotify.com/track/7rRrrjEaNlQIgZTynvCSn4"
@@ -3947,7 +4115,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 171692,
       "name": "The Ride",
       "url": "https://open.spotify.com/track/6w5VrZqwVBOByJ1ySNVWpu"
@@ -4009,10 +4177,36 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 186260,
       "name": "There\u2019s Nothing Else",
       "url": "https://open.spotify.com/track/3379x2xu9JNFFjY3XFn61Z"
+    },
+    {
+      "album": {
+        "name": "Three Little Birds",
+        "url": "https://open.spotify.com/album/7AulSlkspgPvEqJmjsUqXD"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "Prezioso",
+          "url": "https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr"
+        },
+        {
+          "name": "71 Digits",
+          "url": "https://open.spotify.com/artist/7rYojRyXBLPrX6UWfnAkaC"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156630,
+      "name": "Three Little Birds",
+      "url": "https://open.spotify.com/track/1EytZ5aKjaGDsk8ujrFWoV"
     },
     {
       "album": {
@@ -4079,6 +4273,32 @@
       "duration_ms": 150074,
       "name": "Tik Tok - Dance Mix",
       "url": "https://open.spotify.com/track/5hZpmTrgiAYuT8uwmIIFRS"
+    },
+    {
+      "album": {
+        "name": "Tik Tok (Hard Mix)",
+        "url": "https://open.spotify.com/album/1LFENTzGFGuRXpi418xBFE"
+      },
+      "artists": [
+        {
+          "name": "DJ SODA",
+          "url": "https://open.spotify.com/artist/6wcoqJ63l11D2yV9ViqIZA"
+        },
+        {
+          "name": "LNY TNZ",
+          "url": "https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa"
+        },
+        {
+          "name": "Empira",
+          "url": "https://open.spotify.com/artist/52SEFvQng6XqKFfoE4YcbI"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192037,
+      "name": "Tik Tok - Hard Mix",
+      "url": "https://open.spotify.com/track/16DmuzmqBar7xjyCrdWgya"
     },
     {
       "album": {
@@ -4383,7 +4603,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 136004,
       "name": "We Make It Pop",
       "url": "https://open.spotify.com/track/4VH8x8g1v3BfERMMEHpudm"

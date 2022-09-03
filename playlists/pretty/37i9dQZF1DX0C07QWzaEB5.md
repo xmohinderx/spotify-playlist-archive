@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0C07QWzaEB5.md) - [plain]
 
 > 유행은 돌고 돌아! 레트로에 새로움을 더한 뉴트로 댄스 음악을 즐겨보세요\. \(커버: SUNMI\(선미\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,050 likes - 113 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,059 likes - 113 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0C07QWzaEB5.md) - [plain]
 | 45 | [셀럽파이브 \(셀럽이 되고 싶어\)](https://open.spotify.com/track/3MyHNAUvpUninlj0v0JgeF) | [Celeb Five](https://open.spotify.com/artist/6uxtW6aFdPmCXF6GWbVaOU) | [셀럽파이브 \(셀럽이 되고 싶어\)](https://open.spotify.com/album/53Dc3UlkQWGHZSCoXxv6ul) | 2:28 |
 | 46 | [In The Summer by SSAK3 \(Feat\. Kwang Hee Hwang\)](https://open.spotify.com/track/1MELIJNsr1KyHJOJufbheK) | [SSAK3](https://open.spotify.com/artist/2el9LgZHLeQnXHABBkgb7M), [Kwang Hee Hwang](https://open.spotify.com/artist/2aU36OPcjBFlI8lkXrnxxE) | [In The Summer by SSAK3](https://open.spotify.com/album/6r63LLH5HEEtTE86btnJD8) | 4:41 |
 | 47 | [Play the Summer](https://open.spotify.com/track/3DbJBVdTQb4fFcVnSgirer) | [SSAK3](https://open.spotify.com/artist/2el9LgZHLeQnXHABBkgb7M), [LINDA.G](https://open.spotify.com/artist/0LYQpXDY8mPnFOvyiJGMqh), [B.RYONG](https://open.spotify.com/artist/1nq6zilJc5BG9rRpYQ2Ojo) | [Play the Summer](https://open.spotify.com/album/46yrNWQHbUAdWamoWhu69e) | 3:24 |
-| 48 | [Shutter](https://open.spotify.com/track/3xHp63YdYpsZdprLhDzj9m) | [Celeb Five](https://open.spotify.com/artist/6uxtW6aFdPmCXF6GWbVaOU), [Duck Hwa Lee](https://open.spotify.com/artist/6tSOt2aIfCwzZPWi6dhzEf) | [Shutter](https://open.spotify.com/album/65I3kacETR0ekRVQPqCIhg) | 2:30 |
+| 48 | [Shutter \(Feat\. Duck Hwa Lee\)](https://open.spotify.com/track/3xHp63YdYpsZdprLhDzj9m) | [Celeb Five](https://open.spotify.com/artist/6uxtW6aFdPmCXF6GWbVaOU), [Duck Hwa Lee](https://open.spotify.com/artist/6tSOt2aIfCwzZPWi6dhzEf) | [Shutter](https://open.spotify.com/album/65I3kacETR0ekRVQPqCIhg) | 2:30 |
 | 49 | [Rocking Roll Again](https://open.spotify.com/track/5pUFte88lrOobecyIvce3q) | [Yang Joon Il](https://open.spotify.com/artist/5KGCAzSGrssZtgJ4scOzji) | [Day By Day](https://open.spotify.com/album/5DuujOzUKZmrrlHEFeacts) | 4:08 |
 | 50 | [Winter Miracle](https://open.spotify.com/track/4SbVbMBhKt24Dk4JaLBxqW) | [Kim Areum](https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp) | [WINTER CITY](https://open.spotify.com/album/0bQv27YqKRxlJ9KURup5RV) | 4:08 |
 | 51 | [Cloud \(Feat\. CHOA\)](https://open.spotify.com/track/04VgNw25TChhONXFvgmU2g) | [Primary](https://open.spotify.com/artist/4QDcs3XrA8uHUZ7Xt9Ytep), [ChoA](https://open.spotify.com/artist/4Nw7hgyeIEP5w5ehrMNKpq) | [Boxtape](https://open.spotify.com/album/2YGfI3w6hh0FnjLVd62XAj) | 4:01 |

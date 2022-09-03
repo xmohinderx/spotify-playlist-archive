@@ -424,6 +424,24 @@
     },
     {
       "album": {
+        "name": "Mr Pastel",
+        "url": "https://open.spotify.com/album/3eJ9plo4KC2KpaCBdoIq6d"
+      },
+      "artists": [
+        {
+          "name": "Cmd q",
+          "url": "https://open.spotify.com/artist/6XiXz5Vit02rmpr0M9SzMG"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139764,
+      "name": "bumblebee",
+      "url": "https://open.spotify.com/track/0414qFBnnYgVdeAvPHzy9a"
+    },
+    {
+      "album": {
         "name": "By The Sea",
         "url": "https://open.spotify.com/album/5pavzX2gjNmw3ZM1J13blP"
       },
@@ -740,6 +758,24 @@
     },
     {
       "album": {
+        "name": "daydreamer",
+        "url": "https://open.spotify.com/album/1GgCmTQ8Gar7oKEqrkZBVY"
+      },
+      "artists": [
+        {
+          "name": "Patient Zero Beats",
+          "url": "https://open.spotify.com/artist/6PXzb9jaG5bAOY7ccICh47"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132272,
+      "name": "daydreamer",
+      "url": "https://open.spotify.com/track/5F8AIxDJRMmr4dBo4B340I"
+    },
+    {
+      "album": {
         "name": "Digital lounge",
         "url": "https://open.spotify.com/album/1Lbp8hXI1Q1LSCfpwGZfVt"
       },
@@ -935,7 +971,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 182400,
       "name": "Equinox",
       "url": "https://open.spotify.com/track/1MigtSyEza4JpqoIUyGOjr"
@@ -1022,6 +1058,24 @@
     },
     {
       "album": {
+        "name": "feel better",
+        "url": "https://open.spotify.com/album/4gfzQRMU4h2zuZEeaQHfNP"
+      },
+      "artists": [
+        {
+          "name": "youngneko",
+          "url": "https://open.spotify.com/artist/3S5WZf3AJExUrR6vzHH1bL"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83136,
+      "name": "feel better",
+      "url": "https://open.spotify.com/track/2APoCwZ3G1JIQnU3Vsjay7"
+    },
+    {
+      "album": {
         "name": "Feelin' like a Bird",
         "url": "https://open.spotify.com/album/2CknlfaLh3N4NFJeUkT99C"
       },
@@ -1073,7 +1127,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 125714,
       "name": "First Blossoms",
       "url": "https://open.spotify.com/track/2ydYzoDJ6zJO8CAx5XVTPB"
@@ -1739,7 +1793,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 176875,
       "name": "Long Way Home",
       "url": "https://open.spotify.com/track/4B0rDSA8jga7wjmKaSIHYj"
@@ -2395,7 +2449,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 136363,
       "name": "Pizzazz",
       "url": "https://open.spotify.com/track/2uv5i2WtcA6TxsMO9YIQBR"
@@ -2618,6 +2672,28 @@
     },
     {
       "album": {
+        "name": "Regentanz",
+        "url": "https://open.spotify.com/album/389Qf3Sqsp3IqlYp93GWMr"
+      },
+      "artists": [
+        {
+          "name": "squeeda",
+          "url": "https://open.spotify.com/artist/0rgPemi3mvhFTP6R5nQ2tt"
+        },
+        {
+          "name": "Ben Bada Boom",
+          "url": "https://open.spotify.com/artist/0sN3N3h3Ti2BTwqrenBhU2"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150652,
+      "name": "Regentanz",
+      "url": "https://open.spotify.com/track/4XOJgL24yzwZ92Wxl78oiM"
+    },
+    {
+      "album": {
         "name": "Remain",
         "url": "https://open.spotify.com/album/7hC4FhRas3FdiYrQAOGSos"
       },
@@ -2691,6 +2767,28 @@
       "duration_ms": 92368,
       "name": "Rites of Summer - All Love",
       "url": "https://open.spotify.com/track/5wnlOiHUL6ihduM0jRpiul"
+    },
+    {
+      "album": {
+        "name": "Rose Garden",
+        "url": "https://open.spotify.com/album/2MpI1lAwlHJXOTq3I0E6Xu"
+      },
+      "artists": [
+        {
+          "name": "Aschen",
+          "url": "https://open.spotify.com/artist/2EbcgO69SwHoTLvjsi9OZt"
+        },
+        {
+          "name": "Nessen",
+          "url": "https://open.spotify.com/artist/2WX7ariBgaxbv7XOjO8GGt"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120250,
+      "name": "Rose Garden",
+      "url": "https://open.spotify.com/track/0h1ejKTkczqPpAaikKRpvJ"
     },
     {
       "album": {
@@ -2799,7 +2897,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 118588,
       "name": "Seasons Change",
       "url": "https://open.spotify.com/track/3Vdunna1LcFXyvLE50j5oK"
@@ -2901,6 +2999,24 @@
       "duration_ms": 135384,
       "name": "Shinin'",
       "url": "https://open.spotify.com/track/2s7rlnKjJJ8b8UskCtZ7VQ"
+    },
+    {
+      "album": {
+        "name": "Show me how good it can get",
+        "url": "https://open.spotify.com/album/51pm8RProx32idqbwg34n0"
+      },
+      "artists": [
+        {
+          "name": "Sarah, the Illstrumentalist",
+          "url": "https://open.spotify.com/artist/4D8x1OO5HeS7yQaSoSbAc6"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134541,
+      "name": "Show Me How Good It Can Get",
+      "url": "https://open.spotify.com/track/6oXmftIjSNes0BS1s4xHHI"
     },
     {
       "album": {
@@ -3079,6 +3195,24 @@
       "duration_ms": 116593,
       "name": "Something Has Happened",
       "url": "https://open.spotify.com/track/5irlm4HR7wslp9BTuMlLQo"
+    },
+    {
+      "album": {
+        "name": "star drive",
+        "url": "https://open.spotify.com/album/7p2Q3tN2DHenlhsWW2uZ87"
+      },
+      "artists": [
+        {
+          "name": "Arthur Wu",
+          "url": "https://open.spotify.com/artist/3FvtuXFdOgdAl7Gsi91GFV"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121739,
+      "name": "star drive",
+      "url": "https://open.spotify.com/track/1D1RwQ2Lt5F4gSsTApjoij"
     },
     {
       "album": {
@@ -3379,7 +3513,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 170124,
       "name": "Technical Difficulties",
       "url": "https://open.spotify.com/track/6H74zmY905gEiWHNJ7Y60A"
@@ -3611,6 +3745,24 @@
       "duration_ms": 147796,
       "name": "treetops and flip flops",
       "url": "https://open.spotify.com/track/7B9XrqqtZSiWyrBC5QLEKY"
+    },
+    {
+      "album": {
+        "name": "undefined",
+        "url": "https://open.spotify.com/album/3qJIV0suS9ltJYxEXB1dQF"
+      },
+      "artists": [
+        {
+          "name": "Twinkz",
+          "url": "https://open.spotify.com/artist/1uAbd4UZwniPiJefEpZfm9"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101647,
+      "name": "undefined",
+      "url": "https://open.spotify.com/track/4RzY9ZLhrqDwsbTl69va0t"
     },
     {
       "album": {

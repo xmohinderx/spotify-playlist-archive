@@ -728,6 +728,32 @@
     },
     {
       "album": {
+        "name": "Schubert: An die Musik",
+        "url": "https://open.spotify.com/album/6K7RrW6kZRi2rPENw76pDG"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Bryn Terfel",
+          "url": "https://open.spotify.com/artist/6ILd69yy67k6OU7cwpGNSl"
+        },
+        {
+          "name": "Malcolm Martineau",
+          "url": "https://open.spotify.com/artist/1i6erSbtyzD87TZVxLSiC2"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266000,
+      "name": "Erlk\u00f6nig, D. 328 (Op. 1)",
+      "url": "https://open.spotify.com/track/1GVhRtMmS41aYQL45lhmeC"
+    },
+    {
+      "album": {
         "name": "The Art of Bryn Terfel",
         "url": "https://open.spotify.com/album/6yRuumFzQ643PKEJQjqR3E"
       },
@@ -751,32 +777,6 @@
       "duration_ms": 263000,
       "name": "Erlk\u00f6nig, D. 328 (Op.1)",
       "url": "https://open.spotify.com/track/4oomOHx8NgPq2flBcGxtxD"
-    },
-    {
-      "album": {
-        "name": "Schubert: An die Musik",
-        "url": "https://open.spotify.com/album/6K7RrW6kZRi2rPENw76pDG"
-      },
-      "artists": [
-        {
-          "name": "Franz Schubert",
-          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
-        },
-        {
-          "name": "Bryn Terfel",
-          "url": "https://open.spotify.com/artist/6ILd69yy67k6OU7cwpGNSl"
-        },
-        {
-          "name": "Malcolm Martineau",
-          "url": "https://open.spotify.com/artist/1i6erSbtyzD87TZVxLSiC2"
-        }
-      ],
-      "date_added": "2022-07-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 266000,
-      "name": "Erlk\u00f6nig, D. 328 (Op.1)",
-      "url": "https://open.spotify.com/track/1GVhRtMmS41aYQL45lhmeC"
     },
     {
       "album": {

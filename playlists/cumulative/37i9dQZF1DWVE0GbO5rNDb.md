@@ -4,7 +4,7 @@
 
 > Musica dance per le tue giornate di sole!
 
-208 songs - 10 hr 17 min - [published](https://open.spotify.com/playlist/3Pw35BSQu6TzKW6AUFPPlG)
+209 songs - 10 hr 20 min - [published](https://open.spotify.com/playlist/3Pw35BSQu6TzKW6AUFPPlG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Feels Like Love \(feat\. MIYA MIYA\)](https://open.spotify.com/track/4R4gOp9ybG85RqbrY7JELc) | [Syn Cole](https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH), [MIYA MIYA](https://open.spotify.com/artist/62T4eJZxaNKzBzm8qbNnBy) | [Feels Like Love \(feat\. MIYA MIYA\)](https://open.spotify.com/album/5Xwq3PGZ30tYPIK402Bp29) | 2:49 | 2022-05-06 |  |
 | [For Your Love](https://open.spotify.com/track/6viAMV0RuBb5nmzpPlYMAJ) | [Dualities](https://open.spotify.com/artist/7qplXWyxHyxChnW37jxBxt) | [For Your Love](https://open.spotify.com/album/0dwCZmrxAzntiQ7x35ZG5U) | 3:04 | 2022-05-06 | 2022-07-27 |
 | [Friends for the Night](https://open.spotify.com/track/0GJ4JP6rPe5gnyMd8jlJwi) | [DJ Ross](https://open.spotify.com/artist/70yj8eIE94z38CM2kfsXQL), [Poul](https://open.spotify.com/artist/3c4NvPspCtP5coqUMzZtHj) | [Friends for the Night](https://open.spotify.com/album/2d0YZ32L3faRzz7F0GqZLJ) | 3:48 | 2022-05-06 | 2022-05-18 |
+| [Future In Your Hands \(feat\. Aloe Blacc\)](https://open.spotify.com/track/5A52bfa9VVfTTfwLpxopz6) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [David Solomon](https://open.spotify.com/artist/3fzRb5i8Wn7ao2KPDxEiTR), [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Future In Your Hands \(feat\. Aloe Blacc\)](https://open.spotify.com/album/7s2UFHl1FHu2AkD6pVXxMn) | 3:41 | 2022-08-26 |  |
 | [Getting Started \(na Na Na\)](https://open.spotify.com/track/1pnrvsZv43qQXlrI7v8OYF) | [Daven](https://open.spotify.com/artist/4GYIIO926bKxfNYmOyuYzg) | [Getting Started \(na Na Na\)](https://open.spotify.com/album/6Nf7reowikJWukCQBYbVSM) | 2:45 | 2022-05-06 | 2022-07-29 |
 | [Girl](https://open.spotify.com/track/0WAgwdyjTwx2TT55W8z8lu) | [KC Lights](https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ) | [Girl](https://open.spotify.com/album/2AqUNG1UqSQrik7Q3YWCNm) | 2:39 | 2022-05-06 | 2022-07-29 |
 | [GO](https://open.spotify.com/track/2s0lm5AwB5xoul4SOftEMw) | [Faruk Orakci](https://open.spotify.com/artist/2jjH04yNhYlg9ELbQnzEGe) | [GO](https://open.spotify.com/album/6cQ8DdwVVQgD4WmPQ4X8MK) | 2:31 | 2022-05-30 | 2022-07-09 |
@@ -129,7 +130,7 @@
 | [Nirvana](https://open.spotify.com/track/5zEAGm4yKQ8NMemN0m3rW1) | [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Nirvana](https://open.spotify.com/album/4VrGw3dww2O6U0hZTXOHae) | 2:37 | 2022-05-06 |  |
 | [No Diggity](https://open.spotify.com/track/32PKQDEaouIIOlNZ5umoR6) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [Blackstreet](https://open.spotify.com/artist/2P3cjUru4H3fhSXXNxE9kA) | [No Diggity](https://open.spotify.com/album/1x66drtf4CW5onOaeS0oz3) | 2:48 | 2022-05-06 |  |
 | [No One Compares To You](https://open.spotify.com/track/4cZ3UsiKd1kUQIaq4BFIj2) | [Jack & Jack](https://open.spotify.com/artist/1INuLZXjjVbcJRyWvD1iSq) | [A Good Friend Is Nice](https://open.spotify.com/album/0mjAkDF5xXelx7EOUthdRk) | 3:02 | 2022-07-22 |  |
-| [Not Ok](https://open.spotify.com/track/6aoGtdWXBkYQ2O2wnyIz2x) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Not Ok](https://open.spotify.com/album/3GTuto6NDtZegL6idSk183) | 3:30 | 2022-07-22 |  |
+| [Not Ok](https://open.spotify.com/track/6aoGtdWXBkYQ2O2wnyIz2x) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Not Ok](https://open.spotify.com/album/3GTuto6NDtZegL6idSk183) | 3:30 | 2022-07-22 | 2022-09-03 |
 | [Okay](https://open.spotify.com/track/71H8k9qe7DersxR6KyhUnI) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [MARF](https://open.spotify.com/artist/6y1eDna5tYFgcvKyGhLCy7), [Wulf](https://open.spotify.com/artist/134sCDSe1w2zPnfCG4hT0f) | [Okay](https://open.spotify.com/album/7d5FKzrSPqpKczy9IP5zOE) | 2:31 | 2022-05-06 |  |
 | [On Me \(feat\. Ava Max\)](https://open.spotify.com/track/7k6tAZp4m93oswrPqSfBbc) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [SCOOB! The Album](https://open.spotify.com/album/2Zg5xZo3WwIoAZys8OcUpG) | 2:44 | 2022-07-22 |  |
 | [One More Time](https://open.spotify.com/track/4rQSkio3a0iiLSEuoWMwOF) | [STO CULTR](https://open.spotify.com/artist/3rxaya7knZ0iL2myO6CX6G), [Andrelli](https://open.spotify.com/artist/5M2y5A6d5QZjw9JeKClagC) | [One More Time](https://open.spotify.com/album/6oG8wiEJIcBjXehs0lbiLN) | 2:57 | 2022-05-17 | 2022-07-27 |

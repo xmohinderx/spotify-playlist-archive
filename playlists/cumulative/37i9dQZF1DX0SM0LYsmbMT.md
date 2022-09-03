@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-2,993 songs - 4 day 19 hr 58 min - [published](https://open.spotify.com/playlist/4FZOsh0k87PdUUgkQvLPTB)
+2,994 songs - 4 day 20 hr 0 min - [published](https://open.spotify.com/playlist/4FZOsh0k87PdUUgkQvLPTB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -475,6 +475,7 @@
 | [Chirps](https://open.spotify.com/track/6CnuhgK2L3JX19GlCl019Q) | [catch92](https://open.spotify.com/artist/3yXLoJ2Yak6kiuXbSIssRo) | [Chirps](https://open.spotify.com/album/2lhTWmrIIDDUJ96T83kXMt) | 1:58 | 2021-03-02 | 2021-07-09 |
 | [Chiyo](https://open.spotify.com/track/1kd6vdfLCJFEqjEPRXEggo) | [IAMPAUL](https://open.spotify.com/artist/1mBlZPMpRL8wT9aHBnBBph) | [Kyūta EP \#1](https://open.spotify.com/album/5gf7IxCPfDUxA8GUQjD3d3) | 2:42 | 2020-09-25 | 2021-04-30 |
 | [Chocolata](https://open.spotify.com/track/2h3lDwbjavbLGIOi8fyGVo) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE), [Knowsum](https://open.spotify.com/artist/5n286gaq2TJok5XfBjSX7q) | [Chocolata / Dark Hole Funk](https://open.spotify.com/album/5nCzqAC8iMj6KyhWI8giGD) | 1:49 | 2021-02-26 | 2021-03-19 |
+| [Chorozinho](https://open.spotify.com/track/209NUwzoKrI55HWQlNgLZ6) | [Chancla](https://open.spotify.com/artist/1GzwYC8JgtfOTyvAiiuGNs) | [Chorozinho](https://open.spotify.com/album/31E8HYZ2bBPm3nrzV3Meko) | 2:15 | 2022-09-01 |  |
 | [Chrome](https://open.spotify.com/track/4QwB3OnOhUGuS8kDBEcYb5) | [7apes](https://open.spotify.com/artist/4smeBjKru2y3oeQkGSfotv) | [Chrome](https://open.spotify.com/album/6ziGVeyn9fyD29jpFJueTw) | 1:43 | 2019-12-04 | 2020-03-20 |
 | [Chrome](https://open.spotify.com/track/2OefumgVvzNNF1E1w0T1Cq) | [midnight alpha.](https://open.spotify.com/artist/5bGpu7IGzmlPjg4cCx85tK), [nogems](https://open.spotify.com/artist/1BKtdC55I0ipTBft6RKMvF) | [Chrome](https://open.spotify.com/album/5rEJafuH9pLYT8gM6cBOgI) | 3:08 | 2022-03-17 | 2022-06-09 |
 | [Cidade](https://open.spotify.com/track/5EThnlyGxPua0H7YuUbWf2) | [Jakspin](https://open.spotify.com/artist/3PLqmSa29zyLdTGINzLqCZ) | [Cidade](https://open.spotify.com/album/6maNGK01dHqiWelCJFLWP5) | 2:10 | 2021-04-09 |  |
@@ -1551,7 +1552,7 @@
 | [Macchina Infinita](https://open.spotify.com/track/0O02t69SS3c8JEQwmJoADM) | [damaa.beats](https://open.spotify.com/artist/4zSHueBRkrGzbb5p9J74dY) | [Macchina Infinita](https://open.spotify.com/album/11036KOn5cjHXT1BVwTzi8) | 1:54 | 2021-04-09 | 2021-08-27 |
 | [Macintosh](https://open.spotify.com/track/4mAuP7hMw6FbDTVAo3DazH) | [A S T R O](https://open.spotify.com/artist/35iqidtNbi2CzifmDD4URB) | [Macintosh](https://open.spotify.com/album/2VIq3ir5aNQOa8MLSIVWrM) | 2:08 | 2019-10-11 | 2020-03-13 |
 | [Magic Experience](https://open.spotify.com/track/1aCCAjPxrOgqIQWIXdDS36) | [Marcos Caixa](https://open.spotify.com/artist/2MnrAvsTKE41QWJzhqNmq5) | [Magic Experience](https://open.spotify.com/album/1r7mrHKrAktjcCH0a1YreY) | 2:09 | 2020-05-15 | 2020-07-28 |
-| [Magnificent Minds](https://open.spotify.com/track/5qtNshZntEZX5szPbTcSio) | [mädmäx](https://open.spotify.com/artist/6e1SIZMnXuUFsXt7xMbkg0) | [Magnificent Minds](https://open.spotify.com/album/4mDUULtAAfTZYnGb83fNHn) | 1:28 | 2022-03-24 |  |
+| [Magnificent Minds](https://open.spotify.com/track/5qtNshZntEZX5szPbTcSio) | [mädmäx](https://open.spotify.com/artist/6e1SIZMnXuUFsXt7xMbkg0) | [Magnificent Minds](https://open.spotify.com/album/4mDUULtAAfTZYnGb83fNHn) | 1:28 | 2022-03-24 | 2022-09-03 |
 | [Magnifico Disastro](https://open.spotify.com/track/2MOMbPmESd5YkmNz8LjKAe) | [XXIII](https://open.spotify.com/artist/1iMewV5kCtODzBgKmPnIq7), [Silvaa.beats](https://open.spotify.com/artist/3TpGusolSBzkwFqtj9Kwre) | [Me And Myself](https://open.spotify.com/album/2dBNeVqZCCIu27Oy05SuMH) | 1:20 | 2022-05-05 |  |
 | [Magnifying](https://open.spotify.com/track/7fzBwaENsIzmYQnkNXtqPj) | [Sam Cross](https://open.spotify.com/artist/4RY9rfaEmLMXM3RaVC4HLd), [JinSei](https://open.spotify.com/artist/3wptMvKU4cdKcFcEp5qpXM), [Tibeauthetraveler](https://open.spotify.com/artist/1csp9v9FfSxU0LcBtfWFCb) | [Magnifying](https://open.spotify.com/album/0uXdmNTZi2OEpIgDqBItgG) | 1:53 | 2021-04-30 |  |
 | [Magnolia](https://open.spotify.com/track/1y4NPa7tnW7lJ5Y65s4yJQ) | [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL) | [Magnolia](https://open.spotify.com/album/4qnlB5YWITqx5i3YWWmaVy) | 2:24 | 2021-03-14 | 2021-07-23 |

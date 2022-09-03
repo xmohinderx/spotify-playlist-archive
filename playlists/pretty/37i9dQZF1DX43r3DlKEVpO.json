@@ -1,12 +1,12 @@
 {
   "description": "Uma sele\u00e7\u00e3o para as m\u00e3es e os pais cantarem junto com os filhos e vice-versa.",
-  "num_followers": 59106,
+  "num_followers": 59121,
   "original_name": "Pais e Filhos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDYxMzEyOCwwMDAwMDAwMDNmNmQyODU4NDVlZWM4MjAxNGI2MTE3YjYzMDczNmQ3",
+  "snapshot_id": "MTY1NDYxMzEyOCwwMDAwMDAwMDZhNTUxZTk5Mjc3ODFkOGVhZmQ4ZTkyMzgzZDIzNjYy",
   "tracks": [
     {
       "added_at": "2021-08-18 22:14:03",
@@ -259,22 +259,6 @@
     {
       "added_at": "2021-08-18 22:14:03",
       "album": {
-        "name": "Pet Sounds (Original Mono & Stereo Mix Versions)",
-        "url": "https://open.spotify.com/album/6GphKx2QAPRoVGWE9D7ou8"
-      },
-      "artists": [
-        {
-          "name": "The Beach Boys",
-          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
-        }
-      ],
-      "duration_ms": 153205,
-      "name": "Wouldn't It Be Nice - Remastered 2000 / Stereo Mix",
-      "url": "https://open.spotify.com/track/2Gy7qnDwt8Z3MNxqat4CsK"
-    },
-    {
-      "added_at": "2021-08-18 22:14:03",
-      "album": {
         "name": "Transformer",
         "url": "https://open.spotify.com/album/5SqbMEyAt8332ISGiLX0St"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 138386,
       "name": "Blackbird - Remastered 2009",
       "url": "https://open.spotify.com/track/5jgFfDIR6FR0gvlA56Nakr"
+    },
+    {
+      "added_at": "2021-08-18 22:14:03",
+      "album": {
+        "name": "Pet Sounds (Original Mono & Stereo Mix Versions)",
+        "url": "https://open.spotify.com/album/6GphKx2QAPRoVGWE9D7ou8"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "duration_ms": 153205,
+      "name": "Wouldn't It Be Nice - Remastered 2000 / Stereo Mix",
+      "url": "https://open.spotify.com/track/2Gy7qnDwt8Z3MNxqat4CsK"
     },
     {
       "added_at": "2021-08-18 22:14:03",
@@ -387,6 +387,22 @@
     {
       "added_at": "2021-08-18 22:14:03",
       "album": {
+        "name": "The Beatles (Remastered)",
+        "url": "https://open.spotify.com/album/1klALx0u4AavZNEvC4LrTL"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 188960,
+      "name": "Ob-La-Di, Ob-La-Da - Remastered 2009",
+      "url": "https://open.spotify.com/track/1gFNm7cXfG1vSMcxPpSxec"
+    },
+    {
+      "added_at": "2021-08-18 22:14:03",
+      "album": {
         "name": "Cheap Thrills",
         "url": "https://open.spotify.com/album/2rogKfOpmCFuqNhtGKf2dX"
       },
@@ -407,22 +423,6 @@
     {
       "added_at": "2021-08-18 22:14:03",
       "album": {
-        "name": "Smiley Smile (Remastered)",
-        "url": "https://open.spotify.com/album/37rNuexqEXWeSIOiJtn3A9"
-      },
-      "artists": [
-        {
-          "name": "The Beach Boys",
-          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
-        }
-      ],
-      "duration_ms": 219026,
-      "name": "Good Vibrations - Remastered 2001",
-      "url": "https://open.spotify.com/track/5t9KYe0Fhd5cW6UYT4qP8f"
-    },
-    {
-      "added_at": "2021-08-18 22:14:03",
-      "album": {
         "name": "Can't Get Enough",
         "url": "https://open.spotify.com/album/42Si9RbdXYGWQsfNTzjlnG"
       },
@@ -439,18 +439,18 @@
     {
       "added_at": "2021-08-18 22:14:03",
       "album": {
-        "name": "The Beatles (Remastered)",
-        "url": "https://open.spotify.com/album/1klALx0u4AavZNEvC4LrTL"
+        "name": "Surfin' USA (Remastered)",
+        "url": "https://open.spotify.com/album/6u5tGarzvESDsQiIpC4SlI"
       },
       "artists": [
         {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
         }
       ],
-      "duration_ms": 188960,
-      "name": "Ob-La-Di, Ob-La-Da - Remastered 2009",
-      "url": "https://open.spotify.com/track/1gFNm7cXfG1vSMcxPpSxec"
+      "duration_ms": 149373,
+      "name": "Surfin' U.S.A. - Remastered 2001",
+      "url": "https://open.spotify.com/track/0wz1LjDb9ZNEYwOmDJ3Q4b"
     },
     {
       "added_at": "2021-08-18 22:14:03",
@@ -535,6 +535,22 @@
     {
       "added_at": "2021-08-18 22:14:03",
       "album": {
+        "name": "Smiley Smile (Remastered)",
+        "url": "https://open.spotify.com/album/37rNuexqEXWeSIOiJtn3A9"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "duration_ms": 219026,
+      "name": "Good Vibrations - Remastered 2001",
+      "url": "https://open.spotify.com/track/5t9KYe0Fhd5cW6UYT4qP8f"
+    },
+    {
+      "added_at": "2021-08-18 22:14:03",
+      "album": {
         "name": "Where Did Our Love Go",
         "url": "https://open.spotify.com/album/05pI1Rx1HQ4KA0a0e3PJlV"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 158040,
       "name": "Baby Love",
       "url": "https://open.spotify.com/track/5uES1C2NgkdrNHiCwf9jRr"
-    },
-    {
-      "added_at": "2021-08-18 22:14:03",
-      "album": {
-        "name": "Surfin' USA (Remastered)",
-        "url": "https://open.spotify.com/album/6u5tGarzvESDsQiIpC4SlI"
-      },
-      "artists": [
-        {
-          "name": "The Beach Boys",
-          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
-        }
-      ],
-      "duration_ms": 149373,
-      "name": "Surfin' U.S.A. - Remastered 2001",
-      "url": "https://open.spotify.com/track/0wz1LjDb9ZNEYwOmDJ3Q4b"
     },
     {
       "added_at": "2021-08-18 22:14:03",
@@ -679,22 +679,6 @@
     {
       "added_at": "2021-08-18 22:14:03",
       "album": {
-        "name": "Lulu Ac\u00fastico",
-        "url": "https://open.spotify.com/album/14xCfgcBE9uCrwwR36NoVB"
-      },
-      "artists": [
-        {
-          "name": "Lulu Santos",
-          "url": "https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1"
-        }
-      ],
-      "duration_ms": 224906,
-      "name": "Tempos Modernos",
-      "url": "https://open.spotify.com/track/1TIvODlICRKM5uhbKbNFGA"
-    },
-    {
-      "added_at": "2021-08-18 22:14:03",
-      "album": {
         "name": "Pet Sounds (Original Mono & Stereo Mix Versions)",
         "url": "https://open.spotify.com/album/6GphKx2QAPRoVGWE9D7ou8"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 173040,
       "name": "God Only Knows - Mono / 1997 Remastered",
       "url": "https://open.spotify.com/track/6iGU74CwXuT4XVepjc9Emf"
+    },
+    {
+      "added_at": "2021-08-18 22:14:03",
+      "album": {
+        "name": "Lulu Ac\u00fastico",
+        "url": "https://open.spotify.com/album/14xCfgcBE9uCrwwR36NoVB"
+      },
+      "artists": [
+        {
+          "name": "Lulu Santos",
+          "url": "https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1"
+        }
+      ],
+      "duration_ms": 224906,
+      "name": "Tempos Modernos",
+      "url": "https://open.spotify.com/track/1TIvODlICRKM5uhbKbNFGA"
     },
     {
       "added_at": "2021-08-18 22:14:03",
@@ -839,22 +839,6 @@
     {
       "added_at": "2021-08-18 22:14:03",
       "album": {
-        "name": "Elvis 30 #1 Hits",
-        "url": "https://open.spotify.com/album/0QVoYzGd1p8Z3ohEaM0lsc"
-      },
-      "artists": [
-        {
-          "name": "Elvis Presley",
-          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
-        }
-      ],
-      "duration_ms": 194600,
-      "name": "It's Now or Never",
-      "url": "https://open.spotify.com/track/1XunTmhOcj3xwh4b8P3isX"
-    },
-    {
-      "added_at": "2021-08-18 22:14:03",
-      "album": {
         "name": "Chico Buarque",
         "url": "https://open.spotify.com/album/4K3E5bhJb92E7eyeIJ16QR"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 235546,
       "name": "Apesar De Voc\u00ea",
       "url": "https://open.spotify.com/track/2GAFZG9Z7UGS1iMm4Idrnr"
+    },
+    {
+      "added_at": "2021-08-18 22:14:03",
+      "album": {
+        "name": "Elvis 30 #1 Hits",
+        "url": "https://open.spotify.com/album/0QVoYzGd1p8Z3ohEaM0lsc"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "duration_ms": 194600,
+      "name": "It's Now or Never",
+      "url": "https://open.spotify.com/track/1XunTmhOcj3xwh4b8P3isX"
     },
     {
       "added_at": "2021-08-18 22:14:03",
@@ -947,26 +947,6 @@
     {
       "added_at": "2021-08-18 22:14:03",
       "album": {
-        "name": "The Wonder of You: Elvis Presley with the Royal Philharmonic Orchestra",
-        "url": "https://open.spotify.com/album/6oWz2hJ89n9mKarg3SO9ou"
-      },
-      "artists": [
-        {
-          "name": "Elvis Presley",
-          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
-        },
-        {
-          "name": "Royal Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
-        }
-      ],
-      "duration_ms": 217746,
-      "name": "Always on My Mind - with The Royal Philharmonic Orchestra",
-      "url": "https://open.spotify.com/track/1EIvjDvoKjwhokJsigvleb"
-    },
-    {
-      "added_at": "2021-08-18 22:14:03",
-      "album": {
         "name": "As Can\u00e7\u00f5es Que Voc\u00ea Fez Pra Mim",
         "url": "https://open.spotify.com/album/0mTRjtWGKiGmfEDmzcpII6"
       },
@@ -979,6 +959,22 @@
       "duration_ms": 224773,
       "name": "As Can\u00e7\u00f5es Que Voc\u00ea Fez Pra Mim",
       "url": "https://open.spotify.com/track/52V2BPdhlhFrUZF7AOrQP9"
+    },
+    {
+      "added_at": "2021-08-18 22:14:03",
+      "album": {
+        "name": "Tim Maia 1971",
+        "url": "https://open.spotify.com/album/1crN3RnAw8N6BztzuEAo8A"
+      },
+      "artists": [
+        {
+          "name": "Tim Maia",
+          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
+        }
+      ],
+      "duration_ms": 244178,
+      "name": "Voc\u00ea",
+      "url": "https://open.spotify.com/track/5c12DVTlsyFbxmysLw0Vll"
     },
     {
       "added_at": "2021-08-18 22:14:03",
@@ -999,18 +995,22 @@
     {
       "added_at": "2021-08-18 22:14:03",
       "album": {
-        "name": "Tim Maia 1971",
-        "url": "https://open.spotify.com/album/1crN3RnAw8N6BztzuEAo8A"
+        "name": "The Wonder of You: Elvis Presley with the Royal Philharmonic Orchestra",
+        "url": "https://open.spotify.com/album/6oWz2hJ89n9mKarg3SO9ou"
       },
       "artists": [
         {
-          "name": "Tim Maia",
-          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        },
+        {
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
         }
       ],
-      "duration_ms": 244178,
-      "name": "Voc\u00ea",
-      "url": "https://open.spotify.com/track/5c12DVTlsyFbxmysLw0Vll"
+      "duration_ms": 217746,
+      "name": "Always on My Mind - with The Royal Philharmonic Orchestra",
+      "url": "https://open.spotify.com/track/1EIvjDvoKjwhokJsigvleb"
     },
     {
       "added_at": "2021-08-18 22:14:03",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2021-08-18 22:14:03",
       "album": {
-        "name": "Yellow Submarine Songtrack",
-        "url": "https://open.spotify.com/album/0XRZpF083HqgygM0v1hQyE"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 226666,
-      "name": "All You Need Is Love",
-      "url": "https://open.spotify.com/track/5zqJlEJcn0EfnvAScH8swK"
-    },
-    {
-      "added_at": "2021-08-18 22:14:03",
-      "album": {
         "name": "Nada Ser\u00e1 Como Antes (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/2qaxc8FAGYDRW5toXaPuVc"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 270690,
       "name": "Clube Da Esquina N\u00ba2 - Ac\u00fastico",
       "url": "https://open.spotify.com/track/4ACqPYXQse8c8dllQmOmBp"
+    },
+    {
+      "added_at": "2021-08-18 22:14:03",
+      "album": {
+        "name": "Yellow Submarine Songtrack",
+        "url": "https://open.spotify.com/album/0XRZpF083HqgygM0v1hQyE"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 226666,
+      "name": "All You Need Is Love",
+      "url": "https://open.spotify.com/track/5zqJlEJcn0EfnvAScH8swK"
     },
     {
       "added_at": "2021-08-18 22:14:03",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2021-08-18 22:14:03",
       "album": {
-        "name": "Raizes Do Samba",
-        "url": "https://open.spotify.com/album/0i9SwtLwZ8cOuH5qtkwTvT"
-      },
-      "artists": [
-        {
-          "name": "Cartola",
-          "url": "https://open.spotify.com/artist/0RSWHhBUwW7lhCqXqxKxWN"
-        }
-      ],
-      "duration_ms": 97200,
-      "name": "O Sol Nascer\u00e1 (A Sorrir)",
-      "url": "https://open.spotify.com/track/4M2j1X47FwMozJrnJHnYNm"
-    },
-    {
-      "added_at": "2021-08-18 22:14:03",
-      "album": {
         "name": "Sorte",
         "url": "https://open.spotify.com/album/6zjlLpKWlTOedQcBlJbuNh"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 184569,
       "name": "Sorte",
       "url": "https://open.spotify.com/track/6yHqnquTGEC6ABIRfrBp6x"
+    },
+    {
+      "added_at": "2021-08-18 22:14:03",
+      "album": {
+        "name": "Raizes Do Samba",
+        "url": "https://open.spotify.com/album/0i9SwtLwZ8cOuH5qtkwTvT"
+      },
+      "artists": [
+        {
+          "name": "Cartola",
+          "url": "https://open.spotify.com/artist/0RSWHhBUwW7lhCqXqxKxWN"
+        }
+      ],
+      "duration_ms": 97200,
+      "name": "O Sol Nascer\u00e1 (A Sorrir)",
+      "url": "https://open.spotify.com/track/4M2j1X47FwMozJrnJHnYNm"
     },
     {
       "added_at": "2021-08-18 22:14:03",

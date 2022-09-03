@@ -4,7 +4,7 @@
 
 > Like the old school sound of metal? Then you'll love this playlist! Cover: Megadeth
 
-188 songs - 14 hr 46 min - [published](https://open.spotify.com/playlist/1VmlLP0qiZZBktFrdHU5cj)
+189 songs - 14 hr 50 min - [published](https://open.spotify.com/playlist/1VmlLP0qiZZBktFrdHU5cj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,7 +112,8 @@
 | [Metal Health \(Bang Your Head\)](https://open.spotify.com/track/28clONjZmul6FjfO6tZQDE) | [Quiet Riot](https://open.spotify.com/artist/1dLWg6m8RRhizsdqJbhyj3) | [Metal Health](https://open.spotify.com/album/3Q3rQ8FK1e9Fd9Gv9xm3CK) | 5:16 | 2021-11-28 |  |
 | [Metal Heart](https://open.spotify.com/track/4f73ikIdf3E1r89cRzo7e6) | [Accept](https://open.spotify.com/artist/3JDIAtVrJdQ7GFOX26LYpv) | [Metal Heart](https://open.spotify.com/album/3aNoUWVxh05ahM2uHaEhKp) | 5:23 | 2022-07-14 |  |
 | [Metal Heart](https://open.spotify.com/track/3ZGajFLn8uAIpNxMxBwfGY) | [Accept](https://open.spotify.com/artist/3JDIAtVrJdQ7GFOX26LYpv) | [Metal Heart](https://open.spotify.com/album/3NULy5W5GdvykvujxuNPll) | 5:24 | 2021-11-28 | 2022-07-29 |
-| [Mexican Radio](https://open.spotify.com/track/2ksadH0rmJCMAQ8r3Najnt) | [Celtic Frost](https://open.spotify.com/artist/4ZISAmHmQUDCpv8xydqeKG) | [Into the Pandemonium \(Bonus Track Edition\)](https://open.spotify.com/album/5QkTU95FB9uqGrRea5j3LR) | 3:29 | 2021-11-28 |  |
+| [Mexican Radio](https://open.spotify.com/track/2ksadH0rmJCMAQ8r3Najnt) | [Celtic Frost](https://open.spotify.com/artist/4ZISAmHmQUDCpv8xydqeKG) | [Into the Pandemonium \(Bonus Track Edition\)](https://open.spotify.com/album/5QkTU95FB9uqGrRea5j3LR) | 3:29 | 2021-11-28 | 2022-09-03 |
+| [Mexican Radio](https://open.spotify.com/track/1mIEtP4RLqJn5xk8omStDv) | [Celtic Frost](https://open.spotify.com/artist/4ZISAmHmQUDCpv8xydqeKG) | [Into the Pandemonium \(Expanded Version\)](https://open.spotify.com/album/2itSTDBhhVmJc5287zvnq0) | 3:29 | 2022-07-14 |  |
 | [Modern Day Cowboy](https://open.spotify.com/track/5ZIU2kT1wNjQNclQeVCz5O) | [Tesla](https://open.spotify.com/artist/0dgnITyIAN4NrmUVisvxHU) | [Mechanical Resonance](https://open.spotify.com/album/1VctZj1UuAgfqtnDcTlzGI) | 5:18 | 2021-11-28 |  |
 | [Mother](https://open.spotify.com/track/7txxAtOMwLLnQTpKeBL6bp) | [Danzig](https://open.spotify.com/artist/34c4iQ5tkaZKu6Sv28BTde) | [Danzig](https://open.spotify.com/album/3elIDlrTtrgKfbxYVgp3uW) | 3:24 | 2021-11-28 |  |
 | [Mr\. Crowley](https://open.spotify.com/track/5XfWzGa5zuz88IOYbWNTMa) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [Blizzard of Ozz \(Expanded Edition\)](https://open.spotify.com/album/6aGfK3YpRxZ1rJfaNRckLH) | 5:02 | 2021-11-28 | 2022-07-29 |

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Norway.
 
-757 songs - 1 day 15 hr 53 min - [published](https://open.spotify.com/playlist/3tVGcb57UPJLnfj2OSCurw)
+758 songs - 1 day 15 hr 55 min - [published](https://open.spotify.com/playlist/3tVGcb57UPJLnfj2OSCurw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Baby, It's Cold Outside \(feat\. Christel Alsos\)](https://open.spotify.com/track/44PlwWxz3q10i2WrznihX4) | [Kurt Nilsen](https://open.spotify.com/artist/49HPMFWsosCuRf810Ay1Vv), [The Norwegian Radio Orchestra](https://open.spotify.com/artist/17ggmeNujCFMkr3zgyXv02), [Christel Alsos](https://open.spotify.com/artist/30wwNbASvE9GkBDsNVCsnn) | [Have Yourself A Merry Little Christmas](https://open.spotify.com/album/1YbbdbiUKFY5RqIlNrh1Bc) | 3:41 | 2021-12-25 | 2021-12-27 |
 | [Bacardi fra en kopp \(feat\. Amara\)](https://open.spotify.com/track/4RbbAdOtGvXTVXAvZvPgXa) | [Morgan Sulele](https://open.spotify.com/artist/3EaDukxGx5viO0MTLW1a5X), [Adrian Sellevoll](https://open.spotify.com/artist/7A3fefmffBi6jDv2MxMcz3), [Amara](https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j) | [Bacardi fra en kopp \(feat\. Amara\)](https://open.spotify.com/album/68lUMbLFja11NTlPMinTwP) | 2:41 | 2021-07-25 | 2021-07-31 |
 | [Back To Reality 2021 \(feat\. Solguden\)](https://open.spotify.com/track/66VDSp4xuQElxDVxaapiVG) | [Beathoven](https://open.spotify.com/artist/6w6TB0XMM0VZ3oDsy7tUYJ), [DJ Black](https://open.spotify.com/artist/6fQmO1Ho6EAGZpRBHnyp5m), [Jaannybravo](https://open.spotify.com/artist/3FuQb8Yj6J8ZJSCTv7ZKAV), [Solguden](https://open.spotify.com/artist/76oRj8bdYsniX36EQNLZ58) | [Back To Reality 2021 \(feat\. Solguden\)](https://open.spotify.com/album/4qEHrDdIjvekUckCJOJrfB) | 3:01 | 2022-04-28 | 2022-05-08 |
-| [Bad Habit](https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Gemini Rights](https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD) | 3:52 | 2022-07-27 |  |
+| [Bad Habit](https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Gemini Rights](https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD) | 3:52 | 2022-07-27 | 2022-09-03 |
 | [Bad Habits](https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:50 | 2021-10-31 | 2022-05-05 |
 | [Bad Habits](https://open.spotify.com/track/6PQ88X9TkUIAUIZJHW2upE) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Bad Habits](https://open.spotify.com/album/01NhUvviMytvV12pmJiDZH) | 3:51 | 2021-06-27 | 2021-10-31 |
 | [Bad Life](https://open.spotify.com/track/1eEK8eQETi8q8bU0lxRMlq) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Bad Life](https://open.spotify.com/album/7tcd0KU4YjcAT9jaP8ebs6) | 3:46 | 2022-04-23 | 2022-05-03 |
@@ -689,6 +689,7 @@
 | [TANTE](https://open.spotify.com/track/56oWBEoaWwiyaPLe0PqB0k) | [Kevin Lauren](https://open.spotify.com/artist/0MVtdQmPsEozKSPjeLUyn1), [Ballinciaga](https://open.spotify.com/artist/7GgWpPrcNYH90st7I3nJtv) | [TANTE](https://open.spotify.com/album/6XTc3QIanjhLFRlTk62SkU) | 2:13 | 2022-03-05 |  |
 | [Tell her yourself](https://open.spotify.com/track/6LU43aaDl4WXn1qKqi5Y62) | [Highasakite](https://open.spotify.com/artist/5awQWdBpLqN2KFVRN8w56T) | [Tell her yourself](https://open.spotify.com/album/1Vp31AJXouGR3ZWsHDXxMr) | 3:53 | 2021-09-05 | 2021-09-06 |
 | [Tell It To My Heart](https://open.spotify.com/track/46nvQpUDsxpS08UTFOeKTA) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Tell It To My Heart](https://open.spotify.com/album/27rVuwJ0g0eKRpnvEhQl3G) | 2:45 | 2021-10-31 | 2021-10-31 |
+| [Tenerife Tapes](https://open.spotify.com/track/1w0rQ13DQRjFLG3Y06skMK) | [Rike Venner](https://open.spotify.com/artist/7r0CzlT427mU4iMq7i4Yz6) | [Tenerife Tapes](https://open.spotify.com/album/6XIPoInykmgMCLmZNJolyh) | 1:37 | 2022-09-02 |  |
 | [THATS WHAT I WANT](https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 2:23 | 2021-09-19 | 2022-03-06 |
 | [The Business](https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [The Business](https://open.spotify.com/album/2adSO4KU3FDjeM1PXCRDZm) | 2:44 | 2021-03-27\* | 2022-01-04 |
 | [The Christmas Song \(Merry Christmas To You\)](https://open.spotify.com/track/4PS1e8f2LvuTFgUs1Cn3ON) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Christmas Song \(Expanded Edition\)](https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4) | 3:12 | 2021-11-30 | 2021-12-27 |

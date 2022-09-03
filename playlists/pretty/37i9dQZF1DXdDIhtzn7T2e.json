@@ -1,12 +1,12 @@
 {
   "description": "Let these country tunes light up your day",
-  "num_followers": 73976,
+  "num_followers": 74020,
   "original_name": "Greener Pastures",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA2NzIwMCwwMDAwMDAwMDI3N2EzNjJmMWU0NDg2YzhjODIxMTRiOTMwN2IxYjAz",
+  "snapshot_id": "MTY2MjEzMjMzMywwMDAwMDAwMGI4ZGQ4MmY5ZmVlMWJmMTMyMGMwN2IwYTc4ZTQ5Nzc2",
   "tracks": [
     {
       "added_at": "2022-04-20 20:41:21",
@@ -87,6 +87,22 @@
       "duration_ms": 280786,
       "name": "Whitehouse Road",
       "url": "https://open.spotify.com/track/0fbR95FEaJUxiQYaqZZukv"
+    },
+    {
+      "added_at": "2022-09-02 15:25:33",
+      "album": {
+        "name": "Mr. Saturday Night",
+        "url": "https://open.spotify.com/album/2QriWWJQt8g8XXoC1ATDPa"
+      },
+      "artists": [
+        {
+          "name": "Jon Pardi",
+          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
+        }
+      ],
+      "duration_ms": 175554,
+      "name": "Smokin' A Doobie",
+      "url": "https://open.spotify.com/track/6tzknxnekWR1cs7aT165Ow"
     },
     {
       "added_at": "2022-04-20 20:41:21",
@@ -291,6 +307,22 @@
       "duration_ms": 176933,
       "name": "It's All Going to Pot",
       "url": "https://open.spotify.com/track/1efJ9Kx8Gx5DEAcx2btuRA"
+    },
+    {
+      "added_at": "2022-09-02 04:00:00",
+      "album": {
+        "name": "Smoke It (Demo)",
+        "url": "https://open.spotify.com/album/3JLtWB0tw1aMnqO9zaMtaY"
+      },
+      "artists": [
+        {
+          "name": "Haley Mae Campbell",
+          "url": "https://open.spotify.com/artist/2NDqx1z4TTkFr0QOnk8nX3"
+        }
+      ],
+      "duration_ms": 183076,
+      "name": "Smoke It - Demo",
+      "url": "https://open.spotify.com/track/5nNvU45Ngzvm29gNChh7mq"
     },
     {
       "added_at": "2022-04-20 20:41:21",

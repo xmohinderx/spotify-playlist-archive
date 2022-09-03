@@ -1990,6 +1990,24 @@
     },
     {
       "album": {
+        "name": "Aftershook",
+        "url": "https://open.spotify.com/album/3RLvrBRUVl4tDh3EqGR3Ro"
+      },
+      "artists": [
+        {
+          "name": "Frankie Cosmos",
+          "url": "https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205890,
+      "name": "Aftershook",
+      "url": "https://open.spotify.com/track/0mf7aZJXZLwb9d1UEzjxwo"
+    },
+    {
+      "album": {
         "name": "Again & Again",
         "url": "https://open.spotify.com/album/7DqEtsjq3NdksoSdvy9Q8k"
       },
@@ -2547,6 +2565,24 @@
       "duration_ms": 222167,
       "name": "all night",
       "url": "https://open.spotify.com/track/2zhHL1sgTuwP3ijA9vhi8i"
+    },
+    {
+      "album": {
+        "name": "Dressing Like a Stranger",
+        "url": "https://open.spotify.com/album/0HljuthA58AYgljjo9W0rv"
+      },
+      "artists": [
+        {
+          "name": "Luke Sital-Singh",
+          "url": "https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233200,
+      "name": "All Night Stand",
+      "url": "https://open.spotify.com/track/5rRHOAm73m00mh1QF7tojI"
     },
     {
       "album": {
@@ -5773,7 +5809,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 195373,
       "name": "Be Sweet - Korean Version",
       "url": "https://open.spotify.com/track/5smkxS3MeevRwRt86AADR9"
@@ -8028,6 +8064,24 @@
     },
     {
       "album": {
+        "name": "bodies",
+        "url": "https://open.spotify.com/album/6nJVoyXol3qPhMdBS4VaFh"
+      },
+      "artists": [
+        {
+          "name": "fearofmakingout",
+          "url": "https://open.spotify.com/artist/6dYf0mDvC886saRIV4on5c"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182475,
+      "name": "bodies",
+      "url": "https://open.spotify.com/track/4kXdLQaiCpqSdM9OTpvfZe"
+    },
+    {
+      "album": {
         "name": "Body",
         "url": "https://open.spotify.com/album/0MKbgbnqz8YcDCl4uvSSWk"
       },
@@ -9135,6 +9189,24 @@
       "duration_ms": 301480,
       "name": "Buddy's Rendezvous",
       "url": "https://open.spotify.com/track/7qqrGV5WpQnMKqVTsDZd9J"
+    },
+    {
+      "album": {
+        "name": "Buena Park",
+        "url": "https://open.spotify.com/album/2u54J2qbqqzWHTebG9zBZC"
+      },
+      "artists": [
+        {
+          "name": "Teenage Priest",
+          "url": "https://open.spotify.com/artist/4BzY7yI5iqNP7OmEtO0a34"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220123,
+      "name": "Buena Park",
+      "url": "https://open.spotify.com/track/4ek4nixH3b9vzzSNIKnbLl"
     },
     {
       "album": {
@@ -10423,7 +10495,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 240666,
       "name": "Cannibal",
       "url": "https://open.spotify.com/track/4n0dJRuYwfluS0Mr6VIy2U"
@@ -20002,6 +20074,24 @@
     },
     {
       "album": {
+        "name": "Keep On Smiling",
+        "url": "https://open.spotify.com/album/0SbaC7OZOVB2WKGzf9ZMSQ"
+      },
+      "artists": [
+        {
+          "name": "Two Door Cinema Club",
+          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262356,
+      "name": "Everybody's Cool",
+      "url": "https://open.spotify.com/track/5HUxswbr7V4fzwG1LGCf7U"
+    },
+    {
+      "album": {
         "name": "Everybody's On Their Phone",
         "url": "https://open.spotify.com/album/1WHNJKcw8NKwdjIGRF2VSi"
       },
@@ -21439,7 +21529,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 164500,
       "name": "Favors",
       "url": "https://open.spotify.com/track/1BBZlU3fsvpVRiwLO16Aoe"
@@ -25391,7 +25481,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 273786,
       "name": "Give You the World",
       "url": "https://open.spotify.com/track/0J119Oas2ox6JTTHUGZxHN"
@@ -29504,6 +29594,24 @@
     },
     {
       "album": {
+        "name": "LOUIE",
+        "url": "https://open.spotify.com/album/3SKVtzmihlnGFylW5nC5kj"
+      },
+      "artists": [
+        {
+          "name": "Kenny Beats",
+          "url": "https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106866,
+      "name": "Hold My Head",
+      "url": "https://open.spotify.com/track/4eSZUNz2flCKs7zESV50kW"
+    },
+    {
+      "album": {
         "name": "Solar Power (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3lK2JRwfIOn2NaYtgEGTmZ"
       },
@@ -30393,6 +30501,24 @@
       "duration_ms": 250613,
       "name": "Hot & Heavy",
       "url": "https://open.spotify.com/track/2HqJI083DX9UDxNYGGAImf"
+    },
+    {
+      "album": {
+        "name": "Hot Mess",
+        "url": "https://open.spotify.com/album/4Fvbi4wxMw12cXWkAHlt0Z"
+      },
+      "artists": [
+        {
+          "name": "dodie",
+          "url": "https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174558,
+      "name": "Hot Mess",
+      "url": "https://open.spotify.com/track/5V93DZxOOLqTT5zF8uWOm2"
     },
     {
       "album": {
@@ -32988,6 +33114,24 @@
     },
     {
       "album": {
+        "name": "I'm In Love With You",
+        "url": "https://open.spotify.com/album/3TI3FFFz3hKQfsL0izZ8JS"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262623,
+      "name": "I'm In Love With You",
+      "url": "https://open.spotify.com/track/0uBdQzKghx88d2Lp8SLFKJ"
+    },
+    {
+      "album": {
         "name": "I'm Just A Fan",
         "url": "https://open.spotify.com/album/4TTB112bXXIMtLVgiHjDA0"
       },
@@ -34951,6 +35095,24 @@
       "duration_ms": 171904,
       "name": "Isolation",
       "url": "https://open.spotify.com/track/75cVF6T9rA3ElEfhKWDjBb"
+    },
+    {
+      "album": {
+        "name": "It Could Be Nice",
+        "url": "https://open.spotify.com/album/1s4VVB5nN16DfnSVKRx6NK"
+      },
+      "artists": [
+        {
+          "name": "Chet Faker",
+          "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172333,
+      "name": "It Could Be Nice",
+      "url": "https://open.spotify.com/track/5lGoX0XHR2ystyz0OF3Kv5"
     },
     {
       "album": {
@@ -37459,6 +37621,24 @@
       "duration_ms": 216536,
       "name": "Kno Me",
       "url": "https://open.spotify.com/track/6XaMOKR9NHzIFIgNQrpYvU"
+    },
+    {
+      "album": {
+        "name": "Knocking on Wood",
+        "url": "https://open.spotify.com/album/2TR4wew45TemGUpSbMZOuz"
+      },
+      "artists": [
+        {
+          "name": "Worry Club",
+          "url": "https://open.spotify.com/artist/7Fkc1Q81Zy25eZ5dmnURGl"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251013,
+      "name": "Knocking on Wood",
+      "url": "https://open.spotify.com/track/49ELYuuZE5HllYscrW7ZtB"
     },
     {
       "album": {
@@ -43008,6 +43188,28 @@
     },
     {
       "album": {
+        "name": "Midnight Legend",
+        "url": "https://open.spotify.com/album/2MJDkHvOuzpQg1q3AMeYC6"
+      },
+      "artists": [
+        {
+          "name": "Special Interest",
+          "url": "https://open.spotify.com/artist/2CYTLJOt91YLe1JLStFu6m"
+        },
+        {
+          "name": "Mykki Blanco",
+          "url": "https://open.spotify.com/artist/2tSv9mEQSuNVMGr9qjYfkr"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204873,
+      "name": "Midnight Legend",
+      "url": "https://open.spotify.com/track/7wnRHeYAAd0KqkFe3ZQHcI"
+    },
+    {
+      "album": {
         "name": "midnight love",
         "url": "https://open.spotify.com/album/23QVvMWbWEMcUawebp6mSg"
       },
@@ -43713,6 +43915,24 @@
       "duration_ms": 183792,
       "name": "Month",
       "url": "https://open.spotify.com/track/2Ywh6o1lKsdFQsivAb8Rgt"
+    },
+    {
+      "album": {
+        "name": "Mood Hoover",
+        "url": "https://open.spotify.com/album/6QMxKOuHssNVCqphLFbUn1"
+      },
+      "artists": [
+        {
+          "name": "Connie Constance",
+          "url": "https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194773,
+      "name": "Mood Hoover",
+      "url": "https://open.spotify.com/track/1Kma7Z2DAv6tI7beez0Jqo"
     },
     {
       "album": {
@@ -44839,7 +45059,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 124533,
       "name": "Mythical Bonds",
       "url": "https://open.spotify.com/track/3qWEIZd7qxdBnywCHDX4AZ"
@@ -45367,6 +45587,32 @@
       "duration_ms": 177533,
       "name": "New England",
       "url": "https://open.spotify.com/track/1I4ZGPAmn8fFbyoHgjD9lw"
+    },
+    {
+      "album": {
+        "name": "New Gold (feat. Tame Impala and Bootie Brown)",
+        "url": "https://open.spotify.com/album/4V9YFKLqZ5h8nQFTvDQscC"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        },
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        },
+        {
+          "name": "Bootie Brown",
+          "url": "https://open.spotify.com/artist/6GI3CJjT2bOnMfprCpjT1d"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215149,
+      "name": "New Gold (feat. Tame Impala and Bootie Brown)",
+      "url": "https://open.spotify.com/track/64dLd6rVqDLtkXFYrEUHIU"
     },
     {
       "album": {
@@ -49911,7 +50157,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 200689,
       "name": "Pastel Auras",
       "url": "https://open.spotify.com/track/5yk7ayvIsUikEiuyMONlk4"
@@ -54748,6 +54994,28 @@
     },
     {
       "album": {
+        "name": "Rose Pink Cadillac (LARRY PINK THE HUMAN Remix)",
+        "url": "https://open.spotify.com/album/3AcGrv7iQnICLDrFKat8XP"
+      },
+      "artists": [
+        {
+          "name": "DOPE LEMON",
+          "url": "https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8"
+        },
+        {
+          "name": "LARRY PINK THE HUMAN",
+          "url": "https://open.spotify.com/artist/0EcsZYsbHS6JATYiPJhomh"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250160,
+      "name": "Rose Pink Cadillac - LARRY PINK THE HUMAN Remix",
+      "url": "https://open.spotify.com/track/2h1s9bSv7BU4vFwhWrdwSN"
+    },
+    {
+      "album": {
         "name": "Waterslide, Diving Board, Ladder To The Sky",
         "url": "https://open.spotify.com/album/6wdThJ2V58nkaWfv1jA4B5"
       },
@@ -57295,7 +57563,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 164766,
       "name": "Shaking the Can",
       "url": "https://open.spotify.com/track/733Y6w1jfzAHMWmKBVzXEK"
@@ -59551,7 +59819,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 233846,
       "name": "Some Of Us Are Brave",
       "url": "https://open.spotify.com/track/076Ang4pgcByLvOEzNpW94"
@@ -61977,7 +62245,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 215125,
       "name": "Subject",
       "url": "https://open.spotify.com/track/2jI4keyUwCmnn6kqA4GlAc"
@@ -62533,7 +62801,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 160493,
       "name": "Sunny day",
       "url": "https://open.spotify.com/track/12UQIJePnGeLmpVReYpG2w"
@@ -66382,6 +66650,24 @@
     },
     {
       "album": {
+        "name": "There\u2019d Better Be A Mirrorball",
+        "url": "https://open.spotify.com/album/0ZUmodAwUq8cQJFvyibKwT"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265798,
+      "name": "There\u2019d Better Be A Mirrorball",
+      "url": "https://open.spotify.com/track/0yowbJnnbTLpr99f9l1uba"
+    },
+    {
+      "album": {
         "name": "These Kids We Knew",
         "url": "https://open.spotify.com/album/1otew6tcC33qdKae8c8mqr"
       },
@@ -67293,7 +67579,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 218803,
       "name": "Timeless",
       "url": "https://open.spotify.com/track/7KlW2RiPAWFNT75f216VgH"
@@ -67737,6 +68023,28 @@
       "duration_ms": 163760,
       "name": "Tomorrow",
       "url": "https://open.spotify.com/track/36q9e2bci1iIm9e1zlJ8y0"
+    },
+    {
+      "album": {
+        "name": "Tongo Barra",
+        "url": "https://open.spotify.com/album/5mWSH5ReDP2NGc7XY9j9lN"
+      },
+      "artists": [
+        {
+          "name": "Vieux Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/4PmxbsWP1u0TnvqcrIA9ze"
+        },
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333150,
+      "name": "Tongo Barra",
+      "url": "https://open.spotify.com/track/3skOhs7TlQOCuzHjmTa8Xg"
     },
     {
       "album": {
@@ -71463,7 +71771,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 208941,
       "name": "Waste Your Time",
       "url": "https://open.spotify.com/track/7yw9BW04q6sVQ2VkI67rIa"
@@ -75391,6 +75699,24 @@
       "duration_ms": 191560,
       "name": "You Don't Know Me - Reimagined",
       "url": "https://open.spotify.com/track/1a0vvZoNACo6P1Beuo3Sco"
+    },
+    {
+      "album": {
+        "name": "You Don't Own Me",
+        "url": "https://open.spotify.com/album/1YrfFAtUYvapMLU8620TTj"
+      },
+      "artists": [
+        {
+          "name": "Tamino",
+          "url": "https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260135,
+      "name": "You Don't Own Me",
+      "url": "https://open.spotify.com/track/5eaIe7XJ5JKtwKWv8c4PoG"
     },
     {
       "album": {

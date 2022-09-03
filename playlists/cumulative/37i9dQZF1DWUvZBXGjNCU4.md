@@ -4,7 +4,7 @@
 
 > Warm and cozy acoustic instrumentals.
 
-188 songs - 8 hr 45 min - [published](https://open.spotify.com/playlist/7okZyc3inRIRHWsMfSeJko)
+190 songs - 8 hr 54 min - [published](https://open.spotify.com/playlist/7okZyc3inRIRHWsMfSeJko)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Distances](https://open.spotify.com/track/63iYBQAZDyqQYwf91qG6ZX) | [Between the Dots](https://open.spotify.com/artist/1i1ZRmxu9V91AzofKXp72i) | [Distances](https://open.spotify.com/album/20KF1rWAGlEEiSFVDhKkTL) | 3:05 | 2022-05-13 | 2022-06-10 |
 | [Dreamy Hill](https://open.spotify.com/track/4xuHOEXLwk0mWmYwx8k99m) | [William Bilford](https://open.spotify.com/artist/7LVVFIS8cyyb9aM5OV3Im0) | [Dreamy Hill](https://open.spotify.com/album/73ucC01vW9LnhxoBPbjhBl) | 1:55 | 2022-05-13 | 2022-05-27 |
 | [Dunes](https://open.spotify.com/track/2D8rgpm4G1baiUk5nvKbTX) | [Lee Howard\-Taylor](https://open.spotify.com/artist/3fewyiCJIgYVzSHCnDjlgM) | [Dunes](https://open.spotify.com/album/5SGwwCl8w3ngX0BwszeQfb) | 2:20 | 2022-05-13 |  |
+| [Dust and Ashes \- Guitar Instrumental](https://open.spotify.com/track/1YSkQpcby9nfzBowrz00wC) | [Quiet Arrows](https://open.spotify.com/artist/7KRnRH8bRvoX4ebQwHw2EI) | [Behind the Breastbone \(Instrumentals\)](https://open.spotify.com/album/6LXLTqQpj8che1C9i2Haro) | 3:22 | 2022-09-02 |  |
 | [E perto do anoitecer](https://open.spotify.com/track/12JjMTQI1A6Z6cpiuek0z2) | [Zinning](https://open.spotify.com/artist/1AWUohu2y7RgDsHStsF43S) | [E perto do anoitecer](https://open.spotify.com/album/2qUsqLtAeAoYKFPUKpR9Qo) | 2:41 | 2022-05-13 |  |
 | [Easy On The Road Ahead](https://open.spotify.com/track/1bEeNRyUZ236ES8UyPSJxF) | [Woodfray](https://open.spotify.com/artist/1oMo7wloYRSjSQNKgnJlRc) | [Waitwall Mountain](https://open.spotify.com/album/1PSaMx8sT3d1hVK7nUz9tX) | 2:30 | 2022-05-13 |  |
 | [El Jacal](https://open.spotify.com/track/65gLeiH2oi3AKIcb62nbnR) | [Colibrí Acústico](https://open.spotify.com/artist/6aKYru6qh4nD6Ivcl3WjUB) | [Cuyutlan](https://open.spotify.com/album/7HhrRiyLX4MJ9m3brNjQ0H) | 2:36 | 2022-05-13 |  |
@@ -162,6 +163,7 @@
 | [Summer Haze](https://open.spotify.com/track/1IrUtiuz3vvVGBrZBURdMh) | [Lennox Lorenzo](https://open.spotify.com/artist/6t2AbQr1GudAPoxHZSsOTM) | [Summer Haze](https://open.spotify.com/album/6b5M9uiTVphHivV0LrXWeO) | 1:38 | 2022-05-13 |  |
 | [Sun over the rolling hills](https://open.spotify.com/track/1isTWddGjMgVoDrxsWUBIO) | [Lucy Duclos](https://open.spotify.com/artist/4mcQ5pefKb0EGBe87nvas0) | [Virginia Roads](https://open.spotify.com/album/4sTKdmaDoTWpwCQF1v8nfX) | 2:38 | 2022-05-13 |  |
 | [Sunrise Murmur](https://open.spotify.com/track/1kJApkWnDkH6wgjApxlIcK) | [American Legion](https://open.spotify.com/artist/0jffXLYJMz2VeBonnuICk3) | [A Slow Winding Road](https://open.spotify.com/album/2T141nerYqMwPqgCgJk71E) | 3:13 | 2022-05-13 |  |
+| [Sunset](https://open.spotify.com/track/49W3hbf3rudWSmQQePyMsW) | [Daria Semikina](https://open.spotify.com/artist/1DEdteKCepxFJObz41bCVO) | [Autumn Reflections](https://open.spotify.com/album/53csRIoXMKqkp7f0lIIobP) | 5:16 | 2022-09-02 |  |
 | [Sunset on the Farmland](https://open.spotify.com/track/5tvM2CxNOcCBY7Z2H9Xa12) | [Tapperstand](https://open.spotify.com/artist/5qiy3uNvNQrZycAMo6dOgH) | [Shapes in the Sky](https://open.spotify.com/album/7sxQpqFUHwHhz9xnUmUKol) | 2:51 | 2022-05-13 |  |
 | [Sweet Disposition](https://open.spotify.com/track/5gNlgxqfMX2G1ptN8hGniT) | [Cody Lane](https://open.spotify.com/artist/5PXw7CZ8v8fcIETkAuHkwJ) | [Ode To The Restless Heart](https://open.spotify.com/album/74hAowWLPfmmeKIxsJF0e1) | 2:40 | 2022-05-13 |  |
 | [Symphony Road](https://open.spotify.com/track/6wD2btYlsmIi4VrHmsc5kY) | [Ruth Reynolds](https://open.spotify.com/artist/3PYUx4NhsZEBdLIk09FwRI) | [Symphony Road](https://open.spotify.com/album/1bQftBYXBT9z33Mwa4w8yG) | 2:27 | 2022-05-13 |  |

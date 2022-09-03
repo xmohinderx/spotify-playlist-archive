@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuJFsTMqHYX.md) - [plain]
 
 > The hottest music from the hottest desert\. Cover: Tinariwen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,891 likes - 50 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,866 likes - 50 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuJFsTMqHYX.md) - [plain]
 | 40 | [Akaline Akaline](https://open.spotify.com/track/6qQhWIowgtVSz6UFJvG5Ku) | [Ahmoudou Madassane](https://open.spotify.com/artist/5oQlmxzNKhiA2LWU40F6rm) | [Zerzura \(Original Soundtrack Recording\)](https://open.spotify.com/album/1YUKsFUMyCT59pqnOaWoAt) | 3:07 |
 | 41 | [Toumast Tincha](https://open.spotify.com/track/0oiAiwEtUaKEWLBz6O4ord) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb) | [Emmaar \(Deluxe Edition\)](https://open.spotify.com/album/3Dg5g42nMxdrJIuxhXxFTH) | 4:19 |
 | 42 | [Fransa](https://open.spotify.com/track/3N6ddWSmrMFvZkGFBU4Ike) | [Kel Assouf](https://open.spotify.com/artist/5mu6VL20oyfrkqOW61w7p9) | [Black Tenere](https://open.spotify.com/album/2szNhyx4lm9LoUU8KnUN6b) | 4:41 |
-| 43 | [Midiwan](https://open.spotify.com/track/3uQZlQyED9BvADK1JWXIzl) | [Bombino](https://open.spotify.com/artist/7s4I6rDvTcdBDKElVbtsAN) | [Deran](https://open.spotify.com/album/2Gm3Wy05MApR47NZmRo1DW) | 3:42 |
-| 44 | [Ghlana](https://open.spotify.com/track/3PD3dEs0ZADzjDi71v67dY) | [Noura Mint Seymali](https://open.spotify.com/artist/2HnmTIZBaC6upua76nuGIY) | [Arbina](https://open.spotify.com/album/6JBjWrsydl3DkCJDA6Q8JU) | 3:44 |
+| 43 | [Ghlana](https://open.spotify.com/track/3PD3dEs0ZADzjDi71v67dY) | [Noura Mint Seymali](https://open.spotify.com/artist/2HnmTIZBaC6upua76nuGIY) | [Arbina](https://open.spotify.com/album/6JBjWrsydl3DkCJDA6Q8JU) | 3:44 |
+| 44 | [Midiwan](https://open.spotify.com/track/3uQZlQyED9BvADK1JWXIzl) | [Bombino](https://open.spotify.com/artist/7s4I6rDvTcdBDKElVbtsAN) | [Deran](https://open.spotify.com/album/2Gm3Wy05MApR47NZmRo1DW) | 3:42 |
 | 45 | [Taguebarbt](https://open.spotify.com/track/3Z0pzENlADpDPqWW4Lb2Kw) | [Gaada Diwane De Béchar](https://open.spotify.com/artist/52QoFZylWvNG3obRJxiPPF) | [Sortie D'usine](https://open.spotify.com/album/2LhXFW8YOMLKzjxaDN11Cr) | 4:10 |
 | 46 | [Zalina](https://open.spotify.com/track/7LFTVgFCNdNghawWIfN3OX) | [Balkan Taksim](https://open.spotify.com/artist/70oqqBR2WFsDZP6JhLvYpm) | [Zalina](https://open.spotify.com/album/1sAs3dT1gJQJqKuKHCyg31) | 3:45 |
 | 47 | [Penda Djiga](https://open.spotify.com/track/0ra3K6wNCFVYTu2AFsmiR7) | [Afel Bocoum](https://open.spotify.com/artist/06Ib5crxFFg8jg3q8ZP77W) | [Penda Djiga](https://open.spotify.com/album/4eIINnCLgKF5hUcXyk0dIE) | 4:32 |
-| 48 | [Intifada](https://open.spotify.com/track/3XVoJqjijmRPXm5xRI2Mxx) | [Aziza Brahim](https://open.spotify.com/artist/0ydDa6afIYote2AtmgSycS) | [Abbar el Hamada](https://open.spotify.com/album/1TVWhiqo2BlNO1rxB1exn3) | 2:55 |
-| 49 | [Soubour](https://open.spotify.com/track/6myCSm2QEXMrgtUxVN313f) | [Songhoy Blues](https://open.spotify.com/artist/5fpQ5Qt2BKgoVBSMw4Z17Z) | [Music In Exile](https://open.spotify.com/album/5zpmNObCgAASco8nNJXIkb) | 3:32 |
+| 48 | [Soubour](https://open.spotify.com/track/6myCSm2QEXMrgtUxVN313f) | [Songhoy Blues](https://open.spotify.com/artist/5fpQ5Qt2BKgoVBSMw4Z17Z) | [Music In Exile](https://open.spotify.com/album/5zpmNObCgAASco8nNJXIkb) | 3:32 |
+| 49 | [Intifada](https://open.spotify.com/track/3XVoJqjijmRPXm5xRI2Mxx) | [Aziza Brahim](https://open.spotify.com/artist/0ydDa6afIYote2AtmgSycS) | [Abbar el Hamada](https://open.spotify.com/album/1TVWhiqo2BlNO1rxB1exn3) | 2:55 |
 | 50 | [Mariama Kaba](https://open.spotify.com/track/3c98vJqVg7Epkq8aBNTsNM) | [Boubacar Traoré](https://open.spotify.com/artist/63Bilw49Uv4s2wnovytDVU) | [Mariama](https://open.spotify.com/album/2k0il4VCyt5vL0vbSp1XMb) | 5:38 |
 
-Snapshot ID: `MTY2MjAyODI2OCwwMDAwMDAwMGQ4YjlhZWUzMWViMzViZmZlMWM4YmVmMGY0YzIyYjYz`
+Snapshot ID: `MTY2MjAyODI2OCwwMDAwMDAwMDdmOGUxMWQ5OGViYWZlZjBlYWNhNDNkMDY2NzAxNmM4`

@@ -4,7 +4,7 @@
 
 > Una sensual selección de canciones para bailar en una sola baldosa.
 
-65 songs - 5 hr 23 min - [published](https://open.spotify.com/playlist/5e64oDpSbQovckjKQVo4HX)
+66 songs - 5 hr 28 min - [published](https://open.spotify.com/playlist/5e64oDpSbQovckjKQVo4HX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Y Nos Amamos](https://open.spotify.com/track/0vAA0c6zf8pCWgmIj4Oggx) | [David Pabon](https://open.spotify.com/artist/3L3YHYkS8b2vgAbnqBTXrE) | [Mejor Que Ayer](https://open.spotify.com/album/1GtGW64AKrjOsAOrHO30uW) | 3:49 | 2021-04-30 | 2022-07-29 |
 | [Y Nos Amamos](https://open.spotify.com/track/1GJ81TUe0L0V8KpFC2Xobo) | [David Pabon](https://open.spotify.com/artist/3L3YHYkS8b2vgAbnqBTXrE) | [Mejor Que Ayer](https://open.spotify.com/album/2zf6kWIBrE5NOGLmy9vjCr) | 3:49 | 2022-07-28 |  |
 | [Y Que Me Pasa \- Salsa Version](https://open.spotify.com/track/2Yhf5qqHOUbUb8QIxUTR7d) | [Mickey Taveras](https://open.spotify.com/artist/1iVpMZKqpnZWfCXO2vIozm) | [Luchare](https://open.spotify.com/album/60aSx78XSEGEygeUXEnRn6) | 5:03 | 2021-04-30 | 2022-07-29 |
-| [Y Qué Me Pasa \- Salsa](https://open.spotify.com/track/3OXeVpFbzJVZpOtXItrTyN) | [Mickey Taveras](https://open.spotify.com/artist/1iVpMZKqpnZWfCXO2vIozm) | [Lucharé](https://open.spotify.com/album/6D1EQ3P1Rma06b68UPZCNe) | 5:03 | 2022-07-28 |  |
+| [Y Qué Me Pasa](https://open.spotify.com/track/3h00Mu0HcUdCNaxxNoWB3B) | [Mickey Taveras](https://open.spotify.com/artist/1iVpMZKqpnZWfCXO2vIozm) | [Y Qué Me Pasa](https://open.spotify.com/album/7y91WmADTOR396FZe5KJGn) | 5:05 | 2022-07-28 |  |
+| [Y Qué Me Pasa \- Salsa](https://open.spotify.com/track/3OXeVpFbzJVZpOtXItrTyN) | [Mickey Taveras](https://open.spotify.com/artist/1iVpMZKqpnZWfCXO2vIozm) | [Lucharé](https://open.spotify.com/album/6D1EQ3P1Rma06b68UPZCNe) | 5:03 | 2022-07-28 | 2022-09-03 |
 
 \*This playlist was first scraped on 2022-01-09. Prior content cannot be recovered.

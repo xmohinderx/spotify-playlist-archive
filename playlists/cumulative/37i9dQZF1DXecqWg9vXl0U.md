@@ -4,7 +4,7 @@
 
 > como en una nube\. Bedroom pop vibes featuring Clara Yolks.
 
-154 songs - 8 hr 41 min - [published](https://open.spotify.com/playlist/5bz3k8QNNTUrWUgar676qo)
+157 songs - 8 hr 52 min - [published](https://open.spotify.com/playlist/5bz3k8QNNTUrWUgar676qo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,7 @@
 | [Maybe Baby](https://open.spotify.com/track/2SAIOfbBGw6Vvt8sW3qkP2) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Maybe Baby](https://open.spotify.com/album/3Nv4qF7y94KVdKMXoBYW1B) | 3:13 | 2022-07-04 |  |
 | [Me da Miedo el Amor](https://open.spotify.com/track/6eSxEYhNYmGjXbja4IcGQH) | [Teresa Corral](https://open.spotify.com/artist/0D5px8yeMYKi5dHYkrxcZt) | [Me da Miedo el Amor](https://open.spotify.com/album/7HbEK2LtOfEvDWRSuv9BOc) | 2:49 | 2022-03-25 | 2022-05-16 |
 | [Melodía de Dos \- Demo](https://open.spotify.com/track/4GwdjQUrTd2eje3yN7PUgK) | [Bilbao](https://open.spotify.com/artist/0auztALogdXmk4KYvF1FoT) | [Melodía de Dos \(Demo\)](https://open.spotify.com/album/1ORGTxaHnffAYdkDmisKGZ) | 3:40 | 2022-03-25 | 2022-07-29 |
-| [mi amiga & yo](https://open.spotify.com/track/6ukxKZD87THmjrF2utaAGF) | [Mila](https://open.spotify.com/artist/3w1KTqetFroZp8sL55Mmrp) | [mi amiga & yo](https://open.spotify.com/album/6XAO4Ieu8TmJ1Fa3UBI5ms) | 2:48 | 2022-03-25 |  |
+| [mi amiga & yo](https://open.spotify.com/track/6ukxKZD87THmjrF2utaAGF) | [Mila](https://open.spotify.com/artist/3w1KTqetFroZp8sL55Mmrp) | [mi amiga & yo](https://open.spotify.com/album/6XAO4Ieu8TmJ1Fa3UBI5ms) | 2:48 | 2022-03-25 | 2022-09-03 |
 | [Mi Habitación](https://open.spotify.com/track/7jC3idd95GXBbUxn9S8btI) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn), [Yawners](https://open.spotify.com/artist/5tD6FNrK7Hlxlkt4pbAliC) | [Mi Habitación](https://open.spotify.com/album/52ZsUG7LV159qKUKOyCjHF) | 2:35 | 2022-08-19 |  |
 | [Mirando](https://open.spotify.com/track/64ekrXN8XATh5MaUtLT2LI) | [Dromedarios Mágicos](https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9) | [Mirando](https://open.spotify.com/album/5dupFfiBadc2bWw9Knzwx0) | 3:37 | 2022-03-25 |  |
 | [Moncler](https://open.spotify.com/track/3xe0zQi4tsynmXmwCLpbX1) | [Ters](https://open.spotify.com/artist/5Mf1s6zvBdwT3ZmEfWVovB) | [Moncler](https://open.spotify.com/album/10vp9TVLfS1ByCx0atI6x9) | 3:06 | 2022-03-25 |  |
@@ -113,7 +113,7 @@
 | [Perdernos de Vista](https://open.spotify.com/track/4NSRJDeHgCxpicjoBbUuMK) | [KNYA](https://open.spotify.com/artist/5OOwdQqnYQSdypLCSQ3Kvz) | [Perdernos de Vista](https://open.spotify.com/album/0wOlQ0jWhdrvoXAH4CWBDi) | 2:55 | 2022-03-25 | 2022-07-29 |
 | [Perdida En Un Sueño](https://open.spotify.com/track/1wRVAinPRWyR67BD7DIlRJ) | [highgates](https://open.spotify.com/artist/6GXhi2fBJnA3c7OOcqILln), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [Perdida En Un Sueño](https://open.spotify.com/album/16dfrsHTy1aqUMm8qoknPz) | 2:34 | 2022-03-25 |  |
 | [pikito](https://open.spotify.com/track/7E8gROr7cN79wbxZ4yqL8Z) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [pikito](https://open.spotify.com/album/33CyjR8qCG48VArrgao5Oz) | 3:00 | 2022-04-08 |  |
-| [pizza](https://open.spotify.com/track/7rvKogufniHwoxQIgdcGde) | [Gala Nell](https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY) | [pizza](https://open.spotify.com/album/2i7oobLiBdNj4w4jwZKjh0) | 2:47 | 2022-03-25 |  |
+| [pizza](https://open.spotify.com/track/7rvKogufniHwoxQIgdcGde) | [Gala Nell](https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY) | [pizza](https://open.spotify.com/album/2i7oobLiBdNj4w4jwZKjh0) | 2:47 | 2022-03-25 | 2022-09-03 |
 | [Prometimos No Hablar](https://open.spotify.com/track/1aTHKQ5x0tBFmN9yW8jtLF) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [Prometimos No Hablar](https://open.spotify.com/album/40jASBMnpbRBj7O8QfLUEU) | 4:19 | 2022-03-25 |  |
 | [Puente](https://open.spotify.com/track/1KmEEVfPbIfOqXdVxr8gm2) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Puente](https://open.spotify.com/album/3fFFuFzU8vpMbOhxDVCzBj) | 3:00 | 2022-03-25 | 2022-04-23 |
 | [Quiero Quedarme para Siempre](https://open.spotify.com/track/3du9ocej65TycajaDfw8j9) | [La La Love You](https://open.spotify.com/artist/5Q30fhTc0Sl0Q4C5dOjhhQ), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Quiero Quedarme para Siempre](https://open.spotify.com/album/7AQmikvyjRWLYx5cey4JIG) | 3:09 | 2022-04-18 |  |
@@ -124,7 +124,7 @@
 | [Rewind](https://open.spotify.com/track/7aCLiSRpbxWZ0YCiQW9bDh) | [Fishlights](https://open.spotify.com/artist/3FV3XPfp73YhW5ZuYuR7KR) | [Rewind](https://open.spotify.com/album/0jbfIkQbXZEV9dVxqEKn9S) | 3:05 | 2022-03-25 | 2022-05-11 |
 | [roncola](https://open.spotify.com/track/36KSajo0NyH3eGgbS4AuJ7) | [Ankli](https://open.spotify.com/artist/3KZvceRfxWCtbJ0jW5BZHI) | [roncola](https://open.spotify.com/album/7wBnQpzEspxCuDIfBcvtH9) | 2:52 | 2022-03-25 |  |
 | [Sangre y Cristal](https://open.spotify.com/track/5RSfZ8sNVLUSFkr0xzs4H3) | [mariagrep](https://open.spotify.com/artist/6qW73GlY1wPnQ9zxIOYCzy) | [Si un Día](https://open.spotify.com/album/4AxBZOLPSWVEYBtcmObljJ) | 1:58 | 2022-03-25 | 2022-07-29 |
-| [seguiremos siendo](https://open.spotify.com/track/6zX7KSFicewSnSeT3W2tvN) | [Depresión Sonora](https://open.spotify.com/artist/2oCrGFAUJwBVFaaIM8c0AO), [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [seguiremos siendo](https://open.spotify.com/album/4KkPCRsBQnbv25qKv8dkpI) | 3:14 | 2022-03-25 |  |
+| [seguiremos siendo](https://open.spotify.com/track/6zX7KSFicewSnSeT3W2tvN) | [Depresión Sonora](https://open.spotify.com/artist/2oCrGFAUJwBVFaaIM8c0AO), [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [seguiremos siendo](https://open.spotify.com/album/4KkPCRsBQnbv25qKv8dkpI) | 3:14 | 2022-03-25 | 2022-09-03 |
 | [Siempre Hago Lo Que Quiero](https://open.spotify.com/track/1vplR8zbm1rQWYskepMvtb) | [Clara Yolks](https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59), [Duplat](https://open.spotify.com/artist/74Bgwc5zD9KyNHiMqy2QJO) | [Siempre Hago Lo Que Quiero](https://open.spotify.com/album/0FOVQGRKiBAXNRc0nPg2Tt) | 3:44 | 2022-08-26 |  |
 | [SIN DISFRAZ](https://open.spotify.com/track/3twPa5N5LId3yC87CEVrH3) | [SIMONA](https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT) | [SIN DISFRAZ](https://open.spotify.com/album/6HunluzNc7uTDLSWSd7goR) | 2:35 | 2022-03-25 | 2022-07-29 |
 | [SIN DISFRAZ](https://open.spotify.com/track/4Mtqamm7J5n56aUdDDnI4X) | [SIMONA](https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT) | [SIN DISFRAZ](https://open.spotify.com/album/5wSk9XLTcNDxAEgFFVaZbC) | 2:35 | 2022-07-25 |  |
@@ -143,7 +143,9 @@
 | [Todo Lamento](https://open.spotify.com/track/3e8haeh6alXHp8bwLhk4Vc) | [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP) | [Todo Lamento](https://open.spotify.com/album/4dHpeoII8QA3LaOXTYnCgm) | 2:35 | 2022-03-25 |  |
 | [TOSCANA](https://open.spotify.com/track/6ejAYAdo08qbPLrH4FEfYe) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0) | [Cardellino](https://open.spotify.com/album/43ngUKpEMUdgNv3cHaWGKC) | 2:49 | 2022-03-25 |  |
 | [TQB](https://open.spotify.com/track/4C6844tUibAL9cSObEEukn) | [Kirnbauer](https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA) | [TQB](https://open.spotify.com/album/678s8RjRxY6cXhbPmdRurI) | 2:46 | 2022-03-25 | 2022-05-17 |
+| [Triste Pop](https://open.spotify.com/track/30zVKpTZnkrmKMiIcpoPlV) | [Lasitud](https://open.spotify.com/artist/1zQ7Htx1vh0vmCHmxVVG0d) | [Triste Pop](https://open.spotify.com/album/2zIYA9Zs3vk0yQk241Omgt) | 5:22 | 2022-09-02 |  |
 | [Un día es un día](https://open.spotify.com/track/62bvM6Glmk6Ek6Gf34GWwn) | [Mint Field](https://open.spotify.com/artist/3okJi6oq87Mwx0VzywmMgz) | [Soñé](https://open.spotify.com/album/3aGmHJLrFubhnEBeaASZoy) | 3:59 | 2022-03-25 | 2022-04-19 |
+| [Un Momento](https://open.spotify.com/track/4k1wOvis4BrvbkOT6jmaJ9) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Un Momento](https://open.spotify.com/album/6rObLR3OfwtAkft3WuEuTI) | 3:09 | 2022-09-02 |  |
 | [un rato](https://open.spotify.com/track/22BWBU9Pwgz3M7fP1mahfk) | [Kirnbauer](https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA) | [un rato](https://open.spotify.com/album/0LigoTHlglv2GPl0nb2O0F) | 2:48 | 2022-03-25 | 2022-07-29 |
 | [un sueño raro](https://open.spotify.com/track/2ASygHwRhyPWzh6pdiuWYR) | [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd) | [Fosis Met Amor](https://open.spotify.com/album/4lhk0djVeQeioDawW8NkO3) | 3:12 | 2022-04-22 |  |
 | [Una Más](https://open.spotify.com/track/3gNu60FxbcyyGiVKcUJxNf) | [Yarea](https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl) | [Una Más](https://open.spotify.com/album/7pf7WgkPT215mX6U66Z4dI) | 2:54 | 2022-03-25 | 2022-04-23 |
@@ -156,6 +158,7 @@
 | [Vuelvo A Ti](https://open.spotify.com/track/0a5pyR7iQFtlRMBzHh8XQH) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG) | [Vuelvo A Ti](https://open.spotify.com/album/401HbqKVOPSIsIHCKIpKkp) | 3:07 | 2022-03-25 | 2022-06-25 |
 | [x 1 minuto](https://open.spotify.com/track/3br3NQQzQ6gyBNO87qimqN) | [Yellow Dudes](https://open.spotify.com/artist/2vy5oloPxplakUsZR3chVY) | [x 1 minuto](https://open.spotify.com/album/3zN9jgURM2rejkuctjl4W2) | 3:37 | 2022-03-25 | 2022-07-28 |
 | [XAT \(Juanita La O Remix\)](https://open.spotify.com/track/2HFqgimGHdB73kdBoNKAY3) | [pau](https://open.spotify.com/artist/3K8xLmnOqUqGGaLzL0DvL3), [Juanita La O](https://open.spotify.com/artist/4E7BbNhnHWRifH0LUUsQoT) | [Refresco](https://open.spotify.com/album/2IF1XMAdUABwcrZSWFnE4b) | 3:17 | 2022-03-25 | 2022-06-24 |
+| [Y Si](https://open.spotify.com/track/081225Aw909qAbV9UjAQeM) | [Kimberley Tell](https://open.spotify.com/artist/1NTTlLcsHvqOZFC6CQp6Ka) | [Y Si](https://open.spotify.com/album/2zGCoMAOkdVwmEpCew4SL3) | 1:54 | 2022-09-02 |  |
 | [Ya No Quiero Estar \- Can I Call You?](https://open.spotify.com/track/63KJ8rICVw03iuIZrfahIK) | [Pablo Vermell](https://open.spotify.com/artist/1QXsIqLfotA6OnwVqQvPs5), [MOGUE](https://open.spotify.com/artist/18es9hoK2KUOefwp7D5Rsx) | [Ya No Quiero Estar \(Can I Call You?\)](https://open.spotify.com/album/5uHfoPSnsnoRUlNyTHHp16) | 2:18 | 2022-03-25 | 2022-07-28 |
 | [Young](https://open.spotify.com/track/47VlZn29DoKGOL64qbqxvt) | [Harmless](https://open.spotify.com/artist/5dYGaoCO0iaUZKfl9K8Gtd) | [Young](https://open.spotify.com/album/25At4hX7SKuKb4jPtaGRmC) | 2:13 | 2022-07-25 |  |
 | [Yours](https://open.spotify.com/track/0gmStTUTuiU807EB4KafOX) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Yours](https://open.spotify.com/album/0aMCgryYtjpLrk4FhcTSU9) | 3:40 | 2022-03-25 |  |

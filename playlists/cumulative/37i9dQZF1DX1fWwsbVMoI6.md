@@ -4,7 +4,7 @@
 
 > A ponerse a tono con los mejores cumbiones\. Foto: Puro Sentimiento
 
-105 songs - 7 hr 19 min - [published](https://open.spotify.com/playlist/5GjAZyTyn8IndSL0yMdeQa)
+106 songs - 7 hr 23 min - [published](https://open.spotify.com/playlist/5GjAZyTyn8IndSL0yMdeQa)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [El Ritmo de Mi Corazon](https://open.spotify.com/track/2RFMVm8ox1fX27BJLFhvLz) | [Grupo 5](https://open.spotify.com/artist/0l8RtvcBMjeOqfgRSVo2d6) | [El Ritmo de Mi Corazon](https://open.spotify.com/album/65waTGJFJw8XASFnrfgAKC) | 3:43 | 2022-02-11 | 2022-07-25 |
 | [El Ritmo de Mi Corazón](https://open.spotify.com/track/3SQRqRJ4xl2FZ8B5eswvvU) | [Grupo 5](https://open.spotify.com/artist/0l8RtvcBMjeOqfgRSVo2d6) | [El Ritmo de Mi Corazón](https://open.spotify.com/album/55mg4qE79gK6ZYCyihWYo6) | 3:40 | 2022-02-11 |  |
 | [El Solitario](https://open.spotify.com/track/3x7U7y8PQnFVpOXbamsMVj) | [Orquesta Caribeños de Guadalupe](https://open.spotify.com/artist/3TMIaKD9aqaLVRTK5DYg0C) | [Los Reyes de la Cumbia](https://open.spotify.com/album/6ivsiewk1qzMavQqsisImi) | 4:11 | 2022-02-11 | 2022-07-28 |
+| [El Solitario](https://open.spotify.com/track/64GsayRbJ4tWm1m94DZSQh) | [Orquesta Caribeños de Guadalupe](https://open.spotify.com/artist/3TMIaKD9aqaLVRTK5DYg0C) | [Goza Tu Cumbia: Peruvian Cumbia](https://open.spotify.com/album/6ShlZFDjnbxigu2oXHcUMi) | 4:21 | 2022-08-05 |  |
 | [Esta Noche](https://open.spotify.com/track/5ADtBduXijGWnXVDAB77mj) | [Orquesta Candela](https://open.spotify.com/artist/20CwGx7uSQQXXeDXxF0RjU) | [Solo Éxitos](https://open.spotify.com/album/1qwS3Jan9c0D3y40PTlmMD) | 3:57 | 2022-02-11 |  |
 | [Falso Amor](https://open.spotify.com/track/7xkPCQyEtgzDJN1kmE0lAa) | [Antologia](https://open.spotify.com/artist/1cKkCkJkKegHCRYx02lBI6), [Agua Marina](https://open.spotify.com/artist/5ZAR5Usb11xw4KENbEE8uZ) | [Falso Amor](https://open.spotify.com/album/0exDN3kRd83mX8ejcwJnKl) | 4:06 | 2022-02-11 |  |
 | [He Sentido Amor](https://open.spotify.com/track/2omcZyahahtsgUkSLwbkdc) | [Amaya Hnos](https://open.spotify.com/artist/5jSk6SgXKrDMuyvyVtoHkZ) | [17 Años de Música](https://open.spotify.com/album/2fSQZdE24zSmpHvft5FwfP) | 3:55 | 2022-02-11 | 2022-07-29 |
@@ -76,7 +77,7 @@
 | [No se puede amar a dos](https://open.spotify.com/track/5d0s5Tb6xNDyXSnVuS0Isv) | [Los Ecos](https://open.spotify.com/artist/3HFLs2Kw7HWE3UZUtLzIeS) | [Cumbias de Oro Vol\. 2](https://open.spotify.com/album/5SPbW2Q9beZM1TzPUE5OdV) | 4:47 | 2022-02-11 | 2022-07-29 |
 | [No Se Puede Amar a Dos](https://open.spotify.com/track/6j7apOMjYex2G4iIbIMdHF) | [Los Ecos](https://open.spotify.com/artist/3HFLs2Kw7HWE3UZUtLzIeS) | [Los Querendones de la Cumbia, Vol\. 1](https://open.spotify.com/album/42HTe6akwChVCYeLijteif) | 4:47 | 2022-02-11 |  |
 | [No Sé](https://open.spotify.com/track/6u5f7X2vWaQFdez1UImzOf) | [Explosión De Iquitos](https://open.spotify.com/artist/0OINXnn688Z2y3n6UAdj5B) | [No Sé](https://open.spotify.com/album/501qYvcaT1VCDzRK2I1mhq) | 4:06 | 2022-02-11 |  |
-| [No Te Creas Tan Importante](https://open.spotify.com/track/7jlbNMjcYOF89FWhi5Jqzb) | [Deyvis Orosco](https://open.spotify.com/artist/4Ys2BviobiudpEXEgVtdlV) | [No Te Creas Tan Importante](https://open.spotify.com/album/2Kd45irIJVHP2F5zrb8c66) | 4:08 | 2022-02-11 |  |
+| [No Te Creas Tan Importante](https://open.spotify.com/track/7jlbNMjcYOF89FWhi5Jqzb) | [Deyvis Orosco](https://open.spotify.com/artist/4Ys2BviobiudpEXEgVtdlV) | [No Te Creas Tan Importante](https://open.spotify.com/album/2Kd45irIJVHP2F5zrb8c66) | 4:08 | 2022-02-11 | 2022-09-03 |
 | [Pecadora 2020 \- Versión Cumbia](https://open.spotify.com/track/1Y1FQQETtjQ6mGQPNSn4TS) | [Deyvis Orosco](https://open.spotify.com/artist/4Ys2BviobiudpEXEgVtdlV), [Johnny Orosco](https://open.spotify.com/artist/4ghTBFu8toXHUUVNtLILX0), [Grupo Nectar](https://open.spotify.com/artist/67ktO6WKPZ0h4cBxSBBoep) | [Pecadora 2020 \(Versión Cumbia\)](https://open.spotify.com/album/7GIrQUCOrL7BKz2StdGcRc) | 3:39 | 2022-02-11 | 2022-07-29 |
 | [Pedacito de Mi Vida](https://open.spotify.com/track/4un5KOE0xkfuDvgA8QaWWX) | [Tommy Portugal](https://open.spotify.com/artist/1kymA1IcM9xoorQ2u0rD1i) | [Homenaje a Nuestra Kumbia](https://open.spotify.com/album/54h1Hyt6Z2LvQ6r1W4gfbW) | 3:47 | 2022-02-11 | 2022-07-28 |
 | [Pensando en Ti](https://open.spotify.com/track/6ZRWmk8bYmHCcseZqyykWR) | [Agua Marina](https://open.spotify.com/artist/5ZAR5Usb11xw4KENbEE8uZ) | [Directo al Corazón, Vol\. 18](https://open.spotify.com/album/7qMhIUFDDzM9uEIlhT5mnE) | 3:33 | 2022-02-11 |  |

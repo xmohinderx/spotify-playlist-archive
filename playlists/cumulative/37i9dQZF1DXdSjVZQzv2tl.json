@@ -778,6 +778,24 @@
     },
     {
       "album": {
+        "name": "Fala Alguma Coisa (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5KNtqlfJEyuLHqNRwHYE3B"
+      },
+      "artists": [
+        {
+          "name": "Paulo e Nathan",
+          "url": "https://open.spotify.com/artist/3CGLLDfrPjF2FJ8HDCKMMv"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161802,
+      "name": "Fala Alguma Coisa - Ao Vivo",
+      "url": "https://open.spotify.com/track/0JAnjmcYMX157RsnmkhDBW"
+    },
+    {
+      "album": {
         "name": "Fala Mal de Mim (Ao Vivo)",
         "url": "https://open.spotify.com/album/5cCDnN0XpXRSfYCd7vUAAB"
       },
@@ -1577,7 +1595,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 206171,
       "name": "Todo Mundo Menos Voc\u00ea",
       "url": "https://open.spotify.com/track/6H1OZfzhdwK4lmaPnOLJ0b"

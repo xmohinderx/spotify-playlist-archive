@@ -2,7 +2,7 @@
 
 ### [Coffee Table Jazz](https://open.spotify.com/playlist/37i9dQZF1DWVqfgj8NZEp1)
 
-> Relax to the sound of jazz.
+> Relax to the sound of gentle instrumental jazz.
 
 232 songs - 22 hr 3 min - [published](https://open.spotify.com/playlist/1BNyDUqpnIIfJt1H1RWx5R)
 

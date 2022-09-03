@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Ponte cursi con las canciones m\u00e1s rom\u00e1nticas!",
-  "num_followers": 762463,
+  "num_followers": 762832,
   "original_name": "Banda Rom\u00e1ntica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTc1OTg5MCwwMDAwMDAwMDg4MDhjMDRmZDg0NGRlZmRjMzRhOTUyMDA3YzAyM2M1",
+  "snapshot_id": "MTY1NTc1OTg5MCwwMDAwMDAwMGEyNGQyYjI4ZmQxYTBhNDBlNzBlMDEyNTQ4MzY3YzAz",
   "tracks": [
     {
       "added_at": "2022-06-20 21:18:10",
@@ -287,22 +287,6 @@
     {
       "added_at": "2022-05-06 18:52:36",
       "album": {
-        "name": "Pideme (En Vivo)",
-        "url": "https://open.spotify.com/album/5YDFEV3hqfXdvFWO9DNFPR"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 256170,
-      "name": "Pideme - En Vivo",
-      "url": "https://open.spotify.com/track/4OvWsid9gwU8nimd6KIXN6"
-    },
-    {
-      "added_at": "2022-05-06 18:52:36",
-      "album": {
         "name": "Our Wave Nuestra Ola",
         "url": "https://open.spotify.com/album/7k3KEedw9YYKrgSrIKknuo"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 239497,
       "name": "Ojitos de Miel",
       "url": "https://open.spotify.com/track/3V1jBnDI3zCn25ONFiqwN8"
+    },
+    {
+      "added_at": "2022-05-06 18:52:36",
+      "album": {
+        "name": "Pideme (En Vivo)",
+        "url": "https://open.spotify.com/album/5YDFEV3hqfXdvFWO9DNFPR"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 256170,
+      "name": "Pideme - En Vivo",
+      "url": "https://open.spotify.com/track/4OvWsid9gwU8nimd6KIXN6"
     },
     {
       "added_at": "2022-05-06 18:52:36",
@@ -659,22 +659,6 @@
     {
       "added_at": "2022-05-06 18:52:36",
       "album": {
-        "name": "Acurrucar",
-        "url": "https://open.spotify.com/album/4vRkAsNoxr8aH9zsJkvvUK"
-      },
-      "artists": [
-        {
-          "name": "Los Pescadores Del Rio Conchos",
-          "url": "https://open.spotify.com/artist/3h88VTqRj3GbUd2W41ZY5U"
-        }
-      ],
-      "duration_ms": 178700,
-      "name": "Acurrucar",
-      "url": "https://open.spotify.com/track/0vTmuKsIgqtez9Ups70mQU"
-    },
-    {
-      "added_at": "2022-05-06 18:52:36",
-      "album": {
         "name": "Mi Persona Preferida",
         "url": "https://open.spotify.com/album/5539gXhKSR7ykwrh6wamQJ"
       },
@@ -691,18 +675,18 @@
     {
       "added_at": "2022-05-06 18:52:36",
       "album": {
-        "name": "Tu Yo Y La Luna",
-        "url": "https://open.spotify.com/album/6TaajQPlK5bJgltZtbWxF9"
+        "name": "Acurrucar",
+        "url": "https://open.spotify.com/album/4vRkAsNoxr8aH9zsJkvvUK"
       },
       "artists": [
         {
-          "name": "El Chapo De Sinaloa",
-          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+          "name": "Los Pescadores Del Rio Conchos",
+          "url": "https://open.spotify.com/artist/3h88VTqRj3GbUd2W41ZY5U"
         }
       ],
-      "duration_ms": 200386,
-      "name": "Si Yo Fuera Ladr\u00f3n",
-      "url": "https://open.spotify.com/track/3smCnGYSUF8BwNDjbpAZZA"
+      "duration_ms": 178700,
+      "name": "Acurrucar",
+      "url": "https://open.spotify.com/track/0vTmuKsIgqtez9Ups70mQU"
     },
     {
       "added_at": "2022-05-06 18:52:36",
@@ -719,6 +703,22 @@
       "duration_ms": 210133,
       "name": "Mi Amuleto Eres T\u00fa",
       "url": "https://open.spotify.com/track/3unSYVLOSglxPFNOwYXRA0"
+    },
+    {
+      "added_at": "2022-05-06 18:52:36",
+      "album": {
+        "name": "Tu Yo Y La Luna",
+        "url": "https://open.spotify.com/album/6TaajQPlK5bJgltZtbWxF9"
+      },
+      "artists": [
+        {
+          "name": "El Chapo De Sinaloa",
+          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        }
+      ],
+      "duration_ms": 200386,
+      "name": "Si Yo Fuera Ladr\u00f3n",
+      "url": "https://open.spotify.com/track/3smCnGYSUF8BwNDjbpAZZA"
     },
     {
       "added_at": "2022-05-06 18:52:36",
@@ -983,22 +983,6 @@
     {
       "added_at": "2022-05-06 18:52:36",
       "album": {
-        "name": "Pensando En Ti",
-        "url": "https://open.spotify.com/album/7qvniQLYMWkFmFqO5LqDxm"
-      },
-      "artists": [
-        {
-          "name": "Cuarto de Milla",
-          "url": "https://open.spotify.com/artist/5yambtXlsDmaV304q7CRIe"
-        }
-      ],
-      "duration_ms": 149812,
-      "name": "Pensando En Ti",
-      "url": "https://open.spotify.com/track/3Uv7mHKnkvdop08vJ34KjI"
-    },
-    {
-      "added_at": "2022-05-06 18:52:36",
-      "album": {
         "name": "Mi Buena Suerte",
         "url": "https://open.spotify.com/album/3Ucu7Yp0cBJvikdVn5qsUA"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 189466,
       "name": "Mi Buena Suerte",
       "url": "https://open.spotify.com/track/1LD1RC3P9a1nYkxJ621M17"
+    },
+    {
+      "added_at": "2022-05-06 18:52:36",
+      "album": {
+        "name": "Pensando En Ti",
+        "url": "https://open.spotify.com/album/7qvniQLYMWkFmFqO5LqDxm"
+      },
+      "artists": [
+        {
+          "name": "Cuarto de Milla",
+          "url": "https://open.spotify.com/artist/5yambtXlsDmaV304q7CRIe"
+        }
+      ],
+      "duration_ms": 149812,
+      "name": "Pensando En Ti",
+      "url": "https://open.spotify.com/track/3Uv7mHKnkvdop08vJ34KjI"
     },
     {
       "added_at": "2022-05-06 18:52:36",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2022-05-06 18:52:36",
       "album": {
-        "name": "Pensando En Ti",
-        "url": "https://open.spotify.com/album/5jt17hy0CY3U7NuzbXdX4u"
-      },
-      "artists": [
-        {
-          "name": "Germ\u00e1n Montero",
-          "url": "https://open.spotify.com/artist/2mJLFoa2cRqCZHL6MZNaak"
-        }
-      ],
-      "duration_ms": 173226,
-      "name": "Amantes Escondidos",
-      "url": "https://open.spotify.com/track/4PbrxFKJg5rLkZ77vKhhY9"
-    },
-    {
-      "added_at": "2022-05-06 18:52:36",
-      "album": {
         "name": "La Loteria",
         "url": "https://open.spotify.com/album/1eOnR7Tb5ajg0OMNi68i4W"
       },
@@ -1063,6 +1047,22 @@
     {
       "added_at": "2022-05-06 18:52:36",
       "album": {
+        "name": "Pensando En Ti",
+        "url": "https://open.spotify.com/album/5jt17hy0CY3U7NuzbXdX4u"
+      },
+      "artists": [
+        {
+          "name": "Germ\u00e1n Montero",
+          "url": "https://open.spotify.com/artist/2mJLFoa2cRqCZHL6MZNaak"
+        }
+      ],
+      "duration_ms": 173226,
+      "name": "Amantes Escondidos",
+      "url": "https://open.spotify.com/track/4PbrxFKJg5rLkZ77vKhhY9"
+    },
+    {
+      "added_at": "2022-05-06 18:52:36",
+      "album": {
         "name": "El Primer Ministro",
         "url": "https://open.spotify.com/album/1fLCJYEq0kv87PSPdCB0dC"
       },
@@ -1075,26 +1075,6 @@
       "duration_ms": 145560,
       "name": "Ma\u00f1ana Voy A Conquistarla",
       "url": "https://open.spotify.com/track/5GFb9XV4WnIQZ3H6dr9lbd"
-    },
-    {
-      "added_at": "2022-05-06 18:52:36",
-      "album": {
-        "name": "Mi Amor Por Ti (En Vivo)",
-        "url": "https://open.spotify.com/album/2uApDE90u1pYGQvHlkoAyg"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 239695,
-      "name": "Mi Amor Por Ti (En Vivo)",
-      "url": "https://open.spotify.com/track/463qI2v2wPH2OOF5m6J8Gm"
     },
     {
       "added_at": "2022-05-06 18:52:36",
@@ -1127,6 +1107,26 @@
       "duration_ms": 186866,
       "name": "Especial",
       "url": "https://open.spotify.com/track/71vXdFRVs79sf3RpU9SowK"
+    },
+    {
+      "added_at": "2022-05-06 18:52:36",
+      "album": {
+        "name": "Mi Amor Por Ti (En Vivo)",
+        "url": "https://open.spotify.com/album/2uApDE90u1pYGQvHlkoAyg"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 239695,
+      "name": "Mi Amor Por Ti (En Vivo)",
+      "url": "https://open.spotify.com/track/463qI2v2wPH2OOF5m6J8Gm"
     },
     {
       "added_at": "2022-05-06 18:52:36",

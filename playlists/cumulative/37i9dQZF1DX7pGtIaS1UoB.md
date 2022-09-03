@@ -4,7 +4,7 @@
 
 > 這些有節奏有溫度的情歌，能讓你時時刻刻都有在幸福中遊走的感覺。
 
-229 songs - 13 hr 55 min - [published](https://open.spotify.com/playlist/5iFkvSVaOfjtCz6w0iDsyy)
+230 songs - 13 hr 58 min - [published](https://open.spotify.com/playlist/5iFkvSVaOfjtCz6w0iDsyy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [在我們的星球眼淚不超過三秒](https://open.spotify.com/track/37U4HQfGjWZpmXVfSbbgdy) | [鄧福如 AFÜ](https://open.spotify.com/artist/7hJBfmab67blVoqZBIAx13) | [在我們的星球眼淚不超過三秒](https://open.spotify.com/album/5yZZ5qRvkPok40amVzuV2l) | 3:29 | 2022-07-25 |  |
 | [在我們的星球眼淚不超過三秒](https://open.spotify.com/track/48rVMYgcxxTAKBvCirg7Np) | [鄧福如 AFÜ](https://open.spotify.com/artist/7hJBfmab67blVoqZBIAx13) | [在我們的星球眼淚不超過三秒](https://open.spotify.com/album/6xSNiK14HcybKglAJBUDc6) | 3:29 | 2022-06-06 | 2022-07-28 |
 | [墨菲定律 \(feat\. Sherman Zhuo\)](https://open.spotify.com/track/27I1DB7fCuuhRcXt8r8fnx) | [Shelby Wang](https://open.spotify.com/artist/2Ei4OyOgbi3w0smNgmBBv0), [Sherman Zhuo](https://open.spotify.com/artist/6Ol8MzcK4ARqC8cTJbFxAw) | [墨菲定律 \(feat\. Sherman Zhuo\)](https://open.spotify.com/album/39U4JqGLKnFoSzAyo3wwMP) | 3:02 | 2022-06-06 | 2022-06-17 |
+| [夏色17号\-比尔的歌](https://open.spotify.com/track/5Dr6LweBUX9A0w4Fm0oaB0) | [Bomb比尔](https://open.spotify.com/artist/3Sb1u6CGLCWHHphMqX326E), [不是花火呀](https://open.spotify.com/artist/5CxdR3VSEWjiAa5DabdLVd) | [夏色17号\-比尔的歌](https://open.spotify.com/album/0ZO8r4sN5eymZG4YMozKT1) | 3:13 | 2022-08-29 |  |
 | [天使見證的愛情](https://open.spotify.com/track/46k8JnUuYVu8yWtC3VN8wo) | [蕭秉治](https://open.spotify.com/artist/0Ej4GfzIcW3dWP0rC5d4x1), [ERIKA](https://open.spotify.com/artist/3cuZA22vz0nToT0LAcecup) | [凡人](https://open.spotify.com/album/1MZZXzwEPXBvwG29dpGCDZ) | 3:23 | 2022-06-27 | 2022-07-28 |
 | [天生一對](https://open.spotify.com/track/2zHy0qGu8LmpG7EHP2QzkB) | [Young](https://open.spotify.com/artist/7tuUo4Kby0sTXYcctxdlYa) | [天生一對](https://open.spotify.com/album/5uSx00qbtn0iZbyM44YXYY) | 4:03 | 2022-06-06 | 2022-07-29 |
 | [好久不見](https://open.spotify.com/track/1qjkBEqOHZoT95xhEKISLZ) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [跨時代](https://open.spotify.com/album/7oz7WhrdSfsC3GkAUPOzgL) | 4:12 | 2022-06-20 | 2022-07-10 |
@@ -166,7 +167,7 @@
 | [是你啊](https://open.spotify.com/track/4Qu4L6TmIJoFzumjxp3lGw) | [Niko Sun](https://open.spotify.com/artist/0PjwjckyZwud4p7iAIcspa) | [不枉年少](https://open.spotify.com/album/2WuKpPZ2qoabkAeyCU6Y9e) | 3:55 | 2022-06-13 | 2022-07-18 |
 | [月光森林](https://open.spotify.com/track/5j73bSHAoFQW84vwb64lJQ) | [兔子牙](https://open.spotify.com/artist/5IKSF0sUp4qqybBa8tjOqW) | [月光森林](https://open.spotify.com/album/363MAMYrjcQVlG3mvilLDX) | 3:20 | 2022-07-04 | 2022-07-14 |
 | [有何不可](https://open.spotify.com/track/5rXBmcYNJYMYdhwxlMLh0s) | [許嵩](https://open.spotify.com/artist/2hgxWUG24w1cFLBlPSEVcV) | [自定義](https://open.spotify.com/album/0OfgDIAou9mTshlocs9hXD) | 4:00 | 2022-06-06 |  |
-| [有空記得約我 \- 電視電影《雜貨店》主題曲](https://open.spotify.com/track/1ruZAxKKU6x6fl7MKlkRfs) | [The Freshman](https://open.spotify.com/artist/2pZzvphS66rCxKBiJCrO9y) | [有空記得約我 \(電視電影《雜貨店》主題曲\)](https://open.spotify.com/album/4gFAG2ZXep3vHcqzDlt8PV) | 4:03 | 2022-06-06 |  |
+| [有空記得約我 \- 電視電影《雜貨店》主題曲](https://open.spotify.com/track/1ruZAxKKU6x6fl7MKlkRfs) | [The Freshman](https://open.spotify.com/artist/2pZzvphS66rCxKBiJCrO9y) | [有空記得約我 \(電視電影《雜貨店》主題曲\)](https://open.spotify.com/album/4gFAG2ZXep3vHcqzDlt8PV) | 4:03 | 2022-06-06 | 2022-09-03 |
 | [欢迎光临](https://open.spotify.com/track/65TuztwYKl9Ka0Y17OczHx) | [Koala Liu](https://open.spotify.com/artist/0rG7yyjd15xAQ3Z9SK4FU3), [盧俊傑](https://open.spotify.com/artist/2yET7cDQpHNdprCQW5zcx9) | [欢迎光临](https://open.spotify.com/album/2jvHOTPUzcfTgfRBQ4fRCP) | 3:53 | 2022-06-06 | 2022-07-28 |
 | [每一天都想见面](https://open.spotify.com/track/6xfJ2GBycSzHJUgr2Kw9Xc) | [颜人中](https://open.spotify.com/artist/5PNcqs6EtD6gSXgUiiJIUU) | [每一天都想见面](https://open.spotify.com/album/5TH32PfNAAR304rtJaYN84) | 3:02 | 2022-07-04 | 2022-07-29 |
 | [每分每秒](https://open.spotify.com/track/1T4oS7tf4FpCht0NkwFikF) | [Ours](https://open.spotify.com/artist/5VxMD3kw0WnX3huE0Oli68) | [每分每秒](https://open.spotify.com/album/2i0xJJFEXHJDmSVxdl3z6Q) | 3:20 | 2022-06-06 |  |

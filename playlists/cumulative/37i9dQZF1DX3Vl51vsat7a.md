@@ -4,7 +4,7 @@
 
 > Discover your new favourite artists with a focus on Germany, Switzerland, Austria\. Cover: ENNIO
 
-127 songs - 7 hr 3 min - [published](https://open.spotify.com/playlist/7r16QFa0iXKPXTVCB31T4J)
+128 songs - 7 hr 6 min - [published](https://open.spotify.com/playlist/7r16QFa0iXKPXTVCB31T4J)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,7 +120,8 @@
 | [Tut mir nicht leid](https://open.spotify.com/track/3Z0vdZfMKPRgPrVlpj18oQ) | [Mathea](https://open.spotify.com/artist/3r5Kc95Oz8lDc8BL9ChO7n) | [M \(Extended\)](https://open.spotify.com/album/1AnZRh08V385fqDx1qw979) | 3:02 | 2021-12-16 |  |
 | [Unendlichkeit](https://open.spotify.com/track/4TaWCdfI6VyR1O8GVuyCf7) | [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [Unendlichkeit](https://open.spotify.com/album/6I0qSXltDmckxauHYmJPNv) | 3:00 | 2022-09-01 |  |
 | [Universum regelt](https://open.spotify.com/track/0oFlUUf7zFcTkFJVkxgqh9) | [Schmyt](https://open.spotify.com/artist/2DysK49GjODUdRupTMZrfb), [MAJAN](https://open.spotify.com/artist/60pVmLS5zlt31OWk340O3U) | [Universum regelt](https://open.spotify.com/album/6KlvS05TnVENX7TtId6Got) | 3:12 | 2021-12-16 | 2022-05-20 |
-| [Unsere Bank \(feat\. Danger Dan\)](https://open.spotify.com/track/1Tb272NQuHyWVAlYZEcJDt) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx), [Danger Dan](https://open.spotify.com/artist/2jXb8AWz82Sn3RRGOaia7a) | [Unsere Bank \(feat\. Danger Dan\)](https://open.spotify.com/album/3GHY2KycHJNt3mffQ0nIiR) | 2:50 | 2022-09-01 |  |
+| [Unsere Bank](https://open.spotify.com/track/3qUwFUpcYidCB9VbZaV0XX) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx), [Danger Dan](https://open.spotify.com/artist/2jXb8AWz82Sn3RRGOaia7a) | [Unsere Bank](https://open.spotify.com/album/3Wfmjr6HuaCjt0jzSyaufv) | 2:50 | 2022-09-01 |  |
+| [Unsere Bank \(feat\. Danger Dan\)](https://open.spotify.com/track/1Tb272NQuHyWVAlYZEcJDt) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx), [Danger Dan](https://open.spotify.com/artist/2jXb8AWz82Sn3RRGOaia7a) | [Unsere Bank \(feat\. Danger Dan\)](https://open.spotify.com/album/3GHY2KycHJNt3mffQ0nIiR) | 2:50 | 2022-09-01 | 2022-09-03 |
 | [Vitamins](https://open.spotify.com/track/5aLY8E1e60iaI4gVCCD7OK) | [Novaa](https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm) | [She's A Star](https://open.spotify.com/album/3YDJfL56ce6fcxL4tWxvg6) | 2:59 | 2022-05-26 |  |
 | [VOICEMAIL](https://open.spotify.com/track/25gIGyYd4Q9kHJ7Fvsa9RP) | [FAANGS](https://open.spotify.com/artist/2UlXIWBLOjskz5esa7ec2j) | [VOICEMAIL](https://open.spotify.com/album/0wg7TKWgd0ZdhSif29VuKu) | 4:10 | 2022-07-21 |  |
 | [Walk Away](https://open.spotify.com/track/3XQDYyBoAeP7Agcx4YCwHS) | [Mina Okabe](https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl) | [Walk Away](https://open.spotify.com/album/2C6u68wrYE0McXsrMRPogc) | 2:49 | 2021-12-16 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "\u00a1Adentro! Lo mejor del folklore argentino para bailar hasta el amanecer. Foto: Los del Portezuelo + Destino San Javier.",
+  "description": "\u00a1Adentro! Lo mejor del folklore argentino para bailar hasta el amanecer. Foto: Sele Vera",
   "name": "Lunas de Folklore",
   "published_playlist_ids": [
     "4jV8thGCLiOJDMuDg71WqM"
@@ -1438,6 +1438,24 @@
     },
     {
       "album": {
+        "name": "Mi Loco Amor",
+        "url": "https://open.spotify.com/album/6oNvO33sdfOdnE2o2RLP62"
+      },
+      "artists": [
+        {
+          "name": "Sele Vera y Pampas de Bariloche",
+          "url": "https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213705,
+      "name": "Mi Loco Amor",
+      "url": "https://open.spotify.com/track/2IkjSf9VxQAA7uSipkNsOJ"
+    },
+    {
+      "album": {
         "name": "Mi Lunita Cordobesa",
         "url": "https://open.spotify.com/album/7ztRmseXurOD6k0H0Du74U"
       },
@@ -1559,10 +1577,6 @@
         {
           "name": "Destino San Javier",
           "url": "https://open.spotify.com/artist/26EVG2B9cd0c1gAfDsA7uW"
-        },
-        {
-          "name": "Juan Blas Caballero",
-          "url": "https://open.spotify.com/artist/5TId3ZdYQ1j3i8FMidaec4"
         }
       ],
       "date_added": "2022-08-26",

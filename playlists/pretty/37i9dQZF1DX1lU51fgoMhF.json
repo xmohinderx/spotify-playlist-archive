@@ -1,12 +1,12 @@
 {
   "description": "Be cool with refreshing Tropical K-Pop dance music! (\uc2dc\uc6d0\uccad\ub7c9\ud55c \uad6d\ub0b4 \ub304\uc2a4\uace1\uc744 \uc990\uaca8\ubcf4\uc138\uc694!) (Cover: NAYEON(\ub098\uc5f0))",
-  "num_followers": 104392,
+  "num_followers": 104342,
   "original_name": "Summer K-Pop Hits (\uc378\uba38 \ud788\ud2b8)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTUyMjY0NywwMDAwMDAwMDY1YzA0MjQyMTE3M2E0MGFmOTA1Y2EzZTg4MTNlZWVi",
+  "snapshot_id": "MTY2MTUyMjY0NywwMDAwMDAwMDdjNmRhMjdlOWU1NzVkNTUxNjdiNjMyY2FjNmEwOGU1",
   "tracks": [
     {
       "added_at": "2022-08-26 14:04:06",
@@ -927,6 +927,22 @@
     {
       "added_at": "2022-08-26 14:04:06",
       "album": {
+        "name": "Why - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/1ukBQWhQwWKqTGgs0YzRzU"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "duration_ms": 207777,
+      "name": "Why",
+      "url": "https://open.spotify.com/track/4eiPbjcTEJDQcsv7WV0vfD"
+    },
+    {
+      "added_at": "2022-08-26 14:04:06",
+      "album": {
         "name": "I Don't Miss You",
         "url": "https://open.spotify.com/album/0MdZdkVzAdqv9QcBqnWmes"
       },
@@ -943,18 +959,18 @@
     {
       "added_at": "2022-08-26 14:04:06",
       "album": {
-        "name": "Why - The 2nd Mini Album",
-        "url": "https://open.spotify.com/album/1ukBQWhQwWKqTGgs0YzRzU"
+        "name": "Taste of Love",
+        "url": "https://open.spotify.com/album/00vb6sViDbJLmLLchfbRh4"
       },
       "artists": [
         {
-          "name": "TAEYEON",
-          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
         }
       ],
-      "duration_ms": 207777,
-      "name": "Why",
-      "url": "https://open.spotify.com/track/4eiPbjcTEJDQcsv7WV0vfD"
+      "duration_ms": 173133,
+      "name": "SOS",
+      "url": "https://open.spotify.com/track/0HqzhHq24yCgB9gz5dVFn8"
     },
     {
       "added_at": "2022-08-26 14:04:06",
@@ -991,22 +1007,6 @@
     {
       "added_at": "2022-08-26 14:04:06",
       "album": {
-        "name": "Taste of Love",
-        "url": "https://open.spotify.com/album/00vb6sViDbJLmLLchfbRh4"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "duration_ms": 173133,
-      "name": "SOS",
-      "url": "https://open.spotify.com/track/0HqzhHq24yCgB9gz5dVFn8"
-    },
-    {
-      "added_at": "2022-08-26 14:04:06",
-      "album": {
         "name": "What You Waiting For",
         "url": "https://open.spotify.com/album/59iiiARciChm70cn85wxuH"
       },
@@ -1039,18 +1039,18 @@
     {
       "added_at": "2022-08-26 14:04:06",
       "album": {
-        "name": "Summer Queen",
-        "url": "https://open.spotify.com/album/2x10RN9oP665I7gyP1UNUi"
+        "name": "ISLAND",
+        "url": "https://open.spotify.com/album/252HrrsALUd5ysKCJuRCur"
       },
       "artists": [
         {
-          "name": "Brave Girls",
-          "url": "https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB"
+          "name": "YOUHA",
+          "url": "https://open.spotify.com/artist/2lZFlNiQMLa2fuX3pkXcan"
         }
       ],
-      "duration_ms": 217320,
-      "name": "Chi Mat Ba Ram",
-      "url": "https://open.spotify.com/track/7od91jr6uXk0JoxVaIRA18"
+      "duration_ms": 197938,
+      "name": "ISLAND",
+      "url": "https://open.spotify.com/track/7imQKCdSF67V65uMplJMy1"
     },
     {
       "added_at": "2022-08-26 14:04:06",
@@ -1071,18 +1071,18 @@
     {
       "added_at": "2022-08-26 14:04:06",
       "album": {
-        "name": "ISLAND",
-        "url": "https://open.spotify.com/album/252HrrsALUd5ysKCJuRCur"
+        "name": "Summer Queen",
+        "url": "https://open.spotify.com/album/2x10RN9oP665I7gyP1UNUi"
       },
       "artists": [
         {
-          "name": "YOUHA",
-          "url": "https://open.spotify.com/artist/2lZFlNiQMLa2fuX3pkXcan"
+          "name": "Brave Girls",
+          "url": "https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB"
         }
       ],
-      "duration_ms": 197938,
-      "name": "ISLAND",
-      "url": "https://open.spotify.com/track/7imQKCdSF67V65uMplJMy1"
+      "duration_ms": 217320,
+      "name": "Chi Mat Ba Ram",
+      "url": "https://open.spotify.com/track/7od91jr6uXk0JoxVaIRA18"
     },
     {
       "added_at": "2022-08-26 14:04:06",
@@ -1155,18 +1155,18 @@
     {
       "added_at": "2022-08-26 14:04:06",
       "album": {
-        "name": "RED SUN (With LOTTE DEPARTMENT STORE)",
-        "url": "https://open.spotify.com/album/5NdzPZhyIA3JaEpSqq9JM3"
+        "name": "BLOOM*IZ",
+        "url": "https://open.spotify.com/album/5dm3PMCHxTSOdDFZ1hlfMm"
       },
       "artists": [
         {
-          "name": "Brave Girls",
-          "url": "https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB"
+          "name": "IZ*ONE",
+          "url": "https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH"
         }
       ],
-      "duration_ms": 203093,
-      "name": "RED SUN (With LOTTE DEPARTMENT STORE)",
-      "url": "https://open.spotify.com/track/3HIAlVUMAsg2WzSvxETFbi"
+      "duration_ms": 202400,
+      "name": "AYAYAYA",
+      "url": "https://open.spotify.com/track/4XKCLNyCTvtdkLu5O1mzTU"
     },
     {
       "added_at": "2022-08-26 14:04:06",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2022-08-26 14:04:06",
       "album": {
+        "name": "RED SUN (With LOTTE DEPARTMENT STORE)",
+        "url": "https://open.spotify.com/album/5NdzPZhyIA3JaEpSqq9JM3"
+      },
+      "artists": [
+        {
+          "name": "Brave Girls",
+          "url": "https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB"
+        }
+      ],
+      "duration_ms": 203093,
+      "name": "RED SUN (With LOTTE DEPARTMENT STORE)",
+      "url": "https://open.spotify.com/track/3HIAlVUMAsg2WzSvxETFbi"
+    },
+    {
+      "added_at": "2022-08-26 14:04:06",
+      "album": {
         "name": "The Story",
         "url": "https://open.spotify.com/album/4tk1TxAS90si1va7jPWqGg"
       },
@@ -1199,22 +1215,6 @@
       "duration_ms": 182800,
       "name": "Parade",
       "url": "https://open.spotify.com/track/2lsXJ7F3QYJrQ9cQ9Icx1n"
-    },
-    {
-      "added_at": "2022-08-26 14:04:06",
-      "album": {
-        "name": "BLOOM*IZ",
-        "url": "https://open.spotify.com/album/5dm3PMCHxTSOdDFZ1hlfMm"
-      },
-      "artists": [
-        {
-          "name": "IZ*ONE",
-          "url": "https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH"
-        }
-      ],
-      "duration_ms": 202400,
-      "name": "AYAYAYA",
-      "url": "https://open.spotify.com/track/4XKCLNyCTvtdkLu5O1mzTU"
     },
     {
       "added_at": "2022-08-26 14:04:06",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2022-08-26 14:04:06",
       "album": {
-        "name": "Dynamite (DayTime Version)",
-        "url": "https://open.spotify.com/album/1Yo63a5AzPMyHiYMKYIrld"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "duration_ms": 197993,
-      "name": "Dynamite - Acoustic Remix",
-      "url": "https://open.spotify.com/track/083PvB3ID4h3jiGJ1GbbPA"
-    },
-    {
-      "added_at": "2022-08-26 14:04:06",
-      "album": {
         "name": "There And Back Again",
         "url": "https://open.spotify.com/album/643X6WW2ijEwMLaNjp1dk1"
       },
@@ -1335,18 +1319,18 @@
     {
       "added_at": "2022-08-26 14:04:06",
       "album": {
-        "name": "<Queendom2> Part.2-2",
-        "url": "https://open.spotify.com/album/5ftR2nskDFsLbszHNIiYJp"
+        "name": "Dynamite (DayTime Version)",
+        "url": "https://open.spotify.com/album/1Yo63a5AzPMyHiYMKYIrld"
       },
       "artists": [
         {
-          "name": "Kep1er",
-          "url": "https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4"
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
         }
       ],
-      "duration_ms": 240960,
-      "name": "Pool Party(Rollin\u2019 right now)",
-      "url": "https://open.spotify.com/track/4RsGFsrL1NeUlKv6Zourbp"
+      "duration_ms": 197993,
+      "name": "Dynamite - Acoustic Remix",
+      "url": "https://open.spotify.com/track/083PvB3ID4h3jiGJ1GbbPA"
     },
     {
       "added_at": "2022-08-26 14:04:06",
@@ -1363,6 +1347,22 @@
       "duration_ms": 218026,
       "name": "SUMMERIDE",
       "url": "https://open.spotify.com/track/4M9NbNJnOpVCN5jbNln2TJ"
+    },
+    {
+      "added_at": "2022-08-26 14:04:06",
+      "album": {
+        "name": "<Queendom2> Part.2-2",
+        "url": "https://open.spotify.com/album/5ftR2nskDFsLbszHNIiYJp"
+      },
+      "artists": [
+        {
+          "name": "Kep1er",
+          "url": "https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4"
+        }
+      ],
+      "duration_ms": 240960,
+      "name": "Pool Party(Rollin\u2019 right now)",
+      "url": "https://open.spotify.com/track/4RsGFsrL1NeUlKv6Zourbp"
     },
     {
       "added_at": "2022-08-26 14:04:06",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2022-08-26 14:04:06",
       "album": {
-        "name": "THANK YOU",
-        "url": "https://open.spotify.com/album/5RaqvFt71ro3Y8nngoucv6"
-      },
-      "artists": [
-        {
-          "name": "Brave Girls",
-          "url": "https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB"
-        }
-      ],
-      "duration_ms": 195413,
-      "name": "Thank You",
-      "url": "https://open.spotify.com/track/08rg9OloHTHRsk9evNPpnd"
-    },
-    {
-      "added_at": "2022-08-26 14:04:06",
-      "album": {
         "name": "BYE (feat. Whee In)",
         "url": "https://open.spotify.com/album/2iPk0O4IWcWVVHxnpCzHbx"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 188293,
       "name": "BYE (feat. Whee In)",
       "url": "https://open.spotify.com/track/55oxwFzHYVKmtSawW9MlTu"
+    },
+    {
+      "added_at": "2022-08-26 14:04:06",
+      "album": {
+        "name": "THANK YOU",
+        "url": "https://open.spotify.com/album/5RaqvFt71ro3Y8nngoucv6"
+      },
+      "artists": [
+        {
+          "name": "Brave Girls",
+          "url": "https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB"
+        }
+      ],
+      "duration_ms": 195413,
+      "name": "Thank You",
+      "url": "https://open.spotify.com/track/08rg9OloHTHRsk9evNPpnd"
     },
     {
       "added_at": "2022-08-26 14:04:06",
@@ -1611,26 +1611,6 @@
     {
       "added_at": "2022-08-26 14:04:06",
       "album": {
-        "name": "Summertime",
-        "url": "https://open.spotify.com/album/0r9E2hgF8kZ4k9zDk72CbK"
-      },
-      "artists": [
-        {
-          "name": "Dept",
-          "url": "https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U"
-        },
-        {
-          "name": "Ashley Alisha",
-          "url": "https://open.spotify.com/artist/63P6hjn73jNbnEFT0gKWKk"
-        }
-      ],
-      "duration_ms": 181813,
-      "name": "Summertime (feat. Ashley Alisha)",
-      "url": "https://open.spotify.com/track/7Iik4joMVkfqrMMCDwFe3W"
-    },
-    {
-      "added_at": "2022-08-26 14:04:06",
-      "album": {
         "name": "PROMISE U (REVIBE Vol.1)",
         "url": "https://open.spotify.com/album/4eJdKwHH9rb3dNbtIsBgjV"
       },
@@ -1651,18 +1631,38 @@
     {
       "added_at": "2022-08-26 14:04:06",
       "album": {
-        "name": "SPECIAL ALBUM <For the Summer>",
-        "url": "https://open.spotify.com/album/53gncm4YYhGNfqgPWSgXbJ"
+        "name": "Summertime",
+        "url": "https://open.spotify.com/album/0r9E2hgF8kZ4k9zDk72CbK"
       },
       "artists": [
         {
-          "name": "WJSN",
-          "url": "https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD"
+          "name": "Dept",
+          "url": "https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U"
+        },
+        {
+          "name": "Ashley Alisha",
+          "url": "https://open.spotify.com/artist/63P6hjn73jNbnEFT0gKWKk"
         }
       ],
-      "duration_ms": 183787,
-      "name": "Boogie Up",
-      "url": "https://open.spotify.com/track/6u5ipVfAHGjTXvWuiI5sKB"
+      "duration_ms": 181813,
+      "name": "Summertime (feat. Ashley Alisha)",
+      "url": "https://open.spotify.com/track/7Iik4joMVkfqrMMCDwFe3W"
+    },
+    {
+      "added_at": "2022-08-26 14:04:06",
+      "album": {
+        "name": "The Red Summer - Summer Mini Album",
+        "url": "https://open.spotify.com/album/6OXg149IkmbgW7zfzbwgS2"
+      },
+      "artists": [
+        {
+          "name": "Red Velvet",
+          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
+        }
+      ],
+      "duration_ms": 204833,
+      "name": "Zoo",
+      "url": "https://open.spotify.com/track/7sEwz6PjhQ1bbSSWb6IBid"
     }
   ],
   "unique_name": "Summer K-Pop Hits (\uc378\uba38 \ud788\ud2b8)",

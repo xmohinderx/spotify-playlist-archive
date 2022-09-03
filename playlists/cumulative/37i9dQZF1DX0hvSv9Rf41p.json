@@ -289,7 +289,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 270373,
       "name": "Aurora",
       "url": "https://open.spotify.com/track/34enNnTqxTFXEp5BFpgD5l"
@@ -997,7 +997,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 244045,
       "name": "Catharsis X",
       "url": "https://open.spotify.com/track/7ktbuWqGUsNmAS9OoNwgWk"
@@ -1221,7 +1221,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 222400,
       "name": "Dawn Of The Dead - Radio Edit",
       "url": "https://open.spotify.com/track/6pFjkMjATusw4VfpxZ6tAy"
@@ -1301,7 +1301,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 168073,
       "name": "Deja Reve",
       "url": "https://open.spotify.com/track/1nkpXkr1Qacmp2BPd6mgct"
@@ -1417,7 +1417,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 184091,
       "name": "Dibby Dibby DJ",
       "url": "https://open.spotify.com/track/56tEhPXmy3v3f07kHZQKWz"
@@ -1738,6 +1738,24 @@
     },
     {
       "album": {
+        "name": "Error Sound",
+        "url": "https://open.spotify.com/album/6SHBQsvgVsvadUIDdtbPal"
+      },
+      "artists": [
+        {
+          "name": "SO-SO",
+          "url": "https://open.spotify.com/artist/0AGwS4zwXlgeTJsee7q3cW"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170285,
+      "name": "Error Sound",
+      "url": "https://open.spotify.com/track/4NfZ4p7FW83hiePlB8t0J1"
+    },
+    {
+      "album": {
         "name": "Escape (feat. Hayla) [Subtronics Remix]",
         "url": "https://open.spotify.com/album/7ep1MESRYdgAghNhHDiLhc"
       },
@@ -2019,7 +2037,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 209230,
       "name": "falling down",
       "url": "https://open.spotify.com/track/1IZUM4WQOGO2jWY4FTug4Y"
@@ -2117,7 +2135,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 149333,
       "name": "Feel Real",
       "url": "https://open.spotify.com/track/1smVQuPPMcDTg4ZucbNAh9"
@@ -3235,7 +3253,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 165600,
       "name": "L1FE",
       "url": "https://open.spotify.com/track/6gVb7bhSZ2oxpI9tavohjZ"
@@ -3687,7 +3705,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 195216,
       "name": "Metaverse",
       "url": "https://open.spotify.com/track/3R1pvh7gQk6BVVKkJ68CLK"
@@ -4571,7 +4589,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 155624,
       "name": "Pathway",
       "url": "https://open.spotify.com/track/2CIKnjMIi05CEWlUlyIw4B"
@@ -5610,6 +5628,32 @@
     },
     {
       "album": {
+        "name": "Sable Valley Summer Vol. 3",
+        "url": "https://open.spotify.com/album/2TklWyQdmNHg7d2Xmam8G8"
+      },
+      "artists": [
+        {
+          "name": "RL Grime",
+          "url": "https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP"
+        },
+        {
+          "name": "Hex Cougar",
+          "url": "https://open.spotify.com/artist/0AlNB0yIoyxdKloLmK9AOR"
+        },
+        {
+          "name": "fknsyd",
+          "url": "https://open.spotify.com/artist/4fHFFvChjfjG7sAseTwiXd"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247500,
+      "name": "Silo (feat. fknsyd)",
+      "url": "https://open.spotify.com/track/49Z1VQivkHoY5KGdUwMv5i"
+    },
+    {
+      "album": {
         "name": "SKINS",
         "url": "https://open.spotify.com/album/6MQeqXw9V1TmwvQRmZCSfP"
       },
@@ -6263,7 +6307,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 232000,
       "name": "Think Of Me (feat. SOUNDR)",
       "url": "https://open.spotify.com/track/1AJ4HIL7Aj9hXjl1plAkJk"
@@ -6899,7 +6943,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 223615,
       "name": "Warp",
       "url": "https://open.spotify.com/track/1SLsfw9abIe3k8QlQYuHqj"
@@ -7009,6 +7053,24 @@
       "duration_ms": 188571,
       "name": "Welcome to the Playhouse",
       "url": "https://open.spotify.com/track/1qXTtWP0sNcePb3tT2eHWL"
+    },
+    {
+      "album": {
+        "name": "Wide Awake",
+        "url": "https://open.spotify.com/album/7qT9u5bWdCo0vJdLWJQ7AC"
+      },
+      "artists": [
+        {
+          "name": "RayRay",
+          "url": "https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210750,
+      "name": "Wide Awake",
+      "url": "https://open.spotify.com/track/0QBfmlcTMQViDm378q5Px8"
     },
     {
       "album": {
@@ -7137,7 +7199,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 157714,
       "name": "Worst Enemy",
       "url": "https://open.spotify.com/track/1ZASppQGfipnlhwfXooTdy"

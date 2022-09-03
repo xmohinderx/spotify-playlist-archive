@@ -4,7 +4,7 @@
 
 > Soothe your mind with gentle instrumentals.
 
-225 songs - 10 hr 40 min - [published](https://open.spotify.com/playlist/5E3sU5b9bqkflT96CV3QHp)
+226 songs - 10 hr 44 min - [published](https://open.spotify.com/playlist/5E3sU5b9bqkflT96CV3QHp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [A Message of Hope](https://open.spotify.com/track/4B3sBWHD5rfWtkXCdYwrFq) | [Elise Magnefold](https://open.spotify.com/artist/6NwzoAF59ghN7JuBvwHVex) | [Little Things](https://open.spotify.com/album/6D5LLJs53kFNpxoIhQWGlY) | 3:26 | 2021-12-09 |  |
 | [Absolutely Still](https://open.spotify.com/track/4hDxgtDNwOscsG2X8kks6W) | [William Francisco](https://open.spotify.com/artist/2jQwLGGaI5zOgqc5SiMp7V) | [Absolutely Still](https://open.spotify.com/album/5dTOR4DO7P3IHgU1zgr9w6) | 2:41 | 2021-12-09 |  |
 | [After The Rain](https://open.spotify.com/track/4AyYtj639eTCj84hyaee28) | [Giovanna Gallo](https://open.spotify.com/artist/2vmNQKFEBJ85NupICrIMUT) | [After The Rain](https://open.spotify.com/album/2DrKbf1pApesHoTExO3hLP) | 2:40 | 2022-02-03 |  |
+| [After The Rain](https://open.spotify.com/track/4O2DxaGroS88YpNAeRQbgx) | [Sanyo Green](https://open.spotify.com/artist/3U92xEbJZRc7MDmXXCXiBy) | [After The Rain](https://open.spotify.com/album/1NL6vdJMA0zMZabuPYM3Dj) | 3:35 | 2022-09-02 |  |
 | [After the storm](https://open.spotify.com/track/3WuOYQvrHVAANn735uiw1k) | [Glimmolo](https://open.spotify.com/artist/7g6rklSRWpUUeX8czkiTqM) | [Ascending](https://open.spotify.com/album/4cpBPNXBlDk70DloBxTjDz) | 3:41 | 2021-12-09 |  |
 | [Ainda Ontem](https://open.spotify.com/track/5uig3Oq5R05OuOAERGKnlu) | [Leonidas Myaló](https://open.spotify.com/artist/6dumU4QYEB8C4dDdTPfRg3) | [Ainda Ontem](https://open.spotify.com/album/4fCDlV21vCQxgNa5D1wtEW) | 2:25 | 2021-12-09 |  |
 | [All Is Well Now](https://open.spotify.com/track/5QfENz96Rk140fmTccgCPa) | [Roger Reuse](https://open.spotify.com/artist/6t5dwOvjZLh3OupwyoT1z4) | [All Is Well Now](https://open.spotify.com/album/4wzi12NOvPJU4pxr8WROcV) | 2:08 | 2021-12-09 |  |
@@ -46,7 +47,7 @@
 | [Del Sankt](https://open.spotify.com/track/2ga17EkepbRILT5nX2sqz3) | [Omnium Tal](https://open.spotify.com/artist/5aWinRRUMWDwSjwUMCNZP9) | [Del Sankt](https://open.spotify.com/album/6xz6h575XzPzB3QG8LThaJ) | 3:06 | 2021-12-09 |  |
 | [Departing](https://open.spotify.com/track/6iVbAwerjjEoH5NnEfFkkn) | [Hilma](https://open.spotify.com/artist/3PZ2nsGkyVMdbQB6b3auut) | [Departing](https://open.spotify.com/album/2L8PDzXReUaVksMHgNd5HB) | 2:10 | 2021-12-09 |  |
 | [Desiderium](https://open.spotify.com/track/07KyFspZCxCatWgaXoPlXg) | [Christine Papst](https://open.spotify.com/artist/0PRooTT7V1vNPXCHBRomZE) | [Desiderium](https://open.spotify.com/album/6uUZU6NCqEjsFf3piG0srU) | 2:24 | 2021-12-09 |  |
-| [Distant](https://open.spotify.com/track/7czmviSHPd55HKidnHmYYB) | [Cosmic Nuit](https://open.spotify.com/artist/46LH6chzwNfYqkt6AklmZk) | [Traveling Windows](https://open.spotify.com/album/4C9ugRx6etBU29t5694z7m) | 3:17 | 2021-12-09 |  |
+| [Distant](https://open.spotify.com/track/7czmviSHPd55HKidnHmYYB) | [Cosmic Nuit](https://open.spotify.com/artist/46LH6chzwNfYqkt6AklmZk) | [Traveling Windows](https://open.spotify.com/album/4C9ugRx6etBU29t5694z7m) | 3:17 | 2021-12-09 | 2022-09-03 |
 | [Diversity](https://open.spotify.com/track/6yUBEKkhH5z29iiszOQBSa) | [Arush Mandal](https://open.spotify.com/artist/5WSATrMjcuhKibg0jp4uHI) | [Diversity](https://open.spotify.com/album/6a7zOcwfT2EhRXrIPH7au8) | 3:03 | 2021-12-09 |  |
 | [Divine](https://open.spotify.com/track/5mdvqfYB4Efy14X88LtTB5) | [Rainbow Rise](https://open.spotify.com/artist/7nqV0p65fl1bNXeSuTQxOd) | [Majestic](https://open.spotify.com/album/624aXTR4dUoP9dVfUAoryG) | 3:07 | 2021-12-09 | 2022-08-13 |
 | [Downtime In The Deep](https://open.spotify.com/track/164x1gQ85r1dijA3p784It) | [Enchanted Candlestick](https://open.spotify.com/artist/3jAFYmyMpB3O7LD8zRiRae) | [Downtime In The Deep](https://open.spotify.com/album/2r8NXQlaJcqYSI5JI6oUWq) | 2:26 | 2022-02-03 |  |

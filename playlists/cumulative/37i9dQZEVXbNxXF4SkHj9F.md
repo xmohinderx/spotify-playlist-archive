@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- South Korea.
 
-817 songs - 1 day 22 hr 19 min - [published](https://open.spotify.com/playlist/4DRTrXneBtNnJtlxBODsX9)
+818 songs - 1 day 22 hr 23 min - [published](https://open.spotify.com/playlist/4DRTrXneBtNnJtlxBODsX9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -508,7 +508,7 @@
 | [Need to Know](https://open.spotify.com/track/3Vi5XqYrmQgOYBajMWSvCi) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 3:30 | 2021-08-09 | 2021-09-12 |
 | [Need To Know](https://open.spotify.com/track/0CqZryIJnJhwCCnECIC7Lr) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Need To Know](https://open.spotify.com/album/4IGSbTfm3Xwmp8up7pOR3t) | 2:49 | 2022-07-14 | 2022-07-17 |
 | [Nest](https://open.spotify.com/track/007S8LPHyug4UrgDWxiCxO) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [IM HERO](https://open.spotify.com/album/39cHmgjQ5FDyK6IgpGuMbr) | 2:52 | 2022-06-01 | 2022-07-02 |
-| [Nest](https://open.spotify.com/track/05STjz8kmPBUebu3uu5sO0) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [IM HERO](https://open.spotify.com/album/5ITErfEiF1nEo8KTRgLv43) | 2:52 | 2022-07-01 |  |
+| [Nest](https://open.spotify.com/track/05STjz8kmPBUebu3uu5sO0) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [IM HERO](https://open.spotify.com/album/5ITErfEiF1nEo8KTRgLv43) | 2:52 | 2022-07-01 | 2022-09-03 |
 | [Never Goodbye](https://open.spotify.com/track/5EAfUqytXYbH0yUZR3QGli) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Glitch Mode \- The 2nd Album](https://open.spotify.com/album/4cAcTMGFjTBufC7Eu0FizU) | 3:32 | 2022-03-29 | 2022-04-07 |
 | [Never Stop Me](https://open.spotify.com/track/0ckILmtBH2r5UFOtTf2cN0) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I NEVER DIE](https://open.spotify.com/album/1T2W9vDajFreUuycPDjUXk) | 2:24 | 2022-03-15 | 2022-03-23 |
 | [New Again](https://open.spotify.com/track/2GPTiPR5db727wu1tFvFt4) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 3:03 | 2021-09-01 | 2021-09-02 |
@@ -640,6 +640,7 @@
 | [SEOUL DRIFT](https://open.spotify.com/track/26ZVy8n9X8K59DXFyZtkT0) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [SEOUL DRIFT](https://open.spotify.com/album/1nG8Wxn3f3buiaDg5rGzpC) | 3:19 | 2022-07-21 | 2022-08-01 |
 | [Serendipity \- Full Length Edition](https://open.spotify.com/track/1dS4l6xmdgEhCZTAhdOm4N) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Love Yourself 結 'Answer'](https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y) | 4:36 | 2022-04-25 | 2022-06-01 |
 | [Set Myself On Fire](https://open.spotify.com/track/002wiS64p2qXaYYVAP7KOW) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [INVU \- The 3rd Album](https://open.spotify.com/album/7i2YLTVQ0dyngRuUqtGmr9) | 2:37 | 2022-02-15 | 2022-02-21 |
+| [SEXY NUKIM \(feat\. RM of BTS\)](https://open.spotify.com/track/1XkMxUilV0E3ChDERZJUEq) | [Balming Tiger](https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1), [Omega Sapien](https://open.spotify.com/artist/46KQM3HJyONaKRTbcfNPlU), [wnjn](https://open.spotify.com/artist/4E4TZnDHlrhclSJgeund1d), [Mudd the student](https://open.spotify.com/artist/4xHlg3Tcv7TZZzFq0aW2hQ), [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [SEXY NUKIM \(feat\. RM of BTS\)](https://open.spotify.com/album/7osIz9TFdxYQAm4fgakanT) | 3:49 | 2022-09-02 |  |
 | [SG \(with Ozuna, Megan Thee Stallion & LISA of BLACKPINK\)](https://open.spotify.com/track/6IPNp9PfaEqrzotY47TIWy) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [SG \(with Ozuna, Megan Thee Stallion & LISA of BLACKPINK\)](https://open.spotify.com/album/2TGtXG18s21Q1jnY2TC39M) | 3:45 | 2021-10-23 | 2021-10-24 |
 | [Shadow](https://open.spotify.com/track/2rwJP8OEao5y3xexw52HfD) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 4th Album 'Face the Sun'](https://open.spotify.com/album/4lfFgz2rD1irxf7dZhNJht) | 3:32 | 2022-05-28 | 2022-05-30 |
 | [Shivers](https://open.spotify.com/track/50nfwKoDiSYg8zOCREWAm5) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:27 | 2021-10-31 | 2022-06-03 |

@@ -917,7 +917,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 202368,
       "name": "El Traketeo",
       "url": "https://open.spotify.com/track/68wZUaqJLlzSgDpvtOD5z1"
@@ -1289,7 +1289,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 212693,
       "name": "Hoy Es Ma\u00f1ana",
       "url": "https://open.spotify.com/track/1lTgSM8RrTANbfPwx9ipif"
@@ -1504,6 +1504,28 @@
     },
     {
       "album": {
+        "name": "La Matanza",
+        "url": "https://open.spotify.com/album/2CbqEOFIp1BIRIs3NPUVU6"
+      },
+      "artists": [
+        {
+          "name": "French Braids",
+          "url": "https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1"
+        },
+        {
+          "name": "Eva de Marce",
+          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201562,
+      "name": "La Matanza",
+      "url": "https://open.spotify.com/track/538h4bDYuZYT99IMlbMsdp"
+    },
+    {
+      "album": {
         "name": "La Noche",
         "url": "https://open.spotify.com/album/2kkgaiE2Qa9kLYNdnmm1lM"
       },
@@ -1527,6 +1549,24 @@
       "duration_ms": 240000,
       "name": "La Noche",
       "url": "https://open.spotify.com/track/6NKV4jEVqmJ6tsoyNEg2SQ"
+    },
+    {
+      "album": {
+        "name": "la noche de ayer",
+        "url": "https://open.spotify.com/album/4e31Xo3NfTRxm9TdVgw4DR"
+      },
+      "artists": [
+        {
+          "name": "chicarica",
+          "url": "https://open.spotify.com/artist/6FCUGgR9Bf7zx8q7Sog9dN"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255591,
+      "name": "la noche de ayer",
+      "url": "https://open.spotify.com/track/7aSmfvPckOTRr0AJ3rmCCF"
     },
     {
       "album": {
@@ -2572,6 +2612,24 @@
     },
     {
       "album": {
+        "name": "Sal de Mar",
+        "url": "https://open.spotify.com/album/7A24Cw1BI1a7mjhTWGxLxn"
+      },
+      "artists": [
+        {
+          "name": "Gabacho",
+          "url": "https://open.spotify.com/artist/45L7xrCulh5DcK2ueYJZKu"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267775,
+      "name": "Sal de Mar",
+      "url": "https://open.spotify.com/track/3b8WAuWj0MCKig7e5KV0YL"
+    },
+    {
+      "album": {
         "name": "Temporada de Pesca",
         "url": "https://open.spotify.com/album/05yxfuVNg4swKUEiJSqd4O"
       },
@@ -2641,7 +2699,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 226619,
       "name": "Si Te Vas",
       "url": "https://open.spotify.com/track/500y7tvEld67U4AV97jcGy"

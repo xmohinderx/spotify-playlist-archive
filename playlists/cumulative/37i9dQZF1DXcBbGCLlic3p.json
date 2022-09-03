@@ -91,7 +91,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 0,
       "name": "",
       "url": "https://open.spotify.com/track/7xzeJbiPtEJY5aYqkB2fwY"
@@ -163,7 +163,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 160666,
       "name": "A new day",
       "url": "https://open.spotify.com/track/36rrXNpPdOpmHpI2vZECFd"
@@ -253,7 +253,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 178000,
       "name": "Answers",
       "url": "https://open.spotify.com/track/2iOKDbXoqcTENod90jSmcH"
@@ -361,7 +361,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 201000,
       "name": "Be Here Now",
       "url": "https://open.spotify.com/track/4PqMhMtaGWmI5oBSpbYKdM"
@@ -487,7 +487,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 217430,
       "name": "Calm",
       "url": "https://open.spotify.com/track/7x8dZcTysEL2ugS7Gj7eMJ"
@@ -757,7 +757,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 195047,
       "name": "Dodecahedron",
       "url": "https://open.spotify.com/track/5hbUkTfxIrICrDjUPzvzhP"
@@ -865,7 +865,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 190500,
       "name": "Een mooie droom",
       "url": "https://open.spotify.com/track/6nxvSAvwbVJIK4CaAjwA5N"
@@ -955,7 +955,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 216000,
       "name": "Endless Fragments of Time",
       "url": "https://open.spotify.com/track/1UFmSqbxVtP5pl9r8KdeY1"
@@ -1117,7 +1117,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 209500,
       "name": "For Emmabelle",
       "url": "https://open.spotify.com/track/6f096qqr3TLKBEoWxy8HPg"
@@ -1369,7 +1369,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 181000,
       "name": "Hiraeth",
       "url": "https://open.spotify.com/track/5DNpEwASbbGXz9wbr0ex6v"
@@ -1603,7 +1603,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 197897,
       "name": "Lapis Lazuli",
       "url": "https://open.spotify.com/track/0K4Rz4toClO0a6zcUwWgMi"
@@ -1661,6 +1661,24 @@
       "duration_ms": 241018,
       "name": "Lifetimes",
       "url": "https://open.spotify.com/track/7w0Svp1oDZJtoBBq8JGKUn"
+    },
+    {
+      "album": {
+        "name": "Light",
+        "url": "https://open.spotify.com/album/2MCEhwQ8lurgvTkZ7WMrjI"
+      },
+      "artists": [
+        {
+          "name": "Mina Rojas",
+          "url": "https://open.spotify.com/artist/492hHpujOt6WZGWFSy2712"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169684,
+      "name": "Light",
+      "url": "https://open.spotify.com/track/0peYIO0XdyvdK2znrrH3ys"
     },
     {
       "album": {
@@ -1747,7 +1765,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 222916,
       "name": "Lorimar",
       "url": "https://open.spotify.com/track/45Of6RO7cx8xbYWKk2uyI7"
@@ -1787,6 +1805,24 @@
       "duration_ms": 153500,
       "name": "Lyrebird",
       "url": "https://open.spotify.com/track/72mDETn3Ba8yVewAcqnlqQ"
+    },
+    {
+      "album": {
+        "name": "L\u00e4ngtan",
+        "url": "https://open.spotify.com/album/1Ct1me1fiNQ2c37OyvTnku"
+      },
+      "artists": [
+        {
+          "name": "Amsaga",
+          "url": "https://open.spotify.com/artist/2Z4elDEV9RqWpqQT9yxE7o"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235562,
+      "name": "L\u00e4ngtan",
+      "url": "https://open.spotify.com/track/5dU3ZoeCCMmRziuCCr4ErZ"
     },
     {
       "album": {
@@ -1945,7 +1981,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 166324,
       "name": "Montana",
       "url": "https://open.spotify.com/track/0gBjWQIJ9KcdzT26UzkNqn"
@@ -2089,7 +2125,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 142621,
       "name": "Nikad ne Zaboravi",
       "url": "https://open.spotify.com/track/717ijFnuktEjgu8yn7Qvw6"
@@ -2233,7 +2269,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 155561,
       "name": "Ocean Deep",
       "url": "https://open.spotify.com/track/7uHM2BSftyHsPLIOGB9oY7"
@@ -2323,7 +2359,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 181623,
       "name": "Pajala Sunrise",
       "url": "https://open.spotify.com/track/3Rvh3RrMpDaBK0iBU6aS8A"
@@ -2449,7 +2485,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 196000,
       "name": "Phaedra",
       "url": "https://open.spotify.com/track/6GEYh8JguL5MIh5Uz5h0zL"
@@ -2647,7 +2683,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 190751,
       "name": "Relajaci\u00f3n espiritual",
       "url": "https://open.spotify.com/track/7kbiF2WwENN3Z5yOZ2X0R2"
@@ -2669,6 +2705,24 @@
       "duration_ms": 142800,
       "name": "Reunion",
       "url": "https://open.spotify.com/track/57IlqBXnuaKI854KSBkeIQ"
+    },
+    {
+      "album": {
+        "name": "Rhythms",
+        "url": "https://open.spotify.com/album/3r2nphYPieVtEcbWCfWMP3"
+      },
+      "artists": [
+        {
+          "name": "Pascal Dirac",
+          "url": "https://open.spotify.com/artist/55UOeJ9KXXCNAQ0b4REsiR"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148797,
+      "name": "Rhythms",
+      "url": "https://open.spotify.com/track/2ZvyrcGO1JLsfc2XqD7oio"
     },
     {
       "album": {
@@ -3079,7 +3133,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 212730,
       "name": "Stories Untold",
       "url": "https://open.spotify.com/track/1qxQe1i88c7raj11FQn5rM"
@@ -3133,7 +3187,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 168000,
       "name": "Sumire",
       "url": "https://open.spotify.com/track/7j5U7NtYQbqbgTuEmznPnh"
@@ -3259,7 +3313,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 193792,
       "name": "The Garden's Light",
       "url": "https://open.spotify.com/track/72cj11O7lJBQiLu3dXzKLV"
@@ -3529,7 +3583,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 182555,
       "name": "Valentinios Pier",
       "url": "https://open.spotify.com/track/4bUkrtLWyZRbG9jit1vgdY"
@@ -3637,7 +3691,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 216097,
       "name": "Wren",
       "url": "https://open.spotify.com/track/2BNIB51vC5Xf4s14N57VTH"

@@ -4,7 +4,7 @@
 
 > Lie back to chilled ambient with the sounds of nature.
 
-111 songs - 5 hr 52 min - [published](https://open.spotify.com/playlist/4jMsvFFwerORd09qoF4GsL)
+112 songs - 5 hr 56 min - [published](https://open.spotify.com/playlist/4jMsvFFwerORd09qoF4GsL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Bow of Life](https://open.spotify.com/track/6x2tKZt7RJuBCWMkRPPBFP) | [Arnold Sage](https://open.spotify.com/artist/2oULmlR47myvfLqZSD2f4R) | [Bow of Life](https://open.spotify.com/album/1BkLVDy0SyRFfkN8CQNkyL) | 2:44 | 2022-05-25 |  |
 | [Breath Of The Wilderness](https://open.spotify.com/track/7lVRii95o1sRkanRZTNVOk) | [Mhino](https://open.spotify.com/artist/1DR1nFSKpiWjUZO4PpydG8) | [Breath Of The Wilderness](https://open.spotify.com/album/4WiJ4NAttKpGAYkdT2TnTK) | 3:15 | 2022-05-25 |  |
 | [Breathe Underwater](https://open.spotify.com/track/0ItZjGoIojBcreM3vSNeLq) | [Alma Forest](https://open.spotify.com/artist/5n7QXdkmXfGAz6srNlrF8l) | [Breathe Underwater](https://open.spotify.com/album/64NlX9C7nzKNLIa3Zw2eB5) | 2:16 | 2022-05-25 |  |
-| [Calming Seashore](https://open.spotify.com/track/4msQl50RTvdYVaak2Z99Fc) | [Adam By Nature](https://open.spotify.com/artist/24FFkUJXOJMxw4WRVlLng1) | [Tones of Nature](https://open.spotify.com/album/10RrCngn0oIs8S0KyYKTRW) | 3:42 | 2022-05-25 |  |
+| [Calming Seashore](https://open.spotify.com/track/4msQl50RTvdYVaak2Z99Fc) | [Adam By Nature](https://open.spotify.com/artist/24FFkUJXOJMxw4WRVlLng1) | [Tones of Nature](https://open.spotify.com/album/10RrCngn0oIs8S0KyYKTRW) | 3:42 | 2022-05-25 | 2022-09-03 |
 | [Canals](https://open.spotify.com/track/1pK2SvpHrWrWFse9qxuj9f) | [Orphoria](https://open.spotify.com/artist/0WTxtKGnW3poFGHyG9Hcpg) | [Solar Sail](https://open.spotify.com/album/5LnqmFMVmIut3nRotPDWzc) | 2:49 | 2022-05-25 |  |
 | [Colors Of The Wind](https://open.spotify.com/track/0YL8kXuNOcOF8curSrGOEw) | [Alex Patel](https://open.spotify.com/artist/4e90KIWr9PXRvOsvB7kdnb) | [Colors Of The Wind](https://open.spotify.com/album/1Ta8HPmo20jBMUCyah11oC) | 3:05 | 2022-05-25 |  |
 | [Comfortable under the Surface](https://open.spotify.com/track/3W63szGlVtLFTkmrA8dgXJ) | [Hanna Lindgren](https://open.spotify.com/artist/34GCwt10cx3SKWmWbTgUC2) | [Comfortable under the Surface](https://open.spotify.com/album/0AzrK9ejFOS16BOM2feyHg) | 3:05 | 2022-08-05 |  |
@@ -107,6 +107,7 @@
 | [The Beach](https://open.spotify.com/track/2JvX2In3jjEj6MRcIuFkZC) | [The Golden Islands](https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf) | [The Beach](https://open.spotify.com/album/3oQCzDRs74oRgj959XgNVg) | 3:01 | 2022-05-25 | 2022-07-29 |
 | [The Beach](https://open.spotify.com/track/4qqODkgsYwsORYJaKbykAZ) | [The Golden Islands](https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf) | [The Beach](https://open.spotify.com/album/1dj26uS9Dsk9psvsRBSoU2) | 3:01 | 2022-07-22 |  |
 | [The Bird's World](https://open.spotify.com/track/44sYTwlTFZ9R9V2dGmfd4v) | [Elm Lake](https://open.spotify.com/artist/5PWrgM1uXWZwpK2rIQtX36) | [The Bird's World](https://open.spotify.com/album/0ojjQ4QirOH5kQbtbOzLdW) | 3:16 | 2022-05-25 |  |
+| [The Bliss Of Nature](https://open.spotify.com/track/28lD0XCgpWglPM2cuqRTv6) | [Aventurine Skies](https://open.spotify.com/artist/1P9nalZuZKGyqEWPbPdSIZ) | [The Bliss Of Nature](https://open.spotify.com/album/62xIZlAEHbL6K9x7B1G50A) | 3:26 | 2022-09-02 |  |
 | [The Loneliest Curtain](https://open.spotify.com/track/5uv1fBhVNeMReRAEls2SPg) | [Eldrelder](https://open.spotify.com/artist/3TrVbyS2m9PyOxsjoPos7Z) | [The Loneliest Curtain](https://open.spotify.com/album/5uUMZoJVLSxgo8SEPDn2BF) | 2:10 | 2022-05-25 |  |
 | [The Lonely Ride](https://open.spotify.com/track/2sYuq6n08j87xIi7FnKw5q) | [Aran Belle](https://open.spotify.com/artist/7vBevoeKoG6b09kZzUWdpN) | [The Lonely Ride](https://open.spotify.com/album/2jkZVUzPGxsvgGymz20jVq) | 2:07 | 2022-05-25 |  |
 | [The Mystic](https://open.spotify.com/track/4VRUjbRwcIcYgzQFneOyft) | [Coherent Energy](https://open.spotify.com/artist/7JjVTrxF7P0Vu0pXIIwsXP) | [The Mystic](https://open.spotify.com/album/4gVE8JNTygjutVCrGgTEPp) | 2:55 | 2022-05-25 |  |

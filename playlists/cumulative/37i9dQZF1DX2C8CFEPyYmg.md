@@ -4,7 +4,7 @@
 
 > Soothing strings for our sleepy little ones.
 
-255 songs - 7 hr 42 min - [published](https://open.spotify.com/playlist/4WjEE9CImJA9YZct5yhhtB)
+262 songs - 8 hr 0 min - [published](https://open.spotify.com/playlist/4WjEE9CImJA9YZct5yhhtB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Ave Nocturne Ancora](https://open.spotify.com/track/6vK5Ece4msGMx1MgI1zVZZ) | [Eventime](https://open.spotify.com/artist/22Y9hEs4XJFHQnO3qkMDD8) | [Ave Nocturne Ancora](https://open.spotify.com/album/1NMZccxgdQoweWiGwCmAio) | 1:43 | 2022-08-11 |  |
 | [Baa Baa Black Sheep](https://open.spotify.com/track/5JI8o8Gt9V7csefGcOINA0) | [Ava Marshall](https://open.spotify.com/artist/61Hb8ylFIo9AJboJro2AmX) | [Baa Baa Black Sheep](https://open.spotify.com/album/5iBVCOHXa4pENl5IaKEC36) | 1:02 | 2022-08-11 |  |
 | [Baa baa black sheep](https://open.spotify.com/track/5UH4w6fflCNS0eEksJqm6i) | [Izakaru](https://open.spotify.com/artist/3EEBU8BY4dEYy9XrzIALCq) | [Zzzz](https://open.spotify.com/album/0qNimyY8eJHQRREEcznGGk) | 1:46 | 2022-08-11 |  |
+| [Baby Bird Finds His Nest](https://open.spotify.com/track/1vsVVHBaRapF8CFfWbve80) | [Paula Morales](https://open.spotify.com/artist/1Y0NmP0wid5RIsGHrUnOwc) | [Baby Bird Finds His Nest](https://open.spotify.com/album/23YGvzDHUZtkpd0SBQv78H) | 2:57 | 2022-09-02 |  |
 | [Baby Bumblebee](https://open.spotify.com/track/7MuazUx9YHNGSbj3FZ4dja) | [Julie Gardner](https://open.spotify.com/artist/6HPQspIuhYXkRTkB8ezp5F) | [Home On The Range](https://open.spotify.com/album/5dWWB8Y4DgtF9chCGgWX7e) | 1:47 | 2022-08-11 |  |
 | [Baby Mine](https://open.spotify.com/track/0QuySdLpzsu6KNfvd79WVL) | [Wholy Moly](https://open.spotify.com/artist/3XdE126uFbtnhVKolZQ65n) | [Baby Mine](https://open.spotify.com/album/7uigbvctsvCz0qaxWUWVIW) | 2:17 | 2022-08-11 |  |
 | [Babysteps](https://open.spotify.com/track/06xkMOMeIKVDhG7mGo218A) | [Mimmi East](https://open.spotify.com/artist/5JD1k7FiD0YmTS7Xcv3RF6) | [Babysteps](https://open.spotify.com/album/1Cz50rG7BSkRQDi7tF4iSu) | 1:04 | 2022-08-11 |  |
@@ -51,7 +52,9 @@
 | [Bing Bong Song](https://open.spotify.com/track/7FNjRbEVcYgKVAtvGWeKjV) | [Mimi Davies](https://open.spotify.com/artist/1TyyV46EBJAiR2JXpMLFEX) | [Bing Bong Song](https://open.spotify.com/album/1ZJU0UL1r1yLihBg17hqq5) | 2:37 | 2022-08-11 |  |
 | [Blanket Snuggles](https://open.spotify.com/track/7qIGCFkrCMnUPUk4dE6FSb) | [Bennie Radcliff](https://open.spotify.com/artist/4Kkr4hETN5QeAeRxjvkZ5U) | [Blanket Snuggles](https://open.spotify.com/album/0n09zmE4h2rPbrcH9pC9nW) | 1:53 | 2022-08-11 |  |
 | [Blåsippor](https://open.spotify.com/track/0rGiMzYYgDInT9uJAhkhPi) | [Hjalmar Lagerqvist](https://open.spotify.com/artist/3Zk8GcjOL3OAI8zS8t1b0S) | [Blåsippor](https://open.spotify.com/album/0YdmV5pPDZOp30GXboRo3g) | 1:20 | 2022-08-11 |  |
+| [Blessed Moments](https://open.spotify.com/track/22SkVTI0VMOBmn7hYZ0lZW) | [Mrs Mayford](https://open.spotify.com/artist/1DnajjlzcHuEugVA6brKPr) | [Blessed Moments](https://open.spotify.com/album/6dzws1YlB8XQ7fRGxqu2hd) | 2:28 | 2022-09-02 |  |
 | [Blott en dag](https://open.spotify.com/track/4QjuhoMDp2nx6bgJjZXO5h) | [Thomas Scheller](https://open.spotify.com/artist/26Dtv4a7haiHQI10e0mDJg) | [Sånger för själen vol 1](https://open.spotify.com/album/0BAIYSMDCppH6iFWzA0jEb) | 2:08 | 2022-08-11 |  |
+| [Blåsippan](https://open.spotify.com/track/3Jq8PjvkWvznKg1VQM0xmR) | [Richard Moore](https://open.spotify.com/artist/7LZONuTYEizh7Bv5NgCTNA) | [Blåsippan](https://open.spotify.com/album/2f8hU3lrEKAhLuLxeYBU74) | 2:17 | 2022-09-02 |  |
 | [Brahms Lullaby](https://open.spotify.com/track/3F9MddqpygKDUUkIqcydsT) | [Michaela Quinn](https://open.spotify.com/artist/7cW08KYG0Liawn96x7fAXX) | [Bedtime Stories](https://open.spotify.com/album/475sNo7ki5mekQ8eOsyepB) | 1:25 | 2022-08-11 |  |
 | [Butterfly Fly](https://open.spotify.com/track/2KFKwbjRTXJj0lWKBkBLJX) | [Mimi Davies](https://open.spotify.com/artist/1TyyV46EBJAiR2JXpMLFEX) | [Butterfly Fly](https://open.spotify.com/album/5qs4Anclgvr4iTgsexkOX8) | 2:47 | 2022-08-11 |  |
 | [C is for Cookie](https://open.spotify.com/track/5TFGF1SttPMFcJfaHsg4AC) | [Guitar Baby](https://open.spotify.com/artist/2lQCfMQhkUHyZM0fFczWOq) | [The Bear Went Over The Mountain](https://open.spotify.com/album/6v7QHkkAfqT2evdXva58um) | 1:50 | 2022-08-11 |  |
@@ -125,6 +128,7 @@
 | [In Your Dreams](https://open.spotify.com/track/2S2XvPvpTbSXYh8MfK4Uit) | [Fitz Wilmer](https://open.spotify.com/artist/0g8dTozmEA5bn0e6Xd2Gw8) | [In Your Dreams](https://open.spotify.com/album/4qWG2QrIdYGJ8mp3Ye43jY) | 1:45 | 2022-08-11 |  |
 | [It's A Small World](https://open.spotify.com/track/7viMwTJ6VsgEAnwbfN1GuF) | [Senji Kamal](https://open.spotify.com/artist/06WIFhsuEEEhVPORcRujvv) | [It's A Small World](https://open.spotify.com/album/5SH8cskwWmPxbSNpq5QoKv) | 2:07 | 2022-08-11 |  |
 | [It's Time For Bed](https://open.spotify.com/track/1BY99d77sqa5CBdHCAwkNQ) | [Mary Donahue](https://open.spotify.com/artist/1yiz1cHWrjaZiEsvU4p4Lg) | [It's Time For Bed](https://open.spotify.com/album/1fo6lIEchk4zYw31EqlzqZ) | 2:50 | 2022-08-11 |  |
+| [It's Time To Come Home](https://open.spotify.com/track/0KiBDgHHknKpx21oimTDp2) | [Lissie Dunn](https://open.spotify.com/artist/2hI2FJVLX5KUMS3fUUl5ah) | [It's Time To Come Home](https://open.spotify.com/album/0MoqEpJYuQaJOGI1anBJIL) | 2:45 | 2022-09-02 |  |
 | [It's Time To Go To Sleep](https://open.spotify.com/track/0MODSghjQ1qBiy9mP5EoLm) | [The Magic Guitar](https://open.spotify.com/artist/2lETErpujLR6ngyVsrSj2v) | [A\-Hunting We Will Go](https://open.spotify.com/album/6O1oNKCphZNf7Qlzwmlr9E) | 2:08 | 2022-08-11 |  |
 | [It's Time To Say Sweet Dreams](https://open.spotify.com/track/32gQ8o6mhuQySEfh9ztsuq) | [Julio Neve](https://open.spotify.com/artist/1PQUU6PsqiLylfwDuzkGc8) | [It's Time To Say Sweet Dreams](https://open.spotify.com/album/6mGQmZTQ4Pvh6srEI0yL1w) | 1:45 | 2022-08-11 |  |
 | [Itsy Bitsy Spider](https://open.spotify.com/track/3Fh85qoGXUlWa64ZtfF68H) | [Dajana Goff](https://open.spotify.com/artist/5yCGYGmKqaBkh4d8KtVgzE) | [Hush Little Baby \- Lullabies on Harp](https://open.spotify.com/album/29j1FWXEDyQGhyr63gKkDk) | 2:08 | 2022-08-11 |  |
@@ -148,6 +152,7 @@
 | [Lullaby Love](https://open.spotify.com/track/77u9y7owrOxvmcPl4tXX2u) | [Harper Wootton](https://open.spotify.com/artist/5WVXOF9dThJk2O5KEgbph4) | [Lullaby Love](https://open.spotify.com/album/100CtdiyYeLcGNftTdOUGJ) | 1:09 | 2022-08-11 |  |
 | [Mary Had A Little Lamb](https://open.spotify.com/track/3uTe0oqzohSULibOFh7Wqs) | [Shel Hershey](https://open.spotify.com/artist/52dMfxsb49keOdFEbARlHO) | [Mary Had A Little Lamb](https://open.spotify.com/album/4bTW7FSi3N9snrPV1AvfUB) | 1:29 | 2022-08-11 |  |
 | [Måne och sol](https://open.spotify.com/track/581iZrDptObqVHR5Yo5nFp) | [Thomas Scheller](https://open.spotify.com/artist/26Dtv4a7haiHQI10e0mDJg) | [Sånger för själen vol 2](https://open.spotify.com/album/5DOYzeiyApvUj0739e7VWf) | 1:55 | 2022-08-11 |  |
+| [Me and Teddy](https://open.spotify.com/track/4pLSsRwuJetD2G3H480CqZ) | [Carla Galloway](https://open.spotify.com/artist/4UCjsEwUrldNSYac9hetq0) | [Me and Teddy](https://open.spotify.com/album/1OwCOuuu7KRLbsA9h1AHtx) | 2:34 | 2022-09-02 |  |
 | [Mi ángel](https://open.spotify.com/track/4KT4f95lo3mk6kTY2CuORb) | [Luca Perez](https://open.spotify.com/artist/4zzne57Qiuc93KSvL8Zxqg) | [Mi ángel](https://open.spotify.com/album/2OVGd54msQXkwbsFl635D1) | 1:58 | 2022-08-11 |  |
 | [Mi Pequeña Bebe](https://open.spotify.com/track/6PJ8TOLeJxDeybMbyUBQFK) | [Juliana Gonsales](https://open.spotify.com/artist/0rASXzSswkFvGnrpmKIR8D) | [Mi Pequeña Bebe](https://open.spotify.com/album/3Z5U8zt4ED2iUwDJYLOTIo) | 1:49 | 2022-08-11 |  |
 | [Min lille stjerne](https://open.spotify.com/track/3GmAmkvwxrDNnwwOKFroe3) | [Trude Egeland](https://open.spotify.com/artist/70nfwQmdbDzaXCx5aQxmry) | [Min lille stjerne](https://open.spotify.com/album/3WiW7d7rrVPFSM7LuxJk5i) | 1:26 | 2022-08-11 |  |
@@ -191,6 +196,7 @@
 | [Singing for You](https://open.spotify.com/track/0B3k2ftvKnPEwK6F0Wc0Pa) | [Willy Cotterill](https://open.spotify.com/artist/3nGSuqJpKUO7hQA0DFXJ5i) | [Singing for You](https://open.spotify.com/album/7s4mt8kbI8rNKnPasfOvca) | 1:43 | 2022-08-11 |  |
 | [Skidamarink A Dink A Dink](https://open.spotify.com/track/3jWeocrrxb4mQmH0Po0UNA) | [Lisa Liddle](https://open.spotify.com/artist/1YzqZE21VmV1PvWp1bHmlq) | [Skidamarink A Dink A Dink](https://open.spotify.com/album/3ckHFaiiOJl3x1lCf5S9nw) | 2:20 | 2022-08-11 |  |
 | [Skogen Sover](https://open.spotify.com/track/42EfNrLcYB9vMAnfi928Ci) | [Sofia Andersson](https://open.spotify.com/artist/7vFIdjlk1tPniBpfYn0ShM) | [Skogen Sover](https://open.spotify.com/album/1Ng8bNMcVMR77m0yWd91kI) | 2:41 | 2022-08-11 |  |
+| [Sleep Birdie Sleep](https://open.spotify.com/track/42zVKfVVXZpW9cFkNUAsi1) | [Carla Galloway](https://open.spotify.com/artist/4UCjsEwUrldNSYac9hetq0) | [Sleep Birdie Sleep](https://open.spotify.com/album/2Pu9LPjvHdG5BxArbqZLNe) | 2:08 | 2022-09-02 |  |
 | [Sleep Hymn](https://open.spotify.com/track/0S2tBDiIpa03YnsBZFa5Or) | [Unni Wide](https://open.spotify.com/artist/5kkxB64YQjSwNgfftsQvOL) | [Sleep Hymn](https://open.spotify.com/album/7KhhtHKQ8rjeDRWpBoA1z8) | 2:11 | 2022-08-11 |  |
 | [Sleep Little Willow](https://open.spotify.com/track/17NWEpNMRzpNXdB93xIO3M) | [Esperanza Nuega](https://open.spotify.com/artist/6vEZRIkMdWmqi6pEB8ACLR) | [Sleep Little Willow](https://open.spotify.com/album/06b8qLkEOBRB1Fcg45EUP6) | 1:23 | 2022-08-11 |  |
 | [Sleep Now](https://open.spotify.com/track/1HvLD8IlGZRTWJk3pdfWDo) | [Granville Anderson](https://open.spotify.com/artist/4s404Rqm5KCM94kqRVVzPg) | [Sleep Now](https://open.spotify.com/album/4UiEY2G3BHXOzL1vPMSGod) | 1:32 | 2022-08-11 |  |
@@ -245,6 +251,7 @@
 | [Wacky hair day](https://open.spotify.com/track/7m8f8zywfYjwG5WH68F103) | [Gabriela McGill](https://open.spotify.com/artist/5aK74Ph5sZ8w1VSLGF2tfC) | [Wacky hair day](https://open.spotify.com/album/2As9i3ANsMLFJCGxjs8u1s) | 1:54 | 2022-08-11 |  |
 | [Walking in a dream](https://open.spotify.com/track/4eRvFJvJFbQKsUz02o8Mbh) | [Paden Small](https://open.spotify.com/artist/72Ja8KG7J3p0Hs7xDV43bC) | [Walking in a dream](https://open.spotify.com/album/2m5gj3Ho8i2q1n6PEWL8xL) | 1:43 | 2022-08-11 |  |
 | [Warm Enough For Ice Cream](https://open.spotify.com/track/5HNtQTusF4gpK3LYKalUyF) | [Callie Berger](https://open.spotify.com/artist/6oE1DSOeQTgGMvLpFVnnjs) | [Warm Enough For Ice Cream](https://open.spotify.com/album/0zLjos5NiyKJtbv7YsqliA) | 1:29 | 2022-08-11 |  |
+| [We Walk Around](https://open.spotify.com/track/308Pv80NYNomGwut3BgKrQ) | [Mia O’Reilly](https://open.spotify.com/artist/73DTyr2tWDvEQQfoQUQUEc) | [We Walk Around](https://open.spotify.com/album/4aTGIFMnK2nTsjGlXTV1Qm) | 2:39 | 2022-09-02 |  |
 | [Wenn Du Einschläfst](https://open.spotify.com/track/2EtEyjAlPvu6Dl8CvlwTkB) | [Frieda Ross](https://open.spotify.com/artist/4FRt5PBGXsp49kDLecV7CI) | [Das Zahnputzlied](https://open.spotify.com/album/4uW3B5iSpvK17bN7oLN0Nv) | 1:27 | 2022-08-11 |  |
 | [Wheels On The Bus](https://open.spotify.com/track/09inREgdiCICBK1z9gbPsw) | [Toola Hoot](https://open.spotify.com/artist/4MJ1e4BtHcv048OI92a4i9) | [Wheels On The Bus](https://open.spotify.com/album/1POdFavgcOurjDfD7C4jXb) | 1:33 | 2022-08-11 |  |
 | [When I Close My Eyes](https://open.spotify.com/track/7luR1726Cf9Wgt4Q3yljOF) | [Dodie Little](https://open.spotify.com/artist/6sE8hcdC14rNNo1NXuQ8sy) | [My Best Friend Bob](https://open.spotify.com/album/0omMrAr8zSXzokTTBqyM4Q) | 1:33 | 2022-08-11 |  |

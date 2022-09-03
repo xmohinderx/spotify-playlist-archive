@@ -4,7 +4,7 @@
 
 > The best new tracks every week\. Cover: Pabst
 
-1,841 songs - 4 day 9 hr 3 min - [published](https://open.spotify.com/playlist/48vgkrE0s2mfpgNewZs3ZM)
+1,843 songs - 4 day 9 hr 9 min - [published](https://open.spotify.com/playlist/48vgkrE0s2mfpgNewZs3ZM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -410,7 +410,8 @@
 | [Die on the West Coast](https://open.spotify.com/track/7eSmAnQITAQTmoy2blazii) | [Circa Survive](https://open.spotify.com/artist/11FY888Qctoy6YueCpFkXT) | [A Dream About Death](https://open.spotify.com/album/3IlUTUy6zU75un9lSN78dw) | 3:50 | 2022-02-03 | 2022-02-11 |
 | [DIE OUT HERE \(feat\. POORSTACY\)](https://open.spotify.com/track/3PqpLZTiiwJjYD1uSvQoCC) | [DE'WAYNE](https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O), [POORSTACY](https://open.spotify.com/artist/7vSY9HEreOqb1Llar3UC38) | [DIE OUT HERE \(feat\. POORSTACY\)](https://open.spotify.com/album/4agLeYDJ434nJLLvM4uJWJ) | 2:14 | 2022-04-07 | 2022-04-15 |
 | [Died Enough For You](https://open.spotify.com/track/6S0TwVjLseHPFL8HWMC4z3) | [Cyan Kicks](https://open.spotify.com/artist/6nA097TpH4DgdzRYFXAXry) | [Died Enough For You](https://open.spotify.com/album/5vh86Lj3MiRCJytUbtIZUO) | 3:36 | 2021-12-16 | 2022-01-07 |
-| [Dig!](https://open.spotify.com/track/003jZXYNwnO3rl83ajtLpd) | [Sports Team](https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh) | [Dig!](https://open.spotify.com/album/5HoYh07ZPhKkZ1hwV5VFL7) | 2:41 | 2022-09-01 |  |
+| [Dig!](https://open.spotify.com/track/003jZXYNwnO3rl83ajtLpd) | [Sports Team](https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh) | [Dig!](https://open.spotify.com/album/5HoYh07ZPhKkZ1hwV5VFL7) | 2:41 | 2022-09-01 | 2022-09-03 |
+| [Dig!](https://open.spotify.com/track/0jhhWCD0oXc4E480bMl6L7) | [Sports Team](https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh) | [Dig!](https://open.spotify.com/album/2Hs7jUW49pEuMW7jirgbt8) | 2:41 | 2022-09-01 |  |
 | [Digital Atlas](https://open.spotify.com/track/4DweoPyHETeUjbkUDwHlnl) | [Daisy Brain](https://open.spotify.com/artist/5WuDKeWph4EKsyy9e56Mz4) | [Digital Atlas](https://open.spotify.com/album/3pPp2gMM0o5BK92geIkWa8) | 3:02 | 2022-02-03 | 2022-02-11 |
 | [Digital People](https://open.spotify.com/track/1rwZzNP54QEwtHCzBCMQFM) | [The Alchemy](https://open.spotify.com/artist/4SsZtOnTAm0Et9A8mkquKm) | [Digital People](https://open.spotify.com/album/2IuTvkgSZpW0AydC2dimVe) | 4:31 | 2022-04-14 | 2022-04-22 |
 | [Dime in My Dryer](https://open.spotify.com/track/75KcTQx2tVwIASUnBJRpIH) | [Brandon Boyd](https://open.spotify.com/artist/0QmjlE852mAIaEt2IpBquO) | [Dime in My Dryer](https://open.spotify.com/album/5Ny9ACWa4HbztaCIryPWSJ) | 3:32 | 2022-01-13 | 2022-01-21 |
@@ -1544,7 +1545,8 @@
 | [Ten Thousand Arrows](https://open.spotify.com/track/79f4sn7YFyLOJlTVQ7eZw9) | [Johnny Stranger](https://open.spotify.com/artist/4FeP8yuBjoDKfpo8TWCMBA) | [Ten Thousand Arrows](https://open.spotify.com/album/1uJ77VH1Rr6JMKKxUfBDtW) | 6:26 | 2022-08-26 | 2022-09-02 |
 | [Test](https://open.spotify.com/track/5DTlpXqSOG3NvEUZrKSYDA) | [Spyres](https://open.spotify.com/artist/0gu9FiIFp32jTZSCRhdqFO) | [Dear Diary](https://open.spotify.com/album/1gbV1iY5o84R26XCzTZruV) | 2:41 | 2022-08-12 | 2022-08-20 |
 | [That Ain't Livin'](https://open.spotify.com/track/2jQWY8hMoD1Nt3fCDd6zZo) | [Ugly Kid Joe](https://open.spotify.com/artist/3XsgWn63EnA4wYZBjVyxjf) | [That Ain't Livin'](https://open.spotify.com/album/3ZXbICsdtqyiPGbfyFJZtB) | 4:17 | 2022-06-09 | 2022-06-17 |
-| [That Boy on the Stage](https://open.spotify.com/track/1tabPhoqhhwUcJHqnS00V4) | [Suede](https://open.spotify.com/artist/6PHIK3kjWggLtVygsOtpqS) | [That Boy on the Stage](https://open.spotify.com/album/5yAdJsCABqokvbponMtZxd) | 2:35 | 2022-09-01 |  |
+| [That Boy on the Stage](https://open.spotify.com/track/1tabPhoqhhwUcJHqnS00V4) | [Suede](https://open.spotify.com/artist/6PHIK3kjWggLtVygsOtpqS) | [That Boy on the Stage](https://open.spotify.com/album/5yAdJsCABqokvbponMtZxd) | 2:35 | 2022-09-01 | 2022-09-03 |
+| [That Boy on the Stage](https://open.spotify.com/track/4BfpB9pTHk3zDoz4iLlN4d) | [The London Suede](https://open.spotify.com/artist/6GuRYj1MEnu1WZhDA2Xy0t) | [That Boy on the Stage](https://open.spotify.com/album/0McRDHe2ppiux5nIjpn13H) | 2:35 | 2022-09-01 |  |
 | [That Was A Joke](https://open.spotify.com/track/6lAYusLNkTuXcKzxkWzdGg) | [Lauran Hibberd](https://open.spotify.com/artist/33ReZaGVb63WaJE68WgWuU) | [That Was A Joke](https://open.spotify.com/album/5sWDf1SnNbtZG4ROx8CzkF) | 3:22 | 2022-07-22 | 2022-07-30 |
 | [That's Where I Am](https://open.spotify.com/track/4f1KkbXHnfIVZ9vmIExByJ) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [That's Where I Am](https://open.spotify.com/album/1gBMpfSlQWoMIsR48U7DLr) | 4:12 | 2022-04-07 | 2022-04-15 |
 | [The Alchemist](https://open.spotify.com/track/4d5ynlKOWa4xkQKiymfW8y) | [The Faim](https://open.spotify.com/artist/6VsU92soWFLtVsSP65rkrN) | [The Alchemist](https://open.spotify.com/album/4CVhH2aMXn5F2Pxytbi0tV) | 2:38 | 2022-04-28 | 2022-05-13 |

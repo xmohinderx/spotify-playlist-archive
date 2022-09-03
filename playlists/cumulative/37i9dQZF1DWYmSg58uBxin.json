@@ -149,7 +149,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 226708,
       "name": "At Peace",
       "url": "https://open.spotify.com/track/0Dd0bM1MWg2JvHbjRe7o1K"
@@ -293,7 +293,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 116500,
       "name": "Between Moments",
       "url": "https://open.spotify.com/track/7IeAd6rhMU9zMG0wccZbwb"
@@ -369,7 +369,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 158430,
       "name": "Bord de L\u2019eau",
       "url": "https://open.spotify.com/track/0g6LbYjAdDmV4YQcnzV4tF"
@@ -517,6 +517,24 @@
       "duration_ms": 159632,
       "name": "Cloudy Mountains",
       "url": "https://open.spotify.com/track/5uDs595iEmAkqkNfzGB6cl"
+    },
+    {
+      "album": {
+        "name": "Colin",
+        "url": "https://open.spotify.com/album/2naNvERtXmruzo0nxV4pWR"
+      },
+      "artists": [
+        {
+          "name": "Las Desorden",
+          "url": "https://open.spotify.com/artist/05Vq9YRP30tBWRiSR7mUV3"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163000,
+      "name": "Colin",
+      "url": "https://open.spotify.com/track/1Bd5aIOYLMyxvI4FtG08x9"
     },
     {
       "album": {
@@ -1753,7 +1771,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 184000,
       "name": "Moving Space",
       "url": "https://open.spotify.com/track/3m1hoXw6tRHXRqK37bNbax"
@@ -2881,7 +2899,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 165632,
       "name": "These Steady Hands",
       "url": "https://open.spotify.com/track/3IIJBXhYKDDRk5UAaSSacY"

@@ -1,12 +1,12 @@
 {
   "description": "Music in the award-winning doc: The Black Power Mixtape 1967\u20131975.",
-  "num_followers": 635860,
+  "num_followers": 635693,
   "original_name": "The Black Power Mixtape 1967\u20131975",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYyOTk2NTQwMywwMDAwMDAwMDVjMTNlYTlmN2E3MWM4Y2M3YjIxODNkN2I4ZTA4ZjVh",
+  "snapshot_id": "MTYyOTk2NTQwMywwMDAwMDAwMGRmZWYzMDM1ZTdjZWUwMGE2MWQ1ZDQxNGI5ZGQxMjcw",
   "tracks": [
     {
       "added_at": "2021-04-29 10:16:48",
@@ -251,22 +251,6 @@
     {
       "added_at": "2021-04-29 10:16:48",
       "album": {
-        "name": "Going To A Go-Go",
-        "url": "https://open.spotify.com/album/2NT1Pc0MXlXORHLBkHyKQW"
-      },
-      "artists": [
-        {
-          "name": "Smokey Robinson & The Miracles",
-          "url": "https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt"
-        }
-      ],
-      "duration_ms": 174360,
-      "name": "The Tracks Of My Tears",
-      "url": "https://open.spotify.com/track/6QyQmdvQ1ywNccYa0pwLNQ"
-    },
-    {
-      "added_at": "2021-04-29 10:16:48",
-      "album": {
         "name": "Dusty In Memphis [Deluxe Edition]",
         "url": "https://open.spotify.com/album/6SNMenG3NjZyqgI5p4Hcmg"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 149160,
       "name": "Son of a Preacher Man",
       "url": "https://open.spotify.com/track/7odHgoLFi3GQ90E9PeraI3"
+    },
+    {
+      "added_at": "2021-04-29 10:16:48",
+      "album": {
+        "name": "Going To A Go-Go",
+        "url": "https://open.spotify.com/album/2NT1Pc0MXlXORHLBkHyKQW"
+      },
+      "artists": [
+        {
+          "name": "Smokey Robinson & The Miracles",
+          "url": "https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt"
+        }
+      ],
+      "duration_ms": 174360,
+      "name": "The Tracks Of My Tears",
+      "url": "https://open.spotify.com/track/6QyQmdvQ1ywNccYa0pwLNQ"
     },
     {
       "added_at": "2021-04-29 10:16:48",
@@ -799,22 +799,6 @@
     {
       "added_at": "2021-04-29 10:16:48",
       "album": {
-        "name": "At The Close Of A Century",
-        "url": "https://open.spotify.com/album/04giHQ9zptJUHUvtIyxL9Z"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 313266,
-      "name": "Boogie On Reggae Woman",
-      "url": "https://open.spotify.com/track/1xTfQiHbhB2Bj2B9dlAojb"
-    },
-    {
-      "added_at": "2021-04-29 10:16:48",
-      "album": {
         "name": "The Best Of William Bell",
         "url": "https://open.spotify.com/album/3qOZr2tczUvMFciKLk6lzb"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 138960,
       "name": "I Forgot To Be Your Lover",
       "url": "https://open.spotify.com/track/3PLKsooF2oGUBdGzblvOlI"
+    },
+    {
+      "added_at": "2021-04-29 10:16:48",
+      "album": {
+        "name": "At The Close Of A Century",
+        "url": "https://open.spotify.com/album/04giHQ9zptJUHUvtIyxL9Z"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 313266,
+      "name": "Boogie On Reggae Woman",
+      "url": "https://open.spotify.com/track/1xTfQiHbhB2Bj2B9dlAojb"
     },
     {
       "added_at": "2021-04-29 10:16:48",
@@ -963,22 +963,6 @@
     {
       "added_at": "2021-04-29 10:16:48",
       "album": {
-        "name": "Atlantic 60th: Soul, Sweat And Strut",
-        "url": "https://open.spotify.com/album/1LBWNRMsbEWb17KmDD4jfD"
-      },
-      "artists": [
-        {
-          "name": "Sam & Dave",
-          "url": "https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2"
-        }
-      ],
-      "duration_ms": 156680,
-      "name": "Soul Man",
-      "url": "https://open.spotify.com/track/0aebD8Phxpok5MG7pbwey5"
-    },
-    {
-      "added_at": "2021-04-29 10:16:48",
-      "album": {
         "name": "Stax Chartbusters, Vol. 1",
         "url": "https://open.spotify.com/album/4oEYZnyz2yqpWjjBcq7xLk"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 230920,
       "name": "Starting All Over Again",
       "url": "https://open.spotify.com/track/7kFRgT3KKxU1y7USF8ZzIX"
+    },
+    {
+      "added_at": "2021-04-29 10:16:48",
+      "album": {
+        "name": "Atlantic 60th: Soul, Sweat And Strut",
+        "url": "https://open.spotify.com/album/1LBWNRMsbEWb17KmDD4jfD"
+      },
+      "artists": [
+        {
+          "name": "Sam & Dave",
+          "url": "https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2"
+        }
+      ],
+      "duration_ms": 156680,
+      "name": "Soul Man",
+      "url": "https://open.spotify.com/track/0aebD8Phxpok5MG7pbwey5"
     },
     {
       "added_at": "2021-04-29 10:16:48",

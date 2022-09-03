@@ -522,6 +522,28 @@
     },
     {
       "album": {
+        "name": "Cinema - Main Theme (From \"Schindler's List\")",
+        "url": "https://open.spotify.com/album/3nC29H6JtRAzhaIZ9Qkw64"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        },
+        {
+          "name": "Alexandre Tharaud",
+          "url": "https://open.spotify.com/artist/5HG9Eg7Ik8ZuNtMyGYTxLG"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127136,
+      "name": "Main Theme (From \"Schindler's List\")",
+      "url": "https://open.spotify.com/track/1I89mrLCOoHc9SaxAZFFs7"
+    },
+    {
+      "album": {
         "name": "Mandy (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/60f6ypxsKLEemkp4216Ood"
       },

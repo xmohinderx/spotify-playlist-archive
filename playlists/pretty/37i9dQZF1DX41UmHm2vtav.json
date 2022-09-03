@@ -1,12 +1,12 @@
 {
   "description": "Entre na onda com hits tropicais e remixes para curtir a praia com amigos.",
-  "num_followers": 359556,
+  "num_followers": 359660,
   "original_name": "Festa na Praia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQ4Mjg2MCwwMDAwMDAwMDk3MzAxM2MyYzk0MGVlZWJlMjRlZDAwMTIyNWY1ZWM1",
+  "snapshot_id": "MTY2MTQ4Mjg2MCwwMDAwMDAwMDllNjZhNjFiODliM2E4OWQxZjM1YmI3YWFkOGQ4YTk0",
   "tracks": [
     {
       "added_at": "2022-08-26 03:01:00",
@@ -667,22 +667,6 @@
     {
       "added_at": "2022-08-26 03:01:00",
       "album": {
-        "name": "Live Your Life",
-        "url": "https://open.spotify.com/album/46AdlEXi3E3vcRvR3CT4GP"
-      },
-      "artists": [
-        {
-          "name": "Rooftime",
-          "url": "https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7"
-        }
-      ],
-      "duration_ms": 200574,
-      "name": "Live Your Life",
-      "url": "https://open.spotify.com/track/20Q9Fs3CtbsYdwVwq3xbsR"
-    },
-    {
-      "added_at": "2022-08-26 03:01:00",
-      "album": {
         "name": "Fica Tudo Bem (Bhaskar Remix)",
         "url": "https://open.spotify.com/album/1SQmuxKhiwwGEAUO8ro97t"
       },
@@ -703,6 +687,34 @@
       "duration_ms": 174125,
       "name": "Fica Tudo Bem - Bhaskar Remix",
       "url": "https://open.spotify.com/track/7jLwNbEykLVZldRuvngpl9"
+    },
+    {
+      "added_at": "2022-08-26 03:01:00",
+      "album": {
+        "name": "Save Me",
+        "url": "https://open.spotify.com/album/4c4mMrajgxaTdPyYaDcCSf"
+      },
+      "artists": [
+        {
+          "name": "Bruno Martini",
+          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
+        },
+        {
+          "name": "AVIAN GRAYS",
+          "url": "https://open.spotify.com/artist/6StTE02qIwbcJjGEDSZgg5"
+        },
+        {
+          "name": "TRIXL",
+          "url": "https://open.spotify.com/artist/0XzpwgL4nNoiTPbqztylMz"
+        },
+        {
+          "name": "Mayra",
+          "url": "https://open.spotify.com/artist/3XSWVsSggcTo6Bv8pcDqnt"
+        }
+      ],
+      "duration_ms": 160429,
+      "name": "Save Me",
+      "url": "https://open.spotify.com/track/3Fq1tzIgvxTm0pRcqVbsRy"
     },
     {
       "added_at": "2022-08-26 03:01:00",
@@ -743,74 +755,18 @@
     {
       "added_at": "2022-08-26 03:01:00",
       "album": {
-        "name": "Save Me",
-        "url": "https://open.spotify.com/album/4c4mMrajgxaTdPyYaDcCSf"
+        "name": "Live Your Life",
+        "url": "https://open.spotify.com/album/46AdlEXi3E3vcRvR3CT4GP"
       },
       "artists": [
         {
-          "name": "Bruno Martini",
-          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
-        },
-        {
-          "name": "AVIAN GRAYS",
-          "url": "https://open.spotify.com/artist/6StTE02qIwbcJjGEDSZgg5"
-        },
-        {
-          "name": "TRIXL",
-          "url": "https://open.spotify.com/artist/0XzpwgL4nNoiTPbqztylMz"
-        },
-        {
-          "name": "Mayra",
-          "url": "https://open.spotify.com/artist/3XSWVsSggcTo6Bv8pcDqnt"
+          "name": "Rooftime",
+          "url": "https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7"
         }
       ],
-      "duration_ms": 160429,
-      "name": "Save Me",
-      "url": "https://open.spotify.com/track/3Fq1tzIgvxTm0pRcqVbsRy"
-    },
-    {
-      "added_at": "2022-08-26 03:01:00",
-      "album": {
-        "name": "Algum Ritmo (Remix)",
-        "url": "https://open.spotify.com/album/1FfRtToPv63IurU5tHWyn2"
-      },
-      "artists": [
-        {
-          "name": "Sevenn",
-          "url": "https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4"
-        },
-        {
-          "name": "Gilsons",
-          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
-        },
-        {
-          "name": "Jovem Dionisio",
-          "url": "https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ"
-        }
-      ],
-      "duration_ms": 197419,
-      "name": "Algum Ritmo - Remix",
-      "url": "https://open.spotify.com/track/2oMlMXJUUKtLrsw6jCVyHG"
-    },
-    {
-      "added_at": "2022-08-26 03:01:00",
-      "album": {
-        "name": "The Truth",
-        "url": "https://open.spotify.com/album/3NLjETPKVCukXj19Ol7Grj"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Valerie Broussard",
-          "url": "https://open.spotify.com/artist/6eVWXmKBW7Iltub01D9R1c"
-        }
-      ],
-      "duration_ms": 193747,
-      "name": "The Truth",
-      "url": "https://open.spotify.com/track/4NmOJQxl9UZItUQQtMDYBb"
+      "duration_ms": 200574,
+      "name": "Live Your Life",
+      "url": "https://open.spotify.com/track/20Q9Fs3CtbsYdwVwq3xbsR"
     },
     {
       "added_at": "2022-08-26 03:01:00",
@@ -835,6 +791,50 @@
       "duration_ms": 179456,
       "name": "All The Lies (with Felix Jaehn & The Vamps)",
       "url": "https://open.spotify.com/track/4Cy5f4JsH1yoeGks7FnoHw"
+    },
+    {
+      "added_at": "2022-08-26 03:01:00",
+      "album": {
+        "name": "The Truth",
+        "url": "https://open.spotify.com/album/3NLjETPKVCukXj19Ol7Grj"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Valerie Broussard",
+          "url": "https://open.spotify.com/artist/6eVWXmKBW7Iltub01D9R1c"
+        }
+      ],
+      "duration_ms": 193747,
+      "name": "The Truth",
+      "url": "https://open.spotify.com/track/4NmOJQxl9UZItUQQtMDYBb"
+    },
+    {
+      "added_at": "2022-08-26 03:01:00",
+      "album": {
+        "name": "Algum Ritmo (Remix)",
+        "url": "https://open.spotify.com/album/1FfRtToPv63IurU5tHWyn2"
+      },
+      "artists": [
+        {
+          "name": "Sevenn",
+          "url": "https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4"
+        },
+        {
+          "name": "Gilsons",
+          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
+        },
+        {
+          "name": "Jovem Dionisio",
+          "url": "https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ"
+        }
+      ],
+      "duration_ms": 197419,
+      "name": "Algum Ritmo - Remix",
+      "url": "https://open.spotify.com/track/2oMlMXJUUKtLrsw6jCVyHG"
     },
     {
       "added_at": "2022-08-26 03:01:00",
@@ -903,46 +903,6 @@
     {
       "added_at": "2022-08-26 03:01:00",
       "album": {
-        "name": "Youngr",
-        "url": "https://open.spotify.com/album/6fQblFsVP8G1oZuRn6F3fz"
-      },
-      "artists": [
-        {
-          "name": "Bruno Martini",
-          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
-        },
-        {
-          "name": "Shaun Jacobs",
-          "url": "https://open.spotify.com/artist/662ARLbv66AD2qerddBiDP"
-        }
-      ],
-      "duration_ms": 175204,
-      "name": "Youngr",
-      "url": "https://open.spotify.com/track/29q1t40crnI8D5tLGYMgn8"
-    },
-    {
-      "added_at": "2022-08-26 03:01:00",
-      "album": {
-        "name": "When In Rome",
-        "url": "https://open.spotify.com/album/3daubnhKaUTkjWO1DO310f"
-      },
-      "artists": [
-        {
-          "name": "GATT\u00dcSO",
-          "url": "https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic"
-        },
-        {
-          "name": "Damon Sharpe",
-          "url": "https://open.spotify.com/artist/3Woqe3KegExVyrEK1I6ITJ"
-        }
-      ],
-      "duration_ms": 194767,
-      "name": "When In Rome",
-      "url": "https://open.spotify.com/track/1ysP0xeOMwpdaPvYbZtBN5"
-    },
-    {
-      "added_at": "2022-08-26 03:01:00",
-      "album": {
         "name": "It's Your Life",
         "url": "https://open.spotify.com/album/1WqhtgNg8RsHbErNKCsNd8"
       },
@@ -963,6 +923,46 @@
       "duration_ms": 160909,
       "name": "It's Your Life",
       "url": "https://open.spotify.com/track/3PctkXl7b63vh1TixH00IF"
+    },
+    {
+      "added_at": "2022-08-26 03:01:00",
+      "album": {
+        "name": "Youngr",
+        "url": "https://open.spotify.com/album/6fQblFsVP8G1oZuRn6F3fz"
+      },
+      "artists": [
+        {
+          "name": "Bruno Martini",
+          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
+        },
+        {
+          "name": "Shaun Jacobs",
+          "url": "https://open.spotify.com/artist/662ARLbv66AD2qerddBiDP"
+        }
+      ],
+      "duration_ms": 175204,
+      "name": "Youngr",
+      "url": "https://open.spotify.com/track/29q1t40crnI8D5tLGYMgn8"
+    },
+    {
+      "added_at": "2022-08-26 03:01:00",
+      "album": {
+        "name": "Bem Melhor (KVSH Remix)",
+        "url": "https://open.spotify.com/album/4uytEVyrbKnXwcz0Jxj7rZ"
+      },
+      "artists": [
+        {
+          "name": "Lagum",
+          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
+        },
+        {
+          "name": "KVSH",
+          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
+        }
+      ],
+      "duration_ms": 183431,
+      "name": "Bem Melhor - KVSH Remix",
+      "url": "https://open.spotify.com/track/76m2MiAKQvoHsgvwRDPXx5"
     },
     {
       "added_at": "2022-08-26 03:01:00",
@@ -991,22 +991,22 @@
     {
       "added_at": "2022-08-26 03:01:00",
       "album": {
-        "name": "Bem Melhor (KVSH Remix)",
-        "url": "https://open.spotify.com/album/4uytEVyrbKnXwcz0Jxj7rZ"
+        "name": "When In Rome",
+        "url": "https://open.spotify.com/album/3daubnhKaUTkjWO1DO310f"
       },
       "artists": [
         {
-          "name": "Lagum",
-          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
+          "name": "GATT\u00dcSO",
+          "url": "https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic"
         },
         {
-          "name": "KVSH",
-          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
+          "name": "Damon Sharpe",
+          "url": "https://open.spotify.com/artist/3Woqe3KegExVyrEK1I6ITJ"
         }
       ],
-      "duration_ms": 183431,
-      "name": "Bem Melhor - KVSH Remix",
-      "url": "https://open.spotify.com/track/76m2MiAKQvoHsgvwRDPXx5"
+      "duration_ms": 194767,
+      "name": "When In Rome",
+      "url": "https://open.spotify.com/track/1ysP0xeOMwpdaPvYbZtBN5"
     },
     {
       "added_at": "2022-08-26 03:01:00",
@@ -1075,6 +1075,26 @@
     {
       "added_at": "2022-08-26 03:01:00",
       "album": {
+        "name": "Infinito Particular (Bhaskar Remix)",
+        "url": "https://open.spotify.com/album/1jGbiJKRQjoDfWDaokYutp"
+      },
+      "artists": [
+        {
+          "name": "Bhaskar",
+          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
+        },
+        {
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+        }
+      ],
+      "duration_ms": 160019,
+      "name": "Infinito Particular - Bhaskar Remix",
+      "url": "https://open.spotify.com/track/72jW7XpxlhT95QVLPLbsBm"
+    },
+    {
+      "added_at": "2022-08-26 03:01:00",
+      "album": {
         "name": "Somebody That You Loved",
         "url": "https://open.spotify.com/album/2hZK1aGxPqE8XMyUK8bV79"
       },
@@ -1095,22 +1115,22 @@
     {
       "added_at": "2022-08-26 03:01:00",
       "album": {
-        "name": "Infinito Particular (Bhaskar Remix)",
-        "url": "https://open.spotify.com/album/1jGbiJKRQjoDfWDaokYutp"
+        "name": "Um Dia Inteiro",
+        "url": "https://open.spotify.com/album/4QkJIUVjHYnRATRfJYWEXo"
       },
       "artists": [
         {
-          "name": "Bhaskar",
-          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
+          "name": "DUX",
+          "url": "https://open.spotify.com/artist/1LgoxgQRqIU1xWXRNxgSK6"
         },
         {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+          "name": "Lucas Pretti",
+          "url": "https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op"
         }
       ],
-      "duration_ms": 160019,
-      "name": "Infinito Particular - Bhaskar Remix",
-      "url": "https://open.spotify.com/track/72jW7XpxlhT95QVLPLbsBm"
+      "duration_ms": 184000,
+      "name": "Um Dia Inteiro",
+      "url": "https://open.spotify.com/track/4QIJGXrPvtyKaeoTD7PcXw"
     },
     {
       "added_at": "2022-08-26 03:01:00",
@@ -1135,26 +1155,6 @@
       "duration_ms": 156000,
       "name": "Hey (Na Na Na)",
       "url": "https://open.spotify.com/track/5eYHuFukR95qj8s3Q3YEfQ"
-    },
-    {
-      "added_at": "2022-08-26 03:01:00",
-      "album": {
-        "name": "Um Dia Inteiro",
-        "url": "https://open.spotify.com/album/4QkJIUVjHYnRATRfJYWEXo"
-      },
-      "artists": [
-        {
-          "name": "DUX",
-          "url": "https://open.spotify.com/artist/1LgoxgQRqIU1xWXRNxgSK6"
-        },
-        {
-          "name": "Lucas Pretti",
-          "url": "https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Um Dia Inteiro",
-      "url": "https://open.spotify.com/track/4QIJGXrPvtyKaeoTD7PcXw"
     },
     {
       "added_at": "2022-08-26 03:01:00",
@@ -1351,26 +1351,6 @@
     {
       "added_at": "2022-08-26 03:01:00",
       "album": {
-        "name": "Toda Forma De Amor (Remix)",
-        "url": "https://open.spotify.com/album/6JrcGklaPVSgStFMVr1D80"
-      },
-      "artists": [
-        {
-          "name": "Make U Sweat",
-          "url": "https://open.spotify.com/artist/2REtZ0a1gh5LzXswkSkQUp"
-        },
-        {
-          "name": "Lulu Santos",
-          "url": "https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1"
-        }
-      ],
-      "duration_ms": 228661,
-      "name": "Toda Forma De Amor - Remix",
-      "url": "https://open.spotify.com/track/5OUcQYbAwl4uKlVqnTqs2C"
-    },
-    {
-      "added_at": "2022-08-26 03:01:00",
-      "album": {
         "name": "Piloto Autom\u00e1tico (Gabriel Boni, Voltech & Zucchi Remix)",
         "url": "https://open.spotify.com/album/3lcUyNtFMP7DXNjgdoGkBk"
       },
@@ -1395,6 +1375,26 @@
       "duration_ms": 376680,
       "name": "Piloto Autom\u00e1tico - Gabriel Boni, Voltech & Zucchi Remix",
       "url": "https://open.spotify.com/track/00YOa6SnANXEQWK9JWJlpm"
+    },
+    {
+      "added_at": "2022-08-26 03:01:00",
+      "album": {
+        "name": "Toda Forma De Amor (Remix)",
+        "url": "https://open.spotify.com/album/6JrcGklaPVSgStFMVr1D80"
+      },
+      "artists": [
+        {
+          "name": "Make U Sweat",
+          "url": "https://open.spotify.com/artist/2REtZ0a1gh5LzXswkSkQUp"
+        },
+        {
+          "name": "Lulu Santos",
+          "url": "https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1"
+        }
+      ],
+      "duration_ms": 228661,
+      "name": "Toda Forma De Amor - Remix",
+      "url": "https://open.spotify.com/track/5OUcQYbAwl4uKlVqnTqs2C"
     },
     {
       "added_at": "2022-08-26 03:01:00",
@@ -1439,26 +1439,6 @@
     {
       "added_at": "2022-08-26 03:01:00",
       "album": {
-        "name": "Amor Pra Recome\u00e7ar",
-        "url": "https://open.spotify.com/album/2xR4lb0yAglnIoEgdvb7Ch"
-      },
-      "artists": [
-        {
-          "name": "Jopin",
-          "url": "https://open.spotify.com/artist/5eOyNvHjfi9EcXeJwrCroz"
-        },
-        {
-          "name": "Saulo",
-          "url": "https://open.spotify.com/artist/0l82Lk1LX5X2qqYuPSXTuf"
-        }
-      ],
-      "duration_ms": 158095,
-      "name": "Amor Pra Recome\u00e7ar",
-      "url": "https://open.spotify.com/track/6kNZZrEuRbNevp9dW3RPDX"
-    },
-    {
-      "added_at": "2022-08-26 03:01:00",
-      "album": {
         "name": "Paradise (Vintage Culture Remix)",
         "url": "https://open.spotify.com/album/4Ze0gz9LZNKKMVcLfReoh5"
       },
@@ -1475,6 +1455,26 @@
       "duration_ms": 241823,
       "name": "Paradise - Vintage Culture Remix",
       "url": "https://open.spotify.com/track/3L6ky4onXXulYqKf8jZ433"
+    },
+    {
+      "added_at": "2022-08-26 03:01:00",
+      "album": {
+        "name": "Amor Pra Recome\u00e7ar",
+        "url": "https://open.spotify.com/album/2xR4lb0yAglnIoEgdvb7Ch"
+      },
+      "artists": [
+        {
+          "name": "Jopin",
+          "url": "https://open.spotify.com/artist/5eOyNvHjfi9EcXeJwrCroz"
+        },
+        {
+          "name": "Saulo",
+          "url": "https://open.spotify.com/artist/0l82Lk1LX5X2qqYuPSXTuf"
+        }
+      ],
+      "duration_ms": 158095,
+      "name": "Amor Pra Recome\u00e7ar",
+      "url": "https://open.spotify.com/track/6kNZZrEuRbNevp9dW3RPDX"
     },
     {
       "added_at": "2022-08-26 03:01:00",
@@ -1523,18 +1523,26 @@
     {
       "added_at": "2022-08-26 03:01:00",
       "album": {
-        "name": "Blind",
-        "url": "https://open.spotify.com/album/3kh8lb8IZFrdFmXxdEBXDl"
+        "name": "All The Way Up",
+        "url": "https://open.spotify.com/album/7G5LMLw8wnH6Y5vzZRVNor"
       },
       "artists": [
         {
-          "name": "Rooftime",
-          "url": "https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7"
+          "name": "EQRIC",
+          "url": "https://open.spotify.com/artist/1Yj7SsIEP9k7SsE1HcMBrq"
+        },
+        {
+          "name": "PHARA\u00d8H",
+          "url": "https://open.spotify.com/artist/5SHDLpahWqSLc0qhuGpS3f"
+        },
+        {
+          "name": "Peter Piffen",
+          "url": "https://open.spotify.com/artist/50LmKJrodjlTvdI6FvtvrK"
         }
       ],
-      "duration_ms": 180977,
-      "name": "Blind",
-      "url": "https://open.spotify.com/track/28byMFpuOmMpEFTl3dBKXT"
+      "duration_ms": 175333,
+      "name": "All The Way Up",
+      "url": "https://open.spotify.com/track/289pQ5lNESfucuiv1BAgEO"
     }
   ],
   "unique_name": "Festa na Praia",

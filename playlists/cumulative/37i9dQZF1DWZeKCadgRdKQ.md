@@ -4,7 +4,7 @@
 
 > Keep calm and focus with ambient and post\-rock music.
 
-470 songs - 1 day 3 hr 12 min - [published](https://open.spotify.com/playlist/5W4NxHsN7nLdCvGkEWUuYB)
+471 songs - 1 day 3 hr 14 min - [published](https://open.spotify.com/playlist/5W4NxHsN7nLdCvGkEWUuYB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -302,6 +302,7 @@
 | [Pale Lights](https://open.spotify.com/track/12xTeDRkdcJdyCEjQ7FPvk) | [This Patch of Sky](https://open.spotify.com/artist/5SizWbJ5S7KxIR8e07jvqf) | [Pale Lights](https://open.spotify.com/album/170J5TNlVewS7Tr8d3sAWI) | 4:42 | 2019-06-19\* | 2019-06-27 |
 | [Pale Lights \(Dark Dark Horse Remix\)](https://open.spotify.com/track/2p9P7FkkBTR9DOM4TGkgMz) | [Dark Dark Horse](https://open.spotify.com/artist/3HL8hkT7cJdDu0ezNCnA2Q), [This Patch of Sky](https://open.spotify.com/artist/5SizWbJ5S7KxIR8e07jvqf) | [Pale Lights \(Dark Dark Horse Remix\)](https://open.spotify.com/album/2MIhJSX3lfyY6mDk53DgDq) | 4:17 | 2019-06-19\* | 2021-09-03 |
 | [Paper](https://open.spotify.com/track/1yUFga1e5dKdRlQlNIgKDC) | [Poppy Ackroyd](https://open.spotify.com/artist/5q3wKuiaCK8BRPZQSvehFd) | [Paper](https://open.spotify.com/album/0q5KPqS6NRFfz8eeHQI8X1) | 4:34 | 2019-06-19\* | 2019-06-27 |
+| [paragraphs](https://open.spotify.com/track/0BYqfF118BfjcxvQRCwaWk) | [Dance Of Centuries](https://open.spotify.com/artist/5y6jYkmnAqeXseHx3earZD) | [paragraphs](https://open.spotify.com/album/64KViYUE2sjw5ev9apKJZN) | 2:03 | 2022-09-02 |  |
 | [Passage](https://open.spotify.com/track/1qjepM8Kvr049e9gE1fkdm) | [Lowercase Noises](https://open.spotify.com/artist/7trvyUUXmPhi1StCNYHj4e) | [Passage](https://open.spotify.com/album/5KFRuWDL0crUoNfvBqMFyw) | 5:47 | 2019-05-26\* | 2019-06-19 |
 | [Path to Serenity](https://open.spotify.com/track/6FI69Qkt6C2yBTVLC8zq34) | [Arya Shae](https://open.spotify.com/artist/5jTigCDuv898J4oTRvco0w) | [Path to Serenity](https://open.spotify.com/album/3PV2hkJ6uMIDg1ZAXd5Ywo) | 3:34 | 2020-05-18 |  |
 | [Perfect Instance](https://open.spotify.com/track/1DprJIKazijA5UkXiR6oQ6) | [City of the Sun](https://open.spotify.com/artist/4DkYxtaASIKQnk4Gj0TB7k) | [Perfect Instance](https://open.spotify.com/album/0q4lFbtl9ODtQVnwan4Nqr) | 4:13 | 2019-06-19\* | 2019-12-11 |

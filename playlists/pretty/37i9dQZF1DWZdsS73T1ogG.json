@@ -1,12 +1,12 @@
 {
   "description": "Descubre lo m\u00e1s nuevo del movimiento. Cover: Kalido, Mariah Angeliq, Kevin Roldan & Totoy El Frio",
-  "num_followers": 504110,
+  "num_followers": 504170,
   "original_name": "el nuevo urbano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQ4NjQ2MCwwMDAwMDAwMGVmNWNkNTBiMTMxZTAxNTEwYWUyODE2M2VkZjE1ZDJh",
+  "snapshot_id": "MTY2MTQ4NjQ2MCwwMDAwMDAwMDVmYzI2OTNiN2RmMjUwZWNmZDBiMjZiMWVjNTQwOTAy",
   "tracks": [
     {
       "added_at": "2022-08-26 04:01:00",
@@ -567,6 +567,26 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
+        "name": "Mujer\u00f3n",
+        "url": "https://open.spotify.com/album/7yY1iOFMzA5Zv0cDvOJgjX"
+      },
+      "artists": [
+        {
+          "name": "Ptazeta",
+          "url": "https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN"
+        },
+        {
+          "name": "Villano Antillano",
+          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
+        }
+      ],
+      "duration_ms": 170721,
+      "name": "Mujer\u00f3n",
+      "url": "https://open.spotify.com/track/2F2kre9J0uxhoap5iQyCV0"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
         "name": "Q-Lito",
         "url": "https://open.spotify.com/album/7vy05msyjhqtzv6wgemce7"
       },
@@ -619,26 +639,6 @@
       "duration_ms": 332608,
       "name": "Medio Crazy Remix",
       "url": "https://open.spotify.com/track/3AiiL8Idhbmm3vDf2dmyRW"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
-        "name": "Mujer\u00f3n",
-        "url": "https://open.spotify.com/album/7yY1iOFMzA5Zv0cDvOJgjX"
-      },
-      "artists": [
-        {
-          "name": "Ptazeta",
-          "url": "https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN"
-        },
-        {
-          "name": "Villano Antillano",
-          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
-        }
-      ],
-      "duration_ms": 170721,
-      "name": "Mujer\u00f3n",
-      "url": "https://open.spotify.com/track/2F2kre9J0uxhoap5iQyCV0"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -719,6 +719,22 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
+        "name": "El Pibe (Vol.1)",
+        "url": "https://open.spotify.com/album/3Cqol64UqjB81EpDkvUH84"
+      },
+      "artists": [
+        {
+          "name": "Sael",
+          "url": "https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux"
+        }
+      ],
+      "duration_ms": 164160,
+      "name": "Borracho y Loco",
+      "url": "https://open.spotify.com/track/4WJ1NdiMI29s083w8ph0hA"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
         "name": "TRAP KITTY",
         "url": "https://open.spotify.com/album/4LA06BUD265HXY7Mv2HUG7"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 185000,
       "name": "Bi",
       "url": "https://open.spotify.com/track/1eOenz5uZlndPxGPC4cQxV"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
-        "name": "El Pibe (Vol.1)",
-        "url": "https://open.spotify.com/album/3Cqol64UqjB81EpDkvUH84"
-      },
-      "artists": [
-        {
-          "name": "Sael",
-          "url": "https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux"
-        }
-      ],
-      "duration_ms": 164160,
-      "name": "Borracho y Loco",
-      "url": "https://open.spotify.com/track/4WJ1NdiMI29s083w8ph0hA"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -843,22 +843,6 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "KLK",
-        "url": "https://open.spotify.com/album/1LnL349QHolcO0vHZxgKLt"
-      },
-      "artists": [
-        {
-          "name": "Villano Antillano",
-          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
-        }
-      ],
-      "duration_ms": 181802,
-      "name": "KLK",
-      "url": "https://open.spotify.com/track/2Of9piZALXa4CC7Unxoeeg"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
         "name": "Bad Bichi",
         "url": "https://open.spotify.com/album/2uqrqjmwu3qqYU46jEd6DJ"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 175058,
       "name": "Bad Bichi",
       "url": "https://open.spotify.com/track/2hGTv1OBtgFeRgNyqphITI"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
+        "name": "KLK",
+        "url": "https://open.spotify.com/album/1LnL349QHolcO0vHZxgKLt"
+      },
+      "artists": [
+        {
+          "name": "Villano Antillano",
+          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
+        }
+      ],
+      "duration_ms": 181802,
+      "name": "KLK",
+      "url": "https://open.spotify.com/track/2Of9piZALXa4CC7Unxoeeg"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "Thirteen",
-        "url": "https://open.spotify.com/album/6uB35Vnb3ntHG3r7SaOpTQ"
-      },
-      "artists": [
-        {
-          "name": "NEZZA",
-          "url": "https://open.spotify.com/artist/0cRKBhWUTEtR1vmA06kVKz"
-        }
-      ],
-      "duration_ms": 213733,
-      "name": "Thirteen",
-      "url": "https://open.spotify.com/track/3CeerksBP1R34v6L79rPvC"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
         "name": "Despues Siempre Es Tarde",
         "url": "https://open.spotify.com/album/6yiDOMUgSUUVoh5waZ8LJ4"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 228600,
       "name": "La Babygirl",
       "url": "https://open.spotify.com/track/0eyBVedpmRH8s8S2W7lEqM"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
+        "name": "Thirteen",
+        "url": "https://open.spotify.com/album/6uB35Vnb3ntHG3r7SaOpTQ"
+      },
+      "artists": [
+        {
+          "name": "NEZZA",
+          "url": "https://open.spotify.com/artist/0cRKBhWUTEtR1vmA06kVKz"
+        }
+      ],
+      "duration_ms": 213733,
+      "name": "Thirteen",
+      "url": "https://open.spotify.com/track/3CeerksBP1R34v6L79rPvC"
     },
     {
       "added_at": "2022-08-26 04:01:00",

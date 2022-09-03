@@ -4,7 +4,7 @@
 
 > The sweet sounds of Syria.
 
-73 songs - 5 hr 53 min - [published](https://open.spotify.com/playlist/1T0FUNSxflc8VN7roYu6Gu)
+74 songs - 5 hr 56 min - [published](https://open.spotify.com/playlist/1T0FUNSxflc8VN7roYu6Gu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Swarat](https://open.spotify.com/track/6jWQ9vgd089Ayk1uws9Fb3) | [Mais Harb](https://open.spotify.com/artist/4QanuerHBNrfWoC9x0ojk5) | [Swarat](https://open.spotify.com/album/2lHuo0CbcdEzTVZNcpk9gE) | 3:26 | 2021-10-19 |  |
 | [Takke](https://open.spotify.com/track/1mMFP46MOq92keItSUvSb0) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65) | [Dance With Nassif Zeytoun](https://open.spotify.com/album/1TABHyMM46DStN9R57uUdE) | 3:28 | 2022-06-20 |  |
 | [Takke](https://open.spotify.com/track/1hnk0ZhStnRSLRq4u2fM7H) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65) | [Takke](https://open.spotify.com/album/1BHDLGn3NPPIiQcIS4W9rp) | 3:28 | 2021-10-19 | 2022-07-29 |
+| [Wala Fuse \- Special Version](https://open.spotify.com/track/1bQEqxv5YcCgXXYVwSa9Us) | [Assasi](https://open.spotify.com/artist/1TuHc6zFa31PJpMpvyKZoz) | [Wala Fuse \(Special Version\)](https://open.spotify.com/album/2MUWf8lrTWfSkyqapMlHfI) | 3:07 | 2022-09-01 |  |
 | [Wallé](https://open.spotify.com/track/5mJbEJTjxwEhhlccQDm5kd) | [Bu Kolthoum](https://open.spotify.com/artist/58UPSgCUefEHXrtQkPd64B) | [Wallé](https://open.spotify.com/album/0llPrZmYWkRxQnH9o1ERF3) | 2:57 | 2021-10-19 |  |
 | [Wassellik Khabar](https://open.spotify.com/track/4USDc2ee6XNky5miYt5QTN) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65) | [From Nassif Zeytoun with Love](https://open.spotify.com/album/60D9VCdWGbTklahFkQYmDq) | 3:56 | 2022-06-20 |  |
 | [Wassellik Khabar](https://open.spotify.com/track/5eLeUIBvwEmwPlKChDhhVQ) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65) | [Wassellik Khabar](https://open.spotify.com/album/6ndPBorakdAiDb0Oq98bk1) | 3:56 | 2021-10-19 | 2022-07-29 |

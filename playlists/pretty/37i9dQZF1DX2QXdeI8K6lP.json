@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica que te har\u00e1 suspirar como en aquellos a\u00f1os dorados. En portada: Los Panchos ",
-  "num_followers": 178527,
+  "num_followers": 178680,
   "original_name": "Tr\u00edos y Boleros Rom\u00e1nticos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDUxODEyOSwwMDAwMDAwMDI3ODkxN2Q4NGFkN2JlMTFiMmI5YTEzMTEzZmIwYmJj",
+  "snapshot_id": "MTY0MDUxODEyOSwwMDAwMDAwMGU0MWNhODBmYzZkYmVjZjcwZTYzMDFjNjRiODAxNGM3",
   "tracks": [
     {
       "added_at": "2021-10-01 13:30:07",
@@ -665,22 +665,6 @@
       "url": "https://open.spotify.com/track/4nDsWyejqWUNnz0j48scEr"
     },
     {
-      "added_at": "2021-12-26 11:28:49",
-      "album": {
-        "name": "Ya Te Conozco",
-        "url": "https://open.spotify.com/album/4RHQFgF2drijGZq5I2v60Z"
-      },
-      "artists": [
-        {
-          "name": "Iv\u00e1n Cruz",
-          "url": "https://open.spotify.com/artist/3zQZWNtvXSGkESIkW5Bf2L"
-        }
-      ],
-      "duration_ms": 176665,
-      "name": "Dime la Verdad",
-      "url": "https://open.spotify.com/track/4DWL15gnQwM9I2VG9vdmXU"
-    },
-    {
       "added_at": "2021-10-01 13:30:07",
       "album": {
         "name": "Inmortales de To\u00f1a la Negra",
@@ -711,6 +695,22 @@
       "duration_ms": 151880,
       "name": "Novia M\u00eda",
       "url": "https://open.spotify.com/track/5IJ691iklYJBremu40wZLI"
+    },
+    {
+      "added_at": "2021-12-26 11:28:49",
+      "album": {
+        "name": "Ya Te Conozco",
+        "url": "https://open.spotify.com/album/4RHQFgF2drijGZq5I2v60Z"
+      },
+      "artists": [
+        {
+          "name": "Iv\u00e1n Cruz",
+          "url": "https://open.spotify.com/artist/3zQZWNtvXSGkESIkW5Bf2L"
+        }
+      ],
+      "duration_ms": 176665,
+      "name": "Dime la Verdad",
+      "url": "https://open.spotify.com/track/4DWL15gnQwM9I2VG9vdmXU"
     },
     {
       "added_at": "2021-10-01 13:30:07",
@@ -911,6 +911,22 @@
     {
       "added_at": "2021-10-01 13:30:07",
       "album": {
+        "name": "Los Tecolines: Bolero Romantico",
+        "url": "https://open.spotify.com/album/2HaemXURrtkV1aOjGgXq2S"
+      },
+      "artists": [
+        {
+          "name": "Los Tecolines",
+          "url": "https://open.spotify.com/artist/3NnhZWS3bdFwcm1GPkzcNv"
+        }
+      ],
+      "duration_ms": 183771,
+      "name": "Prisionero Del Mar",
+      "url": "https://open.spotify.com/track/3KSqeds9xE8rBDt4QEjrLk"
+    },
+    {
+      "added_at": "2021-10-01 13:30:07",
+      "album": {
         "name": "RCA 100 A\u00f1os de M\u00fasica",
         "url": "https://open.spotify.com/album/4mNUyuDnmgm2GGe9qnW7Y1"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 180840,
       "name": "Cha Cha Linda",
       "url": "https://open.spotify.com/track/6HAcngnAkOIgpfU0jGsXri"
-    },
-    {
-      "added_at": "2021-12-26 11:28:49",
-      "album": {
-        "name": "Lo Mejor de Julio Jaramillo",
-        "url": "https://open.spotify.com/album/0wb8xAJ6F5t8uXa0aDFgnX"
-      },
-      "artists": [
-        {
-          "name": "Julio Jaramillo",
-          "url": "https://open.spotify.com/artist/6HqPNOo6OV9rPbEY7MP9T8"
-        }
-      ],
-      "duration_ms": 184153,
-      "name": "Fatalidad",
-      "url": "https://open.spotify.com/track/4jdT29SdUzR0RassdVuZDp"
     },
     {
       "added_at": "2021-10-01 13:30:07",
@@ -957,20 +957,20 @@
       "url": "https://open.spotify.com/track/5vDEpIkGRbnOrcUnCCxnzs"
     },
     {
-      "added_at": "2021-10-01 13:30:07",
+      "added_at": "2021-12-26 11:28:49",
       "album": {
-        "name": "Los Tecolines: Bolero Romantico",
-        "url": "https://open.spotify.com/album/2HaemXURrtkV1aOjGgXq2S"
+        "name": "Lo Mejor de Julio Jaramillo",
+        "url": "https://open.spotify.com/album/0wb8xAJ6F5t8uXa0aDFgnX"
       },
       "artists": [
         {
-          "name": "Los Tecolines",
-          "url": "https://open.spotify.com/artist/3NnhZWS3bdFwcm1GPkzcNv"
+          "name": "Julio Jaramillo",
+          "url": "https://open.spotify.com/artist/6HqPNOo6OV9rPbEY7MP9T8"
         }
       ],
-      "duration_ms": 183771,
-      "name": "Prisionero Del Mar",
-      "url": "https://open.spotify.com/track/3KSqeds9xE8rBDt4QEjrLk"
+      "duration_ms": 184153,
+      "name": "Fatalidad",
+      "url": "https://open.spotify.com/track/4jdT29SdUzR0RassdVuZDp"
     },
     {
       "added_at": "2021-10-01 13:30:07",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2021-10-01 13:30:07",
       "album": {
+        "name": "Somos Novios",
+        "url": "https://open.spotify.com/album/5pzOJCIXm7y4YucjI04SQI"
+      },
+      "artists": [
+        {
+          "name": "Las Verdes",
+          "url": "https://open.spotify.com/artist/1EYHVHmQJl5adHTZ0RZqvW"
+        }
+      ],
+      "duration_ms": 166413,
+      "name": "Somos Novios",
+      "url": "https://open.spotify.com/track/7yWJtlafh6TTjcljGpSn5B"
+    },
+    {
+      "added_at": "2021-10-01 13:30:07",
+      "album": {
         "name": "Lo Mejor de los Mejores - Tr\u00edos del Mundo",
         "url": "https://open.spotify.com/album/3kFUfESqhs3NcDF48dBTga"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 197626,
       "name": "Estoy Perdido",
       "url": "https://open.spotify.com/track/1vE6UQdo5yrROUgxlhAul2"
-    },
-    {
-      "added_at": "2021-10-01 13:30:07",
-      "album": {
-        "name": "Somos Novios",
-        "url": "https://open.spotify.com/album/5pzOJCIXm7y4YucjI04SQI"
-      },
-      "artists": [
-        {
-          "name": "Las Verdes",
-          "url": "https://open.spotify.com/artist/1EYHVHmQJl5adHTZ0RZqvW"
-        }
-      ],
-      "duration_ms": 166413,
-      "name": "Somos Novios",
-      "url": "https://open.spotify.com/track/7yWJtlafh6TTjcljGpSn5B"
     },
     {
       "added_at": "2021-10-01 13:30:07",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2021-10-01 13:30:07",
       "album": {
-        "name": "Serenata con Los Tecolines",
-        "url": "https://open.spotify.com/album/5B8WnefLZ6ako5S6eUa7mb"
-      },
-      "artists": [
-        {
-          "name": "Los Tecolines",
-          "url": "https://open.spotify.com/artist/3NnhZWS3bdFwcm1GPkzcNv"
-        }
-      ],
-      "duration_ms": 169280,
-      "name": "Besos de Plata",
-      "url": "https://open.spotify.com/track/5DWjEIZr5Rnw32lLRbC2AF"
-    },
-    {
-      "added_at": "2021-10-01 13:30:07",
-      "album": {
         "name": "Pensando En Ti",
         "url": "https://open.spotify.com/album/0DdhG3uTQzuqaUYHOTyleK"
       },
@@ -1119,6 +1103,22 @@
     {
       "added_at": "2021-10-01 13:30:07",
       "album": {
+        "name": "Serenata con Los Tecolines",
+        "url": "https://open.spotify.com/album/5B8WnefLZ6ako5S6eUa7mb"
+      },
+      "artists": [
+        {
+          "name": "Los Tecolines",
+          "url": "https://open.spotify.com/artist/3NnhZWS3bdFwcm1GPkzcNv"
+        }
+      ],
+      "duration_ms": 169280,
+      "name": "Besos de Plata",
+      "url": "https://open.spotify.com/track/5DWjEIZr5Rnw32lLRbC2AF"
+    },
+    {
+      "added_at": "2021-10-01 13:30:07",
+      "album": {
         "name": "Antolog\u00eda... Emilio Tuero",
         "url": "https://open.spotify.com/album/6sLf66A31WsT3zfrkxmw2g"
       },
@@ -1131,6 +1131,22 @@
       "duration_ms": 175480,
       "name": "Quinto patio",
       "url": "https://open.spotify.com/track/1OyMBRnmfDtChpieU8yZGl"
+    },
+    {
+      "added_at": "2021-10-01 13:30:07",
+      "album": {
+        "name": "Frente A Frente",
+        "url": "https://open.spotify.com/album/49xPknFfNTCPZH6ZRyuekN"
+      },
+      "artists": [
+        {
+          "name": "Antonio Badu",
+          "url": "https://open.spotify.com/artist/3HMS8RHr7RqTB1vj8igPkl"
+        }
+      ],
+      "duration_ms": 196533,
+      "name": "Talisman",
+      "url": "https://open.spotify.com/track/2eK0oqBA9QMoV0nOavJTS3"
     },
     {
       "added_at": "2021-10-01 13:30:07",
@@ -1163,18 +1179,18 @@
     {
       "added_at": "2021-10-01 13:30:07",
       "album": {
-        "name": "Frente A Frente",
-        "url": "https://open.spotify.com/album/49xPknFfNTCPZH6ZRyuekN"
+        "name": "Perdoname",
+        "url": "https://open.spotify.com/album/2UXJz6qh5y44uiHxlP8k6M"
       },
       "artists": [
         {
-          "name": "Antonio Badu",
-          "url": "https://open.spotify.com/artist/3HMS8RHr7RqTB1vj8igPkl"
+          "name": "Los Viajantes",
+          "url": "https://open.spotify.com/artist/4YAXYtBeaRHUxQ8R3TKheZ"
         }
       ],
-      "duration_ms": 196533,
-      "name": "Talisman",
-      "url": "https://open.spotify.com/track/2eK0oqBA9QMoV0nOavJTS3"
+      "duration_ms": 144194,
+      "name": "Perdoname",
+      "url": "https://open.spotify.com/track/5GN4KcUMREkJAV3Cuhp5oY"
     },
     {
       "added_at": "2021-10-01 13:30:07",
@@ -1207,22 +1223,6 @@
       "duration_ms": 176733,
       "name": "Como Fue",
       "url": "https://open.spotify.com/track/6BDI8tJZLePuf70SzCiX42"
-    },
-    {
-      "added_at": "2021-10-01 13:30:07",
-      "album": {
-        "name": "Perdoname",
-        "url": "https://open.spotify.com/album/2UXJz6qh5y44uiHxlP8k6M"
-      },
-      "artists": [
-        {
-          "name": "Los Viajantes",
-          "url": "https://open.spotify.com/artist/4YAXYtBeaRHUxQ8R3TKheZ"
-        }
-      ],
-      "duration_ms": 144194,
-      "name": "Perdoname",
-      "url": "https://open.spotify.com/track/5GN4KcUMREkJAV3Cuhp5oY"
     },
     {
       "added_at": "2021-10-01 13:30:07",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2021-10-01 13:30:07",
       "album": {
+        "name": "Personalidad - Los Grandes Trios",
+        "url": "https://open.spotify.com/album/2YfKDamKfrzXOxZGpl8zbb"
+      },
+      "artists": [
+        {
+          "name": "El Negro Peregrino Y Su Trio",
+          "url": "https://open.spotify.com/artist/3qluTXV1gubNFvWSMhCSI9"
+        }
+      ],
+      "duration_ms": 158760,
+      "name": "Nochecita",
+      "url": "https://open.spotify.com/track/1Z4PHeXxR6LkgBa9slCenT"
+    },
+    {
+      "added_at": "2021-10-01 13:30:07",
+      "album": {
         "name": "Antolog\u00eda. . .Hermanas Aguila",
         "url": "https://open.spotify.com/album/1cHpnAwp1SAOIkear7BUwi"
       },
@@ -1323,22 +1339,6 @@
       "duration_ms": 120061,
       "name": "Quiero Conocerte",
       "url": "https://open.spotify.com/track/0UaLz8op9qrew1xOa3vtpf"
-    },
-    {
-      "added_at": "2021-10-01 13:30:07",
-      "album": {
-        "name": "Personalidad - Los Grandes Trios",
-        "url": "https://open.spotify.com/album/2YfKDamKfrzXOxZGpl8zbb"
-      },
-      "artists": [
-        {
-          "name": "El Negro Peregrino Y Su Trio",
-          "url": "https://open.spotify.com/artist/3qluTXV1gubNFvWSMhCSI9"
-        }
-      ],
-      "duration_ms": 158760,
-      "name": "Nochecita",
-      "url": "https://open.spotify.com/track/1Z4PHeXxR6LkgBa9slCenT"
     },
     {
       "added_at": "2021-10-01 13:30:07",
@@ -1441,6 +1441,22 @@
       "url": "https://open.spotify.com/track/7fQ8mPzBybAaVRoM4cZ0T5"
     },
     {
+      "added_at": "2021-10-01 13:30:07",
+      "album": {
+        "name": "No",
+        "url": "https://open.spotify.com/album/453mZhcGBHRgoJeLfirF6k"
+      },
+      "artists": [
+        {
+          "name": "Los Tres Mariquitas",
+          "url": "https://open.spotify.com/artist/1RpMXfKJ5wgJufPr4TPcQf"
+        }
+      ],
+      "duration_ms": 161250,
+      "name": "No",
+      "url": "https://open.spotify.com/track/0C69couVwXQPhHPq2f2gSa"
+    },
+    {
       "added_at": "2021-12-26 11:28:49",
       "album": {
         "name": "100th Birthday Celebration",
@@ -1483,18 +1499,18 @@
     {
       "added_at": "2021-10-01 13:30:07",
       "album": {
-        "name": "No",
-        "url": "https://open.spotify.com/album/453mZhcGBHRgoJeLfirF6k"
+        "name": "Llevatela",
+        "url": "https://open.spotify.com/album/4JCAbGWSc3iEUzjOCCMpme"
       },
       "artists": [
         {
-          "name": "Los Tres Mariquitas",
-          "url": "https://open.spotify.com/artist/1RpMXfKJ5wgJufPr4TPcQf"
+          "name": "Las Lagrimas",
+          "url": "https://open.spotify.com/artist/4CFUyjHnUwIb4SryCWffqN"
         }
       ],
-      "duration_ms": 161250,
-      "name": "No",
-      "url": "https://open.spotify.com/track/0C69couVwXQPhHPq2f2gSa"
+      "duration_ms": 138000,
+      "name": "Llevatela",
+      "url": "https://open.spotify.com/track/0c4aaZ2wPDfgjYxCZggRsW"
     },
     {
       "added_at": "2021-10-01 13:30:07",
@@ -1511,22 +1527,6 @@
       "duration_ms": 153053,
       "name": "Canci\u00f3n del alma",
       "url": "https://open.spotify.com/track/7rVOU36Rgup3pFGNA4pLOy"
-    },
-    {
-      "added_at": "2021-10-01 13:30:07",
-      "album": {
-        "name": "Llevatela",
-        "url": "https://open.spotify.com/album/4JCAbGWSc3iEUzjOCCMpme"
-      },
-      "artists": [
-        {
-          "name": "Las Lagrimas",
-          "url": "https://open.spotify.com/artist/4CFUyjHnUwIb4SryCWffqN"
-        }
-      ],
-      "duration_ms": 138000,
-      "name": "Llevatela",
-      "url": "https://open.spotify.com/track/0c4aaZ2wPDfgjYxCZggRsW"
     },
     {
       "added_at": "2021-10-01 13:30:07",
@@ -1659,18 +1659,18 @@
     {
       "added_at": "2021-10-01 13:30:07",
       "album": {
-        "name": "15 Creaciones De Yolanda Y Su Trio Perla Negra - Versiones Originales",
-        "url": "https://open.spotify.com/album/0MVQMThE6fTEOMvpGgWjTe"
+        "name": "Vamos a la Cumbancha",
+        "url": "https://open.spotify.com/album/2Zl8ew47kKbJ7Oqrs2oBMb"
       },
       "artists": [
         {
-          "name": "Yolanda Y Su Trio Perla Negra",
-          "url": "https://open.spotify.com/artist/3qTLA5L6rj3bA14H3QQJKG"
+          "name": "El Negro Peregrino Y Su Trio",
+          "url": "https://open.spotify.com/artist/3qluTXV1gubNFvWSMhCSI9"
         }
       ],
-      "duration_ms": 153826,
-      "name": "Espumas",
-      "url": "https://open.spotify.com/track/3nSV1I5ZVv4vI8nU7Kl6zW"
+      "duration_ms": 198146,
+      "name": "Guantanamera",
+      "url": "https://open.spotify.com/track/4QabgfWNwAEsgKgMu8B4tx"
     },
     {
       "added_at": "2021-10-01 13:30:07",

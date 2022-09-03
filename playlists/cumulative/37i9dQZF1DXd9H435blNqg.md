@@ -4,7 +4,7 @@
 
 > A different shade of the blues\. Cover: Ash Grunwald
 
-85 songs - 4 hr 44 min - [published](https://open.spotify.com/playlist/3SMaUdCHYgOYKwuKa1OVGG)
+86 songs - 4 hr 47 min - [published](https://open.spotify.com/playlist/3SMaUdCHYgOYKwuKa1OVGG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [Go Crazy \(feat\. Keb' Mo'\)](https://open.spotify.com/track/7G6oI8xoGa62LGvE2xjtfP) | [G\. Love & Special Sauce](https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89), [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [The Juice](https://open.spotify.com/album/66glD8iZgTv1vKXZRGQWXL) | 3:40 | 2021-02-12 |  |
 | [God Damn](https://open.spotify.com/track/0H8FIK4pIfx2y5Y9RhLJCa) | [Luke Wylde](https://open.spotify.com/artist/2wXmXykQVcnn9hZiJK7r3y), [JDP](https://open.spotify.com/artist/3PoT1SjOLHrvhQdT0scf96) | [Devils on the Loose](https://open.spotify.com/album/72N8KaRTfNtc6SN2BvquE9) | 2:43 | 2021-02-12 | 2022-09-01 |
 | [God Damn](https://open.spotify.com/track/4hJnBBNQ4uvVnmNDR6hcns) | [Luke Wylde](https://open.spotify.com/artist/2wXmXykQVcnn9hZiJK7r3y), [Swamp](https://open.spotify.com/artist/3JnCy7tffnn9EBDGk8ytQS), [JDP](https://open.spotify.com/artist/3PoT1SjOLHrvhQdT0scf96) | [Devils On The Loose](https://open.spotify.com/album/4g7ft1eiLHGnarx1VgiSGi) | 2:43 | 2021-02-12 | 2022-07-29 |
-| [Going Down](https://open.spotify.com/track/0g2SE4JV2rn8rEzNcwaTgk) | [Black River Delta](https://open.spotify.com/artist/6wuLyOna5Zjh2OYb0ZtLey) | [Going Down](https://open.spotify.com/album/3Gvjf4FDSIqcBScnLI2Kw5) | 3:28 | 2021-02-12 |  |
+| [Going Down](https://open.spotify.com/track/0g2SE4JV2rn8rEzNcwaTgk) | [Black River Delta](https://open.spotify.com/artist/6wuLyOna5Zjh2OYb0ZtLey) | [Going Down](https://open.spotify.com/album/3Gvjf4FDSIqcBScnLI2Kw5) | 3:28 | 2021-02-12 | 2022-09-03 |
 | [Good So Bad](https://open.spotify.com/track/5xDXfTxwPm7Zecypbub0Gs) | [Eric Tessmer](https://open.spotify.com/artist/6iX9NroXEFPMatQ24ghK7C) | [Eric Tessmer 2](https://open.spotify.com/album/6P3z7MA4EFR2nC3JLBtesD) | 4:09 | 2022-08-31 |  |
 | [Hard Feelings](https://open.spotify.com/track/5LkZJ4wPxLFRcqXHTlVtel) | [Cobi](https://open.spotify.com/artist/4fuZypKGg7klMEF10KTuAN) | [Songs From The Ashes](https://open.spotify.com/album/45M1z5jiYIfoTFyMYaNugp) | 4:08 | 2021-11-05 |  |
 | [Healing Creek](https://open.spotify.com/track/4AsrwPkPDdpzjjdr2SDykN) | [Talibah Safiya](https://open.spotify.com/artist/1E0Fc2u5OrryrpF8JH8srS) | [Healing Creek](https://open.spotify.com/album/7dF7ZkpIBrkCMDqFEIEzh6) | 3:11 | 2021-02-12 |  |
@@ -92,6 +92,7 @@
 | [Under the Big Top](https://open.spotify.com/track/2RPRG4CSmUEKw16kdTNivn) | [Cris Jacobs](https://open.spotify.com/artist/1WAu5oR3vtpCZCbGvhrevc) | [Color Where You Are](https://open.spotify.com/album/1KDIWuNEljTyLIgeMYq0rM) | 3:47 | 2022-08-31 |  |
 | [Watch Yo Mouf](https://open.spotify.com/track/6VM4509PIwTpt2sKR5XMlR) | [Davis Chris](https://open.spotify.com/artist/22pJFdsUssxfZ6RB6NPztj), [Mr Foster](https://open.spotify.com/artist/3A0mmSV3bOnB4vCgtFVntm) | [Wings and Blue Cheese](https://open.spotify.com/album/6SVJvFoVij5TG39JhWkoBA) | 2:42 | 2021-02-12 | 2022-07-29 |
 | [Watch Yo Mouf](https://open.spotify.com/track/6sJYiMRXLKF2JflTtzKs9U) | [Davis Chris](https://open.spotify.com/artist/22pJFdsUssxfZ6RB6NPztj), [Mr Foster](https://open.spotify.com/artist/3A0mmSV3bOnB4vCgtFVntm) | [Wings and Blue Cheese](https://open.spotify.com/album/5dKt7PvytEEmmXv7mqbuw2) | 2:42 | 2021-02-12 | 2022-09-01 |
+| [Wishing Well](https://open.spotify.com/track/5pzZNwKYPFrI9UidaDcH9J) | [Jack Broadbent](https://open.spotify.com/artist/2yk5jg6yi5fV6xmUZoBPHU) | [Moonshine Blue](https://open.spotify.com/album/4w7N0SsMduNWCXAIVUONWw) | 2:48 | 2022-08-31 |  |
 | [You Can't Let Go \(feat\. Chrissie Hynde\)](https://open.spotify.com/track/32GOXl3eR2Kp9lGi4u3UWx) | [The Picturebooks](https://open.spotify.com/artist/5L8u4AcYBOnxAtRrluOjKo), [Chrissie Hynde](https://open.spotify.com/artist/2ozLlEZTdSV3pjHgWwZMsi) | [The Hands Of Time](https://open.spotify.com/album/1Bb2bBAbmVd9die4M5UYQw) | 3:57 | 2021-02-12 | 2022-09-01 |
 
 \*This playlist was first scraped on 2022-05-11. Prior content cannot be recovered.

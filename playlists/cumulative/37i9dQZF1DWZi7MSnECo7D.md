@@ -2,9 +2,9 @@
 
 ### [Indie Brasil](https://open.spotify.com/playlist/37i9dQZF1DWZi7MSnECo7D)
 
-> Novidades e destaques do indie nacional\. Foto: Vanguart
+> Novidades e destaques do indie nacional\. Foto: Duda In The Sky
 
-262 songs - 15 hr 0 min - [published](https://open.spotify.com/playlist/6JgS0nFYvZfSw5mDRlDbjL)
+266 songs - 15 hr 12 min - [published](https://open.spotify.com/playlist/6JgS0nFYvZfSw5mDRlDbjL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,8 @@
 | [Beat](https://open.spotify.com/track/2D5qQa9nFYKwax9V7LNUBH) | [Mariana Cavanellas](https://open.spotify.com/artist/4XBAtMS0mrX2bQipALDthL), [Faew](https://open.spotify.com/artist/2wc2o0xe5pjBkzgMMt3Py9) | [Kintsugi](https://open.spotify.com/album/2FFM0AsTpvCC5Q6jLxAG3n) | 2:41 | 2022-04-29 | 2022-05-14 |
 | [bem vindo, amanhecer](https://open.spotify.com/track/7mWaj5XGPlLn26oz8Ml5WT) | [saudade](https://open.spotify.com/artist/5vjVK0Y2CBuicKqg4BgryA) | [bem vindo, amanhecer](https://open.spotify.com/album/3NIuGYI8AlF2z29olKZo3e) | 3:21 | 2022-04-08 | 2022-07-23 |
 | [Bicho Papão](https://open.spotify.com/track/6Dks697XrhDdbVfSydNAyQ) | [kamaitachi](https://open.spotify.com/artist/1ISc8zhrqxd5WrJMkMMLSm) | [Bicho Papão](https://open.spotify.com/album/3jHc6Yn0a3Nwk50r413tSG) | 3:31 | 2022-01-14 | 2022-02-12 |
+| [Bolero](https://open.spotify.com/track/3OkBD3fUCvAR8PKC14n1av) | [Andrea Martins](https://open.spotify.com/artist/60Qv0Cy0hpcfkHcYI13kxG) | [Bolero](https://open.spotify.com/album/1vFlWGmTgzSQmoviObW7iY) | 3:57 | 2022-09-02 |  |
+| [bom ator](https://open.spotify.com/track/6VrkNbCZW82ptUYPWV99sA) | [Number Teddie](https://open.spotify.com/artist/18TympJ9X4CQ45GYy7sORT), [Cleo](https://open.spotify.com/artist/0Re3qA28AJh2eIITpbREtx) | [PODERIA SER PIOR](https://open.spotify.com/album/5N0xGpXhbba4Io7PAU3MwK) | 2:21 | 2022-09-02 |  |
 | [Bonança](https://open.spotify.com/track/1oRT7e0Vye8UjUw1ceabPl) | [Esquimós](https://open.spotify.com/artist/6VVqkFB3MAmABN79OLFxnt), [Bruno Chaves](https://open.spotify.com/artist/4QKIVNqN2FLOqywERnKMac) | [E Mais um Corpo Caiu no Chão](https://open.spotify.com/album/7K1vGrpnTd09lDFPzBQDDN) | 3:37 | 2022-01-14 | 2022-01-29 |
 | [Breu](https://open.spotify.com/track/3Eu2TC0aIOaBUB5oNzI6kr) | [menores atos](https://open.spotify.com/artist/6KNc5HwsgpYNBCPaPrg4dv) | [Breu](https://open.spotify.com/album/3PoYgoWLUmGblClRJ3IZjq) | 4:14 | 2022-01-14 | 2022-07-09 |
 | [Bruta](https://open.spotify.com/track/4dSZ4PCRQio4IvIza6IAMb) | [Beli Remour](https://open.spotify.com/artist/6vtzYhjkFNNnKca9BzC3Tc), [Reis do Nada](https://open.spotify.com/artist/53uVJS9yN2F0iVsZU05or3) | [Bruta](https://open.spotify.com/album/05OTT0BfMLMAFCAlTtnh8I) | 3:32 | 2022-01-14 | 2022-06-04 |
@@ -185,7 +187,9 @@
 | [Pode Chegar](https://open.spotify.com/track/1xY1qLVrlFZPYjpklP1cl4) | [Bratislava](https://open.spotify.com/artist/3I8XI4F1zuQYD6JwRmbLbY) | [Parte do Que Vem](https://open.spotify.com/album/7s4EA9tZu5gK98FOSBL1ZS) | 4:15 | 2022-07-01 | 2022-08-20 |
 | [Polaroids](https://open.spotify.com/track/3D454eHAU28YfY74uwyI9b) | [Betina](https://open.spotify.com/artist/60xTz0cmopLyYBnQg9QGoK), [Boogarins](https://open.spotify.com/artist/0ohvsn0lgt51qZUbu9ct4s) | [Polaroids](https://open.spotify.com/album/4BA0EFWHNxlc1q7ubXMMon) | 3:36 | 2022-05-13 | 2022-06-25 |
 | [Por Enquanto](https://open.spotify.com/track/7Jqb8ZKO0cqj8fewm1A5e3) | [Joana Bentes](https://open.spotify.com/artist/0kRYwayXJKJRNHMJSRnmJm) | [De Volta Pra Cássia](https://open.spotify.com/album/1bA4ihMlX3gCtliW150HdR) | 3:26 | 2022-01-14 | 2022-01-29 |
+| [Por um Fio](https://open.spotify.com/track/1APCTPKE5pVFC8GUr2kMA4) | [Sulamericana](https://open.spotify.com/artist/2FTphbeJlzLPNdfsOU7rRJ) | [Por um Fio](https://open.spotify.com/album/7Ii1ewzjCQfZkULEOCMdDd) | 3:09 | 2022-09-02 |  |
 | [Pra Curar](https://open.spotify.com/track/1DIBq09mcWCWuXc0TIqoOx) | [Tuyo](https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj) | [Fragmentos 2](https://open.spotify.com/album/7tsqDAZfHq81EE3i81EOXG) | 3:06 | 2022-01-28 | 2022-06-18 |
+| [pra perto de mim](https://open.spotify.com/track/0qEEoCPxNgQjXtwQB4AeNe) | [Duda In The Sky](https://open.spotify.com/artist/7JMMxGGAQVHUU3KAGHVUFu) | [tres](https://open.spotify.com/album/7LGefeRWzqVdHgdDC4GgGh) | 3:12 | 2022-09-02 |  |
 | [PRAZER](https://open.spotify.com/track/4yn9IyH77LOTESnOIq43WU) | [Viratempo](https://open.spotify.com/artist/4UAqPe3DNOIDTa8bEGWPwL) | [PRAZER](https://open.spotify.com/album/6F1skja7UE5VvAC1DQQgll) | 3:48 | 2022-06-03 | 2022-06-25 |
 | [Primeira Pessoa](https://open.spotify.com/track/0a3M6e6nChwzrex3W6H4EU) | [Titcho Looper](https://open.spotify.com/artist/37pi9jWX60WC51BeByvvcJ), [Rodrigo Samsara](https://open.spotify.com/artist/16mPOeAPUyjIP11rtquMRC) | [Primeira Pessoa](https://open.spotify.com/album/3oAyKdq4UMS094SH61ky5V) | 3:36 | 2022-01-14 | 2022-03-18 |
 | [Projeto Psiquiatria](https://open.spotify.com/track/2Z5oPMEQgBdfj1tLS8HIp5) | [Do Amor](https://open.spotify.com/artist/2dQAz3jNlenyLHfeknfNsn) | [Projeto Psiquiatria](https://open.spotify.com/album/5r4sReyehHwEXuTM5wJQJ5) | 2:36 | 2022-04-29 | 2022-05-07 |

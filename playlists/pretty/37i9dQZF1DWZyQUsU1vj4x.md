@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyQUsU1vj4x.md) - [plain]
 
 > Indie folk ventures into the cinematic West.
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,085 likes - 95 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,109 likes - 95 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyQUsU1vj4x.md) - [plain]
 | 75 | [You And I](https://open.spotify.com/track/5qoD9i5DqtUWKaxyW29Yt7) | [honeyhoney](https://open.spotify.com/artist/22tQF7y3PwRuU6ZWAV2oTM) | [You And I](https://open.spotify.com/album/7k8UcNo3eeGLfzXUwUNjPO) | 3:45 |
 | 76 | [The Soundmaker](https://open.spotify.com/track/780ErBuX9zmXGzepTOQvVE) | [Rodrigo y Gabriela](https://open.spotify.com/artist/7vX3cMVyW8gtDA4y855ynF) | [9 Dead Alive](https://open.spotify.com/album/4efFYAI6uWPYcxJiRl1hDC) | 4:52 |
 | 77 | [Whole Body Shakes](https://open.spotify.com/track/3QHpJbphRIACz3ltCwa76w) | [Woodpigeon](https://open.spotify.com/artist/5UDSvbfSs63qDk39xVtEdy) | [T R O U B L E](https://open.spotify.com/album/3hE4HzEUz3n3aKOarOXM6g) | 4:18 |
-| 78 | [Desolation Point](https://open.spotify.com/track/7HpHnuK94vWiyXI5iFld4X) | [Steve Smyth](https://open.spotify.com/artist/4ejc2q1FtezVtEDOEOuyMO) | [Exits](https://open.spotify.com/album/3JV08IVUR8OrMfCTMdfThw) | 3:55 |
+| 78 | [Desolation Point](https://open.spotify.com/track/1xqwwhzRT5V5cSev8sxXOS) | [Steve Smyth](https://open.spotify.com/artist/4ejc2q1FtezVtEDOEOuyMO) | [Exits](https://open.spotify.com/album/71N8R4aZ6VDXWUP9jo8l08) | 3:55 |
 | 79 | [Hollow](https://open.spotify.com/track/5XjyRmC8WTEWmbABLxrDWm) | [Beulah](https://open.spotify.com/artist/7JgsSijn01ytQ39BNwmmK0) | [Beulah](https://open.spotify.com/album/35EQitRTUiX6iYz3yegiST) | 2:18 |
 | 80 | [Work Song](https://open.spotify.com/track/4Vc3bzFxXdrABa2DxgyCMT) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier](https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq) | 3:49 |
 | 81 | [Focus](https://open.spotify.com/track/3UYgCvyevt9yTawGrIdsd4) | [Brown Bird](https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP) | [Axis Mundi](https://open.spotify.com/album/1Br1pBqY2XH6L3cQpNUFLY) | 3:04 |
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyQUsU1vj4x.md) - [plain]
 | 94 | [A Church In Ruins \- From The HBO Series True Detective](https://open.spotify.com/track/1nOX0ALAjpYGys5keet5JJ) | [Lera Lynn](https://open.spotify.com/artist/2iul6etLF5hjjpxo43rzz7) | [A Church In Ruins \(From The HBO Series True Detective\)](https://open.spotify.com/album/1QHLQdd9J4JcJ8FomKvz1v) | 2:52 |
 | 95 | [Sunrise](https://open.spotify.com/track/6Zg0Vuj81fvyCwn7SlUMYV) | [Isobel Campbell](https://open.spotify.com/artist/55dlp5I9jyc4UjzlrcKMnq), [Mark Lanegan](https://open.spotify.com/artist/1fpXM23IoNckJ7NDAm8YJQ) | [Hawk](https://open.spotify.com/album/4vPZUSwLbvknOOo9UJZQVs) | 2:31 |
 
-Snapshot ID: `MTY0MzI5MzYwMSwwMDAwMDAwMGMzNzQ5YWNhYjY3NjAyOTU0MTdkZWYxMmUzMTlmNjc0`
+Snapshot ID: `MTY0MzI5MzYwMSwwMDAwMDAwMGUxZGU5YWM1MDYwMmI4YWM0ODQwNzU1MDQ3NTk3YjNl`

@@ -4,7 +4,7 @@
 
 > Brand new music from Steve Aoki’s Dim Mak Records, updated every Tuesday and Friday!
 
-85 songs - 4 hr 21 min - [published](https://open.spotify.com/playlist/7t8EXLKd9MB1gi8kmzd2kR)
+87 songs - 4 hr 27 min - [published](https://open.spotify.com/playlist/7t8EXLKd9MB1gi8kmzd2kR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Tear You Apart \(feat\. Aaron Gillespie\)](https://open.spotify.com/track/3p7IU6JT6C0gBs6YXCrLwx) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n), [Aaron Gillespie](https://open.spotify.com/artist/5B2GfbXgossZt9SE08Iqn6) | [Tear You Apart \(feat\. Aaron Gillespie\)](https://open.spotify.com/album/6YkRHSL3FzJR0KRNPMYm2r) | 2:23 | 2022-05-06 |  |
 | [Tempest](https://open.spotify.com/track/5gCKPDM4n94TD4c0D8fxJj) | [StayLoose](https://open.spotify.com/artist/6kyUfziWP8ydAsKzyXsC83) | [Return To Form](https://open.spotify.com/album/6nJAkFOqU6cTHBZR4W9BvX) | 3:15 | 2022-08-12 |  |
 | [The Whistle](https://open.spotify.com/track/0nYD5euxX3xsIe9bda0Fqg) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [DJ Aligator](https://open.spotify.com/artist/76JqkTKxRVKBFabbPiB8g6) | [The Whistle](https://open.spotify.com/album/6Ml1rV2N0McOkkfUU8k7iR) | 2:11 | 2022-08-05 |  |
+| [Time](https://open.spotify.com/track/08J3WyZe6XG53cL8OW3ZnU) | [NEOTEK](https://open.spotify.com/artist/44btqMHopGiWCGHMtFw3mv) | [Time](https://open.spotify.com/album/6Q7CghzgduIYq5exyNO2Pv) | 2:36 | 2022-09-02 |  |
 | [Under Pressure \(feat\. Dani King\)](https://open.spotify.com/track/317fuhJ0JKXQetp2ArD8L9) | [Kamas](https://open.spotify.com/artist/0HwWTf9vdcVii8ly6BP6M2), [RENN](https://open.spotify.com/artist/5avSbzlS5gKrlQ4uc718jA), [Dani King](https://open.spotify.com/artist/3IoL23eRnUfAwnOTsbTLVp) | [Under Pressure \(feat\. Dani King\)](https://open.spotify.com/album/4oz3RAbrJPvTB4B8dv3CFD) | 3:52 | 2022-06-24 |  |
 | [Vamos a Beber](https://open.spotify.com/track/6mc1TOxoCF9H4q7nvxjGyd) | [KD One](https://open.spotify.com/artist/2KsIqWw1S0S8L8f86GwEMb), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK) | [Vamos a Beber](https://open.spotify.com/album/1wNNIHN5hLmdxWIPUkoffz) | 3:14 | 2022-07-15 |  |
 | [Villainy \(feat\. Gold & Mikey Rotten\)](https://open.spotify.com/track/3279d3UVvnvJGhZOHj5Mtq) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [Dr\. Ozi](https://open.spotify.com/artist/2tKDLqWxsyXDmWoA4tHspF), [Gold](https://open.spotify.com/artist/6ImUn600ZnHXjWRuYDMh4H), [Mikey Rotten](https://open.spotify.com/artist/1zHT9y9IMhDCl0j6TSkZ1m) | [Villainy \(feat\. Gold & Mikey Rotten\)](https://open.spotify.com/album/7I439tCjMMzzWE1bauLG06) | 2:43 | 2022-08-05 |  |
@@ -93,5 +94,6 @@
 | [Wild Nights](https://open.spotify.com/track/5ZUgzZBOQmi8ARjnJckxeP) | [Axsara](https://open.spotify.com/artist/7dAmxDhUmmH7sVxpsxQC53) | [Wild Nights](https://open.spotify.com/album/3eh0EMLQ9M42KHXZ6If1bw) | 2:15 | 2022-07-06 |  |
 | [Wild Things](https://open.spotify.com/track/7KRW2oPclZY26GJCa8zYQG) | [SUNDRESS](https://open.spotify.com/artist/4QLFBPW2qkQiYUv9yL3wwn), [Bella Renee](https://open.spotify.com/artist/7od8NRvfdfAanx6IcY7JSa) | [Wild Things](https://open.spotify.com/album/58IBI9deFJ3VDvZv6Z7CMT) | 4:00 | 2022-05-06 |  |
 | [Woke Up Feeling Good \(feat\. Savage\)](https://open.spotify.com/track/6y2CAqnt5ZyrwOC7NDoWGw) | [Black Caviar](https://open.spotify.com/artist/1wqW0IQWC7V7jktcjVHID6), [Savage](https://open.spotify.com/artist/1GbrJTB56Xs4XQGlmVbaCf) | [Woke Up Feeling Good \(feat\. Savage\)](https://open.spotify.com/album/1aJRxY9BMTN8SXC97rvKov) | 3:38 | 2022-05-06 |  |
+| [Young & Lit \(feat\. Bok Nero\)](https://open.spotify.com/track/6KnBrpwDJZgMAIXXyRFkEN) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [Bok Nero](https://open.spotify.com/artist/7rnzdGq1qPizursGNI1P0V), [Softest Hard](https://open.spotify.com/artist/1smczP1QDorQcyiGA69tF6) | [Young & Lit \(feat\. Bok Nero\)](https://open.spotify.com/album/0cwp9pwywIQAjMfIuezSJM) | 3:09 | 2022-09-02 |  |
 
 \*This playlist was first scraped on 2022-06-10. Prior content cannot be recovered.

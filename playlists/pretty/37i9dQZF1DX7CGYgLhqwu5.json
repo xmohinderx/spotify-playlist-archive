@@ -1,12 +1,12 @@
 {
   "description": "Many would say that this decade is a \"Golden Era\" for country music. Cover: Patsy Cline",
-  "num_followers": 312198,
+  "num_followers": 311464,
   "original_name": "60s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA2NzMyMCwwMDAwMDAwMDllYWM1ZTM0YWRiZDEwMGE3MjkyOWNlZjIwYmUzMzI5",
+  "snapshot_id": "MTY1OTA2NzMyMCwwMDAwMDAwMDE1NjIwNmZlYjk1ZTg1ZGIzZjVlOTBmMTQ3MTZlMDk4",
   "tracks": [
     {
       "added_at": "2022-07-29 04:02:00",
@@ -63,18 +63,18 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
-        "name": "Golden Hits",
-        "url": "https://open.spotify.com/album/0B4wezbhEPFRVb4feiNBeM"
+        "name": "The Essential Skeeter Davis",
+        "url": "https://open.spotify.com/album/3KwArr7JHl7ykUNYrrja7N"
       },
       "artists": [
         {
-          "name": "Roger Miller",
-          "url": "https://open.spotify.com/artist/1RP2UpEaRzkF0Id3JigqD8"
+          "name": "Skeeter Davis",
+          "url": "https://open.spotify.com/artist/5b2OzvLaL6nyxw5pbVbSdy"
         }
       ],
-      "duration_ms": 147306,
-      "name": "King Of The Road",
-      "url": "https://open.spotify.com/track/3XG7bMVcMWLIn2k9jLAaAt"
+      "duration_ms": 157573,
+      "name": "The End of the World",
+      "url": "https://open.spotify.com/track/5DTOOkooKFUvWj1XQTFa09"
     },
     {
       "added_at": "2022-07-29 04:02:00",
@@ -111,18 +111,18 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
-        "name": "The Essential Skeeter Davis",
-        "url": "https://open.spotify.com/album/3KwArr7JHl7ykUNYrrja7N"
+        "name": "Golden Hits",
+        "url": "https://open.spotify.com/album/0B4wezbhEPFRVb4feiNBeM"
       },
       "artists": [
         {
-          "name": "Skeeter Davis",
-          "url": "https://open.spotify.com/artist/5b2OzvLaL6nyxw5pbVbSdy"
+          "name": "Roger Miller",
+          "url": "https://open.spotify.com/artist/1RP2UpEaRzkF0Id3JigqD8"
         }
       ],
-      "duration_ms": 157573,
-      "name": "The End of the World",
-      "url": "https://open.spotify.com/track/5DTOOkooKFUvWj1XQTFa09"
+      "duration_ms": 147306,
+      "name": "King Of The Road",
+      "url": "https://open.spotify.com/track/3XG7bMVcMWLIn2k9jLAaAt"
     },
     {
       "added_at": "2022-07-29 04:02:00",
@@ -959,22 +959,6 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
-        "name": "Folk-Country",
-        "url": "https://open.spotify.com/album/18bZE82qsKfz1TYDROUKtz"
-      },
-      "artists": [
-        {
-          "name": "Waylon Jennings",
-          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
-        }
-      ],
-      "duration_ms": 122480,
-      "name": "Stop the World (And Let Me Off)",
-      "url": "https://open.spotify.com/track/0jvmlZJZCaTZLMh3yfL6Y5"
-    },
-    {
-      "added_at": "2022-07-29 04:02:00",
-      "album": {
         "name": "RCA Country Legends",
         "url": "https://open.spotify.com/album/1mHCzqO6vjOdtwLZbWC4N6"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 141466,
       "name": "Please Help Me, I'm Falling",
       "url": "https://open.spotify.com/track/0dc0eU5THc1uE0Q0KV73XN"
+    },
+    {
+      "added_at": "2022-07-29 04:02:00",
+      "album": {
+        "name": "Folk-Country",
+        "url": "https://open.spotify.com/album/18bZE82qsKfz1TYDROUKtz"
+      },
+      "artists": [
+        {
+          "name": "Waylon Jennings",
+          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
+        }
+      ],
+      "duration_ms": 122480,
+      "name": "Stop the World (And Let Me Off)",
+      "url": "https://open.spotify.com/track/0jvmlZJZCaTZLMh3yfL6Y5"
     },
     {
       "added_at": "2022-07-29 04:02:00",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
+        "name": "Super Hits",
+        "url": "https://open.spotify.com/album/2xDSr0Si1QI2v4kkGnkW4G"
+      },
+      "artists": [
+        {
+          "name": "Floyd Cramer",
+          "url": "https://open.spotify.com/artist/6DQ6mdEhxCgHPqfX1niZZK"
+        }
+      ],
+      "duration_ms": 146760,
+      "name": "Last Date - Instrumental",
+      "url": "https://open.spotify.com/track/7rbvjRc6ZTVA3GUXDx3Xtr"
+    },
+    {
+      "added_at": "2022-07-29 04:02:00",
+      "album": {
         "name": "The Essential George Jones",
         "url": "https://open.spotify.com/album/2Pf9lml86yy0wuEDUSBIUF"
       },
@@ -1139,18 +1155,18 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
-        "name": "Super Hits",
-        "url": "https://open.spotify.com/album/2xDSr0Si1QI2v4kkGnkW4G"
+        "name": "All-Time Greatest Hits",
+        "url": "https://open.spotify.com/album/6c31q0EiGPqzNVDKfQzyzt"
       },
       "artists": [
         {
-          "name": "Floyd Cramer",
-          "url": "https://open.spotify.com/artist/6DQ6mdEhxCgHPqfX1niZZK"
+          "name": "Buck Owens",
+          "url": "https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu"
         }
       ],
-      "duration_ms": 146760,
-      "name": "Last Date - Instrumental",
-      "url": "https://open.spotify.com/track/7rbvjRc6ZTVA3GUXDx3Xtr"
+      "duration_ms": 124146,
+      "name": "Love's Gonna Live Here",
+      "url": "https://open.spotify.com/track/0svhKL5JfIxASjbmEkxXKV"
     },
     {
       "added_at": "2022-07-29 04:02:00",
@@ -1167,22 +1183,6 @@
       "duration_ms": 179373,
       "name": "Green Green Grass Of Home",
       "url": "https://open.spotify.com/track/6Ss6vCdWHgCuiB3icgBAwY"
-    },
-    {
-      "added_at": "2022-07-29 04:02:00",
-      "album": {
-        "name": "All-Time Greatest Hits",
-        "url": "https://open.spotify.com/album/6c31q0EiGPqzNVDKfQzyzt"
-      },
-      "artists": [
-        {
-          "name": "Buck Owens",
-          "url": "https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu"
-        }
-      ],
-      "duration_ms": 124146,
-      "name": "Love's Gonna Live Here",
-      "url": "https://open.spotify.com/track/0svhKL5JfIxASjbmEkxXKV"
     },
     {
       "added_at": "2022-07-29 04:02:00",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
-        "name": "The Essential Jim Ed Brown And The Browns (feat. Jim Ed Brown)",
-        "url": "https://open.spotify.com/album/7IsKfmOaFBk2o6XZQPGwyh"
-      },
-      "artists": [
-        {
-          "name": "Jim Ed Brown",
-          "url": "https://open.spotify.com/artist/6XBkny92syvAWxlIX8CZAM"
-        }
-      ],
-      "duration_ms": 140306,
-      "name": "Pop a Top",
-      "url": "https://open.spotify.com/track/73AgVwYUEPn9kB0a97b4LW"
-    },
-    {
-      "added_at": "2022-07-29 04:02:00",
-      "album": {
         "name": "Hawkshaw Hawkins 28 Big Ones",
         "url": "https://open.spotify.com/album/6PY8NzMXhWfO5psQjbsQBb"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 163386,
       "name": "Lonesome 7-7203",
       "url": "https://open.spotify.com/track/7uoR7OHB4pJt1LPL128prk"
+    },
+    {
+      "added_at": "2022-07-29 04:02:00",
+      "album": {
+        "name": "The Essential Jim Ed Brown And The Browns (feat. Jim Ed Brown)",
+        "url": "https://open.spotify.com/album/7IsKfmOaFBk2o6XZQPGwyh"
+      },
+      "artists": [
+        {
+          "name": "Jim Ed Brown",
+          "url": "https://open.spotify.com/artist/6XBkny92syvAWxlIX8CZAM"
+        }
+      ],
+      "duration_ms": 140306,
+      "name": "Pop a Top",
+      "url": "https://open.spotify.com/track/73AgVwYUEPn9kB0a97b4LW"
     },
     {
       "added_at": "2022-07-29 04:02:00",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/1xA2yRz4VCNPpzDIioyowJ"
-      },
-      "artists": [
-        {
-          "name": "Jim Reeves",
-          "url": "https://open.spotify.com/artist/2Ev0e8GUIX4u7d9etNLTXg"
-        }
-      ],
-      "duration_ms": 139733,
-      "name": "Am I Losing You",
-      "url": "https://open.spotify.com/track/3CRQJXjhNZiyvoNc3RIcwr"
-    },
-    {
-      "added_at": "2022-07-29 04:02:00",
-      "album": {
         "name": "May the Bird of Paradise Fly Up Your Nose",
         "url": "https://open.spotify.com/album/0bC3amgMq1cdEOdsTChqIR"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 157826,
       "name": "Make the World Go Away",
       "url": "https://open.spotify.com/track/7GafJyGdVj7ahXo96LwFM4"
+    },
+    {
+      "added_at": "2022-07-29 04:02:00",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/1xA2yRz4VCNPpzDIioyowJ"
+      },
+      "artists": [
+        {
+          "name": "Jim Reeves",
+          "url": "https://open.spotify.com/artist/2Ev0e8GUIX4u7d9etNLTXg"
+        }
+      ],
+      "duration_ms": 139733,
+      "name": "Am I Losing You",
+      "url": "https://open.spotify.com/track/3CRQJXjhNZiyvoNc3RIcwr"
     },
     {
       "added_at": "2022-07-29 04:02:00",

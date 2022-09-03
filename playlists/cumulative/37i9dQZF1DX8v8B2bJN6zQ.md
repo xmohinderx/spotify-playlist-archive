@@ -4,7 +4,7 @@
 
 > Música eletrônica para aquele treino de peso.
 
-92 songs - 5 hr 25 min - [published](https://open.spotify.com/playlist/30BYbNNkYuKOFBBVMGmVhP)
+93 songs - 5 hr 28 min - [published](https://open.spotify.com/playlist/30BYbNNkYuKOFBBVMGmVhP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Club Addict](https://open.spotify.com/track/4bCmNtxTlcWaiYCRV5oTZX) | [Cat Dealers](https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40), [FTampa](https://open.spotify.com/artist/6P6fVBXZjnqdgq2z2b8WlO), [Spankox](https://open.spotify.com/artist/15VeucLAy98diDPJ0T3J2V) | [Club Addict](https://open.spotify.com/album/6h9YS888ld8a40S1YjOfFk) | 2:39 | 2022-03-04 | 2022-03-26 |
 | [Couped Up](https://open.spotify.com/track/4f6anmNksyRQzGHeJMlhVN) | [Kill Paris](https://open.spotify.com/artist/6BNaPZdAIZAJnbgJRiZz2w) | [Couped Up](https://open.spotify.com/album/1Kz3p87RqrLMXyQ48pdcp9) | 3:05 | 2021-12-17 |  |
 | [céllo](https://open.spotify.com/track/12DV0YPbTgPaogo6gSHOQQ) | [La+ch](https://open.spotify.com/artist/22w0Xg5kpu5simeHw3afNG) | [céllo](https://open.spotify.com/album/4a66HF3ncR1UZ8a3jSXSlw) | 2:53 | 2021-12-17 |  |
+| [Darkside](https://open.spotify.com/track/3vYU3g6y2L0brDR3nt8F5d) | [Memento Mori](https://open.spotify.com/artist/4AJdOTtmWuYYElSe07eejR), [SPARKS](https://open.spotify.com/artist/7CNgXa0k7ieLtaynmrgUBl) | [Darkside](https://open.spotify.com/album/3vXkiXQge96O332xl5hoSt) | 3:21 | 2022-09-02 |  |
 | [Devotion \- 2020 Remix](https://open.spotify.com/track/039VxfSo5FErqE65169VZL) | [Bingo Players](https://open.spotify.com/artist/1pbHrVayIcVpHI9z97u4bK), [Felguk](https://open.spotify.com/artist/3eH2apcLhzhnr3eWmH3VBf), [Fafaq](https://open.spotify.com/artist/0EK2nCt5jxbkN2HCmtKy4V) | [Devotion \(2020 Remix\)](https://open.spotify.com/album/7IEKWKox1xVi1tlUyWnHHk) | 2:32 | 2021-12-17 |  |
 | [Down \- Vini Vici, Vegas Remix](https://open.spotify.com/track/4aTxLz00W4Gd5kWwZlyazJ) | [illusionize](https://open.spotify.com/artist/3RloA7E4XMItSP4FjMBv3L), [Vini Vici](https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy), [Vegas \(Brazil\)](https://open.spotify.com/artist/5xk7F7RlG0tk0rsGmjFB7z) | [Down \(Vini Vici, Vegas Remix\)](https://open.spotify.com/album/64F2v768m88W4ICszMA837) | 2:58 | 2022-04-22 |  |
 | [Downtown \(feat\. Pri Pach\)](https://open.spotify.com/track/6rZGPEu0NYFSvwLtuFz88J) | [BYOR](https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R), [VINNE](https://open.spotify.com/artist/1FGLT6mEhIrPhgqYiU57ro), [Pri Pach](https://open.spotify.com/artist/0HjP0FywphjmwI2T2Pcy2H) | [Downtown \(feat\. Pri Pach\)](https://open.spotify.com/album/2Eyqhq9VjtVsMYdq7dpFQS) | 2:40 | 2021-12-17 | 2022-04-29 |
@@ -67,7 +68,7 @@
 | [My Imagination](https://open.spotify.com/track/78PQivV4gKwRAWv4kCT7An) | [INNDRIVE](https://open.spotify.com/artist/6Ult8lRnG7Dh7KZtVlpAJX) | [My Imagination](https://open.spotify.com/album/4ad7ivsTg73hwCCt1uoGn3) | 3:04 | 2022-07-22 |  |
 | [My Mind](https://open.spotify.com/track/5alpNfo0QWoAzUWhmw9H70) | [Newera](https://open.spotify.com/artist/78Bbgb8kaIDnW3GCeWlDDa) | [My Mind](https://open.spotify.com/album/7k1cXQ9sTLHhgyw4Wi4NvG) | 3:31 | 2021-12-17 |  |
 | [Next Level](https://open.spotify.com/track/21mFLn6cxWaqt8gyLl0URX) | [Kova](https://open.spotify.com/artist/4fEckNuqOODv3H0ZimhCft), [Freakout BR](https://open.spotify.com/artist/73Hnmoy6Y3LLPPEuc7KIoJ) | [Next Level](https://open.spotify.com/album/0A3bkRKCHAmWG6YToZhsQM) | 3:50 | 2022-03-25 |  |
-| [Power](https://open.spotify.com/track/7LKgkaIHxZrtmZ9QmDCgdq) | [Rafael Starcevic](https://open.spotify.com/artist/1ivrTKhIfaa3W4ErAkVOQW), [Liu Rosa](https://open.spotify.com/artist/31HEVXpDNrBpLFWxaUCxmT) | [Power](https://open.spotify.com/album/7iqwLWSmyf62HWOPsFxcHP) | 2:47 | 2021-12-17 |  |
+| [Power](https://open.spotify.com/track/7LKgkaIHxZrtmZ9QmDCgdq) | [Rafael Starcevic](https://open.spotify.com/artist/1ivrTKhIfaa3W4ErAkVOQW), [Liu Rosa](https://open.spotify.com/artist/31HEVXpDNrBpLFWxaUCxmT) | [Power](https://open.spotify.com/album/7iqwLWSmyf62HWOPsFxcHP) | 2:47 | 2021-12-17 | 2022-09-03 |
 | [Push The Feeling On](https://open.spotify.com/track/0NWkVDrjlHYHGWWQdShmos) | [Brannco](https://open.spotify.com/artist/27TqtA3DJFLCXv7o8h0GgL), [Maya Days](https://open.spotify.com/artist/23lYDtdMB31cbu5g4z0wju) | [Push The Feeling On](https://open.spotify.com/album/0002K9tPYs8Me5kWaFAPko) | 2:38 | 2021-12-17 | 2022-07-29 |
 | [Push The Feeling On](https://open.spotify.com/track/7MRzjgoS72BNFT2pcToJGJ) | [Brannco](https://open.spotify.com/artist/27TqtA3DJFLCXv7o8h0GgL), [Maya Days](https://open.spotify.com/artist/23lYDtdMB31cbu5g4z0wju) | [Push The Feeling On](https://open.spotify.com/album/4lzJoouKOsWxhpY3pJkNJG) | 2:38 | 2022-07-22 |  |
 | [Quarentoxic](https://open.spotify.com/track/1kbA0ogOM9fWT4dDHMsa8y) | [Kzn](https://open.spotify.com/artist/5EZHJyeAbl8WK8PdMRR2eh) | [Quarentoxic](https://open.spotify.com/album/3JZ8UlANPOiKPRXDub8In1) | 3:13 | 2021-12-17 |  |

@@ -2,7 +2,7 @@
 
 ### [Orgánica](https://open.spotify.com/playlist/37i9dQZF1DX2pprEpa9URZ)
 
-> This is a deep tribal sound, combining electronic elements and organic instrumentation, stemming from the folk music of Africa, Latin America, and the Middle East.
+> A deep tribal sound, combining electronic elements and organic instrumentation, stemming from the folk music of Africa, Latin America and the Middle East.
 
 320 songs - 1 day 11 hr 54 min - [published](https://open.spotify.com/playlist/72tvy5oFSSxWjO9lGxm3Vs)
 

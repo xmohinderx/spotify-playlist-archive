@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWiYmf13kBNz.md) - [plain]
 
 > Feels like falling in love in the 50s
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,573 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,707 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWiYmf13kBNz.md) - [plain]
 | 46 | [Eddie My Love \- 1956 \#14 Billboard chart hit](https://open.spotify.com/track/1uv8FDHMW8p7yUqTF6cDQT) | [The Chordettes](https://open.spotify.com/artist/62GnBjssWSXBlKvQohT2Bk) | ["They're Riding High" Says Archie](https://open.spotify.com/album/2fBVKQwJG7e5NvOizP3jCm) | 2:15 |
 | 47 | [I Can't Believe That You're In Love With Me](https://open.spotify.com/track/1RcLTd97Z6CGEXuKxyornO) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [September In The Rain](https://open.spotify.com/album/1UMCHEE4nXBN2JLOgk7rQV) | 2:47 |
 | 48 | [Manhattan](https://open.spotify.com/track/6ReTCbOAUbnKKVBY0ckJMS) | [BLOSSOM DEARIE](https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6) | [Once Upon A Summertime](https://open.spotify.com/album/5pJeMvBDbvBnmDJsd0Up9n) | 4:19 |
-| 49 | [You Belong To Me](https://open.spotify.com/track/2NDMLabAjx4oL7ezx2PNxS) | [Jo Stafford](https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw) | [The Ultimate](https://open.spotify.com/album/7FAu65eXZrds9zcezKtYhl) | 3:13 |
-| 50 | [Blue Velvet](https://open.spotify.com/track/3WO8ZBnOtad3xMz46Z54pY) | [Bobby Vinton](https://open.spotify.com/artist/6bOYtKnpLPQSfMpS2ilotK) | [16 Most Requested Songs](https://open.spotify.com/album/3bi87ndwfdokCp0Km4fxoJ) | 2:48 |
+| 49 | [Sea Of Love](https://open.spotify.com/track/4gUDdUr5yK0JGlR49zSRVt) | [Phil Phillips & The Twilights](https://open.spotify.com/artist/5EQjT95lePa71P9ZUA6adW) | [Sea Of Love: The Collection](https://open.spotify.com/album/7sDEzqAGqgx95qRrLmqFBB) | 2:21 |
+| 50 | [You Belong To Me](https://open.spotify.com/track/2NDMLabAjx4oL7ezx2PNxS) | [Jo Stafford](https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw) | [The Ultimate](https://open.spotify.com/album/7FAu65eXZrds9zcezKtYhl) | 3:13 |
 
-Snapshot ID: `MTY2MDI1MTk3MSwwMDAwMDAwMDJlNDBkZjk3YjljN2E2YmZkMzllYmI5MjM4OTI3ZjFj`
+Snapshot ID: `MTY2MDI1MTk3MSwwMDAwMDAwMDU1YWEyNzg1YzkzZThiZGNhZmM2MDkxNmNiNjI5NWU2`

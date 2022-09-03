@@ -1,13 +1,33 @@
 {
-  "description": "The best in blues right now. Cover: Kirk Fletcher",
-  "num_followers": 39768,
+  "description": "The best in blues right now. Cover: Buddy Guy",
+  "num_followers": 39724,
   "original_name": "Got Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDg4MTcyMCwwMDAwMDAwMDYwODA4ZTgzYWVmMWVlYzI2NjNkMDQ0YTZkYmExMWM2",
+  "snapshot_id": "MTY2MjA5MTMyMCwwMDAwMDAwMDZmZjZmZGM0MzAwODlhZTRiMjUxOTc4OTVlYmRlNmMy",
   "tracks": [
+    {
+      "added_at": "2022-09-02 04:02:00",
+      "album": {
+        "name": "We Go Back (feat. Mavis Staples)",
+        "url": "https://open.spotify.com/album/00mf4w80NkJ3G01W3LK7ex"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        },
+        {
+          "name": "Mavis Staples",
+          "url": "https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0"
+        }
+      ],
+      "duration_ms": 279840,
+      "name": "We Go Back (feat. Mavis Staples)",
+      "url": "https://open.spotify.com/track/3BPogMgZeF4e3l71x2ax4w"
+    },
     {
       "added_at": "2022-08-19 04:02:00",
       "album": {
@@ -61,24 +81,20 @@
       "url": "https://open.spotify.com/track/2IwhGWbdmfMZMZ9JE4GiDN"
     },
     {
-      "added_at": "2022-08-12 04:02:00",
+      "added_at": "2022-09-02 04:02:00",
       "album": {
-        "name": "Gunsmoke Blues (feat. Jason Isbell)",
-        "url": "https://open.spotify.com/album/0VxKgrOCKdcF9PSAvn1rx2"
+        "name": "Two Steps From The Blues",
+        "url": "https://open.spotify.com/album/1BHB22TjTZOivmUqVXg9zV"
       },
       "artists": [
         {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        },
-        {
-          "name": "Jason Isbell",
-          "url": "https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY"
+          "name": "Angela Strehli",
+          "url": "https://open.spotify.com/artist/3lrwdIWcHi2VyhaiiqNw35"
         }
       ],
-      "duration_ms": 188973,
-      "name": "Gunsmoke Blues (feat. Jason Isbell)",
-      "url": "https://open.spotify.com/track/62QWywMNsKrR05lOSYUAzg"
+      "duration_ms": 157853,
+      "name": "Two Steps From The Blues",
+      "url": "https://open.spotify.com/track/6ehBcXu26w7KT5ZMUHnEBj"
     },
     {
       "added_at": "2022-07-15 04:02:00",
@@ -133,6 +149,26 @@
       "url": "https://open.spotify.com/track/3DSBR09kCm9YmwjZ2p2HSd"
     },
     {
+      "added_at": "2022-08-12 04:02:00",
+      "album": {
+        "name": "Gunsmoke Blues (feat. Jason Isbell)",
+        "url": "https://open.spotify.com/album/0VxKgrOCKdcF9PSAvn1rx2"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        },
+        {
+          "name": "Jason Isbell",
+          "url": "https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY"
+        }
+      ],
+      "duration_ms": 188973,
+      "name": "Gunsmoke Blues (feat. Jason Isbell)",
+      "url": "https://open.spotify.com/track/62QWywMNsKrR05lOSYUAzg"
+    },
+    {
       "added_at": "2022-06-03 04:02:00",
       "album": {
         "name": "White Jesus Black Problems",
@@ -147,22 +183,6 @@
       "duration_ms": 190436,
       "name": "Virginia Soil",
       "url": "https://open.spotify.com/track/2BabLfYnJvdWrDvgzNVYqE"
-    },
-    {
-      "added_at": "2022-06-10 04:02:00",
-      "album": {
-        "name": "Sleeping Dogs Best Left Alone",
-        "url": "https://open.spotify.com/album/3U9s5zYOPVSFuKpPo55iSN"
-      },
-      "artists": [
-        {
-          "name": "Dr. John",
-          "url": "https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO"
-        }
-      ],
-      "duration_ms": 239320,
-      "name": "Sleeping Dogs Best Left Alone",
-      "url": "https://open.spotify.com/track/29ZxWblASXbWazPYJyI8Nl"
     },
     {
       "added_at": "2022-08-05 04:02:00",
@@ -1391,22 +1411,6 @@
       "duration_ms": 227434,
       "name": "Poor Black Children",
       "url": "https://open.spotify.com/track/7zLqqKktW17B2S5CRlrBY7"
-    },
-    {
-      "added_at": "2021-08-13 04:01:00",
-      "album": {
-        "name": "Try It...You Might Like It: GA-20 Does Hound Dog Taylor",
-        "url": "https://open.spotify.com/album/4d9H4axCobgD9iuMsP3XCj"
-      },
-      "artists": [
-        {
-          "name": "GA-20",
-          "url": "https://open.spotify.com/artist/5lg8xPLWMK8R3EfQlKA5bT"
-        }
-      ],
-      "duration_ms": 275853,
-      "name": "Sitting At Home Alone",
-      "url": "https://open.spotify.com/track/3y5yJbyAJcCSWJmUF7Fi8d"
     },
     {
       "added_at": "2021-07-16 04:01:00",

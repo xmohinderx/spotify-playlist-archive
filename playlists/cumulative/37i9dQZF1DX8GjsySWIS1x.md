@@ -4,7 +4,7 @@
 
 > The latest in gamer music.
 
-744 songs - 1 day 17 hr 28 min - [published](https://open.spotify.com/playlist/2JpGV57sJHq5GKNwF0vuUD)
+745 songs - 1 day 17 hr 31 min - [published](https://open.spotify.com/playlist/2JpGV57sJHq5GKNwF0vuUD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -400,6 +400,7 @@
 | [Live in the Moment](https://open.spotify.com/track/60eOMEt3WNVX1m1jmApmnX) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Woodstock](https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB) | 4:06 | 2021-10-16 | 2021-12-11 |
 | [Living Legend](https://open.spotify.com/track/0WD7oIzG5Oi7W6idOMNl6M) | [Bryce Oliver](https://open.spotify.com/artist/4go0S75W0QGzbvmPVghWa1) | [SadLyfe Bryce](https://open.spotify.com/album/6INur2w2GHCwhZl3M3ASta) | 2:27 | 2021-04-21 | 2022-02-24 |
 | [Lone Survivor](https://open.spotify.com/track/2ve0LXxgDKe8TeF9QuQceJ) | [Steve Jablonsky](https://open.spotify.com/artist/5Il8YjuVAWkWNH2xgjFMpF) | [Lone Survivor \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4kJiWXbbhWw9hjqxlkAJKK) | 3:37 | 2019-09-29\* | 2021-03-14 |
+| [Lonely King](https://open.spotify.com/track/6xkkNUxwMGoGHUE9bewC4O) | [CG5](https://open.spotify.com/artist/3YJDqtTSjydvUpTvU1fJ6O) | [Lonely King](https://open.spotify.com/album/4yRPqkgGjI8792xSBU4PvM) | 3:16 | 2022-09-02 |  |
 | [Lost In Yesterday](https://open.spotify.com/track/5JWPUEov2wlX7c0jhYZpeB) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush](https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL) | 4:09 | 2021-04-21 | 2021-12-11 |
 | [Lost It All](https://open.spotify.com/track/2ByeohqpWsZdXQlZ1mOTtA) | [Fabvl](https://open.spotify.com/artist/48bqPGhLPTuS8gKg3UTtf9) | [Lost It All](https://open.spotify.com/album/70Qd3rxxqLRnEQQusrFuQC) | 4:02 | 2022-05-11 |  |
 | [Love Ain't Enough](https://open.spotify.com/track/2al1fEgjLT67Un7rKxfqcg) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Love Ain't Enough](https://open.spotify.com/album/4V28m9PfX2Owc47STGxcCu) | 2:55 | 2021-05-23 | 2021-12-11 |

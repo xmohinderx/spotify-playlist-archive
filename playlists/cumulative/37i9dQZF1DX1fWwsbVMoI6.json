@@ -648,6 +648,24 @@
     },
     {
       "album": {
+        "name": "Goza Tu Cumbia: Peruvian Cumbia",
+        "url": "https://open.spotify.com/album/6ShlZFDjnbxigu2oXHcUMi"
+      },
+      "artists": [
+        {
+          "name": "Orquesta Caribe\u00f1os de Guadalupe",
+          "url": "https://open.spotify.com/artist/3TMIaKD9aqaLVRTK5DYg0C"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261600,
+      "name": "El Solitario",
+      "url": "https://open.spotify.com/track/64GsayRbJ4tWm1m94DZSQh"
+    },
+    {
+      "album": {
         "name": "Solo \u00c9xitos",
         "url": "https://open.spotify.com/album/1qwS3Jan9c0D3y40PTlmMD"
       },
@@ -1283,7 +1301,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 248053,
       "name": "No Te Creas Tan Importante",
       "url": "https://open.spotify.com/track/7jlbNMjcYOF89FWhi5Jqzb"

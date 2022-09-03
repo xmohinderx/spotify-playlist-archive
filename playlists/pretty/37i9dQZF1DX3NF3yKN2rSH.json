@@ -1,12 +1,12 @@
 {
   "description": "New and classic Gospel songs to celebrate the Easter season.",
-  "num_followers": 53536,
+  "num_followers": 53540,
   "original_name": "Easter Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDE3NTg2NCwwMDAwMDAwMDkwZmYzZDcwODdmMDdlOTA2N2Q1OTcyZmZhYTk3MmRk",
+  "snapshot_id": "MTY1MDE3NTg2NCwwMDAwMDAwMDkzZTBlODBiNzVkYmJiZDc5NWI5ZjgwZGZlMjA5Njc1",
   "tracks": [
     {
       "added_at": "2022-04-17 06:11:04",
@@ -791,6 +791,22 @@
     {
       "added_at": "2022-04-17 06:11:04",
       "album": {
+        "name": "Free To Worship",
+        "url": "https://open.spotify.com/album/50pXzic1y0A1fLXp8ktvkr"
+      },
+      "artists": [
+        {
+          "name": "Fred Hammond",
+          "url": "https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484"
+        }
+      ],
+      "duration_ms": 289333,
+      "name": "This Is The Day",
+      "url": "https://open.spotify.com/track/0LniKzo1ZyVzqbBecrkmXe"
+    },
+    {
+      "added_at": "2022-04-17 06:11:04",
+      "album": {
         "name": "I've Got a Testimony",
         "url": "https://open.spotify.com/album/16lH0UDiWWT9aXaM7ZJKDJ"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 392639,
       "name": "The Blessing (feat. Maranda Curtis)",
       "url": "https://open.spotify.com/track/07hpnqy4P8emLuz4GuPPAL"
-    },
-    {
-      "added_at": "2022-04-17 06:11:04",
-      "album": {
-        "name": "Free To Worship",
-        "url": "https://open.spotify.com/album/50pXzic1y0A1fLXp8ktvkr"
-      },
-      "artists": [
-        {
-          "name": "Fred Hammond",
-          "url": "https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484"
-        }
-      ],
-      "duration_ms": 289333,
-      "name": "This Is The Day",
-      "url": "https://open.spotify.com/track/0LniKzo1ZyVzqbBecrkmXe"
     },
     {
       "added_at": "2022-04-17 06:11:04",
@@ -991,22 +991,6 @@
     {
       "added_at": "2022-04-17 06:11:04",
       "album": {
-        "name": "Classics Vol. 1",
-        "url": "https://open.spotify.com/album/6XLI4B9L9q2wL9oUKLqzrE"
-      },
-      "artists": [
-        {
-          "name": "Andrae Crouch",
-          "url": "https://open.spotify.com/artist/3pxLSxg8klHu1L9d93cpq7"
-        }
-      ],
-      "duration_ms": 303160,
-      "name": "Jesus Is the Answer",
-      "url": "https://open.spotify.com/track/6sXB1ObEFi5nCrncPp4uxO"
-    },
-    {
-      "added_at": "2022-04-17 06:11:04",
-      "album": {
         "name": "Live in London and More ..",
         "url": "https://open.spotify.com/album/6A55aHMWgoZgzjLfsTJU6v"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 318666,
       "name": "Just For Me",
       "url": "https://open.spotify.com/track/1vXiQHSqnhnPCZrSmvkPqG"
+    },
+    {
+      "added_at": "2022-04-17 06:11:04",
+      "album": {
+        "name": "Classics Vol. 1",
+        "url": "https://open.spotify.com/album/6XLI4B9L9q2wL9oUKLqzrE"
+      },
+      "artists": [
+        {
+          "name": "Andrae Crouch",
+          "url": "https://open.spotify.com/artist/3pxLSxg8klHu1L9d93cpq7"
+        }
+      ],
+      "duration_ms": 303160,
+      "name": "Jesus Is the Answer",
+      "url": "https://open.spotify.com/track/6sXB1ObEFi5nCrncPp4uxO"
     },
     {
       "added_at": "2022-04-17 06:11:04",
@@ -1079,6 +1079,26 @@
     {
       "added_at": "2022-04-17 06:11:04",
       "album": {
+        "name": "Evidence",
+        "url": "https://open.spotify.com/album/3X10R33baD5m8UJ0KeIfSo"
+      },
+      "artists": [
+        {
+          "name": "Elevation Collective",
+          "url": "https://open.spotify.com/artist/5FgYD1zmYTjBAGuVy0Hj3w"
+        },
+        {
+          "name": "The Walls Group",
+          "url": "https://open.spotify.com/artist/3UZQmKr3fkPDCdIRtdX1RV"
+        }
+      ],
+      "duration_ms": 130214,
+      "name": "Raised to Life (feat. The Walls Group)",
+      "url": "https://open.spotify.com/track/4boN2DqFBWlVTIQhBgNJBo"
+    },
+    {
+      "added_at": "2022-04-17 06:11:04",
+      "album": {
         "name": "Famous For (I Believe) [Sunday A.M. Version]",
         "url": "https://open.spotify.com/album/34OmquTJzMTUsnK1r0nom8"
       },
@@ -1119,26 +1139,6 @@
       "duration_ms": 467186,
       "name": "Finished Work - Live From Chattanooga, TN",
       "url": "https://open.spotify.com/track/3jvbdyrWcjXxAXGwbubycq"
-    },
-    {
-      "added_at": "2022-04-17 06:11:04",
-      "album": {
-        "name": "Evidence",
-        "url": "https://open.spotify.com/album/3X10R33baD5m8UJ0KeIfSo"
-      },
-      "artists": [
-        {
-          "name": "Elevation Collective",
-          "url": "https://open.spotify.com/artist/5FgYD1zmYTjBAGuVy0Hj3w"
-        },
-        {
-          "name": "The Walls Group",
-          "url": "https://open.spotify.com/artist/3UZQmKr3fkPDCdIRtdX1RV"
-        }
-      ],
-      "duration_ms": 130214,
-      "name": "Raised to Life (feat. The Walls Group)",
-      "url": "https://open.spotify.com/track/4boN2DqFBWlVTIQhBgNJBo"
     },
     {
       "added_at": "2022-04-17 06:11:04",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2022-04-17 06:11:04",
       "album": {
-        "name": "Psalms, Hymns & Spiritual Songs",
-        "url": "https://open.spotify.com/album/20Ahz7xI2IFw7bdl0FE6On"
-      },
-      "artists": [
-        {
-          "name": "Donnie McClurkin",
-          "url": "https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra"
-        }
-      ],
-      "duration_ms": 341120,
-      "name": "Blood Medley (Part 3) - I Know It Was The Blood",
-      "url": "https://open.spotify.com/track/6qCSt56HhlnfPfIHIDYEOR"
-    },
-    {
-      "added_at": "2022-04-17 06:11:04",
-      "album": {
         "name": "Blessed By Association",
         "url": "https://open.spotify.com/album/7Mlu5erqJLuAR4zWPIEIDx"
       },
@@ -1295,18 +1279,18 @@
     {
       "added_at": "2022-04-17 06:11:04",
       "album": {
-        "name": "Mnini Mandla Onke",
-        "url": "https://open.spotify.com/album/2xiGM8C7m3AAqUTfyBIT5Z"
+        "name": "Psalms, Hymns & Spiritual Songs",
+        "url": "https://open.spotify.com/album/20Ahz7xI2IFw7bdl0FE6On"
       },
       "artists": [
         {
-          "name": "Joyous Celebration",
-          "url": "https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W"
+          "name": "Donnie McClurkin",
+          "url": "https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra"
         }
       ],
-      "duration_ms": 303050,
-      "name": "Mnini Mandla Onke",
-      "url": "https://open.spotify.com/track/3iUoxbl0P0vhtzQwvYzpVb"
+      "duration_ms": 341120,
+      "name": "Blood Medley (Part 3) - I Know It Was The Blood",
+      "url": "https://open.spotify.com/track/6qCSt56HhlnfPfIHIDYEOR"
     },
     {
       "added_at": "2022-04-17 06:11:04",
@@ -1323,6 +1307,22 @@
       "duration_ms": 250160,
       "name": "I Need You Now",
       "url": "https://open.spotify.com/track/128ypdDlPrG9lpwGQzMiBQ"
+    },
+    {
+      "added_at": "2022-04-17 06:11:04",
+      "album": {
+        "name": "Mnini Mandla Onke",
+        "url": "https://open.spotify.com/album/2xiGM8C7m3AAqUTfyBIT5Z"
+      },
+      "artists": [
+        {
+          "name": "Joyous Celebration",
+          "url": "https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W"
+        }
+      ],
+      "duration_ms": 303050,
+      "name": "Mnini Mandla Onke",
+      "url": "https://open.spotify.com/track/3iUoxbl0P0vhtzQwvYzpVb"
     },
     {
       "added_at": "2022-04-17 06:11:04",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2022-04-17 06:11:04",
       "album": {
-        "name": "Then Sings My Soul",
-        "url": "https://open.spotify.com/album/6iisYpnZhqiG0YV27QjJo9"
-      },
-      "artists": [
-        {
-          "name": "Mississippi Mass Choir",
-          "url": "https://open.spotify.com/artist/30aMh21vdYVIjdVgIgHaqW"
-        }
-      ],
-      "duration_ms": 337440,
-      "name": "He Didn't Have To Do It",
-      "url": "https://open.spotify.com/track/78qrs0P8o0u1MketFZ6YsV"
-    },
-    {
-      "added_at": "2022-04-17 06:11:04",
-      "album": {
         "name": "Classic Gold: We're Waiting",
         "url": "https://open.spotify.com/album/2UqMA74qWsJARd4OKMEgCt"
       },
@@ -1451,6 +1435,22 @@
     {
       "added_at": "2022-04-17 06:11:04",
       "album": {
+        "name": "Then Sings My Soul",
+        "url": "https://open.spotify.com/album/6iisYpnZhqiG0YV27QjJo9"
+      },
+      "artists": [
+        {
+          "name": "Mississippi Mass Choir",
+          "url": "https://open.spotify.com/artist/30aMh21vdYVIjdVgIgHaqW"
+        }
+      ],
+      "duration_ms": 337440,
+      "name": "He Didn't Have To Do It",
+      "url": "https://open.spotify.com/track/78qrs0P8o0u1MketFZ6YsV"
+    },
+    {
+      "added_at": "2022-04-17 06:11:04",
+      "album": {
         "name": "The Essential Fred Hammond",
         "url": "https://open.spotify.com/album/4tjopW7OcRx04doP9Pgke7"
       },
@@ -1463,22 +1463,6 @@
       "duration_ms": 244653,
       "name": "Celebrate (He Lives)",
       "url": "https://open.spotify.com/track/1HK61zJJWpppOHE7jZQwYm"
-    },
-    {
-      "added_at": "2022-04-17 06:11:04",
-      "album": {
-        "name": "Let My People Go",
-        "url": "https://open.spotify.com/album/1atLcMxQ38OHicDxpEYR2t"
-      },
-      "artists": [
-        {
-          "name": "The Winans",
-          "url": "https://open.spotify.com/artist/7EQrc1Kz56jCHgJ895CZJ8"
-        }
-      ],
-      "duration_ms": 297040,
-      "name": "Redeemed",
-      "url": "https://open.spotify.com/track/49cFSBvl7J2okNWwK2uqxb"
     },
     {
       "added_at": "2022-04-17 06:11:04",
@@ -1503,6 +1487,22 @@
       "duration_ms": 302120,
       "name": "I Know It Was the Blood",
       "url": "https://open.spotify.com/track/6Id2UIwITk6iJS9pqP4Dxa"
+    },
+    {
+      "added_at": "2022-04-17 06:11:04",
+      "album": {
+        "name": "Let My People Go",
+        "url": "https://open.spotify.com/album/1atLcMxQ38OHicDxpEYR2t"
+      },
+      "artists": [
+        {
+          "name": "The Winans",
+          "url": "https://open.spotify.com/artist/7EQrc1Kz56jCHgJ895CZJ8"
+        }
+      ],
+      "duration_ms": 297040,
+      "name": "Redeemed",
+      "url": "https://open.spotify.com/track/49cFSBvl7J2okNWwK2uqxb"
     },
     {
       "added_at": "2022-04-17 06:11:04",
@@ -1631,6 +1631,22 @@
     {
       "added_at": "2022-04-17 06:11:04",
       "album": {
+        "name": "Live In Detroit (Live)",
+        "url": "https://open.spotify.com/album/0uKzIXtrSUvzRCFHSOv1vv"
+      },
+      "artists": [
+        {
+          "name": "Rev. James Moore",
+          "url": "https://open.spotify.com/artist/2r7fA3DrMO5JXl3uoOLkaN"
+        }
+      ],
+      "duration_ms": 496133,
+      "name": "The Old Rugged Cross",
+      "url": "https://open.spotify.com/track/5aDPMyBFhThZrjRJXrrGy7"
+    },
+    {
+      "added_at": "2022-04-17 06:11:04",
+      "album": {
         "name": "Classic Gold: Live In London: Andrae Crouch & The Disciples",
         "url": "https://open.spotify.com/album/47TmueNAVNBE7MLC56wGzt"
       },
@@ -1647,22 +1663,6 @@
       "duration_ms": 286946,
       "name": "Power In the Blood v1.1",
       "url": "https://open.spotify.com/track/5FPZdulid3ZgnAZq2sRlb3"
-    },
-    {
-      "added_at": "2022-04-17 06:11:04",
-      "album": {
-        "name": "Live In Detroit (Live)",
-        "url": "https://open.spotify.com/album/0uKzIXtrSUvzRCFHSOv1vv"
-      },
-      "artists": [
-        {
-          "name": "Rev. James Moore",
-          "url": "https://open.spotify.com/artist/2r7fA3DrMO5JXl3uoOLkaN"
-        }
-      ],
-      "duration_ms": 496133,
-      "name": "The Old Rugged Cross",
-      "url": "https://open.spotify.com/track/5aDPMyBFhThZrjRJXrrGy7"
     },
     {
       "added_at": "2022-04-17 06:11:04",
@@ -1787,6 +1787,22 @@
     {
       "added_at": "2022-04-17 06:11:04",
       "album": {
+        "name": "Live In Detroit (Live)",
+        "url": "https://open.spotify.com/album/0uKzIXtrSUvzRCFHSOv1vv"
+      },
+      "artists": [
+        {
+          "name": "Rev. James Moore",
+          "url": "https://open.spotify.com/artist/2r7fA3DrMO5JXl3uoOLkaN"
+        }
+      ],
+      "duration_ms": 450840,
+      "name": "Cherish The Cross",
+      "url": "https://open.spotify.com/track/7BranHqbktqdiojkd0r07A"
+    },
+    {
+      "added_at": "2022-04-17 06:11:04",
+      "album": {
         "name": "Another Chapter, Psalms 51",
         "url": "https://open.spotify.com/album/6GjsgwwG6Bp1t6rTXwQ6x5"
       },
@@ -1815,22 +1831,6 @@
       "duration_ms": 325666,
       "name": "He Proved His Love",
       "url": "https://open.spotify.com/track/4OMAO6F57zBkgyakZjscTl"
-    },
-    {
-      "added_at": "2022-04-17 06:11:04",
-      "album": {
-        "name": "Live In Detroit (Live)",
-        "url": "https://open.spotify.com/album/0uKzIXtrSUvzRCFHSOv1vv"
-      },
-      "artists": [
-        {
-          "name": "Rev. James Moore",
-          "url": "https://open.spotify.com/artist/2r7fA3DrMO5JXl3uoOLkaN"
-        }
-      ],
-      "duration_ms": 450840,
-      "name": "Cherish The Cross",
-      "url": "https://open.spotify.com/track/7BranHqbktqdiojkd0r07A"
     }
   ],
   "unique_name": "Easter Gospel",

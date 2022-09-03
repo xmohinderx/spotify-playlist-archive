@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3izH056ADq.md) - [plain]
 
 > Enjoy music From "ParadoxLive"! HIPHOPメディアミックスプロジェクト「ParadoxLive（パラライ）」の楽曲&ドラマトラックを1つのプレイリストで。 ©Paradox Live2021
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,873 likes - 104 songs - 15 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,874 likes - 104 songs - 15 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,7 +110,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3izH056ADq.md) - [plain]
 | 100 | [Voice Drama "FATE" \- Part4](https://open.spotify.com/track/4kmr23H13XEzuA1W4DssWT) | [The Cat's Whiskers](https://open.spotify.com/artist/2E4FGvqaZ65gGPYyFg5aUS), [1Nm8](https://open.spotify.com/artist/5Jo3dt6niM5mWM4udNPafs) | [Paradox Live \-Road to Legend\- Round1 “FATE"](https://open.spotify.com/album/3InCCQOBaZ2Xe70LeaLyOf) | 17:14 |
 | 101 | [Voice Drama "RAGE" \- Part1](https://open.spotify.com/track/42Fz8fsVLQQZNc8PvUdMPp) | [cozmez](https://open.spotify.com/artist/0HLLtp14pveBWVAnD7UVPn), [VISTY](https://open.spotify.com/artist/1owUp8KymexV2zFYxUZ2oF) | [Paradox Live \-Road to Legend\- Round1 “RAGE"](https://open.spotify.com/album/1Wgf5u72mNvYRsPuYacFBp) | 15:45 |
 | 102 | [Voice Drama "RAGE" \- Part2](https://open.spotify.com/track/05nT2kfeO92jLVBwPgstb0) | [cozmez](https://open.spotify.com/artist/0HLLtp14pveBWVAnD7UVPn), [VISTY](https://open.spotify.com/artist/1owUp8KymexV2zFYxUZ2oF) | [Paradox Live \-Road to Legend\- Round1 “RAGE"](https://open.spotify.com/album/1Wgf5u72mNvYRsPuYacFBp) | 18:39 |
-| 103 | [Voice Drama "RAGE" \- Part3](https://open.spotify.com/track/74pSRelGCXekyEbUPFfvAF) | [The Cat's Whiskers](https://open.spotify.com/artist/2E4FGvqaZ65gGPYyFg5aUS), [1Nm8](https://open.spotify.com/artist/5Jo3dt6niM5mWM4udNPafs) | [Paradox Live \-Road to Legend\- Round1 “RAGE"](https://open.spotify.com/album/1Wgf5u72mNvYRsPuYacFBp) | 20:49 |
-| 104 | [Voice Drama "RAGE" \- Part4](https://open.spotify.com/track/4tWjRebdIp42mtpp4tiCVt) | [The Cat's Whiskers](https://open.spotify.com/artist/2E4FGvqaZ65gGPYyFg5aUS), [1Nm8](https://open.spotify.com/artist/5Jo3dt6niM5mWM4udNPafs) | [Paradox Live \-Road to Legend\- Round1 “RAGE"](https://open.spotify.com/album/1Wgf5u72mNvYRsPuYacFBp) | 16:50 |
+| 103 | [Voice Drama "RAGE" \- Part3](https://open.spotify.com/track/74pSRelGCXekyEbUPFfvAF) | [悪漢奴等](https://open.spotify.com/artist/72Ozt64MM4zCH8IFFoFsyC), [獄Luck](https://open.spotify.com/artist/4R8xW1XYMELnIUPXjKsJwA) | [Paradox Live \-Road to Legend\- Round1 “RAGE"](https://open.spotify.com/album/1Wgf5u72mNvYRsPuYacFBp) | 20:49 |
+| 104 | [Voice Drama "RAGE" \- Part4](https://open.spotify.com/track/4tWjRebdIp42mtpp4tiCVt) | [悪漢奴等](https://open.spotify.com/artist/72Ozt64MM4zCH8IFFoFsyC), [獄Luck](https://open.spotify.com/artist/4R8xW1XYMELnIUPXjKsJwA) | [Paradox Live \-Road to Legend\- Round1 “RAGE"](https://open.spotify.com/album/1Wgf5u72mNvYRsPuYacFBp) | 16:50 |
 
 Snapshot ID: `MTY2MTg3NTU2NCwwMDAwMDAwMDQyNGQ0ZTU0NDE5MWEzZTI1MThmYmQxYzNiODc4MzRm`

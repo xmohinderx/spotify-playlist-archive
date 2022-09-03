@@ -1,12 +1,12 @@
 {
   "description": "Set the perfect brunch mood with instrumental and vocal jazz.",
-  "num_followers": 8331,
+  "num_followers": 8352,
   "original_name": "Brunch Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTk1NDE3NiwwMDAwMDAwMDRhMmUxY2FiNDY5NjMxOWY1ZWYwY2JmZGZiNWVhN2Ri",
+  "snapshot_id": "MTY2MTk1NDE3NiwwMDAwMDAwMGZlNWMwY2EzYjY4YTQwZjE1MWIwMjAyZTc0Y2RjODk3",
   "tracks": [
     {
       "added_at": "2022-08-31 13:56:16",
@@ -127,22 +127,6 @@
     {
       "added_at": "2022-08-31 13:56:16",
       "album": {
-        "name": "In Person",
-        "url": "https://open.spotify.com/album/3aq7Ksf1WJgawkDn362L07"
-      },
-      "artists": [
-        {
-          "name": "Vince Guaraldi",
-          "url": "https://open.spotify.com/artist/7gXUrN8vgmVhKVCkw9pavV"
-        }
-      ],
-      "duration_ms": 353600,
-      "name": "On Green Dolphin Street",
-      "url": "https://open.spotify.com/track/7LjmOCCTbi0sIofmYzo9vK"
-    },
-    {
-      "added_at": "2022-08-31 13:56:16",
-      "album": {
         "name": "New York Jazz",
         "url": "https://open.spotify.com/album/5iQMDqjUmF9ZY1sLsK5Vmm"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 291840,
       "name": "Alone Together",
       "url": "https://open.spotify.com/track/7lApnj6eswDJvT8mqGrut6"
+    },
+    {
+      "added_at": "2022-08-31 13:56:16",
+      "album": {
+        "name": "In Person",
+        "url": "https://open.spotify.com/album/3aq7Ksf1WJgawkDn362L07"
+      },
+      "artists": [
+        {
+          "name": "Vince Guaraldi",
+          "url": "https://open.spotify.com/artist/7gXUrN8vgmVhKVCkw9pavV"
+        }
+      ],
+      "duration_ms": 353600,
+      "name": "On Green Dolphin Street",
+      "url": "https://open.spotify.com/track/7LjmOCCTbi0sIofmYzo9vK"
     },
     {
       "added_at": "2022-08-31 13:56:16",
@@ -187,6 +187,22 @@
       "duration_ms": 245906,
       "name": "I Cover The Waterfront",
       "url": "https://open.spotify.com/track/1YNHdhvXBogdk54KI1yd2P"
+    },
+    {
+      "added_at": "2022-08-31 13:56:16",
+      "album": {
+        "name": "Paul Chambers Quintet (Remastered)",
+        "url": "https://open.spotify.com/album/3YjDsVQMm9N0u2A0uUCiyb"
+      },
+      "artists": [
+        {
+          "name": "Paul Chambers Quintet",
+          "url": "https://open.spotify.com/artist/42ckVhl96fQSAXsR2Gm1My"
+        }
+      ],
+      "duration_ms": 190120,
+      "name": "Softly As In A Morning Sunrise - Rudy Van Gelder Edition, 2008 Digital Remaster",
+      "url": "https://open.spotify.com/track/6I0I8uMyDHtA1nfyP8c5WE"
     },
     {
       "added_at": "2022-08-31 13:56:16",
@@ -243,22 +259,6 @@
     {
       "added_at": "2022-08-31 13:56:16",
       "album": {
-        "name": "Paul Chambers Quintet (Remastered)",
-        "url": "https://open.spotify.com/album/3YjDsVQMm9N0u2A0uUCiyb"
-      },
-      "artists": [
-        {
-          "name": "Paul Chambers Quintet",
-          "url": "https://open.spotify.com/artist/42ckVhl96fQSAXsR2Gm1My"
-        }
-      ],
-      "duration_ms": 190120,
-      "name": "Softly As In A Morning Sunrise - Rudy Van Gelder Edition, 2008 Digital Remaster",
-      "url": "https://open.spotify.com/track/6I0I8uMyDHtA1nfyP8c5WE"
-    },
-    {
-      "added_at": "2022-08-31 13:56:16",
-      "album": {
         "name": "The Hawk Relaxes",
         "url": "https://open.spotify.com/album/3fRgp7LyVaJow0lcZ9dZyH"
       },
@@ -307,18 +307,18 @@
     {
       "added_at": "2022-08-31 13:56:16",
       "album": {
-        "name": "Loads Of Love",
-        "url": "https://open.spotify.com/album/4Wb8zemQ91ofj5B74Y82IY"
+        "name": "Everybody Digs Bill Evans",
+        "url": "https://open.spotify.com/album/2zSAVheEFBPMuUozd6C9gt"
       },
       "artists": [
         {
-          "name": "Shirley Horn",
-          "url": "https://open.spotify.com/artist/0x9L9ChXVAf3hFOb0CbRmd"
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
         }
       ],
-      "duration_ms": 231826,
-      "name": "Love For Sale",
-      "url": "https://open.spotify.com/track/3dxAt1su013e3GZyBUL9bP"
+      "duration_ms": 214440,
+      "name": "Tenderly",
+      "url": "https://open.spotify.com/track/4Y9WU4Za9QVX7IIk7bjJCS"
     },
     {
       "added_at": "2022-08-31 13:56:16",
@@ -339,18 +339,18 @@
     {
       "added_at": "2022-08-31 13:56:16",
       "album": {
-        "name": "Everybody Digs Bill Evans",
-        "url": "https://open.spotify.com/album/2zSAVheEFBPMuUozd6C9gt"
+        "name": "Loads Of Love",
+        "url": "https://open.spotify.com/album/4Wb8zemQ91ofj5B74Y82IY"
       },
       "artists": [
         {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+          "name": "Shirley Horn",
+          "url": "https://open.spotify.com/artist/0x9L9ChXVAf3hFOb0CbRmd"
         }
       ],
-      "duration_ms": 214440,
-      "name": "Tenderly",
-      "url": "https://open.spotify.com/track/4Y9WU4Za9QVX7IIk7bjJCS"
+      "duration_ms": 231826,
+      "name": "Love For Sale",
+      "url": "https://open.spotify.com/track/3dxAt1su013e3GZyBUL9bP"
     },
     {
       "added_at": "2022-08-31 13:56:16",
@@ -371,22 +371,6 @@
     {
       "added_at": "2022-08-31 13:56:16",
       "album": {
-        "name": "The Steamer (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2k1gozS6ZPvo38ZucooatA"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz Quartet",
-          "url": "https://open.spotify.com/artist/1LGtimLfGcQLKYJD1a1j1r"
-        }
-      ],
-      "duration_ms": 390666,
-      "name": "Like Someone In Love",
-      "url": "https://open.spotify.com/track/6kabc7w6PokXfLdhQyqG58"
-    },
-    {
-      "added_at": "2022-08-31 13:56:16",
-      "album": {
         "name": "Nights Of Ballads & Blues",
         "url": "https://open.spotify.com/album/0GEUbCMMKRDFr7j0xxHZba"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 201173,
       "name": "Days Of Wine And Roses",
       "url": "https://open.spotify.com/track/2mO0AFhyUJmNh7RlTDuxL9"
+    },
+    {
+      "added_at": "2022-08-31 13:56:16",
+      "album": {
+        "name": "The Steamer (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2k1gozS6ZPvo38ZucooatA"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz Quartet",
+          "url": "https://open.spotify.com/artist/1LGtimLfGcQLKYJD1a1j1r"
+        }
+      ],
+      "duration_ms": 390666,
+      "name": "Like Someone In Love",
+      "url": "https://open.spotify.com/track/6kabc7w6PokXfLdhQyqG58"
     },
     {
       "added_at": "2022-08-31 13:56:16",
@@ -483,22 +483,6 @@
     {
       "added_at": "2022-08-31 13:56:16",
       "album": {
-        "name": "Two Of A Mind",
-        "url": "https://open.spotify.com/album/0LAzSbiU7gVXh7uyvmXhTn"
-      },
-      "artists": [
-        {
-          "name": "Paul Desmond",
-          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
-        }
-      ],
-      "duration_ms": 351280,
-      "name": "All the Things You Are",
-      "url": "https://open.spotify.com/track/5pFtpo6JemD4c08m8uEwk2"
-    },
-    {
-      "added_at": "2022-08-31 13:56:16",
-      "album": {
         "name": "Red Garland's Piano",
         "url": "https://open.spotify.com/album/1Lrt5saApIz6z8dGmyKB7d"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 352146,
       "name": "But Not For Me",
       "url": "https://open.spotify.com/track/6s5Ush55ZistjzNAbbIpoL"
+    },
+    {
+      "added_at": "2022-08-31 13:56:16",
+      "album": {
+        "name": "Two Of A Mind",
+        "url": "https://open.spotify.com/album/0LAzSbiU7gVXh7uyvmXhTn"
+      },
+      "artists": [
+        {
+          "name": "Paul Desmond",
+          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
+        }
+      ],
+      "duration_ms": 351280,
+      "name": "All the Things You Are",
+      "url": "https://open.spotify.com/track/5pFtpo6JemD4c08m8uEwk2"
     },
     {
       "added_at": "2022-08-31 13:56:16",
@@ -571,22 +571,6 @@
     {
       "added_at": "2022-08-31 13:56:16",
       "album": {
-        "name": "Brass/Trio",
-        "url": "https://open.spotify.com/album/51xQakHIfX5FVfXTLRcUon"
-      },
-      "artists": [
-        {
-          "name": "Sonny Rollins",
-          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
-        }
-      ],
-      "duration_ms": 270200,
-      "name": "Manhattan",
-      "url": "https://open.spotify.com/track/6BmigYi3LRJ77xibqSX6OV"
-    },
-    {
-      "added_at": "2022-08-31 13:56:16",
-      "album": {
         "name": "Night Train (Expanded Edition)",
         "url": "https://open.spotify.com/album/3gPOWmWT0q7Ygp95Xiuw1v"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 172800,
       "name": "Moten Swing",
       "url": "https://open.spotify.com/track/1haPzI492gIfPLv27qKUHA"
+    },
+    {
+      "added_at": "2022-08-31 13:56:16",
+      "album": {
+        "name": "Brass/Trio",
+        "url": "https://open.spotify.com/album/51xQakHIfX5FVfXTLRcUon"
+      },
+      "artists": [
+        {
+          "name": "Sonny Rollins",
+          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
+        }
+      ],
+      "duration_ms": 270200,
+      "name": "Manhattan",
+      "url": "https://open.spotify.com/track/6BmigYi3LRJ77xibqSX6OV"
     },
     {
       "added_at": "2022-08-31 13:56:16",
@@ -699,22 +699,6 @@
     {
       "added_at": "2022-08-31 13:56:16",
       "album": {
-        "name": "Songs: The Art of the Trio, Vol. 3",
-        "url": "https://open.spotify.com/album/4XrD4Ta5YWbmJ1O1I4qnS9"
-      },
-      "artists": [
-        {
-          "name": "Brad Mehldau",
-          "url": "https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq"
-        }
-      ],
-      "duration_ms": 482440,
-      "name": "For All We Know",
-      "url": "https://open.spotify.com/track/6Inq57v3xTl6U361EgpXJZ"
-    },
-    {
-      "added_at": "2022-08-31 13:56:16",
-      "album": {
         "name": "Swingin' Easy",
         "url": "https://open.spotify.com/album/3uja6kKhz0bUcAZ7lTHvju"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 198360,
       "name": "All Of Me",
       "url": "https://open.spotify.com/track/0f2HoOAhmbJdO26eZGLqIV"
+    },
+    {
+      "added_at": "2022-08-31 13:56:16",
+      "album": {
+        "name": "Songs: The Art of the Trio, Vol. 3",
+        "url": "https://open.spotify.com/album/4XrD4Ta5YWbmJ1O1I4qnS9"
+      },
+      "artists": [
+        {
+          "name": "Brad Mehldau",
+          "url": "https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq"
+        }
+      ],
+      "duration_ms": 482440,
+      "name": "For All We Know",
+      "url": "https://open.spotify.com/track/6Inq57v3xTl6U361EgpXJZ"
     },
     {
       "added_at": "2022-08-31 13:56:16",
@@ -823,22 +823,6 @@
     {
       "added_at": "2022-08-31 13:56:16",
       "album": {
-        "name": "Ahmad Jamal At The Pershing: But Not For Me",
-        "url": "https://open.spotify.com/album/3nUwuIFxJid3GQo8c4F6HY"
-      },
-      "artists": [
-        {
-          "name": "Ahmad Jamal Trio",
-          "url": "https://open.spotify.com/artist/0BqALs1lInR9TTOulUADH7"
-        }
-      ],
-      "duration_ms": 190066,
-      "name": "Moonlight In Vermont - Live At The Pershing, Chicago, 1958",
-      "url": "https://open.spotify.com/track/68oYY9hUduyqbKZpOUi4Iq"
-    },
-    {
-      "added_at": "2022-08-31 13:56:16",
-      "album": {
         "name": "Ella Fitzgerald Sings The Duke Ellington Song Book",
         "url": "https://open.spotify.com/album/2VgS17fUEsUer5nCbM2juj"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 435440,
       "name": "Night Dreamer - Remastered 2004",
       "url": "https://open.spotify.com/track/2HbpOucCYcPyVEBpjTiJK8"
+    },
+    {
+      "added_at": "2022-08-31 13:56:16",
+      "album": {
+        "name": "Ahmad Jamal At The Pershing: But Not For Me",
+        "url": "https://open.spotify.com/album/3nUwuIFxJid3GQo8c4F6HY"
+      },
+      "artists": [
+        {
+          "name": "Ahmad Jamal Trio",
+          "url": "https://open.spotify.com/artist/0BqALs1lInR9TTOulUADH7"
+        }
+      ],
+      "duration_ms": 190066,
+      "name": "Moonlight In Vermont - Live At The Pershing, Chicago, 1958",
+      "url": "https://open.spotify.com/track/68oYY9hUduyqbKZpOUi4Iq"
     },
     {
       "added_at": "2022-08-31 13:56:16",
@@ -951,6 +951,30 @@
     {
       "added_at": "2022-08-31 13:56:16",
       "album": {
+        "name": "Legacy Of A Legend",
+        "url": "https://open.spotify.com/album/0F2bmdj2Dm8zDnBRjmFpTN"
+      },
+      "artists": [
+        {
+          "name": "Dave Brubeck",
+          "url": "https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E"
+        },
+        {
+          "name": "Paul Desmond",
+          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
+        },
+        {
+          "name": "The Dave Brubeck Quartet",
+          "url": "https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7"
+        }
+      ],
+      "duration_ms": 301080,
+      "name": "Ode To A Cowboy",
+      "url": "https://open.spotify.com/track/6Oci0KLr1huChKVkO5MUVP"
+    },
+    {
+      "added_at": "2022-08-31 13:56:16",
+      "album": {
         "name": "Sunday At The Village Vanguard [Keepnews Collection]",
         "url": "https://open.spotify.com/album/3uwufR7PwniMX7t3v4I5oB"
       },
@@ -979,30 +1003,6 @@
       "duration_ms": 208906,
       "name": "Wrapped Tight",
       "url": "https://open.spotify.com/track/7a1kkDDdNdTDSUM7Y96CLM"
-    },
-    {
-      "added_at": "2022-08-31 13:56:16",
-      "album": {
-        "name": "Legacy Of A Legend",
-        "url": "https://open.spotify.com/album/0F2bmdj2Dm8zDnBRjmFpTN"
-      },
-      "artists": [
-        {
-          "name": "Dave Brubeck",
-          "url": "https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E"
-        },
-        {
-          "name": "Paul Desmond",
-          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
-        },
-        {
-          "name": "The Dave Brubeck Quartet",
-          "url": "https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7"
-        }
-      ],
-      "duration_ms": 301080,
-      "name": "Ode To A Cowboy",
-      "url": "https://open.spotify.com/track/6Oci0KLr1huChKVkO5MUVP"
     },
     {
       "added_at": "2022-08-31 13:56:16",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2022-08-31 13:56:16",
       "album": {
-        "name": "Trio 64",
-        "url": "https://open.spotify.com/album/4rLPJEiZuhRRswnBGBgVvv"
-      },
-      "artists": [
-        {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
-        }
-      ],
-      "duration_ms": 275133,
-      "name": "Dancing In The Dark",
-      "url": "https://open.spotify.com/track/3QnB59VTOkWNGBk8qptee6"
-    },
-    {
-      "added_at": "2022-08-31 13:56:16",
-      "album": {
         "name": "Dear John C.",
         "url": "https://open.spotify.com/album/1RaM2rT7g77qN4s0T5OOv1"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 221933,
       "name": "Smoke Rings",
       "url": "https://open.spotify.com/track/6dAM2fTUmBreL0biKXbBPY"
+    },
+    {
+      "added_at": "2022-08-31 13:56:16",
+      "album": {
+        "name": "Trio 64",
+        "url": "https://open.spotify.com/album/4rLPJEiZuhRRswnBGBgVvv"
+      },
+      "artists": [
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+        }
+      ],
+      "duration_ms": 275133,
+      "name": "Dancing In The Dark",
+      "url": "https://open.spotify.com/track/3QnB59VTOkWNGBk8qptee6"
     },
     {
       "added_at": "2022-08-31 13:56:16",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2022-08-31 13:56:16",
       "album": {
-        "name": "Bass On Top (2007 Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/4wKkVSHqJDGjSAOfULYoZf"
-      },
-      "artists": [
-        {
-          "name": "Paul Chambers",
-          "url": "https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG"
-        }
-      ],
-      "duration_ms": 404826,
-      "name": "Dear Old Stockholm - Rudy Van Gelder Edition; 2007 Digital Remaster",
-      "url": "https://open.spotify.com/track/4C64gYHQq6JKrKmw70QkLq"
-    },
-    {
-      "added_at": "2022-08-31 13:56:16",
-      "album": {
         "name": "Red's Blues",
         "url": "https://open.spotify.com/album/560iFUlNMIk2FHleBEkbNS"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 484333,
       "name": "Like Someone In Love - Rudy Van Gelder Edition, 2004 Remaster",
       "url": "https://open.spotify.com/track/5oEUptjKIrQ4eVMdwTiYcM"
+    },
+    {
+      "added_at": "2022-08-31 13:56:16",
+      "album": {
+        "name": "Bass On Top (2007 Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/4wKkVSHqJDGjSAOfULYoZf"
+      },
+      "artists": [
+        {
+          "name": "Paul Chambers",
+          "url": "https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG"
+        }
+      ],
+      "duration_ms": 404826,
+      "name": "Dear Old Stockholm - Rudy Van Gelder Edition; 2007 Digital Remaster",
+      "url": "https://open.spotify.com/track/4C64gYHQq6JKrKmw70QkLq"
     },
     {
       "added_at": "2022-08-31 13:56:16",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2022-08-31 13:56:16",
       "album": {
+        "name": "Down With It",
+        "url": "https://open.spotify.com/album/4CFxKByN51JAogIYt94jMF"
+      },
+      "artists": [
+        {
+          "name": "Blue Mitchell",
+          "url": "https://open.spotify.com/artist/420BtT2Zyze7Eb9zqHcliW"
+        }
+      ],
+      "duration_ms": 376333,
+      "name": "March On Selma - Remastered",
+      "url": "https://open.spotify.com/track/2J8zEC95MQuuQSSzdVXJg5"
+    },
+    {
+      "added_at": "2022-08-31 13:56:16",
+      "album": {
         "name": "Night Dreamer",
         "url": "https://open.spotify.com/album/2lcz9fPwBhtESyIFVGKvq6"
       },
@@ -1247,22 +1263,6 @@
       "duration_ms": 414466,
       "name": "Charcoal Blues - Remastered 2004",
       "url": "https://open.spotify.com/track/6S5vGVyWqxCXkBwrF32wHJ"
-    },
-    {
-      "added_at": "2022-08-31 13:56:16",
-      "album": {
-        "name": "Down With It",
-        "url": "https://open.spotify.com/album/4CFxKByN51JAogIYt94jMF"
-      },
-      "artists": [
-        {
-          "name": "Blue Mitchell",
-          "url": "https://open.spotify.com/artist/420BtT2Zyze7Eb9zqHcliW"
-        }
-      ],
-      "duration_ms": 376333,
-      "name": "March On Selma - Remastered",
-      "url": "https://open.spotify.com/track/2J8zEC95MQuuQSSzdVXJg5"
     },
     {
       "added_at": "2022-08-31 13:56:16",
@@ -1319,22 +1319,18 @@
     {
       "added_at": "2022-08-31 13:56:16",
       "album": {
-        "name": "Study In Brown",
-        "url": "https://open.spotify.com/album/3158RZskTkHMhPvQICUeQ1"
+        "name": "Ballads",
+        "url": "https://open.spotify.com/album/4SaSGPT2uxIgJcMSCNvO1x"
       },
       "artists": [
         {
-          "name": "Clifford Brown",
-          "url": "https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO"
-        },
-        {
-          "name": "Max Roach Quintet",
-          "url": "https://open.spotify.com/artist/6ynifrh6ZrWXHAywnUlNV3"
+          "name": "Freddie Hubbard",
+          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
         }
       ],
-      "duration_ms": 311000,
-      "name": "Jacqui",
-      "url": "https://open.spotify.com/track/1uwY1ZqURcKJ9Fd7foMxPb"
+      "duration_ms": 389733,
+      "name": "Body And Soul",
+      "url": "https://open.spotify.com/track/06xd6gNwwXK51BD4RJ0Khd"
     },
     {
       "added_at": "2022-08-31 13:56:16",
@@ -1359,18 +1355,38 @@
     {
       "added_at": "2022-08-31 13:56:16",
       "album": {
-        "name": "Ballads",
-        "url": "https://open.spotify.com/album/4SaSGPT2uxIgJcMSCNvO1x"
+        "name": "Study In Brown",
+        "url": "https://open.spotify.com/album/3158RZskTkHMhPvQICUeQ1"
       },
       "artists": [
         {
-          "name": "Freddie Hubbard",
-          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
+          "name": "Clifford Brown",
+          "url": "https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO"
+        },
+        {
+          "name": "Max Roach Quintet",
+          "url": "https://open.spotify.com/artist/6ynifrh6ZrWXHAywnUlNV3"
         }
       ],
-      "duration_ms": 389733,
-      "name": "Body And Soul",
-      "url": "https://open.spotify.com/track/06xd6gNwwXK51BD4RJ0Khd"
+      "duration_ms": 311000,
+      "name": "Jacqui",
+      "url": "https://open.spotify.com/track/1uwY1ZqURcKJ9Fd7foMxPb"
+    },
+    {
+      "added_at": "2022-08-31 13:56:16",
+      "album": {
+        "name": "JuJu",
+        "url": "https://open.spotify.com/album/46VoobaZCtFPReElOHFEqq"
+      },
+      "artists": [
+        {
+          "name": "Wayne Shorter",
+          "url": "https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO"
+        }
+      ],
+      "duration_ms": 331306,
+      "name": "Twelve More Bars To Go - Rudy Van Gelder 24 Bit Mastering/1999 Digital Remaster",
+      "url": "https://open.spotify.com/track/5NEYr07MeW3Kp64GobkQAk"
     },
     {
       "added_at": "2022-08-31 13:56:16",
@@ -1403,22 +1419,6 @@
       "duration_ms": 312506,
       "name": "I'm Just A Lucky So And So",
       "url": "https://open.spotify.com/track/0ELeaBGn9P1cddgiyz6tEi"
-    },
-    {
-      "added_at": "2022-08-31 13:56:16",
-      "album": {
-        "name": "JuJu",
-        "url": "https://open.spotify.com/album/46VoobaZCtFPReElOHFEqq"
-      },
-      "artists": [
-        {
-          "name": "Wayne Shorter",
-          "url": "https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO"
-        }
-      ],
-      "duration_ms": 331306,
-      "name": "Twelve More Bars To Go - Rudy Van Gelder 24 Bit Mastering/1999 Digital Remaster",
-      "url": "https://open.spotify.com/track/5NEYr07MeW3Kp64GobkQAk"
     },
     {
       "added_at": "2022-08-31 13:56:16",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2022-08-31 13:56:16",
       "album": {
-        "name": "Laughin' to Keep From Cryin'",
-        "url": "https://open.spotify.com/album/1oPpesguMVx0RdT77HDsKo"
-      },
-      "artists": [
-        {
-          "name": "Lester Young",
-          "url": "https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm"
-        }
-      ],
-      "duration_ms": 512266,
-      "name": "Salute To Benny",
-      "url": "https://open.spotify.com/track/5h8TmZt7tqKY5lG560ZXdu"
-    },
-    {
-      "added_at": "2022-08-31 13:56:16",
-      "album": {
         "name": "Bird Feathers (Remastered)",
         "url": "https://open.spotify.com/album/2BvoHpEjeJf6lM0p9720AM"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 428493,
       "name": "Easy Living",
       "url": "https://open.spotify.com/track/3iK5q2qCdlKEJOYpaNrDXZ"
+    },
+    {
+      "added_at": "2022-08-31 13:56:16",
+      "album": {
+        "name": "Laughin' to Keep From Cryin'",
+        "url": "https://open.spotify.com/album/1oPpesguMVx0RdT77HDsKo"
+      },
+      "artists": [
+        {
+          "name": "Lester Young",
+          "url": "https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm"
+        }
+      ],
+      "duration_ms": 512266,
+      "name": "Salute To Benny",
+      "url": "https://open.spotify.com/track/5h8TmZt7tqKY5lG560ZXdu"
     },
     {
       "added_at": "2022-08-31 13:56:16",
@@ -1623,18 +1623,18 @@
     {
       "added_at": "2022-08-31 13:56:16",
       "album": {
-        "name": "4 to Go!",
-        "url": "https://open.spotify.com/album/5Za3xlEz6bE0ELBf1EjdAQ"
+        "name": "The Unforgettable George Shearing",
+        "url": "https://open.spotify.com/album/5qU8e6quy0VHFaTS1S104j"
       },
       "artists": [
         {
-          "name": "Andr\u00e9 Previn",
-          "url": "https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq"
+          "name": "George Shearing",
+          "url": "https://open.spotify.com/artist/7uUBTiZ2u5b40vymlFmXrn"
         }
       ],
-      "duration_ms": 331266,
-      "name": "Life Is a Ball",
-      "url": "https://open.spotify.com/track/5knIQIYX3uLKECQH6n9DJg"
+      "duration_ms": 140880,
+      "name": "Lullaby of Birdland",
+      "url": "https://open.spotify.com/track/6aBJprxtSLncRLIT8FJi28"
     },
     {
       "added_at": "2022-08-31 13:56:16",
@@ -1655,18 +1655,34 @@
     {
       "added_at": "2022-08-31 13:56:16",
       "album": {
-        "name": "The Unforgettable George Shearing",
-        "url": "https://open.spotify.com/album/5qU8e6quy0VHFaTS1S104j"
+        "name": "First Place Again",
+        "url": "https://open.spotify.com/album/5cRdLFfwJefr0sspyWVFPT"
       },
       "artists": [
         {
-          "name": "George Shearing",
-          "url": "https://open.spotify.com/artist/7uUBTiZ2u5b40vymlFmXrn"
+          "name": "Paul Desmond",
+          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
         }
       ],
-      "duration_ms": 140880,
-      "name": "Lullaby of Birdland",
-      "url": "https://open.spotify.com/track/6aBJprxtSLncRLIT8FJi28"
+      "duration_ms": 518733,
+      "name": "I Get a Kick out of You",
+      "url": "https://open.spotify.com/track/4aiToVXyelaS3IzT3XrLEV"
+    },
+    {
+      "added_at": "2022-08-31 13:56:16",
+      "album": {
+        "name": "4 to Go!",
+        "url": "https://open.spotify.com/album/5Za3xlEz6bE0ELBf1EjdAQ"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 Previn",
+          "url": "https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq"
+        }
+      ],
+      "duration_ms": 331266,
+      "name": "Life Is a Ball",
+      "url": "https://open.spotify.com/track/5knIQIYX3uLKECQH6n9DJg"
     },
     {
       "added_at": "2022-08-31 13:56:16",
@@ -1683,22 +1699,6 @@
       "duration_ms": 402133,
       "name": "Nearness of You",
       "url": "https://open.spotify.com/track/28hv3qok0P0nu4K7OsmDRG"
-    },
-    {
-      "added_at": "2022-08-31 13:56:16",
-      "album": {
-        "name": "First Place Again",
-        "url": "https://open.spotify.com/album/5cRdLFfwJefr0sspyWVFPT"
-      },
-      "artists": [
-        {
-          "name": "Paul Desmond",
-          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
-        }
-      ],
-      "duration_ms": 518733,
-      "name": "I Get a Kick out of You",
-      "url": "https://open.spotify.com/track/4aiToVXyelaS3IzT3XrLEV"
     }
   ],
   "unique_name": "Brunch Jazz",

@@ -4,7 +4,7 @@
 
 > A journey into the unknown, dark, and experimental.
 
-111 songs - 7 hr 12 min - [published](https://open.spotify.com/playlist/4Yl6V9aO8ob35sgpwk1lVL)
+112 songs - 7 hr 16 min - [published](https://open.spotify.com/playlist/4Yl6V9aO8ob35sgpwk1lVL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [Twist](https://open.spotify.com/track/1bIO8oWeMRyLUHUIUsTcTY) | [Thom Yorke](https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau) | [ANIMA](https://open.spotify.com/album/5DDPFOJVHhc93OlqirbAtm) | 7:03 | 2020-10-20 |  |
 | [Twist](https://open.spotify.com/track/36IJNDHIljR94apizT5Iks) | [Thom Yorke](https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau) | [ANIMA](https://open.spotify.com/album/1g4vEVvVVFvFju0gS0DMbh) | 7:03 | 2020-10-20 | 2022-07-29 |
 | [Unknown Tokyo](https://open.spotify.com/track/6MruNrnfGnISP5aKUyFC4g) | [Clams Casino](https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A), [Jazztronik](https://open.spotify.com/artist/3TMLgJUsDIxI4CShGh8vYM) | [Unknown Tokyo](https://open.spotify.com/album/5WtMHNfW6oFN7spvwb1jwh) | 4:05 | 2022-02-18 |  |
+| [Vizio](https://open.spotify.com/track/3obbCnT8ZoQBfJBMyrLoEW) | [Mathilde Sobrino](https://open.spotify.com/artist/0x69Qlg7mSMTjjkO323OH0), [Lytos](https://open.spotify.com/artist/4D6SZOeCXxbUpnJyxQfufX) | [VIZIO](https://open.spotify.com/album/0hUuaQgTtfn8UdUDSzXPAQ) | 3:53 | 2022-09-02 |  |
 | [Voices](https://open.spotify.com/track/3Xuhi20r1A2FGQHAisL551) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw), [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [Hi This Is Flume \(Mixtape\)](https://open.spotify.com/album/2Vx9FC6Um8i6kEtY7HNswB) | 1:54 | 2020-10-20 |  |
 | [Wasting](https://open.spotify.com/track/24ecRdvvKcZCFdmebEJ1X8) | [The Soft Moon](https://open.spotify.com/artist/40HeNm05FEAxGx8gUOV4my) | [Deeper](https://open.spotify.com/album/4sdTiKZkufFUNlvtNcIiFh) | 5:50 | 2020-11-20 |  |
 | [Wasting](https://open.spotify.com/track/711LRE7rORixC5AVWIuzg4) | [The Soft Moon](https://open.spotify.com/artist/40HeNm05FEAxGx8gUOV4my) | [Deeper](https://open.spotify.com/album/7ewlDAUdwJlfgEzz5rj9xl) | 5:50 | 2020-11-20 | 2022-07-29 |

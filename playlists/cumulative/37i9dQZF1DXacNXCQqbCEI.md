@@ -4,7 +4,7 @@
 
 > Místico y amazónico..\. Este es el sonido de latinoamérica\. Foto: DNGDNGDNG
 
-217 songs - 15 hr 59 min - [published](https://open.spotify.com/playlist/7IeIClkaFsF64hmSNTI4y6)
+218 songs - 16 hr 2 min - [published](https://open.spotify.com/playlist/7IeIClkaFsF64hmSNTI4y6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,7 +172,7 @@
 | [Salamanquesa](https://open.spotify.com/track/2g0DEj8yNoDmh5BjNg5kcw) | [Onda Mundial](https://open.spotify.com/artist/5c5oay9VCy0a9RzFw1S8Dp), [Klik & Frik](https://open.spotify.com/artist/56P5wn7V6w46OyYV9vS5jC) | [Momoto](https://open.spotify.com/album/3cThlPotjMGdTYVj77PXpA) | 7:07 | 2021-11-26 | 2022-08-04 |
 | [Salsa Caliente \- Versión Aumentada](https://open.spotify.com/track/5pUOPXkEVcdrnd61jfLwMf) | [Meridian Brothers](https://open.spotify.com/artist/08Y6RNx87Eolrcq1aLM6ow) | [Desesperanza](https://open.spotify.com/album/41X2H1RsNkjrELghdVKNEV) | 4:43 | 2021-11-26 | 2022-07-25 |
 | [SALTA](https://open.spotify.com/track/3Jc8DUdZ1iX5FbYaKzKVh1) | [Mitú](https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k), [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T) | [TANDEM](https://open.spotify.com/album/1qm1yaOMS8Hhz4QS4aUB69) | 2:50 | 2021-11-26 |  |
-| [Sendero del Monte](https://open.spotify.com/track/48TkZlKN57XcU049NoKmOd) | [Mateo Kingman](https://open.spotify.com/artist/223se9o877Y4jHzwlDcGNx) | [Respira](https://open.spotify.com/album/1LE1cbHMViiLVaJFaNxGvJ) | 3:51 | 2022-04-15 |  |
+| [Sendero del Monte](https://open.spotify.com/track/48TkZlKN57XcU049NoKmOd) | [Mateo Kingman](https://open.spotify.com/artist/223se9o877Y4jHzwlDcGNx) | [Respira](https://open.spotify.com/album/1LE1cbHMViiLVaJFaNxGvJ) | 3:51 | 2022-04-15 | 2022-09-03 |
 | [Sendero del Monte](https://open.spotify.com/track/4L5Q7sI9pbOkplxpLY9EC1) | [Mateo Kingman](https://open.spotify.com/artist/223se9o877Y4jHzwlDcGNx) | [Respira](https://open.spotify.com/album/0nj1mWqRNnyCz2IlDkx8qj) | 3:51 | 2021-11-26 | 2022-07-20 |
 | [Serpiente Dorada](https://open.spotify.com/track/1lAwqRBdQOnGltiX0oNm9I) | [Dengue Dengue Dengue](https://open.spotify.com/artist/4dNjJV9AjGqHzkZualfhnG) | [Serpiente Dorada](https://open.spotify.com/album/4gmnDvOxEJDjGmGlILKZst) | 3:09 | 2022-04-15 |  |
 | [Serpiente Dorada](https://open.spotify.com/track/6vQ0lV1kKIrv34UWsOnl5s) | [Dengue Dengue Dengue](https://open.spotify.com/artist/4dNjJV9AjGqHzkZualfhnG) | [Serpiente Dorada](https://open.spotify.com/album/6siJLs13j5enCTwe9H7SXy) | 3:09 | 2021-11-26 | 2022-07-27 |
@@ -197,6 +197,7 @@
 | [Sueno en Paraguay \- El Buho Remix](https://open.spotify.com/track/421PeYBOflS19kvT0jqczs) | [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl), [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR) | [Amansara Remixed](https://open.spotify.com/album/0DamnA2rzxSe94KwLwD3Hp) | 3:59 | 2022-04-15 |  |
 | [Sueño en Paraguay \- El Búho Remix](https://open.spotify.com/track/26hcJ6HQTl79tPYikflRc5) | [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl), [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR) | [Amansará \(Remixed\)](https://open.spotify.com/album/1APDDRn5wQC7a1EpMUIrjd) | 3:59 | 2021-11-26 | 2022-07-29 |
 | [Sueño Marino](https://open.spotify.com/track/7dSKq6FktDcVoWXwbPIRMw) | [Khromatik](https://open.spotify.com/artist/6eCeb68g0FYtyhBxInbFnm), [Chaska Paucar](https://open.spotify.com/artist/3JqFAeIYsQ87PG5J8mC5bv) | [Sueño Marino](https://open.spotify.com/album/1sznCSkjGCKJI3Flkc4UhX) | 3:01 | 2021-11-26 | 2022-07-26 |
+| [Sutileza](https://open.spotify.com/track/4eALrRnySVDdjAlWHYjrOX) | [Cerrero](https://open.spotify.com/artist/5cVZnnikhcTwPENYemDKF6), [Coladera](https://open.spotify.com/artist/7FNBqkMNkiNpP5w9WY4WHQ) | [Sutileza](https://open.spotify.com/album/7bL0fzAw1LV0pTptJOtoX1) | 3:40 | 2022-04-15 |  |
 | [Sutileza](https://open.spotify.com/track/4nM8qYpn5Vea91lfZoEHAo) | [Cerrero](https://open.spotify.com/artist/5cVZnnikhcTwPENYemDKF6), [Coladera](https://open.spotify.com/artist/7FNBqkMNkiNpP5w9WY4WHQ) | [Sutileza](https://open.spotify.com/album/5hADgfXJmaRjJCRZbc7SXF) | 3:40 | 2021-11-26 | 2022-07-29 |
 | [Tamarugal \(Para de Mirarme\)](https://open.spotify.com/track/737ifSsVNWrDFKeGnGVp6A) | [Felipe Schuster](https://open.spotify.com/artist/0qFRRA7zKheBLIsqHA2ouE) | [La Montaña](https://open.spotify.com/album/3aUiHq5tSrFLsF3GtoyDGV) | 3:33 | 2022-04-15 | 2022-04-20 |
 | [Tambor Del Monte](https://open.spotify.com/track/4nSVv5flBb0ucHTGgxiFi5) | [Terror/Cactus](https://open.spotify.com/artist/6zDCcrKdLCpKPtgFcD26rq) | [Corriente EP](https://open.spotify.com/album/17BOLG1QS5Fc9SuBPZDgql) | 3:51 | 2021-11-26 | 2022-07-04 |

@@ -4,7 +4,7 @@
 
 > Featuring that new vintage\. Cover: Laufey
 
-238 songs - 14 hr 6 min - [published](https://open.spotify.com/playlist/3Icin3X1CyEouQNp33mzQK)
+240 songs - 14 hr 13 min - [published](https://open.spotify.com/playlist/3Icin3X1CyEouQNp33mzQK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [I NEED YOU](https://open.spotify.com/track/0RDUnNaGubiseI1W9T3YTf) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [WE ARE](https://open.spotify.com/album/6kHFkPvL2X3rZPuS3CEMUE) | 2:37 | 2021-12-03 |  |
 | [I NEED YOU](https://open.spotify.com/track/0Rz33FuYUwWW0pcw2v9gI9) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [I NEED YOU](https://open.spotify.com/album/1m8ZRSrh5k7K7OiIbOwj4T) | 2:37 | 2021-12-03 | 2022-07-29 |
 | [I'll Get Along](https://open.spotify.com/track/7cId5hbuOHH7uAbpe4pIEl) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Home Again](https://open.spotify.com/album/79VDAdjzMMGoftIbw5feYN) | 3:28 | 2021-12-03 | 2022-04-21 |
+| [i'm lost for words](https://open.spotify.com/track/3jagpMptawgmmhAYZJ1bQR) | [Gabriel](https://open.spotify.com/artist/7yj3gkMvAWutROuLsTmLtC) | [i'm lost for words](https://open.spotify.com/album/5jR3X2FNyHgYW0EuIBkYwH) | 2:17 | 2022-09-02 |  |
 | [If It's Love](https://open.spotify.com/track/0pPt7BzRUrYLiSdFrjN7QA) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [If It's Love](https://open.spotify.com/album/1KbxCIV9Zq8npEmyV8efqM) | 3:14 | 2021-12-03 | 2022-05-08 |
 | [If It's Love](https://open.spotify.com/track/1aK2wrsldTVOR0C1wMj3sR) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [The Bridge \(Deluxe\)](https://open.spotify.com/album/4oaMXmsIVvSa6EMFry9cjz) | 3:14 | 2021-12-03 |  |
 | [If Standing Was Flying](https://open.spotify.com/track/6SG0ueYRAT8rIEqDjX82JH) | [Stephen Day](https://open.spotify.com/artist/4cnFw4bkIWVGKUBsr93OS5) | [If Standing Was Flying](https://open.spotify.com/album/01G5Yoz4ZnQTNYIlL7DgIV) | 4:09 | 2021-12-03 | 2022-07-29 |
@@ -144,6 +145,7 @@
 | [Love](https://open.spotify.com/track/07UkdNXHXfFnBP5JTXfViA) | [Trousdale](https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE) | [What Happiness Is](https://open.spotify.com/album/2o76vZToghhg9NBmSCb0sD) | 3:32 | 2021-12-03 | 2022-07-29 |
 | [Love Is A Game](https://open.spotify.com/track/2j3GxEsbNYNeEzz86wDY4J) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 6:43 | 2021-12-03 |  |
 | [Love Is Love](https://open.spotify.com/track/3evHzU2xmG80c3jS4YT6ZI) | [Grace Potter](https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht) | [Love Is Love](https://open.spotify.com/album/658qjvfIWOhCwaOZixkb45) | 3:06 | 2021-12-03 |  |
+| [Lovesick](https://open.spotify.com/track/5op34xwSJ2jKWq2nbDPFVn) | [Haley Reinhart](https://open.spotify.com/artist/5cKlE8f6b26h61Ml7m052Q) | [Off The Ground](https://open.spotify.com/album/6JVabF7u0lubMct7BDUCRT) | 4:35 | 2022-09-02 |  |
 | [Madelyn](https://open.spotify.com/track/39ZpHwLpCFBDeLpOphQYLQ) | [Anderson East](https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby) | [Madelyn](https://open.spotify.com/album/2GxqnG8rJVHG18Bm27vpo0) | 3:15 | 2021-12-03 |  |
 | [Madison](https://open.spotify.com/track/3GNnTQVqE4zUSECYzHXq0b) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Woman on the Internet](https://open.spotify.com/album/3TEaY5Lqzymo0AVv2HkQep) | 3:44 | 2021-12-03 |  |
 | [Make You Love Me](https://open.spotify.com/track/2HQM8xlOk1K7cGsCmnfKEn) | [Aiyana\-Lee](https://open.spotify.com/artist/2IZXxSIGhFtkHJyMh6UTln) | [WEDNESDAY'S CHILD \(SIDE A\)](https://open.spotify.com/album/0Xab1cM6Bk1KxUBpn3cCtC) | 3:10 | 2022-02-11 | 2022-07-29 |
@@ -212,7 +214,7 @@
 | [suffer](https://open.spotify.com/track/46gYDd1STZWpjFi7rKWy1n) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [suffer](https://open.spotify.com/album/4safZcciEZzvvznTt9Sf18) | 4:46 | 2021-12-03 | 2022-04-29 |
 | [Sugarcane](https://open.spotify.com/track/7pzoOz4tiF2KA76FNM70ms) | [Charlie Worsham](https://open.spotify.com/artist/1nYvElumwIjMkOczb985bq) | [Sugarcane](https://open.spotify.com/album/0NRpX7UAG0LJVkqtx3jFze) | 3:54 | 2021-12-03 | 2022-07-23 |
 | [Summertime](https://open.spotify.com/track/1DEHkieaXEuXm2SumbWQG1) | [Gavin DeGraw](https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz) | [Summertime](https://open.spotify.com/album/3bzu8rRotavOgVPrQFPmwT) | 4:17 | 2022-04-29 | 2022-07-29 |
-| [Sunblind](https://open.spotify.com/track/1Kpt4G3LsCeKYLqTnRYBio) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Shore](https://open.spotify.com/album/5tXJchExPrWfcj1JwoDeZy) | 4:13 | 2021-12-03 |  |
+| [Sunblind](https://open.spotify.com/track/1Kpt4G3LsCeKYLqTnRYBio) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Shore](https://open.spotify.com/album/5tXJchExPrWfcj1JwoDeZy) | 4:13 | 2021-12-03 | 2022-09-03 |
 | [Supply & Demand](https://open.spotify.com/track/0tsUIJakq2RksuC1YixAHX) | [Wilder Woods](https://open.spotify.com/artist/26DytDdxKgr9N0tdrBSLs2) | [Wilder Woods](https://open.spotify.com/album/35rWm0QieUmTizxsC7dXnG) | 3:16 | 2021-12-03 |  |
 | [Sweet \- Single Edit](https://open.spotify.com/track/7uYpvX8Gb7CUubdJcRt8E0) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU), [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53), [Diane Warren](https://open.spotify.com/artist/3A2jfQOLgo5rV4GYFHbEA2) | [Sweet](https://open.spotify.com/album/0qDkNJ0azvJj9glUVIku8P) | 2:38 | 2022-07-22 |  |
 | [Sweet Chamomile](https://open.spotify.com/track/0RfBLmmqsSP1pir9zu46d4) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY) | [Moments in Between](https://open.spotify.com/album/31YtUUKHFaKVhlELeptm1S) | 3:28 | 2021-12-03 |  |
@@ -221,7 +223,7 @@
 | [The Best Part](https://open.spotify.com/track/00tGCgulE0lQHeJugDDNtl) | [Eric Hutchinson](https://open.spotify.com/artist/39x8gyJjTHiBQklFgVJSV4) | [Before & After Life](https://open.spotify.com/album/0gbO5q0USgCkccD7CpCiwE) | 4:53 | 2021-12-03 | 2022-08-13 |
 | [The Day](https://open.spotify.com/track/0ke9U2e1M4VU4R6fRBfhcw) | [Sille Trolle](https://open.spotify.com/artist/5RkAoyWwIt8ljO3cTSa4FV) | [The Day](https://open.spotify.com/album/3KnShXEl47Ok7ASlslmFcs) | 2:39 | 2022-03-04 | 2022-07-29 |
 | [The Dust](https://open.spotify.com/track/3Gg5r4GChsrKPOUbtN9PTY) | [Ryan Montbleau](https://open.spotify.com/artist/5Q2ZtOZ0vOdtcjGDOq6ZQc) | [Air](https://open.spotify.com/album/1xDQ9p2dKLWa8FmcgcAdmm) | 2:45 | 2022-05-20 | 2022-06-26 |
-| [The Good](https://open.spotify.com/track/7sPW54QvTCMlWQEB0tyhJ3) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Ch\. 1 Vs\. 1](https://open.spotify.com/album/0KeLt7XCGtfAKAbrmM59De) | 3:29 | 2022-01-06 |  |
+| [The Good](https://open.spotify.com/track/7sPW54QvTCMlWQEB0tyhJ3) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Ch\. 1 Vs\. 1](https://open.spotify.com/album/0KeLt7XCGtfAKAbrmM59De) | 3:29 | 2022-01-06 | 2022-09-03 |
 | [The Mess](https://open.spotify.com/track/4PZLI3AGhdUE0CX7KUnjNi) | [Violet Crime](https://open.spotify.com/artist/0uoRAXJYHJ7003T0t0NbX4) | [The Mess](https://open.spotify.com/album/1cjJ60QJJAQCDkj3u06kxU) | 3:35 | 2022-05-20 | 2022-07-19 |
 | [The Two of Us](https://open.spotify.com/track/24i3ftE5sMEGsGtclPQPSc) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Apolonio](https://open.spotify.com/album/7HlxxaJOHK0ArY4Ae4Qfc7) | 2:32 | 2021-12-03 |  |
 | [Then There Was You](https://open.spotify.com/track/4OkgX6DWNd0peWM54Q6gFf) | [Thomas Dybdahl](https://open.spotify.com/artist/6kUglM25Mvn6Uy7EDXsT1n) | [FEVER](https://open.spotify.com/album/1kY2GMaWvr0mX5fuXsNIZe) | 3:12 | 2021-12-03 | 2022-07-20 |

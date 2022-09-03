@@ -1,12 +1,12 @@
 {
   "description": "The best of Christian Hip Hop today.  Cover: nobigdyl.",
-  "num_followers": 105292,
+  "num_followers": 105299,
   "original_name": "The Flow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTg0NzExMiwwMDAwMDAwMDQ4OTYzYmNlNjljZGNlZTNjMGE1MzM3ZTRmNWNiZmQ3",
+  "snapshot_id": "MTY1OTg0NzExMiwwMDAwMDAwMGFiM2ZmYzIwYWNmMTdkMTQ0NzgyZDk0MmNhNWNiYWM0",
   "tracks": [
     {
       "added_at": "2022-08-06 04:47:39",
@@ -643,26 +643,6 @@
     {
       "added_at": "2022-08-06 04:47:39",
       "album": {
-        "name": "Hit My Line",
-        "url": "https://open.spotify.com/album/0CK7KNfyrFlRvTygSeiJA5"
-      },
-      "artists": [
-        {
-          "name": "Red Tips",
-          "url": "https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7"
-        },
-        {
-          "name": "YB",
-          "url": "https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k"
-        }
-      ],
-      "duration_ms": 147492,
-      "name": "Hit My Line",
-      "url": "https://open.spotify.com/track/6OfQAAc5Bempqs62jzatMv"
-    },
-    {
-      "added_at": "2022-08-06 04:47:39",
-      "album": {
         "name": "Catch These Hands (Remix)",
         "url": "https://open.spotify.com/album/7APamlqElimCKW62z0yKFf"
       },
@@ -683,6 +663,26 @@
       "duration_ms": 144506,
       "name": "Catch These Hands - Remix",
       "url": "https://open.spotify.com/track/3K7zvRw4Wg9afWGfnDU7vM"
+    },
+    {
+      "added_at": "2022-08-06 04:47:39",
+      "album": {
+        "name": "Hit My Line",
+        "url": "https://open.spotify.com/album/0CK7KNfyrFlRvTygSeiJA5"
+      },
+      "artists": [
+        {
+          "name": "Red Tips",
+          "url": "https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7"
+        },
+        {
+          "name": "YB",
+          "url": "https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k"
+        }
+      ],
+      "duration_ms": 147492,
+      "name": "Hit My Line",
+      "url": "https://open.spotify.com/track/6OfQAAc5Bempqs62jzatMv"
     },
     {
       "added_at": "2022-08-06 04:47:39",
@@ -779,22 +779,18 @@
     {
       "added_at": "2022-08-06 04:47:39",
       "album": {
-        "name": "Underdogs",
-        "url": "https://open.spotify.com/album/79zwjuwYBzmNCb02pzfqU6"
+        "name": "Ram in the Bush",
+        "url": "https://open.spotify.com/album/3gG2gyb4kEHRLE7TKJqXGn"
       },
       "artists": [
         {
-          "name": "Kurtis Hoppie",
-          "url": "https://open.spotify.com/artist/2eR1Z2cyHOS4gFgA2GbRl8"
-        },
-        {
-          "name": "WEARETHEGOOD",
-          "url": "https://open.spotify.com/artist/1qnP6AwnlLdhTADeq09CZw"
+          "name": "Mike Teezy",
+          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
         }
       ],
-      "duration_ms": 197064,
-      "name": "Underdogs",
-      "url": "https://open.spotify.com/track/218cnoqyQzKOxxwG3H9XAO"
+      "duration_ms": 148754,
+      "name": "Ram in the Bush",
+      "url": "https://open.spotify.com/track/1AE7szyIJmjyzMU7ocJqh2"
     },
     {
       "added_at": "2022-08-06 04:47:39",
@@ -815,6 +811,26 @@
     {
       "added_at": "2022-08-06 04:47:39",
       "album": {
+        "name": "Underdogs",
+        "url": "https://open.spotify.com/album/79zwjuwYBzmNCb02pzfqU6"
+      },
+      "artists": [
+        {
+          "name": "Kurtis Hoppie",
+          "url": "https://open.spotify.com/artist/2eR1Z2cyHOS4gFgA2GbRl8"
+        },
+        {
+          "name": "WEARETHEGOOD",
+          "url": "https://open.spotify.com/artist/1qnP6AwnlLdhTADeq09CZw"
+        }
+      ],
+      "duration_ms": 197064,
+      "name": "Underdogs",
+      "url": "https://open.spotify.com/track/218cnoqyQzKOxxwG3H9XAO"
+    },
+    {
+      "added_at": "2022-08-06 04:47:39",
+      "album": {
         "name": "The Bottom Line",
         "url": "https://open.spotify.com/album/1CAS074eX1UHOVehsuIhDy"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 147000,
       "name": "Hottest In The City (feat. EmanuelDaProphet)",
       "url": "https://open.spotify.com/track/5nz7NodXphguBQbfhYp5rE"
-    },
-    {
-      "added_at": "2022-08-06 04:47:39",
-      "album": {
-        "name": "Ram in the Bush",
-        "url": "https://open.spotify.com/album/3gG2gyb4kEHRLE7TKJqXGn"
-      },
-      "artists": [
-        {
-          "name": "Mike Teezy",
-          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
-        }
-      ],
-      "duration_ms": 148754,
-      "name": "Ram in the Bush",
-      "url": "https://open.spotify.com/track/1AE7szyIJmjyzMU7ocJqh2"
     },
     {
       "added_at": "2022-08-06 04:47:39",
@@ -883,22 +883,6 @@
     {
       "added_at": "2022-08-06 04:47:39",
       "album": {
-        "name": "PRESSURE",
-        "url": "https://open.spotify.com/album/5vrLASRbLFy32QQpAvLkEL"
-      },
-      "artists": [
-        {
-          "name": "Toyalove",
-          "url": "https://open.spotify.com/artist/5OoxlokuJXx0MIk9GyR1f6"
-        }
-      ],
-      "duration_ms": 157675,
-      "name": "PRESSURE",
-      "url": "https://open.spotify.com/track/1hqAriaUctIMv62hDNBLWi"
-    },
-    {
-      "added_at": "2022-08-06 04:47:39",
-      "album": {
         "name": "CEMENT",
         "url": "https://open.spotify.com/album/53vr8FfzSeDiHXkQSiPRy0"
       },
@@ -911,26 +895,6 @@
       "duration_ms": 153495,
       "name": "CEMENT",
       "url": "https://open.spotify.com/track/6Effoyth74yU2TCd6dduDJ"
-    },
-    {
-      "added_at": "2022-08-06 04:47:39",
-      "album": {
-        "name": "Praise",
-        "url": "https://open.spotify.com/album/7w5z53GPI298MihIj0CDZ3"
-      },
-      "artists": [
-        {
-          "name": "Lj the Messenger",
-          "url": "https://open.spotify.com/artist/1wxZ1Mv6pAQbaqh30Nq6hB"
-        },
-        {
-          "name": "Hyper Fenton",
-          "url": "https://open.spotify.com/artist/2q5QIs6iibW6xyHZZRSeh2"
-        }
-      ],
-      "duration_ms": 123478,
-      "name": "Praise",
-      "url": "https://open.spotify.com/track/6wbvE1aVv9d112MiP6sGkE"
     },
     {
       "added_at": "2022-08-06 04:47:39",
@@ -959,6 +923,42 @@
       "duration_ms": 184335,
       "name": "Won't Stop - Reyer Remix",
       "url": "https://open.spotify.com/track/5scmtvav3joe03DAihMTd6"
+    },
+    {
+      "added_at": "2022-08-06 04:47:39",
+      "album": {
+        "name": "Praise",
+        "url": "https://open.spotify.com/album/7w5z53GPI298MihIj0CDZ3"
+      },
+      "artists": [
+        {
+          "name": "Lj the Messenger",
+          "url": "https://open.spotify.com/artist/1wxZ1Mv6pAQbaqh30Nq6hB"
+        },
+        {
+          "name": "Hyper Fenton",
+          "url": "https://open.spotify.com/artist/2q5QIs6iibW6xyHZZRSeh2"
+        }
+      ],
+      "duration_ms": 123478,
+      "name": "Praise",
+      "url": "https://open.spotify.com/track/6wbvE1aVv9d112MiP6sGkE"
+    },
+    {
+      "added_at": "2022-08-06 04:47:39",
+      "album": {
+        "name": "PRESSURE",
+        "url": "https://open.spotify.com/album/5vrLASRbLFy32QQpAvLkEL"
+      },
+      "artists": [
+        {
+          "name": "Toyalove",
+          "url": "https://open.spotify.com/artist/5OoxlokuJXx0MIk9GyR1f6"
+        }
+      ],
+      "duration_ms": 157675,
+      "name": "PRESSURE",
+      "url": "https://open.spotify.com/track/1hqAriaUctIMv62hDNBLWi"
     },
     {
       "added_at": "2022-08-06 04:47:39",
@@ -1123,30 +1123,6 @@
     {
       "added_at": "2022-08-06 04:47:39",
       "album": {
-        "name": "Seat At The Table",
-        "url": "https://open.spotify.com/album/21UuBeZLx6VUmL8B6NiU3d"
-      },
-      "artists": [
-        {
-          "name": "Common Hymnal",
-          "url": "https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN"
-        },
-        {
-          "name": "Sharon Irving",
-          "url": "https://open.spotify.com/artist/2pvdIgrTL1DsTSg1ipptEt"
-        },
-        {
-          "name": "Vincent Charlow",
-          "url": "https://open.spotify.com/artist/3r029EjQHmgQhmfN6J45O3"
-        }
-      ],
-      "duration_ms": 238285,
-      "name": "Seat At The Table",
-      "url": "https://open.spotify.com/track/3fdUvuEM2XjI58BYP2Gyjk"
-    },
-    {
-      "added_at": "2022-08-06 04:47:39",
-      "album": {
         "name": "Father Forgive Us",
         "url": "https://open.spotify.com/album/5UdkDwxRkETEh4yVrbuCS3"
       },
@@ -1171,6 +1147,46 @@
     {
       "added_at": "2022-08-06 04:47:39",
       "album": {
+        "name": "Helga",
+        "url": "https://open.spotify.com/album/4GpsaQPRX1Sjv628WlMFRC"
+      },
+      "artists": [
+        {
+          "name": "Porsha Love",
+          "url": "https://open.spotify.com/artist/09TMRjnEN1r9vDFa4XmbbG"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Helga",
+      "url": "https://open.spotify.com/track/47n31kXP2dwfE82xtOA3qK"
+    },
+    {
+      "added_at": "2022-08-06 04:47:39",
+      "album": {
+        "name": "Seat At The Table",
+        "url": "https://open.spotify.com/album/21UuBeZLx6VUmL8B6NiU3d"
+      },
+      "artists": [
+        {
+          "name": "Common Hymnal",
+          "url": "https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN"
+        },
+        {
+          "name": "Sharon Irving",
+          "url": "https://open.spotify.com/artist/2pvdIgrTL1DsTSg1ipptEt"
+        },
+        {
+          "name": "Vincent Charlow",
+          "url": "https://open.spotify.com/artist/3r029EjQHmgQhmfN6J45O3"
+        }
+      ],
+      "duration_ms": 238285,
+      "name": "Seat At The Table",
+      "url": "https://open.spotify.com/track/3fdUvuEM2XjI58BYP2Gyjk"
+    },
+    {
+      "added_at": "2022-08-06 04:47:39",
+      "album": {
         "name": "polaroids.",
         "url": "https://open.spotify.com/album/5Prj7tghns9XY626lMR3LL"
       },
@@ -1187,22 +1203,6 @@
       "duration_ms": 155688,
       "name": "who.",
       "url": "https://open.spotify.com/track/4nz2Tku7f6FyEE0WZfd2mZ"
-    },
-    {
-      "added_at": "2022-08-06 04:47:39",
-      "album": {
-        "name": "Helga",
-        "url": "https://open.spotify.com/album/4GpsaQPRX1Sjv628WlMFRC"
-      },
-      "artists": [
-        {
-          "name": "Porsha Love",
-          "url": "https://open.spotify.com/artist/09TMRjnEN1r9vDFa4XmbbG"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Helga",
-      "url": "https://open.spotify.com/track/47n31kXP2dwfE82xtOA3qK"
     },
     {
       "added_at": "2022-08-06 04:47:39",
@@ -1363,6 +1363,30 @@
     {
       "added_at": "2022-08-06 04:47:39",
       "album": {
+        "name": "/kroun/",
+        "url": "https://open.spotify.com/album/7lujWYUcmJ6MgfcQZ7cHhG"
+      },
+      "artists": [
+        {
+          "name": "outr.cty",
+          "url": "https://open.spotify.com/artist/44p6xbyBk8khm2UotlfH2w"
+        },
+        {
+          "name": "Scribe Music",
+          "url": "https://open.spotify.com/artist/6Sje0vb62lzeO204N9yh0n"
+        },
+        {
+          "name": "B. Cooper",
+          "url": "https://open.spotify.com/artist/68PZRIV4P3i1WDizC3PlDq"
+        }
+      ],
+      "duration_ms": 153043,
+      "name": "/kroun/",
+      "url": "https://open.spotify.com/track/2e1HiZFrtlkyNxP5uu8dGj"
+    },
+    {
+      "added_at": "2022-08-06 04:47:39",
+      "album": {
         "name": "ANTI",
         "url": "https://open.spotify.com/album/5jY9er5AvTNyv94ug98Eff"
       },
@@ -1399,30 +1423,6 @@
     {
       "added_at": "2022-08-06 04:47:39",
       "album": {
-        "name": "/kroun/",
-        "url": "https://open.spotify.com/album/7lujWYUcmJ6MgfcQZ7cHhG"
-      },
-      "artists": [
-        {
-          "name": "outr.cty",
-          "url": "https://open.spotify.com/artist/44p6xbyBk8khm2UotlfH2w"
-        },
-        {
-          "name": "Scribe Music",
-          "url": "https://open.spotify.com/artist/6Sje0vb62lzeO204N9yh0n"
-        },
-        {
-          "name": "B. Cooper",
-          "url": "https://open.spotify.com/artist/68PZRIV4P3i1WDizC3PlDq"
-        }
-      ],
-      "duration_ms": 153043,
-      "name": "/kroun/",
-      "url": "https://open.spotify.com/track/2e1HiZFrtlkyNxP5uu8dGj"
-    },
-    {
-      "added_at": "2022-08-06 04:47:39",
-      "album": {
         "name": "Joy!",
         "url": "https://open.spotify.com/album/4YRHb5REEs6LifMC4BhoPF"
       },
@@ -1435,22 +1435,6 @@
       "duration_ms": 190000,
       "name": "Joy!",
       "url": "https://open.spotify.com/track/0kv9dmXc1f2zdgbWtqekhd"
-    },
-    {
-      "added_at": "2022-08-06 04:47:39",
-      "album": {
-        "name": "Run A Bag",
-        "url": "https://open.spotify.com/album/2jT7lbecAOaO708xio98qC"
-      },
-      "artists": [
-        {
-          "name": "Mission",
-          "url": "https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba"
-        }
-      ],
-      "duration_ms": 185779,
-      "name": "Run A Bag",
-      "url": "https://open.spotify.com/track/3TIGNuFMoOD6B3VP6mHVO3"
     },
     {
       "added_at": "2022-08-06 04:47:39",
@@ -1475,6 +1459,22 @@
     {
       "added_at": "2022-08-06 04:47:39",
       "album": {
+        "name": "Run A Bag",
+        "url": "https://open.spotify.com/album/2jT7lbecAOaO708xio98qC"
+      },
+      "artists": [
+        {
+          "name": "Mission",
+          "url": "https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba"
+        }
+      ],
+      "duration_ms": 185779,
+      "name": "Run A Bag",
+      "url": "https://open.spotify.com/track/3TIGNuFMoOD6B3VP6mHVO3"
+    },
+    {
+      "added_at": "2022-08-06 04:47:39",
+      "album": {
         "name": "Motive",
         "url": "https://open.spotify.com/album/6BwDhZVaF5BiXi9pLnP8rH"
       },
@@ -1491,8 +1491,8 @@
     {
       "added_at": "2022-08-06 04:47:39",
       "album": {
-        "name": "Never Be the Same",
-        "url": "https://open.spotify.com/album/2pi1Q19Ktl2hoyBJH6QkRH"
+        "name": "Who?",
+        "url": "https://open.spotify.com/album/17edQSfcZhL56obIskbP2I"
       },
       "artists": [
         {
@@ -1500,9 +1500,49 @@
           "url": "https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG"
         }
       ],
-      "duration_ms": 153601,
-      "name": "Never Be the Same",
-      "url": "https://open.spotify.com/track/3Fxxsx248FVmrQXUwNhVoD"
+      "duration_ms": 211540,
+      "name": "Who?",
+      "url": "https://open.spotify.com/track/0L5eYwDd5OwRmoRkeMrkbL"
+    },
+    {
+      "added_at": "2022-08-06 04:47:39",
+      "album": {
+        "name": "INNER CITY GOSPEL",
+        "url": "https://open.spotify.com/album/2gsf9Nax7eO3tnjPSC4YqP"
+      },
+      "artists": [
+        {
+          "name": "IAMOPB",
+          "url": "https://open.spotify.com/artist/18MYQNripiW2Lljs4AhW3Z"
+        },
+        {
+          "name": "Anthone Ray",
+          "url": "https://open.spotify.com/artist/2STifIFLtVoY6rj4hc4vVv"
+        }
+      ],
+      "duration_ms": 169874,
+      "name": "TUNNEL VISION",
+      "url": "https://open.spotify.com/track/6C6s0bb9k6KfmRms8l6WE1"
+    },
+    {
+      "added_at": "2022-08-06 04:47:39",
+      "album": {
+        "name": "DAY ONES",
+        "url": "https://open.spotify.com/album/3hM9N5646a6RPl9IlX6muD"
+      },
+      "artists": [
+        {
+          "name": "outr.cty",
+          "url": "https://open.spotify.com/artist/44p6xbyBk8khm2UotlfH2w"
+        },
+        {
+          "name": "DJLC",
+          "url": "https://open.spotify.com/artist/7CjRSmKXaquhcaBcOO9SQQ"
+        }
+      ],
+      "duration_ms": 192062,
+      "name": "DAY ONES",
+      "url": "https://open.spotify.com/track/1aazpUqKkCSHqZ09O8rVHT"
     },
     {
       "added_at": "2022-08-06 04:47:39",
@@ -1539,22 +1579,18 @@
     {
       "added_at": "2022-08-06 04:47:39",
       "album": {
-        "name": "INNER CITY GOSPEL",
-        "url": "https://open.spotify.com/album/2gsf9Nax7eO3tnjPSC4YqP"
+        "name": "Never Be the Same",
+        "url": "https://open.spotify.com/album/2pi1Q19Ktl2hoyBJH6QkRH"
       },
       "artists": [
         {
-          "name": "IAMOPB",
-          "url": "https://open.spotify.com/artist/18MYQNripiW2Lljs4AhW3Z"
-        },
-        {
-          "name": "Anthone Ray",
-          "url": "https://open.spotify.com/artist/2STifIFLtVoY6rj4hc4vVv"
+          "name": "Vic Lucas",
+          "url": "https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG"
         }
       ],
-      "duration_ms": 169874,
-      "name": "TUNNEL VISION",
-      "url": "https://open.spotify.com/track/6C6s0bb9k6KfmRms8l6WE1"
+      "duration_ms": 153601,
+      "name": "Never Be the Same",
+      "url": "https://open.spotify.com/track/3Fxxsx248FVmrQXUwNhVoD"
     },
     {
       "added_at": "2022-08-06 04:47:39",
@@ -1571,42 +1607,6 @@
       "duration_ms": 224658,
       "name": "CELEBRATE",
       "url": "https://open.spotify.com/track/21LvTVPTfwMOu7gPLJ1fd6"
-    },
-    {
-      "added_at": "2022-08-06 04:47:39",
-      "album": {
-        "name": "DAY ONES",
-        "url": "https://open.spotify.com/album/3hM9N5646a6RPl9IlX6muD"
-      },
-      "artists": [
-        {
-          "name": "outr.cty",
-          "url": "https://open.spotify.com/artist/44p6xbyBk8khm2UotlfH2w"
-        },
-        {
-          "name": "DJLC",
-          "url": "https://open.spotify.com/artist/7CjRSmKXaquhcaBcOO9SQQ"
-        }
-      ],
-      "duration_ms": 192062,
-      "name": "DAY ONES",
-      "url": "https://open.spotify.com/track/1aazpUqKkCSHqZ09O8rVHT"
-    },
-    {
-      "added_at": "2022-08-06 04:47:39",
-      "album": {
-        "name": "Who?",
-        "url": "https://open.spotify.com/album/17edQSfcZhL56obIskbP2I"
-      },
-      "artists": [
-        {
-          "name": "Vic Lucas",
-          "url": "https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG"
-        }
-      ],
-      "duration_ms": 211540,
-      "name": "Who?",
-      "url": "https://open.spotify.com/track/0L5eYwDd5OwRmoRkeMrkbL"
     },
     {
       "added_at": "2022-08-06 04:47:39",
@@ -1671,6 +1671,34 @@
     {
       "added_at": "2022-08-06 04:47:39",
       "album": {
+        "name": "BEST NIGHT",
+        "url": "https://open.spotify.com/album/4unZ0GkcZuI9qWIdF77eiL"
+      },
+      "artists": [
+        {
+          "name": "RAY G",
+          "url": "https://open.spotify.com/artist/1mGgGsYIUyBrrYQNL9XD5C"
+        },
+        {
+          "name": "OnBeatMusic",
+          "url": "https://open.spotify.com/artist/19DgE5CQNujdohCwPmYddj"
+        },
+        {
+          "name": "Joey Vantes",
+          "url": "https://open.spotify.com/artist/7hJoApA9cwgCqWGvIhbCyc"
+        },
+        {
+          "name": "A. Ruiz",
+          "url": "https://open.spotify.com/artist/5chrjHIlDZQyVadLbWzgbO"
+        }
+      ],
+      "duration_ms": 161965,
+      "name": "BEST NIGHT",
+      "url": "https://open.spotify.com/track/5gwjlmywKglmE8y4lVBV0j"
+    },
+    {
+      "added_at": "2022-08-06 04:47:39",
+      "album": {
         "name": "I'm Home",
         "url": "https://open.spotify.com/album/204YFT7a78NcDohIL0TuSp"
       },
@@ -1707,22 +1735,6 @@
     {
       "added_at": "2022-08-06 04:47:39",
       "album": {
-        "name": "Angels",
-        "url": "https://open.spotify.com/album/0k2Yd33uJ3BEpn7Pdcq3LA"
-      },
-      "artists": [
-        {
-          "name": "Reconcile",
-          "url": "https://open.spotify.com/artist/205ryRzLS0HTtASNep0wUm"
-        }
-      ],
-      "duration_ms": 185257,
-      "name": "Angels",
-      "url": "https://open.spotify.com/track/7vzOi9isfDmRaeITHUsM5C"
-    },
-    {
-      "added_at": "2022-08-06 04:47:39",
-      "album": {
         "name": "NOW OR LATER",
         "url": "https://open.spotify.com/album/1RGWKAn8tGkKdPkAXbe8ZV"
       },
@@ -1739,30 +1751,18 @@
     {
       "added_at": "2022-08-06 04:47:39",
       "album": {
-        "name": "BEST NIGHT",
-        "url": "https://open.spotify.com/album/4unZ0GkcZuI9qWIdF77eiL"
+        "name": "Angels",
+        "url": "https://open.spotify.com/album/0k2Yd33uJ3BEpn7Pdcq3LA"
       },
       "artists": [
         {
-          "name": "RAY G",
-          "url": "https://open.spotify.com/artist/1mGgGsYIUyBrrYQNL9XD5C"
-        },
-        {
-          "name": "OnBeatMusic",
-          "url": "https://open.spotify.com/artist/19DgE5CQNujdohCwPmYddj"
-        },
-        {
-          "name": "Joey Vantes",
-          "url": "https://open.spotify.com/artist/7hJoApA9cwgCqWGvIhbCyc"
-        },
-        {
-          "name": "A. Ruiz",
-          "url": "https://open.spotify.com/artist/5chrjHIlDZQyVadLbWzgbO"
+          "name": "Reconcile",
+          "url": "https://open.spotify.com/artist/205ryRzLS0HTtASNep0wUm"
         }
       ],
-      "duration_ms": 161965,
-      "name": "BEST NIGHT",
-      "url": "https://open.spotify.com/track/5gwjlmywKglmE8y4lVBV0j"
+      "duration_ms": 185257,
+      "name": "Angels",
+      "url": "https://open.spotify.com/track/7vzOi9isfDmRaeITHUsM5C"
     },
     {
       "added_at": "2022-08-06 04:47:39",

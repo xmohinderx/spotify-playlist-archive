@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mDnU0PhsMn.md) - [plain]
 
 > Add these kid\-friendly stories to your family's bedtime routine!
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,510 likes - 21 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,520 likes - 21 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Getting Ready For Bed \- Story](https://open.spotify.com/track/260NPvLARzURbD7MFUGIu0) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Story Time with Little Baby Bum, Vol\. 1](https://open.spotify.com/album/1GHo6KlmEFUER7cCpvO0rv) | 3:14 |
+| 1 | [Getting Ready For Bed \- Story](https://open.spotify.com/track/0HsvvS1E3p3LDDmc80gnfz) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Story Time with Little Baby Bum, Vol\. 1](https://open.spotify.com/album/3e7dcDIRVZFdXHrFR6psl9) | 3:14 |
 | 2 | [Jack And The Beanstalk \(Story\)](https://open.spotify.com/track/2ZvvSsOGT525mutZ8E5QNY) | [Stories For Toddlers](https://open.spotify.com/artist/7cIXL5JyiArbs8waV8VORf) | [20 Short Stories For Children](https://open.spotify.com/album/0uBlUZotf91jnF1RZRFWon) | 6:04 |
 | 3 | [Green Eggs And Ham](https://open.spotify.com/track/6Ea1FU45HZRpJKfOLHiAzS) | [Dr\. Seuss](https://open.spotify.com/artist/4mi47OiK1uIz0TygMvYgW2) | [Dr\. Seuss Presents Green Eggs & Ham, Yertle The Turtle & Other Stories](https://open.spotify.com/album/0UbpYOdPqLgYk31aCt3K3X) | 7:22 |
 | 4 | [Sleeping Beauty \(Story\)](https://open.spotify.com/track/3tKStpbMir5SAw2S0cIPzt) | [Stories For Toddlers](https://open.spotify.com/artist/7cIXL5JyiArbs8waV8VORf) | [Bedtime for Little Ones](https://open.spotify.com/album/630H45p90O4dvVeRZShsRn) | 5:45 |
@@ -30,4 +30,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mDnU0PhsMn.md) - [plain]
 | 20 | [Alice in Wonderland \(Part 1\)](https://open.spotify.com/track/7tuTGoef23xjShoEgsullR) | [Nursery Rhymes Fairy Tales & Children's Stories](https://open.spotify.com/artist/6UIrRVqclDd9pb8t7JdfY4) | [Alice in Wonderland](https://open.spotify.com/album/1pSSIgkdjuOmF9AUmtI76k) | 15:29 |
 | 21 | [Alice in Wonderland \(Part 2\)](https://open.spotify.com/track/6uCInBbNnevl9qzjAoOi5P) | [Bedtime Relaxation](https://open.spotify.com/artist/1Kk8SaMtzNguy3NDUI6kPw) | [Alice in Wonderland](https://open.spotify.com/album/1pSSIgkdjuOmF9AUmtI76k) | 15:24 |
 
-Snapshot ID: `MTYxOTEwMzQzOSwwMDAwMDAwMDVhYWZmZTc1MTgzODEyYzdkZWEwOGFiNWM5Mzg0N2Vh`
+Snapshot ID: `MTYxOTEwMzQzOSwwMDAwMDAwMDg1ZDA4OGZmZjMxNzlkYTNmNDgxYjZmOTg0YTM4Mzhi`

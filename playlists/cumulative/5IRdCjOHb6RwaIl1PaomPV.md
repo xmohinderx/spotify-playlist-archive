@@ -4,7 +4,7 @@
 
 > The latest tracks from Mad Decent and friends\. New Deluxe album from Diplo, plus the latest cuts from Kornél Kovács and Aluna, Lolahol, TDJ, niina, Ayra Star, Noizu, and more.
 
-213 songs - 13 hr 5 min - [published](https://open.spotify.com/playlist/1Yjpd6pirY2pY0xv9m96EC)
+215 songs - 13 hr 11 min - [published](https://open.spotify.com/playlist/1Yjpd6pirY2pY0xv9m96EC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,7 @@
 | [FACETIME / TEXTING](https://open.spotify.com/track/7KZmtMOnwT3cHevTkViqVF) | [Babyxsosa](https://open.spotify.com/artist/0z6XSqpMBqmhaRVWduV9HJ) | [FACETIME / TEXTING](https://open.spotify.com/album/3TbshUc0bxwnjjDyhurmHk) | 2:28 | 2022-08-05 |  |
 | [Fashion Freak](https://open.spotify.com/track/1uCEBYwOdBLs8cyVsL35L2) | [Isabella Lovestory](https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt) | [Fashion Freak](https://open.spotify.com/album/5c5LCZOKndw0LRyyY2R890) | 2:30 | 2022-08-05 |  |
 | [Faust](https://open.spotify.com/track/0Nrd79QrK5WXiqxKMgTUX3) | [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1), [Ecco2k](https://open.spotify.com/artist/6hG0VsXXlD10l60TqiIHIX) | [Crest](https://open.spotify.com/album/3j75sKW2Lw9gUEhjNzPKn4) | 2:05 | 2022-06-03 | 2022-08-06 |
-| [Flawless](https://open.spotify.com/track/6mMhF0ubvWg3fWN5hsgVNj) | [Red Axes](https://open.spotify.com/artist/5Owm9QgL9BSCRQKTX6T08G), [ECHO](https://open.spotify.com/artist/5Ezb2z7gSLMpXaG0oyacpW) | [Flawless](https://open.spotify.com/album/1V4S8A1VZTOI0fRZgAdbix) | 3:01 | 2022-08-05 |  |
+| [Flawless](https://open.spotify.com/track/6mMhF0ubvWg3fWN5hsgVNj) | [Red Axes](https://open.spotify.com/artist/5Owm9QgL9BSCRQKTX6T08G), [ECHO](https://open.spotify.com/artist/5Ezb2z7gSLMpXaG0oyacpW) | [Flawless](https://open.spotify.com/album/1V4S8A1VZTOI0fRZgAdbix) | 3:01 | 2022-08-05 | 2022-09-03 |
 | [Follow You](https://open.spotify.com/track/0QiIiiGroBqnleILFsPUuc) | [Kornél Kovács](https://open.spotify.com/artist/0Ij7th9uWcDVYNAIOn5W22), [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE) | [Follow You](https://open.spotify.com/album/1fliEPXtaZylODnCOuoHHE) | 4:04 | 2022-08-24 | 2022-08-27 |
 | [Follow You](https://open.spotify.com/track/5yFjyLryX1UPHfuLXPVxJz) | [Kornél Kovács](https://open.spotify.com/artist/0Ij7th9uWcDVYNAIOn5W22), [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE) | [Follow You](https://open.spotify.com/album/0iFsOlLzdWxq0VK78tunnM) | 4:04 | 2022-08-26 |  |
 | [Forget About Me](https://open.spotify.com/track/6EafRI0UtUidrZbbKpFRYq) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Durante](https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh), [AlunaGeorge](https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38) | [Forget About Me](https://open.spotify.com/album/7uMat3U8ZyA28xalhv39r5) | 2:57 | 2022-06-03 | 2022-08-06 |
@@ -143,6 +143,7 @@
 | [Neo Costeno](https://open.spotify.com/track/2BSs5zfMyUe6whYwF50CqB) | [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn) | [Self Oscillation](https://open.spotify.com/album/1IFsw8Gq05lBJQWAcSM3I5) | 6:30 | 2022-08-05 |  |
 | [NIKE DRIP](https://open.spotify.com/track/1HVxpIsL3bvJ7p47VLW62x) | [Taiyoh](https://open.spotify.com/artist/6hT6jq5757GgRKLuPi2g4h) | [NIKE DRIP](https://open.spotify.com/album/17uYQm4gLmpiuwAa3rkyaz) | 2:00 | 2022-08-05 |  |
 | [No One Dies From Love \(DJ\_Dave Edit\)](https://open.spotify.com/track/20q0OglvgOtzxH2YexMNXl) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK), [DJ\_Dave](https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme) | [No One Dies From Love \(The Remixes\)](https://open.spotify.com/album/4VPwf2tJMsGcV52TgihvYi) | 3:51 | 2022-08-05 |  |
+| [Not Enough](https://open.spotify.com/track/5piaLz775INjlnFJ1Rvh5d) | [LST](https://open.spotify.com/artist/0fJQPtKVRWFR4JBEoRPpgU) | [Closer](https://open.spotify.com/album/0EPh7k3gmF42OU2dzhw5HP) | 2:43 | 2022-09-02 |  |
 | [not yet.](https://open.spotify.com/track/3VIkfam8WA7bqt3gW81Ln3) | [penny p.](https://open.spotify.com/artist/0fiIHGSyHdIncaSJQAGbY9) | [not yet.](https://open.spotify.com/album/3jYtvtEuFu4cMaaZVUoWZM) | 2:36 | 2022-06-03 | 2022-08-06 |
 | [Nowhere To Hide](https://open.spotify.com/track/6GnIaawrUwU0Agm7BM1wFu) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [Prettyboy D\-O](https://open.spotify.com/artist/76qtJqxLY1aXEPHxAJui7y), [Kooldrink](https://open.spotify.com/artist/1XQiB7Gp309l4aHhzgGIlY) | [Nowhere To Hide](https://open.spotify.com/album/2wRqnd7i4JjVkvqypSCIeH) | 3:15 | 2022-07-22 |  |
 | [Numb](https://open.spotify.com/track/6Ijmj8Z0L31hCp5pLZnT5U) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Numb](https://open.spotify.com/album/1HMR6PG5Su7p0JjRws7NBb) | 3:39 | 2022-06-03 | 2022-08-06 |
@@ -221,5 +222,6 @@
 | [Your Eyes](https://open.spotify.com/track/2FDpKjiOdqQPNCP97tIYCF) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Diplo](https://open.spotify.com/album/5pdR4YX2zWMXotdF034UYY) | 4:14 | 2022-06-03 | 2022-08-06 |
 | [yrstruly \- CFCF Scream Mix](https://open.spotify.com/track/6br2IoQARHVcYM4TsYMU0f) | [The Hellp](https://open.spotify.com/artist/5DslL3PUa3BcRlCCEP64A4), [CFCF](https://open.spotify.com/artist/73IRHBhotETMmgvRCEyTCS) | [Enemy Remixed](https://open.spotify.com/album/1lZYJDlOuXYsddD8OsGTOc) | 5:11 | 2022-06-17 |  |
 | [Yu](https://open.spotify.com/track/30eZIdScAUjxBRszUqpWUl) | [Human Movement](https://open.spotify.com/artist/37dubgexq6dhyB4eCM3PHZ) | [Yu](https://open.spotify.com/album/5Fb65ff2umZkpRtF9Rt2et) | 4:28 | 2022-06-17 |  |
+| [Zorro](https://open.spotify.com/track/0hKa1iXJRQMcpMELUojgTI) | [JADED](https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf), [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8) | [Zorro](https://open.spotify.com/album/7uoEGgQYCAyJ9mWzItcJch) | 3:36 | 2022-09-02 |  |
 
 \*This playlist was first scraped on 2022-06-10. Prior content cannot be recovered.

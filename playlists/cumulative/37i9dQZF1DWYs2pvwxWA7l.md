@@ -2,7 +2,7 @@
 
 ### [Afropop](https://open.spotify.com/playlist/37i9dQZF1DWYs2pvwxWA7l)
 
-> The hottest Afropop records on the planet\. Cover: <a href="https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz?si=qvOypJUQRzeVnO3tUyQdnwg"> CKay </a>
+> The hottest Afropop records on the planet\. Cover: <a href="https://open.spotify.com/artist/3ilw3NJXRWd153LIBsme1z?si=OgLhmgTWSrWmO2gIEgkJHw"> K.O </a>
 
 193 songs - 10 hr 4 min - [published](https://open.spotify.com/playlist/4ro2D5NHaC1uSUC6UDaKRz)
 

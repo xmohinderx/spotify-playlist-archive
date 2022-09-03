@@ -578,6 +578,24 @@
     },
     {
       "album": {
+        "name": "Ghostrider",
+        "url": "https://open.spotify.com/album/7fV9Bc20rWlAdAILFGK5jL"
+      },
+      "artists": [
+        {
+          "name": "Tyler Bryant & the Shakedown",
+          "url": "https://open.spotify.com/artist/3Ig1cmnFAUxpTEYVjTRkLo"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195958,
+      "name": "Ghostrider",
+      "url": "https://open.spotify.com/track/70cwVFHonl7K3PEtaohgAz"
+    },
+    {
+      "album": {
         "name": "Mind Control",
         "url": "https://open.spotify.com/album/61RXKxgnQEomHQlbgVXYdt"
       },
@@ -1403,7 +1421,7 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 221733,
       "name": "Roll Bones",
       "url": "https://open.spotify.com/track/4YAcRalM7dHtbbSRHwF92p"

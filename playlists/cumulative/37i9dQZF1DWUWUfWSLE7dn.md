@@ -4,7 +4,7 @@
 
 > The perfect score to accompany your literary quest.
 
-104 songs - 5 hr 4 min - [published](https://open.spotify.com/playlist/0hBVIGuG4NeGfuqta1nWIO)
+106 songs - 5 hr 10 min - [published](https://open.spotify.com/playlist/0hBVIGuG4NeGfuqta1nWIO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,8 +26,10 @@
 | [Bonnie at Morn \- Amy's](https://open.spotify.com/track/7AOd1tPuzk4OixBPGJFp9k) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Jackie Moran](https://open.spotify.com/artist/7n7z1ZyAvXU0Hzy5Afawri), [Ensemble Galilei](https://open.spotify.com/artist/38xsbLMXenDwkPP8SPAAV6) | [From Whence We Came](https://open.spotify.com/album/21XKiwC8lWeMl58vLKf8NP) | 6:49 | 2022-03-09 |  |
 | [Circumstance](https://open.spotify.com/track/3ZlzHAwaQByuxXryxZSOR5) | [Biba Dupont](https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9) | [Shared Shelter](https://open.spotify.com/album/0s1hXlZf3ioJGkBzNKuQpQ) | 3:21 | 2022-03-09 |  |
 | [Cloudsailing](https://open.spotify.com/track/7aHbZez2yeqJFJWalKL0WH) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [Windflower](https://open.spotify.com/album/5pMpxNkROAIq7wygp4oHbl) | 3:19 | 2022-03-09 |  |
+| [Colin](https://open.spotify.com/track/1Bd5aIOYLMyxvI4FtG08x9) | [Las Desorden](https://open.spotify.com/artist/05Vq9YRP30tBWRiSR7mUV3) | [Colin](https://open.spotify.com/album/2naNvERtXmruzo0nxV4pWR) | 2:43 | 2022-09-02 |  |
 | [Crossing Paths](https://open.spotify.com/track/6gN8d0TrjwkcVgrZpFyp3c) | [Elinaura](https://open.spotify.com/artist/1PHMZ5pRjowUYaUCXtOYVd) | [Crossing Paths](https://open.spotify.com/album/6tDR44G5XlTW1n5YxhX29c) | 3:01 | 2022-03-09 |  |
 | [Crossroad at Dawn](https://open.spotify.com/track/0THdfQgMIwHSJ0zlowjpLP) | [Bill Brown](https://open.spotify.com/artist/0hpjPGgPQW9o5veEihASNJ) | [Lineage 2 \- Chaotic Chronicle](https://open.spotify.com/album/0BawDoh2xMnec8hK6XkQ2L) | 2:00 | 2022-03-09 |  |
+| [Cyllene](https://open.spotify.com/track/2rdfoD2s2fZIKxAqcX2t9O) | [Martin Landh](https://open.spotify.com/artist/3h6h9sKnuag3EateK306Ew) | [Cyllene](https://open.spotify.com/album/5JbLwgqc6LYNVWFnH4IGVn) | 2:51 | 2022-09-02 |  |
 | [Dark Turns to Light](https://open.spotify.com/track/2PNeM2ARcSxLO1WzrI8f8p) | [Hampus Naeselius](https://open.spotify.com/artist/1M3REpihyqFCmBRC9sMzp5) | [It All Ends Now](https://open.spotify.com/album/0IaeaE66odi4fU98H3qK48) | 4:10 | 2022-03-09 |  |
 | [Daydream](https://open.spotify.com/track/1WlaTc6LFDBrag4vKuiuRs) | [HILMA](https://open.spotify.com/artist/5cfA35ok9YlWE032xcI423) | [Polaris](https://open.spotify.com/album/4zRFfOm7i3DhHqmW0rIIru) | 2:15 | 2022-03-09 |  |
 | [Departure](https://open.spotify.com/track/4uOmRFs7iqvWCzBQARYCff) | [August Wilhelmsson](https://open.spotify.com/artist/34hmgPKKRJX6fvkosRxDO7) | [Departure](https://open.spotify.com/album/45vmEN7UhIUPAYAXoPJzlW) | 2:41 | 2022-03-09 |  |

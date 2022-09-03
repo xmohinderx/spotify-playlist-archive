@@ -1,13 +1,161 @@
 {
-  "description": "The newest, freshest R&B tunes.  Cover: CKAY",
-  "num_followers": 920971,
+  "description": "The newest, freshest R&B tunes.  Cover: Chlo\u00eb",
+  "num_followers": 921449,
   "original_name": "New Jams",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQ4NjY1MiwwMDAwMDAwMGJiODgzODc4OWNlMzU0OGExODg3MGM3Mzc4Y2E5OWFi",
+  "snapshot_id": "MTY2MjA5MTIwMCwwMDAwMDAwMDRlNDRjYmJiMmNiOTQ0YThjMmMyN2JkNjc5OWFhYTMx",
   "tracks": [
+    {
+      "added_at": "2022-09-02 04:00:00",
+      "album": {
+        "name": "Queen Space (with Summer Walker)",
+        "url": "https://open.spotify.com/album/6juUcr1BHeBUg2ipoLI0mV"
+      },
+      "artists": [
+        {
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        },
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 230841,
+      "name": "Queen Space (with Summer Walker)",
+      "url": "https://open.spotify.com/track/3Gz3Tl8TicQbsR0OGvmc6C"
+    },
+    {
+      "added_at": "2022-09-02 04:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0aTksyiafCXTH3jbUIkwVs"
+      },
+      "artists": [
+        {
+          "name": "Chl\u00f6e",
+          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
+        }
+      ],
+      "duration_ms": 188989,
+      "name": "Freak Like Me - Spotify Singles",
+      "url": "https://open.spotify.com/track/7lxF9OOlLhxslC3BEDIMfB"
+    },
+    {
+      "added_at": "2022-09-02 04:00:00",
+      "album": {
+        "name": "Eye to Eye",
+        "url": "https://open.spotify.com/album/2lqCLCQj0prUEwqEDxRKIy"
+      },
+      "artists": [
+        {
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+        }
+      ],
+      "duration_ms": 156771,
+      "name": "Eye to Eye",
+      "url": "https://open.spotify.com/track/6la2yQPbuFKD6I1vEaS2bz"
+    },
+    {
+      "added_at": "2022-09-02 04:00:00",
+      "album": {
+        "name": "Sway",
+        "url": "https://open.spotify.com/album/7uxnk6j0snMV0K99bWfO4N"
+      },
+      "artists": [
+        {
+          "name": "Reggie Becton",
+          "url": "https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC"
+        }
+      ],
+      "duration_ms": 174843,
+      "name": "Sway",
+      "url": "https://open.spotify.com/track/5vjfKzxJpDGawFtTq8f4dj"
+    },
+    {
+      "added_at": "2022-09-02 04:00:00",
+      "album": {
+        "name": "Bad Decisions",
+        "url": "https://open.spotify.com/album/2z5UVuFfqfUTX5sVqxoSkK"
+      },
+      "artists": [
+        {
+          "name": "Journey Montana",
+          "url": "https://open.spotify.com/artist/3Cc2VaMxLueacPpXPf4Iyv"
+        }
+      ],
+      "duration_ms": 167862,
+      "name": "Bad Decisions",
+      "url": "https://open.spotify.com/track/3xJphVAHpi2IyWV030jJ6A"
+    },
+    {
+      "added_at": "2022-09-02 04:00:00",
+      "album": {
+        "name": "Y4",
+        "url": "https://open.spotify.com/album/2OF3O1Dl0IAuCwg6OaFzNR"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "duration_ms": 179000,
+      "name": "Fool 4 U",
+      "url": "https://open.spotify.com/track/0UFthA0qo3JDLxqfG25kgP"
+    },
+    {
+      "added_at": "2022-09-02 04:00:00",
+      "album": {
+        "name": "KINDA HAPPY, KINDA SAD",
+        "url": "https://open.spotify.com/album/3nOrmM1aN9RBB9vpwoSEzl"
+      },
+      "artists": [
+        {
+          "name": "Zilo",
+          "url": "https://open.spotify.com/artist/3fcW2V4zOfFm0IsWCJUuzz"
+        }
+      ],
+      "duration_ms": 230354,
+      "name": "emotional",
+      "url": "https://open.spotify.com/track/1BMffJnuEsz31KwwSyjbQv"
+    },
+    {
+      "added_at": "2022-09-02 04:00:00",
+      "album": {
+        "name": "Baddie",
+        "url": "https://open.spotify.com/album/242NIZnYlcRGtHpD1CH7nd"
+      },
+      "artists": [
+        {
+          "name": "MK xyz",
+          "url": "https://open.spotify.com/artist/3vwC5qKVfZGqWAXzwrqCe0"
+        }
+      ],
+      "duration_ms": 158314,
+      "name": "Baddie",
+      "url": "https://open.spotify.com/track/64cHs4MX20D7ExGWQyZHLd"
+    },
+    {
+      "added_at": "2022-09-02 04:00:00",
+      "album": {
+        "name": "Lil Bit",
+        "url": "https://open.spotify.com/album/1jfXuCOCCSIo0oPfFMRsJz"
+      },
+      "artists": [
+        {
+          "name": "Durand Bernarr",
+          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        }
+      ],
+      "duration_ms": 205224,
+      "name": "Lil Bit",
+      "url": "https://open.spotify.com/track/012kKQ6dZZsJbDaAQK1iQn"
+    },
     {
       "added_at": "2022-08-26 04:04:12",
       "album": {
@@ -1357,46 +1505,6 @@
       "url": "https://open.spotify.com/track/5CiwHSUDf9C1Uv0r4nUVLd"
     },
     {
-      "added_at": "2022-07-09 07:32:42",
-      "album": {
-        "name": "Rollercoaster",
-        "url": "https://open.spotify.com/album/4iS0UU37Huv1EJCRoZ0Ppx"
-      },
-      "artists": [
-        {
-          "name": "Jade Novah",
-          "url": "https://open.spotify.com/artist/7HvZ0wFF6TW2kxX8AVVY3K"
-        },
-        {
-          "name": "Kenyon Dixon",
-          "url": "https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be"
-        }
-      ],
-      "duration_ms": 213653,
-      "name": "Rollercoaster",
-      "url": "https://open.spotify.com/track/5nDNj7aBdekBb9X7h2Nugi"
-    },
-    {
-      "added_at": "2022-07-08 18:37:27",
-      "album": {
-        "name": "it's not that deep",
-        "url": "https://open.spotify.com/album/438o26Y0oRAh6vpyboYWQP"
-      },
-      "artists": [
-        {
-          "name": "Dave B.",
-          "url": "https://open.spotify.com/artist/5bfqwcEcRrMhtY9smw3IeJ"
-        },
-        {
-          "name": "Da-P",
-          "url": "https://open.spotify.com/artist/4PKHlnz8cQ79kQ6kd3GufJ"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "Odds",
-      "url": "https://open.spotify.com/track/3gDIzJLAOIiFqcCXjcz8hp"
-    },
-    {
       "added_at": "2022-07-08 11:53:18",
       "album": {
         "name": "2NLuv (feat. Benziboy)",
@@ -1431,26 +1539,6 @@
       "duration_ms": 175557,
       "name": "Alarming",
       "url": "https://open.spotify.com/track/2UoJrCdK3wjkRO5eI2Nq6E"
-    },
-    {
-      "added_at": "2022-06-24 04:00:00",
-      "album": {
-        "name": "Face Down",
-        "url": "https://open.spotify.com/album/4HHcIQeI1O1QouiYCzROZN"
-      },
-      "artists": [
-        {
-          "name": "Vedo",
-          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
-        },
-        {
-          "name": "OG Parker",
-          "url": "https://open.spotify.com/artist/5hhgghBFkLDdMn93GW4x3I"
-        }
-      ],
-      "duration_ms": 168755,
-      "name": "Face Down",
-      "url": "https://open.spotify.com/track/78XffyRIuVtqiYAZY6VzyW"
     }
   ],
   "unique_name": "New Jams",

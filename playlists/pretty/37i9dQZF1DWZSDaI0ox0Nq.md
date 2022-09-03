@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZSDaI0ox0Nq.md) - [plain]
 
 > Mujeres que escriben la historia del Tango\. Foto: Julieta Laso.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,724 likes - 55 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,730 likes - 55 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZSDaI0ox0Nq.md) - [plain]
 | 28 | [Fruta Amarga](https://open.spotify.com/track/7dsCiWTBKpyI8UYPxicyCu) | [Amelita Baltar](https://open.spotify.com/artist/5Z2Vs6p7u0a44wcO68iiQk), [Aldo Saralegui](https://open.spotify.com/artist/3DkOmSI4zaX4mVCZQC7Fm1) | [El Nuevo Rumbo](https://open.spotify.com/album/0PNFCx0M4ol1VFWMOUuErM) | 3:29 |
 | 29 | [Garganta Con Arena](https://open.spotify.com/track/6BjIumHEDyRxgocfAfwsXL) | [Adriana Varela](https://open.spotify.com/artist/5diAzb0BD6mSdU1xOhM7dc) | [Toda Mi Vida](https://open.spotify.com/album/17AJEwOMBmI6xhykdOBCI7) | 4:08 |
 | 30 | [El día que me quieras \- Remastered](https://open.spotify.com/track/02TbTxbu4H9heTFaXe3iVQ) | [Libertad Lamarque](https://open.spotify.com/artist/4obTALkglm8PARkVVik9KZ) | [Tangos Inmortales de Libertad Lamarque \(Remastered\)](https://open.spotify.com/album/5iq55ODBLnuVtHr0SX5AJR) | 2:36 |
-| 31 | [Baldosa Floja](https://open.spotify.com/track/38Umd4ALhVqbmvDSamftBR) | [Soledad Villamil](https://open.spotify.com/artist/5rSSgiiHz9IhOi6T63EBKD) | [Canta](https://open.spotify.com/album/6PDbU5wE5nZCAkXVIuvVm8) | 2:10 |
-| 32 | [Siempre Se Vuelve a Bs\. As.](https://open.spotify.com/track/3xjANYsJ2nMZBLr7T6lDcZ) | [Eladia Blazquez](https://open.spotify.com/artist/0lHsA4VFPhU5bDBYPMskM8) | [Con las Alas del Alma](https://open.spotify.com/album/1IJDQDltstBfcrxE7IoJii) | 3:01 |
+| 31 | [Siempre Se Vuelve a Bs\. As.](https://open.spotify.com/track/3xjANYsJ2nMZBLr7T6lDcZ) | [Eladia Blazquez](https://open.spotify.com/artist/0lHsA4VFPhU5bDBYPMskM8) | [Con las Alas del Alma](https://open.spotify.com/album/1IJDQDltstBfcrxE7IoJii) | 3:01 |
+| 32 | [Baldosa Floja](https://open.spotify.com/track/38Umd4ALhVqbmvDSamftBR) | [Soledad Villamil](https://open.spotify.com/artist/5rSSgiiHz9IhOi6T63EBKD) | [Canta](https://open.spotify.com/album/6PDbU5wE5nZCAkXVIuvVm8) | 2:10 |
 | 33 | [El Corazón al Sur](https://open.spotify.com/track/5t0QIkUpZOoejnKXeZ8z2s) | [Maria Graña](https://open.spotify.com/artist/1Yr19zGBA3JmVYOcE4JwRG), [Eladia Blazquez](https://open.spotify.com/artist/0lHsA4VFPhU5bDBYPMskM8) | [María](https://open.spotify.com/album/7jdQvnUjX988oU3jauUUmU) | 4:03 |
 | 34 | [La Mariposa](https://open.spotify.com/track/17iPZmaID95A2XxcTDBXoh) | [La Chicana](https://open.spotify.com/artist/5G6S0tVzlQJD709dvAvOyQ) | [Lejos](https://open.spotify.com/album/3Bejr5wnkAxczzVqZKYfSc) | 4:05 |
 | 35 | [Mujer niña y amiga](https://open.spotify.com/track/5jgUP4aEL9GXBxIF7IqNt7) | [Alicia Vignola](https://open.spotify.com/artist/7smQzOdgz8Lzw1l8ImVC5A) | [Azsulado](https://open.spotify.com/album/3YZFCJZ5FkaEMD8GECpmlM) | 3:16 |
@@ -47,9 +47,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZSDaI0ox0Nq.md) - [plain]
 | 37 | [Soledad](https://open.spotify.com/track/1BlKIFOIPRWYoaZaVM1GRC) | [Carolina Winograd](https://open.spotify.com/artist/1gQrpbtcrPfYpDB0LrZdWO) | [Soledad](https://open.spotify.com/album/0tXKqVJN1KMDjzcWW7dgQj) | 3:51 |
 | 38 | [Naranjo en Flor \(feat\. Mercedes Sosa\)](https://open.spotify.com/track/25NuGWk6dbNy8Eyt6zNlsR) | [Maria Graña](https://open.spotify.com/artist/1Yr19zGBA3JmVYOcE4JwRG), [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7) | [María](https://open.spotify.com/album/7jdQvnUjX988oU3jauUUmU) | 3:45 |
 | 39 | [Milonga del Desocupado](https://open.spotify.com/track/4drrlcTdFPZhbKoaZSCoMo) | [Quinteto Bataraz](https://open.spotify.com/artist/5wExxTg18OJstdwHUQDrAs), [Liliana Herrero](https://open.spotify.com/artist/6iqeypk1XRa2zQVRcIVmlF) | [Milonga del Desocupado](https://open.spotify.com/album/3VvEy3CFcgyMe1iMt4bQ2X) | 3:52 |
-| 40 | [La Piel de la Ciudad](https://open.spotify.com/track/4OyBpawRu6Bh5CpK8bBXh4) | [Julieta Laso](https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk) | [Martingala](https://open.spotify.com/album/5FgjV4G9WsnzSyRhnrneNc) | 3:13 |
+| 40 | [La Última Curda](https://open.spotify.com/track/6wTRZqGXcMRXCXYFUAqXL4) | [Malena Muyala](https://open.spotify.com/artist/2FzZqeOhCeu4Wd1wbPWVP1) | [Puro Verso](https://open.spotify.com/album/49rcqApxkF0v2eY0nKteFl) | 4:18 |
 | 41 | [Malevaje](https://open.spotify.com/track/4LVQ2CuYGgKgQA3vsI0NyG) | [Susana Rinaldi](https://open.spotify.com/artist/44gwyR0NL3dALyIGaL9NFE) | [La Tana Con Todo](https://open.spotify.com/album/3oGlLY8Hy4jFS8jAzos8X1) | 3:57 |
-| 42 | [La Última Curda](https://open.spotify.com/track/6wTRZqGXcMRXCXYFUAqXL4) | [Malena Muyala](https://open.spotify.com/artist/2FzZqeOhCeu4Wd1wbPWVP1) | [Puro Verso](https://open.spotify.com/album/49rcqApxkF0v2eY0nKteFl) | 4:18 |
+| 42 | [La Piel de la Ciudad](https://open.spotify.com/track/4OyBpawRu6Bh5CpK8bBXh4) | [Julieta Laso](https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk) | [Martingala](https://open.spotify.com/album/5FgjV4G9WsnzSyRhnrneNc) | 3:13 |
 | 43 | [Nada](https://open.spotify.com/track/6M4LFutTr0fgFMOWmN0kYh) | [Maria Graña](https://open.spotify.com/artist/1Yr19zGBA3JmVYOcE4JwRG), [Valeria Lynch](https://open.spotify.com/artist/60zawKIAJS16ul7OSY91wM) | [María](https://open.spotify.com/album/7jdQvnUjX988oU3jauUUmU) | 3:58 |
 | 44 | [Rosas de Otoño](https://open.spotify.com/track/6CAz0sn2HaHSpSiQ0EMkJx) | [Nelly Omar](https://open.spotify.com/artist/6IyGH3tMgXudiE41XE6Y8f), [Francisco Canaro Y Su Orquesta Tipica](https://open.spotify.com/artist/66vYcFTYX0PoYsOOURFaGf) | [Ofrenda Gaucha: Valsecito Amigo](https://open.spotify.com/album/6jUZzfW2CkpEULtaFOegAk) | 2:45 |
 | 45 | [Trenzas](https://open.spotify.com/track/7jBfhA6e93EKL1BaoghORb) | [Lidia Borda](https://open.spotify.com/artist/1SkyJrTK7wUmLxV9H7ekBt), [Brian Chambouleyron](https://open.spotify.com/artist/4ItsXJStGq1NA4LkKSV6WJ), [Esteban Morgado](https://open.spotify.com/artist/1pL3N36WdUgF8sdmLG8OMl), [Damian Bolotin](https://open.spotify.com/artist/6K2DK1fVzvbY5oSx3xPajp), [Walter Castro](https://open.spotify.com/artist/163oQfMweTcJsoOdYdDjNG), [Mono Hurtado](https://open.spotify.com/artist/2SKGUiZZSPBgQ9ZgdBiUTL) | [Patio De Tango](https://open.spotify.com/album/1kOUXHJMkKuXur3xTBoKmS) | 4:30 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZSDaI0ox0Nq.md) - [plain]
 | 54 | [Tal vez será su voz](https://open.spotify.com/track/2n3xDZaKxi6ntTB8IdX5mZ) | [Lidia Borda](https://open.spotify.com/artist/1SkyJrTK7wUmLxV9H7ekBt), [Orquesta El Arranque](https://open.spotify.com/artist/5EsRO0Vumc48k4pMoC4MWV) | [Tal Vez Será Su Voz](https://open.spotify.com/album/21lhlABIcVCeYgPTGLLbnW) | 4:25 |
 | 55 | [Corazón Maldito](https://open.spotify.com/track/18rtBOZ3x3OYWAN7VMEgio) | [Julieta Laso](https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk) | [Corazón Maldito](https://open.spotify.com/album/6akAb35yd9kVQiq3jigIZT) | 3:24 |
 
-Snapshot ID: `MTY1NzI0OTIwMCwwMDAwMDAwMDkzYzBkNTA2OTRmY2M4MDU1MmQ0YjAyNWYwZmI3ZTUz`
+Snapshot ID: `MTY1NzI0OTIwMCwwMDAwMDAwMDQ4NzRjMTkyNWQ3ODhiZWQyNDRiNGJlNjFmMjkxMWE2`

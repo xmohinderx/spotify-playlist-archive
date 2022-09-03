@@ -1592,6 +1592,28 @@
     },
     {
       "album": {
+        "name": "Funky Sound",
+        "url": "https://open.spotify.com/album/49PKyqHw17jBNcTUaLlafR"
+      },
+      "artists": [
+        {
+          "name": "Plastik Funk",
+          "url": "https://open.spotify.com/artist/7wmCy21VjfmbP8DznMJe8v"
+        },
+        {
+          "name": "HINA",
+          "url": "https://open.spotify.com/artist/6sn3ynJRzn7OJUdW9Tzz9K"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139921,
+      "name": "Funky Sound",
+      "url": "https://open.spotify.com/track/6uKA5VNApuHQoWnSRH1jlc"
+    },
+    {
+      "album": {
         "name": "Get Back (feat. TITUS)",
         "url": "https://open.spotify.com/album/4qfVFlToM12oeuzk9nvuqO"
       },
@@ -4337,7 +4359,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 197419,
       "name": "Stay Awake - Don Diablo VIP Mix",
       "url": "https://open.spotify.com/track/1kp7epwsW5zkObe35QAl5C"

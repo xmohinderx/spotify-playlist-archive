@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZa8CSUr0hCY.md) - [plain]
 
 > Laissez\-vous porter par la playlist lo\-fi
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,570 likes - 100 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,605 likes - 100 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

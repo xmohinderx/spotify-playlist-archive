@@ -26,6 +26,28 @@
     },
     {
       "album": {
+        "name": "A Nossa Bossa",
+        "url": "https://open.spotify.com/album/53CQgPLHrM1HGyZHz2pqPl"
+      },
+      "artists": [
+        {
+          "name": "NUNEZ",
+          "url": "https://open.spotify.com/artist/6RvP5pZMli48YYw0nwreXZ"
+        },
+        {
+          "name": "Jair Oliveira",
+          "url": "https://open.spotify.com/artist/1kuKDHZD1oPXwVZviVgRbV"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "A Nossa Bossa",
+      "url": "https://open.spotify.com/track/33vbDli8ByiNhw5vdM9Esh"
+    },
+    {
+      "album": {
         "name": "A Palo Seco (Radio Edit)",
         "url": "https://open.spotify.com/album/2GX7fBHfQCzr0jhwvYAdXm"
       },
@@ -191,7 +213,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 215383,
       "name": "Algum Ritmo",
       "url": "https://open.spotify.com/track/5EVv8M3vhByFLLqT1dkdGd"
@@ -695,7 +717,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 288682,
       "name": "Banho Maria",
       "url": "https://open.spotify.com/track/0cScxB1Ymzyq4xNMCACz2T"
@@ -753,6 +775,28 @@
       "duration_ms": 166706,
       "name": "BB (Garupa de Moto Amarela)",
       "url": "https://open.spotify.com/track/3e8kgXoSaW5MQkpjSw9nYk"
+    },
+    {
+      "album": {
+        "name": "Sem Concerto",
+        "url": "https://open.spotify.com/album/30j0hbqnFjL9x7wSEUySu1"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9u Britto",
+          "url": "https://open.spotify.com/artist/1pic59cFg2tcGHZ9qTNH89"
+        },
+        {
+          "name": "Mariana Volker",
+          "url": "https://open.spotify.com/artist/0L8NDdn0V7vaqvUyibKLmq"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208026,
+      "name": "Beijo Flor",
+      "url": "https://open.spotify.com/track/4vBfGyNSrCC53sn9KGYhDx"
     },
     {
       "album": {
@@ -1710,6 +1754,24 @@
     },
     {
       "album": {
+        "name": "E Agora? (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/5opB5hUKPNbEPJxr05uQkN"
+      },
+      "artists": [
+        {
+          "name": "Mayana Neiva",
+          "url": "https://open.spotify.com/artist/0MeEhWG8kXBAETvF1DZPcc"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219954,
+      "name": "E Agora? (Ac\u00fastico)",
+      "url": "https://open.spotify.com/track/2wOPAT4iotmZ1aM0AmKJj9"
+    },
+    {
+      "album": {
         "name": "Ela",
         "url": "https://open.spotify.com/album/7iAek7YoU7PHd1hIDIb4Zp"
       },
@@ -2456,6 +2518,24 @@
     },
     {
       "album": {
+        "name": "Jasmim Parte 1",
+        "url": "https://open.spotify.com/album/6YRFjsWP08K5hNWocg7o2Q"
+      },
+      "artists": [
+        {
+          "name": "Gabriel da Rosa",
+          "url": "https://open.spotify.com/artist/010biSbu4uiSzu9SKjcKhF"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199693,
+      "name": "Jasmim Parte 1",
+      "url": "https://open.spotify.com/track/2K7avC9Vm9wnXqTdsG5SW9"
+    },
+    {
+      "album": {
         "name": "Elza Soares & Jo\u00e3o de Aquino",
         "url": "https://open.spotify.com/album/4sxsOQFTDRQZJFSe5mC6HD"
       },
@@ -2825,7 +2905,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 137363,
       "name": "Marquinha",
       "url": "https://open.spotify.com/track/02rjxgJbgFFC8tkjG2IkF2"
@@ -3105,7 +3185,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 228810,
       "name": "Mulher Corvo",
       "url": "https://open.spotify.com/track/5KSgDzS7qN7o9SxplH7gDx"
@@ -3497,6 +3577,24 @@
       "duration_ms": 261410,
       "name": "O Homem do Leme - Deluxe Edition",
       "url": "https://open.spotify.com/track/6pg3mVH6MY7GMoykTuytyl"
+    },
+    {
+      "album": {
+        "name": "o mesmo dia",
+        "url": "https://open.spotify.com/album/6rNYmmx6Jd5McewaZiyKjN"
+      },
+      "artists": [
+        {
+          "name": "Nina Fernandes",
+          "url": "https://open.spotify.com/artist/3KrkRHLMHe2nzcpcvIJmDP"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247423,
+      "name": "o mesmo dia",
+      "url": "https://open.spotify.com/track/0zCv49QKlB6qzqSpc3FA7F"
     },
     {
       "album": {
@@ -3909,6 +4007,28 @@
       "duration_ms": 235435,
       "name": "Passarinha",
       "url": "https://open.spotify.com/track/4QC1L4JgL4ZFwVFd3AcdSw"
+    },
+    {
+      "album": {
+        "name": "CAEIRO - vol.1",
+        "url": "https://open.spotify.com/album/1EPJIK1b3H80aw0rIxIh2c"
+      },
+      "artists": [
+        {
+          "name": "Renato Motha",
+          "url": "https://open.spotify.com/artist/3XzRAIlxYeAvE2ZlgpRpU9"
+        },
+        {
+          "name": "Patricia Lobato",
+          "url": "https://open.spotify.com/artist/201VD33gwv7T7BN7Td9jfb"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118528,
+      "name": "Passo, Fico",
+      "url": "https://open.spotify.com/track/5x1HapLgaHX2rDahFGYTo3"
     },
     {
       "album": {
@@ -4501,7 +4621,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 247142,
       "name": "Raio X (Baby Session)",
       "url": "https://open.spotify.com/track/6dCtRnv9k1eKkIOwPPfaFN"
@@ -5079,7 +5199,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 229868,
       "name": "Sim",
       "url": "https://open.spotify.com/track/1CDItzs1Ud0u9PDKdJgrio"
@@ -5341,7 +5461,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 228150,
       "name": "Teu Olhar Me Fisgou",
       "url": "https://open.spotify.com/track/7sX43sJy6vkd0uBGoRlKzL"
@@ -5491,6 +5611,24 @@
       "duration_ms": 211114,
       "name": "Tudo Vai Dar Certo",
       "url": "https://open.spotify.com/track/3P382EPA2uASutnTSOWcvq"
+    },
+    {
+      "album": {
+        "name": "Perspectiva",
+        "url": "https://open.spotify.com/album/6Qz2KgvgmuZ14h3ziFjS4Y"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Won",
+          "url": "https://open.spotify.com/artist/5GiglwDgFnmp58gvGjmT3r"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149368,
+      "name": "Tudo Vai Ficar Bem",
+      "url": "https://open.spotify.com/track/1k3fnP287Wsjf1xwPvinfF"
     },
     {
       "album": {

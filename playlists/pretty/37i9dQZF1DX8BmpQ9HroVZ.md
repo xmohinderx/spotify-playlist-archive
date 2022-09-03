@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BmpQ9HroVZ.md) - [plain]
 
 > The hottest local and global tracks in Pakistan\. Cover \- Asim Azhar
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,580 likes - 61 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,682 likes - 61 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BmpQ9HroVZ.md) - [plain]
 | 36 | [Thagyan](https://open.spotify.com/track/6KdTA6s7zmqLyB5ZNvVta0) | [Zain Zohaib](https://open.spotify.com/artist/0M4wzwZKh9SSHkOXYNvQlP), [Quratulain Balouch](https://open.spotify.com/artist/5r3gdJkUB4oAcnuIGXEB7q) | [Thagyan](https://open.spotify.com/album/0tcyDiVe5YVzXXocO1nk1m) | 5:07 |
 | 37 | [love nwantiti \(ah ah ah\)](https://open.spotify.com/track/2Xr1dTzJee307rmrkt8c0g) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [CKay The First](https://open.spotify.com/album/6lheAtw3IcJvflIhLbykih) | 2:25 |
 | 38 | [Daku](https://open.spotify.com/track/3wz2vWhYnnBoFmgMkqtzLy) | [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [Inderpal Moga](https://open.spotify.com/artist/4Lk9Mory8nRTolPO1TMMcN) | [Daku](https://open.spotify.com/album/3RaIXDlIRvziryGLXm8lBR) | 2:11 |
-| 39 | [WE ROLLIN](https://open.spotify.com/track/605r6rtj7kBlJwZWmYx1Dt) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [WE ROLLIN](https://open.spotify.com/album/7EJI4AmDQIyLoxegf5AjDO) | 3:19 |
+| 39 | [WE ROLLIN](https://open.spotify.com/track/6ZYxNjuAU9Vy3VtF6W1dtE) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [We Rollin](https://open.spotify.com/album/09vnsHZoXH0OQWNAaOkVcf) | 3:19 |
 | 40 | [Neray Neray Vas](https://open.spotify.com/track/5P9gtOtId7RoyakIvlPGwM) | [Soch the Band](https://open.spotify.com/artist/1Z6C3R1dyF4aTvBofGXGfp), [Butt Brothers](https://open.spotify.com/artist/6KaZO6OFp295joGZ74oY5U) | [Neray Neray Vas](https://open.spotify.com/album/6EpM6TDOrXbJp65oKySgCt) | 3:47 |
 | 41 | [Faasla](https://open.spotify.com/track/3TB0OtQMzrPoNcmXfUMVzC) | [Shamoon Ismail](https://open.spotify.com/artist/5bxVbtf4t5k1QPmy0XDvgv), [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V) | [Scars & Screws](https://open.spotify.com/album/0dNZ3ypCu19FqmRxB1ezBc) | 3:19 |
 | 42 | [Promises](https://open.spotify.com/track/5Y3OxkwWPuFZc5rRoJE45A) | [Shamoon Ismail](https://open.spotify.com/artist/5bxVbtf4t5k1QPmy0XDvgv), [Annural Khalid](https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW) | [Scars & Screws](https://open.spotify.com/album/0dNZ3ypCu19FqmRxB1ezBc) | 3:15 |
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BmpQ9HroVZ.md) - [plain]
 | 60 | [Mehram](https://open.spotify.com/track/2oi55VmillH7At5wHVNFbE) | [Asfar Hussain](https://open.spotify.com/artist/7lDDbppbcK5F2ZJXG12pru), [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Mehram](https://open.spotify.com/album/1I7fGWBGZzOfsbkxxLGSyq) | 5:38 |
 | 61 | [Stunner](https://open.spotify.com/track/3bwf3lKuDOi0uVVo3MKdHS) | [Young Stunners](https://open.spotify.com/artist/01PyusFVbXgoD5Kl1mR8CC), [Talhah Yunus](https://open.spotify.com/artist/3mGW1eoqwNtCxd8R3hIOM5), [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci), [Aima Baig](https://open.spotify.com/artist/2MNI4W0Pblx8NF4WvutxgA) | [Stunner](https://open.spotify.com/album/736BvsDHIUqd4TQSHQzN0L) | 3:06 |
 
-Snapshot ID: `MTY2MTc1OTAzMCwwMDAwMDAwMGY0YzNlMGVmNTQzNGJkMjQ3ZDk5ZDMxMWRkZmU5ZGQ1`
+Snapshot ID: `MTY2MTc1OTAzMCwwMDAwMDAwMGZhYTg5YTAxZjBiNzE0YjI4YmQ1MGY1OGRjMzFjZjRl`

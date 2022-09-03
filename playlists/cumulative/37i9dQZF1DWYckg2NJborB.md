@@ -4,7 +4,7 @@
 
 > Suffering from writer's block? This collection of writerly and literature\-inspired songs might help!.
 
-116 songs - 8 hr 7 min - [published](https://open.spotify.com/playlist/64uVzxAuR4KY2bjkr5Sgtk)
+117 songs - 8 hr 13 min - [published](https://open.spotify.com/playlist/64uVzxAuR4KY2bjkr5Sgtk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Billy Liar \- Live](https://open.spotify.com/track/5H84IgNRpdyqgCMLteZFfs) | [The Decemberists](https://open.spotify.com/artist/7ITd48RbLVpUfheE7B86o2) | [We All Raise Our Voices to the Air](https://open.spotify.com/album/6r2xiR4Cbu6y22VEKIIITH) | 6:41 | 2018-12-10 | 2022-07-13 |
 | [Black Blade](https://open.spotify.com/track/6z3Z0lMHUoyDxyY8UzvFta) | [Blue Öyster Cult](https://open.spotify.com/artist/00tVTdpEhQQw1bqdu8RCx2) | [The Essential Blue Öyster Cult](https://open.spotify.com/album/6NNrQJ8ojvbfFzoUjjABo4) | 6:29 | 2018-12-10 | 2022-07-22 |
 | [Black Blade](https://open.spotify.com/track/4Nyx3c0IPFITNo42yodlrh) | [Blue Öyster Cult](https://open.spotify.com/artist/00tVTdpEhQQw1bqdu8RCx2) | [Cultosaurus Erectus](https://open.spotify.com/album/2w9ox8f1PSz30Ayanrm9C4) | 6:39 | 2018-12-10 |  |
+| [Books Written For Girls](https://open.spotify.com/track/1f9jTXNHEKHANrZoalrIlx) | [Camera Obscura](https://open.spotify.com/artist/5gInJ5P5gQnOKPM3SUEVFt) | [Underachievers Please Try Harder](https://open.spotify.com/album/5d9FNx7UMLgfiGQGXU19jh) | 5:13 | 2018-12-10 |  |
 | [Books Written for Girls](https://open.spotify.com/track/2XaSDiVqxy1nvjs4LgNgRq) | [Camera Obscura](https://open.spotify.com/artist/5gInJ5P5gQnOKPM3SUEVFt) | [Underachievers Please Try Harder](https://open.spotify.com/album/1eF3PP2snssRgdHetawOMu) | 5:13 | 2018-12-10 | 2022-07-29 |
 | [Breathe](https://open.spotify.com/track/6B7HkOXoB3c0MoXk7C9i07) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [No Line On The Horizon](https://open.spotify.com/album/2cVfcuckyfRP6KVAHsRPHC) | 5:00 | 2018-12-10 | 2022-07-28 |
 | [Calypso \- Live](https://open.spotify.com/track/10kv6ITXZNukjUE1GxJu8N) | [Suzanne Vega](https://open.spotify.com/artist/3X0tJzVYoWlfjLYI0Ridsw) | [Solitude Standing Live 2012](https://open.spotify.com/album/03JBDRjstk0Iil3GRqnSWI) | 4:44 | 2018-12-10 | 2022-07-27 |
@@ -105,7 +106,7 @@
 | [The Sensual World](https://open.spotify.com/track/6xOyeiTQ0tWaYo2wG1XtZc) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [The Sensual World](https://open.spotify.com/album/4ZeZ9B0IZHk0zXB9lxZaGR) | 3:56 | 2018-12-10 | 2022-07-29 |
 | [The Sensual World \- 2018 Remaster](https://open.spotify.com/track/6eVxdX2tQkNmHg7PP1sRbw) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [The Sensual World \(2018 Remaster\)](https://open.spotify.com/album/3k9p0yOIiw3O39chv3fYYO) | 3:57 | 2018-12-10 |  |
 | [The Tea Song](https://open.spotify.com/track/15WaCkvUPrsbWhjzgl12jv) | [Michael Hurley](https://open.spotify.com/artist/3XHvzfKFZkSXEUiZE4WrIz) | [First Songs](https://open.spotify.com/album/1cIR842PuvHfSSQf1QuYRZ) | 7:28 | 2018-12-10 | 2022-08-30 |
-| [The Underwood Typewriter](https://open.spotify.com/track/2pzlZI4C3f1MSMg047bPI6) | [Fionn Regan](https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy) | [The End of History](https://open.spotify.com/album/3lFILJkKAjwlUdSz4wwW4b) | 3:01 | 2018-12-10 |  |
+| [The Underwood Typewriter](https://open.spotify.com/track/2pzlZI4C3f1MSMg047bPI6) | [Fionn Regan](https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy) | [The End of History](https://open.spotify.com/album/3lFILJkKAjwlUdSz4wwW4b) | 3:01 | 2018-12-10 | 2022-09-03 |
 | [The Underwood Typewriter](https://open.spotify.com/track/4ccugwlZ3EWVmPgfsYjCSk) | [Fionn Regan](https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy) | [The End Of History](https://open.spotify.com/album/3AiBzMGzdk5QQWLWRhXUTz) | 3:01 | 2018-12-10 | 2022-07-29 |
 | [The Wild Boys](https://open.spotify.com/track/5qeLeyIWCPe1FpdJLQTUDW) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [Decade](https://open.spotify.com/album/4P6rgSkSEXFGrpTk9NZUAj) | 4:17 | 2018-12-10 |  |
 | [The Writer](https://open.spotify.com/track/0uBWMWm5P6tuCiavbjPWS0) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Lights](https://open.spotify.com/album/4oVG376KpWeBaxrKqRxVri) | 4:11 | 2018-12-10 |  |

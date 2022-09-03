@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-25",
-  "description": "Midwest music breaking waves. Tink",
+  "description": "Midwest music breaking waves. Ohana Bam",
   "name": "Ripple Effect:  Midwest",
   "published_playlist_ids": [
     "57t0qc1oksSiWQYs8DnYvL"
@@ -209,7 +209,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 193072,
       "name": "AKUNA",
       "url": "https://open.spotify.com/track/6y9fIg54gDgqgldH4EMJhf"
@@ -1129,7 +1129,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 221094,
       "name": "Drive By",
       "url": "https://open.spotify.com/track/6THXudILWQ4VZQ3mganpt8"
@@ -1323,7 +1323,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 136469,
       "name": "Five Guys",
       "url": "https://open.spotify.com/track/6PCvjSXZSULzzlFoohAc9l"
@@ -1486,6 +1486,46 @@
     },
     {
       "album": {
+        "name": "Gimme Space",
+        "url": "https://open.spotify.com/album/0RyYJfNhL4YifaGnvo9qQO"
+      },
+      "artists": [
+        {
+          "name": "donSMITH",
+          "url": "https://open.spotify.com/artist/3WO3ZmTFuGjryOViAqhT2M"
+        },
+        {
+          "name": "Mick Jenkins",
+          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191673,
+      "name": "Gimme Space",
+      "url": "https://open.spotify.com/track/2MSEJtE3R2SaM7jAooknT5"
+    },
+    {
+      "album": {
+        "name": "GO GO GO!",
+        "url": "https://open.spotify.com/album/0122L1z0RmowcHYZTg7tLo"
+      },
+      "artists": [
+        {
+          "name": "YSN Flow",
+          "url": "https://open.spotify.com/artist/1je11NKORfLMSjgSNP0DPF"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135440,
+      "name": "GO GO GO!",
+      "url": "https://open.spotify.com/track/6WBOshy2g5d3HiFMCRmsoF"
+    },
+    {
+      "album": {
         "name": "GO OFF (Freestyle)",
         "url": "https://open.spotify.com/album/5Wzfp92BAda4nwzsLbBs9t"
       },
@@ -1573,7 +1613,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 201592,
       "name": "Goofy",
       "url": "https://open.spotify.com/track/1A5hxo3hCF6FxBunEoKWcS"
@@ -1951,7 +1991,7 @@
       ],
       "date_added": "2022-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 123750,
       "name": "Ice Cream (feat. Rick Ross)",
       "url": "https://open.spotify.com/track/2S9oc7DcLyDxKfJ8vY7SDi"
@@ -2490,6 +2530,32 @@
     },
     {
       "album": {
+        "name": "Looking for Water (feat. Boldy James)",
+        "url": "https://open.spotify.com/album/3xeIVO8AdEG1Xhga373Xi6"
+      },
+      "artists": [
+        {
+          "name": "Pink Siifu",
+          "url": "https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh"
+        },
+        {
+          "name": "Real Bad Man",
+          "url": "https://open.spotify.com/artist/1AmknJ29fbA6ahZXxFCNLE"
+        },
+        {
+          "name": "Boldy James",
+          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163850,
+      "name": "Looking for Water (feat. Boldy James)",
+      "url": "https://open.spotify.com/track/3d7ElSqY4RDoqSWe5rJCAc"
+    },
+    {
+      "album": {
         "name": "Love Is",
         "url": "https://open.spotify.com/album/4DLxbIlKs0tYife5roktYN"
       },
@@ -2894,6 +2960,24 @@
     },
     {
       "album": {
+        "name": "No Sombrero",
+        "url": "https://open.spotify.com/album/0CTfD6q0yO84HGsCeHOEYL"
+      },
+      "artists": [
+        {
+          "name": "Sada Baby",
+          "url": "https://open.spotify.com/artist/2JSwnwAT1BupAQkhqcRCUw"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197052,
+      "name": "No Sombrero",
+      "url": "https://open.spotify.com/track/2opW6xGI3lD8wlc8j3EGtd"
+    },
+    {
+      "album": {
         "name": "Continuance",
         "url": "https://open.spotify.com/album/6nOgR17Z6SkfRQ0ygRogTU"
       },
@@ -2939,7 +3023,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 169858,
       "name": "Not Scared",
       "url": "https://open.spotify.com/track/2kxJsMWm69RBY4oJXeXblb"
@@ -3105,6 +3189,28 @@
       "duration_ms": 150813,
       "name": "Oscar",
       "url": "https://open.spotify.com/track/25twZqXp5ivXuuhcoTsoRj"
+    },
+    {
+      "album": {
+        "name": "Pages",
+        "url": "https://open.spotify.com/album/4mt2fPV3Yk3CgsZNiuRHl9"
+      },
+      "artists": [
+        {
+          "name": "Rockie Fresh",
+          "url": "https://open.spotify.com/artist/5Joy3NHmxKQGEOnjxtaMz3"
+        },
+        {
+          "name": "ISM",
+          "url": "https://open.spotify.com/artist/1PmIns535yeirIKo6HpHMe"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112175,
+      "name": "Pages",
+      "url": "https://open.spotify.com/track/10yOU0oIfzz7SxdlQjtBKo"
     },
     {
       "album": {
@@ -3276,6 +3382,28 @@
     },
     {
       "album": {
+        "name": "Q-Pid",
+        "url": "https://open.spotify.com/album/5yDJEZiJ35JKdPcEBEWiYz"
+      },
+      "artists": [
+        {
+          "name": "2Rare",
+          "url": "https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131868,
+      "name": "Q-Pid",
+      "url": "https://open.spotify.com/track/0DgSlDcWG9jRlFZOqRyD0L"
+    },
+    {
+      "album": {
         "name": "Real Bitch (feat. Gloss Up)",
         "url": "https://open.spotify.com/album/6MUUM532DEcR697rck5n90"
       },
@@ -3437,7 +3565,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 91034,
       "name": "Right Quick",
       "url": "https://open.spotify.com/track/6cQj8uV5Cq5JDm8cuQu0cX"
@@ -3561,7 +3689,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 173987,
       "name": "Save Me (feat. Lil Durk)",
       "url": "https://open.spotify.com/track/5HN3ikspb1MOyJ0MMjn55I"
@@ -3985,7 +4113,7 @@
       ],
       "date_added": "2022-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 193983,
       "name": "Sunset Drive - A COLORS SHOW",
       "url": "https://open.spotify.com/track/6LAG03Nr7qRvPSdmrPC5JF"
@@ -4299,6 +4427,28 @@
       "duration_ms": 157683,
       "name": "Too Eazzyy",
       "url": "https://open.spotify.com/track/2xf0DuesbeTevhWIL19H8A"
+    },
+    {
+      "album": {
+        "name": "Too Much (feat. Moneybagg Yo)",
+        "url": "https://open.spotify.com/album/0R87OEh0NzfdjavsrmrGtj"
+      },
+      "artists": [
+        {
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+        },
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188869,
+      "name": "Too Much (feat. Moneybagg Yo)",
+      "url": "https://open.spotify.com/track/7pZeacKYnK4unCplCmI2qb"
     },
     {
       "album": {

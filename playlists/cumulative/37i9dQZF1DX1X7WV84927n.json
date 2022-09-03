@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "For the Hard Rock and full volume lovers. Cover: My Chemical Romance",
+  "description": "For the Hard Rock and full volume lovers. Cover: Electric Callboy",
   "name": "Hard Rock",
   "published_playlist_ids": [
     "2HA2QQOzqVmyF0ys9hz4Cw"
@@ -1252,6 +1252,24 @@
     },
     {
       "album": {
+        "name": "Echolocate Your Love",
+        "url": "https://open.spotify.com/album/6mLQgWO8DFzqT9H8pYVIOu"
+      },
+      "artists": [
+        {
+          "name": "VV",
+          "url": "https://open.spotify.com/artist/5QeGMmMBYG14aeTzkVny1l"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204841,
+      "name": "Echolocate Your Love",
+      "url": "https://open.spotify.com/track/5P37xjNwr4ZgXG4JbsiXqT"
+    },
+    {
+      "album": {
         "name": "Empire Falling",
         "url": "https://open.spotify.com/album/2VBkKGFY8PJgCJumdzwtaI"
       },
@@ -1299,7 +1317,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 237480,
       "name": "ERROR",
       "url": "https://open.spotify.com/track/5On0z2PZjPf5x7eB2afLEf"
@@ -1881,6 +1899,24 @@
       "duration_ms": 196128,
       "name": "Hunter\u2019s Moon",
       "url": "https://open.spotify.com/track/2sOzXOVI7Ia5ima0kLSl7v"
+    },
+    {
+      "album": {
+        "name": "Hurrikan",
+        "url": "https://open.spotify.com/album/3metucRFaJQD1Tx4zVYwLp"
+      },
+      "artists": [
+        {
+          "name": "Electric Callboy",
+          "url": "https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99373,
+      "name": "Hurrikan",
+      "url": "https://open.spotify.com/track/4uBXb5llcXoL231RHUv8JD"
     },
     {
       "album": {
@@ -2937,6 +2973,24 @@
       "duration_ms": 204080,
       "name": "Over and Out (feat Tatiana Shmayluk)",
       "url": "https://open.spotify.com/track/3e99Ikjw71UUC4KZjr4Pux"
+    },
+    {
+      "album": {
+        "name": "Pass The Nirvana",
+        "url": "https://open.spotify.com/album/50eq5hUKnqB9e51D9GSmKs"
+      },
+      "artists": [
+        {
+          "name": "Pierce The Veil",
+          "url": "https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197374,
+      "name": "Pass The Nirvana",
+      "url": "https://open.spotify.com/track/5SDhI2jKg0S5fzEEqPCHiV"
     },
     {
       "album": {
@@ -4777,7 +4831,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 227330,
       "name": "VIOLENT PRINCIPLES",
       "url": "https://open.spotify.com/track/1DIeftYBThGuFnSE0uUv6J"
@@ -5207,7 +5261,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 206460,
       "name": "You Promised Me Love",
       "url": "https://open.spotify.com/track/0WVSpqEmsVyVs64i8Mkn3a"

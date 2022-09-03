@@ -1366,6 +1366,24 @@
     },
     {
       "album": {
+        "name": "Blush",
+        "url": "https://open.spotify.com/album/2WNYwZg6JlIjSkQGq0fggk"
+      },
+      "artists": [
+        {
+          "name": "Imago",
+          "url": "https://open.spotify.com/artist/6MXu7TWZnmykwkXiRJeUMh"
+        }
+      ],
+      "date_added": "2022-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243653,
+      "name": "Sundo",
+      "url": "https://open.spotify.com/track/2OqQDFY4MgzkAoAZ67CscA"
+    },
+    {
+      "album": {
         "name": "Capacities",
         "url": "https://open.spotify.com/album/1QpFitywD6FWjFWvTmLOw9"
       },
@@ -1569,7 +1587,7 @@
       ],
       "date_added": "2022-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 264202,
       "name": "Torete",
       "url": "https://open.spotify.com/track/3nQtkvFMNkRwxjKVAlGPcG"

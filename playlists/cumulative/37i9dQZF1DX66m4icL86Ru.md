@@ -4,7 +4,7 @@
 
 > Bad b\*\*\*\* energy\. Be blessed, be spicy\. Cover: Ktlyn
 
-223 songs - 10 hr 56 min - [published](https://open.spotify.com/playlist/6fHUp4TYDozaapLssJC9LA)
+226 songs - 11 hr 5 min - [published](https://open.spotify.com/playlist/6fHUp4TYDozaapLssJC9LA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [FMRN](https://open.spotify.com/track/08hB2ERJV6A1Ntu3OHgzjh) | [Lilyisthatyou](https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC) | [FMRN](https://open.spotify.com/album/4jfJVKmrG63Cp8DPYDOHCD) | 2:02 | 2021-10-15 | 2022-05-19 |
 | [FOH](https://open.spotify.com/track/35ejSuecREMgIdncECvv1o) | [iyla](https://open.spotify.com/artist/4LXBFNxqvOcdBVpbgKn6op) | [FOH](https://open.spotify.com/album/2SrasLiYiFHqG5uoixqPAF) | 2:20 | 2022-07-22 | 2022-08-06 |
 | [Formation](https://open.spotify.com/track/6g0Orsxv6glTJCt4cHsRsQ) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Lemonade](https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF) | 3:26 | 2022-06-17 | 2022-07-23 |
+| [Freak Like Me \- Spotify Singles](https://open.spotify.com/track/7lxF9OOlLhxslC3BEDIMfB) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Spotify Singles](https://open.spotify.com/album/0aTksyiafCXTH3jbUIkwVs) | 3:08 | 2022-09-02 |  |
 | [Freaky Deaky](https://open.spotify.com/track/3vySEUpD0tc801F2WZDLYw) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Freaky Deaky](https://open.spotify.com/album/05oVghsqITa33yHnbW7uPz) | 3:35 | 2022-03-04 | 2022-07-23 |
 | [Friendzone](https://open.spotify.com/track/5OS46yuAV5pRqeCxrRw7XL) | [Amaria](https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1) | [Bittersweet](https://open.spotify.com/album/5S7129DvkAVp9RbuaS1Ik0) | 3:30 | 2022-01-18 | 2022-02-26 |
 | [fue mejor \(feat\. SZA\)](https://open.spotify.com/track/4AIiCP2scA6jt6jAKfkvTX) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Sin Miedo \(del Amor y Otros Demonios\) ∞ \[Deluxe Version\]](https://open.spotify.com/album/64SrjXrYNfYvQcccFmYEHu) | 3:50 | 2021-12-17 | 2022-02-26 |
@@ -107,6 +108,7 @@
 | [Good Love \(feat\. Usher\)](https://open.spotify.com/track/52JFc40b28XJDROR3c4uAr) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Good Love \(feat\. Usher\)](https://open.spotify.com/album/0OhW9KGuhEaWt5kt9s5qKf) | 3:52 | 2022-07-06 | 2022-07-23 |
 | [Gravity](https://open.spotify.com/track/59QZZyiKJmpEqrOJMDtejn) | [Day Sulan](https://open.spotify.com/artist/5wrJuArO5sOmhl2QJ1Z0sk) | [Gravity](https://open.spotify.com/album/2C5UwRPN346EZUaChnKmYu) | 2:14 | 2022-04-15 | 2022-05-28 |
 | [Grrrls](https://open.spotify.com/track/7Mto5DGHzHXzF1hpsMRtYK) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Grrrls](https://open.spotify.com/album/0qFaO3ORj00440rLfVVbb1) | 2:01 | 2022-06-10 |  |
+| [Hands Up \(with Monaleo\)](https://open.spotify.com/track/51Zw9bJ0i2KlGbbtlkbieR) | [Tay Money](https://open.spotify.com/artist/6R6EfP43F8ZuMcilsE4zs7), [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb) | [Hands Up \(with Monaleo\)](https://open.spotify.com/album/3Ai7fsWfL2WTv2iYo4bFJR) | 3:04 | 2022-09-02 |  |
 | [HATEFUCK](https://open.spotify.com/track/2G6AOP03YY7hCCxvskZLb4) | [Pussy Riot](https://open.spotify.com/artist/2hThsqaVEAWhWPBXnaOfB9), [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [HATEFUCK](https://open.spotify.com/album/2JN7YYzP0l4WkIlHIeFfIa) | 3:16 | 2022-04-15 | 2022-07-09 |
 | [Have Mercy](https://open.spotify.com/track/5SixeLvPsYpk7qq9lo5xYg) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Have Mercy](https://open.spotify.com/album/4N8qhDeqx8AHoEhMnYEC2Y) | 2:28 | 2021-10-15 |  |
 | [Hello \(with Saucy Santana\)](https://open.spotify.com/track/2Ib5LOrfWLHrME2dYtMDxp) | [Tay Money](https://open.spotify.com/artist/6R6EfP43F8ZuMcilsE4zs7), [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23) | [Hello \(with Saucy Santana\)](https://open.spotify.com/album/5EnqzpQ9kXinG5Gs93urB9) | 2:48 | 2022-02-04 | 2022-02-21 |
@@ -168,6 +170,7 @@
 | [PURE/HONEY](https://open.spotify.com/track/4DByEumlGTZKSzuVEZ35eo) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 4:48 | 2022-07-29 | 2022-08-27 |
 | [PUSSY](https://open.spotify.com/track/7ycQto0UwGtuugO5ztmpdO) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [PUSSY](https://open.spotify.com/album/2RJKx64TCTSA1rbwh3C3ib) | 2:21 | 2022-07-15 |  |
 | [Pussy Poppin \(I Don't Really Talk Like This\)](https://open.spotify.com/track/0Hb2KGmwZez23POGBw2Xc2) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Nightmare Vacation](https://open.spotify.com/album/0jJEiaA2W9eFhTXC1EGMqG) | 1:56 | 2021-10-15 | 2022-02-21 |
+| [QUEEN](https://open.spotify.com/track/78uMiBBXyYIzqQgUHI3VT3) | [Mahogany Lox](https://open.spotify.com/artist/1wG6KrT3zgutFeiCddBivH) | [QUEEN](https://open.spotify.com/album/3PF0U1d3GUNeTKS3iZzqSe) | 2:22 | 2022-09-02 |  |
 | [Rodeo](https://open.spotify.com/track/2I8OJsxoaUByoURNACArMC) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [City On Lock](https://open.spotify.com/album/4VzVHSPoh9MP85THaTfYpN) | 2:57 | 2022-01-05 |  |
 | [Rumors \(feat\. Cardi B\)](https://open.spotify.com/track/6KgtcmCF9Ky68XC7ezxl3s) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Rumors \(feat\. Cardi B\)](https://open.spotify.com/album/7jMo8dhMIorHoLlzTisjJy) | 2:52 | 2021-10-15 | 2022-02-09 |
 | [Sad Bitch Bad Bitch](https://open.spotify.com/track/6uTFRlLA96Anvye2KffDqy) | [iyla](https://open.spotify.com/artist/4LXBFNxqvOcdBVpbgKn6op) | [Sad Bitch Bad Bitch](https://open.spotify.com/album/486H8GWo4SNrEGpiIc91VS) | 2:54 | 2022-04-10 |  |

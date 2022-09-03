@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4UeRg7G4h9gxqlonlifPEn.md) - [plain]
 
 > From working out to going out \- turnt mode means bangers only\. Featuring Nardo Wick, Lil Tjay, Rowdy Rebel, Polo G and more\. Cover: Southside, Lil Durk
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 40,760 likes - 102 songs - 5 hr 0 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 40,758 likes - 102 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/4UeRg7G4h9gxqlonlifPEn.md) - [plain]
 | 101 | [ANXIETY](https://open.spotify.com/track/3zpKrqSpX2nr5N2fsAmqR5) | [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [ANXIETY](https://open.spotify.com/album/4urAq6KDiVLZjNGofhWQKm) | 2:16 |
 | 102 | [Call Back](https://open.spotify.com/track/4kVoPa0S4mYNAqa4gWlCQA) | [YNW BSlime](https://open.spotify.com/artist/2KCRLxlHd2OgZG6YAOAcSu) | [Call Back](https://open.spotify.com/album/2UvH6DZlf3SfM3g0doAaGR) | 2:17 |
 
-Snapshot ID: `MzI1NSwwOTFmMTRlYTc1ZmNiYzU2ZDlmYjQwZDVmYWM5ZGEyMzg2OGZkYjIy`
+Snapshot ID: `MzI1NyxmNmU0OTQyZWRjMDNjZGUxZWU2YTFjNTZmMDAxNWM2MDBkZGY2OTgw`

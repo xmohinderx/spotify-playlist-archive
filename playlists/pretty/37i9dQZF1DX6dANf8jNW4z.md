@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dANf8jNW4z.md) - [plain]
 
 > Escucha a estas extraordinarias artistas a todo volumen\. Foto: Zahara
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,720 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,699 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dANf8jNW4z.md) - [plain]
 | 33 | [Contra Quien Luchaba](https://open.spotify.com/track/0sCRO5GfTGQO0lez7gbfFl) | [Najwa](https://open.spotify.com/artist/7dp8dR96gWncIypef8kTnS) | [Contra Quien Luchaba](https://open.spotify.com/album/2UwW2k8tVci4gDMEKTINCV) | 2:46 |
 | 34 | [Enough with the Drama](https://open.spotify.com/track/2eBcQcmP5oOgLkBM4rfvgn) | [Eva McBel](https://open.spotify.com/artist/1eh2IiirE7f7OZmcl20USQ) | [I'm Glad You Happened, Vol\. 3](https://open.spotify.com/album/5pNuieu7yz8szK1C5gtyrd) | 3:20 |
 | 35 | [Renacer](https://open.spotify.com/track/6PGxh2c2iBXUvHchfL7FNo) | [Eva B](https://open.spotify.com/artist/7C6WKCefGMAg2hbx7BNCIq) | [Renacer](https://open.spotify.com/album/6AuB19AqITRiJQzN7hSnif) | 2:23 |
-| 36 | [Si Te Vas](https://open.spotify.com/track/0TunoUk6CZ7jSZ9xIRmi2Q) | [Mafalda](https://open.spotify.com/artist/0FR7DfKshj8fIey8ptWuQp) | [Si Te Vas](https://open.spotify.com/album/0FJs3bMMEPKq27phMCd51m) | 3:18 |
+| 36 | [Si Te Vas](https://open.spotify.com/track/0TunoUk6CZ7jSZ9xIRmi2Q) | [Ona Mafalda](https://open.spotify.com/artist/6HomUrLEVWcZjlXQTEjMyb) | [Si Te Vas](https://open.spotify.com/album/0FJs3bMMEPKq27phMCd51m) | 3:18 |
 | 37 | [Jazmines de Algodón](https://open.spotify.com/track/3x2L67P4TDagokCt52UJFl) | [Ali y Ana](https://open.spotify.com/artist/11JibGTa5znWYLda4atRTV) | [Jazmines de Algodón](https://open.spotify.com/album/0ZRdbmVOpkI7dbZHEowyBL) | 3:49 |
 | 38 | [Calma](https://open.spotify.com/track/2EveawVtMx2VAkiY59ZHrg) | [Sofia Ellar](https://open.spotify.com/artist/0zuqz96cs1dQcxc2FpLPcR) | [Calma](https://open.spotify.com/album/0NLLlZx0j1VBjQbEedeQio) | 3:03 |
 | 39 | [barbie y ken](https://open.spotify.com/track/7ue9VV46MW53M6uslquW76) | [Mafalda](https://open.spotify.com/artist/2YgYz3EyTUJ5h3n5XThtzt) | [barbie y ken](https://open.spotify.com/album/5yqr3WY65ok0uZR022eNnn) | 2:37 |

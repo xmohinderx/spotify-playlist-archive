@@ -1,12 +1,12 @@
 {
   "description": "Welcome to the underground ",
-  "num_followers": 121403,
+  "num_followers": 121760,
   "original_name": "The Skate Shop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDkzNzg5NSwwMDAwMDAwMDYxMTI0Y2YzZjJjYTgyNWVmM2ZjYzc4MmQxY2M4YzMx",
+  "snapshot_id": "MTY2MjE0MzYxOSwwMDAwMDAwMDdkMDM3NmE0MTNlNWRkZmRiMDE4ZjE4MjI5ZjAzMjY4",
   "tracks": [
     {
       "added_at": "2022-05-10 19:26:35",
@@ -349,6 +349,22 @@
       "url": "https://open.spotify.com/track/3GXSywNvYLAVUCtjMHkKDh"
     },
     {
+      "added_at": "2022-09-02 18:33:39",
+      "album": {
+        "name": "Southside",
+        "url": "https://open.spotify.com/album/1bBH7XmYduj4tVTip9zuRo"
+      },
+      "artists": [
+        {
+          "name": "Ashton Travis",
+          "url": "https://open.spotify.com/artist/5QFkhK4qG4aIeYZIWg2DO8"
+        }
+      ],
+      "duration_ms": 201056,
+      "name": "Southside",
+      "url": "https://open.spotify.com/track/5kRAI8FU35oY52jn8xwrI0"
+    },
+    {
       "added_at": "2022-05-10 19:26:35",
       "album": {
         "name": "CALL ME IF YOU GET LOST",
@@ -387,22 +403,6 @@
     {
       "added_at": "2022-05-10 19:26:35",
       "album": {
-        "name": "Illmatic",
-        "url": "https://open.spotify.com/album/3kEtdS2pH6hKcMU9Wioob1"
-      },
-      "artists": [
-        {
-          "name": "Nas",
-          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
-        }
-      ],
-      "duration_ms": 290573,
-      "name": "The World Is Yours",
-      "url": "https://open.spotify.com/track/7G3lxTsMfSx4yarMkfgnTC"
-    },
-    {
-      "added_at": "2022-05-10 19:26:35",
-      "album": {
         "name": "ShapeShifters",
         "url": "https://open.spotify.com/album/3n1YIAhw39MYv3jDuirbc3"
       },
@@ -419,26 +419,18 @@
     {
       "added_at": "2022-05-10 19:26:35",
       "album": {
-        "name": "Alfredo",
-        "url": "https://open.spotify.com/album/3znl1qe13kyjQv7KcR685N"
+        "name": "Illmatic",
+        "url": "https://open.spotify.com/album/3kEtdS2pH6hKcMU9Wioob1"
       },
       "artists": [
         {
-          "name": "Freddie Gibbs",
-          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
-        },
-        {
-          "name": "The Alchemist",
-          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
-        },
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
         }
       ],
-      "duration_ms": 282560,
-      "name": "Something to Rap About (feat. Tyler, The Creator)",
-      "url": "https://open.spotify.com/track/5OkYfk72CNL8XLqa3gp9q7"
+      "duration_ms": 290573,
+      "name": "The World Is Yours",
+      "url": "https://open.spotify.com/track/7G3lxTsMfSx4yarMkfgnTC"
     },
     {
       "added_at": "2022-05-10 19:26:35",
@@ -463,6 +455,30 @@
       "duration_ms": 205250,
       "name": "Lose the Ground (feat. Yu & Tall Black Guy)",
       "url": "https://open.spotify.com/track/69vqqhQ9krPXOso59QUTcw"
+    },
+    {
+      "added_at": "2022-05-10 19:26:35",
+      "album": {
+        "name": "Alfredo",
+        "url": "https://open.spotify.com/album/3znl1qe13kyjQv7KcR685N"
+      },
+      "artists": [
+        {
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        },
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "duration_ms": 282560,
+      "name": "Something to Rap About (feat. Tyler, The Creator)",
+      "url": "https://open.spotify.com/track/5OkYfk72CNL8XLqa3gp9q7"
     },
     {
       "added_at": "2022-05-10 19:26:35",
@@ -577,6 +593,26 @@
       "url": "https://open.spotify.com/track/6nz35DNIzbtj5ztpDEcW1j"
     },
     {
+      "added_at": "2022-06-24 12:00:00",
+      "album": {
+        "name": "Krohmeconut Wolf",
+        "url": "https://open.spotify.com/album/0ZiyrGGvl7aHrEmEfOumZ5"
+      },
+      "artists": [
+        {
+          "name": "Coconut Wolf",
+          "url": "https://open.spotify.com/artist/3XWOW8RLlpjQYpcD3sAIJ5"
+        },
+        {
+          "name": "Krohme",
+          "url": "https://open.spotify.com/artist/6XXtbUbK2Oa1EbIb9Sgtgw"
+        }
+      ],
+      "duration_ms": 146947,
+      "name": "Krohmeconut Wolf",
+      "url": "https://open.spotify.com/track/0DZVkUkr5udpeqlv2lfWdB"
+    },
+    {
       "added_at": "2022-08-12 12:00:00",
       "album": {
         "name": "Strangers (feat. A$AP Rocky and Run The Jewels)",
@@ -603,26 +639,6 @@
       "duration_ms": 248000,
       "name": "Strangers (feat. A$AP Rocky and Run The Jewels)",
       "url": "https://open.spotify.com/track/5iP1KNUxchR64bieN9pE7z"
-    },
-    {
-      "added_at": "2022-06-24 12:00:00",
-      "album": {
-        "name": "Krohmeconut Wolf",
-        "url": "https://open.spotify.com/album/0ZiyrGGvl7aHrEmEfOumZ5"
-      },
-      "artists": [
-        {
-          "name": "Coconut Wolf",
-          "url": "https://open.spotify.com/artist/3XWOW8RLlpjQYpcD3sAIJ5"
-        },
-        {
-          "name": "Krohme",
-          "url": "https://open.spotify.com/artist/6XXtbUbK2Oa1EbIb9Sgtgw"
-        }
-      ],
-      "duration_ms": 146947,
-      "name": "Krohmeconut Wolf",
-      "url": "https://open.spotify.com/track/0DZVkUkr5udpeqlv2lfWdB"
     },
     {
       "added_at": "2022-05-10 19:26:35",
@@ -811,18 +827,18 @@
     {
       "added_at": "2022-05-10 19:26:35",
       "album": {
-        "name": "Midnight Marauders",
-        "url": "https://open.spotify.com/album/4v5x3Oo3UjQ9YmF3hRAip5"
+        "name": "Reachin' (A New Refutation Of Time And Space)",
+        "url": "https://open.spotify.com/album/5snUbps5KleLIP0cVI72lP"
       },
       "artists": [
         {
-          "name": "A Tribe Called Quest",
-          "url": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
+          "name": "Digable Planets",
+          "url": "https://open.spotify.com/artist/0gqIrDRL7CEPBWMmkuZPdQ"
         }
       ],
-      "duration_ms": 243800,
-      "name": "Electric Relaxation",
-      "url": "https://open.spotify.com/track/32WDVNZXIAuu7EqncTTKjH"
+      "duration_ms": 275342,
+      "name": "Where I'm From",
+      "url": "https://open.spotify.com/track/1962ZwEY7WNQLcmYFn3eR9"
     },
     {
       "added_at": "2022-05-10 19:26:35",
@@ -843,34 +859,38 @@
     {
       "added_at": "2022-05-10 19:26:35",
       "album": {
-        "name": "Pieces of a Man",
-        "url": "https://open.spotify.com/album/2YUoojiwp6nk5mBAUbEz9a"
+        "name": "Midnight Marauders",
+        "url": "https://open.spotify.com/album/4v5x3Oo3UjQ9YmF3hRAip5"
       },
       "artists": [
         {
-          "name": "Mick Jenkins",
-          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+          "name": "A Tribe Called Quest",
+          "url": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
         }
       ],
-      "duration_ms": 208570,
-      "name": "Understood",
-      "url": "https://open.spotify.com/track/0TUK4LKkHVHdsLwscQckX6"
+      "duration_ms": 243800,
+      "name": "Electric Relaxation",
+      "url": "https://open.spotify.com/track/32WDVNZXIAuu7EqncTTKjH"
     },
     {
       "added_at": "2022-05-10 19:26:35",
       "album": {
-        "name": "Reachin' (A New Refutation Of Time And Space)",
-        "url": "https://open.spotify.com/album/5snUbps5KleLIP0cVI72lP"
+        "name": "Blunted On Reality",
+        "url": "https://open.spotify.com/album/0SHdsrvo4oGJiUlYLaqCcu"
       },
       "artists": [
         {
-          "name": "Digable Planets",
-          "url": "https://open.spotify.com/artist/0gqIrDRL7CEPBWMmkuZPdQ"
+          "name": "Fugees",
+          "url": "https://open.spotify.com/artist/2WKdxPFRD7IqZvlIAvhMgY"
+        },
+        {
+          "name": "Salaam Remi",
+          "url": "https://open.spotify.com/artist/0rlS0SzVFk8BoiAW0fGBbN"
         }
       ],
-      "duration_ms": 275342,
-      "name": "Where I'm From",
-      "url": "https://open.spotify.com/track/1962ZwEY7WNQLcmYFn3eR9"
+      "duration_ms": 322066,
+      "name": "Nappy Heads - Remix",
+      "url": "https://open.spotify.com/track/0hKr166QnNZ0a37G4UO0VY"
     },
     {
       "added_at": "2022-05-10 19:26:35",
@@ -911,22 +931,18 @@
     {
       "added_at": "2022-05-10 19:26:35",
       "album": {
-        "name": "Blunted On Reality",
-        "url": "https://open.spotify.com/album/0SHdsrvo4oGJiUlYLaqCcu"
+        "name": "Pieces of a Man",
+        "url": "https://open.spotify.com/album/2YUoojiwp6nk5mBAUbEz9a"
       },
       "artists": [
         {
-          "name": "Fugees",
-          "url": "https://open.spotify.com/artist/2WKdxPFRD7IqZvlIAvhMgY"
-        },
-        {
-          "name": "Salaam Remi",
-          "url": "https://open.spotify.com/artist/0rlS0SzVFk8BoiAW0fGBbN"
+          "name": "Mick Jenkins",
+          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
         }
       ],
-      "duration_ms": 322066,
-      "name": "Nappy Heads - Remix",
-      "url": "https://open.spotify.com/track/0hKr166QnNZ0a37G4UO0VY"
+      "duration_ms": 208570,
+      "name": "Understood",
+      "url": "https://open.spotify.com/track/0TUK4LKkHVHdsLwscQckX6"
     },
     {
       "added_at": "2022-06-24 12:00:00",
@@ -943,6 +959,22 @@
       "duration_ms": 98720,
       "name": "Time: The Donut of the Heart",
       "url": "https://open.spotify.com/track/6ywnTBL62OTd8HUaztJizb"
+    },
+    {
+      "added_at": "2022-05-10 19:26:35",
+      "album": {
+        "name": "Reachin' (A New Refutation Of Time And Space)",
+        "url": "https://open.spotify.com/album/5snUbps5KleLIP0cVI72lP"
+      },
+      "artists": [
+        {
+          "name": "Digable Planets",
+          "url": "https://open.spotify.com/artist/0gqIrDRL7CEPBWMmkuZPdQ"
+        }
+      ],
+      "duration_ms": 271373,
+      "name": "Pacifics (Sdtrk \"N.Y. Is Red Hot\")",
+      "url": "https://open.spotify.com/track/5esVkhazOeanQVdlJUkNpY"
     },
     {
       "added_at": "2022-05-27 13:52:51",
@@ -971,22 +1003,6 @@
       "duration_ms": 202338,
       "name": "Orville (feat. Like, Blu & Exile)",
       "url": "https://open.spotify.com/track/5eURoU1GtJypHBQJTXWTPN"
-    },
-    {
-      "added_at": "2022-05-10 19:26:35",
-      "album": {
-        "name": "Reachin' (A New Refutation Of Time And Space)",
-        "url": "https://open.spotify.com/album/5snUbps5KleLIP0cVI72lP"
-      },
-      "artists": [
-        {
-          "name": "Digable Planets",
-          "url": "https://open.spotify.com/artist/0gqIrDRL7CEPBWMmkuZPdQ"
-        }
-      ],
-      "duration_ms": 271373,
-      "name": "Pacifics (Sdtrk \"N.Y. Is Red Hot\")",
-      "url": "https://open.spotify.com/track/5esVkhazOeanQVdlJUkNpY"
     },
     {
       "added_at": "2022-05-10 19:26:35",
@@ -1059,6 +1075,22 @@
     {
       "added_at": "2022-05-10 19:26:35",
       "album": {
+        "name": "Donuts",
+        "url": "https://open.spotify.com/album/5fMlysqhFE0itGn4KezMBW"
+      },
+      "artists": [
+        {
+          "name": "J Dilla",
+          "url": "https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp"
+        }
+      ],
+      "duration_ms": 71666,
+      "name": "Welcome To The Show",
+      "url": "https://open.spotify.com/track/6YbfTiImEm6kH6gRXpdtgR"
+    },
+    {
+      "added_at": "2022-05-10 19:26:35",
+      "album": {
         "name": "Below the Heavens",
         "url": "https://open.spotify.com/album/2OnNdRdzqs0Xe6VU2uGdPe"
       },
@@ -1075,22 +1107,6 @@
       "duration_ms": 265826,
       "name": "Dancing In The Rain",
       "url": "https://open.spotify.com/track/5BegRQCcJu4trXT6PPdih9"
-    },
-    {
-      "added_at": "2022-05-10 19:26:35",
-      "album": {
-        "name": "Donuts",
-        "url": "https://open.spotify.com/album/5fMlysqhFE0itGn4KezMBW"
-      },
-      "artists": [
-        {
-          "name": "J Dilla",
-          "url": "https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp"
-        }
-      ],
-      "duration_ms": 71666,
-      "name": "Welcome To The Show",
-      "url": "https://open.spotify.com/track/6YbfTiImEm6kH6gRXpdtgR"
     },
     {
       "added_at": "2022-05-10 19:26:35",
@@ -1213,6 +1229,26 @@
       "url": "https://open.spotify.com/track/4Krp00IGilA38asZUpGDYu"
     },
     {
+      "added_at": "2022-05-10 19:26:35",
+      "album": {
+        "name": "This Thing Of Ours 2",
+        "url": "https://open.spotify.com/album/0bFVjwPABfPBSWimES0TJ6"
+      },
+      "artists": [
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        },
+        {
+          "name": "Vince Staples",
+          "url": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
+        }
+      ],
+      "duration_ms": 114092,
+      "name": "6 Five Heartbeats (feat. Vince Staples)",
+      "url": "https://open.spotify.com/track/5psl7bZImUdYdKfajE2r2v"
+    },
+    {
       "added_at": "2022-05-13 12:00:00",
       "album": {
         "name": "The Big Picture",
@@ -1265,26 +1301,6 @@
       "url": "https://open.spotify.com/track/5JPCZLbqNBonKhC53JPu4A"
     },
     {
-      "added_at": "2022-05-10 19:26:35",
-      "album": {
-        "name": "This Thing Of Ours 2",
-        "url": "https://open.spotify.com/album/0bFVjwPABfPBSWimES0TJ6"
-      },
-      "artists": [
-        {
-          "name": "The Alchemist",
-          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
-        },
-        {
-          "name": "Vince Staples",
-          "url": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
-        }
-      ],
-      "duration_ms": 114092,
-      "name": "6 Five Heartbeats (feat. Vince Staples)",
-      "url": "https://open.spotify.com/track/5psl7bZImUdYdKfajE2r2v"
-    },
-    {
       "added_at": "2022-05-27 12:00:00",
       "album": {
         "name": "Carry Me Home",
@@ -1299,58 +1315,6 @@
       "duration_ms": 132000,
       "name": "Carry Me Home",
       "url": "https://open.spotify.com/track/0jQPVM41l6xWzynX7mIflu"
-    },
-    {
-      "added_at": "2022-05-13 12:00:00",
-      "album": {
-        "name": "No Gold Teeth",
-        "url": "https://open.spotify.com/album/28OxWmVjHYrgAW99Pxiq5A"
-      },
-      "artists": [
-        {
-          "name": "Danger Mouse",
-          "url": "https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf"
-        },
-        {
-          "name": "Black Thought",
-          "url": "https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo"
-        }
-      ],
-      "duration_ms": 153600,
-      "name": "No Gold Teeth",
-      "url": "https://open.spotify.com/track/7xAfS5dttCDl09bOdXAmY5"
-    },
-    {
-      "added_at": "2022-05-10 19:26:35",
-      "album": {
-        "name": "Clockers (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0KtWSWHsL4CLKeIT8woUKC"
-      },
-      "artists": [
-        {
-          "name": "Crooklyn Dodgers",
-          "url": "https://open.spotify.com/artist/4FjR5GmNXYr2RKHVOXTP7e"
-        }
-      ],
-      "duration_ms": 304840,
-      "name": "Return of The Crooklyn Dodgers",
-      "url": "https://open.spotify.com/track/57iKOKfcj8wVZp6Il1wU4f"
-    },
-    {
-      "added_at": "2022-05-10 19:26:35",
-      "album": {
-        "name": "Apt. 505",
-        "url": "https://open.spotify.com/album/2f9OKBlHW6ZcJ11cutOCGf"
-      },
-      "artists": [
-        {
-          "name": "Coast Contra",
-          "url": "https://open.spotify.com/artist/4xZTKft62AsF0SC3rAuYwJ"
-        }
-      ],
-      "duration_ms": 256595,
-      "name": "Pimpin' Benjamin",
-      "url": "https://open.spotify.com/track/6ARnCOTlWlCroasGYHAFNi"
     },
     {
       "added_at": "2022-05-13 12:00:00",
@@ -1371,6 +1335,58 @@
       "duration_ms": 166640,
       "name": "My Favorite Ladies",
       "url": "https://open.spotify.com/track/1BQ7NbAotfutwilc1ErwYz"
+    },
+    {
+      "added_at": "2022-05-10 19:26:35",
+      "album": {
+        "name": "Apt. 505",
+        "url": "https://open.spotify.com/album/2f9OKBlHW6ZcJ11cutOCGf"
+      },
+      "artists": [
+        {
+          "name": "Coast Contra",
+          "url": "https://open.spotify.com/artist/4xZTKft62AsF0SC3rAuYwJ"
+        }
+      ],
+      "duration_ms": 256595,
+      "name": "Pimpin' Benjamin",
+      "url": "https://open.spotify.com/track/6ARnCOTlWlCroasGYHAFNi"
+    },
+    {
+      "added_at": "2022-05-10 19:26:35",
+      "album": {
+        "name": "Clockers (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0KtWSWHsL4CLKeIT8woUKC"
+      },
+      "artists": [
+        {
+          "name": "Crooklyn Dodgers",
+          "url": "https://open.spotify.com/artist/4FjR5GmNXYr2RKHVOXTP7e"
+        }
+      ],
+      "duration_ms": 304840,
+      "name": "Return of The Crooklyn Dodgers",
+      "url": "https://open.spotify.com/track/57iKOKfcj8wVZp6Il1wU4f"
+    },
+    {
+      "added_at": "2022-05-13 12:00:00",
+      "album": {
+        "name": "No Gold Teeth",
+        "url": "https://open.spotify.com/album/28OxWmVjHYrgAW99Pxiq5A"
+      },
+      "artists": [
+        {
+          "name": "Danger Mouse",
+          "url": "https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf"
+        },
+        {
+          "name": "Black Thought",
+          "url": "https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo"
+        }
+      ],
+      "duration_ms": 153600,
+      "name": "No Gold Teeth",
+      "url": "https://open.spotify.com/track/7xAfS5dttCDl09bOdXAmY5"
     },
     {
       "added_at": "2022-05-10 19:26:35",
@@ -1481,22 +1497,6 @@
       "url": "https://open.spotify.com/track/3jj5c4DGogPb9xglsxl4BI"
     },
     {
-      "added_at": "2022-06-24 12:00:00",
-      "album": {
-        "name": "DRILL MUSIC IN ZION",
-        "url": "https://open.spotify.com/album/1SkHVsBV7qIfKx0mdVuxbV"
-      },
-      "artists": [
-        {
-          "name": "Lupe Fiasco",
-          "url": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
-        }
-      ],
-      "duration_ms": 271883,
-      "name": "DRILL MUSIC IN ZION",
-      "url": "https://open.spotify.com/track/7tTwAwHz8pDZOt2WVI8fmH"
-    },
-    {
       "added_at": "2022-05-10 19:26:35",
       "album": {
         "name": "Cocodrillo Turbo",
@@ -1517,6 +1517,22 @@
       "url": "https://open.spotify.com/track/3RkZ88ENyaY9WRC2yMAUQ0"
     },
     {
+      "added_at": "2022-06-24 12:00:00",
+      "album": {
+        "name": "DRILL MUSIC IN ZION",
+        "url": "https://open.spotify.com/album/1SkHVsBV7qIfKx0mdVuxbV"
+      },
+      "artists": [
+        {
+          "name": "Lupe Fiasco",
+          "url": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
+        }
+      ],
+      "duration_ms": 271883,
+      "name": "DRILL MUSIC IN ZION",
+      "url": "https://open.spotify.com/track/7tTwAwHz8pDZOt2WVI8fmH"
+    },
+    {
       "added_at": "2022-06-10 12:00:00",
       "album": {
         "name": "The Infamous",
@@ -1535,22 +1551,6 @@
       "duration_ms": 285866,
       "name": "Drink Away the Pain (Situations) (feat. Q-Tip)",
       "url": "https://open.spotify.com/track/4GdKi4F976XGtr8hedHEro"
-    },
-    {
-      "added_at": "2022-07-22 04:00:00",
-      "album": {
-        "name": "Black On Both Sides",
-        "url": "https://open.spotify.com/album/5gK2l2LgWY0BA4p9uy27z6"
-      },
-      "artists": [
-        {
-          "name": "Mos Def",
-          "url": "https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO"
-        }
-      ],
-      "duration_ms": 309986,
-      "name": "Brooklyn",
-      "url": "https://open.spotify.com/track/4TIaZQlv6wM07hTc3uHSVV"
     },
     {
       "added_at": "2022-05-10 19:26:35",
@@ -1577,6 +1577,22 @@
       "url": "https://open.spotify.com/track/12h2DHtHRrxrhe1mc5QmKm"
     },
     {
+      "added_at": "2022-07-22 04:00:00",
+      "album": {
+        "name": "Black On Both Sides",
+        "url": "https://open.spotify.com/album/5gK2l2LgWY0BA4p9uy27z6"
+      },
+      "artists": [
+        {
+          "name": "Mos Def",
+          "url": "https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO"
+        }
+      ],
+      "duration_ms": 309986,
+      "name": "Brooklyn",
+      "url": "https://open.spotify.com/track/4TIaZQlv6wM07hTc3uHSVV"
+    },
+    {
       "added_at": "2022-05-10 19:26:35",
       "album": {
         "name": "Makeda",
@@ -1591,6 +1607,26 @@
       "duration_ms": 96067,
       "name": "Makeda",
       "url": "https://open.spotify.com/track/32vb0qbbgiZbOkl2N22rIK"
+    },
+    {
+      "added_at": "2022-05-10 19:26:35",
+      "album": {
+        "name": "Gravity",
+        "url": "https://open.spotify.com/album/0sEPccly7DscAcT4VrWpvT"
+      },
+      "artists": [
+        {
+          "name": "Bush Babees",
+          "url": "https://open.spotify.com/artist/35uD3ZeLUoniBBQhiWQGCu"
+        },
+        {
+          "name": "Mos Def",
+          "url": "https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO"
+        }
+      ],
+      "duration_ms": 280220,
+      "name": "The Love Song",
+      "url": "https://open.spotify.com/track/73Dlr72hp7aI3wTpp5tftn"
     },
     {
       "added_at": "2022-08-05 12:00:00",
@@ -1631,26 +1667,6 @@
     {
       "added_at": "2022-05-10 19:26:35",
       "album": {
-        "name": "Gravity",
-        "url": "https://open.spotify.com/album/0sEPccly7DscAcT4VrWpvT"
-      },
-      "artists": [
-        {
-          "name": "Bush Babees",
-          "url": "https://open.spotify.com/artist/35uD3ZeLUoniBBQhiWQGCu"
-        },
-        {
-          "name": "Mos Def",
-          "url": "https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO"
-        }
-      ],
-      "duration_ms": 280220,
-      "name": "The Love Song",
-      "url": "https://open.spotify.com/track/73Dlr72hp7aI3wTpp5tftn"
-    },
-    {
-      "added_at": "2022-05-10 19:26:35",
-      "album": {
         "name": "Fantastic, Vol. 2.10",
         "url": "https://open.spotify.com/album/3bF7UefpUmG1BAriPPLLez"
       },
@@ -1663,6 +1679,22 @@
       "duration_ms": 209119,
       "name": "Hustle",
       "url": "https://open.spotify.com/track/0Q5lwuDqIW85PupgHFJwVb"
+    },
+    {
+      "added_at": "2022-05-10 19:26:35",
+      "album": {
+        "name": "Faygo Baby",
+        "url": "https://open.spotify.com/album/7KEDYDcAcnzssHuuSjivNK"
+      },
+      "artists": [
+        {
+          "name": "Kipp Stone",
+          "url": "https://open.spotify.com/artist/3KSsoLvVR3TTJpzRReIs3X"
+        }
+      ],
+      "duration_ms": 202193,
+      "name": "Faygo Baby",
+      "url": "https://open.spotify.com/track/7FShuykT2X15PNUHBBWbGP"
     },
     {
       "added_at": "2022-05-10 19:26:35",
@@ -1695,22 +1727,6 @@
       "duration_ms": 174401,
       "name": "GOOD TO BE HOME II",
       "url": "https://open.spotify.com/track/2BcHRkwWWAcucXyFlI8kDA"
-    },
-    {
-      "added_at": "2022-05-10 19:26:35",
-      "album": {
-        "name": "Faygo Baby",
-        "url": "https://open.spotify.com/album/7KEDYDcAcnzssHuuSjivNK"
-      },
-      "artists": [
-        {
-          "name": "Kipp Stone",
-          "url": "https://open.spotify.com/artist/3KSsoLvVR3TTJpzRReIs3X"
-        }
-      ],
-      "duration_ms": 202193,
-      "name": "Faygo Baby",
-      "url": "https://open.spotify.com/track/7FShuykT2X15PNUHBBWbGP"
     },
     {
       "added_at": "2022-05-10 19:26:35",
@@ -1757,22 +1773,6 @@
       "url": "https://open.spotify.com/track/1xrJeIsj8aeAH6BTwo8UIt"
     },
     {
-      "added_at": "2022-05-27 13:52:51",
-      "album": {
-        "name": "Yod Stewart",
-        "url": "https://open.spotify.com/album/4NoXIbNMpg24qQw7Pc70y6"
-      },
-      "artists": [
-        {
-          "name": "Your Old Droog",
-          "url": "https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp"
-        }
-      ],
-      "duration_ms": 197410,
-      "name": "Nightmares And Dreams",
-      "url": "https://open.spotify.com/track/756fnIk0VMH2PTLjnVO7eR"
-    },
-    {
       "added_at": "2022-07-22 04:00:00",
       "album": {
         "name": "Beep",
@@ -1817,6 +1817,22 @@
       "url": "https://open.spotify.com/track/6eeG2PFxH0rFmLoK3hGGZH"
     },
     {
+      "added_at": "2022-05-27 13:52:51",
+      "album": {
+        "name": "Yod Stewart",
+        "url": "https://open.spotify.com/album/4NoXIbNMpg24qQw7Pc70y6"
+      },
+      "artists": [
+        {
+          "name": "Your Old Droog",
+          "url": "https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp"
+        }
+      ],
+      "duration_ms": 197410,
+      "name": "Nightmares And Dreams",
+      "url": "https://open.spotify.com/track/756fnIk0VMH2PTLjnVO7eR"
+    },
+    {
       "added_at": "2022-05-20 12:00:00",
       "album": {
         "name": "Deathfame",
@@ -1831,22 +1847,6 @@
       "duration_ms": 205428,
       "name": "DEATHFAME",
       "url": "https://open.spotify.com/track/30jfHyUlszF66IV2xlp8BM"
-    },
-    {
-      "added_at": "2022-07-08 12:00:00",
-      "album": {
-        "name": "Lyrics to GO, Vol. 3",
-        "url": "https://open.spotify.com/album/6uQIKqptioiaZyCyOBTKJv"
-      },
-      "artists": [
-        {
-          "name": "Kota the Friend",
-          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
-        }
-      ],
-      "duration_ms": 68830,
-      "name": "Cherry Beach",
-      "url": "https://open.spotify.com/track/5E4saQ3z3Dwj1vpauqEqsL"
     },
     {
       "added_at": "2022-05-10 19:26:35",
@@ -1865,6 +1865,22 @@
       "url": "https://open.spotify.com/track/4lKmBs5dS81vXwJ2FsMbWE"
     },
     {
+      "added_at": "2022-07-08 12:00:00",
+      "album": {
+        "name": "Lyrics to GO, Vol. 3",
+        "url": "https://open.spotify.com/album/6uQIKqptioiaZyCyOBTKJv"
+      },
+      "artists": [
+        {
+          "name": "Kota the Friend",
+          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
+        }
+      ],
+      "duration_ms": 68830,
+      "name": "Cherry Beach",
+      "url": "https://open.spotify.com/track/5E4saQ3z3Dwj1vpauqEqsL"
+    },
+    {
       "added_at": "2022-05-20 12:00:00",
       "album": {
         "name": "Hold On",
@@ -1881,44 +1897,20 @@
       "url": "https://open.spotify.com/track/596etLASQapOGD4iOcYJOk"
     },
     {
-      "added_at": "2022-07-22 04:00:00",
+      "added_at": "2022-05-10 19:26:35",
       "album": {
-        "name": "DETOUR",
-        "url": "https://open.spotify.com/album/1KiKu9EVMwWsfEokM3fS1S"
+        "name": "Space Bar",
+        "url": "https://open.spotify.com/album/02Yj1IHvflANtrNWNekHTt"
       },
       "artists": [
         {
-          "name": "Malik Elijah",
-          "url": "https://open.spotify.com/artist/1go10OxHP4fyGsyWfJcFEh"
-        },
-        {
-          "name": "Kipp Stone",
-          "url": "https://open.spotify.com/artist/3KSsoLvVR3TTJpzRReIs3X"
-        },
-        {
-          "name": "Uni*",
-          "url": "https://open.spotify.com/artist/6w8bAtk0C32PGrhx2Xv02c"
+          "name": "Your Old Droog",
+          "url": "https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp"
         }
       ],
-      "duration_ms": 216774,
-      "name": "WHENITSTIME",
-      "url": "https://open.spotify.com/track/6AiY3yvV6mc1DQgPEhDhUv"
-    },
-    {
-      "added_at": "2022-05-27 12:00:00",
-      "album": {
-        "name": "Refills",
-        "url": "https://open.spotify.com/album/7rxVdoLd8NdMMvLJ0ibUss"
-      },
-      "artists": [
-        {
-          "name": "Trapo",
-          "url": "https://open.spotify.com/artist/1ajTetyk95Ba8KUEYn7PT4"
-        }
-      ],
-      "duration_ms": 247719,
-      "name": "Refills",
-      "url": "https://open.spotify.com/track/52WfTHyb9QU937CpWBeN4I"
+      "duration_ms": 147031,
+      "name": "Cosmonaut",
+      "url": "https://open.spotify.com/track/2Lt9iwXSIbQBEgWvQe0Dxa"
     }
   ],
   "unique_name": "The Skate Shop",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVo4cdnikh7Z.md) - [plain]
 
 > New Music from Kollywood.<br/>Cover : Prince
 
-[Spotify](https://open.spotify.com/user/spotify) - 365,705 likes - 74 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 366,419 likes - 74 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1rZf8gLhyz.md) - [plain]
 
 ### [Jazz for Sleep](https://open.spotify.com/playlist/37i9dQZF1DXa1rZf8gLhyz)
 
-> Let these jazz tracks lull you to sleep.
+> Let these calm jazz tracks lull you to sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 963,865 likes - 154 songs - 8 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 963,429 likes - 154 songs - 8 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -163,4 +163,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1rZf8gLhyz.md) - [plain]
 | 153 | [Here's That Rainy Day](https://open.spotify.com/track/08zG2Lrqlfp3ldWVzEbnjc) | [Dee Burton](https://open.spotify.com/artist/0Rthp208KPBZuFO10YIVkL) | [Here's That Rainy Day](https://open.spotify.com/album/2BLTJotFjrXROaxkzPgqnh) | 4:19 |
 | 154 | [In A Sentimental Mood](https://open.spotify.com/track/2RJQsdpr5CzWzRA8mYx1ur) | [Stan Stead](https://open.spotify.com/artist/7AqhE9vlxr6U5KpdDP1PzD) | [In A Sentimental Mood](https://open.spotify.com/album/3t5hzRfv1qKoIgTRCh7Aan) | 2:52 |
 
-Snapshot ID: `MTY2MTc4MzAxOSwwMDAwMDAwMDQxOTRmMGVkODA4ZGFmY2M3YjQ3NDY0NGIyN2IwZDdm`
+Snapshot ID: `MTY2MjEyMjE5OSwwMDAwMDAwMDhiODIzMTMxZGNkYmQ4ZDIyZjc4Yzg2MzM2ZGJmNjlj`

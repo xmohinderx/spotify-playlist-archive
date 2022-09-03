@@ -4,7 +4,7 @@
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: Bialystocks
 
-387 songs - 23 hr 19 min - [published](https://open.spotify.com/playlist/3egMOJl8BjDmQKjIUlEPsP)
+388 songs - 23 hr 22 min - [published](https://open.spotify.com/playlist/3egMOJl8BjDmQKjIUlEPsP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,6 +200,7 @@
 | [the wire](https://open.spotify.com/track/1YcIUoRRC2gtPa5HN87idh) | [ego apartment](https://open.spotify.com/artist/20SNDAIdUW3fjTA14UvSj4) | [EGO APARTMENT](https://open.spotify.com/album/2eY4Vn0kpCGAIg58PlT8yB) | 3:38 | 2022-08-23 |  |
 | [the wire](https://open.spotify.com/track/3FKAW8AaZmFYthqHvGg1hT) | [ego apartment](https://open.spotify.com/artist/20SNDAIdUW3fjTA14UvSj4) | [the wire](https://open.spotify.com/album/653dQi5wRhgX38vQSOe96i) | 3:38 | 2022-04-27 | 2022-05-18 |
 | [This Way](https://open.spotify.com/track/3kvSdSr7h0KOn7FDFhAXLT) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [Chilli Beans.](https://open.spotify.com/album/4eAn8XoBrzPRhzNGTctv4O) | 2:34 | 2022-07-12 |  |
+| [Todai](https://open.spotify.com/track/6O75NV4KyMzh47TS9Zow5m) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Todai](https://open.spotify.com/album/4hE6Ux4bskxZzUV7HKbIES) | 2:57 | 2022-09-01 |  |
 | [toi et moi](https://open.spotify.com/track/24Hi2CcDwU5u8ft1tdaybX) | [Misato Ono](https://open.spotify.com/artist/6ksgv4sgEwgX9IjBuWR4AZ), [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK) | [something invisible](https://open.spotify.com/album/5wl4BNy1DLACFO0aE4S4oq) | 3:36 | 2022-05-10 | 2022-06-01 |
 | [tokyo \(feat\. 鈴木真海子, Skaai\)](https://open.spotify.com/track/3tL2fCJDegsWrsCZEZTf82) | [yonawo](https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ), [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E), [Mamiko Suzuki](https://open.spotify.com/artist/21bkNzNX7do9qb8SM9wFQF) | [tokyo \(feat\. 鈴木真海子, Skaai\)](https://open.spotify.com/album/0HAFkJH7wyUpNEZJMB6pP6) | 5:03 | 2022-07-26 |  |
 | [Tremolo](https://open.spotify.com/track/3kIFJsq83ecH3ingfUXVMZ) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [Daydream](https://open.spotify.com/album/7djGvLAgTKtlV9s9MXAXkV) | 3:11 | 2022-03-01 | 2022-04-13 |
@@ -356,7 +357,7 @@
 | [深夜徘徊](https://open.spotify.com/track/4eW39rkFgCZ31dPTsbT3cz) | [R+...](https://open.spotify.com/artist/0h64O16J1F4o7wfmOBhN32) | [深夜徘徊](https://open.spotify.com/album/09lUXmuYLgFciEYNns0Nuy) | 2:51 | 2022-05-10 | 2022-05-25 |
 | [渋谷](https://open.spotify.com/track/6r7UWUoUuGwuF7WREfVPfW) | [イトハ](https://open.spotify.com/artist/2FvMNFgv7sVbpbA32TK2Mq) | [渋谷](https://open.spotify.com/album/7mL7yin2dbHNaCdMIcaKTA) | 4:16 | 2022-04-05 | 2022-04-13 |
 | [濡溶](https://open.spotify.com/track/7GW6IgNWf23xbwyQ3rfwNR) | [新東京](https://open.spotify.com/artist/4z1tFGABx36ganyB3MZEK0) | [濡溶](https://open.spotify.com/album/0OSmMCfoplA3Rqpevs7Dqu) | 1:34 | 2022-02-22 | 2022-03-30 |
-| [灯台](https://open.spotify.com/track/0rWizJ6KV5Wna8dPdXB5CU) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [灯台](https://open.spotify.com/album/7HkIv5XkyvMwR3DXz5mmwk) | 2:57 | 2022-09-01 |  |
+| [灯台](https://open.spotify.com/track/0rWizJ6KV5Wna8dPdXB5CU) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [灯台](https://open.spotify.com/album/7HkIv5XkyvMwR3DXz5mmwk) | 2:57 | 2022-09-01 | 2022-09-03 |
 | [灰になって空に舞う](https://open.spotify.com/track/0cv01P6YagCS2AzVJ7Zm53) | [BURNABLE/UNBURNABLE](https://open.spotify.com/artist/18gC8b8KN9bId452Xdbl3p) | [灰になって空に舞う](https://open.spotify.com/album/42O4d68FPjGsellVrCxJBp) | 2:50 | 2022-04-12 | 2022-05-18 |
 | [煙](https://open.spotify.com/track/7dGYY5OqFqcHCGfXANJpnd) | [ナカムラマユ](https://open.spotify.com/artist/0SEwHBIuSqJzE4b8OrOlKz) | [煙](https://open.spotify.com/album/3bcnckNl3V1iMXQnKXd3NG) | 3:40 | 2022-04-27 | 2022-05-20 |
 | [熱帯夜](https://open.spotify.com/track/112kowSRpto8kuq8ZJYkWc) | [swim swim](https://open.spotify.com/artist/2se9xMe6mXRqmRQD8jmNpf) | [熱帯夜](https://open.spotify.com/album/3BiSgv3GdEveK9Mt2nlXtL) | 4:04 | 2022-08-16 |  |

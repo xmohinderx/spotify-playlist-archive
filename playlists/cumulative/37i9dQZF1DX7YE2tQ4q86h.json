@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-19",
-  "description": "Welcome to my museum of brutality! Like this, you'll love <a href=\"spotify:playlist:37i9dQZF1DX1SbnWqcjJBz\">DESERVED</a>. Cover:  Lady Gaga",
+  "description": "Screaming, crying, throwing up! Like this, you'll love <a href=\"spotify:playlist:37i9dQZF1DX1SbnWqcjJBz\">DESERVED</a>. Cover:  Ava Max",
   "name": "OBSESSED",
   "published_playlist_ids": [
     "3PlypPTy0dmRQm3XnaWpH4"
@@ -297,6 +297,24 @@
       "duration_ms": 181760,
       "name": "Animal",
       "url": "https://open.spotify.com/track/3WdijbYmphZ8N0MYblXDnF"
+    },
+    {
+      "album": {
+        "name": "HARD",
+        "url": "https://open.spotify.com/album/3b1SWPjpkf4jEDtnNQdfu4"
+      },
+      "artists": [
+        {
+          "name": "Tove Styrke",
+          "url": "https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167500,
+      "name": "Another Broken Heart",
+      "url": "https://open.spotify.com/track/7MGEno7KAP4QgcBMGZzusR"
     },
     {
       "album": {
@@ -1357,7 +1375,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 204062,
       "name": "Everybody Wants It",
       "url": "https://open.spotify.com/track/088lc5Y2AY6pQw6PG2Gm9X"
@@ -2067,7 +2085,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 203549,
       "name": "hollaback bitch (with Shygirl & Channel Tres)",
       "url": "https://open.spotify.com/track/2LFLXzQe95ViTXZeq1WRdx"
@@ -2782,6 +2800,28 @@
     },
     {
       "album": {
+        "name": "Lose My Cool (feat. Klara Hammarstr\u00f6m)",
+        "url": "https://open.spotify.com/album/0y6005o869Rsc1xmlO4xgW"
+      },
+      "artists": [
+        {
+          "name": "Faustix",
+          "url": "https://open.spotify.com/artist/6jPriOYMyUL9kNonBI1CNd"
+        },
+        {
+          "name": "Klara Hammarstr\u00f6m",
+          "url": "https://open.spotify.com/artist/52xiNtpaYcZ5jRQ2fqmPI6"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175446,
+      "name": "Lose My Cool (feat. Klara Hammarstr\u00f6m)",
+      "url": "https://open.spotify.com/track/1uFtzVRVimqjrC8kmy12YI"
+    },
+    {
+      "album": {
         "name": "Love And Appreciation (Radio Edit)",
         "url": "https://open.spotify.com/album/7HYTTSaO6GJ7OQIi4cb558"
       },
@@ -2869,6 +2909,24 @@
       "duration_ms": 218706,
       "name": "LUCID",
       "url": "https://open.spotify.com/track/7BoVAJ0HuKcBBRmUGlzX6o"
+    },
+    {
+      "album": {
+        "name": "MADELINE",
+        "url": "https://open.spotify.com/album/5x9JJzj5K9J6IldkIMonXM"
+      },
+      "artists": [
+        {
+          "name": "INJI",
+          "url": "https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204791,
+      "name": "MADELINE",
+      "url": "https://open.spotify.com/track/04o27HjgqTVm8NwgEfOqRH"
     },
     {
       "album": {
@@ -3072,6 +3130,24 @@
     },
     {
       "album": {
+        "name": "Microdosing",
+        "url": "https://open.spotify.com/album/1MYkpVa9Y1YCoKrlfWHjeW"
+      },
+      "artists": [
+        {
+          "name": "UNIIQU3",
+          "url": "https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238167,
+      "name": "Microdosing",
+      "url": "https://open.spotify.com/track/6JtT4a0Z406dz7A2f2vGBe"
+    },
+    {
+      "album": {
         "name": "Midnight",
         "url": "https://open.spotify.com/album/0B1vdRsHv8o51NQPYtMICO"
       },
@@ -3087,6 +3163,24 @@
       "duration_ms": 163278,
       "name": "Midnight",
       "url": "https://open.spotify.com/track/3hU59rmiHip8h7kboQV5yE"
+    },
+    {
+      "album": {
+        "name": "Million Dollar Baby",
+        "url": "https://open.spotify.com/album/4fCW1XNPfBY6rgL1scsfGC"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184294,
+      "name": "Million Dollar Baby",
+      "url": "https://open.spotify.com/track/3pPN20syOYvbUuEiBpbenI"
     },
     {
       "album": {
@@ -3316,6 +3410,24 @@
     },
     {
       "album": {
+        "name": "NO HAY LEY",
+        "url": "https://open.spotify.com/album/58bXMbR7x7k6ubKP7CyZpQ"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157000,
+      "name": "NO HAY LEY",
+      "url": "https://open.spotify.com/track/5enNYN3hDG4Dsey9WsF6TJ"
+    },
+    {
+      "album": {
         "name": "No One Dies From Love",
         "url": "https://open.spotify.com/album/2oKzwmlJS888dI16InbxCv"
       },
@@ -3465,6 +3577,28 @@
       "duration_ms": 182694,
       "name": "PDA",
       "url": "https://open.spotify.com/track/2p4b5rDiiGZyiSiLo6RPkB"
+    },
+    {
+      "album": {
+        "name": "Perfect Love (feat. Mila Falls)",
+        "url": "https://open.spotify.com/album/2hBjckThyUfbVmY56mtdBF"
+      },
+      "artists": [
+        {
+          "name": "Tom Westy",
+          "url": "https://open.spotify.com/artist/0HhpiOJAde5crSTrd6sMbW"
+        },
+        {
+          "name": "Mila Falls",
+          "url": "https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163278,
+      "name": "Perfect Love (feat. Mila Falls)",
+      "url": "https://open.spotify.com/track/5iag0U1zHcmy5IKPb7BEGz"
     },
     {
       "album": {
@@ -3635,7 +3769,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 210200,
       "name": "PROVENZA",
       "url": "https://open.spotify.com/track/7dSZ6zGTQx66c2GF91xCrb"
@@ -3711,7 +3845,7 @@
       ],
       "date_added": "2022-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 188666,
       "name": "Rebel Revolution",
       "url": "https://open.spotify.com/track/1GmC0Iva33Hf3uCF5VU7ZJ"
@@ -4119,6 +4253,24 @@
       "duration_ms": 200322,
       "name": "Sooner Or Later",
       "url": "https://open.spotify.com/track/2QLdrqojYq2yRKHqv6tXh1"
+    },
+    {
+      "album": {
+        "name": "Sting",
+        "url": "https://open.spotify.com/album/7yzUIJZNrla6TdWmYiziuR"
+      },
+      "artists": [
+        {
+          "name": "FLETCHER",
+          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187253,
+      "name": "Sting",
+      "url": "https://open.spotify.com/track/3CRLMDJygwt1KWMg1FASye"
     },
     {
       "album": {
@@ -4887,6 +5039,24 @@
       "duration_ms": 183409,
       "name": "YouYouYou",
       "url": "https://open.spotify.com/track/1p6Q3r89gsQAg1EBaNHvZl"
+    },
+    {
+      "album": {
+        "name": "Zoom",
+        "url": "https://open.spotify.com/album/2oAXMZTO9ClrJMESeTYQsC"
+      },
+      "artists": [
+        {
+          "name": "Enisa",
+          "url": "https://open.spotify.com/artist/19mMHUyLK5uYyg9D14yJP6"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Zoom",
+      "url": "https://open.spotify.com/track/1FDunczi3BhyBOicyAXGCq"
     },
     {
       "album": {

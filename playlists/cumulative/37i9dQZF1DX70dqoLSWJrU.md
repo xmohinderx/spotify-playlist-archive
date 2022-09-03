@@ -2,7 +2,7 @@
 
 ### [Heartbreak Jazz](https://open.spotify.com/playlist/37i9dQZF1DX70dqoLSWJrU)
 
-> Heartbreaking and sad jazz songs.
+> Heartbreaking and sad instrumental and vocal jazz.
 
 125 songs - 7 hr 18 min - [published](https://open.spotify.com/playlist/5uUFbAhLiVNLmtCNfyWc4t)
 

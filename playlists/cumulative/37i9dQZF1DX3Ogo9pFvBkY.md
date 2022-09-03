@@ -4,7 +4,7 @@
 
 > Relax and unwind with chill, ambient music.
 
-674 songs - 1 day 11 hr 46 min - [published](https://open.spotify.com/playlist/4jfP2jJUFCxoSc7UvsCsbj)
+676 songs - 1 day 11 hr 51 min - [published](https://open.spotify.com/playlist/4jfP2jJUFCxoSc7UvsCsbj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,6 +176,7 @@
 | [Digitalized Waves Of Unspoken Distances](https://open.spotify.com/track/2ibz7CAzOKyqgjo7sXeUU0) | [Ave Air](https://open.spotify.com/artist/2P6DMnuFgtU6UWuxTcF5nU) | [Suburban Call For Concrete Dreams](https://open.spotify.com/album/3kFtOGZWe1iJnIOw0Df37m) | 4:06 | 2019-05-26\* | 2020-01-09 |
 | [Distance](https://open.spotify.com/track/1HLhzy4HcqEe0UUXuscO0C) | [The Lay\-Backs](https://open.spotify.com/artist/3hcHU2Pwf2YPgQXqdEi83C) | [Distance](https://open.spotify.com/album/17HgykwOUqpDUlbcxsKZhl) | 3:36 | 2020-01-03 |  |
 | [Distant Glow](https://open.spotify.com/track/2aBYVl2d2RFAPbYlZ7rIUf) | [Rannar Sillard](https://open.spotify.com/artist/3WIjOR36QpKStT6hfxguh5) | [Weightless Again](https://open.spotify.com/album/66ZFnHFTZ1NcORTEAGX0dG) | 2:11 | 2019-12-07 |  |
+| [distant star](https://open.spotify.com/track/6IlOnQUzJckb3KXqUXAbVt) | [nite sky](https://open.spotify.com/artist/6zoOpIO7PCBlRaOP10TdJc) | [calm waters & distant star](https://open.spotify.com/album/2KbMBAAeKkXMokJB1yyOZQ) | 2:38 | 2022-09-02 |  |
 | [Divine](https://open.spotify.com/track/5BGDIilZ6mNq413WtAU2FR) | [Amaranth Cove](https://open.spotify.com/artist/1Gt39QnTBTndeyiJ5SO04q) | [All Around Us](https://open.spotify.com/album/2wL1Qgbzh1v5NDF4kpMbQC) | 3:14 | 2019-05-26\* | 2020-07-11 |
 | [Divine](https://open.spotify.com/track/49WYvbLAlLn9e663fBmCUl) | [Tejal Yann](https://open.spotify.com/artist/6eGKvCZdc06HkiwZKFlcBY) | [Divine](https://open.spotify.com/album/2BrKNAMeBGtlyRE4J5SERp) | 4:49 | 2019-05-26\* | 2020-05-09 |
 | [Dream \#3 \[Energy Wav\]](https://open.spotify.com/track/2b3hEGm7tIWPyAH8EokVuq) | [charlie dreaming](https://open.spotify.com/artist/2RK3yBP8NFH1CLOEj0BIAM) | [Healing Dreams](https://open.spotify.com/album/4WRQfwPfCYlhi45Iqh43iy) | 3:49 | 2019-05-26\* | 2020-01-03 |
@@ -490,6 +491,7 @@
 | [retrospect](https://open.spotify.com/track/6uuZN0R5GocdsRO9RhB0Pn) | [Gino Ferrero](https://open.spotify.com/artist/5GmSwTvCucYQCZlQCVl60g) | [retrospect](https://open.spotify.com/album/0hS7eXiX1f172bpYrvw6c1) | 4:37 | 2020-08-08 |  |
 | [Returning](https://open.spotify.com/track/0jNDmSQYJjV7bi6cMgpDqB) | [Oscar Sol](https://open.spotify.com/artist/47EU0ZJnqLxIpe8EwyDDce) | [Returning](https://open.spotify.com/album/2IURCbVABsXFqFgP9ZFCd8) | 3:08 | 2020-08-08 |  |
 | [Rhea](https://open.spotify.com/track/5FEyBkwmsmhnUuyOOFzjSr) | [Malborg](https://open.spotify.com/artist/7mFRYrUyK197xg1wAB02EU) | [Orbital](https://open.spotify.com/album/6Ucppogbkw43FxZQs4dF3g) | 2:21 | 2020-09-16 |  |
+| [Rhythms](https://open.spotify.com/track/2ZvyrcGO1JLsfc2XqD7oio) | [Pascal Dirac](https://open.spotify.com/artist/55UOeJ9KXXCNAQ0b4REsiR) | [Rhythms](https://open.spotify.com/album/3r2nphYPieVtEcbWCfWMP3) | 2:28 | 2022-09-02 |  |
 | [Rojo](https://open.spotify.com/track/2JRWjR3mlXJBg3uZwDPmBx) | [Sebastián Escofet](https://open.spotify.com/artist/4YufEYOotwxOrZxtzdPgS3) | [Ambientalismo](https://open.spotify.com/album/150OGcG307oqzZadHxUcQH) | 2:18 | 2020-01-09 |  |
 | [Rooftops](https://open.spotify.com/track/7m9s5U1FjcFDLorvn1TD4l) | [AMBIE](https://open.spotify.com/artist/5oo57Q3XAVgiuF4D2BSz6D) | [Rooftops](https://open.spotify.com/album/7xZXttB5IlX5eoYBPlwrEa) | 2:32 | 2020-08-08 |  |
 | [Rooted](https://open.spotify.com/track/3Ac6RvFQVb4TMY4rjGLS2Y) | [Jordan Beggs](https://open.spotify.com/artist/2qHe4hsn9sRe5qm4uUVXwF) | [Rooted](https://open.spotify.com/album/2vXwJY0iUYI382fLUyt6hH) | 3:21 | 2022-02-25 |  |

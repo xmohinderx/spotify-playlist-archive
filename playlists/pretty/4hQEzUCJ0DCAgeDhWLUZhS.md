@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4hQEzUCJ0DCAgeDhWLUZhS.md) - [plain]
 
 > GUITARS\. BASS\. DRUMS\. That's all you need really\. Plugged In featured the latest and greatest rock, alternative, and metal coming out of Australia and around the world\. Cover: Muse
 
-[Topsify Australia](https://open.spotify.com/user/popmob) - 1,669 likes - 132 songs - 8 hr 5 min
+[Topsify Australia](https://open.spotify.com/user/popmob) - 1,670 likes - 132 songs - 8 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

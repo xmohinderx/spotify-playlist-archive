@@ -542,6 +542,24 @@
     },
     {
       "album": {
+        "name": "In My Blood",
+        "url": "https://open.spotify.com/album/7JFHndEvL3lcEuPtrhIznR"
+      },
+      "artists": [
+        {
+          "name": "Dorette Roos",
+          "url": "https://open.spotify.com/artist/7jKYBIGfuGvN2Jsvu5qGGX"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140936,
+      "name": "In My Blood",
+      "url": "https://open.spotify.com/track/3Qk8eoXVUqHIRCarPbrlr8"
+    },
+    {
+      "album": {
         "name": "Path of The Moon",
         "url": "https://open.spotify.com/album/4l5q2eFbVXYKWdrcjFJHo1"
       },

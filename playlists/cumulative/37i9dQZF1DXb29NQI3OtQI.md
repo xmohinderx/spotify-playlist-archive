@@ -4,7 +4,7 @@
 
 > The best soft rock from the 2000s\. Cover: Lifehouse.
 
-100 songs - 6 hr 45 min - [published](https://open.spotify.com/playlist/2IAx04uVUSLu0nI0az8rLp)
+101 songs - 6 hr 50 min - [published](https://open.spotify.com/playlist/2IAx04uVUSLu0nI0az8rLp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Roadside](https://open.spotify.com/track/2Lw8a712bXz7xa0DyxHkIP) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [The Sufferer & The Witness](https://open.spotify.com/album/1VZ0i4vJ0AkPbmpuaktZMJ) | 3:21 | 2021-03-23 |  |
 | [Roadside](https://open.spotify.com/track/2YJvYVpOF8Z9Yf8QHpOMsz) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [The Sufferer & The Witness](https://open.spotify.com/album/1Vr598HQXjJCwxHale9yQP) | 3:21 | 2021-03-23 | 2022-07-29 |
 | [Sailing To Philadelphia](https://open.spotify.com/track/5N6GzBkdnHcaH96R6aJQHm) | [Mark Knopfler](https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug) | [Sailing To Philadelphia](https://open.spotify.com/album/7oIBSEe5L89s2UXK0I8tYg) | 5:28 | 2021-03-23 | 2022-07-29 |
+| [Sailing to Philadelphia](https://open.spotify.com/track/5dFbGFPR2GkgIPvfnAo3R3) | [Mark Knopfler](https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug) | [Sailing to Philadelphia](https://open.spotify.com/album/1DrdpkCNbP2QxDvtsASs63) | 5:29 | 2021-03-23 |  |
 | [Seaside](https://open.spotify.com/track/0QCuMBeqdWkwFUTO1WlAjH) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [Inside In / Inside Out](https://open.spotify.com/album/4MhInH4XT7ReDV5fCZjaSz) | 1:39 | 2021-03-23 |  |
 | [Seaside](https://open.spotify.com/track/6ZygaqgtPkiahkiYJhYWhn) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [Inside In / Inside Out](https://open.spotify.com/album/03JPFQvZRnHHysSZrSFmKY) | 1:39 | 2021-03-23 | 2022-07-29 |
 | [Set The Fire To The Third Bar](https://open.spotify.com/track/5g0afUZsh5hiXBOT3eXuwd) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp), [Martha Wainwright](https://open.spotify.com/artist/67pQ8Yr09zDDzzwWw3EG9R) | [Eyes Open](https://open.spotify.com/album/3k7bXPw2u0C0SBKPMsgMS3) | 3:23 | 2021-03-23 |  |
@@ -104,7 +105,7 @@
 | [We Never Change](https://open.spotify.com/track/5TB6QgrF0RPIxSCGfRDLoe) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Parachutes](https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra) | 4:09 | 2021-03-23 | 2022-07-29 |
 | [When You're Gone](https://open.spotify.com/track/54JKnDB3CzVu8wNAOM27BI) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [The Best Damn Thing \(Expanded Edition\)](https://open.spotify.com/album/6lqE05fiHWJVYYdMVJNj38) | 4:00 | 2021-03-23 |  |
 | [You And Me](https://open.spotify.com/track/0815caqt2Lytro5EIzMufT) | [Lifehouse](https://open.spotify.com/artist/5PokPZn11xzZXyXSfnvIM3) | [Lifehouse](https://open.spotify.com/album/2hOY4rDu51XSBvtwfWgSmz) | 3:15 | 2021-03-23 |  |
-| [Your Arms Feel Like home](https://open.spotify.com/track/0SanLvXc3eSY7XqfeMlDOS) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [3 Doors Down](https://open.spotify.com/album/0e2vlZj9wAALaxr5Bhxvw8) | 3:44 | 2021-03-23 |  |
+| [Your Arms Feel Like home](https://open.spotify.com/track/0SanLvXc3eSY7XqfeMlDOS) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [3 Doors Down](https://open.spotify.com/album/0e2vlZj9wAALaxr5Bhxvw8) | 3:44 | 2021-03-23 | 2022-09-03 |
 | [Your Arms Feel Like home](https://open.spotify.com/track/2AAlMQNWCEJErGFsTExhUT) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [3 Doors Down](https://open.spotify.com/album/6aQozyBmD8Edzid1TN7bZA) | 3:44 | 2021-03-23 | 2022-07-29 |
 | [Your Body Is a Wonderland](https://open.spotify.com/track/7vFv0yFGMJW3qVXbAd9BK9) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Room For Squares](https://open.spotify.com/album/3yHOaiXecTJVUdn7mApZ48) | 4:09 | 2021-03-23 |  |
 | [Your House](https://open.spotify.com/track/2AYVRHuzCRn0eZipEZX4EP) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Bleed American](https://open.spotify.com/album/0UJhhj5bn5AGAjryFnhueP) | 4:46 | 2021-03-23 |  |

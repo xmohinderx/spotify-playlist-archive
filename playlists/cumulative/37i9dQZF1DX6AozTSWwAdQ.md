@@ -4,7 +4,7 @@
 
 > 沒有什麼比感覺好更重要了！這裡的歌曲能大大振奮心情、令你元氣十足！
 
-143 songs - 7 hr 43 min - [published](https://open.spotify.com/playlist/2kFM7zqf6T4GVjlLl672z4)
+145 songs - 7 hr 48 min - [published](https://open.spotify.com/playlist/2kFM7zqf6T4GVjlLl672z4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Blow](https://open.spotify.com/track/0QPPJN3d42PINVAyBPZTC3) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) | [Blow](https://open.spotify.com/album/2y6aTfBouCa2nRJadWq0WX) | 2:43 | 2022-06-13 |  |
 | [Boy With Luv \(feat\. Halsey\)](https://open.spotify.com/track/4a9tbd947vo9K8Vti9JwcI) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [MAP OF THE SOUL : PERSONA](https://open.spotify.com/album/2KqlAl1Kl5fZvbFgJ0qFB6) | 3:49 | 2022-07-25 |  |
 | [Boy With Luv \(feat\. Halsey\)](https://open.spotify.com/track/5KawlOMHjWeUjQtnuRs22c) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [MAP OF THE SOUL : PERSONA](https://open.spotify.com/album/1AvXa8xFEXtR3hb4bgihIK) | 3:49 | 2022-06-06 | 2022-07-29 |
-| [Boys Don't Cry](https://open.spotify.com/track/35COLcFjvONwVv6jkG23gI) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Boys Don't Cry](https://open.spotify.com/album/7vvalwoghtZRu2Cv35WDgV) | 2:16 | 2022-07-04 |  |
+| [Boys Don't Cry](https://open.spotify.com/track/35COLcFjvONwVv6jkG23gI) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Boys Don't Cry](https://open.spotify.com/album/7vvalwoghtZRu2Cv35WDgV) | 2:16 | 2022-07-04 | 2022-09-03 |
 | [Break Her Heart](https://open.spotify.com/track/0dN4xcgktuAmQNGaPQR5Fz) | [Maia Wright](https://open.spotify.com/artist/5qQFXHDOeYjiZVrCUO56Pk) | [Break Her Heart](https://open.spotify.com/album/2wFl2VCAHpU7eGqhwoF2Ye) | 2:59 | 2022-07-18 | 2022-07-20 |
 | [Break My Heart](https://open.spotify.com/track/6KMkEX692kOyqJ7WuPhRab) | [JC Stewart](https://open.spotify.com/artist/2TAqN8fwfaKauvviN4pOsv) | [Break My Heart](https://open.spotify.com/album/0kNjRXrrBrXGUFkGhf2HVI) | 2:59 | 2022-06-06 | 2022-07-29 |
 | [Breakaway](https://open.spotify.com/track/74kqTZLnGoPtCwGecA37Xi) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Let Go \(20th Anniversary Edition\)](https://open.spotify.com/album/7JxjNcaooYpX0JcfNQMxqs) | 3:43 | 2022-06-07 | 2022-07-29 |
@@ -36,6 +36,7 @@
 | [Cry About It Later](https://open.spotify.com/track/1RsD951uUUlJx0MRioZfev) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Smile](https://open.spotify.com/album/38hfmutL8qSnflpigbMoLw) | 3:09 | 2022-07-04 | 2022-07-11 |
 | [Cure](https://open.spotify.com/track/1H2HqAQw4sDHQiZQDvsAYd) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [Last Birthday](https://open.spotify.com/album/5DMf0Psld4AE5tkI05lCpt) | 2:28 | 2022-06-06 | 2022-07-29 |
 | [Dance For The Hell Of It](https://open.spotify.com/track/4dogRj7ByfvFBgVsYJcwA4) | [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Grown\-ish](https://open.spotify.com/album/6xpbC5OEQZxIt922KKd12q) | 3:15 | 2022-06-06 | 2022-07-29 |
+| [dead inside](https://open.spotify.com/track/2Oo397nWzelAKMQBBIL8YI) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [in loving memory](https://open.spotify.com/album/0ZvU2iSXtYxBeR9QzvHQau) | 3:02 | 2022-08-29 |  |
 | [Dear All The Universe](https://open.spotify.com/track/22ncVgFAi7FT0AQuHYmMCF) | [My Life As Ali Thomas](https://open.spotify.com/artist/60QGyk5ToNbgI6fVGjZhHa) | [Dear All The Universe](https://open.spotify.com/album/0YTjcD2isCYshPScuOk4rb) | 3:19 | 2022-06-06 | 2022-07-29 |
 | [Diamonds](https://open.spotify.com/track/0GFXbdgwVYO8Dw6BG8MLfL) | [Echosmith](https://open.spotify.com/artist/1PbBg2aYjWLKRk84zJK15x) | [Lonely Generation](https://open.spotify.com/album/6DT9TEg5f9j7WVarEXemYY) | 3:22 | 2022-07-11 | 2022-07-29 |
 | [Distraction](https://open.spotify.com/track/4gmnXoFTFHKDZ4kYmLlR9e) | [M1LDL1FE](https://open.spotify.com/artist/4dDWr3bmcGdlbLsWofWail) | [M1LDL1FE](https://open.spotify.com/album/4OF3p8bM1wUNdfdlYAhdqC) | 4:11 | 2022-06-06 | 2022-07-28 |
@@ -118,7 +119,7 @@
 | [Starting Line](https://open.spotify.com/track/3tIQg7bErGUNgE6nZ2TXZ2) | [Luke Hemmings](https://open.spotify.com/artist/4UFShyUQuA8dguoZrqX0jQ) | [Starting Line](https://open.spotify.com/album/29dl63pyzkkAPZSY8vSqlD) | 4:30 | 2022-06-20 | 2022-07-26 |
 | [Steps](https://open.spotify.com/track/2VF8EvvtcLqQp6yqz1Eg8Q) | [Leah Nobel](https://open.spotify.com/artist/5WHKBKrvTBMPoQX3v3Bq8J) | [Running In Borrowed Shoes: Part 1](https://open.spotify.com/album/75ZWpSwhnqfneMyqvIEjh1) | 3:38 | 2022-06-06 | 2022-07-29 |
 | [Strangers Again](https://open.spotify.com/track/5696iWDxeJrfCYkP9LAWXJ) | [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B) | [Strangers Again](https://open.spotify.com/album/7aOvc739kptqDYYWIRKjxI) | 3:45 | 2022-06-06 | 2022-07-25 |
-| [SUBSTANCE](https://open.spotify.com/track/5zuT7tF518cJcoOJI9VzDM) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [SUBSTANCE](https://open.spotify.com/album/4gH2QdzpnQH1k3JXjnVVfX) | 2:40 | 2022-07-25 |  |
+| [SUBSTANCE](https://open.spotify.com/track/5zuT7tF518cJcoOJI9VzDM) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [SUBSTANCE](https://open.spotify.com/album/4gH2QdzpnQH1k3JXjnVVfX) | 2:40 | 2022-07-25 | 2022-09-03 |
 | [Sucker](https://open.spotify.com/track/22vgEDb5hykfaTwLuskFGD) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Happiness Begins](https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2) | 3:01 | 2022-07-25 |  |
 | [Summertime](https://open.spotify.com/track/3MG9vgRVdMBuA9EBwCVWdf) | [FIVE NEW OLD](https://open.spotify.com/artist/71wVBrMErg4ng9lxc1ajZo) | [MUSIC WARDROBE](https://open.spotify.com/album/3cqeIPIj8gyb9olBEqhC2D) | 3:39 | 2022-06-06 | 2022-07-29 |
 | [Sunshine](https://open.spotify.com/track/5r43qanLhUCdBj8HN3fa6B) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Sunshine](https://open.spotify.com/album/2YSlIS6gM38w7ZJNj8F3s6) | 2:43 | 2022-06-06 |  |
@@ -148,6 +149,7 @@
 | [You](https://open.spotify.com/track/2iyglraQjokYEgvPP2mBoV) | [Rider](https://open.spotify.com/artist/5G2EghUKgFfKXlghzyBVM6) | [You](https://open.spotify.com/album/3BZzp4yrtsLTq2hoV9jYkc) | 4:17 | 2022-06-06 | 2022-07-29 |
 | [You & Me](https://open.spotify.com/track/1bQhZOoXYqjXs7u7rFXo0h) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Chapters](https://open.spotify.com/album/3GNzXsFbzdwM0WKCZtgeNP) | 3:51 | 2022-08-01 |  |
 | [You & Me](https://open.spotify.com/track/5g45gvxgaYVuhkDACPnvfh) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [You & Me](https://open.spotify.com/album/4fZk4ATcsp1hC6WKuh6Y9K) | 3:51 | 2022-06-06 | 2022-07-29 |
+| [YOU AGAINST YOURSELF](https://open.spotify.com/track/3Cozx0ZC9RjHOPhW8VOdXC) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [YOU AGAINST YOURSELF](https://open.spotify.com/album/4ICdRtrHEOUftxkU4inMc5) | 2:26 | 2022-08-29 |  |
 | [You Signed Up For This](https://open.spotify.com/track/2I4NfDyog74Wq8R8btJDY3) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [You Signed Up For This / Brooklyn](https://open.spotify.com/album/1wa7AvqK1tUFSl5TTUNJ1e) | 3:15 | 2022-06-06 | 2022-07-29 |
 | [Young Like This](https://open.spotify.com/track/5yOc7LHI9HIBRTWcLbGXXi) | [Hugo Helmig](https://open.spotify.com/artist/27eEve8Mu7Zv8DGDIz4peE) | [Young Like This](https://open.spotify.com/album/5s1EtajkxRSQto3WT9WtHc) | 3:06 | 2022-07-04 | 2022-07-08 |
 | [Youngblood](https://open.spotify.com/track/55S2PQgSMYAhgoTCcGCDfw) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [Youngblood](https://open.spotify.com/album/16Qs4jnIyXe7jprnMNRddy) | 3:23 | 2022-07-25 |  |

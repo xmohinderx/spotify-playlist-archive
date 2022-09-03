@@ -4,7 +4,7 @@
 
 > Music from Nashville's emerging Singers and Songwriters across the musical spectrum\.  Cover: Hannah Ellis
 
-221 songs - 11 hr 42 min - [published](https://open.spotify.com/playlist/3ZmZ8VTqhMzD1YGM4aAkJ4)
+222 songs - 11 hr 45 min - [published](https://open.spotify.com/playlist/3ZmZ8VTqhMzD1YGM4aAkJ4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,7 +187,8 @@
 | [Sounds Like Something](https://open.spotify.com/track/2VCIP4lMIUjZLYvEzWUbvu) | [MaRynn Taylor](https://open.spotify.com/artist/40oKC5KWScA0TPIiKAofI8) | [Something I Would Do](https://open.spotify.com/album/0oZMOm5cukJFzRzE03XUyM) | 3:16 | 2022-06-03 |  |
 | [South of Forever](https://open.spotify.com/track/7HWOixNkts8dToUVeOV6cL) | [Clayton Mullen](https://open.spotify.com/artist/6iRDBNeREg0Je2y9LZzD2g) | [South of Forever](https://open.spotify.com/album/63WijTROz8hPeDh7MmI9e9) | 4:07 | 2022-05-06 |  |
 | [Speed Limit](https://open.spotify.com/track/6fNDFwpFaWodIX2MYqPbdn) | [Savannah Harmon](https://open.spotify.com/artist/5ohZt1uNprmtf0EkzIQxnU) | [Speed Limit](https://open.spotify.com/album/3WwJuG2JSLkS86vsTOIq3Q) | 4:09 | 2021-12-31 |  |
-| [Started Right Here](https://open.spotify.com/track/6g1hr3hkvJPopynA633RvQ) | [SixForty1](https://open.spotify.com/artist/4dcnHUWXWZAHfA8FvQBtJS) | [Started Right Here](https://open.spotify.com/album/5Np7Ek9CPromitJthQCLfO) | 2:44 | 2021-12-31 |  |
+| [Started Right Here](https://open.spotify.com/track/6g1hr3hkvJPopynA633RvQ) | [SixForty1](https://open.spotify.com/artist/4dcnHUWXWZAHfA8FvQBtJS) | [Started Right Here](https://open.spotify.com/album/5Np7Ek9CPromitJthQCLfO) | 2:44 | 2021-12-31 | 2022-09-03 |
+| [Started Right Here](https://open.spotify.com/track/7AdMQLG4UbBQF6RNFs57IT) | [SixForty1](https://open.spotify.com/artist/4dcnHUWXWZAHfA8FvQBtJS) | [Started Right Here](https://open.spotify.com/album/113bFdIiv0jfchW7SKyBa8) | 2:45 | 2022-09-02 |  |
 | [Stranger](https://open.spotify.com/track/4DyGan0wxPUZk21B1fF57X) | [Riley Roth](https://open.spotify.com/artist/7DFV3Usu1Jrcyn45Kx31Bc) | [Stranger](https://open.spotify.com/album/5CnarDYvtOMmdLTnMqtWxY) | 2:30 | 2021-12-31 |  |
 | [Summer Song](https://open.spotify.com/track/22XIMbEUDkzVAJ5Sq74oVr) | [Bryce Mauldin](https://open.spotify.com/artist/5DXpUPIW7ConNwYAjXe5BE) | [Summer Song](https://open.spotify.com/album/16O5t7E56ZZ7TpuIYv7W4h) | 3:05 | 2021-12-31 | 2022-08-02 |
 | [Take It In](https://open.spotify.com/track/79Mi50c5uMHicF4HrS1q47) | [Cat Stone](https://open.spotify.com/artist/5rW38Fh10oQoc0ZUN3WlQi) | [Take It In](https://open.spotify.com/album/70MvUsZkuv2Nn4XMEYsHkg) | 3:35 | 2022-01-07 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9IALXsyt8zk.md) - [plain]
 
 > Unearthing up\-and\-coming Korean acts\. Cover: NMIXX
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,162 likes - 53 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,416 likes - 53 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

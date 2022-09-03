@@ -3296,6 +3296,24 @@
     },
     {
       "album": {
+        "name": "HEARTBEAT",
+        "url": "https://open.spotify.com/album/7cLRRJ3fRfyExOHOIwcLDy"
+      },
+      "artists": [
+        {
+          "name": "Isabel LaRosa",
+          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124959,
+      "name": "HEARTBEAT",
+      "url": "https://open.spotify.com/track/6nStBZGqGgTR87MrBpNza0"
+    },
+    {
+      "album": {
         "name": "heat waves",
         "url": "https://open.spotify.com/album/2HwQlNlp2ODCDTB5vPJ7M0"
       },
@@ -3863,7 +3881,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 155327,
       "name": "ICARUS",
       "url": "https://open.spotify.com/track/4flE50KratI5sjuZfrAYyi"
@@ -4033,7 +4051,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-31",
+      "date_removed": null,
       "duration_ms": 185564,
       "name": "In The Dark",
       "url": "https://open.spotify.com/track/5LibBRN1juZ7RiUR0e2Hax"
@@ -4751,7 +4769,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 197160,
       "name": "Lucid Dreams",
       "url": "https://open.spotify.com/track/0kdYu42jVmgCLYL30p2CpE"

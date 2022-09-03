@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-09",
-  "description": "Hip-hop\u00a0mexicano,\u00a0rimas de la calle,\u00a0en viva voz de Gera MX.",
+  "description": "Hip-hop\u00a0mexicano,\u00a0rimas de la calle,\u00a0en viva voz de Santa Fe Klan.",
   "name": "Arena Hip-Hop",
   "published_playlist_ids": [
     "18GYr3VL7srQ56xnZNWbUP"
@@ -1041,7 +1041,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 254322,
       "name": "Demasiado Tarde",
       "url": "https://open.spotify.com/track/0F3QlgOx1MR7JSvrWDWaz3"
@@ -1173,10 +1173,32 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-26",
+      "date_removed": null,
       "duration_ms": 162007,
       "name": "Don Quijote",
       "url": "https://open.spotify.com/track/76IsXl3qjqwdi0i5T7JlYj"
+    },
+    {
+      "album": {
+        "name": "El D\u00eda de Nuestra Suerte",
+        "url": "https://open.spotify.com/album/1OX990RQ1SpGmMyDFVUKoK"
+      },
+      "artists": [
+        {
+          "name": "Eme MalaFe",
+          "url": "https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi"
+        },
+        {
+          "name": "C-Kan",
+          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241031,
+      "name": "El D\u00eda de Nuestra Suerte",
+      "url": "https://open.spotify.com/track/3mRNhbCKWupqs2F6VwFUMu"
     },
     {
       "album": {
@@ -1191,7 +1213,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-26",
+      "date_removed": null,
       "duration_ms": 255306,
       "name": "El G.O.A.T.",
       "url": "https://open.spotify.com/track/0gsXBDtQMWBJPpl58X2fNO"
@@ -1821,7 +1843,7 @@
       ],
       "date_added": "2022-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 294441,
       "name": "Kiubole",
       "url": "https://open.spotify.com/track/6FudvuBPvdFmmriJLEttGd"
@@ -2717,7 +2739,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 200253,
       "name": "Pap\u00e1",
       "url": "https://open.spotify.com/track/6LqI79HurtSLxv8ulJohvG"
@@ -3387,7 +3409,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 189000,
       "name": "Santo Grial",
       "url": "https://open.spotify.com/track/2Yf1mFq3vuZKGKwolRVqsJ"
@@ -3899,7 +3921,7 @@
       ],
       "date_added": "2022-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-26",
+      "date_removed": null,
       "duration_ms": 237500,
       "name": "Te Escondes",
       "url": "https://open.spotify.com/track/5bzIKQnnY1aM9evAj1sZiZ"

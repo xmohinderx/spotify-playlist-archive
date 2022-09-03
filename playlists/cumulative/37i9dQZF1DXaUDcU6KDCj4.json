@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Hear what's new in folk, roots & indie singer-songwriter. Cover: Valerie June",
+  "description": "Hear what's new in folk, roots & indie singer-songwriter. Cover: Luke Sital-Singh",
   "name": "Fresh Folk",
   "published_playlist_ids": [
     "7yU452WcXvKlp2CXhHrD6N"
@@ -269,6 +269,32 @@
       "duration_ms": 248773,
       "name": "a.m. radio - acoustic",
       "url": "https://open.spotify.com/track/7xCIxtp5egFQkU8X7JMX4O"
+    },
+    {
+      "album": {
+        "name": "Abilene",
+        "url": "https://open.spotify.com/album/5IQl0bM8GiALIa6BtxMHRf"
+      },
+      "artists": [
+        {
+          "name": "Plains",
+          "url": "https://open.spotify.com/artist/1vxqrtPBBQWCuoAcJqVCph"
+        },
+        {
+          "name": "Waxahatchee",
+          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
+        },
+        {
+          "name": "Jess Williamson",
+          "url": "https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183560,
+      "name": "Abilene",
+      "url": "https://open.spotify.com/track/2xi9KMyT6acK7kDkdpptfN"
     },
     {
       "album": {
@@ -2298,6 +2324,24 @@
     },
     {
       "album": {
+        "name": "Collateral",
+        "url": "https://open.spotify.com/album/4rDtkcswamhTIK6xOEgbWF"
+      },
+      "artists": [
+        {
+          "name": "Daulton Hopkins",
+          "url": "https://open.spotify.com/artist/2OKzhqOz5VFrrD1lCwfNSS"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179188,
+      "name": "Collateral",
+      "url": "https://open.spotify.com/track/0WwBPTz2wuv3A8qLIklg6y"
+    },
+    {
+      "album": {
         "name": "Collecting Dust",
         "url": "https://open.spotify.com/album/5rICmJCVw98Yuu3cA7ItA4"
       },
@@ -3439,6 +3483,24 @@
       "duration_ms": 218773,
       "name": "El Mirador",
       "url": "https://open.spotify.com/track/6HQgUBaY6RbmmrXRER8y8E"
+    },
+    {
+      "album": {
+        "name": "Eloise",
+        "url": "https://open.spotify.com/album/3nGr1XT7lFIZfrV2hzkkYk"
+      },
+      "artists": [
+        {
+          "name": "HAPPY LANDING",
+          "url": "https://open.spotify.com/artist/2Jsv2nBcTfKpM9dbZcBbk6"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234520,
+      "name": "Eloise",
+      "url": "https://open.spotify.com/track/5iJ0BQYiFqmLaSUEZi1da1"
     },
     {
       "album": {
@@ -4724,6 +4786,28 @@
     },
     {
       "album": {
+        "name": "Half the Story (with Alix Page)",
+        "url": "https://open.spotify.com/album/73OM6ZQ0D8VuYPJ4HEayBS"
+      },
+      "artists": [
+        {
+          "name": "Luke Wild",
+          "url": "https://open.spotify.com/artist/1K39EPBZGfaTe2433SFmL8"
+        },
+        {
+          "name": "Alix Page",
+          "url": "https://open.spotify.com/artist/7hp6PmppZj6iiolLVT4iEZ"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204444,
+      "name": "Half the Story (with Alix Page)",
+      "url": "https://open.spotify.com/track/4Q48kYYUtJkxMZXal19xjq"
+    },
+    {
+      "album": {
         "name": "Hang On To Me",
         "url": "https://open.spotify.com/album/7z74YoHegtXzQZL50aeyhL"
       },
@@ -5769,7 +5853,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 170363,
       "name": "I Only Hope to Feel Love",
       "url": "https://open.spotify.com/track/1IdozL1GhMN6w0gjAdPLqb"
@@ -6123,6 +6207,24 @@
       "duration_ms": 262813,
       "name": "Illusion",
       "url": "https://open.spotify.com/track/0n8mTbT8aGB8i4olEVDKKN"
+    },
+    {
+      "album": {
+        "name": "Goodbye",
+        "url": "https://open.spotify.com/album/2AJzAKKaLiqT9D0epMDw8e"
+      },
+      "artists": [
+        {
+          "name": "The Ghost of Paul Revere",
+          "url": "https://open.spotify.com/artist/30fXKjFrJ6I9tfwia1ZZMG"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239506,
+      "name": "In Deep",
+      "url": "https://open.spotify.com/track/53S9ZlXNCg1dXkI4pMpBc5"
     },
     {
       "album": {
@@ -7379,7 +7481,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-03",
       "duration_ms": 210963,
       "name": "Manly Man",
       "url": "https://open.spotify.com/track/3W8tRjkiC0TQZuUq0wA5zI"
@@ -9847,6 +9949,24 @@
       "duration_ms": 318533,
       "name": "Rolling Mills Are Burning Down",
       "url": "https://open.spotify.com/track/5N3DtbHQjgJEURazKQMQom"
+    },
+    {
+      "album": {
+        "name": "Gardening, Pt. 1",
+        "url": "https://open.spotify.com/album/33f0npYRcXfQpXMwgrwh6v"
+      },
+      "artists": [
+        {
+          "name": "Siv Jakobsen",
+          "url": "https://open.spotify.com/artist/0vWslArrZa7drINEUobJZl"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224226,
+      "name": "Romain's Place",
+      "url": "https://open.spotify.com/track/36o9p1Xk3StK2x3jXE8P60"
     },
     {
       "album": {
@@ -13837,6 +13957,24 @@
       "duration_ms": 230098,
       "name": "You and Me On The Rock (feat. Lucius)",
       "url": "https://open.spotify.com/track/61X73CJcpwGIxgQgKEXbw0"
+    },
+    {
+      "album": {
+        "name": "You and Me On The Rock (In The Canyon Haze)",
+        "url": "https://open.spotify.com/album/22EMSIjfksTwA1yizWVXa6"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257853,
+      "name": "You and Me On The Rock (In The Canyon Haze)",
+      "url": "https://open.spotify.com/track/7tmtdHPAoUZLuJqTnDR7FS"
     },
     {
       "album": {

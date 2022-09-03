@@ -5328,6 +5328,24 @@
     },
     {
       "album": {
+        "name": "paragraphs",
+        "url": "https://open.spotify.com/album/64KViYUE2sjw5ev9apKJZN"
+      },
+      "artists": [
+        {
+          "name": "Dance Of Centuries",
+          "url": "https://open.spotify.com/artist/5y6jYkmnAqeXseHx3earZD"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123574,
+      "name": "paragraphs",
+      "url": "https://open.spotify.com/track/0BYqfF118BfjcxvQRCwaWk"
+    },
+    {
+      "album": {
         "name": "Passage",
         "url": "https://open.spotify.com/album/5KFRuWDL0crUoNfvBqMFyw"
       },
