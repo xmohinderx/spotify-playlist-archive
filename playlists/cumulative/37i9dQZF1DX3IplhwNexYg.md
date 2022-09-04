@@ -4,7 +4,7 @@
 
 > The best in current indie rock\. Cover: Connie Constance
 
-245 songs - 13 hr 48 min - [published](https://open.spotify.com/playlist/6icr08W6LxkqPUtZpmcgvv)
+247 songs - 13 hr 56 min - [published](https://open.spotify.com/playlist/6icr08W6LxkqPUtZpmcgvv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,8 @@
 | [Angelica](https://open.spotify.com/track/4MvwrOOQyjh40KWwmFElmn) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Angelica](https://open.spotify.com/album/4j8jm7kAaZN85GVBJSXSfT) | 3:52 | 2022-03-01 | 2022-07-29 |
 | [Anti\-glory](https://open.spotify.com/track/7fDPgekQGJKkyyqjuhtNSG) | [Horsegirl](https://open.spotify.com/artist/2FDvUb4YgyUPpmnm1ILPra) | [Anti\-glory](https://open.spotify.com/album/64rQzBshwp5tyR7ExhJaAk) | 3:30 | 2022-03-10 |  |
 | [anyway](https://open.spotify.com/track/3egmebMbMAFYAjCw8gV8SW) | [swim school](https://open.spotify.com/artist/7hC74DRW4q3obXLB5lTq4F) | [anyway](https://open.spotify.com/album/5TaH4wLzrMgEhd1KMcXiwE) | 3:36 | 2021-06-25 | 2022-03-11 |
-| [Apartment Complex on the Eastside](https://open.spotify.com/track/2nm0J9sicQTiW8M8k2yZ4x) | [Dylan Fraser](https://open.spotify.com/artist/6Awp6fgyzqQ2XuEvOMjq8D) | [Apartment Complex on the Eastside](https://open.spotify.com/album/52bzMUfIaS9YeVADl51eoT) | 4:07 | 2022-08-18 |  |
+| [Apartment Complex on the Eastside](https://open.spotify.com/track/1cRk9clJhi67mcfTxNfnjU) | [Dylan Fraser](https://open.spotify.com/artist/6Awp6fgyzqQ2XuEvOMjq8D) | [It Took A Lot To Get To This](https://open.spotify.com/album/1E2ecZuSPG58MLkgglvFxZ) | 4:07 | 2022-09-01 |  |
+| [Apartment Complex on the Eastside](https://open.spotify.com/track/2nm0J9sicQTiW8M8k2yZ4x) | [Dylan Fraser](https://open.spotify.com/artist/6Awp6fgyzqQ2XuEvOMjq8D) | [Apartment Complex on the Eastside](https://open.spotify.com/album/52bzMUfIaS9YeVADl51eoT) | 4:07 | 2022-08-18 | 2022-09-04 |
 | [Athlete](https://open.spotify.com/track/1IGYX6cUsDXJEMG9XTf50W) | [Why Bonnie](https://open.spotify.com/artist/4FAX5kglTvU5WiFq7yPNb9) | [Athlete](https://open.spotify.com/album/1nMeS1nijjgmMA4uqVUX4G) | 3:11 | 2021-03-09 | 2022-01-17 |
 | [Baby Don't Cry](https://open.spotify.com/track/0fq4yVxkZbu59JiCe5zeFZ) | [Sunflower Bean](https://open.spotify.com/artist/1xVcjJ5YsYOClO2Unt3Rm8) | [Baby Don't Cry](https://open.spotify.com/album/6MYBlQZe66fp8R7npEl9xZ) | 3:57 | 2021-10-15 | 2022-08-19 |
 | [Bad Love](https://open.spotify.com/track/0atclF6Pp5MffEEi7CSFlE) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Blue Skies](https://open.spotify.com/album/1vzqa9wcGcflSTyVbQPRFE) | 2:30 | 2022-04-01 | 2022-08-19 |
@@ -227,7 +228,8 @@
 | [The Way It Shatters](https://open.spotify.com/track/1TGXiKyuajqiA242dBji7H) | [Rolling Blackouts Coastal Fever](https://open.spotify.com/artist/65mMkD9WW39U9Yadv0dWUF) | [The Way It Shatters](https://open.spotify.com/album/4LGidB7kQRA1vAKEizMotl) | 4:22 | 2022-02-04 | 2022-07-29 |
 | [The Year I Broke](https://open.spotify.com/track/7tdoduOQJNzwq7f8CdMLBw) | [Prince of Lilies](https://open.spotify.com/artist/3ml5rBwM6KDhpt13d2WGa5) | [The Year I Broke](https://open.spotify.com/album/4MWAP25bhaNgK9ANcplc9J) | 3:58 | 2021-07-16 | 2022-03-02 |
 | [These Are The Days](https://open.spotify.com/track/6fyCVdU5lJT9ErO9QicFWC) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [These Are The Days](https://open.spotify.com/album/2cP0n7ZCTCH4MDgirIWZmz) | 3:42 | 2022-08-18 |  |
-| [Time](https://open.spotify.com/track/1kOrZmrSnP1gub1kneRNHF) | [Vundabar](https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6) | [Time](https://open.spotify.com/album/7cwi5zqBBnLFVNO1HR49Zd) | 4:22 | 2022-08-18 |  |
+| [Time](https://open.spotify.com/track/1kOrZmrSnP1gub1kneRNHF) | [Vundabar](https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6) | [Time](https://open.spotify.com/album/7cwi5zqBBnLFVNO1HR49Zd) | 4:22 | 2022-08-18 | 2022-09-04 |
+| [Time](https://open.spotify.com/track/5OSMmIX3QvBW5wrChEujmZ) | [Vundabar](https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6) | [Shadow Boxing](https://open.spotify.com/album/2ClkPaYrHeaHGxiiSaMoyA) | 4:22 | 2022-09-01 |  |
 | [Toro](https://open.spotify.com/track/3Lj2PcKAkTXYiSVSeT7UA7) | [Liily](https://open.spotify.com/artist/2asx6eXv9qzj5rA0ESrdO3) | [Toro](https://open.spotify.com/album/72wu0Ve29nMO5iuUBIDywH) | 3:38 | 2021-03-09 | 2022-01-17 |
 | [True Colours \(Sometime I'll Get Through\)](https://open.spotify.com/track/42SeGdgNjDJxzuc9YRVOn6) | [Gently Tender](https://open.spotify.com/artist/483bBNsBBCvjAnx2Sc8BHc) | [True Colours \(Sometime I'll Get Through\)](https://open.spotify.com/album/764Zqu3swQwYLSLz5qftq6) | 4:30 | 2022-08-18 |  |
 | [Try Try Try](https://open.spotify.com/track/5RIVwMLtGIriw8JS73Fleg) | [Pillow Queens](https://open.spotify.com/artist/7BDvurihyagH0uSPNDJX7d) | [Leave The Light On](https://open.spotify.com/album/71yW0rxm0PtKpgdCHJabyY) | 4:51 | 2022-04-01 |  |

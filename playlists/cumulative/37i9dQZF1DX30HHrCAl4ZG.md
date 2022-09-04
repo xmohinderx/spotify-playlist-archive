@@ -4,7 +4,7 @@
 
 > The pulse of new indie rock\. Cover: EKKSTACY
 
-628 songs - 1 day 10 hr 10 min - [published](https://open.spotify.com/playlist/6NQ4UrfxHZRCQftucSkbbm)
+629 songs - 1 day 10 hr 14 min - [published](https://open.spotify.com/playlist/6NQ4UrfxHZRCQftucSkbbm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -557,7 +557,8 @@
 | [Think Nothing](https://open.spotify.com/track/2beHFbJTzHSDZ9smRsq9TK) | [Sydney Sprague](https://open.spotify.com/artist/6kclOkS27VyWBtdnNq5GHs) | [Think Nothing](https://open.spotify.com/album/1pW4u5dnjaMZVMJHR4oIZ6) | 3:31 | 2022-06-25 | 2022-08-27 |
 | [Thunder](https://open.spotify.com/track/0afGLa6wcYiLLXFZ48ZQpY) | [Roy Blair](https://open.spotify.com/artist/6Sa4YbwEdGlfVSJMF1Lp67) | [Cat Heaven](https://open.spotify.com/album/0Z9NeEvqeecaLCFUmI4uDw) | 5:13 | 2021-08-04 | 2022-04-14 |
 | [Tide](https://open.spotify.com/track/0zzqcfPGHQ2A4faQqDHI1P) | [JDM Global](https://open.spotify.com/artist/3wFZTYWrzLzOf8OICy9fBl) | [SUMMER 21 PACK](https://open.spotify.com/album/58U8f9M3enmjO0BLlhE1xJ) | 2:21 | 2021-06-07 | 2022-06-07 |
-| [Time](https://open.spotify.com/track/1kOrZmrSnP1gub1kneRNHF) | [Vundabar](https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6) | [Time](https://open.spotify.com/album/7cwi5zqBBnLFVNO1HR49Zd) | 4:22 | 2022-08-12 |  |
+| [Time](https://open.spotify.com/track/1kOrZmrSnP1gub1kneRNHF) | [Vundabar](https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6) | [Time](https://open.spotify.com/album/7cwi5zqBBnLFVNO1HR49Zd) | 4:22 | 2022-08-12 | 2022-09-04 |
+| [Time](https://open.spotify.com/track/5OSMmIX3QvBW5wrChEujmZ) | [Vundabar](https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6) | [Shadow Boxing](https://open.spotify.com/album/2ClkPaYrHeaHGxiiSaMoyA) | 4:22 | 2022-08-12 |  |
 | [TIME OF DAY](https://open.spotify.com/track/3pQy3FYvbkXQonhmR0TAf6) | [dev soter](https://open.spotify.com/artist/72o6x8c93sNk9FjARfRyCy) | [TIME OF DAY](https://open.spotify.com/album/5PBfJD3OGp8045tw9uf7oi) | 2:11 | 2022-06-10 | 2022-06-29 |
 | [Today](https://open.spotify.com/track/7ItKJuyZQ1MZaj7poaKqiX) | [Kowloon](https://open.spotify.com/artist/4VQqGf7U3RUspgTsprypWE) | [Today](https://open.spotify.com/album/5Z04J4vKoqbTdcPMav6SPC) | 3:31 | 2022-06-14 | 2022-08-27 |
 | [Tom's Diner](https://open.spotify.com/track/0oA9wBGDY4uyILLg4GymWP) | [AnnenMayKantereit](https://open.spotify.com/artist/23xqmJEN3oVxwzqtNIyR5m), [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Tom's Diner](https://open.spotify.com/album/7ClPGbXY81egfNn8H1hDAg) | 4:29 | 2022-03-09 | 2022-05-20 |

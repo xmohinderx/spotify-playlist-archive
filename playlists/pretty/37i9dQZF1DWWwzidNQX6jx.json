@@ -1,12 +1,12 @@
 {
   "description": "These songs rocked the 70s.",
-  "num_followers": 1544452,
+  "num_followers": 1543505,
   "original_name": "70s Rock Anthems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODQxODcwMCwwMDAwMDAwMDFkYmU5NzIwNDY2YTllN2EyODljODdlNGU2OTk5NmM0",
+  "snapshot_id": "MTY1ODQxODcwMCwwMDAwMDAwMGM3MWRkMGNhNjY1MTcyZTM3NjIwZDUxNWJiYzIzMzY3",
   "tracks": [
     {
       "added_at": "2022-01-25 05:35:40",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2022-01-25 05:35:40",
       "album": {
-        "name": "Lola Versus Powerman and the Moneygoround, Pt. One",
-        "url": "https://open.spotify.com/album/4jaLfcNpIrOgcPyXuuiHTi"
-      },
-      "artists": [
-        {
-          "name": "The Kinks",
-          "url": "https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E"
-        }
-      ],
-      "duration_ms": 241040,
-      "name": "Lola",
-      "url": "https://open.spotify.com/track/0UAJH0k4k3slcE83a9UGCe"
-    },
-    {
-      "added_at": "2022-01-25 05:35:40",
-      "album": {
         "name": "A New World Record",
         "url": "https://open.spotify.com/album/7a35UzxXYuKQGMGImyB0Un"
       },
@@ -1211,22 +1195,6 @@
     {
       "added_at": "2022-01-25 05:35:40",
       "album": {
-        "name": "Sticky Fingers (Remastered)",
-        "url": "https://open.spotify.com/album/29m6DinzdaD0OPqWKGyMdz"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "duration_ms": 341773,
-      "name": "Wild Horses - 2009 Mix",
-      "url": "https://open.spotify.com/track/52dm9op3rbfAkc1LGXgipW"
-    },
-    {
-      "added_at": "2022-01-25 05:35:40",
-      "album": {
         "name": "Heaven Tonight",
         "url": "https://open.spotify.com/album/5w20U3G3GyWiPvvDeVzkhN"
       },
@@ -1239,6 +1207,22 @@
       "duration_ms": 253733,
       "name": "Surrender",
       "url": "https://open.spotify.com/track/2ccUQnjjNWT0rsNnsBpsCA"
+    },
+    {
+      "added_at": "2022-01-25 05:35:40",
+      "album": {
+        "name": "Sticky Fingers (Remastered)",
+        "url": "https://open.spotify.com/album/29m6DinzdaD0OPqWKGyMdz"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 341773,
+      "name": "Wild Horses - 2009 Mix",
+      "url": "https://open.spotify.com/track/52dm9op3rbfAkc1LGXgipW"
     },
     {
       "added_at": "2022-01-25 05:35:40",
@@ -1607,6 +1591,22 @@
       "duration_ms": 467640,
       "name": "Foreplay / Long Time",
       "url": "https://open.spotify.com/track/39C5FuZ8C8M0QI8CrMsPkR"
+    },
+    {
+      "added_at": "2022-01-25 05:35:40",
+      "album": {
+        "name": "Machine Head",
+        "url": "https://open.spotify.com/album/1EK3a0Yctg4d3nGQzE4Uty"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 342173,
+      "name": "Smoke on the Water",
+      "url": "https://open.spotify.com/track/5SAUIWdZ04OxYfJFDchC7S"
     }
   ],
   "unique_name": "70s Rock Anthems",

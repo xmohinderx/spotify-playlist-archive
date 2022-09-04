@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCdOD1jAvLL.md) - [plain]
 
 > Ride the bassline\. Cover: Yurie
 
-[Spotify](https://open.spotify.com/user/spotify) - 182,685 likes - 75 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 182,987 likes - 75 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Night Shift](https://open.spotify.com/track/1wxgWPF7uUr9aHDC9QuMEO) | [One True God](https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp), [MASTERIA](https://open.spotify.com/artist/1cI5bP7j48xbopq0T3PRZO) | [Night Shift](https://open.spotify.com/album/5bjUYlYhUdopRQw4Lq4cKT) | 3:50 |
 | 2 | [Mercury](https://open.spotify.com/track/25dFcH5EsCJLMSmFDDJLT3) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [Mercury](https://open.spotify.com/album/5q2bsjSrluBoWf3F61Fofp) | 3:45 |
-| 3 | [Your Mind \- Edit](https://open.spotify.com/track/58MI1jBCURLQ9BIUlOsUSP) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu), [Bart Skils](https://open.spotify.com/artist/6iWBjg4b4ll4jLiParnWXT), [Charles D \(USA\)](https://open.spotify.com/artist/4JM9MtRRutmQVooyHnFTD1) | [Your Mind](https://open.spotify.com/album/1Vm1f8irxwi2mkr3CZlFm4) | 3:36 |
+| 3 | [Your Mind \- Epic Edit](https://open.spotify.com/track/58MI1jBCURLQ9BIUlOsUSP) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu), [Bart Skils](https://open.spotify.com/artist/6iWBjg4b4ll4jLiParnWXT), [Charles D \(USA\)](https://open.spotify.com/artist/4JM9MtRRutmQVooyHnFTD1) | [Your Mind](https://open.spotify.com/album/1Vm1f8irxwi2mkr3CZlFm4) | 3:36 |
 | 4 | [Into My Arms \- Radio Edit](https://open.spotify.com/track/66XJcRIDGLTuH7YIcdl8i6) | [Yurie](https://open.spotify.com/artist/7wDogImylcF6JsvvvXaCZ5) | [Into My Arms \(Radio Edit\)](https://open.spotify.com/album/3AQHOXLLh2mO5x5SOAA7yj) | 3:35 |
 | 5 | [Children \- Radio Edit](https://open.spotify.com/track/7Bg90Jhm3Dhtu7m2YCpo6C) | [Deborah de Luca](https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B), [Robert Miles](https://open.spotify.com/artist/2YVF0Ou5zIc4mpgtLIlGN0) | [Children](https://open.spotify.com/album/4pAD0l5icphM5TC1A4q8Yn) | 3:26 |
 | 6 | [I Will](https://open.spotify.com/track/43z2fGPJgfnhOI8w6vofIa) | [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL) | [I Will / Beloved](https://open.spotify.com/album/6fMuOTyOG2V1gOA9qFo7d8) | 5:08 |

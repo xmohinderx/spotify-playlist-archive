@@ -1121,10 +1121,28 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-04",
       "duration_ms": 228000,
       "name": "Sentimiento Irie",
       "url": "https://open.spotify.com/track/2dBnP0azB88OTcJyc8WHLi"
+    },
+    {
+      "album": {
+        "name": "Pueblo",
+        "url": "https://open.spotify.com/album/2dB1lYA9YReuwbJP7IUlEu"
+      },
+      "artists": [
+        {
+          "name": "La Tifa",
+          "url": "https://open.spotify.com/artist/4iEgVksJc31oR01iG8vhGh"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "Sentimiento Irie",
+      "url": "https://open.spotify.com/track/2djzPkM3Py7pAnNkgyKCH1"
     },
     {
       "album": {

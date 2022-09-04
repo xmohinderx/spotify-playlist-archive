@@ -4,7 +4,7 @@
 
 > When the night isn't over just yet.
 
-208 songs - 15 hr 49 min - [published](https://open.spotify.com/playlist/0Of8ma195u6f1pUyvCxvgT)
+209 songs - 15 hr 52 min - [published](https://open.spotify.com/playlist/0Of8ma195u6f1pUyvCxvgT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,7 +140,8 @@
 | [Oph Bloop](https://open.spotify.com/track/3JQ9u08xLHXCsnn6JaWrV2) | [DJ Python](https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl) | [HeForShe x femme culture Vol\. 3](https://open.spotify.com/album/3Q6LjwrgE8f7Si2y7PXGkZ) | 5:07 | 2021-11-24 | 2022-02-04 |
 | [Origin's Riddim \- Fight Pausa Remix](https://open.spotify.com/track/6K9QWn5EhXhDD8G7rfN3F4) | [BLCKEBY](https://open.spotify.com/artist/1G8BD1EWDzJ56U2YNYmoHA), [Fight Pausa](https://open.spotify.com/artist/1BkdvKE1YNIAAWrLNzLWKU) | [INNER REMIX PACK](https://open.spotify.com/album/6SHKM808iHjSSe0aP0YOes) | 4:17 | 2021-11-24 | 2022-06-28 |
 | [Pastee](https://open.spotify.com/track/3YhQ6hZGj2mwQft8pMdpZY) | [Lujo Asiático](https://open.spotify.com/artist/2csUTFyZd2E2Zxk1v2RJFI) | [Pastee](https://open.spotify.com/album/7wSGBuSkct1bF9DLfR6MAv) | 6:08 | 2021-11-24 | 2022-03-12 |
-| [Patterns](https://open.spotify.com/track/7qLrWXTgPdE2Sw3zTnhe67) | [Nate Brazier](https://open.spotify.com/artist/4cavlP5GhgtNXiWSS3wIO7) | [Patterns](https://open.spotify.com/album/0rlIVUflILXZZCXWtYHRuc) | 2:39 | 2022-06-20 |  |
+| [Patterns](https://open.spotify.com/track/2WrGssfEIP2TQKv6iW0Jxj) | [Nate Brazier](https://open.spotify.com/artist/4cavlP5GhgtNXiWSS3wIO7) | [Feels](https://open.spotify.com/album/1A4mtUT5oyEEUFYR7RPb0y) | 2:39 | 2022-06-20 |  |
+| [Patterns](https://open.spotify.com/track/7qLrWXTgPdE2Sw3zTnhe67) | [Nate Brazier](https://open.spotify.com/artist/4cavlP5GhgtNXiWSS3wIO7) | [Patterns](https://open.spotify.com/album/0rlIVUflILXZZCXWtYHRuc) | 2:39 | 2022-06-20 | 2022-09-04 |
 | [Pause](https://open.spotify.com/track/4r1sucDlwhcDNobr2rDmIH) | [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0), [Beacon](https://open.spotify.com/artist/3sb3yLRnhW2L2ulU93eKfl) | [Now Here No Where](https://open.spotify.com/album/2PIN5JlqhdClGkTsvauX36) | 5:40 | 2021-11-24 | 2022-03-14 |
 | [Peaceful Groove](https://open.spotify.com/track/5JP4iOnbCRu7zfYd95oG7V) | [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l) | [Peaceful Groove](https://open.spotify.com/album/4KNqp5ucheEGU8MgUD3Te0) | 3:31 | 2021-11-24 | 2022-07-29 |
 | [Peaceful Groove](https://open.spotify.com/track/6wSH047nyWHvlasvivVeMK) | [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l) | [Reality Refresh 3](https://open.spotify.com/album/5veblHHhKvDHweWmbaBNEn) | 3:31 | 2022-06-20 |  |

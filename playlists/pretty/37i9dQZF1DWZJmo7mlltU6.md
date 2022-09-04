@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 
 > Beyond genre, beyond language, beyond borders\. Cover: HYBS
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,358 likes - 105 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,563 likes - 105 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

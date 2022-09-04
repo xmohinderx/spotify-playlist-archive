@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcpzpfnVhpIz.md) - [plain]
 
 > Italian superstar producer & DJ <a href="spotify:artist:5ENS85nZShljwNgg4wFD7D">Gabry Ponte</a> promises a good time with his mix featuring recent hits!
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,035 likes - 19 songs - 58 min 15 sec
+[Spotify](https://open.spotify.com/user/spotify) - 9,068 likes - 19 songs - 58 min 15 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcpzpfnVhpIz.md) - [plain]
 | 13 | [Odyssey \- Mixed](https://open.spotify.com/track/74caR25H3P8UR9AGiqCxqw) | [Guy Scheiman](https://open.spotify.com/artist/1q3efgluOwme3U175ED6l5), [Rafael Barreto](https://open.spotify.com/artist/7hI3eZ9qhvkRcwA51LFXGy) | [Odyssey \(Mixed\)](https://open.spotify.com/album/4uOkNcwxyGI4zd7aMElTNm) | 2:38 |
 | 14 | [Give My All \- Gabry Ponte & R3SPAWN Remix Edit \- Mixed](https://open.spotify.com/track/20CgCb9BEgKlVhkJelHKsN) | [R3SPAWN](https://open.spotify.com/artist/2Pfp9mATiuKRzCMLhfs3tB), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Give My All \- Gabry Ponte & R3SPAWN Remix Edit \(Mixed\)](https://open.spotify.com/album/2HM3SRClBL0jIWjPZn9aiQ) | 3:17 |
 | 15 | [Flexin \- Mixed](https://open.spotify.com/track/4iquRRlk4yOUxA6p9pDked) | [Mike Candys](https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9) | [Flexin \(Mixed\)](https://open.spotify.com/album/5g7IAfon0PFXDOHFhtCV1o) | 2:29 |
-| 16 | [Love Is Gone \(Tiësto Remix\) \- Mixed](https://open.spotify.com/track/6ILn3LTuMX5h0CB5LaiWEM) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Dylan Matthew](https://open.spotify.com/artist/6d0ZjIp5L7Ygy2l02HskRX), [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q) | [Love Is Gone \(Tiësto Remix\) \[Mixed\]](https://open.spotify.com/album/0VUNhVuBEVa5slfPUyrsAM) | 2:58 |
+| 16 | [Love Is Gone \- Tiësto Remix \- Mixed](https://open.spotify.com/track/6ILn3LTuMX5h0CB5LaiWEM) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q), [Dylan Matthew](https://open.spotify.com/artist/6d0ZjIp5L7Ygy2l02HskRX) | [Love Is Gone \- Tiësto Remix \(Mixed\)](https://open.spotify.com/album/0VUNhVuBEVa5slfPUyrsAM) | 2:58 |
 | 17 | [Our Love \- Mixed](https://open.spotify.com/track/0btEPFTDXQON3rupI5YfVg) | [Alexandra Badoi](https://open.spotify.com/artist/4HoXJ3c9TIwcRwnEjIj4a7), [Andrew Mirt](https://open.spotify.com/artist/1KaSbBC2GyoCF1cBMfQWOB), [FEEL](https://open.spotify.com/artist/79pkz4kQTE5mLWss4U0ozi) | [Our Love \(Mixed\)](https://open.spotify.com/album/0Lr2T4XOAGmjWx1PNkYUmQ) | 3:43 |
 | 18 | [Thunder](https://open.spotify.com/track/2USlegnFJLrVLpoVfPimKB) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy), [Prezioso](https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr) | [Thunder](https://open.spotify.com/album/35Q09Y0b7ZxOoCdF7sBiGf) | 2:40 |
 | 19 | [Ferris Wheel \- Ashley Wallbridge Remix \- Mixed](https://open.spotify.com/track/1WQ8ibSIyPrDkiwnuehnd3) | [Gid Sedgwick](https://open.spotify.com/artist/3Y43xMeiPftAookVOSKu1Y), [Norni](https://open.spotify.com/artist/6huxF5zlE1RX4sKRUWlEeW), [Ashley Wallbridge](https://open.spotify.com/artist/4hNpdlfPY7R51u4FEkBxJG) | [Ferris Wheel \- Ashley Wallbridge Remix \(Mixed\)](https://open.spotify.com/album/12InWOMfp0IuhvnYF2UA6r) | 2:26 |

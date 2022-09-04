@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > Here's your cheat sheet for everything on the rise in the rock/alt world\. Cover: Alex Lahey
 
-[Spotify](https://open.spotify.com/user/spotify) - 403,275 likes - 125 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 402,851 likes - 125 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,7 +94,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 84 | [Overrated](https://open.spotify.com/track/5pfU5BzNAY2ICD6ebEdTQ2) | [The Foxies](https://open.spotify.com/artist/02Gz7Nb7bIi0oxLIXYELYd) | [Overrated](https://open.spotify.com/album/4bwu7tY0egNlRfdnckf6gE) | 2:59 |
 | 85 | [Unlovable](https://open.spotify.com/track/43wZfR5xALfBTKWolvDmya) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [Unlovable](https://open.spotify.com/album/3feABk2LYfvJgfSXyjgqU8) | 3:30 |
 | 86 | [Sepsis](https://open.spotify.com/track/73l5Us2TN9br8gcWiDWTqQ) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Sepsis](https://open.spotify.com/album/1JfaROA8duCvTAwKO1z06l) | 3:48 |
-| 87 | [Time](https://open.spotify.com/track/1kOrZmrSnP1gub1kneRNHF) | [Vundabar](https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6) | [Time](https://open.spotify.com/album/7cwi5zqBBnLFVNO1HR49Zd) | 4:22 |
+| 87 | [Time](https://open.spotify.com/track/5OSMmIX3QvBW5wrChEujmZ) | [Vundabar](https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6) | [Shadow Boxing](https://open.spotify.com/album/2ClkPaYrHeaHGxiiSaMoyA) | 4:22 |
 | 88 | [Grace](https://open.spotify.com/track/0aJq40QZqvfGubgfKy5knk) | [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB) | [Grace](https://open.spotify.com/album/44ei9ptYrZ8ys7aXPW6bF8) | 4:13 |
 | 89 | [Doomed](https://open.spotify.com/track/5hlZoMfZ53CuPdnJhVzJzi) | [New Friends](https://open.spotify.com/artist/7aHNy2bjgGqOeFqUZ1shgb) | [Doomed](https://open.spotify.com/album/20gXBrfqHiZpUCFuVWCeup) | 2:25 |
 | 90 | [Human Condition](https://open.spotify.com/track/3HPCA6J5A8kkcZzQxPieGW) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [Human Condition](https://open.spotify.com/album/74ITqOAxrBRws1DJty5e85) | 3:50 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 124 | [Red, White, & Blue](https://open.spotify.com/track/3uQGhH7WjwJ9CEmPNhJJOp) | [Proper.](https://open.spotify.com/artist/07fRiLziB7HEpoJippeKdK) | [The Great American Novel](https://open.spotify.com/album/1sU0VVU5cs5E83FMy6ZfGa) | 2:42 |
 | 125 | [Strange](https://open.spotify.com/track/5v4xDlNK0smxEEyDYllHqE) | [Stuck On Planet Earth](https://open.spotify.com/artist/1SFdaY4s5BAQMk2X7YIhAS) | [Strange](https://open.spotify.com/album/031HiIVUQWo1Nlzf9AnCIS) | 3:01 |
 
-Snapshot ID: `MTY2MjA5MTMyMCwwMDAwMDAwMDE2YmFmNWQ0ZWY1NTRmODc3MDM2ZGQwZjFjYmQxOWEz`
+Snapshot ID: `MTY2MjA5MTMyMCwwMDAwMDAwMDM0OTJjZWUyZDdhMGE4OGMwODcwMjNmOGZlZTdjODBi`

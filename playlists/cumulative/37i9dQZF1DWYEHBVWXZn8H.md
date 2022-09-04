@@ -4,7 +4,7 @@
 
 > The essential tracks, all in one playlist.
 
-103 songs - 7 hr 49 min - [published](https://open.spotify.com/playlist/0oElCuxJ6tGmauIUa0OXSM)
+104 songs - 7 hr 51 min - [published](https://open.spotify.com/playlist/0oElCuxJ6tGmauIUa0OXSM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,8 @@
 | [Palaces of Montezuma](https://open.spotify.com/track/6wPTh6wPe6B3QcsNSWFSFA) | [Grinderman](https://open.spotify.com/artist/0IpDaO9A1OW1h0YChKzVaX) | [Grinderman 2](https://open.spotify.com/album/5XqENSDSTSveo4eBTwjrW1) | 3:32 | 2021-02-24 |  |
 | [Red Right Hand](https://open.spotify.com/track/7HrpPxCR5OYislYvUT4h79) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Let Love In](https://open.spotify.com/album/7CR3tuhXFsntLZs680B5rL) | 6:10 | 2021-02-24 | 2022-07-29 |
 | [Red Right Hand \- 2011 Remastered Version](https://open.spotify.com/track/0qHeP8zt2WWef7EWCs1ECj) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Let Love In \(2011 Remastered Version\)](https://open.spotify.com/album/0Ewp4PEIzkcAyrC463a5xF) | 6:10 | 2021-02-24 |  |
-| [Release The Bats](https://open.spotify.com/track/1gvhqMMbek9ezNtmu4txNJ) | [The Birthday Party](https://open.spotify.com/artist/5I2hMUcztc6QbzkyLskdt4) | [Junkyard](https://open.spotify.com/album/1JfIRGXDOQFlP1OGWzmvL5) | 2:31 | 2021-02-24 |  |
+| [Release The Bats](https://open.spotify.com/track/1gvhqMMbek9ezNtmu4txNJ) | [The Birthday Party](https://open.spotify.com/artist/5I2hMUcztc6QbzkyLskdt4) | [Junkyard](https://open.spotify.com/album/1JfIRGXDOQFlP1OGWzmvL5) | 2:31 | 2021-02-24 | 2022-09-04 |
+| [Release The Bats](https://open.spotify.com/track/2CVsEpXpqU8ZEafa5SzIGI) | [The Birthday Party](https://open.spotify.com/artist/5I2hMUcztc6QbzkyLskdt4) | [Junkyard](https://open.spotify.com/album/7dnXe2EVoWKwGGGRLnoieV) | 2:31 | 2021-02-24 |  |
 | [Release the Bats](https://open.spotify.com/track/3TLjvoo96RxZlg9iBOi8Jb) | [The Birthday Party](https://open.spotify.com/artist/5I2hMUcztc6QbzkyLskdt4) | [Junkyard](https://open.spotify.com/album/1oiC3mdgLddL5kHZsf4DK7) | 2:31 | 2021-02-24 | 2022-07-29 |
 | [Rings Of Saturn](https://open.spotify.com/track/2DJm8k4qUOF5m9yiDPt6gE) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Skeleton Tree](https://open.spotify.com/album/34xaLN7rDecGEK5UGIVbeJ) | 3:28 | 2021-02-24 |  |
 | [Rock of Gibraltar](https://open.spotify.com/track/4VsoKFc549YXzcJ2gNdIko) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Nocturama](https://open.spotify.com/album/3FgAZqG6AJyYxpLQkHckxS) | 3:00 | 2021-02-24 |  |

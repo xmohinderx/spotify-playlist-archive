@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 
 > Plutonio entra na zona.
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,835 likes - 75 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,880 likes - 75 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 | 60 | [Feeling](https://open.spotify.com/track/7mOrrV6qtWJsIccPN8uVVM) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [Feeling](https://open.spotify.com/album/7zhvYBdgnFgEoe24GUOwbm) | 3:45 |
 | 61 | [Marcas De Bikini](https://open.spotify.com/track/6lk0wakzghDJLnlQVK9qD3) | [LEO2745](https://open.spotify.com/artist/1MBezd5OaoWoOTQVs16FOx), [Waze](https://open.spotify.com/artist/0CHentDviLeOrlfyu96uVm) | [Marcas De Bikini](https://open.spotify.com/album/7FOJWf7cL28upX4jHRdEL3) | 3:23 |
 | 62 | [Nu Ta Txiga La](https://open.spotify.com/track/3oi9YkcoEbb0B0LpvT1xPM) | [DreNaz](https://open.spotify.com/artist/5urWzy2mamyT5sMTE5H00O) | [Nu Ta Txiga La](https://open.spotify.com/album/7x85yvxeZjbBFT1UzYpZWU) | 2:54 |
-| 63 | [Errado ou Certo](https://open.spotify.com/track/2bVf4gzQlwvpMpviDiB9NP) | [DEEZYX](https://open.spotify.com/artist/0aifFW6Ag5kaEcYPN1VZj8) | [Errado ou Certo](https://open.spotify.com/album/3wNd1Gd95BHO9lFoyNEyRJ) | 4:09 |
+| 63 | [Errado Ou Certo](https://open.spotify.com/track/25mjzt2zSXWSMgOwliEaVW) | [Deezy](https://open.spotify.com/artist/6EoXtJUmzYqNzkMVH1o5gN) | [Errado Ou Certo](https://open.spotify.com/album/6Ldl8CFN2ekAROeSqSDKXZ) | 4:12 |
 | 64 | [M.O.D \(feat\. Xakal Da Gun & Piruka \)](https://open.spotify.com/track/7Hv96cbXLVcSFW1EBpjA8t) | [Kosmo Da Gun](https://open.spotify.com/artist/1FOT6e8G1FnUBH1LDNX0X1), [Piruka](https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC), [Xakal Da Gun](https://open.spotify.com/artist/4swNK0k8teorELHJdglw6S) | [M.O.D \(feat\. Xakal Da Gun & Piruka \)](https://open.spotify.com/album/1ROz5se04TrvGR6sIaMZGv) | 4:10 |
 | 65 | [Shin Chan](https://open.spotify.com/track/5RD8mlX4m6jRGgiW1BYU6h) | [PAULELSON](https://open.spotify.com/artist/2eAoYU1GFYA7zDRIALrJfq) | [Shin Chan](https://open.spotify.com/album/3dE59HkocFHQh031wtJE7o) | 2:58 |
 | 66 | [Pinta Manta](https://open.spotify.com/track/3JQBiS1BHgoIQ8rerXQCcX) | [Rafa G](https://open.spotify.com/artist/0soQA1h9MhiA0NphWUecWi), [Mc Acondize](https://open.spotify.com/artist/39yq2GrGjYbLCZE4d2cRvZ) | [Pinta Manta](https://open.spotify.com/album/4h7VKfONb0AHBtOfOWv5w9) | 3:07 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 | 74 | [Estadia](https://open.spotify.com/track/1ivRu9ANM1hYBgeNDZyRmX) | [LEO2745](https://open.spotify.com/artist/1MBezd5OaoWoOTQVs16FOx) | [Estadia](https://open.spotify.com/album/7rHFACi1s7gKshBvKBCbDN) | 3:27 |
 | 75 | [No Stress No Money](https://open.spotify.com/track/0RyfhIcs0AQwwXHoqrSjcg) | [Cíntia](https://open.spotify.com/artist/4WqTcvQjAIpyRqnWX6jRmU) | [No Stress No Money](https://open.spotify.com/album/21XZSV4v4PA8cDsaUyip0l) | 2:57 |
 
-Snapshot ID: `MTY2MjA3MzIwMCwwMDAwMDAwMDA4YjlhODJmMTUwODdmYWM4Zjg5N2U5Y2Q2ZDU3ZTdj`
+Snapshot ID: `MTY2MjA3MzIwMCwwMDAwMDAwMDI0NWEwZjIwMmEzNTkxYmI2NDJiNzRmMTVmYzE5ZDBi`

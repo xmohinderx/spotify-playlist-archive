@@ -1788,6 +1788,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [IDM Essentials](/playlists/pretty/37i9dQZF1DXbjZQOVqxNHv.md)
 - [IDOL : The Coup](/playlists/pretty/37i9dQZF1DWTm9PQomW7Or.md)
 - [INITIAL D \-頭文字D](/playlists/pretty/37i9dQZF1DWU4aFimZ74X3.md)
+- [IRL ANGEL](/playlists/pretty/37i9dQZF1DX7Ocjwy96xTX.md)
 - [Ibiza Sunset](/playlists/pretty/37i9dQZF1DX9FIMhEujaK6.md)
 - [Iconic Arab Women](/playlists/pretty/37i9dQZF1DX2n3M5TFjAxY.md)
 - [Iconic Soundtracks](/playlists/pretty/37i9dQZF1DX1tz6EDao8it.md)

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5Q8muTQked.md) - [plain]
 
 > Kick back with the perfect mix of covers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,103,953 likes - 250 songs - 15 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,104,094 likes - 250 songs - 15 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

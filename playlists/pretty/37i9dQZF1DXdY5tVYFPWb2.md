@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdY5tVYFPWb2.md) - [plain]
 
 > 再び脚光を浴びる日本のシティ・ポップの今をお届けします。
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,216 likes - 59 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,321 likes - 59 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdY5tVYFPWb2.md) - [plain]
 | 34 | [エモめの夏](https://open.spotify.com/track/2o2yCUIo6XUIIselWfjKw3) | [Lucky Kilimanjaro](https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV) | [DAILY BOP](https://open.spotify.com/album/1YOYK7r5fpf5dRJDr2KdOU) | 2:25 |
 | 35 | [summer magic](https://open.spotify.com/track/0Ho6R2SLilYWwABq2jvjDy) | [showmore](https://open.spotify.com/artist/5iISQR00Eel3mcB8eKlsRt), [Peggy Doll](https://open.spotify.com/artist/7enIQp3MHjqkOLVAXvcwDs) | [summer magic](https://open.spotify.com/album/18UK124C27nPnkqSuTKkVq) | 3:52 |
 | 36 | [「あの娘は誰?」とか言わせたい](https://open.spotify.com/track/4oHcqir3Q8Rr8x7xJiGao4) | [KIRINJI](https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7) | [cherish](https://open.spotify.com/album/3hJezmiYPXSjbYEsJ0Xu30) | 4:39 |
-| 37 | [うそつき](https://open.spotify.com/track/6tKhV1RnmuzL3rdjBEVMcO) | [本山さくら](https://open.spotify.com/artist/1CImspQWfbaHBURjEALbzT) | [うそつき](https://open.spotify.com/album/6QghdFGpV6RT0yu63fwy2G) | 4:30 |
+| 37 | [うそつき](https://open.spotify.com/track/6tKhV1RnmuzL3rdjBEVMcO) | [Sakura Motoyama](https://open.spotify.com/artist/0paAjezDbecmF7vgAVS0hC) | [うそつき](https://open.spotify.com/album/6QghdFGpV6RT0yu63fwy2G) | 4:30 |
 | 38 | [IMA](https://open.spotify.com/track/4L9DM1h6qdDdHzv7b07Xlz) | [Aile The Shota](https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju) | [IMA](https://open.spotify.com/album/2yMvBOJATTkn4wDhZZotIT) | 3:37 |
 | 39 | [yugi](https://open.spotify.com/track/2SgXOT2HryYnbtWL7JfIFy) | [yonawo](https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ) | [yugi](https://open.spotify.com/album/7eexbOyxF5ZxRboSPVuNVc) | 3:21 |
 | 40 | [シルクのカーディガン](https://open.spotify.com/track/0x672Wfq58Hq63RRCZuNrU) | [Lafuzin](https://open.spotify.com/artist/1AHiKEHZA1R7NmOeUMmhoo), [BRIAN SHINSEKAI](https://open.spotify.com/artist/162nZqAL1seshcby7rd2gY) | [シルクのカーディガン](https://open.spotify.com/album/0muk59f6rTTaYplWMMhwIn) | 4:46 |

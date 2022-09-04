@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uFbqkOlzEH.md) - [plain]
 
 > Crush on Crush's K\-R&B and musics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,765 likes - 101 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,649 likes - 101 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uFbqkOlzEH.md) - [plain]
 | 64 | [You in my arms \(From The Original TV Show "Begin Again Korea"\) \(Live\)](https://open.spotify.com/track/3R1pb4dWmpMLqxfrwMep2u) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Begin Again Korea, Episode\. 10 \(Original Television Soundtrack\) \(Live\)](https://open.spotify.com/album/1GrNKv6qqmXfbBTdILPwwf) | 5:13 |
 | 65 | [Where We Go?](https://open.spotify.com/track/7mvLke5LPlrARps4NEraHi) | [GARY](https://open.spotify.com/artist/5myBH2YqzOgyWoTKCsydAi), [태완](https://open.spotify.com/artist/6OK3Lf8Ws6A4UdRw3lMNZo), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [어디 갈래](https://open.spotify.com/album/241C7eIjOPWZZFp3WJM6mY) | 3:32 |
 | 66 | [Sleepless Night \(feat\. Punch\)](https://open.spotify.com/track/06qX0YB7c6ePHglG14TN39) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [Punch](https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm) | [It's alright This is love \(Original Television Soundtrack\) Vol\. 1](https://open.spotify.com/album/6QW5oofVFc5T7zAdCJEHd0) | 3:57 |
-| 67 | [Still \(feat\. Crush\)](https://open.spotify.com/track/6YqCGn0NH9OpMFUFiFWHdc) | [DAWN 던](https://open.spotify.com/artist/7DxCK6bwfQC3F2ajZ02R2F), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [던디리던](https://open.spotify.com/album/4SNTdJEmWAbPVmqSApkOAd) | 3:13 |
+| 67 | [Still \(Feat\. Crush\)](https://open.spotify.com/track/0PiRlZ1bf5nzeuCsAmjJnM) | [DAWN 던](https://open.spotify.com/artist/7DxCK6bwfQC3F2ajZ02R2F), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [DAWNDIDIDAWN](https://open.spotify.com/album/0HyKwRk4xvspJHZdT0eiDb) | 3:13 |
 | 68 | [Tiki\-Taka \(feat\. DPR LIVE\)](https://open.spotify.com/track/2j4yzg8wYCZjM17oyhX5rl) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [DPR LIVE](https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg) | [From Midnight To Sunrise](https://open.spotify.com/album/4HejSNN1hxuW9AVVE9cr6h) | 3:16 |
 | 69 | [One of Those Nights](https://open.spotify.com/track/5eaoYciatDXxcxIoGwc0dh) | [KEY](https://open.spotify.com/artist/6XXKPxRX2WWPPtfodzpc2v), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [I Wanna Be \- The 1st Album Repackage](https://open.spotify.com/album/2QDzBw32zlyvFtfeRCoSFH) | 3:10 |
 | 70 | [NO SENSE \(Feat\. Crush\)](https://open.spotify.com/track/39EXwHjKDUVjvBu6Pv5SiH) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [I AM SAM](https://open.spotify.com/album/6iV30nbNl5Gmm2jG7Ej44D) | 3:39 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uFbqkOlzEH.md) - [plain]
 | 100 | [Peace \(Prod\. By Cosmic Boy\) \(Feat\. Crush, Choi LB\)](https://open.spotify.com/track/6srHgSGinLdhwZCJezlcNd) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq), [CHOILB](https://open.spotify.com/artist/02WoRfOhF5nUVpwddshInq), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [hightechnology](https://open.spotify.com/album/04zlcxqJ5PJ8PY6wwkTmER) | 3:57 |
 | 101 | [You Are My Lady \(해외파 뮤지션 마이콜\)](https://open.spotify.com/track/1F1PRYM5ZKwXX8CKAegvMi) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Mask Singer 64th \(Live Version\)](https://open.spotify.com/album/0GTENfEeLNiEAqynhk8oRN) | 4:25 |
 
-Snapshot ID: `MTYwOTA2MTUxMywwMDAwMDAwMGQzNjRjNGMyNmIwZmFmOTlmM2MxNWRlOGQ4YTgxNTZm`
+Snapshot ID: `MTYwOTA2MTUxMywwMDAwMDAwMDlhNDcxNWZmOGRlNjM5NzAxNjY4NTAyZjI3NmQ2NmUw`

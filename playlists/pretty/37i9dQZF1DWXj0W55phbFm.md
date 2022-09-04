@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXj0W55phbFm.md) - [plain]
 
 > The classic trumpet players in jazz\. Cover: Miles Davis
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,137 likes - 100 songs - 10 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,164 likes - 100 songs - 10 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

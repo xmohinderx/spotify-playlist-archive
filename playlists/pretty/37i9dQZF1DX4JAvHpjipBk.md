@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Lil Baby, Ari Lennox & Summer Walker, Arctic Monkeys,  and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,954,308 likes - 99 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,953,710 likes - 99 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 22 | [White Mercedes](https://open.spotify.com/track/5N1OdVOQ1bVpSogyDIsJBJ) | [Payday](https://open.spotify.com/artist/6I7IZDntAGBmzkCANUmtV0) | [White Mercedes](https://open.spotify.com/album/5f9ZjV6R5HhN30D7YkNt6F) | 1:50 |
 | 23 | [Cyclone](https://open.spotify.com/track/36SEfTZlBgmypZn0sgGroO) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [Cyclone](https://open.spotify.com/album/6Myyu3JPWPjy4W1ziaFUMy) | 3:36 |
 | 24 | [Eye to Eye](https://open.spotify.com/track/6la2yQPbuFKD6I1vEaS2bz) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [Eye to Eye](https://open.spotify.com/album/2lqCLCQj0prUEwqEDxRKIy) | 2:36 |
-| 25 | [I Ain’t Gone Hold Ya](https://open.spotify.com/track/2jCQXY0zjBdSpp12egn0Wo) | [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG), [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH) | [I Ain’t Gone Hold Ya](https://open.spotify.com/album/3ZuQtnBkECX096kcyhoISC) | 2:19 |
+| 25 | [I Ain’t Gon Hold Ya](https://open.spotify.com/track/2jCQXY0zjBdSpp12egn0Wo) | [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG), [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH) | [I Ain’t Gon Hold Ya](https://open.spotify.com/album/3ZuQtnBkECX096kcyhoISC) | 2:19 |
 | 26 | [Little Miss](https://open.spotify.com/track/3Tv0qk6Zz09z8tueWLRW3i) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Little Miss](https://open.spotify.com/album/2yJNQq4qviVMcukvnoFEzy) | 3:10 |
 | 27 | [TAKE THIS CROWN \(feat\. Good Charlotte\)](https://open.spotify.com/track/2IY9lQ8pD2uVzAoIxJUPK8) | [DE'WAYNE](https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O), [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [TAKE THIS CROWN \(feat\. Good Charlotte\)](https://open.spotify.com/album/5A4pLq7sNTS4kdEnd6lN9M) | 3:35 |
 | 28 | [WHAT I HAVE](https://open.spotify.com/track/3MAsvuKpI0k45dWmaYKSnl) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [WHAT I HAVE](https://open.spotify.com/album/6oWk4jEBd7ndcZDHFvzxAC) | 2:58 |

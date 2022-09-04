@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie latina\. En portada: Kimberley Tell
 
-[Spotify](https://open.spotify.com/user/spotify) - 284,611 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 284,619 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 25 | [Tentar a la Suerte](https://open.spotify.com/track/5BtZBOD6D41g2OUvewp1ry) | [Leia Destruye](https://open.spotify.com/artist/2iguSth7qkLlXCuYe2CnZ4) | [Tentar a la Suerte](https://open.spotify.com/album/5aUzMqN6pP0RFCulq5IU7l) | 2:56 |
 | 26 | [Antifaz](https://open.spotify.com/track/3igeO2twuzFaqvEjWzFjwd) | [Códex Fénix](https://open.spotify.com/artist/0Z2QCuPFA3x3OoH20obELy) | [Antifaz](https://open.spotify.com/album/7oZ8vYdxLY5h5NWGQCksus) | 4:23 |
 | 27 | [Triste Pop](https://open.spotify.com/track/30zVKpTZnkrmKMiIcpoPlV) | [Lasitud](https://open.spotify.com/artist/1zQ7Htx1vh0vmCHmxVVG0d) | [Triste Pop](https://open.spotify.com/album/2zIYA9Zs3vk0yQk241Omgt) | 5:22 |
-| 28 | [Quisiera](https://open.spotify.com/track/25xiGoun0fxPlSy38quYPp) | [Hausi Kuta](https://open.spotify.com/artist/5iVb4hi1IDpP6NKIKdEwpF) | [Quisiera](https://open.spotify.com/album/6Ns3YZrjvWpC3WMktnzeGE) | 3:52 |
+| 28 | [Quisiera](https://open.spotify.com/track/25xiGoun0fxPlSy38quYPp) | [Hausi Kuta](https://open.spotify.com/artist/5iVb4hi1IDpP6NKIKdEwpF), [Nicole Bunout](https://open.spotify.com/artist/5jyOjqLd2YRArrVlguvv4F) | [Quisiera](https://open.spotify.com/album/6Ns3YZrjvWpC3WMktnzeGE) | 3:52 |
 | 29 | [Miraflor](https://open.spotify.com/track/3yYcOSB0WVJkpx1wgyOTVg) | [Felics](https://open.spotify.com/artist/2MDZPWYR5xuLWVIQ9ybC3l), [Los Días Silvestres](https://open.spotify.com/artist/51ewyZ0SAKgCG9dqme1Rff) | [Miraflor](https://open.spotify.com/album/1SZpLRbjijkts5toPVJ4HZ) | 5:58 |
 | 30 | [Galante Corazón](https://open.spotify.com/track/2mG4CEkRYS7dEvslD73x0V) | [Cheba Blendl](https://open.spotify.com/artist/2nkIAHjL2bO81sBUg9w8iU) | [Galante Corazón](https://open.spotify.com/album/0UTlBdvRoyxgPUKwKvkkF9) | 3:49 |
 | 31 | [Mírame](https://open.spotify.com/track/6Ic0w3NOOr2X9y8SoltWf4) | [Ortopedia Técnica](https://open.spotify.com/artist/3nb5MkobljIsONHwAzmkgg) | [Mírame](https://open.spotify.com/album/6b2kSU69RCJBgY9OxbyJdz) | 3:35 |

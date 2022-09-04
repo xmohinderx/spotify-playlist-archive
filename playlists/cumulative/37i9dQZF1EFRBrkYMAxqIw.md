@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/76LEMAAXaxvnvt22nn8DUH">Hannah Wilson</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-69 songs - 3 hr 44 min - [published](https://open.spotify.com/playlist/3Ih1sOEfxby6LAb2KRAQFS)
+71 songs - 3 hr 50 min - [published](https://open.spotify.com/playlist/3Ih1sOEfxby6LAb2KRAQFS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,8 +27,10 @@
 | [Day Dream](https://open.spotify.com/track/4O5NmwwKzpQkuUUUz0V3TN) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT \#127 Neo Zone \- The 2nd Album](https://open.spotify.com/album/5YOvg682zFOleCiSndLnZr) | 3:25 | 2022-05-25 |  |
 | [De l'or entre tes mains](https://open.spotify.com/track/0j7uxGJ7Epf7GhoZrbc4aH) | [Lou](https://open.spotify.com/artist/6iHKWDaniE1NyU3xZ7FeGg) | [Danser sur tes mots \(Version deluxe\)](https://open.spotify.com/album/4scYOlTVlXQvNWxqGX6TOk) | 3:17 | 2022-05-25 |  |
 | [Don't Say Goodbye \(feat\. Tove Lo\)](https://open.spotify.com/track/0GTPmh5G40joBg93vcSQNq) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Ilkay Sencan](https://open.spotify.com/artist/5deLgmgAEgy8UHOfJ9Dj8w), [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Don't Say Goodbye \(feat\. Tove Lo\)](https://open.spotify.com/album/6UVhujgLKhIKtLv7gI0AHX) | 3:06 | 2022-05-25 |  |
+| [Famous for a Day](https://open.spotify.com/track/0zPUSpMCNSn1ItUPANkCCs) | [LA Vision](https://open.spotify.com/artist/02qlwM8fpqep7vX8KKEFmK), [YouNotUs](https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH) | [Famous for a Day](https://open.spotify.com/album/6GmcBZbFsGYXBEKLYb5o6M) | 2:51 | 2022-09-03 |  |
 | [Feels Like Home](https://open.spotify.com/track/0Y1HzOAyIj8O6N3lnKmi2l) | [Grace Ackerman](https://open.spotify.com/artist/78SfXT84Lde7FNt3MVBz1n) | [Feels Like Home](https://open.spotify.com/album/31QEjfkSaLZPHpchsT997H) | 4:07 | 2022-05-25 |  |
 | [Fireproof](https://open.spotify.com/track/7ApcKRTsTSGEKI14RwF7FB) | [Forever Bound](https://open.spotify.com/artist/7tklGFmhSD9jlcE506ZcZO) | [Fireproof](https://open.spotify.com/album/20uXkEjYVIGDnhO3TLBh4L) | 2:36 | 2022-05-25 |  |
+| [Funeral](https://open.spotify.com/track/2wjWIPP2y28H9wzoCHpUkF) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [Funeral](https://open.spotify.com/album/0GiNJtmbdFTZElphnAnqiD) | 3:26 | 2022-09-03 |  |
 | [Gonna Run](https://open.spotify.com/track/7IMcjrgmAqRGqB1OxM7SSJ) | [Tiggi Hawke](https://open.spotify.com/artist/5DltvtWOZYwcH6p0ka8I0l) | [Gonna Run](https://open.spotify.com/album/4L7rvrCFNYxQ9B0rQuTstl) | 3:06 | 2022-05-25 |  |
 | [He Won't Know](https://open.spotify.com/track/033PfaPCfbVDHCEHCRKfRF) | [Victoria Canal](https://open.spotify.com/artist/2nE9x2JhbyjBVCaSnUGX3G) | [He Won't Know](https://open.spotify.com/album/3oJ8BFFJ19MPMvjl4qk7wc) | 3:24 | 2022-05-25 |  |
 | [Hello](https://open.spotify.com/track/14a0YvOAe1nT3rfnllJ4D9) | [Emily Burns](https://open.spotify.com/artist/6Gi8ZaXGx8MK79HwzXpuVZ) | [I Love You, You're The Worst](https://open.spotify.com/album/6fgHw31cLVUTu3nAFHvW9k) | 3:33 | 2022-05-25 |  |

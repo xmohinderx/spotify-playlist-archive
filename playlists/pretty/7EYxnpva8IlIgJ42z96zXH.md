@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/7EYxnpva8IlIgJ42z96zXH.md) - [plain]
 
 > Kickstart your morning workout with these upbeat workout tracks, updated weekly!
 
-[Filtr Australia	](https://open.spotify.com/user/sonymusicaustralia) - 31,528 likes - 50 songs - 2 hr 51 min
+[Filtr Australia	](https://open.spotify.com/user/sonymusicaustralia) - 31,526 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [People Ain't Dancing \(feat\. Kah\-Lo\)](https://open.spotify.com/track/4qXjXZPGtVNhQq1z9QDRFn) | [Billen Ted](https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [People Ain't Dancing \(feat\. Kah\-Lo\)](https://open.spotify.com/album/0AsTTy2s5hEPOasYtQKCQR) | 2:34 |
 | 2 | [Bossin'](https://open.spotify.com/track/5SAPd066YNFApqsIYveQIS) | [KYE](https://open.spotify.com/artist/7aD0vAhYP5JsPQPgrd76bp) | [Bossin'](https://open.spotify.com/album/0wLW3xr8vF7nqW3p9Ebo01) | 2:15 |
 | 3 | [Cranky Boy](https://open.spotify.com/track/0K7xbyM409xlMZ80nth1Sd) | [Northeast Party House](https://open.spotify.com/artist/500YRyClzP6Z7HtWd1BIje) | [Cranky Boy](https://open.spotify.com/album/0GrPTmbLhOwfqEsCLlcl6z) | 3:27 |
-| 4 | [DON'T YOU WORRY \(feat\. David Guetta\) \- Farruko Remix](https://open.spotify.com/track/6Qk9crrlslodQnHqhCmjtC) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [DON'T YOU WORRY \(feat\. David Guetta\) \[Farruko Remix\]](https://open.spotify.com/album/2aCT4cP1qg9NhPLvSg48N5) | 3:25 |
+| 4 | [DON'T YOU WORRY \(Farruko Remix\) \(with Farruko, David Guetta & Shakira\)](https://open.spotify.com/track/6Qk9crrlslodQnHqhCmjtC) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [DON'T YOU WORRY \(Farruko Remix\) \(with Farruko, David Guetta & Shakira\)](https://open.spotify.com/album/2aCT4cP1qg9NhPLvSg48N5) | 3:25 |
 | 5 | [Living Without You](https://open.spotify.com/track/1KkV5NgLa2XtD00IfaCPyG) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Sam Ryder](https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m) | [Living Without You](https://open.spotify.com/album/6i5EQgCokHB7wgiP68UYmA) | 3:04 |
 | 6 | [Twin Flame](https://open.spotify.com/track/15cYjzRUBRrDHn76GdxWiv) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Twin Flame](https://open.spotify.com/album/1SzuRFxlqSZTIWUEE587Oy) | 3:52 |
 | 7 | [Sway My Way \(with Amy Shark\)](https://open.spotify.com/track/4KGNI037I8ZA6n3h6LYuey) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [Sway My Way \(with Amy Shark\)](https://open.spotify.com/album/39k6qmMELqRXZTAKzcyBwe) | 2:16 |

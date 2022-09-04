@@ -1,13 +1,33 @@
 {
   "description": "ft. Ninajirachi ",
-  "num_followers": 337398,
+  "num_followers": 336625,
   "original_name": "hyperpop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTc4MzI5NCwwMDAwMDAwMGEyZmQ1OGY3MmIyZTQ4ZTRhZjE3MTMwZWY5N2U3NjM3",
+  "snapshot_id": "MTY2MjIyMjA2MiwwMDAwMDAwMGViZTBjM2Q1NDk0ZDZkMzFmOWYyMTY4YjQyMWRiNmZk",
   "tracks": [
+    {
+      "added_at": "2022-09-03 16:19:48",
+      "album": {
+        "name": "KARMA",
+        "url": "https://open.spotify.com/album/1AVbzX4bW3GM6N4Pwc1tR1"
+      },
+      "artists": [
+        {
+          "name": "ero808",
+          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
+        },
+        {
+          "name": "Eyezic",
+          "url": "https://open.spotify.com/artist/1mUQNkBHUAOOesB3vc9p97"
+        }
+      ],
+      "duration_ms": 142260,
+      "name": "KARMA",
+      "url": "https://open.spotify.com/track/3B8TETauXY7EUslHzJsTvC"
+    },
     {
       "added_at": "2022-08-26 05:41:00",
       "album": {
@@ -25,6 +45,78 @@
       "url": "https://open.spotify.com/track/3YRP6HZc1wRJiK30LYNekC"
     },
     {
+      "added_at": "2022-08-26 05:41:00",
+      "album": {
+        "name": "FUNERAL",
+        "url": "https://open.spotify.com/album/1qmiDQd4RqnXtuCKgTZsXY"
+      },
+      "artists": [
+        {
+          "name": "CYPARISS",
+          "url": "https://open.spotify.com/artist/1GzMtNyLiP1oM7yW0DyRhP"
+        },
+        {
+          "name": "funeral",
+          "url": "https://open.spotify.com/artist/3f0Mhz0oXmnsnehuEGTrfd"
+        }
+      ],
+      "duration_ms": 140852,
+      "name": "FUNERAL",
+      "url": "https://open.spotify.com/track/7a6SZMO2mfBdeFJcAPiOTV"
+    },
+    {
+      "added_at": "2022-09-03 16:19:48",
+      "album": {
+        "name": "what i needed",
+        "url": "https://open.spotify.com/album/2GyV2OBCCdIOR2bjv8RXwY"
+      },
+      "artists": [
+        {
+          "name": "threedimensionsapart",
+          "url": "https://open.spotify.com/artist/70NihY4U5ZPHsbgeD1EJoE"
+        }
+      ],
+      "duration_ms": 126325,
+      "name": "what i needed",
+      "url": "https://open.spotify.com/track/1xZPyee92VWEgV3S4t1CsK"
+    },
+    {
+      "added_at": "2022-09-03 16:19:48",
+      "album": {
+        "name": "shooting star",
+        "url": "https://open.spotify.com/album/3hIW6mxTBNcuejh80gkqhI"
+      },
+      "artists": [
+        {
+          "name": "Senses",
+          "url": "https://open.spotify.com/artist/2soiLmeGhmq9uQ9fqZm3KA"
+        }
+      ],
+      "duration_ms": 138104,
+      "name": "shooting star",
+      "url": "https://open.spotify.com/track/6cutZu2pvxF6yTfB9zhuV6"
+    },
+    {
+      "added_at": "2022-09-03 16:19:48",
+      "album": {
+        "name": "cut the cable",
+        "url": "https://open.spotify.com/album/6iQ1jK8RQgxWZnHJqfjpCJ"
+      },
+      "artists": [
+        {
+          "name": "Ezekiel",
+          "url": "https://open.spotify.com/artist/4qUoZ6ErhTYFhAI0W1iI9q"
+        },
+        {
+          "name": "Siiickbrain",
+          "url": "https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE"
+        }
+      ],
+      "duration_ms": 178844,
+      "name": "cut the cable",
+      "url": "https://open.spotify.com/track/6UpaLVTz3vZH37cAZ7XfYl"
+    },
+    {
       "added_at": "2022-08-05 07:49:00",
       "album": {
         "name": "eyes",
@@ -39,6 +131,38 @@
       "duration_ms": 142639,
       "name": "eyes",
       "url": "https://open.spotify.com/track/2YOev1DTVgKTqBuUN3J5kg"
+    },
+    {
+      "added_at": "2022-09-03 16:19:48",
+      "album": {
+        "name": "Nike",
+        "url": "https://open.spotify.com/album/4TheMbO9MrRGaDzJwyTyVx"
+      },
+      "artists": [
+        {
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+        }
+      ],
+      "duration_ms": 127624,
+      "name": "Nike",
+      "url": "https://open.spotify.com/track/1ueaBqr5S3NxQhj1gKgmwj"
+    },
+    {
+      "added_at": "2022-07-08 04:45:00",
+      "album": {
+        "name": "4MOODss",
+        "url": "https://open.spotify.com/album/0XFtDRtGSUWvx89Mo4l6T1"
+      },
+      "artists": [
+        {
+          "name": "SEBii",
+          "url": "https://open.spotify.com/artist/5fAix5NwfNgHQqYRrHIPxo"
+        }
+      ],
+      "duration_ms": 105937,
+      "name": "4MOODss",
+      "url": "https://open.spotify.com/track/6pFS1Q3ahb61zbdpDjh0va"
     },
     {
       "added_at": "2022-08-11 16:31:32",
@@ -73,24 +197,20 @@
       "url": "https://open.spotify.com/track/57miWCpd7kX78sbys9uWRg"
     },
     {
-      "added_at": "2022-08-26 05:41:00",
+      "added_at": "2022-09-03 16:19:48",
       "album": {
-        "name": "FUNERAL",
-        "url": "https://open.spotify.com/album/1qmiDQd4RqnXtuCKgTZsXY"
+        "name": "my mistakes as run on sentences",
+        "url": "https://open.spotify.com/album/6LYcryceJaNUspKLhyKtcy"
       },
       "artists": [
         {
-          "name": "CYPARISS",
-          "url": "https://open.spotify.com/artist/1GzMtNyLiP1oM7yW0DyRhP"
-        },
-        {
-          "name": "funeral",
-          "url": "https://open.spotify.com/artist/3f0Mhz0oXmnsnehuEGTrfd"
+          "name": "SAIAH",
+          "url": "https://open.spotify.com/artist/5ZPYeVqoWNuukwfarvkyJX"
         }
       ],
-      "duration_ms": 140852,
-      "name": "FUNERAL",
-      "url": "https://open.spotify.com/track/7a6SZMO2mfBdeFJcAPiOTV"
+      "duration_ms": 124444,
+      "name": "my mistakes as run on sentences",
+      "url": "https://open.spotify.com/track/2Zlynhm62f2iSZhpB8h7kl"
     },
     {
       "added_at": "2022-01-14 18:09:29",
@@ -109,6 +229,38 @@
       "url": "https://open.spotify.com/track/1toNKayLMeCcVlsLGXJl7n"
     },
     {
+      "added_at": "2022-09-03 16:19:48",
+      "album": {
+        "name": "mindurnonsense",
+        "url": "https://open.spotify.com/album/3M5LAE9En8iF6PpKDvX4os"
+      },
+      "artists": [
+        {
+          "name": "Elko",
+          "url": "https://open.spotify.com/artist/3GTNYnTjMraxKUyc2ns7LU"
+        }
+      ],
+      "duration_ms": 138986,
+      "name": "mindurnonsense",
+      "url": "https://open.spotify.com/track/78L9shmfRGxMJoMbFQbH7P"
+    },
+    {
+      "added_at": "2022-09-03 16:19:48",
+      "album": {
+        "name": "backseat",
+        "url": "https://open.spotify.com/album/0cybAFo9HSCvajImgm4D67"
+      },
+      "artists": [
+        {
+          "name": "funeral",
+          "url": "https://open.spotify.com/artist/3f0Mhz0oXmnsnehuEGTrfd"
+        }
+      ],
+      "duration_ms": 122926,
+      "name": "backseat",
+      "url": "https://open.spotify.com/track/0TijK5hnCSLGeK4Vaeic1d"
+    },
+    {
       "added_at": "2022-07-09 18:06:03",
       "album": {
         "name": "safety",
@@ -123,6 +275,22 @@
       "duration_ms": 148285,
       "name": "safety",
       "url": "https://open.spotify.com/track/03kK8LS0pKlOpfaqJA5PsQ"
+    },
+    {
+      "added_at": "2022-09-03 16:19:48",
+      "album": {
+        "name": "reasons",
+        "url": "https://open.spotify.com/album/40sr27kGtmGVDRY9TLAyVg"
+      },
+      "artists": [
+        {
+          "name": "Jay Kim",
+          "url": "https://open.spotify.com/artist/6imBIUT38VebSD6K6N6cN6"
+        }
+      ],
+      "duration_ms": 147133,
+      "name": "reasons",
+      "url": "https://open.spotify.com/track/4WAIFENQf7136CqB1zdm2s"
     },
     {
       "added_at": "2022-08-26 05:41:00",
@@ -143,6 +311,38 @@
       "duration_ms": 190000,
       "name": "ring ring, you kill me",
       "url": "https://open.spotify.com/track/7BDzU8Dcit2KqznktWxDHb"
+    },
+    {
+      "added_at": "2022-09-03 16:19:48",
+      "album": {
+        "name": "you always surprise me",
+        "url": "https://open.spotify.com/album/4N7ZtcjFBap1zxiToEHwXr"
+      },
+      "artists": [
+        {
+          "name": "tmdistant",
+          "url": "https://open.spotify.com/artist/6BJvojHlWWAV9cbJouYPUi"
+        }
+      ],
+      "duration_ms": 138227,
+      "name": "you always surprise me",
+      "url": "https://open.spotify.com/track/0SVj6QRjGP3NA9VcXRVwgG"
+    },
+    {
+      "added_at": "2022-09-03 16:19:48",
+      "album": {
+        "name": "emotional trap",
+        "url": "https://open.spotify.com/album/4cdU2gjBC7yLhs7tZCR2jB"
+      },
+      "artists": [
+        {
+          "name": "she loves boon",
+          "url": "https://open.spotify.com/artist/6is8aeGtatwbYEiamvsp23"
+        }
+      ],
+      "duration_ms": 142914,
+      "name": "everything ab u",
+      "url": "https://open.spotify.com/track/1KFM9g1C6GHuUGtTUETo66"
     },
     {
       "added_at": "2022-08-26 05:41:00",
@@ -177,6 +377,26 @@
       "url": "https://open.spotify.com/track/6Yxg0dq94Q4ZIE4ncHrufi"
     },
     {
+      "added_at": "2022-09-03 16:19:48",
+      "album": {
+        "name": "ABC (feat. Sophia Black)",
+        "url": "https://open.spotify.com/album/4NC0LlM8LuF9ol77V63QtJ"
+      },
+      "artists": [
+        {
+          "name": "Polyphia",
+          "url": "https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ"
+        },
+        {
+          "name": "Sophia Black",
+          "url": "https://open.spotify.com/artist/3wdXgSpjbbU3tX9KasdxMh"
+        }
+      ],
+      "duration_ms": 152361,
+      "name": "ABC (feat. Sophia Black)",
+      "url": "https://open.spotify.com/track/7D4lgMbSs10AQ0zX3ZldJc"
+    },
+    {
       "added_at": "2022-06-28 14:12:15",
       "album": {
         "name": "All Nighter, Vol. 6",
@@ -191,6 +411,22 @@
       "duration_ms": 164307,
       "name": "6FINGERDEATHPUNCH",
       "url": "https://open.spotify.com/track/2M7V4v4DUaPIlMSrCbB2U3"
+    },
+    {
+      "added_at": "2022-09-03 16:19:48",
+      "album": {
+        "name": "I Crave It",
+        "url": "https://open.spotify.com/album/0RJv8KUgY0Sezv7C9n2kTP"
+      },
+      "artists": [
+        {
+          "name": "Orchid",
+          "url": "https://open.spotify.com/artist/1BFMQVhD7jSNk6MLGyg7lZ"
+        }
+      ],
+      "duration_ms": 160191,
+      "name": "I Crave It",
+      "url": "https://open.spotify.com/track/4cU63itSOJYcxkQyAQ8p4I"
     },
     {
       "added_at": "2022-08-12 05:19:00",
@@ -239,6 +475,22 @@
       "duration_ms": 141364,
       "name": "Se\u00f1orita",
       "url": "https://open.spotify.com/track/0mjDJiWmZ548y9EUnogCP1"
+    },
+    {
+      "added_at": "2022-09-03 16:19:48",
+      "album": {
+        "name": "MY LIL PONY",
+        "url": "https://open.spotify.com/album/1Mso2OzBVya3QKb7J3U7qD"
+      },
+      "artists": [
+        {
+          "name": "Juliet Ivy",
+          "url": "https://open.spotify.com/artist/3sHvvFIzt6FKUQuksXhZn3"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "MY LIL PONY",
+      "url": "https://open.spotify.com/track/1aDv3rPaNbUsqsmKyQ0I6C"
     },
     {
       "added_at": "2022-07-29 13:25:15",
@@ -319,22 +571,6 @@
       "duration_ms": 193270,
       "name": "Vroom Vroom",
       "url": "https://open.spotify.com/track/5hyq3LBlCfjRQAFkdQwe8o"
-    },
-    {
-      "added_at": "2022-07-29 13:25:15",
-      "album": {
-        "name": "RENAISSANCE",
-        "url": "https://open.spotify.com/album/3ctW8o8ABBCNWWkdIvEGgV"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 169819,
-      "name": "ALL UP IN YOUR MIND",
-      "url": "https://open.spotify.com/track/6hYgmQ27dGia58kKJWBLci"
     },
     {
       "added_at": "2022-08-26 05:41:00",
@@ -485,22 +721,6 @@
       "url": "https://open.spotify.com/track/6Ob06Vsx0e7aVgXnabDWJ5"
     },
     {
-      "added_at": "2022-08-26 05:41:00",
-      "album": {
-        "name": "Overboard",
-        "url": "https://open.spotify.com/album/7xd5UrVDe2ZLL91ihCoTsC"
-      },
-      "artists": [
-        {
-          "name": "Highscores",
-          "url": "https://open.spotify.com/artist/64e54DGMmRzGW27junjD4T"
-        }
-      ],
-      "duration_ms": 177103,
-      "name": "Overboard",
-      "url": "https://open.spotify.com/track/5pMuhlkcQjtSnhm8rbiwCt"
-    },
-    {
       "added_at": "2022-06-10 15:02:05",
       "album": {
         "name": "Blood Bunny (Deluxe)",
@@ -555,22 +775,6 @@
       "duration_ms": 127999,
       "name": "Always",
       "url": "https://open.spotify.com/track/0NVdg0miEVWRALvwWaH9MD"
-    },
-    {
-      "added_at": "2022-07-29 13:25:15",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/54lLvzhlVF4QhQMBfPQhtl"
-      },
-      "artists": [
-        {
-          "name": "glaive",
-          "url": "https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565"
-        }
-      ],
-      "duration_ms": 153624,
-      "name": "i will follow you into the dark - Spotify Singles",
-      "url": "https://open.spotify.com/track/7lxfdfIocUHefodQ8JLyfk"
     },
     {
       "added_at": "2022-07-24 19:32:14",
@@ -683,22 +887,6 @@
       "duration_ms": 74357,
       "name": "SWAMP SKONSTER",
       "url": "https://open.spotify.com/track/4c9UuO6PYqP6wMboWvbL5Z"
-    },
-    {
-      "added_at": "2022-08-26 05:41:00",
-      "album": {
-        "name": "broken",
-        "url": "https://open.spotify.com/album/4oJ1ESU2EWeepS9v2V5OYI"
-      },
-      "artists": [
-        {
-          "name": "meat computer",
-          "url": "https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN"
-        }
-      ],
-      "duration_ms": 138017,
-      "name": "broken",
-      "url": "https://open.spotify.com/track/4i9cDKtznv2wd02wDJiIWO"
     },
     {
       "added_at": "2022-04-01 13:22:34",
@@ -875,42 +1063,6 @@
       "duration_ms": 164669,
       "name": "nvr",
       "url": "https://open.spotify.com/track/6RzQkHU58a2nkI8yTRFjoh"
-    },
-    {
-      "added_at": "2022-07-22 15:13:03",
-      "album": {
-        "name": "Coochie (a bedtime story)",
-        "url": "https://open.spotify.com/album/2cQKZRfGU3kSnxyNCHZuiZ"
-      },
-      "artists": [
-        {
-          "name": "Shygirl",
-          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
-        }
-      ],
-      "duration_ms": 182250,
-      "name": "Coochie (a bedtime story)",
-      "url": "https://open.spotify.com/track/1YlGZLo4J0URBx31Qvd5zg"
-    },
-    {
-      "added_at": "2022-08-19 15:54:28",
-      "album": {
-        "name": "Tambaleo (Machine Girl Remix)",
-        "url": "https://open.spotify.com/album/3bXr4Mu7MSHbUCzEHzn226"
-      },
-      "artists": [
-        {
-          "name": "Meth Math",
-          "url": "https://open.spotify.com/artist/1avO1wALC75qKqIUpkJh0T"
-        },
-        {
-          "name": "Machine Girl",
-          "url": "https://open.spotify.com/artist/17Vw9uuOYB7XYjPt0LNFN0"
-        }
-      ],
-      "duration_ms": 282173,
-      "name": "Tambaleo - Machine Girl Remix",
-      "url": "https://open.spotify.com/track/3nWpmZtPeb6qqi03YcuDE6"
     },
     {
       "added_at": "2022-05-27 07:02:00",
@@ -1245,22 +1397,6 @@
       "url": "https://open.spotify.com/track/0uhlBqmzwDxkPMdmFc4mE5"
     },
     {
-      "added_at": "2022-07-29 13:25:15",
-      "album": {
-        "name": "punk rock",
-        "url": "https://open.spotify.com/album/08WWzkcjNxPpC8kAkTAkis"
-      },
-      "artists": [
-        {
-          "name": "she loves boon",
-          "url": "https://open.spotify.com/artist/6is8aeGtatwbYEiamvsp23"
-        }
-      ],
-      "duration_ms": 142237,
-      "name": "punk rock",
-      "url": "https://open.spotify.com/track/0nog7rb95VYzC1WDliuhKZ"
-    },
-    {
       "added_at": "2022-08-05 07:49:00",
       "album": {
         "name": "comfort noise (Music Inspired by the Motion Picture)",
@@ -1413,6 +1549,22 @@
       "url": "https://open.spotify.com/track/1HJHslXeZGOIcJqDJr2LqR"
     },
     {
+      "added_at": "2022-05-20 06:10:00",
+      "album": {
+        "name": "Ayesha.FM",
+        "url": "https://open.spotify.com/album/0QSVXACJfKLU1bKQLPRNs5"
+      },
+      "artists": [
+        {
+          "name": "Ayesha Erotica",
+          "url": "https://open.spotify.com/artist/6TMGw1UYn6DFEtn2f9mv8J"
+        }
+      ],
+      "duration_ms": 69677,
+      "name": "Dicktator",
+      "url": "https://open.spotify.com/track/0thryZfIkjcK4HYSYxoKNn"
+    },
+    {
       "added_at": "2022-07-17 17:16:39",
       "album": {
         "name": "Royal Blue Walls",
@@ -1557,50 +1709,6 @@
       "url": "https://open.spotify.com/track/1F5p6Va3wnHHSdbqFjvVSr"
     },
     {
-      "added_at": "2022-05-27 07:02:00",
-      "album": {
-        "name": "crazy",
-        "url": "https://open.spotify.com/album/4xcV6vXyM9tCuQ8LHCFLSl"
-      },
-      "artists": [
-        {
-          "name": "kuru",
-          "url": "https://open.spotify.com/artist/1KJ5ZZBncdHtz60i3fiQYu"
-        },
-        {
-          "name": "blackwinterwells",
-          "url": "https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u"
-        },
-        {
-          "name": "blxty",
-          "url": "https://open.spotify.com/artist/6xCkHWTLdUoEckl5YD0S7p"
-        },
-        {
-          "name": "grandee",
-          "url": "https://open.spotify.com/artist/3y55m0N1avYIR8xavgoztD"
-        }
-      ],
-      "duration_ms": 182630,
-      "name": "crazy",
-      "url": "https://open.spotify.com/track/6C33GkwvrnW7kQbGeR16Pw"
-    },
-    {
-      "added_at": "2022-05-20 06:10:00",
-      "album": {
-        "name": "Ayesha.FM",
-        "url": "https://open.spotify.com/album/0QSVXACJfKLU1bKQLPRNs5"
-      },
-      "artists": [
-        {
-          "name": "Ayesha Erotica",
-          "url": "https://open.spotify.com/artist/6TMGw1UYn6DFEtn2f9mv8J"
-        }
-      ],
-      "duration_ms": 69677,
-      "name": "Dicktator",
-      "url": "https://open.spotify.com/track/0thryZfIkjcK4HYSYxoKNn"
-    },
-    {
       "added_at": "2022-07-08 04:45:00",
       "album": {
         "name": "DEVIL IN MY HEAD",
@@ -1675,122 +1783,6 @@
       "duration_ms": 187124,
       "name": "Tramal",
       "url": "https://open.spotify.com/track/1xYstYDswMkdSHDswY4x7D"
-    },
-    {
-      "added_at": "2022-07-08 04:45:00",
-      "album": {
-        "name": "4MOODss",
-        "url": "https://open.spotify.com/album/0XFtDRtGSUWvx89Mo4l6T1"
-      },
-      "artists": [
-        {
-          "name": "SEBii",
-          "url": "https://open.spotify.com/artist/5fAix5NwfNgHQqYRrHIPxo"
-        }
-      ],
-      "duration_ms": 105937,
-      "name": "4MOODss",
-      "url": "https://open.spotify.com/track/6pFS1Q3ahb61zbdpDjh0va"
-    },
-    {
-      "added_at": "2022-07-29 13:25:15",
-      "album": {
-        "name": "voids",
-        "url": "https://open.spotify.com/album/24wI5QIqAVS0aibSdRZ7QB"
-      },
-      "artists": [
-        {
-          "name": "DJH",
-          "url": "https://open.spotify.com/artist/3WgUHWrtChAtmsFqAIgkiF"
-        },
-        {
-          "name": "sv1",
-          "url": "https://open.spotify.com/artist/5psozSf1zuTfnj2vAy5ElH"
-        }
-      ],
-      "duration_ms": 240416,
-      "name": "canopus",
-      "url": "https://open.spotify.com/track/5ck0fHvUHP8MAyorMHRDAN"
-    },
-    {
-      "added_at": "2022-07-08 04:45:00",
-      "album": {
-        "name": "circles",
-        "url": "https://open.spotify.com/album/5B3a2FCbaaC3nQMlf9DTwL"
-      },
-      "artists": [
-        {
-          "name": "kuudere",
-          "url": "https://open.spotify.com/artist/1OhN2StoiEjQmsLCbjpgpa"
-        }
-      ],
-      "duration_ms": 187972,
-      "name": "circles",
-      "url": "https://open.spotify.com/track/45q77Z19cHFUFY4rx6F7k0"
-    },
-    {
-      "added_at": "2022-07-01 06:27:00",
-      "album": {
-        "name": "bedroom",
-        "url": "https://open.spotify.com/album/755NEywIEUsh0WHJeq9mBJ"
-      },
-      "artists": [
-        {
-          "name": "poptropicaslutz!",
-          "url": "https://open.spotify.com/artist/08DN8ZbOSeuTELiQjc4Jl8"
-        }
-      ],
-      "duration_ms": 100012,
-      "name": "bedroom",
-      "url": "https://open.spotify.com/track/4UXPKAbY2EoCWcbN57En0A"
-    },
-    {
-      "added_at": "2022-06-10 15:02:05",
-      "album": {
-        "name": "MORE",
-        "url": "https://open.spotify.com/album/37CE40tXZOopv96zoUigRn"
-      },
-      "artists": [
-        {
-          "name": "Tony Velour",
-          "url": "https://open.spotify.com/artist/3L3hYQlhb5k9XCCrRWavNi"
-        }
-      ],
-      "duration_ms": 96000,
-      "name": "MORE",
-      "url": "https://open.spotify.com/track/1dh3gLolmSRmOcFrUNV3N3"
-    },
-    {
-      "added_at": "2022-07-01 06:27:00",
-      "album": {
-        "name": "sun",
-        "url": "https://open.spotify.com/album/38VnIqFWfQYKsTsjA6TEpZ"
-      },
-      "artists": [
-        {
-          "name": "Braden Ross",
-          "url": "https://open.spotify.com/artist/18VFhPeFzSSbHIagpYXbic"
-        }
-      ],
-      "duration_ms": 130285,
-      "name": "sun",
-      "url": "https://open.spotify.com/track/637eyFmoqPHMSuDk7mRYSa"
-    },
-    {
-      "added_at": "2022-07-09 18:11:30",
-      "album": {
-        "name": "Lovesick",
-        "url": "https://open.spotify.com/album/57FiXP5MECC5vtGTC3JuWC"
-      },
-      "artists": [
-        {
-          "name": "Miss Madeline",
-          "url": "https://open.spotify.com/artist/697XzB9DackcbNfKz4Ry7v"
-        }
-      ],
-      "duration_ms": 177902,
-      "name": "Lovesick",
-      "url": "https://open.spotify.com/track/5rtdjMt1W8eYgrvHnYaCZB"
     }
   ],
   "unique_name": "hyperpop",

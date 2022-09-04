@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQW1ZXEpcxgt.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6S5xTXudxisQUeWkyU4H74">Alex Eskeerdo Izquierdo</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 247 likes - 107 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 248 likes - 107 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQW1ZXEpcxgt.md) - [plain]
 | 35 | [Everywhere](https://open.spotify.com/track/2NRpuYVJPYhxC8xyutxkoL) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Heartbreak Weather](https://open.spotify.com/album/5gdoRB1AUsGnScCuZ8gmPp) | 2:48 |
 | 36 | [Poppin Bottles](https://open.spotify.com/track/2pwPtne9zCNTsyYZDLHxDf) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [No Mercy](https://open.spotify.com/album/6LGR2plk2Yk4A33CAktJN3) | 5:20 |
 | 37 | [Lay Your Head on Me](https://open.spotify.com/track/2TkHnzYwHEoTVgoyqf6UJ2) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Lay Your Head on Me](https://open.spotify.com/album/3PrNEdp1ddGqaQiboDir4A) | 3:01 |
-| 38 | [Powerful \(feat\. Jussie Smollett & Alicia Keys\)](https://open.spotify.com/track/0VcRFRoWqQfXDjFNO6LBJO) | [Empire Cast](https://open.spotify.com/artist/7EjxNoVjXo7gL73F2EdXVA), [Jussie Smollett](https://open.spotify.com/artist/120Hnh6hOWiIpfL4WDo7nm), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Empire: The Complete Season 2](https://open.spotify.com/album/28L0OF7HJKdFUP5VZgdiz5) | 4:00 |
-| 39 | [Tick Tick Boom \(feat\. BygTwo3\) \- From 'SCOOB!' The Album](https://open.spotify.com/track/5nKdxWYQJTzJrHXWOSO9tO) | [Sage The Gemini](https://open.spotify.com/artist/6d47Z08T4snK50HgTEHo5Z), [BygTwo3](https://open.spotify.com/artist/1r9zcYlwfxbxtA5AhNBI4G) | [Tick Tick Boom \(feat\. BygTwo3\)](https://open.spotify.com/album/5EXdYCUAu8MXygJaYn9TR4) | 2:10 |
+| 38 | [Tick Tick Boom \(feat\. BygTwo3\) \- From 'SCOOB!' The Album](https://open.spotify.com/track/5nKdxWYQJTzJrHXWOSO9tO) | [Sage The Gemini](https://open.spotify.com/artist/6d47Z08T4snK50HgTEHo5Z), [BygTwo3](https://open.spotify.com/artist/1r9zcYlwfxbxtA5AhNBI4G) | [Tick Tick Boom \(feat\. BygTwo3\)](https://open.spotify.com/album/5EXdYCUAu8MXygJaYn9TR4) | 2:10 |
+| 39 | [Powerful \(feat\. Jussie Smollett & Alicia Keys\)](https://open.spotify.com/track/0VcRFRoWqQfXDjFNO6LBJO) | [Empire Cast](https://open.spotify.com/artist/7EjxNoVjXo7gL73F2EdXVA), [Jussie Smollett](https://open.spotify.com/artist/120Hnh6hOWiIpfL4WDo7nm), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Empire: The Complete Season 2](https://open.spotify.com/album/28L0OF7HJKdFUP5VZgdiz5) | 4:00 |
 | 40 | [I Lied](https://open.spotify.com/track/7EvIMAbhkHXcV8rHbOyNzh) | [Fifth Harmony](https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt) | [7/27 \(Deluxe\)](https://open.spotify.com/album/0pF0oyuPNdOObniB1Ng0kW) | 3:23 |
 | 41 | [Not for Long \(feat\. Trey Songz\)](https://open.spotify.com/track/6H75Ki32BRrJFQeDNR05s1) | [B.o.B](https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT), [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH) | [Not for Long \(feat\. Trey Songz\)](https://open.spotify.com/album/7cSNv0vamfGt9BN0ISHmOn) | 3:35 |
 | 42 | [Cross Your Mind](https://open.spotify.com/track/7B0jvve829GGdU5kFttQTY) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Heartbreak Weather](https://open.spotify.com/album/5gdoRB1AUsGnScCuZ8gmPp) | 3:48 |
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQW1ZXEpcxgt.md) - [plain]
 | 106 | [Nothing In Common](https://open.spotify.com/track/4FPt0UqiphP1eiDCX9pxGO) | [Eskeerdo](https://open.spotify.com/artist/3W9VRKnzPo8DXlMVYODc95) | [Money Changed Everything](https://open.spotify.com/album/5ws5VdEkQquZKXv6Zdritp) | 2:48 |
 | 107 | [Outro](https://open.spotify.com/track/0cM6hV1yTWwaG7KaELa4wg) | [Eskeerdo](https://open.spotify.com/artist/3W9VRKnzPo8DXlMVYODc95) | [Money Changed Everything](https://open.spotify.com/album/5ws5VdEkQquZKXv6Zdritp) | 0:57 |
 
-Snapshot ID: `Mjc3MDI3ODUsMDAwMDAwMDA4MTE2OWFlZGMwZDkyZjY4ZTg2N2YwZTdlNjQxYmZiZA==`
+Snapshot ID: `Mjc3MDQyMjUsMDAwMDAwMDAzMjdhNzYwNWY5MzcxYzhkNTNlZThlNDQ4OTQxZWFjYg==`

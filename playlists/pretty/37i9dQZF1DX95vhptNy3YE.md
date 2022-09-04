@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX95vhptNy3YE.md) - [plain]
 
 > Mc Poze do Rodo e mais hits do momento na cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,243 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,510 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX95vhptNy3YE.md) - [plain]
 | 47 | [Obama](https://open.spotify.com/track/4aIj9PkZFTR8oLciZRCLNw) | [Malcolm VL](https://open.spotify.com/artist/6pJi8PaFlp6aNvOw3e0ONm), [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ) | [Obama](https://open.spotify.com/album/5r7fZPl16IUqjzxZc7upaP) | 2:15 |
 | 48 | [Seu Particular](https://open.spotify.com/track/7FbeeyMWZsJw36SaRbFNMk) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Mello Santana](https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY) | [Maldita](https://open.spotify.com/album/5YAVUmI41dnIgFCHPCtVFu) | 3:19 |
 | 49 | [Leste É a Zona](https://open.spotify.com/track/55PxC4e821VhBy5osd7xY3) | [Menor MC](https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS), [DJ Matt D](https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5), [Rincon Sapiência](https://open.spotify.com/artist/41omk2DdGdhkw3At7KZ2Qp) | [Trap Funk Star](https://open.spotify.com/album/2NfhHzk0maDZ33cJbqZzHg) | 2:16 |
-| 50 | [Outro Patamar](https://open.spotify.com/track/0hVKEiZ9lWwKQlBk4VZ0GK) | [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd) | [Outro Patamar](https://open.spotify.com/album/4J1SvtWJvuHaPkjk6PlIom) | 3:44 |
+| 50 | [Outro Patamar](https://open.spotify.com/track/0hVKEiZ9lWwKQlBk4VZ0GK) | [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [jess beats](https://open.spotify.com/artist/7uskxjQtkzfiqHCNIIv3gD) | [Outro Patamar](https://open.spotify.com/album/4J1SvtWJvuHaPkjk6PlIom) | 3:44 |
 
 Snapshot ID: `MTY2MjEyMzAwNiwwMDAwMDAwMDUxYmU1NzUyYmVjMGI5YzQyMjE4NDFhYjM4YTMxOGE3`

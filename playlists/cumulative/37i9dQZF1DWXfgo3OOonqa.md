@@ -4,7 +4,7 @@
 
 > Håll det 100.
 
-545 songs - 1 day 0 hr 24 min - [published](https://open.spotify.com/playlist/1YkCPMAEafAvzqDRhr0Ocd)
+546 songs - 1 day 0 hr 27 min - [published](https://open.spotify.com/playlist/1YkCPMAEafAvzqDRhr0Ocd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -260,7 +260,8 @@
 | [Jamaica \- Freestyle](https://open.spotify.com/track/75eZkKcJlcuW8EwDuTui14) | [Denz](https://open.spotify.com/artist/3D0rwfKngK6Rr80niHDLP7) | [Jamaica \(Freestyle\)](https://open.spotify.com/album/1pgvUhLApdxYUUtsTmv1SY) | 1:46 | 2022-03-04 | 2022-03-18 |
 | [Januari](https://open.spotify.com/track/1tcSVR26p2ZqbS9iWFkDpB) | [L1NA](https://open.spotify.com/artist/62oPQvptWCPp2UCsqYwcIf) | [MP3](https://open.spotify.com/album/6ebOVpxiICOiwmCY4B5qTQ) | 2:39 | 2021-12-16 | 2022-01-07 |
 | [Jaw](https://open.spotify.com/track/3WD46C6wIMtBYIhHRK7AVw) | [Awave](https://open.spotify.com/artist/2zrzhtWVPEcj1btFiRDQlF) | [Jaw](https://open.spotify.com/album/38RJf1UrjwYBo0mLqCOghv) | 2:26 | 2022-06-30 | 2022-09-02 |
-| [JB X YASIN \- DIE YOUNG](https://open.spotify.com/track/46fo800FpGqEjaCPLX4uHy) | [JB](https://open.spotify.com/artist/6Xln2zf2OkGDhFKUQcw1yB) | [JB AHSP DEL 2](https://open.spotify.com/album/7KtrpUHy9JLhCskwG0MMrC) | 2:31 | 2022-07-08 |  |
+| [JB X YASIN \- DIE YOUNG](https://open.spotify.com/track/46fo800FpGqEjaCPLX4uHy) | [JB](https://open.spotify.com/artist/6Xln2zf2OkGDhFKUQcw1yB) | [JB AHSP DEL 2](https://open.spotify.com/album/7KtrpUHy9JLhCskwG0MMrC) | 2:31 | 2022-07-08 | 2022-09-04 |
+| [JB X YASIN \- DIE YOUNG](https://open.spotify.com/track/7EGCjCuBiVMBx0RYmCUO1T) | [JB](https://open.spotify.com/artist/6Xln2zf2OkGDhFKUQcw1yB), [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [JB AHSP DEL 2](https://open.spotify.com/album/7JnIVn4bQ3vNUOmI7kyhVY) | 2:31 | 2022-09-01 |  |
 | [JB X YASIN \- HYRAN ÄR PÅ 50](https://open.spotify.com/track/3tFCYOdbUReTjqB7D3Gf1F) | [JB](https://open.spotify.com/artist/6Xln2zf2OkGDhFKUQcw1yB), [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [JB AHSP DEL 2](https://open.spotify.com/album/7KtrpUHy9JLhCskwG0MMrC) | 2:52 | 2022-07-08 | 2022-08-05 |
 | [Jeni](https://open.spotify.com/track/0O0DuN2YEF96wZvsQIly2V) | [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF), [Shenzi Beats](https://open.spotify.com/artist/5WYsyPCS4zOpvqAtBgrGqg) | [AMO](https://open.spotify.com/album/0rsdh7RmT619F6n5bwLsGn) | 2:22 | 2022-09-01 |  |
 | [Jungel](https://open.spotify.com/track/1mOHXk057Y2K322MbkB6cW) | [Jacco](https://open.spotify.com/artist/1U8lN2i4lHmZqDerkVNKWk), [Masse](https://open.spotify.com/artist/4YZ9Me6cB52GpYwzaC2MQN) | [Allt jag har](https://open.spotify.com/album/2lC2Ikke3js0INuXJdoKt2) | 3:19 | 2022-05-05 | 2022-05-20 |

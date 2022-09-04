@@ -4,7 +4,7 @@
 
 > Saca, prende y sorprende con esta selección de buenas vibras\. Foto: Dread Mar I
 
-78 songs - 5 hr 7 min - [published](https://open.spotify.com/playlist/3JQCn0U5J7gjZIqJmCR5xX)
+79 songs - 5 hr 11 min - [published](https://open.spotify.com/playlist/3JQCn0U5J7gjZIqJmCR5xX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,8 @@
 | [Recuerdos](https://open.spotify.com/track/5NXpReJZXtxr6CuxbhXzmB) | [Mentes Comunes](https://open.spotify.com/artist/2s8ywGGHH5OB5TfhVLwN48) | [Inhala](https://open.spotify.com/album/1PzqYNcfhWRwx4Q7XKIzi1) | 3:42 | 2022-05-13 |  |
 | [Saca, Prende y Sorprende](https://open.spotify.com/track/4IV9ITy4HpKRaBe23rEumA) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Saca, Prende y Sorprende](https://open.spotify.com/album/47dOYT39C4B11haR6tkWmg) | 5:57 | 2022-05-13 | 2022-07-29 |
 | [Saca, Prende y Sorprende](https://open.spotify.com/track/67v6edtYPUYnzaElq4U37Q) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Saca, Prende Y Sorprende](https://open.spotify.com/album/3fxbfhM7Cm7dKdSVvJAv8u) | 5:57 | 2022-07-01 |  |
-| [Sentimiento Irie](https://open.spotify.com/track/2dBnP0azB88OTcJyc8WHLi) | [La Tifa](https://open.spotify.com/artist/4iEgVksJc31oR01iG8vhGh) | [Pueblo](https://open.spotify.com/album/2DE9zXvLrBZn6YLrNtocGe) | 3:48 | 2022-07-01 |  |
+| [Sentimiento Irie](https://open.spotify.com/track/2dBnP0azB88OTcJyc8WHLi) | [La Tifa](https://open.spotify.com/artist/4iEgVksJc31oR01iG8vhGh) | [Pueblo](https://open.spotify.com/album/2DE9zXvLrBZn6YLrNtocGe) | 3:48 | 2022-07-01 | 2022-09-04 |
+| [Sentimiento Irie](https://open.spotify.com/track/2djzPkM3Py7pAnNkgyKCH1) | [La Tifa](https://open.spotify.com/artist/4iEgVksJc31oR01iG8vhGh) | [Pueblo](https://open.spotify.com/album/2dB1lYA9YReuwbJP7IUlEu) | 3:48 | 2022-07-01 |  |
 | [Sentimiento Irie](https://open.spotify.com/track/7JH96fwwAYOxiRRLNKQcbc) | [La Tifa](https://open.spotify.com/artist/4iEgVksJc31oR01iG8vhGh) | [Pueblo](https://open.spotify.com/album/0qdHmF2X6AiVhecplSEfNU) | 3:48 | 2022-05-13 | 2022-07-29 |
 | [Sol](https://open.spotify.com/track/5puRHAfjknvAqfgHCpIdo1) | [Alaíde](https://open.spotify.com/artist/2htg8Ya9Fbuy2zGKeL5q9i) | [Sol](https://open.spotify.com/album/51EJaWaQVRJXo9ZeQW0G69) | 3:11 | 2022-05-13 |  |
 | [Suavemente](https://open.spotify.com/track/0YZyA7EF2LeTat01RWWzGQ) | [Don Páli](https://open.spotify.com/artist/0vmHcxir9eaM0VLfstxKMt) | [Suavemente](https://open.spotify.com/album/7qRi1ylJhlb2Kr5Fb6XF4Q) | 4:30 | 2022-05-13 |  |

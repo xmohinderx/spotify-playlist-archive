@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6Umi4GHdr1.md) - [plain]
 
 > Free your mind and let your thoughts flow to the sounds of guitar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 286,439 likes - 74 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 286,407 likes - 74 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6Umi4GHdr1.md) - [plain]
 | 34 | [When She Was There](https://open.spotify.com/track/5rOfd0ZqNPDzFWEgROvIdz) | [Pastall](https://open.spotify.com/artist/4xWbSW8Fkjt8DVkJ5QDIvV) | [Back to Pompiko](https://open.spotify.com/album/5Iir2VRVIrPf09KEW7ONMH) | 3:20 |
 | 35 | [Into the Well](https://open.spotify.com/track/0cSbVRsr50elwoPcp6m2XA) | [American Legion](https://open.spotify.com/artist/0jffXLYJMz2VeBonnuICk3) | [Limitless](https://open.spotify.com/album/3Fj1XxYEFoqgXMP2JalxB8) | 2:35 |
 | 36 | [Tree Circle](https://open.spotify.com/track/03CLghlf8FCjjjhvZg3OjC) | [Isato Nakagawa](https://open.spotify.com/artist/7H7kbnGiqnG8GYDtDALthl) | [Tree Circle](https://open.spotify.com/album/6scj26E3tVRTzcBkkx5qRB) | 3:08 |
-| 37 | [Cheese and Wine](https://open.spotify.com/track/2tjM3I6MKoiggjXcupqR3s) | [Agustín Amigó](https://open.spotify.com/artist/3hUFjtgMr2bvq6E6tY7yQB) | [Cheese and Wine](https://open.spotify.com/album/19Cbc4r3BvAIrk8wk51yGW) | 2:29 |
+| 37 | [Cheese and Wine](https://open.spotify.com/track/2tjM3I6MKoiggjXcupqR3s) | [Agustín Amigó](https://open.spotify.com/artist/3hUFjtgMr2bvq6E6tY7yQB) | [Cheese and Wine](https://open.spotify.com/album/19Cbc4r3BvAIrk8wk51yGW) | 2:31 |
 | 38 | [East](https://open.spotify.com/track/0EXR9AfcquwLS4yksMql29) | [Tim Hans](https://open.spotify.com/artist/432QjwpddzTUEL02W60QRg) | [North](https://open.spotify.com/album/7aK3SFbPLVvrsL62GGOjxF) | 2:38 |
 | 39 | [Valentine](https://open.spotify.com/track/2iRhWAN9jmQSb43ucKRiJJ) | [Adrian Strohm](https://open.spotify.com/artist/1Rs3hpkbsgsgFiavB9Id1i) | [Valentine](https://open.spotify.com/album/4gHQh1PpIXkBOd4VHtPG3i) | 2:18 |
 | 40 | [Arbonne](https://open.spotify.com/track/39lP6wfJd0sADo8QQVNuPo) | [Frederic Dupont](https://open.spotify.com/artist/1kG7NP29tzvsYI6dEmOZFF) | [Iara](https://open.spotify.com/album/0gPVXKxCJ2nkXFiG1HPMtb) | 3:17 |

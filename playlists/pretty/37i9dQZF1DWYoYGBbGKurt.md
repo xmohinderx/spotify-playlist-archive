@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 
 > Instrumental beats to chill to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 362,651 likes - 526 songs - 20 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 362,376 likes - 526 songs - 20 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 | 20 | [It Feels Right](https://open.spotify.com/track/1nRWpQ6hdE7lgGOJg5rnSt) | [Taste Of Purple](https://open.spotify.com/artist/29ulLEQloQJrmKG4HHBmBa) | [Hip Hope](https://open.spotify.com/album/5obALIk6zsK0gYEiM0YwkU) | 1:42 |
 | 21 | [measure](https://open.spotify.com/track/6Xgh67TMWtXrKfeAVSDYBA) | [Mo Rana](https://open.spotify.com/artist/5ZQEuLlGt1sfPoZIqFyKG9) | [measure](https://open.spotify.com/album/0gQG0fIyasBTSdPCC9yQuO) | 2:27 |
 | 22 | [sad tuesday \- interlude](https://open.spotify.com/track/02sFVQvoALrlAN7w5uu7h6) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO) | [edbl beats, vol\. 2](https://open.spotify.com/album/0nwGjcNzRldTQUt9fUCkFM) | 1:21 |
-| 23 | [Purple love](https://open.spotify.com/track/62zRN7mgvNl61YSXGjGXk4) | [Oscar](https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F) | [Sandman Express](https://open.spotify.com/album/2tg3PxwbIdpQW8OQq18yMw) | 1:52 |
+| 23 | [Purple love](https://open.spotify.com/track/62zRN7mgvNl61YSXGjGXk4) | [Oscar](https://open.spotify.com/artist/5ezLUfvnIzXoZIIVGHaReU) | [Sandman Express](https://open.spotify.com/album/2tg3PxwbIdpQW8OQq18yMw) | 1:52 |
 | 24 | [Sun\-Rainy](https://open.spotify.com/track/1hZEKLB9Xwgla0rkleh7sh) | [Phat Dizzy Dean](https://open.spotify.com/artist/1o0M8dJPrG2xg5u3gv9D6g) | [Sun\-Rainy](https://open.spotify.com/album/005AxaCubpQkVCI4cyiNOq) | 2:43 |
 | 25 | [Curious](https://open.spotify.com/track/5vJwUYGqvf3OON93oEvwQq) | [Lushi](https://open.spotify.com/artist/4MRjAi54TejLIantGPlDZv) | [Curious](https://open.spotify.com/album/0iU0c2qWBI0NFcTLurQP7B) | 2:25 |
 | 26 | [Santino](https://open.spotify.com/track/5QKDIzfyW02WRcA3Ag9kDe) | [Oops 123](https://open.spotify.com/artist/617zYYWCbL7eE07lP9O8rH) | [Santino](https://open.spotify.com/album/5HYlvWpJTGR9s4LobjeleM) | 3:11 |

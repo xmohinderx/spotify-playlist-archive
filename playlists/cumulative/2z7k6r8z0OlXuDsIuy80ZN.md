@@ -4,7 +4,7 @@
 
 > ¡Los 40 principales éxitos de la radio musical! Se actualiza cada semana con la nueva lista de LOS40 ¡Busca más playlists en nuestro perfil y en la <a href="http://onelink.to/los40app">app LOS40</a>!
 
-98 songs - 5 hr 12 min - [published](https://open.spotify.com/playlist/2EQ7mQxKSAz66lR2sssfQA)
+99 songs - 5 hr 14 min - [published](https://open.spotify.com/playlist/2EQ7mQxKSAz66lR2sssfQA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,8 @@
 | [Hawaii](https://open.spotify.com/track/1FLfDdmBo2gVn0SvYWCK8W) | [Bombai](https://open.spotify.com/artist/4sbKCRFKQ8sAUn1pWR5iKZ), [David Otero](https://open.spotify.com/artist/4cA5JN7tiNZ8afYeuSQj5h) | [Hawaii](https://open.spotify.com/album/6vhvXwe3kgdBHr1DjcmY9j) | 3:05 | 2022-01-15 | 2022-05-08 |
 | [Heat Waves](https://open.spotify.com/track/6CDzDgIUqeDY5g8ujExx2f) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Heat Waves](https://open.spotify.com/album/69K1zrf6TkXHdYUO8n2qVi) | 3:58 | 2022-01-15 | 2022-08-21 |
 | [Histéricos](https://open.spotify.com/track/60hDNXs2CwQywAzy3LWami) | [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Histéricos](https://open.spotify.com/album/5G8wMHPdXsVfd25THze79N) | 3:33 | 2022-01-15 | 2022-03-13 |
-| [Huesos](https://open.spotify.com/track/2gMY3JeGmCD87dKT4TQ5uK) | [Pignoise](https://open.spotify.com/artist/21ttsUKZ3y2Hm6nduyvbAw) | [Diversión](https://open.spotify.com/album/0PDWvltz5GHh6f6owOtr0H) | 3:06 | 2022-07-23 |  |
+| [Huesos](https://open.spotify.com/track/2gMY3JeGmCD87dKT4TQ5uK) | [Pignoise](https://open.spotify.com/artist/21ttsUKZ3y2Hm6nduyvbAw) | [Diversión](https://open.spotify.com/album/0PDWvltz5GHh6f6owOtr0H) | 3:06 | 2022-07-23 | 2022-09-04 |
+| [I Ain't Worried](https://open.spotify.com/track/73PAbYaVbnFG0tQ4aBfxeN) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Top Gun: Maverick \(Music From The Motion Picture\)](https://open.spotify.com/album/3tjIKRAPBy5Qu4z8F5HmBz) | 2:28 | 2022-09-03 |  |
 | [If You Really Love Me \(How Will I Know\)](https://open.spotify.com/track/1V7bZ9gEIwFQpm8yGxRHNA) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MistaJam](https://open.spotify.com/artist/3qi5fhSI6aUecvRN0XqIJ2), [John Newman](https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf) | [If You Really Love Me \(How Will I Know\)](https://open.spotify.com/album/2jchxs2dbRKpdHZl5O3FEY) | 3:04 | 2022-01-15 | 2022-01-30 |
 | [In the Dark](https://open.spotify.com/track/2lGzRg9ccRTa2gllTvy2w7) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Sophie and the Giants](https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF) | [In the Dark](https://open.spotify.com/album/64d2NALUX5nTqpG1Vu3l7x) | 3:05 | 2022-03-12 | 2022-08-21 |
 | [Infinity](https://open.spotify.com/track/1SOClUWhOi8vHZYMz3GluK) | [Jaymes Young](https://open.spotify.com/artist/6QrQ7OrISRYIfS5mtacaw2) | [Feel Something](https://open.spotify.com/album/6MuWCR3WPjwyKhqsTKLZ3z) | 3:57 | 2022-04-30 |  |

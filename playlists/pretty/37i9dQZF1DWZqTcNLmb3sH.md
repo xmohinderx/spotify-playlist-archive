@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 
 > Check out the latest hits from Sandalwood!<br/>Cover : Vikrant Rona
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,970 likes - 102 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,080 likes - 102 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Ra Ra Rakkamma \(From "Vikrant Rona"\)](https://open.spotify.com/track/0stbF4C1ACmIvx0aW81ZXa) | [Nakash Aziz](https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB), [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v), [B\. Ajaneesh Loknath](https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5) | [Ra Ra Rakkamma \(From "Vikrant Rona"\)](https://open.spotify.com/album/4GnAFlvjXPln9VsUhJxoTC) | 3:38 |
 | 2 | [Maaya Gange \(From "Banaras"\)](https://open.spotify.com/track/58H1xLatriC2xieOvwWqnN) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [B\. Ajaneesh Loknath](https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5) | [Maaya Gange \(From "Banaras"\)](https://open.spotify.com/album/217yRMaetQAa0Ay6xA91ta) | 4:35 |
-| 3 | [Minchanthe Minuguthiro \- From "Manku Bhai Foxy Rani"](https://open.spotify.com/track/2TGkYWIOIkCfistdZrwFbJ) | [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2), [Ronald Aaron Coates](https://open.spotify.com/artist/79zS9TigcaLcu7b2KjpPb8) | [Minchanthe Minuguthiro \(From "Manku Bhai Foxy Rani"\)](https://open.spotify.com/album/6cEKCHpAeTu3NzKYjKbsWO) | 4:23 |
+| 3 | [Minchanthe Minuguthiro \- From "Manku Bhai Foxy Rani"](https://open.spotify.com/track/2TGkYWIOIkCfistdZrwFbJ) | [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2), [Shameer Mudipu](https://open.spotify.com/artist/7ey1yG4zjWT6QvVl6PiMHN) | [Minchanthe Minuguthiro \(From "Manku Bhai Foxy Rani"\)](https://open.spotify.com/album/6cEKCHpAeTu3NzKYjKbsWO) | 4:23 |
 | 4 | [Modala Maleya \(From "Kaddha Chitra"\)](https://open.spotify.com/track/00L0gKniq9aTkxcNzozwgy) | [Sooraj Santhosh](https://open.spotify.com/artist/66PGnr0hE7ZIcWir6IwitB), [Krishna Raj](https://open.spotify.com/artist/6QI8uKzg3XllaQCPOvTbtd), [Madhukiran R](https://open.spotify.com/artist/3cupODiwAbc9QyY9wx5y2t) | [Modala Maleya \(From "Kaddha Chitra"\)](https://open.spotify.com/album/6RgZU2MHtSVdI9wTV3er3V) | 3:36 |
 | 5 | [Yaare Neenu Devathe \(From "Long Drive"\)](https://open.spotify.com/track/02wEeoV4rHjOcPS1qKn4f8) | [Vikas Vasishta](https://open.spotify.com/artist/6IcmFfiYYoL5jTHo5xplm4) | [Yaare Neenu Devathe \(From "Long Drive"\)](https://open.spotify.com/album/4UOJwNY4L8t638gC3etjAz) | 3:33 |
 | 6 | [Rowdigalu Naavu Rowdigalu](https://open.spotify.com/track/4C6h5YHHahN1aqvsX7mtTz) | [Sanjith Hegde](https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v), [Deepak Blue](https://open.spotify.com/artist/5iFKS1bnBNFWBAmd7mi0vf) | [Head Bush](https://open.spotify.com/album/119hZW1PioUTwvVbJSKbLv) | 2:38 |

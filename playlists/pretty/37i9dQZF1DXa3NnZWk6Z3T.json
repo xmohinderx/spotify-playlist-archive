@@ -1,12 +1,12 @@
 {
   "description": "Keep calm and enjoy this musical cafecito.",
-  "num_followers": 544530,
+  "num_followers": 544541,
   "original_name": "Caf\u00e9 con Leche",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDkyMDk5MCwwMDAwMDAwMGU5NDgyNjg2OGRkY2RmN2JlMzBmOTlkN2ExZjNiMzlk",
+  "snapshot_id": "MTY2MDkyMDk5MCwwMDAwMDAwMDUzNWVjODBiNmM0YzhjYjQxMDI3YzFkOWY1ZDVjZjE2",
   "tracks": [
     {
       "added_at": "2022-08-19 14:56:30",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2022-08-19 14:56:30",
       "album": {
-        "name": "Veracruz",
-        "url": "https://open.spotify.com/album/6zQMFodbAoC1JJOtx2Q0av"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 243253,
-      "name": "Veracruz",
-      "url": "https://open.spotify.com/track/5BtCjOEPnTt3m1PbCRxQhd"
-    },
-    {
-      "added_at": "2022-08-19 14:56:30",
-      "album": {
         "name": "Llegu\u00e9 hasta ti (feat. Juanito Makand\u00e9)",
         "url": "https://open.spotify.com/album/3GGoeVNdy9IpN0f2nGRQqW"
       },
@@ -1659,6 +1643,22 @@
     {
       "added_at": "2022-08-19 14:56:30",
       "album": {
+        "name": "Diferentes Tipos de Luz",
+        "url": "https://open.spotify.com/album/2ApLZfsw7yYrztoaNkwLe5"
+      },
+      "artists": [
+        {
+          "name": "Carlos Sadness",
+          "url": "https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq"
+        }
+      ],
+      "duration_ms": 282947,
+      "name": "Semitransparente",
+      "url": "https://open.spotify.com/track/0G8vDG9wlBEneyoneUBYyl"
+    },
+    {
+      "added_at": "2022-08-19 14:56:30",
+      "album": {
         "name": "Cantables",
         "url": "https://open.spotify.com/album/269SuIWx9DZ7poGQzNVbUD"
       },
@@ -1675,22 +1675,6 @@
       "duration_ms": 230026,
       "name": "Ganando el Tiempo (with Jorge Drexler)",
       "url": "https://open.spotify.com/track/6vcggsPzVC9qWikamING0g"
-    },
-    {
-      "added_at": "2022-08-19 14:56:30",
-      "album": {
-        "name": "Diferentes Tipos de Luz",
-        "url": "https://open.spotify.com/album/2ApLZfsw7yYrztoaNkwLe5"
-      },
-      "artists": [
-        {
-          "name": "Carlos Sadness",
-          "url": "https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq"
-        }
-      ],
-      "duration_ms": 282947,
-      "name": "Semitransparente",
-      "url": "https://open.spotify.com/track/0G8vDG9wlBEneyoneUBYyl"
     },
     {
       "added_at": "2022-08-19 14:56:30",
@@ -2671,6 +2655,26 @@
       "duration_ms": 208004,
       "name": "Bohemio",
       "url": "https://open.spotify.com/track/7vgtsjhT7JpPGkv8RA1Qh1"
+    },
+    {
+      "added_at": "2022-08-19 14:56:30",
+      "album": {
+        "name": "El Solitario Amor",
+        "url": "https://open.spotify.com/album/2AieUifG2ARpFMgKgO9LUO"
+      },
+      "artists": [
+        {
+          "name": "Adan Jodorowsky",
+          "url": "https://open.spotify.com/artist/5qUyJ52ARWXdUNECvFHBag"
+        },
+        {
+          "name": "The French Kiss",
+          "url": "https://open.spotify.com/artist/6qFbQxxc80ar3IYpWTXKzg"
+        }
+      ],
+      "duration_ms": 175786,
+      "name": "El Solitario Amor",
+      "url": "https://open.spotify.com/track/0V9V7YN8hgej8fvj9iaLoo"
     }
   ],
   "unique_name": "Caf\u00e9 con Leche",

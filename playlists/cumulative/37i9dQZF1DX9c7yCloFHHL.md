@@ -4,7 +4,7 @@
 
 > The home of today’s cutting edge Ambient, Atmospheric and Neo Classical music\. Pantha Du Prince on cover.
 
-617 songs - 2 day 0 hr 21 min - [published](https://open.spotify.com/playlist/2VJZyunnZCFnCPLdfBtZ7N)
+618 songs - 2 day 0 hr 25 min - [published](https://open.spotify.com/playlist/2VJZyunnZCFnCPLdfBtZ7N)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [Before I Forget You](https://open.spotify.com/track/2o4uQ0qj4WNEMnnmtkUcrz) | [Matt Tondut](https://open.spotify.com/artist/1dscULdwo1wKG8QtoNgDZX), [Amai Oto](https://open.spotify.com/artist/3iNGaJ4kwEjOpkj6IEyQCR) | [Before I Forget You](https://open.spotify.com/album/22omqP8r89EcEWyQVnC8KB) | 2:54 | 2022-05-06 |  |
 | [Before Life](https://open.spotify.com/track/7yTZZYeDCD3HRKNrv1u5ag) | [Indian Wells](https://open.spotify.com/artist/0xGMNVyrwBJYVudabEW1Re) | [Before Life](https://open.spotify.com/album/2Ju4JSwJaPjMcbD9R3pXMH) | 5:29 | 2022-07-15 |  |
 | [Biokinetics 2](https://open.spotify.com/track/1pXB6sODqCvLcq1CGDEISC) | [Porter Ricks](https://open.spotify.com/artist/47yoe54A38qmHti0GlTPXR) | [Biokinetics](https://open.spotify.com/album/53NpZCeQB2JdALLsHsObjg) | 8:29 | 2022-04-08 | 2022-04-21 |
+| [Birki](https://open.spotify.com/track/7eVczwc5ifac0Refb83OFN) | [Jónsi](https://open.spotify.com/artist/3khg8RDB6nMuw34w1IHS6Y), [Kjartan Holm](https://open.spotify.com/artist/0BWRfTuCYTRzqnjYprarFo), [Sin Fang](https://open.spotify.com/artist/7xsi0kBJ58yWMu4WXFYPHU), [Alex Somers](https://open.spotify.com/artist/51UcKPhDKdKDGIjec0781x) | [Birki](https://open.spotify.com/album/45FNDz5cwraBbRazdMFdzP) | 4:03 | 2022-09-03 |  |
 | [Black Stone](https://open.spotify.com/track/1tnZu1tNlHA0Bw323QHtOu) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl) | [Black Stone / Blue Liquid](https://open.spotify.com/album/1tGTbOHA7tpP0s94IhEAIt) | 3:56 | 2021-12-24 | 2022-03-16 |
 | [Blind Power \- Exzald S Remix](https://open.spotify.com/track/2Qx5xSZixGfNiQRE71rTwR) | [Aho Ssan](https://open.spotify.com/artist/6DP0aNDMupNmkyK4drCrvC), [Exzald S](https://open.spotify.com/artist/756Tekd3xMSlgr0YMn0xIU) | [Simulacrum Remixed](https://open.spotify.com/album/4IkLBRzKXlH5Y90CZRYkuo) | 8:27 | 2021-12-24 | 2022-01-02 |
 | [Blob on the Lawn](https://open.spotify.com/track/104LLrwbK0zPPtfvFKddp3) | [Lucrecia Dalt](https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9) | [The Seed \(Original Score\)](https://open.spotify.com/album/64TzDB3gO5C0NVlvuSQQpB) | 2:52 | 2022-03-11 | 2022-04-08 |
@@ -97,7 +98,7 @@
 | [Broken Melody](https://open.spotify.com/track/0laa1rK5dPLXwF1Qi4Vu4b) | [Caterina Barbieri](https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu) | [Broken Melody](https://open.spotify.com/album/4gzeLQvhfZ5vjnblYDMBqn) | 4:26 | 2022-04-22 |  |
 | [Brush](https://open.spotify.com/track/6lNrPAYL1ShzpzEEQNcUeo) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH), [Emile Mosseri](https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1) | [I Could Be Your Dog \(Prequel\)](https://open.spotify.com/album/010kVtJGaVvJPmMyAHscKD) | 1:20 | 2021-12-24 | 2022-03-11 |
 | [Bucolic Architecture \- Flug 8 Remix](https://open.spotify.com/track/3cQWC4VNioX0gQVRXv8Yhi) | [Yoann Pisterman](https://open.spotify.com/artist/3LZxoiZhqiHHz5R1YcVC9A), [Flug 8](https://open.spotify.com/artist/1TUyL6A6jprqDVEAJOZ29I) | [Bucolic Architecture \(Flug 8 Remix\)](https://open.spotify.com/album/6KWziNGstz2rpZS5H88PGW) | 6:26 | 2022-02-18 | 2022-07-29 |
-| [Burnt](https://open.spotify.com/track/4mVkekfbynNEYCxTqjvu3n) | [Mazoulew](https://open.spotify.com/artist/2FXIGKBu3oLpuZkXq6bMgj) | [Movements](https://open.spotify.com/album/6MaULV6Q82B2QA0A9SUSQs) | 3:26 | 2022-02-25 |  |
+| [Burnt](https://open.spotify.com/track/4mVkekfbynNEYCxTqjvu3n) | [Mazoulew](https://open.spotify.com/artist/2FXIGKBu3oLpuZkXq6bMgj) | [Movements](https://open.spotify.com/album/6MaULV6Q82B2QA0A9SUSQs) | 3:26 | 2022-02-25 | 2022-09-04 |
 | [By The Sea \(Alexandra Hamilton\-Ayres Rework\)](https://open.spotify.com/track/2iXvCq72SsfRotGmvihphI) | [Anna Phoebe](https://open.spotify.com/artist/1838KFlgy3zBrQOqiwagod), [Alexandra Hamilton\-Ayres](https://open.spotify.com/artist/6o0pKKljrn7GYEZTQPFwKp) | [By The Sea \(Alexandra Hamilton\-Ayres Rework\)](https://open.spotify.com/album/4dsFX80koDAJYLRx6UwcE3) | 4:48 | 2021-12-24 |  |
 | [By The Sea \(live\)](https://open.spotify.com/track/3MYAcI8fKxQjDF2DrULm1B) | [Anna Phoebe](https://open.spotify.com/artist/1838KFlgy3zBrQOqiwagod), [Jake Downs](https://open.spotify.com/artist/548KN8JtY7WZn3VCiTGgUJ), [Trans Voices](https://open.spotify.com/artist/6WOjBUzx8rMrwCdVtU4WVN) | [By The Sea \(live\)](https://open.spotify.com/album/4uDNPvTViSulNt01rFHM5R) | 5:00 | 2022-04-22 |  |
 | [Call the Flood](https://open.spotify.com/track/5NNBZTpEjrK9dLnsozj61C) | [Jeroen Dirrix](https://open.spotify.com/artist/02Ay0xb3u177rlIOA1YmGs) | [A Hidden Place](https://open.spotify.com/album/3emV1EJfJZiW8o4sHOYy7h) | 5:25 | 2021-12-24 |  |

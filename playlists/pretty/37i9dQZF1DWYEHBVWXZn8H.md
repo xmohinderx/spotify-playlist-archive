@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEHBVWXZn8H.md) - [plain]
 
 > The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,689 likes - 65 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,578 likes - 65 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,6 +72,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEHBVWXZn8H.md) - [plain]
 | 62 | [Worm Tamer](https://open.spotify.com/track/6LYZrlstXYeh83TPvWssqt) | [Grinderman](https://open.spotify.com/artist/0IpDaO9A1OW1h0YChKzVaX) | [Grinderman 2](https://open.spotify.com/album/5XqENSDSTSveo4eBTwjrW1) | 3:13 |
 | 63 | [God Is in the House \- 2011 Remastered Version](https://open.spotify.com/track/5Flyry8kwnmeuvdSHE4mNj) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [No More Shall We Part \(2011 Remastered Version\)](https://open.spotify.com/album/5JpkwEcDxy92C3e9vSJTVX) | 5:44 |
 | 64 | [Loverman \- 2011 Remastered Version](https://open.spotify.com/track/6sOCmuWkp0anAqgfLqzNjH) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Let Love In \(2011 Remastered Version\)](https://open.spotify.com/album/0Ewp4PEIzkcAyrC463a5xF) | 6:21 |
-| 65 | [Release The Bats](https://open.spotify.com/track/1gvhqMMbek9ezNtmu4txNJ) | [The Birthday Party](https://open.spotify.com/artist/5I2hMUcztc6QbzkyLskdt4) | [Junkyard](https://open.spotify.com/album/1JfIRGXDOQFlP1OGWzmvL5) | 2:31 |
+| 65 | [Release The Bats](https://open.spotify.com/track/2CVsEpXpqU8ZEafa5SzIGI) | [The Birthday Party](https://open.spotify.com/artist/5I2hMUcztc6QbzkyLskdt4) | [Junkyard](https://open.spotify.com/album/7dnXe2EVoWKwGGGRLnoieV) | 2:31 |
 
-Snapshot ID: `MTY0MTg2MTA5NywwMDAwMDAwMGQwZjVhYWI1NzBkMDVlNGEwMzE0NzMwMWNhYzdiM2Ux`
+Snapshot ID: `MTY0MTg2MTA5NywwMDAwMDAwMDM4Nzg4MzNiOThlMzcwM2FkNTFhNjljNWMxZGY3ZGMy`

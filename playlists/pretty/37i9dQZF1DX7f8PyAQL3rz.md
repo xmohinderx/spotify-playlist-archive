@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7f8PyAQL3rz.md) - [plain]
 
 > md chefe, a mistura de postura e elegância
 
-[Spotify](https://open.spotify.com/user/spotify) - 933,220 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 933,794 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Tiffany](https://open.spotify.com/track/5soSqklbrft67wPAkQrfzR) | [MD Chefe](https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs), [Offlei Sounds](https://open.spotify.com/artist/7Kqcr4CkcQHjHiw3aPfFkC) | [Atg Tape](https://open.spotify.com/album/7jKnLvcgsCQZuwpW3xJwVo) | 2:32 |
 | 2 | [Casei Com a Putaria](https://open.spotify.com/track/1OZ4uv7OAP24Ix6j3vojLt) | [Mc Paiva ZS](https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Kotim](https://open.spotify.com/artist/210Sy1oGhvPu929TKoSVcN) | [Casei Com a Putaria](https://open.spotify.com/album/4cLbAcr21lNTq9oTGGTvQi) | 2:37 |
 | 3 | [Pixadão](https://open.spotify.com/track/06VHFg61ePkcCQfYFEuz5c) | [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [MC Paulin da Capital](https://open.spotify.com/artist/592JnViQ2tot63c1SbtgK2), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd) | [Pixadão](https://open.spotify.com/album/11XLoSzIKieX8A4zC9mNcq) | 5:10 |
-| 4 | [Outro Patamar](https://open.spotify.com/track/0hVKEiZ9lWwKQlBk4VZ0GK) | [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd) | [Outro Patamar](https://open.spotify.com/album/4J1SvtWJvuHaPkjk6PlIom) | 3:44 |
+| 4 | [Outro Patamar](https://open.spotify.com/track/0hVKEiZ9lWwKQlBk4VZ0GK) | [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [jess beats](https://open.spotify.com/artist/7uskxjQtkzfiqHCNIIv3gD) | [Outro Patamar](https://open.spotify.com/album/4J1SvtWJvuHaPkjk6PlIom) | 3:44 |
 | 5 | [Fim de Semana no Rio](https://open.spotify.com/track/7afaZ37wJJL6880z1NRgJS) | [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo) | [Fim de Semana no Rio](https://open.spotify.com/album/02q2gOT5jYZN9fXLPFxy9S) | 2:45 |
 | 6 | [Kikando e Me Olhando](https://open.spotify.com/track/4a0sqvCBo7aRIS4GzBQpnp) | [MC Braz](https://open.spotify.com/artist/7htxZTR76qcXYJylEmkLiJ), [MC Tairon](https://open.spotify.com/artist/7ujbuq6hAjLSf7cGr6au0b), [Dj Win](https://open.spotify.com/artist/04NtfTeul9H9B41tPvF3MG) | [Kikando e Me Olhando](https://open.spotify.com/album/0f8qsGhJ3RZf4ol3YqIuMw) | 3:30 |
 | 7 | [Londres Freestyle](https://open.spotify.com/track/1lgavq2sDLrnD5h5BytyBr) | [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw) | [Londres Freestyle](https://open.spotify.com/album/2u5F0rIXQeCZHvtuB3ySxU) | 2:08 |

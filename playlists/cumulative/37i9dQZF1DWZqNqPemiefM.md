@@ -4,7 +4,7 @@
 
 > Deep concentration with these outstanding Japanese ambient tracks.
 
-425 songs - 1 day 10 hr 22 min - [published](https://open.spotify.com/playlist/4yRMmJhsvszYGvpMChx2d3)
+426 songs - 1 day 10 hr 24 min - [published](https://open.spotify.com/playlist/4yRMmJhsvszYGvpMChx2d3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [AFTER IMAGE](https://open.spotify.com/track/1Jxb8fKZJrobr8T2NCBNlY) | [Masayuki Sakamoto](https://open.spotify.com/artist/3KkI7GpwZIcwRAXOEzP9Pr) | [プシュケ](https://open.spotify.com/album/0olvnM41x2P7CJJ4cvwyFQ) | 3:28 | 2022-04-07 | 2022-06-24 |
 | [Afterglow](https://open.spotify.com/track/7CZqWibNsryIJ3xa4dotBc) | [Midori Hirano](https://open.spotify.com/artist/6q1lHz1O9inWPaToF6l5rj) | [Mirrors in Mirrors](https://open.spotify.com/album/3l3KPWoLYTeX9jYWTFDx4C) | 4:05 | 2022-04-07 | 2022-07-26 |
 | [AIU](https://open.spotify.com/track/6SIxFak3dhN7rdGBdDrmg8) | [INOYAMALAND](https://open.spotify.com/artist/3nYCvyP4RxuKyEKygqxWHy) | [INOYAMALAND \(Remaster Edition\)](https://open.spotify.com/album/4HZhjkQkKnR9qGv9Bl2esq) | 3:48 | 2022-03-31 | 2022-07-13 |
+| [Ake](https://open.spotify.com/track/2Y72i9VmRw4Ncq7RMrNPTh) | [Haruhisa Tanaka](https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw) | [Ake](https://open.spotify.com/album/3GJ035mx6IyGLk2ppp0UU0) | 2:07 | 2022-09-03 |  |
 | [Ama](https://open.spotify.com/track/0lbqQlv8N3kBczLqvevinm) | [7FO ‎](https://open.spotify.com/artist/0Ri0lZkdYY8gyCOC3hDq2r) | [Moment](https://open.spotify.com/album/3mhmI2zWMLBmsZHVvhrpeI) | 4:43 | 2022-03-31 | 2022-07-26 |
 | [AMBIENT MEDITATION \#3](https://open.spotify.com/track/2FRipc9UogCdwnWLvE74Uq) | [Haruomi Hosono](https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak) | [MEDICINE COMPILATION from the Quiet Lodge](https://open.spotify.com/album/3qaEUrwOgFVPIfaIMuJVcS) | 4:03 | 2022-03-31 | 2022-05-13 |
 | [Ambient Music for Exhibition “Let’s Get Lost” 02](https://open.spotify.com/track/4Q0kae2L3an9NGHRBXuTMv) | [Inner Science](https://open.spotify.com/artist/3h2z9q9RhVXgX2c7QAZdO5) | [Ambient Variation 2](https://open.spotify.com/album/6M4O5UYE4ixEU0z3OElh5B) | 2:55 | 2022-06-23 | 2022-07-29 |
@@ -214,7 +215,7 @@
 | [Merge](https://open.spotify.com/track/03e5WkmDs2xJw0OXvfXrdI) | [Nobuto Suda](https://open.spotify.com/artist/3ml3FpzCetshYSyx5ghKGS) | [Terminus](https://open.spotify.com/album/7aDfUq2OLrdgLCk4upnukd) | 6:23 | 2022-03-31 | 2022-04-10 |
 | [Meteor Stream](https://open.spotify.com/track/6khYmpfZG6J1Tn7xpTq134) | [Kaoru Inoue](https://open.spotify.com/artist/5fr4WRZR59VYttwBALTLUo) | [Of Mythic Future](https://open.spotify.com/album/15D9WVyXTUg46FJUpVrErL) | 5:31 | 2022-04-28 | 2022-05-06 |
 | [Middle](https://open.spotify.com/track/5MjPydec9ZNIRG2AaWbqC0) | [Haruhisa Tanaka](https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw) | [Views](https://open.spotify.com/album/2tGZZZlAyHAw90nTFQZ3By) | 5:34 | 2022-04-28 | 2022-07-28 |
-| [Midsummer Night](https://open.spotify.com/track/599w57sIc7zTRE2f89TyiZ) | [Toshifumi Hinata](https://open.spotify.com/artist/08tfDO4dSrwxax35a3HIMC) | [Broken Belief](https://open.spotify.com/album/3goyDdPVoNpBK5OroPcHfv) | 7:16 | 2022-03-31 |  |
+| [Midsummer Night](https://open.spotify.com/track/599w57sIc7zTRE2f89TyiZ) | [Toshifumi Hinata](https://open.spotify.com/artist/08tfDO4dSrwxax35a3HIMC) | [Broken Belief](https://open.spotify.com/album/3goyDdPVoNpBK5OroPcHfv) | 7:16 | 2022-03-31 | 2022-09-04 |
 | [Millefeuille](https://open.spotify.com/track/2GlAWOVruoh0tvj99RIYrO) | [soma hayato](https://open.spotify.com/artist/7Ggi7oQcGOPoOZe1tMbxnJ) | [TENbient 3](https://open.spotify.com/album/2F31M0fEMChoZhulEOkprk) | 4:01 | 2022-03-31 | 2022-07-28 |
 | [Miyukinohama \(Day\)](https://open.spotify.com/track/1wm8v8VZPSiGncUxclG7Pr) | [Ryosuke Miyata](https://open.spotify.com/artist/5XQYaHvaH4u0uhZdSZpO5C) | [Private Cottage](https://open.spotify.com/album/2bd9568r3VT7Cfs2GggfbF) | 6:56 | 2022-03-31 | 2022-04-17 |
 | [Mkwaju](https://open.spotify.com/track/2mx7O88JR2wrlTqckLtr53) | [Mkwaju Ensemble](https://open.spotify.com/artist/6lhQfkLL5E1JHiam3nNvtN) | [Computer Incarnations For World Peace III](https://open.spotify.com/album/6vXtpsv2IxmvubIDGiE3mX) | 6:28 | 2022-07-28 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvaphaClKD3.md) - [plain]
 
 > Novedades poderosas, perronas y llegadoras de la <a href="spotify:genre:0JQ5DAqbMKFDTEtSaS4R92"> Música Mexicana</a>\. La Arrolladora Banda El Limón en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 229,936 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 230,110 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvaphaClKD3.md) - [plain]
 | 35 | [La Escoba](https://open.spotify.com/track/5DTOpQduVxicbFDaAcv6Nr) | [Gerardo Coronel](https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC) | [La Escoba](https://open.spotify.com/album/48JY1LkzUCt2MLPMw0j3dP) | 1:56 |
 | 36 | [DOCTOR DEL BARRIO](https://open.spotify.com/track/4qYYPkAWSwCnOEvvRrNaWj) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [DOCTOR DEL BARRIO](https://open.spotify.com/album/655hE0RKEAe5CkBJ2USxwf) | 2:21 |
 | 37 | [A La Orden \(El Menor\)](https://open.spotify.com/track/6KSUBF2lLNzsPGiy8bV95y) | [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG), [Adrian L Santos](https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac) | [A La Orden \(El Menor\)](https://open.spotify.com/album/4nA6tCmBMPlaj1cHDc3iWL) | 3:04 |
-| 38 | [Las Crias Del M](https://open.spotify.com/track/1ZAxW9PpZ8XhYjWyZgTScK) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [Banda Punto Medio](https://open.spotify.com/artist/1e52HdTL1PMcFUdmbs5uvP) | [Las Crias Del M](https://open.spotify.com/album/1Gc7YFFHToFrrC7nLYy9Kl) | 3:00 |
+| 38 | [Las Crias Del M \- Banda Punto Medio Remix](https://open.spotify.com/track/1ZAxW9PpZ8XhYjWyZgTScK) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [Banda Punto Medio](https://open.spotify.com/artist/1e52HdTL1PMcFUdmbs5uvP) | [Las Crias Del M \(Banda Punto Medio Remix\)](https://open.spotify.com/album/1Gc7YFFHToFrrC7nLYy9Kl) | 3:00 |
 | 39 | [Escándalo Social \- Versión 20y20](https://open.spotify.com/track/0Jg59ba9azCAiyK040L2bJ) | [Lucero](https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330), [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Escándalo Social \(Versión 20y20\)](https://open.spotify.com/album/4w4DLhcqcOkUIr14P9oEb8) | 3:20 |
 | 40 | [Lo de Anoche](https://open.spotify.com/track/2dZAF8kwSjlkYASXpHN2OU) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Lo de Anoche](https://open.spotify.com/album/4ik5ysg5eOb1CfL7FMdbFL) | 3:07 |
 | 41 | [Bella Mujer](https://open.spotify.com/track/4UdElq0dpUVS6fNyhLYwYM) | [Grupo Nueva Liga](https://open.spotify.com/artist/0iVRaTxHkNNvEaY1SOD8dk) | [Bella Mujer](https://open.spotify.com/album/7AyFGqdzc3zqoW68XI8SA3) | 2:26 |

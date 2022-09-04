@@ -1,12 +1,12 @@
 {
   "description": "Here's a taste of power pop. <a href=\"spotify:genre:0JQ5IMCbQBLk5woFi85yOT\">Click here for further discovery.</a> Cover: Cheap Trick\n",
-  "num_followers": 123888,
+  "num_followers": 123813,
   "original_name": "Power Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDc0NjAzNiwwMDAwMDAwMGVjZjBkOWIyNWVkNWZiOTJlZGYyNzkzOTIzY2NlODM2",
+  "snapshot_id": "MTY2MDc0NjAzNiwwMDAwMDAwMGEzYTRiODQ0ZWQ5YTExODk0YWVmNjk3MGQ5ODUwZjE5",
   "tracks": [
     {
       "added_at": "2021-12-16 19:14:26",
@@ -279,22 +279,6 @@
       "duration_ms": 225626,
       "name": "Just What I Needed",
       "url": "https://open.spotify.com/track/4alHo6RGd0D3OUbTPExTHN"
-    },
-    {
-      "added_at": "2021-12-16 19:14:26",
-      "album": {
-        "name": "Lola Versus Powerman and the Moneygoround, Pt. One",
-        "url": "https://open.spotify.com/album/4jaLfcNpIrOgcPyXuuiHTi"
-      },
-      "artists": [
-        {
-          "name": "The Kinks",
-          "url": "https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E"
-        }
-      ],
-      "duration_ms": 241040,
-      "name": "Lola",
-      "url": "https://open.spotify.com/track/0UAJH0k4k3slcE83a9UGCe"
     },
     {
       "added_at": "2021-12-16 19:14:26",
@@ -795,18 +779,34 @@
     {
       "added_at": "2021-12-16 19:14:26",
       "album": {
-        "name": "Armed Forces (Remastered 2020)",
-        "url": "https://open.spotify.com/album/5w3q6GZbw0gsAtvl1c0rmu"
+        "name": "20th Century Masters: The Millennium Collection: Best of Donnie Iris",
+        "url": "https://open.spotify.com/album/5SflwEXSYK6xowXF9SDrkF"
       },
       "artists": [
         {
-          "name": "Elvis Costello & The Attractions",
-          "url": "https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH"
+          "name": "Donnie Iris",
+          "url": "https://open.spotify.com/artist/4kveDT8ylFciq1mdeYcIvw"
         }
       ],
-      "duration_ms": 211630,
-      "name": "(What's So Funny 'Bout) Peace, Love And Understanding",
-      "url": "https://open.spotify.com/track/77XzsYwTkvLoveW01Lanrk"
+      "duration_ms": 222533,
+      "name": "Ah! Leah!",
+      "url": "https://open.spotify.com/track/3ifaGhNHnCPQ9zdnOfolcZ"
+    },
+    {
+      "added_at": "2021-12-16 19:14:26",
+      "album": {
+        "name": "Greatest Hits: Blondie",
+        "url": "https://open.spotify.com/album/25eZFwT2UvVK1kxC3wMoSW"
+      },
+      "artists": [
+        {
+          "name": "Blondie",
+          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
+        }
+      ],
+      "duration_ms": 208466,
+      "name": "One Way Or Another",
+      "url": "https://open.spotify.com/track/3DiRdaZtPrVdb4U2RIuRWm"
     }
   ],
   "unique_name": "Power Pop",

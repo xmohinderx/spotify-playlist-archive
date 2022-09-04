@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWgNWdGsjlE.md) - [plain]
 
 > make a mess of it\. Cover: POORSTACY
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,126 likes - 105 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,147 likes - 105 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

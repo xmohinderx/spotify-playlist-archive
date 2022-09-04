@@ -4,7 +4,7 @@
 
 > Indie folk ventures into the cinematic West.
 
-143 songs - 8 hr 50 min - [published](https://open.spotify.com/playlist/2V1p4xykjAhFetkB4ZPv4j)
+144 songs - 8 hr 54 min - [published](https://open.spotify.com/playlist/2V1p4xykjAhFetkB4ZPv4j)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,8 @@
 | [Light That Match](https://open.spotify.com/track/5iiXIpA0AGJekS2sOsMBUf) | [Down Like Silver](https://open.spotify.com/artist/5u96pPXm3JmksPRgYDiVps) | [Light That Match](https://open.spotify.com/album/7kgdul3E3sTCCS3hLU01vx) | 3:02 | 2019-10-31 |  |
 | [Make It Out \(feat\. Maisie Peters\)](https://open.spotify.com/track/5qXbNSvVp8rB4Kcy2DTTIt) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC), [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Make It Out \(feat\. Maisie Peters\)](https://open.spotify.com/album/3i51kXWcF0fLzcwDBZFgNo) | 3:03 | 2022-01-27 |  |
 | [Manuscripts](https://open.spotify.com/track/1Q7FOLlniUrL6P3nOfh2Y9) | [Steve Smyth](https://open.spotify.com/artist/4ejc2q1FtezVtEDOEOuyMO) | [Exits](https://open.spotify.com/album/3vSNB85xVwlQHjh2AmME8s) | 3:43 | 2019-10-31 | 2022-07-29 |
-| [Manuscripts](https://open.spotify.com/track/6hQUYyrGrPOBbxCFbwQxVG) | [Steve Smyth](https://open.spotify.com/artist/4ejc2q1FtezVtEDOEOuyMO) | [Exits](https://open.spotify.com/album/3JV08IVUR8OrMfCTMdfThw) | 3:43 | 2022-01-27 |  |
+| [Manuscripts](https://open.spotify.com/track/1vSwF9g9HvreKhSHJCkRac) | [Steve Smyth](https://open.spotify.com/artist/4ejc2q1FtezVtEDOEOuyMO) | [Exits](https://open.spotify.com/album/71N8R4aZ6VDXWUP9jo8l08) | 3:43 | 2022-01-27 |  |
+| [Manuscripts](https://open.spotify.com/track/6hQUYyrGrPOBbxCFbwQxVG) | [Steve Smyth](https://open.spotify.com/artist/4ejc2q1FtezVtEDOEOuyMO) | [Exits](https://open.spotify.com/album/3JV08IVUR8OrMfCTMdfThw) | 3:43 | 2022-01-27 | 2022-09-04 |
 | [Margo](https://open.spotify.com/track/5Mn82vItGPWekMoCE4GrhU) | [Haroula Rose](https://open.spotify.com/artist/7AhCTepWX7n4dQFh3Ro3YG) | [Margo](https://open.spotify.com/album/4tSX4JSEeC1bedmrv0KjJk) | 3:40 | 2019-10-31 |  |
 | [Mexico Blues](https://open.spotify.com/track/7BQV8x1FRCHoO9uSu6zwOn) | [Adia Victoria](https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl) | [Beyond The Bloodhounds](https://open.spotify.com/album/3N5acrSXdpjx4GBwvvHQv8) | 4:37 | 2019-10-31 |  |
 | [Morning Love](https://open.spotify.com/track/2spGltAm1sy8foy0faDbZ4) | [Feathership](https://open.spotify.com/artist/7jyB6xDRAHOnJseX86s7lm) | [Howl](https://open.spotify.com/album/7hleuyG5aLUxxVfcfNdIEv) | 2:40 | 2019-10-31 |  |

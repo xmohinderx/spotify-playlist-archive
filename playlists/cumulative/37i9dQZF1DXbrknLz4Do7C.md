@@ -4,7 +4,7 @@
 
 > Some of the best Christian, Gospel, and inspirational songs of the year\.  Cover: Maverick City Music and Elevation Worship
 
-97 songs - 6 hr 52 min - [published](https://open.spotify.com/playlist/0IzMblP0V9gLxyS2I1i6Zs)
+98 songs - 6 hr 55 min - [published](https://open.spotify.com/playlist/0IzMblP0V9gLxyS2I1i6Zs)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,8 @@
 | [Can't Tell It All](https://open.spotify.com/track/4bvNwqjzJbbmUDClgpCTG0) | [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO) | [Christopher](https://open.spotify.com/album/5VEvjpJ9mrA2JfVQJJvLEW) | 2:42 | 2021-12-01 |  |
 | [Canyon](https://open.spotify.com/track/2koPlTDIbGWjcMQFUKx7g2) | [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [Canyon](https://open.spotify.com/album/7Hbyzqec8Ls87yM0J7xCaQ) | 3:40 | 2021-12-01 |  |
 | [Catch Me Singing](https://open.spotify.com/track/0u1Ovg8NhPC3zibtW4UjzN) | [Sean Curran](https://open.spotify.com/artist/4OWmbcuUeVoBCmgMEASW3c) | [1,000 Names](https://open.spotify.com/album/1EUSij1Z8g0aYZ9ENNzEiL) | 5:34 | 2021-12-01 |  |
-| [Clean](https://open.spotify.com/track/2fDG6nBpw0WHVoycB20KeP) | [Derek Minor](https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B) | [Clean](https://open.spotify.com/album/6x2IRGwgHbo7Tj2zNwCFsS) | 2:48 | 2021-12-01 |  |
+| [Clean](https://open.spotify.com/track/1Qd7kw7Zirh6Ep03IGYcEz) | [Derek Minor](https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B) | [Clean](https://open.spotify.com/album/3JiryCdck69RJNlX7wTTe3) | 2:48 | 2021-12-01 |  |
+| [Clean](https://open.spotify.com/track/2fDG6nBpw0WHVoycB20KeP) | [Derek Minor](https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B) | [Clean](https://open.spotify.com/album/6x2IRGwgHbo7Tj2zNwCFsS) | 2:48 | 2021-12-01 | 2022-09-04 |
 | [Come What May](https://open.spotify.com/track/14y2v3YBpaAxsDpNqXAiVm) | [We Are Messengers](https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd) | [Wholehearted](https://open.spotify.com/album/6MCdxX1Ncd9P4V6za26n4J) | 3:21 | 2021-12-01 |  |
 | [Desesperado \- English](https://open.spotify.com/track/7wfeopS60KsVchzRItCwVj) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4) | [Desesperado \(English\)](https://open.spotify.com/album/0OioYnPykdyEy9XZWSRLo4) | 2:52 | 2021-12-01 |  |
 | [Destiny](https://open.spotify.com/track/7IsEmeIxbnqz1mExLs1fq5) | [Ty Brasel](https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p) | [Destiny: Vol\. 1](https://open.spotify.com/album/0njnGUwGmixvpHzL01vxxC) | 2:39 | 2021-12-01 |  |

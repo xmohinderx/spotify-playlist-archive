@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Los lanzamientos latinos más destacados\. En portada: Romeo Santos
 
-[Spotify](https://open.spotify.com/user/spotify) - 901,978 likes - 71 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 902,203 likes - 71 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 9 | [Killer Bombón](https://open.spotify.com/track/4z5qbMlx4iAexxMQ9FbSa1) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG) | [Killer Bombón](https://open.spotify.com/album/67n9KcQSGTqIJVkIL4ghe8) | 2:40 |
 | 10 | [Mi Salida Contigo](https://open.spotify.com/track/4DKExb9AdxfNGyYh8RE9SB) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8), [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Mi Salida Contigo](https://open.spotify.com/album/2ponivnQfYOHUw6aWv0cGm) | 2:55 |
 | 11 | [Colombia, Mi Encanto](https://open.spotify.com/track/2Q5q1q01KOdHt5fM00WUJ8) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Encanto \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR) | 2:55 |
-| 12 | [Rápida](https://open.spotify.com/track/5pT18RURgqt8faD9lvlNEY) | [Corina Smith](https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8), [KEVVO](https://open.spotify.com/artist/4QrBoWLm2WNlPdbFhmlaUZ) | [Rápida](https://open.spotify.com/album/3fzjwVxLeyfe0j2dVEFUos) | 3:18 |
+| 12 | [Rápida](https://open.spotify.com/track/5pT18RURgqt8faD9lvlNEY) | [Corina Smith](https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8), [KEVVO](https://open.spotify.com/artist/4QrBoWLm2WNlPdbFhmlaUZ) | [Rápida](https://open.spotify.com/album/3fzjwVxLeyfe0j2dVEFUos) | 3:11 |
 | 13 | [506](https://open.spotify.com/track/4scwMEdlKi8qWJzzyDB8Z3) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD), [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [506](https://open.spotify.com/album/38coX6excq4obQR4Z7sww7) | 3:00 |
 | 14 | [SIRI](https://open.spotify.com/track/1DztJabkXg3WRLy5Ul0Snh) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Chris Lebron](https://open.spotify.com/artist/3GPTvhZ8XfH7WkHXidvELk) | [SIRI](https://open.spotify.com/album/0iCPWCwbr1PIaz7ATYc4Jn) | 2:44 |
 | 15 | [Leyenda Viva](https://open.spotify.com/track/17IdNMZFAY4pAW0zRNgdIQ) | [Aczino](https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X), [Jay de la Cueva](https://open.spotify.com/artist/2PQW0MnXmZd19XKZQyoPgu) | [Leyenda Viva](https://open.spotify.com/album/6nAiD0UFkHJr2wWCm1k7bL) | 2:17 |
@@ -78,6 +78,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 68 | [Mãe](https://open.spotify.com/track/6fZBXVUnY3y21MV4yOlIbM) | [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU), [Wall Hein](https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB) | [Mãe](https://open.spotify.com/album/0AG8mcK6CmE5EPnZyyq7wy) | 2:26 |
 | 69 | [Apocalipse Só](https://open.spotify.com/track/3QLs0Z5L9aXhbXAXLn5RUB) | [Titãs](https://open.spotify.com/artist/2euX7vCVnJy3TVEGfc0RCl) | [Olho Furta\-Cor](https://open.spotify.com/album/29dpVqKyiV7IHzaBdU2ZhK) | 3:31 |
 | 70 | [Tarada \- Ao Vivo](https://open.spotify.com/track/3OstIIIpImkkR0Ec2TKbnz) | [Leo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR), [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Tarada \(Ao Vivo\)](https://open.spotify.com/album/0IjgU1hi6O1YcIMQcNX20l) | 3:19 |
-| 71 | [Fivela](https://open.spotify.com/track/6KUC0Tp3HhbUzxya6HgN0L) | [MC JottaPê](https://open.spotify.com/artist/5GqnSMX8p2hxqsM6LqDty3), [Melody](https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI) | [Cowboy do Mandelão](https://open.spotify.com/album/5L3BFkg9tDR8nCh6YMnQOF) | 1:59 |
+| 71 | [Fivela \(feat\. Flow Key, Bernax\)](https://open.spotify.com/track/6KUC0Tp3HhbUzxya6HgN0L) | [MC JottaPê](https://open.spotify.com/artist/5GqnSMX8p2hxqsM6LqDty3), [Melody](https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI), [DJ RD](https://open.spotify.com/artist/0tvACMjTDrW7HCo4F2wiIb), [Bernax](https://open.spotify.com/artist/71VXdKWeovwJtO5nzDQ7mt), [Flow Key](https://open.spotify.com/artist/1qObxOBQWYkdfJhMGdMwmU) | [Cowboy do Mandelão](https://open.spotify.com/album/5L3BFkg9tDR8nCh6YMnQOF) | 1:59 |
 
 Snapshot ID: `MTY2MjA5MTIwMCwwMDAwMDAwMDUzNjMxNzM0ZWJmMzhkNGUxZGZiYzgxYjhiNDZjZDIw`

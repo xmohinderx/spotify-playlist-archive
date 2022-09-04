@@ -299,7 +299,7 @@
       ],
       "date_added": "2022-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-20",
+      "date_removed": null,
       "duration_ms": 253586,
       "name": "505",
       "url": "https://open.spotify.com/track/58ge6dfP91o9oXMzq3XkIS"
@@ -809,7 +809,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-04",
       "duration_ms": 208000,
       "name": "Alerg \u00eentr-una",
       "url": "https://open.spotify.com/track/2zpalTjcoLJRodRLpptzP7"
@@ -935,7 +935,7 @@
       ],
       "date_added": "2021-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-12",
+      "date_removed": null,
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
@@ -1429,7 +1429,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-04",
       "duration_ms": 136875,
       "name": "Banii",
       "url": "https://open.spotify.com/track/7l1amnUcwOBdJQtLEmMKNi"
@@ -4099,7 +4099,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-04",
       "duration_ms": 158329,
       "name": "DMT",
       "url": "https://open.spotify.com/track/5RyD3GeqG1YfpQk194mB8C"
@@ -10515,7 +10515,7 @@
       ],
       "date_added": "2021-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-04",
       "duration_ms": 148800,
       "name": "Niciun Glon\u021b Nu Doare C\u00e2t Dragostea",
       "url": "https://open.spotify.com/track/4uW2VwxS4K9D22JLJd38ym"
@@ -10983,7 +10983,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-04",
       "duration_ms": 186000,
       "name": "Ora 6",
       "url": "https://open.spotify.com/track/2HtMuOtkOxibDrnRRGzpNS"
@@ -11231,7 +11231,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-01",
+      "date_removed": null,
       "duration_ms": 210811,
       "name": "Papusa Barbie",
       "url": "https://open.spotify.com/track/5hlKmxQyK8TXVsuUBY0ZLo"
@@ -11585,7 +11585,7 @@
       ],
       "date_added": "2022-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-28",
+      "date_removed": null,
       "duration_ms": 180063,
       "name": "Piramida",
       "url": "https://open.spotify.com/track/7FnJTkhJlH9DnRoa73SvNq"
@@ -13289,7 +13289,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-04",
       "duration_ms": 200727,
       "name": "Sensibil La Lumina",
       "url": "https://open.spotify.com/track/0HQrHYghOsf7UVcBdSFRa2"
@@ -13327,7 +13327,7 @@
           "url": "https://open.spotify.com/artist/46KQM3HJyONaKRTbcfNPlU"
         },
         {
-          "name": "wnjn",
+          "name": "bj wnjn",
           "url": "https://open.spotify.com/artist/4E4TZnDHlrhclSJgeund1d"
         },
         {
@@ -13659,7 +13659,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-03",
+      "date_removed": null,
       "duration_ms": 216000,
       "name": "Slayer 2",
       "url": "https://open.spotify.com/track/3fUQ92lbWyhEQZMZYK1Qss"
@@ -14573,6 +14573,24 @@
       "duration_ms": 339023,
       "name": "Take My Breath",
       "url": "https://open.spotify.com/track/2vgUijXOTRMnWXDtvgMp2b"
+    },
+    {
+      "album": {
+        "name": "Talk",
+        "url": "https://open.spotify.com/album/7dMwNA2bcmk60N4s27fk5e"
+      },
+      "artists": [
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        }
+      ],
+      "date_added": "2022-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174857,
+      "name": "Talk",
+      "url": "https://open.spotify.com/track/0ypjMI7vHiDP4sLB1C0Qna"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > 100 % ska latinoamericano\. La Maldita Vecindad en portada.
 
-253 songs - 15 hr 33 min - [published](https://open.spotify.com/playlist/7sowbFUvoZr7b5eIa5Z44L)
+254 songs - 15 hr 36 min - [published](https://open.spotify.com/playlist/7sowbFUvoZr7b5eIa5Z44L)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,7 @@
 | [El Esqueleto](https://open.spotify.com/track/0CucYEXuGngb0vfUMpOmID) | [Victimas Del Doctor Cerebro](https://open.spotify.com/artist/6Z112eJxKl1E3nAbYZBr7M) | [Lucha Rock](https://open.spotify.com/album/3qFQ5sXiOUEy0vVMj1LIii) | 3:43 | 2021-12-21 |  |
 | [El Matador](https://open.spotify.com/track/5a12LL01YPhltXHeuWjSnG) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [Los Fabulosos Cadillacs \- El Matador](https://open.spotify.com/album/6Cs28zIAqIa4ni3nlU73bu) | 4:37 | 2021-12-21 | 2022-07-29 |
 | [El Mono Relojero](https://open.spotify.com/track/2RpzktQlb1SZGJBdC6eNIC) | [Kapanga](https://open.spotify.com/artist/2MLiASzGQHVMyORIApRGsp) | [A 15 Cm De La Realidad](https://open.spotify.com/album/08Y1kgfEcH11p3hJopWslX) | 3:52 | 2021-12-21 | 2022-07-15 |
-| [El Peor Momento](https://open.spotify.com/track/4L43mWUckLLELjY01ULy0f) | [Los Victorios](https://open.spotify.com/artist/0lUm3jq72pD9UrZJN0h0aj) | [2](https://open.spotify.com/album/1ij4uqkqWe8zVHQH4bgHzp) | 3:10 | 2021-12-21 |  |
+| [El Peor Momento](https://open.spotify.com/track/4L43mWUckLLELjY01ULy0f) | [Los Victorios](https://open.spotify.com/artist/0lUm3jq72pD9UrZJN0h0aj) | [2](https://open.spotify.com/album/1ij4uqkqWe8zVHQH4bgHzp) | 3:10 | 2021-12-21 | 2022-09-04 |
 | [El Ska de Lolo Mario](https://open.spotify.com/track/3lMV5bSZOavnLlWXXNi8fx) | [La Floripondio](https://open.spotify.com/artist/73Vk4dL8kYkbRJxWJDq1wL) | [Dime Qué Pasa](https://open.spotify.com/album/4DifRQy4Dyey9NSS7ywnEx) | 2:13 | 2021-12-21 | 2022-07-26 |
 | [El Super Heroe](https://open.spotify.com/track/0LIvsHX7pShjl2fpHHSAL5) | [Cafe Con Tequila](https://open.spotify.com/artist/62aU5j4IyKvoyOw7Sh27ZZ) | [Cafe Con Tequila](https://open.spotify.com/album/1hPYk1JG3LK0Bv5k1xcnv7) | 3:57 | 2021-12-21 | 2022-04-19 |
 | [El Vals del Obrero](https://open.spotify.com/track/5JaVj5jhYQGYTo7C7nAf9p) | [Ska\-P](https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl) | [El Vals Del Obrero](https://open.spotify.com/album/3RDhOpQknjJcp0D9kZ7E6V) | 4:37 | 2021-12-21 |  |
@@ -249,6 +249,7 @@
 | [Tu Que Pediras](https://open.spotify.com/track/43rvPyr8S3YGjE61efRlrw) | [Maskatesta](https://open.spotify.com/artist/7IyBMp52r2T01C39t27vrE) | [The Maskatonians All Stars And Friends](https://open.spotify.com/album/369qblMdVKisn6er3exhcw) | 3:44 | 2021-12-21 |  |
 | [Tus Ojos](https://open.spotify.com/track/6yyrsrci6u2nreFlhXSy3J) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Suena la Alarma](https://open.spotify.com/album/3b6Shbr4R5szup0i6Yo6Dv) | 4:14 | 2021-12-21 |  |
 | [Un Niño Solo](https://open.spotify.com/track/6262h7kntg2FVQYUTfejhb) | [Los Pies Negros](https://open.spotify.com/artist/0WtbEWWoAzRJ2q3bU8bpeN) | [Un Niño Solo](https://open.spotify.com/album/6T7GSTv5SK09OHMtYkaiZF) | 2:45 | 2021-12-21 | 2022-02-25 |
+| [Una buena noche](https://open.spotify.com/track/4g2c6CYEWKLeGhwZPOkaj6) | [Staya Staya](https://open.spotify.com/artist/7mjXsxiQz6X6LS6SxGmCQf) | [Ya Suena](https://open.spotify.com/album/6kniUnB793nb2Fav2huCdm) | 2:57 | 2022-09-03 |  |
 | [Una Lagrima Por Ti 2005](https://open.spotify.com/track/2bYf9Popw7l8tdffqeFj4v) | [Jamaica 69](https://open.spotify.com/artist/5WR89QzeMWyvWN9l4thUHM) | [The Rough and Tough Anthology](https://open.spotify.com/album/0btV40JfMq3w7X1YY7Oqhu) | 3:23 | 2021-12-21 | 2022-07-29 |
 | [Vendedora de Caricias](https://open.spotify.com/track/4jikVslCvDrDysc3p4tFHM) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Panteón Rococó](https://open.spotify.com/album/1mTglsLyY3nJ3Qj7vPtbpg) | 3:45 | 2021-12-21 |  |
 | [Vicio](https://open.spotify.com/track/6g9hULFpG1pEyEH6HRMHaE) | [Sonora de Llegar](https://open.spotify.com/artist/6Zvh0z6M1QFVEvy1i8mTYV) | [Sonora de Llegar](https://open.spotify.com/album/1giTHiLOSaaB8TqchemtJf) | 2:46 | 2021-12-21 | 2022-07-19 |

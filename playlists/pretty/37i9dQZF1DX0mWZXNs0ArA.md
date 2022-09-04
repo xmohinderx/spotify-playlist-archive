@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mWZXNs0ArA.md) - [plain]
 
 > 125%
 
-[Spotify](https://open.spotify.com/user/spotify) - 334,270 likes - 59 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 339,244 likes - 59 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mWZXNs0ArA.md) - [plain]
 | 27 | [SWAMP SKONSTER](https://open.spotify.com/track/4c9UuO6PYqP6wMboWvbL5Z) | [Skest](https://open.spotify.com/artist/4ZVIkfQsJU3i77UTRyNf8q) | [SWAMP SKONSTER](https://open.spotify.com/album/1bEHp487UaR4ou9UoH0CCU) | 1:14 |
 | 28 | [Faster \(Sped Up\)](https://open.spotify.com/track/1tlPauwjMeBY5ZiQA5wLH3) | [A.Oonthebeat](https://open.spotify.com/artist/1wEqe2EwOgePW2eQb0Du2J), [Jupyter](https://open.spotify.com/artist/4J6FA22xD10UHtjrVHeWm9) | [Faster \(Sped Up\)](https://open.spotify.com/album/6MYpoQeEO6l8yxd15w6Rce) | 2:26 |
 | 29 | [\#BrooklynBloodPop!](https://open.spotify.com/track/7K9Z3yFNNLv5kwTjQYGjnu) | [SyKo](https://open.spotify.com/artist/08ZqXO40nMrhBoGma4kls2) | [\#BrooklynBloodPop!](https://open.spotify.com/album/68i0gDIA5T5YVUIxj9QdsU) | 2:25 |
-| 30 | [why so serious?](https://open.spotify.com/track/3CcNuI3JbOw5n5Evl5Qjx6) | [ExotiiC\-](https://open.spotify.com/artist/3t98cVjC4AW3IPjCNsc3em) | [why so serious?](https://open.spotify.com/album/0owMsQYWHryve339icpxYv) | 1:35 |
+| 30 | [why so srs?](https://open.spotify.com/track/0rifR43CptApOWLL8kMkcg) | [outer streets](https://open.spotify.com/artist/07Kya5CjMDo2yVV8YFJg9T) | [why so srs?](https://open.spotify.com/album/2cWHWaopqauQCtQYVnN9wC) | 1:35 |
 | 31 | [Stolen Dance \- Speed Version](https://open.spotify.com/track/58UDGnjRXZhHeeNxZYI6c5) | [Sped\-O](https://open.spotify.com/artist/41Bwy7d6vdqhuKe0Rw5wes) | [Stolen Dance \(Speed Version\)](https://open.spotify.com/album/5BlFBLahe9vzioXLZ9KY9F) | 4:15 |
 | 32 | [Taste \- Speed](https://open.spotify.com/track/2O0v7fVGXrAsmx5NokutyI) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [Taste \(Speed\)](https://open.spotify.com/album/4i73SJUP6mIDSLS8t8b0UW) | 2:29 |
 | 33 | [SNAP \- High and Fast](https://open.spotify.com/track/3TWHd23YOrfxx3yDYCE1WC) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP PACK](https://open.spotify.com/album/2nzuzJvr3yowqbPaYjEYof) | 2:15 |
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mWZXNs0ArA.md) - [plain]
 | 58 | [home](https://open.spotify.com/track/0fAuuR5hoWZtTMpuqqxAGy) | [Two Shell](https://open.spotify.com/artist/4mcHKwboFDmpDBQ4fiOrf3) | [home](https://open.spotify.com/album/1mjbcrgdY8PNeFDGBLsa55) | 4:05 |
 | 59 | [zombie \(hyper\)](https://open.spotify.com/track/4YKfwSVcrK85r3TaUeUHGd) | [Ka$tro](https://open.spotify.com/artist/22AaKQKPmQXX1xFhc825rJ), [Keepitinside](https://open.spotify.com/artist/78cc6k0CLZpWYSO4x5xnro) | [reaper / zombie \(remixes\)](https://open.spotify.com/album/6rIGvpDxSbZABArWo8hwko) | 2:16 |
 
-Snapshot ID: `MTY2MTM0NjEwNywwMDAwMDAwMDc5OTMzZTM2N2ZmYTc0ZGZjYWM5YjU0OTU0YzEyODhj`
+Snapshot ID: `MTY2MTM0NjEwNywwMDAwMDAwMDQ4ZTlkNjdhMGI0MjYwZjY3NDhmZWQyNTkyYTc5NzE0`

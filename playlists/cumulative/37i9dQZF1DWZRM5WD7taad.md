@@ -4,7 +4,7 @@
 
 > Mujeres raperas rompiéndola en toda Latinoamérica\. Foto: Young Miko
 
-115 songs - 6 hr 6 min - [published](https://open.spotify.com/playlist/2hnS6DBtl4dJIs7m2oahBW)
+116 songs - 6 hr 10 min - [published](https://open.spotify.com/playlist/2hnS6DBtl4dJIs7m2oahBW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [La Mexicana](https://open.spotify.com/track/24VM2sOz0yCR2feDyTehmA) | [Hispana](https://open.spotify.com/artist/7rTmbfDJtDCjoy8XK5Dsj5) | [Los González](https://open.spotify.com/album/0sGiueQWjYKzacveBnbY5h) | 4:06 | 2021-12-13 |  |
 | [La Rosa De Los Vientos](https://open.spotify.com/track/3ItEUMz1CKL5CJxmnBAADO) | [Makiza](https://open.spotify.com/artist/3XaUjViDzB8N9bPqPeoWk5) | [Aerolineas Makiza](https://open.spotify.com/album/7MJTCxyETh3TbASUm8QGJQ) | 5:09 | 2021-12-13 |  |
 | [Las Hijas Del Rap](https://open.spotify.com/track/0ZqIeOJEc6GGFI0remPX2Z) | [Hispana](https://open.spotify.com/artist/7rTmbfDJtDCjoy8XK5Dsj5), [Flor De Rap](https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7) | [Las Hijas Del Rap](https://open.spotify.com/album/2yzvkD2AxrxFQDWDy19by8) | 3:00 | 2021-12-13 |  |
+| [Latina P.I.M.P](https://open.spotify.com/track/08FlJMt7zz3rwJzXTCuKqU) | [La Sinclair](https://open.spotify.com/artist/5kkRe5KI7U7AvJ3PgLMwB9) | [Latina P.I.M.P](https://open.spotify.com/album/1xibpvj8AmWtCR4JpyH33D) | 3:29 | 2022-09-03 |  |
 | [Lick](https://open.spotify.com/track/1l9gwjr7SRHepNFio6MxLb) | [Akasha](https://open.spotify.com/artist/45dFGC8WhidxNiuhMbTIvo) | [Lick](https://open.spotify.com/album/3zb6F6ieaqd0qqCbiJVUnH) | 2:16 | 2021-12-13 |  |
 | [Madre Mía](https://open.spotify.com/track/1V822HJJSnH20A5mxxXpQX) | [Beelial](https://open.spotify.com/artist/04iTZQYr3kP61HCOBZPz7k) | [Madre Mía](https://open.spotify.com/album/35Xa7O65iOCPZcXqKjApKh) | 3:10 | 2021-12-13 | 2022-07-29 |
 | [Madre Mía](https://open.spotify.com/track/4wREpwAeOahQ37NBO47QqT) | [Beelial](https://open.spotify.com/artist/04iTZQYr3kP61HCOBZPz7k) | [Madre Mía](https://open.spotify.com/album/6mWj8CTUKbpTqYHmJShw7j) | 3:10 | 2022-06-27 |  |

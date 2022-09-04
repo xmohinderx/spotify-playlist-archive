@@ -683,7 +683,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-04",
       "duration_ms": 356750,
       "name": "Cherry-Cola Abyss",
       "url": "https://open.spotify.com/track/3agVTNFmPXfrqQXnxoMyeM"
@@ -2113,7 +2113,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-04",
       "duration_ms": 288575,
       "name": "Love Comes In Waves",
       "url": "https://open.spotify.com/track/2boEyOYahQ5kYuAQnr05B9"
@@ -2495,6 +2495,24 @@
       "duration_ms": 160415,
       "name": "Perfect",
       "url": "https://open.spotify.com/track/1y8Ib4LBzhmXNCKhy9BZpL"
+    },
+    {
+      "album": {
+        "name": "Perfect Life",
+        "url": "https://open.spotify.com/album/5ha6ZFEWo7f0rFy4ZZ0sgA"
+      },
+      "artists": [
+        {
+          "name": "Landlords",
+          "url": "https://open.spotify.com/artist/7xs6j5uzsajhXZE4A0a5oH"
+        }
+      ],
+      "date_added": "2022-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248293,
+      "name": "Perfect Life",
+      "url": "https://open.spotify.com/track/3IrAxNUFFTCMOjjAIcUai7"
     },
     {
       "album": {
@@ -3035,6 +3053,24 @@
       "duration_ms": 238697,
       "name": "Suficiente",
       "url": "https://open.spotify.com/track/6Gzt3wNcTpZMV9wA97IvdB"
+    },
+    {
+      "album": {
+        "name": "Surprise",
+        "url": "https://open.spotify.com/album/3NEmbK6tB99MY5Xbl9KaQS"
+      },
+      "artists": [
+        {
+          "name": "Laveda",
+          "url": "https://open.spotify.com/artist/4k9HOB4zrVAEasP7nm31F7"
+        }
+      ],
+      "date_added": "2022-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211707,
+      "name": "Surprise",
+      "url": "https://open.spotify.com/track/6kLVZ6ck4U6AljgTMUYhEe"
     },
     {
       "album": {

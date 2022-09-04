@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > Discover something new from local independent artists on the rise\. Cover: Elizabeth M Drummond Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,359 likes - 114 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,365 likes - 114 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKpvyAAcaNZ.md) - [plain]
 
 > It's edgy, innovative, and rooted in soul, folk, Americana, and of course, the blues\. Cover: Ben Harper
 
-[Spotify](https://open.spotify.com/user/spotify) - 577,316 likes - 150 songs - 9 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 576,327 likes - 150 songs - 9 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKpvyAAcaNZ.md) - [plain]
 | 71 | [South Gotta Change](https://open.spotify.com/track/4hDxqXmufOdDFlqnUqcamD) | [Adia Victoria](https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl) | [South Gotta Change](https://open.spotify.com/album/2fqnpucDvUPFqFTTn3MTiQ) | 3:45 |
 | 72 | [No Good](https://open.spotify.com/track/5Xx8krVxg1pRy6CXieB7FS) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc), [Vinyl on HBO](https://open.spotify.com/artist/52yUzlU6QBN8NxqTXOWCnW) | [No Good](https://open.spotify.com/album/4ZBpf04mlizWkXuh9X4e02) | 3:54 |
 | 73 | [Off The Ground](https://open.spotify.com/track/3xRzUblYGZhVs52fMjii7R) | [The Record Company](https://open.spotify.com/artist/6vYg01ZFt1nREsUDMDPUYX) | [Give It Back To You](https://open.spotify.com/album/2Rqva9thIdrhXv0VKSvgt3) | 4:13 |
-| 74 | [Howlin' Back Again](https://open.spotify.com/track/0VjnoDDlSpYjue7QBdY1WA) | [Crown Lands](https://open.spotify.com/artist/0MnazDWzh4tAnT5y4vWZFr) | [New Blues Roots](https://open.spotify.com/album/691cfDyQ3ZKuAZVFZMfiZR) | 2:49 |
+| 74 | [Howlin' Back Again](https://open.spotify.com/track/71Ht9TvlvJMPJc9taJhPQh) | [Crown Lands](https://open.spotify.com/artist/0MnazDWzh4tAnT5y4vWZFr) | [Wayward Flyers Vol.I](https://open.spotify.com/album/6sTFSVLleUdW3dECzSKU9l) | 2:49 |
 | 75 | [White House Road \(OurVinyl Sessions\)](https://open.spotify.com/track/3BCsNM2w6HcCbrVWlhjTpk) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV), [OurVinyl](https://open.spotify.com/artist/4MhBe0d439ToDXCWlT3wae) | [Tyler Childers \| OurVinyl Sessions](https://open.spotify.com/album/42nsomRaEURVkNt7IF1IFu) | 4:28 |
 | 76 | [Uh Huh](https://open.spotify.com/track/3ZAJJoHHCVGLIoScl26Hf4) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Jade Bird](https://open.spotify.com/album/34RIeuzZA8ySXCbsEd62jG) | 2:22 |
 | 77 | [Indestructible](https://open.spotify.com/track/0uxAAkgJwHFyGvoRbuCXLm) | [Welshly Arms](https://open.spotify.com/artist/1xKrH6GSh9CJh8nYwbqW7B) | [No Place Is Home](https://open.spotify.com/album/4UXg0K9s6iGFntzsrYDdWF) | 3:46 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKpvyAAcaNZ.md) - [plain]
 | 149 | [So Long Gone](https://open.spotify.com/track/5T9PcJQ7S24pnvtrIVSSmq) | [Pete Molinari](https://open.spotify.com/artist/4BrRTXokeSeCxUuJcZYq57), [Dan Auerbach](https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC) | [Theosophy](https://open.spotify.com/album/1Uiz1myYQrTrmUrwZDQAhs) | 3:32 |
 | 150 | [18 Counties](https://open.spotify.com/track/664KAVcBrTyYzF8IosgDlh) | [Moreland & Arbuckle](https://open.spotify.com/artist/7FNOdfxOvdi8xnpVJ8Wp5R) | [Flood](https://open.spotify.com/album/4ARJnUBRQn9Ld3HhFzlfAU) | 3:59 |
 
-Snapshot ID: `MTY2MTQ4NjQwMCwwMDAwMDAwMDhjOTBkMjAwODNlMWZkZTgyZTA3Njc1OTI2ZTRkNzlk`
+Snapshot ID: `MTY2MTQ4NjQwMCwwMDAwMDAwMGYxNmFjZDc5ZGRmODAzYjVlZmRlY2VmNmY3NDJhMGYz`

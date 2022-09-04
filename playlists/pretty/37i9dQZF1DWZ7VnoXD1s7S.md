@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7VnoXD1s7S.md) - [plain]
 
 > no\-clip out of <a href="https://en.wikipedia.org/wiki/The\_Backrooms">reality</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,947 likes - 60 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,617 likes - 60 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Six Forty Seven](https://open.spotify.com/track/2WuK1opHQzRo18YXCtY2DF) | [Instupendo](https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC) | [Six Forty Seven](https://open.spotify.com/album/0FawTVuFbmS9KLWA8TAtau) | 1:59 |
-| 2 | [Dust Collector](https://open.spotify.com/track/3UNV3RoBorI6KvYS4B5D8l) | [YG Hypnos](https://open.spotify.com/artist/5WpYloOgi13TDNqlZLZ8sn) | [Analog Noise](https://open.spotify.com/album/2gkzN2Nmz38VK6piTyaA8e) | 2:48 |
+| 2 | [you not the same](https://open.spotify.com/track/4txrAyGAWA9JqZzoNHiPRh) | [TileKid](https://open.spotify.com/artist/7HaSqpaqnOWSaqvezpdhX4) | [you not the same](https://open.spotify.com/album/2oWrvVt4fIMO5DEHXSUrhS) | 2:08 |
 | 3 | [I'll Never Smile Again](https://open.spotify.com/track/2Pi0rY9FcbaecqO0AyhXbu) | [Tommy Dorsey](https://open.spotify.com/artist/4WoGga7UeRcmjD4ufif4nG), [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [The Pied Pipers](https://open.spotify.com/artist/5o8E07TcYqIefZpDejymAd) | [The Seventeen Number Ones](https://open.spotify.com/album/1HgqHVY48hdhuiacZky4nV) | 3:09 |
 | 4 | [Infinite Cloud \(Interlude\)](https://open.spotify.com/track/6HiDjXA9BAlL5GeEDODUG0) | [Cian Sheehan](https://open.spotify.com/artist/4mgQWapgauZsgy2A3TkChi) | [Volumes](https://open.spotify.com/album/78Zu1m3LgUvvlwTMl3Mr9h) | 1:47 |
-| 5 | [Beware The Friendly Stranger](https://open.spotify.com/track/3KflFtXKKX61Ljf3TQqXln) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Geogaddi](https://open.spotify.com/album/7Lou3RDk6NswmbzBMhro24) | 0:37 |
-| 6 | [Deep Swim](https://open.spotify.com/track/4dphZi2G4KizVeWWbPMzHZ) | [Windows 96](https://open.spotify.com/artist/65XcfOOaVxbZnNlz40DK7i) | [Enchanted Instrumentals and Whispers](https://open.spotify.com/album/4JLZmlctwzJ6wnrkc3pu7N) | 4:16 |
-| 7 | [Oh Klahoma](https://open.spotify.com/track/6SZwj6cjc8JQbkrr8cbIUn) | [Jack Stauber](https://open.spotify.com/artist/1vVHevk2PD45epYnDi9CCc) | [Pop Food](https://open.spotify.com/album/1RHa1VdX6lsLbeedgsV1cb) | 3:05 |
-| 8 | [you not the same](https://open.spotify.com/track/4txrAyGAWA9JqZzoNHiPRh) | [TileKid](https://open.spotify.com/artist/7HaSqpaqnOWSaqvezpdhX4) | [you not the same](https://open.spotify.com/album/2oWrvVt4fIMO5DEHXSUrhS) | 2:08 |
+| 5 | [Dust Collector](https://open.spotify.com/track/3UNV3RoBorI6KvYS4B5D8l) | [YG Hypnos](https://open.spotify.com/artist/5WpYloOgi13TDNqlZLZ8sn) | [Analog Noise](https://open.spotify.com/album/2gkzN2Nmz38VK6piTyaA8e) | 2:48 |
+| 6 | [Beware The Friendly Stranger](https://open.spotify.com/track/3KflFtXKKX61Ljf3TQqXln) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Geogaddi](https://open.spotify.com/album/7Lou3RDk6NswmbzBMhro24) | 0:37 |
+| 7 | [Deep Swim](https://open.spotify.com/track/4dphZi2G4KizVeWWbPMzHZ) | [Windows 96](https://open.spotify.com/artist/65XcfOOaVxbZnNlz40DK7i) | [Enchanted Instrumentals and Whispers](https://open.spotify.com/album/4JLZmlctwzJ6wnrkc3pu7N) | 4:16 |
+| 8 | [Oh Klahoma](https://open.spotify.com/track/6SZwj6cjc8JQbkrr8cbIUn) | [Jack Stauber](https://open.spotify.com/artist/1vVHevk2PD45epYnDi9CCc) | [Pop Food](https://open.spotify.com/album/1RHa1VdX6lsLbeedgsV1cb) | 3:05 |
 | 9 | [Fallen Down \(Reprise\)](https://open.spotify.com/track/23b9BdZ2WZnDSeDzNUTVvZ) | [Toby Fox](https://open.spotify.com/artist/57DlMWmbVIf2ssJ8QBpBau) | [UNDERTALE Soundtrack](https://open.spotify.com/album/2M2Ae2SvZe3fmzUtlVOV5Z) | 2:30 |
 | 10 | [Hidden In the Sand](https://open.spotify.com/track/0RjG5JmdOWXAR68dGlKBA5) | [Tally Hall](https://open.spotify.com/artist/7lqaPghwYv2mE9baz5XQmL) | [Marvin's Marvelous Mechanical Museum](https://open.spotify.com/album/2TN3NIEBmAOGWmvP96DFs5) | 1:52 |
 | 11 | [Introduction to the Snow](https://open.spotify.com/track/7qLs0IyUn6TrqgMzQ33SdH) | [Miracle Musical](https://open.spotify.com/artist/2FRXiAz5Uz78LLLSwEUhLt) | [Hawaii: Part II](https://open.spotify.com/album/1CbtBQqibzdxhmpiLD7vzN) | 1:41 |
@@ -29,9 +29,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7VnoXD1s7S.md) - [plain]
 | 19 | [White Noiz](https://open.spotify.com/track/3JjXYP1XVbcrFYwgbFsPCZ) | [Akira Yamaoka](https://open.spotify.com/artist/6f7UIM59MQy6y0bJmQcRNe) | [SILENT HILL2 \(Original Soundtrack\)](https://open.spotify.com/album/5XjZ6xhbPbALPVGd5Zx0Cw) | 1:23 |
 | 20 | [void\_\_19\#\#\#\-A](https://open.spotify.com/track/1suY5lVFFjVvkeMkrzyHf9) | [No Love In The House Of Gold](https://open.spotify.com/artist/5gqzWJS2sbYm3zoKFsC38L) | [void\_\_19\#\#\#](https://open.spotify.com/album/7qS36GXzqhI8GXg6TN8SFZ) | 1:22 |
 | 21 | [Outro](https://open.spotify.com/track/21NW7Xx9N01FEqcKZzcmCT) | [Henry Nowhere](https://open.spotify.com/artist/4aftr1UuSVHhP5ISxMoObq) | [Henry Nowhere](https://open.spotify.com/album/5ayz7Qdd4R5OASJ7NE0doo) | 1:02 |
-| 22 | [Let Go](https://open.spotify.com/track/3kdlVcMVsSkbsUy8eQcBjI) | [Ark Patrol](https://open.spotify.com/artist/3zaxUd86U92CdZkNa6NUo9), [Veronika Redd](https://open.spotify.com/artist/6kuFWCCvd7bWB1PV0tJMN2) | [Let Go](https://open.spotify.com/album/1MGkdnByMIGI1ZXcAf4Wze) | 4:08 |
-| 23 | [nevermind, everything's ok](https://open.spotify.com/track/6ALOEBRrJZZ1lpAHbr1VOA) | [dreamcorp.](https://open.spotify.com/artist/0UIto5RF21KnI9X46G0Lau) | [dreams](https://open.spotify.com/album/0iOX2i9TIzAfZZHjF1x1Cm) | 3:18 |
-| 24 | [Great Mother In The Sky](https://open.spotify.com/track/0J69dD3yE5vo51vW8DRokI) | [Lionmilk](https://open.spotify.com/artist/0ssDUMMQsAhDLqKwBqEnGZ) | [I Hope You Are Well](https://open.spotify.com/album/07bQPrG1jSRCkd9SvBXsy4) | 5:57 |
+| 22 | [nevermind, everything's ok](https://open.spotify.com/track/6ALOEBRrJZZ1lpAHbr1VOA) | [dreamcorp.](https://open.spotify.com/artist/0UIto5RF21KnI9X46G0Lau) | [dreams](https://open.spotify.com/album/0iOX2i9TIzAfZZHjF1x1Cm) | 3:18 |
+| 23 | [Great Mother In The Sky](https://open.spotify.com/track/0J69dD3yE5vo51vW8DRokI) | [Lionmilk](https://open.spotify.com/artist/0ssDUMMQsAhDLqKwBqEnGZ) | [I Hope You Are Well](https://open.spotify.com/album/07bQPrG1jSRCkd9SvBXsy4) | 5:57 |
+| 24 | [Let Go](https://open.spotify.com/track/3kdlVcMVsSkbsUy8eQcBjI) | [Ark Patrol](https://open.spotify.com/artist/3zaxUd86U92CdZkNa6NUo9), [Veronika Redd](https://open.spotify.com/artist/6kuFWCCvd7bWB1PV0tJMN2) | [Let Go](https://open.spotify.com/album/1MGkdnByMIGI1ZXcAf4Wze) | 4:08 |
 | 25 | [Comfort Chain](https://open.spotify.com/track/5BAXlRDW3YaPr3rfqV51TA) | [Instupendo](https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC) | [Comfort Chain](https://open.spotify.com/album/7wkMsvkTZ6pq5GgSqDu9jK) | 3:04 |
 | 26 | [恢复](https://open.spotify.com/track/2dFUtZtpWydAU4QMmUOK47) | [２８１４](https://open.spotify.com/artist/2wBpW4bAGYVe0yJcBeCTyd) | [新しい日の誕生](https://open.spotify.com/album/01m2bictEiKiVzFjk0h28N) | 5:51 |
 | 27 | [Heartaches](https://open.spotify.com/track/6WPWEHhr1tdX2ZUAWBmksK) | [Al Bowlly](https://open.spotify.com/artist/6l3iPTof4l2D75Wawq9w7R), [Sid Phillips & His Melodians](https://open.spotify.com/artist/7nfhR4TR6hs89DEuGOv0y5) | [The Al Bowlly Collection 1927\-40, Vol\. 1](https://open.spotify.com/album/0q3hlkQANkjMg4SpmxD6kE) | 3:29 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7VnoXD1s7S.md) - [plain]
 | 59 | [Hopeful](https://open.spotify.com/track/0HiSCxeV3OvwcwC7b1nqDQ) | [Matt Christensen](https://open.spotify.com/artist/0XhPqflyANK20YPHgW4hOC), [John Reeves](https://open.spotify.com/artist/2IhchxtNAxUhFWEY5JxY8C) | [Superliminal \(Original Game Soundtrack\)](https://open.spotify.com/album/4PK7GiRv8Vpq0xtuyB0g0r) | 7:03 |
 | 60 | [Reflections](https://open.spotify.com/track/5Zf25eS8E1znm9mez4cGsm) | [Toshifumi Hinata](https://open.spotify.com/artist/08tfDO4dSrwxax35a3HIMC) | [ひとつぶの海](https://open.spotify.com/album/0k4j3uetJHFATIt4VxwCPz) | 2:10 |
 
-Snapshot ID: `MTY2MTg5NDEzNSwwMDAwMDAwMGE2Y2JlOGIwZmE2ZDY4MTA3YWM5YTM3MjZmYmQ2YWEx`
+Snapshot ID: `MTY2MjIyMDIxMywwMDAwMDAwMDY1N2MyMGYxNTkzZDFkOTQxZDg2N2I2NTRlNWEwMDg0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1RLff7HxDm.md) - [plain]
 
 > All live, all blues\. Cover: Joe Bonamassa
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,068 likes - 60 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,019 likes - 60 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

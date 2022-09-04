@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT4nLmUaFDGb.md) - [plain]
 
 > The easy listening sound of jazz\. Cover: Norah Jones
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,187 likes - 125 songs - 8 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,513 likes - 125 songs - 8 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

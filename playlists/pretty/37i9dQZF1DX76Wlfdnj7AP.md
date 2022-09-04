@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX76Wlfdnj7AP.md) - [plain]
 
 > Get your beast mode on!
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,211,279 likes - 200 songs - 10 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,209,819 likes - 200 songs - 10 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

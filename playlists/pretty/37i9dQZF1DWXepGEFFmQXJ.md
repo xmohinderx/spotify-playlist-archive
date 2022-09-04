@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 
 > The cream of today's Country crop\. Cover: Zac & George
 
-[Spotify](https://open.spotify.com/user/spotify) - 304,127 likes - 86 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 304,273 likes - 86 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 | 20 | [I Got You](https://open.spotify.com/track/7B7NXVMNyIel9Lux4uhVe2) | [McAlister Kemp](https://open.spotify.com/artist/3kYvlV6E961RxSCtavDXe6) | [We Roll On](https://open.spotify.com/album/0eAvk2L6IzDtdQMTJcveuA) | 3:51 |
 | 21 | [Changing Tunes](https://open.spotify.com/track/3YtsnLnLa42IZYXb2r1mCc) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Changing Tunes](https://open.spotify.com/album/7FxR6plvB489tqhcyRIS2a) | 3:10 |
 | 22 | [Good Enough](https://open.spotify.com/track/4Wg8wu154gsVjKVa6JoOCe) | [Sara Berki](https://open.spotify.com/artist/21L6MUgqitOTfF9t1PcNXd) | [Good Enough](https://open.spotify.com/album/43NoHT80dHB7tWnhjdHtnJ) | 3:42 |
-| 23 | [Summer Rain](https://open.spotify.com/track/7AS0u8nC57oTNALtjslOIv) | [Ghost Riders](https://open.spotify.com/artist/5JvEKy384cTkxVHDESnlEG) | [Summer Rain](https://open.spotify.com/album/7n5QThNlUNiJ36AmEYFdPI) | 2:21 |
+| 23 | [Summer Rain](https://open.spotify.com/track/47lk3vZPjzsmKUsMCR89vz) | [Ghost Riders](https://open.spotify.com/artist/5JvEKy384cTkxVHDESnlEG), [Cam Noble](https://open.spotify.com/artist/0K2qWy2QmgaBlExB67u6oV) | [Summer Rain](https://open.spotify.com/album/50P7qe9VNgSoooPKOKN5QH) | 2:21 |
 | 24 | [What My World Spins Around](https://open.spotify.com/track/6HBRLaSQ7NB8MNlaqzYen1) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [What My World Spins Around](https://open.spotify.com/album/4oTrQ9TmOapgT6uI8W6wsS) | 3:06 |
 | 25 | [Slow Down Girl](https://open.spotify.com/track/1vY84RjMLrximsaUSuUVgJ) | [Abby Christo](https://open.spotify.com/artist/0aE69mf1NjsaqZzXsoo4qH) | [Slow Down Girl](https://open.spotify.com/album/0h0scsiujwR3ZDmdaE6ia8) | 3:06 |
 | 26 | [COUNTRY BOYS](https://open.spotify.com/track/26uOkeku8fbG2arUOGQi6H) | [James Johnston](https://open.spotify.com/artist/69HMYPrcstafeCTHI3Dcp1) | [COUNTRY BOYS](https://open.spotify.com/album/0uv3K6d43lJfJ5rShBv9C3) | 3:14 |
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 | 85 | [Fire Up The Night \(feat\. HARDY\)](https://open.spotify.com/track/5dHF4UXvJ70xefCqD2Wj9N) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [Body Language \(Deluxe\)](https://open.spotify.com/album/6ObNVnYp53VJNtIcdo03WJ) | 3:12 |
 | 86 | ['Til You Can't](https://open.spotify.com/track/4k3lPl8YTKuY8c1HelVnm3) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Human The Double Album](https://open.spotify.com/album/3og8X1LYiVq3nPdMxpM9Wb) | 3:44 |
 
-Snapshot ID: `MTY2MjA0MDgwMCwwMDAwMDAwMGM2Njk4NDYwMjY1OWM5ZmQ4MjM2MWNkZTE3ZmIyYmI3`
+Snapshot ID: `MTY2MjA0MDgwMCwwMDAwMDAwMGRjNGFiMzU2NjI5NWUyOGU0MDExNjQzMzBlZDZkMzZl`

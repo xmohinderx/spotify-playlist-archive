@@ -4,7 +4,7 @@
 
 > Celebrating South Asian Heritage Month with Raja Kumari.
 
-125 songs - 6 hr 35 min - [published](https://open.spotify.com/playlist/4KvGVxCqKJ3562UipuWVPS)
+126 songs - 6 hr 38 min - [published](https://open.spotify.com/playlist/4KvGVxCqKJ3562UipuWVPS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,8 @@
 | [Name on it](https://open.spotify.com/track/6lBTpWSk7BnMhxY9JEBrw4) | [Mickey Singh](https://open.spotify.com/artist/3KDhyMTFZlrfAO0zK18z4t) | [Name on it](https://open.spotify.com/album/7flKRtYhgE5NvFE6ylazVf) | 3:25 | 2021-11-11 | 2022-07-19 |
 | [Need Me](https://open.spotify.com/track/2UVAzRUlxxBA1N0AekKMJN) | [UpsideDown](https://open.spotify.com/artist/0Vjwka9dESqFMtbXD1phDu), [Rhea Raj](https://open.spotify.com/artist/7inC0Ybb6OGEMB7GP8nfi1), [Happy Singh](https://open.spotify.com/artist/6fvSUKNxAmvtRJUjscMWeA) | [Need Me](https://open.spotify.com/album/5LkJZsmqcxX2fv9Xde6xv5) | 2:22 | 2021-11-11 | 2022-07-19 |
 | [Never Thought](https://open.spotify.com/track/6oVu7g0flDkXNTiYJXFD3B) | [Raxstar](https://open.spotify.com/artist/1Y1yhpLR7nThkjyf2TeQCt), [Arjun](https://open.spotify.com/artist/5tvfyAT4aOIOkumo6vw1yL), [Ahmed Khan](https://open.spotify.com/artist/6S5gjIbHTmQ2uKljKjqLSp) | [Never Thought](https://open.spotify.com/album/5W0uE5Pk7nFGRivdYzBEY6) | 3:41 | 2021-11-11 | 2022-07-19 |
-| [NO LOVE](https://open.spotify.com/track/5B4YQN1FCuADJ0o4phAtwC) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [NO LOVE](https://open.spotify.com/album/71z4Ni4FHsAUWpcy1oFmOT) | 2:50 | 2022-07-18 |  |
+| [NO LOVE](https://open.spotify.com/track/08Isz2ETWSBhvIl8UpKYsp) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [No Love](https://open.spotify.com/album/5Zcgog7sQ79ISF32y9nABU) | 2:50 | 2022-09-02 |  |
+| [NO LOVE](https://open.spotify.com/track/5B4YQN1FCuADJ0o4phAtwC) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [NO LOVE](https://open.spotify.com/album/71z4Ni4FHsAUWpcy1oFmOT) | 2:50 | 2022-07-18 | 2022-09-04 |
 | [Oehnana ft\. TM Bax](https://open.spotify.com/track/5lUWDZXEFuQ6MjUYKx5guu) | [F1rstman](https://open.spotify.com/artist/0IA4SdCS8HBDX6oBoOlgaf), [TM Bax](https://open.spotify.com/artist/0RN2n6EdV90CQmfhfxqv0f) | [The Blend](https://open.spotify.com/album/6C6VvGruQ0ezA6QewMUGPj) | 3:06 | 2022-02-25 | 2022-07-19 |
 | [ON](https://open.spotify.com/track/5aX3nsMieI6ELp3qfFihr9) | [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25), [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t) | [HBIC](https://open.spotify.com/album/6mRkk5VyWx27K4vZjD6sqM) | 2:36 | 2022-07-18 |  |
 | [Out of Love](https://open.spotify.com/track/6x4fJlgsoGqklYyMQN7vLN) | [Raashi Sood](https://open.spotify.com/artist/0ZEiDnkNsdY6IXWUjWuBU2), [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25) | [Out of Love](https://open.spotify.com/album/1bv1UnuDeOnL6odVRPJksM) | 3:17 | 2022-07-18 |  |

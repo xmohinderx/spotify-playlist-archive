@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 
 > Make room for these R&B/Soul artists on the rise! Photo: Reggie Becton
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,041 likes - 80 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,064 likes - 80 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 | 31 | [Rollin](https://open.spotify.com/track/6dGxIEg9Cw0F8ayAarlX43) | [Jayd Ink](https://open.spotify.com/artist/6TfJcKCr5hFsYZkq2k1Pac) | [Catching Red Lights \(EP\)](https://open.spotify.com/album/3GBJK7iG5XoASRgXnPIe3k) | 2:30 |
 | 32 | [Shameless](https://open.spotify.com/track/2MJlhN2OockKCadeGS4AEP) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Shameless](https://open.spotify.com/album/1cHm86on0UXY0KepCk1xui) | 2:55 |
 | 33 | [Made For 2](https://open.spotify.com/track/0mxezMhQVXJuzdVbVvL6wb) | [Vedo](https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL), [OG Parker](https://open.spotify.com/artist/5hhgghBFkLDdMn93GW4x3I) | [While You Wait](https://open.spotify.com/album/3L0ST7zHUCBnqXGNQmy2TL) | 3:29 |
-| 34 | [Love, Today](https://open.spotify.com/track/1LoCwW6zCCmuLxDU8p06Q8) | [Preyé](https://open.spotify.com/artist/6dbTmlL5brq9B2fkUj2MQD), [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Ladipo Eso](https://open.spotify.com/artist/6SL7pR1T6IQZVxxrovKRut) | [Don't Look Down!](https://open.spotify.com/album/6DEAfTTihu0p1nNkti8Bn0) | 3:26 |
+| 34 | [Love, Today](https://open.spotify.com/track/1LoCwW6zCCmuLxDU8p06Q8) | [Preyé](https://open.spotify.com/artist/6dbTmlL5brq9B2fkUj2MQD), [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu) | [Don't Look Down!](https://open.spotify.com/album/6DEAfTTihu0p1nNkti8Bn0) | 3:26 |
 | 35 | [emotional](https://open.spotify.com/track/1BMffJnuEsz31KwwSyjbQv) | [Zilo](https://open.spotify.com/artist/3fcW2V4zOfFm0IsWCJUuzz) | [KINDA HAPPY, KINDA SAD](https://open.spotify.com/album/3nOrmM1aN9RBB9vpwoSEzl) | 3:50 |
 | 36 | [O.M.L\. \(feat\. DESTIN CONRAD\)](https://open.spotify.com/track/6ntO3pnXicVNsAhW67BW0S) | [Mack Keane](https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO), [ESTA.](https://open.spotify.com/artist/4KZmpaIhanIo46eaQimtgO), [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [O.M.L\. \(feat\. DESTIN CONRAD\)](https://open.spotify.com/album/6nKwjfkh8zFW2JQo1FYjq0) | 2:45 |
 | 37 | [Fool](https://open.spotify.com/track/6zr3r5MNP6Fu0dfJcaMxof) | [Raiche](https://open.spotify.com/artist/4yaRDENYr8yAAlEUf23DRI) | [Fool](https://open.spotify.com/album/4YrTWDTEsPnRaJSbbOe3Zp) | 3:10 |

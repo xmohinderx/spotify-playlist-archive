@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvvyNmW9V9a.md) - [plain]
 
 > Counting down every second till Don't Worry Darling's Monday premiere\. Cover: Miss Flo & Rosé
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,647,614 likes - 102 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,649,791 likes - 102 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

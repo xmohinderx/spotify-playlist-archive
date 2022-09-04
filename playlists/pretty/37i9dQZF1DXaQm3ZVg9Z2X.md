@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaQm3ZVg9Z2X.md) - [plain]
 
 > Celebrating 20 years of ‘Rush Of Blood To The Head’\. Watch now!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,986,232 likes - 54 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,988,757 likes - 54 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

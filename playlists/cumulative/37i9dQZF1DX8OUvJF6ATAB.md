@@ -4,7 +4,7 @@
 
 > Explore the inner worlds floating in the imagination of experimental Ambient music producers.
 
-271 songs - 23 hr 23 min - [published](https://open.spotify.com/playlist/4jkUs66aepxZIx8eyJu8qK)
+272 songs - 23 hr 49 min - [published](https://open.spotify.com/playlist/4jkUs66aepxZIx8eyJu8qK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -197,7 +197,7 @@
 | [Reverse Culture Music](https://open.spotify.com/track/1H5F2CscHZSaiLMzZWWDSh) | [Steve Hauschildt](https://open.spotify.com/artist/2L00vHmYcwC9OlsEv6M5UO) | [Nonlin](https://open.spotify.com/album/3TkzTDlRwpaEgXzLK7MsL3) | 6:09 | 2021-10-06 | 2022-07-29 |
 | [Reverse Culture Music](https://open.spotify.com/track/31Wl8j2L7CUPXjyQ4QCFfK) | [Steve Hauschildt](https://open.spotify.com/artist/2L00vHmYcwC9OlsEv6M5UO) | [Nonlin](https://open.spotify.com/album/1HG66ZvnAjtbKyWoXvBLTn) | 6:09 | 2021-10-06 |  |
 | [Roaming](https://open.spotify.com/track/5q8EX29mKKA3epupwlxR64) | [Photay](https://open.spotify.com/artist/1MSxOmIt7uYgvPydd1tU8F) | [Roaming](https://open.spotify.com/album/6Ks5xAWcNa0hEfhdGriVI9) | 4:50 | 2021-10-06 | 2022-07-29 |
-| [Rooftop](https://open.spotify.com/track/3iwhnEIa8SILkNd1j2PWG3) | [Tujiko Noriko](https://open.spotify.com/artist/7n9eKttEekbKaDErD29u7l) | [Kuro \(OST\)](https://open.spotify.com/album/7gLMFIEGokaYtPBKRCYSjG) | 4:45 | 2021-10-06 |  |
+| [Rooftop](https://open.spotify.com/track/3iwhnEIa8SILkNd1j2PWG3) | [Tujiko Noriko](https://open.spotify.com/artist/7n9eKttEekbKaDErD29u7l) | [Kuro \(OST\)](https://open.spotify.com/album/7gLMFIEGokaYtPBKRCYSjG) | 4:45 | 2021-10-06 | 2022-09-04 |
 | [Rooftop](https://open.spotify.com/track/5NNOsJUUr9FMAjbR0OrW2z) | [Tujiko Noriko](https://open.spotify.com/artist/7n9eKttEekbKaDErD29u7l) | [Kuro \(OST\)](https://open.spotify.com/album/19T8jn8CL3WTkwT71g9Hmg) | 4:45 | 2021-10-06 | 2022-07-27 |
 | [Rough For Radio \- Peel Session](https://open.spotify.com/track/5FG4JPUpY8vKRMLG5sHV2w) | [Seefeel](https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f) | [Rough For Radio \(Peel Session\)](https://open.spotify.com/album/4G5sQMk0U5wde5XnDAXuZq) | 4:11 | 2021-10-06 | 2022-07-28 |
 | [Rushes Recede](https://open.spotify.com/track/4LldU6Isq6ecYkaNISaDDc) | [Sarah Davachi](https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA) | [Rushes Recede](https://open.spotify.com/album/1uQvJ6TmCHQV6bdRdDIkrq) | 6:34 | 2021-10-06 | 2022-02-11 |
@@ -215,6 +215,7 @@
 | [Solidarity Theme \(Release\)](https://open.spotify.com/track/1yfM8QbSyuKL8XF9HcejBV) | [James Holden](https://open.spotify.com/artist/15e0X6NuMsVuHi7AZhcfyI) | [A Cambodian Spring OST](https://open.spotify.com/album/2fl8CRGeDa3JCX7RHP9lgD) | 3:25 | 2021-10-06 |  |
 | [Solidit](https://open.spotify.com/track/1nfZXgLSdbR188vL2P7vrF) | [Chris Carter](https://open.spotify.com/artist/4Fw9V88d2NoplsZBOkBWaS) | [Solidit](https://open.spotify.com/album/4Iu295PX9PaSbEpgcjdTAb) | 3:50 | 2021-10-06 | 2022-07-28 |
 | [Spirit](https://open.spotify.com/track/5ju6xqK60MEA8mxAnGQGFR) | [Tomas Nordmark](https://open.spotify.com/artist/0TBCJYEeBoQspLmeXE6Ixy) | [Spirit](https://open.spotify.com/album/6OefUdFlXkiUdNlh2QYJLG) | 6:22 | 2021-10-06 | 2022-07-29 |
+| [Spopolatore](https://open.spotify.com/track/6m0hPtzLEFhZcZqAIHlqUI) | [Valerio Tricoli](https://open.spotify.com/artist/5pgG0WAfRftFGmj05N0LsD) | [Say Goodbye To The Wind](https://open.spotify.com/album/2S9IkYjEwf2vNfu7B9HEJJ) | 25:44 | 2022-09-03 |  |
 | [Standing Crosswise in the Square](https://open.spotify.com/track/0wFg6CWLFKLiZUDGHd2KV2) | [Craig Leon](https://open.spotify.com/artist/2TFlUuw1I60a1Qbyl3Qmfs) | [Anthology of Interplanetary Folk Music Vol\. 2: The Canon](https://open.spotify.com/album/2LosHQBwtkWbW7mlOJm0Qq) | 6:09 | 2021-10-06 |  |
 | [Standing Crosswise in the Square](https://open.spotify.com/track/2ul6NDnL1ID1LFmldqRdhI) | [Craig Leon](https://open.spotify.com/artist/2TFlUuw1I60a1Qbyl3Qmfs) | [Anthology of Interplanetary Folk Music Vol\. 2: The Canon](https://open.spotify.com/album/32cjPNgVw59RwMrcxbdBhE) | 6:09 | 2021-10-06 | 2022-07-29 |
 | [Starethrough \- Transition Mix](https://open.spotify.com/track/1p03UtzOhN62YFGKMZPBfj) | [Seefeel](https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f) | [Reduct](https://open.spotify.com/album/3mNZPQiVKNEvKp7mYhRQPd) | 5:04 | 2021-10-06 | 2022-07-28 |

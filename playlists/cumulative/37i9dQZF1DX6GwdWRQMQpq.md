@@ -4,7 +4,7 @@
 
 > The hip\-hop playlist that's a whole mood\. Art By Laci Jordan; Cover: GloRilla
 
-185 songs - 8 hr 18 min - [published](https://open.spotify.com/playlist/0FtcGJDMEWLAVf67SoV0Nd)
+186 songs - 8 hr 19 min - [published](https://open.spotify.com/playlist/0FtcGJDMEWLAVf67SoV0Nd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,7 +103,7 @@
 | [Like A Thug \(feat\. Lil Durk\)](https://open.spotify.com/track/363CJiT1VE431JUGLdJEEc) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [777](https://open.spotify.com/album/4vjE6Rgl5z6K2PhrAtIA7O) | 2:52 | 2022-03-25 | 2022-04-16 |
 | [Like That](https://open.spotify.com/track/4sRA220I8uSmsF0rffzGU8) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Like That](https://open.spotify.com/album/23kypbkgaHakfqAyvWZw0o) | 2:28 | 2022-02-18 | 2022-03-05 |
 | [LL Cool J](https://open.spotify.com/track/7MGPr84RIWHL9Zz9xLHe93) | [Leikeli47](https://open.spotify.com/artist/0DtXHIvJ8NWBg5pGvsgWnR) | [LL Cool J](https://open.spotify.com/album/28tjTRoy8DLPOFntXpUxRk) | 3:13 | 2022-03-18 | 2022-06-26 |
-| [LONDON \(feat\. J\. Cole\)](https://open.spotify.com/track/5vhrsx08dHh2QcVh1Rsiwt) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [LONDON \(feat\. J\. Cole\)](https://open.spotify.com/album/5rIHQjM7xy35RYx9E3XaqS) | 4:10 | 2022-04-08 |  |
+| [LONDON \(feat\. J\. Cole\)](https://open.spotify.com/track/5vhrsx08dHh2QcVh1Rsiwt) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [LONDON \(feat\. J\. Cole\)](https://open.spotify.com/album/5rIHQjM7xy35RYx9E3XaqS) | 4:10 | 2022-04-08 | 2022-09-04 |
 | [Lower](https://open.spotify.com/track/4CQAcnsINylLDrhmB1HNJt) | [Big Jade](https://open.spotify.com/artist/50ZeZoB1p1mg7V2iGTI6od) | [Lower](https://open.spotify.com/album/5ivFW60jaUHbkhdovHXKGr) | 1:52 | 2022-04-29 | 2022-08-13 |
 | [Marge Simpson](https://open.spotify.com/track/4RdFyqzZSevigdQxH0iLOa) | [cupcakKe](https://open.spotify.com/artist/76SlrtEaq2oViRXulxjfuM) | [Marge Simpson](https://open.spotify.com/album/6fhWBYWOu0PNWt79ZAPBNi) | 3:03 | 2021-09-24 | 2022-02-19 |
 | [Meagan Good](https://open.spotify.com/track/59LmAQrsS5O64n90EaTQUf) | [Tierra Whack](https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh) | [Rap?](https://open.spotify.com/album/1s3yOs7KV2OWx0hoYby2bm) | 2:58 | 2022-02-04 | 2022-02-26 |
@@ -112,6 +112,7 @@
 | [MMM MMM \(feat\. ATL Jacob\)](https://open.spotify.com/track/7GLqR9ToJLb0PV3XyNAWNm) | [Kali](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [ATL Jacob](https://open.spotify.com/artist/7jAs1uPnpfNmT6e5qtEPxq) | [MMM MMM \(feat\. ATL Jacob\)](https://open.spotify.com/album/5IPRVG3Ph5zixjdC49LKdu) | 2:17 | 2021-07-02 | 2022-02-05 |
 | [Moncler Coat](https://open.spotify.com/track/6nDIfZcCj06dGLY1sckgaZ) | [Sally Sossa](https://open.spotify.com/artist/58q28H7IgX06YXkPvUtGgR) | [Moncler Coat](https://open.spotify.com/album/2Aatr5J5mRJxyeHydQyNxF) | 1:47 | 2021-12-17 | 2022-03-05 |
 | [Money \(feat\. Flo Milli\)](https://open.spotify.com/track/2xo2fUrwrdOruV2zdNtWoP) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Money \(feat\. Flo Milli\)](https://open.spotify.com/album/5u9dBzQdVd9YDblzgtxOlD) | 2:30 | 2021-11-19 | 2022-04-16 |
+| [Munch \(Feelin’ U\)](https://open.spotify.com/track/1jOgJN75btuUONIdf57vHz) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Munch \(Feelin’ U\)](https://open.spotify.com/album/0LgFPcU3P2HLGUtBQTBBpv) | 1:44 | 2022-09-04 |  |
 | [My Type \(feat\. Yung Mal\)](https://open.spotify.com/track/2av43bJ4Bsegzca84SS3QO) | [Karlae](https://open.spotify.com/artist/6RY7kT6PGGzAA3TG3s4Qmp), [Young Stoner Life](https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO), [Yung Mal](https://open.spotify.com/artist/6m0MLa2Q5RwIF8R7nwQkQ2) | [My Type \(feat\. Yung Mal\)](https://open.spotify.com/album/5PG4zTnIiE6y1A6vetNidI) | 3:02 | 2022-07-29 |  |
 | [Nann Badder \(RAP SH!T: Soundtrack From The Max Original Series\)](https://open.spotify.com/track/3dneikVwxiwGpguugaNtQc) | [Shawna & Mia](https://open.spotify.com/artist/1IbE7R5bQCSBeMhVRbWnU7), [Raedio](https://open.spotify.com/artist/0txgDz2yNToARuN2vD7SWD) | [Nann Badder \(RAP SH!T: Soundtrack From The Max Original Series\)](https://open.spotify.com/album/3JZi59WyKbKRafm55tRUTv) | 2:42 | 2022-08-26 |  |
 | [Need to Know](https://open.spotify.com/track/3Vi5XqYrmQgOYBajMWSvCi) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 3:30 | 2021-12-03 | 2022-02-05 |

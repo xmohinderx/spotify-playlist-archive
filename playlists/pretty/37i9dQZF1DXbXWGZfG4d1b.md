@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXWGZfG4d1b.md) - [plain]
 
 > Rock independiente, pop alternativo y golden hour.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,219 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,232 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXWGZfG4d1b.md) - [plain]
 | 23 | [La Cuesta del Sol](https://open.spotify.com/track/0DTMf6V0Kq9jU2NldMyrQl) | [El Plan De La Mariposa](https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir) | [La Cuesta del Sol](https://open.spotify.com/album/5gekmcL9Z7FecGC7wikhij) | 4:05 |
 | 24 | [Fluir](https://open.spotify.com/track/5qKiEzT74lSMBdyPOtnlPb) | [Hipnotica](https://open.spotify.com/artist/71nVj55bVBwK31aOfVjvLY) | [Clásico](https://open.spotify.com/album/6SBMBonYpCmJUIPlwSnL6G) | 3:52 |
 | 25 | [Jardin Secreto](https://open.spotify.com/track/5ahCZr2S2fe7clkWuOPdZc) | [Mi Amigo Invencible](https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7) | [Jardín Secreto](https://open.spotify.com/album/7j0lW8QUdtvBk41WiBu7rp) | 3:52 |
-| 26 | [Lo que me asusta](https://open.spotify.com/track/0O88nopnkWFy4UanmjQGUl) | [Molok0](https://open.spotify.com/artist/7zrKyjlv5C1kp9eoJwG01J) | [Lo que me asusta](https://open.spotify.com/album/7yVtfFffpg64yNti68EMF5) | 2:11 |
+| 26 | [Lo que me asusta](https://open.spotify.com/track/0O88nopnkWFy4UanmjQGUl) | [Molok0](https://open.spotify.com/artist/7zrKyjlv5C1kp9eoJwG01J) | [Lo Que Me Asusta](https://open.spotify.com/album/7yVtfFffpg64yNti68EMF5) | 2:11 |
 | 27 | [Que No](https://open.spotify.com/track/3xoF6TyldRJh0Fa2zIhEif) | [Barbi Recanati](https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD) | [Ubicación en Tiempo Real](https://open.spotify.com/album/7AGuimab1m9FAFkS6sekRp) | 3:50 |
 | 28 | [Mi Vida Como Vacaciones](https://open.spotify.com/track/5ellJjhwC4gNOYRZGGt8vp) | [Eve Calletti](https://open.spotify.com/artist/55eyl0WBtTXDb9jpXVS9AP), [doppel gangs](https://open.spotify.com/artist/6NOqzjI8BErx0WICegZzTQ) | [Vintage Futurista](https://open.spotify.com/album/6sMbgM4z01xWJSadT5evGq) | 3:47 |
 | 29 | [La Cena](https://open.spotify.com/track/3DcxQ89yroyWPYbxgbllCI) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [La Cena](https://open.spotify.com/album/73HZ1dIoza9ZPuvUUxchaS) | 2:46 |

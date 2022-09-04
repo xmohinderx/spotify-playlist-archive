@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Hong Kong.
 
-442 songs - 1 day 2 hr 46 min - [published](https://open.spotify.com/playlist/78ErNjYHpU7KgEH678KeF9)
+443 songs - 1 day 2 hr 51 min - [published](https://open.spotify.com/playlist/78ErNjYHpU7KgEH678KeF9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [dinner in bed](https://open.spotify.com/track/72ChE6ENMalJJnPbh0rjyM) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx) | [dinner in bed](https://open.spotify.com/album/00ZZcWUP6oHeKpuqPe1Pvh) | 3:17 | 2022-02-15 | 2022-02-27 |
 | [Distance](https://open.spotify.com/track/2rbbJ2xZFJa2DriR5h0TBS) | [陳卓賢 Ian](https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6) | [Distance](https://open.spotify.com/album/6gIbxqYcuc2UVoO8Q75imK) | 3:05 | 2022-07-16 |  |
 | [Do They Know It's Christmas? \- 1984 Version](https://open.spotify.com/track/0247StOpd3AkeBQzANX4Zf) | [Band Aid](https://open.spotify.com/artist/35S20clEkkSNUo23ViaslZ) | [Do They Know It's Christmas?](https://open.spotify.com/album/0Q96oESySVI3gLFTkhttn5) | 3:42 | 2021-12-26 | 2021-12-27 |
-| [doodoodoo](https://open.spotify.com/track/0bqYvGR4vP2KstdMyemKYI) | [Terence Lam](https://open.spotify.com/artist/3tvtGR8HzMHDbkLeZrFiBI) | [doodoodoo](https://open.spotify.com/album/5OxneUMRslWdTQlYpO8Wc9) | 3:23 | 2022-05-13 |  |
+| [doodoodoo](https://open.spotify.com/track/0bqYvGR4vP2KstdMyemKYI) | [Terence Lam](https://open.spotify.com/artist/3tvtGR8HzMHDbkLeZrFiBI) | [doodoodoo](https://open.spotify.com/album/5OxneUMRslWdTQlYpO8Wc9) | 3:23 | 2022-05-13 | 2022-09-04 |
 | [drivers license](https://open.spotify.com/track/5wANPM4fQCJwkGd4rN57mH) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 4:02 | 2021-05-23 | 2021-06-23 |
 | [drivers license](https://open.spotify.com/track/7lPN2DXiMsVn7XUKtOW1CS) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [drivers license](https://open.spotify.com/album/66FPnVL9G4CMKy3wvaGTcr) | 4:02 | 2021-03-27\* | 2021-05-23 |
 | [Driving Home for Christmas \- 2019 Remaster](https://open.spotify.com/track/27qAMKrDdKEs8HDXcvR24R) | [Chris Rea](https://open.spotify.com/artist/5KEG7G8LDYlHgFDqZyEEs2) | [Dancing with Strangers \(Deluxe Edition, 2019 Remaster\)](https://open.spotify.com/album/5tR0alqUd1KMW37vPnsOC4) | 4:01 | 2021-12-25 | 2021-12-27 |
@@ -280,7 +280,7 @@
 | [不配](https://open.spotify.com/track/6GxZx3gflxPl8MHnJ0mcuc) | [Joey Yung](https://open.spotify.com/artist/2zzKlxMsKTPMsZacZCPRNA) | [不配](https://open.spotify.com/album/1vf0j6LdTJTJpaiAOoowXy) | 4:32 | 2021-10-10 | 2021-10-16 |
 | [世界與你無關 \- Acoustic Version](https://open.spotify.com/track/6OMVP0bYGhLGTp1Mvl3iOH) | [Panther Chan](https://open.spotify.com/artist/3jS58yKkLzOd8S8IHyCsEm) | [世界與你無關 \(Acoustic Version\)](https://open.spotify.com/album/4Vv0pIpYXxmlrXNBSbXuZq) | 4:05 | 2022-03-12 | 2022-03-14 |
 | [中二病人 \(feat\. 周國賢\)](https://open.spotify.com/track/2HwLXriLd9nF9ZdLgGrQHT) | [Zpecial](https://open.spotify.com/artist/56Ac1JJiopOrWDuRIb330x) | [中二病人 \(feat\. 周國賢\)](https://open.spotify.com/album/1LlgBBE71WMXpkuLPcxeKJ) | 3:49 | 2021-09-25 | 2021-10-02 |
-| [主角光環](https://open.spotify.com/track/3CsYuAe0Oi7t9w1jxWfHob) | [Kaho Hung](https://open.spotify.com/artist/3wYcmejLVtOoHIq9szUugh) | [Learning Curve](https://open.spotify.com/album/4diB05q3Yl1cjCBdzeLHCd) | 3:43 | 2022-06-01 | 2022-08-24 |
+| [主角光環](https://open.spotify.com/track/3CsYuAe0Oi7t9w1jxWfHob) | [Kaho Hung](https://open.spotify.com/artist/3wYcmejLVtOoHIq9szUugh) | [Learning Curve](https://open.spotify.com/album/4diB05q3Yl1cjCBdzeLHCd) | 3:43 | 2022-06-01 |  |
 | [主角光環](https://open.spotify.com/track/4qSkBCWRJbFHRwUzZI5b8f) | [Kaho Hung](https://open.spotify.com/artist/3wYcmejLVtOoHIq9szUugh) | [主角光環](https://open.spotify.com/album/23bgyxECT7zGsiVpSgqkOx) | 3:43 | 2021-10-23 | 2022-02-18 |
 | [二損一](https://open.spotify.com/track/1CMTBEtl2mqKJu4VOXDCGF) | [MC 張天賦](https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC), [Kaho Hung](https://open.spotify.com/artist/3wYcmejLVtOoHIq9szUugh) | [Frenemy](https://open.spotify.com/album/3uAhnIdZUUJBLOPgQPLso2) | 3:36 | 2022-08-17 | 2022-08-19 |
 | [人類不宜飛行](https://open.spotify.com/track/2R6LC73jLhgOekUBfTcE23) | [Dear Jane](https://open.spotify.com/artist/6V1SwiosQqf5XvmoTMCGa9) | [人類不宜飛行](https://open.spotify.com/album/4hO1qoffkZbefMbWnQzgNT) | 3:57 | 2021-08-19 | 2022-05-08 |
@@ -322,6 +322,7 @@
 | [夜に駆ける](https://open.spotify.com/track/6MCjmGYlw6mQVWRFVgBRvB) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [THE BOOK](https://open.spotify.com/album/1xhO0GSoezdPJcSuNe1ySv) | 4:18 | 2021-03-27\* | 2022-06-08 |
 | [夢想成真2022 \(feat\. 譚仔女聲合唱團\)](https://open.spotify.com/track/4KJi1DpJcn8sYANFF9qZBa) | [MC $oho & KidNey](https://open.spotify.com/artist/0OzYRJJgttqlhZ63PHMndj) | [夢想成真2022 \(feat\. 譚仔女聲合唱團\)](https://open.spotify.com/album/6pIDMCqVB0GNi3b8GV3gjZ) | 3:47 | 2022-04-16 | 2022-05-17 |
 | [大正浪漫](https://open.spotify.com/track/3uw93CiI34uZlfk8ywep1e) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [大正浪漫](https://open.spotify.com/album/4D1e5OPqOqOWhQhiNleOOl) | 2:48 | 2021-09-17 | 2021-09-26 |
+| [太平道](https://open.spotify.com/track/63Hnm2IiSP9VDzJF2WdzCL) | [Endy Chow](https://open.spotify.com/artist/5r0xeBSRKRJ5Dm63XzTZhE) | [太平道](https://open.spotify.com/album/5sWnVGDboOP0pCWDZdzVSn) | 4:39 | 2022-09-03 |  |
 | [如果可以 \- 電影"月老"主題曲](https://open.spotify.com/track/72OVnXDzugvrCU25lMi9au) | [WeiBird](https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX) | [如果可以 \(電影"月老"主題曲\)](https://open.spotify.com/album/6CGKNcn63JbPWljHtQi1L0) | 4:34 | 2021-12-24 |  |
 | [孤獨病](https://open.spotify.com/track/5Gi88IBuzFwSTAAcYcqpqL) | [Keung To](https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D) | [孤獨病](https://open.spotify.com/album/4ALkQyRhvV3yhXg9bfqCmY) | 4:13 | 2022-02-17 | 2022-08-26 |
 | [宋代SAD BOY](https://open.spotify.com/track/7uo5PgFlHaRpdigxdzP0i7) | [my little airport](https://open.spotify.com/artist/3yfDRplDZh03Y0fEeCd6B0) | [SABINA之淚](https://open.spotify.com/album/5Pw6K47tHMJzjlyMqqF0yf) | 2:53 | 2021-09-01 | 2021-09-02 |
@@ -366,7 +367,7 @@
 | [東京人壽](https://open.spotify.com/track/1qc9E4zCJ5utXDQVIAZlkm) | [Joey Yung](https://open.spotify.com/artist/2zzKlxMsKTPMsZacZCPRNA) | [東京人壽](https://open.spotify.com/album/0w2tKyjNG1x1wgYyAnlTbG) | 4:17 | 2021-03-27\* | 2021-05-13 |
 | [某種老朋友](https://open.spotify.com/track/4c9hHw1PUYXHfKFASXo8H0) | [Terence Lam](https://open.spotify.com/artist/3tvtGR8HzMHDbkLeZrFiBI) | [某種老朋友](https://open.spotify.com/album/4F9PntJ91ej5Uxyo1wgMii) | 4:30 | 2022-02-17 |  |
 | [樹](https://open.spotify.com/track/2QYGFCVQTALeyYGNvKHn9T) | [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [樹](https://open.spotify.com/album/4RcQZBChNpUMXKcJmF5ErJ) | 3:55 | 2021-12-18 | 2021-12-19 |
-| [樹木真美](https://open.spotify.com/track/3V62hqp8AIqkSfr8Ys2lzP) | [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [樹木真美](https://open.spotify.com/album/24gJxtIlfZDK6SnR2MiuiU) | 4:06 | 2022-06-25 |  |
+| [樹木真美](https://open.spotify.com/track/3V62hqp8AIqkSfr8Ys2lzP) | [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [樹木真美](https://open.spotify.com/album/24gJxtIlfZDK6SnR2MiuiU) | 4:06 | 2022-06-25 | 2022-09-04 |
 | [櫻花樹下](https://open.spotify.com/track/2FgDWCqMCIAATvqr9ozeYm) | [Hins Cheung](https://open.spotify.com/artist/2MVfNjocvNrE03cQuxpsWK) | [Urban Emotions](https://open.spotify.com/album/3fem0d1l01dbTq5goqW7QJ) | 4:09 | 2022-05-20 | 2022-07-03 |
 | [正式開始](https://open.spotify.com/track/1jVw3apCOogFU1mOquNIhC) | [陳卓賢 Ian](https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6) | [正式開始](https://open.spotify.com/album/40i8Il5hBAX9OlqcZvQ2t0) | 3:28 | 2021-03-27\* | 2021-09-24 |
 | [每次你走的時分](https://open.spotify.com/track/5re2sW79DkSu7tyBjxCqUS) | [my little airport](https://open.spotify.com/artist/3yfDRplDZh03Y0fEeCd6B0) | [每次你走的時分](https://open.spotify.com/album/5t0kPdHWUbtFPugupIGZrO) | 2:59 | 2021-08-26 | 2021-09-01 |

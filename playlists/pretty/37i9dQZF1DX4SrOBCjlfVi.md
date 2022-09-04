@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Yeat, Gucci Mane, EST Gee, and more\. Cover: Freddie Gibbs
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,569 likes - 49 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,575 likes - 49 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 6 | [Give Me A Sign](https://open.spotify.com/track/5jghmO5j7lvR10i0WrWZpg) | [Quando Rondo](https://open.spotify.com/artist/4IprNlQiJZUUJhDl0fL2SL), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Give Me A Sign](https://open.spotify.com/album/2zGi3DyjpXt2MGubp54aQ0) | 2:49 |
 | 7 | [Look Ma I Did It](https://open.spotify.com/track/0JvnmNjMnTQMRizhrKzMSO) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Baby Racks](https://open.spotify.com/artist/768KV6PLzzcqy1CRCMFUNW) | [Look Ma I Did It](https://open.spotify.com/album/6anFwVV3gBuCNINmz4Vnvz) | 3:27 |
 | 8 | [Fantastic](https://open.spotify.com/track/7fdTVjOFYWyfUXXTpIL917) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Fantastic](https://open.spotify.com/album/1N5NSxPMp1hpqwM5v5KIkz) | 2:52 |
-| 9 | [I Ain’t Gone Hold Ya](https://open.spotify.com/track/2jCQXY0zjBdSpp12egn0Wo) | [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG), [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH) | [I Ain’t Gone Hold Ya](https://open.spotify.com/album/3ZuQtnBkECX096kcyhoISC) | 2:19 |
+| 9 | [I Ain’t Gon Hold Ya](https://open.spotify.com/track/2jCQXY0zjBdSpp12egn0Wo) | [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG), [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH) | [I Ain’t Gon Hold Ya](https://open.spotify.com/album/3ZuQtnBkECX096kcyhoISC) | 2:19 |
 | 10 | [Little Miss](https://open.spotify.com/track/3Tv0qk6Zz09z8tueWLRW3i) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Little Miss](https://open.spotify.com/album/2yJNQq4qviVMcukvnoFEzy) | 3:10 |
 | 11 | [Robbery](https://open.spotify.com/track/4fHwoYTU9sy539FSX7fv1j) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO) | [Robbery](https://open.spotify.com/album/5Fr4WRmEtwWsIxvexjotiy) | 2:24 |
 | 12 | [Psane \(feat\. Don Toliver\)](https://open.spotify.com/track/44SFX0JI00vMoyIemTQDtN) | [Pi’erre Bourne](https://open.spotify.com/artist/3x3jSlhyv5CiCZDZlaTq0M), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Good Movie](https://open.spotify.com/album/2REajdJ8KOaR8Vm2Zx8UXM) | 4:15 |

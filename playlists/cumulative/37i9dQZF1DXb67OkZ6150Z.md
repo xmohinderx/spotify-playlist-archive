@@ -4,7 +4,7 @@
 
 > Indie takes on songs others make\. Cover: Remi Wolf
 
-344 songs - 21 hr 16 min - [published](https://open.spotify.com/playlist/1xscuBe0hUgZ7Q0c20ddVX)
+345 songs - 21 hr 20 min - [published](https://open.spotify.com/playlist/1xscuBe0hUgZ7Q0c20ddVX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,6 +181,7 @@
 | [La Vie En Rose](https://open.spotify.com/track/0KohaUnLZU0PNJC3RZYDZ0) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [La Vie En Rose](https://open.spotify.com/album/4uWWvb7rkoUhYvaO8VEIC6) | 2:50 | 2021-03-12 | 2022-08-03 |
 | [La Vie En Rose](https://open.spotify.com/track/0d4qCmNoQ7D8Hv0azn7Ozu) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [La Vie En Rose](https://open.spotify.com/album/238gzyCPHIjz1GxXqdOY6T) | 2:50 | 2021-03-12 | 2022-07-29 |
 | [Landslide](https://open.spotify.com/track/41fecZEX4sPrRxnjZQ6DGU) | [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg) | [Landslide](https://open.spotify.com/album/3c0Uy2iMgkfZGRwi35XbzS) | 2:59 | 2021-03-12 | 2022-08-10 |
+| [Landslide](https://open.spotify.com/track/7KV3NYtvmiK2ctNUmx6adR) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Landslide](https://open.spotify.com/album/7hAhqGIOTDSlXq6R0wKqvw) | 3:30 | 2022-09-03 |  |
 | [Landslide \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/1RPFnPCvtBc46BFVOnzmPx) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Spotify Singles](https://open.spotify.com/album/05P14Crb7IRWfwSYFgKiM2) | 3:53 | 2021-03-12 | 2022-07-29 |
 | [Lay All Your Love on Me](https://open.spotify.com/track/1XfbGoHFVubq0t4Bw8dPre) | [Pale Honey](https://open.spotify.com/artist/5vINmZdKrgF32tSV2adC7q) | [Lay All Your Love on Me](https://open.spotify.com/album/25LbjtI4lwZKcYhkHxPcwx) | 3:59 | 2021-03-12 | 2022-04-12 |
 | [Light Years \- The National Cover](https://open.spotify.com/track/7uAhjayzJxAo7lnmcyAqqg) | [Dizzy](https://open.spotify.com/artist/0g3BS5QoR5r6pOAg1tvwXv) | [Light Years \(The National Cover\)](https://open.spotify.com/album/15rgJS2CtlWy2BscYiHpvr) | 3:01 | 2021-03-12 | 2022-07-29 |
@@ -290,7 +291,7 @@
 | [The Unforgiven](https://open.spotify.com/track/1e2NPmZzDzGRTiwJDdo0UW) | [Diet Cig](https://open.spotify.com/artist/6ommlbuccgdiKSgjvVlQ4W) | [The Unforgiven](https://open.spotify.com/album/0ZMAQQPC6lnPLsOYcwRUpv) | 4:47 | 2021-07-21 | 2022-04-21 |
 | [The Wolves \(Act I and II\)](https://open.spotify.com/track/0VOrZjsKQyGVTU8ndmB1Ve) | [Becky and the Birds](https://open.spotify.com/artist/52MMXmgPC7kDNIYUxCeh8d) | [The Wolves \(Act I and II\)](https://open.spotify.com/album/5TXj4d1vYSp5lpelaAk6y8) | 4:30 | 2021-04-02 | 2022-07-29 |
 | [There She Goes](https://open.spotify.com/track/398o7wmnG0V0jL8Y7bbmif) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [There She Goes](https://open.spotify.com/album/6AoYYnPKJTL1W0KCvXuJ6x) | 2:43 | 2021-03-12 | 2022-07-20 |
-| [These Days](https://open.spotify.com/track/3LWZZ5vzhOSMN6u9pgO6Eu) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [Covers](https://open.spotify.com/album/58z5GjZRjt6XIz5GOS0PJh) | 3:44 | 2022-01-28 |  |
+| [These Days](https://open.spotify.com/track/3LWZZ5vzhOSMN6u9pgO6Eu) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [Covers](https://open.spotify.com/album/58z5GjZRjt6XIz5GOS0PJh) | 3:44 | 2022-01-28 | 2022-09-04 |
 | [Thirteen](https://open.spotify.com/track/5uXr5ZxwlC5lz7DMKLqJfC) | [Bedouine](https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5), [Hurray For The Riff Raff](https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt), [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Thirteen](https://open.spotify.com/album/5uiA6CIjpVZ6TZfiATrjEg) | 3:04 | 2022-08-09 |  |
 | [Thirteen](https://open.spotify.com/track/0su1fc4MK1YIqkL4Ai170k) | [Bedouine](https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5), [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF), [Hurray For The Riff Raff](https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt) | [Thirteen](https://open.spotify.com/album/2ZC6djUXUVRBSPCsuZB4I4) | 3:04 | 2021-03-12 | 2022-07-29 |
 | [This Must Be The Place](https://open.spotify.com/track/6PuoZT4kgw5DrUEdnQ6e01) | [Sure Sure](https://open.spotify.com/artist/1anAI9P9iSzc9qzLv6AtHZ) | [Sure Sure](https://open.spotify.com/album/7EfgATnOllXJ96s4sSdzei) | 3:39 | 2021-03-12 | 2022-08-10 |

@@ -4,7 +4,7 @@
 
 > The world series of Ska\. Cover: The Interrupters
 
-452 songs - 1 day 2 hr 9 min - [published](https://open.spotify.com/playlist/7KNWXVoqADrCiHYxopnpHa)
+453 songs - 1 day 2 hr 12 min - [published](https://open.spotify.com/playlist/7KNWXVoqADrCiHYxopnpHa)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,7 +107,7 @@
 | [Donde Quedó el Amor](https://open.spotify.com/track/0ISnnP3lKhl7IJvtlpyzY9) | [Santísima Trinidad](https://open.spotify.com/artist/2XObUySWwK2PkfQsL1mcvs) | [Skaparate Fest, Vol\. 2](https://open.spotify.com/album/5ZoxGJIU4fn6F1gGlHZwOi) | 3:11 | 2021-12-06 | 2022-07-29 |
 | [Doomsday](https://open.spotify.com/track/7xfNTf6y3KYpDPEvBmornq) | [Mephiskapheles](https://open.spotify.com/artist/0HS3ITvEZoYY3klH9xqxpl) | [God Bless Satan](https://open.spotify.com/album/7J35hQd4DMsmKMMHoz8Lgu) | 3:15 | 2021-12-06 |  |
 | [Dormir Soñando](https://open.spotify.com/track/4pfMrRwgqGH8uRKEnRK3uB) | [El Gran Silencio](https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD) | [Libres Y Locos](https://open.spotify.com/album/1SV999B0t8KsUxb2RIE65E) | 3:07 | 2021-12-06 |  |
-| [Driving Me Mad](https://open.spotify.com/track/41BJ66ENW3JY7kgstL0bA4) | [The Hotknives](https://open.spotify.com/artist/2uoezM6j8nCGupNI3zeMcb) | [Home](https://open.spotify.com/album/79n7x6CoNJxH0k9KypOCpA) | 2:27 | 2021-12-06 |  |
+| [Driving Me Mad](https://open.spotify.com/track/41BJ66ENW3JY7kgstL0bA4) | [The Hotknives](https://open.spotify.com/artist/2uoezM6j8nCGupNI3zeMcb) | [Home](https://open.spotify.com/album/79n7x6CoNJxH0k9KypOCpA) | 2:27 | 2021-12-06 | 2022-09-04 |
 | [El Esqueleto](https://open.spotify.com/track/1Z05BEFLTKxdp9xSjUnPGX) | [Victimas Del Doctor Cerebro](https://open.spotify.com/artist/6Z112eJxKl1E3nAbYZBr7M) | [Victimas Del Doctor Cerebro](https://open.spotify.com/album/4dcFGAgSnvjUK2fBUWoWSv) | 3:41 | 2021-12-06 | 2022-07-29 |
 | [El Esqueleto](https://open.spotify.com/track/0CucYEXuGngb0vfUMpOmID) | [Victimas Del Doctor Cerebro](https://open.spotify.com/artist/6Z112eJxKl1E3nAbYZBr7M) | [Lucha Rock](https://open.spotify.com/album/3qFQ5sXiOUEy0vVMj1LIii) | 3:43 | 2021-12-06 |  |
 | [El Mión](https://open.spotify.com/track/6aHoNnabXZzxzsjZP2y8Rc) | [Vantroi](https://open.spotify.com/artist/0oq1cXEszwrTtuGmiju7Cn) | [Bajo Palabra](https://open.spotify.com/album/0P6fdBVXRIYsx3HSCCd6ct) | 2:43 | 2021-12-06 | 2022-08-26 |
@@ -430,6 +430,7 @@
 | [Turn Off The Television](https://open.spotify.com/track/07qP6kMKE2w7FGSkgHZ5yz) | [Two Tone Club](https://open.spotify.com/artist/71So40fMdgI3uFPbyaThbY) | [Turn Off](https://open.spotify.com/album/2niwNjYl5YuwTZMsBADmQx) | 2:19 | 2021-12-06 |  |
 | [Two Steps Back](https://open.spotify.com/track/3r2fJWXzUS8h9T4ByFtln1) | [Strange Tenants](https://open.spotify.com/artist/3k06NaDThUE01NwAEA1FIa) | [Ska'd for Life](https://open.spotify.com/album/5RK8iEktb1uzXD0NWGmZMc) | 3:41 | 2021-12-06 | 2022-06-27 |
 | [Un Niño Solo](https://open.spotify.com/track/6262h7kntg2FVQYUTfejhb) | [Los Pies Negros](https://open.spotify.com/artist/0WtbEWWoAzRJ2q3bU8bpeN) | [Un Niño Solo](https://open.spotify.com/album/6T7GSTv5SK09OHMtYkaiZF) | 2:45 | 2021-12-06 | 2022-07-28 |
+| [Una buena noche](https://open.spotify.com/track/4g2c6CYEWKLeGhwZPOkaj6) | [Staya Staya](https://open.spotify.com/artist/7mjXsxiQz6X6LS6SxGmCQf) | [Ya Suena](https://open.spotify.com/album/6kniUnB793nb2Fav2huCdm) | 2:57 | 2022-09-03 |  |
 | [Unbekanntes Pferd](https://open.spotify.com/track/3ZdGKlRg1491PKPFkAEBph) | [Rantanplan](https://open.spotify.com/artist/06L7YPmlQkpMaKz8sFJsyM) | [Köpfer](https://open.spotify.com/album/3CBKFNBLH5Hu3YQc3FIUI3) | 2:22 | 2021-12-06 |  |
 | [Unity](https://open.spotify.com/track/3fDnHZgEcqtqtz8NDbzoCY) | [Operation Ivy](https://open.spotify.com/artist/18XRGxd1b484f2h06cwvJJ) | [Operation Ivy](https://open.spotify.com/album/4qpRn6UJpBmbfRSsXzzI3e) | 2:13 | 2021-12-06 | 2022-07-29 |
 | [Unity \- 2007 Remaster](https://open.spotify.com/track/2TncdAnbeRHID1yNR8YJC9) | [Operation Ivy](https://open.spotify.com/artist/18XRGxd1b484f2h06cwvJJ) | [Operation Ivy \(2007 Remaster\)](https://open.spotify.com/album/2Rv1kIWFeIYeq8kAtdhY6m) | 2:13 | 2021-12-06 |  |

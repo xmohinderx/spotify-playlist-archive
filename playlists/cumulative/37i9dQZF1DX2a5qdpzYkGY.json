@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-04",
       "duration_ms": 254954,
       "name": "1981",
       "url": "https://open.spotify.com/track/6r7PBDvtEQQZwsSvKLLgRJ"
@@ -211,7 +211,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-04",
       "duration_ms": 256926,
       "name": "Alzheimer's Disease (Floor 1)",
       "url": "https://open.spotify.com/track/644RtTy8O2hT4zpF5BSVTA"
@@ -378,6 +378,36 @@
     },
     {
       "album": {
+        "name": "Birki",
+        "url": "https://open.spotify.com/album/45FNDz5cwraBbRazdMFdzP"
+      },
+      "artists": [
+        {
+          "name": "J\u00f3nsi",
+          "url": "https://open.spotify.com/artist/3khg8RDB6nMuw34w1IHS6Y"
+        },
+        {
+          "name": "Kjartan Holm",
+          "url": "https://open.spotify.com/artist/0BWRfTuCYTRzqnjYprarFo"
+        },
+        {
+          "name": "Sin Fang",
+          "url": "https://open.spotify.com/artist/7xsi0kBJ58yWMu4WXFYPHU"
+        },
+        {
+          "name": "Alex Somers",
+          "url": "https://open.spotify.com/artist/51UcKPhDKdKDGIjec0781x"
+        }
+      ],
+      "date_added": "2022-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243250,
+      "name": "Birki",
+      "url": "https://open.spotify.com/track/7eVczwc5ifac0Refb83OFN"
+    },
+    {
+      "album": {
         "name": "Black Balloons Reprise (Instrumental)",
         "url": "https://open.spotify.com/album/7slw7aKrIIGL3OmybjmWbq"
       },
@@ -393,6 +423,24 @@
       "duration_ms": 161971,
       "name": "Black Balloons Reprise - Instrumental",
       "url": "https://open.spotify.com/track/7nMiAELV3eN9m0TG51tnuj"
+    },
+    {
+      "album": {
+        "name": "Sunset Mission",
+        "url": "https://open.spotify.com/album/3CrWNG2oqbEBHKAqfZP6CO"
+      },
+      "artists": [
+        {
+          "name": "Bohren & Der Club Of Gore",
+          "url": "https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf"
+        }
+      ],
+      "date_added": "2022-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351120,
+      "name": "Black City Skyline",
+      "url": "https://open.spotify.com/track/51NvtuWxkDXHqtfWhQRjnH"
     },
     {
       "album": {
@@ -617,7 +665,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-04",
       "duration_ms": 403980,
       "name": "City Of Red Sand",
       "url": "https://open.spotify.com/track/5pQI4osudR5207IiprBP7J"
@@ -705,6 +753,24 @@
       "duration_ms": 384717,
       "name": "Confessions, Pt. 2",
       "url": "https://open.spotify.com/track/7bQDCibQjdTof2JZIhabIF"
+    },
+    {
+      "album": {
+        "name": "Black Earth",
+        "url": "https://open.spotify.com/album/2xDo02ZrqGjkkOcsm35E5L"
+      },
+      "artists": [
+        {
+          "name": "Bohren & Der Club Of Gore",
+          "url": "https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf"
+        }
+      ],
+      "date_added": "2022-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 387666,
+      "name": "Constant Fear",
+      "url": "https://open.spotify.com/track/3KJeOdlwj5W0c9XIrjqzY0"
     },
     {
       "album": {
@@ -1293,7 +1359,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-04",
       "duration_ms": 485266,
       "name": "Hot Flush (Sabres Of Paradise Remix)",
       "url": "https://open.spotify.com/track/4CVzd7PHaRW5xbwKs1ppsv"
@@ -1582,6 +1648,24 @@
     },
     {
       "album": {
+        "name": "Kommissar Brenkstrupp: Fragments of a Troubled Detective",
+        "url": "https://open.spotify.com/album/22rItGEjuiHXUPAl3pp2DC"
+      },
+      "artists": [
+        {
+          "name": "\u00d8rdop Wolkenscheidt",
+          "url": "https://open.spotify.com/artist/7kMXAaL47nt5wVkkyEbiON"
+        }
+      ],
+      "date_added": "2022-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160441,
+      "name": "Kommissar Brenkstrupp (Main Titles)",
+      "url": "https://open.spotify.com/track/5azy9UxSBD7XKgL83HOJDN"
+    },
+    {
+      "album": {
         "name": "Sobrevolando Instrumental",
         "url": "https://open.spotify.com/album/47OSRvZFU2wRfQy0UX68Xa"
       },
@@ -1816,6 +1900,24 @@
     },
     {
       "album": {
+        "name": "Black Earth",
+        "url": "https://open.spotify.com/album/2xDo02ZrqGjkkOcsm35E5L"
+      },
+      "artists": [
+        {
+          "name": "Bohren & Der Club Of Gore",
+          "url": "https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf"
+        }
+      ],
+      "date_added": "2022-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 458693,
+      "name": "Maximum Black",
+      "url": "https://open.spotify.com/track/6RHJvMCoUgQ5CSBFUEL9RI"
+    },
+    {
+      "album": {
         "name": "Midnight Horizon",
         "url": "https://open.spotify.com/album/4ENJxCNlfPvz3iBQpRIa35"
       },
@@ -1831,6 +1933,24 @@
       "duration_ms": 213026,
       "name": "Midnight Horizon",
       "url": "https://open.spotify.com/track/5cfK17MedUMS1ElYVFa3Uv"
+    },
+    {
+      "album": {
+        "name": "Midnight Radio",
+        "url": "https://open.spotify.com/album/6l8mnq08KVmXmsaIKSBCuX"
+      },
+      "artists": [
+        {
+          "name": "Bohren & Der Club Of Gore",
+          "url": "https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf"
+        }
+      ],
+      "date_added": "2022-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1353960,
+      "name": "Midnight Radio Track 1",
+      "url": "https://open.spotify.com/track/6shFSMxTjCAK20k5N3LeRA"
     },
     {
       "album": {
@@ -2133,7 +2253,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-04",
       "duration_ms": 256026,
       "name": "Open Hill",
       "url": "https://open.spotify.com/track/5z8WzfZK6sapGFHOUYxbHW"
@@ -2209,6 +2329,24 @@
       "duration_ms": 166428,
       "name": "Palaimon",
       "url": "https://open.spotify.com/track/4Xm8TxoL7mwBgkZIN0B9vL"
+    },
+    {
+      "album": {
+        "name": "Reflections 02",
+        "url": "https://open.spotify.com/album/33CSkPGUlGsQ6a4pBFfRL2"
+      },
+      "artists": [
+        {
+          "name": "Douran",
+          "url": "https://open.spotify.com/artist/3Rvdn0CASBunaYXQHEKIoQ"
+        }
+      ],
+      "date_added": "2022-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156201,
+      "name": "Passing Lights - Cinematic Version",
+      "url": "https://open.spotify.com/track/2W0euyZlyIjmwYNzEfcVwr"
     },
     {
       "album": {
@@ -2552,6 +2690,24 @@
     },
     {
       "album": {
+        "name": "Spring's Theme",
+        "url": "https://open.spotify.com/album/37IwVVxJcPuwz4p3LibbSD"
+      },
+      "artists": [
+        {
+          "name": "Surprise Chef",
+          "url": "https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj"
+        }
+      ],
+      "date_added": "2022-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229542,
+      "name": "Spring's Theme",
+      "url": "https://open.spotify.com/track/6HD2CBxIxy8ONoSvpZgvCj"
+    },
+    {
+      "album": {
         "name": "Death to the Planet",
         "url": "https://open.spotify.com/album/3qFgijcQbTS5frVRo3wt9R"
       },
@@ -2733,7 +2889,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-04",
       "duration_ms": 610386,
       "name": "Terrain: III",
       "url": "https://open.spotify.com/track/155m4l4LYVmscSUGWQXDEl"
@@ -3023,7 +3179,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-04",
       "duration_ms": 259724,
       "name": "Ugly Orange",
       "url": "https://open.spotify.com/track/4O2JBu39WoNet8tz3xOS2P"
@@ -3197,7 +3353,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-04",
       "duration_ms": 212712,
       "name": "Who Is Still Dreaming?",
       "url": "https://open.spotify.com/track/5HZOBZ7ugfGLcUMmoI9n1Z"

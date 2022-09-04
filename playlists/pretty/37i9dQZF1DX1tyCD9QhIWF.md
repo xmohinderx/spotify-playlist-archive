@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tyCD9QhIWF.md) - [plain]
 
 > Big riffs and pounding drums to help you strut the streets.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,224,351 likes - 55 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,218,680 likes - 55 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,10 +58,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tyCD9QhIWF.md) - [plain]
 | 48 | [Save Yourselves](https://open.spotify.com/track/30iYY7maOxnipdtsohgJlt) | [Superlove](https://open.spotify.com/artist/33esp5UFKcRpxcR4Xo0Sne) | [Save Yourselves](https://open.spotify.com/album/2nEm2s5PWaB6x95wjaxUuU) | 3:27 |
 | 49 | [Oh!](https://open.spotify.com/track/4e72LGraX8sW5iztJvS5fo) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Oh!](https://open.spotify.com/album/13YVOGugpbcH7MZCwDEWnE) | 2:35 |
 | 50 | [Doubt It](https://open.spotify.com/track/2eND3ds7B2pUtJgpQJv3r0) | [The Amazons](https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO) | [Future Dust](https://open.spotify.com/album/7sRAdyIMXnDLFiC6sVo2ke) | 4:51 |
-| 51 | [Apartment Complex on the Eastside](https://open.spotify.com/track/2nm0J9sicQTiW8M8k2yZ4x) | [Dylan Fraser](https://open.spotify.com/artist/6Awp6fgyzqQ2XuEvOMjq8D) | [Apartment Complex on the Eastside](https://open.spotify.com/album/52bzMUfIaS9YeVADl51eoT) | 4:07 |
+| 51 | [Apartment Complex on the Eastside](https://open.spotify.com/track/1cRk9clJhi67mcfTxNfnjU) | [Dylan Fraser](https://open.spotify.com/artist/6Awp6fgyzqQ2XuEvOMjq8D) | [It Took A Lot To Get To This](https://open.spotify.com/album/1E2ecZuSPG58MLkgglvFxZ) | 4:07 |
 | 52 | [Black Roller Coming](https://open.spotify.com/track/5OLFlnmmC8gQHiFisYvrAh) | [Philip Sayce](https://open.spotify.com/artist/5Npr4HpRE8YlsisRjN9T8h) | [Spirit Rising](https://open.spotify.com/album/3dQKiRCBLOnvRmfcTCJP0H) | 2:49 |
 | 53 | [Traps](https://open.spotify.com/track/2ZvxyrNMYKMTazLQI2v9BX) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Traps](https://open.spotify.com/album/0UdQroPXUq5V73zbzsGGrh) | 2:54 |
 | 54 | [Bittersweet Timpani](https://open.spotify.com/track/6RVCmLHvEn1ech97um5SN8) | [WOOZE](https://open.spotify.com/artist/2whltAXPg8ozoiC9U1knhA) | [Bittersweet Timpani](https://open.spotify.com/album/1KKcQ2AusgfLp87B2HpgkP) | 2:49 |
 | 55 | [Jackie](https://open.spotify.com/track/1tEePg2AqDdRWLgYovr3yE) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Jackie](https://open.spotify.com/album/2Q02pptKl3XlbHJWtQmHmJ) | 2:56 |
 
-Snapshot ID: `MTY1NDg2ODIxOCwwMDAwMDAwMGI0NDA4MzEyZDI1ZDk0OTcwYzM5MDQxMWM1Y2YyMGFj`
+Snapshot ID: `MTY1NDg2ODIxOCwwMDAwMDAwMDAzZDU1ZWJkOGZhMWVjYzhkZDE3YWZkNjllZGY5NmE5`

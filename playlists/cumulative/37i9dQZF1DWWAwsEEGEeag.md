@@ -4,7 +4,7 @@
 
 > On se retrouve au parc?
 
-112 songs - 6 hr 35 min - [published](https://open.spotify.com/playlist/1hQIUdoAweSwm2MugCosGW)
+113 songs - 6 hr 38 min - [published](https://open.spotify.com/playlist/1hQIUdoAweSwm2MugCosGW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [C'est tout](https://open.spotify.com/track/4GJE2R4A0VGUQjndarcFuq) | [Clay and Friends](https://open.spotify.com/artist/0lF1vCOKBjs21HtxkGmWIm) | [Grouillades](https://open.spotify.com/album/4v00M4ceOB1ZNO6Hq3xcty) | 2:37 | 2022-06-24 |  |
 | [Carré Saint\-Louis](https://open.spotify.com/track/1YkNLHS0VUiLL9nKOID14Q) | [Kirouac](https://open.spotify.com/artist/6w8havv68HkDeiH6Tei3bt), [Kodakludo](https://open.spotify.com/artist/52ScNDotCN180BnXLSFiiQ) | [Les Gradins](https://open.spotify.com/album/4gRjWLWLsBAaIwx2XpfCQL) | 2:33 | 2022-06-24 |  |
 | [Casse\-cou](https://open.spotify.com/track/0tKyyTsiNdilQyQuDQHLU7) | [Xela Edna](https://open.spotify.com/artist/5uurP255LK3PxVKgkZWMdS), [Eius Echo](https://open.spotify.com/artist/5HKktNgsAXBcjWG4frwBmE) | [Bulle](https://open.spotify.com/album/2d48WjzpUsNHq9NkSxmbXN) | 3:06 | 2022-06-24 |  |
+| [Celle\-là](https://open.spotify.com/track/1zm0GXo74RpE4oZfvq2gEV) | [Grand Eugène](https://open.spotify.com/artist/15HoDsauDCgOxvCFijHxdT) | [Celle\-là](https://open.spotify.com/album/416sctnWh0f51OgNPvAhnP) | 3:18 | 2022-09-04 |  |
 | [Comment tu vas finir](https://open.spotify.com/track/4I0ZSC98oOw0S1f9cb9qxT) | [Vendredi sur Mer](https://open.spotify.com/artist/0wuuYZFptujAsRthrdea2B) | [Comment tu vas finir](https://open.spotify.com/album/7cJZ69AZhMMGk87nRwY8sz) | 2:29 | 2022-06-24 |  |
 | [Daddy](https://open.spotify.com/track/4NuHkMJ4V4MKv0U9GuVvPJ) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Phoenix](https://open.spotify.com/album/2jpQor1ZFocZF7Io0eI8mR) | 2:50 | 2022-06-24 |  |
 | [Dans la foule](https://open.spotify.com/track/4aHcCqmJMCpoak538zShNa) | [Marilyne Léonard](https://open.spotify.com/artist/00WvHy3wvdUV4WSvvc0N5p) | [Vie d'ange](https://open.spotify.com/album/02sz0knMpefNYQB2vYLthH) | 2:34 | 2022-06-24 |  |

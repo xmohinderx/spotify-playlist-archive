@@ -2,7 +2,7 @@
 
 ### [Essential Indie](https://open.spotify.com/playlist/37i9dQZF1DX26DKvjp0s9M)
 
-> those core tracks that stand will the test of time...\. Cover: Phoebe Bridgers
+> really good indie songs...\. Cover: Phoebe Bridgers
 
 463 songs - 1 day 5 hr 50 min - [published](https://open.spotify.com/playlist/3bETkXXSq4lQrH2ppPTrRl)
 

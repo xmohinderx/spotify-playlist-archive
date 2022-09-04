@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nb8GbLLOhT.md) - [plain]
 
 > Classic songs like you've never heard before\. Cover: Zara Larsson.
 
-[Spotify](https://open.spotify.com/user/spotify) - 276,400 likes - 115 songs - 7 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 276,270 likes - 115 songs - 7 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

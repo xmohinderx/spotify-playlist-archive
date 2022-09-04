@@ -1153,7 +1153,7 @@
       ],
       "date_added": "2021-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-04",
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
@@ -3673,7 +3673,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-04",
       "duration_ms": 248910,
       "name": "Deszcz Na Betonie",
       "url": "https://open.spotify.com/track/2OMb9H6JEz0sWzqdmuJrSo"
@@ -5523,7 +5523,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-04",
       "duration_ms": 238805,
       "name": "Heat Waves",
       "url": "https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx"
@@ -5625,6 +5625,32 @@
       "duration_ms": 216315,
       "name": "HGH",
       "url": "https://open.spotify.com/track/7j0FLIZT4tKZrKbaAsJPfd"
+    },
+    {
+      "album": {
+        "name": "Hit na wakacje",
+        "url": "https://open.spotify.com/album/45nvPcyCmlzyrsyawmv3UG"
+      },
+      "artists": [
+        {
+          "name": "Beteo",
+          "url": "https://open.spotify.com/artist/0kh9Gvy9lGZsq84x7I37DC"
+        },
+        {
+          "name": "Bia\u0142as",
+          "url": "https://open.spotify.com/artist/2ufQfSFDFXfMS7MEMzdGZE"
+        },
+        {
+          "name": "Kronkel Dom",
+          "url": "https://open.spotify.com/artist/1dkyORGHN0TOmjzu5qCO45"
+        }
+      ],
+      "date_added": "2022-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148701,
+      "name": "Hit na wakacje",
+      "url": "https://open.spotify.com/track/1gjtFBazyYCP8mpSlGDFCR"
     },
     {
       "album": {
@@ -13796,6 +13822,28 @@
     },
     {
       "album": {
+        "name": "SI\u0118 WJE\u017bD\u017bA",
+        "url": "https://open.spotify.com/album/4gdA2bLBvDoTq5ymkn8rP0"
+      },
+      "artists": [
+        {
+          "name": "W\u0141ODAR",
+          "url": "https://open.spotify.com/artist/1H8lEfbUpbcXWFqbW9BMro"
+        },
+        {
+          "name": "Pedro",
+          "url": "https://open.spotify.com/artist/2LI7lXaNJU420lffFWJUcT"
+        }
+      ],
+      "date_added": "2022-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121333,
+      "name": "SI\u0118 WJE\u017bD\u017bA",
+      "url": "https://open.spotify.com/track/2yEWVnp65tTXSrRW03IqXs"
+    },
+    {
+      "album": {
         "name": "M\u0142ody Matczak",
         "url": "https://open.spotify.com/album/7vYR7oLh93zb38m880M8bd"
       },
@@ -13869,6 +13917,24 @@
       "duration_ms": 181266,
       "name": "Sleigh Ride",
       "url": "https://open.spotify.com/track/7fUYUcWy853HS8YJn0b3Sr"
+    },
+    {
+      "album": {
+        "name": "SNAP PACK",
+        "url": "https://open.spotify.com/album/2nzuzJvr3yowqbPaYjEYof"
+      },
+      "artists": [
+        {
+          "name": "Rosa Linn",
+          "url": "https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1"
+        }
+      ],
+      "date_added": "2022-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179551,
+      "name": "SNAP",
+      "url": "https://open.spotify.com/track/6zJejIfVYLgjud3lTk4DLB"
     },
     {
       "album": {

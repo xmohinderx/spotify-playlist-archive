@@ -4,7 +4,7 @@
 
 > The hottest local and global tracks in Pakistan\. Cover \- Asim Azhar
 
-79 songs - 4 hr 52 min - [published](https://open.spotify.com/playlist/7dqZIhUmQUoc5otwsdY7F6)
+80 songs - 4 hr 55 min - [published](https://open.spotify.com/playlist/7dqZIhUmQUoc5otwsdY7F6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,8 @@
 | [Mehram](https://open.spotify.com/track/2oi55VmillH7At5wHVNFbE) | [Asfar Hussain](https://open.spotify.com/artist/7lDDbppbcK5F2ZJXG12pru), [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Mehram](https://open.spotify.com/album/1I7fGWBGZzOfsbkxxLGSyq) | 5:38 | 2022-06-20 |  |
 | [Na Cher Malangaan Nu](https://open.spotify.com/track/2mkzhEH79XteEuzHjenNeg) | [Farhan Saeed](https://open.spotify.com/artist/1W67L8OH9z7C3b9YJJbVYq), [Aima Baig](https://open.spotify.com/artist/2MNI4W0Pblx8NF4WvutxgA) | [Na Cher Malangaan Nu](https://open.spotify.com/album/7a4HZHmiFNNqIWt37271SG) | 3:50 | 2022-06-20 |  |
 | [Neray Neray Vas](https://open.spotify.com/track/5P9gtOtId7RoyakIvlPGwM) | [Soch the Band](https://open.spotify.com/artist/1Z6C3R1dyF4aTvBofGXGfp), [Butt Brothers](https://open.spotify.com/artist/6KaZO6OFp295joGZ74oY5U) | [Neray Neray Vas](https://open.spotify.com/album/6EpM6TDOrXbJp65oKySgCt) | 3:47 | 2022-06-20 |  |
-| [NO LOVE](https://open.spotify.com/track/5B4YQN1FCuADJ0o4phAtwC) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [NO LOVE](https://open.spotify.com/album/71z4Ni4FHsAUWpcy1oFmOT) | 2:50 | 2022-06-20 |  |
+| [NO LOVE](https://open.spotify.com/track/08Isz2ETWSBhvIl8UpKYsp) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [No Love](https://open.spotify.com/album/5Zcgog7sQ79ISF32y9nABU) | 2:50 | 2022-08-29 |  |
+| [NO LOVE](https://open.spotify.com/track/5B4YQN1FCuADJ0o4phAtwC) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [NO LOVE](https://open.spotify.com/album/71z4Ni4FHsAUWpcy1oFmOT) | 2:50 | 2022-06-20 | 2022-09-04 |
 | [No Other Place](https://open.spotify.com/track/1GwcxZZvnshqiDqeD7EP8D) | [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi), [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci) | [No Other Place](https://open.spotify.com/album/3XeDCITy8mOpFzCgixAO9a) | 3:10 | 2022-08-01 |  |
 | [O Dilbar Yaara](https://open.spotify.com/track/2nQVRbfQGjuTBUcm2U7IFS) | [Stebin Ben](https://open.spotify.com/artist/1UAzmnFgjizIDvtHvnCdEq), [Harish Sagane](https://open.spotify.com/artist/5v3LPrihYPF2Uu9jDEKnjx) | [O Dilbar Yaara](https://open.spotify.com/album/6rUMXXQO14DdSACVWzLeE6) | 6:02 | 2022-06-20 |  |
 | [Pasoori](https://open.spotify.com/track/7lvDsmTRXFE3dK4OjvRiWB) | [Shae Gill](https://open.spotify.com/artist/3bWIy9AUrQdiNeS62Bp3OP), [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl) | [Pasoori](https://open.spotify.com/album/7wgrW5XyZdtk0K8PkW5A7h) | 3:44 | 2022-06-20 |  |

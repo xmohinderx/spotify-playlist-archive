@@ -4,7 +4,7 @@
 
 > Acoustic rock and pop that makes you feel good.
 
-321 songs - 18 hr 1 min - [published](https://open.spotify.com/playlist/5SMRRjXySBkzQLNwWcY7ex)
+322 songs - 18 hr 4 min - [published](https://open.spotify.com/playlist/5SMRRjXySBkzQLNwWcY7ex)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,8 @@
 | [Blank Space/Stand By Me \- Live From Spotify London](https://open.spotify.com/track/3Dbgo1HE3DErIBNDIO4Hyd) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Imagine Dragons \(Spotify Sessions\)](https://open.spotify.com/album/0XMkrjoxpwaGgb6MYgv2gA) | 5:03 | 2021-03-12 |  |
 | [Bloom \- Bonus Track](https://open.spotify.com/track/1HMQmOWrkieKYWlFsjUP3D) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [Woodland](https://open.spotify.com/album/1lq6KMHFACcE6GQZysxnSZ) | 3:30 | 2022-04-22 |  |
 | [Bloom \- Bonus Track](https://open.spotify.com/track/41yIvlFgvGwxq8qTqAR7eG) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [Woodland \- EP](https://open.spotify.com/album/5l8axHOB8sCsWqfK5XVtbF) | 3:30 | 2021-03-12 | 2022-07-29 |
-| [Breakeven \(Acoustic\)](https://open.spotify.com/track/13KmiyueaRdBDC5SY4oxPI) | [Maddi Jane](https://open.spotify.com/artist/6p0HFtE6QhdHNY1H4Nk0mo) | [Unreleased \(EP\)](https://open.spotify.com/album/3pplGqCt5EYp1Mc9yv56td) | 3:25 | 2021-03-12 |  |
+| [Breakeven](https://open.spotify.com/track/4C3ln6RkjVX4diPfLbwaK2) | [Maddi Jane](https://open.spotify.com/artist/6p0HFtE6QhdHNY1H4Nk0mo) | [Unreleased](https://open.spotify.com/album/4Jz3pcEQIWsUK3aWzcJ6b1) | 3:25 | 2022-04-22 |  |
+| [Breakeven \(Acoustic\)](https://open.spotify.com/track/13KmiyueaRdBDC5SY4oxPI) | [Maddi Jane](https://open.spotify.com/artist/6p0HFtE6QhdHNY1H4Nk0mo) | [Unreleased \(EP\)](https://open.spotify.com/album/3pplGqCt5EYp1Mc9yv56td) | 3:25 | 2021-03-12 | 2022-09-04 |
 | [Breathe \- Acoustic](https://open.spotify.com/track/3PRpinHSGqytZnOKwCsR7l) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Ina Wroldsen](https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3) | [Breathe \(Acoustic\)](https://open.spotify.com/album/4a0yxalMXVlLFNuX6dAdkI) | 3:51 | 2022-04-22 |  |
 | [Breathe \- Acoustic](https://open.spotify.com/track/3eiY1jAroh5xlT9qd1KEA8) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Ina Wroldsen](https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3) | [Breathe \(Acoustic\)](https://open.spotify.com/album/6U4ZNqzqc79i1ZZBialhPV) | 3:51 | 2021-03-12 | 2022-07-29 |
 | [Bright](https://open.spotify.com/track/3WKg25vrbjJlkhsgl2W4p3) | [Echosmith](https://open.spotify.com/artist/1PbBg2aYjWLKRk84zJK15x) | [Talking Dreams \(Deluxe Edition\)](https://open.spotify.com/album/1oHY6eQmEG8skElDvFgKz2) | 3:40 | 2021-03-12 |  |

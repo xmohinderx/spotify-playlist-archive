@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbwlv3Vmtr.md) - [plain]
 
 > Uptempo instrumental hip hop beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 320,622 likes - 295 songs - 11 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 320,231 likes - 295 songs - 11 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -148,7 +148,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbwlv3Vmtr.md) - [plain]
 | 138 | [I.](https://open.spotify.com/track/6A5EYxkV7gzZv3PW96u3Jf) | [Seb Zillner](https://open.spotify.com/artist/7JbVYHCk4gezX4sZTFW50x), [A N T I T H E S I S](https://open.spotify.com/artist/1sbuH2QadilkAzCOOrjHuf) | [I.](https://open.spotify.com/album/0vBKiSgFfpnnAD37wjuicI) | 2:07 |
 | 139 | [Raw Takes](https://open.spotify.com/track/04DVUpEzu58MzRgtDwkMbj) | [Nova Calma](https://open.spotify.com/artist/732aFMojr4rC3Q2DAstddk) | [Raw Takes](https://open.spotify.com/album/6BE59ToxBekXRmNmIFj35W) | 2:01 |
 | 140 | [Really Get Going](https://open.spotify.com/track/69Go42QZw7dC2Ehl0pZhCi) | [Steefann](https://open.spotify.com/artist/6bQY0OdvrUz4BUlajKcLfF) | [Really Get Going](https://open.spotify.com/album/4MACdcvjpSigHwHLxWDhyx) | 2:35 |
-| 141 | [Purple love](https://open.spotify.com/track/62zRN7mgvNl61YSXGjGXk4) | [Oscar](https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F) | [Sandman Express](https://open.spotify.com/album/2tg3PxwbIdpQW8OQq18yMw) | 1:52 |
+| 141 | [Purple love](https://open.spotify.com/track/62zRN7mgvNl61YSXGjGXk4) | [Oscar](https://open.spotify.com/artist/5ezLUfvnIzXoZIIVGHaReU) | [Sandman Express](https://open.spotify.com/album/2tg3PxwbIdpQW8OQq18yMw) | 1:52 |
 | 142 | [yeppurs](https://open.spotify.com/track/5P14FWcco2lfKl8ivOYIBL) | [pukks](https://open.spotify.com/artist/13FOxVWcunkuGPcJrulWhy) | [jalapeno](https://open.spotify.com/album/671hq6yLBZGDj3c8rikD1L) | 1:56 |
 | 143 | [Lakeview Hotel](https://open.spotify.com/track/64KLZ6ghwEzRH6yAoNfEj2) | [Berezy](https://open.spotify.com/artist/3XrRt4tc8xQk7ANDbJjZsv), [Charlie Young](https://open.spotify.com/artist/5HPpufL8VIMnpG7423YMmH) | [Lakeview Hotel](https://open.spotify.com/album/0e5iO95x8kua0wwFU0H3qe) | 2:33 |
 | 144 | [Wisps Of Mist](https://open.spotify.com/track/2kfrKI1L3INqbbTY7zDWZ5) | [Kosibeats](https://open.spotify.com/artist/2Yrmz6F0FhNkIVOt2Lfco3), [Whilst](https://open.spotify.com/artist/1TuQVlt2pf14yyNcXunZYt), [Disruptive LoFi](https://open.spotify.com/artist/7EvLN33JkyPlB7gpnonjHI) | [Wisps Of Mist](https://open.spotify.com/album/3ojY79JiyqFY39CIwmZ5oD) | 2:26 |

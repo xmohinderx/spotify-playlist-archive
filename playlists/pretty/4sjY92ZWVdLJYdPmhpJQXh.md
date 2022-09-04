@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4sjY92ZWVdLJYdPmhpJQXh.md) - [plain]
 
 > Atlantic Records Presents the hottest tracks in hip\-hop, pop, rock, R&amp;B, indie and more! Updated every Friday.
 
-[Atlantic Records](https://open.spotify.com/user/atlanticrecords) - 1,798 likes - 247 songs - 12 hr 36 min
+[Atlantic Records](https://open.spotify.com/user/atlanticrecords) - 1,799 likes - 247 songs - 12 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/4sjY92ZWVdLJYdPmhpJQXh.md) - [plain]
 | 22 | [deep in the woods](https://open.spotify.com/track/7ayHmrEXPuiglJ1pYlko8h) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [deep in the woods](https://open.spotify.com/album/6p1H52i4HyDOrdrBUF0uI4) | 3:09 |
 | 23 | [Heaven](https://open.spotify.com/track/1NZLDZsqmvMVcZ02VT7ocP) | [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl) | [Heaven](https://open.spotify.com/album/6EuPz5zzV6JLMZKrb7LIsu) | 2:33 |
 | 24 | [Anymore](https://open.spotify.com/track/0UYbhQk9tUzDeqjcsfDFRF) | [YAZ](https://open.spotify.com/artist/6VvnLfGL8XDQomLEa91WPk) | [Anymore](https://open.spotify.com/album/78Q3dFiGFA9wZwpm9OSocq) | 2:30 |
-| 25 | [Marvelous \- Cole’s Remix](https://open.spotify.com/track/6w7u9kB9gENQ25suvLegnp) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Marvelous \(Cole’s Remix\)](https://open.spotify.com/album/2yATDc7E7X8Zf2sJAAGtYa) | 2:52 |
+| 25 | [Marvelous \(Cole’s Remix\)](https://open.spotify.com/track/6w7u9kB9gENQ25suvLegnp) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Marvelous \(Cole’s Remix\)](https://open.spotify.com/album/2yATDc7E7X8Zf2sJAAGtYa) | 2:52 |
 | 26 | [Brookside](https://open.spotify.com/track/0QrUHth89AZoSEOulOxxrL) | [Jasper Harris](https://open.spotify.com/artist/57B9ghF6pGxBzFfOYLAcRA) | [Brookside](https://open.spotify.com/album/4mHry3qZOH7EhrNYtjAeTB) | 1:12 |
 | 27 | [I Don't Even Like You Anymore](https://open.spotify.com/track/7koGk306I3JDprGGzmUIxJ) | [Anna Clendening](https://open.spotify.com/artist/2y9j8qUwBMGPYPQJJxmYzD) | [I Don’t Even Like You Anymore](https://open.spotify.com/album/41exvDW7H42gOcxfr2DQ3P) | 2:58 |
 | 28 | [Hot In It](https://open.spotify.com/track/3Z7CaxQkqbIs1rewKi6v4W) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Hot In It](https://open.spotify.com/album/6R7Yy0sY9N8PNUhseegr2Q) | 2:09 |

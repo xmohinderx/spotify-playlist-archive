@@ -4,7 +4,7 @@
 
 > Highlighting <a href="http://noteable.spotify.com">Noteable</a> songs that are 100% written, produced, and performed by women! Cover: <a href="https://open.spotify.com/artist/6I7IZDntAGBmzkCANUmtV0?si=Gula4\_5ZTymyI\_GI7XL9mA">Payday</a> and Sophie Gray
 
-327 songs - 18 hr 20 min - [published](https://open.spotify.com/playlist/4frft2pyObjR6lkHbPcXin)
+328 songs - 18 hr 24 min - [published](https://open.spotify.com/playlist/4frft2pyObjR6lkHbPcXin)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,7 +128,8 @@
 | [Heart of Gold](https://open.spotify.com/track/2ga7Q3rTCWzOBqe4l3qrks) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [One Foot In Front Of The Other](https://open.spotify.com/album/6CR4ozv4yOdaA3f6PPQepA) | 2:36 | 2022-06-01 | 2022-07-07 |
 | [Heatwave](https://open.spotify.com/track/6rKD9axpeGAKgytwctW7f4) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Little Oblivions](https://open.spotify.com/album/3IQRHa9iVLsGlSuVHiHZ3A) | 2:44 | 2021-12-08 | 2022-01-06 |
 | [High](https://open.spotify.com/track/6rRGtOgUxgARW5QXK2k9EY) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [High](https://open.spotify.com/album/2xbSaikAqmnjC9YuYjYPxM) | 3:50 | 2022-03-08 | 2022-04-07 |
-| [High Off This](https://open.spotify.com/track/7k71m4zA8wS1y773xGE6RE) | [Emmavie](https://open.spotify.com/artist/30SZetOBMEael27tboxz7f) | [High Off This \(Remixes\)](https://open.spotify.com/album/25uAwymcG1kgVUJjowwsMg) | 3:52 | 2022-08-03 |  |
+| [High Off This](https://open.spotify.com/track/7ICKghYDy3ISlSZhtFTRBs) | [Emmavie](https://open.spotify.com/artist/30SZetOBMEael27tboxz7f) | [Honeymoon](https://open.spotify.com/album/6R0n0ocKsjOlz4LwKz2gCr) | 3:52 | 2022-08-03 |  |
+| [High Off This](https://open.spotify.com/track/7k71m4zA8wS1y773xGE6RE) | [Emmavie](https://open.spotify.com/artist/30SZetOBMEael27tboxz7f) | [High Off This \(Remixes\)](https://open.spotify.com/album/25uAwymcG1kgVUJjowwsMg) | 3:52 | 2022-08-03 | 2022-09-04 |
 | [Hills Of Fire](https://open.spotify.com/track/3FMJQgm2EIIaUiQXR3r36y) | [Sarah Kinsley](https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC) | [Hills Of Fire](https://open.spotify.com/album/1YIf7cUYKJoMrR6LnY0seU) | 3:53 | 2022-06-01 | 2022-07-07 |
 | [home](https://open.spotify.com/track/6Hl5dmIotzJ28pM5Fpsgq7) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [home](https://open.spotify.com/album/0ar0HuyI7ELptzJi1O0WhF) | 3:39 | 2022-07-06 | 2022-08-04 |
 | [Honey](https://open.spotify.com/track/77EPrIPeOQwbFhZKxN9fpL) | [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [Unconditional](https://open.spotify.com/album/00mGia1ICQJU32dMiWOtfJ) | 3:21 | 2021-12-08 | 2022-01-06 |

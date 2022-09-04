@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ux6OGNoFON.md) - [plain]
 
 > Saca, prende y sorprende con esta selección de buenas vibras\. Foto: Dread Mar I
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,352 likes - 60 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,464 likes - 60 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ux6OGNoFON.md) - [plain]
 | 44 | [Tranquiliboy](https://open.spotify.com/track/3IyiIBDEQmWP9Y17ueWWMB) | [La Merfi](https://open.spotify.com/artist/5TXJa9XiARe5SWqn8m5J9R) | [Tranquiliboy](https://open.spotify.com/album/6rHuYjxs5Oyu8Dqs0Jtbr7) | 2:46 |
 | 45 | [Bici My Love](https://open.spotify.com/track/22BdgcWpAFu7MLOg5pLOWP) | [De Bruces A Mi](https://open.spotify.com/artist/0Mib7yfd1ByhIhA1DmEeMg) | [Bici My Love](https://open.spotify.com/album/6sQV2XIyeMbmR8eADmkoZU) | 2:39 |
 | 46 | [Voló](https://open.spotify.com/track/4IXek6EkG8BwxvP9ODN5Fo) | [Golden Ganga](https://open.spotify.com/artist/54P0u0BOmRdmtEVPgcoZy0) | [Voló](https://open.spotify.com/album/35km1sHybswdMTiBP2Tpv8) | 4:24 |
-| 47 | [Sentimiento Irie](https://open.spotify.com/track/2dBnP0azB88OTcJyc8WHLi) | [La Tifa](https://open.spotify.com/artist/4iEgVksJc31oR01iG8vhGh) | [Pueblo](https://open.spotify.com/album/2DE9zXvLrBZn6YLrNtocGe) | 3:48 |
+| 47 | [Sentimiento Irie](https://open.spotify.com/track/2djzPkM3Py7pAnNkgyKCH1) | [La Tifa](https://open.spotify.com/artist/4iEgVksJc31oR01iG8vhGh) | [Pueblo](https://open.spotify.com/album/2dB1lYA9YReuwbJP7IUlEu) | 3:48 |
 | 48 | [Llamado](https://open.spotify.com/track/2JhNQJoJYc7SWkZgdVpGin) | [Movimiento Original](https://open.spotify.com/artist/50u2mXgysmTttY0BizYWAo), [Anblessnabi](https://open.spotify.com/artist/3uqqh1xh1gsFU2LRewg4x7) | [Llamado](https://open.spotify.com/album/0W6E96gtjauTn9qfb8yA0H) | 3:45 |
 | 49 | [Suavemente](https://open.spotify.com/track/0YZyA7EF2LeTat01RWWzGQ) | [Don Páli](https://open.spotify.com/artist/0vmHcxir9eaM0VLfstxKMt) | [Suavemente](https://open.spotify.com/album/7qRi1ylJhlb2Kr5Fb6XF4Q) | 4:30 |
 | 50 | [Qué es Vivir \(What is Life\)](https://open.spotify.com/track/0iOv981COUDmcUin4dTmaU) | [Los Guardianes de Gregory](https://open.spotify.com/artist/7yysL6dfPj3b9XHyZWkUWL), [Bahiano](https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN) | [Sonidos de Libertad](https://open.spotify.com/album/7JpJFHhcMt2EjqNXkeMyE4) | 5:56 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ux6OGNoFON.md) - [plain]
 | 59 | [Mira Bien](https://open.spotify.com/track/55QuN0qYc4pnb001Ns8ZsK) | [Cestar](https://open.spotify.com/artist/1p5MGlN01vwR008ce7818d), [Quique Neira](https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe) | [Mira Bien](https://open.spotify.com/album/1dGNnwFx3AGB9cl38NQjf3) | 3:19 |
 | 60 | [Llena Mi Vida](https://open.spotify.com/track/1rSDWwJkMrxCChahQDnkfu) | [Bamboo](https://open.spotify.com/artist/4Mp4FOTjHHQlFJki4p1lpZ), [Big Mountain](https://open.spotify.com/artist/0Jeckitay8SbvKwqAzWuYH) | [Llena Mi Vida](https://open.spotify.com/album/7xlXTMCcCDO7aapw0CRd7G) | 4:25 |
 
-Snapshot ID: `MTY1NjY1MTYwMCwwMDAwMDAwMDZlZWRiNDgzNWVlOWZmZDIzNzhkYTcwNjQ5ODhhZjM1`
+Snapshot ID: `MTY1NjY1MTYwMCwwMDAwMDAwMGM3MDExZWViNmFlZTYyMmFlZGU0NDlhNTNiYjBlMWJh`

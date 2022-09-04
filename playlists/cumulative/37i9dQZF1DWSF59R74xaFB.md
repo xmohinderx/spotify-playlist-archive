@@ -4,7 +4,7 @@
 
 > El amor no se escucha, se siente...
 
-352 songs - 21 hr 36 min - [published](https://open.spotify.com/playlist/59UyBs8MpCXHCEwX4JQKmo)
+353 songs - 21 hr 39 min - [published](https://open.spotify.com/playlist/59UyBs8MpCXHCEwX4JQKmo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,7 +155,7 @@
 | [Hay Una Luz Dentro De Ti](https://open.spotify.com/track/4nM3e7Ignsc1HgUCqnNwNb) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Hay Una Luz Dentro De Ti](https://open.spotify.com/album/4QqpcOcxeFf61xYcKyiaaI) | 3:05 | 2021-10-21 | 2022-06-20 |
 | [Haz Lo Que Quieras](https://open.spotify.com/track/6VxuSFyAV3AjGsmI4GQq8d) | [Haze](https://open.spotify.com/artist/77iZVjeYoYSl5P0K9mIiUE), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Haz Lo Que Quieras](https://open.spotify.com/album/0DAzZb56XTRFZYgQQIBwP8) | 3:51 | 2021-10-21 | 2022-04-21 |
 | [he preparao café](https://open.spotify.com/track/5bERNOugyQW16S5o5Js5Em) | [Bely Basarte](https://open.spotify.com/artist/6akDfyocmsREgR5eUXZt3I) | [he preparao café](https://open.spotify.com/album/4cXG2m0hKVIjpN7fDrxZFf) | 4:33 | 2022-02-25 | 2022-04-20 |
-| [Heroe](https://open.spotify.com/track/4AkrkORGjiz7c90mwxAvdW) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [Escape](https://open.spotify.com/album/045SvC3Y4s8F4BmgZbZ1yt) | 4:23 | 2021-10-21 |  |
+| [Heroe](https://open.spotify.com/track/4AkrkORGjiz7c90mwxAvdW) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [Escape](https://open.spotify.com/album/045SvC3Y4s8F4BmgZbZ1yt) | 4:23 | 2021-10-21 | 2022-09-04 |
 | [Hoy Te Quiero Ver](https://open.spotify.com/track/6hAXI7z8UtMDEL4B7OHIaA) | [Angie Vazquez](https://open.spotify.com/artist/0iLUxaOduzrvmapRsqxB8s) | [Hoy Te Quiero Ver](https://open.spotify.com/album/7dw571unUolJcPGlAvGAlA) | 3:46 | 2022-08-19 | 2022-09-01 |
 | [Háblame de Ti](https://open.spotify.com/track/0IyiKR4HMc4NMq2TgAXgQl) | [Paté de Fuá](https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa) | [Háblame de Ti](https://open.spotify.com/album/1w77qD5A199FETNc5k7UBZ) | 4:18 | 2021-10-21 | 2022-07-13 |
 | [Imagina](https://open.spotify.com/track/4Fe2oAGo6fmPVwBNkbEdw1) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Clichés](https://open.spotify.com/album/1HX7p55GnAwv6kPb9m0Qs9) | 3:44 | 2022-05-18 | 2022-07-01 |
@@ -342,6 +342,7 @@
 | [Vivimos siempre juntos \(feat\. Mercedes Ferrer\)](https://open.spotify.com/track/6ijh6CO529euKaq3YfSuCZ) | [Nacho Cano](https://open.spotify.com/artist/3sNPNZwXgDcCY71Jqa7kMe), [Mercedes Ferrer](https://open.spotify.com/artist/6iIXnmfNddiSobGZBeCzKP) | [El Lado Femenino](https://open.spotify.com/album/5epXUgtaiNxxX9upyfN7Fy) | 4:15 | 2021-10-21 | 2022-04-21 |
 | [VIVIR ASÍ ES MORIR DE AMOR](https://open.spotify.com/track/75HnDKDqsmEzdOKFWe5FZS) | [Nathy Peluso](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [VIVIR ASÍ ES MORIR DE AMOR](https://open.spotify.com/album/3jHBdwS3nCuPC6lThrFJba) | 4:17 | 2022-02-08 |  |
 | [Volare](https://open.spotify.com/track/6TCnhziFkBPhOTqvh8zVDU) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Volare](https://open.spotify.com/album/56qdykzNrRw4ls93MBNKZc) | 2:27 | 2022-07-11 |  |
+| [Volver A Empezar](https://open.spotify.com/track/2UuR56kahTzNGArpn3PWEF) | [Kaia Lana](https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ) | [Volver A Empezar](https://open.spotify.com/album/2u7Y1Qyval9xBgqWo26ivN) | 2:55 | 2022-09-03 |  |
 | [Vuelve](https://open.spotify.com/track/3OK8WgNRmp4F3ahXe6XX6l) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Vuelve](https://open.spotify.com/album/3B7djG7pr1PycUJiWW6NQL) | 5:07 | 2021-10-21 |  |
 | [Vuelves \- Si Fuera Mía](https://open.spotify.com/track/6aYUvElyaBXbE5RBgdoJ8u) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [Vuelves \(Si Fuera Mía\)](https://open.spotify.com/album/5HS8cB5Ql31rfb5UjaCaYU) | 3:21 | 2021-10-21 | 2022-07-28 |
 | [Whisky](https://open.spotify.com/track/3YNtQ1j13MNwbOY1KxtTcS) | [Niño Etc.](https://open.spotify.com/artist/4AjkGn28sERGr75M5kcvqn), [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Whisky](https://open.spotify.com/album/4HYSkSJVXmPqv7gIt6cSTq) | 3:15 | 2022-03-18 | 2022-04-20 |

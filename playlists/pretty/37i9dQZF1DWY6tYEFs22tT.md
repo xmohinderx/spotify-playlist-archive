@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6tYEFs22tT.md) - [plain]
 
 > The latest, and greatest in Hip\-Hop! Cover: Drake
 
-[Spotify](https://open.spotify.com/user/spotify) - 813,769 likes - 74 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 814,123 likes - 74 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6tYEFs22tT.md) - [plain]
 | 23 | [Blame Me](https://open.spotify.com/track/3cxLYJ38ReOdnWNMGsR2WR) | [Pressa](https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy) | [Blame Me](https://open.spotify.com/album/3mRoh87HR5ixABjz2OWbZe) | 3:32 |
 | 24 | [Wrong Decisions](https://open.spotify.com/track/51tMT5eSEaUo40GcSjTZZt) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [Wrong Decisions](https://open.spotify.com/album/77P2YNeTVk6kXjgEsz6dCD) | 2:59 |
 | 25 | [Too Much \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/7pZeacKYnK4unCplCmI2qb) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Too Much \(feat\. Moneybagg Yo\)](https://open.spotify.com/album/0R87OEh0NzfdjavsrmrGtj) | 3:08 |
-| 26 | [I Ain’t Gone Hold Ya](https://open.spotify.com/track/2jCQXY0zjBdSpp12egn0Wo) | [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG), [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH) | [I Ain’t Gone Hold Ya](https://open.spotify.com/album/3ZuQtnBkECX096kcyhoISC) | 2:19 |
+| 26 | [I Ain’t Gon Hold Ya](https://open.spotify.com/track/2jCQXY0zjBdSpp12egn0Wo) | [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG), [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH) | [I Ain’t Gon Hold Ya](https://open.spotify.com/album/3ZuQtnBkECX096kcyhoISC) | 2:19 |
 | 27 | [Haitian Scarface](https://open.spotify.com/track/6HW0HSK7j7FHeFlxqNdKR4) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Haitian Scarface](https://open.spotify.com/album/0Dvd4RQ44MBoK0eslFXDpP) | 2:25 |
 | 28 | [Big Steppa](https://open.spotify.com/track/4wS4YABWUMDxcbImu3llWL) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [You Still Here, Ho ?](https://open.spotify.com/album/42C76ZnwdWqEu6zs6NFW1A) | 2:27 |
 | 29 | [BILLIE EILISH.](https://open.spotify.com/track/27ZZdyTSQWI7Cug2d2PkqV) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [BILLIE EILISH.](https://open.spotify.com/album/4MajX5vPeY4cX5pv6rf0sA) | 1:39 |

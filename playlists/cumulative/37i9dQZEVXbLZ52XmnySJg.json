@@ -135,7 +135,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-04",
       "duration_ms": 221271,
       "name": "Aankhon Se Batana",
       "url": "https://open.spotify.com/track/1ZiReD9pPTttQWwSoYqdyH"
@@ -4027,7 +4027,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-04",
       "duration_ms": 258857,
       "name": "Ik Lamha",
       "url": "https://open.spotify.com/track/6KtSNVgCmQEvDgIuHoXAkT"
@@ -4217,7 +4217,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-04",
       "duration_ms": 218808,
       "name": "Inthandham (From \"Sita Ramam (Telugu)\")",
       "url": "https://open.spotify.com/track/3BVjPpVvki8Jpm1Ew21UjH"
@@ -5979,7 +5979,7 @@
       ],
       "date_added": "2022-08-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-31",
+      "date_removed": null,
       "duration_ms": 200000,
       "name": "Manavaalan Thug - From \"Thallumaala\"",
       "url": "https://open.spotify.com/track/0MHiYjjcHNYM9KURa6NveF"
@@ -6701,7 +6701,7 @@
       ],
       "date_added": "2021-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-03",
+      "date_removed": null,
       "duration_ms": 208000,
       "name": "Na Ja",
       "url": "https://open.spotify.com/track/32LKwbmh6yVsWoRRF8DIvf"
@@ -6901,6 +6901,28 @@
       "duration_ms": 193116,
       "name": "Nanchaku",
       "url": "https://open.spotify.com/track/6YwiqqQ5xoeUkPwrn9cfEw"
+    },
+    {
+      "album": {
+        "name": "Nasha (Equals Sessions) - Single",
+        "url": "https://open.spotify.com/album/0DCY52sgebqixheOPwwasZ"
+      },
+      "artists": [
+        {
+          "name": "Faridkot",
+          "url": "https://open.spotify.com/artist/6JUEjbhKiAZFmMRrudNHgL"
+        },
+        {
+          "name": "Amar Jalal",
+          "url": "https://open.spotify.com/artist/2zZ39d8KJqwu7TkF4dEh03"
+        }
+      ],
+      "date_added": "2022-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287573,
+      "name": "Nasha (Equals Sessions)",
+      "url": "https://open.spotify.com/track/1rDjwexewf4hrdZT7SRNsH"
     },
     {
       "album": {

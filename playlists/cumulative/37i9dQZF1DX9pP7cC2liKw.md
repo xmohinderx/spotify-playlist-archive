@@ -4,7 +4,7 @@
 
 > Immerse yourself in the mysticism of Tulum!
 
-198 songs - 14 hr 19 min - [published](https://open.spotify.com/playlist/5ZYLdoOmMnnHS8FyiGqREd)
+199 songs - 14 hr 23 min - [published](https://open.spotify.com/playlist/5ZYLdoOmMnnHS8FyiGqREd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,7 +112,7 @@
 | [Mano de Fatima](https://open.spotify.com/track/66vLZytisIBNQiQz4qn6n5) | [Lagartijeando](https://open.spotify.com/artist/30tn7aO5EFnlClql7gPpGw), [Khalil Mounji](https://open.spotify.com/artist/6jAB1WpJuTMPx7RH0ssZbK) | [Mano de Fatima](https://open.spotify.com/album/6ZJ6wDxhI7dvFnw8abL199) | 3:55 | 2022-02-15 | 2022-07-28 |
 | [Manos](https://open.spotify.com/track/2lkrvCh5EArrBxSagwHRX1) | [Mente Orgánica](https://open.spotify.com/artist/1wfwGvcBGamXiXxuaExHRT) | [Ojos](https://open.spotify.com/album/0nt8pOx5bT4aU24zQ5RW9v) | 5:10 | 2022-04-17 |  |
 | [Marimbao](https://open.spotify.com/track/6LwDStHgNCh3h07FjyJ5ml) | [Dub Across Borders](https://open.spotify.com/artist/7c7NsrA9itbqcg9hvVAxK4) | [Sticks & Leaves](https://open.spotify.com/album/2dtjSPvUANxwWzV6dia5cE) | 4:04 | 2022-01-04 | 2022-07-27 |
-| [Maré](https://open.spotify.com/track/2TGNiLgm0TpUVVDSdf1gyt) | [Rodrigo Amarante](https://open.spotify.com/artist/0UOrkpzPED604dKzxgfJqg) | [Drama](https://open.spotify.com/album/4XGFdSkArqglb0DLPeh8N5) | 3:33 | 2022-01-04 |  |
+| [Maré](https://open.spotify.com/track/2TGNiLgm0TpUVVDSdf1gyt) | [Rodrigo Amarante](https://open.spotify.com/artist/0UOrkpzPED604dKzxgfJqg) | [Drama](https://open.spotify.com/album/4XGFdSkArqglb0DLPeh8N5) | 3:33 | 2022-01-04 | 2022-09-04 |
 | [Mata e' Candil](https://open.spotify.com/track/2Cb6XimTN0rPdPocmiTFI7) | [Venezonix](https://open.spotify.com/artist/4EU8WPqqBvsipJkWL1XfQ6) | [La Que Es](https://open.spotify.com/album/1m14JbxGEi0s1vktDhdlwt) | 3:02 | 2022-01-04 | 2022-07-24 |
 | [Mayahuel](https://open.spotify.com/track/7HbT88iSUcM6fnFTIZ5GZf) | [Sávila](https://open.spotify.com/artist/2MnzgTDDWD0KTonayeznfN) | [Mayahuel](https://open.spotify.com/album/62uYHxDORrNSyoA0wIPYIj) | 4:21 | 2022-08-13 |  |
 | [Me veo volar](https://open.spotify.com/track/684XSgemiOaXwuRP5fbJSr) | [Coco Maria](https://open.spotify.com/artist/5aC4E0zUYjfN871T66NHge) | [Me veo volar](https://open.spotify.com/album/692XQsxRU27ZorpAlWhStR) | 4:19 | 2022-02-01 | 2022-07-28 |
@@ -190,6 +190,7 @@
 | [The Ocean](https://open.spotify.com/track/204FgGC3890KCzUvtG33qV) | [Anchorsong](https://open.spotify.com/artist/7JFO7bnWWApOFvTMS3NFgh), [Bookend](https://open.spotify.com/artist/25Fdr64rur2zWVMYSnit4i) | [Mirage](https://open.spotify.com/album/5W4WsP6C2y0TO1y2WaWp5E) | 4:02 | 2022-04-17 | 2022-07-29 |
 | [Tierra](https://open.spotify.com/track/4JnUNSoH5576ZKA9CPLQhD) | [Vesica Piscis](https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6) | [Vesica Piscis](https://open.spotify.com/album/1wLQVoxpUOdcCymwnCyH7e) | 5:12 | 2022-03-17 | 2022-07-29 |
 | [To My Love \- Tainy Remix](https://open.spotify.com/track/5LciLoxa1gK70yIUeoHgRx) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [Amanecer \(Remixed\)](https://open.spotify.com/album/7jo5KFYHLHpbVX0glLHiIA) | 4:11 | 2022-06-15 |  |
+| [Todo Cambia](https://open.spotify.com/track/2f3mTJUP0bhLf9q9jgfIeQ) | [Son de Aquí](https://open.spotify.com/artist/1LY5S6drcTyXaGRQSuv3mJ) | [Al Otro Lado del Mar](https://open.spotify.com/album/1cMLf2f5pP1TDA5z0sGi8G) | 4:18 | 2022-09-03 |  |
 | [Towards The Mountain](https://open.spotify.com/track/4Wp7sd3BXs68y8qhEl2Ixa) | [Pachyman](https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l) | [El Sonido Nuevo de](https://open.spotify.com/album/1UHFfBD2kb9JeUcnQqsOUh) | 3:20 | 2022-03-30 | 2022-07-27 |
 | [Tropical Gypsy](https://open.spotify.com/track/2NT4Qm591F5sel8OupNhWp) | [DJ Cam](https://open.spotify.com/artist/1hwAhXzyuEUjug2pyNVSvg) | [Tropical Gypsy](https://open.spotify.com/album/57y7GwBbU7iWlVt3fO4yQA) | 3:01 | 2022-02-14 | 2022-07-29 |
 | [Tune Rider](https://open.spotify.com/track/4HBz7gmSjQ143OiMoFFKJu) | [Tunkuy](https://open.spotify.com/artist/66E1mdKk5XT2HUZ3hkKEX0), [German I](https://open.spotify.com/artist/0cGJK3i9jWhsjvY7svZas3) | [Tune Rider](https://open.spotify.com/album/1AOe1eOT8UamKJwpkHV110) | 3:50 | 2022-01-04 | 2022-07-26 |

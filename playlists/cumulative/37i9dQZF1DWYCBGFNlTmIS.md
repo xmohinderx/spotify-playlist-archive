@@ -4,7 +4,7 @@
 
 > 生命中有各種離別時刻，在告別前，你會點播那一首歌給那位聽？
 
-83 songs - 5 hr 32 min - [published](https://open.spotify.com/playlist/1af8ylc64pqspENKOOMB8c)
+84 songs - 5 hr 35 min - [published](https://open.spotify.com/playlist/1af8ylc64pqspENKOOMB8c)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,8 @@
 | [歡迎嚟到呢座城市 \(電影《狂舞派3》主題曲\)](https://open.spotify.com/track/0dYhfbl6DhtaaYUhcnEk5T) | [Heyo](https://open.spotify.com/artist/1ezK75lItwHkPdbIq7Z3Xn), [阿弗](https://open.spotify.com/artist/0yesFAyj7EpWGqrnDjoxQx), [Lydia](https://open.spotify.com/artist/3CXZCvIZ9YjprJWs5qJbNK), [Jan Curious](https://open.spotify.com/artist/1DxU7yGnE1XPeLYzOHdKSy) | [歡迎嚟到呢座城市 \(電影《狂舞派3》主題曲\)](https://open.spotify.com/album/6xpAuAq1BX6vEoK1aE0Kfc) | 4:24 | 2022-01-13 |  |
 | [每次你走的時分](https://open.spotify.com/track/5re2sW79DkSu7tyBjxCqUS) | [my little airport](https://open.spotify.com/artist/3yfDRplDZh03Y0fEeCd6B0) | [每次你走的時分](https://open.spotify.com/album/5t0kPdHWUbtFPugupIGZrO) | 2:59 | 2022-01-13 |  |
 | [每當幻變時](https://open.spotify.com/track/3YQclRiacw3qrUCOBUFDj0) | [Luna Is A Bep](https://open.spotify.com/artist/5ltDGYW0Lwwp4ZZoz4q3r8) | [每當幻變時](https://open.spotify.com/album/5gJCrDw4K8YxkDyYMmCsld) | 3:33 | 2022-01-13 |  |
-| [每當變幻時](https://open.spotify.com/track/2DL0htS3Ee4EJlVdaM3KwT) | [薰妮](https://open.spotify.com/artist/3V8vKHOlOSNdH2IJjtghNf) | [薰妮的好歌集](https://open.spotify.com/album/4VowPNLAL6DfctN8bQWRDB) | 2:57 | 2022-01-13 |  |
+| [每當變幻時](https://open.spotify.com/track/2DL0htS3Ee4EJlVdaM3KwT) | [薰妮](https://open.spotify.com/artist/3V8vKHOlOSNdH2IJjtghNf) | [薰妮的好歌集](https://open.spotify.com/album/4VowPNLAL6DfctN8bQWRDB) | 2:57 | 2022-01-13 | 2022-09-04 |
+| [每當變幻時](https://open.spotify.com/track/78C752I4sPRnHFtbjJtOAe) | [薰妮](https://open.spotify.com/artist/3V8vKHOlOSNdH2IJjtghNf) | [薰妮镭射大碟](https://open.spotify.com/album/2jd6r5f3gFI3EJV1tXeJ3W) | 2:57 | 2022-01-13 |  |
 | [每當變幻時](https://open.spotify.com/track/2106dcOEIQ5OK25y2X3QyR) | [薰妮](https://open.spotify.com/artist/3V8vKHOlOSNdH2IJjtghNf) | [薰妮金曲第一輯](https://open.spotify.com/album/38d8EcOEKEfggLTi28mQaX) | 3:01 | 2022-01-13 | 2022-07-29 |
 | [沒明日的恐懼](https://open.spotify.com/track/7sQwncmcjPQTKqEPXSot1v) | [C AllStar](https://open.spotify.com/artist/0ip5ivJzpy0v4DWVVKxc4D) | [沒明日的恐懼](https://open.spotify.com/album/1HxO1UY2Otzf4sLikQ3MMk) | 3:48 | 2022-01-13 |  |
 | [沒有人可以為你的幸福負責](https://open.spotify.com/track/2lkYHFcSUywPfVhXEkFM4p) | [Alfred Hui](https://open.spotify.com/artist/0GCtLaB5rBjoUpQdXogZzj) | [沒有人可以為你的幸福負責](https://open.spotify.com/album/2YBZzO6Y9cogGy6H662L1r) | 3:33 | 2022-04-13 |  |

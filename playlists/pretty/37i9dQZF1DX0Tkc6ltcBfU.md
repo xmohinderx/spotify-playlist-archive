@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 
 > The hottest out the south\. Cover: DaBaby
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,084,026 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,084,141 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 | 12 | [Impala](https://open.spotify.com/track/7EgThh6AbBM6nWs4XOPx2T) | [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1) | [EA Monster](https://open.spotify.com/album/3yXJ8SlRNl2epdhlQCaewE) | 3:05 |
 | 13 | [Bruddanem \(feat\. Lil Durk\)](https://open.spotify.com/track/60pZpM5WjUBQvaQ5E37XW6) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [The Forever Story](https://open.spotify.com/album/3QVjpIxcksDkJmOnvlOJjg) | 3:55 |
 | 14 | [Bullseye 2 \(with Future\)](https://open.spotify.com/track/1glNxnW018oGrJoYRHQV9Q) | [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Public Housing](https://open.spotify.com/album/3H7rkiYB6yjsuMZbxApOCn) | 2:37 |
-| 15 | [I Ain’t Gone Hold Ya](https://open.spotify.com/track/2jCQXY0zjBdSpp12egn0Wo) | [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG), [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH) | [I Ain’t Gone Hold Ya](https://open.spotify.com/album/3ZuQtnBkECX096kcyhoISC) | 2:19 |
+| 15 | [I Ain’t Gon Hold Ya](https://open.spotify.com/track/2jCQXY0zjBdSpp12egn0Wo) | [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG), [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH) | [I Ain’t Gon Hold Ya](https://open.spotify.com/album/3ZuQtnBkECX096kcyhoISC) | 2:19 |
 | 16 | [IT AIN'T SAFE \(feat\. Nardo Wick & Kodak Black\)](https://open.spotify.com/track/2d4XHh61JufZpNdm88TXXx) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [GOD DID](https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50) | 2:50 |
 | 17 | [WAITRESS](https://open.spotify.com/track/6I5DkMtgMjN6k270nRwNEl) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [WAITRESS](https://open.spotify.com/album/6VIsocCK7mDklr0V3UouGZ) | 2:12 |
 | 18 | [No Mind](https://open.spotify.com/track/2g7RAqIAWvejbBMiv0qYHj) | [Rot Ken](https://open.spotify.com/artist/64WnGi9H0Xc2RCGbjYAFd5), [jetsonmade](https://open.spotify.com/artist/0UcXjTpzt0DmIwPSNwlJfF) | [No Mind](https://open.spotify.com/album/7whE3mVgEdIUitoZZgc7A2) | 2:41 |

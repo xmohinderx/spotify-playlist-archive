@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "It Took A Lot To Get To This",
+        "url": "https://open.spotify.com/album/1E2ecZuSPG58MLkgglvFxZ"
+      },
+      "artists": [
+        {
+          "name": "Dylan Fraser",
+          "url": "https://open.spotify.com/artist/6Awp6fgyzqQ2XuEvOMjq8D"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247545,
+      "name": "Apartment Complex on the Eastside",
+      "url": "https://open.spotify.com/track/1cRk9clJhi67mcfTxNfnjU"
+    },
+    {
+      "album": {
         "name": "Apartment Complex on the Eastside",
         "url": "https://open.spotify.com/album/52bzMUfIaS9YeVADl51eoT"
       },
@@ -19,7 +37,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-04",
       "duration_ms": 247545,
       "name": "Apartment Complex on the Eastside",
       "url": "https://open.spotify.com/track/2nm0J9sicQTiW8M8k2yZ4x"

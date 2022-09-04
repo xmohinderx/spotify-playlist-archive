@@ -4,7 +4,7 @@
 
 > Global crossovers by/with Arab artists\. Cover: ElGrandeToto x Ayra Starr.
 
-193 songs - 11 hr 15 min - [published](https://open.spotify.com/playlist/6fGVta71tWekmtXgUIs2Fr)
+194 songs - 11 hr 21 min - [published](https://open.spotify.com/playlist/6fGVta71tWekmtXgUIs2Fr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,7 +174,8 @@
 | [The Beat Never Goes Off \(feat\. MC Abdul & Noel Kharman\)](https://open.spotify.com/track/0h6GjlAJrHLL3mhiLiTBK9) | [Tamer Nafar](https://open.spotify.com/artist/4A5OCxQdnfyO73y9Kgoc30), [MC Abdul](https://open.spotify.com/artist/2gr50NWFuNsweefgZzVb2E), [Noel Kharman](https://open.spotify.com/artist/76G2QPGz4HBmhn0D3vr9UL) | [The Beat Never Goes Off \(feat\. MC Abdul & Noel Kharman\)](https://open.spotify.com/album/5GLmvO7Q8nbYW6yIjt7cJZ) | 3:40 | 2021-12-16 |  |
 | [The Big Chill](https://open.spotify.com/track/6tL9rtiton1r2DtYlDBsJo) | [Wissam Saliba](https://open.spotify.com/artist/4JsF5yPm0LMwklPWuevclZ), [Roytivation](https://open.spotify.com/artist/6Dvzm58lrSbewSyv3apxuC) | [The Big Chill](https://open.spotify.com/album/1b8kYFz37yZth7uArXBf5u) | 3:21 | 2021-12-16 |  |
 | [The Calling](https://open.spotify.com/track/6GeJhsWvyRghhVha88TCNG) | [Rhita Nattah](https://open.spotify.com/artist/5JLjlEpNZTK5CTJdvpKZVr) | [The Calling](https://open.spotify.com/album/2ridtCRegwAWPogc0howcY) | 3:13 | 2021-12-30 |  |
-| [The First Disciple](https://open.spotify.com/track/1s46uOcZXBWxEeYKO2SDGk) | [Tamino](https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH) | [The First Disciple](https://open.spotify.com/album/7dnuhgQrPlzCVz91koWich) | 6:02 | 2022-07-28 |  |
+| [The First Disciple](https://open.spotify.com/track/1s46uOcZXBWxEeYKO2SDGk) | [Tamino](https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH) | [The First Disciple](https://open.spotify.com/album/7dnuhgQrPlzCVz91koWich) | 6:02 | 2022-07-28 | 2022-09-04 |
+| [The First Disciple](https://open.spotify.com/track/5PlyKTieFInN0dXXGuwi9E) | [Tamino](https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH) | [You Don't Own Me](https://open.spotify.com/album/1YrfFAtUYvapMLU8620TTj) | 6:02 | 2022-08-25 |  |
 | [The First Disciple](https://open.spotify.com/track/5mbeR5Kz4A1wfZsU9bXUJt) | [Tamino](https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH) | [The First Disciple](https://open.spotify.com/album/0Tq5p3TGrec8ZKEh68JNWO) | 6:02 | 2022-05-26 | 2022-07-29 |
 | [THE SNAKE](https://open.spotify.com/track/4tRXJwAv2zZrcDcfjTUekQ) | [Lana Lubany](https://open.spotify.com/artist/53jnd1fhXV7lbXSfjgk1WR) | [THE SNAKE](https://open.spotify.com/album/6MUnBgFIOhLgnf7h5pmZGm) | 2:56 | 2022-03-14 |  |
 | [the world could end with you](https://open.spotify.com/track/4O5GWwr8fvgcJyYiEBEX0q) | [Llunr](https://open.spotify.com/artist/1r2EC1UsQXwtqVN9valnT2) | [the world could end with you](https://open.spotify.com/album/06m5H2iiYxVwxCFQZOKZDE) | 3:00 | 2022-03-07 |  |

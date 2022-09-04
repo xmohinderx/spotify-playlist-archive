@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 
 > Las mejores canciones Latinas de agosto 2022.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,490,838 likes - 39 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,490,929 likes - 39 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

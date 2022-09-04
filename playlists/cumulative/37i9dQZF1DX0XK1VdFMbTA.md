@@ -4,7 +4,7 @@
 
 > Any songs you forgot existed? Let's go deep into 70s rock!
 
-768 songs - 2 day 5 hr 57 min - [published](https://open.spotify.com/playlist/0MQTjD16oHAcLkC8Pt5QWL)
+769 songs - 2 day 6 hr 0 min - [published](https://open.spotify.com/playlist/0MQTjD16oHAcLkC8Pt5QWL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -694,7 +694,8 @@
 | [Things I Could Be](https://open.spotify.com/track/3PC3bIYidHlGiNblUzwpyp) | [James Gang](https://open.spotify.com/artist/5hfOHpGMsi8O3DA0ROLGqF) | [Thirds](https://open.spotify.com/album/0QoD6z28TltvI4pVY4bEGl) | 4:18 | 2022-01-05 | 2022-07-28 |
 | [This Flight Tonight](https://open.spotify.com/track/2oMCe4LZnMhuKrUig6rFKl) | [Nazareth](https://open.spotify.com/artist/6fvN9GmMCVKb5LY0WsnjFP) | [Classics Volume 16](https://open.spotify.com/album/5AI2JZ9ONeFfYzqaIxH226) | 3:22 | 2022-01-05 |  |
 | [This Flight Tonight \- 2010 \- Remaster](https://open.spotify.com/track/0pil72Ler9FDlYA9KY8QRr) | [Nazareth](https://open.spotify.com/artist/6fvN9GmMCVKb5LY0WsnjFP) | [Loud 'N' Proud](https://open.spotify.com/album/6Lmw5NIOOsTveqDenz7w8u) | 3:24 | 2022-01-05 | 2022-07-29 |
-| [This Time Tomorrow](https://open.spotify.com/track/1LjPCQHkAYnJbQUgSoHaye) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [Lola Versus Powerman and the Moneygoround, Pt\. One](https://open.spotify.com/album/4jaLfcNpIrOgcPyXuuiHTi) | 3:21 | 2022-01-05 |  |
+| [This Time Tomorrow](https://open.spotify.com/track/1LjPCQHkAYnJbQUgSoHaye) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [Lola Versus Powerman and the Moneygoround, Pt\. One](https://open.spotify.com/album/4jaLfcNpIrOgcPyXuuiHTi) | 3:21 | 2022-01-05 | 2022-09-04 |
+| [This Time Tomorrow \(Stereo\) \- 2014 Remastered Version](https://open.spotify.com/track/1hlfAVmWBxdpUp4PK658rR) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [Lola vs\. Powerman and the Moneygoround, Pt\. One + Percy](https://open.spotify.com/album/6lL6HugNEN4Vlc8sj0Zcse) | 3:24 | 2022-01-05 |  |
 | [Those Shoes \- 2013 Remaster](https://open.spotify.com/track/13TrgZ4RqtjXd8w9wAuwxE) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [The Long Run \(2013 Remaster\)](https://open.spotify.com/album/1sW1HxI9VppbiXqgFQHVCP) | 4:54 | 2022-01-05 |  |
 | [Three Imaginary Boys](https://open.spotify.com/track/2rgYH8S363FAP3vunkUHnB) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Three Imaginary Boys](https://open.spotify.com/album/0jYmAPQezr1aG75KerJCdG) | 3:15 | 2022-01-05 | 2022-07-29 |
 | [Three Imaginary Boys \- 2005 Remaster](https://open.spotify.com/track/660u9agQuREtEDmETVWSts) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Three Imaginary Boys \(Deluxe Edition\)](https://open.spotify.com/album/7gPql7GFpBMOxeO80vMMsC) | 3:15 | 2022-01-05 |  |

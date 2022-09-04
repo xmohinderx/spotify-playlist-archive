@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring B Praak
 
-520 songs - 1 day 4 hr 8 min - [published](https://open.spotify.com/playlist/1Lit2yy2NvWAzmiWbYvMKp)
+521 songs - 1 day 4 hr 11 min - [published](https://open.spotify.com/playlist/1Lit2yy2NvWAzmiWbYvMKp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -318,7 +318,8 @@
 | [Ni Mai Tera \(From "Television"\)](https://open.spotify.com/track/16u2ZrcDO9IoVqfZYmL9fh) | [Kulwinder Billa](https://open.spotify.com/artist/0CP2yDO5i5Q2G1fRj6C8JV) | [Ni Mai Tera \(From "Television"\)](https://open.spotify.com/album/2SquNcbWkgMseCOKsWQjO9) | 2:18 | 2022-06-23 | 2022-07-06 |
 | [Nikaah](https://open.spotify.com/track/7JWXRlnVMEyWc82ZpBusj8) | [Ipsitaa](https://open.spotify.com/artist/0LqSWTlLvalcwFJjdj4fil), [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT) | [Nikaah](https://open.spotify.com/album/1fmxvtOcXQGakPho77JrJe) | 2:22 | 2022-08-19 | 2022-09-01 |
 | [Nikki Bindi](https://open.spotify.com/track/52thul1E3Oa72G8MMzcb6Z) | [Showkidd](https://open.spotify.com/artist/0lqjRojARBHXCBYVOm16CC) | [Nikki Bindi](https://open.spotify.com/album/1AYMW3qoaAOlkakEPBNuJi) | 3:16 | 2022-05-04 | 2022-05-11 |
-| [NO LOVE](https://open.spotify.com/track/5B4YQN1FCuADJ0o4phAtwC) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [NO LOVE](https://open.spotify.com/album/71z4Ni4FHsAUWpcy1oFmOT) | 2:50 | 2022-07-05 |  |
+| [NO LOVE](https://open.spotify.com/track/08Isz2ETWSBhvIl8UpKYsp) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [No Love](https://open.spotify.com/album/5Zcgog7sQ79ISF32y9nABU) | 2:50 | 2022-09-02 |  |
+| [NO LOVE](https://open.spotify.com/track/5B4YQN1FCuADJ0o4phAtwC) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [NO LOVE](https://open.spotify.com/album/71z4Ni4FHsAUWpcy1oFmOT) | 2:50 | 2022-07-05 | 2022-09-04 |
 | [No Mercy](https://open.spotify.com/track/0wMf9gR8xLegCKApnsots8) | [Dhindsa](https://open.spotify.com/artist/0GsSwV1qiXcmeBspegMa2y) | [No Mercy](https://open.spotify.com/album/6cQhIgJWb3UdhyICOc4ynB) | 2:58 | 2022-05-20 | 2022-07-06 |
 | [Noor](https://open.spotify.com/track/7bmZe5feAzVVQ1xmbJR55q) | [Sona Mohapatra](https://open.spotify.com/artist/5bv6NvAYNuvd2Vq13nHdG3) | [Noor](https://open.spotify.com/album/6zZoFhUX5gPyYBaVD9eBHP) | 3:57 | 2022-02-14 | 2022-02-19 |
 | [Not Fair](https://open.spotify.com/track/3D7eyLcGALXoSk1SZOYX6V) | [Navjeet](https://open.spotify.com/artist/6ti9mMVGU3e9MtpFh69Knr) | [Not Fair](https://open.spotify.com/album/55RLvQn1Wk2LaOP4KpsQYi) | 3:05 | 2022-02-03 | 2022-03-11 |

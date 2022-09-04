@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 
 > welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 ft\. YUNGBLUD
 
-[Spotify](https://open.spotify.com/user/spotify) - 263,735 likes - 85 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 262,512 likes - 85 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 | 9 | [POSSESS ME](https://open.spotify.com/track/1Xvj8YGcG6DLcIrAM5rD2r) | [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf) | [POSSESS ME](https://open.spotify.com/album/6c4OTInxbcdjDMvMED68Q7) | 2:00 |
 | 10 | [Barbie & Ken](https://open.spotify.com/track/7aVUykGDZCRyLRKCQrtrbx) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4), [Set It Off](https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k) | [Barbie & Ken](https://open.spotify.com/album/4mljsOFQj7XRh77BAVF1aq) | 2:15 |
 | 11 | [Lost](https://open.spotify.com/track/3xd4GVGAuzJGdVZLEKvWea) | [Crim3s](https://open.spotify.com/artist/1ARDx2oCR7sJEjbnHsbbRU) | [Stay Ugly EP](https://open.spotify.com/album/4SdrdBBRHRo1CL6u3vJrR7) | 2:28 |
-| 12 | [nihil](https://open.spotify.com/track/2X6tjTssSBitIKOS6tXs8D) | [Mimi Barks](https://open.spotify.com/artist/5A4P1UOSqbSvJKoi3VYlCC) | [nihil](https://open.spotify.com/album/1ZtYA2cDVnd6ZjYtOG8f7k) | 3:09 |
+| 12 | [nihil](https://open.spotify.com/track/7cHzkyAUaYgftlX1T5T2lZ) | [Mimi Barks](https://open.spotify.com/artist/5A4P1UOSqbSvJKoi3VYlCC) | [nihil](https://open.spotify.com/album/2OgHuhKfWOzLuSgicwa5bq) | 3:09 |
 | 13 | [Violent](https://open.spotify.com/track/7CFfqRW50ffULvBv7lfIIg) | [carolesdaughter](https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB) | [Violent](https://open.spotify.com/album/5wf6uZP8SBgXlNkbIFNQJ1) | 2:15 |
 | 14 | [wish i was dead](https://open.spotify.com/track/16dzo8i1mlh2AkmQ4DhwXH) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [wish i was dead](https://open.spotify.com/album/3B4UmoO1zRScG8X8MSDHy4) | 1:38 |
 | 15 | [Sad Girl Summer](https://open.spotify.com/track/52ITJgaQHGQ4Uxnqz44jWP) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [Sad Girl Summer](https://open.spotify.com/album/6BD3f64782idv4IF2npufe) | 3:13 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 | 84 | [Tongue](https://open.spotify.com/track/0dOf1BeCB1uL1b0dBtvL39) | [Suave Punk](https://open.spotify.com/artist/7mHAXsMI3hAj3dUZMR4fnt) | [Tongue](https://open.spotify.com/album/6ruFK4GEN4Dtu1Ig4KJDho) | 3:34 |
 | 85 | [Tongue in cheek](https://open.spotify.com/track/5PEaxIDwsHnncKTlBezBpP) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [boneyard aka fearmonger](https://open.spotify.com/album/3zl3Qtgdt9tMVqiMa7RaK1) | 2:36 |
 
-Snapshot ID: `MTY2MjA3MzIwMCwwMDAwMDAwMDQwN2UzYjExNjdhMDI5ZGU5M2EzMDRkMjdiNTkwYzZk`
+Snapshot ID: `MTY2MjA3MzIwMCwwMDAwMDAwMGI2ZmMwNDYxOTZiYjA1NDRmZWVkNzcyZjVhYzA1Mjll`

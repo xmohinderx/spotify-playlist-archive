@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > New R&B/Soul from independent artists & labels every Wednesday\. Cover: Arima Ederra
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,347 likes - 105 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,936 likes - 105 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 5 | [Close 2 U](https://open.spotify.com/track/57dETS2BAZptpeGeg4BKec) | [Savannah Dumetz](https://open.spotify.com/artist/4xFhyLd7xLpZ35Pz566Mow) | [Close 2 U](https://open.spotify.com/album/6Yu0kJjZpQumbNfiWr58Ze) | 3:00 |
 | 6 | [without you](https://open.spotify.com/track/25mOPkAn5kz8vqi6Oh6rLV) | [Secily](https://open.spotify.com/artist/32eZd7DKXr4eQTWqWRHGe2) | [without you](https://open.spotify.com/album/003wacHGqIo43x8Qsetg7z) | 2:56 |
 | 7 | [Thinking of You](https://open.spotify.com/track/7uJdcCDuGFWBUWEkAeukb6) | [Kwaku Asante](https://open.spotify.com/artist/2aUr9B6iwO3eYiEHJIpB0M) | [Thinking of You](https://open.spotify.com/album/79rtD8Fb3cam1TlbEeQOw0) | 3:21 |
-| 8 | [Love, Today](https://open.spotify.com/track/1LoCwW6zCCmuLxDU8p06Q8) | [Preyé](https://open.spotify.com/artist/6dbTmlL5brq9B2fkUj2MQD), [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Ladipo Eso](https://open.spotify.com/artist/6SL7pR1T6IQZVxxrovKRut) | [Don't Look Down!](https://open.spotify.com/album/6DEAfTTihu0p1nNkti8Bn0) | 3:26 |
+| 8 | [Love, Today](https://open.spotify.com/track/1LoCwW6zCCmuLxDU8p06Q8) | [Preyé](https://open.spotify.com/artist/6dbTmlL5brq9B2fkUj2MQD), [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu) | [Don't Look Down!](https://open.spotify.com/album/6DEAfTTihu0p1nNkti8Bn0) | 3:26 |
 | 9 | [RAGGA](https://open.spotify.com/track/6JyoDS6xeqsNkNdeVm9uLF) | [Talia Goddess](https://open.spotify.com/artist/4Otn2nALdNCTFUUExiskqw) | [RAGGA](https://open.spotify.com/album/5lXdX09pPgVwMpDjbyJDld) | 2:42 |
 | 10 | [Lies \(Wasted Time\)](https://open.spotify.com/track/38Y4CHGMOOLosrpNm3DKk3) | [JYDN HILL](https://open.spotify.com/artist/0kGGkgl2qYgVzrMKw2KjY2) | [Lies \(Wasted Time\)](https://open.spotify.com/album/4x9ZZ4WojHsGu0tQWJg5qZ) | 2:13 |
 | 11 | [On Demand](https://open.spotify.com/track/1ovprUV22NBcRT9MhOCKZ9) | [Devon Culture](https://open.spotify.com/artist/2mONg2kaCioOztZG7Rz5yc) | [On Demand](https://open.spotify.com/album/3bWU00x5yJhIKrDdZalAEQ) | 2:37 |

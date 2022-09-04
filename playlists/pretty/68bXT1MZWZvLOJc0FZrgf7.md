@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/68bXT1MZWZvLOJc0FZrgf7.md) - [plain]
 
 > Press play and dance away to your favorite electronic hits\. Featuring Rezz, Alan Walker, Kygo and more!
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 117,645 likes - 192 songs - 10 hr 9 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 117,648 likes - 192 songs - 10 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [DON'T YOU WORRY \(feat\. David Guetta\) \- Farruko Remix](https://open.spotify.com/track/6Qk9crrlslodQnHqhCmjtC) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [DON'T YOU WORRY \(feat\. David Guetta\) \[Farruko Remix\]](https://open.spotify.com/album/2aCT4cP1qg9NhPLvSg48N5) | 3:25 |
+| 1 | [DON'T YOU WORRY \(Farruko Remix\) \(with Farruko, David Guetta & Shakira\)](https://open.spotify.com/track/6Qk9crrlslodQnHqhCmjtC) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [DON'T YOU WORRY \(Farruko Remix\) \(with Farruko, David Guetta & Shakira\)](https://open.spotify.com/album/2aCT4cP1qg9NhPLvSg48N5) | 3:25 |
 | 2 | [Late Night Talking](https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:57 |
 | 3 | [BREAK MY SOUL](https://open.spotify.com/track/5pyoxDZ1PX0KxBxiRVxA4U) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 4:38 |
 | 4 | [Larry Bird \(feat\. Tuck's Dad\) \- J\. Worra Remix](https://open.spotify.com/track/5tkG5tErMICYrw4V0PYzvb) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Tuck's Dad](https://open.spotify.com/artist/3XI3kia2gOIISdKrlMmtUR), [J\. Worra](https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj) | [Larry Bird \(J\. Worra Remix\)](https://open.spotify.com/album/03C6T4ePi9SIGKcByM8lXU) | 4:40 |

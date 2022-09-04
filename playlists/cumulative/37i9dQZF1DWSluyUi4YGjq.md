@@ -4,7 +4,7 @@
 
 > A new gen of bands gazing at their pedals, while soaring celestially\-high\. Trementina on cover!
 
-191 songs - 13 hr 21 min - [published](https://open.spotify.com/playlist/7khBi2LhuBeMPgT1Gz4AOk)
+193 songs - 13 hr 28 min - [published](https://open.spotify.com/playlist/7khBi2LhuBeMPgT1Gz4AOk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Catch a Fade](https://open.spotify.com/track/1JXi6OWDS68SIsTF6TJ3Ob) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [The Great Dismal](https://open.spotify.com/album/0LKwC9p0PLomstKm9Y0nt3) | 3:50 | 2021-10-19 |  |
 | [Ceremonia](https://open.spotify.com/track/1ycIEEREuhHTHtmPCaJiMg) | [Margaritas Podridas](https://open.spotify.com/artist/5O9NicFLG2F9Xr7OHxmrb7) | [Ceremonia](https://open.spotify.com/album/0eJvHrZXZkkUDVMQuEJq07) | 5:00 | 2021-10-19 | 2022-08-04 |
 | [Chance](https://open.spotify.com/track/2ULRusDLaLR8Di9kAt3JC2) | [Mahogany](https://open.spotify.com/artist/4Ik5hkDngW1R1Y4aWdNumq) | [The Dream of a Modern Day](https://open.spotify.com/album/5EuUAHaqEzJ6IrBjbdYlGK) | 4:15 | 2021-10-19 | 2022-07-28 |
-| [Cherry\-Cola Abyss](https://open.spotify.com/track/3agVTNFmPXfrqQXnxoMyeM) | [Soft Blue Shimmer](https://open.spotify.com/artist/5ZclZsMoBdRY9MJw6l47Fx) | [Heaven Inches Away](https://open.spotify.com/album/3kNVOsMavASjW9PBfltFMJ) | 5:56 | 2021-10-19 |  |
+| [Cherry\-Cola Abyss](https://open.spotify.com/track/3agVTNFmPXfrqQXnxoMyeM) | [Soft Blue Shimmer](https://open.spotify.com/artist/5ZclZsMoBdRY9MJw6l47Fx) | [Heaven Inches Away](https://open.spotify.com/album/3kNVOsMavASjW9PBfltFMJ) | 5:56 | 2021-10-19 | 2022-09-04 |
 | [Chinatown](https://open.spotify.com/track/0UQc1EkgxdIB3nGVTuAXKI) | [Wild Nothing](https://open.spotify.com/artist/6NrkINd80slV25wkBu9mEB) | [Gemini](https://open.spotify.com/album/2UoAYpQzSNLuW47goFJE5x) | 3:18 | 2021-10-19 | 2022-07-27 |
 | [Chinatown](https://open.spotify.com/track/3BRfgsKjcakny2wCYfZrvz) | [Wild Nothing](https://open.spotify.com/artist/6NrkINd80slV25wkBu9mEB) | [Gemini](https://open.spotify.com/album/3hxVFxpF7uUtjLHzvGIm7W) | 3:18 | 2021-10-19 |  |
 | [Chocolate Bar](https://open.spotify.com/track/2P9opsrW3poOvG355tyCpo) | [Infinite Siennas](https://open.spotify.com/artist/6yWPwEnWb3v7gro5aUz8Gi) | [Chocolate Bar](https://open.spotify.com/album/0bMm5M7yVy7s14ksxUYRUg) | 4:12 | 2021-10-19 | 2022-07-01 |
@@ -123,7 +123,7 @@
 | [Life in Color](https://open.spotify.com/track/4TdpOtzVF7aeh7EhvOk377) | [Floral Tattoo](https://open.spotify.com/artist/5A9WRVGRY9QQf7RVJxVnSS) | [You Can Never Have a Long Enough Head Start](https://open.spotify.com/album/3F9nzTMzXo2rOpyYn5YrY1) | 3:47 | 2021-10-19 | 2022-07-29 |
 | [Lime \- Elliott Frazier remix](https://open.spotify.com/track/28CohxX0xYGKWdKsHKvDaV) | [Lucid Express](https://open.spotify.com/artist/0WwjT0WO2JQSXIq7EeDxXf), [Elliott Frazier](https://open.spotify.com/artist/2h5Ha3Cr7HoTCp82TQdUDO) | [Lime](https://open.spotify.com/album/6jRYJfOVHjixKyxZC7ZRSC) | 3:39 | 2022-08-31 |  |
 | [Look Around](https://open.spotify.com/track/5cTWjmahOp7R6KGy7cAhmM) | [Blankenberge](https://open.spotify.com/artist/0N9CUdcRxZfnPGAmbkuUrm) | [More](https://open.spotify.com/album/2SywxWP4IsaFO8zo9G3Ogx) | 4:17 | 2021-10-19 |  |
-| [Love Comes In Waves](https://open.spotify.com/track/2boEyOYahQ5kYuAQnr05B9) | [Andy Bell](https://open.spotify.com/artist/0DCLBHSfbqLoGK3ikLGPxc) | [Love Comes In Waves](https://open.spotify.com/album/6H1YKdZQvIuOVQkKUpOHtR) | 4:48 | 2021-10-19 |  |
+| [Love Comes In Waves](https://open.spotify.com/track/2boEyOYahQ5kYuAQnr05B9) | [Andy Bell](https://open.spotify.com/artist/0DCLBHSfbqLoGK3ikLGPxc) | [Love Comes In Waves](https://open.spotify.com/album/6H1YKdZQvIuOVQkKUpOHtR) | 4:48 | 2021-10-19 | 2022-09-04 |
 | [Love Fade](https://open.spotify.com/track/0p6JvwRK6RqC1SyRVKP6cN) | [Tamaryn](https://open.spotify.com/artist/3TdVTSmMfLh55VrJDUpIQ2) | [The Waves](https://open.spotify.com/album/2GrLKfN6dTb4o7Eoz6pqSG) | 3:40 | 2021-10-19 |  |
 | [Love Fade](https://open.spotify.com/track/24ZsdPJj8uwhCxo4uanFpG) | [Tamaryn](https://open.spotify.com/artist/3TdVTSmMfLh55VrJDUpIQ2) | [The Waves](https://open.spotify.com/album/4yfIr3uR60hcYNr1ttJNoC) | 3:40 | 2021-10-19 | 2022-07-29 |
 | [Luminous](https://open.spotify.com/track/0HIqiZlMuJm7fV4CyxaQF2) | [Youthlim](https://open.spotify.com/artist/0rHYAz4lrtdEHOXNZA7XzC) | [Luminous](https://open.spotify.com/album/001WORXD9jU5p2yIcfzHfd) | 6:08 | 2022-01-19 | 2022-07-19 |
@@ -145,6 +145,7 @@
 | [Outdoors](https://open.spotify.com/track/5Rp7jLS83L4jtJkfb7jKO4) | [Surf Friends](https://open.spotify.com/artist/2PCdqzx2232QAlYYZ04V9p) | [Doing Your Thing](https://open.spotify.com/album/26i8JdQlQhCmiquVVMIqx7) | 5:30 | 2021-10-19 | 2022-06-14 |
 | [Panic Song](https://open.spotify.com/track/41enh722WYrH5i2rJTXCxP) | [Greet Death](https://open.spotify.com/artist/7CddNoU6nKEW7UpcIlJF9n) | [Panic Song](https://open.spotify.com/album/6gnfEqQYoJqG0FqWYIHANY) | 3:01 | 2022-04-05 | 2022-08-04 |
 | [Perfect](https://open.spotify.com/track/1y8Ib4LBzhmXNCKhy9BZpL) | [Oeil](https://open.spotify.com/artist/5XWHODeAWqM44qXaQwGGT7) | [Perfect](https://open.spotify.com/album/10NT46ZLR5rhgMIGoO5Gg6) | 2:40 | 2021-10-19 | 2022-07-29 |
+| [Perfect Life](https://open.spotify.com/track/3IrAxNUFFTCMOjjAIcUai7) | [Landlords](https://open.spotify.com/artist/7xs6j5uzsajhXZE4A0a5oH) | [Perfect Life](https://open.spotify.com/album/5ha6ZFEWo7f0rFy4ZZ0sgA) | 4:08 | 2022-09-03 |  |
 | [Phase Break](https://open.spotify.com/track/1zPQS7xNJUksb1Zg5T6Nys) | [Mahogany](https://open.spotify.com/artist/4Ik5hkDngW1R1Y4aWdNumq) | [Phase Break](https://open.spotify.com/album/319vs4o181L9ZGttVOg4Fq) | 7:55 | 2021-10-19 | 2022-07-29 |
 | [Pica](https://open.spotify.com/track/3XHF4nwGiYuGufZVpdGjvF) | [Bloodslide](https://open.spotify.com/artist/6xMS9dPnwVh8EnGusumqaz) | [Pica](https://open.spotify.com/album/0Sc94Sz2dTR9H6kNgle0pr) | 5:11 | 2021-10-19 |  |
 | [Press](https://open.spotify.com/track/0PJtjnEPQamRRHIDVj1cGx) | [Whirr](https://open.spotify.com/artist/1tnjjbgszXYa8BbyTzwM0w) | [Sway](https://open.spotify.com/album/28us6d6Q9xD8vTkSUbL6Nu) | 3:31 | 2021-10-19 |  |
@@ -175,6 +176,7 @@
 | [Strawberry](https://open.spotify.com/track/3FeiwCiTMUCh8h8G2T0Gmy) | [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM) | [Strawberry](https://open.spotify.com/album/5ip1HBRqhN4lzubgPiDNMt) | 3:29 | 2022-01-07 |  |
 | [sueños pasajeros](https://open.spotify.com/track/5qkh3OCdhzDFLLkLDyzQ3I) | [Sonic Emerson](https://open.spotify.com/artist/56NvLMYpWkket0d75Ue5S8) | [sueños pasajeros](https://open.spotify.com/album/5raH91QppDfJ87H19rHjcv) | 1:33 | 2022-08-04 | 2022-08-14 |
 | [Suficiente](https://open.spotify.com/track/6Gzt3wNcTpZMV9wA97IvdB) | [Sadfields](https://open.spotify.com/artist/21EFkTCquqEqYOWXi19fDF) | [Suficiente](https://open.spotify.com/album/3A8kSYi3x2IZwKaxGGAFVZ) | 3:58 | 2022-05-04 | 2022-07-24 |
+| [Surprise](https://open.spotify.com/track/6kLVZ6ck4U6AljgTMUYhEe) | [Laveda](https://open.spotify.com/artist/4k9HOB4zrVAEasP7nm31F7) | [Surprise](https://open.spotify.com/album/3NEmbK6tB99MY5Xbl9KaQS) | 3:31 | 2022-09-03 |  |
 | [The Dead Are Dumb](https://open.spotify.com/track/0gtvktvlWNbT8BFgx196ov) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Tired of Tomorrow \(Deluxe Version\)](https://open.spotify.com/album/2655MXRi7PSJTtYqdGKeuH) | 4:30 | 2021-10-19 |  |
 | [The Key](https://open.spotify.com/track/2D4GOBkOIrCESyIQ6xCnbV) | [Hatchie](https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt) | [Giving The World Away](https://open.spotify.com/album/2TwATR1G07ckXIDydjPKsw) | 4:14 | 2022-04-22 |  |
 | [The Rhythm](https://open.spotify.com/track/1PhR7tMOmCZOEUmr7TdmFN) | [Hatchie](https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt) | [Giving The World Away](https://open.spotify.com/album/2TwATR1G07ckXIDydjPKsw) | 4:30 | 2022-04-22 |  |

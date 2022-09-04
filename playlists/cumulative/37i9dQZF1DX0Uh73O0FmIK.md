@@ -4,13 +4,13 @@
 
 > 01110000 01101100 01100001 01111001 01101100 01101001 01110011 01110100
 
-96 songs - 6 hr 41 min - [published](https://open.spotify.com/playlist/3QfjFdmBC3jioryCEPHkRe)
+97 songs - 6 hr 43 min - [published](https://open.spotify.com/playlist/3QfjFdmBC3jioryCEPHkRe)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [22:39](https://open.spotify.com/track/5PDKajOvt9yMVCsgQhYcMn) | [Danger](https://open.spotify.com/artist/2o3U0ld93tHYowkoari4Vi) | [Origins](https://open.spotify.com/album/3rdxpRfZCqsth5EPDnUkaY) | 4:12 | 2022-05-19 |  |
 | [4:30](https://open.spotify.com/track/0lO8ZTS4kNYa9eOSC1QYQi) | [Danger](https://open.spotify.com/artist/2o3U0ld93tHYowkoari4Vi) | [09/17 2007](https://open.spotify.com/album/3XOwkicWm2CpIC4qyux1pp) | 4:31 | 2022-05-19 |  |
-| [6FINGERDEATHPUNCH](https://open.spotify.com/track/2M7V4v4DUaPIlMSrCbB2U3) | [six impala](https://open.spotify.com/artist/5EtZGidUP0imIVaUwBo4GW) | [All Nighter, Vol\. 6](https://open.spotify.com/album/1Thi7GCXPtyG7NfXBOYCTS) | 2:44 | 2022-07-29 |  |
+| [6FINGERDEATHPUNCH](https://open.spotify.com/track/2M7V4v4DUaPIlMSrCbB2U3) | [six impala](https://open.spotify.com/artist/5EtZGidUP0imIVaUwBo4GW) | [All Nighter, Vol\. 6](https://open.spotify.com/album/1Thi7GCXPtyG7NfXBOYCTS) | 2:44 | 2022-07-29 | 2022-09-04 |
 | [84' Dreamin](https://open.spotify.com/track/1sF9Mpl9jOvxXWogfPmEUY) | [Com Truise](https://open.spotify.com/artist/2wouN3QXejYa5tKetYdcVX) | [In Decay](https://open.spotify.com/album/6M4kfVR0hxL1zXfoANKP0q) | 3:40 | 2022-05-19 |  |
 | [A Drug From God](https://open.spotify.com/track/4skbQNtyjy8A7mo8oqe2oD) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [NPC](https://open.spotify.com/artist/3YEsNNbHlb88K9QCog4R0Y) | [A Drug From God](https://open.spotify.com/album/6tZzL3lTVgWhJb2cE2jz1f) | 3:12 | 2022-05-19 |  |
 | [A New Error](https://open.spotify.com/track/1fmoCZ6mtMiqA5GHWPcZz9) | [Moderat](https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy) | [Moderat](https://open.spotify.com/album/2HEh23ogCT3wiYfag2iMxD) | 6:07 | 2022-05-19 |  |
@@ -31,6 +31,7 @@
 | [Dark Beach](https://open.spotify.com/track/5QmdK8QFbY8TLVKPuJzexD) | [Pastel Ghost](https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W) | [Abyss](https://open.spotify.com/album/0RItfbXPf5eDzwdsgK9rKV) | 3:42 | 2022-05-19 |  |
 | [Deicide](https://open.spotify.com/track/2qMIhahrpJUksR0MuigQV6) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [Deicide](https://open.spotify.com/album/5c4BOFn4ycw9NZGmOCv3rY) | 4:54 | 2022-05-19 |  |
 | [Derezzed \- From "TRON: Legacy"/Score](https://open.spotify.com/track/5X4ojuZG2mZ68EcLyBQ1D3) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [TRON: Legacy](https://open.spotify.com/album/4US3nmuLIKELhVZdBPiKxx) | 1:44 | 2022-05-19 |  |
+| [Dioma \(Demo\)](https://open.spotify.com/track/700JJvwxvnn8kykvp3nZqb) | [Jnathyn](https://open.spotify.com/artist/1zThDYJbVAPulAkfGTkcLk) | [Dioma \(Demo\)](https://open.spotify.com/album/3F6ynVYGAxoIgFPB4jvbff) | 2:17 | 2022-09-03 |  |
 | [Disaster](https://open.spotify.com/track/0PGAJ37n4O2AslZosr1YGx) | [KSLV Noh](https://open.spotify.com/artist/2ElMqlv5py0QFIVXUff627) | [Disaster](https://open.spotify.com/album/7CkXrZnfmghdA4n2YLTgag) | 1:24 | 2022-05-19 |  |
 | [Do You?](https://open.spotify.com/track/0tAFy8LVdMQgW6A6Nq7olS) | [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI) | [V!BEZ, Vol\. 3](https://open.spotify.com/album/6pT3v18olmBZkDTm6gj7eW) | 3:15 | 2022-05-19 |  |
 | [Drowning](https://open.spotify.com/track/0e2af43kcIHbC44U9zXOzB) | [OXWAVE](https://open.spotify.com/artist/7B2UfSm1zprogJ0TulxZp9) | [Drowning](https://open.spotify.com/album/1jxyUPHCk8mc31yxhGI7jx) | 2:38 | 2022-05-19 |  |

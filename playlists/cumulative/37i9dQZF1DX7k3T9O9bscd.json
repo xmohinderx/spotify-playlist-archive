@@ -26,6 +26,24 @@
     },
     {
       "album": {
+        "name": "El Eterno Retorno",
+        "url": "https://open.spotify.com/album/3dEdpu1O1ZicjBvchw2Swh"
+      },
+      "artists": [
+        {
+          "name": "Louis Goodman",
+          "url": "https://open.spotify.com/artist/06CtxLVFp5Bbchyi7iWmjR"
+        }
+      ],
+      "date_added": "2022-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320000,
+      "name": "9 Vueltas al Sol",
+      "url": "https://open.spotify.com/track/7zbGn6Qui3UL9DFpexCKBs"
+    },
+    {
+      "album": {
         "name": "Sacred Drugs",
         "url": "https://open.spotify.com/album/1z3VxBmeYehR4iKUkQ0IST"
       },
@@ -2116,6 +2134,24 @@
     },
     {
       "album": {
+        "name": "Los Estimados",
+        "url": "https://open.spotify.com/album/30sX3OfIDl2WB1DwbtHqlB"
+      },
+      "artists": [
+        {
+          "name": "Tati Falco",
+          "url": "https://open.spotify.com/artist/2iaZ9zGdSh6fSP3uBS6jV6"
+        }
+      ],
+      "date_added": "2022-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277589,
+      "name": "Los Estimados",
+      "url": "https://open.spotify.com/track/4YiUEZRZL8Ns7pseiazQZa"
+    },
+    {
+      "album": {
         "name": "Lost Heads",
         "url": "https://open.spotify.com/album/7MSt0uFGyUS5dfEzdhE2Za"
       },
@@ -2271,7 +2307,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-04",
       "duration_ms": 250214,
       "name": "Meme City",
       "url": "https://open.spotify.com/track/6KFtYRLRNKZZf5cQWGvtO0"
@@ -2784,6 +2820,24 @@
     },
     {
       "album": {
+        "name": "P\u00e5 knivan",
+        "url": "https://open.spotify.com/album/5FhK556d60Gy5XBHCrrrm5"
+      },
+      "artists": [
+        {
+          "name": "Sammal",
+          "url": "https://open.spotify.com/artist/163FlKihIniAXnf9NdoIZk"
+        }
+      ],
+      "date_added": "2022-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209907,
+      "name": "P\u00e5 knivan",
+      "url": "https://open.spotify.com/track/1LlK2ubpG3rHStn7ZGav3j"
+    },
+    {
+      "album": {
         "name": "A New Day Dawning",
         "url": "https://open.spotify.com/album/7CvbhsQF1ESh1ZXb2h0Sx4"
       },
@@ -3281,7 +3335,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-04",
       "duration_ms": 397813,
       "name": "Space Camel",
       "url": "https://open.spotify.com/track/6RKoe7UCtdONhVdo6625Lt"
@@ -3819,7 +3873,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-04",
       "duration_ms": 434989,
       "name": "Trees",
       "url": "https://open.spotify.com/track/6RTPhBy716vfQKcfCOVi3I"

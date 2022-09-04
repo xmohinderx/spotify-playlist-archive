@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The best new music by independent artists and labels\. Updates every Wednesday\. Cover: Mau P, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,105,644 likes - 66 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,105,136 likes - 66 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

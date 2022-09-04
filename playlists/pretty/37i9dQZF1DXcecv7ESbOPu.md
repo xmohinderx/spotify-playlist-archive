@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,474 likes - 108 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,473 likes - 108 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 32 | [Look Ma I Did It](https://open.spotify.com/track/0JvnmNjMnTQMRizhrKzMSO) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Baby Racks](https://open.spotify.com/artist/768KV6PLzzcqy1CRCMFUNW) | [Look Ma I Did It](https://open.spotify.com/album/6anFwVV3gBuCNINmz4Vnvz) | 3:27 |
 | 33 | [Big](https://open.spotify.com/track/3tyQEvKXHmON2mIdl06BBV) | [FBG GOAT](https://open.spotify.com/artist/5hq1b1Dgo4pPwbZV6iobbr), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Big](https://open.spotify.com/album/569jntaCYh9b2IcRZ0zP9i) | 2:34 |
 | 34 | [Follow Me](https://open.spotify.com/track/0fviMPVUV9OfHrDcRSBjr6) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [John Martin](https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq) | [Follow Me](https://open.spotify.com/album/6mnrUGLUFRZVLz9uaXnTke) | 3:14 |
-| 35 | [Feels Like Home](https://open.spotify.com/track/70ztDWxwMLHje4L7QUyu5d) | [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX), [Afrojack](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Feels Like Home](https://open.spotify.com/album/1kmfNuvrAumVBroiRieQt3) | 2:53 |
+| 35 | [Feels Like Home \- Official Song F1 Dutch Grand Prix](https://open.spotify.com/track/70ztDWxwMLHje4L7QUyu5d) | [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX), [Afrojack](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Feels Like Home \(Official Song F1 Dutch Grand Prix\)](https://open.spotify.com/album/1kmfNuvrAumVBroiRieQt3) | 2:53 |
 | 36 | [Tissues](https://open.spotify.com/track/0jRY4XO556pn1zHZAoY3ph) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Tissues](https://open.spotify.com/album/1LIAp7pyElYRzvlP0mXSew) | 3:35 |
 | 37 | [Cyclone](https://open.spotify.com/track/36SEfTZlBgmypZn0sgGroO) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [Cyclone](https://open.spotify.com/album/6Myyu3JPWPjy4W1ziaFUMy) | 3:36 |
 | 38 | [Sommartårar](https://open.spotify.com/track/4Akl0wddDthblkIkdaLI1N) | [Kvarteret](https://open.spotify.com/artist/6xBSrouGcMUDnoibs8MnlE) | [Sommartårar](https://open.spotify.com/album/0HsAsAQ5yJvZv8W0ZNWGRY) | 3:20 |
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 64 | [Mellan Gatorna I City](https://open.spotify.com/track/59s4xJwzDrwGCTpXrtGaT8) | [OLEEVER](https://open.spotify.com/artist/27ub3Orrk4Llinlo8O97kz) | [Mellan Gatorna I City](https://open.spotify.com/album/4vnPFL9KPOGH4Wnx9AFVfU) | 2:43 |
 | 65 | [Dagslända](https://open.spotify.com/track/1XkjWHznQ22al7m0gNfcs0) | [Organismen](https://open.spotify.com/artist/3emB29NMQgg857lVCa241t) | [Dagslända](https://open.spotify.com/album/1HT53odlsqMYW1cudamg3y) | 3:27 |
 | 66 | [Aldrig Suddas Ut \(feat\. Pash\)](https://open.spotify.com/track/7DYPE4XYq8zNsq50WPeIWP) | [Nomad](https://open.spotify.com/artist/264V8HSZDhiq3MPrTnVmed), [Simon Emanuel](https://open.spotify.com/artist/2mKcKa9yFqXzcxTEGhvKaZ), [More 10](https://open.spotify.com/artist/2tp6KnR4tYjOrpnwwwWGeu), [Pash](https://open.spotify.com/artist/2QaUAsIAqYahigcGx5aPoj) | [Den Stora Duken Vol\. II](https://open.spotify.com/album/6demLro8bufj19k0zqOJbk) | 3:26 |
-| 67 | [Snakes \(feat\. Speedy & P.J\)](https://open.spotify.com/track/3WVqdslI1nVJHvxe5dbr4c) | [Ice Csay](https://open.spotify.com/artist/4X1fbaUNw7K6pXP9WRQ7Dr), [Speedy](https://open.spotify.com/artist/75eRiT8WaCqjadLd21LkcF), [P.J.](https://open.spotify.com/artist/0nk65R1p1ZkMYbcidu79BT) | [Snakes \(feat\. Speedy & P.J\)](https://open.spotify.com/album/0izg7KRsQaVnDj5ErXT4Ww) | 3:00 |
+| 67 | [Snakes \(feat\. Speedy & P.J\)](https://open.spotify.com/track/3WVqdslI1nVJHvxe5dbr4c) | [Ice Csay](https://open.spotify.com/artist/4X1fbaUNw7K6pXP9WRQ7Dr), [Speedy](https://open.spotify.com/artist/6yumHfMcbCfI1QyBUHGvOB), [P.J](https://open.spotify.com/artist/26SfC2rUkcGiSpZfLtla29) | [Snakes \(feat\. Speedy & P.J\)](https://open.spotify.com/album/0izg7KRsQaVnDj5ErXT4Ww) | 3:00 |
 | 68 | [Don't Know What I Want](https://open.spotify.com/track/1VWrSNe54l1uH1rqIVW274) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Don't Know What I Want](https://open.spotify.com/album/6YsEwFwufhh38wDpmLRzfz) | 2:25 |
 | 69 | [Dansen som aldrig tar slut](https://open.spotify.com/track/5mJl6mM0l9o0eI3yyx8WpR) | [Gustaf & Viktor Norén](https://open.spotify.com/artist/7wgjhOBlEERCRSA6iloMvt) | [Dansen som aldrig tar slut / The River That Never Runs Dry](https://open.spotify.com/album/7jH2a0NsMipXXIOz0yebNX) | 2:46 |
 | 70 | [Somebody To Love](https://open.spotify.com/track/6vWVPm47MO34futOtGjYrO) | [Adrian Macéus](https://open.spotify.com/artist/1znCudkO8pApRUyRijRN2g) | [Somebody To Love](https://open.spotify.com/album/1zgougjIOlmS364XUexGr7) | 2:46 |

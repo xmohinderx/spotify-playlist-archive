@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTofcvJ2Dvma.md) - [plain]
 
 > Soundtrack your practice with this mix of chill and motivational tracks perfect for vinyasa yoga.
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,523 likes - 220 songs - 9 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,235 likes - 220 songs - 9 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

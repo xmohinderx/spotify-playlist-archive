@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7iB3RCnBnN4.md) - [plain]
 
 > Every song with over 1 billion streams on Spotify\. Cover: Doja Cat
 
-[Spotify](https://open.spotify.com/user/spotify) - 289,053 likes - 292 songs - 17 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 289,229 likes - 292 songs - 17 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

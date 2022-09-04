@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX147VuwpqwJX.md) - [plain]
 
 > The powerful, expressive sound of Ballroom and Vogue culture \- pioneered by the black LGBTQIA+ community\. Cover: Cakes da Killa
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,968 likes - 101 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,885 likes - 101 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX147VuwpqwJX.md) - [plain]
 | 47 | [Face / Look at That](https://open.spotify.com/track/1TNXEYH0QnKribMnTSKXwu) | [BE3K](https://open.spotify.com/artist/5CTU3qCfIjCOYMfzaPogFk) | [3](https://open.spotify.com/album/6AECp5wDwQilg07tmltSQd) | 3:07 |
 | 48 | [Jingle Balls](https://open.spotify.com/track/0OmmIqLH2Y1Ln2ddj7iebU) | [Ocean Kelly](https://open.spotify.com/artist/5Gzk0GbwDyoMuAvo4dhj3S) | [Jingle Balls](https://open.spotify.com/album/25k7tn8mxGfJjFVelyVnpa) | 1:46 |
 | 49 | [SOFT](https://open.spotify.com/track/6S7nkEdQy2y4N28scZxec4) | [Divoli S'vere](https://open.spotify.com/artist/5auaHQB2vtaJTdrppcTAEw) | [CKUNTINOMKSZ](https://open.spotify.com/album/2YzChAOzMjwskZWWuSXXcI) | 2:29 |
-| 50 | [HOUSE OF KETA \- Playgirls from Caracas Remix](https://open.spotify.com/track/3V9swS8KjBsVaSOJlnYzoi) | [FLUIDOSTUDIO](https://open.spotify.com/artist/51aWIDc4ApbJEEe3Ua2wRy), [Populous](https://open.spotify.com/artist/5Uy8Skuxzxf38jMDTndKIU), [M¥SS KETA](https://open.spotify.com/artist/594PwrFy2mmLueuUwUgoCM), [Kenjii](https://open.spotify.com/artist/0gK6u95aXuNa8jNjhgPc0o), [Playgirls from Caracas](https://open.spotify.com/artist/2DtlP0AAGRMHdesTux8mu9) | [HOUSE OF KETA](https://open.spotify.com/album/5bKEalOUBTY6CvdXoIVAyQ) | 3:42 |
+| 50 | [HOUSE OF KETA \- Playgirls from Caracas Remix](https://open.spotify.com/track/5qcx6g6Z4tZJszOU5q4eMM) | [FLUIDOSTUDIO](https://open.spotify.com/artist/51aWIDc4ApbJEEe3Ua2wRy), [Populous](https://open.spotify.com/artist/5Uy8Skuxzxf38jMDTndKIU), [M¥SS KETA](https://open.spotify.com/artist/594PwrFy2mmLueuUwUgoCM), [Kenjii](https://open.spotify.com/artist/4XGTWdwXP2hcowBniMcAW8), [Playgirls from Caracas](https://open.spotify.com/artist/2DtlP0AAGRMHdesTux8mu9) | [HOUSE OF KETA](https://open.spotify.com/album/47cw1ecpzbzDX4kz4f9PhV) | 3:42 |
 | 51 | [March](https://open.spotify.com/track/0sm118jBfsmXhMXziLMtf9) | [Monét X Change](https://open.spotify.com/artist/3XiIfBzhVYaADoU54bFm2w) | [March](https://open.spotify.com/album/6NA2jMLmEgq5PxrfIsMm8S) | 2:59 |
 | 52 | [Into The Light](https://open.spotify.com/track/3qbpb3YepbCVJMLx4jONIy) | [Purple Crush](https://open.spotify.com/artist/7k38mPk8Flx7gjsdVMIhg1) | [Ballroom Baby](https://open.spotify.com/album/5ltQzlLgfYXeP4sKh9aVWU) | 3:58 |
 | 53 | [clown shit \(up the wall\) \[SOPHIE Remix\]](https://open.spotify.com/track/4RMtFI3hGFBnyDg9YIvLLs) | [BABYNYMPH](https://open.spotify.com/artist/2ecIs55o71mEFMhkcaUnyB), [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu), [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [clown shit](https://open.spotify.com/album/25XfRZJiNYItar9V08ZOWn) | 6:27 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX147VuwpqwJX.md) - [plain]
 | 100 | [Some Type Of Way](https://open.spotify.com/track/7GQNJ4CPmz1HnZJufDfnGR) | [Gregg Evisu XL](https://open.spotify.com/artist/6aededuMz6UqTaWXyMopQs), [Jay R Neutron](https://open.spotify.com/artist/5vU33oQSK9YGIF60NySECr) | [Qweendom](https://open.spotify.com/album/4cuWLmE34YTJkiUgQVBeLv) | 2:30 |
 | 101 | [Witch Doktor](https://open.spotify.com/track/3ntelFceNINxt3xhEXhRc8) | [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE) | [Greatest Hits](https://open.spotify.com/album/4t09XQnmG7HufzESXNdWn4) | 6:46 |
 
-Snapshot ID: `MTY1OTY3MjAwMCwwMDAwMDAwMDBiMjMwMjllODVkYTI2ODJhNmU5NWY4NGFlNzMzYjk2`
+Snapshot ID: `MTY1OTY3MjAwMCwwMDAwMDAwMDE4ZjJlMTMyMGQ2ZWE0ZTFmYWI2MTQ1MGYyZDI3NjFi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjZQOVqxNHv.md) - [plain]
 
 > All the Intelligent Dance Music you'll need \(not necessarily to dance to\)\. Aphex Twin on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,085 likes - 200 songs - 18 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,258 likes - 200 songs - 18 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

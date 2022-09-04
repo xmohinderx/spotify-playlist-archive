@@ -4,7 +4,7 @@
 
 > No rules\. No boundaries\. Just cool music you need to hear\. Cover: DE'WAYNE
 
-518 songs - 1 day 3 hr 35 min - [published](https://open.spotify.com/playlist/4nMPQOlCNMSE5OFGV7xGWt)
+519 songs - 1 day 3 hr 40 min - [published](https://open.spotify.com/playlist/4nMPQOlCNMSE5OFGV7xGWt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -456,7 +456,8 @@
 | [Thin Thing](https://open.spotify.com/track/1Sbdw0lMZXkfVmjuH1UTb8) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [A Light for Attracting Attention](https://open.spotify.com/album/009EjjwUjtdjvH7UP0wHzi) | 4:30 | 2022-05-13 | 2022-06-18 |
 | [thought it was](https://open.spotify.com/track/3x1h0lsx1i2v9cUWnZssBa) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX), [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [thought it was](https://open.spotify.com/album/6P55gU4yR13niGsgVDxAwj) | 2:52 | 2022-01-21 | 2022-04-09 |
 | [THREE HEADS\*](https://open.spotify.com/track/4apXjryIqMFUdOjWMM6zZp) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [THREE HEADS\*](https://open.spotify.com/album/02BIHNzIl0WCC17CPM83gN) | 2:51 | 2022-08-19 |  |
-| [Time](https://open.spotify.com/track/1kOrZmrSnP1gub1kneRNHF) | [Vundabar](https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6) | [Time](https://open.spotify.com/album/7cwi5zqBBnLFVNO1HR49Zd) | 4:22 | 2022-08-12 |  |
+| [Time](https://open.spotify.com/track/1kOrZmrSnP1gub1kneRNHF) | [Vundabar](https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6) | [Time](https://open.spotify.com/album/7cwi5zqBBnLFVNO1HR49Zd) | 4:22 | 2022-08-12 | 2022-09-04 |
+| [Time](https://open.spotify.com/track/5OSMmIX3QvBW5wrChEujmZ) | [Vundabar](https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6) | [Shadow Boxing](https://open.spotify.com/album/2ClkPaYrHeaHGxiiSaMoyA) | 4:22 | 2022-09-02 |  |
 | [Timeless](https://open.spotify.com/track/0W1Rx82zq4RMOKTAuISY4P) | [American Authors](https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3), [Chad Tepper](https://open.spotify.com/artist/0Tcr6t5uyvDgOuNPCD36A3) | [Timeless](https://open.spotify.com/album/4zF6K0DihEMzNGxFO5MGlm) | 3:20 | 2022-02-04 | 2022-03-12 |
 | [Tissues](https://open.spotify.com/track/0jRY4XO556pn1zHZAoY3ph) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Tissues](https://open.spotify.com/album/1LIAp7pyElYRzvlP0mXSew) | 3:35 | 2022-09-02 |  |
 | [Toni](https://open.spotify.com/track/0oOi9CONKPVfTR2PqfcNSR) | [Interpol](https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B) | [Toni](https://open.spotify.com/album/1JxWTGp41Aw8KLXEyHYi68) | 4:34 | 2022-04-22 | 2022-07-30 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5hnjEy2ZXUZcEcy8jT0Wiw.md) - [plain]
 
 > Epic playlist full of amazing cyperpunk\-themed Synthwave &\#x2F; Retrowave\. Updated regularly.
 
-[Squares](https://open.spotify.com/user/t14vcl92sxsigc03414n3uyht) - 9,624 likes - 309 songs - 21 hr 25 min
+[Squares](https://open.spotify.com/user/t14vcl92sxsigc03414n3uyht) - 9,619 likes - 309 songs - 21 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -145,7 +145,7 @@ pretty - [cumulative](/playlists/cumulative/5hnjEy2ZXUZcEcy8jT0Wiw.md) - [plain]
 | 135 | [Test Pilot](https://open.spotify.com/track/3k7F9Z4RKOajIRQ2gDWO7N) | [Stilz](https://open.spotify.com/artist/0he5qSKLuYoGL223KSWjXJ), [The Encounter](https://open.spotify.com/artist/4BoYO8cPeKT28GGAYjDW3g) | [Starcrash](https://open.spotify.com/album/4Ovn7lQ2W3agN3KvqgaXFx) | 4:04 |
 | 136 | [Electric Death Machine](https://open.spotify.com/track/4bxOEBEaTfD1gnWQjI3dUy) | [Neoslave](https://open.spotify.com/artist/5iaVOli0HEhe5paNpfBnO6) | [Autoviolator](https://open.spotify.com/album/7CZ3sLzgl8VO0iqg6YiBTB) | 3:19 |
 | 137 | [Nuclear](https://open.spotify.com/track/1KjU0Elja36cJ7n8JE7s00) | [Lost Years](https://open.spotify.com/artist/04an0WtFSvVqQkGrgIxq1Y) | [Nuclear](https://open.spotify.com/album/6RHD14Syxi26ejOiNEm4iz) | 5:20 |
-| 138 | [Breath of a Serpent](https://open.spotify.com/track/4mvJuUedjCOL6fFp3inK2R) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of), [LudoWic](https://open.spotify.com/artist/4iH5e8eV3hGNCzhFwr1cND) | [Katana Zero \(Original Soundtrack\)](https://open.spotify.com/album/23KCp1w3aJeKdMrqcyodWK) | 3:36 |
+| 138 | [Breath of a Serpent](https://open.spotify.com/track/4mvJuUedjCOL6fFp3inK2R) | [LudoWic](https://open.spotify.com/artist/4iH5e8eV3hGNCzhFwr1cND) | [Katana Zero \(Original Soundtrack\)](https://open.spotify.com/album/23KCp1w3aJeKdMrqcyodWK) | 3:36 |
 | 139 | [Our Way](https://open.spotify.com/track/7eOpcDds4hSo0SQpvded4s) | [Odyssette](https://open.spotify.com/artist/1dPJi2zdu8rhtTRbbce9vJ), [Melllo](https://open.spotify.com/artist/78ks8w7ilnLHMKd3lLqNTc) | [Our Way](https://open.spotify.com/album/3zsuMDO80j72512LrBTQV6) | 4:07 |
 | 140 | [Beta Girl Lost in Forever](https://open.spotify.com/track/0UnklwphmoX6I0kZJK8Gg7) | [SelloRekt / LA Dreams](https://open.spotify.com/artist/5I4GhQs6SMqW1aqvrtqFoa) | [Parallel Lines](https://open.spotify.com/album/7tsBX856UU0zaXCUTqEyLB) | 3:36 |
 | 141 | [Timeline](https://open.spotify.com/track/1bbwOQwDYfENC2k6hpV1Oc) | [Iterations](https://open.spotify.com/artist/49kDrCRjTsLxJETYSWBVjt) | [Cathode Rayguns](https://open.spotify.com/album/1X1KFw87joG1giWDrR66Oz) | 4:20 |
@@ -289,7 +289,7 @@ pretty - [cumulative](/playlists/cumulative/5hnjEy2ZXUZcEcy8jT0Wiw.md) - [plain]
 | 279 | [Forgotten World](https://open.spotify.com/track/1TXWoy4KtZdDDAiVD3YtE4) | [Depthcruiser](https://open.spotify.com/artist/0RwBgMzUdepUvLD3Q1Sqfm) | [Depths of Perception](https://open.spotify.com/album/7icfYVwkedJcPjzCuQwGmt) | 3:30 |
 | 280 | [Red Planet](https://open.spotify.com/track/4u6AZRqSboam7jWsyd7yOL) | [Scandroid](https://open.spotify.com/artist/27qG899eLldfpYtPr3S3NJ) | [The Darkness](https://open.spotify.com/album/33lq6VsDlWd1Pwv02zErKR) | 4:36 |
 | 281 | [Reconfiguration \- Cyberpunk Mix](https://open.spotify.com/track/0IqdVt2DQMIPgnvhhRnObg) | [Runaway Droid](https://open.spotify.com/artist/3Ek1ULLo4QcO4JKEelaedq) | [Reconfiguration \(Cyberpunk Mix\)](https://open.spotify.com/album/4swICFFgucPILzGTD3C2id) | 3:46 |
-| 282 | [Driving Force: Neon Fog](https://open.spotify.com/track/6muN7HQBqTiicVPFwiZpcU) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of), [Bill Kiley](https://open.spotify.com/artist/6jYO2wnv847jRUsA7dciSs) | [Katana Zero \(Original Soundtrack\)](https://open.spotify.com/album/23KCp1w3aJeKdMrqcyodWK) | 4:16 |
+| 282 | [Driving Force: Neon Fog](https://open.spotify.com/track/6muN7HQBqTiicVPFwiZpcU) | [Bill Kiley](https://open.spotify.com/artist/6jYO2wnv847jRUsA7dciSs) | [Katana Zero \(Original Soundtrack\)](https://open.spotify.com/album/23KCp1w3aJeKdMrqcyodWK) | 4:16 |
 | 283 | [The Call of Catulu](https://open.spotify.com/track/1B7EIlJYRxJNKUzAJjuc7q) | [Cat Temper](https://open.spotify.com/artist/4fV1tmuToyWh9iG5tFUZU4) | [Something Whiskered This Way Comes](https://open.spotify.com/album/2aqPrc46AIEIbIhP3CLndy) | 2:57 |
 | 284 | [Memora](https://open.spotify.com/track/2PAwc7JR6ASO6BFuT5jMJE) | [Gesaffelstein](https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP) | [Hyperion](https://open.spotify.com/album/0JA38Ekhsv43y2lBj5GQkQ) | 3:37 |
 | 285 | [DarkBot Plotting His Evil Revenge in the UltraCorp HQ](https://open.spotify.com/track/0mtd8dHGHFqHx7K1dpuOOZ) | [Arctic Mega Defender](https://open.spotify.com/artist/4AQcUa62ohDxrUzHY1nS8X), [Alpha Chrome Yayo](https://open.spotify.com/artist/5zLis4yrXwIFGKX7ZKZd12) | [Battle of Planet Arctica](https://open.spotify.com/album/58TRLhoPN0DCtf2jO1BvzJ) | 4:14 |

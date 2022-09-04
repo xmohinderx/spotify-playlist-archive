@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 
 > The very best of Punjabi romance featuring B Praak
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,480 likes - 94 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,703 likes - 94 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 | 16 | [Nawa Nawa Pyaar](https://open.spotify.com/track/50DyjmQxDUAygFT31rD1kT) | [Gippy Grewal](https://open.spotify.com/artist/5kvGYraWFlXs2Jbt1Kphn8), [Tanu Grewal](https://open.spotify.com/artist/1eineiKpO6pp1nt22iwu47) | [Nawa Nawa Pyaar \(From "Yaar Mera Titliaan Warga"\) \- Single](https://open.spotify.com/album/2UbFUgSQy4u09v1jzah7qy) | 2:19 |
 | 17 | [Jaano Pyari](https://open.spotify.com/track/1mcKuC4EzNDmF9mGxaP4xe) | [Kaur B](https://open.spotify.com/artist/43iOhUGMAnS6QbPEUYqkpg) | [Blessed](https://open.spotify.com/album/15c0xFkzJnqo87cqR5sOyu) | 3:22 |
 | 18 | [Shiddat \- From "Jind Mahi”](https://open.spotify.com/track/2BZ4DouT143tx3ttLdY1Um) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX), [Goldboy](https://open.spotify.com/artist/3xXcmm9Re8N2sC15Ab5boo) | [Shiddat \(From "Jind Mahi”\)](https://open.spotify.com/album/3dg5unQzSCQD79o8bQbv3g) | 3:08 |
-| 19 | [NO LOVE](https://open.spotify.com/track/5B4YQN1FCuADJ0o4phAtwC) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [NO LOVE](https://open.spotify.com/album/71z4Ni4FHsAUWpcy1oFmOT) | 2:50 |
+| 19 | [NO LOVE](https://open.spotify.com/track/08Isz2ETWSBhvIl8UpKYsp) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [No Love](https://open.spotify.com/album/5Zcgog7sQ79ISF32y9nABU) | 2:50 |
 | 20 | [Hanju](https://open.spotify.com/track/2aJUxU4mqja75w650L6Ehi) | [Tarz Veer](https://open.spotify.com/artist/1LxN23cB8CKomJGdKPPSB5), [Music Nasha](https://open.spotify.com/artist/6YvJWewMypP77lmdqRMMkB) | [Hizar](https://open.spotify.com/album/30kPXKh9CAkJ3OEQFVOHgN) | 3:11 |
 | 21 | [Feel Safe](https://open.spotify.com/track/4m268S7e5ttPQQbFRM8Ah0) | [Garry Sandhu](https://open.spotify.com/artist/7M3xY5iHSzEtoL3FpqOD75) | [Feel Safe](https://open.spotify.com/album/6ZR6Il83UooDKFMUqR7QnT) | 2:41 |
 | 22 | [Guitar \- From the Album "XYZ"](https://open.spotify.com/track/76XQ1JrztUciUlQHYIXLl0) | [Karan Randhawa](https://open.spotify.com/artist/3mnR9SJ3hfV6EcrGKH44H9) | [Guitar](https://open.spotify.com/album/2cZavSlbZLnEpU938tCGuG) | 2:32 |
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 | 93 | [Top Notch Gabru](https://open.spotify.com/track/5ACacHdqtOjENeTgh4qfmy) | [Vicky](https://open.spotify.com/artist/7zCChitz4Xn1O7OqXjOhhR) | [Top Notch Gabru](https://open.spotify.com/album/00ZQAJAlj1QPNEm8hfHJDG) | 2:38 |
 | 94 | [Aj Kal Ve](https://open.spotify.com/track/0TYsZbl0ryJSUvyQeeLBRG) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ) | [Snitches Get Stitches](https://open.spotify.com/album/4lGKsta6BzDVgzKfcSCC7E) | 3:23 |
 
-Snapshot ID: `MTY2MjEwNDMzNywwMDAwMDAwMDU4ZDIzYzI2ZWYwNDA5YzI5NzU4ZDlkODIxNDU1YWE4`
+Snapshot ID: `MTY2MjEwNDMzNywwMDAwMDAwMDljODE4NGFmMjJiMTNjODY3OTYwNTI1YThlYTg3ZGUz`

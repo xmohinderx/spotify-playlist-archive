@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX949uWWpmTjT.md) - [plain]
 
 > A soft and slow jazz soundtrack to play in the background to all your activities.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,249 likes - 125 songs - 10 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,345 likes - 125 songs - 10 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

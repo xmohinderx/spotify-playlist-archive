@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XI8j0WLbht.md) - [plain]
 
 > Color, humor y narrativas contemporáneas que recorren toda Latinoamérica\. Silvana Estrada en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,960 likes - 100 songs - 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,975 likes - 100 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XI8j0WLbht.md) - [plain]
 | 51 | [Sembrando Flores](https://open.spotify.com/track/6LYLxRDlZ6TZApHD7oNddu) | [Los Cojolites](https://open.spotify.com/artist/6SFpEAywC3u4kjE00wHMoO) | [Sembrando Flores](https://open.spotify.com/album/2L4pDxKqvwuJ6mr03Kc1I8) | 5:16 |
 | 52 | [Pescador](https://open.spotify.com/track/5Zb5h5ccGnBCvVCWibWEcD) | [Snowapple](https://open.spotify.com/artist/6bLz3VdMwvf9q8tSYl3BeM) | [Wexico](https://open.spotify.com/album/668lUEi8btiUYBIecpcCeE) | 6:20 |
 | 53 | [Mi Conga Es De Akokán](https://open.spotify.com/track/6FJ0VplefpgvlK4sqzDwlE) | [Orquesta Akokán](https://open.spotify.com/artist/0ntVDLb8Ro6BLGVBVOBFVS) | [Mi Conga Es De Akokán](https://open.spotify.com/album/7j6GwM7a2pz8J1kIfOTodZ) | 3:32 |
-| 54 | [Veracruz](https://open.spotify.com/track/5BtCjOEPnTt3m1PbCRxQhd) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Veracruz](https://open.spotify.com/album/6zQMFodbAoC1JJOtx2Q0av) | 4:03 |
+| 54 | [Veracruz](https://open.spotify.com/track/6QlEtyGqmX4dXASVeEEEDH) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Un Canto por México, Vol\. 1](https://open.spotify.com/album/6yDcHjoEqNkkl9UC6KSlFE) | 4:03 |
 | 55 | [El Balajú / Serenata Huasteca](https://open.spotify.com/track/0yDO4PTWyBeGtR35Q3Qt1a) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Los Cojolites](https://open.spotify.com/artist/6SFpEAywC3u4kjE00wHMoO) | [Un Canto por México, Vol\. 1](https://open.spotify.com/album/6yDcHjoEqNkkl9UC6KSlFE) | 4:28 |
 | 56 | [Lágrimas Negras](https://open.spotify.com/track/0LBLCeMdb0LeV9ncVdZbwB) | [Las Hermanas García](https://open.spotify.com/artist/0zZ15pVG2nScs1mtFZ2wDc), [Reynier Limonta](https://open.spotify.com/artist/0pnPRBAqtesmL0XSl6neqy) | [Lágrimas Negras](https://open.spotify.com/album/3j7YBot19H5ochk5dHuwiQ) | 5:18 |
 | 57 | [Cascabel](https://open.spotify.com/track/7KMZLP9Ehk6rbFHs6F3QWR) | [Centeno](https://open.spotify.com/artist/0SXDnCbgaeQMMXjXaspnUb) | [Cascabel](https://open.spotify.com/album/4LKr3W9nb0ZAU56TsKgye5) | 3:14 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XI8j0WLbht.md) - [plain]
 | 99 | [El Chico de Mi Rosal](https://open.spotify.com/track/67OKXj9tIZutfy8cg3od5k) | [Las Hermanas García](https://open.spotify.com/artist/0zZ15pVG2nScs1mtFZ2wDc), [Reynier Limonta](https://open.spotify.com/artist/0pnPRBAqtesmL0XSl6neqy) | [Sabor a Mar](https://open.spotify.com/album/5WfWuKkIHBJqcCogIQem9v) | 3:39 |
 | 100 | [Sana Sana](https://open.spotify.com/track/341SLEDngz2H0kE52OTXao) | [Alejandro y Maria Laura](https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u) | [Sana Sana](https://open.spotify.com/album/1G95aTui2iEdUAyotrs6h9) | 5:02 |
 
-Snapshot ID: `MTY1MDQzMDgwMCwwMDAwMDAwMGZiZTRiN2UyNGFlYmEwMWI0MWQyZDVkYmE3MDRmMTUy`
+Snapshot ID: `MTY1MDQzMDgwMCwwMDAwMDAwMDdkMzY4MzViMzQwODJlYTVjMDRjODcwYmI1ZThjYzIy`

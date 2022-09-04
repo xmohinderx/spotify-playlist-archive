@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQFf8ygD236.md) - [plain]
 
 > Celebrate South Asian Heritage Month with Asim Azhar's favorite South Asian tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 904 likes - 20 songs - 1 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 907 likes - 20 songs - 1 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQFf8ygD236.md) - [plain]
 | 3 | [Safina](https://open.spotify.com/track/6GVUN2rDQdxtSdX7pMZh3j) | [Aisha Ijlal](https://open.spotify.com/artist/2It0rhAgCkWyxdzaSbfz0e), [Shuja Haider](https://open.spotify.com/artist/5efKihafekkUH7UjW5XUPt) | [Safina](https://open.spotify.com/album/6HwFq9xr2afg8IGEsGF8r9) | 4:25 |
 | 4 | [Manike Mage Hithe](https://open.spotify.com/track/5JO2usoem1CW1pLL1kLj9E) | [Chamath Sangeeth](https://open.spotify.com/artist/3Bej6ikcqBylMRbkX1DKpu), [Yohani](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI), [Satheeshan](https://open.spotify.com/artist/3N3y9RPCdGRECp1MWJr00c) | [Manike Mage Hithe](https://open.spotify.com/album/0CuAXOxHwlGy4l8cyUD3bs) | 2:42 |
 | 5 | [Muaziz Saarif](https://open.spotify.com/track/3tDoe3YGIltxR9zv5AkWqi) | [Meesha Shafi](https://open.spotify.com/artist/6gWwKC0laX7pTPjNgrwvQR), [Faris Shafi](https://open.spotify.com/artist/1LAdnp9wIdKClX7Cool0GD) | [Muaziz Saarif](https://open.spotify.com/album/1TpkynqQUmK6bTwMotcx1L) | 4:41 |
-| 6 | [NO LOVE](https://open.spotify.com/track/5B4YQN1FCuADJ0o4phAtwC) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [NO LOVE](https://open.spotify.com/album/71z4Ni4FHsAUWpcy1oFmOT) | 2:50 |
+| 6 | [NO LOVE](https://open.spotify.com/track/08Isz2ETWSBhvIl8UpKYsp) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [No Love](https://open.spotify.com/album/5Zcgog7sQ79ISF32y9nABU) | 2:50 |
 | 7 | [JEENA](https://open.spotify.com/track/0by78fE6JVv4MaHxZaM8q8) | [Shuja Haider](https://open.spotify.com/artist/5efKihafekkUH7UjW5XUPt), [Zaw ali](https://open.spotify.com/artist/1uqIK62qerGT2HndrmCYIs) | [JEENA](https://open.spotify.com/album/3FudXNXjCjVFIrsETzW4AA) | 3:30 |
 | 8 | [Thagyan](https://open.spotify.com/track/6KdTA6s7zmqLyB5ZNvVta0) | [Zain Zohaib](https://open.spotify.com/artist/0M4wzwZKh9SSHkOXYNvQlP), [Quratulain Balouch](https://open.spotify.com/artist/5r3gdJkUB4oAcnuIGXEB7q) | [Thagyan](https://open.spotify.com/album/0tcyDiVe5YVzXXocO1nk1m) | 5:07 |
 | 9 | [Mehram](https://open.spotify.com/track/2oi55VmillH7At5wHVNFbE) | [Asfar Hussain](https://open.spotify.com/artist/7lDDbppbcK5F2ZJXG12pru), [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Mehram](https://open.spotify.com/album/1I7fGWBGZzOfsbkxxLGSyq) | 5:38 |
@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQFf8ygD236.md) - [plain]
 | 19 | [Mango](https://open.spotify.com/track/4y65QrOxJvckOr8ePyiiVQ) | [Bilal Shahid](https://open.spotify.com/artist/3e1b5YHWfO80pDTVulRlLk) | [Mango](https://open.spotify.com/album/70a9FxJTywRJpzXunFUB1z) | 2:54 |
 | 20 | [Chicken Lemon Rice](https://open.spotify.com/track/6nsKYAXnnHDUNC1kmnLUMq) | [Priya Ragu](https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F) | [damnshestamil](https://open.spotify.com/album/5Uape09ZvhDOfCmSqQN8Wm) | 2:33 |
 
-Snapshot ID: `MTY1ODExNjgwMCwwMDAwMDAwMDU5NzRjN2IxYzVjMTJkZDJjMzdhMWFhYWZiYzUzOWFm`
+Snapshot ID: `MTY1ODExNjgwMCwwMDAwMDAwMDVlM2I4NWJjOTVlZjczYjAxZGIwMGNmZjVmZTEzODU0`

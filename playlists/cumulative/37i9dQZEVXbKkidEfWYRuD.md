@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Ukraine.
 
-824 songs - 1 day 14 hr 23 min - [published](https://open.spotify.com/playlist/2khSqJzu5boGIN7vM3USHL)
+825 songs - 1 day 14 hr 26 min - [published](https://open.spotify.com/playlist/2khSqJzu5boGIN7vM3USHL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [Astronaut In The Ocean](https://open.spotify.com/track/3VT8hOC5vuDXBsHrR53WFh) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd) | [Astronaut In The Ocean](https://open.spotify.com/album/57UjGWNfxfsBCykDm73XBK) | 2:12 | 2021-03-27\* | 2021-05-30 |
 | [AYОЙ](https://open.spotify.com/track/1lf0coB1tmgEcGHBHoArJA) | [Boulevard Depo](https://open.spotify.com/artist/7dH8w9flSy9w81ilr0xXWe) | [AYОЙ](https://open.spotify.com/album/42LzQaGa6yM1RnEi8Ua3bQ) | 2:20 | 2022-08-20 | 2022-08-22 |
 | [Baby mama](https://open.spotify.com/track/5X33A2X2OuQXUOKhawWCMm) | [Skryptonite](https://open.spotify.com/artist/3vvLuXEEf7sl3izJcw0GIn), [Райда](https://open.spotify.com/artist/06j0PdOWS31kMCmfxsCwg9) | [Baby mama](https://open.spotify.com/album/7o0T8sLI46zoWURcX0NFdT) | 3:51 | 2021-07-29 | 2022-02-26 |
-| [Back to Life \(Birthdae\)](https://open.spotify.com/track/4rirIXfDRE3G9buCYVuk2V) | [ScurtDae](https://open.spotify.com/artist/3asPo62n9VYDmN6FIkCcEk) | [Back to Life \(Birthdae\)](https://open.spotify.com/album/2gMFfEXe4sUSs4e5SguEzy) | 2:37 | 2022-08-30 |  |
+| [Back to Life \(Birthdae\)](https://open.spotify.com/track/4rirIXfDRE3G9buCYVuk2V) | [ScurtDae](https://open.spotify.com/artist/3asPo62n9VYDmN6FIkCcEk) | [Back to Life \(Birthdae\)](https://open.spotify.com/album/2gMFfEXe4sUSs4e5SguEzy) | 2:37 | 2022-08-30 | 2022-09-04 |
 | [Back to Life \(Birthdae\)](https://open.spotify.com/track/4iGKPU8XBlsUoOoyvsFhLw) | [ScurtDae](https://open.spotify.com/artist/3asPo62n9VYDmN6FIkCcEk) | [Back to Life \(Birthdae\)](https://open.spotify.com/album/6caxt5SHHvkw9hfTMMgRgt) | 2:37 | 2022-08-18 | 2022-08-20 |
 | [Bad Habits](https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:50 | 2021-10-31 | 2021-11-02 |
 | [Bad Habits](https://open.spotify.com/track/6PQ88X9TkUIAUIZJHW2upE) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Bad Habits](https://open.spotify.com/album/01NhUvviMytvV12pmJiDZH) | 3:51 | 2021-06-27 | 2021-10-16 |
@@ -818,6 +818,7 @@
 | [Это наш путь](https://open.spotify.com/track/5og1GoWi98dDgD4Nx6cXNx) | [Max Korzh](https://open.spotify.com/artist/5meD8C7oGK5yUEY2T7ZZ7W) | [Это наш путь](https://open.spotify.com/album/4fnEEg61x7aNOSF2G6AIPu) | 2:56 | 2022-06-18 | 2022-06-27 |
 | [ЮМОРИСТ \- Original Motion Picture Soundtrack](https://open.spotify.com/track/571md1FedFYFaYUMUktYaF) | [FACE](https://open.spotify.com/artist/2z20q6EEfm6w6PiIKsgtb3) | [ЮМОРИСТ \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5FBvfK95SfIiDA3pMsfg9j) | 2:23 | 2022-03-31 | 2022-04-13 |
 | [Я в моменте](https://open.spotify.com/track/0sZ3fmbfUS5tMVzhXLXXPE) | [Dzharakhov](https://open.spotify.com/artist/7oxIi3tF8bOBxAcSixbojj), [Markul](https://open.spotify.com/artist/3Vfd5HJnhjnvdyuQYHtYa2) | [Я в моменте](https://open.spotify.com/album/3njbXvOfMafaXPM0QZxuyK) | 2:06 | 2021-06-06 | 2021-10-10 |
+| [Я вб'ю всіх богів](https://open.spotify.com/track/6CAdXhq9d2XqtNaIsHDiQm) | [хейтспіч](https://open.spotify.com/artist/2sdWfIbu9rLQ0p7MULuhxC) | [Я вб'ю всіх богів](https://open.spotify.com/album/4QHROlM8MdKACTc4JuoqMk) | 3:38 | 2022-09-03 |  |
 | [Я всё решу \(Intro\)](https://open.spotify.com/track/3sRsr0TzQ1gMEEzJfWf9cW) | [ZAPOMNI](https://open.spotify.com/artist/4V8bQXsHrlkgPwjTLSmgYU) | [BACKGROUND](https://open.spotify.com/album/2JoaHoCGIfFErAD74QjsOT) | 2:13 | 2022-01-19 | 2022-02-26 |
 | [Я КОГДА\-НИБУДЬ УЙДУ](https://open.spotify.com/track/6QB1oWG24viKZEW3WgXWeZ) | [MORGENSHTERN](https://open.spotify.com/artist/0XNKQFs2Ewb3y0VsFUFc5l) | [MILLION DOLLAR: BUSINESS](https://open.spotify.com/album/04KjJSDImRLbElsI39hPLY) | 2:40 | 2021-05-29 | 2021-11-13 |
 | [Я НА ТАБЛАХ](https://open.spotify.com/track/4YigzcQjSi7WPgJ34W8orv) | [MORGENSHTERN](https://open.spotify.com/artist/0XNKQFs2Ewb3y0VsFUFc5l) | [MILLION DOLLAR: BUSINESS](https://open.spotify.com/album/04KjJSDImRLbElsI39hPLY) | 2:25 | 2021-05-30 | 2021-06-05 |

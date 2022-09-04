@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwbZHrJRIgD.md) - [plain]
 
 > Welcome the weekend with these happy hits\. Cover\- Sidharth Malhotra, Alia Bhatt, and Fawad Khan
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,551 likes - 54 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,665 likes - 54 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,9 +23,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwbZHrJRIgD.md) - [plain]
 | 13 | [Love You Zindagi](https://open.spotify.com/track/6k3XXCE1ZzwevQlxf8dNaw) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Jasleen Royal](https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c) | [Dear Zindagi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/29njH6pDF6JE65D2VJbAxW) | 3:52 |
 | 14 | [Roz Roz](https://open.spotify.com/track/6E6BCsQHXDAdXsrL7zV71N) | [The Yellow Diary](https://open.spotify.com/artist/6xlrAAgxcRlgCXnbg2hcFc), [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB) | [Roz Roz](https://open.spotify.com/album/1XRn1HkOk0Nc3fLKcfkNu2) | 3:38 |
 | 15 | [Tum Mile \- Lofi Flip](https://open.spotify.com/track/1CsRoIeHaHRysPMoEaKRoQ) | [KSW](https://open.spotify.com/artist/2GhRzK7XzixKuZYEEfUkBR), [Neeraj Shridhar](https://open.spotify.com/artist/3tHD07u1ON4uHxmnT9rwqZ), [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU) | [Tum Mile \(Lofi Flip\)](https://open.spotify.com/album/3HLuAGbNIeDhx1MlR9auER) | 4:02 |
-| 16 | [Thandi Hawa](https://open.spotify.com/track/47a8ZHfi1MYmiSVVdS7gId) | [Ritviz](https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb) | [Thandi Hawa](https://open.spotify.com/album/3p8eF3bcvZP61JuVNKloJC) | 3:23 |
+| 16 | [Thandi Hawa](https://open.spotify.com/track/5tyReDTH3MpN7J5pk2LuGx) | [Ritviz](https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb) | [Dev](https://open.spotify.com/album/6y1pmHE0VptaUzu39ApqqE) | 3:23 |
 | 17 | [Khulke Jeene Ka](https://open.spotify.com/track/1XFZMenJ30FfGOsj8X5sqf) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Shashaa Tirupati](https://open.spotify.com/artist/12CpR4SNDzVIlDoPSeNFeW) | [Dil Bechara \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5zrZPXoYsu772sB3CwVuxr) | 4:06 |
-| 18 | [Liggi](https://open.spotify.com/track/4vwPirpSJCOiIsgxMV4Xcv) | [Ritviz](https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb) | [Liggi](https://open.spotify.com/album/1zITUizbdnwegHf2BM7faa) | 3:01 |
+| 18 | [Liggi](https://open.spotify.com/track/7tbzfR8ZvZzJEzy6v0d6el) | [Ritviz](https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb) | [Dev](https://open.spotify.com/album/6y1pmHE0VptaUzu39ApqqE) | 3:01 |
 | 19 | [Haal E Dil](https://open.spotify.com/track/16lH4jJGDJmPe0p0EcmxnP) | [Sundeep Gosswami](https://open.spotify.com/artist/5fLwwxQnzdmiB17dWPd4cb) | [Haal E Dil](https://open.spotify.com/album/3Ipdea2ADVYkbW5ErVaPMp) | 3:25 |
 | 20 | [Life Is Crazy](https://open.spotify.com/track/5gN3uHEvCU4Ui6RBCN1lEA) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ), [Uday Benegal](https://open.spotify.com/artist/4UUhpxk7Znfhj3DfZycudP), [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a), [Loy Mendonsa](https://open.spotify.com/artist/1KIKn2xA1mgC7uJTcS1hEU), [Alyssa Mendonsa](https://open.spotify.com/artist/279ZItWl3nzCaO4SJJdzAN) | [Wake Up Sid \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1fzE65RP7Gyhi8hdOv8eRQ) | 3:41 |
 | 21 | [Nadaaniyaan](https://open.spotify.com/track/2aUZaQ3ZFxh63KpSBfHNnZ) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arjun Kanungo](https://open.spotify.com/artist/3bAFvRjPZrpRz9Ox1sElQa), [Lisa Mishra](https://open.spotify.com/artist/418X5slNWlJwym4x3Oq3Cs) | [The Sky Is Pink](https://open.spotify.com/album/5nrC9FfKeVlrDZsK5F0wq3) | 4:18 |
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwbZHrJRIgD.md) - [plain]
 | 53 | [Raat Bhar](https://open.spotify.com/track/3ctaMit7CuiHIPVYrRvm15) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Heropanti](https://open.spotify.com/album/3OozDMNwTvyCP4bOhsSou0) | 5:25 |
 | 54 | [Befikra](https://open.spotify.com/track/06wTXKpDMrSp5OfB7MErpx) | [Meet Bros.](https://open.spotify.com/artist/0qpsFfOT3SmdGmnyV6rOhS), [Aditi Singh Sharma](https://open.spotify.com/artist/4iW4xSfMEIvrXM0Iu3aFDY), [Natalie Ram](https://open.spotify.com/artist/2kUxI9BlfC8j2cx2hdkPIj), [Thomson Andrews](https://open.spotify.com/artist/2m9a8Cd9J0l2ReAQ6kg8LB), [Keshia Braganza](https://open.spotify.com/artist/1MnwT7VlD8pJpdbPK49b2k), [Gwen Dias](https://open.spotify.com/artist/1MUIFyUKNBBDXNjkyrPzDP), [Ryan Dias](https://open.spotify.com/artist/4GchJyd4c9eakThZ0j4tCd) | [Befikra](https://open.spotify.com/album/0TUEWVhmKubH0dknaTOKLi) | 5:51 |
 
-Snapshot ID: `MTY1OTk1MTcyNywwMDAwMDAwMDMwYTIzMTI1ZWM1NGE1ZGM4ZmZmOWI4ZmRjNTgwMDA2`
+Snapshot ID: `MTY1OTk1MTcyNywwMDAwMDAwMDBiZjgxZjg5NmI4ZGRhOTlhYWFhZGRkZDlhNmExNDVj`

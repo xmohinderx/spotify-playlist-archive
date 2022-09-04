@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > All the best new tracks this week, all in one place\. Cover: Ava Max
 
-[Spotify](https://open.spotify.com/user/spotify) - 330,517 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 330,550 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 67 | [Bigger Than Me](https://open.spotify.com/track/1igXQJ8h25DY4AiVgyGohE) | [Louis Tomlinson](https://open.spotify.com/artist/57WHJIHrjOE3iAxpihhMnp) | [Bigger Than Me](https://open.spotify.com/album/11Kmry6hzWz0VFAI7s2Iz1) | 3:41 |
 | 68 | [In the Dark](https://open.spotify.com/track/2xETgec2TnBkVct3J2G3yh) | [Harrison Brome](https://open.spotify.com/artist/7oJtghmTMHdQ49zN8uLSob) | [In the Dark](https://open.spotify.com/album/5p0ILU7DFbjTFhu7di07Ke) | 3:16 |
 | 69 | [Divine Timing](https://open.spotify.com/track/3iFWUwrLai8rugDV9M95q6) | [Kelland](https://open.spotify.com/artist/7nZJ6x2Wj2suztg4H53GSf), [Dallas](https://open.spotify.com/artist/4G7Ft324bPwyWC2v35sns8) | [THINGS CHANGED](https://open.spotify.com/album/77FFl8rc8mTr7POq7lMfLa) | 2:06 |
-| 70 | [I Ain’t Gone Hold Ya](https://open.spotify.com/track/2jCQXY0zjBdSpp12egn0Wo) | [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG), [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH) | [I Ain’t Gone Hold Ya](https://open.spotify.com/album/3ZuQtnBkECX096kcyhoISC) | 2:19 |
+| 70 | [I Ain’t Gon Hold Ya](https://open.spotify.com/track/2jCQXY0zjBdSpp12egn0Wo) | [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG), [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH) | [I Ain’t Gon Hold Ya](https://open.spotify.com/album/3ZuQtnBkECX096kcyhoISC) | 2:19 |
 | 71 | [Can You Feel It](https://open.spotify.com/track/6VZdSWv7PU3NdYPW9IKOEx) | [Bodysync](https://open.spotify.com/artist/34KMxwDAHIvM7Kwt1PcClb), [Ryan Hemsworth](https://open.spotify.com/artist/2CgysNw5B7rFNRtRjQbPZ9), [Giraffage](https://open.spotify.com/artist/4kubsO16bEfCADaVUyoYb6) | [Can You Feel It](https://open.spotify.com/album/1ymlR8o7EjsuSuPY1DPbRA) | 2:06 |
 | 72 | [Night Shift](https://open.spotify.com/track/1wxgWPF7uUr9aHDC9QuMEO) | [One True God](https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp), [MASTERIA](https://open.spotify.com/artist/1cI5bP7j48xbopq0T3PRZO) | [Night Shift](https://open.spotify.com/album/5bjUYlYhUdopRQw4Lq4cKT) | 3:50 |
 | 73 | [Too Late](https://open.spotify.com/track/3wfb2gFrjFdz0u493VhcT3) | [DillanPonders](https://open.spotify.com/artist/1TlmLsx42aT281z8NWrKef), [BVB](https://open.spotify.com/artist/7azVk8ZXv1yB4rOmPMZvUD) | [Too Late](https://open.spotify.com/album/2EODIjTo27E7P0C2ZBOntl) | 2:12 |
@@ -103,7 +103,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 93 | [Happiest](https://open.spotify.com/track/28W4gLSm1wrdVu2dNplneI) | [Emma Beko](https://open.spotify.com/artist/4j7NgnYyG3MjsU7OfJnrzG) | [Happiest](https://open.spotify.com/album/11RQKPWjZv1aiWdQ9jUKw1) | 3:13 |
 | 94 | [Never Be Yours](https://open.spotify.com/track/5lSFXnuWpDpOv9unx2gwFr) | [Sofia Camara](https://open.spotify.com/artist/5bdLfpk3TpFVwrlHWmPL55) | [Never Be Yours](https://open.spotify.com/album/5kurSw80ftphOZwKYswRGZ) | 3:07 |
 | 95 | [Lies \(Wasted Time\)](https://open.spotify.com/track/38Y4CHGMOOLosrpNm3DKk3) | [JYDN HILL](https://open.spotify.com/artist/0kGGkgl2qYgVzrMKw2KjY2) | [Lies \(Wasted Time\)](https://open.spotify.com/album/4x9ZZ4WojHsGu0tQWJg5qZ) | 2:13 |
-| 96 | [Di Do](https://open.spotify.com/track/7FnhNTGIMwIXzvRejpvwT0) | [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL) | [Di Do](https://open.spotify.com/album/5z2FRwR7nv5uzuPDx3EBzM) | 2:22 |
+| 96 | [Di Do](https://open.spotify.com/track/7FnhNTGIMwIXzvRejpvwT0) | [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL) | [Di Do & No Closure](https://open.spotify.com/album/5z2FRwR7nv5uzuPDx3EBzM) | 2:22 |
 | 97 | [Into My Arms \- Radio Edit](https://open.spotify.com/track/66XJcRIDGLTuH7YIcdl8i6) | [Yurie](https://open.spotify.com/artist/7wDogImylcF6JsvvvXaCZ5) | [Into My Arms \(Radio Edit\)](https://open.spotify.com/album/3AQHOXLLh2mO5x5SOAA7yj) | 3:35 |
 | 98 | [Got Your Hands Tied \- Radio Edit](https://open.spotify.com/track/1xxttDrgnRxluzcYYc5MAQ) | [Marc Mysterio](https://open.spotify.com/artist/2aCd85DFBmf2mpACyzOvIu), [Lilllix](https://open.spotify.com/artist/1Qc6afCTYmkr37a26e8VyJ) | [Got Your Hands Tied \(Radio Edit\)](https://open.spotify.com/album/6X63nh3SdYvI7o2ccSZ9DL) | 3:13 |
 | 99 | [Atita](https://open.spotify.com/track/0OjGoqUNQ9znSdzEXl0T3w) | [Joseph Crime](https://open.spotify.com/artist/263mhJcYZhRpnTByW2f57G) | [Believe the Present](https://open.spotify.com/album/5ek8TSJUYoWDmSWlAGqsFm) | 4:17 |

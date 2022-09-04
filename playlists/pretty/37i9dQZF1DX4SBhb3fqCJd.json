@@ -1,13 +1,33 @@
 {
-  "description": "The pulse of R&B music today.  Cover: Brent Faiyaz",
-  "num_followers": 5956406,
+  "description": "The pulse of R&B music today.  Cover: Summer Walker",
+  "num_followers": 5955646,
   "original_name": "Are & Be",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjA5MTIwMCwwMDAwMDAwMGJiMjUzMWZkNTcwNzgwYzkxNWY3MDhjZDMwOWY0YmFj",
+  "snapshot_id": "MTY2MjE3MTMzNSwwMDAwMDAwMGJiNGVlMDFmYTdmZjE3YWE2YWU1NzZhYmVhZjE1MmJm",
   "tracks": [
+    {
+      "added_at": "2022-09-03 02:15:35",
+      "album": {
+        "name": "Away Message",
+        "url": "https://open.spotify.com/album/3r7f1s9s3NVbpZWSYRmYgk"
+      },
+      "artists": [
+        {
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        },
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 230841,
+      "name": "Queen Space (with Summer Walker)",
+      "url": "https://open.spotify.com/track/7i66yOTPEYGVXsAMbYZkga"
+    },
     {
       "added_at": "2022-07-08 04:10:33",
       "album": {
@@ -61,24 +81,20 @@
       "url": "https://open.spotify.com/track/2UqMwz0vqVDdkLHZrzSLOp"
     },
     {
-      "added_at": "2022-08-31 17:01:07",
+      "added_at": "2022-09-02 04:00:00",
       "album": {
-        "name": "Queen Space (with Summer Walker)",
-        "url": "https://open.spotify.com/album/6juUcr1BHeBUg2ipoLI0mV"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0aTksyiafCXTH3jbUIkwVs"
       },
       "artists": [
         {
-          "name": "Ari Lennox",
-          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
-        },
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+          "name": "Chl\u00f6e",
+          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
         }
       ],
-      "duration_ms": 230841,
-      "name": "Queen Space (with Summer Walker)",
-      "url": "https://open.spotify.com/track/3Gz3Tl8TicQbsR0OGvmc6C"
+      "duration_ms": 188989,
+      "name": "Freak Like Me - Spotify Singles",
+      "url": "https://open.spotify.com/track/7lxF9OOlLhxslC3BEDIMfB"
     },
     {
       "added_at": "2022-07-09 00:42:47",
@@ -149,23 +165,7 @@
       "url": "https://open.spotify.com/track/0h1ednFFd4xK5SCO8mXNOe"
     },
     {
-      "added_at": "2022-09-02 04:00:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0aTksyiafCXTH3jbUIkwVs"
-      },
-      "artists": [
-        {
-          "name": "Chl\u00f6e",
-          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
-        }
-      ],
-      "duration_ms": 188989,
-      "name": "Freak Like Me - Spotify Singles",
-      "url": "https://open.spotify.com/track/7lxF9OOlLhxslC3BEDIMfB"
-    },
-    {
-      "added_at": "2022-08-19 04:14:09",
+      "added_at": "2022-09-03 02:15:35",
       "album": {
         "name": "Pillow Talk",
         "url": "https://open.spotify.com/album/5OqXOVNWcFnBsYnPV0BWc6"
@@ -174,17 +174,21 @@
         {
           "name": "Tink",
           "url": "https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v"
+        },
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
         }
       ],
-      "duration_ms": 170943,
-      "name": "Opposite",
-      "url": "https://open.spotify.com/track/1hjQHLXevphvGIZUfRC239"
+      "duration_ms": 174175,
+      "name": "Mine",
+      "url": "https://open.spotify.com/track/7opxatMp7hibegdRc3Vnid"
     },
     {
-      "added_at": "2022-08-12 04:14:26",
+      "added_at": "2022-09-02 04:00:00",
       "album": {
-        "name": "Hoodie",
-        "url": "https://open.spotify.com/album/1ZLgyjJGWx0ocXdzxGAToN"
+        "name": "Away Message",
+        "url": "https://open.spotify.com/album/3r7f1s9s3NVbpZWSYRmYgk"
       },
       "artists": [
         {
@@ -192,9 +196,9 @@
           "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
         }
       ],
-      "duration_ms": 244412,
-      "name": "Hoodie",
-      "url": "https://open.spotify.com/track/4WQquFaW7w5ddLqjgwUizy"
+      "duration_ms": 176756,
+      "name": "Tatted",
+      "url": "https://open.spotify.com/track/2RG6QPD3ShS4LdS75XWMfE"
     },
     {
       "added_at": "2022-07-29 04:11:07",
@@ -301,22 +305,6 @@
       "url": "https://open.spotify.com/track/2mqTtvbKxH7SoEQ2oGAnsA"
     },
     {
-      "added_at": "2022-09-02 04:00:00",
-      "album": {
-        "name": "Away Message",
-        "url": "https://open.spotify.com/album/3r7f1s9s3NVbpZWSYRmYgk"
-      },
-      "artists": [
-        {
-          "name": "Ari Lennox",
-          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
-        }
-      ],
-      "duration_ms": 176756,
-      "name": "Tatted",
-      "url": "https://open.spotify.com/track/2RG6QPD3ShS4LdS75XWMfE"
-    },
-    {
       "added_at": "2022-06-24 04:00:00",
       "album": {
         "name": "Give Or Take",
@@ -387,6 +375,22 @@
       "duration_ms": 197260,
       "name": "Life Is Good (feat. Scribz Riley)",
       "url": "https://open.spotify.com/track/4bxr2sOVZSLjIN7tQx53ir"
+    },
+    {
+      "added_at": "2022-08-12 04:14:26",
+      "album": {
+        "name": "Hoodie",
+        "url": "https://open.spotify.com/album/1ZLgyjJGWx0ocXdzxGAToN"
+      },
+      "artists": [
+        {
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        }
+      ],
+      "duration_ms": 244412,
+      "name": "Hoodie",
+      "url": "https://open.spotify.com/track/4WQquFaW7w5ddLqjgwUizy"
     },
     {
       "added_at": "2022-08-12 04:14:26",

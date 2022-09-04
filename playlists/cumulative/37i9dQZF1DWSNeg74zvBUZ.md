@@ -4,7 +4,7 @@
 
 > Sunlight! The most precious gold to be found on Earth.
 
-124 songs - 9 hr 44 min - [published](https://open.spotify.com/playlist/6I8fmXMLAXw2qtlzy84laP)
+125 songs - 9 hr 48 min - [published](https://open.spotify.com/playlist/6I8fmXMLAXw2qtlzy84laP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [AT THE RIVERS EDGE](https://open.spotify.com/track/3Cf908nBvfqqH7rzAi8KbM) | [Celestial](https://open.spotify.com/artist/3SFCZy20vLywkF2KDiwqCk) | [I Had Too Much to Dream Last Night](https://open.spotify.com/album/1MmJmjY9LKhylRSgydvGwJ) | 4:31 | 2021-09-10 | 2022-07-29 |
 | [Awakening](https://open.spotify.com/track/0iqTeRwJinozkLa4PzNYQ4) | [INFINITY](https://open.spotify.com/artist/12pPh6VvLwN3gbBl1LXMPg) | [Breath](https://open.spotify.com/album/4C2zeEXXBDgrV95B7UQEmZ) | 10:44 | 2021-09-10 | 2022-07-29 |
 | [Berlin](https://open.spotify.com/track/1dUJSg35YhhEeG9potM4Cv) | [alva noto](https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp), [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Insen](https://open.spotify.com/album/3VT8eoRaoFsqjVcSu1GFfB) | 6:16 | 2021-09-10 | 2022-04-20 |
+| [Birki](https://open.spotify.com/track/7eVczwc5ifac0Refb83OFN) | [Jónsi](https://open.spotify.com/artist/3khg8RDB6nMuw34w1IHS6Y), [Kjartan Holm](https://open.spotify.com/artist/0BWRfTuCYTRzqnjYprarFo), [Sin Fang](https://open.spotify.com/artist/7xsi0kBJ58yWMu4WXFYPHU), [Alex Somers](https://open.spotify.com/artist/51UcKPhDKdKDGIjec0781x) | [Birki](https://open.spotify.com/album/45FNDz5cwraBbRazdMFdzP) | 4:03 | 2022-09-03 |  |
 | [Bismillahi 'Rrahmani 'Rrahim](https://open.spotify.com/track/5oTnjavcEz8hENl2nlYmdx) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [The Pavilion Of Dreams](https://open.spotify.com/album/0hWjBUtA4eoFsyh6lygVRN) | 18:27 | 2021-09-10 |  |
 | [Black Is The Color Of My True Love's Hair](https://open.spotify.com/track/35HX8z7O4MaVVrT40YEujJ) | [Marc Johnson](https://open.spotify.com/artist/3AT9157jK9F2gMSViMdRUH), [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5), [John Scofield](https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK), [Peter Erskine](https://open.spotify.com/artist/3Bm6MhzPUczH3Pej2FNqGi) | [Bass Desires](https://open.spotify.com/album/3ENSb9BRGFVzNinQh8cFhg) | 7:07 | 2021-09-10 | 2022-04-20 |
 | [Blonde](https://open.spotify.com/track/3y32oCGBAn9rYHMvcndmNf) | [Roger Eno](https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Mixing Colours](https://open.spotify.com/album/20WDVLmfzGI6vlXNGoLyxf) | 4:10 | 2021-09-10 | 2022-07-29 |
@@ -124,7 +125,7 @@
 | [Tobiume](https://open.spotify.com/track/4IQWc6rhJwpFrRKBLx27X6) | [Susumu Yokota](https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ) | [Sakura](https://open.spotify.com/album/2BRedpXNmL3NkN2eutmXZ2) | 4:38 | 2021-09-10 |  |
 | [TOBIUME](https://open.spotify.com/track/5JpfGKhIFJqGYdTf8wlr8q) | [Susumu Yokota](https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ) | [Sakura](https://open.spotify.com/album/4eN1ho9NT7q1YlG5xDNYNM) | 4:38 | 2021-09-10 | 2022-07-29 |
 | [Touch me & die](https://open.spotify.com/track/4fUyRdOqocwHCabG7gT71J) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [Aftertouches](https://open.spotify.com/album/7Fe43zwjkO6cMNrP8HdDoN) | 3:30 | 2021-09-10 | 2022-07-29 |
-| [Trade Winds, White Heat](https://open.spotify.com/track/56DtANH92Wh0BE7cUrb7hy) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [Radio Amor](https://open.spotify.com/album/5yHH2l3d2d2K5tNQGorEdR) | 4:22 | 2021-09-10 |  |
+| [Trade Winds, White Heat](https://open.spotify.com/track/56DtANH92Wh0BE7cUrb7hy) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [Radio Amor](https://open.spotify.com/album/5yHH2l3d2d2K5tNQGorEdR) | 4:22 | 2021-09-10 | 2022-09-04 |
 | [Translucent](https://open.spotify.com/track/7nXlwdROvJxmmtdkPNggfR) | [Hainbach](https://open.spotify.com/artist/3FlXXv8lfSt3ZWk9epMxe7), [Jeremy Blake](https://open.spotify.com/artist/1FnFDLE1iq1L5Md8tm1cXO) | [Home Stories](https://open.spotify.com/album/3TuDpNfwEGpVr666kvj4uW) | 4:40 | 2021-09-10 | 2022-07-29 |
 | [Ugly Orange](https://open.spotify.com/track/4O2JBu39WoNet8tz3xOS2P) | [yes/and](https://open.spotify.com/artist/7IxiRbidPWbGcs1K14lf98) | [Ugly Orange](https://open.spotify.com/album/5nRm1J2j9EqyHZrYVFCnho) | 4:19 | 2021-09-10 | 2022-07-29 |
 | [Welcome](https://open.spotify.com/track/2Mt27qdkzzjwSQq2TbTRnN) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI), [7RAYS](https://open.spotify.com/artist/0AkP07i2cYjfWmxqCpdwwx) | [Music For Psychedelic Therapy](https://open.spotify.com/album/2zY5p176SfmupXceLKT6bH) | 6:22 | 2021-11-12 |  |

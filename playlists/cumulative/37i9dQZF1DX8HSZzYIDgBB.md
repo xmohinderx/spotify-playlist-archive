@@ -4,7 +4,7 @@
 
 > Los nuevos sonidos y fusiones de música Alternativa Latina, con Pahua en portada.
 
-165 songs - 9 hr 58 min - [published](https://open.spotify.com/playlist/14AX2AOMCBOX7NLvLNkMVH)
+166 songs - 10 hr 3 min - [published](https://open.spotify.com/playlist/14AX2AOMCBOX7NLvLNkMVH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [El Cabrón \- Radio Edit](https://open.spotify.com/track/6W4efD0hmXfQH2nTl00Fqv) | [Dj Farrapo](https://open.spotify.com/artist/3Zd0T1sAyozwHb3u3MYtiP), [Carlo Maver](https://open.spotify.com/artist/2RgKeXFc9O23jlpLmAYbnA) | [El Cabrón](https://open.spotify.com/album/3408tnJWJPhB79M3m1wJnq) | 3:42 | 2021-10-05 |  |
 | [El Ciclo de las Mareas](https://open.spotify.com/track/4g4E7aFHAWqI6qBeSHfZ4G) | [Los Pilotos](https://open.spotify.com/artist/0KH6VwUGYaHCMTfp3WRxm4), [Mula](https://open.spotify.com/artist/0r8cjqflsgnXmXg5lzbprp) | [Alianza Atlántica](https://open.spotify.com/album/4ONpoZmgTyWotFTv79FOVT) | 4:29 | 2021-10-05 |  |
 | [El Invento \- Sofia Kourtesis Remix](https://open.spotify.com/track/1lV1ELb1CUSe94zV7h082P) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI), [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [El Invento EP](https://open.spotify.com/album/5hvdCkg5ETqfh9ZJlqWkOh) | 4:24 | 2022-03-11 | 2022-07-29 |
-| [El Invento \- Sofia Kourtesis Remix](https://open.spotify.com/track/7HxxjXqKiVnwJescANPzHu) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI), [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [El Invento EP](https://open.spotify.com/album/3HjkmLd8nsxhBhQfgTKD1w) | 4:24 | 2022-03-11 |  |
+| [El Invento \- Sofia Kourtesis Remix](https://open.spotify.com/track/7HxxjXqKiVnwJescANPzHu) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI), [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [El Invento EP](https://open.spotify.com/album/3HjkmLd8nsxhBhQfgTKD1w) | 4:24 | 2022-03-11 | 2022-09-04 |
 | [El Muchacho De Los Ojos Tristes](https://open.spotify.com/track/5Enzqa7GHAbtYnZZLrflnr) | [Adrian Quesada](https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv), [Tita](https://open.spotify.com/artist/5VUc3B1hoBWWwodjRD8JHp) | [Boleros Psicodélicos](https://open.spotify.com/album/2IjLewGcgMJMEAO5gHWwlG) | 3:40 | 2022-06-08 | 2022-08-20 |
 | [El Sol](https://open.spotify.com/track/2irBYZdlYxseHEz850SoL9) | [Mandale Mecha](https://open.spotify.com/artist/483XO10ZYxnxAqMkuOTJ2m), [MULAMBA](https://open.spotify.com/artist/6wd8OZcCaRQNDIMz6SPNGN) | [El Sol](https://open.spotify.com/album/7w2VOEKla6DNnWjDsIkaQf) | 3:09 | 2021-10-05 |  |
 | [El Traketeo](https://open.spotify.com/track/68wZUaqJLlzSgDpvtOD5z1) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [Barzo](https://open.spotify.com/artist/6H7lTzp0q6WGPUJObZz7sO) | [El Traketeo](https://open.spotify.com/album/4agbz0mDBK5O5c5qoAVOsj) | 3:22 | 2021-10-05 | 2022-09-03 |
@@ -91,6 +91,7 @@
 | [Lloro](https://open.spotify.com/track/2A2is5EUKFNtdcIT3yX9Gj) | [Marion Raw](https://open.spotify.com/artist/1BRIIX1uolmIQV9PrcedGj) | [Lloro](https://open.spotify.com/album/2I3XUFeagyBtNOsqVR0rxj) | 3:24 | 2022-04-23 | 2022-08-16 |
 | [Lo Sagrado](https://open.spotify.com/track/6hU4qL1RFuy5A5Ndk8t8Sv) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7), [Charlie Hunter](https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc) | [Lo Sagrado](https://open.spotify.com/album/3S4lvCHMkqUzXhqAWbrMEg) | 3:30 | 2021-10-05 | 2022-04-24 |
 | [Loco Playa](https://open.spotify.com/track/6fLQh9kAnir7RZGzM4OnXV) | [El General Villamil](https://open.spotify.com/artist/4GxlWANYiVFKSVePnKnDWH) | [Loco Playa](https://open.spotify.com/album/635YaUKh0wj4yKODmNC2L7) | 3:37 | 2021-10-22 |  |
+| [Los Estimados](https://open.spotify.com/track/4YiUEZRZL8Ns7pseiazQZa) | [Tati Falco](https://open.spotify.com/artist/2iaZ9zGdSh6fSP3uBS6jV6) | [Los Estimados](https://open.spotify.com/album/30sX3OfIDl2WB1DwbtHqlB) | 4:37 | 2022-09-03 |  |
 | [Magia](https://open.spotify.com/track/4jMHWmtD14blSqbRhq2gjp) | [Monogem](https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV) | [Magia](https://open.spotify.com/album/2cs1QNUdl1o7r9wsZjWtf7) | 3:19 | 2021-10-05 |  |
 | [Marineros](https://open.spotify.com/track/1TIyjwt0Q7tOe99lu1SjRA) | [Ulises Hadjis](https://open.spotify.com/artist/5Udwg8yiCTj2zTRt8zKRWH) | [Marineros](https://open.spotify.com/album/0fJJS7pmFtmEH5Lrfneny0) | 2:08 | 2022-08-08 |  |
 | [Maré](https://open.spotify.com/track/2TGNiLgm0TpUVVDSdf1gyt) | [Rodrigo Amarante](https://open.spotify.com/artist/0UOrkpzPED604dKzxgfJqg) | [Drama](https://open.spotify.com/album/4XGFdSkArqglb0DLPeh8N5) | 3:33 | 2021-10-05 | 2022-04-10 |

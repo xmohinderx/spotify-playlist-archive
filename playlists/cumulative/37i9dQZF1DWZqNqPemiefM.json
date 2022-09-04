@@ -386,6 +386,24 @@
     },
     {
       "album": {
+        "name": "Ake",
+        "url": "https://open.spotify.com/album/3GJ035mx6IyGLk2ppp0UU0"
+      },
+      "artists": [
+        {
+          "name": "Haruhisa Tanaka",
+          "url": "https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw"
+        }
+      ],
+      "date_added": "2022-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127120,
+      "name": "Ake",
+      "url": "https://open.spotify.com/track/2Y72i9VmRw4Ncq7RMrNPTh"
+    },
+    {
+      "album": {
         "name": "Moment",
         "url": "https://open.spotify.com/album/3mhmI2zWMLBmsZHVvhrpeI"
       },
@@ -3795,7 +3813,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-04",
       "duration_ms": 436402,
       "name": "Midsummer Night",
       "url": "https://open.spotify.com/track/599w57sIc7zTRE2f89TyiZ"

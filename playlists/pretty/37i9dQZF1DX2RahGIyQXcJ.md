@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RahGIyQXcJ.md) - [plain]
 
 > Celebrating South Asian Heritage Month with Divine's favourite tracks by South Asian creators.
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,225 likes - 37 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,279 likes - 37 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [295](https://open.spotify.com/track/5W7DOVGQLTigu09afW7QMT) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ) | [Moosetape](https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T) | 4:30 |
 | 2 | [Neeye Oli](https://open.spotify.com/track/5qX9iF6UmV0cypQgeu4ujh) | [Shan Vincent De Paul](https://open.spotify.com/artist/0pJlp3FfdJ2WRYmLsUc548), [Navz\-47](https://open.spotify.com/artist/1COjjFgtQEz2oxPHF6XIuu), [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6) | [Made in Jaffna](https://open.spotify.com/album/4fzYyzg0c0c6pFXHOnCVjO) | 3:57 |
-| 3 | [NO LOVE](https://open.spotify.com/track/5B4YQN1FCuADJ0o4phAtwC) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [NO LOVE](https://open.spotify.com/album/71z4Ni4FHsAUWpcy1oFmOT) | 2:50 |
+| 3 | [NO LOVE](https://open.spotify.com/track/08Isz2ETWSBhvIl8UpKYsp) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [No Love](https://open.spotify.com/album/5Zcgog7sQ79ISF32y9nABU) | 2:50 |
 | 4 | [Tu Te Kehndi C](https://open.spotify.com/track/77qPjPg8XG5lGXGR3EWCo3) | [Bohemia](https://open.spotify.com/artist/0SWOtgI95g7oVrP9halrmP), [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz) | [I Am ICON](https://open.spotify.com/album/6aepX1X3e3Ht6iy352llAd) | 3:18 |
 | 5 | [Area 06](https://open.spotify.com/track/4MvhFLJCcOkYQGI75Q11J4) | [Riar Saab](https://open.spotify.com/artist/34gAaWeYZoRER7MY3KBy1Q) | [Area 06](https://open.spotify.com/album/7uanSnGe72OAGYQkBRq0Hc) | 3:14 |
 | 6 | [Big Fax](https://open.spotify.com/track/2S02LvvwUmD4I4AIdpWNFR) | [Anik Khan](https://open.spotify.com/artist/23bSD5t38m4d6k8jtlZGDa) | [Big Fax \- Single](https://open.spotify.com/album/6EQ7LfsOrORHDDcM3chntZ) | 3:01 |
@@ -46,4 +46,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RahGIyQXcJ.md) - [plain]
 | 36 | [Jyotiana](https://open.spotify.com/track/4JJ0UDZ0j4h324HGiBHdXi) | [Fateh](https://open.spotify.com/artist/1t44XSPiW7z8PebleCo7uP), [Amar Sandhu](https://open.spotify.com/artist/52azpeiy7FKa0hoa8CwL6E) | [New Memories](https://open.spotify.com/album/2rnpZz4qrxYiptr4hG2nG9) | 2:51 |
 | 37 | [Bombay to Punjab](https://open.spotify.com/track/1xoQjCAP6a63tZXbsMziXk) | [Deep Jandu](https://open.spotify.com/artist/2RJawMqX9ESxws2KMtHyP3), [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz) | [Down to Earth](https://open.spotify.com/album/5q3xcIxiEhCrxwSaiiAqQ3) | 4:03 |
 
-Snapshot ID: `MTY1ODExNjgwMCwwMDAwMDAwMGUzZTQ0ODJhZjY4ZTQ3N2VhNDNkMmY0NDNjNjg4N2Rl`
+Snapshot ID: `MTY1ODExNjgwMCwwMDAwMDAwMDI2YzhmNzQ5MjJkZjBkYmY1MWVkMTU1MTJkYjIwZDVj`

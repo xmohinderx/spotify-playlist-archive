@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, entre lançamentos e hits\. Foto: Tz da Coronel
 
-[Spotify](https://open.spotify.com/user/spotify) - 294,896 likes - 75 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 295,485 likes - 75 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 2 | [Posturadão](https://open.spotify.com/track/0ToPj749UPF7MGE6KDyrIp) | [DomLaike](https://open.spotify.com/artist/4PzPx1yc3kGVo4EgCiLqCQ), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54) | [Posturadão](https://open.spotify.com/album/2IH59QF9TV9xbbtRAQKhEO) | 2:42 |
 | 3 | [202](https://open.spotify.com/track/3imzmQM2DPPVBLMiBBexRL) | [Kweller](https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07), [Enzo Cello](https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU) | [202](https://open.spotify.com/album/5F5QjUVSgXHrXj7xbhSRW6) | 2:50 |
 | 4 | [Metflix](https://open.spotify.com/track/3ZtHHGpAPSWC7Gnios4lmK) | [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [Metflix](https://open.spotify.com/album/36GkjPO0oYcbKFCYtbPEHj) | 2:13 |
-| 5 | [Outro Patamar](https://open.spotify.com/track/0hVKEiZ9lWwKQlBk4VZ0GK) | [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd) | [Outro Patamar](https://open.spotify.com/album/4J1SvtWJvuHaPkjk6PlIom) | 3:44 |
+| 5 | [Outro Patamar](https://open.spotify.com/track/0hVKEiZ9lWwKQlBk4VZ0GK) | [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [jess beats](https://open.spotify.com/artist/7uskxjQtkzfiqHCNIIv3gD) | [Outro Patamar](https://open.spotify.com/album/4J1SvtWJvuHaPkjk6PlIom) | 3:44 |
 | 6 | [Predestinado](https://open.spotify.com/track/7eZCP5YHeqVsIGaPp8y9ac) | [Oruam](https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd) | [Predestinado](https://open.spotify.com/album/2upWbocp41H5qa6FuKimfn) | 3:14 |
 | 7 | [Balazul](https://open.spotify.com/track/1RgJ4lexKGNBlKnyxB5SRt) | [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo), [Mateca](https://open.spotify.com/artist/6PCKJU7fu36U4fRl7354wU) | [Mateca x Teto](https://open.spotify.com/album/6UxAHRNJAQpp9Rd1aGrQd7) | 3:22 |
 | 8 | [Criminosa](https://open.spotify.com/track/04RKoySA2GMq0npUpLg3Qs) | [UCLÃ](https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP), [Duzz](https://open.spotify.com/artist/4oPnjkJcLqOim9KJxvIYMz), [Sobs](https://open.spotify.com/artist/0zuan1WYTIhlisigYXsqY9), [Mc Lucy](https://open.spotify.com/artist/44bzWn6GQs6zVXvnYtqIMa) | [Criminosa](https://open.spotify.com/album/3Nw944Sl9JCRll0hWLoEHJ) | 3:27 |

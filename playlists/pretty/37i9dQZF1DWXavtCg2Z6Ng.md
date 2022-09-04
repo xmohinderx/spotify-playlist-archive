@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXavtCg2Z6Ng.md) - [plain]
 
 > Kick back and relax to these chilled Blues classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,703 likes - 88 songs - 7 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,705 likes - 88 songs - 7 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

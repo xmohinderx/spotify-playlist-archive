@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCBGFNlTmIS.md) - [plain]
 
 > 生命中有各種離別時刻，在告別前，你會點播那一首歌給那位聽？
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,941 likes - 78 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,944 likes - 78 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCBGFNlTmIS.md) - [plain]
 | 61 | [夜機](https://open.spotify.com/track/6vm9hk35YBDhdJ14x29glO) | [Priscilla Chan](https://open.spotify.com/artist/5SLOTZhruJRRGgIRtTSPc5) | [永遠是你的朋友](https://open.spotify.com/album/5nlHzn91AzD35tIroeTt01) | 4:31 |
 | 62 | [得個等](https://open.spotify.com/track/0pnfuNHCpQC56xBuBXCqbT) | [JB](https://open.spotify.com/artist/2cpYCYngJfXf3wTJPCKDq2) | [得個等](https://open.spotify.com/album/2k7cZ6tUVPxiiq5VSYqS5n) | 4:17 |
 | 63 | [我們一起離開吧](https://open.spotify.com/track/5HtnfNpC6FoeKIswjbML92) | [my little airport](https://open.spotify.com/artist/3yfDRplDZh03Y0fEeCd6B0) | [寂寞的星期五](https://open.spotify.com/album/49MdV5EejhiQ1B4jygA17g) | 2:38 |
-| 64 | [每當變幻時](https://open.spotify.com/track/2DL0htS3Ee4EJlVdaM3KwT) | [薰妮](https://open.spotify.com/artist/3V8vKHOlOSNdH2IJjtghNf) | [薰妮的好歌集](https://open.spotify.com/album/4VowPNLAL6DfctN8bQWRDB) | 2:57 |
+| 64 | [每當變幻時](https://open.spotify.com/track/78C752I4sPRnHFtbjJtOAe) | [薰妮](https://open.spotify.com/artist/3V8vKHOlOSNdH2IJjtghNf) | [薰妮镭射大碟](https://open.spotify.com/album/2jd6r5f3gFI3EJV1tXeJ3W) | 2:57 |
 | 65 | [Will \(not\) see you soon.](https://open.spotify.com/track/0fZEGAFZXnDpTJI7Cf6GdC) | [Lester Chong](https://open.spotify.com/artist/1r19EpaTIboSLEJFgJ4Y4p) | [Will \(not\) see you soon.](https://open.spotify.com/album/3IEdkG0LYjYoQKbNF7dbUy) | 2:31 |
 | 66 | [Goodbye](https://open.spotify.com/track/0uH29nIii18yullPms1KE6) | [Dear Jane](https://open.spotify.com/artist/6V1SwiosQqf5XvmoTMCGa9) | [Goodbye](https://open.spotify.com/album/0YGoXtO72F2UwLw5oLQJGm) | 4:46 |
 | 67 | [皇后大道東](https://open.spotify.com/track/5X0ZFdwP8acfuyMoxSJ6pf) | [羅大佑](https://open.spotify.com/artist/7tuWI2luTp61HHGmviWid8), [蔣志光](https://open.spotify.com/artist/0xww7UDomE27mzi2gYnQsl) | [皇后大道東](https://open.spotify.com/album/3cPKZnvp9Wam5VnR4okGwJ) | 4:10 |
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCBGFNlTmIS.md) - [plain]
 | 77 | [獨家村](https://open.spotify.com/track/0FlQr1kPj50rAee1kJjk5p) | [Kay Tse](https://open.spotify.com/artist/6XtWdWAC7rNqXwbs8hGqP9) | [KONTINUE](https://open.spotify.com/album/5p2E0WphdOZE45CUoRbHg7) | 4:20 |
 | 78 | [鐵塔凌雲](https://open.spotify.com/track/5ALKwvEgxQpqrtCAJCvQhA) | [Sam Hui](https://open.spotify.com/artist/1SglpJrPltamdJLLwInIL7) | [真經典 \- 許冠傑](https://open.spotify.com/album/6Lzj5H2oIrmZgynj212qal) | 3:02 |
 
-Snapshot ID: `MTY0OTg3MzY5NSwwMDAwMDAwMGZmYzgwMDcxMzA4ODNkZDc4N2VjNWY4ZjE2MTFhYmUx`
+Snapshot ID: `MTY0OTg3MzY5NSwwMDAwMDAwMGJmNDI4ZmM5NWMzZTNmY2MwN2QxOGMyYjA0NmQ3YWVj`

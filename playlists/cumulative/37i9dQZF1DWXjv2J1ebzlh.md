@@ -4,7 +4,7 @@
 
 > The magical world map! Play it in shuffle ☀️
 
-1,581 songs - 4 day 10 hr 15 min - [published](https://open.spotify.com/playlist/0iDVwvtzO5q5icbp8vjmdq)
+1,582 songs - 4 day 10 hr 20 min - [published](https://open.spotify.com/playlist/0iDVwvtzO5q5icbp8vjmdq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1309,7 +1309,8 @@
 | [Soledad](https://open.spotify.com/track/5r9FWwgxZ4zWyTgv8DKeum) | [El Combo de los Galleros](https://open.spotify.com/artist/3LLHG54nDGz5Ult2YEbtlm) | [Cumbia Cumbia 1 & 2](https://open.spotify.com/album/33nptLvg4fk3Alpy32a5s3) | 2:47 | 2022-06-09 | 2022-07-29 |
 | [Soledad](https://open.spotify.com/track/7fG0bqv3XzEUW3CfQCoWfK) | [El Combo de los Galleros](https://open.spotify.com/artist/3LLHG54nDGz5Ult2YEbtlm) | [Cumbia Cumbia 1 & 2](https://open.spotify.com/album/3JoaLNavAXOlnbp0FUVF9b) | 2:47 | 2022-07-27 |  |
 | [Solo Bouzouki](https://open.spotify.com/track/126bLMkaSGAhNV8JViMOiF) | [Yiorgos Lafkas](https://open.spotify.com/artist/0GFRlBkvLvEfpOwwwdGJNa) | [Giorgos Lafkas Afieroma](https://open.spotify.com/album/46ApxKFihnEi5X8tLaawfl) | 2:57 | 2022-06-09 |  |
-| [Some Velvet Morning](https://open.spotify.com/track/2ulWlLJoPBhdShzrICcmiD) | [Gábor Szabó](https://open.spotify.com/artist/38CPjAAqYV8lTYi6clzbjG), [Jim Stewart](https://open.spotify.com/artist/1Gy2CxCb9Bvp6Wp0xQmSbq), [Hal Gordon](https://open.spotify.com/artist/08MG1w8piIBNcK7H4TTazQ), [Jimmy Keltner](https://open.spotify.com/artist/50appzhosvzQcqmeipXLtP), [Louis Kabok](https://open.spotify.com/artist/7ynQZmXaxvWuYmrHkVxs9u) | [Bacchanal](https://open.spotify.com/album/21c7ulNJzCSDIelgGBA1QF) | 5:25 | 2022-07-12 |  |
+| [Some Velvet Morning](https://open.spotify.com/track/1KKEwdot8tzMu33rn7gWjV) | [Gábor Szabó](https://open.spotify.com/artist/38CPjAAqYV8lTYi6clzbjG) | [Bacchanal](https://open.spotify.com/album/1jdyVUfQ7aXgQWTEhamyDS) | 5:22 | 2022-08-25 |  |
+| [Some Velvet Morning](https://open.spotify.com/track/2ulWlLJoPBhdShzrICcmiD) | [Gábor Szabó](https://open.spotify.com/artist/38CPjAAqYV8lTYi6clzbjG), [Jim Stewart](https://open.spotify.com/artist/1Gy2CxCb9Bvp6Wp0xQmSbq), [Hal Gordon](https://open.spotify.com/artist/08MG1w8piIBNcK7H4TTazQ), [Jimmy Keltner](https://open.spotify.com/artist/50appzhosvzQcqmeipXLtP), [Louis Kabok](https://open.spotify.com/artist/7ynQZmXaxvWuYmrHkVxs9u) | [Bacchanal](https://open.spotify.com/album/21c7ulNJzCSDIelgGBA1QF) | 5:25 | 2022-07-12 | 2022-09-04 |
 | [Sometimes You Feel Bad \- Bonus Version](https://open.spotify.com/track/3bPft0EevEtD03pPFI3QqT) | [Rogér Fakhr](https://open.spotify.com/artist/6UFqtFCNxhYqsQ1QRF6HRd) | [Fine Anyway \(Habibi Funk 016\)](https://open.spotify.com/album/2HrlABnkwte3NYA0erFtCU) | 2:34 | 2022-07-12 |  |
 | [Somos los Mirlos](https://open.spotify.com/track/108gTh3OIF4bQmB0Y2Jdrr) | [Los Mirlos](https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh) | [Los Charapas de Oro](https://open.spotify.com/album/1JJYeA9PCioo6wAewUA8CY) | 3:18 | 2022-06-09 |  |
 | [Son Montuno](https://open.spotify.com/track/6eEFoHIi9BDHZ7SZ6KxSQu) | [Johnny Colon](https://open.spotify.com/artist/4IQvRKcRuA2mzB6lc2E5Pm) | [Tierra Va A Temblar](https://open.spotify.com/album/4C8dcmzx6aZNwJa7cHhgYL) | 6:16 | 2022-06-09 |  |

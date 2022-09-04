@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 
 > 신곡 배달! The freshest K\-Pop releases are here! \(Cover: KEY\(키\)\) \(신선한 국내 최신곡들을 플레이리스트로 만나보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,222 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,307 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 2 | [Happy me from today](https://open.spotify.com/track/0G2od7Q5jxjJLoLA7nVVCk) | [JEONG SEWOON](https://open.spotify.com/artist/2l9aF9jOgB7GI1uyNkx836) | [Happy me from today](https://open.spotify.com/album/0FjiEU2hJADCycopmqAf66) | 3:53 |
 | 3 | [Wake Me Up \(Feat\. Meego\)](https://open.spotify.com/track/2nWaeTFKL8JcVfpPBkfsho) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [Meego](https://open.spotify.com/artist/1a09srXkFLTxDTfQRGRpNy) | [Unicorn \(Original Television Soundtrack\), Pt.1](https://open.spotify.com/album/1ikJMpMSCQfQg0ZopQSBVZ) | 3:24 |
 | 4 | [Diamonds](https://open.spotify.com/track/73Za0sGW3USEZjoNrYX145) | [LIL GIMCHI](https://open.spotify.com/artist/6GlkZqxomTSlcJUh9WvVKQ) | [Pain Melody](https://open.spotify.com/album/2ptGsggWDr8uFfczVGVgBC) | 2:35 |
-| 5 | [SEXY NUKIM \(feat\. RM of BTS\)](https://open.spotify.com/track/1XkMxUilV0E3ChDERZJUEq) | [Balming Tiger](https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1), [Omega Sapien](https://open.spotify.com/artist/46KQM3HJyONaKRTbcfNPlU), [wnjn](https://open.spotify.com/artist/4E4TZnDHlrhclSJgeund1d), [Mudd the student](https://open.spotify.com/artist/4xHlg3Tcv7TZZzFq0aW2hQ), [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [SEXY NUKIM \(feat\. RM of BTS\)](https://open.spotify.com/album/7osIz9TFdxYQAm4fgakanT) | 3:49 |
+| 5 | [SEXY NUKIM \(feat\. RM of BTS\)](https://open.spotify.com/track/1XkMxUilV0E3ChDERZJUEq) | [Balming Tiger](https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1), [Omega Sapien](https://open.spotify.com/artist/46KQM3HJyONaKRTbcfNPlU), [bj wnjn](https://open.spotify.com/artist/4E4TZnDHlrhclSJgeund1d), [Mudd the student](https://open.spotify.com/artist/4xHlg3Tcv7TZZzFq0aW2hQ), [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [SEXY NUKIM \(feat\. RM of BTS\)](https://open.spotify.com/album/7osIz9TFdxYQAm4fgakanT) | 3:49 |
 | 6 | [Private Ryan](https://open.spotify.com/track/2XGDoivgd4fealvfxucoNA) | [Layone](https://open.spotify.com/artist/2TTGZUWJg6LIOWsmCEgKCZ), [Gwangil Jo](https://open.spotify.com/artist/49cCO8Hy5heGnXj9hb6KEW), [Ahn byeong woong](https://open.spotify.com/artist/6cJ883ebXg0pWAwlzMcBxe) | [Private Ryan](https://open.spotify.com/album/5tFysRIpmKBZ9Vl6SNsLZp) | 2:33 |
 | 7 | [Barcarolle for lovers](https://open.spotify.com/track/6luJKVWCStoLxYqOWhiYul) | [Ko Yeong Yeol](https://open.spotify.com/artist/5peL5wOAMpnRJvc6zgzbwm) | [Barcarolle for lovers](https://open.spotify.com/album/2TQMY9LpIYwfJRpXQyzVlf) | 3:14 |
 | 8 | [내일이 되면](https://open.spotify.com/track/6PMHyBLXJft4jmxdCjgmta) | [soon](https://open.spotify.com/artist/1G3jhXJfaqMfNojx7SxDcW) | [내일이 되면](https://open.spotify.com/album/06P2vAqOGRpEgvs1eUrIyz) | 3:40 |

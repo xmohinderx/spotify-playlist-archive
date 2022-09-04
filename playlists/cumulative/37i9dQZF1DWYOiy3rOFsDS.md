@@ -4,7 +4,7 @@
 
 > Romance antigüito en voz de tus artistas pop con Fernanda Ulibarri y Leiden en portada.
 
-218 songs - 13 hr 2 min - [published](https://open.spotify.com/playlist/4BSRRbWHbtCycrKZ946Plx)
+219 songs - 13 hr 5 min - [published](https://open.spotify.com/playlist/4BSRRbWHbtCycrKZ946Plx)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,6 +182,7 @@
 | [Secreto de Amor](https://open.spotify.com/track/6zUaoRAegPui4OsVE1AANi) | [Guitarras Mágicas](https://open.spotify.com/artist/20lOJusSoLyiJR1CYQH4a0) | [25 Exitos](https://open.spotify.com/album/6rmBa08mpIj55kcE4AdSBS) | 3:53 | 2021-10-16 |  |
 | [Serenatas Frente al Mar](https://open.spotify.com/track/0MSHtsPSWj05pXPrOHaayV) | [Los Rumberos](https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip), [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Serenatas Frente al Mar](https://open.spotify.com/album/1aNtzgFUvrz4xSASabxeie) | 3:17 | 2021-10-16 |  |
 | [Señorita](https://open.spotify.com/track/7IOwZ2dsEZCg2NCeX7MCsm) | [Felipe Botello y El Sonoro Rugir](https://open.spotify.com/artist/1IcvjLbT3CPDoGPwpycAvr) | [Señorita](https://open.spotify.com/album/6j6DsW88KYbKSe7qrzJLPE) | 3:29 | 2021-10-16 | 2022-07-18 |
+| [Si las Paredes Hablaran](https://open.spotify.com/track/0MIE9dOJA39gXHwodePCAd) | [Los Rumberos](https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip) | [Si las Paredes Hablaran](https://open.spotify.com/album/5n3i7jgQL0c58GPn3oLdWL) | 3:09 | 2022-09-03 |  |
 | [Si Tú Supieras \- En Vivo Desde El Teatro Real](https://open.spotify.com/track/5X84dG9aZCTtlNx32WHPQD) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Si Tú Supieras \(En Vivo Desde El Teatro Real\)](https://open.spotify.com/album/3yTrEqEPA6T9qjbJUIGCJU) | 5:28 | 2021-10-16 | 2022-07-29 |
 | [Simplemente Soy](https://open.spotify.com/track/0eZCN62HdWkOcsxiuOygBZ) | [Ronroneo](https://open.spotify.com/artist/77331RTjW3jOf5YdjRDCPK) | [Simplemente Soy](https://open.spotify.com/album/5ArFraSEkQ6yM4ea6WxSNC) | 4:24 | 2021-10-16 | 2022-04-21 |
 | [Sin Razón](https://open.spotify.com/track/0ICVsFzO2T3j2FJ54rmFxk) | [La Ciencia de Juancho Valencia](https://open.spotify.com/artist/0qEMz90gSP62fGglkNnhg9) | [Enclave de Bolero](https://open.spotify.com/album/3C7x9eBK8VpQY4l6UgIQPy) | 3:10 | 2021-10-16 | 2022-05-21 |
@@ -220,7 +221,7 @@
 | [Veinte Años](https://open.spotify.com/track/1yzW4kYSLMNzmAd4XoQiJK) | [Isaac & Nora](https://open.spotify.com/artist/0RtgAasyC15Sf1DXhtORls) | [Veinte Años](https://open.spotify.com/album/3egreu9xRK7GckGFGqNKor) | 3:37 | 2021-10-16 | 2022-07-29 |
 | [Veinte Años](https://open.spotify.com/track/70XqvfxgfXusqHIUGmo65X) | [Fernanda Ulibarri](https://open.spotify.com/artist/7xcXkowvgYLmNwl8ST2uvd), [Leiden](https://open.spotify.com/artist/6fvjP4AZ19ce4gwJSr5qnI), [Musas Ensamble de Arpas](https://open.spotify.com/artist/6cHMCy1zPbtTZe62e3nUUg) | [Veinte Años](https://open.spotify.com/album/7y10h42cMtYY8FWliI9tfC) | 2:36 | 2022-07-20 |  |
 | [Veinte Años](https://open.spotify.com/track/7idoiWKligF3jmM8FMf6c6) | [Isaac & Nora](https://open.spotify.com/artist/0RtgAasyC15Sf1DXhtORls) | [Latin & Love Studies](https://open.spotify.com/album/771YlZnyW3Dhj8n9X4wMWM) | 3:32 | 2021-10-16 |  |
-| [Veracruz](https://open.spotify.com/track/5BtCjOEPnTt3m1PbCRxQhd) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Veracruz](https://open.spotify.com/album/6zQMFodbAoC1JJOtx2Q0av) | 4:03 | 2021-10-16 |  |
+| [Veracruz](https://open.spotify.com/track/5BtCjOEPnTt3m1PbCRxQhd) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Veracruz](https://open.spotify.com/album/6zQMFodbAoC1JJOtx2Q0av) | 4:03 | 2021-10-16 | 2022-09-04 |
 | [Volver a Ti](https://open.spotify.com/track/68yyY1AqaMfKuGSRTCNrUN) | [Feten Feten](https://open.spotify.com/artist/2jA6wEXprTZysvomP2krp8), [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Volver a Ti](https://open.spotify.com/album/0HsazH0VuWelGUY4BNhj0b) | 3:56 | 2021-10-16 | 2022-08-26 |
 | [Y \- En vivo](https://open.spotify.com/track/6QbEENozheS46xQY56acH9) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Vivo](https://open.spotify.com/album/2GtCBgC1SYeeb8fcxGWCLo) | 2:42 | 2021-10-16 | 2022-07-29 |
 | [Ya Sé](https://open.spotify.com/track/3oHFLejTrYABV5OCi4vGEv) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Grandes Éxitos del Boleroglam Vol\. 1](https://open.spotify.com/album/35GNEh5IcebaEJ3Lv2ZJSU) | 4:35 | 2021-10-16 | 2022-07-29 |

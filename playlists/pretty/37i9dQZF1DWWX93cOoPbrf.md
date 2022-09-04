@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 
 > Lo más fresco de la cosecha 2022\. Codiciado en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,261 likes - 75 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,474 likes - 75 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 | 27 | [El Rescate](https://open.spotify.com/track/4w273WCBXwM4P3jTX5HkB2) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [El Rescate](https://open.spotify.com/album/32QttkMiHZ1eXkXv6BVGcP) | 2:40 |
 | 28 | [Soy Cortez](https://open.spotify.com/track/4wb5viF41ZUvHtx7wFW7Tq) | [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk), [Omar Cardenas](https://open.spotify.com/artist/1qBSUcTlQ7s7pPcnYeRK4c) | [Soy Cortez](https://open.spotify.com/album/3KagBlnEWH21miIrekoR6G) | 2:58 |
 | 29 | [Culon y Medio](https://open.spotify.com/track/77eIFriAVgrCYshgQMYXC1) | [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh) | [Culon y Medio](https://open.spotify.com/album/0Ss8cCDMszxtrvcozbvgQ9) | 2:39 |
-| 30 | [Quemándose Un Gallito \(El Rambo\) \- En Vivo](https://open.spotify.com/track/6Jb6egDnToH7ix6RbXslAk) | [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U), [Legado 7](https://open.spotify.com/artist/1sR3KHfY1ZmWxRxtoMmqPf) | [Quemándose Un Gallito \(El Rambo\) \[En Vivo\]](https://open.spotify.com/album/0KgDyBU3tbwhKRuWx9wyN1) | 2:45 |
+| 30 | [Quemándose Un Gallito \(El Rambo\) \- En Vivo](https://open.spotify.com/track/6Jb6egDnToH7ix6RbXslAk) | [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Quemándose Un Gallito \(El Rambo\) \[En Vivo\]](https://open.spotify.com/album/0KgDyBU3tbwhKRuWx9wyN1) | 2:45 |
 | 31 | [Manuelito \- En Vivo](https://open.spotify.com/track/3gpaPs2ZRE0gxKTksaF6CG) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Manuelito \(En Vivo\)](https://open.spotify.com/album/5irWlJvVcXUTeeMXYvepDD) | 1:55 |
 | 32 | [El Amigazo \(En Vivo\)](https://open.spotify.com/track/5UIA7eyt28flCy6kwIiuZ1) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9), [La Septima Banda](https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0) | [El Amigazo \(En Vivo\)](https://open.spotify.com/album/6B0HeqQznYY6f7WEfQUjOJ) | 3:13 |
 | 33 | [El Calaveras](https://open.spotify.com/track/3qqW4RnjtFPDegDOaI2B2T) | [Inteligencia Norteña](https://open.spotify.com/artist/5x6p1H8xPpWRSEbkO2lHHs) | [El Calaveras](https://open.spotify.com/album/2W1Q7bk4BaRbxFjGZXym0N) | 4:34 |
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 | 38 | [El Destroyer](https://open.spotify.com/track/2qMX1kP7iX5LqJT7iuQYrl) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [El Destroyer](https://open.spotify.com/album/4WG0oUlZ4sX2uP8SYDklzA) | 2:53 |
 | 39 | [DOCTOR DEL BARRIO](https://open.spotify.com/track/4qYYPkAWSwCnOEvvRrNaWj) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [DOCTOR DEL BARRIO](https://open.spotify.com/album/655hE0RKEAe5CkBJ2USxwf) | 2:21 |
 | 40 | [A La Orden \(El Menor\)](https://open.spotify.com/track/6KSUBF2lLNzsPGiy8bV95y) | [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG), [Adrian L Santos](https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac) | [A La Orden \(El Menor\)](https://open.spotify.com/album/4nA6tCmBMPlaj1cHDc3iWL) | 3:04 |
-| 41 | [Las Crias Del M](https://open.spotify.com/track/1ZAxW9PpZ8XhYjWyZgTScK) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [Banda Punto Medio](https://open.spotify.com/artist/1e52HdTL1PMcFUdmbs5uvP) | [Las Crias Del M](https://open.spotify.com/album/1Gc7YFFHToFrrC7nLYy9Kl) | 3:00 |
+| 41 | [Las Crias Del M \- Banda Punto Medio Remix](https://open.spotify.com/track/1ZAxW9PpZ8XhYjWyZgTScK) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [Banda Punto Medio](https://open.spotify.com/artist/1e52HdTL1PMcFUdmbs5uvP) | [Las Crias Del M \(Banda Punto Medio Remix\)](https://open.spotify.com/album/1Gc7YFFHToFrrC7nLYy9Kl) | 3:00 |
 | 42 | [Ando en el Caloron](https://open.spotify.com/track/2bu2siQAht5AGdhL2Ey8u2) | [Legion RG](https://open.spotify.com/artist/0V10XqRWsn8EGBwzCVAE7V) | [Andamos por Todos Lados](https://open.spotify.com/album/1kfxk0qGBxeZcv9qeAx2Rp) | 3:43 |
 | 43 | [Ave De Mal Agüero](https://open.spotify.com/track/5e15YyvzUqMEFf1DqJaxrn) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Ave De Mal Agüero](https://open.spotify.com/album/3cqoRpYWykozNTwUUwf9JX) | 3:07 |
 | 44 | [Belico El Asunto \(En Vivo\)](https://open.spotify.com/track/7kIDShjwKNfhXv1dNfT9ec) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Belico El Asunto \(En Vivo\)](https://open.spotify.com/album/2cfOMyHwOEIOVWiOjYB5OS) | 3:28 |

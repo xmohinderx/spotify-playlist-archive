@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 
 > The best independent music in a post\-genre world
 
-[Ditto Music](https://open.spotify.com/user/dittomusic) - 32,916 likes - 94 songs - 4 hr 49 min
+[Ditto Music](https://open.spotify.com/user/dittomusic) - 32,920 likes - 94 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 | 26 | [Flores De Papel](https://open.spotify.com/track/0R9wfM984QLAw61zHcD1fv) | [Lyzbeth Badaraco](https://open.spotify.com/artist/5MLMlAm3at4whZ7cyCuTPN), [Noelia Maffiold](https://open.spotify.com/artist/3sOT9XBTqMcA6ZjOjSA8eM) | [Flores De Papel](https://open.spotify.com/album/19PV7yCcQq2adimZe1V1Tj) | 3:58 |
 | 27 | [Dañarte la Mente](https://open.spotify.com/track/7F2W6Gh1TxXqHdCYOY09Yw) | [Cami Sanabria](https://open.spotify.com/artist/62lmYnhFKQvxW3UfTOzQzD) | [Dañarte la Mente](https://open.spotify.com/album/0wRToVlCSPmUz8Ey2lCzJD) | 2:36 |
 | 28 | [Te Vi Venir](https://open.spotify.com/track/0SxE3fVeIve6yDM0K13iXn) | [Duina Del Mar](https://open.spotify.com/artist/3NLiMFbrwqCHXPz17pOBTU) | [Te Vi Venir](https://open.spotify.com/album/6TPBJmOizHvS1wRZAMkfP5) | 3:55 |
-| 29 | [Vivir](https://open.spotify.com/track/7tsrNf41xdd24p7vcWajPz) | [Manteca Blue & the Latin Corner](https://open.spotify.com/artist/1lMoNvClPMQzDJ0vZK8Fys) | [Vivir](https://open.spotify.com/album/1QwRewi5uwfAyJRHZlw0Yz) | 4:05 |
+| 29 | [Vivir](https://open.spotify.com/track/7tsrNf41xdd24p7vcWajPz) | [Manteca Blue & the Latin Corner](https://open.spotify.com/artist/1lMoNvClPMQzDJ0vZK8Fys), [Pablo Watusi](https://open.spotify.com/artist/0be2hHZzl8d92mo2g7SIAb), [Carla Algeri](https://open.spotify.com/artist/7HrYMRqz8To2s3LokPHKoe) | [Vivir](https://open.spotify.com/album/1QwRewi5uwfAyJRHZlw0Yz) | 4:05 |
 | 30 | [Rise](https://open.spotify.com/track/1fgrYkVn2sWkBj65JbCEsZ) | [MJ Kuok](https://open.spotify.com/artist/6WK3Qxj1lGo2lr8d7y2fZM) | [Rise](https://open.spotify.com/album/6crFtvZMZWYwEP6f6obdO4) | 3:15 |
 | 31 | [Dangerous](https://open.spotify.com/track/3EduKNInzbDCPYjIDw5SG4) | [Blaq Jerzee](https://open.spotify.com/artist/4on7a4BKixLl1rSlEcaY8Y), [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [Dangerous](https://open.spotify.com/album/29rDZXLQeZNoSpBqOY6ibI) | 3:01 |
 | 32 | [Devil Keeps Coming](https://open.spotify.com/track/5FN35curjZfYokszG2Q7eO) | [The Virginmarys](https://open.spotify.com/artist/1Kpz4HxilmXzCt2eLpGgID) | [The Devil Keeps Coming](https://open.spotify.com/album/4alMBaF2IicZDlsP85gCga) | 3:08 |

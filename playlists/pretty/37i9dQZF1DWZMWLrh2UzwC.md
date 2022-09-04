@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: Yuna
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,160 likes - 74 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,151 likes - 74 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 43 | [Don't Know What I Want](https://open.spotify.com/track/1VWrSNe54l1uH1rqIVW274) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Don't Know What I Want](https://open.spotify.com/album/6YsEwFwufhh38wDpmLRzfz) | 2:25 |
 | 44 | [How Do I Say Goodbye](https://open.spotify.com/track/5hnGrTBaEsdukpDF6aZg8a) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [How Do I Say Goodbye](https://open.spotify.com/album/3cptxwPFf3Ioj7I3AVX3mp) | 2:43 |
 | 45 | [Shining Love Song](https://open.spotify.com/track/0DFSFBB4faitgBed2IJ4O5) | [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) | [Shining Love Song](https://open.spotify.com/album/7n2p500IY7UeU9NlgFFeV0) | 3:11 |
-| 46 | [SEXY NUKIM \(feat\. RM of BTS\)](https://open.spotify.com/track/1XkMxUilV0E3ChDERZJUEq) | [Balming Tiger](https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1), [Omega Sapien](https://open.spotify.com/artist/46KQM3HJyONaKRTbcfNPlU), [wnjn](https://open.spotify.com/artist/4E4TZnDHlrhclSJgeund1d), [Mudd the student](https://open.spotify.com/artist/4xHlg3Tcv7TZZzFq0aW2hQ), [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [SEXY NUKIM \(feat\. RM of BTS\)](https://open.spotify.com/album/7osIz9TFdxYQAm4fgakanT) | 3:49 |
+| 46 | [SEXY NUKIM \(feat\. RM of BTS\)](https://open.spotify.com/track/1XkMxUilV0E3ChDERZJUEq) | [Balming Tiger](https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1), [Omega Sapien](https://open.spotify.com/artist/46KQM3HJyONaKRTbcfNPlU), [bj wnjn](https://open.spotify.com/artist/4E4TZnDHlrhclSJgeund1d), [Mudd the student](https://open.spotify.com/artist/4xHlg3Tcv7TZZzFq0aW2hQ), [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [SEXY NUKIM \(feat\. RM of BTS\)](https://open.spotify.com/album/7osIz9TFdxYQAm4fgakanT) | 3:49 |
 | 47 | [Crack](https://open.spotify.com/track/1kdiThPrcCVfd7OPuXi7qf) | [LEE JIN HYUK](https://open.spotify.com/artist/0IvEcjRQubxAiIIZqpWdEC) | [5ight](https://open.spotify.com/album/1BgqthhErgauYzw4LQfRZ5) | 2:53 |
 | 48 | [Can’t Stop Shining](https://open.spotify.com/track/0oJZzuHUjpKAFrSHqjJKZM) | [TEMPEST](https://open.spotify.com/artist/1iyFL3CRuKW7PXgPH4VxSP) | [SHINING UP](https://open.spotify.com/album/1NqjkIZ66H34YgWgtU7gaE) | 2:51 |
 | 49 | [ALARM](https://open.spotify.com/track/6b44AK3LX4Umv2e3Q6enC8) | [SAAY](https://open.spotify.com/artist/2pvCf5g7XBReiPIvcq7W18) | [ALARM](https://open.spotify.com/album/4eW3NKZ1foDDZXR1Z39EaQ) | 3:23 |
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 69 | [Wheel Chain](https://open.spotify.com/track/5AH2ZIew9FtFDaR9nIEIlx) | [Guernica Club](https://open.spotify.com/artist/3vT1EkYKu5O7ZOL9BjWTXn), [Kara Chenoa](https://open.spotify.com/artist/04V7QZJcbAQtBdSUgT6hPO) | [Wheel Chain](https://open.spotify.com/album/1L1wtYJgBdEsRwqp4To6P1) | 4:23 |
 | 70 | [Scars](https://open.spotify.com/track/6XgsJDpugg6gwx2z7RRumR) | [Casté](https://open.spotify.com/artist/7zeoSpBQB05hRwUCFO33i5) | [Scars](https://open.spotify.com/album/1cHFtxR8snwuOQ3HflRyuv) | 3:20 |
 | 71 | [Songbird](https://open.spotify.com/track/5VkxoPlgC2ujrWX5anVdax) | [Parekh & Singh](https://open.spotify.com/artist/5HyacDSdBkCTDOBoX49ayp) | [The Night is Clear](https://open.spotify.com/album/4AzsujfeRZCjymYlgxOpjm) | 3:44 |
-| 72 | [Still](https://open.spotify.com/track/7qACmdbzeUXh0DhIpsAjMo) | [Proud](https://open.spotify.com/artist/0D7S4XFVk7kHqxTPbSwulj) | [Still](https://open.spotify.com/album/2I9lPRjeNWQcI3eya6iz3e) | 3:39 |
+| 72 | [Still](https://open.spotify.com/track/7qACmdbzeUXh0DhIpsAjMo) | [Proud](https://open.spotify.com/artist/2PsiEj7iYboWZxwfw3wLbh) | [Still](https://open.spotify.com/album/2I9lPRjeNWQcI3eya6iz3e) | 3:39 |
 | 73 | [Head In The Sand](https://open.spotify.com/track/6cGqRQwBXZ9usLfxesxTjc) | [Death Of Heather](https://open.spotify.com/artist/3O2fulTH5rTS4ttjPPI4rS) | [Head In The Sand](https://open.spotify.com/album/19xSueZeavpqMsMlKe8Yqj) | 3:34 |
 | 74 | [Particles](https://open.spotify.com/track/1m88d4zQ1IUnqmQfaaUrN0) | [Ross Quinn](https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr) | [Particles](https://open.spotify.com/album/7wRWEQGKnOdSRvqxRO9uDU) | 3:20 |
 

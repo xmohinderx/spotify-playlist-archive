@@ -4,7 +4,7 @@
 
 > The new bolero era just for you\. Los boleritos de hoy\. Cover: Yoss Bones
 
-78 songs - 4 hr 25 min - [published](https://open.spotify.com/playlist/5UZ4yz4Aj8Ad6VH6oZVjkF)
+79 songs - 4 hr 28 min - [published](https://open.spotify.com/playlist/5UZ4yz4Aj8Ad6VH6oZVjkF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,8 +79,9 @@
 | [Te Vi Partir](https://open.spotify.com/track/3tiiu0Znrc4UVqTE2lYAaB) | [Los Socios Del Ritmo](https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW), [Marco di Mauro](https://open.spotify.com/artist/62x8NZZ2E8iLiCTNM7zWvK) | [Te Vi Partir](https://open.spotify.com/album/6sRBpHJRwbwEEN8LceDyX9) | 3:10 | 2022-02-16 | 2022-06-01 |
 | [Tengo Algo Que Decirte](https://open.spotify.com/track/5Ntox2jSrDcVUKOoW0TYHG) | [Luz Pinos](https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM) | [Tengo Algo Que Decirte](https://open.spotify.com/album/58XueoPsoMzd3nzH2s8B9A) | 3:26 | 2022-02-16 |  |
 | [Tú](https://open.spotify.com/track/1DMiJvljMa3QwvIGDqGJtF) | [Elisa](https://open.spotify.com/artist/1Rz2UCxkUlzuT6Kxe47wxc), [Cristobal Sarmiento](https://open.spotify.com/artist/2AIg5VYeWoMaGDuINUQwKC) | [Tú](https://open.spotify.com/album/4vWMXbIf6HRnxd3vZ4fq66) | 2:51 | 2022-02-16 | 2022-07-29 |
+| [Tú](https://open.spotify.com/track/6OQWXsydNnIVHfbJrTMNer) | [Elisa](https://open.spotify.com/artist/1Rz2UCxkUlzuT6Kxe47wxc), [Cristobal Sarmiento](https://open.spotify.com/artist/2AIg5VYeWoMaGDuINUQwKC) | [Tú](https://open.spotify.com/album/1O88OBOAtX6c8DUMEkq5HY) | 2:51 | 2022-08-05 |  |
 | [Una Isla](https://open.spotify.com/track/6M3VJxKcAZaJeIjWZ6zWic) | [DDLO](https://open.spotify.com/artist/1ihQOtqYqX92hb03fZZJKi) | [Una Isla](https://open.spotify.com/album/1pGM35ZN1S0sb36LT0y80i) | 3:12 | 2022-05-31 | 2022-07-19 |
-| [Veracruz](https://open.spotify.com/track/5BtCjOEPnTt3m1PbCRxQhd) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Veracruz](https://open.spotify.com/album/6zQMFodbAoC1JJOtx2Q0av) | 4:03 | 2022-02-16 |  |
+| [Veracruz](https://open.spotify.com/track/5BtCjOEPnTt3m1PbCRxQhd) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Veracruz](https://open.spotify.com/album/6zQMFodbAoC1JJOtx2Q0av) | 4:03 | 2022-02-16 | 2022-09-04 |
 | [Vete](https://open.spotify.com/track/6dElnKdNDNlknIIQnOZ8SB) | [Sofía Viola](https://open.spotify.com/artist/4sJIwgaLC0VVZpK3LriAtT), [Juanafé](https://open.spotify.com/artist/5CE7PcyVcEKMSuQA4IHF7d) | [Vete](https://open.spotify.com/album/3WeFaoj0z5fLqbsr0PsAsr) | 3:14 | 2022-05-31 | 2022-07-29 |
 | [Vivir Es Complicado](https://open.spotify.com/track/35TTXg8GvEtMOOHAyLDjxY) | [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6), [Dayhan Díaz](https://open.spotify.com/artist/3L2JdDvaqkXdtw0DTnxLSa) | [Vivir Es Complicado](https://open.spotify.com/album/2Quo0M4xUnpt1Om8W3pTqz) | 4:49 | 2022-05-31 | 2022-07-27 |
 | [¿A Qué Te Sabe el Café?](https://open.spotify.com/track/5n7a1XYL8oaOGNptOdENIQ) | [Sebastián Romero](https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq) | [Conversaciones Ajenas en un Café](https://open.spotify.com/album/4UHIunQP15TgnfK7aCWhM9) | 3:31 | 2022-02-16 |  |

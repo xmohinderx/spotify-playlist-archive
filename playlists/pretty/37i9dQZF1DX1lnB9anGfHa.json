@@ -1,12 +1,12 @@
 {
   "description": "A journey into the unknown, dark, and experimental.",
-  "num_followers": 162309,
+  "num_followers": 160008,
   "original_name": "Terra Incognita",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjA5NDY5OSwwMDAwMDAwMGZiM2E5MjM2ZmRjY2U4NDhhMjc5NGI4MzJhOWI4MDc0",
+  "snapshot_id": "MTY2MjE3ODYxNSwwMDAwMDAwMDRmYmFkYTMyMTI1Zjg2ZjM4Y2MwNmM4ZmI5YjUzMGE2",
   "tracks": [
     {
       "added_at": "2022-08-31 03:46:25",
@@ -59,6 +59,26 @@
       "duration_ms": 233514,
       "name": "Vizio",
       "url": "https://open.spotify.com/track/3obbCnT8ZoQBfJBMyrLoEW"
+    },
+    {
+      "added_at": "2022-09-03 04:16:55",
+      "album": {
+        "name": "Thin Air (WaterBABii_MiiX)",
+        "url": "https://open.spotify.com/album/3m5gpzvJDi7wObxSwFjUmZ"
+      },
+      "artists": [
+        {
+          "name": "Waterbaby",
+          "url": "https://open.spotify.com/artist/7rZM3S0PVEdLKpDLqtXIhx"
+        },
+        {
+          "name": "BABii",
+          "url": "https://open.spotify.com/artist/30qGwXnygZNCzxjN7QsIR0"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "Thin Air (WaterBABii_MiiX)",
+      "url": "https://open.spotify.com/track/3njtYpKsQTnuKYVmIFLtaE"
     },
     {
       "added_at": "2022-08-31 04:47:04",
@@ -163,6 +183,26 @@
       "duration_ms": 124066,
       "name": "pink diamond",
       "url": "https://open.spotify.com/track/3V0PgcsUMlAGXwCD0084pY"
+    },
+    {
+      "added_at": "2022-09-03 03:34:56",
+      "album": {
+        "name": "UMMA (Remix)",
+        "url": "https://open.spotify.com/album/2sCXqX8nII3Qk3ms7k4n9F"
+      },
+      "artists": [
+        {
+          "name": "BLUEM",
+          "url": "https://open.spotify.com/artist/1eFOTBAGM0w0SH7jnTYSd1"
+        },
+        {
+          "name": "Arssalendo",
+          "url": "https://open.spotify.com/artist/54LmkGE6kI6eoaPdd6XiEd"
+        }
+      ],
+      "duration_ms": 197142,
+      "name": "UMMA - Arssalendo Remix",
+      "url": "https://open.spotify.com/track/6Zdz3j652H8aYnfR4IcYK0"
     },
     {
       "added_at": "2021-07-18 20:58:51",

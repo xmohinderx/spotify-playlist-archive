@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AMssoUKCz7.md) - [plain]
 
 > Take down the tempo but keep the party going with the biggest tropical house jams.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,088,230 likes - 200 songs - 10 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,088,629 likes - 200 songs - 10 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3dLAxDk6oKP.md) - [plain]
 
 > Los Gemelos de Sinaloa takeover La Mamalona!
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,466 likes - 140 songs - 7 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,902 likes - 140 songs - 7 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

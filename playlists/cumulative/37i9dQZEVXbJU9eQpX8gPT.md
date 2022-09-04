@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Morocco.
 
-774 songs - 1 day 18 hr 38 min - [published](https://open.spotify.com/playlist/6oVuoPZGB8lcas4ebv85iY)
+775 songs - 1 day 18 hr 41 min - [published](https://open.spotify.com/playlist/6oVuoPZGB8lcas4ebv85iY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -461,7 +461,7 @@
 | [Mghayer](https://open.spotify.com/track/5QhnCB5kD34sYkvHviU0yz) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Caméléon](https://open.spotify.com/album/1E2FLbD0dchh1eVfO3MKC6) | 3:34 | 2021-03-27\* |  |
 | [Mgwani](https://open.spotify.com/track/6dvS18w5nASjcxIHrfSOGW) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4), [Asmae](https://open.spotify.com/artist/22axSYd0A2j0jpnlf6tkyg) | [Arabi](https://open.spotify.com/album/5BYolD1SiHzv16i7sqxhAX) | 3:19 | 2021-03-27\* | 2021-05-07 |
 | [Mic Check](https://open.spotify.com/track/3ZlOTA0nibbiZZfAkbMu8M) | [LFERDA](https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v), [Diib](https://open.spotify.com/artist/1PAFc1G2WeoQ4DeGKETVdi) | [Cagoulé](https://open.spotify.com/album/1qD0LUxHxbr5UPw7Rz99C0) | 2:54 | 2022-05-29 | 2022-05-31 |
-| [MIDDLE OF THE NIGHT](https://open.spotify.com/track/58HvfVOeJY7lUuCqF0m3ly) | [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [MIDDLE OF THE NIGHT](https://open.spotify.com/album/4hYYpUC8Ewb74tP23Y1lmM) | 3:04 | 2022-03-18 |  |
+| [MIDDLE OF THE NIGHT](https://open.spotify.com/track/58HvfVOeJY7lUuCqF0m3ly) | [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [MIDDLE OF THE NIGHT](https://open.spotify.com/album/4hYYpUC8Ewb74tP23Y1lmM) | 3:04 | 2022-03-18 | 2022-09-04 |
 | [Mikasa](https://open.spotify.com/track/6oJ47Df5ScLAlZdgWHUAqX) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Caméléon](https://open.spotify.com/album/1E2FLbD0dchh1eVfO3MKC6) | 2:56 | 2021-03-27\* | 2021-04-28 |
 | [MILANO](https://open.spotify.com/track/1U4xCEE1kKqUIwc4mGAPf3) | [7\-Toun](https://open.spotify.com/artist/3IRAzpoLeNDGv7kqwNK3bp) | [BANDANA](https://open.spotify.com/album/4DBrAszM7FdWyblxrIKed3) | 4:09 | 2022-06-19 | 2022-06-24 |
 | [MILANO](https://open.spotify.com/track/4RubGzQ6Gdtt11URFNQ8Q8) | [7\-Toun](https://open.spotify.com/artist/3IRAzpoLeNDGv7kqwNK3bp) | [BANDANA](https://open.spotify.com/album/24JV61zK3eDqPTNdcAnmK5) | 4:09 | 2022-06-25 | 2022-07-27 |
@@ -527,7 +527,7 @@
 | [Nota](https://open.spotify.com/track/5tPauDRDmFoM8GMEGRQPnt) | [Dizzy DROS](https://open.spotify.com/artist/5eA2wbwYcQ2iOJ3uc8byIh) | [Nota](https://open.spotify.com/album/6kLwbk0ix5h8oDblXNkImY) | 2:20 | 2021-03-27\* | 2021-06-18 |
 | [Nounou](https://open.spotify.com/track/1jqcBOYOADm83XsQUE3W9O) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ), [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [Colors](https://open.spotify.com/album/0laELllYHrj2Zbw4It01B9) | 2:52 | 2021-10-03 | 2021-11-27 |
 | [NPNG](https://open.spotify.com/track/6TWd38PglTHmtEIlxOM7FG) | [LFERDA](https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v) | [Cagoulé](https://open.spotify.com/album/1qD0LUxHxbr5UPw7Rz99C0) | 2:37 | 2022-05-29 | 2022-05-31 |
-| [Nsiti](https://open.spotify.com/track/39IyCxrLN3USQLaTQ9tnMa) | [Oussama](https://open.spotify.com/artist/473J09XfjAXYQPbYQQS9Ml) | [Nsiti](https://open.spotify.com/album/0uTXQyHxnSUibdyT05WCCu) | 2:52 | 2022-08-14 | 2022-08-24 |
+| [Nsiti](https://open.spotify.com/track/39IyCxrLN3USQLaTQ9tnMa) | [Oussama](https://open.spotify.com/artist/473J09XfjAXYQPbYQQS9Ml) | [Nsiti](https://open.spotify.com/album/0uTXQyHxnSUibdyT05WCCu) | 2:52 | 2022-08-14 |  |
 | [Numero uno](https://open.spotify.com/track/5H1HZedeDHC5ahCgoimGFM) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [Numero uno](https://open.spotify.com/album/268SaqJcoWm0rt8xKlH1CV) | 4:00 | 2021-06-21 | 2021-07-18 |
 | [Numero Uno \- V2](https://open.spotify.com/track/4Sp90D9O8SXeBJx5RqU21b) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [Numero Uno \(V2\)](https://open.spotify.com/album/1JZ3EzXKORa4LhBdMeFtRv) | 3:37 | 2022-08-27 |  |
 | [N’est Pas La](https://open.spotify.com/track/2qvNe5OPt3Ohi64AdaFejz) | [LFERDA](https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v) | [Cagoulé](https://open.spotify.com/album/1qD0LUxHxbr5UPw7Rz99C0) | 3:12 | 2022-05-29 | 2022-06-04 |
@@ -700,7 +700,7 @@
 | [TOUT VA BIEN \(feat\. Ninho & Naps\)](https://open.spotify.com/track/6OZwia8loN0aPS0vTvsBjR) | [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx) | [QUARTIERS NORD](https://open.spotify.com/album/4EGHU1v3qmjchplaPqRWBC) | 3:12 | 2022-05-24 |  |
 | [TOXIC...](https://open.spotify.com/track/0aOdyvAanfj1GtO3RtDoxD) | [Vargas](https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb) | [VENOM](https://open.spotify.com/album/3jPxi5bJXFvXcZIizrmoZe) | 2:27 | 2022-08-13 | 2022-08-19 |
 | [Traitement](https://open.spotify.com/track/1AEEWYcJzrTHksdQmixnHL) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [Traitement](https://open.spotify.com/album/6fCkoAdNggGvVt6gUoKF5T) | 3:00 | 2021-09-15 | 2021-09-20 |
-| [Trap Roumi V2](https://open.spotify.com/track/1UCuu9ouBrppesU3JXe8b9) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [Trap Roumi V2](https://open.spotify.com/album/0ULtzgEHEWKn2HBqivfRly) | 3:25 | 2021-04-21 |  |
+| [Trap Roumi V2](https://open.spotify.com/track/1UCuu9ouBrppesU3JXe8b9) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [Trap Roumi V2](https://open.spotify.com/album/0ULtzgEHEWKn2HBqivfRly) | 3:25 | 2021-04-21 | 2022-09-04 |
 | [TRAP ROUMI V3](https://open.spotify.com/track/07yjOxOAi1cxhO2FALf861) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [TRAP ROUMI V3](https://open.spotify.com/album/4W3m38nSMZmQcjxEopmMss) | 5:30 | 2022-01-04 | 2022-04-18 |
 | [Trigue Lycee \- Remix](https://open.spotify.com/track/2xQlFQeMuiyOEP3hNaAyfG) | [Khaled](https://open.spotify.com/artist/28ztjHIXceRRntmTUfnmUX), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [Trigue Lycee \(Remix\)](https://open.spotify.com/album/2ef5UugVMcYIGQCfLqk9cd) | 3:05 | 2022-08-10 | 2022-08-12 |
 | [Trigue Lycee \- Remix](https://open.spotify.com/track/3Zm8UtTT3js1HSaR0ay8mQ) | [Khaled](https://open.spotify.com/artist/28ztjHIXceRRntmTUfnmUX), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [Cheb Khaled](https://open.spotify.com/album/07qAVChyoX0i1O5L5dv7GJ) | 3:05 | 2022-08-20 | 2022-08-25 |
@@ -769,6 +769,7 @@
 | [Zahri](https://open.spotify.com/track/7tbdg8jBXvkdqo1LiuKZ2l) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [Arabi](https://open.spotify.com/album/5BYolD1SiHzv16i7sqxhAX) | 3:20 | 2021-03-27\* | 2022-03-12 |
 | [Zehwani](https://open.spotify.com/track/4tpYFbZhhVAFAFqKyty5oA) | [Furelise](https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn) | [Polygamie](https://open.spotify.com/album/29naWP00flAdzNNi60yohv) | 3:06 | 2022-01-29 | 2022-02-02 |
 | [Zest](https://open.spotify.com/track/2fx7NwHSBNHXTq4p2SVY0h) | [L'morphine](https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u) | [Gala](https://open.spotify.com/album/5thNlwr5FFcXWjtZAlfRH0) | 3:01 | 2022-05-07 | 2022-05-29 |
+| [Zina](https://open.spotify.com/track/6aSUxiUElMeHaUhVJdTSPl) | [Slimane](https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz), [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F) | [Chroniques d’un cupidon](https://open.spotify.com/album/1a6v54PDHcrn6y5iA7wuT1) | 2:45 | 2022-09-03 |  |
 | [Zrire9 \- Intro](https://open.spotify.com/track/1sVMM2VoBFQ2ryq4VbEXhX) | [Nessyou](https://open.spotify.com/artist/36K2nrm363VIEONhc2D5Mo), [DJ Sim\-H](https://open.spotify.com/artist/4vhOcnMfCqZAOoLTpiDxXF) | [Rap Khatr](https://open.spotify.com/album/5etSaVfiVKi4SGj55uwALP) | 1:52 | 2021-04-13 | 2021-04-14 |
 | [Ça tourne dans ma tête](https://open.spotify.com/track/7zp1weGEkBHmcbLQ0oO4oa) | [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3), [Nassi](https://open.spotify.com/artist/1qKKI6tBqJZCZfAmXjYFjN), [Faux Contact](https://open.spotify.com/artist/1R52hZ1pSoTLPvZpWSMQDv) | [Ça tourne dans ma tête](https://open.spotify.com/album/4NcyyH7fmHZg1CCO54v6zA) | 3:19 | 2021-09-18 | 2021-09-22 |
 | [Özil](https://open.spotify.com/track/7bEcFO0XmfRNACmpwgh97f) | [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [Réelle vie 3.0](https://open.spotify.com/album/4nqsV5gavODGyZ2lx2M2tw) | 2:56 | 2021-11-28 | 2021-11-28 |

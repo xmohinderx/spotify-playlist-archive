@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWkrGNlIHxPl.md) - [plain]
 
 > Global crossovers by/with Arab artists\. Cover: ElGrandeToto x Ayra Starr.
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,744 likes - 101 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,794 likes - 101 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWkrGNlIHxPl.md) - [plain]
 | 15 | [BETTER DAYS](https://open.spotify.com/track/5GQvtRxFB12OD7H7gOzLba) | [Rilès](https://open.spotify.com/artist/6pdcQa7by8IKuoVXvgknlI) | [BETTER DAYS](https://open.spotify.com/album/6R5VVjgUy508TNYkyw5pTQ) | 2:58 |
 | 16 | [RIP, Love](https://open.spotify.com/track/3sYZo4HrHX8tkul5FhUpVo) | [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [RIP, Love](https://open.spotify.com/album/1gTmjLH8mcfzQsKSG8piVX) | 2:53 |
 | 17 | [Why Lie to Me ?](https://open.spotify.com/track/5goo9FGyGlOMD24BdippCs) | [Ghaliaa](https://open.spotify.com/artist/3FVonQ6pTMMbqYb0Rf7WE8) | [Why Lie to Me ?](https://open.spotify.com/album/0Ne2F8JgYKBxjY1zVYA6aA) | 2:33 |
-| 18 | [The First Disciple](https://open.spotify.com/track/1s46uOcZXBWxEeYKO2SDGk) | [Tamino](https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH) | [The First Disciple](https://open.spotify.com/album/7dnuhgQrPlzCVz91koWich) | 6:02 |
+| 18 | [The First Disciple](https://open.spotify.com/track/5PlyKTieFInN0dXXGuwi9E) | [Tamino](https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH) | [You Don't Own Me](https://open.spotify.com/album/1YrfFAtUYvapMLU8620TTj) | 6:02 |
 | 19 | [the world could end with you](https://open.spotify.com/track/4O5GWwr8fvgcJyYiEBEX0q) | [Llunr](https://open.spotify.com/artist/1r2EC1UsQXwtqVN9valnT2) | [the world could end with you](https://open.spotify.com/album/06m5H2iiYxVwxCFQZOKZDE) | 3:00 |
 | 20 | [Enta](https://open.spotify.com/track/1mRSA7bk3iEvAyKLXHL7bi) | [DJ KABOO](https://open.spotify.com/artist/4XL8KSBe0v3k483R9Tv49Q) | [Arab Trap \- EP.1](https://open.spotify.com/album/3dQpnLxtGSzIRi7TEA8MzC) | 3:08 |
 | 21 | [I'M HERE](https://open.spotify.com/track/0sQuYu2RP49JdqprLskHbB) | [Bahjat](https://open.spotify.com/artist/4IdNUGAtqlYjfXNx4ktplO) | [I'M HERE](https://open.spotify.com/album/5RiGTzqHWdL9k5cYf5HvuG) | 2:10 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWkrGNlIHxPl.md) - [plain]
 | 100 | [Is It On](https://open.spotify.com/track/3eAbgCZEVjCswZQBx72mcP) | [AleXa](https://open.spotify.com/artist/4jCGRzuZkwo8CxboiANMEU), [Bader AlShuaibi](https://open.spotify.com/artist/2R1yoDsSddlxGn9DmAtJTj) | [Is It On](https://open.spotify.com/album/05OAVuzoOBqrhc0wnQjENW) | 3:44 |
 | 101 | [Dance Alone](https://open.spotify.com/track/6oKrqdkszicFfmZ7gT55zM) | [saüd](https://open.spotify.com/artist/3pYZIM4PKTsP20sNSSLs0m), [pre kai ro](https://open.spotify.com/artist/0oXFTo5u9yH1zht6gIt4wY) | [Dance Alone](https://open.spotify.com/album/2gw0OZjHyvvwMODWy9fovU) | 2:58 |
 
-Snapshot ID: `MTY2MTQzNTQ0NSwwMDAwMDAwMDNlN2Q4YTk4Zjg0MzZjYWVkYzRhN2IwM2JlMDhiMDBl`
+Snapshot ID: `MTY2MTQzNTQ0NSwwMDAwMDAwMDE0YjA0OTA3NzZkZDRhZTUwMzYwNGE1ZTQ5OTY5YTgx`

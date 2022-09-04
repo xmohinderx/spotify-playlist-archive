@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > canzoni da gridareee 🗣 con Ëgo in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,357 likes - 80 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,379 likes - 80 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 | 7 | [Non è facile](https://open.spotify.com/track/3H2WiDzrK0TPyANzwadVGs) | [Cyrus Yung](https://open.spotify.com/artist/5ntvgaFmaJr8rNJHOZMpNH) | [Non è facile](https://open.spotify.com/album/0f78DOJtvjfSfez8fIiXCH) | 2:56 |
 | 8 | [LA CANZONE DELLA SBORRA](https://open.spotify.com/track/1r36WzYRZ2qba069DHK71H) | [FUCKYOURCLIQUE](https://open.spotify.com/artist/796NCMJ5AQMdnutcb8EVeJ) | [LA CANZONE DELLA SBORRA](https://open.spotify.com/album/1KInHLAZ9DBMonjh7HdQQk) | 2:44 |
 | 9 | [Punk](https://open.spotify.com/track/69SfBtxar6Ld6Wg0dQSFkr) | [Bongi](https://open.spotify.com/artist/3ehxbQ0letT4rNrzvp3SAq), [Vástago](https://open.spotify.com/artist/17oaBlHbOJj8u7HgDqv7RH), [Beart](https://open.spotify.com/artist/2FVeYpAaDkIoK4z1IRjXF3) | [Punk](https://open.spotify.com/album/6SYWYWGIBCQF0rUyjudbtc) | 2:58 |
-| 10 | [SOTTONE DANNATO](https://open.spotify.com/track/2hFvWFjEe67dgSYsHr4TNv) | [COLLETTIVO](https://open.spotify.com/artist/4RUm8rTe3kvhiQl6QmpWBq), [Quello](https://open.spotify.com/artist/7GdkzNtMzNUCOMxqBYacF7), [Zzama](https://open.spotify.com/artist/3d9yGJbbSuMUQ1wzNmGISp), [Oreste](https://open.spotify.com/artist/1iEAHd4i99ehWHsruWZ6FL), [Lele](https://open.spotify.com/artist/3SnnCylpFBT2CY1UmvBIxd) | [SOTTONE DANNATO](https://open.spotify.com/album/19nsl3rgHoUVzLGzxZKVBv) | 3:12 |
+| 10 | [SOTTONE DANNATO](https://open.spotify.com/track/2hFvWFjEe67dgSYsHr4TNv) | [COLLETTIVO](https://open.spotify.com/artist/4RUm8rTe3kvhiQl6QmpWBq), [MdN](https://open.spotify.com/artist/5yaVqVjGwm9X6ECl7Rhnpt), [Quello](https://open.spotify.com/artist/7GdkzNtMzNUCOMxqBYacF7), [Zzama](https://open.spotify.com/artist/3d9yGJbbSuMUQ1wzNmGISp), [Oreste](https://open.spotify.com/artist/1iEAHd4i99ehWHsruWZ6FL), [Lele](https://open.spotify.com/artist/3SnnCylpFBT2CY1UmvBIxd) | [SOTTONE DANNATO](https://open.spotify.com/album/19nsl3rgHoUVzLGzxZKVBv) | 3:12 |
 | 11 | [rituale](https://open.spotify.com/track/0YAKQqUzN083tPnjJnI1ui) | [dolcedormire](https://open.spotify.com/artist/7EO6Zql69u4pT8omeANVcP) | [rituale](https://open.spotify.com/album/1hLXOwH9aQ0UqSuCUDDJDY) | 2:54 |
 | 12 | [occhi rossi](https://open.spotify.com/track/1l3555yanzfiCs9Hf6xhXF) | [DANU](https://open.spotify.com/artist/4hVodcSKHtJWb5fIRvzax7), [Still Charles](https://open.spotify.com/artist/2KFv9jOFkybE6VjzZ4Ishe) | [occhi rossi](https://open.spotify.com/album/6OZzDSSyeSjcLV5mjZbhfd) | 2:51 |
 | 13 | [more than life \(feat\. glaive\)](https://open.spotify.com/track/7IRe1bo7Zm0q5Fn9MlNMZM) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [more than life \(feat\. glaive\)](https://open.spotify.com/album/4muxcqXXIZKuxmrDJQnvNN) | 3:16 |

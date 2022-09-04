@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > New releases, driving the current\. Cover: GloRilla
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,117 likes - 99 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,133 likes - 99 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,9 +22,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 12 | [All I Really Wanted](https://open.spotify.com/track/3tngIQDw2KP61hiLrR3oHU) | [Cam’ron](https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS), [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt) | [All I Really Wanted](https://open.spotify.com/album/0b201G6KYDumbCiLW3FOXo) | 3:11 |
 | 13 | [Don't Check Me](https://open.spotify.com/track/3rG6VPI8QPN64ER0QOUqUL) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [Spaceships on the Blade](https://open.spotify.com/album/2aydhloXt99nJk9Nsu5AV4) | 2:45 |
 | 14 | [Frida Kahlo](https://open.spotify.com/track/1ZxPS99Az7jArJMkGag4rm) | [LION BABE](https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE) | [Rainbow Child](https://open.spotify.com/album/1kj58f3jgypeyp0gOqoi4j) | 2:36 |
-| 15 | [Di Do](https://open.spotify.com/track/7FnhNTGIMwIXzvRejpvwT0) | [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL) | [Di Do](https://open.spotify.com/album/5z2FRwR7nv5uzuPDx3EBzM) | 2:22 |
+| 15 | [Di Do](https://open.spotify.com/track/7FnhNTGIMwIXzvRejpvwT0) | [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL) | [Di Do & No Closure](https://open.spotify.com/album/5z2FRwR7nv5uzuPDx3EBzM) | 2:22 |
 | 16 | [TONGUE TIED](https://open.spotify.com/track/6XYufZkLUuSifcqe3RVPQf) | [Floyd Fuji](https://open.spotify.com/artist/0glUNuyGWUn70JhLMARseD) | [TONGUE TIED](https://open.spotify.com/album/0xUlkDMF8TZgODLf94Nkpm) | 3:05 |
-| 17 | [Love, Today](https://open.spotify.com/track/1LoCwW6zCCmuLxDU8p06Q8) | [Preyé](https://open.spotify.com/artist/6dbTmlL5brq9B2fkUj2MQD), [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Ladipo Eso](https://open.spotify.com/artist/6SL7pR1T6IQZVxxrovKRut) | [Don't Look Down!](https://open.spotify.com/album/6DEAfTTihu0p1nNkti8Bn0) | 3:26 |
+| 17 | [Love, Today](https://open.spotify.com/track/1LoCwW6zCCmuLxDU8p06Q8) | [Preyé](https://open.spotify.com/artist/6dbTmlL5brq9B2fkUj2MQD), [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu) | [Don't Look Down!](https://open.spotify.com/album/6DEAfTTihu0p1nNkti8Bn0) | 3:26 |
 | 18 | [Good Guy \- triple j Like A Version](https://open.spotify.com/track/4JhRrFf4hDjOvzQqpZIJKr) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Good Guy \(triple j Like A Version\)](https://open.spotify.com/album/7oFdcLK7rw7iRvjPRsTRUy) | 4:17 |
 | 19 | [Mood Hoover](https://open.spotify.com/track/1Kma7Z2DAv6tI7beez0Jqo) | [Connie Constance](https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt) | [Mood Hoover](https://open.spotify.com/album/6QMxKOuHssNVCqphLFbUn1) | 3:14 |
 | 20 | [SHROOM TRIP](https://open.spotify.com/track/54B9JQXq1Q3oTE9DIp1mHg) | [Chaz French](https://open.spotify.com/artist/3BYzEWh3pY0DZpMN0hFufv) | [SHROOM TRIP](https://open.spotify.com/album/10t8VXwMKS8cDq2Pc6rQB7) | 2:23 |

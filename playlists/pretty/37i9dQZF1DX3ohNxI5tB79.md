@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ohNxI5tB79.md) - [plain]
 
 > Start your morning right with this collection of funky, soulful, jazzy tunes!
 
-[Spotify](https://open.spotify.com/user/spotify) - 336,803 likes - 92 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 335,930 likes - 92 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ohNxI5tB79.md) - [plain]
 | 73 | [Hurt](https://open.spotify.com/track/3OREiYBiC7wSpOLukQMDZR) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Hurt](https://open.spotify.com/album/1tKobwujSCKXeHTMmbwpfJ) | 3:36 |
 | 74 | [The Good Life](https://open.spotify.com/track/61sH4Kpbpz9arNiudx07Sf) | [Ben L'Oncle Soul](https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK) | [Under My Skin](https://open.spotify.com/album/3Y2oCc3jdG6ad114eUc8Ev) | 4:11 |
 | 75 | [Make It Better \(feat\. Smokey Robinson\)](https://open.spotify.com/track/4SBVWkRIMJ6WBCYPvr5Bwr) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Smokey Robinson](https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8) | [Ventura](https://open.spotify.com/album/0YF8PfcGbsKg5IaFyPnlyY) | 3:39 |
-| 76 | [Thank You Master \(For My Soul\)](https://open.spotify.com/track/6xaAoSvOozsjDHTMWhYtAx) | [Sons Of The James](https://open.spotify.com/artist/2glaJzU6VwtGLSo777oyiM), [Rob Milton](https://open.spotify.com/artist/3vvRSvTEKNAAsZQqP5Fdcl), [DJ Harrison](https://open.spotify.com/artist/6gU7qtF5B31WwdgkNwF1XK) | [Everlasting](https://open.spotify.com/album/6qKrcLdkdpGLuPzN0i4oTJ) | 1:55 |
+| 76 | [Thank You Master \(For My Soul\)](https://open.spotify.com/track/36gjfzhQg7lzKskouTyFkX) | [Sons Of The James](https://open.spotify.com/artist/2glaJzU6VwtGLSo777oyiM), [Rob Milton](https://open.spotify.com/artist/3vvRSvTEKNAAsZQqP5Fdcl), [DJ Harrison](https://open.spotify.com/artist/6gU7qtF5B31WwdgkNwF1XK) | [Everlasting](https://open.spotify.com/album/7MHsKlHkBayVBh8UOY8gUr) | 1:55 |
 | 77 | [The Ballad](https://open.spotify.com/track/1U0pbxsCfQdy7f4XQ1cdYB) | [YellowStraps](https://open.spotify.com/artist/772hWD0N94gYjnVhrqE7lx), [Louis VI](https://open.spotify.com/artist/7tQDfSGEfN1CJcCmnnN4FV), [Rudi Creswick](https://open.spotify.com/artist/1u238rg67yiJYzLpylTeCG) | [The Ballad](https://open.spotify.com/album/3T5WVhwAhBCF6M2ucACkka) | 4:34 |
 | 78 | [ALTITUDE](https://open.spotify.com/track/1vfY3iOZQ2mFvx0uh2iQrL) | [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9) | [Rehearsal @ NINE](https://open.spotify.com/album/1vggI3ABSj32lXYyfBQdXc) | 3:32 |
 | 79 | [New Day \(Otis Parham\)](https://open.spotify.com/track/4Za8yDzEhc8uZMBQRkiaGr) | [Sean C\. Johnson](https://open.spotify.com/artist/6jwSgdzEmAv7K0c4G8kq1H) | [New Day \(Otis Parham\)](https://open.spotify.com/album/03ytEPT6foahNKKrJMoGgm) | 3:15 |
@@ -101,4 +101,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ohNxI5tB79.md) - [plain]
 | 91 | [Do You Really](https://open.spotify.com/track/4vt4JoGfQ1QaDeHXKxTpUI) | [Oscar Jerome](https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh) | [Do You Really](https://open.spotify.com/album/176nPDYntjkybucUj1VlJt) | 3:30 |
 | 92 | [He's Been Gone](https://open.spotify.com/track/7Apu2VeNNUlKivnI6BatoV) | [Amber Navran](https://open.spotify.com/artist/4akQZt0saex1UBmywlc1qH) | [Speak Up EP](https://open.spotify.com/album/5L0WOwTwEoXYlb4pC4IcZM) | 2:48 |
 
-Snapshot ID: `MTY1NzAyNzg4NiwwMDAwMDAwMGNmNzhmYjFhYWEzMmRlMDE3OWM5ZTc2OGI2YmJhNWY1`
+Snapshot ID: `MTY1NzAyNzg4NiwwMDAwMDAwMGNkYWQzYTVlMzg3YTliM2IyMmFiYzg0YmVhZjhjMDQw`

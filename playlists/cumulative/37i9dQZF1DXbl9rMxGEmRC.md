@@ -4,7 +4,7 @@
 
 > A collection of classics and recent tracks from the world of black and dark metal\. Cover: Dimmu Borgir
 
-301 songs - 1 day 2 hr 23 min - [published](https://open.spotify.com/playlist/64Dcl2uRhYdNKoQxcWR2Lx)
+302 songs - 1 day 2 hr 27 min - [published](https://open.spotify.com/playlist/64Dcl2uRhYdNKoQxcWR2Lx)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,7 +148,8 @@
 | [In the Shadow of the Horns \- Studio](https://open.spotify.com/track/1qY7zhfiiMVzb38kJ2806t) | [Darkthrone](https://open.spotify.com/artist/7kWnE981vITXDnAD2cZmCV) | [A Blaze In The Northern Sky](https://open.spotify.com/album/4ywDt046dDB2OtWLqKwvMF) | 7:01 | 2022-07-13 |  |
 | [Infinite Sequential Visions of a Sphere of Hate](https://open.spotify.com/track/4tLtrLgROIRKkMkQdeYZ4h) | [And Hell Followed With](https://open.spotify.com/artist/7MnEOC6vXcGp5P8RiFrlCm), [Kyle Anderson](https://open.spotify.com/artist/2eBk2tRUVeNEfbuDvU4v44) | [Infinite Sequential Visions of a Sphere of Hate](https://open.spotify.com/album/0qMWnSbR71q3ccgPyPx9v6) | 4:41 | 2022-03-18 | 2022-07-24 |
 | [Inno A Satana](https://open.spotify.com/track/3hKxsjBdyJmqOyNMgv2wOx) | [Emperor](https://open.spotify.com/artist/6jPWrSmxOd9mj7Xaj4EP2Y) | [In The Nightside Eclipse](https://open.spotify.com/album/5nTalKcL6vhFMNihs0b3iU) | 4:48 | 2022-07-13 |  |
-| [Into the Crypts of Rays](https://open.spotify.com/track/4xQO8MVtFZOW2KJMBuAB2p) | [Celtic Frost](https://open.spotify.com/artist/4ZISAmHmQUDCpv8xydqeKG) | [Morbid Tales](https://open.spotify.com/album/2G2c7jjmwDaJVLfJc47859) | 3:39 | 2022-07-13 |  |
+| [Into the Crypts of Rays](https://open.spotify.com/track/7B2ckrWOWcQCFR4ZGGUhqQ) | [Celtic Frost](https://open.spotify.com/artist/4ZISAmHmQUDCpv8xydqeKG) | [Morbid Tales \(Expanded Version\)](https://open.spotify.com/album/1HxVnOkKo8cREE244DnykH) | 3:38 | 2022-09-01 |  |
+| [Into the Crypts of Rays](https://open.spotify.com/track/4xQO8MVtFZOW2KJMBuAB2p) | [Celtic Frost](https://open.spotify.com/artist/4ZISAmHmQUDCpv8xydqeKG) | [Morbid Tales](https://open.spotify.com/album/2G2c7jjmwDaJVLfJc47859) | 3:39 | 2022-07-13 | 2022-09-04 |
 | [Into the Night](https://open.spotify.com/track/4nXWnm11xQjnDsgsKtYRti) | [Cult Of Luna](https://open.spotify.com/artist/7E7fJJpdVgr1F3pfAfRtHe) | [Into the Night](https://open.spotify.com/album/4Gbn1jOz5A5YDqOBMkqO2i) | 6:58 | 2022-01-14 | 2022-02-11 |
 | [IRMOS I](https://open.spotify.com/track/2ogB6fMaIdNa3cQsEoHrAt) | [Batushka](https://open.spotify.com/artist/15LsRgSmN0t8VLcsUFYW5J) | [MARIA](https://open.spotify.com/album/5XRR2Lnc7grEl7FXyrS0qz) | 4:49 | 2022-04-01 |  |
 | [It's Darker Than You Think](https://open.spotify.com/track/24rgd0Ex8aBpmctVJHbJSF) | [Carpathian Forest](https://open.spotify.com/artist/0sFntmE9T1tiF6G6O6Lm3H) | [Defending the Throne of Evil](https://open.spotify.com/album/4SCjDGytdNcWgtt3cMIBF2) | 4:41 | 2022-07-13 | 2022-07-29 |

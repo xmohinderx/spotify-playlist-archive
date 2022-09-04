@@ -2,14 +2,15 @@
 
 ### [Indie India ](https://open.spotify.com/playlist/37i9dQZF1DX5q67ZpWyRrZ)
 
-> 'Chaand Baaliyan' and other popular Indie hits! Cover \- Akanksha Sethi
+> 'Ritviz' is on the cover of Indie India.
 
-153 songs - 8 hr 54 min - [published](https://open.spotify.com/playlist/5J0oFaPhwRhYmz4fIMaWG7)
+155 songs - 9 hr 0 min - [published](https://open.spotify.com/playlist/5J0oFaPhwRhYmz4fIMaWG7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Aaftaab](https://open.spotify.com/track/4LtSTc3xANVhYeeN69nscM) | [The Local Train](https://open.spotify.com/artist/7b6Ui7JVaBDEfZB9k6nHL0) | [Vaaqif](https://open.spotify.com/album/7ouN1RiK4NRenRCnrGkA1Z) | 3:53 | 2022-01-05 |  |
 | [Aaina](https://open.spotify.com/track/5SAgi6ZXqpCWQADP8XyRDY) | [AFKAP](https://open.spotify.com/artist/0VI5poXvvDVFaIPdL7M4rY) | [Aaina](https://open.spotify.com/album/6HbxSkGlSicnBUp5Uezh06) | 3:00 | 2021-12-06 | 2022-08-11 |
+| [Aaj Na](https://open.spotify.com/track/322TxW77VZdX9gHynK5Xue) | [Ritviz](https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb) | [Mimmi](https://open.spotify.com/album/1AproDt63gOfSf7AhNzlmG) | 3:13 | 2022-09-03 |  |
 | [Aankhon Se Batana](https://open.spotify.com/track/1ZiReD9pPTttQWwSoYqdyH) | [Dikshant](https://open.spotify.com/artist/0kTAB5SUakX286t6K7J3QR) | [Aankhon Se Batana](https://open.spotify.com/album/57FSK7an8LmvStMZviJ8Ws) | 3:41 | 2022-04-25 |  |
 | [Aankhon Se Batana](https://open.spotify.com/track/49oltVbt6XTuhAptCpGW4j) | [Dikshant](https://open.spotify.com/artist/0kTAB5SUakX286t6K7J3QR) | [Aankhon Se Batana](https://open.spotify.com/album/19H1bwuvijYTRr5urWUFTI) | 3:41 | 2022-04-04 | 2022-04-26 |
 | [Aao Chalein](https://open.spotify.com/track/0wNf3Yk11625KJ6mDkEjzu) | [Taba Chake](https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy) | [Bombay Dreams](https://open.spotify.com/album/2VA8qF2mFzvMiFcHquVOEj) | 3:05 | 2022-07-25 |  |
@@ -23,7 +24,7 @@
 | [All I Need](https://open.spotify.com/track/47hXMyQDGW8sA1NGqmFL7h) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [The Way That Lovers Do](https://open.spotify.com/album/4WLh56ZjwINYBNhaxLvEhA) | 2:33 | 2022-05-23 |  |
 | [Attached](https://open.spotify.com/track/4LXP4tw0mucgLy8zeNj7lL) | [RANJ](https://open.spotify.com/artist/1vR6C8xoVTgy9yVRsCsr7H), [Clifr](https://open.spotify.com/artist/1o9ja4Dha8IqKI3e5DpH14), [Issamood](https://open.spotify.com/artist/4CM8qfix2AYlwVU0iUIxAW) | [593, Vol\. I](https://open.spotify.com/album/1UtL4DXUWM7Qs6TeL42I5I) | 2:10 | 2021-12-06 | 2022-02-05 |
 | [Aziyat](https://open.spotify.com/track/5DEp8hauuZ45oG38YOkkQq) | [Pratsofficial](https://open.spotify.com/artist/29ggvWc5EMcSk5RLQ5aXHr) | [Aziyat](https://open.spotify.com/album/45ClrZZAaxYdWMG5FqsjfB) | 3:41 | 2021-12-06 |  |
-| [Baaraat](https://open.spotify.com/track/0YLSjVxSb5FT1Bo8Tnxr8j) | [Ritviz](https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb), [Nucleya](https://open.spotify.com/artist/2CkrXQPoBz8jTQ3u0ZeLPh) | [Baaraat](https://open.spotify.com/album/5tJNl2p7wNTuRBvikWFHSn) | 3:42 | 2021-12-06 |  |
+| [Baaraat](https://open.spotify.com/track/0YLSjVxSb5FT1Bo8Tnxr8j) | [Ritviz](https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb), [Nucleya](https://open.spotify.com/artist/2CkrXQPoBz8jTQ3u0ZeLPh) | [Baaraat](https://open.spotify.com/album/5tJNl2p7wNTuRBvikWFHSn) | 3:42 | 2021-12-06 | 2022-09-04 |
 | [Baaraat](https://open.spotify.com/track/2ntHbBDXOy9kiC0p8liLiU) | [Ritviz](https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb), [Nucleya](https://open.spotify.com/artist/2CkrXQPoBz8jTQ3u0ZeLPh) | [Baaraat](https://open.spotify.com/album/4quoXN797O4DI17FeOQRr5) | 3:42 | 2022-01-05 | 2022-07-29 |
 | [Baarish Ka Asar](https://open.spotify.com/track/6J4oLY2GEwOsUgEd50IpKy) | [Twin Strings](https://open.spotify.com/artist/0cPN6x5LmDIZjp6gFmAkqw) | [Baarish Ka Asar](https://open.spotify.com/album/6ZqPFOO9erbfD7BHpNn2Jj) | 4:05 | 2021-12-06 |  |
 | [Baarishein](https://open.spotify.com/track/5iCY0TXNImK4hyKfcplQsg) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Baarishein](https://open.spotify.com/album/4ysOhipyMXKstywus51VXS) | 3:27 | 2021-12-06 |  |
@@ -97,6 +98,7 @@
 | [Mai Ni Meriye](https://open.spotify.com/track/0zFcYzwaLbJAhg7bvSVavv) | [Lost Stories](https://open.spotify.com/artist/4RCALXqxv2udxtuLatKPSi), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU), [Ashwin Adwani](https://open.spotify.com/artist/5kiwICyQNDmCtwOPLvgY04) | [Mai Ni Meriye](https://open.spotify.com/album/0ihCuXL4ZcE0FKqRwyithU) | 2:52 | 2022-01-05 |  |
 | [Manzil](https://open.spotify.com/track/5fPWflMcJ7zT8BSnHQD9Wh) | [Anupam Roy](https://open.spotify.com/artist/5LZ894xYE9MG1sal0gjt5L) | [Manzil](https://open.spotify.com/album/690gJ0guvYLVbS9nkT5Mnp) | 3:11 | 2021-12-06 |  |
 | [Matwari](https://open.spotify.com/track/2B6uLeBwpBVBLu1xaXyoG5) | [Samahita Narang](https://open.spotify.com/artist/4EBQpbs8lhMmXp1ZLNAQl4) | [Matwari](https://open.spotify.com/album/0KUsDc3GaU9R1i4GGaYaC9) | 3:20 | 2021-12-06 | 2022-02-15 |
+| [Mehfooz](https://open.spotify.com/track/36jYuqoGDDlfZBst0p4JGy) | [Ritviz](https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb) | [Mimmi](https://open.spotify.com/album/1AproDt63gOfSf7AhNzlmG) | 2:22 | 2022-09-03 |  |
 | [Meri Baaton Mein Tu](https://open.spotify.com/track/5nTbPFqLKmQdIg1SD8KgG4) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Meri Baaton Mein Tu](https://open.spotify.com/album/4L79tNWi1gfRrbuzW0Vwfn) | 3:33 | 2022-03-06 |  |
 | [Milon Chala](https://open.spotify.com/track/0ZnlE3PfamXPMCsT5wr3sK) | [Ashu Shukla](https://open.spotify.com/artist/15iD55LPew2DyTQDqoV0F1) | [Milon Chala](https://open.spotify.com/album/3kkhdt3cKKiZySDihwFbPG) | 3:10 | 2022-07-25 | 2022-08-11 |
 | [Milon Chala](https://open.spotify.com/track/3EZRMX38CXvegTt5cMbRNR) | [Ashu Shukla](https://open.spotify.com/artist/15iD55LPew2DyTQDqoV0F1) | [Milon Chala](https://open.spotify.com/album/1ORhB6Qy0t3uSwPFpCMYUh) | 3:10 | 2021-12-06 | 2022-07-29 |

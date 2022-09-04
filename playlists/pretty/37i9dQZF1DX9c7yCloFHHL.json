@@ -1,12 +1,12 @@
 {
   "description": "The home of today\u2019s cutting edge Ambient, Atmospheric and Neo Classical music. Pantha Du Prince on cover. ",
-  "num_followers": 104004,
+  "num_followers": 103884,
   "original_name": "Ambiente",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjEwMDMyMywwMDAwMDAwMDgxMzhjNGYxNGIzYjQyNzE1MmM1YTg5MjBkMTU2YzI1",
+  "snapshot_id": "MTY2MjE3Mzc4MCwwMDAwMDAwMGVhYmJiZjI4MzRkM2M4M2I3NjIwOTVmNWRmOGQ0NDJh",
   "tracks": [
     {
       "added_at": "2022-09-02 06:24:58",
@@ -357,6 +357,34 @@
       "url": "https://open.spotify.com/track/3oL1cWdxaQR3fOY5LsscGc"
     },
     {
+      "added_at": "2022-09-03 02:56:20",
+      "album": {
+        "name": "Birki",
+        "url": "https://open.spotify.com/album/45FNDz5cwraBbRazdMFdzP"
+      },
+      "artists": [
+        {
+          "name": "J\u00f3nsi",
+          "url": "https://open.spotify.com/artist/3khg8RDB6nMuw34w1IHS6Y"
+        },
+        {
+          "name": "Kjartan Holm",
+          "url": "https://open.spotify.com/artist/0BWRfTuCYTRzqnjYprarFo"
+        },
+        {
+          "name": "Sin Fang",
+          "url": "https://open.spotify.com/artist/7xsi0kBJ58yWMu4WXFYPHU"
+        },
+        {
+          "name": "Alex Somers",
+          "url": "https://open.spotify.com/artist/51UcKPhDKdKDGIjec0781x"
+        }
+      ],
+      "duration_ms": 243250,
+      "name": "Birki",
+      "url": "https://open.spotify.com/track/7eVczwc5ifac0Refb83OFN"
+    },
+    {
       "added_at": "2022-08-19 17:30:47",
       "album": {
         "name": "Blade Runner (Music From The Original Soundtrack)",
@@ -389,22 +417,6 @@
       "url": "https://open.spotify.com/track/1kXAT5Y0fIBw1vVbTgoS3i"
     },
     {
-      "added_at": "2022-08-19 17:30:47",
-      "album": {
-        "name": "There Were Bells",
-        "url": "https://open.spotify.com/album/4aTHChoZPVwUVqHawBfoP0"
-      },
-      "artists": [
-        {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
-        }
-      ],
-      "duration_ms": 292466,
-      "name": "There Were Bells",
-      "url": "https://open.spotify.com/track/3scoh1BWW0rVW5ZmrJQU3l"
-    },
-    {
       "added_at": "2022-09-02 06:32:03",
       "album": {
         "name": "Ephemera",
@@ -419,6 +431,22 @@
       "duration_ms": 178315,
       "name": "Ephemera",
       "url": "https://open.spotify.com/track/0lPuVl7IOARj1HFFL5t5yK"
+    },
+    {
+      "added_at": "2022-08-19 17:30:47",
+      "album": {
+        "name": "There Were Bells",
+        "url": "https://open.spotify.com/album/4aTHChoZPVwUVqHawBfoP0"
+      },
+      "artists": [
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "duration_ms": 292466,
+      "name": "There Were Bells",
+      "url": "https://open.spotify.com/track/3scoh1BWW0rVW5ZmrJQU3l"
     },
     {
       "added_at": "2022-08-19 17:30:47",
@@ -471,6 +499,22 @@
     {
       "added_at": "2022-08-19 17:30:47",
       "album": {
+        "name": "Antarctican Dream Machine",
+        "url": "https://open.spotify.com/album/4s3XMtTEkRyaKTMR8HVGLz"
+      },
+      "artists": [
+        {
+          "name": "Novo Amor",
+          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
+        }
+      ],
+      "duration_ms": 113933,
+      "name": "Preface",
+      "url": "https://open.spotify.com/track/3hu8vy5RPfIMdboW1vfcty"
+    },
+    {
+      "added_at": "2022-08-19 17:30:47",
+      "album": {
         "name": "Silhouette",
         "url": "https://open.spotify.com/album/6G0qk1KLeqf5L9deBa6uo8"
       },
@@ -487,22 +531,6 @@
       "duration_ms": 213349,
       "name": "Silhouette",
       "url": "https://open.spotify.com/track/5XflWKyyLrg3HlvjlDn6Rk"
-    },
-    {
-      "added_at": "2022-08-19 17:30:47",
-      "album": {
-        "name": "Antarctican Dream Machine",
-        "url": "https://open.spotify.com/album/4s3XMtTEkRyaKTMR8HVGLz"
-      },
-      "artists": [
-        {
-          "name": "Novo Amor",
-          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
-        }
-      ],
-      "duration_ms": 113933,
-      "name": "Preface",
-      "url": "https://open.spotify.com/track/3hu8vy5RPfIMdboW1vfcty"
     },
     {
       "added_at": "2022-08-19 17:30:47",
@@ -553,22 +581,6 @@
       "url": "https://open.spotify.com/track/4G0m7oplySbleIlWeLu3vH"
     },
     {
-      "added_at": "2022-08-19 17:30:47",
-      "album": {
-        "name": "Space 1.8",
-        "url": "https://open.spotify.com/album/5Svfamp6qQ2IfLVNVICpVm"
-      },
-      "artists": [
-        {
-          "name": "Nala Sinephro",
-          "url": "https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO"
-        }
-      ],
-      "duration_ms": 248000,
-      "name": "Space 1",
-      "url": "https://open.spotify.com/track/1WGvKEkU8c3uvqmZpUt5ZL"
-    },
-    {
       "added_at": "2022-09-02 06:32:03",
       "album": {
         "name": "The Truth Is",
@@ -583,6 +595,22 @@
       "duration_ms": 212872,
       "name": "Decide Every Second",
       "url": "https://open.spotify.com/track/3cAG7OsSdJgPTLfRx0Xrng"
+    },
+    {
+      "added_at": "2022-08-19 17:30:47",
+      "album": {
+        "name": "Space 1.8",
+        "url": "https://open.spotify.com/album/5Svfamp6qQ2IfLVNVICpVm"
+      },
+      "artists": [
+        {
+          "name": "Nala Sinephro",
+          "url": "https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO"
+        }
+      ],
+      "duration_ms": 248000,
+      "name": "Space 1",
+      "url": "https://open.spotify.com/track/1WGvKEkU8c3uvqmZpUt5ZL"
     },
     {
       "added_at": "2022-08-19 17:30:47",
@@ -851,6 +879,22 @@
     {
       "added_at": "2022-08-19 17:30:47",
       "album": {
+        "name": "Partisans",
+        "url": "https://open.spotify.com/album/0oBmVbeJmelnhnYiacIvde"
+      },
+      "artists": [
+        {
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+        }
+      ],
+      "duration_ms": 236394,
+      "name": "Partisans",
+      "url": "https://open.spotify.com/track/7djcz9efRuDz8jklVJn4DC"
+    },
+    {
+      "added_at": "2022-08-19 17:30:47",
+      "album": {
         "name": "A Gathering Of The Tribe",
         "url": "https://open.spotify.com/album/6Du66cvAKHGkq4DHnwgEFX"
       },
@@ -867,22 +911,6 @@
       "duration_ms": 537732,
       "name": "A Gathering Of The Tribe",
       "url": "https://open.spotify.com/track/0TjhUnp64Xo4MpPeLXFd9W"
-    },
-    {
-      "added_at": "2022-08-19 17:30:47",
-      "album": {
-        "name": "Partisans",
-        "url": "https://open.spotify.com/album/0oBmVbeJmelnhnYiacIvde"
-      },
-      "artists": [
-        {
-          "name": "\u00d3lafur Arnalds",
-          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
-        }
-      ],
-      "duration_ms": 236394,
-      "name": "Partisans",
-      "url": "https://open.spotify.com/track/7djcz9efRuDz8jklVJn4DC"
     },
     {
       "added_at": "2022-08-19 17:30:47",
@@ -1039,6 +1067,22 @@
     {
       "added_at": "2022-08-19 17:30:47",
       "album": {
+        "name": "Epilogue",
+        "url": "https://open.spotify.com/album/6BynYgJToip74Uh1EZ7yR4"
+      },
+      "artists": [
+        {
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+        }
+      ],
+      "duration_ms": 249081,
+      "name": "Epilogue",
+      "url": "https://open.spotify.com/track/7lEfD3Sz6ibitGq0UanGMr"
+    },
+    {
+      "added_at": "2022-08-19 17:30:47",
+      "album": {
         "name": "March 13 (Zoon Remix)",
         "url": "https://open.spotify.com/album/1vD359X2yHjI6aOb2w0cK6"
       },
@@ -1055,22 +1099,6 @@
       "duration_ms": 216666,
       "name": "March 13 - Zoon Remix",
       "url": "https://open.spotify.com/track/4aayAMzedeWHfKkQwPRixz"
-    },
-    {
-      "added_at": "2022-08-19 17:30:47",
-      "album": {
-        "name": "Epilogue",
-        "url": "https://open.spotify.com/album/6BynYgJToip74Uh1EZ7yR4"
-      },
-      "artists": [
-        {
-          "name": "\u00d3lafur Arnalds",
-          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
-        }
-      ],
-      "duration_ms": 249081,
-      "name": "Epilogue",
-      "url": "https://open.spotify.com/track/7lEfD3Sz6ibitGq0UanGMr"
     },
     {
       "added_at": "2022-08-19 17:30:47",
@@ -2631,6 +2659,22 @@
     {
       "added_at": "2022-08-19 17:30:47",
       "album": {
+        "name": "fragments",
+        "url": "https://open.spotify.com/album/67EzhMUZJBwTnXpnnSY6Jx"
+      },
+      "artists": [
+        {
+          "name": "Rachika Nayar",
+          "url": "https://open.spotify.com/artist/6afqNtQw2IUvXw6JeIRgQZ"
+        }
+      ],
+      "duration_ms": 127766,
+      "name": "whateverness",
+      "url": "https://open.spotify.com/track/3MKC7OvW9dw7bxgNuknQi5"
+    },
+    {
+      "added_at": "2022-08-19 17:30:47",
+      "album": {
         "name": "Night Bunny (feat. Suzanne Ciani)",
         "url": "https://open.spotify.com/album/3hdtWC6PVnbWBBDhEWHlrR"
       },
@@ -2651,22 +2695,6 @@
       "duration_ms": 413993,
       "name": "Night Bunny (feat. Suzanne Ciani)",
       "url": "https://open.spotify.com/track/3vATOCr2BhLfHN6yn5Y6OP"
-    },
-    {
-      "added_at": "2022-08-19 17:30:47",
-      "album": {
-        "name": "fragments",
-        "url": "https://open.spotify.com/album/67EzhMUZJBwTnXpnnSY6Jx"
-      },
-      "artists": [
-        {
-          "name": "Rachika Nayar",
-          "url": "https://open.spotify.com/artist/6afqNtQw2IUvXw6JeIRgQZ"
-        }
-      ],
-      "duration_ms": 127766,
-      "name": "whateverness",
-      "url": "https://open.spotify.com/track/3MKC7OvW9dw7bxgNuknQi5"
     },
     {
       "added_at": "2022-08-19 17:30:47",
@@ -3359,6 +3387,22 @@
     {
       "added_at": "2022-08-19 17:30:47",
       "album": {
+        "name": "Collected Pieces: 2015-2020",
+        "url": "https://open.spotify.com/album/7fZYAQ9HtGNemdpr8xt3SP"
+      },
+      "artists": [
+        {
+          "name": "Mary Lattimore",
+          "url": "https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw"
+        }
+      ],
+      "duration_ms": 365458,
+      "name": "For Scott Kelly, Returned To Earth",
+      "url": "https://open.spotify.com/track/7lG9BjDCVt3IlBnt1iScv1"
+    },
+    {
+      "added_at": "2022-08-19 17:30:47",
+      "album": {
         "name": "The Sound of Living Things",
         "url": "https://open.spotify.com/album/63KvbVADYi7wwExsu2lUxe"
       },
@@ -3447,22 +3491,6 @@
     {
       "added_at": "2022-08-19 17:30:47",
       "album": {
-        "name": "Collected Pieces: 2015-2020",
-        "url": "https://open.spotify.com/album/7fZYAQ9HtGNemdpr8xt3SP"
-      },
-      "artists": [
-        {
-          "name": "Mary Lattimore",
-          "url": "https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw"
-        }
-      ],
-      "duration_ms": 365458,
-      "name": "For Scott Kelly, Returned To Earth",
-      "url": "https://open.spotify.com/track/7lG9BjDCVt3IlBnt1iScv1"
-    },
-    {
-      "added_at": "2022-08-19 17:30:47",
-      "album": {
         "name": "Before Life",
         "url": "https://open.spotify.com/album/2Ju4JSwJaPjMcbD9R3pXMH"
       },
@@ -3527,22 +3555,6 @@
       "duration_ms": 325873,
       "name": "Call the Flood",
       "url": "https://open.spotify.com/track/5NNBZTpEjrK9dLnsozj61C"
-    },
-    {
-      "added_at": "2022-08-19 17:30:47",
-      "album": {
-        "name": "Movements",
-        "url": "https://open.spotify.com/album/6MaULV6Q82B2QA0A9SUSQs"
-      },
-      "artists": [
-        {
-          "name": "Mazoulew",
-          "url": "https://open.spotify.com/artist/2FXIGKBu3oLpuZkXq6bMgj"
-        }
-      ],
-      "duration_ms": 206286,
-      "name": "Burnt",
-      "url": "https://open.spotify.com/track/4mVkekfbynNEYCxTqjvu3n"
     }
   ],
   "unique_name": "Ambiente",

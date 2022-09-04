@@ -4,7 +4,7 @@
 
 > Color, humor y narrativas contemporáneas que recorren toda Latinoamérica\. Silvana Estrada en portada.
 
-120 songs - 8 hr 34 min - [published](https://open.spotify.com/playlist/2QwlzrEjUwHNpvdCZVIDMX)
+121 songs - 8 hr 38 min - [published](https://open.spotify.com/playlist/2QwlzrEjUwHNpvdCZVIDMX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,7 +121,8 @@
 | [Tú Sí Sabes Quererme](https://open.spotify.com/track/4Y4LIwW0Wu2ofbnaz9qZVN) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Mare Advertencia Lirika](https://open.spotify.com/artist/3QVB7ctBlqEFuQZeMDt6Qh), [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj) | [Tú Sí Sabes Quererme](https://open.spotify.com/album/3l1VLXgsVJQ2iBLeIkByZn) | 4:28 | 2022-03-04 | 2022-09-03 |
 | [Una Vida](https://open.spotify.com/track/289DnDSBiZcp2JrnNqvLBC) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Un Canto por México, Vol\. 1](https://open.spotify.com/album/6yDcHjoEqNkkl9UC6KSlFE) | 4:21 | 2022-03-04 |  |
 | [Una Vida](https://open.spotify.com/track/2sHfiuExXmc795qyMtKFlE) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Una Vida](https://open.spotify.com/album/4yIE4FFAh7Agudj7nC5EX2) | 4:29 | 2022-03-04 | 2022-09-03 |
-| [Veracruz](https://open.spotify.com/track/5BtCjOEPnTt3m1PbCRxQhd) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Veracruz](https://open.spotify.com/album/6zQMFodbAoC1JJOtx2Q0av) | 4:03 | 2022-03-04 |  |
+| [Veracruz](https://open.spotify.com/track/5BtCjOEPnTt3m1PbCRxQhd) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Veracruz](https://open.spotify.com/album/6zQMFodbAoC1JJOtx2Q0av) | 4:03 | 2022-03-04 | 2022-09-04 |
+| [Veracruz](https://open.spotify.com/track/6QlEtyGqmX4dXASVeEEEDH) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Un Canto por México, Vol\. 1](https://open.spotify.com/album/6yDcHjoEqNkkl9UC6KSlFE) | 4:03 | 2022-03-04 |  |
 | [Vibra](https://open.spotify.com/track/4v5V92B2AHjaoJ2DnY6M8j) | [BuenRostro](https://open.spotify.com/artist/2aFFKR6cGWux6f8G5RafHm) | [Vibra](https://open.spotify.com/album/6x0BGz3cZQ68FMbMtHScOJ) | 3:18 | 2022-03-04 |  |
 | [Vivan los Humanos](https://open.spotify.com/track/3RpwYqWAH2Za8mWowJmyyi) | [La Rumorosa](https://open.spotify.com/artist/3IEgTdEwMmfG1JxfAr7tGK), [Óscar Chávez](https://open.spotify.com/artist/4QHjJWgPhculd31AHEsjOb) | [Vivan los Humanos](https://open.spotify.com/album/1LS1ghliTvyePiYAASwxII) | 3:21 | 2022-03-04 |  |
 | [Voy al Mar](https://open.spotify.com/track/2WhxGPakyxJMmcn4gRsF42) | [Espanglish](https://open.spotify.com/artist/5wnMB6o7El35W7BNYxKeb1) | [Voy al Mar](https://open.spotify.com/album/6iHwza5JGSuSMRaDvQh5Uw) | 4:18 | 2022-03-04 |  |

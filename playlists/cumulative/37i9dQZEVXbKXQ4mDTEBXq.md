@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Japan.
 
-187 songs - 11 hr 54 min - [published](https://open.spotify.com/playlist/04dEl2TLTd4YmOYBIzuy2M)
+188 songs - 11 hr 57 min - [published](https://open.spotify.com/playlist/04dEl2TLTd4YmOYBIzuy2M)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,7 +144,7 @@
 | [優しさに溢れた世界で](https://open.spotify.com/track/2mRMcwDCNyYvBXaoUxmsmE) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [サニーボトル](https://open.spotify.com/album/7BhZH08HyR7jft1VOCvtew) | 4:18 | 2022-06-15 | 2022-09-01 |
 | [再会 \(produced by Ayase\)](https://open.spotify.com/track/52IsIvHidofM9JMjw78Jyz) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv), [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [再会 \(produced by Ayase\)](https://open.spotify.com/album/5E725MGo2fLSl5Q6CYKevf) | 4:02 | 2021-03-27\* | 2021-04-01 |
 | [創造](https://open.spotify.com/track/359Yw4Ng9TcH667Ct2Dj6D) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [創造](https://open.spotify.com/album/0K9ynR8vZZocGNMi9bvlUM) | 3:54 | 2021-03-27\* | 2021-03-30 |
-| [勿忘](https://open.spotify.com/track/0XZyF9lv6diMt4bxThOL0h) | [Awesome City Club](https://open.spotify.com/artist/7jGn8qhLb48n7yMMNfAoHv) | [Grower](https://open.spotify.com/album/4TapnJaH5MhqK5Jn7jt3eS) | 4:11 | 2021-03-27\* |  |
+| [勿忘](https://open.spotify.com/track/0XZyF9lv6diMt4bxThOL0h) | [Awesome City Club](https://open.spotify.com/artist/7jGn8qhLb48n7yMMNfAoHv) | [Grower](https://open.spotify.com/album/4TapnJaH5MhqK5Jn7jt3eS) | 4:11 | 2021-03-27\* | 2022-09-04 |
 | [君に夢中](https://open.spotify.com/track/0oxWaHk4e669g5VHbQCflA) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [BADモード](https://open.spotify.com/album/7Kxd4i6FPfW0ZuP3Q96uij) | 4:17 | 2022-01-20 | 2022-03-23 |
 | [君に夢中](https://open.spotify.com/track/3mRNkUTu4ItqQ6GXy7L7KF) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [君に夢中](https://open.spotify.com/album/1FcGt8wyGckJfp7PlLPNdA) | 4:17 | 2021-11-28 | 2022-01-21 |
 | [喜劇](https://open.spotify.com/track/6pllZAdgBf4QTcFUrF3DzL) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [喜劇](https://open.spotify.com/album/0W9ENhe5arttYknqbp67DB) | 3:50 | 2022-04-09 | 2022-04-17 |
@@ -165,6 +165,7 @@
 | [春を告げる](https://open.spotify.com/track/2Gmyw5Vg2X5YW2lM3OC7nD) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [春を告げる](https://open.spotify.com/album/1B4Ka4FOargLNxmbNch7xv) | 3:16 | 2021-03-27\* | 2021-12-01 |
 | [桜が降る夜は](https://open.spotify.com/track/1iEsGutpDvMJG0zYqoKKmQ) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [桜が降る夜は](https://open.spotify.com/album/1SKFic1b0W6lWuXBVzupOF) | 4:34 | 2021-03-27\* | 2021-08-18 |
 | [正しくなれない](https://open.spotify.com/track/2FHexlZenTsS3lsjUYHiDx) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [ぐされ](https://open.spotify.com/album/47anQ0XC69gwTModnqWQsr) | 4:00 | 2021-03-27\* | 2021-05-12 |
+| [死ぬのがいいわ](https://open.spotify.com/track/0HYAsQwJIO6FLqpyTeD3l6) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [HELP EVER HURT NEVER](https://open.spotify.com/album/03QiFOKDh6xMiSTkOnsmMG) | 3:05 | 2022-09-03 |  |
 | [残響散歌](https://open.spotify.com/track/7v8wKvNQQIxkugCFFjrkaO) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [残響散歌](https://open.spotify.com/album/1gfSftIuafqkGu28ely5z6) | 3:04 | 2021-12-08 |  |
 | [水平線](https://open.spotify.com/track/5m1i6hq7dmRlp3c1utE48L) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [水平線](https://open.spotify.com/album/4Z7pjeWlxxT8EXXlxW5i4y) | 4:45 | 2021-08-19 |  |
 | [炎](https://open.spotify.com/track/0cSkn2l67csUljEy0EEBPn) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [炎](https://open.spotify.com/album/1KmL1EZ0Pg9Vj3rPYMDqHY) | 4:35 | 2021-03-27\* | 2021-12-26 |

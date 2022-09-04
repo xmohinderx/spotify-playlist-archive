@@ -4,7 +4,7 @@
 
 > The perfect mix of Punk, Rock, Alt & Indie\. Cover: FIDLAR
 
-292 songs - 15 hr 22 min - [published](https://open.spotify.com/playlist/2w2n6MDKx2mk1T0ObTv6mW)
+293 songs - 15 hr 27 min - [published](https://open.spotify.com/playlist/2w2n6MDKx2mk1T0ObTv6mW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -273,7 +273,8 @@
 | [Tidal River](https://open.spotify.com/track/1B6nqx7K8pvhyZMiGusS9J) | [Rolling Blackouts Coastal Fever](https://open.spotify.com/artist/65mMkD9WW39U9Yadv0dWUF) | [Tidal River](https://open.spotify.com/album/7CXBgilBzgYsjuv5VINrjv) | 4:26 | 2022-03-11 | 2022-07-29 |
 | [Tidal River](https://open.spotify.com/track/2IAWpK4ez7m987Xxy5hGMl) | [Rolling Blackouts Coastal Fever](https://open.spotify.com/artist/65mMkD9WW39U9Yadv0dWUF) | [Endless Rooms](https://open.spotify.com/album/2inG3MxvNhZYd808mnhbOW) | 4:26 | 2022-07-08 |  |
 | [Tigers Jaw](https://open.spotify.com/track/0mlTB3e3CuVvgt8eyzjyhe) | [Heart to Gold](https://open.spotify.com/artist/0vLOlcZV1lvUZEawqLrXez) | [Tigers Jaw](https://open.spotify.com/album/3pz2smcCWWn4AP9nPZWLzG) | 4:50 | 2022-04-01 |  |
-| [Time](https://open.spotify.com/track/1kOrZmrSnP1gub1kneRNHF) | [Vundabar](https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6) | [Time](https://open.spotify.com/album/7cwi5zqBBnLFVNO1HR49Zd) | 4:22 | 2022-08-16 |  |
+| [Time](https://open.spotify.com/track/1kOrZmrSnP1gub1kneRNHF) | [Vundabar](https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6) | [Time](https://open.spotify.com/album/7cwi5zqBBnLFVNO1HR49Zd) | 4:22 | 2022-08-16 | 2022-09-04 |
+| [Time](https://open.spotify.com/track/5OSMmIX3QvBW5wrChEujmZ) | [Vundabar](https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6) | [Shadow Boxing](https://open.spotify.com/album/2ClkPaYrHeaHGxiiSaMoyA) | 4:22 | 2022-08-26 |  |
 | [Tiresome](https://open.spotify.com/track/720uwDE0qE7yUDhUvUOCsj) | [Drug Church](https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ) | [Hygiene](https://open.spotify.com/album/7o7dfudZfiankIzcfXXamT) | 3:05 | 2022-03-11 |  |
 | [Too Late Now](https://open.spotify.com/track/0k8v4D655QaAyuRNvQ9d7K) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Wet Leg](https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO) | 3:29 | 2022-06-10 |  |
 | [Treat Me So Bad](https://open.spotify.com/track/2lXiGLiubvktFmadJkYvoA) | [Otherkin](https://open.spotify.com/artist/3KozMLMh8J2iR3jmwndtfX) | [OK](https://open.spotify.com/album/4tYOeXYsu470FQpn7aXk6c) | 3:07 | 2021-10-07 | 2022-04-29 |

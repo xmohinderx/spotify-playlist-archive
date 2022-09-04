@@ -516,6 +516,24 @@
     },
     {
       "album": {
+        "name": "Celle-l\u00e0",
+        "url": "https://open.spotify.com/album/416sctnWh0f51OgNPvAhnP"
+      },
+      "artists": [
+        {
+          "name": "Grand Eug\u00e8ne",
+          "url": "https://open.spotify.com/artist/15HoDsauDCgOxvCFijHxdT"
+        }
+      ],
+      "date_added": "2022-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198979,
+      "name": "Celle-l\u00e0",
+      "url": "https://open.spotify.com/track/1zm0GXo74RpE4oZfvq2gEV"
+    },
+    {
+      "album": {
         "name": "Comment tu vas finir",
         "url": "https://open.spotify.com/album/7cJZ69AZhMMGk87nRwY8sz"
       },

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbizRAR17Ui.md) - [plain]
 
 > When the night isn't over just yet.
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,742 likes - 50 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,264 likes - 50 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Xtal](https://open.spotify.com/track/7o2AeQZzfCERsRmOM86EcB) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works 85\-92](https://open.spotify.com/album/7aNclGRxTysfh6z0d8671k) | 4:53 |
 | 2 | [Keep On](https://open.spotify.com/track/5Zm8huZ4tzDm7eLKFScrE8) | [Seb Wildblood](https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV), [Ouri](https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv) | [Keep On](https://open.spotify.com/album/1H43fXF8GpLEXaWk2raqxO) | 3:38 |
-| 3 | [Patterns](https://open.spotify.com/track/7qLrWXTgPdE2Sw3zTnhe67) | [Nate Brazier](https://open.spotify.com/artist/4cavlP5GhgtNXiWSS3wIO7) | [Patterns](https://open.spotify.com/album/0rlIVUflILXZZCXWtYHRuc) | 2:39 |
+| 3 | [Patterns](https://open.spotify.com/track/2WrGssfEIP2TQKv6iW0Jxj) | [Nate Brazier](https://open.spotify.com/artist/4cavlP5GhgtNXiWSS3wIO7) | [Feels](https://open.spotify.com/album/1A4mtUT5oyEEUFYR7RPb0y) | 2:39 |
 | 4 | [Greener Pastures \- Edit](https://open.spotify.com/track/6KxbDZguKzMLGeBKWcwSJG) | [Ryussi](https://open.spotify.com/artist/4mElECsrfYnJwUaQa8IZwn) | [Means of Change](https://open.spotify.com/album/0dSN3deh7EhSwYxawB9h3f) | 4:09 |
 | 5 | [Blush](https://open.spotify.com/track/2Dnh5y1kaUPymUifmimhD7) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh) | [Blush](https://open.spotify.com/album/4QWYTWnk5Cb1a7zUXQLGts) | 3:45 |
 | 6 | [Angie \(i’ve been lost\)](https://open.spotify.com/track/24CoUR3GwPXeWJzGizLzhR) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life \(April 14 \- December 17 2020\)](https://open.spotify.com/album/6o86bV7TAt5x4exc2qLDqC) | 4:45 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbizRAR17Ui.md) - [plain]
 | 49 | [Keep Shimmering](https://open.spotify.com/track/4M7bnpKyvmXMuoZe10hnki) | [Tom VR](https://open.spotify.com/artist/36tUphbhaRrmHNS6reORr5) | [Please Keep Shimmering](https://open.spotify.com/album/1gNXxhIfHLXttmjKSC1TDV) | 4:23 |
 | 50 | [Never Come Back](https://open.spotify.com/track/2xxKJgIpgiancRpSup5dHU) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Suddenly](https://open.spotify.com/album/7Dl44V6YlpZ7apC87YAWnC) | 5:05 |
 
-Snapshot ID: `MTY1NTczNTI0OCwwMDAwMDAwMGY1NjE5N2U1MGEwMDE4MTY1NDExMzJmYTIxZWQyMzNi`
+Snapshot ID: `MTY1NTczNTI0OCwwMDAwMDAwMGE5YzVmMzU0NDU5ZGI5NDc3M2Q1Mjc3Y2U5YWY4MDgx`

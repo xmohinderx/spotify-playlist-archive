@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUb0uBnlJuTi.md) - [plain]
 
 > Jazz\. But funky\. Cover: Unc D
 
-[Spotify](https://open.spotify.com/user/spotify) - 206,373 likes - 80 songs - 6 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 205,956 likes - 80 songs - 6 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

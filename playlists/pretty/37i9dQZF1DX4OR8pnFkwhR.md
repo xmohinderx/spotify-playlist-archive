@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: Bialystocks
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,435 likes - 57 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,436 likes - 57 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

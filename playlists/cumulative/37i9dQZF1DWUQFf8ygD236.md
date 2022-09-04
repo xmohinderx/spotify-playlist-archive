@@ -4,7 +4,7 @@
 
 > Celebrate South Asian Heritage Month with Asim Azhar's favorite South Asian tracks.
 
-20 songs - 1 hr 14 min - [published](https://open.spotify.com/playlist/4tUoJFcG0j2qOEXCvVpxfS)
+21 songs - 1 hr 17 min - [published](https://open.spotify.com/playlist/4tUoJFcG0j2qOEXCvVpxfS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,8 @@
 | [Mehram](https://open.spotify.com/track/2oi55VmillH7At5wHVNFbE) | [Asfar Hussain](https://open.spotify.com/artist/7lDDbppbcK5F2ZJXG12pru), [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Mehram](https://open.spotify.com/album/1I7fGWBGZzOfsbkxxLGSyq) | 5:38 | 2022-07-18 |  |
 | [Meri Mehbooba](https://open.spotify.com/track/18zXF2JNbtMthfQnQPaV45) | [Anik Khan](https://open.spotify.com/artist/23bSD5t38m4d6k8jtlZGDa) | [Spotify Singles](https://open.spotify.com/album/3yT5FrnQO9bsfaNOD7UygD) | 2:21 | 2022-07-18 |  |
 | [Muaziz Saarif](https://open.spotify.com/track/3tDoe3YGIltxR9zv5AkWqi) | [Meesha Shafi](https://open.spotify.com/artist/6gWwKC0laX7pTPjNgrwvQR), [Faris Shafi](https://open.spotify.com/artist/1LAdnp9wIdKClX7Cool0GD) | [Muaziz Saarif](https://open.spotify.com/album/1TpkynqQUmK6bTwMotcx1L) | 4:41 | 2022-07-18 |  |
-| [NO LOVE](https://open.spotify.com/track/5B4YQN1FCuADJ0o4phAtwC) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [NO LOVE](https://open.spotify.com/album/71z4Ni4FHsAUWpcy1oFmOT) | 2:50 | 2022-07-18 |  |
+| [NO LOVE](https://open.spotify.com/track/08Isz2ETWSBhvIl8UpKYsp) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [No Love](https://open.spotify.com/album/5Zcgog7sQ79ISF32y9nABU) | 2:50 | 2022-07-18 |  |
+| [NO LOVE](https://open.spotify.com/track/5B4YQN1FCuADJ0o4phAtwC) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [NO LOVE](https://open.spotify.com/album/71z4Ni4FHsAUWpcy1oFmOT) | 2:50 | 2022-07-18 | 2022-09-04 |
 | [Safina](https://open.spotify.com/track/6GVUN2rDQdxtSdX7pMZh3j) | [Aisha Ijlal](https://open.spotify.com/artist/2It0rhAgCkWyxdzaSbfz0e), [Shuja Haider](https://open.spotify.com/artist/5efKihafekkUH7UjW5XUPt) | [Safina](https://open.spotify.com/album/6HwFq9xr2afg8IGEsGF8r9) | 4:25 | 2022-07-18 |  |
 | [Thagyan](https://open.spotify.com/track/6KdTA6s7zmqLyB5ZNvVta0) | [Zain Zohaib](https://open.spotify.com/artist/0M4wzwZKh9SSHkOXYNvQlP), [Quratulain Balouch](https://open.spotify.com/artist/5r3gdJkUB4oAcnuIGXEB7q) | [Thagyan](https://open.spotify.com/album/0tcyDiVe5YVzXXocO1nk1m) | 5:07 | 2022-07-18 |  |
 | [Yaad](https://open.spotify.com/track/7jdHemolm8HmaireObpqXt) | [Asim Azhar](https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS), [Talhah Yunus](https://open.spotify.com/artist/3mGW1eoqwNtCxd8R3hIOM5), [Talha Anjum](https://open.spotify.com/artist/5FGTEt0F3PrXKEQRJUFNYv) | [Yaad](https://open.spotify.com/album/3QGrCo6L9djVTKvmFTvQPq) | 4:30 | 2022-07-18 |  |

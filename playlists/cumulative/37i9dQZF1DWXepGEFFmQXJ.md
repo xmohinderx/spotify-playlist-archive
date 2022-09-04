@@ -4,7 +4,7 @@
 
 > The cream of today's Country crop\. Cover: Zac & George
 
-212 songs - 11 hr 32 min - [published](https://open.spotify.com/playlist/4BrfIt5VuvXM9ZKeooO5jX)
+213 songs - 11 hr 34 min - [published](https://open.spotify.com/playlist/4BrfIt5VuvXM9ZKeooO5jX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,7 +178,8 @@
 | [Stereotype](https://open.spotify.com/track/6N4iblHDsHG4jOdgjohRV5) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW) | [Stereotype](https://open.spotify.com/album/4rl9XdFEi5hIagPjROoA55) | 3:42 | 2022-03-31 | 2022-07-15 |
 | [Still The One](https://open.spotify.com/track/6drVWzBYAceXUCAtdl1Fnu) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Still The One](https://open.spotify.com/album/3tQSwavTtrMTGebddI8Fqw) | 2:38 | 2021-12-30 | 2022-05-06 |
 | [Stubborn Pride](https://open.spotify.com/track/414EsuxXyDJ5vpUllmt2ue) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo), [Jamey Johnson](https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8), [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [Stubborn Pride](https://open.spotify.com/album/1aTYKaVzN0q2tPHiYfkhTj) | 7:09 | 2022-08-11 |  |
-| [Summer Rain](https://open.spotify.com/track/7AS0u8nC57oTNALtjslOIv) | [Ghost Riders](https://open.spotify.com/artist/5JvEKy384cTkxVHDESnlEG) | [Summer Rain](https://open.spotify.com/album/7n5QThNlUNiJ36AmEYFdPI) | 2:21 | 2022-08-11 |  |
+| [Summer Rain](https://open.spotify.com/track/7AS0u8nC57oTNALtjslOIv) | [Ghost Riders](https://open.spotify.com/artist/5JvEKy384cTkxVHDESnlEG) | [Summer Rain](https://open.spotify.com/album/7n5QThNlUNiJ36AmEYFdPI) | 2:21 | 2022-08-11 | 2022-09-04 |
+| [Summer Rain](https://open.spotify.com/track/47lk3vZPjzsmKUsMCR89vz) | [Ghost Riders](https://open.spotify.com/artist/5JvEKy384cTkxVHDESnlEG), [Cam Noble](https://open.spotify.com/artist/0K2qWy2QmgaBlExB67u6oV) | [Summer Rain](https://open.spotify.com/album/50P7qe9VNgSoooPKOKN5QH) | 2:21 | 2022-09-01 |  |
 | [Sunday Best](https://open.spotify.com/track/6nnVrHv3oozFP5XeJZzedx) | [Bryce Sainty](https://open.spotify.com/artist/6FzcOBH2gzC2UyGt6cme0t), [Taylor Moss](https://open.spotify.com/artist/6kk3eFuZoE4Lq7dD03Ehkj) | [Sunday Best](https://open.spotify.com/album/6ICdRiXlIgUk87yd43eBsP) | 3:25 | 2022-06-09 |  |
 | [Takin' Me Back](https://open.spotify.com/track/7vfwqVbhwWK8dSVba68EYY) | [Troy Kemp](https://open.spotify.com/artist/3o6t3UAOCyBn3jNytoNNoT) | [Takin' Me Back](https://open.spotify.com/album/7pLkHBQvgIPDH0AGXDZrkG) | 3:01 | 2021-12-30 | 2022-03-18 |
 | [The Good Old Days](https://open.spotify.com/track/5fj9aeDmJqhW1a8oOf93RN) | [Andrew Swift](https://open.spotify.com/artist/428gAQRnMEaxHVT0VoUNCd) | [The Good Old Days](https://open.spotify.com/album/0roXqyLV3kV0cEDv2dZ0lz) | 3:46 | 2022-07-28 |  |

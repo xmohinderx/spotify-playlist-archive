@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo nuevo de la Música Mexicana\. Cover: Diferente Nivel, Luis Alfonso Partida El Yaki
 
-[Spotify](https://open.spotify.com/user/spotify) - 323,353 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 323,395 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 29 | [Se Me Acabó El Tequila \(En vivo\)](https://open.spotify.com/track/6rFV17L3bx4ER3Q4epyDgz) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Se Me Acabó El Tequila \(En vivo\)](https://open.spotify.com/album/3ZRpDk7M14JJf6OaLW70Ig) | 3:02 |
 | 30 | [Acuérdate de Mi](https://open.spotify.com/track/1SvUIhWJbJ9P22zbEBdotj) | [LOS DOS DE TAMAULIPAS](https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi) | [Acuérdate de Mi](https://open.spotify.com/album/5eB69QNRTrwrQhn0vkJ9ys) | 2:57 |
 | 31 | [A La Orden \(El Menor\)](https://open.spotify.com/track/6KSUBF2lLNzsPGiy8bV95y) | [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG), [Adrian L Santos](https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac) | [A La Orden \(El Menor\)](https://open.spotify.com/album/4nA6tCmBMPlaj1cHDc3iWL) | 3:04 |
-| 32 | [Las Crias Del M](https://open.spotify.com/track/1ZAxW9PpZ8XhYjWyZgTScK) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [Banda Punto Medio](https://open.spotify.com/artist/1e52HdTL1PMcFUdmbs5uvP) | [Las Crias Del M](https://open.spotify.com/album/1Gc7YFFHToFrrC7nLYy9Kl) | 3:00 |
+| 32 | [Las Crias Del M \- Banda Punto Medio Remix](https://open.spotify.com/track/1ZAxW9PpZ8XhYjWyZgTScK) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [Banda Punto Medio](https://open.spotify.com/artist/1e52HdTL1PMcFUdmbs5uvP) | [Las Crias Del M \(Banda Punto Medio Remix\)](https://open.spotify.com/album/1Gc7YFFHToFrrC7nLYy9Kl) | 3:00 |
 | 33 | [Secretos De Mi Memoria \- Con Mariachi](https://open.spotify.com/track/673RNIKpp6bUSupJPTgWpp) | [Jorge Medina](https://open.spotify.com/artist/4uZP9vHYfFu3DW9ywwtLpf) | [Secretos De Mi Memoria \(Con Mariachi\)](https://open.spotify.com/album/0IRgfe7ZdDPDIeoDaXveWs) | 3:38 |
 | 34 | [El De La Misma Línea \- En Vivo](https://open.spotify.com/track/5xH8sGBGGyHEZuGgL7EGsq) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [LA Live Session](https://open.spotify.com/album/2UIvMLWzNV8sTBxPsJ2ZwX) | 2:50 |
 | 35 | [Quiero Decirte](https://open.spotify.com/track/6npYebaVUgwZnrMbmuFVMN) | [Alex Treviño y su Grupo Terrenal](https://open.spotify.com/artist/703KDDqHNIkpT7hpjyVHze), [Costumbre](https://open.spotify.com/artist/4GeHKoBHS3bHLGBUDEi90N) | [Quiero Decirte](https://open.spotify.com/album/6KBHeXTXO1IVJSOam8y73U) | 3:59 |

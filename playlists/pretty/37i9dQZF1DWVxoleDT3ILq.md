@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxoleDT3ILq.md) - [plain]
 
 > Todo el sonido indie de Chile\. Foto: Mowat + Colombina Parra
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,919 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,926 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Fuerzas Que Retroceden](https://open.spotify.com/track/1rvLC0764wddMRkrjAgdOD) | [Mowat](https://open.spotify.com/artist/7vBqkoAdt6FtpwiqWLUVua), [Colombina Parra](https://open.spotify.com/artist/1s60AzQYm7kiHJJoqx7nDk) | [Fuerzas Que Retroceden](https://open.spotify.com/album/6JurjQgNwPldixxSIv3ioE) | 3:51 |
 | 2 | [Miraflor](https://open.spotify.com/track/3yYcOSB0WVJkpx1wgyOTVg) | [Felics](https://open.spotify.com/artist/2MDZPWYR5xuLWVIQ9ybC3l), [Los Días Silvestres](https://open.spotify.com/artist/51ewyZ0SAKgCG9dqme1Rff) | [Miraflor](https://open.spotify.com/album/1SZpLRbjijkts5toPVJ4HZ) | 5:58 |
-| 3 | [Quisiera](https://open.spotify.com/track/25xiGoun0fxPlSy38quYPp) | [Hausi Kuta](https://open.spotify.com/artist/5iVb4hi1IDpP6NKIKdEwpF) | [Quisiera](https://open.spotify.com/album/6Ns3YZrjvWpC3WMktnzeGE) | 3:52 |
+| 3 | [Quisiera](https://open.spotify.com/track/25xiGoun0fxPlSy38quYPp) | [Hausi Kuta](https://open.spotify.com/artist/5iVb4hi1IDpP6NKIKdEwpF), [Nicole Bunout](https://open.spotify.com/artist/5jyOjqLd2YRArrVlguvv4F) | [Quisiera](https://open.spotify.com/album/6Ns3YZrjvWpC3WMktnzeGE) | 3:52 |
 | 4 | [la noche de ayer](https://open.spotify.com/track/7aSmfvPckOTRr0AJ3rmCCF) | [chicarica](https://open.spotify.com/artist/6FCUGgR9Bf7zx8q7Sog9dN) | [la noche de ayer](https://open.spotify.com/album/4e31Xo3NfTRxm9TdVgw4DR) | 4:15 |
 | 5 | [Maldita Primavera](https://open.spotify.com/track/72BwodBTqLkvm1pFqoBW6N) | [Javiera Parra](https://open.spotify.com/artist/1mBmpJSQUdUOTJzbfEg5m8), [Los Imposibles](https://open.spotify.com/artist/6znWM6UcbWBdTafliJGRgz) | [AM + bonus Tracks \(Edición Aniversario\)](https://open.spotify.com/album/4vGtwmxQqFEbG4FrGhuZel) | 3:45 |
 | 6 | [Tu Pirata Soy Yo](https://open.spotify.com/track/6O1o9VfjMgZEZeir5Ws6pF) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM) | [Tu Pirata Soy Yo](https://open.spotify.com/album/3CK1MWQvuf8LVJWhmldkUU) | 2:47 |

@@ -382,6 +382,28 @@
     },
     {
       "album": {
+        "name": "Famous for a Day",
+        "url": "https://open.spotify.com/album/6GmcBZbFsGYXBEKLYb5o6M"
+      },
+      "artists": [
+        {
+          "name": "LA Vision",
+          "url": "https://open.spotify.com/artist/02qlwM8fpqep7vX8KKEFmK"
+        },
+        {
+          "name": "YouNotUs",
+          "url": "https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH"
+        }
+      ],
+      "date_added": "2022-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171089,
+      "name": "Famous for a Day",
+      "url": "https://open.spotify.com/track/0zPUSpMCNSn1ItUPANkCCs"
+    },
+    {
+      "album": {
         "name": "Feels Like Home",
         "url": "https://open.spotify.com/album/31QEjfkSaLZPHpchsT997H"
       },
@@ -415,6 +437,24 @@
       "duration_ms": 156979,
       "name": "Fireproof",
       "url": "https://open.spotify.com/track/7ApcKRTsTSGEKI14RwF7FB"
+    },
+    {
+      "album": {
+        "name": "Funeral",
+        "url": "https://open.spotify.com/album/0GiNJtmbdFTZElphnAnqiD"
+      },
+      "artists": [
+        {
+          "name": "Dolores Forever",
+          "url": "https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi"
+        }
+      ],
+      "date_added": "2022-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206360,
+      "name": "Funeral",
+      "url": "https://open.spotify.com/track/2wjWIPP2y28H9wzoCHpUkF"
     },
     {
       "album": {

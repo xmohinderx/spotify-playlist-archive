@@ -166,6 +166,24 @@
     },
     {
       "album": {
+        "name": "4 Steps Back",
+        "url": "https://open.spotify.com/album/37BBmXyLG2uRENzwbIN4My"
+      },
+      "artists": [
+        {
+          "name": "Cassper Nyovest",
+          "url": "https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP"
+        }
+      ],
+      "date_added": "2022-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243281,
+      "name": "4 Steps Back",
+      "url": "https://open.spotify.com/track/73hwgztIzXR9ROMc6o4Yx6"
+    },
+    {
+      "album": {
         "name": "Still Over It",
         "url": "https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx"
       },
@@ -501,7 +519,7 @@
       ],
       "date_added": "2022-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-31",
+      "date_removed": null,
       "duration_ms": 480000,
       "name": "Abo Mvelo (feat. Mellow & Sleazy & M.J)",
       "url": "https://open.spotify.com/track/0Ek5bneviajgSzZGonWfds"
@@ -643,7 +661,7 @@
       ],
       "date_added": "2022-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-04",
       "duration_ms": 215459,
       "name": "ALIEN SUPERSTAR",
       "url": "https://open.spotify.com/track/1Hohk6AufHZOrrhMXZppax"
@@ -919,7 +937,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-04",
       "duration_ms": 223669,
       "name": "Amagents",
       "url": "https://open.spotify.com/track/5dVd3tBZQhOctXiq2jwrhD"
@@ -1505,7 +1523,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-04",
       "duration_ms": 230746,
       "name": "Bad Habits",
       "url": "https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d"
@@ -1839,7 +1857,7 @@
       ],
       "date_added": "2022-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-04",
       "duration_ms": 223232,
       "name": "BEAUTIFUL (feat. Future & SZA)",
       "url": "https://open.spotify.com/track/5kYSScXYOZYyi0fxramiW6"
@@ -2601,7 +2619,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-04",
       "duration_ms": 278281,
       "name": "BREAK MY SOUL",
       "url": "https://open.spotify.com/track/5pyoxDZ1PX0KxBxiRVxA4U"
@@ -4403,7 +4421,7 @@
       ],
       "date_added": "2022-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-04",
       "duration_ms": 260253,
       "name": "Die For You",
       "url": "https://open.spotify.com/track/2LBqCSwhJGcFQeTHMVGwy3"
@@ -5313,7 +5331,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-23",
+      "date_removed": null,
       "duration_ms": 407826,
       "name": "Eningi (feat. Njelic, Simmy & Mhaw Keys)",
       "url": "https://open.spotify.com/track/3p15jik1b9bQk8PnyaDClI"
@@ -6539,7 +6557,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-04",
       "duration_ms": 153190,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/6I3mqTwhRpn34SLVafSH7G"
@@ -6675,7 +6693,7 @@
       ],
       "date_added": "2022-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-04",
       "duration_ms": 233456,
       "name": "Glimpse of Us",
       "url": "https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ"
@@ -7081,7 +7099,7 @@
       ],
       "date_added": "2022-08-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-30",
+      "date_removed": null,
       "duration_ms": 374848,
       "name": "Hamba Wena",
       "url": "https://open.spotify.com/track/1hsFJ92y0FU2cFOOLkEFVr"
@@ -8183,7 +8201,7 @@
       ],
       "date_added": "2022-08-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-03",
+      "date_removed": null,
       "duration_ms": 175238,
       "name": "I'm Good (Blue)",
       "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
@@ -10053,7 +10071,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-30",
+      "date_removed": null,
       "duration_ms": 382605,
       "name": "Kusezo Khanya",
       "url": "https://open.spotify.com/track/1LB6HHcswEA8yee4z10rbJ"
@@ -13795,7 +13813,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-30",
+      "date_removed": null,
       "duration_ms": 415714,
       "name": "Paris",
       "url": "https://open.spotify.com/track/7BH6nyhnWTSfMUwwrCYbJF"
@@ -15319,7 +15337,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-04",
       "duration_ms": 298933,
       "name": "Running Up That Hill (A Deal With God)",
       "url": "https://open.spotify.com/track/75FEaRjZTKLhTrFGsfMUXR"
@@ -15913,7 +15931,7 @@
       ],
       "date_added": "2022-03-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-30",
+      "date_removed": null,
       "duration_ms": 340846,
       "name": "Selema (Po Po)",
       "url": "https://open.spotify.com/track/2UNdr8gnOQrVkSmLDeC59w"
@@ -17004,6 +17022,48 @@
     },
     {
       "album": {
+        "name": "LOVE IS PAIN",
+        "url": "https://open.spotify.com/album/1inejscdMY2EBbrGS1UeR2"
+      },
+      "artists": [
+        {
+          "name": "Venom",
+          "url": "https://open.spotify.com/artist/6fTEwufIDYGyAZjMJqxaW2"
+        },
+        {
+          "name": "Shishiliza",
+          "url": "https://open.spotify.com/artist/1bcMyQ4E06YJPmJIZC1IZj"
+        },
+        {
+          "name": "Yumbs",
+          "url": "https://open.spotify.com/artist/2HLr9NzCqd6XRnpUSM6CvH"
+        },
+        {
+          "name": "Raspy",
+          "url": "https://open.spotify.com/artist/0bhq4kdUAhOte4WPNYhhTk"
+        },
+        {
+          "name": "Blxckie",
+          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
+        },
+        {
+          "name": "Riky Rick",
+          "url": "https://open.spotify.com/artist/61ZRdppZ5sCtl9m5gfhoGO"
+        },
+        {
+          "name": "Tshego",
+          "url": "https://open.spotify.com/artist/2I1KI8uFju21FNrL4zdeqY"
+        }
+      ],
+      "date_added": "2022-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246822,
+      "name": "Sondela (feat. Yumbs, Raspy, Blxckie, Riky Rick & Tshego)",
+      "url": "https://open.spotify.com/track/0HnlM5zv18lM1gKIxOiW96"
+    },
+    {
+      "album": {
         "name": "Ivy League",
         "url": "https://open.spotify.com/album/3H2eycTSwpPa0mGpacbyn6"
       },
@@ -17237,7 +17297,7 @@
       ],
       "date_added": "2021-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-04",
       "duration_ms": 141805,
       "name": "STAY (with Justin Bieber)",
       "url": "https://open.spotify.com/track/5PjdY0CKGZdEuoNab3yDmX"
@@ -19167,7 +19227,7 @@
       ],
       "date_added": "2022-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-31",
+      "date_removed": null,
       "duration_ms": 443091,
       "name": "uMlando",
       "url": "https://open.spotify.com/track/03GRsjCSytQo3LuspJayKT"
@@ -19517,7 +19577,7 @@
       ],
       "date_added": "2022-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-04",
       "duration_ms": 223532,
       "name": "USE THIS GOSPEL (feat. Ye & Eminem) - REMIX",
       "url": "https://open.spotify.com/track/0O82CIwSU4tY11rQhxqAHC"
@@ -20395,6 +20455,32 @@
       "duration_ms": 280005,
       "name": "We're All Alone",
       "url": "https://open.spotify.com/track/22agj1ppHejR41cUyf7k6v"
+    },
+    {
+      "album": {
+        "name": "Welele (Extended Version)",
+        "url": "https://open.spotify.com/album/3pOVP7yG9PAn5wlpLAHVRV"
+      },
+      "artists": [
+        {
+          "name": "Pushkin & Springle",
+          "url": "https://open.spotify.com/artist/2voGxD9VPPRBuzHjPVn3st"
+        },
+        {
+          "name": "Mankay",
+          "url": "https://open.spotify.com/artist/1aAQb4YWLOX181q3VNj6mm"
+        },
+        {
+          "name": "Choco Dynasty",
+          "url": "https://open.spotify.com/artist/3YxSVvMROqZE8RTz86bNWz"
+        }
+      ],
+      "date_added": "2022-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 398571,
+      "name": "Welele - Extended Version",
+      "url": "https://open.spotify.com/track/5OCGdwTT9uvTNlGqbUm2U7"
     },
     {
       "album": {

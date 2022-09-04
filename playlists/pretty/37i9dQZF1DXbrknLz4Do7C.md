@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbrknLz4Do7C.md) - [plain]
 
 > Some of the best Christian, Gospel, and inspirational songs of the year\.  Cover: Maverick City Music and Elevation Worship
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,983 likes - 95 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,000 likes - 95 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbrknLz4Do7C.md) - [plain]
 | 49 | [My Jesus](https://open.spotify.com/track/0KNvJzxdbslBddN27BEhfm) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [My Jesus](https://open.spotify.com/album/5ZwIIiWOaDiCIE9mNaAoWG) | 3:37 |
 | 50 | [Good God Almighty](https://open.spotify.com/track/4Wea9K8KRTsrlfIks5yepP) | [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu) | [Milk & Honey](https://open.spotify.com/album/44e1KWenGKSOldpOFS0OmD) | 3:11 |
 | 51 | [Worship in the Moshpit](https://open.spotify.com/track/6MHQObYccj0fpYH3NnxewV) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Worship in the Moshpit](https://open.spotify.com/album/3ccBgpEeVPly4YAOLBDuPX) | 3:10 |
-| 52 | [Clean](https://open.spotify.com/track/2fDG6nBpw0WHVoycB20KeP) | [Derek Minor](https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B) | [Clean](https://open.spotify.com/album/6x2IRGwgHbo7Tj2zNwCFsS) | 2:48 |
+| 52 | [Clean](https://open.spotify.com/track/1Qd7kw7Zirh6Ep03IGYcEz) | [Derek Minor](https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B) | [Clean](https://open.spotify.com/album/3JiryCdck69RJNlX7wTTe3) | 2:48 |
 | 53 | [HOLY SMOKE!](https://open.spotify.com/track/5Z6FrdQQJRYez4wlGlu2ZG) | [indie tribe](https://open.spotify.com/artist/1sPm31qmcbk9EFoRCS8eRl), [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4), [Jon Keith](https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo) | [U P P E R H A N D](https://open.spotify.com/album/7grsMK70ZDz1D34nVMhwxT) | 3:16 |
 | 54 | [Been About It](https://open.spotify.com/track/542cPMoYuGCtog1kFKFDow) | [Andy Mineo](https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [Been About It](https://open.spotify.com/album/2f3A5qDVHtgjvsQ7w9cpAF) | 2:21 |
 | 55 | [Don’t Worry Bout It](https://open.spotify.com/track/2tkA0frBybxjFnWRkNcx1H) | [Wande](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0), [Porsha Love](https://open.spotify.com/artist/09TMRjnEN1r9vDFa4XmbbG) | [Don’t Worry Bout It](https://open.spotify.com/album/4LAf74AX25RuIrLIJyWrGM) | 2:52 |
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbrknLz4Do7C.md) - [plain]
 | 94 | [What I've Become](https://open.spotify.com/track/5rf8uIF0S4HqLRK3jMifCd) | [Seventh Day Slumber](https://open.spotify.com/artist/6kFLnclYFc3gzpNt13wim5) | [What I've Become](https://open.spotify.com/album/2V4iSdBm0uuxzIyBGwBNEh) | 3:24 |
 | 95 | [Surviving The Game](https://open.spotify.com/track/5302m3J0HLANBaH3bCdDBb) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Surviving The Game](https://open.spotify.com/album/27iyNm42452hDk9S8MWvjj) | 3:58 |
 
-Snapshot ID: `MTY0ODYxMzk4NiwwMDAwMDAwMDZmZDFhNDQzZmM0ZjI4ODljNmMyMTNjNDU1ZjRjOTgy`
+Snapshot ID: `MTY0ODYxMzk4NiwwMDAwMDAwMDliNTBkMTYzMDQ0OWVhZmUyZTJmZjM1NTJiYzY4NDRh`

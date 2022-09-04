@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6VdMW310YC7.md) - [plain]
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>, featuring hand\-curated picks by ODESZA.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,387,751 likes - 200 songs - 13 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,385,652 likes - 200 songs - 13 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

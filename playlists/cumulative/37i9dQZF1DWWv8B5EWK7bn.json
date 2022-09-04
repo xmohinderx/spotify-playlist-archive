@@ -389,7 +389,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-04",
       "duration_ms": 266400,
       "name": "Broken Melody",
       "url": "https://open.spotify.com/track/0laa1rK5dPLXwF1Qi4Vu4b"
@@ -497,7 +497,7 @@
       ],
       "date_added": "2022-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-04",
       "duration_ms": 301544,
       "name": "Desire",
       "url": "https://open.spotify.com/track/4j0dM9U56g1xSjUp82GKsz"
@@ -1658,6 +1658,24 @@
     },
     {
       "album": {
+        "name": "Noon",
+        "url": "https://open.spotify.com/album/4rxbvCSYsEafa2JXSZzTKi"
+      },
+      "artists": [
+        {
+          "name": "Nothing for Breakfast",
+          "url": "https://open.spotify.com/artist/03RS6371Byq0m2stNKNIEl"
+        }
+      ],
+      "date_added": "2022-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168705,
+      "name": "Noon",
+      "url": "https://open.spotify.com/track/3PtwtRamdsxLxa4tSqtsAq"
+    },
+    {
+      "album": {
         "name": "Ocean noir",
         "url": "https://open.spotify.com/album/6loTihjQ0lHtEFxjOcPjC3"
       },
@@ -2365,6 +2383,24 @@
       "duration_ms": 265815,
       "name": "Station to Station",
       "url": "https://open.spotify.com/track/6vJ66cRJ3KSQz6Bu3kP6z5"
+    },
+    {
+      "album": {
+        "name": "Velvet Station",
+        "url": "https://open.spotify.com/album/3RNcC6GLcijGOKZW8ogABN"
+      },
+      "artists": [
+        {
+          "name": "Base Stereo Club",
+          "url": "https://open.spotify.com/artist/4WCxqglOLB9kHPSsTNap7q"
+        }
+      ],
+      "date_added": "2022-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170750,
+      "name": "Sue Me",
+      "url": "https://open.spotify.com/track/4IKMHHkFZqRbSqQKPMwQcy"
     },
     {
       "album": {

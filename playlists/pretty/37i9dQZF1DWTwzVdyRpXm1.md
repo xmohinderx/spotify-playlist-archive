@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwzVdyRpXm1.md) - [plain]
 
 > Desi hits from South Asia\. Cover: Shae Gill, Ali Sethi
 
-[Spotify](https://open.spotify.com/user/spotify) - 567,952 likes - 67 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 568,641 likes - 67 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwzVdyRpXm1.md) - [plain]
 | 5 | [Tauba \(feat\. Badshah\)](https://open.spotify.com/track/1GzgV0pRSUbenz25xWV2s8) | [Payal Dev](https://open.spotify.com/artist/6FtZhorjCMfkaVJ7kKdmq7), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1) | [Tauba \(feat\. Badshah\)](https://open.spotify.com/album/7xSdMyPr5KPL3A171ZbQ9M) | 3:19 |
 | 6 | [295](https://open.spotify.com/track/5W7DOVGQLTigu09afW7QMT) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ) | [Moosetape](https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T) | 4:30 |
 | 7 | [Rangisari \(From "Jugjugg Jeeyo"\)](https://open.spotify.com/track/0DXfJ2iKRDEG7rPgssWFea) | [Kanishk Seth](https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo), [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv) | [Rangisari \(From "Jugjugg Jeeyo"\)](https://open.spotify.com/album/5MB6DWb1irSWaalYH07Uzg) | 3:43 |
-| 8 | [NO LOVE](https://open.spotify.com/track/5B4YQN1FCuADJ0o4phAtwC) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [NO LOVE](https://open.spotify.com/album/71z4Ni4FHsAUWpcy1oFmOT) | 2:50 |
+| 8 | [NO LOVE](https://open.spotify.com/track/08Isz2ETWSBhvIl8UpKYsp) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [No Love](https://open.spotify.com/album/5Zcgog7sQ79ISF32y9nABU) | 2:50 |
 | 9 | [Bhool Bhulaiyaa 2 Title Track \(From "Bhool Bhulaiyaa 2"\)](https://open.spotify.com/track/2cbaCL38j8eUXBQjvLawET) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Neeraj Shridhar](https://open.spotify.com/artist/3tHD07u1ON4uHxmnT9rwqZ) | [Bhool Bhulaiyaa 2 Title Track \(From "Bhool Bhulaiyaa 2"\)](https://open.spotify.com/album/1pDOFak83OlJVuXnMRkXHq) | 3:31 |
 | 10 | [Jhoom \- R&B Mix](https://open.spotify.com/track/6zAvNLJkdyRApUHnlJjKfO) | [Ali Zafar](https://open.spotify.com/artist/3cKNppGLfcxdt9CtoHEZmQ) | [Jhoom](https://open.spotify.com/album/7gITB9pwcGy6027YxnAHsM) | 4:58 |
 | 11 | [Akhiyaan](https://open.spotify.com/track/2l3dFxtoSMgMQVyRIUHjpz) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Akhiyaan](https://open.spotify.com/album/4MBCBnMZyFFv8Ch9elmLsL) | 3:11 |
@@ -74,6 +74,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwzVdyRpXm1.md) - [plain]
 | 64 | [Pal Pal Dil Ke Paas\- Title Track](https://open.spotify.com/track/7lGhrfren1Zpwh0ds0zuUg) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Parampara Tandon](https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE) | [Pal Pal Dil Ke Paas\- Title Track \(From "Pal Pal Dil Ke Paas"\)](https://open.spotify.com/album/0C9FXcECAeepJhmuvETNe1) | 4:14 |
 | 65 | [The Wakhra Song](https://open.spotify.com/track/6N6mJlsjYRV0yoMSPS5JiQ) | [Navv Inder](https://open.spotify.com/artist/7GPyedHMvKTiM2OfXc0MVv), [Lisa Mishra](https://open.spotify.com/artist/418X5slNWlJwym4x3Oq3Cs), [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25) | [The Wakhra Song \(From "Judgementall Hai Kya"\)](https://open.spotify.com/album/2lwEU6tLPGhkk1J5DfIyp6) | 3:16 |
 | 66 | [Laung Laachi Title Track \(From "Laung Laachi"\)](https://open.spotify.com/track/31EqumBCMNGK3kt1sSL4gV) | [Mannat Noor](https://open.spotify.com/artist/0TxBLummgAxRkxn21HrLDp), [Gurmeet Singh](https://open.spotify.com/artist/5aL0URFqLCRbrB3cewGLgF) | [Laung Laachi Title Track \(From "Laung Laachi"\)](https://open.spotify.com/album/396twavEqFLIB2wPhSOVsl) | 2:40 |
-| 67 | [Liggi](https://open.spotify.com/track/4vwPirpSJCOiIsgxMV4Xcv) | [Ritviz](https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb) | [Liggi](https://open.spotify.com/album/1zITUizbdnwegHf2BM7faa) | 3:01 |
+| 67 | [Liggi](https://open.spotify.com/track/7tbzfR8ZvZzJEzy6v0d6el) | [Ritviz](https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb) | [Dev](https://open.spotify.com/album/6y1pmHE0VptaUzu39ApqqE) | 3:01 |
 
-Snapshot ID: `MTY2MTg1MjcyOCwwMDAwMDAwMGVjZDU2NjViNmM3YjllNWRkOGNjYjBmZTYwNWMxYTE3`
+Snapshot ID: `MTY2MTg1MjcyOCwwMDAwMDAwMDhhNzc3NzQzODU1MGU3MGFhYzgzN2RkNTFjMzY0YWFi`

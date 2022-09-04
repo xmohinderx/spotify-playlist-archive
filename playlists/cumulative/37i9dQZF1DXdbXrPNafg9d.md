@@ -4,7 +4,7 @@
 
 > The best new tracks every week\. Cover: Miya Folick
 
-4,110 songs - 10 day 1 hr 28 min - [published](https://open.spotify.com/playlist/1AAb6HvkitUK9waoKCTxpm)
+4,111 songs - 10 day 1 hr 32 min - [published](https://open.spotify.com/playlist/1AAb6HvkitUK9waoKCTxpm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3612,7 +3612,8 @@
 | [Tick Tock](https://open.spotify.com/track/0Q7tKJdvKx6yyJ8qSf6elE) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Warm Chris](https://open.spotify.com/album/56rWsCsd2UF9l1XTpUfZ1v) | 3:39 | 2022-03-25 | 2022-04-29 |
 | [Tides](https://open.spotify.com/track/7rRYiBxeudiHMNmgptnne9) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [Tides](https://open.spotify.com/album/2ygrwR30mOdEfqh2eJcGNY) | 3:46 | 2021-10-22 | 2022-01-15 |
 | [Time](https://open.spotify.com/track/2SGkMuS51SU1fHbdYFnM3L) | [Triathalon](https://open.spotify.com/artist/2SaIA1enj83vEmJikZdjQ3) | [Time](https://open.spotify.com/album/0dcOPtUArPLZwPbdISiUks) | 4:25 | 2022-05-06 | 2022-05-28 |
-| [Time](https://open.spotify.com/track/1kOrZmrSnP1gub1kneRNHF) | [Vundabar](https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6) | [Time](https://open.spotify.com/album/7cwi5zqBBnLFVNO1HR49Zd) | 4:22 | 2022-08-12 |  |
+| [Time](https://open.spotify.com/track/1kOrZmrSnP1gub1kneRNHF) | [Vundabar](https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6) | [Time](https://open.spotify.com/album/7cwi5zqBBnLFVNO1HR49Zd) | 4:22 | 2022-08-12 | 2022-09-04 |
+| [Time](https://open.spotify.com/track/5OSMmIX3QvBW5wrChEujmZ) | [Vundabar](https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6) | [Shadow Boxing](https://open.spotify.com/album/2ClkPaYrHeaHGxiiSaMoyA) | 4:22 | 2022-08-12 |  |
 | [Time \(You and I\)](https://open.spotify.com/track/2QoiyjegLQ3DWKBfFX9ihX) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Time \(You and I\)](https://open.spotify.com/album/5shSFh5g5Vh2QYkpBPChx2) | 5:42 | 2020-05-01 | 2020-06-12 |
 | [TIME 2](https://open.spotify.com/track/3Q4jOnUZcpeqSY0CALbiOP) | [half•alive](https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k) | [TIME 2](https://open.spotify.com/album/3BQPC6qqEnR0fl4j2cgFzV) | 3:57 | 2021-05-29 | 2021-07-17 |
 | [Time Escaping](https://open.spotify.com/track/0E8AwzHkpQJmyoXgVexcTW) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Time Escaping](https://open.spotify.com/album/7irwqcVHpta3xhK51jhf6u) | 3:48 | 2021-11-19 | 2022-01-08 |

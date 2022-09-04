@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new tracks every week\. Cover: Miya Folick
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,235,470 likes - 190 songs - 10 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,235,276 likes - 190 songs - 10 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,7 +113,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 103 | [Lost Honor](https://open.spotify.com/track/41BwZHot0x72eob0eQGmcO) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Lost Honor](https://open.spotify.com/album/2Td5VgNSobqfiT8OpIhisP) | 3:59 |
 | 104 | [Frisco](https://open.spotify.com/track/1cU4jWWFTAiclPWyD3X2KP) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Frisco](https://open.spotify.com/album/2ZW8wrrHv95qMif7MaGWb4) | 3:42 |
 | 105 | [Ego](https://open.spotify.com/track/2hXd0dhfmTpatwxOXMq0ID) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Ego](https://open.spotify.com/album/04rFqp0OAdU120I1J3S4Rn) | 2:15 |
-| 106 | [Time](https://open.spotify.com/track/1kOrZmrSnP1gub1kneRNHF) | [Vundabar](https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6) | [Time](https://open.spotify.com/album/7cwi5zqBBnLFVNO1HR49Zd) | 4:22 |
+| 106 | [Time](https://open.spotify.com/track/5OSMmIX3QvBW5wrChEujmZ) | [Vundabar](https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6) | [Shadow Boxing](https://open.spotify.com/album/2ClkPaYrHeaHGxiiSaMoyA) | 4:22 |
 | 107 | [In Your Room](https://open.spotify.com/track/6lpx1OmemC7HUxIvnGo42J) | [Susannah Joffe](https://open.spotify.com/artist/3JGxLjd5coSPknSlbYyNLw) | [In Your Room](https://open.spotify.com/album/4SDZaw9i23vNfEXguYlUti) | 3:26 |
 | 108 | [Vault of Heaven](https://open.spotify.com/track/0g8SY6YeGKw3Tf54aKXziD) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Vault of Heaven](https://open.spotify.com/album/7qdCGuVbA0N9oU7wiTMoPe) | 3:59 |
 | 109 | [GROWN UP](https://open.spotify.com/track/5QwLklxCtdCBnSMBXt1Vmz) | [Raffaella](https://open.spotify.com/artist/0tYrHjgdca0ZLPkR4P0eW4) | [GROWN UP](https://open.spotify.com/album/1PAJFnuUntrH4qzJpLI33s) | 3:15 |
@@ -199,4 +199,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 189 | [Not The Way](https://open.spotify.com/track/05mRjWxSDdjQzaXYQg8BQQ) | [St\. Panther](https://open.spotify.com/artist/5rvubrGTRPAX7N3RZZ9wS0), [Pierce.blue](https://open.spotify.com/artist/77VgINKetSqVqKgRRJi4fv) | [Not The Way](https://open.spotify.com/album/1GqrZGIFYL5PAdROYVrzzB) | 3:08 |
 | 190 | [Grow Up Tomorrow](https://open.spotify.com/track/6Anf5eqLfGEKoGy0iaKAOb) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Grow Up Tomorrow](https://open.spotify.com/album/12o1WJaINpfED7QgO1qR6A) | 3:12 |
 
-Snapshot ID: `MTY2MjA5MTIwMCwwMDAwMDAwMDdkODdkOGNhZWUyMTVmODk2ZmU1ODg0OTcxZTk4YTFm`
+Snapshot ID: `MTY2MjA5MTIwMCwwMDAwMDAwMDYzZTAxZmIxMDc5Yzk1Mzg2OWQwYzgzZjI1N2U1ZDA3`

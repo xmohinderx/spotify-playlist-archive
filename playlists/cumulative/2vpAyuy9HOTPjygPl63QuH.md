@@ -4,7 +4,7 @@
 
 > The freshest house music, updated every friday\. Submit here: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;houseshift
 
-357 songs - 20 hr 36 min - [published](https://open.spotify.com/playlist/4pdLRyqq23R7zciMXjJDN6)
+359 songs - 20 hr 42 min - [published](https://open.spotify.com/playlist/4pdLRyqq23R7zciMXjJDN6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -239,6 +239,7 @@
 | [Out Every Night](https://open.spotify.com/track/6nuGXSzSMIGWE9QD3iNq9q) | [Dale Howard](https://open.spotify.com/artist/0SnbG2YfyykWmnsXwBXonJ) | [Out Every Night](https://open.spotify.com/album/4CVNj8VhVJ1FgejIwvSXFb) | 2:41 | 2022-07-01 | 2022-07-10 |
 | [Out Of My Mind](https://open.spotify.com/track/4VGp1vnqAeBq3MgA4zttnL) | [Sonickraft](https://open.spotify.com/artist/6TM9nl47jBGEA9C2nsUP4o) | [Out Of My Mind](https://open.spotify.com/album/0ysjFQWcICPLy7lJCO4IjR) | 4:11 | 2022-07-29 | 2022-08-06 |
 | [Outlines \- Tita Lau Remix](https://open.spotify.com/track/0g21zlqQ7w7axnIDPfmAD5) | [Mike Mago](https://open.spotify.com/artist/5lwT6gFdwV3Wcol07KUiJx), [Dragonette](https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n), [Tita Lau](https://open.spotify.com/artist/5g93IJMEpfC68NUaeVjr4h) | [Outlines \(Tita Lau Remix\)](https://open.spotify.com/album/5PhLT283pCiZUECjfoZ1Wl) | 3:10 | 2022-07-09 | 2022-07-16 |
+| [Over My Head](https://open.spotify.com/track/1m1M0nMhA3sZz3qoqCGPnz) | [Marten Hørger](https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls), [Alexandra Prince](https://open.spotify.com/artist/3aw1KqQDAtevNW0nEJ2srg) | [Over My Head](https://open.spotify.com/album/5OKa4hxGCiXCG52DFS0eov) | 3:09 | 2022-09-03 |  |
 | [Overdrive](https://open.spotify.com/track/3SR4UulC7VrZpWcuuyYxOu) | [Shahay](https://open.spotify.com/artist/1pjJMzKi91pQ2AWcEcXPZ2) | [Overdrive](https://open.spotify.com/album/63Rd61Zo80nbIVo7u8i6G9) | 4:02 | 2022-04-29 | 2022-05-14 |
 | [Pan Jabi](https://open.spotify.com/track/3wd4oqBJFIu1jjLhlWgsVw) | [Wade](https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR) | [Pan Jabi](https://open.spotify.com/album/0iUrCDGe8kZITt1Gu2Jy5G) | 2:47 | 2022-07-29 | 2022-08-06 |
 | [Party People](https://open.spotify.com/track/4CdNJGwzSXTU1EE1GJBxM6) | [San Pacho](https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU) | [Party People](https://open.spotify.com/album/3m11xfvM8zaRt5i9Ozj6hY) | 3:06 | 2022-09-02 |  |
@@ -365,5 +366,6 @@
 | [Yeah The Girls \(feat\. MERYLL\)](https://open.spotify.com/track/5hMlz6wuVF3gqwMGu1iDTg) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [MERYLL](https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC) | [Yeah The Girls \(feat\. MERYLL\)](https://open.spotify.com/album/3zr7x5u0ykdFsQo3t5GWJt) | 3:14 | 2022-09-02 |  |
 | [You Set Me Free](https://open.spotify.com/track/75HQDik0zGfqBjdqctuHqL) | [AISKA](https://open.spotify.com/artist/6ZA8fsdjN3o5ZUGs9avvwI), [Sergio Ochoa](https://open.spotify.com/artist/1L2ApNJDbYYik14z6uuMKc) | [You Set Me Free](https://open.spotify.com/album/1GYS0TxlnkfulEtzqT4EU0) | 2:41 | 2022-05-18 | 2022-05-30 |
 | [Yup](https://open.spotify.com/track/0QDdJKjpf2vRQjihJeZvU1) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [Yup](https://open.spotify.com/album/4TPTDC0qFhxS31IEfyJQ1K) | 3:48 | 2022-07-29 | 2022-08-06 |
+| [Zorro](https://open.spotify.com/track/0hKa1iXJRQMcpMELUojgTI) | [JADED](https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf), [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8) | [Zorro](https://open.spotify.com/album/7uoEGgQYCAyJ9mWzItcJch) | 3:36 | 2022-09-03 |  |
 
 \*This playlist was first scraped on 2022-05-02. Prior content cannot be recovered.

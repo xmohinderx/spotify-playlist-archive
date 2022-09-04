@@ -4,7 +4,7 @@
 
 > welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 ft\. YUNGBLUD
 
-294 songs - 13 hr 58 min - [published](https://open.spotify.com/playlist/7v4i1kizdUXc9HxDt7gAmG)
+295 songs - 14 hr 1 min - [published](https://open.spotify.com/playlist/7v4i1kizdUXc9HxDt7gAmG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,7 +187,8 @@
 | [new ground](https://open.spotify.com/track/4wq4nZrqN8i4dRz3Wlj1OX) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG) | [new ground](https://open.spotify.com/album/3Fph5JhkVM91EjzCLAxUsV) | 2:52 | 2022-02-11 | 2022-05-20 |
 | [NIGHTMARE \(feat\. guardin\)](https://open.spotify.com/track/3as5VuWv791EWn04JkrvtK) | [93FEETOFSMOKE](https://open.spotify.com/artist/0plNgbIlOc13T8ot3vyK79), [guardin](https://open.spotify.com/artist/6zqcGQ6MH6yetBUoquMnL7) | [NIGHTMARE \(feat\. guardin\)](https://open.spotify.com/album/482FoQaZMMqfZrLl5rAJSC) | 2:52 | 2022-06-16 |  |
 | [NIGHTMARES](https://open.spotify.com/track/7mSlQDf71bBDU3vRMJCSol) | [Alice Glass](https://open.spotify.com/artist/4ukk0IyB7vL97QirpOcNr3) | [NIGHTMARES](https://open.spotify.com/album/5S8FMiG1oz3ynTO2yYRwO8) | 2:12 | 2021-12-27 | 2022-02-13 |
-| [nihil](https://open.spotify.com/track/2X6tjTssSBitIKOS6tXs8D) | [Mimi Barks](https://open.spotify.com/artist/5A4P1UOSqbSvJKoi3VYlCC) | [nihil](https://open.spotify.com/album/1ZtYA2cDVnd6ZjYtOG8f7k) | 3:09 | 2022-09-01 |  |
+| [nihil](https://open.spotify.com/track/2X6tjTssSBitIKOS6tXs8D) | [Mimi Barks](https://open.spotify.com/artist/5A4P1UOSqbSvJKoi3VYlCC) | [nihil](https://open.spotify.com/album/1ZtYA2cDVnd6ZjYtOG8f7k) | 3:09 | 2022-09-01 | 2022-09-04 |
+| [nihil](https://open.spotify.com/track/7cHzkyAUaYgftlX1T5T2lZ) | [Mimi Barks](https://open.spotify.com/artist/5A4P1UOSqbSvJKoi3VYlCC) | [nihil](https://open.spotify.com/album/2OgHuhKfWOzLuSgicwa5bq) | 3:09 | 2022-09-01 |  |
 | [nihilist blues \(feat\. Grimes\)](https://open.spotify.com/track/1JdWRS3PBZlSgKcPKcULtr) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [amo](https://open.spotify.com/album/04mkS7FooK8fRbB626T9NR) | 5:25 | 2022-02-04 | 2022-04-20 |
 | [No admission](https://open.spotify.com/track/1TikgJdf5aC3oaaYuC5eo2) | [Cody Frost](https://open.spotify.com/artist/3FobDbMc9jNxkZ8GCc685W) | [TEETH](https://open.spotify.com/album/0lQlLdndGVpI3hcuKFrHoT) | 3:33 | 2022-05-19 | 2022-08-19 |
 | [No Mercy](https://open.spotify.com/track/219ca1FZ0Rr4YPhuASgNuA) | [DeathbyRomy](https://open.spotify.com/artist/7aWpPjjgItUnXljFxYYKZI) | [No Mercy](https://open.spotify.com/album/5PgQaCxFG8bIVJAHxtPPa7) | 2:25 | 2022-08-04 |  |

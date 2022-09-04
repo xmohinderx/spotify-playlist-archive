@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Ava Max
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,089 likes - 112 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,097 likes - 112 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 53 | [Des milliers de je t'aime](https://open.spotify.com/track/1NwjfTd5fsvRFtYGERuKzA) | [Slimane](https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz) | [Chroniques d’un cupidon](https://open.spotify.com/album/1a6v54PDHcrn6y5iA7wuT1) | 3:32 |
 | 54 | [Rote Linien](https://open.spotify.com/track/5NaS34IwxJ24ftoXzcnXs9) | [CONNY](https://open.spotify.com/artist/4KBi0XchUE2c3JiGON6Okm) | [Manic Pixie Dream Boy, Vol\. 2](https://open.spotify.com/album/10nPswMbcEy3DXf0S8kenD) | 3:08 |
 | 55 | [Wonders](https://open.spotify.com/track/6d1AuFOL1YBzLcruapNbZV) | [Neelix](https://open.spotify.com/artist/5X3rdmEE2Mif6kFQkb2PxB), [Ghost Rider](https://open.spotify.com/artist/6ZJDt01Lh0XOPMMJbUMcUi), [The Gardener & The Tree](https://open.spotify.com/artist/1GarejqGHyKM1adTFnB4NN) | [Wonders](https://open.spotify.com/album/4etLZlUR58oKlanessSqAU) | 4:17 |
-| 56 | [Feels Like Home](https://open.spotify.com/track/70ztDWxwMLHje4L7QUyu5d) | [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX), [Afrojack](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Feels Like Home](https://open.spotify.com/album/1kmfNuvrAumVBroiRieQt3) | 2:53 |
+| 56 | [Feels Like Home \- Official Song F1 Dutch Grand Prix](https://open.spotify.com/track/70ztDWxwMLHje4L7QUyu5d) | [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX), [Afrojack](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Feels Like Home \(Official Song F1 Dutch Grand Prix\)](https://open.spotify.com/album/1kmfNuvrAumVBroiRieQt3) | 2:53 |
 | 57 | [J'imagine](https://open.spotify.com/track/6KVcbHptezykKn9OiXmbCF) | [Sopico](https://open.spotify.com/artist/01fkQiYuBZt16vQ8iRIc7g) | [Nuages/Orages](https://open.spotify.com/album/3txkpfwC5IthUvnMbUIfXu) | 2:57 |
 | 58 | [Big](https://open.spotify.com/track/3tyQEvKXHmON2mIdl06BBV) | [FBG GOAT](https://open.spotify.com/artist/5hq1b1Dgo4pPwbZV6iobbr), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Big](https://open.spotify.com/album/569jntaCYh9b2IcRZ0zP9i) | 2:34 |
 | 59 | [Lose You](https://open.spotify.com/track/3UqyDnZWf3t0EMEIS7B4hr) | [Marvin Aloys](https://open.spotify.com/artist/3CCJPt2Y7WxjlW8tswCu2q), [PvssyCat](https://open.spotify.com/artist/6ctlU7z2EqhgtXOYcHtEGC), [Gin N Soda](https://open.spotify.com/artist/5UYNPPGUUcpMN8DWN3OcJC) | [Lose You](https://open.spotify.com/album/6BGxgoqbZlrPZgDDNeU1My) | 3:28 |

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26DKvjp0s9M.md) - [plain]
 
 ### [Essential Indie](https://open.spotify.com/playlist/37i9dQZF1DX26DKvjp0s9M)
 
-> those core tracks that stand will the test of time...\. Cover: Phoebe Bridgers
+> really good indie songs...\. Cover: Phoebe Bridgers
 
-[Spotify](https://open.spotify.com/user/spotify) - 639,554 likes - 100 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 640,058 likes - 100 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26DKvjp0s9M.md) - [plain]
 | 99 | [Little Lion Man](https://open.spotify.com/track/6JnufVNLIO5F5Lk4sEVLeI) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Sigh No More](https://open.spotify.com/album/6w5W6ZGTvDsppKUOiGMuMo) | 4:06 |
 | 100 | [Moon Song](https://open.spotify.com/track/46RNrAkGsqWTDrv2ZPOAbx) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Punisher](https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH) | 4:37 |
 
-Snapshot ID: `MTY2MTE4NTIxNywwMDAwMDAwMDRmOTNmY2ZkMGY3OWJjNTg0MTdlNjI1YTU4MWZjNDg0`
+Snapshot ID: `MTY2MjI1MTM2NiwwMDAwMDAwMDE2YzM1MDI1ZWFkN2Q2NzY1MmRiNTg3MjVmZWI0MTg5`

@@ -1,12 +1,12 @@
 {
   "description": "New music from Lil Baby, Gucci Mane and Yeat. ",
-  "num_followers": 14632433,
+  "num_followers": 14618440,
   "original_name": "RapCaviar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjExMzk4NywwMDAwMDAwMDAxYmYyOTJhNGY0Yzc3N2EwZjcwNzQ5ZDE3ZDZjYmMy",
+  "snapshot_id": "MTY2MjI0Njk0NCwwMDAwMDAwMDhjOTRkMGYwNzdlMmUxNzI1ZGVlYzA0YjYxNmQ4YjI0",
   "tracks": [
     {
       "added_at": "2022-09-02 04:01:00",
@@ -43,6 +43,50 @@
       "duration_ms": 192427,
       "name": "CODE (feat. Moneybagg Yo)",
       "url": "https://open.spotify.com/track/5uVW9FWVaQde0lfF4hYs4C"
+    },
+    {
+      "added_at": "2022-09-02 04:01:00",
+      "album": {
+        "name": "Look Ma I Did It",
+        "url": "https://open.spotify.com/album/6anFwVV3gBuCNINmz4Vnvz"
+      },
+      "artists": [
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "name": "Baby Racks",
+          "url": "https://open.spotify.com/artist/768KV6PLzzcqy1CRCMFUNW"
+        }
+      ],
+      "duration_ms": 207786,
+      "name": "Look Ma I Did It",
+      "url": "https://open.spotify.com/track/0JvnmNjMnTQMRizhrKzMSO"
+    },
+    {
+      "added_at": "2022-08-26 19:53:17",
+      "album": {
+        "name": "Never Sleep",
+        "url": "https://open.spotify.com/album/4DTaEd8bTR412zUcBqv2VN"
+      },
+      "artists": [
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 185785,
+      "name": "Never Sleep (with Lil Baby feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/3GdWfmQBiiJrDUvSZS1bGv"
     },
     {
       "added_at": "2022-08-26 19:53:17",
@@ -135,50 +179,6 @@
       "duration_ms": 218364,
       "name": "Jimmy Cooks (feat. 21 Savage)",
       "url": "https://open.spotify.com/track/3F5CgOj3wFlRv51JsHbxhe"
-    },
-    {
-      "added_at": "2022-08-26 19:53:17",
-      "album": {
-        "name": "Never Sleep",
-        "url": "https://open.spotify.com/album/4DTaEd8bTR412zUcBqv2VN"
-      },
-      "artists": [
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 185785,
-      "name": "Never Sleep (with Lil Baby feat. Travis Scott)",
-      "url": "https://open.spotify.com/track/3GdWfmQBiiJrDUvSZS1bGv"
-    },
-    {
-      "added_at": "2022-09-02 04:01:00",
-      "album": {
-        "name": "Look Ma I Did It",
-        "url": "https://open.spotify.com/album/6anFwVV3gBuCNINmz4Vnvz"
-      },
-      "artists": [
-        {
-          "name": "Gucci Mane",
-          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
-        },
-        {
-          "name": "Baby Racks",
-          "url": "https://open.spotify.com/artist/768KV6PLzzcqy1CRCMFUNW"
-        }
-      ],
-      "duration_ms": 207786,
-      "name": "Look Ma I Did It",
-      "url": "https://open.spotify.com/track/0JvnmNjMnTQMRizhrKzMSO"
     },
     {
       "added_at": "2022-08-26 19:53:17",
@@ -295,6 +295,26 @@
       "duration_ms": 142657,
       "name": "HOTEL LOBBY (Unc & Phew)",
       "url": "https://open.spotify.com/track/0QNNd0qMCDbraS1nQPg3aA"
+    },
+    {
+      "added_at": "2022-09-02 04:01:00",
+      "album": {
+        "name": "Too Much (feat. Moneybagg Yo)",
+        "url": "https://open.spotify.com/album/0R87OEh0NzfdjavsrmrGtj"
+      },
+      "artists": [
+        {
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+        },
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "duration_ms": 188869,
+      "name": "Too Much (feat. Moneybagg Yo)",
+      "url": "https://open.spotify.com/track/7pZeacKYnK4unCplCmI2qb"
     },
     {
       "added_at": "2022-08-26 19:53:17",
@@ -445,26 +465,6 @@
       "url": "https://open.spotify.com/track/7N17JE5sPConOSeEIC5AnS"
     },
     {
-      "added_at": "2022-09-02 04:01:00",
-      "album": {
-        "name": "Too Much (feat. Moneybagg Yo)",
-        "url": "https://open.spotify.com/album/0R87OEh0NzfdjavsrmrGtj"
-      },
-      "artists": [
-        {
-          "name": "Freddie Gibbs",
-          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
-        },
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        }
-      ],
-      "duration_ms": 188869,
-      "name": "Too Much (feat. Moneybagg Yo)",
-      "url": "https://open.spotify.com/track/7pZeacKYnK4unCplCmI2qb"
-    },
-    {
       "added_at": "2022-08-26 19:53:17",
       "album": {
         "name": "Hot Shit (feat. Ye & Lil Durk)",
@@ -575,6 +575,22 @@
     {
       "added_at": "2022-08-26 19:53:17",
       "album": {
+        "name": "54321",
+        "url": "https://open.spotify.com/album/5vW8LuMydrkQQqkQlw5Won"
+      },
+      "artists": [
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "duration_ms": 182325,
+      "name": "54321",
+      "url": "https://open.spotify.com/track/0iPb0dxCtjFcmFa2ElfBJ5"
+    },
+    {
+      "added_at": "2022-08-26 19:53:17",
+      "album": {
         "name": "Dissin the Dead",
         "url": "https://open.spotify.com/album/4ls5UaYdO6EZHiry7sr8Po"
       },
@@ -591,7 +607,7 @@
     {
       "added_at": "2022-09-02 04:01:00",
       "album": {
-        "name": "I Ain\u2019t Gone Hold Ya",
+        "name": "I Ain\u2019t Gon Hold Ya",
         "url": "https://open.spotify.com/album/3ZuQtnBkECX096kcyhoISC"
       },
       "artists": [
@@ -605,7 +621,7 @@
         }
       ],
       "duration_ms": 139370,
-      "name": "I Ain\u2019t Gone Hold Ya",
+      "name": "I Ain\u2019t Gon Hold Ya",
       "url": "https://open.spotify.com/track/2jCQXY0zjBdSpp12egn0Wo"
     },
     {
@@ -775,22 +791,6 @@
       "duration_ms": 138673,
       "name": "IDGAF",
       "url": "https://open.spotify.com/track/3umPlMokEzAFxJO33tNdlY"
-    },
-    {
-      "added_at": "2022-08-26 19:53:17",
-      "album": {
-        "name": "54321",
-        "url": "https://open.spotify.com/album/5vW8LuMydrkQQqkQlw5Won"
-      },
-      "artists": [
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        }
-      ],
-      "duration_ms": 182325,
-      "name": "54321",
-      "url": "https://open.spotify.com/track/0iPb0dxCtjFcmFa2ElfBJ5"
     },
     {
       "added_at": "2022-08-26 19:53:17",

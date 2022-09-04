@@ -1,12 +1,12 @@
 {
   "description": "Uma sele\u00e7\u00e3o para as m\u00e3es e os pais cantarem junto com os filhos e vice-versa.",
-  "num_followers": 59121,
+  "num_followers": 59128,
   "original_name": "Pais e Filhos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDYxMzEyOCwwMDAwMDAwMDZhNTUxZTk5Mjc3ODFkOGVhZmQ4ZTkyMzgzZDIzNjYy",
+  "snapshot_id": "MTY1NDYxMzEyOCwwMDAwMDAwMGNjODY3ZmNkNzg3N2Q3ZGM5OGVlMGJmZTIyYjY3ZmUx",
   "tracks": [
     {
       "added_at": "2021-08-18 22:14:03",
@@ -1149,22 +1149,6 @@
       "url": "https://open.spotify.com/track/0XI3xzi3W1sBDfri2FKtj9"
     },
     {
-      "added_at": "2021-08-18 22:14:03",
-      "album": {
-        "name": "Lola Versus Powerman and the Moneygoround, Pt. One",
-        "url": "https://open.spotify.com/album/4jaLfcNpIrOgcPyXuuiHTi"
-      },
-      "artists": [
-        {
-          "name": "The Kinks",
-          "url": "https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E"
-        }
-      ],
-      "duration_ms": 201426,
-      "name": "This Time Tomorrow",
-      "url": "https://open.spotify.com/track/1LjPCQHkAYnJbQUgSoHaye"
-    },
-    {
       "added_at": "2022-06-07 14:45:28",
       "album": {
         "name": "Ao vivo",
@@ -1511,22 +1495,6 @@
     {
       "added_at": "2021-08-18 22:14:03",
       "album": {
-        "name": "Gal Costa",
-        "url": "https://open.spotify.com/album/5ZVLLME05cmciSZz4IGcZu"
-      },
-      "artists": [
-        {
-          "name": "Gal Costa",
-          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
-        }
-      ],
-      "duration_ms": 260133,
-      "name": "Divino Maravilhoso",
-      "url": "https://open.spotify.com/track/7J42bT9SnqnVJH4e4CMA8u"
-    },
-    {
-      "added_at": "2021-08-18 22:14:03",
-      "album": {
         "name": "Meus Momentos",
         "url": "https://open.spotify.com/album/7aGsQAH1uvanvleHoNZtrk"
       },
@@ -1543,18 +1511,18 @@
     {
       "added_at": "2021-08-18 22:14:03",
       "album": {
-        "name": "Bicho",
-        "url": "https://open.spotify.com/album/2rXCY07TM8KFD4af2u6eaV"
+        "name": "Gal Costa",
+        "url": "https://open.spotify.com/album/5ZVLLME05cmciSZz4IGcZu"
       },
       "artists": [
         {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+          "name": "Gal Costa",
+          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
         }
       ],
-      "duration_ms": 436720,
-      "name": "Odara - Remix",
-      "url": "https://open.spotify.com/track/7A8i85wc0cQzbDTHLlkh2O"
+      "duration_ms": 260133,
+      "name": "Divino Maravilhoso",
+      "url": "https://open.spotify.com/track/7J42bT9SnqnVJH4e4CMA8u"
     },
     {
       "added_at": "2021-08-18 22:14:03",
@@ -1589,38 +1557,6 @@
       "url": "https://open.spotify.com/track/05Cm3WMV0Bald8zi0oSptv"
     },
     {
-      "added_at": "2022-06-07 14:45:28",
-      "album": {
-        "name": "Nossa Hist\u00f3ria (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4qEeyIC0z30gL0se5SxBYx"
-      },
-      "artists": [
-        {
-          "name": "Sandy e Junior",
-          "url": "https://open.spotify.com/artist/05mFGgWzooDQMWGNcNsM05"
-        }
-      ],
-      "duration_ms": 88954,
-      "name": "Era Uma Vez - Ao Vivo",
-      "url": "https://open.spotify.com/track/67v2dYsKI0g4qOPfS23ePG"
-    },
-    {
-      "added_at": "2021-08-18 22:14:03",
-      "album": {
-        "name": "Gal Costa",
-        "url": "https://open.spotify.com/album/5ZVLLME05cmciSZz4IGcZu"
-      },
-      "artists": [
-        {
-          "name": "Gal Costa",
-          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
-        }
-      ],
-      "duration_ms": 198173,
-      "name": "Nao Identificado",
-      "url": "https://open.spotify.com/track/1eqUenDSQsy87cpoogbKvi"
-    },
-    {
       "added_at": "2021-08-18 22:14:03",
       "album": {
         "name": "Elis Regina",
@@ -1643,6 +1579,22 @@
     {
       "added_at": "2021-08-18 22:14:03",
       "album": {
+        "name": "Bicho",
+        "url": "https://open.spotify.com/album/2rXCY07TM8KFD4af2u6eaV"
+      },
+      "artists": [
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        }
+      ],
+      "duration_ms": 436720,
+      "name": "Odara - Remix",
+      "url": "https://open.spotify.com/track/7A8i85wc0cQzbDTHLlkh2O"
+    },
+    {
+      "added_at": "2021-08-18 22:14:03",
+      "album": {
         "name": "Personalidade",
         "url": "https://open.spotify.com/album/10hZyN6wHBQ94xt8aoaq9o"
       },
@@ -1655,6 +1607,82 @@
       "duration_ms": 256626,
       "name": "Aquarela",
       "url": "https://open.spotify.com/track/5iPTYBZyOEleyWkE7NTYCc"
+    },
+    {
+      "added_at": "2021-08-18 22:14:03",
+      "album": {
+        "name": "Gal Costa",
+        "url": "https://open.spotify.com/album/5ZVLLME05cmciSZz4IGcZu"
+      },
+      "artists": [
+        {
+          "name": "Gal Costa",
+          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
+        }
+      ],
+      "duration_ms": 198173,
+      "name": "Nao Identificado",
+      "url": "https://open.spotify.com/track/1eqUenDSQsy87cpoogbKvi"
+    },
+    {
+      "added_at": "2022-06-07 14:45:28",
+      "album": {
+        "name": "Nossa Hist\u00f3ria (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4qEeyIC0z30gL0se5SxBYx"
+      },
+      "artists": [
+        {
+          "name": "Sandy e Junior",
+          "url": "https://open.spotify.com/artist/05mFGgWzooDQMWGNcNsM05"
+        }
+      ],
+      "duration_ms": 88954,
+      "name": "Era Uma Vez - Ao Vivo",
+      "url": "https://open.spotify.com/track/67v2dYsKI0g4qOPfS23ePG"
+    },
+    {
+      "added_at": "2021-08-18 22:14:03",
+      "album": {
+        "name": "Jovem Guarda - O Pulo Do Negro Gato",
+        "url": "https://open.spotify.com/album/1qb6cq2hah9dAMraqTqGcF"
+      },
+      "artists": [
+        {
+          "name": "Erasmo Carlos",
+          "url": "https://open.spotify.com/artist/6cHQUDAPGKRE2NbVjBlOcz"
+        },
+        {
+          "name": "Leo Jaime",
+          "url": "https://open.spotify.com/artist/2TjzEhCBd9s3YPWKPwKZYo"
+        },
+        {
+          "name": "Renato e Seus Blue Caps",
+          "url": "https://open.spotify.com/artist/27hFv7JqcDVyqgaCvLHpy7"
+        },
+        {
+          "name": "Fagner",
+          "url": "https://open.spotify.com/artist/5j3htXVskZF0u8qWY5zcF8"
+        },
+        {
+          "name": "Leno",
+          "url": "https://open.spotify.com/artist/68xhplUZZ18723PccI3i1G"
+        },
+        {
+          "name": "Golden Boys",
+          "url": "https://open.spotify.com/artist/6e90eYChXG3b8PbkAPcPcn"
+        },
+        {
+          "name": "Jerry Adriani",
+          "url": "https://open.spotify.com/artist/5OBXrPtAgpRVJgua6rgbs6"
+        },
+        {
+          "name": "Almir",
+          "url": "https://open.spotify.com/artist/73Op2gKQknruMmIuzlJoc3"
+        }
+      ],
+      "duration_ms": 251546,
+      "name": "Negro Gato",
+      "url": "https://open.spotify.com/track/5xde0qUR1uUmH8ZVOqoPRo"
     }
   ],
   "unique_name": "Pais e Filhos",

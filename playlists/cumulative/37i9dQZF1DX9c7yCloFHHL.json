@@ -1484,6 +1484,36 @@
     },
     {
       "album": {
+        "name": "Birki",
+        "url": "https://open.spotify.com/album/45FNDz5cwraBbRazdMFdzP"
+      },
+      "artists": [
+        {
+          "name": "J\u00f3nsi",
+          "url": "https://open.spotify.com/artist/3khg8RDB6nMuw34w1IHS6Y"
+        },
+        {
+          "name": "Kjartan Holm",
+          "url": "https://open.spotify.com/artist/0BWRfTuCYTRzqnjYprarFo"
+        },
+        {
+          "name": "Sin Fang",
+          "url": "https://open.spotify.com/artist/7xsi0kBJ58yWMu4WXFYPHU"
+        },
+        {
+          "name": "Alex Somers",
+          "url": "https://open.spotify.com/artist/51UcKPhDKdKDGIjec0781x"
+        }
+      ],
+      "date_added": "2022-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243250,
+      "name": "Birki",
+      "url": "https://open.spotify.com/track/7eVczwc5ifac0Refb83OFN"
+    },
+    {
+      "album": {
         "name": "Black Stone / Blue Liquid",
         "url": "https://open.spotify.com/album/1tGTbOHA7tpP0s94IhEAIt"
       },
@@ -1713,7 +1743,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-04",
       "duration_ms": 206286,
       "name": "Burnt",
       "url": "https://open.spotify.com/track/4mVkekfbynNEYCxTqjvu3n"

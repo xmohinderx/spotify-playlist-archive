@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 
 > เพลงไทยป๊อปโดนใจ อัพเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: ALLY
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,478 likes - 74 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,524 likes - 74 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 | 2 | [สิ่งเล็กน้อย \(LESS IS MORE\)](https://open.spotify.com/track/58ViLaYQWchYq9vMfW5Prk) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [สิ่งเล็กน้อย \(LESS IS MORE\)](https://open.spotify.com/album/3KBZ0ZGAQOH2dcz2MI51xk) | 3:27 |
 | 3 | [Boys Like You](https://open.spotify.com/track/1VyRhsi6GfBusI1Vb061s4) | [ALLY](https://open.spotify.com/artist/4dkCB7FJeRXK6OWpal7zpw) | [Boys Like You](https://open.spotify.com/album/1oslIjeU0faXGgimWvmL4l) | 3:43 |
 | 4 | [ชอบตัวเองตอนอยู่กับเธอ](https://open.spotify.com/track/0cCf8UpRfjOB7yp1yqzMHM) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [ชอบตัวเองตอนอยู่กับเธอ](https://open.spotify.com/album/1AFBFoCnnS7KkhbwT80V2j) | 3:42 |
-| 5 | [Chop Chop!](https://open.spotify.com/track/6M8nx5vDof89UySjbL8KPM) | [RedSpin](https://open.spotify.com/artist/3NM9LMFT0J6AhkQXov8Ck7) | [Chop Chop!](https://open.spotify.com/album/5cG51iqdsWcuZ5BGmEumN5) | 2:58 |
+| 5 | [Chop Chop! \(รีบไปรีบมา\)](https://open.spotify.com/track/6M8nx5vDof89UySjbL8KPM) | [RedSpin](https://open.spotify.com/artist/3NM9LMFT0J6AhkQXov8Ck7) | [Chop Chop! \(รีบไปรีบมา\)](https://open.spotify.com/album/5cG51iqdsWcuZ5BGmEumN5) | 2:58 |
 | 6 | [ฉลามชอบงับคุณ Feat.IIVY B](https://open.spotify.com/track/1NEBh01Wwtak3R1eCxlwrJ) | [bonnadol](https://open.spotify.com/artist/19IYWJFjZPv3INWYpkavTc) | [ฉลามชอบงับคุณ Feat.IIVY B](https://open.spotify.com/album/7nzdc88JydSq90v212jrfU) | 3:55 |
 | 7 | [คนไม่คุย \(Silent Mode\)](https://open.spotify.com/track/4Z64nGulQN49i9D03NcF8a) | [PROXIE](https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF) | [คนไม่คุย \(Silent Mode\)](https://open.spotify.com/album/1K7cv40prwoUAbxCXX1CTh) | 3:50 |
 | 8 | [กลัวฝน \- End.](https://open.spotify.com/track/3xga8upmhb7WQf8F2f24Sh) | [YourMOOD](https://open.spotify.com/artist/5YcdFv3OumeTW8cVW788gT) | [กลัวฝน \(End.\)](https://open.spotify.com/album/3rjpdGJzEw5yfsUIy7qxmM) | 3:31 |
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 | 14 | [ปล่อยจอย](https://open.spotify.com/track/0PYR1D4eAi0k2fTDQZ019S) | [bamm](https://open.spotify.com/artist/2ORibfYGMt8fuIimSDCTq1), [Pimma PiXXiE](https://open.spotify.com/artist/0uDmGfh8e3dXJEmJ6jKQXg) | [เศร้าศาสตร์](https://open.spotify.com/album/1C45xLNvMc8HqJD5jHEP4q) | 3:28 |
 | 15 | [ขอบคุณที่เคยใจร้ายกับฉัน \(Thanks To You\)](https://open.spotify.com/track/2mhcGG5JdEotXGF4kDTjGM) | [Ton Thanasit](https://open.spotify.com/artist/6zOWc1PkZQNr5mDOgWyc9x) | [ขอบคุณที่เคยใจร้ายกับฉัน \(Thanks To You\)](https://open.spotify.com/album/58zEDQELi0atD10fgzGpym) | 3:41 |
 | 16 | [ขี้แง \(Loser\)](https://open.spotify.com/track/26tG5gvCbjRi9HoNAD7v9f) | [LUSS](https://open.spotify.com/artist/6hJoakJWJIDyWnYujjhhR6), [Patrickananda](https://open.spotify.com/artist/4gjXKx2a7GaIYwSDCBveJx) | [ขี้แง \(Loser\)](https://open.spotify.com/album/01eUOdyqykhWOveIc7Vgtj) | 3:40 |
-| 17 | [Based on whose story?](https://open.spotify.com/track/1PSN6e5cQbumCzz74Imhhz) | [Waii](https://open.spotify.com/artist/2RMcYn32IFfN1FQdpUArrC) | [Based on whose story?](https://open.spotify.com/album/3Y4DNfi7F1CfqWOiUDKSP3) | 3:33 |
+| 17 | [Based on whose story? \(โปรดใช้วิจารณญาณ\)](https://open.spotify.com/track/1PSN6e5cQbumCzz74Imhhz) | [Waii](https://open.spotify.com/artist/2RMcYn32IFfN1FQdpUArrC) | [Based on whose story? \(โปรดใช้วิจารณญาณ\)](https://open.spotify.com/album/3Y4DNfi7F1CfqWOiUDKSP3) | 3:33 |
 | 18 | [ข้อยกเว้น \(Exceptional\)](https://open.spotify.com/track/0T7uw5pfozE3gvom4ALE8D) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [ข้อยกเว้น \(Exceptional\)](https://open.spotify.com/album/6B21RxfWjt5eiNo9QchBIv) | 3:03 |
 | 19 | [Flame](https://open.spotify.com/track/07yq4fcfWqPecc3z6kk3bb) | [XI](https://open.spotify.com/artist/00EYO9tpVSk1YkXQs1awnQ) | [Flame](https://open.spotify.com/album/1KQkObxhoz8QXlHotEp7PS) | 3:57 |
 | 20 | [IRREPLACEABLE](https://open.spotify.com/track/5uTFZnPELTnuRrFDnLIjFJ) | [F.HERO](https://open.spotify.com/artist/2MnMuRYL9qsGvWPsZGeDGQ), [Youngjae](https://open.spotify.com/artist/5qUAtC3NwSLYme4JqjlGfQ), [THE TOYS](https://open.spotify.com/artist/5pokGZ1K9Hr6etaKPDxSG8) | [IRREPLACEABLE](https://open.spotify.com/album/1qBo0T1XG8sxyOGaiSGhF3) | 4:49 |

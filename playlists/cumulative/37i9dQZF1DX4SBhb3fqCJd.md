@@ -2,9 +2,9 @@
 
 ### [Are & Be](https://open.spotify.com/playlist/37i9dQZF1DX4SBhb3fqCJd)
 
-> The pulse of R&B music today\.  Cover: Brent Faiyaz
+> The pulse of R&B music today\.  Cover: Summer Walker
 
-177 songs - 10 hr 10 min - [published](https://open.spotify.com/playlist/5zrlCMCGUGIh9pkJp17t53)
+179 songs - 10 hr 17 min - [published](https://open.spotify.com/playlist/5zrlCMCGUGIh9pkJp17t53)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,6 +120,7 @@
 | [Memories](https://open.spotify.com/track/3S4gq91XRuohTTfJZAiGVK) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Memories](https://open.spotify.com/album/1U49zFUoaDyVPjGVeKcmbk) | 2:44 | 2021-12-17 | 2022-03-12 |
 | [MERCEDES](https://open.spotify.com/track/0tkgmjBMU6qSxolAKB3f2H) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [MERCEDES](https://open.spotify.com/album/2M3IBMpOszCjnxwG1sWOqT) | 3:53 | 2021-12-17 | 2022-04-29 |
 | [Mercury](https://open.spotify.com/track/3ixe45hov7EBKXm8tYBmvX) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Mercury](https://open.spotify.com/album/3pc9LMhg8lyfpPTyywABMd) | 4:58 | 2022-07-09 | 2022-07-30 |
+| [Mine](https://open.spotify.com/track/7opxatMp7hibegdRc3Vnid) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Pillow Talk](https://open.spotify.com/album/5OqXOVNWcFnBsYnPV0BWc6) | 2:54 | 2022-09-03 |  |
 | [My City ft\. Masego](https://open.spotify.com/track/3Q8RBppQeYLLHafNb2cJTz) | [ELHAE](https://open.spotify.com/artist/6TrQLQR8tUluPbmdPy6jqY), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [My City ft\. Masego](https://open.spotify.com/album/0bMGwS4OdF9prBTjZOXSgl) | 3:10 | 2021-12-17 | 2022-02-19 |
 | [Naturally](https://open.spotify.com/track/3pIGVPZfTE7GCzT07XDcY6) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [333 \(Deluxe\)](https://open.spotify.com/album/1mxG8YY9wY5Q3mLcDs2khW) | 3:14 | 2022-03-25 | 2022-07-09 |
 | [No Love \(with SZA & Cardi B\) \- Extended Version](https://open.spotify.com/track/0IMUFRaM2W3wKNM1CSQ4Zm) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [No Love \(with SZA & Cardi B\) \[Extended Version\]](https://open.spotify.com/album/1Rt2ZYJ3tBKqXtFuB19xz4) | 4:36 | 2022-03-25 | 2022-08-20 |
@@ -127,7 +128,7 @@
 | [Nobody But You](https://open.spotify.com/track/6VFKuuqSbA1GpMEosUgTwQ) | [Sonder](https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Nobody But You](https://open.spotify.com/album/0HaY1bBhaYUEXBOSva6Pf7) | 3:33 | 2021-12-17 | 2022-03-05 |
 | [Nothing Feels Better](https://open.spotify.com/track/5tmxPmmXvgJPU7bIukFX8p) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Nothing Feels Better](https://open.spotify.com/album/3Pm0LABzgq730cCRhayUTw) | 2:37 | 2021-12-17 | 2022-04-09 |
 | [NWA \(feat\. Lil Durk\)](https://open.spotify.com/track/0a4x22Cu8ix2C0ylPLl7A7) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [NWA \(feat\. Lil Durk\)](https://open.spotify.com/album/4kMQqBGP8tSzvvyGPiyYTv) | 3:51 | 2022-02-18 | 2022-05-20 |
-| [Opposite](https://open.spotify.com/track/1hjQHLXevphvGIZUfRC239) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) | [Pillow Talk](https://open.spotify.com/album/5OqXOVNWcFnBsYnPV0BWc6) | 2:50 | 2022-08-19 |  |
+| [Opposite](https://open.spotify.com/track/1hjQHLXevphvGIZUfRC239) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) | [Pillow Talk](https://open.spotify.com/album/5OqXOVNWcFnBsYnPV0BWc6) | 2:50 | 2022-08-19 | 2022-09-04 |
 | [Out Loud \(feat\. Kehlani\)](https://open.spotify.com/track/0P11qKeHWhUy0rDPeY8dyB) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Broken Hearts Club](https://open.spotify.com/album/04xudYiCT2xyEVfF5Ov14Y) | 3:23 | 2022-04-08 | 2022-07-16 |
 | [Out of Time](https://open.spotify.com/track/2SLwbpExuoBDZBpjfefCtV) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:34 | 2022-01-07 | 2022-07-09 |
 | [Over](https://open.spotify.com/track/1DOgkaR5Gqa8JtPEIbQORC) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Over](https://open.spotify.com/album/5AnJbiMebwoHI7mwgbhv2H) | 3:25 | 2021-12-17 | 2022-03-12 |
@@ -142,7 +143,8 @@
 | [Pressure](https://open.spotify.com/track/6ElfCM1XppU0YWkkFYh4s2) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Pressure](https://open.spotify.com/album/5lpInBYJiEtNyOXLIa3c9B) | 3:13 | 2021-12-17 | 2022-04-23 |
 | [PRICE OF FAME](https://open.spotify.com/track/1RR29QADKP8ygptqTDdHSH) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [PRICE OF FAME](https://open.spotify.com/album/0ZPaMBoUZhJhJnJQgShm8X) | 6:19 | 2022-06-24 | 2022-07-10 |
 | [Psychic](https://open.spotify.com/track/64pUytZWfCpeeMBN0XAadF) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Breezy](https://open.spotify.com/album/31U6s6obQrBLTqyvqfqzlM) | 3:40 | 2022-06-24 |  |
-| [Queen Space \(with Summer Walker\)](https://open.spotify.com/track/3Gz3Tl8TicQbsR0OGvmc6C) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Queen Space \(with Summer Walker\)](https://open.spotify.com/album/6juUcr1BHeBUg2ipoLI0mV) | 3:50 | 2022-08-31 |  |
+| [Queen Space \(with Summer Walker\)](https://open.spotify.com/track/3Gz3Tl8TicQbsR0OGvmc6C) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Queen Space \(with Summer Walker\)](https://open.spotify.com/album/6juUcr1BHeBUg2ipoLI0mV) | 3:50 | 2022-08-31 | 2022-09-04 |
+| [Queen Space \(with Summer Walker\)](https://open.spotify.com/track/7i66yOTPEYGVXsAMbYZkga) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Away Message](https://open.spotify.com/album/3r7f1s9s3NVbpZWSYRmYgk) | 3:50 | 2022-09-03 |  |
 | [Real Thing \(feat\. Tori Kelly\)](https://open.spotify.com/track/4Nk5iJrw4u7vJ6nGXosuxk) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Pink Moon](https://open.spotify.com/album/5MxLgiQF7yvC7SVMghxPZ1) | 3:15 | 2022-01-28 | 2022-05-07 |
 | [Rent Free](https://open.spotify.com/track/1NKilzEyipTC34AHEMnKAl) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Rent Free / By Any Means](https://open.spotify.com/album/06nzu940k6jhkJ5TacM6y5) | 3:22 | 2021-12-17 | 2022-04-29 |
 | [Rent Money \(feat\. Dave East\)](https://open.spotify.com/track/2lFIxJbGfhcAIz5tzacZdK) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [Dave East](https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5) | [Rent Money \(feat\. Dave East\)](https://open.spotify.com/album/2e6qv6myguUFVoLfsjHZ1w) | 3:49 | 2022-01-28 | 2022-03-26 |

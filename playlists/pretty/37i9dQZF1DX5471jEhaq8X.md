@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5471jEhaq8X.md) - [plain]
 
 > Sólo corridos \- lo nuevo y lo mejor del año\. Cover:  Oscar Maydon, El Chachito.
 
-[Spotify](https://open.spotify.com/user/spotify) - 566,841 likes - 200 songs - 10 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 567,137 likes - 200 songs - 10 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 
 > The perfect mix of Punk, Rock, Alt & Indie\. Cover: FIDLAR
 
-[Spotify](https://open.spotify.com/user/spotify) - 216,546 likes - 126 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 216,381 likes - 126 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 | 10 | [Hertz](https://open.spotify.com/track/7fri3wodaEszuJBZcGB4VF) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [Comfort To Me](https://open.spotify.com/album/24JeT9uxcmqL227jId3Pci) | 2:33 |
 | 11 | [OK](https://open.spotify.com/track/5Hq77IhQwXUjySpk2D12Wy) | [cleopatrick](https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW) | [OK](https://open.spotify.com/album/32oPNdyJ9msTqi8btivvPZ) | 3:53 |
 | 12 | [Silence Is Golden](https://open.spotify.com/track/1YGdBqULxB6JnUTTpPQ9b0) | [The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin) | [Silence Is Golden](https://open.spotify.com/album/4N8TqGejYoSvbkNxRnGtQ4) | 2:56 |
-| 13 | [Time](https://open.spotify.com/track/1kOrZmrSnP1gub1kneRNHF) | [Vundabar](https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6) | [Time](https://open.spotify.com/album/7cwi5zqBBnLFVNO1HR49Zd) | 4:22 |
+| 13 | [Time](https://open.spotify.com/track/5OSMmIX3QvBW5wrChEujmZ) | [Vundabar](https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6) | [Shadow Boxing](https://open.spotify.com/album/2ClkPaYrHeaHGxiiSaMoyA) | 4:22 |
 | 14 | [Monkey Mind](https://open.spotify.com/track/0lM6yxZLvHvxqBdYhgr9uo) | [THE BOBBY LEES](https://open.spotify.com/artist/5rk0vdxhhpLJ0mgyvx0BZI) | [Monkey Mind](https://open.spotify.com/album/2tGMS4nGHxcPvD3DEIeaLW) | 2:18 |
 | 15 | [Across That Fine Line](https://open.spotify.com/track/0naG5PyrfwJQ0xtuQ1BGCM) | [Nation of Language](https://open.spotify.com/artist/5JWBow4ywgKNQ5HBxY8hcz) | [A Way Forward](https://open.spotify.com/album/2hPnsq6HZHcgkFlLclKrvv) | 5:25 |
 | 16 | [Daisy](https://open.spotify.com/track/57qEVblwTQpaR09g1XR2YT) | [Superbloom](https://open.spotify.com/artist/3xdggitmc1vFAChxAwhIIL) | [Daisy](https://open.spotify.com/album/5IcszA2oS2W638Ii5h25gZ) | 3:10 |
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 | 125 | [Sterilizer](https://open.spotify.com/track/4wPVMYTIDj0D3e0biuEq6M) | [LURK](https://open.spotify.com/artist/3HUD6tXPRpqbXIBqJMdNCR) | [Around the Sun](https://open.spotify.com/album/1S2XYKUTq2jSCPX5nUnMEw) | 3:06 |
 | 126 | [That Sedative](https://open.spotify.com/track/3xctqctbVGsgX2nzkRQ3xC) | [Bad Waitress](https://open.spotify.com/artist/5h5YgUkm7vI0bdbQTyBGmb) | [That Sedative](https://open.spotify.com/album/0JM4lsF31jRVkpuG4Ekrlk) | 2:21 |
 
-Snapshot ID: `MTY2MTQ4NjQwMCwwMDAwMDAwMGU4ZDJmZjcyNmRhNDczZDYyM2QxMjJkOWQ0NzZmMzk4`
+Snapshot ID: `MTY2MTQ4NjQwMCwwMDAwMDAwMDNlYjI5OGIyYzZmMzRlOTg4MTFiNTVjNjRkYzI5ZTRl`

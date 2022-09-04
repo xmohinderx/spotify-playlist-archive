@@ -4,7 +4,7 @@
 
 > It's edgy, innovative, and rooted in soul, folk, Americana, and of course, the blues\. Cover: Ben Harper
 
-232 songs - 14 hr 39 min - [published](https://open.spotify.com/playlist/0VkXfjoWKQcjAxrDWon3jk)
+233 songs - 14 hr 42 min - [published](https://open.spotify.com/playlist/0VkXfjoWKQcjAxrDWon3jk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,8 +98,9 @@
 | [How High](https://open.spotify.com/track/0UqNIatgH3yQrJwqajOM2G) | [The Record Company](https://open.spotify.com/artist/6vYg01ZFt1nREsUDMDPUYX) | [Play Loud](https://open.spotify.com/album/4OAf7UEfzLBKjnoWIFkALk) | 3:12 | 2022-07-22 |  |
 | [How High](https://open.spotify.com/track/1ifHcMs6Cm7LaSwIokxzzQ) | [The Record Company](https://open.spotify.com/artist/6vYg01ZFt1nREsUDMDPUYX) | [How High](https://open.spotify.com/album/0mK7xlYoiJLSMI3qfSCZQq) | 3:12 | 2021-12-17 | 2022-07-29 |
 | [How Long?](https://open.spotify.com/track/10f3q2Od3xz3P4BmsP2AHY) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [How Long?](https://open.spotify.com/album/7IDrMmvLYjBPHXWhLSloO2) | 4:16 | 2021-12-17 |  |
-| [Howlin' Back Again](https://open.spotify.com/track/0VjnoDDlSpYjue7QBdY1WA) | [Crown Lands](https://open.spotify.com/artist/0MnazDWzh4tAnT5y4vWZFr) | [New Blues Roots](https://open.spotify.com/album/691cfDyQ3ZKuAZVFZMfiZR) | 2:49 | 2022-07-22 |  |
+| [Howlin' Back Again](https://open.spotify.com/track/0VjnoDDlSpYjue7QBdY1WA) | [Crown Lands](https://open.spotify.com/artist/0MnazDWzh4tAnT5y4vWZFr) | [New Blues Roots](https://open.spotify.com/album/691cfDyQ3ZKuAZVFZMfiZR) | 2:49 | 2022-07-22 | 2022-09-04 |
 | [Howlin' Back Again](https://open.spotify.com/track/5D11T1h41MKzM42WguJSfY) | [Crown Lands](https://open.spotify.com/artist/0MnazDWzh4tAnT5y4vWZFr) | [Howlin' Back Again](https://open.spotify.com/album/3hcVuh1Bou7eQk329f7BsF) | 2:49 | 2021-12-17 | 2022-07-29 |
+| [Howlin' Back Again](https://open.spotify.com/track/71Ht9TvlvJMPJc9taJhPQh) | [Crown Lands](https://open.spotify.com/artist/0MnazDWzh4tAnT5y4vWZFr) | [Wayward Flyers Vol.I](https://open.spotify.com/album/6sTFSVLleUdW3dECzSKU9l) | 2:49 | 2022-07-22 |  |
 | [Hungry Heart](https://open.spotify.com/track/1ebuZBkHsWXUtMEkjUBQaA) | [Josh Teskey](https://open.spotify.com/artist/4BGagHmgh8YwhvCuUQinnd), [Ash Grunwald](https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY) | [Hungry Heart](https://open.spotify.com/album/0CZixsry473uXYUqJyDlob) | 3:21 | 2021-12-17 | 2022-01-22 |
 | [Hurry Up and Wait](https://open.spotify.com/track/0dGXQT5LCpJqBR5M5m8pVx) | [Ben Miller Band](https://open.spotify.com/artist/692LYMl7s0bV6X3iduX5rG) | [Any Way, Shape or Form](https://open.spotify.com/album/0nhF4j77AnXi9qd5zbrwj1) | 3:03 | 2022-07-22 |  |
 | [Hurry Up And Wait](https://open.spotify.com/track/3J9cIhqTC2KQT737cFexIo) | [Ben Miller Band](https://open.spotify.com/artist/692LYMl7s0bV6X3iduX5rG) | [Any Way, Shape Or Form](https://open.spotify.com/album/6ku0ECOC4mRbf3n2YGl81S) | 3:03 | 2021-12-17 | 2022-07-29 |

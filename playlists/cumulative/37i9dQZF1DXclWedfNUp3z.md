@@ -4,7 +4,7 @@
 
 > Mellow vibrations for green leaves, green thumbs and green ears.
 
-309 songs - 21 hr 32 min - [published](https://open.spotify.com/playlist/6XhGj2DggqIecedL7YMJsq)
+310 songs - 21 hr 36 min - [published](https://open.spotify.com/playlist/6XhGj2DggqIecedL7YMJsq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [An Observation of Antimatter at Hotel Kabiki](https://open.spotify.com/track/4KgSkI0Xh9WBGJDD7NjabS) | [The Golden Islands](https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf) | [An Observation of Antimatter at Hotel Kabiki](https://open.spotify.com/album/4yqYiuUZMb85p2rE6Kg77A) | 3:13 | 2021-10-20 | 2022-07-28 |
 | [Anomaly](https://open.spotify.com/track/2qbm8KA7O83nPviXa5aK5I) | [Dania](https://open.spotify.com/artist/6zT9Hqr8CQBZGevQoo9S9O) | [Voz](https://open.spotify.com/album/3uY9APJcADScKquOCujhw3) | 2:31 | 2022-08-31 |  |
 | [Another Dream](https://open.spotify.com/track/6ZUTsxms7QYaG06q37VRZp) | [ANNA](https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om) | [@0](https://open.spotify.com/album/0lzZgKs9XvoMHjPpBLWYA3) | 7:34 | 2021-11-24 | 2022-07-21 |
-| [Arboretum](https://open.spotify.com/track/2V0zmL125nc9w25OBdc2oT) | [Corimbo](https://open.spotify.com/artist/5jQIczzAJzOzwnNLFOwoI6) | [Anemophily](https://open.spotify.com/album/2YBYYYHaUb6d2I9EzBkcmt) | 3:43 | 2021-10-20 |  |
+| [Arboretum](https://open.spotify.com/track/2V0zmL125nc9w25OBdc2oT) | [Corimbo](https://open.spotify.com/artist/5jQIczzAJzOzwnNLFOwoI6) | [Anemophily](https://open.spotify.com/album/2YBYYYHaUb6d2I9EzBkcmt) | 3:43 | 2021-10-20 | 2022-09-04 |
 | [august 31st](https://open.spotify.com/track/0GyrNTSvyue6oLkUHmiSKa) | [Rachika Nayar](https://open.spotify.com/artist/6afqNtQw2IUvXw6JeIRgQZ) | [fragments](https://open.spotify.com/album/67EzhMUZJBwTnXpnnSY6Jx) | 2:31 | 2021-10-20 |  |
 | [august 31st](https://open.spotify.com/track/52Fe6gIiBQlJSZChf85bCZ) | [Rachika Nayar](https://open.spotify.com/artist/6afqNtQw2IUvXw6JeIRgQZ) | [august 31st](https://open.spotify.com/album/2aA9Uvevi3VkrpsVPnSkoU) | 2:31 | 2021-10-20 | 2022-07-29 |
 | [Austral](https://open.spotify.com/track/1ZR98iMSpoQd0G5PXYMf8B) | [Aeromancias](https://open.spotify.com/artist/3jiI4qEyqOZAmbB2VBB6tw) | [Auroras](https://open.spotify.com/album/6STaRwLyivZTQosFvfYQnt) | 3:41 | 2021-10-20 | 2022-07-22 |
@@ -41,6 +41,7 @@
 | [Behind the Eyes](https://open.spotify.com/track/7oFocF6NHEyASI4A8y0aCS) | [Daniel Pemberton](https://open.spotify.com/artist/7LbEDjJKrmWoMcN3OpaNnR), [FSOL](https://open.spotify.com/artist/3jOeWmwth0yR5cuXLWXNme) | [@0](https://open.spotify.com/album/0lzZgKs9XvoMHjPpBLWYA3) | 6:26 | 2021-11-24 | 2022-04-21 |
 | [Besides You](https://open.spotify.com/track/0Ux83HlRGB8O4DPFXMPuT3) | [Oatmello](https://open.spotify.com/artist/0YAkOkbeAPiS35qyouiM4O) | [Oliver](https://open.spotify.com/album/1Zy4HydcCJHo5KstRHgiRG) | 1:20 | 2021-10-20 | 2022-04-21 |
 | [Birdy Island](https://open.spotify.com/track/5NMOIpKNftWJ42W9wFGxct) | [Howie Lee](https://open.spotify.com/artist/5y2TmxjZITDjLsfUxjlkcD) | [Birdy Island](https://open.spotify.com/album/3n2XRVTEOWVzxs6o0NcXgJ) | 2:27 | 2021-10-20 | 2022-07-29 |
+| [Birki](https://open.spotify.com/track/7eVczwc5ifac0Refb83OFN) | [Jónsi](https://open.spotify.com/artist/3khg8RDB6nMuw34w1IHS6Y), [Kjartan Holm](https://open.spotify.com/artist/0BWRfTuCYTRzqnjYprarFo), [Sin Fang](https://open.spotify.com/artist/7xsi0kBJ58yWMu4WXFYPHU), [Alex Somers](https://open.spotify.com/artist/51UcKPhDKdKDGIjec0781x) | [Birki](https://open.spotify.com/album/45FNDz5cwraBbRazdMFdzP) | 4:03 | 2022-09-03 |  |
 | [blinding tunnel](https://open.spotify.com/track/14AP7MGqCLnJfLGsrwzrKR) | [Sownbones](https://open.spotify.com/artist/0gIMQx6hCQ9COuMORi6SWA) | [helpless](https://open.spotify.com/album/0tCBu2Dsa20w0msgy5IXsr) | 2:15 | 2022-01-19 | 2022-07-28 |
 | [Bloom](https://open.spotify.com/track/1B8uasCODGeSlXrFBCvjWy) | [Christopher Stracey](https://open.spotify.com/artist/3OtCzBJs5hFZapz4lY6aWa) | [Music for Growing Plants](https://open.spotify.com/album/3QsGjN0ERhyBi1IxXpNxhM) | 4:16 | 2021-10-20 | 2022-07-29 |
 | [Botanique](https://open.spotify.com/track/1pWIPbmvcqy9N06Bmasdfa) | [J Foerster](https://open.spotify.com/artist/4sRdSdPKzOOJa9WgBfTz6i), [N KRAMER](https://open.spotify.com/artist/6pY5KhflZwSO9L6Iq2A77t) | [Habitat](https://open.spotify.com/album/784eJcaYZn3cQXHkpQuqLN) | 9:10 | 2021-10-20 |  |

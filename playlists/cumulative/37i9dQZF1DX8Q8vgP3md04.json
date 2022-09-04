@@ -984,6 +984,24 @@
     },
     {
       "album": {
+        "name": "Welday Weni",
+        "url": "https://open.spotify.com/album/2KbxKjKmOB2IPUsDdGBb8z"
+      },
+      "artists": [
+        {
+          "name": "Liham Melody",
+          "url": "https://open.spotify.com/artist/4mgP2hXsnULBqWou6ld9rQ"
+        }
+      ],
+      "date_added": "2020-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265800,
+      "name": "Welday Weni",
+      "url": "https://open.spotify.com/track/7hFZoxd3fHB6kn3M2fZbgz"
+    },
+    {
+      "album": {
         "name": "Weni",
         "url": "https://open.spotify.com/album/7vdf2o4j9g5Yq6U1yxTJ5c"
       },
@@ -995,7 +1013,7 @@
       ],
       "date_added": "2020-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-04",
       "duration_ms": 261990,
       "name": "Weni",
       "url": "https://open.spotify.com/track/6p6EtFi1gebyBR0gkXYEbS"

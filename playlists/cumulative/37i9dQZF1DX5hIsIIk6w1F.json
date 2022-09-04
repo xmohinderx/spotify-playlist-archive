@@ -952,32 +952,6 @@
     },
     {
       "album": {
-        "name": "En la Nota",
-        "url": "https://open.spotify.com/album/3NRnS6ae3dUBaKkpG9tNyh"
-      },
-      "artists": [
-        {
-          "name": "Sayian Jimmy",
-          "url": "https://open.spotify.com/artist/3ZfYo6sKskRv0wOyrZZdAj"
-        },
-        {
-          "name": "JOSEPE EL DEMENTE",
-          "url": "https://open.spotify.com/artist/6t90cfIUQ39eOTksTUE0zc"
-        },
-        {
-          "name": "Nysix Music",
-          "url": "https://open.spotify.com/artist/5v0eLOwGUJuH1lvPSzw0xD"
-        }
-      ],
-      "date_added": "2022-05-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 190632,
-      "name": "En la Nota",
-      "url": "https://open.spotify.com/track/3J2NAVF14jCDD4ONe79Oj1"
-    },
-    {
-      "album": {
         "name": "Pa los Satiros, Vol. 1",
         "url": "https://open.spotify.com/album/3lrehR76ZVIXv6Osss20qt"
       },
@@ -2076,6 +2050,32 @@
     },
     {
       "album": {
+        "name": "Minions de 1.60",
+        "url": "https://open.spotify.com/album/3NRnS6ae3dUBaKkpG9tNyh"
+      },
+      "artists": [
+        {
+          "name": "Sayian Jimmy",
+          "url": "https://open.spotify.com/artist/3ZfYo6sKskRv0wOyrZZdAj"
+        },
+        {
+          "name": "JOSEPE EL DEMENTE",
+          "url": "https://open.spotify.com/artist/6t90cfIUQ39eOTksTUE0zc"
+        },
+        {
+          "name": "Nysix Music",
+          "url": "https://open.spotify.com/artist/5v0eLOwGUJuH1lvPSzw0xD"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190632,
+      "name": "Minions de 1.60",
+      "url": "https://open.spotify.com/track/3J2NAVF14jCDD4ONe79Oj1"
+    },
+    {
+      "album": {
         "name": "Pa K Te Enamore",
         "url": "https://open.spotify.com/album/1b1MIUkBs4F7Mhhx59Sbql"
       },
@@ -3157,6 +3157,10 @@
         {
           "name": "Sayian Jimmy",
           "url": "https://open.spotify.com/artist/3ZfYo6sKskRv0wOyrZZdAj"
+        },
+        {
+          "name": "Fran C",
+          "url": "https://open.spotify.com/artist/5NenY2Jl9wwLRxf86go4Y8"
         }
       ],
       "date_added": "2022-09-02",

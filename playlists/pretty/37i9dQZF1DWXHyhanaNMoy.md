@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 
 > De playlist voor magic, motion en summer vibes! Cover: Kleine John, JMANI & Jhorrmountain
 
-[Spotify](https://open.spotify.com/user/spotify) - 303,420 likes - 70 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 303,500 likes - 70 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 | 15 | [you](https://open.spotify.com/track/1U2fUzMkgprQoocKlYu3Oj) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [you](https://open.spotify.com/album/3R0Vj38qjC04rYeHLDPC2p) | 2:55 |
 | 16 | [Tempty](https://open.spotify.com/track/4J2t3e9qK5fPxvMqkuBY6E) | [Rhema & Bethel](https://open.spotify.com/artist/2mhQjvqnRV83cj1G1b8ToN) | [Tempty](https://open.spotify.com/album/4IvU6iu0w5I8gDNX9K9k3E) | 2:30 |
 | 17 | [Mijn Baby](https://open.spotify.com/track/2a2Dkwi2hOpjEo2JALKPXN) | [Jairzinho](https://open.spotify.com/artist/4owt1GWUqAh4gsXT13roop) | [Mijn Baby](https://open.spotify.com/album/1QIPelJFczpWwTC82DdJTW) | 2:06 |
-| 18 | [ICE \(feat\. Dopebwoy & Murda\)](https://open.spotify.com/track/2Drq3S61mlk0IJFWtQktyU) | [Bokoesam](https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI), [Dopebwoy](https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr), [Murda](https://open.spotify.com/artist/06HUwOHnsgjtP7F2CidMlq) | [Doe Het Nou Gewoon](https://open.spotify.com/album/6wn3ieYWJTHLV4qNhfewt1) | 3:08 |
+| 18 | [ICE \(feat\. Dopebwoy & Murda\)](https://open.spotify.com/track/2Drq3S61mlk0IJFWtQktyU) | [Bokoesam](https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI), [Dopebwoy](https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr), [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj) | [Doe Het Nou Gewoon](https://open.spotify.com/album/6wn3ieYWJTHLV4qNhfewt1) | 3:08 |
 | 19 | [No No No](https://open.spotify.com/track/6m7iJFdgcvd200qJtSa8Wx) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Julio Masidi](https://open.spotify.com/artist/2ZfpJTfi4q60zRUFWhll73) | [No No No](https://open.spotify.com/album/2RLByuKYaFE5awZkpjK03m) | 2:35 |
 | 20 | [Chupa Tonto](https://open.spotify.com/track/1xfiNgEAnLhwMJQdT829iL) | [Kya](https://open.spotify.com/artist/4C9S9vrrPc9RWGeA5X9jAr), [Finest Sno](https://open.spotify.com/artist/2jZdMwF6R1JW2QPNLwMcSz), [Chris Strick](https://open.spotify.com/artist/7poupxpx7K01XVTYoQruRZ) | [Chupa Tonto](https://open.spotify.com/album/2IU0d9EhLFTdpGm8KDHt73) | 2:14 |
 | 21 | [No Time](https://open.spotify.com/track/3LDGbBBS3Pg9NIBIz531Zr) | [I am Aisha](https://open.spotify.com/artist/1fTPAgBH6gCQZU9bBWVaOf), [Hansie](https://open.spotify.com/artist/3Xvu1Rur46ZO8HiE9hBuxl), [Cané](https://open.spotify.com/artist/5fCEdL4vmhOgT1d4wNmfSZ) | [No Time](https://open.spotify.com/album/0p2QHdJOsDXWzzbTsaZDhR) | 3:18 |

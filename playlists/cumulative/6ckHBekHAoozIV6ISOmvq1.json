@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "See also <a href=\"spotify:playlist:2z6FM4scrQ5lpsKId0jeki\">Intro</a>, <a href=\"spotify:playlist:1Z5SNtd1IWRRw3ESZfJZKe\">Pulse</a>, <a href=\"spotify:playlist:4pVcfz3aYYdCTMdwGHwJJs\">\u2640Filter</a> or <a href=\"spotify:playlist:3DM5dQj6WEb3mSuYsjW2p2\">2021</a>; or the Sounds of <a href=\"spotify:playlist:5WjxMg3QfWAmDH7I2MpMoT\">Troubadour</a>, <a href=\"spotify:playlist:6zc2HFPnDWeqqsBHhYEQER\">Trecento</a>, <a href=\"spotify:playlist:0evPZ6WIgSKYY2gnlfXIdA\">Renaissance</a>, <a href=\"spotify:playlist:2uc2oq6wQ8ZLSPmPr4qtte\">Early Music Ensemble</a>, <a href=\"spotify:playlist:0nqJegaRD3nkCjyIwg7mry\">Trouv\u00e8re</a>, <a href=\"spotify:playlist:0AVJ1UKXMQf244cvu4np0k\">Minnesang</a>, <a href=\"spotify:playlist:2UKjnmVx8ROXrNxIAeaE7M\">Ars subtilior</a>, <a href=\"spotify:playlist:0K86fmE0c0SFgz9GpwhwLm\">Early Music</a>, <a href=\"spotify:playlist:511MabrP35Zp3tqYh2G4iJ\">Medieval Ensemble</a> or <a href=\"spotify:playlist:1RatTJrho9K5z9OVCqeU7Z\">American Early Music</a>; or much more at <a href=\"http://everynoise.com\">everynoise.com</a>.",
+  "description": "See also <a href=\"spotify:playlist:2z6FM4scrQ5lpsKId0jeki\">Intro</a>, <a href=\"spotify:playlist:1Z5SNtd1IWRRw3ESZfJZKe\">Pulse</a>, <a href=\"spotify:playlist:4pVcfz3aYYdCTMdwGHwJJs\">\u2640Filter</a> or <a href=\"spotify:playlist:3DM5dQj6WEb3mSuYsjW2p2\">2021</a>; or the Sounds of <a href=\"spotify:playlist:2uc2oq6wQ8ZLSPmPr4qtte\">Early Music Ensemble</a>, <a href=\"spotify:playlist:5WjxMg3QfWAmDH7I2MpMoT\">Troubadour</a>, <a href=\"spotify:playlist:6zc2HFPnDWeqqsBHhYEQER\">Trecento</a>, <a href=\"spotify:playlist:0evPZ6WIgSKYY2gnlfXIdA\">Renaissance</a>, <a href=\"spotify:playlist:0nqJegaRD3nkCjyIwg7mry\">Trouv\u00e8re</a>, <a href=\"spotify:playlist:0AVJ1UKXMQf244cvu4np0k\">Minnesang</a>, <a href=\"spotify:playlist:2UKjnmVx8ROXrNxIAeaE7M\">Ars subtilior</a>, <a href=\"spotify:playlist:0K86fmE0c0SFgz9GpwhwLm\">Early Music</a>, <a href=\"spotify:playlist:511MabrP35Zp3tqYh2G4iJ\">Medieval Ensemble</a> or <a href=\"spotify:playlist:1RatTJrho9K5z9OVCqeU7Z\">American Early Music</a>; or much more at <a href=\"http://everynoise.com\">everynoise.com</a>.",
   "name": "The Sound of Medieval",
   "published_playlist_ids": [
     "5CGNkHqKFRMPH4a9UfC44H"
@@ -533,7 +533,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-09-04",
       "duration_ms": 192133,
       "name": "Abelard and Heloise, from Saint-Denis to the Paraclete Monastic Song: Planctus cigne",
       "url": "https://open.spotify.com/track/41oyolCorjqEA815BtB3f4"
@@ -585,7 +585,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-04",
       "duration_ms": 369613,
       "name": "Adan, vauries vous manoir",
       "url": "https://open.spotify.com/track/4YUDooWfszNlxoUQ5WJiUC"
@@ -1185,7 +1185,7 @@
       ],
       "date_added": "2021-07-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-03",
+      "date_removed": null,
       "duration_ms": 242226,
       "name": "Amour, tenson et bataille",
       "url": "https://open.spotify.com/track/5jFqkkOkTQFZmicM2RyS7G"
@@ -1285,7 +1285,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-02",
+      "date_removed": null,
       "duration_ms": 183813,
       "name": "Angnel son biancho",
       "url": "https://open.spotify.com/track/0KrzTJwsbO8maFxZNmbO6e"
@@ -1713,6 +1713,28 @@
       "duration_ms": 256573,
       "name": "Ay, amours! tant me dure (Chanson)",
       "url": "https://open.spotify.com/track/30CDULg2OlTaOdI6a5LC3Q"
+    },
+    {
+      "album": {
+        "name": "Vocal Music - 13Th Century Songs",
+        "url": "https://open.spotify.com/album/2EpVodRiQetCkLvq1egRfF"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wishart",
+          "url": "https://open.spotify.com/artist/5RSH1qwadcpKBMteHnqibD"
+        },
+        {
+          "name": "Sinfonye",
+          "url": "https://open.spotify.com/artist/3iPLDg3O8d7i2SZ6CYi3y1"
+        }
+      ],
+      "date_added": "2022-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 473533,
+      "name": "Azeruz",
+      "url": "https://open.spotify.com/track/3wbrCQVZSmp35DF5M4sTFH"
     },
     {
       "album": {
@@ -2215,7 +2237,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": "2022-08-27",
+      "date_removed": null,
       "duration_ms": 319533,
       "name": "Borlet: Tr\u00e9s doulz amis / Ma dame / Cent mille fois",
       "url": "https://open.spotify.com/track/6iM2rNvrl3yvHB2xb4SxFQ"
@@ -4932,6 +4954,28 @@
     },
     {
       "album": {
+        "name": "Vocal Music - Hildegard Of Bingen / Abelard, P. (Hildegard Von Bingen and Her Time) (Ensemble Fur Fruhe Musik Augsburg)",
+        "url": "https://open.spotify.com/album/5x2eLLZGzkBJ96m7PRHwxn"
+      },
+      "artists": [
+        {
+          "name": "Peter Abelard",
+          "url": "https://open.spotify.com/artist/7ItQ35Mxo31kplSuB3I0Be"
+        },
+        {
+          "name": "Augsburg Early Music Ensemble",
+          "url": "https://open.spotify.com/artist/7yf4UTd5fK3buVu0WOMn2d"
+        }
+      ],
+      "date_added": "2022-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 575773,
+      "name": "Dolorum solatium, \"Planctus David super Saul et Jonatha\"",
+      "url": "https://open.spotify.com/track/1hwLtifSNEpG9wMMoBQBsy"
+    },
+    {
+      "album": {
         "name": "Trecento",
         "url": "https://open.spotify.com/album/4BK9U26lr1GH3NQQvcX1oi"
       },
@@ -5875,6 +5919,28 @@
       "duration_ms": 253840,
       "name": "Francesco Landini: Altera luce",
       "url": "https://open.spotify.com/track/2dOAjronMPYV1EsugzOqCl"
+    },
+    {
+      "album": {
+        "name": "Altera Luce",
+        "url": "https://open.spotify.com/album/7p854mUrf9IR6yBdEjeP6l"
+      },
+      "artists": [
+        {
+          "name": "Francesco Landini",
+          "url": "https://open.spotify.com/artist/4yvZ9OueU8lXBhmon7qswI"
+        },
+        {
+          "name": "Currentes",
+          "url": "https://open.spotify.com/artist/0ikTVRtzMFJSrzEL9IZDtU"
+        }
+      ],
+      "date_added": "2022-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238586,
+      "name": "Francesco Landini: Nella partita",
+      "url": "https://open.spotify.com/track/2x7V71jZAXFga9Gpc1UhAe"
     },
     {
       "album": {
@@ -7089,7 +7155,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 393600,
       "name": "Istampita instrumentale \"Isabella\"",
       "url": "https://open.spotify.com/track/2BxgCzuSywAJ7rNWFoXPiA"
@@ -7711,6 +7777,32 @@
       "duration_ms": 497746,
       "name": "Keuschlich geboren",
       "url": "https://open.spotify.com/track/0y3aU4Jnm5yZoqxJID3aEj"
+    },
+    {
+      "album": {
+        "name": "Dunstable: Quam Pulchra Es / Veni Sancte Spiritus / Mass Movements",
+        "url": "https://open.spotify.com/album/42dF8lsWScG35n44SXsOdR"
+      },
+      "artists": [
+        {
+          "name": "John Dunstable",
+          "url": "https://open.spotify.com/artist/3DL7TTcfjDAJiDrhBl3q2H"
+        },
+        {
+          "name": "Tonus Peregrinus",
+          "url": "https://open.spotify.com/artist/0K8Dhx1lhmDJaD0kSFyCa8"
+        },
+        {
+          "name": "Antony Pitts",
+          "url": "https://open.spotify.com/artist/5S0hA6Bm22OipedKMmBuyJ"
+        }
+      ],
+      "date_added": "2022-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 373960,
+      "name": "Kyrie, JD 1",
+      "url": "https://open.spotify.com/track/0xAxqbtivaLnmjjLvg3UNX"
     },
     {
       "album": {
@@ -9183,7 +9275,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": "2022-08-27",
+      "date_removed": null,
       "duration_ms": 225640,
       "name": "Mayenzeit one Neidt",
       "url": "https://open.spotify.com/track/6iMWiImwzpVNkeCFhjaZgR"
@@ -10099,7 +10191,7 @@
       ],
       "date_added": "2018-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-04",
       "duration_ms": 225266,
       "name": "Nella partita",
       "url": "https://open.spotify.com/track/1OOjjMEXPmRnXzsv9dFK9V"
@@ -11217,7 +11309,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-04",
       "duration_ms": 241840,
       "name": "Ow\u00ea dirre n\u00f4t!",
       "url": "https://open.spotify.com/track/7M6q0jtU96kKmXPUoC2DG2"
@@ -11325,7 +11417,7 @@
       ],
       "date_added": "2021-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-04",
       "duration_ms": 212693,
       "name": "Par maintes foys",
       "url": "https://open.spotify.com/track/6o6g5gccAlcKLkurf54d7P"
@@ -12301,7 +12393,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-09-04",
       "duration_ms": 366813,
       "name": "Quand l'herba fresca",
       "url": "https://open.spotify.com/track/3CWQsGWF09wgPQipTLrAF5"
@@ -12345,7 +12437,7 @@
       ],
       "date_added": "2020-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-04",
       "duration_ms": 295640,
       "name": "Quand'Amor - Canzone",
       "url": "https://open.spotify.com/track/0Wuvf9euZ42qRxjDG0KXXH"
@@ -14099,7 +14191,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-09-04",
       "duration_ms": 182000,
       "name": "Todos los bienes del mundo",
       "url": "https://open.spotify.com/track/1JjZ3pD2CzUDrqHA7ODPJe"
@@ -14441,7 +14533,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-04",
       "duration_ms": 366533,
       "name": "Un pellegrin uccel",
       "url": "https://open.spotify.com/track/3s41PDslZxNSfumhIb6fnc"
@@ -14629,7 +14721,7 @@
       ],
       "date_added": "2022-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-04",
       "duration_ms": 416146,
       "name": "Veni Sancte Spiritus - Veni Creator, JD 32",
       "url": "https://open.spotify.com/track/2rTXmscEox4oRfQQdWQuNj"

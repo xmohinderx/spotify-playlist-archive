@@ -4,7 +4,7 @@
 
 > Driving songs acoustic style! Sit back and enjoy the ride!
 
-126 songs - 6 hr 56 min - [published](https://open.spotify.com/playlist/5MsbhDGASEPC66ln3S63Ff)
+127 songs - 7 hr 0 min - [published](https://open.spotify.com/playlist/5MsbhDGASEPC66ln3S63Ff)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Caribbean Queen \(No More Love On the Run\) \- Acoustic](https://open.spotify.com/track/7oV56aXB66nKU3AhLymIaK) | [Callum J Wright](https://open.spotify.com/artist/47KiS7rrEXolpFicX0aTGe) | [Caribbean Queen \(No More Love On the Run\) \[Acoustic\]](https://open.spotify.com/album/4B1Wsc2Fyt6li4X0dOR6RQ) | 2:36 | 2022-07-15 |  |
 | [Champagne Supernova \- Acoustic](https://open.spotify.com/track/4u4a98HYVpQjhF66sRNMZK) | [Blame Jones](https://open.spotify.com/artist/4FCvYJ06Q8c4AScPG501KY) | [Covers Vol\. 1 \(Acoustic\)](https://open.spotify.com/album/2iKra1NUEayECHIBkJ2sz1) | 2:43 | 2019-10-13 |  |
 | [Chasing Cars](https://open.spotify.com/track/2EDYchd8hhwAOWKGQxJoro) | [Sleeping At Last](https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g) | [Chasing Cars](https://open.spotify.com/album/09dM9UZeA5l3Hyd5cGe6Td) | 4:00 | 2019-10-13 |  |
+| [Crazy Love \- Acoustic](https://open.spotify.com/track/5OnYymymXaoxjTEEOjqcae) | [Laurence O’Brien](https://open.spotify.com/artist/71rzE2Y74EDwYYSf1J8osl) | [Crazy Love \(Acoustic\)](https://open.spotify.com/album/7hKQ20375hBvYSKqoLpjG4) | 3:07 | 2022-09-03 |  |
 | [Creep](https://open.spotify.com/track/7BRwh1bemr9rFMDeTbcy5S) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [Creep](https://open.spotify.com/album/2XbaujqgmPJn92LT1wbKRe) | 3:54 | 2019-10-13 |  |
 | [Dancing in the Moonlight \- Acoustic](https://open.spotify.com/track/15ITqJqQ7f3EW9HmSQnzR4) | [Mateo Oxley](https://open.spotify.com/artist/1BJ81QRILzVFcTt8fmqN9r) | [Dancing in the Moonlight \(Acoustic\)](https://open.spotify.com/album/0ldEDXECSxV2KJrwScStqq) | 2:59 | 2021-10-01 |  |
 | [Dignity \- Acoustic](https://open.spotify.com/track/6WaOpI5POr5KaIFiOTIb1E) | [Richard Watts](https://open.spotify.com/artist/3cGb8b9Zwvka0MWD5RyMDI) | [Dignity \(Acoustic\)](https://open.spotify.com/album/79Dxyo0UTmGpOn14wgQWDM) | 2:53 | 2021-05-28 |  |

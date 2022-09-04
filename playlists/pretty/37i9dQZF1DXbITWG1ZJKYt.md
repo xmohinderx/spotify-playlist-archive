@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbITWG1ZJKYt.md) - [plain]
 
 > The best tunes in jazz history\. Cover: Louis Armstrong
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,657,653 likes - 250 songs - 21 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,656,581 likes - 250 songs - 21 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

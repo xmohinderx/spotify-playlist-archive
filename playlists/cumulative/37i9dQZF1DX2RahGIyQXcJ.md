@@ -4,7 +4,7 @@
 
 > Celebrating South Asian Heritage Month with Divine's favourite tracks by South Asian creators.
 
-126 songs - 7 hr 24 min - [published](https://open.spotify.com/playlist/6197j99ueBobh4gmxMLKTT)
+127 songs - 7 hr 27 min - [published](https://open.spotify.com/playlist/6197j99ueBobh4gmxMLKTT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,8 @@
 | [Nazar](https://open.spotify.com/track/0U1CGHIqvoWbgCX5x4tKs6) | [Faris Shafi](https://open.spotify.com/artist/1LAdnp9wIdKClX7Cool0GD) | [Nazar](https://open.spotify.com/album/0Dhgn3D9EJgpOvqsNMfnM6) | 5:00 | 2022-07-18 |  |
 | [Neeye Oli](https://open.spotify.com/track/5qX9iF6UmV0cypQgeu4ujh) | [Shan Vincent De Paul](https://open.spotify.com/artist/0pJlp3FfdJ2WRYmLsUc548), [Navz\-47](https://open.spotify.com/artist/1COjjFgtQEz2oxPHF6XIuu), [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6) | [Made in Jaffna](https://open.spotify.com/album/4fzYyzg0c0c6pFXHOnCVjO) | 3:57 | 2022-07-18 |  |
 | [No Competition](https://open.spotify.com/track/0kCdXeYJS3wyhcvOonRmeg) | [Jass Manak](https://open.spotify.com/artist/2P9JaCtpbQSuZOgvtPrUJ8), [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz) | [No Competition](https://open.spotify.com/album/1GevUNaMdstuVEgnRpzhe1) | 3:25 | 2021-12-03 | 2022-07-19 |
-| [NO LOVE](https://open.spotify.com/track/5B4YQN1FCuADJ0o4phAtwC) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [NO LOVE](https://open.spotify.com/album/71z4Ni4FHsAUWpcy1oFmOT) | 2:50 | 2022-05-19 |  |
+| [NO LOVE](https://open.spotify.com/track/08Isz2ETWSBhvIl8UpKYsp) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [No Love](https://open.spotify.com/album/5Zcgog7sQ79ISF32y9nABU) | 2:50 | 2022-07-18 |  |
+| [NO LOVE](https://open.spotify.com/track/5B4YQN1FCuADJ0o4phAtwC) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [NO LOVE](https://open.spotify.com/album/71z4Ni4FHsAUWpcy1oFmOT) | 2:50 | 2022-05-19 | 2022-09-04 |
 | [Notorious](https://open.spotify.com/track/0e9DDb2TnNwSv8lV1EpMuD) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ) | [Notorious](https://open.spotify.com/album/253mOxWcguZZ8DyhCl5rQ5) | 3:00 | 2021-12-03 | 2022-07-19 |
 | [On My Way](https://open.spotify.com/track/00qW70gFKPL4vetGsJ44gB) | [Imran Khan](https://open.spotify.com/artist/24BYRlsS8uIO4jA71mJ4Js), [M.E.E.Z](https://open.spotify.com/artist/0EApWAg3HC8VBdCKKGxapM) | [On My Way](https://open.spotify.com/album/3swSYkClej6IgR1AWPpzbS) | 3:31 | 2022-02-24 | 2022-04-08 |
 | [Oorukaaran](https://open.spotify.com/track/72OE3wxjzKlgiqYyKxmJxo) | [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q), [ERA](https://open.spotify.com/artist/2CRQKvuqKw8euASgmEJE6p), [Chinna Ponnu](https://open.spotify.com/artist/23FJvNYt7vCPHtpOQUzDN0) | [Oorukaaran](https://open.spotify.com/album/46Mi0QEBqykFh6kwkZ6qxs) | 2:38 | 2022-07-18 |  |
