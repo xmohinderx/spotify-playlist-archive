@@ -1603,6 +1603,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Greener Pastures](/playlists/pretty/37i9dQZF1DXdDIhtzn7T2e.md)
 - [Grime Shutdown](/playlists/pretty/37i9dQZF1DWSOkubnsDCSS.md)
 - [Grimes Radio](/playlists/pretty/37i9dQZF1E4vLyj0srrBvo.md)
+- [Grindstone Mix v2](/playlists/pretty/1SM8IZ5aPl2wVazZIUOb0H.md)
 - [Groove Theory](/playlists/pretty/37i9dQZF1DX1tW4VlEfDSS.md)
 - [Grrrls To The Front](/playlists/pretty/37i9dQZF1DXbKBGX7pVGFC.md)
 - [Grunge Forever](/playlists/pretty/37i9dQZF1DX11ghcIxjcjE.md)
