@@ -1,12 +1,12 @@
 {
   "description": "Blues guitar heroes of today. Cover: Kirk Fletcher",
-  "num_followers": 13422,
+  "num_followers": 13423,
   "original_name": "Modern Blues Guitar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MjQxNDUyMCwwMDAwMDAwMDhlNDNlYWM0MWUzZTA0YjcyMmQ3ZDY0Yzc3MmZjMWQz",
+  "snapshot_id": "MTY1MjQxNDUyMCwwMDAwMDAwMGM5YzJkNWY4MjAyNDE4NWQyYjUyZDNmNjY4YzZjNWE1",
   "tracks": [
     {
       "added_at": "2020-10-21 17:37:12",
@@ -367,22 +367,6 @@
     {
       "added_at": "2020-10-21 17:37:12",
       "album": {
-        "name": "This Land",
-        "url": "https://open.spotify.com/album/6pwdy6oQdwSQo8XOfpfAJJ"
-      },
-      "artists": [
-        {
-          "name": "Gary Clark Jr.",
-          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
-        }
-      ],
-      "duration_ms": 157413,
-      "name": "Got to Get Up",
-      "url": "https://open.spotify.com/track/4UPWcafmoDHKZziDsTumP3"
-    },
-    {
-      "added_at": "2020-10-21 17:37:12",
-      "album": {
         "name": "Anything But Time",
         "url": "https://open.spotify.com/album/2YmvbKfSf2JCQlyejspiF2"
       },
@@ -395,22 +379,6 @@
       "duration_ms": 218413,
       "name": "Anything But Time",
       "url": "https://open.spotify.com/track/1J5fzW3OKVHJKPvL6dBByE"
-    },
-    {
-      "added_at": "2020-10-21 17:37:12",
-      "album": {
-        "name": "The Traveler",
-        "url": "https://open.spotify.com/album/2Y84Mm4NzY5TzbdR1ub9Ow"
-      },
-      "artists": [
-        {
-          "name": "Kenny Wayne Shepherd",
-          "url": "https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p"
-        }
-      ],
-      "duration_ms": 387706,
-      "name": "I Want You",
-      "url": "https://open.spotify.com/track/7LcaMnxskCb9tvxggOBR2O"
     },
     {
       "added_at": "2020-10-21 17:37:12",
@@ -431,6 +399,38 @@
       "duration_ms": 259906,
       "name": "Something's Gotta Give",
       "url": "https://open.spotify.com/track/2HYRDy22RodG4Kp8DtsdDU"
+    },
+    {
+      "added_at": "2020-10-21 17:37:12",
+      "album": {
+        "name": "The Traveler",
+        "url": "https://open.spotify.com/album/2Y84Mm4NzY5TzbdR1ub9Ow"
+      },
+      "artists": [
+        {
+          "name": "Kenny Wayne Shepherd",
+          "url": "https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p"
+        }
+      ],
+      "duration_ms": 387706,
+      "name": "I Want You",
+      "url": "https://open.spotify.com/track/7LcaMnxskCb9tvxggOBR2O"
+    },
+    {
+      "added_at": "2020-10-21 17:37:12",
+      "album": {
+        "name": "This Land",
+        "url": "https://open.spotify.com/album/6pwdy6oQdwSQo8XOfpfAJJ"
+      },
+      "artists": [
+        {
+          "name": "Gary Clark Jr.",
+          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
+        }
+      ],
+      "duration_ms": 157413,
+      "name": "Got to Get Up",
+      "url": "https://open.spotify.com/track/4UPWcafmoDHKZziDsTumP3"
     },
     {
       "added_at": "2020-10-21 17:37:12",
@@ -805,52 +805,20 @@
       "url": "https://open.spotify.com/track/706ZgJOItrsyuJFLvh2JKl"
     },
     {
-      "added_at": "2021-06-04 04:01:00",
+      "added_at": "2021-09-03 04:01:00",
       "album": {
-        "name": "Shufflin' West Coast",
-        "url": "https://open.spotify.com/album/0xU6562s9LeTyv9dvqFUw0"
+        "name": "Clawhammer",
+        "url": "https://open.spotify.com/album/1ZzwjyLk0uWUYsdMDxXkIS"
       },
       "artists": [
         {
-          "name": "David Garfield",
-          "url": "https://open.spotify.com/artist/3RPnyf7t9phTwwSzQgaZYb"
-        },
-        {
-          "name": "Albert Lee",
-          "url": "https://open.spotify.com/artist/3YMlcBYj21DcMALlALTO7m"
-        },
-        {
-          "name": "Tim Pierce",
-          "url": "https://open.spotify.com/artist/5ViJHAJBhLL7J9WNR1uPDN"
-        },
-        {
-          "name": "James Harrah",
-          "url": "https://open.spotify.com/artist/4XonxCeLqWlDlpztAyCZb4"
-        },
-        {
-          "name": "Johnny Lee Schell",
-          "url": "https://open.spotify.com/artist/5LAFSMKY4RMw192jHeaBRi"
-        },
-        {
-          "name": "Toshi Yanagi",
-          "url": "https://open.spotify.com/artist/0H2cYrALxabRKcAJdF6EKj"
-        },
-        {
-          "name": "Michael Thompson",
-          "url": "https://open.spotify.com/artist/3s4aVgqEf5mdv6ubR7nwfE"
-        },
-        {
-          "name": "Brent Mason",
-          "url": "https://open.spotify.com/artist/1oO9xG0YRXpZdXseGgNlFk"
-        },
-        {
-          "name": "Paul Franklin",
-          "url": "https://open.spotify.com/artist/2d5aRKZTJgcuetYRNzKDrA"
+          "name": "Ariel Posen",
+          "url": "https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y"
         }
       ],
-      "duration_ms": 262536,
-      "name": "Shufflin' West Coast",
-      "url": "https://open.spotify.com/track/35znJMAm3GhjLwY9o3KiSG"
+      "duration_ms": 270370,
+      "name": "Clawhammer",
+      "url": "https://open.spotify.com/track/3LHH5SAytvRIzj2i3XKvLU"
     },
     {
       "added_at": "2020-10-21 17:37:12",

@@ -1,12 +1,12 @@
 {
   "description": "Aumente o volume e ou\u00e7a as bandas que est\u00e3o com tudo no rock! Foto: Slipknot",
-  "num_followers": 705047,
+  "num_followers": 705201,
   "original_name": "Volume M\u00e1ximo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjA4NzY2MCwwMDAwMDAwMDExZjU5MjdmZTljMDk2ZTY4NWExZDI2N2NjYjQ3ODcz",
+  "snapshot_id": "MTY2MjA4NzY2MCwwMDAwMDAwMDgzNTc2MGQxYWRmMGVlMmRkNTIxMzBkZmE0ZmE4ZTEw",
   "tracks": [
     {
       "added_at": "2022-09-02 03:01:00",
@@ -195,6 +195,22 @@
     {
       "added_at": "2022-09-02 03:01:00",
       "album": {
+        "name": "Pass The Nirvana",
+        "url": "https://open.spotify.com/album/50eq5hUKnqB9e51D9GSmKs"
+      },
+      "artists": [
+        {
+          "name": "Pierce The Veil",
+          "url": "https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv"
+        }
+      ],
+      "duration_ms": 197374,
+      "name": "Pass The Nirvana",
+      "url": "https://open.spotify.com/track/5SDhI2jKg0S5fzEEqPCHiV"
+    },
+    {
+      "added_at": "2022-09-02 03:01:00",
+      "album": {
         "name": "Bad Habits (feat. Bring Me The Horizon)",
         "url": "https://open.spotify.com/album/6YaoDGq5SqvjU4D9oMFj2d"
       },
@@ -315,22 +331,6 @@
       "duration_ms": 198849,
       "name": "Will Of The People",
       "url": "https://open.spotify.com/track/3EDKy3jIiw1OJqqZcdOCxm"
-    },
-    {
-      "added_at": "2022-09-02 03:01:00",
-      "album": {
-        "name": "Pass The Nirvana",
-        "url": "https://open.spotify.com/album/50eq5hUKnqB9e51D9GSmKs"
-      },
-      "artists": [
-        {
-          "name": "Pierce The Veil",
-          "url": "https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv"
-        }
-      ],
-      "duration_ms": 197374,
-      "name": "Pass The Nirvana",
-      "url": "https://open.spotify.com/track/5SDhI2jKg0S5fzEEqPCHiV"
     },
     {
       "added_at": "2022-09-02 03:01:00",
@@ -507,18 +507,18 @@
     {
       "added_at": "2022-09-02 03:01:00",
       "album": {
-        "name": "Fear Of The Dawn",
-        "url": "https://open.spotify.com/album/46qeiLBu3KwqFQpJBT7t6B"
+        "name": "\u00d8F KINGD\u00d8M AND CR\u00d8WN",
+        "url": "https://open.spotify.com/album/6duwuU8xgK7ShKMCrUxfBi"
       },
       "artists": [
         {
-          "name": "Jack White",
-          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
         }
       ],
-      "duration_ms": 214842,
-      "name": "What's the Trick?",
-      "url": "https://open.spotify.com/track/14FW5L81Px03LnnsXnB2LG"
+      "duration_ms": 258465,
+      "name": "N\u00d8 G\u00d8DS, N\u00d8 MASTERS",
+      "url": "https://open.spotify.com/track/7nJMvNlDpJShN4HJNJ97Gh"
     },
     {
       "added_at": "2022-09-02 03:01:00",
@@ -539,18 +539,18 @@
     {
       "added_at": "2022-09-02 03:01:00",
       "album": {
-        "name": "\u00d8F KINGD\u00d8M AND CR\u00d8WN",
-        "url": "https://open.spotify.com/album/6duwuU8xgK7ShKMCrUxfBi"
+        "name": "Fear Of The Dawn",
+        "url": "https://open.spotify.com/album/46qeiLBu3KwqFQpJBT7t6B"
       },
       "artists": [
         {
-          "name": "Machine Head",
-          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+          "name": "Jack White",
+          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
         }
       ],
-      "duration_ms": 258465,
-      "name": "N\u00d8 G\u00d8DS, N\u00d8 MASTERS",
-      "url": "https://open.spotify.com/track/7nJMvNlDpJShN4HJNJ97Gh"
+      "duration_ms": 214842,
+      "name": "What's the Trick?",
+      "url": "https://open.spotify.com/track/14FW5L81Px03LnnsXnB2LG"
     },
     {
       "added_at": "2022-09-02 03:01:00",
@@ -663,22 +663,6 @@
     {
       "added_at": "2022-09-02 03:01:00",
       "album": {
-        "name": "Echo",
-        "url": "https://open.spotify.com/album/5pCBuV5mhXIUonyuWL5EZd"
-      },
-      "artists": [
-        {
-          "name": "Of Mice & Men",
-          "url": "https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA"
-        }
-      ],
-      "duration_ms": 199250,
-      "name": "Echo",
-      "url": "https://open.spotify.com/track/5ghRFXY8wDBM3tht7Qvxp3"
-    },
-    {
-      "added_at": "2022-09-02 03:01:00",
-      "album": {
         "name": "Everything We Need",
         "url": "https://open.spotify.com/album/45iFc2ouMdWTuxImSsjaJF"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 185200,
       "name": "Everything We Need",
       "url": "https://open.spotify.com/track/5oKBOiiJceLlAEQ4VaVe8p"
+    },
+    {
+      "added_at": "2022-09-02 03:01:00",
+      "album": {
+        "name": "Echo",
+        "url": "https://open.spotify.com/album/5pCBuV5mhXIUonyuWL5EZd"
+      },
+      "artists": [
+        {
+          "name": "Of Mice & Men",
+          "url": "https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA"
+        }
+      ],
+      "duration_ms": 199250,
+      "name": "Echo",
+      "url": "https://open.spotify.com/track/5ghRFXY8wDBM3tht7Qvxp3"
     },
     {
       "added_at": "2022-09-02 03:01:00",
@@ -711,8 +711,8 @@
     {
       "added_at": "2022-09-02 03:01:00",
       "album": {
-        "name": "Limbo",
-        "url": "https://open.spotify.com/album/0xzwaeIpyKeCIPKxSyhxNE"
+        "name": "Typhoons",
+        "url": "https://open.spotify.com/album/547UjN7nCN4L5rQgolzHQn"
       },
       "artists": [
         {
@@ -720,9 +720,9 @@
           "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
         }
       ],
-      "duration_ms": 293093,
-      "name": "Limbo",
-      "url": "https://open.spotify.com/track/5nUrlBwZiaPcCKpBM7iT1W"
+      "duration_ms": 236933,
+      "name": "Typhoons",
+      "url": "https://open.spotify.com/track/6BsZx9FarJrLddTNu2k6pU"
     },
     {
       "added_at": "2022-09-02 03:01:00",
@@ -807,8 +807,8 @@
     {
       "added_at": "2022-09-02 03:01:00",
       "album": {
-        "name": "Typhoons",
-        "url": "https://open.spotify.com/album/547UjN7nCN4L5rQgolzHQn"
+        "name": "Limbo",
+        "url": "https://open.spotify.com/album/0xzwaeIpyKeCIPKxSyhxNE"
       },
       "artists": [
         {
@@ -816,9 +816,9 @@
           "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
         }
       ],
-      "duration_ms": 236933,
-      "name": "Typhoons",
-      "url": "https://open.spotify.com/track/6BsZx9FarJrLddTNu2k6pU"
+      "duration_ms": 293093,
+      "name": "Limbo",
+      "url": "https://open.spotify.com/track/5nUrlBwZiaPcCKpBM7iT1W"
     },
     {
       "added_at": "2022-09-02 03:01:00",
@@ -887,6 +887,22 @@
     {
       "added_at": "2022-09-02 03:01:00",
       "album": {
+        "name": "CRAWLER",
+        "url": "https://open.spotify.com/album/1WXcTQXt1jeF5VGUNAeySv"
+      },
+      "artists": [
+        {
+          "name": "IDLES",
+          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
+        }
+      ],
+      "duration_ms": 260519,
+      "name": "Crawl!",
+      "url": "https://open.spotify.com/track/3wev7PYoYj9UZlMmlpda57"
+    },
+    {
+      "added_at": "2022-09-02 03:01:00",
+      "album": {
         "name": "Leeches",
         "url": "https://open.spotify.com/album/57CQYU02aEtsqazAwDllv7"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 212623,
       "name": "Leeches",
       "url": "https://open.spotify.com/track/54wyAgc6pQzXTBOjgN38vg"
-    },
-    {
-      "added_at": "2022-09-02 03:01:00",
-      "album": {
-        "name": "CRAWLER",
-        "url": "https://open.spotify.com/album/1WXcTQXt1jeF5VGUNAeySv"
-      },
-      "artists": [
-        {
-          "name": "IDLES",
-          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
-        }
-      ],
-      "duration_ms": 260519,
-      "name": "Crawl!",
-      "url": "https://open.spotify.com/track/3wev7PYoYj9UZlMmlpda57"
     },
     {
       "added_at": "2022-09-02 03:01:00",
@@ -959,18 +959,18 @@
     {
       "added_at": "2022-09-02 03:01:00",
       "album": {
-        "name": "Ultraviolet",
-        "url": "https://open.spotify.com/album/2MWqoKEtRYGanPzg05WKHS"
+        "name": "Disparity",
+        "url": "https://open.spotify.com/album/2aI7O7ukQBWxfMimo9pUo8"
       },
       "artists": [
         {
-          "name": "Silverstein",
-          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
+          "name": "Oceans Ate Alaska",
+          "url": "https://open.spotify.com/artist/48zUWAXpgEXfpttz23pCNQ"
         }
       ],
-      "duration_ms": 173600,
-      "name": "Ultraviolet",
-      "url": "https://open.spotify.com/track/33x3Y8oLC0rpAIwACzdyyN"
+      "duration_ms": 201026,
+      "name": "Sol",
+      "url": "https://open.spotify.com/track/3Svbk7PnKp2hKqViRCti7S"
     },
     {
       "added_at": "2022-09-02 03:01:00",
@@ -1003,6 +1003,22 @@
       "duration_ms": 213774,
       "name": "BURIED ALIVE",
       "url": "https://open.spotify.com/track/6sSxm01OMK2yfX7bfTiFXl"
+    },
+    {
+      "added_at": "2022-09-02 03:01:00",
+      "album": {
+        "name": "Ultraviolet",
+        "url": "https://open.spotify.com/album/2MWqoKEtRYGanPzg05WKHS"
+      },
+      "artists": [
+        {
+          "name": "Silverstein",
+          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
+        }
+      ],
+      "duration_ms": 173600,
+      "name": "Ultraviolet",
+      "url": "https://open.spotify.com/track/33x3Y8oLC0rpAIwACzdyyN"
     },
     {
       "added_at": "2022-09-02 03:01:00",
@@ -1107,22 +1123,6 @@
     {
       "added_at": "2022-09-02 03:01:00",
       "album": {
-        "name": "Gifts From The Holy Ghost",
-        "url": "https://open.spotify.com/album/4kfE0W36et9sZgbRHNjHdl"
-      },
-      "artists": [
-        {
-          "name": "Dorothy",
-          "url": "https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up"
-        }
-      ],
-      "duration_ms": 215593,
-      "name": "A Beautiful Life",
-      "url": "https://open.spotify.com/track/4lcQ64FgH8aBhBfx19jlA4"
-    },
-    {
-      "added_at": "2022-09-02 03:01:00",
-      "album": {
         "name": "Valley of Vision",
         "url": "https://open.spotify.com/album/0cic8h13yxw8lAa92BXXC4"
       },
@@ -1135,6 +1135,22 @@
       "duration_ms": 170710,
       "name": "Valley of Vision",
       "url": "https://open.spotify.com/track/6jse2wNXoAE1zxk9lvZzIB"
+    },
+    {
+      "added_at": "2022-09-02 03:01:00",
+      "album": {
+        "name": "Gifts From The Holy Ghost",
+        "url": "https://open.spotify.com/album/4kfE0W36et9sZgbRHNjHdl"
+      },
+      "artists": [
+        {
+          "name": "Dorothy",
+          "url": "https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up"
+        }
+      ],
+      "duration_ms": 215593,
+      "name": "A Beautiful Life",
+      "url": "https://open.spotify.com/track/4lcQ64FgH8aBhBfx19jlA4"
     },
     {
       "added_at": "2022-09-02 03:01:00",
@@ -1155,6 +1171,22 @@
     {
       "added_at": "2022-09-02 03:01:00",
       "album": {
+        "name": "Bitter",
+        "url": "https://open.spotify.com/album/0Aw2OPlsqTl8LSXIB7q1BI"
+      },
+      "artists": [
+        {
+          "name": "Outline In Color",
+          "url": "https://open.spotify.com/artist/6drAKOLWO1vzBrdmJmg5SE"
+        }
+      ],
+      "duration_ms": 185880,
+      "name": "Bitter",
+      "url": "https://open.spotify.com/track/5dpaPvjs0mo0DGtpl2PzRJ"
+    },
+    {
+      "added_at": "2022-09-02 03:01:00",
+      "album": {
         "name": "Looking Tragic / Begging For Trouble",
         "url": "https://open.spotify.com/album/1hKjd2OnD0fXSWVsl80M74"
       },
@@ -1167,22 +1199,6 @@
       "duration_ms": 157894,
       "name": "Looking Tragic",
       "url": "https://open.spotify.com/track/3Sacn9UUjr7ksQaTAoYIKg"
-    },
-    {
-      "added_at": "2022-09-02 03:01:00",
-      "album": {
-        "name": "Disparity",
-        "url": "https://open.spotify.com/album/2aI7O7ukQBWxfMimo9pUo8"
-      },
-      "artists": [
-        {
-          "name": "Oceans Ate Alaska",
-          "url": "https://open.spotify.com/artist/48zUWAXpgEXfpttz23pCNQ"
-        }
-      ],
-      "duration_ms": 201026,
-      "name": "Sol",
-      "url": "https://open.spotify.com/track/3Svbk7PnKp2hKqViRCti7S"
     },
     {
       "added_at": "2022-09-02 03:01:00",
@@ -1267,22 +1283,6 @@
       "duration_ms": 213389,
       "name": "Um Grito de Paz",
       "url": "https://open.spotify.com/track/6yGHySxpWPTPsq0dndxHdo"
-    },
-    {
-      "added_at": "2022-09-02 03:01:00",
-      "album": {
-        "name": "Bitter",
-        "url": "https://open.spotify.com/album/0Aw2OPlsqTl8LSXIB7q1BI"
-      },
-      "artists": [
-        {
-          "name": "Outline In Color",
-          "url": "https://open.spotify.com/artist/6drAKOLWO1vzBrdmJmg5SE"
-        }
-      ],
-      "duration_ms": 185880,
-      "name": "Bitter",
-      "url": "https://open.spotify.com/track/5dpaPvjs0mo0DGtpl2PzRJ"
     }
   ],
   "unique_name": "Volume M\u00e1ximo",

@@ -1,12 +1,12 @@
 {
   "description": "Funk. But heavier. Cover: King's X",
-  "num_followers": 447968,
+  "num_followers": 447582,
   "original_name": "Funk Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDg4MTcyMCwwMDAwMDAwMDRiMGZjNmI4OWIxM2ZlZTYyODRhZTAzMTNkYTExOTIx",
+  "snapshot_id": "MTY2MDg4MTcyMCwwMDAwMDAwMDY5MWQzMzIwMDhkNzgxODIxMTJkNmY2OGMyZDZhZTVi",
   "tracks": [
     {
       "added_at": "2022-08-19 04:02:00",
@@ -571,6 +571,22 @@
     {
       "added_at": "2022-02-04 05:02:00",
       "album": {
+        "name": "Low (2017 Remaster)",
+        "url": "https://open.spotify.com/album/2de6LD7eOW8zrlorbS28na"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "duration_ms": 112400,
+      "name": "Breaking Glass - 2017 Remaster",
+      "url": "https://open.spotify.com/track/2xFq7wVYKmTHFUySyfv789"
+    },
+    {
+      "added_at": "2022-02-04 05:02:00",
+      "album": {
         "name": "The Best of Eric Burdon & War",
         "url": "https://open.spotify.com/album/0Pm5PksODNsUnZjy9ia4Nc"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 237400,
       "name": "Tobacco Road",
       "url": "https://open.spotify.com/track/4qEOCUBvjk1za4pDYWFsab"
-    },
-    {
-      "added_at": "2022-02-04 05:02:00",
-      "album": {
-        "name": "Low (2017 Remaster)",
-        "url": "https://open.spotify.com/album/2de6LD7eOW8zrlorbS28na"
-      },
-      "artists": [
-        {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
-        }
-      ],
-      "duration_ms": 112400,
-      "name": "Breaking Glass - 2017 Remaster",
-      "url": "https://open.spotify.com/track/2xFq7wVYKmTHFUySyfv789"
     },
     {
       "added_at": "2022-02-04 05:02:00",

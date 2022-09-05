@@ -4,7 +4,7 @@
 
 > Electro tunes for your virtual world.
 
-286 songs - 16 hr 35 min - [published](https://open.spotify.com/playlist/6nn5hAdMA0a7KkNWl7rEwD)
+287 songs - 16 hr 40 min - [published](https://open.spotify.com/playlist/6nn5hAdMA0a7KkNWl7rEwD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [butterfly](https://open.spotify.com/track/6xSQvaAFhYuovcKgE4ZSi5) | [Snail's House](https://open.spotify.com/artist/29O9ZebFa65aIEvMaW5pQY) | [Imaginarium](https://open.spotify.com/album/2FT3brbwyqJ3mthpsximfk) | 4:15 | 2022-07-14 | 2022-08-06 |
 | [By Any Means](https://open.spotify.com/track/4ujMVHJLXuXcbl6IVQuAky) | [Wavedash](https://open.spotify.com/artist/1SlTeYo2NYg93bGqlQYkwE) | [By Any Means](https://open.spotify.com/album/5ohL7WaCltXYfWIQsnVEZm) | 4:29 | 2022-01-07 | 2022-07-29 |
 | [Call My Name](https://open.spotify.com/track/2RTSOgbEyShCnvxsHbCC7D) | [Leah Culver](https://open.spotify.com/artist/0KEExJc1NKwmzJxQHbbkts) | [Call My Name](https://open.spotify.com/album/7klufynHglkdPiPu82O4wB) | 3:03 | 2022-03-25 | 2022-07-27 |
+| [Call On Me \(feat\. Vancouver Sleep Clinic\)](https://open.spotify.com/track/6IhHyxeOqS6LKgP2Lawj55) | [Seven Lions](https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp), [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [Call On Me \(feat\. Vancouver Sleep Clinic\)](https://open.spotify.com/album/36qsZ0ZS3zVec6Bg8nRubI) | 4:53 | 2022-09-02 |  |
 | [Can't Forget](https://open.spotify.com/track/43fYV59PPeDZ0dyoUG5QiB) | [jav3x](https://open.spotify.com/artist/0nHGg797sccUrCQxMC8Gn5), [GhostDragon](https://open.spotify.com/artist/2SfDAbVDU8yzrJeHENAM6O), [Daye](https://open.spotify.com/artist/60osBGZW2H9FtEecIfybMt) | [Can't Forget](https://open.spotify.com/album/4nRYVWb3uSzqZAdKguFXne) | 3:46 | 2022-07-14 |  |
 | [Can't Sleep Alone At Night](https://open.spotify.com/track/7BBzoOS8HR4zdlk1y0VNBB) | [Leotrix](https://open.spotify.com/artist/3mVL1qynaYs31rgyDTytkS) | [Reload EP](https://open.spotify.com/album/6ImjX7QeTg1JljGIawFWWP) | 2:58 | 2022-01-28 |  |
 | [Carbonara](https://open.spotify.com/track/1e4VuceNyO8lxcrA0nX0MW) | [Pixel Terror](https://open.spotify.com/artist/3DajvNySJjylWpCSeXefFm), [Spag Heddy](https://open.spotify.com/artist/043Bey7ngSGRFpJftAlKpi) | [Carbonara](https://open.spotify.com/album/1VxhQYQGPWGOrH2l61pYG8) | 2:52 | 2022-01-07 |  |
@@ -150,7 +151,7 @@
 | [Love You Back](https://open.spotify.com/track/5wM6LOw2U6XeIFHfsgI6wU) | [Madeon](https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc) | [Love You Back](https://open.spotify.com/album/3RfQXBQeOMWJPwsy4BO2Na) | 3:34 | 2022-04-29 |  |
 | [Lovely Scars](https://open.spotify.com/track/1nMByGsOn1wJrl8S6wtGEr) | [AIKA](https://open.spotify.com/artist/1NfT4THLhxNASM4xVImfNg) | [Lovely Scars](https://open.spotify.com/album/3KBabliuaGJPsdlESKtg58) | 4:21 | 2022-01-07 | 2022-07-29 |
 | [LSD](https://open.spotify.com/track/1AiBJB2v6Lp6BiqARZh3R5) | [Just A Gent](https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0), [Xan Griffin](https://open.spotify.com/artist/3wkHMiy2I0PuYIh9JNyqVk) | [LSD](https://open.spotify.com/album/2trplsWRMpKmMHd9i260Gg) | 2:18 | 2022-01-07 |  |
-| [Lune](https://open.spotify.com/track/09d3JszICFYeOsU6mjXxa7) | [Kasbo](https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq), [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [Lune](https://open.spotify.com/album/2dliQpKdUMkgEp5NUMdgfL) | 4:50 | 2022-01-07 |  |
+| [Lune](https://open.spotify.com/track/09d3JszICFYeOsU6mjXxa7) | [Kasbo](https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq), [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [Lune](https://open.spotify.com/album/2dliQpKdUMkgEp5NUMdgfL) | 4:50 | 2022-01-07 | 2022-09-05 |
 | [Maboroshi](https://open.spotify.com/track/5euHZw4X82pmE12LUP7Zam) | [Hyper Potions](https://open.spotify.com/artist/1KkjjsBwGqU2YjS9OIucZV), [Synthion](https://open.spotify.com/artist/4YqfXU53VVYBunSuvrDZYO), [MYLK](https://open.spotify.com/artist/4o66UJPzUonUgENhbqpHRX) | [Maboroshi](https://open.spotify.com/album/48NJffm2f5RAu5hfXjJc5B) | 4:04 | 2022-01-07 |  |
 | [Magic](https://open.spotify.com/track/0UU98KhDayXXXaP7y9ud7M) | [Highlnd](https://open.spotify.com/artist/5CI6YfdGj33Dk91IiUge82), [Akacia](https://open.spotify.com/artist/4D9a1UPPFCoOm1kBtJfni5) | [Magic](https://open.spotify.com/album/08pD8uL8UL0LrBD6ceqZ5w) | 3:38 | 2022-01-07 | 2022-07-28 |
 | [Magic](https://open.spotify.com/track/1DKfUd92V7R4PdHmIK1MIs) | [Highlnd](https://open.spotify.com/artist/5CI6YfdGj33Dk91IiUge82), [Akacia](https://open.spotify.com/artist/4D9a1UPPFCoOm1kBtJfni5) | [Magic](https://open.spotify.com/album/6GNwFP4f5HjSLlqyC7bwp2) | 3:38 | 2022-07-14 |  |

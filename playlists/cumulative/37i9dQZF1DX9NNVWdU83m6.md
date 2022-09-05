@@ -4,7 +4,7 @@
 
 > A progressive fusion of jazz, rock and avant\-garde.
 
-119 songs - 11 hr 9 min - [published](https://open.spotify.com/playlist/43Z6HObQV3nVWqyO3c383T)
+120 songs - 11 hr 18 min - [published](https://open.spotify.com/playlist/43Z6HObQV3nVWqyO3c383T)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Guns, Germs and Steel](https://open.spotify.com/track/5RUk3kvXN5UY4upA6ntmKQ) | [Strobes](https://open.spotify.com/artist/4s1eMHTAaIlDiBNMcBKq08) | [Brokespeak](https://open.spotify.com/album/51qMfFrWslTbRpBTYVFiD5) | 5:51 | 2021-01-27 | 2022-07-29 |
 | [Hazard Profile Part 1](https://open.spotify.com/track/7J2kYMUtOIzKU9Tpd6YDYX) | [Soft Machine](https://open.spotify.com/artist/5A0MH7JfEBEMySevsmauds) | [Bundles](https://open.spotify.com/album/0xC77HJHW6dHMGLxumSNAd) | 9:19 | 2021-01-27 | 2022-07-29 |
 | [Hazard Profile Part 5](https://open.spotify.com/track/3Wgry7XCJ7PPEovyaKWxza) | [Soft Machine](https://open.spotify.com/artist/5A0MH7JfEBEMySevsmauds) | [Bundles](https://open.spotify.com/album/0xC77HJHW6dHMGLxumSNAd) | 5:29 | 2021-01-27 | 2022-07-25 |
+| [Hazard Profile, Pt\. 1 \- 2022 Remaster](https://open.spotify.com/track/71E5jV5AfPrZAkSTyqd6zb) | [Soft Machine](https://open.spotify.com/artist/5A0MH7JfEBEMySevsmauds) | [Bundles \(Remastered And Expanded Edition\)](https://open.spotify.com/album/5gDIsxXtpCvh0E329Gw2aN) | 9:17 | 2021-01-27 |  |
 | [Hazard Profile, Pt\. 5](https://open.spotify.com/track/5pZdl7YgmgIu8O06wS8sg9) | [Soft Machine](https://open.spotify.com/artist/5A0MH7JfEBEMySevsmauds) | [Bundles](https://open.spotify.com/album/5FIJVdysoyoIeIz149oxo0) | 5:29 | 2021-01-27 | 2022-08-30 |
 | [Hazard Profile, Pt.1](https://open.spotify.com/track/6IEhhjx0lVrW228QsDKrpB) | [Soft Machine](https://open.spotify.com/artist/5A0MH7JfEBEMySevsmauds) | [Bundles](https://open.spotify.com/album/5FIJVdysoyoIeIz149oxo0) | 9:19 | 2021-01-27 | 2022-08-29 |
 | [Heksen Romance](https://open.spotify.com/track/1RPtXJvLdFFU7lh7SQgtL8) | [Monocled Man](https://open.spotify.com/artist/4Ulb0AKOmkqerNXGwtRob1), [Chris Montague](https://open.spotify.com/artist/2gz62zpojSXuPaCJazpDrA) | [Heksen Romance](https://open.spotify.com/album/4SUzYTki8mF5xSw69e6V8H) | 6:34 | 2021-10-08 | 2022-07-26 |
@@ -109,7 +110,7 @@
 | [The Jingle](https://open.spotify.com/track/7aLzL6v7NdiBaFH5GVNVMv) | [Agnas Bros](https://open.spotify.com/artist/5vGzJvLmR1rxxu1jgDWlJp) | [The Jingle](https://open.spotify.com/album/7jyfxLayqHx6fW638doFTo) | 3:52 | 2022-04-01 | 2022-07-12 |
 | [The Kipper and the Pork Pie](https://open.spotify.com/track/6pkkUNpoDPhI0dGV72caDx) | [WorldService Project](https://open.spotify.com/artist/1yYpduIG9QUEIh3w2ibm9D) | [Hiding in Plain Sight](https://open.spotify.com/album/2NHruqgKmRD6Jwewz7eU0Y) | 3:42 | 2021-01-27 | 2022-07-29 |
 | [The Life Divine](https://open.spotify.com/track/3yeTtLm3XjsQkmSdRnzhrq) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P), [John McLaughlin](https://open.spotify.com/artist/4v0R1feRiuCDch7aAheVhY) | [Love Devotion Surrender](https://open.spotify.com/album/0Z6j1FSc3BEyS55TcPms4g) | 9:28 | 2021-01-27 |  |
-| [The Noonward Race \- Remastered](https://open.spotify.com/track/4BWrLhJXXYAlVIHOLSPsmN) | [Mahavishnu Orchestra](https://open.spotify.com/artist/3Ao7NH7lRyQAeKQg2mlTcO) | [The Inner Mounting Flame](https://open.spotify.com/album/6XHQCPGwvSaqv9MZ2tauqr) | 6:27 | 2021-01-27 |  |
+| [The Noonward Race \- Remastered](https://open.spotify.com/track/4BWrLhJXXYAlVIHOLSPsmN) | [Mahavishnu Orchestra](https://open.spotify.com/artist/3Ao7NH7lRyQAeKQg2mlTcO) | [The Inner Mounting Flame](https://open.spotify.com/album/6XHQCPGwvSaqv9MZ2tauqr) | 6:27 | 2021-01-27 | 2022-09-05 |
 | [Tiger Cubs](https://open.spotify.com/track/5vNiGcOiDRNWP3Fts1AIl1) | [Logan Kane](https://open.spotify.com/artist/1sKdqE5PRHkzmEa8wb47EQ), [Henry Solomon](https://open.spotify.com/artist/65dR9mWSEKojt3aFbevjrR), [Jacob Richards](https://open.spotify.com/artist/3TMtcNohC76BTwFwMundAf) | [Tiger Cubs](https://open.spotify.com/album/1BsC9AO6OMRSfISrRBYWUO) | 3:41 | 2022-03-11 | 2022-07-29 |
 | [Trail of Thought](https://open.spotify.com/track/2vK4fWEYTYVMJAJ4ZuqpDK) | [Umbra](https://open.spotify.com/artist/4BfC304NqLQht44pZaTLGE) | [Umbra](https://open.spotify.com/album/65nEJHfAyMuUDMwnFq7Q6r) | 6:17 | 2021-01-27 | 2022-07-29 |
 | [Triggers](https://open.spotify.com/track/0tyiencXiHn4LBF4OnOPzu) | [Immortal Onion](https://open.spotify.com/artist/4CwsKWauDN6Dt84QVNnfGz) | [XD \[Experience Design\]](https://open.spotify.com/album/4W77ety4g4G6bW9HlaE1Rr) | 5:47 | 2021-01-27 |  |

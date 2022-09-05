@@ -4,7 +4,7 @@
 
 > Emo rap feels for the misunderstood\. Cover: 347aidan
 
-714 songs - 1 day 8 hr 35 min - [published](https://open.spotify.com/playlist/0iUS4WRaLWFNRyPELzsm9Z)
+715 songs - 1 day 8 hr 37 min - [published](https://open.spotify.com/playlist/0iUS4WRaLWFNRyPELzsm9Z)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [CHASE](https://open.spotify.com/track/3o0hzQy37arz4ymJvqeTYL) | [benny mayne](https://open.spotify.com/artist/2R2Yg2qPloNOTOfqxfXX7l) | [CHASE](https://open.spotify.com/album/6Irn8skmuGpGOFU8QbPiP5) | 2:45 | 2021-12-17 | 2022-04-20 |
 | [Cheater \(feat\. Tom The Mail Man\)](https://open.spotify.com/track/3n0If8GidXp4KziBDoMe99) | [SAIAH](https://open.spotify.com/artist/5ZPYeVqoWNuukwfarvkyJX), [Tom The Mail Man](https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD) | [Cheater \(feat\. Tom The Mail Man\)](https://open.spotify.com/album/2de9oXO3uW9iMpVtTknJAy) | 3:04 | 2021-07-31 | 2022-07-28 |
 | [Cherry Blossoms](https://open.spotify.com/track/6Rdp4sAeb38xf8DByVG3Xs) | [Shady Moon](https://open.spotify.com/artist/2urobxol2zYHXOUJXDh8n4) | [Cherry Blossoms](https://open.spotify.com/album/1F7sDdTBfac69FjehSaCc9) | 2:18 | 2022-05-23 | 2022-08-29 |
+| [Cherry Blossoms](https://open.spotify.com/track/4LEt6hyaGn4scwUsimBeXt) | [Shady Moon](https://open.spotify.com/artist/2urobxol2zYHXOUJXDh8n4) | [Cherry Blossoms](https://open.spotify.com/album/7z0GlCgOrEaME0BYpVPAtI) | 2:18 | 2022-08-30 |  |
 | [Choose](https://open.spotify.com/track/0WnLpQOHjfVwPw2zbrIsPN) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3), [Harry Fraud](https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S) | [HIGH FASHION](https://open.spotify.com/album/5ajnqokZWzTySQgUt2RgLW) | 3:32 | 2021-12-03 | 2022-07-27 |
 | [CHROME HEART](https://open.spotify.com/track/0Fqz94aIhKIfnbnUgDRbLH) | [IVOXYGEN](https://open.spotify.com/artist/6K9KevAu0cpln7xOsM3Wkm) | [KALEIDOSCOPE](https://open.spotify.com/album/1ZyR3m6dXdqBHb96BrtlSZ) | 2:39 | 2022-03-18 | 2022-04-16 |
 | [CHXSE](https://open.spotify.com/track/4vZCkAXIcD8A050VeirCwj) | [Chase Atlantic](https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT) | [BEAUTY IN DEATH \(DELUXE EDITION\)](https://open.spotify.com/album/4tb9KRJe8FNjYIRbvtGTG5) | 3:29 | 2022-05-06 | 2022-05-14 |
@@ -508,7 +509,7 @@
 | [Real Shit \(with benny blanco\)](https://open.spotify.com/track/3uVPLtkmDu8pDkYEAVqbgS) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [Real Shit \(with benny blanco\)](https://open.spotify.com/album/16EqCl0UoPe3xSIFg4xO6T) | 3:03 | 2020-12-13\* | 2022-02-15 |
 | [Reasons](https://open.spotify.com/track/35b2aICqZwjqrS7eKAzrjE) | [COTIS](https://open.spotify.com/artist/63CZNEytugjFnZBdjBmWc8) | [Reasons](https://open.spotify.com/album/3YxFj4Y17Xv0ixJrMYy7Td) | 2:52 | 2021-01-15 | 2021-04-24 |
 | [Reckless](https://open.spotify.com/track/0v1Xh4IrmF4Rs1Vyir4VTG) | [Lago Link](https://open.spotify.com/artist/3YmUDDr6n2kobxSL8VjatA) | [Reckless](https://open.spotify.com/album/7kNLwaOWfmjx06VdlQGJBK) | 2:24 | 2020-12-13\* | 2021-02-26 |
-| [Reckless](https://open.spotify.com/track/1CIxzzS0nVJNfk5wuN2MjM) | [Lund](https://open.spotify.com/artist/5uLkZ7FWMTBUg1corQqdkR) | [Reckless](https://open.spotify.com/album/1aSPP0cNC617X9tPtQUUlt) | 3:26 | 2021-02-27 |  |
+| [Reckless](https://open.spotify.com/track/1CIxzzS0nVJNfk5wuN2MjM) | [Lund](https://open.spotify.com/artist/5uLkZ7FWMTBUg1corQqdkR) | [Reckless](https://open.spotify.com/album/1aSPP0cNC617X9tPtQUUlt) | 3:26 | 2021-02-27 | 2022-09-05 |
 | [Red](https://open.spotify.com/track/1xkjDgAeD0aNxGrS36W0Fn) | [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO) | [Red](https://open.spotify.com/album/676VcdOBUSv6CcS9SHYhrb) | 2:09 | 2021-07-04 | 2021-12-21 |
 | [Reminds Me Of You](https://open.spotify.com/track/5YSHygGN9D0mID1NsVd5my) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Reminds Me Of You](https://open.spotify.com/album/16ilcI6xOgSh3Jd3bxF6MI) | 2:38 | 2020-12-13\* | 2022-07-29 |
 | [RESTLESS](https://open.spotify.com/track/3bKThPcVFrYgQ5tKyqy7UQ) | [Global AzN](https://open.spotify.com/artist/29qumw7sEmz88PO90cUOHG) | [RESTLESS](https://open.spotify.com/album/6rMEYVkkH2QnEYjT8XbnII) | 2:18 | 2021-02-06 | 2021-02-07 |

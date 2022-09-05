@@ -1,12 +1,12 @@
 {
   "description": "New and trending tracks from Texas Country icons and rising stars. Cover: Pat Green",
-  "num_followers": 383954,
+  "num_followers": 383888,
   "original_name": "Texas Country Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjA5MTIwMCwwMDAwMDAwMDcyNzE2NmEzNDgxMGE0MWNjOGZkNGRmZDM4N2JkNDQ3",
+  "snapshot_id": "MTY2MjA5MTIwMCwwMDAwMDAwMDg0MmRiYzgzODE5Y2UyMmQzN2M5MDQ3MGEzZDRiMmM4",
   "tracks": [
     {
       "added_at": "2022-09-02 04:00:00",
@@ -439,6 +439,22 @@
     {
       "added_at": "2022-09-02 04:00:00",
       "album": {
+        "name": "717 Tapes, Vol. 2",
+        "url": "https://open.spotify.com/album/1AWzOlaYVoo3IazAiSD5t6"
+      },
+      "artists": [
+        {
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+        }
+      ],
+      "duration_ms": 169853,
+      "name": "Burn It Down - 717 Tapes",
+      "url": "https://open.spotify.com/track/5NqaRQWSVg9mnnmdCZJ17s"
+    },
+    {
+      "added_at": "2022-09-02 04:00:00",
+      "album": {
         "name": "Wild Palomino",
         "url": "https://open.spotify.com/album/1LVecFZacMIV8maREh11Zv"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 198514,
       "name": "Wild Palomino",
       "url": "https://open.spotify.com/track/4VUbHweLoFPdVoKUQrTmZ0"
-    },
-    {
-      "added_at": "2022-09-02 04:00:00",
-      "album": {
-        "name": "717 Tapes, Vol. 2",
-        "url": "https://open.spotify.com/album/1AWzOlaYVoo3IazAiSD5t6"
-      },
-      "artists": [
-        {
-          "name": "Warren Zeiders",
-          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
-        }
-      ],
-      "duration_ms": 169853,
-      "name": "Burn It Down - 717 Tapes",
-      "url": "https://open.spotify.com/track/5NqaRQWSVg9mnnmdCZJ17s"
     },
     {
       "added_at": "2022-09-02 04:00:00",
@@ -579,22 +579,6 @@
     {
       "added_at": "2022-09-02 04:00:00",
       "album": {
-        "name": "Heaven Down Here",
-        "url": "https://open.spotify.com/album/3BRywwUQdsv5iFBZ9LajTg"
-      },
-      "artists": [
-        {
-          "name": "Texas Hill",
-          "url": "https://open.spotify.com/artist/2Yl1rRB2mi1HPnXAuy9jqq"
-        }
-      ],
-      "duration_ms": 215977,
-      "name": "Easy on the Eyes",
-      "url": "https://open.spotify.com/track/0xMz97Xa2QhmY6mAZqGTf5"
-    },
-    {
-      "added_at": "2022-09-02 04:00:00",
-      "album": {
         "name": "Mountain Song",
         "url": "https://open.spotify.com/album/2LSEZyWtzulIr0vS1mD4Xy"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 249920,
       "name": "Mountain Song",
       "url": "https://open.spotify.com/track/2mDdkeVuUsyIepwzLCxuu6"
+    },
+    {
+      "added_at": "2022-09-02 04:00:00",
+      "album": {
+        "name": "Heaven Down Here",
+        "url": "https://open.spotify.com/album/3BRywwUQdsv5iFBZ9LajTg"
+      },
+      "artists": [
+        {
+          "name": "Texas Hill",
+          "url": "https://open.spotify.com/artist/2Yl1rRB2mi1HPnXAuy9jqq"
+        }
+      ],
+      "duration_ms": 215977,
+      "name": "Easy on the Eyes",
+      "url": "https://open.spotify.com/track/0xMz97Xa2QhmY6mAZqGTf5"
     },
     {
       "added_at": "2022-09-02 04:00:00",
@@ -1087,6 +1087,42 @@
     {
       "added_at": "2022-09-02 04:00:00",
       "album": {
+        "name": "Once in a Blue Moon",
+        "url": "https://open.spotify.com/album/7il1OFIKfeTBSiYBFlH1Mk"
+      },
+      "artists": [
+        {
+          "name": "Triston Marez",
+          "url": "https://open.spotify.com/artist/34J7mIMU9nyg5px9m3ur88"
+        },
+        {
+          "name": "Jenna Paulette",
+          "url": "https://open.spotify.com/artist/6wCypaPtud9fC2djKw9PDX"
+        }
+      ],
+      "duration_ms": 187216,
+      "name": "Once in a Blue Moon",
+      "url": "https://open.spotify.com/track/0T57qwTgUjH26XH3mmHWNq"
+    },
+    {
+      "added_at": "2022-09-02 04:00:00",
+      "album": {
+        "name": "Stay Tuned",
+        "url": "https://open.spotify.com/album/6o4nLp0Ra5dW31bxWk91s6"
+      },
+      "artists": [
+        {
+          "name": "Treaty Oak Revival",
+          "url": "https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV"
+        }
+      ],
+      "duration_ms": 200547,
+      "name": "Stay Tuned",
+      "url": "https://open.spotify.com/track/2dOtM9EeM3bhQvzOWEQPwP"
+    },
+    {
+      "added_at": "2022-09-02 04:00:00",
+      "album": {
         "name": "Nothing But Love Songs",
         "url": "https://open.spotify.com/album/56G2DJ71govyBPz6qWHEPK"
       },
@@ -1099,6 +1135,54 @@
       "duration_ms": 225180,
       "name": "Nothing But Love Songs",
       "url": "https://open.spotify.com/track/7jJ32IueHuaOZmvp4npqCU"
+    },
+    {
+      "added_at": "2022-09-02 04:00:00",
+      "album": {
+        "name": "But Me",
+        "url": "https://open.spotify.com/album/3EMvVIcOA7woHlWrlxQoF1"
+      },
+      "artists": [
+        {
+          "name": "Slade Coulter",
+          "url": "https://open.spotify.com/artist/0Qht1bMfMyq85aI74COUvn"
+        }
+      ],
+      "duration_ms": 235920,
+      "name": "But Me",
+      "url": "https://open.spotify.com/track/4Y6NQuXwIQNbRJccgE9ul2"
+    },
+    {
+      "added_at": "2022-09-02 04:00:00",
+      "album": {
+        "name": "Built Different",
+        "url": "https://open.spotify.com/album/4ShfeQkF2wvKB17ZrMnKTn"
+      },
+      "artists": [
+        {
+          "name": "Casey Donahew",
+          "url": "https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib"
+        }
+      ],
+      "duration_ms": 180453,
+      "name": "Built Different",
+      "url": "https://open.spotify.com/track/0zEAZTsPl7VXJJ6vx2iAkZ"
+    },
+    {
+      "added_at": "2022-09-02 04:00:00",
+      "album": {
+        "name": "Laci Kaye Booth",
+        "url": "https://open.spotify.com/album/0K9vrVf1zQTQJN5iU8wF79"
+      },
+      "artists": [
+        {
+          "name": "Laci Kaye Booth",
+          "url": "https://open.spotify.com/artist/6Gd7wERviclMCCWOG8qVR4"
+        }
+      ],
+      "duration_ms": 192680,
+      "name": "Shuffle",
+      "url": "https://open.spotify.com/track/7dqCwV8GYfRrJzQO1hdBRE"
     },
     {
       "added_at": "2022-09-02 04:00:00",
@@ -1123,70 +1207,18 @@
     {
       "added_at": "2022-09-02 04:00:00",
       "album": {
-        "name": "Once in a Blue Moon",
-        "url": "https://open.spotify.com/album/7il1OFIKfeTBSiYBFlH1Mk"
+        "name": "Cowboys Don't Cry",
+        "url": "https://open.spotify.com/album/0o3FJ4yBDliI6vZjsMVWGE"
       },
       "artists": [
         {
-          "name": "Triston Marez",
-          "url": "https://open.spotify.com/artist/34J7mIMU9nyg5px9m3ur88"
-        },
-        {
-          "name": "Jenna Paulette",
-          "url": "https://open.spotify.com/artist/6wCypaPtud9fC2djKw9PDX"
+          "name": "Robert Earl Keen",
+          "url": "https://open.spotify.com/artist/1jjpkAHC8bd9fRFfgKyYLP"
         }
       ],
-      "duration_ms": 187216,
-      "name": "Once in a Blue Moon",
-      "url": "https://open.spotify.com/track/0T57qwTgUjH26XH3mmHWNq"
-    },
-    {
-      "added_at": "2022-09-02 04:00:00",
-      "album": {
-        "name": "Laci Kaye Booth",
-        "url": "https://open.spotify.com/album/0K9vrVf1zQTQJN5iU8wF79"
-      },
-      "artists": [
-        {
-          "name": "Laci Kaye Booth",
-          "url": "https://open.spotify.com/artist/6Gd7wERviclMCCWOG8qVR4"
-        }
-      ],
-      "duration_ms": 192680,
-      "name": "Shuffle",
-      "url": "https://open.spotify.com/track/7dqCwV8GYfRrJzQO1hdBRE"
-    },
-    {
-      "added_at": "2022-09-02 04:00:00",
-      "album": {
-        "name": "Built Different",
-        "url": "https://open.spotify.com/album/4ShfeQkF2wvKB17ZrMnKTn"
-      },
-      "artists": [
-        {
-          "name": "Casey Donahew",
-          "url": "https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib"
-        }
-      ],
-      "duration_ms": 180453,
-      "name": "Built Different",
-      "url": "https://open.spotify.com/track/0zEAZTsPl7VXJJ6vx2iAkZ"
-    },
-    {
-      "added_at": "2022-09-02 04:00:00",
-      "album": {
-        "name": "Stay Tuned",
-        "url": "https://open.spotify.com/album/6o4nLp0Ra5dW31bxWk91s6"
-      },
-      "artists": [
-        {
-          "name": "Treaty Oak Revival",
-          "url": "https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV"
-        }
-      ],
-      "duration_ms": 200547,
-      "name": "Stay Tuned",
-      "url": "https://open.spotify.com/track/2dOtM9EeM3bhQvzOWEQPwP"
+      "duration_ms": 189657,
+      "name": "Cowboys Don't Cry",
+      "url": "https://open.spotify.com/track/5hy7nPUIveNGkYEesMv0Is"
     },
     {
       "added_at": "2022-09-02 04:00:00",
@@ -1207,34 +1239,18 @@
     {
       "added_at": "2022-09-02 04:00:00",
       "album": {
-        "name": "Heartbreak",
-        "url": "https://open.spotify.com/album/1YNRiSLFpupJgMqZxRyxQx"
+        "name": "Wherever I Am",
+        "url": "https://open.spotify.com/album/4aQw7SewykLPkahUFWdGoS"
       },
       "artists": [
         {
-          "name": "Ben Burgess",
-          "url": "https://open.spotify.com/artist/7pnTkKShdYS8BnmTHhcEaa"
+          "name": "Kolton Moore & the Clever Few",
+          "url": "https://open.spotify.com/artist/14V8ZRhL66NIzXAmYtQ8Vj"
         }
       ],
-      "duration_ms": 188225,
-      "name": "Heartbreak",
-      "url": "https://open.spotify.com/track/09314p0WJhfG0mXqlg6hTC"
-    },
-    {
-      "added_at": "2022-09-02 04:00:00",
-      "album": {
-        "name": "Cowboys Don't Cry",
-        "url": "https://open.spotify.com/album/0o3FJ4yBDliI6vZjsMVWGE"
-      },
-      "artists": [
-        {
-          "name": "Robert Earl Keen",
-          "url": "https://open.spotify.com/artist/1jjpkAHC8bd9fRFfgKyYLP"
-        }
-      ],
-      "duration_ms": 189657,
-      "name": "Cowboys Don't Cry",
-      "url": "https://open.spotify.com/track/5hy7nPUIveNGkYEesMv0Is"
+      "duration_ms": 253101,
+      "name": "Wherever I Am",
+      "url": "https://open.spotify.com/track/1mIAWUrotcchpannDztoxM"
     },
     {
       "added_at": "2022-09-02 04:00:00",
@@ -1255,34 +1271,18 @@
     {
       "added_at": "2022-09-02 04:00:00",
       "album": {
-        "name": "Wherever I Am",
-        "url": "https://open.spotify.com/album/4aQw7SewykLPkahUFWdGoS"
+        "name": "Heartbreak",
+        "url": "https://open.spotify.com/album/1YNRiSLFpupJgMqZxRyxQx"
       },
       "artists": [
         {
-          "name": "Kolton Moore & the Clever Few",
-          "url": "https://open.spotify.com/artist/14V8ZRhL66NIzXAmYtQ8Vj"
+          "name": "Ben Burgess",
+          "url": "https://open.spotify.com/artist/7pnTkKShdYS8BnmTHhcEaa"
         }
       ],
-      "duration_ms": 253101,
-      "name": "Wherever I Am",
-      "url": "https://open.spotify.com/track/1mIAWUrotcchpannDztoxM"
-    },
-    {
-      "added_at": "2022-09-02 04:00:00",
-      "album": {
-        "name": "Times Are Changing",
-        "url": "https://open.spotify.com/album/20Q4v43C8afzHFQqFqOHEw"
-      },
-      "artists": [
-        {
-          "name": "Dylan Wheeler",
-          "url": "https://open.spotify.com/artist/0wt7kveV9BteRyhkkWGj87"
-        }
-      ],
-      "duration_ms": 219481,
-      "name": "Shines Through",
-      "url": "https://open.spotify.com/track/2GrVTTzKbgxQcE4OrIqcHI"
+      "duration_ms": 188225,
+      "name": "Heartbreak",
+      "url": "https://open.spotify.com/track/09314p0WJhfG0mXqlg6hTC"
     },
     {
       "added_at": "2022-09-02 04:00:00",
@@ -1303,6 +1303,22 @@
     {
       "added_at": "2022-09-02 04:00:00",
       "album": {
+        "name": "Times Are Changing",
+        "url": "https://open.spotify.com/album/20Q4v43C8afzHFQqFqOHEw"
+      },
+      "artists": [
+        {
+          "name": "Dylan Wheeler",
+          "url": "https://open.spotify.com/artist/0wt7kveV9BteRyhkkWGj87"
+        }
+      ],
+      "duration_ms": 219481,
+      "name": "Shines Through",
+      "url": "https://open.spotify.com/track/2GrVTTzKbgxQcE4OrIqcHI"
+    },
+    {
+      "added_at": "2022-09-02 04:00:00",
+      "album": {
         "name": "Breaking Every Heart In Texas",
         "url": "https://open.spotify.com/album/4HvGqNLGMecrxpdKoAznvz"
       },
@@ -1315,22 +1331,6 @@
       "duration_ms": 206178,
       "name": "Breaking Every Heart In Texas",
       "url": "https://open.spotify.com/track/4hJYNs2uklbeUle7SWit80"
-    },
-    {
-      "added_at": "2022-09-02 04:00:00",
-      "album": {
-        "name": "But Me",
-        "url": "https://open.spotify.com/album/3EMvVIcOA7woHlWrlxQoF1"
-      },
-      "artists": [
-        {
-          "name": "Slade Coulter",
-          "url": "https://open.spotify.com/artist/0Qht1bMfMyq85aI74COUvn"
-        }
-      ],
-      "duration_ms": 235920,
-      "name": "But Me",
-      "url": "https://open.spotify.com/track/4Y6NQuXwIQNbRJccgE9ul2"
     },
     {
       "added_at": "2022-09-02 04:00:00",
@@ -1419,18 +1419,18 @@
     {
       "added_at": "2022-09-02 04:00:00",
       "album": {
-        "name": "God & Everybody",
-        "url": "https://open.spotify.com/album/6yj5Pq8WlbTtGpxamLq02I"
+        "name": "Washington Street (Classen Sessions)",
+        "url": "https://open.spotify.com/album/4MMY6CA8hyRFiLsSr5TgDs"
       },
       "artists": [
         {
-          "name": "Grant Gilbert",
-          "url": "https://open.spotify.com/artist/22JGfpxVueSHqP2SIi1919"
+          "name": "Josh Meloy",
+          "url": "https://open.spotify.com/artist/3EVsC9ZK7QMDuK4FPcZaEq"
         }
       ],
-      "duration_ms": 174293,
-      "name": "God & Everybody",
-      "url": "https://open.spotify.com/track/6n0HI4p826Zh2qUjlpNPnQ"
+      "duration_ms": 224841,
+      "name": "Washington Street - Classen Sessions",
+      "url": "https://open.spotify.com/track/4WyfXhoDYggNlRoAILAsXN"
     },
     {
       "added_at": "2022-09-02 04:00:00",
@@ -1451,6 +1451,22 @@
     {
       "added_at": "2022-09-02 04:00:00",
       "album": {
+        "name": "God & Everybody",
+        "url": "https://open.spotify.com/album/6yj5Pq8WlbTtGpxamLq02I"
+      },
+      "artists": [
+        {
+          "name": "Grant Gilbert",
+          "url": "https://open.spotify.com/artist/22JGfpxVueSHqP2SIi1919"
+        }
+      ],
+      "duration_ms": 174293,
+      "name": "God & Everybody",
+      "url": "https://open.spotify.com/track/6n0HI4p826Zh2qUjlpNPnQ"
+    },
+    {
+      "added_at": "2022-09-02 04:00:00",
+      "album": {
         "name": "Unwanted Man",
         "url": "https://open.spotify.com/album/4o5I0LPIKI0LqNGfV88pCw"
       },
@@ -1463,54 +1479,6 @@
       "duration_ms": 254293,
       "name": "Dancing Around The Truth",
       "url": "https://open.spotify.com/track/3q41hamYDHE4lcRptEfUrz"
-    },
-    {
-      "added_at": "2022-09-02 04:00:00",
-      "album": {
-        "name": "Washington Street (Classen Sessions)",
-        "url": "https://open.spotify.com/album/4MMY6CA8hyRFiLsSr5TgDs"
-      },
-      "artists": [
-        {
-          "name": "Josh Meloy",
-          "url": "https://open.spotify.com/artist/3EVsC9ZK7QMDuK4FPcZaEq"
-        }
-      ],
-      "duration_ms": 224841,
-      "name": "Washington Street - Classen Sessions",
-      "url": "https://open.spotify.com/track/4WyfXhoDYggNlRoAILAsXN"
-    },
-    {
-      "added_at": "2022-09-02 04:00:00",
-      "album": {
-        "name": "Cow Pissin'",
-        "url": "https://open.spotify.com/album/6JlPe2irVAqKKas5JYi1Oj"
-      },
-      "artists": [
-        {
-          "name": "Carson Jeffrey",
-          "url": "https://open.spotify.com/artist/4wDMfwJrSuFKolGyGC5K1l"
-        }
-      ],
-      "duration_ms": 217446,
-      "name": "Cow Pissin'",
-      "url": "https://open.spotify.com/track/3PNamkV6w2LbcYX6mdZKgv"
-    },
-    {
-      "added_at": "2022-09-02 04:00:00",
-      "album": {
-        "name": "It Wasn\u2019t Love",
-        "url": "https://open.spotify.com/album/4xpeLcxmn097Fo2YknqVv1"
-      },
-      "artists": [
-        {
-          "name": "Larissa Boyd",
-          "url": "https://open.spotify.com/artist/76BLe6Ojs4hwzg9xOkOagD"
-        }
-      ],
-      "duration_ms": 245000,
-      "name": "It Wasn\u2019t Love",
-      "url": "https://open.spotify.com/track/5B3loG5N0IdvkrEWQlVwCh"
     },
     {
       "added_at": "2022-09-02 04:00:00",
@@ -1531,6 +1499,38 @@
     {
       "added_at": "2022-09-02 04:00:00",
       "album": {
+        "name": "It Wasn\u2019t Love",
+        "url": "https://open.spotify.com/album/4xpeLcxmn097Fo2YknqVv1"
+      },
+      "artists": [
+        {
+          "name": "Larissa Boyd",
+          "url": "https://open.spotify.com/artist/76BLe6Ojs4hwzg9xOkOagD"
+        }
+      ],
+      "duration_ms": 245000,
+      "name": "It Wasn\u2019t Love",
+      "url": "https://open.spotify.com/track/5B3loG5N0IdvkrEWQlVwCh"
+    },
+    {
+      "added_at": "2022-09-02 04:00:00",
+      "album": {
+        "name": "Cow Pissin'",
+        "url": "https://open.spotify.com/album/6JlPe2irVAqKKas5JYi1Oj"
+      },
+      "artists": [
+        {
+          "name": "Carson Jeffrey",
+          "url": "https://open.spotify.com/artist/4wDMfwJrSuFKolGyGC5K1l"
+        }
+      ],
+      "duration_ms": 217446,
+      "name": "Cow Pissin'",
+      "url": "https://open.spotify.com/track/3PNamkV6w2LbcYX6mdZKgv"
+    },
+    {
+      "added_at": "2022-09-02 04:00:00",
+      "album": {
         "name": "Western Tears",
         "url": "https://open.spotify.com/album/1hzYDPwjgMn6hVrCiUNGiK"
       },
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2022-09-02 04:00:00",
       "album": {
-        "name": "Cheating On A Memory Chapter 2",
-        "url": "https://open.spotify.com/album/5oowEIqLmL9uBRPzXfPBXr"
-      },
-      "artists": [
-        {
-          "name": "The Lowdown Drifters",
-          "url": "https://open.spotify.com/artist/49tymMExHfzPYTfTRA3FaG"
-        }
-      ],
-      "duration_ms": 214582,
-      "name": "Daylight",
-      "url": "https://open.spotify.com/track/5OwSp5FmqDZBRujGW3PmSs"
-    },
-    {
-      "added_at": "2022-09-02 04:00:00",
-      "album": {
         "name": "Dancin' With The Devil",
         "url": "https://open.spotify.com/album/2lyRkU6hBSaV6TciIe7kP4"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 178848,
       "name": "Dancin' With The Devil",
       "url": "https://open.spotify.com/track/2NZnlBkPCFaWvtEkifGZIB"
+    },
+    {
+      "added_at": "2022-09-02 04:00:00",
+      "album": {
+        "name": "Cheating On A Memory Chapter 2",
+        "url": "https://open.spotify.com/album/5oowEIqLmL9uBRPzXfPBXr"
+      },
+      "artists": [
+        {
+          "name": "The Lowdown Drifters",
+          "url": "https://open.spotify.com/artist/49tymMExHfzPYTfTRA3FaG"
+        }
+      ],
+      "duration_ms": 214582,
+      "name": "Daylight",
+      "url": "https://open.spotify.com/track/5OwSp5FmqDZBRujGW3PmSs"
     },
     {
       "added_at": "2022-09-02 04:00:00",
@@ -1663,18 +1663,18 @@
     {
       "added_at": "2022-09-02 04:00:00",
       "album": {
-        "name": "blood",
-        "url": "https://open.spotify.com/album/4ttXGpNxsIaxGtsV2M3unU"
+        "name": "Honky Tonk in Heaven",
+        "url": "https://open.spotify.com/album/2tTuVmz1S6wfK6mu07F5UP"
       },
       "artists": [
         {
-          "name": "Kaitlin Butts",
-          "url": "https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD"
+          "name": "Kin Faux",
+          "url": "https://open.spotify.com/artist/5bbkKY1uKarzJOS1CMsfQu"
         }
       ],
-      "duration_ms": 298906,
-      "name": "blood",
-      "url": "https://open.spotify.com/track/2YqZCQhkuQpPUb5M9wptBq"
+      "duration_ms": 167520,
+      "name": "Wild Horses",
+      "url": "https://open.spotify.com/track/0fC6Zc3DJtwyH58eCXox3v"
     }
   ],
   "unique_name": "Texas Country Now",

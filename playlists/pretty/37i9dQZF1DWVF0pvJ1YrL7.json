@@ -1,12 +1,12 @@
 {
   "description": "Welcome, you belong here.",
-  "num_followers": 2928,
+  "num_followers": 2990,
   "original_name": "Virtual Reality",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTkxNzYxMiwwMDAwMDAwMDVjNGU3NWNjMmMyNWZmZmFlODYwMGU0YWM4NDc2YzA2",
+  "snapshot_id": "MTY2MTkxNzYxMiwwMDAwMDAwMGM0ZThiMTdjOWRkN2FkYTJiNjgwNWM2ODUzNTc4ZjRh",
   "tracks": [
     {
       "added_at": "2022-08-31 03:46:52",
@@ -171,22 +171,6 @@
     {
       "added_at": "2021-10-06 02:11:31",
       "album": {
-        "name": "Step",
-        "url": "https://open.spotify.com/album/3NYrAcJbXmXGZFLjbufmHc"
-      },
-      "artists": [
-        {
-          "name": "Hotel Silk",
-          "url": "https://open.spotify.com/artist/2w74NOpyV1hM3L3NrZGLkd"
-        }
-      ],
-      "duration_ms": 431196,
-      "name": "Step",
-      "url": "https://open.spotify.com/track/5UgO8EHWoyXKo9uGcpiab2"
-    },
-    {
-      "added_at": "2021-10-06 02:11:31",
-      "album": {
         "name": "Post-Internet",
         "url": "https://open.spotify.com/album/4KHYr2C5MPHXMwZljGauaF"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 180000,
       "name": "Deep Thoughts 002",
       "url": "https://open.spotify.com/track/3APtNvoxF7gFpIhVq4kgUc"
+    },
+    {
+      "added_at": "2021-10-06 02:11:31",
+      "album": {
+        "name": "Step",
+        "url": "https://open.spotify.com/album/3NYrAcJbXmXGZFLjbufmHc"
+      },
+      "artists": [
+        {
+          "name": "Hotel Silk",
+          "url": "https://open.spotify.com/artist/2w74NOpyV1hM3L3NrZGLkd"
+        }
+      ],
+      "duration_ms": 431196,
+      "name": "Step",
+      "url": "https://open.spotify.com/track/5UgO8EHWoyXKo9uGcpiab2"
     },
     {
       "added_at": "2021-10-06 02:11:31",
@@ -249,6 +249,22 @@
       "url": "https://open.spotify.com/track/3Y8T9RXnsJFjz9OgieBnyP"
     },
     {
+      "added_at": "2021-10-06 02:11:31",
+      "album": {
+        "name": "Love In The Time Of Lexapro",
+        "url": "https://open.spotify.com/album/6LLrxzLTVeD4BXtie45q21"
+      },
+      "artists": [
+        {
+          "name": "Oneohtrix Point Never",
+          "url": "https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK"
+        }
+      ],
+      "duration_ms": 246129,
+      "name": "Love In The Time Of Lexapro",
+      "url": "https://open.spotify.com/track/16KyaozBg8WxDTmawnSuCm"
+    },
+    {
       "added_at": "2022-03-28 22:46:54",
       "album": {
         "name": "Blood Moon",
@@ -271,34 +287,18 @@
     {
       "added_at": "2021-10-06 02:11:31",
       "album": {
-        "name": "Love In The Time Of Lexapro",
-        "url": "https://open.spotify.com/album/6LLrxzLTVeD4BXtie45q21"
+        "name": "Selectors 002 - Young Marco",
+        "url": "https://open.spotify.com/album/4fxpBVBg2qKcqWP4cQDwS6"
       },
       "artists": [
         {
-          "name": "Oneohtrix Point Never",
-          "url": "https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK"
+          "name": "Wolf M\u00fcller",
+          "url": "https://open.spotify.com/artist/4VfrssMXmKSDejMWn1eT9D"
         }
       ],
-      "duration_ms": 246129,
-      "name": "Love In The Time Of Lexapro",
-      "url": "https://open.spotify.com/track/16KyaozBg8WxDTmawnSuCm"
-    },
-    {
-      "added_at": "2021-10-06 02:11:31",
-      "album": {
-        "name": "Room For The Moon",
-        "url": "https://open.spotify.com/album/5KduXFab1jkKushmutNYbq"
-      },
-      "artists": [
-        {
-          "name": "Kate NV",
-          "url": "https://open.spotify.com/artist/1OkYyMwTFtCIl6Jn664Xtx"
-        }
-      ],
-      "duration_ms": 315609,
-      "name": "Not Not Not",
-      "url": "https://open.spotify.com/track/0gReAloAEMGmMftpG64Cfw"
+      "duration_ms": 367077,
+      "name": "Pfad des Windes",
+      "url": "https://open.spotify.com/track/0WgSsCo3zWzkaHY0JlMoi9"
     },
     {
       "added_at": "2021-10-06 02:11:31",
@@ -319,18 +319,18 @@
     {
       "added_at": "2021-10-06 02:11:31",
       "album": {
-        "name": "Selectors 002 - Young Marco",
-        "url": "https://open.spotify.com/album/4fxpBVBg2qKcqWP4cQDwS6"
+        "name": "Room For The Moon",
+        "url": "https://open.spotify.com/album/5KduXFab1jkKushmutNYbq"
       },
       "artists": [
         {
-          "name": "Wolf M\u00fcller",
-          "url": "https://open.spotify.com/artist/4VfrssMXmKSDejMWn1eT9D"
+          "name": "Kate NV",
+          "url": "https://open.spotify.com/artist/1OkYyMwTFtCIl6Jn664Xtx"
         }
       ],
-      "duration_ms": 367077,
-      "name": "Pfad des Windes",
-      "url": "https://open.spotify.com/track/0WgSsCo3zWzkaHY0JlMoi9"
+      "duration_ms": 315609,
+      "name": "Not Not Not",
+      "url": "https://open.spotify.com/track/0gReAloAEMGmMftpG64Cfw"
     },
     {
       "added_at": "2021-10-06 02:11:31",
@@ -583,22 +583,6 @@
     {
       "added_at": "2021-10-06 02:11:31",
       "album": {
-        "name": "Especies Afines",
-        "url": "https://open.spotify.com/album/31XwRvy0U28EMB3Yqb6I1g"
-      },
-      "artists": [
-        {
-          "name": "Quixosis",
-          "url": "https://open.spotify.com/artist/1kBj1OQBW8iSmYbxIIQgcA"
-        }
-      ],
-      "duration_ms": 348000,
-      "name": "Loba",
-      "url": "https://open.spotify.com/track/2Ou5kaMPS1GW0S06y584s3"
-    },
-    {
-      "added_at": "2021-10-06 02:11:31",
-      "album": {
         "name": "Hotel Hastings (Music by Alejandro Morse for a Book by Eduardo Padilla)",
         "url": "https://open.spotify.com/album/3huFNw9r8hP0s7SqTRApN0"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 235921,
       "name": "Back to Hastings",
       "url": "https://open.spotify.com/track/0Pt4TBaEaUmzU5QW2IE7VN"
+    },
+    {
+      "added_at": "2021-10-06 02:11:31",
+      "album": {
+        "name": "Especies Afines",
+        "url": "https://open.spotify.com/album/31XwRvy0U28EMB3Yqb6I1g"
+      },
+      "artists": [
+        {
+          "name": "Quixosis",
+          "url": "https://open.spotify.com/artist/1kBj1OQBW8iSmYbxIIQgcA"
+        }
+      ],
+      "duration_ms": 348000,
+      "name": "Loba",
+      "url": "https://open.spotify.com/track/2Ou5kaMPS1GW0S06y584s3"
     },
     {
       "added_at": "2021-10-06 02:11:31",
@@ -631,22 +631,6 @@
     {
       "added_at": "2021-10-06 02:11:31",
       "album": {
-        "name": "Two Roomed Motel",
-        "url": "https://open.spotify.com/album/7GwJSepVHoLuJhSGnp1cbJ"
-      },
-      "artists": [
-        {
-          "name": "Scott Gilmore",
-          "url": "https://open.spotify.com/artist/4VC1j6E8YdBgmSGCWYWtVN"
-        }
-      ],
-      "duration_ms": 252013,
-      "name": "Two Roomed Motel",
-      "url": "https://open.spotify.com/track/4NA1uKjwxE80urqqnVssOf"
-    },
-    {
-      "added_at": "2021-10-06 02:11:31",
-      "album": {
         "name": "FIGURE BESIDE ME",
         "url": "https://open.spotify.com/album/1ua3QVWei0VVsllQKUtFxB"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 400373,
       "name": "ECSTASY OF ST. TERESA",
       "url": "https://open.spotify.com/track/7GYlqodPA2sXLI11yE44NZ"
+    },
+    {
+      "added_at": "2021-10-06 02:11:31",
+      "album": {
+        "name": "Two Roomed Motel",
+        "url": "https://open.spotify.com/album/7GwJSepVHoLuJhSGnp1cbJ"
+      },
+      "artists": [
+        {
+          "name": "Scott Gilmore",
+          "url": "https://open.spotify.com/artist/4VC1j6E8YdBgmSGCWYWtVN"
+        }
+      ],
+      "duration_ms": 252013,
+      "name": "Two Roomed Motel",
+      "url": "https://open.spotify.com/track/4NA1uKjwxE80urqqnVssOf"
     },
     {
       "added_at": "2021-10-06 02:11:31",
@@ -799,22 +799,6 @@
     {
       "added_at": "2021-10-06 02:11:31",
       "album": {
-        "name": "In the Woods",
-        "url": "https://open.spotify.com/album/0lHutFsPzdkHiR1tcJ3Hhm"
-      },
-      "artists": [
-        {
-          "name": "Rimarimba",
-          "url": "https://open.spotify.com/artist/1i51O70gGrEqrngjNWW3nm"
-        }
-      ],
-      "duration_ms": 275714,
-      "name": "Spafft Moutafft Seeall + California",
-      "url": "https://open.spotify.com/track/4iveIsFbEyag9lKazFiXg6"
-    },
-    {
-      "added_at": "2021-10-06 02:11:31",
-      "album": {
         "name": "The Shape Of Trance To Come",
         "url": "https://open.spotify.com/album/7JyBNivl2ASN9hqnH87mEY"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 369638,
       "name": "The Shape Of Trance To Come",
       "url": "https://open.spotify.com/track/6x71guQ6FQsyefFN3toj4n"
+    },
+    {
+      "added_at": "2021-10-06 02:11:31",
+      "album": {
+        "name": "In the Woods",
+        "url": "https://open.spotify.com/album/0lHutFsPzdkHiR1tcJ3Hhm"
+      },
+      "artists": [
+        {
+          "name": "Rimarimba",
+          "url": "https://open.spotify.com/artist/1i51O70gGrEqrngjNWW3nm"
+        }
+      ],
+      "duration_ms": 275714,
+      "name": "Spafft Moutafft Seeall + California",
+      "url": "https://open.spotify.com/track/4iveIsFbEyag9lKazFiXg6"
     },
     {
       "added_at": "2021-10-06 02:11:31",
@@ -883,26 +883,6 @@
     {
       "added_at": "2021-10-06 02:11:31",
       "album": {
-        "name": "Square Wave Adventures",
-        "url": "https://open.spotify.com/album/6kBFfxws5OZegPO96eMr5F"
-      },
-      "artists": [
-        {
-          "name": "Torb The Roach",
-          "url": "https://open.spotify.com/artist/1mLi2u2pdQqPOPsAx6mxKd"
-        },
-        {
-          "name": "Floppy MacSpace",
-          "url": "https://open.spotify.com/artist/0UtbQpfdpW6vO0d3C7qy62"
-        }
-      ],
-      "duration_ms": 162333,
-      "name": "Rullerytme",
-      "url": "https://open.spotify.com/track/0eccVOeOHpb24hBYLQD6sX"
-    },
-    {
-      "added_at": "2021-10-06 02:11:31",
-      "album": {
         "name": "Pavel Milyakov & Bendik Giske",
         "url": "https://open.spotify.com/album/4r1Py7hk842cwcK8eZ8tEx"
       },
@@ -919,6 +899,26 @@
       "duration_ms": 190783,
       "name": "Untitled 2",
       "url": "https://open.spotify.com/track/186loHqzmLS5hdB0ocZ84S"
+    },
+    {
+      "added_at": "2021-10-06 02:11:31",
+      "album": {
+        "name": "Square Wave Adventures",
+        "url": "https://open.spotify.com/album/6kBFfxws5OZegPO96eMr5F"
+      },
+      "artists": [
+        {
+          "name": "Torb The Roach",
+          "url": "https://open.spotify.com/artist/1mLi2u2pdQqPOPsAx6mxKd"
+        },
+        {
+          "name": "Floppy MacSpace",
+          "url": "https://open.spotify.com/artist/0UtbQpfdpW6vO0d3C7qy62"
+        }
+      ],
+      "duration_ms": 162333,
+      "name": "Rullerytme",
+      "url": "https://open.spotify.com/track/0eccVOeOHpb24hBYLQD6sX"
     },
     {
       "added_at": "2021-10-06 02:11:31",
@@ -1205,22 +1205,6 @@
       "url": "https://open.spotify.com/track/3x2DTlRCnyMw1KvQRB7h8W"
     },
     {
-      "added_at": "2022-04-06 04:04:03",
-      "album": {
-        "name": "below sea level",
-        "url": "https://open.spotify.com/album/7yZqGvVqcspruMHtrI0Uvb"
-      },
-      "artists": [
-        {
-          "name": "sfam",
-          "url": "https://open.spotify.com/artist/571ojpVCIGwAp4c1LV8yxI"
-        }
-      ],
-      "duration_ms": 190985,
-      "name": "no vacancy",
-      "url": "https://open.spotify.com/track/0RCXebMfBjjNoflA5DaxiM"
-    },
-    {
       "added_at": "2021-10-06 02:11:31",
       "album": {
         "name": "Ramifications",
@@ -1235,6 +1219,22 @@
       "duration_ms": 286270,
       "name": "Punta Alem",
       "url": "https://open.spotify.com/track/6rWyZPJd3Pmn6ng44kg4Wr"
+    },
+    {
+      "added_at": "2022-04-06 04:04:03",
+      "album": {
+        "name": "below sea level",
+        "url": "https://open.spotify.com/album/7yZqGvVqcspruMHtrI0Uvb"
+      },
+      "artists": [
+        {
+          "name": "sfam",
+          "url": "https://open.spotify.com/artist/571ojpVCIGwAp4c1LV8yxI"
+        }
+      ],
+      "duration_ms": 190985,
+      "name": "no vacancy",
+      "url": "https://open.spotify.com/track/0RCXebMfBjjNoflA5DaxiM"
     },
     {
       "added_at": "2021-10-06 02:11:31",
@@ -1297,6 +1297,22 @@
       "url": "https://open.spotify.com/track/4hRY2e2IWSwx77Y8Nvkd76"
     },
     {
+      "added_at": "2021-10-06 02:11:31",
+      "album": {
+        "name": "The Bittereinders",
+        "url": "https://open.spotify.com/album/0KHYKvdhyPGnSFFlU30v0h"
+      },
+      "artists": [
+        {
+          "name": "Daedelus",
+          "url": "https://open.spotify.com/artist/1YRGQOk4Mk9EpM6nTJhXtK"
+        }
+      ],
+      "duration_ms": 222750,
+      "name": "Veldt",
+      "url": "https://open.spotify.com/track/05RSSZNfIN5Z7Ykv1W9k7l"
+    },
+    {
       "added_at": "2022-02-09 04:06:03",
       "album": {
         "name": "Aurelie (Lido Pimienta Remix)",
@@ -1315,22 +1331,6 @@
       "duration_ms": 258625,
       "name": "Aurelie (Lido Pimienta Remix)",
       "url": "https://open.spotify.com/track/0vFdrzcSex0hPwLnw3SFa1"
-    },
-    {
-      "added_at": "2021-10-06 02:11:31",
-      "album": {
-        "name": "The Bittereinders",
-        "url": "https://open.spotify.com/album/0KHYKvdhyPGnSFFlU30v0h"
-      },
-      "artists": [
-        {
-          "name": "Daedelus",
-          "url": "https://open.spotify.com/artist/1YRGQOk4Mk9EpM6nTJhXtK"
-        }
-      ],
-      "duration_ms": 222750,
-      "name": "Veldt",
-      "url": "https://open.spotify.com/track/05RSSZNfIN5Z7Ykv1W9k7l"
     },
     {
       "added_at": "2021-10-06 02:11:31",
@@ -1427,18 +1427,18 @@
     {
       "added_at": "2021-10-06 02:11:31",
       "album": {
-        "name": "Preacher's Sigh & Potion: Lost Album",
-        "url": "https://open.spotify.com/album/3HEN4oDgKRQUiGMOL1cWJ9"
+        "name": "Documentaires",
+        "url": "https://open.spotify.com/album/0pfXg399w8dYdU7Wm69heu"
       },
       "artists": [
         {
-          "name": "Matthew Dear",
-          "url": "https://open.spotify.com/artist/2GLf7iaOOujAem5R87xwto"
+          "name": "Bataille Solaire",
+          "url": "https://open.spotify.com/artist/1qvKDLWQAegOmpkdWhL5Mz"
         }
       ],
-      "duration_ms": 203723,
-      "name": "Supper Times",
-      "url": "https://open.spotify.com/track/1kL88WaLYZfVisS6gAdk9O"
+      "duration_ms": 138000,
+      "name": "Mangrove",
+      "url": "https://open.spotify.com/track/0zdyHkf7N2JIuuzrjLQStd"
     },
     {
       "added_at": "2022-01-21 20:16:34",
@@ -1459,18 +1459,18 @@
     {
       "added_at": "2021-10-06 02:11:31",
       "album": {
-        "name": "Documentaires",
-        "url": "https://open.spotify.com/album/0pfXg399w8dYdU7Wm69heu"
+        "name": "Preacher's Sigh & Potion: Lost Album",
+        "url": "https://open.spotify.com/album/3HEN4oDgKRQUiGMOL1cWJ9"
       },
       "artists": [
         {
-          "name": "Bataille Solaire",
-          "url": "https://open.spotify.com/artist/1qvKDLWQAegOmpkdWhL5Mz"
+          "name": "Matthew Dear",
+          "url": "https://open.spotify.com/artist/2GLf7iaOOujAem5R87xwto"
         }
       ],
-      "duration_ms": 138000,
-      "name": "Mangrove",
-      "url": "https://open.spotify.com/track/0zdyHkf7N2JIuuzrjLQStd"
+      "duration_ms": 203723,
+      "name": "Supper Times",
+      "url": "https://open.spotify.com/track/1kL88WaLYZfVisS6gAdk9O"
     },
     {
       "added_at": "2021-10-06 02:11:31",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2021-10-06 02:11:31",
       "album": {
-        "name": "Nihon No Ongaku / \u65e5\u672c\u306e\u97f3\u697d\u300d",
-        "url": "https://open.spotify.com/album/1JzzU8fkEAmWGw9RJGhMP9"
-      },
-      "artists": [
-        {
-          "name": "Hoshina Anniversary",
-          "url": "https://open.spotify.com/artist/4GS5E4aNdIR4yuswso1DZV"
-        }
-      ],
-      "duration_ms": 316755,
-      "name": "Arazaramu",
-      "url": "https://open.spotify.com/track/7t2SwkamdQdGfJ7vLnXVtt"
-    },
-    {
-      "added_at": "2021-10-06 02:11:31",
-      "album": {
         "name": "Ah'na Hakkeka",
         "url": "https://open.spotify.com/album/4a8ffGNfHifT0MWtJ4rvBD"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 341223,
       "name": "Ah'na Hakkeka",
       "url": "https://open.spotify.com/track/3q1oYpNQBoYsJzjhBDZ3yr"
+    },
+    {
+      "added_at": "2021-10-06 02:11:31",
+      "album": {
+        "name": "Nihon No Ongaku / \u65e5\u672c\u306e\u97f3\u697d\u300d",
+        "url": "https://open.spotify.com/album/1JzzU8fkEAmWGw9RJGhMP9"
+      },
+      "artists": [
+        {
+          "name": "Hoshina Anniversary",
+          "url": "https://open.spotify.com/artist/4GS5E4aNdIR4yuswso1DZV"
+        }
+      ],
+      "duration_ms": 316755,
+      "name": "Arazaramu",
+      "url": "https://open.spotify.com/track/7t2SwkamdQdGfJ7vLnXVtt"
     },
     {
       "added_at": "2021-10-06 02:11:31",

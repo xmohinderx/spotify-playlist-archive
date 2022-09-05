@@ -4,7 +4,7 @@
 
 > Listen to your favourite Anime songs, all in one playlist.
 
-580 songs - 1 day 14 hr 58 min - [published](https://open.spotify.com/playlist/4H5YYTXfYVIPc6bncg5u8V)
+581 songs - 1 day 15 hr 3 min - [published](https://open.spotify.com/playlist/4H5YYTXfYVIPc6bncg5u8V)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Ash Like Snow](https://open.spotify.com/track/0nMflPztzJg8C8w1xcHhIe) | [the brilliant green](https://open.spotify.com/artist/6ML3nrYx5Mu1wcXP8SmtG2) | [complete single collection '97\-'08](https://open.spotify.com/album/4tTWP0M6kE7r1WkAKvfSV2) | 4:32 | 2022-06-07 | 2022-08-12 |
 | [asphyxia](https://open.spotify.com/track/3f3FDZajRpcLQGln7OZqdi) | [Cö Shu Nie](https://open.spotify.com/artist/0LlH6J1tj2TPq7AlwXAkY5) | [PURE](https://open.spotify.com/album/2oTP6o5ggDbudTzSvxiD6x) | 2:54 | 2022-06-07 |  |
 | [auro nowe](https://open.spotify.com/track/5sVyvlVKcWVxYvEdQISHqR) | [inocencia](https://open.spotify.com/artist/7mVKRs1kuH2Av7XfXLW5LZ) | [auro nowe](https://open.spotify.com/album/4GbAolpg1rcEWLwSvogoRh) | 4:03 | 2022-06-07 | 2022-07-27 |
-| [Avid](https://open.spotify.com/track/28QpCzFbTf09Jsj2zuz58t) | [SawanoHiroyuki\[nZk\]:mizuki](https://open.spotify.com/artist/3QWtKCUakFDZoosqTReaRS) | [Avid](https://open.spotify.com/album/1OpeVvRFxOPSydD2IrOepC) | 4:10 | 2022-06-07 |  |
+| [Avid](https://open.spotify.com/track/28QpCzFbTf09Jsj2zuz58t) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [mizuki](https://open.spotify.com/artist/0Pt3k7cpeOysqGGiw3tQcS) | [Avid](https://open.spotify.com/album/1OpeVvRFxOPSydD2IrOepC) | 4:10 | 2022-06-07 |  |
 | [BAD CANDY](https://open.spotify.com/track/3doxURNybgE4qvvItG1Qk4) | [yukaDD\(;´∀｀\)](https://open.spotify.com/artist/5AfbFgeqRYOGZbu3lYtZLe) | [BAD CANDY](https://open.spotify.com/album/52V4InUAwmqTzcohXhvV6g) | 3:46 | 2022-06-07 | 2022-07-29 |
 | [BAKU \(CORSAK Remix\) \- SACRA BEATS Singles](https://open.spotify.com/track/12Bkie1yk9RyGrscN6QUeQ) | [Ikimonogakari](https://open.spotify.com/artist/5YneEA2nLtAhkD5t2769lZ), [CORSAK](https://open.spotify.com/artist/1TcbdifqhtxLz77unBYJ7z) | [BAKU \(CORSAK Remix\) \- SACRA BEATS Singles](https://open.spotify.com/album/71jYgY5hsLoiOJg1XFQNNF) | 2:19 | 2022-06-07 | 2022-07-28 |
 | [BANG!!!](https://open.spotify.com/track/4o1s691Qn6lUmFh1Bl28NG) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [BANG!!!](https://open.spotify.com/album/7JruDbtqHdtkxzIXBf6gjO) | 3:16 | 2022-06-07 |  |
@@ -337,7 +337,7 @@
 | [ここで生きてる](https://open.spotify.com/track/2vIWfDgMhBpQX6KyEIFMhk) | [MARY](https://open.spotify.com/artist/08EO45FsrKqyDaVHocLjug), [jon\-YAKITORY](https://open.spotify.com/artist/0XDvcwWavm2VcdiXwDKgvB) | [ここで生きてる](https://open.spotify.com/album/7tPIq5kHy7oiJGwTFz1EYJ) | 3:22 | 2022-06-07 | 2022-07-28 |
 | [この夢が醒めるまで](https://open.spotify.com/track/7i6gJOOf0oDDYW9xOyVjmN) | [Miliyah](https://open.spotify.com/artist/29D4iRqjepAsZt6o5hccND), [Yoshida Brothers](https://open.spotify.com/artist/1C08PKH51P2fcJMrPOFRwI) | [この夢が醒めるまで](https://open.spotify.com/album/34JbQD8aevlVqawJdBkzHb) | 4:13 | 2022-06-07 | 2022-07-23 |
 | [さよならごっこ](https://open.spotify.com/track/7ha9B32izQ0Ni2RtSzm2C4) | [amazarashi](https://open.spotify.com/artist/6T4K8YuFc0JPDrYgABbxao) | [BOYCOTT](https://open.spotify.com/album/1PdHNXd6zUwYxcadffHHBX) | 4:32 | 2022-06-07 |  |
-| [じゃあね、またね。](https://open.spotify.com/track/6hDhcQg11LxCk3rcaRlyb6) | [Riria.](https://open.spotify.com/artist/1J6OD7vLbjEuFVgVRlusmS) | [じゃあね、またね。](https://open.spotify.com/album/0YebkMmTNZYPMEvTPSv8RJ) | 4:05 | 2022-06-07 |  |
+| [じゃあね、またね。](https://open.spotify.com/track/6hDhcQg11LxCk3rcaRlyb6) | [Riria.](https://open.spotify.com/artist/1J6OD7vLbjEuFVgVRlusmS) | [じゃあね、またね。](https://open.spotify.com/album/0YebkMmTNZYPMEvTPSv8RJ) | 4:05 | 2022-06-07 | 2022-09-05 |
 | [その先の光へ](https://open.spotify.com/track/6vhlzDLaHOaENWsdwGCBCc) | [Akihito Okano](https://open.spotify.com/artist/1ioDAlx6i5snCxm2z9ZnUD) | [その先の光へ](https://open.spotify.com/album/1wlUyiLlOK5m7LWBhXxEuc) | 4:22 | 2022-06-07 | 2022-07-10 |
 | [とめどない潮騒に僕たちは何を歌うだろうか](https://open.spotify.com/track/1WODlTo859RluCHE88POd9) | [ARCANA PROJECT](https://open.spotify.com/artist/33nBmWfW7J3vL487uRL8Cz) | [とめどない潮騒に僕たちは何を歌うだろうか](https://open.spotify.com/album/5drbv8Z1yG9nPrh1wApxNI) | 3:51 | 2022-06-07 | 2022-07-25 |
 | [ないない](https://open.spotify.com/track/2lD8rPegYoYC1WucU3vU1W) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [ないない \(Special Edition\)](https://open.spotify.com/album/6HD7Zt2IlhBzbOankRvipw) | 4:14 | 2022-06-07 |  |
@@ -438,6 +438,7 @@
 | [リセット](https://open.spotify.com/track/5DfC0daqjnz1iQlOmpv2ib) | [Taichi Mukai](https://open.spotify.com/artist/2oNStf3CKKLM5lnzELWMcH) | [PURE](https://open.spotify.com/album/2TGEJxj260gHLitdF8es0E) | 4:09 | 2022-06-07 | 2022-07-29 |
 | [リセット](https://open.spotify.com/track/7gm59KVXfG8wEAfN3Lv2Xu) | [Taichi Mukai](https://open.spotify.com/artist/2oNStf3CKKLM5lnzELWMcH) | [PURE](https://open.spotify.com/album/71TimGdYvnolc8o298RVxs) | 4:09 | 2022-06-07 |  |
 | [リナリア](https://open.spotify.com/track/6CDwwQF6WjyiYf2YRwjtFk) | [まるりとりゅうが](https://open.spotify.com/artist/6dcd2CUUMnZjue8tgSE68n) | [リナリア](https://open.spotify.com/album/6nHcxKC13BVATxDD5IGkRi) | 3:51 | 2022-06-07 | 2022-07-22 |
+| [レイメイ](https://open.spotify.com/track/7EZRxYT7qkgNcMIW59POuA) | [Sayuri](https://open.spotify.com/artist/1YLxQZIGsaZq9rvFu8zeRz), [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [酸欠少女](https://open.spotify.com/album/7wULgwMQk3K8FdcYqCKVlO) | 5:14 | 2022-08-11 |  |
 | [レイメイ](https://open.spotify.com/track/1s0QbmRVJ6AK4ICc44tJtB) | [Sayuri](https://open.spotify.com/artist/1YLxQZIGsaZq9rvFu8zeRz), [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [Dawn](https://open.spotify.com/album/7hdGjytOu9ziptlaNwbtwK) | 5:15 | 2022-06-07 | 2022-07-28 |
 | [レイメイ](https://open.spotify.com/track/3D8dMWN3O6hbIlts9FXi9Z) | [Sayuri](https://open.spotify.com/artist/1YLxQZIGsaZq9rvFu8zeRz), [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [レイメイ](https://open.spotify.com/album/2IvwlWOCgabwi9iELRtMZ6) | 5:15 | 2022-06-07 | 2022-08-13 |
 | [ロングホープ・フィリア](https://open.spotify.com/track/2tPQxzloliTGZHSnuoblD8) | [Masaki Suda](https://open.spotify.com/artist/6n4SsAp5VjvIBg3s9QCcPX) | [LOVE](https://open.spotify.com/album/6P7vdw5AEZECkX8dwZAt6B) | 4:55 | 2022-06-07 |  |

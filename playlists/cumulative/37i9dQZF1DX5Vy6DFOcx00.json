@@ -900,6 +900,24 @@
     },
     {
       "album": {
+        "name": "Ctrl (Deluxe)",
+        "url": "https://open.spotify.com/album/6FKP2O0oOvZlDkF0gyTjiJ"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "date_added": "2022-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "Awkward",
+      "url": "https://open.spotify.com/track/2xZ0zfuDTv5LxLhEgD82PG"
+    },
+    {
+      "album": {
         "name": "AWKWARD FREESTYLE",
         "url": "https://open.spotify.com/album/2NCexUw6m7UA2YitYdirbV"
       },
@@ -4746,7 +4764,7 @@
       "artists": [
         {
           "name": "Tariq",
-          "url": "https://open.spotify.com/artist/599hKOVjadkb7Ny10pYc0M"
+          "url": "https://open.spotify.com/artist/2knWnzQWhtUg9J3zVsEYm8"
         },
         {
           "name": "The Gregory Brothers",

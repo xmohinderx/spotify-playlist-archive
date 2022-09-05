@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JcPJgYjGcf.md) - [plain]
 
 > All the megahits by the South Korean boy band are right here! Don't fight your feelings, EXO\-Ls!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,054,664 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,054,685 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JcPJgYjGcf.md) - [plain]
 | 41 | [Stay With Me](https://open.spotify.com/track/1HYzRuWjmS9LXCkdVHi25K) | [CHANYEOL](https://open.spotify.com/artist/6jV25rzTKQ2zMgrqHha1V5), [Punch](https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm) | [Guardian \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/6Pr1DaOWfT6hEewhZMRyqg) | 3:12 |
 | 42 | [UN Village](https://open.spotify.com/track/0WSTInLqMrT9po0LAHpZCJ) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [City Lights \- The 1st Mini Album](https://open.spotify.com/album/6AeMj5CMeTXRGhmUuv0LH3) | 3:55 |
 | 43 | [Reason](https://open.spotify.com/track/5x2p715xYEKn2AdV9pNv52) | [KAI](https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak) | [KAI \- The 1st Mini Album](https://open.spotify.com/album/6xpxMAUhk8hiDTa5zT7F86) | 2:53 |
-| 44 | [Joker](https://open.spotify.com/track/3mkBVRxL8Zb6Cp9PuBHMq4) | [LAY](https://open.spotify.com/artist/4o7tWrzQOqarDtTMWD2HV9) | [Joker](https://open.spotify.com/album/6Q7hzeX6jomOltQjbygShm) | 2:18 |
+| 44 | [Joker](https://open.spotify.com/track/7yVsn705mElzqZfuxoZSjv) | [LAY](https://open.spotify.com/artist/4o7tWrzQOqarDtTMWD2HV9) | [PRODUCER](https://open.spotify.com/album/7KVVfotZYLbM4rYaSGLrMX) | 2:18 |
 | 45 | [PLAYBOY](https://open.spotify.com/track/06KYwRJKN3IKOKzaWuP3ea) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [EXODUS \- The 2nd Album](https://open.spotify.com/album/0PepQsL30ADZO7gc4Tz7Af) | 3:32 |
 | 46 | [Amnesia](https://open.spotify.com/track/11dQTEghmS3uFipXhk1Tbl) | [KAI](https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak) | [KAI \- The 1st Mini Album](https://open.spotify.com/album/6xpxMAUhk8hiDTa5zT7F86) | 2:58 |
 | 47 | [Wolf](https://open.spotify.com/track/7n0D1iLva5zp4JcnlIMeVa) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [The 1st Album 'XOXO' \(Repackage\)](https://open.spotify.com/album/4qduCvpyBL5hGYdBvCvcDA) | 3:50 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JcPJgYjGcf.md) - [plain]
 | 99 | [Made In You](https://open.spotify.com/track/30NvzcboJe3GQRIDkJM0k3) | [SUHO](https://open.spotify.com/artist/5zkf2Na8DKKJmtWX5Xrx3m) | [Self\-Portrait \- The 1st Mini Album](https://open.spotify.com/album/0f4L2zNLtQtFk08M1YGoE1) | 3:30 |
 | 100 | [You](https://open.spotify.com/track/4r3k2iBOPJZHqnmkOFMJEv) | [XIUMIN](https://open.spotify.com/artist/5t0Js3X9t4wpgXGlaiTFe6) | [You](https://open.spotify.com/album/0WxVZ3hfD1LKSIkbOriLGi) | 5:06 |
 
-Snapshot ID: `MTYyNzMwNTkwOCwwMDAwMDAwMGZjMTMwMmRiNDRhZTdlMzJkOWE5NTg2NjUxZGE1ZDVi`
+Snapshot ID: `MTYyNzMwNTkwOCwwMDAwMDAwMDZlZDQ2NmYyMWU5ZWFkNDUwMmQ4ODk5NmNiNTczZjYz`

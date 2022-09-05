@@ -4,7 +4,7 @@
 
 > The ultimate chilled soundtrack to bring your day to a close.
 
-119 songs - 9 hr 25 min - [published](https://open.spotify.com/playlist/467x8DmD9jX6toG0U5jCPJ)
+120 songs - 9 hr 30 min - [published](https://open.spotify.com/playlist/467x8DmD9jX6toG0U5jCPJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,7 @@
 | [London\. Paris\. Berlin.](https://open.spotify.com/track/5mxQ1JcGnb3sTu5zO08ZTK) | [Shire T](https://open.spotify.com/artist/0AIim12jO78DuyyUYbHfAe), [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg) | [London\. Paris\. Berlin.](https://open.spotify.com/album/1dDsbruFq4OZMM1Xj3KF6v) | 4:05 | 2021-10-15 | 2022-07-29 |
 | [Lone Raver](https://open.spotify.com/track/06r5aMZ8cT6wZXcEyqOLH4) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Lone Raver](https://open.spotify.com/album/0qpxpizwkNZexLID0TEPWe) | 4:17 | 2021-10-15 |  |
 | [Loser \- Edit](https://open.spotify.com/track/40Q0U7FEgv7ZVo4T9YSv2R) | [Col Lawton](https://open.spotify.com/artist/1KoBr4hgTMG3lPR353sNqm) | [Loser](https://open.spotify.com/album/0jwuVql8QMl6RxFopURjAc) | 2:53 | 2022-07-20 |  |
-| [M\. Dupont](https://open.spotify.com/track/5PVGKs7sAoDdK0cvMDaKqR) | [The Dining Rooms](https://open.spotify.com/artist/399t4qwl1M9sMlOtlxVP7e) | [Subterranean Modern Vol\. 1](https://open.spotify.com/album/42n3hWmZuEOrNExFM8qEd8) | 5:59 | 2022-07-20 |  |
+| [M\. Dupont](https://open.spotify.com/track/5PVGKs7sAoDdK0cvMDaKqR) | [The Dining Rooms](https://open.spotify.com/artist/399t4qwl1M9sMlOtlxVP7e) | [Subterranean Modern Vol\. 1](https://open.spotify.com/album/42n3hWmZuEOrNExFM8qEd8) | 5:59 | 2022-07-20 | 2022-09-05 |
 | [Memoria](https://open.spotify.com/track/71aAjtAtvLgTdmLOt5syln) | [Spring In A Small Town](https://open.spotify.com/artist/6VpUobaDr3krJGaceN1unG) | [Spring in a Small Town](https://open.spotify.com/album/66yTz70ZvQSi0aWQLJnGvF) | 4:37 | 2021-10-15 | 2022-07-21 |
 | [Milky Way](https://open.spotify.com/track/4E3A7qJWoSZWBGqTKw6iFC) | [Amonita](https://open.spotify.com/artist/1bpbyzXfwOMIBHq6y02Nqc) | [Milky Way](https://open.spotify.com/album/3u201ZucjhDqDE4ZxDo1BR) | 7:52 | 2021-10-15 | 2022-07-29 |
 | [Momentum](https://open.spotify.com/track/4sSYEvtIDlWsFv7og6gWce) | [Sam Goku](https://open.spotify.com/artist/2phu8EHvQpvoHG5BivWr0l) | [Momentum](https://open.spotify.com/album/0z6AGDemMBYhvKzkgw7c9J) | 8:43 | 2021-10-15 | 2021-12-31 |
@@ -109,6 +109,7 @@
 | [Suzuki](https://open.spotify.com/track/7DBBuzCuZQaWNRix9ys6UB) | [Tosca](https://open.spotify.com/artist/0TYvluyvV1Es8lTHiBfnAn) | [Suzuki](https://open.spotify.com/album/3mMCQiZaRbwPhn1I3vdFRP) | 6:04 | 2022-07-20 |  |
 | [Take Me There](https://open.spotify.com/track/4AjynDSkuGn4EZXjy5YYL4) | [Dejector](https://open.spotify.com/artist/0WwAYiS9iUf3VNUqRniJsi) | [Take Me There](https://open.spotify.com/album/5BBKnHnAIuhup9rSQE3bYW) | 3:15 | 2021-10-15 | 2022-07-29 |
 | [Talking with Myself '98 \(Canny Remix\)](https://open.spotify.com/track/1mqgumZf8MUmNsy9tIWWI3) | [Electribe 101](https://open.spotify.com/artist/03E0TlGIGYR5G3vzkjGrtv) | [Talking With Myself \- Remixes](https://open.spotify.com/album/16vvi1guYbBkEhfqhbiSdF) | 7:03 | 2021-10-15 | 2022-07-24 |
+| [The Child](https://open.spotify.com/track/43sGFmqBOGGUmCu51nEU6K) | [Alex Gopher](https://open.spotify.com/artist/0ADS8B9CUYtbFLvjT99Ktw) | [You My Baby And I](https://open.spotify.com/album/1OljO7oStiLQ8f1etN8S8U) | 4:34 | 2022-07-20 |  |
 | [The Message](https://open.spotify.com/track/3HszkoBsOy2VLTcznQ64qR) | [Naylor](https://open.spotify.com/artist/7pwuyPsv8oRsNL7nnhqOLy) | [The Message](https://open.spotify.com/album/6vlFjrvRtqxXnKpSiNwzc1) | 4:06 | 2021-10-15 | 2022-07-29 |
 | [The Path](https://open.spotify.com/track/0a6Gsxg9F2y28YaXb4mPY4) | [Kilig](https://open.spotify.com/artist/6bV9MqjsNFkMwryuBkWvXX) | [The Path](https://open.spotify.com/album/0ElCHdddUAPJfRmNe7eWyo) | 3:12 | 2021-10-15 |  |
 | [The Sea](https://open.spotify.com/track/7MRI6ZNv3neLVYy2kQ91nQ) | [Morcheeba](https://open.spotify.com/artist/6bWxFw65IEJzBYjx3SxUXd) | [Big Calm](https://open.spotify.com/album/7rjjFxMFZjPzQzBMj6mXr2) | 5:48 | 2022-07-20 |  |

@@ -1,12 +1,12 @@
 {
   "description": "\ubc9a\uaf43\uc774 \ud769\ub0a0\ub9ac\uace0 \uc0c8\uc2f9\uc774 \ud53c\uc5b4\uc624\ub974\ub294 \ubd04\uc758 \uc124\ub808\uc784\uc744 \ub9cc\ub07d\ud558\uc138\uc694.",
-  "num_followers": 2852,
+  "num_followers": 2850,
   "original_name": "\ubd04\uac19\uc740 \uc124\ub808\uc784",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDA2NDMyNywwMDAwMDAwMGRhMDdmMzk1MzExMjE4NDhmNjc5ODM3ODYyM2E0Nzhm",
+  "snapshot_id": "MTY2MDA2NDMyNywwMDAwMDAwMGYyMDM5NWQyY2Y2MDVmMDRmZDY5NWQ3MmUwZGE5MGQx",
   "tracks": [
     {
       "added_at": "2022-08-09 16:58:47",
@@ -439,22 +439,6 @@
     {
       "added_at": "2022-08-09 16:58:47",
       "album": {
-        "name": "Season Note",
-        "url": "https://open.spotify.com/album/3JEa8UjDYS2nxdM8X7ShOM"
-      },
-      "artists": [
-        {
-          "name": "DAVICHI",
-          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
-        }
-      ],
-      "duration_ms": 209306,
-      "name": "Fanfare",
-      "url": "https://open.spotify.com/track/0HnOuV8mqOxAhxT6Z2BVco"
-    },
-    {
-      "added_at": "2022-08-09 16:58:47",
-      "album": {
         "name": "Why isn't love always easy? (Romance 101 X JOY)",
         "url": "https://open.spotify.com/album/5CGt6ALaaHUzCHtbqhpDJi"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 221040,
       "name": "Why isn't love always easy? (Romance 101 X JOY)",
       "url": "https://open.spotify.com/track/0i2zK59gngO1kHTnq9Hvp8"
+    },
+    {
+      "added_at": "2022-08-09 16:58:47",
+      "album": {
+        "name": "Season Note",
+        "url": "https://open.spotify.com/album/3JEa8UjDYS2nxdM8X7ShOM"
+      },
+      "artists": [
+        {
+          "name": "DAVICHI",
+          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
+        }
+      ],
+      "duration_ms": 209306,
+      "name": "Fanfare",
+      "url": "https://open.spotify.com/track/0HnOuV8mqOxAhxT6Z2BVco"
     },
     {
       "added_at": "2022-08-09 16:58:47",
@@ -523,26 +523,6 @@
     {
       "added_at": "2022-08-09 16:58:47",
       "album": {
-        "name": "SSOOK DDOONG (feat. CHOI YOOJUNG)",
-        "url": "https://open.spotify.com/album/31T5angQfNXokneuSdQq56"
-      },
-      "artists": [
-        {
-          "name": "BOOKKU DDOONG",
-          "url": "https://open.spotify.com/artist/3dy8YhuMdQX2iwO1CaurGw"
-        },
-        {
-          "name": "CHOI YOOJUNG",
-          "url": "https://open.spotify.com/artist/1ygbGmBWGTX0llbLrD9648"
-        }
-      ],
-      "duration_ms": 167800,
-      "name": "SSOOK DDOONG (feat. CHOI YOOJUNG)",
-      "url": "https://open.spotify.com/track/0bh107oicEpxI1RiAz59Wb"
-    },
-    {
-      "added_at": "2022-08-09 16:58:47",
-      "album": {
         "name": "HONEY",
         "url": "https://open.spotify.com/album/13G1o00M2cXesfbhj8p8H2"
       },
@@ -559,6 +539,26 @@
       "duration_ms": 227506,
       "name": "HONEY (Feat. Crucial Star)",
       "url": "https://open.spotify.com/track/2Lt1ZRU6nFY88vw24GdYLy"
+    },
+    {
+      "added_at": "2022-08-09 16:58:47",
+      "album": {
+        "name": "SSOOK DDOONG (feat. CHOI YOOJUNG)",
+        "url": "https://open.spotify.com/album/31T5angQfNXokneuSdQq56"
+      },
+      "artists": [
+        {
+          "name": "BOOKKU DDOONG",
+          "url": "https://open.spotify.com/artist/3dy8YhuMdQX2iwO1CaurGw"
+        },
+        {
+          "name": "CHOI YOOJUNG",
+          "url": "https://open.spotify.com/artist/1ygbGmBWGTX0llbLrD9648"
+        }
+      ],
+      "duration_ms": 167800,
+      "name": "SSOOK DDOONG (feat. CHOI YOOJUNG)",
+      "url": "https://open.spotify.com/track/0bh107oicEpxI1RiAz59Wb"
     },
     {
       "added_at": "2022-08-09 16:58:47",
@@ -799,6 +799,22 @@
     {
       "added_at": "2022-08-09 16:58:47",
       "album": {
+        "name": "Idle Idle",
+        "url": "https://open.spotify.com/album/5oJiWLZ8JGsYPh9Pdq9D2s"
+      },
+      "artists": [
+        {
+          "name": "\u30bd\u30cc\u30fb\u30b8\u30e7\u30f3\u30a2",
+          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
+        }
+      ],
+      "duration_ms": 196616,
+      "name": "Spring Attitude",
+      "url": "https://open.spotify.com/track/0oX3uukKkz0aBEXl3RxxyC"
+    },
+    {
+      "added_at": "2022-08-09 16:58:47",
+      "album": {
         "name": "Marry ME (Welcome To Wedding Hell OST Part.1)",
         "url": "https://open.spotify.com/album/5qVymXLVFc2aJq3sUyhUO3"
       },
@@ -831,22 +847,6 @@
     {
       "added_at": "2022-08-09 16:58:47",
       "album": {
-        "name": "Idle Idle",
-        "url": "https://open.spotify.com/album/5oJiWLZ8JGsYPh9Pdq9D2s"
-      },
-      "artists": [
-        {
-          "name": "\u30bd\u30cc\u30fb\u30b8\u30e7\u30f3\u30a2",
-          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
-        }
-      ],
-      "duration_ms": 196616,
-      "name": "Spring Attitude",
-      "url": "https://open.spotify.com/track/0oX3uukKkz0aBEXl3RxxyC"
-    },
-    {
-      "added_at": "2022-08-09 16:58:47",
-      "album": {
         "name": "AFTER THE LIGHT",
         "url": "https://open.spotify.com/album/0o5EHrWY8OhObL2HwHNGpv"
       },
@@ -859,22 +859,6 @@
       "duration_ms": 194453,
       "name": "AFTER THE LIGHT",
       "url": "https://open.spotify.com/track/7CAlzZZI89CpcNgw0rTIHh"
-    },
-    {
-      "added_at": "2022-08-09 16:58:47",
-      "album": {
-        "name": "First Love Story (Original Soundtrack from the Webtoon Fight For My Way)",
-        "url": "https://open.spotify.com/album/1e5e5KZ97uAAUufTpjd5OJ"
-      },
-      "artists": [
-        {
-          "name": "Baek A Yeon",
-          "url": "https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX"
-        }
-      ],
-      "duration_ms": 207773,
-      "name": "First Love Story",
-      "url": "https://open.spotify.com/track/7yaFG7IYstppb3WrI7nMWY"
     },
     {
       "added_at": "2022-08-09 16:58:47",
@@ -895,6 +879,22 @@
       "duration_ms": 207613,
       "name": "Spring Is Come By Chance",
       "url": "https://open.spotify.com/track/098sl6wQg4guh7W3EkkKX6"
+    },
+    {
+      "added_at": "2022-08-09 16:58:47",
+      "album": {
+        "name": "First Love Story (Original Soundtrack from the Webtoon Fight For My Way)",
+        "url": "https://open.spotify.com/album/1e5e5KZ97uAAUufTpjd5OJ"
+      },
+      "artists": [
+        {
+          "name": "Baek A Yeon",
+          "url": "https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX"
+        }
+      ],
+      "duration_ms": 207773,
+      "name": "First Love Story",
+      "url": "https://open.spotify.com/track/7yaFG7IYstppb3WrI7nMWY"
     },
     {
       "added_at": "2022-08-09 16:58:47",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2022-08-09 16:58:47",
       "album": {
-        "name": "A daily adventurer",
-        "url": "https://open.spotify.com/album/4RbiWNvhyQFKjiC6d0bTRP"
-      },
-      "artists": [
-        {
-          "name": "Lee Jin Ah",
-          "url": "https://open.spotify.com/artist/4SzO3ea2qcjg1uLyNJAWnM"
-        }
-      ],
-      "duration_ms": 204053,
-      "name": "Where the Wind Rises",
-      "url": "https://open.spotify.com/track/6s6n1Rc2zy9LtSAPsvaEPM"
-    },
-    {
-      "added_at": "2022-08-09 16:58:47",
-      "album": {
         "name": "Spring",
         "url": "https://open.spotify.com/album/1wGIkXzSpJd7VfoGJBkVbs"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 202823,
       "name": "Mini Stewardess",
       "url": "https://open.spotify.com/track/2kG9KpdmG8hKdJI6UOQZiN"
+    },
+    {
+      "added_at": "2022-08-09 16:58:47",
+      "album": {
+        "name": "A daily adventurer",
+        "url": "https://open.spotify.com/album/4RbiWNvhyQFKjiC6d0bTRP"
+      },
+      "artists": [
+        {
+          "name": "Lee Jin Ah",
+          "url": "https://open.spotify.com/artist/4SzO3ea2qcjg1uLyNJAWnM"
+        }
+      ],
+      "duration_ms": 204053,
+      "name": "Where the Wind Rises",
+      "url": "https://open.spotify.com/track/6s6n1Rc2zy9LtSAPsvaEPM"
     },
     {
       "added_at": "2022-08-09 16:58:47",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2022-08-09 16:58:47",
       "album": {
+        "name": "Cliche",
+        "url": "https://open.spotify.com/album/0HvDuRpsbzr3ZMewq2zIxE"
+      },
+      "artists": [
+        {
+          "name": "ROJO",
+          "url": "https://open.spotify.com/artist/5fb2Jm0wQjvBzc5Wu6RrGl"
+        }
+      ],
+      "duration_ms": 186697,
+      "name": "Cliche",
+      "url": "https://open.spotify.com/track/3j4S4QDWyHo1pBrhLfUgqM"
+    },
+    {
+      "added_at": "2022-08-09 16:58:47",
+      "album": {
         "name": "blooming",
         "url": "https://open.spotify.com/album/4m6i862LBcQlLoDR5INrN3"
       },
@@ -1223,22 +1239,6 @@
       "duration_ms": 181680,
       "name": "OH NONONO",
       "url": "https://open.spotify.com/track/0rJj6xWfFKbBVNw6dG54yb"
-    },
-    {
-      "added_at": "2022-08-09 16:58:47",
-      "album": {
-        "name": "Cliche",
-        "url": "https://open.spotify.com/album/0HvDuRpsbzr3ZMewq2zIxE"
-      },
-      "artists": [
-        {
-          "name": "ROJO",
-          "url": "https://open.spotify.com/artist/5fb2Jm0wQjvBzc5Wu6RrGl"
-        }
-      ],
-      "duration_ms": 186697,
-      "name": "Cliche",
-      "url": "https://open.spotify.com/track/3j4S4QDWyHo1pBrhLfUgqM"
     },
     {
       "added_at": "2022-08-09 16:58:47",
@@ -1295,18 +1295,22 @@
     {
       "added_at": "2022-08-09 16:58:47",
       "album": {
-        "name": "Asteroid",
-        "url": "https://open.spotify.com/album/5geu7QO5MtvQHbN8ohLjNj"
+        "name": "If I (with Yun DDanDDan)",
+        "url": "https://open.spotify.com/album/6qGRlVGMoRhvsKjkixQe6Y"
       },
       "artists": [
         {
-          "name": "Lee MinHyuk",
-          "url": "https://open.spotify.com/artist/2KbxyNY5Dt6CJ6FBLcWfkH"
+          "name": "saevom",
+          "url": "https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca"
+        },
+        {
+          "name": "Yun DDanDDan",
+          "url": "https://open.spotify.com/artist/0fnx3yyvXH5E0UATpygzzt"
         }
       ],
-      "duration_ms": 239880,
-      "name": "The Season Of You",
-      "url": "https://open.spotify.com/track/1Lb7mJc6hxkCEiFnKGWoKG"
+      "duration_ms": 229354,
+      "name": "If I (with Yun DDanDDan)",
+      "url": "https://open.spotify.com/track/2Leb6RTSFvdVEXW20Pnv1U"
     }
   ],
   "unique_name": "\ubd04\uac19\uc740 \uc124\ub808\uc784",

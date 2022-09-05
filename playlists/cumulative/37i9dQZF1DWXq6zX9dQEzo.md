@@ -4,7 +4,7 @@
 
 > Let the blessings come down and the weights go up\.  Get your beast mode on!
 
-351 songs - 17 hr 46 min - [published](https://open.spotify.com/playlist/2BcyUtPNa5ofBEse5V2Mjq)
+352 songs - 17 hr 49 min - [published](https://open.spotify.com/playlist/2BcyUtPNa5ofBEse5V2Mjq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [All the Time](https://open.spotify.com/track/0vHhhXkGGV2zF1NsN2EfIr) | [Swoope](https://open.spotify.com/artist/78ZdtwvDD5zTElro6EGkcU) | [Sonshine](https://open.spotify.com/album/5ac7A7sUQdSR1ZnuznpBN7) | 3:43 | 2022-02-04 |  |
 | [All Things New \- Remix](https://open.spotify.com/track/0p65BDGoLDUCoD62bN54re) | [planetboom](https://open.spotify.com/artist/3xDe2V5Jo2zjAT6oemUeDj) | [Youth Group Foyer Vibes, Vol\. 1](https://open.spotify.com/album/7BsrJCQLeAIkZ6H7QRfiCJ) | 2:26 | 2022-02-04 | 2022-08-07 |
 | [Alone \(feat\. Tru\)](https://open.spotify.com/track/0LttzRjJ4kRdDD7PnMuaqg) | [Hollyn](https://open.spotify.com/artist/2E6Nnh7AAOVajEHHRDALav), [TRU](https://open.spotify.com/artist/6Ad93mTm2WMvztrf4ocXEC) | [Hollyn](https://open.spotify.com/album/2mvR5j8qsbVLq0hMGvV0r9) | 3:46 | 2022-02-04 | 2022-04-30 |
+| [ALREADY](https://open.spotify.com/track/29uJ0UaBKDooQAnVnmTbJB) | [S.O.](https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33) | [ALREADY](https://open.spotify.com/album/4QzlGB99xaHmFqsxb4tbVt) | 3:01 | 2022-09-03 |  |
 | [Anhela Mi Alma](https://open.spotify.com/track/3vKUtAiKuGdi9knit8X1c1) | [La Fe Música](https://open.spotify.com/artist/0trdaU6ln4YPv8yCemmGKU) | [Anhela Mi Alma](https://open.spotify.com/album/1YgC8wADGm3MHND36ye9Xf) | 3:46 | 2022-02-04 | 2022-04-21 |
 | [Another Win](https://open.spotify.com/track/7sLlmRNA9DoY4Ijrl6jbzY) | [Swoope](https://open.spotify.com/artist/78ZdtwvDD5zTElro6EGkcU), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Another Win](https://open.spotify.com/album/7veYjJEJdSVMaxU9NBIObU) | 3:45 | 2022-02-04 |  |
 | [Any Attack](https://open.spotify.com/track/0RPgPDZ7hoAJRyaS7uTF3y) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [1K Phew](https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl) | [Any Attack](https://open.spotify.com/album/4ExHApgVElRUkAatEQYFgg) | 1:53 | 2022-07-17 |  |
@@ -89,7 +90,7 @@
 | [Elevate](https://open.spotify.com/track/7j2k5JHS33pKmDMIGEmfuU) | [Vic Lucas](https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG) | [Elevate](https://open.spotify.com/album/5n3FPfLJXtdDTYplGuj7JO) | 2:40 | 2022-09-03 |  |
 | [Encounter](https://open.spotify.com/track/7nHKJ4uHnRPFz1qAP0DOeC) | [Positive](https://open.spotify.com/artist/5n2K8brRRD6NUM91RQNnPb) | [Stand and Be Counted](https://open.spotify.com/album/2xYTX0itXxqO494sLWZaGW) | 4:13 | 2022-03-23 | 2022-04-21 |
 | [Energía \- Remix](https://open.spotify.com/track/2vmhpOgGcHnW1VZU1AKdK2) | [Gabriel EMC](https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH), [Musiko](https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue), [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7) | [Energía \(Remix\)](https://open.spotify.com/album/1CqFA1cL8JxqijzPxblDsx) | 4:26 | 2022-02-04 |  |
-| [Epic](https://open.spotify.com/track/7BqLZYzL8gWa27PsUdqRvp) | [S.O.](https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33) | [Epic](https://open.spotify.com/album/1hoF5ONBHFFxNjOifxbJbz) | 3:37 | 2022-07-17 |  |
+| [Epic](https://open.spotify.com/track/7BqLZYzL8gWa27PsUdqRvp) | [S.O.](https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33) | [Epic](https://open.spotify.com/album/1hoF5ONBHFFxNjOifxbJbz) | 3:37 | 2022-07-17 | 2022-09-05 |
 | [Everything Is Love \- Blinkie Remix](https://open.spotify.com/track/2jgTAtMuJl0F9sKJ2dqoLo) | [House Gospel Choir](https://open.spotify.com/artist/1ilcpQQeF5mmvfO682aDgJ), [Todd Terry](https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu), [Blinkie](https://open.spotify.com/artist/0nJcDqY6ox4kHB92AuRA8j) | [RE//CHOIRED](https://open.spotify.com/album/5Z6xNdefD6AoHqrLpn1aMw) | 3:34 | 2022-03-23 | 2022-04-21 |
 | [Fadeaway](https://open.spotify.com/track/2c1pWKDmu4wzF5nSQadXeO) | [Steven Malcolm](https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8), [Zauntee](https://open.spotify.com/artist/7jyr9Co4MKL1iWML1G7vch) | [The Second City](https://open.spotify.com/album/5PQtB12QQQmkTOTxBcaVtR) | 3:32 | 2022-02-04 | 2022-07-13 |
 | [Fake It \- Warehouse Mix](https://open.spotify.com/track/2bSvz6l48lHHQnluvmNXfS) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr), [Neon Feather](https://open.spotify.com/artist/2gKOyAK7jvza3CP58EcLKD) | [Fake It](https://open.spotify.com/album/6YX6VkBN80s2eHGsqwEsuU) | 2:17 | 2022-04-30 | 2022-05-29 |

@@ -1,12 +1,12 @@
 {
   "description": "\ubd80\ub4dc\ub7fd\uace0 \uace0\uae09\uc2a4\ub7ec\uc6b4 \uc7ac\uc988\ud5a5\uc774 \uac00\ubbf8\ub41c \ud799\ud569\uc74c\uc545\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 5757,
+  "num_followers": 5771,
   "original_name": "\uc7ac\uc988\ub9db \ud799\ud569",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODQ4MjMwOCwwMDAwMDAwMDJmZWE3NDVkOTVlM2Y3MTU3MDBlYWM4Yjc2OWJhZjBl",
+  "snapshot_id": "MTY1ODQ4MjMwOCwwMDAwMDAwMDVkMzBiMDk5YmY2MDYwYzliMzcwZWQ3ZjRhNmU1NWQ4",
   "tracks": [
     {
       "added_at": "2022-07-22 09:31:48",
@@ -499,6 +499,22 @@
     {
       "added_at": "2022-07-22 09:31:48",
       "album": {
+        "name": "PROTOTYPE RESEARCH #0063",
+        "url": "https://open.spotify.com/album/0djyRzAxBwLFkW89M8XdwP"
+      },
+      "artists": [
+        {
+          "name": "Kim Seungmin",
+          "url": "https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ"
+        }
+      ],
+      "duration_ms": 185204,
+      "name": "Gyeongsan-si",
+      "url": "https://open.spotify.com/track/2Vjwz8mExrUU2A2YV5DvI7"
+    },
+    {
+      "added_at": "2022-07-22 09:31:48",
+      "album": {
         "name": "ROOM SERVICE",
         "url": "https://open.spotify.com/album/1GbGtBHI4yiKprKQq81El0"
       },
@@ -523,18 +539,18 @@
     {
       "added_at": "2022-07-22 09:31:48",
       "album": {
-        "name": "PROTOTYPE RESEARCH #0063",
-        "url": "https://open.spotify.com/album/0djyRzAxBwLFkW89M8XdwP"
+        "name": "BLOO IN WONDERLAND 2",
+        "url": "https://open.spotify.com/album/5V3hJUzlxSMjbKUniQSf5J"
       },
       "artists": [
         {
-          "name": "Kim Seungmin",
-          "url": "https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ"
+          "name": "BLOO",
+          "url": "https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1"
         }
       ],
-      "duration_ms": 185204,
-      "name": "Gyeongsan-si",
-      "url": "https://open.spotify.com/track/2Vjwz8mExrUU2A2YV5DvI7"
+      "duration_ms": 306520,
+      "name": "Bloo Story",
+      "url": "https://open.spotify.com/track/2TkLBWRw5W05Sf1VdgJvTr"
     },
     {
       "added_at": "2022-07-22 09:31:48",
@@ -555,22 +571,6 @@
       "duration_ms": 247092,
       "name": "Too Far",
       "url": "https://open.spotify.com/track/7q6ybjHEBBWwOTm7Y2xUCh"
-    },
-    {
-      "added_at": "2022-07-22 09:31:48",
-      "album": {
-        "name": "BLOO IN WONDERLAND 2",
-        "url": "https://open.spotify.com/album/5V3hJUzlxSMjbKUniQSf5J"
-      },
-      "artists": [
-        {
-          "name": "BLOO",
-          "url": "https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1"
-        }
-      ],
-      "duration_ms": 306520,
-      "name": "Bloo Story",
-      "url": "https://open.spotify.com/track/2TkLBWRw5W05Sf1VdgJvTr"
     },
     {
       "added_at": "2022-07-22 09:31:48",
@@ -635,6 +635,22 @@
     {
       "added_at": "2022-07-22 09:31:48",
       "album": {
+        "name": "My Original Sound Track",
+        "url": "https://open.spotify.com/album/4M7LxD3dkMj4O6NCddBQKm"
+      },
+      "artists": [
+        {
+          "name": "Jung Jin Woo",
+          "url": "https://open.spotify.com/artist/5uVgoepJHC3fbOohI5gXc4"
+        }
+      ],
+      "duration_ms": 191480,
+      "name": "SOAP",
+      "url": "https://open.spotify.com/track/1mI5Nfw6iStTmKyhnJVi6k"
+    },
+    {
+      "added_at": "2022-07-22 09:31:48",
+      "album": {
         "name": "SS",
         "url": "https://open.spotify.com/album/009trYzXkJyK7YSoXpHOyR"
       },
@@ -659,18 +675,26 @@
     {
       "added_at": "2022-07-22 09:31:48",
       "album": {
-        "name": "My Original Sound Track",
-        "url": "https://open.spotify.com/album/4M7LxD3dkMj4O6NCddBQKm"
+        "name": "2",
+        "url": "https://open.spotify.com/album/1H59BSWW8dygtTZv51DmbA"
       },
       "artists": [
         {
-          "name": "Jung Jin Woo",
-          "url": "https://open.spotify.com/artist/5uVgoepJHC3fbOohI5gXc4"
+          "name": "Primary",
+          "url": "https://open.spotify.com/artist/4QDcs3XrA8uHUZ7Xt9Ytep"
+        },
+        {
+          "name": "Beenzino",
+          "url": "https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg"
+        },
+        {
+          "name": "SURAN",
+          "url": "https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K"
         }
       ],
-      "duration_ms": 191480,
-      "name": "SOAP",
-      "url": "https://open.spotify.com/track/1mI5Nfw6iStTmKyhnJVi6k"
+      "duration_ms": 233376,
+      "name": "Mannequin (Feat. Beenzino & SURAN)",
+      "url": "https://open.spotify.com/track/6HTMdjQSnAebsMYEKM1vy2"
     },
     {
       "added_at": "2022-07-22 09:31:48",
@@ -715,50 +739,6 @@
     {
       "added_at": "2022-07-22 09:31:48",
       "album": {
-        "name": "2",
-        "url": "https://open.spotify.com/album/1H59BSWW8dygtTZv51DmbA"
-      },
-      "artists": [
-        {
-          "name": "Primary",
-          "url": "https://open.spotify.com/artist/4QDcs3XrA8uHUZ7Xt9Ytep"
-        },
-        {
-          "name": "Beenzino",
-          "url": "https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg"
-        },
-        {
-          "name": "SURAN",
-          "url": "https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K"
-        }
-      ],
-      "duration_ms": 233376,
-      "name": "Mannequin (Feat. Beenzino & SURAN)",
-      "url": "https://open.spotify.com/track/6HTMdjQSnAebsMYEKM1vy2"
-    },
-    {
-      "added_at": "2022-07-22 09:31:48",
-      "album": {
-        "name": "PAID IN SEOUL",
-        "url": "https://open.spotify.com/album/3gaEvY1i5mFMW7fFMxMn1F"
-      },
-      "artists": [
-        {
-          "name": "Don Malik",
-          "url": "https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE"
-        },
-        {
-          "name": "pH-1",
-          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
-        }
-      ],
-      "duration_ms": 168216,
-      "name": "Good night night (Feat. pH-1)",
-      "url": "https://open.spotify.com/track/5u0aDrolL0ZOElpoeizsdE"
-    },
-    {
-      "added_at": "2022-07-22 09:31:48",
-      "album": {
         "name": "GOOD GIRL Episode 3",
         "url": "https://open.spotify.com/album/2iY5eEAH23aCB9JGCNZO5k"
       },
@@ -779,6 +759,26 @@
       "duration_ms": 220429,
       "name": "Money Serenade (Feat. Wonstein & Kim Seung Min)",
       "url": "https://open.spotify.com/track/1rZAKzPkA1VfkakGSszBg7"
+    },
+    {
+      "added_at": "2022-07-22 09:31:48",
+      "album": {
+        "name": "PAID IN SEOUL",
+        "url": "https://open.spotify.com/album/3gaEvY1i5mFMW7fFMxMn1F"
+      },
+      "artists": [
+        {
+          "name": "Don Malik",
+          "url": "https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE"
+        },
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        }
+      ],
+      "duration_ms": 168216,
+      "name": "Good night night (Feat. pH-1)",
+      "url": "https://open.spotify.com/track/5u0aDrolL0ZOElpoeizsdE"
     },
     {
       "added_at": "2022-07-22 09:31:48",
@@ -867,30 +867,6 @@
     {
       "added_at": "2022-07-22 09:31:48",
       "album": {
-        "name": "CHAPTER 1",
-        "url": "https://open.spotify.com/album/1fCeGGR50gRbs1k0saKDJU"
-      },
-      "artists": [
-        {
-          "name": "Iamdl",
-          "url": "https://open.spotify.com/artist/4vPZ9bJ0Jgu44Nbtm7iJUL"
-        },
-        {
-          "name": "Don Malik",
-          "url": "https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE"
-        },
-        {
-          "name": "Hannah",
-          "url": "https://open.spotify.com/artist/69kcnEE47Kd8pe8thqWik9"
-        }
-      ],
-      "duration_ms": 203624,
-      "name": "Hair Style (feat. DON MALIK & Hannah)",
-      "url": "https://open.spotify.com/track/5Wwr9KJMb6QrF8CxeFp1RH"
-    },
-    {
-      "added_at": "2022-07-22 09:31:48",
-      "album": {
         "name": "Life+unconsciousness",
         "url": "https://open.spotify.com/album/0ENIw3VQ7WFRb9oMT5n8wx"
       },
@@ -915,6 +891,30 @@
     {
       "added_at": "2022-07-22 09:31:48",
       "album": {
+        "name": "CHAPTER 1",
+        "url": "https://open.spotify.com/album/1fCeGGR50gRbs1k0saKDJU"
+      },
+      "artists": [
+        {
+          "name": "Iamdl",
+          "url": "https://open.spotify.com/artist/4vPZ9bJ0Jgu44Nbtm7iJUL"
+        },
+        {
+          "name": "Don Malik",
+          "url": "https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE"
+        },
+        {
+          "name": "Hannah",
+          "url": "https://open.spotify.com/artist/69kcnEE47Kd8pe8thqWik9"
+        }
+      ],
+      "duration_ms": 203624,
+      "name": "Hair Style (feat. DON MALIK & Hannah)",
+      "url": "https://open.spotify.com/track/5Wwr9KJMb6QrF8CxeFp1RH"
+    },
+    {
+      "added_at": "2022-07-22 09:31:48",
+      "album": {
         "name": "ZOO",
         "url": "https://open.spotify.com/album/6p5kwLGQ7yLZ7faZ58dJwa"
       },
@@ -927,26 +927,6 @@
       "duration_ms": 234202,
       "name": "3 GUINEAS",
       "url": "https://open.spotify.com/track/2vxhl2CBUu0m7tQAgOHTsE"
-    },
-    {
-      "added_at": "2022-07-22 09:31:48",
-      "album": {
-        "name": "NEVERLAND",
-        "url": "https://open.spotify.com/album/2pk89iEVjniYqNAZNxWDx5"
-      },
-      "artists": [
-        {
-          "name": "Rohann",
-          "url": "https://open.spotify.com/artist/10jo9gGaXEw8lAgB3gK0c1"
-        },
-        {
-          "name": "Leellamarz",
-          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
-        }
-      ],
-      "duration_ms": 222520,
-      "name": "Whee",
-      "url": "https://open.spotify.com/track/438Q1xs7smzuA3NHoJBeO1"
     },
     {
       "added_at": "2022-07-22 09:31:48",
@@ -967,6 +947,26 @@
       "duration_ms": 215857,
       "name": "GOOD NIGHT",
       "url": "https://open.spotify.com/track/1mVr7cmhQIoLt4u0BR8x57"
+    },
+    {
+      "added_at": "2022-07-22 09:31:48",
+      "album": {
+        "name": "NEVERLAND",
+        "url": "https://open.spotify.com/album/2pk89iEVjniYqNAZNxWDx5"
+      },
+      "artists": [
+        {
+          "name": "Rohann",
+          "url": "https://open.spotify.com/artist/10jo9gGaXEw8lAgB3gK0c1"
+        },
+        {
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+        }
+      ],
+      "duration_ms": 222520,
+      "name": "Whee",
+      "url": "https://open.spotify.com/track/438Q1xs7smzuA3NHoJBeO1"
     }
   ],
   "unique_name": "\uc7ac\uc988\ub9db \ud799\ud569",

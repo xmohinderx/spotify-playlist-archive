@@ -1,12 +1,12 @@
 {
   "description": "Turn up the volume for some filthy bassline! ft. Zero",
-  "num_followers": 174642,
+  "num_followers": 174424,
   "original_name": "Bassline Bangers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDMyMjg4OCwwMDAwMDAwMDlkNzdkMzM4M2VhOTU0ZmUzZDZlMGJkNzEwNzgxZDMw",
+  "snapshot_id": "MTY2MDMyMjg4OCwwMDAwMDAwMGQxMGNjOTJkNDBmMmFiYzIyMjc5MjFhZTE5YTYyOTBi",
   "tracks": [
     {
       "added_at": "2022-08-12 16:48:08",
@@ -747,6 +747,22 @@
     {
       "added_at": "2022-08-12 16:48:08",
       "album": {
+        "name": "Be Real",
+        "url": "https://open.spotify.com/album/3prkw0bYIfiZT0Q9Gmz431"
+      },
+      "artists": [
+        {
+          "name": "Dom Scanlon",
+          "url": "https://open.spotify.com/artist/2EhXwW8eckYjHTFWX1f49P"
+        }
+      ],
+      "duration_ms": 277500,
+      "name": "Be Real",
+      "url": "https://open.spotify.com/track/3i4xoeUihdScqGDnvkCFXb"
+    },
+    {
+      "added_at": "2022-08-12 16:48:08",
+      "album": {
         "name": "Affiliation",
         "url": "https://open.spotify.com/album/6viQ5GlaaPHbGLPfIYcEfU"
       },
@@ -779,22 +795,6 @@
     {
       "added_at": "2022-08-12 16:48:08",
       "album": {
-        "name": "Be Real",
-        "url": "https://open.spotify.com/album/3prkw0bYIfiZT0Q9Gmz431"
-      },
-      "artists": [
-        {
-          "name": "Dom Scanlon",
-          "url": "https://open.spotify.com/artist/2EhXwW8eckYjHTFWX1f49P"
-        }
-      ],
-      "duration_ms": 277500,
-      "name": "Be Real",
-      "url": "https://open.spotify.com/track/3i4xoeUihdScqGDnvkCFXb"
-    },
-    {
-      "added_at": "2022-08-12 16:48:08",
-      "album": {
         "name": "Far",
         "url": "https://open.spotify.com/album/3zoa4ZVBL7McPiAI3EAUjQ"
       },
@@ -807,26 +807,6 @@
       "duration_ms": 250918,
       "name": "Far",
       "url": "https://open.spotify.com/track/0bVqiSfH3YnFnRPNHgAMuR"
-    },
-    {
-      "added_at": "2022-08-12 16:48:08",
-      "album": {
-        "name": "Top Boy / Dizzy Riddim",
-        "url": "https://open.spotify.com/album/6AfugETSwLMYHA7v4gr2hY"
-      },
-      "artists": [
-        {
-          "name": "Zero",
-          "url": "https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH"
-        },
-        {
-          "name": "Slick Don",
-          "url": "https://open.spotify.com/artist/3ejOLECzr9WSVFeIc1Tf7k"
-        }
-      ],
-      "duration_ms": 228934,
-      "name": "Top Boy",
-      "url": "https://open.spotify.com/track/6hg4BZwiX7N4gGpnfiaZyS"
     },
     {
       "added_at": "2022-08-12 16:48:08",
@@ -851,6 +831,26 @@
       "duration_ms": 188160,
       "name": "Tune",
       "url": "https://open.spotify.com/track/7ske1qDeuRwD933vcnD3OS"
+    },
+    {
+      "added_at": "2022-08-12 16:48:08",
+      "album": {
+        "name": "Top Boy / Dizzy Riddim",
+        "url": "https://open.spotify.com/album/6AfugETSwLMYHA7v4gr2hY"
+      },
+      "artists": [
+        {
+          "name": "Zero",
+          "url": "https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH"
+        },
+        {
+          "name": "Slick Don",
+          "url": "https://open.spotify.com/artist/3ejOLECzr9WSVFeIc1Tf7k"
+        }
+      ],
+      "duration_ms": 228934,
+      "name": "Top Boy",
+      "url": "https://open.spotify.com/track/6hg4BZwiX7N4gGpnfiaZyS"
     },
     {
       "added_at": "2022-08-12 16:48:08",
@@ -1223,26 +1223,6 @@
     {
       "added_at": "2022-08-12 16:48:08",
       "album": {
-        "name": "Banzai VIP",
-        "url": "https://open.spotify.com/album/6HihMPOfFtq8uSUE7lyvw1"
-      },
-      "artists": [
-        {
-          "name": "HODA",
-          "url": "https://open.spotify.com/artist/6947jU93LuBHWx7OLAh9gx"
-        },
-        {
-          "name": "Eloquin",
-          "url": "https://open.spotify.com/artist/6tRzzi6vUGERNBRbOkaOa1"
-        }
-      ],
-      "duration_ms": 294010,
-      "name": "Banzai VIP",
-      "url": "https://open.spotify.com/track/4zO3VlPNShnAGzgc5AvkL6"
-    },
-    {
-      "added_at": "2022-08-12 16:48:08",
-      "album": {
         "name": "Emergency",
         "url": "https://open.spotify.com/album/6amlh9MV3y02Lj1cJtcoHE"
       },
@@ -1283,6 +1263,26 @@
       "duration_ms": 214545,
       "name": "Donny Don",
       "url": "https://open.spotify.com/track/3uwOIivH9QUkBTdkIRfo8c"
+    },
+    {
+      "added_at": "2022-08-12 16:48:08",
+      "album": {
+        "name": "Banzai VIP",
+        "url": "https://open.spotify.com/album/6HihMPOfFtq8uSUE7lyvw1"
+      },
+      "artists": [
+        {
+          "name": "HODA",
+          "url": "https://open.spotify.com/artist/6947jU93LuBHWx7OLAh9gx"
+        },
+        {
+          "name": "Eloquin",
+          "url": "https://open.spotify.com/artist/6tRzzi6vUGERNBRbOkaOa1"
+        }
+      ],
+      "duration_ms": 294010,
+      "name": "Banzai VIP",
+      "url": "https://open.spotify.com/track/4zO3VlPNShnAGzgc5AvkL6"
     },
     {
       "added_at": "2022-08-12 16:48:08",

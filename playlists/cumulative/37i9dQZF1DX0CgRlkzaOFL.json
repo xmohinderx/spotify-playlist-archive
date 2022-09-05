@@ -1033,8 +1033,16 @@
       },
       "artists": [
         {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
           "name": "\u306e\u3060\u3081\u30ab\u30f3\u30bf\u30fc\u30d3\u30ec",
           "url": "https://open.spotify.com/artist/6nWWsbt4NZhcUKinYxZ8PN"
+        },
+        {
+          "name": "Toshiaki Umeda",
+          "url": "https://open.spotify.com/artist/2EbzA6PvoBEiyjAcqhfKqQ"
         }
       ],
       "date_added": "2022-04-19",

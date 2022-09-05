@@ -2750,6 +2750,24 @@
     },
     {
       "album": {
+        "name": "Drowning In You",
+        "url": "https://open.spotify.com/album/6ptlIp5e0j15OuwOwILDpM"
+      },
+      "artists": [
+        {
+          "name": "Lucas Estrada",
+          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141875,
+      "name": "Drowning In You",
+      "url": "https://open.spotify.com/track/4nBG4RjDuiAa6Q7akigZI9"
+    },
+    {
+      "album": {
         "name": "Drugs From Amsterdam",
         "url": "https://open.spotify.com/album/6ZnAre1P3Mz0LpiUeMQ1s8"
       },
@@ -7047,7 +7065,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-05",
       "duration_ms": 136250,
       "name": "Not the One",
       "url": "https://open.spotify.com/track/481ZLYM7FUam5FACXysCev"
@@ -9608,6 +9626,28 @@
     },
     {
       "album": {
+        "name": "Sugar (feat. Francesco Yates) [Billions Club Remix]",
+        "url": "https://open.spotify.com/album/3ENSgxyvrzzRURWqpJuYIR"
+      },
+      "artists": [
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        },
+        {
+          "name": "Francesco Yates",
+          "url": "https://open.spotify.com/artist/5X1JzPIIonP3u9lA580pPT"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186377,
+      "name": "Sugar (feat. Francesco Yates) - Billions Club Remix",
+      "url": "https://open.spotify.com/track/6OeRAvRqfqpaHHTzrnCSHJ"
+    },
+    {
+      "album": {
         "name": "Sun In Our Eyes (Don Diablo Remix)",
         "url": "https://open.spotify.com/album/2rzsbPDNEFlbrqdfH1ZlUY"
       },
@@ -11031,7 +11071,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-05",
       "duration_ms": 175960,
       "name": "Way Back Home",
       "url": "https://open.spotify.com/track/6GWRcf3yBx3Y7pSScXoxGk"

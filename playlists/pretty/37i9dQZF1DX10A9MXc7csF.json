@@ -1,12 +1,12 @@
 {
   "description": "The new school of M\u00fasica Mexicana. Cover: Tania Dominguez.",
-  "num_followers": 93563,
+  "num_followers": 93557,
   "original_name": "M\u00fasica Mexicana Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQ4NjUyMCwwMDAwMDAwMDljZTVmNTI5YTExNjNiOTlhNzIwNWM4NzIzZDJlZWI2",
+  "snapshot_id": "MTY2MTQ4NjUyMCwwMDAwMDAwMDllYmM4MWY0MzZiZjI0YWNjZDc4MDYzMzIwZDc3ZDdj",
   "tracks": [
     {
       "added_at": "2022-08-26 04:02:00",
@@ -363,22 +363,6 @@
     {
       "added_at": "2022-08-26 04:02:00",
       "album": {
-        "name": "Beyond The Limit",
-        "url": "https://open.spotify.com/album/5KwiZ0Ly7gpV8t7uvX7ZvT"
-      },
-      "artists": [
-        {
-          "name": "Los Del Limit",
-          "url": "https://open.spotify.com/artist/4pQxRQ2bUyVpk89wzztCLw"
-        }
-      ],
-      "duration_ms": 187250,
-      "name": "Zaguf Roma",
-      "url": "https://open.spotify.com/track/6q2afTIs8vAZTgpgcFctK1"
-    },
-    {
-      "added_at": "2022-08-26 04:02:00",
-      "album": {
         "name": "El Se\u00f1oron",
         "url": "https://open.spotify.com/album/1dfYE3Fpz112Ae3a9RYxVo"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 204996,
       "name": "El Se\u00f1oron",
       "url": "https://open.spotify.com/track/1EPZpEO3bZTUbfiAyiknDC"
+    },
+    {
+      "added_at": "2022-08-26 04:02:00",
+      "album": {
+        "name": "Beyond The Limit",
+        "url": "https://open.spotify.com/album/5KwiZ0Ly7gpV8t7uvX7ZvT"
+      },
+      "artists": [
+        {
+          "name": "Los Del Limit",
+          "url": "https://open.spotify.com/artist/4pQxRQ2bUyVpk89wzztCLw"
+        }
+      ],
+      "duration_ms": 187250,
+      "name": "Zaguf Roma",
+      "url": "https://open.spotify.com/track/6q2afTIs8vAZTgpgcFctK1"
     },
     {
       "added_at": "2022-08-26 04:02:00",
@@ -519,6 +519,26 @@
     {
       "added_at": "2022-08-26 04:02:00",
       "album": {
+        "name": "El Buda",
+        "url": "https://open.spotify.com/album/2sBSqEuw7BFMhMVjRt7hO0"
+      },
+      "artists": [
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        },
+        {
+          "name": "Calle 24",
+          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
+        }
+      ],
+      "duration_ms": 305654,
+      "name": "El Buda",
+      "url": "https://open.spotify.com/track/6mjZRYz56d4j1tMpcj6ysL"
+    },
+    {
+      "added_at": "2022-08-26 04:02:00",
+      "album": {
         "name": "El Muchacho Criticado",
         "url": "https://open.spotify.com/album/0kQG1vhXQXehzRil28L26b"
       },
@@ -539,26 +559,6 @@
       "duration_ms": 196318,
       "name": "El Muchacho Criticado",
       "url": "https://open.spotify.com/track/1Sy1tRL4ZahrECTitUFPXJ"
-    },
-    {
-      "added_at": "2022-08-26 04:02:00",
-      "album": {
-        "name": "El Buda",
-        "url": "https://open.spotify.com/album/2sBSqEuw7BFMhMVjRt7hO0"
-      },
-      "artists": [
-        {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
-        },
-        {
-          "name": "Calle 24",
-          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
-        }
-      ],
-      "duration_ms": 305654,
-      "name": "El Buda",
-      "url": "https://open.spotify.com/track/6mjZRYz56d4j1tMpcj6ysL"
     },
     {
       "added_at": "2022-08-26 04:02:00",
@@ -595,22 +595,6 @@
     {
       "added_at": "2022-08-26 04:02:00",
       "album": {
-        "name": "Deseandote",
-        "url": "https://open.spotify.com/album/4ce6iGcipxIz39Ks7DMWbi"
-      },
-      "artists": [
-        {
-          "name": "Tony Herrera",
-          "url": "https://open.spotify.com/artist/6Qn8kPbvrx7Qji2rCqtKbk"
-        }
-      ],
-      "duration_ms": 235200,
-      "name": "Deseandote",
-      "url": "https://open.spotify.com/track/4GrqU3zJiJdtCT3lyxtMcr"
-    },
-    {
-      "added_at": "2022-08-26 04:02:00",
-      "album": {
         "name": "Sembrando",
         "url": "https://open.spotify.com/album/6uZz2MDaBCSnZWVafV8fKG"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 188917,
       "name": "Sembrando",
       "url": "https://open.spotify.com/track/6RHs3X2bQefGEbvqDB7MZB"
+    },
+    {
+      "added_at": "2022-08-26 04:02:00",
+      "album": {
+        "name": "Deseandote",
+        "url": "https://open.spotify.com/album/4ce6iGcipxIz39Ks7DMWbi"
+      },
+      "artists": [
+        {
+          "name": "Tony Herrera",
+          "url": "https://open.spotify.com/artist/6Qn8kPbvrx7Qji2rCqtKbk"
+        }
+      ],
+      "duration_ms": 235200,
+      "name": "Deseandote",
+      "url": "https://open.spotify.com/track/4GrqU3zJiJdtCT3lyxtMcr"
     },
     {
       "added_at": "2022-08-26 04:02:00",
@@ -719,6 +719,22 @@
     {
       "added_at": "2022-08-26 04:02:00",
       "album": {
+        "name": "SRT",
+        "url": "https://open.spotify.com/album/0DbVzazbyboM9WB3XBVVei"
+      },
+      "artists": [
+        {
+          "name": "HERNAN TREJO",
+          "url": "https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD"
+        }
+      ],
+      "duration_ms": 178748,
+      "name": "SRT",
+      "url": "https://open.spotify.com/track/0kPHa4gC1vwie3CIOATJm3"
+    },
+    {
+      "added_at": "2022-08-26 04:02:00",
+      "album": {
         "name": "As\u00ed Soy",
         "url": "https://open.spotify.com/album/5DsyGnotkIR6K9It6lFOJH"
       },
@@ -735,18 +751,18 @@
     {
       "added_at": "2022-08-26 04:02:00",
       "album": {
-        "name": "SRT",
-        "url": "https://open.spotify.com/album/0DbVzazbyboM9WB3XBVVei"
+        "name": "La Maria (En Vivo)",
+        "url": "https://open.spotify.com/album/4kF7xv1zzpSaS5IGhZg8Cq"
       },
       "artists": [
         {
-          "name": "HERNAN TREJO",
-          "url": "https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD"
+          "name": "Cuarto Destino",
+          "url": "https://open.spotify.com/artist/5eE8WgiycE2rcU5IJGlo1P"
         }
       ],
-      "duration_ms": 178748,
-      "name": "SRT",
-      "url": "https://open.spotify.com/track/0kPHa4gC1vwie3CIOATJm3"
+      "duration_ms": 191093,
+      "name": "La Maria - En Vivo",
+      "url": "https://open.spotify.com/track/66gzSzhIJHzEMvsrKbFVZh"
     },
     {
       "added_at": "2022-08-26 04:02:00",
@@ -771,22 +787,6 @@
     {
       "added_at": "2022-08-26 04:02:00",
       "album": {
-        "name": "La Maria (En Vivo)",
-        "url": "https://open.spotify.com/album/4kF7xv1zzpSaS5IGhZg8Cq"
-      },
-      "artists": [
-        {
-          "name": "Cuarto Destino",
-          "url": "https://open.spotify.com/artist/5eE8WgiycE2rcU5IJGlo1P"
-        }
-      ],
-      "duration_ms": 191093,
-      "name": "La Maria - En Vivo",
-      "url": "https://open.spotify.com/track/66gzSzhIJHzEMvsrKbFVZh"
-    },
-    {
-      "added_at": "2022-08-26 04:02:00",
-      "album": {
         "name": "G. Blanco",
         "url": "https://open.spotify.com/album/0lF7zHfnHCcTOafAqm3TBZ"
       },
@@ -803,22 +803,6 @@
     {
       "added_at": "2022-08-26 04:02:00",
       "album": {
-        "name": "De Eso Se Trata",
-        "url": "https://open.spotify.com/album/4xf4CpJ7t9eFdEiWOowDm8"
-      },
-      "artists": [
-        {
-          "name": "Ivonne Galaz",
-          "url": "https://open.spotify.com/artist/3YXGxdYldEXVVlCdCkFD5G"
-        }
-      ],
-      "duration_ms": 208919,
-      "name": "De Eso Se Trata",
-      "url": "https://open.spotify.com/track/4flMkf6UihqV8CzBhjPTWY"
-    },
-    {
-      "added_at": "2022-08-26 04:02:00",
-      "album": {
         "name": "me olvidaste",
         "url": "https://open.spotify.com/album/4qoeo1Oc7rWrHxpUoIhpke"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 135069,
       "name": "me olvidaste",
       "url": "https://open.spotify.com/track/72nuzO5wkGs5S7qq6dddtH"
+    },
+    {
+      "added_at": "2022-08-26 04:02:00",
+      "album": {
+        "name": "De Eso Se Trata",
+        "url": "https://open.spotify.com/album/4xf4CpJ7t9eFdEiWOowDm8"
+      },
+      "artists": [
+        {
+          "name": "Ivonne Galaz",
+          "url": "https://open.spotify.com/artist/3YXGxdYldEXVVlCdCkFD5G"
+        }
+      ],
+      "duration_ms": 208919,
+      "name": "De Eso Se Trata",
+      "url": "https://open.spotify.com/track/4flMkf6UihqV8CzBhjPTWY"
     },
     {
       "added_at": "2022-08-26 04:02:00",
@@ -899,22 +899,6 @@
     {
       "added_at": "2022-08-26 04:02:00",
       "album": {
-        "name": "El Piyi",
-        "url": "https://open.spotify.com/album/2ivT6bwCAYwa61GlEqTiuq"
-      },
-      "artists": [
-        {
-          "name": "Alta Autoridad",
-          "url": "https://open.spotify.com/artist/5t3gI9HmOoz5EKWOg45OPB"
-        }
-      ],
-      "duration_ms": 162500,
-      "name": "El Piyi",
-      "url": "https://open.spotify.com/track/5KjBaGZIszO9tpGTRB1mm2"
-    },
-    {
-      "added_at": "2022-08-26 04:02:00",
-      "album": {
         "name": "Culpables",
         "url": "https://open.spotify.com/album/0IVy7jUm9adIBg3n3IKUD1"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 165917,
       "name": "Culpables",
       "url": "https://open.spotify.com/track/30Up8qgwk0CiwpoSt4IAK6"
+    },
+    {
+      "added_at": "2022-08-26 04:02:00",
+      "album": {
+        "name": "El Piyi",
+        "url": "https://open.spotify.com/album/2ivT6bwCAYwa61GlEqTiuq"
+      },
+      "artists": [
+        {
+          "name": "Alta Autoridad",
+          "url": "https://open.spotify.com/artist/5t3gI9HmOoz5EKWOg45OPB"
+        }
+      ],
+      "duration_ms": 162500,
+      "name": "El Piyi",
+      "url": "https://open.spotify.com/track/5KjBaGZIszO9tpGTRB1mm2"
     },
     {
       "added_at": "2022-08-26 04:02:00",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2022-08-26 04:02:00",
       "album": {
-        "name": "Bajo La Gorra",
-        "url": "https://open.spotify.com/album/0tS5TX5Bm9eXzPG9vh1KPc"
-      },
-      "artists": [
-        {
-          "name": "Oswaldo_NR",
-          "url": "https://open.spotify.com/artist/1n3pTG4kkZiuepmOINVStx"
-        }
-      ],
-      "duration_ms": 190786,
-      "name": "Bajo La Gorra",
-      "url": "https://open.spotify.com/track/09P6YRZJ4Ar5MkrjXq1GJu"
-    },
-    {
-      "added_at": "2022-08-26 04:02:00",
-      "album": {
         "name": "Tu Coraz\u00f3n A Mi Me Falta",
         "url": "https://open.spotify.com/album/4qoxBHi9JCEAE8VlXrJumc"
       },
@@ -1095,6 +1079,22 @@
     {
       "added_at": "2022-08-26 04:02:00",
       "album": {
+        "name": "Bajo La Gorra",
+        "url": "https://open.spotify.com/album/0tS5TX5Bm9eXzPG9vh1KPc"
+      },
+      "artists": [
+        {
+          "name": "Oswaldo_NR",
+          "url": "https://open.spotify.com/artist/1n3pTG4kkZiuepmOINVStx"
+        }
+      ],
+      "duration_ms": 190786,
+      "name": "Bajo La Gorra",
+      "url": "https://open.spotify.com/track/09P6YRZJ4Ar5MkrjXq1GJu"
+    },
+    {
+      "added_at": "2022-08-26 04:02:00",
+      "album": {
         "name": "Gabriel Ornelas",
         "url": "https://open.spotify.com/album/7I5YLRrLqHPeXLwcbPTjDQ"
       },
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2022-08-26 04:02:00",
       "album": {
-        "name": "Las Guerras de Califas",
-        "url": "https://open.spotify.com/album/4m71rRHC0ECTNT3yN1jCu3"
-      },
-      "artists": [
-        {
-          "name": "Clave Secreta",
-          "url": "https://open.spotify.com/artist/076NZ7vK81Lc1aKv15hGLN"
-        }
-      ],
-      "duration_ms": 215402,
-      "name": "Las Guerras de Califas",
-      "url": "https://open.spotify.com/track/5YlTqYidHFyL4XEnGtNOog"
-    },
-    {
-      "added_at": "2022-08-26 04:02:00",
-      "album": {
         "name": "Los Chilos Del Pueblo (En Vivo)",
         "url": "https://open.spotify.com/album/4EOP7sFK2szTt3evJsqQQ4"
       },
@@ -1139,22 +1123,6 @@
       "duration_ms": 247466,
       "name": "Los Chilos Del Pueblo - En Vivo",
       "url": "https://open.spotify.com/track/6MGz853UtR79EUmRawZhSw"
-    },
-    {
-      "added_at": "2022-08-26 04:02:00",
-      "album": {
-        "name": "Te Amo Yo",
-        "url": "https://open.spotify.com/album/0xV4ha3qX6C2Kk0s8yMz5L"
-      },
-      "artists": [
-        {
-          "name": "Officialalex425",
-          "url": "https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ"
-        }
-      ],
-      "duration_ms": 146986,
-      "name": "Te Amo Yo",
-      "url": "https://open.spotify.com/track/13Wtxopl5r7ICXPuOcbqOj"
     },
     {
       "added_at": "2022-08-26 04:02:00",
@@ -1179,6 +1147,22 @@
     {
       "added_at": "2022-08-26 04:02:00",
       "album": {
+        "name": "Te Amo Yo",
+        "url": "https://open.spotify.com/album/0xV4ha3qX6C2Kk0s8yMz5L"
+      },
+      "artists": [
+        {
+          "name": "Officialalex425",
+          "url": "https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ"
+        }
+      ],
+      "duration_ms": 146986,
+      "name": "Te Amo Yo",
+      "url": "https://open.spotify.com/track/13Wtxopl5r7ICXPuOcbqOj"
+    },
+    {
+      "added_at": "2022-08-26 04:02:00",
+      "album": {
         "name": "Lo Que Te Pasa",
         "url": "https://open.spotify.com/album/24rdiWOxJwLyNoX87V0mgI"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 174749,
       "name": "Lo Que Te Pasa",
       "url": "https://open.spotify.com/track/4Qwx5RaF7EnOMXsY7eXH51"
+    },
+    {
+      "added_at": "2022-08-26 04:02:00",
+      "album": {
+        "name": "Las Guerras de Califas",
+        "url": "https://open.spotify.com/album/4m71rRHC0ECTNT3yN1jCu3"
+      },
+      "artists": [
+        {
+          "name": "Clave Secreta",
+          "url": "https://open.spotify.com/artist/076NZ7vK81Lc1aKv15hGLN"
+        }
+      ],
+      "duration_ms": 215402,
+      "name": "Las Guerras de Califas",
+      "url": "https://open.spotify.com/track/5YlTqYidHFyL4XEnGtNOog"
     },
     {
       "added_at": "2022-08-26 04:02:00",
@@ -1227,38 +1227,6 @@
     {
       "added_at": "2022-08-26 04:02:00",
       "album": {
-        "name": "Due\u00f1a De Mi Amor",
-        "url": "https://open.spotify.com/album/7w3P9BTyusulTDX5Xi020x"
-      },
-      "artists": [
-        {
-          "name": "Jesus Dimas",
-          "url": "https://open.spotify.com/artist/3T8yvcStZybKlw4Douh93g"
-        }
-      ],
-      "duration_ms": 167525,
-      "name": "Una En Un Millon",
-      "url": "https://open.spotify.com/track/4PymbhZd20OgKINlAktJ7z"
-    },
-    {
-      "added_at": "2022-08-26 04:02:00",
-      "album": {
-        "name": "Me Apodan El Chino",
-        "url": "https://open.spotify.com/album/3ScsygF0ldBn0v1GzpZWV1"
-      },
-      "artists": [
-        {
-          "name": "Christian Ramos Jr",
-          "url": "https://open.spotify.com/artist/4yDvNHPlq1b6ZyQfvbeIRE"
-        }
-      ],
-      "duration_ms": 220618,
-      "name": "Me Apodan El Chino",
-      "url": "https://open.spotify.com/track/7mB6DFA5JwPcOs9kc25e5r"
-    },
-    {
-      "added_at": "2022-08-26 04:02:00",
-      "album": {
         "name": "Seguimos En El Refuego",
         "url": "https://open.spotify.com/album/0XAFLJnNTXtI3G7jyPxKzD"
       },
@@ -1291,18 +1259,34 @@
     {
       "added_at": "2022-08-26 04:02:00",
       "album": {
-        "name": "Paranoia",
-        "url": "https://open.spotify.com/album/5Udf1Cz8Q9r35d8sIBS8tX"
+        "name": "Due\u00f1a De Mi Amor",
+        "url": "https://open.spotify.com/album/7w3P9BTyusulTDX5Xi020x"
       },
       "artists": [
         {
-          "name": "Lumar Perez",
-          "url": "https://open.spotify.com/artist/0m8RPY3jufvoZY1p48TbRb"
+          "name": "Jesus Dimas",
+          "url": "https://open.spotify.com/artist/3T8yvcStZybKlw4Douh93g"
         }
       ],
-      "duration_ms": 157431,
-      "name": "Paranoia",
-      "url": "https://open.spotify.com/track/0cOuTJ7k92o9V6hkf3fxpW"
+      "duration_ms": 167525,
+      "name": "Una En Un Millon",
+      "url": "https://open.spotify.com/track/4PymbhZd20OgKINlAktJ7z"
+    },
+    {
+      "added_at": "2022-08-26 04:02:00",
+      "album": {
+        "name": "Me Apodan El Chino",
+        "url": "https://open.spotify.com/album/3ScsygF0ldBn0v1GzpZWV1"
+      },
+      "artists": [
+        {
+          "name": "Christian Ramos Jr",
+          "url": "https://open.spotify.com/artist/4yDvNHPlq1b6ZyQfvbeIRE"
+        }
+      ],
+      "duration_ms": 220618,
+      "name": "Me Apodan El Chino",
+      "url": "https://open.spotify.com/track/7mB6DFA5JwPcOs9kc25e5r"
     },
     {
       "added_at": "2022-08-26 04:02:00",
@@ -1323,18 +1307,18 @@
     {
       "added_at": "2022-08-26 04:02:00",
       "album": {
-        "name": "Mal de Ojo",
-        "url": "https://open.spotify.com/album/1dvFb22zm82Nx0FYq0STrd"
+        "name": "Paranoia",
+        "url": "https://open.spotify.com/album/5Udf1Cz8Q9r35d8sIBS8tX"
       },
       "artists": [
         {
-          "name": "Christian Nava",
-          "url": "https://open.spotify.com/artist/4ykQDHQarNbuhmYt8YB3W0"
+          "name": "Lumar Perez",
+          "url": "https://open.spotify.com/artist/0m8RPY3jufvoZY1p48TbRb"
         }
       ],
-      "duration_ms": 184848,
-      "name": "Mal de Ojo",
-      "url": "https://open.spotify.com/track/5gFqNF0PzR3ojfntW3LC9G"
+      "duration_ms": 157431,
+      "name": "Paranoia",
+      "url": "https://open.spotify.com/track/0cOuTJ7k92o9V6hkf3fxpW"
     },
     {
       "added_at": "2022-08-26 04:02:00",
@@ -1351,6 +1335,22 @@
       "duration_ms": 247692,
       "name": "Maravillosa",
       "url": "https://open.spotify.com/track/2tvXFz2nrT37IeYoTrIYzp"
+    },
+    {
+      "added_at": "2022-08-26 04:02:00",
+      "album": {
+        "name": "Mal de Ojo",
+        "url": "https://open.spotify.com/album/1dvFb22zm82Nx0FYq0STrd"
+      },
+      "artists": [
+        {
+          "name": "Christian Nava",
+          "url": "https://open.spotify.com/artist/4ykQDHQarNbuhmYt8YB3W0"
+        }
+      ],
+      "duration_ms": 184848,
+      "name": "Mal de Ojo",
+      "url": "https://open.spotify.com/track/5gFqNF0PzR3ojfntW3LC9G"
     },
     {
       "added_at": "2022-08-26 04:02:00",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2022-08-26 04:02:00",
       "album": {
-        "name": "Depresi\u00f3n",
-        "url": "https://open.spotify.com/album/2oPgq5nHxcSAfPAq3utk77"
-      },
-      "artists": [
-        {
-          "name": "Oswaldo_NR",
-          "url": "https://open.spotify.com/artist/1n3pTG4kkZiuepmOINVStx"
-        }
-      ],
-      "duration_ms": 224892,
-      "name": "Depresi\u00f3n",
-      "url": "https://open.spotify.com/track/2Dg7FKGSZa7TKvyFfIt6Y7"
-    },
-    {
-      "added_at": "2022-08-26 04:02:00",
-      "album": {
         "name": "Que Salga De Ti",
         "url": "https://open.spotify.com/album/3WiG7Qdw9f0bsFgywnrrrJ"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 196146,
       "name": "Que Salga De Ti",
       "url": "https://open.spotify.com/track/4GtnM2wxYSeHtoiwKQwTuf"
+    },
+    {
+      "added_at": "2022-08-26 04:02:00",
+      "album": {
+        "name": "Depresi\u00f3n",
+        "url": "https://open.spotify.com/album/2oPgq5nHxcSAfPAq3utk77"
+      },
+      "artists": [
+        {
+          "name": "Oswaldo_NR",
+          "url": "https://open.spotify.com/artist/1n3pTG4kkZiuepmOINVStx"
+        }
+      ],
+      "duration_ms": 224892,
+      "name": "Depresi\u00f3n",
+      "url": "https://open.spotify.com/track/2Dg7FKGSZa7TKvyFfIt6Y7"
     },
     {
       "added_at": "2022-08-26 04:02:00",

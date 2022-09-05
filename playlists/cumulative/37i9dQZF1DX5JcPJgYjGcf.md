@@ -4,7 +4,7 @@
 
 > All the megahits by the South Korean boy band are right here! Don't fight your feelings, EXO\-Ls!
 
-121 songs - 7 hr 0 min - [published](https://open.spotify.com/playlist/04BvKrq9MQVW5NqhblFRE4)
+122 songs - 7 hr 2 min - [published](https://open.spotify.com/playlist/04BvKrq9MQVW5NqhblFRE4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,8 +50,9 @@
 | [It's Love](https://open.spotify.com/track/5orHjvcyt71Sv1O4M1GSHf) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [공감 \(Empathy\) \- The 1st Mini Album](https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk) | 3:57 | 2021-07-26 |  |
 | [Jekyll](https://open.spotify.com/track/028XrbNPgtmnSSScHuWuG1) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [OBSESSION](https://open.spotify.com/album/7uNyF6MKaVHi5TJqIiNobm) | 3:41 | 2021-07-26 |  |
 | [Jet Lag](https://open.spotify.com/track/2pGiCkby7jZHeSTGM9aDKE) | [EXO\-SC](https://open.spotify.com/artist/6741jcSlgsv0M3B4ruIPS5) | [1 Billion Views \- The 1st Album](https://open.spotify.com/album/4t1SPfj4ogtEQUMu3OHI3Q) | 3:17 | 2021-07-26 |  |
-| [Joker](https://open.spotify.com/track/3mkBVRxL8Zb6Cp9PuBHMq4) | [LAY](https://open.spotify.com/artist/4o7tWrzQOqarDtTMWD2HV9) | [Joker](https://open.spotify.com/album/6Q7hzeX6jomOltQjbygShm) | 2:18 | 2021-07-26 |  |
+| [Joker](https://open.spotify.com/track/3mkBVRxL8Zb6Cp9PuBHMq4) | [LAY](https://open.spotify.com/artist/4o7tWrzQOqarDtTMWD2HV9) | [Joker](https://open.spotify.com/album/6Q7hzeX6jomOltQjbygShm) | 2:18 | 2021-07-26 | 2022-09-05 |
 | [Joker](https://open.spotify.com/track/3r1Ct1TfhTo1ERSO5yn2bQ) | [LAY](https://open.spotify.com/artist/4o7tWrzQOqarDtTMWD2HV9) | [PRODUCER](https://open.spotify.com/album/3GRxN9dE11BbXgpZIRJCUM) | 2:18 | 2021-07-26 | 2022-07-29 |
+| [Joker](https://open.spotify.com/track/7yVsn705mElzqZfuxoZSjv) | [LAY](https://open.spotify.com/artist/4o7tWrzQOqarDtTMWD2HV9) | [PRODUCER](https://open.spotify.com/album/7KVVfotZYLbM4rYaSGLrMX) | 2:18 | 2021-07-26 |  |
 | [Just as usual](https://open.spotify.com/track/64xTu0cKbXu3ZSRkfXiBnx) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [DON'T FIGHT THE FEELING \- Special Album](https://open.spotify.com/album/7Jw48lPmYuYftfQv5LmAzI) | 3:27 | 2021-07-26 |  |
 | [Ko Ko Bop](https://open.spotify.com/track/5EzitieoPnjyKHAq0gfRMa) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [THE WAR \- The 4th Album](https://open.spotify.com/album/53pJcIJBdlm5rhVhjSnvHn) | 3:10 | 2021-07-26 |  |
 | [Let’s Love](https://open.spotify.com/track/0wk4GYAryLcXEMvfhzU1bv) | [SUHO](https://open.spotify.com/artist/5zkf2Na8DKKJmtWX5Xrx3m) | [Self\-Portrait \- The 1st Mini Album](https://open.spotify.com/album/0f4L2zNLtQtFk08M1YGoE1) | 3:49 | 2021-07-26 |  |

@@ -4,7 +4,7 @@
 
 > ¡Dulces, verdes y rojos! Con su champurrado calientito.
 
-170 songs - 8 hr 51 min - [published](https://open.spotify.com/playlist/73UOu4GnK799VXnAbtt9LK)
+171 songs - 8 hr 54 min - [published](https://open.spotify.com/playlist/73UOu4GnK799VXnAbtt9LK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [La Diferencia](https://open.spotify.com/track/0UjaaTDGZcDhNZITXW9nUI) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Con el Mariachi de América de Jesús Rodríguez de Hijar](https://open.spotify.com/album/1KyEwimgjlEeq4Ovc1D8ws) | 3:20 | 2022-01-12 |  |
 | [La enramada \(Arr\. R\. Jonas\)](https://open.spotify.com/track/738P4VYhJCQOg7yXtFnwVy) | [De Norte A Sur](https://open.spotify.com/artist/7bvhkGrKvpwFoxxhu2pW15) | [The Best of Mexico](https://open.spotify.com/album/0JjUyzvAkWOcKizrCSOEd9) | 2:50 | 2022-01-12 | 2022-07-29 |
 | [La feria de las flores \(Arr\. R\. Jonas\)](https://open.spotify.com/track/3UpBtWoZJgJQWUYWjs51LY) | [De Norte A Sur](https://open.spotify.com/artist/7bvhkGrKvpwFoxxhu2pW15) | [The Best of Mexico](https://open.spotify.com/album/0JjUyzvAkWOcKizrCSOEd9) | 3:06 | 2022-01-12 | 2022-07-29 |
+| [La hiedra \(arr\. R\. Jonas\)](https://open.spotify.com/track/4XxMsPO1y0bIApGUdgMvHm) | [De Norte A Sur](https://open.spotify.com/artist/7bvhkGrKvpwFoxxhu2pW15) | [Mexico: 20 Best Mariachi and Folk Songs](https://open.spotify.com/album/056QcfXOgyiTK2LKaeJ5Y9) | 2:51 | 2022-01-12 |  |
 | [La hiedra \(Arr\. R\. Jonas\)](https://open.spotify.com/track/6nrmaEzad0hHGN6PPGlyH6) | [De Norte A Sur](https://open.spotify.com/artist/7bvhkGrKvpwFoxxhu2pW15) | [Mexico: 20 Best Mariachi and Folk Songs](https://open.spotify.com/album/4EfsZRb9EGyKIAPrGHOeKT) | 2:51 | 2022-01-12 | 2022-07-29 |
 | [La Incondicional](https://open.spotify.com/track/3kPxCBbjKUubZRo9fSCtJg) | [Michele Leao](https://open.spotify.com/artist/6FjXAOfjiavprwnGzY0YvF) | [La Incondicional](https://open.spotify.com/album/0jFyqIlb60Syz3EWhszmEE) | 3:00 | 2022-01-12 | 2022-07-28 |
 | [La llorona](https://open.spotify.com/track/21VxAmhZn3p0kdb0jXu4Ry) | [Chavela Vargas](https://open.spotify.com/artist/0WC6O2ZzUcDYvcmt2mGh8c) | [Las 30 grandes de Chavela Vargas](https://open.spotify.com/album/5PBV4NRJsndZpe2cbIejt2) | 8:31 | 2022-01-12 |  |
@@ -174,7 +175,7 @@
 | [Ven](https://open.spotify.com/track/65zy1w1ji5H6Vo9fwc9s8M) | [Mexican Music Factory](https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb), [Roberto Aguilar](https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV), [Felipe Gutierrez](https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c), [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3) | [Boleros](https://open.spotify.com/album/6sp7ntRlQpaNtK25bNXuEZ) | 3:11 | 2022-01-12 |  |
 | [Volver, Volver](https://open.spotify.com/track/3f8BsxS5vySEQzocBF2CMQ) | [Mariachi Premier](https://open.spotify.com/artist/3zUi6YMPFd66AglMtvVoea) | [Recuerdos De Mi Tierra](https://open.spotify.com/album/7qrXv6WJLfQF6msl1m4ZBe) | 3:01 | 2022-01-12 | 2022-07-29 |
 | [Voy A Apagar La Luz](https://open.spotify.com/track/40duIz5ZiOGr9tjiGHQw80) | [Los Amores Recientes](https://open.spotify.com/artist/4gGcw7smf466EwjJwxp9VG) | [Voy A Apagar La Luz](https://open.spotify.com/album/7BszH6X5fEBsgNVXXvltvu) | 2:23 | 2022-01-12 |  |
-| [Y Todo Para Que](https://open.spotify.com/track/1IqZNILZcGQDnEIueNMFgT) | [Nora Levario](https://open.spotify.com/artist/43F7L6jcGu1F0TpEmS27mw) | [Y Todo Para Que](https://open.spotify.com/album/4NZRI46AsgksuR6cCX2vFc) | 2:32 | 2022-01-12 |  |
+| [Y Todo Para Que](https://open.spotify.com/track/1IqZNILZcGQDnEIueNMFgT) | [Nora Levario](https://open.spotify.com/artist/43F7L6jcGu1F0TpEmS27mw) | [Y Todo Para Que](https://open.spotify.com/album/4NZRI46AsgksuR6cCX2vFc) | 2:32 | 2022-01-12 | 2022-09-05 |
 | [Ya Acabo](https://open.spotify.com/track/07NnD0MqN5lesPhy3faZkj) | [Kendra Soliz](https://open.spotify.com/artist/6FhgKnJWJrgcqfDwQHdSyZ) | [Ya Acabo](https://open.spotify.com/album/7abRhsrO4FslXCpVvayDPi) | 2:54 | 2022-01-12 |  |
 | [Ya Te Olvide](https://open.spotify.com/track/1TM1jRGtkF18D4VnRqlpKu) | [Los Amores Recientes](https://open.spotify.com/artist/4gGcw7smf466EwjJwxp9VG) | [Ya Te Olvide](https://open.spotify.com/album/6mlUaXGzLm5RPoQDP0o4mZ) | 2:28 | 2022-01-12 |  |
 | [Yo Ya No Vuelvo Contigo](https://open.spotify.com/track/5dr22Hx7V73QhvT3p5azpf) | [Eloise Freud](https://open.spotify.com/artist/4fCVdhbvs0qYEAQozKSyOh) | [Yo Ya No Vuelvo Contigo](https://open.spotify.com/album/5n6chJVmqXhiF4klgDsYA7) | 3:52 | 2022-01-12 |  |

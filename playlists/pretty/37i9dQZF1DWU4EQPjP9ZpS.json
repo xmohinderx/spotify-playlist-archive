@@ -1,12 +1,12 @@
 {
   "description": "get lost in the  a e s t h e t i c ",
-  "num_followers": 194554,
+  "num_followers": 194134,
   "original_name": "vaporwave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI3Njg2MCwwMDAwMDAwMDA5MGI0OTg1Y2JmMDk5NjVjOWQ0MTA3YWZmODdlMDcx",
+  "snapshot_id": "MTY2MDI3Njg2MCwwMDAwMDAwMDE4NmVmYTk5MTU3YmY4N2YyNTQzNDEzYjA5NzBhYWJi",
   "tracks": [
     {
       "added_at": "2022-08-12 04:01:00",
@@ -543,6 +543,26 @@
     {
       "added_at": "2022-08-12 04:01:00",
       "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/2LeTvZCJrcgloOlJz7SBv7"
+      },
+      "artists": [
+        {
+          "name": "bl00dwave",
+          "url": "https://open.spotify.com/artist/62i4qFmGjJrPoNwLuFfiCH"
+        },
+        {
+          "name": "Riverwave",
+          "url": "https://open.spotify.com/artist/1cEFUFZiMoCQsX4ufDMAVi"
+        }
+      ],
+      "duration_ms": 146181,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/4cuFOiOerVc7Ectr2qLKKb"
+    },
+    {
+      "added_at": "2022-08-12 04:01:00",
+      "album": {
         "name": "Mother",
         "url": "https://open.spotify.com/album/3KToJ1crqxFB4LCdRvz518"
       },
@@ -555,22 +575,6 @@
       "duration_ms": 72000,
       "name": "stay",
       "url": "https://open.spotify.com/track/0qt56ARoFkrdsc5jPgmpz8"
-    },
-    {
-      "added_at": "2022-08-12 04:01:00",
-      "album": {
-        "name": "City Lights",
-        "url": "https://open.spotify.com/album/3mw1X0nqWBSSWlGrbBYkCc"
-      },
-      "artists": [
-        {
-          "name": "FM Attack",
-          "url": "https://open.spotify.com/artist/6nPggL1KGOD5Ba0yK0cxmb"
-        }
-      ],
-      "duration_ms": 200019,
-      "name": "City Lights",
-      "url": "https://open.spotify.com/track/0LiyqVSNN07YMBKdnPhI8A"
     },
     {
       "added_at": "2022-08-12 04:01:00",
@@ -591,22 +595,18 @@
     {
       "added_at": "2022-08-12 04:01:00",
       "album": {
-        "name": "Blue",
-        "url": "https://open.spotify.com/album/2LeTvZCJrcgloOlJz7SBv7"
+        "name": "City Lights",
+        "url": "https://open.spotify.com/album/3mw1X0nqWBSSWlGrbBYkCc"
       },
       "artists": [
         {
-          "name": "bl00dwave",
-          "url": "https://open.spotify.com/artist/62i4qFmGjJrPoNwLuFfiCH"
-        },
-        {
-          "name": "Riverwave",
-          "url": "https://open.spotify.com/artist/1cEFUFZiMoCQsX4ufDMAVi"
+          "name": "FM Attack",
+          "url": "https://open.spotify.com/artist/6nPggL1KGOD5Ba0yK0cxmb"
         }
       ],
-      "duration_ms": 146181,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/4cuFOiOerVc7Ectr2qLKKb"
+      "duration_ms": 200019,
+      "name": "City Lights",
+      "url": "https://open.spotify.com/track/0LiyqVSNN07YMBKdnPhI8A"
     },
     {
       "added_at": "2022-08-12 04:01:00",
@@ -703,22 +703,6 @@
     {
       "added_at": "2022-08-12 04:01:00",
       "album": {
-        "name": "Ocean Breeze",
-        "url": "https://open.spotify.com/album/6NzptI3rtodybXwrXhiPIt"
-      },
-      "artists": [
-        {
-          "name": "Trushinitas",
-          "url": "https://open.spotify.com/artist/7bvJ0n5X6XPbbSCEdKEEvI"
-        }
-      ],
-      "duration_ms": 146270,
-      "name": "By the River",
-      "url": "https://open.spotify.com/track/231J1yvJV2cFXOvtmhXQ7f"
-    },
-    {
-      "added_at": "2022-08-12 04:01:00",
-      "album": {
         "name": "World Class",
         "url": "https://open.spotify.com/album/6aLiYlTMrvma12uDvlRm5x"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 145086,
       "name": "Strut (\u732b \u30b7 Corp. Remix)",
       "url": "https://open.spotify.com/track/4RmXxnrXEkHVpWwspMF8iv"
+    },
+    {
+      "added_at": "2022-08-12 04:01:00",
+      "album": {
+        "name": "Ocean Breeze",
+        "url": "https://open.spotify.com/album/6NzptI3rtodybXwrXhiPIt"
+      },
+      "artists": [
+        {
+          "name": "Trushinitas",
+          "url": "https://open.spotify.com/artist/7bvJ0n5X6XPbbSCEdKEEvI"
+        }
+      ],
+      "duration_ms": 146270,
+      "name": "By the River",
+      "url": "https://open.spotify.com/track/231J1yvJV2cFXOvtmhXQ7f"
     },
     {
       "added_at": "2022-08-12 04:01:00",
@@ -759,22 +759,6 @@
     {
       "added_at": "2022-08-12 04:01:00",
       "album": {
-        "name": "Nu.wav Hallucinations",
-        "url": "https://open.spotify.com/album/6nfVqgC74S6IvixOlxd9wv"
-      },
-      "artists": [
-        {
-          "name": "Nmesh",
-          "url": "https://open.spotify.com/artist/5XbtWFLdL2sXDUo3oqzn9b"
-        }
-      ],
-      "duration_ms": 359410,
-      "name": "A Face Without Eyes",
-      "url": "https://open.spotify.com/track/2Dub85ZiCGeXM3pLTsaV8J"
-    },
-    {
-      "added_at": "2022-08-12 04:01:00",
-      "album": {
         "name": "Midnight Store",
         "url": "https://open.spotify.com/album/36WA4KamqIuwQZS8n1FZPl"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 157974,
       "name": "Turn the Fridge On",
       "url": "https://open.spotify.com/track/4Ex9W2heRZub49lRZDveky"
+    },
+    {
+      "added_at": "2022-08-12 04:01:00",
+      "album": {
+        "name": "Nu.wav Hallucinations",
+        "url": "https://open.spotify.com/album/6nfVqgC74S6IvixOlxd9wv"
+      },
+      "artists": [
+        {
+          "name": "Nmesh",
+          "url": "https://open.spotify.com/artist/5XbtWFLdL2sXDUo3oqzn9b"
+        }
+      ],
+      "duration_ms": 359410,
+      "name": "A Face Without Eyes",
+      "url": "https://open.spotify.com/track/2Dub85ZiCGeXM3pLTsaV8J"
     },
     {
       "added_at": "2022-08-12 04:01:00",
@@ -871,18 +871,22 @@
     {
       "added_at": "2022-08-12 04:01:00",
       "album": {
-        "name": "VaporLoops, Vol. 1",
-        "url": "https://open.spotify.com/album/5AUO9iVgc0azZXcpvpg4Rc"
+        "name": "Cry Again",
+        "url": "https://open.spotify.com/album/1AnstNZSetOGm24TQA5GHB"
       },
       "artists": [
         {
-          "name": "Tupperwave",
-          "url": "https://open.spotify.com/artist/5jVWik9dHly6LQnh2pJJiO"
+          "name": "Windows 96",
+          "url": "https://open.spotify.com/artist/65XcfOOaVxbZnNlz40DK7i"
+        },
+        {
+          "name": "Gavriel",
+          "url": "https://open.spotify.com/artist/53wGx0J5eu3GdlChMeO8RJ"
         }
       ],
-      "duration_ms": 229269,
-      "name": "Misty Reflections",
-      "url": "https://open.spotify.com/track/3cBtHwcoJm3GTKEkkwTLO3"
+      "duration_ms": 182192,
+      "name": "Cry Again",
+      "url": "https://open.spotify.com/track/5LfYC98Zc9hsPTPzz9gltB"
     },
     {
       "added_at": "2022-08-12 04:01:00",
@@ -903,22 +907,18 @@
     {
       "added_at": "2022-08-12 04:01:00",
       "album": {
-        "name": "Cry Again",
-        "url": "https://open.spotify.com/album/1AnstNZSetOGm24TQA5GHB"
+        "name": "VaporLoops, Vol. 1",
+        "url": "https://open.spotify.com/album/5AUO9iVgc0azZXcpvpg4Rc"
       },
       "artists": [
         {
-          "name": "Windows 96",
-          "url": "https://open.spotify.com/artist/65XcfOOaVxbZnNlz40DK7i"
-        },
-        {
-          "name": "Gavriel",
-          "url": "https://open.spotify.com/artist/53wGx0J5eu3GdlChMeO8RJ"
+          "name": "Tupperwave",
+          "url": "https://open.spotify.com/artist/5jVWik9dHly6LQnh2pJJiO"
         }
       ],
-      "duration_ms": 182192,
-      "name": "Cry Again",
-      "url": "https://open.spotify.com/track/5LfYC98Zc9hsPTPzz9gltB"
+      "duration_ms": 229269,
+      "name": "Misty Reflections",
+      "url": "https://open.spotify.com/track/3cBtHwcoJm3GTKEkkwTLO3"
     },
     {
       "added_at": "2022-08-12 04:01:00",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2022-08-12 04:01:00",
       "album": {
-        "name": "CoronaWave: \u30b3\u30ed\u30ca\u30a6\u30a4\u30eb\u30b9",
-        "url": "https://open.spotify.com/album/36TxAJXg1qqM2ALaO9FJjz"
-      },
-      "artists": [
-        {
-          "name": "\u306c\u3044\u3050\u308b\u307f\u30af\u30ec\u30e8\u30f3 Lush Crayon",
-          "url": "https://open.spotify.com/artist/62v3nR2gE0z1AFSFHxKepe"
-        }
-      ],
-      "duration_ms": 112278,
-      "name": "W U H A N",
-      "url": "https://open.spotify.com/track/0Cqo3oUVrNVDOMTZFv83uY"
-    },
-    {
-      "added_at": "2022-08-12 04:01:00",
-      "album": {
         "name": "Empty Hiding World",
         "url": "https://open.spotify.com/album/7B9eJo7vRYl1ztGxTOeK4R"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 241836,
       "name": "Edenic Green Plus",
       "url": "https://open.spotify.com/track/3VdhA2Yzb5p1cSBri10ctZ"
+    },
+    {
+      "added_at": "2022-08-12 04:01:00",
+      "album": {
+        "name": "CoronaWave: \u30b3\u30ed\u30ca\u30a6\u30a4\u30eb\u30b9",
+        "url": "https://open.spotify.com/album/36TxAJXg1qqM2ALaO9FJjz"
+      },
+      "artists": [
+        {
+          "name": "\u306c\u3044\u3050\u308b\u307f\u30af\u30ec\u30e8\u30f3 Lush Crayon",
+          "url": "https://open.spotify.com/artist/62v3nR2gE0z1AFSFHxKepe"
+        }
+      ],
+      "duration_ms": 112278,
+      "name": "W U H A N",
+      "url": "https://open.spotify.com/track/0Cqo3oUVrNVDOMTZFv83uY"
     },
     {
       "added_at": "2022-08-12 04:01:00",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2022-08-12 04:01:00",
       "album": {
-        "name": "Strangers Who Know Every Secret",
-        "url": "https://open.spotify.com/album/2HYUqt8hUWWJI1k9Z0ikhk"
-      },
-      "artists": [
-        {
-          "name": "Designed Intervention",
-          "url": "https://open.spotify.com/artist/4dpQCIT52Zhd5DkCtGjohT"
-        }
-      ],
-      "duration_ms": 156613,
-      "name": "Strangers Who Know Every Secret",
-      "url": "https://open.spotify.com/track/5QTXHQKxX4fPRJMiHPkGYU"
-    },
-    {
-      "added_at": "2022-08-12 04:01:00",
-      "album": {
         "name": "Growing Apart",
         "url": "https://open.spotify.com/album/37bgZiMeNpFqOeHBH2ySzS"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 217153,
       "name": "Growing Apart",
       "url": "https://open.spotify.com/track/5MJ0dvRaRU2RWdpVFWP4jm"
+    },
+    {
+      "added_at": "2022-08-12 04:01:00",
+      "album": {
+        "name": "Strangers Who Know Every Secret",
+        "url": "https://open.spotify.com/album/2HYUqt8hUWWJI1k9Z0ikhk"
+      },
+      "artists": [
+        {
+          "name": "Designed Intervention",
+          "url": "https://open.spotify.com/artist/4dpQCIT52Zhd5DkCtGjohT"
+        }
+      ],
+      "duration_ms": 156613,
+      "name": "Strangers Who Know Every Secret",
+      "url": "https://open.spotify.com/track/5QTXHQKxX4fPRJMiHPkGYU"
     },
     {
       "added_at": "2022-08-12 04:01:00",
@@ -1139,18 +1139,18 @@
     {
       "added_at": "2022-08-12 04:01:00",
       "album": {
-        "name": "24Hrs.",
-        "url": "https://open.spotify.com/album/5c8pB4iBCoVveYDf8Nf1UI"
+        "name": "Melatonin High (Rework 2021)",
+        "url": "https://open.spotify.com/album/2sXLqJZI9hraRNOdAYBtdK"
       },
       "artists": [
         {
-          "name": "Maitro",
-          "url": "https://open.spotify.com/artist/4pG6hTUl9HhyftfJQQI7np"
+          "name": "Dan Mason \u30c0\u30f3\u00b7\u30e1\u30a4\u30bd\u30f3",
+          "url": "https://open.spotify.com/artist/7ustec6RrECyewmYxf4cIa"
         }
       ],
-      "duration_ms": 145240,
-      "name": "Clarity",
-      "url": "https://open.spotify.com/track/1YcAQRuKsbB8hQ5zrJxVJb"
+      "duration_ms": 280000,
+      "name": "Melatonin High - Rework 2021",
+      "url": "https://open.spotify.com/track/05NcFvbmsIEHSSiu0YN8HU"
     },
     {
       "added_at": "2022-08-12 04:01:00",
@@ -1171,18 +1171,18 @@
     {
       "added_at": "2022-08-12 04:01:00",
       "album": {
-        "name": "Melatonin High (Rework 2021)",
-        "url": "https://open.spotify.com/album/2sXLqJZI9hraRNOdAYBtdK"
+        "name": "24Hrs.",
+        "url": "https://open.spotify.com/album/5c8pB4iBCoVveYDf8Nf1UI"
       },
       "artists": [
         {
-          "name": "Dan Mason \u30c0\u30f3\u00b7\u30e1\u30a4\u30bd\u30f3",
-          "url": "https://open.spotify.com/artist/7ustec6RrECyewmYxf4cIa"
+          "name": "Maitro",
+          "url": "https://open.spotify.com/artist/4pG6hTUl9HhyftfJQQI7np"
         }
       ],
-      "duration_ms": 280000,
-      "name": "Melatonin High - Rework 2021",
-      "url": "https://open.spotify.com/track/05NcFvbmsIEHSSiu0YN8HU"
+      "duration_ms": 145240,
+      "name": "Clarity",
+      "url": "https://open.spotify.com/track/1YcAQRuKsbB8hQ5zrJxVJb"
     },
     {
       "added_at": "2022-08-12 04:01:00",
@@ -1311,26 +1311,6 @@
     {
       "added_at": "2022-08-12 04:01:00",
       "album": {
-        "name": "Liminal Cove",
-        "url": "https://open.spotify.com/album/1QSI0csTVcVdhCLSkfKlux"
-      },
-      "artists": [
-        {
-          "name": "Be Careful",
-          "url": "https://open.spotify.com/artist/6nOiPscNpVTSydKa7Snfin"
-        },
-        {
-          "name": "Donor Lens",
-          "url": "https://open.spotify.com/artist/0gF93jqUmpFOFEtBKXWFiA"
-        }
-      ],
-      "duration_ms": 187200,
-      "name": "Epifauna",
-      "url": "https://open.spotify.com/track/2FPhnI8uGOR4GoVMxhccGI"
-    },
-    {
-      "added_at": "2022-08-12 04:01:00",
-      "album": {
         "name": "Electric Elevator 2: Second Floor",
         "url": "https://open.spotify.com/album/15uhjGCpE6oXgUFZSOPtkp"
       },
@@ -1343,6 +1323,22 @@
       "duration_ms": 182968,
       "name": "Home Office",
       "url": "https://open.spotify.com/track/4IiBBXXJEDmuv4Gn3PDjNB"
+    },
+    {
+      "added_at": "2022-08-12 04:01:00",
+      "album": {
+        "name": "Swing Tournament",
+        "url": "https://open.spotify.com/album/0V64Z07UBDgp8RkDgfMIiC"
+      },
+      "artists": [
+        {
+          "name": "US Golf 95",
+          "url": "https://open.spotify.com/artist/5CnHY3fEGCye9RQH7gVvox"
+        }
+      ],
+      "duration_ms": 172271,
+      "name": "Nature",
+      "url": "https://open.spotify.com/track/2GcSVKKKIgnFhXF0t6Cvc9"
     },
     {
       "added_at": "2022-08-12 04:01:00",
@@ -1363,18 +1359,22 @@
     {
       "added_at": "2022-08-12 04:01:00",
       "album": {
-        "name": "Swing Tournament",
-        "url": "https://open.spotify.com/album/0V64Z07UBDgp8RkDgfMIiC"
+        "name": "Liminal Cove",
+        "url": "https://open.spotify.com/album/1QSI0csTVcVdhCLSkfKlux"
       },
       "artists": [
         {
-          "name": "US Golf 95",
-          "url": "https://open.spotify.com/artist/5CnHY3fEGCye9RQH7gVvox"
+          "name": "Be Careful",
+          "url": "https://open.spotify.com/artist/6nOiPscNpVTSydKa7Snfin"
+        },
+        {
+          "name": "Donor Lens",
+          "url": "https://open.spotify.com/artist/0gF93jqUmpFOFEtBKXWFiA"
         }
       ],
-      "duration_ms": 172271,
-      "name": "Nature",
-      "url": "https://open.spotify.com/track/2GcSVKKKIgnFhXF0t6Cvc9"
+      "duration_ms": 187200,
+      "name": "Epifauna",
+      "url": "https://open.spotify.com/track/2FPhnI8uGOR4GoVMxhccGI"
     },
     {
       "added_at": "2022-08-12 04:01:00",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2022-08-12 04:01:00",
       "album": {
-        "name": "Miami Virtual",
-        "url": "https://open.spotify.com/album/5DhCQT0YI1NHXxqfNRFyL7"
-      },
-      "artists": [
-        {
-          "name": "Dan Mason \u30c0\u30f3\u00b7\u30e1\u30a4\u30bd\u30f3",
-          "url": "https://open.spotify.com/artist/7ustec6RrECyewmYxf4cIa"
-        }
-      ],
-      "duration_ms": 234013,
-      "name": "\u4eca\u591c",
-      "url": "https://open.spotify.com/track/0qX9kcTL9PonpRFpPrqSDu"
-    },
-    {
-      "added_at": "2022-08-12 04:01:00",
-      "album": {
         "name": "Vivid",
         "url": "https://open.spotify.com/album/43nHwXwoyMqTL8UlAWaaEW"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 170379,
       "name": "Vivid",
       "url": "https://open.spotify.com/track/5MwMvbUX8LFEjdA78fB28u"
+    },
+    {
+      "added_at": "2022-08-12 04:01:00",
+      "album": {
+        "name": "Miami Virtual",
+        "url": "https://open.spotify.com/album/5DhCQT0YI1NHXxqfNRFyL7"
+      },
+      "artists": [
+        {
+          "name": "Dan Mason \u30c0\u30f3\u00b7\u30e1\u30a4\u30bd\u30f3",
+          "url": "https://open.spotify.com/artist/7ustec6RrECyewmYxf4cIa"
+        }
+      ],
+      "duration_ms": 234013,
+      "name": "\u4eca\u591c",
+      "url": "https://open.spotify.com/track/0qX9kcTL9PonpRFpPrqSDu"
     },
     {
       "added_at": "2022-08-12 04:01:00",
@@ -1511,6 +1511,22 @@
     {
       "added_at": "2022-08-12 04:01:00",
       "album": {
+        "name": "Pok\u00e9wave III",
+        "url": "https://open.spotify.com/album/3hqmECDWWCG6fImy3IPJjw"
+      },
+      "artists": [
+        {
+          "name": "Neon95",
+          "url": "https://open.spotify.com/artist/6KOSqunMD2lrpkv2QQThsb"
+        }
+      ],
+      "duration_ms": 193280,
+      "name": "Flash",
+      "url": "https://open.spotify.com/track/3oG6lhEpzL1Pq4pExi0nnJ"
+    },
+    {
+      "added_at": "2022-08-12 04:01:00",
+      "album": {
         "name": "Glass Mind",
         "url": "https://open.spotify.com/album/6n5SPV0pPiloTwXXn3I0ez"
       },
@@ -1531,22 +1547,6 @@
     {
       "added_at": "2022-08-12 04:01:00",
       "album": {
-        "name": "Pok\u00e9wave III",
-        "url": "https://open.spotify.com/album/3hqmECDWWCG6fImy3IPJjw"
-      },
-      "artists": [
-        {
-          "name": "Neon95",
-          "url": "https://open.spotify.com/artist/6KOSqunMD2lrpkv2QQThsb"
-        }
-      ],
-      "duration_ms": 193280,
-      "name": "Flash",
-      "url": "https://open.spotify.com/track/3oG6lhEpzL1Pq4pExi0nnJ"
-    },
-    {
-      "added_at": "2022-08-12 04:01:00",
-      "album": {
         "name": "EMAIL",
         "url": "https://open.spotify.com/album/6WDrx0SJVfuDoJrLwG9Hye"
       },
@@ -1563,18 +1563,34 @@
     {
       "added_at": "2022-08-12 04:01:00",
       "album": {
-        "name": "Aeris",
-        "url": "https://open.spotify.com/album/1ySeydSvvqtYI8HnHSU047"
+        "name": "Hiraeth",
+        "url": "https://open.spotify.com/album/5liW7KNunCxMaEP3gbCI1C"
       },
       "artists": [
         {
-          "name": "Rhodes Rodosu",
-          "url": "https://open.spotify.com/artist/0CxvNc5GFnCv9UXiu5mreJ"
+          "name": "\u732b \u30b7 Corp.",
+          "url": "https://open.spotify.com/artist/4eYVVrnphe4blxWuzahYQE"
         }
       ],
-      "duration_ms": 226500,
-      "name": "Oneirataxia",
-      "url": "https://open.spotify.com/track/6FDdDpVNYdROU8SAmzlfQ9"
+      "duration_ms": 74000,
+      "name": "Aquascaping \u30d4 \u30e9 \u30df \u30c3 \u30c9",
+      "url": "https://open.spotify.com/track/3JWklyImki98eVMPDMWH1y"
+    },
+    {
+      "added_at": "2022-08-12 04:01:00",
+      "album": {
+        "name": "Harlequin",
+        "url": "https://open.spotify.com/album/3cB1LycEBKXgS2OT8z2sPb"
+      },
+      "artists": [
+        {
+          "name": "FM Skyline",
+          "url": "https://open.spotify.com/artist/78eLUMRVVuDlDgcvYCYDCf"
+        }
+      ],
+      "duration_ms": 176086,
+      "name": "Harlequin",
+      "url": "https://open.spotify.com/track/7rDsuv5zejXYlPUkG5nW0p"
     },
     {
       "added_at": "2022-08-12 04:01:00",
@@ -1599,18 +1615,34 @@
     {
       "added_at": "2022-08-12 04:01:00",
       "album": {
-        "name": "Harlequin",
-        "url": "https://open.spotify.com/album/3cB1LycEBKXgS2OT8z2sPb"
+        "name": "Aeris",
+        "url": "https://open.spotify.com/album/1ySeydSvvqtYI8HnHSU047"
       },
       "artists": [
         {
-          "name": "FM Skyline",
-          "url": "https://open.spotify.com/artist/78eLUMRVVuDlDgcvYCYDCf"
+          "name": "Rhodes Rodosu",
+          "url": "https://open.spotify.com/artist/0CxvNc5GFnCv9UXiu5mreJ"
         }
       ],
-      "duration_ms": 176086,
-      "name": "Harlequin",
-      "url": "https://open.spotify.com/track/7rDsuv5zejXYlPUkG5nW0p"
+      "duration_ms": 226500,
+      "name": "Oneirataxia",
+      "url": "https://open.spotify.com/track/6FDdDpVNYdROU8SAmzlfQ9"
+    },
+    {
+      "added_at": "2022-08-12 04:01:00",
+      "album": {
+        "name": "visualdesign '97",
+        "url": "https://open.spotify.com/album/1U7sVDbYF140Qi5uClqkWQ"
+      },
+      "artists": [
+        {
+          "name": "vcr-classique",
+          "url": "https://open.spotify.com/artist/7A1easrTxUXFE8oweLhFX2"
+        }
+      ],
+      "duration_ms": 105143,
+      "name": "sunday shopping",
+      "url": "https://open.spotify.com/track/1DNbnHyTMvDP0KcoPVpUN5"
     },
     {
       "added_at": "2022-08-12 04:01:00",
@@ -1647,22 +1679,6 @@
     {
       "added_at": "2022-08-12 04:01:00",
       "album": {
-        "name": "Agoraphilia",
-        "url": "https://open.spotify.com/album/2YDSlxjHqPxovT02jnUU18"
-      },
-      "artists": [
-        {
-          "name": "Gogi 93",
-          "url": "https://open.spotify.com/artist/3eOwKRgznUp7QxbWDDG4fZ"
-        }
-      ],
-      "duration_ms": 221864,
-      "name": "Freedom Airways",
-      "url": "https://open.spotify.com/track/6eVP45Uxmf0VUSqhZKxjVX"
-    },
-    {
-      "added_at": "2022-08-12 04:01:00",
-      "album": {
         "name": "Rash Devices (FM Skyline Remix)",
         "url": "https://open.spotify.com/album/1K6ONT5q55ZqSqdOlN0QFD"
       },
@@ -1683,34 +1699,18 @@
     {
       "added_at": "2022-08-12 04:01:00",
       "album": {
-        "name": "Hiraeth",
-        "url": "https://open.spotify.com/album/5liW7KNunCxMaEP3gbCI1C"
+        "name": "Polychromatic Compiler",
+        "url": "https://open.spotify.com/album/2BBFUYG2TMaqNWS2PL040P"
       },
       "artists": [
         {
-          "name": "\u732b \u30b7 Corp.",
-          "url": "https://open.spotify.com/artist/4eYVVrnphe4blxWuzahYQE"
+          "name": "VAPERROR",
+          "url": "https://open.spotify.com/artist/0AEVuiJFczDd4dkmZh2Kha"
         }
       ],
-      "duration_ms": 74000,
-      "name": "Aquascaping \u30d4 \u30e9 \u30df \u30c3 \u30c9",
-      "url": "https://open.spotify.com/track/3JWklyImki98eVMPDMWH1y"
-    },
-    {
-      "added_at": "2022-08-12 04:01:00",
-      "album": {
-        "name": "visualdesign '97",
-        "url": "https://open.spotify.com/album/1U7sVDbYF140Qi5uClqkWQ"
-      },
-      "artists": [
-        {
-          "name": "vcr-classique",
-          "url": "https://open.spotify.com/artist/7A1easrTxUXFE8oweLhFX2"
-        }
-      ],
-      "duration_ms": 105143,
-      "name": "sunday shopping",
-      "url": "https://open.spotify.com/track/1DNbnHyTMvDP0KcoPVpUN5"
+      "duration_ms": 128442,
+      "name": "Ultrafunk Fantasy",
+      "url": "https://open.spotify.com/track/6hBjkzPdDnxikkwnegSvCc"
     }
   ],
   "unique_name": "vaporwave",

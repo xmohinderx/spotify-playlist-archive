@@ -1,12 +1,12 @@
 {
   "description": "Pour yourself a mai tai and festoon youself with lei, welcome to the Hawaiian party!",
-  "num_followers": 109482,
+  "num_followers": 109531,
   "original_name": "The Hawaiian Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODYwNDc3OCwwMDAwMDAwMDhiNTBlNzllY2JmYjAyMzMyMTBhOGYwZjk1ZjYxNTgw",
+  "snapshot_id": "MTY0ODYwNDc3OCwwMDAwMDAwMGZjZmY1MTRhYTI1Mjc1MWQyMThkYmI4YWEyNjk5N2Ex",
   "tracks": [
     {
       "added_at": "2022-01-11 02:53:42",
@@ -159,22 +159,6 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "The Very Best of Arthur Lyman (The Sensual Sounds of Exotica)",
-        "url": "https://open.spotify.com/album/67llfJEfIaI1LHh8thoTdo"
-      },
-      "artists": [
-        {
-          "name": "Arthur Lyman",
-          "url": "https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln"
-        }
-      ],
-      "duration_ms": 165666,
-      "name": "Yellow Bird",
-      "url": "https://open.spotify.com/track/7uJQUtgOzvSlVM3oyY012O"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
         "name": "Blow Up presents Exclusive Blend Volume 2",
         "url": "https://open.spotify.com/album/2LscdictQbjN7PTZZ2EjTO"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 242226,
       "name": "Underlay No.3",
       "url": "https://open.spotify.com/track/3pu0lqNFayew1RJ5WuLadM"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "The Very Best of Arthur Lyman (The Sensual Sounds of Exotica)",
+        "url": "https://open.spotify.com/album/67llfJEfIaI1LHh8thoTdo"
+      },
+      "artists": [
+        {
+          "name": "Arthur Lyman",
+          "url": "https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln"
+        }
+      ],
+      "duration_ms": 165666,
+      "name": "Yellow Bird",
+      "url": "https://open.spotify.com/track/7uJQUtgOzvSlVM3oyY012O"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -239,22 +239,6 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "Hawaiian Sunset",
-        "url": "https://open.spotify.com/album/61l4XfiMZCVWGdCwLxj6Mg"
-      },
-      "artists": [
-        {
-          "name": "Arthur Lyman",
-          "url": "https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln"
-        }
-      ],
-      "duration_ms": 71266,
-      "name": "Hii Lawe",
-      "url": "https://open.spotify.com/track/2pSRXkk8gdoePrCaNHT8rX"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
         "name": "Ultra-Lounge/Mondo Exotica: Volume One",
         "url": "https://open.spotify.com/album/2NuOkgVt9mmGOGVG0YsVtm"
       },
@@ -271,22 +255,6 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "The Sacred Idol",
-        "url": "https://open.spotify.com/album/3hkdLz234t91jRZrwCo55M"
-      },
-      "artists": [
-        {
-          "name": "Les Baxter",
-          "url": "https://open.spotify.com/artist/35pV6EUbherudlvAftoueR"
-        }
-      ],
-      "duration_ms": 151600,
-      "name": "Fruit Of Dreams",
-      "url": "https://open.spotify.com/track/67hlixuKYLcIbUAge2iVqe"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
         "name": "Hawaiian Blossom",
         "url": "https://open.spotify.com/album/49HLATxWXEGjWyRHEIhrij"
       },
@@ -299,6 +267,38 @@
       "duration_ms": 186360,
       "name": "Ahulili",
       "url": "https://open.spotify.com/track/5SmWyYdkX14Oj80WlRHnKY"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "Hawaiian Sunset",
+        "url": "https://open.spotify.com/album/61l4XfiMZCVWGdCwLxj6Mg"
+      },
+      "artists": [
+        {
+          "name": "Arthur Lyman",
+          "url": "https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln"
+        }
+      ],
+      "duration_ms": 71266,
+      "name": "Hii Lawe",
+      "url": "https://open.spotify.com/track/2pSRXkk8gdoePrCaNHT8rX"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "The Sacred Idol",
+        "url": "https://open.spotify.com/album/3hkdLz234t91jRZrwCo55M"
+      },
+      "artists": [
+        {
+          "name": "Les Baxter",
+          "url": "https://open.spotify.com/artist/35pV6EUbherudlvAftoueR"
+        }
+      ],
+      "duration_ms": 151600,
+      "name": "Fruit Of Dreams",
+      "url": "https://open.spotify.com/track/67hlixuKYLcIbUAge2iVqe"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -513,20 +513,20 @@
       "url": "https://open.spotify.com/track/7JJfyOiDqeunc2wUc6Ryx1"
     },
     {
-      "added_at": "2021-01-20 03:50:53",
+      "added_at": "2022-01-11 02:53:42",
       "album": {
-        "name": "The Savage And The Sensuous Bongos",
-        "url": "https://open.spotify.com/album/3aud1MfRrAQbjOgcMVodo8"
+        "name": "Voodoo!",
+        "url": "https://open.spotify.com/album/6SnfMkaU2WAvBmmiFpz892"
       },
       "artists": [
         {
-          "name": "Don Ralke",
-          "url": "https://open.spotify.com/artist/16v92k2eWOLCspNsRJC5W3"
+          "name": "Robert Drasnin",
+          "url": "https://open.spotify.com/artist/4lWj8PHjMEv0e2SZ7j1ZE4"
         }
       ],
-      "duration_ms": 183573,
-      "name": "Head Hunter",
-      "url": "https://open.spotify.com/track/6EvSZmoqrd9TAZGEYYQ8h1"
+      "duration_ms": 165440,
+      "name": "Enchantment",
+      "url": "https://open.spotify.com/track/4RnOkSofv95IZMcuueEovA"
     },
     {
       "added_at": "2022-01-11 02:53:42",
@@ -545,20 +545,20 @@
       "url": "https://open.spotify.com/track/0pOjjYfTME3pdOrFtV74wx"
     },
     {
-      "added_at": "2022-01-11 02:53:42",
+      "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "Voodoo!",
-        "url": "https://open.spotify.com/album/6SnfMkaU2WAvBmmiFpz892"
+        "name": "The Savage And The Sensuous Bongos",
+        "url": "https://open.spotify.com/album/3aud1MfRrAQbjOgcMVodo8"
       },
       "artists": [
         {
-          "name": "Robert Drasnin",
-          "url": "https://open.spotify.com/artist/4lWj8PHjMEv0e2SZ7j1ZE4"
+          "name": "Don Ralke",
+          "url": "https://open.spotify.com/artist/16v92k2eWOLCspNsRJC5W3"
         }
       ],
-      "duration_ms": 165440,
-      "name": "Enchantment",
-      "url": "https://open.spotify.com/track/4RnOkSofv95IZMcuueEovA"
+      "duration_ms": 183573,
+      "name": "Head Hunter",
+      "url": "https://open.spotify.com/track/6EvSZmoqrd9TAZGEYYQ8h1"
     },
     {
       "added_at": "2022-01-11 02:53:42",
@@ -707,22 +707,6 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "Vintage Jazz N\u00ba 32 - EPs Collectors \"Aquellos Ojos Verdes\"",
-        "url": "https://open.spotify.com/album/7BGTQTeKHVTyWn6jX8WGbs"
-      },
-      "artists": [
-        {
-          "name": "Al Romero And His Orchestra",
-          "url": "https://open.spotify.com/artist/3Gsyc83lbLLKB4m3indOf0"
-        }
-      ],
-      "duration_ms": 162721,
-      "name": "Aquellos Ojos Verdes",
-      "url": "https://open.spotify.com/track/2Dcbh5kFL45gTrFDJj8ddu"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
         "name": "Makani Olu'olu",
         "url": "https://open.spotify.com/album/5ZVybOFjyQ8Upf2CxQStBB"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 163786,
       "name": "Lepe Ula'ula",
       "url": "https://open.spotify.com/track/64Jafr1L2yubJO8Mywg159"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "Vintage Jazz N\u00ba 32 - EPs Collectors \"Aquellos Ojos Verdes\"",
+        "url": "https://open.spotify.com/album/7BGTQTeKHVTyWn6jX8WGbs"
+      },
+      "artists": [
+        {
+          "name": "Al Romero And His Orchestra",
+          "url": "https://open.spotify.com/artist/3Gsyc83lbLLKB4m3indOf0"
+        }
+      ],
+      "duration_ms": 162721,
+      "name": "Aquellos Ojos Verdes",
+      "url": "https://open.spotify.com/track/2Dcbh5kFL45gTrFDJj8ddu"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -817,22 +817,6 @@
       "url": "https://open.spotify.com/track/32BuDphsq9t2o2j0L4SRrP"
     },
     {
-      "added_at": "2022-01-11 02:53:42",
-      "album": {
-        "name": "Ultra-Lounge/Mondo Exotica: Volume One",
-        "url": "https://open.spotify.com/album/2NuOkgVt9mmGOGVG0YsVtm"
-      },
-      "artists": [
-        {
-          "name": "Chick Floyd",
-          "url": "https://open.spotify.com/artist/404efVa1buWrjEeOfQKGdN"
-        }
-      ],
-      "duration_ms": 196226,
-      "name": "Hana Maui - Digitally Remastered 1995",
-      "url": "https://open.spotify.com/track/0XN9TYjtGswD7jsLsg6xU2"
-    },
-    {
       "added_at": "2021-01-20 03:50:53",
       "album": {
         "name": "Esquivel! 1968",
@@ -847,6 +831,22 @@
       "duration_ms": 217133,
       "name": "Lamento Borincano",
       "url": "https://open.spotify.com/track/2j0cJ0WWmdbV9kaDYsUMLZ"
+    },
+    {
+      "added_at": "2022-01-11 02:53:42",
+      "album": {
+        "name": "Ultra-Lounge/Mondo Exotica: Volume One",
+        "url": "https://open.spotify.com/album/2NuOkgVt9mmGOGVG0YsVtm"
+      },
+      "artists": [
+        {
+          "name": "Chick Floyd",
+          "url": "https://open.spotify.com/artist/404efVa1buWrjEeOfQKGdN"
+        }
+      ],
+      "duration_ms": 196226,
+      "name": "Hana Maui - Digitally Remastered 1995",
+      "url": "https://open.spotify.com/track/0XN9TYjtGswD7jsLsg6xU2"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -913,6 +913,22 @@
       "url": "https://open.spotify.com/track/1inCS7eh6vHSqftROoVKEL"
     },
     {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "The Days Of Wine And Roses",
+        "url": "https://open.spotify.com/album/2JSXijbVwjxZTb7bsAWYpx"
+      },
+      "artists": [
+        {
+          "name": "Henry Mancini",
+          "url": "https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf"
+        }
+      ],
+      "duration_ms": 185493,
+      "name": "Slow And Easy",
+      "url": "https://open.spotify.com/track/7nECUIlHzm7iDkC1zlCyVS"
+    },
+    {
       "added_at": "2022-01-11 02:53:42",
       "album": {
         "name": "Ultra-Lounge/Mondo Exotica: Volume One",
@@ -931,22 +947,6 @@
       "duration_ms": 179800,
       "name": "Lust",
       "url": "https://open.spotify.com/track/0lF6dbEwpoXr0efP2p2Nsm"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
-        "name": "The Days Of Wine And Roses",
-        "url": "https://open.spotify.com/album/2JSXijbVwjxZTb7bsAWYpx"
-      },
-      "artists": [
-        {
-          "name": "Henry Mancini",
-          "url": "https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf"
-        }
-      ],
-      "duration_ms": 185493,
-      "name": "Slow And Easy",
-      "url": "https://open.spotify.com/track/7nECUIlHzm7iDkC1zlCyVS"
     },
     {
       "added_at": "2021-01-20 03:50:53",

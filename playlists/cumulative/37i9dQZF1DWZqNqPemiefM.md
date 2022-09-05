@@ -4,7 +4,7 @@
 
 > Deep concentration with these outstanding Japanese ambient tracks.
 
-426 songs - 1 day 10 hr 24 min - [published](https://open.spotify.com/playlist/4yRMmJhsvszYGvpMChx2d3)
+427 songs - 1 day 10 hr 26 min - [published](https://open.spotify.com/playlist/4yRMmJhsvszYGvpMChx2d3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,8 @@
 | [AFTER IMAGE](https://open.spotify.com/track/1Jxb8fKZJrobr8T2NCBNlY) | [Masayuki Sakamoto](https://open.spotify.com/artist/3KkI7GpwZIcwRAXOEzP9Pr) | [プシュケ](https://open.spotify.com/album/0olvnM41x2P7CJJ4cvwyFQ) | 3:28 | 2022-04-07 | 2022-06-24 |
 | [Afterglow](https://open.spotify.com/track/7CZqWibNsryIJ3xa4dotBc) | [Midori Hirano](https://open.spotify.com/artist/6q1lHz1O9inWPaToF6l5rj) | [Mirrors in Mirrors](https://open.spotify.com/album/3l3KPWoLYTeX9jYWTFDx4C) | 4:05 | 2022-04-07 | 2022-07-26 |
 | [AIU](https://open.spotify.com/track/6SIxFak3dhN7rdGBdDrmg8) | [INOYAMALAND](https://open.spotify.com/artist/3nYCvyP4RxuKyEKygqxWHy) | [INOYAMALAND \(Remaster Edition\)](https://open.spotify.com/album/4HZhjkQkKnR9qGv9Bl2esq) | 3:48 | 2022-03-31 | 2022-07-13 |
-| [Ake](https://open.spotify.com/track/2Y72i9VmRw4Ncq7RMrNPTh) | [Haruhisa Tanaka](https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw) | [Ake](https://open.spotify.com/album/3GJ035mx6IyGLk2ppp0UU0) | 2:07 | 2022-09-03 |  |
+| [Ake](https://open.spotify.com/track/2Y72i9VmRw4Ncq7RMrNPTh) | [Haruhisa Tanaka](https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw) | [Ake](https://open.spotify.com/album/3GJ035mx6IyGLk2ppp0UU0) | 2:07 | 2022-09-03 | 2022-09-05 |
+| [Ake](https://open.spotify.com/track/6zM0lTTy7Ws0BmZ8JIja47) | [Haruhisa Tanaka](https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw) | [Ake](https://open.spotify.com/album/23LxyHwGGCHfwBcSVZyiuk) | 2:07 | 2022-09-03 |  |
 | [Ama](https://open.spotify.com/track/0lbqQlv8N3kBczLqvevinm) | [7FO ‎](https://open.spotify.com/artist/0Ri0lZkdYY8gyCOC3hDq2r) | [Moment](https://open.spotify.com/album/3mhmI2zWMLBmsZHVvhrpeI) | 4:43 | 2022-03-31 | 2022-07-26 |
 | [AMBIENT MEDITATION \#3](https://open.spotify.com/track/2FRipc9UogCdwnWLvE74Uq) | [Haruomi Hosono](https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak) | [MEDICINE COMPILATION from the Quiet Lodge](https://open.spotify.com/album/3qaEUrwOgFVPIfaIMuJVcS) | 4:03 | 2022-03-31 | 2022-05-13 |
 | [Ambient Music for Exhibition “Let’s Get Lost” 02](https://open.spotify.com/track/4Q0kae2L3an9NGHRBXuTMv) | [Inner Science](https://open.spotify.com/artist/3h2z9q9RhVXgX2c7QAZdO5) | [Ambient Variation 2](https://open.spotify.com/album/6M4O5UYE4ixEU0z3OElh5B) | 2:55 | 2022-06-23 | 2022-07-29 |

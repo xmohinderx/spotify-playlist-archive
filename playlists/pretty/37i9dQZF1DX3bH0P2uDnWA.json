@@ -1,12 +1,12 @@
 {
   "description": "Bringing the roaring 20s into the 2020s",
-  "num_followers": 302864,
+  "num_followers": 303015,
   "original_name": "Electro Swing",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjA5MTMyMCwwMDAwMDAwMGUzMGMzYmRkZjQ5MTRmNWQ5YjllZGQxODI1OWIyZTUx",
+  "snapshot_id": "MTY2MjA5MTMyMCwwMDAwMDAwMGJhYWUzZWEwMjViM2M0MzcyMTg2YjIwZDk5MDliY2Qz",
   "tracks": [
     {
       "added_at": "2022-08-12 04:02:00",
@@ -257,22 +257,6 @@
       "url": "https://open.spotify.com/track/36kaImsnzRzsU6L4cvWP6s"
     },
     {
-      "added_at": "2022-07-08 04:02:00",
-      "album": {
-        "name": "Gringos Revenge",
-        "url": "https://open.spotify.com/album/6knc7d475whjNMAg2K9EAF"
-      },
-      "artists": [
-        {
-          "name": "Parov Stelar",
-          "url": "https://open.spotify.com/artist/65EXuYHVoehCKqp0kOS6px"
-        }
-      ],
-      "duration_ms": 238560,
-      "name": "Gringos Revenge",
-      "url": "https://open.spotify.com/track/2e95sPCpdWlgswXFvRscC8"
-    },
-    {
       "added_at": "2020-10-30 09:06:04",
       "album": {
         "name": "H\u00f4tel Costes 5",
@@ -287,6 +271,22 @@
       "duration_ms": 215533,
       "name": "Doo uap, doo uap, doo uap - Radio edit",
       "url": "https://open.spotify.com/track/68j2rXimsXQYezvQn2Ot4c"
+    },
+    {
+      "added_at": "2022-07-08 04:02:00",
+      "album": {
+        "name": "Gringos Revenge",
+        "url": "https://open.spotify.com/album/6knc7d475whjNMAg2K9EAF"
+      },
+      "artists": [
+        {
+          "name": "Parov Stelar",
+          "url": "https://open.spotify.com/artist/65EXuYHVoehCKqp0kOS6px"
+        }
+      ],
+      "duration_ms": 238560,
+      "name": "Gringos Revenge",
+      "url": "https://open.spotify.com/track/2e95sPCpdWlgswXFvRscC8"
     },
     {
       "added_at": "2022-07-15 04:02:00",
@@ -413,26 +413,6 @@
       "url": "https://open.spotify.com/track/5Ps6yt0FmXilnOeq1Djg9O"
     },
     {
-      "added_at": "2021-03-19 05:01:00",
-      "album": {
-        "name": "Wellerman",
-        "url": "https://open.spotify.com/album/6lmiOdFu7s5uIjTLs2aPtp"
-      },
-      "artists": [
-        {
-          "name": "Betty Booom",
-          "url": "https://open.spotify.com/artist/0MCy2uUaKHn4iNMAih50Vg"
-        },
-        {
-          "name": "Ashley Slater",
-          "url": "https://open.spotify.com/artist/77ZyDi3WOcyp4Yxa9HFV62"
-        }
-      ],
-      "duration_ms": 138645,
-      "name": "Wellerman - Electro Swing Mix",
-      "url": "https://open.spotify.com/track/5WMP7E3Z89tY3iIwsJA2BW"
-    },
-    {
       "added_at": "2020-10-30 09:06:04",
       "album": {
         "name": "Show Breaks",
@@ -463,6 +443,26 @@
       "duration_ms": 203946,
       "name": "Mambo Rap",
       "url": "https://open.spotify.com/track/14RrzxMs07EhE8bUso5Pso"
+    },
+    {
+      "added_at": "2021-03-19 05:01:00",
+      "album": {
+        "name": "Wellerman",
+        "url": "https://open.spotify.com/album/6lmiOdFu7s5uIjTLs2aPtp"
+      },
+      "artists": [
+        {
+          "name": "Betty Booom",
+          "url": "https://open.spotify.com/artist/0MCy2uUaKHn4iNMAih50Vg"
+        },
+        {
+          "name": "Ashley Slater",
+          "url": "https://open.spotify.com/artist/77ZyDi3WOcyp4Yxa9HFV62"
+        }
+      ],
+      "duration_ms": 138645,
+      "name": "Wellerman - Electro Swing Mix",
+      "url": "https://open.spotify.com/track/5WMP7E3Z89tY3iIwsJA2BW"
     },
     {
       "added_at": "2020-10-30 09:06:04",
@@ -513,6 +513,26 @@
       "url": "https://open.spotify.com/track/39R88egli2YgXq1omv1Io7"
     },
     {
+      "added_at": "2020-10-30 09:06:04",
+      "album": {
+        "name": "Say What (2019)",
+        "url": "https://open.spotify.com/album/1imwwhPZfBPXfgy8vFwzRL"
+      },
+      "artists": [
+        {
+          "name": "Cut Capers",
+          "url": "https://open.spotify.com/artist/0UmcqMDiiyihc3KMXvGwWb"
+        },
+        {
+          "name": "Pisk",
+          "url": "https://open.spotify.com/artist/2c2wuveILva0R8OYac7lwc"
+        }
+      ],
+      "duration_ms": 193809,
+      "name": "Say What - Pisk Electro Swing Remix",
+      "url": "https://open.spotify.com/track/5CoMPmAsnk95FviCoqPFAk"
+    },
+    {
       "added_at": "2020-11-20 05:02:00",
       "album": {
         "name": "Demon Kitty Rag (Electro Swing Version)",
@@ -527,26 +547,6 @@
       "duration_ms": 215031,
       "name": "Demon Kitty Rag - Electro Swing Version",
       "url": "https://open.spotify.com/track/5Ms84twRHZKnUvF30BN5WR"
-    },
-    {
-      "added_at": "2022-07-29 04:02:00",
-      "album": {
-        "name": "Keep Cool and Carry On (Glenn Gatsby Remix)",
-        "url": "https://open.spotify.com/album/5hErFOZFuxAzVoS7dkUxVJ"
-      },
-      "artists": [
-        {
-          "name": "The Stargazers",
-          "url": "https://open.spotify.com/artist/0X8gimy9OVbGOQBZxazD4z"
-        },
-        {
-          "name": "Glenn Gatsby",
-          "url": "https://open.spotify.com/artist/2i1i4w0EZ19SIJzPhAEp4i"
-        }
-      ],
-      "duration_ms": 156734,
-      "name": "Keep Cool and Carry On - Glenn Gatsby Remix",
-      "url": "https://open.spotify.com/track/1rtZIsfbOp7nxrd2ifFYyO"
     },
     {
       "added_at": "2020-10-30 09:06:04",
@@ -569,24 +569,24 @@
       "url": "https://open.spotify.com/track/7qrsRH31rSV2ygzDYuzVUX"
     },
     {
-      "added_at": "2020-10-30 09:06:04",
+      "added_at": "2022-07-29 04:02:00",
       "album": {
-        "name": "Say What (2019)",
-        "url": "https://open.spotify.com/album/1imwwhPZfBPXfgy8vFwzRL"
+        "name": "Keep Cool and Carry On (Glenn Gatsby Remix)",
+        "url": "https://open.spotify.com/album/5hErFOZFuxAzVoS7dkUxVJ"
       },
       "artists": [
         {
-          "name": "Cut Capers",
-          "url": "https://open.spotify.com/artist/0UmcqMDiiyihc3KMXvGwWb"
+          "name": "The Stargazers",
+          "url": "https://open.spotify.com/artist/0X8gimy9OVbGOQBZxazD4z"
         },
         {
-          "name": "Pisk",
-          "url": "https://open.spotify.com/artist/2c2wuveILva0R8OYac7lwc"
+          "name": "Glenn Gatsby",
+          "url": "https://open.spotify.com/artist/2i1i4w0EZ19SIJzPhAEp4i"
         }
       ],
-      "duration_ms": 193809,
-      "name": "Say What - Pisk Electro Swing Remix",
-      "url": "https://open.spotify.com/track/5CoMPmAsnk95FviCoqPFAk"
+      "duration_ms": 156734,
+      "name": "Keep Cool and Carry On - Glenn Gatsby Remix",
+      "url": "https://open.spotify.com/track/1rtZIsfbOp7nxrd2ifFYyO"
     },
     {
       "added_at": "2022-07-05 12:46:20",
@@ -607,22 +607,6 @@
       "duration_ms": 165226,
       "name": "You Rascal You",
       "url": "https://open.spotify.com/track/5pnHxi5D0l8FfXVMLW1FhO"
-    },
-    {
-      "added_at": "2020-10-30 09:06:04",
-      "album": {
-        "name": "Perfume",
-        "url": "https://open.spotify.com/album/4HMagicni8MA9ifFgQH2Nj"
-      },
-      "artists": [
-        {
-          "name": "Annella",
-          "url": "https://open.spotify.com/artist/7cx7uVoPbCRy6KvTh5pJaf"
-        }
-      ],
-      "duration_ms": 192741,
-      "name": "Perfume",
-      "url": "https://open.spotify.com/track/4lMME61VxiWD189Hs2oRTM"
     },
     {
       "added_at": "2022-01-21 05:01:00",
@@ -679,6 +663,22 @@
       "duration_ms": 190615,
       "name": "Big Bad Wolf",
       "url": "https://open.spotify.com/track/7hX8gTlr7zENGb5imnIahE"
+    },
+    {
+      "added_at": "2020-10-30 09:06:04",
+      "album": {
+        "name": "Perfume",
+        "url": "https://open.spotify.com/album/4HMagicni8MA9ifFgQH2Nj"
+      },
+      "artists": [
+        {
+          "name": "Annella",
+          "url": "https://open.spotify.com/artist/7cx7uVoPbCRy6KvTh5pJaf"
+        }
+      ],
+      "duration_ms": 192741,
+      "name": "Perfume",
+      "url": "https://open.spotify.com/track/4lMME61VxiWD189Hs2oRTM"
     },
     {
       "added_at": "2022-05-13 04:03:00",
@@ -759,22 +759,6 @@
       "duration_ms": 198666,
       "name": "Back in Time",
       "url": "https://open.spotify.com/track/7pstX01u6qbKF0tWsTa2Lz"
-    },
-    {
-      "added_at": "2020-10-30 09:06:04",
-      "album": {
-        "name": "Trouble",
-        "url": "https://open.spotify.com/album/065YosCANMb3iddT5Dv53h"
-      },
-      "artists": [
-        {
-          "name": "Annella",
-          "url": "https://open.spotify.com/artist/7cx7uVoPbCRy6KvTh5pJaf"
-        }
-      ],
-      "duration_ms": 195463,
-      "name": "Trouble",
-      "url": "https://open.spotify.com/track/0aUP7s7O3m8xFnQ1Ju0xbZ"
     },
     {
       "added_at": "2020-10-30 09:06:04",
@@ -863,6 +847,22 @@
     {
       "added_at": "2020-10-30 09:06:04",
       "album": {
+        "name": "Trouble",
+        "url": "https://open.spotify.com/album/065YosCANMb3iddT5Dv53h"
+      },
+      "artists": [
+        {
+          "name": "Annella",
+          "url": "https://open.spotify.com/artist/7cx7uVoPbCRy6KvTh5pJaf"
+        }
+      ],
+      "duration_ms": 195463,
+      "name": "Trouble",
+      "url": "https://open.spotify.com/track/0aUP7s7O3m8xFnQ1Ju0xbZ"
+    },
+    {
+      "added_at": "2020-10-30 09:06:04",
+      "album": {
         "name": "Lady Swing",
         "url": "https://open.spotify.com/album/1EWFmpi36vurwa8xRzye8E"
       },
@@ -879,22 +879,6 @@
     {
       "added_at": "2020-10-30 09:06:04",
       "album": {
-        "name": "Electro Carousel Club Night (Selected by Dr Cat)",
-        "url": "https://open.spotify.com/album/1fM5x33jVkuJiA1Hf3F5Jm"
-      },
-      "artists": [
-        {
-          "name": "Carola Jasmins",
-          "url": "https://open.spotify.com/artist/3rbi2ewJrPClkNNr0K1Pgo"
-        }
-      ],
-      "duration_ms": 200559,
-      "name": "Take It Easy",
-      "url": "https://open.spotify.com/track/15tFVhuNMklFTudioIzRF5"
-    },
-    {
-      "added_at": "2020-10-30 09:06:04",
-      "album": {
         "name": "Ladies Night",
         "url": "https://open.spotify.com/album/37TPTEBX1LA7SrITRlmKxI"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 202497,
       "name": "Perfect (Electro Swing Remix)",
       "url": "https://open.spotify.com/track/46jrqGkZ9TPqP9u06RMfYq"
+    },
+    {
+      "added_at": "2020-10-30 09:06:04",
+      "album": {
+        "name": "Electro Carousel Club Night (Selected by Dr Cat)",
+        "url": "https://open.spotify.com/album/1fM5x33jVkuJiA1Hf3F5Jm"
+      },
+      "artists": [
+        {
+          "name": "Carola Jasmins",
+          "url": "https://open.spotify.com/artist/3rbi2ewJrPClkNNr0K1Pgo"
+        }
+      ],
+      "duration_ms": 200559,
+      "name": "Take It Easy",
+      "url": "https://open.spotify.com/track/15tFVhuNMklFTudioIzRF5"
     },
     {
       "added_at": "2020-10-30 09:06:04",
@@ -987,6 +987,22 @@
     {
       "added_at": "2020-10-30 09:06:04",
       "album": {
+        "name": "Wake Up Romeo",
+        "url": "https://open.spotify.com/album/3G7phDeAbKOpTLHBy5EdEk"
+      },
+      "artists": [
+        {
+          "name": "Caro Emerald",
+          "url": "https://open.spotify.com/artist/492hDmhPyuIjP3MgTcIqgm"
+        }
+      ],
+      "duration_ms": 207793,
+      "name": "Wake Up Romeo",
+      "url": "https://open.spotify.com/track/5FPbrikKdq0j2KOrINrnXM"
+    },
+    {
+      "added_at": "2020-10-30 09:06:04",
+      "album": {
         "name": "The Electric Swing Circus - Remixed Vol. 1",
         "url": "https://open.spotify.com/album/4u9XMOUCEU0NG39YcCnql0"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 224588,
       "name": "Mr Magpie - Jamie Berry Remix",
       "url": "https://open.spotify.com/track/7GeJy444mvPIpFby9zUaWP"
-    },
-    {
-      "added_at": "2020-10-30 09:06:04",
-      "album": {
-        "name": "Wake Up Romeo",
-        "url": "https://open.spotify.com/album/3G7phDeAbKOpTLHBy5EdEk"
-      },
-      "artists": [
-        {
-          "name": "Caro Emerald",
-          "url": "https://open.spotify.com/artist/492hDmhPyuIjP3MgTcIqgm"
-        }
-      ],
-      "duration_ms": 207793,
-      "name": "Wake Up Romeo",
-      "url": "https://open.spotify.com/track/5FPbrikKdq0j2KOrINrnXM"
     },
     {
       "added_at": "2021-05-21 04:01:00",
@@ -1183,22 +1183,22 @@
     {
       "added_at": "2020-10-30 09:06:04",
       "album": {
-        "name": "My 20s Woman",
-        "url": "https://open.spotify.com/album/1fyfPMEPW6VBGtaxVWNI0A"
+        "name": "The Nu Swing Experience",
+        "url": "https://open.spotify.com/album/3s5XUm68qdvzlW4wTDSSaw"
       },
       "artists": [
         {
-          "name": "Wolfgang Lohr",
-          "url": "https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu"
+          "name": "Dj Farrapo",
+          "url": "https://open.spotify.com/artist/3Zd0T1sAyozwHb3u3MYtiP"
         },
         {
-          "name": "Phos Toni",
-          "url": "https://open.spotify.com/artist/1D2acYwVzm55CayJwUwqB5"
+          "name": "Cristina Renzetti",
+          "url": "https://open.spotify.com/artist/6pMus8C5qs4o0TcsvouPI6"
         }
       ],
-      "duration_ms": 186000,
-      "name": "My 20s Woman",
-      "url": "https://open.spotify.com/track/7bLY55RMYIyFLVwSUXgwW7"
+      "duration_ms": 164582,
+      "name": "Marcianito - Cristina Renzetti Vocal Version",
+      "url": "https://open.spotify.com/track/1qUOQnK6aeMa6KO0fB1OjY"
     },
     {
       "added_at": "2020-10-30 09:06:04",
@@ -1227,22 +1227,22 @@
     {
       "added_at": "2020-10-30 09:06:04",
       "album": {
-        "name": "The Nu Swing Experience",
-        "url": "https://open.spotify.com/album/3s5XUm68qdvzlW4wTDSSaw"
+        "name": "My 20s Woman",
+        "url": "https://open.spotify.com/album/1fyfPMEPW6VBGtaxVWNI0A"
       },
       "artists": [
         {
-          "name": "Dj Farrapo",
-          "url": "https://open.spotify.com/artist/3Zd0T1sAyozwHb3u3MYtiP"
+          "name": "Wolfgang Lohr",
+          "url": "https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu"
         },
         {
-          "name": "Cristina Renzetti",
-          "url": "https://open.spotify.com/artist/6pMus8C5qs4o0TcsvouPI6"
+          "name": "Phos Toni",
+          "url": "https://open.spotify.com/artist/1D2acYwVzm55CayJwUwqB5"
         }
       ],
-      "duration_ms": 164582,
-      "name": "Marcianito - Cristina Renzetti Vocal Version",
-      "url": "https://open.spotify.com/track/1qUOQnK6aeMa6KO0fB1OjY"
+      "duration_ms": 186000,
+      "name": "My 20s Woman",
+      "url": "https://open.spotify.com/track/7bLY55RMYIyFLVwSUXgwW7"
     },
     {
       "added_at": "2020-10-30 09:06:04",
@@ -1337,42 +1337,6 @@
       "url": "https://open.spotify.com/track/27FA1rNL2xN9u8XZyHrxup"
     },
     {
-      "added_at": "2021-05-28 04:00:00",
-      "album": {
-        "name": "Chicago",
-        "url": "https://open.spotify.com/album/6olXsQBDjxPx9E53Rb0Ysi"
-      },
-      "artists": [
-        {
-          "name": "Mr. Jazzek",
-          "url": "https://open.spotify.com/artist/48ibaXmdU89j4rWWf6cdGh"
-        }
-      ],
-      "duration_ms": 164257,
-      "name": "Chicago",
-      "url": "https://open.spotify.com/track/6dQl63PQnUzMyESNW8uwo5"
-    },
-    {
-      "added_at": "2020-10-30 09:06:04",
-      "album": {
-        "name": "Butterfly (Remixes)",
-        "url": "https://open.spotify.com/album/0heEIQabpKLOmX5AX6HDAX"
-      },
-      "artists": [
-        {
-          "name": "Swingrowers",
-          "url": "https://open.spotify.com/artist/3mp5zzEz1qTq7X5a2yOS2B"
-        },
-        {
-          "name": "Wolfgang Lohr",
-          "url": "https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu"
-        }
-      ],
-      "duration_ms": 350476,
-      "name": "Butterfly - Wolfgang Lohr Remix",
-      "url": "https://open.spotify.com/track/2vTznimGgaFXza6a2ArS10"
-    },
-    {
       "added_at": "2022-06-10 04:02:00",
       "album": {
         "name": "Someone New",
@@ -1391,6 +1355,38 @@
       "duration_ms": 176000,
       "name": "Someone New",
       "url": "https://open.spotify.com/track/4wFb2lT44QhdnJLA40C3eR"
+    },
+    {
+      "added_at": "2021-05-28 04:00:00",
+      "album": {
+        "name": "Chicago",
+        "url": "https://open.spotify.com/album/6olXsQBDjxPx9E53Rb0Ysi"
+      },
+      "artists": [
+        {
+          "name": "Mr. Jazzek",
+          "url": "https://open.spotify.com/artist/48ibaXmdU89j4rWWf6cdGh"
+        }
+      ],
+      "duration_ms": 164257,
+      "name": "Chicago",
+      "url": "https://open.spotify.com/track/6dQl63PQnUzMyESNW8uwo5"
+    },
+    {
+      "added_at": "2021-10-22 04:02:00",
+      "album": {
+        "name": "Speed Dating An Arsonist",
+        "url": "https://open.spotify.com/album/6FMYspLefkY6vs9I1OHnF9"
+      },
+      "artists": [
+        {
+          "name": "Diablo Swing Orchestra",
+          "url": "https://open.spotify.com/artist/2cbWJP4X5b9sKEDW80uc5r"
+        }
+      ],
+      "duration_ms": 330893,
+      "name": "Speed Dating An Arsonist",
+      "url": "https://open.spotify.com/track/2xaaHJRbaWRxgiNxo5NeuK"
     }
   ],
   "unique_name": "Electro Swing",

@@ -4,7 +4,7 @@
 
 > Hypnotic melodic <a href="spotify:genre:house">house</a> and <a href="spotify:genre:techno">techno</a> to light up the night.
 
-297 songs - 1 day 7 hr 11 min - [published](https://open.spotify.com/playlist/66u9yFnXK0KKC58c1Sivy2)
+298 songs - 1 day 7 hr 15 min - [published](https://open.spotify.com/playlist/66u9yFnXK0KKC58c1Sivy2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,7 @@
 | [FreedHome](https://open.spotify.com/track/0eV4BpgwGCcU8DmlxdJry9) | [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq) | [FreedHome](https://open.spotify.com/album/24YDwbvmkuNqFPPdnuw1fB) | 5:30 | 2022-07-01 | 2022-08-17 |
 | [Gaia \- Radio Edit](https://open.spotify.com/track/4ZbY3tViWurTa5JmaitOxX) | [Yamil](https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS) | [Gaia](https://open.spotify.com/album/5JRX3f42FwJdGRawM04Vsp) | 4:05 | 2021-04-21 | 2022-07-29 |
 | [Gardens of Elah](https://open.spotify.com/track/1AhOzFuESPwEMoVgo9RKnv) | [Noble Spirits](https://open.spotify.com/artist/6ScxqV1G1ZolFFGlglOyKx) | [Gardens of Elah](https://open.spotify.com/album/0yGk1LE9IV1r2GtjZeDvLl) | 6:42 | 2021-05-07 | 2022-07-25 |
-| [Gargamel](https://open.spotify.com/track/1rCvDRlcOjhqBI8T7s1mpY) | [Super Flu](https://open.spotify.com/artist/1iZiG82D4w7FLHvOUUj4zW) | [Gargamel](https://open.spotify.com/album/3uNQeODzFPkzROw6gNiTFB) | 6:16 | 2022-07-18 |  |
+| [Gargamel](https://open.spotify.com/track/1rCvDRlcOjhqBI8T7s1mpY) | [Super Flu](https://open.spotify.com/artist/1iZiG82D4w7FLHvOUUj4zW) | [Gargamel](https://open.spotify.com/album/3uNQeODzFPkzROw6gNiTFB) | 6:16 | 2022-07-18 | 2022-09-05 |
 | [Gather \- Edit](https://open.spotify.com/track/71rbXzLu3OUC0jlwTZuqPO) | [Durante](https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh), [Amtrac](https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J) | [Gather](https://open.spotify.com/album/2MsjLl6RbKQWLWqN2zLaDA) | 4:31 | 2021-06-04 | 2022-07-29 |
 | [Georgians](https://open.spotify.com/track/6XOcs06duhRLTz6wBBS6M2) | [Holy Moly](https://open.spotify.com/artist/4TglMZiWpNknCUIEQwBeRY) | [Opium / Georgians](https://open.spotify.com/album/6o2QmP04450WY8AQXfrgOF) | 5:05 | 2021-04-21 | 2022-07-29 |
 | [Give Back](https://open.spotify.com/track/4KNpbJUv1KQPODbcm5iy51) | [Artüria](https://open.spotify.com/artist/05wXpcU2A7ZeTjj0LLoQXs), [Solanca](https://open.spotify.com/artist/0vzOfcck1SjuV7qVfBfXTM) | [Ways of Walking EP](https://open.spotify.com/album/4vdGHJExAj5bTrvbTNz6CD) | 6:33 | 2021-08-27 | 2022-07-28 |
@@ -188,6 +188,7 @@
 | [Nevada](https://open.spotify.com/track/3gCskbRL90fyXnTg6kNaUu) | [Kerala Dust](https://open.spotify.com/artist/6lK8O3kyFThiTmgowQZGOH) | [Late Sun](https://open.spotify.com/album/1JGBUKbvb8xKBddvKP0ASW) | 6:03 | 2021-12-13 | 2022-05-06 |
 | [Nevada](https://open.spotify.com/track/4eP7VbswtkGd5Hlyj4E7Qx) | [Kerala Dust](https://open.spotify.com/artist/6lK8O3kyFThiTmgowQZGOH) | [Late Sun](https://open.spotify.com/album/4HZ1rAyZ7KwvfnsVq5hNKD) | 6:03 | 2022-07-01 |  |
 | [Never Ending](https://open.spotify.com/track/2bO6oJIdBwN6OfWFbMr3qD) | [00Zicky](https://open.spotify.com/artist/12cfYIEB508tIyRhgf8Hla), [Joy Kitikonti](https://open.spotify.com/artist/4JrU565LFXyKjDaHhdmPR6) | [Never Ending](https://open.spotify.com/album/5Ou23LWntsIBDkrAGquae0) | 7:20 | 2021-12-10 | 2022-07-29 |
+| [Never Loved](https://open.spotify.com/track/0meP7qfCsxGij4zDvQPDxd) | [Massane](https://open.spotify.com/artist/0cjvrTtv350Ls87eGY80iz) | [Visage 6 \(Never Loved\)](https://open.spotify.com/album/577ICRjIydiQOkjRzKkGNX) | 4:13 | 2022-09-02 |  |
 | [Never Saw You](https://open.spotify.com/track/5ZlIJOIrTc4alt9D5n1RXM) | [Bitless](https://open.spotify.com/artist/56uoTzC17WL6oiqGBAnH6h), [Classic Unknwn](https://open.spotify.com/artist/1dZll1W7w0FMBahKsYi7F0) | [Arkade Destinations Tulum](https://open.spotify.com/album/3wIq5okaszSGMxYv4zlzyR) | 4:37 | 2021-04-21 | 2022-07-21 |
 | [Never Sleep Again \- Keinemusik Remix](https://open.spotify.com/track/3LwZ0ernvIRIkhdHgAYY4q) | [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC), [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8) | [Nobody Is Not Loved, Remixes, Pt\. 3](https://open.spotify.com/album/5bFS2PZfzq8CGP58M23ktV) | 7:12 | 2022-07-08 |  |
 | [Nice to Meet You](https://open.spotify.com/track/43wAEql15k2lLyDC568uTE) | [andhim](https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP) | [Nice to Meet You](https://open.spotify.com/album/2Kv7OqpLhnBEEuYVXGZb4Y) | 6:13 | 2022-08-19 |  |

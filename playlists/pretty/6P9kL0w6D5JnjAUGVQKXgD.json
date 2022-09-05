@@ -1,12 +1,12 @@
 {
   "description": "EDM, Dance, House, Electro, Electronica and more! Vote at edmcharts.net. With: Jackson Wang, Galantis, MK, Anyma, Chris Avantgarde, Eric Prydz",
-  "num_followers": 48450,
+  "num_followers": 48448,
   "original_name": "EDM Top 100",
   "owner": {
     "name": "EDM Charts",
     "url": "https://open.spotify.com/user/edmcharts.net"
   },
-  "snapshot_id": "MTQwMCxjYTY3NWJkZDBmNmNmOTdlNmIzYjQ0ZDA1Njc5MjIxNTE1OGRkYTcy",
+  "snapshot_id": "MTQwMSxjMmYxYTEyNzkwMTY5MGQ2YTJiZmEyYWUxY2E3ZWFhZWIyOTk2ZjJk",
   "tracks": [
     {
       "added_at": "2020-09-07 08:05:03",
@@ -681,6 +681,22 @@
       "url": "https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN"
     },
     {
+      "added_at": "2021-07-14 08:40:04",
+      "album": {
+        "name": "This Is House",
+        "url": "https://open.spotify.com/album/3RzBM4bbF4eTZpeW45kHaQ"
+      },
+      "artists": [
+        {
+          "name": "Kriss Reeve",
+          "url": "https://open.spotify.com/artist/5oS267l8pGKqJmh9ZhCYGS"
+        }
+      ],
+      "duration_ms": 144796,
+      "name": "This Is House",
+      "url": "https://open.spotify.com/track/5H3sWdaRFTnTOa7DGzpG0Z"
+    },
+    {
       "added_at": "2022-05-15 15:41:03",
       "album": {
         "name": "So Far So Good",
@@ -721,6 +737,22 @@
       "url": "https://open.spotify.com/track/7BhmwvCdQZNwuQXSHw5TzP"
     },
     {
+      "added_at": "2022-05-27 15:41:03",
+      "album": {
+        "name": "Together",
+        "url": "https://open.spotify.com/album/6KVzcXOjgeOpT21j3753v2"
+      },
+      "artists": [
+        {
+          "name": "Sonny Noto",
+          "url": "https://open.spotify.com/artist/2nTTK1iTlA31QadqzoU9nu"
+        }
+      ],
+      "duration_ms": 184596,
+      "name": "Together",
+      "url": "https://open.spotify.com/track/10TsrSj7gYuj5eSZtlSYy8"
+    },
+    {
       "added_at": "2022-08-02 15:41:03",
       "album": {
         "name": "So Far So Good (+ The Fall)",
@@ -739,38 +771,6 @@
       "duration_ms": 196021,
       "name": "The Fall",
       "url": "https://open.spotify.com/track/7hWt5I5sEA54Za6KKzislx"
-    },
-    {
-      "added_at": "2022-05-27 15:41:03",
-      "album": {
-        "name": "Together",
-        "url": "https://open.spotify.com/album/6KVzcXOjgeOpT21j3753v2"
-      },
-      "artists": [
-        {
-          "name": "Sonny Noto",
-          "url": "https://open.spotify.com/artist/2nTTK1iTlA31QadqzoU9nu"
-        }
-      ],
-      "duration_ms": 184596,
-      "name": "Together",
-      "url": "https://open.spotify.com/track/10TsrSj7gYuj5eSZtlSYy8"
-    },
-    {
-      "added_at": "2021-07-14 08:40:04",
-      "album": {
-        "name": "This Is House",
-        "url": "https://open.spotify.com/album/3RzBM4bbF4eTZpeW45kHaQ"
-      },
-      "artists": [
-        {
-          "name": "Kriss Reeve",
-          "url": "https://open.spotify.com/artist/5oS267l8pGKqJmh9ZhCYGS"
-        }
-      ],
-      "duration_ms": 144796,
-      "name": "This Is House",
-      "url": "https://open.spotify.com/track/5H3sWdaRFTnTOa7DGzpG0Z"
     },
     {
       "added_at": "2022-04-01 15:41:02",
@@ -1117,6 +1117,22 @@
       "url": "https://open.spotify.com/track/5aXTfpNOqLj35ydEiLio67"
     },
     {
+      "added_at": "2022-08-16 15:41:02",
+      "album": {
+        "name": "Deja Reve",
+        "url": "https://open.spotify.com/album/1hKAyeVJEnIJWZtKOkhnsu"
+      },
+      "artists": [
+        {
+          "name": "GG Magree",
+          "url": "https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n"
+        }
+      ],
+      "duration_ms": 168073,
+      "name": "Deja Reve",
+      "url": "https://open.spotify.com/track/1nkpXkr1Qacmp2BPd6mgct"
+    },
+    {
       "added_at": "2022-08-23 15:41:03",
       "album": {
         "name": "My Pony",
@@ -1151,22 +1167,6 @@
       "duration_ms": 233925,
       "name": "Lights Out",
       "url": "https://open.spotify.com/track/0XdmzOmGiPoNEfNK4BslVo"
-    },
-    {
-      "added_at": "2022-08-16 15:41:02",
-      "album": {
-        "name": "Deja Reve",
-        "url": "https://open.spotify.com/album/1hKAyeVJEnIJWZtKOkhnsu"
-      },
-      "artists": [
-        {
-          "name": "GG Magree",
-          "url": "https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n"
-        }
-      ],
-      "duration_ms": 168073,
-      "name": "Deja Reve",
-      "url": "https://open.spotify.com/track/1nkpXkr1Qacmp2BPd6mgct"
     },
     {
       "added_at": "2021-10-01 15:41:05",
@@ -1853,6 +1853,26 @@
       "url": "https://open.spotify.com/track/6nRwc5GgNvBMkKaynhQzrm"
     },
     {
+      "added_at": "2022-04-08 15:41:02",
+      "album": {
+        "name": "Ocean",
+        "url": "https://open.spotify.com/album/290Q9wMQ2O7T5b8OH7fBjr"
+      },
+      "artists": [
+        {
+          "name": "Penubiz",
+          "url": "https://open.spotify.com/artist/09mmLhlQsy6qsZ6xCxBPbE"
+        },
+        {
+          "name": "Freaky DJs",
+          "url": "https://open.spotify.com/artist/2tZINeGiB74TsojN6RF0b0"
+        }
+      ],
+      "duration_ms": 167239,
+      "name": "Ocean",
+      "url": "https://open.spotify.com/track/5YbiY6G4cH8skZwkmQk6T0"
+    },
+    {
       "added_at": "2022-08-16 15:41:02",
       "album": {
         "name": "Feeling Right (Everything Is Nice) [feat. Popcaan & Wale]",
@@ -1875,26 +1895,6 @@
       "duration_ms": 199200,
       "name": "Feeling Right (Everything Is Nice) (feat. Popcaan & Wale)",
       "url": "https://open.spotify.com/track/0PSHEHVctL81aDFJ2V0wQ0"
-    },
-    {
-      "added_at": "2022-04-08 15:41:02",
-      "album": {
-        "name": "Ocean",
-        "url": "https://open.spotify.com/album/290Q9wMQ2O7T5b8OH7fBjr"
-      },
-      "artists": [
-        {
-          "name": "Penubiz",
-          "url": "https://open.spotify.com/artist/09mmLhlQsy6qsZ6xCxBPbE"
-        },
-        {
-          "name": "Freaky DJs",
-          "url": "https://open.spotify.com/artist/2tZINeGiB74TsojN6RF0b0"
-        }
-      ],
-      "duration_ms": 167239,
-      "name": "Ocean",
-      "url": "https://open.spotify.com/track/5YbiY6G4cH8skZwkmQk6T0"
     },
     {
       "added_at": "2021-06-10 23:01:05",
@@ -1981,48 +1981,40 @@
       "url": "https://open.spotify.com/track/587xXusqiMW9gSXkNK8Zxf"
     },
     {
-      "added_at": "2022-08-30 15:41:02",
+      "added_at": "2022-09-04 15:41:03",
       "album": {
-        "name": "The Voodoo Babe",
-        "url": "https://open.spotify.com/album/43LUjSYSBd6THnIxFNqE9M"
+        "name": "This Ain't Real",
+        "url": "https://open.spotify.com/album/0FQaYrRMEl63jQsjfxeU2D"
       },
       "artists": [
         {
-          "name": "Matt Sassari",
-          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
-        },
-        {
-          "name": "CHRSTPHR",
-          "url": "https://open.spotify.com/artist/6yu6ruPHJXpEtX3eQpZTCz"
+          "name": "MENTIS",
+          "url": "https://open.spotify.com/artist/5wl0tYW6IrhE0f7uj9S6C3"
         }
       ],
-      "duration_ms": 126666,
-      "name": "The Voodoo Babe",
-      "url": "https://open.spotify.com/track/16Y0MeVVRU0SwpKDN9durD"
+      "duration_ms": 165135,
+      "name": "This Ain't Real",
+      "url": "https://open.spotify.com/track/4mzlrsSOjP7HwPgkeAP8Mh"
     },
     {
-      "added_at": "2022-08-30 15:41:02",
+      "added_at": "2022-09-04 15:41:03",
       "album": {
-        "name": "Wurk",
-        "url": "https://open.spotify.com/album/2k0pwGmrqosMNaoDo01yp8"
+        "name": "Never Really Loved Me (with Dean Lewis)",
+        "url": "https://open.spotify.com/album/1wbg9GPcUBlvM9uYjdqZ2D"
       },
       "artists": [
         {
-          "name": "Green Velvet",
-          "url": "https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2"
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
         },
         {
-          "name": "Mihalis Safras",
-          "url": "https://open.spotify.com/artist/3m5g6NUg2akZ9Vv9D8GYBf"
-        },
-        {
-          "name": "Dajae",
-          "url": "https://open.spotify.com/artist/79Gg0tmzETfnVrOUjgXPeE"
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
         }
       ],
-      "duration_ms": 168768,
-      "name": "Wurk",
-      "url": "https://open.spotify.com/track/4Ynibk8PO978n4voJ1Uzby"
+      "duration_ms": 202158,
+      "name": "Never Really Loved Me (with Dean Lewis)",
+      "url": "https://open.spotify.com/track/1O73ZKgl0THUImkHW6dfAL"
     }
   ],
   "unique_name": "EDM Top 100",

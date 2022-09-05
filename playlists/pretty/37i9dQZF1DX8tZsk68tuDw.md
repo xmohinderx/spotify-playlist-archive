@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tZsk68tuDw.md) - [plain]
 
 > Tomorrow's <a href="spotify:genre:edm\_dance">dance</a> hits, with Eliza Rose.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,993,030 likes - 95 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,993,136 likes - 95 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tZsk68tuDw.md) - [plain]
 | 4 | [Trompeta](https://open.spotify.com/track/6o4BO9LLCPe5p43YKZzFuv) | [San Pacho](https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU) | [Trompeta](https://open.spotify.com/album/3fyDFUE6R0Q8TdFHC5q2nz) | 3:08 |
 | 5 | [More Love](https://open.spotify.com/track/5PY9fTLp4MPXsbeRouS8gd) | [Noizu](https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7), [Secondcity](https://open.spotify.com/artist/2ew9JvyyuOGkhahuwdovDq) | [More Love](https://open.spotify.com/album/6RqDJ6CVMcWAYKJjrR2SHx) | 3:11 |
 | 6 | [Rise Again](https://open.spotify.com/track/3ddJUAVAo7b1AnNWi7jtZX) | [Adelphi Music Factory](https://open.spotify.com/artist/27cAR2QA0zM5v0KL9JNWwe) | [Rise Again](https://open.spotify.com/album/5UfdUIgYKPTc6g35my6tfi) | 3:03 |
-| 7 | [LEFT TO RIGHT](https://open.spotify.com/track/4zzZGPInXkaUa4KEuuyFSn) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9) | [LEFT TO RIGHT](https://open.spotify.com/album/4dFzMinnMwvmQZLQubahEh) | 2:26 |
+| 7 | [LEFT TO RIGHT](https://open.spotify.com/track/2IyT4A7X7QYMAhEK6etsi3) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9) | [LEFT TO RIGHT](https://open.spotify.com/album/4H59uwAu61DMDtHwZxAhy3) | 2:26 |
 | 8 | [This Feeling \- Yotto Remix](https://open.spotify.com/track/19LE5SbXV0A4UFRJvz91Eq) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei), [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [This Feeling \(Yotto Remix\)](https://open.spotify.com/album/1TGyeiQObQ1tBNuXNUUM5m) | 3:56 |
 | 9 | [Silo \(feat\. fknsyd\)](https://open.spotify.com/track/49Z1VQivkHoY5KGdUwMv5i) | [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP), [Hex Cougar](https://open.spotify.com/artist/0AlNB0yIoyxdKloLmK9AOR), [fknsyd](https://open.spotify.com/artist/4fHFFvChjfjG7sAseTwiXd) | [Sable Valley Summer Vol\. 3](https://open.spotify.com/album/2TklWyQdmNHg7d2Xmam8G8) | 4:07 |
 | 10 | [My Heart Has Teeth \(feat\. Skylar Grey\) \- From “Resident Evil”](https://open.spotify.com/track/4HQaCBLA2fpYlcQNZxNg4F) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Skylar Grey](https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV) | [My Heart Has Teeth \(feat\. Skylar Grey\) \[From “Resident Evil”\]](https://open.spotify.com/album/6jkxA0LypeL8VGXLtZkkAG) | 4:49 |
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tZsk68tuDw.md) - [plain]
 | 94 | [Aurora](https://open.spotify.com/track/5tp6gaGhCCWHaqwuXVFuLk) | [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT) | [ÆON:TWO](https://open.spotify.com/album/6EJ9Vyo8NAzOLy3BhwQc4w) | 3:18 |
 | 95 | [As One](https://open.spotify.com/track/6bGRkVAP6s0oRAWA9us77o) | [What So Not](https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi), [Herizen](https://open.spotify.com/artist/3niPESDNKjDtTNfWzxZkXv) | [As One](https://open.spotify.com/album/6MYD76EnOec2G5Cde26mHd) | 3:58 |
 
-Snapshot ID: `MTY2MjA5MTI2MCwwMDAwMDAwMGEzNDM0OGRhMmJkMWRiY2M2MmMxYmI2NzI2ZjQ0NzM4`
+Snapshot ID: `MTY2MjA5MTI2MCwwMDAwMDAwMDkyZDQ4MGRlOWUzMjMzOTViMjlmNGRkYTRjMjNiN2Q4`

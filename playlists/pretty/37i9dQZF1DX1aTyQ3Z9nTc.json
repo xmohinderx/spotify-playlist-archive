@@ -1,12 +1,12 @@
 {
   "description": "That bouncy, groovy, dancey sound.",
-  "num_followers": 102072,
+  "num_followers": 102144,
   "original_name": "Choice Edit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjA5MTIwMCwwMDAwMDAwMDk2ZDQ1M2UzMWM2YjQzZWFhN2I3ODhlMGNlMGIxNWVm",
+  "snapshot_id": "MTY2MjA5MTIwMCwwMDAwMDAwMGMxYTYxZDQ0YjU1YTIzMDg3MjViNDhjMWUyN2RmYTBh",
   "tracks": [
     {
       "added_at": "2022-07-29 04:11:59",
@@ -661,6 +661,22 @@
       "url": "https://open.spotify.com/track/6kmXHLDDK7RQXTjHooTCzH"
     },
     {
+      "added_at": "2022-07-30 02:24:25",
+      "album": {
+        "name": "Pressure",
+        "url": "https://open.spotify.com/album/6wQtQ94jJW3yq35mQSBPzU"
+      },
+      "artists": [
+        {
+          "name": "Bree Runway",
+          "url": "https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w"
+        }
+      ],
+      "duration_ms": 156737,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/0MOFpFNTB8immc0cXindTo"
+    },
+    {
       "added_at": "2022-07-29 04:11:59",
       "album": {
         "name": "Black Panther: Wakanda Forever Prologue",
@@ -679,22 +695,6 @@
       "duration_ms": 169583,
       "name": "A Body, A Coffin",
       "url": "https://open.spotify.com/track/2YYYrSLbcf5eNB5VQJxfM9"
-    },
-    {
-      "added_at": "2022-07-30 02:24:25",
-      "album": {
-        "name": "Pressure",
-        "url": "https://open.spotify.com/album/6wQtQ94jJW3yq35mQSBPzU"
-      },
-      "artists": [
-        {
-          "name": "Bree Runway",
-          "url": "https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w"
-        }
-      ],
-      "duration_ms": 156737,
-      "name": "Pressure",
-      "url": "https://open.spotify.com/track/0MOFpFNTB8immc0cXindTo"
     },
     {
       "added_at": "2022-05-02 22:05:00",
@@ -757,24 +757,24 @@
       "url": "https://open.spotify.com/track/3A4yu3wHxrnAzyD9aUyjhp"
     },
     {
-      "added_at": "2022-07-30 02:24:25",
+      "added_at": "2022-05-02 22:05:00",
       "album": {
-        "name": "Streets (Remixes)",
-        "url": "https://open.spotify.com/album/2bztR3sQyvs9HxlraqZMRD"
+        "name": "Moon Shoes EP",
+        "url": "https://open.spotify.com/album/57X0V74PxWKM2fuyf283tE"
       },
       "artists": [
         {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
         },
         {
-          "name": "DJ Sliink",
-          "url": "https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk"
+          "name": "Appleby",
+          "url": "https://open.spotify.com/artist/4Y2i9jhU3jW0PVsvTLIbWX"
         }
       ],
-      "duration_ms": 133846,
-      "name": "Streets - DJ Sliink Remix",
-      "url": "https://open.spotify.com/track/2OlXEjn4FufYIVL9KC1FHO"
+      "duration_ms": 217013,
+      "name": "Free Room (feat. Appleby)",
+      "url": "https://open.spotify.com/track/3HEn14GqygLCNfroOnYiZb"
     },
     {
       "added_at": "2022-05-02 22:05:00",
@@ -799,18 +799,22 @@
     {
       "added_at": "2022-07-30 02:24:25",
       "album": {
-        "name": "EL SUR",
-        "url": "https://open.spotify.com/album/1sHYyBeTBczpD87Bt3f8rz"
+        "name": "Streets (Remixes)",
+        "url": "https://open.spotify.com/album/2bztR3sQyvs9HxlraqZMRD"
       },
       "artists": [
         {
-          "name": "Girl Ultra",
-          "url": "https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls"
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        },
+        {
+          "name": "DJ Sliink",
+          "url": "https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk"
         }
       ],
-      "duration_ms": 186299,
-      "name": "BOMBAY",
-      "url": "https://open.spotify.com/track/6rQYdEoWTZZBqCJexRei11"
+      "duration_ms": 133846,
+      "name": "Streets - DJ Sliink Remix",
+      "url": "https://open.spotify.com/track/2OlXEjn4FufYIVL9KC1FHO"
     },
     {
       "added_at": "2022-07-30 02:24:25",
@@ -829,24 +833,20 @@
       "url": "https://open.spotify.com/track/6J1qFWHFbmMgz0A6o10Xaq"
     },
     {
-      "added_at": "2022-05-02 22:05:00",
+      "added_at": "2022-07-30 02:24:25",
       "album": {
-        "name": "Moon Shoes EP",
-        "url": "https://open.spotify.com/album/57X0V74PxWKM2fuyf283tE"
+        "name": "EL SUR",
+        "url": "https://open.spotify.com/album/1sHYyBeTBczpD87Bt3f8rz"
       },
       "artists": [
         {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        },
-        {
-          "name": "Appleby",
-          "url": "https://open.spotify.com/artist/4Y2i9jhU3jW0PVsvTLIbWX"
+          "name": "Girl Ultra",
+          "url": "https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls"
         }
       ],
-      "duration_ms": 217013,
-      "name": "Free Room (feat. Appleby)",
-      "url": "https://open.spotify.com/track/3HEn14GqygLCNfroOnYiZb"
+      "duration_ms": 186299,
+      "name": "BOMBAY",
+      "url": "https://open.spotify.com/track/6rQYdEoWTZZBqCJexRei11"
     },
     {
       "added_at": "2022-07-30 02:24:25",

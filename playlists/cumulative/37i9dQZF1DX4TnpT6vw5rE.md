@@ -4,11 +4,11 @@
 
 > Melt into the Atmospheric Calm with these mellow beats and ambient tones.
 
-193 songs - 12 hr 0 min - [published](https://open.spotify.com/playlist/1UtTTBPg4n71DXZVvtkvbt)
+194 songs - 12 hr 3 min - [published](https://open.spotify.com/playlist/1UtTTBPg4n71DXZVvtkvbt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [](https://open.spotify.com/track/7F3mLX9dJzIrdVttVkI9WD) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/13X3FtDMr1C5kLD1lUBkzm) | 0:00 | 2020-12-08\* |  |
+| [](https://open.spotify.com/track/7F3mLX9dJzIrdVttVkI9WD) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/13X3FtDMr1C5kLD1lUBkzm) | 0:00 | 2020-12-08\* | 2022-09-05 |
 | [](https://open.spotify.com/track/7d4i1kAUl9IZR4i46klvNT) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/2NOV4cZnAxpbVm2JPMFldc) | 0:00 | 2020-12-08\* |  |
 | [1000 Arms](https://open.spotify.com/track/0zZIYr7bxWx4RMQx5k4R3G) | [Lymbyc Systym](https://open.spotify.com/artist/7fpjImuvKls8BeMFW9iil5) | [Carved By Glaciers](https://open.spotify.com/album/12JjiCRZO1g6JAdPn0jGpG) | 2:49 | 2021-01-15 | 2022-05-20 |
 | [160512](https://open.spotify.com/track/4qTfc9EIeFGUhy5uYLkpjU) | [New Mountain](https://open.spotify.com/artist/13XROkNcgR324FYTeCcFey) | [160512](https://open.spotify.com/album/4AkJRb8Du6HgER21JF1rad) | 2:28 | 2021-01-15 | 2022-05-20 |
@@ -65,6 +65,7 @@
 | [Darashinai Beach](https://open.spotify.com/track/6k9EQcMdqJRtmIM3fwy9vW) | [Kenichiban](https://open.spotify.com/artist/1itUqhqM3DvzOekyR0MFva) | [Darashinai Beach](https://open.spotify.com/album/68t75psR1Te5qVxWdhvDoc) | 3:39 | 2020-12-08\* | 2021-09-17 |
 | [Depth of Mind](https://open.spotify.com/track/50AtDtIeRZV9MTXahpjGoD) | [Pásztor Bernadett](https://open.spotify.com/artist/6TrFNdRCffYoRu4FE7CEqX) | [Pásztor Bernadett](https://open.spotify.com/album/5uUY70msqiTGQNOm6hQEVk) | 3:38 | 2020-12-08\* | 2021-03-18 |
 | [Depths of Eternity](https://open.spotify.com/track/1Ujn2n8YOeyXbUM4fAlN0A) | [William Roud](https://open.spotify.com/artist/0KhhuDNDaeL6SOVM6K6Lt1) | [Depths of Eternity](https://open.spotify.com/album/0Xau7RoFSvHQSlqSQoqCDQ) | 2:58 | 2020-12-08\* |  |
+| [distant star](https://open.spotify.com/track/6IlOnQUzJckb3KXqUXAbVt) | [nite sky](https://open.spotify.com/artist/6zoOpIO7PCBlRaOP10TdJc) | [calm waters & distant star](https://open.spotify.com/album/2KbMBAAeKkXMokJB1yyOZQ) | 2:38 | 2022-09-02 |  |
 | [Dormio](https://open.spotify.com/track/5KrtsbUaDBPE0aFpxw4I0T) | [Estado De Calma](https://open.spotify.com/artist/0E1GrT0XtW2bcQvEuu7ajV) | [Dormio](https://open.spotify.com/album/3yYe7uQZsi7NsACNFzItNh) | 2:39 | 2021-10-14 |  |
 | [Dreamt](https://open.spotify.com/track/5oseLW3JhRqLLyTmqmyghU) | [Balmorhea](https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9) | [Clear Language](https://open.spotify.com/album/5z1mF6xLNvsKp132hNxqZ3) | 3:59 | 2022-07-22 |  |
 | [Dreamt](https://open.spotify.com/track/7yzWKf2adZoNKsLu3UxXjv) | [Balmorhea](https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9) | [Clear Language](https://open.spotify.com/album/6mETnED5m2z3EPeZ5Gxk7T) | 3:59 | 2020-12-08\* | 2022-07-29 |

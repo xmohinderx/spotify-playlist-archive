@@ -1,12 +1,12 @@
 {
   "description": "Where swing meets blues.",
-  "num_followers": 34760,
+  "num_followers": 34781,
   "original_name": "Jump Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODQ5NjY2NSwwMDAwMDAwMDc4N2YyNGZiN2IzYjQyOTE1MGEzMmRkZWEzYzQ4NmU4",
+  "snapshot_id": "MTY0ODQ5NjY2NSwwMDAwMDAwMGYyNDllMTFjN2QwODcxNzczMGY4OWZmMzRjNjc0YzMx",
   "tracks": [
     {
       "added_at": "2022-03-28 19:44:25",
@@ -159,22 +159,18 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "Jump, Jive An' Wail: The Essential",
-        "url": "https://open.spotify.com/album/2FIAcPHPr2NHqszrKQXj8w"
+        "name": "The Capitol Years",
+        "url": "https://open.spotify.com/album/2HrlxHARSvSqo9EUtkZ7FV"
       },
       "artists": [
         {
-          "name": "Louis Prima & Keely Smith",
-          "url": "https://open.spotify.com/artist/1VNfHD8QBVfKnAeHUh42jv"
-        },
-        {
-          "name": "Sam Butera & The Witnesses",
-          "url": "https://open.spotify.com/artist/70njzKgLbLbWkCPhKEu2oV"
+          "name": "Johnny Otis",
+          "url": "https://open.spotify.com/artist/5PGt6fQNjLKhYYeGLWKWcM"
         }
       ],
-      "duration_ms": 209413,
-      "name": "Jump, Jive, An' Wail - Remastered 1996",
-      "url": "https://open.spotify.com/track/1avf1M4btPbNGiIUXeNSvt"
+      "duration_ms": 112866,
+      "name": "Good Golly",
+      "url": "https://open.spotify.com/track/1XjV7jqITBJgpq2yj6O9hK"
     },
     {
       "added_at": "2022-03-28 19:44:25",
@@ -195,18 +191,22 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "The Capitol Years",
-        "url": "https://open.spotify.com/album/2HrlxHARSvSqo9EUtkZ7FV"
+        "name": "Jump, Jive An' Wail: The Essential",
+        "url": "https://open.spotify.com/album/2FIAcPHPr2NHqszrKQXj8w"
       },
       "artists": [
         {
-          "name": "Johnny Otis",
-          "url": "https://open.spotify.com/artist/5PGt6fQNjLKhYYeGLWKWcM"
+          "name": "Louis Prima & Keely Smith",
+          "url": "https://open.spotify.com/artist/1VNfHD8QBVfKnAeHUh42jv"
+        },
+        {
+          "name": "Sam Butera & The Witnesses",
+          "url": "https://open.spotify.com/artist/70njzKgLbLbWkCPhKEu2oV"
         }
       ],
-      "duration_ms": 112866,
-      "name": "Good Golly",
-      "url": "https://open.spotify.com/track/1XjV7jqITBJgpq2yj6O9hK"
+      "duration_ms": 209413,
+      "name": "Jump, Jive, An' Wail - Remastered 1996",
+      "url": "https://open.spotify.com/track/1avf1M4btPbNGiIUXeNSvt"
     },
     {
       "added_at": "2022-03-28 19:44:25",
@@ -435,26 +435,6 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "Joe Liggins & The Honeydrippers",
-        "url": "https://open.spotify.com/album/4xhs6dSoAHMYqJuq3zNygO"
-      },
-      "artists": [
-        {
-          "name": "Joe Liggins",
-          "url": "https://open.spotify.com/artist/5csKyypxXUXTNBUGuCrsoV"
-        },
-        {
-          "name": "Honeydrippers",
-          "url": "https://open.spotify.com/artist/3H7btloLVTOa77fbzuuzdF"
-        }
-      ],
-      "duration_ms": 286893,
-      "name": "Rhythm In The Barnyard",
-      "url": "https://open.spotify.com/track/2zAlaHnn1BjU6K4XYPtYZS"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
         "name": "Count Basie Swings - Joe Williams Sings",
         "url": "https://open.spotify.com/album/4ZNICkebqBbvXNZmBTUcq5"
       },
@@ -475,6 +455,26 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
+        "name": "Joe Liggins & The Honeydrippers",
+        "url": "https://open.spotify.com/album/4xhs6dSoAHMYqJuq3zNygO"
+      },
+      "artists": [
+        {
+          "name": "Joe Liggins",
+          "url": "https://open.spotify.com/artist/5csKyypxXUXTNBUGuCrsoV"
+        },
+        {
+          "name": "Honeydrippers",
+          "url": "https://open.spotify.com/artist/3H7btloLVTOa77fbzuuzdF"
+        }
+      ],
+      "duration_ms": 286893,
+      "name": "Rhythm In The Barnyard",
+      "url": "https://open.spotify.com/track/2zAlaHnn1BjU6K4XYPtYZS"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
         "name": "Lost Halloween",
         "url": "https://open.spotify.com/album/4TpcgsEr8w68ELyq0fZR4T"
       },
@@ -487,38 +487,6 @@
       "duration_ms": 120480,
       "name": "King Kong",
       "url": "https://open.spotify.com/track/49VFbbe7fYParNLzugoweT"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
-        "name": "Presenting Big Jay McNeely",
-        "url": "https://open.spotify.com/album/5p6jMtejgQObxzDs1T9w6A"
-      },
-      "artists": [
-        {
-          "name": "Big Jay McNeely",
-          "url": "https://open.spotify.com/artist/5K3FOIJ4gEZlPaJJpqaXmm"
-        }
-      ],
-      "duration_ms": 167866,
-      "name": "Deacon Rides Again",
-      "url": "https://open.spotify.com/track/0YuFInq5H0KkABIRdM7FaR"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
-        "name": "28 Big Ones",
-        "url": "https://open.spotify.com/album/79hWwG5s50rXfuEimnaPoT"
-      },
-      "artists": [
-        {
-          "name": "Wynonie Harris",
-          "url": "https://open.spotify.com/artist/4Imc3wiT22cuynvQNpXcVn"
-        }
-      ],
-      "duration_ms": 135853,
-      "name": "Shake That Thing",
-      "url": "https://open.spotify.com/track/28S7lYq6jJxpyT8FYkpOHi"
     },
     {
       "added_at": "2022-03-28 19:44:25",
@@ -539,6 +507,38 @@
       "duration_ms": 116933,
       "name": "Mr. Five By Five",
       "url": "https://open.spotify.com/track/4PAj4rebLjJLFEeZNPEjf2"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
+        "name": "28 Big Ones",
+        "url": "https://open.spotify.com/album/79hWwG5s50rXfuEimnaPoT"
+      },
+      "artists": [
+        {
+          "name": "Wynonie Harris",
+          "url": "https://open.spotify.com/artist/4Imc3wiT22cuynvQNpXcVn"
+        }
+      ],
+      "duration_ms": 135853,
+      "name": "Shake That Thing",
+      "url": "https://open.spotify.com/track/28S7lYq6jJxpyT8FYkpOHi"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
+        "name": "Presenting Big Jay McNeely",
+        "url": "https://open.spotify.com/album/5p6jMtejgQObxzDs1T9w6A"
+      },
+      "artists": [
+        {
+          "name": "Big Jay McNeely",
+          "url": "https://open.spotify.com/artist/5K3FOIJ4gEZlPaJJpqaXmm"
+        }
+      ],
+      "duration_ms": 167866,
+      "name": "Deacon Rides Again",
+      "url": "https://open.spotify.com/track/0YuFInq5H0KkABIRdM7FaR"
     },
     {
       "added_at": "2022-03-28 19:44:25",
@@ -575,38 +575,6 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "Nervous",
-        "url": "https://open.spotify.com/album/0vNGXCP2gfCjlkYB0ktiri"
-      },
-      "artists": [
-        {
-          "name": "Big Jay McNeely",
-          "url": "https://open.spotify.com/artist/5K3FOIJ4gEZlPaJJpqaXmm"
-        }
-      ],
-      "duration_ms": 154933,
-      "name": "Nervous Man Nervous",
-      "url": "https://open.spotify.com/track/69CI6aEDyRmPYM46WaTFkj"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
-        "name": "Information Blues",
-        "url": "https://open.spotify.com/album/5a43mcGKhwab4Ns4MJ0cAJ"
-      },
-      "artists": [
-        {
-          "name": "Roy Milton",
-          "url": "https://open.spotify.com/artist/02tMtF5FVucqAJW2TQB9ig"
-        }
-      ],
-      "duration_ms": 150893,
-      "name": "Oh Babe",
-      "url": "https://open.spotify.com/track/5uNMlXUTvc7M7nELi7I1Nq"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
         "name": "Dootone Rock 'N' Rhythm & Blues",
         "url": "https://open.spotify.com/album/5oB7VbLgswDb6bHKQW59N4"
       },
@@ -635,6 +603,38 @@
       "duration_ms": 171533,
       "name": "Sax Shack Boogie",
       "url": "https://open.spotify.com/track/5M0LiPltBA6gVxGhFzBXKw"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
+        "name": "Information Blues",
+        "url": "https://open.spotify.com/album/5a43mcGKhwab4Ns4MJ0cAJ"
+      },
+      "artists": [
+        {
+          "name": "Roy Milton",
+          "url": "https://open.spotify.com/artist/02tMtF5FVucqAJW2TQB9ig"
+        }
+      ],
+      "duration_ms": 150893,
+      "name": "Oh Babe",
+      "url": "https://open.spotify.com/track/5uNMlXUTvc7M7nELi7I1Nq"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
+        "name": "Nervous",
+        "url": "https://open.spotify.com/album/0vNGXCP2gfCjlkYB0ktiri"
+      },
+      "artists": [
+        {
+          "name": "Big Jay McNeely",
+          "url": "https://open.spotify.com/artist/5K3FOIJ4gEZlPaJJpqaXmm"
+        }
+      ],
+      "duration_ms": 154933,
+      "name": "Nervous Man Nervous",
+      "url": "https://open.spotify.com/track/69CI6aEDyRmPYM46WaTFkj"
     },
     {
       "added_at": "2022-03-28 19:44:25",

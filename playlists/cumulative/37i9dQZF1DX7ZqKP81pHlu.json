@@ -966,6 +966,28 @@
     },
     {
       "album": {
+        "name": "Mazalna",
+        "url": "https://open.spotify.com/album/7s17EGV44M0Iqg69rvp0Gz"
+      },
+      "artists": [
+        {
+          "name": "Fouzi Torino",
+          "url": "https://open.spotify.com/artist/6Q2qtUONsXPfBKMhpOesiv"
+        },
+        {
+          "name": "Wail TK",
+          "url": "https://open.spotify.com/artist/5D78FFjYhggANtY0i28S8a"
+        }
+      ],
+      "date_added": "2022-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202638,
+      "name": "Mazalna",
+      "url": "https://open.spotify.com/track/4QPdk05lc3sm8yDgKuIKI3"
+    },
+    {
+      "album": {
         "name": "Mazalni",
         "url": "https://open.spotify.com/album/2be1DLBmI7MFfY4Gm92i77"
       },

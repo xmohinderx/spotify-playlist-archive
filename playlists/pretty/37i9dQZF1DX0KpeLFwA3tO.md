@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: DE'WAYNE
 
-[Spotify](https://open.spotify.com/user/spotify) - 265,607 likes - 108 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 265,307 likes - 108 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

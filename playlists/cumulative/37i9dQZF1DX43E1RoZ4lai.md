@@ -4,7 +4,7 @@
 
 > The best jazz pianists today\. Cover: Julius Rodriguez
 
-365 songs - 1 day 8 hr 49 min - [published](https://open.spotify.com/playlist/1myRvVzCuNFZ2oz3g9ebfk)
+366 songs - 1 day 8 hr 55 min - [published](https://open.spotify.com/playlist/1myRvVzCuNFZ2oz3g9ebfk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Along Too Long](https://open.spotify.com/track/26ekvT7x2kUaj94gXv5DB1) | [Massimo Faraò](https://open.spotify.com/artist/04qLma4TvriHyGJ0YlK6XI), [Claudio Chiara](https://open.spotify.com/artist/4iPKMm0rxAbqEUrbYgbVgw), [Nicola Barbon](https://open.spotify.com/artist/2HeWIvHGcrKkN5dab3lMnL) | [Drumless](https://open.spotify.com/album/53WDDbvjTrIFdqItSPII5z) | 3:33 | 2022-04-01 |  |
 | [Ana Maria](https://open.spotify.com/track/0J77Bn0nBHgttG27Hab2L7) | [David Garfield](https://open.spotify.com/artist/3RPnyf7t9phTwwSzQgaZYb), [Alphonso Johnson](https://open.spotify.com/artist/2rNtnZArzMAimcRCnFrwUU), [Land Richards](https://open.spotify.com/artist/5Qd2Lq0Z0tDjL63Dh9KQ84) | [Ana Maria](https://open.spotify.com/album/0keaEB8bKZgfg61N8qsDD0) | 5:46 | 2022-06-24 |  |
 | [At The 5 Spot](https://open.spotify.com/track/2FZem5RglrV8dnPkhFF6FQ) | [Peter Calandra](https://open.spotify.com/artist/3PtLe7U5nAWhiPJ8jKp6VB) | [At The 5 Spot](https://open.spotify.com/album/5anvlQTK44VC5IuQPb7o9j) | 5:23 | 2022-02-23 |  |
-| [Auf den glückseligen Inseln](https://open.spotify.com/track/6cOK9fHTBsoaL1P6JicMqM) | [Kilian Kemmer Trio](https://open.spotify.com/artist/6zmCAuOs8ughM18ryScvdm) | [Und Zarathustra Tanzte](https://open.spotify.com/album/0ZlritXzGMoiRAlFE9hU7i) | 3:58 | 2022-02-10 |  |
+| [Auf den glückseligen Inseln](https://open.spotify.com/track/6cOK9fHTBsoaL1P6JicMqM) | [Kilian Kemmer Trio](https://open.spotify.com/artist/6zmCAuOs8ughM18ryScvdm) | [Und Zarathustra Tanzte](https://open.spotify.com/album/0ZlritXzGMoiRAlFE9hU7i) | 3:58 | 2022-02-10 | 2022-09-05 |
 | [Avail](https://open.spotify.com/track/3EWX16gyPWqh2HB1MmND36) | [The Bad Plus](https://open.spotify.com/artist/5qOfTfMzTj2dvvpWKzIFk6) | [Activate Infinity](https://open.spotify.com/album/4di70TuVf9J97NAGO4lKMc) | 3:15 | 2022-02-10 | 2022-09-03 |
 | [Avidity](https://open.spotify.com/track/3FIZziHP2yndFDt2JdZ4Mg) | [Carsten Dahl](https://open.spotify.com/artist/4CSBqdnCyXayFaZR10Pvda) | [Simplicity](https://open.spotify.com/album/6SXKypQFf1M6rN5wdZ7s30) | 1:58 | 2022-02-10 | 2022-09-03 |
 | [Back To Base](https://open.spotify.com/track/0OmMCADwzH6I61Wk0vDps8) | [Espen Eriksen Trio](https://open.spotify.com/artist/57BkYLMXOYqJ7KHFhd1VST) | [End of Summer](https://open.spotify.com/album/2LleX2N1IzAe93C0qpBxuZ) | 4:30 | 2022-02-10 | 2022-09-03 |
@@ -205,6 +205,7 @@
 | [Nature Boy](https://open.spotify.com/track/6wWQOQk8NmLaOJH7xuKnY4) | [David Hazeltine](https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q) | [Life's Love Songs](https://open.spotify.com/album/0QBv4SvRec1C306sITPlTW) | 6:12 | 2022-03-11 |  |
 | [Night And Day](https://open.spotify.com/track/39c6OwdKXmVTRRuXooHgyL) | [Michel Petrucciani](https://open.spotify.com/artist/13kHQ586h4Lm9iwVyS2b3K) | [The Blue Note Albums](https://open.spotify.com/album/3u4Rg7Qeqc5wBleizBXcb4) | 9:26 | 2022-02-10 |  |
 | [Nikolai](https://open.spotify.com/track/6QrMhdgAYQoIcMm2sajM7c) | [Espen Berg Trio](https://open.spotify.com/artist/7KUOutQopHIyqvTqjuHZSk) | [Fjære](https://open.spotify.com/album/4LE0R14CDvs8f0i650UD1U) | 6:06 | 2022-05-20 |  |
+| [Normal](https://open.spotify.com/track/21LPdnK8KHB0G23Jsrxc7X) | [Musicmusicmusic](https://open.spotify.com/artist/5mtFvnvImn9y9m8MaVxTZ8) | [Normal](https://open.spotify.com/album/7cMwT9KvJki2cxMjU7mJD1) | 5:56 | 2022-09-02 |  |
 | [November](https://open.spotify.com/track/5Jvk0Oe071dMpFzvdhD8DC) | [Artturi Rönkä](https://open.spotify.com/artist/5OUO2uQgJ6P0eWW4SxMdac), [Daniel Sommer](https://open.spotify.com/artist/3BWDiqu2vlyz18ZDMsZ5VO) | [Varo](https://open.spotify.com/album/1v0xTiCWYokedWuVT8GBTW) | 3:10 | 2022-02-10 | 2022-07-22 |
 | [Novice Bounce](https://open.spotify.com/track/4wsB9vfwLyfj69QvoBTdfn) | [Orrin Evans](https://open.spotify.com/artist/1E4jlqY2HEXKLT0YkNy3HL), [Kevin Eubanks](https://open.spotify.com/artist/690Ga2On7ndvWPZJ4LUGrr) | [Novice Bounce](https://open.spotify.com/album/6F4f85Ji1rj5RE1uszdyCI) | 6:53 | 2022-02-25 |  |
 | [Nutra](https://open.spotify.com/track/2dI8eeOYkXFr4Uk6hbsIWN) | [David Tixier Trio](https://open.spotify.com/artist/4WCYs0rJYDXIP4iaI3edkX) | [Nutra](https://open.spotify.com/album/4UA0kJm4MxKU2Eh77Is7CF) | 6:00 | 2022-02-10 | 2022-07-29 |

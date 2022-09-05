@@ -1,12 +1,12 @@
 {
   "description": "Big bands, big sounds.",
-  "num_followers": 370430,
+  "num_followers": 370461,
   "original_name": "Big Band",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODQ2MjUyMCwwMDAwMDAwMGM2MDk5MmM0MzJhZjA0MGEyN2FmOTIxYzlkMWRmOWZh",
+  "snapshot_id": "MTY1ODQ2MjUyMCwwMDAwMDAwMDE0Y2VjYjEzYTk5MzM4ZjIxODU3MzUzNzc1NDc5Njhh",
   "tracks": [
     {
       "added_at": "2022-07-22 04:02:00",
@@ -39,22 +39,6 @@
     {
       "added_at": "2020-03-06 16:28:56",
       "album": {
-        "name": "Best Of The Big Bands",
-        "url": "https://open.spotify.com/album/3XY108i3c6uQg4b9GABoyi"
-      },
-      "artists": [
-        {
-          "name": "Harry James",
-          "url": "https://open.spotify.com/artist/5MpELOfAiq7aIBTij30phD"
-        }
-      ],
-      "duration_ms": 203773,
-      "name": "It's Been a Long, Long Time",
-      "url": "https://open.spotify.com/track/52XDumqYDUXX16R7FM5fpV"
-    },
-    {
-      "added_at": "2020-03-06 16:28:56",
-      "album": {
         "name": "Dean Martin: The Capitol Recordings, Vol. 11 (1960-1961)",
         "url": "https://open.spotify.com/album/3LGVxGRKwi4WfDnhMaBygF"
       },
@@ -67,6 +51,22 @@
       "duration_ms": 147293,
       "name": "Ain't That A Kick In The Head",
       "url": "https://open.spotify.com/track/7fQ3PYTYdu208fQ3JEm2U7"
+    },
+    {
+      "added_at": "2020-03-06 16:28:56",
+      "album": {
+        "name": "Best Of The Big Bands",
+        "url": "https://open.spotify.com/album/3XY108i3c6uQg4b9GABoyi"
+      },
+      "artists": [
+        {
+          "name": "Harry James",
+          "url": "https://open.spotify.com/artist/5MpELOfAiq7aIBTij30phD"
+        }
+      ],
+      "duration_ms": 203773,
+      "name": "It's Been a Long, Long Time",
+      "url": "https://open.spotify.com/track/52XDumqYDUXX16R7FM5fpV"
     },
     {
       "added_at": "2020-03-06 16:28:56",
@@ -267,22 +267,6 @@
     {
       "added_at": "2020-03-06 16:28:56",
       "album": {
-        "name": "To Ella With Love",
-        "url": "https://open.spotify.com/album/6glj5wRmAtkj3pgDUkZstz"
-      },
-      "artists": [
-        {
-          "name": "Ann Hampton Callaway",
-          "url": "https://open.spotify.com/artist/5wHvUotfxzSccrzX9x9g6e"
-        }
-      ],
-      "duration_ms": 166960,
-      "name": "Let's Fall In Love",
-      "url": "https://open.spotify.com/track/1b9gNirS4wUJwYg8X8l9jK"
-    },
-    {
-      "added_at": "2020-03-06 16:28:56",
-      "album": {
         "name": "50th Anniversary Collection (Vol. 2)",
         "url": "https://open.spotify.com/album/4ro3pENrSK5JrlsTr1RS7L"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 149333,
       "name": "Straighten Up And Fly Right - Single Version",
       "url": "https://open.spotify.com/track/2FZZZ3L1wj9xTgQzMlQEed"
+    },
+    {
+      "added_at": "2020-03-06 16:28:56",
+      "album": {
+        "name": "To Ella With Love",
+        "url": "https://open.spotify.com/album/6glj5wRmAtkj3pgDUkZstz"
+      },
+      "artists": [
+        {
+          "name": "Ann Hampton Callaway",
+          "url": "https://open.spotify.com/artist/5wHvUotfxzSccrzX9x9g6e"
+        }
+      ],
+      "duration_ms": 166960,
+      "name": "Let's Fall In Love",
+      "url": "https://open.spotify.com/track/1b9gNirS4wUJwYg8X8l9jK"
     },
     {
       "added_at": "2020-03-06 16:28:56",
@@ -699,22 +699,6 @@
     {
       "added_at": "2020-03-06 16:28:56",
       "album": {
-        "name": "Contrasts",
-        "url": "https://open.spotify.com/album/6Td0cXeGPSZ6urzMTKbPEf"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Dorsey & His Orchestra",
-          "url": "https://open.spotify.com/artist/3z5VqEvu6RJ4Abtah3lTsg"
-        }
-      ],
-      "duration_ms": 185333,
-      "name": "I Got Rhythm",
-      "url": "https://open.spotify.com/track/1IjZmiq8MrgzEsHgb0ubLA"
-    },
-    {
-      "added_at": "2020-03-06 16:28:56",
-      "album": {
         "name": "Night In Tunisia: The Very Best Of Dizzy Gillespie",
         "url": "https://open.spotify.com/album/23CDAtj0sfiYYuoDWYR6cf"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 186693,
       "name": "Manteca",
       "url": "https://open.spotify.com/track/6KpMB0Wgw1NVFqwn0DCprf"
+    },
+    {
+      "added_at": "2020-03-06 16:28:56",
+      "album": {
+        "name": "Contrasts",
+        "url": "https://open.spotify.com/album/6Td0cXeGPSZ6urzMTKbPEf"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Dorsey & His Orchestra",
+          "url": "https://open.spotify.com/artist/3z5VqEvu6RJ4Abtah3lTsg"
+        }
+      ],
+      "duration_ms": 185333,
+      "name": "I Got Rhythm",
+      "url": "https://open.spotify.com/track/1IjZmiq8MrgzEsHgb0ubLA"
     },
     {
       "added_at": "2020-03-06 16:28:56",
@@ -781,6 +781,22 @@
       "url": "https://open.spotify.com/track/6FyP9sU6l9JhHIPW2yfJnu"
     },
     {
+      "added_at": "2020-03-06 16:28:56",
+      "album": {
+        "name": "The Quintessence",
+        "url": "https://open.spotify.com/album/5x1ThzsG2tvGCzdcbS54GH"
+      },
+      "artists": [
+        {
+          "name": "Quincy Jones",
+          "url": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK"
+        }
+      ],
+      "duration_ms": 147080,
+      "name": "Straight, No Chaser",
+      "url": "https://open.spotify.com/track/01k3YE4W9XfTTTXAG2QlEs"
+    },
+    {
       "added_at": "2022-03-11 05:02:00",
       "album": {
         "name": "Your Mind Is on Vacation",
@@ -807,18 +823,18 @@
     {
       "added_at": "2020-03-06 16:28:56",
       "album": {
-        "name": "The Quintessence",
-        "url": "https://open.spotify.com/album/5x1ThzsG2tvGCzdcbS54GH"
+        "name": "Birks Works: The Verve Big-Band Sessions",
+        "url": "https://open.spotify.com/album/7yyH8DozyrWFMEAWhCV2oS"
       },
       "artists": [
         {
-          "name": "Quincy Jones",
-          "url": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK"
+          "name": "Dizzy Gillespie",
+          "url": "https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn"
         }
       ],
-      "duration_ms": 147080,
-      "name": "Straight, No Chaser",
-      "url": "https://open.spotify.com/track/01k3YE4W9XfTTTXAG2QlEs"
+      "duration_ms": 235866,
+      "name": "Doodlin'",
+      "url": "https://open.spotify.com/track/2jb1Abu8FOdpIAICSnV6C6"
     },
     {
       "added_at": "2020-03-06 16:28:56",
@@ -855,22 +871,6 @@
       "duration_ms": 101882,
       "name": "Moonlight on the Ganges",
       "url": "https://open.spotify.com/track/2sbS1rpnQUjxwuVBCFpktO"
-    },
-    {
-      "added_at": "2020-03-06 16:28:56",
-      "album": {
-        "name": "Birks Works: The Verve Big-Band Sessions",
-        "url": "https://open.spotify.com/album/7yyH8DozyrWFMEAWhCV2oS"
-      },
-      "artists": [
-        {
-          "name": "Dizzy Gillespie",
-          "url": "https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn"
-        }
-      ],
-      "duration_ms": 235866,
-      "name": "Doodlin'",
-      "url": "https://open.spotify.com/track/2jb1Abu8FOdpIAICSnV6C6"
     },
     {
       "added_at": "2021-02-26 05:01:00",

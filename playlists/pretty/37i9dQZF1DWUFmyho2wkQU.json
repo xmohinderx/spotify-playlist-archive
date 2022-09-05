@@ -1,12 +1,12 @@
 {
   "description": "Drive slow homie. cover: Lil Wayne",
-  "num_followers": 804583,
+  "num_followers": 802812,
   "original_name": "Hip-Hop Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODcxMzg1NywwMDAwMDAwMDM3MjkyYjMzYWRmMjc1ZGNmOTk3ZWFkYzdmZmEwZDM0",
+  "snapshot_id": "MTY1ODcxMzg1NywwMDAwMDAwMDA1ZTlmNTU0YjMzODkyMTQ1YjI0OGJiZDZiZmVjYzdh",
   "tracks": [
     {
       "added_at": "2022-07-01 04:00:00",
@@ -495,6 +495,22 @@
     {
       "added_at": "2022-07-01 04:00:00",
       "album": {
+        "name": "Get Rich Or Die Tryin'",
+        "url": "https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P"
+      },
+      "artists": [
+        {
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        }
+      ],
+      "duration_ms": 249466,
+      "name": "P.I.M.P.",
+      "url": "https://open.spotify.com/track/2D1hlMwWWXpkc3CZJ5U351"
+    },
+    {
+      "added_at": "2022-07-01 04:00:00",
+      "album": {
         "name": "The Recession",
         "url": "https://open.spotify.com/album/0U54jjqJhihezshU9t9cuO"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 321293,
       "name": "Put On",
       "url": "https://open.spotify.com/track/5dANgSy7v091dhiPnEXNrf"
-    },
-    {
-      "added_at": "2022-07-01 04:00:00",
-      "album": {
-        "name": "Get Rich Or Die Tryin'",
-        "url": "https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P"
-      },
-      "artists": [
-        {
-          "name": "50 Cent",
-          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
-        }
-      ],
-      "duration_ms": 249466,
-      "name": "P.I.M.P.",
-      "url": "https://open.spotify.com/track/2D1hlMwWWXpkc3CZJ5U351"
     },
     {
       "added_at": "2022-07-01 04:00:00",
@@ -595,6 +595,26 @@
     {
       "added_at": "2022-07-01 04:00:00",
       "album": {
+        "name": "Jagged Little Thrill",
+        "url": "https://open.spotify.com/album/2LFRjzwf61Y7CIl54Kiq8j"
+      },
+      "artists": [
+        {
+          "name": "Jagged Edge",
+          "url": "https://open.spotify.com/artist/7Aq8lpLMSt1Zxu56pe9bmp"
+        },
+        {
+          "name": "Nelly",
+          "url": "https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw"
+        }
+      ],
+      "duration_ms": 232573,
+      "name": "Where the Party At (feat. Nelly)",
+      "url": "https://open.spotify.com/track/5mNV8Mz59bzyuQ53gTw0c0"
+    },
+    {
+      "added_at": "2022-07-01 04:00:00",
+      "album": {
         "name": "Who Is Mike Jones?",
         "url": "https://open.spotify.com/album/1YU3MPIMY9rZOE899khVj2"
       },
@@ -615,26 +635,6 @@
       "duration_ms": 271053,
       "name": "Still Tippin' (feat. Slim Thug and Paul Wall)",
       "url": "https://open.spotify.com/track/59rtiYOPgMEDf3yPEfU2la"
-    },
-    {
-      "added_at": "2022-07-01 04:00:00",
-      "album": {
-        "name": "Jagged Little Thrill",
-        "url": "https://open.spotify.com/album/2LFRjzwf61Y7CIl54Kiq8j"
-      },
-      "artists": [
-        {
-          "name": "Jagged Edge",
-          "url": "https://open.spotify.com/artist/7Aq8lpLMSt1Zxu56pe9bmp"
-        },
-        {
-          "name": "Nelly",
-          "url": "https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw"
-        }
-      ],
-      "duration_ms": 232573,
-      "name": "Where the Party At (feat. Nelly)",
-      "url": "https://open.spotify.com/track/5mNV8Mz59bzyuQ53gTw0c0"
     },
     {
       "added_at": "2022-07-01 04:00:00",
@@ -1219,26 +1219,6 @@
     {
       "added_at": "2022-07-01 04:00:00",
       "album": {
-        "name": "Like Father Like Son",
-        "url": "https://open.spotify.com/album/3DLSu5fxSIaG7Ph8G5YVBp"
-      },
-      "artists": [
-        {
-          "name": "Birdman",
-          "url": "https://open.spotify.com/artist/35sCXuy5gN6Or69rZ9vqBs"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 267293,
-      "name": "Stuntin' Like My Daddy - Street",
-      "url": "https://open.spotify.com/track/3rMyMv8EjKXoPnaRo2hdJN"
-    },
-    {
-      "added_at": "2022-07-01 04:00:00",
-      "album": {
         "name": "...And Then There Was X",
         "url": "https://open.spotify.com/album/62l3f8u6j9eyDhuxsZA2iH"
       },
@@ -1255,6 +1235,26 @@
       "duration_ms": 253040,
       "name": "What These Bitches Want",
       "url": "https://open.spotify.com/track/57kdeoYzgGaKzRWj4XM1u8"
+    },
+    {
+      "added_at": "2022-07-01 04:00:00",
+      "album": {
+        "name": "Like Father Like Son",
+        "url": "https://open.spotify.com/album/3DLSu5fxSIaG7Ph8G5YVBp"
+      },
+      "artists": [
+        {
+          "name": "Birdman",
+          "url": "https://open.spotify.com/artist/35sCXuy5gN6Or69rZ9vqBs"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 267293,
+      "name": "Stuntin' Like My Daddy - Street",
+      "url": "https://open.spotify.com/track/3rMyMv8EjKXoPnaRo2hdJN"
     },
     {
       "added_at": "2022-07-01 04:00:00",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2022-07-01 04:00:00",
       "album": {
-        "name": "Alley: The Return of the Ying Yang Twins",
-        "url": "https://open.spotify.com/album/07nmtQfvr3Luul00TxFKQE"
-      },
-      "artists": [
-        {
-          "name": "Ying Yang Twins",
-          "url": "https://open.spotify.com/artist/44PA0rCQXikgOWbfY7Fq7m"
-        }
-      ],
-      "duration_ms": 272506,
-      "name": "Say I Yi Yi",
-      "url": "https://open.spotify.com/track/46XvcuEZFFInDilbYUNHBn"
-    },
-    {
-      "added_at": "2022-07-01 04:00:00",
-      "album": {
         "name": "Tipsy",
         "url": "https://open.spotify.com/album/5Woeg9DhPiMTP0MwKRqT0t"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 243026,
       "name": "Tipsy - Radio Mix",
       "url": "https://open.spotify.com/track/2lVDc57IMK6nypg2iuEWVR"
+    },
+    {
+      "added_at": "2022-07-01 04:00:00",
+      "album": {
+        "name": "Alley: The Return of the Ying Yang Twins",
+        "url": "https://open.spotify.com/album/07nmtQfvr3Luul00TxFKQE"
+      },
+      "artists": [
+        {
+          "name": "Ying Yang Twins",
+          "url": "https://open.spotify.com/artist/44PA0rCQXikgOWbfY7Fq7m"
+        }
+      ],
+      "duration_ms": 272506,
+      "name": "Say I Yi Yi",
+      "url": "https://open.spotify.com/track/46XvcuEZFFInDilbYUNHBn"
     },
     {
       "added_at": "2022-07-01 04:00:00",
@@ -1899,6 +1899,22 @@
     {
       "added_at": "2022-07-01 04:00:00",
       "album": {
+        "name": "La Bella Mafia",
+        "url": "https://open.spotify.com/album/6UlNLXBFLqRDiKnyrF4oDE"
+      },
+      "artists": [
+        {
+          "name": "Lil' Kim",
+          "url": "https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX"
+        }
+      ],
+      "duration_ms": 234093,
+      "name": "The Jump Off",
+      "url": "https://open.spotify.com/track/6UZS3KgNc0NF13bbtQTzD6"
+    },
+    {
+      "added_at": "2022-07-01 04:00:00",
+      "album": {
         "name": "Black On Both Sides",
         "url": "https://open.spotify.com/album/5gK2l2LgWY0BA4p9uy27z6"
       },
@@ -1915,18 +1931,22 @@
     {
       "added_at": "2022-07-01 04:00:00",
       "album": {
-        "name": "La Bella Mafia",
-        "url": "https://open.spotify.com/album/6UlNLXBFLqRDiKnyrF4oDE"
+        "name": "Birdman",
+        "url": "https://open.spotify.com/album/2HVXysSEGyC2qGCU165DNN"
       },
       "artists": [
         {
-          "name": "Lil' Kim",
-          "url": "https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX"
+          "name": "Baby",
+          "url": "https://open.spotify.com/artist/7E1r06wbRiF2soZtFoc62z"
+        },
+        {
+          "name": "Clipse",
+          "url": "https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2"
         }
       ],
-      "duration_ms": 234093,
-      "name": "The Jump Off",
-      "url": "https://open.spotify.com/track/6UZS3KgNc0NF13bbtQTzD6"
+      "duration_ms": 258066,
+      "name": "What Happened To That Boy",
+      "url": "https://open.spotify.com/track/20Sp7dNLM3NjIu3TInDqjq"
     },
     {
       "added_at": "2022-07-01 04:00:00",
@@ -1951,26 +1971,6 @@
       "duration_ms": 293666,
       "name": "Shake Ya Tailfeather (feat. P. Diddy & Murphy Lee) - 2016 Remaster",
       "url": "https://open.spotify.com/track/1lKS7SZQ7r5vOChLwJurmm"
-    },
-    {
-      "added_at": "2022-07-01 04:00:00",
-      "album": {
-        "name": "Birdman",
-        "url": "https://open.spotify.com/album/2HVXysSEGyC2qGCU165DNN"
-      },
-      "artists": [
-        {
-          "name": "Baby",
-          "url": "https://open.spotify.com/artist/7E1r06wbRiF2soZtFoc62z"
-        },
-        {
-          "name": "Clipse",
-          "url": "https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2"
-        }
-      ],
-      "duration_ms": 258066,
-      "name": "What Happened To That Boy",
-      "url": "https://open.spotify.com/track/20Sp7dNLM3NjIu3TInDqjq"
     },
     {
       "added_at": "2022-07-01 04:00:00",
@@ -2015,22 +2015,6 @@
     {
       "added_at": "2022-07-01 04:00:00",
       "album": {
-        "name": "THUGS ARE US",
-        "url": "https://open.spotify.com/album/2oJxBPqylFpSb60hOJ4DcH"
-      },
-      "artists": [
-        {
-          "name": "Trick Daddy",
-          "url": "https://open.spotify.com/artist/12FHARd9fY0Tu0ila4Ua25"
-        }
-      ],
-      "duration_ms": 226160,
-      "name": "Take It to da House",
-      "url": "https://open.spotify.com/track/1wLhwzPAtze5JT8qqXlqaO"
-    },
-    {
-      "added_at": "2022-07-01 04:00:00",
-      "album": {
         "name": "Money, Power & Respect",
         "url": "https://open.spotify.com/album/1fkGVz3LWxjax7F0Mrj3f5"
       },
@@ -2051,6 +2035,22 @@
       "duration_ms": 270493,
       "name": "Money, Power & Respect (feat. DMX & Lil' Kim)",
       "url": "https://open.spotify.com/track/3MbBa8FMMgp9D39s7Cozl9"
+    },
+    {
+      "added_at": "2022-07-01 04:00:00",
+      "album": {
+        "name": "THUGS ARE US",
+        "url": "https://open.spotify.com/album/2oJxBPqylFpSb60hOJ4DcH"
+      },
+      "artists": [
+        {
+          "name": "Trick Daddy",
+          "url": "https://open.spotify.com/artist/12FHARd9fY0Tu0ila4Ua25"
+        }
+      ],
+      "duration_ms": 226160,
+      "name": "Take It to da House",
+      "url": "https://open.spotify.com/track/1wLhwzPAtze5JT8qqXlqaO"
     },
     {
       "added_at": "2022-07-01 04:00:00",
@@ -2447,22 +2447,6 @@
     {
       "added_at": "2022-07-01 04:00:00",
       "album": {
-        "name": "Lord Willin'",
-        "url": "https://open.spotify.com/album/1Q83nQO2QG81TVa10hW7LX"
-      },
-      "artists": [
-        {
-          "name": "Clipse",
-          "url": "https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2"
-        }
-      ],
-      "duration_ms": 254306,
-      "name": "When the Last Time",
-      "url": "https://open.spotify.com/track/0EXm0iaB0CzqtsB3VaupXj"
-    },
-    {
-      "added_at": "2022-07-01 04:00:00",
-      "album": {
         "name": "The Crunk Recordings: Hits From The Pioneers And Players Of Crunk",
         "url": "https://open.spotify.com/album/1OaIwAuOiwujt7mlst3CAR"
       },
@@ -2479,6 +2463,22 @@
       "duration_ms": 283386,
       "name": "Some Cut (feat. Cutty)",
       "url": "https://open.spotify.com/track/71mDjdeVK9sqXmamMHaAfX"
+    },
+    {
+      "added_at": "2022-07-01 04:00:00",
+      "album": {
+        "name": "Lord Willin'",
+        "url": "https://open.spotify.com/album/1Q83nQO2QG81TVa10hW7LX"
+      },
+      "artists": [
+        {
+          "name": "Clipse",
+          "url": "https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2"
+        }
+      ],
+      "duration_ms": 254306,
+      "name": "When the Last Time",
+      "url": "https://open.spotify.com/track/0EXm0iaB0CzqtsB3VaupXj"
     },
     {
       "added_at": "2022-07-01 04:00:00",
@@ -2595,22 +2595,6 @@
     {
       "added_at": "2022-07-01 04:00:00",
       "album": {
-        "name": "Living Legends",
-        "url": "https://open.spotify.com/album/3CErIwttlfxoNd2cQhmBwW"
-      },
-      "artists": [
-        {
-          "name": "8Ball & MJG",
-          "url": "https://open.spotify.com/artist/7iUhmKPNkkPPS6FCQxqtNq"
-        }
-      ],
-      "duration_ms": 273973,
-      "name": "You Don't Want Drama",
-      "url": "https://open.spotify.com/track/48F4fY1pKOTWN1H8q99dJE"
-    },
-    {
-      "added_at": "2022-07-01 04:00:00",
-      "album": {
         "name": "Speakerboxxx/The Love Below",
         "url": "https://open.spotify.com/album/7fop0BuUPJi2nuKPi5Cdgq"
       },
@@ -2627,6 +2611,22 @@
       "duration_ms": 233960,
       "name": "The Way You Move (feat. Sleepy Brown) - Radio Mix",
       "url": "https://open.spotify.com/track/4TSdgufs5bHUjfS9mJpMSh"
+    },
+    {
+      "added_at": "2022-07-01 04:00:00",
+      "album": {
+        "name": "Living Legends",
+        "url": "https://open.spotify.com/album/3CErIwttlfxoNd2cQhmBwW"
+      },
+      "artists": [
+        {
+          "name": "8Ball & MJG",
+          "url": "https://open.spotify.com/artist/7iUhmKPNkkPPS6FCQxqtNq"
+        }
+      ],
+      "duration_ms": 273973,
+      "name": "You Don't Want Drama",
+      "url": "https://open.spotify.com/track/48F4fY1pKOTWN1H8q99dJE"
     },
     {
       "added_at": "2022-07-01 04:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2wJvXxyJb8.md) - [plain]
 
 > Tudo o que está bombando e viralizando por aí!
 
-[Spotify](https://open.spotify.com/user/spotify) - 835,779 likes - 90 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 836,721 likes - 90 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2wJvXxyJb8.md) - [plain]
 | 5 | [Bafora e Mama](https://open.spotify.com/track/1Y9L0vdDNfXYBjf5XxC99O) | [MC Juninho da VD](https://open.spotify.com/artist/4hvKwCPgk7IGVynYX8bQqc) | [Bafora e Mama](https://open.spotify.com/album/3FoCZNSSC2TK2qXNX5sagG) | 3:37 |
 | 6 | [São João Chegou](https://open.spotify.com/track/6sZYCAvTEYjTtQ9Tt5ACbX) | [Renanzin Pressão](https://open.spotify.com/artist/0L7NGVE2t7zDGOL3x53Axo) | [São João Chegou](https://open.spotify.com/album/2mRd5JYntGJebVPtg7l3mu) | 1:54 |
 | 7 | [Voltei pra Put4Ria](https://open.spotify.com/track/724pvVQHyko3mId2lLWQJ9) | [Mc Jaovittin](https://open.spotify.com/artist/05E23554F57Qsq97Ii8o2f) | [Voltei pra Put4Ria](https://open.spotify.com/album/67RQHtXdCKzTTzy1Sa9ZuB) | 1:58 |
-| 8 | [Primeiro Beck Ela Me Mamou](https://open.spotify.com/track/4QQTPEwqE4Aq7LXSyIgSci) | [Mc Kitinho](https://open.spotify.com/artist/1d2PrJ5wELpihT8yrwH4mO), [Silva MC](https://open.spotify.com/artist/0xbV62T2N67aqaRQbgU943), [Mc guizinho niazi](https://open.spotify.com/artist/6iUG0pMyifNBudO9B1s7cD), [DJ DEIVÃO](https://open.spotify.com/artist/5dLVqC89Drj8IZ82EICZZk) | [Primeiro Beck Ela Me Mamou](https://open.spotify.com/album/1ykijYnxFNpMVJrInjLdMc) | 2:19 |
+| 8 | [Primeiro Beck](https://open.spotify.com/track/3IN6ZKDzAsOUuOtmIqnAYX) | [DJ DEIVÃO](https://open.spotify.com/artist/5dLVqC89Drj8IZ82EICZZk), [Mc guizinho niazi](https://open.spotify.com/artist/6iUG0pMyifNBudO9B1s7cD), [Silva Mc](https://open.spotify.com/artist/7v4hw85pzG0M9kJHlBGsi3), [Mc Kitinho](https://open.spotify.com/artist/1d2PrJ5wELpihT8yrwH4mO) | [Primeiro Beck](https://open.spotify.com/album/2wNWu9WSJynNKZrQZndTPB) | 2:19 |
 | 9 | [Bafora o Lança \- Remix](https://open.spotify.com/track/4NFkcqZ3jU2O9rgEbuluVn) | [Mario Mc](https://open.spotify.com/artist/4AvoASFHoFCDxWR2yWV3Cn), [Menor Adr](https://open.spotify.com/artist/4KaMTjxBX1mA5Js6KWalNT) | [Bafora o Lança \(Remix\)](https://open.spotify.com/album/7qzJO4kNeCHPM2jwtmoZyt) | 3:32 |
 | 10 | [Melodia Alucinógena](https://open.spotify.com/track/4x5q5T5mhE1xvoCVXY6qrN) | [DJ AK BR](https://open.spotify.com/artist/3JOwYU8Yv0wCe18FFanLEK), [Dj Darge](https://open.spotify.com/artist/4SKWDIWfEZbyMI8gzeeoXO) | [Melodia Alucinógena](https://open.spotify.com/album/1VFqnSA3BZQTxuW0EF5OYs) | 3:03 |
 | 11 | [Cachaça, Pinga e Puta](https://open.spotify.com/track/7IYnUFKOoVMFr3tJgbUSPm) | [DJ Alex BNH](https://open.spotify.com/artist/6Je1GWROutRKp3J1Kxi0Gl), [Mc Koruja](https://open.spotify.com/artist/44AXaX2aJKSQhMxVTtNb0s), [Maax Deejay](https://open.spotify.com/artist/2fzhICndlL7ikUtUqSmlFq) | [Clima de Favela](https://open.spotify.com/album/7rlzngtff6KErutNwXxb4u) | 2:40 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2wJvXxyJb8.md) - [plain]
 | 89 | [Depende](https://open.spotify.com/track/2OsPujKDKv0PgbfsMHtU7m) | [Dj Guuga](https://open.spotify.com/artist/1cNPXWhKfjI0fT5EMCnamR) | [Depende](https://open.spotify.com/album/3UuIipzzWhzr5ynZN4oMbW) | 2:36 |
 | 90 | [Calma, Respira](https://open.spotify.com/track/1HPHKZKHAShXxkXTtVC5at) | [Mc Jajau](https://open.spotify.com/artist/3xJ3stRn1VTzH0EgGmF4hm), [Mc Topre](https://open.spotify.com/artist/6bmZfABIjvLMAMYwujdjFy), [Guga Divulga](https://open.spotify.com/artist/7544SbhjpkivsclUPtG1ej) | [Calma, Respira](https://open.spotify.com/album/5WFg54m5Bh3DVbgLom0Kl8) | 2:30 |
 
-Snapshot ID: `MTY2MjE0NTQzMSwwMDAwMDAwMDA2OThkNmE0OWE1ODEwNTRjMDhkMzQwNzNiYzVmOGZh`
+Snapshot ID: `MTY2MjE0NTQzMSwwMDAwMDAwMGJiODg5ODFiYmMzMDM5MjY1ZDQ1MWE4M2U0NzUyNDYx`

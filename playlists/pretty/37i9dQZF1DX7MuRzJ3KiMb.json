@@ -1,12 +1,12 @@
 {
   "description": "el amor es <3",
-  "num_followers": 30265,
+  "num_followers": 30345,
   "original_name": "cursi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODI1Mjk4NCwwMDAwMDAwMGRiOTYxNTc5MGYwZWZmOTM4M2I4ZjE3MTBmNzhjMzY1",
+  "snapshot_id": "MTY1ODI1Mjk4NCwwMDAwMDAwMGJhYTEyYmUyZjA4ZDJiMjc4MDYwNzhjYzRkZmQyZmUw",
   "tracks": [
     {
       "added_at": "2022-07-19 17:49:44",
@@ -855,6 +855,22 @@
     {
       "added_at": "2022-07-19 17:49:44",
       "album": {
+        "name": "Se\u00f1orita",
+        "url": "https://open.spotify.com/album/6j6DsW88KYbKSe7qrzJLPE"
+      },
+      "artists": [
+        {
+          "name": "Felipe Botello y El Sonoro Rugir",
+          "url": "https://open.spotify.com/artist/1IcvjLbT3CPDoGPwpycAvr"
+        }
+      ],
+      "duration_ms": 209866,
+      "name": "Se\u00f1orita",
+      "url": "https://open.spotify.com/track/7IOwZ2dsEZCg2NCeX7MCsm"
+    },
+    {
+      "added_at": "2022-07-19 17:49:44",
+      "album": {
         "name": "A Mi Ritmo",
         "url": "https://open.spotify.com/album/0kZuOQA9W3hC6j3nhYxuUX"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 186883,
       "name": "A Mi Ritmo",
       "url": "https://open.spotify.com/track/51h83YT521kYxTLng0FyRv"
-    },
-    {
-      "added_at": "2022-07-19 17:49:44",
-      "album": {
-        "name": "Se\u00f1orita",
-        "url": "https://open.spotify.com/album/6j6DsW88KYbKSe7qrzJLPE"
-      },
-      "artists": [
-        {
-          "name": "Felipe Botello y El Sonoro Rugir",
-          "url": "https://open.spotify.com/artist/1IcvjLbT3CPDoGPwpycAvr"
-        }
-      ],
-      "duration_ms": 209866,
-      "name": "Se\u00f1orita",
-      "url": "https://open.spotify.com/track/7IOwZ2dsEZCg2NCeX7MCsm"
     },
     {
       "added_at": "2022-07-19 17:49:44",
@@ -927,6 +927,22 @@
     {
       "added_at": "2022-07-19 17:49:44",
       "album": {
+        "name": "Dimittas",
+        "url": "https://open.spotify.com/album/301lHhRg57m4Niqk7He8XJ"
+      },
+      "artists": [
+        {
+          "name": "Daniel Craft",
+          "url": "https://open.spotify.com/artist/5rFUl5OY8z9cs2tAlE2Gpb"
+        }
+      ],
+      "duration_ms": 167023,
+      "name": "Sue\u0301ltate",
+      "url": "https://open.spotify.com/track/7s0JfAkPxdB6BUzd7GEEiD"
+    },
+    {
+      "added_at": "2022-07-19 17:49:44",
+      "album": {
         "name": "45 RPM",
         "url": "https://open.spotify.com/album/7A8QtKKDMM2Rs91Sq5fcfr"
       },
@@ -947,22 +963,6 @@
       "duration_ms": 263906,
       "name": "Para la Eternidad",
       "url": "https://open.spotify.com/track/7irtPPH6Jdb4n8dh2DRCFy"
-    },
-    {
-      "added_at": "2022-07-19 17:49:44",
-      "album": {
-        "name": "Dimittas",
-        "url": "https://open.spotify.com/album/301lHhRg57m4Niqk7He8XJ"
-      },
-      "artists": [
-        {
-          "name": "Daniel Craft",
-          "url": "https://open.spotify.com/artist/5rFUl5OY8z9cs2tAlE2Gpb"
-        }
-      ],
-      "duration_ms": 167023,
-      "name": "Sue\u0301ltate",
-      "url": "https://open.spotify.com/track/7s0JfAkPxdB6BUzd7GEEiD"
     },
     {
       "added_at": "2022-07-19 17:49:44",
@@ -999,22 +999,6 @@
     {
       "added_at": "2022-07-19 17:49:44",
       "album": {
-        "name": "Flor De Michoac\u00e1n",
-        "url": "https://open.spotify.com/album/71f7JogsMnad5Leg4XeZr9"
-      },
-      "artists": [
-        {
-          "name": "Menny Flores",
-          "url": "https://open.spotify.com/artist/5iV6pocuYqWg9Cx5JQNyJV"
-        }
-      ],
-      "duration_ms": 181373,
-      "name": "Nada Me Falta (Welcome To Tijuana)",
-      "url": "https://open.spotify.com/track/09jNjdtBWKxSFLaIMN85mv"
-    },
-    {
-      "added_at": "2022-07-19 17:49:44",
-      "album": {
         "name": "Volver",
         "url": "https://open.spotify.com/album/68M1eXLRiP9zLQOZbmSth7"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 190006,
       "name": "Volver",
       "url": "https://open.spotify.com/track/0PSmtygePqmxByr5eh0HST"
+    },
+    {
+      "added_at": "2022-07-19 17:49:44",
+      "album": {
+        "name": "Flor De Michoac\u00e1n",
+        "url": "https://open.spotify.com/album/71f7JogsMnad5Leg4XeZr9"
+      },
+      "artists": [
+        {
+          "name": "Menny Flores",
+          "url": "https://open.spotify.com/artist/5iV6pocuYqWg9Cx5JQNyJV"
+        }
+      ],
+      "duration_ms": 181373,
+      "name": "Nada Me Falta (Welcome To Tijuana)",
+      "url": "https://open.spotify.com/track/09jNjdtBWKxSFLaIMN85mv"
     },
     {
       "added_at": "2022-07-19 17:49:44",
@@ -1079,6 +1079,22 @@
       "duration_ms": 219610,
       "name": "Mientras Duermes",
       "url": "https://open.spotify.com/track/1HZNMsGylrBnAuHkRMLl8O"
+    },
+    {
+      "added_at": "2022-07-19 17:49:44",
+      "album": {
+        "name": "Alguien Como T\u00fa",
+        "url": "https://open.spotify.com/album/1iTbNUit81UbxYbMRteBlL"
+      },
+      "artists": [
+        {
+          "name": "La Isla Centeno",
+          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
+        }
+      ],
+      "duration_ms": 237978,
+      "name": "Alguien Como T\u00fa",
+      "url": "https://open.spotify.com/track/29c3Pm5ChGMesIzZFUsCpE"
     },
     {
       "added_at": "2022-07-19 17:49:44",
@@ -1183,22 +1199,6 @@
       "duration_ms": 180000,
       "name": "Postre",
       "url": "https://open.spotify.com/track/1OBjbKYarukVRG2AYqIXsi"
-    },
-    {
-      "added_at": "2022-07-19 17:49:44",
-      "album": {
-        "name": "Alguien Como T\u00fa",
-        "url": "https://open.spotify.com/album/1iTbNUit81UbxYbMRteBlL"
-      },
-      "artists": [
-        {
-          "name": "La Isla Centeno",
-          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
-        }
-      ],
-      "duration_ms": 237978,
-      "name": "Alguien Como T\u00fa",
-      "url": "https://open.spotify.com/track/29c3Pm5ChGMesIzZFUsCpE"
     },
     {
       "added_at": "2022-07-19 17:49:44",

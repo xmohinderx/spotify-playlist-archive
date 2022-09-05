@@ -1,12 +1,12 @@
 {
   "description": "Chill techno, melodic house and tech house.",
-  "num_followers": 761272,
+  "num_followers": 760798,
   "original_name": "Lowkey Tech",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjE0MjE4NiwwMDAwMDAwMDg4OWFhMWEyZGY4M2M3YzFjNjgyMjVjYTIwZmVhODdi",
+  "snapshot_id": "MTY2MjE0MjE4NiwwMDAwMDAwMGFlM2YxZWE3ZDMzMTRjZjQwZWRmNDhlNDAxNGMwM2Fm",
   "tracks": [
     {
       "added_at": "2022-09-02 18:09:46",
@@ -279,6 +279,26 @@
     {
       "added_at": "2022-09-02 18:09:46",
       "album": {
+        "name": "Tidalwave",
+        "url": "https://open.spotify.com/album/3vzNoyDqwgUj8E4fjPWA04"
+      },
+      "artists": [
+        {
+          "name": "Moksi",
+          "url": "https://open.spotify.com/artist/5jm3x1qIibWdKSEMw2G011"
+        },
+        {
+          "name": "Adam McInnis",
+          "url": "https://open.spotify.com/artist/0VDxDauEoMAeCRqjLtgeOY"
+        }
+      ],
+      "duration_ms": 168196,
+      "name": "Tidalwave",
+      "url": "https://open.spotify.com/track/7wB5Ktf3MbsbNRgEDI5B80"
+    },
+    {
+      "added_at": "2022-09-02 18:09:46",
+      "album": {
         "name": "Best of Me (Radio Edit)",
         "url": "https://open.spotify.com/album/4r3jo7rdIgbAbMXX6tkyTB"
       },
@@ -359,26 +379,6 @@
     {
       "added_at": "2022-09-02 18:09:46",
       "album": {
-        "name": "Tidalwave",
-        "url": "https://open.spotify.com/album/3vzNoyDqwgUj8E4fjPWA04"
-      },
-      "artists": [
-        {
-          "name": "Moksi",
-          "url": "https://open.spotify.com/artist/5jm3x1qIibWdKSEMw2G011"
-        },
-        {
-          "name": "Adam McInnis",
-          "url": "https://open.spotify.com/artist/0VDxDauEoMAeCRqjLtgeOY"
-        }
-      ],
-      "duration_ms": 168196,
-      "name": "Tidalwave",
-      "url": "https://open.spotify.com/track/7wB5Ktf3MbsbNRgEDI5B80"
-    },
-    {
-      "added_at": "2022-09-02 18:09:46",
-      "album": {
         "name": "You Take My Hand",
         "url": "https://open.spotify.com/album/3meERbSehneA03lgl071Io"
       },
@@ -399,22 +399,6 @@
     {
       "added_at": "2022-09-02 18:09:46",
       "album": {
-        "name": "Apricots",
-        "url": "https://open.spotify.com/album/6ZgM0jM6nRUlK6wRXEONVc"
-      },
-      "artists": [
-        {
-          "name": "Bicep",
-          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
-        }
-      ],
-      "duration_ms": 246506,
-      "name": "Apricots",
-      "url": "https://open.spotify.com/track/73X9X7kDgsm4YeHpc8prf6"
-    },
-    {
-      "added_at": "2022-09-02 18:09:46",
-      "album": {
         "name": "Suvi",
         "url": "https://open.spotify.com/album/6OYVQ5iCKjq6jIddKMJBds"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 191612,
       "name": "Suvi",
       "url": "https://open.spotify.com/track/3hB45uxnbEjhGJHQZKOpFL"
+    },
+    {
+      "added_at": "2022-09-02 18:09:46",
+      "album": {
+        "name": "Apricots",
+        "url": "https://open.spotify.com/album/6ZgM0jM6nRUlK6wRXEONVc"
+      },
+      "artists": [
+        {
+          "name": "Bicep",
+          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
+        }
+      ],
+      "duration_ms": 246506,
+      "name": "Apricots",
+      "url": "https://open.spotify.com/track/73X9X7kDgsm4YeHpc8prf6"
     },
     {
       "added_at": "2022-09-02 18:09:46",
@@ -575,6 +575,22 @@
     {
       "added_at": "2022-09-02 18:09:46",
       "album": {
+        "name": "The Distance",
+        "url": "https://open.spotify.com/album/2ePg95gGoOPRmUQYFLq0wy"
+      },
+      "artists": [
+        {
+          "name": "Totally Enormous Extinct Dinosaurs",
+          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
+        }
+      ],
+      "duration_ms": 291840,
+      "name": "The Distance",
+      "url": "https://open.spotify.com/track/3MOUt4k7KUP8qVheHT8RG0"
+    },
+    {
+      "added_at": "2022-09-02 18:09:46",
+      "album": {
         "name": "Close Your Eyes - Spotify Singles",
         "url": "https://open.spotify.com/album/0CBPN1mIPmYvZLKmbH4dd5"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 201720,
       "name": "Close Your Eyes - Spotify Singles",
       "url": "https://open.spotify.com/track/1BiWBZrvcUh7cDCqHsjb2u"
-    },
-    {
-      "added_at": "2022-09-02 18:09:46",
-      "album": {
-        "name": "The Distance",
-        "url": "https://open.spotify.com/album/2ePg95gGoOPRmUQYFLq0wy"
-      },
-      "artists": [
-        {
-          "name": "Totally Enormous Extinct Dinosaurs",
-          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
-        }
-      ],
-      "duration_ms": 291840,
-      "name": "The Distance",
-      "url": "https://open.spotify.com/track/3MOUt4k7KUP8qVheHT8RG0"
     },
     {
       "added_at": "2022-09-02 18:09:46",
@@ -755,22 +755,6 @@
     {
       "added_at": "2022-09-02 18:09:46",
       "album": {
-        "name": "Pulsing",
-        "url": "https://open.spotify.com/album/4WI3S9WHdO0wPocxqSXh4E"
-      },
-      "artists": [
-        {
-          "name": "Fejk\u00e1",
-          "url": "https://open.spotify.com/artist/0VWvUvjaHaW1OeXtcVISu9"
-        }
-      ],
-      "duration_ms": 237600,
-      "name": "Pulsing",
-      "url": "https://open.spotify.com/track/5uy5YwhwkiuihoJQdEiuws"
-    },
-    {
-      "added_at": "2022-09-02 18:09:46",
-      "album": {
         "name": "Hypercolour",
         "url": "https://open.spotify.com/album/2EFTTJUDOQhbJ6c9kc0Vgu"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 209081,
       "name": "Hypercolour",
       "url": "https://open.spotify.com/track/3CmUXmrh17WIaQOQu9OVha"
+    },
+    {
+      "added_at": "2022-09-02 18:09:46",
+      "album": {
+        "name": "Pulsing",
+        "url": "https://open.spotify.com/album/4WI3S9WHdO0wPocxqSXh4E"
+      },
+      "artists": [
+        {
+          "name": "Fejk\u00e1",
+          "url": "https://open.spotify.com/artist/0VWvUvjaHaW1OeXtcVISu9"
+        }
+      ],
+      "duration_ms": 237600,
+      "name": "Pulsing",
+      "url": "https://open.spotify.com/track/5uy5YwhwkiuihoJQdEiuws"
     },
     {
       "added_at": "2022-09-02 18:09:46",
@@ -1003,18 +1003,22 @@
     {
       "added_at": "2022-09-02 18:09:46",
       "album": {
-        "name": "Tarcu",
-        "url": "https://open.spotify.com/album/3AE8hCcO0uSlP37iOO1stA"
+        "name": "Bring You Back",
+        "url": "https://open.spotify.com/album/6fPDCt9pyi6QYzde4O9O2Y"
       },
       "artists": [
         {
-          "name": "Nils Hoffmann",
-          "url": "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb"
+          "name": "Peer Kusiv",
+          "url": "https://open.spotify.com/artist/0yTV2etph4xN8PXPLPeEG5"
+        },
+        {
+          "name": "Johanson",
+          "url": "https://open.spotify.com/artist/5oNwxILfJ5rJhMaFdwB9tN"
         }
       ],
-      "duration_ms": 238537,
-      "name": "Tarcu",
-      "url": "https://open.spotify.com/track/53XCa30Ua1FGl4VeAyCENK"
+      "duration_ms": 198676,
+      "name": "Bring You Back - Edit",
+      "url": "https://open.spotify.com/track/2Q3jcJsNmsbgwPjLAZccZz"
     },
     {
       "added_at": "2022-09-02 18:09:46",
@@ -1035,22 +1039,34 @@
     {
       "added_at": "2022-09-02 18:09:46",
       "album": {
-        "name": "Bring You Back",
-        "url": "https://open.spotify.com/album/6fPDCt9pyi6QYzde4O9O2Y"
+        "name": "Tarcu",
+        "url": "https://open.spotify.com/album/3AE8hCcO0uSlP37iOO1stA"
       },
       "artists": [
         {
-          "name": "Peer Kusiv",
-          "url": "https://open.spotify.com/artist/0yTV2etph4xN8PXPLPeEG5"
-        },
-        {
-          "name": "Johanson",
-          "url": "https://open.spotify.com/artist/5oNwxILfJ5rJhMaFdwB9tN"
+          "name": "Nils Hoffmann",
+          "url": "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb"
         }
       ],
-      "duration_ms": 198676,
-      "name": "Bring You Back - Edit",
-      "url": "https://open.spotify.com/track/2Q3jcJsNmsbgwPjLAZccZz"
+      "duration_ms": 238537,
+      "name": "Tarcu",
+      "url": "https://open.spotify.com/track/53XCa30Ua1FGl4VeAyCENK"
+    },
+    {
+      "added_at": "2022-09-02 18:09:46",
+      "album": {
+        "name": "Stay There",
+        "url": "https://open.spotify.com/album/2LUUNfPXV0MwcwITk97KWF"
+      },
+      "artists": [
+        {
+          "name": "Tonic Walter",
+          "url": "https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv"
+        }
+      ],
+      "duration_ms": 233562,
+      "name": "Stay There",
+      "url": "https://open.spotify.com/track/7t9PLlf9nI2Xo8WRrfcItk"
     },
     {
       "added_at": "2022-09-02 18:09:46",
@@ -1083,18 +1099,18 @@
     {
       "added_at": "2022-09-02 18:09:46",
       "album": {
-        "name": "Stay There",
-        "url": "https://open.spotify.com/album/2LUUNfPXV0MwcwITk97KWF"
+        "name": "Postquam",
+        "url": "https://open.spotify.com/album/53S7Jd7k0K4mC2vg28j99p"
       },
       "artists": [
         {
-          "name": "Tonic Walter",
-          "url": "https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv"
+          "name": "Vanita",
+          "url": "https://open.spotify.com/artist/03wBbT5tqttIBpmUrNa9ur"
         }
       ],
-      "duration_ms": 233562,
-      "name": "Stay There",
-      "url": "https://open.spotify.com/track/7t9PLlf9nI2Xo8WRrfcItk"
+      "duration_ms": 498419,
+      "name": "Postquam",
+      "url": "https://open.spotify.com/track/3uz86uuWkk7oyJs5pOTN3b"
     },
     {
       "added_at": "2022-09-02 18:09:46",
@@ -1115,22 +1131,6 @@
       "duration_ms": 204907,
       "name": "It's a Fine Day",
       "url": "https://open.spotify.com/track/0ZRVNeTUZVdjIdjss3toAS"
-    },
-    {
-      "added_at": "2022-09-02 18:09:46",
-      "album": {
-        "name": "Postquam",
-        "url": "https://open.spotify.com/album/53S7Jd7k0K4mC2vg28j99p"
-      },
-      "artists": [
-        {
-          "name": "Vanita",
-          "url": "https://open.spotify.com/artist/03wBbT5tqttIBpmUrNa9ur"
-        }
-      ],
-      "duration_ms": 498419,
-      "name": "Postquam",
-      "url": "https://open.spotify.com/track/3uz86uuWkk7oyJs5pOTN3b"
     }
   ],
   "unique_name": "Lowkey Tech",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 
 > Underground indie rock gems\. Cover: flipturn
 
-[Spotify](https://open.spotify.com/user/spotify) - 265,363 likes - 120 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 265,486 likes - 120 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 | 96 | [Frances Farmer Will Have Her Revenge On Seattle](https://open.spotify.com/track/32hjH8euySL8IqHEoHeHJE) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Frances Farmer Will Have Her Revenge On Seattle](https://open.spotify.com/album/0OWsfBKizOkgEcaa65b6z2) | 4:20 |
 | 97 | [Ruby](https://open.spotify.com/track/1TpnOSWYogJ42c6ZcGrhzR) | [Hovvdy](https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C) | [Ruby](https://open.spotify.com/album/2DCczRf9UGm6zbZoAMJUAf) | 3:03 |
 | 98 | [John, Take Me With You](https://open.spotify.com/track/1IbJOWFjQgHYwwwD4ScyqN) | [JW Francis](https://open.spotify.com/artist/11DpUQDuQFFuGU8VXny3K6) | [WANDERKID](https://open.spotify.com/album/1F6LrJHFfmVb9AqB3Q5Ajs) | 3:30 |
-| 99 | [Feelings Meeting](https://open.spotify.com/track/6wnzgUPgQhLzlvv8UQWf64) | [Living Hour](https://open.spotify.com/artist/2Ho3J07GaGcCl2ePXnjEia), [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO) | [Feelings Meeting](https://open.spotify.com/album/3L7nYxjsSoPUxpXivTutSf) | 3:59 |
+| 99 | [Feelings Meeting](https://open.spotify.com/track/7yAWOJIWEbyWj9pHu2j9jD) | [Living Hour](https://open.spotify.com/artist/2Ho3J07GaGcCl2ePXnjEia), [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO) | [Someday is Today](https://open.spotify.com/album/5CnTQkaRdKn8NQ29Ig9gKe) | 3:59 |
 | 100 | [Fred's Song](https://open.spotify.com/track/51KrVzQJbfPkvRlOI6h6W7) | [lil rozey](https://open.spotify.com/artist/20fOKcudXS3Yyl6ifwXf2u) | [Fred's Song](https://open.spotify.com/album/29nLxhZ6zE3HwD9WpIlYx2) | 2:52 |
 | 101 | [party](https://open.spotify.com/track/0Xk5I0Zmycf3qSec2WkIi9) | [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [party](https://open.spotify.com/album/5s6gT2apiu0qN8S0yKRwpT) | 4:30 |
 | 102 | [Lore](https://open.spotify.com/track/7fYMNO8W4OQUwdZoLwzhW2) | [Vundabar](https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6) | [Devil for the Fire](https://open.spotify.com/album/61CtQxxTAKjdaBgVkg1hGL) | 3:21 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 | 119 | [Not in the Cards](https://open.spotify.com/track/29QbcQ0P5uD76Uwk9XOxmp) | [The Red Pears](https://open.spotify.com/artist/3FRYBFCNEBWMjk6kvwjHQT) | [You Thought We Left Because The Door Was Open But We Were Waiting Outside](https://open.spotify.com/album/3njVnwW9KBX7kIZDJdA1dS) | 2:08 |
 | 120 | [Once More](https://open.spotify.com/track/3pI9rsup0vcma9YE0PI10t) | [Bathe Alone](https://open.spotify.com/artist/384r9G0NILqkGrQL8IPMkC) | [Once More](https://open.spotify.com/album/33MciQPUWvqtKSCb1WPRG7) | 3:24 |
 
-Snapshot ID: `MTY2MjEzNTcyMCwwMDAwMDAwMDExZDdmNGRkOTBkOTY2ZDQxYWUxNmUwZDkyMGQ4Yjcx`
+Snapshot ID: `MTY2MjEzNTcyMCwwMDAwMDAwMDllMWRlMWZmYWVlYWZkODgxZjhjYTgwNTgzZTk4NTQx`

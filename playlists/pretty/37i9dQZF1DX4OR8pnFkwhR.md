@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: Bialystocks
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,436 likes - 57 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,445 likes - 57 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 56 | [ダンスフロア](https://open.spotify.com/track/4DB9XpxWVdGXsHjX8YoIzF) | [LAYRUS LOOP](https://open.spotify.com/artist/3EO554jUf79NLR9mBuD2vk) | [ダンスフロアEP](https://open.spotify.com/album/0OqXDoI0GTKevz8B96ueE9) | 3:55 |
 | 57 | [Hitono Katachi](https://open.spotify.com/track/04HdAkdqkHsxE6g4pCtKvx) | [Limre](https://open.spotify.com/artist/7hDICOxRG5iwTYyMUiYSHT) | [Limre](https://open.spotify.com/album/5CK1FaKsSogYM6ufKrUcv3) | 2:27 |
 
-Snapshot ID: `MTY2MjA0NDQwMCwwMDAwMDAwMDI0YjdmMWY0NWNhNzU2ZTZiNTk1YTg5YmU1ODk4YjNj`
+Snapshot ID: `MTY2MjI5NTA1OCwwMDAwMDAwMDk2ZGEyNmE2ZGUyNTZiMTU5N2JjYmM2ZWVlYTFjY2Q1`

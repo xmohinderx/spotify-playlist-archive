@@ -1,12 +1,12 @@
 {
   "description": "A collection of tracks produced with the legendary TB-303 rhythm composer. Cover: Richie Hawtin",
-  "num_followers": 50187,
+  "num_followers": 50240,
   "original_name": "303 Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzNTI1NjAyOSwwMDAwMDAwMDk3NDRiYTcyNDYwZjZhNWJlYTcwOTY5MTlkMGJkZTQ0",
+  "snapshot_id": "MTYzNTI1NjAyOSwwMDAwMDAwMGU0YTJlNTFjZjhkM2U3ZTNmMmFkZGRmMmM0ZDk3YTkx",
   "tracks": [
     {
       "added_at": "2021-10-22 11:07:27",
@@ -223,18 +223,18 @@
     {
       "added_at": "2021-10-22 11:07:27",
       "album": {
-        "name": "TB Resucitation",
-        "url": "https://open.spotify.com/album/2ucG4BEW3uOUQgjdJ9c5GN"
+        "name": "Richard D. James Album",
+        "url": "https://open.spotify.com/album/43s2fKRQsOSB6rSrxtAXKK"
       },
       "artists": [
         {
-          "name": "Hardfloor",
-          "url": "https://open.spotify.com/artist/6z9JhbmcTrVKITp9ah4mJk"
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
         }
       ],
-      "duration_ms": 542939,
-      "name": "Acperience 1",
-      "url": "https://open.spotify.com/track/2IQ61J0AFfjnxBm4lQEU0W"
+      "duration_ms": 134840,
+      "name": "Cornish Acid",
+      "url": "https://open.spotify.com/track/5c3ZNT6iY8Kz6nHBATTeRs"
     },
     {
       "added_at": "2021-10-22 11:07:27",
@@ -255,6 +255,22 @@
     {
       "added_at": "2021-10-22 11:07:27",
       "album": {
+        "name": "TB Resucitation",
+        "url": "https://open.spotify.com/album/2ucG4BEW3uOUQgjdJ9c5GN"
+      },
+      "artists": [
+        {
+          "name": "Hardfloor",
+          "url": "https://open.spotify.com/artist/6z9JhbmcTrVKITp9ah4mJk"
+        }
+      ],
+      "duration_ms": 542939,
+      "name": "Acperience 1",
+      "url": "https://open.spotify.com/track/2IQ61J0AFfjnxBm4lQEU0W"
+    },
+    {
+      "added_at": "2021-10-22 11:07:27",
+      "album": {
         "name": "Frequencies",
         "url": "https://open.spotify.com/album/5HJhDqS70hQWNdOwQjY5b0"
       },
@@ -267,22 +283,6 @@
       "duration_ms": 207960,
       "name": "LFO (Leeds Warehouse Mix)",
       "url": "https://open.spotify.com/track/1ENkpHz1LU2JlH0g3HnO2W"
-    },
-    {
-      "added_at": "2021-10-22 11:07:27",
-      "album": {
-        "name": "Richard D. James Album",
-        "url": "https://open.spotify.com/album/43s2fKRQsOSB6rSrxtAXKK"
-      },
-      "artists": [
-        {
-          "name": "Aphex Twin",
-          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
-        }
-      ],
-      "duration_ms": 134840,
-      "name": "Cornish Acid",
-      "url": "https://open.spotify.com/track/5c3ZNT6iY8Kz6nHBATTeRs"
     },
     {
       "added_at": "2021-10-22 11:07:27",
@@ -559,26 +559,6 @@
     {
       "added_at": "2021-10-22 11:07:27",
       "album": {
-        "name": "Blade The Soundtrack",
-        "url": "https://open.spotify.com/album/5BwN4Go6f0QUAO3xVPoj38"
-      },
-      "artists": [
-        {
-          "name": "Various Artists",
-          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
-        },
-        {
-          "name": "New Order",
-          "url": "https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3"
-        }
-      ],
-      "duration_ms": 612101,
-      "name": "Confusion - Pump Panel Reconstruction Mix",
-      "url": "https://open.spotify.com/track/3QDbZBqR93chaaMuNScmrc"
-    },
-    {
-      "added_at": "2021-10-22 11:07:27",
-      "album": {
         "name": "The Garden of Eden",
         "url": "https://open.spotify.com/album/1YHqqYaDOVkOHZAMZDFmqv"
       },
@@ -591,22 +571,6 @@
       "duration_ms": 241875,
       "name": "The Garden of Eden (A Himalayan Song)",
       "url": "https://open.spotify.com/track/4zaf5qzolYOVprALV0NAZ8"
-    },
-    {
-      "added_at": "2021-10-22 11:07:27",
-      "album": {
-        "name": "I Have a Question",
-        "url": "https://open.spotify.com/album/4LX7G0ldbZDlJPBZGOhPW5"
-      },
-      "artists": [
-        {
-          "name": "K-Hand",
-          "url": "https://open.spotify.com/artist/0qWuk2qgRK2HNKYxqbIn5G"
-        }
-      ],
-      "duration_ms": 361402,
-      "name": "Sound 6",
-      "url": "https://open.spotify.com/track/1YNgwOjLp0zJWf4qJwQe4l"
     },
     {
       "added_at": "2021-10-22 11:07:27",
@@ -627,6 +591,42 @@
       "duration_ms": 306143,
       "name": "Substance Abuse",
       "url": "https://open.spotify.com/track/3yo5BnK1cWRuAIMbJReCMZ"
+    },
+    {
+      "added_at": "2021-10-22 11:07:27",
+      "album": {
+        "name": "I Have a Question",
+        "url": "https://open.spotify.com/album/4LX7G0ldbZDlJPBZGOhPW5"
+      },
+      "artists": [
+        {
+          "name": "K-Hand",
+          "url": "https://open.spotify.com/artist/0qWuk2qgRK2HNKYxqbIn5G"
+        }
+      ],
+      "duration_ms": 361402,
+      "name": "Sound 6",
+      "url": "https://open.spotify.com/track/1YNgwOjLp0zJWf4qJwQe4l"
+    },
+    {
+      "added_at": "2021-10-22 11:07:27",
+      "album": {
+        "name": "Blade The Soundtrack",
+        "url": "https://open.spotify.com/album/5BwN4Go6f0QUAO3xVPoj38"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        {
+          "name": "New Order",
+          "url": "https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3"
+        }
+      ],
+      "duration_ms": 612101,
+      "name": "Confusion - Pump Panel Reconstruction Mix",
+      "url": "https://open.spotify.com/track/3QDbZBqR93chaaMuNScmrc"
     },
     {
       "added_at": "2021-10-22 11:07:27",
@@ -747,22 +747,6 @@
     {
       "added_at": "2021-10-22 11:07:27",
       "album": {
-        "name": "Behaviour: Further Listening 1990 - 1991 (2018 Remaster)",
-        "url": "https://open.spotify.com/album/52coGwksoCtU0ZfSjgGRET"
-      },
-      "artists": [
-        {
-          "name": "Pet Shop Boys",
-          "url": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
-        }
-      ],
-      "duration_ms": 247000,
-      "name": "Miserablism - 2018 Remaster",
-      "url": "https://open.spotify.com/track/6DRXOyjJK2HN3tgl1LbACA"
-    },
-    {
-      "added_at": "2021-10-22 11:07:27",
-      "album": {
         "name": "HAVEL",
         "url": "https://open.spotify.com/album/3pFWjCpLWiqqzuTcKRxwl7"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 210449,
       "name": "TAKE YOUR LIFE",
       "url": "https://open.spotify.com/track/2nl2twiYDrw6PAT4cy2Uev"
+    },
+    {
+      "added_at": "2021-10-22 11:07:27",
+      "album": {
+        "name": "Behaviour: Further Listening 1990 - 1991 (2018 Remaster)",
+        "url": "https://open.spotify.com/album/52coGwksoCtU0ZfSjgGRET"
+      },
+      "artists": [
+        {
+          "name": "Pet Shop Boys",
+          "url": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
+        }
+      ],
+      "duration_ms": 247000,
+      "name": "Miserablism - 2018 Remaster",
+      "url": "https://open.spotify.com/track/6DRXOyjJK2HN3tgl1LbACA"
     },
     {
       "added_at": "2021-10-22 11:07:27",

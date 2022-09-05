@@ -965,7 +965,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-05",
       "duration_ms": 240000,
       "name": "Context",
       "url": "https://open.spotify.com/track/5BjXiQdBBy10FQemhcRqIS"
@@ -987,6 +987,24 @@
       "duration_ms": 282000,
       "name": "Cosmopolitan",
       "url": "https://open.spotify.com/track/2e9cFzK33DGQC7mFGttobb"
+    },
+    {
+      "album": {
+        "name": "Drive",
+        "url": "https://open.spotify.com/album/5Jj425whuDpbmHTprH49gT"
+      },
+      "artists": [
+        {
+          "name": "Luxage",
+          "url": "https://open.spotify.com/artist/1ZUN1O63nFh4ajvR294QMW"
+        }
+      ],
+      "date_added": "2021-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282000,
+      "name": "Cosmopolitan",
+      "url": "https://open.spotify.com/track/6oPoNJcfeXXBAjLwNmiVds"
     },
     {
       "album": {
@@ -1387,6 +1405,32 @@
       "duration_ms": 226978,
       "name": "Empty Room - Cabu Remix",
       "url": "https://open.spotify.com/track/7dEYUkZMdUs7rfOKRMr5lO"
+    },
+    {
+      "album": {
+        "name": "Escape Reality",
+        "url": "https://open.spotify.com/album/5tHeGvKuuTHaMiddXUAqGL"
+      },
+      "artists": [
+        {
+          "name": "munro",
+          "url": "https://open.spotify.com/artist/2g9CpiC5J4Rwl38OsLholH"
+        },
+        {
+          "name": "Serion",
+          "url": "https://open.spotify.com/artist/1daCx1huhWZa5aLc1KK9hs"
+        },
+        {
+          "name": "dabl",
+          "url": "https://open.spotify.com/artist/5fk3KGv5y9AzvEZJG4yZW9"
+        }
+      ],
+      "date_added": "2021-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211200,
+      "name": "Escape Reality",
+      "url": "https://open.spotify.com/track/4EcsGwSei1YStJRy3lbpzt"
     },
     {
       "album": {
@@ -3419,7 +3463,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-05",
       "duration_ms": 181242,
       "name": "overwhelmed - Ookay remix",
       "url": "https://open.spotify.com/track/64zyMkiyBPSyCUgLl4AIXB"

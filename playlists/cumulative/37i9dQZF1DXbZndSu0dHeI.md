@@ -4,7 +4,7 @@
 
 > Sometimes it's nice to be nice, you know.
 
-328 songs - 19 hr 55 min - [published](https://open.spotify.com/playlist/2x6wDidT6OVKVCyYz3g29W)
+329 songs - 19 hr 59 min - [published](https://open.spotify.com/playlist/2x6wDidT6OVKVCyYz3g29W)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [Heartbeats](https://open.spotify.com/track/5YqpHuXpFjDVZ7tY1ClFll) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Veneer](https://open.spotify.com/album/2e0BYdQ7VJlzSNHafdmfrl) | 2:41 | 2022-06-22 |  |
 | [Heavy](https://open.spotify.com/track/12SNjNi5VAKp8e5aMMM9wf) | [Jake Whiskin](https://open.spotify.com/artist/5OvCTHhlz7qB2JAzc5b0Dq) | [Heavy](https://open.spotify.com/album/7dUD4ppwM31nPExpUTPQuj) | 3:45 | 2021-11-12 | 2022-01-01 |
 | [Held Down](https://open.spotify.com/track/1vlDwedZUvYaxt2FXoYGaJ) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Song For Our Daughter](https://open.spotify.com/album/0ubXthGSkZfe30Nuj91lcu) | 4:07 | 2021-11-12 |  |
+| [Her](https://open.spotify.com/track/3vOfOukwKoWE6AGRXscucS) | [FUR](https://open.spotify.com/artist/0e0z6v7dIm0XM7BgQTtB0a) | [Her](https://open.spotify.com/album/5SlWmYvt5uc2ga9MmkUxBH) | 3:51 | 2022-08-05 |  |
 | [Heroin Honey](https://open.spotify.com/track/2KiFvih9wyfXy3uZ5B19hX) | [Blondmodel](https://open.spotify.com/artist/4djxhTu96p6BxBTQxsNAGE) | [Heroin Honey](https://open.spotify.com/album/5J2UkIl4QkgJKHTmQYnU3g) | 3:22 | 2021-11-12 | 2022-04-14 |
 | [Hesitate](https://open.spotify.com/track/1ppEEYAE2NnM3xk7rC7EQL) | [Make Friends](https://open.spotify.com/artist/7dxUKrjbdkaAl1nCCYblq7) | [Hesitate](https://open.spotify.com/album/4WmmqIIKrqmoSVW4whdsVn) | 3:43 | 2021-11-12 | 2022-07-29 |
 | [Hey You Hop Up](https://open.spotify.com/track/7oGEIPdLIXCeHNHPjU2v2f) | [Orlando Weeks](https://open.spotify.com/artist/5K9Px0eeCuYatmBGFfhSOA) | [Hop Up](https://open.spotify.com/album/2aPLSAu2Eujekx57UtM2qx) | 3:11 | 2022-02-04 | 2022-07-25 |
@@ -196,7 +197,7 @@
 | [Mine Forever](https://open.spotify.com/track/6fGNYNyM6PL9qE6kkFaW49) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Mine Forever](https://open.spotify.com/album/5vPc0ab8XurwCozeAu1xp6) | 4:48 | 2021-11-12 |  |
 | [Mona Lisa](https://open.spotify.com/track/2JU0uzd2D1JxsvYsfEwZEe) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [Mona Lisa](https://open.spotify.com/album/4HWQr1DMWpRjlLf871CWe5) | 3:33 | 2021-11-12 | 2022-07-26 |
 | [More Like You](https://open.spotify.com/track/2cKHnVTfjxDaDYnMUyhZwU) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Woman on the Internet](https://open.spotify.com/album/3TEaY5Lqzymo0AVv2HkQep) | 3:40 | 2021-11-12 |  |
-| [Moves](https://open.spotify.com/track/56m9pSdW8e56jiadoFKuu8) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Moves](https://open.spotify.com/album/5kMj4ooSnYk9MUCedMrhi7) | 3:13 | 2021-11-12 |  |
+| [Moves](https://open.spotify.com/track/56m9pSdW8e56jiadoFKuu8) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Moves](https://open.spotify.com/album/5kMj4ooSnYk9MUCedMrhi7) | 3:13 | 2021-11-12 | 2022-09-05 |
 | [Muddy Waters](https://open.spotify.com/track/3XJ1GdicdMxdCru9Be8vzy) | [Max Pope](https://open.spotify.com/artist/1pW42WHCsBicnNoBkcbD7i) | [Muddy Waters](https://open.spotify.com/album/5zg12qv7QIpjNkqkM7cTBy) | 3:01 | 2022-03-19 | 2022-07-27 |
 | [My House](https://open.spotify.com/track/2zsmJ1AE5MlLfVrwaCytiD) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [My House](https://open.spotify.com/album/3T9SMHvZrlOst5HCTVr2CP) | 4:16 | 2021-11-12 | 2022-07-29 |
 | [My House](https://open.spotify.com/track/5kuSneVOTmvanncpK3RZcl) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [My House](https://open.spotify.com/album/7sSEGFxjJTaT1amaNYOmWD) | 4:16 | 2022-06-22 |  |

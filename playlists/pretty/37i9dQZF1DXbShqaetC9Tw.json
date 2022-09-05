@@ -1,12 +1,12 @@
 {
   "description": "\uc0c8\ubcbd \uac10\uc131. Issa Vibe.",
-  "num_followers": 66944,
+  "num_followers": 67045,
   "original_name": "4:00 AM GROOVE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDgxNDU2NCwwMDAwMDAwMDNkNTE1MDQ1ODg1OWYwNWY3ZmVlNDI0MmMwMDlkYWE2",
+  "snapshot_id": "MTY2MDgxNDU2NCwwMDAwMDAwMDgwZDQ2OGMxMDkxNzEwYzdlZmI0NDkwNWM0OGI5OTdk",
   "tracks": [
     {
       "added_at": "2022-08-18 09:22:44",
@@ -847,6 +847,22 @@
     {
       "added_at": "2022-08-18 09:22:44",
       "album": {
+        "name": "Do monsters love too?",
+        "url": "https://open.spotify.com/album/0Cjq5fozD4xkUdJ3jssHET"
+      },
+      "artists": [
+        {
+          "name": "Eldon",
+          "url": "https://open.spotify.com/artist/04GW9HXt9A5aPSNIVBf6m4"
+        }
+      ],
+      "duration_ms": 173080,
+      "name": "Mliy",
+      "url": "https://open.spotify.com/track/1CO0sMbcKm7gDP0bcdb0pu"
+    },
+    {
+      "added_at": "2022-08-18 09:22:44",
+      "album": {
         "name": "PARADISE",
         "url": "https://open.spotify.com/album/6tZgKm7KhNVXy6gvRxzcfS"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 214506,
       "name": "PARADISE",
       "url": "https://open.spotify.com/track/4r7D85ESaUKC73NxfpQGsC"
-    },
-    {
-      "added_at": "2022-08-18 09:22:44",
-      "album": {
-        "name": "Do monsters love too?",
-        "url": "https://open.spotify.com/album/0Cjq5fozD4xkUdJ3jssHET"
-      },
-      "artists": [
-        {
-          "name": "Eldon",
-          "url": "https://open.spotify.com/artist/04GW9HXt9A5aPSNIVBf6m4"
-        }
-      ],
-      "duration_ms": 173080,
-      "name": "Mliy",
-      "url": "https://open.spotify.com/track/1CO0sMbcKm7gDP0bcdb0pu"
     },
     {
       "added_at": "2022-08-18 09:22:44",

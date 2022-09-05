@@ -1,12 +1,12 @@
 {
   "description": "Explore the dazzling sound of Japanese City Pop from the \u201880s./ \u90fd\u4f1a\u306e\u591c\u3092\u30af\u30eb\u30fc\u30b8\u30f3\u30b0\u3001\u9031\u672b\u306f\u6d77\u8fba\u3067\u30ea\u30be\u30fc\u30c8\u6c17\u5206\u3002\u714c\u3081\u304d\u306b\u6e80\u3061\u305f\u6bce\u65e5\u3092\u5f69\u3063\u305f\u3001\u9ec4\u91d1\u671f\u306e\u30b7\u30c6\u30a3\u30dd\u30c3\u30d7 \u3002",
-  "num_followers": 76503,
+  "num_followers": 76631,
   "original_name": "City Pop '80s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjQyODQwMCwwMDAwMDAwMGYyZmM2NGFiNjE0YWE1ZWYzYzljOTZmMGM5ZGE3OWFj",
+  "snapshot_id": "MTY1NjQyODQwMCwwMDAwMDAwMDMwM2FkZDg1MjczZjU0ZjZlZjBjYjBiZjg4Y2QxOTky",
   "tracks": [
     {
       "added_at": "2022-06-28 15:00:00",
@@ -615,22 +615,6 @@
     {
       "added_at": "2022-06-28 15:00:00",
       "album": {
-        "name": "\u30c9\u30ea\u30fc\u30e0\u30a4\u30f3\u30b6\u30b9\u30c8\u30ea\u30fc\u30c8",
-        "url": "https://open.spotify.com/album/1PiaTy82mFLT9PTj2GsLuH"
-      },
-      "artists": [
-        {
-          "name": "\u6c60\u7530\u5178\u4ee3",
-          "url": "https://open.spotify.com/artist/5FlsplkyPTzOB2aWgz2X1M"
-        }
-      ],
-      "duration_ms": 298786,
-      "name": "Dream In The Street",
-      "url": "https://open.spotify.com/track/1SmMLu0AFRNt2V83d12C2s"
-    },
-    {
-      "added_at": "2022-06-28 15:00:00",
-      "album": {
         "name": "PEARL PIERCE",
         "url": "https://open.spotify.com/album/2KftKQGKx6r6zREGJq1cLa"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 344219,
       "name": "\u771f\u73e0\u306e\u30d4\u30a2\u30b9",
       "url": "https://open.spotify.com/track/6D51xQYMQkh6LFOFlp3Gad"
+    },
+    {
+      "added_at": "2022-06-28 15:00:00",
+      "album": {
+        "name": "\u30c9\u30ea\u30fc\u30e0\u30a4\u30f3\u30b6\u30b9\u30c8\u30ea\u30fc\u30c8",
+        "url": "https://open.spotify.com/album/1PiaTy82mFLT9PTj2GsLuH"
+      },
+      "artists": [
+        {
+          "name": "\u6c60\u7530\u5178\u4ee3",
+          "url": "https://open.spotify.com/artist/5FlsplkyPTzOB2aWgz2X1M"
+        }
+      ],
+      "duration_ms": 298786,
+      "name": "Dream In The Street",
+      "url": "https://open.spotify.com/track/1SmMLu0AFRNt2V83d12C2s"
     },
     {
       "added_at": "2022-06-28 15:00:00",
@@ -759,22 +759,6 @@
     {
       "added_at": "2022-06-28 15:00:00",
       "album": {
-        "name": "EDGE OF TIME",
-        "url": "https://open.spotify.com/album/1AQ8E6n2dX0GBE53bGL7hj"
-      },
-      "artists": [
-        {
-          "name": "Junichi Inagaki",
-          "url": "https://open.spotify.com/artist/7tZ4vIF5bfR7cI1VOVPvpy"
-        }
-      ],
-      "duration_ms": 337306,
-      "name": "\u30b5\u30b6\u30f3\u30af\u30ed\u30b9",
-      "url": "https://open.spotify.com/track/1kRBdvP2yok6k2mL0xxLWq"
-    },
-    {
-      "added_at": "2022-06-28 15:00:00",
-      "album": {
         "name": "cliche (Mastered by Bernie Grundman)",
         "url": "https://open.spotify.com/album/4al3d0A9Ial2N26xVMa2EM"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 214240,
       "name": "\u8272\u5f69\u90fd\u5e02",
       "url": "https://open.spotify.com/track/1NPwuNYRugoQz8y5HTnIBL"
+    },
+    {
+      "added_at": "2022-06-28 15:00:00",
+      "album": {
+        "name": "EDGE OF TIME",
+        "url": "https://open.spotify.com/album/1AQ8E6n2dX0GBE53bGL7hj"
+      },
+      "artists": [
+        {
+          "name": "Junichi Inagaki",
+          "url": "https://open.spotify.com/artist/7tZ4vIF5bfR7cI1VOVPvpy"
+        }
+      ],
+      "duration_ms": 337306,
+      "name": "\u30b5\u30b6\u30f3\u30af\u30ed\u30b9",
+      "url": "https://open.spotify.com/track/1kRBdvP2yok6k2mL0xxLWq"
     },
     {
       "added_at": "2022-06-28 15:00:00",

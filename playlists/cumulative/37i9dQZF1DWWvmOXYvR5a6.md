@@ -4,7 +4,7 @@
 
 > Trendy x Chill K\-Hip Hop\.  \(Cover: IOHBOY\(아이오보이\)\) \(트렌디 x 칠! 세련되고 듣기 편한 힙합음악들을 즐겨보세요.\)
 
-512 songs - 1 day 4 hr 2 min - [published](https://open.spotify.com/playlist/6YybdrER9IpLcTWs3zQt76)
+513 songs - 1 day 4 hr 5 min - [published](https://open.spotify.com/playlist/6YybdrER9IpLcTWs3zQt76)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Beatle Beatle](https://open.spotify.com/track/2xnn0dlXTHgLy20P5Z4Ku2) | [Hash Swan](https://open.spotify.com/artist/3yVEZNS0ateVfoj8FuazKg) | [Drawing](https://open.spotify.com/album/36bYb8t0HlEwhVqgfd4iBF) | 2:47 | 2022-04-01 | 2022-06-26 |
 | [Beautiful \(Feat\. Skinny Brown\)](https://open.spotify.com/track/3J6NzKxov6PDE1LC99gXV8) | [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE), [Skinny Brown](https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX) | [ISLAND](https://open.spotify.com/album/5FyZZQnOzCUzAMWmeWbQhO) | 2:54 | 2022-04-01 |  |
 | [BEBE](https://open.spotify.com/track/6mrdTsiYQs9KzemKKu2Rx5) | [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b), [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw) | [BIPOLAR](https://open.spotify.com/album/7jfWOLdcSrB7Q4TgRFDwXZ) | 3:05 | 2022-06-18 | 2022-06-26 |
-| [Because](https://open.spotify.com/track/08xMOoUaMWWlNStVUdBTBC) | [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE) | [Because](https://open.spotify.com/album/5uwBi26yP09mvt51AAQtY9) | 3:16 | 2022-04-01 |  |
+| [Because](https://open.spotify.com/track/08xMOoUaMWWlNStVUdBTBC) | [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE) | [Because](https://open.spotify.com/album/5uwBi26yP09mvt51AAQtY9) | 3:16 | 2022-04-01 | 2022-09-05 |
 | [Because I Was Young](https://open.spotify.com/track/5pGCRUSMcQ5OrezFaDxKHq) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [Because I Was Young](https://open.spotify.com/album/0l7iV8S15L6uJyAJwjKn3u) | 3:16 | 2022-04-21 | 2022-07-28 |
 | [Beer \(Prod.Way Ched\)](https://open.spotify.com/track/3w9HSuLDejveVS9G8Qj8i0) | [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b), [Hash Swan](https://open.spotify.com/artist/3yVEZNS0ateVfoj8FuazKg), [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE), [Keem Hyo\-Eun](https://open.spotify.com/artist/59KuGY6nfY3w39O0qYVA7p), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy) | [Dingo X Ambition Musik](https://open.spotify.com/album/3naaXqEfJnwlSqyFshTwlF) | 4:00 | 2022-07-24 | 2022-08-12 |
 | [being friends suck](https://open.spotify.com/track/3ZheaNstMAwG3uTbAoaZCG) | [San E](https://open.spotify.com/artist/61MMiylth1injW39oZBuYB), [GirlFrenD](https://open.spotify.com/artist/3HFox5DosAsJrKOwfwTf2A) | [Look! What Happened To Love?!](https://open.spotify.com/album/2ovR3PGbVdHUMikX20rb8L) | 3:09 | 2022-04-21 | 2022-07-13 |
@@ -125,6 +125,7 @@
 | [Earphone](https://open.spotify.com/track/3Z32X2KetQtfp40lMU90CN) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [BOYCOLD](https://open.spotify.com/album/5ymwUauRI4kY2omHdBkGUt) | 3:18 | 2022-04-21 | 2022-07-29 |
 | [EGG RICE](https://open.spotify.com/track/4pen9dLfeSHfI3uuXibiYU) | [Los](https://open.spotify.com/artist/396SgLoc5TB6oqatyTy2HD), [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw) | [EGG RICE](https://open.spotify.com/album/2iiHvjADaBZPSqt91XTb2z) | 2:51 | 2022-05-28 | 2022-07-15 |
 | [EMPTY GLASS \(Feat\. Bona Zoe\) \(Prod\. TOIL\)](https://open.spotify.com/track/2YOybbhiuvqlJhVi1FpjhK) | [SINCE](https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616), [Bona Zoe](https://open.spotify.com/artist/1Y0vVGBkBNCcR0swcfXR1z) | [HIGH RISK HIGH RETURN](https://open.spotify.com/album/340j9Dgw9Nuy772bHowbih) | 3:43 | 2022-08-17 |  |
+| [Empty Head](https://open.spotify.com/track/2mPR6yNoDn0IN8vqtz1Yrx) | [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE) | [Empty Head](https://open.spotify.com/album/7MonuyQ2VRF1qGQXnzKwUF) | 3:05 | 2022-08-31 |  |
 | [Empty Head](https://open.spotify.com/track/6qdtmJKEOmmDxt3AEbOPfd) | [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE) | [Empty Head](https://open.spotify.com/album/5C1m57Tts5Tc94UBeSLrYC) | 3:05 | 2022-04-21 | 2022-06-20 |
 | [End of the World](https://open.spotify.com/track/0jtVg4s7gv44qWwCnqBBWP) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [GSoul](https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL) | [Epik High Is Here 上 \(Part 1\)](https://open.spotify.com/album/5U1iQJeJurJANhdos9GugT) | 3:34 | 2022-04-01 | 2022-07-29 |
 | [End of the World \(Feat\. GSoul\)](https://open.spotify.com/track/5ZO2kMfYHuKXoAShKuXjZn) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [GSoul](https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL) | [Epik High Is Here 上 \(Part 1\)](https://open.spotify.com/album/5MH95tw9aZo7ayqkfsRzMu) | 3:34 | 2022-07-24 |  |

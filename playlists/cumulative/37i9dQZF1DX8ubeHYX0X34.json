@@ -1948,6 +1948,24 @@
     },
     {
       "album": {
+        "name": "Menu Tere Naal",
+        "url": "https://open.spotify.com/album/0OGbQTatg4K6ku9uIfiv7A"
+      },
+      "artists": [
+        {
+          "name": "Najam Sherzah",
+          "url": "https://open.spotify.com/artist/7kE3mAkSMktMSuLRnr9QXr"
+        }
+      ],
+      "date_added": "2021-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345213,
+      "name": "Menu Tere Naal",
+      "url": "https://open.spotify.com/track/7yafPTMrC1Cev2zGJ2NWNk"
+    },
+    {
+      "album": {
         "name": "Dhaani",
         "url": "https://open.spotify.com/album/21luKloROzEZKHzgbhye2U"
       },
@@ -2271,7 +2289,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-05",
       "duration_ms": 218400,
       "name": "Nahin Hai Yeh Pyar",
       "url": "https://open.spotify.com/track/565wNlsWcWTAYXdtvLys1u"

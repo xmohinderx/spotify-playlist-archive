@@ -1,12 +1,12 @@
 {
   "description": "A feel-good soulful house  and disco selection.",
-  "num_followers": 330613,
+  "num_followers": 330314,
   "original_name": "Groove Theory",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzAxNTcyNSwwMDAwMDAwMDIzODY0OTY3N2E1MDcwYmYyNGVjN2NlN2Y1OWZiZjE1",
+  "snapshot_id": "MTY0NzAxNTcyNSwwMDAwMDAwMGM5NWZmYWI0YmNiMzcyZmEyNmVmYWZiYzExNmMyYWEy",
   "tracks": [
     {
       "added_at": "2022-03-11 16:22:05",
@@ -319,18 +319,18 @@
     {
       "added_at": "2022-03-11 16:22:05",
       "album": {
-        "name": "Something About",
-        "url": "https://open.spotify.com/album/3qlZd2dgippiunzkO8D0pM"
+        "name": "My House",
+        "url": "https://open.spotify.com/album/240UfV3VITJsiUJjn3dKhf"
       },
       "artists": [
         {
-          "name": "CRi",
-          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
+          "name": "Jodie Harsh",
+          "url": "https://open.spotify.com/artist/0470FSE19wkoZe4R06GW9i"
         }
       ],
-      "duration_ms": 224826,
-      "name": "Something About",
-      "url": "https://open.spotify.com/track/5z3Qr6kEyJiZhB0WHJSmCQ"
+      "duration_ms": 175413,
+      "name": "My House",
+      "url": "https://open.spotify.com/track/2nIaXCaDBXXALg3gKajbLB"
     },
     {
       "added_at": "2022-03-11 16:22:05",
@@ -351,18 +351,18 @@
     {
       "added_at": "2022-03-11 16:22:05",
       "album": {
-        "name": "My House",
-        "url": "https://open.spotify.com/album/240UfV3VITJsiUJjn3dKhf"
+        "name": "Something About",
+        "url": "https://open.spotify.com/album/3qlZd2dgippiunzkO8D0pM"
       },
       "artists": [
         {
-          "name": "Jodie Harsh",
-          "url": "https://open.spotify.com/artist/0470FSE19wkoZe4R06GW9i"
+          "name": "CRi",
+          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
         }
       ],
-      "duration_ms": 175413,
-      "name": "My House",
-      "url": "https://open.spotify.com/track/2nIaXCaDBXXALg3gKajbLB"
+      "duration_ms": 224826,
+      "name": "Something About",
+      "url": "https://open.spotify.com/track/5z3Qr6kEyJiZhB0WHJSmCQ"
     },
     {
       "added_at": "2022-03-11 16:22:05",
@@ -927,6 +927,26 @@
     {
       "added_at": "2022-03-11 16:22:05",
       "album": {
+        "name": "Sometimes",
+        "url": "https://open.spotify.com/album/0ln5gUk6tfxo2Ie8vQOCM1"
+      },
+      "artists": [
+        {
+          "name": "DJ Island",
+          "url": "https://open.spotify.com/artist/0B8uvQRg70TpBi26MKtJxY"
+        },
+        {
+          "name": "Monkey Safari",
+          "url": "https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa"
+        }
+      ],
+      "duration_ms": 354365,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/5zFSTUf1xX6auJSx31m5kq"
+    },
+    {
+      "added_at": "2022-03-11 16:22:05",
+      "album": {
         "name": "Keep Me In The Dark (feat. Jim Junior)",
         "url": "https://open.spotify.com/album/0c7XA5RkZVU6Cbl4tfyP8M"
       },
@@ -959,26 +979,6 @@
       "duration_ms": 250862,
       "name": "Closer",
       "url": "https://open.spotify.com/track/2uRCNWP7u6JSo1ypJ7qJMx"
-    },
-    {
-      "added_at": "2022-03-11 16:22:05",
-      "album": {
-        "name": "Sometimes",
-        "url": "https://open.spotify.com/album/0ln5gUk6tfxo2Ie8vQOCM1"
-      },
-      "artists": [
-        {
-          "name": "DJ Island",
-          "url": "https://open.spotify.com/artist/0B8uvQRg70TpBi26MKtJxY"
-        },
-        {
-          "name": "Monkey Safari",
-          "url": "https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa"
-        }
-      ],
-      "duration_ms": 354365,
-      "name": "Sometimes",
-      "url": "https://open.spotify.com/track/5zFSTUf1xX6auJSx31m5kq"
     },
     {
       "added_at": "2022-03-11 16:22:05",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2022-03-11 16:22:05",
       "album": {
-        "name": "You Are the Sun",
-        "url": "https://open.spotify.com/album/6SjcvByXu9QPvEJv01SI7Q"
-      },
-      "artists": [
-        {
-          "name": "TEE MANGO",
-          "url": "https://open.spotify.com/artist/67tocPg0kong7iBiBWQiFH"
-        }
-      ],
-      "duration_ms": 408889,
-      "name": "You Are the Sun - Sun Up Mix",
-      "url": "https://open.spotify.com/track/7LE9T4XBDParc9tDvNf29H"
-    },
-    {
-      "added_at": "2022-03-11 16:22:05",
-      "album": {
         "name": "My Love",
         "url": "https://open.spotify.com/album/6MierPcAi3tuJ4MKd74vKF"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 165000,
       "name": "My Love",
       "url": "https://open.spotify.com/track/3G5oXaBG274gRp1aHjnMvu"
+    },
+    {
+      "added_at": "2022-03-11 16:22:05",
+      "album": {
+        "name": "You Are the Sun",
+        "url": "https://open.spotify.com/album/6SjcvByXu9QPvEJv01SI7Q"
+      },
+      "artists": [
+        {
+          "name": "TEE MANGO",
+          "url": "https://open.spotify.com/artist/67tocPg0kong7iBiBWQiFH"
+        }
+      ],
+      "duration_ms": 408889,
+      "name": "You Are the Sun - Sun Up Mix",
+      "url": "https://open.spotify.com/track/7LE9T4XBDParc9tDvNf29H"
     },
     {
       "added_at": "2022-03-11 16:22:05",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2022-03-11 16:22:05",
       "album": {
-        "name": "What Ya Here For?",
-        "url": "https://open.spotify.com/album/6z9WzYceZqPgG45iTxiYFf"
-      },
-      "artists": [
-        {
-          "name": "Dj Streaks",
-          "url": "https://open.spotify.com/artist/67YkGjtw8rmC6Ck0GmoxFA"
-        }
-      ],
-      "duration_ms": 260256,
-      "name": "What Ya Here For?",
-      "url": "https://open.spotify.com/track/27rjwJcRIohIoNI4GNewxo"
-    },
-    {
-      "added_at": "2022-03-11 16:22:05",
-      "album": {
         "name": "All Love",
         "url": "https://open.spotify.com/album/01BTDb8xUH6RDHrVpfVANB"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 330579,
       "name": "All Love",
       "url": "https://open.spotify.com/track/5CYtyWsyAEmPfn6OcbG921"
+    },
+    {
+      "added_at": "2022-03-11 16:22:05",
+      "album": {
+        "name": "What Ya Here For?",
+        "url": "https://open.spotify.com/album/6z9WzYceZqPgG45iTxiYFf"
+      },
+      "artists": [
+        {
+          "name": "Dj Streaks",
+          "url": "https://open.spotify.com/artist/67YkGjtw8rmC6Ck0GmoxFA"
+        }
+      ],
+      "duration_ms": 260256,
+      "name": "What Ya Here For?",
+      "url": "https://open.spotify.com/track/27rjwJcRIohIoNI4GNewxo"
     }
   ],
   "unique_name": "Groove Theory",

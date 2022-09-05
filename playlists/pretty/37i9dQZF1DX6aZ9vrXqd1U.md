@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aZ9vrXqd1U.md) - [plain]
 
 > Enjoy music from GUNDAM series! ガンダムシリーズを彩る楽曲を1つのプレイリストで。
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,545 likes - 120 songs - 8 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,586 likes - 120 songs - 8 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aZ9vrXqd1U.md) - [plain]
 | 31 | [めぐりあい](https://open.spotify.com/track/4tbhACZfGzzsyWAe65uY8S) | [Daisuke Inoue](https://open.spotify.com/artist/3kyDvSFMl3B0U59KuJUB5g) | [めぐりあい](https://open.spotify.com/album/7laEqm4NggEgKK68Qg9L1s) | 4:23 |
 | 32 | [Life Goes On](https://open.spotify.com/track/7boNqK0KpoeNQjvYTYx1yi) | [Mika Arisaka](https://open.spotify.com/artist/23mgGAQU04Y9g3pyfwnpF0) | [Life Goes On](https://open.spotify.com/album/6ojkccMbds4v0v2Xk9EBHy) | 4:02 |
 | 33 | [儚くも永久のカナシ](https://open.spotify.com/track/3nIxNymArWd7kIL4kGb6er) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [AwakEVE](https://open.spotify.com/album/6EhXaQfpmGjj9DVN8qdgjS) | 4:08 |
-| 34 | [narrative](https://open.spotify.com/track/1v4W1B2Qq29MTVXZA26Jhj) | [SawanoHiroyuki\[nZk\]:LiSA](https://open.spotify.com/artist/48K3IGK3XisaV6IbDieMq4) | [R∃/MEMBER](https://open.spotify.com/album/34UE0ATLRzLTX2hytQnzu0) | 4:20 |
+| 34 | [narrative](https://open.spotify.com/track/1v4W1B2Qq29MTVXZA26Jhj) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [R∃/MEMBER](https://open.spotify.com/album/34UE0ATLRzLTX2hytQnzu0) | 4:20 |
 | 35 | [U.C\. ENGAGE no Theme](https://open.spotify.com/track/2HW0ejV182T2lCs1oCHnqg) | [Yuu Takami](https://open.spotify.com/artist/74jbHnIuyTbVFaESxssm7x) | [Mobile Suit Gundam U.C\. Engage Original Motion Picture Soundtrack](https://open.spotify.com/album/58ylf9EBSiEcQsr1F0AEt8) | 2:48 |
 | 36 | [Prototype](https://open.spotify.com/track/6cyvDIi8JNadYK9RDeHK6O) | [Chiaki Ishikawa](https://open.spotify.com/artist/4S7mAJFFsYYZE3gTYuf254) | [Prototype](https://open.spotify.com/album/4ddgTus7mYgqCchdjmgNPo) | 5:44 |
 | 37 | [夜明けのShooting Star](https://open.spotify.com/track/458T6LRHbdUHSPuXa6ybTT) | [Megumi Hayashibara](https://open.spotify.com/artist/53e5Lp1qdqsYgfGL9YuW5p) | [夜明けのShooting Star](https://open.spotify.com/album/53UbmHb5nkkpVkKjzkhO07) | 4:51 |
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aZ9vrXqd1U.md) - [plain]
 | 64 | [Believe](https://open.spotify.com/track/3HHjjYG0zXaesYKfJgwjkK) | [Nami Tamaki](https://open.spotify.com/artist/4awZsyevkX7tP6nu1rFvUq) | [Believe](https://open.spotify.com/album/6uRMVRVi7VhwAR5e5YM7eJ) | 3:56 |
 | 65 | [BROKEN MIRROR](https://open.spotify.com/track/0tm2dbTUf4B1picBLHGmkF) | [BOOM BOOM SATELLITES](https://open.spotify.com/artist/0vCGPbugjEi38T41ZHny1o) | [EMBRACE](https://open.spotify.com/album/0hbSoP9XsJKWshAbUH9rKG) | 6:20 |
 | 66 | [Black stars](https://open.spotify.com/track/2gQ60rwqTxbsCmYoB0lFiq) | [東野純直](https://open.spotify.com/artist/4QIC8bQUoHTgJrlEqoBm0W) | [Black stars](https://open.spotify.com/album/65HIXno1RLhm6UOgyu5Pj7) | 4:31 |
-| 67 | [Into the Sky](https://open.spotify.com/track/7rZ5VNIFZo8nC8XSSCvv7K) | [SawanoHiroyuki\[nZk\]:Tielle](https://open.spotify.com/artist/4smWxSH6ikie95jXI9S0Br) | [2V\-Alk](https://open.spotify.com/album/3ncBgCOeYrUJ9hGmySHiUb) | 3:51 |
+| 67 | [Into the Sky](https://open.spotify.com/track/7rZ5VNIFZo8nC8XSSCvv7K) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [Tielle](https://open.spotify.com/artist/0o6gAoBM3HpKhCOYQSolLe) | [2V\-Alk](https://open.spotify.com/album/3ncBgCOeYrUJ9hGmySHiUb) | 3:51 |
 | 68 | [Ash Like Snow](https://open.spotify.com/track/0nMflPztzJg8C8w1xcHhIe) | [the brilliant green](https://open.spotify.com/artist/6ML3nrYx5Mu1wcXP8SmtG2) | [complete single collection '97\-'08](https://open.spotify.com/album/4tTWP0M6kE7r1WkAKvfSV2) | 4:32 |
 | 69 | [Core](https://open.spotify.com/track/16efoleNNHcCHRGnB0la99) | [Mille Face](https://open.spotify.com/artist/3nLAIBYf5Ebm44Y1re9Wyg) | [Core](https://open.spotify.com/album/4liHmwW0xaX3uJtnhhQRVx) | 4:43 |
 | 70 | [暁の車](https://open.spotify.com/track/3IEObXuomguph3jjxrccWB) | [FictionJunction YUUKA](https://open.spotify.com/artist/3JGUu5XReRV4PnHYBNFbZf) | [暁の車](https://open.spotify.com/album/6FSGtCdVtQ8exaIdHOpkdQ) | 5:03 |
@@ -97,7 +97,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aZ9vrXqd1U.md) - [plain]
 | 87 | [ニブンノイチ](https://open.spotify.com/track/7v3ORF68iK8NQmyLs3sDey) | [BACK\-ON](https://open.spotify.com/artist/41wiRMqVmNSZ3FFM7JIeht) | [ニブンノイチ / INFINITY](https://open.spotify.com/album/1vd8lSOGx9dDHWWeJ2Ee0m) | 3:05 |
 | 88 | [AURORA](https://open.spotify.com/track/1j8GsYtk19jz7rtGdKuFYM) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [BLAU](https://open.spotify.com/album/6zZ0a3V5fbQtoMFHmM7kwq) | 4:20 |
 | 89 | [サイレント・ヴォイス](https://open.spotify.com/track/1tcqBAxR9btqR2ftS7Rrfu) | [ひろえ純](https://open.spotify.com/artist/299meviLTEj3ZjYBQg2I6V) | [サイレント・ヴォイス](https://open.spotify.com/album/2qMZFLQ4JuNIr9Iu9nQk3q) | 4:26 |
-| 90 | [Cage](https://open.spotify.com/track/3Nme2cUHImNsW4nYF7q4VZ) | [SawanoHiroyuki\[nZk\]:Tielle](https://open.spotify.com/artist/4smWxSH6ikie95jXI9S0Br) | [R∃/MEMBER](https://open.spotify.com/album/34UE0ATLRzLTX2hytQnzu0) | 4:46 |
+| 90 | [Cage](https://open.spotify.com/track/3Nme2cUHImNsW4nYF7q4VZ) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [Tielle](https://open.spotify.com/artist/0o6gAoBM3HpKhCOYQSolLe) | [R∃/MEMBER](https://open.spotify.com/album/34UE0ATLRzLTX2hytQnzu0) | 4:46 |
 | 91 | [trust you](https://open.spotify.com/track/2GPHXW8PoRhtNGxjyQzbT0) | [Yuna Ito](https://open.spotify.com/artist/0yKgtrXFlFG2rbA5vamkC5) | [DREAM](https://open.spotify.com/album/4GbeKEc9Cu20nUMXCY8LEb) | 5:18 |
 | 92 | [Meteor \-ミーティア\-](https://open.spotify.com/track/2WVLxptmqfKfGLve79U5s6) | [T.M.Revolution](https://open.spotify.com/artist/3jdzcmtw5XOmOkSb2mRDtr) | [coordinate](https://open.spotify.com/album/1Nz1JrJKCsAtTiIu5A3pw2) | 4:10 |
 | 93 | [クオリア](https://open.spotify.com/track/12zLvEe3rs05AROHQmGN1Y) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [LIFE 6 SENSE](https://open.spotify.com/album/3a0Fm0IirSryLjMpfPXldU) | 4:30 |
@@ -120,7 +120,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aZ9vrXqd1U.md) - [plain]
 | 110 | [ignited \-イグナイテッド\-](https://open.spotify.com/track/3PLKngOPCO0D40dJdefwRQ) | [T.M.Revolution](https://open.spotify.com/artist/3jdzcmtw5XOmOkSb2mRDtr) | [vertical infinity](https://open.spotify.com/album/2jI5qiLWmetKrWEd25nxBu) | 3:11 |
 | 111 | [REAL](https://open.spotify.com/track/3kC6Iy8ocMnkAJsFdBSfNP) | [Vivid](https://open.spotify.com/artist/0YL9iarD6vecICF3Yt3eOd) | [INFINITY](https://open.spotify.com/album/4rott6m5l5Da3dDGr5Iic0) | 4:12 |
 | 112 | [閉ざされた世界](https://open.spotify.com/track/5ilBO8iKJLgxhj2eFTE1i9) | [THE BACK HORN](https://open.spotify.com/artist/34d8V2nUwp937CmL9pQ6xV) | [アサイラム](https://open.spotify.com/album/5Iabzqqw8kKxNuhFTG0Fap) | 4:50 |
-| 113 | [bL∞dy f8 \-eUC\-](https://open.spotify.com/track/4hth3prmCax5PvYPt6KnFn) | [SawanoHiroyuki\[nZk\]:Aimer](https://open.spotify.com/artist/24aMUtQKIRHDMvPI7wPd35) | [Into the Sky EP](https://open.spotify.com/album/1XOEmSbX53VfOTPdtkNigy) | 4:48 |
+| 113 | [bL∞dy f8 \-eUC\-](https://open.spotify.com/track/4hth3prmCax5PvYPt6KnFn) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Into the Sky EP](https://open.spotify.com/album/1XOEmSbX53VfOTPdtkNigy) | 4:48 |
 | 114 | [Z・刻をこえて](https://open.spotify.com/track/7znA9tujaS1ztnhqxcLCWj) | [Mami Ayukawa](https://open.spotify.com/artist/13chEUM1L3zoaoZ2UI1WpM) | [Z・刻をこえて](https://open.spotify.com/album/4hxaMl94hMWKfqhTq4r5U5) | 3:36 |
 | 115 | [Flying In The Sky](https://open.spotify.com/track/3LMR3dGhjrbqP3hi1C4t5g) | [Yoshifumi Ushima](https://open.spotify.com/artist/1s63VTvalxLJgMX3yjxH0L) | [Free Jugement \(Remaster Deluxe Edition\)](https://open.spotify.com/album/0heLGeVcuKn2rG7zIF50K0) | 3:44 |
 | 116 | [Next 2 U \-eUC\-](https://open.spotify.com/track/1ZOphuWVwSQcsLs7k6iRmp) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [Nanami](https://open.spotify.com/artist/1B0hK1UH1rFBFhjjdCXjYB) | [2V\-Alk](https://open.spotify.com/album/3ncBgCOeYrUJ9hGmySHiUb) | 4:04 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8shr5OgBdbQ.md) - [plain]
 
 > centuries\-old sailor songs gone viral \- it's sea shanty season, baby.
 
-[Spotify](https://open.spotify.com/user/spotify) - 391,237 likes - 66 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 391,463 likes - 66 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8shr5OgBdbQ.md) - [plain]
 | 3 | [Drunken Sailor](https://open.spotify.com/track/4n5UwoPQn0tBlqxQjyEMdB) | [The Longest Johns](https://open.spotify.com/artist/5k979N1TnPncUyqlXlaRSv) | [Written in Salt](https://open.spotify.com/album/7F3T51Kxa6tpDDZq8HSBIa) | 2:24 |
 | 4 | [Spanish Ladies](https://open.spotify.com/track/3XDGPQQGrW8sPstEqket1J) | [Jerry Bryant](https://open.spotify.com/artist/3O6SFPGCWeXe7B02fHQAjz), [Starboard Mess](https://open.spotify.com/artist/3rujIhhEfyEZa5BXhkHhYg) | [Roast Beef Of Old England](https://open.spotify.com/album/4KCfIyIyrl8YsiUzjQksWQ) | 2:46 |
 | 5 | [The Last Shanty](https://open.spotify.com/track/6tLRGja4JrRoIUBAhmK4WZ) | [The Celtic Connection](https://open.spotify.com/artist/7fnASfwfVJkReF5vfyoQ9v) | [Best Of..\. 10 Years Together](https://open.spotify.com/album/7MaS1d8DlkbN13MKYeUBhD) | 3:01 |
-| 6 | [One More Pull](https://open.spotify.com/track/1Auv8vgYeK52K3bIY7Hre6) | [The Wellermen](https://open.spotify.com/artist/20q3NJtmeKSi3BTnmUFK16), [The Longest Johns](https://open.spotify.com/artist/5k979N1TnPncUyqlXlaRSv) | [One More Pull](https://open.spotify.com/album/3XupCY5A1tESidUJpih7ii) | 3:58 |
+| 6 | [One More Pull](https://open.spotify.com/track/778rEa0Y7vuaP1B10676JW) | [The Wellermen](https://open.spotify.com/artist/20q3NJtmeKSi3BTnmUFK16), [The Longest Johns](https://open.spotify.com/artist/5k979N1TnPncUyqlXlaRSv) | [Wellerman](https://open.spotify.com/album/6laLzUc8vCtgKZEYojvCmF) | 3:58 |
 | 7 | [Shanty Man](https://open.spotify.com/track/5SNxHRzOTTHDFdDSh6Axez) | [The Fisherman’s Friends](https://open.spotify.com/artist/0cyEKEh8fQkksmpwLBlZV4) | [Home From The Sea](https://open.spotify.com/album/1zxO6AaHwxYyOsW4rf2NFm) | 3:27 |
 | 8 | [Roll the Old Chariot Along](https://open.spotify.com/track/1HpZmEGmT9Y658IUMyTPhB) | [David Coffin](https://open.spotify.com/artist/2FCz6DEIoFeyMd4gm740Nx) | [Roll the Old Chariot Along](https://open.spotify.com/album/1gPcXTngBsysIPqD4M8WRy) | 3:03 |
 | 9 | [Rolling Down to Old Maui](https://open.spotify.com/track/1GpU4h6s3mc13uJgkSUPLf) | [Stan Rogers](https://open.spotify.com/artist/3cS04S9ChhEClgDghrhOzg) | [Between The Breaks Live!](https://open.spotify.com/album/72wsYn92bmcNFwR9M6he9f) | 3:38 |
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8shr5OgBdbQ.md) - [plain]
 | 65 | [Bring 'Em Down](https://open.spotify.com/track/21tewDzoqmfJ1jRK4MkJA5) | [William Pint & Felicia Dale](https://open.spotify.com/artist/25mMk8NaLmEHMdXaXP86Lq) | [White Horses](https://open.spotify.com/album/4xSV4Rj2wMQq31PUTXfvG0) | 1:55 |
 | 66 | [Leave Her Johnny](https://open.spotify.com/track/4APSKmljfj6XlCn4Myap0f) | [Nathan Evans](https://open.spotify.com/artist/1PKErrAhYFdfrDymGHRQRo) | [NathanEvanss](https://open.spotify.com/album/4ZUytyO3BGNF2CJRLkSrLS) | 2:02 |
 
-Snapshot ID: `MTY2MDc2MzMyOCwwMDAwMDAwMGM5NmIxNzc5YzA1ZmRiNTM1MTk0NThiNTdjNTczOGIx`
+Snapshot ID: `MTY2MDc2MzMyOCwwMDAwMDAwMDkxZGQ5OTA3MTE0NGE0MzY2MGJhODI5ZTI4ZWQ4ZTEx`

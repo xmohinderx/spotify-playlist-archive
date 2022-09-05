@@ -1,12 +1,12 @@
 {
   "description": "The greatest female voices in blues today. Cover: Amythyst Kiah",
-  "num_followers": 169144,
+  "num_followers": 169131,
   "original_name": "EQUAL Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Njc0ODA2OSwwMDAwMDAwMDJiZTBjMjg0ZmVkMmExOGVlZGM2MmI4YzJhYzhjMDJm",
+  "snapshot_id": "MTY0Njc0ODA2OSwwMDAwMDAwMGU0MWI1MmI5Yjk3NjU0OGYwYTA5MzEyZGMzMjc1Yzdl",
   "tracks": [
     {
       "added_at": "2022-03-08 14:01:09",
@@ -187,6 +187,22 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
+        "name": "She's A Self Made Man",
+        "url": "https://open.spotify.com/album/6dzXBWjuzGjI5TQxJWBh7G"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 181624,
+      "name": "She's A Self Made Man",
+      "url": "https://open.spotify.com/track/7Bu4ET2R5zKAeqM68l3Oqk"
+    },
+    {
+      "added_at": "2022-03-08 14:01:09",
+      "album": {
         "name": "Promise of a Brand New Day",
         "url": "https://open.spotify.com/album/18QNLSpGZgj4aePM9STq2q"
       },
@@ -207,22 +223,6 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
-        "name": "She's A Self Made Man",
-        "url": "https://open.spotify.com/album/6dzXBWjuzGjI5TQxJWBh7G"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 181624,
-      "name": "She's A Self Made Man",
-      "url": "https://open.spotify.com/track/7Bu4ET2R5zKAeqM68l3Oqk"
-    },
-    {
-      "added_at": "2022-03-08 14:01:09",
-      "album": {
         "name": "Road I Call Home",
         "url": "https://open.spotify.com/album/7rooTZehVu9pdUIirCwA0a"
       },
@@ -235,22 +235,6 @@
       "duration_ms": 232724,
       "name": "What's the Matter with You",
       "url": "https://open.spotify.com/track/3LBFMoyuO7hMgBOCTOGQBc"
-    },
-    {
-      "added_at": "2022-03-08 14:01:09",
-      "album": {
-        "name": "Simple Case of the Blues",
-        "url": "https://open.spotify.com/album/13la0jdzx3vrRcbwf6PBXU"
-      },
-      "artists": [
-        {
-          "name": "Rosie Flores",
-          "url": "https://open.spotify.com/artist/112VrRSCpsoUkVgnxZvD1w"
-        }
-      ],
-      "duration_ms": 218746,
-      "name": "Simple Case of the Blues",
-      "url": "https://open.spotify.com/track/2mqLNOkpN21ig18xli9WQV"
     },
     {
       "added_at": "2022-03-08 14:01:09",
@@ -271,6 +255,22 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
+        "name": "Fish Outta Water",
+        "url": "https://open.spotify.com/album/52Hy5Ucrx8mbkOAyH9P1Qg"
+      },
+      "artists": [
+        {
+          "name": "Karen Lovely",
+          "url": "https://open.spotify.com/artist/33PWKu9VjoLVGC9j7xT2I5"
+        }
+      ],
+      "duration_ms": 230533,
+      "name": "Fish Outta Water",
+      "url": "https://open.spotify.com/track/0otTCVBZRpLduHl1ogOJ0y"
+    },
+    {
+      "added_at": "2022-03-08 14:01:09",
+      "album": {
         "name": "Keep On",
         "url": "https://open.spotify.com/album/50CK5WZHyOwMeZHVYGCDIJ"
       },
@@ -287,18 +287,18 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
-        "name": "Fish Outta Water",
-        "url": "https://open.spotify.com/album/52Hy5Ucrx8mbkOAyH9P1Qg"
+        "name": "Simple Case of the Blues",
+        "url": "https://open.spotify.com/album/13la0jdzx3vrRcbwf6PBXU"
       },
       "artists": [
         {
-          "name": "Karen Lovely",
-          "url": "https://open.spotify.com/artist/33PWKu9VjoLVGC9j7xT2I5"
+          "name": "Rosie Flores",
+          "url": "https://open.spotify.com/artist/112VrRSCpsoUkVgnxZvD1w"
         }
       ],
-      "duration_ms": 230533,
-      "name": "Fish Outta Water",
-      "url": "https://open.spotify.com/track/0otTCVBZRpLduHl1ogOJ0y"
+      "duration_ms": 218746,
+      "name": "Simple Case of the Blues",
+      "url": "https://open.spotify.com/track/2mqLNOkpN21ig18xli9WQV"
     },
     {
       "added_at": "2022-03-08 14:01:09",
@@ -319,22 +319,6 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
-        "name": "Trilogy, Vol. 1",
-        "url": "https://open.spotify.com/album/7M78ou62qwyei46ZvdPorP"
-      },
-      "artists": [
-        {
-          "name": "Ana Popovic",
-          "url": "https://open.spotify.com/artist/5kPUAJihniO5WfEfbOCjLf"
-        }
-      ],
-      "duration_ms": 243200,
-      "name": "She Was a Doorman",
-      "url": "https://open.spotify.com/track/1CgGro1rXhkxs7LviofPyT"
-    },
-    {
-      "added_at": "2022-03-08 14:01:09",
-      "album": {
         "name": "Hannah Wicklund & The Steppin Stones",
         "url": "https://open.spotify.com/album/2GWRuo0azCjGlupKL5wY74"
       },
@@ -351,18 +335,34 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
-        "name": "Loud Guitars, Big Suspicions",
-        "url": "https://open.spotify.com/album/31YVnDFP920mK7VVqU3Fyp"
+        "name": "Trilogy, Vol. 1",
+        "url": "https://open.spotify.com/album/7M78ou62qwyei46ZvdPorP"
       },
       "artists": [
         {
-          "name": "Shannon Curfman",
-          "url": "https://open.spotify.com/artist/2sn2g4lNGlsAoJm15MOM7x"
+          "name": "Ana Popovic",
+          "url": "https://open.spotify.com/artist/5kPUAJihniO5WfEfbOCjLf"
         }
       ],
-      "duration_ms": 209866,
-      "name": "No Riders",
-      "url": "https://open.spotify.com/track/0NHW16lrKx7ra3ix9xKqxh"
+      "duration_ms": 243200,
+      "name": "She Was a Doorman",
+      "url": "https://open.spotify.com/track/1CgGro1rXhkxs7LviofPyT"
+    },
+    {
+      "added_at": "2022-03-08 14:01:09",
+      "album": {
+        "name": "Juice Me Up",
+        "url": "https://open.spotify.com/album/6YbtdgILdYRkOVFNK2PPha"
+      },
+      "artists": [
+        {
+          "name": "Dani Wilde",
+          "url": "https://open.spotify.com/artist/75Fysjl73jB4dHfN0Yb1iB"
+        }
+      ],
+      "duration_ms": 303600,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/30h268bCKmGWxFleXGYATy"
     },
     {
       "added_at": "2022-03-08 14:01:09",
@@ -383,18 +383,18 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
-        "name": "Juice Me Up",
-        "url": "https://open.spotify.com/album/6YbtdgILdYRkOVFNK2PPha"
+        "name": "Loud Guitars, Big Suspicions",
+        "url": "https://open.spotify.com/album/31YVnDFP920mK7VVqU3Fyp"
       },
       "artists": [
         {
-          "name": "Dani Wilde",
-          "url": "https://open.spotify.com/artist/75Fysjl73jB4dHfN0Yb1iB"
+          "name": "Shannon Curfman",
+          "url": "https://open.spotify.com/artist/2sn2g4lNGlsAoJm15MOM7x"
         }
       ],
-      "duration_ms": 303600,
-      "name": "Falling",
-      "url": "https://open.spotify.com/track/30h268bCKmGWxFleXGYATy"
+      "duration_ms": 209866,
+      "name": "No Riders",
+      "url": "https://open.spotify.com/track/0NHW16lrKx7ra3ix9xKqxh"
     },
     {
       "added_at": "2022-03-08 14:01:09",
@@ -451,22 +451,6 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
-        "name": "Soft Place To Fall",
-        "url": "https://open.spotify.com/album/7MDS3NXJ5thAHZkUcALtDN"
-      },
-      "artists": [
-        {
-          "name": "Deborah Coleman",
-          "url": "https://open.spotify.com/artist/7Dk3koHTPpEymzuWOWzzny"
-        }
-      ],
-      "duration_ms": 291840,
-      "name": "I'm A Woman",
-      "url": "https://open.spotify.com/track/0HPazJXESVCimRyMggplg5"
-    },
-    {
-      "added_at": "2022-03-08 14:01:09",
-      "album": {
         "name": "Presumed Innocent",
         "url": "https://open.spotify.com/album/6W1dqxSFVwT5eL7WlUQUtn"
       },
@@ -483,6 +467,22 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
+        "name": "Soft Place To Fall",
+        "url": "https://open.spotify.com/album/7MDS3NXJ5thAHZkUcALtDN"
+      },
+      "artists": [
+        {
+          "name": "Deborah Coleman",
+          "url": "https://open.spotify.com/artist/7Dk3koHTPpEymzuWOWzzny"
+        }
+      ],
+      "duration_ms": 291840,
+      "name": "I'm A Woman",
+      "url": "https://open.spotify.com/track/0HPazJXESVCimRyMggplg5"
+    },
+    {
+      "added_at": "2022-03-08 14:01:09",
+      "album": {
         "name": "Ain't Got No Troubles",
         "url": "https://open.spotify.com/album/6JEnQsmFamUPoYEWn3HW8x"
       },
@@ -495,6 +495,22 @@
       "duration_ms": 232600,
       "name": "Leave Me Alone",
       "url": "https://open.spotify.com/track/4pvtn6rUZEL9hranwiaZ5d"
+    },
+    {
+      "added_at": "2022-03-08 14:01:09",
+      "album": {
+        "name": "Heavy Hearts Hard Fists",
+        "url": "https://open.spotify.com/album/2nZC1XpdGBiYkIG4R5ytml"
+      },
+      "artists": [
+        {
+          "name": "Nikki Hill",
+          "url": "https://open.spotify.com/artist/28Vn4HKpcOqzagc7tiAxNz"
+        }
+      ],
+      "duration_ms": 197640,
+      "name": "Heavy Hearts Hard Fists",
+      "url": "https://open.spotify.com/track/2cwGnAb2HrxnzTLxqfZnyJ"
     },
     {
       "added_at": "2022-03-08 14:01:09",
@@ -527,22 +543,6 @@
       "duration_ms": 191920,
       "name": "Healing Creek",
       "url": "https://open.spotify.com/track/4AsrwPkPDdpzjjdr2SDykN"
-    },
-    {
-      "added_at": "2022-03-08 14:01:09",
-      "album": {
-        "name": "Heavy Hearts Hard Fists",
-        "url": "https://open.spotify.com/album/2nZC1XpdGBiYkIG4R5ytml"
-      },
-      "artists": [
-        {
-          "name": "Nikki Hill",
-          "url": "https://open.spotify.com/artist/28Vn4HKpcOqzagc7tiAxNz"
-        }
-      ],
-      "duration_ms": 197640,
-      "name": "Heavy Hearts Hard Fists",
-      "url": "https://open.spotify.com/track/2cwGnAb2HrxnzTLxqfZnyJ"
     },
     {
       "added_at": "2022-03-08 14:01:09",
@@ -595,22 +595,6 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
-        "name": "Reckless Heart",
-        "url": "https://open.spotify.com/album/4qg7yQHWWUw0DMlix6ZbUG"
-      },
-      "artists": [
-        {
-          "name": "Joanne Shaw Taylor",
-          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
-        }
-      ],
-      "duration_ms": 292353,
-      "name": "The Best Thing",
-      "url": "https://open.spotify.com/track/0La8iotjyo35Et3kMXf03k"
-    },
-    {
-      "added_at": "2022-03-08 14:01:09",
-      "album": {
         "name": "The Beautiful Bones",
         "url": "https://open.spotify.com/album/5a1VvpMgW0Mz0FDVOYOV38"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 264253,
       "name": "Release and Be Free",
       "url": "https://open.spotify.com/track/7d1ZzOIyACB64aEibmWfH7"
+    },
+    {
+      "added_at": "2022-03-08 14:01:09",
+      "album": {
+        "name": "Reckless Heart",
+        "url": "https://open.spotify.com/album/4qg7yQHWWUw0DMlix6ZbUG"
+      },
+      "artists": [
+        {
+          "name": "Joanne Shaw Taylor",
+          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
+        }
+      ],
+      "duration_ms": 292353,
+      "name": "The Best Thing",
+      "url": "https://open.spotify.com/track/0La8iotjyo35Et3kMXf03k"
     },
     {
       "added_at": "2022-03-08 14:01:09",
@@ -691,22 +691,6 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
-        "name": "Ina Forsman",
-        "url": "https://open.spotify.com/album/2jlehXrLv0Ry0QaugJYx6Y"
-      },
-      "artists": [
-        {
-          "name": "Ina Forsman",
-          "url": "https://open.spotify.com/artist/6YVaWx92qxstwulKJXqN2b"
-        }
-      ],
-      "duration_ms": 249760,
-      "name": "Now You Want Me Back",
-      "url": "https://open.spotify.com/track/5dd769kGy644G8xYkdJJZt"
-    },
-    {
-      "added_at": "2022-03-08 14:01:09",
-      "album": {
         "name": "Handle Me with Care",
         "url": "https://open.spotify.com/album/2imCmg8SU9Cms5BS8RWfkI"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 435426,
       "name": "Handle Me with Care",
       "url": "https://open.spotify.com/track/3mL3yHCMcY5NfvEo1KxZpP"
+    },
+    {
+      "added_at": "2022-03-08 14:01:09",
+      "album": {
+        "name": "Ina Forsman",
+        "url": "https://open.spotify.com/album/2jlehXrLv0Ry0QaugJYx6Y"
+      },
+      "artists": [
+        {
+          "name": "Ina Forsman",
+          "url": "https://open.spotify.com/artist/6YVaWx92qxstwulKJXqN2b"
+        }
+      ],
+      "duration_ms": 249760,
+      "name": "Now You Want Me Back",
+      "url": "https://open.spotify.com/track/5dd769kGy644G8xYkdJJZt"
     },
     {
       "added_at": "2022-03-08 14:01:09",
@@ -855,6 +855,22 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
+        "name": "Tug of War",
+        "url": "https://open.spotify.com/album/71JBQT7xsnizt4TYu0eUzY"
+      },
+      "artists": [
+        {
+          "name": "Gina Sicilia",
+          "url": "https://open.spotify.com/artist/5G7a5hIfomqVuXlk4D3WfQ"
+        }
+      ],
+      "duration_ms": 213888,
+      "name": "They Never Pay Me",
+      "url": "https://open.spotify.com/track/1o84dOcVPieSWx54D6Vpd2"
+    },
+    {
+      "added_at": "2022-03-08 14:01:09",
+      "album": {
         "name": "Time...",
         "url": "https://open.spotify.com/album/66RPa84dHj7eHBG0f5MLsQ"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 298173,
       "name": "If You See Him",
       "url": "https://open.spotify.com/track/1nPXV1tU2TwxWCcGEI2NR3"
-    },
-    {
-      "added_at": "2022-03-08 14:01:09",
-      "album": {
-        "name": "Woman Like Me",
-        "url": "https://open.spotify.com/album/2P2PYpBvfCJZO63d24m4Fa"
-      },
-      "artists": [
-        {
-          "name": "Elles Bailey",
-          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
-        }
-      ],
-      "duration_ms": 244429,
-      "name": "Woman Like Me",
-      "url": "https://open.spotify.com/track/4apFuI4ptvZBNkPwGr7gpd"
     }
   ],
   "unique_name": "EQUAL Blues",

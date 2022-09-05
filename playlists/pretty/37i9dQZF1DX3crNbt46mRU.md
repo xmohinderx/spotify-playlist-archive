@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Ava Max
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,097 likes - 112 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,109 likes - 112 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 20 | [Living Without You](https://open.spotify.com/track/1KkV5NgLa2XtD00IfaCPyG) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Sam Ryder](https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m) | [Living Without You](https://open.spotify.com/album/6i5EQgCokHB7wgiP68UYmA) | 3:04 |
 | 21 | [DREAMS](https://open.spotify.com/track/25QX54mKfVXl2Y08eO4NCx) | [KAYEF](https://open.spotify.com/artist/4hXT6A14n901v8DU5Of337) | [DREAMS](https://open.spotify.com/album/4vvNnKbq5ZEtmTXsybyxzA) | 2:10 |
 | 22 | [New Gold \(feat\. Tame Impala and Bootie Brown\)](https://open.spotify.com/track/64dLd6rVqDLtkXFYrEUHIU) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [Bootie Brown](https://open.spotify.com/artist/6GI3CJjT2bOnMfprCpjT1d) | [New Gold \(feat\. Tame Impala and Bootie Brown\)](https://open.spotify.com/album/4V9YFKLqZ5h8nQFTvDQscC) | 3:35 |
-| 23 | [Check \(feat\. Takt32, GRiNGO & Samra\)](https://open.spotify.com/track/7wBHOv8RAS6Womug1T0b4J) | [Kool Savas](https://open.spotify.com/artist/1SUu1Bi7ev9HbOzyVC77qD), [GRiNGO](https://open.spotify.com/artist/5Sjj30aHCmKcM9SdVX7PBK), [Samra](https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0), [Takt32](https://open.spotify.com/artist/1G7TGDJ01So6i6XNirnVS7) | [Check \(feat\. Takt32, GRiNGO & Samra\)](https://open.spotify.com/album/3M1Qd16ClsYJJDieJRUgvw) | 3:50 |
+| 23 | [Check \(feat\. GRiNGO & Samra\)](https://open.spotify.com/track/7wBHOv8RAS6Womug1T0b4J) | [Kool Savas](https://open.spotify.com/artist/1SUu1Bi7ev9HbOzyVC77qD), [GRiNGO](https://open.spotify.com/artist/5Sjj30aHCmKcM9SdVX7PBK), [Samra](https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0) | [Check \(feat\. GRiNGO & Samra\)](https://open.spotify.com/album/3M1Qd16ClsYJJDieJRUgvw) | 3:50 |
 | 24 | [Sin Fin](https://open.spotify.com/track/3qaHzxjNtFU7QiEuhGx70x) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Sin Fin](https://open.spotify.com/album/6bcsXfLlMTAWGWdWofzM2l) | 3:54 |
 | 25 | [Sky](https://open.spotify.com/track/5UtFbkCGfH6Amy2VYYe0By) | [Pronto](https://open.spotify.com/artist/2ZT8zCu4xXbz7R1R0EzqWO), [Robbz x Brookz](https://open.spotify.com/artist/28Yka7aPiP0TcDk7TYH14h) | [Sky](https://open.spotify.com/album/7eInLu4NzM8mXqjVZvyR2D) | 3:05 |
 | 26 | [Smells Like Me](https://open.spotify.com/track/6LXIhiXK8z1KLd3giR904b) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Smells Like Me](https://open.spotify.com/album/3XvDbxerzYjQZRc6JfF9jY) | 3:24 |

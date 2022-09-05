@@ -587,6 +587,24 @@
     {
       "album": {
         "name": "Apollo",
+        "url": "https://open.spotify.com/album/2lgCV2s0B0UqAktpETEssF"
+      },
+      "artists": [
+        {
+          "name": "Solar Vision",
+          "url": "https://open.spotify.com/artist/4wd6bczppl4mNXPyhg0HT4"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "Apollo",
+      "url": "https://open.spotify.com/track/22wxI9qv6irtSyCGhoGGEH"
+    },
+    {
+      "album": {
+        "name": "Apollo",
         "url": "https://open.spotify.com/album/6vjPpNpGLRcl22rzVX11sz"
       },
       "artists": [
@@ -3251,7 +3269,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-05",
       "duration_ms": 256699,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/0WU0YiTidd4MBZm8k41B92"
@@ -4175,7 +4193,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-03",
+      "date_removed": null,
       "duration_ms": 197375,
       "name": "Kingdom",
       "url": "https://open.spotify.com/track/3wli1SxtT8HtklAWBnvCm1"
@@ -5589,7 +5607,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-03",
+      "date_removed": null,
       "duration_ms": 239062,
       "name": "Nezuko",
       "url": "https://open.spotify.com/track/1LJbqEICZeMOZ6OGjgeksi"
@@ -5739,7 +5757,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-05",
       "duration_ms": 213043,
       "name": "Nothing Compares To You",
       "url": "https://open.spotify.com/track/0HovEj9ww9qYqKjJGFO9fT"
@@ -9303,7 +9321,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-05",
       "duration_ms": 185468,
       "name": "Wouldn\u2019t Be Mine",
       "url": "https://open.spotify.com/track/0BLdhHmtdxd3BGR8nSNEI1"

@@ -4,7 +4,7 @@
 
 > Powerful and rhythmic  metal for maximum power during your workout.
 
-223 songs - 13 hr 17 min - [published](https://open.spotify.com/playlist/42zmCNqmVhMbS7GsNCf9fQ)
+224 songs - 13 hr 20 min - [published](https://open.spotify.com/playlist/42zmCNqmVhMbS7GsNCf9fQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,9 +129,10 @@
 | [Love Me to Death](https://open.spotify.com/track/4CqiQWMP6T0SL1aGSmsFqZ) | [Suicide Silence](https://open.spotify.com/artist/6HZr7Fs2VfV1PYHIwo8Ylc) | [Love Me to Death](https://open.spotify.com/album/1BsrM4ejn8ZHhyc907yZKn) | 4:15 | 2022-01-14 | 2022-07-29 |
 | [ManiaCult](https://open.spotify.com/track/72YghcscYUxL9GyUWTsqZn) | [Aborted](https://open.spotify.com/artist/1XRhUgCyzIdeT8d9KMfeDR) | [ManiaCult](https://open.spotify.com/album/1jhN2yRAz1ZEwPkdLlBdir) | 3:37 | 2022-01-14 | 2022-07-28 |
 | [Masochistic Healing](https://open.spotify.com/track/4IEoWpnV0k58TWF5hkta6D) | [Tethra](https://open.spotify.com/artist/7GfEcQxinRxo4cZML9ZcA3) | [Tethra](https://open.spotify.com/album/3JcfPChvlA4hZl0FEetY77) | 4:49 | 2022-01-14 |  |
-| [Mayday](https://open.spotify.com/track/01yF8zxWrRNwIKbboQWXUc) | [Abbie Falls](https://open.spotify.com/artist/5nSlRGZqJVAORU3SsSD0YU) | [Mayday](https://open.spotify.com/album/1AuUskhq0HRAC61tKF8uAi) | 3:18 | 2022-01-14 |  |
+| [Mayday](https://open.spotify.com/track/01yF8zxWrRNwIKbboQWXUc) | [Abbie Falls](https://open.spotify.com/artist/5nSlRGZqJVAORU3SsSD0YU) | [Mayday](https://open.spotify.com/album/1AuUskhq0HRAC61tKF8uAi) | 3:18 | 2022-01-14 | 2022-09-05 |
 | [Mental Demolition](https://open.spotify.com/track/4Obgv6ehZRZaYCzFtXmbk9) | [Terror](https://open.spotify.com/artist/1GVRgPtEC6sZFqvItIk3eg) | [Mental Demolition](https://open.spotify.com/album/58MR0Tyfck1L7dyVcbruWx) | 2:07 | 2022-01-14 | 2022-07-11 |
 | [Moaner](https://open.spotify.com/track/4zobz1X0Sv4NVgsbZy6jpu) | [TRC](https://open.spotify.com/artist/56FWp4djoIWzcpgm4AQ5G6) | [Lifestyle](https://open.spotify.com/album/1cEZPFrC3JHjXNOSp2BFKG) | 3:09 | 2022-01-14 | 2022-07-25 |
+| [Monarch](https://open.spotify.com/track/5axywwd0Rf7S0kZjeVWTfb) | [Our Hollow, Our Home](https://open.spotify.com/artist/6zrSK4adBQJaCJuhGNKJEl) | [Monarch](https://open.spotify.com/album/3H0H3YBTBTKLuGN36nmcrR) | 3:27 | 2022-04-22 |  |
 | [Monarch](https://open.spotify.com/track/1mIr6GcvOGSkTnSfSuCyb0) | [Our Hollow, Our Home](https://open.spotify.com/artist/6zrSK4adBQJaCJuhGNKJEl) | [Monarch](https://open.spotify.com/album/3YR8LRoxibGZyycpdNkJDy) | 3:27 | 2022-01-14 | 2022-08-03 |
 | [Monochrome](https://open.spotify.com/track/3BrbS5u3ulIuUEG8Jypidj) | [Alex Yarmak](https://open.spotify.com/artist/7BxvbZy8vMWGskAEh3uueA) | [Monochrome](https://open.spotify.com/album/4dgGTy9sHYBOKblPkCBWld) | 3:06 | 2022-01-14 | 2022-07-29 |
 | [My Own Grave](https://open.spotify.com/track/0CcqWuAEJC93K8cBMbAjgI) | [As I Lay Dying](https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu) | [Shaped by Fire](https://open.spotify.com/album/2xgPEwRkAOzsSrNHBx64Ww) | 4:13 | 2022-04-22 |  |

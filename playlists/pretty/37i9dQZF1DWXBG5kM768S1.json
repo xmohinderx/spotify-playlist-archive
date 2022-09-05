@@ -1,12 +1,12 @@
 {
   "description": "De beste norske l\u00e5tene fra noen av v\u00e5re aller beste artister.",
-  "num_followers": 62949,
+  "num_followers": 62971,
   "original_name": "Norske viser",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDg2MDA2MCwwMDAwMDAwMDMwOWE1ZmRjZWZlOTBmMGI1NWNlYjI0MzQzZDY2Yzk5",
+  "snapshot_id": "MTY2MDg2MDA2MCwwMDAwMDAwMGQ2NjU1OWM1MTYwMjc5N2MzYjEyNDYxN2YxZGE2ODhl",
   "tracks": [
     {
       "added_at": "2022-08-18 22:01:00",
@@ -435,22 +435,6 @@
     {
       "added_at": "2022-08-18 22:01:00",
       "album": {
-        "name": "Det jeg vil ha (fra deg)",
-        "url": "https://open.spotify.com/album/0oRXCrnDAsKWQg6XoOvf0i"
-      },
-      "artists": [
-        {
-          "name": "Frida \u00c5nnevik",
-          "url": "https://open.spotify.com/artist/0SlejFsyHq7i1ZgWoRWdH2"
-        }
-      ],
-      "duration_ms": 203263,
-      "name": "Det jeg vil ha (fra deg)",
-      "url": "https://open.spotify.com/track/7FzPmvCXC8CqwP9AkIkPA9"
-    },
-    {
-      "added_at": "2022-08-18 22:01:00",
-      "album": {
         "name": "Imellom to Evigheter",
         "url": "https://open.spotify.com/album/2INOoVCEg8h4xWkSyuYzya"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 254680,
       "name": "Tr\u00f8stevise (Tr\u00f6stevisa)",
       "url": "https://open.spotify.com/track/05MxJsc8F0G2u3IIz6g0b2"
+    },
+    {
+      "added_at": "2022-08-18 22:01:00",
+      "album": {
+        "name": "Det jeg vil ha (fra deg)",
+        "url": "https://open.spotify.com/album/0oRXCrnDAsKWQg6XoOvf0i"
+      },
+      "artists": [
+        {
+          "name": "Frida \u00c5nnevik",
+          "url": "https://open.spotify.com/artist/0SlejFsyHq7i1ZgWoRWdH2"
+        }
+      ],
+      "duration_ms": 203263,
+      "name": "Det jeg vil ha (fra deg)",
+      "url": "https://open.spotify.com/track/7FzPmvCXC8CqwP9AkIkPA9"
     },
     {
       "added_at": "2022-08-18 22:01:00",
@@ -503,22 +503,6 @@
     {
       "added_at": "2022-08-18 22:01:00",
       "album": {
-        "name": "Fingeravtrykk",
-        "url": "https://open.spotify.com/album/4LQ9X3yVtTvsR7zx0GyRyW"
-      },
-      "artists": [
-        {
-          "name": "Ane Brun",
-          "url": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
-        }
-      ],
-      "duration_ms": 421054,
-      "name": "Fingeravtrykk",
-      "url": "https://open.spotify.com/track/7176c184pups4Q02ZPhTAl"
-    },
-    {
-      "added_at": "2022-08-18 22:01:00",
-      "album": {
         "name": "De N\u00e6re Ting",
         "url": "https://open.spotify.com/album/1AGrD04xDQrvxRamd8m9ih"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 138412,
       "name": "De N\u00e6re Ting",
       "url": "https://open.spotify.com/track/0k9J6f4A22q8JXqU8atMuz"
+    },
+    {
+      "added_at": "2022-08-18 22:01:00",
+      "album": {
+        "name": "Fingeravtrykk",
+        "url": "https://open.spotify.com/album/4LQ9X3yVtTvsR7zx0GyRyW"
+      },
+      "artists": [
+        {
+          "name": "Ane Brun",
+          "url": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
+        }
+      ],
+      "duration_ms": 421054,
+      "name": "Fingeravtrykk",
+      "url": "https://open.spotify.com/track/7176c184pups4Q02ZPhTAl"
     },
     {
       "added_at": "2022-08-18 22:01:00",
@@ -663,6 +663,22 @@
     {
       "added_at": "2022-08-18 22:01:00",
       "album": {
+        "name": "V\u00e5r beste dag",
+        "url": "https://open.spotify.com/album/72dAuYKSanaCXmsLzS7eUN"
+      },
+      "artists": [
+        {
+          "name": "Marit Larsen",
+          "url": "https://open.spotify.com/artist/0SGEunj6EBwdWMNCdWSrPg"
+        }
+      ],
+      "duration_ms": 202588,
+      "name": "V\u00e5r beste dag",
+      "url": "https://open.spotify.com/track/2RssYUkYzmEtvxmUX0C19A"
+    },
+    {
+      "added_at": "2022-08-18 22:01:00",
+      "album": {
         "name": "den tyngste turen (med Aslag Haugen)",
         "url": "https://open.spotify.com/album/6ZHUyK14poEdYpMmLxxXkS"
       },
@@ -683,18 +699,18 @@
     {
       "added_at": "2022-08-18 22:01:00",
       "album": {
-        "name": "V\u00e5r beste dag",
-        "url": "https://open.spotify.com/album/72dAuYKSanaCXmsLzS7eUN"
+        "name": "Det Hainnle Om \u00c5 Leve - Mellom Anna",
+        "url": "https://open.spotify.com/album/5FnjxMOH7N4FpHcaH0POY9"
       },
       "artists": [
         {
-          "name": "Marit Larsen",
-          "url": "https://open.spotify.com/artist/0SGEunj6EBwdWMNCdWSrPg"
+          "name": "Kine Hellebust",
+          "url": "https://open.spotify.com/artist/1xt1wtsor2VKjhcQebd9Ec"
         }
       ],
-      "duration_ms": 202588,
-      "name": "V\u00e5r beste dag",
-      "url": "https://open.spotify.com/track/2RssYUkYzmEtvxmUX0C19A"
+      "duration_ms": 254380,
+      "name": "Det Hainnle Om \u00c5 Leve",
+      "url": "https://open.spotify.com/track/53EbOd2bdKu4oNEkCKAfOX"
     },
     {
       "added_at": "2022-08-18 22:01:00",
@@ -711,22 +727,6 @@
       "duration_ms": 244266,
       "name": "Under deg",
       "url": "https://open.spotify.com/track/7bCWY2qgzjKMhTc0Tr2IO0"
-    },
-    {
-      "added_at": "2022-08-18 22:01:00",
-      "album": {
-        "name": "Det Hainnle Om \u00c5 Leve - Mellom Anna",
-        "url": "https://open.spotify.com/album/5FnjxMOH7N4FpHcaH0POY9"
-      },
-      "artists": [
-        {
-          "name": "Kine Hellebust",
-          "url": "https://open.spotify.com/artist/1xt1wtsor2VKjhcQebd9Ec"
-        }
-      ],
-      "duration_ms": 254380,
-      "name": "Det Hainnle Om \u00c5 Leve",
-      "url": "https://open.spotify.com/track/53EbOd2bdKu4oNEkCKAfOX"
     },
     {
       "added_at": "2022-08-18 22:01:00",
@@ -795,22 +795,6 @@
     {
       "added_at": "2022-08-18 22:01:00",
       "album": {
-        "name": "Sm\u00e5`n",
-        "url": "https://open.spotify.com/album/7nc2z9Yw6Q7DL0aUKg5XoC"
-      },
-      "artists": [
-        {
-          "name": "Trygve Skaug",
-          "url": "https://open.spotify.com/artist/1Vd2c4IrEtcO5mrIwbep6n"
-        }
-      ],
-      "duration_ms": 191902,
-      "name": "Sm\u00e5`n",
-      "url": "https://open.spotify.com/track/4ZjF0DpPdbjXbC27GYzEIE"
-    },
-    {
-      "added_at": "2022-08-18 22:01:00",
-      "album": {
         "name": "Stemmer i gresset",
         "url": "https://open.spotify.com/album/4pShZqbj6GLGA1WOJN1z8p"
       },
@@ -827,18 +811,38 @@
     {
       "added_at": "2022-08-18 22:01:00",
       "album": {
-        "name": "Kr\u00e5keviks Songbok",
-        "url": "https://open.spotify.com/album/5SdOIn61IrYoS5xg5sejzf"
+        "name": "Sm\u00e5`n",
+        "url": "https://open.spotify.com/album/7nc2z9Yw6Q7DL0aUKg5XoC"
       },
       "artists": [
         {
-          "name": "Herborg Kr\u00e5kevik",
-          "url": "https://open.spotify.com/artist/5uvwGfXbw7uUF9JI0KqKK5"
+          "name": "Trygve Skaug",
+          "url": "https://open.spotify.com/artist/1Vd2c4IrEtcO5mrIwbep6n"
         }
       ],
-      "duration_ms": 178760,
-      "name": "Den Fyrste Song",
-      "url": "https://open.spotify.com/track/2enwSZWWEhMxCoGaWke2Qe"
+      "duration_ms": 191902,
+      "name": "Sm\u00e5`n",
+      "url": "https://open.spotify.com/track/4ZjF0DpPdbjXbC27GYzEIE"
+    },
+    {
+      "added_at": "2022-08-18 22:01:00",
+      "album": {
+        "name": "Den st\u00f8rste reisen",
+        "url": "https://open.spotify.com/album/6SztCAuymcjUkhwCITQozJ"
+      },
+      "artists": [
+        {
+          "name": "Benny Borg",
+          "url": "https://open.spotify.com/artist/3eYsDUyn51BM8warjE2uX0"
+        },
+        {
+          "name": "Sigmund Groven",
+          "url": "https://open.spotify.com/artist/35he9yh8ik3SiRr3RnafUT"
+        }
+      ],
+      "duration_ms": 248303,
+      "name": "God morgen, min kj\u00e6re",
+      "url": "https://open.spotify.com/track/5umEvtxcXt8FOguVU8jeKV"
     }
   ],
   "unique_name": "Norske viser",

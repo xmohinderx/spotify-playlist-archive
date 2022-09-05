@@ -4,7 +4,7 @@
 
 > Your daily dose of soul\-infused music! Cover: Cory Henry
 
-536 songs - 1 day 8 hr 46 min - [published](https://open.spotify.com/playlist/6qA0E068EG9WMYU2rtBJTj)
+537 songs - 1 day 8 hr 49 min - [published](https://open.spotify.com/playlist/6qA0E068EG9WMYU2rtBJTj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -289,7 +289,7 @@
 | [Love's Train](https://open.spotify.com/track/60gTdTwaNtGAzIxKfeGVfJ) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [Love's Train](https://open.spotify.com/album/6QKXGIgwWmWBMmIktMOchR) | 5:07 | 2022-02-15 |  |
 | [Loving Someone \- Pt\. 1](https://open.spotify.com/track/3EohOPnAhvkc9XcVgBvbmD) | [Jaguar Skills](https://open.spotify.com/artist/3L1oMxInSBbQgoYVSjUkcR), [Omar](https://open.spotify.com/artist/0BzTIDnFI4pvhy7vVNd41Z) | [Loving Someone](https://open.spotify.com/album/0dMq34THSVZI5OI9KdlPU2) | 3:38 | 2021-08-06 | 2021-10-29 |
 | [Loving You](https://open.spotify.com/track/5WfaCiV8sAaSXHvu1uSSaT) | [Joshua J](https://open.spotify.com/artist/2AZupS7RiLA0sh5uzwsr2l) | [Loving You](https://open.spotify.com/album/4DwytUPjIttOwkVAC8CP7u) | 3:48 | 2021-04-17 | 2021-08-03 |
-| [Loving You](https://open.spotify.com/track/7IjkvqOM9CHGbzmdTUSym1) | [Joshua J](https://open.spotify.com/artist/2AZupS7RiLA0sh5uzwsr2l) | [Loving You](https://open.spotify.com/album/6jPxo5X8PDJCaDcvqVSeNC) | 3:48 | 2021-08-03 |  |
+| [Loving You](https://open.spotify.com/track/7IjkvqOM9CHGbzmdTUSym1) | [Joshua J](https://open.spotify.com/artist/2AZupS7RiLA0sh5uzwsr2l) | [Loving You](https://open.spotify.com/album/6jPxo5X8PDJCaDcvqVSeNC) | 3:48 | 2021-08-03 | 2022-09-05 |
 | [Loving You Is Easy](https://open.spotify.com/track/4fARowx7Swbgt8TYaKhK2a) | [Flo Naegeli](https://open.spotify.com/artist/0liNX4mflJExPsvDkY7yfa) | [Loving You Is Easy](https://open.spotify.com/album/0pAufedG5sDBUANDnE7IAX) | 3:29 | 2022-03-10 |  |
 | [Lucifer](https://open.spotify.com/track/1TK6rzvHi9loO8kx4WVL11) | [James Chatburn](https://open.spotify.com/artist/4sOcMLlr0hMwrLXScjAgoq) | [Faible \- Teil 2](https://open.spotify.com/album/0NChfj3CUqxGMujgZQm0o9) | 4:09 | 2021-04-17 | 2021-04-23 |
 | [Madelyn](https://open.spotify.com/track/39ZpHwLpCFBDeLpOphQYLQ) | [Anderson East](https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby) | [Madelyn](https://open.spotify.com/album/2GxqnG8rJVHG18Bm27vpo0) | 3:15 | 2021-04-17 |  |
@@ -480,6 +480,7 @@
 | [Tonight Tonight](https://open.spotify.com/track/1lk1AQ4NL2F5INzLcCWa1u) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Not Your Muse \(Deluxe\)](https://open.spotify.com/album/3bqEvlGHE4amqPGZtdMnep) | 3:39 | 2021-02-06 | 2021-07-23 |
 | [Too Perfect To Be Loved](https://open.spotify.com/track/5YuEVtQpx9bS4wBLeeBsQN) | [SABRI](https://open.spotify.com/artist/0WhmMZXwrGzYK5lWJZiej5) | [Too Perfect To Be Loved](https://open.spotify.com/album/5ZyWcitUKa4Om03m6yP2Vu) | 3:44 | 2022-05-12 | 2022-07-01 |
 | [Traingazing](https://open.spotify.com/track/1QIIQ1B2syNBSvQULkXgTa) | [Sam Wills](https://open.spotify.com/artist/7JFinw4LobpCUjapyKvsjo), [Honey Mooncie](https://open.spotify.com/artist/5GACks0pdDAgyd63kXBJFk) | [Traingazing](https://open.spotify.com/album/5r9C08yALmCzzArnWeoxHC) | 3:34 | 2020-03-25\* | 2021-04-23 |
+| [Treat U Good](https://open.spotify.com/track/7tqs4OKzl896INyq5af4Qu) | [Moods](https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez), [Noah Slee](https://open.spotify.com/artist/2inX1svE5swPuIBIJdrFyo), [Lyriya](https://open.spotify.com/artist/3kh6Ltl9keXAm5NcLvdSjI), [MERON](https://open.spotify.com/artist/1PUEwFv131uL8pigp6fNlG) | [Treat U Good](https://open.spotify.com/album/3ClRTsQuJUaUg340vgZDOA) | 3:37 | 2022-08-25 |  |
 | [Trippin](https://open.spotify.com/track/6hURVOp7JtavNu11tfl912) | [Goldkimono](https://open.spotify.com/artist/3krHIfEy37pVe0zjdisDBk), [DAO](https://open.spotify.com/artist/0vO0wjb2c1Bkyj9zffz2m9) | [Trippin](https://open.spotify.com/album/4BIweiaOt0a8tMBV9Ncigs) | 3:10 | 2022-07-14 |  |
 | [Tropical Commotion](https://open.spotify.com/track/2Z1PLz4doUUmo18lIqFmry) | [Lorrèn](https://open.spotify.com/artist/6VL1YDd4vftDH5vkCbufxG) | [Pieces \(EP\)](https://open.spotify.com/album/40DNbdaTg3zjgf9pDCMhPw) | 3:47 | 2021-07-02 | 2022-05-20 |
 | [Trouble](https://open.spotify.com/track/3L7HXWRZMkSR7dEi4ttJOj) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Trouble](https://open.spotify.com/album/7arfU7Nnx72FDYB83muIRY) | 3:04 | 2021-10-29 | 2021-12-01 |

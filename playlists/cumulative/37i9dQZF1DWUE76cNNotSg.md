@@ -4,7 +4,7 @@
 
 > Warm indie dance vibes, the music you need at golden hour.
 
-310 songs - 20 hr 29 min - [published](https://open.spotify.com/playlist/4ugtMYCOMKGk6u5JwB5V7b)
+311 songs - 20 hr 32 min - [published](https://open.spotify.com/playlist/4ugtMYCOMKGk6u5JwB5V7b)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,12 +143,13 @@
 | [Kinda Lovely](https://open.spotify.com/track/3g3lqFthZ9yjNhcCjUDzFW) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [Low Season](https://open.spotify.com/album/7LFYknpolISd3ObShh7nSe) | 3:57 | 2020-12-22 |  |
 | [Kyle \(i found you\)](https://open.spotify.com/track/0v1g5U1OAb0XBjKyA8R36i) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Kyle \(i found you\)](https://open.spotify.com/album/2myK0q2FH45JQRUxepp4en) | 3:16 | 2020-12-22 |  |
 | [Kyoto](https://open.spotify.com/track/2QXvZBjs59MbSQ20GxoqA2) | [OTR](https://open.spotify.com/artist/0oeUdHJ3cy1oveb8WguJJt) | [Kyoto](https://open.spotify.com/album/1qR5wPZbSGwhQso0PD8Zye) | 4:00 | 2020-12-22 | 2022-07-23 |
-| [La Perla \- Edit](https://open.spotify.com/track/6CldyxMa4XuHWAhAlaPWmt) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [La Perla](https://open.spotify.com/album/4N2nM5QZXYNbWPtxOADiAw) | 3:46 | 2021-03-19 |  |
+| [La Perla \- Edit](https://open.spotify.com/track/6CldyxMa4XuHWAhAlaPWmt) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [La Perla](https://open.spotify.com/album/4N2nM5QZXYNbWPtxOADiAw) | 3:46 | 2021-03-19 | 2022-09-05 |
 | [La piscine](https://open.spotify.com/track/1iSzIT6j7be9u0oNTHutRn) | [Hypnolove](https://open.spotify.com/artist/1MRkDoyt3FmhmZNgnwkfLf) | [Plexus](https://open.spotify.com/album/1LnK1kq4zWwO5MEuJndzT0) | 3:48 | 2020-12-22 | 2022-04-20 |
 | [Late Night](https://open.spotify.com/track/1pqOdQkmYdM7AUM1q3L1mN) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw) | [Late Night](https://open.spotify.com/album/0PpO5XVbEIfXBpYq3DsiLB) | 3:48 | 2020-12-22 | 2022-04-21 |
 | [Light That Shines Through](https://open.spotify.com/track/4YzP1J64MRM6AWsCUNQPIL) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [Light That Shines Through](https://open.spotify.com/album/5Yy56M831VMgPdbHAB8rRF) | 3:40 | 2021-04-02 | 2022-07-29 |
 | [Line Of Sight \(feat\. WYNNE & Mansionair\)](https://open.spotify.com/track/2IUHcSxFPDKLRVgjXxvKjl) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [WYNNE](https://open.spotify.com/artist/7MtZPIh0gpnInKFnXGcYDS), [Mansionair](https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s) | [Line Of Sight](https://open.spotify.com/album/1WKg1QuiOzh0HpzgzmfsOn) | 3:57 | 2020-12-22 | 2022-04-12 |
 | [littlebitwild](https://open.spotify.com/track/7maYVnkJyhgI3ObNeEyT3C) | [Golden Vessel](https://open.spotify.com/artist/6bJCrLZcvsBMzve04BmgwS), [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [littlebitwild](https://open.spotify.com/album/4wkd3dJFopVf2GBPRfMsd4) | 3:05 | 2020-12-22 | 2022-07-29 |
+| [Living The Life](https://open.spotify.com/track/0U4BsTlcGsdLldHE7wnniA) | [Tep No](https://open.spotify.com/artist/7MlotYZhHjOlXcvmwrITj8) | [Finding Sounds](https://open.spotify.com/album/4rq5ZRLwtLjCWqKveXQ6Nn) | 3:38 | 2022-08-12 |  |
 | [Lobster Claw](https://open.spotify.com/track/6DYll13PHEqMDnLtrDDUmD) | [October Tooth](https://open.spotify.com/artist/1vwb2e3nTwu2n2eDVGRFeu) | [Lobster Claw](https://open.spotify.com/album/4VLqray3a2RolDlRcaLEzs) | 2:27 | 2020-12-22 | 2022-07-28 |
 | [Loom \(feat\. Bonobo\)](https://open.spotify.com/track/3Yagxg6rtkwN01AYzA862i) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Loom](https://open.spotify.com/album/2kfPunUS5HqupNVAueFmgM) | 3:46 | 2020-12-22 | 2022-04-16 |
 | [Lossless](https://open.spotify.com/track/6aAFA2UDnscyZmhSc7LCxS) | [Tabrill](https://open.spotify.com/artist/6UNNfj6x9ahHqatWsMC6mo), [Emily](https://open.spotify.com/artist/154XTBCLuA25Cfvlfdpp4d) | [Lossless](https://open.spotify.com/album/24CP5wrqo8PJhKqOZECbhH) | 3:24 | 2020-12-22 | 2022-04-20 |

@@ -4,7 +4,7 @@
 
 > French scene makes some noise!
 
-197 songs - 12 hr 32 min - [published](https://open.spotify.com/playlist/16ojsYsGmxEyBlFo3lFArf)
+198 songs - 12 hr 36 min - [published](https://open.spotify.com/playlist/16ojsYsGmxEyBlFo3lFArf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,7 @@
 | [I Need a Blue](https://open.spotify.com/track/4994q3UseinN3Fac9p3v95) | [G L I T C H](https://open.spotify.com/artist/2PoDbctAc8F4fvSYw3F9MG) | [I Need a Blue](https://open.spotify.com/album/5cQBjAgYh9tf6jaqFmbIUY) | 3:44 | 2022-04-27 | 2022-07-29 |
 | [I See You Dead](https://open.spotify.com/track/4DAlJFTyn1MpQtfy7L5Ikx) | [Black Ink Stain](https://open.spotify.com/artist/0ZEvBBruXr6Hvu28F35xLe) | [I See You Dead](https://open.spotify.com/album/54PfUX6A4cfJhIiC2SxkB8) | 4:43 | 2021-12-30 | 2022-07-27 |
 | [I Want Her](https://open.spotify.com/track/0WwappRzOx2WD4ns9CqAuz) | [Von Pariahs](https://open.spotify.com/artist/1ZTgRXHRnEsxf1pwq25GQK) | [Genuine Feelings](https://open.spotify.com/album/30dc25H7Z3AMEAiPuyhKJj) | 3:47 | 2022-01-03 | 2022-06-24 |
-| [I Was Told](https://open.spotify.com/track/2zaAzeUiTErdnNpnD6Cuz2) | [Do It Later](https://open.spotify.com/artist/4ghzsBC2zItzqKvULx6CGF), [Totorro](https://open.spotify.com/artist/470SGea4tIbGLTpKcYJfLx) | [I Was Told](https://open.spotify.com/album/0zWiTtWOkCq97ilSJOO5A1) | 3:33 | 2022-06-30 |  |
+| [I Was Told](https://open.spotify.com/track/2zaAzeUiTErdnNpnD6Cuz2) | [Do It Later](https://open.spotify.com/artist/4ghzsBC2zItzqKvULx6CGF), [Totorro](https://open.spotify.com/artist/470SGea4tIbGLTpKcYJfLx) | [I Was Told](https://open.spotify.com/album/0zWiTtWOkCq97ilSJOO5A1) | 3:33 | 2022-06-30 | 2022-09-05 |
 | [I'll Never Let You Down](https://open.spotify.com/track/6csJiNDFkSveL0m9GimnLJ) | [Storm Orchestra](https://open.spotify.com/artist/5Zl04O5XJOu7kGrAosCPfR) | [Storm Orchestra \(Deluxe\)](https://open.spotify.com/album/4GOQKvNxE2SBS8s5wjqjwi) | 3:00 | 2022-04-17 | 2022-07-29 |
 | [I'm Not Shallow Anymore](https://open.spotify.com/track/7lFoUyqzPBxIYd8ym94z9b) | [Hallowed Ground](https://open.spotify.com/artist/6YqFkQS9wiZXghL4aavRFh) | [I'm Not Shallow Anymore](https://open.spotify.com/album/62DebgPW62MyV7uLxjzBuf) | 4:25 | 2021-12-31 |  |
 | [If Only They Could](https://open.spotify.com/track/2TJdettbWrIvxsUsTki1S4) | [MNNQNS](https://open.spotify.com/artist/1xv8LIJ3qAL2EioqhUjqtY) | [Advertisement](https://open.spotify.com/album/230xxMa21n51rU8HT8e9OK) | 3:51 | 2021-12-15 | 2022-07-29 |
@@ -141,6 +141,7 @@
 | [Passing On](https://open.spotify.com/track/77RdXeklfjztw82RQxDYl4) | [Untitled With Drums](https://open.spotify.com/artist/4XiFVuDepsbUebkmNbTjlu) | [Hollow](https://open.spotify.com/album/1UsNAHV9iXUpZtfKQVM8bQ) | 4:05 | 2021-12-15 | 2022-07-28 |
 | [Peeling the Onion](https://open.spotify.com/track/5e8Fj1zNqVK5aDhpBjICev) | [Th Da Freak](https://open.spotify.com/artist/21bdasKU3vHrH6tjuhBIjd) | [Freakenstein](https://open.spotify.com/album/46CswcgmRweHhj7oSvqeS4) | 3:43 | 2021-12-15 | 2022-07-24 |
 | [People In The Shadow](https://open.spotify.com/track/13Kk7Slvx443ZmMAFB9fjP) | [Skip the Use](https://open.spotify.com/artist/6UWiE4V9p2HK4C74A0CGKB) | [Can Be Late \(Super Deluxe Version\)](https://open.spotify.com/album/2D9zCv79mWQw6j3nRTcf4N) | 4:30 | 2022-04-17 | 2022-07-29 |
+| [People In The Shadow](https://open.spotify.com/track/23IOlyuOIfugicmFf6yfNf) | [Skip the Use](https://open.spotify.com/artist/6UWiE4V9p2HK4C74A0CGKB) | [Can Be Late](https://open.spotify.com/album/0b4jmkqHnglDe9FUvsuGIW) | 4:31 | 2022-06-30 |  |
 | [Playing Dead](https://open.spotify.com/track/4KuwjTOfniivWFKJz3p1yW) | [Chunk! No, Captain Chunk!](https://open.spotify.com/artist/03jrbNTeSKP9m161juhm0h) | [Get Lost, Find Yourself](https://open.spotify.com/album/5jAkJlpRcL7CGmBcApdNjW) | 3:29 | 2022-04-17 |  |
 | [Power Lines](https://open.spotify.com/track/1oHDykzsljPnHszthIcZb5) | [Two Trains Left](https://open.spotify.com/artist/3CKpFibQUpWRorEYFxLNJn) | [Power Lines](https://open.spotify.com/album/1mIwSpOUpBdWloZoz96MTS) | 3:40 | 2021-12-15 |  |
 | [Pretty Vicious Summer](https://open.spotify.com/track/2o7UfjK4hX42hJ5rhC27xS) | [Murder At The Pony Club](https://open.spotify.com/artist/7C3EICXmCNNxgAs2CPneWO) | [Pretty Vicious Summer](https://open.spotify.com/album/03wwVkw1W92XMrW45nKzN9) | 4:20 | 2021-12-15 | 2022-07-28 |

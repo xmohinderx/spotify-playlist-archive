@@ -4,7 +4,7 @@
 
 > Dip your feet in the pool and enjoy this perfect summer house mix!
 
-190 songs - 9 hr 39 min - [published](https://open.spotify.com/playlist/6NDzsmnIYKIFzcUbiNvjdZ)
+191 songs - 9 hr 42 min - [published](https://open.spotify.com/playlist/6NDzsmnIYKIFzcUbiNvjdZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,7 +124,7 @@
 | [Never Going Home](https://open.spotify.com/track/2fuWIFyY452wmNOoT32EB8) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d) | [Club Azur](https://open.spotify.com/album/1F27jLhFpbPMTB8DY15nTK) | 2:49 | 2022-03-25 |  |
 | [Never Really Loved Me \(with Dean Lewis\)](https://open.spotify.com/track/1O73ZKgl0THUImkHW6dfAL) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Never Really Loved Me \(with Dean Lewis\)](https://open.spotify.com/album/1wbg9GPcUBlvM9uYjdqZ2D) | 3:22 | 2022-07-01 |  |
 | [Neverland](https://open.spotify.com/track/4i74xaJ4ryjSNRnwQiwlHY) | [No Treasure](https://open.spotify.com/artist/66GofoGxQ1OAlCvfPRI90x), [Marmy](https://open.spotify.com/artist/7GDzOgd5Z7GSqIyfDcVguz) | [Neverland](https://open.spotify.com/album/6ILICHcoO9TA12sU0GzsQO) | 2:40 | 2021-10-29 | 2022-03-18 |
-| [Nightingale](https://open.spotify.com/track/4z9obgtFzinZXBpwG8Flik) | [Panuma](https://open.spotify.com/artist/3YvNtTSaJ2YAt1RhaE9eiH), [Kayla](https://open.spotify.com/artist/6FHqXSFTmhWlgERTHLD9ct) | [Nightingale](https://open.spotify.com/album/5UpHekXcg2yEn2XMplYVWy) | 3:48 | 2021-10-29 |  |
+| [Nightingale](https://open.spotify.com/track/4z9obgtFzinZXBpwG8Flik) | [Panuma](https://open.spotify.com/artist/3YvNtTSaJ2YAt1RhaE9eiH), [Kayla](https://open.spotify.com/artist/6FHqXSFTmhWlgERTHLD9ct) | [Nightingale](https://open.spotify.com/album/5UpHekXcg2yEn2XMplYVWy) | 3:48 | 2021-10-29 | 2022-09-05 |
 | [No Letting Go](https://open.spotify.com/track/7kTdLu5ZNyEFB2aChJXv3I) | [DJ Katch](https://open.spotify.com/artist/1AAfkmCFRTSDg18GQ3itgl), [Nonô](https://open.spotify.com/artist/2izgj6WOKJsuCRCQUKOoVO) | [No Letting Go](https://open.spotify.com/album/3B8xnuYemxIakH1dmmEvt2) | 3:15 | 2021-10-29 | 2022-07-26 |
 | [No Mercy](https://open.spotify.com/track/2eU50HdqsZPXNBzKOdiwkV) | [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W), [nomerci](https://open.spotify.com/artist/5tygsM77YMbY8WgkVKhv4R) | [No Mercy](https://open.spotify.com/album/7i1hSeAp6foMVkuzhqYibE) | 2:46 | 2021-10-29 | 2022-05-22 |
 | [Now or Never](https://open.spotify.com/track/6nNXTSvVO6ue9Ywshh4PZ4) | [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan), [Dominic Neill](https://open.spotify.com/artist/4PIv3Lyk3erxjcwBZFVNgi) | [Now or Never](https://open.spotify.com/album/0wXhfqZywLaSc3EHaA5kWt) | 3:02 | 2022-07-01 |  |
@@ -185,6 +185,7 @@
 | [Vacation \- AttaBoy Remix](https://open.spotify.com/track/5Z1D5FxxEhGv1WvCCCmxDr) | [Dirty Heads](https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f), [AttaBoy](https://open.spotify.com/artist/7dt4zOrVQH8B9nPh9hMNLI) | [Vacation \(AttaBoy Remix\)](https://open.spotify.com/album/7D63vViVZvoDMYUhZx2I4K) | 3:18 | 2022-03-25 | 2022-04-21 |
 | [Venus](https://open.spotify.com/track/24BpEMuWCSCgXvdXcEVm4b) | [MOUNT](https://open.spotify.com/artist/4DMDkM0xOw9eBeCpW60ycz), [Emdey](https://open.spotify.com/artist/74p1xp9ykLc2z0r5Nl3W7J) | [Venus](https://open.spotify.com/album/1YTvOpiIjdHwBH5qFLepJZ) | 2:46 | 2021-10-29 | 2022-03-26 |
 | [Wait a Minute!](https://open.spotify.com/track/4cPr0t2tHNRUeEBIH5lSin) | [Nicolas Julian](https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb) | [Wait a Minute!](https://open.spotify.com/album/5jT6MNndzzX9QZYMGaDECv) | 2:25 | 2022-04-15 | 2022-06-22 |
+| [Waiting](https://open.spotify.com/track/1HnFqtNMbrUrkbRUxRD3Sl) | [Moonkids](https://open.spotify.com/artist/2OozlR5HfAAp7LwPmOxcsm) | [Waiting](https://open.spotify.com/album/0KL9SoyKme5QJ19m2IgR64) | 2:39 | 2022-09-02 |  |
 | [Wake Up! \(feat\. Kaleta\)](https://open.spotify.com/track/167msRZW7cXIc6KYs0k2R1) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Bosq](https://open.spotify.com/artist/2tpbLTmBZZcGvcCHX6uw1U), [Kaleta](https://open.spotify.com/artist/1nvtmWdce9bvVkKAZ5g46m) | [Wake Up! \(feat\. Kaleta\)](https://open.spotify.com/album/4LrghOSegI6sFcPgaYwDrH) | 3:52 | 2022-06-24 | 2022-07-29 |
 | [Wake Up! \(feat\. Kaleta\)](https://open.spotify.com/track/7sMYJtxTHZKCDr48rAoA4J) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Bosq](https://open.spotify.com/artist/2tpbLTmBZZcGvcCHX6uw1U), [Kaleta](https://open.spotify.com/artist/1nvtmWdce9bvVkKAZ5g46m) | [Wake Up! \(feat\. Kaleta\)](https://open.spotify.com/album/3tTRLML0NouWERt09k2Whv) | 3:52 | 2022-07-08 |  |
 | [Wasteland \- Ryan Riback Remix](https://open.spotify.com/track/0V31Yrhdhgz8styU838LAE) | [Thunder Bae](https://open.spotify.com/artist/2urVnN3dqfvm7e5z1jADT6), [Ryan Riback](https://open.spotify.com/artist/33JQK4UoS2aMPYBfdB5Ftt) | [Wasteland \(Ryan Riback Remix\)](https://open.spotify.com/album/3b7Wf8bUA2c3EsehrWLten) | 2:35 | 2022-05-31 | 2022-07-22 |

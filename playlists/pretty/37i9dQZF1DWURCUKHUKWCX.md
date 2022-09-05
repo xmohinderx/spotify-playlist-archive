@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURCUKHUKWCX.md) - [plain]
 
 > Atmospheric and emotional piano pieces.
 
-[Spotify](https://open.spotify.com/user/spotify) - 338,618 likes - 128 songs - 7 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 338,064 likes - 128 songs - 7 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURCUKHUKWCX.md) - [plain]
 | 43 | [Viola's Theme \- Music For Theatre](https://open.spotify.com/track/49s3cG4RJNxpnTcptWjihX) | [Jacob Mühlrad](https://open.spotify.com/artist/0P9g1ss8CfLwU62fzm8Ldf), [Joel Lyssarides](https://open.spotify.com/artist/6OMYcSur3Y0DthpzbVkxAx) | [Tröstrapporter \(Music For Theatre\)](https://open.spotify.com/album/4dCJnf1ZWcYOrqdfWEsmL9) | 3:09 |
 | 44 | [Dear, Dolores \- Dominique Charpentier Rework](https://open.spotify.com/track/4td4zI14Dq7ct7XHASNaoK) | [Illuminine](https://open.spotify.com/artist/2JgcaYYHEGDqrKKJzuVda5), [Dominique Charpentier](https://open.spotify.com/artist/2BDEX7NzONc6kAxVXu9lBa) | [Dear, Dolores \(Dominique Charpentier Rework\)](https://open.spotify.com/album/62cR9HzK7RSG2nE8KUKOVk) | 2:02 |
 | 45 | [Playful \(variation\)](https://open.spotify.com/track/2vrY8qX7KWe8RGNQYLVix5) | [Carlos Cipa](https://open.spotify.com/artist/23Yv6j1axUmPPo5M6u6erO) | [Correlations B\-Sides \(on Yamaha Upright, 1981\)](https://open.spotify.com/album/2G4IIha9htug2thniT54uy) | 3:17 |
-| 46 | [One Look \- Solo Piano Version](https://open.spotify.com/track/79UTVXirLKGg722iyWAlLh) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Hope, Ascending \(Solo Piano Version\)](https://open.spotify.com/album/7gOdkCD1pDOKqF7Khofniy) | 3:18 |
+| 46 | [One Look \- Solo Piano Version](https://open.spotify.com/track/5hyeuyL8PXCMoFlwXixGjI) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Still Life \(Solo Piano Version\)](https://open.spotify.com/album/2HBQlWRHDJqUlr1iUX22iu) | 3:18 |
 | 47 | [Holm Sound](https://open.spotify.com/track/7vvqiqB4O7nPXWxiehIH9l) | [Erland Cooper](https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa) | [Holm Sound](https://open.spotify.com/album/3B8s4Z5VhzbK1R7upD1IP5) | 2:55 |
 | 48 | [Empathy in C Minor](https://open.spotify.com/track/0UDYe5EoHGgEat7DK2u8yv) | [Luke Woodapple](https://open.spotify.com/artist/2KNwx5UTputMUl54ggtPpK), [Out of Berlin](https://open.spotify.com/artist/4OzYsuivUpglOu6MBEpwEe) | [Silent Places](https://open.spotify.com/album/1dP6W90C2R2bEpgLDJShp3) | 3:13 |
 | 49 | [Breeze](https://open.spotify.com/track/01tRuWrspjX9qrrLqASycJ) | [BKE](https://open.spotify.com/artist/51VogrGKLinkrSwYToAW1C) | [my first piano: Rondo](https://open.spotify.com/album/7FgEC4hcKUaGwInuoeKfQo) | 3:26 |
@@ -137,4 +137,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURCUKHUKWCX.md) - [plain]
 | 127 | [An Ending, a Beginning](https://open.spotify.com/track/2t6aXckrRWNnKb0ysc1vBc) | [Dustin O'Halloran](https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq) | [Late Night Tales: Bonobo](https://open.spotify.com/album/75mOIzgjMsFLN5hyQlpsy8) | 2:08 |
 | 128 | [](https://open.spotify.com/track/4ltFUwVA65LD3vgoFQo68b) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/0L9vIwfTY6FIZexNc1aq27) | 0:00 |
 
-Snapshot ID: `MTY1OTY3MjEyMCwwMDAwMDAwMDA2NjcxMmY0OGY2ODQ2YWFlZTQzMjJmNzcyM2E3Mzhi`
+Snapshot ID: `MTY1OTY3MjEyMCwwMDAwMDAwMGNmYmU0YWUwMDkxMTBlMzdhMGY1MzFmZTA1ZDY5OGZj`

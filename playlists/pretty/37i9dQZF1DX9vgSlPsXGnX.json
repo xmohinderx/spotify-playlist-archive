@@ -1,12 +1,12 @@
 {
   "description": "Deja que el sentimiento de los boleros te enamore a la antigua.",
-  "num_followers": 35816,
+  "num_followers": 35893,
   "original_name": "B\u00e9same Mucho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDUyMTcxOCwwMDAwMDAwMDBhYzU2YzBlOGU3YTI3ZDM2ZmFjMDAwNGZhNzE4ZDgz",
+  "snapshot_id": "MTY0MDUyMTcxOCwwMDAwMDAwMDEzMWExZjAwZjIwZGU3NmM4MzlkMjk5NTRjNWM4M2Rl",
   "tracks": [
     {
       "added_at": "2021-12-26 12:28:38",
@@ -339,22 +339,6 @@
     {
       "added_at": "2021-12-26 12:28:38",
       "album": {
-        "name": "Los Tecolines: Bolero Romantico",
-        "url": "https://open.spotify.com/album/2HaemXURrtkV1aOjGgXq2S"
-      },
-      "artists": [
-        {
-          "name": "Los Tecolines",
-          "url": "https://open.spotify.com/artist/3NnhZWS3bdFwcm1GPkzcNv"
-        }
-      ],
-      "duration_ms": 182151,
-      "name": "Cerezo Rosa",
-      "url": "https://open.spotify.com/track/37Z7PlwDB0OUv2VWHO3tPw"
-    },
-    {
-      "added_at": "2021-12-26 12:28:38",
-      "album": {
         "name": "Serenata con Pedro Infante",
         "url": "https://open.spotify.com/album/63prOSb92fN9FSO1LSfPO7"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 198080,
       "name": "No me platiques",
       "url": "https://open.spotify.com/track/78nszOi3nyWJG0UmLrSeAB"
+    },
+    {
+      "added_at": "2021-12-26 12:28:38",
+      "album": {
+        "name": "Los Tecolines: Bolero Romantico",
+        "url": "https://open.spotify.com/album/2HaemXURrtkV1aOjGgXq2S"
+      },
+      "artists": [
+        {
+          "name": "Los Tecolines",
+          "url": "https://open.spotify.com/artist/3NnhZWS3bdFwcm1GPkzcNv"
+        }
+      ],
+      "duration_ms": 182151,
+      "name": "Cerezo Rosa",
+      "url": "https://open.spotify.com/track/37Z7PlwDB0OUv2VWHO3tPw"
     },
     {
       "added_at": "2021-12-26 12:28:38",
@@ -603,26 +603,6 @@
     {
       "added_at": "2021-12-26 12:28:38",
       "album": {
-        "name": "Canta",
-        "url": "https://open.spotify.com/album/34SGNnZ6tCYw7v00Y0H6KZ"
-      },
-      "artists": [
-        {
-          "name": "Carmen Delia Dipini",
-          "url": "https://open.spotify.com/artist/6DmGRDkFsjh9CAdjzcueSL"
-        },
-        {
-          "name": "Johnny Rodriguez Y Su Trio",
-          "url": "https://open.spotify.com/artist/3uAVQsk8Roan0ICqULYAka"
-        }
-      ],
-      "duration_ms": 190760,
-      "name": "Delirio",
-      "url": "https://open.spotify.com/track/23lcRsgi0OWWUaUmpHctS8"
-    },
-    {
-      "added_at": "2021-12-26 12:28:38",
-      "album": {
         "name": "Latin Trumpets - Bolero",
         "url": "https://open.spotify.com/album/3E15XVDoZD3HO4rmbxN27K"
       },
@@ -639,6 +619,26 @@
       "duration_ms": 168866,
       "name": "Historia de un Amor",
       "url": "https://open.spotify.com/track/5YkbsYoT60QOccHeKbDnUY"
+    },
+    {
+      "added_at": "2021-12-26 12:28:38",
+      "album": {
+        "name": "Canta",
+        "url": "https://open.spotify.com/album/34SGNnZ6tCYw7v00Y0H6KZ"
+      },
+      "artists": [
+        {
+          "name": "Carmen Delia Dipini",
+          "url": "https://open.spotify.com/artist/6DmGRDkFsjh9CAdjzcueSL"
+        },
+        {
+          "name": "Johnny Rodriguez Y Su Trio",
+          "url": "https://open.spotify.com/artist/3uAVQsk8Roan0ICqULYAka"
+        }
+      ],
+      "duration_ms": 190760,
+      "name": "Delirio",
+      "url": "https://open.spotify.com/track/23lcRsgi0OWWUaUmpHctS8"
     },
     {
       "added_at": "2021-12-26 12:28:38",
@@ -875,18 +875,18 @@
     {
       "added_at": "2021-12-26 12:28:38",
       "album": {
-        "name": "Pedro Infante y Jorge Negrete",
-        "url": "https://open.spotify.com/album/3bH1s1EX0DRoKpJBqGI0UX"
+        "name": "El Estilo de Roberto Ledesma",
+        "url": "https://open.spotify.com/album/2cW8xEyy96yugn4JzlSsBM"
       },
       "artists": [
         {
-          "name": "Trio Calaveras",
-          "url": "https://open.spotify.com/artist/6lS7WlU3MgVuHK0o4TRwSs"
+          "name": "Roberto Ledesma",
+          "url": "https://open.spotify.com/artist/2Ejmg38PVquSCqD7ijebmY"
         }
       ],
-      "duration_ms": 205740,
-      "name": "Flor de Azalea",
-      "url": "https://open.spotify.com/track/0nOH0n5WdeoCR0mDbyye5x"
+      "duration_ms": 174000,
+      "name": "Mira Que Eres Linda",
+      "url": "https://open.spotify.com/track/3QMnlOZnTJtoJwyizN832A"
     },
     {
       "added_at": "2021-12-26 12:28:38",
@@ -907,18 +907,18 @@
     {
       "added_at": "2021-12-26 12:28:38",
       "album": {
-        "name": "El Estilo de Roberto Ledesma",
-        "url": "https://open.spotify.com/album/2cW8xEyy96yugn4JzlSsBM"
+        "name": "Pedro Infante y Jorge Negrete",
+        "url": "https://open.spotify.com/album/3bH1s1EX0DRoKpJBqGI0UX"
       },
       "artists": [
         {
-          "name": "Roberto Ledesma",
-          "url": "https://open.spotify.com/artist/2Ejmg38PVquSCqD7ijebmY"
+          "name": "Trio Calaveras",
+          "url": "https://open.spotify.com/artist/6lS7WlU3MgVuHK0o4TRwSs"
         }
       ],
-      "duration_ms": 174000,
-      "name": "Mira Que Eres Linda",
-      "url": "https://open.spotify.com/track/3QMnlOZnTJtoJwyizN832A"
+      "duration_ms": 205740,
+      "name": "Flor de Azalea",
+      "url": "https://open.spotify.com/track/0nOH0n5WdeoCR0mDbyye5x"
     },
     {
       "added_at": "2021-12-26 12:28:38",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2021-12-26 12:28:38",
       "album": {
-        "name": "16 Exitos De Oro",
-        "url": "https://open.spotify.com/album/3VY0qHeigmX5fmljWRSQkk"
-      },
-      "artists": [
-        {
-          "name": "Victor Yturbe \"El Piruli\"",
-          "url": "https://open.spotify.com/artist/288DN4mD1eyvKyVz8So3HB"
-        }
-      ],
-      "duration_ms": 186200,
-      "name": "Soy Lo Prohibido",
-      "url": "https://open.spotify.com/track/3NNehXVkdD040tJURh6Foc"
-    },
-    {
-      "added_at": "2021-12-26 12:28:38",
-      "album": {
         "name": "Eternamente",
         "url": "https://open.spotify.com/album/5DyJdvitTIEd4ncxUL0XHQ"
       },
@@ -1115,6 +1099,22 @@
     {
       "added_at": "2021-12-26 12:28:38",
       "album": {
+        "name": "16 Exitos De Oro",
+        "url": "https://open.spotify.com/album/3VY0qHeigmX5fmljWRSQkk"
+      },
+      "artists": [
+        {
+          "name": "Victor Yturbe \"El Piruli\"",
+          "url": "https://open.spotify.com/artist/288DN4mD1eyvKyVz8So3HB"
+        }
+      ],
+      "duration_ms": 186200,
+      "name": "Soy Lo Prohibido",
+      "url": "https://open.spotify.com/track/3NNehXVkdD040tJURh6Foc"
+    },
+    {
+      "added_at": "2021-12-26 12:28:38",
+      "album": {
         "name": "Tres Super Trios",
         "url": "https://open.spotify.com/album/0YJaOjYj6ljHzadphJcpMY"
       },
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2021-12-26 12:28:38",
       "album": {
-        "name": "Serie 20 Exitos",
-        "url": "https://open.spotify.com/album/2gwE57HQYUocdi8JvqYiIO"
-      },
-      "artists": [
-        {
-          "name": "Armando Manzanero",
-          "url": "https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT"
-        }
-      ],
-      "duration_ms": 155733,
-      "name": "Somos Novios",
-      "url": "https://open.spotify.com/track/58Q3mAOtrZdSbwAu9i92j2"
-    },
-    {
-      "added_at": "2021-12-26 12:28:38",
-      "album": {
         "name": "Cl\u00e1sicos de Oro de la Billo Caracas Boy's",
         "url": "https://open.spotify.com/album/5YgiH1ubwBvNWXM9xhSAsB"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 147906,
       "name": "Cuando Estemos Viejos",
       "url": "https://open.spotify.com/track/32md4AV9lZLvnx1kH84lVS"
+    },
+    {
+      "added_at": "2021-12-26 12:28:38",
+      "album": {
+        "name": "Serie 20 Exitos",
+        "url": "https://open.spotify.com/album/2gwE57HQYUocdi8JvqYiIO"
+      },
+      "artists": [
+        {
+          "name": "Armando Manzanero",
+          "url": "https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT"
+        }
+      ],
+      "duration_ms": 155733,
+      "name": "Somos Novios",
+      "url": "https://open.spotify.com/track/58Q3mAOtrZdSbwAu9i92j2"
     },
     {
       "added_at": "2021-12-26 12:28:38",

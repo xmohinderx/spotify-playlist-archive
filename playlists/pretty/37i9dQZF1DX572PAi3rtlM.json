@@ -1,12 +1,12 @@
 {
   "description": "That summer in the city feeling, any day of the week. ",
-  "num_followers": 23121,
+  "num_followers": 23167,
   "original_name": "Rooftop Sunset",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjEzNjQwMCwwMDAwMDAwMDllZTkyNmQwMmRmMTI4N2M4NmEyZjNhNDQ5MGM2ZDg5",
+  "snapshot_id": "MTY0MjEzNjQwMCwwMDAwMDAwMDIyMWFlZjFjM2ZhYzdjY2JiYmNlZTBkYWVjNWI2YWY4",
   "tracks": [
     {
       "added_at": "2021-09-01 00:59:23",
@@ -195,6 +195,30 @@
     {
       "added_at": "2021-09-01 00:59:23",
       "album": {
+        "name": "Diplo (Deluxe)",
+        "url": "https://open.spotify.com/album/6zPSpPHyyOkbT8zDy7Kzl7"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "SIDEPIECE",
+          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
+        },
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        }
+      ],
+      "duration_ms": 263414,
+      "name": "On My Mind - Purple Disco Machine Remix",
+      "url": "https://open.spotify.com/track/6geg6XWPAxmwlVl8ZNYns0"
+    },
+    {
+      "added_at": "2021-09-01 00:59:23",
+      "album": {
         "name": "Sa\u00fade",
         "url": "https://open.spotify.com/album/5zvIJc4CPmQhafWnvmd9UR"
       },
@@ -227,30 +251,6 @@
       "duration_ms": 377173,
       "name": "That Was Your Mother - Gui Boratto Remix",
       "url": "https://open.spotify.com/track/7qB5mBa997C6ddiCgmsfU4"
-    },
-    {
-      "added_at": "2021-09-01 00:59:23",
-      "album": {
-        "name": "Diplo (Deluxe)",
-        "url": "https://open.spotify.com/album/6zPSpPHyyOkbT8zDy7Kzl7"
-      },
-      "artists": [
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        },
-        {
-          "name": "SIDEPIECE",
-          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
-        },
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-        }
-      ],
-      "duration_ms": 263414,
-      "name": "On My Mind - Purple Disco Machine Remix",
-      "url": "https://open.spotify.com/track/6geg6XWPAxmwlVl8ZNYns0"
     },
     {
       "added_at": "2021-09-01 00:59:23",
@@ -359,22 +359,6 @@
     {
       "added_at": "2021-09-01 00:59:23",
       "album": {
-        "name": "Okay Okay / Hey Ciao Tu",
-        "url": "https://open.spotify.com/album/5xafnQUhXG38lGXHgUgjJ8"
-      },
-      "artists": [
-        {
-          "name": "Pino D'Angi\u00f2",
-          "url": "https://open.spotify.com/artist/1uXGmHao7MMRBwCCncmyB6"
-        }
-      ],
-      "duration_ms": 258096,
-      "name": "Okay Okay - Remastered",
-      "url": "https://open.spotify.com/track/69JFdPriXT7hcR9flVt9U6"
-    },
-    {
-      "added_at": "2021-09-01 00:59:23",
-      "album": {
         "name": "Waiting",
         "url": "https://open.spotify.com/album/0zGcOpLSpmGTJUcHRrNUJz"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 412812,
       "name": "Waiting",
       "url": "https://open.spotify.com/track/7fxcNshGvCxlNMGHI1GmCx"
+    },
+    {
+      "added_at": "2021-09-01 00:59:23",
+      "album": {
+        "name": "...Balla!",
+        "url": "https://open.spotify.com/album/1nFv7xx9OHyArzWuCke1yE"
+      },
+      "artists": [
+        {
+          "name": "Pino D'Angi\u00f2",
+          "url": "https://open.spotify.com/artist/1uXGmHao7MMRBwCCncmyB6"
+        }
+      ],
+      "duration_ms": 262456,
+      "name": "Ma quale idea",
+      "url": "https://open.spotify.com/track/0nHdPB5NA4xkoDoSLbREwD"
     },
     {
       "added_at": "2021-09-01 00:59:23",
@@ -427,6 +427,22 @@
     {
       "added_at": "2021-09-01 00:59:23",
       "album": {
+        "name": "Silentintroduction",
+        "url": "https://open.spotify.com/album/1WuyO8qwthV94n8A4crVss"
+      },
+      "artists": [
+        {
+          "name": "Moodymann",
+          "url": "https://open.spotify.com/artist/6pohviZSNRueSX7uNu63ZX"
+        }
+      ],
+      "duration_ms": 485306,
+      "name": "I Can't Kick This Feeling When It Hits",
+      "url": "https://open.spotify.com/track/2PmT3D5xmvVzZCf11L2ifX"
+    },
+    {
+      "added_at": "2021-09-01 00:59:23",
+      "album": {
         "name": "Thank You for Letting Me Be Myself",
         "url": "https://open.spotify.com/album/4F2e3QOG2AqIIu8XxTIRGi"
       },
@@ -443,38 +459,6 @@
       "duration_ms": 413315,
       "name": "The Shit Baby",
       "url": "https://open.spotify.com/track/77u4D7eaO0T6zVby7kybyP"
-    },
-    {
-      "added_at": "2021-09-01 00:59:23",
-      "album": {
-        "name": "...Balla!",
-        "url": "https://open.spotify.com/album/1nFv7xx9OHyArzWuCke1yE"
-      },
-      "artists": [
-        {
-          "name": "Pino D'Angi\u00f2",
-          "url": "https://open.spotify.com/artist/1uXGmHao7MMRBwCCncmyB6"
-        }
-      ],
-      "duration_ms": 262456,
-      "name": "Ma quale idea",
-      "url": "https://open.spotify.com/track/0nHdPB5NA4xkoDoSLbREwD"
-    },
-    {
-      "added_at": "2021-09-01 00:59:23",
-      "album": {
-        "name": "Silentintroduction",
-        "url": "https://open.spotify.com/album/1WuyO8qwthV94n8A4crVss"
-      },
-      "artists": [
-        {
-          "name": "Moodymann",
-          "url": "https://open.spotify.com/artist/6pohviZSNRueSX7uNu63ZX"
-        }
-      ],
-      "duration_ms": 485306,
-      "name": "I Can't Kick This Feeling When It Hits",
-      "url": "https://open.spotify.com/track/2PmT3D5xmvVzZCf11L2ifX"
     },
     {
       "added_at": "2021-09-01 00:59:23",
@@ -511,6 +495,22 @@
     {
       "added_at": "2021-09-01 00:59:23",
       "album": {
+        "name": "Okay Okay / Hey Ciao Tu",
+        "url": "https://open.spotify.com/album/5xafnQUhXG38lGXHgUgjJ8"
+      },
+      "artists": [
+        {
+          "name": "Pino D'Angi\u00f2",
+          "url": "https://open.spotify.com/artist/1uXGmHao7MMRBwCCncmyB6"
+        }
+      ],
+      "duration_ms": 258096,
+      "name": "Okay Okay - Remastered",
+      "url": "https://open.spotify.com/track/69JFdPriXT7hcR9flVt9U6"
+    },
+    {
+      "added_at": "2021-09-01 00:59:23",
+      "album": {
         "name": "24 Hours in a Disco 1978-82",
         "url": "https://open.spotify.com/album/0p1PYyKaMEsDboqHmERvZu"
       },
@@ -543,22 +543,6 @@
     {
       "added_at": "2021-09-01 00:59:23",
       "album": {
-        "name": "Priorities",
-        "url": "https://open.spotify.com/album/7cO8doMNBPYcM2WXZnWO6X"
-      },
-      "artists": [
-        {
-          "name": "Project Pablo",
-          "url": "https://open.spotify.com/artist/2OHzpRiwkpxGE7IA0hnSko"
-        }
-      ],
-      "duration_ms": 348158,
-      "name": "Warm Priority",
-      "url": "https://open.spotify.com/track/7BKiJ7xesRpNzMceQtYUtb"
-    },
-    {
-      "added_at": "2021-09-01 00:59:23",
-      "album": {
         "name": "Boxed Out",
         "url": "https://open.spotify.com/album/6EULCikvblF2HZCE7lM3CK"
       },
@@ -575,6 +559,42 @@
       "duration_ms": 284308,
       "name": "64 Ways",
       "url": "https://open.spotify.com/track/2f63FfjixxnXfQhEZJcrOr"
+    },
+    {
+      "added_at": "2021-09-01 00:59:23",
+      "album": {
+        "name": "Priorities",
+        "url": "https://open.spotify.com/album/7cO8doMNBPYcM2WXZnWO6X"
+      },
+      "artists": [
+        {
+          "name": "Project Pablo",
+          "url": "https://open.spotify.com/artist/2OHzpRiwkpxGE7IA0hnSko"
+        }
+      ],
+      "duration_ms": 348158,
+      "name": "Warm Priority",
+      "url": "https://open.spotify.com/track/7BKiJ7xesRpNzMceQtYUtb"
+    },
+    {
+      "added_at": "2021-09-01 00:59:23",
+      "album": {
+        "name": "Raiding the Vaults",
+        "url": "https://open.spotify.com/album/7m70a8scAZxfNPAlsClUb6"
+      },
+      "artists": [
+        {
+          "name": "Rae & Christian",
+          "url": "https://open.spotify.com/artist/75WMfaHMMwtiMW8tfR92Pn"
+        },
+        {
+          "name": "Bobby Womack",
+          "url": "https://open.spotify.com/artist/0vqkz1b2qBkoYrGMj2CUWq"
+        }
+      ],
+      "duration_ms": 237979,
+      "name": "Get a Life (feat. Bobby Womack) - Regrind 09",
+      "url": "https://open.spotify.com/track/4IZkEUwzT0uPqvnMMtyY7c"
     },
     {
       "added_at": "2021-09-01 00:59:23",
@@ -647,26 +667,6 @@
       "duration_ms": 214049,
       "name": "Modern Romance",
       "url": "https://open.spotify.com/track/4CL7IheP2ryGEcMVOoAOUZ"
-    },
-    {
-      "added_at": "2021-09-01 00:59:23",
-      "album": {
-        "name": "Raiding the Vaults",
-        "url": "https://open.spotify.com/album/7m70a8scAZxfNPAlsClUb6"
-      },
-      "artists": [
-        {
-          "name": "Rae & Christian",
-          "url": "https://open.spotify.com/artist/75WMfaHMMwtiMW8tfR92Pn"
-        },
-        {
-          "name": "Bobby Womack",
-          "url": "https://open.spotify.com/artist/0vqkz1b2qBkoYrGMj2CUWq"
-        }
-      ],
-      "duration_ms": 237979,
-      "name": "Get a Life (feat. Bobby Womack) - Regrind 09",
-      "url": "https://open.spotify.com/track/4IZkEUwzT0uPqvnMMtyY7c"
     },
     {
       "added_at": "2021-09-01 00:59:23",

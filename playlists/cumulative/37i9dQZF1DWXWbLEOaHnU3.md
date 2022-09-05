@@ -4,7 +4,7 @@
 
 > Lose yourself in the cosmic spheres of Psytrance.
 
-192 songs - 17 hr 42 min - [published](https://open.spotify.com/playlist/2a7pWapwJkvE7k2BSyXseH)
+193 songs - 17 hr 46 min - [published](https://open.spotify.com/playlist/2a7pWapwJkvE7k2BSyXseH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [DANCE](https://open.spotify.com/track/5Z5qYQz6ODyI8rdUb3Ebi9) | [Mausio](https://open.spotify.com/artist/5yzLRjAu6ni4Bb3fQDED2q), [VAUST](https://open.spotify.com/artist/1ZVOJdrVjtDjy67MomQSVX) | [DANCE](https://open.spotify.com/album/4WZmRCqCzqMqdKbEC4ZRWJ) | 3:38 | 2022-08-18 |  |
 | [Dancin' On Me](https://open.spotify.com/track/249gmgGjdauLwoaGrhrDA0) | [Schameleon](https://open.spotify.com/artist/38rdvu0UtjclycKzhokGjk) | [Dance](https://open.spotify.com/album/3HLysNwDBKFdCJBlLXAsbv) | 6:28 | 2022-04-22 | 2022-07-29 |
 | [Dark Matter](https://open.spotify.com/track/6HqR3zR0zfvMh7dUZypogW) | [Bliss](https://open.spotify.com/artist/5kCxDwD2rjY6lKSGdAW7Lk) | [Dark Matter](https://open.spotify.com/album/1NMqrP1M0rDVI3WQARWLRg) | 7:30 | 2022-04-15 | 2022-07-28 |
-| [Dark Oscillator](https://open.spotify.com/track/4ioCpFK3ZYGHCLwIIV3NOW) | [Audiomatic](https://open.spotify.com/artist/1EVqYQzE00Z8L5ly9oNxiV) | [Dark Oscillator](https://open.spotify.com/album/6EDTw2MWFNcjpY9H71p3vF) | 6:19 | 2022-04-15 |  |
+| [Dark Oscillator](https://open.spotify.com/track/4ioCpFK3ZYGHCLwIIV3NOW) | [Audiomatic](https://open.spotify.com/artist/1EVqYQzE00Z8L5ly9oNxiV) | [Dark Oscillator](https://open.spotify.com/album/6EDTw2MWFNcjpY9H71p3vF) | 6:19 | 2022-04-15 | 2022-09-05 |
 | [Dark Side](https://open.spotify.com/track/5lSopyliv1abtwdNhQ4aJT) | [Pribe](https://open.spotify.com/artist/5J41o0l7Wy6ZBc14nts5T4) | [Dark Side](https://open.spotify.com/album/5kKeGfAjPzBuANhCfhAJ0e) | 4:16 | 2022-04-22 | 2022-07-29 |
 | [Daylight](https://open.spotify.com/track/3ZgDqrgYjTGSTqb0AZtcc0) | [Johnny Carrera](https://open.spotify.com/artist/57QPPgwDvwwZb5WWYCbQrX), [ALY](https://open.spotify.com/artist/7mAoNqdajE6YXCeH0GxzDG) | [Unreal Scapes](https://open.spotify.com/album/62cs9S5l8Ivtvv2er3g8Bc) | 4:17 | 2022-04-15 | 2022-05-18 |
 | [Dreamlike](https://open.spotify.com/track/2IQ55IFyww2HtADa9Ewsdq) | [Interactive Noise](https://open.spotify.com/artist/4lA68EVFzoodItMp7RH2cv) | [Dreamlike](https://open.spotify.com/album/2vO8jppjM5Ld8NbLPefGBc) | 6:24 | 2022-04-15 | 2022-07-28 |
@@ -194,6 +194,7 @@
 | [We Gonna Groove](https://open.spotify.com/track/4hg7TYiqqKeyHZMwErkJdy) | [Interactive Noise](https://open.spotify.com/artist/4lA68EVFzoodItMp7RH2cv) | [We Gonna Groove](https://open.spotify.com/album/112Qo9MSVUDO8b3FiquvsE) | 5:11 | 2022-04-15 |  |
 | [What You Want](https://open.spotify.com/track/755k2MZMz0NY4jqf6Vg4DS) | [Trip\-Tamine](https://open.spotify.com/artist/0ap0HvoHVGPmbqVxjWGEtT), [Fresh Drop](https://open.spotify.com/artist/6wlfDafUCKXnI1czm6uXZi) | [What You Want](https://open.spotify.com/album/4TdhjCOejXq5nqKNsHSKXH) | 4:11 | 2022-06-30 | 2022-07-05 |
 | [Wildfire](https://open.spotify.com/track/2hXlub5ZvPv7lUiQao52I5) | [Phazed](https://open.spotify.com/artist/14tndkroegMGtPSz50zZAb), [Fresh Drop](https://open.spotify.com/artist/6wlfDafUCKXnI1czm6uXZi) | [Wildfire](https://open.spotify.com/album/65nlTYIE5rbKJtrTs0pfom) | 5:58 | 2022-04-22 | 2022-07-29 |
+| [Wonders](https://open.spotify.com/track/6d1AuFOL1YBzLcruapNbZV) | [Neelix](https://open.spotify.com/artist/5X3rdmEE2Mif6kFQkb2PxB), [Ghost Rider](https://open.spotify.com/artist/6ZJDt01Lh0XOPMMJbUMcUi), [The Gardener & The Tree](https://open.spotify.com/artist/1GarejqGHyKM1adTFnB4NN) | [Wonders](https://open.spotify.com/album/4etLZlUR58oKlanessSqAU) | 4:17 | 2022-09-01 |  |
 | [YOLO \(You Only Live Once\)](https://open.spotify.com/track/6yvyvvVCSIU2ylpx9ud1Xj) | [Static Movement](https://open.spotify.com/artist/02IVE5m9cj7FrFLsX7PBmv) | [YOLO \(You Only Live Once\)](https://open.spotify.com/album/0dRxB7jW0cbvsfBvC8cAqL) | 4:40 | 2022-06-30 | 2022-07-29 |
 | [You & I](https://open.spotify.com/track/6evCF4QQGUt2C3pbefE3jH) | [Yahel](https://open.spotify.com/artist/7CHdJ8rVKe6cez9PKlpKrF), [Eden Shalev](https://open.spotify.com/artist/2MqEj8zhXLsnXpWdPGBGPe) | [You & I](https://open.spotify.com/album/2lhRmzTITHYR9xcAdRho0R) | 5:28 | 2022-04-15 |  |
 | [You \(Kleysky & Deep Kontakt Remix\)](https://open.spotify.com/track/2cldsTRjQboX0flJkYdxtg) | [Neelix](https://open.spotify.com/artist/5X3rdmEE2Mif6kFQkb2PxB), [Kleysky](https://open.spotify.com/artist/3AIbItivbkxJK4UKSuM7GC), [Deep Kontakt](https://open.spotify.com/artist/0y3Swirv7gm6gjXl2sayna) | [You \(Kleysky & Deep Kontakt Remix\)](https://open.spotify.com/album/0zdVU4urBzekcDL18LynMT) | 6:01 | 2022-08-04 |  |

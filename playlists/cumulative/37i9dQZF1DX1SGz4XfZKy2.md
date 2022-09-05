@@ -4,7 +4,7 @@
 
 > Chill under the stars with this instrumental playlist\. Cover: Sami Yusuf.
 
-80 songs - 5 hr 55 min - [published](https://open.spotify.com/playlist/1ISc2kghgLSBOppDcYOI8f)
+81 songs - 6 hr 2 min - [published](https://open.spotify.com/playlist/1ISc2kghgLSBOppDcYOI8f)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,8 @@
 | [Gypsy \(Kouli\), Oud](https://open.spotify.com/track/726DmxUPgXO14R8DxWadxi) | [Hamed Nikpay](https://open.spotify.com/artist/6zu1JcNYULXTVw509cemBy) | [Solo Passage \(Gozar\)](https://open.spotify.com/album/4lNLgHmSdqKeK85MoPYLdZ) | 3:24 | 2021-02-15 |  |
 | [Healing Keys of Light](https://open.spotify.com/track/0cPSVrSv9YtRv0Tr7YwydB) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw) | [Healing Keys of Light](https://open.spotify.com/album/6GTHW7lboExAvWar1uaIhm) | 5:08 | 2021-02-15 |  |
 | [Hijaz Gar](https://open.spotify.com/track/3qd14A0bN2TtwbKL3sIftg) | [Nay](https://open.spotify.com/artist/115twMENpjlhs3FdXAIiZ8) | [Arabian Classical Music](https://open.spotify.com/album/1ytYzKzs6FGeV6MWLFzqpR) | 3:31 | 2021-02-15 |  |
-| [Hobâb](https://open.spotify.com/track/5JfJrjh3nd5eOjFjPfV0c4) | [Hossein Alizadeh](https://open.spotify.com/artist/129o0b0q8hAgjrd7jDrbhP) | [Under the Cutting Blade \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/02uXTvfYgCLdSin8tVPPKO) | 3:44 | 2021-02-15 |  |
+| [Hobâb](https://open.spotify.com/track/5JfJrjh3nd5eOjFjPfV0c4) | [Hossein Alizadeh](https://open.spotify.com/artist/129o0b0q8hAgjrd7jDrbhP) | [Under the Cutting Blade \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/02uXTvfYgCLdSin8tVPPKO) | 3:44 | 2021-02-15 | 2022-09-05 |
+| [Humankind](https://open.spotify.com/track/3urHsuSN1wtFkqnRZskBev) | [Dhafer Youssef](https://open.spotify.com/artist/5UefiThiZ352HWMOgZvOhx) | [Sounds of Mirrors](https://open.spotify.com/album/5yDZtkCkxXQafMjQgNWFQg) | 7:17 | 2021-02-15 |  |
 | [Humankind](https://open.spotify.com/track/5XDv3KLoBQ5MnAYzsIiH2J) | [Dhafer Youssef](https://open.spotify.com/artist/5UefiThiZ352HWMOgZvOhx) | [Sounds Of Mirrors](https://open.spotify.com/album/4RgbDDGwmTiA8ypNDSoEc6) | 7:17 | 2021-02-15 | 2022-07-29 |
 | [Humankind](https://open.spotify.com/track/2Zl4RPJ6rrovae1JQvf9v9) | [Dhafer Youssef](https://open.spotify.com/artist/5UefiThiZ352HWMOgZvOhx), [Hüsnü Senlendirici](https://open.spotify.com/artist/3rb0KaOJL3sOZ2MChHR6xF), [Eivind Aarset](https://open.spotify.com/artist/0VqQFqLcy0bBMPDnKB25vC) | [Dhafer Youssef: Sounds of Mirrors](https://open.spotify.com/album/6tqATFYmtKV4JEbZMlQytX) | 7:17 | 2021-02-15 | 2022-08-28 |
 | [Ikarus' Dream](https://open.spotify.com/track/0qgmSm0xhQo8hR5OVvu2ff) | [Quadro Nuevo](https://open.spotify.com/artist/02VSzyVA68par8UGNNRbAN), [Cairo Steps](https://open.spotify.com/artist/2vplyVvtElnBqkZuftPVow) | [Flying Carpet](https://open.spotify.com/album/5xNlapmJSkP9oOnTX2Xy7b) | 3:43 | 2021-02-15 |  |

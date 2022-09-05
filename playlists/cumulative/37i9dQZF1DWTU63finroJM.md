@@ -4,7 +4,7 @@
 
 > From across the globe\. New artists on the horizon.
 
-798 songs - 1 day 20 hr 58 min - [published](https://open.spotify.com/playlist/5vCFU5jLGp753wsXFermer)
+799 songs - 1 day 21 hr 2 min - [published](https://open.spotify.com/playlist/5vCFU5jLGp753wsXFermer)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,7 +131,7 @@
 | [Cocoloco](https://open.spotify.com/track/4DXaFrBzHcZaz1wFKhiMkm) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [Cocoloco](https://open.spotify.com/album/0LrmYFkMJ4u7myFE3QHjga) | 2:55 | 2022-03-24 | 2022-04-20 |
 | [Colapso](https://open.spotify.com/track/7dT9D6117e5DbhnKxDLNW9) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Hasta el Fin Del Mundo](https://open.spotify.com/album/7M4AeOUpTfAHk1Ch4xKUC7) | 3:55 | 2022-08-26 |  |
 | [Come i Grandi](https://open.spotify.com/track/1DOajHZ9LD7MlNVHz8NMup) | [TOMMY DALI](https://open.spotify.com/artist/0dus12DVjr0hoFaUDOz9B5), [Shablo](https://open.spotify.com/artist/6hkKbkZGvAXuvle2FhCnxy) | [Come i Grandi](https://open.spotify.com/album/61zWMNozdieRSJKQw1nzyR) | 3:07 | 2022-03-24 | 2022-08-02 |
-| [confidence in me](https://open.spotify.com/track/5c1tswRpjj7Fyv9xb5a8RJ) | [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z) | [confidence in me](https://open.spotify.com/album/0UZuzKM4ofQQoQOJdZbjdv) | 2:42 | 2022-02-03 |  |
+| [confidence in me](https://open.spotify.com/track/5c1tswRpjj7Fyv9xb5a8RJ) | [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z) | [confidence in me](https://open.spotify.com/album/0UZuzKM4ofQQoQOJdZbjdv) | 2:42 | 2022-02-03 | 2022-09-05 |
 | [Control](https://open.spotify.com/track/1zsIwMmM20gvGU7YzPXKF8) | [Nill](https://open.spotify.com/artist/2Ig1qV7rQGQtBWKa8mynIl), [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt) | [BLU](https://open.spotify.com/album/46SotNSwVlaHGFmSxCHOV1) | 3:28 | 2022-03-24 | 2022-04-21 |
 | [Cool As Hell](https://open.spotify.com/track/0ZudS7xEuNkGKfOOhRrwD3) | [Baker Boy](https://open.spotify.com/artist/6Qpa8xhGsGitz4WBf4BkpK) | [Gela](https://open.spotify.com/album/6U4EyQWAc1wCohtIV3wBqz) | 3:06 | 2022-03-24 | 2022-04-19 |
 | [Coucou](https://open.spotify.com/track/3kiTnvHHKipoAwa40GTGGy) | [Meryl](https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA) | [Jour avant caviar](https://open.spotify.com/album/4PX1ZZFjRIhHG57nRSP4mF) | 2:41 | 2022-03-24 | 2022-04-20 |
@@ -215,7 +215,7 @@
 | [Filme moi](https://open.spotify.com/track/7f8ep7LmhUvhEIvlDfb9cj) | [Alice et Moi](https://open.spotify.com/artist/1NcCVE1FRpBSlN3LcAfhn3) | [Filme moi](https://open.spotify.com/album/064Xtihg61dRk2MPOXUU5P) | 3:29 | 2022-03-24 | 2022-07-29 |
 | [Filme moi](https://open.spotify.com/track/7w5xMDqwZKMZYmLgdrncte) | [Alice et Moi](https://open.spotify.com/artist/1NcCVE1FRpBSlN3LcAfhn3) | [Filme moi](https://open.spotify.com/album/1c0vf4zZCILOArfcM8jpUK) | 3:29 | 2022-06-29 | 2022-08-02 |
 | [Finesse](https://open.spotify.com/track/4Gasn91fsCefnN8zM5GjA8) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Finesse](https://open.spotify.com/album/4QEC4uzBJJfLVv2bD337g1) | 2:35 | 2022-08-01 |  |
-| [Firefly](https://open.spotify.com/track/5n2xMZmypRAUKW4PkTMy9A) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Firefly](https://open.spotify.com/album/3JywE0BWNUCTqvd9IWshdp) | 3:18 | 2022-08-04 |  |
+| [Firefly](https://open.spotify.com/track/5n2xMZmypRAUKW4PkTMy9A) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Firefly](https://open.spotify.com/album/3JywE0BWNUCTqvd9IWshdp) | 3:18 | 2022-08-04 | 2022-09-05 |
 | [Five Black](https://open.spotify.com/track/3Pzx0UuZmhtowYJaW5B05s) | [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX) | [Five Black](https://open.spotify.com/album/4upjS5lPcbcAaL0SxmK7FB) | 2:44 | 2022-04-07 | 2022-04-13 |
 | [Flaca](https://open.spotify.com/track/4OXyQVIU3WpKXDimY4DsU8) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Flaca](https://open.spotify.com/album/2DiPW0TQNv1Xqp0FJ7vgbK) | 4:27 | 2022-03-24 | 2022-04-20 |
 | [FOG](https://open.spotify.com/track/3rpdmGoD12xblXFiTyKyFF) | [ego apartment](https://open.spotify.com/artist/20SNDAIdUW3fjTA14UvSj4) | [FOG](https://open.spotify.com/album/5Fi9k1K3IBJV3W7x6FDDTi) | 3:22 | 2022-05-19 | 2022-05-21 |
@@ -324,7 +324,7 @@
 | [Jolie madame](https://open.spotify.com/track/7fYB590T7fHkg6Ru8PqdpX) | [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV), [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8) | [Jolie madame](https://open.spotify.com/album/0m6QpYwHKXffZvnx6WLnPM) | 3:03 | 2022-03-24 | 2022-04-19 |
 | [Joyato](https://open.spotify.com/track/39hBpwf8yQvQqFaBpd6Z8j) | [PEOPLE 1](https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU) | [Joyato](https://open.spotify.com/album/6TAfJdaeN2o484C6UH9Ptw) | 4:24 | 2022-02-10 | 2022-08-02 |
 | [Julia W Mieście](https://open.spotify.com/track/3Mg0g2ZPSxIRsYYUFGmL1X) | [Julia Pośnik](https://open.spotify.com/artist/4fCtCAiaIqqRuUiSjIYPMX) | [Julia W Mieście](https://open.spotify.com/album/34zhHNAVaUiVa1i8lJMnWB) | 2:59 | 2022-04-07 | 2022-04-19 |
-| [Junto A Tí](https://open.spotify.com/track/6Vjznt4fAGn3rFTuP4EJIC) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Junto A Tí](https://open.spotify.com/album/7mBK2LPlyhQTi3WLM00j7r) | 3:13 | 2022-08-01 | 2022-08-27 |
+| [Junto A Tí](https://open.spotify.com/track/6Vjznt4fAGn3rFTuP4EJIC) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Junto A Tí](https://open.spotify.com/album/7mBK2LPlyhQTi3WLM00j7r) | 3:13 | 2022-08-01 |  |
 | [just a boy](https://open.spotify.com/track/2fAeROYFSbWdvML6rbnCar) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [just a boy](https://open.spotify.com/album/6C2WtjbTyOmdMq7E8uTXcg) | 3:05 | 2022-02-03 | 2022-03-17 |
 | [Just for me](https://open.spotify.com/track/6OTKVgVpVaVjhRLYizPJKA) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Just for me](https://open.spotify.com/album/00fcDjvEq4elj756TESO0c) | 1:55 | 2022-02-03 |  |
 | [Kahaani](https://open.spotify.com/track/6z0iNZXZ7xEwjQf6SXDH8P) | [Shadow and Light](https://open.spotify.com/artist/6BG3rlgfBM8V8JStjm7IFa) | [Sabar](https://open.spotify.com/album/44gFbG7mWYc4u0lENFlQSY) | 4:20 | 2022-03-24 | 2022-04-05 |
@@ -783,6 +783,7 @@
 | [無所謂](https://open.spotify.com/track/1dPtFcK3m7dTtIBe3AwurO) | [Jocelyn 9.4.0](https://open.spotify.com/artist/4xu7XEr8It4loGPeZnJcqZ) | [無所謂](https://open.spotify.com/album/5WXptJIuAu3IJ5RuOHRtxQ) | 2:52 | 2022-03-21 | 2022-08-02 |
 | [無源之愛](https://open.spotify.com/track/4geP6KQzst4ETo3SPMaCiV) | [Soph T.](https://open.spotify.com/artist/2lP0iXobpSDobEhi2eI4eP), [Jason Yu](https://open.spotify.com/artist/0bFyd1ptUSFAfhQOpLt9g1) | [無源之愛](https://open.spotify.com/album/757bdTm0Z5I2oNNLLCXPuw) | 2:41 | 2022-03-24 | 2022-05-20 |
 | [皮外傷](https://open.spotify.com/track/67e3Jd8pMdEOGdV7XGUkQQ) | [Novel Fergus](https://open.spotify.com/artist/2JFP3hk2ys0hH6nnoduRkR) | [皮外傷](https://open.spotify.com/album/0DK2EbDRBTkJpFhJWv4yo2) | 3:09 | 2022-03-24 | 2022-04-26 |
+| [真夏の恋は気まぐれ](https://open.spotify.com/track/3DYLsJ0hAzbVGCOIWN011L) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [真夏の恋は気まぐれ](https://open.spotify.com/album/6B0YhBGykGrRAfkgCe2ODk) | 4:09 | 2022-08-26 |  |
 | [真夜中のドア / Stay With Me \(feat\. ひかり\)](https://open.spotify.com/track/2gcwn4gl6YvvA5myQzvZyS) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [Hikari](https://open.spotify.com/artist/3MTt9WYmlzfy9uULNyxDiw) | [Tokimeki Mellow](https://open.spotify.com/album/7M78XrN2gsVAGoRHsfewU9) | 4:43 | 2022-02-03 | 2022-08-02 |
 | [睡不著](https://open.spotify.com/track/0GM2W66glRyOBd1Ckw43eF) | [壞特 ?te](https://open.spotify.com/artist/7DZtdN4x13Amjw87cjdffb) | [A Bedroom of One's Own](https://open.spotify.com/album/106w7wcRpHY8hqHhajG3nb) | 4:00 | 2022-02-03 | 2022-03-18 |
 | [絕美](https://open.spotify.com/track/2P6UP87aTcKxiozVOI5zxO) | [艾薇](https://open.spotify.com/artist/0RaC2hXyniYsju0mCSNz90) | [I](https://open.spotify.com/album/26yqvFjCkJ4W69WDtnnz6f) | 4:17 | 2022-02-03 | 2022-08-02 |

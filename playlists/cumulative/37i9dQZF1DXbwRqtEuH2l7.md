@@ -4,7 +4,7 @@
 
 > Long, dark and sustained.
 
-154 songs - 12 hr 55 min - [published](https://open.spotify.com/playlist/7nhVz0B4W46kGNWnN6asrC)
+155 songs - 13 hr 2 min - [published](https://open.spotify.com/playlist/7nhVz0B4W46kGNWnN6asrC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Boxes With Wheels](https://open.spotify.com/track/08S8uiOZChEsO3dejD3AEN) | [Matt Ullman](https://open.spotify.com/artist/3xSQWEeYHabo0FngiA3V4f) | [Boxes With Wheels](https://open.spotify.com/album/0z04WBSLWi9fZp8d7OpqrZ) | 2:52 | 2022-06-14 | 2022-07-27 |
 | [Breakdown \(The End of Chemical Romance\)](https://open.spotify.com/track/4GqaPXGufg6y8yrBnBgkjn) | [Tentacle](https://open.spotify.com/artist/52MyOkwwYswnDTHL4gvQap) | [Breakdown](https://open.spotify.com/album/1IqGcxtak2nImHCN0JZNc0) | 7:27 | 2022-05-25 |  |
 | [Breath](https://open.spotify.com/track/7Iqz1iILdntXxJSQ7gV8hp) | [Laurel Halo](https://open.spotify.com/artist/0sRVVDpgF2sKzPBkDszzUl) | [Possessed \(Original Score\)](https://open.spotify.com/album/3qFUz77lFTarOn9nSzSkAY) | 2:51 | 2022-05-25 | 2022-07-28 |
+| [Brilliance](https://open.spotify.com/track/6yESxXi51ypIOiazRTTinL) | [Christoph De Babalon](https://open.spotify.com/artist/4ZrzdbajcxLidPJDPZomzz) | [If You're Into It I'm Out of It](https://open.spotify.com/album/2eFiRk2G9mVxjpZQy2ouTl) | 7:10 | 2022-08-19 |  |
 | [Burn It All Down](https://open.spotify.com/track/3CnXVFKUwgYWZuH6KmlTsv) | [Ibukun Sunday](https://open.spotify.com/artist/1XhXRpXu0NntjkqENGveoI) | [The Last Wave](https://open.spotify.com/album/1jJJZAPY8Ax5X1C6vCpuNo) | 2:31 | 2022-05-25 |  |
 | [Cassiopeia, 6 July 1982](https://open.spotify.com/track/2U05G9iflgUikBMpH76AIu) | [AOI](https://open.spotify.com/artist/3GI4ib0hz1mAxLVdrQldsZ) | [MDT001](https://open.spotify.com/album/57DgSN6ZCnVIsiUUOkIjji) | 3:31 | 2022-05-25 | 2022-06-03 |
 | [Cerebral Features](https://open.spotify.com/track/357Fo8qt21NhCLcmwc7cpE) | [The Vet's Fetching](https://open.spotify.com/artist/2hA6qtemXxHMS1VP3bviZj) | [Cerebral Features](https://open.spotify.com/album/5JnQGhMZZQe7VcWvRQCeAR) | 3:36 | 2022-05-25 | 2022-07-28 |
@@ -80,7 +81,7 @@
 | [I](https://open.spotify.com/track/00THTF81blTuxqRfEUuZy6) | [Hilary Woods](https://open.spotify.com/artist/4S05GVttpg3rjOte0SX749) | [Feral Hymns](https://open.spotify.com/album/1Mgta9PsIDwgGICe6sr2cv) | 3:17 | 2022-05-25 | 2022-07-23 |
 | [I Long for Your Touch](https://open.spotify.com/track/1keY97laqqYVAz5AmO6uSL) | [Desolate Horizons](https://open.spotify.com/artist/5y4oIz8eUC013rOK3AldFN) | [I Long for Your Touch](https://open.spotify.com/album/2zdi1eWT2Wrsy8bsMTef00) | 2:23 | 2022-05-25 | 2022-07-23 |
 | [In](https://open.spotify.com/track/1rkgNmQOZ1FWX23h2Kl9Bc) | [Astrid Sonne](https://open.spotify.com/artist/7qiyPneI60DzZmxVxC7689) | [Human Lines](https://open.spotify.com/album/1CnHPA4K4Nue7yGhG0Ckez) | 3:28 | 2022-05-25 | 2022-07-29 |
-| [In Her Hair](https://open.spotify.com/track/76cA2zwvP6oZXMEMrx7jRV) | [Lisa Lerkenfeldt](https://open.spotify.com/artist/3famB97koyRfo502IWQjFL) | [Collagen](https://open.spotify.com/album/5DCzCJxAkCrd011i8CgZgx) | 5:21 | 2022-05-25 |  |
+| [In Her Hair](https://open.spotify.com/track/76cA2zwvP6oZXMEMrx7jRV) | [Lisa Lerkenfeldt](https://open.spotify.com/artist/3famB97koyRfo502IWQjFL) | [Collagen](https://open.spotify.com/album/5DCzCJxAkCrd011i8CgZgx) | 5:21 | 2022-05-25 | 2022-09-05 |
 | [In Love With A Ghost](https://open.spotify.com/track/4seVCIWx1F9qEYpD8XJEX8) | [Kevin Richard Martin](https://open.spotify.com/artist/4UmR7UaeXgqjJwweJxGyZT) | [Return to Solaris](https://open.spotify.com/album/7sgkWyvoNgOsX0VgosAhP4) | 6:47 | 2022-05-25 | 2022-07-28 |
 | [In Waves](https://open.spotify.com/track/4M9tpdXFcV41nJgLiuEEM8) | [Loke Rahbek](https://open.spotify.com/artist/6fiX1FdXGRLUMN8xvwfgpw), [Frederik Valentin](https://open.spotify.com/artist/5xmip7jwRD4w1n5z7J0m5Y), [CTM](https://open.spotify.com/artist/7yaj7l8QczhEsLttuFDaRz) | [Elephant](https://open.spotify.com/album/5dcLbUaWSJPcYykHbhEIBs) | 3:16 | 2022-05-25 |  |
 | [It Takes Time](https://open.spotify.com/track/4wbph7JCthEvpGVM8KbmZt) | [We Dream of Eden](https://open.spotify.com/artist/55dhSq6LQ1N5JlHF5DlbFf), [James Joseph](https://open.spotify.com/artist/6JlUOf5B4IdBSZ4gyaBkej) | [It Takes Time](https://open.spotify.com/album/3TWIEDKHkoy1HmeFTOMnRv) | 5:31 | 2022-08-19 |  |

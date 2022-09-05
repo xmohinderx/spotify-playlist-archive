@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5l8NqdrXc4JHxSu1arjWgC.md) - [plain]
 
 > 
 
-[Red Vox](https://open.spotify.com/user/vinnyvinesauce) - 3,569 likes - 650 songs - 1 day 19 hr 42 min
+[Red Vox](https://open.spotify.com/user/vinnyvinesauce) - 3,572 likes - 650 songs - 1 day 19 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -485,7 +485,7 @@ pretty - [cumulative](/playlists/cumulative/5l8NqdrXc4JHxSu1arjWgC.md) - [plain]
 | 475 | [3's & 7's](https://open.spotify.com/track/63wsuMhok6GgcBRd2strGk) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Era Vulgaris](https://open.spotify.com/album/64SL0QEXxulD2QgwJmJbUL) | 3:34 |
 | 476 | [Everything You’ve Come To Expect](https://open.spotify.com/track/01M9XvRcT8hEOf6NOLBHew) | [The Last Shadow Puppets](https://open.spotify.com/artist/2Z7UcsdweVlRbAk5wH5fsf), [Alex Turner](https://open.spotify.com/artist/1ctkBmvz80MGyi72Ix055S), [Miles Kane](https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn) | [Everything You've Come To Expect \(Deluxe Edition\)](https://open.spotify.com/album/6q1ZuWCnYTQb7KhXHZo947) | 3:13 |
 | 477 | [Amethyst Realm](https://open.spotify.com/track/7IPmmOkhYE1gJWMZQGBsCt) | [The Claypool Lennon Delirium](https://open.spotify.com/artist/2yUsje7CszKGu4g1f4ih3b) | [South Of Reality](https://open.spotify.com/album/7ErIX3vunFAfsNJ8nAKkVo) | 7:47 |
-| 478 | [Apeman \- 2014 Remastered Version](https://open.spotify.com/track/1NXUWyPJk5kO6DQJ5t7bDu) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [Lola vs\. Powerman and the Moneygoround, Pt\. One + Percy](https://open.spotify.com/album/6lL6HugNEN4Vlc8sj0Zcse) | 3:53 |
+| 478 | [Apeman \- 2014 Remastered Version](https://open.spotify.com/track/1NXUWyPJk5kO6DQJ5t7bDu) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [Lola vs\. Powerman and the Moneygoround, Pt\. One + Percy \(Super Deluxe\)](https://open.spotify.com/album/6lL6HugNEN4Vlc8sj0Zcse) | 3:53 |
 | 479 | [Comfort Zone](https://open.spotify.com/track/3V1sRkYY4jtSSiXoFTOPZj) | [The Murlocs](https://open.spotify.com/artist/0rH93aHDYyJfMAcPB9OKus) | [Manic Candid Episode](https://open.spotify.com/album/54R5CTHFKYvlFXL3nYjyvI) | 3:59 |
 | 480 | [My Name Is Ruin](https://open.spotify.com/track/2KPewERHYuJsAZAMmuJTKB) | [Gary Numan](https://open.spotify.com/artist/5KQMtyPE8DCQNUzoNqlEsE) | [Savage \(Songs from a Broken World\)](https://open.spotify.com/album/3kMfsD07Q32HRWKRrpcexr) | 6:17 |
 | 481 | [Love Is Lost](https://open.spotify.com/track/6c2N8YRRqjtevGfIJovXGP) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [The Next Day](https://open.spotify.com/album/16F7X7WOFZhMwQNsMil7lq) | 3:57 |

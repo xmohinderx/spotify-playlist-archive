@@ -4,7 +4,7 @@
 
 > Aquele som que é pura brisa\. 🍃 Foto: POCAH, BIN, Lionel
 
-117 songs - 6 hr 13 min - [published](https://open.spotify.com/playlist/6jQhl9g0LTyG58hELgK7FX)
+118 songs - 6 hr 17 min - [published](https://open.spotify.com/playlist/6jQhl9g0LTyG58hELgK7FX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Onde Você Mora](https://open.spotify.com/track/7qpSEfTO2686bD0th4KEEM) | [Malibu](https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6), [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP), [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2), [Keviin](https://open.spotify.com/artist/3IMEatbnQs6Sumu77hmtOr) | [Onde Você Mora](https://open.spotify.com/album/5zYpZmVSr81MqPSyyDEpHq) | 4:13 | 2022-05-23 |  |
 | [Ontem](https://open.spotify.com/track/4ub33dXwwV4pSLMsfy8wqv) | [Kalli](https://open.spotify.com/artist/3BD2ifHl4tkgwVU5KIlR5I), [IssoQueÉSomDeRap](https://open.spotify.com/artist/43DrL9cHm49HEwg85idE2c) | [Ontem](https://open.spotify.com/album/1fM60WYCiwVdzItKBMQxrJ) | 2:43 | 2022-05-23 |  |
 | [Onça Sessions \#2 \- Sobe Adrenalina](https://open.spotify.com/track/4ohl1Edvlp5BNF03lAwGO7) | [Onça Sessions](https://open.spotify.com/artist/1xVwlSBWBrYAuwIBKIKUbr), [Raffa Mogi](https://open.spotify.com/artist/1GzNbVSgVruCtWjQAHVKYF), [Ronan Romma](https://open.spotify.com/artist/5Qq4LMkTlirnIjO16ZRdvt), [Bean](https://open.spotify.com/artist/5YgYMgQNJZPXatzG24aIhj), [Milani](https://open.spotify.com/artist/7E586myT1Oq6eZf8czh9qO), [Mc Arthur](https://open.spotify.com/artist/69IZAnKubpzMZlUG602sBN) | [Onça Sessions \#2 \- Sobe Adrenalina](https://open.spotify.com/album/5gVDwlM3V4T8Qzxt1fX2vG) | 5:25 | 2022-06-03 |  |
+| [Outro Patamar](https://open.spotify.com/track/0hVKEiZ9lWwKQlBk4VZ0GK) | [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [jess beats](https://open.spotify.com/artist/7uskxjQtkzfiqHCNIIv3gD) | [Outro Patamar](https://open.spotify.com/album/4J1SvtWJvuHaPkjk6PlIom) | 3:44 | 2022-09-02 |  |
 | [Pedaço de Mim](https://open.spotify.com/track/2fEgPCDD0qRvZeVrY381EW) | [OIK](https://open.spotify.com/artist/1B5n6jsxvFldc6Nq8Wx8VJ), [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [IssoQueÉSomDeRap](https://open.spotify.com/artist/43DrL9cHm49HEwg85idE2c) | [Pedaço de Mim](https://open.spotify.com/album/0msDENReQijY9ggVdqOw9B) | 3:22 | 2022-05-23 |  |
 | [Penelope](https://open.spotify.com/track/66qOxO7krWQpQWZPi1IzQo) | [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP), [Malibu](https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6) | [Penelope](https://open.spotify.com/album/71htdEQmQqPoSQwdTR0auD) | 2:51 | 2022-05-23 |  |
 | [Pensando Em Nós](https://open.spotify.com/track/1AjW8I8Em6yW7RHtZPygIR) | [Nanno](https://open.spotify.com/artist/4UnPlU7ZiB5msWRpEDYsP3), [CALIFFA](https://open.spotify.com/artist/1PSbZri8ZpIcScw1WFMzjD), [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO) | [Pensando Em Nós](https://open.spotify.com/album/4rSPgWnwW140FHy2qR9RSd) | 3:12 | 2022-07-21 |  |
@@ -124,6 +125,6 @@
 | [Vale Nada](https://open.spotify.com/track/1HcptUOhD09D9Q61Y1eWTG) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83) | [Vale Nada](https://open.spotify.com/album/3znzrPr1akppdreErreNFU) | 2:44 | 2022-05-23 |  |
 | [War](https://open.spotify.com/track/63400Pm7x5Awe4NH82oRYe) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [Imaterial](https://open.spotify.com/album/2H42sYw7tkkEy5d0gdTY9U) | 2:32 | 2022-05-23 |  |
 | [Última Mensagem](https://open.spotify.com/track/0aiIX2aJenYmGFw1BWUyxc) | [Carol & Vitoria](https://open.spotify.com/artist/5zA07XrRPmMYEAdwtfRtSD), [Kawe](https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb) | [Última Mensagem](https://open.spotify.com/album/4qMQhFYLjAzYvFkxvVJOR4) | 2:54 | 2022-05-23 |  |
-| [Último Romântico do Mundo](https://open.spotify.com/track/7r24W0zWyGaLWktPK642gi) | [Sobral](https://open.spotify.com/artist/1iffB8upqqDnx6UX8P3kz2) | [Último Romântico do Mundo](https://open.spotify.com/album/4HxcId1MyFQi0XqXhxuPC3) | 3:06 | 2022-08-26 |  |
+| [Último Romântico do Mundo](https://open.spotify.com/track/7r24W0zWyGaLWktPK642gi) | [Sobral](https://open.spotify.com/artist/1iffB8upqqDnx6UX8P3kz2) | [Último Romântico do Mundo](https://open.spotify.com/album/4HxcId1MyFQi0XqXhxuPC3) | 3:06 | 2022-08-26 | 2022-09-05 |
 
 \*This playlist was first scraped on 2022-05-27. Prior content cannot be recovered.

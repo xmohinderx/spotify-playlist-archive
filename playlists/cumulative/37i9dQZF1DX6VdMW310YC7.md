@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>, featuring hand\-curated picks by ODESZA.
 
-1,323 songs - 3 day 19 hr 54 min - [published](https://open.spotify.com/playlist/6qGVoi3AOthCREwmGSToWA)
+1,324 songs - 3 day 19 hr 58 min - [published](https://open.spotify.com/playlist/6qGVoi3AOthCREwmGSToWA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -529,6 +529,7 @@
 | [House Of The Rising Sun](https://open.spotify.com/track/4FIGor0hvkEyu8ZAnjWAe7) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [House Of The Rising Sun](https://open.spotify.com/album/4bplLIBUWTi43ZySUAPL0I) | 2:18 | 2022-01-28 |  |
 | [How Many Times?](https://open.spotify.com/track/4gnw7ZduO3LMqEcrA1qvyL) | [Joey Pecoraro](https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ) | [How Many Times?](https://open.spotify.com/album/6BOkJ1sAOEPyfdYEvNnmIn) | 3:58 | 2020-11-20 |  |
 | [How Often](https://open.spotify.com/track/5sYagRbhe4FAWYE04wlEYQ) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Kauf](https://open.spotify.com/artist/4T7v6mIRvUB3AEORZRzWUy) | [Brightest Lights](https://open.spotify.com/album/6EdbqQvOCialJuOjEEUlsL) | 4:15 | 2020-02-29\* | 2020-03-16 |
+| [Howl](https://open.spotify.com/track/3360fzHkXtFCGSnTpyBMRA) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Howl](https://open.spotify.com/album/6IYBjFaUzMGNj6mptyYg66) | 4:17 | 2022-09-02 |  |
 | [Howling Hand](https://open.spotify.com/track/3ZwjAHf881s7xiM9gpBvtS) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb) | [Brightest Lights](https://open.spotify.com/album/6EdbqQvOCialJuOjEEUlsL) | 4:45 | 2020-02-29\* | 2020-03-16 |
 | [Human](https://open.spotify.com/track/1LJV22Jj8PLbhQvFcyi25g) | [ASHE](https://open.spotify.com/artist/5xTp3xrqM94mOTJdfOAUP8) | [We Are Friends, Vol\. 9](https://open.spotify.com/album/4bqlqWxtEGHnwyqvQJS6YT) | 3:21 | 2020-03-16 | 2020-06-12 |
 | [Hunter](https://open.spotify.com/track/6Zd9EIzfCaMcEOdRjZakvc) | [Rezident](https://open.spotify.com/artist/0hzZTaZ59eR5lESXHRVgkc) | [Hunter](https://open.spotify.com/album/5dL2G5fskPJRcVDmy3NqGX) | 3:52 | 2022-08-12 |  |
@@ -878,7 +879,7 @@
 | [Overthinking Rain \(feat\. Noosa\)](https://open.spotify.com/track/0zIz1nGCyWVHIPavGMW8QC) | [Pierce Fulton](https://open.spotify.com/artist/5p0zkKpBuRguKebwRe0RI2), [Noosa](https://open.spotify.com/artist/2F8tffsSfw1767WgjtAHBW) | [Overthinking Rain](https://open.spotify.com/album/6L92ocr57l1KxsE6YK9pBl) | 4:52 | 2020-03-17 | 2022-04-19 |
 | [Overtones](https://open.spotify.com/track/3fZo9f1RF24iMVBaC6fAiA) | [Frost](https://open.spotify.com/artist/4cr1vZsdjcY434Aqc3fDBt) | [Overtones](https://open.spotify.com/album/4tY6Z1lYShKuvQMt3tMV7k) | 4:29 | 2020-05-06 | 2020-10-09 |
 | [Oxygen](https://open.spotify.com/track/4gx78VcgdkjAIEWjG1ZrTE) | [Fred V & Grafix](https://open.spotify.com/artist/1wzBqAvtFexgKHjt7i3ena) | [Oxygen](https://open.spotify.com/album/2OduN4aoUP3wYoZRSEsrUf) | 5:09 | 2020-05-18 | 2020-07-03 |
-| [Ozon](https://open.spotify.com/track/0GK4ZRf8VCGhS9qtVSNjbj) | [AK](https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A), [Dario Lessing](https://open.spotify.com/artist/0EocooOvTYLsjqSSQdqiyi) | [Ozon](https://open.spotify.com/album/0TKtSI3a1VhYoa9rrZfZ7z) | 3:14 | 2020-10-23 |  |
+| [Ozon](https://open.spotify.com/track/0GK4ZRf8VCGhS9qtVSNjbj) | [AK](https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A), [Dario Lessing](https://open.spotify.com/artist/0EocooOvTYLsjqSSQdqiyi) | [Ozon](https://open.spotify.com/album/0TKtSI3a1VhYoa9rrZfZ7z) | 3:14 | 2020-10-23 | 2022-09-05 |
 | [P.M.](https://open.spotify.com/track/4XmiKDdIHIeHl1jatSHASc) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx) | [Aquiver](https://open.spotify.com/album/3xujpBmJMxRVBlHFehFOhT) | 4:14 | 2020-02-29\* | 2020-03-16 |
 | [Pacifica \(Sultan + Shepard Remix\)](https://open.spotify.com/track/04wZnll09OSLNgvOEpWNHF) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk), [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau) | [Pacifica \(Sultan + Shepard Remix\)](https://open.spotify.com/album/459ZMPJabIH2ncB6cIX7ba) | 4:45 | 2022-03-04 |  |
 | [Pages](https://open.spotify.com/track/3BjZFkiTzGcT0hVz8k8odm) | [Adibanti](https://open.spotify.com/artist/3bXDOLmSQHIP7zAyY633kT) | [Adibanti \- EP](https://open.spotify.com/album/0jJx3OSHe7bQh5TrgE3438) | 3:32 | 2020-03-27 | 2021-03-06 |

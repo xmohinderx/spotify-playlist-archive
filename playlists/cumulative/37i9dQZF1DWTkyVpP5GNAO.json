@@ -1877,10 +1877,36 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-05",
       "duration_ms": 366081,
       "name": "Quiero M\u00e1s",
       "url": "https://open.spotify.com/track/1tDpk10hfq6cj6Qxixzni1"
+    },
+    {
+      "album": {
+        "name": "Quiero M\u00e1s",
+        "url": "https://open.spotify.com/album/3fRvGnuJ0QxJGYYmXgCn15"
+      },
+      "artists": [
+        {
+          "name": "Omar Salas",
+          "url": "https://open.spotify.com/artist/3E2IitJNIbpATIAvtJPUzd"
+        },
+        {
+          "name": "Any Puello",
+          "url": "https://open.spotify.com/artist/2U29Wo3uVE9gKvr8fg4gJU"
+        },
+        {
+          "name": "Camino a Casa",
+          "url": "https://open.spotify.com/artist/6Q5vcfrBhZ1PEdEvqykKEC"
+        }
+      ],
+      "date_added": "2021-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366081,
+      "name": "Quiero m\u00e1s",
+      "url": "https://open.spotify.com/track/77v1o59NzTsfmRpnfAkuf6"
     },
     {
       "album": {

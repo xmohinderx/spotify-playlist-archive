@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Morocco.",
-  "num_followers": 21512,
+  "num_followers": 21534,
   "original_name": "Top 50 - Morocco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzE1NTE2MDc0LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzE1NjAyMjExLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2022-09-03 10:27:54",
+      "added_at": "2022-09-04 10:23:31",
       "album": {
         "name": "Gueule tap\u00e9e",
         "url": "https://open.spotify.com/album/1yfFlOQRzc88m1ba79InmM"
@@ -25,23 +25,7 @@
       "url": "https://open.spotify.com/track/6h8Q07MtQBabHOjObg1a57"
     },
     {
-      "added_at": "2022-09-03 10:27:54",
-      "album": {
-        "name": "Magic",
-        "url": "https://open.spotify.com/album/1hAdTf1gymTuoTlBd2RQfA"
-      },
-      "artists": [
-        {
-          "name": "kouz1",
-          "url": "https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8"
-        }
-      ],
-      "duration_ms": 184800,
-      "name": "Magic",
-      "url": "https://open.spotify.com/track/6L1hnXrPSKAoOFmdOA8ANa"
-    },
-    {
-      "added_at": "2022-09-03 10:27:54",
+      "added_at": "2022-09-04 10:23:31",
       "album": {
         "name": "JRO7I",
         "url": "https://open.spotify.com/album/6FeVXC1Ihjhl7x1l1d6PqA"
@@ -57,7 +41,23 @@
       "url": "https://open.spotify.com/track/7syDtybPIIxoR1jvz6w8nI"
     },
     {
-      "added_at": "2022-09-03 10:27:54",
+      "added_at": "2022-09-04 10:23:31",
+      "album": {
+        "name": "Magic",
+        "url": "https://open.spotify.com/album/1hAdTf1gymTuoTlBd2RQfA"
+      },
+      "artists": [
+        {
+          "name": "kouz1",
+          "url": "https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8"
+        }
+      ],
+      "duration_ms": 184800,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/6L1hnXrPSKAoOFmdOA8ANa"
+    },
+    {
+      "added_at": "2022-09-04 10:23:31",
       "album": {
         "name": "Comforter (feat. Ayra Starr)",
         "url": "https://open.spotify.com/album/2NmB4LzQtfkv88hY595YtL"
@@ -77,7 +77,7 @@
       "url": "https://open.spotify.com/track/2Vr7Qvt5a9f6W9m6ifke4K"
     },
     {
-      "added_at": "2022-09-03 10:27:54",
+      "added_at": "2022-09-04 10:23:31",
       "album": {
         "name": "CHICHI",
         "url": "https://open.spotify.com/album/6FvhLrpAIZswxC9YLs0qFu"
@@ -93,23 +93,7 @@
       "url": "https://open.spotify.com/track/7MahBaXzhvYCL7w9wXF4Wx"
     },
     {
-      "added_at": "2022-09-03 10:27:54",
-      "album": {
-        "name": "Doja",
-        "url": "https://open.spotify.com/album/6oECjagksATHu2UaclXrq1"
-      },
-      "artists": [
-        {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
-        }
-      ],
-      "duration_ms": 97392,
-      "name": "Doja",
-      "url": "https://open.spotify.com/track/3LtpKP5abr2qqjunvjlX5i"
-    },
-    {
-      "added_at": "2022-09-03 10:27:54",
+      "added_at": "2022-09-04 10:23:31",
       "album": {
         "name": "Calm Down (with Selena Gomez)",
         "url": "https://open.spotify.com/album/2b2GHWESCWEuHiCZ2Skedp"
@@ -129,7 +113,23 @@
       "url": "https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8"
     },
     {
-      "added_at": "2022-09-03 10:27:54",
+      "added_at": "2022-09-04 10:23:31",
+      "album": {
+        "name": "Doja",
+        "url": "https://open.spotify.com/album/6oECjagksATHu2UaclXrq1"
+      },
+      "artists": [
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "duration_ms": 97392,
+      "name": "Doja",
+      "url": "https://open.spotify.com/track/3LtpKP5abr2qqjunvjlX5i"
+    },
+    {
+      "added_at": "2022-09-04 10:23:31",
       "album": {
         "name": "Makhelaw magalou",
         "url": "https://open.spotify.com/album/1aiMHJEw75iDP9reYTQ4lO"
@@ -145,39 +145,7 @@
       "url": "https://open.spotify.com/track/0jqUiExctgLt7bcghvD7Kw"
     },
     {
-      "added_at": "2022-09-03 10:27:54",
-      "album": {
-        "name": "Indigo (Extended)",
-        "url": "https://open.spotify.com/album/3okhA6w5uau6ZNhnVpwVww"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 184613,
-      "name": "Under The Influence",
-      "url": "https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb"
-    },
-    {
-      "added_at": "2022-09-03 10:27:54",
-      "album": {
-        "name": "Mood",
-        "url": "https://open.spotify.com/album/0of66YXURMrVzhAVkYNDeO"
-      },
-      "artists": [
-        {
-          "name": "Makar",
-          "url": "https://open.spotify.com/artist/4PUr4W5mWlzMkyVpSiX2ZN"
-        }
-      ],
-      "duration_ms": 151690,
-      "name": "Mood",
-      "url": "https://open.spotify.com/track/4k6yZRw7M04gZE2uW12Cw6"
-    },
-    {
-      "added_at": "2022-09-03 10:27:54",
+      "added_at": "2022-09-04 10:23:31",
       "album": {
         "name": "Ghir Ntiya",
         "url": "https://open.spotify.com/album/5nsqflpGETuyeLdYLNy0mm"
@@ -197,7 +165,39 @@
       "url": "https://open.spotify.com/track/4HLrkVmVOqFkUxMMzIkTZX"
     },
     {
-      "added_at": "2022-09-03 10:27:54",
+      "added_at": "2022-09-04 10:23:31",
+      "album": {
+        "name": "Mood",
+        "url": "https://open.spotify.com/album/0of66YXURMrVzhAVkYNDeO"
+      },
+      "artists": [
+        {
+          "name": "Makar",
+          "url": "https://open.spotify.com/artist/4PUr4W5mWlzMkyVpSiX2ZN"
+        }
+      ],
+      "duration_ms": 151690,
+      "name": "Mood",
+      "url": "https://open.spotify.com/track/4k6yZRw7M04gZE2uW12Cw6"
+    },
+    {
+      "added_at": "2022-09-04 10:23:31",
+      "album": {
+        "name": "Indigo (Extended)",
+        "url": "https://open.spotify.com/album/3okhA6w5uau6ZNhnVpwVww"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 184613,
+      "name": "Under The Influence",
+      "url": "https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb"
+    },
+    {
+      "added_at": "2022-09-04 10:23:31",
       "album": {
         "name": "KMT",
         "url": "https://open.spotify.com/album/5rS3VIo8faf2gtaNvAIavb"
@@ -213,7 +213,7 @@
       "url": "https://open.spotify.com/track/3D29kjUyWxsT3jUUTtARVQ"
     },
     {
-      "added_at": "2022-09-03 10:27:54",
+      "added_at": "2022-09-04 10:23:31",
       "album": {
         "name": "Mots crois\u00e9s",
         "url": "https://open.spotify.com/album/7MKGYeEG0mGVL39JcNywKK"
@@ -233,7 +233,7 @@
       "url": "https://open.spotify.com/track/1ThaPy4W188i5SFdjXl64J"
     },
     {
-      "added_at": "2022-09-03 10:27:54",
+      "added_at": "2022-09-04 10:23:31",
       "album": {
         "name": "Ghazali (feat. Bryan Mg)",
         "url": "https://open.spotify.com/album/1LBYhdNp9PZrjPjVPJoboo"
@@ -253,7 +253,7 @@
       "url": "https://open.spotify.com/track/5IJRqarA4QIc2qAw74mYo9"
     },
     {
-      "added_at": "2022-09-03 10:27:54",
+      "added_at": "2022-09-04 10:23:31",
       "album": {
         "name": "Lovini",
         "url": "https://open.spotify.com/album/6KACjn7mgZ0TKE154UZEES"
@@ -269,27 +269,7 @@
       "url": "https://open.spotify.com/track/7f783hK2ilf4bwfayaNvdB"
     },
     {
-      "added_at": "2022-09-03 10:27:54",
-      "album": {
-        "name": "Laisse Tomber",
-        "url": "https://open.spotify.com/album/6ZhgW4To5S7eY08c0wMPPO"
-      },
-      "artists": [
-        {
-          "name": "Tagne",
-          "url": "https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc"
-        },
-        {
-          "name": "7liwa",
-          "url": "https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3"
-        }
-      ],
-      "duration_ms": 197383,
-      "name": "Laisse Tomber",
-      "url": "https://open.spotify.com/track/5VpkGOSBwYh0ikxPxmR2ld"
-    },
-    {
-      "added_at": "2022-09-03 10:27:54",
+      "added_at": "2022-09-04 10:23:31",
       "album": {
         "name": "love nwantiti (feat. ElGrande Toto) [North African Remix]",
         "url": "https://open.spotify.com/album/6Gyni4addCtIY57Cxulegg"
@@ -309,27 +289,7 @@
       "url": "https://open.spotify.com/track/1EYeZGTMCjV7uVey5fNWXM"
     },
     {
-      "added_at": "2022-09-03 10:27:54",
-      "album": {
-        "name": "Ind\u00e9pendance",
-        "url": "https://open.spotify.com/album/0waAfKYTW2g5VAsmbPDbjP"
-      },
-      "artists": [
-        {
-          "name": "Jul",
-          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
-        },
-        {
-          "name": "Morad",
-          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
-        }
-      ],
-      "duration_ms": 200106,
-      "name": "La street",
-      "url": "https://open.spotify.com/track/29n9av2AJlYDHtqfuv0X04"
-    },
-    {
-      "added_at": "2022-09-03 10:27:54",
+      "added_at": "2022-09-04 10:23:31",
       "album": {
         "name": "MAAK",
         "url": "https://open.spotify.com/album/6WvD9R9JdMBN9elz1qcg9Y"
@@ -349,7 +309,47 @@
       "url": "https://open.spotify.com/track/4g1AKn1RwrNmCUTzl6pSI3"
     },
     {
-      "added_at": "2022-09-03 10:27:54",
+      "added_at": "2022-09-04 10:23:31",
+      "album": {
+        "name": "Ind\u00e9pendance",
+        "url": "https://open.spotify.com/album/0waAfKYTW2g5VAsmbPDbjP"
+      },
+      "artists": [
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        },
+        {
+          "name": "Morad",
+          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
+        }
+      ],
+      "duration_ms": 200106,
+      "name": "La street",
+      "url": "https://open.spotify.com/track/29n9av2AJlYDHtqfuv0X04"
+    },
+    {
+      "added_at": "2022-09-04 10:23:31",
+      "album": {
+        "name": "Laisse Tomber",
+        "url": "https://open.spotify.com/album/6ZhgW4To5S7eY08c0wMPPO"
+      },
+      "artists": [
+        {
+          "name": "Tagne",
+          "url": "https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc"
+        },
+        {
+          "name": "7liwa",
+          "url": "https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3"
+        }
+      ],
+      "duration_ms": 197383,
+      "name": "Laisse Tomber",
+      "url": "https://open.spotify.com/track/5VpkGOSBwYh0ikxPxmR2ld"
+    },
+    {
+      "added_at": "2022-09-04 10:23:31",
       "album": {
         "name": "Rave & Roses",
         "url": "https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG"
@@ -365,27 +365,7 @@
       "url": "https://open.spotify.com/track/3BnDvpeuGOj21Ir2aVEtQo"
     },
     {
-      "added_at": "2022-09-03 10:27:54",
-      "album": {
-        "name": "Sans visa",
-        "url": "https://open.spotify.com/album/5rncxkieoEvPDzA7VdNGQx"
-      },
-      "artists": [
-        {
-          "name": "Soolking",
-          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
-        },
-        {
-          "name": "Niska",
-          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
-        }
-      ],
-      "duration_ms": 176120,
-      "name": "Balader",
-      "url": "https://open.spotify.com/track/6PrB4KpvuoYWtwjPC5a44S"
-    },
-    {
-      "added_at": "2022-09-03 10:27:54",
+      "added_at": "2022-09-04 10:23:31",
       "album": {
         "name": "KIFKIF",
         "url": "https://open.spotify.com/album/2UhLGCTnNMxR2Eyv2RorkV"
@@ -409,23 +389,27 @@
       "url": "https://open.spotify.com/track/3GoQSJXtzbDtejWNADev6f"
     },
     {
-      "added_at": "2022-09-03 10:27:54",
+      "added_at": "2022-09-04 10:23:31",
       "album": {
-        "name": "Cagoul\u00e9",
-        "url": "https://open.spotify.com/album/1qD0LUxHxbr5UPw7Rz99C0"
+        "name": "Sans visa",
+        "url": "https://open.spotify.com/album/5rncxkieoEvPDzA7VdNGQx"
       },
       "artists": [
         {
-          "name": "LFERDA",
-          "url": "https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v"
+          "name": "Soolking",
+          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
+        },
+        {
+          "name": "Niska",
+          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
         }
       ],
-      "duration_ms": 144576,
-      "name": "Ma Jolie",
-      "url": "https://open.spotify.com/track/7pktxOiANdgQnzJmp7vwON"
+      "duration_ms": 176120,
+      "name": "Balader",
+      "url": "https://open.spotify.com/track/6PrB4KpvuoYWtwjPC5a44S"
     },
     {
-      "added_at": "2022-09-03 10:27:54",
+      "added_at": "2022-09-04 10:23:31",
       "album": {
         "name": "Salade Coco",
         "url": "https://open.spotify.com/album/4WMyOG6VuYgUJABGPES4iA"
@@ -441,7 +425,23 @@
       "url": "https://open.spotify.com/track/2BJh2IoGeq0UQVsLHUcbrK"
     },
     {
-      "added_at": "2022-09-03 10:27:54",
+      "added_at": "2022-09-04 10:23:31",
+      "album": {
+        "name": "Cagoul\u00e9",
+        "url": "https://open.spotify.com/album/1qD0LUxHxbr5UPw7Rz99C0"
+      },
+      "artists": [
+        {
+          "name": "LFERDA",
+          "url": "https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v"
+        }
+      ],
+      "duration_ms": 144576,
+      "name": "Ma Jolie",
+      "url": "https://open.spotify.com/track/7pktxOiANdgQnzJmp7vwON"
+    },
+    {
+      "added_at": "2022-09-04 10:23:31",
       "album": {
         "name": "Sans visa",
         "url": "https://open.spotify.com/album/5rncxkieoEvPDzA7VdNGQx"
@@ -457,7 +457,7 @@
       "url": "https://open.spotify.com/track/6Qe7YCkIOc1iaw9HKqO3qV"
     },
     {
-      "added_at": "2022-09-03 10:27:54",
+      "added_at": "2022-09-04 10:23:31",
       "album": {
         "name": "Hickey",
         "url": "https://open.spotify.com/album/6l0VWNBC0Oppta7L3WkWnj"
@@ -473,23 +473,7 @@
       "url": "https://open.spotify.com/track/3B67oAJr4acToGpR1S33g5"
     },
     {
-      "added_at": "2022-09-03 10:27:54",
-      "album": {
-        "name": "Moulaga",
-        "url": "https://open.spotify.com/album/0OeZXdYEZcy5yWuC4oQLMt"
-      },
-      "artists": [
-        {
-          "name": "Stormy",
-          "url": "https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh"
-        }
-      ],
-      "duration_ms": 172941,
-      "name": "Moulaga",
-      "url": "https://open.spotify.com/track/2s4eIt2bWj7xwcXEV7lQdG"
-    },
-    {
-      "added_at": "2022-09-03 10:27:54",
+      "added_at": "2022-09-04 10:23:31",
       "album": {
         "name": "De9at l9elb",
         "url": "https://open.spotify.com/album/4AqUJTIVVpHmoGonhlp7Gr"
@@ -505,7 +489,7 @@
       "url": "https://open.spotify.com/track/3WzncgOidVpqkak5Ee4b1n"
     },
     {
-      "added_at": "2022-09-03 10:27:54",
+      "added_at": "2022-09-04 10:23:31",
       "album": {
         "name": "Sos (Chapitre 1)",
         "url": "https://open.spotify.com/album/5FLRz3yaK09OCqUIlspaET"
@@ -521,7 +505,7 @@
       "url": "https://open.spotify.com/track/7BTwRzjCkjMJUEMmXvGPAR"
     },
     {
-      "added_at": "2022-09-03 10:27:54",
+      "added_at": "2022-09-04 10:23:31",
       "album": {
         "name": "Pelele",
         "url": "https://open.spotify.com/album/3nGXy6EtbuxUwgUt1umZtY"
@@ -537,7 +521,23 @@
       "url": "https://open.spotify.com/track/5h5TUj8pU2WhdSeJx9BnX2"
     },
     {
-      "added_at": "2022-09-03 10:27:54",
+      "added_at": "2022-09-04 10:23:31",
+      "album": {
+        "name": "Moulaga",
+        "url": "https://open.spotify.com/album/0OeZXdYEZcy5yWuC4oQLMt"
+      },
+      "artists": [
+        {
+          "name": "Stormy",
+          "url": "https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh"
+        }
+      ],
+      "duration_ms": 172941,
+      "name": "Moulaga",
+      "url": "https://open.spotify.com/track/2s4eIt2bWj7xwcXEV7lQdG"
+    },
+    {
+      "added_at": "2022-09-04 10:23:31",
       "album": {
         "name": "FADE UP",
         "url": "https://open.spotify.com/album/6eD0LYFE7Tp1vOFffZVWNr"
@@ -561,7 +561,7 @@
       "url": "https://open.spotify.com/track/4ZpIuzx91EAPK3VimONbfB"
     },
     {
-      "added_at": "2022-09-03 10:27:54",
+      "added_at": "2022-09-04 10:23:31",
       "album": {
         "name": "Numero Uno (V2)",
         "url": "https://open.spotify.com/album/1JZ3EzXKORa4LhBdMeFtRv"
@@ -577,27 +577,39 @@
       "url": "https://open.spotify.com/track/4Sp90D9O8SXeBJx5RqU21b"
     },
     {
-      "added_at": "2022-09-03 10:27:54",
+      "added_at": "2022-09-04 10:23:31",
       "album": {
-        "name": "VENOM",
-        "url": "https://open.spotify.com/album/3jPxi5bJXFvXcZIizrmoZe"
+        "name": "Taline",
+        "url": "https://open.spotify.com/album/01ayDcY70kcoS3HYBH1jvm"
       },
       "artists": [
         {
-          "name": "Vargas",
-          "url": "https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb"
-        },
-        {
-          "name": "Abduh",
-          "url": "https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk"
+          "name": "Draganov",
+          "url": "https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ"
         }
       ],
-      "duration_ms": 259956,
-      "name": "NO MERCY",
-      "url": "https://open.spotify.com/track/7eMGattQmhWZmqvP3mYtdw"
+      "duration_ms": 176000,
+      "name": "Taline",
+      "url": "https://open.spotify.com/track/0tfrAZsEOELEAcjCs46TJ5"
     },
     {
-      "added_at": "2022-09-03 10:27:54",
+      "added_at": "2022-09-04 10:23:31",
+      "album": {
+        "name": "Our Beloved Summer (Original Television Soundtrack), Pt. 5",
+        "url": "https://open.spotify.com/album/4210mSQ3r10AsJMZEYAH5l"
+      },
+      "artists": [
+        {
+          "name": "V",
+          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
+        }
+      ],
+      "duration_ms": 209946,
+      "name": "Christmas Tree",
+      "url": "https://open.spotify.com/track/186NCtNk1tUYS7c2DxgJ7O"
+    },
+    {
+      "added_at": "2022-09-04 10:23:31",
       "album": {
         "name": "QUARTIERS NORD",
         "url": "https://open.spotify.com/album/4EGHU1v3qmjchplaPqRWBC"
@@ -621,23 +633,7 @@
       "url": "https://open.spotify.com/track/6OZwia8loN0aPS0vTvsBjR"
     },
     {
-      "added_at": "2022-09-03 10:27:54",
-      "album": {
-        "name": "Our Beloved Summer (Original Television Soundtrack), Pt. 5",
-        "url": "https://open.spotify.com/album/4210mSQ3r10AsJMZEYAH5l"
-      },
-      "artists": [
-        {
-          "name": "V",
-          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
-        }
-      ],
-      "duration_ms": 209946,
-      "name": "Christmas Tree",
-      "url": "https://open.spotify.com/track/186NCtNk1tUYS7c2DxgJ7O"
-    },
-    {
-      "added_at": "2022-09-03 10:27:54",
+      "added_at": "2022-09-04 10:23:31",
       "album": {
         "name": "ITAEWON CLASS (Original Television Soundtrack) Pt. 12",
         "url": "https://open.spotify.com/album/1q3j12Y1sp2eqqffSnyA93"
@@ -653,7 +649,43 @@
       "url": "https://open.spotify.com/track/39EXZNMxb4RBHlRjnRaOKp"
     },
     {
-      "added_at": "2022-09-03 10:27:54",
+      "added_at": "2022-09-04 10:23:31",
+      "album": {
+        "name": "VENOM",
+        "url": "https://open.spotify.com/album/3jPxi5bJXFvXcZIizrmoZe"
+      },
+      "artists": [
+        {
+          "name": "Vargas",
+          "url": "https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb"
+        },
+        {
+          "name": "Abduh",
+          "url": "https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk"
+        }
+      ],
+      "duration_ms": 259956,
+      "name": "NO MERCY",
+      "url": "https://open.spotify.com/track/7eMGattQmhWZmqvP3mYtdw"
+    },
+    {
+      "added_at": "2022-09-04 10:23:31",
+      "album": {
+        "name": "KU LO SA - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/36bNKiiUjxUCaAO7QtUVfi"
+      },
+      "artists": [
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        }
+      ],
+      "duration_ms": 147580,
+      "name": "KU LO SA - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/2WigMwGJysIh9fRnSJvpjn"
+    },
+    {
+      "added_at": "2022-09-04 10:23:31",
       "album": {
         "name": "Colors",
         "url": "https://open.spotify.com/album/0laELllYHrj2Zbw4It01B9"
@@ -673,39 +705,23 @@
       "url": "https://open.spotify.com/track/1gq11LOJxrQob0EsPRwAMm"
     },
     {
-      "added_at": "2022-09-03 10:27:54",
+      "added_at": "2022-09-04 10:23:31",
       "album": {
-        "name": "Taline",
-        "url": "https://open.spotify.com/album/01ayDcY70kcoS3HYBH1jvm"
+        "name": "Mazalni",
+        "url": "https://open.spotify.com/album/2be1DLBmI7MFfY4Gm92i77"
       },
       "artists": [
         {
-          "name": "Draganov",
-          "url": "https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ"
+          "name": "Djalil Palermo",
+          "url": "https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX"
         }
       ],
-      "duration_ms": 176000,
-      "name": "Taline",
-      "url": "https://open.spotify.com/track/0tfrAZsEOELEAcjCs46TJ5"
+      "duration_ms": 260209,
+      "name": "Mazalni",
+      "url": "https://open.spotify.com/track/4Mi1B4Sc3u5zkLaEB7PETp"
     },
     {
-      "added_at": "2022-09-03 10:27:54",
-      "album": {
-        "name": "KU LO SA - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/36bNKiiUjxUCaAO7QtUVfi"
-      },
-      "artists": [
-        {
-          "name": "Oxlade",
-          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
-        }
-      ],
-      "duration_ms": 147580,
-      "name": "KU LO SA - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/2WigMwGJysIh9fRnSJvpjn"
-    },
-    {
-      "added_at": "2022-09-03 10:27:54",
+      "added_at": "2022-09-04 10:23:31",
       "album": {
         "name": "J'en ai marre !",
         "url": "https://open.spotify.com/album/1FQFJUXaLbSySLnTqSHtXX"
@@ -725,39 +741,7 @@
       "url": "https://open.spotify.com/track/39jtccUn5BcqpMbjzqFRlj"
     },
     {
-      "added_at": "2022-09-03 10:27:54",
-      "album": {
-        "name": "Harry's House",
-        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 167303,
-      "name": "As It Was",
-      "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
-    },
-    {
-      "added_at": "2022-09-03 10:27:54",
-      "album": {
-        "name": "Haram (Pablo II)",
-        "url": "https://open.spotify.com/album/0yailt9L3LXP8gaHCW5gnD"
-      },
-      "artists": [
-        {
-          "name": "ElGrandeToto",
-          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
-        }
-      ],
-      "duration_ms": 266533,
-      "name": "Haram (Pablo II)",
-      "url": "https://open.spotify.com/track/6AFbOjmJNeCHXmoh1Ve1XM"
-    },
-    {
-      "added_at": "2022-09-03 10:27:54",
+      "added_at": "2022-09-04 10:23:31",
       "album": {
         "name": "Cam\u00e9l\u00e9on",
         "url": "https://open.spotify.com/album/1E2FLbD0dchh1eVfO3MKC6"
@@ -773,39 +757,39 @@
       "url": "https://open.spotify.com/track/5QhnCB5kD34sYkvHviU0yz"
     },
     {
-      "added_at": "2022-09-03 10:27:54",
+      "added_at": "2022-09-04 10:23:31",
       "album": {
-        "name": "Mazalni",
-        "url": "https://open.spotify.com/album/2be1DLBmI7MFfY4Gm92i77"
+        "name": "Haram (Pablo II)",
+        "url": "https://open.spotify.com/album/0yailt9L3LXP8gaHCW5gnD"
       },
       "artists": [
         {
-          "name": "Djalil Palermo",
-          "url": "https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX"
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
         }
       ],
-      "duration_ms": 260209,
-      "name": "Mazalni",
-      "url": "https://open.spotify.com/track/4Mi1B4Sc3u5zkLaEB7PETp"
+      "duration_ms": 266533,
+      "name": "Haram (Pablo II)",
+      "url": "https://open.spotify.com/track/6AFbOjmJNeCHXmoh1Ve1XM"
     },
     {
-      "added_at": "2022-09-03 10:27:54",
+      "added_at": "2022-09-04 10:23:31",
       "album": {
-        "name": "Extraterrestre",
-        "url": "https://open.spotify.com/album/4DqWj7iB2Xa2DQYiWcT7ks"
+        "name": "Harry's House",
+        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
       },
       "artists": [
         {
-          "name": "Jul",
-          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
         }
       ],
-      "duration_ms": 189866,
-      "name": "J'ai tout su",
-      "url": "https://open.spotify.com/track/3fgEIHsl6ecyAK1rpAxBIY"
+      "duration_ms": 167303,
+      "name": "As It Was",
+      "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
     },
     {
-      "added_at": "2022-09-03 10:27:54",
+      "added_at": "2022-09-04 10:23:31",
       "album": {
         "name": "Nsiti",
         "url": "https://open.spotify.com/album/0uTXQyHxnSUibdyT05WCCu"
@@ -821,43 +805,7 @@
       "url": "https://open.spotify.com/track/39IyCxrLN3USQLaTQ9tnMa"
     },
     {
-      "added_at": "2022-09-03 10:27:54",
-      "album": {
-        "name": "VENOM",
-        "url": "https://open.spotify.com/album/3jPxi5bJXFvXcZIizrmoZe"
-      },
-      "artists": [
-        {
-          "name": "Vargas",
-          "url": "https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb"
-        }
-      ],
-      "duration_ms": 219942,
-      "name": "PAUSE",
-      "url": "https://open.spotify.com/track/3rgK01p9Vi8RfTuABJQtzM"
-    },
-    {
-      "added_at": "2022-09-03 10:27:54",
-      "album": {
-        "name": "Chroniques d\u2019un cupidon",
-        "url": "https://open.spotify.com/album/1a6v54PDHcrn6y5iA7wuT1"
-      },
-      "artists": [
-        {
-          "name": "Slimane",
-          "url": "https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz"
-        },
-        {
-          "name": "Manal",
-          "url": "https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F"
-        }
-      ],
-      "duration_ms": 165520,
-      "name": "Zina",
-      "url": "https://open.spotify.com/track/6aSUxiUElMeHaUhVJdTSPl"
-    },
-    {
-      "added_at": "2022-09-03 10:27:54",
+      "added_at": "2022-09-04 10:23:31",
       "album": {
         "name": "Crushi",
         "url": "https://open.spotify.com/album/1JO7MjScs6ZjUad2lBzKgA"
@@ -873,7 +821,23 @@
       "url": "https://open.spotify.com/track/1o6J9yEGafI0rbKfksplwF"
     },
     {
-      "added_at": "2022-09-03 10:27:54",
+      "added_at": "2022-09-04 10:23:31",
+      "album": {
+        "name": "Extraterrestre",
+        "url": "https://open.spotify.com/album/4DqWj7iB2Xa2DQYiWcT7ks"
+      },
+      "artists": [
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        }
+      ],
+      "duration_ms": 189866,
+      "name": "J'ai tout su",
+      "url": "https://open.spotify.com/track/3fgEIHsl6ecyAK1rpAxBIY"
+    },
+    {
+      "added_at": "2022-09-04 10:23:31",
       "album": {
         "name": "MIXDEEP",
         "url": "https://open.spotify.com/album/1I9BiYmRSw2HXXi8RtKBym"
@@ -887,6 +851,38 @@
       "duration_ms": 195744,
       "name": "Rosita",
       "url": "https://open.spotify.com/track/0Iu2Jrfy91hMgIUtS9FFIX"
+    },
+    {
+      "added_at": "2022-09-04 10:23:31",
+      "album": {
+        "name": "VENOM",
+        "url": "https://open.spotify.com/album/3jPxi5bJXFvXcZIizrmoZe"
+      },
+      "artists": [
+        {
+          "name": "Vargas",
+          "url": "https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb"
+        }
+      ],
+      "duration_ms": 219942,
+      "name": "PAUSE",
+      "url": "https://open.spotify.com/track/3rgK01p9Vi8RfTuABJQtzM"
+    },
+    {
+      "added_at": "2022-09-04 10:23:31",
+      "album": {
+        "name": "Love Yourself \u8f49 'Tear'",
+        "url": "https://open.spotify.com/album/4NIqCxqP9o8Tp6tGLBqd8O"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 196998,
+      "name": "Intro: Singularity",
+      "url": "https://open.spotify.com/track/5rNZsITjXf23iFkRA924FV"
     }
   ],
   "unique_name": "Top 50 - Morocco",

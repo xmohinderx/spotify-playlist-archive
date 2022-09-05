@@ -1,12 +1,12 @@
 {
   "description": "\uc774\ubcc4, \uc2ac\ud514, \uacf5\ud5c8\ud568. \ub098\uc758 \uc6b0\uc6b8\uc5d0 \uacf5\uac10\ud574\ubcf4\uc138\uc694",
-  "num_followers": 5102,
+  "num_followers": 5143,
   "original_name": "\ub098\uc758 \uc6b0\uc6b8\uc740,",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDgzMjY2NCwwMDAwMDAwMGQ1ZTlhZGQyZmNjMDVlYTZkOTNlNzg1MjAyNjllMjZi",
+  "snapshot_id": "MTY2MDgzMjY2NCwwMDAwMDAwMDY3N2ZkYWQ3OGQ3YmFjZWZiOWNjNTUwZmEzZTJlZTY2",
   "tracks": [
     {
       "added_at": "2022-08-18 14:24:24",
@@ -375,22 +375,6 @@
     {
       "added_at": "2022-08-18 14:24:24",
       "album": {
-        "name": "Like Water - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/1Ao5vWPO13f4l0ldwxOKL7"
-      },
-      "artists": [
-        {
-          "name": "WENDY",
-          "url": "https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K"
-        }
-      ],
-      "duration_ms": 255373,
-      "name": "The Road",
-      "url": "https://open.spotify.com/track/7cXJOM8t8pftyFgYp5Sm1N"
-    },
-    {
-      "added_at": "2022-08-18 14:24:24",
-      "album": {
         "name": "If You Wish Upon Me OST Part.1",
         "url": "https://open.spotify.com/album/5XmjYOY19DZpCqaZ9QVG8A"
       },
@@ -407,18 +391,18 @@
     {
       "added_at": "2022-08-18 14:24:24",
       "album": {
-        "name": "Undo",
-        "url": "https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J"
+        "name": "Like Water - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/1Ao5vWPO13f4l0ldwxOKL7"
       },
       "artists": [
         {
-          "name": "HEIZE",
-          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+          "name": "WENDY",
+          "url": "https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K"
         }
       ],
-      "duration_ms": 202120,
-      "name": "Love is alone",
-      "url": "https://open.spotify.com/track/2X5DVuUYZvP4CwmPwnHSTD"
+      "duration_ms": 255373,
+      "name": "The Road",
+      "url": "https://open.spotify.com/track/7cXJOM8t8pftyFgYp5Sm1N"
     },
     {
       "added_at": "2022-08-18 14:24:24",
@@ -435,6 +419,22 @@
       "duration_ms": 219133,
       "name": "Dear you (Romance 101 X LeeHi)",
       "url": "https://open.spotify.com/track/3Hl54jMVxsDipnNQXG2xnV"
+    },
+    {
+      "added_at": "2022-08-18 14:24:24",
+      "album": {
+        "name": "Undo",
+        "url": "https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J"
+      },
+      "artists": [
+        {
+          "name": "HEIZE",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+        }
+      ],
+      "duration_ms": 202120,
+      "name": "Love is alone",
+      "url": "https://open.spotify.com/track/2X5DVuUYZvP4CwmPwnHSTD"
     },
     {
       "added_at": "2022-08-18 14:24:24",
@@ -519,22 +519,6 @@
     {
       "added_at": "2022-08-18 14:24:24",
       "album": {
-        "name": "Replay (Original Television Soundtrack) Pt. 6",
-        "url": "https://open.spotify.com/album/55EdkCQtpj8BRYdoElsdn2"
-      },
-      "artists": [
-        {
-          "name": "MIYEON",
-          "url": "https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF"
-        }
-      ],
-      "duration_ms": 221093,
-      "name": "Dreaming About You",
-      "url": "https://open.spotify.com/track/4GpACqU62rGBnFEQQyDZw5"
-    },
-    {
-      "added_at": "2022-08-18 14:24:24",
-      "album": {
         "name": "Mindless",
         "url": "https://open.spotify.com/album/0SliKclPFZxNqnmGIIqVIO"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 247793,
       "name": "Mindless",
       "url": "https://open.spotify.com/track/7wKSQwBzevrfI4nsSNGnuM"
+    },
+    {
+      "added_at": "2022-08-18 14:24:24",
+      "album": {
+        "name": "Replay (Original Television Soundtrack) Pt. 6",
+        "url": "https://open.spotify.com/album/55EdkCQtpj8BRYdoElsdn2"
+      },
+      "artists": [
+        {
+          "name": "MIYEON",
+          "url": "https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF"
+        }
+      ],
+      "duration_ms": 221093,
+      "name": "Dreaming About You",
+      "url": "https://open.spotify.com/track/4GpACqU62rGBnFEQQyDZw5"
     },
     {
       "added_at": "2022-08-18 14:24:24",
@@ -807,22 +807,18 @@
     {
       "added_at": "2022-08-18 14:24:24",
       "album": {
-        "name": "How could you",
-        "url": "https://open.spotify.com/album/6Tv0HmutNYBa1IK3scNXYo"
+        "name": "Emptiness in Memory",
+        "url": "https://open.spotify.com/album/4dYM107Vn5VXOCenlChbOG"
       },
       "artists": [
         {
-          "name": "LEE SEUNG HWAN",
-          "url": "https://open.spotify.com/artist/6LPV5KZBc1zBjX8AFZ2WWY"
-        },
-        {
-          "name": "\u30bd\u30cc\u30fb\u30b8\u30e7\u30f3\u30a2",
-          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
+          "name": "Naul",
+          "url": "https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1"
         }
       ],
-      "duration_ms": 251240,
-      "name": "How could you",
-      "url": "https://open.spotify.com/track/49vI2GkYDR5sKmINKsQd96"
+      "duration_ms": 278454,
+      "name": "Emptiness in Memory",
+      "url": "https://open.spotify.com/track/3pOuipxjrJEwnnGhE106Rh"
     }
   ],
   "unique_name": "\ub098\uc758 \uc6b0\uc6b8\uc740,",

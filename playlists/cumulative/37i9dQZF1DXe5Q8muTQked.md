@@ -4,7 +4,7 @@
 
 > Kick back with the perfect mix of covers.
 
-604 songs - 1 day 13 hr 19 min - [published](https://open.spotify.com/playlist/4ZekyI25JTzcwoswovlyqc)
+605 songs - 1 day 13 hr 22 min - [published](https://open.spotify.com/playlist/4ZekyI25JTzcwoswovlyqc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [\(I Can't Get No\) Satisfaction](https://open.spotify.com/track/6dv99Xm7fEjm7K1ATHj1UG) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [The Covers Record](https://open.spotify.com/album/4dZBOO1PjjmtPA974xHMND) | 3:05 | 2022-06-10 |  |
 | [\(You Make Me Feel Like\) a Natural Woman \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/252Js3mNvVOHzeiStTUTNM) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [Spotify Singles](https://open.spotify.com/album/3BtaYjFyAb4GmZ6qJxtiTr) | 3:02 | 2021-10-20 | 2022-07-29 |
 | [1979](https://open.spotify.com/track/2KSezpA4CZxv1RkQvA1jXE) | [Freedom Fry](https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7) | [1979](https://open.spotify.com/album/40rI4qa8uU2W7u1z4JKVZg) | 4:50 | 2021-10-20 | 2022-07-29 |
-| [7 Years](https://open.spotify.com/track/2VgaZrBVBJqh4lMYeqN0pQ) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [7 Years](https://open.spotify.com/album/5MupNow8t7OcTop26MnsrO) | 3:58 | 2022-06-10 |  |
+| [7 Years](https://open.spotify.com/track/2VgaZrBVBJqh4lMYeqN0pQ) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [7 Years](https://open.spotify.com/album/5MupNow8t7OcTop26MnsrO) | 3:58 | 2022-06-10 | 2022-09-05 |
 | [7 Years \(Acoustic\) \- Recorded at Spotify Studios Nyc](https://open.spotify.com/track/1VK5JYdgrJZENDl1taa2cS) | [Lindsey Stirling](https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM) | [Spotify Singles](https://open.spotify.com/album/1XXSHevNKbENDXqH5iRSEC) | 2:27 | 2022-06-10 |  |
 | [A Hard Rain's A Gonna Fall](https://open.spotify.com/track/3IfL6ToMZmiMjIxvrtMPev) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Listen To Bob Dylan \- A Tribute](https://open.spotify.com/album/1lkp6bU55AW0FjGvmCr5bI) | 8:12 | 2022-04-29 | 2022-07-27 |
 | [A Song for You](https://open.spotify.com/track/20T1K4gvaX8c7FbA7ljoau) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Shotgun Willie](https://open.spotify.com/album/6ja7Fceq3F7Igb2DrLKN6y) | 4:20 | 2021-10-20 | 2022-07-25 |
@@ -598,6 +598,7 @@
 | [You Don't Know How It Feels](https://open.spotify.com/track/4jRfYs49suF4VINcWVXAvb) | [Walk Off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX) | [You Don't Know How It Feels](https://open.spotify.com/album/7pWTvThKZquHfq4E0e5KwX) | 3:42 | 2021-10-20 | 2022-07-19 |
 | [You Don't Own Me \(feat\. G\-Eazy\)](https://open.spotify.com/track/2CpH1L4CUR47RARB3PgY1l) | [SAYGRACE](https://open.spotify.com/artist/6y5amJcTjeDgLXIjtQLMst), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) | [You Don't Own Me \(feat\. G\-Eazy\)](https://open.spotify.com/album/1jwMRIAKCBeroo1jYV19tO) | 3:19 | 2022-06-10 |  |
 | [You Got It](https://open.spotify.com/track/2KWngvFybhtt7S4GV5Q0YC) | [Welshly Arms](https://open.spotify.com/artist/1xKrH6GSh9CJh8nYwbqW7B) | [Covers EP](https://open.spotify.com/album/4ZC174JLjiBVFkV9pNcXAS) | 3:36 | 2022-06-10 | 2022-06-16 |
+| [You Never Can Tell](https://open.spotify.com/track/1GLMm7mMGNZznCUDr5JOkX) | [Elise LeGrow](https://open.spotify.com/artist/20biSVcaiwFyvcseOzYKo8) | [Playing Chess](https://open.spotify.com/album/2Ob030pqqBl9S3DZ6kddLU) | 3:05 | 2022-06-10 |  |
 | [You Never Can Tell](https://open.spotify.com/track/1JYLgZ1ScjqXbKjBD32hXz) | [Elise LeGrow](https://open.spotify.com/artist/20biSVcaiwFyvcseOzYKo8) | [You Never Can Tell](https://open.spotify.com/album/7LmSlhjBa1CvEaxkbZJ3oP) | 3:05 | 2021-10-20 | 2022-07-29 |
 | [You Really Got a Hold on Me](https://open.spotify.com/track/3U7fJ0VfFR1Msntjgd3DPB) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [Volume One](https://open.spotify.com/album/5FHgJlXkHfMP4vwK0hDN0i) | 3:59 | 2022-06-10 | 2022-07-14 |
 | [You Really Got A Hold On Me \- Remastered 2009](https://open.spotify.com/track/7rgUYidQh5tH0YlXCoKaYJ) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [With The Beatles \(Remastered\)](https://open.spotify.com/album/1aYdiJk6XKeHWGO3FzHHTr) | 3:01 | 2022-06-10 |  |

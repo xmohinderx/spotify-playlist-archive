@@ -1,12 +1,12 @@
 {
   "description": "The best soft rock from the 2000s. Cover: Lifehouse.",
-  "num_followers": 113329,
+  "num_followers": 113509,
   "original_name": "00s Soft Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDcyMDg2NiwwMDAwMDAwMDI3ZDdlOWY4ZmI2OGZjODBiOGU3NjcwZjVmNjU4OTY4",
+  "snapshot_id": "MTY1NDcyMDg2NiwwMDAwMDAwMDA5MThjMWVlNWVlYjMyZDY0Njg2ZTljNGJlZDhlM2Vh",
   "tracks": [
     {
       "added_at": "2021-03-23 14:07:08",
@@ -803,22 +803,6 @@
     {
       "added_at": "2021-03-23 14:07:08",
       "album": {
-        "name": "Disclaimer",
-        "url": "https://open.spotify.com/album/5u0UdiircjbveLg8cs39iw"
-      },
-      "artists": [
-        {
-          "name": "Seether",
-          "url": "https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW"
-        }
-      ],
-      "duration_ms": 257600,
-      "name": "Broken",
-      "url": "https://open.spotify.com/track/5nakPOknHu3XkeeHoVvhCd"
-    },
-    {
-      "added_at": "2021-03-23 14:07:08",
-      "album": {
         "name": "Eyes Open",
         "url": "https://open.spotify.com/album/3k7bXPw2u0C0SBKPMsgMS3"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 197133,
       "name": "Shut Your Eyes",
       "url": "https://open.spotify.com/track/36gFBZrhG5t6ow3NctrGXg"
+    },
+    {
+      "added_at": "2021-03-23 14:07:08",
+      "album": {
+        "name": "Disclaimer",
+        "url": "https://open.spotify.com/album/5u0UdiircjbveLg8cs39iw"
+      },
+      "artists": [
+        {
+          "name": "Seether",
+          "url": "https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW"
+        }
+      ],
+      "duration_ms": 257600,
+      "name": "Broken",
+      "url": "https://open.spotify.com/track/5nakPOknHu3XkeeHoVvhCd"
     },
     {
       "added_at": "2021-03-23 14:07:08",
@@ -899,26 +899,6 @@
     {
       "added_at": "2021-03-23 14:07:08",
       "album": {
-        "name": "Eyes Open",
-        "url": "https://open.spotify.com/album/3k7bXPw2u0C0SBKPMsgMS3"
-      },
-      "artists": [
-        {
-          "name": "Snow Patrol",
-          "url": "https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp"
-        },
-        {
-          "name": "Martha Wainwright",
-          "url": "https://open.spotify.com/artist/67pQ8Yr09zDDzzwWw3EG9R"
-        }
-      ],
-      "duration_ms": 203613,
-      "name": "Set The Fire To The Third Bar",
-      "url": "https://open.spotify.com/track/5g0afUZsh5hiXBOT3eXuwd"
-    },
-    {
-      "added_at": "2021-03-23 14:07:08",
-      "album": {
         "name": "Come Clean",
         "url": "https://open.spotify.com/album/4oWz3E9jTrBe9sVkiX2sJ5"
       },
@@ -967,6 +947,26 @@
       "duration_ms": 280017,
       "name": "All Of This",
       "url": "https://open.spotify.com/track/5kYhmkcnDalqUMxQxBcZkB"
+    },
+    {
+      "added_at": "2021-03-23 14:07:08",
+      "album": {
+        "name": "Eyes Open",
+        "url": "https://open.spotify.com/album/3k7bXPw2u0C0SBKPMsgMS3"
+      },
+      "artists": [
+        {
+          "name": "Snow Patrol",
+          "url": "https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp"
+        },
+        {
+          "name": "Martha Wainwright",
+          "url": "https://open.spotify.com/artist/67pQ8Yr09zDDzzwWw3EG9R"
+        }
+      ],
+      "duration_ms": 203613,
+      "name": "Set The Fire To The Third Bar",
+      "url": "https://open.spotify.com/track/5g0afUZsh5hiXBOT3eXuwd"
     },
     {
       "added_at": "2021-03-23 14:07:08",

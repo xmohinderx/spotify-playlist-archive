@@ -4,13 +4,13 @@
 
 > Bravías, románticas y rancheras, las mejores canciones norteñas\. Grupo Arriesgado en portada.
 
-154 songs - 8 hr 21 min - [published](https://open.spotify.com/playlist/4CWnohjaUvTAEcQVufM78y)
+155 songs - 8 hr 24 min - [published](https://open.spotify.com/playlist/4CWnohjaUvTAEcQVufM78y)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\#HASHTAG](https://open.spotify.com/track/4JnxfY3GQaU60zZVSm2qvD) | [Siggno](https://open.spotify.com/artist/6RTlv2UCWtRggV0rIo5TrN) | [\#Hashtag](https://open.spotify.com/album/3czqr5BWGHOE9SP9xkSl5V) | 3:51 | 2022-07-01 | 2022-07-29 |
 | [24 Siete \- Studio](https://open.spotify.com/track/2Tyf0QV9468mwVR70FIBHR) | [Duelo](https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq) | [24 Siete \(Studio\)](https://open.spotify.com/album/1rV6nUqCq85wuP9x5OJtfk) | 2:52 | 2022-09-02 |  |
-| [Agarra La Onda](https://open.spotify.com/track/74TXCLIJTGoVB9EuhW9nxD) | [El Predilecto](https://open.spotify.com/artist/41uIUL5E0w74f7sFzDKrcr) | [El Predilecto](https://open.spotify.com/album/0c5A0h5ZCKMHjKfSTmUINy) | 3:06 | 2022-08-05 |  |
+| [Agarra La Onda](https://open.spotify.com/track/74TXCLIJTGoVB9EuhW9nxD) | [El Predilecto](https://open.spotify.com/artist/41uIUL5E0w74f7sFzDKrcr) | [El Predilecto](https://open.spotify.com/album/0c5A0h5ZCKMHjKfSTmUINy) | 3:06 | 2022-08-05 | 2022-09-05 |
 | [Alaska](https://open.spotify.com/track/607ZGkxOxHJUVDEU3MZl86) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Alaska](https://open.spotify.com/album/6un8b7BMCwlYBFxbf3rSnZ) | 4:01 | 2022-08-19 |  |
 | [Algo Transitorio](https://open.spotify.com/track/6TCUTF64M04hp0SiPuGU0o) | [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh) | [Algo Transitorio](https://open.spotify.com/album/61FFtKEaelyA7BxOWg40yQ) | 3:55 | 2022-07-15 | 2022-08-30 |
 | [Amandote](https://open.spotify.com/track/1YloxcHYgx9UHpJGSY5dPx) | [Los Dorados](https://open.spotify.com/artist/5whwFeuDSOzWgGAUs8KTUI) | [Amandote](https://open.spotify.com/album/1WPvIsp1abq1FA6uMZR0M1) | 2:47 | 2022-08-05 |  |
@@ -161,6 +161,7 @@
 | [Un Suspiró](https://open.spotify.com/track/3nD8VUJphfkoxSjy4lmeP1) | [JR Torres](https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj) | [Un Suspiró](https://open.spotify.com/album/7oGGjyOs3rri9dCSpxJyxT) | 3:04 | 2021-12-17 |  |
 | [Vaivén](https://open.spotify.com/track/41bThbXGVhiFwHa5hX6jaD) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Vaivén](https://open.spotify.com/album/0wZC53nTNW23eTtTTX73Vo) | 3:12 | 2022-09-02 |  |
 | [Ya Es Muy Tarde](https://open.spotify.com/track/7wEu9ssXquiC6OKt1GNtnW) | [Cornelio Vega y su Dinastia](https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d) | [Ya Es Muy Tarde](https://open.spotify.com/album/6eB15NGmsCyvNKUPwtzO1Z) | 3:18 | 2022-07-01 | 2022-07-31 |
+| [Ya Me Entere \- En Vivo](https://open.spotify.com/track/4FjYDIaDlu3xf8JQrfgTBW) | [De Parranda](https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Ya Me Entere \(En Vivo\)](https://open.spotify.com/album/0P74VgufHFNWnZrrn9Xhpe) | 3:42 | 2022-09-02 |  |
 | [Yo Perdí](https://open.spotify.com/track/0QKr9qO91FbCUDaNsXkZ5T) | [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh) | [Yo Perdí](https://open.spotify.com/album/7qIFqS4tLfjag7YkyPwecJ) | 2:44 | 2022-08-29 |  |
 
 \*This playlist was first scraped on 2022-07-04. Prior content cannot be recovered.

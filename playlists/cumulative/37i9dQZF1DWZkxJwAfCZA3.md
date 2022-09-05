@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:6TshTCYwh9ySzOO6Jy4Ux2"> Maya Jane Coles</a>' favorite tracks\. Updated regularly\. Curated by Maya Jane Coles Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-91 songs - 7 hr 48 min - [published](https://open.spotify.com/playlist/0LmubJwhwYXatOoMu2UsGp)
+92 songs - 7 hr 53 min - [published](https://open.spotify.com/playlist/0LmubJwhwYXatOoMu2UsGp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,8 @@
 | [Sprkl](https://open.spotify.com/track/1J9bBev3iEioXxcmhviEzx) | [CAYAM](https://open.spotify.com/artist/2aysJuzHqgXqkPJDwwB6a1), [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2) | [Chaos in the Distance](https://open.spotify.com/album/2n9l0wW4X2UI1jWyipbkxF) | 5:40 | 2021-09-16 | 2022-07-30 |
 | [The Basics](https://open.spotify.com/track/7lUCUzwnOY0twtP8Nu8wyY) | [Ejeca](https://open.spotify.com/artist/0tSC9Vot7WlR1MsLBqQ9HX) | [Free From](https://open.spotify.com/album/77fs6DZ0Fy2LbsDuc9EpiP) | 3:12 | 2021-09-16 | 2022-07-30 |
 | [The Middle \- 1\-800 Girls Remix](https://open.spotify.com/track/4PMyz3dQMQlTSFhVPhmVma) | [Babsy](https://open.spotify.com/artist/3DN1VyaELsLlAd407zTZGJ), [1\-800 GIRLS](https://open.spotify.com/artist/67yGrC4QoCSD0g7YMcGIgJ) | [The Middle \(1\-800 GIRLS Remix\)](https://open.spotify.com/album/4B988U6Qmn45zb3YsUKoy2) | 6:03 | 2022-07-29 |  |
-| [Three King Fishers](https://open.spotify.com/track/6w3bIc0BxTPGNHqyH4KNiY) | [Gábor Szabó](https://open.spotify.com/artist/38CPjAAqYV8lTYi6clzbjG), [Jim Stewart](https://open.spotify.com/artist/1Gy2CxCb9Bvp6Wp0xQmSbq), [Hal Gordon](https://open.spotify.com/artist/08MG1w8piIBNcK7H4TTazQ), [Jimmy Keltner](https://open.spotify.com/artist/50appzhosvzQcqmeipXLtP), [Louis Kabok](https://open.spotify.com/artist/7ynQZmXaxvWuYmrHkVxs9u) | [Bacchanal](https://open.spotify.com/album/21c7ulNJzCSDIelgGBA1QF) | 4:48 | 2022-07-29 |  |
+| [Three King Fishers](https://open.spotify.com/track/3DwC6hoFyadRWrLcgZkzDQ) | [Gábor Szabó](https://open.spotify.com/artist/38CPjAAqYV8lTYi6clzbjG) | [Bacchanal](https://open.spotify.com/album/1jdyVUfQ7aXgQWTEhamyDS) | 4:43 | 2022-07-29 |  |
+| [Three King Fishers](https://open.spotify.com/track/6w3bIc0BxTPGNHqyH4KNiY) | [Gábor Szabó](https://open.spotify.com/artist/38CPjAAqYV8lTYi6clzbjG), [Jim Stewart](https://open.spotify.com/artist/1Gy2CxCb9Bvp6Wp0xQmSbq), [Hal Gordon](https://open.spotify.com/artist/08MG1w8piIBNcK7H4TTazQ), [Jimmy Keltner](https://open.spotify.com/artist/50appzhosvzQcqmeipXLtP), [Louis Kabok](https://open.spotify.com/artist/7ynQZmXaxvWuYmrHkVxs9u) | [Bacchanal](https://open.spotify.com/album/21c7ulNJzCSDIelgGBA1QF) | 4:48 | 2022-07-29 | 2022-09-05 |
 | [Trifecta](https://open.spotify.com/track/5CkcQNihN5J4lcDYAcbTPn) | [Otik](https://open.spotify.com/artist/6yvENIf7GmNwYnspB8UCpB) | [Trifecta](https://open.spotify.com/album/2icTuxL1jz7zgxUJKhnMKG) | 5:38 | 2021-09-16 | 2022-07-30 |
 | [Trying to Float](https://open.spotify.com/track/3AyAOA5O6PUwNYC3Oy4UdC) | [Night Lovell](https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO) | [Just Say You Don't Care](https://open.spotify.com/album/4nPKWikt1QDHHTfYhno0ze) | 2:15 | 2022-07-29 |  |
 | [Tutorial on How to Smile](https://open.spotify.com/track/4WbUVKz3MBqwRhRTAM27Op) | [Jaxxon D\. Silva](https://open.spotify.com/artist/2xyB69da0CCHYgs9WUgFr1), [GRXGVR](https://open.spotify.com/artist/0Uxe5OQyuew2Mhb6hF76Bk), [DJ HAYDN](https://open.spotify.com/artist/4XC4oNp1V0YjK1Z4ryzaf2) | [Tutorial on How to Smile](https://open.spotify.com/album/3zUg1kaK4M3Kau8tSUU1G8) | 3:08 | 2022-07-29 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Instrumental bliss beyond genre classification.",
-  "num_followers": 446810,
+  "num_followers": 446100,
   "original_name": "Genre Glitch",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTkxNjcxOSwwMDAwMDAwMGVjMjlkNmE4NmJkN2JjZTQ0Zjg5ZWE0ZTU1YWM4ZDky",
+  "snapshot_id": "MTY2MTkxNjcxOSwwMDAwMDAwMDdjN2IyZGNhYjgwYTQ0ODJlMmU3OGI1YTVhNzhjNDRi",
   "tracks": [
     {
       "added_at": "2022-08-11 19:36:53",
@@ -401,22 +401,6 @@
       "url": "https://open.spotify.com/track/57Vf7VMA5QSahRghyzywIa"
     },
     {
-      "added_at": "2022-02-25 03:39:39",
-      "album": {
-        "name": "Exotic Contents / Pulse at the Centre of Being",
-        "url": "https://open.spotify.com/album/0I0azaQfHlf1JEIJuwHF5a"
-      },
-      "artists": [
-        {
-          "name": "Max Cooper",
-          "url": "https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J"
-        }
-      ],
-      "duration_ms": 346588,
-      "name": "Exotic Contents",
-      "url": "https://open.spotify.com/track/6svlauimgL7pyT2IciIE6P"
-    },
-    {
       "added_at": "2021-10-15 03:56:52",
       "album": {
         "name": "Transactional Relationship",
@@ -431,6 +415,22 @@
       "duration_ms": 193535,
       "name": "Transactional Relationship",
       "url": "https://open.spotify.com/track/17YSGfgY3BizhPL8QDF1gg"
+    },
+    {
+      "added_at": "2022-02-25 03:39:39",
+      "album": {
+        "name": "Exotic Contents / Pulse at the Centre of Being",
+        "url": "https://open.spotify.com/album/0I0azaQfHlf1JEIJuwHF5a"
+      },
+      "artists": [
+        {
+          "name": "Max Cooper",
+          "url": "https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J"
+        }
+      ],
+      "duration_ms": 346588,
+      "name": "Exotic Contents",
+      "url": "https://open.spotify.com/track/6svlauimgL7pyT2IciIE6P"
     },
     {
       "added_at": "2022-07-15 18:13:54",
@@ -769,6 +769,22 @@
       "url": "https://open.spotify.com/track/0HINRRVAivEq7IdZuqHf8f"
     },
     {
+      "added_at": "2022-08-13 02:30:00",
+      "album": {
+        "name": "Tapestry",
+        "url": "https://open.spotify.com/album/2M3uW6aDFhw8vEOxUZlC84"
+      },
+      "artists": [
+        {
+          "name": "Dainty",
+          "url": "https://open.spotify.com/artist/7qz5GofoKgs2V3bSP5quAr"
+        }
+      ],
+      "duration_ms": 222620,
+      "name": "Tapestry - Edit",
+      "url": "https://open.spotify.com/track/7zFeaYojjxdXbP3CjLHlQn"
+    },
+    {
       "added_at": "2022-03-18 05:02:00",
       "album": {
         "name": "Trusted EP",
@@ -799,22 +815,6 @@
       "duration_ms": 436052,
       "name": "Head Above The Parakeets",
       "url": "https://open.spotify.com/track/1F7wFVvXwazyZdy4jq3Bj8"
-    },
-    {
-      "added_at": "2022-08-13 02:30:00",
-      "album": {
-        "name": "Tapestry",
-        "url": "https://open.spotify.com/album/2M3uW6aDFhw8vEOxUZlC84"
-      },
-      "artists": [
-        {
-          "name": "Dainty",
-          "url": "https://open.spotify.com/artist/7qz5GofoKgs2V3bSP5quAr"
-        }
-      ],
-      "duration_ms": 222620,
-      "name": "Tapestry - Edit",
-      "url": "https://open.spotify.com/track/7zFeaYojjxdXbP3CjLHlQn"
     },
     {
       "added_at": "2022-07-15 18:13:54",

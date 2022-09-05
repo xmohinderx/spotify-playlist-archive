@@ -1,12 +1,12 @@
 {
   "description": "Descubre hoy a los artistas de ma\u00f1ana. Foto: Judeline",
-  "num_followers": 19408,
+  "num_followers": 19406,
   "original_name": "Radar Espa\u00f1a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA0ODIxNiwwMDAwMDAwMDE4ZGYzZjBiOTY4Nzg4MmU5MjM1ODFkYTg1NGVlOTFi",
+  "snapshot_id": "MTY1OTA0ODIxNiwwMDAwMDAwMDFiM2RlM2YwMDBiN2M0ZmNjZTk2ZTlmZmEzYzZlZmZm",
   "tracks": [
     {
       "added_at": "2022-07-28 22:43:36",
@@ -63,6 +63,22 @@
     {
       "added_at": "2022-07-28 22:43:36",
       "album": {
+        "name": "Cinderella",
+        "url": "https://open.spotify.com/album/6ckqiQSyFDaf9bbvN5hPOa"
+      },
+      "artists": [
+        {
+          "name": "Cyril Kamer",
+          "url": "https://open.spotify.com/artist/3J1MhhyXLJRNRZVrx11Lbf"
+        }
+      ],
+      "duration_ms": 193124,
+      "name": "Cinderella",
+      "url": "https://open.spotify.com/track/5R7l05dglCrUX0qjZ1Eec1"
+    },
+    {
+      "added_at": "2022-07-28 22:43:36",
+      "album": {
         "name": "Chamaquita",
         "url": "https://open.spotify.com/album/1WuBqKxkSxFeAgnYaQd8We"
       },
@@ -79,22 +95,6 @@
       "duration_ms": 170699,
       "name": "Chamaquita",
       "url": "https://open.spotify.com/track/667CH2wRxXnQOfPD1NrlLJ"
-    },
-    {
-      "added_at": "2022-07-28 22:43:36",
-      "album": {
-        "name": "Cinderella",
-        "url": "https://open.spotify.com/album/6ckqiQSyFDaf9bbvN5hPOa"
-      },
-      "artists": [
-        {
-          "name": "Cyril Kamer",
-          "url": "https://open.spotify.com/artist/3J1MhhyXLJRNRZVrx11Lbf"
-        }
-      ],
-      "duration_ms": 193124,
-      "name": "Cinderella",
-      "url": "https://open.spotify.com/track/5R7l05dglCrUX0qjZ1Eec1"
     },
     {
       "added_at": "2022-07-28 22:43:36",
@@ -147,6 +147,22 @@
       "duration_ms": 164285,
       "name": "Ego",
       "url": "https://open.spotify.com/track/63Tbdp0N66oYehT5YNhjDP"
+    },
+    {
+      "added_at": "2022-07-28 22:43:36",
+      "album": {
+        "name": "Angelina",
+        "url": "https://open.spotify.com/album/44JFYpj25UIPlZ7Ez0U3rX"
+      },
+      "artists": [
+        {
+          "name": "Cyril Kamer",
+          "url": "https://open.spotify.com/artist/3J1MhhyXLJRNRZVrx11Lbf"
+        }
+      ],
+      "duration_ms": 166213,
+      "name": "Angelina",
+      "url": "https://open.spotify.com/track/6FveHRXs0gcTE9GzFjnq6R"
     },
     {
       "added_at": "2022-07-28 22:43:36",
@@ -223,22 +239,6 @@
     {
       "added_at": "2022-07-28 22:43:36",
       "album": {
-        "name": "Angelina",
-        "url": "https://open.spotify.com/album/44JFYpj25UIPlZ7Ez0U3rX"
-      },
-      "artists": [
-        {
-          "name": "Cyril Kamer",
-          "url": "https://open.spotify.com/artist/3J1MhhyXLJRNRZVrx11Lbf"
-        }
-      ],
-      "duration_ms": 166213,
-      "name": "Angelina",
-      "url": "https://open.spotify.com/track/6FveHRXs0gcTE9GzFjnq6R"
-    },
-    {
-      "added_at": "2022-07-28 22:43:36",
-      "album": {
         "name": "cuando anochece",
         "url": "https://open.spotify.com/album/5UZve9ov6A3UcmR8IdgxIH"
       },
@@ -271,6 +271,22 @@
       "duration_ms": 134117,
       "name": "Por Encima Del Dinero",
       "url": "https://open.spotify.com/track/3yaO2ownmk75ykFH6wOPMc"
+    },
+    {
+      "added_at": "2022-07-28 22:43:36",
+      "album": {
+        "name": "Alex Turner",
+        "url": "https://open.spotify.com/album/08tPbq1A0YvnoHbbIrKs4j"
+      },
+      "artists": [
+        {
+          "name": "Ginebras",
+          "url": "https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva"
+        }
+      ],
+      "duration_ms": 159773,
+      "name": "Alex Turner",
+      "url": "https://open.spotify.com/track/7JL9bfCKDRmfrQqZbB6X0x"
     },
     {
       "added_at": "2022-07-28 22:43:36",
@@ -327,22 +343,6 @@
     {
       "added_at": "2022-07-28 22:43:36",
       "album": {
-        "name": "Alex Turner",
-        "url": "https://open.spotify.com/album/08tPbq1A0YvnoHbbIrKs4j"
-      },
-      "artists": [
-        {
-          "name": "Ginebras",
-          "url": "https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva"
-        }
-      ],
-      "duration_ms": 159773,
-      "name": "Alex Turner",
-      "url": "https://open.spotify.com/track/7JL9bfCKDRmfrQqZbB6X0x"
-    },
-    {
-      "added_at": "2022-07-28 22:43:36",
-      "album": {
         "name": "No Llores (feat. Alice Wonder)",
         "url": "https://open.spotify.com/album/2NlrMp7I85XX6HdkFJmJBM"
       },
@@ -359,22 +359,6 @@
       "duration_ms": 218119,
       "name": "No Llores (feat. Alice Wonder)",
       "url": "https://open.spotify.com/track/78LUKLAVTjqQEf7f6b0PXg"
-    },
-    {
-      "added_at": "2022-07-28 22:43:36",
-      "album": {
-        "name": "Lo Que No Te Cuentan",
-        "url": "https://open.spotify.com/album/7IxhNoNw5mq24KbJ6VgrYz"
-      },
-      "artists": [
-        {
-          "name": "Samura\u00ef",
-          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
-        }
-      ],
-      "duration_ms": 141800,
-      "name": "C\u00f3mo Me Voy A Olvidar",
-      "url": "https://open.spotify.com/track/1ZH9wiMYy0OG6uclWuQz5l"
     },
     {
       "added_at": "2022-07-28 22:43:36",
@@ -399,22 +383,18 @@
     {
       "added_at": "2022-07-28 22:43:36",
       "album": {
-        "name": "A Contraluz",
-        "url": "https://open.spotify.com/album/5VlLEWKCcPDWAJecwDeZE9"
+        "name": "Lo Que No Te Cuentan",
+        "url": "https://open.spotify.com/album/7IxhNoNw5mq24KbJ6VgrYz"
       },
       "artists": [
         {
-          "name": "Marmi",
-          "url": "https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx"
-        },
-        {
-          "name": "Delgao",
-          "url": "https://open.spotify.com/artist/2V10Oq2sAheIVDSeW9QyFN"
+          "name": "Samura\u00ef",
+          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
         }
       ],
-      "duration_ms": 187130,
-      "name": "A Contraluz",
-      "url": "https://open.spotify.com/track/5go70LzuMiSpKWlLn1SzVj"
+      "duration_ms": 141800,
+      "name": "C\u00f3mo Me Voy A Olvidar",
+      "url": "https://open.spotify.com/track/1ZH9wiMYy0OG6uclWuQz5l"
     },
     {
       "added_at": "2022-07-28 22:43:36",
@@ -431,6 +411,26 @@
       "duration_ms": 125390,
       "name": "Piedad",
       "url": "https://open.spotify.com/track/55Q8EMukWtblmlmU1Pdnrb"
+    },
+    {
+      "added_at": "2022-07-28 22:43:36",
+      "album": {
+        "name": "A Contraluz",
+        "url": "https://open.spotify.com/album/5VlLEWKCcPDWAJecwDeZE9"
+      },
+      "artists": [
+        {
+          "name": "Marmi",
+          "url": "https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx"
+        },
+        {
+          "name": "Delgao",
+          "url": "https://open.spotify.com/artist/2V10Oq2sAheIVDSeW9QyFN"
+        }
+      ],
+      "duration_ms": 187130,
+      "name": "A Contraluz",
+      "url": "https://open.spotify.com/track/5go70LzuMiSpKWlLn1SzVj"
     },
     {
       "added_at": "2022-07-28 22:43:36",
@@ -499,26 +499,18 @@
     {
       "added_at": "2022-07-28 22:43:36",
       "album": {
-        "name": "Lombard\u00eda 22",
-        "url": "https://open.spotify.com/album/7qjzwofzO07Q4bFOlP8dfi"
+        "name": "AMARILLO MI CORAZ\u00d3N",
+        "url": "https://open.spotify.com/album/2PJLX9PXiQ7hG3nILSDlXu"
       },
       "artists": [
         {
-          "name": "Yarea",
-          "url": "https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl"
-        },
-        {
-          "name": "Sebasti\u00e1n Cort\u00e9s",
-          "url": "https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9"
-        },
-        {
-          "name": "KICKBOMBO",
-          "url": "https://open.spotify.com/artist/7A2htSu45kogVfNBMD4Xgh"
+          "name": "SIMONA",
+          "url": "https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT"
         }
       ],
-      "duration_ms": 179984,
-      "name": "Inercia",
-      "url": "https://open.spotify.com/track/7ymbUvGWcBe2iCRapBipKj"
+      "duration_ms": 186964,
+      "name": "AMARILLO MI CORAZ\u00d3N",
+      "url": "https://open.spotify.com/track/0P2yIpAaEyOjxMfH4CrYyB"
     },
     {
       "added_at": "2022-07-28 22:43:36",
@@ -539,18 +531,26 @@
     {
       "added_at": "2022-07-28 22:43:36",
       "album": {
-        "name": "AMARILLO MI CORAZ\u00d3N",
-        "url": "https://open.spotify.com/album/2PJLX9PXiQ7hG3nILSDlXu"
+        "name": "Lombard\u00eda 22",
+        "url": "https://open.spotify.com/album/7qjzwofzO07Q4bFOlP8dfi"
       },
       "artists": [
         {
-          "name": "SIMONA",
-          "url": "https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT"
+          "name": "Yarea",
+          "url": "https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl"
+        },
+        {
+          "name": "Sebasti\u00e1n Cort\u00e9s",
+          "url": "https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9"
+        },
+        {
+          "name": "KICKBOMBO",
+          "url": "https://open.spotify.com/artist/7A2htSu45kogVfNBMD4Xgh"
         }
       ],
-      "duration_ms": 186964,
-      "name": "AMARILLO MI CORAZ\u00d3N",
-      "url": "https://open.spotify.com/track/0P2yIpAaEyOjxMfH4CrYyB"
+      "duration_ms": 179984,
+      "name": "Inercia",
+      "url": "https://open.spotify.com/track/7ymbUvGWcBe2iCRapBipKj"
     },
     {
       "added_at": "2022-07-28 22:43:36",
@@ -623,38 +623,6 @@
     {
       "added_at": "2022-07-28 22:43:36",
       "album": {
-        "name": "canci\u00f3n de amor",
-        "url": "https://open.spotify.com/album/4Gv5KVGBNzwMikrM6bOLBV"
-      },
-      "artists": [
-        {
-          "name": "daniel sabater",
-          "url": "https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN"
-        }
-      ],
-      "duration_ms": 177002,
-      "name": "canci\u00f3n de amor",
-      "url": "https://open.spotify.com/track/16ZMVvoC20S1ehGOOxYxkg"
-    },
-    {
-      "added_at": "2022-07-28 22:43:36",
-      "album": {
-        "name": "100tas / Nunca",
-        "url": "https://open.spotify.com/album/6sudcxwz43CeEYXrmBvlys"
-      },
-      "artists": [
-        {
-          "name": "Ganges",
-          "url": "https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q"
-        }
-      ],
-      "duration_ms": 192136,
-      "name": "Nunca",
-      "url": "https://open.spotify.com/track/5GX4SBazl8LN2evBukEbQt"
-    },
-    {
-      "added_at": "2022-07-28 22:43:36",
-      "album": {
         "name": "a partes",
         "url": "https://open.spotify.com/album/0wNq0PfOh28Ye1VvygIrBP"
       },
@@ -675,6 +643,38 @@
     {
       "added_at": "2022-07-28 22:43:36",
       "album": {
+        "name": "100tas / Nunca",
+        "url": "https://open.spotify.com/album/6sudcxwz43CeEYXrmBvlys"
+      },
+      "artists": [
+        {
+          "name": "Ganges",
+          "url": "https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q"
+        }
+      ],
+      "duration_ms": 192136,
+      "name": "Nunca",
+      "url": "https://open.spotify.com/track/5GX4SBazl8LN2evBukEbQt"
+    },
+    {
+      "added_at": "2022-07-28 22:43:36",
+      "album": {
+        "name": "canci\u00f3n de amor",
+        "url": "https://open.spotify.com/album/4Gv5KVGBNzwMikrM6bOLBV"
+      },
+      "artists": [
+        {
+          "name": "daniel sabater",
+          "url": "https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN"
+        }
+      ],
+      "duration_ms": 177002,
+      "name": "canci\u00f3n de amor",
+      "url": "https://open.spotify.com/track/16ZMVvoC20S1ehGOOxYxkg"
+    },
+    {
+      "added_at": "2022-07-28 22:43:36",
+      "album": {
         "name": "De Cero",
         "url": "https://open.spotify.com/album/2wWpHMRFRLT2pYTqL8wcoJ"
       },
@@ -691,6 +691,22 @@
     {
       "added_at": "2022-07-28 22:43:36",
       "album": {
+        "name": "Sol de Ayer",
+        "url": "https://open.spotify.com/album/4vJaartlG3Oor3hWN425eA"
+      },
+      "artists": [
+        {
+          "name": "Adi\u00f3s Amores",
+          "url": "https://open.spotify.com/artist/6so3HRQveYWGixSBgKfBxT"
+        }
+      ],
+      "duration_ms": 190484,
+      "name": "Sol de Ayer",
+      "url": "https://open.spotify.com/track/7JuH6cT4H9Go3hvdGY4BbG"
+    },
+    {
+      "added_at": "2022-07-28 22:43:36",
+      "album": {
         "name": "Moncler",
         "url": "https://open.spotify.com/album/10vp9TVLfS1ByCx0atI6x9"
       },
@@ -703,6 +719,26 @@
       "duration_ms": 186156,
       "name": "Moncler",
       "url": "https://open.spotify.com/track/3xe0zQi4tsynmXmwCLpbX1"
+    },
+    {
+      "added_at": "2022-07-28 22:43:36",
+      "album": {
+        "name": "Quiero Bailar",
+        "url": "https://open.spotify.com/album/0xCzUa3TOjjWy8aQRNoW8g"
+      },
+      "artists": [
+        {
+          "name": "Elena Torres",
+          "url": "https://open.spotify.com/artist/6qM5MgFldgcKatSFYmB5cV"
+        },
+        {
+          "name": "MPV",
+          "url": "https://open.spotify.com/artist/6B8oVZFbsDWVnWLPnxUFf0"
+        }
+      ],
+      "duration_ms": 172384,
+      "name": "Quiero Bailar",
+      "url": "https://open.spotify.com/track/1590e2UlpOTir9oYiKR3oY"
     },
     {
       "added_at": "2022-07-28 22:43:36",
@@ -727,22 +763,6 @@
     {
       "added_at": "2022-07-28 22:43:36",
       "album": {
-        "name": "Sol de Ayer",
-        "url": "https://open.spotify.com/album/4vJaartlG3Oor3hWN425eA"
-      },
-      "artists": [
-        {
-          "name": "Adi\u00f3s Amores",
-          "url": "https://open.spotify.com/artist/6so3HRQveYWGixSBgKfBxT"
-        }
-      ],
-      "duration_ms": 190484,
-      "name": "Sol de Ayer",
-      "url": "https://open.spotify.com/track/7JuH6cT4H9Go3hvdGY4BbG"
-    },
-    {
-      "added_at": "2022-07-28 22:43:36",
-      "album": {
         "name": "DESPREVEN\u00cdA",
         "url": "https://open.spotify.com/album/7f9kgKkBa5RnRtUWLts4EL"
       },
@@ -759,26 +779,6 @@
       "duration_ms": 171206,
       "name": "DESPREVEN\u00cdA",
       "url": "https://open.spotify.com/track/117jw2atHZ6kEseFXT627b"
-    },
-    {
-      "added_at": "2022-07-28 22:43:36",
-      "album": {
-        "name": "Quiero Bailar",
-        "url": "https://open.spotify.com/album/0xCzUa3TOjjWy8aQRNoW8g"
-      },
-      "artists": [
-        {
-          "name": "Elena Torres",
-          "url": "https://open.spotify.com/artist/6qM5MgFldgcKatSFYmB5cV"
-        },
-        {
-          "name": "MPV",
-          "url": "https://open.spotify.com/artist/6B8oVZFbsDWVnWLPnxUFf0"
-        }
-      ],
-      "duration_ms": 172384,
-      "name": "Quiero Bailar",
-      "url": "https://open.spotify.com/track/1590e2UlpOTir9oYiKR3oY"
     },
     {
       "added_at": "2022-07-28 22:43:36",

@@ -1,12 +1,12 @@
 {
   "description": "The soundtrack to the internet. Cover: JELEEL!",
-  "num_followers": 1226796,
+  "num_followers": 1227437,
   "original_name": "Internet People",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjEwOTgwMCwwMDAwMDAwMGQxNjRhOWVmMWE4ODNjZmNmNjEzNjAyOTAxNWVmNGFj",
+  "snapshot_id": "MTY2MjMwNjU1NywwMDAwMDAwMGM2MmQzNjE1NTRjMjAzMmJjMjg0YjcwNmU0NGVjNGNk",
   "tracks": [
     {
       "added_at": "2022-09-02 09:10:00",
@@ -263,6 +263,26 @@
       "duration_ms": 200650,
       "name": "Love Island Freestyle",
       "url": "https://open.spotify.com/track/1rlVac9TRr4f3b7GKHdhRh"
+    },
+    {
+      "added_at": "2022-09-04 15:49:17",
+      "album": {
+        "name": "swaggin like this",
+        "url": "https://open.spotify.com/album/5MhEmwnxLoMYYvIbNJFscF"
+      },
+      "artists": [
+        {
+          "name": "tana",
+          "url": "https://open.spotify.com/artist/1xgl9yxqIVq8PEEMai38uV"
+        },
+        {
+          "name": "Lancey Foux",
+          "url": "https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11"
+        }
+      ],
+      "duration_ms": 144214,
+      "name": "swaggin like this (with Lancey Foux)",
+      "url": "https://open.spotify.com/track/74nrICPHBFsUZbUDsuAU7e"
     },
     {
       "added_at": "2022-07-01 09:18:00",
@@ -687,22 +707,6 @@
       "duration_ms": 142716,
       "name": "just cant",
       "url": "https://open.spotify.com/track/4DCSx7XCBxYWuc71WL02j2"
-    },
-    {
-      "added_at": "2022-06-17 17:10:01",
-      "album": {
-        "name": "DIVE IN! (SPED UP! / SLOWED REVERB!)",
-        "url": "https://open.spotify.com/album/4IGyRFgzpVUXtcFdhUGiLP"
-      },
-      "artists": [
-        {
-          "name": "JELEEL!",
-          "url": "https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d"
-        }
-      ],
-      "duration_ms": 100500,
-      "name": "DIVE IN!",
-      "url": "https://open.spotify.com/track/192DMwgDbgS8ghTKc0ACWq"
     },
     {
       "added_at": "2022-06-17 17:10:01",

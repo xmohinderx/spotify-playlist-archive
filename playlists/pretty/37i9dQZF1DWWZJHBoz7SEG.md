@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > ¡Arctic Monkeys, Ha\*Ash y KeniaOS; Kali Uchis, Romeo Santos y Rosalía; y más!
 
-[Spotify](https://open.spotify.com/user/spotify) - 715,347 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 715,403 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The hottest hits in Japan right now. \u65e5\u672c\u306e\u30dd\u30c3\u30d7\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u6700\u65b0\u30d9\u30b9\u30c850\u3002\u6bce\u9031\u6708\u66dc\u65e5\u66f4\u65b0\u3002Cover: yama",
+  "description": "The hottest hits in Japan right now. \u65e5\u672c\u306e\u30dd\u30c3\u30d7\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u6700\u65b0\u30d9\u30b9\u30c850\u3002\u6bce\u9031\u6708\u66dc\u65e5\u66f4\u65b0\u3002Cover: imase",
   "name": "Tokyo Super Hits!",
   "published_playlist_ids": [
     "2sQ5Fh8iNKxcYtrG1CztwE"
@@ -392,6 +392,36 @@
     },
     {
       "album": {
+        "name": "Bitter Sweet (feat. Rinne)",
+        "url": "https://open.spotify.com/album/1pi5YLWY2XNmPzGe4sAfJ9"
+      },
+      "artists": [
+        {
+          "name": "NARROWORLD",
+          "url": "https://open.spotify.com/artist/1lDEJxLjWAXtKDr7nFCJxW"
+        },
+        {
+          "name": "maeshima soshi",
+          "url": "https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf"
+        },
+        {
+          "name": "OHTORA",
+          "url": "https://open.spotify.com/artist/16W2CFdMJKvN99ZWwoEB0k"
+        },
+        {
+          "name": "Rinne",
+          "url": "https://open.spotify.com/artist/4ETsbj1XzA5v886JMNDgdA"
+        }
+      ],
+      "date_added": "2022-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Bitter Sweet (feat. Rinne)",
+      "url": "https://open.spotify.com/track/7nLukfUB2GuyrJA5tsTXui"
+    },
+    {
+      "album": {
         "name": "BITTER!",
         "url": "https://open.spotify.com/album/2yxSGQpEACIqYfmgf1TwGM"
       },
@@ -501,7 +531,7 @@
       ],
       "date_added": "2022-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-05",
       "duration_ms": 221778,
       "name": "Bye Bye",
       "url": "https://open.spotify.com/track/3hPTqw8pMF7SQpxaWngBOM"
@@ -1223,7 +1253,7 @@
       ],
       "date_added": "2022-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-05",
       "duration_ms": 254233,
       "name": "Free Free Free",
       "url": "https://open.spotify.com/track/0cGlG9r39bvpKz9VU8IQao"
@@ -2187,7 +2217,7 @@
       ],
       "date_added": "2022-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-05",
       "duration_ms": 205400,
       "name": "MEMORIES",
       "url": "https://open.spotify.com/track/3NfKXjvzsP17Tra55CffOO"
@@ -3417,7 +3447,7 @@
       ],
       "date_added": "2022-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-05",
       "duration_ms": 233920,
       "name": "Sweet Escape (feat. \u3072\u304b\u308a)",
       "url": "https://open.spotify.com/track/6Whj4AAx1Y2xSCJhpRvTpt"
@@ -3565,6 +3595,24 @@
       "duration_ms": 188213,
       "name": "Tippy Toes",
       "url": "https://open.spotify.com/track/1MKmSbQfJpEVnC3XfGywyF"
+    },
+    {
+      "album": {
+        "name": "TOKYO 4AM",
+        "url": "https://open.spotify.com/album/0mpL0xIydKRXWdL1UcDh0X"
+      },
+      "artists": [
+        {
+          "name": "CHANMINA",
+          "url": "https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX"
+        }
+      ],
+      "date_added": "2022-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201295,
+      "name": "TOKYO 4AM",
+      "url": "https://open.spotify.com/track/3lbZM8EtM1dnZDunARwI1N"
     },
     {
       "album": {
@@ -4487,7 +4535,7 @@
       ],
       "date_added": "2022-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-05",
       "duration_ms": 255444,
       "name": "\u305d\u306e\u307e\u307e\u306e\u51b7\u305f\u3055\u3067",
       "url": "https://open.spotify.com/track/7Ax2Yq6Bu8kmj2CxhEpUY6"
@@ -4639,6 +4687,24 @@
       "duration_ms": 219252,
       "name": "\u306a\u3093\u3067\u3082\u306a\u3044\u3088\u3001",
       "url": "https://open.spotify.com/track/5W7Y92LB4jWvu9NeEQ0GZl"
+    },
+    {
+      "album": {
+        "name": "\u306a\u3093\u3068\u306a\u304f\u3002",
+        "url": "https://open.spotify.com/album/6wmxYxhAHvyk8quHsrrgHT"
+      },
+      "artists": [
+        {
+          "name": "SHISHAMO",
+          "url": "https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv"
+        }
+      ],
+      "date_added": "2022-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278662,
+      "name": "\u306a\u3093\u3068\u306a\u304f\u3002",
+      "url": "https://open.spotify.com/track/685E7VfekdXLLM2KB6zpav"
     },
     {
       "album": {
@@ -5401,6 +5467,24 @@
       "duration_ms": 175627,
       "name": "\u30c0\u30fc\u30af\u30eb\u30fc\u30e0",
       "url": "https://open.spotify.com/track/7sm1J9BbrNaOaTaF9I5f7B"
+    },
+    {
+      "album": {
+        "name": "\u30c1\u30ce\u30ab\u30c6",
+        "url": "https://open.spotify.com/album/1ItS3Da6sbCmwwTgkBHttk"
+      },
+      "artists": [
+        {
+          "name": "\u30e8\u30eb\u30b7\u30ab",
+          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
+        }
+      ],
+      "date_added": "2022-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248300,
+      "name": "\u30c1\u30ce\u30ab\u30c6",
+      "url": "https://open.spotify.com/track/7w1taFiEu8GGQJkzQaEWpx"
     },
     {
       "album": {
@@ -6725,7 +6809,7 @@
       ],
       "date_added": "2022-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-05",
       "duration_ms": 267103,
       "name": "\u5de6\u53f3\u76f2",
       "url": "https://open.spotify.com/track/797EOD68bmVFiyalgBGeOZ"
@@ -6873,6 +6957,24 @@
       "duration_ms": 255914,
       "name": "\u604b\u98a8\u90aa\u306b\u306e\u305b\u3066",
       "url": "https://open.spotify.com/track/5PeXak0Ox3JmH2oor0qnGt"
+    },
+    {
+      "album": {
+        "name": "\u60aa\u5922\u306e\u304a\u307e\u3051",
+        "url": "https://open.spotify.com/album/5SyIz0npsM6F0F9p9oZjfC"
+      },
+      "artists": [
+        {
+          "name": "Gesu No Kiwami Otome",
+          "url": "https://open.spotify.com/artist/1ieluXFoq2RRxMXZIQksTz"
+        }
+      ],
+      "date_added": "2022-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171308,
+      "name": "\u60aa\u5922\u306e\u304a\u307e\u3051",
+      "url": "https://open.spotify.com/track/4KUOAHvaaehs8yHdA3t6Vp"
     },
     {
       "album": {
@@ -7727,6 +7829,24 @@
       "duration_ms": 236666,
       "name": "\u7d2b\u967d\u82b1",
       "url": "https://open.spotify.com/track/3dPVqEzUiJ6yXs573CHeWv"
+    },
+    {
+      "album": {
+        "name": "\u7d9a\u30fbHave a nice days club",
+        "url": "https://open.spotify.com/album/1IJHHM0teaej1YL2awJN3H"
+      },
+      "artists": [
+        {
+          "name": "Tempalay",
+          "url": "https://open.spotify.com/artist/5IlQkA8Lq4X0dOWHBumeJP"
+        }
+      ],
+      "date_added": "2022-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288809,
+      "name": "\u7d9a\u30fbHave a nice days club",
+      "url": "https://open.spotify.com/track/2RA7VH4vZaG0A7PJ07JwkR"
     },
     {
       "album": {

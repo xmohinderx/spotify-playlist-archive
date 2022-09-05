@@ -1,12 +1,12 @@
 {
   "description": "Find what's fresh & buzzing in Christian & Gospel music right here!  Cover:  We The Kingdom",
-  "num_followers": 81799,
+  "num_followers": 81818,
   "original_name": "Sing A New Song",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzY3NDg2NCwwMDAwMDAwMDM3NTk1NjhlZmNjMmIzM2E2ZTFmMzE2ZWU4NDY2YWY1",
+  "snapshot_id": "MTY1MzY3NDg2NCwwMDAwMDAwMDRiNjkzZDBhZTQyMzRhMzRmNjYzYTcwMjEzMWNhM2Q4",
   "tracks": [
     {
       "added_at": "2022-05-27 18:07:44",
@@ -287,22 +287,6 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
-        "name": "Plans",
-        "url": "https://open.spotify.com/album/5p3ZxGjxM3xnGi8gzHLU6f"
-      },
-      "artists": [
-        {
-          "name": "Rend Collective",
-          "url": "https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ"
-        }
-      ],
-      "duration_ms": 222985,
-      "name": "Plans",
-      "url": "https://open.spotify.com/track/7ylUm6UwDblnxBNFq1E0nh"
-    },
-    {
-      "added_at": "2022-05-27 18:07:44",
-      "album": {
         "name": "Anyway",
         "url": "https://open.spotify.com/album/5X2SncUK145UKSjcTvGWKW"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 313933,
       "name": "Anyway",
       "url": "https://open.spotify.com/track/5uz2zHutuRY8Rz8DEBsw6j"
+    },
+    {
+      "added_at": "2022-05-27 18:07:44",
+      "album": {
+        "name": "Plans",
+        "url": "https://open.spotify.com/album/5p3ZxGjxM3xnGi8gzHLU6f"
+      },
+      "artists": [
+        {
+          "name": "Rend Collective",
+          "url": "https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ"
+        }
+      ],
+      "duration_ms": 222985,
+      "name": "Plans",
+      "url": "https://open.spotify.com/track/7ylUm6UwDblnxBNFq1E0nh"
     },
     {
       "added_at": "2022-05-27 18:07:44",
@@ -335,18 +335,22 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
-        "name": "JOY",
-        "url": "https://open.spotify.com/album/3Sxk9JuUc26FMBhyi4L94K"
+        "name": "Perfectly Loved",
+        "url": "https://open.spotify.com/album/3hSPfcqoL3BUTEKZjonyZh"
       },
       "artists": [
         {
-          "name": "Kings Kaleidoscope",
-          "url": "https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A"
+          "name": "Rachael Lampa",
+          "url": "https://open.spotify.com/artist/0rAp8I6gq67AJEmzWEJ1ri"
+        },
+        {
+          "name": "TobyMac",
+          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
         }
       ],
-      "duration_ms": 256600,
-      "name": "JOY",
-      "url": "https://open.spotify.com/track/6UCBG8W5KLIYwcGrzDygoe"
+      "duration_ms": 203683,
+      "name": "Perfectly Loved",
+      "url": "https://open.spotify.com/track/6YNdJX3lhmo0u8j293HaAM"
     },
     {
       "added_at": "2022-05-27 18:07:44",
@@ -367,22 +371,18 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
-        "name": "Perfectly Loved",
-        "url": "https://open.spotify.com/album/3hSPfcqoL3BUTEKZjonyZh"
+        "name": "JOY",
+        "url": "https://open.spotify.com/album/3Sxk9JuUc26FMBhyi4L94K"
       },
       "artists": [
         {
-          "name": "Rachael Lampa",
-          "url": "https://open.spotify.com/artist/0rAp8I6gq67AJEmzWEJ1ri"
-        },
-        {
-          "name": "TobyMac",
-          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
+          "name": "Kings Kaleidoscope",
+          "url": "https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A"
         }
       ],
-      "duration_ms": 203683,
-      "name": "Perfectly Loved",
-      "url": "https://open.spotify.com/track/6YNdJX3lhmo0u8j293HaAM"
+      "duration_ms": 256600,
+      "name": "JOY",
+      "url": "https://open.spotify.com/track/6UCBG8W5KLIYwcGrzDygoe"
     },
     {
       "added_at": "2022-05-27 18:07:44",
@@ -535,22 +535,6 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
-        "name": "Good Lord",
-        "url": "https://open.spotify.com/album/6UvRiid9Mlguj4Lt7oYfeF"
-      },
-      "artists": [
-        {
-          "name": "David Leonard",
-          "url": "https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE"
-        }
-      ],
-      "duration_ms": 199573,
-      "name": "Good Lord",
-      "url": "https://open.spotify.com/track/1Jy3KTQbhHHr7DEc72oys2"
-    },
-    {
-      "added_at": "2022-05-27 18:07:44",
-      "album": {
         "name": "Revival",
         "url": "https://open.spotify.com/album/350DvgUbR83wdpqAIEAUeU"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 209262,
       "name": "Revival",
       "url": "https://open.spotify.com/track/5UC1B9KaUWKFUYNFrklGxQ"
+    },
+    {
+      "added_at": "2022-05-27 18:07:44",
+      "album": {
+        "name": "Good Lord",
+        "url": "https://open.spotify.com/album/6UvRiid9Mlguj4Lt7oYfeF"
+      },
+      "artists": [
+        {
+          "name": "David Leonard",
+          "url": "https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE"
+        }
+      ],
+      "duration_ms": 199573,
+      "name": "Good Lord",
+      "url": "https://open.spotify.com/track/1Jy3KTQbhHHr7DEc72oys2"
     },
     {
       "added_at": "2022-05-27 18:07:44",
@@ -583,22 +583,6 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
-        "name": "Already Blessed",
-        "url": "https://open.spotify.com/album/302vTUIId9Yy7XVI42gGiY"
-      },
-      "artists": [
-        {
-          "name": "Chidiya Ohiagu",
-          "url": "https://open.spotify.com/artist/7H9pyCCQxjzJb9aaIsrSgp"
-        }
-      ],
-      "duration_ms": 228068,
-      "name": "Already Blessed",
-      "url": "https://open.spotify.com/track/6EVBja1SChiDywjTRfS1Rk"
-    },
-    {
-      "added_at": "2022-05-27 18:07:44",
-      "album": {
         "name": "Jordan St. Cyr",
         "url": "https://open.spotify.com/album/3mDTBxxt06UjSoaNj2BpcK"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 188426,
       "name": "No Matter What",
       "url": "https://open.spotify.com/track/5zlWZifhZcoFGgMdXWycFw"
+    },
+    {
+      "added_at": "2022-05-27 18:07:44",
+      "album": {
+        "name": "Already Blessed",
+        "url": "https://open.spotify.com/album/302vTUIId9Yy7XVI42gGiY"
+      },
+      "artists": [
+        {
+          "name": "Chidiya Ohiagu",
+          "url": "https://open.spotify.com/artist/7H9pyCCQxjzJb9aaIsrSgp"
+        }
+      ],
+      "duration_ms": 228068,
+      "name": "Already Blessed",
+      "url": "https://open.spotify.com/track/6EVBja1SChiDywjTRfS1Rk"
     },
     {
       "added_at": "2022-05-27 18:07:44",
@@ -679,18 +679,18 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
-        "name": "Worry",
-        "url": "https://open.spotify.com/album/5u062xvW8kyvsRkHinuer2"
+        "name": "Loved By You",
+        "url": "https://open.spotify.com/album/6LrvY8QbN1dDfvc68cGFtu"
       },
       "artists": [
         {
-          "name": "Building 429",
-          "url": "https://open.spotify.com/artist/6Le23Aqwqi28fQUzfv4dHY"
+          "name": "Unspoken",
+          "url": "https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0"
         }
       ],
-      "duration_ms": 209194,
-      "name": "Worry",
-      "url": "https://open.spotify.com/track/5w4TqRrShLr1snvqCokhhV"
+      "duration_ms": 193934,
+      "name": "Loved By You",
+      "url": "https://open.spotify.com/track/45HtUmhWSfLEBuFl68t4wl"
     },
     {
       "added_at": "2022-05-27 18:07:44",
@@ -711,18 +711,18 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
-        "name": "Loved By You",
-        "url": "https://open.spotify.com/album/6LrvY8QbN1dDfvc68cGFtu"
+        "name": "Worry",
+        "url": "https://open.spotify.com/album/5u062xvW8kyvsRkHinuer2"
       },
       "artists": [
         {
-          "name": "Unspoken",
-          "url": "https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0"
+          "name": "Building 429",
+          "url": "https://open.spotify.com/artist/6Le23Aqwqi28fQUzfv4dHY"
         }
       ],
-      "duration_ms": 193934,
-      "name": "Loved By You",
-      "url": "https://open.spotify.com/track/45HtUmhWSfLEBuFl68t4wl"
+      "duration_ms": 209194,
+      "name": "Worry",
+      "url": "https://open.spotify.com/track/5w4TqRrShLr1snvqCokhhV"
     },
     {
       "added_at": "2022-05-27 18:07:44",
@@ -775,6 +775,22 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
+        "name": "Church",
+        "url": "https://open.spotify.com/album/30cPB00t2FzvXPQLtSNJF8"
+      },
+      "artists": [
+        {
+          "name": "Evvie McKinney",
+          "url": "https://open.spotify.com/artist/7G7JWOsGhDMily2HtfzcIZ"
+        }
+      ],
+      "duration_ms": 169817,
+      "name": "Church",
+      "url": "https://open.spotify.com/track/5c5Cn75uLZbYsGHVbDHVHD"
+    },
+    {
+      "added_at": "2022-05-27 18:07:44",
+      "album": {
         "name": "Sensibilities",
         "url": "https://open.spotify.com/album/2OE5HEsnnFAKghpqqEkmpl"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 177235,
       "name": "Never Not God",
       "url": "https://open.spotify.com/track/6zWdaANy7zVHGPqzv1fZeT"
-    },
-    {
-      "added_at": "2022-05-27 18:07:44",
-      "album": {
-        "name": "Church",
-        "url": "https://open.spotify.com/album/30cPB00t2FzvXPQLtSNJF8"
-      },
-      "artists": [
-        {
-          "name": "Evvie McKinney",
-          "url": "https://open.spotify.com/artist/7G7JWOsGhDMily2HtfzcIZ"
-        }
-      ],
-      "duration_ms": 169817,
-      "name": "Church",
-      "url": "https://open.spotify.com/track/5c5Cn75uLZbYsGHVbDHVHD"
     },
     {
       "added_at": "2022-05-27 18:07:44",
@@ -875,22 +875,6 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
-        "name": "Secrets",
-        "url": "https://open.spotify.com/album/2Wo9jqoYH9NfVqsdvp2Vgw"
-      },
-      "artists": [
-        {
-          "name": "Rachael Nemiroff",
-          "url": "https://open.spotify.com/artist/4w2fF5b9OiQBhh6Z34rL8t"
-        }
-      ],
-      "duration_ms": 226442,
-      "name": "Secrets",
-      "url": "https://open.spotify.com/track/4GcSp6MeitSVubtS27ykaw"
-    },
-    {
-      "added_at": "2022-05-27 18:07:44",
-      "album": {
         "name": "Everything and More",
         "url": "https://open.spotify.com/album/1lDmfpUzTkpkxSCboC6ht8"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 179420,
       "name": "Only Ever Always",
       "url": "https://open.spotify.com/track/2XwqIUqh74AJYwdE6t8NnR"
+    },
+    {
+      "added_at": "2022-05-27 18:07:44",
+      "album": {
+        "name": "Secrets",
+        "url": "https://open.spotify.com/album/2Wo9jqoYH9NfVqsdvp2Vgw"
+      },
+      "artists": [
+        {
+          "name": "Rachael Nemiroff",
+          "url": "https://open.spotify.com/artist/4w2fF5b9OiQBhh6Z34rL8t"
+        }
+      ],
+      "duration_ms": 226442,
+      "name": "Secrets",
+      "url": "https://open.spotify.com/track/4GcSp6MeitSVubtS27ykaw"
     },
     {
       "added_at": "2022-05-27 18:07:44",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
-        "name": "Who You Want Me To Be",
-        "url": "https://open.spotify.com/album/2QX3GyZIXeWsJog7XwWV03"
-      },
-      "artists": [
-        {
-          "name": "Christian Singleton",
-          "url": "https://open.spotify.com/artist/5KGTTFuyg5XfMMep5hTokE"
-        }
-      ],
-      "duration_ms": 196746,
-      "name": "Who You Want Me To Be",
-      "url": "https://open.spotify.com/track/5VXVRtAzzsHT2KQbeOdnlz"
-    },
-    {
-      "added_at": "2022-05-27 18:07:44",
-      "album": {
         "name": "Unexpected Roads",
         "url": "https://open.spotify.com/album/270YkGxScjMXCnszT2tEgm"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 224666,
       "name": "Unexpected Roads",
       "url": "https://open.spotify.com/track/2QB144MI3R76p3KMcfPu7B"
+    },
+    {
+      "added_at": "2022-05-27 18:07:44",
+      "album": {
+        "name": "Who You Want Me To Be",
+        "url": "https://open.spotify.com/album/2QX3GyZIXeWsJog7XwWV03"
+      },
+      "artists": [
+        {
+          "name": "Christian Singleton",
+          "url": "https://open.spotify.com/artist/5KGTTFuyg5XfMMep5hTokE"
+        }
+      ],
+      "duration_ms": 196746,
+      "name": "Who You Want Me To Be",
+      "url": "https://open.spotify.com/track/5VXVRtAzzsHT2KQbeOdnlz"
     },
     {
       "added_at": "2022-05-27 18:07:44",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
-        "name": "Thank God!",
-        "url": "https://open.spotify.com/album/6D0WTJd0pUdQNy7VWfgftm"
-      },
-      "artists": [
-        {
-          "name": "Tracy Nitschke",
-          "url": "https://open.spotify.com/artist/3MFePrlHaLPnHIHkbAw3RW"
-        }
-      ],
-      "duration_ms": 142151,
-      "name": "Thank God!",
-      "url": "https://open.spotify.com/track/67nHwqqhRlR4cxbjJSOmkz"
-    },
-    {
-      "added_at": "2022-05-27 18:07:44",
-      "album": {
         "name": "He Is Not Worried",
         "url": "https://open.spotify.com/album/7IDS7l5JGzDfdnBY1P90st"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 269986,
       "name": "He Is Not Worried",
       "url": "https://open.spotify.com/track/64bufFeb5iQoZhEhFPVJCb"
+    },
+    {
+      "added_at": "2022-05-27 18:07:44",
+      "album": {
+        "name": "Thank God!",
+        "url": "https://open.spotify.com/album/6D0WTJd0pUdQNy7VWfgftm"
+      },
+      "artists": [
+        {
+          "name": "Tracy Nitschke",
+          "url": "https://open.spotify.com/artist/3MFePrlHaLPnHIHkbAw3RW"
+        }
+      ],
+      "duration_ms": 142151,
+      "name": "Thank God!",
+      "url": "https://open.spotify.com/track/67nHwqqhRlR4cxbjJSOmkz"
     },
     {
       "added_at": "2022-05-27 18:07:44",
@@ -1355,6 +1355,26 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
+        "name": "Mind of Christ (Philippians 2)",
+        "url": "https://open.spotify.com/album/78xHy1AXOcqDNevyty5BK6"
+      },
+      "artists": [
+        {
+          "name": "Brian Doerksen",
+          "url": "https://open.spotify.com/artist/0pWpQhmg5KRsyo2Y6QRtc7"
+        },
+        {
+          "name": "Steve Mitchinson",
+          "url": "https://open.spotify.com/artist/0pVGOg9sIx3AsJisBwKfAb"
+        }
+      ],
+      "duration_ms": 242714,
+      "name": "Mind of Christ (Philippians 2)",
+      "url": "https://open.spotify.com/track/5Ol2f8NBEASW6JYQswBWpi"
+    },
+    {
+      "added_at": "2022-05-27 18:07:44",
+      "album": {
         "name": "Secret Place",
         "url": "https://open.spotify.com/album/1D5UImCRj2c5oLZXoO5ZP4"
       },
@@ -1399,26 +1419,6 @@
       "duration_ms": 279626,
       "name": "The Lion Still Roars",
       "url": "https://open.spotify.com/track/5zT6mPJHo9juu0gG5NKLrb"
-    },
-    {
-      "added_at": "2022-05-27 18:07:44",
-      "album": {
-        "name": "Mind of Christ (Philippians 2)",
-        "url": "https://open.spotify.com/album/78xHy1AXOcqDNevyty5BK6"
-      },
-      "artists": [
-        {
-          "name": "Brian Doerksen",
-          "url": "https://open.spotify.com/artist/0pWpQhmg5KRsyo2Y6QRtc7"
-        },
-        {
-          "name": "Steve Mitchinson",
-          "url": "https://open.spotify.com/artist/0pVGOg9sIx3AsJisBwKfAb"
-        }
-      ],
-      "duration_ms": 242714,
-      "name": "Mind of Christ (Philippians 2)",
-      "url": "https://open.spotify.com/track/5Ol2f8NBEASW6JYQswBWpi"
     },
     {
       "added_at": "2022-05-27 18:07:44",
@@ -1563,26 +1563,6 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
-        "name": "Places (Des Endroits)",
-        "url": "https://open.spotify.com/album/7GyGTZAigB3RZKrq3JPjV2"
-      },
-      "artists": [
-        {
-          "name": "Armand Mukenge",
-          "url": "https://open.spotify.com/artist/03FQiZQOAx6vSqB5HflG9i"
-        },
-        {
-          "name": "Mbushka",
-          "url": "https://open.spotify.com/artist/3IRgs9UVzAlK73dZiYI1Ya"
-        }
-      ],
-      "duration_ms": 212680,
-      "name": "Places (Des Endroits)",
-      "url": "https://open.spotify.com/track/1woGAdF9icCiBZK0j3yLWg"
-    },
-    {
-      "added_at": "2022-05-27 18:07:44",
-      "album": {
         "name": "Juntos",
         "url": "https://open.spotify.com/album/5aY9OqT1l9HrMMK66ZbqKe"
       },
@@ -1599,6 +1579,26 @@
       "duration_ms": 209520,
       "name": "we all need saving",
       "url": "https://open.spotify.com/track/1uNHA4tsOgrkKNQztsEVE5"
+    },
+    {
+      "added_at": "2022-05-27 18:07:44",
+      "album": {
+        "name": "Places (Des Endroits)",
+        "url": "https://open.spotify.com/album/7GyGTZAigB3RZKrq3JPjV2"
+      },
+      "artists": [
+        {
+          "name": "Armand Mukenge",
+          "url": "https://open.spotify.com/artist/03FQiZQOAx6vSqB5HflG9i"
+        },
+        {
+          "name": "Mbushka",
+          "url": "https://open.spotify.com/artist/3IRgs9UVzAlK73dZiYI1Ya"
+        }
+      ],
+      "duration_ms": 212680,
+      "name": "Places (Des Endroits)",
+      "url": "https://open.spotify.com/track/1woGAdF9icCiBZK0j3yLWg"
     },
     {
       "added_at": "2022-05-27 18:07:44",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
-        "name": "The Greatest Discovery",
-        "url": "https://open.spotify.com/album/4sL4lTlL4SJqho15bwT2LK"
-      },
-      "artists": [
-        {
-          "name": "Sarah Hawkyard",
-          "url": "https://open.spotify.com/artist/3CgmDph153yB1nP3meLZkr"
-        }
-      ],
-      "duration_ms": 257670,
-      "name": "I Now Have Purpose",
-      "url": "https://open.spotify.com/track/0wOfICh5Zv8w1tB78ro0rp"
-    },
-    {
-      "added_at": "2022-05-27 18:07:44",
-      "album": {
         "name": "Streams",
         "url": "https://open.spotify.com/album/561scYchLsHReTlfcPJxaH"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 393978,
       "name": "Streams",
       "url": "https://open.spotify.com/track/4TNqLqR26yumoTFs5ESCex"
+    },
+    {
+      "added_at": "2022-05-27 18:07:44",
+      "album": {
+        "name": "The Greatest Discovery",
+        "url": "https://open.spotify.com/album/4sL4lTlL4SJqho15bwT2LK"
+      },
+      "artists": [
+        {
+          "name": "Sarah Hawkyard",
+          "url": "https://open.spotify.com/artist/3CgmDph153yB1nP3meLZkr"
+        }
+      ],
+      "duration_ms": 257670,
+      "name": "I Now Have Purpose",
+      "url": "https://open.spotify.com/track/0wOfICh5Zv8w1tB78ro0rp"
     },
     {
       "added_at": "2022-05-27 18:07:44",

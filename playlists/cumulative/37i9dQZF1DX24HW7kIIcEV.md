@@ -2,7 +2,7 @@
 
 ### [after school club 🪄](https://open.spotify.com/playlist/37i9dQZF1DX24HW7kIIcEV)
 
-> T as in Troy? No Gabriella, T as in Time to relive your greatest childhood memories.
+> Joining the formal campaign to get the Lizzie McGuire reboot back in production.
 
 109 songs - 5 hr 56 min - [published](https://open.spotify.com/playlist/6zZEew2FmrtE0tFqgmTPFu)
 

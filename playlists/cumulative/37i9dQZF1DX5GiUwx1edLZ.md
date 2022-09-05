@@ -4,7 +4,7 @@
 
 > <a href="https://open.spotify.com/genre/edm\_dance">Dance music</a> unplugged.
 
-217 songs - 12 hr 35 min - [published](https://open.spotify.com/playlist/3taMKdfV2mPq94KYQPk84T)
+218 songs - 12 hr 37 min - [published](https://open.spotify.com/playlist/3taMKdfV2mPq94KYQPk84T)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,8 +51,9 @@
 | [Fears \(Acoustic\)](https://open.spotify.com/track/6wasfRwIrmrsjjaPvpvAFs) | [Markus Schulz](https://open.spotify.com/artist/6OO0PboZcIWUWL7j2IyeoL), [Kyau & Albert](https://open.spotify.com/artist/0pyi4vNCq5T6GgV1rt7ncc) | [Watch the World \(Acoustic Versions\)](https://open.spotify.com/album/7dWgNVjh2aG5C3l5cvswKy) | 3:21 | 2021-12-10 | 2022-07-29 |
 | [Fears \- Acoustic Version](https://open.spotify.com/track/1yQ8FL5C0EUY3jGnEUzopj) | [Markus Schulz](https://open.spotify.com/artist/6OO0PboZcIWUWL7j2IyeoL), [Kyau & Albert](https://open.spotify.com/artist/0pyi4vNCq5T6GgV1rt7ncc) | [Watch the World](https://open.spotify.com/album/3SgOQ6KcasJBRfK5nZtbUf) | 3:21 | 2022-06-27 |  |
 | [Feel Good \(feat\. Daya\) \- Acoustic](https://open.spotify.com/track/3VuLFnOmk8EjVyehCJfzhT) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Feel Good \(feat\. Daya\) \[Acoustic\]](https://open.spotify.com/album/7yL2gbkjBGxRz2qt0jFARI) | 3:59 | 2022-03-25 |  |
+| [Ferrari \- Acoustic](https://open.spotify.com/track/5eaYAQU1cr3M8hLdF71Fg7) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v) | [Ferrari \(Acoustic\)](https://open.spotify.com/album/706d3fxyjF2C03PxtyueQK) | 2:21 | 2022-09-02 |  |
 | [Find You + Spectrum + Clarity + Stay the Night](https://open.spotify.com/track/6HuetsfttCsDk6hx41OQ7S) | [Daniel Jang](https://open.spotify.com/artist/3MVrehTlNNnn06iUlj4axN) | [Find You + Spectrum + Clarity + Stay the Night](https://open.spotify.com/album/4j6FSFVYlhcA01ySDFTGps) | 3:06 | 2021-12-10 | 2022-07-28 |
-| [Finest Hour \(feat\. Abir\) \- Acoustic Version](https://open.spotify.com/track/6ZMTQIeV5IZMTOFmVhDziW) | [Cash Cash](https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF), [ABIR](https://open.spotify.com/artist/3QUOtWgmuxFyae4C0Q0thd) | [Acoustic Collection \(Vol\. 1\)](https://open.spotify.com/album/3Gu0M7EGjPvdEP1vNlEQMk) | 3:01 | 2022-06-27 |  |
+| [Finest Hour \(feat\. Abir\) \- Acoustic Version](https://open.spotify.com/track/6ZMTQIeV5IZMTOFmVhDziW) | [Cash Cash](https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF), [ABIR](https://open.spotify.com/artist/3QUOtWgmuxFyae4C0Q0thd) | [Acoustic Collection \(Vol\. 1\)](https://open.spotify.com/album/3Gu0M7EGjPvdEP1vNlEQMk) | 3:01 | 2022-06-27 | 2022-09-05 |
 | [Finest Hour \(feat\. Abir\) \- Acoustic Version](https://open.spotify.com/track/7fYJmTX4SXWfli0je1JK5h) | [Cash Cash](https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF), [ABIR](https://open.spotify.com/artist/3QUOtWgmuxFyae4C0Q0thd) | [Finest Hour \(feat\. Abir\) \[Acoustic Version\]](https://open.spotify.com/album/2ZoXU7gFyx2bzlgRWU595e) | 3:01 | 2021-12-10 | 2022-07-29 |
 | [Finished Symphony \- Hybrid's Soundtrack](https://open.spotify.com/track/71iTDcymCPJhHfZo7YHham) | [Hybrid](https://open.spotify.com/artist/2MYN7OKnlCiZ0wrwp2A1ox) | [Finished Symphony](https://open.spotify.com/album/7rGQuF0u92ULAMFXBSX90O) | 6:14 | 2022-03-25 | 2022-04-19 |
 | [Fire \- M&F's in Session Edit](https://open.spotify.com/track/6BU8Zh86mwohDsmSyvB6hg) | [Matrix & Futurebound](https://open.spotify.com/artist/41iVQ05he8SrfIWbZQ58N7), [Max Marshall](https://open.spotify.com/artist/7ppllgzNRgrnOjYbsyDzO6) | [Fire \(M&F's in Session Edit\)](https://open.spotify.com/album/70YGjwVHQd8CzHIIXirXHA) | 3:09 | 2021-12-10 | 2022-07-29 |

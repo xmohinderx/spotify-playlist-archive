@@ -1,12 +1,12 @@
 {
   "description": "A playlist of Christian summer camp favorites, past and present.",
-  "num_followers": 2360,
+  "num_followers": 2364,
   "original_name": "Christian Summer Camp",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYyNDk3Mzc2MiwwMDAwMDAwMDQ3YzdhODA5MDdmMzIwMTBmOTQ1ZmYzNDgxOWRjNTM4",
+  "snapshot_id": "MTYyNDk3Mzc2MiwwMDAwMDAwMGEwNmI2ZGM3NDA0NGE4ZGFhZDMzZTVkNzc1Mzk0OTI1",
   "tracks": [
     {
       "added_at": "2021-06-29 13:36:02",
@@ -555,26 +555,22 @@
     {
       "added_at": "2021-06-29 13:36:02",
       "album": {
-        "name": "Season One",
-        "url": "https://open.spotify.com/album/0SKZC7cvktjidQLucmftED"
+        "name": "The Kingdom of Heaven Is Like This",
+        "url": "https://open.spotify.com/album/5W0j4DRH44VjXhUICznk5x"
       },
       "artists": [
         {
-          "name": "All Sons & Daughters",
-          "url": "https://open.spotify.com/artist/44LPOpECjnIlnwH91wo2ir"
+          "name": "Rain For Roots",
+          "url": "https://open.spotify.com/artist/0BMoQeAvgTIVa2il9WIGkA"
         },
         {
-          "name": "Leslie Jordan",
-          "url": "https://open.spotify.com/artist/5AxCkKr6aZBRfm9KD7ermh"
-        },
-        {
-          "name": "David Leonard",
-          "url": "https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE"
+          "name": "Ellie Holcomb",
+          "url": "https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs"
         }
       ],
-      "duration_ms": 352026,
-      "name": "Brokenness Aside",
-      "url": "https://open.spotify.com/track/6x02A6nSxBWlITXk3vNQmw"
+      "duration_ms": 182635,
+      "name": "Do Not Worry (feat. Ellie Holcomb)",
+      "url": "https://open.spotify.com/track/2zDzh7uEM8VJ4CIQMzKHXo"
     },
     {
       "added_at": "2021-06-29 13:36:02",
@@ -595,22 +591,26 @@
     {
       "added_at": "2021-06-29 13:36:02",
       "album": {
-        "name": "The Kingdom of Heaven Is Like This",
-        "url": "https://open.spotify.com/album/5W0j4DRH44VjXhUICznk5x"
+        "name": "Season One",
+        "url": "https://open.spotify.com/album/0SKZC7cvktjidQLucmftED"
       },
       "artists": [
         {
-          "name": "Rain For Roots",
-          "url": "https://open.spotify.com/artist/0BMoQeAvgTIVa2il9WIGkA"
+          "name": "All Sons & Daughters",
+          "url": "https://open.spotify.com/artist/44LPOpECjnIlnwH91wo2ir"
         },
         {
-          "name": "Ellie Holcomb",
-          "url": "https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs"
+          "name": "Leslie Jordan",
+          "url": "https://open.spotify.com/artist/5AxCkKr6aZBRfm9KD7ermh"
+        },
+        {
+          "name": "David Leonard",
+          "url": "https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE"
         }
       ],
-      "duration_ms": 182635,
-      "name": "Do Not Worry (feat. Ellie Holcomb)",
-      "url": "https://open.spotify.com/track/2zDzh7uEM8VJ4CIQMzKHXo"
+      "duration_ms": 352026,
+      "name": "Brokenness Aside",
+      "url": "https://open.spotify.com/track/6x02A6nSxBWlITXk3vNQmw"
     },
     {
       "added_at": "2021-06-29 13:36:02",

@@ -1,12 +1,12 @@
 {
   "description": "The essential pop rock songs from the 2010s. Cover: Coldplay.",
-  "num_followers": 122328,
+  "num_followers": 122438,
   "original_name": "10s Pop Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzQyMjIwMywwMDAwMDAwMDdiY2YxYzE2NzM1NTU1ZDQ3ZTc1MzRhMmFlNGFkM2E2",
+  "snapshot_id": "MTY1MzQyMjIwMywwMDAwMDAwMDRjZjU1NzE1ODUzMDVlOTg0NjA3MTFlOWQ4M2RjMDhl",
   "tracks": [
     {
       "added_at": "2021-12-02 09:05:08",
@@ -627,22 +627,6 @@
     {
       "added_at": "2021-12-02 09:05:08",
       "album": {
-        "name": "Sweeter",
-        "url": "https://open.spotify.com/album/2zVRgW8bXd7ukXRZSWw81j"
-      },
-      "artists": [
-        {
-          "name": "Gavin DeGraw",
-          "url": "https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz"
-        }
-      ],
-      "duration_ms": 218520,
-      "name": "Not Over You",
-      "url": "https://open.spotify.com/track/6j7hih15xG2cdYwIJnQXsq"
-    },
-    {
-      "added_at": "2021-12-02 09:05:08",
-      "album": {
         "name": "ATLAS",
         "url": "https://open.spotify.com/album/6pUg9RDDoVyQQVJ48FkmXz"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 231986,
       "name": "Revolution",
       "url": "https://open.spotify.com/track/7Fv8Qp3tTSbSS2VjryUF7L"
+    },
+    {
+      "added_at": "2021-12-02 09:05:08",
+      "album": {
+        "name": "Sweeter",
+        "url": "https://open.spotify.com/album/2zVRgW8bXd7ukXRZSWw81j"
+      },
+      "artists": [
+        {
+          "name": "Gavin DeGraw",
+          "url": "https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz"
+        }
+      ],
+      "duration_ms": 218520,
+      "name": "Not Over You",
+      "url": "https://open.spotify.com/track/6j7hih15xG2cdYwIJnQXsq"
     },
     {
       "added_at": "2021-12-02 09:05:08",
@@ -675,22 +675,6 @@
     {
       "added_at": "2021-12-02 09:05:08",
       "album": {
-        "name": "What We Live For",
-        "url": "https://open.spotify.com/album/1av32Pkx9yoZYU250F34zW"
-      },
-      "artists": [
-        {
-          "name": "American Authors",
-          "url": "https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3"
-        }
-      ],
-      "duration_ms": 206920,
-      "name": "I'm Born To Run",
-      "url": "https://open.spotify.com/track/6zDs6zI94L761vd0cVScTT"
-    },
-    {
-      "added_at": "2021-12-02 09:05:08",
-      "album": {
         "name": "Here and Now (Audio Only Version)",
         "url": "https://open.spotify.com/album/2gMWwDIxxGIiblnv1pQHyd"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 190786,
       "name": "When We Stand Together",
       "url": "https://open.spotify.com/track/4bCOAuhvjsxbVBM5MM8oik"
+    },
+    {
+      "added_at": "2021-12-02 09:05:08",
+      "album": {
+        "name": "What We Live For",
+        "url": "https://open.spotify.com/album/1av32Pkx9yoZYU250F34zW"
+      },
+      "artists": [
+        {
+          "name": "American Authors",
+          "url": "https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3"
+        }
+      ],
+      "duration_ms": 206920,
+      "name": "I'm Born To Run",
+      "url": "https://open.spotify.com/track/6zDs6zI94L761vd0cVScTT"
     },
     {
       "added_at": "2021-12-02 09:05:08",
@@ -903,22 +903,6 @@
     {
       "added_at": "2021-12-02 09:05:08",
       "album": {
-        "name": "Andrew McMahon In The Wilderness",
-        "url": "https://open.spotify.com/album/4IVdl0FxI7cpwyLh8JWOdG"
-      },
-      "artists": [
-        {
-          "name": "Andrew McMahon in the Wilderness",
-          "url": "https://open.spotify.com/artist/716ZwtZBmwROBXcFmCzfdM"
-        }
-      ],
-      "duration_ms": 223879,
-      "name": "Cecilia And The Satellite",
-      "url": "https://open.spotify.com/track/1MSM3Fo2fvnwVqMcz8Jhjq"
-    },
-    {
-      "added_at": "2021-12-02 09:05:08",
-      "album": {
         "name": "What We Live For",
         "url": "https://open.spotify.com/album/1av32Pkx9yoZYU250F34zW"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 169026,
       "name": "Go Big Or Go Home",
       "url": "https://open.spotify.com/track/1obisQNOcikRvTdStbW3pG"
+    },
+    {
+      "added_at": "2021-12-02 09:05:08",
+      "album": {
+        "name": "Andrew McMahon In The Wilderness",
+        "url": "https://open.spotify.com/album/4IVdl0FxI7cpwyLh8JWOdG"
+      },
+      "artists": [
+        {
+          "name": "Andrew McMahon in the Wilderness",
+          "url": "https://open.spotify.com/artist/716ZwtZBmwROBXcFmCzfdM"
+        }
+      ],
+      "duration_ms": 223879,
+      "name": "Cecilia And The Satellite",
+      "url": "https://open.spotify.com/track/1MSM3Fo2fvnwVqMcz8Jhjq"
     },
     {
       "added_at": "2021-12-02 09:05:08",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2021-12-02 09:05:08",
       "album": {
+        "name": "What We Live For",
+        "url": "https://open.spotify.com/album/1av32Pkx9yoZYU250F34zW"
+      },
+      "artists": [
+        {
+          "name": "American Authors",
+          "url": "https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3"
+        }
+      ],
+      "duration_ms": 180213,
+      "name": "Pocket Full Of Gold",
+      "url": "https://open.spotify.com/track/4KSQ9el0QgTKKie5oCtKLe"
+    },
+    {
+      "added_at": "2021-12-02 09:05:08",
+      "album": {
         "name": "Sunsets & Full Moons",
         "url": "https://open.spotify.com/album/4BSDAmxxjYJnePMfh8kSJM"
       },
@@ -1059,22 +1075,6 @@
       "duration_ms": 245293,
       "name": "The Wire",
       "url": "https://open.spotify.com/track/6golelYKuy85o3u0cxIxFK"
-    },
-    {
-      "added_at": "2021-12-02 09:05:08",
-      "album": {
-        "name": "What We Live For",
-        "url": "https://open.spotify.com/album/1av32Pkx9yoZYU250F34zW"
-      },
-      "artists": [
-        {
-          "name": "American Authors",
-          "url": "https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3"
-        }
-      ],
-      "duration_ms": 180213,
-      "name": "Pocket Full Of Gold",
-      "url": "https://open.spotify.com/track/4KSQ9el0QgTKKie5oCtKLe"
     },
     {
       "added_at": "2021-12-02 09:05:08",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2021-12-02 09:05:08",
       "album": {
-        "name": "R.E.V.O.",
-        "url": "https://open.spotify.com/album/4E2tpJR1a6bsKNrAZcXGvP"
-      },
-      "artists": [
-        {
-          "name": "Walk Off the Earth",
-          "url": "https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX"
-        }
-      ],
-      "duration_ms": 180880,
-      "name": "Red Hands",
-      "url": "https://open.spotify.com/track/3e5uxnPKYPdNjadbGXjWbP"
-    },
-    {
-      "added_at": "2021-12-02 09:05:08",
-      "album": {
         "name": "Strangeland (Deluxe Version)",
         "url": "https://open.spotify.com/album/3nwyEcUG2j9CXV7qY1BhVr"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 196466,
       "name": "Silenced By The Night",
       "url": "https://open.spotify.com/track/6ovxhuEp4zsnJLvNKnQiBL"
+    },
+    {
+      "added_at": "2021-12-02 09:05:08",
+      "album": {
+        "name": "R.E.V.O.",
+        "url": "https://open.spotify.com/album/4E2tpJR1a6bsKNrAZcXGvP"
+      },
+      "artists": [
+        {
+          "name": "Walk Off the Earth",
+          "url": "https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX"
+        }
+      ],
+      "duration_ms": 180880,
+      "name": "Red Hands",
+      "url": "https://open.spotify.com/track/3e5uxnPKYPdNjadbGXjWbP"
     },
     {
       "added_at": "2021-12-02 09:05:08",

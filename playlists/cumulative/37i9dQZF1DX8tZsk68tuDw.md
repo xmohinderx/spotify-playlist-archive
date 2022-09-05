@@ -4,7 +4,7 @@
 
 > Tomorrow's <a href="spotify:genre:edm\_dance">dance</a> hits, with Eliza Rose.
 
-1,663 songs - 3 day 23 hr 33 min - [published](https://open.spotify.com/playlist/2pLFymjcvaRi3S7CfLfDqz)
+1,664 songs - 3 day 23 hr 36 min - [published](https://open.spotify.com/playlist/2pLFymjcvaRi3S7CfLfDqz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -820,7 +820,8 @@
 | [Learn To Love Me \(feat\. Ryan Tedder\)](https://open.spotify.com/track/5Apm1AC2iO9thO32d5bA8y) | [David Solomon](https://open.spotify.com/artist/3fzRb5i8Wn7ao2KPDxEiTR), [Ryan Tedder](https://open.spotify.com/artist/4we5S2VLjgY9KzIzApL1KI) | [Learn To Love Me \(feat\. Ryan Tedder\)](https://open.spotify.com/album/1iWgVSKcE2Jiqixcq1qEsg) | 2:58 | 2021-06-19 | 2021-08-14 |
 | [Leave](https://open.spotify.com/track/6XxLyQcf5medRSvuMo2B50) | [Bklava](https://open.spotify.com/artist/71t5uC7AYxisT7Z55Y2Kqd) | [Autonomy EP](https://open.spotify.com/album/4WvieX96tzcCZlGI8CEDdW) | 2:57 | 2021-07-31 | 2021-10-02 |
 | [Leave Me Again](https://open.spotify.com/track/0Xsgc6NObUN4QfWxixokDg) | [BYOR](https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R) | [Leave Me Again](https://open.spotify.com/album/14WXwR6xkcm4YjCdRZ4gfa) | 4:28 | 2020-10-13\* | 2020-11-21 |
-| [LEFT TO RIGHT](https://open.spotify.com/track/4zzZGPInXkaUa4KEuuyFSn) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9) | [LEFT TO RIGHT](https://open.spotify.com/album/4dFzMinnMwvmQZLQubahEh) | 2:26 | 2022-08-12 |  |
+| [LEFT TO RIGHT](https://open.spotify.com/track/2IyT4A7X7QYMAhEK6etsi3) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9) | [LEFT TO RIGHT](https://open.spotify.com/album/4H59uwAu61DMDtHwZxAhy3) | 2:26 | 2022-08-12 |  |
+| [LEFT TO RIGHT](https://open.spotify.com/track/4zzZGPInXkaUa4KEuuyFSn) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9) | [LEFT TO RIGHT](https://open.spotify.com/album/4dFzMinnMwvmQZLQubahEh) | 2:26 | 2022-08-12 | 2022-09-05 |
 | [Lemme See](https://open.spotify.com/track/1u4pvznoU57shxIRC1SCzE) | [Coco & Breezy](https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG), [Ye Ali](https://open.spotify.com/artist/0Maq4Nk8ZM6keGZjTCXGIH) | [Lemme See](https://open.spotify.com/album/6F0OblQzVwDqeezGmVtukA) | 2:47 | 2021-12-10 | 2022-03-12 |
 | [Let Me Go](https://open.spotify.com/track/5WnnOy3qXPS8qOwl3U5KWX) | [DJ Sliink](https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk), [Zak Leever](https://open.spotify.com/artist/52YFhvzbffRkaVJQCjFlpU) | [Let Me Go](https://open.spotify.com/album/71JDjU89pUcQs36ArVK8qd) | 3:28 | 2022-05-06 | 2022-07-23 |
 | [Let Me Hold You](https://open.spotify.com/track/13rtgTDK9w1clbgXpGuW3y) | [Netsky](https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP), [Hybrid Minds](https://open.spotify.com/artist/05lF0DUkLJqiW5o70SScyR) | [Second Nature](https://open.spotify.com/album/2kD4XTloruMrJ1vRs9Giks) | 3:22 | 2020-11-06 | 2021-01-23 |

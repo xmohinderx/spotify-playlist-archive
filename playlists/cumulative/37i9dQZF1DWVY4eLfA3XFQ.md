@@ -4,7 +4,7 @@
 
 > Tech house technicians, featuring Cloonee
 
-568 songs - 1 day 8 hr 39 min - [published](https://open.spotify.com/playlist/78BxbIkAGKnzKUXystZiu3)
+569 songs - 1 day 8 hr 42 min - [published](https://open.spotify.com/playlist/78BxbIkAGKnzKUXystZiu3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -281,7 +281,8 @@
 | [Las Morenas](https://open.spotify.com/track/1DADRCZI1S4DJJ9QxvK9gG) | [David Tort](https://open.spotify.com/artist/7Mlrzwh665lRUOEV1ZWyWu), [Markem](https://open.spotify.com/artist/3VvZPymXIq8iBqakRqsTfE), [Allan Nunez](https://open.spotify.com/artist/2SmVeNcio0ldBHqu7tXEeI), [Felipe Espitia](https://open.spotify.com/artist/1PzUnwBokS2SFzZ2DJmqb8) | [Las Morenas](https://open.spotify.com/album/6EWPPT3LHZbGcF5EZ18DR0) | 3:10 | 2022-05-06 | 2022-05-14 |
 | [Lauren \(I Can't Stay Forever\)](https://open.spotify.com/track/33tYADyL2aZctrvR59K1bQ) | [Oden & Fatzo](https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH) | [Lauren \(I Can't Stay Forever\)](https://open.spotify.com/album/3L1NLn5rcrmV4uVqgaoTI7) | 3:20 | 2021-11-26 | 2022-04-23 |
 | [Leave Your Mind Behind](https://open.spotify.com/track/0GS82JsyvXX5SSCjw725tK) | [Glass Petals](https://open.spotify.com/artist/0O8f8ea4d3UvxzrJxkYIb0) | [Leave Your Mind Behind](https://open.spotify.com/album/3zPG0oOh6G8XicQDp4HX0z) | 3:06 | 2022-01-14 | 2022-04-23 |
-| [LEFT TO RIGHT](https://open.spotify.com/track/4zzZGPInXkaUa4KEuuyFSn) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9) | [LEFT TO RIGHT](https://open.spotify.com/album/4dFzMinnMwvmQZLQubahEh) | 2:26 | 2022-08-12 |  |
+| [LEFT TO RIGHT](https://open.spotify.com/track/2IyT4A7X7QYMAhEK6etsi3) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9) | [LEFT TO RIGHT](https://open.spotify.com/album/4H59uwAu61DMDtHwZxAhy3) | 2:26 | 2022-08-12 |  |
+| [LEFT TO RIGHT](https://open.spotify.com/track/4zzZGPInXkaUa4KEuuyFSn) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9) | [LEFT TO RIGHT](https://open.spotify.com/album/4dFzMinnMwvmQZLQubahEh) | 2:26 | 2022-08-12 | 2022-09-05 |
 | [Let It Go \(with Marc E\. Bassy\) \- Dom Dolla Remix](https://open.spotify.com/track/4V3oJg19fIQCbwhGrBES6Y) | [Louie Vega](https://open.spotify.com/artist/5dncbrnveDMX9DgxcedeUg), [The Martinez Brothers](https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU), [Marc E\. Bassy](https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa), [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m) | [Let It Go \(with Marc E\. Bassy\) \[Dom Dolla Remix\]](https://open.spotify.com/album/1dNdUSIBedHHqM5i8jKPmB) | 4:39 | 2021-11-26 | 2022-04-23 |
 | [Let It Kill Ya](https://open.spotify.com/track/17MKWwsCsO73lnT4R48gKT) | [Ferreck Dawn](https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8), [Ashibah](https://open.spotify.com/artist/5krSTcI0xPGmeloiQTPsYP) | [Let It Kill Ya](https://open.spotify.com/album/3nJaKpFKv8PnJUXLxc4zK9) | 2:22 | 2022-07-22 | 2022-08-27 |
 | [Let Me Dance \- Jansons Remix](https://open.spotify.com/track/3r8hCxrLP5wsN59QWe4dXQ) | [Duke Dumont](https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E), [Kid Enigma](https://open.spotify.com/artist/6xh20mDGCfR9jH2tYotdBE), [Jansons](https://open.spotify.com/artist/0gztzLIt9uRDJd4Jl9TSLY) | [For Club Play Only, Pt\. 7 \(Remixes\)](https://open.spotify.com/album/7kkwKeHGQfMfwUa1aHRYqy) | 3:20 | 2021-11-26 | 2022-02-26 |

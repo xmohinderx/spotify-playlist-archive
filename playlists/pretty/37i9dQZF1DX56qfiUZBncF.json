@@ -1,12 +1,12 @@
 {
   "description": "Let these innovative tracks spark your creativity and inspiration.",
-  "num_followers": 373452,
+  "num_followers": 373453,
   "original_name": "Creativity Boost",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTI3MzI4OCwwMDAwMDAwMDU1YmFhZTA0ODBjMTQ4M2M0ZGVmOGI5MTVkZTcxMzll",
+  "snapshot_id": "MTY1MTI3MzI4OCwwMDAwMDAwMGZiYThmZTc3MWU2OTJiMDg1NjIwYjUzY2JiZTIzYTJk",
   "tracks": [
     {
       "added_at": "2022-04-29 23:01:28",
@@ -555,6 +555,22 @@
     {
       "added_at": "2022-04-29 23:01:28",
       "album": {
+        "name": "Home of Sanity (the playlist)",
+        "url": "https://open.spotify.com/album/0HuDE3XfOnoI068AEUaLmE"
+      },
+      "artists": [
+        {
+          "name": "Oscar Anton",
+          "url": "https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh"
+        }
+      ],
+      "duration_ms": 236167,
+      "name": "ophelie",
+      "url": "https://open.spotify.com/track/6XdxQd4EFvYOvWYqr1KXm3"
+    },
+    {
+      "added_at": "2022-04-29 23:01:28",
+      "album": {
         "name": "Chewing Cotton Wool",
         "url": "https://open.spotify.com/album/1OlByJ5jsP9Eklfp03Xn8z"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 284578,
       "name": "Dionne (feat. Justin Vernon)",
       "url": "https://open.spotify.com/track/15gL4n95OG5KEQLCMXPQzp"
-    },
-    {
-      "added_at": "2022-04-29 23:01:28",
-      "album": {
-        "name": "Home of Sanity (the playlist)",
-        "url": "https://open.spotify.com/album/0HuDE3XfOnoI068AEUaLmE"
-      },
-      "artists": [
-        {
-          "name": "Oscar Anton",
-          "url": "https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh"
-        }
-      ],
-      "duration_ms": 236167,
-      "name": "ophelie",
-      "url": "https://open.spotify.com/track/6XdxQd4EFvYOvWYqr1KXm3"
     },
     {
       "added_at": "2022-04-29 23:01:28",
@@ -659,6 +659,26 @@
     {
       "added_at": "2022-04-29 23:01:28",
       "album": {
+        "name": "Two Steps",
+        "url": "https://open.spotify.com/album/2a9OfXHzWrnWmYoXN3QPYM"
+      },
+      "artists": [
+        {
+          "name": "Maths Time Joy",
+          "url": "https://open.spotify.com/artist/3w18CP1k8zFZb1GfRlPHyK"
+        },
+        {
+          "name": "Kevin Garrett",
+          "url": "https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "Two Steps",
+      "url": "https://open.spotify.com/track/4ACWPAiIYOtETNu9QsFEaP"
+    },
+    {
+      "added_at": "2022-04-29 23:01:28",
+      "album": {
         "name": "Concrete",
         "url": "https://open.spotify.com/album/4ZdyRUMRbY9plmxLjQtkF1"
       },
@@ -691,26 +711,6 @@
       "duration_ms": 185885,
       "name": "superpowerful (with Crooked Colours)",
       "url": "https://open.spotify.com/track/3KgfNzfM4LfxP2v2miNIvh"
-    },
-    {
-      "added_at": "2022-04-29 23:01:28",
-      "album": {
-        "name": "Two Steps",
-        "url": "https://open.spotify.com/album/2a9OfXHzWrnWmYoXN3QPYM"
-      },
-      "artists": [
-        {
-          "name": "Maths Time Joy",
-          "url": "https://open.spotify.com/artist/3w18CP1k8zFZb1GfRlPHyK"
-        },
-        {
-          "name": "Kevin Garrett",
-          "url": "https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "Two Steps",
-      "url": "https://open.spotify.com/track/4ACWPAiIYOtETNu9QsFEaP"
     },
     {
       "added_at": "2022-04-29 23:01:28",
@@ -763,26 +763,6 @@
       "duration_ms": 229560,
       "name": "On the Lookout",
       "url": "https://open.spotify.com/track/4MDgmDaVN9UPyZ41Cxb3NV"
-    },
-    {
-      "added_at": "2022-04-29 23:01:28",
-      "album": {
-        "name": "False Art",
-        "url": "https://open.spotify.com/album/4AkKVNM05Pf48mQVhAj5SZ"
-      },
-      "artists": [
-        {
-          "name": "Ben Kessler",
-          "url": "https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo"
-        },
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 183454,
-      "name": "False Art",
-      "url": "https://open.spotify.com/track/5eBZPQjBjCRXKsu9DnfS21"
     },
     {
       "added_at": "2022-04-29 23:01:28",
@@ -855,6 +835,26 @@
     {
       "added_at": "2022-04-29 23:01:28",
       "album": {
+        "name": "False Art",
+        "url": "https://open.spotify.com/album/4AkKVNM05Pf48mQVhAj5SZ"
+      },
+      "artists": [
+        {
+          "name": "Ben Kessler",
+          "url": "https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo"
+        },
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 183454,
+      "name": "False Art",
+      "url": "https://open.spotify.com/track/5eBZPQjBjCRXKsu9DnfS21"
+    },
+    {
+      "added_at": "2022-04-29 23:01:28",
+      "album": {
         "name": "The Juice: Vol. I",
         "url": "https://open.spotify.com/album/3No5rGRQefAlVJgWusDEwQ"
       },
@@ -867,22 +867,6 @@
       "duration_ms": 212866,
       "name": "Corners Of My Mind",
       "url": "https://open.spotify.com/track/0wdMcK7ejJRdi2AiY2wLGk"
-    },
-    {
-      "added_at": "2022-04-29 23:01:28",
-      "album": {
-        "name": "Until We Meet Again",
-        "url": "https://open.spotify.com/album/4DAbrsYTHBjplIm9YLz6yU"
-      },
-      "artists": [
-        {
-          "name": "Emmit Fenn",
-          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
-        }
-      ],
-      "duration_ms": 268000,
-      "name": "I Can't Believe I Had You",
-      "url": "https://open.spotify.com/track/3QlHuITN1oEBmRnOj4F35M"
     },
     {
       "added_at": "2022-04-29 23:01:28",
@@ -903,18 +887,18 @@
     {
       "added_at": "2022-04-29 23:01:28",
       "album": {
-        "name": "Naive",
-        "url": "https://open.spotify.com/album/5e4XZZ2tTPPtBAKMTZnILI"
+        "name": "Until We Meet Again",
+        "url": "https://open.spotify.com/album/4DAbrsYTHBjplIm9YLz6yU"
       },
       "artists": [
         {
-          "name": "RKCB",
-          "url": "https://open.spotify.com/artist/4QDvXnbmw1znkqkK1119Fc"
+          "name": "Emmit Fenn",
+          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
         }
       ],
-      "duration_ms": 213250,
-      "name": "Naive",
-      "url": "https://open.spotify.com/track/2jPQpbzZd90opXN0cBOspe"
+      "duration_ms": 268000,
+      "name": "I Can't Believe I Had You",
+      "url": "https://open.spotify.com/track/3QlHuITN1oEBmRnOj4F35M"
     },
     {
       "added_at": "2022-04-29 23:01:28",
@@ -931,6 +915,22 @@
       "duration_ms": 168933,
       "name": "Nighttime Hunger",
       "url": "https://open.spotify.com/track/4IE6Oa1YTTu0aICULOzXPn"
+    },
+    {
+      "added_at": "2022-04-29 23:01:28",
+      "album": {
+        "name": "Naive",
+        "url": "https://open.spotify.com/album/5e4XZZ2tTPPtBAKMTZnILI"
+      },
+      "artists": [
+        {
+          "name": "RKCB",
+          "url": "https://open.spotify.com/artist/4QDvXnbmw1znkqkK1119Fc"
+        }
+      ],
+      "duration_ms": 213250,
+      "name": "Naive",
+      "url": "https://open.spotify.com/track/2jPQpbzZd90opXN0cBOspe"
     },
     {
       "added_at": "2022-04-29 23:01:28",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2022-04-29 23:01:28",
       "album": {
-        "name": "Nirvana",
-        "url": "https://open.spotify.com/album/6HcXFfZ41boaTaIwGa3oPh"
-      },
-      "artists": [
-        {
-          "name": "ELLIANA",
-          "url": "https://open.spotify.com/artist/5t0KCCFs6BIelOxE4XGDRT"
-        }
-      ],
-      "duration_ms": 266036,
-      "name": "Nirvana",
-      "url": "https://open.spotify.com/track/11VPN6SfBRRmF2fESXlNep"
-    },
-    {
-      "added_at": "2022-04-29 23:01:28",
-      "album": {
         "name": "Black Rain",
         "url": "https://open.spotify.com/album/35rdGZPQisAnmSJkmf387b"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 231266,
       "name": "Black Rain",
       "url": "https://open.spotify.com/track/68FiJnnzDQj7QnG7vGgnFz"
+    },
+    {
+      "added_at": "2022-04-29 23:01:28",
+      "album": {
+        "name": "Nirvana",
+        "url": "https://open.spotify.com/album/6HcXFfZ41boaTaIwGa3oPh"
+      },
+      "artists": [
+        {
+          "name": "ELLIANA",
+          "url": "https://open.spotify.com/artist/5t0KCCFs6BIelOxE4XGDRT"
+        }
+      ],
+      "duration_ms": 266036,
+      "name": "Nirvana",
+      "url": "https://open.spotify.com/track/11VPN6SfBRRmF2fESXlNep"
     },
     {
       "added_at": "2022-04-29 23:01:28",
@@ -1123,6 +1123,22 @@
     {
       "added_at": "2022-04-29 23:01:28",
       "album": {
+        "name": "Tremors",
+        "url": "https://open.spotify.com/album/021w8zNOK5t0XTrbvVUysp"
+      },
+      "artists": [
+        {
+          "name": "SOHN",
+          "url": "https://open.spotify.com/artist/6XZYAWJLL8UIbxAqjKj3cg"
+        }
+      ],
+      "duration_ms": 197977,
+      "name": "Artifice",
+      "url": "https://open.spotify.com/track/7mp7xiw8cUpLPDTSZ1v5BS"
+    },
+    {
+      "added_at": "2022-04-29 23:01:28",
+      "album": {
         "name": "Romantic Images",
         "url": "https://open.spotify.com/album/25RhUgQQlr0u6G2r7np9bT"
       },
@@ -1155,22 +1171,6 @@
       "duration_ms": 274500,
       "name": "Julia (deep diving)",
       "url": "https://open.spotify.com/track/5DHSlpd0MX9DfnoAQqolfa"
-    },
-    {
-      "added_at": "2022-04-29 23:01:28",
-      "album": {
-        "name": "Tremors",
-        "url": "https://open.spotify.com/album/021w8zNOK5t0XTrbvVUysp"
-      },
-      "artists": [
-        {
-          "name": "SOHN",
-          "url": "https://open.spotify.com/artist/6XZYAWJLL8UIbxAqjKj3cg"
-        }
-      ],
-      "duration_ms": 197977,
-      "name": "Artifice",
-      "url": "https://open.spotify.com/track/7mp7xiw8cUpLPDTSZ1v5BS"
     },
     {
       "added_at": "2022-04-29 23:01:28",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2022-04-29 23:01:28",
       "album": {
+        "name": "Frail State Of Mind",
+        "url": "https://open.spotify.com/album/1KAWoDpnecuSNHijVTrWxn"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "duration_ms": 234811,
+      "name": "Frail State Of Mind",
+      "url": "https://open.spotify.com/track/2i1CnSeLjppv41BTuc7qhY"
+    },
+    {
+      "added_at": "2022-04-29 23:01:28",
+      "album": {
         "name": "I'll Be There",
         "url": "https://open.spotify.com/album/1WrbaQ0Z01VLqkqwspRU5J"
       },
@@ -1259,22 +1275,6 @@
       "duration_ms": 167636,
       "name": "Jeanie (feat. Bon Iver)",
       "url": "https://open.spotify.com/track/6nv9RCo0IXNzCSGeYtzT82"
-    },
-    {
-      "added_at": "2022-04-29 23:01:28",
-      "album": {
-        "name": "Frail State Of Mind",
-        "url": "https://open.spotify.com/album/1KAWoDpnecuSNHijVTrWxn"
-      },
-      "artists": [
-        {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
-        }
-      ],
-      "duration_ms": 234811,
-      "name": "Frail State Of Mind",
-      "url": "https://open.spotify.com/track/2i1CnSeLjppv41BTuc7qhY"
     },
     {
       "added_at": "2022-04-29 23:01:28",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2022-04-29 23:01:28",
       "album": {
-        "name": "Trouble to Share",
-        "url": "https://open.spotify.com/album/4eYcxWOrAIrbuy6bOCJvSw"
-      },
-      "artists": [
-        {
-          "name": "Just Jack",
-          "url": "https://open.spotify.com/artist/2KT0mSAPvd9PreXYCiVfVO"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Trouble to Share",
-      "url": "https://open.spotify.com/track/2Z4TNNcJCzsEmecTUQdE2B"
-    },
-    {
-      "added_at": "2022-04-29 23:01:28",
-      "album": {
         "name": "Avery",
         "url": "https://open.spotify.com/album/643Gnd42azlZukIkuTucy6"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 194634,
       "name": "Avery",
       "url": "https://open.spotify.com/track/31DUl7XE3OzX1IcnVG94g4"
+    },
+    {
+      "added_at": "2022-04-29 23:01:28",
+      "album": {
+        "name": "Trouble to Share",
+        "url": "https://open.spotify.com/album/4eYcxWOrAIrbuy6bOCJvSw"
+      },
+      "artists": [
+        {
+          "name": "Just Jack",
+          "url": "https://open.spotify.com/artist/2KT0mSAPvd9PreXYCiVfVO"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Trouble to Share",
+      "url": "https://open.spotify.com/track/2Z4TNNcJCzsEmecTUQdE2B"
     },
     {
       "added_at": "2022-04-29 23:01:28",
@@ -1495,18 +1495,22 @@
     {
       "added_at": "2022-04-29 23:01:28",
       "album": {
-        "name": "The Mathematics of Nature",
-        "url": "https://open.spotify.com/album/0uBZBBhGxyYXJCPhE2lU2W"
+        "name": "Gold (Flume Re-Work)",
+        "url": "https://open.spotify.com/album/4DHglATZVLGvsoJHoiTxXl"
       },
       "artists": [
         {
-          "name": "Matthew Chaim",
-          "url": "https://open.spotify.com/artist/70JkpECHBzs79FOYemfHwk"
+          "name": "Chet Faker",
+          "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
+        },
+        {
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
         }
       ],
-      "duration_ms": 363841,
-      "name": "Winter/Fall",
-      "url": "https://open.spotify.com/track/2s152GUETF2NZdSYYhwnk9"
+      "duration_ms": 267231,
+      "name": "Gold - Flume Re-Work",
+      "url": "https://open.spotify.com/track/7oELjqBCLfUKhsR5IGCS6N"
     },
     {
       "added_at": "2022-04-29 23:01:28",
@@ -1531,22 +1535,18 @@
     {
       "added_at": "2022-04-29 23:01:28",
       "album": {
-        "name": "Gold (Flume Re-Work)",
-        "url": "https://open.spotify.com/album/4DHglATZVLGvsoJHoiTxXl"
+        "name": "The Mathematics of Nature",
+        "url": "https://open.spotify.com/album/0uBZBBhGxyYXJCPhE2lU2W"
       },
       "artists": [
         {
-          "name": "Chet Faker",
-          "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
-        },
-        {
-          "name": "Flume",
-          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+          "name": "Matthew Chaim",
+          "url": "https://open.spotify.com/artist/70JkpECHBzs79FOYemfHwk"
         }
       ],
-      "duration_ms": 267231,
-      "name": "Gold - Flume Re-Work",
-      "url": "https://open.spotify.com/track/7oELjqBCLfUKhsR5IGCS6N"
+      "duration_ms": 363841,
+      "name": "Winter/Fall",
+      "url": "https://open.spotify.com/track/2s152GUETF2NZdSYYhwnk9"
     },
     {
       "added_at": "2022-04-29 23:01:28",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2022-04-29 23:01:28",
       "album": {
-        "name": "Change Your Mind",
-        "url": "https://open.spotify.com/album/4dWcsWKaDx3RO37DTJtwZ0"
-      },
-      "artists": [
-        {
-          "name": "Oceanic",
-          "url": "https://open.spotify.com/artist/1HZqEalU7MGNHQvENPJb4J"
-        }
-      ],
-      "duration_ms": 188866,
-      "name": "Change Your Mind",
-      "url": "https://open.spotify.com/track/0ryVvXd2EzVqNR0yTLCzNT"
-    },
-    {
-      "added_at": "2022-04-29 23:01:28",
-      "album": {
         "name": "Losing Sleep",
         "url": "https://open.spotify.com/album/7o8ly8OTyBXGmh050Iu3A4"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 222885,
       "name": "Losing Sleep",
       "url": "https://open.spotify.com/track/6NBP6H1F1L5THU7DFoCNgU"
+    },
+    {
+      "added_at": "2022-04-29 23:01:28",
+      "album": {
+        "name": "Change Your Mind",
+        "url": "https://open.spotify.com/album/4dWcsWKaDx3RO37DTJtwZ0"
+      },
+      "artists": [
+        {
+          "name": "Oceanic",
+          "url": "https://open.spotify.com/artist/1HZqEalU7MGNHQvENPJb4J"
+        }
+      ],
+      "duration_ms": 188866,
+      "name": "Change Your Mind",
+      "url": "https://open.spotify.com/track/0ryVvXd2EzVqNR0yTLCzNT"
     },
     {
       "added_at": "2022-04-29 23:01:28",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2022-04-29 23:01:28",
       "album": {
-        "name": "Only Two at the Start",
-        "url": "https://open.spotify.com/album/50FSXGpR9OmRhuzEDUpZ3F"
-      },
-      "artists": [
-        {
-          "name": "DD WALKER",
-          "url": "https://open.spotify.com/artist/0jE6H7j0DI1nIQI4mM6BrS"
-        }
-      ],
-      "duration_ms": 259459,
-      "name": "Only Two at the Start",
-      "url": "https://open.spotify.com/track/0DvN8iIWKuuZPmUmqK7Amz"
-    },
-    {
-      "added_at": "2022-04-29 23:01:28",
-      "album": {
         "name": "River's Song",
         "url": "https://open.spotify.com/album/10rDCowdUnvEHRnjAYxMcc"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 248946,
       "name": "River's Song",
       "url": "https://open.spotify.com/track/6tHS4wXcmeGVRv7DEUrV3g"
+    },
+    {
+      "added_at": "2022-04-29 23:01:28",
+      "album": {
+        "name": "Only Two at the Start",
+        "url": "https://open.spotify.com/album/50FSXGpR9OmRhuzEDUpZ3F"
+      },
+      "artists": [
+        {
+          "name": "DD WALKER",
+          "url": "https://open.spotify.com/artist/0jE6H7j0DI1nIQI4mM6BrS"
+        }
+      ],
+      "duration_ms": 259459,
+      "name": "Only Two at the Start",
+      "url": "https://open.spotify.com/track/0DvN8iIWKuuZPmUmqK7Amz"
     },
     {
       "added_at": "2022-04-29 23:01:28",

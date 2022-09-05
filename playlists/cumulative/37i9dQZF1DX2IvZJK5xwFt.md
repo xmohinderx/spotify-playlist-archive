@@ -4,7 +4,7 @@
 
 > Only the best rock in the world\. Cover: Megadeth
 
-195 songs - 12 hr 26 min - [published](https://open.spotify.com/playlist/4b8D1RnS1amrOmfT4hWOtA)
+196 songs - 12 hr 32 min - [published](https://open.spotify.com/playlist/4b8D1RnS1amrOmfT4hWOtA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,8 +112,9 @@
 | [my Mystery](https://open.spotify.com/track/36T5RCOBXJM7fXU4rKLSlP) | [Isyana Sarasvati](https://open.spotify.com/artist/05CRzFTp7TouOXPuH6Tapu) | [my Mystery](https://open.spotify.com/album/3tfEX6ctvTwkZwzP91mQUC) | 5:12 | 2022-06-02 |  |
 | [Needless Nostalgia](https://open.spotify.com/track/3Gk4iUoMXNL5YkaTVbvL8r) | [Anesthetic Youth](https://open.spotify.com/artist/2O6q4MZHDzJBDTcaTwMxkX) | [Needless Nostalgia](https://open.spotify.com/album/52kj1wmCLXVlVsjdkAle9k) | 4:38 | 2022-05-06 | 2022-08-12 |
 | [Nerve Flip](https://open.spotify.com/track/3cIRhs4twfgki25wLPhUqA) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Nerve Flip](https://open.spotify.com/album/4k2RZA376JAZ9XOIQlyzae) | 3:06 | 2022-06-02 | 2022-06-17 |
-| [Night Stalkers](https://open.spotify.com/track/22GAndLWMAxtAIkWtomcZC) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf), [ICE\-T](https://open.spotify.com/artist/0eGh2jSWPBX5GuqIHoZJZG) | [Soldier On! / Night Stalkers / We’ll Be Back](https://open.spotify.com/album/2qS54pyHeqvTvzdWAo91rv) | 6:38 | 2022-08-11 |  |
+| [Night Stalkers](https://open.spotify.com/track/22GAndLWMAxtAIkWtomcZC) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf), [ICE\-T](https://open.spotify.com/artist/0eGh2jSWPBX5GuqIHoZJZG) | [Soldier On! / Night Stalkers / We’ll Be Back](https://open.spotify.com/album/2qS54pyHeqvTvzdWAo91rv) | 6:38 | 2022-08-11 | 2022-09-05 |
 | [Night Stalkers](https://open.spotify.com/track/27uMsh4uGnICXv12WQd4fN) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf), [ICE\-T](https://open.spotify.com/artist/0eGh2jSWPBX5GuqIHoZJZG) | [Night Stalkers / We’ll Be Back](https://open.spotify.com/album/7E23y6lreAy6VWsxTnFx4s) | 6:38 | 2022-07-21 | 2022-08-17 |
+| [Night Stalkers](https://open.spotify.com/track/4WyO8RoNmV8n67eJixCGI6) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf), [ICE\-T](https://open.spotify.com/artist/0eGh2jSWPBX5GuqIHoZJZG) | [The Sick, The Dying… And The Dead!](https://open.spotify.com/album/1ziUtOuRT545OI4cnHEMhC) | 6:38 | 2022-09-01 |  |
 | [No Roads Left](https://open.spotify.com/track/62pPrpXsLR3Hbdw6kkA99L) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Minutes to Midnight \(Deluxe Edition\)](https://open.spotify.com/album/4JtIVJRA342O0YoAchen5Q) | 3:48 | 2022-07-07 | 2022-09-02 |
 | [No Roads Left](https://open.spotify.com/track/1MjyC4zTUZzlppH0slf4Z7) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Minutes to Midnight](https://open.spotify.com/album/108CU1JE5mXMvYM5jul8TX) | 3:48 | 2022-05-12 | 2022-07-29 |
 | [NO TURNING BACK](https://open.spotify.com/track/1GCXd0ZdUM5kbVSiOevtyf) | [NEFFEX](https://open.spotify.com/artist/3z97WMRi731dCvKklIf2X6) | [NO TURNING BACK](https://open.spotify.com/album/69JdvkOnasmaWnVIvwMGd3) | 2:38 | 2022-05-06 | 2022-06-10 |

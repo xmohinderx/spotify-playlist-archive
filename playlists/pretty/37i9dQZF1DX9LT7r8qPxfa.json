@@ -1,12 +1,12 @@
 {
   "description": "deep & dark. bold & bare. cover: Julien Baker",
-  "num_followers": 242599,
+  "num_followers": 242623,
   "original_name": "noir",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQ4NjQ2MCwwMDAwMDAwMDE5NTFmNzBhNDUxOTYxZWZkNjk2YWFlODZmMzJlMWVk",
+  "snapshot_id": "MTY2MTQ4NjQ2MCwwMDAwMDAwMGZiMzBhMDgzOTU0NDUxMmE5YTc4NmY1NmJhNWY4NTY1",
   "tracks": [
     {
       "added_at": "2021-11-12 05:00:00",
@@ -211,22 +211,6 @@
     {
       "added_at": "2021-11-12 05:00:00",
       "album": {
-        "name": "color theory",
-        "url": "https://open.spotify.com/album/2CISL0rSGzbO0MbQMlqBez"
-      },
-      "artists": [
-        {
-          "name": "Soccer Mommy",
-          "url": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
-        }
-      ],
-      "duration_ms": 435080,
-      "name": "yellow is the color of her eyes",
-      "url": "https://open.spotify.com/track/5EDBVVqd2ogoG89XVQOvsn"
-    },
-    {
-      "added_at": "2021-11-12 05:00:00",
-      "album": {
         "name": "Somewhere",
         "url": "https://open.spotify.com/album/3tqWpScYda0eUqExXOqQnm"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 246666,
       "name": "Everything I had",
       "url": "https://open.spotify.com/track/3ZWtCPAWcE7hh00mjQDOXq"
+    },
+    {
+      "added_at": "2021-11-12 05:00:00",
+      "album": {
+        "name": "color theory",
+        "url": "https://open.spotify.com/album/2CISL0rSGzbO0MbQMlqBez"
+      },
+      "artists": [
+        {
+          "name": "Soccer Mommy",
+          "url": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
+        }
+      ],
+      "duration_ms": 435080,
+      "name": "yellow is the color of her eyes",
+      "url": "https://open.spotify.com/track/5EDBVVqd2ogoG89XVQOvsn"
     },
     {
       "added_at": "2021-11-12 05:00:00",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2021-11-12 05:00:00",
       "album": {
-        "name": "Planet (i)",
-        "url": "https://open.spotify.com/album/0j5QJZWlMGIcd0tmFQXs63"
-      },
-      "artists": [
-        {
-          "name": "Squirrel Flower",
-          "url": "https://open.spotify.com/artist/7bI1v9NGBBhq8iGfytctni"
-        }
-      ],
-      "duration_ms": 236610,
-      "name": "I'll Go Running",
-      "url": "https://open.spotify.com/track/3pdzD05LaKcxuToCrM2w7b"
-    },
-    {
-      "added_at": "2021-11-12 05:00:00",
-      "album": {
         "name": "To Enjoy Is the Only Thing",
         "url": "https://open.spotify.com/album/4cVX6h32CrAhowx4WGHb6E"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 252413,
       "name": "Swimming",
       "url": "https://open.spotify.com/track/3iRzlevHgHqYyEi15CRIOQ"
+    },
+    {
+      "added_at": "2021-11-12 05:00:00",
+      "album": {
+        "name": "Planet (i)",
+        "url": "https://open.spotify.com/album/0j5QJZWlMGIcd0tmFQXs63"
+      },
+      "artists": [
+        {
+          "name": "Squirrel Flower",
+          "url": "https://open.spotify.com/artist/7bI1v9NGBBhq8iGfytctni"
+        }
+      ],
+      "duration_ms": 236610,
+      "name": "I'll Go Running",
+      "url": "https://open.spotify.com/track/3pdzD05LaKcxuToCrM2w7b"
     },
     {
       "added_at": "2021-11-12 05:00:00",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2021-11-12 05:00:00",
       "album": {
-        "name": "Kitchen Table",
-        "url": "https://open.spotify.com/album/7zTtcqJ0SCAXuiALhxNEi0"
-      },
-      "artists": [
-        {
-          "name": "Molly Parden",
-          "url": "https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5"
-        }
-      ],
-      "duration_ms": 208800,
-      "name": "Kitchen Table",
-      "url": "https://open.spotify.com/track/1XxLV1Ag179JlXq1gwICcl"
-    },
-    {
-      "added_at": "2021-11-12 05:00:00",
-      "album": {
         "name": "Eastwick / Cold Caller",
         "url": "https://open.spotify.com/album/1YQzACJ3FqQI4vqtK3e9sU"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 237015,
       "name": "Cold Caller",
       "url": "https://open.spotify.com/track/67eBpn7WYYSUcwI76Et8iN"
+    },
+    {
+      "added_at": "2021-11-12 05:00:00",
+      "album": {
+        "name": "Kitchen Table",
+        "url": "https://open.spotify.com/album/7zTtcqJ0SCAXuiALhxNEi0"
+      },
+      "artists": [
+        {
+          "name": "Molly Parden",
+          "url": "https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5"
+        }
+      ],
+      "duration_ms": 208800,
+      "name": "Kitchen Table",
+      "url": "https://open.spotify.com/track/1XxLV1Ag179JlXq1gwICcl"
     },
     {
       "added_at": "2021-11-12 05:00:00",
@@ -1379,18 +1379,18 @@
     {
       "added_at": "2021-11-12 05:00:00",
       "album": {
-        "name": "Porcupine",
-        "url": "https://open.spotify.com/album/4xctRCSg1b1K9D25NvO9L5"
+        "name": "Meet Me on the Edge of Our Ruin",
+        "url": "https://open.spotify.com/album/3Qhzb0RDdvFWkOvi025g8L"
       },
       "artists": [
         {
-          "name": "Molly Payton",
-          "url": "https://open.spotify.com/artist/6mbzLeDgokrXD05pj6kf0N"
+          "name": "Nina June",
+          "url": "https://open.spotify.com/artist/1YyIIzRWYsa0kIJpqoSTRZ"
         }
       ],
-      "duration_ms": 304773,
-      "name": "I'm Too Smart",
-      "url": "https://open.spotify.com/track/3cHUgy2YScaImqEk8ovZBz"
+      "duration_ms": 243266,
+      "name": "World on Fire",
+      "url": "https://open.spotify.com/track/4rL6I3SZwGNnz9QDbycxoC"
     },
     {
       "added_at": "2021-11-12 05:00:00",
@@ -1411,34 +1411,18 @@
     {
       "added_at": "2021-11-12 05:00:00",
       "album": {
-        "name": "Vessel",
-        "url": "https://open.spotify.com/album/6UwMhfqSFCopdNxxyEqERd"
+        "name": "Porcupine",
+        "url": "https://open.spotify.com/album/4xctRCSg1b1K9D25NvO9L5"
       },
       "artists": [
         {
-          "name": "Patricia Lalor",
-          "url": "https://open.spotify.com/artist/2m3JT2tJH5hDWkHsPwTdSd"
+          "name": "Molly Payton",
+          "url": "https://open.spotify.com/artist/6mbzLeDgokrXD05pj6kf0N"
         }
       ],
-      "duration_ms": 208242,
-      "name": "Vessel",
-      "url": "https://open.spotify.com/track/1Z8ILAI5cuxguldwB2KsdB"
-    },
-    {
-      "added_at": "2021-11-12 05:00:00",
-      "album": {
-        "name": "Meet Me on the Edge of Our Ruin",
-        "url": "https://open.spotify.com/album/3Qhzb0RDdvFWkOvi025g8L"
-      },
-      "artists": [
-        {
-          "name": "Nina June",
-          "url": "https://open.spotify.com/artist/1YyIIzRWYsa0kIJpqoSTRZ"
-        }
-      ],
-      "duration_ms": 243266,
-      "name": "World on Fire",
-      "url": "https://open.spotify.com/track/4rL6I3SZwGNnz9QDbycxoC"
+      "duration_ms": 304773,
+      "name": "I'm Too Smart",
+      "url": "https://open.spotify.com/track/3cHUgy2YScaImqEk8ovZBz"
     },
     {
       "added_at": "2021-11-12 05:00:00",
@@ -1455,6 +1439,22 @@
       "duration_ms": 211522,
       "name": "hurt",
       "url": "https://open.spotify.com/track/1azOKiKwwOVwmapgPgPTJy"
+    },
+    {
+      "added_at": "2021-11-12 05:00:00",
+      "album": {
+        "name": "Vessel",
+        "url": "https://open.spotify.com/album/6UwMhfqSFCopdNxxyEqERd"
+      },
+      "artists": [
+        {
+          "name": "Patricia Lalor",
+          "url": "https://open.spotify.com/artist/2m3JT2tJH5hDWkHsPwTdSd"
+        }
+      ],
+      "duration_ms": 208242,
+      "name": "Vessel",
+      "url": "https://open.spotify.com/track/1Z8ILAI5cuxguldwB2KsdB"
     },
     {
       "added_at": "2021-11-12 05:00:00",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2021-11-12 05:00:00",
       "album": {
-        "name": "Full Grown",
-        "url": "https://open.spotify.com/album/4yvF29Mp5z0VHqxxDOtq9T"
-      },
-      "artists": [
-        {
-          "name": "Greta Stanley",
-          "url": "https://open.spotify.com/artist/3lkwqHO5vO9jUlmJd0N5aC"
-        }
-      ],
-      "duration_ms": 229513,
-      "name": "Drunk Dreams",
-      "url": "https://open.spotify.com/track/40hZhgLAc1ANWvuht7dEV9"
-    },
-    {
-      "added_at": "2021-11-12 05:00:00",
-      "album": {
         "name": "Vampire Weeknight",
         "url": "https://open.spotify.com/album/6tpPh09H0rTNtFsKCzNtfV"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 204973,
       "name": "Vampire Weeknight",
       "url": "https://open.spotify.com/track/3pEGK96mXlfsavPTQdUHOr"
+    },
+    {
+      "added_at": "2021-11-12 05:00:00",
+      "album": {
+        "name": "Full Grown",
+        "url": "https://open.spotify.com/album/4yvF29Mp5z0VHqxxDOtq9T"
+      },
+      "artists": [
+        {
+          "name": "Greta Stanley",
+          "url": "https://open.spotify.com/artist/3lkwqHO5vO9jUlmJd0N5aC"
+        }
+      ],
+      "duration_ms": 229513,
+      "name": "Drunk Dreams",
+      "url": "https://open.spotify.com/track/40hZhgLAc1ANWvuht7dEV9"
     },
     {
       "added_at": "2021-11-12 05:00:00",

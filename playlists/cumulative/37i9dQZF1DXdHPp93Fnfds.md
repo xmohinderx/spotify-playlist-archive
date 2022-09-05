@@ -4,7 +4,7 @@
 
 > Son jóvenes, guerreras y cool\. Foto: Delfina Campos
 
-431 songs - 1 day 1 hr 2 min - [published](https://open.spotify.com/playlist/3HX8jFotLiNc9gbpMw8vKv)
+432 songs - 1 day 1 hr 7 min - [published](https://open.spotify.com/playlist/3HX8jFotLiNc9gbpMw8vKv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Amistad](https://open.spotify.com/track/7DEyv9Bi68StRGmgj88UMo) | [La Lá](https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H) | [Mito](https://open.spotify.com/album/4sXHOot4KCgIyj4Nwu5Rmm) | 4:01 | 2022-01-14 | 2022-07-29 |
 | [Amor De Metro](https://open.spotify.com/track/22ZvGUwEROSoctCybSXWSs) | [J18](https://open.spotify.com/artist/0DAA1By7FZlx94U5BO4d6Q) | [Amor De Metro](https://open.spotify.com/album/5dBilg3BLttmKUXofemJdW) | 2:15 | 2022-05-20 | 2022-06-04 |
 | [Amores](https://open.spotify.com/track/6izw3BxH0D0KUKIe9G0B4z) | [Natisú](https://open.spotify.com/artist/7BzSI3dTllADHzoJ2crQov) | [Amores](https://open.spotify.com/album/4zDQqmPh28oZqmgdcl1BUF) | 3:56 | 2022-01-21 | 2022-07-22 |
-| [Amuleto](https://open.spotify.com/track/4YM2iJsKTDYbLWpOIFSDLL) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy), [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Amuleto](https://open.spotify.com/album/1mBULwo4kN4l6fmo2R1jRh) | 3:45 | 2022-01-21 |  |
+| [Amuleto](https://open.spotify.com/track/4YM2iJsKTDYbLWpOIFSDLL) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy), [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Amuleto](https://open.spotify.com/album/1mBULwo4kN4l6fmo2R1jRh) | 3:45 | 2022-01-21 | 2022-09-05 |
 | [Ancla](https://open.spotify.com/track/7qwjFIlGWlWB4JqxGjqKIp) | [Paz Carrara](https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg) | [Ancla](https://open.spotify.com/album/6zxhQ5fk9XWNJ7RiqLq8QU) | 3:32 | 2022-05-20 | 2022-07-21 |
 | [Antes](https://open.spotify.com/track/1pnE4Unmn63LONQ52SEmHe) | [Chechi de Marcos](https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH) | [Antes \(de florecer\)](https://open.spotify.com/album/3sj339uXFqdnEWUiTb96nE) | 3:20 | 2022-02-11 | 2022-04-21 |
 | [Aprendí](https://open.spotify.com/track/6dmkQyR2K1ACuKCpi9XeLq) | [Cata Torres](https://open.spotify.com/artist/1i4RvIEPT6l7f6gzmwi1QH) | [Aprendí](https://open.spotify.com/album/5OXtmT402TOZVx9zFtwDje) | 3:06 | 2022-04-01 | 2022-04-17 |
@@ -193,7 +193,7 @@
 | [La Lluvia de Estrellas](https://open.spotify.com/track/4RlCIhIaKnSjKsmdniPM1b) | [María Fernanda Aldana](https://open.spotify.com/artist/01zNB3m5VtB1vpQllADiLY) | [Resonancia](https://open.spotify.com/album/0BwRaT6ZgLQcJOr9LWpvhF) | 2:49 | 2022-04-01 | 2022-04-17 |
 | [La Luna](https://open.spotify.com/track/6b2XIKwoVZhFEKgTkOJ5Ro) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [Antibióticx](https://open.spotify.com/album/5s8iUnO355PDLfFjSVEDGa) | 3:43 | 2022-01-21 | 2022-07-27 |
 | [La Luna](https://open.spotify.com/track/79coItEGCwZOV8SttjU9IN) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [Antibióticx](https://open.spotify.com/album/4lO3CYyULcgc6RPKfJqS02) | 3:43 | 2022-07-15 |  |
-| [La Luna](https://open.spotify.com/track/7dISBFSBaBcIip9ih3fGK0) | [CVMILLE](https://open.spotify.com/artist/5Lz2Klao37ArvAt73yMqNv), [Eve Calletti](https://open.spotify.com/artist/55eyl0WBtTXDb9jpXVS9AP) | [La Luna](https://open.spotify.com/album/2LWPcWBh5aoYF7IXKwziqd) | 2:52 | 2022-07-15 |  |
+| [La Luna](https://open.spotify.com/track/7dISBFSBaBcIip9ih3fGK0) | [CVMILLE](https://open.spotify.com/artist/5Lz2Klao37ArvAt73yMqNv), [Eve Calletti](https://open.spotify.com/artist/55eyl0WBtTXDb9jpXVS9AP) | [La Luna](https://open.spotify.com/album/2LWPcWBh5aoYF7IXKwziqd) | 2:52 | 2022-07-15 | 2022-09-05 |
 | [La Luna Y Las Melodías](https://open.spotify.com/track/4ZlwfAQkhzubvMHbwFSSpw) | [Christiane](https://open.spotify.com/artist/0gPv17HJgCgwcKNvvtR0na) | [La Luna Y Las Melodías](https://open.spotify.com/album/1JcK7fmGvIDfPqNgbb86eQ) | 3:19 | 2022-01-14 | 2022-07-23 |
 | [La Manada](https://open.spotify.com/track/42xqEQYMvIfW4DBHFWGGve) | [Papina de Palma](https://open.spotify.com/artist/2bkcXTFPnDVBhj5s7YEDx3) | [La Manada](https://open.spotify.com/album/39eY6IRUOQufdaCqAzOejK) | 2:44 | 2022-01-21 | 2022-07-06 |
 | [La Mariposa](https://open.spotify.com/track/7rwX7XG5n6uZQJb56wi6Ps) | [Evelyn Cornejo](https://open.spotify.com/artist/3wV40S9AyTLTE2b0Tp0Yo6) | [La Mariposa](https://open.spotify.com/album/6z8h6Kt2P7N89CveweUf37) | 4:28 | 2022-01-21 | 2022-07-26 |
@@ -273,7 +273,7 @@
 | [No Azara](https://open.spotify.com/track/4uIOcEPajm9DLUVZJnLFOO) | [La Muchacha](https://open.spotify.com/artist/74IAICxWfYBsjabuEbKQXV) | [No Azara](https://open.spotify.com/album/5UiqNGN6vSO7QRHosfbdHQ) | 3:56 | 2022-01-14 |  |
 | [No Está Tan Mal](https://open.spotify.com/track/5E9y8BNSVhY3CyCrUDmMeI) | [Jazmín Mazzuchelli](https://open.spotify.com/artist/0ZiRsCKLvcfyDQwbMYgAhm), [JUD](https://open.spotify.com/artist/2nsbsMDYDShTn9qi96XNDB) | [No Está Tan Mal](https://open.spotify.com/album/1lecsZUQgeiZKJ0ySteHKn) | 3:05 | 2022-04-01 | 2022-06-19 |
 | [No Preguntes](https://open.spotify.com/track/2fCZieAMbaaj76IRwEgOfS) | [Rodra](https://open.spotify.com/artist/2kobUsQpUoViHFQI2Se4TQ) | [Al Humo](https://open.spotify.com/album/4fgNWfFYTXoxkIadmc5ook) | 2:50 | 2022-02-11 | 2022-04-21 |
-| [No quería venir](https://open.spotify.com/track/6FsVhGbphT7UNIylFhgbwt) | [INE](https://open.spotify.com/artist/6ipS4LV3wt9uKWEm8q6gcB) | [No quería venir](https://open.spotify.com/album/3qHx3Gmu3Yez34wkzKCwSb) | 3:33 | 2022-06-03 | 2022-09-03 |
+| [No quería venir](https://open.spotify.com/track/6FsVhGbphT7UNIylFhgbwt) | [INE](https://open.spotify.com/artist/6ipS4LV3wt9uKWEm8q6gcB) | [No quería venir](https://open.spotify.com/album/3qHx3Gmu3Yez34wkzKCwSb) | 3:33 | 2022-06-03 |  |
 | [No Sentir Nada](https://open.spotify.com/track/5G7rYoZVdKckqoxU8HeEPb) | [Mariana Michi](https://open.spotify.com/artist/31eAzxn0H5U0iAzTokpYBR) | [No Sentir Nada](https://open.spotify.com/album/1LiWH8PyGt4qh97xGOQYxo) | 3:53 | 2022-02-11 | 2022-07-25 |
 | [No sé qué tienes](https://open.spotify.com/track/1s8QRwM3pW5ekIUKwlHsxo) | [Ire](https://open.spotify.com/artist/4ysRrzj3LSYDIhtty6ErKI) | [No sé qué tienes](https://open.spotify.com/album/11yf5SY78sbU0KlhflFv50) | 2:54 | 2022-01-21 |  |
 | [No Te Perdono](https://open.spotify.com/track/6VCtOmBEoVZ1vMVS7HBY4C) | [MUGRE](https://open.spotify.com/artist/2mJNVPV7WxtrVrPSddTW6V) | [No Te Perdono](https://open.spotify.com/album/5xp6MOD8RdA1KQsR1qSXN0) | 3:23 | 2022-01-14 | 2022-07-29 |
@@ -359,6 +359,7 @@
 | [Siguiendo Cometas](https://open.spotify.com/track/7ab9X86hyUZIA62pV4Hu23) | [Laurela](https://open.spotify.com/artist/6fw8yY5PcFEUHwCXH5dsHP) | [Siguiendo Cometas](https://open.spotify.com/album/6N568XnPFKOsCNpX1lA1Xd) | 3:40 | 2022-04-20 | 2022-07-20 |
 | [Sin control](https://open.spotify.com/track/4yNonlwveBYAglVu6lO4hw) | [Sotomayor](https://open.spotify.com/artist/13UO3EqZHeNkeDQKjUS8oH) | [Sin control](https://open.spotify.com/album/55UvtCx5rsi1djBrqEJ7tb) | 3:46 | 2022-01-14 | 2022-07-21 |
 | [Sin Miradas](https://open.spotify.com/track/7J5HcxpEn4FZ42Bndakwau) | [Fenna Frei](https://open.spotify.com/artist/2zLnIOF1Q4pejv36oLaLAw) | [Sin Miradas](https://open.spotify.com/album/674JFXLCHOc7By7JFZJCOG) | 3:38 | 2022-04-01 | 2022-06-01 |
+| [sin tu fuego](https://open.spotify.com/track/0Kwclo1cdzghNqwyKpHX2a) | [Mia Zeta](https://open.spotify.com/artist/3yYiftL3pMw7AyTLfsitUH), [Chiara Parravicini](https://open.spotify.com/artist/7CAbOypVuQA9Rk7359TMas) | [Hasta en los sueños...](https://open.spotify.com/album/2XROkO1mV6lmieLcEovpwL) | 4:18 | 2022-09-02 |  |
 | [Solo quiero sentirme bien](https://open.spotify.com/track/6jFJ0ss3vSt4vuVYY1wbVf) | [Keid](https://open.spotify.com/artist/10DNn9HHT42zKRdYGCr7Yd) | [Solo quiero sentirme bien](https://open.spotify.com/album/53t64PvlmaFmw8mhD45tU5) | 2:21 | 2022-01-14 | 2022-06-04 |
 | [Soltera](https://open.spotify.com/track/54eU7KkafnxQUioXKrWCNm) | [Juanita La O](https://open.spotify.com/artist/4E7BbNhnHWRifH0LUUsQoT) | [Soltera](https://open.spotify.com/album/0Y2d8ymerPASyiF6pDKjO1) | 2:58 | 2022-02-11 | 2022-06-19 |
 | [Somos](https://open.spotify.com/track/6IKHJSEh5a8ATDGHrJYh3j) | [Paz Court](https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm) | [Somos](https://open.spotify.com/album/5UEYKixtSCS2c8qiXDJFPc) | 3:41 | 2022-01-21 | 2022-04-09 |

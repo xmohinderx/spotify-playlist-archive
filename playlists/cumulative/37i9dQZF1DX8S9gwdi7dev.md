@@ -4,7 +4,7 @@
 
 > Fun tracks for your Halloween festivities!
 
-82 songs - 5 hr 4 min - [published](https://open.spotify.com/playlist/4eYbz1GI6qfDbenGzlw63t)
+83 songs - 5 hr 8 min - [published](https://open.spotify.com/playlist/4eYbz1GI6qfDbenGzlw63t)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,8 @@
 | [Highway to Hell](https://open.spotify.com/track/2zYzyRzz6pRmhPzyfMEC8s) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Highway to Hell](https://open.spotify.com/album/10v912xgTZbjAtYfyKWJCS) | 3:28 | 2021-10-27 |  |
 | [Hungry Like the Wolf](https://open.spotify.com/track/2qeESyQyH7MRHCBotCQsNq) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [Greatest](https://open.spotify.com/album/7xbWtTByfdMWFfxXmeFFl0) | 3:29 | 2021-10-27 |  |
 | [I Put A Spell On You \(Fifty Shades of Grey\) \- From "Fifty Shades Of Grey" Soundtrack](https://open.spotify.com/track/32YHCNItnCdiYaPbw0uTo8) | [Annie Lennox](https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum) | [Fifty Shades Of Grey \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4gnEi23PFBwHXT9rMqTsN5) | 3:30 | 2021-10-27 | 2022-07-29 |
-| [I Put A Spell On You \(Fifty Shades of Grey\) \- From "Fifty Shades Of Grey" Soundtrack](https://open.spotify.com/track/6HChE1b3T5ke2XA50t9kGd) | [Annie Lennox](https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum) | [Fifty Shades Of Grey \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/38WMYJ0LhCKAiRflk43Xt9) | 3:30 | 2021-10-27 |  |
+| [I Put A Spell On You \(Fifty Shades of Grey\) \- From "Fifty Shades Of Grey" Soundtrack](https://open.spotify.com/track/6HChE1b3T5ke2XA50t9kGd) | [Annie Lennox](https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum) | [Fifty Shades Of Grey \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/38WMYJ0LhCKAiRflk43Xt9) | 3:30 | 2021-10-27 | 2022-09-05 |
+| [I Put A Spell On You \(Fifty Shades of Grey\) \- From "Fifty Shades Of Grey" Soundtrack](https://open.spotify.com/track/6N801FdA54hqHXiEALAOGY) | [Annie Lennox](https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum) | [Voces anglo femeninas](https://open.spotify.com/album/7LxAqAWPMS8fbgeWcKEAHT) | 3:30 | 2021-10-27 |  |
 | [I Want Candy](https://open.spotify.com/track/2FMcDUopGfjBh3xMsrm78S) | [Bow Wow Wow](https://open.spotify.com/artist/52K4ArhA4OgMO7AsyEgqCT) | [We Are The '80s](https://open.spotify.com/album/3gTAnUMTCOtCHp0zb4gdSF) | 2:44 | 2021-10-27 |  |
 | [In For The Kill](https://open.spotify.com/track/2QXQ9BrS8bmfKYbHuuYkkS) | [La Roux](https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA) | [In For The Kill](https://open.spotify.com/album/6LB0G71s0AubJUgXzCsKJt) | 4:08 | 2021-10-27 | 2022-07-29 |
 | [In For The Kill](https://open.spotify.com/track/6yRraj2ghJiIcVbQ6Vb59Q) | [La Roux](https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA) | [La Roux](https://open.spotify.com/album/3CcCqXsbyjCDDSA3omcGoy) | 4:08 | 2021-10-27 |  |

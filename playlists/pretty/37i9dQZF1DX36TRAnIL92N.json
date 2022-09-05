@@ -1,12 +1,12 @@
 {
   "description": "High energy Techno to boost your workout.",
-  "num_followers": 27094,
+  "num_followers": 27489,
   "original_name": "Techno Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTUyNzY0MSwwMDAwMDAwMDM5MTBhODc1OTk5ZjcxZDE0N2Q4ODEyMTdkMDdiYTQ4",
+  "snapshot_id": "MTY2MTUyNzY0MSwwMDAwMDAwMGY4NDFjNjA3OThjNDlhOGIxZmZmZTM4ODY1NzIzOTU2",
   "tracks": [
     {
       "added_at": "2022-08-26 15:27:21",
@@ -151,22 +151,6 @@
     {
       "added_at": "2022-08-26 15:27:21",
       "album": {
-        "name": "Rock With Me",
-        "url": "https://open.spotify.com/album/7g7DbWfA0XSpsnFsyrvRlP"
-      },
-      "artists": [
-        {
-          "name": "Will Clarke",
-          "url": "https://open.spotify.com/artist/1OmOdgwIzub8DYPxQYbbbi"
-        }
-      ],
-      "duration_ms": 205696,
-      "name": "Rock With Me",
-      "url": "https://open.spotify.com/track/2BfFW4C5SIgbp33539WAah"
-    },
-    {
-      "added_at": "2022-08-26 15:27:21",
-      "album": {
         "name": "Mercury",
         "url": "https://open.spotify.com/album/5q2bsjSrluBoWf3F61Fofp"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 225346,
       "name": "Mercury",
       "url": "https://open.spotify.com/track/25dFcH5EsCJLMSmFDDJLT3"
+    },
+    {
+      "added_at": "2022-08-26 15:27:21",
+      "album": {
+        "name": "Rock With Me",
+        "url": "https://open.spotify.com/album/7g7DbWfA0XSpsnFsyrvRlP"
+      },
+      "artists": [
+        {
+          "name": "Will Clarke",
+          "url": "https://open.spotify.com/artist/1OmOdgwIzub8DYPxQYbbbi"
+        }
+      ],
+      "duration_ms": 205696,
+      "name": "Rock With Me",
+      "url": "https://open.spotify.com/track/2BfFW4C5SIgbp33539WAah"
     },
     {
       "added_at": "2022-08-26 15:27:21",
@@ -279,26 +279,6 @@
     {
       "added_at": "2022-08-26 15:27:21",
       "album": {
-        "name": "The Outsiders",
-        "url": "https://open.spotify.com/album/3mowlp2V47vxB53ER6kCDn"
-      },
-      "artists": [
-        {
-          "name": "Christian Cambas",
-          "url": "https://open.spotify.com/artist/0xTHDDgrTLK87pC4blqD6j"
-        },
-        {
-          "name": "T78",
-          "url": "https://open.spotify.com/artist/5FgLkieOqGXPn01dnbJp9Z"
-        }
-      ],
-      "duration_ms": 313700,
-      "name": "The Outsiders - T78 Remix",
-      "url": "https://open.spotify.com/track/0qP89hbMRlounSq9QDSK6v"
-    },
-    {
-      "added_at": "2022-08-26 15:27:21",
-      "album": {
         "name": "Elysium",
         "url": "https://open.spotify.com/album/524kHwv2rSFladLRO8ipCw"
       },
@@ -319,6 +299,26 @@
     {
       "added_at": "2022-08-26 15:27:21",
       "album": {
+        "name": "The Outsiders",
+        "url": "https://open.spotify.com/album/3mowlp2V47vxB53ER6kCDn"
+      },
+      "artists": [
+        {
+          "name": "Christian Cambas",
+          "url": "https://open.spotify.com/artist/0xTHDDgrTLK87pC4blqD6j"
+        },
+        {
+          "name": "T78",
+          "url": "https://open.spotify.com/artist/5FgLkieOqGXPn01dnbJp9Z"
+        }
+      ],
+      "duration_ms": 313700,
+      "name": "The Outsiders - T78 Remix",
+      "url": "https://open.spotify.com/track/0qP89hbMRlounSq9QDSK6v"
+    },
+    {
+      "added_at": "2022-08-26 15:27:21",
+      "album": {
         "name": "Timeless EP",
         "url": "https://open.spotify.com/album/6iutev2dbJ6dSkLunk50cG"
       },
@@ -335,22 +335,6 @@
     {
       "added_at": "2022-08-26 15:27:21",
       "album": {
-        "name": "MNML",
-        "url": "https://open.spotify.com/album/6p6LLo0tfRX8DqozS9n6E8"
-      },
-      "artists": [
-        {
-          "name": "Deborah de Luca",
-          "url": "https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B"
-        }
-      ],
-      "duration_ms": 390447,
-      "name": "Minimal",
-      "url": "https://open.spotify.com/track/333mKnEIccxUgOwQCCTPD8"
-    },
-    {
-      "added_at": "2022-08-26 15:27:21",
-      "album": {
         "name": "Affection",
         "url": "https://open.spotify.com/album/0Q62ehvfJy5DN51XOIVvfP"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 271729,
       "name": "Affection - Radio Edit",
       "url": "https://open.spotify.com/track/7dQWBRCRBhgbaRATAI6OqD"
+    },
+    {
+      "added_at": "2022-08-26 15:27:21",
+      "album": {
+        "name": "MNML",
+        "url": "https://open.spotify.com/album/6p6LLo0tfRX8DqozS9n6E8"
+      },
+      "artists": [
+        {
+          "name": "Deborah de Luca",
+          "url": "https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B"
+        }
+      ],
+      "duration_ms": 390447,
+      "name": "Minimal",
+      "url": "https://open.spotify.com/track/333mKnEIccxUgOwQCCTPD8"
     },
     {
       "added_at": "2022-08-26 15:27:21",
@@ -443,6 +443,22 @@
     {
       "added_at": "2022-08-26 15:27:21",
       "album": {
+        "name": "Inside My Head",
+        "url": "https://open.spotify.com/album/4hviWBBIv5SqDae4nljvEc"
+      },
+      "artists": [
+        {
+          "name": "AKKI (DE)",
+          "url": "https://open.spotify.com/artist/0hReHYoLJG38QBwYIZ8zKs"
+        }
+      ],
+      "duration_ms": 419164,
+      "name": "Inside My Head",
+      "url": "https://open.spotify.com/track/3YR7XdHKPA21815NjqWZeB"
+    },
+    {
+      "added_at": "2022-08-26 15:27:21",
+      "album": {
         "name": "In Trance",
         "url": "https://open.spotify.com/album/2kbVZWawvUewEVkbuNhri7"
       },
@@ -459,18 +475,18 @@
     {
       "added_at": "2022-08-26 15:27:21",
       "album": {
-        "name": "Adrenaline",
-        "url": "https://open.spotify.com/album/6LLsf3g5lH1Up0v09IXajh"
+        "name": "You Can't Stop Us",
+        "url": "https://open.spotify.com/album/2ysLpJ6RrQzrZQU3ZpO5rM"
       },
       "artists": [
         {
-          "name": "Deborah de Luca",
-          "url": "https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B"
+          "name": "Denise Schneider",
+          "url": "https://open.spotify.com/artist/4SEeGhPJv9I6WQl2loHMmI"
         }
       ],
-      "duration_ms": 413538,
-      "name": "Adrenaline",
-      "url": "https://open.spotify.com/track/110oOecgIEMdjl5kOLtPCd"
+      "duration_ms": 142153,
+      "name": "You Can't Stop Us",
+      "url": "https://open.spotify.com/track/39stAgopu3xQH0ZpEiNNw3"
     },
     {
       "added_at": "2022-08-26 15:27:21",
@@ -499,34 +515,18 @@
     {
       "added_at": "2022-08-26 15:27:21",
       "album": {
-        "name": "You Can't Stop Us",
-        "url": "https://open.spotify.com/album/2ysLpJ6RrQzrZQU3ZpO5rM"
+        "name": "Adrenaline",
+        "url": "https://open.spotify.com/album/6LLsf3g5lH1Up0v09IXajh"
       },
       "artists": [
         {
-          "name": "Denise Schneider",
-          "url": "https://open.spotify.com/artist/4SEeGhPJv9I6WQl2loHMmI"
+          "name": "Deborah de Luca",
+          "url": "https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B"
         }
       ],
-      "duration_ms": 142153,
-      "name": "You Can't Stop Us",
-      "url": "https://open.spotify.com/track/39stAgopu3xQH0ZpEiNNw3"
-    },
-    {
-      "added_at": "2022-08-26 15:27:21",
-      "album": {
-        "name": "Inside My Head",
-        "url": "https://open.spotify.com/album/4hviWBBIv5SqDae4nljvEc"
-      },
-      "artists": [
-        {
-          "name": "AKKI (DE)",
-          "url": "https://open.spotify.com/artist/0hReHYoLJG38QBwYIZ8zKs"
-        }
-      ],
-      "duration_ms": 419164,
-      "name": "Inside My Head",
-      "url": "https://open.spotify.com/track/3YR7XdHKPA21815NjqWZeB"
+      "duration_ms": 413538,
+      "name": "Adrenaline",
+      "url": "https://open.spotify.com/track/110oOecgIEMdjl5kOLtPCd"
     },
     {
       "added_at": "2022-08-26 15:27:21",
@@ -563,6 +563,22 @@
     {
       "added_at": "2022-08-26 15:27:21",
       "album": {
+        "name": "Together One Time",
+        "url": "https://open.spotify.com/album/3lj2pp5dJlBCLS1rHD2MHM"
+      },
+      "artists": [
+        {
+          "name": "Kaiserdisco",
+          "url": "https://open.spotify.com/artist/2lPXenWgbh51R950CMdk6i"
+        }
+      ],
+      "duration_ms": 288671,
+      "name": "Together One Time",
+      "url": "https://open.spotify.com/track/5J7b7SmcTkhmO31mF0tEja"
+    },
+    {
+      "added_at": "2022-08-26 15:27:21",
+      "album": {
         "name": "Attention",
         "url": "https://open.spotify.com/album/11gyGSY3EFkKd0g9y4aY8O"
       },
@@ -579,18 +595,18 @@
     {
       "added_at": "2022-08-26 15:27:21",
       "album": {
-        "name": "Together One Time",
-        "url": "https://open.spotify.com/album/3lj2pp5dJlBCLS1rHD2MHM"
+        "name": "Hercules",
+        "url": "https://open.spotify.com/album/4ovF2Pg29wZVZDPCSqYIRV"
       },
       "artists": [
         {
-          "name": "Kaiserdisco",
-          "url": "https://open.spotify.com/artist/2lPXenWgbh51R950CMdk6i"
+          "name": "AKKI (DE)",
+          "url": "https://open.spotify.com/artist/0hReHYoLJG38QBwYIZ8zKs"
         }
       ],
-      "duration_ms": 288671,
-      "name": "Together One Time",
-      "url": "https://open.spotify.com/track/5J7b7SmcTkhmO31mF0tEja"
+      "duration_ms": 392008,
+      "name": "Hercules",
+      "url": "https://open.spotify.com/track/56fFmIpNTFTcQSrfCNxeyu"
     },
     {
       "added_at": "2022-08-26 15:27:21",
@@ -611,22 +627,6 @@
       "duration_ms": 388500,
       "name": "Sentinel - Original Mix",
       "url": "https://open.spotify.com/track/4aWmC3OCOyPqm6JzqF2LYf"
-    },
-    {
-      "added_at": "2022-08-26 15:27:21",
-      "album": {
-        "name": "Beirut",
-        "url": "https://open.spotify.com/album/0lStXpuiJROUxFgjRGKZOp"
-      },
-      "artists": [
-        {
-          "name": "Victor Ruiz",
-          "url": "https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z"
-        }
-      ],
-      "duration_ms": 347481,
-      "name": "Omen",
-      "url": "https://open.spotify.com/track/4kC2zk1YArAcIq7K68EYok"
     },
     {
       "added_at": "2022-08-26 15:27:21",
@@ -671,22 +671,6 @@
     {
       "added_at": "2022-08-26 15:27:21",
       "album": {
-        "name": "Hercules",
-        "url": "https://open.spotify.com/album/4ovF2Pg29wZVZDPCSqYIRV"
-      },
-      "artists": [
-        {
-          "name": "AKKI (DE)",
-          "url": "https://open.spotify.com/artist/0hReHYoLJG38QBwYIZ8zKs"
-        }
-      ],
-      "duration_ms": 392008,
-      "name": "Hercules",
-      "url": "https://open.spotify.com/track/56fFmIpNTFTcQSrfCNxeyu"
-    },
-    {
-      "added_at": "2022-08-26 15:27:21",
-      "album": {
         "name": "Portal",
         "url": "https://open.spotify.com/album/6T5CoNOEybQMMYcbQhJl3G"
       },
@@ -703,18 +687,18 @@
     {
       "added_at": "2022-08-26 15:27:21",
       "album": {
-        "name": "Rush",
-        "url": "https://open.spotify.com/album/1HNzqVzl0u8EuZIoQNAWeo"
+        "name": "Beirut",
+        "url": "https://open.spotify.com/album/0lStXpuiJROUxFgjRGKZOp"
       },
       "artists": [
         {
-          "name": "Mario Ochoa",
-          "url": "https://open.spotify.com/artist/2zviRwkdWgt0rjV3cxM7mg"
+          "name": "Victor Ruiz",
+          "url": "https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z"
         }
       ],
-      "duration_ms": 396992,
-      "name": "Rush",
-      "url": "https://open.spotify.com/track/7GSCbkKiC0yW0OJt8KG9T7"
+      "duration_ms": 347481,
+      "name": "Omen",
+      "url": "https://open.spotify.com/track/4kC2zk1YArAcIq7K68EYok"
     },
     {
       "added_at": "2022-08-26 15:27:21",
@@ -735,18 +719,18 @@
     {
       "added_at": "2022-08-26 15:27:21",
       "album": {
-        "name": "Hela",
-        "url": "https://open.spotify.com/album/0adQoVV6Qbg358KdIy0Yqn"
+        "name": "Rush",
+        "url": "https://open.spotify.com/album/1HNzqVzl0u8EuZIoQNAWeo"
       },
       "artists": [
         {
-          "name": "biskuwi",
-          "url": "https://open.spotify.com/artist/2wdY7YDYVddKtVbbgh1fCT"
+          "name": "Mario Ochoa",
+          "url": "https://open.spotify.com/artist/2zviRwkdWgt0rjV3cxM7mg"
         }
       ],
-      "duration_ms": 305538,
-      "name": "Hela",
-      "url": "https://open.spotify.com/track/74BcMAMioDrbrdbAXYIrbk"
+      "duration_ms": 396992,
+      "name": "Rush",
+      "url": "https://open.spotify.com/track/7GSCbkKiC0yW0OJt8KG9T7"
     },
     {
       "added_at": "2022-08-26 15:27:21",
@@ -763,6 +747,22 @@
       "duration_ms": 192380,
       "name": "Platia",
       "url": "https://open.spotify.com/track/6wbYCyePXvS1XCsMigiZTI"
+    },
+    {
+      "added_at": "2022-08-26 15:27:21",
+      "album": {
+        "name": "Hela",
+        "url": "https://open.spotify.com/album/0adQoVV6Qbg358KdIy0Yqn"
+      },
+      "artists": [
+        {
+          "name": "biskuwi",
+          "url": "https://open.spotify.com/artist/2wdY7YDYVddKtVbbgh1fCT"
+        }
+      ],
+      "duration_ms": 305538,
+      "name": "Hela",
+      "url": "https://open.spotify.com/track/74BcMAMioDrbrdbAXYIrbk"
     },
     {
       "added_at": "2022-08-26 15:27:21",

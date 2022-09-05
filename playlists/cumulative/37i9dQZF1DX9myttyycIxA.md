@@ -4,7 +4,7 @@
 
 > Underground indie rock gems\. Cover: flipturn
 
-599 songs - 1 day 10 hr 9 min - [published](https://open.spotify.com/playlist/4XA1SOQIX98lp2gcRgRzUr)
+600 songs - 1 day 10 hr 13 min - [published](https://open.spotify.com/playlist/4XA1SOQIX98lp2gcRgRzUr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -205,7 +205,8 @@
 | [Fear](https://open.spotify.com/track/1JZw3uFeMJoY4dJ1dAmV0K) | [Chastity Belt](https://open.spotify.com/artist/1tho5dJnzdYD57EQkM3SmK) | [Fear](https://open.spotify.com/album/2MF5k89uxvzaEGxxLBzPLA) | 4:17 | 2022-04-29 | 2022-06-19 |
 | [Feel the Pain](https://open.spotify.com/track/5r2qy6NxfsLJukqllGueTa) | [Alaska Reid](https://open.spotify.com/artist/2CIThLiaeJxWgG5xAgL3p0) | [Feel the Pain](https://open.spotify.com/album/0oz8H2iVsyZhfIKz0aXQwO) | 4:24 | 2021-06-02 | 2022-04-27 |
 | [Feelings Meeting](https://open.spotify.com/track/3ZNZlQHZR4SrZf27DVJD0I) | [Living Hour](https://open.spotify.com/artist/2Ho3J07GaGcCl2ePXnjEia), [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO) | [Feelings Meeting](https://open.spotify.com/album/4Wvn9tVWMtVQESSBgfiu6y) | 3:59 | 2022-05-20 | 2022-07-29 |
-| [Feelings Meeting](https://open.spotify.com/track/6wnzgUPgQhLzlvv8UQWf64) | [Living Hour](https://open.spotify.com/artist/2Ho3J07GaGcCl2ePXnjEia), [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO) | [Feelings Meeting](https://open.spotify.com/album/3L7nYxjsSoPUxpXivTutSf) | 3:59 | 2022-05-20 |  |
+| [Feelings Meeting](https://open.spotify.com/track/6wnzgUPgQhLzlvv8UQWf64) | [Living Hour](https://open.spotify.com/artist/2Ho3J07GaGcCl2ePXnjEia), [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO) | [Feelings Meeting](https://open.spotify.com/album/3L7nYxjsSoPUxpXivTutSf) | 3:59 | 2022-05-20 | 2022-09-05 |
+| [Feelings Meeting](https://open.spotify.com/track/7yAWOJIWEbyWj9pHu2j9jD) | [Living Hour](https://open.spotify.com/artist/2Ho3J07GaGcCl2ePXnjEia), [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO) | [Someday is Today](https://open.spotify.com/album/5CnTQkaRdKn8NQ29Ig9gKe) | 3:59 | 2022-05-20 |  |
 | [Fiction](https://open.spotify.com/track/4aUjQItsB04t5an7cVq1Fs) | [Calm Canopy](https://open.spotify.com/artist/447h1Ae7Mshk1gSW4rcjK3) | [Fiction](https://open.spotify.com/album/3UwAX9we1CsibtClGkimq7) | 3:20 | 2021-03-05 | 2022-01-02 |
 | [Fire Eyes](https://open.spotify.com/track/0nXZ4ce5pUr3oOGNxfc2ZJ) | [Cape Francis](https://open.spotify.com/artist/6tnCYugShRsCcfHNGIUSq3) | [Fire Eyes](https://open.spotify.com/album/2wjMI8baH8TRM1YVs1jusO) | 3:03 | 2022-06-10 | 2022-08-06 |
 | [Flake](https://open.spotify.com/track/6uqRFrcyYKVdcxwSJtHOUI) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [Flake](https://open.spotify.com/album/4nAy8xZCkPn9WswSlsm933) | 3:07 | 2022-08-19 |  |

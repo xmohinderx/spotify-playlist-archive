@@ -1,12 +1,12 @@
 {
   "description": "De r\u00e9u a ref - o filho deles quer viver essa vida. Foto: Nochica, Vitin, SD9, JEFFRO",
-  "num_followers": 18432,
+  "num_followers": 18469,
   "original_name": "Malandro Posturado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjA4NzY2MCwwMDAwMDAwMDVmZWUzY2JhYTI3Y2E4NGM2MzE1YzYwMDBjZDRlMTE2",
+  "snapshot_id": "MTY2MjA4NzY2MCwwMDAwMDAwMDFlNTNiZTFkNTE0NzNhZTNmYWVlODVjZTRjNDRhYjgz",
   "tracks": [
     {
       "added_at": "2022-09-02 03:01:00",
@@ -167,6 +167,30 @@
     {
       "added_at": "2022-09-02 03:01:00",
       "album": {
+        "name": "12",
+        "url": "https://open.spotify.com/album/68m25Mk20x1Ux9gd9QSoPb"
+      },
+      "artists": [
+        {
+          "name": "DEGE",
+          "url": "https://open.spotify.com/artist/3lrVtMWQakf49Evasc4FFW"
+        },
+        {
+          "name": "Pedrin",
+          "url": "https://open.spotify.com/artist/7nhTCM7Tuu7NRQZsmpBIBg"
+        },
+        {
+          "name": "jess beats",
+          "url": "https://open.spotify.com/artist/7uskxjQtkzfiqHCNIIv3gD"
+        }
+      ],
+      "duration_ms": 120958,
+      "name": "12",
+      "url": "https://open.spotify.com/track/0o0wW2KjzK3Cg3RM29lCbI"
+    },
+    {
+      "added_at": "2022-09-02 03:01:00",
+      "album": {
         "name": "Os Pitbull do Ano, Pt. 2",
         "url": "https://open.spotify.com/album/6dI7q22ZoKPIzWuWDVoawl"
       },
@@ -191,30 +215,6 @@
       "duration_ms": 207976,
       "name": "Os Pitbull do Ano, Pt. 2",
       "url": "https://open.spotify.com/track/2WLjFfNF7aIdTk6SVVo6NR"
-    },
-    {
-      "added_at": "2022-09-02 03:01:00",
-      "album": {
-        "name": "12",
-        "url": "https://open.spotify.com/album/68m25Mk20x1Ux9gd9QSoPb"
-      },
-      "artists": [
-        {
-          "name": "DEGE",
-          "url": "https://open.spotify.com/artist/3lrVtMWQakf49Evasc4FFW"
-        },
-        {
-          "name": "Pedrin",
-          "url": "https://open.spotify.com/artist/7nhTCM7Tuu7NRQZsmpBIBg"
-        },
-        {
-          "name": "jess beats",
-          "url": "https://open.spotify.com/artist/7uskxjQtkzfiqHCNIIv3gD"
-        }
-      ],
-      "duration_ms": 120958,
-      "name": "12",
-      "url": "https://open.spotify.com/track/0o0wW2KjzK3Cg3RM29lCbI"
     },
     {
       "added_at": "2022-09-02 03:01:00",
@@ -299,22 +299,30 @@
     {
       "added_at": "2022-09-02 03:01:00",
       "album": {
-        "name": "Esculpido a Machado",
-        "url": "https://open.spotify.com/album/5BCSltKIxLBav5MEeF0aOh"
+        "name": "Favelado Chique",
+        "url": "https://open.spotify.com/album/3LK4YpBTi5RpBm4GxVOmiV"
       },
       "artists": [
         {
-          "name": "LEALL",
-          "url": "https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz"
+          "name": "2T",
+          "url": "https://open.spotify.com/artist/3ls0I42IWbgbZFnFCfi21m"
         },
         {
-          "name": "VHOOR",
-          "url": "https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH"
+          "name": "Chris Beats Zn",
+          "url": "https://open.spotify.com/artist/0YOr5sV4zMMyj5xviWiFjW"
+        },
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        },
+        {
+          "name": "SoudCrime",
+          "url": "https://open.spotify.com/artist/0Huu7Wxkay3mCaoMuVkRNg"
         }
       ],
-      "duration_ms": 120833,
-      "name": "Esculpido a Machado",
-      "url": "https://open.spotify.com/track/3Ukj7F16inQlhbExukF9YC"
+      "duration_ms": 163000,
+      "name": "1.5.7",
+      "url": "https://open.spotify.com/track/3dkXSYgqtNE3BlLendqGnU"
     },
     {
       "added_at": "2022-09-02 03:01:00",
@@ -343,6 +351,26 @@
     {
       "added_at": "2022-09-02 03:01:00",
       "album": {
+        "name": "Esculpido a Machado",
+        "url": "https://open.spotify.com/album/5BCSltKIxLBav5MEeF0aOh"
+      },
+      "artists": [
+        {
+          "name": "LEALL",
+          "url": "https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz"
+        },
+        {
+          "name": "VHOOR",
+          "url": "https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH"
+        }
+      ],
+      "duration_ms": 120833,
+      "name": "Esculpido a Machado",
+      "url": "https://open.spotify.com/track/3Ukj7F16inQlhbExukF9YC"
+    },
+    {
+      "added_at": "2022-09-02 03:01:00",
+      "album": {
         "name": "Mandrake",
         "url": "https://open.spotify.com/album/5VsdDBaIJUPr6Oz5tqc6Mg"
       },
@@ -355,34 +383,6 @@
       "duration_ms": 112764,
       "name": "Mandrake",
       "url": "https://open.spotify.com/track/7eL0pC73XR5EF940YEk79k"
-    },
-    {
-      "added_at": "2022-09-02 03:01:00",
-      "album": {
-        "name": "Favelado Chique",
-        "url": "https://open.spotify.com/album/3LK4YpBTi5RpBm4GxVOmiV"
-      },
-      "artists": [
-        {
-          "name": "2T",
-          "url": "https://open.spotify.com/artist/3ls0I42IWbgbZFnFCfi21m"
-        },
-        {
-          "name": "Chris Beats Zn",
-          "url": "https://open.spotify.com/artist/0YOr5sV4zMMyj5xviWiFjW"
-        },
-        {
-          "name": "Tz da Coronel",
-          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
-        },
-        {
-          "name": "SoudCrime",
-          "url": "https://open.spotify.com/artist/0Huu7Wxkay3mCaoMuVkRNg"
-        }
-      ],
-      "duration_ms": 163000,
-      "name": "1.5.7",
-      "url": "https://open.spotify.com/track/3dkXSYgqtNE3BlLendqGnU"
     },
     {
       "added_at": "2022-09-02 03:01:00",
@@ -475,6 +475,26 @@
     {
       "added_at": "2022-09-02 03:01:00",
       "album": {
+        "name": "Rap dos Novos Bandidos",
+        "url": "https://open.spotify.com/album/2rYLZlhbWbcjNJg3PiwV9O"
+      },
+      "artists": [
+        {
+          "name": "Sant",
+          "url": "https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89"
+        },
+        {
+          "name": "LP Beatzz",
+          "url": "https://open.spotify.com/artist/3WFKRRXUORuPPdH11Spele"
+        }
+      ],
+      "duration_ms": 91682,
+      "name": "Puxa o Gatilho Primeiro",
+      "url": "https://open.spotify.com/track/72BLgAUeyFgAX8T033l8Wv"
+    },
+    {
+      "added_at": "2022-09-02 03:01:00",
+      "album": {
         "name": "Infravermelho",
         "url": "https://open.spotify.com/album/3kk0Iagt9p1hYO6TpC0YPx"
       },
@@ -507,26 +527,6 @@
       "duration_ms": 186000,
       "name": "Infravermelho",
       "url": "https://open.spotify.com/track/03uTSC6wATLjv3wWme4Tzm"
-    },
-    {
-      "added_at": "2022-09-02 03:01:00",
-      "album": {
-        "name": "Rap dos Novos Bandidos",
-        "url": "https://open.spotify.com/album/2rYLZlhbWbcjNJg3PiwV9O"
-      },
-      "artists": [
-        {
-          "name": "Sant",
-          "url": "https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89"
-        },
-        {
-          "name": "LP Beatzz",
-          "url": "https://open.spotify.com/artist/3WFKRRXUORuPPdH11Spele"
-        }
-      ],
-      "duration_ms": 91682,
-      "name": "Puxa o Gatilho Primeiro",
-      "url": "https://open.spotify.com/track/72BLgAUeyFgAX8T033l8Wv"
     },
     {
       "added_at": "2022-09-02 03:01:00",
@@ -611,50 +611,6 @@
     {
       "added_at": "2022-09-02 03:01:00",
       "album": {
-        "name": "Esculpido a Machado",
-        "url": "https://open.spotify.com/album/5BCSltKIxLBav5MEeF0aOh"
-      },
-      "artists": [
-        {
-          "name": "LEALL",
-          "url": "https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz"
-        },
-        {
-          "name": "VND",
-          "url": "https://open.spotify.com/artist/1XxGXIW0xJuiW267WuDgNP"
-        },
-        {
-          "name": "Putodiparis",
-          "url": "https://open.spotify.com/artist/6EovSgXkFoczi75DiOsn4b"
-        }
-      ],
-      "duration_ms": 163943,
-      "name": "Desfile B\u00e9lico",
-      "url": "https://open.spotify.com/track/2HKkqPRwK207KezeMbiTTA"
-    },
-    {
-      "added_at": "2022-09-02 03:01:00",
-      "album": {
-        "name": "JOVEM OG",
-        "url": "https://open.spotify.com/album/62rhAAgqTCXMeM5xXGOXMJ"
-      },
-      "artists": [
-        {
-          "name": "Febem",
-          "url": "https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N"
-        },
-        {
-          "name": "CESRV",
-          "url": "https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1"
-        }
-      ],
-      "duration_ms": 188330,
-      "name": "CRIME",
-      "url": "https://open.spotify.com/track/6VZ4iuA1y0utK4YR9dMfhu"
-    },
-    {
-      "added_at": "2022-09-02 03:01:00",
-      "album": {
         "name": "Armamento do Ir\u00e3",
         "url": "https://open.spotify.com/album/6QVvYXwwQNif3EUz652PY3"
       },
@@ -683,6 +639,26 @@
     {
       "added_at": "2022-09-02 03:01:00",
       "album": {
+        "name": "JOVEM OG",
+        "url": "https://open.spotify.com/album/62rhAAgqTCXMeM5xXGOXMJ"
+      },
+      "artists": [
+        {
+          "name": "Febem",
+          "url": "https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N"
+        },
+        {
+          "name": "CESRV",
+          "url": "https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1"
+        }
+      ],
+      "duration_ms": 188330,
+      "name": "CRIME",
+      "url": "https://open.spotify.com/track/6VZ4iuA1y0utK4YR9dMfhu"
+    },
+    {
+      "added_at": "2022-09-02 03:01:00",
+      "album": {
         "name": "Bandidas Amam Mc Marcelly",
         "url": "https://open.spotify.com/album/06i2iP2VgBM9S0CsWYOzpN"
       },
@@ -703,6 +679,30 @@
       "duration_ms": 185142,
       "name": "Bandidas Amam Mc Marcelly",
       "url": "https://open.spotify.com/track/2QO4r7oo203Wb0Y4Y6RprZ"
+    },
+    {
+      "added_at": "2022-09-02 03:01:00",
+      "album": {
+        "name": "Esculpido a Machado",
+        "url": "https://open.spotify.com/album/5BCSltKIxLBav5MEeF0aOh"
+      },
+      "artists": [
+        {
+          "name": "LEALL",
+          "url": "https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz"
+        },
+        {
+          "name": "VND",
+          "url": "https://open.spotify.com/artist/1XxGXIW0xJuiW267WuDgNP"
+        },
+        {
+          "name": "Putodiparis",
+          "url": "https://open.spotify.com/artist/6EovSgXkFoczi75DiOsn4b"
+        }
+      ],
+      "duration_ms": 163943,
+      "name": "Desfile B\u00e9lico",
+      "url": "https://open.spotify.com/track/2HKkqPRwK207KezeMbiTTA"
     },
     {
       "added_at": "2022-09-02 03:01:00",
@@ -755,22 +755,18 @@
     {
       "added_at": "2022-09-02 03:01:00",
       "album": {
-        "name": "Esculpido a Machado",
-        "url": "https://open.spotify.com/album/5BCSltKIxLBav5MEeF0aOh"
+        "name": "Rumo ao Estrelato",
+        "url": "https://open.spotify.com/album/45LjNQUEzRB8cMy1sgIdw9"
       },
       "artists": [
         {
-          "name": "LEALL",
-          "url": "https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz"
-        },
-        {
-          "name": "Luna",
-          "url": "https://open.spotify.com/artist/2uY6iqNed0QZuENdRbxiaW"
+          "name": "TOKIODK",
+          "url": "https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2"
         }
       ],
-      "duration_ms": 157241,
-      "name": "Encomenda",
-      "url": "https://open.spotify.com/track/2AcXPYmNCL0928ISaAqhLw"
+      "duration_ms": 169859,
+      "name": "Rumo ao Estrelato",
+      "url": "https://open.spotify.com/track/4jQo1z3xWIGDbWDffMR4jF"
     },
     {
       "added_at": "2022-09-02 03:01:00",
@@ -819,22 +815,6 @@
     {
       "added_at": "2022-09-02 03:01:00",
       "album": {
-        "name": "Rumo ao Estrelato",
-        "url": "https://open.spotify.com/album/45LjNQUEzRB8cMy1sgIdw9"
-      },
-      "artists": [
-        {
-          "name": "TOKIODK",
-          "url": "https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2"
-        }
-      ],
-      "duration_ms": 169859,
-      "name": "Rumo ao Estrelato",
-      "url": "https://open.spotify.com/track/4jQo1z3xWIGDbWDffMR4jF"
-    },
-    {
-      "added_at": "2022-09-02 03:01:00",
-      "album": {
         "name": "Noturno",
         "url": "https://open.spotify.com/album/5zdsH90IfXwMJaPwxR1haz"
       },
@@ -855,6 +835,26 @@
       "duration_ms": 169423,
       "name": "Noturno",
       "url": "https://open.spotify.com/track/1BPNkG24sSYmzLkaUAukUW"
+    },
+    {
+      "added_at": "2022-09-02 03:01:00",
+      "album": {
+        "name": "Esculpido a Machado",
+        "url": "https://open.spotify.com/album/5BCSltKIxLBav5MEeF0aOh"
+      },
+      "artists": [
+        {
+          "name": "LEALL",
+          "url": "https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz"
+        },
+        {
+          "name": "Luna",
+          "url": "https://open.spotify.com/artist/2uY6iqNed0QZuENdRbxiaW"
+        }
+      ],
+      "duration_ms": 157241,
+      "name": "Encomenda",
+      "url": "https://open.spotify.com/track/2AcXPYmNCL0928ISaAqhLw"
     },
     {
       "added_at": "2022-09-02 03:01:00",
@@ -943,6 +943,26 @@
     {
       "added_at": "2022-09-02 03:01:00",
       "album": {
+        "name": "Vig\u00e9simo N\u00edvel",
+        "url": "https://open.spotify.com/album/1gcS8V4gzqzYJSpKNAP3HZ"
+      },
+      "artists": [
+        {
+          "name": "TOKIODK",
+          "url": "https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2"
+        },
+        {
+          "name": "LEALL",
+          "url": "https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz"
+        }
+      ],
+      "duration_ms": 157714,
+      "name": "Drillrj",
+      "url": "https://open.spotify.com/track/5JZXqNtXkhLVoVD2gRpQmB"
+    },
+    {
+      "added_at": "2022-09-02 03:01:00",
+      "album": {
         "name": "Eu Ainda",
         "url": "https://open.spotify.com/album/102v3MHRjG0nSixpmXsakd"
       },
@@ -959,34 +979,6 @@
       "duration_ms": 188229,
       "name": "Eu Ainda",
       "url": "https://open.spotify.com/track/0XiAYDYnDYlr3CCql7rM1o"
-    },
-    {
-      "added_at": "2022-09-02 03:01:00",
-      "album": {
-        "name": "Robin Hood",
-        "url": "https://open.spotify.com/album/0h5JsBVrmQganNjaLXpuPd"
-      },
-      "artists": [
-        {
-          "name": "Elic\u00ea",
-          "url": "https://open.spotify.com/artist/7IWi4NOiLz0JJ0qJhCYLN0"
-        },
-        {
-          "name": "100FACE",
-          "url": "https://open.spotify.com/artist/7fwOmpfbpAfTFXT0ZHlxwx"
-        },
-        {
-          "name": "Lil Fee",
-          "url": "https://open.spotify.com/artist/1DPa1bBQHN7FpxN8naqEEl"
-        },
-        {
-          "name": "PoetaNoBeat",
-          "url": "https://open.spotify.com/artist/3mFb9oHAuhW1RmrR7St4vP"
-        }
-      ],
-      "duration_ms": 138947,
-      "name": "Robin Hood",
-      "url": "https://open.spotify.com/track/6p9qeFk5GCSqbZglNYa48C"
     },
     {
       "added_at": "2022-09-02 03:01:00",
@@ -1015,22 +1007,30 @@
     {
       "added_at": "2022-09-02 03:01:00",
       "album": {
-        "name": "Vig\u00e9simo N\u00edvel",
-        "url": "https://open.spotify.com/album/1gcS8V4gzqzYJSpKNAP3HZ"
+        "name": "Robin Hood",
+        "url": "https://open.spotify.com/album/0h5JsBVrmQganNjaLXpuPd"
       },
       "artists": [
         {
-          "name": "TOKIODK",
-          "url": "https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2"
+          "name": "Elic\u00ea",
+          "url": "https://open.spotify.com/artist/7IWi4NOiLz0JJ0qJhCYLN0"
         },
         {
-          "name": "LEALL",
-          "url": "https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz"
+          "name": "100FACE",
+          "url": "https://open.spotify.com/artist/7fwOmpfbpAfTFXT0ZHlxwx"
+        },
+        {
+          "name": "Lil Fee",
+          "url": "https://open.spotify.com/artist/1DPa1bBQHN7FpxN8naqEEl"
+        },
+        {
+          "name": "PoetaNoBeat",
+          "url": "https://open.spotify.com/artist/3mFb9oHAuhW1RmrR7St4vP"
         }
       ],
-      "duration_ms": 157714,
-      "name": "Drillrj",
-      "url": "https://open.spotify.com/track/5JZXqNtXkhLVoVD2gRpQmB"
+      "duration_ms": 138947,
+      "name": "Robin Hood",
+      "url": "https://open.spotify.com/track/6p9qeFk5GCSqbZglNYa48C"
     },
     {
       "added_at": "2022-09-02 03:01:00",

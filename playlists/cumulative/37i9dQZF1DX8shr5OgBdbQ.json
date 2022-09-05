@@ -753,10 +753,32 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-05",
       "duration_ms": 238867,
       "name": "One More Pull",
       "url": "https://open.spotify.com/track/1Auv8vgYeK52K3bIY7Hre6"
+    },
+    {
+      "album": {
+        "name": "Wellerman",
+        "url": "https://open.spotify.com/album/6laLzUc8vCtgKZEYojvCmF"
+      },
+      "artists": [
+        {
+          "name": "The Wellermen",
+          "url": "https://open.spotify.com/artist/20q3NJtmeKSi3BTnmUFK16"
+        },
+        {
+          "name": "The Longest Johns",
+          "url": "https://open.spotify.com/artist/5k979N1TnPncUyqlXlaRSv"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238867,
+      "name": "One More Pull",
+      "url": "https://open.spotify.com/track/778rEa0Y7vuaP1B10676JW"
     },
     {
       "album": {

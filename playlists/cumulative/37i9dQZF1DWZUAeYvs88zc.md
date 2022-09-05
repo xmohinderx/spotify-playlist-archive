@@ -4,7 +4,7 @@
 
 > For all of us dancing on our own.
 
-423 songs - 23 hr 57 min - [published](https://open.spotify.com/playlist/2R1WA7zY83lPqBSpXzzos9)
+424 songs - 1 day 0 hr 0 min - [published](https://open.spotify.com/playlist/2R1WA7zY83lPqBSpXzzos9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -195,7 +195,7 @@
 | [If It Wasn't For The Nights](https://open.spotify.com/track/3R47KOuGuGvmoeQqbODPa3) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Voulez\-Vous](https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh) | 5:09 | 2022-03-25 |  |
 | [If You Let Me](https://open.spotify.com/track/5LKXxwgll43fxe1lPF7sze) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo), [GRADES](https://open.spotify.com/artist/5xtS6AoBUHhaAhxC1JN3PY) | [If You Let Me](https://open.spotify.com/album/2WTbzsNwxQ53kvZAdPBozx) | 3:52 | 2019-05-26\* | 2021-07-27 |
 | [If You Loved Me](https://open.spotify.com/track/3ExAXzgV1cbwQHLcxGwLx4) | [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [If You Loved Me](https://open.spotify.com/album/2tpHEjm8uJht1p5q0AQhzD) | 2:58 | 2019-05-31 | 2021-10-02 |
-| [If You're Gonna Lie](https://open.spotify.com/track/0mPTZjG5PElXTUIxj1nqgp) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [you ruined new york city for me](https://open.spotify.com/album/4aGGhfTv8mJ9JAiz8dsa0L) | 3:23 | 2022-07-28 |  |
+| [If You're Gonna Lie](https://open.spotify.com/track/0mPTZjG5PElXTUIxj1nqgp) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [you ruined new york city for me](https://open.spotify.com/album/4aGGhfTv8mJ9JAiz8dsa0L) | 3:23 | 2022-07-28 | 2022-09-05 |
 | [If You're Gonna Lie](https://open.spotify.com/track/4X2caEGywKxXKGImqNkBmt) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [If You're Gonna Lie](https://open.spotify.com/album/3HJzsf1y8Z3HX2qa1lcsa9) | 3:23 | 2019-06-11 | 2022-04-27 |
 | [If You're Over Me](https://open.spotify.com/track/01k24g94i1JvkFLQmVEdCd) | [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [If You're Over Me](https://open.spotify.com/album/0l3xFNgfm1mT3fLIRsgRtW) | 3:09 | 2019-05-26\* | 2021-10-16 |
 | [Ignore Me](https://open.spotify.com/track/7CSoPdRsImvRXZt9W8mvmE) | [Betty Who](https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB) | [Ignore Me](https://open.spotify.com/album/2ybeLzzZCq1fa6UCgAlx8k) | 3:15 | 2019-05-26\* | 2021-05-28 |
@@ -350,6 +350,7 @@
 | [Steal My Clothes \(feat\. Bea Miller\)](https://open.spotify.com/track/5VvUxoP2bKyps8sroie6T1) | [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe), [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [Steal My Clothes \(feat\. Bea Miller\)](https://open.spotify.com/album/6Xss8KphZhnWr2bq2tvEr4) | 2:09 | 2021-08-07 | 2021-10-27 |
 | [Still Not Made It](https://open.spotify.com/track/6p1zxVqJ3oc8MFb9v76X0Y) | [Tadhg Daly](https://open.spotify.com/artist/59HyKDC9r5zpdyq5eraay1) | [Forever Young](https://open.spotify.com/album/6eml4RwALbWZvPJKDuHiiD) | 3:14 | 2021-11-13 | 2022-07-28 |
 | [Still Wondering \- Tep No Remix](https://open.spotify.com/track/3mD8rKs6rtOO3RUwNTIweI) | [Jocelyn Alice](https://open.spotify.com/artist/7iymigONRODGl6XJIprcuF), [Tep No](https://open.spotify.com/artist/7MlotYZhHjOlXcvmwrITj8) | [Still Wondering \(Remixes\)](https://open.spotify.com/album/0w6rYptTM0hE2WOZicOTO6) | 3:55 | 2019-05-26\* | 2021-05-24 |
+| [Sting](https://open.spotify.com/track/3CRLMDJygwt1KWMg1FASye) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Sting](https://open.spotify.com/album/7yzUIJZNrla6TdWmYiziuR) | 3:07 | 2022-09-02 |  |
 | [Stole Your Car](https://open.spotify.com/track/1MTanOR2Kts7au3HtM0nez) | [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [Stole Your Car](https://open.spotify.com/album/1VsMrUvzHMR7jfc0PyG0zU) | 3:35 | 2019-05-26\* | 2021-05-27 |
 | [stranger to me](https://open.spotify.com/track/4mvy1Y1k5ICIZjCUoM87tW) | [Zachary Knowles](https://open.spotify.com/artist/5BxcZnUcETSt90VlbsdugI) | [stranger to me](https://open.spotify.com/album/0V7x1MESYbiouaWZC8vM5r) | 2:15 | 2021-06-27 | 2021-10-02 |
 | [Strangers](https://open.spotify.com/track/16k7sLX58uNRKuueVzG6jy) | [Audrey Mika](https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp) | [Strangers](https://open.spotify.com/album/6x0uRAJjOAx8BAC60QQHfj) | 2:48 | 2021-11-07 | 2022-07-29 |

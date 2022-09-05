@@ -4,7 +4,7 @@
 
 > El ritmo cumbiero que te mueve el corazón\. <br/>Foto: Leo Mattioli.
 
-171 songs - 10 hr 20 min - [published](https://open.spotify.com/playlist/6VpP8JPY2B7vhKnzWlgYHi)
+172 songs - 10 hr 23 min - [published](https://open.spotify.com/playlist/6VpP8JPY2B7vhKnzWlgYHi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,7 @@
 | [Los Amigos Que Yo Tengo](https://open.spotify.com/track/09bn42Fj5RN9J9Z63f1S7A) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG) | [Los Amigos Que Yo Tengo](https://open.spotify.com/album/63q9qE8lgsdMWdjucU23SO) | 2:57 | 2022-04-15 | 2022-07-29 |
 | [Mal Amor](https://open.spotify.com/track/0S7HkobUN0HrvaHZaQsmE5) | [La Groupera](https://open.spotify.com/artist/0vOORe7cIa49Egvl6QUVt7) | [Baila Santa Fe](https://open.spotify.com/album/0RUvlrD7zsXmEr69VRg1CU) | 3:09 | 2022-06-03 |  |
 | [Maravillosa Esta Noche](https://open.spotify.com/track/3mqvuGlzUk0YRiKzWHEQXu) | [Freddy y los Solares](https://open.spotify.com/artist/4VV2QFCzOG5Nxisme12B0b) | [Para Morir de Amor](https://open.spotify.com/album/4EQ1W80B2zpKLvsVbKYSgd) | 3:03 | 2022-06-17 | 2022-07-06 |
-| [María La Celosa](https://open.spotify.com/track/1JE5btALQhrrsm0KBKjcJ9) | [Mario Luis](https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx) | [María La Celosa](https://open.spotify.com/album/1Fzv08KCiiE7ExkWmqOofF) | 2:48 | 2022-07-01 |  |
+| [María La Celosa](https://open.spotify.com/track/1JE5btALQhrrsm0KBKjcJ9) | [Mario Luis](https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx) | [María La Celosa](https://open.spotify.com/album/1Fzv08KCiiE7ExkWmqOofF) | 2:48 | 2022-07-01 | 2022-09-05 |
 | [Matala Matala](https://open.spotify.com/track/5xY4JSm5ciMeGA47aACikk) | [Habana Combo](https://open.spotify.com/artist/7zpSH2chjM380vMwQTEOaq) | [Todo Fue un Error](https://open.spotify.com/album/1R5PN1hvvafPIRm1et6uua) | 3:49 | 2022-06-17 | 2022-07-16 |
 | [Me Dediqué a Perderte \- En Vivo](https://open.spotify.com/track/2m4nocjuXlAjrfuSqXEo46) | [Sergio Torres](https://open.spotify.com/artist/42duZ4KIXcWBEobTPLzHzg), [El Dipy](https://open.spotify.com/artist/2Bof5crSbhfBwf2pHNjPlw) | [Todo a Su Tiempo \(En Vivo\)](https://open.spotify.com/album/5QiDj5pvq28cO1s4oupY53) | 4:15 | 2022-04-15 | 2022-07-29 |
 | [Me Dediqué a Perderte \- En Vivo](https://open.spotify.com/track/7JiYdbPQK2G4sDskpcrtC2) | [Sergio Torres](https://open.spotify.com/artist/42duZ4KIXcWBEobTPLzHzg), [El Dipy](https://open.spotify.com/artist/2Bof5crSbhfBwf2pHNjPlw) | [Todo a Su Tiempo \(En Vivo\)](https://open.spotify.com/album/6ncnLdG9zt1XlpewOBSqJl) | 4:15 | 2022-07-15 |  |
@@ -128,6 +128,7 @@
 | [Piropo](https://open.spotify.com/track/70i8ZsGgXVBelUmsHXddDJ) | [Sergio Torres](https://open.spotify.com/artist/42duZ4KIXcWBEobTPLzHzg) | [Marca Registrada](https://open.spotify.com/album/5dYAPQdnmtlneTu9U468sx) | 3:08 | 2022-06-03 | 2022-07-29 |
 | [Placer y Olvido](https://open.spotify.com/track/5R4Lbt2Y8MIR1SZ0z8nZvw) | [Coty Hernández](https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE) | [Placer y Olvido](https://open.spotify.com/album/3KI5DtLen1YhOUfi2MdJRm) | 3:53 | 2022-04-15 |  |
 | [Por Qué Te Vas?](https://open.spotify.com/track/16A2PqIXMWuiHnzW5GLG9n) | [Sergio Torres](https://open.spotify.com/artist/42duZ4KIXcWBEobTPLzHzg) | [Por Qué Te Vas?](https://open.spotify.com/album/4a3P8A0wjzFeF8u2JBnOlR) | 4:11 | 2022-06-17 | 2022-07-12 |
+| [Porqué Les Mientes](https://open.spotify.com/track/3jh7wZ6QGEVu5i5HM6xbk3) | [Coty Hernández](https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE) | [Un Nuevo Desafío](https://open.spotify.com/album/7vlYe0SeAaPzRS3ehgtq18) | 3:40 | 2022-09-02 |  |
 | [Porqué Les Mientes](https://open.spotify.com/track/752j9FabixCNPWHU2nByil) | [Coty Hernández](https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE) | [Un Nuevo Desafío](https://open.spotify.com/album/6FFl7UY3UxwLgXIm0rbHM4) | 3:40 | 2022-06-17 | 2022-06-27 |
 | [Privado de la Libertad](https://open.spotify.com/track/22Kg1EgpBn47gi6mO8eWe4) | [Yuli y Los Girasoles](https://open.spotify.com/artist/3WN801ZTlM5MxIpircGrsO) | [Tropibaile Santafesino, Vol\. 6](https://open.spotify.com/album/4CTo8Azvk9es5d3Hb6I5Ev) | 4:04 | 2022-06-17 | 2022-07-02 |
 | [Que Precio Tiene El Cielo](https://open.spotify.com/track/4p7WDW0Mh0GmDSmqF8e4wi) | [Coty](https://open.spotify.com/artist/7v8veUQH2fro2QjkOKS7vB) | [Cómo Le Gusta A Mi Gente](https://open.spotify.com/album/3DTqYBYOIkV3lq14dJDckg) | 4:13 | 2022-04-15 |  |

@@ -1,12 +1,12 @@
 {
   "description": "House and disco jams with an 80s-infused retro flavour.",
-  "num_followers": 50834,
+  "num_followers": 50744,
   "original_name": "Laser Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzMDA3OTEwMSwwMDAwMDAwMDhjY2QxZjkzZDMzNDBjMGZjOGY5MDdmMThjZWE2OTkx",
+  "snapshot_id": "MTYzMDA3OTEwMSwwMDAwMDAwMGQ0ZWVjM2ZjNDBlZWQzMTE2YThhOWU2NmE0NDM4NjA4",
   "tracks": [
     {
       "added_at": "2021-08-27 15:45:01",
@@ -191,22 +191,6 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
-        "name": "First Wave",
-        "url": "https://open.spotify.com/album/3loLbxl5tuqHnYxXx80VQ6"
-      },
-      "artists": [
-        {
-          "name": "Roland Tings",
-          "url": "https://open.spotify.com/artist/0hTV7lch0OcKcMn6RYgOLR"
-        }
-      ],
-      "duration_ms": 278755,
-      "name": "First Wave",
-      "url": "https://open.spotify.com/track/38MZpQ8TQxUPBWgXbgt1wx"
-    },
-    {
-      "added_at": "2021-08-27 15:45:01",
-      "album": {
         "name": "Mixmag Presents Teddy Pendergrass: The Remixes - EP",
         "url": "https://open.spotify.com/album/1pwd4Ug25kzaZbdHDhT1Ho"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 527986,
       "name": "Life Is A Song Worth Singing - Jamie Jones Remix",
       "url": "https://open.spotify.com/track/3MN8hmy8vFs0GcZhVxWLlh"
+    },
+    {
+      "added_at": "2021-08-27 15:45:01",
+      "album": {
+        "name": "First Wave",
+        "url": "https://open.spotify.com/album/3loLbxl5tuqHnYxXx80VQ6"
+      },
+      "artists": [
+        {
+          "name": "Roland Tings",
+          "url": "https://open.spotify.com/artist/0hTV7lch0OcKcMn6RYgOLR"
+        }
+      ],
+      "duration_ms": 278755,
+      "name": "First Wave",
+      "url": "https://open.spotify.com/track/38MZpQ8TQxUPBWgXbgt1wx"
     },
     {
       "added_at": "2021-08-27 15:45:01",
@@ -355,6 +355,22 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
+        "name": "Street Rave EP",
+        "url": "https://open.spotify.com/album/4PGKNufqew8YzLUViGgvon"
+      },
+      "artists": [
+        {
+          "name": "Ewan McVicar",
+          "url": "https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH"
+        }
+      ],
+      "duration_ms": 241889,
+      "name": "Street Rave - Edit",
+      "url": "https://open.spotify.com/track/3iThvzWqPdZdgLnKDJGRaf"
+    },
+    {
+      "added_at": "2021-08-27 15:45:01",
+      "album": {
         "name": "Giving Up On (Alan Dixon Remix)",
         "url": "https://open.spotify.com/album/1DBWInKdDJNULdOigOID9t"
       },
@@ -375,22 +391,6 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
-        "name": "Street Rave EP",
-        "url": "https://open.spotify.com/album/4PGKNufqew8YzLUViGgvon"
-      },
-      "artists": [
-        {
-          "name": "Ewan McVicar",
-          "url": "https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH"
-        }
-      ],
-      "duration_ms": 241889,
-      "name": "Street Rave - Edit",
-      "url": "https://open.spotify.com/track/3iThvzWqPdZdgLnKDJGRaf"
-    },
-    {
-      "added_at": "2021-08-27 15:45:01",
-      "album": {
         "name": "Music Made Paradise",
         "url": "https://open.spotify.com/album/3SXL5zoZi1fvPCg1Ia6hRU"
       },
@@ -407,22 +407,6 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
-        "name": "Queen of Hearts",
-        "url": "https://open.spotify.com/album/3ajvK2fDmbEuUrGCGMeque"
-      },
-      "artists": [
-        {
-          "name": "Monki",
-          "url": "https://open.spotify.com/artist/30C3E9bYfEQPAY9MweeUVe"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "Queen of Hearts",
-      "url": "https://open.spotify.com/track/0AjOXYBi68jDSQT7n5Ng1c"
-    },
-    {
-      "added_at": "2021-08-27 15:45:01",
-      "album": {
         "name": "Unleashed Tapes Vol. 1",
         "url": "https://open.spotify.com/album/5RvIMDFgtLTIGSgGewq4gG"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 385361,
       "name": "Blue Tuesday",
       "url": "https://open.spotify.com/track/2tFz3AlZ1GUacsccZgo2Mt"
+    },
+    {
+      "added_at": "2021-08-27 15:45:01",
+      "album": {
+        "name": "Queen of Hearts",
+        "url": "https://open.spotify.com/album/3ajvK2fDmbEuUrGCGMeque"
+      },
+      "artists": [
+        {
+          "name": "Monki",
+          "url": "https://open.spotify.com/artist/30C3E9bYfEQPAY9MweeUVe"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Queen of Hearts",
+      "url": "https://open.spotify.com/track/0AjOXYBi68jDSQT7n5Ng1c"
     },
     {
       "added_at": "2021-08-27 15:45:01",
@@ -611,22 +611,6 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
-        "name": "Hymnotic",
-        "url": "https://open.spotify.com/album/6UlbePpX6dvFF24UfxFEuk"
-      },
-      "artists": [
-        {
-          "name": "Future Breeze",
-          "url": "https://open.spotify.com/artist/2Qa4UBwzhEFt1Tpj95cZls"
-        }
-      ],
-      "duration_ms": 262677,
-      "name": "Hymnotic",
-      "url": "https://open.spotify.com/track/2GKICfOOYlFAiwALLEPTJu"
-    },
-    {
-      "added_at": "2021-08-27 15:45:01",
-      "album": {
         "name": "In My Element (Skream Remix)",
         "url": "https://open.spotify.com/album/615KSINGHRzvojc2VGQ97U"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 360000,
       "name": "In My Element - Skream Remix",
       "url": "https://open.spotify.com/track/3LtOC0fsGjmhOg5E78lIFW"
+    },
+    {
+      "added_at": "2021-08-27 15:45:01",
+      "album": {
+        "name": "Hymnotic",
+        "url": "https://open.spotify.com/album/6UlbePpX6dvFF24UfxFEuk"
+      },
+      "artists": [
+        {
+          "name": "Future Breeze",
+          "url": "https://open.spotify.com/artist/2Qa4UBwzhEFt1Tpj95cZls"
+        }
+      ],
+      "duration_ms": 262677,
+      "name": "Hymnotic",
+      "url": "https://open.spotify.com/track/2GKICfOOYlFAiwALLEPTJu"
     },
     {
       "added_at": "2021-08-27 15:45:01",
@@ -667,22 +667,6 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
-        "name": "Fantasia",
-        "url": "https://open.spotify.com/album/29uIxgnBAojrM6NFUBasxq"
-      },
-      "artists": [
-        {
-          "name": "Fort Romeau",
-          "url": "https://open.spotify.com/artist/5MKqWyqq5CStK7AhkTvzQF"
-        }
-      ],
-      "duration_ms": 393973,
-      "name": "Fantasia",
-      "url": "https://open.spotify.com/track/2eQ5IRgLQAVwTgCx4IfBDE"
-    },
-    {
-      "added_at": "2021-08-27 15:45:01",
-      "album": {
         "name": "Inglorious Express EP",
         "url": "https://open.spotify.com/album/5lCI3qcSWRrIBATyqJZFtt"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 400259,
       "name": "Prisoner Of Love",
       "url": "https://open.spotify.com/track/0LUcldwbzxW97CU6K6L0Ka"
+    },
+    {
+      "added_at": "2021-08-27 15:45:01",
+      "album": {
+        "name": "Fantasia",
+        "url": "https://open.spotify.com/album/29uIxgnBAojrM6NFUBasxq"
+      },
+      "artists": [
+        {
+          "name": "Fort Romeau",
+          "url": "https://open.spotify.com/artist/5MKqWyqq5CStK7AhkTvzQF"
+        }
+      ],
+      "duration_ms": 393973,
+      "name": "Fantasia",
+      "url": "https://open.spotify.com/track/2eQ5IRgLQAVwTgCx4IfBDE"
     },
     {
       "added_at": "2021-08-27 15:45:01",
@@ -783,22 +783,6 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
-        "name": "Nothing Stays in One Place for Long",
-        "url": "https://open.spotify.com/album/6LG30qpC6gwWTx4JsGWGf9"
-      },
-      "artists": [
-        {
-          "name": "Massimiliano Pagliara",
-          "url": "https://open.spotify.com/artist/6rr6POhpIL25CJFS3o3Dym"
-        }
-      ],
-      "duration_ms": 318426,
-      "name": "Accidentally We Rushed",
-      "url": "https://open.spotify.com/track/6jYu8ME42CQX7IsQuJToe1"
-    },
-    {
-      "added_at": "2021-08-27 15:45:01",
-      "album": {
         "name": "Italo Disco",
         "url": "https://open.spotify.com/album/0vZrlHYbxOtIMjQUmPGshi"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 205078,
       "name": "Roma",
       "url": "https://open.spotify.com/track/5TiwTIba6lYkRtv1IFxxIU"
+    },
+    {
+      "added_at": "2021-08-27 15:45:01",
+      "album": {
+        "name": "Nothing Stays in One Place for Long",
+        "url": "https://open.spotify.com/album/6LG30qpC6gwWTx4JsGWGf9"
+      },
+      "artists": [
+        {
+          "name": "Massimiliano Pagliara",
+          "url": "https://open.spotify.com/artist/6rr6POhpIL25CJFS3o3Dym"
+        }
+      ],
+      "duration_ms": 318426,
+      "name": "Accidentally We Rushed",
+      "url": "https://open.spotify.com/track/6jYu8ME42CQX7IsQuJToe1"
     },
     {
       "added_at": "2021-08-27 15:45:01",

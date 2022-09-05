@@ -4,7 +4,7 @@
 
 > The biggest Christmas songs of all time.
 
-161 songs - 8 hr 37 min - [published](https://open.spotify.com/playlist/7l6IxKG32LlSCNWmOjozYs)
+162 songs - 8 hr 42 min - [published](https://open.spotify.com/playlist/7l6IxKG32LlSCNWmOjozYs)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,8 @@
 | [Christmas Love](https://open.spotify.com/track/3RH9idbxUAMcUldet2ormp) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Under The Mistletoe \(Deluxe Edition\)](https://open.spotify.com/album/63MKT9hwmiMFFdFp5SdB1p) | 3:26 | 2022-06-01 |  |
 | [Christmas Love](https://open.spotify.com/track/3Xr6kOC4De4Lk41lF9nzTy) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Under The Mistletoe \(Deluxe Edition\)](https://open.spotify.com/album/1wEnjjF0dtWufdTzWeQAm2) | 3:26 | 2021-12-16 | 2022-07-29 |
 | [Christmas Time](https://open.spotify.com/track/1eh5mDCjo7XbDNY5tYiNVU) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Christmas Hits](https://open.spotify.com/album/6Mtye5lhYh1JtHenUkIsH6) | 4:15 | 2021-12-16 | 2022-07-29 |
-| [Christmas Time](https://open.spotify.com/track/34SgyEldou6nZXZDukDKEk) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Platinum Christmas](https://open.spotify.com/album/2QOXihEHXgubvkbBYBPHkQ) | 4:16 | 2022-06-01 |  |
+| [Christmas Time](https://open.spotify.com/track/6ZWBIPOfmlbOlLH0ZCucl8) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Weihnachten Hits](https://open.spotify.com/album/0j0lLU8dlUvlIoOiWTI3Sh) | 4:15 | 2022-06-01 |  |
+| [Christmas Time](https://open.spotify.com/track/34SgyEldou6nZXZDukDKEk) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Platinum Christmas](https://open.spotify.com/album/2QOXihEHXgubvkbBYBPHkQ) | 4:16 | 2022-06-01 | 2022-09-05 |
 | [Christmas Time Is Here](https://open.spotify.com/track/1moEucbMhmAK6KVPoNw6ms) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Glow \(Deluxe Edition\)](https://open.spotify.com/album/1MRT2V3JLYB6fL2TLJy2Rd) | 3:30 | 2021-12-16 |  |
 | [Christmas Tree Farm](https://open.spotify.com/track/2mvabkN1i2gLnGAPUVdwek) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Christmas Tree Farm](https://open.spotify.com/album/5JnnrTE35MQagEnEkFthiF) | 3:48 | 2021-12-16 |  |
 | [Christmas Without You](https://open.spotify.com/track/1QLZKzC2pjP4ySf4ALrNhm) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Christmas Without You](https://open.spotify.com/album/4vxk8Q78WLINHtJpDSuvq7) | 2:49 | 2021-12-16 |  |

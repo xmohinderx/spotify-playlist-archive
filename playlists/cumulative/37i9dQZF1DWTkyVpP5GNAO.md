@@ -4,7 +4,7 @@
 
 > A Dios sea toda la gloria y alabanza\. Foto: Miel San Marcos, Ingrid Rosario
 
-120 songs - 11 hr 25 min - [published](https://open.spotify.com/playlist/6XERtpxula7zdB3WFxiDds)
+121 songs - 11 hr 31 min - [published](https://open.spotify.com/playlist/6XERtpxula7zdB3WFxiDds)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,7 +101,8 @@
 | [Que Se Llene Tu Casa](https://open.spotify.com/track/3fJc3GDymadn48CQjhIrxF) | [Ingrid Rosario](https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE) | [Cuan Gran Amor](https://open.spotify.com/album/1lhXRDxeKylK9Ljidc9dCN) | 4:08 | 2021-07-23 |  |
 | [Quiebro Mi Vaso](https://open.spotify.com/track/5avK5PzULHpdcxtkJje9JR) | [André Aquino](https://open.spotify.com/artist/6xHt6gUd0LMPtKm0XokFiq), [Barak](https://open.spotify.com/artist/2IzxJqK9NbSIdw7rQVW03P) | [Quiebro Mi Vaso](https://open.spotify.com/album/7nJYGdim5Ka9ikAirrQiMY) | 7:10 | 2021-07-23 | 2022-07-29 |
 | [Quiebro Mi Vaso](https://open.spotify.com/track/7iYb9oTMZ97gyY4gAYNpnC) | [André Aquino](https://open.spotify.com/artist/6xHt6gUd0LMPtKm0XokFiq), [Barak](https://open.spotify.com/artist/2IzxJqK9NbSIdw7rQVW03P) | [Quiebro Mi Vaso](https://open.spotify.com/album/6lCByyE1C9W5jUzke8Nwte) | 7:10 | 2021-07-23 |  |
-| [Quiero Más](https://open.spotify.com/track/1tDpk10hfq6cj6Qxixzni1) | [Omar Salas](https://open.spotify.com/artist/3E2IitJNIbpATIAvtJPUzd), [Any Puello](https://open.spotify.com/artist/2U29Wo3uVE9gKvr8fg4gJU), [Camino a Casa](https://open.spotify.com/artist/6Q5vcfrBhZ1PEdEvqykKEC) | [Quiero Más](https://open.spotify.com/album/5ufzprrcRznp6QbVbS0Z8u) | 6:06 | 2021-07-23 |  |
+| [Quiero Más](https://open.spotify.com/track/1tDpk10hfq6cj6Qxixzni1) | [Omar Salas](https://open.spotify.com/artist/3E2IitJNIbpATIAvtJPUzd), [Any Puello](https://open.spotify.com/artist/2U29Wo3uVE9gKvr8fg4gJU), [Camino a Casa](https://open.spotify.com/artist/6Q5vcfrBhZ1PEdEvqykKEC) | [Quiero Más](https://open.spotify.com/album/5ufzprrcRznp6QbVbS0Z8u) | 6:06 | 2021-07-23 | 2022-09-05 |
+| [Quiero más](https://open.spotify.com/track/77v1o59NzTsfmRpnfAkuf6) | [Omar Salas](https://open.spotify.com/artist/3E2IitJNIbpATIAvtJPUzd), [Any Puello](https://open.spotify.com/artist/2U29Wo3uVE9gKvr8fg4gJU), [Camino a Casa](https://open.spotify.com/artist/6Q5vcfrBhZ1PEdEvqykKEC) | [Quiero Más](https://open.spotify.com/album/3fRvGnuJ0QxJGYYmXgCn15) | 6:06 | 2021-07-23 |  |
 | [Recuérdame](https://open.spotify.com/track/0HLeUMjLyJBOjnx9KnNB3H) | [Living](https://open.spotify.com/artist/2miffAnnUvKSyB9ykA2su9) | [La Mejor Parte](https://open.spotify.com/album/6LWcpiZYaTMYuAThn8pHQe) | 3:30 | 2021-07-23 |  |
 | [Recuérdame](https://open.spotify.com/track/1EUGneZLImNRBHtTZyaLuK) | [Living](https://open.spotify.com/artist/2miffAnnUvKSyB9ykA2su9) | [Recuérdame](https://open.spotify.com/album/3vP22lmNAKfLqc72ANgOV5) | 3:30 | 2021-07-23 | 2022-07-29 |
 | [Redención \(Redenção\)](https://open.spotify.com/track/7xICC4cuIDw6p8fMk4ltdo) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Redención](https://open.spotify.com/album/6gIsv3ZQysvQzvJO4Dcbs5) | 4:33 | 2021-07-23 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Country Music that ROCKS!!  \nCover: Kendall Marvel",
-  "num_followers": 470146,
+  "num_followers": 469914,
   "original_name": "Country Rocks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjAwNDg2MCwwMDAwMDAwMDA5Yjg3YzI0OTkyNWYzODNmOTlkMTU3MzQyMTgxNWYw",
+  "snapshot_id": "MTY2MjAwNDg2MCwwMDAwMDAwMDk2ZjgyMmVlYzY0ZDI3Y2M2YTRkYzQzYjM1YTE5Y2Vl",
   "tracks": [
     {
       "added_at": "2022-08-26 04:02:00",
@@ -343,22 +343,6 @@
     {
       "added_at": "2022-08-26 04:02:00",
       "album": {
-        "name": "Heart",
-        "url": "https://open.spotify.com/album/5aWReU8nqP0WiJPRwiNTyt"
-      },
-      "artists": [
-        {
-          "name": "Eric Church",
-          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
-        }
-      ],
-      "duration_ms": 258799,
-      "name": "Heart On Fire",
-      "url": "https://open.spotify.com/track/0ysCB1Jg4hli0XlEWlipo7"
-    },
-    {
-      "added_at": "2022-08-26 04:02:00",
-      "album": {
         "name": "Starting Over",
         "url": "https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 231720,
       "name": "Devil Always Made Me Think Twice",
       "url": "https://open.spotify.com/track/3olGkpomYOWwRZsbFTZqiX"
+    },
+    {
+      "added_at": "2022-08-26 04:02:00",
+      "album": {
+        "name": "Heart",
+        "url": "https://open.spotify.com/album/5aWReU8nqP0WiJPRwiNTyt"
+      },
+      "artists": [
+        {
+          "name": "Eric Church",
+          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
+        }
+      ],
+      "duration_ms": 258799,
+      "name": "Heart On Fire",
+      "url": "https://open.spotify.com/track/0ysCB1Jg4hli0XlEWlipo7"
     },
     {
       "added_at": "2022-08-26 04:02:00",
@@ -471,6 +471,22 @@
     {
       "added_at": "2022-08-26 04:02:00",
       "album": {
+        "name": "From A Room: Volume 2",
+        "url": "https://open.spotify.com/album/24fkX2Gdqw4a6pR9BUYbE5"
+      },
+      "artists": [
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "duration_ms": 222653,
+      "name": "Midnight Train To Memphis",
+      "url": "https://open.spotify.com/track/6tInq1Sn2eehdsQGA9Aafh"
+    },
+    {
+      "added_at": "2022-08-26 04:02:00",
+      "album": {
         "name": "Breaking News",
         "url": "https://open.spotify.com/album/5cMBd65MGVa8H7sEt9Y8Li"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 220234,
       "name": "Breaking News",
       "url": "https://open.spotify.com/track/66cdCIrACw7lCLjeUQKx6v"
-    },
-    {
-      "added_at": "2022-08-26 04:02:00",
-      "album": {
-        "name": "I Only Date Cowboys",
-        "url": "https://open.spotify.com/album/6haivFChfJxUDTm0DytCpI"
-      },
-      "artists": [
-        {
-          "name": "Kylie Morgan",
-          "url": "https://open.spotify.com/artist/3g2yaL04Uapb5fxmwsUZgV"
-        }
-      ],
-      "duration_ms": 176813,
-      "name": "I Only Date Cowboys",
-      "url": "https://open.spotify.com/track/0Jq7igSKyTZxkvLoqr0bsX"
     },
     {
       "added_at": "2022-08-26 04:02:00",
@@ -519,18 +519,18 @@
     {
       "added_at": "2022-08-26 04:02:00",
       "album": {
-        "name": "From A Room: Volume 2",
-        "url": "https://open.spotify.com/album/24fkX2Gdqw4a6pR9BUYbE5"
+        "name": "I Only Date Cowboys",
+        "url": "https://open.spotify.com/album/6haivFChfJxUDTm0DytCpI"
       },
       "artists": [
         {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+          "name": "Kylie Morgan",
+          "url": "https://open.spotify.com/artist/3g2yaL04Uapb5fxmwsUZgV"
         }
       ],
-      "duration_ms": 222653,
-      "name": "Midnight Train To Memphis",
-      "url": "https://open.spotify.com/track/6tInq1Sn2eehdsQGA9Aafh"
+      "duration_ms": 176813,
+      "name": "I Only Date Cowboys",
+      "url": "https://open.spotify.com/track/0Jq7igSKyTZxkvLoqr0bsX"
     },
     {
       "added_at": "2022-08-26 04:02:00",
@@ -599,18 +599,18 @@
     {
       "added_at": "2022-08-26 04:02:00",
       "album": {
-        "name": "Gold Chain Cowboy",
-        "url": "https://open.spotify.com/album/6uiblZVOgKdhYp96cSCtqu"
+        "name": "One Hell of an Angel",
+        "url": "https://open.spotify.com/album/4qngZnFUHmu4I3cGpENpWF"
       },
       "artists": [
         {
-          "name": "Parker McCollum",
-          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
         }
       ],
-      "duration_ms": 201173,
-      "name": "Wait Outside",
-      "url": "https://open.spotify.com/track/3FemRrmhLglpUFS3qOijE2"
+      "duration_ms": 211517,
+      "name": "One Hell of an Angel",
+      "url": "https://open.spotify.com/track/1SniaPt656Q2RJFOh5QBPK"
     },
     {
       "added_at": "2022-08-26 04:02:00",
@@ -631,18 +631,18 @@
     {
       "added_at": "2022-08-26 04:02:00",
       "album": {
-        "name": "One Hell of an Angel",
-        "url": "https://open.spotify.com/album/4qngZnFUHmu4I3cGpENpWF"
+        "name": "Gold Chain Cowboy",
+        "url": "https://open.spotify.com/album/6uiblZVOgKdhYp96cSCtqu"
       },
       "artists": [
         {
-          "name": "Warren Zeiders",
-          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
         }
       ],
-      "duration_ms": 211517,
-      "name": "One Hell of an Angel",
-      "url": "https://open.spotify.com/track/1SniaPt656Q2RJFOh5QBPK"
+      "duration_ms": 201173,
+      "name": "Wait Outside",
+      "url": "https://open.spotify.com/track/3FemRrmhLglpUFS3qOijE2"
     },
     {
       "added_at": "2022-08-26 04:02:00",
@@ -931,6 +931,22 @@
     {
       "added_at": "2022-08-26 04:02:00",
       "album": {
+        "name": "Black Powder Soul",
+        "url": "https://open.spotify.com/album/7FQI1x1uimqWaAtLw1qZvy"
+      },
+      "artists": [
+        {
+          "name": "Taylor McCall",
+          "url": "https://open.spotify.com/artist/5f1cs8LexmMYbhNEIOsDLT"
+        }
+      ],
+      "duration_ms": 216153,
+      "name": "Black Powder Soul",
+      "url": "https://open.spotify.com/track/0KbCBafoO4ShzNvkcY2cJe"
+    },
+    {
+      "added_at": "2022-08-26 04:02:00",
+      "album": {
         "name": "Cloud of Dust (feat. The Gronkowski Brothers)",
         "url": "https://open.spotify.com/album/72EWD9Ef18RP1lV5jQ9bCC"
       },
@@ -983,22 +999,6 @@
     {
       "added_at": "2022-08-26 04:02:00",
       "album": {
-        "name": "Black Powder Soul",
-        "url": "https://open.spotify.com/album/7FQI1x1uimqWaAtLw1qZvy"
-      },
-      "artists": [
-        {
-          "name": "Taylor McCall",
-          "url": "https://open.spotify.com/artist/5f1cs8LexmMYbhNEIOsDLT"
-        }
-      ],
-      "duration_ms": 216153,
-      "name": "Black Powder Soul",
-      "url": "https://open.spotify.com/track/0KbCBafoO4ShzNvkcY2cJe"
-    },
-    {
-      "added_at": "2022-08-26 04:02:00",
-      "album": {
         "name": "Stack of Records",
         "url": "https://open.spotify.com/album/7AzZB0UHZtWu7Ya8yQN3iW"
       },
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2022-08-26 04:02:00",
       "album": {
+        "name": "Dodge Out Of Hell",
+        "url": "https://open.spotify.com/album/3VEVl40QzaIRHBRFGujTIt"
+      },
+      "artists": [
+        {
+          "name": "Tim Hicks",
+          "url": "https://open.spotify.com/artist/05kfnkzu8HdqnCdHHkJeci"
+        }
+      ],
+      "duration_ms": 192226,
+      "name": "Dodge Out Of Hell",
+      "url": "https://open.spotify.com/track/1JV425vD0dWil9boakNIHf"
+    },
+    {
+      "added_at": "2022-08-26 04:02:00",
+      "album": {
         "name": "Whole World Gone Crazy",
         "url": "https://open.spotify.com/album/7GhLQmRmvFJUu2jcoNyJur"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 184760,
       "name": "Whole World Gone Crazy",
       "url": "https://open.spotify.com/track/6sEVFnBN97Fcq065OsUMVI"
-    },
-    {
-      "added_at": "2022-08-26 04:02:00",
-      "album": {
-        "name": "Excuses",
-        "url": "https://open.spotify.com/album/4LAo9lNxakhW24GiAW0P6t"
-      },
-      "artists": [
-        {
-          "name": "Kolby Cooper",
-          "url": "https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx"
-        }
-      ],
-      "duration_ms": 206646,
-      "name": "Excuses",
-      "url": "https://open.spotify.com/track/2dXZhZ6OgUPAaiwJs8yR79"
     },
     {
       "added_at": "2022-08-26 04:02:00",
@@ -1071,18 +1071,18 @@
     {
       "added_at": "2022-08-26 04:02:00",
       "album": {
-        "name": "Dodge Out Of Hell",
-        "url": "https://open.spotify.com/album/3VEVl40QzaIRHBRFGujTIt"
+        "name": "Excuses",
+        "url": "https://open.spotify.com/album/4LAo9lNxakhW24GiAW0P6t"
       },
       "artists": [
         {
-          "name": "Tim Hicks",
-          "url": "https://open.spotify.com/artist/05kfnkzu8HdqnCdHHkJeci"
+          "name": "Kolby Cooper",
+          "url": "https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx"
         }
       ],
-      "duration_ms": 192226,
-      "name": "Dodge Out Of Hell",
-      "url": "https://open.spotify.com/track/1JV425vD0dWil9boakNIHf"
+      "duration_ms": 206646,
+      "name": "Excuses",
+      "url": "https://open.spotify.com/track/2dXZhZ6OgUPAaiwJs8yR79"
     },
     {
       "added_at": "2022-08-26 04:02:00",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2022-08-26 04:02:00",
       "album": {
-        "name": "Backslider",
-        "url": "https://open.spotify.com/album/3ajAv3GaQivcQyU5JuE8eY"
-      },
-      "artists": [
-        {
-          "name": "Elvie Shane",
-          "url": "https://open.spotify.com/artist/2eIB6vFotL2su94z3pUC1j"
-        }
-      ],
-      "duration_ms": 210532,
-      "name": "Sundress",
-      "url": "https://open.spotify.com/track/2YoecwfC0hko9DhQyezZVK"
-    },
-    {
-      "added_at": "2022-08-26 04:02:00",
-      "album": {
         "name": "High Country Sound",
         "url": "https://open.spotify.com/album/6IVHko8albueLyBNcjuT0v"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 169700,
       "name": "Catch Me If You Can",
       "url": "https://open.spotify.com/track/2q0kWUvBaXkakZfH7KPViY"
+    },
+    {
+      "added_at": "2022-08-26 04:02:00",
+      "album": {
+        "name": "Backslider",
+        "url": "https://open.spotify.com/album/3ajAv3GaQivcQyU5JuE8eY"
+      },
+      "artists": [
+        {
+          "name": "Elvie Shane",
+          "url": "https://open.spotify.com/artist/2eIB6vFotL2su94z3pUC1j"
+        }
+      ],
+      "duration_ms": 210532,
+      "name": "Sundress",
+      "url": "https://open.spotify.com/track/2YoecwfC0hko9DhQyezZVK"
     },
     {
       "added_at": "2022-08-26 04:02:00",
@@ -1251,18 +1251,18 @@
     {
       "added_at": "2022-08-26 04:02:00",
       "album": {
-        "name": "Sound of the South",
-        "url": "https://open.spotify.com/album/3j9eYGUmLu5EiIXt1MBMsn"
+        "name": "Sunday Drunk",
+        "url": "https://open.spotify.com/album/4cmQ0g8KAGhVOMLB03r2dK"
       },
       "artists": [
         {
-          "name": "Kaleb Austin",
-          "url": "https://open.spotify.com/artist/23Aa3SZPUF6wAxeEOC1GmD"
+          "name": "Them Dirty Roses",
+          "url": "https://open.spotify.com/artist/6n9Ciz68f2aZF98RAdshe6"
         }
       ],
-      "duration_ms": 243163,
-      "name": "Sound of the South",
-      "url": "https://open.spotify.com/track/5lGwwBBuLPazDtYTkKvbxQ"
+      "duration_ms": 271389,
+      "name": "Sunday Drunk",
+      "url": "https://open.spotify.com/track/47AbGEgg7B33psQDmIygKz"
     },
     {
       "added_at": "2022-08-26 04:02:00",
@@ -1287,18 +1287,18 @@
     {
       "added_at": "2022-08-26 04:02:00",
       "album": {
-        "name": "Sunday Drunk",
-        "url": "https://open.spotify.com/album/4cmQ0g8KAGhVOMLB03r2dK"
+        "name": "Sound of the South",
+        "url": "https://open.spotify.com/album/3j9eYGUmLu5EiIXt1MBMsn"
       },
       "artists": [
         {
-          "name": "Them Dirty Roses",
-          "url": "https://open.spotify.com/artist/6n9Ciz68f2aZF98RAdshe6"
+          "name": "Kaleb Austin",
+          "url": "https://open.spotify.com/artist/23Aa3SZPUF6wAxeEOC1GmD"
         }
       ],
-      "duration_ms": 271389,
-      "name": "Sunday Drunk",
-      "url": "https://open.spotify.com/track/47AbGEgg7B33psQDmIygKz"
+      "duration_ms": 243163,
+      "name": "Sound of the South",
+      "url": "https://open.spotify.com/track/5lGwwBBuLPazDtYTkKvbxQ"
     },
     {
       "added_at": "2022-08-26 04:02:00",
@@ -1451,38 +1451,6 @@
     {
       "added_at": "2022-08-26 04:02:00",
       "album": {
-        "name": "Another Mile",
-        "url": "https://open.spotify.com/album/04ZMBbLR8QaHRjkjNaxTpz"
-      },
-      "artists": [
-        {
-          "name": "A Thousand Horses",
-          "url": "https://open.spotify.com/artist/55RI2GNCfyXr0f14uIdhwd"
-        }
-      ],
-      "duration_ms": 216626,
-      "name": "Another Mile",
-      "url": "https://open.spotify.com/track/5p98ydi4Izu5UJZvGN5pCu"
-    },
-    {
-      "added_at": "2022-08-26 04:02:00",
-      "album": {
-        "name": "To Whom ...",
-        "url": "https://open.spotify.com/album/1WxRrEo9h1tR698arf1dcs"
-      },
-      "artists": [
-        {
-          "name": "Shawn David",
-          "url": "https://open.spotify.com/artist/5istsTAHh8VsXOTvzmWSf2"
-        }
-      ],
-      "duration_ms": 218201,
-      "name": "To Whom ...",
-      "url": "https://open.spotify.com/track/69JNWrpgjgulsDcCTXxlBk"
-    },
-    {
-      "added_at": "2022-08-26 04:02:00",
-      "album": {
         "name": "Whiskey in a Wine Glass",
         "url": "https://open.spotify.com/album/0TEPeGUIFSQ9aB0w8HC4GZ"
       },
@@ -1499,6 +1467,22 @@
     {
       "added_at": "2022-08-26 04:02:00",
       "album": {
+        "name": "Another Mile",
+        "url": "https://open.spotify.com/album/04ZMBbLR8QaHRjkjNaxTpz"
+      },
+      "artists": [
+        {
+          "name": "A Thousand Horses",
+          "url": "https://open.spotify.com/artist/55RI2GNCfyXr0f14uIdhwd"
+        }
+      ],
+      "duration_ms": 216626,
+      "name": "Another Mile",
+      "url": "https://open.spotify.com/track/5p98ydi4Izu5UJZvGN5pCu"
+    },
+    {
+      "added_at": "2022-08-26 04:02:00",
+      "album": {
         "name": "Adobe Sessions Unplugged",
         "url": "https://open.spotify.com/album/68r61PTSnBOHcNhVXT9mH5"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 170861,
       "name": "What Else Is New",
       "url": "https://open.spotify.com/track/7uAWex7T9i7ZXghCh4rltO"
+    },
+    {
+      "added_at": "2022-08-26 04:02:00",
+      "album": {
+        "name": "To Whom ...",
+        "url": "https://open.spotify.com/album/1WxRrEo9h1tR698arf1dcs"
+      },
+      "artists": [
+        {
+          "name": "Shawn David",
+          "url": "https://open.spotify.com/artist/5istsTAHh8VsXOTvzmWSf2"
+        }
+      ],
+      "duration_ms": 218201,
+      "name": "To Whom ...",
+      "url": "https://open.spotify.com/track/69JNWrpgjgulsDcCTXxlBk"
     },
     {
       "added_at": "2022-08-26 04:02:00",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2022-08-26 04:02:00",
       "album": {
-        "name": "Huckleberry",
-        "url": "https://open.spotify.com/album/1iaC7rKb2xgcf0ZpuPRsdJ"
-      },
-      "artists": [
-        {
-          "name": "Daniel Lee",
-          "url": "https://open.spotify.com/artist/6l3pNvLTkJiDE3V1SLSGCj"
-        }
-      ],
-      "duration_ms": 230411,
-      "name": "Huckleberry",
-      "url": "https://open.spotify.com/track/5sRNw5nGGirWXvxECIxpSX"
-    },
-    {
-      "added_at": "2022-08-26 04:02:00",
-      "album": {
         "name": "Pickin\u2019 Up Girls (feat. The Cadillac Three)",
         "url": "https://open.spotify.com/album/5fdFTuBT5KV1JzXPtweiBx"
       },
@@ -1627,6 +1611,38 @@
       "duration_ms": 201451,
       "name": "Pickin\u2019 Up Girls (feat. The Cadillac Three)",
       "url": "https://open.spotify.com/track/5wuOWOnmXlH5mc3wTRfsx7"
+    },
+    {
+      "added_at": "2022-08-26 04:02:00",
+      "album": {
+        "name": "Huckleberry",
+        "url": "https://open.spotify.com/album/1iaC7rKb2xgcf0ZpuPRsdJ"
+      },
+      "artists": [
+        {
+          "name": "Daniel Lee",
+          "url": "https://open.spotify.com/artist/6l3pNvLTkJiDE3V1SLSGCj"
+        }
+      ],
+      "duration_ms": 230411,
+      "name": "Huckleberry",
+      "url": "https://open.spotify.com/track/5sRNw5nGGirWXvxECIxpSX"
+    },
+    {
+      "added_at": "2022-08-26 04:02:00",
+      "album": {
+        "name": "Truck In The Yard",
+        "url": "https://open.spotify.com/album/5NCiBKLmmjt6mU7OrOrPoZ"
+      },
+      "artists": [
+        {
+          "name": "Sam Grow",
+          "url": "https://open.spotify.com/artist/4cFA9cxl7v3CrFYxOOXsSs"
+        }
+      ],
+      "duration_ms": 182624,
+      "name": "Truck In The Yard",
+      "url": "https://open.spotify.com/track/2kQ0IAbyOu2OEI9qGwkqbQ"
     },
     {
       "added_at": "2022-08-26 04:02:00",
@@ -1659,22 +1675,6 @@
       "duration_ms": 185146,
       "name": "Get Em Up",
       "url": "https://open.spotify.com/track/17B1eRYbcpI808XW81JnMw"
-    },
-    {
-      "added_at": "2022-08-26 04:02:00",
-      "album": {
-        "name": "Truck In The Yard",
-        "url": "https://open.spotify.com/album/5NCiBKLmmjt6mU7OrOrPoZ"
-      },
-      "artists": [
-        {
-          "name": "Sam Grow",
-          "url": "https://open.spotify.com/artist/4cFA9cxl7v3CrFYxOOXsSs"
-        }
-      ],
-      "duration_ms": 182624,
-      "name": "Truck In The Yard",
-      "url": "https://open.spotify.com/track/2kQ0IAbyOu2OEI9qGwkqbQ"
     },
     {
       "added_at": "2022-08-26 04:02:00",

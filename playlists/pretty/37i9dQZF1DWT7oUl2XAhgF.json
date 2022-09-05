@@ -1,12 +1,12 @@
 {
   "description": "A new take on a classic sound. Cover: Thee Sacred Souls",
-  "num_followers": 137755,
+  "num_followers": 137974,
   "original_name": "Retro Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjA5MTI2MCwwMDAwMDAwMDg1MmNmMDdkNzkxOTljZGE2OThhMGZjZmM4ZjZjNDcz",
+  "snapshot_id": "MTY2MjA5MTI2MCwwMDAwMDAwMDk2MGU1OTJhYWJlMjVhNDQwYzYyZTJjZTI1YzlhYWJl",
   "tracks": [
     {
       "added_at": "2022-08-26 04:02:00",
@@ -447,22 +447,6 @@
     {
       "added_at": "2021-07-09 02:40:08",
       "album": {
-        "name": "Queen Alone",
-        "url": "https://open.spotify.com/album/6k2kl7wWK57baFDPkpN9It"
-      },
-      "artists": [
-        {
-          "name": "Lady Wray",
-          "url": "https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy"
-        }
-      ],
-      "duration_ms": 214573,
-      "name": "Guilty",
-      "url": "https://open.spotify.com/track/3MLwKelG4PQ7rXkd8Qjz4g"
-    },
-    {
-      "added_at": "2021-07-09 02:40:08",
-      "album": {
         "name": "Good Thing",
         "url": "https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 194493,
       "name": "Shy",
       "url": "https://open.spotify.com/track/407qAIie8sIEgquKD1AAd2"
+    },
+    {
+      "added_at": "2021-07-09 02:40:08",
+      "album": {
+        "name": "Queen Alone",
+        "url": "https://open.spotify.com/album/6k2kl7wWK57baFDPkpN9It"
+      },
+      "artists": [
+        {
+          "name": "Lady Wray",
+          "url": "https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy"
+        }
+      ],
+      "duration_ms": 214573,
+      "name": "Guilty",
+      "url": "https://open.spotify.com/track/3MLwKelG4PQ7rXkd8Qjz4g"
     },
     {
       "added_at": "2021-07-09 02:40:08",
@@ -777,22 +777,6 @@
       "url": "https://open.spotify.com/track/6mUUv0qz4deyMO7jB5drzU"
     },
     {
-      "added_at": "2021-12-03 05:01:00",
-      "album": {
-        "name": "Run Home Slow",
-        "url": "https://open.spotify.com/album/2FiJglbmAD9roZsCwKJYIb"
-      },
-      "artists": [
-        {
-          "name": "The Teskey Brothers",
-          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
-        }
-      ],
-      "duration_ms": 228553,
-      "name": "So Caught Up",
-      "url": "https://open.spotify.com/track/0g84356Up4bxwOKVvzq0Kh"
-    },
-    {
       "added_at": "2021-07-09 02:40:08",
       "album": {
         "name": "The Dip Delivers",
@@ -807,6 +791,22 @@
       "duration_ms": 227680,
       "name": "Atlas",
       "url": "https://open.spotify.com/track/3a28WmAKhiRvQATY3tfk5l"
+    },
+    {
+      "added_at": "2021-12-03 05:01:00",
+      "album": {
+        "name": "Run Home Slow",
+        "url": "https://open.spotify.com/album/2FiJglbmAD9roZsCwKJYIb"
+      },
+      "artists": [
+        {
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+        }
+      ],
+      "duration_ms": 228553,
+      "name": "So Caught Up",
+      "url": "https://open.spotify.com/track/0g84356Up4bxwOKVvzq0Kh"
     },
     {
       "added_at": "2022-04-29 04:01:00",
@@ -937,6 +937,30 @@
       "url": "https://open.spotify.com/track/6lTZctflz7IxPbWKXGJVVS"
     },
     {
+      "added_at": "2022-03-04 05:01:00",
+      "album": {
+        "name": "More To Learn",
+        "url": "https://open.spotify.com/album/3r7mEDjTNdNxWfjS1mClE2"
+      },
+      "artists": [
+        {
+          "name": "Allen Stone",
+          "url": "https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa"
+        },
+        {
+          "name": "Swatkins",
+          "url": "https://open.spotify.com/artist/0HnF3y5xRlNr6eGQmFZgjP"
+        },
+        {
+          "name": "Eric Krasno",
+          "url": "https://open.spotify.com/artist/6tQIsqw6DrDfdoPwOrOD6k"
+        }
+      ],
+      "duration_ms": 270722,
+      "name": "More To Learn",
+      "url": "https://open.spotify.com/track/7IX7LDLs3vCtrY7poNX0p4"
+    },
+    {
       "added_at": "2021-12-03 05:01:00",
       "album": {
         "name": "Sorry You Couldn't Make It",
@@ -967,46 +991,6 @@
       "duration_ms": 235213,
       "name": "It Rains Love",
       "url": "https://open.spotify.com/track/2axJJQBO4KbFsx0Twvb8mn"
-    },
-    {
-      "added_at": "2022-03-04 05:01:00",
-      "album": {
-        "name": "More To Learn",
-        "url": "https://open.spotify.com/album/3r7mEDjTNdNxWfjS1mClE2"
-      },
-      "artists": [
-        {
-          "name": "Allen Stone",
-          "url": "https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa"
-        },
-        {
-          "name": "Swatkins",
-          "url": "https://open.spotify.com/artist/0HnF3y5xRlNr6eGQmFZgjP"
-        },
-        {
-          "name": "Eric Krasno",
-          "url": "https://open.spotify.com/artist/6tQIsqw6DrDfdoPwOrOD6k"
-        }
-      ],
-      "duration_ms": 270722,
-      "name": "More To Learn",
-      "url": "https://open.spotify.com/track/7IX7LDLs3vCtrY7poNX0p4"
-    },
-    {
-      "added_at": "2022-08-19 04:02:00",
-      "album": {
-        "name": "Lady Love",
-        "url": "https://open.spotify.com/album/4janT6Oq3wApU3v0vs0qlc"
-      },
-      "artists": [
-        {
-          "name": "Thee Sacred Souls",
-          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
-        }
-      ],
-      "duration_ms": 182346,
-      "name": "Lady Love",
-      "url": "https://open.spotify.com/track/7d8XCLdv4VYAb9YejIcWsH"
     },
     {
       "added_at": "2022-01-28 05:01:00",
@@ -1041,6 +1025,38 @@
       "url": "https://open.spotify.com/track/65vtwc4JSGhKZJTV0Nhs3W"
     },
     {
+      "added_at": "2022-08-19 04:02:00",
+      "album": {
+        "name": "Lady Love",
+        "url": "https://open.spotify.com/album/4janT6Oq3wApU3v0vs0qlc"
+      },
+      "artists": [
+        {
+          "name": "Thee Sacred Souls",
+          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
+        }
+      ],
+      "duration_ms": 182346,
+      "name": "Lady Love",
+      "url": "https://open.spotify.com/track/7d8XCLdv4VYAb9YejIcWsH"
+    },
+    {
+      "added_at": "2021-11-05 04:01:00",
+      "album": {
+        "name": "Arcadia",
+        "url": "https://open.spotify.com/album/3bjM3xf0u6r9NE15RUJnuv"
+      },
+      "artists": [
+        {
+          "name": "The Buttshakers",
+          "url": "https://open.spotify.com/artist/2FNblbLTuqK1YeCEE9YWLJ"
+        }
+      ],
+      "duration_ms": 156733,
+      "name": "Hear Me",
+      "url": "https://open.spotify.com/track/1tWiKJTUfH5DjDrJT9P00l"
+    },
+    {
       "added_at": "2022-05-13 04:02:00",
       "album": {
         "name": "Sage Motel",
@@ -1059,22 +1075,6 @@
       "duration_ms": 232493,
       "name": "Sage Motel",
       "url": "https://open.spotify.com/track/0AmK67QC3fhZYvFw74f0fD"
-    },
-    {
-      "added_at": "2021-11-05 04:01:00",
-      "album": {
-        "name": "Arcadia",
-        "url": "https://open.spotify.com/album/3bjM3xf0u6r9NE15RUJnuv"
-      },
-      "artists": [
-        {
-          "name": "The Buttshakers",
-          "url": "https://open.spotify.com/artist/2FNblbLTuqK1YeCEE9YWLJ"
-        }
-      ],
-      "duration_ms": 156733,
-      "name": "Hear Me",
-      "url": "https://open.spotify.com/track/1tWiKJTUfH5DjDrJT9P00l"
     },
     {
       "added_at": "2021-12-03 05:01:00",
@@ -1109,20 +1109,20 @@
       "url": "https://open.spotify.com/track/1Wntxxt7R2mwfa4bDfAa5h"
     },
     {
-      "added_at": "2021-12-17 05:01:00",
+      "added_at": "2021-07-09 02:40:08",
       "album": {
-        "name": "Piece of Me",
-        "url": "https://open.spotify.com/album/6YZfQdeTTIIkPUEAFmXvMB"
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/0I3HXcGWFhDJR5ENzDYZ9r"
       },
       "artists": [
         {
-          "name": "Lady Wray",
-          "url": "https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy"
+          "name": "Sonny Cleveland",
+          "url": "https://open.spotify.com/artist/068h66CFkNBvqw5SaIQ3ZA"
         }
       ],
-      "duration_ms": 201501,
-      "name": "Under The Sun",
-      "url": "https://open.spotify.com/track/2RX7oNugjq7hYgWW0yhqQv"
+      "duration_ms": 162680,
+      "name": "Don't Stop",
+      "url": "https://open.spotify.com/track/5KZqapwQzE9ss8V5uzy50q"
     },
     {
       "added_at": "2022-03-04 05:01:00",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2021-07-09 02:40:08",
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/0I3HXcGWFhDJR5ENzDYZ9r"
-      },
-      "artists": [
-        {
-          "name": "Sonny Cleveland",
-          "url": "https://open.spotify.com/artist/068h66CFkNBvqw5SaIQ3ZA"
-        }
-      ],
-      "duration_ms": 162680,
-      "name": "Don't Stop",
-      "url": "https://open.spotify.com/track/5KZqapwQzE9ss8V5uzy50q"
-    },
-    {
-      "added_at": "2021-07-09 02:40:08",
-      "album": {
         "name": "California Wine",
         "url": "https://open.spotify.com/album/6pPCScZ1pajucY9zcPEYje"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 187231,
       "name": "California Wine",
       "url": "https://open.spotify.com/track/1HtLKqdCmOmM3zQxBzueUI"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "Piece of Me",
+        "url": "https://open.spotify.com/album/6YZfQdeTTIIkPUEAFmXvMB"
+      },
+      "artists": [
+        {
+          "name": "Lady Wray",
+          "url": "https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy"
+        }
+      ],
+      "duration_ms": 201501,
+      "name": "Under The Sun",
+      "url": "https://open.spotify.com/track/2RX7oNugjq7hYgWW0yhqQv"
     },
     {
       "added_at": "2021-07-09 02:40:08",

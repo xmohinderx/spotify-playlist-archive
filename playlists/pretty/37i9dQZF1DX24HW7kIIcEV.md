@@ -2,18 +2,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24HW7kIIcEV.md) - [plain]
 
 ### [after school club 🪄](https://open.spotify.com/playlist/37i9dQZF1DX24HW7kIIcEV)
 
-> T as in Troy? No Gabriella, T as in Time to relive your greatest childhood memories.
+> Joining the formal campaign to get the Lizzie McGuire reboot back in production.
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,369 likes - 85 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,774 likes - 85 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Breaking Free](https://open.spotify.com/track/5zQ1Wq6HNYjGZWkVv5P8Eg) | [Troy](https://open.spotify.com/artist/6zTbBugfNc95zo8ClFDhIn), [Gabriella Montez](https://open.spotify.com/artist/0fSj8MxxUSzY9fBNRmmuWU), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [High School Musical](https://open.spotify.com/album/4dOvFkIgrb6b9zCcGfCcci) | 3:27 |
-| 2 | [What Dreams Are Made Of](https://open.spotify.com/track/7J1S5n6Kn4wZEu6xrBT0gk) | [Hilary Duff](https://open.spotify.com/artist/2S9W9aSAd7e5mp8WqWxN2h) | [The Lizzie McGuire Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4DduywjewTFQCcshWzXhMh) | 4:02 |
-| 3 | [Falling for Ya](https://open.spotify.com/track/5hK2Ks25jW6aMmUAHpAN3F) | [Grace Phipps](https://open.spotify.com/artist/2k8LSCieAnywX4Ku6k3X4m) | [Teen Beach Movie](https://open.spotify.com/album/5ANe5AfOnYydm3lXELfiHF) | 3:12 |
-| 4 | [Leave It All To Me \(Theme from iCarly\) \(feat\. Drake Bell\)](https://open.spotify.com/track/7CMIy0uwXyeBv2MvaEUJM1) | [Miranda Cosgrove](https://open.spotify.com/artist/3SYGWAHCe31oykdeUPpoJp), [Drake Bell](https://open.spotify.com/artist/03ilIKH0i08IxmjKcn63ne) | [Leave It All To Me \(Theme from iCarly\) \(feat\. Drake Bell\)](https://open.spotify.com/album/5sqQDRCog2FN2BOjCfcO4O) | 2:38 |
-| 5 | [Gonna Get This](https://open.spotify.com/track/1y6Y28gA3mNHSs7RDLrDKs) | [Hannah Montana](https://open.spotify.com/artist/7nU4hB040gTmHm45YYMvqc), [Iyaz](https://open.spotify.com/artist/5tKXB9uuebKE34yowVaU3C) | [Hannah Montana Forever](https://open.spotify.com/album/6FUFS9PRGUTyVrsltg1xji) | 3:16 |
-| 6 | [Take A Hint \(feat\. Victoria Justice & Elizabeth Gillies\)](https://open.spotify.com/track/1T20tqHKrePjszGOdbFOEd) | [Victorious Cast](https://open.spotify.com/artist/1KYszkVzlhV3rAqmAcYIgd), [Victoria Justice](https://open.spotify.com/artist/2OTfr6S2kuHRYStjt1IkY6), [Elizabeth Gillies](https://open.spotify.com/artist/0tnLXvm7c6ozq46x6qzgvL) | [Victorious 2.0: More Music From The Hit TV Show \(feat\. Victoria Justice\)](https://open.spotify.com/album/5wfCTE4O3jyFQPmfSpaWz0) | 2:34 |
+| 1 | [What Dreams Are Made Of](https://open.spotify.com/track/7J1S5n6Kn4wZEu6xrBT0gk) | [Hilary Duff](https://open.spotify.com/artist/2S9W9aSAd7e5mp8WqWxN2h) | [The Lizzie McGuire Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4DduywjewTFQCcshWzXhMh) | 4:02 |
+| 2 | [Breaking Free](https://open.spotify.com/track/5zQ1Wq6HNYjGZWkVv5P8Eg) | [Troy](https://open.spotify.com/artist/6zTbBugfNc95zo8ClFDhIn), [Gabriella Montez](https://open.spotify.com/artist/0fSj8MxxUSzY9fBNRmmuWU), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [High School Musical](https://open.spotify.com/album/4dOvFkIgrb6b9zCcGfCcci) | 3:27 |
+| 3 | [Take A Hint \(feat\. Victoria Justice & Elizabeth Gillies\)](https://open.spotify.com/track/1T20tqHKrePjszGOdbFOEd) | [Victorious Cast](https://open.spotify.com/artist/1KYszkVzlhV3rAqmAcYIgd), [Victoria Justice](https://open.spotify.com/artist/2OTfr6S2kuHRYStjt1IkY6), [Elizabeth Gillies](https://open.spotify.com/artist/0tnLXvm7c6ozq46x6qzgvL) | [Victorious 2.0: More Music From The Hit TV Show \(feat\. Victoria Justice\)](https://open.spotify.com/album/5wfCTE4O3jyFQPmfSpaWz0) | 2:34 |
+| 4 | [Falling for Ya](https://open.spotify.com/track/5hK2Ks25jW6aMmUAHpAN3F) | [Grace Phipps](https://open.spotify.com/artist/2k8LSCieAnywX4Ku6k3X4m) | [Teen Beach Movie](https://open.spotify.com/album/5ANe5AfOnYydm3lXELfiHF) | 3:12 |
+| 5 | [Leave It All To Me \(Theme from iCarly\) \(feat\. Drake Bell\)](https://open.spotify.com/track/7CMIy0uwXyeBv2MvaEUJM1) | [Miranda Cosgrove](https://open.spotify.com/artist/3SYGWAHCe31oykdeUPpoJp), [Drake Bell](https://open.spotify.com/artist/03ilIKH0i08IxmjKcn63ne) | [Leave It All To Me \(Theme from iCarly\) \(feat\. Drake Bell\)](https://open.spotify.com/album/5sqQDRCog2FN2BOjCfcO4O) | 2:38 |
+| 6 | [Gonna Get This](https://open.spotify.com/track/1y6Y28gA3mNHSs7RDLrDKs) | [Hannah Montana](https://open.spotify.com/artist/7nU4hB040gTmHm45YYMvqc), [Iyaz](https://open.spotify.com/artist/5tKXB9uuebKE34yowVaU3C) | [Hannah Montana Forever](https://open.spotify.com/album/6FUFS9PRGUTyVrsltg1xji) | 3:16 |
 | 7 | [Big Time Rush](https://open.spotify.com/track/5lEsM6qpuzuZwij6jIZPvP) | [Big Time Rush](https://open.spotify.com/artist/0GWCNkPi54upO9WLlwjAHd) | [BTR](https://open.spotify.com/album/2RjFzASjHZG1lUbCKqUahx) | 3:17 |
 | 8 | [Year 3000](https://open.spotify.com/track/7BbyWKteSctTKe696qf7fw) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [It's About Time](https://open.spotify.com/album/3tnBL4yVKSTaUtjeypEwCe) | 3:21 |
 | 9 | [Tell Me Something I Don't Know \- Soundtrack](https://open.spotify.com/track/1UXBbmjIrxjckrbv5EfSVT) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Another Cinderella Story \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6Jv7Yo0ihit4JyxvjQLUhb) | 3:21 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24HW7kIIcEV.md) - [plain]
 | 84 | [Jump To The Rhythm](https://open.spotify.com/track/4QFbZ1cSkL718J6A8cMJdA) | [Jordan Pruitt](https://open.spotify.com/artist/1JfkqBTXs6VC3JZ7RJNu7h) | [No Ordinary Girl](https://open.spotify.com/album/3ZN6vRXDZhoYf9Zdc5ubpE) | 3:47 |
 | 85 | [Make You Believe](https://open.spotify.com/track/6IvOCyrwW7VuCjQFCD7h7r) | [Lucy Hale](https://open.spotify.com/artist/4gWAItIMhYCdD82T8tvv3T) | [A Cinderella Story: Once Upon A Song \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5fDujJMK88H9vZYRjVb2Bz) | 3:31 |
 
-Snapshot ID: `MTY1MjcyOTA2OSwwMDAwMDAwMDdkODVkYmQ2ZjA3MGRmMTA1ZDQ0MTVlOTU2ZGQwYjc0`
+Snapshot ID: `MTY2MjI2MTU3MywwMDAwMDAwMGM5MTExYTQ4NTEwOWI5NTI0YTEyZjJmZDQ0Y2VmNmQ1`

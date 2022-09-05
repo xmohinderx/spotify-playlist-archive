@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkyVpP5GNAO.md) - [plain]
 
 > A Dios sea toda la gloria y alabanza\. Foto: Miel San Marcos, Ingrid Rosario
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,703 likes - 90 songs - 8 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,864 likes - 90 songs - 8 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkyVpP5GNAO.md) - [plain]
 | 45 | [Dios Conmigo Estás](https://open.spotify.com/track/6ajcKo8JZHQiPaAzwhsHUa) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Dios Conmigo Estás](https://open.spotify.com/album/2dq2AammbAVkPEQXONxhXm) | 5:52 |
 | 46 | [Quiebro Mi Vaso](https://open.spotify.com/track/7iYb9oTMZ97gyY4gAYNpnC) | [André Aquino](https://open.spotify.com/artist/6xHt6gUd0LMPtKm0XokFiq), [Barak](https://open.spotify.com/artist/2IzxJqK9NbSIdw7rQVW03P) | [Quiebro Mi Vaso](https://open.spotify.com/album/6lCByyE1C9W5jUzke8Nwte) | 7:10 |
 | 47 | [El Sonido del Silencio](https://open.spotify.com/track/1iOLORkS2seU9lRU0T9b1A) | [Alex Campos](https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR) | [Te Puedo Sentir](https://open.spotify.com/album/7wzqas1U1NJ9uAKdkCBAi8) | 6:11 |
-| 48 | [Quiero Más](https://open.spotify.com/track/1tDpk10hfq6cj6Qxixzni1) | [Omar Salas](https://open.spotify.com/artist/3E2IitJNIbpATIAvtJPUzd), [Any Puello](https://open.spotify.com/artist/2U29Wo3uVE9gKvr8fg4gJU), [Camino a Casa](https://open.spotify.com/artist/6Q5vcfrBhZ1PEdEvqykKEC) | [Quiero Más](https://open.spotify.com/album/5ufzprrcRznp6QbVbS0Z8u) | 6:06 |
+| 48 | [Quiero más](https://open.spotify.com/track/77v1o59NzTsfmRpnfAkuf6) | [Omar Salas](https://open.spotify.com/artist/3E2IitJNIbpATIAvtJPUzd), [Any Puello](https://open.spotify.com/artist/2U29Wo3uVE9gKvr8fg4gJU), [Camino a Casa](https://open.spotify.com/artist/6Q5vcfrBhZ1PEdEvqykKEC) | [Quiero Más](https://open.spotify.com/album/3fRvGnuJ0QxJGYYmXgCn15) | 6:06 |
 | 49 | [Mi Esperanza Está en Jesús \(Live\)](https://open.spotify.com/track/25cHB6xp0w2yTak3GOopEf) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Bethany Wohrle](https://open.spotify.com/artist/26opZlzcsx1NhaN5QELG4e) | [Mi Esperanza Está en Jesús \(Live\)](https://open.spotify.com/album/0vcJXwCCranZjRyqJV21gI) | 4:51 |
 | 50 | [Solo Tu](https://open.spotify.com/track/6yxDTsYge75Eka9yeXnHuN) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Solo Tu...Lo Unico Que Quiero](https://open.spotify.com/album/1bohZwfenuWFIuFrUETFuq) | 3:39 |
 | 51 | [Rey de Reyes](https://open.spotify.com/track/3GzWdBxKgTxxdmnQ3Bk0u2) | [Essential Worship](https://open.spotify.com/artist/5ovBCDCRU118CMxJ1KpAOw), [Marcela Gandara](https://open.spotify.com/artist/2zF0KCQEt1O4Z9fWVUVi4T) | [La Bondad de Dios](https://open.spotify.com/album/3U0BIC0ghYKKuEzuXXaYF7) | 4:23 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkyVpP5GNAO.md) - [plain]
 | 89 | [De Lo Más Profundo](https://open.spotify.com/track/1QNPc8xrzF78nlTFN3TM7T) | [Fuego](https://open.spotify.com/artist/3F5E6wKnGN6qRjtsF2Z6vt) | [Por Fin en Casa](https://open.spotify.com/album/3ZkKbtlC0p5L6vgStrdRsq) | 7:45 |
 | 90 | [Que Se Llene Tu Casa](https://open.spotify.com/track/3fJc3GDymadn48CQjhIrxF) | [Ingrid Rosario](https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE) | [Cuan Gran Amor](https://open.spotify.com/album/1lhXRDxeKylK9Ljidc9dCN) | 4:08 |
 
-Snapshot ID: `MTYyNzAzOTI0MCwwMDAwMDAwMDI1ZjgwZGQzODA2MTUxNGYwNWEzMTA0NGVmM2JhNzQ0`
+Snapshot ID: `MTYyNzAzOTI0MCwwMDAwMDAwMDgyMDI5ZDUzZTk2ODBmYjYzNzNhOThjZjMyMDQwNmVm`

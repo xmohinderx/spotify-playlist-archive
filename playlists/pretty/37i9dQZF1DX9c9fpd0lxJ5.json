@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDc2MjM4OSwwMDAwMDAwMDAxZDQ2MTIxMzI2NzA4NTAyZWUzYzg4NDk1NDEyYzU4",
+  "snapshot_id": "MTY2MDc2MjM4OSwwMDAwMDAwMDMwODU3NTVkOGFiZjlkY2ZmYzc0ODMwMjc3YTY0NzVk",
   "tracks": [
     {
       "added_at": "2022-08-17 18:53:09",
@@ -163,22 +163,6 @@
     {
       "added_at": "2022-08-17 18:53:09",
       "album": {
-        "name": "Todo Lamento",
-        "url": "https://open.spotify.com/album/4dHpeoII8QA3LaOXTYnCgm"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lacunza",
-          "url": "https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP"
-        }
-      ],
-      "duration_ms": 155675,
-      "name": "Todo Lamento",
-      "url": "https://open.spotify.com/track/3e8haeh6alXHp8bwLhk4Vc"
-    },
-    {
-      "added_at": "2022-08-17 18:53:09",
-      "album": {
         "name": "Go Away",
         "url": "https://open.spotify.com/album/1nETLIyhtk8GjuqyfOt1G7"
       },
@@ -191,6 +175,22 @@
       "duration_ms": 207346,
       "name": "Go Away",
       "url": "https://open.spotify.com/track/6BXHCHzw706smnLQdCIDUy"
+    },
+    {
+      "added_at": "2022-08-17 18:53:09",
+      "album": {
+        "name": "Todo Lamento",
+        "url": "https://open.spotify.com/album/4dHpeoII8QA3LaOXTYnCgm"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lacunza",
+          "url": "https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP"
+        }
+      ],
+      "duration_ms": 155675,
+      "name": "Todo Lamento",
+      "url": "https://open.spotify.com/track/3e8haeh6alXHp8bwLhk4Vc"
     },
     {
       "added_at": "2022-08-17 18:53:09",
@@ -599,6 +599,22 @@
     {
       "added_at": "2022-08-17 18:53:09",
       "album": {
+        "name": "FLOTANDO",
+        "url": "https://open.spotify.com/album/2P2zEMA1YeWmLGNrxGvHBY"
+      },
+      "artists": [
+        {
+          "name": "Angela Torres",
+          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "FLOTANDO",
+      "url": "https://open.spotify.com/track/40OkDypNOibhDLHZ94bKQc"
+    },
+    {
+      "added_at": "2022-08-17 18:53:09",
+      "album": {
         "name": "Una Noche M\u00e1s",
         "url": "https://open.spotify.com/album/1uzsloGLr9bFGr6SguBgZZ"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 211400,
       "name": "Una Noche M\u00e1s",
       "url": "https://open.spotify.com/track/6h5Y9eJqzgiunuQICVkQb6"
-    },
-    {
-      "added_at": "2022-08-17 18:53:09",
-      "album": {
-        "name": "FLOTANDO",
-        "url": "https://open.spotify.com/album/2P2zEMA1YeWmLGNrxGvHBY"
-      },
-      "artists": [
-        {
-          "name": "Angela Torres",
-          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "FLOTANDO",
-      "url": "https://open.spotify.com/track/40OkDypNOibhDLHZ94bKQc"
     },
     {
       "added_at": "2022-08-17 18:53:09",
@@ -799,22 +799,6 @@
     {
       "added_at": "2022-08-17 18:53:09",
       "album": {
-        "name": "D\u00edas Negros",
-        "url": "https://open.spotify.com/album/5aAukLeOUD7CH1qE36t7mt"
-      },
-      "artists": [
-        {
-          "name": "Chango Menas",
-          "url": "https://open.spotify.com/artist/02JOH3JikydGzqOEI7WzA9"
-        }
-      ],
-      "duration_ms": 182320,
-      "name": "D\u00edas Negros",
-      "url": "https://open.spotify.com/track/7GggClJIZhrWpNYfFt5RAQ"
-    },
-    {
-      "added_at": "2022-08-17 18:53:09",
-      "album": {
         "name": "Eso Que Me Das",
         "url": "https://open.spotify.com/album/0WQ1ixBjLMPw4uK0vZnIh3"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 227658,
       "name": "Eso Que Me Das",
       "url": "https://open.spotify.com/track/76Xv0phxmn6MyCxY3K00Wa"
+    },
+    {
+      "added_at": "2022-08-17 18:53:09",
+      "album": {
+        "name": "D\u00edas Negros",
+        "url": "https://open.spotify.com/album/5aAukLeOUD7CH1qE36t7mt"
+      },
+      "artists": [
+        {
+          "name": "Chango Menas",
+          "url": "https://open.spotify.com/artist/02JOH3JikydGzqOEI7WzA9"
+        }
+      ],
+      "duration_ms": 182320,
+      "name": "D\u00edas Negros",
+      "url": "https://open.spotify.com/track/7GggClJIZhrWpNYfFt5RAQ"
     },
     {
       "added_at": "2022-08-17 18:53:09",
@@ -1007,18 +1007,18 @@
     {
       "added_at": "2022-08-17 18:53:09",
       "album": {
-        "name": "Sad Lullaby",
-        "url": "https://open.spotify.com/album/0mhQlc6V2rX86ocFqHpgTd"
+        "name": "Para No Verte M\u00e1s",
+        "url": "https://open.spotify.com/album/5pM0YNN8lzjKLlH8aeXhus"
       },
       "artists": [
         {
-          "name": "HYRA",
-          "url": "https://open.spotify.com/artist/2FuelQeDO3E7kIrTfkySKS"
+          "name": "Planeta No",
+          "url": "https://open.spotify.com/artist/47hetBUhKhfBmk8nXeriqN"
         }
       ],
-      "duration_ms": 205440,
-      "name": "Sad Lullaby",
-      "url": "https://open.spotify.com/track/61dXVEGgk0YrSX0lDH9qfY"
+      "duration_ms": 185007,
+      "name": "Para No Verte M\u00e1s",
+      "url": "https://open.spotify.com/track/1gzbiNMJlLlMISFKaZc7yu"
     },
     {
       "added_at": "2022-08-17 18:53:09",
@@ -1039,18 +1039,18 @@
     {
       "added_at": "2022-08-17 18:53:09",
       "album": {
-        "name": "Para No Verte M\u00e1s",
-        "url": "https://open.spotify.com/album/5pM0YNN8lzjKLlH8aeXhus"
+        "name": "Sad Lullaby",
+        "url": "https://open.spotify.com/album/0mhQlc6V2rX86ocFqHpgTd"
       },
       "artists": [
         {
-          "name": "Planeta No",
-          "url": "https://open.spotify.com/artist/47hetBUhKhfBmk8nXeriqN"
+          "name": "HYRA",
+          "url": "https://open.spotify.com/artist/2FuelQeDO3E7kIrTfkySKS"
         }
       ],
-      "duration_ms": 185007,
-      "name": "Para No Verte M\u00e1s",
-      "url": "https://open.spotify.com/track/1gzbiNMJlLlMISFKaZc7yu"
+      "duration_ms": 205440,
+      "name": "Sad Lullaby",
+      "url": "https://open.spotify.com/track/61dXVEGgk0YrSX0lDH9qfY"
     },
     {
       "added_at": "2022-08-17 18:53:09",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2022-08-17 18:53:09",
       "album": {
-        "name": "Pastel",
-        "url": "https://open.spotify.com/album/3QTnx5ztLT9Ub46YFKWKh3"
-      },
-      "artists": [
-        {
-          "name": "Katz\u00f9 Oso",
-          "url": "https://open.spotify.com/artist/4tSzEOfCj6LXhaf0jtk4XO"
-        }
-      ],
-      "duration_ms": 252000,
-      "name": "Honeydew",
-      "url": "https://open.spotify.com/track/7vvn5rvFxxfBDoftYZbwCg"
-    },
-    {
-      "added_at": "2022-08-17 18:53:09",
-      "album": {
         "name": "135",
         "url": "https://open.spotify.com/album/3bjtksgbIeMDC4dbdCFPZR"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 147279,
       "name": "Melocot\u00f3n",
       "url": "https://open.spotify.com/track/1qW32mkxIEhRkerlabQVOd"
+    },
+    {
+      "added_at": "2022-08-17 18:53:09",
+      "album": {
+        "name": "Pastel",
+        "url": "https://open.spotify.com/album/3QTnx5ztLT9Ub46YFKWKh3"
+      },
+      "artists": [
+        {
+          "name": "Katz\u00f9 Oso",
+          "url": "https://open.spotify.com/artist/4tSzEOfCj6LXhaf0jtk4XO"
+        }
+      ],
+      "duration_ms": 252000,
+      "name": "Honeydew",
+      "url": "https://open.spotify.com/track/7vvn5rvFxxfBDoftYZbwCg"
     },
     {
       "added_at": "2022-08-17 18:53:09",
@@ -1319,6 +1319,26 @@
     {
       "added_at": "2022-08-17 18:53:09",
       "album": {
+        "name": "\u00bfPa Qu\u00e9?",
+        "url": "https://open.spotify.com/album/1aBwufMjzi19BkmB4tkapq"
+      },
+      "artists": [
+        {
+          "name": "Let\u00f3n P\u00e9",
+          "url": "https://open.spotify.com/artist/76LJ0AYW9sxNGRfKnag1vO"
+        },
+        {
+          "name": "Ch\u00f8by",
+          "url": "https://open.spotify.com/artist/6xsIIOuNuBj1Lvmcn87fQd"
+        }
+      ],
+      "duration_ms": 202500,
+      "name": "\u00bfPa Qu\u00e9?",
+      "url": "https://open.spotify.com/track/4eReQpWfpFVEKrWyynpadO"
+    },
+    {
+      "added_at": "2022-08-17 18:53:09",
+      "album": {
         "name": "Pausa",
         "url": "https://open.spotify.com/album/3OSClJOjr54bInwJnKLZ93"
       },
@@ -1367,26 +1387,6 @@
       "duration_ms": 222226,
       "name": "IN MY ROOM!",
       "url": "https://open.spotify.com/track/74XGMhW9YScgVpeVJmzKqj"
-    },
-    {
-      "added_at": "2022-08-17 18:53:09",
-      "album": {
-        "name": "\u00bfPa Qu\u00e9?",
-        "url": "https://open.spotify.com/album/1aBwufMjzi19BkmB4tkapq"
-      },
-      "artists": [
-        {
-          "name": "Let\u00f3n P\u00e9",
-          "url": "https://open.spotify.com/artist/76LJ0AYW9sxNGRfKnag1vO"
-        },
-        {
-          "name": "Ch\u00f8by",
-          "url": "https://open.spotify.com/artist/6xsIIOuNuBj1Lvmcn87fQd"
-        }
-      ],
-      "duration_ms": 202500,
-      "name": "\u00bfPa Qu\u00e9?",
-      "url": "https://open.spotify.com/track/4eReQpWfpFVEKrWyynpadO"
     },
     {
       "added_at": "2022-08-17 18:53:09",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2022-08-17 18:53:09",
       "album": {
-        "name": "All That I Said",
-        "url": "https://open.spotify.com/album/62QiCnsViAGeHZo31aecbi"
-      },
-      "artists": [
-        {
-          "name": "HYRA",
-          "url": "https://open.spotify.com/artist/2FuelQeDO3E7kIrTfkySKS"
-        }
-      ],
-      "duration_ms": 155401,
-      "name": "All That I Said",
-      "url": "https://open.spotify.com/track/2HuCVtmbXGPjWrCbnhElDf"
-    },
-    {
-      "added_at": "2022-08-17 18:53:09",
-      "album": {
         "name": "Sugarbaby",
         "url": "https://open.spotify.com/album/10HAYqpjDPleULre8nXrl8"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 152680,
       "name": "Sugarbaby",
       "url": "https://open.spotify.com/track/5SWV7wIgPfqhBVdbcCENXI"
+    },
+    {
+      "added_at": "2022-08-17 18:53:09",
+      "album": {
+        "name": "All That I Said",
+        "url": "https://open.spotify.com/album/62QiCnsViAGeHZo31aecbi"
+      },
+      "artists": [
+        {
+          "name": "HYRA",
+          "url": "https://open.spotify.com/artist/2FuelQeDO3E7kIrTfkySKS"
+        }
+      ],
+      "duration_ms": 155401,
+      "name": "All That I Said",
+      "url": "https://open.spotify.com/track/2HuCVtmbXGPjWrCbnhElDf"
     },
     {
       "added_at": "2022-08-17 18:53:09",
@@ -1679,18 +1679,18 @@
     {
       "added_at": "2022-08-17 18:53:09",
       "album": {
-        "name": "Girasol",
-        "url": "https://open.spotify.com/album/7Jai8njio3jGUOtrH0fLuI"
+        "name": "Soltera",
+        "url": "https://open.spotify.com/album/0Y2d8ymerPASyiF6pDKjO1"
       },
       "artists": [
         {
-          "name": "mi jard\u00edn",
-          "url": "https://open.spotify.com/artist/2Wurz87TqcSpxiCTGDZPAo"
+          "name": "Juanita La O",
+          "url": "https://open.spotify.com/artist/4E7BbNhnHWRifH0LUUsQoT"
         }
       ],
-      "duration_ms": 134500,
-      "name": "Girasol",
-      "url": "https://open.spotify.com/track/0BizsPV9e8BDWoKS3hPk3M"
+      "duration_ms": 178076,
+      "name": "Soltera",
+      "url": "https://open.spotify.com/track/54eU7KkafnxQUioXKrWCNm"
     }
   ],
   "unique_name": "Radiante",

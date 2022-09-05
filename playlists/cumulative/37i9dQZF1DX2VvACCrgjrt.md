@@ -4,7 +4,7 @@
 
 > Real nasty house\. Cover: ESSEL
 
-330 songs - 17 hr 40 min - [published](https://open.spotify.com/playlist/2H083FLJ5ZhYNqx83NgdpT)
+331 songs - 17 hr 44 min - [published](https://open.spotify.com/playlist/2H083FLJ5ZhYNqx83NgdpT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Danger](https://open.spotify.com/track/5Ztlpo0tihmvazlFYTL3fQ) | [Deathpact](https://open.spotify.com/artist/09C3CKFxKEw1n1Z7kvT3jb) | [Cipher One](https://open.spotify.com/album/0sXeA5zcpIua5syJn7RqIg) | 3:03 | 2021-10-29 | 2022-05-28 |
 | [dashstar\*](https://open.spotify.com/track/0dAfw35k2hBsnbSl74AVJF) | [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg) | [dashstar\*](https://open.spotify.com/album/3AQFV0Eye3fdkpPHODbxlG) | 3:18 | 2021-10-29 | 2022-07-30 |
 | [dashstar\* \- VIP](https://open.spotify.com/track/0zXiTthYKCfvfwixJdn92o) | [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg) | [dashstar\* \(VIP\)](https://open.spotify.com/album/1evGUMi2rIAvUewPRHm3sl) | 2:20 | 2022-07-29 |  |
+| [DBL Park](https://open.spotify.com/track/0V5bYmG3gwmt6zPCg3GcM5) | [Good Times Ahead](https://open.spotify.com/artist/6M7RdR9ZP52h2mfNLmiHtU) | [DBL Park](https://open.spotify.com/album/6LhckcJg7vMmV6rB0f1mwt) | 3:24 | 2022-09-02 |  |
 | [Dear Driver \- Lowdown Remix](https://open.spotify.com/track/3pQg7EoslPJ2OOoEXItDQl) | [Paces](https://open.spotify.com/artist/5xO9868Xc1mjAzmaN1efoK), [Lowdown](https://open.spotify.com/artist/1KCG15gBLwpaEK8eymaqOO), [Muki](https://open.spotify.com/artist/6D8m8pBw3RkQ1TAi1bF2e1) | [Dear Driver \(Lowdown Remix\)](https://open.spotify.com/album/60qfrZDobSPwexI4hJ0dmV) | 2:37 | 2021-10-29 | 2022-01-14 |
 | [DeathRow](https://open.spotify.com/track/0UqxTBffHZUB7hS5ihIh1D) | [Gianni Ruocco](https://open.spotify.com/artist/3bOkTYFEDhjquQI5A2JLOC), [Le Roi Carmona](https://open.spotify.com/artist/1RUMnaGbYzAp5Nb3AfFR5A) | [DeathRow EP](https://open.spotify.com/album/5dZIfsrK7dhOhPJwzPjbyi) | 3:43 | 2021-10-29 | 2021-12-28 |
 | [deeper](https://open.spotify.com/track/5Qb1L6fvkn9fLWKlyTvqiJ) | [Pinkloud](https://open.spotify.com/artist/2KwoAuL8klb3EU3ayrPgQu) | [deeper](https://open.spotify.com/album/2euImXBTU6dWDrelJ5b94V) | 3:42 | 2021-10-29 | 2022-07-30 |
@@ -180,7 +181,7 @@
 | [Lay It Down \(feat\. Bricc Baby\)](https://open.spotify.com/track/5brF58DyR90gbHuMJqD5of) | [Capozzi](https://open.spotify.com/artist/1cNpMm9NSchdIe9RdGA1MC), [Bricc Baby](https://open.spotify.com/artist/6WtTLIl6HLw0JI15Z3Ia8q) | [Lay It Down \(feat\. Bricc Baby\)](https://open.spotify.com/album/2YMkA9lt4ehtS8BeoZ6ClX) | 3:35 | 2022-06-24 |  |
 | [Let's Go](https://open.spotify.com/track/3cOpv6dg4JYT2ZegTxw5XF) | [Dr\. Fresch](https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC) | [Let's Go](https://open.spotify.com/album/2AICKoS2vYrkwLjYEnyiYJ) | 2:30 | 2022-05-24 |  |
 | [Lies](https://open.spotify.com/track/6Il5epZuJzpHVNVjYXrYIT) | [Brandon Mints](https://open.spotify.com/artist/5YjfNaHq05WrwldRe1QSBc) | [Lies](https://open.spotify.com/album/1c0Uiksf8eCx8QeRh4WhPC) | 2:47 | 2022-05-27 |  |
-| [Lies](https://open.spotify.com/track/3Hw3X9x03ygMNG4UvnRwtD) | [G\-POL](https://open.spotify.com/artist/3O5mszIMh6g6Dt7YlhCIPM), [Nkzz](https://open.spotify.com/artist/0ZMJzuOlzlup9qPQ4lFi8Z) | [Lies](https://open.spotify.com/album/5EOqu8PShLD59wX0NADkD8) | 4:01 | 2022-03-18 |  |
+| [Lies](https://open.spotify.com/track/3Hw3X9x03ygMNG4UvnRwtD) | [G\-POL](https://open.spotify.com/artist/3O5mszIMh6g6Dt7YlhCIPM), [Nkzz](https://open.spotify.com/artist/0ZMJzuOlzlup9qPQ4lFi8Z) | [Lies](https://open.spotify.com/album/5EOqu8PShLD59wX0NADkD8) | 4:01 | 2022-03-18 | 2022-09-05 |
 | [Lift](https://open.spotify.com/track/2dQYULMxZEMtMYpQ9j7hZz) | [Conor Ross](https://open.spotify.com/artist/508wtStPsMdIxMButKYnOS) | [Lift](https://open.spotify.com/album/6GgFm8wYjyE2GOR1FLwmQB) | 2:50 | 2021-10-29 | 2022-01-22 |
 | [Light](https://open.spotify.com/track/4GSw4yF9VovMBsegcAnLZy) | [jeonghyeon](https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq), [Pastello](https://open.spotify.com/artist/613f3U6uFS1jmo5NNvnle7) | [Light](https://open.spotify.com/album/49GE9dJiS2eMaxHhGYUNwn) | 2:37 | 2022-03-18 | 2022-07-24 |
 | [Light Show](https://open.spotify.com/track/5vCQx3NZg5e54gMgprzYqG) | [Halogen](https://open.spotify.com/artist/0Za5KjrhmN4OYMr04f3g1e) | [Light Show](https://open.spotify.com/album/5AejAkCVG5O9NpfMLKA1SH) | 2:40 | 2021-10-29 | 2022-01-05 |

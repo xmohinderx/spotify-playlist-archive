@@ -424,6 +424,24 @@
     },
     {
       "album": {
+        "name": "If You're Into It I'm Out of It",
+        "url": "https://open.spotify.com/album/2eFiRk2G9mVxjpZQy2ouTl"
+      },
+      "artists": [
+        {
+          "name": "Christoph De Babalon",
+          "url": "https://open.spotify.com/artist/4ZrzdbajcxLidPJDPZomzz"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 430840,
+      "name": "Brilliance",
+      "url": "https://open.spotify.com/track/6yESxXi51ypIOiazRTTinL"
+    },
+    {
+      "album": {
         "name": "The Last Wave",
         "url": "https://open.spotify.com/album/1jJJZAPY8Ax5X1C6vCpuNo"
       },
@@ -1399,7 +1417,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-05",
       "duration_ms": 321693,
       "name": "In Her Hair",
       "url": "https://open.spotify.com/track/76cA2zwvP6oZXMEMrx7jRV"

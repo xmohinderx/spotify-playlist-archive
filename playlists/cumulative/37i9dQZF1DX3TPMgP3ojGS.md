@@ -4,7 +4,7 @@
 
 > Soft \(the quietest of them all\), subtle, no words needed\. Take a sip and enjoy the music of composers from around the world.
 
-1,522 songs - 2 day 20 hr 58 min - [published](https://open.spotify.com/playlist/6P1AtIr4JGwSOgl9rwTOJW)
+1,523 songs - 2 day 21 hr 1 min - [published](https://open.spotify.com/playlist/6P1AtIr4JGwSOgl9rwTOJW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -576,7 +576,7 @@
 | [How did it Happen](https://open.spotify.com/track/5Ssia1opQ1cpUBiY0hLSUy) | [Tom Holding](https://open.spotify.com/artist/6ricPc7dXpgND8NjKLbHqg) | [How did it Happen](https://open.spotify.com/album/52NgJ1FXRHFcfDYH9EWt07) | 1:53 | 2021-04-23 | 2022-04-10 |
 | [How Did We Wind Up Here?](https://open.spotify.com/track/4HUAT9dBskTeZO4kYXRTKI) | [Jen Brook](https://open.spotify.com/artist/6ChfZgm5bM2WsypdcfCHRb) | [How Did We Wind Up Here?](https://open.spotify.com/album/3xPPZieZavJ0fUH6oYQxyS) | 2:02 | 2021-05-14 | 2022-04-11 |
 | [How Far I'll Go](https://open.spotify.com/track/2kapQ5kfe4LMQuE3l0n2Cq) | [Deborah Sonderburg](https://open.spotify.com/artist/0mnW26sAqwV1hfsNEC1uWJ) | [How Far I'll Go](https://open.spotify.com/album/6LiLsr4ZwdUJEOKmIwQwYA) | 4:00 | 2021-05-18 | 2022-04-06 |
-| [How It Was Supposed To Be](https://open.spotify.com/track/7y39ldlFRK27CYlYM2kIy5) | [Stanley Roth](https://open.spotify.com/artist/2Fhp37XLUy07ghDlap2h7O) | [How It Was Supposed To Be](https://open.spotify.com/album/6nXaOSyRzfPnlVXRV57LBe) | 2:14 | 2021-03-09 |  |
+| [How It Was Supposed To Be](https://open.spotify.com/track/7y39ldlFRK27CYlYM2kIy5) | [Stanley Roth](https://open.spotify.com/artist/2Fhp37XLUy07ghDlap2h7O) | [How It Was Supposed To Be](https://open.spotify.com/album/6nXaOSyRzfPnlVXRV57LBe) | 2:14 | 2021-03-09 | 2022-09-05 |
 | [Hrepenenje](https://open.spotify.com/track/5EwJB5TdPUwRIktulYQNlk) | [Jani Lechleiter](https://open.spotify.com/artist/13j5NE2SAeKFALiLQpipfU) | [Hrepenenje](https://open.spotify.com/album/3rXlqu8jNa6rNb2jCvKKW9) | 1:46 | 2021-04-23 | 2021-05-04 |
 | [Human](https://open.spotify.com/track/2SMT5fwEqzZIu5VGFYL6qH) | [Edgar De Vries](https://open.spotify.com/artist/5ccEcnSCa82fIfFgwpVyrD) | [Seasons](https://open.spotify.com/album/2ev06zAeaGpVlOkOTD1JUb) | 3:22 | 2021-03-06\* | 2021-10-13 |
 | [Human](https://open.spotify.com/track/3xSMHqImMckctNyDwbc6dy) | [Leyton Stills](https://open.spotify.com/artist/3l92unFN6V13msGRVZZQwE) | [Human](https://open.spotify.com/album/6AaAowUpbHG5fkBpHpAGis) | 1:44 | 2021-04-28 | 2021-12-18 |
@@ -876,6 +876,7 @@
 | [Mémorie d’amour](https://open.spotify.com/track/7rihrfv45QvlWXiQ6m3RZn) | [Leon Noel](https://open.spotify.com/artist/33HL5KjSpPc12d2m01u6qB) | [Rêveries](https://open.spotify.com/album/1JwQ0z2Rj9WX5FSzS9Z90M) | 3:24 | 2021-05-04 | 2022-04-06 |
 | [N'abandonne pas](https://open.spotify.com/track/0Nx1SR4VfOGtnelHw6xFsV) | [Libor Kolman](https://open.spotify.com/artist/5GWhfNzngahL2GIFq3NwHT) | [N'abandonne pas](https://open.spotify.com/album/5ejRY2g6Jo415CSc7hmftK) | 2:34 | 2021-03-06\* | 2021-05-27 |
 | [Naive Spin](https://open.spotify.com/track/1JoAjYaI3zvhXVx41HH7Fc) | [Aaron Lansing](https://open.spotify.com/artist/2AiqANCe9znkfFsN5qIOyV) | [Naive Spin](https://open.spotify.com/album/1meLNOeKZ3KGV7vuOshRk3) | 2:38 | 2022-03-24 | 2022-03-27 |
+| [Nature undisclosed](https://open.spotify.com/track/48aOlsvnC4e8cdMsrw59Qd) | [Keiko Ishida](https://open.spotify.com/artist/5kiKC3sVss9s7fjEa1HDLW) | [Nature undisclosed](https://open.spotify.com/album/4MncWHjrU2jTWsDUaJjpo6) | 2:27 | 2022-09-01 |  |
 | [Neon Colors](https://open.spotify.com/track/1bPAagmvoXWHXsr9R5kzCR) | [Arctic Vision](https://open.spotify.com/artist/3bt00stZuACL1bcaDZjFpg) | [Arctic Vision](https://open.spotify.com/album/0riEsCVLa5iRC3bl74wRc9) | 3:48 | 2021-03-15 | 2021-05-22 |
 | [Neuland](https://open.spotify.com/track/7ezLbUsHDAEiGlXPii5ilJ) | [Una Luna](https://open.spotify.com/artist/6hKJteZkxCj4rEW8Enp9r7) | [Neuland](https://open.spotify.com/album/18tbZv3LqjxEjKn2J7NJJN) | 2:30 | 2021-03-21 | 2022-04-17 |
 | [New Horizons](https://open.spotify.com/track/74cxp9Fk8LOopdOv8g585t) | [June Faulkner](https://open.spotify.com/artist/3y5opCdWummR85Am4kEc3M) | [Melodies](https://open.spotify.com/album/3x40T6iHVKMzroPopsqbuO) | 2:59 | 2021-05-13 | 2021-05-16 |
