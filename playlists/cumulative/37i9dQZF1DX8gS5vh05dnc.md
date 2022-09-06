@@ -4,7 +4,7 @@
 
 > 想紓解緊張壓力，就聽這些輕鬆、愉快的歌曲來讓自己放輕鬆。
 
-132 songs - 7 hr 11 min - [published](https://open.spotify.com/playlist/5NOIpWlRTcXEkgjmyodxCT)
+133 songs - 7 hr 15 min - [published](https://open.spotify.com/playlist/5NOIpWlRTcXEkgjmyodxCT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [boyfriend material](https://open.spotify.com/track/20dYdhOwY8nfGsVaIockAR) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx) | [boyfriend material](https://open.spotify.com/album/1puIY6s30W5p5r5X3NjVIU) | 2:30 | 2022-06-06 | 2022-07-23 |
 | [Breakdown](https://open.spotify.com/track/4RpK4bIUQWwrCJwRCQcAVZ) | [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb), [Daichi Yamamoto](https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd) | [ESTERO](https://open.spotify.com/album/0eknrlSMX6nOZZ6l0fgvBW) | 4:05 | 2022-07-11 | 2022-07-17 |
 | [Cactus](https://open.spotify.com/track/6iLgcK64cgkctviVp6ne9i) | [Jang Jane](https://open.spotify.com/artist/41QP3s5kY0UroKcIeASAMY) | [Cactus](https://open.spotify.com/album/5dm1Wf0mTF0PwY3tXqohVI) | 3:34 | 2022-06-06 | 2022-07-29 |
-| [Chandelier](https://open.spotify.com/track/2s1sdSqGcKxpPr5lCl7jAV) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [1000 Forms Of Fear \(Deluxe Version\)](https://open.spotify.com/album/6FdNvoO5sF4EKwCX9je1MH) | 3:36 | 2022-07-25 |  |
+| [Chandelier](https://open.spotify.com/track/2s1sdSqGcKxpPr5lCl7jAV) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [1000 Forms Of Fear \(Deluxe Version\)](https://open.spotify.com/album/6FdNvoO5sF4EKwCX9je1MH) | 3:36 | 2022-07-25 | 2022-09-06 |
 | [Charlie](https://open.spotify.com/track/7aRSNPr2LpTl8v8jQnfWmD) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Charlie](https://open.spotify.com/album/4rQJk6OIbc5iVQ6V87AeyF) | 3:04 | 2022-08-15 | 2022-08-23 |
 | [cheap sunglasses](https://open.spotify.com/track/4E94u3v7VnEFZkaRIYtad7) | [John K](https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE) | [cheap sunglasses](https://open.spotify.com/album/0zyZJQmAJqsthlxKNNR8Cp) | 3:19 | 2022-06-06 | 2022-07-29 |
 | [Chemistry](https://open.spotify.com/track/4exaC757D7BBmexDDC3day) | [Jean Seizure](https://open.spotify.com/artist/2XI2CpdL1MtHXIt0rxa7mS) | [Chemistry](https://open.spotify.com/album/2JaUPjJ0TmNRQQA0zt1ivT) | 3:32 | 2022-07-11 | 2022-07-29 |
@@ -53,6 +53,7 @@
 | [Downtown](https://open.spotify.com/track/3Ga6eKrUFf12ouh9Yw3v2D) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Downtown](https://open.spotify.com/album/1qifX05Cb36CfsIgnhv2Lt) | 3:13 | 2022-07-25 |  |
 | [Drinking On A Tuesday](https://open.spotify.com/track/4UXIejXKvrHnbKoCNxojQA) | [Patrick Brasca](https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM) | [Drinking On A Tuesday](https://open.spotify.com/album/7iE0mJLOVvthwGkN04OBZ0) | 3:16 | 2022-06-06 | 2022-07-29 |
 | [Drunk Texting](https://open.spotify.com/track/4azlX12Lp0PMdnQ8BGrNIL) | [Max Jenmana](https://open.spotify.com/artist/5nkD00FEf53rM9s4v33uFx), [Kai Takahashi](https://open.spotify.com/artist/5vp0Xrp0OxMrfiRyxgVpGV) | [Drunk Texting](https://open.spotify.com/album/4LcY7lc6IwfUs4NpQVzPC5) | 3:13 | 2022-06-06 | 2022-07-26 |
+| [Everybody's Cool](https://open.spotify.com/track/5HUxswbr7V4fzwG1LGCf7U) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Keep On Smiling](https://open.spotify.com/album/0SbaC7OZOVB2WKGzf9ZMSQ) | 4:22 | 2022-09-05 |  |
 | [Fresh Feelings \(feat\. J.Sheon\)](https://open.spotify.com/track/3WRYvBdzmWUg3ccLdwRJ9U) | [Benjamin Kheng](https://open.spotify.com/artist/53GouHDfCfsBJIn1OjYmPO), [J.Sheon](https://open.spotify.com/artist/4DEItwf281SHmTnS8q3Mn9) | [Fresh Feelings \(feat\. J.Sheon\)](https://open.spotify.com/album/7FuyF09HbzIg81wIcOg5Mj) | 3:05 | 2022-06-06 | 2022-07-29 |
 | [get2know](https://open.spotify.com/track/4PjMMVmd9Sxe4K3EiAFnfQ) | [Talitha.](https://open.spotify.com/artist/4wkxDp8esk6g2W9Fw7IQGY) | [get2know](https://open.spotify.com/album/4ZRUUWKt8BonBz7fh1QDHJ) | 3:01 | 2022-06-06 | 2022-07-29 |
 | [GUY.exe](https://open.spotify.com/track/3JTjLyrnevl9ASw3ayGO2P) | [Superfruit](https://open.spotify.com/artist/50VoYemccTaftNfFqWtlXd) | [Future Friends](https://open.spotify.com/album/0Nq4Sve58GRDINSpbFMyz6) | 3:42 | 2022-07-25 |  |

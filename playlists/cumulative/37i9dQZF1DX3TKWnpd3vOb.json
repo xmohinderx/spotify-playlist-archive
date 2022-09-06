@@ -2270,6 +2270,24 @@
     },
     {
       "album": {
+        "name": "Para noventeros chilenos",
+        "url": "https://open.spotify.com/album/5PT5a0e9OJhMeejCDXdqqN"
+      },
+      "artists": [
+        {
+          "name": "Joe Vasconcellos",
+          "url": "https://open.spotify.com/artist/4sGC7K2rSpWrWudBgYPMce"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187759,
+      "name": "M\u00e1gico",
+      "url": "https://open.spotify.com/track/4CtI6hFwdR0xlCdap0Fhyn"
+    },
+    {
+      "album": {
         "name": "Toque",
         "url": "https://open.spotify.com/album/3fGKGJuofCLwmPzK2wLIxn"
       },
@@ -2831,7 +2849,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-06",
       "duration_ms": 237940,
       "name": "Sale",
       "url": "https://open.spotify.com/track/0JwfanqBJszF8B8bVjuXuU"

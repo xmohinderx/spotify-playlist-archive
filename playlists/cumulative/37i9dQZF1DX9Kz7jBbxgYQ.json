@@ -1321,6 +1321,32 @@
     {
       "album": {
         "name": "Nusrat",
+        "url": "https://open.spotify.com/album/3tTQGJAqjSEAUjTvvNrHsx"
+      },
+      "artists": [
+        {
+          "name": "NAALAYAK",
+          "url": "https://open.spotify.com/artist/6BWd8VpOoODhMOPks4sI6R"
+        },
+        {
+          "name": "Subir Malik",
+          "url": "https://open.spotify.com/artist/0GUULpt9IvFRrY3RnG4tOW"
+        },
+        {
+          "name": "Jasmine Kaur",
+          "url": "https://open.spotify.com/artist/1jKO7eePUCtEhfTzEIRE8G"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266024,
+      "name": "Nusrat",
+      "url": "https://open.spotify.com/track/1J8u6r4Iy1fT3xEil4p7VP"
+    },
+    {
+      "album": {
+        "name": "Nusrat",
         "url": "https://open.spotify.com/album/1L6vJZTwWfVV2ZEkVKy7sY"
       },
       "artists": [
@@ -1339,7 +1365,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-06",
       "duration_ms": 266024,
       "name": "Nusrat",
       "url": "https://open.spotify.com/track/2YQNdxjJRl7AY9Xx76lkna"

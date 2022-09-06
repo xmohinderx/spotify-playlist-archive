@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > Discover something new from local independent artists on the rise\. Cover: Elizabeth M Drummond Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,374 likes - 114 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,381 likes - 114 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 67 | [Safety](https://open.spotify.com/track/47np60RHvdUsQmsuxJNxQ3) | [Kat Edwards](https://open.spotify.com/artist/08i7j3DXn5p7I5PrdVd5bV) | [Safety](https://open.spotify.com/album/3W9xTi2DtHXWeNTkmRB5gK) | 4:32 |
 | 68 | [Upside Down](https://open.spotify.com/track/6z5r0Xh4wLXRh5X0L5pnzr) | [Olmos](https://open.spotify.com/artist/60cVbnHVILVFAO7tl3crPV), [Nuxe](https://open.spotify.com/artist/5Sq2960LCdGIniRjmbmT6G) | [Upside Down](https://open.spotify.com/album/5H2Fk9VETCsDpHaz1ym09p) | 3:23 |
 | 69 | [Light Me Up](https://open.spotify.com/track/3zF6k26Y9pbpivjPX6mAzw) | [Mzuki](https://open.spotify.com/artist/1WXhw0PBeOUR46yQsXoXW9) | [Light Me Up](https://open.spotify.com/album/0ZRV6QvISjfp0i5xZG9fQy) | 3:17 |
-| 70 | [Hopeless](https://open.spotify.com/track/47YwOuDwrk0VL0NbCXqHhL) | [Flowertruck](https://open.spotify.com/artist/4T6E4qe9F934xkyQrV4KOe) | [Hopeless](https://open.spotify.com/album/3eXCN0choCwFpHG1rn0Hme) | 3:57 |
+| 70 | [Hopeless](https://open.spotify.com/track/0S06omqo3wox0mF1Mq1KMS) | [Flowertruck](https://open.spotify.com/artist/4T6E4qe9F934xkyQrV4KOe) | [Partly Cloudy](https://open.spotify.com/album/2jbjXCBGS9nfJXnIyrIjJC) | 3:57 |
 | 71 | [Jiggy Jiggy](https://open.spotify.com/track/78T25DaOXOe4E1BUBfb7FJ) | [Travis Peach](https://open.spotify.com/artist/7Kf4UJ05n4UAwtJxaNeKXh) | [Jiggy Jiggy](https://open.spotify.com/album/0lJrhKo3O39cDxrhlFY3dH) | 2:53 |
 | 72 | [Tracy Grimshaw](https://open.spotify.com/track/3dMGnKVcJVBa7CxXSp8Yya) | [Mulalo](https://open.spotify.com/artist/5gUm9HBoHkyMtwmPyDJfNn) | [Tracy Grimshaw](https://open.spotify.com/album/5X32vW9f2LmO5Akf20fXC3) | 2:42 |
 | 73 | [Situation 99](https://open.spotify.com/track/1eqjdAYVL2mE9PuCnEUCDd) | [The Terrys](https://open.spotify.com/artist/4quStFmDD9EH5uSJQz4oLS) | [Situation 99](https://open.spotify.com/album/2k28Nqc82egW0aB6inYCy3) | 2:24 |
@@ -123,4 +123,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 113 | [Ae Fond Kiss](https://open.spotify.com/track/6ljx6NhqAQmeNKyDF7KysB) | [Wallace](https://open.spotify.com/artist/0MyoWugdPYngWgagHhIbWa) | [And Other Colours.](https://open.spotify.com/album/5NdNPreDQwB4qcWHxbhhXN) | 3:25 |
 | 114 | [Turbulence](https://open.spotify.com/track/6h0uA8KGR6ZKw2Pf8qcqhP) | [Huck Hastings](https://open.spotify.com/artist/3jn7GGpScmJrhkKZd9gzsn), [Charlie Gradon](https://open.spotify.com/artist/7vMRuONPsONKjwXBbbw2aU) | [Turbulence](https://open.spotify.com/album/73ln8EBit3P77OUxxSNdBU) | 3:32 |
 
-Snapshot ID: `MTY2MjA4MzE5NiwwMDAwMDAwMDZkZWQ5MzNlZmZmYjQyODZhZWEwNzRlMWViZjFjZWRm`
+Snapshot ID: `MTY2MjA4MzE5NiwwMDAwMDAwMGEzMDEyMjk5M2RkMWIyYmJlYTBhZjdjNzExOTc2NzQw`

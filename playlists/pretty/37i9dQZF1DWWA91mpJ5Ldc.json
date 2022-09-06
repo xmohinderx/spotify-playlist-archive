@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica brasileira para temperar as receitas do dia-a-dia.",
-  "num_followers": 102264,
+  "num_followers": 102291,
   "original_name": "Cozinhando em Casa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDk1MDgxMiwwMDAwMDAwMDExYTRhNTU0YWRiNzljZWM1NWJiYTM2NzlmNzI2MDVm",
+  "snapshot_id": "MTY2MDk1MDgxMiwwMDAwMDAwMDkyOGI4ZDUxNGZkYWQ4Y2IxOGJiNmRkYzVjNzAyOTU3",
   "tracks": [
     {
       "added_at": "2022-08-19 23:13:32",
@@ -455,22 +455,6 @@
     {
       "added_at": "2022-08-19 23:13:32",
       "album": {
-        "name": "Sinto Muito",
-        "url": "https://open.spotify.com/album/5fu7gooH6bp15cPuYGfGvx"
-      },
-      "artists": [
-        {
-          "name": "DUDA BEAT",
-          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
-        }
-      ],
-      "duration_ms": 200325,
-      "name": "B\u00e9di Beat",
-      "url": "https://open.spotify.com/track/7qaYhfTkekBcIm8q9Mewjd"
-    },
-    {
-      "added_at": "2022-08-19 23:13:32",
-      "album": {
         "name": "Nonsense, Vol. 1",
         "url": "https://open.spotify.com/album/0psPVRixSPuaBChZnZ9Eot"
       },
@@ -487,18 +471,18 @@
     {
       "added_at": "2022-08-19 23:13:32",
       "album": {
-        "name": "Calma",
-        "url": "https://open.spotify.com/album/4NnapYcmIcnlJXB22BPve5"
+        "name": "Sinto Muito",
+        "url": "https://open.spotify.com/album/5fu7gooH6bp15cPuYGfGvx"
       },
       "artists": [
         {
-          "name": "Marisa Monte",
-          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
+          "name": "DUDA BEAT",
+          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
         }
       ],
-      "duration_ms": 186400,
-      "name": "Calma",
-      "url": "https://open.spotify.com/track/1IcI7zO7RvGKGWx5jRNouz"
+      "duration_ms": 200325,
+      "name": "B\u00e9di Beat",
+      "url": "https://open.spotify.com/track/7qaYhfTkekBcIm8q9Mewjd"
     },
     {
       "added_at": "2022-08-19 23:13:32",
@@ -515,6 +499,22 @@
       "duration_ms": 192222,
       "name": "Fiz Pra Voc\u00ea",
       "url": "https://open.spotify.com/track/3p6dUNJX2labiQY6TqZcGW"
+    },
+    {
+      "added_at": "2022-08-19 23:13:32",
+      "album": {
+        "name": "Calma",
+        "url": "https://open.spotify.com/album/4NnapYcmIcnlJXB22BPve5"
+      },
+      "artists": [
+        {
+          "name": "Marisa Monte",
+          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
+        }
+      ],
+      "duration_ms": 186400,
+      "name": "Calma",
+      "url": "https://open.spotify.com/track/1IcI7zO7RvGKGWx5jRNouz"
     },
     {
       "added_at": "2022-08-19 23:13:32",
@@ -803,22 +803,6 @@
     {
       "added_at": "2022-08-19 23:13:32",
       "album": {
-        "name": "Seu Fim em Mim",
-        "url": "https://open.spotify.com/album/2Az8o0aheRMnNhCZrL1mAC"
-      },
-      "artists": [
-        {
-          "name": "Clara x Sofia",
-          "url": "https://open.spotify.com/artist/2AiR0VxXS1sbh2bSnVAKU0"
-        }
-      ],
-      "duration_ms": 218655,
-      "name": "Seu Fim em Mim",
-      "url": "https://open.spotify.com/track/2n64LKXEAzaSTzFpjckJh5"
-    },
-    {
-      "added_at": "2022-08-19 23:13:32",
-      "album": {
         "name": "Al\u00f4 Al\u00f4, Como Vai?",
         "url": "https://open.spotify.com/album/0FUD8ug6knwMxpVzAQRmEi"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 262933,
       "name": "Olha a Pipa",
       "url": "https://open.spotify.com/track/68pDys3d4esHKAntxrVFW5"
+    },
+    {
+      "added_at": "2022-08-19 23:13:32",
+      "album": {
+        "name": "Seu Fim em Mim",
+        "url": "https://open.spotify.com/album/2Az8o0aheRMnNhCZrL1mAC"
+      },
+      "artists": [
+        {
+          "name": "Clara x Sofia",
+          "url": "https://open.spotify.com/artist/2AiR0VxXS1sbh2bSnVAKU0"
+        }
+      ],
+      "duration_ms": 218655,
+      "name": "Seu Fim em Mim",
+      "url": "https://open.spotify.com/track/2n64LKXEAzaSTzFpjckJh5"
     },
     {
       "added_at": "2022-08-19 23:13:32",

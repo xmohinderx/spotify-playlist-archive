@@ -4,7 +4,7 @@
 
 > Piérdete en el misterio del bosque y sus poderes sanadores.
 
-253 songs - 14 hr 23 min - [published](https://open.spotify.com/playlist/242qd1QUw3B0ykfcQKOcL5)
+254 songs - 14 hr 27 min - [published](https://open.spotify.com/playlist/242qd1QUw3B0ykfcQKOcL5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -225,7 +225,7 @@
 | [Spectral Morning](https://open.spotify.com/track/58BwA9Le9wc2DuQtvmd4lf) | [Ivory Past](https://open.spotify.com/artist/2QBfUl1q5YCiTZfp8NDvtK) | [Spectral Morning](https://open.spotify.com/album/0ZXFCRHBPXXdD9QScxkL1z) | 4:00 | 2022-06-29 | 2022-07-29 |
 | [Sphere](https://open.spotify.com/track/7E9TD2kl65jwvFGnRn7wgK) | [Osterous](https://open.spotify.com/artist/5hWATAqtCxxnFEVmU268YR) | [Sphere](https://open.spotify.com/album/3FMdumsEZZbW3pEUwL9k5m) | 3:15 | 2022-06-29 |  |
 | [String of Raindrops](https://open.spotify.com/track/5vosryofCmhWtisU0mLzy2) | [Oliver Hoffman](https://open.spotify.com/artist/317F1iW6iH9zh8WaLoI1d7) | [Catalogue of Emotions](https://open.spotify.com/album/6tzjxQtM9gj0aZy6WsYu4i) | 3:10 | 2022-06-29 |  |
-| [Summer Leaves](https://open.spotify.com/track/1RLdZIQcP0fCt7pGAk25VV) | [CRAS](https://open.spotify.com/artist/7xLXfZZ2WhMqupfnyEZprQ), [KLiJN](https://open.spotify.com/artist/2NeBvyUzeaT49yAKHasE06) | [Summer Leaves](https://open.spotify.com/album/45Qp8puef0kWrGdbzV5KgM) | 5:00 | 2022-07-19 |  |
+| [Summer Leaves](https://open.spotify.com/track/1RLdZIQcP0fCt7pGAk25VV) | [CRAS](https://open.spotify.com/artist/7xLXfZZ2WhMqupfnyEZprQ), [KLiJN](https://open.spotify.com/artist/2NeBvyUzeaT49yAKHasE06) | [Summer Leaves](https://open.spotify.com/album/45Qp8puef0kWrGdbzV5KgM) | 5:00 | 2022-07-19 | 2022-09-06 |
 | [Sunrise.](https://open.spotify.com/track/2zRxmGsKamvD64hOBCsl7x) | [LFO Waves](https://open.spotify.com/artist/1JjFLJxtZ8Es5nRpz4146Z) | [Sunrise.](https://open.spotify.com/album/4OkpHMa6TXAV8iZPDpBPah) | 2:58 | 2022-07-19 |  |
 | [Sunrise.](https://open.spotify.com/track/6kv7h8wQzFq9gJDkR8AR24) | [LFO Waves](https://open.spotify.com/artist/1JjFLJxtZ8Es5nRpz4146Z) | [Sunrise.](https://open.spotify.com/album/26vgL2Xkr7FyYAe57aCWR4) | 2:58 | 2022-06-29 | 2022-07-29 |
 | [Sweet Iris](https://open.spotify.com/track/3irGdDT3AonsGCNgpx7eAt) | [Lukkii and The Whale](https://open.spotify.com/artist/4UeyQjMmoBKj8AhXpDAiwj) | [Pink Lotus](https://open.spotify.com/album/6s6WQ9eCaArieGMCsoe5vP) | 3:36 | 2022-06-29 |  |
@@ -258,6 +258,7 @@
 | [Wonders](https://open.spotify.com/track/3hUO3O0H2XnZ6QCpHSPRWb) | [Endless Horizons](https://open.spotify.com/artist/2IGUJpalup0MTb59NIKFiT) | [Wonders](https://open.spotify.com/album/78wbhGunanw1Mh5GEAV5tw) | 2:53 | 2022-06-29 | 2022-07-29 |
 | [Wonders](https://open.spotify.com/track/5DJ8bf7jqxzS5tTE1PAavw) | [Endless Horizons](https://open.spotify.com/artist/2IGUJpalup0MTb59NIKFiT) | [Wonders](https://open.spotify.com/album/1nnJ6oJQTDDP9kDvUV8fOE) | 2:53 | 2022-07-19 |  |
 | [Yalmi](https://open.spotify.com/track/4vbpZqfVsIz1lPEsMT0IkE) | [Merc La](https://open.spotify.com/artist/0bSzN4RWd1T5I0ICYR2LJS) | [Yalmi](https://open.spotify.com/album/5O6cASUJg7un5RD7kqO0UT) | 2:23 | 2022-06-29 |  |
+| [Yantra 432hz](https://open.spotify.com/track/2PCp2VuoWNGTGZiY6oVEU3) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw) | [Yantra](https://open.spotify.com/album/77LGZALRDaNE9AzVNrEKRH) | 4:08 | 2022-09-02 |  |
 | [Zentrera](https://open.spotify.com/track/6aJTuwVY83SwEmFJxtKXoR) | [Moontonic](https://open.spotify.com/artist/2aQ11bG4kZ5Tf45FpsvrwO) | [Zentrera](https://open.spotify.com/album/6kwnMcWJVGzf6oRB4Z2W7u) | 2:52 | 2022-06-29 |  |
 | [Zeppelin See](https://open.spotify.com/track/5SxlRbsS4E5t0d76Cc0LHG) | [Montbretia](https://open.spotify.com/artist/7A9r37hE6RLqltWm7fgZOA) | [Zeppelin See](https://open.spotify.com/album/4x9XZ03dgMjcEjcxSm9aBa) | 2:59 | 2022-07-19 |  |
 | [Zhangye](https://open.spotify.com/track/5N4vu7YjgMluONhlzndhMN) | [Morongo](https://open.spotify.com/artist/0UlTnSGW8Z8hUZq1VDVorm) | [Zhangye](https://open.spotify.com/album/24WWNx33giKA9ZS69ANa0h) | 3:38 | 2022-06-29 |  |

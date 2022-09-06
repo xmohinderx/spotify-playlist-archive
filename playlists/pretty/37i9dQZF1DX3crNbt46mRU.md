@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Ava Max
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,109 likes - 112 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,112 likes - 112 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

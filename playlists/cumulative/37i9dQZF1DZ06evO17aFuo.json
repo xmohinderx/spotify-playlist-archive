@@ -181,7 +181,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-30",
+      "date_removed": null,
       "duration_ms": 254773,
       "name": "Captive Honour",
       "url": "https://open.spotify.com/track/3hUTwUiS7H79Po2hnErd8H"
@@ -325,7 +325,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-05",
+      "date_removed": null,
       "duration_ms": 145813,
       "name": "Dialectic Chaos",
       "url": "https://open.spotify.com/track/2Sl9U6mLbNeaE9lT9C32Td"
@@ -707,7 +707,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-06",
       "duration_ms": 295333,
       "name": "My Last Words - Remastered",
       "url": "https://open.spotify.com/track/6VdoivAOy8oRR6Pmpw4Ux4"
@@ -729,7 +729,7 @@
       ],
       "date_added": "2022-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-06",
       "duration_ms": 398253,
       "name": "Night Stalkers",
       "url": "https://open.spotify.com/track/22GAndLWMAxtAIkWtomcZC"
@@ -769,7 +769,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-05",
+      "date_removed": null,
       "duration_ms": 183360,
       "name": "No More Mr. Nice Guy",
       "url": "https://open.spotify.com/track/48xclRgatXaAZQVIc6DYcT"
@@ -859,7 +859,7 @@
       ],
       "date_added": "2022-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-06",
       "duration_ms": 80146,
       "name": "Psychopathy",
       "url": "https://open.spotify.com/track/2lpQA93iHApjUWTRZvGMZm"
@@ -985,7 +985,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-06",
       "duration_ms": 195826,
       "name": "Skin O' My Teeth - Remastered",
       "url": "https://open.spotify.com/track/7EFho37SrizYaQ2NVxLejd"
@@ -1187,6 +1187,28 @@
       "duration_ms": 207440,
       "name": "This Day We Fight!",
       "url": "https://open.spotify.com/track/4NVzKq9K1Ryq9PSE9YyFuS"
+    },
+    {
+      "album": {
+        "name": "The Sick, The Dying\u2026 And The Dead!",
+        "url": "https://open.spotify.com/album/1ziUtOuRT545OI4cnHEMhC"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        },
+        {
+          "name": "Sammy Hagar",
+          "url": "https://open.spotify.com/artist/1hXjTjJzZTXDZ75AclOo6N"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304220,
+      "name": "This Planet\u2019s On Fire (Burn In Hell)",
+      "url": "https://open.spotify.com/track/2vRDVayfkQl5pAV6qQ8qfb"
     },
     {
       "album": {

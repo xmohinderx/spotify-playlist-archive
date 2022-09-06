@@ -1,12 +1,12 @@
 {
   "description": "Great songs from great people.  Enjoy music from artists you can believe in!",
-  "num_followers": 73340,
+  "num_followers": 73341,
   "original_name": "Good People Good Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5OTE5MjEyMCwwMDAwMDAwMDE4M2YyZjdhYzJkZDM2YzRhY2I3YmU2YmM1YmFmNjhl",
+  "snapshot_id": "MTU5OTE5MjEyMCwwMDAwMDAwMDM3YWQ4MDYyOTVkNTRiMjgyYWJiZTJhMDUyOTAwMGFk",
   "tracks": [
     {
       "added_at": "2020-09-04 04:02:00",
@@ -511,18 +511,18 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Versions",
-        "url": "https://open.spotify.com/album/5THuXFOq0TAqmfjpnMxdEa"
+        "name": "Peopled with Dreams",
+        "url": "https://open.spotify.com/album/3jjIZaP21vWBSrmQlsXrtv"
       },
       "artists": [
         {
-          "name": "Elenowen",
-          "url": "https://open.spotify.com/artist/0YupLF0tszgj7vyKCQlRoC"
+          "name": "John Mark McMillan",
+          "url": "https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek"
         }
       ],
-      "duration_ms": 231346,
-      "name": "Losing the Lonely",
-      "url": "https://open.spotify.com/track/1C5AsyCp4hxF7qII4kOtbS"
+      "duration_ms": 234558,
+      "name": "Juggernaut",
+      "url": "https://open.spotify.com/track/5IPkJqYSdbCJJHZA840z3I"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -543,50 +543,18 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Peopled with Dreams",
-        "url": "https://open.spotify.com/album/3jjIZaP21vWBSrmQlsXrtv"
+        "name": "Versions",
+        "url": "https://open.spotify.com/album/5THuXFOq0TAqmfjpnMxdEa"
       },
       "artists": [
         {
-          "name": "John Mark McMillan",
-          "url": "https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek"
+          "name": "Elenowen",
+          "url": "https://open.spotify.com/artist/0YupLF0tszgj7vyKCQlRoC"
         }
       ],
-      "duration_ms": 234558,
-      "name": "Juggernaut",
-      "url": "https://open.spotify.com/track/5IPkJqYSdbCJJHZA840z3I"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
-        "name": "Covers",
-        "url": "https://open.spotify.com/album/6UQ4DtMNWgxw6ufVxjdXHF"
-      },
-      "artists": [
-        {
-          "name": "Switchfoot",
-          "url": "https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu"
-        }
-      ],
-      "duration_ms": 297506,
-      "name": "Harmony Hall",
-      "url": "https://open.spotify.com/track/2uoITMIoM5gCEpt3JucVmF"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
-        "name": "Walk into a Storm",
-        "url": "https://open.spotify.com/album/74FJWhrNj4yi9NoXzIioUZ"
-      },
-      "artists": [
-        {
-          "name": "The Lone Bellow",
-          "url": "https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7"
-        }
-      ],
-      "duration_ms": 197120,
-      "name": "Time's Always Leaving",
-      "url": "https://open.spotify.com/track/7e5k4ucRMRHT9MEJh6PTxI"
+      "duration_ms": 231346,
+      "name": "Losing the Lonely",
+      "url": "https://open.spotify.com/track/1C5AsyCp4hxF7qII4kOtbS"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -611,6 +579,22 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
+        "name": "Walk into a Storm",
+        "url": "https://open.spotify.com/album/74FJWhrNj4yi9NoXzIioUZ"
+      },
+      "artists": [
+        {
+          "name": "The Lone Bellow",
+          "url": "https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7"
+        }
+      ],
+      "duration_ms": 197120,
+      "name": "Time's Always Leaving",
+      "url": "https://open.spotify.com/track/7e5k4ucRMRHT9MEJh6PTxI"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
         "name": "Pep Talks",
         "url": "https://open.spotify.com/album/5CuJb813nzBM4FMfTNByH9"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 480893,
       "name": "Queen Songs / human.",
       "url": "https://open.spotify.com/track/3iQjudKcOPBZQ5tDHFINHd"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "Covers",
+        "url": "https://open.spotify.com/album/6UQ4DtMNWgxw6ufVxjdXHF"
+      },
+      "artists": [
+        {
+          "name": "Switchfoot",
+          "url": "https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu"
+        }
+      ],
+      "duration_ms": 297506,
+      "name": "Harmony Hall",
+      "url": "https://open.spotify.com/track/2uoITMIoM5gCEpt3JucVmF"
     },
     {
       "added_at": "2020-09-04 04:02:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5CdVP4rz81C.md) - [plain]
 
 > Discover your favorite new chill pop songs\. Cover: Bazzi
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,263,532 likes - 91 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,263,767 likes - 91 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

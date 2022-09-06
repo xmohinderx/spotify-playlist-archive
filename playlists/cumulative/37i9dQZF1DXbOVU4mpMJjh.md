@@ -4,7 +4,7 @@
 
 > Relax to vocal and instrumental jazz.
 
-378 songs - 1 day 8 hr 4 min - [published](https://open.spotify.com/playlist/29i7snURyHbowNmRmTZEnp)
+379 songs - 1 day 8 hr 6 min - [published](https://open.spotify.com/playlist/29i7snURyHbowNmRmTZEnp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -206,7 +206,7 @@
 | [Maybe Some Other Time](https://open.spotify.com/track/1ih4edYGz6a5bP9vuabZM4) | [Magnus Ringblom Quartet](https://open.spotify.com/artist/253IbsVCS7UKpL61Dv5hru) | [As Life Turns Around](https://open.spotify.com/album/5HRiUoutO21xfdWMOhv7X3) | 3:43 | 2022-04-14 |  |
 | [Maze of Tranquility](https://open.spotify.com/track/06henIQqvVk2vAKj1yQtTp) | [Martin Landström](https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN) | [Maze of Tranquility](https://open.spotify.com/album/3xOT2GRM03MGNTRMQFSPZS) | 4:22 | 2022-08-29 |  |
 | [Mean to Me](https://open.spotify.com/track/6Q7U4bTozx5kfLjWT81u7P) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [Sarah Vaughan In Hi\-Fi](https://open.spotify.com/album/3atCVYmLjlC6j3duEB6XuN) | 2:52 | 2022-04-14 |  |
-| [Measures](https://open.spotify.com/track/6jwlziYjqQXHxFRKHDItHy) | [Nostalgia 77](https://open.spotify.com/artist/3U5oimD8ITVHMJQoxypQPN), [The Monster](https://open.spotify.com/artist/3l08OYoeuhxPi8npdww6rn) | [Measures](https://open.spotify.com/album/59zzehn8UfZuvCi8HYwQWo) | 4:17 | 2022-08-29 |  |
+| [Measures](https://open.spotify.com/track/6jwlziYjqQXHxFRKHDItHy) | [Nostalgia 77](https://open.spotify.com/artist/3U5oimD8ITVHMJQoxypQPN), [The Monster](https://open.spotify.com/artist/3l08OYoeuhxPi8npdww6rn) | [Measures](https://open.spotify.com/album/59zzehn8UfZuvCi8HYwQWo) | 4:17 | 2022-08-29 | 2022-09-06 |
 | [Measures](https://open.spotify.com/track/0zAIkzb2mls12aWWX7dwrT) | [Nostalgia 77 and the Monster](https://open.spotify.com/artist/1XOziqVpUljB7gkL2OdqBR) | [Fifteen](https://open.spotify.com/album/4k7Bf3P7j76awEPPkIBYKH) | 4:17 | 2022-04-14 | 2022-07-28 |
 | [Midair](https://open.spotify.com/track/37G7prE4bs7O7gaiyh6g4e) | [Ennio Máno](https://open.spotify.com/artist/257NeKIWsdypZxr0j4xnOs) | [Midair](https://open.spotify.com/album/5l97IRN5PKVVhU9n0Wn59n) | 2:29 | 2022-04-14 | 2022-04-27 |
 | [Midnight Lines](https://open.spotify.com/track/4sS86z3NqZnfE4RI81ymSV) | [Josh Lavender Trio](https://open.spotify.com/artist/4vphT3pBuwveeulpKz5DzU) | [Midnight Lines](https://open.spotify.com/album/3fmjOE7ExJ1Dzl5v9CNjzX) | 4:43 | 2022-05-17 |  |
@@ -357,6 +357,7 @@
 | [Tulip Summer](https://open.spotify.com/track/3spDu5SW9fQRGUNz699MeN) | [6th Street Jazz](https://open.spotify.com/artist/1EQvOf7PPTDB3s0q1y9eD1) | [The Reasons That I Love You](https://open.spotify.com/album/5GM3f2GT3BwzfKtKdjE0O8) | 5:03 | 2022-08-11 |  |
 | [Turiya & Ramakrishna](https://open.spotify.com/track/4DVu7YgHVJaeN0C7HNpy2q) | [Alice Coltrane](https://open.spotify.com/artist/0oKYiTD5CdNbrofRvM1dIr) | [Ptah The El Daoud](https://open.spotify.com/album/6XyhwP7a50E4u83H9aM8sD) | 8:18 | 2022-04-14 | 2022-04-28 |
 | [Turn Out the Stars](https://open.spotify.com/track/5jD6uLibX1R7wKGFJ6zx4N) | [Three Four Trio](https://open.spotify.com/artist/71RWScq7sSiOx08UQe37fv) | [Tenor Madness](https://open.spotify.com/album/5FxWL2Ad3i7pqcouKIeXJM) | 5:01 | 2022-04-14 |  |
+| [Twelve for J.](https://open.spotify.com/track/0B8qcFnV8anELirOWmOQQS) | [Caris Hermes](https://open.spotify.com/artist/23PTKxQtsIL4Z9AZsNabz0) | [Caris Hermes](https://open.spotify.com/album/0MKfKZSFjgGYuBZsxe4HNz) | 2:46 | 2022-09-01 |  |
 | [Un Jour De Différence](https://open.spotify.com/track/1WLTzgu4pulSMjGjinApyd) | [Susie Arioli](https://open.spotify.com/artist/1RP8z21bodEXHqdJOx2VZ9), [Jeff Johnston](https://open.spotify.com/artist/6sg6wzUynsWQNmhS4cBQgp), [Bill Gossage](https://open.spotify.com/artist/3DIwSrXAs3zyLFxuyjt62D), [Frédéric Grenier](https://open.spotify.com/artist/75NhFDotWXXsrvG2xPjDpS), [Michel Berthiaume](https://open.spotify.com/artist/0Af2U9ZexloRwwJIARz3ez), [Jordan Officer](https://open.spotify.com/artist/3WaxIOxGHCCrhx840jEGuL) | [All The Way\-EP](https://open.spotify.com/album/6SGi9R8T8BfGSwhg6fjtEG) | 3:22 | 2022-04-14 | 2022-05-03 |
 | [Under A Smiling Moon](https://open.spotify.com/track/0I4boD33TLuWNt7kskm3KY) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai) | [A Scandinavian Thing](https://open.spotify.com/album/0bjvkCZgQWIFDRedJAoxTO) | 4:23 | 2022-04-14 | 2022-07-29 |
 | [Under A Smiling Moon](https://open.spotify.com/track/0aqmVdsk85uvygzAxpJENH) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai) | [A Scandinavian Thing](https://open.spotify.com/album/0qy8kSH76bUb9abjOjfh7W) | 4:23 | 2022-06-30 |  |

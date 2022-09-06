@@ -4,7 +4,7 @@
 
 > We just wanna rock you all night long.
 
-161 songs - 15 hr 21 min - [published](https://open.spotify.com/playlist/2z5WQJnawaIEybSj0518t2)
+162 songs - 15 hr 27 min - [published](https://open.spotify.com/playlist/2z5WQJnawaIEybSj0518t2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,7 @@
 | [I Can't Get Along Without You](https://open.spotify.com/track/6mHUnQi6NWf1bq2f9GIbH5) | [Vance and Suzzanne](https://open.spotify.com/artist/6aoquwjUxOgIVS9nVLZxEe) | [I Can't Get Along Without You](https://open.spotify.com/album/3pSn6zXL2iV5pKBiVaFoel) | 6:40 | 2022-02-10 | 2022-07-29 |
 | [I Feel Love \- 12" Version](https://open.spotify.com/track/2d6qTH3HKGwn75lpRtaEA1) | [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U) | [Bad Girls \[Deluxe Edition \(US Version\)\]](https://open.spotify.com/album/34qkfc2enZLwUhnrUGLLjb) | 8:15 | 2022-02-10 | 2022-07-29 |
 | [I Feel Love \- 12" Version](https://open.spotify.com/track/7B7lf3sIze5VR2WuYttn18) | [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U) | [Bad Girls \(Deluxe Edition\)](https://open.spotify.com/album/4h63dypm4IYSGfCDe2Gcz6) | 8:15 | 2022-02-10 |  |
-| [I Know You Will](https://open.spotify.com/track/5s9HKog1eWw3CnXzu8I4L7) | [Logg](https://open.spotify.com/artist/3v3t1WMcKhHpqDs6xGmjAQ) | [Logg](https://open.spotify.com/album/0FrNXIGtl6xPTTnDM4C3hX) | 6:48 | 2022-02-10 |  |
+| [I Know You Will](https://open.spotify.com/track/5s9HKog1eWw3CnXzu8I4L7) | [Logg](https://open.spotify.com/artist/3v3t1WMcKhHpqDs6xGmjAQ) | [Logg](https://open.spotify.com/album/0FrNXIGtl6xPTTnDM4C3hX) | 6:48 | 2022-02-10 | 2022-09-06 |
 | [I Zimbra \- 2005 Remaster](https://open.spotify.com/track/2zdlkG9g5Mt0alUdqn7s3D) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Fear of Music \(Deluxe Version\)](https://open.spotify.com/album/5dVZpNJraoqCo3BssinMoo) | 3:08 | 2022-02-10 |  |
 | [I.G.Y.](https://open.spotify.com/track/6bzwsAtj4TqaBysLDrGiO3) | [Donald Fagen](https://open.spotify.com/artist/0S1SjYebdSaiMpI8xSW2Wb) | [The Nightfly](https://open.spotify.com/album/5cOS6szqlcoqmiSoVTqqe8) | 6:03 | 2022-02-10 |  |
 | [Icare](https://open.spotify.com/track/67OcVGdHgzLykVUbaXwVYv) | [Yuksek](https://open.spotify.com/artist/2ePIzx9NjxplS724QMZtsf), [Bertrand Burgalat](https://open.spotify.com/artist/2JzpIUoj6kZ8r11iE46yq7) | [Icare](https://open.spotify.com/album/3xQhF7EoL5DS0DceUsG8Fv) | 3:42 | 2022-02-10 |  |
@@ -145,6 +145,7 @@
 | [Stop Your Life \- Original Album](https://open.spotify.com/track/3tbjrBQ9DHxuXxE4GuqZOz) | [Ago](https://open.spotify.com/artist/3tr79XZgYXoRoI5G49Zqbx) | [For You \(LP\)](https://open.spotify.com/album/3HaUzrq7HVsuVTmIIcsZ8n) | 4:38 | 2022-02-10 |  |
 | [Sunny](https://open.spotify.com/track/5uTYt5fAo3dJhoQLXGgXuz) | [Yambu](https://open.spotify.com/artist/4bt3NedLz3Lj3MtCE0UWNY) | [Al Santiago Presents Yambú](https://open.spotify.com/album/6tkobA7eI1CnhHKhfdldLX) | 4:32 | 2022-02-10 |  |
 | [Sunny](https://open.spotify.com/track/6uHHXWpdyPMQ5KBiF6BXYS) | [Yambu](https://open.spotify.com/artist/4bt3NedLz3Lj3MtCE0UWNY) | [Yambu](https://open.spotify.com/album/15PjswGPHXcOcxxITyCqQy) | 4:32 | 2022-02-10 | 2022-07-29 |
+| [Sweet Power of Your Embrace](https://open.spotify.com/track/55goBag8vVmsesMxOdIe5M) | [James Mason](https://open.spotify.com/artist/6HC9gScXpsScEq3Cgq5UvZ) | [Rhythm Of Life](https://open.spotify.com/album/2mv1fpeMeseWyD0MIjKxe1) | 5:26 | 2022-09-05 |  |
 | [Sweet Power, Your Embrace \- Mixed](https://open.spotify.com/track/5cmo0oP1To7N0ogNbtUr5n) | [James Mason](https://open.spotify.com/artist/6HC9gScXpsScEq3Cgq5UvZ) | [DJ\-Kicks \(Motor City Drum Ensemble\) \[DJ Mix\]](https://open.spotify.com/album/2EnnfPOFLPc4cs6TAKZrBu) | 5:18 | 2022-02-10 | 2022-07-29 |
 | [The Magnificent Dance](https://open.spotify.com/track/6Kc1GmyS6mLRjDXIRkGCtp) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Super Black Market Clash](https://open.spotify.com/album/1IURjc5W1J7vtgKgaMe3BG) | 5:36 | 2022-02-10 | 2022-07-29 |
 | [The Magnificent Dance](https://open.spotify.com/track/2vUlFUyRbemQaseUj6NESz) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Sound System](https://open.spotify.com/album/48xJ1Xj8V4snc0am3T0SoF) | 5:37 | 2022-02-10 |  |

@@ -2178,6 +2178,24 @@
     },
     {
       "album": {
+        "name": "Endless Sky",
+        "url": "https://open.spotify.com/album/2gudZLuzUEnf5AXljy75vO"
+      },
+      "artists": [
+        {
+          "name": "Dusky",
+          "url": "https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159562,
+      "name": "Endless Sky",
+      "url": "https://open.spotify.com/track/3oHOObxpYRdsRwVqizxWNM"
+    },
+    {
+      "album": {
         "name": "HARAM!",
         "url": "https://open.spotify.com/album/5m1R17FavKPjP7H5YPtrt1"
       },
@@ -2347,7 +2365,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-06",
       "duration_ms": 216480,
       "name": "Feel About You - Edit",
       "url": "https://open.spotify.com/track/4OSS2eDxVmkG13O7MXPxul"
@@ -5684,6 +5702,28 @@
     },
     {
       "album": {
+        "name": "Stellar Drifting",
+        "url": "https://open.spotify.com/album/10R86B7gmlS7yVf8IBx9uE"
+      },
+      "artists": [
+        {
+          "name": "George FitzGerald",
+          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
+        },
+        {
+          "name": "SOAK",
+          "url": "https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281060,
+      "name": "Rainbows and Dreams",
+      "url": "https://open.spotify.com/track/7skKYebcq4DBnVGJdanIGb"
+    },
+    {
+      "album": {
         "name": "Raise Your Head",
         "url": "https://open.spotify.com/album/5P2bB9zhgOEYcEYgxIuXDp"
       },
@@ -6503,7 +6543,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-06",
       "duration_ms": 289411,
       "name": "Someday - salute Remix",
       "url": "https://open.spotify.com/track/7AVHYVUUTusrL4zPSekFfT"

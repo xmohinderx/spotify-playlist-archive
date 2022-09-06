@@ -1,12 +1,12 @@
 {
   "description": "Eagles, The Byrds and all your favorite country rock",
-  "num_followers": 116271,
+  "num_followers": 116385,
   "original_name": "Country Rock Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzA0ODI5NCwwMDAwMDAwMGJlODlmODMwM2QyMDA5NDc3MmIzMjkxNTI5ZmZkMjk2",
+  "snapshot_id": "MTY1NzA0ODI5NCwwMDAwMDAwMDA5NWEwN2NhMWZkYzYyNjYxOWU3MDEzODdhMTVmNzk5",
   "tracks": [
     {
       "added_at": "2020-08-05 15:52:11",
@@ -107,22 +107,6 @@
     {
       "added_at": "2020-08-05 15:52:11",
       "album": {
-        "name": "One of These Nights (2013 Remaster)",
-        "url": "https://open.spotify.com/album/0F77QekrNe8vVAjU2sepja"
-      },
-      "artists": [
-        {
-          "name": "Eagles",
-          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
-        }
-      ],
-      "duration_ms": 381998,
-      "name": "Lyin' Eyes - 2013 Remaster",
-      "url": "https://open.spotify.com/track/5lQKRR3MdJLtAwNBiT8Cq0"
-    },
-    {
-      "added_at": "2020-08-05 15:52:11",
-      "album": {
         "name": "Crosby, Stills & Nash",
         "url": "https://open.spotify.com/album/6vUWpE8qciYHOhf7mgaGny"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 444053,
       "name": "Suite: Judy Blue Eyes - 2005 Remaster",
       "url": "https://open.spotify.com/track/2PuUFT13yCzUOZun94WOXv"
+    },
+    {
+      "added_at": "2020-08-05 15:52:11",
+      "album": {
+        "name": "One of These Nights (2013 Remaster)",
+        "url": "https://open.spotify.com/album/0F77QekrNe8vVAjU2sepja"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "duration_ms": 381998,
+      "name": "Lyin' Eyes - 2013 Remaster",
+      "url": "https://open.spotify.com/track/5lQKRR3MdJLtAwNBiT8Cq0"
     },
     {
       "added_at": "2022-06-01 14:18:36",
@@ -221,22 +221,6 @@
       "url": "https://open.spotify.com/track/7HblJM23la7H8kXeBwlkzN"
     },
     {
-      "added_at": "2020-08-05 15:52:11",
-      "album": {
-        "name": "Legend",
-        "url": "https://open.spotify.com/album/5pC3jEw11eiVY5Vi9z1ooi"
-      },
-      "artists": [
-        {
-          "name": "Poco",
-          "url": "https://open.spotify.com/artist/0fyqyjD7pbaVzbu94ylWQR"
-        }
-      ],
-      "duration_ms": 294533,
-      "name": "Heart Of The Night",
-      "url": "https://open.spotify.com/track/6fNID7koTl1dZBCs6FmK4E"
-    },
-    {
       "added_at": "2022-06-01 14:20:20",
       "album": {
         "name": "Eagles (2013 Remaster)",
@@ -251,6 +235,22 @@
       "duration_ms": 250888,
       "name": "Witchy Woman - 2013 Remaster",
       "url": "https://open.spotify.com/track/436yrzQWA32vb1sTZKXg9r"
+    },
+    {
+      "added_at": "2020-08-05 15:52:11",
+      "album": {
+        "name": "Legend",
+        "url": "https://open.spotify.com/album/5pC3jEw11eiVY5Vi9z1ooi"
+      },
+      "artists": [
+        {
+          "name": "Poco",
+          "url": "https://open.spotify.com/artist/0fyqyjD7pbaVzbu94ylWQR"
+        }
+      ],
+      "duration_ms": 294533,
+      "name": "Heart Of The Night",
+      "url": "https://open.spotify.com/track/6fNID7koTl1dZBCs6FmK4E"
     },
     {
       "added_at": "2020-08-05 15:52:11",
@@ -349,6 +349,22 @@
       "url": "https://open.spotify.com/track/0Ov9Hh2ygoGCkwTXMRYRcp"
     },
     {
+      "added_at": "2022-06-01 14:20:20",
+      "album": {
+        "name": "Eagles (2013 Remaster)",
+        "url": "https://open.spotify.com/album/51B7LbLWgYLKBVSpkan8Z7"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "duration_ms": 250456,
+      "name": "Train Leaves Here This Morning - 2013 Remaster",
+      "url": "https://open.spotify.com/track/5ro7xAxDVbtabTl8t3MzHz"
+    },
+    {
       "added_at": "2022-06-01 14:18:36",
       "album": {
         "name": "Song for Juli",
@@ -379,22 +395,6 @@
       "duration_ms": 243000,
       "name": "Lonesome L.A. Cowboy",
       "url": "https://open.spotify.com/track/6vOV8fmbk16LYgL2CQ64ih"
-    },
-    {
-      "added_at": "2022-06-01 14:20:20",
-      "album": {
-        "name": "Eagles (2013 Remaster)",
-        "url": "https://open.spotify.com/album/51B7LbLWgYLKBVSpkan8Z7"
-      },
-      "artists": [
-        {
-          "name": "Eagles",
-          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
-        }
-      ],
-      "duration_ms": 250456,
-      "name": "Train Leaves Here This Morning - 2013 Remaster",
-      "url": "https://open.spotify.com/track/5ro7xAxDVbtabTl8t3MzHz"
     },
     {
       "added_at": "2020-08-05 15:52:11",
@@ -511,26 +511,6 @@
     {
       "added_at": "2020-08-05 15:52:11",
       "album": {
-        "name": "Grievous Angel",
-        "url": "https://open.spotify.com/album/6UQujMGmR5MbFsML9amCuN"
-      },
-      "artists": [
-        {
-          "name": "Gram Parsons",
-          "url": "https://open.spotify.com/artist/1KA3WXYMPLxomNuoE22LYd"
-        },
-        {
-          "name": "Emmylou Harris",
-          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
-        }
-      ],
-      "duration_ms": 212893,
-      "name": "Ooh Las Vegas (feat. Emmylou Harris) - 2007 Remaster",
-      "url": "https://open.spotify.com/track/7kJpAkJSFMCkM6T4plsRLd"
-    },
-    {
-      "added_at": "2020-08-05 15:52:11",
-      "album": {
         "name": "Hotel California (40th Anniversary Expanded Edition)",
         "url": "https://open.spotify.com/album/5NMAdQPrKw5nutWnGEzfpn"
       },
@@ -543,22 +523,6 @@
       "duration_ms": 304925,
       "name": "New Kid in Town - 2013 Remaster",
       "url": "https://open.spotify.com/track/3T0HWZFYwE5iPXTIHJ1MMS"
-    },
-    {
-      "added_at": "2022-06-01 14:18:36",
-      "album": {
-        "name": "The Fantastic Expedition Of Dillard & Clark",
-        "url": "https://open.spotify.com/album/6SaetmQc4GCTzdZuW7khKx"
-      },
-      "artists": [
-        {
-          "name": "Dillard & Clark",
-          "url": "https://open.spotify.com/artist/3QcM2tU8CDY3LyzvwCj1CI"
-        }
-      ],
-      "duration_ms": 228493,
-      "name": "Train Leaves Here This Mornin",
-      "url": "https://open.spotify.com/track/3QakrNWYNgZ89by21ImeBN"
     },
     {
       "added_at": "2020-08-05 15:52:11",
@@ -595,6 +559,22 @@
       "duration_ms": 159133,
       "name": "Mama Nantucket",
       "url": "https://open.spotify.com/track/3PqhliKIHScPgJgse7KHTq"
+    },
+    {
+      "added_at": "2022-06-01 14:18:36",
+      "album": {
+        "name": "The Fantastic Expedition Of Dillard & Clark",
+        "url": "https://open.spotify.com/album/6SaetmQc4GCTzdZuW7khKx"
+      },
+      "artists": [
+        {
+          "name": "Dillard & Clark",
+          "url": "https://open.spotify.com/artist/3QcM2tU8CDY3LyzvwCj1CI"
+        }
+      ],
+      "duration_ms": 228493,
+      "name": "Train Leaves Here This Mornin",
+      "url": "https://open.spotify.com/track/3QakrNWYNgZ89by21ImeBN"
     },
     {
       "added_at": "2022-06-01 14:18:36",
@@ -643,6 +623,26 @@
     {
       "added_at": "2020-08-05 15:52:11",
       "album": {
+        "name": "Grievous Angel",
+        "url": "https://open.spotify.com/album/6UQujMGmR5MbFsML9amCuN"
+      },
+      "artists": [
+        {
+          "name": "Gram Parsons",
+          "url": "https://open.spotify.com/artist/1KA3WXYMPLxomNuoE22LYd"
+        },
+        {
+          "name": "Emmylou Harris",
+          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
+        }
+      ],
+      "duration_ms": 212893,
+      "name": "Ooh Las Vegas (feat. Emmylou Harris) - 2007 Remaster",
+      "url": "https://open.spotify.com/track/7kJpAkJSFMCkM6T4plsRLd"
+    },
+    {
+      "added_at": "2020-08-05 15:52:11",
+      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/41AdLTdErVUwftvr1dUVAf"
       },
@@ -659,22 +659,6 @@
     {
       "added_at": "2020-08-05 15:52:11",
       "album": {
-        "name": "Safe at Home",
-        "url": "https://open.spotify.com/album/3FNy8Kp7h2WoUngSfCNpMM"
-      },
-      "artists": [
-        {
-          "name": "The International Submarine Band",
-          "url": "https://open.spotify.com/artist/6i8kpDUSsrOOhPHfNYhMeF"
-        }
-      ],
-      "duration_ms": 175240,
-      "name": "Luxury Liner",
-      "url": "https://open.spotify.com/track/69WQgn5cXFhtwbDGBHOzxS"
-    },
-    {
-      "added_at": "2020-08-05 15:52:11",
-      "album": {
         "name": "Commander Cody & His Lost Planet Airmen",
         "url": "https://open.spotify.com/album/5M8Zfk4Gsf31MoGk3JXubL"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 218493,
       "name": "Willin'",
       "url": "https://open.spotify.com/track/10JSZpgIr0NZb3JqP0lT3K"
+    },
+    {
+      "added_at": "2020-08-05 15:52:11",
+      "album": {
+        "name": "Safe at Home",
+        "url": "https://open.spotify.com/album/3FNy8Kp7h2WoUngSfCNpMM"
+      },
+      "artists": [
+        {
+          "name": "The International Submarine Band",
+          "url": "https://open.spotify.com/artist/6i8kpDUSsrOOhPHfNYhMeF"
+        }
+      ],
+      "duration_ms": 175240,
+      "name": "Luxury Liner",
+      "url": "https://open.spotify.com/track/69WQgn5cXFhtwbDGBHOzxS"
     },
     {
       "added_at": "2020-08-05 15:52:11",
@@ -721,20 +721,20 @@
       "url": "https://open.spotify.com/track/0DrhNB3j0VKTBPoN2J5jbT"
     },
     {
-      "added_at": "2020-08-05 15:52:11",
+      "added_at": "2022-06-01 14:18:36",
       "album": {
-        "name": "Hand Sown...Home Grown",
-        "url": "https://open.spotify.com/album/3a7qArnirRgatBiSlc2k3W"
+        "name": "The Flying Burrito Brothers",
+        "url": "https://open.spotify.com/album/6lx6e9GACcsSRjoipxeWh1"
       },
       "artists": [
         {
-          "name": "Linda Ronstadt",
-          "url": "https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc"
+          "name": "The Flying Burrito Brothers",
+          "url": "https://open.spotify.com/artist/0rESpKEusFHxhW59MIf7eM"
         }
       ],
-      "duration_ms": 141160,
-      "name": "Silver Threads And Golden Needles",
-      "url": "https://open.spotify.com/track/4FLUda3tCvPWBCvUeyiivd"
+      "duration_ms": 188706,
+      "name": "Tried So Hard",
+      "url": "https://open.spotify.com/track/4v4ssibf1FAkxisrqeMPhh"
     },
     {
       "added_at": "2020-08-05 15:52:11",
@@ -753,20 +753,20 @@
       "url": "https://open.spotify.com/track/65J216Pxb4JOdiYVFIpLx7"
     },
     {
-      "added_at": "2022-06-01 14:18:36",
+      "added_at": "2020-08-05 15:52:11",
       "album": {
-        "name": "The Flying Burrito Brothers",
-        "url": "https://open.spotify.com/album/6lx6e9GACcsSRjoipxeWh1"
+        "name": "Hand Sown...Home Grown",
+        "url": "https://open.spotify.com/album/3a7qArnirRgatBiSlc2k3W"
       },
       "artists": [
         {
-          "name": "The Flying Burrito Brothers",
-          "url": "https://open.spotify.com/artist/0rESpKEusFHxhW59MIf7eM"
+          "name": "Linda Ronstadt",
+          "url": "https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc"
         }
       ],
-      "duration_ms": 188706,
-      "name": "Tried So Hard",
-      "url": "https://open.spotify.com/track/4v4ssibf1FAkxisrqeMPhh"
+      "duration_ms": 141160,
+      "name": "Silver Threads And Golden Needles",
+      "url": "https://open.spotify.com/track/4FLUda3tCvPWBCvUeyiivd"
     },
     {
       "added_at": "2020-08-05 15:52:11",

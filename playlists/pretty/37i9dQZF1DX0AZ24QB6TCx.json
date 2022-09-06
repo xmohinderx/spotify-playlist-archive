@@ -1,12 +1,12 @@
 {
   "description": "Relax with deep house and electronica.",
-  "num_followers": 264769,
+  "num_followers": 264912,
   "original_name": "Afterhours",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjE0MTY4OCwwMDAwMDAwMDJkYzFiM2ExOWQwMDkxN2Q4MDEyYzcwMjA1ZjA2YWE5",
+  "snapshot_id": "MTY2MjE0MTY4OCwwMDAwMDAwMDg4MzVlNzg1YmM4MmJjYzMwNmVlYWFiMzIxNTc4YmFi",
   "tracks": [
     {
       "added_at": "2022-09-02 18:01:27",
@@ -535,6 +535,26 @@
     {
       "added_at": "2022-09-02 18:01:27",
       "album": {
+        "name": "Yuregine Deprem",
+        "url": "https://open.spotify.com/album/6zgNxbXp8mi1c3WxG28F99"
+      },
+      "artists": [
+        {
+          "name": "Buddha-Bar",
+          "url": "https://open.spotify.com/artist/2X2QKxpUF4yemFqILMoZUQ"
+        },
+        {
+          "name": "Ali Kuru",
+          "url": "https://open.spotify.com/artist/4ljGdf7WSUgs2gc0TVGNGV"
+        }
+      ],
+      "duration_ms": 227176,
+      "name": "Yuregine Deprem",
+      "url": "https://open.spotify.com/track/0Kavkt38dZ0P4G2zSYHb6E"
+    },
+    {
+      "added_at": "2022-09-02 18:01:27",
+      "album": {
         "name": "Sumidero",
         "url": "https://open.spotify.com/album/1DElDXosVfJvgArfUOsQYQ"
       },
@@ -567,26 +587,6 @@
       "duration_ms": 275437,
       "name": "5 Seconds Before Sunrise",
       "url": "https://open.spotify.com/track/0hz9lCgIKOtZthsP2JTPAL"
-    },
-    {
-      "added_at": "2022-09-02 18:01:27",
-      "album": {
-        "name": "Yuregine Deprem",
-        "url": "https://open.spotify.com/album/6zgNxbXp8mi1c3WxG28F99"
-      },
-      "artists": [
-        {
-          "name": "Buddha-Bar",
-          "url": "https://open.spotify.com/artist/2X2QKxpUF4yemFqILMoZUQ"
-        },
-        {
-          "name": "Ali Kuru",
-          "url": "https://open.spotify.com/artist/4ljGdf7WSUgs2gc0TVGNGV"
-        }
-      ],
-      "duration_ms": 227176,
-      "name": "Yuregine Deprem",
-      "url": "https://open.spotify.com/track/0Kavkt38dZ0P4G2zSYHb6E"
     },
     {
       "added_at": "2022-09-02 18:01:27",
@@ -627,6 +627,22 @@
     {
       "added_at": "2022-09-02 18:01:27",
       "album": {
+        "name": "Copal",
+        "url": "https://open.spotify.com/album/0cIbZmg4f802O0OvRCEZpn"
+      },
+      "artists": [
+        {
+          "name": "Oliver Koletzki",
+          "url": "https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR"
+        }
+      ],
+      "duration_ms": 364543,
+      "name": "Copal",
+      "url": "https://open.spotify.com/track/6TqYadgz6qObDRYkcQe21L"
+    },
+    {
+      "added_at": "2022-09-02 18:01:27",
+      "album": {
         "name": "High On Beat",
         "url": "https://open.spotify.com/album/61QEKzl5kfKSJwiJWB0dUP"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 206223,
       "name": "High On Beat",
       "url": "https://open.spotify.com/track/6Ak4IFVY8BhNPjcHYWlZAi"
-    },
-    {
-      "added_at": "2022-09-02 18:01:27",
-      "album": {
-        "name": "Copal",
-        "url": "https://open.spotify.com/album/0cIbZmg4f802O0OvRCEZpn"
-      },
-      "artists": [
-        {
-          "name": "Oliver Koletzki",
-          "url": "https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR"
-        }
-      ],
-      "duration_ms": 364543,
-      "name": "Copal",
-      "url": "https://open.spotify.com/track/6TqYadgz6qObDRYkcQe21L"
     },
     {
       "added_at": "2022-09-02 18:01:27",
@@ -735,22 +735,6 @@
     {
       "added_at": "2022-09-02 18:01:27",
       "album": {
-        "name": "Wellenl\u00e4nge",
-        "url": "https://open.spotify.com/album/0oVcTDdNLjp3vieIbawJOm"
-      },
-      "artists": [
-        {
-          "name": "Rezident",
-          "url": "https://open.spotify.com/artist/0hzZTaZ59eR5lESXHRVgkc"
-        }
-      ],
-      "duration_ms": 218000,
-      "name": "Wellenl\u00e4nge",
-      "url": "https://open.spotify.com/track/6dhY3WUqryHUh8aPDYxQxh"
-    },
-    {
-      "added_at": "2022-09-02 18:01:27",
-      "album": {
         "name": "Just To Hear You Say",
         "url": "https://open.spotify.com/album/7MxJMLEo4D1Jej3TYPPG95"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 213437,
       "name": "Just To Hear You Say",
       "url": "https://open.spotify.com/track/1SJsKYhiDRLLddBnGzGgbW"
+    },
+    {
+      "added_at": "2022-09-02 18:01:27",
+      "album": {
+        "name": "Wellenl\u00e4nge",
+        "url": "https://open.spotify.com/album/0oVcTDdNLjp3vieIbawJOm"
+      },
+      "artists": [
+        {
+          "name": "Rezident",
+          "url": "https://open.spotify.com/artist/0hzZTaZ59eR5lESXHRVgkc"
+        }
+      ],
+      "duration_ms": 218000,
+      "name": "Wellenl\u00e4nge",
+      "url": "https://open.spotify.com/track/6dhY3WUqryHUh8aPDYxQxh"
     },
     {
       "added_at": "2022-09-02 18:01:27",
@@ -863,22 +863,6 @@
     {
       "added_at": "2022-09-02 18:01:27",
       "album": {
-        "name": "Solar Detroit",
-        "url": "https://open.spotify.com/album/7AUcWvslF2oopky9aXUXWk"
-      },
-      "artists": [
-        {
-          "name": "MEUTE",
-          "url": "https://open.spotify.com/artist/1z5xbcOeFRQXBVDpvRPh8H"
-        }
-      ],
-      "duration_ms": 486137,
-      "name": "Solar Detroit",
-      "url": "https://open.spotify.com/track/0HU2SnFrXnHIb72dR0P26n"
-    },
-    {
-      "added_at": "2022-09-02 18:01:27",
-      "album": {
         "name": "Finja",
         "url": "https://open.spotify.com/album/7KQZuMrMi3pg1Wt49OH4Gg"
       },
@@ -895,18 +879,18 @@
     {
       "added_at": "2022-09-02 18:01:27",
       "album": {
-        "name": "The Center Will Not Hold",
-        "url": "https://open.spotify.com/album/2mNElAq0uWkYumVt2KJB7S"
+        "name": "Solar Detroit",
+        "url": "https://open.spotify.com/album/7AUcWvslF2oopky9aXUXWk"
       },
       "artists": [
         {
-          "name": "Solomun",
-          "url": "https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC"
+          "name": "MEUTE",
+          "url": "https://open.spotify.com/artist/1z5xbcOeFRQXBVDpvRPh8H"
         }
       ],
-      "duration_ms": 230239,
-      "name": "The Center Will Not Hold",
-      "url": "https://open.spotify.com/track/0BLVpXtzwE4EsJHNuYYq4e"
+      "duration_ms": 486137,
+      "name": "Solar Detroit",
+      "url": "https://open.spotify.com/track/0HU2SnFrXnHIb72dR0P26n"
     },
     {
       "added_at": "2022-09-02 18:01:27",
@@ -923,6 +907,22 @@
       "duration_ms": 285675,
       "name": "Spectrum",
       "url": "https://open.spotify.com/track/4rw9xbxHWWRuihfAvQG3M2"
+    },
+    {
+      "added_at": "2022-09-02 18:01:27",
+      "album": {
+        "name": "The Center Will Not Hold",
+        "url": "https://open.spotify.com/album/2mNElAq0uWkYumVt2KJB7S"
+      },
+      "artists": [
+        {
+          "name": "Solomun",
+          "url": "https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC"
+        }
+      ],
+      "duration_ms": 230239,
+      "name": "The Center Will Not Hold",
+      "url": "https://open.spotify.com/track/0BLVpXtzwE4EsJHNuYYq4e"
     },
     {
       "added_at": "2022-09-02 18:01:27",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2022-09-02 18:01:27",
       "album": {
-        "name": "Quarantine",
-        "url": "https://open.spotify.com/album/14lJ0laxlNQnVTJ2WJsKuy"
-      },
-      "artists": [
-        {
-          "name": "Ante Perry",
-          "url": "https://open.spotify.com/artist/4ueT3TFdSmR04bDAiZbjsW"
-        }
-      ],
-      "duration_ms": 333223,
-      "name": "Quarantine - Original",
-      "url": "https://open.spotify.com/track/3PygOTzzolVCIZKUIvhgNS"
-    },
-    {
-      "added_at": "2022-09-02 18:01:27",
-      "album": {
         "name": "Clarion (Kiasmos Remix)",
         "url": "https://open.spotify.com/album/57HX6lB11c4KENls8XUfAD"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 343278,
       "name": "Clarion - Kiasmos Remix",
       "url": "https://open.spotify.com/track/3VSQJhXdcJZOLyTLPbmxDr"
+    },
+    {
+      "added_at": "2022-09-02 18:01:27",
+      "album": {
+        "name": "Quarantine",
+        "url": "https://open.spotify.com/album/14lJ0laxlNQnVTJ2WJsKuy"
+      },
+      "artists": [
+        {
+          "name": "Ante Perry",
+          "url": "https://open.spotify.com/artist/4ueT3TFdSmR04bDAiZbjsW"
+        }
+      ],
+      "duration_ms": 333223,
+      "name": "Quarantine - Original",
+      "url": "https://open.spotify.com/track/3PygOTzzolVCIZKUIvhgNS"
     },
     {
       "added_at": "2022-09-02 18:01:27",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2022-09-02 18:01:27",
       "album": {
-        "name": "Perspective EP",
-        "url": "https://open.spotify.com/album/0xZahoke4fTh9QtdCcduwh"
-      },
-      "artists": [
-        {
-          "name": "Rezident",
-          "url": "https://open.spotify.com/artist/0hzZTaZ59eR5lESXHRVgkc"
-        }
-      ],
-      "duration_ms": 304753,
-      "name": "Message",
-      "url": "https://open.spotify.com/track/6jtw8sBH0NCmFw7x94s5DF"
-    },
-    {
-      "added_at": "2022-09-02 18:01:27",
-      "album": {
         "name": "False Gods EP (Short Edits)",
         "url": "https://open.spotify.com/album/00IZ6CeGgcz7mY2qtqUFT4"
       },
@@ -1119,6 +1103,22 @@
     {
       "added_at": "2022-09-02 18:01:27",
       "album": {
+        "name": "Perspective EP",
+        "url": "https://open.spotify.com/album/0xZahoke4fTh9QtdCcduwh"
+      },
+      "artists": [
+        {
+          "name": "Rezident",
+          "url": "https://open.spotify.com/artist/0hzZTaZ59eR5lESXHRVgkc"
+        }
+      ],
+      "duration_ms": 304753,
+      "name": "Message",
+      "url": "https://open.spotify.com/track/6jtw8sBH0NCmFw7x94s5DF"
+    },
+    {
+      "added_at": "2022-09-02 18:01:27",
+      "album": {
         "name": "HAYII",
         "url": "https://open.spotify.com/album/73IrTAOufu4VMnQqcKw1za"
       },
@@ -1135,6 +1135,22 @@
       "duration_ms": 459661,
       "name": "HAYII",
       "url": "https://open.spotify.com/track/3NdtOKVyuOO5GwhU7Ts4iI"
+    },
+    {
+      "added_at": "2022-09-02 18:01:27",
+      "album": {
+        "name": "Desire",
+        "url": "https://open.spotify.com/album/7B6Jr6YFwOk8ShwfTXXY5k"
+      },
+      "artists": [
+        {
+          "name": "Bob Moses",
+          "url": "https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5"
+        }
+      ],
+      "duration_ms": 352240,
+      "name": "Love We Found",
+      "url": "https://open.spotify.com/track/6Ae5fUk4VVYF5zNLWZ7dFt"
     },
     {
       "added_at": "2022-09-02 18:01:27",
@@ -1163,22 +1179,6 @@
     {
       "added_at": "2022-09-02 18:01:27",
       "album": {
-        "name": "Desire",
-        "url": "https://open.spotify.com/album/7B6Jr6YFwOk8ShwfTXXY5k"
-      },
-      "artists": [
-        {
-          "name": "Bob Moses",
-          "url": "https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5"
-        }
-      ],
-      "duration_ms": 352240,
-      "name": "Love We Found",
-      "url": "https://open.spotify.com/track/6Ae5fUk4VVYF5zNLWZ7dFt"
-    },
-    {
-      "added_at": "2022-09-02 18:01:27",
-      "album": {
         "name": "Follow",
         "url": "https://open.spotify.com/album/5lOpduLiv7Cexz1YUWtk5w"
       },
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2022-09-02 18:01:27",
       "album": {
-        "name": "Madman",
-        "url": "https://open.spotify.com/album/4WFXuTDpA77bBtWuv4t74a"
-      },
-      "artists": [
-        {
-          "name": "Depart",
-          "url": "https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy"
-        }
-      ],
-      "duration_ms": 448000,
-      "name": "Madman",
-      "url": "https://open.spotify.com/track/4LXl83AHAkdMVLWoFfKF31"
-    },
-    {
-      "added_at": "2022-09-02 18:01:27",
-      "album": {
         "name": "AvA",
         "url": "https://open.spotify.com/album/2tbdf6Acn9D7UFOB10EedD"
       },
@@ -1231,22 +1215,18 @@
     {
       "added_at": "2022-09-02 18:01:27",
       "album": {
-        "name": "All You Need Is Time",
-        "url": "https://open.spotify.com/album/0OY8sEzJ8DjluG61z0CmrO"
+        "name": "Madman",
+        "url": "https://open.spotify.com/album/4WFXuTDpA77bBtWuv4t74a"
       },
       "artists": [
         {
-          "name": "AK",
-          "url": "https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A"
-        },
-        {
-          "name": "Dario Lessing",
-          "url": "https://open.spotify.com/artist/0EocooOvTYLsjqSSQdqiyi"
+          "name": "Depart",
+          "url": "https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy"
         }
       ],
-      "duration_ms": 277714,
-      "name": "All You Need Is Time",
-      "url": "https://open.spotify.com/track/160leq3oBHDPYyD0A6rK3n"
+      "duration_ms": 448000,
+      "name": "Madman",
+      "url": "https://open.spotify.com/track/4LXl83AHAkdMVLWoFfKF31"
     },
     {
       "added_at": "2022-09-02 18:01:27",
@@ -1283,6 +1263,26 @@
       "duration_ms": 363889,
       "name": "Goodbye",
       "url": "https://open.spotify.com/track/122Q96pdQ0hlfbgDzcxndg"
+    },
+    {
+      "added_at": "2022-09-02 18:01:27",
+      "album": {
+        "name": "All You Need Is Time",
+        "url": "https://open.spotify.com/album/0OY8sEzJ8DjluG61z0CmrO"
+      },
+      "artists": [
+        {
+          "name": "AK",
+          "url": "https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A"
+        },
+        {
+          "name": "Dario Lessing",
+          "url": "https://open.spotify.com/artist/0EocooOvTYLsjqSSQdqiyi"
+        }
+      ],
+      "duration_ms": 277714,
+      "name": "All You Need Is Time",
+      "url": "https://open.spotify.com/track/160leq3oBHDPYyD0A6rK3n"
     }
   ],
   "unique_name": "Afterhours",

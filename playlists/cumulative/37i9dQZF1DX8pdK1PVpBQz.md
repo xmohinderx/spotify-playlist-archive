@@ -4,7 +4,7 @@
 
 > Discover something new from local independent artists on the rise\. Cover: Elizabeth M Drummond Artwork: Isu Kim
 
-1,181 songs - 2 day 17 hr 19 min - [published](https://open.spotify.com/playlist/6SzaS17cgVZQMPJsRPmBsR)
+1,182 songs - 2 day 17 hr 23 min - [published](https://open.spotify.com/playlist/6SzaS17cgVZQMPJsRPmBsR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -482,7 +482,8 @@
 | [Honeybee](https://open.spotify.com/track/39J2rMWsNaAtWH8Ep7w1O1) | [Sereen](https://open.spotify.com/artist/7rB1y5WUwQqiiCmNxFzunH), [Moe Omran](https://open.spotify.com/artist/1NDkp63ZA8ifmI5gqe9D9Y) | [Honeybee](https://open.spotify.com/album/3qzu1AOObwYQbz9Hm5W2IR) | 3:23 | 2022-01-19 | 2022-02-24 |
 | [Hood](https://open.spotify.com/track/4btfUjtNZ5KA3h6KR5Kngi) | [Delawou](https://open.spotify.com/artist/09ncWvqVNRg92iWAnzn3Gt), [Lisi](https://open.spotify.com/artist/01Gj5Tpdz9igIh1uqH8bvu) | [Hood](https://open.spotify.com/album/0sjUWG91ZIRfOWabZC6vcH) | 2:14 | 2021-12-28 | 2022-01-13 |
 | [Hope It's Not](https://open.spotify.com/track/3L42aM6tcSceGg7qGPHGKY) | [Stevan](https://open.spotify.com/artist/24RDdXWdq95PlTMTpFTvC6) | [Hope It's Not](https://open.spotify.com/album/2USkXE4xBKBL0K5cV2LK7B) | 2:42 | 2021-12-28 | 2022-01-13 |
-| [Hopeless](https://open.spotify.com/track/47YwOuDwrk0VL0NbCXqHhL) | [Flowertruck](https://open.spotify.com/artist/4T6E4qe9F934xkyQrV4KOe) | [Hopeless](https://open.spotify.com/album/3eXCN0choCwFpHG1rn0Hme) | 3:57 | 2022-08-24 |  |
+| [Hopeless](https://open.spotify.com/track/0S06omqo3wox0mF1Mq1KMS) | [Flowertruck](https://open.spotify.com/artist/4T6E4qe9F934xkyQrV4KOe) | [Partly Cloudy](https://open.spotify.com/album/2jbjXCBGS9nfJXnIyrIjJC) | 3:57 | 2022-09-02 |  |
+| [Hopeless](https://open.spotify.com/track/47YwOuDwrk0VL0NbCXqHhL) | [Flowertruck](https://open.spotify.com/artist/4T6E4qe9F934xkyQrV4KOe) | [Hopeless](https://open.spotify.com/album/3eXCN0choCwFpHG1rn0Hme) | 3:57 | 2022-08-24 | 2022-09-06 |
 | [HOT COFFEE](https://open.spotify.com/track/5SzO1JqUUQ5gfIOGEdPyiP) | [BANTA.](https://open.spotify.com/artist/67cC7FAq0g7QBM0AtxLrxl), [Snory](https://open.spotify.com/artist/0dqFBXDxYVSrc3UfXzAYaT) | [HOT COFFEE](https://open.spotify.com/album/7c214bkLaFeeF2d8TfFFjn) | 1:48 | 2022-08-03 | 2022-09-01 |
 | [How Do You Know?](https://open.spotify.com/track/1qrQrm2CgPjT6VDDFGA39B) | [Daffodils](https://open.spotify.com/artist/7rd77Dy0EZx6577VFjK13T) | [How Do You Know?](https://open.spotify.com/album/3yxhZNc0JHuZeIkzvn3hVf) | 4:20 | 2022-04-20 | 2022-05-12 |
 | [Human Zoo](https://open.spotify.com/track/0wdkTpvUs6rPRwgHYtQnlL) | [Greatest Hits](https://open.spotify.com/artist/096xZXholjETCjDpZ2wcah) | [Human Zoo](https://open.spotify.com/album/6c3jms2yJdwk8HpOanwctE) | 3:44 | 2022-08-10 |  |

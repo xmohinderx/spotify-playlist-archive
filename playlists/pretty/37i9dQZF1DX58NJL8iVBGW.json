@@ -1,12 +1,12 @@
 {
   "description": "Deep, dark, dramatic. Roots rock, folk, and Americana\u2014with a gothic soul.",
-  "num_followers": 503068,
+  "num_followers": 503418,
   "original_name": "Southern Gothic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI3NjgwMCwwMDAwMDAwMDYxY2I5ZjY5ZmE5NzY2ODUzZThkYzQxNTAyM2FmMTBl",
+  "snapshot_id": "MTY2MDI3NjgwMCwwMDAwMDAwMDE0NGJmZWQwOWM2ZDVlOGNhMGE4YjgyMTliZjdmMDEz",
   "tracks": [
     {
       "added_at": "2022-06-06 19:18:28",
@@ -337,22 +337,6 @@
       "url": "https://open.spotify.com/track/2fzp6ojPHvZaz4uHXxpJVk"
     },
     {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
-        "name": "All The World Is Green (Live)",
-        "url": "https://open.spotify.com/album/1H6aRajw8KS87O6ejew73Y"
-      },
-      "artists": [
-        {
-          "name": "Tom Waits",
-          "url": "https://open.spotify.com/artist/7x83XhcMbOTl1UdYsPTuZM"
-        }
-      ],
-      "duration_ms": 292112,
-      "name": "All The World Is Green - Live",
-      "url": "https://open.spotify.com/track/0FD1tOUxkiOXgR9d9uy9ou"
-    },
-    {
       "added_at": "2022-06-06 19:18:28",
       "album": {
         "name": "The Very Last Day",
@@ -367,6 +351,22 @@
       "duration_ms": 156106,
       "name": "Hades Pleads",
       "url": "https://open.spotify.com/track/2Yf3wwS48rkAoBRXNJ34kz"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "All The World Is Green (Live)",
+        "url": "https://open.spotify.com/album/1H6aRajw8KS87O6ejew73Y"
+      },
+      "artists": [
+        {
+          "name": "Tom Waits",
+          "url": "https://open.spotify.com/artist/7x83XhcMbOTl1UdYsPTuZM"
+        }
+      ],
+      "duration_ms": 292112,
+      "name": "All The World Is Green - Live",
+      "url": "https://open.spotify.com/track/0FD1tOUxkiOXgR9d9uy9ou"
     },
     {
       "added_at": "2022-06-06 19:18:28",
@@ -403,22 +403,6 @@
     {
       "added_at": "2022-06-06 19:18:28",
       "album": {
-        "name": "Salt For Salt",
-        "url": "https://open.spotify.com/album/0SVsGgGApRYVXP466ywwsC"
-      },
-      "artists": [
-        {
-          "name": "Brown Bird",
-          "url": "https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP"
-        }
-      ],
-      "duration_ms": 191000,
-      "name": "Fingers To The Bone",
-      "url": "https://open.spotify.com/track/5g3vDbjW1S08XRb2AZ1rkV"
-    },
-    {
-      "added_at": "2022-06-06 19:18:28",
-      "album": {
         "name": "Barton Hollow",
         "url": "https://open.spotify.com/album/4uWgDFxGAp7XlVSHuVBv4E"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 205773,
       "name": "Barton Hollow",
       "url": "https://open.spotify.com/track/6ZOBY9RG2tcxXX0ohKtfRc"
+    },
+    {
+      "added_at": "2022-06-06 19:18:28",
+      "album": {
+        "name": "Salt For Salt",
+        "url": "https://open.spotify.com/album/0SVsGgGApRYVXP466ywwsC"
+      },
+      "artists": [
+        {
+          "name": "Brown Bird",
+          "url": "https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP"
+        }
+      ],
+      "duration_ms": 191000,
+      "name": "Fingers To The Bone",
+      "url": "https://open.spotify.com/track/5g3vDbjW1S08XRb2AZ1rkV"
     },
     {
       "added_at": "2022-06-06 19:18:28",
@@ -515,22 +515,6 @@
     {
       "added_at": "2022-06-06 19:18:28",
       "album": {
-        "name": "Salt For Salt",
-        "url": "https://open.spotify.com/album/0SVsGgGApRYVXP466ywwsC"
-      },
-      "artists": [
-        {
-          "name": "Brown Bird",
-          "url": "https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP"
-        }
-      ],
-      "duration_ms": 226688,
-      "name": "Bilgewater",
-      "url": "https://open.spotify.com/track/05wB0mSpDASexc98oKZCOw"
-    },
-    {
-      "added_at": "2022-06-06 19:18:28",
-      "album": {
         "name": "Parker Millsap",
         "url": "https://open.spotify.com/album/3puqTC6ZIfItLMY4q0wr4e"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 218188,
       "name": "Devil's Spoke",
       "url": "https://open.spotify.com/track/4dqhnjsX69qGQ7DCMSTY7v"
+    },
+    {
+      "added_at": "2022-06-06 19:18:28",
+      "album": {
+        "name": "Salt For Salt",
+        "url": "https://open.spotify.com/album/0SVsGgGApRYVXP466ywwsC"
+      },
+      "artists": [
+        {
+          "name": "Brown Bird",
+          "url": "https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP"
+        }
+      ],
+      "duration_ms": 226688,
+      "name": "Bilgewater",
+      "url": "https://open.spotify.com/track/05wB0mSpDASexc98oKZCOw"
     },
     {
       "added_at": "2022-06-06 19:18:28",
@@ -651,6 +651,22 @@
     {
       "added_at": "2022-06-06 19:18:28",
       "album": {
+        "name": "The Devil Dancing",
+        "url": "https://open.spotify.com/album/7mlBE7JyEDy9DwL5U4hLou"
+      },
+      "artists": [
+        {
+          "name": "Brown Bird",
+          "url": "https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP"
+        }
+      ],
+      "duration_ms": 226324,
+      "name": "Danger and Dread",
+      "url": "https://open.spotify.com/track/2bpWyCj94RZBXCMdvkV0Mt"
+    },
+    {
+      "added_at": "2022-06-06 19:18:28",
+      "album": {
         "name": "Folksinger Vol. 2",
         "url": "https://open.spotify.com/album/2CBLeaL8ProyeOOhc1QFpb"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 128893,
       "name": "Death Don't Have No Mercy",
       "url": "https://open.spotify.com/track/0BCtG2fGjxoztlnetLoqBc"
-    },
-    {
-      "added_at": "2022-06-06 19:18:28",
-      "album": {
-        "name": "The Devil Dancing",
-        "url": "https://open.spotify.com/album/7mlBE7JyEDy9DwL5U4hLou"
-      },
-      "artists": [
-        {
-          "name": "Brown Bird",
-          "url": "https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP"
-        }
-      ],
-      "duration_ms": 226324,
-      "name": "Danger and Dread",
-      "url": "https://open.spotify.com/track/2bpWyCj94RZBXCMdvkV0Mt"
     },
     {
       "added_at": "2022-06-06 19:18:28",
@@ -899,22 +899,6 @@
     {
       "added_at": "2022-06-06 19:18:28",
       "album": {
-        "name": "Another Man\u02bcs Grave",
-        "url": "https://open.spotify.com/album/1ydWuirnz39uMCZYgkE18E"
-      },
-      "artists": [
-        {
-          "name": "Amigo the Devil",
-          "url": "https://open.spotify.com/artist/0AkmSuTOzM2pNCIOSP8ziv"
-        }
-      ],
-      "duration_ms": 188677,
-      "name": "Another Man\u02bcs Grave",
-      "url": "https://open.spotify.com/track/0kO82Vu0CXMrkLo5p9EvyI"
-    },
-    {
-      "added_at": "2022-06-06 19:18:28",
-      "album": {
         "name": "Blacklisted",
         "url": "https://open.spotify.com/album/76PyfjqUSplsygzK6lcbcU"
       },
@@ -931,18 +915,18 @@
     {
       "added_at": "2022-06-06 19:18:28",
       "album": {
-        "name": "More Primitive",
-        "url": "https://open.spotify.com/album/46Txpy91R2fAPBLTEVpz82"
+        "name": "Another Man\u02bcs Grave",
+        "url": "https://open.spotify.com/album/1ydWuirnz39uMCZYgkE18E"
       },
       "artists": [
         {
-          "name": "Lonesome Shack",
-          "url": "https://open.spotify.com/artist/72lMhHXgtmKeNQbfT5QLq3"
+          "name": "Amigo the Devil",
+          "url": "https://open.spotify.com/artist/0AkmSuTOzM2pNCIOSP8ziv"
         }
       ],
-      "duration_ms": 285546,
-      "name": "Wrecks",
-      "url": "https://open.spotify.com/track/6xuHJHoXYVjDUTCP63PEtF"
+      "duration_ms": 188677,
+      "name": "Another Man\u02bcs Grave",
+      "url": "https://open.spotify.com/track/0kO82Vu0CXMrkLo5p9EvyI"
     },
     {
       "added_at": "2022-06-06 19:18:28",
@@ -959,6 +943,22 @@
       "duration_ms": 229626,
       "name": "Heart Of My Own",
       "url": "https://open.spotify.com/track/6CrOckpOuPVMJkw5LSpRLv"
+    },
+    {
+      "added_at": "2022-06-06 19:18:28",
+      "album": {
+        "name": "More Primitive",
+        "url": "https://open.spotify.com/album/46Txpy91R2fAPBLTEVpz82"
+      },
+      "artists": [
+        {
+          "name": "Lonesome Shack",
+          "url": "https://open.spotify.com/artist/72lMhHXgtmKeNQbfT5QLq3"
+        }
+      ],
+      "duration_ms": 285546,
+      "name": "Wrecks",
+      "url": "https://open.spotify.com/track/6xuHJHoXYVjDUTCP63PEtF"
     },
     {
       "added_at": "2022-06-06 19:18:28",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2022-06-06 19:18:28",
       "album": {
-        "name": "William Crighton",
-        "url": "https://open.spotify.com/album/11iygN0BADQ3dWcAwyp3QV"
-      },
-      "artists": [
-        {
-          "name": "William Crighton",
-          "url": "https://open.spotify.com/artist/4EVBuMQ6XVgxeqWKH09dBM"
-        }
-      ],
-      "duration_ms": 264937,
-      "name": "Priest",
-      "url": "https://open.spotify.com/track/1CzxPLi5K7pnT4ATkdLJ9T"
-    },
-    {
-      "added_at": "2022-06-06 19:18:28",
-      "album": {
         "name": "Devil Don't You Fool Me",
         "url": "https://open.spotify.com/album/6va8aqvQD3YBcqAjLYfgkY"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 170985,
       "name": "Devil Don't You Fool Me",
       "url": "https://open.spotify.com/track/5UKMxE8Ec8pa8YLXlqDkSZ"
+    },
+    {
+      "added_at": "2022-06-06 19:18:28",
+      "album": {
+        "name": "William Crighton",
+        "url": "https://open.spotify.com/album/11iygN0BADQ3dWcAwyp3QV"
+      },
+      "artists": [
+        {
+          "name": "William Crighton",
+          "url": "https://open.spotify.com/artist/4EVBuMQ6XVgxeqWKH09dBM"
+        }
+      ],
+      "duration_ms": 264937,
+      "name": "Priest",
+      "url": "https://open.spotify.com/track/1CzxPLi5K7pnT4ATkdLJ9T"
     },
     {
       "added_at": "2022-06-06 19:18:28",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2022-06-06 19:18:28",
       "album": {
-        "name": "I'm Not Your Man",
-        "url": "https://open.spotify.com/album/6cDRHxpDNgEMgmkCIVdlP2"
-      },
-      "artists": [
-        {
-          "name": "Marika Hackman",
-          "url": "https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O"
-        }
-      ],
-      "duration_ms": 175320,
-      "name": "Apple Tree",
-      "url": "https://open.spotify.com/track/6EqCxnulMcawu0qN8B8Y5W"
-    },
-    {
-      "added_at": "2022-06-06 19:18:28",
-      "album": {
         "name": "A Mountain Is a Mouth",
         "url": "https://open.spotify.com/album/40jiaGBNJkFMiRW0yzcfYH"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 156706,
       "name": "Crabapples",
       "url": "https://open.spotify.com/track/2cpDIcN0TiGLUptEYsT4Bh"
+    },
+    {
+      "added_at": "2022-06-06 19:18:28",
+      "album": {
+        "name": "I'm Not Your Man",
+        "url": "https://open.spotify.com/album/6cDRHxpDNgEMgmkCIVdlP2"
+      },
+      "artists": [
+        {
+          "name": "Marika Hackman",
+          "url": "https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O"
+        }
+      ],
+      "duration_ms": 175320,
+      "name": "Apple Tree",
+      "url": "https://open.spotify.com/track/6EqCxnulMcawu0qN8B8Y5W"
     },
     {
       "added_at": "2022-06-06 19:18:28",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2022-06-06 19:18:28",
       "album": {
-        "name": "Filthy Dirty South",
-        "url": "https://open.spotify.com/album/5PWp4PsP4W2d1e90RQoOoF"
-      },
-      "artists": [
-        {
-          "name": "Rising Appalachia",
-          "url": "https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci"
-        }
-      ],
-      "duration_ms": 346333,
-      "name": "Filthy Dirty South",
-      "url": "https://open.spotify.com/track/5BeCnd9M1HNWYfspR88pAj"
-    },
-    {
-      "added_at": "2022-06-06 19:18:28",
-      "album": {
         "name": "Empire",
         "url": "https://open.spotify.com/album/2ayE2lKEyIyBP2EcuWiB0d"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 217240,
       "name": "Fire in the Empire",
       "url": "https://open.spotify.com/track/7nBlwy9FltJKrO23b6edNi"
+    },
+    {
+      "added_at": "2022-06-06 19:18:28",
+      "album": {
+        "name": "Filthy Dirty South",
+        "url": "https://open.spotify.com/album/5PWp4PsP4W2d1e90RQoOoF"
+      },
+      "artists": [
+        {
+          "name": "Rising Appalachia",
+          "url": "https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci"
+        }
+      ],
+      "duration_ms": 346333,
+      "name": "Filthy Dirty South",
+      "url": "https://open.spotify.com/track/5BeCnd9M1HNWYfspR88pAj"
     },
     {
       "added_at": "2022-06-06 19:18:28",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2022-06-06 19:18:28",
       "album": {
-        "name": "27 Ways",
-        "url": "https://open.spotify.com/album/5RZznkaaVzeKeN1UMp1jiy"
-      },
-      "artists": [
-        {
-          "name": "Desert Noises",
-          "url": "https://open.spotify.com/artist/2X3rGYJyh8oBkRKMzIQaLe"
-        }
-      ],
-      "duration_ms": 108361,
-      "name": "Dime in My Pocket",
-      "url": "https://open.spotify.com/track/4MaJqmMJ1CGjyL1oolmx8K"
-    },
-    {
-      "added_at": "2022-06-06 19:18:28",
-      "album": {
         "name": "Micah P. Hinson and the Opera Circuit",
         "url": "https://open.spotify.com/album/1CIVVV6GUgNfS5nmDh0V5z"
       },
@@ -1347,18 +1331,18 @@
     {
       "added_at": "2022-06-06 19:18:28",
       "album": {
-        "name": "Salt For Salt",
-        "url": "https://open.spotify.com/album/0SVsGgGApRYVXP466ywwsC"
+        "name": "27 Ways",
+        "url": "https://open.spotify.com/album/5RZznkaaVzeKeN1UMp1jiy"
       },
       "artists": [
         {
-          "name": "Brown Bird",
-          "url": "https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP"
+          "name": "Desert Noises",
+          "url": "https://open.spotify.com/artist/2X3rGYJyh8oBkRKMzIQaLe"
         }
       ],
-      "duration_ms": 198132,
-      "name": "Chairkickers",
-      "url": "https://open.spotify.com/track/0O0T1NHzuTa12tNZ1hZ7db"
+      "duration_ms": 108361,
+      "name": "Dime in My Pocket",
+      "url": "https://open.spotify.com/track/4MaJqmMJ1CGjyL1oolmx8K"
     },
     {
       "added_at": "2022-06-06 19:18:28",
@@ -1375,6 +1359,22 @@
       "duration_ms": 239093,
       "name": "Saint Elizabeth",
       "url": "https://open.spotify.com/track/0AXVGjlzkolKVm7ZnD6pqB"
+    },
+    {
+      "added_at": "2022-06-06 19:18:28",
+      "album": {
+        "name": "Salt For Salt",
+        "url": "https://open.spotify.com/album/0SVsGgGApRYVXP466ywwsC"
+      },
+      "artists": [
+        {
+          "name": "Brown Bird",
+          "url": "https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP"
+        }
+      ],
+      "duration_ms": 198132,
+      "name": "Chairkickers",
+      "url": "https://open.spotify.com/track/0O0T1NHzuTa12tNZ1hZ7db"
     },
     {
       "added_at": "2022-06-06 19:18:28",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2022-06-06 19:18:28",
       "album": {
-        "name": "Look Homeward",
-        "url": "https://open.spotify.com/album/563YScqSxw5TPbx5pYZbXt"
-      },
-      "artists": [
-        {
-          "name": "Look Homeward",
-          "url": "https://open.spotify.com/artist/5Z1ANSIGrMWGVKAtJNpOFH"
-        }
-      ],
-      "duration_ms": 173346,
-      "name": "Sister Death",
-      "url": "https://open.spotify.com/track/5ZIlSYLOLplrFVRdtSXAxH"
-    },
-    {
-      "added_at": "2022-06-06 19:18:28",
-      "album": {
         "name": "Banjo Babes",
         "url": "https://open.spotify.com/album/25TyUIdw1xvhgYtTdDNndb"
       },
@@ -1491,18 +1475,18 @@
     {
       "added_at": "2022-06-06 19:18:28",
       "album": {
-        "name": "Bastard Children",
-        "url": "https://open.spotify.com/album/2c04IHW1EnOkIMkivr5NPG"
+        "name": "Look Homeward",
+        "url": "https://open.spotify.com/album/563YScqSxw5TPbx5pYZbXt"
       },
       "artists": [
         {
-          "name": "Vudu Sister",
-          "url": "https://open.spotify.com/artist/5Gu7iDoQjE7anHIbCXckC8"
+          "name": "Look Homeward",
+          "url": "https://open.spotify.com/artist/5Z1ANSIGrMWGVKAtJNpOFH"
         }
       ],
-      "duration_ms": 174240,
-      "name": "Dead Man's Pocket",
-      "url": "https://open.spotify.com/track/1SbnUcfbqd0EdkczKJbEDK"
+      "duration_ms": 173346,
+      "name": "Sister Death",
+      "url": "https://open.spotify.com/track/5ZIlSYLOLplrFVRdtSXAxH"
     },
     {
       "added_at": "2022-06-06 19:18:28",
@@ -1519,6 +1503,22 @@
       "duration_ms": 177359,
       "name": "Lungs",
       "url": "https://open.spotify.com/track/59yvm9n65pPkykLU3e0Kf0"
+    },
+    {
+      "added_at": "2022-06-06 19:18:28",
+      "album": {
+        "name": "Bastard Children",
+        "url": "https://open.spotify.com/album/2c04IHW1EnOkIMkivr5NPG"
+      },
+      "artists": [
+        {
+          "name": "Vudu Sister",
+          "url": "https://open.spotify.com/artist/5Gu7iDoQjE7anHIbCXckC8"
+        }
+      ],
+      "duration_ms": 174240,
+      "name": "Dead Man's Pocket",
+      "url": "https://open.spotify.com/track/1SbnUcfbqd0EdkczKJbEDK"
     },
     {
       "added_at": "2022-06-06 19:18:28",

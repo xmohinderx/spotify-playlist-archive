@@ -4,7 +4,7 @@
 
 > The latest and greatest metal tracks\. Cover: Architects
 
-1,590 songs - 4 day 11 hr 9 min - [published](https://open.spotify.com/playlist/5OQh8wHAw9gXsKdDndokZX)
+1,591 songs - 4 day 11 hr 15 min - [published](https://open.spotify.com/playlist/5OQh8wHAw9gXsKdDndokZX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -948,6 +948,7 @@
 | [Not Gonna Make It](https://open.spotify.com/track/7DyFbuyGjcrNNOjmir8Xwy) | [Aphyxion](https://open.spotify.com/artist/40UIlN4YEByXy4ewEZmqXu) | [Not Gonna Make It](https://open.spotify.com/album/6wvqeHb8jDa1wkP3OnEeB2) | 3:47 | 2022-05-27 | 2022-06-07 |
 | [Not That Nice](https://open.spotify.com/track/3K7IGCTGYB7tsochPtXeQp) | [Speed](https://open.spotify.com/artist/4wf6GGNBqaU79839E6yjfn) | [Not That Nice](https://open.spotify.com/album/1S6kijytXIRsPpKbG7KBnP) | 2:41 | 2022-05-20 | 2022-05-27 |
 | [Not Winning](https://open.spotify.com/track/45sH04hn3fkNFvyFI7a7Se) | [Totally Unicorn](https://open.spotify.com/artist/3pSMLXDjk3lrfOK0xIZtq3) | [Not Winning](https://open.spotify.com/album/04Baba6pZZQiaU9VCH9UnP) | 4:24 | 2022-02-17 | 2022-03-04 |
+| [Nothing Feels Right \(feat\. Zakk Wylde\)](https://open.spotify.com/track/1K2MfPrkhy3pAYFL0m4Y64) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY), [Zakk Wylde](https://open.spotify.com/artist/1AeC9AuzqGc3IXMC2T5xny) | [Nothing Feels Right \(feat\. Zakk Wylde\)](https://open.spotify.com/album/5FRTz5iys7bz1F2yzn9Lm5) | 5:35 | 2022-09-05 |  |
 | [Nothing Left To Lose](https://open.spotify.com/track/4MM38L2wAvNsxFERKNYCY6) | [Octopus Montage](https://open.spotify.com/artist/1fTRB21pCaxDms0xwplYiG) | [Nothing Left To Lose](https://open.spotify.com/album/2oN5kPjL8OVvXwC3KD3FWX) | 2:55 | 2022-03-24 | 2022-04-01 |
 | [Nothing To Lose](https://open.spotify.com/track/10HFQs1W4ujx3rQg5RVdRJ) | [Bad/Love](https://open.spotify.com/artist/0lJyKe4CxWOeYOV4dbAFkZ) | [Nothing To Lose](https://open.spotify.com/album/7zImI2D8BgniOLITwgMXu0) | 3:19 | 2022-08-19 | 2022-08-27 |
 | [Nous Sommes la Guerre](https://open.spotify.com/track/24B3NFMGpDkG952oyc2ALX) | [Soilwork](https://open.spotify.com/artist/7wqP36o9lqWteOCxBnXlwx) | [Nous Sommes La Guerre](https://open.spotify.com/album/53kmVPU7XLxDgIZob1lAmA) | 6:53 | 2022-06-17 | 2022-06-24 |

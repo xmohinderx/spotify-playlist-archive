@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Hungary.
 
-522 songs - 1 day 3 hr 41 min - [published](https://open.spotify.com/playlist/7svddjzxIPaFrTrcCSo8Qo)
+523 songs - 1 day 3 hr 43 min - [published](https://open.spotify.com/playlist/7svddjzxIPaFrTrcCSo8Qo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -387,7 +387,7 @@
 | [RAPSTAR](https://open.spotify.com/track/18vXApRmJSgQ6wG2ll9AOg) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Hall of Fame](https://open.spotify.com/album/7KSf6p0G0mZd7j60etVTwT) | 2:45 | 2021-06-13 | 2021-07-04 |
 | [RAPSTAR](https://open.spotify.com/track/43PGPuHIlVOc04jrZVh9L6) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [RAPSTAR](https://open.spotify.com/album/0SVzFcpsByITKgURaxXdsV) | 2:45 | 2021-04-11 | 2021-06-13 |
 | [Rasputin](https://open.spotify.com/track/0b18g3G5spr4ZCkz7Y6Q0Q) | [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI), [Boney M.](https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb) | [Rasputin](https://open.spotify.com/album/6PzYuR9c0CYCPJTnqylPhd) | 3:06 | 2021-06-06 | 2022-01-03 |
-| [Reptér](https://open.spotify.com/track/7kpbpRnTHMwuSORe4iyG07) | [György Korda](https://open.spotify.com/artist/1PXk0bxaXI8afcSConDJNh) | [Napfény kell a világnak \- Tegnap és ma](https://open.spotify.com/album/2LWJ11EiGfbYTN1n4NMA5I) | 4:09 | 2022-08-05 |  |
+| [Reptér](https://open.spotify.com/track/7kpbpRnTHMwuSORe4iyG07) | [György Korda](https://open.spotify.com/artist/1PXk0bxaXI8afcSConDJNh) | [Napfény kell a világnak \- Tegnap és ma](https://open.spotify.com/album/2LWJ11EiGfbYTN1n4NMA5I) | 4:09 | 2022-08-05 | 2022-09-06 |
 | [rip gemini](https://open.spotify.com/track/4XJ2uUkJRhxURCE3vFvvD0) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [camouflage](https://open.spotify.com/album/3OFCYRfoLNKtAnr1CsSVqa) | 2:17 | 2021-07-01 | 2021-07-02 |
 | [Rockin' Around The Christmas Tree](https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97) | [Brenda Lee](https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W) | [Merry Christmas From Brenda Lee](https://open.spotify.com/album/34wa3zf2prXFMk47t9zHFG) | 2:06 | 2021-11-28 | 2021-12-29 |
 | [ROCKSTAR \(feat\. Roddy Ricch\)](https://open.spotify.com/track/7ytR5pFWmSjzHJIeQkgog4) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [BLAME IT ON BABY](https://open.spotify.com/album/623PL2MBg50Br5dLXC9E9e) | 3:01 | 2021-03-27\* | 2021-04-13 |
@@ -483,6 +483,7 @@
 | [Visz a vérem](https://open.spotify.com/track/5ljaIN5amyFn4fluFmjXy6) | [VALMAR](https://open.spotify.com/artist/0EQbKeNi7GXjfN2LndmReh), [Bruno X Spacc](https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv), [Manuel](https://open.spotify.com/artist/3HLb9k75O3qP4GklxUGn7s) | [Visz a vérem](https://open.spotify.com/album/4z36zSFApY8fkbCprjgEV4) | 3:07 | 2022-04-15 | 2022-04-17 |
 | [Vodkaszóda](https://open.spotify.com/track/2T3QFG6QCvfQfgpTRQmjaY) | [AKC Misi](https://open.spotify.com/artist/4pWRro00gdnq90CwBmSCtv), [AKC Kretta](https://open.spotify.com/artist/3NuMiSIG3kYlW4dGwljerz) | [Holdvilág Club Hotel & Casino](https://open.spotify.com/album/2jCvGyvuawW2wxDgfiDJUS) | 2:35 | 2022-04-23 | 2022-04-25 |
 | [voltmárkicsi](https://open.spotify.com/track/0faYxc8g09uniud0ToGDRb) | [ByeAlex és a Slepp](https://open.spotify.com/artist/2dmFGufs1lJpgKnb5NyPNS), [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG) | [voltmárkicsi](https://open.spotify.com/album/3QQwB99anYJvVbJIxe6uGR) | 2:34 | 2022-06-09 | 2022-09-04 |
+| [Vámpír](https://open.spotify.com/track/7iIik9a8QMxwFq2K1SZppX) | [Berry](https://open.spotify.com/artist/2bEeaSG5gZ9beyGIn55Mp0), [Showmi](https://open.spotify.com/artist/1VUnR2eqIoIwsn5coJK0ZF) | [Vámpír](https://open.spotify.com/album/6IUyRVKvqNxfIVEYeCRCrX) | 2:14 | 2022-09-05 |  |
 | [Várnék](https://open.spotify.com/track/0nQuoTxzDIVoWzaTgF5xtW) | [Dzsúdló](https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG), [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [Várnék](https://open.spotify.com/album/6uN19L2UQe36sMy9jI0VC1) | 3:07 | 2022-08-06 |  |
 | [Vége](https://open.spotify.com/track/67TIP5qNH4W1kRNTJrMtqS) | [ALEE](https://open.spotify.com/artist/0HtJHszzuucFjA33hHBJrT) | [Vége](https://open.spotify.com/album/7o2stthO5gw05AuikYyeEv) | 2:30 | 2021-12-07 | 2021-12-11 |
 | [Vér](https://open.spotify.com/track/0ZtaSTQeynLomLk9sHb0Pg) | [Dzsúdló](https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG) | [Szörnyeteg](https://open.spotify.com/album/3fwAWokcyYJTxZWDsyOjYm) | 2:35 | 2021-07-31 | 2021-08-05 |

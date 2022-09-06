@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUgBy0IJPlHq.md) - [plain]
 
 > A new shade of Country\. Cover: Remembering Luke Bell
 
-[Spotify](https://open.spotify.com/user/spotify) - 394,323 likes - 131 songs - 8 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 394,495 likes - 131 songs - 8 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

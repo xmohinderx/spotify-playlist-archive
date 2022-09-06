@@ -1,12 +1,12 @@
 {
   "description": "Walk the bridge between indie and folk. Cover: Tomberlin",
-  "num_followers": 48823,
+  "num_followers": 48883,
   "original_name": "Folk Arc",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDAzMDcyNCwwMDAwMDAwMDRhNzAyZWVhNzE5MDBiOTQ2ODZmMjJmYzliMmY4NGMw",
+  "snapshot_id": "MTY1NDAzMDcyNCwwMDAwMDAwMDA2Zjk1OTI1YzE3OTgyYzlhOTA0ZmZlNzkwZGJmMTAx",
   "tracks": [
     {
       "added_at": "2022-04-29 04:00:00",
@@ -763,6 +763,22 @@
     {
       "added_at": "2022-04-29 04:00:00",
       "album": {
+        "name": "Waysides",
+        "url": "https://open.spotify.com/album/6Vsrdh2ayCbJuyh6roVVri"
+      },
+      "artists": [
+        {
+          "name": "Bedouine",
+          "url": "https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5"
+        }
+      ],
+      "duration_ms": 226258,
+      "name": "The Solitude",
+      "url": "https://open.spotify.com/track/4PHkFP1O9ukoB7RMudN4PM"
+    },
+    {
+      "added_at": "2022-04-29 04:00:00",
+      "album": {
         "name": "Air Forces",
         "url": "https://open.spotify.com/album/7aRQJlM2xsWAvVJPxIcnxn"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 319053,
       "name": "Campfire",
       "url": "https://open.spotify.com/track/3kkTF2ffofmjrKA3pf5kDF"
-    },
-    {
-      "added_at": "2022-04-29 04:00:00",
-      "album": {
-        "name": "Waysides",
-        "url": "https://open.spotify.com/album/6Vsrdh2ayCbJuyh6roVVri"
-      },
-      "artists": [
-        {
-          "name": "Bedouine",
-          "url": "https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5"
-        }
-      ],
-      "duration_ms": 226258,
-      "name": "The Solitude",
-      "url": "https://open.spotify.com/track/4PHkFP1O9ukoB7RMudN4PM"
     },
     {
       "added_at": "2022-04-29 04:00:00",
@@ -1019,38 +1019,6 @@
     {
       "added_at": "2022-04-29 04:00:00",
       "album": {
-        "name": "Sorceress",
-        "url": "https://open.spotify.com/album/7MVsXLrGD9X1iBM0AQGFE6"
-      },
-      "artists": [
-        {
-          "name": "Jess Williamson",
-          "url": "https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9"
-        }
-      ],
-      "duration_ms": 186509,
-      "name": "Wind On Tin",
-      "url": "https://open.spotify.com/track/5eaLSLnaAHcUph093i4Bqr"
-    },
-    {
-      "added_at": "2022-04-29 04:00:00",
-      "album": {
-        "name": "An Overview on Phenomenal Nature",
-        "url": "https://open.spotify.com/album/1NzOdSkSNmBhhg72KlNcsE"
-      },
-      "artists": [
-        {
-          "name": "Cassandra Jenkins",
-          "url": "https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik"
-        }
-      ],
-      "duration_ms": 327440,
-      "name": "Hard Drive",
-      "url": "https://open.spotify.com/track/3ArnNhm8z0ScjDKfGHSBRk"
-    },
-    {
-      "added_at": "2022-04-29 04:00:00",
-      "album": {
         "name": "Old Peel",
         "url": "https://open.spotify.com/album/5SdjxVnwwn4w25boDjEmMR"
       },
@@ -1063,6 +1031,22 @@
       "duration_ms": 196802,
       "name": "Old Peel",
       "url": "https://open.spotify.com/track/0vuZebTvcwkstUpoo82lpG"
+    },
+    {
+      "added_at": "2022-04-29 04:00:00",
+      "album": {
+        "name": "Sorceress",
+        "url": "https://open.spotify.com/album/7MVsXLrGD9X1iBM0AQGFE6"
+      },
+      "artists": [
+        {
+          "name": "Jess Williamson",
+          "url": "https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9"
+        }
+      ],
+      "duration_ms": 186509,
+      "name": "Wind On Tin",
+      "url": "https://open.spotify.com/track/5eaLSLnaAHcUph093i4Bqr"
     },
     {
       "added_at": "2022-04-29 04:00:00",
@@ -1095,6 +1079,22 @@
       "duration_ms": 223761,
       "name": "For Props",
       "url": "https://open.spotify.com/track/3vF0yZnO7cHJKNKzE3gN99"
+    },
+    {
+      "added_at": "2022-04-29 04:00:00",
+      "album": {
+        "name": "An Overview on Phenomenal Nature",
+        "url": "https://open.spotify.com/album/1NzOdSkSNmBhhg72KlNcsE"
+      },
+      "artists": [
+        {
+          "name": "Cassandra Jenkins",
+          "url": "https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik"
+        }
+      ],
+      "duration_ms": 327440,
+      "name": "Hard Drive",
+      "url": "https://open.spotify.com/track/3ArnNhm8z0ScjDKfGHSBRk"
     },
     {
       "added_at": "2022-04-29 04:00:00",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2022-04-29 04:00:00",
       "album": {
-        "name": "Fever Dreams",
-        "url": "https://open.spotify.com/album/5HA5MRg8gQI4KvUfV05lhr"
-      },
-      "artists": [
-        {
-          "name": "Villagers",
-          "url": "https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ"
-        }
-      ],
-      "duration_ms": 207786,
-      "name": "Circles In The Firing Line - Edit",
-      "url": "https://open.spotify.com/track/5Ad4txkIPAHM4ciyEzmY3P"
-    },
-    {
-      "added_at": "2022-04-29 04:00:00",
-      "album": {
         "name": "Someone New",
         "url": "https://open.spotify.com/album/6gwAAOZeKLYDAPzSSP4SCa"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 281252,
       "name": "Truth Nugget",
       "url": "https://open.spotify.com/track/7hCvge7SEzwW0Q4VjtnOQK"
+    },
+    {
+      "added_at": "2022-04-29 04:00:00",
+      "album": {
+        "name": "Fever Dreams",
+        "url": "https://open.spotify.com/album/5HA5MRg8gQI4KvUfV05lhr"
+      },
+      "artists": [
+        {
+          "name": "Villagers",
+          "url": "https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ"
+        }
+      ],
+      "duration_ms": 207786,
+      "name": "Circles In The Firing Line - Edit",
+      "url": "https://open.spotify.com/track/5Ad4txkIPAHM4ciyEzmY3P"
     },
     {
       "added_at": "2022-04-29 04:00:00",
@@ -1403,18 +1403,18 @@
     {
       "added_at": "2022-04-29 04:00:00",
       "album": {
-        "name": "VBS",
-        "url": "https://open.spotify.com/album/3YhoJPT2c8vJgx304vdEbu"
+        "name": "chamomile",
+        "url": "https://open.spotify.com/album/4H9ie0uCEQRmY8u3ILQ9mO"
       },
       "artists": [
         {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+          "name": "Field Medic",
+          "url": "https://open.spotify.com/artist/4wMfqR1EZagrSlYndItxGQ"
         }
       ],
-      "duration_ms": 236864,
-      "name": "VBS",
-      "url": "https://open.spotify.com/track/4scUHBmjuMhzW398qc2JXO"
+      "duration_ms": 233789,
+      "name": "chamomile",
+      "url": "https://open.spotify.com/track/1OKhm3Ew6ejYwCalQmC4wP"
     },
     {
       "added_at": "2022-04-29 04:00:00",
@@ -1451,18 +1451,18 @@
     {
       "added_at": "2022-04-29 04:00:00",
       "album": {
-        "name": "chamomile",
-        "url": "https://open.spotify.com/album/4H9ie0uCEQRmY8u3ILQ9mO"
+        "name": "VBS",
+        "url": "https://open.spotify.com/album/3YhoJPT2c8vJgx304vdEbu"
       },
       "artists": [
         {
-          "name": "Field Medic",
-          "url": "https://open.spotify.com/artist/4wMfqR1EZagrSlYndItxGQ"
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
         }
       ],
-      "duration_ms": 233789,
-      "name": "chamomile",
-      "url": "https://open.spotify.com/track/1OKhm3Ew6ejYwCalQmC4wP"
+      "duration_ms": 236864,
+      "name": "VBS",
+      "url": "https://open.spotify.com/track/4scUHBmjuMhzW398qc2JXO"
     },
     {
       "added_at": "2022-04-29 04:00:00",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2022-04-29 04:00:00",
       "album": {
-        "name": "Crushing",
-        "url": "https://open.spotify.com/album/4u3aIyQbywYaxgF7TcXuIu"
-      },
-      "artists": [
-        {
-          "name": "Julia Jacklin",
-          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
-        }
-      ],
-      "duration_ms": 196106,
-      "name": "Convention",
-      "url": "https://open.spotify.com/track/0cT41FjcuUS4HFhq4IwnNY"
-    },
-    {
-      "added_at": "2022-04-29 04:00:00",
-      "album": {
         "name": "A Color of the Sky",
         "url": "https://open.spotify.com/album/5XgsP1RlwCnPU8f3NuoY2K"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 226824,
       "name": "The Right Thing Is Hard To Do",
       "url": "https://open.spotify.com/track/6mBg5msp0A14K7VfbTY272"
+    },
+    {
+      "added_at": "2022-04-29 04:00:00",
+      "album": {
+        "name": "Crushing",
+        "url": "https://open.spotify.com/album/4u3aIyQbywYaxgF7TcXuIu"
+      },
+      "artists": [
+        {
+          "name": "Julia Jacklin",
+          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
+        }
+      ],
+      "duration_ms": 196106,
+      "name": "Convention",
+      "url": "https://open.spotify.com/track/0cT41FjcuUS4HFhq4IwnNY"
     },
     {
       "added_at": "2022-04-29 04:00:00",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2022-04-29 04:00:00",
       "album": {
-        "name": "Wooh Dang",
-        "url": "https://open.spotify.com/album/4baa3THO8wKLMrASaem2Ri"
-      },
-      "artists": [
-        {
-          "name": "Daniel Norgren",
-          "url": "https://open.spotify.com/artist/6swk8GFDoEZ1cFDX70xyuO"
-        }
-      ],
-      "duration_ms": 246293,
-      "name": "Rolling Rolling Rolling",
-      "url": "https://open.spotify.com/track/2ITsIVlWHBXkOgeXXJqid9"
-    },
-    {
-      "added_at": "2022-04-29 04:00:00",
-      "album": {
         "name": "Whole New Mess",
         "url": "https://open.spotify.com/album/1Y0nAMTZkFEU0cmSkk751e"
       },
@@ -1675,18 +1659,18 @@
     {
       "added_at": "2022-04-29 04:00:00",
       "album": {
-        "name": "Stay In Touch",
-        "url": "https://open.spotify.com/album/3FocbWHJtfvMRhUWmhJTh4"
+        "name": "Wooh Dang",
+        "url": "https://open.spotify.com/album/4baa3THO8wKLMrASaem2Ri"
       },
       "artists": [
         {
-          "name": "Georgia Harmer",
-          "url": "https://open.spotify.com/artist/3I7KBuz60UYfMzBbPcqrU4"
+          "name": "Daniel Norgren",
+          "url": "https://open.spotify.com/artist/6swk8GFDoEZ1cFDX70xyuO"
         }
       ],
-      "duration_ms": 289987,
-      "name": "Homes",
-      "url": "https://open.spotify.com/track/0YeT52y9Z9rIL1F2pUtkcT"
+      "duration_ms": 246293,
+      "name": "Rolling Rolling Rolling",
+      "url": "https://open.spotify.com/track/2ITsIVlWHBXkOgeXXJqid9"
     },
     {
       "added_at": "2022-04-29 04:00:00",
@@ -1719,6 +1703,22 @@
       "duration_ms": 218017,
       "name": "Solid Heart",
       "url": "https://open.spotify.com/track/7lT9thtYRU1l8eW9pTZPPa"
+    },
+    {
+      "added_at": "2022-04-29 04:00:00",
+      "album": {
+        "name": "Stay In Touch",
+        "url": "https://open.spotify.com/album/3FocbWHJtfvMRhUWmhJTh4"
+      },
+      "artists": [
+        {
+          "name": "Georgia Harmer",
+          "url": "https://open.spotify.com/artist/3I7KBuz60UYfMzBbPcqrU4"
+        }
+      ],
+      "duration_ms": 289987,
+      "name": "Homes",
+      "url": "https://open.spotify.com/track/0YeT52y9Z9rIL1F2pUtkcT"
     },
     {
       "added_at": "2022-04-29 04:00:00",
@@ -1883,22 +1883,6 @@
     {
       "added_at": "2022-04-29 04:00:00",
       "album": {
-        "name": "Ultraviolet",
-        "url": "https://open.spotify.com/album/1rLY7IDUdjqqNlEqmRnIUd"
-      },
-      "artists": [
-        {
-          "name": "Lionlimb",
-          "url": "https://open.spotify.com/artist/06wmOEVNWtAOfLxNVcnz0V"
-        }
-      ],
-      "duration_ms": 230431,
-      "name": "Ultraviolet",
-      "url": "https://open.spotify.com/track/0atoPGT6rAGWcMnaPUuCtn"
-    },
-    {
-      "added_at": "2022-04-29 04:00:00",
-      "album": {
         "name": "Stranger",
         "url": "https://open.spotify.com/album/4bqE0GxxSdnrfJMiFB6MAA"
       },
@@ -1911,6 +1895,22 @@
       "duration_ms": 168897,
       "name": "Stranger",
       "url": "https://open.spotify.com/track/0JmSm5QqrdHEUDOG1k0D4h"
+    },
+    {
+      "added_at": "2022-04-29 04:00:00",
+      "album": {
+        "name": "Ultraviolet",
+        "url": "https://open.spotify.com/album/1rLY7IDUdjqqNlEqmRnIUd"
+      },
+      "artists": [
+        {
+          "name": "Lionlimb",
+          "url": "https://open.spotify.com/artist/06wmOEVNWtAOfLxNVcnz0V"
+        }
+      ],
+      "duration_ms": 230431,
+      "name": "Ultraviolet",
+      "url": "https://open.spotify.com/track/0atoPGT6rAGWcMnaPUuCtn"
     },
     {
       "added_at": "2022-04-29 04:00:00",
@@ -1931,22 +1931,6 @@
     {
       "added_at": "2022-04-29 04:00:00",
       "album": {
-        "name": "Calling The Shots",
-        "url": "https://open.spotify.com/album/2tqxQyefvJhebANvFfyS97"
-      },
-      "artists": [
-        {
-          "name": "Jamie B.",
-          "url": "https://open.spotify.com/artist/0V7j0A3N5hup0XNQVKYvrQ"
-        }
-      ],
-      "duration_ms": 231382,
-      "name": "Calling The Shots",
-      "url": "https://open.spotify.com/track/327V3cyuKrjlHzcoup18bX"
-    },
-    {
-      "added_at": "2022-04-29 04:00:00",
-      "album": {
         "name": "The Monster Who Hated Pennsylvania",
         "url": "https://open.spotify.com/album/13qO35v1fPlEsvctgnCMrs"
       },
@@ -1959,6 +1943,22 @@
       "duration_ms": 167173,
       "name": "Helena",
       "url": "https://open.spotify.com/track/2BsSqz6lCeJl8tErM2ZlL4"
+    },
+    {
+      "added_at": "2022-04-29 04:00:00",
+      "album": {
+        "name": "Calling The Shots",
+        "url": "https://open.spotify.com/album/2tqxQyefvJhebANvFfyS97"
+      },
+      "artists": [
+        {
+          "name": "Jamie B.",
+          "url": "https://open.spotify.com/artist/0V7j0A3N5hup0XNQVKYvrQ"
+        }
+      ],
+      "duration_ms": 231382,
+      "name": "Calling The Shots",
+      "url": "https://open.spotify.com/track/327V3cyuKrjlHzcoup18bX"
     },
     {
       "added_at": "2022-04-29 04:00:00",
@@ -1995,6 +1995,22 @@
     {
       "added_at": "2022-04-29 04:00:00",
       "album": {
+        "name": "Other You / Reflection",
+        "url": "https://open.spotify.com/album/1BbUZkxKb97FwrTMuRbt5z"
+      },
+      "artists": [
+        {
+          "name": "Steve Gunn",
+          "url": "https://open.spotify.com/artist/7uLXW75DlTRahz2WKJZGeO"
+        }
+      ],
+      "duration_ms": 343253,
+      "name": "Other You",
+      "url": "https://open.spotify.com/track/1LQf4dPrvgiuGyRtrXzZ2e"
+    },
+    {
+      "added_at": "2022-04-29 04:00:00",
+      "album": {
         "name": "Mythopoetics",
         "url": "https://open.spotify.com/album/4FdIfIKSgiDBEG6Er5ANj4"
       },
@@ -2027,22 +2043,6 @@
       "duration_ms": 297007,
       "name": "AEIOU",
       "url": "https://open.spotify.com/track/5ezRobByzA1eN0bLfGGaeo"
-    },
-    {
-      "added_at": "2022-04-29 04:00:00",
-      "album": {
-        "name": "Other You / Reflection",
-        "url": "https://open.spotify.com/album/1BbUZkxKb97FwrTMuRbt5z"
-      },
-      "artists": [
-        {
-          "name": "Steve Gunn",
-          "url": "https://open.spotify.com/artist/7uLXW75DlTRahz2WKJZGeO"
-        }
-      ],
-      "duration_ms": 343253,
-      "name": "Other You",
-      "url": "https://open.spotify.com/track/1LQf4dPrvgiuGyRtrXzZ2e"
     }
   ],
   "unique_name": "Folk Arc",

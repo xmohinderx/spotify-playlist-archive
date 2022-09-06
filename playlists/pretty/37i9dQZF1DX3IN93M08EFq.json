@@ -1,12 +1,12 @@
 {
   "description": "Din egen indieklubb! Garanterad dans, dans, dans. #spelashoreline",
-  "num_followers": 56977,
+  "num_followers": 56992,
   "original_name": "Spela Shoreline!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYyMzc0OTEwNSwwMDAwMDAwMDY3ZmNiZmJjYWM3YTZiODcyMmM0OWY1Y2E4Njk5ZGFh",
+  "snapshot_id": "MTYyMzc0OTEwNSwwMDAwMDAwMDk4YjY1NThmZTcwOTE5ZmZlNGZhMWY0Yjc4MmYwMjlk",
   "tracks": [
     {
       "added_at": "2021-06-15 09:25:05",
@@ -187,22 +187,6 @@
     {
       "added_at": "2021-06-15 09:25:05",
       "album": {
-        "name": "Different Class",
-        "url": "https://open.spotify.com/album/3ly9T2L4pqTZijFgQssd3x"
-      },
-      "artists": [
-        {
-          "name": "Pulp",
-          "url": "https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD"
-        }
-      ],
-      "duration_ms": 351626,
-      "name": "Common People",
-      "url": "https://open.spotify.com/track/2fXKyAyPrEa24c6PJyqznF"
-    },
-    {
-      "added_at": "2021-06-15 09:25:05",
-      "album": {
         "name": "Oracular Spectacular",
         "url": "https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv"
       },
@@ -219,6 +203,22 @@
     {
       "added_at": "2021-06-15 09:25:05",
       "album": {
+        "name": "Different Class",
+        "url": "https://open.spotify.com/album/3ly9T2L4pqTZijFgQssd3x"
+      },
+      "artists": [
+        {
+          "name": "Pulp",
+          "url": "https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD"
+        }
+      ],
+      "duration_ms": 351626,
+      "name": "Common People",
+      "url": "https://open.spotify.com/track/2fXKyAyPrEa24c6PJyqznF"
+    },
+    {
+      "added_at": "2021-06-15 09:25:05",
+      "album": {
         "name": "Love Will Tear Us Apart",
         "url": "https://open.spotify.com/album/0u0CJa9zwFbGSU8JWQYS5G"
       },
@@ -231,6 +231,26 @@
       "duration_ms": 208453,
       "name": "Love Will Tear Us Apart - 2020 Remaster",
       "url": "https://open.spotify.com/track/34iOH7LY3vme5rQxsVILZ4"
+    },
+    {
+      "added_at": "2021-06-15 09:25:05",
+      "album": {
+        "name": "Come On Eileen / Dubious",
+        "url": "https://open.spotify.com/album/2fZF9yZ8e7Q7CJCjpN0VIK"
+      },
+      "artists": [
+        {
+          "name": "Dexys Midnight Runners",
+          "url": "https://open.spotify.com/artist/4QTVePrFu1xuGM9K0kNXkk"
+        },
+        {
+          "name": "Kevin Rowland",
+          "url": "https://open.spotify.com/artist/7ipGLKpbyUOKFaji4MY19m"
+        }
+      ],
+      "duration_ms": 205933,
+      "name": "Come On Eileen - Single Edit",
+      "url": "https://open.spotify.com/track/6nWcEzyxDozQcmxMoNJtYx"
     },
     {
       "added_at": "2021-06-15 09:25:05",
@@ -263,26 +283,6 @@
       "duration_ms": 121880,
       "name": "Song 2",
       "url": "https://open.spotify.com/track/3GfOAdcoc3X5GPiiXmpBjK"
-    },
-    {
-      "added_at": "2021-06-15 09:25:05",
-      "album": {
-        "name": "Come On Eileen / Dubious",
-        "url": "https://open.spotify.com/album/2fZF9yZ8e7Q7CJCjpN0VIK"
-      },
-      "artists": [
-        {
-          "name": "Dexys Midnight Runners",
-          "url": "https://open.spotify.com/artist/4QTVePrFu1xuGM9K0kNXkk"
-        },
-        {
-          "name": "Kevin Rowland",
-          "url": "https://open.spotify.com/artist/7ipGLKpbyUOKFaji4MY19m"
-        }
-      ],
-      "duration_ms": 205933,
-      "name": "Come On Eileen - Single Edit",
-      "url": "https://open.spotify.com/track/6nWcEzyxDozQcmxMoNJtYx"
     },
     {
       "added_at": "2021-06-15 09:25:05",

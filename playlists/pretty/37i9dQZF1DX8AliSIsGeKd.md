@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music from Electronica to Techno\. Cover: Klanglos
 
-[Spotify](https://open.spotify.com/user/spotify) - 547,579 likes - 79 songs - 7 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 547,704 likes - 79 songs - 7 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 78 | [Space Dust](https://open.spotify.com/track/4ScEl944mVtm97bNpmozur) | [Alan Fitzpatrick](https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive), [Reset Robot](https://open.spotify.com/artist/7hmPLllWGkE1X101Wv4vb3) | [Space Dust](https://open.spotify.com/album/3GJ5iIMyPnH3195kLYMlqt) | 4:24 |
 | 79 | [Acid Feelings](https://open.spotify.com/track/7FSz11IOD60nLjWs3KjxRz) | [Tim Etzel](https://open.spotify.com/artist/2uv227wjA5bJO6RrXJsaXu) | [Acid Feelings](https://open.spotify.com/album/3pa8bw0wupP5r1oXoyJKMi) | 7:03 |
 
-Snapshot ID: `MTY2MjA2OTY2MCwwMDAwMDAwMGY4MzBjMTllNjc5OGM0MTk4ODZjZWM0M2VmNWUyYjU1`
+Snapshot ID: `MTY2MjM3OTIwMCwwMDAwMDAwMDdjYTk5MTg1MzI2OGYyYTk2NDFkZDlkZjUzN2ZmZjFi`

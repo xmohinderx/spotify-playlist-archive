@@ -4,7 +4,7 @@
 
 > The best NEW Music right now, curated by Kitsuné Musique and added to one HOT playlist : a FRESH selection updated every Monday, Wednesday &amp; Friday.
 
-78 songs - 4 hr 32 min - [published](https://open.spotify.com/playlist/6gxGlcxed4RBnU8Hz4XDes)
+79 songs - 4 hr 35 min - [published](https://open.spotify.com/playlist/6gxGlcxed4RBnU8Hz4XDes)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Dead Ideas](https://open.spotify.com/track/6kcBkp3vklsEdkoX4UowB4) | [Don't Connect](https://open.spotify.com/artist/7MMXoJIkvbJwm7kugu3gmt), [Flyboy Jetty](https://open.spotify.com/artist/76bn42h0a8NQKoqPOuzHFM) | [Dead Ideas](https://open.spotify.com/album/261FxBzquUe3fSrhoJmpzl) | 3:18 | 2022-04-01 | 2022-06-11 |
 | [Deezy Daisy \- Oxford Remix](https://open.spotify.com/track/5EHEEtGjuDstWdlPJk8aiY) | [Portland](https://open.spotify.com/artist/3t56cz9dhL53ioNIZFCDBo), [Oxford](https://open.spotify.com/artist/0RcOhppBdwj9IPV5ByDV8X) | [Kitsuné: Deezy Daisy \(Remixes\)](https://open.spotify.com/album/3xct0okCH1yFJPQ7Sc1iU2) | 4:27 | 2021-11-05 |  |
 | [Denouement](https://open.spotify.com/track/4ml7mrfUUxg8VtLwnu38nr) | [Lil Seyi](https://open.spotify.com/artist/2Z5C4k6StRPuT2ZipvC00O), [eisenach](https://open.spotify.com/artist/0RO451V3eGOiatc3IQXtG7) | [Denouement](https://open.spotify.com/album/4OM9A1NtnL1vVCuPMj8gfT) | 3:12 | 2021-11-05 |  |
-| [Does the Magic Spin?](https://open.spotify.com/track/00DVwBTumBG1dH9OYMDolv) | [POCKET](https://open.spotify.com/artist/55xouRrT7A66F3oitgm0Yw) | [Does the Magic Spin?](https://open.spotify.com/album/1bNKiavjNgYlbJudcRX3Kg) | 3:00 | 2022-06-17 |  |
+| [Does the Magic Spin?](https://open.spotify.com/track/00DVwBTumBG1dH9OYMDolv) | [POCKET](https://open.spotify.com/artist/55xouRrT7A66F3oitgm0Yw) | [Does the Magic Spin?](https://open.spotify.com/album/1bNKiavjNgYlbJudcRX3Kg) | 3:00 | 2022-06-17 | 2022-09-06 |
 | [Drugs in My Body](https://open.spotify.com/track/2OzxUMVcb8RakhwGRJwZGK) | [Thieves Like Us](https://open.spotify.com/artist/5miWG3FgilzOG7dy3aowZc) | [Kitsuné: Drugs in My Body](https://open.spotify.com/album/7KRC3eWmoCTMP2t7c8o7ZH) | 3:36 | 2021-11-05 |  |
 | [Ecstasy \- Mixed](https://open.spotify.com/track/2PspwQLfDzLUOyaxQ7de5L) | [Fabich](https://open.spotify.com/artist/1mwP5J1kB8clYx0SoNL0uh), [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k), [Pastel](https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO), [Bambie](https://open.spotify.com/artist/2K2zheLCDXiIK9j83oWNxv) | [Café Kitsuné Mixed by Fabich](https://open.spotify.com/album/3MlhqxDLKTzmEHpHlQFBFS) | 2:19 | 2021-11-05 |  |
 | [elevate in the village](https://open.spotify.com/track/0ZRKOmFI20AOF2XNKyL4kZ) | [mynameisleonidas](https://open.spotify.com/artist/0Jjoj2QyL1AtZ08H6LTTVe) | [elevate in the village](https://open.spotify.com/album/1hAzBTggPEPrDDVAq1Hktz) | 3:17 | 2021-11-05 |  |
@@ -41,6 +41,7 @@
 | [Hollow](https://open.spotify.com/track/43dWASmdtGOOI0yOyx9zAH) | [Saavan](https://open.spotify.com/artist/7HIN13S8A6wfupCwXRNv6U) | [Hollow](https://open.spotify.com/album/4N7w5vzvRIAfxjNPaSAMXN) | 3:39 | 2022-05-27 | 2022-08-05 |
 | [Huacachina](https://open.spotify.com/track/3zRhKaZXEUGrJqMGN5KtXy) | [MonteRosso](https://open.spotify.com/artist/2jmgwssZmQ2Eq2ibRXkSA1) | [Kitsuné Parisien 4](https://open.spotify.com/album/4s5nuGCwXlTwmWuP5wlsoE) | 3:33 | 2021-11-05 |  |
 | [I Can Talk](https://open.spotify.com/track/0Krxo9CPCj98TR3QHqSb8N) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Kitsuné: I Can Talk \(Remixes\)](https://open.spotify.com/album/0DDPS6mumu79yYixnXOVZF) | 2:57 | 2021-11-05 |  |
+| [Icy](https://open.spotify.com/track/1I7e4AyVqSBOoh6GHttqws) | [LN](https://open.spotify.com/artist/3JyVio3O9Tokn7Yc1jI75T) | [Icy](https://open.spotify.com/album/4ZAkDbkETjOwhUAt6f0fV5) | 2:44 | 2022-09-05 |  |
 | [IDHAGF](https://open.spotify.com/track/6prn5rtliYnT0BntPBErk3) | [KIIKO BLAK](https://open.spotify.com/artist/12fzO7xcyUgAdJyua4yXte) | [IDHAGF](https://open.spotify.com/album/6bL79psgIxSRmjRfCORDq4) | 3:00 | 2022-05-02 | 2022-07-09 |
 | [IPANEMA](https://open.spotify.com/track/6vz5lQoqxfgDt3bXNsC4sq) | [MATVEÏ](https://open.spotify.com/artist/2c8JocB8eI6cCGaF5xGoT1) | [TALES\_FOR\_NIGHTCLUBS\_II](https://open.spotify.com/album/2xFGlGQ5iUH8s1IcluUDaZ) | 2:58 | 2022-07-20 |  |
 | [IPANEMA \- slow](https://open.spotify.com/track/44z0xS4YJxrsHt3oTvS2ei) | [TALES\_FOR\_NIGHTCLUBS](https://open.spotify.com/artist/1bQcDCkr8KkJBbHtjqAXps) | [IPANEMA \(slow\)](https://open.spotify.com/album/6yTtOrQDLrPodakOvqssbn) | 3:16 | 2022-08-24 |  |

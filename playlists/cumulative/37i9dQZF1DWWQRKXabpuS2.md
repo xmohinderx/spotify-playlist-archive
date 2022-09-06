@@ -4,7 +4,7 @@
 
 > ابق على اطلاع بأحدث الأغاني الخليجية! الغلاف: فؤاد عبدالواحد
 
-146 songs - 10 hr 0 min - [published](https://open.spotify.com/playlist/4PSk8NVZJlLmYibT60mLzt)
+147 songs - 10 hr 5 min - [published](https://open.spotify.com/playlist/4PSk8NVZJlLmYibT60mLzt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Ana Wa Anti](https://open.spotify.com/track/5vIqr9irNBp6onPeXnc6pM) | [Zayed Bin Saber](https://open.spotify.com/artist/0TNuRg9zAJbDy4chgGD4Cs) | [Ana Wa Anti](https://open.spotify.com/album/5xSVWY9yibDP7ttHSZqet5) | 4:44 | 2022-08-20 | 2022-08-23 |
 | [Ani Aredak](https://open.spotify.com/track/66gIjtTp56i7n5I0D2CclW) | [Hamza Al Aseel](https://open.spotify.com/artist/7nQ1aN8DVGPMH6y80w7FU3) | [Ani Aredak](https://open.spotify.com/album/0ik2ZcKqyXX2qTeMfefnED) | 3:02 | 2021-12-23 | 2022-04-02 |
 | [Arba3inak](https://open.spotify.com/track/6xlgx1TgbkUGoeNRpigIvR) | [Hamad Al Qattan](https://open.spotify.com/artist/3GyxnOcf3qKxX6QaaBCbYD) | [Arba3inak](https://open.spotify.com/album/4cIGmqnGdZ82lZgmZsmvUy) | 3:54 | 2022-03-01 | 2022-08-13 |
+| [Ashan Al Eshrah \(6\)](https://open.spotify.com/track/7m2zZPpGToPPLWv41LTo2U) | [Ayed](https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U) | [Ashan Al Eshrah \(6\)](https://open.spotify.com/album/2w79joKuAlb8yptMEMMJNQ) | 4:37 | 2022-09-05 |  |
 | [Asheqat Alworod](https://open.spotify.com/track/7fzlfxPGNg6TAnsagF3xWA) | [Fares Mahdi](https://open.spotify.com/artist/1YsTqzEdaUDfTm05Rx9bHD) | [Asheqat Alworod](https://open.spotify.com/album/7wLFnsKYJiUTyIsfc3juIR) | 5:59 | 2021-12-23 | 2022-04-06 |
 | [Asher Safha](https://open.spotify.com/track/6LS75pBeHxcJ9rUYecFz33) | [Ibrahim Al Hakmi](https://open.spotify.com/artist/5tW4IIHdo0QDx1KvTu03yc) | [Asher Safha](https://open.spotify.com/album/5jjwXhLhOAbqXFGkibas73) | 4:51 | 2022-06-02 |  |
 | [Baadh Al Ghala](https://open.spotify.com/track/3Sf476zAelNnGLOS9dSUWX) | [Nour Ireksousi](https://open.spotify.com/artist/3ERqXjQ9LH6lItvNMwSftG) | [Baadh Al Ghala](https://open.spotify.com/album/6Nw5PNaAjR8blhDzsmuulu) | 3:49 | 2021-12-23 | 2022-03-12 |

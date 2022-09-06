@@ -1,12 +1,12 @@
 {
   "description": "Tech house technicians, featuring Cloonee",
-  "num_followers": 561046,
+  "num_followers": 561090,
   "original_name": "Operator",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTc4MzIyMCwwMDAwMDAwMGEyNjRkMDIwZjIwMDA1ZWJkMzBlOTg0ZjdhNDdjMmE5",
+  "snapshot_id": "MTY2MjM2NDEyMiwwMDAwMDAwMDExOWE5M2U1MzEzYjE1NjE3MjE1Mzg0NDNhMzg3MzRj",
   "tracks": [
     {
       "added_at": "2022-08-26 04:02:00",
@@ -41,6 +41,42 @@
       "url": "https://open.spotify.com/track/1uXPu4aSDFPLzyNcH6ASD4"
     },
     {
+      "added_at": "2022-09-05 07:48:42",
+      "album": {
+        "name": "Yeah The Girls",
+        "url": "https://open.spotify.com/album/6yxWTg8P4cAJ0gyPHUqPfv"
+      },
+      "artists": [
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        },
+        {
+          "name": "MERYLL",
+          "url": "https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC"
+        }
+      ],
+      "duration_ms": 194310,
+      "name": "Yeah The Girls",
+      "url": "https://open.spotify.com/track/2ST4u9GusI2ddDfuMvXA5l"
+    },
+    {
+      "added_at": "2022-09-05 07:48:42",
+      "album": {
+        "name": "Sand Dunes",
+        "url": "https://open.spotify.com/album/7z4cJm01ThOpkmGdf6MoqC"
+      },
+      "artists": [
+        {
+          "name": "Bleu Clair",
+          "url": "https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr"
+        }
+      ],
+      "duration_ms": 205342,
+      "name": "Sand Dunes",
+      "url": "https://open.spotify.com/track/2Oh4jKif9YIlxbg8aX6Km0"
+    },
+    {
       "added_at": "2022-08-12 04:02:00",
       "album": {
         "name": "LEFT TO RIGHT",
@@ -55,6 +91,74 @@
       "duration_ms": 146250,
       "name": "LEFT TO RIGHT",
       "url": "https://open.spotify.com/track/2IyT4A7X7QYMAhEK6etsi3"
+    },
+    {
+      "added_at": "2022-09-05 07:48:42",
+      "album": {
+        "name": "Que Te Toca",
+        "url": "https://open.spotify.com/album/7ua6PisPhTsPnWFZcGKdSd"
+      },
+      "artists": [
+        {
+          "name": "Shermanology",
+          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
+        },
+        {
+          "name": "Maceo El Perro Blanco",
+          "url": "https://open.spotify.com/artist/1CUMM7r8Ujvj3J3DCsx0p6"
+        },
+        {
+          "name": "DJ Buddha",
+          "url": "https://open.spotify.com/artist/2m7JzVtYyAwdU0CnET9IvA"
+        }
+      ],
+      "duration_ms": 236250,
+      "name": "Que Te Toca",
+      "url": "https://open.spotify.com/track/7a0nmRHMV5OvH9P52LhMaJ"
+    },
+    {
+      "added_at": "2022-08-26 04:02:00",
+      "album": {
+        "name": "Two Caps",
+        "url": "https://open.spotify.com/album/2omx5AxUw6N0G94rgD9fKA"
+      },
+      "artists": [
+        {
+          "name": "D.O.D",
+          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
+        }
+      ],
+      "duration_ms": 183425,
+      "name": "Two Caps",
+      "url": "https://open.spotify.com/track/6xBU9ordUqC3tzhE3uKVKl"
+    },
+    {
+      "added_at": "2022-09-05 07:48:42",
+      "album": {
+        "name": "Remember (feat. Stevie Appleton)",
+        "url": "https://open.spotify.com/album/3cgql1fqxswMfgrCfmsgcg"
+      },
+      "artists": [
+        {
+          "name": "Sonny Fodera",
+          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
+        },
+        {
+          "name": "Gorgon City",
+          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+        },
+        {
+          "name": "Danny Howard",
+          "url": "https://open.spotify.com/artist/14MtanGZe4G1fzC8raLFUK"
+        },
+        {
+          "name": "Stevie Appleton",
+          "url": "https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ"
+        }
+      ],
+      "duration_ms": 199967,
+      "name": "Remember (feat. Stevie Appleton)",
+      "url": "https://open.spotify.com/track/5Cv9UBYh2VkiCspwh4Wog5"
     },
     {
       "added_at": "2022-08-29 14:27:00",
@@ -77,46 +181,6 @@
       "url": "https://open.spotify.com/track/3QiokeqGnSusb9wbl7rtsV"
     },
     {
-      "added_at": "2022-08-26 04:02:00",
-      "album": {
-        "name": "Two Caps",
-        "url": "https://open.spotify.com/album/2omx5AxUw6N0G94rgD9fKA"
-      },
-      "artists": [
-        {
-          "name": "D.O.D",
-          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
-        }
-      ],
-      "duration_ms": 183425,
-      "name": "Two Caps",
-      "url": "https://open.spotify.com/track/6xBU9ordUqC3tzhE3uKVKl"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
-        "name": "My Feelings For You (Mark Knight Remix)",
-        "url": "https://open.spotify.com/album/3P4T0xEYwLZiB9xhzM0tzF"
-      },
-      "artists": [
-        {
-          "name": "Avicii",
-          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
-        },
-        {
-          "name": "Sebastien Drums",
-          "url": "https://open.spotify.com/artist/0lHsjYcb3lGjkJQQqC6HVt"
-        },
-        {
-          "name": "Mark Knight",
-          "url": "https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL"
-        }
-      ],
-      "duration_ms": 224515,
-      "name": "My Feelings For You - Mark Knight Remix",
-      "url": "https://open.spotify.com/track/2hLczPN5CH5qhc6J4WBJHs"
-    },
-    {
       "added_at": "2022-08-12 04:02:00",
       "album": {
         "name": "Repopulate Stars Summer Jams",
@@ -131,6 +195,26 @@
       "duration_ms": 222720,
       "name": "Your Love",
       "url": "https://open.spotify.com/track/7ddsmjp0uWE4I4l0PV5LJb"
+    },
+    {
+      "added_at": "2022-09-05 07:48:42",
+      "album": {
+        "name": "Heat the Club",
+        "url": "https://open.spotify.com/album/6PokAp9WPMwcjw11zz7h7P"
+      },
+      "artists": [
+        {
+          "name": "Mz Worthy",
+          "url": "https://open.spotify.com/artist/6AYgHoc0rxMltUiblsFc6c"
+        },
+        {
+          "name": "Worthy",
+          "url": "https://open.spotify.com/artist/3H73pVo61GsGGlCzn4k1df"
+        }
+      ],
+      "duration_ms": 187045,
+      "name": "Heat the Club",
+      "url": "https://open.spotify.com/track/3q4DV4TQSjSCiyc5iutSoF"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -163,6 +247,26 @@
       "duration_ms": 192411,
       "name": "Vertigo",
       "url": "https://open.spotify.com/track/4fQTa68yjwRRBditzmCrZ9"
+    },
+    {
+      "added_at": "2022-09-05 07:48:42",
+      "album": {
+        "name": "Boom Boom (feat. CHRSTPHR)",
+        "url": "https://open.spotify.com/album/7pkY5Owef8tkoR7Y88Olwt"
+      },
+      "artists": [
+        {
+          "name": "Matt Sassari",
+          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
+        },
+        {
+          "name": "CHRSTPHR",
+          "url": "https://open.spotify.com/artist/6yu6ruPHJXpEtX3eQpZTCz"
+        }
+      ],
+      "duration_ms": 178131,
+      "name": "Boom Boom (feat. CHRSTPHR)",
+      "url": "https://open.spotify.com/track/41Fq0oWTtuGes9RR6UhMw1"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -201,6 +305,22 @@
       "url": "https://open.spotify.com/track/0CyrNTcFLUqcEzO4jx1I6O"
     },
     {
+      "added_at": "2022-09-05 07:48:42",
+      "album": {
+        "name": "Susanna",
+        "url": "https://open.spotify.com/album/3vAiDmx1dpeDcqT4ebU8CU"
+      },
+      "artists": [
+        {
+          "name": "DJ Susan",
+          "url": "https://open.spotify.com/artist/1E3qGlNjHcdqAYMT4Wi6cm"
+        }
+      ],
+      "duration_ms": 154285,
+      "name": "Susanna",
+      "url": "https://open.spotify.com/track/2OHLvh6BIA1yTKQLA4kAbF"
+    },
+    {
       "added_at": "2022-08-12 04:02:00",
       "album": {
         "name": "Put Your Hands Up",
@@ -215,6 +335,46 @@
       "duration_ms": 210240,
       "name": "Put Your Hands Up",
       "url": "https://open.spotify.com/track/5Ez4dUP6gZ4ILZOGkh1Url"
+    },
+    {
+      "added_at": "2022-08-19 04:00:00",
+      "album": {
+        "name": "My Feelings For You (Mark Knight Remix)",
+        "url": "https://open.spotify.com/album/3P4T0xEYwLZiB9xhzM0tzF"
+      },
+      "artists": [
+        {
+          "name": "Avicii",
+          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+        },
+        {
+          "name": "Sebastien Drums",
+          "url": "https://open.spotify.com/artist/0lHsjYcb3lGjkJQQqC6HVt"
+        },
+        {
+          "name": "Mark Knight",
+          "url": "https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL"
+        }
+      ],
+      "duration_ms": 224515,
+      "name": "My Feelings For You - Mark Knight Remix",
+      "url": "https://open.spotify.com/track/2hLczPN5CH5qhc6J4WBJHs"
+    },
+    {
+      "added_at": "2022-09-05 07:48:42",
+      "album": {
+        "name": "Goodies",
+        "url": "https://open.spotify.com/album/67bFXY7O9MCywon0nEyS1Z"
+      },
+      "artists": [
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        }
+      ],
+      "duration_ms": 121904,
+      "name": "Goodies",
+      "url": "https://open.spotify.com/track/1rGd2CoMxEg2dnaytLY5ZG"
     },
     {
       "added_at": "2022-08-26 04:02:00",
@@ -317,6 +477,22 @@
       "url": "https://open.spotify.com/track/5uIPgZYAPggdErCVj6lY56"
     },
     {
+      "added_at": "2022-09-05 07:48:42",
+      "album": {
+        "name": "Find My Way",
+        "url": "https://open.spotify.com/album/34csmfjmBsLxnii2PIYiev"
+      },
+      "artists": [
+        {
+          "name": "Bexxie",
+          "url": "https://open.spotify.com/artist/3lwq28uuT7bAqQ3shl4d9Q"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "Find My Way",
+      "url": "https://open.spotify.com/track/0T8j68rUIsDchV9JIuwOfw"
+    },
+    {
       "added_at": "2022-08-26 04:02:00",
       "album": {
         "name": "Losing Control",
@@ -411,6 +587,26 @@
       "duration_ms": 203952,
       "name": "Miracles",
       "url": "https://open.spotify.com/track/390gklCmVREtgzEVf3L3CU"
+    },
+    {
+      "added_at": "2022-09-05 07:48:42",
+      "album": {
+        "name": "Is It All Over My Face (Black V Neck Remix)",
+        "url": "https://open.spotify.com/album/2Aipcw26kHsVXwmy7AIZ8b"
+      },
+      "artists": [
+        {
+          "name": "Dajae",
+          "url": "https://open.spotify.com/artist/79Gg0tmzETfnVrOUjgXPeE"
+        },
+        {
+          "name": "Black V Neck",
+          "url": "https://open.spotify.com/artist/2l0xOjnrmYsxNoQ0QI3G5a"
+        }
+      ],
+      "duration_ms": 228571,
+      "name": "Is It All Over My Face - Black V Neck Remix",
+      "url": "https://open.spotify.com/track/1WXqBRHwlkNGHHeSzw2tjA"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -753,26 +949,6 @@
       "url": "https://open.spotify.com/track/5kxhWnVt5pnBY1pIDpi6mk"
     },
     {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
-        "name": "Deep Inside Of Me",
-        "url": "https://open.spotify.com/album/5RVbXqlePWY6CrEIWnGpUX"
-      },
-      "artists": [
-        {
-          "name": "Bob Sinclar",
-          "url": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
-        },
-        {
-          "name": "A-Trak",
-          "url": "https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt"
-        }
-      ],
-      "duration_ms": 181676,
-      "name": "Deep Inside Of Me",
-      "url": "https://open.spotify.com/track/7j5eg5Mb7n5iapdqY1T74A"
-    },
-    {
       "added_at": "2022-08-05 04:01:00",
       "album": {
         "name": "The End (PAX Remix)",
@@ -1005,26 +1181,6 @@
       "url": "https://open.spotify.com/track/5K59VdBAhtTYIxBlne1WT2"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
-        "name": "Aura",
-        "url": "https://open.spotify.com/album/0itIElpJrQZ30aPUilSDgn"
-      },
-      "artists": [
-        {
-          "name": "Bleu Clair",
-          "url": "https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr"
-        },
-        {
-          "name": "Jargen",
-          "url": "https://open.spotify.com/artist/7eNmYIb1F1EUjKBc4UIJBl"
-        }
-      ],
-      "duration_ms": 184776,
-      "name": "Aura",
-      "url": "https://open.spotify.com/track/2Bj5ZUeHEke7ovkkpPbG7d"
-    },
-    {
       "added_at": "2022-08-05 04:01:00",
       "album": {
         "name": "Scream",
@@ -1059,30 +1215,6 @@
       "duration_ms": 163488,
       "name": "Chiquetere (feat. Rafa Villalba)",
       "url": "https://open.spotify.com/track/1pdsBkhNchpGCQTGoNQXZI"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
-        "name": "Kerching",
-        "url": "https://open.spotify.com/album/2EbLWvMUt7vknp9BZUXj2j"
-      },
-      "artists": [
-        {
-          "name": "Joshwa",
-          "url": "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
-        },
-        {
-          "name": "JADED",
-          "url": "https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf"
-        },
-        {
-          "name": "Eliza Legzdina",
-          "url": "https://open.spotify.com/artist/0oehZWYTU3DazM5gV7i6Op"
-        }
-      ],
-      "duration_ms": 178604,
-      "name": "Kerching",
-      "url": "https://open.spotify.com/track/3voNCdMNCd1M2Yh1Y7cm4Y"
     },
     {
       "added_at": "2022-08-05 04:01:00",
@@ -1297,46 +1429,6 @@
       "url": "https://open.spotify.com/track/45InXApu4gOT5EzXwBgkKH"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
-        "name": "Sunshine",
-        "url": "https://open.spotify.com/album/2c6jGCUhdCwGktUHo2DfQ8"
-      },
-      "artists": [
-        {
-          "name": "Marco Lys",
-          "url": "https://open.spotify.com/artist/5WiohqjMNs7MtChjoHE9D1"
-        },
-        {
-          "name": "J Farrukh",
-          "url": "https://open.spotify.com/artist/4JM9FW5tJQBkarX1rLTRT0"
-        }
-      ],
-      "duration_ms": 190080,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/0qH77q5xCLdGaf19ZNNRxA"
-    },
-    {
-      "added_at": "2022-07-15 18:14:48",
-      "album": {
-        "name": "Every Day",
-        "url": "https://open.spotify.com/album/2ic8qpKW6f6VCcsYgUo6MN"
-      },
-      "artists": [
-        {
-          "name": "Lucas & Steve",
-          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
-        },
-        {
-          "name": "CRCLE",
-          "url": "https://open.spotify.com/artist/0XDbOisy0qfOYDjqLLftvS"
-        }
-      ],
-      "duration_ms": 156480,
-      "name": "Every Day",
-      "url": "https://open.spotify.com/track/01M7x4t9oymyXHxs3hxjF1"
-    },
-    {
       "added_at": "2022-06-17 04:01:00",
       "album": {
         "name": "Wurk",
@@ -1509,26 +1601,6 @@
       "url": "https://open.spotify.com/track/3u8MPhC5MUkd8qPzxLoHQb"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
-        "name": "Time",
-        "url": "https://open.spotify.com/album/4z4ZJFk7GM16t3QO7hHfCv"
-      },
-      "artists": [
-        {
-          "name": "Tom Budin",
-          "url": "https://open.spotify.com/artist/1kwRrQDCpXpVliMDntpxCt"
-        },
-        {
-          "name": "Kastelo",
-          "url": "https://open.spotify.com/artist/2KmU3cHtzAMUFFEQPHF8ON"
-        }
-      ],
-      "duration_ms": 158100,
-      "name": "Time",
-      "url": "https://open.spotify.com/track/0BkL9cS3rwPx63gIFphYfi"
-    },
-    {
       "added_at": "2022-07-15 18:14:48",
       "album": {
         "name": "Zaddy",
@@ -1597,22 +1669,6 @@
       "url": "https://open.spotify.com/track/4ATGhu6yBy5MaAZv8lmkWG"
     },
     {
-      "added_at": "2022-06-17 04:01:00",
-      "album": {
-        "name": "Nowhere",
-        "url": "https://open.spotify.com/album/33wufg2P5EdXW0ZgBnOXgz"
-      },
-      "artists": [
-        {
-          "name": "Wenzday",
-          "url": "https://open.spotify.com/artist/1TOclxL64oLeB45DFWFFU2"
-        }
-      ],
-      "duration_ms": 224761,
-      "name": "Nowhere",
-      "url": "https://open.spotify.com/track/7CfBoHLHkc6J29BMlJ9ztz"
-    },
-    {
       "added_at": "2022-07-08 04:00:00",
       "album": {
         "name": "Darkness Into Light",
@@ -1651,22 +1707,6 @@
       "duration_ms": 152500,
       "name": "Rock & Roll",
       "url": "https://open.spotify.com/track/5uRm2oHJnyUlWY7KETuP2r"
-    },
-    {
-      "added_at": "2022-06-17 04:01:00",
-      "album": {
-        "name": "Moon Groove",
-        "url": "https://open.spotify.com/album/2dhRWYUYiWrUjweff8C99R"
-      },
-      "artists": [
-        {
-          "name": "Noizu",
-          "url": "https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7"
-        }
-      ],
-      "duration_ms": 169218,
-      "name": "Moon Groove",
-      "url": "https://open.spotify.com/track/4ixljSkFedlTMtrG6BNnrG"
     },
     {
       "added_at": "2022-05-27 04:00:00",
@@ -1781,22 +1821,6 @@
       "url": "https://open.spotify.com/track/0a089la64vLzIReKpnjrfZ"
     },
     {
-      "added_at": "2022-06-24 04:01:00",
-      "album": {
-        "name": "Get Down",
-        "url": "https://open.spotify.com/album/2QJXVB6YAdrQxz4nsOol67"
-      },
-      "artists": [
-        {
-          "name": "Dot N Life",
-          "url": "https://open.spotify.com/artist/38aKknRSzI7luo0LJWDwDS"
-        }
-      ],
-      "duration_ms": 169920,
-      "name": "Get Down",
-      "url": "https://open.spotify.com/track/228gxHWEjaZGS9OXOeINmr"
-    },
-    {
       "added_at": "2022-06-17 04:01:00",
       "album": {
         "name": "Don\u2019t Forget To Breathe",
@@ -1827,26 +1851,6 @@
       "duration_ms": 198502,
       "name": "Climax",
       "url": "https://open.spotify.com/track/5kV4UK6QYYOvBDe3nH0Djs"
-    },
-    {
-      "added_at": "2022-05-20 04:01:00",
-      "album": {
-        "name": "Where's Your Head At (Martin Ikin Remix)",
-        "url": "https://open.spotify.com/album/29ZUj3UKLquWqyoo1VeVxn"
-      },
-      "artists": [
-        {
-          "name": "Basement Jaxx",
-          "url": "https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ"
-        },
-        {
-          "name": "Martin Ikin",
-          "url": "https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1"
-        }
-      ],
-      "duration_ms": 180585,
-      "name": "Where's Your Head At - Martin Ikin Remix - Edit",
-      "url": "https://open.spotify.com/track/0EUgguVSAZFdHY8RSVCBUJ"
     },
     {
       "added_at": "2022-05-13 04:02:00",

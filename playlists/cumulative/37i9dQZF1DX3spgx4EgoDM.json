@@ -3972,6 +3972,28 @@
     },
     {
       "album": {
+        "name": "En El Ojo Del Hurac\u00e1n",
+        "url": "https://open.spotify.com/album/6BvsB3GWe7LlRBZyK5nBAQ"
+      },
+      "artists": [
+        {
+          "name": "Santaferia",
+          "url": "https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o"
+        },
+        {
+          "name": "Illapu",
+          "url": "https://open.spotify.com/artist/6gWVXK2R7WYXTqxULGAyfx"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220226,
+      "name": "Si Te Marchas, No Hay Manera",
+      "url": "https://open.spotify.com/track/1Au0sqaCTdSjHdGkQdwQw8"
+    },
+    {
+      "album": {
         "name": "En el Ojo del Hurac\u00e1n",
         "url": "https://open.spotify.com/album/3cVoxcpHC36i7ZYn9o8aSh"
       },
@@ -4715,7 +4737,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-06",
       "duration_ms": 327000,
       "name": "Vuelvo A Sentir",
       "url": "https://open.spotify.com/track/57geo0JlbDLKhVjDWk7DD2"

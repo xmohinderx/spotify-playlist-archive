@@ -1,12 +1,12 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Kappa Jotta.",
-  "num_followers": 17223,
+  "num_followers": 17274,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjA3MzIwMCwwMDAwMDAwMGU4MmI2MDIxMDE5NjQ1MDc3N2I1ZWMzNTEwMjliYmJi",
+  "snapshot_id": "MTY2MjA3MzIwMCwwMDAwMDAwMGYxY2FmNjE0ZWUzMjUxMzNhMjcwZWRkMTg2MjhkNjY0",
   "tracks": [
     {
       "added_at": "2022-09-01 23:00:00",
@@ -311,6 +311,22 @@
     {
       "added_at": "2022-09-01 23:00:00",
       "album": {
+        "name": "Lisboa",
+        "url": "https://open.spotify.com/album/4fg5poNVFhqlldfPzrPrMh"
+      },
+      "artists": [
+        {
+          "name": "Richie Campbell",
+          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
+        }
+      ],
+      "duration_ms": 243180,
+      "name": "Do You No Wrong - Single Version",
+      "url": "https://open.spotify.com/track/6FInCuMbSlhdlkiFv36KUi"
+    },
+    {
+      "added_at": "2022-09-01 23:00:00",
+      "album": {
         "name": "3,14",
         "url": "https://open.spotify.com/album/6G62obmFgI2yyK36htUzOe"
       },
@@ -351,22 +367,6 @@
     {
       "added_at": "2022-09-01 23:00:00",
       "album": {
-        "name": "Mais Antigo",
-        "url": "https://open.spotify.com/album/6jv4CzMCPVJqt0DTlAiJw3"
-      },
-      "artists": [
-        {
-          "name": "Bispo",
-          "url": "https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY"
-        }
-      ],
-      "duration_ms": 206466,
-      "name": "Lembrei-me",
-      "url": "https://open.spotify.com/track/5hF6VYE61LV6Jr6dy86CvI"
-    },
-    {
-      "added_at": "2022-09-01 23:00:00",
-      "album": {
         "name": "Volta",
         "url": "https://open.spotify.com/album/4jFOf5EaLGkF9xGR3ALE6J"
       },
@@ -399,18 +399,18 @@
     {
       "added_at": "2022-09-01 23:00:00",
       "album": {
-        "name": "Lisboa",
-        "url": "https://open.spotify.com/album/4fg5poNVFhqlldfPzrPrMh"
+        "name": "Mais Antigo",
+        "url": "https://open.spotify.com/album/6jv4CzMCPVJqt0DTlAiJw3"
       },
       "artists": [
         {
-          "name": "Richie Campbell",
-          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
+          "name": "Bispo",
+          "url": "https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY"
         }
       ],
-      "duration_ms": 243180,
-      "name": "Do You No Wrong - Single Version",
-      "url": "https://open.spotify.com/track/6FInCuMbSlhdlkiFv36KUi"
+      "duration_ms": 206466,
+      "name": "Lembrei-me",
+      "url": "https://open.spotify.com/track/5hF6VYE61LV6Jr6dy86CvI"
     },
     {
       "added_at": "2022-09-01 23:00:00",
@@ -451,18 +451,22 @@
     {
       "added_at": "2022-09-01 23:00:00",
       "album": {
-        "name": "Feeling",
-        "url": "https://open.spotify.com/album/7zhvYBdgnFgEoe24GUOwbm"
+        "name": "Lisboa",
+        "url": "https://open.spotify.com/album/4fg5poNVFhqlldfPzrPrMh"
       },
       "artists": [
         {
-          "name": "T-Rex",
-          "url": "https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk"
+          "name": "Richie Campbell",
+          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
+        },
+        {
+          "name": "Slow J",
+          "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
         }
       ],
-      "duration_ms": 225880,
-      "name": "Feeling",
-      "url": "https://open.spotify.com/track/7mOrrV6qtWJsIccPN8uVVM"
+      "duration_ms": 313021,
+      "name": "Water (feat. Slow J) - Single Version",
+      "url": "https://open.spotify.com/track/58dElABzeDBwfhttWGf6n1"
     },
     {
       "added_at": "2022-09-01 23:00:00",
@@ -519,22 +523,34 @@
     {
       "added_at": "2022-09-01 23:00:00",
       "album": {
-        "name": "Lisboa",
-        "url": "https://open.spotify.com/album/4fg5poNVFhqlldfPzrPrMh"
+        "name": "Diva",
+        "url": "https://open.spotify.com/album/394SuL8jjwGdONdxR67vxn"
       },
       "artists": [
         {
-          "name": "Richie Campbell",
-          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
-        },
-        {
-          "name": "Slow J",
-          "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
+          "name": "Yuri NR5",
+          "url": "https://open.spotify.com/artist/0Dx6HmR7Rhi8G1osUOxAew"
         }
       ],
-      "duration_ms": 313021,
-      "name": "Water (feat. Slow J) - Single Version",
-      "url": "https://open.spotify.com/track/58dElABzeDBwfhttWGf6n1"
+      "duration_ms": 215832,
+      "name": "Diva",
+      "url": "https://open.spotify.com/track/2v2tuqtW3N9U32LpG5or2p"
+    },
+    {
+      "added_at": "2022-09-01 23:00:00",
+      "album": {
+        "name": "Feeling",
+        "url": "https://open.spotify.com/album/7zhvYBdgnFgEoe24GUOwbm"
+      },
+      "artists": [
+        {
+          "name": "T-Rex",
+          "url": "https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk"
+        }
+      ],
+      "duration_ms": 225880,
+      "name": "Feeling",
+      "url": "https://open.spotify.com/track/7mOrrV6qtWJsIccPN8uVVM"
     },
     {
       "added_at": "2022-09-01 23:00:00",
@@ -563,22 +579,6 @@
     {
       "added_at": "2022-09-01 23:00:00",
       "album": {
-        "name": "Diva",
-        "url": "https://open.spotify.com/album/394SuL8jjwGdONdxR67vxn"
-      },
-      "artists": [
-        {
-          "name": "Yuri NR5",
-          "url": "https://open.spotify.com/artist/0Dx6HmR7Rhi8G1osUOxAew"
-        }
-      ],
-      "duration_ms": 215832,
-      "name": "Diva",
-      "url": "https://open.spotify.com/track/2v2tuqtW3N9U32LpG5or2p"
-    },
-    {
-      "added_at": "2022-09-01 23:00:00",
-      "album": {
         "name": "Reflexo",
         "url": "https://open.spotify.com/album/7zr66qWybr1mAMSUVVosKU"
       },
@@ -591,54 +591,6 @@
       "duration_ms": 306733,
       "name": "Saudade",
       "url": "https://open.spotify.com/track/0dLrhO7oCMp0hQvXAUgbaC"
-    },
-    {
-      "added_at": "2022-09-01 23:00:00",
-      "album": {
-        "name": "Nada a Esconder",
-        "url": "https://open.spotify.com/album/3Xr91r7bFgPNZcdgoJEtuj"
-      },
-      "artists": [
-        {
-          "name": "Slow J",
-          "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
-        }
-      ],
-      "duration_ms": 218258,
-      "name": "Nada a Esconder",
-      "url": "https://open.spotify.com/track/6MrbmTRF9s1GF2ONK5tXzX"
-    },
-    {
-      "added_at": "2022-09-01 23:00:00",
-      "album": {
-        "name": "GUUD",
-        "url": "https://open.spotify.com/album/0sLx2K52GRknvH8AwYBsDI"
-      },
-      "artists": [
-        {
-          "name": "T-Rex",
-          "url": "https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk"
-        }
-      ],
-      "duration_ms": 168631,
-      "name": "GUUD",
-      "url": "https://open.spotify.com/track/2Ug7Rcy1Cd9Z0y4RqGgPNk"
-    },
-    {
-      "added_at": "2022-09-01 23:00:00",
-      "album": {
-        "name": "Desde a Origem",
-        "url": "https://open.spotify.com/album/7i5xYoXAZRC9HONBaVyZTn"
-      },
-      "artists": [
-        {
-          "name": "Bispo",
-          "url": "https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY"
-        }
-      ],
-      "duration_ms": 196021,
-      "name": "Lembra-te",
-      "url": "https://open.spotify.com/track/4kGx4Jl9U74iCUy9HfSnRl"
     },
     {
       "added_at": "2022-09-01 23:00:00",
@@ -659,6 +611,22 @@
       "duration_ms": 254400,
       "name": "Sons de Amor",
       "url": "https://open.spotify.com/track/44PSI3qwDKTTBa4TbqpjnL"
+    },
+    {
+      "added_at": "2022-09-01 23:00:00",
+      "album": {
+        "name": "Nada a Esconder",
+        "url": "https://open.spotify.com/album/3Xr91r7bFgPNZcdgoJEtuj"
+      },
+      "artists": [
+        {
+          "name": "Slow J",
+          "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
+        }
+      ],
+      "duration_ms": 218258,
+      "name": "Nada a Esconder",
+      "url": "https://open.spotify.com/track/6MrbmTRF9s1GF2ONK5tXzX"
     },
     {
       "added_at": "2022-09-01 23:00:00",
@@ -715,6 +683,38 @@
       "duration_ms": 219968,
       "name": "Salto Alto",
       "url": "https://open.spotify.com/track/3sIXzuNgN9HrC7amkEQWiP"
+    },
+    {
+      "added_at": "2022-09-01 23:00:00",
+      "album": {
+        "name": "Desde a Origem",
+        "url": "https://open.spotify.com/album/7i5xYoXAZRC9HONBaVyZTn"
+      },
+      "artists": [
+        {
+          "name": "Bispo",
+          "url": "https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY"
+        }
+      ],
+      "duration_ms": 196021,
+      "name": "Lembra-te",
+      "url": "https://open.spotify.com/track/4kGx4Jl9U74iCUy9HfSnRl"
+    },
+    {
+      "added_at": "2022-09-01 23:00:00",
+      "album": {
+        "name": "GUUD",
+        "url": "https://open.spotify.com/album/0sLx2K52GRknvH8AwYBsDI"
+      },
+      "artists": [
+        {
+          "name": "T-Rex",
+          "url": "https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk"
+        }
+      ],
+      "duration_ms": 168631,
+      "name": "GUUD",
+      "url": "https://open.spotify.com/track/2Ug7Rcy1Cd9Z0y4RqGgPNk"
     },
     {
       "added_at": "2022-09-01 23:00:00",
@@ -911,18 +911,18 @@
     {
       "added_at": "2022-09-01 23:00:00",
       "album": {
-        "name": "Chega P'ra L\u00e1",
-        "url": "https://open.spotify.com/album/4efLnTaK16TYzuCJv4BHA2"
+        "name": "Ngana Zambi",
+        "url": "https://open.spotify.com/album/4ZgWBr16niSFDwCIiJ4iBk"
       },
       "artists": [
         {
-          "name": "Hugo Casaca",
-          "url": "https://open.spotify.com/artist/0Y8q7atymYLh7p9k4qiYe1"
+          "name": "Wet Bed Gang",
+          "url": "https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8"
         }
       ],
-      "duration_ms": 158400,
-      "name": "Chega P'ra L\u00e1",
-      "url": "https://open.spotify.com/track/7h9zNCAa8KLld9mHamzeGG"
+      "duration_ms": 279423,
+      "name": "Depois da Chuva",
+      "url": "https://open.spotify.com/track/1ScmnksyeYyEtdBlqZcozC"
     },
     {
       "added_at": "2022-09-01 23:00:00",
@@ -947,18 +947,18 @@
     {
       "added_at": "2022-09-01 23:00:00",
       "album": {
-        "name": "Ngana Zambi",
-        "url": "https://open.spotify.com/album/4ZgWBr16niSFDwCIiJ4iBk"
+        "name": "Chega P'ra L\u00e1",
+        "url": "https://open.spotify.com/album/4efLnTaK16TYzuCJv4BHA2"
       },
       "artists": [
         {
-          "name": "Wet Bed Gang",
-          "url": "https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8"
+          "name": "Hugo Casaca",
+          "url": "https://open.spotify.com/artist/0Y8q7atymYLh7p9k4qiYe1"
         }
       ],
-      "duration_ms": 279423,
-      "name": "Depois da Chuva",
-      "url": "https://open.spotify.com/track/1ScmnksyeYyEtdBlqZcozC"
+      "duration_ms": 158400,
+      "name": "Chega P'ra L\u00e1",
+      "url": "https://open.spotify.com/track/7h9zNCAa8KLld9mHamzeGG"
     },
     {
       "added_at": "2022-09-01 23:00:00",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2022-09-01 23:00:00",
       "album": {
+        "name": "P\u00e1ra",
+        "url": "https://open.spotify.com/album/3W5LuzDGWcfDIB6GsoTDNq"
+      },
+      "artists": [
+        {
+          "name": "Druh",
+          "url": "https://open.spotify.com/artist/2KsalFyKIYXlhYFEaJMh35"
+        }
+      ],
+      "duration_ms": 176128,
+      "name": "P\u00e1ra",
+      "url": "https://open.spotify.com/track/3Fr3Wit7KWJaZKDhwIbilT"
+    },
+    {
+      "added_at": "2022-09-01 23:00:00",
+      "album": {
         "name": "Esse Corpo",
         "url": "https://open.spotify.com/album/6WqINuc1s3vvs0glX9NIWf"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 184600,
       "name": "Esse Corpo",
       "url": "https://open.spotify.com/track/69KrMw0IRIwTDXWvib4wON"
-    },
-    {
-      "added_at": "2022-09-01 23:00:00",
-      "album": {
-        "name": "P\u00e1ra",
-        "url": "https://open.spotify.com/album/3W5LuzDGWcfDIB6GsoTDNq"
-      },
-      "artists": [
-        {
-          "name": "Druh",
-          "url": "https://open.spotify.com/artist/2KsalFyKIYXlhYFEaJMh35"
-        }
-      ],
-      "duration_ms": 176128,
-      "name": "P\u00e1ra",
-      "url": "https://open.spotify.com/track/3Fr3Wit7KWJaZKDhwIbilT"
     },
     {
       "added_at": "2022-09-01 23:00:00",

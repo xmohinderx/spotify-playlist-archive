@@ -1,12 +1,12 @@
 {
   "description": "Favorite rock and gems.",
-  "num_followers": 65569,
+  "num_followers": 65645,
   "original_name": "Alternative Rock's Most Precious Gems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTk5NjAyNCwwMDAwMDAwMGM4Y2IxZjA0ZjI5YWI4MzZmMGFmMWNjOTNiY2U2ZGU2",
+  "snapshot_id": "MTY1NTk5NjAyNCwwMDAwMDAwMDZiOTllYTNjZWQ0ZDczODAzMTQ2NTBhMzU4ODhiZTc3",
   "tracks": [
     {
       "added_at": "2022-06-23 14:53:44",
@@ -539,22 +539,6 @@
     {
       "added_at": "2022-06-23 14:53:44",
       "album": {
-        "name": "Tune in, Drop Out",
-        "url": "https://open.spotify.com/album/3BmgXTaQ92JQCrlPu6pMxX"
-      },
-      "artists": [
-        {
-          "name": "Beach Riot",
-          "url": "https://open.spotify.com/artist/55bBJNuY224tmQf4odUqXV"
-        }
-      ],
-      "duration_ms": 170161,
-      "name": "Tune in, Drop Out",
-      "url": "https://open.spotify.com/track/7z6SewNpOG8GI85z5GbxaB"
-    },
-    {
-      "added_at": "2022-06-23 14:53:44",
-      "album": {
         "name": "Slow Heart",
         "url": "https://open.spotify.com/album/7K7AuoZ1mMIaPiDZSvhCsU"
       },
@@ -587,22 +571,6 @@
     {
       "added_at": "2022-06-23 14:53:44",
       "album": {
-        "name": "Beauty Of Youth",
-        "url": "https://open.spotify.com/album/6am0g93vswJjC98p8mihkF"
-      },
-      "artists": [
-        {
-          "name": "Pretty Vicious",
-          "url": "https://open.spotify.com/artist/4KH4eOg39KeBpnfSgvIteD"
-        }
-      ],
-      "duration_ms": 227264,
-      "name": "These Four Walls",
-      "url": "https://open.spotify.com/track/4lIADYns7onzNNl0RIewFp"
-    },
-    {
-      "added_at": "2022-06-23 14:53:44",
-      "album": {
         "name": "Gish (Deluxe Edition)",
         "url": "https://open.spotify.com/album/14gI3ml0wxlgVrX1ve8zyJ"
       },
@@ -619,18 +587,34 @@
     {
       "added_at": "2022-06-23 14:53:44",
       "album": {
-        "name": "You'd Prefer An Astronaut",
-        "url": "https://open.spotify.com/album/2qx0YtBEDcbpclLlqzRi2o"
+        "name": "Tune in, Drop Out",
+        "url": "https://open.spotify.com/album/3BmgXTaQ92JQCrlPu6pMxX"
       },
       "artists": [
         {
-          "name": "Hum",
-          "url": "https://open.spotify.com/artist/6sM2JCBjZprP7JLMTZZSxX"
+          "name": "Beach Riot",
+          "url": "https://open.spotify.com/artist/55bBJNuY224tmQf4odUqXV"
         }
       ],
-      "duration_ms": 277560,
-      "name": "The Pod",
-      "url": "https://open.spotify.com/track/5eGfO6X1Vvpgb5LFaL5rLF"
+      "duration_ms": 170161,
+      "name": "Tune in, Drop Out",
+      "url": "https://open.spotify.com/track/7z6SewNpOG8GI85z5GbxaB"
+    },
+    {
+      "added_at": "2022-06-23 14:53:44",
+      "album": {
+        "name": "Beauty Of Youth",
+        "url": "https://open.spotify.com/album/6am0g93vswJjC98p8mihkF"
+      },
+      "artists": [
+        {
+          "name": "Pretty Vicious",
+          "url": "https://open.spotify.com/artist/4KH4eOg39KeBpnfSgvIteD"
+        }
+      ],
+      "duration_ms": 227264,
+      "name": "These Four Walls",
+      "url": "https://open.spotify.com/track/4lIADYns7onzNNl0RIewFp"
     },
     {
       "added_at": "2022-06-23 14:53:44",
@@ -647,6 +631,22 @@
       "duration_ms": 282197,
       "name": "Dogwalk",
       "url": "https://open.spotify.com/track/669JWthnxk4uSsnnDhEnu8"
+    },
+    {
+      "added_at": "2022-06-23 14:53:44",
+      "album": {
+        "name": "You'd Prefer An Astronaut",
+        "url": "https://open.spotify.com/album/2qx0YtBEDcbpclLlqzRi2o"
+      },
+      "artists": [
+        {
+          "name": "Hum",
+          "url": "https://open.spotify.com/artist/6sM2JCBjZprP7JLMTZZSxX"
+        }
+      ],
+      "duration_ms": 277560,
+      "name": "The Pod",
+      "url": "https://open.spotify.com/track/5eGfO6X1Vvpgb5LFaL5rLF"
     },
     {
       "added_at": "2022-06-23 14:53:44",
@@ -731,22 +731,6 @@
     {
       "added_at": "2022-06-23 14:53:44",
       "album": {
-        "name": "Holy Ghost",
-        "url": "https://open.spotify.com/album/0XvjdaLFvJ510mcmVXriw7"
-      },
-      "artists": [
-        {
-          "name": "Modern Baseball",
-          "url": "https://open.spotify.com/artist/1HxXNvsraqrsgfmju1yKk8"
-        }
-      ],
-      "duration_ms": 229075,
-      "name": "Note To Self",
-      "url": "https://open.spotify.com/track/7CX4fbtJXUvlV7RNNqBOpO"
-    },
-    {
-      "added_at": "2022-06-23 14:53:44",
-      "album": {
         "name": "Gb City",
         "url": "https://open.spotify.com/album/4VFt6gflVhBmesukoQ3Lt5"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 181400,
       "name": "Get Found",
       "url": "https://open.spotify.com/track/57QZeBhHRLiWhIpjHvKtND"
+    },
+    {
+      "added_at": "2022-06-23 14:53:44",
+      "album": {
+        "name": "Holy Ghost",
+        "url": "https://open.spotify.com/album/0XvjdaLFvJ510mcmVXriw7"
+      },
+      "artists": [
+        {
+          "name": "Modern Baseball",
+          "url": "https://open.spotify.com/artist/1HxXNvsraqrsgfmju1yKk8"
+        }
+      ],
+      "duration_ms": 229075,
+      "name": "Note To Self",
+      "url": "https://open.spotify.com/track/7CX4fbtJXUvlV7RNNqBOpO"
     },
     {
       "added_at": "2022-06-23 14:53:44",
@@ -923,22 +923,6 @@
     {
       "added_at": "2022-06-23 14:53:44",
       "album": {
-        "name": "Brave Faces Everyone",
-        "url": "https://open.spotify.com/album/7GP702lI6EeRJnruJPoznv"
-      },
-      "artists": [
-        {
-          "name": "Spanish Love Songs",
-          "url": "https://open.spotify.com/artist/5DaZV3qmFT3aS57df8KPkV"
-        }
-      ],
-      "duration_ms": 242365,
-      "name": "Kick",
-      "url": "https://open.spotify.com/track/1p9oPZDiNymGw12BWv7WK3"
-    },
-    {
-      "added_at": "2022-06-23 14:53:44",
-      "album": {
         "name": "Foolish",
         "url": "https://open.spotify.com/album/0T2L6XRR1LrH1zLEzGaO0A"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 281173,
       "name": "Driveway to Driveway",
       "url": "https://open.spotify.com/track/7Fcs7IELpYZi0zTQZdnTMS"
+    },
+    {
+      "added_at": "2022-06-23 14:53:44",
+      "album": {
+        "name": "Brave Faces Everyone",
+        "url": "https://open.spotify.com/album/7GP702lI6EeRJnruJPoznv"
+      },
+      "artists": [
+        {
+          "name": "Spanish Love Songs",
+          "url": "https://open.spotify.com/artist/5DaZV3qmFT3aS57df8KPkV"
+        }
+      ],
+      "duration_ms": 242365,
+      "name": "Kick",
+      "url": "https://open.spotify.com/track/1p9oPZDiNymGw12BWv7WK3"
     },
     {
       "added_at": "2022-06-23 14:53:44",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2022-06-23 14:53:44",
       "album": {
-        "name": "Four",
-        "url": "https://open.spotify.com/album/24mE0f0UXWd9YEpmKC3JtJ"
-      },
-      "artists": [
-        {
-          "name": "Bloc Party",
-          "url": "https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ"
-        }
-      ],
-      "duration_ms": 221120,
-      "name": "Kettling",
-      "url": "https://open.spotify.com/track/2LSE4990srPxQHyPhMOL3w"
-    },
-    {
-      "added_at": "2022-06-23 14:53:44",
-      "album": {
         "name": "Effloresce",
         "url": "https://open.spotify.com/album/6yY6v4JnwTQGo5w9IZqTRu"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 400680,
       "name": "Catalyst - Remastered",
       "url": "https://open.spotify.com/track/5SCCzPzozC2v2wqHev6M0M"
+    },
+    {
+      "added_at": "2022-06-23 14:53:44",
+      "album": {
+        "name": "Four",
+        "url": "https://open.spotify.com/album/24mE0f0UXWd9YEpmKC3JtJ"
+      },
+      "artists": [
+        {
+          "name": "Bloc Party",
+          "url": "https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ"
+        }
+      ],
+      "duration_ms": 221120,
+      "name": "Kettling",
+      "url": "https://open.spotify.com/track/2LSE4990srPxQHyPhMOL3w"
     },
     {
       "added_at": "2022-06-23 14:53:44",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2022-06-23 14:53:44",
       "album": {
-        "name": "Drenge",
-        "url": "https://open.spotify.com/album/0Wrn6T6l8C2zPtnuOUQtmB"
-      },
-      "artists": [
-        {
-          "name": "Drenge",
-          "url": "https://open.spotify.com/artist/1bqX4oZFTWIQFk90AwKfnC"
-        }
-      ],
-      "duration_ms": 152106,
-      "name": "Bloodsports",
-      "url": "https://open.spotify.com/track/2zn3hrsi0nrTe42JJxMgC8"
-    },
-    {
-      "added_at": "2022-06-23 14:53:44",
-      "album": {
         "name": "Too Shabby",
         "url": "https://open.spotify.com/album/6FmhJNymRTcWZKQnjhU897"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 270634,
       "name": "Kangaroo Pocket",
       "url": "https://open.spotify.com/track/0xDOL7sItKiKMw7hdyUwas"
+    },
+    {
+      "added_at": "2022-06-23 14:53:44",
+      "album": {
+        "name": "Drenge",
+        "url": "https://open.spotify.com/album/0Wrn6T6l8C2zPtnuOUQtmB"
+      },
+      "artists": [
+        {
+          "name": "Drenge",
+          "url": "https://open.spotify.com/artist/1bqX4oZFTWIQFk90AwKfnC"
+        }
+      ],
+      "duration_ms": 152106,
+      "name": "Bloodsports",
+      "url": "https://open.spotify.com/track/2zn3hrsi0nrTe42JJxMgC8"
     },
     {
       "added_at": "2022-06-23 14:53:44",

@@ -1,12 +1,12 @@
 {
   "description": "Rock unplugged. Cover: Wolf Alice",
-  "num_followers": 284415,
+  "num_followers": 284499,
   "original_name": "Stripped Down",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDMyNTcyNiwwMDAwMDAwMDg4MmQ2Y2Q4ODAwNzliOWFkZmEyY2Y5NDE1ZGQ2Nzk5",
+  "snapshot_id": "MTY2MDMyNTcyNiwwMDAwMDAwMDgzYTg1OTEzOWVlODQyNmFiNzM4NTNmYTVhMTdlMjUy",
   "tracks": [
     {
       "added_at": "2022-08-12 17:34:39",
@@ -335,6 +335,22 @@
     {
       "added_at": "2022-08-12 17:34:39",
       "album": {
+        "name": "Superstition",
+        "url": "https://open.spotify.com/album/6cxIb7DQLAhGSZQXYsybPo"
+      },
+      "artists": [
+        {
+          "name": "Run River North",
+          "url": "https://open.spotify.com/artist/0INDB6Snts5NDbzh8jC3lk"
+        }
+      ],
+      "duration_ms": 272000,
+      "name": "Mr. Brightside",
+      "url": "https://open.spotify.com/track/6Bcsu35LlV2YyUSa1X7Cpf"
+    },
+    {
+      "added_at": "2022-08-12 17:34:39",
+      "album": {
         "name": "mainstream sellout (life in pink deluxe)",
         "url": "https://open.spotify.com/album/5mj5NblnMMm5G3n1cugGH7"
       },
@@ -355,18 +371,18 @@
     {
       "added_at": "2022-08-12 17:34:39",
       "album": {
-        "name": "Superstition",
-        "url": "https://open.spotify.com/album/6cxIb7DQLAhGSZQXYsybPo"
+        "name": "Patience",
+        "url": "https://open.spotify.com/album/6EEv3516e4dH7sAPPUq9oo"
       },
       "artists": [
         {
-          "name": "Run River North",
-          "url": "https://open.spotify.com/artist/0INDB6Snts5NDbzh8jC3lk"
+          "name": "Chris Cornell",
+          "url": "https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I"
         }
       ],
-      "duration_ms": 272000,
-      "name": "Mr. Brightside",
-      "url": "https://open.spotify.com/track/6Bcsu35LlV2YyUSa1X7Cpf"
+      "duration_ms": 253120,
+      "name": "Patience",
+      "url": "https://open.spotify.com/track/7n3u7RrzdXGVcclBEp9aSa"
     },
     {
       "added_at": "2022-08-12 17:34:39",
@@ -387,22 +403,6 @@
     {
       "added_at": "2022-08-12 17:34:39",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2XW8Jn1nXmHCPbawvmJ2JC"
-      },
-      "artists": [
-        {
-          "name": "Liam Gallagher",
-          "url": "https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9"
-        }
-      ],
-      "duration_ms": 198293,
-      "name": "Wonderwall - Live from Spotify Sessions, Metropolis Studios, London",
-      "url": "https://open.spotify.com/track/3EfTQn30P4fqXxRf9IN7x6"
-    },
-    {
-      "added_at": "2022-08-12 17:34:39",
-      "album": {
         "name": "Anthem Of The Peaceful Army",
         "url": "https://open.spotify.com/album/7zeCZY6rQRufc8IHGKyXGX"
       },
@@ -419,18 +419,18 @@
     {
       "added_at": "2022-08-12 17:34:39",
       "album": {
-        "name": "Patience",
-        "url": "https://open.spotify.com/album/6EEv3516e4dH7sAPPUq9oo"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2XW8Jn1nXmHCPbawvmJ2JC"
       },
       "artists": [
         {
-          "name": "Chris Cornell",
-          "url": "https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I"
+          "name": "Liam Gallagher",
+          "url": "https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9"
         }
       ],
-      "duration_ms": 253120,
-      "name": "Patience",
-      "url": "https://open.spotify.com/track/7n3u7RrzdXGVcclBEp9aSa"
+      "duration_ms": 198293,
+      "name": "Wonderwall - Live from Spotify Sessions, Metropolis Studios, London",
+      "url": "https://open.spotify.com/track/3EfTQn30P4fqXxRf9IN7x6"
     },
     {
       "added_at": "2022-08-12 17:34:39",
@@ -467,6 +467,22 @@
     {
       "added_at": "2022-08-12 17:34:39",
       "album": {
+        "name": "Songbook",
+        "url": "https://open.spotify.com/album/24QtdNLprYc0U57zdMcQoc"
+      },
+      "artists": [
+        {
+          "name": "Chris Cornell",
+          "url": "https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I"
+        }
+      ],
+      "duration_ms": 277733,
+      "name": "Black Hole Sun - Recorded Live At Red Robinson Show Theatre, Vancouver, Canada on April 30, 2011",
+      "url": "https://open.spotify.com/track/5p0s4na5wJHnaNw9azmiQm"
+    },
+    {
+      "added_at": "2022-08-12 17:34:39",
+      "album": {
         "name": "Synchronize (Acoustic Version)",
         "url": "https://open.spotify.com/album/0OKRhsvtbTpL0pXOSyyd9L"
       },
@@ -483,22 +499,6 @@
     {
       "added_at": "2022-08-12 17:34:39",
       "album": {
-        "name": "Use Me",
-        "url": "https://open.spotify.com/album/40J4xZREcFpeJVnXDXntvk"
-      },
-      "artists": [
-        {
-          "name": "PVRIS",
-          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
-        }
-      ],
-      "duration_ms": 229466,
-      "name": "Loveless",
-      "url": "https://open.spotify.com/track/3XujDGA7LqWSHNQ0PaE7X0"
-    },
-    {
-      "added_at": "2022-08-12 17:34:39",
-      "album": {
         "name": "Surface Sounds",
         "url": "https://open.spotify.com/album/1ZuNUNl8jvYmW4w1lR2CW3"
       },
@@ -511,6 +511,22 @@
       "duration_ms": 232529,
       "name": "Backbone",
       "url": "https://open.spotify.com/track/2mVblJ1gaLw0TZz822Oy31"
+    },
+    {
+      "added_at": "2022-08-12 17:34:39",
+      "album": {
+        "name": "Use Me",
+        "url": "https://open.spotify.com/album/40J4xZREcFpeJVnXDXntvk"
+      },
+      "artists": [
+        {
+          "name": "PVRIS",
+          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
+        }
+      ],
+      "duration_ms": 229466,
+      "name": "Loveless",
+      "url": "https://open.spotify.com/track/3XujDGA7LqWSHNQ0PaE7X0"
     },
     {
       "added_at": "2022-08-12 17:34:39",
@@ -547,38 +563,6 @@
     {
       "added_at": "2022-08-12 17:34:39",
       "album": {
-        "name": "Garage, Inc.",
-        "url": "https://open.spotify.com/album/5b7HQ04lPT7eGJQ7fmVsjC"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 545733,
-      "name": "Tuesday's Gone",
-      "url": "https://open.spotify.com/track/3kjrWJMt1j9nl3favBZQIH"
-    },
-    {
-      "added_at": "2022-08-12 17:34:39",
-      "album": {
-        "name": "Songbook",
-        "url": "https://open.spotify.com/album/24QtdNLprYc0U57zdMcQoc"
-      },
-      "artists": [
-        {
-          "name": "Chris Cornell",
-          "url": "https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I"
-        }
-      ],
-      "duration_ms": 277733,
-      "name": "Black Hole Sun - Recorded Live At Red Robinson Show Theatre, Vancouver, Canada on April 30, 2011",
-      "url": "https://open.spotify.com/track/5p0s4na5wJHnaNw9azmiQm"
-    },
-    {
-      "added_at": "2022-08-12 17:34:39",
-      "album": {
         "name": "Between the Bars",
         "url": "https://open.spotify.com/album/64Z8bWSUBB1Vhox2K5EdBe"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 260053,
       "name": "Billie Jean",
       "url": "https://open.spotify.com/track/4YKhIH7BhFErLoV9dgHupm"
+    },
+    {
+      "added_at": "2022-08-12 17:34:39",
+      "album": {
+        "name": "Garage, Inc.",
+        "url": "https://open.spotify.com/album/5b7HQ04lPT7eGJQ7fmVsjC"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 545733,
+      "name": "Tuesday's Gone",
+      "url": "https://open.spotify.com/track/3kjrWJMt1j9nl3favBZQIH"
     },
     {
       "added_at": "2022-08-12 17:34:39",
@@ -659,22 +659,6 @@
     {
       "added_at": "2022-08-12 17:34:39",
       "album": {
-        "name": "Crooked Shadows",
-        "url": "https://open.spotify.com/album/0qByP4IV1nNHhLs3RfDrGB"
-      },
-      "artists": [
-        {
-          "name": "Dashboard Confessional",
-          "url": "https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY"
-        }
-      ],
-      "duration_ms": 207200,
-      "name": "Heart Beat Here",
-      "url": "https://open.spotify.com/track/4NEAoEh4hZF1Tgp1QXrUHC"
-    },
-    {
-      "added_at": "2022-08-12 17:34:39",
-      "album": {
         "name": "How Did You Love",
         "url": "https://open.spotify.com/album/0PFYjO7SxBpUUtwR91gvJP"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 185955,
       "name": "How Did You Love - Acoustic",
       "url": "https://open.spotify.com/track/4bUbgl5yiMEfGFy8CQNnXB"
+    },
+    {
+      "added_at": "2022-08-12 17:34:39",
+      "album": {
+        "name": "Crooked Shadows",
+        "url": "https://open.spotify.com/album/0qByP4IV1nNHhLs3RfDrGB"
+      },
+      "artists": [
+        {
+          "name": "Dashboard Confessional",
+          "url": "https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY"
+        }
+      ],
+      "duration_ms": 207200,
+      "name": "Heart Beat Here",
+      "url": "https://open.spotify.com/track/4NEAoEh4hZF1Tgp1QXrUHC"
     },
     {
       "added_at": "2022-08-12 17:34:39",

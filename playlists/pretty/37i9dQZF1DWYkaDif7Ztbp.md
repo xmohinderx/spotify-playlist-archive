@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkaDif7Ztbp.md) - [plain]
 
 > The tracks heating up the continent right now!  Cover: <a href="https://open.spotify.com/artist/2qr7RzXXdIkZfcjsw5oA6K?si=ytDd8j\_1TzS1NXKKN6ncKQ"> Mayten </a>  and <a href="https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL?si=q0byJvQKSW2bNbGL15u7Ow"> Blxckie </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,068,646 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,069,427 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

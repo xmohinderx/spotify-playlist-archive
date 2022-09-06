@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkkUxEhrBdF.md) - [plain]
 
 > Relax and slip into this eclectic mix of reggae infused tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 286,810 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 286,834 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkkUxEhrBdF.md) - [plain]
 | 13 | [Chameleon \(feat\. Salt Cathedral\)](https://open.spotify.com/track/0DcmjBeZnsf97sdVsTgqIk) | [Matisyahu](https://open.spotify.com/artist/5eyMzR1hYiEZtN2c9ly2kw), [Salt Cathedral](https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP) | [Chameleon \(feat\. Salt Cathedral\)](https://open.spotify.com/album/5z0NKs8Nb8dAPfZywEJjAi) | 3:08 |
 | 14 | [Cherry Pie \(feat\. Pharrell Williams\)](https://open.spotify.com/track/5qEkTgdOkGbGiy00IPuEFo) | [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Upside Down 2020](https://open.spotify.com/album/0gZau2nRsooGhfgul60N4l) | 3:35 |
 | 15 | [Come Over \(feat\. Popcaan\)](https://open.spotify.com/track/58mtgcQVZ56NgWHKsN94nD) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Come Over \(feat\. Popcaan\)](https://open.spotify.com/album/6sYqQ3Pem0Ml376lKx545S) | 3:28 |
-| 16 | [Already There](https://open.spotify.com/track/5fvFY5D9by9rm1ugSBp6E9) | [Nesta](https://open.spotify.com/artist/0TWVX68OyQscge2TZzChPx) | [Already There](https://open.spotify.com/album/0GdbOxuBPfGIQ9KVyldXGZ) | 3:32 |
+| 16 | [Already There](https://open.spotify.com/track/09zn6XBm2k46tBiano8uoo) | [Nesta](https://open.spotify.com/artist/0TWVX68OyQscge2TZzChPx) | [Hope It Gets Better](https://open.spotify.com/album/3huIUxSlMAeI1FrrQVnJyV) | 3:32 |
 | 17 | [Ready](https://open.spotify.com/track/6VDgMJdCeStxNkwBr6AQB3) | [Jugglerz](https://open.spotify.com/artist/5dM0ApSI0k1TcOseiik0sY), [Kabaka Pyramid](https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH) | [Ready](https://open.spotify.com/album/4vDMTgy7svuDfJK5nXHPtu) | 2:50 |
 | 18 | [Higher Place](https://open.spotify.com/track/6jQB97LaIftgb81KhkisXl) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O), [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Higher Place](https://open.spotify.com/album/3LrRzezQmsqxC2eyqVvdAr) | 3:23 |
 | 19 | [Feelings \(feat\. Alicai Harley & Jamkid\) \- JIM OUMA Remix](https://open.spotify.com/track/5VhyyFcqviM5GP4tyyvTaM) | [AWA](https://open.spotify.com/artist/0dR988NNn8lrFhXTOxyJfZ), [Alicai Harley](https://open.spotify.com/artist/4HIgMgldxGG0v8nSDWJrnh), [Jamkid](https://open.spotify.com/artist/1AXqKV1nhx3eMcHzD5pNVx), [JIM OUMA](https://open.spotify.com/artist/0Q7lBZA5qBXAvkSVS4Ytt7) | [Feelings \(feat\. Alicai Harley & Jamkid\) \[JIM OUMA Remix\]](https://open.spotify.com/album/0PLR56CJlrhyskk6UCye6M) | 2:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkkUxEhrBdF.md) - [plain]
 | 49 | [Mood Forever](https://open.spotify.com/track/1RxSIa8oMMPzBjjpKsgN3S) | [RoRo](https://open.spotify.com/artist/4AuHHsxMRVg7bXSgvlrAff) | [Mood Forever](https://open.spotify.com/album/3DDk8Okv8KjmnlOwSALaH9) | 2:54 |
 | 50 | [Need U Bad](https://open.spotify.com/track/0Ri0LzOMJmqi9HGZE5cRYV) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Fearless](https://open.spotify.com/album/2V99Z0aZgSK6XTbh19UYTU) | 4:17 |
 
-Snapshot ID: `MTYzNTQyMzAzMywwMDAwMDAwMDVjYzUyOGZiNmE0MGY1ZGViMjBjYmIyNGZjMjVmMGMy`
+Snapshot ID: `MTYzNTQyMzAzMywwMDAwMDAwMGJiYzA1Njg5ZjcxOWU2ZTg5YTg0NDgyZmI2YTA5NGYw`

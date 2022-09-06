@@ -1,12 +1,12 @@
 {
   "description": "Rock out while you game.",
-  "num_followers": 428424,
+  "num_followers": 428366,
   "original_name": "Ultimate Rock Gaming",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjIyMDU5NiwwMDAwMDAwMGY0NDdlN2ExMjA2ODUxMmI1MTIyNzZiZWQ2YzUyYzI1",
+  "snapshot_id": "MTY2MjIyMDU5NiwwMDAwMDAwMDdmOTdlYWQwYmM4NGIxMDJhYjY3YjIwMjViZDc1MDNl",
   "tracks": [
     {
       "added_at": "2022-09-03 15:56:36",
@@ -627,22 +627,6 @@
     {
       "added_at": "2022-09-03 15:56:01",
       "album": {
-        "name": "Will Of The People",
-        "url": "https://open.spotify.com/album/5qK8S5JRF8au6adIVtBsmk"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        }
-      ],
-      "duration_ms": 198849,
-      "name": "Will Of The People",
-      "url": "https://open.spotify.com/track/2xO0NhSt9kzKBbNjNVixfC"
-    },
-    {
-      "added_at": "2022-09-03 15:56:01",
-      "album": {
         "name": "TRAUMA",
         "url": "https://open.spotify.com/album/2QRU8jGOJHDMrCTPKIHVik"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 223173,
       "name": "Hurricane",
       "url": "https://open.spotify.com/track/2GFwwTIVLjnOrtP7m9luHC"
+    },
+    {
+      "added_at": "2022-09-03 15:56:01",
+      "album": {
+        "name": "Will Of The People",
+        "url": "https://open.spotify.com/album/5qK8S5JRF8au6adIVtBsmk"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "duration_ms": 198849,
+      "name": "Will Of The People",
+      "url": "https://open.spotify.com/track/2xO0NhSt9kzKBbNjNVixfC"
     },
     {
       "added_at": "2022-09-03 15:56:01",
@@ -959,22 +959,6 @@
     {
       "added_at": "2022-09-03 15:56:01",
       "album": {
-        "name": "N.A.T.I.O.N.",
-        "url": "https://open.spotify.com/album/1OSVLEGK6WXM1wPsF4v5M1"
-      },
-      "artists": [
-        {
-          "name": "Bad Wolves",
-          "url": "https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1"
-        }
-      ],
-      "duration_ms": 237065,
-      "name": "Killing Me Slowly",
-      "url": "https://open.spotify.com/track/34lLAsdH4Y5TLf1B2SIj1I"
-    },
-    {
-      "added_at": "2022-09-03 15:56:01",
-      "album": {
         "name": "California",
         "url": "https://open.spotify.com/album/4wuYQ9hyF1EGmrtjMpgpE9"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 235613,
       "name": "Bored To Death",
       "url": "https://open.spotify.com/track/44TuSOP6xIAEeJmZsN3nXO"
+    },
+    {
+      "added_at": "2022-09-03 15:56:01",
+      "album": {
+        "name": "N.A.T.I.O.N.",
+        "url": "https://open.spotify.com/album/1OSVLEGK6WXM1wPsF4v5M1"
+      },
+      "artists": [
+        {
+          "name": "Bad Wolves",
+          "url": "https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1"
+        }
+      ],
+      "duration_ms": 237065,
+      "name": "Killing Me Slowly",
+      "url": "https://open.spotify.com/track/34lLAsdH4Y5TLf1B2SIj1I"
     },
     {
       "added_at": "2022-09-03 15:56:01",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2022-09-03 15:56:01",
       "album": {
-        "name": "you broke me first",
-        "url": "https://open.spotify.com/album/2uMR5jsZgtfsIvAAyG8bDf"
-      },
-      "artists": [
-        {
-          "name": "Our Last Night",
-          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
-        }
-      ],
-      "duration_ms": 168145,
-      "name": "you broke me first",
-      "url": "https://open.spotify.com/track/7gAfY8Y5aBrsAfNaejxXMY"
-    },
-    {
-      "added_at": "2022-09-03 15:56:01",
-      "album": {
         "name": "No Love In LA / Punching Bag",
         "url": "https://open.spotify.com/album/6eeA8ZWz6tMe2lpNQ9QOMr"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 202656,
       "name": "No Love In LA",
       "url": "https://open.spotify.com/track/3umZJ14AG4lctE7Dj7xEVn"
+    },
+    {
+      "added_at": "2022-09-03 15:56:01",
+      "album": {
+        "name": "you broke me first",
+        "url": "https://open.spotify.com/album/2uMR5jsZgtfsIvAAyG8bDf"
+      },
+      "artists": [
+        {
+          "name": "Our Last Night",
+          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
+        }
+      ],
+      "duration_ms": 168145,
+      "name": "you broke me first",
+      "url": "https://open.spotify.com/track/7gAfY8Y5aBrsAfNaejxXMY"
     },
     {
       "added_at": "2022-09-03 15:56:01",
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2022-09-03 15:56:01",
       "album": {
+        "name": "Aggressive",
+        "url": "https://open.spotify.com/album/5nQE80zQR1NqKDBo4oE4EJ"
+      },
+      "artists": [
+        {
+          "name": "Beartooth",
+          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
+        }
+      ],
+      "duration_ms": 211430,
+      "name": "Hated",
+      "url": "https://open.spotify.com/track/2NRa4W3rH4e5GKQMN5Qwyr"
+    },
+    {
+      "added_at": "2022-09-03 15:56:01",
+      "album": {
         "name": "To Better Days",
         "url": "https://open.spotify.com/album/0R8nkP9bWyoCi6NuetVq5p"
       },
@@ -1315,22 +1331,6 @@
       "duration_ms": 258506,
       "name": "TRIALS",
       "url": "https://open.spotify.com/track/23wrmyJ1S2sjeh2dFN5P9k"
-    },
-    {
-      "added_at": "2022-09-03 15:56:01",
-      "album": {
-        "name": "Aggressive",
-        "url": "https://open.spotify.com/album/5nQE80zQR1NqKDBo4oE4EJ"
-      },
-      "artists": [
-        {
-          "name": "Beartooth",
-          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
-        }
-      ],
-      "duration_ms": 211430,
-      "name": "Hated",
-      "url": "https://open.spotify.com/track/2NRa4W3rH4e5GKQMN5Qwyr"
     },
     {
       "added_at": "2022-09-03 15:56:01",
@@ -1415,6 +1415,22 @@
     {
       "added_at": "2022-09-03 15:56:01",
       "album": {
+        "name": "Below",
+        "url": "https://open.spotify.com/album/5AQKqldLehNX6p4rxFFwAz"
+      },
+      "artists": [
+        {
+          "name": "Beartooth",
+          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
+        }
+      ],
+      "duration_ms": 198927,
+      "name": "Skin",
+      "url": "https://open.spotify.com/track/75KnjXtPMCZf60zlEp5m1D"
+    },
+    {
+      "added_at": "2022-09-03 15:56:01",
+      "album": {
         "name": "Colors",
         "url": "https://open.spotify.com/album/6BOQkxcHspMoRWEwEexf4l"
       },
@@ -1451,24 +1467,8 @@
     {
       "added_at": "2022-09-03 15:56:01",
       "album": {
-        "name": "Below",
-        "url": "https://open.spotify.com/album/5AQKqldLehNX6p4rxFFwAz"
-      },
-      "artists": [
-        {
-          "name": "Beartooth",
-          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
-        }
-      ],
-      "duration_ms": 198927,
-      "name": "Skin",
-      "url": "https://open.spotify.com/track/75KnjXtPMCZf60zlEp5m1D"
-    },
-    {
-      "added_at": "2022-09-03 15:56:01",
-      "album": {
-        "name": "See What\u2019s On The Inside",
-        "url": "https://open.spotify.com/album/11gvWPhkQyVoYIJgVsojmm"
+        "name": "Like A House On Fire",
+        "url": "https://open.spotify.com/album/5VKKXDvYuJmRc2UQHCwNQK"
       },
       "artists": [
         {
@@ -1476,9 +1476,41 @@
           "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
         }
       ],
-      "duration_ms": 228977,
-      "name": "Alone Again",
-      "url": "https://open.spotify.com/track/7JP8lWYrxpA8luKU8IPd3Y"
+      "duration_ms": 216411,
+      "name": "Antisocialist",
+      "url": "https://open.spotify.com/track/5Rb3OxCE0BAuDfgTr4awtF"
+    },
+    {
+      "added_at": "2022-09-03 15:56:01",
+      "album": {
+        "name": "Saint Cecilia EP",
+        "url": "https://open.spotify.com/album/6wGcuJq8QjSeoYMJWgW7Wo"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 221666,
+      "name": "Saint Cecilia",
+      "url": "https://open.spotify.com/track/7bdUH0npz854dv3plG8ieT"
+    },
+    {
+      "added_at": "2022-09-03 15:56:36",
+      "album": {
+        "name": "YUNGBLUD",
+        "url": "https://open.spotify.com/album/0cdlBfbso4Iyim5XRQFBER"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "duration_ms": 215163,
+      "name": "Tissues",
+      "url": "https://open.spotify.com/track/5J1zn7OE12a0gFnjJc0Um6"
     },
     {
       "added_at": "2022-09-03 15:56:01",
@@ -1499,22 +1531,6 @@
       "duration_ms": 230636,
       "name": "One Hell of a Team (Inspired by \"Hazbin Hotel\")",
       "url": "https://open.spotify.com/track/0cRGA4WwyzoOdnOcui7d1e"
-    },
-    {
-      "added_at": "2022-09-03 15:56:01",
-      "album": {
-        "name": "Saint Cecilia EP",
-        "url": "https://open.spotify.com/album/6wGcuJq8QjSeoYMJWgW7Wo"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 221666,
-      "name": "Saint Cecilia",
-      "url": "https://open.spotify.com/track/7bdUH0npz854dv3plG8ieT"
     },
     {
       "added_at": "2022-09-03 15:56:01",
@@ -1551,54 +1567,6 @@
     {
       "added_at": "2022-09-03 15:56:01",
       "album": {
-        "name": "LOVE LUST FAITH + DREAMS",
-        "url": "https://open.spotify.com/album/4JbJCZWuB0iuCZZt8ZISih"
-      },
-      "artists": [
-        {
-          "name": "Thirty Seconds To Mars",
-          "url": "https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD"
-        }
-      ],
-      "duration_ms": 275786,
-      "name": "Up In The Air",
-      "url": "https://open.spotify.com/track/0zqwz7SNny9fwqSDpIu4qN"
-    },
-    {
-      "added_at": "2022-09-03 15:56:01",
-      "album": {
-        "name": "When Legends Rise",
-        "url": "https://open.spotify.com/album/1n5bxxxowQ8ufvx2DXKeEV"
-      },
-      "artists": [
-        {
-          "name": "Godsmack",
-          "url": "https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF"
-        }
-      ],
-      "duration_ms": 208418,
-      "name": "Unforgettable",
-      "url": "https://open.spotify.com/track/1184omF5xTwYyI6fMijVrr"
-    },
-    {
-      "added_at": "2022-09-03 15:56:01",
-      "album": {
-        "name": "Like A House On Fire",
-        "url": "https://open.spotify.com/album/5VKKXDvYuJmRc2UQHCwNQK"
-      },
-      "artists": [
-        {
-          "name": "Asking Alexandria",
-          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
-        }
-      ],
-      "duration_ms": 216411,
-      "name": "Antisocialist",
-      "url": "https://open.spotify.com/track/5Rb3OxCE0BAuDfgTr4awtF"
-    },
-    {
-      "added_at": "2022-09-03 15:56:01",
-      "album": {
         "name": "Heat Seeker",
         "url": "https://open.spotify.com/album/56XJWuqnHhxXsM73y8ecZM"
       },
@@ -1619,6 +1587,54 @@
     {
       "added_at": "2022-09-03 15:56:01",
       "album": {
+        "name": "LOVE LUST FAITH + DREAMS",
+        "url": "https://open.spotify.com/album/4JbJCZWuB0iuCZZt8ZISih"
+      },
+      "artists": [
+        {
+          "name": "Thirty Seconds To Mars",
+          "url": "https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD"
+        }
+      ],
+      "duration_ms": 275786,
+      "name": "Up In The Air",
+      "url": "https://open.spotify.com/track/0zqwz7SNny9fwqSDpIu4qN"
+    },
+    {
+      "added_at": "2022-09-03 15:56:01",
+      "album": {
+        "name": "See What\u2019s On The Inside",
+        "url": "https://open.spotify.com/album/11gvWPhkQyVoYIJgVsojmm"
+      },
+      "artists": [
+        {
+          "name": "Asking Alexandria",
+          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
+        }
+      ],
+      "duration_ms": 228977,
+      "name": "Alone Again",
+      "url": "https://open.spotify.com/track/7JP8lWYrxpA8luKU8IPd3Y"
+    },
+    {
+      "added_at": "2022-09-03 15:56:01",
+      "album": {
+        "name": "When Legends Rise",
+        "url": "https://open.spotify.com/album/1n5bxxxowQ8ufvx2DXKeEV"
+      },
+      "artists": [
+        {
+          "name": "Godsmack",
+          "url": "https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF"
+        }
+      ],
+      "duration_ms": 208418,
+      "name": "Unforgettable",
+      "url": "https://open.spotify.com/track/1184omF5xTwYyI6fMijVrr"
+    },
+    {
+      "added_at": "2022-09-03 15:56:01",
+      "album": {
         "name": "Into the Wild Life (Deluxe)",
         "url": "https://open.spotify.com/album/6jPjpEJBxT0HN71TAEohZ0"
       },
@@ -1631,22 +1647,6 @@
       "duration_ms": 217173,
       "name": "I Am the Fire",
       "url": "https://open.spotify.com/track/5MapUlM1un2Kh4aZ3IyWcL"
-    },
-    {
-      "added_at": "2022-09-03 15:56:01",
-      "album": {
-        "name": "The Bravery",
-        "url": "https://open.spotify.com/album/3GNa5HhqzUlonZoLGYC8vb"
-      },
-      "artists": [
-        {
-          "name": "The Bravery",
-          "url": "https://open.spotify.com/artist/2bcrMsFlF632EQ6VZERWFu"
-        }
-      ],
-      "duration_ms": 219706,
-      "name": "An Honest Mistake",
-      "url": "https://open.spotify.com/track/7DoMGZLVzga3vhyZlb0hBX"
     },
     {
       "added_at": "2022-09-03 15:56:01",

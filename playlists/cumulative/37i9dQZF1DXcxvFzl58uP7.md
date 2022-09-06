@@ -4,7 +4,7 @@
 
 > Dreamy jams from the best bedroom producers\. Cover: SALES
 
-767 songs - 1 day 15 hr 53 min - [published](https://open.spotify.com/playlist/4p9v5vMC3BNDcXEwon0JiI)
+768 songs - 1 day 15 hr 55 min - [published](https://open.spotify.com/playlist/4p9v5vMC3BNDcXEwon0JiI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,10 +66,11 @@
 | [Bad Ting](https://open.spotify.com/track/6ui76rE0geLZvF57z4fPK2) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Bad Ting](https://open.spotify.com/album/5F52mSRpY9XvPTdmsgdMr8) | 3:26 | 2022-03-04 | 2022-07-13 |
 | [bajo la lluvia](https://open.spotify.com/track/7lEbaY18Ir5vZFfN9vcpvJ) | [planeta ezra](https://open.spotify.com/artist/6zc4FSDRcpm8yjKyzpYhdc) | [PRIMEROS PASOS, Vol\. 1](https://open.spotify.com/album/5ZTkrXHZGhR3XmWnr80YA8) | 3:12 | 2021-05-07 | 2021-05-28 |
 | [beachin](https://open.spotify.com/track/1LjMPAZCsTIdMuwlM9PcPF) | [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN) | [beachin](https://open.spotify.com/album/0ceD9hGoyjc5kplHQNP4Mn) | 3:14 | 2022-03-04 |  |
-| [Beautiful Mind](https://open.spotify.com/track/1nSrsbo4Mpsg0UmjMUjMlD) | [carpetgarden](https://open.spotify.com/artist/1rw5Io28PBVxMjikCwvevG) | [The Way He Looks](https://open.spotify.com/album/7pSgyeEXgLRpqhQWP6fyUJ) | 3:19 | 2021-02-27 |  |
+| [Beautiful Mind](https://open.spotify.com/track/1nSrsbo4Mpsg0UmjMUjMlD) | [carpetgarden](https://open.spotify.com/artist/1rw5Io28PBVxMjikCwvevG) | [The Way He Looks](https://open.spotify.com/album/7pSgyeEXgLRpqhQWP6fyUJ) | 3:19 | 2021-02-27 | 2022-09-06 |
 | [Beauty Rains](https://open.spotify.com/track/5SEiOGFQsL6fJAwD0AWHBJ) | [DWLLRS](https://open.spotify.com/artist/2TviQllPVEQ7E68Yr4uPKR) | [Beauty Rains](https://open.spotify.com/album/24z9o5rVLMHLmrMyH7WUJv) | 3:31 | 2021-08-27 | 2022-07-25 |
 | [Before The Morning Comes](https://open.spotify.com/track/77HoENqFfbJ9O2bostlK4O) | [sir Was](https://open.spotify.com/artist/2pRRvc1D9seqK4txoe8laT) | [Before The Morning Comes](https://open.spotify.com/album/5SLquQm6I3AUuon4UiMqer) | 3:32 | 2021-10-08 | 2022-04-19 |
 | [Bends](https://open.spotify.com/track/31hlhFQVLQS4VADMTPl59i) | [Ralph Castelli](https://open.spotify.com/artist/4o16FybIZV7WPD7tOl7PUd) | [Bends](https://open.spotify.com/album/3LIYf4uhGMwW4ccnXLWPpQ) | 2:35 | 2020-06-29 | 2022-07-29 |
+| [Bends](https://open.spotify.com/track/7neXef29cogkuASB5rTafo) | [Ralph Castelli](https://open.spotify.com/artist/4o16FybIZV7WPD7tOl7PUd) | [Cut Out](https://open.spotify.com/album/0qvED1ToqYbtBFaaKJylPB) | 2:35 | 2021-02-27 |  |
 | [BERNADETTE](https://open.spotify.com/track/1Vr58OrTTkru2xyFEwEf6z) | [Zack Villere](https://open.spotify.com/artist/5jLbQGcvxehi2Z6qkUP9Rh), [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum) | [BERNADETTE](https://open.spotify.com/album/753cAFVuIEKz16wM8K7B38) | 2:24 | 2021-03-19 | 2022-04-29 |
 | [Best Friend](https://open.spotify.com/track/6YM4q2BaSNMQZgSVsMT2ar) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Para Mi](https://open.spotify.com/album/6e8eJS3DUWZ9SAjHE5AD5m) | 2:30 | 2020-06-12 | 2021-03-21 |
 | [Best Person You Know](https://open.spotify.com/track/4lGu6pGvisz3Zvv1ThCEPd) | [Lowertown](https://open.spotify.com/artist/1yI0RRPnOA9BFJmiZ6cEzw) | [Best Person You Know](https://open.spotify.com/album/40f3HSi3lKHsv84Cu15xYX) | 4:21 | 2022-01-11 | 2022-07-27 |

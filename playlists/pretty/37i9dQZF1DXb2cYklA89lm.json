@@ -1,12 +1,12 @@
 {
   "description": "Fast cars, zombie love, and psychobilly freakouts!",
-  "num_followers": 143887,
+  "num_followers": 143962,
   "original_name": "Hot Rods & Horror Shows",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxMDgxNTY3NSwwMDAwMDAwMDRlZDhkMDk5MDQ5Y2E2YTZhYTgyNTdkY2U0ZmNiYzU0",
+  "snapshot_id": "MTYxMDgxNTY3NSwwMDAwMDAwMGE3MmMyMjZlNGYwYjhhYjBlNDRiNGM5M2RiOGIyNWQw",
   "tracks": [
     {
       "added_at": "2021-01-16 16:47:50",
@@ -111,22 +111,6 @@
     {
       "added_at": "2021-01-16 16:47:50",
       "album": {
-        "name": "American Psycho",
-        "url": "https://open.spotify.com/album/636aBJi9ifGPSPacQ0fYCF"
-      },
-      "artists": [
-        {
-          "name": "Misfits",
-          "url": "https://open.spotify.com/artist/1cXi8ALPQCBHZbf0EgP4Ey"
-        }
-      ],
-      "duration_ms": 181493,
-      "name": "Dig Up Her Bones",
-      "url": "https://open.spotify.com/track/5gHeUcDVjnDda7TABO9RYv"
-    },
-    {
-      "added_at": "2021-01-16 16:47:50",
-      "album": {
         "name": "Bring It On!",
         "url": "https://open.spotify.com/album/3erS3yV4uzIgJlJgmQUVJQ"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 247053,
       "name": "Walk Like A Zombie",
       "url": "https://open.spotify.com/track/0F56U0Bvvjh0QcqG21USyO"
+    },
+    {
+      "added_at": "2021-01-16 16:47:50",
+      "album": {
+        "name": "American Psycho",
+        "url": "https://open.spotify.com/album/636aBJi9ifGPSPacQ0fYCF"
+      },
+      "artists": [
+        {
+          "name": "Misfits",
+          "url": "https://open.spotify.com/artist/1cXi8ALPQCBHZbf0EgP4Ey"
+        }
+      ],
+      "duration_ms": 181493,
+      "name": "Dig Up Her Bones",
+      "url": "https://open.spotify.com/track/5gHeUcDVjnDda7TABO9RYv"
     },
     {
       "added_at": "2021-01-16 16:47:50",
@@ -335,22 +335,6 @@
     {
       "added_at": "2021-01-16 16:47:50",
       "album": {
-        "name": "Necrophaze",
-        "url": "https://open.spotify.com/album/6PsN3csRxymw0Qoykup69Q"
-      },
-      "artists": [
-        {
-          "name": "Wednesday 13",
-          "url": "https://open.spotify.com/artist/6Cvzf33JDzCIw2eJU8npQo"
-        }
-      ],
-      "duration_ms": 265144,
-      "name": "Decompose",
-      "url": "https://open.spotify.com/track/6NexeDn8Jgd0q5owW8EgLi"
-    },
-    {
-      "added_at": "2021-01-16 16:47:50",
-      "album": {
         "name": "Retrofuture",
         "url": "https://open.spotify.com/album/5DbBmt6CrKpGsWnhgYKPX1"
       },
@@ -383,6 +367,22 @@
     {
       "added_at": "2021-01-16 16:47:50",
       "album": {
+        "name": "Necrophaze",
+        "url": "https://open.spotify.com/album/6PsN3csRxymw0Qoykup69Q"
+      },
+      "artists": [
+        {
+          "name": "Wednesday 13",
+          "url": "https://open.spotify.com/artist/6Cvzf33JDzCIw2eJU8npQo"
+        }
+      ],
+      "duration_ms": 265144,
+      "name": "Decompose",
+      "url": "https://open.spotify.com/track/6NexeDn8Jgd0q5owW8EgLi"
+    },
+    {
+      "added_at": "2021-01-16 16:47:50",
+      "album": {
         "name": "Psychobilly Goes Pop",
         "url": "https://open.spotify.com/album/7zHdZsf31n2zvmm5FmxHZ0"
       },
@@ -395,6 +395,22 @@
       "duration_ms": 129039,
       "name": "Enjoy the Silence",
       "url": "https://open.spotify.com/track/2kL439jP9YGWZ6hdGDDE6l"
+    },
+    {
+      "added_at": "2021-01-16 16:47:50",
+      "album": {
+        "name": "Return Of The Loving Dead",
+        "url": "https://open.spotify.com/album/7dr1Aqdu3jMjHKC8J3QCvd"
+      },
+      "artists": [
+        {
+          "name": "Nekromantix",
+          "url": "https://open.spotify.com/artist/3KPGTmc7LTodUo6mG4KvzQ"
+        }
+      ],
+      "duration_ms": 236933,
+      "name": "Gargoyles Over Copenhagen",
+      "url": "https://open.spotify.com/track/7HtSPzWtfn0PWY2NkWGYvq"
     },
     {
       "added_at": "2021-01-16 16:47:50",
@@ -431,38 +447,6 @@
     {
       "added_at": "2021-01-16 16:47:50",
       "album": {
-        "name": "Stereoghost",
-        "url": "https://open.spotify.com/album/2bK56ZDB5cHluxzAUGtF6l"
-      },
-      "artists": [
-        {
-          "name": "The Rosedales",
-          "url": "https://open.spotify.com/artist/1GCXkPIyVrSK5Xyitgw1dU"
-        }
-      ],
-      "duration_ms": 243750,
-      "name": "Stars Are Falling",
-      "url": "https://open.spotify.com/track/49aaN0x4nDDLgB3zOqZFii"
-    },
-    {
-      "added_at": "2021-01-16 16:47:50",
-      "album": {
-        "name": "Return Of The Loving Dead",
-        "url": "https://open.spotify.com/album/7dr1Aqdu3jMjHKC8J3QCvd"
-      },
-      "artists": [
-        {
-          "name": "Nekromantix",
-          "url": "https://open.spotify.com/artist/3KPGTmc7LTodUo6mG4KvzQ"
-        }
-      ],
-      "duration_ms": 236933,
-      "name": "Gargoyles Over Copenhagen",
-      "url": "https://open.spotify.com/track/7HtSPzWtfn0PWY2NkWGYvq"
-    },
-    {
-      "added_at": "2021-01-16 16:47:50",
-      "album": {
         "name": "Yet Not Human",
         "url": "https://open.spotify.com/album/5NbtaLyBInCV08m1qqayUn"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 185958,
       "name": "Rebirth",
       "url": "https://open.spotify.com/track/5HrTdDEXCIvDw8hpVizq1E"
+    },
+    {
+      "added_at": "2021-01-16 16:47:50",
+      "album": {
+        "name": "Stereoghost",
+        "url": "https://open.spotify.com/album/2bK56ZDB5cHluxzAUGtF6l"
+      },
+      "artists": [
+        {
+          "name": "The Rosedales",
+          "url": "https://open.spotify.com/artist/1GCXkPIyVrSK5Xyitgw1dU"
+        }
+      ],
+      "duration_ms": 243750,
+      "name": "Stars Are Falling",
+      "url": "https://open.spotify.com/track/49aaN0x4nDDLgB3zOqZFii"
     },
     {
       "added_at": "2021-01-16 16:47:50",
@@ -595,22 +595,6 @@
     {
       "added_at": "2021-01-16 16:47:50",
       "album": {
-        "name": "Haunted",
-        "url": "https://open.spotify.com/album/1CigInXplAqMF77IcdCdb5"
-      },
-      "artists": [
-        {
-          "name": "The Other",
-          "url": "https://open.spotify.com/artist/0a3Gua6g9TZBKlDSqebL7W"
-        }
-      ],
-      "duration_ms": 238280,
-      "name": "Mark of the Devil",
-      "url": "https://open.spotify.com/track/4MvaRGF0s248WZV2w7JtIH"
-    },
-    {
-      "added_at": "2021-01-16 16:47:50",
-      "album": {
         "name": "All These Fiendish Things",
         "url": "https://open.spotify.com/album/5YQHYdhHRa5D5B6e6Er3hj"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 209973,
       "name": "Night Flier",
       "url": "https://open.spotify.com/track/5hrSN6pRbv7ldRA8lFqMuC"
+    },
+    {
+      "added_at": "2021-01-16 16:47:50",
+      "album": {
+        "name": "Haunted",
+        "url": "https://open.spotify.com/album/1CigInXplAqMF77IcdCdb5"
+      },
+      "artists": [
+        {
+          "name": "The Other",
+          "url": "https://open.spotify.com/artist/0a3Gua6g9TZBKlDSqebL7W"
+        }
+      ],
+      "duration_ms": 238280,
+      "name": "Mark of the Devil",
+      "url": "https://open.spotify.com/track/4MvaRGF0s248WZV2w7JtIH"
     },
     {
       "added_at": "2021-01-16 16:47:50",
@@ -739,22 +739,6 @@
     {
       "added_at": "2021-01-16 16:47:50",
       "album": {
-        "name": "Doctors & Churches",
-        "url": "https://open.spotify.com/album/78ClJ6GN8613bqLx0BThJ5"
-      },
-      "artists": [
-        {
-          "name": "Miss Vincent",
-          "url": "https://open.spotify.com/artist/2yvzGtFdv8dlpBqErEXPXx"
-        }
-      ],
-      "duration_ms": 210240,
-      "name": "Doctors & Churches",
-      "url": "https://open.spotify.com/track/57C9ovU3HVtgSdHIjcnD6g"
-    },
-    {
-      "added_at": "2021-01-16 16:47:50",
-      "album": {
         "name": "Songs of Unspeakable Terror",
         "url": "https://open.spotify.com/album/18WFSTsaFEFNG9P5jM5gxM"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 202773,
       "name": "Not of This Earth",
       "url": "https://open.spotify.com/track/4TLiQQGJfY8ZA9dEw6ZvkG"
+    },
+    {
+      "added_at": "2021-01-16 16:47:50",
+      "album": {
+        "name": "Doctors & Churches",
+        "url": "https://open.spotify.com/album/78ClJ6GN8613bqLx0BThJ5"
+      },
+      "artists": [
+        {
+          "name": "Miss Vincent",
+          "url": "https://open.spotify.com/artist/2yvzGtFdv8dlpBqErEXPXx"
+        }
+      ],
+      "duration_ms": 210240,
+      "name": "Doctors & Churches",
+      "url": "https://open.spotify.com/track/57C9ovU3HVtgSdHIjcnD6g"
     },
     {
       "added_at": "2021-01-16 16:47:50",

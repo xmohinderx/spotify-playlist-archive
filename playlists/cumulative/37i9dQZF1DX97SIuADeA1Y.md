@@ -4,7 +4,7 @@
 
 > When the bassline slaps.
 
-193 songs - 8 hr 23 min - [published](https://open.spotify.com/playlist/23LmxEelz4EGFpmadTKqNt)
+194 songs - 8 hr 26 min - [published](https://open.spotify.com/playlist/23LmxEelz4EGFpmadTKqNt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | [Eat Sleep Repeat \(feat\. Nethy Aber\)](https://open.spotify.com/track/5UEsKg7v5m0l0e37q7CTYj) | [Vion Konger](https://open.spotify.com/artist/30IONe5gqXy6MXSNHVCCYP), [Nethy Aber](https://open.spotify.com/artist/4tqEIuplzwTXtKp9jnvZ3O) | [Eat Sleep Repeat \(feat\. Nethy Aber\)](https://open.spotify.com/album/3YnETFpf0RXW2O7OTA7Y3z) | 2:37 | 2022-01-31 | 2022-07-22 |
 | [Enough Of You](https://open.spotify.com/track/0mDINHqydpdNSyPKPCxB7z) | [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh) | [Enough Of You](https://open.spotify.com/album/3VTbSW7HLWr6WCwEHphVCZ) | 2:26 | 2022-01-17 | 2022-02-05 |
 | [Everybody Cries](https://open.spotify.com/track/2loc1fUXmJr8urMqhZOKJ8) | [Cleez](https://open.spotify.com/artist/5YPawz3wh4RMf032MsIJq8), [R.I.O.](https://open.spotify.com/artist/0Ol3Jol2T3lZZVLNNzWPhj) | [Everybody Cries](https://open.spotify.com/album/22UkULGN9jMQruUx7wHBSu) | 2:50 | 2022-01-17 | 2022-07-29 |
-| [Eyes](https://open.spotify.com/track/2cVQVhgyRPzJusXAuklkWF) | [MNI](https://open.spotify.com/artist/1k2zLLZvwvxjir7vJJuvma), [Jordan Shaw](https://open.spotify.com/artist/6Z8vLeI1ZMj2kzTNWVOBXr) | [Eyes](https://open.spotify.com/album/56XTMHmxIztoBY2YFc29Gw) | 2:47 | 2022-01-17 |  |
+| [Eyes](https://open.spotify.com/track/2cVQVhgyRPzJusXAuklkWF) | [MNI](https://open.spotify.com/artist/1k2zLLZvwvxjir7vJJuvma), [Jordan Shaw](https://open.spotify.com/artist/6Z8vLeI1ZMj2kzTNWVOBXr) | [Eyes](https://open.spotify.com/album/56XTMHmxIztoBY2YFc29Gw) | 2:47 | 2022-01-17 | 2022-09-06 |
 | [Faded](https://open.spotify.com/track/6ioF5JQREw0LPPTW9czakA) | [Coopex](https://open.spotify.com/artist/3UV0wVQkft6lKLDGioqnyO), [BRAN](https://open.spotify.com/artist/44CMqAkutKvmCaE2OxyCbd), [Lunis](https://open.spotify.com/artist/1YjaVTeHBlVRRxbk7H30HN) | [Faded](https://open.spotify.com/album/3xe7lH5Rau8yjs0qGEG8Wy) | 2:31 | 2022-01-17 | 2022-04-29 |
 | [Fall](https://open.spotify.com/track/00cSOUQOAsFheNuCPCJiuG) | [Gaullin](https://open.spotify.com/artist/1aQwKFn00nswXRDUDipm0K), [NOTSOBAD](https://open.spotify.com/artist/2aLLYZ0sdqweMEPFUyYIXJ), [Y3LLO KOALA](https://open.spotify.com/artist/7wSw5WtitICEfxFIbK501i) | [Fall](https://open.spotify.com/album/5ksTXHnu5KdVk5eWFIcJLX) | 2:41 | 2022-01-17 | 2022-07-29 |
 | [Far Away](https://open.spotify.com/track/2iF2elQI7NVjsQSUK4C6jE) | [Ricii Lompeurs](https://open.spotify.com/artist/4QfP8q2uWxpH3iZFkwDI7b) | [Far Away](https://open.spotify.com/album/3MwsBRGz3IgfRczC9U9nQt) | 3:09 | 2022-01-17 | 2022-04-21 |
@@ -91,6 +91,7 @@
 | [I Just Wanna Dance](https://open.spotify.com/track/5mhExux66DUADHMCP1taBP) | [Coldabank](https://open.spotify.com/artist/3JOvRLynmP4mA6dvlWARoA), [Freedo](https://open.spotify.com/artist/2b6Cbp1cgD0hwisrGbKsZJ) | [I Just Wanna Dance](https://open.spotify.com/album/39Sz5oUK6YZVZ3yM9HWB1Y) | 2:34 | 2022-01-17 | 2022-07-29 |
 | [I Left You First](https://open.spotify.com/track/4yy1hDAK69vHIte5QO12bc) | [ONEIL](https://open.spotify.com/artist/7kzcAiYqxBV5J25vTYeOxA), [KEAN DYSSO](https://open.spotify.com/artist/74MUeXrsMncKunk1chMxg5) | [I Left You First](https://open.spotify.com/album/3DQ2qkHaHQ6lCJwCYCvgwk) | 2:47 | 2022-01-28 | 2022-01-31 |
 | [I Want You Around](https://open.spotify.com/track/4vswbhNPKavZJqpXzJI4wd) | [DAZZ](https://open.spotify.com/artist/67hggymbjwkuVTf7qrZanz), [Zombic](https://open.spotify.com/artist/6t0ofV5WMAz84Iqu0YkmTV), [Samuel Jack](https://open.spotify.com/artist/78rEst9B8h5utylmzIoUgb) | [I Want You Around](https://open.spotify.com/album/1wNin5Suh0zfZ1gxh62cg0) | 2:31 | 2022-05-20 | 2022-05-22 |
+| [I'll Be Gone](https://open.spotify.com/track/1xo6bTCYJyviJPZ3TQN76Z) | [Mike Gudmann](https://open.spotify.com/artist/5tF4j2R7iNOIFdmpmEsn3s), [Zombic](https://open.spotify.com/artist/6t0ofV5WMAz84Iqu0YkmTV) | [I'll Be Gone](https://open.spotify.com/album/4YsyvipGYyveQu8xvmE5O9) | 2:41 | 2022-08-26 |  |
 | [I'm Okay](https://open.spotify.com/track/4bt67pD5FiKIV5kn8ej38d) | [HBz](https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ), [OBS](https://open.spotify.com/artist/5pT9S3KV5SqnzKHpSYf3ko) | [I'm Okay](https://open.spotify.com/album/2mLBy9PXobrVjSWHMHk1En) | 2:31 | 2022-03-25 |  |
 | [In the Dark](https://open.spotify.com/track/1NGT0grnBrYpuxfXYE3w9X) | [TRFN](https://open.spotify.com/artist/5Wj4v7ri4aDONkGEIuo0zp), [Siadou](https://open.spotify.com/artist/6P4MaYD97c9CnGibMPf4rd) | [In the Dark](https://open.spotify.com/album/3clpzrLEbmoq8uFwOxfEc2) | 2:09 | 2022-01-21 | 2022-04-25 |
 | [In the Shadows](https://open.spotify.com/track/6WS12U64Xn5xy6IbbcP5SP) | [Steve Modana](https://open.spotify.com/artist/2RibwN2CQvXRHdfxap3KWh) | [In the Shadows](https://open.spotify.com/album/3DPHuaAEMa5eqpggxkk6Hy) | 2:36 | 2022-03-25 | 2022-04-17 |

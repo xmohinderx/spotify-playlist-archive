@@ -1,12 +1,12 @@
 {
   "description": "The sad side of soul. Cover: Harold Melvin.",
-  "num_followers": 60345,
+  "num_followers": 60464,
   "original_name": "Sad Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzNjYzOTMzOCwwMDAwMDAwMGQ0ZDY1Y2Q2NGFhNzRmNmY5Y2QxMDg5MWQ2MzJhZWQ1",
+  "snapshot_id": "MTYzNjYzOTMzOCwwMDAwMDAwMDdjOTg3NGQ0MDE3ODhlYTNmMjM1ZTk0MGIyOTg5ZDRj",
   "tracks": [
     {
       "added_at": "2021-11-11 14:02:18",
@@ -159,6 +159,22 @@
     {
       "added_at": "2021-11-11 14:02:18",
       "album": {
+        "name": "Let's Stay Together",
+        "url": "https://open.spotify.com/album/58eMx3QrTkiRmGGbSz2XL0"
+      },
+      "artists": [
+        {
+          "name": "Al Green",
+          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
+        }
+      ],
+      "duration_ms": 383502,
+      "name": "How Can You Mend a Broken Heart",
+      "url": "https://open.spotify.com/track/6lUXneXZ9jc3HSMHgd8oqh"
+    },
+    {
+      "added_at": "2021-11-11 14:02:18",
+      "album": {
         "name": "Silk & Soul (Expanded Edition)",
         "url": "https://open.spotify.com/album/2miVfa78vOd0o8Vbsgd7g3"
       },
@@ -191,22 +207,6 @@
       "duration_ms": 384613,
       "name": "The Love I Lost (feat. Teddy Pendergrass)",
       "url": "https://open.spotify.com/track/4mumFsUDQXpQts1Y7Zjw5H"
-    },
-    {
-      "added_at": "2021-11-11 14:02:18",
-      "album": {
-        "name": "Let's Stay Together",
-        "url": "https://open.spotify.com/album/58eMx3QrTkiRmGGbSz2XL0"
-      },
-      "artists": [
-        {
-          "name": "Al Green",
-          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
-        }
-      ],
-      "duration_ms": 383502,
-      "name": "How Can You Mend a Broken Heart",
-      "url": "https://open.spotify.com/track/6lUXneXZ9jc3HSMHgd8oqh"
     },
     {
       "added_at": "2021-11-11 14:02:18",
@@ -259,22 +259,6 @@
     {
       "added_at": "2021-11-11 14:02:18",
       "album": {
-        "name": "At Last!",
-        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
-      },
-      "artists": [
-        {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
-        }
-      ],
-      "duration_ms": 187666,
-      "name": "Stormy Weather",
-      "url": "https://open.spotify.com/track/2IdwQxhJn9ZE4zIotcCefR"
-    },
-    {
-      "added_at": "2021-11-11 14:02:18",
-      "album": {
         "name": "The Very Best of Solomon Burke",
         "url": "https://open.spotify.com/album/6qnOfoAUz11fZ98GFilmKE"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 154906,
       "name": "Cry to Me",
       "url": "https://open.spotify.com/track/2sCf9tz6LHByczuVT7rqIx"
+    },
+    {
+      "added_at": "2021-11-11 14:02:18",
+      "album": {
+        "name": "At Last!",
+        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
+      },
+      "artists": [
+        {
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+        }
+      ],
+      "duration_ms": 187666,
+      "name": "Stormy Weather",
+      "url": "https://open.spotify.com/track/2IdwQxhJn9ZE4zIotcCefR"
     },
     {
       "added_at": "2021-11-11 14:02:18",
@@ -395,22 +395,6 @@
     {
       "added_at": "2021-11-11 14:02:18",
       "album": {
-        "name": "Cowboys to Girls",
-        "url": "https://open.spotify.com/album/4otscgqzgKPQZSdPhiC5fr"
-      },
-      "artists": [
-        {
-          "name": "The Intruders",
-          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
-        }
-      ],
-      "duration_ms": 117133,
-      "name": "Sad Girl",
-      "url": "https://open.spotify.com/track/1eAZTu3kRk98Exu0n92YMC"
-    },
-    {
-      "added_at": "2021-11-11 14:02:18",
-      "album": {
         "name": "Don't Give Up On Me",
         "url": "https://open.spotify.com/album/5fPt2yO2JG9ymtO1PNz5iK"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 225533,
       "name": "Don't Give Up On Me",
       "url": "https://open.spotify.com/track/4A11HoXH8oIUfWtJaTE34T"
+    },
+    {
+      "added_at": "2021-11-11 14:02:18",
+      "album": {
+        "name": "Cowboys to Girls",
+        "url": "https://open.spotify.com/album/4otscgqzgKPQZSdPhiC5fr"
+      },
+      "artists": [
+        {
+          "name": "The Intruders",
+          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
+        }
+      ],
+      "duration_ms": 117133,
+      "name": "Sad Girl",
+      "url": "https://open.spotify.com/track/1eAZTu3kRk98Exu0n92YMC"
     },
     {
       "added_at": "2021-11-11 14:02:18",
@@ -495,26 +495,6 @@
     {
       "added_at": "2021-11-11 14:02:18",
       "album": {
-        "name": "To Be True (Expanded Edition) (feat. Teddy Pendergrass)",
-        "url": "https://open.spotify.com/album/5C0EIMdlDPa8AEEs1fgpM3"
-      },
-      "artists": [
-        {
-          "name": "Harold Melvin & The Blue Notes",
-          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
-        },
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        }
-      ],
-      "duration_ms": 386426,
-      "name": "Bad Luck (feat. Teddy Pendergrass)",
-      "url": "https://open.spotify.com/track/5XTeeHxsfAe2kC3oFZzgas"
-    },
-    {
-      "added_at": "2021-11-11 14:02:18",
-      "album": {
         "name": "So Full Of Love",
         "url": "https://open.spotify.com/album/6MKxTNGK8IDA6bExrdOyX4"
       },
@@ -559,6 +539,26 @@
       "duration_ms": 257720,
       "name": "Love Don't Live Here Anymore",
       "url": "https://open.spotify.com/track/0bL1x6Y2OvJZbkB1B7o83u"
+    },
+    {
+      "added_at": "2021-11-11 14:02:18",
+      "album": {
+        "name": "To Be True (Expanded Edition) (feat. Teddy Pendergrass)",
+        "url": "https://open.spotify.com/album/5C0EIMdlDPa8AEEs1fgpM3"
+      },
+      "artists": [
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        },
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "duration_ms": 386426,
+      "name": "Bad Luck (feat. Teddy Pendergrass)",
+      "url": "https://open.spotify.com/track/5XTeeHxsfAe2kC3oFZzgas"
     },
     {
       "added_at": "2021-11-11 14:02:18",
@@ -643,22 +643,6 @@
     {
       "added_at": "2021-11-11 14:02:18",
       "album": {
-        "name": "At Peace with Woman",
-        "url": "https://open.spotify.com/album/2iDdYPZqTAFwyE0SqSuNCI"
-      },
-      "artists": [
-        {
-          "name": "The Jones Girls",
-          "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
-        }
-      ],
-      "duration_ms": 288720,
-      "name": "When I'm Gone",
-      "url": "https://open.spotify.com/track/1iA4JW1NzmcYNG8ZASIjdH"
-    },
-    {
-      "added_at": "2021-11-11 14:02:18",
-      "album": {
         "name": "I'm In Love Again",
         "url": "https://open.spotify.com/album/2PcZjItgjHSkKFIiW44hHy"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 262773,
       "name": "When Am I Gonna Find True Love",
       "url": "https://open.spotify.com/track/4EoksISB2vqoRmbKyFms3x"
+    },
+    {
+      "added_at": "2021-11-11 14:02:18",
+      "album": {
+        "name": "At Peace with Woman",
+        "url": "https://open.spotify.com/album/2iDdYPZqTAFwyE0SqSuNCI"
+      },
+      "artists": [
+        {
+          "name": "The Jones Girls",
+          "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
+        }
+      ],
+      "duration_ms": 288720,
+      "name": "When I'm Gone",
+      "url": "https://open.spotify.com/track/1iA4JW1NzmcYNG8ZASIjdH"
     }
   ],
   "unique_name": "Sad Soul",

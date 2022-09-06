@@ -1,12 +1,12 @@
 {
   "description": "A playlist of spooky songs to get you ready for fright night!",
-  "num_followers": 223534,
+  "num_followers": 223586,
   "original_name": "Ultimate Halloween",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU3MDYzMzM3MCwwMDAwMDAwMDY5YTY0NDYzN2JmYWE0MTRjYzM4MzY5ZmM2YmIzN2Ux",
+  "snapshot_id": "MTU3MDYzMzM3MCwwMDAwMDAwMDJkZjBjNmM2NTI5OTQyMGQ3ZTYwNDJkM2YyODU1NjBl",
   "tracks": [
     {
       "added_at": "2019-10-09 15:02:50",
@@ -183,22 +183,6 @@
     {
       "added_at": "2019-10-09 15:02:50",
       "album": {
-        "name": "Back In Black",
-        "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
-      },
-      "artists": [
-        {
-          "name": "AC/DC",
-          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
-        }
-      ],
-      "duration_ms": 312293,
-      "name": "Hells Bells",
-      "url": "https://open.spotify.com/track/69QHm3pustz01CJRwdo20z"
-    },
-    {
-      "added_at": "2019-10-09 15:02:50",
-      "album": {
         "name": "Beggars Banquet (50th Anniversary Edition)",
         "url": "https://open.spotify.com/album/6OHri5qNxwCdVSdyCslspd"
       },
@@ -211,6 +195,22 @@
       "duration_ms": 378146,
       "name": "Sympathy For The Devil - 50th Anniversary Edition",
       "url": "https://open.spotify.com/track/1Ud6moTC0KyXMq1Oxfien0"
+    },
+    {
+      "added_at": "2019-10-09 15:02:50",
+      "album": {
+        "name": "Back In Black",
+        "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "duration_ms": 312293,
+      "name": "Hells Bells",
+      "url": "https://open.spotify.com/track/69QHm3pustz01CJRwdo20z"
     },
     {
       "added_at": "2019-10-09 15:02:50",
@@ -263,6 +263,22 @@
     {
       "added_at": "2019-10-09 15:02:50",
       "album": {
+        "name": "Hellbilly Deluxe",
+        "url": "https://open.spotify.com/album/2B4lHoTCpWbxQPTZmCOjnH"
+      },
+      "artists": [
+        {
+          "name": "Rob Zombie",
+          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
+        }
+      ],
+      "duration_ms": 201400,
+      "name": "Living Dead Girl",
+      "url": "https://open.spotify.com/track/10V8XpuyMoEcSMfM79WDET"
+    },
+    {
+      "added_at": "2019-10-09 15:02:50",
+      "album": {
         "name": "Scream",
         "url": "https://open.spotify.com/album/2X8UOIkZQdcz2Hi5Ynt2uk"
       },
@@ -275,22 +291,6 @@
       "duration_ms": 358053,
       "name": "Thriller",
       "url": "https://open.spotify.com/track/7azo4rpSUh8nXgtonC6Pkq"
-    },
-    {
-      "added_at": "2019-10-09 15:02:50",
-      "album": {
-        "name": "Tenacious D",
-        "url": "https://open.spotify.com/album/1AckkxSo39144vOBrJ1GkS"
-      },
-      "artists": [
-        {
-          "name": "Tenacious D",
-          "url": "https://open.spotify.com/artist/1XpDYCrUJnvCo9Ez6yeMWh"
-        }
-      ],
-      "duration_ms": 248053,
-      "name": "Tribute",
-      "url": "https://open.spotify.com/track/6crBy2sODw2HS53xquM6us"
     },
     {
       "added_at": "2019-10-09 15:02:50",
@@ -311,6 +311,22 @@
     {
       "added_at": "2019-10-09 15:02:50",
       "album": {
+        "name": "Tenacious D",
+        "url": "https://open.spotify.com/album/1AckkxSo39144vOBrJ1GkS"
+      },
+      "artists": [
+        {
+          "name": "Tenacious D",
+          "url": "https://open.spotify.com/artist/1XpDYCrUJnvCo9Ez6yeMWh"
+        }
+      ],
+      "duration_ms": 248053,
+      "name": "Tribute",
+      "url": "https://open.spotify.com/track/6crBy2sODw2HS53xquM6us"
+    },
+    {
+      "added_at": "2019-10-09 15:02:50",
+      "album": {
         "name": "Hitsville USA, The Motown Collection 1972-1992",
         "url": "https://open.spotify.com/album/6nrCHETnE3ZWgwL0uYYWGP"
       },
@@ -323,22 +339,6 @@
       "duration_ms": 238773,
       "name": "Somebody's Watching Me - Single Version",
       "url": "https://open.spotify.com/track/6hci8n9UowepjRmCc6CKTv"
-    },
-    {
-      "added_at": "2019-10-09 15:02:50",
-      "album": {
-        "name": "Hellbilly Deluxe",
-        "url": "https://open.spotify.com/album/2B4lHoTCpWbxQPTZmCOjnH"
-      },
-      "artists": [
-        {
-          "name": "Rob Zombie",
-          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
-        }
-      ],
-      "duration_ms": 201400,
-      "name": "Living Dead Girl",
-      "url": "https://open.spotify.com/track/10V8XpuyMoEcSMfM79WDET"
     },
     {
       "added_at": "2019-10-09 15:02:50",
@@ -543,22 +543,6 @@
     {
       "added_at": "2019-10-09 15:02:50",
       "album": {
-        "name": "Hey Stoopid",
-        "url": "https://open.spotify.com/album/0lhICEAy0rRGbhvWzlP0Ke"
-      },
-      "artists": [
-        {
-          "name": "Alice Cooper",
-          "url": "https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS"
-        }
-      ],
-      "duration_ms": 284693,
-      "name": "Feed My Frankenstein",
-      "url": "https://open.spotify.com/track/7LDTB4kVmrLCU5TqKjZnzm"
-    },
-    {
-      "added_at": "2019-10-09 15:02:50",
-      "album": {
         "name": "The Jack 2 Pack (The Nightmare Before Christmas)",
         "url": "https://open.spotify.com/album/7xubspY1zmyTduYWnkGNxT"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 202333,
       "name": "This is Halloween - Pop Version",
       "url": "https://open.spotify.com/track/2KUL1Ix9grxAWvIAft9EWL"
+    },
+    {
+      "added_at": "2019-10-09 15:02:50",
+      "album": {
+        "name": "Hey Stoopid",
+        "url": "https://open.spotify.com/album/0lhICEAy0rRGbhvWzlP0Ke"
+      },
+      "artists": [
+        {
+          "name": "Alice Cooper",
+          "url": "https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS"
+        }
+      ],
+      "duration_ms": 284693,
+      "name": "Feed My Frankenstein",
+      "url": "https://open.spotify.com/track/7LDTB4kVmrLCU5TqKjZnzm"
     },
     {
       "added_at": "2019-10-09 15:02:50",
@@ -639,22 +639,6 @@
     {
       "added_at": "2019-10-09 15:02:50",
       "album": {
-        "name": "The Last Stand",
-        "url": "https://open.spotify.com/album/14OgR04PHXULz1svvsol8L"
-      },
-      "artists": [
-        {
-          "name": "Sabaton",
-          "url": "https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG"
-        }
-      ],
-      "duration_ms": 174698,
-      "name": "Blood of Bannockburn",
-      "url": "https://open.spotify.com/track/34YTjOjyJOg8e0HyIHHKpw"
-    },
-    {
-      "added_at": "2019-10-09 15:02:50",
-      "album": {
         "name": "Experience Hendrix: The Best Of Jimi Hendrix",
         "url": "https://open.spotify.com/album/2vfiwvlxOBNBohRXfvlMtY"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 312426,
       "name": "Voodoo Child (Slight Return)",
       "url": "https://open.spotify.com/track/6d3I7THB2bONUkxOo1DvmZ"
+    },
+    {
+      "added_at": "2019-10-09 15:02:50",
+      "album": {
+        "name": "The Last Stand",
+        "url": "https://open.spotify.com/album/14OgR04PHXULz1svvsol8L"
+      },
+      "artists": [
+        {
+          "name": "Sabaton",
+          "url": "https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG"
+        }
+      ],
+      "duration_ms": 174698,
+      "name": "Blood of Bannockburn",
+      "url": "https://open.spotify.com/track/34YTjOjyJOg8e0HyIHHKpw"
     },
     {
       "added_at": "2019-10-09 15:02:50",
@@ -867,22 +867,6 @@
     {
       "added_at": "2019-10-09 15:02:50",
       "album": {
-        "name": "The Best Of Edgar Winter",
-        "url": "https://open.spotify.com/album/6knWE50fnmU6X50X7QGfQY"
-      },
-      "artists": [
-        {
-          "name": "The Edgar Winter Group",
-          "url": "https://open.spotify.com/artist/7j9PMegEgVN1fNp8NZXNCI"
-        }
-      ],
-      "duration_ms": 285600,
-      "name": "Frankenstein",
-      "url": "https://open.spotify.com/track/4aK0vJsPXFsFdBUh8hPaDT"
-    },
-    {
-      "added_at": "2019-10-09 15:02:50",
-      "album": {
         "name": "Guero",
         "url": "https://open.spotify.com/album/2EugWXUZjr78KJFqZavvZT"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 255666,
       "name": "Scarecrow",
       "url": "https://open.spotify.com/track/1GcdexGpXcR9dZhhRj5zAr"
+    },
+    {
+      "added_at": "2019-10-09 15:02:50",
+      "album": {
+        "name": "The Best Of Edgar Winter",
+        "url": "https://open.spotify.com/album/6knWE50fnmU6X50X7QGfQY"
+      },
+      "artists": [
+        {
+          "name": "The Edgar Winter Group",
+          "url": "https://open.spotify.com/artist/7j9PMegEgVN1fNp8NZXNCI"
+        }
+      ],
+      "duration_ms": 285600,
+      "name": "Frankenstein",
+      "url": "https://open.spotify.com/track/4aK0vJsPXFsFdBUh8hPaDT"
     },
     {
       "added_at": "2019-10-09 15:02:50",

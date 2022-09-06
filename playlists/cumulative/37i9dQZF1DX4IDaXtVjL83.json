@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Watch out for all the collaborations and cross-overs in the K-Pop world! Cover: Bebe Rexha X ITZY(YEJI & RYUJIN)",
+  "description": "Watch out for all the collaborations and cross-overs in the K-Pop world! Cover: SEVENTEEN, Anne-Marie",
   "name": "K-Pop X-Overs",
   "published_playlist_ids": [
     "0DIHYFEqLdrnfdqObi2sJD"
@@ -27,6 +27,28 @@
       "duration_ms": 205293,
       "name": "0X1=LOVESONG (I Know I Love You) - Japanese Ver.",
       "url": "https://open.spotify.com/track/4yRVrTMD8zLyaCVcirIAdu"
+    },
+    {
+      "album": {
+        "name": "_WORLD",
+        "url": "https://open.spotify.com/album/63oE2Ew3Mud2Md9TXBjeKw"
+      },
+      "artists": [
+        {
+          "name": "SEVENTEEN",
+          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+        },
+        {
+          "name": "Anne-Marie",
+          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178440,
+      "name": "_WORLD",
+      "url": "https://open.spotify.com/track/2kDrUAONMhG6CbDGBkhdrY"
     },
     {
       "album": {
@@ -515,7 +537,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-06",
       "duration_ms": 210705,
       "name": "CWS",
       "url": "https://open.spotify.com/track/1fHb9GxwbYbPbVB5eqWzpe"
@@ -1400,6 +1422,24 @@
     },
     {
       "album": {
+        "name": "SICK LOVE",
+        "url": "https://open.spotify.com/album/6e01ZcUqdaVxS8boKn9irm"
+      },
+      "artists": [
+        {
+          "name": "LOONA",
+          "url": "https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217400,
+      "name": "SICK LOVE",
+      "url": "https://open.spotify.com/track/4h2fIodPmm0JCSp7VI8JGJ"
+    },
+    {
+      "album": {
         "name": "I SAY MAMAMOO: THE BEST -Japan Edition-",
         "url": "https://open.spotify.com/album/20h4dMCIGutPFvLDoeSgyV"
       },
@@ -1817,7 +1857,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-06",
       "duration_ms": 199209,
       "name": "You Problem",
       "url": "https://open.spotify.com/track/2rCPeuzBY9NEX9VNshkjmH"
@@ -1875,7 +1915,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-06",
       "duration_ms": 230813,
       "name": "\u3042\u3044\u306e\u3061\u304b\u3089",
       "url": "https://open.spotify.com/track/3I5W8iA8iZAyO62UVceK3F"

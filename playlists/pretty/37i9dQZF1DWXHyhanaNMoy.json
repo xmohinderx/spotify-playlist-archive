@@ -1,12 +1,12 @@
 {
   "description": "De playlist voor magic, motion en summer vibes! Cover: Kleine John, JMANI & Jhorrmountain",
-  "num_followers": 303548,
+  "num_followers": 303599,
   "original_name": "La Vida Loca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjA2OTYwMCwwMDAwMDAwMGU4MjViZDVkMWRiZDc0ZWI3NDkzNzFlMTUyODU5NTFi",
+  "snapshot_id": "MTY2MjM4MDU0NCwwMDAwMDAwMGMxNjdjOWY1OWY0NDMyMDBjMjFiNTJkNjhiZGYxODE4",
   "tracks": [
     {
       "added_at": "2022-09-01 22:00:00",
@@ -63,6 +63,38 @@
       "duration_ms": 166911,
       "name": "Van Mij Zijn",
       "url": "https://open.spotify.com/track/3oFKhY9iW9S0iA9OHO9tN6"
+    },
+    {
+      "added_at": "2022-09-01 22:00:00",
+      "album": {
+        "name": "KU LO SA - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/36bNKiiUjxUCaAO7QtUVfi"
+      },
+      "artists": [
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        }
+      ],
+      "duration_ms": 147580,
+      "name": "KU LO SA - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/2WigMwGJysIh9fRnSJvpjn"
+    },
+    {
+      "added_at": "2022-09-01 22:00:00",
+      "album": {
+        "name": "Mood",
+        "url": "https://open.spotify.com/album/0of66YXURMrVzhAVkYNDeO"
+      },
+      "artists": [
+        {
+          "name": "Makar",
+          "url": "https://open.spotify.com/artist/4PUr4W5mWlzMkyVpSiX2ZN"
+        }
+      ],
+      "duration_ms": 151690,
+      "name": "Mood",
+      "url": "https://open.spotify.com/track/4k6yZRw7M04gZE2uW12Cw6"
     },
     {
       "added_at": "2022-09-01 22:00:00",
@@ -187,22 +219,6 @@
     {
       "added_at": "2022-09-01 22:00:00",
       "album": {
-        "name": "KU LO SA - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/36bNKiiUjxUCaAO7QtUVfi"
-      },
-      "artists": [
-        {
-          "name": "Oxlade",
-          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
-        }
-      ],
-      "duration_ms": 147580,
-      "name": "KU LO SA - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/2WigMwGJysIh9fRnSJvpjn"
-    },
-    {
-      "added_at": "2022-09-01 22:00:00",
-      "album": {
         "name": "Sugarcane (Dutch Remix)",
         "url": "https://open.spotify.com/album/29jB9OyaNU5moCbdcSpsVJ"
       },
@@ -223,22 +239,6 @@
       "duration_ms": 218581,
       "name": "Sugarcane - Dutch Remix",
       "url": "https://open.spotify.com/track/61tg9mVHe87QwDWYW4VJoD"
-    },
-    {
-      "added_at": "2022-09-01 22:00:00",
-      "album": {
-        "name": "Mood",
-        "url": "https://open.spotify.com/album/0of66YXURMrVzhAVkYNDeO"
-      },
-      "artists": [
-        {
-          "name": "Makar",
-          "url": "https://open.spotify.com/artist/4PUr4W5mWlzMkyVpSiX2ZN"
-        }
-      ],
-      "duration_ms": 151690,
-      "name": "Mood",
-      "url": "https://open.spotify.com/track/4k6yZRw7M04gZE2uW12Cw6"
     },
     {
       "added_at": "2022-09-01 22:00:00",

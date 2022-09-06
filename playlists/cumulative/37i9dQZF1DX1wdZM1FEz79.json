@@ -405,7 +405,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-06",
       "duration_ms": 224500,
       "name": "Answer",
       "url": "https://open.spotify.com/track/5DFVWocetuRnKhy7WjO8Ht"
@@ -597,7 +597,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-06",
       "duration_ms": 194291,
       "name": "Be My Birthday",
       "url": "https://open.spotify.com/track/1LMy3gmxy76ZXjoH39Q8NC"
@@ -1811,6 +1811,24 @@
       "duration_ms": 244120,
       "name": "For You",
       "url": "https://open.spotify.com/track/5VMFjdoJquu5BH6Ti3GYSZ"
+    },
+    {
+      "album": {
+        "name": "For You",
+        "url": "https://open.spotify.com/album/1kLQss3VwPK4vrS1H2zDAN"
+      },
+      "artists": [
+        {
+          "name": "SHAUN",
+          "url": "https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184066,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/59fPM7nPg0z5L9LoyoNhbK"
     },
     {
       "album": {
@@ -3420,6 +3438,28 @@
     },
     {
       "album": {
+        "name": "Leave like this",
+        "url": "https://open.spotify.com/album/6FQObmvOZQ9MXzRddnhUkJ"
+      },
+      "artists": [
+        {
+          "name": "Seokman Cheon",
+          "url": "https://open.spotify.com/artist/5KoLNvPbAWGHVOCXwam9T0"
+        },
+        {
+          "name": "Blue Mangtto",
+          "url": "https://open.spotify.com/artist/0K44FUw6SBCO7dunhMz8sp"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205002,
+      "name": "Leave like this",
+      "url": "https://open.spotify.com/track/1DjihD1VQAuuaRaMDOKOjy"
+    },
+    {
+      "album": {
         "name": "LEGO(Let's Go)",
         "url": "https://open.spotify.com/album/7IMiyn6pyeKOX4GXTIk4M8"
       },
@@ -4423,6 +4463,24 @@
       "duration_ms": 246354,
       "name": "Ordinary life",
       "url": "https://open.spotify.com/track/5Ivx0LkXUVGSybJgPXwQNE"
+    },
+    {
+      "album": {
+        "name": "Our Forgiveness",
+        "url": "https://open.spotify.com/album/1K8aYJrq8a8WiwNniSuzrw"
+      },
+      "artists": [
+        {
+          "name": "Heo Hoy Kyung",
+          "url": "https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199570,
+      "name": "Our Forgiveness",
+      "url": "https://open.spotify.com/track/6xVlRWDlQDna2yVCwOPE30"
     },
     {
       "album": {
@@ -7299,7 +7357,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-06",
       "duration_ms": 258961,
       "name": "YOUR SONG (With Lee Jin Ah, Jung Seung Hwan, Kwon Jin Ah)",
       "url": "https://open.spotify.com/track/610IckJdwTyY8nez5v64DH"

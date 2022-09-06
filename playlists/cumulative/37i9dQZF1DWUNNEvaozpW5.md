@@ -4,7 +4,7 @@
 
 > Lo mejor del rock de aquí, como Estopa con Beret.
 
-168 songs - 11 hr 24 min - [published](https://open.spotify.com/playlist/4AGuLAzZtz0hNpibnA51bn)
+169 songs - 11 hr 27 min - [published](https://open.spotify.com/playlist/4AGuLAzZtz0hNpibnA51bn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Aire](https://open.spotify.com/track/5J8H8pUNxaNj5feLUkDf9u) | [Monica Naranjo](https://open.spotify.com/artist/0zGM73sadbAOBLev02P8LO) | [MIMÉTIKA](https://open.spotify.com/album/5b0PxTOb5z40gtv2xnmy9l) | 4:00 | 2022-06-16 | 2022-06-24 |
 | [Alfombra roja \(feat\. Stay Homas\)](https://open.spotify.com/track/3mdyGqfTQ11iEFo4JU8VUh) | [Tu Otra Bonita](https://open.spotify.com/artist/4dGKPIQgs3bhGLPaPXLl3a), [Stay Homas](https://open.spotify.com/artist/7fUEi9sgiLw8gwQ307T6IU) | [Sobremesas Crema](https://open.spotify.com/album/1yHaAP9l7ab71R92wjaaEz) | 3:38 | 2022-05-26 | 2022-06-10 |
 | [Algo Está Ardiendo](https://open.spotify.com/track/6w0lW9Xddc43207cyvAFdA) | [Burning](https://open.spotify.com/artist/5nhDsJ4yNy8BD4LbGMsb1v) | [Algo Está Ardiendo](https://open.spotify.com/album/6K3cLMqFP3I29smSu80scj) | 3:18 | 2022-05-26 | 2022-06-10 |
-| [Antes de que cuente diez](https://open.spotify.com/track/3xiNRrrVROKlHrflHGNTfG) | [Fito y Fitipaldis](https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo) | [Antes de que cuente diez](https://open.spotify.com/album/5YByMSqR8kLoigJ3h8xgGD) | 4:45 | 2022-06-02 |  |
+| [Antes de que cuente diez](https://open.spotify.com/track/3xiNRrrVROKlHrflHGNTfG) | [Fito y Fitipaldis](https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo) | [Antes de que cuente diez](https://open.spotify.com/album/5YByMSqR8kLoigJ3h8xgGD) | 4:45 | 2022-06-02 | 2022-09-06 |
 | [Aquellas Cosas Que Solíamos Hacer](https://open.spotify.com/track/1CrN92KYQTOePdubueHipL) | [Benito Kamelas](https://open.spotify.com/artist/6pds73TcYgdgd1UOBWHRqn) | [Sin Trampa Ni Cartón](https://open.spotify.com/album/26gSAMOb4jxhoDqYOYgvGR) | 4:49 | 2022-06-16 | 2022-07-23 |
 | [Aquellas Cosas Que Solíamos Hacer](https://open.spotify.com/track/10706ilBOvqVSOAbUoxean) | [Benito Kamelas](https://open.spotify.com/artist/6pds73TcYgdgd1UOBWHRqn), [Poncho K](https://open.spotify.com/artist/4fi2id2V1djZTVkPBLwaUz) | [Sin Trampa Ni Cartón](https://open.spotify.com/album/45ctqDxKNe2QVYVvq0dGRR) | 4:49 | 2022-07-21 |  |
 | [Aviones Plateados \- En Directo](https://open.spotify.com/track/2fqKBa80qJ7yhucBwLXZF5) | [El Último De La Fila](https://open.spotify.com/artist/2jMYTBTCSNYaCYy54mLc6I) | [Historia de una Banda \(En Directo\)](https://open.spotify.com/album/5yxWQnpSWZdXeiZ6YPOOlu) | 3:50 | 2022-05-19 |  |
@@ -140,6 +140,7 @@
 | [Por la boca vive el pez](https://open.spotify.com/track/1mOOMcUSzzsyzKmlukM1m4) | [Fito y Fitipaldis](https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo) | [Fitografía](https://open.spotify.com/album/4zSihveMwgYWHA5Bkw29Ug) | 4:29 | 2022-05-19 | 2022-07-29 |
 | [Por la boca vive el pez](https://open.spotify.com/track/24UStI5AYA7g5ufFDh3LH0) | [Fito y Fitipaldis](https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo) | [Por la boca vive el pez](https://open.spotify.com/album/5iW5yzlJsGBIfsemMr8v8y) | 4:29 | 2022-07-21 |  |
 | [Por verte sonreír](https://open.spotify.com/track/6tGUkobti5ztrb9aQ0UDEx) | [La Fuga](https://open.spotify.com/artist/5YyScSZOuBHpoFhGvHFedc) | [Mira](https://open.spotify.com/album/7EpE7UsapcAWKmuzWVNa18) | 6:40 | 2022-06-23 |  |
+| [Puede Ser](https://open.spotify.com/track/07kKtaDOmlcLU50s9eNqYp) | [Dixon](https://open.spotify.com/artist/3ZqivrF6irzebjksomnUyG) | [Puede Ser](https://open.spotify.com/album/2ozuvYpJIBwFW6sDQXjwMi) | 3:06 | 2022-09-01 |  |
 | [Que Hace una Chica Como Tu en un Sitio Como Este](https://open.spotify.com/track/4kYdaN5ECfrCPPuUUiCiTr) | [Burning](https://open.spotify.com/artist/5nhDsJ4yNy8BD4LbGMsb1v) | [Burning \(Singles Collection\)](https://open.spotify.com/album/1mq9A7RUXMO88fontI2jCN) | 4:07 | 2022-05-26 | 2022-07-28 |
 | [Que se joda el viento](https://open.spotify.com/track/35RZlC2of95tgErjy8BtVx) | [Marea](https://open.spotify.com/artist/5EBH204cwRkvAWknwTAjCQ) | [28.000 puñaladas](https://open.spotify.com/album/2yMi2lDSI8eZ3GND3TBirR) | 5:05 | 2022-07-21 |  |
 | [Quien lo iba a suponer](https://open.spotify.com/track/45CZzSaBBLqghpO6fuO4X3) | [Santiago Auserón](https://open.spotify.com/artist/1QnWFj4XbwMBRss56Jk63W), [Luis Auserón](https://open.spotify.com/artist/5be17joWI5uVyvMP9x48O3) | [Las malas lenguas](https://open.spotify.com/album/1ZjnKIhYyg4QynfGt057gd) | 3:51 | 2022-05-26 | 2022-07-29 |

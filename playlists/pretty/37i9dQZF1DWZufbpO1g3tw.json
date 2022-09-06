@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Trompetas, piano y timbal para darle saz\u00f3n a tu mediod\u00eda!",
-  "num_followers": 30389,
+  "num_followers": 30392,
   "original_name": "Brunch Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDQzMDgwMCwwMDAwMDAwMGYzNTRmZDcyZTc0ZDA0ZmQ2ZWQ5M2Y2YjJjN2RmMDQ2",
+  "snapshot_id": "MTY1MDQzMDgwMCwwMDAwMDAwMGUwYjNlNGYyNTBkODZiZmY1NDdhODIwN2VkMzFjMDU1",
   "tracks": [
     {
       "added_at": "2021-10-20 21:31:00",
@@ -355,22 +355,6 @@
     {
       "added_at": "2021-10-20 21:31:00",
       "album": {
-        "name": "Chico de Oro",
-        "url": "https://open.spotify.com/album/3zqIOlC6FwNKRCE7gUpcmr"
-      },
-      "artists": [
-        {
-          "name": "Chico Trujillo",
-          "url": "https://open.spotify.com/artist/6Hs8U0JO2nacXFG4kp15Co"
-        }
-      ],
-      "duration_ms": 187746,
-      "name": "Loca",
-      "url": "https://open.spotify.com/track/2LekureJkYmKUcUTBoHUaX"
-    },
-    {
-      "added_at": "2021-10-20 21:31:00",
-      "album": {
         "name": "Los Aut\u00e9nticos",
         "url": "https://open.spotify.com/album/4sd3JQ7mufYwKdNNtYzc0B"
       },
@@ -419,6 +403,22 @@
     {
       "added_at": "2022-04-20 05:00:00",
       "album": {
+        "name": "En Orbita",
+        "url": "https://open.spotify.com/album/0jzpJgWjBGLxQsGbwKT7TB"
+      },
+      "artists": [
+        {
+          "name": "Los Destellos",
+          "url": "https://open.spotify.com/artist/2xfdrsA1TWrKlaEfQQbbmf"
+        }
+      ],
+      "duration_ms": 169500,
+      "name": "Para Elisa",
+      "url": "https://open.spotify.com/track/6t6QEaiKAXtVOORoNbGR9O"
+    },
+    {
+      "added_at": "2022-04-20 05:00:00",
+      "album": {
         "name": "Ska Cubano",
         "url": "https://open.spotify.com/album/1Sry0mamK4yz2Khmmtm1DA"
       },
@@ -435,22 +435,18 @@
     {
       "added_at": "2021-10-20 21:31:00",
       "album": {
-        "name": "Samba del Arenal",
-        "url": "https://open.spotify.com/album/6ZCVkOvf6wk9h5KLNs21Fk"
+        "name": "Chico de Oro",
+        "url": "https://open.spotify.com/album/3zqIOlC6FwNKRCE7gUpcmr"
       },
       "artists": [
         {
-          "name": "YoSoyMatt",
-          "url": "https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV"
-        },
-        {
-          "name": "Cinemar",
-          "url": "https://open.spotify.com/artist/2t96uQP8to5GTqfwPJ9T37"
+          "name": "Chico Trujillo",
+          "url": "https://open.spotify.com/artist/6Hs8U0JO2nacXFG4kp15Co"
         }
       ],
-      "duration_ms": 253760,
-      "name": "Samba del Arenal",
-      "url": "https://open.spotify.com/track/4etH0m0htL9X8uHEWRIsIx"
+      "duration_ms": 187746,
+      "name": "Loca",
+      "url": "https://open.spotify.com/track/2LekureJkYmKUcUTBoHUaX"
     },
     {
       "added_at": "2021-10-20 21:31:00",
@@ -473,20 +469,24 @@
       "url": "https://open.spotify.com/track/1mUPcRmSmi2XsKAOWFKAF1"
     },
     {
-      "added_at": "2022-04-20 05:00:00",
+      "added_at": "2021-10-20 21:31:00",
       "album": {
-        "name": "En Orbita",
-        "url": "https://open.spotify.com/album/0jzpJgWjBGLxQsGbwKT7TB"
+        "name": "Samba del Arenal",
+        "url": "https://open.spotify.com/album/6ZCVkOvf6wk9h5KLNs21Fk"
       },
       "artists": [
         {
-          "name": "Los Destellos",
-          "url": "https://open.spotify.com/artist/2xfdrsA1TWrKlaEfQQbbmf"
+          "name": "YoSoyMatt",
+          "url": "https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV"
+        },
+        {
+          "name": "Cinemar",
+          "url": "https://open.spotify.com/artist/2t96uQP8to5GTqfwPJ9T37"
         }
       ],
-      "duration_ms": 169500,
-      "name": "Para Elisa",
-      "url": "https://open.spotify.com/track/6t6QEaiKAXtVOORoNbGR9O"
+      "duration_ms": 253760,
+      "name": "Samba del Arenal",
+      "url": "https://open.spotify.com/track/4etH0m0htL9X8uHEWRIsIx"
     },
     {
       "added_at": "2022-04-20 05:00:00",
@@ -503,22 +503,6 @@
       "duration_ms": 313133,
       "name": "D\u00f3nde Va Chichi?",
       "url": "https://open.spotify.com/track/7xpJQcmsnGG9ojztoCNe54"
-    },
-    {
-      "added_at": "2021-10-20 21:31:00",
-      "album": {
-        "name": "Jungle Fire",
-        "url": "https://open.spotify.com/album/2bproUHkH4ZckvOhxIYoT7"
-      },
-      "artists": [
-        {
-          "name": "Jungle Fire",
-          "url": "https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby"
-        }
-      ],
-      "duration_ms": 229080,
-      "name": "At\u00f3mico",
-      "url": "https://open.spotify.com/track/704w7nDWknuIV05nSWoXEw"
     },
     {
       "added_at": "2021-10-20 21:31:00",
@@ -543,6 +527,22 @@
     {
       "added_at": "2021-10-20 21:31:00",
       "album": {
+        "name": "Jungle Fire",
+        "url": "https://open.spotify.com/album/2bproUHkH4ZckvOhxIYoT7"
+      },
+      "artists": [
+        {
+          "name": "Jungle Fire",
+          "url": "https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby"
+        }
+      ],
+      "duration_ms": 229080,
+      "name": "At\u00f3mico",
+      "url": "https://open.spotify.com/track/704w7nDWknuIV05nSWoXEw"
+    },
+    {
+      "added_at": "2021-10-20 21:31:00",
+      "album": {
         "name": "Sonidos Gold",
         "url": "https://open.spotify.com/album/2lBRiANHPb6WCzlwjWDF1f"
       },
@@ -555,22 +555,6 @@
       "duration_ms": 161426,
       "name": "Cumbia De Los Pajaritos",
       "url": "https://open.spotify.com/track/2qthHzKgzuQIlfSVV44FkK"
-    },
-    {
-      "added_at": "2021-10-20 21:31:00",
-      "album": {
-        "name": "Feelings",
-        "url": "https://open.spotify.com/album/0gmjvJvdWuD3AFk9sZ02Yi"
-      },
-      "artists": [
-        {
-          "name": "Brijean",
-          "url": "https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb"
-        }
-      ],
-      "duration_ms": 192656,
-      "name": "Wifi Beach",
-      "url": "https://open.spotify.com/track/06ukn4Va91MfzMcxc1N0cu"
     },
     {
       "added_at": "2022-04-20 05:00:00",
@@ -587,6 +571,22 @@
       "duration_ms": 152066,
       "name": "Gypsy Woman",
       "url": "https://open.spotify.com/track/2bHqwpV9FlAjdsERULo2ts"
+    },
+    {
+      "added_at": "2021-10-20 21:31:00",
+      "album": {
+        "name": "Feelings",
+        "url": "https://open.spotify.com/album/0gmjvJvdWuD3AFk9sZ02Yi"
+      },
+      "artists": [
+        {
+          "name": "Brijean",
+          "url": "https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb"
+        }
+      ],
+      "duration_ms": 192656,
+      "name": "Wifi Beach",
+      "url": "https://open.spotify.com/track/06ukn4Va91MfzMcxc1N0cu"
     },
     {
       "added_at": "2021-10-20 21:31:00",
@@ -775,6 +775,22 @@
     {
       "added_at": "2021-10-20 21:31:00",
       "album": {
+        "name": "Visit Malphino",
+        "url": "https://open.spotify.com/album/2OA05pERt66hYi51jeM2oa"
+      },
+      "artists": [
+        {
+          "name": "Malphino",
+          "url": "https://open.spotify.com/artist/1hWJbIVGfYRmwRgmM6HFij"
+        }
+      ],
+      "duration_ms": 185640,
+      "name": "Molienda",
+      "url": "https://open.spotify.com/track/6Wnxsx8Q43Ng0GYl8SCHUH"
+    },
+    {
+      "added_at": "2021-10-20 21:31:00",
+      "album": {
         "name": "Hotline Bling",
         "url": "https://open.spotify.com/album/7fBRvRup48necAZiCwGugk"
       },
@@ -795,22 +811,6 @@
     {
       "added_at": "2021-10-20 21:31:00",
       "album": {
-        "name": "Visit Malphino",
-        "url": "https://open.spotify.com/album/2OA05pERt66hYi51jeM2oa"
-      },
-      "artists": [
-        {
-          "name": "Malphino",
-          "url": "https://open.spotify.com/artist/1hWJbIVGfYRmwRgmM6HFij"
-        }
-      ],
-      "duration_ms": 185640,
-      "name": "Molienda",
-      "url": "https://open.spotify.com/track/6Wnxsx8Q43Ng0GYl8SCHUH"
-    },
-    {
-      "added_at": "2021-10-20 21:31:00",
-      "album": {
         "name": "Cuatro Tigres",
         "url": "https://open.spotify.com/album/3HdnrOGtv9y40s33FCuXcR"
       },
@@ -823,6 +823,22 @@
       "duration_ms": 146680,
       "name": "La Danza de los Simpsons",
       "url": "https://open.spotify.com/track/59WEhlP47JI0naL5ub1c7U"
+    },
+    {
+      "added_at": "2021-10-20 21:31:00",
+      "album": {
+        "name": "Enrique Delgado (feat. Enrique Delgado Montes)",
+        "url": "https://open.spotify.com/album/62Q0yW6XbxNtuJDOc6ohyj"
+      },
+      "artists": [
+        {
+          "name": "Los Hermanos Za\u00f1artu",
+          "url": "https://open.spotify.com/artist/3eZmniklmCQj7Jn6i6alvI"
+        }
+      ],
+      "duration_ms": 168306,
+      "name": "Para Elisa",
+      "url": "https://open.spotify.com/track/4cu1KDI2JSaf6lQbUlzDlX"
     },
     {
       "added_at": "2021-10-20 21:31:00",
@@ -843,34 +859,18 @@
     {
       "added_at": "2021-10-20 21:31:00",
       "album": {
-        "name": "Enrique Delgado (feat. Enrique Delgado Montes)",
-        "url": "https://open.spotify.com/album/62Q0yW6XbxNtuJDOc6ohyj"
+        "name": "Desesperanza",
+        "url": "https://open.spotify.com/album/5Kz98hHeSt1Qokhc6rZd83"
       },
       "artists": [
         {
-          "name": "Los Hermanos Za\u00f1artu",
-          "url": "https://open.spotify.com/artist/3eZmniklmCQj7Jn6i6alvI"
+          "name": "Meridian Brothers",
+          "url": "https://open.spotify.com/artist/08Y6RNx87Eolrcq1aLM6ow"
         }
       ],
-      "duration_ms": 168306,
-      "name": "Para Elisa",
-      "url": "https://open.spotify.com/track/4cu1KDI2JSaf6lQbUlzDlX"
-    },
-    {
-      "added_at": "2022-04-20 05:00:00",
-      "album": {
-        "name": "Cumbia Feminista",
-        "url": "https://open.spotify.com/album/51CRWf9nKbj5OWlKLudBuZ"
-      },
-      "artists": [
-        {
-          "name": "Las Decapitadas",
-          "url": "https://open.spotify.com/artist/0NEkSiH8k5fTu30jlK2UdQ"
-        }
-      ],
-      "duration_ms": 233513,
-      "name": "Cumbia Feminista",
-      "url": "https://open.spotify.com/track/7M2mgKUSxmjHumNkwpjN2d"
+      "duration_ms": 283106,
+      "name": "Salsa Caliente (Versi\u00f3n Aumentada)",
+      "url": "https://open.spotify.com/track/3qMRDghhgm2V3be7a3yxnn"
     }
   ],
   "unique_name": "Brunch Latino",

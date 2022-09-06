@@ -4,7 +4,7 @@
 
 > Dance tracks for a big workout.
 
-310 songs - 15 hr 35 min - [published](https://open.spotify.com/playlist/6mUtN4cMwDhmgdGpsWc2qP)
+311 songs - 15 hr 39 min - [published](https://open.spotify.com/playlist/6mUtN4cMwDhmgdGpsWc2qP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Almost Home \- Above & Beyond Club Mix](https://open.spotify.com/track/2TfWFTc83ZIDqyH1IsM73K) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe), [Justine Suissa](https://open.spotify.com/artist/6UKSvQC8EQZUOKtUaj5uCj) | [Almost Home](https://open.spotify.com/album/10xQv6nMe4aXYQVIWqEYFo) | 6:32 | 2022-01-07 | 2022-03-11 |
 | [Alone](https://open.spotify.com/track/2y0W59c6wUGIJ6astaUNcQ) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [ALOTT](https://open.spotify.com/artist/5NIERWixyvXlwwmiJgFms3), [Apophis](https://open.spotify.com/artist/6Sz3s1OLPiCr3cniHuCSoK) | [Alone](https://open.spotify.com/album/5ZJDxWchW5jtfDJlnj9CKC) | 3:20 | 2022-01-07 | 2022-05-14 |
 | [Already Gone](https://open.spotify.com/track/17R5hvs1krffl3SAVtkY8B) | [Klaas](https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif), [Mister Ruiz](https://open.spotify.com/artist/3O2qgIUDvVtm7iXuzV7BTN) | [Already Gone](https://open.spotify.com/album/6soXkYfaLKPTWPNdd9NYQG) | 3:04 | 2022-01-07 | 2022-06-09 |
+| [Always Be There](https://open.spotify.com/track/1PKqiewc0OyZVYxFz5ugbH) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Louisa Johnson](https://open.spotify.com/artist/5IHqlcCbQkyhWl0KmIwgeq) | [Always Be There](https://open.spotify.com/album/5AjjKzTDARZEg5gPPJx597) | 3:18 | 2022-09-02 |  |
 | [Always On My Mind](https://open.spotify.com/track/4sWH0Fhl1a6yBCXnYm73Jp) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Champagne Problems \#DQH1](https://open.spotify.com/album/62XwEYC2iJIX37oZlJbsvi) | 2:44 | 2022-01-07 | 2022-07-21 |
 | [Animals \- Radio Edit](https://open.spotify.com/track/65G7XDGcybJiGywSCXJiL5) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ) | [Animals](https://open.spotify.com/album/2fbj0gGFRAAtpnpDvIKO3V) | 2:56 | 2022-04-01 | 2022-04-15 |
 | [Another Chance](https://open.spotify.com/track/2zJ5nuyOQi4jBvToG3HHys) | [Roger Sanchez](https://open.spotify.com/artist/1HT9k1ZSUL9IczSstOAgWJ), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [Another Chance](https://open.spotify.com/album/2duIDdyqxZxcvJkhoGi8Bp) | 4:14 | 2022-01-07 | 2022-05-06 |
@@ -241,7 +242,7 @@
 | [Runaway \(with Sigala and JP Cooper\)](https://open.spotify.com/track/6tS1Fm9z3UKuLSxrinY3pC) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Runaway \(with Sigala and JP Cooper\)](https://open.spotify.com/album/3ZdVOcrDeEyQt9UNPubYgo) | 2:48 | 2022-01-07 | 2022-06-11 |
 | [Safe With Me](https://open.spotify.com/track/1DkbynNilJKbe7V57omrK7) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [Drew Love](https://open.spotify.com/artist/76yeOnINtQSXyoEHbkYmtY) | [Safe With Me](https://open.spotify.com/album/2UIzwfd7Fzclt3YbY5MxCf) | 2:29 | 2022-01-07 | 2022-03-12 |
 | [Safe With Me \(feat\. Luma\)](https://open.spotify.com/track/1cfY8NzqmmZgo9aLqAyY4c) | [Adventure Club](https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa), [Soar](https://open.spotify.com/artist/3HCdCKVvXJakGRbVRO5OTa), [Luma](https://open.spotify.com/artist/29siAJ78u7y79BYOyh0lbp) | [Safe With Me \(feat\. Luma\)](https://open.spotify.com/album/3c17SBEmVqOJdo0uzEiu6A) | 4:49 | 2022-01-07 | 2022-04-16 |
-| [Salvation](https://open.spotify.com/track/67RXcunSfFbRKLxo3JjlPs) | [Maur](https://open.spotify.com/artist/2LhJEX3HxU9pJFLa8RkvUC), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Salvation](https://open.spotify.com/album/6fe0sr7yIir3zRL8ZRAc2R) | 3:07 | 2022-05-27 |  |
+| [Salvation](https://open.spotify.com/track/67RXcunSfFbRKLxo3JjlPs) | [Maur](https://open.spotify.com/artist/2LhJEX3HxU9pJFLa8RkvUC), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Salvation](https://open.spotify.com/album/6fe0sr7yIir3zRL8ZRAc2R) | 3:07 | 2022-05-27 | 2022-09-06 |
 | [Savage](https://open.spotify.com/track/76A1RRDEyHKtmV3Vh6PeVN) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Savage](https://open.spotify.com/album/6xBP3A3LFhaVl1Hb7XBCsM) | 2:47 | 2022-04-29 |  |
 | [Save Me](https://open.spotify.com/track/4HgPdfsZJa23uioLcQOefo) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [HRVY](https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN) | [Save Me](https://open.spotify.com/album/5jDl6mDA5gzgvzGyu7Twij) | 2:46 | 2022-05-13 |  |
 | [Say Yeah](https://open.spotify.com/track/7diiW6RSbOz0o1P7BWGmut) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v) | [Say Yeah](https://open.spotify.com/album/6tdaVrv380eGHJywX3dEOk) | 3:45 | 2022-01-21 | 2022-04-16 |

@@ -1,12 +1,12 @@
 {
   "description": "Illuminating Asian artists everywhere. Cover: NIKI.",
-  "num_followers": 245126,
+  "num_followers": 245161,
   "original_name": "Jasmine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjA5MTI2MCwwMDAwMDAwMDg1ODU1ODAzMTI1ZjdjZDcyZTQ0MGM1ZmRmNWNjMTFi",
+  "snapshot_id": "MTY2MjA5MTI2MCwwMDAwMDAwMGNmZDljZjAzMjM2YzQ4OWQ0N2M3ODA5ZDNiZGFlZmU1",
   "tracks": [
     {
       "added_at": "2022-08-19 04:00:00",
@@ -315,22 +315,6 @@
     {
       "added_at": "2022-08-19 04:00:00",
       "album": {
-        "name": "Stay Alive (Prod. SUGA of BTS)",
-        "url": "https://open.spotify.com/album/6nvSZLAsbg56fGSCVm8fL9"
-      },
-      "artists": [
-        {
-          "name": "Jung Kook",
-          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
-        }
-      ],
-      "duration_ms": 210928,
-      "name": "Stay Alive (Prod. SUGA of BTS)",
-      "url": "https://open.spotify.com/track/7CAdT0HdiQNlt1C7xk2hep"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
         "name": "ELEVEN",
         "url": "https://open.spotify.com/album/1XMYvsHRt52sMi6wittWqI"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 178453,
       "name": "ELEVEN",
       "url": "https://open.spotify.com/track/7n2FZQsaLb7ZRfRPfEeIvr"
+    },
+    {
+      "added_at": "2022-08-19 04:00:00",
+      "album": {
+        "name": "Stay Alive (Prod. SUGA of BTS)",
+        "url": "https://open.spotify.com/album/6nvSZLAsbg56fGSCVm8fL9"
+      },
+      "artists": [
+        {
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        }
+      ],
+      "duration_ms": 210928,
+      "name": "Stay Alive (Prod. SUGA of BTS)",
+      "url": "https://open.spotify.com/track/7CAdT0HdiQNlt1C7xk2hep"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -375,6 +375,22 @@
       "duration_ms": 210436,
       "name": "Shouldn't Be",
       "url": "https://open.spotify.com/track/3wefloF3t1sFZx8YMFhqYB"
+    },
+    {
+      "added_at": "2022-08-19 04:00:00",
+      "album": {
+        "name": "Oceans & Engines",
+        "url": "https://open.spotify.com/album/2va673nk2JXgCxJeTiZdM9"
+      },
+      "artists": [
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        }
+      ],
+      "duration_ms": 336000,
+      "name": "Oceans & Engines",
+      "url": "https://open.spotify.com/track/3vZk7OAUjMtVDNC852aNqi"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -427,38 +443,6 @@
       "duration_ms": 188369,
       "name": "Still Life",
       "url": "https://open.spotify.com/track/3TSLqZssCoCdDlMhCJ08XW"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
-        "name": "GABRIEL",
-        "url": "https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7"
-      },
-      "artists": [
-        {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
-        }
-      ],
-      "duration_ms": 171019,
-      "name": "ANGOSTURA",
-      "url": "https://open.spotify.com/track/38umMmZQdeoOG7Zojor4g3"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
-        "name": "Oceans & Engines",
-        "url": "https://open.spotify.com/album/2va673nk2JXgCxJeTiZdM9"
-      },
-      "artists": [
-        {
-          "name": "NIKI",
-          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
-        }
-      ],
-      "duration_ms": 336000,
-      "name": "Oceans & Engines",
-      "url": "https://open.spotify.com/track/3vZk7OAUjMtVDNC852aNqi"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -519,26 +503,6 @@
     {
       "added_at": "2022-08-19 04:00:00",
       "album": {
-        "name": "Head In The Clouds Forever",
-        "url": "https://open.spotify.com/album/0LxjjZ20pPOakBSYwrmbjv"
-      },
-      "artists": [
-        {
-          "name": "88rising",
-          "url": "https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs"
-        },
-        {
-          "name": "BIBI",
-          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
-        }
-      ],
-      "duration_ms": 152910,
-      "name": "Best Lover",
-      "url": "https://open.spotify.com/track/0iWFz0Q5Qha9bx325ocFWq"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
         "name": "Nicole",
         "url": "https://open.spotify.com/album/5WR7ksPLp3kqFbDLTYpGfx"
       },
@@ -564,9 +528,29 @@
           "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
         }
       ],
-      "duration_ms": 205346,
-      "name": "TOUCH",
-      "url": "https://open.spotify.com/track/5cgy5vMqVZbd8hYutp2txu"
+      "duration_ms": 171019,
+      "name": "ANGOSTURA",
+      "url": "https://open.spotify.com/track/38umMmZQdeoOG7Zojor4g3"
+    },
+    {
+      "added_at": "2022-08-19 04:00:00",
+      "album": {
+        "name": "Head In The Clouds Forever",
+        "url": "https://open.spotify.com/album/0LxjjZ20pPOakBSYwrmbjv"
+      },
+      "artists": [
+        {
+          "name": "88rising",
+          "url": "https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs"
+        },
+        {
+          "name": "BIBI",
+          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
+        }
+      ],
+      "duration_ms": 152910,
+      "name": "Best Lover",
+      "url": "https://open.spotify.com/track/0iWFz0Q5Qha9bx325ocFWq"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -623,6 +607,22 @@
       "duration_ms": 161146,
       "name": "In The Dark (with Jhen\u00e9 Aiko)",
       "url": "https://open.spotify.com/track/0zaoWwS8RpE3LSDdmkg8TC"
+    },
+    {
+      "added_at": "2022-08-19 04:00:00",
+      "album": {
+        "name": "GABRIEL",
+        "url": "https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7"
+      },
+      "artists": [
+        {
+          "name": "keshi",
+          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
+        }
+      ],
+      "duration_ms": 205346,
+      "name": "TOUCH",
+      "url": "https://open.spotify.com/track/5cgy5vMqVZbd8hYutp2txu"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -707,26 +707,6 @@
     {
       "added_at": "2022-08-19 04:00:00",
       "album": {
-        "name": "Have We Met Before (with Eric Nam)",
-        "url": "https://open.spotify.com/album/3CugoYr2fheAKsUkc4wsVo"
-      },
-      "artists": [
-        {
-          "name": "Sarah Barrios",
-          "url": "https://open.spotify.com/artist/0HJsX1aTdgG1VDIRDiseSJ"
-        },
-        {
-          "name": "Eric Nam",
-          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
-        }
-      ],
-      "duration_ms": 158174,
-      "name": "Have We Met Before (with Eric Nam)",
-      "url": "https://open.spotify.com/track/7eCpXVlWnTVEE8twb3P8m5"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
         "name": "Split",
         "url": "https://open.spotify.com/album/7uAHGGN6s8u1BwkA3uKYiQ"
       },
@@ -743,6 +723,26 @@
       "duration_ms": 207013,
       "name": "Split",
       "url": "https://open.spotify.com/track/7AE1oyRpPGoSwDs8b9XBO0"
+    },
+    {
+      "added_at": "2022-08-19 04:00:00",
+      "album": {
+        "name": "Have We Met Before (with Eric Nam)",
+        "url": "https://open.spotify.com/album/3CugoYr2fheAKsUkc4wsVo"
+      },
+      "artists": [
+        {
+          "name": "Sarah Barrios",
+          "url": "https://open.spotify.com/artist/0HJsX1aTdgG1VDIRDiseSJ"
+        },
+        {
+          "name": "Eric Nam",
+          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
+        }
+      ],
+      "duration_ms": 158174,
+      "name": "Have We Met Before (with Eric Nam)",
+      "url": "https://open.spotify.com/track/7eCpXVlWnTVEE8twb3P8m5"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -911,26 +911,6 @@
     {
       "added_at": "2022-08-19 04:00:00",
       "album": {
-        "name": "Loved By U",
-        "url": "https://open.spotify.com/album/3ZWTn4QQX16aHY64yVeC1D"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        },
-        {
-          "name": "morgxn",
-          "url": "https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW"
-        }
-      ],
-      "duration_ms": 207813,
-      "name": "Loved By U",
-      "url": "https://open.spotify.com/track/1SldN7GTd0ADTjspv96wCl"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
         "name": "One Last Dance (feat. Milky Day)",
         "url": "https://open.spotify.com/album/4vXSnmAf2LYQgslL8vgeBQ"
       },
@@ -947,6 +927,26 @@
       "duration_ms": 173308,
       "name": "One Last Dance (feat. Milky Day)",
       "url": "https://open.spotify.com/track/1ebn8pmLr7RDAzrBaIpsw8"
+    },
+    {
+      "added_at": "2022-08-19 04:00:00",
+      "album": {
+        "name": "Loved By U",
+        "url": "https://open.spotify.com/album/3ZWTn4QQX16aHY64yVeC1D"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "name": "morgxn",
+          "url": "https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW"
+        }
+      ],
+      "duration_ms": 207813,
+      "name": "Loved By U",
+      "url": "https://open.spotify.com/track/1SldN7GTd0ADTjspv96wCl"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -1021,6 +1021,22 @@
       "url": "https://open.spotify.com/track/6VpRQDOM7nQ6viuVUSXWGn"
     },
     {
+      "added_at": "2022-09-02 04:01:00",
+      "album": {
+        "name": "LOVERs PLAYBOOK",
+        "url": "https://open.spotify.com/album/78UznjghWeYXMeN201KLtC"
+      },
+      "artists": [
+        {
+          "name": "Paul Partohap",
+          "url": "https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9"
+        }
+      ],
+      "duration_ms": 269242,
+      "name": "THANK YOU 4 LOVIN\u2019 ME",
+      "url": "https://open.spotify.com/track/557XVqKgnYAxvvyczr2zDg"
+    },
+    {
       "added_at": "2022-08-19 04:00:00",
       "album": {
         "name": "Give Me Your Forever",
@@ -1039,22 +1055,6 @@
       "duration_ms": 244800,
       "name": "Give Me Your Forever (ft. Billkin)",
       "url": "https://open.spotify.com/track/7g3ryXLtXExZ0OFCj17Ae1"
-    },
-    {
-      "added_at": "2022-09-02 04:01:00",
-      "album": {
-        "name": "LOVERs PLAYBOOK",
-        "url": "https://open.spotify.com/album/78UznjghWeYXMeN201KLtC"
-      },
-      "artists": [
-        {
-          "name": "Paul Partohap",
-          "url": "https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9"
-        }
-      ],
-      "duration_ms": 269242,
-      "name": "THANK YOU 4 LOVIN\u2019 ME",
-      "url": "https://open.spotify.com/track/557XVqKgnYAxvvyczr2zDg"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2022-08-19 04:00:00",
       "album": {
-        "name": "Golden Age",
-        "url": "https://open.spotify.com/album/17HxYIWUvrRw9xIpx6AFqM"
-      },
-      "artists": [
-        {
-          "name": "J. Maya",
-          "url": "https://open.spotify.com/artist/6uFYqDeLIwfURuF1yxVqJU"
-        }
-      ],
-      "duration_ms": 176150,
-      "name": "Golden Age",
-      "url": "https://open.spotify.com/track/3hModU6Dy7ym4BO9r7zxFG"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
         "name": "Brightside",
         "url": "https://open.spotify.com/album/41f4EFQKt0oSJjq8KCClJZ"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 211306,
       "name": "Getcho Mans",
       "url": "https://open.spotify.com/track/10b0n4KwuRyNteJ9WNjrdj"
+    },
+    {
+      "added_at": "2022-08-19 04:00:00",
+      "album": {
+        "name": "Golden Age",
+        "url": "https://open.spotify.com/album/17HxYIWUvrRw9xIpx6AFqM"
+      },
+      "artists": [
+        {
+          "name": "J. Maya",
+          "url": "https://open.spotify.com/artist/6uFYqDeLIwfURuF1yxVqJU"
+        }
+      ],
+      "duration_ms": 176150,
+      "name": "Golden Age",
+      "url": "https://open.spotify.com/track/3hModU6Dy7ym4BO9r7zxFG"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2022-08-19 04:00:00",
       "album": {
-        "name": "Love Me More",
-        "url": "https://open.spotify.com/album/6A6pDjKLE4beMgQZzLJ2Qp"
-      },
-      "artists": [
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "duration_ms": 212660,
-      "name": "Love Me More",
-      "url": "https://open.spotify.com/track/2OnrjKShafw7qtoyLkKNR2"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
         "name": "oh to be in love",
         "url": "https://open.spotify.com/album/4Nd7dd1PVy1LZgfmnp2fa9"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 222167,
       "name": "Bad Haircut (feat. JVKE)",
       "url": "https://open.spotify.com/track/0b8HcbULuUTZI07s1q7o4K"
+    },
+    {
+      "added_at": "2022-08-19 04:00:00",
+      "album": {
+        "name": "Love Me More",
+        "url": "https://open.spotify.com/album/6A6pDjKLE4beMgQZzLJ2Qp"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "duration_ms": 212660,
+      "name": "Love Me More",
+      "url": "https://open.spotify.com/track/2OnrjKShafw7qtoyLkKNR2"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2022-08-19 04:00:00",
       "album": {
+        "name": "i like red",
+        "url": "https://open.spotify.com/album/2DYmZa0uuVkUGdwqjNTJNj"
+      },
+      "artists": [
+        {
+          "name": "Charlene Su",
+          "url": "https://open.spotify.com/artist/5Ltw2zQx9zqzyXfsQkkFBD"
+        }
+      ],
+      "duration_ms": 122500,
+      "name": "i like red",
+      "url": "https://open.spotify.com/track/3GQ4GdXU8wBbPqBcKDTJ65"
+    },
+    {
+      "added_at": "2022-08-19 04:00:00",
+      "album": {
         "name": "Hello 2.0 (Legends Only) [feat. \u00d8ZI]",
         "url": "https://open.spotify.com/album/7BtzeGPG9d8xWHM5WUlNmZ"
       },
@@ -1375,22 +1391,6 @@
     {
       "added_at": "2022-08-19 04:00:00",
       "album": {
-        "name": "i like red",
-        "url": "https://open.spotify.com/album/2DYmZa0uuVkUGdwqjNTJNj"
-      },
-      "artists": [
-        {
-          "name": "Charlene Su",
-          "url": "https://open.spotify.com/artist/5Ltw2zQx9zqzyXfsQkkFBD"
-        }
-      ],
-      "duration_ms": 122500,
-      "name": "i like red",
-      "url": "https://open.spotify.com/track/3GQ4GdXU8wBbPqBcKDTJ65"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
         "name": "Future Ghost (feat. Violette Wautier)",
         "url": "https://open.spotify.com/album/7L3t2HadtexkFDvW4MPlJH"
       },
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2022-08-19 04:00:00",
       "album": {
-        "name": "EXPIRED",
-        "url": "https://open.spotify.com/album/3SGwdspckW2a9aS886BMyy"
-      },
-      "artists": [
-        {
-          "name": "jenny nuo",
-          "url": "https://open.spotify.com/artist/6gvfMsa2f3hXTmsewfTyhz"
-        }
-      ],
-      "duration_ms": 146739,
-      "name": "EXPIRED",
-      "url": "https://open.spotify.com/track/0POgiLKNM6O5uRb76I20Yu"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
         "name": "friends",
         "url": "https://open.spotify.com/album/36P6BJk9IrPXSUQDULhyGO"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 143181,
       "name": "friends",
       "url": "https://open.spotify.com/track/0ELbsCYuxUarB2UrjGUO3P"
+    },
+    {
+      "added_at": "2022-08-19 04:00:00",
+      "album": {
+        "name": "EXPIRED",
+        "url": "https://open.spotify.com/album/3SGwdspckW2a9aS886BMyy"
+      },
+      "artists": [
+        {
+          "name": "jenny nuo",
+          "url": "https://open.spotify.com/artist/6gvfMsa2f3hXTmsewfTyhz"
+        }
+      ],
+      "duration_ms": 146739,
+      "name": "EXPIRED",
+      "url": "https://open.spotify.com/track/0POgiLKNM6O5uRb76I20Yu"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -1699,30 +1699,6 @@
     {
       "added_at": "2022-08-19 04:00:00",
       "album": {
-        "name": "Tonight",
-        "url": "https://open.spotify.com/album/687uOfAM7hTY67aF32Pu7H"
-      },
-      "artists": [
-        {
-          "name": "MFMF.",
-          "url": "https://open.spotify.com/artist/4VyJgkmyclZOaiKFmqX9jR"
-        },
-        {
-          "name": "Talitha.",
-          "url": "https://open.spotify.com/artist/4wkxDp8esk6g2W9Fw7IQGY"
-        },
-        {
-          "name": "RESORT",
-          "url": "https://open.spotify.com/artist/5xuLRF6Q5vKklxMJ3ZXJng"
-        }
-      ],
-      "duration_ms": 186923,
-      "name": "Tonight",
-      "url": "https://open.spotify.com/track/2CG7zjTjZHHjkimuGGLiOP"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
         "name": "let's run away",
         "url": "https://open.spotify.com/album/0sIrhXZSQwZ3H1cRzVD3Mk"
       },
@@ -1747,6 +1723,30 @@
     {
       "added_at": "2022-08-19 04:00:00",
       "album": {
+        "name": "Tonight",
+        "url": "https://open.spotify.com/album/687uOfAM7hTY67aF32Pu7H"
+      },
+      "artists": [
+        {
+          "name": "MFMF.",
+          "url": "https://open.spotify.com/artist/4VyJgkmyclZOaiKFmqX9jR"
+        },
+        {
+          "name": "Talitha.",
+          "url": "https://open.spotify.com/artist/4wkxDp8esk6g2W9Fw7IQGY"
+        },
+        {
+          "name": "RESORT",
+          "url": "https://open.spotify.com/artist/5xuLRF6Q5vKklxMJ3ZXJng"
+        }
+      ],
+      "duration_ms": 186923,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/2CG7zjTjZHHjkimuGGLiOP"
+    },
+    {
+      "added_at": "2022-08-19 04:00:00",
+      "album": {
         "name": "At Least I Had You",
         "url": "https://open.spotify.com/album/3A68xuHs3jOElQqx87Ae1O"
       },
@@ -1763,22 +1763,6 @@
       "duration_ms": 203006,
       "name": "At Least I Had You",
       "url": "https://open.spotify.com/track/3hpR0IWUJMvtlq3aAyKPqz"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
-        "name": "MCQUEEN",
-        "url": "https://open.spotify.com/album/3yyyEi7BGK3IAqQRLU5IXc"
-      },
-      "artists": [
-        {
-          "name": "Yoshi T.",
-          "url": "https://open.spotify.com/artist/0KDEs3f3DfvAoLp1S24OJ0"
-        }
-      ],
-      "duration_ms": 159292,
-      "name": "MCQUEEN",
-      "url": "https://open.spotify.com/track/7uCtaXvAbJ89VlyWvL7qlM"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -1811,6 +1795,22 @@
       "duration_ms": 177757,
       "name": "Bla Bli Blu",
       "url": "https://open.spotify.com/track/4xPm60nWTJvaqcBj5muISb"
+    },
+    {
+      "added_at": "2022-08-19 04:00:00",
+      "album": {
+        "name": "MCQUEEN",
+        "url": "https://open.spotify.com/album/3yyyEi7BGK3IAqQRLU5IXc"
+      },
+      "artists": [
+        {
+          "name": "Yoshi T.",
+          "url": "https://open.spotify.com/artist/0KDEs3f3DfvAoLp1S24OJ0"
+        }
+      ],
+      "duration_ms": 159292,
+      "name": "MCQUEEN",
+      "url": "https://open.spotify.com/track/7uCtaXvAbJ89VlyWvL7qlM"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -1871,26 +1871,6 @@
     {
       "added_at": "2022-08-19 04:00:00",
       "album": {
-        "name": "chump change",
-        "url": "https://open.spotify.com/album/4k2Hqh0Df6b788PGH6KAUE"
-      },
-      "artists": [
-        {
-          "name": "AUDREY NUNA",
-          "url": "https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb"
-        },
-        {
-          "name": "Deb Never",
-          "url": "https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul"
-        }
-      ],
-      "duration_ms": 132826,
-      "name": "sardines",
-      "url": "https://open.spotify.com/track/2sFXzS9LnbQe5BigrfsVRP"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
         "name": "No Saints on Knight Street",
         "url": "https://open.spotify.com/album/4NcVOJfCpGq5BFEhhvjge4"
       },
@@ -1907,6 +1887,26 @@
       "duration_ms": 216226,
       "name": "Backhouse Ballin' (feat. James Reid)",
       "url": "https://open.spotify.com/track/24yMI9O8GEdADu3hj4axGS"
+    },
+    {
+      "added_at": "2022-08-19 04:00:00",
+      "album": {
+        "name": "chump change",
+        "url": "https://open.spotify.com/album/4k2Hqh0Df6b788PGH6KAUE"
+      },
+      "artists": [
+        {
+          "name": "AUDREY NUNA",
+          "url": "https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb"
+        },
+        {
+          "name": "Deb Never",
+          "url": "https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul"
+        }
+      ],
+      "duration_ms": 132826,
+      "name": "sardines",
+      "url": "https://open.spotify.com/track/2sFXzS9LnbQe5BigrfsVRP"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -1983,22 +1983,6 @@
     {
       "added_at": "2022-08-19 04:00:00",
       "album": {
-        "name": "That XX - Spotify Singles",
-        "url": "https://open.spotify.com/album/4jFrmvzBjQc9lnTeaIr8Qo"
-      },
-      "artists": [
-        {
-          "name": "AUDREY NUNA",
-          "url": "https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb"
-        }
-      ],
-      "duration_ms": 289618,
-      "name": "That XX - Spotify Singles",
-      "url": "https://open.spotify.com/track/7Ae5WP06rEQfq5tRqrST2j"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
         "name": "Picture Myself",
         "url": "https://open.spotify.com/album/6LHKYRQ0aTADgfgZErmYjT"
       },
@@ -2027,6 +2011,22 @@
       "duration_ms": 169600,
       "name": "WEST",
       "url": "https://open.spotify.com/track/7LiXlY6Fhueht9ME6oLzWN"
+    },
+    {
+      "added_at": "2022-08-19 04:00:00",
+      "album": {
+        "name": "That XX - Spotify Singles",
+        "url": "https://open.spotify.com/album/4jFrmvzBjQc9lnTeaIr8Qo"
+      },
+      "artists": [
+        {
+          "name": "AUDREY NUNA",
+          "url": "https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb"
+        }
+      ],
+      "duration_ms": 289618,
+      "name": "That XX - Spotify Singles",
+      "url": "https://open.spotify.com/track/7Ae5WP06rEQfq5tRqrST2j"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -2063,22 +2063,6 @@
     {
       "added_at": "2022-08-19 04:00:00",
       "album": {
-        "name": "Feels Like I'm Flying",
-        "url": "https://open.spotify.com/album/6qjchU3qtiwl1TJfM2Pgru"
-      },
-      "artists": [
-        {
-          "name": "Yeek",
-          "url": "https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM"
-        }
-      ],
-      "duration_ms": 155142,
-      "name": "Feels Like I'm Flying",
-      "url": "https://open.spotify.com/track/4241yTRttQpIbbP5w45k8p"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
         "name": "Galipette (BIBI Remix)",
         "url": "https://open.spotify.com/album/1x5eiXeq1m6KQxfYFKWQus"
       },
@@ -2095,6 +2079,22 @@
       "duration_ms": 122638,
       "name": "Galipette - BIBI Remix",
       "url": "https://open.spotify.com/track/7x5xZs5VbPxNsdmGAj6Hch"
+    },
+    {
+      "added_at": "2022-08-19 04:00:00",
+      "album": {
+        "name": "Feels Like I'm Flying",
+        "url": "https://open.spotify.com/album/6qjchU3qtiwl1TJfM2Pgru"
+      },
+      "artists": [
+        {
+          "name": "Yeek",
+          "url": "https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM"
+        }
+      ],
+      "duration_ms": 155142,
+      "name": "Feels Like I'm Flying",
+      "url": "https://open.spotify.com/track/4241yTRttQpIbbP5w45k8p"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -2185,22 +2185,6 @@
       "url": "https://open.spotify.com/track/7IBI2S33PMaIM9pARvpIJY"
     },
     {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
-        "name": "Could I Be Somebody",
-        "url": "https://open.spotify.com/album/3BER8UXEGBHmP9RFXKsugn"
-      },
-      "artists": [
-        {
-          "name": "rei brown",
-          "url": "https://open.spotify.com/artist/4N7IToHBlPXqlrXiv1Nij6"
-        }
-      ],
-      "duration_ms": 231693,
-      "name": "Could I Be Somebody",
-      "url": "https://open.spotify.com/track/6TvlnHlc0fTKhPso76QXH3"
-    },
-    {
       "added_at": "2022-08-26 04:01:00",
       "album": {
         "name": "Splinter",
@@ -2235,6 +2219,22 @@
       "duration_ms": 169760,
       "name": "do it right (feat. Amin\u00e9)",
       "url": "https://open.spotify.com/track/6bKM56cyoz8kjiK7QKQ87i"
+    },
+    {
+      "added_at": "2022-08-19 04:00:00",
+      "album": {
+        "name": "Could I Be Somebody",
+        "url": "https://open.spotify.com/album/3BER8UXEGBHmP9RFXKsugn"
+      },
+      "artists": [
+        {
+          "name": "rei brown",
+          "url": "https://open.spotify.com/artist/4N7IToHBlPXqlrXiv1Nij6"
+        }
+      ],
+      "duration_ms": 231693,
+      "name": "Could I Be Somebody",
+      "url": "https://open.spotify.com/track/6TvlnHlc0fTKhPso76QXH3"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -2321,6 +2321,30 @@
       "url": "https://open.spotify.com/track/3uxThTbkNafNIFS8nIDlfM"
     },
     {
+      "added_at": "2022-09-02 04:01:00",
+      "album": {
+        "name": "PLAYTHING",
+        "url": "https://open.spotify.com/album/35djQXPgBXiH8rNC8Kh1Hy"
+      },
+      "artists": [
+        {
+          "name": "Pussy Riot",
+          "url": "https://open.spotify.com/artist/2hThsqaVEAWhWPBXnaOfB9"
+        },
+        {
+          "name": "REI AMI",
+          "url": "https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5"
+        },
+        {
+          "name": "Kito",
+          "url": "https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe"
+        }
+      ],
+      "duration_ms": 167640,
+      "name": "PLAYTHING",
+      "url": "https://open.spotify.com/track/3dvo22rex4PuOkdqsDlP39"
+    },
+    {
       "added_at": "2022-08-19 04:00:00",
       "album": {
         "name": "a liquid breakfast DELUXE",
@@ -2395,6 +2419,22 @@
     {
       "added_at": "2022-08-19 04:00:00",
       "album": {
+        "name": "Get Well Soon",
+        "url": "https://open.spotify.com/album/4P0qK1UZsmlL9aspZaOkkJ"
+      },
+      "artists": [
+        {
+          "name": "Jenna Doe",
+          "url": "https://open.spotify.com/artist/537KNo7PHzbkHiv5SGQ0eT"
+        }
+      ],
+      "duration_ms": 154346,
+      "name": "Get Well Soon",
+      "url": "https://open.spotify.com/track/2pAG0CfwvkA4JcSo6eb9jq"
+    },
+    {
+      "added_at": "2022-08-19 04:00:00",
+      "album": {
         "name": "what are we?",
         "url": "https://open.spotify.com/album/56TDcCVGF0BuPWOuAlghsj"
       },
@@ -2419,22 +2459,6 @@
     {
       "added_at": "2022-08-19 04:00:00",
       "album": {
-        "name": "Get Well Soon",
-        "url": "https://open.spotify.com/album/4P0qK1UZsmlL9aspZaOkkJ"
-      },
-      "artists": [
-        {
-          "name": "Jenna Doe",
-          "url": "https://open.spotify.com/artist/537KNo7PHzbkHiv5SGQ0eT"
-        }
-      ],
-      "duration_ms": 154346,
-      "name": "Get Well Soon",
-      "url": "https://open.spotify.com/track/2pAG0CfwvkA4JcSo6eb9jq"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
         "name": "Better",
         "url": "https://open.spotify.com/album/0fskcpyw9TKwovHPx6O0sr"
       },
@@ -2449,10 +2473,34 @@
       "url": "https://open.spotify.com/track/5z2hntBNASWRvUGP8BQng6"
     },
     {
+      "added_at": "2022-09-02 04:01:00",
+      "album": {
+        "name": "HEAVEN'S GATES (feat. Izzy Camina) [Manila Killa Remix]",
+        "url": "https://open.spotify.com/album/6VjleRIJlteuD8bd63EjN7"
+      },
+      "artists": [
+        {
+          "name": "Devault",
+          "url": "https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL"
+        },
+        {
+          "name": "Izzy Camina",
+          "url": "https://open.spotify.com/artist/1bEvuUxdYlGYGq5WvDAE1u"
+        },
+        {
+          "name": "Manila Killa",
+          "url": "https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "HEAVEN'S GATES (feat. Izzy Camina) - Manila Killa Remix",
+      "url": "https://open.spotify.com/track/0jT25u5GLiQtqX8k25Rjup"
+    },
+    {
       "added_at": "2022-08-19 04:00:00",
       "album": {
-        "name": "CLOUDS",
-        "url": "https://open.spotify.com/album/20oky0BNN8ohXkjRUL216l"
+        "name": "SPOILED BITCH",
+        "url": "https://open.spotify.com/album/7lxXHaz0xtxwWxMZn0GN53"
       },
       "artists": [
         {
@@ -2460,9 +2508,9 @@
           "url": "https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu"
         }
       ],
-      "duration_ms": 178726,
-      "name": "CLOUDS",
-      "url": "https://open.spotify.com/track/43HB7iatxULhCqqIu7ouQT"
+      "duration_ms": 140500,
+      "name": "SPOILED BITCH",
+      "url": "https://open.spotify.com/track/3agccBcICCxc1WWkG3XuvE"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -2479,30 +2527,6 @@
       "duration_ms": 193396,
       "name": "Space",
       "url": "https://open.spotify.com/track/0CtFIDCGTfn34IBYKkApU3"
-    },
-    {
-      "added_at": "2022-09-02 04:01:00",
-      "album": {
-        "name": "PLAYTHING",
-        "url": "https://open.spotify.com/album/35djQXPgBXiH8rNC8Kh1Hy"
-      },
-      "artists": [
-        {
-          "name": "Pussy Riot",
-          "url": "https://open.spotify.com/artist/2hThsqaVEAWhWPBXnaOfB9"
-        },
-        {
-          "name": "REI AMI",
-          "url": "https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5"
-        },
-        {
-          "name": "Kito",
-          "url": "https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe"
-        }
-      ],
-      "duration_ms": 167640,
-      "name": "PLAYTHING",
-      "url": "https://open.spotify.com/track/3dvo22rex4PuOkdqsDlP39"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -2553,20 +2577,20 @@
       "url": "https://open.spotify.com/track/0K7XBpcCaoEFnWRWbeuG3C"
     },
     {
-      "added_at": "2022-08-19 04:00:00",
+      "added_at": "2022-08-30 01:00:35",
       "album": {
-        "name": "Hope In Chaos",
-        "url": "https://open.spotify.com/album/3pRgDX9Fl29rR0WcQNm0tt"
+        "name": "just like before",
+        "url": "https://open.spotify.com/album/0Z1PdgaM4I3cATEl9RgDam"
       },
       "artists": [
         {
-          "name": "JVNA",
-          "url": "https://open.spotify.com/artist/0BMfVLB7t0VCzNBZZKBy6A"
+          "name": "juno roome",
+          "url": "https://open.spotify.com/artist/75OmhmviEWTWkMBllWgdQv"
         }
       ],
-      "duration_ms": 193457,
-      "name": "Dystopia",
-      "url": "https://open.spotify.com/track/755jaJqdAQTreuL8MLYT5K"
+      "duration_ms": 266573,
+      "name": "just like before",
+      "url": "https://open.spotify.com/track/2JAHDn2zTqHFsFmktmZ4Mt"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -2591,18 +2615,18 @@
     {
       "added_at": "2022-08-19 04:00:00",
       "album": {
-        "name": "SPOILED BITCH",
-        "url": "https://open.spotify.com/album/7lxXHaz0xtxwWxMZn0GN53"
+        "name": "Hope In Chaos",
+        "url": "https://open.spotify.com/album/3pRgDX9Fl29rR0WcQNm0tt"
       },
       "artists": [
         {
-          "name": "Tiffany Day",
-          "url": "https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu"
+          "name": "JVNA",
+          "url": "https://open.spotify.com/artist/0BMfVLB7t0VCzNBZZKBy6A"
         }
       ],
-      "duration_ms": 140500,
-      "name": "SPOILED BITCH",
-      "url": "https://open.spotify.com/track/3agccBcICCxc1WWkG3XuvE"
+      "duration_ms": 193457,
+      "name": "Dystopia",
+      "url": "https://open.spotify.com/track/755jaJqdAQTreuL8MLYT5K"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -2621,20 +2645,20 @@
       "url": "https://open.spotify.com/track/68mCWJL6JLgiL1yc80Kx2N"
     },
     {
-      "added_at": "2022-08-30 01:00:35",
+      "added_at": "2022-08-19 04:00:00",
       "album": {
-        "name": "just like before",
-        "url": "https://open.spotify.com/album/0Z1PdgaM4I3cATEl9RgDam"
+        "name": "CLOUDS",
+        "url": "https://open.spotify.com/album/20oky0BNN8ohXkjRUL216l"
       },
       "artists": [
         {
-          "name": "juno roome",
-          "url": "https://open.spotify.com/artist/75OmhmviEWTWkMBllWgdQv"
+          "name": "Tiffany Day",
+          "url": "https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu"
         }
       ],
-      "duration_ms": 266573,
-      "name": "just like before",
-      "url": "https://open.spotify.com/track/2JAHDn2zTqHFsFmktmZ4Mt"
+      "duration_ms": 178726,
+      "name": "CLOUDS",
+      "url": "https://open.spotify.com/track/43HB7iatxULhCqqIu7ouQT"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -2687,26 +2711,6 @@
       "duration_ms": 213000,
       "name": "You",
       "url": "https://open.spotify.com/track/05zKUkJCx09zN4RfHHYG94"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
-        "name": "HERO JOURNEY (feat. Superorganism)",
-        "url": "https://open.spotify.com/album/3dbLBkeSvzwDE5tVt662sZ"
-      },
-      "artists": [
-        {
-          "name": "CHAI",
-          "url": "https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx"
-        },
-        {
-          "name": "Superorganism",
-          "url": "https://open.spotify.com/artist/0Wkm45quqfx3NepJpXDvwE"
-        }
-      ],
-      "duration_ms": 114833,
-      "name": "HERO JOURNEY (feat. Superorganism)",
-      "url": "https://open.spotify.com/track/5wsZVRGMRA4ZzMStNKxcK2"
     }
   ],
   "unique_name": "Jasmine",

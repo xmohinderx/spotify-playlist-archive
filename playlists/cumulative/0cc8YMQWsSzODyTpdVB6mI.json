@@ -299,7 +299,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-06",
       "duration_ms": 180609,
       "name": "Does the Magic Spin?",
       "url": "https://open.spotify.com/track/00DVwBTumBG1dH9OYMDolv"
@@ -643,6 +643,24 @@
       "duration_ms": 177470,
       "name": "I Can Talk",
       "url": "https://open.spotify.com/track/0Krxo9CPCj98TR3QHqSb8N"
+    },
+    {
+      "album": {
+        "name": "Icy",
+        "url": "https://open.spotify.com/album/4ZAkDbkETjOwhUAt6f0fV5"
+      },
+      "artists": [
+        {
+          "name": "LN",
+          "url": "https://open.spotify.com/artist/3JyVio3O9Tokn7Yc1jI75T"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164272,
+      "name": "Icy",
+      "url": "https://open.spotify.com/track/1I7e4AyVqSBOoh6GHttqws"
     },
     {
       "album": {

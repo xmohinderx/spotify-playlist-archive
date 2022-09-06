@@ -4,7 +4,7 @@
 
 > A laid\-back trip in the folk scene\. Cover: Billy Raffoul
 
-185 songs - 10 hr 59 min - [published](https://open.spotify.com/playlist/5U0EeaLNxWf1VoBuo6txNc)
+186 songs - 11 hr 3 min - [published](https://open.spotify.com/playlist/5U0EeaLNxWf1VoBuo6txNc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,7 +109,8 @@
 | [Never Not Sunday](https://open.spotify.com/track/0I4MoWFuqj48cBzbIMgZ6D) | [Tom Rosenthal](https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB) | [Never Not Sunday](https://open.spotify.com/album/4pZYb4QMYfa0Yx1YCEaVn2) | 2:39 | 2022-07-29 |  |
 | [Nightjar And The Nightingale](https://open.spotify.com/track/24b6nKhfTwjV3loZHkFUli) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [Nightjar and the Nightingale](https://open.spotify.com/album/3uqQVXRX8Yoq88qiXXJyjk) | 4:31 | 2022-05-13 |  |
 | [No Body](https://open.spotify.com/track/1QNsIhJE16pNICoOa7R1VW) | [Living Hour](https://open.spotify.com/artist/2Ho3J07GaGcCl2ePXnjEia) | [No Body](https://open.spotify.com/album/40L5aTWzAJ3Js0tl4Ag4dR) | 4:33 | 2022-06-24 | 2022-07-29 |
-| [No Body](https://open.spotify.com/track/3sii6IckVtDEZrMiEeVdFG) | [Living Hour](https://open.spotify.com/artist/2Ho3J07GaGcCl2ePXnjEia) | [No Body](https://open.spotify.com/album/62zBV884X3VSsrxqlcYsoY) | 4:33 | 2022-07-22 |  |
+| [No Body](https://open.spotify.com/track/2T9s8CK07B6dElJ6fmHeyt) | [Living Hour](https://open.spotify.com/artist/2Ho3J07GaGcCl2ePXnjEia) | [Someday is Today](https://open.spotify.com/album/5CnTQkaRdKn8NQ29Ig9gKe) | 4:33 | 2022-09-02 |  |
+| [No Body](https://open.spotify.com/track/3sii6IckVtDEZrMiEeVdFG) | [Living Hour](https://open.spotify.com/artist/2Ho3J07GaGcCl2ePXnjEia) | [No Body](https://open.spotify.com/album/62zBV884X3VSsrxqlcYsoY) | 4:33 | 2022-07-22 | 2022-09-06 |
 | [North of the Border](https://open.spotify.com/track/1on5aZH6WRLgP0UZsvy680) | [Parkland](https://open.spotify.com/artist/7kpPpbL8gj9EYboqzN5WMm) | [North of the Border](https://open.spotify.com/album/7q3LN4jWho4NMiBXa4EPoi) | 4:24 | 2022-07-22 |  |
 | [October Birds](https://open.spotify.com/track/23WVcYeTP5SUoOB7oXb32j) | [Flower Face](https://open.spotify.com/artist/0sYlth2PW1zWJMEU2vCukz) | [October Birds](https://open.spotify.com/album/2ttBuqxGYwwTHIK9XWUbtr) | 3:01 | 2022-05-13 |  |
 | [On the Edge](https://open.spotify.com/track/7G5kS3Z1uzgUZlVv6kGhDw) | [Zackery](https://open.spotify.com/artist/5GQHNdYVBppXNGb7RHJHIc) | [On the Edge](https://open.spotify.com/album/2LEAHem1o9t6AzAxVbMRja) | 2:40 | 2022-05-13 |  |

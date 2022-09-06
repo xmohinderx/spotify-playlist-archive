@@ -1,12 +1,12 @@
 {
   "description": "Classic songs from the Blues songbook. Cover: Muddy Waters.",
-  "num_followers": 29615,
+  "num_followers": 29694,
   "original_name": "Blues Standards",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDgyMjI2NiwwMDAwMDAwMGVkMzJhNjU1MDU2ZWUzZDRjNzAwMmNjMTk4ZDg3YmM4",
+  "snapshot_id": "MTY2MDgyMjI2NiwwMDAwMDAwMDIxZDlkN2E1NGY5Zjc0MGVjZjBkNmE4OGM3ZjE5ZWJl",
   "tracks": [
     {
       "added_at": "2022-08-18 11:31:06",
@@ -555,22 +555,6 @@
     {
       "added_at": "2022-08-18 11:31:06",
       "album": {
-        "name": "Night Beat",
-        "url": "https://open.spotify.com/album/4FsWNGbkeZtMD1BWXhIvRk"
-      },
-      "artists": [
-        {
-          "name": "Sam Cooke",
-          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
-        }
-      ],
-      "duration_ms": 171826,
-      "name": "Little Red Rooster",
-      "url": "https://open.spotify.com/track/1msykqPE0qoZig4nb9khI0"
-    },
-    {
-      "added_at": "2022-08-18 11:31:06",
-      "album": {
         "name": "The Essential Little Walter",
         "url": "https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc"
       },
@@ -603,6 +587,22 @@
     {
       "added_at": "2022-08-18 11:31:06",
       "album": {
+        "name": "Night Beat",
+        "url": "https://open.spotify.com/album/4FsWNGbkeZtMD1BWXhIvRk"
+      },
+      "artists": [
+        {
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+        }
+      ],
+      "duration_ms": 171826,
+      "name": "Little Red Rooster",
+      "url": "https://open.spotify.com/track/1msykqPE0qoZig4nb9khI0"
+    },
+    {
+      "added_at": "2022-08-18 11:31:06",
+      "album": {
         "name": "The Big Beat Of Dave Bartholomew: 20 Milestone Dave Bartholomew Productions 1949-1960",
         "url": "https://open.spotify.com/album/4G6NddtuU6vDjErHhtiMuj"
       },
@@ -615,22 +615,6 @@
       "duration_ms": 112600,
       "name": "I Hear You Knocking - Remastered 2002",
       "url": "https://open.spotify.com/track/2k4k2Qytu2ZnYoqDOagNBV"
-    },
-    {
-      "added_at": "2022-08-18 11:31:06",
-      "album": {
-        "name": "I Pity The Fool: The Duke Recordings, Vol. One",
-        "url": "https://open.spotify.com/album/58DNpB9P4aUKPtaTiZmjK6"
-      },
-      "artists": [
-        {
-          "name": "Bobby \"Blue\" Bland",
-          "url": "https://open.spotify.com/artist/48nwxUvPJZkm8uPa7xMzmj"
-        }
-      ],
-      "duration_ms": 160893,
-      "name": "I Pity The Fool",
-      "url": "https://open.spotify.com/track/5sNhJi3tY90NDSXvnRyElL"
     },
     {
       "added_at": "2022-08-18 11:31:06",
@@ -651,22 +635,6 @@
     {
       "added_at": "2022-08-18 11:31:06",
       "album": {
-        "name": "Moanin' In The Moonlight",
-        "url": "https://open.spotify.com/album/76MT4lqzC1oSvSYnHHjMam"
-      },
-      "artists": [
-        {
-          "name": "Howlin' Wolf",
-          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Forty Four",
-      "url": "https://open.spotify.com/track/02Ub2Xv4Vs3UEthDciGPvq"
-    },
-    {
-      "added_at": "2022-08-18 11:31:06",
-      "album": {
         "name": "Rocks The House",
         "url": "https://open.spotify.com/album/4XmKdBEndE6UnnbrSUN5Dk"
       },
@@ -679,6 +647,54 @@
       "duration_ms": 254165,
       "name": "Baby, What You Want Me To Do - Live At The New Era Club,1963",
       "url": "https://open.spotify.com/track/6SoZkdugPfXghVpEEqSHCn"
+    },
+    {
+      "added_at": "2022-08-18 11:31:06",
+      "album": {
+        "name": "I Pity The Fool: The Duke Recordings, Vol. One",
+        "url": "https://open.spotify.com/album/58DNpB9P4aUKPtaTiZmjK6"
+      },
+      "artists": [
+        {
+          "name": "Bobby \"Blue\" Bland",
+          "url": "https://open.spotify.com/artist/48nwxUvPJZkm8uPa7xMzmj"
+        }
+      ],
+      "duration_ms": 160893,
+      "name": "I Pity The Fool",
+      "url": "https://open.spotify.com/track/5sNhJi3tY90NDSXvnRyElL"
+    },
+    {
+      "added_at": "2022-08-18 11:31:06",
+      "album": {
+        "name": "Hate To See You Go",
+        "url": "https://open.spotify.com/album/7KZt4TYZm8A4tN1hqQpLRI"
+      },
+      "artists": [
+        {
+          "name": "Little Walter",
+          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
+        }
+      ],
+      "duration_ms": 163813,
+      "name": "Key To The Highway",
+      "url": "https://open.spotify.com/track/4E3Q2DOynwgP3VwBFf59kL"
+    },
+    {
+      "added_at": "2022-08-18 11:31:06",
+      "album": {
+        "name": "Moanin' In The Moonlight",
+        "url": "https://open.spotify.com/album/76MT4lqzC1oSvSYnHHjMam"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Forty Four",
+      "url": "https://open.spotify.com/track/02Ub2Xv4Vs3UEthDciGPvq"
     },
     {
       "added_at": "2022-08-18 11:31:06",
@@ -715,6 +731,22 @@
     {
       "added_at": "2022-08-18 11:31:06",
       "album": {
+        "name": "Getting Ready... (World)",
+        "url": "https://open.spotify.com/album/2bNjljctm6ynfp9Xzdy7RI"
+      },
+      "artists": [
+        {
+          "name": "Freddie King",
+          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
+        }
+      ],
+      "duration_ms": 172866,
+      "name": "Worried Life Blues",
+      "url": "https://open.spotify.com/track/7HIBn41u0vLwDlJKjp8Nmk"
+    },
+    {
+      "added_at": "2022-08-18 11:31:06",
+      "album": {
         "name": "Singin' The Blues",
         "url": "https://open.spotify.com/album/0w6Gt4SUI5AduJvcXetxun"
       },
@@ -727,22 +759,6 @@
       "duration_ms": 169706,
       "name": "Everyday I Have The Blues",
       "url": "https://open.spotify.com/track/6MrLjEmXy9IAPAX1mAKySE"
-    },
-    {
-      "added_at": "2022-08-18 11:31:06",
-      "album": {
-        "name": "Hate To See You Go",
-        "url": "https://open.spotify.com/album/7KZt4TYZm8A4tN1hqQpLRI"
-      },
-      "artists": [
-        {
-          "name": "Little Walter",
-          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
-        }
-      ],
-      "duration_ms": 163813,
-      "name": "Key To The Highway",
-      "url": "https://open.spotify.com/track/4E3Q2DOynwgP3VwBFf59kL"
     },
     {
       "added_at": "2022-08-18 11:31:06",
@@ -763,22 +779,6 @@
       "duration_ms": 173160,
       "name": "Trouble In Mind",
       "url": "https://open.spotify.com/track/5PQAAHui3NDnxW1wm7blIz"
-    },
-    {
-      "added_at": "2022-08-18 11:31:06",
-      "album": {
-        "name": "Getting Ready... (World)",
-        "url": "https://open.spotify.com/album/2bNjljctm6ynfp9Xzdy7RI"
-      },
-      "artists": [
-        {
-          "name": "Freddie King",
-          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
-        }
-      ],
-      "duration_ms": 172866,
-      "name": "Worried Life Blues",
-      "url": "https://open.spotify.com/track/7HIBn41u0vLwDlJKjp8Nmk"
     },
     {
       "added_at": "2022-08-18 11:31:06",
@@ -815,34 +815,34 @@
     {
       "added_at": "2022-08-18 11:31:06",
       "album": {
-        "name": "The Anthology",
-        "url": "https://open.spotify.com/album/5pXSSHIS0f6WnV9dQa5NwM"
+        "name": "The Essential Little Walter",
+        "url": "https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc"
       },
       "artists": [
         {
-          "name": "Bobby \"Blue\" Bland",
-          "url": "https://open.spotify.com/artist/48nwxUvPJZkm8uPa7xMzmj"
+          "name": "Little Walter",
+          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
         }
       ],
-      "duration_ms": 206933,
-      "name": "Driftin' Blues",
-      "url": "https://open.spotify.com/track/6NjhuVXxEjSsJRqKhVEdFv"
+      "duration_ms": 175466,
+      "name": "Mean Old World",
+      "url": "https://open.spotify.com/track/4Eqa2PFcVgCWjBlj2Xw8wN"
     },
     {
       "added_at": "2022-08-18 11:31:06",
       "album": {
-        "name": "Let 'em Roll",
-        "url": "https://open.spotify.com/album/6kgA83hCaAet4t4txHNh53"
+        "name": "One Kind Favor (Deluxe)",
+        "url": "https://open.spotify.com/album/1w11S8oiPNJk06p6TgFVNV"
       },
       "artists": [
         {
-          "name": "Hank Ballard",
-          "url": "https://open.spotify.com/artist/3R0XvRGDJEL5cGXVLiAbDB"
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
         }
       ],
-      "duration_ms": 151960,
-      "name": "Kansas City",
-      "url": "https://open.spotify.com/track/1I5p5nMwstb6SZNtQXaT7b"
+      "duration_ms": 216106,
+      "name": "Sitting On Top Of The World",
+      "url": "https://open.spotify.com/track/2YOgkdUHyhEFeYObo3pYHx"
     }
   ],
   "unique_name": "Blues Standards",

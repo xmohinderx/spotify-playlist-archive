@@ -4,7 +4,7 @@
 
 > Take down the tempo but keep the party going with the biggest tropical house jams.
 
-488 songs - 1 day 1 hr 45 min - [published](https://open.spotify.com/playlist/61FZjpXPJ3h6rXtpr3F0Jn)
+489 songs - 1 day 1 hr 48 min - [published](https://open.spotify.com/playlist/61FZjpXPJ3h6rXtpr3F0Jn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Cheerleader \- Felix Jaehn Remix Radio Edit](https://open.spotify.com/track/2XPc8gL9PwxGURQFcFaDJR) | [OMI](https://open.spotify.com/artist/5MouCg6ta7zAxsfMEbc1uh), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [Cheerleader \(Felix Jaehn Remix Radio Edit\)](https://open.spotify.com/album/3CDIhRuL5iaenmrd95W3Ym) | 3:01 | 2022-02-18 | 2022-04-02 |
 | [Chucks](https://open.spotify.com/track/2syb6g2gf1rj50CovNjtI6) | [Mi Casa](https://open.spotify.com/artist/6c7bGIcrxaMdYSn6htbHj0), [YouNotUs](https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH) | [Chucks](https://open.spotify.com/album/1NtBG3u5z3xHdvl3fYFaZW) | 2:49 | 2022-01-14 | 2022-05-07 |
 | [Cigarette](https://open.spotify.com/track/1CHCu0amoy86LUC8sIYoHG) | [Ljung](https://open.spotify.com/artist/67Tfj03cthIyRsQLHqwI3V), [Matt Wills](https://open.spotify.com/artist/5tECdXibmWAxONygvS9ktT) | [Cigarette](https://open.spotify.com/album/0EqUOfvQn6B93JIQFtSPhq) | 2:35 | 2022-04-15 |  |
+| [Circuit](https://open.spotify.com/track/6hfBnGdnANO21swBwkZl8c) | [Yann Muller](https://open.spotify.com/artist/41HOzTOe9JNerhym1HWxti), [Fex](https://open.spotify.com/artist/5R6neU5Q3eyHGXwDT6ZlMM), [Motik](https://open.spotify.com/artist/0bbGuJjcgH3cS4EyF8PhhX), [Adam Woods](https://open.spotify.com/artist/5hmV66qKLsAbAoJcnogGyc) | [Circuit](https://open.spotify.com/album/47Aowu0wG3r3eZt2bjM5ZS) | 3:01 | 2022-09-02 |  |
 | [City of Love](https://open.spotify.com/track/3Cg22mWYpcDrCLWsgTaUwk) | [Lonely in the Rain](https://open.spotify.com/artist/42KUul1wLmOdQCEYf3MweS), [Nounours](https://open.spotify.com/artist/6FrEkw1iC6ljhne96c7a46) | [City of Love](https://open.spotify.com/album/6VBal2Bi7nsqo6RnXsdqBt) | 2:59 | 2022-06-17 |  |
 | [Closer](https://open.spotify.com/track/19ZNrQarHpwz7Z5byyJ5RX) | [Junge Junge](https://open.spotify.com/artist/721T2PETMLaAkijbYu05VD), [sonofsteve](https://open.spotify.com/artist/199v8qPhMq3MGLfKsOgD2v) | [Closer](https://open.spotify.com/album/1bx8WwkS1fJ9znHX3sHV0r) | 3:11 | 2022-01-14 |  |
 | [Closer Every Day](https://open.spotify.com/track/7hIJzomtT5CgjwPHSFxHtC) | [Chris Malinchak](https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih), [Stealth](https://open.spotify.com/artist/6f3R3mqKR3kHp1KBNMUn80) | [Night Work](https://open.spotify.com/album/4HzRVctbnxNnZn9MZd7syD) | 3:32 | 2022-01-14 |  |
@@ -338,7 +339,7 @@
 | [Own the Night](https://open.spotify.com/track/0DHUariIorcAgunTr0GTy2) | [Tropixx](https://open.spotify.com/artist/4ys2PrxCuTjrYcU4mxtOSF), [Marcella Precise](https://open.spotify.com/artist/0ZR1QT9DoVMVyD9w6RzJS0) | [Own the Night](https://open.spotify.com/album/7bHsGrx65iJ4TQOA8MZViy) | 3:30 | 2022-01-14 | 2022-07-19 |
 | [Oxas](https://open.spotify.com/track/3Zg6kO3S4FQ0jMfTIgHzyl) | [GAMPER & DADONI](https://open.spotify.com/artist/6HQ6vf4AloXyVNdyJhrX1J), [De Hofnar](https://open.spotify.com/artist/1LFGVkNRmXz8jIkyPjaGNL) | [Oxas](https://open.spotify.com/album/0u8v6tjFwtiVkbt0MwqfrN) | 5:01 | 2022-01-14 |  |
 | [Pacific Coast](https://open.spotify.com/track/2NlmT21qfh9nohiaYkecRy) | [John Skyfield](https://open.spotify.com/artist/6G8Vv979uOK1e7ZBIX2rzp), [Shoby](https://open.spotify.com/artist/1VF2jmv5aWGszBtIVPt2fT), [Thunder](https://open.spotify.com/artist/0LnP8n2mREw2UvRL00TJqt) | [Pacific Coast](https://open.spotify.com/album/7LD54uSzY4Q6LfzSDQQezv) | 2:33 | 2022-01-14 | 2022-08-09 |
-| [Pacing](https://open.spotify.com/track/6cWZQNgaL8yLtezJvag9Y9) | [Tep No](https://open.spotify.com/artist/7MlotYZhHjOlXcvmwrITj8) | [Pacing](https://open.spotify.com/album/4JYJ6EUsCHzaTTmaUin4fP) | 3:56 | 2022-01-14 |  |
+| [Pacing](https://open.spotify.com/track/6cWZQNgaL8yLtezJvag9Y9) | [Tep No](https://open.spotify.com/artist/7MlotYZhHjOlXcvmwrITj8) | [Pacing](https://open.spotify.com/album/4JYJ6EUsCHzaTTmaUin4fP) | 3:56 | 2022-01-14 | 2022-09-06 |
 | [Panamalu](https://open.spotify.com/track/6RxxunHQUOtYojwJGDLB51) | [Fabio Carry](https://open.spotify.com/artist/4sPjRX7FKfMvfa5tPQC64C) | [Panamalu](https://open.spotify.com/album/3s8rlfuQO7p5TR7x3VLsTo) | 3:37 | 2022-01-14 | 2022-05-16 |
 | [Part of Me](https://open.spotify.com/track/7i6bGz9lcLzT1TA7Oi6rCC) | [LittleKings](https://open.spotify.com/artist/7pSOgeenBhBEN5a5yHzxIS), [Kreem](https://open.spotify.com/artist/1bJgqusUIvjC3XVlGcdLdD) | [Part of Me](https://open.spotify.com/album/1fqCw1wJoJltXN65GhcxZc) | 3:18 | 2022-04-01 | 2022-04-16 |
 | [Perfect Strangers](https://open.spotify.com/track/1Te8WIfLudxjHTr66BL0JK) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Perfect Strangers](https://open.spotify.com/album/3unvtEoEI6Ga2FMKotI20p) | 3:16 | 2022-04-01 | 2022-04-19 |

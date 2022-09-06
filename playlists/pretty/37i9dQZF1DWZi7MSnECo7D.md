@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 
 > Novidades e destaques do indie nacional\. Foto: Duda In The Sky
 
-[Spotify](https://open.spotify.com/user/spotify) - 402,890 likes - 88 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 402,941 likes - 88 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [pra perto de mim](https://open.spotify.com/track/0qEEoCPxNgQjXtwQB4AeNe) | [Duda In The Sky](https://open.spotify.com/artist/7JMMxGGAQVHUU3KAGHVUFu) | [tres](https://open.spotify.com/album/7LGefeRWzqVdHgdDC4GgGh) | 3:12 |
 | 2 | [Alice](https://open.spotify.com/track/1Mt9t8HeHtqXFktUYATbdS) | [kamaitachi](https://open.spotify.com/artist/1ISc8zhrqxd5WrJMkMMLSm) | [Alice](https://open.spotify.com/album/1t8mCGvgHxiPqpw0ldQ5DF) | 3:25 |
 | 3 | [Não Fosse Tão Tarde](https://open.spotify.com/track/1KHWBJTX7apuuYsEmqZLa8) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov) | [Não Fosse Tão Tarde](https://open.spotify.com/album/29k7p5Pj0CJbXL3chFwPIP) | 3:25 |
-| 4 | [Amorosidade](https://open.spotify.com/track/14fslogHelQdWdRpo6jLuW) | [Vanguart](https://open.spotify.com/artist/0rexWKb4rBwWS07SoHqsX0) | [Amorosidade](https://open.spotify.com/album/4BqXa4MSi963DMf41RfS4W) | 4:05 |
-| 5 | [Exagero](https://open.spotify.com/track/0lvZo386v7BoE7g92gTykf) | [sofi frozza](https://open.spotify.com/artist/7ycozuv4AEKRZ85WLz6tEy) | [Exagero](https://open.spotify.com/album/67lL8yGJt7As3rF1lUlukn) | 3:44 |
-| 6 | [Mal Danado](https://open.spotify.com/track/1TSa8S8pBm12iLDfRIwMRS) | [Analaga](https://open.spotify.com/artist/4LTPxLxjiT5pzYd5WZAR3v), [Distoppia](https://open.spotify.com/artist/7jGGTo263KTF3iF7ry7ee6) | [Mal Danado](https://open.spotify.com/album/7JBJUrjXVVn2cmCRrW6fL5) | 3:07 |
-| 7 | [Bolero](https://open.spotify.com/track/3OkBD3fUCvAR8PKC14n1av) | [Andrea Martins](https://open.spotify.com/artist/60Qv0Cy0hpcfkHcYI13kxG) | [Bolero](https://open.spotify.com/album/1vFlWGmTgzSQmoviObW7iY) | 3:57 |
-| 8 | [Revés De Tudo](https://open.spotify.com/track/5gXCL3ne8NsLNKuiyN3jRm) | [Maglore](https://open.spotify.com/artist/24me6m3bV7l2rnUwaXV0Tj) | [V](https://open.spotify.com/album/6bQw2aNY06eokyQwc2IaK4) | 4:21 |
-| 9 | [Bateria Social](https://open.spotify.com/track/1wicDKdH62DL55tNHK9PhA) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov) | [Bateria Social](https://open.spotify.com/album/4jKJMo24vOWI38n5jJrR8S) | 2:59 |
-| 10 | [Canto Pra Você Voltar](https://open.spotify.com/track/4Y6QBWomomnfNGg6m4yPCF) | [Os Fugitivos](https://open.spotify.com/artist/0JCwkTQqtgVQXBRxwEloEg), [Unidade Nova Praia](https://open.spotify.com/artist/1Onj9Nq0eoWQ1SOdxFJksp) | [Canto Pra Você Voltar](https://open.spotify.com/album/4MXGRPM9GtIqNHOYlVhsSi) | 3:58 |
-| 11 | [O Treco](https://open.spotify.com/track/6Wm2WXD8wzTAUmhV3ApGaX) | [kamaitachi](https://open.spotify.com/artist/1ISc8zhrqxd5WrJMkMMLSm) | [O Treco](https://open.spotify.com/album/2GocsqkouIMlVXmEZxofp2) | 4:20 |
+| 4 | [Exagero](https://open.spotify.com/track/0lvZo386v7BoE7g92gTykf) | [sofi frozza](https://open.spotify.com/artist/7ycozuv4AEKRZ85WLz6tEy) | [Exagero](https://open.spotify.com/album/67lL8yGJt7As3rF1lUlukn) | 3:44 |
+| 5 | [Amorosidade](https://open.spotify.com/track/14fslogHelQdWdRpo6jLuW) | [Vanguart](https://open.spotify.com/artist/0rexWKb4rBwWS07SoHqsX0) | [Amorosidade](https://open.spotify.com/album/4BqXa4MSi963DMf41RfS4W) | 4:05 |
+| 6 | [Bateria Social](https://open.spotify.com/track/1wicDKdH62DL55tNHK9PhA) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov) | [Bateria Social](https://open.spotify.com/album/4jKJMo24vOWI38n5jJrR8S) | 2:59 |
+| 7 | [O Treco](https://open.spotify.com/track/6Wm2WXD8wzTAUmhV3ApGaX) | [kamaitachi](https://open.spotify.com/artist/1ISc8zhrqxd5WrJMkMMLSm) | [O Treco](https://open.spotify.com/album/2GocsqkouIMlVXmEZxofp2) | 4:20 |
+| 8 | [Mal Danado](https://open.spotify.com/track/1TSa8S8pBm12iLDfRIwMRS) | [Analaga](https://open.spotify.com/artist/4LTPxLxjiT5pzYd5WZAR3v), [Distoppia](https://open.spotify.com/artist/7jGGTo263KTF3iF7ry7ee6) | [Mal Danado](https://open.spotify.com/album/7JBJUrjXVVn2cmCRrW6fL5) | 3:07 |
+| 9 | [Bolero](https://open.spotify.com/track/3OkBD3fUCvAR8PKC14n1av) | [Andrea Martins](https://open.spotify.com/artist/60Qv0Cy0hpcfkHcYI13kxG) | [Bolero](https://open.spotify.com/album/1vFlWGmTgzSQmoviObW7iY) | 3:57 |
+| 10 | [Revés De Tudo](https://open.spotify.com/track/5gXCL3ne8NsLNKuiyN3jRm) | [Maglore](https://open.spotify.com/artist/24me6m3bV7l2rnUwaXV0Tj) | [V](https://open.spotify.com/album/6bQw2aNY06eokyQwc2IaK4) | 4:21 |
+| 11 | [Canto Pra Você Voltar](https://open.spotify.com/track/4Y6QBWomomnfNGg6m4yPCF) | [Os Fugitivos](https://open.spotify.com/artist/0JCwkTQqtgVQXBRxwEloEg), [Unidade Nova Praia](https://open.spotify.com/artist/1Onj9Nq0eoWQ1SOdxFJksp) | [Canto Pra Você Voltar](https://open.spotify.com/album/4MXGRPM9GtIqNHOYlVhsSi) | 3:58 |
 | 12 | [bom ator](https://open.spotify.com/track/6VrkNbCZW82ptUYPWV99sA) | [Number Teddie](https://open.spotify.com/artist/18TympJ9X4CQ45GYy7sORT), [Cleo](https://open.spotify.com/artist/0Re3qA28AJh2eIITpbREtx) | [PODERIA SER PIOR](https://open.spotify.com/album/5N0xGpXhbba4Io7PAU3MwK) | 2:21 |
 | 13 | [Certificar](https://open.spotify.com/track/39iKqBJvPwW3HspCErgLSc) | [Marcelo Tofani](https://open.spotify.com/artist/59EQw7iHjbElOkznITe43m) | [Certificar](https://open.spotify.com/album/4OOrg2MvhCdEoAbsvyg6yp) | 2:50 |
 | 14 | [Ideia Errada](https://open.spotify.com/track/0Rhho7mWTiqJ0Yl4Qs0wNZ) | [Cigana](https://open.spotify.com/artist/5tV6Fk6pRBJIEi232T3IOL) | [Ideia Errada](https://open.spotify.com/album/1eefaivkaBR83Ni4R9y6sR) | 3:59 |
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 | 87 | [Maquiada](https://open.spotify.com/track/6r4ow3Hjow2Tx07b12ejlP) | [João Cortez](https://open.spotify.com/artist/53RdXNH4yHV9BGrbMPkmc3), [Olivier](https://open.spotify.com/artist/4UAqN2U4TLaw2XiSwkcm9y), [Erraudo](https://open.spotify.com/artist/3WMrwahbAyOHX1BN54smJ0) | [Maquiada](https://open.spotify.com/album/7ELgVDiXijxfvkv4zdlII0) | 2:56 |
 | 88 | [a gente não tem nada a ver](https://open.spotify.com/track/5nb12r6ybXzM0rtBuqjwq3) | [belina](https://open.spotify.com/artist/3WhJVsZAzkUvuUQt2UycMg) | [a gente não tem nada a ver](https://open.spotify.com/album/5AQ9zGD6JEYYyY0lMzBNK8) | 4:02 |
 
-Snapshot ID: `MTY2MjA4NzYwMCwwMDAwMDAwMDQzN2M2NTQ3NGE3YWZiYWNkYzgwODMxZjA1YTM1NGQz`
+Snapshot ID: `MTY2MjM4NDYxMCwwMDAwMDAwMGQyNGFiNGExZDRkZjZjODY1NGQ1NjQ2ZGM4MWYzYzYy`

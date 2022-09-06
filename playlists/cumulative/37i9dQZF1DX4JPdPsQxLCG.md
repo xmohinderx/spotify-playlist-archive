@@ -4,7 +4,7 @@
 
 > Classic tunes to soundtrack your weekend\. Cover: The Tragically Hip
 
-223 songs - 15 hr 2 min - [published](https://open.spotify.com/playlist/53dtueIOJq1n4EVVrLjqp4)
+224 songs - 15 hr 6 min - [published](https://open.spotify.com/playlist/53dtueIOJq1n4EVVrLjqp4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,7 +201,7 @@
 | [The Spirit Of Radio](https://open.spotify.com/track/4pmNJH9lNCh9Qp88L2CRJU) | [Rush](https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq) | [Permanent Waves](https://open.spotify.com/album/1kz2QkH5rsqGVvKSlAPwzr) | 4:59 | 2022-05-02 | 2022-07-29 |
 | [The Weight \- Remastered 2000](https://open.spotify.com/track/0P7DoyGrr4Wp9w5TotEtUC) | [The Band](https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA) | [Music From Big Pink \(Remastered\)](https://open.spotify.com/album/0ky5kdvfPxSmSpj03hpSAE) | 4:34 | 2022-05-02 |  |
 | [This Beat Goes On](https://open.spotify.com/track/4FFS8h9kIgw6I6akMjatUK) | [The Kings](https://open.spotify.com/artist/6555ocN2C4hPD1wntJtEZK) | [The Kings Are Here](https://open.spotify.com/album/1DVbtOJR1fq5M8VwVvlSvr) | 3:07 | 2022-05-02 | 2022-07-29 |
-| [This Is The Best](https://open.spotify.com/track/115KZPZJl659G5Z9uO9eFv) | [USS \(Ubiquitous Synergy Seeker\)](https://open.spotify.com/artist/2gWNtwxO5mOAmjE8EWw2qt) | [Advanced Basics](https://open.spotify.com/album/4B2jj8rvqdhZLuT97SkDtY) | 2:57 | 2022-05-02 |  |
+| [This Is The Best](https://open.spotify.com/track/115KZPZJl659G5Z9uO9eFv) | [USS \(Ubiquitous Synergy Seeker\)](https://open.spotify.com/artist/2gWNtwxO5mOAmjE8EWw2qt) | [Advanced Basics](https://open.spotify.com/album/4B2jj8rvqdhZLuT97SkDtY) | 2:57 | 2022-05-02 | 2022-09-06 |
 | [Tom Sawyer](https://open.spotify.com/track/3QZ7uX97s82HFYSmQUAN1D) | [Rush](https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq) | [Moving Pictures \(2011 Remaster\)](https://open.spotify.com/album/2xg7iIKoSqaDNpDbJnyCjY) | 4:36 | 2022-05-02 |  |
 | [Tom Sawyer](https://open.spotify.com/track/1MkoCFGbhPQIDI5lRdAheQ) | [Rush](https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq) | [Moving Pictures \(2011 Remaster\)](https://open.spotify.com/album/3yBAvj1wgPEFbnUdgihqlR) | 4:36 | 2022-05-02 | 2022-07-29 |
 | [Turn Me Loose](https://open.spotify.com/track/2Z81PDDYNMTxZKiU2XIuFx) | [Loverboy](https://open.spotify.com/artist/2CLVPk9FcywjClBcTvWPkT) | [Loverboy](https://open.spotify.com/album/3dDzAVWr5gjvJIOTEuS309) | 5:37 | 2022-05-02 |  |
@@ -217,6 +217,7 @@
 | [Whatcha Do to My Body](https://open.spotify.com/track/4RLVEYuakmAD5cQljfLMpD) | [Lee Aaron](https://open.spotify.com/artist/6othYuSBXua4Mx2EW0S67p) | [Bodyrock](https://open.spotify.com/album/5pYDKnclLkz1rs8AE4DxyP) | 4:43 | 2022-05-02 | 2022-07-26 |
 | [Wheat Kings](https://open.spotify.com/track/6s7xf54h0BGyohJHlgMj2J) | [The Tragically Hip](https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0) | [Yer Favourites](https://open.spotify.com/album/6tcv9H1TNubc9o0gy2eIAG) | 4:19 | 2022-05-02 |  |
 | [When the Night Feels My Song](https://open.spotify.com/track/18WtHi9VNpl78API5zsgEX) | [Bedouin Soundclash](https://open.spotify.com/artist/2Au2mS47rMRkqbU4XJqKMh) | [Sounding a Mosaic](https://open.spotify.com/album/42iSe586UyMdP0k3SP8yBh) | 3:07 | 2022-05-02 | 2022-07-29 |
+| [When the Night Feels My Song](https://open.spotify.com/track/5qMc9XB0lALs9VnQmY5qFv) | [Bedouin Soundclash](https://open.spotify.com/artist/2Au2mS47rMRkqbU4XJqKMh) | [Sounding a Mosaic](https://open.spotify.com/album/0AhsJ8sWpUbBJUQRXtR1NE) | 3:07 | 2022-05-02 |  |
 | [Where Have All The Good People Gone?](https://open.spotify.com/track/2eLkQvmXz51UKmBIKlFPWb) | [Sam Roberts Band](https://open.spotify.com/artist/09XH90DXG8hru6NN96GbA0) | [We Were Born In A Flame](https://open.spotify.com/album/3AoWVHZuuu68ZVOy1R55l9) | 4:22 | 2022-05-02 | 2022-07-29 |
 | [Wondering Where The Lions Are](https://open.spotify.com/track/0v1lnGbN08YjocXp3SvJXP) | [Bruce Cockburn](https://open.spotify.com/artist/4sh4MHP7lhrSUakxwZzwqz) | [Waiting For A Miracle](https://open.spotify.com/album/5LY3NOVnOe2H5jcZ3FFIG2) | 3:43 | 2022-05-02 |  |
 | [Wondering Where The Lions Are](https://open.spotify.com/track/0Nn4H46gZGsc5agUTWcaiY) | [Bruce Cockburn](https://open.spotify.com/artist/4sh4MHP7lhrSUakxwZzwqz) | [Dancing In The Dragon's Jaws \(Deluxe Edition\)](https://open.spotify.com/album/6S11OTFA43xOYJoORsUyCu) | 3:47 | 2022-05-02 | 2022-07-29 |

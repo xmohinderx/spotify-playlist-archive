@@ -1,12 +1,12 @@
 {
   "description": "Extra vicious, hard-hitting pop.  This is SALT.  Cover: Demi Lovato",
-  "num_followers": 296575,
+  "num_followers": 296746,
   "original_name": "SALT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjA5MTIwMCwwMDAwMDAwMDA2NjI5YWZmNjFkZDNiYjIyNjYxMDdjN2QxZjA0ODA1",
+  "snapshot_id": "MTY2MjM4ODY3MiwwMDAwMDAwMGE2NmUyNjc2NTlmZjQwNGFmYWFiMmU5NWM4YmViMGVi",
   "tracks": [
     {
       "added_at": "2022-08-19 04:01:00",
@@ -39,6 +39,22 @@
       "duration_ms": 163027,
       "name": "29",
       "url": "https://open.spotify.com/track/35GQVy9TgNSRFQRTlr0e7m"
+    },
+    {
+      "added_at": "2022-09-05 14:37:52",
+      "album": {
+        "name": "can't get laid",
+        "url": "https://open.spotify.com/album/43r40totUGXyIiUH0OE0iI"
+      },
+      "artists": [
+        {
+          "name": "bella amor",
+          "url": "https://open.spotify.com/artist/0YHLS3lTpmblVqI74qAz6M"
+        }
+      ],
+      "duration_ms": 174315,
+      "name": "can't get laid",
+      "url": "https://open.spotify.com/track/3GyLZPZlnVteR6NpvPAJq7"
     },
     {
       "added_at": "2022-06-24 04:00:00",
@@ -151,6 +167,22 @@
       "duration_ms": 186964,
       "name": "Pink Venom",
       "url": "https://open.spotify.com/track/0skYUMpS0AcbpjcGsAbRGj"
+    },
+    {
+      "added_at": "2022-05-13 04:01:00",
+      "album": {
+        "name": "Love Me Till U Hate Me",
+        "url": "https://open.spotify.com/album/6OB6AKoC7SXypIT5j8mViB"
+      },
+      "artists": [
+        {
+          "name": "Niko Rubio",
+          "url": "https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa"
+        }
+      ],
+      "duration_ms": 212520,
+      "name": "Love Me Till U Hate Me",
+      "url": "https://open.spotify.com/track/0f72jNvO6UORzL8J51jPIW"
     },
     {
       "added_at": "2022-09-02 04:00:00",
@@ -1043,38 +1075,6 @@
       "duration_ms": 164659,
       "name": "Throw Up When I See Your Face",
       "url": "https://open.spotify.com/track/0ekxDJsWszWXZq2R3BXzUB"
-    },
-    {
-      "added_at": "2022-05-13 04:01:00",
-      "album": {
-        "name": "Love Me Till U Hate Me",
-        "url": "https://open.spotify.com/album/6OB6AKoC7SXypIT5j8mViB"
-      },
-      "artists": [
-        {
-          "name": "Niko Rubio",
-          "url": "https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa"
-        }
-      ],
-      "duration_ms": 212520,
-      "name": "Love Me Till U Hate Me",
-      "url": "https://open.spotify.com/track/0f72jNvO6UORzL8J51jPIW"
-    },
-    {
-      "added_at": "2022-04-22 14:47:54",
-      "album": {
-        "name": "Psychopath",
-        "url": "https://open.spotify.com/album/306xhPeWyo9hurUtAbp19u"
-      },
-      "artists": [
-        {
-          "name": "Tomine Harket",
-          "url": "https://open.spotify.com/artist/6064pL9Hu3Wx2bwJMeOx6o"
-        }
-      ],
-      "duration_ms": 120877,
-      "name": "Psychopath",
-      "url": "https://open.spotify.com/track/2muY007Tkz4pMR9L15jlJL"
     },
     {
       "added_at": "2022-04-08 04:00:00",

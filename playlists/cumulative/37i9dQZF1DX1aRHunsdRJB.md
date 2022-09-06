@@ -4,7 +4,7 @@
 
 > A playlist driven from the islands, take the front seat as Soca meets Bashment
 
-100 songs - 5 hr 0 min - [published](https://open.spotify.com/playlist/21ZJXOfGM4gKgydddrz1Vq)
+101 songs - 5 hr 3 min - [published](https://open.spotify.com/playlist/21ZJXOfGM4gKgydddrz1Vq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [I Wish \- Raw](https://open.spotify.com/track/2U110D3cv4pWCi04QMQcF1) | [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK) | [I Wish](https://open.spotify.com/album/7KUycbr4gbHJnpW4RmoC2B) | 2:55 | 2022-02-24 | 2022-07-29 |
 | [Issa Snack](https://open.spotify.com/track/5YpSruBBOaIHNGu5aNDeT9) | [Travis World](https://open.spotify.com/artist/5AVAzwpIu9f3H1oegupPCd), [Nessa Preppy](https://open.spotify.com/artist/17pN02mO1kZSkaic9K3ipT) | [Do This Riddim](https://open.spotify.com/album/1cvkRbxgIbpekbmOoxbrYh) | 3:03 | 2020-09-25 |  |
 | [It Ain't Me](https://open.spotify.com/track/4VCNJoI3aRQevBrvu6WRIo) | [Lil Rick](https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0) | [Soca Gold 2020](https://open.spotify.com/album/6n7s47MvtPNdP5l4IxVVKH) | 2:22 | 2020-09-25 | 2022-07-29 |
+| [Kiss](https://open.spotify.com/track/0MaI2ZRUC1atONjvt5Jr6T) | [Nadia Batson](https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t), [Team Foxx](https://open.spotify.com/artist/0QY1Fzl4cIbO14opQB8AyM) | [Toatin Riddim](https://open.spotify.com/album/4LL4JVrNQbmu7pQixAEPyv) | 2:31 | 2022-02-24 |  |
 | [Kiss](https://open.spotify.com/track/0MxxWHbOpqdF9f1O9jCw8L) | [Nadia Batson](https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t), [Team Foxx](https://open.spotify.com/artist/0QY1Fzl4cIbO14opQB8AyM) | [Toatin Riddim](https://open.spotify.com/album/7aBnHH25YAEGR3y2tuEfDv) | 2:31 | 2020-09-25 | 2022-07-28 |
 | [Like Dat](https://open.spotify.com/track/3yKQU0uEWv6ulIKpXDLaip) | [DJ Spider](https://open.spotify.com/artist/4IIKLm6H0rXxvn6DWNhWcq), [Klassik Frescobar](https://open.spotify.com/artist/2kEIOdyvN8XjC6UqysNWJ4) | [Arch & Bend Riddim Reloaded](https://open.spotify.com/album/5l7lnLGSa1TFfpKQioDPI0) | 2:16 | 2022-02-24 |  |
 | [Lookin' for China](https://open.spotify.com/track/1wgE3JnAq2PByF9dGeQPSw) | [Bunji Garlin](https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54) | [Lookin' for China](https://open.spotify.com/album/6md8CnJ0pfv57rx9QFhdK4) | 3:08 | 2020-09-25 | 2022-07-25 |
@@ -102,7 +103,7 @@
 | [Wileside Government](https://open.spotify.com/track/7JrgCxdl0C7PlbfOG98x0N) | [Jahvillani](https://open.spotify.com/artist/40vpvFOIfRil2lXkK5GrTK) | [Wileside Government](https://open.spotify.com/album/10XhKqbnvtoGiAH7kCOXjO) | 3:22 | 2020-09-25 |  |
 | [Wine](https://open.spotify.com/track/2gWT6JsauOrGYR1jForaRQ) | [Charly Black](https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or) | [Toco Loco Riddim](https://open.spotify.com/album/2ob3YAOPzGhkHbj9JjIq7R) | 3:04 | 2020-09-25 |  |
 | [Wine Um Down](https://open.spotify.com/track/50Q2pYp0Kd8dFFAGvvsHDM) | [Lil Rick](https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0) | [Lil Rick HD & Friends](https://open.spotify.com/album/4NkaIWh2F7u6nTRvK5UFVb) | 2:41 | 2020-09-25 | 2022-07-11 |
-| [Work](https://open.spotify.com/track/3D8nJQQJ6JGRDNUl3HeT3T) | [Lil Rick](https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0) | [Soca Gold 2012](https://open.spotify.com/album/5JziDSTQ399rrYnzzphTF0) | 3:02 | 2020-09-25 |  |
+| [Work](https://open.spotify.com/track/3D8nJQQJ6JGRDNUl3HeT3T) | [Lil Rick](https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0) | [Soca Gold 2012](https://open.spotify.com/album/5JziDSTQ399rrYnzzphTF0) | 3:02 | 2020-09-25 | 2022-09-06 |
 | [Wotless](https://open.spotify.com/track/6G6dpFTQdc4K9WCdrcZFTr) | [KES the Band](https://open.spotify.com/artist/1dghdU4VhWh2b4BMf3scHH) | [Wotless Carnival Album](https://open.spotify.com/album/6dshwirRnKoFDCC9VQJhTr) | 3:38 | 2020-09-25 |  |
 | [Wrong Again](https://open.spotify.com/track/3TVWXE8hUeSzoAC3xCrErX) | [Skinny Banton](https://open.spotify.com/artist/17mmOxzEgy1HQsEhsXvcO6) | [Wrong Again](https://open.spotify.com/album/45cwc8M8DQrrAcfjTDog4b) | 2:46 | 2020-09-25 |  |
 | [Wuk](https://open.spotify.com/track/2VXMyL4WDM637ZQn4K2Vhl) | [DJ Spider](https://open.spotify.com/artist/4IIKLm6H0rXxvn6DWNhWcq), [Sir Fingaz](https://open.spotify.com/artist/64LrJCEMV2Ft7yP6YvD7GU), [Marzville](https://open.spotify.com/artist/0EW8oVadcmlxZevZFlPm9P) | [Jollof Rice Riddim](https://open.spotify.com/album/1c6DgJzugdjJyiJ2zE25yx) | 3:01 | 2020-09-25 |  |

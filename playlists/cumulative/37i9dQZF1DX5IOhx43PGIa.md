@@ -4,7 +4,7 @@
 
 > Illuminating Asian artists everywhere\. Cover: NIKI.
 
-271 songs - 14 hr 11 min - [published](https://open.spotify.com/playlist/5NyuBYmYOJuxQT3ZVKo7pG)
+272 songs - 14 hr 15 min - [published](https://open.spotify.com/playlist/5NyuBYmYOJuxQT3ZVKo7pG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,10 +107,11 @@
 | [grateful](https://open.spotify.com/track/7mMzlK2pYVbgkUL1zaGGyV) | [dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [rapunzel](https://open.spotify.com/album/305fd6KSKY40Yjgwvm2ck6) | 4:01 | 2022-05-27 |  |
 | [Have We Met Before \(with Eric Nam\)](https://open.spotify.com/track/7eCpXVlWnTVEE8twb3P8m5) | [Sarah Barrios](https://open.spotify.com/artist/0HJsX1aTdgG1VDIRDiseSJ), [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [Have We Met Before \(with Eric Nam\)](https://open.spotify.com/album/3CugoYr2fheAKsUkc4wsVo) | 2:38 | 2022-05-27 |  |
 | [Healing House](https://open.spotify.com/track/2DTOne6ZiLt8ZCtXS9VG97) | [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6) | [Healing House](https://open.spotify.com/album/0ET9XtVsVTzx2yLIXwoPRk) | 3:47 | 2022-07-15 |  |
+| [HEAVEN'S GATES \(feat\. Izzy Camina\) \- Manila Killa Remix](https://open.spotify.com/track/0jT25u5GLiQtqX8k25Rjup) | [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL), [Izzy Camina](https://open.spotify.com/artist/1bEvuUxdYlGYGq5WvDAE1u), [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN) | [HEAVEN'S GATES \(feat\. Izzy Camina\) \[Manila Killa Remix\]](https://open.spotify.com/album/6VjleRIJlteuD8bd63EjN7) | 4:00 | 2022-09-02 |  |
 | [Heavy Artillery](https://open.spotify.com/track/1fOTrpMIas2nZYzH6o56n7) | [Anik Khan](https://open.spotify.com/artist/23bSD5t38m4d6k8jtlZGDa), [Nesta](https://open.spotify.com/artist/0TWVX68OyQscge2TZzChPx) | [Spotify Singles](https://open.spotify.com/album/3yT5FrnQO9bsfaNOD7UygD) | 2:21 | 2022-05-27 | 2022-07-08 |
 | [Hello 2.0 \(Legends Only\) \[feat\. ØZI\]](https://open.spotify.com/track/2RKSmt3Dv1d4JFDr55LbWg) | [James Reid](https://open.spotify.com/artist/24fEOzlKhgSNLIcy9NdmwH), [Transparent Arts](https://open.spotify.com/artist/1F9TDeezTpFqrwPkn1S8qW), [JAY B](https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT), [ØZI](https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD) | [Hello 2.0 \(Legends Only\) \[feat\. ØZI\]](https://open.spotify.com/album/7BtzeGPG9d8xWHM5WUlNmZ) | 3:50 | 2022-05-27 |  |
 | [HERO JOURNEY](https://open.spotify.com/track/6wvCOyMGMYSUfRQkQf3v25) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx), [Superorganism](https://open.spotify.com/artist/0Wkm45quqfx3NepJpXDvwE) | [HERO JOURNEY](https://open.spotify.com/album/42zAFph6t4rfdgHlm7fZSG) | 1:54 | 2022-07-22 | 2022-07-28 |
-| [HERO JOURNEY \(feat\. Superorganism\)](https://open.spotify.com/track/5wsZVRGMRA4ZzMStNKxcK2) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx), [Superorganism](https://open.spotify.com/artist/0Wkm45quqfx3NepJpXDvwE) | [HERO JOURNEY \(feat\. Superorganism\)](https://open.spotify.com/album/3dbLBkeSvzwDE5tVt662sZ) | 1:54 | 2022-07-22 |  |
+| [HERO JOURNEY \(feat\. Superorganism\)](https://open.spotify.com/track/5wsZVRGMRA4ZzMStNKxcK2) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx), [Superorganism](https://open.spotify.com/artist/0Wkm45quqfx3NepJpXDvwE) | [HERO JOURNEY \(feat\. Superorganism\)](https://open.spotify.com/album/3dbLBkeSvzwDE5tVt662sZ) | 1:54 | 2022-07-22 | 2022-09-06 |
 | [HIDE & SICK](https://open.spotify.com/track/5cRbsnOSpH72PKIinDLzfD) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [HIDE & SICK](https://open.spotify.com/album/6iNdLokKROwqKnHtgOt3bO) | 3:25 | 2022-05-27 |  |
 | [High School in Jakarta](https://open.spotify.com/track/5rbuv6zso7QSaKt265H3M3) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [High School in Jakarta](https://open.spotify.com/album/34zREEtZQOmQbqFU4cIQuT) | 3:39 | 2022-08-05 |  |
 | [holly's ego](https://open.spotify.com/track/4Xu8VjkVCix7ypRJWW5OQZ) | [slchld](https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O) | [blood lotus diary](https://open.spotify.com/album/4T5JLOW9gRpehumgIQfzRK) | 3:16 | 2022-05-27 |  |

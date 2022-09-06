@@ -44,6 +44,42 @@
     },
     {
       "album": {
+        "name": "A Letter To B",
+        "url": "https://open.spotify.com/album/5BJ0vBIxCCvXcaV6n3VSnQ"
+      },
+      "artists": [
+        {
+          "name": "Parc Jae Jung",
+          "url": "https://open.spotify.com/artist/7kXQtwn3ZRTBc8JYNyGwQy"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327533,
+      "name": "A Letter To B",
+      "url": "https://open.spotify.com/track/2KXagyxE1urrShPGdOXkum"
+    },
+    {
+      "album": {
+        "name": "ALARM",
+        "url": "https://open.spotify.com/album/4eW3NKZ1foDDZXR1Z39EaQ"
+      },
+      "artists": [
+        {
+          "name": "SAAY",
+          "url": "https://open.spotify.com/artist/2pvCf5g7XBReiPIvcq7W18"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203666,
+      "name": "ALARM",
+      "url": "https://open.spotify.com/track/6b44AK3LX4Umv2e3Q6enC8"
+    },
+    {
+      "album": {
         "name": "Into The Light",
         "url": "https://open.spotify.com/album/5HYN8soZop2qOtyuUnTobz"
       },
@@ -77,7 +113,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-06",
       "duration_ms": 157333,
       "name": "All Beginning (Feat. J.O.Y)",
       "url": "https://open.spotify.com/track/0cF3kJkzLd8dUe96nJ6gdB"
@@ -146,6 +182,24 @@
     },
     {
       "album": {
+        "name": "Empty Dream",
+        "url": "https://open.spotify.com/album/4p7PYX4KE5tzPO5MLaZkFK"
+      },
+      "artists": [
+        {
+          "name": "KIM JAE HWAN",
+          "url": "https://open.spotify.com/artist/7LdZwtnhfB1GoC9SE9tvyb"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220666,
+      "name": "BACK THEN",
+      "url": "https://open.spotify.com/track/7pJ7IYCWw89lzU67cExZTv"
+    },
+    {
+      "album": {
         "name": "Bad connection",
         "url": "https://open.spotify.com/album/3vcNF1tch0KPpcA2Y2i0Dh"
       },
@@ -175,7 +229,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-06",
       "duration_ms": 200460,
       "name": "Beautiful Night",
       "url": "https://open.spotify.com/track/6w5I5eJCuNSNa3FdEq4sfs"
@@ -915,7 +969,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-06",
       "duration_ms": 199093,
       "name": "FREAK",
       "url": "https://open.spotify.com/track/2oldaTAUfGvTXxPZVwvsyu"
@@ -1161,7 +1215,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-06",
       "duration_ms": 213600,
       "name": "January Embers",
       "url": "https://open.spotify.com/track/6PbP8bAjafVtCy6vDNvrb3"
@@ -1317,7 +1371,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-06",
       "duration_ms": 198013,
       "name": "Love in Bloom",
       "url": "https://open.spotify.com/track/5rUoH4RHLzlh8tOmzP1GWY"
@@ -1521,7 +1575,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-06",
       "duration_ms": 193411,
       "name": "Maybe We",
       "url": "https://open.spotify.com/track/1KWwXwgA8fsuKbuwsZiZxV"
@@ -1883,7 +1937,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-06",
       "duration_ms": 221136,
       "name": "POWER OF LOVE",
       "url": "https://open.spotify.com/track/37aWSOZ4Oihn2bfMiD5neP"
@@ -1984,6 +2038,24 @@
     },
     {
       "album": {
+        "name": "the Billage of perception: chapter two",
+        "url": "https://open.spotify.com/album/0NuM7kwh6u6fIRjn7Zh7Ss"
+      },
+      "artists": [
+        {
+          "name": "Billlie",
+          "url": "https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206717,
+      "name": "RING ma Bell (what a wonderful world)",
+      "url": "https://open.spotify.com/track/2b2Nibg3lTUTKctwwb7bEv"
+    },
+    {
+      "album": {
         "name": "Ring Ring",
         "url": "https://open.spotify.com/album/1IFwB37JXLhIh53bSBBMbI"
       },
@@ -2049,7 +2121,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-06",
       "duration_ms": 162203,
       "name": "Run up - Korean Version",
       "url": "https://open.spotify.com/track/43DWdbU4rz8IH0Kd33OHI3"
@@ -2071,6 +2143,24 @@
       "duration_ms": 213426,
       "name": "RUN2U",
       "url": "https://open.spotify.com/track/3gFcGnU4kTdMYLXDjH1TK8"
+    },
+    {
+      "album": {
+        "name": "MALUS",
+        "url": "https://open.spotify.com/album/5VlLXq5wH22O8D5hBYWqAp"
+      },
+      "artists": [
+        {
+          "name": "ONEUS",
+          "url": "https://open.spotify.com/artist/3CVYSpM7nfHFG5qCTW7Ht9"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192786,
+      "name": "Same Scent",
+      "url": "https://open.spotify.com/track/0eG3b2T3SXtPAhD9LLm8xA"
     },
     {
       "album": {
@@ -2146,6 +2236,40 @@
     },
     {
       "album": {
+        "name": "SEXY NUKIM (feat. RM of BTS)",
+        "url": "https://open.spotify.com/album/7osIz9TFdxYQAm4fgakanT"
+      },
+      "artists": [
+        {
+          "name": "Balming Tiger",
+          "url": "https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1"
+        },
+        {
+          "name": "Omega Sapien",
+          "url": "https://open.spotify.com/artist/46KQM3HJyONaKRTbcfNPlU"
+        },
+        {
+          "name": "bj wnjn",
+          "url": "https://open.spotify.com/artist/4E4TZnDHlrhclSJgeund1d"
+        },
+        {
+          "name": "Mudd the student",
+          "url": "https://open.spotify.com/artist/4xHlg3Tcv7TZZzFq0aW2hQ"
+        },
+        {
+          "name": "RM",
+          "url": "https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229937,
+      "name": "SEXY NUKIM (feat. RM of BTS)",
+      "url": "https://open.spotify.com/track/1XkMxUilV0E3ChDERZJUEq"
+    },
+    {
+      "album": {
         "name": "She is",
         "url": "https://open.spotify.com/album/1o06vrnnHvOREmYI49q8MY"
       },
@@ -2157,7 +2281,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-06",
       "duration_ms": 168306,
       "name": "She is",
       "url": "https://open.spotify.com/track/27fzxgx6nK8NI4CylNEBBw"

@@ -1,12 +1,12 @@
 {
   "description": "All your Disco favorites. Cover: Donna Summer",
-  "num_followers": 1376004,
+  "num_followers": 1376410,
   "original_name": "Disco Forever",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTk1OTkzNSwwMDAwMDAwMGViMjBjOGQ2OTE2NzM1ZjA4MmFlODg0Y2UyM2M2NDk1",
+  "snapshot_id": "MTY2MTk1OTkzNSwwMDAwMDAwMDA2NTM5NDVhMGQ4OThhZWEyMjczM2RiNWUxZGQ4ODc3",
   "tracks": [
     {
       "added_at": "2022-08-31 15:13:54",
@@ -367,6 +367,22 @@
     {
       "added_at": "2022-08-31 15:13:54",
       "album": {
+        "name": "Diana",
+        "url": "https://open.spotify.com/album/3zgDLoVcpVGfFbDZJf3uHI"
+      },
+      "artists": [
+        {
+          "name": "Diana Ross",
+          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
+        }
+      ],
+      "duration_ms": 245600,
+      "name": "Upside Down",
+      "url": "https://open.spotify.com/track/3pbtBomO4Zt5gGiqsYeiBH"
+    },
+    {
+      "added_at": "2022-08-31 15:13:54",
+      "album": {
         "name": "Cruisin'",
         "url": "https://open.spotify.com/album/3kdp1PnxkKlshMP3qG2CUG"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 212906,
       "name": "You're The First, The Last, My Everything - Single Version",
       "url": "https://open.spotify.com/track/3ZYO0HGRFFdAGeb8o7F9KC"
-    },
-    {
-      "added_at": "2022-08-31 15:13:54",
-      "album": {
-        "name": "Diana",
-        "url": "https://open.spotify.com/album/3zgDLoVcpVGfFbDZJf3uHI"
-      },
-      "artists": [
-        {
-          "name": "Diana Ross",
-          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
-        }
-      ],
-      "duration_ms": 245600,
-      "name": "Upside Down",
-      "url": "https://open.spotify.com/track/3pbtBomO4Zt5gGiqsYeiBH"
     },
     {
       "added_at": "2022-08-31 15:13:54",
@@ -591,6 +591,22 @@
     {
       "added_at": "2022-08-31 15:13:54",
       "album": {
+        "name": "Walk Away - Collector's Edition The Best Of 1977-1980",
+        "url": "https://open.spotify.com/album/1XDoNCowirNlo2oGzCVVh7"
+      },
+      "artists": [
+        {
+          "name": "Donna Summer",
+          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
+        }
+      ],
+      "duration_ms": 199800,
+      "name": "Last Dance - Single Version",
+      "url": "https://open.spotify.com/track/29RcVe2M9l8rHyWHffBmjf"
+    },
+    {
+      "added_at": "2022-08-31 15:13:54",
+      "album": {
         "name": "Casablanca Records Greatest Hits",
         "url": "https://open.spotify.com/album/2a9NqNKkXva9vZanCUmOjc"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 385506,
       "name": "Ladies Night",
       "url": "https://open.spotify.com/track/2uKJxjqcFu2Pr2CEsGGYJa"
-    },
-    {
-      "added_at": "2022-08-31 15:13:54",
-      "album": {
-        "name": "Walk Away - Collector's Edition The Best Of 1977-1980",
-        "url": "https://open.spotify.com/album/1XDoNCowirNlo2oGzCVVh7"
-      },
-      "artists": [
-        {
-          "name": "Donna Summer",
-          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
-        }
-      ],
-      "duration_ms": 199800,
-      "name": "Last Dance - Single Version",
-      "url": "https://open.spotify.com/track/29RcVe2M9l8rHyWHffBmjf"
     },
     {
       "added_at": "2022-08-31 15:13:54",
@@ -719,6 +719,22 @@
     {
       "added_at": "2022-08-31 15:13:54",
       "album": {
+        "name": "I Remember Yesterday",
+        "url": "https://open.spotify.com/album/04nlrp346ZfIBhxsNOxpqe"
+      },
+      "artists": [
+        {
+          "name": "Donna Summer",
+          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
+        }
+      ],
+      "duration_ms": 355173,
+      "name": "I Feel Love",
+      "url": "https://open.spotify.com/track/1vCBk33l9HaWp5FOnhSGxk"
+    },
+    {
+      "added_at": "2022-08-31 15:13:54",
+      "album": {
         "name": "Central Heating (Expanded Edition)",
         "url": "https://open.spotify.com/album/6PWZmDj0bqiOqjMANAyjvH"
       },
@@ -767,22 +783,6 @@
     {
       "added_at": "2022-08-31 15:13:54",
       "album": {
-        "name": "I Remember Yesterday",
-        "url": "https://open.spotify.com/album/04nlrp346ZfIBhxsNOxpqe"
-      },
-      "artists": [
-        {
-          "name": "Donna Summer",
-          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
-        }
-      ],
-      "duration_ms": 355173,
-      "name": "I Feel Love",
-      "url": "https://open.spotify.com/track/1vCBk33l9HaWp5FOnhSGxk"
-    },
-    {
-      "added_at": "2022-08-31 15:13:54",
-      "album": {
         "name": "KC & the Sunshine Band... and More",
         "url": "https://open.spotify.com/album/6ufis2iWp3hrox9QJfg5Jq"
       },
@@ -799,18 +799,18 @@
     {
       "added_at": "2022-08-31 15:13:54",
       "album": {
-        "name": "Chic (2018 Remaster)",
-        "url": "https://open.spotify.com/album/388S3dsftPqG1nwgauItcx"
+        "name": "Manu Dibango Anthology",
+        "url": "https://open.spotify.com/album/4WDsHhoLJTSGVAt7ydCoPN"
       },
       "artists": [
         {
-          "name": "CHIC",
-          "url": "https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV"
+          "name": "Manu Dibango",
+          "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
         }
       ],
-      "duration_ms": 402693,
-      "name": "Everybody Dance - 2018 Remaster",
-      "url": "https://open.spotify.com/track/15ifyO8wYntwyXAptfxhKr"
+      "duration_ms": 264306,
+      "name": "Soul Makossa",
+      "url": "https://open.spotify.com/track/21s0bjVrP7RtQskeUKZxOu"
     }
   ],
   "unique_name": "Disco Forever",

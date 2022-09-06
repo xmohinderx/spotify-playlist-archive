@@ -2,7 +2,7 @@
 
 ### [Girl Krush](https://open.spotify.com/playlist/37i9dQZF1DXbSWYCNwaARB)
 
-> All your girl crushes\(걸크러쉬\) in one place\. Cover: Honey J \(허니제이\)
+> All your girl crushes\(걸크러쉬\) in one place\. Cover: BLACKPINK
 
 316 songs - 17 hr 6 min - [published](https://open.spotify.com/playlist/1NPspPN8vwoPb2Vd2JfxrK)
 

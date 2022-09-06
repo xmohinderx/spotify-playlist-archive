@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world\. Cover: Arctic Monkeys
 
-[Spotify](https://open.spotify.com/user/spotify) - 318,843 likes - 93 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 318,952 likes - 93 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

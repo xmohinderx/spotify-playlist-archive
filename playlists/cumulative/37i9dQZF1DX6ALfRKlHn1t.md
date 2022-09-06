@@ -4,7 +4,7 @@
 
 > good vibes only.
 
-196 songs - 11 hr 13 min - [published](https://open.spotify.com/playlist/5GFfeaEHqQUbUlBlog2PDd)
+197 songs - 11 hr 17 min - [published](https://open.spotify.com/playlist/5GFfeaEHqQUbUlBlog2PDd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,6 +145,7 @@
 | [Saturday Sun](https://open.spotify.com/track/45FrYVS9BScbfO8lujdsW0) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Saturday Sun](https://open.spotify.com/album/0UubMFNGhBzivj1Qa4sey1) | 3:34 | 2021-03-24 | 2022-07-29 |
 | [Says She Loves Me](https://open.spotify.com/track/2p4Yx2CRINRoK2rNdIq2RE) | [Aer](https://open.spotify.com/artist/25hbSOMmbhgqvonjC876UJ) | [Aer](https://open.spotify.com/album/7Bxewgd1K3cNG8W4ofuIEp) | 3:39 | 2021-03-24 | 2022-07-29 |
 | [Says She Loves Me](https://open.spotify.com/track/4rTgrVh6ZnIUKRntXTKXdh) | [Aer](https://open.spotify.com/artist/25hbSOMmbhgqvonjC876UJ) | [Aer](https://open.spotify.com/album/707Xq5tvaWIz85oEpnJUM1) | 3:39 | 2022-06-24 | 2022-08-12 |
+| [Says She Loves Me](https://open.spotify.com/track/6esi0H0bM3ORbJwgVVCoOt) | [Aer](https://open.spotify.com/artist/25hbSOMmbhgqvonjC876UJ) | [Aer](https://open.spotify.com/album/1wK7QTctYTPfRkkJ9zyyYY) | 3:39 | 2022-07-29 |  |
 | [seaside\_demo](https://open.spotify.com/track/1SgUjGzbmmMOsGFTVwQ59L) | [SEB](https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi) | [seaside\_demo](https://open.spotify.com/album/5azRQ4hk4TEVhQWXEgE2WT) | 2:12 | 2021-07-30 |  |
 | [Set On Fire](https://open.spotify.com/track/0IV5Hor3LGOLk1OlxxriAO) | [MAGIC GIANT](https://open.spotify.com/artist/7eaa5bidliPI0djFYv166f) | [Set On Fire](https://open.spotify.com/album/0kLqHd2okMviL6ZdXzaV8C) | 3:35 | 2021-03-24 | 2022-07-29 |
 | [Settling](https://open.spotify.com/track/6EEBiJswbgcLqnpKkuHM00) | [Ripe](https://open.spotify.com/artist/19lQ2rJLlP71FOKESiMNJT) | [Settling](https://open.spotify.com/album/6ZWVafX159Z2jQP3UW5PsR) | 3:08 | 2022-05-16 | 2022-07-29 |
@@ -179,7 +180,7 @@
 | [Tek It](https://open.spotify.com/track/63HHF9ZpCIisujKFk2rixR) | [Cafuné](https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu) | [Running](https://open.spotify.com/album/4n42G2OKF6kxGugj2MMn5c) | 3:11 | 2022-04-26 | 2022-06-16 |
 | [Tek It](https://open.spotify.com/track/751srcHf5tUqcEa9pRCQwP) | [Cafuné](https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu) | [Running](https://open.spotify.com/album/2dEf6lN5qYFQQy3Jd3ScHG) | 3:11 | 2022-06-24 |  |
 | [Tell Me Tell Me](https://open.spotify.com/track/3n0y72mRws8IZPQA0QkKEK) | [courtship.](https://open.spotify.com/artist/2OK16hAFRHoJiFZKeZe8A8) | [Tell Me Tell Me](https://open.spotify.com/album/0XbVK5VZidNVJ66a1m6KXz) | 3:08 | 2021-03-24 | 2022-07-29 |
-| [Tell Me Tell Me](https://open.spotify.com/track/62Ltf8vQM3VRB7CsrjJYzx) | [courtship.](https://open.spotify.com/artist/2OK16hAFRHoJiFZKeZe8A8) | [Denial in Paradise](https://open.spotify.com/album/3K6MT6t6jipc02PfTMIHnY) | 3:08 | 2022-06-24 |  |
+| [Tell Me Tell Me](https://open.spotify.com/track/62Ltf8vQM3VRB7CsrjJYzx) | [courtship.](https://open.spotify.com/artist/2OK16hAFRHoJiFZKeZe8A8) | [Denial in Paradise](https://open.spotify.com/album/3K6MT6t6jipc02PfTMIHnY) | 3:08 | 2022-06-24 | 2022-09-06 |
 | [That's All I Need](https://open.spotify.com/track/60p2R7bCS2DW1mixI5HUv9) | [Dirty Heads](https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f) | [That's All I Need](https://open.spotify.com/album/5ftiJJN6Xz3pmtE197hyJS) | 3:33 | 2021-03-24 | 2022-04-27 |
 | [The Way It Was](https://open.spotify.com/track/1b91Hfg3v9vxqkAxRZCSEc) | [Coast Modern](https://open.spotify.com/artist/4wYk01oPJNfaEssVFL46oQ) | [The Way It Was](https://open.spotify.com/album/4VRfCkxgVua6OCPlTn1ubu) | 3:49 | 2021-03-24 | 2022-04-27 |
 | [Tidal Wave](https://open.spotify.com/track/384TqRlwlMfeUAODhXfF3O) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Woodstock](https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB) | 3:31 | 2021-03-24 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 
 > Rap romântico pra amolecer os corações apaixonados e esquentar o clima.
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,947 likes - 74 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,036 likes - 74 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 | 8 | [SPACE JAM](https://open.spotify.com/track/0Bak6WAUK37zfyc9Hk8SlB) | [RAMON](https://open.spotify.com/artist/3sdFrsuQ0ttHe1PcUqZnEl), [Tchello](https://open.spotify.com/artist/7m7zHLfw3T0SAZxYVRrE5h), [Canela](https://open.spotify.com/artist/4TIBzTJydZRlkjtj2nIuw0), [Pocaia](https://open.spotify.com/artist/4ROlINSkFDkoFIjWGprZ02), [KoninG](https://open.spotify.com/artist/0XG8QkpwxPlSOo0iG9AWSu), [PV Memo](https://open.spotify.com/artist/19unzB2btcLCNbb6o81COK), [Dunk](https://open.spotify.com/artist/18KQkfpQsIpOSvCWmfFYSA) | [SPACE JAM](https://open.spotify.com/album/5xAArAJSPJCV69BXgg3gva) | 6:15 |
 | 9 | [Ver Me](https://open.spotify.com/track/11v7tAtk6I3c3DwD1pt5oh) | [LOH ALMEIDAH](https://open.spotify.com/artist/3cOGQtOrVLFdII5VCawDAk) | [Ver Me](https://open.spotify.com/album/7CKya59L63McSUKvr5vcLE) | 3:08 |
 | 10 | [Fica](https://open.spotify.com/track/5XoCHhUCrv2seffIGVzJ3x) | [K4tt0](https://open.spotify.com/artist/5YpokbwUkNnmqyKVJiO2E3) | [Fica](https://open.spotify.com/album/4ms8gh4HzAV6LLWSfMB6jO) | 3:31 |
-| 11 | [CHÁZIN](https://open.spotify.com/track/3yPLovCYNWAD2hCO9Zaeyg) | [Agostta](https://open.spotify.com/artist/76DjxkWnHza9Q02cejvQhc), [Dody](https://open.spotify.com/artist/57zabUYj0PmYHv4YeaeiEs), [lowz](https://open.spotify.com/artist/03t6CvukafsNbQU1OD2n3q), [Mati](https://open.spotify.com/artist/32jMR9tcumLRtYdiA34eUo) | [ALÉM DE LOVE](https://open.spotify.com/album/3SHJwSFzUcc7xiNt4eqsq3) | 3:16 |
+| 11 | [CHÁZIN](https://open.spotify.com/track/3yPLovCYNWAD2hCO9Zaeyg) | [Agostta](https://open.spotify.com/artist/76DjxkWnHza9Q02cejvQhc), [Dody](https://open.spotify.com/artist/57zabUYj0PmYHv4YeaeiEs), [lowz](https://open.spotify.com/artist/03t6CvukafsNbQU1OD2n3q), [Mati](https://open.spotify.com/artist/6q4OTLGMcroTVXFFKSkzzC) | [ALÉM DE LOVE](https://open.spotify.com/album/3SHJwSFzUcc7xiNt4eqsq3) | 3:16 |
 | 12 | [Deixa Rolar](https://open.spotify.com/track/4FDp39kZIKmTFPbk3H1Yyj) | [Feh](https://open.spotify.com/artist/3bMQmsnuvak2a7fOQagiCP) | [Deixa Rolar](https://open.spotify.com/album/2rKnz0qzTwOIj9xoXbdc6e) | 3:04 |
 | 13 | [Ariana](https://open.spotify.com/track/4p7KMBNMNs8uN1dQadkqVa) | [Igão Santi](https://open.spotify.com/artist/2xZhKkCpZq4YtbvNwhxBID), [Gibin](https://open.spotify.com/artist/7lC3tO6g2CQhlN0yeDVLDM), [uzzn](https://open.spotify.com/artist/67MmjOmWtHtGANmzJlnvAC) | [Ariana](https://open.spotify.com/album/2392c6YQuxajyOfl42q4rZ) | 2:35 |
 | 14 | [Safira](https://open.spotify.com/track/3ZDWRJfZRNB89lpHB3NLpL) | [Thay](https://open.spotify.com/artist/5ti1OcMAcsd8Eks24OLxhm), [uzzn](https://open.spotify.com/artist/67MmjOmWtHtGANmzJlnvAC) | [Safira](https://open.spotify.com/album/1WbVY2DVMCHzpDkPFVWMcE) | 3:02 |

@@ -4,7 +4,7 @@
 
 > 回家的路上，有好聽的歌曲陪伴，會讓人暫時忘了疲倦。
 
-220 songs - 16 hr 21 min - [published](https://open.spotify.com/playlist/3PHd0BgAU7GtH83PqXsATM)
+221 songs - 16 hr 25 min - [published](https://open.spotify.com/playlist/3PHd0BgAU7GtH83PqXsATM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Love Me True](https://open.spotify.com/track/6vuxvUXRXUvsMDDx9bGphD) | [Power Station](https://open.spotify.com/artist/6zCAdMK7SVxKyGMnAc26Cy) | [Because of Love](https://open.spotify.com/album/6x1tyJxeLAr4ga3SxwFy91) | 5:13 | 2022-07-25 |  |
 | [Love Yourself](https://open.spotify.com/track/0rWyscDVZbgTKRKtjPPy1X) | [Wanfang](https://open.spotify.com/artist/468BFRg8N0wGREo2L4TXZp) | [.....那些美麗的相遇](https://open.spotify.com/album/71PV7hkfS3aqdW1b8aMEOb) | 3:01 | 2022-06-06 | 2022-07-29 |
 | [Nonessential](https://open.spotify.com/track/2yVK1z120agYPamULKbiCL) | [Buddha Jump](https://open.spotify.com/artist/43k1nPBByWctkFAvo16Xbc) | [BJ4](https://open.spotify.com/album/45NCcOdArmL9FnHTeiFHyV) | 4:13 | 2022-06-06 | 2022-06-12 |
+| [NUNA](https://open.spotify.com/track/6L5ImrjJJKVYJQzjpARPXj) | [队长](https://open.spotify.com/artist/4SpsVETdnMLwPHyOW0FlQz) | [NUNA](https://open.spotify.com/album/3q988MNRDhIto8xDT7ireC) | 3:42 | 2022-09-05 |  |
 | [Passing Through](https://open.spotify.com/track/0byLWD6kVSZmXw9IFtLyW0) | [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM) | [Drifter](https://open.spotify.com/album/7bBQS2zo1JimKeuVIqVpaH) | 4:13 | 2022-06-13 | 2022-07-20 |
 | [The Wind \(ヤキモチ\)](https://open.spotify.com/track/1SCWdnVZia7xL07c3NPgY3) | [La Jiao](https://open.spotify.com/artist/3yZMiB20tCWB68QWMz9q2k) | [The Wind \(ヤキモチ\)](https://open.spotify.com/album/19qSjegwcP8NYsQnX623bp) | 5:25 | 2022-06-06 | 2022-07-28 |
 | [Unwanted Song](https://open.spotify.com/track/6ZBWEbwzGrKZOcE2Hh2fZR) | [Princess Ai](https://open.spotify.com/artist/71l6Wfk7PaTVPAOH7ln56V) | [Unwanted Song](https://open.spotify.com/album/39bMPyNcfUGGxHesBJGe1D) | 4:47 | 2022-06-06 | 2022-07-21 |
@@ -95,7 +96,7 @@
 | [四季予你](https://open.spotify.com/track/4BGkSCrjiLao1bpibNptTD) | [程響](https://open.spotify.com/artist/7nKA1c1Qn6nI0XA8yburf3) | [四季予你](https://open.spotify.com/album/25IglxVmbGUl92NJZ0Pvo9) | 4:08 | 2022-07-25 |  |
 | [因為你 所以我](https://open.spotify.com/track/3oRP6yGs5d0kFpGRRzzaS8) | [Mayday](https://open.spotify.com/artist/16s0YTFcyjP4kgFwt7ktrY) | [因為你 所以我](https://open.spotify.com/album/0bLc2MyuEEP8eiMnd6v5Rt) | 4:41 | 2022-06-06 |  |
 | [因為是你 \- 原創影集《火神的眼淚》片頭曲](https://open.spotify.com/track/0TqOMBOKodVMnr1NgMwOt7) | [WeiBird](https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX) | [因為是你 \(原創影集《火神的眼淚》片頭曲\)](https://open.spotify.com/album/5YSunwRv17InUanAfwwHhr) | 3:31 | 2022-06-06 |  |
-| [在你不知道的时间里爱你很久 \- 电影《我在时间尽头等你》片尾曲](https://open.spotify.com/track/103IeGsEatrmA2Q4Vb1RpM) | [LaLa Hsu](https://open.spotify.com/artist/3dI4Io8XE33J2o04ZwjR0Y) | [在你不知道的时间里爱你很久 \(电影《我在时间尽头等你》片尾曲\)](https://open.spotify.com/album/3XPJqAQ3az7bQg3H5Ohr9y) | 4:18 | 2022-06-06 |  |
+| [在你不知道的时间里爱你很久 \- 电影《我在时间尽头等你》片尾曲](https://open.spotify.com/track/103IeGsEatrmA2Q4Vb1RpM) | [LaLa Hsu](https://open.spotify.com/artist/3dI4Io8XE33J2o04ZwjR0Y) | [在你不知道的时间里爱你很久 \(电影《我在时间尽头等你》片尾曲\)](https://open.spotify.com/album/3XPJqAQ3az7bQg3H5Ohr9y) | 4:18 | 2022-06-06 | 2022-09-06 |
 | [夠愛2.0](https://open.spotify.com/track/7y1AmaqAddzGjt0C9bkpjm) | [R\-chord](https://open.spotify.com/artist/5XkrVVn0lQIVPkH55nbTgZ) | [夠愛2.0](https://open.spotify.com/album/7IbEd4My8qefgQl242gd69) | 4:36 | 2022-07-18 | 2022-07-22 |
 | [夢一場](https://open.spotify.com/track/1lpJhCL8fJIFSlDhoZNPhv) | [Don Chu](https://open.spotify.com/artist/3PaGbJTBNMBBp6RCW3ZiDM) | [夢一場](https://open.spotify.com/album/5RS86ybDku4OHUh63ij4q7) | 4:00 | 2022-06-06 | 2022-07-25 |
 | [天使](https://open.spotify.com/track/0OsXGTbbyFh9haXOkJcYMa) | [Della](https://open.spotify.com/artist/1EUq1MC4vfYYxcVK9aJnXf) | [天使](https://open.spotify.com/album/0gKhP53H3ZeaM6LCfgFbo0) | 4:31 | 2022-06-27 | 2022-07-04 |

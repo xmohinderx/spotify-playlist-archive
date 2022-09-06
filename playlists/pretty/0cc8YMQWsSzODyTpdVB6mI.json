@@ -1,13 +1,29 @@
 {
   "description": "The best NEW Music right now, curated by Kitsun\u00e9 Musique and\u00a0added to one HOT playlist : a FRESH selection updated every Monday, Wednesday &amp; Friday. ",
-  "num_followers": 43104,
+  "num_followers": 43106,
   "original_name": "Kitsun\u00e9's New, Hot & Fresh",
   "owner": {
     "name": "Kitsun\u00e9 Musique",
     "url": "https://open.spotify.com/user/maisonkitsune"
   },
-  "snapshot_id": "MjkyNiw1YzY5ODZhMDM2ZGJiYmJhMTMzM2RmM2E4NDE0Njg2ZWRhODM1YTgx",
+  "snapshot_id": "MjkyOCxmZmIxMGNmOGU2YjU3NDA3YjZlMDExZDVlNDJhMDg3MDIzNGYxMWRk",
   "tracks": [
+    {
+      "added_at": "2022-09-05 08:09:11",
+      "album": {
+        "name": "Icy",
+        "url": "https://open.spotify.com/album/4ZAkDbkETjOwhUAt6f0fV5"
+      },
+      "artists": [
+        {
+          "name": "LN",
+          "url": "https://open.spotify.com/artist/3JyVio3O9Tokn7Yc1jI75T"
+        }
+      ],
+      "duration_ms": 164272,
+      "name": "Icy",
+      "url": "https://open.spotify.com/track/1I7e4AyVqSBOoh6GHttqws"
+    },
     {
       "added_at": "2022-09-02 08:03:47",
       "album": {
@@ -427,22 +443,6 @@
       "duration_ms": 209240,
       "name": "Playboy",
       "url": "https://open.spotify.com/track/3OHEg0bjexTu5dnVzm5xlN"
-    },
-    {
-      "added_at": "2022-06-17 08:12:30",
-      "album": {
-        "name": "Does the Magic Spin?",
-        "url": "https://open.spotify.com/album/1bNKiavjNgYlbJudcRX3Kg"
-      },
-      "artists": [
-        {
-          "name": "POCKET",
-          "url": "https://open.spotify.com/artist/55xouRrT7A66F3oitgm0Yw"
-        }
-      ],
-      "duration_ms": 180609,
-      "name": "Does the Magic Spin?",
-      "url": "https://open.spotify.com/track/00DVwBTumBG1dH9OYMDolv"
     },
     {
       "added_at": "2021-11-05 15:47:43",

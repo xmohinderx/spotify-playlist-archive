@@ -1954,6 +1954,32 @@
     },
     {
       "album": {
+        "name": "HEAVEN'S GATES (feat. Izzy Camina) [Manila Killa Remix]",
+        "url": "https://open.spotify.com/album/6VjleRIJlteuD8bd63EjN7"
+      },
+      "artists": [
+        {
+          "name": "Devault",
+          "url": "https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL"
+        },
+        {
+          "name": "Izzy Camina",
+          "url": "https://open.spotify.com/artist/1bEvuUxdYlGYGq5WvDAE1u"
+        },
+        {
+          "name": "Manila Killa",
+          "url": "https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "HEAVEN'S GATES (feat. Izzy Camina) - Manila Killa Remix",
+      "url": "https://open.spotify.com/track/0jT25u5GLiQtqX8k25Rjup"
+    },
+    {
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3yT5FrnQO9bsfaNOD7UygD"
       },
@@ -2043,7 +2069,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-06",
       "duration_ms": 114833,
       "name": "HERO JOURNEY (feat. Superorganism)",
       "url": "https://open.spotify.com/track/5wsZVRGMRA4ZzMStNKxcK2"

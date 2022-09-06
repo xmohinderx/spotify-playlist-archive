@@ -1,12 +1,12 @@
 {
   "description": "Detroit <a href=\"spotify:genre:techno\">Techno</a> Essentials. Cover: DJ Minx.",
-  "num_followers": 67448,
+  "num_followers": 67495,
   "original_name": "Detroit Techno",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODQ4MDI2OCwwMDAwMDAwMDdmODAyMGU5NjdiN2ZkZGNlZmM1NDg4MDUyZGFmZGVm",
+  "snapshot_id": "MTY1ODQ4MDI2OCwwMDAwMDAwMDQ5ZTA0MDRjOTI2NGQ2ODkwNDhhOTYzODhlMzRkN2Y1",
   "tracks": [
     {
       "added_at": "2022-07-22 08:57:48",
@@ -191,22 +191,6 @@
     {
       "added_at": "2022-07-22 08:57:48",
       "album": {
-        "name": "Big Fun (Remastered)",
-        "url": "https://open.spotify.com/album/63Tyk1UCFndIYpHtZUKRWr"
-      },
-      "artists": [
-        {
-          "name": "Inner City",
-          "url": "https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp"
-        }
-      ],
-      "duration_ms": 198688,
-      "name": "Big Fun (Remastered)",
-      "url": "https://open.spotify.com/track/0iiQCzqzytQsVmlkGjTGB1"
-    },
-    {
-      "added_at": "2022-07-22 08:57:48",
-      "album": {
         "name": "Neptune's Lair",
         "url": "https://open.spotify.com/album/7bBx5uPv2YgRIAFyXBWhEV"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 376680,
       "name": "Andreaen Sand Dunes",
       "url": "https://open.spotify.com/track/5vcCF1Q328JhaZj4MS6XqO"
+    },
+    {
+      "added_at": "2022-07-22 08:57:48",
+      "album": {
+        "name": "Big Fun (Remastered)",
+        "url": "https://open.spotify.com/album/63Tyk1UCFndIYpHtZUKRWr"
+      },
+      "artists": [
+        {
+          "name": "Inner City",
+          "url": "https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp"
+        }
+      ],
+      "duration_ms": 198688,
+      "name": "Big Fun (Remastered)",
+      "url": "https://open.spotify.com/track/0iiQCzqzytQsVmlkGjTGB1"
     },
     {
       "added_at": "2022-07-22 08:57:48",
@@ -343,6 +343,22 @@
     {
       "added_at": "2022-07-22 08:57:48",
       "album": {
+        "name": "The Album Formerly Known As ...",
+        "url": "https://open.spotify.com/album/6AwKcT6k1YlIDkEBA3KDKM"
+      },
+      "artists": [
+        {
+          "name": "Carl Craig",
+          "url": "https://open.spotify.com/artist/17dbJyUCrxh4I7iyUrjaHU"
+        }
+      ],
+      "duration_ms": 415759,
+      "name": "A Wonderful Life - Version",
+      "url": "https://open.spotify.com/track/65POCexjbdPA7mbSKxL0vd"
+    },
+    {
+      "added_at": "2022-07-22 08:57:48",
+      "album": {
         "name": "Pennies From Heaven (Remastered)",
         "url": "https://open.spotify.com/album/0OU1d6ClYVzKrvtNzZANKB"
       },
@@ -359,18 +375,22 @@
     {
       "added_at": "2022-07-22 08:57:48",
       "album": {
-        "name": "The Album Formerly Known As ...",
-        "url": "https://open.spotify.com/album/6AwKcT6k1YlIDkEBA3KDKM"
+        "name": "Juan Atkins & Moritz von Oswald Present Borderland: Transport",
+        "url": "https://open.spotify.com/album/7kTo32LJe7JOUiYnsATgLT"
       },
       "artists": [
         {
-          "name": "Carl Craig",
-          "url": "https://open.spotify.com/artist/17dbJyUCrxh4I7iyUrjaHU"
+          "name": "Juan Atkins",
+          "url": "https://open.spotify.com/artist/208EQzx7RmoE2Ng9gF2edh"
+        },
+        {
+          "name": "Moritz Von Oswald",
+          "url": "https://open.spotify.com/artist/33GGoMV3iYpV5tlsh32N7q"
         }
       ],
-      "duration_ms": 415759,
-      "name": "A Wonderful Life - Version",
-      "url": "https://open.spotify.com/track/65POCexjbdPA7mbSKxL0vd"
+      "duration_ms": 367500,
+      "name": "Lightyears",
+      "url": "https://open.spotify.com/track/4SFEzGRviQqJpZHtQjDAA5"
     },
     {
       "added_at": "2022-07-22 08:57:48",
@@ -435,26 +455,6 @@
     {
       "added_at": "2022-07-22 08:57:48",
       "album": {
-        "name": "Juan Atkins & Moritz von Oswald Present Borderland: Transport",
-        "url": "https://open.spotify.com/album/7kTo32LJe7JOUiYnsATgLT"
-      },
-      "artists": [
-        {
-          "name": "Juan Atkins",
-          "url": "https://open.spotify.com/artist/208EQzx7RmoE2Ng9gF2edh"
-        },
-        {
-          "name": "Moritz Von Oswald",
-          "url": "https://open.spotify.com/artist/33GGoMV3iYpV5tlsh32N7q"
-        }
-      ],
-      "duration_ms": 367500,
-      "name": "Lightyears",
-      "url": "https://open.spotify.com/track/4SFEzGRviQqJpZHtQjDAA5"
-    },
-    {
-      "added_at": "2022-07-22 08:57:48",
-      "album": {
         "name": "A Walk in the Park",
         "url": "https://open.spotify.com/album/3N0p2BtGWPMdz86ZiTc6ZI"
       },
@@ -467,22 +467,6 @@
       "duration_ms": 325880,
       "name": "A Walk in the Park",
       "url": "https://open.spotify.com/track/3n8TM8osvrpkm7IddlaO4Q"
-    },
-    {
-      "added_at": "2022-07-22 08:57:48",
-      "album": {
-        "name": "Into The Dark",
-        "url": "https://open.spotify.com/album/7GJJnxx9JQVhMsT7MR0oNX"
-      },
-      "artists": [
-        {
-          "name": "The Saunderson Brothers",
-          "url": "https://open.spotify.com/artist/4yTGUL6IP7JtGmnVUexpQR"
-        }
-      ],
-      "duration_ms": 221199,
-      "name": "Into The Dark",
-      "url": "https://open.spotify.com/track/1RqAbR7LefLPPGeEKKukCk"
     },
     {
       "added_at": "2022-07-22 08:57:48",
@@ -503,18 +487,54 @@
     {
       "added_at": "2022-07-22 08:57:48",
       "album": {
-        "name": "Psyche/BFC - DELUXE DIGITAL VERSION",
-        "url": "https://open.spotify.com/album/1Bb0ser2obQ8dLRfNAiO7U"
+        "name": "Into The Dark",
+        "url": "https://open.spotify.com/album/7GJJnxx9JQVhMsT7MR0oNX"
       },
       "artists": [
         {
-          "name": "Psyche/BFC",
-          "url": "https://open.spotify.com/artist/0HyKkzt6higWFs5IwxSzrw"
+          "name": "The Saunderson Brothers",
+          "url": "https://open.spotify.com/artist/4yTGUL6IP7JtGmnVUexpQR"
         }
       ],
-      "duration_ms": 411999,
-      "name": "Elements",
-      "url": "https://open.spotify.com/track/2mLPPe67nRyoMSiRZyLsVr"
+      "duration_ms": 221199,
+      "name": "Into The Dark",
+      "url": "https://open.spotify.com/track/1RqAbR7LefLPPGeEKKukCk"
+    },
+    {
+      "added_at": "2022-07-22 08:57:48",
+      "album": {
+        "name": "Juan Atkins & Moritz von Oswald Present Borderland: Transport",
+        "url": "https://open.spotify.com/album/7kTo32LJe7JOUiYnsATgLT"
+      },
+      "artists": [
+        {
+          "name": "Juan Atkins",
+          "url": "https://open.spotify.com/artist/208EQzx7RmoE2Ng9gF2edh"
+        },
+        {
+          "name": "Moritz Von Oswald",
+          "url": "https://open.spotify.com/artist/33GGoMV3iYpV5tlsh32N7q"
+        }
+      ],
+      "duration_ms": 554692,
+      "name": "Riod",
+      "url": "https://open.spotify.com/track/4DpgPdsES4Hxdz3eqOP3Ac"
+    },
+    {
+      "added_at": "2022-07-22 08:57:48",
+      "album": {
+        "name": "Clocks / Low Life / Go",
+        "url": "https://open.spotify.com/album/3mTABh6bXq2UMtpyxuvXI1"
+      },
+      "artists": [
+        {
+          "name": "Robert Hood",
+          "url": "https://open.spotify.com/artist/5ipQlfnpRCtyOuhYqvPvQ8"
+        }
+      ],
+      "duration_ms": 334959,
+      "name": "Low Life",
+      "url": "https://open.spotify.com/track/1MBHNJsI9KV84lxaV5bhVl"
     },
     {
       "added_at": "2022-07-22 08:57:48",
@@ -535,6 +555,22 @@
       "duration_ms": 352599,
       "name": "We All Move Together - Album Mix",
       "url": "https://open.spotify.com/track/5bdh7s1mGPfiBh2Thxlxsu"
+    },
+    {
+      "added_at": "2022-07-22 08:57:48",
+      "album": {
+        "name": "Psyche/BFC - DELUXE DIGITAL VERSION",
+        "url": "https://open.spotify.com/album/1Bb0ser2obQ8dLRfNAiO7U"
+      },
+      "artists": [
+        {
+          "name": "Psyche/BFC",
+          "url": "https://open.spotify.com/artist/0HyKkzt6higWFs5IwxSzrw"
+        }
+      ],
+      "duration_ms": 411999,
+      "name": "Elements",
+      "url": "https://open.spotify.com/track/2mLPPe67nRyoMSiRZyLsVr"
     },
     {
       "added_at": "2022-07-22 08:57:48",
@@ -575,38 +611,22 @@
     {
       "added_at": "2022-07-22 08:57:48",
       "album": {
-        "name": "Clocks / Low Life / Go",
-        "url": "https://open.spotify.com/album/3mTABh6bXq2UMtpyxuvXI1"
+        "name": "Into The Groove",
+        "url": "https://open.spotify.com/album/7IQCupztgZD0CkAp0ohAHf"
       },
       "artists": [
         {
-          "name": "Robert Hood",
-          "url": "https://open.spotify.com/artist/5ipQlfnpRCtyOuhYqvPvQ8"
-        }
-      ],
-      "duration_ms": 334959,
-      "name": "Low Life",
-      "url": "https://open.spotify.com/track/1MBHNJsI9KV84lxaV5bhVl"
-    },
-    {
-      "added_at": "2022-07-22 08:57:48",
-      "album": {
-        "name": "Juan Atkins & Moritz von Oswald Present Borderland: Transport",
-        "url": "https://open.spotify.com/album/7kTo32LJe7JOUiYnsATgLT"
-      },
-      "artists": [
-        {
-          "name": "Juan Atkins",
-          "url": "https://open.spotify.com/artist/208EQzx7RmoE2Ng9gF2edh"
+          "name": "Blake Baxter",
+          "url": "https://open.spotify.com/artist/3ZKUeqiV2UX5sKhOipqw1h"
         },
         {
-          "name": "Moritz Von Oswald",
-          "url": "https://open.spotify.com/artist/33GGoMV3iYpV5tlsh32N7q"
+          "name": "Abe Duque",
+          "url": "https://open.spotify.com/artist/1vT97kA0pAS6X4gyB7FIGp"
         }
       ],
-      "duration_ms": 554692,
-      "name": "Riod",
-      "url": "https://open.spotify.com/track/4DpgPdsES4Hxdz3eqOP3Ac"
+      "duration_ms": 396190,
+      "name": "Into The Groove - Extended Mix",
+      "url": "https://open.spotify.com/track/6zTgrvY5YaGFvs8RrQDK3V"
     },
     {
       "added_at": "2022-07-22 08:57:48",
@@ -659,26 +679,6 @@
       "duration_ms": 369016,
       "name": "I Can't Believe - Extended Mix",
       "url": "https://open.spotify.com/track/6fj1GG580y5T60iCJ85anz"
-    },
-    {
-      "added_at": "2022-07-22 08:57:48",
-      "album": {
-        "name": "Into The Groove",
-        "url": "https://open.spotify.com/album/7IQCupztgZD0CkAp0ohAHf"
-      },
-      "artists": [
-        {
-          "name": "Blake Baxter",
-          "url": "https://open.spotify.com/artist/3ZKUeqiV2UX5sKhOipqw1h"
-        },
-        {
-          "name": "Abe Duque",
-          "url": "https://open.spotify.com/artist/1vT97kA0pAS6X4gyB7FIGp"
-        }
-      ],
-      "duration_ms": 396190,
-      "name": "Into The Groove - Extended Mix",
-      "url": "https://open.spotify.com/track/6zTgrvY5YaGFvs8RrQDK3V"
     },
     {
       "added_at": "2022-07-22 08:57:48",
@@ -755,26 +755,6 @@
     {
       "added_at": "2022-07-22 08:57:48",
       "album": {
-        "name": "Heavenly Revisited Album",
-        "url": "https://open.spotify.com/album/2r4zhVV8z7bxBtNpm3LVPs"
-      },
-      "artists": [
-        {
-          "name": "Kevin Saunderson",
-          "url": "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
-        },
-        {
-          "name": "e-Dancer",
-          "url": "https://open.spotify.com/artist/7Mb2QpmkC5kzR4UV6rkzLZ"
-        }
-      ],
-      "duration_ms": 208818,
-      "name": "World Of Deep",
-      "url": "https://open.spotify.com/track/06i10JXZGO969A5NR4MXGD"
-    },
-    {
-      "added_at": "2022-07-22 08:57:48",
-      "album": {
         "name": "Red Room",
         "url": "https://open.spotify.com/album/0BNMNVsOTRMmRN43yuPDm4"
       },
@@ -823,18 +803,38 @@
     {
       "added_at": "2022-07-22 08:57:48",
       "album": {
-        "name": "On A Journey",
-        "url": "https://open.spotify.com/album/1qg6gKQtN4rOrHQp1qv412"
+        "name": "Feel It / Circus Act",
+        "url": "https://open.spotify.com/album/4UapkYniEMCTYnA9SzZgh0"
       },
       "artists": [
         {
-          "name": "K-Hand",
-          "url": "https://open.spotify.com/artist/0qWuk2qgRK2HNKYxqbIn5G"
+          "name": "Stacey Pullen",
+          "url": "https://open.spotify.com/artist/0GJpYdmVCgg90TkyB1nB1y"
         }
       ],
-      "duration_ms": 271464,
-      "name": "On A Journey",
-      "url": "https://open.spotify.com/track/1DzZRyXgpD3IlRqsC7fqzD"
+      "duration_ms": 458302,
+      "name": "Feel It",
+      "url": "https://open.spotify.com/track/7AjK0QATXS2Ee857NmZABa"
+    },
+    {
+      "added_at": "2022-07-22 08:57:48",
+      "album": {
+        "name": "Heavenly Revisited Album",
+        "url": "https://open.spotify.com/album/2r4zhVV8z7bxBtNpm3LVPs"
+      },
+      "artists": [
+        {
+          "name": "Kevin Saunderson",
+          "url": "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
+        },
+        {
+          "name": "e-Dancer",
+          "url": "https://open.spotify.com/artist/7Mb2QpmkC5kzR4UV6rkzLZ"
+        }
+      ],
+      "duration_ms": 208818,
+      "name": "World Of Deep",
+      "url": "https://open.spotify.com/track/06i10JXZGO969A5NR4MXGD"
     },
     {
       "added_at": "2022-07-22 08:57:48",
@@ -859,18 +859,18 @@
     {
       "added_at": "2022-07-22 08:57:48",
       "album": {
-        "name": "Feel It / Circus Act",
-        "url": "https://open.spotify.com/album/4UapkYniEMCTYnA9SzZgh0"
+        "name": "Faith, Hope & Clarity",
+        "url": "https://open.spotify.com/album/1kPIn4PuSmvGDsXDCxVDB7"
       },
       "artists": [
         {
-          "name": "Stacey Pullen",
-          "url": "https://open.spotify.com/artist/0GJpYdmVCgg90TkyB1nB1y"
+          "name": "The Reese Project",
+          "url": "https://open.spotify.com/artist/0BshoWL6YCwwdSTLXETd6d"
         }
       ],
-      "duration_ms": 458302,
-      "name": "Feel It",
-      "url": "https://open.spotify.com/track/7AjK0QATXS2Ee857NmZABa"
+      "duration_ms": 346413,
+      "name": "The Color of Love - Reese Deep Mix",
+      "url": "https://open.spotify.com/track/1Qg29ZSo2roSr6ghY08jhn"
     }
   ],
   "unique_name": "Detroit Techno",

@@ -568,6 +568,24 @@
     },
     {
       "album": {
+        "name": "El Rey de las Cantinas",
+        "url": "https://open.spotify.com/album/2B0w9D8Ras1AmoZnp6DZcP"
+      },
+      "artists": [
+        {
+          "name": "Guiller",
+          "url": "https://open.spotify.com/artist/05qMOtzCy90GhGIvelpvaF"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192040,
+      "name": "Corazoncito",
+      "url": "https://open.spotify.com/track/4O7oTlSS1fOAmhdXIhRlIU"
+    },
+    {
+      "album": {
         "name": "La Dama del Bolero",
         "url": "https://open.spotify.com/album/0bCz2IkWynHJzOFb6vkYoF"
       },
@@ -1825,7 +1843,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-06",
       "duration_ms": 206908,
       "name": "Si No Est\u00e1s para Mi",
       "url": "https://open.spotify.com/track/3hGqPor9JKVGAMn2GSHyfn"

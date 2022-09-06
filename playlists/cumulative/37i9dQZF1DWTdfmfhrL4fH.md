@@ -4,7 +4,7 @@
 
 > Any songs you forgot existed? Let's go deep into 2010s rock!  Cover: Papa Roach.
 
-518 songs - 1 day 8 hr 29 min - [published](https://open.spotify.com/playlist/6ihczCtWEYpK0uNMkSCVwY)
+519 songs - 1 day 8 hr 32 min - [published](https://open.spotify.com/playlist/6ihczCtWEYpK0uNMkSCVwY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,6 +138,7 @@
 | [Enemy](https://open.spotify.com/track/23I5jJ30Ykh6GtFCfoON1q) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Time For Annihilation: On the Record & On the Road](https://open.spotify.com/album/5g4beFWASWMo9S0JtvU4gV) | 3:38 | 2022-05-25 | 2022-07-28 |
 | [Evelyn](https://open.spotify.com/track/1jlZ9at2Vibq1Zy3ZdDVlM) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Beyond Hell / Above Heaven](https://open.spotify.com/album/2gBziT8McYGmC7Vzf4BsK9) | 3:29 | 2022-05-25 | 2022-07-19 |
 | [Everything Is Alright](https://open.spotify.com/track/6cuSWDG6TiB7a5l708ulz5) | [The Glorious Sons](https://open.spotify.com/artist/5CPxrqCStgt6AfI4fLiedH) | [Young Beauties and Fools](https://open.spotify.com/album/4i5BjmLwwctu36APMD6qqp) | 3:13 | 2022-05-25 | 2022-07-19 |
+| [Evil Eye](https://open.spotify.com/track/6NlE71TbUglmKQVLhE1H8R) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [Right Thoughts, Right Words, Right Action \(Deluxe Edition\)](https://open.spotify.com/album/5W7631WJASasWPAFFzDpzi) | 2:47 | 2022-05-25 |  |
 | [Eyes Wide Open](https://open.spotify.com/track/0OgZjKTgWGQ8och3pwftql) | [Staind](https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb) | [Staind](https://open.spotify.com/album/1MNV0Hm2aV2U9DahSK2oqR) | 3:30 | 2022-05-25 | 2022-07-22 |
 | [Fabuless](https://open.spotify.com/track/72GH838JaxrCA8IFcXqgXm) | [Stone Sour](https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF) | [Hydrograd](https://open.spotify.com/album/4PERSgw7TXqpEZlIVN6zHr) | 4:00 | 2022-05-25 | 2022-07-28 |
 | [Face Everything And Rise](https://open.spotify.com/track/5K7RDuh2JihPUScuOB76Sq) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [F.E.A.R.](https://open.spotify.com/album/70TYHf7Is70KOY1sHl5Vlh) | 3:10 | 2022-05-25 | 2022-07-29 |
@@ -336,7 +337,7 @@
 | [Now](https://open.spotify.com/track/0LBz07gAdgUukYvpFyW87y) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Paramore](https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF) | 4:10 | 2022-05-25 | 2022-07-29 |
 | [Now](https://open.spotify.com/track/2Mu4Ao7H9HgkOq02MKsu3z) | [Staind](https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb) | [Staind](https://open.spotify.com/album/1MNV0Hm2aV2U9DahSK2oqR) | 3:44 | 2022-05-25 | 2022-07-29 |
 | [Nuclear Family](https://open.spotify.com/track/7cuckwTEbDhjOzhZkG6otN) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Nuclear Family](https://open.spotify.com/album/2eNZY34FfJ6ZURgN3jw5ee) | 3:03 | 2022-05-25 | 2022-07-29 |
-| [October](https://open.spotify.com/track/09zDgbs5NQH1kKFXHppYhr) | [Broken Bells](https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG) | [Broken Bells](https://open.spotify.com/album/0X7WyEKdm5afGj1fmD7Blx) | 3:38 | 2022-05-25 |  |
+| [October](https://open.spotify.com/track/09zDgbs5NQH1kKFXHppYhr) | [Broken Bells](https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG) | [Broken Bells](https://open.spotify.com/album/0X7WyEKdm5afGj1fmD7Blx) | 3:38 | 2022-05-25 | 2022-09-06 |
 | [Oh Love](https://open.spotify.com/track/1qIgyDoc2rwtq8w49jeWL8) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [¡UNO!](https://open.spotify.com/album/6AFJIZmd1zWQDBBwHyeo9w) | 5:03 | 2022-05-25 |  |
 | [Oh, What A Life](https://open.spotify.com/track/0ImkGucv1ID5EkuhslttfD) | [American Authors](https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3) | [Oh, What A Life](https://open.spotify.com/album/0V4laGZGshNCpurfIdUhHv) | 3:39 | 2022-05-25 | 2022-07-05 |
 | [On And On](https://open.spotify.com/track/65Ce0h4SA18GuH6nuI1QWe) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [ATLAS \(Deluxe\)](https://open.spotify.com/album/2estDSavGQ2q3IHLbzxkSE) | 3:35 | 2022-05-25 | 2022-08-12 |

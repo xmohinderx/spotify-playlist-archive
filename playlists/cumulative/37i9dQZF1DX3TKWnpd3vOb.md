@@ -4,7 +4,7 @@
 
 > Encuentra un mix de clásicos y nuevos talentos\. Foto: Plumas + Pedropiedra
 
-205 songs - 13 hr 11 min - [published](https://open.spotify.com/playlist/1tfQa6JTwsM9WdweiKdMHY)
+206 songs - 13 hr 14 min - [published](https://open.spotify.com/playlist/1tfQa6JTwsM9WdweiKdMHY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,6 +131,7 @@
 | [Morada](https://open.spotify.com/track/6KQeXWaC0MW1w7Csykf1ME) | [Implos](https://open.spotify.com/artist/56YpnBaRqcv4nmiNmwV6k6) | [Morada](https://open.spotify.com/album/7jlHr6be9TdEtZtfDQsnWn) | 4:37 | 2022-04-08 | 2022-07-29 |
 | [Mujer Robusta \(En Vivo Teatro Caupolicán\)](https://open.spotify.com/track/2LGVZgkkPNl2NRdKjytmoi) | [Sinergia](https://open.spotify.com/artist/1OgaghfYd1qr8DFoNrfDNk), [GrassBrass](https://open.spotify.com/artist/1eJudSmozfcZXqLhvnoWKV) | [25 Años \(En Vivo Teatro Caupolicán\)](https://open.spotify.com/album/6Hi5NK6c0xlretuT0p4epl) | 3:07 | 2022-04-08 |  |
 | [Mágico](https://open.spotify.com/track/37uLyC9qkxus8WmyZQBRRx) | [Joe Vasconcellos](https://open.spotify.com/artist/4sGC7K2rSpWrWudBgYPMce) | [Éxitos Chilenos](https://open.spotify.com/album/09UbdY5tHTS6dhVu786BUw) | 3:07 | 2022-07-08 | 2022-08-30 |
+| [Mágico](https://open.spotify.com/track/4CtI6hFwdR0xlCdap0Fhyn) | [Joe Vasconcellos](https://open.spotify.com/artist/4sGC7K2rSpWrWudBgYPMce) | [Para noventeros chilenos](https://open.spotify.com/album/5PT5a0e9OJhMeejCDXdqqN) | 3:07 | 2022-09-05 |  |
 | [Mágico](https://open.spotify.com/track/5xjomARNn4eeQ9yXVTIXBJ) | [Joe Vasconcellos](https://open.spotify.com/artist/4sGC7K2rSpWrWudBgYPMce) | [Toque](https://open.spotify.com/album/3fGKGJuofCLwmPzK2wLIxn) | 3:07 | 2022-04-08 | 2022-07-29 |
 | [Música de Fondo](https://open.spotify.com/track/0KoBS9IJFn9USaHK6dbgch) | [Saiko](https://open.spotify.com/artist/6YgPVbrxWFP9dnp8dsqDry), [Aleks Syntek](https://open.spotify.com/artist/0r8toju2ecKaVtItkzAnNi) | [Música de Fondo](https://open.spotify.com/album/0VpzNAWJru2fYY764kGnM5) | 3:26 | 2022-04-08 |  |
 | [Nash](https://open.spotify.com/track/47pV17Jfn1MEGj3SOw6kdX) | [Los Carrera](https://open.spotify.com/artist/0epOxsJ9byRcbIHL2uRG2m) | [República Rock, Vol\. 2](https://open.spotify.com/album/5zhxwxaOGOVLpFxPDGvzzE) | 3:37 | 2022-04-08 | 2022-07-28 |
@@ -160,7 +161,7 @@
 | [Rockola](https://open.spotify.com/track/1XoKN9z9XpNGu1MGjmmWxS) | [Julius Popper](https://open.spotify.com/artist/4ZWex7Cr0HbNkpnTZPCcfO) | [Rockola](https://open.spotify.com/album/6WuqaRblv8XoOmZlQSFxux) | 3:31 | 2022-04-08 |  |
 | [Río Río](https://open.spotify.com/track/5bJIbutXaAIQioofZN0wFY) | [Upa!](https://open.spotify.com/artist/3SQwqIl6r35rkAXPw7cm9n), [María José Levine](https://open.spotify.com/artist/3zXchpwqcB321HARod2wCG) | [Río Río](https://open.spotify.com/album/0AiixwBm1VKGyrTJVJAgDX) | 3:28 | 2022-04-08 |  |
 | [Sabes](https://open.spotify.com/track/6tAzZ3o3XPTIFWCnkiKL32) | [Saiko](https://open.spotify.com/artist/6YgPVbrxWFP9dnp8dsqDry) | [Sabes](https://open.spotify.com/album/1LMbQSacFIEX4CaqwTqb83) | 3:37 | 2022-04-08 |  |
-| [Sale](https://open.spotify.com/track/0JwfanqBJszF8B8bVjuXuU) | [Pascuala Ilabaca y Fauna](https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA), [Arlette Jequier](https://open.spotify.com/artist/4gSoikgkAj7eScTWcLrmij) | [Sale](https://open.spotify.com/album/0QceJCJqsKtfEfxQJZaKAD) | 3:57 | 2022-07-08 |  |
+| [Sale](https://open.spotify.com/track/0JwfanqBJszF8B8bVjuXuU) | [Pascuala Ilabaca y Fauna](https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA), [Arlette Jequier](https://open.spotify.com/artist/4gSoikgkAj7eScTWcLrmij) | [Sale](https://open.spotify.com/album/0QceJCJqsKtfEfxQJZaKAD) | 3:57 | 2022-07-08 | 2022-09-06 |
 | [Sale](https://open.spotify.com/track/2ajo9Gd7rmO55ODO7OXWA6) | [Pascuala Ilabaca y Fauna](https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA), [Arlette Jequier](https://open.spotify.com/artist/4gSoikgkAj7eScTWcLrmij) | [Sale](https://open.spotify.com/album/1WaMACP9knlEcyfwkkTLWk) | 3:57 | 2022-04-08 | 2022-07-29 |
 | [Sangre y Revolución](https://open.spotify.com/track/7F9YkBBy9UbisYPKEYu9bt) | [Kutral Kai Paz](https://open.spotify.com/artist/3vszuJ8MGiTnqljThfpVJB) | [Sangre y Revolución](https://open.spotify.com/album/5DCuvjIbb3I8CpBNE1UoFN) | 3:48 | 2022-04-08 | 2022-07-29 |
 | [Se Nos Fue el Amor](https://open.spotify.com/track/1E9rLfNTizWr2zORB4HM6C) | [El Cruce](https://open.spotify.com/artist/7qaHFNFCjcXpsHQM5NQhaK) | [Sin Mentir](https://open.spotify.com/album/3NBnKd8IO2Ba7AMebrICry) | 3:05 | 2022-04-08 |  |

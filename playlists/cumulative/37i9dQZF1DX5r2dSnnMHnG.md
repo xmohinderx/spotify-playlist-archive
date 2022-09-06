@@ -4,14 +4,14 @@
 
 > 벚꽃이 흩날리고 새싹이 피어오르는 봄의 설레임을 만끽하세요.
 
-142 songs - 8 hr 12 min - [published](https://open.spotify.com/playlist/3bTGjCbNqBInmwb7ojPDvw)
+143 songs - 8 hr 16 min - [published](https://open.spotify.com/playlist/3bTGjCbNqBInmwb7ojPDvw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [200%](https://open.spotify.com/track/6qkx0tenDglbF21CU4wa1k) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv) | [PLAY](https://open.spotify.com/album/1eu07xRE0vQfN5et0Y3DAy) | 3:13 | 2022-05-11 |  |
 | [AFTER THE LIGHT](https://open.spotify.com/track/7CAlzZZI89CpcNgw0rTIHh) | [Kang Butter](https://open.spotify.com/artist/44YDdiwbvzPtVvKOA6uWS7) | [AFTER THE LIGHT](https://open.spotify.com/album/0o5EHrWY8OhObL2HwHNGpv) | 3:14 | 2022-05-11 |  |
 | [Afterimage Project Pt.1 'Oasis' \- Oasis \(go with me\)](https://open.spotify.com/track/43jpdMVpf2TK08VNfBobHg) | [Kim Kyu Jong](https://open.spotify.com/artist/3WMXYNpeC5Z5POJdES9VDp) | [Afterimage Project Pt.1 'Oasis' \- Oasis \(go with me\)](https://open.spotify.com/album/3eRrOAD9HZDivVY1n9dIKQ) | 3:09 | 2022-06-09 |  |
-| [Amaranth \(FEAT\. DINDIN\)](https://open.spotify.com/track/1edDx0IWDK9HnLsenR6Uss) | [Cho Hyunyoung](https://open.spotify.com/artist/1H2S37zuLm5Sn4PBADR72w), [DINDIN](https://open.spotify.com/artist/63cvWayCvPbWYNDi537w0z) | [Amaranth \(FEAT\. DINDIN\)](https://open.spotify.com/album/0D0b3zqhmAg4EejKihHyI9) | 2:54 | 2022-05-11 |  |
+| [Amaranth \(FEAT\. DINDIN\)](https://open.spotify.com/track/1edDx0IWDK9HnLsenR6Uss) | [Cho Hyunyoung](https://open.spotify.com/artist/1H2S37zuLm5Sn4PBADR72w), [DINDIN](https://open.spotify.com/artist/63cvWayCvPbWYNDi537w0z) | [Amaranth \(FEAT\. DINDIN\)](https://open.spotify.com/album/0D0b3zqhmAg4EejKihHyI9) | 2:54 | 2022-05-11 | 2022-09-06 |
 | [Angel](https://open.spotify.com/track/1rA1etw2JosyY4n6b9HE4N) | [Rossy Punky Perfume](https://open.spotify.com/artist/5dW3UqNwzOT9hOdkBqft6w) | [Angel](https://open.spotify.com/album/5i5OSJCQJT3DB5H4uA2PvD) | 3:56 | 2022-06-09 | 2022-07-28 |
 | [Baby I told you](https://open.spotify.com/track/27PvuEGJGW91wrP5q3khDD) | [Hawoong](https://open.spotify.com/artist/57saO8Z8WQgBNCfhRc1i3G) | [Baby I told you](https://open.spotify.com/album/4RfQ0urMKBfgd7XF8iQNxc) | 2:44 | 2022-05-11 | 2022-07-26 |
 | [Beyond Love \(Feat\. 10CM\)](https://open.spotify.com/track/0HsRZwZzHoZ5AM5W2ZYI5c) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Beyond Love](https://open.spotify.com/album/5Gp70tE4qrzx93UkoqP5QA) | 3:08 | 2022-05-11 |  |
@@ -44,6 +44,7 @@
 | [Galaxy 우주를 줄게](https://open.spotify.com/track/15c7KZTrsCUxCQcOdUVELc) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Full Album RED PLANET](https://open.spotify.com/album/5bA5ItGeDXS2XIt9axBSwL) | 3:33 | 2022-05-11 |  |
 | [Good Person \(2022\)](https://open.spotify.com/track/0lbtRkC7Bs9aR3ZYvtZydi) | [HAECHAN](https://open.spotify.com/artist/1pHMYguhayIoXmPjoOUyu3) | [Good Person \(2022\)](https://open.spotify.com/album/5RZrivX6GuIijYW0A2ippm) | 4:40 | 2022-05-11 |  |
 | [Green Tea](https://open.spotify.com/track/2Y7cOqDqsA2MpQ4HX4B8MD) | [The Green Tea](https://open.spotify.com/artist/2YSSfMg2K75oTvfc63kGQB) | [Heart in Motion](https://open.spotify.com/album/4mFnHs0Q8PXVeibICq4w15) | 4:07 | 2022-05-11 |  |
+| [Happy Ending](https://open.spotify.com/track/3HLFIlahbxScNvZhq14qOJ) | [Hong Dae Kwang](https://open.spotify.com/artist/6uzSh44SrjshRLiZ3qt8hp) | [Happy Ending](https://open.spotify.com/album/4jus9HaNnfiyXpP8ci0TAp) | 4:01 | 2022-09-05 |  |
 | [Hi spring Bye](https://open.spotify.com/track/2M7a2Us8CEU1HZHj70byGX) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 5:24 | 2022-05-11 |  |
 | [HOLO](https://open.spotify.com/track/4BSluGpjdLQihMmKgHXMxp) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [HOLO](https://open.spotify.com/album/5xq9sm0jGMMDu5LifpBBo1) | 2:58 | 2022-07-04 |  |
 | [HOLO](https://open.spotify.com/track/7Acvy2L38SCipAeMPOK8Ro) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [HOLO](https://open.spotify.com/album/6PY5EutFgpr9GLeaagGBda) | 2:58 | 2022-05-11 | 2022-07-29 |

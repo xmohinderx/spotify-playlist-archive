@@ -1,12 +1,12 @@
 {
   "description": "The freshest smooth jazz. Cover: Nick Colionne",
-  "num_followers": 35516,
+  "num_followers": null,
   "original_name": "Nu-Smooth",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjA5MTMyMCwwMDAwMDAwMGRhODQ0MzRlZjViMmRkYzc0YTJiZWNhODQ4YTZkMzM0",
+  "snapshot_id": "MTY2MjA5MTMyMCwwMDAwMDAwMGNmZTQxYjFjYzVhZDVlNTJjNzIwNmYyNjA5YzFlOTM1",
   "tracks": [
     {
       "added_at": "2022-08-12 04:02:00",
@@ -93,38 +93,6 @@
       "url": "https://open.spotify.com/track/4pXtjONiRse7CmVqc9Ujjs"
     },
     {
-      "added_at": "2022-02-25 05:02:00",
-      "album": {
-        "name": "Business As Usual",
-        "url": "https://open.spotify.com/album/6H9GZBSACCRi8fVk8Wp2F5"
-      },
-      "artists": [
-        {
-          "name": "Sean U",
-          "url": "https://open.spotify.com/artist/0z87sJVJOzK2uqJ4lsxUdE"
-        }
-      ],
-      "duration_ms": 216129,
-      "name": "Business As Usual",
-      "url": "https://open.spotify.com/track/3Wxtwc8fYISyUwqIRONuzc"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
-        "name": "What You Do To Me",
-        "url": "https://open.spotify.com/album/498VXH5Fae33kH2f8CsPpV"
-      },
-      "artists": [
-        {
-          "name": "Nick Colionne",
-          "url": "https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l"
-        }
-      ],
-      "duration_ms": 297750,
-      "name": "What You Do To Me",
-      "url": "https://open.spotify.com/track/60fLe1NP8QEIAbMc9V4SPq"
-    },
-    {
       "added_at": "2022-08-26 04:02:00",
       "album": {
         "name": "Tribute",
@@ -139,6 +107,22 @@
       "duration_ms": 245426,
       "name": "Tribute",
       "url": "https://open.spotify.com/track/50MtaTholYQZwggn6EvbTl"
+    },
+    {
+      "added_at": "2022-02-25 05:02:00",
+      "album": {
+        "name": "Business As Usual",
+        "url": "https://open.spotify.com/album/6H9GZBSACCRi8fVk8Wp2F5"
+      },
+      "artists": [
+        {
+          "name": "Sean U",
+          "url": "https://open.spotify.com/artist/0z87sJVJOzK2uqJ4lsxUdE"
+        }
+      ],
+      "duration_ms": 216129,
+      "name": "Business As Usual",
+      "url": "https://open.spotify.com/track/3Wxtwc8fYISyUwqIRONuzc"
     },
     {
       "added_at": "2022-04-15 04:02:00",
@@ -159,6 +143,22 @@
       "duration_ms": 257410,
       "name": "Lavish",
       "url": "https://open.spotify.com/track/7HWcoYr38NGhW8yIXcTLib"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
+        "name": "What You Do To Me",
+        "url": "https://open.spotify.com/album/498VXH5Fae33kH2f8CsPpV"
+      },
+      "artists": [
+        {
+          "name": "Nick Colionne",
+          "url": "https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l"
+        }
+      ],
+      "duration_ms": 297750,
+      "name": "What You Do To Me",
+      "url": "https://open.spotify.com/track/60fLe1NP8QEIAbMc9V4SPq"
     },
     {
       "added_at": "2021-08-27 04:01:00",
@@ -409,6 +409,22 @@
       "url": "https://open.spotify.com/track/3A7ltXDaw2o8kdXttc9rXp"
     },
     {
+      "added_at": "2021-08-13 04:01:00",
+      "album": {
+        "name": "On The Move",
+        "url": "https://open.spotify.com/album/4pBNj3JonyIgHr9VBzjUUS"
+      },
+      "artists": [
+        {
+          "name": "Vincent Ingala",
+          "url": "https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7"
+        }
+      ],
+      "duration_ms": 250093,
+      "name": "On The Move",
+      "url": "https://open.spotify.com/track/2Q6XPRLwgglQSYVAoCRaEI"
+    },
+    {
       "added_at": "2021-06-18 04:01:00",
       "album": {
         "name": "The Sailor",
@@ -427,22 +443,6 @@
       "duration_ms": 273181,
       "name": "The Sailor",
       "url": "https://open.spotify.com/track/6bGtyIx8T1Ju65CTrcawwl"
-    },
-    {
-      "added_at": "2021-08-13 04:01:00",
-      "album": {
-        "name": "On The Move",
-        "url": "https://open.spotify.com/album/4pBNj3JonyIgHr9VBzjUUS"
-      },
-      "artists": [
-        {
-          "name": "Vincent Ingala",
-          "url": "https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7"
-        }
-      ],
-      "duration_ms": 250093,
-      "name": "On The Move",
-      "url": "https://open.spotify.com/track/2Q6XPRLwgglQSYVAoCRaEI"
     },
     {
       "added_at": "2022-03-25 04:01:00",
@@ -481,6 +481,22 @@
       "url": "https://open.spotify.com/track/30gMOvwtvkEpSDyQmEKdN2"
     },
     {
+      "added_at": "2021-08-13 04:01:00",
+      "album": {
+        "name": "Feels So Right (Radio Edit)",
+        "url": "https://open.spotify.com/album/5YeHuC9Qk5a0vlaUwl6YUL"
+      },
+      "artists": [
+        {
+          "name": "Blake Aaron",
+          "url": "https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56"
+        }
+      ],
+      "duration_ms": 266062,
+      "name": "Feels So Right - Radio Edit",
+      "url": "https://open.spotify.com/track/2M1SQBEbGRpO16JmwWfD7d"
+    },
+    {
       "added_at": "2022-05-06 04:02:00",
       "album": {
         "name": "The Inauguration of Jtjazz (Jesse Thompson the Man Behind the Keys)",
@@ -499,22 +515,6 @@
       "duration_ms": 293280,
       "name": "Weekend Groove",
       "url": "https://open.spotify.com/track/6v8AwEkXA8IvgVz00otrNT"
-    },
-    {
-      "added_at": "2021-08-13 04:01:00",
-      "album": {
-        "name": "Feels So Right (Radio Edit)",
-        "url": "https://open.spotify.com/album/5YeHuC9Qk5a0vlaUwl6YUL"
-      },
-      "artists": [
-        {
-          "name": "Blake Aaron",
-          "url": "https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56"
-        }
-      ],
-      "duration_ms": 266062,
-      "name": "Feels So Right - Radio Edit",
-      "url": "https://open.spotify.com/track/2M1SQBEbGRpO16JmwWfD7d"
     },
     {
       "added_at": "2021-09-24 04:02:00",
@@ -537,22 +537,6 @@
       "url": "https://open.spotify.com/track/3LhJ5OcrLfQQ1igAXTuImg"
     },
     {
-      "added_at": "2022-04-15 04:02:00",
-      "album": {
-        "name": "Red Tiger",
-        "url": "https://open.spotify.com/album/2jYih8CJwo4nzuzy5aokwV"
-      },
-      "artists": [
-        {
-          "name": "Blair Bryant",
-          "url": "https://open.spotify.com/artist/1bNvtqK9g0M2hDWRLdwpZq"
-        }
-      ],
-      "duration_ms": 249262,
-      "name": "Relentless",
-      "url": "https://open.spotify.com/track/3S7QaZDPqc14xWObHGVfyk"
-    },
-    {
       "added_at": "2021-07-16 04:01:00",
       "album": {
         "name": "Cruising the Boulevard",
@@ -571,6 +555,22 @@
       "duration_ms": 259146,
       "name": "Cruising the Boulevard",
       "url": "https://open.spotify.com/track/3J876JF0XKXFSltuHMjD5r"
+    },
+    {
+      "added_at": "2022-04-15 04:02:00",
+      "album": {
+        "name": "Red Tiger",
+        "url": "https://open.spotify.com/album/2jYih8CJwo4nzuzy5aokwV"
+      },
+      "artists": [
+        {
+          "name": "Blair Bryant",
+          "url": "https://open.spotify.com/artist/1bNvtqK9g0M2hDWRLdwpZq"
+        }
+      ],
+      "duration_ms": 249262,
+      "name": "Relentless",
+      "url": "https://open.spotify.com/track/3S7QaZDPqc14xWObHGVfyk"
     },
     {
       "added_at": "2021-10-01 04:02:00",
@@ -605,22 +605,6 @@
       "url": "https://open.spotify.com/track/2RUCKGzg42LaoDUdloxiIA"
     },
     {
-      "added_at": "2022-06-17 04:02:00",
-      "album": {
-        "name": "Make Up Your Mind (Radio Edit)",
-        "url": "https://open.spotify.com/album/7euOjpEALM3P4Q2p0U6hVC"
-      },
-      "artists": [
-        {
-          "name": "Dee Brown",
-          "url": "https://open.spotify.com/artist/5KQWbnjf2snsqPD9e3NNt7"
-        }
-      ],
-      "duration_ms": 240280,
-      "name": "Make Up Your Mind - Radio Edit",
-      "url": "https://open.spotify.com/track/0RGZmBcov71tCy54JdHwcu"
-    },
-    {
       "added_at": "2022-04-29 04:02:00",
       "album": {
         "name": "G-Stream 2-Turn It Up",
@@ -635,6 +619,22 @@
       "duration_ms": 270946,
       "name": "G-Wiggle",
       "url": "https://open.spotify.com/track/4HjRmQiDLMQ1VQcVQuuh3d"
+    },
+    {
+      "added_at": "2022-06-17 04:02:00",
+      "album": {
+        "name": "Make Up Your Mind (Radio Edit)",
+        "url": "https://open.spotify.com/album/7euOjpEALM3P4Q2p0U6hVC"
+      },
+      "artists": [
+        {
+          "name": "Dee Brown",
+          "url": "https://open.spotify.com/artist/5KQWbnjf2snsqPD9e3NNt7"
+        }
+      ],
+      "duration_ms": 240280,
+      "name": "Make Up Your Mind - Radio Edit",
+      "url": "https://open.spotify.com/track/0RGZmBcov71tCy54JdHwcu"
     },
     {
       "added_at": "2021-10-15 04:01:00",
@@ -749,6 +749,22 @@
       "url": "https://open.spotify.com/track/2K2gljzDjOevU44AWPKoNb"
     },
     {
+      "added_at": "2022-05-13 04:02:00",
+      "album": {
+        "name": "Savoir Faire",
+        "url": "https://open.spotify.com/album/4LHZJCWjESiatRHwjjNlGp"
+      },
+      "artists": [
+        {
+          "name": "Najee",
+          "url": "https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3"
+        }
+      ],
+      "duration_ms": 318733,
+      "name": "Savoir Faire",
+      "url": "https://open.spotify.com/track/1TOR7FOoECmAgHgFvyzM6i"
+    },
+    {
       "added_at": "2022-07-01 04:02:00",
       "album": {
         "name": "Making Love To You",
@@ -767,22 +783,6 @@
       "duration_ms": 285069,
       "name": "Making Love To You",
       "url": "https://open.spotify.com/track/76M4Z7niotejRyHwsFnEvh"
-    },
-    {
-      "added_at": "2022-05-13 04:02:00",
-      "album": {
-        "name": "Savoir Faire",
-        "url": "https://open.spotify.com/album/4LHZJCWjESiatRHwjjNlGp"
-      },
-      "artists": [
-        {
-          "name": "Najee",
-          "url": "https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3"
-        }
-      ],
-      "duration_ms": 318733,
-      "name": "Savoir Faire",
-      "url": "https://open.spotify.com/track/1TOR7FOoECmAgHgFvyzM6i"
     },
     {
       "added_at": "2021-08-20 04:02:00",
@@ -1025,26 +1025,6 @@
       "url": "https://open.spotify.com/track/78y37Rtf5UXolH7LqUNjF7"
     },
     {
-      "added_at": "2021-06-11 04:01:00",
-      "album": {
-        "name": "A to Z",
-        "url": "https://open.spotify.com/album/0bZqdeW8LqD3GTNnYuxGzB"
-      },
-      "artists": [
-        {
-          "name": "Andrew Neu",
-          "url": "https://open.spotify.com/artist/2UvENYRkDPxhXmp92vkzhF"
-        },
-        {
-          "name": "Rob Zinn",
-          "url": "https://open.spotify.com/artist/6I8oFZvFlvaEXz6ZYhEB65"
-        }
-      ],
-      "duration_ms": 249813,
-      "name": "A to Z",
-      "url": "https://open.spotify.com/track/6sJwnAnUD18u9MysrfzY0g"
-    },
-    {
       "added_at": "2021-08-13 04:01:00",
       "album": {
         "name": "Set Sail",
@@ -1065,20 +1045,24 @@
       "url": "https://open.spotify.com/track/1GAX53Nnul0CQx3GawFpSS"
     },
     {
-      "added_at": "2022-02-14 15:14:54",
+      "added_at": "2021-06-11 04:01:00",
       "album": {
-        "name": "A Midnight Rendezvous",
-        "url": "https://open.spotify.com/album/3up7BY3W1z8pMNipUQOl7x"
+        "name": "A to Z",
+        "url": "https://open.spotify.com/album/0bZqdeW8LqD3GTNnYuxGzB"
       },
       "artists": [
         {
-          "name": "David Benoit",
-          "url": "https://open.spotify.com/artist/1OLWM7nUNcTjZ9ct4DEPZu"
+          "name": "Andrew Neu",
+          "url": "https://open.spotify.com/artist/2UvENYRkDPxhXmp92vkzhF"
+        },
+        {
+          "name": "Rob Zinn",
+          "url": "https://open.spotify.com/artist/6I8oFZvFlvaEXz6ZYhEB65"
         }
       ],
-      "duration_ms": 237586,
-      "name": "Pioneer Town",
-      "url": "https://open.spotify.com/track/53djpTONT01aF8xYjuLosr"
+      "duration_ms": 249813,
+      "name": "A to Z",
+      "url": "https://open.spotify.com/track/6sJwnAnUD18u9MysrfzY0g"
     },
     {
       "added_at": "2022-02-25 05:02:00",
@@ -1097,20 +1081,20 @@
       "url": "https://open.spotify.com/track/5mwRmYIiy0rISoe74f1Hol"
     },
     {
-      "added_at": "2022-04-15 04:02:00",
+      "added_at": "2022-02-14 15:14:54",
       "album": {
-        "name": "Blue",
-        "url": "https://open.spotify.com/album/6OXq9kgHo787SpOBuRp9qk"
+        "name": "A Midnight Rendezvous",
+        "url": "https://open.spotify.com/album/3up7BY3W1z8pMNipUQOl7x"
       },
       "artists": [
         {
-          "name": "Jessy J",
-          "url": "https://open.spotify.com/artist/4WrtIP5PIekZwaAZo1tb0x"
+          "name": "David Benoit",
+          "url": "https://open.spotify.com/artist/1OLWM7nUNcTjZ9ct4DEPZu"
         }
       ],
-      "duration_ms": 216550,
-      "name": "Dig It",
-      "url": "https://open.spotify.com/track/2zhLDKuqClyWEJJfHVGe2y"
+      "duration_ms": 237586,
+      "name": "Pioneer Town",
+      "url": "https://open.spotify.com/track/53djpTONT01aF8xYjuLosr"
     },
     {
       "added_at": "2021-06-25 04:02:00",
@@ -1145,26 +1129,6 @@
       "url": "https://open.spotify.com/track/3SpVmdLcEGAu5YSu7eq1IK"
     },
     {
-      "added_at": "2021-11-12 04:00:00",
-      "album": {
-        "name": "Legacy [Feat. \"The Sound\u201d of Stan Getz]",
-        "url": "https://open.spotify.com/album/0DUGnTHNjvNAM2BEJEAahu"
-      },
-      "artists": [
-        {
-          "name": "Kenny G",
-          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
-        },
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        }
-      ],
-      "duration_ms": 236706,
-      "name": "Legacy [Feat. \"The Sound\u201d of Stan Getz]",
-      "url": "https://open.spotify.com/track/5qerN3vnJd2zLapuo3F4Qr"
-    },
-    {
       "added_at": "2022-03-11 05:02:00",
       "album": {
         "name": "Radio Vibe",
@@ -1185,6 +1149,42 @@
       "url": "https://open.spotify.com/track/37kqA5lnqJMJzDXeVuiTgj"
     },
     {
+      "added_at": "2022-04-15 04:02:00",
+      "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/6OXq9kgHo787SpOBuRp9qk"
+      },
+      "artists": [
+        {
+          "name": "Jessy J",
+          "url": "https://open.spotify.com/artist/4WrtIP5PIekZwaAZo1tb0x"
+        }
+      ],
+      "duration_ms": 216550,
+      "name": "Dig It",
+      "url": "https://open.spotify.com/track/2zhLDKuqClyWEJJfHVGe2y"
+    },
+    {
+      "added_at": "2021-11-12 04:00:00",
+      "album": {
+        "name": "Legacy [Feat. \"The Sound\u201d of Stan Getz]",
+        "url": "https://open.spotify.com/album/0DUGnTHNjvNAM2BEJEAahu"
+      },
+      "artists": [
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        },
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "duration_ms": 236706,
+      "name": "Legacy [Feat. \"The Sound\u201d of Stan Getz]",
+      "url": "https://open.spotify.com/track/5qerN3vnJd2zLapuo3F4Qr"
+    },
+    {
       "added_at": "2022-01-21 05:02:00",
       "album": {
         "name": "SHINE!",
@@ -1203,22 +1203,6 @@
       "duration_ms": 261640,
       "name": "SHINE!",
       "url": "https://open.spotify.com/track/2MBoLsxCadKKMNTcpt8yGU"
-    },
-    {
-      "added_at": "2022-07-01 04:02:00",
-      "album": {
-        "name": "Honest",
-        "url": "https://open.spotify.com/album/4masdetfPsUOpFF2yJ7EVB"
-      },
-      "artists": [
-        {
-          "name": "Ryan Montano",
-          "url": "https://open.spotify.com/artist/60c1zWUz1UhsnemRwziySF"
-        }
-      ],
-      "duration_ms": 374536,
-      "name": "Honest",
-      "url": "https://open.spotify.com/track/3GJ5EcLudl4JrUld9sfD7o"
     },
     {
       "added_at": "2022-01-14 05:01:00",
@@ -1245,20 +1229,20 @@
       "url": "https://open.spotify.com/track/5gOXsqoOraGd2mqEMj0LIw"
     },
     {
-      "added_at": "2022-06-03 04:02:00",
+      "added_at": "2022-07-01 04:02:00",
       "album": {
-        "name": "I Wanna Be Down",
-        "url": "https://open.spotify.com/album/1yaQNIXtz4BhOMzwKBS5IQ"
+        "name": "Honest",
+        "url": "https://open.spotify.com/album/4masdetfPsUOpFF2yJ7EVB"
       },
       "artists": [
         {
-          "name": "Nathan Allen",
-          "url": "https://open.spotify.com/artist/6IRnIHHQ6Fj5bEsGkHH2Ce"
+          "name": "Ryan Montano",
+          "url": "https://open.spotify.com/artist/60c1zWUz1UhsnemRwziySF"
         }
       ],
-      "duration_ms": 294252,
-      "name": "I Wanna Be Down",
-      "url": "https://open.spotify.com/track/4cxZb1OMmlLdGoZYTJegDL"
+      "duration_ms": 374536,
+      "name": "Honest",
+      "url": "https://open.spotify.com/track/3GJ5EcLudl4JrUld9sfD7o"
     },
     {
       "added_at": "2022-03-18 05:00:00",
@@ -1299,6 +1283,22 @@
       "duration_ms": 323500,
       "name": "Ticket to Pittsburgh",
       "url": "https://open.spotify.com/track/108rbeIEFrj81JWNXXWsX4"
+    },
+    {
+      "added_at": "2022-06-03 04:02:00",
+      "album": {
+        "name": "I Wanna Be Down",
+        "url": "https://open.spotify.com/album/1yaQNIXtz4BhOMzwKBS5IQ"
+      },
+      "artists": [
+        {
+          "name": "Nathan Allen",
+          "url": "https://open.spotify.com/artist/6IRnIHHQ6Fj5bEsGkHH2Ce"
+        }
+      ],
+      "duration_ms": 294252,
+      "name": "I Wanna Be Down",
+      "url": "https://open.spotify.com/track/4cxZb1OMmlLdGoZYTJegDL"
     },
     {
       "added_at": "2022-05-20 04:02:00",
@@ -1389,20 +1389,20 @@
       "url": "https://open.spotify.com/track/64YEp1YNctGTXdIMySqsWC"
     },
     {
-      "added_at": "2021-07-23 04:01:00",
+      "added_at": "2021-08-27 04:01:00",
       "album": {
-        "name": "Monday",
-        "url": "https://open.spotify.com/album/1FnCDL2O2WM57ZdbE3Jmbu"
+        "name": "Somewhere out There (Radio Edit)",
+        "url": "https://open.spotify.com/album/3M8b63zXXmJjilReykK7dw"
       },
       "artists": [
         {
-          "name": "Philip Patterson",
-          "url": "https://open.spotify.com/artist/3UgSv7DzbUESf5H4WPzaU7"
+          "name": "Gregory Goodloe",
+          "url": "https://open.spotify.com/artist/54rVFwo1rV4sK63FyFCJBY"
         }
       ],
-      "duration_ms": 254734,
-      "name": "Monday",
-      "url": "https://open.spotify.com/track/0rviXYk3XxKRrQgBmAxNIm"
+      "duration_ms": 228223,
+      "name": "Somewhere out There - Radio Edit",
+      "url": "https://open.spotify.com/track/1waCZ5tOkptUrXsrnPhFWI"
     }
   ],
   "unique_name": "Nu-Smooth",

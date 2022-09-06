@@ -4,13 +4,14 @@
 
 > Relax and slip into this eclectic mix of reggae infused tracks.
 
-57 songs - 3 hr 7 min - [published](https://open.spotify.com/playlist/46NRebXBh8HX6qp1qL56cG)
+58 songs - 3 hr 10 min - [published](https://open.spotify.com/playlist/46NRebXBh8HX6qp1qL56cG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Vibe \(feat\. Wiz Khalifa\)](https://open.spotify.com/track/6gkepFIH72ZdSIAjtvS7ZV) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [A Vibe \(feat\. Wiz Khalifa\)](https://open.spotify.com/album/6bTB8c23Zg98mJNN5wx5bw) | 2:43 | 2021-10-28 |  |
 | [Afrikan Children](https://open.spotify.com/track/4c8z56rvgeuTfJ7Pm9XGeE) | [Salaam Remi](https://open.spotify.com/artist/0rlS0SzVFk8BoiAW0fGBbN), [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP), [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo) | [Black On Purpose](https://open.spotify.com/album/5lFtGwlHH9ek0vfIeNXg4E) | 3:38 | 2021-10-28 |  |
-| [Already There](https://open.spotify.com/track/5fvFY5D9by9rm1ugSBp6E9) | [Nesta](https://open.spotify.com/artist/0TWVX68OyQscge2TZzChPx) | [Already There](https://open.spotify.com/album/0GdbOxuBPfGIQ9KVyldXGZ) | 3:32 | 2021-10-28 |  |
+| [Already There](https://open.spotify.com/track/09zn6XBm2k46tBiano8uoo) | [Nesta](https://open.spotify.com/artist/0TWVX68OyQscge2TZzChPx) | [Hope It Gets Better](https://open.spotify.com/album/3huIUxSlMAeI1FrrQVnJyV) | 3:32 | 2021-10-28 |  |
+| [Already There](https://open.spotify.com/track/5fvFY5D9by9rm1ugSBp6E9) | [Nesta](https://open.spotify.com/artist/0TWVX68OyQscge2TZzChPx) | [Already There](https://open.spotify.com/album/0GdbOxuBPfGIQ9KVyldXGZ) | 3:32 | 2021-10-28 | 2022-09-06 |
 | [Already There](https://open.spotify.com/track/67MpXN05qxu09WaM98n6RD) | [Nesta](https://open.spotify.com/artist/0TWVX68OyQscge2TZzChPx) | [Already There](https://open.spotify.com/album/2Yz7RFQXL1Ug3lkv2OXbgN) | 3:32 | 2021-10-28 | 2022-07-29 |
 | [Bag Alert](https://open.spotify.com/track/6HFqBbXr8AmRZ8gpEAAk7x) | [Junior Reid](https://open.spotify.com/artist/0qPUDOVD0aYR2lmCilnscs), [Massive B](https://open.spotify.com/artist/36fJ2Mx3ktclhSlBbsUbFY), [Chedda Boss](https://open.spotify.com/artist/71Jv72IogW8lsFMr5GEG0z), [Scrilla](https://open.spotify.com/artist/58e1DU63g4ro3Ei0Nv0ieV) | [Bag Alert](https://open.spotify.com/album/14ZaLzBc24E2pNPP9sdEei) | 3:51 | 2021-10-28 |  |
 | [Black Progress](https://open.spotify.com/track/5E9iIUkJfw9z1IrUkThMbK) | [Salaam Remi](https://open.spotify.com/artist/0rlS0SzVFk8BoiAW0fGBbN), [Stephen Marley](https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1), [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo), [Spragga Benz](https://open.spotify.com/artist/2RUW6D53228zMHAXjaQI8f) | [Black On Purpose](https://open.spotify.com/album/5lFtGwlHH9ek0vfIeNXg4E) | 2:57 | 2021-10-28 |  |

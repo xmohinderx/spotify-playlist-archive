@@ -1,12 +1,12 @@
 {
   "description": "De r\u00e9u a ref - o filho deles quer viver essa vida. Foto: Nochica, Vitin, SD9, JEFFRO",
-  "num_followers": 18469,
+  "num_followers": 18516,
   "original_name": "Malandro Posturado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjA4NzY2MCwwMDAwMDAwMDFlNTNiZTFkNTE0NzNhZTNmYWVlODVjZTRjNDRhYjgz",
+  "snapshot_id": "MTY2MjA4NzY2MCwwMDAwMDAwMGNhNDJlNTg2MThhYmZlMzEzM2MwMjJmNWI0OTNkMWNm",
   "tracks": [
     {
       "added_at": "2022-09-02 03:01:00",
@@ -219,30 +219,6 @@
     {
       "added_at": "2022-09-02 03:01:00",
       "album": {
-        "name": "Trof\u00e9u",
-        "url": "https://open.spotify.com/album/5M274S1cUS8suxN7aD4hvp"
-      },
-      "artists": [
-        {
-          "name": "Major RD",
-          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
-        },
-        {
-          "name": "Rock Danger",
-          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
-        },
-        {
-          "name": "El Lif Beatz",
-          "url": "https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k"
-        }
-      ],
-      "duration_ms": 139328,
-      "name": "Como \u00c9 Que T\u00e1?",
-      "url": "https://open.spotify.com/track/64bJ83px2Htf20Eo3n9trz"
-    },
-    {
-      "added_at": "2022-09-02 03:01:00",
-      "album": {
         "name": "A Bruta, a Braba, a Forte",
         "url": "https://open.spotify.com/album/73h7cH1GkuOSBMZ9sgX5zb"
       },
@@ -271,6 +247,30 @@
       "duration_ms": 164571,
       "name": "Lembro",
       "url": "https://open.spotify.com/track/7mXmhgvonsRxbKp6Sp2SIZ"
+    },
+    {
+      "added_at": "2022-09-02 03:01:00",
+      "album": {
+        "name": "Trof\u00e9u",
+        "url": "https://open.spotify.com/album/5M274S1cUS8suxN7aD4hvp"
+      },
+      "artists": [
+        {
+          "name": "Major RD",
+          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
+        },
+        {
+          "name": "Rock Danger",
+          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
+        },
+        {
+          "name": "El Lif Beatz",
+          "url": "https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k"
+        }
+      ],
+      "duration_ms": 139328,
+      "name": "Como \u00c9 Que T\u00e1?",
+      "url": "https://open.spotify.com/track/64bJ83px2Htf20Eo3n9trz"
     },
     {
       "added_at": "2022-09-02 03:01:00",
@@ -351,26 +351,6 @@
     {
       "added_at": "2022-09-02 03:01:00",
       "album": {
-        "name": "Esculpido a Machado",
-        "url": "https://open.spotify.com/album/5BCSltKIxLBav5MEeF0aOh"
-      },
-      "artists": [
-        {
-          "name": "LEALL",
-          "url": "https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz"
-        },
-        {
-          "name": "VHOOR",
-          "url": "https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH"
-        }
-      ],
-      "duration_ms": 120833,
-      "name": "Esculpido a Machado",
-      "url": "https://open.spotify.com/track/3Ukj7F16inQlhbExukF9YC"
-    },
-    {
-      "added_at": "2022-09-02 03:01:00",
-      "album": {
         "name": "Mandrake",
         "url": "https://open.spotify.com/album/5VsdDBaIJUPr6Oz5tqc6Mg"
       },
@@ -407,6 +387,26 @@
       "duration_ms": 230000,
       "name": "Sirenes",
       "url": "https://open.spotify.com/track/65pLuhvAvq0tPijFTpqKBP"
+    },
+    {
+      "added_at": "2022-09-02 03:01:00",
+      "album": {
+        "name": "Esculpido a Machado",
+        "url": "https://open.spotify.com/album/5BCSltKIxLBav5MEeF0aOh"
+      },
+      "artists": [
+        {
+          "name": "LEALL",
+          "url": "https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz"
+        },
+        {
+          "name": "VHOOR",
+          "url": "https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH"
+        }
+      ],
+      "duration_ms": 120833,
+      "name": "Esculpido a Machado",
+      "url": "https://open.spotify.com/track/3Ukj7F16inQlhbExukF9YC"
     },
     {
       "added_at": "2022-09-02 03:01:00",
@@ -475,6 +475,30 @@
     {
       "added_at": "2022-09-02 03:01:00",
       "album": {
+        "name": "Edgar Davids",
+        "url": "https://open.spotify.com/album/5mPtaxRSVTVuNgwE42ocMf"
+      },
+      "artists": [
+        {
+          "name": "Big Bllakk",
+          "url": "https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd"
+        },
+        {
+          "name": "Fleezus",
+          "url": "https://open.spotify.com/artist/5vl7Vj67mORmn0yJccFCfq"
+        },
+        {
+          "name": "Pedro Apoema",
+          "url": "https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0"
+        }
+      ],
+      "duration_ms": 163404,
+      "name": "Edgar Davids",
+      "url": "https://open.spotify.com/track/0w2QbGCv0JnoApWEo9BpLD"
+    },
+    {
+      "added_at": "2022-09-02 03:01:00",
+      "album": {
         "name": "Rap dos Novos Bandidos",
         "url": "https://open.spotify.com/album/2rYLZlhbWbcjNJg3PiwV9O"
       },
@@ -491,42 +515,6 @@
       "duration_ms": 91682,
       "name": "Puxa o Gatilho Primeiro",
       "url": "https://open.spotify.com/track/72BLgAUeyFgAX8T033l8Wv"
-    },
-    {
-      "added_at": "2022-09-02 03:01:00",
-      "album": {
-        "name": "Infravermelho",
-        "url": "https://open.spotify.com/album/3kk0Iagt9p1hYO6TpC0YPx"
-      },
-      "artists": [
-        {
-          "name": "LEALL",
-          "url": "https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz"
-        },
-        {
-          "name": "Luna",
-          "url": "https://open.spotify.com/artist/2uY6iqNed0QZuENdRbxiaW"
-        },
-        {
-          "name": "OG BRITTO",
-          "url": "https://open.spotify.com/artist/3sJkWvmIolNQZkWUrLRSJF"
-        },
-        {
-          "name": "VND",
-          "url": "https://open.spotify.com/artist/1XxGXIW0xJuiW267WuDgNP"
-        },
-        {
-          "name": "TOKIODK",
-          "url": "https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2"
-        },
-        {
-          "name": "KOPO",
-          "url": "https://open.spotify.com/artist/3vSHkuSE00R9QBkm5SByaA"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Infravermelho",
-      "url": "https://open.spotify.com/track/03uTSC6wATLjv3wWme4Tzm"
     },
     {
       "added_at": "2022-09-02 03:01:00",
@@ -587,26 +575,58 @@
     {
       "added_at": "2022-09-02 03:01:00",
       "album": {
-        "name": "Edgar Davids",
-        "url": "https://open.spotify.com/album/5mPtaxRSVTVuNgwE42ocMf"
+        "name": "JOVEM OG",
+        "url": "https://open.spotify.com/album/62rhAAgqTCXMeM5xXGOXMJ"
       },
       "artists": [
         {
-          "name": "Big Bllakk",
-          "url": "https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd"
+          "name": "Febem",
+          "url": "https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N"
         },
         {
-          "name": "Fleezus",
-          "url": "https://open.spotify.com/artist/5vl7Vj67mORmn0yJccFCfq"
-        },
-        {
-          "name": "Pedro Apoema",
-          "url": "https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0"
+          "name": "CESRV",
+          "url": "https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1"
         }
       ],
-      "duration_ms": 163404,
-      "name": "Edgar Davids",
-      "url": "https://open.spotify.com/track/0w2QbGCv0JnoApWEo9BpLD"
+      "duration_ms": 188330,
+      "name": "CRIME",
+      "url": "https://open.spotify.com/track/6VZ4iuA1y0utK4YR9dMfhu"
+    },
+    {
+      "added_at": "2022-09-02 03:01:00",
+      "album": {
+        "name": "Infravermelho",
+        "url": "https://open.spotify.com/album/3kk0Iagt9p1hYO6TpC0YPx"
+      },
+      "artists": [
+        {
+          "name": "LEALL",
+          "url": "https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz"
+        },
+        {
+          "name": "Luna",
+          "url": "https://open.spotify.com/artist/2uY6iqNed0QZuENdRbxiaW"
+        },
+        {
+          "name": "OG BRITTO",
+          "url": "https://open.spotify.com/artist/3sJkWvmIolNQZkWUrLRSJF"
+        },
+        {
+          "name": "VND",
+          "url": "https://open.spotify.com/artist/1XxGXIW0xJuiW267WuDgNP"
+        },
+        {
+          "name": "TOKIODK",
+          "url": "https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2"
+        },
+        {
+          "name": "KOPO",
+          "url": "https://open.spotify.com/artist/3vSHkuSE00R9QBkm5SByaA"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Infravermelho",
+      "url": "https://open.spotify.com/track/03uTSC6wATLjv3wWme4Tzm"
     },
     {
       "added_at": "2022-09-02 03:01:00",
@@ -639,26 +659,6 @@
     {
       "added_at": "2022-09-02 03:01:00",
       "album": {
-        "name": "JOVEM OG",
-        "url": "https://open.spotify.com/album/62rhAAgqTCXMeM5xXGOXMJ"
-      },
-      "artists": [
-        {
-          "name": "Febem",
-          "url": "https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N"
-        },
-        {
-          "name": "CESRV",
-          "url": "https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1"
-        }
-      ],
-      "duration_ms": 188330,
-      "name": "CRIME",
-      "url": "https://open.spotify.com/track/6VZ4iuA1y0utK4YR9dMfhu"
-    },
-    {
-      "added_at": "2022-09-02 03:01:00",
-      "album": {
         "name": "Bandidas Amam Mc Marcelly",
         "url": "https://open.spotify.com/album/06i2iP2VgBM9S0CsWYOzpN"
       },
@@ -679,30 +679,6 @@
       "duration_ms": 185142,
       "name": "Bandidas Amam Mc Marcelly",
       "url": "https://open.spotify.com/track/2QO4r7oo203Wb0Y4Y6RprZ"
-    },
-    {
-      "added_at": "2022-09-02 03:01:00",
-      "album": {
-        "name": "Esculpido a Machado",
-        "url": "https://open.spotify.com/album/5BCSltKIxLBav5MEeF0aOh"
-      },
-      "artists": [
-        {
-          "name": "LEALL",
-          "url": "https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz"
-        },
-        {
-          "name": "VND",
-          "url": "https://open.spotify.com/artist/1XxGXIW0xJuiW267WuDgNP"
-        },
-        {
-          "name": "Putodiparis",
-          "url": "https://open.spotify.com/artist/6EovSgXkFoczi75DiOsn4b"
-        }
-      ],
-      "duration_ms": 163943,
-      "name": "Desfile B\u00e9lico",
-      "url": "https://open.spotify.com/track/2HKkqPRwK207KezeMbiTTA"
     },
     {
       "added_at": "2022-09-02 03:01:00",
@@ -731,6 +707,26 @@
     {
       "added_at": "2022-09-02 03:01:00",
       "album": {
+        "name": "40\u02da.40 Deluxe",
+        "url": "https://open.spotify.com/album/15pZ53TSgyuAfNOqt2hnpM"
+      },
+      "artists": [
+        {
+          "name": "SD9",
+          "url": "https://open.spotify.com/artist/5vISZlkpbDSJybQqgUeF52"
+        },
+        {
+          "name": "Korsain",
+          "url": "https://open.spotify.com/artist/3mzX21OpC0y7SgIOKCSpKL"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "Kenner",
+      "url": "https://open.spotify.com/track/19lLjXxxDDWQCxO69QU5Zr"
+    },
+    {
+      "added_at": "2022-09-02 03:01:00",
+      "album": {
         "name": "Me liga",
         "url": "https://open.spotify.com/album/3VeZjOr9TbplcmNHzZ9xG7"
       },
@@ -755,6 +751,54 @@
     {
       "added_at": "2022-09-02 03:01:00",
       "album": {
+        "name": "BRIME!",
+        "url": "https://open.spotify.com/album/4SthjdqHeQOrm8JfZIq979"
+      },
+      "artists": [
+        {
+          "name": "Febem",
+          "url": "https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N"
+        },
+        {
+          "name": "Fleezus",
+          "url": "https://open.spotify.com/artist/5vl7Vj67mORmn0yJccFCfq"
+        },
+        {
+          "name": "CESRV",
+          "url": "https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1"
+        }
+      ],
+      "duration_ms": 150064,
+      "name": "CHELSEA",
+      "url": "https://open.spotify.com/track/2ush2pr0bKqYdT9oeBsHS7"
+    },
+    {
+      "added_at": "2022-09-02 03:01:00",
+      "album": {
+        "name": "Esculpido a Machado",
+        "url": "https://open.spotify.com/album/5BCSltKIxLBav5MEeF0aOh"
+      },
+      "artists": [
+        {
+          "name": "LEALL",
+          "url": "https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz"
+        },
+        {
+          "name": "VND",
+          "url": "https://open.spotify.com/artist/1XxGXIW0xJuiW267WuDgNP"
+        },
+        {
+          "name": "Putodiparis",
+          "url": "https://open.spotify.com/artist/6EovSgXkFoczi75DiOsn4b"
+        }
+      ],
+      "duration_ms": 163943,
+      "name": "Desfile B\u00e9lico",
+      "url": "https://open.spotify.com/track/2HKkqPRwK207KezeMbiTTA"
+    },
+    {
+      "added_at": "2022-09-02 03:01:00",
+      "album": {
         "name": "Rumo ao Estrelato",
         "url": "https://open.spotify.com/album/45LjNQUEzRB8cMy1sgIdw9"
       },
@@ -767,26 +811,6 @@
       "duration_ms": 169859,
       "name": "Rumo ao Estrelato",
       "url": "https://open.spotify.com/track/4jQo1z3xWIGDbWDffMR4jF"
-    },
-    {
-      "added_at": "2022-09-02 03:01:00",
-      "album": {
-        "name": "40\u02da.40 Deluxe",
-        "url": "https://open.spotify.com/album/15pZ53TSgyuAfNOqt2hnpM"
-      },
-      "artists": [
-        {
-          "name": "SD9",
-          "url": "https://open.spotify.com/artist/5vISZlkpbDSJybQqgUeF52"
-        },
-        {
-          "name": "Korsain",
-          "url": "https://open.spotify.com/artist/3mzX21OpC0y7SgIOKCSpKL"
-        }
-      ],
-      "duration_ms": 197000,
-      "name": "Kenner",
-      "url": "https://open.spotify.com/track/19lLjXxxDDWQCxO69QU5Zr"
     },
     {
       "added_at": "2022-09-02 03:01:00",
@@ -839,28 +863,8 @@
     {
       "added_at": "2022-09-02 03:01:00",
       "album": {
-        "name": "Esculpido a Machado",
-        "url": "https://open.spotify.com/album/5BCSltKIxLBav5MEeF0aOh"
-      },
-      "artists": [
-        {
-          "name": "LEALL",
-          "url": "https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz"
-        },
-        {
-          "name": "Luna",
-          "url": "https://open.spotify.com/artist/2uY6iqNed0QZuENdRbxiaW"
-        }
-      ],
-      "duration_ms": 157241,
-      "name": "Encomenda",
-      "url": "https://open.spotify.com/track/2AcXPYmNCL0928ISaAqhLw"
-    },
-    {
-      "added_at": "2022-09-02 03:01:00",
-      "album": {
-        "name": "BRIME!",
-        "url": "https://open.spotify.com/album/4SthjdqHeQOrm8JfZIq979"
+        "name": "RADDIM",
+        "url": "https://open.spotify.com/album/4bz8Hy3tV46QYTsQ3KbSh0"
       },
       "artists": [
         {
@@ -876,9 +880,9 @@
           "url": "https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1"
         }
       ],
-      "duration_ms": 150064,
-      "name": "CHELSEA",
-      "url": "https://open.spotify.com/track/2ush2pr0bKqYdT9oeBsHS7"
+      "duration_ms": 209738,
+      "name": "Raddim",
+      "url": "https://open.spotify.com/track/3yoWQ2192aCD6LyChIUmAR"
     },
     {
       "added_at": "2022-09-02 03:01:00",
@@ -895,6 +899,26 @@
       "duration_ms": 208111,
       "name": "Mente Livre 2.0",
       "url": "https://open.spotify.com/track/28j4gJgXCh0CmMpCMx09nX"
+    },
+    {
+      "added_at": "2022-09-02 03:01:00",
+      "album": {
+        "name": "Esculpido a Machado",
+        "url": "https://open.spotify.com/album/5BCSltKIxLBav5MEeF0aOh"
+      },
+      "artists": [
+        {
+          "name": "LEALL",
+          "url": "https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz"
+        },
+        {
+          "name": "Luna",
+          "url": "https://open.spotify.com/artist/2uY6iqNed0QZuENdRbxiaW"
+        }
+      ],
+      "duration_ms": 157241,
+      "name": "Encomenda",
+      "url": "https://open.spotify.com/track/2AcXPYmNCL0928ISaAqhLw"
     },
     {
       "added_at": "2022-09-02 03:01:00",
@@ -923,26 +947,6 @@
     {
       "added_at": "2022-09-02 03:01:00",
       "album": {
-        "name": "O Peso das Barra",
-        "url": "https://open.spotify.com/album/1NQxhguiFlOyNnshi7qpkL"
-      },
-      "artists": [
-        {
-          "name": "Rincon Sapi\u00eancia",
-          "url": "https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo"
-        },
-        {
-          "name": "Timor YSF",
-          "url": "https://open.spotify.com/artist/5iyA3j1yVqGBgaKCeiUIzO"
-        }
-      ],
-      "duration_ms": 158923,
-      "name": "Serenata",
-      "url": "https://open.spotify.com/track/0i3tVVp12fqp55ZediozgQ"
-    },
-    {
-      "added_at": "2022-09-02 03:01:00",
-      "album": {
         "name": "Vig\u00e9simo N\u00edvel",
         "url": "https://open.spotify.com/album/1gcS8V4gzqzYJSpKNAP3HZ"
       },
@@ -963,6 +967,26 @@
     {
       "added_at": "2022-09-02 03:01:00",
       "album": {
+        "name": "O Peso das Barra",
+        "url": "https://open.spotify.com/album/1NQxhguiFlOyNnshi7qpkL"
+      },
+      "artists": [
+        {
+          "name": "Rincon Sapi\u00eancia",
+          "url": "https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo"
+        },
+        {
+          "name": "Timor YSF",
+          "url": "https://open.spotify.com/artist/5iyA3j1yVqGBgaKCeiUIzO"
+        }
+      ],
+      "duration_ms": 158923,
+      "name": "Serenata",
+      "url": "https://open.spotify.com/track/0i3tVVp12fqp55ZediozgQ"
+    },
+    {
+      "added_at": "2022-09-02 03:01:00",
+      "album": {
         "name": "Eu Ainda",
         "url": "https://open.spotify.com/album/102v3MHRjG0nSixpmXsakd"
       },
@@ -979,30 +1003,6 @@
       "duration_ms": 188229,
       "name": "Eu Ainda",
       "url": "https://open.spotify.com/track/0XiAYDYnDYlr3CCql7rM1o"
-    },
-    {
-      "added_at": "2022-09-02 03:01:00",
-      "album": {
-        "name": "RADDIM",
-        "url": "https://open.spotify.com/album/4bz8Hy3tV46QYTsQ3KbSh0"
-      },
-      "artists": [
-        {
-          "name": "Febem",
-          "url": "https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N"
-        },
-        {
-          "name": "Fleezus",
-          "url": "https://open.spotify.com/artist/5vl7Vj67mORmn0yJccFCfq"
-        },
-        {
-          "name": "CESRV",
-          "url": "https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1"
-        }
-      ],
-      "duration_ms": 209738,
-      "name": "Raddim",
-      "url": "https://open.spotify.com/track/3yoWQ2192aCD6LyChIUmAR"
     },
     {
       "added_at": "2022-09-02 03:01:00",

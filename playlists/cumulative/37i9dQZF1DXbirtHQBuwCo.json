@@ -278,6 +278,24 @@
     },
     {
       "album": {
+        "name": "ALARM",
+        "url": "https://open.spotify.com/album/4eW3NKZ1foDDZXR1Z39EaQ"
+      },
+      "artists": [
+        {
+          "name": "SAAY",
+          "url": "https://open.spotify.com/artist/2pvCf5g7XBReiPIvcq7W18"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203666,
+      "name": "ALARM",
+      "url": "https://open.spotify.com/track/6b44AK3LX4Umv2e3Q6enC8"
+    },
+    {
+      "album": {
         "name": "algorithm",
         "url": "https://open.spotify.com/album/70sbsUFZH7F476QOof1pw6"
       },
@@ -699,7 +717,7 @@
       ],
       "date_added": "2022-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-06",
       "duration_ms": 215400,
       "name": "Baby I Need You",
       "url": "https://open.spotify.com/track/7F7s8Hh6h1PgGUyVzpRfDs"
@@ -1065,7 +1083,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-06",
       "duration_ms": 180960,
       "name": "Blue",
       "url": "https://open.spotify.com/track/2s4pzQWSxqfOcMauQ2dMcW"
@@ -1119,7 +1137,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-06",
       "duration_ms": 173240,
       "name": "Broken Love",
       "url": "https://open.spotify.com/track/6GehOJs060WzAi78QArj7p"
@@ -2438,6 +2456,28 @@
     },
     {
       "album": {
+        "name": "Fake LoVe",
+        "url": "https://open.spotify.com/album/1l1wS8OLuIasXzMZwDcKxk"
+      },
+      "artists": [
+        {
+          "name": "ruask",
+          "url": "https://open.spotify.com/artist/24VMMQuEZ0nt3KTTaM6CTQ"
+        },
+        {
+          "name": "Claire Hau",
+          "url": "https://open.spotify.com/artist/3mhfsEXzcPMT1WP4s6XqCS"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Fake LoVe (feat. Claire Hau)",
+      "url": "https://open.spotify.com/track/24BJ7cqVoBLXFfIe7R9X1W"
+    },
+    {
+      "album": {
         "name": "Fall Down",
         "url": "https://open.spotify.com/album/04mVgg0olhFf5KuRXKxkMc"
       },
@@ -3271,6 +3311,32 @@
       "duration_ms": 178520,
       "name": "HOLO",
       "url": "https://open.spotify.com/track/7Acvy2L38SCipAeMPOK8Ro"
+    },
+    {
+      "album": {
+        "name": "Shelter",
+        "url": "https://open.spotify.com/album/1xnCeYpux132f4rBEwElc0"
+      },
+      "artists": [
+        {
+          "name": "JOPH",
+          "url": "https://open.spotify.com/artist/3Jn4TDQyolues3v10Ncj7D"
+        },
+        {
+          "name": "KIMMUSEUM",
+          "url": "https://open.spotify.com/artist/1NVRvV0KqaO7VtSaVQcm3V"
+        },
+        {
+          "name": "nov",
+          "url": "https://open.spotify.com/artist/3gyUm6cPk4sChNCVb3fFaC"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206955,
+      "name": "Home (Feat. Kimmuseum, nov)",
+      "url": "https://open.spotify.com/track/3odQxisNCKjmgM2y3eQ82X"
     },
     {
       "album": {
@@ -4638,6 +4704,24 @@
     },
     {
       "album": {
+        "name": "MERRY GO ROUND",
+        "url": "https://open.spotify.com/album/4OgB9RaPgJZrll8DjBpxfM"
+      },
+      "artists": [
+        {
+          "name": "Grizzly",
+          "url": "https://open.spotify.com/artist/5Egus6b1x9pYOnqsG7y1f4"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200826,
+      "name": "MERRY GO ROUND",
+      "url": "https://open.spotify.com/track/2wAoIkP1XpMeAAnGSH4Drv"
+    },
+    {
+      "album": {
         "name": "Eternal",
         "url": "https://open.spotify.com/album/6JuoNIefYEpSGTT0lUMIX3"
       },
@@ -5767,7 +5851,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-06",
       "duration_ms": 216156,
       "name": "Permission to Dance - R&B Remix",
       "url": "https://open.spotify.com/track/3IGM6ph0w2fERLlyQtBoQt"
@@ -6262,6 +6346,24 @@
     },
     {
       "album": {
+        "name": "Shining Love Song",
+        "url": "https://open.spotify.com/album/7n2p500IY7UeU9NlgFFeV0"
+      },
+      "artists": [
+        {
+          "name": "SURAN",
+          "url": "https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191706,
+      "name": "Shining Love Song",
+      "url": "https://open.spotify.com/track/0DFSFBB4faitgBed2IJ4O5"
+    },
+    {
+      "album": {
         "name": "Shutter",
         "url": "https://open.spotify.com/album/1WdDr0SPN5osJNzKJB6RKl"
       },
@@ -6331,7 +6433,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-06",
       "duration_ms": 152666,
       "name": "Slow Mo",
       "url": "https://open.spotify.com/track/2stElshTCkdXTnCkD9moQF"
@@ -6573,10 +6675,28 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-06",
       "duration_ms": 261762,
       "name": "Square (2017)",
       "url": "https://open.spotify.com/track/13On7DYsJ3IrWxBWuOwM8t"
+    },
+    {
+      "album": {
+        "name": "home doesn't feel like home",
+        "url": "https://open.spotify.com/album/6GRm8QuUULXwczhB4KwLZB"
+      },
+      "artists": [
+        {
+          "name": "G. Nine",
+          "url": "https://open.spotify.com/artist/6KyAMbfO1f5yIQjh9WWYDa"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194850,
+      "name": "stay home",
+      "url": "https://open.spotify.com/track/6bLwL9kTb0CyfI9cCXJ709"
     },
     {
       "album": {
@@ -6883,6 +7003,24 @@
       "duration_ms": 199999,
       "name": "The Museum",
       "url": "https://open.spotify.com/track/7rJCvHKPS1ASSu8noeUsfN"
+    },
+    {
+      "album": {
+        "name": "The palette",
+        "url": "https://open.spotify.com/album/46ydYmAorZV9250R0H8vJZ"
+      },
+      "artists": [
+        {
+          "name": "Doha",
+          "url": "https://open.spotify.com/artist/55qNLulWN2EevzZhyLGgCV"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203280,
+      "name": "The palette",
+      "url": "https://open.spotify.com/track/2Op59QTlYBCbevk4WVQwK7"
     },
     {
       "album": {
@@ -7371,7 +7509,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-06",
       "duration_ms": 248906,
       "name": "Walking In The Rain (feat. Younha)",
       "url": "https://open.spotify.com/track/3cJ520R7Pwav2xrQUHCcZo"
@@ -7609,7 +7747,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-06",
       "duration_ms": 185737,
       "name": "Whenever it rains (feat. Nason & amin)",
       "url": "https://open.spotify.com/track/6eQtDU7frMlvQp3jSUqInu"
@@ -8023,6 +8161,24 @@
       "duration_ms": 210853,
       "name": "\uae34 \ubc24 (feat. GIRIBOY)",
       "url": "https://open.spotify.com/track/5YAO57ujV1cs5eubzyOL1E"
+    },
+    {
+      "album": {
+        "name": "\ub0b4\uc77c\uc774 \ub418\uba74",
+        "url": "https://open.spotify.com/album/06P2vAqOGRpEgvs1eUrIyz"
+      },
+      "artists": [
+        {
+          "name": "soon",
+          "url": "https://open.spotify.com/artist/1G3jhXJfaqMfNojx7SxDcW"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220842,
+      "name": "\ub0b4\uc77c\uc774 \ub418\uba74",
+      "url": "https://open.spotify.com/track/6PMHyBLXJft4jmxdCjgmta"
     },
     {
       "album": {

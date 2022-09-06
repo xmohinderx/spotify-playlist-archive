@@ -4,7 +4,7 @@
 
 > Grab your coffee and ease into the day with this light blend.
 
-648 songs - 1 day 14 hr 44 min - [published](https://open.spotify.com/playlist/7Fr5GUMZQ3Hygddnz1fMLN)
+649 songs - 1 day 14 hr 48 min - [published](https://open.spotify.com/playlist/7Fr5GUMZQ3Hygddnz1fMLN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,7 +119,7 @@
 | [Count On Me \(Alt\. Version\)](https://open.spotify.com/track/59qgTMCf7xt5HECdmYkQsN) | [The Lone Bellow](https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7) | [Count On Me \(Alt\. Version\)](https://open.spotify.com/album/6ivjtNTiHtxtjruHX1BJLp) | 3:04 | 2021-12-17 | 2022-07-11 |
 | [cover girl \- autumn](https://open.spotify.com/track/3QSFvMlRODYxTKeMP3I0VM) | [joan](https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5) | [cover girl \(autumn\)](https://open.spotify.com/album/2TfdtsJVEAkip8ftIeLe05) | 3:21 | 2021-12-17 | 2022-04-21 |
 | [Cups and Balloons](https://open.spotify.com/track/72TIFgfDu1MLMuDAfuUgu8) | [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Cups and Balloons](https://open.spotify.com/album/5NuQaD1CXWZq2RfnFQphIG) | 4:04 | 2022-01-24 | 2022-04-21 |
-| [Dakota](https://open.spotify.com/track/2LOEgB0Jk9suqAP5dDS4bp) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91) | [Dakota](https://open.spotify.com/album/4dl5Lo8s7uDNRAqqtW2wna) | 4:54 | 2022-07-22 |  |
+| [Dakota](https://open.spotify.com/track/2LOEgB0Jk9suqAP5dDS4bp) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91) | [Dakota](https://open.spotify.com/album/4dl5Lo8s7uDNRAqqtW2wna) | 4:54 | 2022-07-22 | 2022-09-06 |
 | [Dakota](https://open.spotify.com/track/6zUVhz0qHuwtZETMf7vgUT) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91) | [Dakota](https://open.spotify.com/album/5veDybiqNFwSXdDtheoXDD) | 4:54 | 2021-12-17 | 2022-07-29 |
 | [Dance With Me](https://open.spotify.com/track/1GqkGxG9T904AiKa6VgdRn) | [Oshima Brothers](https://open.spotify.com/artist/349lepk5mVwAKROMAP13Mg) | [Dance With Me](https://open.spotify.com/album/3jondhdBF68JYenWMCIOI4) | 3:25 | 2021-12-17 | 2022-07-29 |
 | [Daylight](https://open.spotify.com/track/0cVrv8dZAhs19LKGX61EvS) | [Pastel](https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO), [Ben Kessler](https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo) | [Daylight](https://open.spotify.com/album/3NdmyGu5zVDaihh0BGFnNx) | 3:52 | 2022-01-24 | 2022-04-06 |
@@ -544,6 +544,7 @@
 | [That Was Yesterday](https://open.spotify.com/track/3gwfEBrFpzEFCZMjw7mqxA) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [That Was Yesterday](https://open.spotify.com/album/2GYGaipOwfLGveAF3ta6Iv) | 3:50 | 2021-12-17 |  |
 | [that'd be alright](https://open.spotify.com/track/2MuIQnJTw4dEGntnK6MSNn) | [Emily James](https://open.spotify.com/artist/7FxEy78P0oIVEVxdaL9npy) | [that'd be alright](https://open.spotify.com/album/3Itg7NVVyUe4fUJ8Jt56vP) | 2:57 | 2021-12-17 | 2022-04-21 |
 | [That's All](https://open.spotify.com/track/4PDB5SaaRnQiZUMomsg588) | [Noah Guthrie](https://open.spotify.com/artist/6b0Wy4mw8ePj9w2EX3s4V3) | [That's All](https://open.spotify.com/album/3WWqe7YgMDfYe5mmz0zjpW) | 4:34 | 2022-01-24 | 2022-04-21 |
+| [The Art Of Getting By](https://open.spotify.com/track/2PjMTQ9KLmdPtT5IpYXTQo) | [Laura Zocca](https://open.spotify.com/artist/43sKBGtNLR3Ovs81KWzQg7) | [The Art Of Getting By](https://open.spotify.com/album/6d9GmtcPSlsisDsJJbfQTy) | 3:39 | 2022-07-29 |  |
 | [The Art Of Getting By](https://open.spotify.com/track/2vfZqRshDRTKm8unBA0o9W) | [Laura Zocca](https://open.spotify.com/artist/43sKBGtNLR3Ovs81KWzQg7) | [The Art Of Getting By](https://open.spotify.com/album/1yCWoMwezzzzqrYueeHi6R) | 3:39 | 2021-12-17 | 2022-07-28 |
 | [The Author](https://open.spotify.com/track/0V26q4wgdvYRHptt9XImAR) | [Luz](https://open.spotify.com/artist/3cdI6SvJ24KsOcvYyBwH9c) | [the author](https://open.spotify.com/album/18JkMf41OR94qt1uprcrZW) | 3:37 | 2021-12-17 | 2022-07-29 |
 | [the author](https://open.spotify.com/track/0uqFo6F9DppKZtwm3zhG3s) | [Luz](https://open.spotify.com/artist/3cdI6SvJ24KsOcvYyBwH9c) | [the author](https://open.spotify.com/album/0Uee3lkF3m9B8KIVFr4y9p) | 3:37 | 2022-07-22 |  |

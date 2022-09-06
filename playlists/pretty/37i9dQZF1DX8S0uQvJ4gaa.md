@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 
 > New Music Discovery is what we're about\. Try it on for size\. Cover: Rodell Duff
 
-[Spotify](https://open.spotify.com/user/spotify) - 871,831 likes - 123 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 872,195 likes - 123 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

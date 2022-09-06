@@ -1,12 +1,12 @@
 {
   "description": "The essential pop rock songs from the 1990s. Cover: Third Eye Blind.",
-  "num_followers": 1175073,
+  "num_followers": 1175355,
   "original_name": "90s Pop Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzQyMjA1NiwwMDAwMDAwMDI0MTI2ZDUwNTA3ZTY0YjBiNTg1YWZmZTFmMmI5MjBm",
+  "snapshot_id": "MTY1MzQyMjA1NiwwMDAwMDAwMDZhN2JlNzRkMDIxODQ2MjJkNDc1ZThkZjQ4ZWI3NzNh",
   "tracks": [
     {
       "added_at": "2021-12-21 12:24:03",
@@ -171,22 +171,6 @@
     {
       "added_at": "2021-12-21 12:24:03",
       "album": {
-        "name": "August And Everything After",
-        "url": "https://open.spotify.com/album/4nKfZbCALT9H9LfedtDwnZ"
-      },
-      "artists": [
-        {
-          "name": "Counting Crows",
-          "url": "https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC"
-        }
-      ],
-      "duration_ms": 272293,
-      "name": "Mr. Jones",
-      "url": "https://open.spotify.com/track/5DiXcVovI0FcY2s0icWWUu"
-    },
-    {
-      "added_at": "2021-12-21 12:24:03",
-      "album": {
         "name": "Sixpence None the Richer",
         "url": "https://open.spotify.com/album/0PrcwzkQVEy4y6JPvT5bix"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 208680,
       "name": "Kiss Me",
       "url": "https://open.spotify.com/track/754kgU5rWscRTfvlsuEwFp"
+    },
+    {
+      "added_at": "2021-12-21 12:24:03",
+      "album": {
+        "name": "August And Everything After",
+        "url": "https://open.spotify.com/album/4nKfZbCALT9H9LfedtDwnZ"
+      },
+      "artists": [
+        {
+          "name": "Counting Crows",
+          "url": "https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC"
+        }
+      ],
+      "duration_ms": 272293,
+      "name": "Mr. Jones",
+      "url": "https://open.spotify.com/track/5DiXcVovI0FcY2s0icWWUu"
     },
     {
       "added_at": "2021-12-21 12:24:03",
@@ -619,22 +619,6 @@
     {
       "added_at": "2021-12-21 12:24:03",
       "album": {
-        "name": "Stunt (20th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/0DuFDnZcj7B4R0Jik1aDmY"
-      },
-      "artists": [
-        {
-          "name": "Barenaked Ladies",
-          "url": "https://open.spotify.com/artist/0dEvJpkqhrcn64d3oI8v79"
-        }
-      ],
-      "duration_ms": 169760,
-      "name": "One Week",
-      "url": "https://open.spotify.com/track/29hBRadFZf9QTGRHZmxm65"
-    },
-    {
-      "added_at": "2021-12-21 12:24:03",
-      "album": {
         "name": "Yourself or Someone Like You",
         "url": "https://open.spotify.com/album/4vUXTcKz7tXxrNl84meN6i"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 238666,
       "name": "Push",
       "url": "https://open.spotify.com/track/2KVwlelhxKUy8LVV6JypH3"
+    },
+    {
+      "added_at": "2021-12-21 12:24:03",
+      "album": {
+        "name": "Stunt (20th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/0DuFDnZcj7B4R0Jik1aDmY"
+      },
+      "artists": [
+        {
+          "name": "Barenaked Ladies",
+          "url": "https://open.spotify.com/artist/0dEvJpkqhrcn64d3oI8v79"
+        }
+      ],
+      "duration_ms": 169760,
+      "name": "One Week",
+      "url": "https://open.spotify.com/track/29hBRadFZf9QTGRHZmxm65"
     },
     {
       "added_at": "2021-12-21 12:24:03",
@@ -969,22 +969,6 @@
       "url": "https://open.spotify.com/track/7cz70nyRXlCJOE85whEkgU"
     },
     {
-      "added_at": "2022-03-23 15:34:17",
-      "album": {
-        "name": "Floored",
-        "url": "https://open.spotify.com/album/3jMUfZpBUTZOl91khbj4ic"
-      },
-      "artists": [
-        {
-          "name": "Sugar Ray",
-          "url": "https://open.spotify.com/artist/4uN3DsfENc7dp0OLO0FEIb"
-        }
-      ],
-      "duration_ms": 244640,
-      "name": "Fly",
-      "url": "https://open.spotify.com/track/3uPfVXcjnpOjyzI3jb3js4"
-    },
-    {
       "added_at": "2021-12-21 12:24:03",
       "album": {
         "name": "Bump Ahead [Expanded]",
@@ -1017,6 +1001,22 @@
       "url": "https://open.spotify.com/track/1mSzuXVjjKC0bPh6iG6xjy"
     },
     {
+      "added_at": "2022-03-23 15:34:17",
+      "album": {
+        "name": "Floored",
+        "url": "https://open.spotify.com/album/3jMUfZpBUTZOl91khbj4ic"
+      },
+      "artists": [
+        {
+          "name": "Sugar Ray",
+          "url": "https://open.spotify.com/artist/4uN3DsfENc7dp0OLO0FEIb"
+        }
+      ],
+      "duration_ms": 244640,
+      "name": "Fly",
+      "url": "https://open.spotify.com/track/3uPfVXcjnpOjyzI3jb3js4"
+    },
+    {
       "added_at": "2021-12-21 12:24:03",
       "album": {
         "name": "All The Pain Money Can Buy",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2021-12-21 12:24:03",
       "album": {
-        "name": "In The Meantime",
-        "url": "https://open.spotify.com/album/6vOmA5zWeFeKvuRBxaO59A"
-      },
-      "artists": [
-        {
-          "name": "Spacehog",
-          "url": "https://open.spotify.com/artist/3NZE8jDD2cCzd4vUyZ5CQQ"
-        }
-      ],
-      "duration_ms": 299506,
-      "name": "In the Meantime",
-      "url": "https://open.spotify.com/track/02lTDOxHeXTHsdwXoz6lpC"
-    },
-    {
-      "added_at": "2021-12-21 12:24:03",
-      "album": {
         "name": "Everything You Want",
         "url": "https://open.spotify.com/album/2gJ6axVHAsQmmO6nslQRN1"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 257066,
       "name": "Everything You Want",
       "url": "https://open.spotify.com/track/4cKGldbhGJniI8BrB3K6tb"
+    },
+    {
+      "added_at": "2021-12-21 12:24:03",
+      "album": {
+        "name": "In The Meantime",
+        "url": "https://open.spotify.com/album/6vOmA5zWeFeKvuRBxaO59A"
+      },
+      "artists": [
+        {
+          "name": "Spacehog",
+          "url": "https://open.spotify.com/artist/3NZE8jDD2cCzd4vUyZ5CQQ"
+        }
+      ],
+      "duration_ms": 299506,
+      "name": "In the Meantime",
+      "url": "https://open.spotify.com/track/02lTDOxHeXTHsdwXoz6lpC"
     },
     {
       "added_at": "2021-12-21 12:24:03",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2021-12-21 12:24:03",
       "album": {
-        "name": "As Ugly As It Gets: The Very Best Of",
-        "url": "https://open.spotify.com/album/5oukrASJpumQ9tUHxgK5Kj"
-      },
-      "artists": [
-        {
-          "name": "Ugly Kid Joe",
-          "url": "https://open.spotify.com/artist/3XsgWn63EnA4wYZBjVyxjf"
-        }
-      ],
-      "duration_ms": 255160,
-      "name": "Everything About You",
-      "url": "https://open.spotify.com/track/1O2ACd0zg4GYgQRhLBGYDV"
-    },
-    {
-      "added_at": "2021-12-21 12:24:03",
-      "album": {
         "name": "The Best Of Sugar Ray",
         "url": "https://open.spotify.com/album/2hjQQj7x2YipViOCw6UX1N"
       },
@@ -1547,18 +1531,18 @@
     {
       "added_at": "2021-12-21 12:24:03",
       "album": {
-        "name": "The Best Of / 20th Century Masters The Millennium Collection",
-        "url": "https://open.spotify.com/album/73dMmmMMWYjmCnGj1OgvIR"
+        "name": "As Ugly As It Gets: The Very Best Of",
+        "url": "https://open.spotify.com/album/5oukrASJpumQ9tUHxgK5Kj"
       },
       "artists": [
         {
-          "name": "Rusted Root",
-          "url": "https://open.spotify.com/artist/2M3vnW1p5w4uPRkLYTbvdB"
+          "name": "Ugly Kid Joe",
+          "url": "https://open.spotify.com/artist/3XsgWn63EnA4wYZBjVyxjf"
         }
       ],
-      "duration_ms": 261706,
-      "name": "Send Me On My Way",
-      "url": "https://open.spotify.com/track/4yshHBPp0MoVynV1sMCKV3"
+      "duration_ms": 255160,
+      "name": "Everything About You",
+      "url": "https://open.spotify.com/track/1O2ACd0zg4GYgQRhLBGYDV"
     },
     {
       "added_at": "2021-12-21 12:24:03",
@@ -1575,6 +1559,22 @@
       "duration_ms": 207546,
       "name": "Beautiful Girl",
       "url": "https://open.spotify.com/track/6N81xlWzMaEYhjHry55OSI"
+    },
+    {
+      "added_at": "2021-12-21 12:24:03",
+      "album": {
+        "name": "The Best Of / 20th Century Masters The Millennium Collection",
+        "url": "https://open.spotify.com/album/73dMmmMMWYjmCnGj1OgvIR"
+      },
+      "artists": [
+        {
+          "name": "Rusted Root",
+          "url": "https://open.spotify.com/artist/2M3vnW1p5w4uPRkLYTbvdB"
+        }
+      ],
+      "duration_ms": 261706,
+      "name": "Send Me On My Way",
+      "url": "https://open.spotify.com/track/4yshHBPp0MoVynV1sMCKV3"
     },
     {
       "added_at": "2021-12-21 12:24:03",

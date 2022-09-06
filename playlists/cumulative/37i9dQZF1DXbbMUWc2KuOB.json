@@ -228,6 +228,28 @@
     },
     {
       "album": {
+        "name": "Hotel del Luna (Original Television Soundtrack) Pt.1",
+        "url": "https://open.spotify.com/album/51VPAPWzszkMcyqVz5VvKc"
+      },
+      "artists": [
+        {
+          "name": "Monday Kiz",
+          "url": "https://open.spotify.com/artist/24jJXZRz3aGvjVvZ4OoerD"
+        },
+        {
+          "name": "Punch",
+          "url": "https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm"
+        }
+      ],
+      "date_added": "2022-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217972,
+      "name": "Another Day - Instrumental",
+      "url": "https://open.spotify.com/track/1VkaIjfAKJargRlbnJZIg2"
+    },
+    {
+      "album": {
         "name": "Hotel Del Luna OST Part.6",
         "url": "https://open.spotify.com/album/1U3PIfgY7PqNd7DDeX29P6"
       },
@@ -1803,7 +1825,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-06",
       "duration_ms": 285280,
       "name": "Memories More than love - Instrumental",
       "url": "https://open.spotify.com/track/1CltdzmU5Fdaq4fe6tgfE8"

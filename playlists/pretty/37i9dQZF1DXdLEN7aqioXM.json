@@ -1,12 +1,12 @@
 {
   "description": "Equal parts nostalgic synthwave sounds and modern production.",
-  "num_followers": 843542,
+  "num_followers": 843637,
   "original_name": "Retrowave // Outrun",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjA5MTMyMCwwMDAwMDAwMDE3ZjZmNWMxMzZiYTFiNmEwOTcyOGZiOTk5MzFjMzM3",
+  "snapshot_id": "MTY2MjA5MTMyMCwwMDAwMDAwMDUxYTViOTMzNjFiYzVjYzE4YWMxYjJiYThmMjRjNTc4",
   "tracks": [
     {
       "added_at": "2022-09-02 04:02:00",
@@ -123,54 +123,6 @@
     {
       "added_at": "2022-09-02 04:02:00",
       "album": {
-        "name": "TRILOGY",
-        "url": "https://open.spotify.com/album/0io5pe55YRCTVqEjwlOBdN"
-      },
-      "artists": [
-        {
-          "name": "Carpenter Brut",
-          "url": "https://open.spotify.com/artist/1l2oLiukA9i5jEtIyNWIEP"
-        }
-      ],
-      "duration_ms": 254814,
-      "name": "Paradise Warfare",
-      "url": "https://open.spotify.com/track/7MwjanOxjvV2ILQPfOKIIm"
-    },
-    {
-      "added_at": "2022-09-02 04:02:00",
-      "album": {
-        "name": "Aether",
-        "url": "https://open.spotify.com/album/1wI6LtwwxH0RU5eX2agIxe"
-      },
-      "artists": [
-        {
-          "name": "Virtual Mage",
-          "url": "https://open.spotify.com/artist/1gEHdJ4DIEL2JuyRnNfMkt"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Aether",
-      "url": "https://open.spotify.com/track/4OnuNLwvIgroDdTXX2k5dF"
-    },
-    {
-      "added_at": "2022-09-02 04:02:00",
-      "album": {
-        "name": "Metropolis",
-        "url": "https://open.spotify.com/album/7MYK4IZ1EpixqqYX6swCda"
-      },
-      "artists": [
-        {
-          "name": "Aevion",
-          "url": "https://open.spotify.com/artist/6y5Fs04MNlsUCyAgvXkSxg"
-        }
-      ],
-      "duration_ms": 230025,
-      "name": "Metropolis",
-      "url": "https://open.spotify.com/track/3QpsEiBYQ73kYPg4ebk2jF"
-    },
-    {
-      "added_at": "2022-09-02 04:02:00",
-      "album": {
         "name": "JODA",
         "url": "https://open.spotify.com/album/5QoX8eEaLS9XKFFzYcFC6B"
       },
@@ -191,6 +143,54 @@
       "duration_ms": 285496,
       "name": "Coming Alive",
       "url": "https://open.spotify.com/track/3TBC8LrdpJCQ1yn07K1yMV"
+    },
+    {
+      "added_at": "2022-09-02 04:02:00",
+      "album": {
+        "name": "TRILOGY",
+        "url": "https://open.spotify.com/album/0io5pe55YRCTVqEjwlOBdN"
+      },
+      "artists": [
+        {
+          "name": "Carpenter Brut",
+          "url": "https://open.spotify.com/artist/1l2oLiukA9i5jEtIyNWIEP"
+        }
+      ],
+      "duration_ms": 254814,
+      "name": "Paradise Warfare",
+      "url": "https://open.spotify.com/track/7MwjanOxjvV2ILQPfOKIIm"
+    },
+    {
+      "added_at": "2022-09-02 04:02:00",
+      "album": {
+        "name": "Metropolis",
+        "url": "https://open.spotify.com/album/7MYK4IZ1EpixqqYX6swCda"
+      },
+      "artists": [
+        {
+          "name": "Aevion",
+          "url": "https://open.spotify.com/artist/6y5Fs04MNlsUCyAgvXkSxg"
+        }
+      ],
+      "duration_ms": 230025,
+      "name": "Metropolis",
+      "url": "https://open.spotify.com/track/3QpsEiBYQ73kYPg4ebk2jF"
+    },
+    {
+      "added_at": "2022-09-02 04:02:00",
+      "album": {
+        "name": "Aether",
+        "url": "https://open.spotify.com/album/1wI6LtwwxH0RU5eX2agIxe"
+      },
+      "artists": [
+        {
+          "name": "Virtual Mage",
+          "url": "https://open.spotify.com/artist/1gEHdJ4DIEL2JuyRnNfMkt"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Aether",
+      "url": "https://open.spotify.com/track/4OnuNLwvIgroDdTXX2k5dF"
     },
     {
       "added_at": "2022-09-02 04:02:00",
@@ -251,6 +251,22 @@
     {
       "added_at": "2022-09-02 04:02:00",
       "album": {
+        "name": "TRILOGY",
+        "url": "https://open.spotify.com/album/0io5pe55YRCTVqEjwlOBdN"
+      },
+      "artists": [
+        {
+          "name": "Carpenter Brut",
+          "url": "https://open.spotify.com/artist/1l2oLiukA9i5jEtIyNWIEP"
+        }
+      ],
+      "duration_ms": 257614,
+      "name": "Looking For Tracy Tzu",
+      "url": "https://open.spotify.com/track/2G0c5XvospcOSyA3t1W2X2"
+    },
+    {
+      "added_at": "2022-09-02 04:02:00",
+      "album": {
         "name": "Darkness",
         "url": "https://open.spotify.com/album/1fw9QzRLdH01FAInVNT702"
       },
@@ -303,22 +319,6 @@
     {
       "added_at": "2022-09-02 04:02:00",
       "album": {
-        "name": "TRILOGY",
-        "url": "https://open.spotify.com/album/0io5pe55YRCTVqEjwlOBdN"
-      },
-      "artists": [
-        {
-          "name": "Carpenter Brut",
-          "url": "https://open.spotify.com/artist/1l2oLiukA9i5jEtIyNWIEP"
-        }
-      ],
-      "duration_ms": 257614,
-      "name": "Looking For Tracy Tzu",
-      "url": "https://open.spotify.com/track/2G0c5XvospcOSyA3t1W2X2"
-    },
-    {
-      "added_at": "2022-09-02 04:02:00",
-      "album": {
         "name": "Awakening",
         "url": "https://open.spotify.com/album/1ONI4ijDuoBaWYnB9wvoJz"
       },
@@ -331,22 +331,6 @@
       "duration_ms": 268000,
       "name": "Running Wild",
       "url": "https://open.spotify.com/track/5TQaymkHP3a998Ad8Cs3ps"
-    },
-    {
-      "added_at": "2022-09-02 04:02:00",
-      "album": {
-        "name": "Drive-by Stalking",
-        "url": "https://open.spotify.com/album/2uM7nC8LLABOWiami4Ipw9"
-      },
-      "artists": [
-        {
-          "name": "Nightstop",
-          "url": "https://open.spotify.com/artist/291Vz2qC5SVLJSKA5mrYij"
-        }
-      ],
-      "duration_ms": 320432,
-      "name": "Drive-by Stalking",
-      "url": "https://open.spotify.com/track/2Vmbg2UweixrXClJeIE1xz"
     },
     {
       "added_at": "2022-09-02 04:02:00",
@@ -367,6 +351,22 @@
       "duration_ms": 158666,
       "name": "Lost Woods",
       "url": "https://open.spotify.com/track/78j8TTEo6VJ7VeeDItgvaJ"
+    },
+    {
+      "added_at": "2022-09-02 04:02:00",
+      "album": {
+        "name": "Drive-by Stalking",
+        "url": "https://open.spotify.com/album/2uM7nC8LLABOWiami4Ipw9"
+      },
+      "artists": [
+        {
+          "name": "Nightstop",
+          "url": "https://open.spotify.com/artist/291Vz2qC5SVLJSKA5mrYij"
+        }
+      ],
+      "duration_ms": 320432,
+      "name": "Drive-by Stalking",
+      "url": "https://open.spotify.com/track/2Vmbg2UweixrXClJeIE1xz"
     },
     {
       "added_at": "2022-09-02 04:02:00",
@@ -451,22 +451,6 @@
     {
       "added_at": "2022-09-02 04:02:00",
       "album": {
-        "name": "Hotline Miami II",
-        "url": "https://open.spotify.com/album/6v2alUvXCExu0CH7n4v9Ql"
-      },
-      "artists": [
-        {
-          "name": "Das M\u00f6rtal",
-          "url": "https://open.spotify.com/artist/0l5SpsbElFWLrDdMXWieNp"
-        }
-      ],
-      "duration_ms": 227075,
-      "name": "Hotline Miami II",
-      "url": "https://open.spotify.com/track/7qEIlg3a8Yrci7GhkmZR2V"
-    },
-    {
-      "added_at": "2022-09-02 04:02:00",
-      "album": {
         "name": "Temporarity",
         "url": "https://open.spotify.com/album/5sh4WQrvz44dqgdoWaTk7j"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 426176,
       "name": "Crockett's Theme - Original Mix",
       "url": "https://open.spotify.com/track/445YwSgIoXj8yJlK7i9oKo"
+    },
+    {
+      "added_at": "2022-09-02 04:02:00",
+      "album": {
+        "name": "Hotline Miami II",
+        "url": "https://open.spotify.com/album/6v2alUvXCExu0CH7n4v9Ql"
+      },
+      "artists": [
+        {
+          "name": "Das M\u00f6rtal",
+          "url": "https://open.spotify.com/artist/0l5SpsbElFWLrDdMXWieNp"
+        }
+      ],
+      "duration_ms": 227075,
+      "name": "Hotline Miami II",
+      "url": "https://open.spotify.com/track/7qEIlg3a8Yrci7GhkmZR2V"
     },
     {
       "added_at": "2022-09-02 04:02:00",
@@ -691,6 +691,22 @@
     {
       "added_at": "2022-09-02 04:02:00",
       "album": {
+        "name": "77",
+        "url": "https://open.spotify.com/album/6Ow6ZKzYPjeTCR2HcqJi3v"
+      },
+      "artists": [
+        {
+          "name": "admo",
+          "url": "https://open.spotify.com/artist/6azdwGecDNGbIpCpOOdWsG"
+        }
+      ],
+      "duration_ms": 140968,
+      "name": "Aftershock",
+      "url": "https://open.spotify.com/track/6gniSmkKkkwdjqBbUH3ebT"
+    },
+    {
+      "added_at": "2022-09-02 04:02:00",
+      "album": {
         "name": "Strong",
         "url": "https://open.spotify.com/album/5jKttCwE5mur4cjPTqGAPG"
       },
@@ -707,18 +723,18 @@
     {
       "added_at": "2022-09-02 04:02:00",
       "album": {
-        "name": "Real Thing",
-        "url": "https://open.spotify.com/album/4S3jQEdof1oA2ONsd8ROS0"
+        "name": "Neon Medusa",
+        "url": "https://open.spotify.com/album/33L3Re3mh0BdCV6vlSMPzf"
       },
       "artists": [
         {
-          "name": "LeBrock",
-          "url": "https://open.spotify.com/artist/461TaZqofVfcQo2wtMwnQJ"
+          "name": "The Midnight",
+          "url": "https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw"
         }
       ],
-      "duration_ms": 232846,
-      "name": "Runaway",
-      "url": "https://open.spotify.com/track/3lS99gJJAWuxKxQfXArvvx"
+      "duration_ms": 253220,
+      "name": "Neon Medusa - Edit",
+      "url": "https://open.spotify.com/track/7y1WaVLlJHSpkn3Libyq7r"
     },
     {
       "added_at": "2022-09-02 04:02:00",
@@ -747,34 +763,18 @@
     {
       "added_at": "2022-09-02 04:02:00",
       "album": {
-        "name": "77",
-        "url": "https://open.spotify.com/album/6Ow6ZKzYPjeTCR2HcqJi3v"
+        "name": "Real Thing",
+        "url": "https://open.spotify.com/album/4S3jQEdof1oA2ONsd8ROS0"
       },
       "artists": [
         {
-          "name": "admo",
-          "url": "https://open.spotify.com/artist/6azdwGecDNGbIpCpOOdWsG"
+          "name": "LeBrock",
+          "url": "https://open.spotify.com/artist/461TaZqofVfcQo2wtMwnQJ"
         }
       ],
-      "duration_ms": 140968,
-      "name": "Aftershock",
-      "url": "https://open.spotify.com/track/6gniSmkKkkwdjqBbUH3ebT"
-    },
-    {
-      "added_at": "2022-09-02 04:02:00",
-      "album": {
-        "name": "Neon Medusa",
-        "url": "https://open.spotify.com/album/33L3Re3mh0BdCV6vlSMPzf"
-      },
-      "artists": [
-        {
-          "name": "The Midnight",
-          "url": "https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw"
-        }
-      ],
-      "duration_ms": 253220,
-      "name": "Neon Medusa - Edit",
-      "url": "https://open.spotify.com/track/7y1WaVLlJHSpkn3Libyq7r"
+      "duration_ms": 232846,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/3lS99gJJAWuxKxQfXArvvx"
     },
     {
       "added_at": "2022-09-02 04:02:00",
@@ -971,22 +971,6 @@
     {
       "added_at": "2022-09-02 04:02:00",
       "album": {
-        "name": "Dark Prince",
-        "url": "https://open.spotify.com/album/7F5QqidQ5gDSIWBIY8Khy4"
-      },
-      "artists": [
-        {
-          "name": "Atrey",
-          "url": "https://open.spotify.com/artist/73S1zHIBGAuJyjdDIEELqw"
-        }
-      ],
-      "duration_ms": 228028,
-      "name": "Dark Prince, Pt. 3",
-      "url": "https://open.spotify.com/track/2zGsystFbZwMAlrJYxPHNL"
-    },
-    {
-      "added_at": "2022-09-02 04:02:00",
-      "album": {
         "name": "Flashing Sirens",
         "url": "https://open.spotify.com/album/4bNmE4x4vOL6oY32I33dvf"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 162666,
       "name": "Flashing Sirens",
       "url": "https://open.spotify.com/track/2Qo0EdObfe4sCsiR7grstZ"
+    },
+    {
+      "added_at": "2022-09-02 04:02:00",
+      "album": {
+        "name": "Dark Prince",
+        "url": "https://open.spotify.com/album/7F5QqidQ5gDSIWBIY8Khy4"
+      },
+      "artists": [
+        {
+          "name": "Atrey",
+          "url": "https://open.spotify.com/artist/73S1zHIBGAuJyjdDIEELqw"
+        }
+      ],
+      "duration_ms": 228028,
+      "name": "Dark Prince, Pt. 3",
+      "url": "https://open.spotify.com/track/2zGsystFbZwMAlrJYxPHNL"
     },
     {
       "added_at": "2022-09-02 04:02:00",
@@ -1075,26 +1075,6 @@
     {
       "added_at": "2022-09-02 04:02:00",
       "album": {
-        "name": "Lunar",
-        "url": "https://open.spotify.com/album/7t5QcSntmnSv8wSI8KgJ9U"
-      },
-      "artists": [
-        {
-          "name": "Hotel Pools",
-          "url": "https://open.spotify.com/artist/5bQ1u5yLlL2WZv49doSgRz"
-        },
-        {
-          "name": "A.L.I.S.O.N",
-          "url": "https://open.spotify.com/artist/3gi5McAv9c0qTjJ5jSmbL0"
-        }
-      ],
-      "duration_ms": 275454,
-      "name": "Lunar",
-      "url": "https://open.spotify.com/track/0bsmxR1mIR9k6jvZMWfAK0"
-    },
-    {
-      "added_at": "2022-09-02 04:02:00",
-      "album": {
         "name": "The Real Deal",
         "url": "https://open.spotify.com/album/2TUHXF0is5l4l6dgQWEr12"
       },
@@ -1123,6 +1103,26 @@
       "duration_ms": 290539,
       "name": "Chauma",
       "url": "https://open.spotify.com/track/46U7cjUbIwsMr6XwlEcE35"
+    },
+    {
+      "added_at": "2022-09-02 04:02:00",
+      "album": {
+        "name": "Lunar",
+        "url": "https://open.spotify.com/album/7t5QcSntmnSv8wSI8KgJ9U"
+      },
+      "artists": [
+        {
+          "name": "Hotel Pools",
+          "url": "https://open.spotify.com/artist/5bQ1u5yLlL2WZv49doSgRz"
+        },
+        {
+          "name": "A.L.I.S.O.N",
+          "url": "https://open.spotify.com/artist/3gi5McAv9c0qTjJ5jSmbL0"
+        }
+      ],
+      "duration_ms": 275454,
+      "name": "Lunar",
+      "url": "https://open.spotify.com/track/0bsmxR1mIR9k6jvZMWfAK0"
     },
     {
       "added_at": "2022-09-02 04:02:00",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2022-09-02 04:02:00",
       "album": {
+        "name": "\u00c9ternit\u00e9",
+        "url": "https://open.spotify.com/album/0xEIod2xcXKcsYXRBIe78T"
+      },
+      "artists": [
+        {
+          "name": "A.L.I.S.O.N",
+          "url": "https://open.spotify.com/artist/3gi5McAv9c0qTjJ5jSmbL0"
+        }
+      ],
+      "duration_ms": 256800,
+      "name": "Lightyears",
+      "url": "https://open.spotify.com/track/4cTo2dxpf5bU1rVxmRSOeI"
+    },
+    {
+      "added_at": "2022-09-02 04:02:00",
+      "album": {
         "name": "Distance",
         "url": "https://open.spotify.com/album/1akun3X9ysTZ8ZNI19MZfS"
       },
@@ -1267,22 +1283,6 @@
     {
       "added_at": "2022-09-02 04:02:00",
       "album": {
-        "name": "\u00c9ternit\u00e9",
-        "url": "https://open.spotify.com/album/0xEIod2xcXKcsYXRBIe78T"
-      },
-      "artists": [
-        {
-          "name": "A.L.I.S.O.N",
-          "url": "https://open.spotify.com/artist/3gi5McAv9c0qTjJ5jSmbL0"
-        }
-      ],
-      "duration_ms": 256800,
-      "name": "Lightyears",
-      "url": "https://open.spotify.com/track/4cTo2dxpf5bU1rVxmRSOeI"
-    },
-    {
-      "added_at": "2022-09-02 04:02:00",
-      "album": {
         "name": "Crystal Waves (From \"Wave Break\")",
         "url": "https://open.spotify.com/album/54hp6mvPDPZgVUFbWOK3N5"
       },
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2022-09-02 04:02:00",
       "album": {
-        "name": "Parallel Lives",
-        "url": "https://open.spotify.com/album/6WANTLfKAunhmukRM6tuse"
-      },
-      "artists": [
-        {
-          "name": "Meteor",
-          "url": "https://open.spotify.com/artist/3A4fNuEjrFPkY85KCSOdPb"
-        }
-      ],
-      "duration_ms": 308210,
-      "name": "White Crows",
-      "url": "https://open.spotify.com/track/4Ct71cFMTrnOIRr7jU0vbt"
-    },
-    {
-      "added_at": "2022-09-02 04:02:00",
-      "album": {
         "name": "Ornaments",
         "url": "https://open.spotify.com/album/5b1WAngXJHEDow5XfNkzIm"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 267997,
       "name": "Blitz",
       "url": "https://open.spotify.com/track/4j4P1BiYx0l9ZgeZEnD32P"
+    },
+    {
+      "added_at": "2022-09-02 04:02:00",
+      "album": {
+        "name": "Parallel Lives",
+        "url": "https://open.spotify.com/album/6WANTLfKAunhmukRM6tuse"
+      },
+      "artists": [
+        {
+          "name": "Meteor",
+          "url": "https://open.spotify.com/artist/3A4fNuEjrFPkY85KCSOdPb"
+        }
+      ],
+      "duration_ms": 308210,
+      "name": "White Crows",
+      "url": "https://open.spotify.com/track/4Ct71cFMTrnOIRr7jU0vbt"
     },
     {
       "added_at": "2022-09-02 04:02:00",
@@ -1379,6 +1379,30 @@
     {
       "added_at": "2022-09-02 04:02:00",
       "album": {
+        "name": "Metropolis",
+        "url": "https://open.spotify.com/album/2oiMBlKh5HoJED3egOSAO2"
+      },
+      "artists": [
+        {
+          "name": "Massive Z",
+          "url": "https://open.spotify.com/artist/0h2KwV1qVRmGgMwVJig5Gv"
+        },
+        {
+          "name": "Kid Macdonald",
+          "url": "https://open.spotify.com/artist/6AzOwdBPW8P4PCUiCBaOP5"
+        },
+        {
+          "name": "NOVARAY",
+          "url": "https://open.spotify.com/artist/3QA4RfY6zF7CPYleEwL6NK"
+        }
+      ],
+      "duration_ms": 290526,
+      "name": "Metropolis",
+      "url": "https://open.spotify.com/track/7fX0UqkOmLh0YNlp5rq8h6"
+    },
+    {
+      "added_at": "2022-09-02 04:02:00",
+      "album": {
         "name": "Current Events",
         "url": "https://open.spotify.com/album/4WUWhAqkT9gnJD37hxVWM4"
       },
@@ -1415,30 +1439,6 @@
     {
       "added_at": "2022-09-02 04:02:00",
       "album": {
-        "name": "Metropolis",
-        "url": "https://open.spotify.com/album/2oiMBlKh5HoJED3egOSAO2"
-      },
-      "artists": [
-        {
-          "name": "Massive Z",
-          "url": "https://open.spotify.com/artist/0h2KwV1qVRmGgMwVJig5Gv"
-        },
-        {
-          "name": "Kid Macdonald",
-          "url": "https://open.spotify.com/artist/6AzOwdBPW8P4PCUiCBaOP5"
-        },
-        {
-          "name": "NOVARAY",
-          "url": "https://open.spotify.com/artist/3QA4RfY6zF7CPYleEwL6NK"
-        }
-      ],
-      "duration_ms": 290526,
-      "name": "Metropolis",
-      "url": "https://open.spotify.com/track/7fX0UqkOmLh0YNlp5rq8h6"
-    },
-    {
-      "added_at": "2022-09-02 04:02:00",
-      "album": {
         "name": "Stasis",
         "url": "https://open.spotify.com/album/5RvcTonOIaS7wqczITqjng"
       },
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2022-09-02 04:02:00",
       "album": {
-        "name": "Speedboat Night Sweat",
-        "url": "https://open.spotify.com/album/0Jd5r7NN4zeP20n1BXrs0r"
-      },
-      "artists": [
-        {
-          "name": "Swimware",
-          "url": "https://open.spotify.com/artist/4aoqU9IlofUpiw9CWk9siH"
-        }
-      ],
-      "duration_ms": 231401,
-      "name": "Speedboat Night Sweat",
-      "url": "https://open.spotify.com/track/3sgFYGElABoVcyPHNCKyki"
-    },
-    {
-      "added_at": "2022-09-02 04:02:00",
-      "album": {
         "name": "Space Between Us",
         "url": "https://open.spotify.com/album/6ZoG8UIgbpue4NGJ3x9VS8"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 239360,
       "name": "Space Between Us",
       "url": "https://open.spotify.com/track/0RuQddbj6LGbMq1CzzPgGj"
+    },
+    {
+      "added_at": "2022-09-02 04:02:00",
+      "album": {
+        "name": "Speedboat Night Sweat",
+        "url": "https://open.spotify.com/album/0Jd5r7NN4zeP20n1BXrs0r"
+      },
+      "artists": [
+        {
+          "name": "Swimware",
+          "url": "https://open.spotify.com/artist/4aoqU9IlofUpiw9CWk9siH"
+        }
+      ],
+      "duration_ms": 231401,
+      "name": "Speedboat Night Sweat",
+      "url": "https://open.spotify.com/track/3sgFYGElABoVcyPHNCKyki"
     },
     {
       "added_at": "2022-09-02 04:02:00",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2022-09-02 04:02:00",
       "album": {
-        "name": "2020 AD",
-        "url": "https://open.spotify.com/album/10CEe5Hjg0iHasl8Z2DbSa"
-      },
-      "artists": [
-        {
-          "name": "ALEX",
-          "url": "https://open.spotify.com/artist/65sChHf6etCvSFdXn8NPUO"
-        }
-      ],
-      "duration_ms": 222222,
-      "name": "Odyssey",
-      "url": "https://open.spotify.com/track/7BaoPkMMPX5LwdyyUSByKe"
-    },
-    {
-      "added_at": "2022-09-02 04:02:00",
-      "album": {
         "name": "Align",
         "url": "https://open.spotify.com/album/4xhLEnoyZwuRFzMlP4VgeO"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 219272,
       "name": "Align",
       "url": "https://open.spotify.com/track/5gLbWMM5KEp6IKqx0m0AtK"
+    },
+    {
+      "added_at": "2022-09-02 04:02:00",
+      "album": {
+        "name": "2020 AD",
+        "url": "https://open.spotify.com/album/10CEe5Hjg0iHasl8Z2DbSa"
+      },
+      "artists": [
+        {
+          "name": "ALEX",
+          "url": "https://open.spotify.com/artist/65sChHf6etCvSFdXn8NPUO"
+        }
+      ],
+      "duration_ms": 222222,
+      "name": "Odyssey",
+      "url": "https://open.spotify.com/track/7BaoPkMMPX5LwdyyUSByKe"
     },
     {
       "added_at": "2022-09-02 04:02:00",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2022-09-02 04:02:00",
       "album": {
-        "name": "Cosmic Boundaries",
-        "url": "https://open.spotify.com/album/7397LusD3Odk8yvnHJC4hw"
-      },
-      "artists": [
-        {
-          "name": "Phaserland",
-          "url": "https://open.spotify.com/artist/318JBsDJrao7DYDwsaE715"
-        }
-      ],
-      "duration_ms": 293232,
-      "name": "Nomad City",
-      "url": "https://open.spotify.com/track/4bAVPOzkidrMsZHbbn8uI8"
-    },
-    {
-      "added_at": "2022-09-02 04:02:00",
-      "album": {
         "name": "When We Touch",
         "url": "https://open.spotify.com/album/1x8Pv29DecQEtVm2Y7bLen"
       },
@@ -1723,6 +1707,22 @@
       "duration_ms": 193628,
       "name": "When We Touch",
       "url": "https://open.spotify.com/track/4L9JfSWGhatpxfPPvEf46b"
+    },
+    {
+      "added_at": "2022-09-02 04:02:00",
+      "album": {
+        "name": "Cosmic Boundaries",
+        "url": "https://open.spotify.com/album/7397LusD3Odk8yvnHJC4hw"
+      },
+      "artists": [
+        {
+          "name": "Phaserland",
+          "url": "https://open.spotify.com/artist/318JBsDJrao7DYDwsaE715"
+        }
+      ],
+      "duration_ms": 293232,
+      "name": "Nomad City",
+      "url": "https://open.spotify.com/track/4bAVPOzkidrMsZHbbn8uI8"
     },
     {
       "added_at": "2022-09-02 04:02:00",
@@ -1791,22 +1791,6 @@
     {
       "added_at": "2022-09-02 04:02:00",
       "album": {
-        "name": "Fundamentals, Vol. III",
-        "url": "https://open.spotify.com/album/0gI1nOpgl8BJV9jIUM4suh"
-      },
-      "artists": [
-        {
-          "name": "Brothertiger",
-          "url": "https://open.spotify.com/artist/2MaMzvFmtu68r9zpdJ4tLE"
-        }
-      ],
-      "duration_ms": 316129,
-      "name": "Pel\u00e9e",
-      "url": "https://open.spotify.com/track/4Y6m4bvuII4X6UkeolyPOq"
-    },
-    {
-      "added_at": "2022-09-02 04:02:00",
-      "album": {
         "name": "This is Now",
         "url": "https://open.spotify.com/album/41KnTJpTeX2kyJp5qTzVDt"
       },
@@ -1819,6 +1803,22 @@
       "duration_ms": 366063,
       "name": "Remember When",
       "url": "https://open.spotify.com/track/55rIKGbcna1oD0v3BdIo4B"
+    },
+    {
+      "added_at": "2022-09-02 04:02:00",
+      "album": {
+        "name": "Fundamentals, Vol. III",
+        "url": "https://open.spotify.com/album/0gI1nOpgl8BJV9jIUM4suh"
+      },
+      "artists": [
+        {
+          "name": "Brothertiger",
+          "url": "https://open.spotify.com/artist/2MaMzvFmtu68r9zpdJ4tLE"
+        }
+      ],
+      "duration_ms": 316129,
+      "name": "Pel\u00e9e",
+      "url": "https://open.spotify.com/track/4Y6m4bvuII4X6UkeolyPOq"
     },
     {
       "added_at": "2022-09-02 04:02:00",
@@ -1919,26 +1919,6 @@
     {
       "added_at": "2022-09-02 04:02:00",
       "album": {
-        "name": "Firefall",
-        "url": "https://open.spotify.com/album/00Tng0eDtbtLgpoc2i3i8L"
-      },
-      "artists": [
-        {
-          "name": "A.L.I.S.O.N",
-          "url": "https://open.spotify.com/artist/3gi5McAv9c0qTjJ5jSmbL0"
-        },
-        {
-          "name": "Hotel Pools",
-          "url": "https://open.spotify.com/artist/5bQ1u5yLlL2WZv49doSgRz"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Firefall",
-      "url": "https://open.spotify.com/track/0T01wlTfTkUZNGEDBVUfaC"
-    },
-    {
-      "added_at": "2022-09-02 04:02:00",
-      "album": {
         "name": "Summer Is Over (Fury Weekend Remix)",
         "url": "https://open.spotify.com/album/3ei5DAzCrXMzK4PXCqhBAg"
       },
@@ -1959,6 +1939,22 @@
     {
       "added_at": "2022-09-02 04:02:00",
       "album": {
+        "name": "Selection 6",
+        "url": "https://open.spotify.com/album/7CPcutxKZ5cUD96yPHPrbl"
+      },
+      "artists": [
+        {
+          "name": "Mitch Murder",
+          "url": "https://open.spotify.com/artist/7eOzCiTklgHxfpf6Mb3D2e"
+        }
+      ],
+      "duration_ms": 229333,
+      "name": "Assembly Line",
+      "url": "https://open.spotify.com/track/0Caz3qzdC85NyLvNpqCxEN"
+    },
+    {
+      "added_at": "2022-09-02 04:02:00",
+      "album": {
         "name": "Metaversal",
         "url": "https://open.spotify.com/album/1FpK976ZQI5ZyK9OG0w6VK"
       },
@@ -1971,6 +1967,26 @@
       "duration_ms": 339333,
       "name": "Kintsugi",
       "url": "https://open.spotify.com/track/7cdI3jKrQpQqwb078eBQia"
+    },
+    {
+      "added_at": "2022-09-02 04:02:00",
+      "album": {
+        "name": "Firefall",
+        "url": "https://open.spotify.com/album/00Tng0eDtbtLgpoc2i3i8L"
+      },
+      "artists": [
+        {
+          "name": "A.L.I.S.O.N",
+          "url": "https://open.spotify.com/artist/3gi5McAv9c0qTjJ5jSmbL0"
+        },
+        {
+          "name": "Hotel Pools",
+          "url": "https://open.spotify.com/artist/5bQ1u5yLlL2WZv49doSgRz"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Firefall",
+      "url": "https://open.spotify.com/track/0T01wlTfTkUZNGEDBVUfaC"
     },
     {
       "added_at": "2022-09-02 04:02:00",
@@ -1995,22 +2011,6 @@
       "duration_ms": 181565,
       "name": "Out of Luck - Instrumental",
       "url": "https://open.spotify.com/track/6SjnM6fA2ZEVlaQzK04Tll"
-    },
-    {
-      "added_at": "2022-09-02 04:02:00",
-      "album": {
-        "name": "Selection 6",
-        "url": "https://open.spotify.com/album/7CPcutxKZ5cUD96yPHPrbl"
-      },
-      "artists": [
-        {
-          "name": "Mitch Murder",
-          "url": "https://open.spotify.com/artist/7eOzCiTklgHxfpf6Mb3D2e"
-        }
-      ],
-      "duration_ms": 229333,
-      "name": "Assembly Line",
-      "url": "https://open.spotify.com/track/0Caz3qzdC85NyLvNpqCxEN"
     },
     {
       "added_at": "2022-09-02 04:02:00",
@@ -2095,22 +2095,6 @@
     {
       "added_at": "2022-09-02 04:02:00",
       "album": {
-        "name": "Skulltaste",
-        "url": "https://open.spotify.com/album/6Qk8W6vurHFSuxJ0LldW3g"
-      },
-      "artists": [
-        {
-          "name": "Mux Mool",
-          "url": "https://open.spotify.com/artist/5ExPH13WUhdGVNnMq6RLCr"
-        }
-      ],
-      "duration_ms": 214999,
-      "name": "Get Better John",
-      "url": "https://open.spotify.com/track/0TV7fHt0J6fwodmjDHLldN"
-    },
-    {
-      "added_at": "2022-09-02 04:02:00",
-      "album": {
         "name": "Transmission",
         "url": "https://open.spotify.com/album/5OcuXU4YAlttA7FZtxMUrw"
       },
@@ -2127,18 +2111,18 @@
     {
       "added_at": "2022-09-02 04:02:00",
       "album": {
-        "name": "Parallel: S",
-        "url": "https://open.spotify.com/album/59h7GpKrIO5bFUDE2ZoPfw"
+        "name": "Skulltaste",
+        "url": "https://open.spotify.com/album/6Qk8W6vurHFSuxJ0LldW3g"
       },
       "artists": [
         {
-          "name": "1788-L",
-          "url": "https://open.spotify.com/artist/7oB4pCSzvvRtZka6DxXUfN"
+          "name": "Mux Mool",
+          "url": "https://open.spotify.com/artist/5ExPH13WUhdGVNnMq6RLCr"
         }
       ],
-      "duration_ms": 231192,
-      "name": "Automaton",
-      "url": "https://open.spotify.com/track/6rXoA0cB6iWGY8LvlY1e8B"
+      "duration_ms": 214999,
+      "name": "Get Better John",
+      "url": "https://open.spotify.com/track/0TV7fHt0J6fwodmjDHLldN"
     },
     {
       "added_at": "2022-09-02 04:02:00",
@@ -2155,6 +2139,22 @@
       "duration_ms": 264000,
       "name": "In Waves",
       "url": "https://open.spotify.com/track/5W6WQdVPFApaKv4Rg37XLh"
+    },
+    {
+      "added_at": "2022-09-02 04:02:00",
+      "album": {
+        "name": "Parallel: S",
+        "url": "https://open.spotify.com/album/59h7GpKrIO5bFUDE2ZoPfw"
+      },
+      "artists": [
+        {
+          "name": "1788-L",
+          "url": "https://open.spotify.com/artist/7oB4pCSzvvRtZka6DxXUfN"
+        }
+      ],
+      "duration_ms": 231192,
+      "name": "Automaton",
+      "url": "https://open.spotify.com/track/6rXoA0cB6iWGY8LvlY1e8B"
     },
     {
       "added_at": "2022-09-02 04:02:00",
@@ -2195,22 +2195,6 @@
     {
       "added_at": "2022-09-02 04:02:00",
       "album": {
-        "name": "Slipstream",
-        "url": "https://open.spotify.com/album/28OaB4YG2bRU8XxyWmUlfu"
-      },
-      "artists": [
-        {
-          "name": "Jordan F",
-          "url": "https://open.spotify.com/artist/1qSGsjM9uWGLbH1PWUPV7A"
-        }
-      ],
-      "duration_ms": 273472,
-      "name": "Take Flight",
-      "url": "https://open.spotify.com/track/7Hp4SrtQicQtSgPLxKB574"
-    },
-    {
-      "added_at": "2022-09-02 04:02:00",
-      "album": {
         "name": "The Construct",
         "url": "https://open.spotify.com/album/1y7EUn0wZFWNeGcHB5V7YC"
       },
@@ -2227,18 +2211,18 @@
     {
       "added_at": "2022-09-02 04:02:00",
       "album": {
-        "name": "Venom",
-        "url": "https://open.spotify.com/album/2m1jnt85SigOHlBUi4TJv5"
+        "name": "Slipstream",
+        "url": "https://open.spotify.com/album/28OaB4YG2bRU8XxyWmUlfu"
       },
       "artists": [
         {
-          "name": "Lost Years",
-          "url": "https://open.spotify.com/artist/04an0WtFSvVqQkGrgIxq1Y"
+          "name": "Jordan F",
+          "url": "https://open.spotify.com/artist/1qSGsjM9uWGLbH1PWUPV7A"
         }
       ],
-      "duration_ms": 243838,
-      "name": "Cross the Line",
-      "url": "https://open.spotify.com/track/7bvM0exJGW8mRV7Yy1KW2p"
+      "duration_ms": 273472,
+      "name": "Take Flight",
+      "url": "https://open.spotify.com/track/7Hp4SrtQicQtSgPLxKB574"
     },
     {
       "added_at": "2022-09-02 04:02:00",
@@ -2255,6 +2239,22 @@
       "duration_ms": 210857,
       "name": "Higher - Radio Edit",
       "url": "https://open.spotify.com/track/5OymWMtaWum6xk1lOTyPUR"
+    },
+    {
+      "added_at": "2022-09-02 04:02:00",
+      "album": {
+        "name": "Venom",
+        "url": "https://open.spotify.com/album/2m1jnt85SigOHlBUi4TJv5"
+      },
+      "artists": [
+        {
+          "name": "Lost Years",
+          "url": "https://open.spotify.com/artist/04an0WtFSvVqQkGrgIxq1Y"
+        }
+      ],
+      "duration_ms": 243838,
+      "name": "Cross the Line",
+      "url": "https://open.spotify.com/track/7bvM0exJGW8mRV7Yy1KW2p"
     },
     {
       "added_at": "2022-09-02 04:02:00",
@@ -2479,6 +2479,22 @@
     {
       "added_at": "2022-09-02 04:02:00",
       "album": {
+        "name": "Delusive Bunker (Live Version)",
+        "url": "https://open.spotify.com/album/6Aqfd6vOumuBEXGCmr96j0"
+      },
+      "artists": [
+        {
+          "name": "LudoWic",
+          "url": "https://open.spotify.com/artist/4iH5e8eV3hGNCzhFwr1cND"
+        }
+      ],
+      "duration_ms": 371750,
+      "name": "Delusive Bunker - Live Version",
+      "url": "https://open.spotify.com/track/7gszCJRsbb0baUr58th2Qt"
+    },
+    {
+      "added_at": "2022-09-02 04:02:00",
+      "album": {
         "name": "Monomyth V - The Return",
         "url": "https://open.spotify.com/album/01ZwLUFpfgiP6PuuGb4BGA"
       },
@@ -2507,22 +2523,6 @@
       "duration_ms": 216009,
       "name": "Pale Demon",
       "url": "https://open.spotify.com/track/3zrVBHkBvu5888ilk5Az6J"
-    },
-    {
-      "added_at": "2022-09-02 04:02:00",
-      "album": {
-        "name": "Delusive Bunker (Live Version)",
-        "url": "https://open.spotify.com/album/6Aqfd6vOumuBEXGCmr96j0"
-      },
-      "artists": [
-        {
-          "name": "LudoWic",
-          "url": "https://open.spotify.com/artist/4iH5e8eV3hGNCzhFwr1cND"
-        }
-      ],
-      "duration_ms": 371750,
-      "name": "Delusive Bunker - Live Version",
-      "url": "https://open.spotify.com/track/7gszCJRsbb0baUr58th2Qt"
     },
     {
       "added_at": "2022-09-02 04:02:00",

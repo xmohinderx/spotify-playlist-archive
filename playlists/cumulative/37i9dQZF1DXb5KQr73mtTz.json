@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-06",
       "duration_ms": 189200,
       "name": "A Long Night",
       "url": "https://open.spotify.com/track/0I8hTfSm5qjhZEoiMCn6PG"
@@ -347,7 +347,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-06",
       "duration_ms": 195040,
       "name": "Childhood",
       "url": "https://open.spotify.com/track/0YD0nPpSx4DSHoL1EGJ5Lj"
@@ -517,6 +517,24 @@
       "duration_ms": 231363,
       "name": "Deepening Love (feat. Lee Jin Woo)",
       "url": "https://open.spotify.com/track/4fCm40ooTsUHeGAMNFicrb"
+    },
+    {
+      "album": {
+        "name": "Despite it all",
+        "url": "https://open.spotify.com/album/0AybLuodK9yOikxRilqpBB"
+      },
+      "artists": [
+        {
+          "name": "Mingginyu",
+          "url": "https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229210,
+      "name": "Despite it all",
+      "url": "https://open.spotify.com/track/7LLnHEOcFGPd0ACRIE6CtP"
     },
     {
       "album": {
@@ -1261,7 +1279,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-05",
+      "date_removed": null,
       "duration_ms": 251240,
       "name": "How could you",
       "url": "https://open.spotify.com/track/49vI2GkYDR5sKmINKsQd96"
@@ -1781,7 +1799,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-06",
       "duration_ms": 240000,
       "name": "Last Goodbye",
       "url": "https://open.spotify.com/track/0GGTcdfOMfP26Vc7z5GJsS"
@@ -2001,10 +2019,28 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-06",
       "duration_ms": 202120,
       "name": "Love is alone",
       "url": "https://open.spotify.com/track/2X5DVuUYZvP4CwmPwnHSTD"
+    },
+    {
+      "album": {
+        "name": "Love Lost",
+        "url": "https://open.spotify.com/album/73GcOMMjtWU30MrV9NblhT"
+      },
+      "artists": [
+        {
+          "name": "2am",
+          "url": "https://open.spotify.com/artist/5SnaL8SsjGMHQNyqpa8Zos"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230733,
+      "name": "Love Lost",
+      "url": "https://open.spotify.com/track/1axSh8e8I2eSYLBt4nrgYn"
     },
     {
       "album": {
@@ -2077,6 +2113,24 @@
       "duration_ms": 280358,
       "name": "Me After You",
       "url": "https://open.spotify.com/track/5AkyvofVWUqds8x1HHgDU9"
+    },
+    {
+      "album": {
+        "name": "Memory of You",
+        "url": "https://open.spotify.com/album/6gkiegeVbHqFstUNj4jwJV"
+      },
+      "artists": [
+        {
+          "name": "\uaddc\ub9ac",
+          "url": "https://open.spotify.com/artist/75zSvIw1eMx70OqNk89sCb"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216973,
+      "name": "Memory of You",
+      "url": "https://open.spotify.com/track/2Hy6Ajz4Unt8tlBdB8rkk1"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Den perfekta mixade spellistan f\u00f6r tr\u00e4ningspasset.",
-  "num_followers": 157223,
+  "num_followers": 157212,
   "original_name": "Tr\u00e4ning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Nzg5NDI0NCwwMDAwMDAwMDg4ZWQ1Zjg4NGNmMzE2M2I0MDZkNzE4NzU4NWM5MGM3",
+  "snapshot_id": "MTY1Nzg5NDI0NCwwMDAwMDAwMGU4NzBjMzFiODUxNTJjMTZhMDk1YWQwYzM3ZjBlNWJi",
   "tracks": [
     {
       "added_at": "2022-07-15 14:10:44",
@@ -247,34 +247,6 @@
     {
       "added_at": "2022-07-15 14:10:44",
       "album": {
-        "name": "South of the Border (feat. Camila Cabello & Cardi B) [Cheat Codes Remix]",
-        "url": "https://open.spotify.com/album/3BjxjIkTZKUpeZ6n5MYMNx"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        },
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        },
-        {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
-        },
-        {
-          "name": "Cheat Codes",
-          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
-        }
-      ],
-      "duration_ms": 195924,
-      "name": "South of the Border (feat. Camila Cabello & Cardi B) - Cheat Codes Remix",
-      "url": "https://open.spotify.com/track/19TOAlTFq0NDHvUPQR0tkr"
-    },
-    {
-      "added_at": "2022-07-15 14:10:44",
-      "album": {
         "name": "Impossible (feat. John Martin)",
         "url": "https://open.spotify.com/album/7xtz0WQBjOCXv1vgLu9vM6"
       },
@@ -363,6 +335,34 @@
     {
       "added_at": "2022-07-15 14:10:44",
       "album": {
+        "name": "South of the Border (feat. Camila Cabello & Cardi B) [Cheat Codes Remix]",
+        "url": "https://open.spotify.com/album/3BjxjIkTZKUpeZ6n5MYMNx"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        },
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        },
+        {
+          "name": "Cheat Codes",
+          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
+        }
+      ],
+      "duration_ms": 195924,
+      "name": "South of the Border (feat. Camila Cabello & Cardi B) - Cheat Codes Remix",
+      "url": "https://open.spotify.com/track/19TOAlTFq0NDHvUPQR0tkr"
+    },
+    {
+      "added_at": "2022-07-15 14:10:44",
+      "album": {
         "name": "I'm Blue (Club Mixes)",
         "url": "https://open.spotify.com/album/785itgCjNtYOiRpu1SIDoo"
       },
@@ -375,26 +375,6 @@
       "duration_ms": 150000,
       "name": "I'm Blue - Club Mix",
       "url": "https://open.spotify.com/track/0P5lXk4fg0682IgDyK7GFM"
-    },
-    {
-      "added_at": "2022-07-15 14:10:44",
-      "album": {
-        "name": "Bad Habits (Joel Corry Remix)",
-        "url": "https://open.spotify.com/album/6Oj80oIJGFbFwionyBamow"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        },
-        {
-          "name": "Joel Corry",
-          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
-        }
-      ],
-      "duration_ms": 189577,
-      "name": "Bad Habits - Joel Corry Remix",
-      "url": "https://open.spotify.com/track/5Q9DzNnrUCkJV1t1wWjYIX"
     },
     {
       "added_at": "2022-07-15 14:10:44",
@@ -531,6 +511,26 @@
     {
       "added_at": "2022-07-15 14:10:44",
       "album": {
+        "name": "Bad Habits (Joel Corry Remix)",
+        "url": "https://open.spotify.com/album/6Oj80oIJGFbFwionyBamow"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        }
+      ],
+      "duration_ms": 189577,
+      "name": "Bad Habits - Joel Corry Remix",
+      "url": "https://open.spotify.com/track/5Q9DzNnrUCkJV1t1wWjYIX"
+    },
+    {
+      "added_at": "2022-07-15 14:10:44",
+      "album": {
         "name": "Creep (mint Singles)",
         "url": "https://open.spotify.com/album/31LEjqDdP0TyZgiuse84cf"
       },
@@ -595,6 +595,30 @@
     {
       "added_at": "2022-07-15 14:10:44",
       "album": {
+        "name": "2019 Remixed",
+        "url": "https://open.spotify.com/album/3z4efVJv1e3GmoR7PybqHR"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Bonn",
+          "url": "https://open.spotify.com/artist/7Io0XduXk7aOHFHA7sLru2"
+        },
+        {
+          "name": "DubVision",
+          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
+        }
+      ],
+      "duration_ms": 239062,
+      "name": "No Sleep (feat. Bonn) - DubVision Remix",
+      "url": "https://open.spotify.com/track/0mV5JWhyUFANd9qpwLkM8d"
+    },
+    {
+      "added_at": "2022-07-15 14:10:44",
+      "album": {
         "name": "Peru",
         "url": "https://open.spotify.com/album/1wGjhakHpFEE3uPqGViTgI"
       },
@@ -647,30 +671,6 @@
       "duration_ms": 238627,
       "name": "Unbreakable (feat. Clarence Coffee Jr.)",
       "url": "https://open.spotify.com/track/0t7F6nflyhy7UR9yzTBAHl"
-    },
-    {
-      "added_at": "2022-07-15 14:10:44",
-      "album": {
-        "name": "2019 Remixed",
-        "url": "https://open.spotify.com/album/3z4efVJv1e3GmoR7PybqHR"
-      },
-      "artists": [
-        {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
-        },
-        {
-          "name": "Bonn",
-          "url": "https://open.spotify.com/artist/7Io0XduXk7aOHFHA7sLru2"
-        },
-        {
-          "name": "DubVision",
-          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
-        }
-      ],
-      "duration_ms": 239062,
-      "name": "No Sleep (feat. Bonn) - DubVision Remix",
-      "url": "https://open.spotify.com/track/0mV5JWhyUFANd9qpwLkM8d"
     },
     {
       "added_at": "2022-07-15 14:10:44",
@@ -779,6 +779,30 @@
     {
       "added_at": "2022-07-15 14:10:44",
       "album": {
+        "name": "Hold On (feat. Michel Zitron)",
+        "url": "https://open.spotify.com/album/2BxWklE9D6hPhvPgcvLWtZ"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Matisse & Sadko",
+          "url": "https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88"
+        },
+        {
+          "name": "Michel Zitron",
+          "url": "https://open.spotify.com/artist/0SiA0xtHw1lnSXRf1S7jjw"
+        }
+      ],
+      "duration_ms": 244453,
+      "name": "Hold On (feat. Michel Zitron)",
+      "url": "https://open.spotify.com/track/22zxLxXlXrBIm7XaazHNrg"
+    },
+    {
+      "added_at": "2022-07-15 14:10:44",
+      "album": {
         "name": "Tomorrow (feat. 433)",
         "url": "https://open.spotify.com/album/6PGjlC64lf5ChodLjQGLlf"
       },
@@ -855,26 +879,26 @@
     {
       "added_at": "2022-07-15 14:10:44",
       "album": {
-        "name": "Hold On (feat. Michel Zitron)",
-        "url": "https://open.spotify.com/album/2BxWklE9D6hPhvPgcvLWtZ"
+        "name": "Taste",
+        "url": "https://open.spotify.com/album/3Lk4vSi2gzzYFXUlrnXF9Y"
       },
       "artists": [
         {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+          "name": "TOOMANYLEFTHANDS",
+          "url": "https://open.spotify.com/artist/5tCPpDoXfTKy5yTongtDAT"
         },
         {
-          "name": "Matisse & Sadko",
-          "url": "https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88"
+          "name": "Marcus Mollyhus",
+          "url": "https://open.spotify.com/artist/1q5yTNpPItkDPjcpVgvDaE"
         },
         {
-          "name": "Michel Zitron",
-          "url": "https://open.spotify.com/artist/0SiA0xtHw1lnSXRf1S7jjw"
+          "name": "Conan Mac",
+          "url": "https://open.spotify.com/artist/3KzORfDLMiyfTogPTJcEGz"
         }
       ],
-      "duration_ms": 244453,
-      "name": "Hold On (feat. Michel Zitron)",
-      "url": "https://open.spotify.com/track/22zxLxXlXrBIm7XaazHNrg"
+      "duration_ms": 156774,
+      "name": "Taste",
+      "url": "https://open.spotify.com/track/0jcDf2K7yJsRAfa7XQmkIt"
     },
     {
       "added_at": "2022-07-15 14:10:44",
@@ -903,30 +927,6 @@
     {
       "added_at": "2022-07-15 14:10:44",
       "album": {
-        "name": "Monkey Mind",
-        "url": "https://open.spotify.com/album/3hLeZkaUdjiEc3jo0Mb9U1"
-      },
-      "artists": [
-        {
-          "name": "LIZOT",
-          "url": "https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe"
-        },
-        {
-          "name": "Paradigm",
-          "url": "https://open.spotify.com/artist/6WamMeXO2jN9tUYxSBUclQ"
-        },
-        {
-          "name": "AMELY",
-          "url": "https://open.spotify.com/artist/1hZHcJTY2MYNhTqlrfgobM"
-        }
-      ],
-      "duration_ms": 126511,
-      "name": "Monkey Mind",
-      "url": "https://open.spotify.com/track/2PltG4dbyC0pxwjmWBFixT"
-    },
-    {
-      "added_at": "2022-07-15 14:10:44",
-      "album": {
         "name": "Release Me (feat. Kalhaader)",
         "url": "https://open.spotify.com/album/4hnw0b8xByrv1IuLHmzcDE"
       },
@@ -947,26 +947,26 @@
     {
       "added_at": "2022-07-15 14:10:44",
       "album": {
-        "name": "Taste",
-        "url": "https://open.spotify.com/album/3Lk4vSi2gzzYFXUlrnXF9Y"
+        "name": "Monkey Mind",
+        "url": "https://open.spotify.com/album/3hLeZkaUdjiEc3jo0Mb9U1"
       },
       "artists": [
         {
-          "name": "TOOMANYLEFTHANDS",
-          "url": "https://open.spotify.com/artist/5tCPpDoXfTKy5yTongtDAT"
+          "name": "LIZOT",
+          "url": "https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe"
         },
         {
-          "name": "Marcus Mollyhus",
-          "url": "https://open.spotify.com/artist/1q5yTNpPItkDPjcpVgvDaE"
+          "name": "Paradigm",
+          "url": "https://open.spotify.com/artist/6WamMeXO2jN9tUYxSBUclQ"
         },
         {
-          "name": "Conan Mac",
-          "url": "https://open.spotify.com/artist/3KzORfDLMiyfTogPTJcEGz"
+          "name": "AMELY",
+          "url": "https://open.spotify.com/artist/1hZHcJTY2MYNhTqlrfgobM"
         }
       ],
-      "duration_ms": 156774,
-      "name": "Taste",
-      "url": "https://open.spotify.com/track/0jcDf2K7yJsRAfa7XQmkIt"
+      "duration_ms": 126511,
+      "name": "Monkey Mind",
+      "url": "https://open.spotify.com/track/2PltG4dbyC0pxwjmWBFixT"
     },
     {
       "added_at": "2022-07-15 14:10:44",
@@ -1283,30 +1283,6 @@
     {
       "added_at": "2022-07-15 14:10:44",
       "album": {
-        "name": "Fake A Smile (feat. salem ilese) [Remixes]",
-        "url": "https://open.spotify.com/album/2fqN9pZSHYwf1PaaEgPeyO"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "salem ilese",
-          "url": "https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT"
-        },
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        }
-      ],
-      "duration_ms": 168824,
-      "name": "Fake A Smile (feat. salem ilese) - R3HAB Remix",
-      "url": "https://open.spotify.com/track/1dMsLbHAMiWPzUUbLrXAwF"
-    },
-    {
-      "added_at": "2022-07-15 14:10:44",
-      "album": {
         "name": "Return of the Mack (feat. Afrojack)",
         "url": "https://open.spotify.com/album/4diHNC5rT08L3YWmTSY5Wm"
       },
@@ -1327,6 +1303,30 @@
       "duration_ms": 187960,
       "name": "Return of the Mack (feat. Afrojack)",
       "url": "https://open.spotify.com/track/4Mghl1kqNADilBMsFVMWRK"
+    },
+    {
+      "added_at": "2022-07-15 14:10:44",
+      "album": {
+        "name": "Fake A Smile (feat. salem ilese) [Remixes]",
+        "url": "https://open.spotify.com/album/2fqN9pZSHYwf1PaaEgPeyO"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "salem ilese",
+          "url": "https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT"
+        },
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "duration_ms": 168824,
+      "name": "Fake A Smile (feat. salem ilese) - R3HAB Remix",
+      "url": "https://open.spotify.com/track/1dMsLbHAMiWPzUUbLrXAwF"
     },
     {
       "added_at": "2022-07-15 14:10:44",
@@ -1527,6 +1527,26 @@
     {
       "added_at": "2022-07-15 14:10:44",
       "album": {
+        "name": "Raindrops",
+        "url": "https://open.spotify.com/album/0sOqBTPwD7ev0X9k0RLqyf"
+      },
+      "artists": [
+        {
+          "name": "Helion",
+          "url": "https://open.spotify.com/artist/05GSra7vTwr8o54Brzp2nA"
+        },
+        {
+          "name": "Violet Days",
+          "url": "https://open.spotify.com/artist/4uNv6RD2YXwoaKgHfJZkkL"
+        }
+      ],
+      "duration_ms": 151832,
+      "name": "Raindrops",
+      "url": "https://open.spotify.com/track/14DkH5iDM1ZaA3hMfJeRuM"
+    },
+    {
+      "added_at": "2022-07-15 14:10:44",
+      "album": {
         "name": "Always Feels Like (MOTi Remix)",
         "url": "https://open.spotify.com/album/1rNT0ro2pjgC2UYiWtIWLa"
       },
@@ -1591,26 +1611,6 @@
       "duration_ms": 159425,
       "name": "Tell Me I'm Pretty - Icona Pop Remix",
       "url": "https://open.spotify.com/track/1mvIcYU3FXLiXIHyX0QqP5"
-    },
-    {
-      "added_at": "2022-07-15 14:10:44",
-      "album": {
-        "name": "Raindrops",
-        "url": "https://open.spotify.com/album/0sOqBTPwD7ev0X9k0RLqyf"
-      },
-      "artists": [
-        {
-          "name": "Helion",
-          "url": "https://open.spotify.com/artist/05GSra7vTwr8o54Brzp2nA"
-        },
-        {
-          "name": "Violet Days",
-          "url": "https://open.spotify.com/artist/4uNv6RD2YXwoaKgHfJZkkL"
-        }
-      ],
-      "duration_ms": 151832,
-      "name": "Raindrops",
-      "url": "https://open.spotify.com/track/14DkH5iDM1ZaA3hMfJeRuM"
     },
     {
       "added_at": "2022-07-15 14:10:44",
@@ -1747,26 +1747,6 @@
     {
       "added_at": "2022-07-15 14:10:44",
       "album": {
-        "name": "Where You Wanna Be",
-        "url": "https://open.spotify.com/album/2qXOVTnMDCsnulrqfX4QDu"
-      },
-      "artists": [
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        },
-        {
-          "name": "Elena Temnikova",
-          "url": "https://open.spotify.com/artist/6lPJV4RlngIEnb6OzcwMDL"
-        }
-      ],
-      "duration_ms": 158709,
-      "name": "Where You Wanna Be",
-      "url": "https://open.spotify.com/track/7qbjS6uKZlv7K08CNcEqYR"
-    },
-    {
-      "added_at": "2022-07-15 14:10:44",
-      "album": {
         "name": "Something Like That",
         "url": "https://open.spotify.com/album/6ffcpnaUecLcpNj6Nx56jw"
       },
@@ -1783,6 +1763,26 @@
       "duration_ms": 164160,
       "name": "Something Like That",
       "url": "https://open.spotify.com/track/0VDazr5nn6zpfjyXR7ZWXd"
+    },
+    {
+      "added_at": "2022-07-15 14:10:44",
+      "album": {
+        "name": "Where You Wanna Be",
+        "url": "https://open.spotify.com/album/2qXOVTnMDCsnulrqfX4QDu"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "Elena Temnikova",
+          "url": "https://open.spotify.com/artist/6lPJV4RlngIEnb6OzcwMDL"
+        }
+      ],
+      "duration_ms": 158709,
+      "name": "Where You Wanna Be",
+      "url": "https://open.spotify.com/track/7qbjS6uKZlv7K08CNcEqYR"
     },
     {
       "added_at": "2022-07-15 14:10:44",
@@ -2019,22 +2019,22 @@
     {
       "added_at": "2022-07-15 14:10:44",
       "album": {
-        "name": "Nobody Else",
-        "url": "https://open.spotify.com/album/2ZqMhkbspVAsie11ovkCb0"
+        "name": "Revival (R3HAB Remix)",
+        "url": "https://open.spotify.com/album/6qXhVPnUWh9AeY4NyJp4dO"
       },
       "artists": [
         {
-          "name": "Wahlstedt",
-          "url": "https://open.spotify.com/artist/7yOWqfe8iP613Ne5SV9XPP"
+          "name": "Gregory Porter",
+          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
         },
         {
-          "name": "Sara Sangfelt",
-          "url": "https://open.spotify.com/artist/0j0pG4N3F9hf9dC9gZnOTC"
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
         }
       ],
-      "duration_ms": 179756,
-      "name": "Nobody Else",
-      "url": "https://open.spotify.com/track/4h2ohOfzR74qDhUmeYE2za"
+      "duration_ms": 176250,
+      "name": "Revival - R3HAB Remix",
+      "url": "https://open.spotify.com/track/4nSDyc7YOr4JADylhhhAAn"
     },
     {
       "added_at": "2022-07-15 14:10:44",
@@ -2059,26 +2059,6 @@
       "duration_ms": 161760,
       "name": "Hypnotize (feat. Gia Koka)",
       "url": "https://open.spotify.com/track/0LyrSQgF6gZfWAyt24LsfU"
-    },
-    {
-      "added_at": "2022-07-15 14:10:44",
-      "album": {
-        "name": "Revival (R3HAB Remix)",
-        "url": "https://open.spotify.com/album/6qXhVPnUWh9AeY4NyJp4dO"
-      },
-      "artists": [
-        {
-          "name": "Gregory Porter",
-          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
-        },
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        }
-      ],
-      "duration_ms": 176250,
-      "name": "Revival - R3HAB Remix",
-      "url": "https://open.spotify.com/track/4nSDyc7YOr4JADylhhhAAn"
     },
     {
       "added_at": "2022-07-15 14:10:44",
@@ -2123,6 +2103,26 @@
       "duration_ms": 160000,
       "name": "Let\u2019s Go Home Together - MOTi Remix",
       "url": "https://open.spotify.com/track/043WLrvXDkihMzFI0lfvp8"
+    },
+    {
+      "added_at": "2022-07-15 14:10:44",
+      "album": {
+        "name": "Nobody Else",
+        "url": "https://open.spotify.com/album/2ZqMhkbspVAsie11ovkCb0"
+      },
+      "artists": [
+        {
+          "name": "Wahlstedt",
+          "url": "https://open.spotify.com/artist/7yOWqfe8iP613Ne5SV9XPP"
+        },
+        {
+          "name": "Sara Sangfelt",
+          "url": "https://open.spotify.com/artist/0j0pG4N3F9hf9dC9gZnOTC"
+        }
+      ],
+      "duration_ms": 179756,
+      "name": "Nobody Else",
+      "url": "https://open.spotify.com/track/4h2ohOfzR74qDhUmeYE2za"
     }
   ],
   "unique_name": "Tr\u00e4ning",

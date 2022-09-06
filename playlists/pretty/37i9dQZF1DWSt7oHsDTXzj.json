@@ -1,12 +1,12 @@
 {
   "description": "The ultimate seasonal (indie) playlist.",
-  "num_followers": 110159,
+  "num_followers": 110154,
   "original_name": "Indie Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MTU2OTA3OSwwMDAwMDAwMDMwNjhmOWNmZGZmZTIxMzM4ZjRkMzkwNjNkZTk0YjQ0",
+  "snapshot_id": "MTY0MTU2OTA3OSwwMDAwMDAwMGFlNmQ5YmI5NGVkMGUzNmUzNTBmYmIxM2JlNzU0ODA1",
   "tracks": [
     {
       "added_at": "2021-11-12 17:11:33",
@@ -193,6 +193,22 @@
       "url": "https://open.spotify.com/track/6g9jjIuFrgbVX8ahN7ejmQ"
     },
     {
+      "added_at": "2021-12-15 16:04:04",
+      "album": {
+        "name": "A Very Lonely Solstice",
+        "url": "https://open.spotify.com/album/28aerKYZtxvFfNflCyE29h"
+      },
+      "artists": [
+        {
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+        }
+      ],
+      "duration_ms": 190013,
+      "name": "I'm Not My Season - Solstice Version",
+      "url": "https://open.spotify.com/track/76IsL65w9IrYTMGzdTcE6A"
+    },
+    {
       "added_at": "2021-12-03 14:19:15",
       "album": {
         "name": "This December (slow)",
@@ -223,22 +239,6 @@
       "duration_ms": 365141,
       "name": "Day After Tomorrow",
       "url": "https://open.spotify.com/track/67vdvRJhersPUkVjvJTKcf"
-    },
-    {
-      "added_at": "2021-12-15 16:04:04",
-      "album": {
-        "name": "A Very Lonely Solstice",
-        "url": "https://open.spotify.com/album/28aerKYZtxvFfNflCyE29h"
-      },
-      "artists": [
-        {
-          "name": "Fleet Foxes",
-          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
-        }
-      ],
-      "duration_ms": 190013,
-      "name": "I'm Not My Season - Solstice Version",
-      "url": "https://open.spotify.com/track/76IsL65w9IrYTMGzdTcE6A"
     },
     {
       "added_at": "2021-11-12 17:11:33",
@@ -323,22 +323,6 @@
     {
       "added_at": "2021-11-12 17:11:33",
       "album": {
-        "name": "If We Make It Through December",
-        "url": "https://open.spotify.com/album/5c7rZDAKYf6PsA3MUfNZXL"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 179074,
-      "name": "If We Make It Through December",
-      "url": "https://open.spotify.com/track/2vnVkHPckitpXFyC2Q2ULG"
-    },
-    {
-      "added_at": "2021-11-12 17:11:33",
-      "album": {
         "name": "A Little Love (From The John Lewis & Waitrose Christmas Advert 2020)",
         "url": "https://open.spotify.com/album/6uXCDNLCKMosTnjTrDtkp4"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 178546,
       "name": "A Little Love - From The John Lewis & Waitrose Christmas Advert 2020",
       "url": "https://open.spotify.com/track/7eTonpb9lXgerPaW6I1VnP"
+    },
+    {
+      "added_at": "2021-11-12 17:11:33",
+      "album": {
+        "name": "If We Make It Through December",
+        "url": "https://open.spotify.com/album/5c7rZDAKYf6PsA3MUfNZXL"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 179074,
+      "name": "If We Make It Through December",
+      "url": "https://open.spotify.com/track/2vnVkHPckitpXFyC2Q2ULG"
     },
     {
       "added_at": "2021-11-12 17:14:44",
@@ -483,6 +483,22 @@
     {
       "added_at": "2021-11-12 17:11:33",
       "album": {
+        "name": "Every Holiday",
+        "url": "https://open.spotify.com/album/5AREDLpKoBwu7fTHBmta2B"
+      },
+      "artists": [
+        {
+          "name": "Mt. Joy",
+          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
+        }
+      ],
+      "duration_ms": 224275,
+      "name": "Every Holiday",
+      "url": "https://open.spotify.com/track/2vXWJZVMkidqV3MwMpuw7a"
+    },
+    {
+      "added_at": "2021-11-12 17:11:33",
+      "album": {
         "name": "7 O'Clock News / Silent Night",
         "url": "https://open.spotify.com/album/43copJZSJKuxBmKbOG7lnn"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 120426,
       "name": "7 O'Clock News / Silent Night",
       "url": "https://open.spotify.com/track/3sIupwcMw6vCZ3bqMJa0NV"
-    },
-    {
-      "added_at": "2021-11-12 17:11:33",
-      "album": {
-        "name": "Every Holiday",
-        "url": "https://open.spotify.com/album/5AREDLpKoBwu7fTHBmta2B"
-      },
-      "artists": [
-        {
-          "name": "Mt. Joy",
-          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
-        }
-      ],
-      "duration_ms": 224275,
-      "name": "Every Holiday",
-      "url": "https://open.spotify.com/track/2vXWJZVMkidqV3MwMpuw7a"
     },
     {
       "added_at": "2021-12-03 14:19:15",
@@ -667,22 +667,6 @@
     {
       "added_at": "2021-11-12 17:11:33",
       "album": {
-        "name": "Christmas",
-        "url": "https://open.spotify.com/album/1SITmIj0Gjx12n077CU0XC"
-      },
-      "artists": [
-        {
-          "name": "Low",
-          "url": "https://open.spotify.com/artist/0wz0jO9anccPzH04N7FLBH"
-        }
-      ],
-      "duration_ms": 188720,
-      "name": "Just Like Christmas",
-      "url": "https://open.spotify.com/track/4zMP6aieSmWQNFdp3O4Owv"
-    },
-    {
-      "added_at": "2021-11-12 17:11:33",
-      "album": {
         "name": "Phoenix",
         "url": "https://open.spotify.com/album/5u76A4Ereo3ABD3E7yXAge"
       },
@@ -699,34 +683,18 @@
     {
       "added_at": "2021-11-12 17:11:33",
       "album": {
-        "name": "HARK!",
-        "url": "https://open.spotify.com/album/41h4pqwFRxXDXWsd61hHad"
+        "name": "Christmas",
+        "url": "https://open.spotify.com/album/1SITmIj0Gjx12n077CU0XC"
       },
       "artists": [
         {
-          "name": "Andrew Bird",
-          "url": "https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9"
+          "name": "Low",
+          "url": "https://open.spotify.com/artist/0wz0jO9anccPzH04N7FLBH"
         }
       ],
-      "duration_ms": 212120,
-      "name": "Andalucia",
-      "url": "https://open.spotify.com/track/4TUOVMzSSHZFUO33KDx6EB"
-    },
-    {
-      "added_at": "2021-11-12 17:11:33",
-      "album": {
-        "name": "A Dreamer's Holiday",
-        "url": "https://open.spotify.com/album/6A9z2Vf7QPQVUNuJg0Jq8E"
-      },
-      "artists": [
-        {
-          "name": "Julien Baker",
-          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
-        }
-      ],
-      "duration_ms": 180585,
-      "name": "A Dreamer's Holiday",
-      "url": "https://open.spotify.com/track/61Z8rVzYJ1NHgTlI8Q5yIC"
+      "duration_ms": 188720,
+      "name": "Just Like Christmas",
+      "url": "https://open.spotify.com/track/4zMP6aieSmWQNFdp3O4Owv"
     },
     {
       "added_at": "2021-11-12 17:11:33",
@@ -747,6 +715,22 @@
     {
       "added_at": "2021-11-12 17:11:33",
       "album": {
+        "name": "HARK!",
+        "url": "https://open.spotify.com/album/41h4pqwFRxXDXWsd61hHad"
+      },
+      "artists": [
+        {
+          "name": "Andrew Bird",
+          "url": "https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9"
+        }
+      ],
+      "duration_ms": 212120,
+      "name": "Andalucia",
+      "url": "https://open.spotify.com/track/4TUOVMzSSHZFUO33KDx6EB"
+    },
+    {
+      "added_at": "2021-11-12 17:11:33",
+      "album": {
         "name": "Home Alone, Too",
         "url": "https://open.spotify.com/album/4y57bVmY8Jj0BK0RxcLRXb"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 240233,
       "name": "Home Alone, Too",
       "url": "https://open.spotify.com/track/0DspUQUTwLtKeUO3Bb7LKK"
+    },
+    {
+      "added_at": "2021-11-12 17:11:33",
+      "album": {
+        "name": "A Dreamer's Holiday",
+        "url": "https://open.spotify.com/album/6A9z2Vf7QPQVUNuJg0Jq8E"
+      },
+      "artists": [
+        {
+          "name": "Julien Baker",
+          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
+        }
+      ],
+      "duration_ms": 180585,
+      "name": "A Dreamer's Holiday",
+      "url": "https://open.spotify.com/track/61Z8rVzYJ1NHgTlI8Q5yIC"
     },
     {
       "added_at": "2021-11-12 17:11:33",
@@ -827,18 +827,18 @@
     {
       "added_at": "2021-11-12 17:11:33",
       "album": {
-        "name": "Christmas",
-        "url": "https://open.spotify.com/album/1twjpC9pXPmQBgXLqSeM8S"
+        "name": "Creatures of an Hour",
+        "url": "https://open.spotify.com/album/0SEaWCwVW6KQK6wB6NNtsU"
       },
       "artists": [
         {
-          "name": "marinelli",
-          "url": "https://open.spotify.com/artist/0iqCNJHozJhcjPDoX1EJ6a"
+          "name": "Still Corners",
+          "url": "https://open.spotify.com/artist/4zKYrXs8iN4AeHmO8ZxNqp"
         }
       ],
-      "duration_ms": 149614,
-      "name": "Christmas",
-      "url": "https://open.spotify.com/track/58GbkmmdAijG6dAhnDYOaq"
+      "duration_ms": 173293,
+      "name": "The White Season",
+      "url": "https://open.spotify.com/track/00nHwKHbwy33Q8Eo3OB86u"
     }
   ],
   "unique_name": "Indie Christmas",

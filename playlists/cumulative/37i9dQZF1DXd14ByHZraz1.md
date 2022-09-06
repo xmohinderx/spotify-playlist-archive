@@ -4,10 +4,11 @@
 
 > Aperte o play e dance com os maiores nomes da música eletrônica nacional\. Foto: Alok
 
-87 songs - 4 hr 30 min - [published](https://open.spotify.com/playlist/560Dq1N8XlhiCMoPDbEiON)
+88 songs - 4 hr 33 min - [published](https://open.spotify.com/playlist/560Dq1N8XlhiCMoPDbEiON)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [Ai Papi](https://open.spotify.com/track/6l6RuG9usSZXu2s0NsyLWe) | [Liu](https://open.spotify.com/artist/3DnNQH13SfSOjZDsVEa0ht), [JØRD](https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV) | [Ai Papi](https://open.spotify.com/album/5q36s9vwucIs4XKp03mNVv) | 2:38 | 2022-09-05 |  |
 | [Ain't No Sunshine \(feat\. Jasmine Pace\)](https://open.spotify.com/track/3jKE64Lzp4fn9ZD28Z1dBc) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [JØRD](https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV), [Jasmine Pace](https://open.spotify.com/artist/2URbjDB65sEN3MPX3e5tCy) | [Ain't No Sunshine \(feat\. Jasmine Pace\)](https://open.spotify.com/album/6EoWcArWFprS0ORf4oixfd) | 2:47 | 2021-12-24 | 2022-07-09 |
 | [All I Wonder](https://open.spotify.com/track/1eFE7mambCS0dUNz688ceT) | [SPECT3R](https://open.spotify.com/artist/4NWK1Lp9NUDfJpAnSmAo4t) | [CONTROVERSIA by Alok Vol\. 001](https://open.spotify.com/album/3q2KUJa8PNaSpO4Ma0lHW7) | 4:19 | 2021-12-24 | 2022-08-06 |
 | [Always Feel Like](https://open.spotify.com/track/7rt3hHR1meaDWFqQygtZrS) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [Always Feel Like](https://open.spotify.com/album/4kCNzICullbugxM6oBG2G1) | 3:01 | 2022-08-26 |  |
@@ -62,7 +63,7 @@
 | [In My Mind](https://open.spotify.com/track/4JUjUe1zor1myq8f2eq3Kq) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [In My Mind](https://open.spotify.com/album/0ns8wB6mJDe5AZbYDnlPSG) | 2:55 | 2021-12-24 | 2022-07-29 |
 | [In My Mind](https://open.spotify.com/track/7uoxJCPiqiEa3fvOQQQbyn) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [In My Mind](https://open.spotify.com/album/412mL0hMStgwl1ukZjLxR8) | 2:55 | 2022-07-08 |  |
 | [In the Night \- Sevek Remix](https://open.spotify.com/track/69B1qgfaaXirGSbdx3otxJ) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT) | [In the Night \(Sevek Remix\)](https://open.spotify.com/album/3A7MxmucODffpO7GgAPqgC) | 3:04 | 2022-05-20 |  |
-| [It Don’t Matter \- Spotify Singles](https://open.spotify.com/track/7ltLi7CG003USSGYsSba9s) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [It Don’t Matter \- Spotify Singles](https://open.spotify.com/album/5w5UPTvxo2vjCWnP5fbEnc) | 2:53 | 2021-12-24 |  |
+| [It Don’t Matter \- Spotify Singles](https://open.spotify.com/track/7ltLi7CG003USSGYsSba9s) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [It Don’t Matter \- Spotify Singles](https://open.spotify.com/album/5w5UPTvxo2vjCWnP5fbEnc) | 2:53 | 2021-12-24 | 2022-09-06 |
 | [Lo Que Soy](https://open.spotify.com/track/7oNvcR6y6AIxbY2aWukM9p) | [Carola](https://open.spotify.com/artist/1ms2l3rB6iHHxtPvR9kxgW) | [Lo Que Soy](https://open.spotify.com/album/6KCqenIwnDx20ku4jx5gVl) | 3:09 | 2021-12-24 |  |
 | [Lose Your Love \(feat\. Ghosts!\)](https://open.spotify.com/track/6Md3dxN47Rrg7ZrIEZ5198) | [Sevenn](https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4), [Ghosts!](https://open.spotify.com/artist/7n6zkjRcVcm27g5HJWKU58) | [Lose Your Love \(feat\. Ghosts!\)](https://open.spotify.com/album/7v0M7q5dtXfvlD2HYaOstf) | 2:58 | 2021-12-24 | 2022-04-23 |
 | [Lost For Days \- Remix](https://open.spotify.com/track/7eUv5Miiq8xSbEKpzI2zJd) | [DJ Valle](https://open.spotify.com/artist/5cYXpZE0nMP9yKot4mb32e) | [Lost For Days \(Remix\)](https://open.spotify.com/album/03kcd2pUOAq7BFD6l54akK) | 2:35 | 2021-12-24 | 2022-03-05 |

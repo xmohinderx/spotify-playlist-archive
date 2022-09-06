@@ -1,12 +1,12 @@
 {
   "description": "Songs of positivity from some of today's leading inspiring artists. Cover: Chance The Rapper featuring visual artist Na\u00efla Opiangah",
-  "num_followers": 2430,
+  "num_followers": 2451,
   "original_name": "Blessings",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Mzc2NjE5NCwwMDAwMDAwMDdhMDI0NzY1OGYxNjk1N2RlYzM5NDE3ODkwMzhkMDk5",
+  "snapshot_id": "MTY1Mzc2NjE5NCwwMDAwMDAwMGNlYTYwZmE0NDZkZjc1ZTg4MjUyNjk1OWEwYWNhYzE1",
   "tracks": [
     {
       "added_at": "2022-05-28 19:29:54",
@@ -991,22 +991,6 @@
     {
       "added_at": "2022-05-28 19:29:54",
       "album": {
-        "name": "Nothin to Do with It",
-        "url": "https://open.spotify.com/album/1yY41P2uR08Ymc14y4j4Jj"
-      },
-      "artists": [
-        {
-          "name": "J. Monty",
-          "url": "https://open.spotify.com/artist/65qv2AiHO3xVWAs4SCKx4O"
-        }
-      ],
-      "duration_ms": 149508,
-      "name": "Nothin to Do with It",
-      "url": "https://open.spotify.com/track/0Topatv6lvMQE8DKtETF3e"
-    },
-    {
-      "added_at": "2022-05-28 19:29:54",
-      "album": {
         "name": "HOLY SMOKE!",
         "url": "https://open.spotify.com/album/6C05PIU1wMUQzudzjqjU5O"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 196250,
       "name": "HOLY SMOKE!",
       "url": "https://open.spotify.com/track/0nOFQTgf87Hf9TDFPJsm62"
+    },
+    {
+      "added_at": "2022-05-28 19:29:54",
+      "album": {
+        "name": "Nothin to Do with It",
+        "url": "https://open.spotify.com/album/1yY41P2uR08Ymc14y4j4Jj"
+      },
+      "artists": [
+        {
+          "name": "J. Monty",
+          "url": "https://open.spotify.com/artist/65qv2AiHO3xVWAs4SCKx4O"
+        }
+      ],
+      "duration_ms": 149508,
+      "name": "Nothin to Do with It",
+      "url": "https://open.spotify.com/track/0Topatv6lvMQE8DKtETF3e"
     },
     {
       "added_at": "2022-05-28 19:29:54",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2022-05-28 19:29:54",
       "album": {
-        "name": "Pastor Monty",
-        "url": "https://open.spotify.com/album/3LKKgmRlF6vlY7Yf34m72j"
-      },
-      "artists": [
-        {
-          "name": "J. Monty",
-          "url": "https://open.spotify.com/artist/65qv2AiHO3xVWAs4SCKx4O"
-        }
-      ],
-      "duration_ms": 142400,
-      "name": "Pastor Monty",
-      "url": "https://open.spotify.com/track/2hsy4PMd50TgUyMarkQJuo"
-    },
-    {
-      "added_at": "2022-05-28 19:29:54",
-      "album": {
         "name": "NO GOOD",
         "url": "https://open.spotify.com/album/2yXbdKXRbLV1zVRguS35kl"
       },
@@ -1127,22 +1111,18 @@
     {
       "added_at": "2022-05-28 19:29:54",
       "album": {
-        "name": "Not for Sale",
-        "url": "https://open.spotify.com/album/0FXpVJAKnaiMJ6wLs2Ij2w"
+        "name": "Pastor Monty",
+        "url": "https://open.spotify.com/album/3LKKgmRlF6vlY7Yf34m72j"
       },
       "artists": [
         {
-          "name": "CASS",
-          "url": "https://open.spotify.com/artist/1pcufq5QrAZE0kBRQS65DM"
-        },
-        {
-          "name": "Aaron Cole",
-          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
+          "name": "J. Monty",
+          "url": "https://open.spotify.com/artist/65qv2AiHO3xVWAs4SCKx4O"
         }
       ],
-      "duration_ms": 222916,
-      "name": "1994 (feat. Aaron Cole)",
-      "url": "https://open.spotify.com/track/2pYpNUlU1wjyZyQpHUhtPT"
+      "duration_ms": 142400,
+      "name": "Pastor Monty",
+      "url": "https://open.spotify.com/track/2hsy4PMd50TgUyMarkQJuo"
     },
     {
       "added_at": "2022-05-28 19:29:54",
@@ -1163,6 +1143,26 @@
       "duration_ms": 144240,
       "name": "W.Y.T",
       "url": "https://open.spotify.com/track/1jLjRrZd9FM3y5g3NfjlsB"
+    },
+    {
+      "added_at": "2022-05-28 19:29:54",
+      "album": {
+        "name": "Not for Sale",
+        "url": "https://open.spotify.com/album/0FXpVJAKnaiMJ6wLs2Ij2w"
+      },
+      "artists": [
+        {
+          "name": "CASS",
+          "url": "https://open.spotify.com/artist/1pcufq5QrAZE0kBRQS65DM"
+        },
+        {
+          "name": "Aaron Cole",
+          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
+        }
+      ],
+      "duration_ms": 222916,
+      "name": "1994 (feat. Aaron Cole)",
+      "url": "https://open.spotify.com/track/2pYpNUlU1wjyZyQpHUhtPT"
     },
     {
       "added_at": "2022-05-28 19:29:54",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2022-05-28 19:29:54",
       "album": {
+        "name": "97",
+        "url": "https://open.spotify.com/album/4M0bzRbUTj6CFzE7zPgJtM"
+      },
+      "artists": [
+        {
+          "name": "Jon Keith",
+          "url": "https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo"
+        }
+      ],
+      "duration_ms": 175217,
+      "name": "97",
+      "url": "https://open.spotify.com/track/3Wy25k1tXhCJ7HVOItXief"
+    },
+    {
+      "added_at": "2022-05-28 19:29:54",
+      "album": {
         "name": "My Way - Deluxe",
         "url": "https://open.spotify.com/album/41NpQCQDvSjmFQKdDVUavh"
       },
@@ -1263,38 +1279,22 @@
     {
       "added_at": "2022-05-28 19:29:54",
       "album": {
-        "name": "ABOVE ME (feat. Parris Chariz)",
-        "url": "https://open.spotify.com/album/7a7gNlcfFqoq2tCQmz2RoG"
+        "name": "A Beautiful Revolution (Pt 1)",
+        "url": "https://open.spotify.com/album/1ox4vPb5vQvWwATPX8RTZh"
       },
       "artists": [
         {
-          "name": "Aaron Cole",
-          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
+          "name": "Common",
+          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
         },
         {
-          "name": "Parris Chariz",
-          "url": "https://open.spotify.com/artist/2Vt6gyhUH7Vj2cybfQWOqM"
+          "name": "PJ",
+          "url": "https://open.spotify.com/artist/4O36cq71Cq7NazopFLBMmb"
         }
       ],
-      "duration_ms": 167142,
-      "name": "ABOVE ME (feat. Parris Chariz)",
-      "url": "https://open.spotify.com/track/2ux5VNDPUsAV2Q5qKhRA6A"
-    },
-    {
-      "added_at": "2022-05-28 19:29:54",
-      "album": {
-        "name": "97",
-        "url": "https://open.spotify.com/album/4M0bzRbUTj6CFzE7zPgJtM"
-      },
-      "artists": [
-        {
-          "name": "Jon Keith",
-          "url": "https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo"
-        }
-      ],
-      "duration_ms": 175217,
-      "name": "97",
-      "url": "https://open.spotify.com/track/3Wy25k1tXhCJ7HVOItXief"
+      "duration_ms": 173226,
+      "name": "Don\u2019t Forget Who You Are",
+      "url": "https://open.spotify.com/track/2bUOUKpJmF0KQqWpu8HIlX"
     },
     {
       "added_at": "2022-05-28 19:29:54",
@@ -1331,22 +1331,22 @@
     {
       "added_at": "2022-05-28 19:29:54",
       "album": {
-        "name": "A Beautiful Revolution (Pt 1)",
-        "url": "https://open.spotify.com/album/1ox4vPb5vQvWwATPX8RTZh"
+        "name": "ABOVE ME (feat. Parris Chariz)",
+        "url": "https://open.spotify.com/album/7a7gNlcfFqoq2tCQmz2RoG"
       },
       "artists": [
         {
-          "name": "Common",
-          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+          "name": "Aaron Cole",
+          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
         },
         {
-          "name": "PJ",
-          "url": "https://open.spotify.com/artist/4O36cq71Cq7NazopFLBMmb"
+          "name": "Parris Chariz",
+          "url": "https://open.spotify.com/artist/2Vt6gyhUH7Vj2cybfQWOqM"
         }
       ],
-      "duration_ms": 173226,
-      "name": "Don\u2019t Forget Who You Are",
-      "url": "https://open.spotify.com/track/2bUOUKpJmF0KQqWpu8HIlX"
+      "duration_ms": 167142,
+      "name": "ABOVE ME (feat. Parris Chariz)",
+      "url": "https://open.spotify.com/track/2ux5VNDPUsAV2Q5qKhRA6A"
     },
     {
       "added_at": "2022-05-28 19:29:54",
@@ -1399,6 +1399,22 @@
     {
       "added_at": "2022-05-28 19:29:54",
       "album": {
+        "name": "Genes",
+        "url": "https://open.spotify.com/album/1Tb2uOlFRxyJr1Xj76qE1T"
+      },
+      "artists": [
+        {
+          "name": "Jon Keith",
+          "url": "https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo"
+        }
+      ],
+      "duration_ms": 134399,
+      "name": "Genes",
+      "url": "https://open.spotify.com/track/0nFeYMN51MWvGOQhenG4XN"
+    },
+    {
+      "added_at": "2022-05-28 19:29:54",
+      "album": {
         "name": "Dreamworld",
         "url": "https://open.spotify.com/album/3l8TtWvoyuuOSSyk7QNNVo"
       },
@@ -1435,22 +1451,6 @@
     {
       "added_at": "2022-05-28 19:29:54",
       "album": {
-        "name": "Genes",
-        "url": "https://open.spotify.com/album/1Tb2uOlFRxyJr1Xj76qE1T"
-      },
-      "artists": [
-        {
-          "name": "Jon Keith",
-          "url": "https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo"
-        }
-      ],
-      "duration_ms": 134399,
-      "name": "Genes",
-      "url": "https://open.spotify.com/track/0nFeYMN51MWvGOQhenG4XN"
-    },
-    {
-      "added_at": "2022-05-28 19:29:54",
-      "album": {
         "name": "Ram in the Bush",
         "url": "https://open.spotify.com/album/3gG2gyb4kEHRLE7TKJqXGn"
       },
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2022-05-28 19:29:54",
       "album": {
-        "name": "STILL GOING",
-        "url": "https://open.spotify.com/album/1cJRopWEWKI228hn0EutNZ"
-      },
-      "artists": [
-        {
-          "name": "YB",
-          "url": "https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k"
-        }
-      ],
-      "duration_ms": 88294,
-      "name": "STILL GOING",
-      "url": "https://open.spotify.com/track/5yDlFQ285jpfAS8uYQcQqq"
-    },
-    {
-      "added_at": "2022-05-28 19:29:54",
-      "album": {
         "name": "Christopher",
         "url": "https://open.spotify.com/album/5VEvjpJ9mrA2JfVQJJvLEW"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 171196,
       "name": "9th Grade",
       "url": "https://open.spotify.com/track/1XaFCyWBX7fxEI5EjsdC1F"
+    },
+    {
+      "added_at": "2022-05-28 19:29:54",
+      "album": {
+        "name": "STILL GOING",
+        "url": "https://open.spotify.com/album/1cJRopWEWKI228hn0EutNZ"
+      },
+      "artists": [
+        {
+          "name": "YB",
+          "url": "https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k"
+        }
+      ],
+      "duration_ms": 88294,
+      "name": "STILL GOING",
+      "url": "https://open.spotify.com/track/5yDlFQ285jpfAS8uYQcQqq"
     },
     {
       "added_at": "2022-05-28 19:29:54",
@@ -1735,42 +1735,6 @@
     {
       "added_at": "2022-05-28 19:29:54",
       "album": {
-        "name": "All Is True",
-        "url": "https://open.spotify.com/album/4v9swPe8LPME9ZnXBGayXs"
-      },
-      "artists": [
-        {
-          "name": "Steven Malcolm",
-          "url": "https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8"
-        }
-      ],
-      "duration_ms": 196056,
-      "name": "Autopilot",
-      "url": "https://open.spotify.com/track/6QsBP5ptf3kKdnGpuSqBir"
-    },
-    {
-      "added_at": "2022-05-28 19:29:54",
-      "album": {
-        "name": "Be Gone (feat. Mike Teezy)",
-        "url": "https://open.spotify.com/album/6OLJkhICitLisBY6dAYNY5"
-      },
-      "artists": [
-        {
-          "name": "Mission",
-          "url": "https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba"
-        },
-        {
-          "name": "Mike Teezy",
-          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
-        }
-      ],
-      "duration_ms": 176076,
-      "name": "Be Gone (feat. Mike Teezy)",
-      "url": "https://open.spotify.com/track/2cnc9jsFHDsGDQpYBMtgP9"
-    },
-    {
-      "added_at": "2022-05-28 19:29:54",
-      "album": {
         "name": "My Bruddas",
         "url": "https://open.spotify.com/album/2ijkyNFFJUHG4g8eBaarQS"
       },
@@ -1795,6 +1759,22 @@
     {
       "added_at": "2022-05-28 19:29:54",
       "album": {
+        "name": "All Is True",
+        "url": "https://open.spotify.com/album/4v9swPe8LPME9ZnXBGayXs"
+      },
+      "artists": [
+        {
+          "name": "Steven Malcolm",
+          "url": "https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8"
+        }
+      ],
+      "duration_ms": 196056,
+      "name": "Autopilot",
+      "url": "https://open.spotify.com/track/6QsBP5ptf3kKdnGpuSqBir"
+    },
+    {
+      "added_at": "2022-05-28 19:29:54",
+      "album": {
         "name": "Desesperado (Espa\u00f1ol)",
         "url": "https://open.spotify.com/album/3KkwQBbgUCdbStPTGEN8qQ"
       },
@@ -1811,6 +1791,50 @@
       "duration_ms": 181533,
       "name": "Reborn",
       "url": "https://open.spotify.com/track/7IPD7tvVOxDasWX0ZTU8Gx"
+    },
+    {
+      "added_at": "2022-05-28 19:29:54",
+      "album": {
+        "name": "Little Longer",
+        "url": "https://open.spotify.com/album/6N6y7ags2X6ZQPXJuAH3PC"
+      },
+      "artists": [
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        },
+        {
+          "name": "Melvillous",
+          "url": "https://open.spotify.com/artist/0rP1JrlHuwm3oS32Hpli8J"
+        },
+        {
+          "name": "CASS",
+          "url": "https://open.spotify.com/artist/1pcufq5QrAZE0kBRQS65DM"
+        }
+      ],
+      "duration_ms": 198152,
+      "name": "Little Longer",
+      "url": "https://open.spotify.com/track/7gETe38EeZmGFM6Ij0rClG"
+    },
+    {
+      "added_at": "2022-05-28 19:29:54",
+      "album": {
+        "name": "Be Gone (feat. Mike Teezy)",
+        "url": "https://open.spotify.com/album/6OLJkhICitLisBY6dAYNY5"
+      },
+      "artists": [
+        {
+          "name": "Mission",
+          "url": "https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba"
+        },
+        {
+          "name": "Mike Teezy",
+          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
+        }
+      ],
+      "duration_ms": 176076,
+      "name": "Be Gone (feat. Mike Teezy)",
+      "url": "https://open.spotify.com/track/2cnc9jsFHDsGDQpYBMtgP9"
     },
     {
       "added_at": "2022-05-28 19:29:54",
@@ -1859,30 +1883,6 @@
     {
       "added_at": "2022-05-28 19:29:54",
       "album": {
-        "name": "Little Longer",
-        "url": "https://open.spotify.com/album/6N6y7ags2X6ZQPXJuAH3PC"
-      },
-      "artists": [
-        {
-          "name": "Limoblaze",
-          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
-        },
-        {
-          "name": "Melvillous",
-          "url": "https://open.spotify.com/artist/0rP1JrlHuwm3oS32Hpli8J"
-        },
-        {
-          "name": "CASS",
-          "url": "https://open.spotify.com/artist/1pcufq5QrAZE0kBRQS65DM"
-        }
-      ],
-      "duration_ms": 198152,
-      "name": "Little Longer",
-      "url": "https://open.spotify.com/track/7gETe38EeZmGFM6Ij0rClG"
-    },
-    {
-      "added_at": "2022-05-28 19:29:54",
-      "album": {
         "name": "We Made It",
         "url": "https://open.spotify.com/album/4itsnwwH8AwZoL9sPaua3F"
       },
@@ -1919,22 +1919,6 @@
       "duration_ms": 181558,
       "name": "Never Change",
       "url": "https://open.spotify.com/track/2nGr6tipAPJNYZbnShEB1y"
-    },
-    {
-      "added_at": "2022-05-28 19:29:54",
-      "album": {
-        "name": "Tru Talk Tony, Vol. 1",
-        "url": "https://open.spotify.com/album/5Ko5gZvBN5vyWwZpze9d7P"
-      },
-      "artists": [
-        {
-          "name": "Mission",
-          "url": "https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Can't Lose",
-      "url": "https://open.spotify.com/track/1gwz0qanN2fEsqnU4T7vSb"
     },
     {
       "added_at": "2022-05-28 19:29:54",
@@ -1983,6 +1967,26 @@
       "duration_ms": 174400,
       "name": "Fo' Rilly Flow",
       "url": "https://open.spotify.com/track/0h9O7fUWZFuVZLbec9f1Qz"
+    },
+    {
+      "added_at": "2022-05-28 19:29:54",
+      "album": {
+        "name": "Ascend",
+        "url": "https://open.spotify.com/album/2VwSTUlrkCFsCyKNbpqvnN"
+      },
+      "artists": [
+        {
+          "name": "Jeremiah Paltan",
+          "url": "https://open.spotify.com/artist/7gaLLumDYrznRYzpPtvrru"
+        },
+        {
+          "name": "KDNS",
+          "url": "https://open.spotify.com/artist/1SzoqS86kItL3yvFG0eKN0"
+        }
+      ],
+      "duration_ms": 198095,
+      "name": "Ascend",
+      "url": "https://open.spotify.com/track/4jb2OO7G3J68R5mmQtjZKA"
     }
   ],
   "unique_name": "Blessings",

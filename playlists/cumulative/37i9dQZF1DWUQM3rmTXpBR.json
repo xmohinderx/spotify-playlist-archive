@@ -62,6 +62,24 @@
     },
     {
       "album": {
+        "name": "Al Sa'aa Al Oula",
+        "url": "https://open.spotify.com/album/0Zucsn1XIbYo6OZ2wel2hB"
+      },
+      "artists": [
+        {
+          "name": "Statues of Sinking Men",
+          "url": "https://open.spotify.com/artist/0Yb1BJkuMs6USz8shheqxY"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273750,
+      "name": "Al Sa'aa Al Oula",
+      "url": "https://open.spotify.com/track/7hQSSr9kFGmM1zyQmeIkPw"
+    },
+    {
+      "album": {
         "name": "Aladdin",
         "url": "https://open.spotify.com/album/173KkWJDT5Lo7LUPD2m57k"
       },

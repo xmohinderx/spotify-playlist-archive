@@ -1,12 +1,12 @@
 {
   "description": "A salute to all of the women that like it loud & heavy. Cover: Scene Queen",
-  "num_followers": 528781,
+  "num_followers": 528894,
   "original_name": "Heavy Queens",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzYwODU4NCwwMDAwMDAwMDI5NWI3ODFiZTFkODcxMWQ1ZTEwNTRiNzM5MTU3OTMy",
+  "snapshot_id": "MTY0NzYwODU4NCwwMDAwMDAwMDc1NDAxNTY0NTRjNDliNzZkNDcyODllOTMyMDBkODU2",
   "tracks": [
     {
       "added_at": "2022-03-11 00:00:00",
@@ -159,6 +159,26 @@
     {
       "added_at": "2022-03-11 00:00:00",
       "album": {
+        "name": "Manifest",
+        "url": "https://open.spotify.com/album/0i8Xkm6i0Ej627KFK7GqJa"
+      },
+      "artists": [
+        {
+          "name": "Amaranthe",
+          "url": "https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa"
+        },
+        {
+          "name": "Noora Louhimo",
+          "url": "https://open.spotify.com/artist/1sohI3zY96pI2KJICKOYBA"
+        }
+      ],
+      "duration_ms": 186986,
+      "name": "Strong",
+      "url": "https://open.spotify.com/track/4OYa2PXcdFhsg3SGkevSjl"
+    },
+    {
+      "added_at": "2022-03-11 00:00:00",
+      "album": {
         "name": "Seize the Power",
         "url": "https://open.spotify.com/album/2QgPGKzoN51qcEzGlHYk7j"
       },
@@ -175,6 +195,22 @@
       "duration_ms": 139728,
       "name": "Clique",
       "url": "https://open.spotify.com/track/6CVfZfkdd4Jdvg8JnBL6Oy"
+    },
+    {
+      "added_at": "2022-03-11 00:00:00",
+      "album": {
+        "name": "Mother",
+        "url": "https://open.spotify.com/album/28IlwCwIt69Xh627BwUC8F"
+      },
+      "artists": [
+        {
+          "name": "In This Moment",
+          "url": "https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT"
+        }
+      ],
+      "duration_ms": 249050,
+      "name": "As Above, So Below",
+      "url": "https://open.spotify.com/track/4pj2L6WbBAlevdxx6jgm32"
     },
     {
       "added_at": "2022-03-11 00:00:00",
@@ -215,26 +251,6 @@
     {
       "added_at": "2022-03-11 00:00:00",
       "album": {
-        "name": "Manifest",
-        "url": "https://open.spotify.com/album/0i8Xkm6i0Ej627KFK7GqJa"
-      },
-      "artists": [
-        {
-          "name": "Amaranthe",
-          "url": "https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa"
-        },
-        {
-          "name": "Noora Louhimo",
-          "url": "https://open.spotify.com/artist/1sohI3zY96pI2KJICKOYBA"
-        }
-      ],
-      "duration_ms": 186986,
-      "name": "Strong",
-      "url": "https://open.spotify.com/track/4OYa2PXcdFhsg3SGkevSjl"
-    },
-    {
-      "added_at": "2022-03-11 00:00:00",
-      "album": {
         "name": "Eternal Blue",
         "url": "https://open.spotify.com/album/6cZ39G1mahxDAGfoPzDllb"
       },
@@ -251,18 +267,18 @@
     {
       "added_at": "2022-03-11 00:00:00",
       "album": {
-        "name": "Mother",
-        "url": "https://open.spotify.com/album/28IlwCwIt69Xh627BwUC8F"
+        "name": "The Nexus",
+        "url": "https://open.spotify.com/album/6431V8pOEUPUW4k9ASyKCV"
       },
       "artists": [
         {
-          "name": "In This Moment",
-          "url": "https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT"
+          "name": "Amaranthe",
+          "url": "https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa"
         }
       ],
-      "duration_ms": 249050,
-      "name": "As Above, So Below",
-      "url": "https://open.spotify.com/track/4pj2L6WbBAlevdxx6jgm32"
+      "duration_ms": 196040,
+      "name": "The Nexus",
+      "url": "https://open.spotify.com/track/3FA9wGCQWqyoqWDPhsGtO1"
     },
     {
       "added_at": "2022-03-11 00:00:00",
@@ -299,22 +315,6 @@
     {
       "added_at": "2022-03-11 00:00:00",
       "album": {
-        "name": "The Nexus",
-        "url": "https://open.spotify.com/album/6431V8pOEUPUW4k9ASyKCV"
-      },
-      "artists": [
-        {
-          "name": "Amaranthe",
-          "url": "https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa"
-        }
-      ],
-      "duration_ms": 196040,
-      "name": "The Nexus",
-      "url": "https://open.spotify.com/track/3FA9wGCQWqyoqWDPhsGtO1"
-    },
-    {
-      "added_at": "2022-03-11 00:00:00",
-      "album": {
         "name": "HUMAN. :II: NATURE.",
         "url": "https://open.spotify.com/album/1iSsdlURK7CGUVlcz4M5Li"
       },
@@ -347,22 +347,6 @@
     {
       "added_at": "2022-03-11 00:00:00",
       "album": {
-        "name": "The Purge",
-        "url": "https://open.spotify.com/album/1rN72pQnsIJo2MqHfqDqYA"
-      },
-      "artists": [
-        {
-          "name": "Within Temptation",
-          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
-        }
-      ],
-      "duration_ms": 256466,
-      "name": "The Purge",
-      "url": "https://open.spotify.com/track/72Cz4BgCt2RZQL3JQVwRwG"
-    },
-    {
-      "added_at": "2022-03-11 00:00:00",
-      "album": {
         "name": "Petrichor",
         "url": "https://open.spotify.com/album/5MMpn220uT7mgXdfzrKtnS"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 243783,
       "name": "Petrichor",
       "url": "https://open.spotify.com/track/6MRk1DdNtF7OZSVZYtvZyw"
+    },
+    {
+      "added_at": "2022-03-11 00:00:00",
+      "album": {
+        "name": "The Purge",
+        "url": "https://open.spotify.com/album/1rN72pQnsIJo2MqHfqDqYA"
+      },
+      "artists": [
+        {
+          "name": "Within Temptation",
+          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
+        }
+      ],
+      "duration_ms": 256466,
+      "name": "The Purge",
+      "url": "https://open.spotify.com/track/72Cz4BgCt2RZQL3JQVwRwG"
     },
     {
       "added_at": "2022-03-11 00:00:00",
@@ -515,22 +515,6 @@
     {
       "added_at": "2022-03-11 00:00:00",
       "album": {
-        "name": "Reeling",
-        "url": "https://open.spotify.com/album/1hkGVzxg3aKTSj1B6EMyRh"
-      },
-      "artists": [
-        {
-          "name": "The Mysterines",
-          "url": "https://open.spotify.com/artist/15QhuBSLfDNECfF8wvxj0M"
-        }
-      ],
-      "duration_ms": 170373,
-      "name": "Life's a Bitch (But I Like it So Much)",
-      "url": "https://open.spotify.com/track/3pNxB32GZ03zJQ3fmUqsj5"
-    },
-    {
-      "added_at": "2022-03-11 00:00:00",
-      "album": {
         "name": "Last Dance",
         "url": "https://open.spotify.com/album/6Tayomr8QmeU9u0f2GJ0Vt"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 211875,
       "name": "Last Dance",
       "url": "https://open.spotify.com/track/6xrsNVrcVdTgoR7ikHWZWX"
+    },
+    {
+      "added_at": "2022-03-11 00:00:00",
+      "album": {
+        "name": "Reeling",
+        "url": "https://open.spotify.com/album/1hkGVzxg3aKTSj1B6EMyRh"
+      },
+      "artists": [
+        {
+          "name": "The Mysterines",
+          "url": "https://open.spotify.com/artist/15QhuBSLfDNECfF8wvxj0M"
+        }
+      ],
+      "duration_ms": 170373,
+      "name": "Life's a Bitch (But I Like it So Much)",
+      "url": "https://open.spotify.com/track/3pNxB32GZ03zJQ3fmUqsj5"
     },
     {
       "added_at": "2022-03-11 00:00:00",
@@ -579,22 +579,6 @@
     {
       "added_at": "2022-03-11 00:00:00",
       "album": {
-        "name": "Looking for You",
-        "url": "https://open.spotify.com/album/2pesVUS0cVRFLtGjiU4sJ9"
-      },
-      "artists": [
-        {
-          "name": "Amberian Dawn",
-          "url": "https://open.spotify.com/artist/01DQQFGEOzbFugH5FcVAgI"
-        }
-      ],
-      "duration_ms": 233472,
-      "name": "Lay All Your Love on Me",
-      "url": "https://open.spotify.com/track/2Btn2mmghzndEJVi06z65t"
-    },
-    {
-      "added_at": "2022-03-11 00:00:00",
-      "album": {
         "name": "Forsaken (The Aftermath)",
         "url": "https://open.spotify.com/album/19sM9PTWBKHos2jARNfe06"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 298634,
       "name": "Forsaken - The Aftermath",
       "url": "https://open.spotify.com/track/6dzyEj20geKV3Khh0nFqbR"
+    },
+    {
+      "added_at": "2022-03-11 00:00:00",
+      "album": {
+        "name": "Looking for You",
+        "url": "https://open.spotify.com/album/2pesVUS0cVRFLtGjiU4sJ9"
+      },
+      "artists": [
+        {
+          "name": "Amberian Dawn",
+          "url": "https://open.spotify.com/artist/01DQQFGEOzbFugH5FcVAgI"
+        }
+      ],
+      "duration_ms": 233472,
+      "name": "Lay All Your Love on Me",
+      "url": "https://open.spotify.com/track/2Btn2mmghzndEJVi06z65t"
     },
     {
       "added_at": "2022-03-11 00:00:00",
@@ -779,22 +779,6 @@
     {
       "added_at": "2022-03-11 00:00:00",
       "album": {
-        "name": "Omega",
-        "url": "https://open.spotify.com/album/4Hb5cbP4Z9H9G1HavAra4q"
-      },
-      "artists": [
-        {
-          "name": "Epica",
-          "url": "https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp"
-        }
-      ],
-      "duration_ms": 337058,
-      "name": "Freedom - The Wolves Within -",
-      "url": "https://open.spotify.com/track/2rzwHaMCaHV67JPIbBVT7N"
-    },
-    {
-      "added_at": "2022-03-11 00:00:00",
-      "album": {
         "name": "Darkness",
         "url": "https://open.spotify.com/album/31w55jlg4HsGp2lp9ZgnG9"
       },
@@ -811,18 +795,18 @@
     {
       "added_at": "2022-03-11 00:00:00",
       "album": {
-        "name": "Who Are The Girls?",
-        "url": "https://open.spotify.com/album/3TlUu9X2Bs4ngvLkad88HQ"
+        "name": "Omega",
+        "url": "https://open.spotify.com/album/4Hb5cbP4Z9H9G1HavAra4q"
       },
       "artists": [
         {
-          "name": "Nova Twins",
-          "url": "https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM"
+          "name": "Epica",
+          "url": "https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp"
         }
       ],
-      "duration_ms": 201013,
-      "name": "Taxi",
-      "url": "https://open.spotify.com/track/5tmteF0p600KTdfsBvOvZg"
+      "duration_ms": 337058,
+      "name": "Freedom - The Wolves Within -",
+      "url": "https://open.spotify.com/track/2rzwHaMCaHV67JPIbBVT7N"
     },
     {
       "added_at": "2022-03-11 00:00:00",
@@ -839,6 +823,22 @@
       "duration_ms": 226186,
       "name": "Hurt You",
       "url": "https://open.spotify.com/track/703T3v8A5aa9QdQ8NlQYlV"
+    },
+    {
+      "added_at": "2022-03-11 00:00:00",
+      "album": {
+        "name": "Who Are The Girls?",
+        "url": "https://open.spotify.com/album/3TlUu9X2Bs4ngvLkad88HQ"
+      },
+      "artists": [
+        {
+          "name": "Nova Twins",
+          "url": "https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM"
+        }
+      ],
+      "duration_ms": 201013,
+      "name": "Taxi",
+      "url": "https://open.spotify.com/track/5tmteF0p600KTdfsBvOvZg"
     },
     {
       "added_at": "2022-03-11 00:00:00",
@@ -887,6 +887,22 @@
       "duration_ms": 264219,
       "name": "Mr. Magic",
       "url": "https://open.spotify.com/track/0VwhP56nyBybH9WhLhMPrG"
+    },
+    {
+      "added_at": "2022-03-11 00:00:00",
+      "album": {
+        "name": "Constance",
+        "url": "https://open.spotify.com/album/7nQLzgir5udDRYcLIpmlyx"
+      },
+      "artists": [
+        {
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+        }
+      ],
+      "duration_ms": 270416,
+      "name": "Constance",
+      "url": "https://open.spotify.com/track/0Zlx1KWGu52inBW23CUukE"
     },
     {
       "added_at": "2022-03-11 00:00:00",
@@ -953,38 +969,6 @@
       "url": "https://open.spotify.com/track/0Z1I9iJRUkQPWGmrrkom3H"
     },
     {
-      "added_at": "2022-03-11 00:00:00",
-      "album": {
-        "name": "K.M.B.",
-        "url": "https://open.spotify.com/album/2yK4JovZF5kJ4vKRFFG9Y5"
-      },
-      "artists": [
-        {
-          "name": "Nova Twins",
-          "url": "https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM"
-        }
-      ],
-      "duration_ms": 195306,
-      "name": "K.M.B.",
-      "url": "https://open.spotify.com/track/3v18sKtzeSiREITWYWPGnh"
-    },
-    {
-      "added_at": "2022-03-11 00:00:00",
-      "album": {
-        "name": "Constance",
-        "url": "https://open.spotify.com/album/7nQLzgir5udDRYcLIpmlyx"
-      },
-      "artists": [
-        {
-          "name": "Spiritbox",
-          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
-        }
-      ],
-      "duration_ms": 270416,
-      "name": "Constance",
-      "url": "https://open.spotify.com/track/0Zlx1KWGu52inBW23CUukE"
-    },
-    {
       "added_at": "2022-03-18 13:03:04",
       "album": {
         "name": "Moonlight",
@@ -1007,18 +991,18 @@
     {
       "added_at": "2022-03-11 00:00:00",
       "album": {
-        "name": "Last One Standing",
-        "url": "https://open.spotify.com/album/09BxkLEcznMDHJ9MWH4FtE"
+        "name": "K.M.B.",
+        "url": "https://open.spotify.com/album/2yK4JovZF5kJ4vKRFFG9Y5"
       },
       "artists": [
         {
-          "name": "Icon For Hire",
-          "url": "https://open.spotify.com/artist/1Jy0lTKAQDnTklKzF0g2o7"
+          "name": "Nova Twins",
+          "url": "https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM"
         }
       ],
-      "duration_ms": 204003,
-      "name": "Last One Standing",
-      "url": "https://open.spotify.com/track/0l9zlXpT3inDwP7pRvnIS7"
+      "duration_ms": 195306,
+      "name": "K.M.B.",
+      "url": "https://open.spotify.com/track/3v18sKtzeSiREITWYWPGnh"
     },
     {
       "added_at": "2022-03-11 00:00:00",
@@ -1035,6 +1019,22 @@
       "duration_ms": 222666,
       "name": "Drive",
       "url": "https://open.spotify.com/track/1D27ysHw4QbNyGfEe4yljT"
+    },
+    {
+      "added_at": "2022-03-11 00:00:00",
+      "album": {
+        "name": "Last One Standing",
+        "url": "https://open.spotify.com/album/09BxkLEcznMDHJ9MWH4FtE"
+      },
+      "artists": [
+        {
+          "name": "Icon For Hire",
+          "url": "https://open.spotify.com/artist/1Jy0lTKAQDnTklKzF0g2o7"
+        }
+      ],
+      "duration_ms": 204003,
+      "name": "Last One Standing",
+      "url": "https://open.spotify.com/track/0l9zlXpT3inDwP7pRvnIS7"
     },
     {
       "added_at": "2022-03-11 00:00:00",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2022-03-11 00:00:00",
       "album": {
-        "name": "Serves You Right",
-        "url": "https://open.spotify.com/album/1peMzsH0CEKYGcj4t2wdrg"
-      },
-      "artists": [
-        {
-          "name": "DIAMANTE",
-          "url": "https://open.spotify.com/artist/6jMXENspOIBHOTQNQDTxsW"
-        }
-      ],
-      "duration_ms": 214320,
-      "name": "Serves You Right",
-      "url": "https://open.spotify.com/track/1xPlB6cboQgE0C9yVlVc0v"
-    },
-    {
-      "added_at": "2022-03-11 00:00:00",
-      "album": {
         "name": "Flashback",
         "url": "https://open.spotify.com/album/6lw1mTt5OLU02aOwTp7NSk"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 95693,
       "name": "Real Wild Child",
       "url": "https://open.spotify.com/track/0aJkQe2ux7kl3XKpbYVibb"
+    },
+    {
+      "added_at": "2022-03-11 00:00:00",
+      "album": {
+        "name": "Serves You Right",
+        "url": "https://open.spotify.com/album/1peMzsH0CEKYGcj4t2wdrg"
+      },
+      "artists": [
+        {
+          "name": "DIAMANTE",
+          "url": "https://open.spotify.com/artist/6jMXENspOIBHOTQNQDTxsW"
+        }
+      ],
+      "duration_ms": 214320,
+      "name": "Serves You Right",
+      "url": "https://open.spotify.com/track/1xPlB6cboQgE0C9yVlVc0v"
     },
     {
       "added_at": "2022-03-11 00:00:00",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2022-03-11 00:00:00",
       "album": {
-        "name": "Deadly Diminuendo",
-        "url": "https://open.spotify.com/album/18IqZIXN29LgCfyOW1eSFl"
-      },
-      "artists": [
-        {
-          "name": "Blackbriar",
-          "url": "https://open.spotify.com/artist/6PXQUX3BYTSVj7LcvviOmI"
-        }
-      ],
-      "duration_ms": 300579,
-      "name": "Deadly Diminuendo",
-      "url": "https://open.spotify.com/track/2pegQHGPUESaQVskx8abmD"
-    },
-    {
-      "added_at": "2022-03-11 00:00:00",
-      "album": {
         "name": "Initiation",
         "url": "https://open.spotify.com/album/4DpjAnYMDaMOwryJVZlX1M"
       },
@@ -1351,6 +1335,26 @@
       "duration_ms": 456466,
       "name": "You Belong to Me",
       "url": "https://open.spotify.com/track/55CskTAlGmdKUZb7FHwKpb"
+    },
+    {
+      "added_at": "2022-03-11 00:00:00",
+      "album": {
+        "name": "Moot",
+        "url": "https://open.spotify.com/album/0mla1tVzfxr60Nl3JKqnaQ"
+      },
+      "artists": [
+        {
+          "name": "We Are PIGS",
+          "url": "https://open.spotify.com/artist/0QRmv4wNihLdpSIjRxFFrz"
+        },
+        {
+          "name": "Morgan Lander",
+          "url": "https://open.spotify.com/artist/6UmXnQCZQvayT1eZxAIvz5"
+        }
+      ],
+      "duration_ms": 245664,
+      "name": "Moot",
+      "url": "https://open.spotify.com/track/4uyZcMuMZ53OPEqH41AsUe"
     }
   ],
   "unique_name": "Heavy Queens",

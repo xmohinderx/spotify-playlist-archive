@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR5DqccfWxWe.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6VuCylDMS94uSYiUpyDzLV">Julio Reyes</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 168 likes - 151 songs - 8 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 169 likes - 151 songs - 8 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR5DqccfWxWe.md) - [plain]
 | 33 | [Lo Que No Di](https://open.spotify.com/track/2uIuSumfgTKeRXiGw30LRT) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Sigo Siendo Yo](https://open.spotify.com/album/70XO7jxoVIV9p9IFyjXGvJ) | 5:32 |
 | 34 | [It's OK](https://open.spotify.com/track/1mOiejXxgYA9ep3z61SN7Z) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [\#ELDISCO](https://open.spotify.com/album/3RSownGSkhJPRmzLddzsUd) | 3:32 |
 | 35 | [Dime Que Me Esperas](https://open.spotify.com/track/3fwT5kqPyhpQQwNfb6hVzd) | [Antonio José](https://open.spotify.com/artist/1dbp04JzZ81JXlMGupCnJ8) | [Senti2](https://open.spotify.com/album/6aO5DFSqg8QuY2oVsoOsmG) | 3:49 |
-| 36 | [Toma De Mí](https://open.spotify.com/track/6eoJG3PqstEA7nj1bYncBd) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Marc Anthony "El Cantante" OST](https://open.spotify.com/album/7vAvh5KAMBz324wybwqxYG) | 4:29 |
-| 37 | [Te Soñé](https://open.spotify.com/track/65ppBwrWamnB3tSmDZUYPz) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Te Soñé](https://open.spotify.com/album/4KqGXxT87BWM8NSBmWsqYs) | 3:35 |
+| 36 | [Te Soñé](https://open.spotify.com/track/65ppBwrWamnB3tSmDZUYPz) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Te Soñé](https://open.spotify.com/album/4KqGXxT87BWM8NSBmWsqYs) | 3:35 |
+| 37 | [Toma De Mí](https://open.spotify.com/track/6eoJG3PqstEA7nj1bYncBd) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Marc Anthony "El Cantante" OST](https://open.spotify.com/album/7vAvh5KAMBz324wybwqxYG) | 4:29 |
 | 38 | [Hoy](https://open.spotify.com/track/7Lr4gFCiSMCyESWoGxjW6W) | [Paula Arenas](https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2) | [Visceral](https://open.spotify.com/album/1PjeKcjUrPAK38U1aGtPep) | 4:17 |
 | 39 | [Nada](https://open.spotify.com/track/7Fy5UlgEhR95yqeY1lEzFI) | [Paula Arenas](https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2) | [Visceral](https://open.spotify.com/album/1PjeKcjUrPAK38U1aGtPep) | 3:49 |
 | 40 | [Adiós](https://open.spotify.com/track/14yDEDFChnnZlxTqNumQim) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV) | [Kany García](https://open.spotify.com/album/0xMspEBjMb20urG4Rx73vO) | 3:29 |
@@ -122,8 +122,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR5DqccfWxWe.md) - [plain]
 | 112 | [Stay Down](https://open.spotify.com/track/5UgJuYz8s1LcZDNmKWMCuj) | [seglartone](https://open.spotify.com/artist/3msHBLh5Ywqug7WNIZdVdI), [Brika](https://open.spotify.com/artist/3FMbhaYng6VoeCltbwqmtG), [Locals Only Sound](https://open.spotify.com/artist/0FiWU7d449v3BcyuBhIOEh) | [Stay Down](https://open.spotify.com/album/5HKceUlfPrLY4si2DtdijC) | 3:21 |
 | 113 | [La Misma Voz](https://open.spotify.com/track/1Pnu14ES6CbPKWngtVxVoM) | [Art House](https://open.spotify.com/artist/65SyY0PScxCW4QwaFjcz47), [Joy](https://open.spotify.com/artist/0BmVwpA9NNMJs1M6joiKm9), [BOGART](https://open.spotify.com/artist/0Z98bFGEurTNFvYDfawx8c) | [El General Naranjo \(Temas Originales de la Serie de FOX Premium\)](https://open.spotify.com/album/4lTOrerOwh3VaxQrEdj08q) | 3:11 |
 | 114 | [Hermanita](https://open.spotify.com/track/5ucBog38SckwcP50HuB9o6) | [Lucas Bun](https://open.spotify.com/artist/7oXdAnN1t1cLruHJWuR7Cx) | [Hermanita](https://open.spotify.com/album/53iAsM8Emp4V0KnOGgXqCo) | 3:28 |
-| 115 | [Elise Was Here](https://open.spotify.com/track/1BiFGKc3j3cJpD0GyUgxmp) | [Lola Astanova](https://open.spotify.com/artist/1EFAnAhlnnmhx1ZzqMdJjf) | [Elise Was Here](https://open.spotify.com/album/3CWoJapAdbrcu8jb3PTscK) | 3:23 |
-| 116 | [¿Dónde Está el Amor?](https://open.spotify.com/track/3Y6z65EYazmo2OoCSogrrX) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [¿Dónde Está el Amor?](https://open.spotify.com/album/70jklr6nVL3beQKyrB4AUE) | 2:59 |
+| 115 | [¿Dónde Está el Amor?](https://open.spotify.com/track/3Y6z65EYazmo2OoCSogrrX) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [¿Dónde Está el Amor?](https://open.spotify.com/album/70jklr6nVL3beQKyrB4AUE) | 2:59 |
+| 116 | [Elise Was Here](https://open.spotify.com/track/1BiFGKc3j3cJpD0GyUgxmp) | [Lola Astanova](https://open.spotify.com/artist/1EFAnAhlnnmhx1ZzqMdJjf) | [Elise Was Here](https://open.spotify.com/album/3CWoJapAdbrcu8jb3PTscK) | 3:23 |
 | 117 | [Fantasize \(feat\. Cecile\) \- Vocal Club Mix](https://open.spotify.com/track/1b7mHh72iJHnRtKuth5anA) | [Rob Mello](https://open.spotify.com/artist/2Cf5htut80RUyUxD6QXtFX), [Cecile](https://open.spotify.com/artist/66RCMcPCPiqbG1N3UfokUQ) | [Fantasize \(feat\. Cecile\)](https://open.spotify.com/album/14fkh0mWVPaPCsvL61EuXu) | 7:45 |
 | 118 | [Salto de Fe](https://open.spotify.com/track/7p90mo9rrIM7mlZldk13ul) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [Salto de Fe](https://open.spotify.com/album/6kC8pHk3AKljg4QWc05oNQ) | 3:43 |
 | 119 | [A Plena Luz](https://open.spotify.com/track/0H065bXKlwjfxR3YMnqsl2) | [Mariana Vega](https://open.spotify.com/artist/1RKHdhpHFttjX7CS5Eud4f) | [A Plena Luz](https://open.spotify.com/album/7dBgL2M2CgZaNoAkc4ecPD) | 4:03 |
@@ -160,4 +160,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR5DqccfWxWe.md) - [plain]
 | 150 | [Remembering](https://open.spotify.com/track/2rMyOaFPZVqdHEsyUc8kB0) | [Claudia Albuquerque](https://open.spotify.com/artist/1hqcycgAMdUaZtAVpHwGVT) | [Music Freedom](https://open.spotify.com/album/6LZG3zFRBnR3tLom1WdMsU) | 3:37 |
 | 151 | [Talk](https://open.spotify.com/track/4wYJf3FB9m6XS2DjSZRbfk) | [Kreesha Turner](https://open.spotify.com/artist/5jrXeH1yhdshRakLMBtkdO) | [Talk](https://open.spotify.com/album/1ejesDMKJZle7bQDkScpeP) | 3:51 |
 
-Snapshot ID: `Mjc3MDU2NjQsMDAwMDAwMDA3YTNjMGQ0ZTVmZDg5ZDQxNmYxOGQzZGM5NjczZjE5MQ==`
+Snapshot ID: `Mjc3MDcxMDQsMDAwMDAwMDA5Nzc5MzAxMmFiYjhlNTlmYjM3MDUxZGQzNjMzNGQ4ZA==`

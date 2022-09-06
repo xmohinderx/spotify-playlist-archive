@@ -1,12 +1,12 @@
 {
   "description": "Traditional West African blues and North African desert blues. Cover: Songhoy Blues",
-  "num_followers": 4162,
+  "num_followers": 4176,
   "original_name": "African Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwNjc5ODg2MCwwMDAwMDAwMGJhNWQzNTQ4MmFlNjE4NTU0MWM1ZjI1YWNkMTA5ZWZm",
+  "snapshot_id": "MTYwNjc5ODg2MCwwMDAwMDAwMDBmYzE3OWIzNWU5Y2EyMGFiOGI0OGJmMjEwYjI3YzMy",
   "tracks": [
     {
       "added_at": "2020-12-01 05:01:00",
@@ -223,22 +223,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Kidal",
-        "url": "https://open.spotify.com/album/5OomumBipFPjdcXld2zJQc"
-      },
-      "artists": [
-        {
-          "name": "Tamikrest",
-          "url": "https://open.spotify.com/artist/6nZ1wn9URV4oWk4UKuG872"
-        }
-      ],
-      "duration_ms": 218076,
-      "name": "Mawarniha Tartit",
-      "url": "https://open.spotify.com/track/6KnZ9iov6qX5ZZBLS0pUPF"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "African Gnaoua Blues",
         "url": "https://open.spotify.com/album/1re8yFWm97F3S2uD1ztase"
       },
@@ -287,22 +271,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "The River",
-        "url": "https://open.spotify.com/album/78Pv299m6S629pS6hPFOix"
-      },
-      "artists": [
-        {
-          "name": "Ali Farka Tour\u00e9",
-          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
-        }
-      ],
-      "duration_ms": 358626,
-      "name": "Heygana",
-      "url": "https://open.spotify.com/track/3DtHJ8fImqihyFylpeqdqA"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Seya",
         "url": "https://open.spotify.com/album/1nEaABF2RBrAzbX0akAyk6"
       },
@@ -319,18 +287,34 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Music In Exile",
-        "url": "https://open.spotify.com/album/5zpmNObCgAASco8nNJXIkb"
+        "name": "Kidal",
+        "url": "https://open.spotify.com/album/5OomumBipFPjdcXld2zJQc"
       },
       "artists": [
         {
-          "name": "Songhoy Blues",
-          "url": "https://open.spotify.com/artist/5fpQ5Qt2BKgoVBSMw4Z17Z"
+          "name": "Tamikrest",
+          "url": "https://open.spotify.com/artist/6nZ1wn9URV4oWk4UKuG872"
         }
       ],
-      "duration_ms": 212306,
-      "name": "Soubour",
-      "url": "https://open.spotify.com/track/6myCSm2QEXMrgtUxVN313f"
+      "duration_ms": 218076,
+      "name": "Mawarniha Tartit",
+      "url": "https://open.spotify.com/track/6KnZ9iov6qX5ZZBLS0pUPF"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "The River",
+        "url": "https://open.spotify.com/album/78Pv299m6S629pS6hPFOix"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        }
+      ],
+      "duration_ms": 358626,
+      "name": "Heygana",
+      "url": "https://open.spotify.com/track/3DtHJ8fImqihyFylpeqdqA"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -351,6 +335,22 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
+        "name": "Music In Exile",
+        "url": "https://open.spotify.com/album/5zpmNObCgAASco8nNJXIkb"
+      },
+      "artists": [
+        {
+          "name": "Songhoy Blues",
+          "url": "https://open.spotify.com/artist/5fpQ5Qt2BKgoVBSMw4Z17Z"
+        }
+      ],
+      "duration_ms": 212306,
+      "name": "Soubour",
+      "url": "https://open.spotify.com/track/6myCSm2QEXMrgtUxVN313f"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
         "name": "K\u00f6te",
         "url": "https://open.spotify.com/album/1QM5QwSdkAWbvZJsdsgn6O"
       },
@@ -363,22 +363,6 @@
       "duration_ms": 263466,
       "name": "N'taki",
       "url": "https://open.spotify.com/track/7ieuNryZeYZ4ABp66OjsiP"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "The River",
-        "url": "https://open.spotify.com/album/78Pv299m6S629pS6hPFOix"
-      },
-      "artists": [
-        {
-          "name": "Ali Farka Tour\u00e9",
-          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
-        }
-      ],
-      "duration_ms": 380973,
-      "name": "Ai Bine",
-      "url": "https://open.spotify.com/track/4xkNHzlCNBkJrL0PlOLDRP"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -455,18 +439,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Mariama",
-        "url": "https://open.spotify.com/album/2k0il4VCyt5vL0vbSp1XMb"
+        "name": "The River",
+        "url": "https://open.spotify.com/album/78Pv299m6S629pS6hPFOix"
       },
       "artists": [
         {
-          "name": "Boubacar Traor\u00e9",
-          "url": "https://open.spotify.com/artist/63Bilw49Uv4s2wnovytDVU"
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
         }
       ],
-      "duration_ms": 338933,
-      "name": "Mariama Kaba",
-      "url": "https://open.spotify.com/track/3c98vJqVg7Epkq8aBNTsNM"
+      "duration_ms": 380973,
+      "name": "Ai Bine",
+      "url": "https://open.spotify.com/track/4xkNHzlCNBkJrL0PlOLDRP"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -487,22 +471,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Azel",
-        "url": "https://open.spotify.com/album/4NgcUISFZhkOYxh0WshCib"
-      },
-      "artists": [
-        {
-          "name": "Bombino",
-          "url": "https://open.spotify.com/artist/7s4I6rDvTcdBDKElVbtsAN"
-        }
-      ],
-      "duration_ms": 367185,
-      "name": "Iyat Ninhay / Jaguar (A Great Desert I Saw)",
-      "url": "https://open.spotify.com/track/6nwusKP4pSgbjjyitIcJMm"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "The Secret",
         "url": "https://open.spotify.com/album/0gGinv1UJ9R4wAPhimSjWc"
       },
@@ -519,6 +487,38 @@
       "duration_ms": 411013,
       "name": "The Secret",
       "url": "https://open.spotify.com/track/362JdradEO0cX5N7qYhkRE"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Mariama",
+        "url": "https://open.spotify.com/album/2k0il4VCyt5vL0vbSp1XMb"
+      },
+      "artists": [
+        {
+          "name": "Boubacar Traor\u00e9",
+          "url": "https://open.spotify.com/artist/63Bilw49Uv4s2wnovytDVU"
+        }
+      ],
+      "duration_ms": 338933,
+      "name": "Mariama Kaba",
+      "url": "https://open.spotify.com/track/3c98vJqVg7Epkq8aBNTsNM"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Azel",
+        "url": "https://open.spotify.com/album/4NgcUISFZhkOYxh0WshCib"
+      },
+      "artists": [
+        {
+          "name": "Bombino",
+          "url": "https://open.spotify.com/artist/7s4I6rDvTcdBDKElVbtsAN"
+        }
+      ],
+      "duration_ms": 367185,
+      "name": "Iyat Ninhay / Jaguar (A Great Desert I Saw)",
+      "url": "https://open.spotify.com/track/6nwusKP4pSgbjjyitIcJMm"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -747,22 +747,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Fenfo (Something To Say)",
-        "url": "https://open.spotify.com/album/6u7suNUEjTMywnCbZo3ntn"
-      },
-      "artists": [
-        {
-          "name": "Fatoumata Diawara",
-          "url": "https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC"
-        }
-      ],
-      "duration_ms": 268466,
-      "name": "Fenfo",
-      "url": "https://open.spotify.com/track/3OpagvD17dZQLN53GIj2D3"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Wanita",
         "url": "https://open.spotify.com/album/5NAd6WgCPfR8BxEYWaZcEg"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 351533,
       "name": "Tchwa",
       "url": "https://open.spotify.com/track/3AF8QpzspG8btjyd4s3bjM"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Fenfo (Something To Say)",
+        "url": "https://open.spotify.com/album/6u7suNUEjTMywnCbZo3ntn"
+      },
+      "artists": [
+        {
+          "name": "Fatoumata Diawara",
+          "url": "https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC"
+        }
+      ],
+      "duration_ms": 268466,
+      "name": "Fenfo",
+      "url": "https://open.spotify.com/track/3OpagvD17dZQLN53GIj2D3"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -795,6 +795,22 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
+        "name": "Tje Ni Mousso",
+        "url": "https://open.spotify.com/album/2gyQndyOXeISkSfhyb1FSG"
+      },
+      "artists": [
+        {
+          "name": "Amadou & Mariam",
+          "url": "https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6"
+        }
+      ],
+      "duration_ms": 280320,
+      "name": "C'Est Comme Ca",
+      "url": "https://open.spotify.com/track/4JrnK6UWX8o6Gu390ezCOX"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
         "name": "Mississippi To Mali",
         "url": "https://open.spotify.com/album/6IzcR4AS2tHjyFq0gBcU6T"
       },
@@ -811,18 +827,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Tje Ni Mousso",
-        "url": "https://open.spotify.com/album/2gyQndyOXeISkSfhyb1FSG"
+        "name": "Imidiwan: Companions",
+        "url": "https://open.spotify.com/album/1T0sA1dBhet0q3KQlklEhL"
       },
       "artists": [
         {
-          "name": "Amadou & Mariam",
-          "url": "https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6"
+          "name": "Tinariwen",
+          "url": "https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb"
         }
       ],
-      "duration_ms": 280320,
-      "name": "C'Est Comme Ca",
-      "url": "https://open.spotify.com/track/4JrnK6UWX8o6Gu390ezCOX"
+      "duration_ms": 328853,
+      "name": "Tenhert",
+      "url": "https://open.spotify.com/track/3eWaUgRTojLlBHfVrETuXD"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -847,22 +863,6 @@
       "duration_ms": 251500,
       "name": "The Lighthouse Keeper",
       "url": "https://open.spotify.com/track/56pRhM8fsMvWGL0dAnzj9W"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Imidiwan: Companions",
-        "url": "https://open.spotify.com/album/1T0sA1dBhet0q3KQlklEhL"
-      },
-      "artists": [
-        {
-          "name": "Tinariwen",
-          "url": "https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb"
-        }
-      ],
-      "duration_ms": 328853,
-      "name": "Tenhert",
-      "url": "https://open.spotify.com/track/3eWaUgRTojLlBHfVrETuXD"
     },
     {
       "added_at": "2020-12-01 05:01:00",

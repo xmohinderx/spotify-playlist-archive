@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Germany.
 
-1,229 songs - 2 day 13 hr 10 min - [published](https://open.spotify.com/playlist/6ac8Kxyke6Hyo0AQCo7I3J)
+1,230 songs - 2 day 13 hr 13 min - [published](https://open.spotify.com/playlist/6ac8Kxyke6Hyo0AQCo7I3J)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,6 +183,7 @@
 | [BREAK MY SOUL](https://open.spotify.com/track/5pyoxDZ1PX0KxBxiRVxA4U) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 4:38 | 2022-08-04 | 2022-08-07 |
 | [Brooklyn](https://open.spotify.com/track/6VcBDMF2ykm5HDcJMVLRZW) | [Glockenbach](https://open.spotify.com/artist/7GZJ2POiwPZoW7UVYjNj8i), [ClockClock](https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk) | [Brooklyn](https://open.spotify.com/album/5wZuxZwyDfLnpIFvX4g90B) | 3:02 | 2021-12-30 | 2022-04-12 |
 | [Bubblegum](https://open.spotify.com/track/7nyIhPrP5qinbs4YXyviiI) | [ART](https://open.spotify.com/artist/4P3RXClUWZnQAO6BfrEQXb) | [Spirit of Ecstasy](https://open.spotify.com/album/76gWqnRVyizDFTvuxBqIzq) | 2:22 | 2022-05-07 | 2022-05-08 |
+| [Bunny Bars \(Osterhase\)](https://open.spotify.com/track/6WebNoyy2Z4EvmCCPr7vPM) | [Julien Bam](https://open.spotify.com/artist/5Jm4syNxe3BMFMlgPajszM), [ELIF](https://open.spotify.com/artist/65AzRSW0jKSs0WtttEXrOw), [Jay\-C](https://open.spotify.com/artist/1vMtc8iArxDddkVvrfEYZg) | [Bunny Bars \(Osterhase\)](https://open.spotify.com/album/6STSuQBHx97jufQT2cB2qK) | 2:51 | 2022-09-05 |  |
 | [Burn](https://open.spotify.com/track/0QwKxajohg1rAMMmv1AWe1) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Fighting Demons](https://open.spotify.com/album/07tZDCAqxSIVEZywk0KDfT) | 3:37 | 2021-12-12 | 2021-12-13 |
 | [Butter](https://open.spotify.com/track/2bgTY4UwhfBYhGT4HUYStN) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Butter \(Hotter, Sweeter, Cooler\)](https://open.spotify.com/album/1HnJKmB4P6Z8RBdLMWx18w) | 2:44 | 2021-06-10 | 2021-06-11 |
 | [Butter](https://open.spotify.com/track/3VqeTFIvhxu3DIe4eZVzGq) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Butter](https://open.spotify.com/album/2BDhPi2XCYujYxU6VM0QaD) | 2:44 | 2021-05-23 | 2021-06-10 |
@@ -248,7 +249,7 @@
 | [Depressionen im Paradies](https://open.spotify.com/track/6QsKfqbZoy4dtW5aD0A2qd) | [Shirin David](https://open.spotify.com/artist/0JBdTCGs111JKKYfLqOEBa) | [Bitches brauchen Rap](https://open.spotify.com/album/1ip2dYNZGfpdV5wass2xQp) | 3:10 | 2021-11-21 | 2021-11-23 |
 | [DER LETZTE SONG \(ALLES WIRD GUT\) \(feat\. Fred Rabe\)](https://open.spotify.com/track/2FQRZLR31e3423Nmrgv0Pv) | [KUMMER](https://open.spotify.com/artist/2TiXt00aPsggbxZxL1RaG7), [Fred Rabe](https://open.spotify.com/artist/4MYiI4xv9otdG9iB3d4Q25) | [DER LETZTE SONG \(ALLES WIRD GUT\) \(feat\. Fred Rabe\)](https://open.spotify.com/album/2uZ1heDjBsSvxnANhH8EmD) | 2:51 | 2021-11-14 | 2022-03-21 |
 | [Der Teufel weint](https://open.spotify.com/track/0JCeGEQKvtOiXYvIol2e0N) | [Apache 207](https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6) | [Kapitel IV Sport \(2sad2disco\)](https://open.spotify.com/album/5SNV6zpDym99f8o76qbl20) | 3:10 | 2021-12-05 | 2021-12-12 |
-| [Der Zug hat keine Bremse \- Mallorcastyle Edition](https://open.spotify.com/track/3T4DdPVqWeaC4U7vrIxlKz) | [Mia Julia](https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4), [Lorenz Büffel](https://open.spotify.com/artist/6dKYo2aegt1Cpez6tyd2ai), [Malle Anja](https://open.spotify.com/artist/7GgR71h3yQSxU4bwfX9gRd) | [Der Zug hat keine Bremse \(Mallorcastyle Edition\)](https://open.spotify.com/album/1EqQTMuCCCO7wXH8S9pZyZ) | 3:27 | 2022-07-09 |  |
+| [Der Zug hat keine Bremse \- Mallorcastyle Edition](https://open.spotify.com/track/3T4DdPVqWeaC4U7vrIxlKz) | [Mia Julia](https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4), [Lorenz Büffel](https://open.spotify.com/artist/6dKYo2aegt1Cpez6tyd2ai), [Malle Anja](https://open.spotify.com/artist/7GgR71h3yQSxU4bwfX9gRd) | [Der Zug hat keine Bremse \(Mallorcastyle Edition\)](https://open.spotify.com/album/1EqQTMuCCCO7wXH8S9pZyZ) | 3:27 | 2022-07-09 | 2022-09-06 |
 | [Dicht im Flieger](https://open.spotify.com/track/6sS77FZh2eJfYBsFUW6hjI) | [Julian Sommer](https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ) | [Dicht im Flieger](https://open.spotify.com/album/1bfKjFlmLw8jFBpJMsvU32) | 3:45 | 2022-04-03 |  |
 | [Dicke Titten](https://open.spotify.com/track/5KTBaWu8IOczQ0sPWzZ7MY) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Zeit](https://open.spotify.com/album/75OE7M0wduJyffbffehHuR) | 3:38 | 2022-04-30 | 2022-06-14 |
 | [die first](https://open.spotify.com/track/21szgNA72iLwvBxHQLgwBh) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [die first](https://open.spotify.com/album/56raLTkxER12w8xejGTpSG) | 2:57 | 2022-07-14 | 2022-07-21 |

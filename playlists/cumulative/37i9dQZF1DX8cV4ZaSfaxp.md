@@ -2,9 +2,9 @@
 
 ### [City Pop Korea \(한국 씨티팝\)](https://open.spotify.com/playlist/37i9dQZF1DX8cV4ZaSfaxp)
 
-> A dazzling but very sad feeling\. Enjoy the city pop music of Korean singers\. \(Cover: Nahee\(나히\)\) \(찬란하고도 아련한 느낌을 간직한 한국 시티팝을 즐겨보세요.\)
+> A dazzling but very sad feeling\. Enjoy the city pop music of Korean singers\. \(Cover: SURAN\(수란\)\) \(찬란하고도 아련한 느낌을 간직한 한국 시티팝을 즐겨보세요.\)
 
-268 songs - 16 hr 43 min - [published](https://open.spotify.com/playlist/60gChNBvUMmws1lEdYPtTq)
+269 songs - 16 hr 46 min - [published](https://open.spotify.com/playlist/60gChNBvUMmws1lEdYPtTq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,7 @@
 | [Full Moon](https://open.spotify.com/track/1omaEeFsC0a5rCvEp6QTDC) | [KIMSAN 김산](https://open.spotify.com/artist/4PiqWnfbWGcCFT2UDxKCf1) | [Headlights](https://open.spotify.com/album/1AwebtVTQvVFyp8goceZOS) | 4:17 | 2022-05-11 | 2022-07-13 |
 | [Funny \(feat\. Grizzly\)](https://open.spotify.com/track/7guQtXNYn2E9LMyjUyiywZ) | [Limit](https://open.spotify.com/artist/6wpqEEzNtOeTiOiOspkgy1), [Grizzly](https://open.spotify.com/artist/5Egus6b1x9pYOnqsG7y1f4) | [Funny](https://open.spotify.com/album/5K09zjcvZTSsZU3UnBILvf) | 3:37 | 2022-06-09 | 2022-06-29 |
 | [Future](https://open.spotify.com/track/2gvlPqqngL3BppFCwLXnVc) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [START\-UP \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/06h9n6zGd1T17s1RkdXIc4) | 3:35 | 2022-05-11 |  |
-| [Game Over](https://open.spotify.com/track/7hvYi0RTv6dNyVSto45C71) | [Yubin](https://open.spotify.com/artist/3JUj7c2h5xkdOf0GJ07VWE) | [\#TUSM](https://open.spotify.com/album/60CuCZCEUJ8wQQCpAR9lf3) | 3:38 | 2022-05-11 |  |
+| [Game Over](https://open.spotify.com/track/7hvYi0RTv6dNyVSto45C71) | [Yubin](https://open.spotify.com/artist/3JUj7c2h5xkdOf0GJ07VWE) | [\#TUSM](https://open.spotify.com/album/60CuCZCEUJ8wQQCpAR9lf3) | 3:38 | 2022-05-11 | 2022-09-06 |
 | [Give Me The Light](https://open.spotify.com/track/63K56gwJ3ALMJsIwiOq4CF) | [uju](https://open.spotify.com/artist/6g2HsIivvQ7UGirVhksd92) | [Sunday Seoul Ep.1](https://open.spotify.com/album/6ZW5WYi1P6odIEMJDH4xBC) | 3:10 | 2022-07-22 |  |
 | [Give Me The Light 불을 밝혀줘](https://open.spotify.com/track/0uJYbZ0tNOLrxncyLTOObR) | [uju](https://open.spotify.com/artist/6g2HsIivvQ7UGirVhksd92) | [Sunday Seoul Ep.1](https://open.spotify.com/album/3pyxq9x3nrxr2EdHwu6Lof) | 3:10 | 2022-05-11 | 2022-07-29 |
 | [Goodbye Boy](https://open.spotify.com/track/1drCzM3kJvHqrCK21QyGse) | [YUNHWAY](https://open.spotify.com/artist/7nq2NwlzVsllu1h5qHPxIy) | [Goodbye Boy](https://open.spotify.com/album/39tr8GJkE0Po4q5nZm2W7W) | 2:57 | 2022-05-11 | 2022-07-24 |
@@ -205,6 +205,7 @@
 | [SEOUL CITY POP](https://open.spotify.com/track/3CtGzaZ6XGzDDRQi3QbaoC) | [IHYA](https://open.spotify.com/artist/2AoCTD2YuVOY1AHKGx3fqh) | [SEOUL CITY POP \[A\-Side\]](https://open.spotify.com/album/1iGX1LXCxtFyhskgXcx1qs) | 3:22 | 2022-05-11 | 2022-07-29 |
 | [Seven Breeze \(Feat\. Ldy\)](https://open.spotify.com/track/6WHEV4TkWE2XlMC0ZoByoi) | [015B](https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7), [Ldy](https://open.spotify.com/artist/2MAu2oPXgklWH93ogCNEiy) | [New Edition 22](https://open.spotify.com/album/0Wi4E0M5Jy5z8BIMayUByQ) | 3:40 | 2022-05-11 | 2022-07-27 |
 | [SHADE](https://open.spotify.com/track/1w4p96v9sOAQAXbsVH98rs) | [YUKIKA](https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO) | [SOUL LADY](https://open.spotify.com/album/16yrp3d9pCJgQK2RMBTtd1) | 4:16 | 2022-05-11 | 2022-07-29 |
+| [Shining Love Song](https://open.spotify.com/track/0DFSFBB4faitgBed2IJ4O5) | [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) | [Shining Love Song](https://open.spotify.com/album/7n2p500IY7UeU9NlgFFeV0) | 3:11 | 2022-09-05 |  |
 | [Sign](https://open.spotify.com/track/0ZHyC8NwIeGWaf73dQuK0y) | [Kim Areum](https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp) | [AQUA CITY](https://open.spotify.com/album/6zwAQwh8Hk0XFWaBfXoux2) | 3:36 | 2022-05-11 | 2022-07-12 |
 | [Slide](https://open.spotify.com/track/09TYWKx7EhaAo4wrpFCpd4) | [Swing](https://open.spotify.com/artist/66bVJmfvszO59SwBAc4z9W), [Nene](https://open.spotify.com/artist/5LQjpbx0z9EONJHkWoDt0K) | [play ground](https://open.spotify.com/album/0cpiWjhRpaenw6hqJBhSle) | 3:26 | 2022-05-11 | 2022-07-28 |
 | [Someone like U](https://open.spotify.com/track/5zbxw72g850H4fNMFEO7PC) | [Dalshabet](https://open.spotify.com/artist/10xsuRNvidaOLxWd3fRIel) | [The 9th Mini Album 'Naturalness'](https://open.spotify.com/album/7ajKOgmGaCCrqSVIgxbnNf) | 3:20 | 2022-07-04 |  |

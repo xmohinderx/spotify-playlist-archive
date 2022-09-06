@@ -1,12 +1,12 @@
 {
   "description": "Deep House in all its shapes and colours.",
-  "num_followers": 520641,
+  "num_followers": 520853,
   "original_name": "Deep House Blend",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjE0MTkxOSwwMDAwMDAwMGZhNGFhZTVjYWE5NDdiOTBiOWEyYTFmNDgxNTU0ZWNi",
+  "snapshot_id": "MTY2MjE0MTkxOSwwMDAwMDAwMDY4Mzk2NzdiNjk5NDliODFhNmQ1NWFmMDQ2NTRkYWZm",
   "tracks": [
     {
       "added_at": "2022-09-02 18:05:19",
@@ -227,22 +227,6 @@
     {
       "added_at": "2022-09-02 18:05:19",
       "album": {
-        "name": "Burnt Orange",
-        "url": "https://open.spotify.com/album/3krmis8XpyRrEGKQ4LXRf4"
-      },
-      "artists": [
-        {
-          "name": "Elkka",
-          "url": "https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS"
-        }
-      ],
-      "duration_ms": 271475,
-      "name": "Burnt Orange - Edit",
-      "url": "https://open.spotify.com/track/1O73n53LZxJNLeGdhwChtt"
-    },
-    {
-      "added_at": "2022-09-02 18:05:19",
-      "album": {
         "name": "Nobody Is Not Loved, Remixes, Pt. 3",
         "url": "https://open.spotify.com/album/5bFS2PZfzq8CGP58M23ktV"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 432360,
       "name": "Never Sleep Again - Keinemusik Remix",
       "url": "https://open.spotify.com/track/3LwZ0ernvIRIkhdHgAYY4q"
+    },
+    {
+      "added_at": "2022-09-02 18:05:19",
+      "album": {
+        "name": "Burnt Orange",
+        "url": "https://open.spotify.com/album/3krmis8XpyRrEGKQ4LXRf4"
+      },
+      "artists": [
+        {
+          "name": "Elkka",
+          "url": "https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS"
+        }
+      ],
+      "duration_ms": 271475,
+      "name": "Burnt Orange - Edit",
+      "url": "https://open.spotify.com/track/1O73n53LZxJNLeGdhwChtt"
     },
     {
       "added_at": "2022-09-02 18:05:19",
@@ -747,6 +747,22 @@
     {
       "added_at": "2022-09-02 18:05:19",
       "album": {
+        "name": "Fact & Fiction / Can't Get Enough",
+        "url": "https://open.spotify.com/album/0nV7hufCHvKb7qEWH5WKOm"
+      },
+      "artists": [
+        {
+          "name": "JOPLYN",
+          "url": "https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih"
+        }
+      ],
+      "duration_ms": 379356,
+      "name": "Can't Get Enough",
+      "url": "https://open.spotify.com/track/3IvodZAm4vD1PM3bIEw9Ik"
+    },
+    {
+      "added_at": "2022-09-02 18:05:19",
+      "album": {
         "name": "Bind (Remixes)",
         "url": "https://open.spotify.com/album/0ajoDZRY4n3a7KIq9F7qC3"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 362928,
       "name": "Love Language - Imad Remix",
       "url": "https://open.spotify.com/track/5iwU7eycAjBcJt1iccuxua"
-    },
-    {
-      "added_at": "2022-09-02 18:05:19",
-      "album": {
-        "name": "Fact & Fiction / Can't Get Enough",
-        "url": "https://open.spotify.com/album/0nV7hufCHvKb7qEWH5WKOm"
-      },
-      "artists": [
-        {
-          "name": "JOPLYN",
-          "url": "https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih"
-        }
-      ],
-      "duration_ms": 379356,
-      "name": "Can't Get Enough",
-      "url": "https://open.spotify.com/track/3IvodZAm4vD1PM3bIEw9Ik"
     },
     {
       "added_at": "2022-09-02 18:05:19",
@@ -1035,6 +1035,30 @@
     {
       "added_at": "2022-09-02 18:05:19",
       "album": {
+        "name": "Voices Above",
+        "url": "https://open.spotify.com/album/2CPFql01jhAi4w9AvGLGTW"
+      },
+      "artists": [
+        {
+          "name": "BLOND:ISH",
+          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
+        },
+        {
+          "name": "Malone",
+          "url": "https://open.spotify.com/artist/7fQMET8UaHL3gpH9LhqINM"
+        },
+        {
+          "name": "Archila",
+          "url": "https://open.spotify.com/artist/3XAGebwIZIMFUt0ZgnXOwh"
+        }
+      ],
+      "duration_ms": 190942,
+      "name": "Voices Above",
+      "url": "https://open.spotify.com/track/62fX7oJFfJp4g1b3LShSqf"
+    },
+    {
+      "added_at": "2022-09-02 18:05:19",
+      "album": {
         "name": "Stars Wrapped In Skin EP",
         "url": "https://open.spotify.com/album/493mL9Bv6rYSOjTj8CLFJr"
       },
@@ -1091,26 +1115,18 @@
     {
       "added_at": "2022-09-02 18:05:19",
       "album": {
-        "name": "Voices Above",
-        "url": "https://open.spotify.com/album/2CPFql01jhAi4w9AvGLGTW"
+        "name": "Monsoon EP",
+        "url": "https://open.spotify.com/album/6AyysfbORoo6avgs9tfTvg"
       },
       "artists": [
         {
-          "name": "BLOND:ISH",
-          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
-        },
-        {
-          "name": "Malone",
-          "url": "https://open.spotify.com/artist/7fQMET8UaHL3gpH9LhqINM"
-        },
-        {
-          "name": "Archila",
-          "url": "https://open.spotify.com/artist/3XAGebwIZIMFUt0ZgnXOwh"
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
         }
       ],
-      "duration_ms": 190942,
-      "name": "Voices Above",
-      "url": "https://open.spotify.com/track/62fX7oJFfJp4g1b3LShSqf"
+      "duration_ms": 222947,
+      "name": "Monsoon",
+      "url": "https://open.spotify.com/track/1FgxefL0BLVL5nsteC1Qva"
     },
     {
       "added_at": "2022-09-02 18:05:19",
@@ -1131,38 +1147,18 @@
     {
       "added_at": "2022-09-02 18:05:19",
       "album": {
-        "name": "Monsoon EP",
-        "url": "https://open.spotify.com/album/6AyysfbORoo6avgs9tfTvg"
+        "name": "Sun Salutations EP",
+        "url": "https://open.spotify.com/album/5mhCg9ohnm2214WyLoFXss"
       },
       "artists": [
         {
-          "name": "Nora En Pure",
-          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+          "name": "Breach",
+          "url": "https://open.spotify.com/artist/2MMkuQE0f6CDaamJdWXaCC"
         }
       ],
-      "duration_ms": 222947,
-      "name": "Monsoon",
-      "url": "https://open.spotify.com/track/1FgxefL0BLVL5nsteC1Qva"
-    },
-    {
-      "added_at": "2022-09-02 18:05:19",
-      "album": {
-        "name": "Diving Into Minds",
-        "url": "https://open.spotify.com/album/2MvKF44F9EhwL46cMgWE8z"
-      },
-      "artists": [
-        {
-          "name": "Soichi Terada",
-          "url": "https://open.spotify.com/artist/7nBJ5F2V7hDZE1hhKgqXM9"
-        },
-        {
-          "name": "Masalo",
-          "url": "https://open.spotify.com/artist/6kFJNl3ISQSkOq2iS0Lk53"
-        }
-      ],
-      "duration_ms": 387302,
-      "name": "Diving Into Minds - Club Mix",
-      "url": "https://open.spotify.com/track/2DRUTKWuuWebFUXu6p1krH"
+      "duration_ms": 484645,
+      "name": "Sun Salutations",
+      "url": "https://open.spotify.com/track/75ZMW4hqyXQ2TgF6pL1Giz"
     },
     {
       "added_at": "2022-09-02 18:05:19",
@@ -1187,18 +1183,22 @@
     {
       "added_at": "2022-09-02 18:05:19",
       "album": {
-        "name": "Sun Salutations EP",
-        "url": "https://open.spotify.com/album/5mhCg9ohnm2214WyLoFXss"
+        "name": "Diving Into Minds",
+        "url": "https://open.spotify.com/album/2MvKF44F9EhwL46cMgWE8z"
       },
       "artists": [
         {
-          "name": "Breach",
-          "url": "https://open.spotify.com/artist/2MMkuQE0f6CDaamJdWXaCC"
+          "name": "Soichi Terada",
+          "url": "https://open.spotify.com/artist/7nBJ5F2V7hDZE1hhKgqXM9"
+        },
+        {
+          "name": "Masalo",
+          "url": "https://open.spotify.com/artist/6kFJNl3ISQSkOq2iS0Lk53"
         }
       ],
-      "duration_ms": 484645,
-      "name": "Sun Salutations",
-      "url": "https://open.spotify.com/track/75ZMW4hqyXQ2TgF6pL1Giz"
+      "duration_ms": 387302,
+      "name": "Diving Into Minds - Club Mix",
+      "url": "https://open.spotify.com/track/2DRUTKWuuWebFUXu6p1krH"
     },
     {
       "added_at": "2022-09-02 18:05:19",

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Denmark.
 
-781 songs - 1 day 16 hr 53 min - [published](https://open.spotify.com/playlist/0xZxWo7riSweBRsHAunmHj)
+782 songs - 1 day 16 hr 57 min - [published](https://open.spotify.com/playlist/0xZxWo7riSweBRsHAunmHj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -371,7 +371,7 @@
 | [I Wanna Dance with Somebody \(Who Loves Me\)](https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney](https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t) | 4:51 | 2022-01-01 | 2022-01-03 |
 | [I'm Good \(Blue\)](https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I'm Good \(Blue\)](https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3) | 2:55 | 2022-08-27 |  |
 | [I'm Tired \- From "Euphoria" An HBO Original Series](https://open.spotify.com/track/6LtHYDgYHRCHoKK3snfr2w) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [I'm Tired \(From "Euphoria" An HBO Original Series\)](https://open.spotify.com/album/28phJkFTSPLnwo555dFLKu) | 3:07 | 2022-03-02 | 2022-03-12 |
-| [Ibiza](https://open.spotify.com/track/2GajeoOS17ifAmYX8xxPZw) | [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq), [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE), [B.O.C](https://open.spotify.com/artist/2X22Hm97hQA8mFjSrn2foA) | [Mere End Musik](https://open.spotify.com/album/1nwiXLlvr8dLlh5XVOrwD9) | 3:39 | 2021-06-20 |  |
+| [Ibiza](https://open.spotify.com/track/2GajeoOS17ifAmYX8xxPZw) | [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq), [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE), [B.O.C](https://open.spotify.com/artist/2X22Hm97hQA8mFjSrn2foA) | [Mere End Musik](https://open.spotify.com/album/1nwiXLlvr8dLlh5XVOrwD9) | 3:39 | 2021-06-20 | 2022-09-06 |
 | [ICEKIID x DSB \- Aldrig Glemt](https://open.spotify.com/track/5cHxOKkPyCrpqRG2fP4zBi) | [ICEKIID](https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt) | [ICEKIID x DSB \- Aldrig Glemt](https://open.spotify.com/album/2ZiKQxvo3m3PoZlI1mTaaL) | 2:40 | 2021-08-22 | 2021-08-30 |
 | [If It Weren’t For You](https://open.spotify.com/track/47qeWYZT369E5Aug5D5nm2) | [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC) | [If It Weren’t For You](https://open.spotify.com/album/4d38b53Fwu6t3peOIew2dz) | 2:30 | 2021-09-12 | 2021-10-31 |
 | [IGANG](https://open.spotify.com/track/2zI0pVpdDf4sWrN7nBVGGE) | [RH](https://open.spotify.com/artist/0BecZI4vqLoN178y3f16XJ) | [IGANG](https://open.spotify.com/album/3kpYuYZ8jnwEzAZQ2y5uM2) | 2:20 | 2022-02-12 | 2022-02-20 |
@@ -435,6 +435,7 @@
 | [Kronisk Skeptisk](https://open.spotify.com/track/3ePrkdVdaGpT5EZBnMe2lZ) | [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [Kronisk Skeptisk](https://open.spotify.com/album/16KVHmbWyMK7mkh53btVe2) | 1:45 | 2022-09-03 | 2022-09-05 |
 | [Krop Som En Sten](https://open.spotify.com/track/2yZK8pNpn1mp2942A3bmpB) | [The Minds Of 99](https://open.spotify.com/artist/6GTwMrB4u3hwcUyc9sU1UL) | [Infinity Action](https://open.spotify.com/album/6GLTwo1oKgINl5zKMPuBWM) | 3:08 | 2022-01-08 | 2022-04-15 |
 | [Krystalkuglen](https://open.spotify.com/track/0lVG3xhpjArK0F589JEjHV) | [The Minds Of 99](https://open.spotify.com/artist/6GTwMrB4u3hwcUyc9sU1UL) | [Infinity Action](https://open.spotify.com/album/6GLTwo1oKgINl5zKMPuBWM) | 0:38 | 2022-01-08 | 2022-01-12 |
+| [Kun Med Dig](https://open.spotify.com/track/22ureEREoYmAIwxm8ZBSIK) | [Malte Ebert](https://open.spotify.com/artist/3UaEtP4pJGDhyEzy47AMzl) | [Kun Med Dig](https://open.spotify.com/album/3PhijiZGRTGtAT2HCG8guv) | 3:07 | 2022-09-05 |  |
 | [Kærlighed](https://open.spotify.com/track/1HT4tiNLC1CnHcVTuDwD2P) | [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Kærlighed](https://open.spotify.com/album/0UKQ7Tm0wYJc7laBIzg51b) | 3:11 | 2021-05-09 | 2021-08-22 |
 | [Kærlighed I Luften](https://open.spotify.com/track/2xtNOow6ra2MYH35t3zbJf) | [Jimilian](https://open.spotify.com/artist/7wy9Plp8SD5l3LDuJubTcv) | [Kærlighed I Luften](https://open.spotify.com/album/74O34YsHxesDMmiPUgtYDR) | 3:03 | 2022-04-30 | 2022-06-05 |
 | [Kærlighedssangen](https://open.spotify.com/track/6WELXrF1hsdUZEcasR1DGG) | [Jimilian](https://open.spotify.com/artist/7wy9Plp8SD5l3LDuJubTcv) | [Kærlighedssangen](https://open.spotify.com/album/2zAj1kiG3WgHc4CLPIqv7p) | 2:33 | 2021-03-27\* | 2021-05-15 |

@@ -1,12 +1,12 @@
 {
   "description": "Los hits de ahora en la playlist m\u00e1s grande de M\u00e9xico, con Danna Paola.",
-  "num_followers": 4457144,
+  "num_followers": 4458539,
   "original_name": "\u00c9xitos M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjA1MTYwMCwwMDAwMDAwMGZmMThkMzI4NTQ2MzA2MWVjYWUzNWI0NzMxMjVhNWMz",
+  "snapshot_id": "MTY2MjM4NzY4OSwwMDAwMDAwMDA2MWYzZjQxZTkwNzdiODQ5ZTJkNzA3MzAzZmU3M2Rj",
   "tracks": [
     {
       "added_at": "2022-08-15 14:42:55",
@@ -113,20 +113,24 @@
       "url": "https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u"
     },
     {
-      "added_at": "2022-08-04 17:00:00",
+      "added_at": "2022-09-05 14:21:29",
       "album": {
-        "name": "Ojos Marrones",
-        "url": "https://open.spotify.com/album/5cgqNq1Esd6F0D1vQ9uD63"
+        "name": "Ojos Marrones (Con Sebasti\u00e1n Yatra)",
+        "url": "https://open.spotify.com/album/6KY4FnsrJZWQNjMw0zgDgd"
       },
       "artists": [
         {
           "name": "Lasso",
           "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
+        },
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
         }
       ],
-      "duration_ms": 198520,
-      "name": "Ojos Marrones",
-      "url": "https://open.spotify.com/track/7gwT3HGL84vF7bgtwL1N88"
+      "duration_ms": 198880,
+      "name": "Ojos Marrones - Con Sebasti\u00e1n Yatra",
+      "url": "https://open.spotify.com/track/2GQclWZHwE4fMdqShvOPWU"
     },
     {
       "added_at": "2022-08-04 17:00:00",

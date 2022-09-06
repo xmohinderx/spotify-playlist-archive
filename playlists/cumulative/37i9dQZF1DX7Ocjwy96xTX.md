@@ -4,7 +4,7 @@
 
 > Dark and dreamy while you wait for your wings to grow.
 
-50 songs - 3 hr 14 min - not published yet
+50 songs - 3 hr 14 min - [published](https://open.spotify.com/playlist/59LZVsaOz0Y4d0uLOo25Vb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

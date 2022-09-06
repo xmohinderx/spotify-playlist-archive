@@ -4,7 +4,7 @@
 
 > Una eufórica dosis de urbano romántico en español.
 
-73 songs - 4 hr 21 min - [published](https://open.spotify.com/playlist/4Ype6nCuECr0BMyLCT7KVD)
+76 songs - 4 hr 30 min - [published](https://open.spotify.com/playlist/4Ype6nCuECr0BMyLCT7KVD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Mar y Tierra](https://open.spotify.com/track/3lz3pZ0Jd5XtB4PfgvcHg1) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Mar y Tierra](https://open.spotify.com/album/6pPbNo1A0SUfVSphaUH74w) | 3:05 | 2022-05-25 |  |
 | [Me Arrastro Hacia el Mar](https://open.spotify.com/track/1XxIchMiW7hxWiplGLCA0f) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Me Arrastro Hacia el Mar](https://open.spotify.com/album/4i5bGetA9enYomBnSpAPiG) | 4:11 | 2022-05-25 | 2022-06-17 |
 | [Me Da Lo Mismo](https://open.spotify.com/track/220yXgkadQ5amhAdgRAlnl) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Me Da Lo Mismo](https://open.spotify.com/album/3gyF757c6nzibRCWttR1nS) | 4:06 | 2022-05-25 |  |
+| [Mi Vida Es Mejor](https://open.spotify.com/track/3bnEmZgrF0McEGGCmosnED) | [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy) | [Mi Vida Es Mejor](https://open.spotify.com/album/6O9tWJ5uhg6SHu6AM60IAR) | 2:49 | 2022-09-05 |  |
 | [Mucho para Mí](https://open.spotify.com/track/29FljZjbNMcXlHAf2lKHbR) | [Santa RM](https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc), [Franco Escamilla](https://open.spotify.com/artist/1ZlIROqKXOEvPgEffO8vri) | [Mucho para Mí](https://open.spotify.com/album/57dqYC3Drhz5gxPxcIn4d5) | 5:10 | 2022-05-25 |  |
 | [Mírame Ma](https://open.spotify.com/track/6F4Q1QRbspGB4MrJHT1H1i) | [Aleman](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Huracán](https://open.spotify.com/album/1yM29w2suYVpMursUbXQMi) | 3:01 | 2022-05-25 |  |
 | [No Cambia Nada](https://open.spotify.com/track/6cX8ZEnR2fNMnHPIrzPz6l) | [Skiper Rmz](https://open.spotify.com/artist/6imih1pxfJwOV593lYH68M) | [No Cambia Nada](https://open.spotify.com/album/1vVX4IcLrWY262TBNRUbtz) | 2:44 | 2022-05-25 |  |
@@ -56,6 +57,7 @@
 | [No Soy Tu Love](https://open.spotify.com/track/1eIOa0jhyO3KKF8btMpSdF) | [KID FLEX](https://open.spotify.com/artist/3MG0nEhYET2TCkegY1QBP6) | [No Soy Tu Love](https://open.spotify.com/album/2O2wt8N9LzXfMgeB54oyGg) | 2:02 | 2022-05-25 |  |
 | [Nuestro Silencio](https://open.spotify.com/track/1zraV8Jxi9Srk1VN0rcPTn) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay) | [Nuestro Silencio](https://open.spotify.com/album/7zNgzMXxxXMfhMjBkUUnhq) | 3:20 | 2022-05-25 |  |
 | [Olvídate](https://open.spotify.com/track/6Y4EGEbQvkh5s3hqcCknca) | [Kidd Keo](https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km) | [Olvídate](https://open.spotify.com/album/6ClbshPjH9IBGbTQd0TwlO) | 3:13 | 2022-05-25 |  |
+| [One Love](https://open.spotify.com/track/2SfnV0AOAn3e5id2Yg5qJz) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [Ahora Tengo Todo Menos A Ti](https://open.spotify.com/album/44cLix04JOwkepKq6nIUFL) | 2:50 | 2022-09-05 |  |
 | [Para Toda La Vida](https://open.spotify.com/track/31Rbj4gvq87oBt9EuQFABG) | [Chato 473](https://open.spotify.com/artist/7zvcqoLiInqmSmPzX0gwfp), [Yoky Barrios](https://open.spotify.com/artist/1ltK3b65ZE7WKb7fGtufsj) | [Para Toda La Vida](https://open.spotify.com/album/56nijUIQ3etVw5dJDxz9dS) | 3:48 | 2022-05-25 |  |
 | [Por Ti](https://open.spotify.com/track/7DJnWboNefoXfb7kySFldt) | [Adán Cruz](https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR) | [Necesitaba Estar Hecho](https://open.spotify.com/album/18XHxHDHCSzZm9AneUgONr) | 3:06 | 2022-05-25 |  |
 | [Quédate](https://open.spotify.com/track/5RBSfEU71gXJ7jxfqSbYiR) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Quédate](https://open.spotify.com/album/5PQ6Wuj8cc5FLh9Lk7RZ4o) | 3:20 | 2022-06-16 |  |
@@ -70,6 +72,7 @@
 | [Suerte De Tenerte](https://open.spotify.com/track/65wQipmC5Q19Zr5TPfmqNS) | [Santa Suerte](https://open.spotify.com/artist/1eblaVtbXUDGr90qMXfqAa), [Nfx](https://open.spotify.com/artist/1TBQTmzjUEJL0EzbsTroN5), [Triser](https://open.spotify.com/artist/4QCe0145cBGKFqWhRTIVMK) | [Vivir Sedado](https://open.spotify.com/album/0cTNsrShoaqo42T37tr4T1) | 3:24 | 2022-08-15 |  |
 | [Suerte De Tenerte](https://open.spotify.com/track/6LxJtSZTMKkqNAwbDBcGl1) | [Santa Suerte](https://open.spotify.com/artist/1eblaVtbXUDGr90qMXfqAa), [Nfx](https://open.spotify.com/artist/1TBQTmzjUEJL0EzbsTroN5), [Triser](https://open.spotify.com/artist/4QCe0145cBGKFqWhRTIVMK) | [Vivir Sedado](https://open.spotify.com/album/2TiNW2lvbrSwrSuhBlR2Mo) | 3:24 | 2022-05-25 | 2022-08-30 |
 | [Sólo Si Es Contigo](https://open.spotify.com/track/6GTZrTCYaK60pZYvgaOw5Y) | [Santa RM](https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Sólo Si Es Contigo](https://open.spotify.com/album/0QItw3Hx1o9LhCj8iJdzon) | 3:59 | 2022-05-25 |  |
+| [Te Estaba Pensando](https://open.spotify.com/track/0zDShO01tPtc9UzORBXbiX) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [No Teníamos Nada, Pero Éramos Felices](https://open.spotify.com/album/23c29N9eKBUKm7sljfJMgs) | 3:54 | 2022-09-05 |  |
 | [Te Marqué Pedo](https://open.spotify.com/track/4JfWJOuhXu0QVnev3jgC9S) | [Alex Luna](https://open.spotify.com/artist/0lxgtTr0rNyTf3j6smPBp2), [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C) | [Te Marqué Pedo](https://open.spotify.com/album/5whw8haonqjs15S7DzG4Pv) | 3:36 | 2022-05-25 | 2022-07-29 |
 | [Te Marqué Pedo](https://open.spotify.com/track/4hAYQuavbB0FYhyxBTbVal) | [Alex Luna](https://open.spotify.com/artist/0lxgtTr0rNyTf3j6smPBp2), [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C) | [Te Marqué Pedo](https://open.spotify.com/album/5RY8g4VHQsgPDxewtnPIEX) | 3:36 | 2022-06-27 |  |
 | [Tienes el Don](https://open.spotify.com/track/2Jy1ib8MqDe2BoOoHvFxa6) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Inéditos](https://open.spotify.com/album/3i4B0RDk45Aaul2HKQxUPN) | 4:01 | 2022-05-25 |  |

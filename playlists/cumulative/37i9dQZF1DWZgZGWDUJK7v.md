@@ -4,7 +4,7 @@
 
 > Meet the popular webtoon OSTs now! \(Cover: Good Doctor\(굿닥터\)\) 지금 인기 있는 웹툰 OST들을 만나보세요!
 
-84 songs - 5 hr 11 min - [published](https://open.spotify.com/playlist/377FgqWa97oJx7N6DPIrtB)
+85 songs - 5 hr 14 min - [published](https://open.spotify.com/playlist/377FgqWa97oJx7N6DPIrtB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Echo](https://open.spotify.com/track/2m59DXEDaV4EEJTuxAiDre) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [Echo \[From "Solo Leveling" \(Original Soundtrack\)\]](https://open.spotify.com/album/1XezLjrSytsSPPWwknQy9y) | 3:45 | 2022-05-09 |  |
 | [Feel Empty \(WEBTOON 'Discovery of Love' X OuiOui\)](https://open.spotify.com/track/0tEJych2LdCffCFYVn5vU0) | [OuiOui](https://open.spotify.com/artist/11BHuhJ2jEMPNJ3WpwZVT8) | [Feel Empty \(WEBTOON 'Discovery of Love' X OuiOui\)](https://open.spotify.com/album/66yLRKVouimpFdrbQupUdL) | 3:22 | 2022-07-20 |  |
 | [First Love Story](https://open.spotify.com/track/7yaFG7IYstppb3WrI7nMWY) | [Baek A Yeon](https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX) | [First Love Story \(Original Soundtrack from the Webtoon Fight For My Way\)](https://open.spotify.com/album/1e5e5KZ97uAAUufTpjd5OJ) | 3:27 | 2022-05-09 |  |
+| [For You](https://open.spotify.com/track/59fPM7nPg0z5L9LoyoNhbK) | [SHAUN](https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358) | [For You](https://open.spotify.com/album/1kLQss3VwPK4vrS1H2zDAN) | 3:04 | 2022-09-05 |  |
 | [Good bye my love](https://open.spotify.com/track/4sTXT0ArcrA5FHRjQLm6qc) | [Rumble Fish](https://open.spotify.com/artist/1NyreDKOPoI1XxOv7xnyn2) | [Webtoon The Red Sleeve \(Original Soundtrack\)](https://open.spotify.com/album/2FxNxbv5XY55H700JbvoK3) | 3:53 | 2022-07-29 |  |
 | [Goodbye](https://open.spotify.com/track/5eTdQ3neCQ9P7DQPugu5Zt) | [RYEOWOOK](https://open.spotify.com/artist/0fwfMuz3AmWRy2pyM5fDRo) | [It Was All a Mistake OST Part 1](https://open.spotify.com/album/5FZe0UAWvHMWM3jqWCt89q) | 3:44 | 2022-08-02 |  |
 | [Half of Half](https://open.spotify.com/track/4yAaTghM4WlFmkcMn8OltI) | [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL), [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [Hanyang Diaries, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/2HtX81YADYdTbNt4wlpcCS) | 3:29 | 2022-05-09 |  |

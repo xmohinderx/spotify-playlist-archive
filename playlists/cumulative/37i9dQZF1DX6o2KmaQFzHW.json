@@ -1356,6 +1356,24 @@
     },
     {
       "album": {
+        "name": "Las Canciones de Atahualpa Yupanqui",
+        "url": "https://open.spotify.com/album/0A5XFZ01nfzgPdPnPULVjO"
+      },
+      "artists": [
+        {
+          "name": "Atahualpa Yupanqui",
+          "url": "https://open.spotify.com/artist/6I2DJf8fZwixA0GTLAvR1b"
+        }
+      ],
+      "date_added": "2022-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231813,
+      "name": "El Alazan",
+      "url": "https://open.spotify.com/track/28AbmVT1sueLjRRYV984WI"
+    },
+    {
+      "album": {
         "name": "From Argentina To The World",
         "url": "https://open.spotify.com/album/6s6i8lmBcB27bjpzsNkksR"
       },
@@ -2257,7 +2275,7 @@
       ],
       "date_added": "2022-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-06",
       "duration_ms": 211533,
       "name": "La Pastorcita Perdida",
       "url": "https://open.spotify.com/track/36wpfInAPheD9NuswqTR3f"

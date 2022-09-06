@@ -4,7 +4,7 @@
 
 > Extra vicious, hard\-hitting pop\.  This is SALT\.  Cover: Demi Lovato
 
-235 songs - 10 hr 47 min - [published](https://open.spotify.com/playlist/6uOoVSA8DjAX2qeF3BOP8u)
+236 songs - 10 hr 50 min - [published](https://open.spotify.com/playlist/6uOoVSA8DjAX2qeF3BOP8u)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [brutal](https://open.spotify.com/track/6SRsiMl7w1USE4mFqrOhHC) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:23 | 2021-12-24 | 2022-03-18 |
 | [Bury Me Alive](https://open.spotify.com/track/6vCsRxJAyCB75JQKZc8MHb) | [Xowie Jones](https://open.spotify.com/artist/0ZlBHRn2ZsHc1FESUa43ij) | [Bury Me Alive](https://open.spotify.com/album/7JwAaRcuWbdfqkfGX2VbA5) | 1:57 | 2022-09-02 |  |
 | [But I Don'T](https://open.spotify.com/track/1BZ8ne2p76ugVsn5TBjeuL) | [JESSIA](https://open.spotify.com/artist/6DdbeAeBlrYj8bNToZv4TY) | [How Are You?](https://open.spotify.com/album/6JCn8Tk6OGj3t0YYG55zy7) | 2:17 | 2022-03-18 | 2022-08-13 |
+| [can't get laid](https://open.spotify.com/track/3GyLZPZlnVteR6NpvPAJq7) | [bella amor](https://open.spotify.com/artist/0YHLS3lTpmblVqI74qAz6M) | [can't get laid](https://open.spotify.com/album/43r40totUGXyIiUH0OE0iI) | 2:54 | 2022-09-05 |  |
 | [CAROUSEL](https://open.spotify.com/track/2oIwlCLMTmNm21n1V16phB) | [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5), [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [CAROUSEL](https://open.spotify.com/album/0cVhAl4V39EyqY9iSg1SVL) | 2:58 | 2022-03-25 | 2022-08-13 |
 | [CASUALTY](https://open.spotify.com/track/3OWxpc6Zguzep0XKWGxDyc) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [CASUALTY](https://open.spotify.com/album/2Ctdbwmab7JKb5ZB8nbT0q) | 2:38 | 2022-01-28 | 2022-03-12 |
 | [Celebrity Skin](https://open.spotify.com/track/66bLKGXOk3kPWWHP7Tbrki) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Celebrity Skin](https://open.spotify.com/album/2y8KeBe1RXU46rnl4lpzHl) | 2:39 | 2022-02-25 | 2022-05-28 |
@@ -162,7 +163,7 @@
 | [Pretty Boy](https://open.spotify.com/track/4rTYW2D4ndQC02e6qAPo2p) | [poutyface](https://open.spotify.com/artist/0H44O4IYqpTOGx4c5nV37f) | [Boys Will Be Boys](https://open.spotify.com/album/3EQRAaLvsRsyp9Zr7y0rKJ) | 2:32 | 2021-12-10 | 2022-03-05 |
 | [pretty poison](https://open.spotify.com/track/1a6SSxTLJK6AT9eTd8K6ao) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [pretty poison](https://open.spotify.com/album/4TrwWZCvhaw07kchbcba0S) | 2:17 | 2021-09-10 | 2022-02-19 |
 | [Problems](https://open.spotify.com/track/0zPQx8X0MqfilG0dZIRXkN) | [Jake Daniels](https://open.spotify.com/artist/3AYZMgvmzNKc3cGmJUSITh) | [Problems](https://open.spotify.com/album/7ARGpnH0DV4qXGSzC08Rf2) | 2:50 | 2022-08-12 |  |
-| [Psychopath](https://open.spotify.com/track/2muY007Tkz4pMR9L15jlJL) | [Tomine Harket](https://open.spotify.com/artist/6064pL9Hu3Wx2bwJMeOx6o) | [Psychopath](https://open.spotify.com/album/306xhPeWyo9hurUtAbp19u) | 2:00 | 2022-04-22 |  |
+| [Psychopath](https://open.spotify.com/track/2muY007Tkz4pMR9L15jlJL) | [Tomine Harket](https://open.spotify.com/artist/6064pL9Hu3Wx2bwJMeOx6o) | [Psychopath](https://open.spotify.com/album/306xhPeWyo9hurUtAbp19u) | 2:00 | 2022-04-22 | 2022-09-06 |
 | [Purity](https://open.spotify.com/track/1BV7YtzsoKAF2cULDHLe2K) | [Lilyisthatyou](https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC) | [Purity](https://open.spotify.com/album/3yKU3194yUrl8T499qMKvQ) | 1:53 | 2022-01-21 | 2022-03-18 |
 | [Queen Of Ice](https://open.spotify.com/track/0PzcMfqECraaBGxX7zr7wV) | [Claptone](https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry), [Dizzy](https://open.spotify.com/artist/0g3BS5QoR5r6pOAg1tvwXv) | [Queen of Ice](https://open.spotify.com/album/3lKrTWon6PLcdzIjgTAOWm) | 4:04 | 2021-11-05 | 2022-03-18 |
 | [R.I.P](https://open.spotify.com/track/37PZSNSxLG6iuJAlUo8Wqv) | [Dallas](https://open.spotify.com/artist/4G7Ft324bPwyWC2v35sns8) | [R.I.P](https://open.spotify.com/album/2PkakWXe2YnTBVv0QsRyNc) | 3:05 | 2022-03-25 | 2022-04-09 |

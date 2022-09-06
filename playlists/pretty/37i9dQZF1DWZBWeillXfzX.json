@@ -1,12 +1,12 @@
 {
   "description": "Blues guitar heroes of today. Cover: Kirk Fletcher",
-  "num_followers": 13423,
+  "num_followers": 13442,
   "original_name": "Modern Blues Guitar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MjQxNDUyMCwwMDAwMDAwMGM5YzJkNWY4MjAyNDE4NWQyYjUyZDNmNjY4YzZjNWE1",
+  "snapshot_id": "MTY1MjQxNDUyMCwwMDAwMDAwMGRjMGRhMzM2MDAyYmNhNDhiYmI4YzZlZmE1YTFjZTBm",
   "tracks": [
     {
       "added_at": "2020-10-21 17:37:12",
@@ -203,6 +203,22 @@
     {
       "added_at": "2020-10-21 17:37:12",
       "album": {
+        "name": "Songlines",
+        "url": "https://open.spotify.com/album/1T6rgbl3cemngWpcLC99MH"
+      },
+      "artists": [
+        {
+          "name": "The Derek Trucks Band",
+          "url": "https://open.spotify.com/artist/1YwfENKEZrowcmtR1nALZn"
+        }
+      ],
+      "duration_ms": 233773,
+      "name": "Crow Jane",
+      "url": "https://open.spotify.com/track/2b0ObO7Xk3qzJdMOhJc5c3"
+    },
+    {
+      "added_at": "2020-10-21 17:37:12",
+      "album": {
         "name": "Have You Lost Your Mind yet?",
         "url": "https://open.spotify.com/album/6b96nRUJmHMTQwK1IK9tJy"
       },
@@ -247,22 +263,6 @@
       "duration_ms": 302640,
       "name": "The Answer",
       "url": "https://open.spotify.com/track/4gRRWu6UKWASIQzzOzkXUx"
-    },
-    {
-      "added_at": "2020-10-21 17:37:12",
-      "album": {
-        "name": "Songlines",
-        "url": "https://open.spotify.com/album/1T6rgbl3cemngWpcLC99MH"
-      },
-      "artists": [
-        {
-          "name": "The Derek Trucks Band",
-          "url": "https://open.spotify.com/artist/1YwfENKEZrowcmtR1nALZn"
-        }
-      ],
-      "duration_ms": 233773,
-      "name": "Crow Jane",
-      "url": "https://open.spotify.com/track/2b0ObO7Xk3qzJdMOhJc5c3"
     },
     {
       "added_at": "2020-10-21 17:37:12",
@@ -331,22 +331,6 @@
     {
       "added_at": "2020-10-21 17:37:12",
       "album": {
-        "name": "Spirit Rising",
-        "url": "https://open.spotify.com/album/3dQKiRCBLOnvRmfcTCJP0H"
-      },
-      "artists": [
-        {
-          "name": "Philip Sayce",
-          "url": "https://open.spotify.com/artist/5Npr4HpRE8YlsisRjN9T8h"
-        }
-      ],
-      "duration_ms": 218088,
-      "name": "Spirit",
-      "url": "https://open.spotify.com/track/0G1p6qY60TM9fT3v9iHRdF"
-    },
-    {
-      "added_at": "2020-10-21 17:37:12",
-      "album": {
         "name": "Ashes & Dust",
         "url": "https://open.spotify.com/album/6y9X3ZKEa63FWjpoR3Km04"
       },
@@ -403,22 +387,6 @@
     {
       "added_at": "2020-10-21 17:37:12",
       "album": {
-        "name": "The Traveler",
-        "url": "https://open.spotify.com/album/2Y84Mm4NzY5TzbdR1ub9Ow"
-      },
-      "artists": [
-        {
-          "name": "Kenny Wayne Shepherd",
-          "url": "https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p"
-        }
-      ],
-      "duration_ms": 387706,
-      "name": "I Want You",
-      "url": "https://open.spotify.com/track/7LcaMnxskCb9tvxggOBR2O"
-    },
-    {
-      "added_at": "2020-10-21 17:37:12",
-      "album": {
         "name": "This Land",
         "url": "https://open.spotify.com/album/6pwdy6oQdwSQo8XOfpfAJJ"
       },
@@ -431,6 +399,38 @@
       "duration_ms": 157413,
       "name": "Got to Get Up",
       "url": "https://open.spotify.com/track/4UPWcafmoDHKZziDsTumP3"
+    },
+    {
+      "added_at": "2020-10-21 17:37:12",
+      "album": {
+        "name": "Spirit Rising",
+        "url": "https://open.spotify.com/album/3dQKiRCBLOnvRmfcTCJP0H"
+      },
+      "artists": [
+        {
+          "name": "Philip Sayce",
+          "url": "https://open.spotify.com/artist/5Npr4HpRE8YlsisRjN9T8h"
+        }
+      ],
+      "duration_ms": 218088,
+      "name": "Spirit",
+      "url": "https://open.spotify.com/track/0G1p6qY60TM9fT3v9iHRdF"
+    },
+    {
+      "added_at": "2020-10-21 17:37:12",
+      "album": {
+        "name": "The Traveler",
+        "url": "https://open.spotify.com/album/2Y84Mm4NzY5TzbdR1ub9Ow"
+      },
+      "artists": [
+        {
+          "name": "Kenny Wayne Shepherd",
+          "url": "https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p"
+        }
+      ],
+      "duration_ms": 387706,
+      "name": "I Want You",
+      "url": "https://open.spotify.com/track/7LcaMnxskCb9tvxggOBR2O"
     },
     {
       "added_at": "2020-10-21 17:37:12",
@@ -547,22 +547,6 @@
     {
       "added_at": "2020-10-21 17:37:12",
       "album": {
-        "name": "Kill Or Be Kind",
-        "url": "https://open.spotify.com/album/0Z917mMSP3EHtJicbhSAhA"
-      },
-      "artists": [
-        {
-          "name": "Samantha Fish",
-          "url": "https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5"
-        }
-      ],
-      "duration_ms": 300226,
-      "name": "Watch It Die",
-      "url": "https://open.spotify.com/track/1zo9iSJu2FgklNDwRclVFq"
-    },
-    {
-      "added_at": "2020-10-21 17:37:12",
-      "album": {
         "name": "Middle of the Road",
         "url": "https://open.spotify.com/album/7egwxXjYLZsui8rZb5cUFL"
       },
@@ -631,22 +615,6 @@
     {
       "added_at": "2020-10-21 17:37:12",
       "album": {
-        "name": "Headway",
-        "url": "https://open.spotify.com/album/0TjBV6tw18oKPHabWVArG3"
-      },
-      "artists": [
-        {
-          "name": "Ariel Posen",
-          "url": "https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y"
-        }
-      ],
-      "duration_ms": 178037,
-      "name": "Coming Back",
-      "url": "https://open.spotify.com/track/6enELEFBmbFdCuS2cxrS8G"
-    },
-    {
-      "added_at": "2020-10-21 17:37:12",
-      "album": {
         "name": "Girls",
         "url": "https://open.spotify.com/album/2itCiWDyCrtpV6FuHzLxVA"
       },
@@ -659,6 +627,38 @@
       "duration_ms": 180583,
       "name": "Cry for Me",
       "url": "https://open.spotify.com/track/2LGB8fWyHBw8ENzD9qH1Gv"
+    },
+    {
+      "added_at": "2020-10-21 17:37:12",
+      "album": {
+        "name": "Kill Or Be Kind",
+        "url": "https://open.spotify.com/album/0Z917mMSP3EHtJicbhSAhA"
+      },
+      "artists": [
+        {
+          "name": "Samantha Fish",
+          "url": "https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5"
+        }
+      ],
+      "duration_ms": 300226,
+      "name": "Watch It Die",
+      "url": "https://open.spotify.com/track/1zo9iSJu2FgklNDwRclVFq"
+    },
+    {
+      "added_at": "2020-10-21 17:37:12",
+      "album": {
+        "name": "Headway",
+        "url": "https://open.spotify.com/album/0TjBV6tw18oKPHabWVArG3"
+      },
+      "artists": [
+        {
+          "name": "Ariel Posen",
+          "url": "https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y"
+        }
+      ],
+      "duration_ms": 178037,
+      "name": "Coming Back",
+      "url": "https://open.spotify.com/track/6enELEFBmbFdCuS2cxrS8G"
     },
     {
       "added_at": "2020-10-21 17:37:12",
@@ -821,20 +821,52 @@
       "url": "https://open.spotify.com/track/3LHH5SAytvRIzj2i3XKvLU"
     },
     {
-      "added_at": "2020-10-21 17:37:12",
+      "added_at": "2021-06-04 04:01:00",
       "album": {
-        "name": "Signs",
-        "url": "https://open.spotify.com/album/4SPbtzCATQqeHmN2Evs26H"
+        "name": "Shufflin' West Coast",
+        "url": "https://open.spotify.com/album/0xU6562s9LeTyv9dvqFUw0"
       },
       "artists": [
         {
-          "name": "Jonny Lang",
-          "url": "https://open.spotify.com/artist/5rX1EodZfwxmW4fQX2Caot"
+          "name": "David Garfield",
+          "url": "https://open.spotify.com/artist/3RPnyf7t9phTwwSzQgaZYb"
+        },
+        {
+          "name": "Albert Lee",
+          "url": "https://open.spotify.com/artist/3YMlcBYj21DcMALlALTO7m"
+        },
+        {
+          "name": "Tim Pierce",
+          "url": "https://open.spotify.com/artist/5ViJHAJBhLL7J9WNR1uPDN"
+        },
+        {
+          "name": "James Harrah",
+          "url": "https://open.spotify.com/artist/4XonxCeLqWlDlpztAyCZb4"
+        },
+        {
+          "name": "Johnny Lee Schell",
+          "url": "https://open.spotify.com/artist/5LAFSMKY4RMw192jHeaBRi"
+        },
+        {
+          "name": "Toshi Yanagi",
+          "url": "https://open.spotify.com/artist/0H2cYrALxabRKcAJdF6EKj"
+        },
+        {
+          "name": "Michael Thompson",
+          "url": "https://open.spotify.com/artist/3s4aVgqEf5mdv6ubR7nwfE"
+        },
+        {
+          "name": "Brent Mason",
+          "url": "https://open.spotify.com/artist/1oO9xG0YRXpZdXseGgNlFk"
+        },
+        {
+          "name": "Paul Franklin",
+          "url": "https://open.spotify.com/artist/2d5aRKZTJgcuetYRNzKDrA"
         }
       ],
-      "duration_ms": 258426,
-      "name": "What You\u2019re Made Of",
-      "url": "https://open.spotify.com/track/1RxSQxCQKSInGZREvUPjWn"
+      "duration_ms": 262536,
+      "name": "Shufflin' West Coast",
+      "url": "https://open.spotify.com/track/35znJMAm3GhjLwY9o3KiSG"
     }
   ],
   "unique_name": "Modern Blues Guitar",

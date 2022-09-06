@@ -1,12 +1,12 @@
 {
   "description": "Hand-curated cuts from the vault, no record player required. ",
-  "num_followers": 84179,
+  "num_followers": 84245,
   "original_name": "Turntable",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTc5MDA1NSwwMDAwMDAwMGM3YWNlNzE0NWNmZGViZThkNmE1NGM4N2M0NjM1ZWU4",
+  "snapshot_id": "MTY2MTc5MDA1NSwwMDAwMDAwMDdlYjc4MGJiZjExMTRiMDUyNTM1YTIyZTMwMTY0ZDZj",
   "tracks": [
     {
       "added_at": "2022-07-21 20:30:32",
@@ -395,6 +395,22 @@
     {
       "added_at": "2022-06-24 00:45:24",
       "album": {
+        "name": "New Energy",
+        "url": "https://open.spotify.com/album/74r6JJ97ipO0CREXP9PMqZ"
+      },
+      "artists": [
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        }
+      ],
+      "duration_ms": 311893,
+      "name": "Lush",
+      "url": "https://open.spotify.com/track/4KjNEsQ4jkqXwCmsn71a9p"
+    },
+    {
+      "added_at": "2022-06-24 00:45:24",
+      "album": {
         "name": "still slipping vol. 1",
         "url": "https://open.spotify.com/album/5atrOg1aO4d5KEcYo4UBIA"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 301933,
       "name": "better",
       "url": "https://open.spotify.com/track/7oNOKWpTqTnTJeyLwkwWqN"
-    },
-    {
-      "added_at": "2022-06-24 00:45:24",
-      "album": {
-        "name": "New Energy",
-        "url": "https://open.spotify.com/album/74r6JJ97ipO0CREXP9PMqZ"
-      },
-      "artists": [
-        {
-          "name": "Four Tet",
-          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
-        }
-      ],
-      "duration_ms": 311893,
-      "name": "Lush",
-      "url": "https://open.spotify.com/track/4KjNEsQ4jkqXwCmsn71a9p"
     },
     {
       "added_at": "2022-06-24 00:45:24",
@@ -519,22 +519,6 @@
     {
       "added_at": "2022-06-24 00:45:24",
       "album": {
-        "name": "The Distance",
-        "url": "https://open.spotify.com/album/2ePg95gGoOPRmUQYFLq0wy"
-      },
-      "artists": [
-        {
-          "name": "Totally Enormous Extinct Dinosaurs",
-          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
-        }
-      ],
-      "duration_ms": 291840,
-      "name": "The Distance",
-      "url": "https://open.spotify.com/track/3MOUt4k7KUP8qVheHT8RG0"
-    },
-    {
-      "added_at": "2022-06-24 00:45:24",
-      "album": {
         "name": "5",
         "url": "https://open.spotify.com/album/57EkTny9UjqpLhFzMO4Hdb"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 193401,
       "name": "Let Me Go",
       "url": "https://open.spotify.com/track/5fzUKYfATEqxDmRWfbikAm"
+    },
+    {
+      "added_at": "2022-06-24 00:45:24",
+      "album": {
+        "name": "The Distance",
+        "url": "https://open.spotify.com/album/2ePg95gGoOPRmUQYFLq0wy"
+      },
+      "artists": [
+        {
+          "name": "Totally Enormous Extinct Dinosaurs",
+          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
+        }
+      ],
+      "duration_ms": 291840,
+      "name": "The Distance",
+      "url": "https://open.spotify.com/track/3MOUt4k7KUP8qVheHT8RG0"
     },
     {
       "added_at": "2022-06-24 00:45:24",
@@ -657,6 +657,26 @@
       "url": "https://open.spotify.com/track/35YSCRS2BshfXYdNAQxrs8"
     },
     {
+      "added_at": "2022-08-16 13:51:08",
+      "album": {
+        "name": "Another Dose (feat. Mick Jenkins)",
+        "url": "https://open.spotify.com/album/5NqQIZptkFt28aRMa62QvO"
+      },
+      "artists": [
+        {
+          "name": "Gamblers",
+          "url": "https://open.spotify.com/artist/0mkPR7AJ7qhuFaS9Eh2Lmm"
+        },
+        {
+          "name": "Mick Jenkins",
+          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+        }
+      ],
+      "duration_ms": 138760,
+      "name": "Another Dose (feat. Mick Jenkins)",
+      "url": "https://open.spotify.com/track/09GY9rmMFHOuH3Z7sGSoKz"
+    },
+    {
       "added_at": "2022-06-24 00:45:24",
       "album": {
         "name": "Dub Reggae",
@@ -689,26 +709,6 @@
       "url": "https://open.spotify.com/track/1WCbWyu8mRrOk5Su9yPnkO"
     },
     {
-      "added_at": "2022-08-16 13:51:08",
-      "album": {
-        "name": "Another Dose (feat. Mick Jenkins)",
-        "url": "https://open.spotify.com/album/5NqQIZptkFt28aRMa62QvO"
-      },
-      "artists": [
-        {
-          "name": "Gamblers",
-          "url": "https://open.spotify.com/artist/0mkPR7AJ7qhuFaS9Eh2Lmm"
-        },
-        {
-          "name": "Mick Jenkins",
-          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
-        }
-      ],
-      "duration_ms": 138760,
-      "name": "Another Dose (feat. Mick Jenkins)",
-      "url": "https://open.spotify.com/track/09GY9rmMFHOuH3Z7sGSoKz"
-    },
-    {
       "added_at": "2022-06-24 00:45:24",
       "album": {
         "name": "Best of The Black President",
@@ -723,6 +723,26 @@
       "duration_ms": 591706,
       "name": "Water No Get Enemy - Edit",
       "url": "https://open.spotify.com/track/43ile6cBzr9uaC4bJf6J3N"
+    },
+    {
+      "added_at": "2022-06-24 00:45:24",
+      "album": {
+        "name": "Pueblo",
+        "url": "https://open.spotify.com/album/59e6mmSqB6wtHkPyGf4CrJ"
+      },
+      "artists": [
+        {
+          "name": "Hugo",
+          "url": "https://open.spotify.com/artist/7nDJpnTQgtM87yaive1aos"
+        },
+        {
+          "name": "DAO",
+          "url": "https://open.spotify.com/artist/0vO0wjb2c1Bkyj9zffz2m9"
+        }
+      ],
+      "duration_ms": 103220,
+      "name": "Pueblo",
+      "url": "https://open.spotify.com/track/4LOw0j83cz4aaqgP555uAT"
     },
     {
       "added_at": "2022-06-24 00:45:24",
@@ -767,26 +787,6 @@
       "duration_ms": 166200,
       "name": "Romeo (feat. Bas)",
       "url": "https://open.spotify.com/track/2M1NViRgTlFMB6wB7AM7pa"
-    },
-    {
-      "added_at": "2022-06-24 00:45:24",
-      "album": {
-        "name": "Pueblo",
-        "url": "https://open.spotify.com/album/59e6mmSqB6wtHkPyGf4CrJ"
-      },
-      "artists": [
-        {
-          "name": "Hugo",
-          "url": "https://open.spotify.com/artist/7nDJpnTQgtM87yaive1aos"
-        },
-        {
-          "name": "DAO",
-          "url": "https://open.spotify.com/artist/0vO0wjb2c1Bkyj9zffz2m9"
-        }
-      ],
-      "duration_ms": 103220,
-      "name": "Pueblo",
-      "url": "https://open.spotify.com/track/4LOw0j83cz4aaqgP555uAT"
     },
     {
       "added_at": "2022-06-24 00:45:24",
@@ -1073,22 +1073,6 @@
       "url": "https://open.spotify.com/track/4pNlEl7y5pT9f9zFy0oxXb"
     },
     {
-      "added_at": "2022-06-24 00:45:24",
-      "album": {
-        "name": "Your Queen Is A Reptile",
-        "url": "https://open.spotify.com/album/4pxnDGBdoGu88h8ZInX5f5"
-      },
-      "artists": [
-        {
-          "name": "Sons Of Kemet",
-          "url": "https://open.spotify.com/artist/3pvRbmrqOyFxB2Eext4Dki"
-        }
-      ],
-      "duration_ms": 314693,
-      "name": "My Queen Is Albertina Sisulu",
-      "url": "https://open.spotify.com/track/28uZjhU60BosFYSMJLJoQ3"
-    },
-    {
       "added_at": "2022-08-29 16:20:55",
       "album": {
         "name": "Kali",
@@ -1103,6 +1087,22 @@
       "duration_ms": 213333,
       "name": "Kali",
       "url": "https://open.spotify.com/track/5MJPZdoWBTx134lpRvnCUE"
+    },
+    {
+      "added_at": "2022-06-24 00:45:24",
+      "album": {
+        "name": "Your Queen Is A Reptile",
+        "url": "https://open.spotify.com/album/4pxnDGBdoGu88h8ZInX5f5"
+      },
+      "artists": [
+        {
+          "name": "Sons Of Kemet",
+          "url": "https://open.spotify.com/artist/3pvRbmrqOyFxB2Eext4Dki"
+        }
+      ],
+      "duration_ms": 314693,
+      "name": "My Queen Is Albertina Sisulu",
+      "url": "https://open.spotify.com/track/28uZjhU60BosFYSMJLJoQ3"
     },
     {
       "added_at": "2022-06-24 00:45:24",
@@ -1157,6 +1157,22 @@
       "url": "https://open.spotify.com/track/6HOLZtVDh5EgvPnW4z23n2"
     },
     {
+      "added_at": "2022-07-21 20:30:32",
+      "album": {
+        "name": "The Very Best Of Nina Simone 1967-1972 - Sugar In My Bowl",
+        "url": "https://open.spotify.com/album/5Dh4qVmcMpDv5qhgdaqGtj"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 214893,
+      "name": "Do What You Gotta Do",
+      "url": "https://open.spotify.com/track/1WP7Snm91AFyvhWb3s8UB8"
+    },
+    {
       "added_at": "2022-06-24 00:45:24",
       "album": {
         "name": "Before",
@@ -1187,22 +1203,6 @@
       "duration_ms": 231923,
       "name": "Nterini - A COLORS SHOW",
       "url": "https://open.spotify.com/track/3G7Mvni5YaF5UgJWGp5nQe"
-    },
-    {
-      "added_at": "2022-07-21 20:30:32",
-      "album": {
-        "name": "The Very Best Of Nina Simone 1967-1972 - Sugar In My Bowl",
-        "url": "https://open.spotify.com/album/5Dh4qVmcMpDv5qhgdaqGtj"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 214893,
-      "name": "Do What You Gotta Do",
-      "url": "https://open.spotify.com/track/1WP7Snm91AFyvhWb3s8UB8"
     },
     {
       "added_at": "2022-06-24 00:45:24",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2022-06-24 00:45:24",
       "album": {
-        "name": "OnlyL",
-        "url": "https://open.spotify.com/album/3S0Bc7ND7GBGyBUElLAXqU"
-      },
-      "artists": [
-        {
-          "name": "TSHA",
-          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
-        }
-      ],
-      "duration_ms": 288038,
-      "name": "I Know",
-      "url": "https://open.spotify.com/track/4oV37nYkVu3IZ64ZGxghT7"
-    },
-    {
-      "added_at": "2022-06-24 00:45:24",
-      "album": {
         "name": "London. Paris. Berlin.",
         "url": "https://open.spotify.com/album/1dDsbruFq4OZMM1Xj3KF6v"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 245200,
       "name": "London. Paris. Berlin.",
       "url": "https://open.spotify.com/track/5mxQ1JcGnb3sTu5zO08ZTK"
+    },
+    {
+      "added_at": "2022-06-24 00:45:24",
+      "album": {
+        "name": "OnlyL",
+        "url": "https://open.spotify.com/album/3S0Bc7ND7GBGyBUElLAXqU"
+      },
+      "artists": [
+        {
+          "name": "TSHA",
+          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+        }
+      ],
+      "duration_ms": 288038,
+      "name": "I Know",
+      "url": "https://open.spotify.com/track/4oV37nYkVu3IZ64ZGxghT7"
     },
     {
       "added_at": "2022-06-24 00:45:24",

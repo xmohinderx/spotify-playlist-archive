@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFFC1lIRMlcB.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2SvaUOnqS5LqjhwNsyWEJZ">Lucas Kastrup</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 129 likes - 43 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 130 likes - 43 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFFC1lIRMlcB.md) - [plain]
 | 15 | [Toque Primitivo](https://open.spotify.com/track/5V3hDjjDd11QQziHbjCT8i) | [Daniel Profeta](https://open.spotify.com/artist/5kzlekzE6BvBzIhRqgsB0w), [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x), [Lucas Kastrup](https://open.spotify.com/artist/7ItyZEmbOX87GJTDlkEqDO) | [Foi Jah Quem Mandou](https://open.spotify.com/album/0PtuaNT0sysrBvZwY9ELvd) | 3:12 |
 | 16 | [Pra Falar de Jah](https://open.spotify.com/track/66ZIPA8RrdV6y6GezWGDdR) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Essa É a Nossa Música](https://open.spotify.com/album/2DHuVsqUAms5Mxa0qwtoVc) | 3:28 |
 | 17 | [Chances](https://open.spotify.com/track/7wCmZoT43houmTEBitP5bJ) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Essa É a Nossa Música](https://open.spotify.com/album/2DHuVsqUAms5Mxa0qwtoVc) | 3:52 |
-| 18 | [Profeta Rei](https://open.spotify.com/track/301wtMedruaqRQELl0MKa2) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Reggae a Vida Com Amor](https://open.spotify.com/album/1kN0AUafpsAzU1C49361bA) | 8:51 |
-| 19 | [Música de Jah](https://open.spotify.com/track/1BCKW27GHBzcNxmNOOXcKL) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Dia Após Dia Lutando \(Deluxe Version\)](https://open.spotify.com/album/6YFmSe0LapWyAyyNJYLEln) | 6:14 |
+| 18 | [Música de Jah](https://open.spotify.com/track/1BCKW27GHBzcNxmNOOXcKL) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Dia Após Dia Lutando \(Deluxe Version\)](https://open.spotify.com/album/6YFmSe0LapWyAyyNJYLEln) | 6:14 |
+| 19 | [Profeta Rei](https://open.spotify.com/track/301wtMedruaqRQELl0MKa2) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Reggae a Vida Com Amor](https://open.spotify.com/album/1kN0AUafpsAzU1C49361bA) | 8:51 |
 | 20 | [Genesis](https://open.spotify.com/track/1MwEVNDORoVWJDg6kRqWF3) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Reggae a Vida Com Amor](https://open.spotify.com/album/1kN0AUafpsAzU1C49361bA) | 3:47 |
 | 21 | [Introdução \- Ao Vivo](https://open.spotify.com/track/1YXw5eHJ7Q3VAYmZuWTjmv) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Juntos Somos Fortes \(Ao Vivo\)](https://open.spotify.com/album/7ECKCoQYnQP3Rfqq9LQdsi) | 3:12 |
 | 22 | [Novo Governo](https://open.spotify.com/track/2wZmUUAoCdLcr9SgMZ3RYF) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Novo Governo](https://open.spotify.com/album/7ezdv3qMjcZOXIjrLDvKHG) | 3:05 |
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFFC1lIRMlcB.md) - [plain]
 | 42 | [Inesperado](https://open.spotify.com/track/0eupIHRJZCM2EtZVEIjHil) | [Lucas Kastrup](https://open.spotify.com/artist/7ItyZEmbOX87GJTDlkEqDO), [Ju em família](https://open.spotify.com/artist/6pg8jD6EtfSM5XbIsPqqKq) | [Inesperado](https://open.spotify.com/album/7fjNn0pCODT14KoguYaxyN) | 3:25 |
 | 43 | [Encontro Com Jah](https://open.spotify.com/track/2Y7sPLjrzRuhH9KZVN7TWP) | [Irmãos de Fé](https://open.spotify.com/artist/1aJjD4Hp0uNpbYujxCkeHu) | [Livremente](https://open.spotify.com/album/1oqVG1xM2CRF6YwwW23hXa) | 4:05 |
 
-Snapshot ID: `Mjc3MDU2NjksMDAwMDAwMDA4NmZkMjVhNTM2YTRlZDlmN2Y2N2U3NGI5YjgwYWMyMw==`
+Snapshot ID: `Mjc3MDcxMDksMDAwMDAwMDBkYjUzYzFkYjFjNjUwNjE2Mzg2OTZmNDg1MWVjNzYwNw==`

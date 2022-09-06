@@ -1,12 +1,12 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 36030,
+  "num_followers": 36054,
   "original_name": "Legendary Labels: Tuff Gong",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NjMxNTM4MCwwMDAwMDAwMDA1MjQzZDExMWViMjc2ZDI3NGRiZDZkMTE2YjgyZTFm",
+  "snapshot_id": "MTY0NjMxNTM4MCwwMDAwMDAwMDZiYmMxMzdmMzcyOWFmMzY0YjgwMmJiNDEyMGRiNTk5",
   "tracks": [
     {
       "added_at": "2022-03-03 13:49:40",
@@ -107,6 +107,38 @@
     {
       "added_at": "2022-03-03 13:49:40",
       "album": {
+        "name": "Burnin' (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5EZMcYc3xK0rlru83kHpUe"
+      },
+      "artists": [
+        {
+          "name": "The Wailers",
+          "url": "https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE"
+        }
+      ],
+      "duration_ms": 279720,
+      "name": "I Shot The Sheriff",
+      "url": "https://open.spotify.com/track/5uBKhKWTJ4E47rcLQqu3YH"
+    },
+    {
+      "added_at": "2022-03-03 13:49:40",
+      "album": {
+        "name": "Love Is My Religion",
+        "url": "https://open.spotify.com/album/3DbhHwKGkBX7OEUzmYlgbu"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        }
+      ],
+      "duration_ms": 239426,
+      "name": "Love Is My Religion - Acoustic",
+      "url": "https://open.spotify.com/track/2byTXyYqi3jeWdWqB6fiSq"
+    },
+    {
+      "added_at": "2022-03-03 13:49:40",
+      "album": {
         "name": "Confrontation",
         "url": "https://open.spotify.com/album/5Rg4ZSwf1LPCuAMr0msdun"
       },
@@ -132,41 +164,9 @@
           "url": "https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE"
         }
       ],
-      "duration_ms": 279720,
-      "name": "I Shot The Sheriff",
-      "url": "https://open.spotify.com/track/5uBKhKWTJ4E47rcLQqu3YH"
-    },
-    {
-      "added_at": "2022-03-03 13:49:40",
-      "album": {
-        "name": "Burnin' (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5EZMcYc3xK0rlru83kHpUe"
-      },
-      "artists": [
-        {
-          "name": "The Wailers",
-          "url": "https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE"
-        }
-      ],
       "duration_ms": 253986,
       "name": "Burnin' And Lootin'",
       "url": "https://open.spotify.com/track/34Jqj42hsT3O3N8yihE3B6"
-    },
-    {
-      "added_at": "2022-03-03 13:49:40",
-      "album": {
-        "name": "Love Is My Religion",
-        "url": "https://open.spotify.com/album/3DbhHwKGkBX7OEUzmYlgbu"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        }
-      ],
-      "duration_ms": 239426,
-      "name": "Love Is My Religion - Acoustic",
-      "url": "https://open.spotify.com/track/2byTXyYqi3jeWdWqB6fiSq"
     },
     {
       "added_at": "2022-03-03 13:49:40",

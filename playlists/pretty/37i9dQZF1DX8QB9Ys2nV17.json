@@ -1,12 +1,12 @@
 {
   "description": "The greatest female voices in blues today. Cover: Amythyst Kiah",
-  "num_followers": 169131,
+  "num_followers": 169127,
   "original_name": "EQUAL Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Njc0ODA2OSwwMDAwMDAwMGU0MWI1MmI5Yjk3NjU0OGYwYTA5MzEyZGMzMjc1Yzdl",
+  "snapshot_id": "MTY0Njc0ODA2OSwwMDAwMDAwMGU2NzlmOTYyNWQwYjJhZDE1YzYxZWE4YzA0YWUyYmRk",
   "tracks": [
     {
       "added_at": "2022-03-08 14:01:09",
@@ -203,6 +203,22 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
+        "name": "Keep On",
+        "url": "https://open.spotify.com/album/50CK5WZHyOwMeZHVYGCDIJ"
+      },
+      "artists": [
+        {
+          "name": "Southern Avenue",
+          "url": "https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ"
+        }
+      ],
+      "duration_ms": 223490,
+      "name": "Savior",
+      "url": "https://open.spotify.com/track/0oNrkWjdY3U8sZRJkcjbDP"
+    },
+    {
+      "added_at": "2022-03-08 14:01:09",
+      "album": {
         "name": "Promise of a Brand New Day",
         "url": "https://open.spotify.com/album/18QNLSpGZgj4aePM9STq2q"
       },
@@ -223,18 +239,18 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
-        "name": "Road I Call Home",
-        "url": "https://open.spotify.com/album/7rooTZehVu9pdUIirCwA0a"
+        "name": "Fish Outta Water",
+        "url": "https://open.spotify.com/album/52Hy5Ucrx8mbkOAyH9P1Qg"
       },
       "artists": [
         {
-          "name": "Elles Bailey",
-          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
+          "name": "Karen Lovely",
+          "url": "https://open.spotify.com/artist/33PWKu9VjoLVGC9j7xT2I5"
         }
       ],
-      "duration_ms": 232724,
-      "name": "What's the Matter with You",
-      "url": "https://open.spotify.com/track/3LBFMoyuO7hMgBOCTOGQBc"
+      "duration_ms": 230533,
+      "name": "Fish Outta Water",
+      "url": "https://open.spotify.com/track/0otTCVBZRpLduHl1ogOJ0y"
     },
     {
       "added_at": "2022-03-08 14:01:09",
@@ -255,38 +271,6 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
-        "name": "Fish Outta Water",
-        "url": "https://open.spotify.com/album/52Hy5Ucrx8mbkOAyH9P1Qg"
-      },
-      "artists": [
-        {
-          "name": "Karen Lovely",
-          "url": "https://open.spotify.com/artist/33PWKu9VjoLVGC9j7xT2I5"
-        }
-      ],
-      "duration_ms": 230533,
-      "name": "Fish Outta Water",
-      "url": "https://open.spotify.com/track/0otTCVBZRpLduHl1ogOJ0y"
-    },
-    {
-      "added_at": "2022-03-08 14:01:09",
-      "album": {
-        "name": "Keep On",
-        "url": "https://open.spotify.com/album/50CK5WZHyOwMeZHVYGCDIJ"
-      },
-      "artists": [
-        {
-          "name": "Southern Avenue",
-          "url": "https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ"
-        }
-      ],
-      "duration_ms": 223490,
-      "name": "Savior",
-      "url": "https://open.spotify.com/track/0oNrkWjdY3U8sZRJkcjbDP"
-    },
-    {
-      "added_at": "2022-03-08 14:01:09",
-      "album": {
         "name": "Simple Case of the Blues",
         "url": "https://open.spotify.com/album/13la0jdzx3vrRcbwf6PBXU"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 218746,
       "name": "Simple Case of the Blues",
       "url": "https://open.spotify.com/track/2mqLNOkpN21ig18xli9WQV"
+    },
+    {
+      "added_at": "2022-03-08 14:01:09",
+      "album": {
+        "name": "Road I Call Home",
+        "url": "https://open.spotify.com/album/7rooTZehVu9pdUIirCwA0a"
+      },
+      "artists": [
+        {
+          "name": "Elles Bailey",
+          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
+        }
+      ],
+      "duration_ms": 232724,
+      "name": "What's the Matter with You",
+      "url": "https://open.spotify.com/track/3LBFMoyuO7hMgBOCTOGQBc"
     },
     {
       "added_at": "2022-03-08 14:01:09",
@@ -499,6 +499,22 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
+        "name": "Nowhere Left to Go",
+        "url": "https://open.spotify.com/album/7mgwnnkUtNugVDwFd2fWsd"
+      },
+      "artists": [
+        {
+          "name": "Layla Zoe",
+          "url": "https://open.spotify.com/artist/1vbOVLkD5jGOkMKyYBqzwU"
+        }
+      ],
+      "duration_ms": 227333,
+      "name": "Nowhere Left to Go",
+      "url": "https://open.spotify.com/track/66A4kKsaCLef6DM79ATTER"
+    },
+    {
+      "added_at": "2022-03-08 14:01:09",
+      "album": {
         "name": "Heavy Hearts Hard Fists",
         "url": "https://open.spotify.com/album/2nZC1XpdGBiYkIG4R5ytml"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 197640,
       "name": "Heavy Hearts Hard Fists",
       "url": "https://open.spotify.com/track/2cwGnAb2HrxnzTLxqfZnyJ"
-    },
-    {
-      "added_at": "2022-03-08 14:01:09",
-      "album": {
-        "name": "Ain't Too Worried Yet",
-        "url": "https://open.spotify.com/album/3ifmjG8tSe2MtZzFpmUKg4"
-      },
-      "artists": [
-        {
-          "name": "Bad Flamingo",
-          "url": "https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE"
-        }
-      ],
-      "duration_ms": 212903,
-      "name": "Ain't Too Worried Yet",
-      "url": "https://open.spotify.com/track/0jf5lyDBbgIU7kt5ULc1ZF"
     },
     {
       "added_at": "2022-03-08 14:01:09",
@@ -547,6 +547,22 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
+        "name": "Ain't Too Worried Yet",
+        "url": "https://open.spotify.com/album/3ifmjG8tSe2MtZzFpmUKg4"
+      },
+      "artists": [
+        {
+          "name": "Bad Flamingo",
+          "url": "https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE"
+        }
+      ],
+      "duration_ms": 212903,
+      "name": "Ain't Too Worried Yet",
+      "url": "https://open.spotify.com/track/0jf5lyDBbgIU7kt5ULc1ZF"
+    },
+    {
+      "added_at": "2022-03-08 14:01:09",
+      "album": {
         "name": "Tricky Thing",
         "url": "https://open.spotify.com/album/4aPtimYS5kIEl8d03ToDUz"
       },
@@ -563,38 +579,6 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
-        "name": "Love Spin",
-        "url": "https://open.spotify.com/album/0jHM5tctOO79BT3POpCSfd"
-      },
-      "artists": [
-        {
-          "name": "Debbie Davies",
-          "url": "https://open.spotify.com/artist/21OcU2kzq3Oqkl8XxsEli7"
-        }
-      ],
-      "duration_ms": 231080,
-      "name": "Life Of The Party",
-      "url": "https://open.spotify.com/track/0YdyAqpiuGX1GPocApE83R"
-    },
-    {
-      "added_at": "2022-03-08 14:01:09",
-      "album": {
-        "name": "Nowhere Left to Go",
-        "url": "https://open.spotify.com/album/7mgwnnkUtNugVDwFd2fWsd"
-      },
-      "artists": [
-        {
-          "name": "Layla Zoe",
-          "url": "https://open.spotify.com/artist/1vbOVLkD5jGOkMKyYBqzwU"
-        }
-      ],
-      "duration_ms": 227333,
-      "name": "Nowhere Left to Go",
-      "url": "https://open.spotify.com/track/66A4kKsaCLef6DM79ATTER"
-    },
-    {
-      "added_at": "2022-03-08 14:01:09",
-      "album": {
         "name": "The Beautiful Bones",
         "url": "https://open.spotify.com/album/5a1VvpMgW0Mz0FDVOYOV38"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 264253,
       "name": "Release and Be Free",
       "url": "https://open.spotify.com/track/7d1ZzOIyACB64aEibmWfH7"
+    },
+    {
+      "added_at": "2022-03-08 14:01:09",
+      "album": {
+        "name": "Love Spin",
+        "url": "https://open.spotify.com/album/0jHM5tctOO79BT3POpCSfd"
+      },
+      "artists": [
+        {
+          "name": "Debbie Davies",
+          "url": "https://open.spotify.com/artist/21OcU2kzq3Oqkl8XxsEli7"
+        }
+      ],
+      "duration_ms": 231080,
+      "name": "Life Of The Party",
+      "url": "https://open.spotify.com/track/0YdyAqpiuGX1GPocApE83R"
     },
     {
       "added_at": "2022-03-08 14:01:09",

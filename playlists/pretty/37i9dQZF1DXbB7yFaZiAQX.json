@@ -1,12 +1,12 @@
 {
   "description": "'80s New Wave, New Romantic and Post-punk.",
-  "num_followers": 844604,
+  "num_followers": 844938,
   "original_name": "The '80s All Lined Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDIxMDI2OCwwMDAwMDAwMDQwNmQ4NDRlMTQ4ZDUzZDExMzM4OTVjNDNkNWIxZDhj",
+  "snapshot_id": "MTY2MDIxMDI2OCwwMDAwMDAwMDNmYzliNGVjNDU1YmY3NWRlNmFkZDFlYjdiMDUwZjA0",
   "tracks": [
     {
       "added_at": "2022-06-01 09:47:30",
@@ -291,18 +291,18 @@
     {
       "added_at": "2018-12-12 10:56:53",
       "album": {
-        "name": "Hatful of Hollow",
-        "url": "https://open.spotify.com/album/1j57Q5ntVi7crpibb0h4sv"
+        "name": "Love Will Tear Us Apart",
+        "url": "https://open.spotify.com/album/0u0CJa9zwFbGSU8JWQYS5G"
       },
       "artists": [
         {
-          "name": "The Smiths",
-          "url": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
+          "name": "Joy Division",
+          "url": "https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5"
         }
       ],
-      "duration_ms": 408173,
-      "name": "How Soon Is Now? - 2011 Remaster",
-      "url": "https://open.spotify.com/track/1YrnDTqvcnUKxAIeXyaEmU"
+      "duration_ms": 208453,
+      "name": "Love Will Tear Us Apart - 2020 Remaster",
+      "url": "https://open.spotify.com/track/34iOH7LY3vme5rQxsVILZ4"
     },
     {
       "added_at": "2018-12-12 10:56:53",
@@ -319,6 +319,22 @@
       "duration_ms": 173320,
       "name": "Town Called Malice",
       "url": "https://open.spotify.com/track/0gdmDP6xy3ZV7JNoHWAN9k"
+    },
+    {
+      "added_at": "2018-12-12 10:56:53",
+      "album": {
+        "name": "Hatful of Hollow",
+        "url": "https://open.spotify.com/album/1j57Q5ntVi7crpibb0h4sv"
+      },
+      "artists": [
+        {
+          "name": "The Smiths",
+          "url": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
+        }
+      ],
+      "duration_ms": 408173,
+      "name": "How Soon Is Now? - 2011 Remaster",
+      "url": "https://open.spotify.com/track/1YrnDTqvcnUKxAIeXyaEmU"
     },
     {
       "added_at": "2018-12-12 10:56:53",
@@ -369,22 +385,6 @@
       "url": "https://open.spotify.com/track/7HKxTNVlkHsfMLhigmhC0I"
     },
     {
-      "added_at": "2018-12-12 10:56:53",
-      "album": {
-        "name": "Love Will Tear Us Apart",
-        "url": "https://open.spotify.com/album/0u0CJa9zwFbGSU8JWQYS5G"
-      },
-      "artists": [
-        {
-          "name": "Joy Division",
-          "url": "https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5"
-        }
-      ],
-      "duration_ms": 208453,
-      "name": "Love Will Tear Us Apart - 2020 Remaster",
-      "url": "https://open.spotify.com/track/34iOH7LY3vme5rQxsVILZ4"
-    },
-    {
       "added_at": "2022-07-05 07:37:08",
       "album": {
         "name": "Never for Ever (2018 Remaster)",
@@ -401,22 +401,6 @@
       "url": "https://open.spotify.com/track/6VpNGCU2ig4NQmsLfALdJU"
     },
     {
-      "added_at": "2020-04-17 14:06:23",
-      "album": {
-        "name": "Forever Young (Super Deluxe Edition; 2019 Remaster)",
-        "url": "https://open.spotify.com/album/1BAmE3bdBnxej0umzyHQ5x"
-      },
-      "artists": [
-        {
-          "name": "Alphaville",
-          "url": "https://open.spotify.com/artist/0xliTEbFfy5HQHvsTknTkX"
-        }
-      ],
-      "duration_ms": 226000,
-      "name": "Forever Young - 2019 Remaster",
-      "url": "https://open.spotify.com/track/6XHNIbru8xGohLzHNgxQvF"
-    },
-    {
       "added_at": "2020-03-19 10:57:08",
       "album": {
         "name": "The Queen Is Dead",
@@ -431,6 +415,22 @@
       "duration_ms": 193320,
       "name": "Bigmouth Strikes Again - 2011 Remaster",
       "url": "https://open.spotify.com/track/2OErSh4oVVAUll0vHxdr6p"
+    },
+    {
+      "added_at": "2020-04-17 14:06:23",
+      "album": {
+        "name": "Forever Young (Super Deluxe Edition; 2019 Remaster)",
+        "url": "https://open.spotify.com/album/1BAmE3bdBnxej0umzyHQ5x"
+      },
+      "artists": [
+        {
+          "name": "Alphaville",
+          "url": "https://open.spotify.com/artist/0xliTEbFfy5HQHvsTknTkX"
+        }
+      ],
+      "duration_ms": 226000,
+      "name": "Forever Young - 2019 Remaster",
+      "url": "https://open.spotify.com/track/6XHNIbru8xGohLzHNgxQvF"
     },
     {
       "added_at": "2019-08-02 12:01:33",
@@ -681,22 +681,6 @@
       "url": "https://open.spotify.com/track/5cy5IStIn7OSHDEIgXeDyq"
     },
     {
-      "added_at": "2018-12-12 10:56:53",
-      "album": {
-        "name": "The Stone Roses",
-        "url": "https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw"
-      },
-      "artists": [
-        {
-          "name": "The Stone Roses",
-          "url": "https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d"
-        }
-      ],
-      "duration_ms": 278826,
-      "name": "Waterfall - Remastered",
-      "url": "https://open.spotify.com/track/4CWgqHRJjDLd2PCedMz8eY"
-    },
-    {
       "added_at": "2019-08-02 12:19:29",
       "album": {
         "name": "Disintegration (Deluxe Edition)",
@@ -711,6 +695,22 @@
       "duration_ms": 209573,
       "name": "Lovesong - 2010 Remaster",
       "url": "https://open.spotify.com/track/0X5C4WjQNubRysTkHOubz3"
+    },
+    {
+      "added_at": "2018-12-12 10:56:53",
+      "album": {
+        "name": "The Stone Roses",
+        "url": "https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw"
+      },
+      "artists": [
+        {
+          "name": "The Stone Roses",
+          "url": "https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d"
+        }
+      ],
+      "duration_ms": 278826,
+      "name": "Waterfall - Remastered",
+      "url": "https://open.spotify.com/track/4CWgqHRJjDLd2PCedMz8eY"
     },
     {
       "added_at": "2018-12-12 10:56:53",
@@ -793,20 +793,20 @@
       "url": "https://open.spotify.com/track/1LwP9g1Hjbs64jXM2Qsxry"
     },
     {
-      "added_at": "2019-08-02 12:25:08",
+      "added_at": "2018-12-12 10:56:53",
       "album": {
-        "name": "The Stone Roses",
-        "url": "https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw"
+        "name": "Songs to Learn & Sing",
+        "url": "https://open.spotify.com/album/0VYyqjM5H2sXj6z8ocAyjb"
       },
       "artists": [
         {
-          "name": "The Stone Roses",
-          "url": "https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d"
+          "name": "Echo & the Bunnymen",
+          "url": "https://open.spotify.com/artist/0fgYKF9Avljex0L9Wt5b8Z"
         }
       ],
-      "duration_ms": 594453,
-      "name": "Fools Gold - Remastered",
-      "url": "https://open.spotify.com/track/2mv6GY70UsHiTCGQZ4JfgC"
+      "duration_ms": 346280,
+      "name": "The Killing Moon",
+      "url": "https://open.spotify.com/track/15049rGLXHwrWtE4euUb5C"
     },
     {
       "added_at": "2018-12-12 10:56:53",
@@ -827,22 +827,6 @@
     {
       "added_at": "2018-12-12 10:56:53",
       "album": {
-        "name": "Songs to Learn & Sing",
-        "url": "https://open.spotify.com/album/0VYyqjM5H2sXj6z8ocAyjb"
-      },
-      "artists": [
-        {
-          "name": "Echo & the Bunnymen",
-          "url": "https://open.spotify.com/artist/0fgYKF9Avljex0L9Wt5b8Z"
-        }
-      ],
-      "duration_ms": 346280,
-      "name": "The Killing Moon",
-      "url": "https://open.spotify.com/track/15049rGLXHwrWtE4euUb5C"
-    },
-    {
-      "added_at": "2018-12-12 10:56:53",
-      "album": {
         "name": "Stereo-Typical: A's, B's & Rarities",
         "url": "https://open.spotify.com/album/0EKaJQaxiszKS8DBUDhbtz"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 219306,
       "name": "Ghost Town",
       "url": "https://open.spotify.com/track/6ewN9MaFbi78oDLT9wYDgn"
+    },
+    {
+      "added_at": "2019-08-02 12:25:08",
+      "album": {
+        "name": "The Stone Roses",
+        "url": "https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw"
+      },
+      "artists": [
+        {
+          "name": "The Stone Roses",
+          "url": "https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d"
+        }
+      ],
+      "duration_ms": 594453,
+      "name": "Fools Gold - Remastered",
+      "url": "https://open.spotify.com/track/2mv6GY70UsHiTCGQZ4JfgC"
     },
     {
       "added_at": "2018-12-12 10:56:53",
@@ -1017,22 +1017,6 @@
       "url": "https://open.spotify.com/track/1K1TFdBh7NrDyKiwiJEmsy"
     },
     {
-      "added_at": "2019-08-01 09:50:38",
-      "album": {
-        "name": "Night Time",
-        "url": "https://open.spotify.com/album/2qcwXvluk9iFwNNg4eDBXm"
-      },
-      "artists": [
-        {
-          "name": "Killing Joke",
-          "url": "https://open.spotify.com/artist/0Zy4ncr8h1jd7Nzr9946fD"
-        }
-      ],
-      "duration_ms": 239280,
-      "name": "Eighties - 2007 Digital Remaster",
-      "url": "https://open.spotify.com/track/21T9lWigjSIMg9uD6ZfRnQ"
-    },
-    {
       "added_at": "2018-12-12 10:56:53",
       "album": {
         "name": "Shabooh Shoobah",
@@ -1047,6 +1031,22 @@
       "duration_ms": 266026,
       "name": "Don't Change",
       "url": "https://open.spotify.com/track/6ck0CGe9BN9gW5oMmzbhs9"
+    },
+    {
+      "added_at": "2019-08-01 09:50:38",
+      "album": {
+        "name": "Night Time",
+        "url": "https://open.spotify.com/album/2qcwXvluk9iFwNNg4eDBXm"
+      },
+      "artists": [
+        {
+          "name": "Killing Joke",
+          "url": "https://open.spotify.com/artist/0Zy4ncr8h1jd7Nzr9946fD"
+        }
+      ],
+      "duration_ms": 239280,
+      "name": "Eighties - 2007 Digital Remaster",
+      "url": "https://open.spotify.com/track/21T9lWigjSIMg9uD6ZfRnQ"
     },
     {
       "added_at": "2019-08-02 12:01:33",
@@ -1385,22 +1385,6 @@
       "url": "https://open.spotify.com/track/1NXHwS75sCmkMZAE0zvwl0"
     },
     {
-      "added_at": "2018-12-12 10:56:53",
-      "album": {
-        "name": "ESP: The 808 State Effect",
-        "url": "https://open.spotify.com/album/0mwlWFUpsVDeDw5kkUlDzV"
-      },
-      "artists": [
-        {
-          "name": "808 State",
-          "url": "https://open.spotify.com/artist/7hFdUW64G4iU1tz46ITRfN"
-        }
-      ],
-      "duration_ms": 351400,
-      "name": "Pacific State",
-      "url": "https://open.spotify.com/track/2h7w0KHwHbx4WbG6WxjO7U"
-    },
-    {
       "added_at": "2019-08-01 09:13:54",
       "album": {
         "name": "Floodland",
@@ -1419,18 +1403,18 @@
     {
       "added_at": "2018-12-12 10:56:53",
       "album": {
-        "name": "Upstairs At Eric's",
-        "url": "https://open.spotify.com/album/47FOg0GaQDPGTbBTHDXg9V"
+        "name": "ESP: The 808 State Effect",
+        "url": "https://open.spotify.com/album/0mwlWFUpsVDeDw5kkUlDzV"
       },
       "artists": [
         {
-          "name": "Yazoo",
-          "url": "https://open.spotify.com/artist/1G1mX30GpUJqOr1QU2eBSs"
+          "name": "808 State",
+          "url": "https://open.spotify.com/artist/7hFdUW64G4iU1tz46ITRfN"
         }
       ],
-      "duration_ms": 191306,
-      "name": "Don't Go",
-      "url": "https://open.spotify.com/track/3KuAa8Y79xlfJgYtBKbynY"
+      "duration_ms": 351400,
+      "name": "Pacific State",
+      "url": "https://open.spotify.com/track/2h7w0KHwHbx4WbG6WxjO7U"
     },
     {
       "added_at": "2018-12-12 10:56:53",
@@ -1447,6 +1431,22 @@
       "duration_ms": 190333,
       "name": "Mirror In the Bathroom",
       "url": "https://open.spotify.com/track/3LUhdkixxrrqv3nfNfkINe"
+    },
+    {
+      "added_at": "2018-12-12 10:56:53",
+      "album": {
+        "name": "Upstairs At Eric's",
+        "url": "https://open.spotify.com/album/47FOg0GaQDPGTbBTHDXg9V"
+      },
+      "artists": [
+        {
+          "name": "Yazoo",
+          "url": "https://open.spotify.com/artist/1G1mX30GpUJqOr1QU2eBSs"
+        }
+      ],
+      "duration_ms": 191306,
+      "name": "Don't Go",
+      "url": "https://open.spotify.com/track/3KuAa8Y79xlfJgYtBKbynY"
     },
     {
       "added_at": "2018-12-12 10:56:53",
@@ -1497,22 +1497,6 @@
       "url": "https://open.spotify.com/track/00cn1ynXQhURwsgv69fN0b"
     },
     {
-      "added_at": "2020-05-06 11:30:43",
-      "album": {
-        "name": "Darklands (Expanded Version)",
-        "url": "https://open.spotify.com/album/5cFb5EJLTQ7u6YuGE922tu"
-      },
-      "artists": [
-        {
-          "name": "The Jesus and Mary Chain",
-          "url": "https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs"
-        }
-      ],
-      "duration_ms": 239621,
-      "name": "April Skies",
-      "url": "https://open.spotify.com/track/7hs0Q5T9oyYMuGg4EQZenj"
-    },
-    {
       "added_at": "2018-12-12 10:56:53",
       "album": {
         "name": "Some Great Reward (2006 Remaster)",
@@ -1527,6 +1511,22 @@
       "duration_ms": 232080,
       "name": "People Are People - 2006 Remaster",
       "url": "https://open.spotify.com/track/3GREm6zSHwKZsJxl0hqbAQ"
+    },
+    {
+      "added_at": "2020-05-06 11:30:43",
+      "album": {
+        "name": "Darklands (Expanded Version)",
+        "url": "https://open.spotify.com/album/5cFb5EJLTQ7u6YuGE922tu"
+      },
+      "artists": [
+        {
+          "name": "The Jesus and Mary Chain",
+          "url": "https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs"
+        }
+      ],
+      "duration_ms": 239621,
+      "name": "April Skies",
+      "url": "https://open.spotify.com/track/7hs0Q5T9oyYMuGg4EQZenj"
     },
     {
       "added_at": "2018-12-12 10:56:53",
@@ -1641,22 +1641,6 @@
       "url": "https://open.spotify.com/track/42B78nSUeYYpdzmeWciyPM"
     },
     {
-      "added_at": "2022-03-31 16:07:57",
-      "album": {
-        "name": "New Gold Dream (81/82/83/84)",
-        "url": "https://open.spotify.com/album/6dn2O3un8SV0QZ421jDdEj"
-      },
-      "artists": [
-        {
-          "name": "Simple Minds",
-          "url": "https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj"
-        }
-      ],
-      "duration_ms": 277688,
-      "name": "Someone Somewhere (In Summertime)",
-      "url": "https://open.spotify.com/track/4wJq75UFYtFYbMO2KBBnlw"
-    },
-    {
       "added_at": "2022-05-16 14:07:54",
       "album": {
         "name": "New York",
@@ -1671,6 +1655,22 @@
       "duration_ms": 209266,
       "name": "Dirty Blvd.",
       "url": "https://open.spotify.com/track/4TDLfAmx45EpSiQYG6hCzT"
+    },
+    {
+      "added_at": "2022-03-31 16:07:57",
+      "album": {
+        "name": "New Gold Dream (81/82/83/84)",
+        "url": "https://open.spotify.com/album/6dn2O3un8SV0QZ421jDdEj"
+      },
+      "artists": [
+        {
+          "name": "Simple Minds",
+          "url": "https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj"
+        }
+      ],
+      "duration_ms": 277688,
+      "name": "Someone Somewhere (In Summertime)",
+      "url": "https://open.spotify.com/track/4wJq75UFYtFYbMO2KBBnlw"
     },
     {
       "added_at": "2018-12-12 10:56:53",
@@ -1721,6 +1721,22 @@
       "url": "https://open.spotify.com/track/0mxe1uof85IOstFsn2l2da"
     },
     {
+      "added_at": "2019-08-01 09:50:38",
+      "album": {
+        "name": "The Stars We Are",
+        "url": "https://open.spotify.com/album/3HIPNQXH9gtsvrlt74dUXR"
+      },
+      "artists": [
+        {
+          "name": "Marc Almond",
+          "url": "https://open.spotify.com/artist/7nBZYpVAH6bD0QlD7Mpil7"
+        }
+      ],
+      "duration_ms": 261687,
+      "name": "Tears Run Rings",
+      "url": "https://open.spotify.com/track/7jEQ43V8AA7UQ6NcG4x1ki"
+    },
+    {
       "added_at": "2018-12-12 10:56:53",
       "album": {
         "name": "Non-Stop Erotic Cabaret",
@@ -1769,20 +1785,20 @@
       "url": "https://open.spotify.com/track/5O7RVmqK3AYoFfyeafxOqH"
     },
     {
-      "added_at": "2019-08-01 09:50:38",
+      "added_at": "2018-12-12 10:56:53",
       "album": {
-        "name": "The Stars We Are",
-        "url": "https://open.spotify.com/album/3HIPNQXH9gtsvrlt74dUXR"
+        "name": "Viva Hate (2014 Remaster)",
+        "url": "https://open.spotify.com/album/0s5wo4mTZ5bJAgqiPBO3ou"
       },
       "artists": [
         {
-          "name": "Marc Almond",
-          "url": "https://open.spotify.com/artist/7nBZYpVAH6bD0QlD7Mpil7"
+          "name": "Morrissey",
+          "url": "https://open.spotify.com/artist/3iTsJGG39nMg9YiolUgLMQ"
         }
       ],
-      "duration_ms": 261687,
-      "name": "Tears Run Rings",
-      "url": "https://open.spotify.com/track/7jEQ43V8AA7UQ6NcG4x1ki"
+      "duration_ms": 215266,
+      "name": "Everyday Is Like Sunday - 2011 Remaster",
+      "url": "https://open.spotify.com/track/0lVdukU9ejbFQwZIhg47hx"
     },
     {
       "added_at": "2019-08-02 12:01:33",
@@ -1815,22 +1831,6 @@
       "duration_ms": 295373,
       "name": "Somewhere Down The Crazy River",
       "url": "https://open.spotify.com/track/4RiC0i1VIybdCtTIVhqVVH"
-    },
-    {
-      "added_at": "2018-12-12 10:56:53",
-      "album": {
-        "name": "Viva Hate (2014 Remaster)",
-        "url": "https://open.spotify.com/album/0s5wo4mTZ5bJAgqiPBO3ou"
-      },
-      "artists": [
-        {
-          "name": "Morrissey",
-          "url": "https://open.spotify.com/artist/3iTsJGG39nMg9YiolUgLMQ"
-        }
-      ],
-      "duration_ms": 215266,
-      "name": "Everyday Is Like Sunday - 2011 Remaster",
-      "url": "https://open.spotify.com/track/0lVdukU9ejbFQwZIhg47hx"
     },
     {
       "added_at": "2018-12-12 10:56:53",
@@ -1989,22 +1989,6 @@
       "url": "https://open.spotify.com/track/1UWbBFaZNksb3AmgldkprR"
     },
     {
-      "added_at": "2019-08-01 09:50:38",
-      "album": {
-        "name": "Sparkle In The Rain",
-        "url": "https://open.spotify.com/album/2fuGLrZ4Ju22UpWqGg5cDW"
-      },
-      "artists": [
-        {
-          "name": "Simple Minds",
-          "url": "https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj"
-        }
-      ],
-      "duration_ms": 289920,
-      "name": "Waterfront - Remastered 2002",
-      "url": "https://open.spotify.com/track/3Mw3lZoplwJrVE5Qz7XRUx"
-    },
-    {
       "added_at": "2019-08-02 12:01:33",
       "album": {
         "name": "Private Revolution",
@@ -2023,6 +2007,22 @@
       "duration_ms": 268493,
       "name": "Ship of Fools",
       "url": "https://open.spotify.com/track/3ndKgw7LvKO7zIk1rgOQJ2"
+    },
+    {
+      "added_at": "2019-08-01 09:50:38",
+      "album": {
+        "name": "Sparkle In The Rain",
+        "url": "https://open.spotify.com/album/2fuGLrZ4Ju22UpWqGg5cDW"
+      },
+      "artists": [
+        {
+          "name": "Simple Minds",
+          "url": "https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj"
+        }
+      ],
+      "duration_ms": 289920,
+      "name": "Waterfront - Remastered 2002",
+      "url": "https://open.spotify.com/track/3Mw3lZoplwJrVE5Qz7XRUx"
     },
     {
       "added_at": "2019-08-01 09:50:38",
@@ -2105,22 +2105,6 @@
       "url": "https://open.spotify.com/track/7ovOXoXhWyJleZfOfsANyp"
     },
     {
-      "added_at": "2018-12-12 10:56:53",
-      "album": {
-        "name": "The Golden Age Of Wireless",
-        "url": "https://open.spotify.com/album/3V177EgHtR65iBY1NHZxp4"
-      },
-      "artists": [
-        {
-          "name": "Thomas Dolby",
-          "url": "https://open.spotify.com/artist/2Uz58cSxlJgefDaSikxYQ7"
-        }
-      ],
-      "duration_ms": 221266,
-      "name": "She Blinded Me With Science",
-      "url": "https://open.spotify.com/track/6HYf9ZEZKuxy581QVmYA6c"
-    },
-    {
       "added_at": "2020-05-06 11:30:43",
       "album": {
         "name": "Chris Isaak",
@@ -2135,6 +2119,22 @@
       "duration_ms": 253906,
       "name": "Lie To Me",
       "url": "https://open.spotify.com/track/0fnY4MQat2zJsb8FKyLM9D"
+    },
+    {
+      "added_at": "2018-12-12 10:56:53",
+      "album": {
+        "name": "The Golden Age Of Wireless",
+        "url": "https://open.spotify.com/album/3V177EgHtR65iBY1NHZxp4"
+      },
+      "artists": [
+        {
+          "name": "Thomas Dolby",
+          "url": "https://open.spotify.com/artist/2Uz58cSxlJgefDaSikxYQ7"
+        }
+      ],
+      "duration_ms": 221266,
+      "name": "She Blinded Me With Science",
+      "url": "https://open.spotify.com/track/6HYf9ZEZKuxy581QVmYA6c"
     },
     {
       "added_at": "2019-08-01 09:50:38",

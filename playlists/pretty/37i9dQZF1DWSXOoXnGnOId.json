@@ -1,12 +1,12 @@
 {
   "description": "A new take on the freshest dance tracks with remixes from Dubdogz & J\u00d8RD, Sonny Fodera, LP Giobbi and more!",
-  "num_followers": 13977,
+  "num_followers": 13992,
   "original_name": "mint Remix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NTc2NTI2MCwwMDAwMDAwMGE2Njg2MjkwMmJhOWVmNzA5ODYzOTEzYmFmMGJhNGZj",
+  "snapshot_id": "MTY0NTc2NTI2MCwwMDAwMDAwMGEyNjEzNmNiZjhmOTRhODg3MzViNjM4NWMzZWM1MDUy",
   "tracks": [
     {
       "added_at": "2021-07-30 04:00:00",
@@ -219,26 +219,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Take Your Time (D.O.D Remix)",
-        "url": "https://open.spotify.com/album/4O3plD4j9hEQiFr5DkISNB"
-      },
-      "artists": [
-        {
-          "name": "ARTY",
-          "url": "https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO"
-        },
-        {
-          "name": "D.O.D",
-          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
-        }
-      ],
-      "duration_ms": 197402,
-      "name": "Take Your Time - D.O.D Remix",
-      "url": "https://open.spotify.com/track/3hmOHDyG0ar79kBeRwD2V4"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "Roses (Imanbek Remix)",
         "url": "https://open.spotify.com/album/6XcYTEonLIpg9NpAbJnqrC"
       },
@@ -255,6 +235,26 @@
       "duration_ms": 176218,
       "name": "Roses - Imanbek Remix",
       "url": "https://open.spotify.com/track/2Wo6QQD1KMDWeFkkjLqwx5"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "Take Your Time (D.O.D Remix)",
+        "url": "https://open.spotify.com/album/4O3plD4j9hEQiFr5DkISNB"
+      },
+      "artists": [
+        {
+          "name": "ARTY",
+          "url": "https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO"
+        },
+        {
+          "name": "D.O.D",
+          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
+        }
+      ],
+      "duration_ms": 197402,
+      "name": "Take Your Time - D.O.D Remix",
+      "url": "https://open.spotify.com/track/3hmOHDyG0ar79kBeRwD2V4"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -679,30 +679,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Diplo (Deluxe)",
-        "url": "https://open.spotify.com/album/6zPSpPHyyOkbT8zDy7Kzl7"
-      },
-      "artists": [
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        },
-        {
-          "name": "SIDEPIECE",
-          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
-        },
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-        }
-      ],
-      "duration_ms": 263414,
-      "name": "On My Mind - Purple Disco Machine Remix",
-      "url": "https://open.spotify.com/track/6geg6XWPAxmwlVl8ZNYns0"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "Feed The Fire (Kassian Remix)",
         "url": "https://open.spotify.com/album/7wxfJfJN8u2TrkP8dCpOgb"
       },
@@ -743,6 +719,30 @@
       "duration_ms": 265570,
       "name": "Trouble\u2019s Coming - Purple Disco Machine Remix",
       "url": "https://open.spotify.com/track/7cpmk4IuNSWfg5XOrr2v8V"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "Diplo (Deluxe)",
+        "url": "https://open.spotify.com/album/6zPSpPHyyOkbT8zDy7Kzl7"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "SIDEPIECE",
+          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
+        },
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        }
+      ],
+      "duration_ms": 263414,
+      "name": "On My Mind - Purple Disco Machine Remix",
+      "url": "https://open.spotify.com/track/6geg6XWPAxmwlVl8ZNYns0"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -1351,26 +1351,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Alive (Remixes)",
-        "url": "https://open.spotify.com/album/33HXJK5tOxTNKdKi7R2b7V"
-      },
-      "artists": [
-        {
-          "name": "R\u00dcF\u00dcS DU SOL",
-          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
-        },
-        {
-          "name": "Solomun",
-          "url": "https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC"
-        }
-      ],
-      "duration_ms": 269508,
-      "name": "Alive - Solomun Remix Edit",
-      "url": "https://open.spotify.com/track/496cbjL6L8hREbKLyUBUJ7"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "LIES (VIP Mix)",
         "url": "https://open.spotify.com/album/4sDmw1vDLys1zBOqwuM98K"
       },
@@ -1387,6 +1367,26 @@
       "duration_ms": 189747,
       "name": "LIES - VIP Mix",
       "url": "https://open.spotify.com/track/67hioVhWrtqUF5WOZpI2V6"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "Alive (Remixes)",
+        "url": "https://open.spotify.com/album/33HXJK5tOxTNKdKi7R2b7V"
+      },
+      "artists": [
+        {
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+        },
+        {
+          "name": "Solomun",
+          "url": "https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC"
+        }
+      ],
+      "duration_ms": 269508,
+      "name": "Alive - Solomun Remix Edit",
+      "url": "https://open.spotify.com/track/496cbjL6L8hREbKLyUBUJ7"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -1691,6 +1691,30 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
+        "name": "Underwater (Dombresky Remix)",
+        "url": "https://open.spotify.com/album/1nc7oYlY0Dvy5bCOdEzb25"
+      },
+      "artists": [
+        {
+          "name": "Anabel Englund",
+          "url": "https://open.spotify.com/artist/3ky8xBRraNNzxzXEw6Ga0c"
+        },
+        {
+          "name": "MK",
+          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+        },
+        {
+          "name": "Dombresky",
+          "url": "https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN"
+        }
+      ],
+      "duration_ms": 161500,
+      "name": "Underwater - Dombresky Remix",
+      "url": "https://open.spotify.com/track/2Dg1l36X48GhvtBAZKna9z"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
         "name": "Where The Lights Are Low (TCTS Remix)",
         "url": "https://open.spotify.com/album/0nygPueuIT8Z6s12xrBDnW"
       },
@@ -1715,30 +1739,6 @@
       "duration_ms": 178064,
       "name": "Where The Lights Are Low - TCTS Remix",
       "url": "https://open.spotify.com/track/6wYgm3Bo3cEkubgH3ilXXa"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
-        "name": "Underwater (Dombresky Remix)",
-        "url": "https://open.spotify.com/album/1nc7oYlY0Dvy5bCOdEzb25"
-      },
-      "artists": [
-        {
-          "name": "Anabel Englund",
-          "url": "https://open.spotify.com/artist/3ky8xBRraNNzxzXEw6Ga0c"
-        },
-        {
-          "name": "MK",
-          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
-        },
-        {
-          "name": "Dombresky",
-          "url": "https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN"
-        }
-      ],
-      "duration_ms": 161500,
-      "name": "Underwater - Dombresky Remix",
-      "url": "https://open.spotify.com/track/2Dg1l36X48GhvtBAZKna9z"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -1971,30 +1971,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Paradise (Wh0 Remix)",
-        "url": "https://open.spotify.com/album/5tVjbyHVsxtt9g1rfRO6F1"
-      },
-      "artists": [
-        {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
-        },
-        {
-          "name": "Dermot Kennedy",
-          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
-        },
-        {
-          "name": "Wh0",
-          "url": "https://open.spotify.com/artist/132Hhe61bhvXtkygENHZHA"
-        }
-      ],
-      "duration_ms": 222720,
-      "name": "Paradise - Wh0 Remix",
-      "url": "https://open.spotify.com/track/0y6xlnBPkvNZ2ohAqi1Pzh"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "Hadal Ahbek (R3HAB Club Remix)",
         "url": "https://open.spotify.com/album/4kPXQR5D2nzv37h8IVKFpd"
       },
@@ -2035,6 +2011,30 @@
       "duration_ms": 332691,
       "name": "Pomegranate - Jay Robinson Remix",
       "url": "https://open.spotify.com/track/7v94HEWxH9qdM5eAXcY2lR"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "Paradise (Wh0 Remix)",
+        "url": "https://open.spotify.com/album/5tVjbyHVsxtt9g1rfRO6F1"
+      },
+      "artists": [
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        },
+        {
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+        },
+        {
+          "name": "Wh0",
+          "url": "https://open.spotify.com/artist/132Hhe61bhvXtkygENHZHA"
+        }
+      ],
+      "duration_ms": 222720,
+      "name": "Paradise - Wh0 Remix",
+      "url": "https://open.spotify.com/track/0y6xlnBPkvNZ2ohAqi1Pzh"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -2151,26 +2151,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Purple Hat (KC Lights Remix)",
-        "url": "https://open.spotify.com/album/60sAv1uLAQKTLvf50VKLUA"
-      },
-      "artists": [
-        {
-          "name": "Sofi Tukker",
-          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
-        },
-        {
-          "name": "KC Lights",
-          "url": "https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ"
-        }
-      ],
-      "duration_ms": 209959,
-      "name": "Purple Hat - KC Lights Remix",
-      "url": "https://open.spotify.com/track/3NtlZBjTJNggbfNFzTw0z7"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "You've Done Enough (with DRAMA) [The Purple Prince Version]",
         "url": "https://open.spotify.com/album/2bmFRz4d6TzkxrYLF89Mcn"
       },
@@ -2187,6 +2167,26 @@
       "duration_ms": 185652,
       "name": "You've Done Enough (with DRAMA) - The Purple Prince Version",
       "url": "https://open.spotify.com/track/4lxbbQi7S7wVZCuY34xRjv"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "Purple Hat (KC Lights Remix)",
+        "url": "https://open.spotify.com/album/60sAv1uLAQKTLvf50VKLUA"
+      },
+      "artists": [
+        {
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        },
+        {
+          "name": "KC Lights",
+          "url": "https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ"
+        }
+      ],
+      "duration_ms": 209959,
+      "name": "Purple Hat - KC Lights Remix",
+      "url": "https://open.spotify.com/track/3NtlZBjTJNggbfNFzTw0z7"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -2235,6 +2235,30 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
+        "name": "Thing Called Love (Oliver Heldens Remix)",
+        "url": "https://open.spotify.com/album/1BCtDubQR4uNvXPEngj5YM"
+      },
+      "artists": [
+        {
+          "name": "Above & Beyond",
+          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
+        },
+        {
+          "name": "Richard Bedford",
+          "url": "https://open.spotify.com/artist/5JbD3IL6449LrMT8ct6KTB"
+        },
+        {
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+        }
+      ],
+      "duration_ms": 338442,
+      "name": "Thing Called Love - Oliver Heldens Remix",
+      "url": "https://open.spotify.com/track/7BsRNfEsuGOr0cKo0GaQNN"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
         "name": "Keleketla! Remixes",
         "url": "https://open.spotify.com/album/4ZRyrLDXFUoVopvJ5ZKnMh"
       },
@@ -2275,30 +2299,6 @@
       "duration_ms": 336954,
       "name": "Papua Merdeka - Machinedrum Remix",
       "url": "https://open.spotify.com/track/1yfVygcEjrdjTp5LEi71at"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
-        "name": "Thing Called Love (Oliver Heldens Remix)",
-        "url": "https://open.spotify.com/album/1BCtDubQR4uNvXPEngj5YM"
-      },
-      "artists": [
-        {
-          "name": "Above & Beyond",
-          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
-        },
-        {
-          "name": "Richard Bedford",
-          "url": "https://open.spotify.com/artist/5JbD3IL6449LrMT8ct6KTB"
-        },
-        {
-          "name": "Oliver Heldens",
-          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
-        }
-      ],
-      "duration_ms": 338442,
-      "name": "Thing Called Love - Oliver Heldens Remix",
-      "url": "https://open.spotify.com/track/7BsRNfEsuGOr0cKo0GaQNN"
     },
     {
       "added_at": "2021-07-30 04:00:00",

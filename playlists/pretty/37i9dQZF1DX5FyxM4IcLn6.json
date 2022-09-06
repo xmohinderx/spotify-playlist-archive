@@ -1,12 +1,12 @@
 {
   "description": "The official playlist for the 64rd GRAMMY Awards.",
-  "num_followers": 121348,
+  "num_followers": 121345,
   "original_name": "The GRAMMYs Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODU5Mzc3MSwwMDAwMDAwMGQ3M2JkMTc2N2MyNTFjYTBmNDZmMzNjYmYyMTQ3MmYy",
+  "snapshot_id": "MTY0ODU5Mzc3MSwwMDAwMDAwMGJmMGI2ZGUyODBjM2M2Mzk1ZWUyNDhkZjZiZWNlMGZj",
   "tracks": [
     {
       "added_at": "2022-03-29 19:11:15",
@@ -775,22 +775,6 @@
     {
       "added_at": "2022-03-29 19:11:15",
       "album": {
-        "name": "If I Can\u2019t Have Love, I Want Power (Extended)",
-        "url": "https://open.spotify.com/album/0yMLTRxwcDN5XHjP5w8jAH"
-      },
-      "artists": [
-        {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
-        }
-      ],
-      "duration_ms": 231998,
-      "name": "Nightmare",
-      "url": "https://open.spotify.com/track/12ZCF1YHZTtygHyl1h0wEe"
-    },
-    {
-      "added_at": "2022-03-29 19:11:15",
-      "album": {
         "name": "Medicine At Midnight",
         "url": "https://open.spotify.com/album/1FyNZvJ6MHO01kl3ySMPdc"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 253840,
       "name": "Waiting On A War",
       "url": "https://open.spotify.com/track/4tA8lpQoWkMRWOZ29HbR86"
+    },
+    {
+      "added_at": "2022-03-29 19:11:15",
+      "album": {
+        "name": "If I Can\u2019t Have Love, I Want Power (Extended)",
+        "url": "https://open.spotify.com/album/0yMLTRxwcDN5XHjP5w8jAH"
+      },
+      "artists": [
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        }
+      ],
+      "duration_ms": 231998,
+      "name": "Nightmare",
+      "url": "https://open.spotify.com/track/12ZCF1YHZTtygHyl1h0wEe"
     },
     {
       "added_at": "2022-03-29 19:11:15",
@@ -999,26 +999,6 @@
     {
       "added_at": "2022-03-29 22:42:51",
       "album": {
-        "name": "Fight For You (From the Original Motion Picture \"Judas and the Black Messiah\")",
-        "url": "https://open.spotify.com/album/1K2PS79KFV29pQe7zfyoyP"
-      },
-      "artists": [
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        },
-        {
-          "name": "Judas and the Black Messiah",
-          "url": "https://open.spotify.com/artist/33eHnoVi12zOWe8MdqRYsR"
-        }
-      ],
-      "duration_ms": 270710,
-      "name": "Fight For You - From the Original Motion Picture \"Judas and the Black Messiah\"",
-      "url": "https://open.spotify.com/track/2UJsKjM595pEyWUcd8JEIR"
-    },
-    {
-      "added_at": "2022-03-29 22:42:51",
-      "album": {
         "name": "The Marfa Tapes",
         "url": "https://open.spotify.com/album/0Jck41FMi9tJooKSHApv9p"
       },
@@ -1039,6 +1019,26 @@
       "duration_ms": 150186,
       "name": "In His Arms",
       "url": "https://open.spotify.com/track/0ddFRjXyLgrNulsOwGJKJZ"
+    },
+    {
+      "added_at": "2022-03-29 22:42:51",
+      "album": {
+        "name": "Fight For You (From the Original Motion Picture \"Judas and the Black Messiah\")",
+        "url": "https://open.spotify.com/album/1K2PS79KFV29pQe7zfyoyP"
+      },
+      "artists": [
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        },
+        {
+          "name": "Judas and the Black Messiah",
+          "url": "https://open.spotify.com/artist/33eHnoVi12zOWe8MdqRYsR"
+        }
+      ],
+      "duration_ms": 270710,
+      "name": "Fight For You - From the Original Motion Picture \"Judas and the Black Messiah\"",
+      "url": "https://open.spotify.com/track/2UJsKjM595pEyWUcd8JEIR"
     },
     {
       "added_at": "2022-03-29 19:11:15",
@@ -1089,22 +1089,6 @@
       "url": "https://open.spotify.com/track/3kdBJj2IH9h4urhoAlWWiZ"
     },
     {
-      "added_at": "2022-03-29 19:11:15",
-      "album": {
-        "name": "Renewal",
-        "url": "https://open.spotify.com/album/2as5ea7TPPkXI2OINaMjZR"
-      },
-      "artists": [
-        {
-          "name": "Billy Strings",
-          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
-        }
-      ],
-      "duration_ms": 255093,
-      "name": "Love And Regret",
-      "url": "https://open.spotify.com/track/0BdSxc3R86Jw7wOToh19b8"
-    },
-    {
       "added_at": "2022-03-29 22:42:51",
       "album": {
         "name": "Old Church Basement",
@@ -1131,6 +1115,22 @@
       "duration_ms": 254237,
       "name": "Wait On You (Reprise) (feat. Dante Bowe & Chandler Moore)",
       "url": "https://open.spotify.com/track/11kFlEEi5FR2kHDtmVgMLo"
+    },
+    {
+      "added_at": "2022-03-29 19:11:15",
+      "album": {
+        "name": "Renewal",
+        "url": "https://open.spotify.com/album/2as5ea7TPPkXI2OINaMjZR"
+      },
+      "artists": [
+        {
+          "name": "Billy Strings",
+          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
+        }
+      ],
+      "duration_ms": 255093,
+      "name": "Love And Regret",
+      "url": "https://open.spotify.com/track/0BdSxc3R86Jw7wOToh19b8"
     },
     {
       "added_at": "2022-03-29 19:11:15",

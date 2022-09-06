@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1jelEUwXFe9YeEjdAR3aC8.md) - [plain]
 
 > Chill songs by Stephen Sanchez, Billie Eilish, and more! Chill out to these indie, pop, and folk tracks, and discover new favorites! Cover: Billie Eilish
 
-[digster.fm](https://open.spotify.com/user/digster.fm) - 114,894 likes - 61 songs - 3 hr 37 min
+[digster.fm](https://open.spotify.com/user/digster.fm) - 114,892 likes - 61 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > 試著拋開所有煩惱，配上一點特意的小確幸，這一刻只屬於你...
 
-247 songs - 13 hr 35 min - [published](https://open.spotify.com/playlist/70F1v4zvuq5j5onBRYZuyS)
+248 songs - 13 hr 39 min - [published](https://open.spotify.com/playlist/70F1v4zvuq5j5onBRYZuyS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,6 +180,7 @@
 | [Play Me Something Nice](https://open.spotify.com/track/4YEoimxmDNIwTDaG6jZmcg) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Play Me Something Nice](https://open.spotify.com/album/2noMzRAfv6SQUWON9GfM5d) | 3:21 | 2022-07-25 |  |
 | [Pop Song](https://open.spotify.com/track/6tDbJIKGcfSWElhmtt6665) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Ugly Season](https://open.spotify.com/album/6rFFWK98d8hhdSYgaOxI5L) | 5:05 | 2022-07-25 | 2022-08-07 |
 | [Precious](https://open.spotify.com/track/12UXsRRYiWscqQWp4oV53F) | [JAIE](https://open.spotify.com/artist/74Zk4BaTpscIf6k04UoCds) | [Precious](https://open.spotify.com/album/4sguN40UxE3s6hCUhYaL23) | 2:25 | 2022-06-06 | 2022-07-29 |
+| [Queen Space \(with Summer Walker\)](https://open.spotify.com/track/3Gz3Tl8TicQbsR0OGvmc6C) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Queen Space \(with Summer Walker\)](https://open.spotify.com/album/6juUcr1BHeBUg2ipoLI0mV) | 3:50 | 2022-09-05 |  |
 | [R.I.P\. \(feat\. Trippie Redd\)](https://open.spotify.com/track/4wJ8dJKBAxdDe5cUx8K779) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [BALLADS 1](https://open.spotify.com/album/34GQP3dILpyCN018y2k61L) | 2:38 | 2022-07-25 |  |
 | [Raindrops](https://open.spotify.com/track/3X95bvlwEInN3NML0QSSa1) | [Sezairi](https://open.spotify.com/artist/51sob9QZyfLff9XqvYluN5) | [Raindrops](https://open.spotify.com/album/6CzeG9L4qCY3Y8boHCXspa) | 4:30 | 2022-06-06 | 2022-07-29 |
 | [Real](https://open.spotify.com/track/4RJYpycLbIWK8FQB16VnHZ) | [ASTN](https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co) | [Real](https://open.spotify.com/album/44coZLCjYCsOWUogdZSIaG) | 2:43 | 2022-07-25 |  |
@@ -216,7 +217,7 @@
 | [The Space Between Us](https://open.spotify.com/track/6OLWjfBXWoGS5ft8IFzcjq) | [Saint Fiction](https://open.spotify.com/artist/6MD05zpi26c0tir83S7Rpd) | [The Space Between Us](https://open.spotify.com/album/4ahRpyPIbiyUpd55Ry3HnJ) | 3:17 | 2022-06-06 | 2022-07-28 |
 | [Thinkin Bout You](https://open.spotify.com/track/5kx5NtuqynfuDqUppK4qa4) | [KATIE](https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO) | [LOG](https://open.spotify.com/album/7HtutouCfFdDPs3xO9EIeU) | 4:23 | 2022-06-06 | 2022-07-28 |
 | [Thinkin Bout You](https://open.spotify.com/track/6xwQS49tTYgLQNPGnfWV2H) | [KATIE](https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO) | [LOG](https://open.spotify.com/album/43gRZhkhNa92R9NHvTIPgo) | 4:23 | 2022-07-25 |  |
-| [This Could Be \- Chill Mix](https://open.spotify.com/track/1fMh032FtBwJDk1iGurH9Y) | [Duke & Jones](https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV) | [This Could Be \(Chill Mix\)](https://open.spotify.com/album/1EePdJthRN92skeHT0hzev) | 2:58 | 2022-07-25 |  |
+| [This Could Be \- Chill Mix](https://open.spotify.com/track/1fMh032FtBwJDk1iGurH9Y) | [Duke & Jones](https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV) | [This Could Be \(Chill Mix\)](https://open.spotify.com/album/1EePdJthRN92skeHT0hzev) | 2:58 | 2022-07-25 | 2022-09-06 |
 | [This Time, Tomorrow](https://open.spotify.com/track/23Str39NItHfJo2SGUgMd1) | [Linying](https://open.spotify.com/artist/5IIP34JBy1d8kBYlAGnRaW) | [There Could Be Wreckage Here](https://open.spotify.com/album/3niYGnf8XfOqB5d8TdqTv3) | 3:10 | 2022-06-06 | 2022-07-29 |
 | [Thursday](https://open.spotify.com/track/0B2Ujrs9t4c1XvNzrECwLt) | [Axel Brizzy](https://open.spotify.com/artist/25WvXcmQl42yfbnOlfM3JB), [Marian Carmel](https://open.spotify.com/artist/5Iyx1kSKoYvJz0gCrsFLW6) | [Thursday](https://open.spotify.com/album/0bUXmso9cdsN763cc4Ol2u) | 3:49 | 2022-06-06 | 2022-07-29 |
 | [Tides](https://open.spotify.com/track/7rRYiBxeudiHMNmgptnne9) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [Tides](https://open.spotify.com/album/2ygrwR30mOdEfqh2eJcGNY) | 3:46 | 2022-07-25 |  |

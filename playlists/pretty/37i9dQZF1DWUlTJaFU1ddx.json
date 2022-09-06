@@ -1,12 +1,12 @@
 {
   "description": "The sweet sounds of Jordan.",
-  "num_followers": 17803,
+  "num_followers": 17818,
   "original_name": "Jordan Sounds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjA0MzA3NywwMDAwMDAwMDEyMjVmZTIwYjFlZDUxMDE5MWQ1NzFhNTI0YTJhNGZh",
+  "snapshot_id": "MTY2MjA0MzA3NywwMDAwMDAwMDMyYWM4ZDJiZGY0YjUzMDBkMzI5NGRkMmY5ZjRkZTQ2",
   "tracks": [
     {
       "added_at": "2022-09-01 14:37:57",
@@ -147,38 +147,6 @@
     {
       "added_at": "2022-09-01 14:37:57",
       "album": {
-        "name": "Weino",
-        "url": "https://open.spotify.com/album/4Aq2uHcgC4Sk13QlrzKicj"
-      },
-      "artists": [
-        {
-          "name": "Dana Salah",
-          "url": "https://open.spotify.com/artist/7nQVHZnQGjMyc1HSOQW7GZ"
-        }
-      ],
-      "duration_ms": 145871,
-      "name": "Weino",
-      "url": "https://open.spotify.com/track/1feYc8vSa3y6EodevhkzYB"
-    },
-    {
-      "added_at": "2022-09-01 14:37:57",
-      "album": {
-        "name": "Yalli Betiheb Elna'na'",
-        "url": "https://open.spotify.com/album/4CdEHczQJUHdGhacWYQ6vH"
-      },
-      "artists": [
-        {
-          "name": "Toni Qattan",
-          "url": "https://open.spotify.com/artist/1IJJoAyxznu3orwXhlt3XO"
-        }
-      ],
-      "duration_ms": 209019,
-      "name": "Yalli Betiheb Elna'na'",
-      "url": "https://open.spotify.com/track/09BqNGf6vca4f2q4P0YkLF"
-    },
-    {
-      "added_at": "2022-09-01 14:37:57",
-      "album": {
         "name": "The Siren Remixes",
         "url": "https://open.spotify.com/album/5OQFefkEtKmQnpmXHmHacc"
       },
@@ -215,6 +183,38 @@
       "duration_ms": 204533,
       "name": "Nater",
       "url": "https://open.spotify.com/track/3xGfWGr12b6j86gUmhwesD"
+    },
+    {
+      "added_at": "2022-09-01 14:37:57",
+      "album": {
+        "name": "Weino",
+        "url": "https://open.spotify.com/album/4Aq2uHcgC4Sk13QlrzKicj"
+      },
+      "artists": [
+        {
+          "name": "Dana Salah",
+          "url": "https://open.spotify.com/artist/7nQVHZnQGjMyc1HSOQW7GZ"
+        }
+      ],
+      "duration_ms": 145871,
+      "name": "Weino",
+      "url": "https://open.spotify.com/track/1feYc8vSa3y6EodevhkzYB"
+    },
+    {
+      "added_at": "2022-09-01 14:37:57",
+      "album": {
+        "name": "Yalli Betiheb Elna'na'",
+        "url": "https://open.spotify.com/album/4CdEHczQJUHdGhacWYQ6vH"
+      },
+      "artists": [
+        {
+          "name": "Toni Qattan",
+          "url": "https://open.spotify.com/artist/1IJJoAyxznu3orwXhlt3XO"
+        }
+      ],
+      "duration_ms": 209019,
+      "name": "Yalli Betiheb Elna'na'",
+      "url": "https://open.spotify.com/track/09BqNGf6vca4f2q4P0YkLF"
     },
     {
       "added_at": "2022-09-01 14:37:57",
@@ -259,6 +259,22 @@
     {
       "added_at": "2022-09-01 14:37:57",
       "album": {
+        "name": "Mawali",
+        "url": "https://open.spotify.com/album/5ntiX3s1kigHbz9WqQsxyN"
+      },
+      "artists": [
+        {
+          "name": "Aziz Maraka",
+          "url": "https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU"
+        }
+      ],
+      "duration_ms": 268549,
+      "name": "Mawali",
+      "url": "https://open.spotify.com/track/6EGN0RcirTvE4HCrKNXGe0"
+    },
+    {
+      "added_at": "2022-09-01 14:37:57",
+      "album": {
         "name": "Nostalgia",
         "url": "https://open.spotify.com/album/3JNS9fh8RFw3N86GCCbZp6"
       },
@@ -287,22 +303,6 @@
       "duration_ms": 175626,
       "name": "Kounili El Musica",
       "url": "https://open.spotify.com/track/4UcpiWGup7TKr1NkqaBrQ7"
-    },
-    {
-      "added_at": "2022-09-01 14:37:57",
-      "album": {
-        "name": "Mawali",
-        "url": "https://open.spotify.com/album/5ntiX3s1kigHbz9WqQsxyN"
-      },
-      "artists": [
-        {
-          "name": "Aziz Maraka",
-          "url": "https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU"
-        }
-      ],
-      "duration_ms": 268549,
-      "name": "Mawali",
-      "url": "https://open.spotify.com/track/6EGN0RcirTvE4HCrKNXGe0"
     },
     {
       "added_at": "2022-09-01 14:37:57",
@@ -355,38 +355,6 @@
     {
       "added_at": "2022-09-01 14:37:57",
       "album": {
-        "name": "Wahad Tnean",
-        "url": "https://open.spotify.com/album/7N0irhTBjGV5StiVTw8qTt"
-      },
-      "artists": [
-        {
-          "name": "Toni Qattan",
-          "url": "https://open.spotify.com/artist/1IJJoAyxznu3orwXhlt3XO"
-        }
-      ],
-      "duration_ms": 187746,
-      "name": "Wahad Tnean",
-      "url": "https://open.spotify.com/track/0y9njiG24r8Pc7iPNuY5zl"
-    },
-    {
-      "added_at": "2022-09-01 14:37:57",
-      "album": {
-        "name": "Khusouf Al-Ard",
-        "url": "https://open.spotify.com/album/6RMRNXNTg12KwIUIxFcYay"
-      },
-      "artists": [
-        {
-          "name": "Hayajan",
-          "url": "https://open.spotify.com/artist/0ezquZkJscWDhtBZwptcKT"
-        }
-      ],
-      "duration_ms": 210777,
-      "name": "Ardon Wahed",
-      "url": "https://open.spotify.com/track/2rD1eIqfbnsCk9GJxiXQBK"
-    },
-    {
-      "added_at": "2022-09-01 14:37:57",
-      "album": {
         "name": "Nos El Bahr",
         "url": "https://open.spotify.com/album/5b7quz61hkXH51ocDuSeCp"
       },
@@ -431,6 +399,38 @@
       "duration_ms": 252295,
       "name": "Khalliha Ala Allah",
       "url": "https://open.spotify.com/track/4UiGACEtRM9N0PxuXzrVfQ"
+    },
+    {
+      "added_at": "2022-09-01 14:37:57",
+      "album": {
+        "name": "Wahad Tnean",
+        "url": "https://open.spotify.com/album/7N0irhTBjGV5StiVTw8qTt"
+      },
+      "artists": [
+        {
+          "name": "Toni Qattan",
+          "url": "https://open.spotify.com/artist/1IJJoAyxznu3orwXhlt3XO"
+        }
+      ],
+      "duration_ms": 187746,
+      "name": "Wahad Tnean",
+      "url": "https://open.spotify.com/track/0y9njiG24r8Pc7iPNuY5zl"
+    },
+    {
+      "added_at": "2022-09-01 14:37:57",
+      "album": {
+        "name": "Khusouf Al-Ard",
+        "url": "https://open.spotify.com/album/6RMRNXNTg12KwIUIxFcYay"
+      },
+      "artists": [
+        {
+          "name": "Hayajan",
+          "url": "https://open.spotify.com/artist/0ezquZkJscWDhtBZwptcKT"
+        }
+      ],
+      "duration_ms": 210777,
+      "name": "Ardon Wahed",
+      "url": "https://open.spotify.com/track/2rD1eIqfbnsCk9GJxiXQBK"
     },
     {
       "added_at": "2022-09-01 14:37:57",
@@ -571,22 +571,6 @@
     {
       "added_at": "2022-09-01 14:37:57",
       "album": {
-        "name": "Khusouf Al-Ard",
-        "url": "https://open.spotify.com/album/6RMRNXNTg12KwIUIxFcYay"
-      },
-      "artists": [
-        {
-          "name": "Hayajan",
-          "url": "https://open.spotify.com/artist/0ezquZkJscWDhtBZwptcKT"
-        }
-      ],
-      "duration_ms": 228333,
-      "name": "Zubalah",
-      "url": "https://open.spotify.com/track/3AQMp7f6Pgm3gHUGoTqDyL"
-    },
-    {
-      "added_at": "2022-09-01 14:37:57",
-      "album": {
         "name": "Mn Gheirik Enti",
         "url": "https://open.spotify.com/album/41kBbSWRbStqfsrXeM5Cpo"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 181347,
       "name": "Mn Gheirik Enti",
       "url": "https://open.spotify.com/track/19M24LvVumMVlcQIHusXyl"
+    },
+    {
+      "added_at": "2022-09-01 14:37:57",
+      "album": {
+        "name": "Khusouf Al-Ard",
+        "url": "https://open.spotify.com/album/6RMRNXNTg12KwIUIxFcYay"
+      },
+      "artists": [
+        {
+          "name": "Hayajan",
+          "url": "https://open.spotify.com/artist/0ezquZkJscWDhtBZwptcKT"
+        }
+      ],
+      "duration_ms": 228333,
+      "name": "Zubalah",
+      "url": "https://open.spotify.com/track/3AQMp7f6Pgm3gHUGoTqDyL"
     },
     {
       "added_at": "2022-09-01 14:37:57",
@@ -655,22 +655,6 @@
     {
       "added_at": "2022-09-01 14:37:57",
       "album": {
-        "name": "Waggif",
-        "url": "https://open.spotify.com/album/0hLTpm3Xcac0uUsl1HfeQx"
-      },
-      "artists": [
-        {
-          "name": "Aziz Maraka",
-          "url": "https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU"
-        }
-      ],
-      "duration_ms": 172316,
-      "name": "Waggif",
-      "url": "https://open.spotify.com/track/01g5Dl95lH5qQyjjXucOPf"
-    },
-    {
-      "added_at": "2022-09-01 14:37:57",
-      "album": {
         "name": "Black Iris",
         "url": "https://open.spotify.com/album/5nBnqvnnQnAsCNxX8q1Xw1"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 199200,
       "name": "Mabsoot Bhali",
       "url": "https://open.spotify.com/track/6B1Fq1RpAW1dBTaCZ9WxQ2"
+    },
+    {
+      "added_at": "2022-09-01 14:37:57",
+      "album": {
+        "name": "Waggif",
+        "url": "https://open.spotify.com/album/0hLTpm3Xcac0uUsl1HfeQx"
+      },
+      "artists": [
+        {
+          "name": "Aziz Maraka",
+          "url": "https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU"
+        }
+      ],
+      "duration_ms": 172316,
+      "name": "Waggif",
+      "url": "https://open.spotify.com/track/01g5Dl95lH5qQyjjXucOPf"
     },
     {
       "added_at": "2022-09-01 14:37:57",

@@ -4,7 +4,7 @@
 
 > 우산을 던지고 빗 속으로 뛰어들고 싶은 날에 들으세요!
 
-108 songs - 6 hr 30 min - [published](https://open.spotify.com/playlist/0fYuaDGdomcOuqOi0yoUUE)
+109 songs - 6 hr 33 min - [published](https://open.spotify.com/playlist/0fYuaDGdomcOuqOi0yoUUE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [242 \(Shine\)](https://open.spotify.com/track/7MROe4VjFESir1jmgHRAlg) | [roomer](https://open.spotify.com/artist/20zFJZ21BJrOTytnwoNUgp), [Lody](https://open.spotify.com/artist/0gXfmv03XhH2sVSqW4VRaS), [Oul](https://open.spotify.com/artist/57JZZuDhppSQr6uyJNzKSa) | [In My Room : Vol.5 \(Our Diary\)](https://open.spotify.com/album/3TVWdZ8J8g1ZW6NWx2aulz) | 3:25 | 2022-06-20 | 2022-07-19 |
 | [365](https://open.spotify.com/track/02hojXLuubRkvxm6jcD0No) | [Kang Seung Yoon](https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL) | [PAGE](https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g) | 4:14 | 2022-06-20 |  |
 | [A Doughnut Song](https://open.spotify.com/track/10ftAQaGcSWrYVjDbMz4OF) | [권여름](https://open.spotify.com/artist/1IB1YV6fNVrEDEOMxwBU75) | [Lily, Lily](https://open.spotify.com/album/11Ws2hc7clfj59RRldpJ6N) | 3:15 | 2022-06-20 | 2022-07-24 |
-| [A Letter in The Wind](https://open.spotify.com/track/5fk9FvsE57Ai8lHLuICJFx) | [YESUNG](https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf) | [Beautiful Night \- The 4th Mini Album](https://open.spotify.com/album/7x0nqb4xJTOI1KwpX8pB6T) | 4:27 | 2022-06-20 |  |
+| [A Letter in The Wind](https://open.spotify.com/track/5fk9FvsE57Ai8lHLuICJFx) | [YESUNG](https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf) | [Beautiful Night \- The 4th Mini Album](https://open.spotify.com/album/7x0nqb4xJTOI1KwpX8pB6T) | 4:27 | 2022-06-20 | 2022-09-06 |
 | [About Time](https://open.spotify.com/track/1SpIjr2oyKzk637Htse6K3) | [Hoppipolla](https://open.spotify.com/artist/6tuuLiMw18vnZB8hJaodJc) | [Spring to Spring](https://open.spotify.com/album/3AjcgKdpL33noWvYmprHep) | 5:28 | 2022-06-20 | 2022-07-29 |
 | [About Time](https://open.spotify.com/track/2jCReozD8Vuwfl8QwY1Au9) | [Hoppipolla](https://open.spotify.com/artist/1S80vOcrnT9UD9zgLeyfx2) | [Spring to Spring](https://open.spotify.com/album/2eWnAFsvpRhlP3j1nCFzCR) | 5:28 | 2022-07-22 |  |
 | [All I Have](https://open.spotify.com/track/6GJJ8nmShJUDSIyyjl9yqv) | [soowoo](https://open.spotify.com/artist/6yrdEI0g5zLDdYiBmqNYxo) | [All I Have](https://open.spotify.com/album/1i69rOSur7z9iARKyz0tZZ) | 2:48 | 2022-06-20 |  |
@@ -90,6 +90,7 @@
 | [Sool \(Feat\. THAMA\)](https://open.spotify.com/track/2wLsNE3k1TGAMm5JSqsYUX) | [snzae](https://open.spotify.com/artist/55l6wA0gGh2Y1OpE5lUYLc), [THAMA](https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld) | [Sool](https://open.spotify.com/album/1afTZ3mebjnJsWkg8n8WS7) | 3:50 | 2022-08-08 |  |
 | [Spider web](https://open.spotify.com/track/0kUwhso6CIPe1TDZiZvDXs) | [Hash Swan](https://open.spotify.com/artist/3yVEZNS0ateVfoj8FuazKg), [SURL](https://open.spotify.com/artist/7owveHzN1hmQuw6Ojg4sI3) | [Silence of the REM](https://open.spotify.com/album/6Nuno2U89fute3Lrz8oIQL) | 3:02 | 2022-06-20 | 2022-07-28 |
 | [Still](https://open.spotify.com/track/2behhE9zykC6hWmBffdYP9) | [루아멜 \(LUAMEL\)](https://open.spotify.com/artist/0GP1FM3P7XrmSNz1Nr29Yy) | [Still](https://open.spotify.com/album/38b0mzFmSaM5JozS7Lfte4) | 3:17 | 2022-07-04 | 2022-08-31 |
+| [Summer](https://open.spotify.com/track/55FLC4BaLbUr7plCVL0j1e) | [Youth Hostel](https://open.spotify.com/artist/73VQvHkpR7ZCn8SOqTqtzK) | [Youth Hostel](https://open.spotify.com/album/1nbMITy1nsScR47Pd4zWJ6) | 2:58 | 2022-09-05 |  |
 | [Surf](https://open.spotify.com/track/1bdwAw470DRWXrDP6Ktxk5) | [Highlight](https://open.spotify.com/artist/3T0fMfxYBU3q9oAUAdPIsr) | [The Blowing](https://open.spotify.com/album/12bPrSSJZ1qysNAGEFGzGC) | 3:17 | 2022-06-20 | 2022-08-11 |
 | [surf.](https://open.spotify.com/track/6fhtB9Qf8vkJLPL88WMylY) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [surf.](https://open.spotify.com/album/0ZbnD6CJpKcj0m4Zde5XFm) | 3:45 | 2022-06-20 |  |
 | [To us \(feat\. wave to earth & WAVY\)](https://open.spotify.com/track/1EsJBtBizwxkRdnf8w6lZc) | [APRO](https://open.spotify.com/artist/779Q9oJXqbVHN4DbtTYa6O), [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg), [WAVY](https://open.spotify.com/artist/1OFmtxGqmk075mMtlKWVRV) | [To us \(feat\. wave to earth & WAVY\)](https://open.spotify.com/album/6XG56vDIbGbimJg3OiZJq3) | 4:14 | 2022-06-20 |  |

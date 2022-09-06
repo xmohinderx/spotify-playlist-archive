@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 
 > Descubre lo más nuevo del movimiento\. Cover: Kalido, Mariah Angeliq, Kevin Roldan & Totoy El Frio
 
-[Spotify](https://open.spotify.com/user/spotify) - 504,171 likes - 62 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 504,193 likes - 62 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,18 +41,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 | 31 | [Mi Peor Error](https://open.spotify.com/track/61SfEOvxgYHwqkRu5K8GIB) | [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf) | [Mi Peor Error](https://open.spotify.com/album/0zIqIwZW0LSPZ5fSjnpUWF) | 3:03 |
 | 32 | [NOS ENTENDEMOS](https://open.spotify.com/track/77RSjB1opOKcwYJohCE6Fb) | [Kevin Roldan](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO), [HIT$ MUSIC](https://open.spotify.com/artist/44ALfmkGESKyMbbRrvw9gT) | [NOS ENTENDEMOS](https://open.spotify.com/album/5LzXrJCwZ0JfW4yGANf9T3) | 3:25 |
 | 33 | [Racks On Me](https://open.spotify.com/track/5viIroXdYNhDJaSfF5YrLp) | [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [Racks On Me](https://open.spotify.com/album/13OSN9Iyn7wUwXPikyCHkc) | 3:03 |
-| 34 | [Adivina](https://open.spotify.com/track/1xIxZOuvcEtp2ckLnjUkMf) | [Totoy El Frio](https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Adivina](https://open.spotify.com/album/3jUtl2wC0qkkJL8czujS3q) | 2:45 |
-| 35 | [Bi](https://open.spotify.com/track/1eOenz5uZlndPxGPC4cQxV) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ) | [TRAP KITTY](https://open.spotify.com/album/4LA06BUD265HXY7Mv2HUG7) | 3:05 |
+| 34 | [Bi](https://open.spotify.com/track/1eOenz5uZlndPxGPC4cQxV) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ) | [TRAP KITTY](https://open.spotify.com/album/4LA06BUD265HXY7Mv2HUG7) | 3:05 |
+| 35 | [Adivina](https://open.spotify.com/track/1xIxZOuvcEtp2ckLnjUkMf) | [Totoy El Frio](https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Adivina](https://open.spotify.com/album/3jUtl2wC0qkkJL8czujS3q) | 2:45 |
 | 36 | [Diskreto](https://open.spotify.com/track/44E6KAwPyWJwtaTB1EUDUc) | [RMAND](https://open.spotify.com/artist/168fXFOgXniYN0j9XVMdOK) | [Diskreto](https://open.spotify.com/album/0KEX9eiLQbH9188yR9DWqd) | 2:57 |
-| 37 | [Mojadero](https://open.spotify.com/track/6CuLgRNyiHtWcRCqFeZA8i) | [Arcangel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Revol](https://open.spotify.com/artist/2wYOpkTJZGByNEOjEnSmoW) | [Mojadero](https://open.spotify.com/album/7ptOOr9s01AaepOVD7ACOl) | 2:39 |
-| 38 | [Contacto](https://open.spotify.com/track/60UZ3rIcDkjoN5i2aZalNh) | [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y) | [Contacto](https://open.spotify.com/album/78ufjxVkliHl3vkPpgGmzL) | 3:17 |
-| 39 | [Playa Sola](https://open.spotify.com/track/5LDbt6EZgm5cyph6bNq3e6) | [ØMG](https://open.spotify.com/artist/4LJ2wv8SaZZe50hYvpubP8) | [Playa Sola](https://open.spotify.com/album/5rx9nKzhq4RckTVsi2vcTt) | 2:17 |
-| 40 | [Borracho y Loco](https://open.spotify.com/track/4WJ1NdiMI29s083w8ph0hA) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux) | [El Pibe \(Vol.1\)](https://open.spotify.com/album/3Cqol64UqjB81EpDkvUH84) | 2:44 |
-| 41 | [Bad Bichi](https://open.spotify.com/track/2hGTv1OBtgFeRgNyqphITI) | [vf7](https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ) | [Bad Bichi](https://open.spotify.com/album/2uqrqjmwu3qqYU46jEd6DJ) | 2:55 |
+| 37 | [Borracho y Loco](https://open.spotify.com/track/4WJ1NdiMI29s083w8ph0hA) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux) | [El Pibe \(Vol.1\)](https://open.spotify.com/album/3Cqol64UqjB81EpDkvUH84) | 2:44 |
+| 38 | [Mojadero](https://open.spotify.com/track/6CuLgRNyiHtWcRCqFeZA8i) | [Arcangel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Revol](https://open.spotify.com/artist/2wYOpkTJZGByNEOjEnSmoW) | [Mojadero](https://open.spotify.com/album/7ptOOr9s01AaepOVD7ACOl) | 2:39 |
+| 39 | [Contacto](https://open.spotify.com/track/60UZ3rIcDkjoN5i2aZalNh) | [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y) | [Contacto](https://open.spotify.com/album/78ufjxVkliHl3vkPpgGmzL) | 3:17 |
+| 40 | [Bad Bichi](https://open.spotify.com/track/2hGTv1OBtgFeRgNyqphITI) | [vf7](https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ) | [Bad Bichi](https://open.spotify.com/album/2uqrqjmwu3qqYU46jEd6DJ) | 2:55 |
+| 41 | [Playa Sola](https://open.spotify.com/track/5LDbt6EZgm5cyph6bNq3e6) | [ØMG](https://open.spotify.com/artist/4LJ2wv8SaZZe50hYvpubP8) | [Playa Sola](https://open.spotify.com/album/5rx9nKzhq4RckTVsi2vcTt) | 2:17 |
 | 42 | [ea diache](https://open.spotify.com/track/3nQmKjtOfpfc5UGE7eA08u) | [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn) | [diamantes y espinas](https://open.spotify.com/album/3o86U2Y7aQCgQe2kQQOz8T) | 3:32 |
 | 43 | [KLK](https://open.spotify.com/track/2Of9piZALXa4CC7Unxoeeg) | [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [KLK](https://open.spotify.com/album/1LnL349QHolcO0vHZxgKLt) | 3:01 |
-| 44 | [Quien Soy?](https://open.spotify.com/track/2WJ648KGSA8bhvJe0T9N4p) | [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY), [Chris Wandell](https://open.spotify.com/artist/1jsB2W4c9zTq9ilGXegrDM) | [Quien Soy?](https://open.spotify.com/album/1I9cP54N1kFGnrDsmsILFY) | 3:21 |
-| 45 | [Nadie La Mantiene](https://open.spotify.com/track/3dvMNHL50mtjkr47j9g5Qo) | [YoGambii](https://open.spotify.com/artist/5RuWFvTN5tmKqn0KUfNruD), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [Nadie La Mantiene](https://open.spotify.com/album/4VsBy8wJ0Tq1gbdX7gjPPK) | 3:44 |
+| 44 | [Nadie La Mantiene](https://open.spotify.com/track/3dvMNHL50mtjkr47j9g5Qo) | [YoGambii](https://open.spotify.com/artist/5RuWFvTN5tmKqn0KUfNruD), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [Nadie La Mantiene](https://open.spotify.com/album/4VsBy8wJ0Tq1gbdX7gjPPK) | 3:44 |
+| 45 | [Quien Soy?](https://open.spotify.com/track/2WJ648KGSA8bhvJe0T9N4p) | [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY), [Chris Wandell](https://open.spotify.com/artist/1jsB2W4c9zTq9ilGXegrDM) | [Quien Soy?](https://open.spotify.com/album/1I9cP54N1kFGnrDsmsILFY) | 3:21 |
 | 46 | [Castigada](https://open.spotify.com/track/3j6Ad8n9AYj2YjMXvDkZOk) | [Catalyna](https://open.spotify.com/artist/7bwjYGg7DOoLpV3AFK2Jmz), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB), [Cory](https://open.spotify.com/artist/7o7FisMfKqVaysG1CSIWrr) | [Castigada](https://open.spotify.com/album/2xVbGAL132T4yXoJDS8TuL) | 3:16 |
 | 47 | [Piensas En Mi](https://open.spotify.com/track/4aZXV9vBzJlwAd54GGZdGY) | [Chesca](https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP), [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE) | [Piensas En Mi](https://open.spotify.com/album/48bOYyl6R4Osu0luA0RWoS) | 3:02 |
 | 48 | [LALALA](https://open.spotify.com/track/0vjqOn8iw1jQygL4KK2JCu) | [ANGEL22](https://open.spotify.com/artist/77dCZ05TEfVFypRDzM1R44) | [LALALA](https://open.spotify.com/album/1oOiiAylUiGg1ccIvP5wha) | 2:42 |
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 | 61 | [Chanel](https://open.spotify.com/track/1WOeXa0KaCMCg3oiHNO3w4) | [Carlos Cortez](https://open.spotify.com/artist/3DplAKAVidNrhpivWNLMWC) | [Chanel](https://open.spotify.com/album/6gebMWgHnR1GXP237B6G7Y) | 2:54 |
 | 62 | [2:00 AM](https://open.spotify.com/track/1Ggq4JgcpwkPG0dV7bR04y) | [Medicensanto](https://open.spotify.com/artist/1bggGBhvZxsRUVLK6Gdbax) | [2:00 AM](https://open.spotify.com/album/4aYnmdAABxYzxaQL2lqDPT) | 2:15 |
 
-Snapshot ID: `MTY2MTQ4NjQ2MCwwMDAwMDAwMDA1ODQ0NWUzZGJmOWExYTk1ZmFiYWNhZTZhMjQxMTky`
+Snapshot ID: `MTY2MTQ4NjQ2MCwwMDAwMDAwMDMzZGQwYmViMjAyNGFhM2JiMWFhMTZhYTFlZDcxMTc1`

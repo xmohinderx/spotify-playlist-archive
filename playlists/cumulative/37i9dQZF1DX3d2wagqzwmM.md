@@ -4,7 +4,7 @@
 
 > Big rooms with big sounds\. Cover: Hardwell
 
-183 songs - 9 hr 30 min - [published](https://open.spotify.com/playlist/6qNCTGV1lgbBTyQi4Ez9QG)
+184 songs - 9 hr 33 min - [published](https://open.spotify.com/playlist/6qNCTGV1lgbBTyQi4Ez9QG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [Feel My Love \(feat\. Joe Taylor\) \- Festival Mix](https://open.spotify.com/track/7kB4ZalpJf99nZgftlV73E) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX), [Joe Taylor](https://open.spotify.com/artist/5SVWcqMyPHjP4Fnp33LlJB) | [Feel My Love \(feat\. Joe Taylor\) \[Festival Mix\]](https://open.spotify.com/album/4k5O3Q13AoUSvJZymOtuk1) | 3:06 | 2022-07-28 |  |
 | [Feel The Fire](https://open.spotify.com/track/1I0kqV3pIgRsiGp6dzgU1a) | [MR.BLACK](https://open.spotify.com/artist/7tGP2lCt2Xkoc3BCN13NWU), [Richie Loop](https://open.spotify.com/artist/0fwGtEcJ4v3H0btcbM0KWc) | [Feel The Fire](https://open.spotify.com/album/3ZcDLMFFOfhextDOboIB0j) | 3:04 | 2022-04-14 | 2022-07-30 |
 | [Feel Your Love \- Tomorrowland Mix](https://open.spotify.com/track/3DZvtV9nOQ2RDfT4nvEEi9) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Edward Maya](https://open.spotify.com/artist/6XwwFnewNgWp81MYMK8zLq) | [Feel Your Love \(Tomorrowland Mix\)](https://open.spotify.com/album/24n3EoncsbDrqv4GI5UdDH) | 2:50 | 2022-06-23 |  |
-| [Feels Like Home](https://open.spotify.com/track/2OfDYA3xkEQ2fILrBlknHD) | [Andrew Rayel](https://open.spotify.com/artist/1UtBjqMZBAmqIPlDrKu7Tr), [AIDYL](https://open.spotify.com/artist/63YNSGgVHzU8j43ngzTw1f) | [Feels Like Home](https://open.spotify.com/album/2qNzaIxSP07ELzsFOPrspG) | 4:26 | 2022-09-01 |  |
+| [Feels Like Home](https://open.spotify.com/track/2OfDYA3xkEQ2fILrBlknHD) | [Andrew Rayel](https://open.spotify.com/artist/1UtBjqMZBAmqIPlDrKu7Tr), [AIDYL](https://open.spotify.com/artist/63YNSGgVHzU8j43ngzTw1f) | [Feels Like Home](https://open.spotify.com/album/2qNzaIxSP07ELzsFOPrspG) | 4:26 | 2022-09-01 | 2022-09-06 |
 | [Firefly](https://open.spotify.com/track/2JUekZEDv8GYGsTfSmI9Ek) | [Jeffrey Sutorius](https://open.spotify.com/artist/2XGg454n1pSdgoqrfcSDbq), [ANG](https://open.spotify.com/artist/3iGTIdf1fn9YmiiZiODGTl) | [Firefly](https://open.spotify.com/album/6ERhkBSo8GO7c5pcLynXNV) | 2:54 | 2022-04-14 | 2022-04-29 |
 | [Follow](https://open.spotify.com/track/5aXTfpNOqLj35ydEiLio67) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq) | [Follow](https://open.spotify.com/album/0mHq8oTwln3MA72n3uHscJ) | 3:41 | 2022-04-14 |  |
 | [Follow Me](https://open.spotify.com/track/5CCoCTMHmpTZSZa8THlRZN) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [SaberZ](https://open.spotify.com/artist/7wVdHjM4odGF5lGsqVSHJT) | [Follow Me](https://open.spotify.com/album/5VgSUSOi7Negq9NQt4ILGy) | 3:06 | 2022-04-14 | 2022-04-28 |
@@ -164,6 +164,7 @@
 | [Survivors](https://open.spotify.com/track/2HvGzbTKJTP8WuKU1EClIw) | [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt) | [Survivors](https://open.spotify.com/album/558HXvtCoHCsxRpPoAIb5H) | 2:44 | 2022-04-14 | 2022-06-24 |
 | [Switch Back](https://open.spotify.com/track/1M0hRg4ccFGMqi00ITrxNv) | [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n) | [Switch Back](https://open.spotify.com/album/5b6uOk8B0jOexZIOqOrt3x) | 2:45 | 2022-04-14 |  |
 | [Talamanca](https://open.spotify.com/track/7dDLAQ1y0qOq3E4DhNh8FS) | [BURNS](https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7) | [Talamanca](https://open.spotify.com/album/1N66eMzBBNRHa3HFE6GCsW) | 3:06 | 2022-04-21 | 2022-05-01 |
+| [Techno Party](https://open.spotify.com/track/4GT1NVYkxsN3grh7zclyLa) | [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh), [VINNE](https://open.spotify.com/artist/1FGLT6mEhIrPhgqYiU57ro), [Murotani](https://open.spotify.com/artist/3fTYN3plW2oMZXGZf7JQWX) | [Techno Party](https://open.spotify.com/album/3e6xQP58Y5f2VHOpxNpsYh) | 3:17 | 2022-09-01 |  |
 | [The Age Of Rave](https://open.spotify.com/track/0MJrPeuSXdHBPfsoaaFEIG) | [Olly James](https://open.spotify.com/artist/04Ze9i5w3NXno5DdMNpJZC) | [The Age Of Rave](https://open.spotify.com/album/5Xb58SF94wdSAJd5iaA5KP) | 3:04 | 2022-05-26 |  |
 | [The Ashes](https://open.spotify.com/track/77TqubLV7jUg5fxvOCbjtM) | [NIVIRO](https://open.spotify.com/artist/2nsCjA4fEasmnlOK0wXU7T) | [The Ashes](https://open.spotify.com/album/1zdhuNHo4sdVF90RMtqVDG) | 4:11 | 2022-04-14 | 2022-05-29 |
 | [The Chase](https://open.spotify.com/track/00JoqMc5KZFLpdrtymo6f0) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n) | [The Chase](https://open.spotify.com/album/2oR0zKDQpFKxWJjyHqrDpq) | 3:14 | 2022-07-28 | 2022-09-02 |

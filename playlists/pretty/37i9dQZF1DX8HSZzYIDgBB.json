@@ -1,12 +1,12 @@
 {
   "description": "Los nuevos sonidos y fusiones de m\u00fasica Alternativa Latina, con Pahua en portada.",
-  "num_followers": 24585,
+  "num_followers": 24623,
   "original_name": "Indie AlterLatino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjE3NjY5OSwwMDAwMDAwMDhmNDc3MjEwZTA5ZWRiZGEzMjI2OTA2Nzc0ZjkyZGQ0",
+  "snapshot_id": "MTY2MjE3NjY5OSwwMDAwMDAwMDY3ODYwODYyMDFjMDEwNzM0NjY2YjZiNzQxYzg0NGNl",
   "tracks": [
     {
       "added_at": "2021-10-05 16:26:53",
@@ -293,38 +293,6 @@
       "url": "https://open.spotify.com/track/4gs4CAPYyhnxgLUIBqLCw7"
     },
     {
-      "added_at": "2022-05-27 19:08:44",
-      "album": {
-        "name": "EP II",
-        "url": "https://open.spotify.com/album/735mM1CtmQAiWX1yaNtda5"
-      },
-      "artists": [
-        {
-          "name": "Buscabulla",
-          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
-        }
-      ],
-      "duration_ms": 223482,
-      "name": "T\u00e1rtaro",
-      "url": "https://open.spotify.com/track/0gH3JQ2qEulnQXmw8ig5U5"
-    },
-    {
-      "added_at": "2022-09-03 03:44:59",
-      "album": {
-        "name": "Los Estimados",
-        "url": "https://open.spotify.com/album/30sX3OfIDl2WB1DwbtHqlB"
-      },
-      "artists": [
-        {
-          "name": "Tati Falco",
-          "url": "https://open.spotify.com/artist/2iaZ9zGdSh6fSP3uBS6jV6"
-        }
-      ],
-      "duration_ms": 277589,
-      "name": "Los Estimados",
-      "url": "https://open.spotify.com/track/4YiUEZRZL8Ns7pseiazQZa"
-    },
-    {
       "added_at": "2022-04-22 18:06:01",
       "album": {
         "name": "Tinta y Tiempo",
@@ -343,6 +311,38 @@
       "duration_ms": 184475,
       "name": "\u00a1Oh, Algoritmo! (feat. Noga Erez)",
       "url": "https://open.spotify.com/track/5HAjAcrI1mrA1PlhKHXJ0v"
+    },
+    {
+      "added_at": "2022-09-03 03:44:59",
+      "album": {
+        "name": "Los Estimados",
+        "url": "https://open.spotify.com/album/30sX3OfIDl2WB1DwbtHqlB"
+      },
+      "artists": [
+        {
+          "name": "Tati Falco",
+          "url": "https://open.spotify.com/artist/2iaZ9zGdSh6fSP3uBS6jV6"
+        }
+      ],
+      "duration_ms": 277589,
+      "name": "Los Estimados",
+      "url": "https://open.spotify.com/track/4YiUEZRZL8Ns7pseiazQZa"
+    },
+    {
+      "added_at": "2022-05-27 19:08:44",
+      "album": {
+        "name": "EP II",
+        "url": "https://open.spotify.com/album/735mM1CtmQAiWX1yaNtda5"
+      },
+      "artists": [
+        {
+          "name": "Buscabulla",
+          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
+        }
+      ],
+      "duration_ms": 223482,
+      "name": "T\u00e1rtaro",
+      "url": "https://open.spotify.com/track/0gH3JQ2qEulnQXmw8ig5U5"
     },
     {
       "added_at": "2022-01-17 15:56:36",
@@ -417,22 +417,6 @@
       "url": "https://open.spotify.com/track/5R4VAb4lnEMFtSEmB0wiya"
     },
     {
-      "added_at": "2021-10-05 16:26:53",
-      "album": {
-        "name": "Magia",
-        "url": "https://open.spotify.com/album/2cs1QNUdl1o7r9wsZjWtf7"
-      },
-      "artists": [
-        {
-          "name": "Monogem",
-          "url": "https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV"
-        }
-      ],
-      "duration_ms": 199666,
-      "name": "Magia",
-      "url": "https://open.spotify.com/track/4jMHWmtD14blSqbRhq2gjp"
-    },
-    {
       "added_at": "2022-02-15 01:38:18",
       "album": {
         "name": "Tempo",
@@ -447,6 +431,22 @@
       "duration_ms": 145746,
       "name": "Oiseau Sauvage",
       "url": "https://open.spotify.com/track/0A48wzUVDrN0t3JaOrui2a"
+    },
+    {
+      "added_at": "2021-10-05 16:26:53",
+      "album": {
+        "name": "Magia",
+        "url": "https://open.spotify.com/album/2cs1QNUdl1o7r9wsZjWtf7"
+      },
+      "artists": [
+        {
+          "name": "Monogem",
+          "url": "https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV"
+        }
+      ],
+      "duration_ms": 199666,
+      "name": "Magia",
+      "url": "https://open.spotify.com/track/4jMHWmtD14blSqbRhq2gjp"
     },
     {
       "added_at": "2022-04-20 05:00:00",
@@ -581,6 +581,26 @@
       "url": "https://open.spotify.com/track/6DTrDC4N7FMR2bThvW9RVy"
     },
     {
+      "added_at": "2022-06-24 16:07:34",
+      "album": {
+        "name": "Duele",
+        "url": "https://open.spotify.com/album/3cbrDaekOIx1EhHbtbr2nk"
+      },
+      "artists": [
+        {
+          "name": "Tonga Conga",
+          "url": "https://open.spotify.com/artist/2p0241roffcxojfJcnmvsU"
+        },
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        }
+      ],
+      "duration_ms": 197733,
+      "name": "Duele",
+      "url": "https://open.spotify.com/track/1q8pjaEhNAAFVzMyTb3pc9"
+    },
+    {
       "added_at": "2022-02-25 03:28:54",
       "album": {
         "name": "Bonito",
@@ -617,24 +637,20 @@
       "url": "https://open.spotify.com/track/5BS1ULVFdYWNa4r5kE2Ua2"
     },
     {
-      "added_at": "2022-06-24 16:07:34",
+      "added_at": "2022-02-18 20:16:34",
       "album": {
-        "name": "Duele",
-        "url": "https://open.spotify.com/album/3cbrDaekOIx1EhHbtbr2nk"
+        "name": "Camino al Mar",
+        "url": "https://open.spotify.com/album/1glNAkJudlAf1dNQUsr18G"
       },
       "artists": [
         {
-          "name": "Tonga Conga",
-          "url": "https://open.spotify.com/artist/2p0241roffcxojfJcnmvsU"
-        },
-        {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+          "name": "Acid Coco",
+          "url": "https://open.spotify.com/artist/5UiKi49d0fbeffWl4aPWNW"
         }
       ],
-      "duration_ms": 197733,
-      "name": "Duele",
-      "url": "https://open.spotify.com/track/1q8pjaEhNAAFVzMyTb3pc9"
+      "duration_ms": 242306,
+      "name": "So\u00f1ando",
+      "url": "https://open.spotify.com/track/76H5ZwmUfmQAXwelxMWtbf"
     },
     {
       "added_at": "2022-04-20 18:21:19",
@@ -653,22 +669,6 @@
       "url": "https://open.spotify.com/track/2ia6khUL8cdWGqOc31dgl8"
     },
     {
-      "added_at": "2022-02-18 20:16:34",
-      "album": {
-        "name": "Camino al Mar",
-        "url": "https://open.spotify.com/album/1glNAkJudlAf1dNQUsr18G"
-      },
-      "artists": [
-        {
-          "name": "Acid Coco",
-          "url": "https://open.spotify.com/artist/5UiKi49d0fbeffWl4aPWNW"
-        }
-      ],
-      "duration_ms": 242306,
-      "name": "So\u00f1ando",
-      "url": "https://open.spotify.com/track/76H5ZwmUfmQAXwelxMWtbf"
-    },
-    {
       "added_at": "2022-07-11 18:36:36",
       "album": {
         "name": "Me mandaron por tortillas",
@@ -685,6 +685,22 @@
       "url": "https://open.spotify.com/track/3BeAo71NSk2xAFlNAganPw"
     },
     {
+      "added_at": "2021-10-05 16:26:53",
+      "album": {
+        "name": "Sorpresa",
+        "url": "https://open.spotify.com/album/4clIaqyIpJOku2E6VNnwy2"
+      },
+      "artists": [
+        {
+          "name": "Cheo",
+          "url": "https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG"
+        }
+      ],
+      "duration_ms": 256947,
+      "name": "Todo el D\u00eda en la Cama",
+      "url": "https://open.spotify.com/track/6TckoX2KeK1hK7wPfdT0zo"
+    },
+    {
       "added_at": "2022-04-09 05:10:17",
       "album": {
         "name": "Mabanzo",
@@ -699,6 +715,22 @@
       "duration_ms": 291786,
       "name": "Alma Seca",
       "url": "https://open.spotify.com/track/0TjNcJLSuyWByX7IjYYYs9"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "Sabe a Tu Nombre",
+        "url": "https://open.spotify.com/album/5gkAUF7ohgE237sxZuIFaB"
+      },
+      "artists": [
+        {
+          "name": "Cosmic Wacho",
+          "url": "https://open.spotify.com/artist/6qVCBovVysB8MOf7a1mUKa"
+        }
+      ],
+      "duration_ms": 228793,
+      "name": "Sabe a Tu Nombre",
+      "url": "https://open.spotify.com/track/4kPG4XKpeWVhBd4bfDYuyF"
     },
     {
       "added_at": "2022-04-09 05:01:42",
@@ -719,54 +751,6 @@
       "duration_ms": 172293,
       "name": "Diablo",
       "url": "https://open.spotify.com/track/4cC3UZROu1UdjLyHzNjvdk"
-    },
-    {
-      "added_at": "2021-10-05 16:26:53",
-      "album": {
-        "name": "Sorpresa",
-        "url": "https://open.spotify.com/album/4clIaqyIpJOku2E6VNnwy2"
-      },
-      "artists": [
-        {
-          "name": "Cheo",
-          "url": "https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG"
-        }
-      ],
-      "duration_ms": 256947,
-      "name": "Todo el D\u00eda en la Cama",
-      "url": "https://open.spotify.com/track/6TckoX2KeK1hK7wPfdT0zo"
-    },
-    {
-      "added_at": "2021-10-05 16:26:53",
-      "album": {
-        "name": "Camino al Mar",
-        "url": "https://open.spotify.com/album/1glNAkJudlAf1dNQUsr18G"
-      },
-      "artists": [
-        {
-          "name": "Acid Coco",
-          "url": "https://open.spotify.com/artist/5UiKi49d0fbeffWl4aPWNW"
-        }
-      ],
-      "duration_ms": 252040,
-      "name": "Hoy Como Siempre",
-      "url": "https://open.spotify.com/track/61Rc95MbrSSCaXqLcRRBu0"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
-        "name": "Sabe a Tu Nombre",
-        "url": "https://open.spotify.com/album/5gkAUF7ohgE237sxZuIFaB"
-      },
-      "artists": [
-        {
-          "name": "Cosmic Wacho",
-          "url": "https://open.spotify.com/artist/6qVCBovVysB8MOf7a1mUKa"
-        }
-      ],
-      "duration_ms": 228793,
-      "name": "Sabe a Tu Nombre",
-      "url": "https://open.spotify.com/track/4kPG4XKpeWVhBd4bfDYuyF"
     },
     {
       "added_at": "2022-01-17 15:56:36",
@@ -791,6 +775,22 @@
       "duration_ms": 206590,
       "name": "Sal de Mar",
       "url": "https://open.spotify.com/track/3Go0i4zhTnL8CkfyTrSkez"
+    },
+    {
+      "added_at": "2021-10-05 16:26:53",
+      "album": {
+        "name": "Camino al Mar",
+        "url": "https://open.spotify.com/album/1glNAkJudlAf1dNQUsr18G"
+      },
+      "artists": [
+        {
+          "name": "Acid Coco",
+          "url": "https://open.spotify.com/artist/5UiKi49d0fbeffWl4aPWNW"
+        }
+      ],
+      "duration_ms": 252040,
+      "name": "Hoy Como Siempre",
+      "url": "https://open.spotify.com/track/61Rc95MbrSSCaXqLcRRBu0"
     },
     {
       "added_at": "2022-03-30 03:05:40",
@@ -933,6 +933,22 @@
       "url": "https://open.spotify.com/track/5vpCo7GpBJmc8RWkOZyvtI"
     },
     {
+      "added_at": "2022-03-30 03:09:53",
+      "album": {
+        "name": "El Sonido Nuevo de",
+        "url": "https://open.spotify.com/album/5bp7bVrqq6t71CWU9KSmu5"
+      },
+      "artists": [
+        {
+          "name": "Pachyman",
+          "url": "https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l"
+        }
+      ],
+      "duration_ms": 200458,
+      "name": "Towards The Mountain",
+      "url": "https://open.spotify.com/track/4CvfQTMaKGGD7eR5tIDrT7"
+    },
+    {
       "added_at": "2021-10-05 16:26:53",
       "album": {
         "name": "La Noche",
@@ -955,22 +971,6 @@
       "duration_ms": 240000,
       "name": "La Noche",
       "url": "https://open.spotify.com/track/6NKV4jEVqmJ6tsoyNEg2SQ"
-    },
-    {
-      "added_at": "2022-03-30 03:09:53",
-      "album": {
-        "name": "El Sonido Nuevo de",
-        "url": "https://open.spotify.com/album/5bp7bVrqq6t71CWU9KSmu5"
-      },
-      "artists": [
-        {
-          "name": "Pachyman",
-          "url": "https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l"
-        }
-      ],
-      "duration_ms": 200458,
-      "name": "Towards The Mountain",
-      "url": "https://open.spotify.com/track/4CvfQTMaKGGD7eR5tIDrT7"
     },
     {
       "added_at": "2021-10-05 16:26:53",
@@ -1065,22 +1065,6 @@
       "url": "https://open.spotify.com/track/6KkwQNxduqthj40TlNVD1j"
     },
     {
-      "added_at": "2022-08-08 21:56:18",
-      "album": {
-        "name": "Marineros",
-        "url": "https://open.spotify.com/album/0fJJS7pmFtmEH5Lrfneny0"
-      },
-      "artists": [
-        {
-          "name": "Ulises Hadjis",
-          "url": "https://open.spotify.com/artist/5Udwg8yiCTj2zTRt8zKRWH"
-        }
-      ],
-      "duration_ms": 128371,
-      "name": "Marineros",
-      "url": "https://open.spotify.com/track/1TIyjwt0Q7tOe99lu1SjRA"
-    },
-    {
       "added_at": "2022-01-14 01:12:21",
       "album": {
         "name": "Rainfalls",
@@ -1095,6 +1079,22 @@
       "duration_ms": 216379,
       "name": "Rainfalls",
       "url": "https://open.spotify.com/track/0YiZ0jbQg32CnsNplsYQeN"
+    },
+    {
+      "added_at": "2022-08-08 21:56:18",
+      "album": {
+        "name": "Marineros",
+        "url": "https://open.spotify.com/album/0fJJS7pmFtmEH5Lrfneny0"
+      },
+      "artists": [
+        {
+          "name": "Ulises Hadjis",
+          "url": "https://open.spotify.com/artist/5Udwg8yiCTj2zTRt8zKRWH"
+        }
+      ],
+      "duration_ms": 128371,
+      "name": "Marineros",
+      "url": "https://open.spotify.com/track/1TIyjwt0Q7tOe99lu1SjRA"
     },
     {
       "added_at": "2022-07-15 04:48:04",
@@ -1133,22 +1133,6 @@
       "url": "https://open.spotify.com/track/16bjBse3S06ZoyyZ7CqBWE"
     },
     {
-      "added_at": "2022-07-13 15:48:37",
-      "album": {
-        "name": "Belmont",
-        "url": "https://open.spotify.com/album/797ZnganZpmTHcULejYwDt"
-      },
-      "artists": [
-        {
-          "name": "L\u00e1zaro Crist\u00f3bal Comala",
-          "url": "https://open.spotify.com/artist/1EMhjuJCWlHrX2owpcwvTK"
-        }
-      ],
-      "duration_ms": 168939,
-      "name": "Un Manhattan",
-      "url": "https://open.spotify.com/track/6n7X5k9JjHdREzjEVybBfl"
-    },
-    {
       "added_at": "2021-10-05 16:26:53",
       "album": {
         "name": "Perdida En Un Sue\u00f1o",
@@ -1167,6 +1151,22 @@
       "duration_ms": 154440,
       "name": "Perdida En Un Sue\u00f1o",
       "url": "https://open.spotify.com/track/1wRVAinPRWyR67BD7DIlRJ"
+    },
+    {
+      "added_at": "2022-07-13 15:48:37",
+      "album": {
+        "name": "Belmont",
+        "url": "https://open.spotify.com/album/797ZnganZpmTHcULejYwDt"
+      },
+      "artists": [
+        {
+          "name": "L\u00e1zaro Crist\u00f3bal Comala",
+          "url": "https://open.spotify.com/artist/1EMhjuJCWlHrX2owpcwvTK"
+        }
+      ],
+      "duration_ms": 168939,
+      "name": "Un Manhattan",
+      "url": "https://open.spotify.com/track/6n7X5k9JjHdREzjEVybBfl"
     },
     {
       "added_at": "2022-02-25 03:53:48",
@@ -1237,6 +1237,22 @@
       "url": "https://open.spotify.com/track/3SXXaaifuIWCaqAwopfPmY"
     },
     {
+      "added_at": "2022-04-09 05:10:17",
+      "album": {
+        "name": "El Mirador",
+        "url": "https://open.spotify.com/album/63AiuIrU9tVW6o0UuAJMtV"
+      },
+      "artists": [
+        {
+          "name": "Calexico",
+          "url": "https://open.spotify.com/artist/1OmdWpAh1pucAuZPzJaxIJ"
+        }
+      ],
+      "duration_ms": 237533,
+      "name": "Cumbia Peninsula",
+      "url": "https://open.spotify.com/track/7eL3GDrQqEokDmc6l9fKhK"
+    },
+    {
       "added_at": "2021-10-05 16:26:53",
       "album": {
         "name": "Qui\u00e9n Podr\u00e1 Saberlo",
@@ -1255,22 +1271,6 @@
       "duration_ms": 163426,
       "name": "Qui\u00e9n Podr\u00e1 Saberlo",
       "url": "https://open.spotify.com/track/4Ioz0P53jC1z6zVUcj12GW"
-    },
-    {
-      "added_at": "2022-04-09 05:10:17",
-      "album": {
-        "name": "El Mirador",
-        "url": "https://open.spotify.com/album/63AiuIrU9tVW6o0UuAJMtV"
-      },
-      "artists": [
-        {
-          "name": "Calexico",
-          "url": "https://open.spotify.com/artist/1OmdWpAh1pucAuZPzJaxIJ"
-        }
-      ],
-      "duration_ms": 237533,
-      "name": "Cumbia Peninsula",
-      "url": "https://open.spotify.com/track/7eL3GDrQqEokDmc6l9fKhK"
     },
     {
       "added_at": "2021-10-05 16:26:53",
@@ -1365,22 +1365,6 @@
       "url": "https://open.spotify.com/track/0OyNMy87wNsHua1EvEeDl3"
     },
     {
-      "added_at": "2022-07-25 03:37:28",
-      "album": {
-        "name": "Pantera",
-        "url": "https://open.spotify.com/album/2aPbWvGEt5yRUPYav6MGKp"
-      },
-      "artists": [
-        {
-          "name": "Renee Mooi",
-          "url": "https://open.spotify.com/artist/6pDpSqJDuF6J6jxfAz4sTB"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Pantera",
-      "url": "https://open.spotify.com/track/6OOmsVhtxm6wTvupGDvq9V"
-    },
-    {
       "added_at": "2022-08-19 02:38:30",
       "album": {
         "name": "Errores en el extranjero",
@@ -1395,6 +1379,22 @@
       "duration_ms": 123900,
       "name": "Mutilado",
       "url": "https://open.spotify.com/track/2nnDYImuOuOoh0OSbAvDlH"
+    },
+    {
+      "added_at": "2022-07-25 03:37:28",
+      "album": {
+        "name": "Pantera",
+        "url": "https://open.spotify.com/album/2aPbWvGEt5yRUPYav6MGKp"
+      },
+      "artists": [
+        {
+          "name": "Renee Mooi",
+          "url": "https://open.spotify.com/artist/6pDpSqJDuF6J6jxfAz4sTB"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Pantera",
+      "url": "https://open.spotify.com/track/6OOmsVhtxm6wTvupGDvq9V"
     },
     {
       "added_at": "2021-10-05 16:26:53",
@@ -1443,6 +1443,22 @@
       "duration_ms": 208064,
       "name": "Ild\u00e9 Pa\u2019 Beberte",
       "url": "https://open.spotify.com/track/5oKi2idPWZmWbpmIkYgvDc"
+    },
+    {
+      "added_at": "2021-10-22 05:00:00",
+      "album": {
+        "name": "Loco Playa",
+        "url": "https://open.spotify.com/album/635YaUKh0wj4yKODmNC2L7"
+      },
+      "artists": [
+        {
+          "name": "El General Villamil",
+          "url": "https://open.spotify.com/artist/4GxlWANYiVFKSVePnKnDWH"
+        }
+      ],
+      "duration_ms": 217366,
+      "name": "Loco Playa",
+      "url": "https://open.spotify.com/track/6fLQh9kAnir7RZGzM4OnXV"
     },
     {
       "added_at": "2022-04-05 15:50:31",
@@ -1495,22 +1511,6 @@
       "duration_ms": 238421,
       "name": "Corazon en Asteroides",
       "url": "https://open.spotify.com/track/4YtoojKbqHDTrZSq2BDdJn"
-    },
-    {
-      "added_at": "2021-10-22 05:00:00",
-      "album": {
-        "name": "Loco Playa",
-        "url": "https://open.spotify.com/album/635YaUKh0wj4yKODmNC2L7"
-      },
-      "artists": [
-        {
-          "name": "El General Villamil",
-          "url": "https://open.spotify.com/artist/4GxlWANYiVFKSVePnKnDWH"
-        }
-      ],
-      "duration_ms": 217366,
-      "name": "Loco Playa",
-      "url": "https://open.spotify.com/track/6fLQh9kAnir7RZGzM4OnXV"
     },
     {
       "added_at": "2021-10-05 16:26:53",
@@ -1585,22 +1585,6 @@
       "url": "https://open.spotify.com/track/6nAibjd93efRHvK86fiYiJ"
     },
     {
-      "added_at": "2022-01-21 16:05:39",
-      "album": {
-        "name": "Plata y Coral",
-        "url": "https://open.spotify.com/album/1Pe9A9g7Ec1L0e7djWa9SP"
-      },
-      "artists": [
-        {
-          "name": "Centavrvs",
-          "url": "https://open.spotify.com/artist/2hM7wQp7sHLgMTDpxteBWo"
-        }
-      ],
-      "duration_ms": 240491,
-      "name": "Plata y Coral",
-      "url": "https://open.spotify.com/track/2Dp8xi4bBcOQK3FmvpWrNR"
-    },
-    {
       "added_at": "2022-03-18 05:23:35",
       "album": {
         "name": "La Loba (Remixes)",
@@ -1619,6 +1603,22 @@
       "duration_ms": 256336,
       "name": "La Loba (Trooko Remix)",
       "url": "https://open.spotify.com/track/4h1Y0K73QoylJoXQAnUikz"
+    },
+    {
+      "added_at": "2022-01-21 16:05:39",
+      "album": {
+        "name": "Plata y Coral",
+        "url": "https://open.spotify.com/album/1Pe9A9g7Ec1L0e7djWa9SP"
+      },
+      "artists": [
+        {
+          "name": "Centavrvs",
+          "url": "https://open.spotify.com/artist/2hM7wQp7sHLgMTDpxteBWo"
+        }
+      ],
+      "duration_ms": 240491,
+      "name": "Plata y Coral",
+      "url": "https://open.spotify.com/track/2Dp8xi4bBcOQK3FmvpWrNR"
     },
     {
       "added_at": "2021-10-05 16:26:53",

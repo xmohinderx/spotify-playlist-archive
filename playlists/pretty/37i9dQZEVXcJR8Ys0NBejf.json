@@ -6,543 +6,519 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMDAwMDAwMDVmNWY1NDc3ZTYxN2MxNmE1MzA1N2E1ZTk5NjE2ZDI3",
+  "snapshot_id": "MCwwMDAwMDAwMGU2N2ZjOWMzNjU2MzA5MjI5MGZhNzcwNjNmMjY5NzI1",
   "tracks": [
     {
-      "added_at": "2022-08-29 04:00:00",
+      "added_at": "2022-09-05 04:00:00",
       "album": {
-        "name": "Catwalk (Cast Version)",
-        "url": "https://open.spotify.com/album/1opxrWOpTjy46cuOeLNSRU"
+        "name": "Call Your Mom",
+        "url": "https://open.spotify.com/album/0g8o8lP1IKf6hDPtHudgqc"
       },
       "artists": [
         {
-          "name": "RuPaul",
-          "url": "https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe"
+          "name": "Chase Icon",
+          "url": "https://open.spotify.com/artist/5XPJP6zfXVlPJtO4QSsSmQ"
+        }
+      ],
+      "duration_ms": 131835,
+      "name": "Call Your Mom",
+      "url": "https://open.spotify.com/track/7rQ77y8z47fhOkAOQv2DyQ"
+    },
+    {
+      "added_at": "2022-09-05 04:00:00",
+      "album": {
+        "name": "Banish The Banshee",
+        "url": "https://open.spotify.com/album/5G55JBphRFFY6DaYELM6Gk"
+      },
+      "artists": [
+        {
+          "name": "Isaac Dunbar",
+          "url": "https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816"
+        }
+      ],
+      "duration_ms": 170226,
+      "name": "Sunburn",
+      "url": "https://open.spotify.com/track/5QWa0fcJrAZIv9jtcHUg4J"
+    },
+    {
+      "added_at": "2022-09-05 04:00:00",
+      "album": {
+        "name": "BLUEPRINT",
+        "url": "https://open.spotify.com/album/0uUIWBDaaXzlb0wwnYMBqi"
+      },
+      "artists": [
+        {
+          "name": "Tyla Jane",
+          "url": "https://open.spotify.com/artist/5u7IvRoGPTFjHhP7iLJdEe"
+        }
+      ],
+      "duration_ms": 173892,
+      "name": "BLUEPRINT",
+      "url": "https://open.spotify.com/track/7fpL4XovI4WEpjSdU3TAPc"
+    },
+    {
+      "added_at": "2022-09-05 04:00:00",
+      "album": {
+        "name": "Queen of the North",
+        "url": "https://open.spotify.com/album/5q3H7xP47hFw27GQfkov2Z"
+      },
+      "artists": [
+        {
+          "name": "The Cast of Canada's Drag Race",
+          "url": "https://open.spotify.com/artist/5u0HllIQCKS8g2wwOkzb4t"
+        }
+      ],
+      "duration_ms": 177132,
+      "name": "Queen of the North",
+      "url": "https://open.spotify.com/track/5qTuKNWHFsPndAtf8VAtKy"
+    },
+    {
+      "added_at": "2022-09-05 04:00:00",
+      "album": {
+        "name": "If I Can\u2019t Have Love, I Want Power",
+        "url": "https://open.spotify.com/album/3sq0hRtlT2SYeYajr5Cx22"
+      },
+      "artists": [
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        }
+      ],
+      "duration_ms": 146546,
+      "name": "Girl is a Gun",
+      "url": "https://open.spotify.com/track/5sTsbKMuBuIZoGHfoFXdwU"
+    },
+    {
+      "added_at": "2022-09-05 04:00:00",
+      "album": {
+        "name": "All My Exes' Moms",
+        "url": "https://open.spotify.com/album/7D78EyeNCsv7f8fAlYLrvx"
+      },
+      "artists": [
+        {
+          "name": "Brooke Alexx",
+          "url": "https://open.spotify.com/artist/76OGIUhWyFyKOvhRuueDa7"
+        }
+      ],
+      "duration_ms": 125407,
+      "name": "All My Exes' Moms",
+      "url": "https://open.spotify.com/track/3ikuDKc66w7CH9hRgc2KfX"
+    },
+    {
+      "added_at": "2022-09-05 04:00:00",
+      "album": {
+        "name": "Lock&Key",
+        "url": "https://open.spotify.com/album/1lN9DhBjJz4CBLa2vRT3jo"
+      },
+      "artists": [
+        {
+          "name": "Lolahol",
+          "url": "https://open.spotify.com/artist/1qw9DrknRpBITBeyhmeDSn"
+        }
+      ],
+      "duration_ms": 177826,
+      "name": "Lock&Key",
+      "url": "https://open.spotify.com/track/7xpdg8CYqEj9khHJECllMm"
+    },
+    {
+      "added_at": "2022-09-05 04:00:00",
+      "album": {
+        "name": "Desculpa por Eu N\u00e3o Te Amar",
+        "url": "https://open.spotify.com/album/2vZAzUAtQz2IfEMCu8470Z"
+      },
+      "artists": [
+        {
+          "name": "Thiago Pantale\u00e3o",
+          "url": "https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6"
+        }
+      ],
+      "duration_ms": 186188,
+      "name": "Desculpa por Eu N\u00e3o Te Amar",
+      "url": "https://open.spotify.com/track/3sOpdZk6nc2As9ZaeGYkUG"
+    },
+    {
+      "added_at": "2022-09-05 04:00:00",
+      "album": {
+        "name": "VIBE CHECK",
+        "url": "https://open.spotify.com/album/2LioCom8Kw6dzK0QgYDdHT"
+      },
+      "artists": [
+        {
+          "name": "Olivia Lunny",
+          "url": "https://open.spotify.com/artist/7542b5kIvrKX0Zvp5iNpl9"
         },
         {
-          "name": "The Cast of RuPaul's Drag Race, Season 14",
-          "url": "https://open.spotify.com/artist/1rHLf5OwIQWxToS6Q4Kx1V"
+          "name": "Bhad Bhabie",
+          "url": "https://open.spotify.com/artist/7DuTB6wdzqFJGFLSH17k8e"
         }
       ],
-      "duration_ms": 166666,
-      "name": "Catwalk (Cast Version)",
-      "url": "https://open.spotify.com/track/3wx1zamEmV2OW4BnejmnrA"
+      "duration_ms": 160359,
+      "name": "VIBE CHECK",
+      "url": "https://open.spotify.com/track/1V0baQoLijQGptRC0kBDaY"
     },
     {
-      "added_at": "2022-08-29 04:00:00",
+      "added_at": "2022-09-05 04:00:00",
       "album": {
-        "name": "Better Mistakes",
-        "url": "https://open.spotify.com/album/0ypVp54cO3kexiJNu33wYp"
+        "name": "COBRAH",
+        "url": "https://open.spotify.com/album/1MSVIDaDrvigdChfh3df4S"
       },
       "artists": [
         {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+          "name": "COBRAH",
+          "url": "https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne"
+        }
+      ],
+      "duration_ms": 185417,
+      "name": "GOOEY FLUID GIRLS",
+      "url": "https://open.spotify.com/track/1U3lHPhY6jIQDRaB5ADGHn"
+    },
+    {
+      "added_at": "2022-09-05 04:00:00",
+      "album": {
+        "name": "Pop Off Ate (Flexbomb Girls Version)",
+        "url": "https://open.spotify.com/album/14n8UJDHL5bC8pG0wa9WSg"
+      },
+      "artists": [
+        {
+          "name": "The Cast of Drag Race Philippines",
+          "url": "https://open.spotify.com/artist/7nqkfmiYeTOqS2KdCwdjpP"
+        }
+      ],
+      "duration_ms": 223571,
+      "name": "Pop Off Ate - Flexbomb Girls Version",
+      "url": "https://open.spotify.com/track/3KQizGrZJKe38VjCO3Muw0"
+    },
+    {
+      "added_at": "2022-09-05 04:00:00",
+      "album": {
+        "name": "lighthouse",
+        "url": "https://open.spotify.com/album/5XHnWQuLxlq5xdfI0PMD1k"
+      },
+      "artists": [
+        {
+          "name": "paris jackson",
+          "url": "https://open.spotify.com/artist/11I8qWK4foqycuPFRDFH6e"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "lighthouse",
+      "url": "https://open.spotify.com/track/6os5d1tepUPdaSG5GDRKDf"
+    },
+    {
+      "added_at": "2022-09-05 04:00:00",
+      "album": {
+        "name": "unamerican beauty",
+        "url": "https://open.spotify.com/album/2K6AB4euy0NOpVcKbr0OlN"
+      },
+      "artists": [
+        {
+          "name": "XYL\u00d8",
+          "url": "https://open.spotify.com/artist/6ioOEWNNGK40H8xrGj6XPW"
+        }
+      ],
+      "duration_ms": 252349,
+      "name": "sugar free rush",
+      "url": "https://open.spotify.com/track/7kIbzXX5SnuxVKieq0hV99"
+    },
+    {
+      "added_at": "2022-09-05 04:00:00",
+      "album": {
+        "name": "Cherry Bomb",
+        "url": "https://open.spotify.com/album/0R3SQNJPCqpA4sSVRGjpXE"
+      },
+      "artists": [
+        {
+          "name": "Isabella Lovestory",
+          "url": "https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt"
+        }
+      ],
+      "duration_ms": 149042,
+      "name": "Cherry Bomb",
+      "url": "https://open.spotify.com/track/7AsVvFEqEk7kgi7Vb13tiC"
+    },
+    {
+      "added_at": "2022-09-05 04:00:00",
+      "album": {
+        "name": "Naked",
+        "url": "https://open.spotify.com/album/5ShHPBnTeucExVbL6ccqXj"
+      },
+      "artists": [
+        {
+          "name": "Sam Short",
+          "url": "https://open.spotify.com/artist/0lhNnj2stuzFCs8ihzu0mz"
+        }
+      ],
+      "duration_ms": 133971,
+      "name": "Naked",
+      "url": "https://open.spotify.com/track/7bI5GpjLRkil6k42fuFfAH"
+    },
+    {
+      "added_at": "2022-09-05 04:00:00",
+      "album": {
+        "name": "Booty (feat. Latto)",
+        "url": "https://open.spotify.com/album/3JLGu56kAsK7LO8fZ1vCwF"
+      },
+      "artists": [
+        {
+          "name": "Saucy Santana",
+          "url": "https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23"
         },
         {
-          "name": "Travis Barker",
-          "url": "https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX"
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
         }
       ],
-      "duration_ms": 151999,
-      "name": "Break My Heart Myself (feat. Travis Barker)",
-      "url": "https://open.spotify.com/track/3UjGudrhckjEQjKHLR3p5G"
+      "duration_ms": 146666,
+      "name": "Booty (feat. Latto)",
+      "url": "https://open.spotify.com/track/3Ca24oa8tofPtGYuULHXHI"
     },
     {
-      "added_at": "2022-08-29 04:00:00",
+      "added_at": "2022-09-05 04:00:00",
       "album": {
-        "name": "bad things come in 3s",
-        "url": "https://open.spotify.com/album/29NCAQcGId5b4HAJp87xCM"
+        "name": "Save Me",
+        "url": "https://open.spotify.com/album/0aYqbPXUoilLlYD7GZVvhf"
       },
       "artists": [
         {
-          "name": "NOT THE MAIN CHARACTERS",
-          "url": "https://open.spotify.com/artist/3zXPbW06DXFBAToUstfD1V"
+          "name": "Empress Of",
+          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
         }
       ],
-      "duration_ms": 132000,
-      "name": "survival of the littest",
-      "url": "https://open.spotify.com/track/3VtoWz29VkRNtCMKfn6VZv"
+      "duration_ms": 198243,
+      "name": "Save Me",
+      "url": "https://open.spotify.com/track/0B4Jl6HsG9hS3Q2vOfV9Kf"
     },
     {
-      "added_at": "2022-08-29 04:00:00",
+      "added_at": "2022-09-05 04:00:00",
       "album": {
-        "name": "To My White Boy Princess... ...",
-        "url": "https://open.spotify.com/album/5RIfRNNfJdLSwVQnJHQNHU"
+        "name": "True Colors",
+        "url": "https://open.spotify.com/album/4xi8cFn6gpPkcCrz9WQJm6"
       },
       "artists": [
         {
-          "name": "Alice Longyu Gao",
-          "url": "https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL"
+          "name": "Shuba",
+          "url": "https://open.spotify.com/artist/3Uios5Yyv4i8EBs9H3DUY5"
         }
       ],
-      "duration_ms": 178563,
-      "name": "To My White Boy Princess... ...",
-      "url": "https://open.spotify.com/track/4D4pGGCBU81ms2ioTYuVO2"
+      "duration_ms": 175099,
+      "name": "True Colors",
+      "url": "https://open.spotify.com/track/5bRfqjj8WEGw5S1gnrLbcm"
     },
     {
-      "added_at": "2022-08-29 04:00:00",
+      "added_at": "2022-09-05 04:00:00",
       "album": {
-        "name": "Love, l'art\u00e8re",
-        "url": "https://open.spotify.com/album/3mpBrERVFJmIVSjBB2FiwI"
+        "name": "Sex In Public",
+        "url": "https://open.spotify.com/album/77V0Iyb9fUZsUNj4iCs7NV"
       },
       "artists": [
         {
-          "name": "Paloma",
-          "url": "https://open.spotify.com/artist/0se892wuxZ6XIMUOEPewVb"
+          "name": "Menna",
+          "url": "https://open.spotify.com/artist/5kLvMAFanr3jQ7iuciSCuM"
+        }
+      ],
+      "duration_ms": 143531,
+      "name": "Sex In Public",
+      "url": "https://open.spotify.com/track/6iyWZc91qCpdJZwv3rY7xk"
+    },
+    {
+      "added_at": "2022-09-05 04:00:00",
+      "album": {
+        "name": "GIRLS",
+        "url": "https://open.spotify.com/album/3KExRXeulCEJWUYr6IP2lk"
+      },
+      "artists": [
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
         },
         {
-          "name": "Marc Bret-Vittoz",
-          "url": "https://open.spotify.com/artist/6X3RHEXPV6XFPQkFeh5jqS"
+          "name": "Kari Faux",
+          "url": "https://open.spotify.com/artist/4c2ighP1wj8E5dVGJDCOiB"
         }
       ],
-      "duration_ms": 268008,
-      "name": "Love, l'art\u00e8re",
-      "url": "https://open.spotify.com/track/4rmi8DKrOq0oNufElMQwT8"
+      "duration_ms": 162332,
+      "name": "Hot Girl (feat. Kari Faux)",
+      "url": "https://open.spotify.com/track/1p2ZhlXPJ1CdEKEcl4naXs"
     },
     {
-      "added_at": "2022-08-29 04:00:00",
+      "added_at": "2022-09-05 04:00:00",
       "album": {
-        "name": "Sofia Carson",
-        "url": "https://open.spotify.com/album/5Y63nlA6F7z3yaqHjF7suD"
+        "name": "boythots",
+        "url": "https://open.spotify.com/album/4x1k1941BX8jNrxhiI9QYv"
       },
       "artists": [
         {
-          "name": "Sofia Carson",
-          "url": "https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ"
+          "name": "daine",
+          "url": "https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG"
         }
       ],
-      "duration_ms": 190780,
-      "name": "Sugar",
-      "url": "https://open.spotify.com/track/09cYmobHwrydPiQLA59PsS"
+      "duration_ms": 137844,
+      "name": "boythots",
+      "url": "https://open.spotify.com/track/57miWCpd7kX78sbys9uWRg"
     },
     {
-      "added_at": "2022-08-29 04:00:00",
+      "added_at": "2022-09-05 04:00:00",
       "album": {
-        "name": "Highly Emotional People (Le Sac Remix)",
-        "url": "https://open.spotify.com/album/3kyRRyuTK708qoMHshpvN0"
+        "name": "I Could Die",
+        "url": "https://open.spotify.com/album/788D1lbGLyKuaUtL6euBPv"
       },
       "artists": [
         {
-          "name": "MARINA",
-          "url": "https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A"
+          "name": "laye",
+          "url": "https://open.spotify.com/artist/0Ae6oW3ISslTTIL7lIcCkn"
+        }
+      ],
+      "duration_ms": 167526,
+      "name": "I Could Die",
+      "url": "https://open.spotify.com/track/7ygrZLtm1fACjfPTYHjBLK"
+    },
+    {
+      "added_at": "2022-09-05 04:00:00",
+      "album": {
+        "name": "DOUBL3 TAK3",
+        "url": "https://open.spotify.com/album/14sWddJTD6NLk0R5XrTbIV"
+      },
+      "artists": [
+        {
+          "name": "DAMAG3",
+          "url": "https://open.spotify.com/artist/0xIT8X4ltWYOTHXJ2hm6vn"
+        }
+      ],
+      "duration_ms": 152021,
+      "name": "DOUBL3 TAK3",
+      "url": "https://open.spotify.com/track/34R1VuH4kHhMW8rGH10mXO"
+    },
+    {
+      "added_at": "2022-09-05 04:00:00",
+      "album": {
+        "name": "ALPHA",
+        "url": "https://open.spotify.com/album/32lsJQmgxK7swVFGZYfQWg"
+      },
+      "artists": [
+        {
+          "name": "CL",
+          "url": "https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3"
+        }
+      ],
+      "duration_ms": 190333,
+      "name": "Chuck",
+      "url": "https://open.spotify.com/track/7IxQeygM5vi2Lwr5hwbyMc"
+    },
+    {
+      "added_at": "2022-09-05 04:00:00",
+      "album": {
+        "name": "Not Good Enough",
+        "url": "https://open.spotify.com/album/06h8AH5fAlGe0SRz98bX4N"
+      },
+      "artists": [
+        {
+          "name": "DENTON",
+          "url": "https://open.spotify.com/artist/7eeeSZPk23JqjvyDK6E2YP"
         },
         {
-          "name": "Le Sac",
-          "url": "https://open.spotify.com/artist/0bPFSBcLvpDEEUMxs5zZnk"
+          "name": "rosecat",
+          "url": "https://open.spotify.com/artist/1BgpzKkAbBDiLbDSgIkvc9"
         }
       ],
-      "duration_ms": 150476,
-      "name": "Highly Emotional People - Le Sac Remix",
-      "url": "https://open.spotify.com/track/3X6pmFQl2QauPZDDYIKdzD"
+      "duration_ms": 162857,
+      "name": "Not Good Enough",
+      "url": "https://open.spotify.com/track/1V3IiS8L5f8jzPPHf9gRi6"
     },
     {
-      "added_at": "2022-08-29 04:00:00",
+      "added_at": "2022-09-05 04:00:00",
       "album": {
-        "name": "We Not Humping (Remix)",
-        "url": "https://open.spotify.com/album/1V9eCkZxExdad79zHEE6Dk"
+        "name": "Only Fans",
+        "url": "https://open.spotify.com/album/1hUCrAa6N9Gr9aZHhi2N1C"
       },
       "artists": [
         {
-          "name": "Monaleo",
-          "url": "https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb"
+          "name": "Domiziana",
+          "url": "https://open.spotify.com/artist/3XZewrXpRQqqCMuUMAIhvN"
+        }
+      ],
+      "duration_ms": 96304,
+      "name": "Only Fans",
+      "url": "https://open.spotify.com/track/0leFOfqRs3rC8GHFSysAET"
+    },
+    {
+      "added_at": "2022-09-05 04:00:00",
+      "album": {
+        "name": "Seasons",
+        "url": "https://open.spotify.com/album/1pRK20i2P7hOE4jweXGp29"
+      },
+      "artists": [
+        {
+          "name": "Maharani",
+          "url": "https://open.spotify.com/artist/3eierPHdYDKLc9SmZh70MW"
         },
         {
-          "name": "Flo Milli",
-          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
-        }
-      ],
-      "duration_ms": 143325,
-      "name": "We Not Humping - Remix",
-      "url": "https://open.spotify.com/track/4ue41gFbAjoU0P1EberJWm"
-    },
-    {
-      "added_at": "2022-08-29 04:00:00",
-      "album": {
-        "name": "Barbiegurl",
-        "url": "https://open.spotify.com/album/7LpTCyYkUlqigtPWk3RY1X"
-      },
-      "artists": [
-        {
-          "name": "Malibu Babie",
-          "url": "https://open.spotify.com/artist/30BzssruVp26rt8bIe6LcZ"
-        }
-      ],
-      "duration_ms": 153230,
-      "name": "Barbiegurl",
-      "url": "https://open.spotify.com/track/2QdEBk0hnVc9tHLHXuLuYb"
-    },
-    {
-      "added_at": "2022-08-29 04:00:00",
-      "album": {
-        "name": "Rude Girl",
-        "url": "https://open.spotify.com/album/5nalPhFowgImnYG9rvHhQs"
-      },
-      "artists": [
-        {
-          "name": "Paula Jiv\u00e9n",
-          "url": "https://open.spotify.com/artist/42VDvOzr6eyxscOD2ax83D"
-        }
-      ],
-      "duration_ms": 184250,
-      "name": "Rude Girl",
-      "url": "https://open.spotify.com/track/5BIKxh0EVJnEQdP7Cn7XH6"
-    },
-    {
-      "added_at": "2022-08-29 04:00:00",
-      "album": {
-        "name": "Riverdale: Special Episode - American Psycho the Musical (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/0GQVuSnUpD7OC0XZMwAeow"
-      },
-      "artists": [
-        {
-          "name": "Riverdale Cast",
-          "url": "https://open.spotify.com/artist/3famqI9bxiwLcAjRq3HuYl"
+          "name": "ItsyaboiKay",
+          "url": "https://open.spotify.com/artist/2B6HF8XA5T6hG0DmSG42q5"
         },
         {
-          "name": "Camila Mendes",
-          "url": "https://open.spotify.com/artist/0fCpd1gWP1kObFnctwl9r6"
+          "name": "Tha Mystro",
+          "url": "https://open.spotify.com/artist/1CDq8tF7Lqvq3TqLCmNOMQ"
         },
         {
-          "name": "Caroline Day",
-          "url": "https://open.spotify.com/artist/5IFI7I0mm4le84AkqChLda"
+          "name": "Sashank Mallya",
+          "url": "https://open.spotify.com/artist/6yvyLEpe60gQNJLhrDWBC7"
         },
         {
-          "name": "Erinn Westbrook",
-          "url": "https://open.spotify.com/artist/307jASqQaDdzcZyRO3eXrw"
-        },
-        {
-          "name": "Lili Reinhart",
-          "url": "https://open.spotify.com/artist/3tIuDX97G6mxs19z9UjedI"
-        },
-        {
-          "name": "Madelaine Petsch",
-          "url": "https://open.spotify.com/artist/3sYjKuTeP3mEZWbSdCijMn"
-        },
-        {
-          "name": "Sophia Tatum",
-          "url": "https://open.spotify.com/artist/6HGmE3SqvkXEdmpyeBx4dM"
-        },
-        {
-          "name": "Vanessa Morgan",
-          "url": "https://open.spotify.com/artist/6d6OLClB7YoejUnx13bEO6"
+          "name": "MJ Melodies",
+          "url": "https://open.spotify.com/artist/3lKheshxHCfbOVM21KcnZI"
         }
       ],
-      "duration_ms": 112840,
-      "name": "You Are What You Wear (feat. Vanessa Morgan, Erinn Westbrook, Camila Mendes, Lili Reinhart, Madelaine Petsch, Caroline Day & Sophia Tatum)",
-      "url": "https://open.spotify.com/track/5LGg5EN9RxEv1fjw6mJwtd"
+      "duration_ms": 288000,
+      "name": "Seasons",
+      "url": "https://open.spotify.com/track/1i3ZR4AnvVhajwNEPhWGuK"
     },
     {
-      "added_at": "2022-08-29 04:00:00",
+      "added_at": "2022-09-05 04:00:00",
       "album": {
-        "name": "Psycho",
-        "url": "https://open.spotify.com/album/38JnZICAqe2SZgsnSr9kYj"
+        "name": "Mr. Badman",
+        "url": "https://open.spotify.com/album/1yoB04FUkmvB5hTY0aMi0y"
       },
       "artists": [
         {
-          "name": "Meg DeAngelis",
-          "url": "https://open.spotify.com/artist/1yolJlMzhzK1UWcHTC7Mw2"
+          "name": "Cruel Youth",
+          "url": "https://open.spotify.com/artist/4YrURxtCHtPBfNDmMNp7IG"
         }
       ],
-      "duration_ms": 161457,
-      "name": "Psycho",
-      "url": "https://open.spotify.com/track/3tz5qX4d2jtL76TYZ5LsiJ"
+      "duration_ms": 215506,
+      "name": "Mr. Badman",
+      "url": "https://open.spotify.com/track/5qOompjnkbU6x7aMNe1jKr"
     },
     {
-      "added_at": "2022-08-29 04:00:00",
+      "added_at": "2022-09-05 04:00:00",
       "album": {
-        "name": "Touch Tank",
-        "url": "https://open.spotify.com/album/7H4pBm1ya6jK1hDx6d7cS1"
+        "name": "Mom Jeans",
+        "url": "https://open.spotify.com/album/6a2gZjOyZD9Qg8SaLKLbtt"
       },
       "artists": [
         {
-          "name": "Lindsay Reamer",
-          "url": "https://open.spotify.com/artist/3IYstbLrnLqFogmR4rCw1W"
+          "name": "morgen",
+          "url": "https://open.spotify.com/artist/6jadsn0j1QjrlJTMiaUJYF"
         }
       ],
-      "duration_ms": 156044,
-      "name": "Touch Tank",
-      "url": "https://open.spotify.com/track/067KNpTqmwDr37x4CXiTaJ"
+      "duration_ms": 119275,
+      "name": "Mom Jeans",
+      "url": "https://open.spotify.com/track/4Q2ccX0e7grpqZal3OuTuX"
     },
     {
-      "added_at": "2022-08-29 04:00:00",
+      "added_at": "2022-09-05 04:00:00",
       "album": {
-        "name": "REHAB?",
-        "url": "https://open.spotify.com/album/4RPqmtRv2kylEzmL9ralKZ"
+        "name": "Sensitive",
+        "url": "https://open.spotify.com/album/4m6TJWcVB64Ja5K5Sz7Urw"
       },
       "artists": [
         {
-          "name": "Jessiqa Jones",
-          "url": "https://open.spotify.com/artist/3jt2Xvzm0RHCW962b1N1qT"
+          "name": "Alex Porat",
+          "url": "https://open.spotify.com/artist/3aROeSNBd69DWHpcyyMOcI"
         }
       ],
-      "duration_ms": 217297,
-      "name": "REHAB?",
-      "url": "https://open.spotify.com/track/3r886NNQL7iOK1CXEKH2lx"
-    },
-    {
-      "added_at": "2022-08-29 04:00:00",
-      "album": {
-        "name": "Slow Motion Fighting",
-        "url": "https://open.spotify.com/album/7n5nAFG2XR2aHVdERmC9o0"
-      },
-      "artists": [
-        {
-          "name": "Kiesza",
-          "url": "https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo"
-        }
-      ],
-      "duration_ms": 231170,
-      "name": "Slow Motion Fighting",
-      "url": "https://open.spotify.com/track/11XzqusNjPjPdXkSWftcxW"
-    },
-    {
-      "added_at": "2022-08-29 04:00:00",
-      "album": {
-        "name": "Bitch Shit",
-        "url": "https://open.spotify.com/album/1JNr0pj5UPl8qL2FcJi2wS"
-      },
-      "artists": [
-        {
-          "name": "WIIGZ",
-          "url": "https://open.spotify.com/artist/0mh9FUIglCeBXhVTYqjhaB"
-        }
-      ],
-      "duration_ms": 192321,
-      "name": "Bitch Shit",
-      "url": "https://open.spotify.com/track/1uOXCyaIrZ15XvBbxw8Thf"
-    },
-    {
-      "added_at": "2022-08-29 04:00:00",
-      "album": {
-        "name": "Crazy",
-        "url": "https://open.spotify.com/album/2a8cs4ziDk29KUAdUhHwQB"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 134116,
-      "name": "Crazy",
-      "url": "https://open.spotify.com/track/2b1MCbfwRZ1teOX1vSm4Xt"
-    },
-    {
-      "added_at": "2022-08-29 04:00:00",
-      "album": {
-        "name": "Morals",
-        "url": "https://open.spotify.com/album/1BuwHGPOrn6aDAfs7IkkDA"
-      },
-      "artists": [
-        {
-          "name": "Helen",
-          "url": "https://open.spotify.com/artist/0dKF6Q9Wz7Y3PKSNyaFpkM"
-        }
-      ],
-      "duration_ms": 195428,
-      "name": "Morals",
-      "url": "https://open.spotify.com/track/3GVc1QJeAoFyQOlJNb8XHb"
-    },
-    {
-      "added_at": "2022-08-29 04:00:00",
-      "album": {
-        "name": "Dance With You",
-        "url": "https://open.spotify.com/album/4e0RTJEbQGd7cfGd2CHSm4"
-      },
-      "artists": [
-        {
-          "name": "Arkells",
-          "url": "https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk"
-        },
-        {
-          "name": "C\u0153ur De Pirate",
-          "url": "https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA"
-        },
-        {
-          "name": "Aly & AJ",
-          "url": "https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i"
-        }
-      ],
-      "duration_ms": 226937,
-      "name": "Dance With You",
-      "url": "https://open.spotify.com/track/2nsf0yZBCWNq20FvTUCXpe"
-    },
-    {
-      "added_at": "2022-08-29 04:00:00",
-      "album": {
-        "name": "Heavy Guarded Heart",
-        "url": "https://open.spotify.com/album/5edf2q5lF5kFAPJwnp52ZC"
-      },
-      "artists": [
-        {
-          "name": "Aint Afraid",
-          "url": "https://open.spotify.com/artist/1E6I6xhlNmVIgnDGkikmj5"
-        }
-      ],
-      "duration_ms": 199626,
-      "name": "That's Final",
-      "url": "https://open.spotify.com/track/2eKYTJRxWYkdn3fhQdcX5a"
-    },
-    {
-      "added_at": "2022-08-29 04:00:00",
-      "album": {
-        "name": "Hips",
-        "url": "https://open.spotify.com/album/4eqRACpdFBoYXFbvtfvZRv"
-      },
-      "artists": [
-        {
-          "name": "Sevndeep",
-          "url": "https://open.spotify.com/artist/2OEgfLq3e6ZmpKnb6O6Y7V"
-        }
-      ],
-      "duration_ms": 191067,
-      "name": "Hips",
-      "url": "https://open.spotify.com/track/6hSNv781RJdoMxglnQCfy6"
-    },
-    {
-      "added_at": "2022-08-29 04:00:00",
-      "album": {
-        "name": "Love, Victor: Season 3 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/19xxnBkkYArMHavIT1c2Hr"
-      },
-      "artists": [
-        {
-          "name": "Jonah Mutono",
-          "url": "https://open.spotify.com/artist/6DycDXzvurfW6Z7CMCQC4P"
-        }
-      ],
-      "duration_ms": 147284,
-      "name": "Only You",
-      "url": "https://open.spotify.com/track/78reznKyxnP51YPifbCPhR"
-    },
-    {
-      "added_at": "2022-08-29 04:00:00",
-      "album": {
-        "name": "BLENDER",
-        "url": "https://open.spotify.com/album/5RWbbE6qM3kNDSNyXuNNXS"
-      },
-      "artists": [
-        {
-          "name": "5 Seconds of Summer",
-          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
-        }
-      ],
-      "duration_ms": 147744,
-      "name": "BLENDER",
-      "url": "https://open.spotify.com/track/5VXDmiV2pC2KY2N60oKz4B"
-    },
-    {
-      "added_at": "2022-08-29 04:00:00",
-      "album": {
-        "name": "dying on the inside",
-        "url": "https://open.spotify.com/album/67sFRrnPbvz9Te28kO6Ktu"
-      },
-      "artists": [
-        {
-          "name": "Nessa Barrett",
-          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
-        }
-      ],
-      "duration_ms": 204847,
-      "name": "dying on the inside",
-      "url": "https://open.spotify.com/track/6h1s7cKnUtsbRpE5bwnUTf"
-    },
-    {
-      "added_at": "2022-08-29 04:00:00",
-      "album": {
-        "name": "i\u2019m too pretty for this",
-        "url": "https://open.spotify.com/album/50hj2kKggCkXqSIX2c1rxF"
-      },
-      "artists": [
-        {
-          "name": "Claire Rosinkranz",
-          "url": "https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24"
-        }
-      ],
-      "duration_ms": 166037,
-      "name": "i'm too pretty for this",
-      "url": "https://open.spotify.com/track/4shULiz3P7luscRsQobtDN"
-    },
-    {
-      "added_at": "2022-08-29 04:00:00",
-      "album": {
-        "name": "Grown",
-        "url": "https://open.spotify.com/album/0qg7zJ3vm8Mv7xtrrYYhQV"
-      },
-      "artists": [
-        {
-          "name": "Kidd Kenn",
-          "url": "https://open.spotify.com/artist/5dkb0qOeUicNVLZKRGG92m"
-        }
-      ],
-      "duration_ms": 121403,
-      "name": "Body",
-      "url": "https://open.spotify.com/track/18feWbwhFN17h99rUJxXJg"
-    },
-    {
-      "added_at": "2022-08-29 04:00:00",
-      "album": {
-        "name": "Girls",
-        "url": "https://open.spotify.com/album/24Q4mP7478fGZpfgOw0PHw"
-      },
-      "artists": [
-        {
-          "name": "VAN\u00c8S",
-          "url": "https://open.spotify.com/artist/1pTUJW4rouSRTVpWFHHHVt"
-        }
-      ],
-      "duration_ms": 164532,
-      "name": "Girls",
-      "url": "https://open.spotify.com/track/2CRK2gpsJ8sDcYirGYZrF1"
-    },
-    {
-      "added_at": "2022-08-29 04:00:00",
-      "album": {
-        "name": "FOREVER 1 - The 7th Album",
-        "url": "https://open.spotify.com/album/3CcgnUkTrUaPTt4Ms1MkoP"
-      },
-      "artists": [
-        {
-          "name": "Girls' Generation",
-          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
-        }
-      ],
-      "duration_ms": 182186,
-      "name": "Villain",
-      "url": "https://open.spotify.com/track/3FuL8QGYM7NWj9YWFCEc5W"
-    },
-    {
-      "added_at": "2022-08-29 04:00:00",
-      "album": {
-        "name": "Tongue",
-        "url": "https://open.spotify.com/album/0TNM4CTPP3WUA7oZcpe5cN"
-      },
-      "artists": [
-        {
-          "name": "R\u00eave",
-          "url": "https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx"
-        }
-      ],
-      "duration_ms": 133333,
-      "name": "Tongue",
-      "url": "https://open.spotify.com/track/2bJgUPmlG2o6A0qfZJgkdh"
-    },
-    {
-      "added_at": "2022-08-29 04:00:00",
-      "album": {
-        "name": "Finish Line",
-        "url": "https://open.spotify.com/album/3i1RQtutPgn8oR8fZtZgK9"
-      },
-      "artists": [
-        {
-          "name": "Rita Ora",
-          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
-        }
-      ],
-      "duration_ms": 216820,
-      "name": "Finish Line",
-      "url": "https://open.spotify.com/track/0Vua3a4EZaEiGTfbUGImXf"
+      "duration_ms": 157819,
+      "name": "Sensitive",
+      "url": "https://open.spotify.com/track/2zQH8HDTJww0eYqXAAnJys"
     }
   ],
   "unique_name": "Discover Weekly (@catzs)",

@@ -1341,7 +1341,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-06",
       "duration_ms": 408666,
       "name": "I Know You Will",
       "url": "https://open.spotify.com/track/5s9HKog1eWw3CnXzu8I4L7"
@@ -2515,6 +2515,24 @@
       "duration_ms": 272933,
       "name": "Sunny",
       "url": "https://open.spotify.com/track/6uHHXWpdyPMQ5KBiF6BXYS"
+    },
+    {
+      "album": {
+        "name": "Rhythm Of Life",
+        "url": "https://open.spotify.com/album/2mv1fpeMeseWyD0MIjKxe1"
+      },
+      "artists": [
+        {
+          "name": "James Mason",
+          "url": "https://open.spotify.com/artist/6HC9gScXpsScEq3Cgq5UvZ"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326320,
+      "name": "Sweet Power of Your Embrace",
+      "url": "https://open.spotify.com/track/55goBag8vVmsesMxOdIe5M"
     },
     {
       "album": {

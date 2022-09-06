@@ -4,7 +4,7 @@
 
 > From across the globe\. New artists on the horizon.
 
-799 songs - 1 day 21 hr 2 min - [published](https://open.spotify.com/playlist/5vCFU5jLGp753wsXFermer)
+800 songs - 1 day 21 hr 4 min - [published](https://open.spotify.com/playlist/5vCFU5jLGp753wsXFermer)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,6 +182,7 @@
 | [Dù Cho Mai Về Sau](https://open.spotify.com/track/4Iz5EWPCAT8jYNk4IpLoll) | [buitruonglinh](https://open.spotify.com/artist/7Cp2hGcriAaDUAWpXnSEwm) | [Dù Cho Mai Về Sau](https://open.spotify.com/album/38rXnQ4McNlZGTA3WNPNc1) | 3:53 | 2022-06-29 | 2022-08-02 |
 | [Dù Cho Mai Về Sau](https://open.spotify.com/track/5SUXc3Xe4GaWyDo45v6Lea) | [buitruonglinh](https://open.spotify.com/artist/7Cp2hGcriAaDUAWpXnSEwm) | [Dù Cho Mai Về Sau](https://open.spotify.com/album/493DApdcbUofbYUTNvHySe) | 3:53 | 2022-02-03 | 2022-07-29 |
 | [Dại \(feat\. Tuyên\)](https://open.spotify.com/track/3Q7F2C1nXJuLWYaIfWcaaO) | [buitruonglinh](https://open.spotify.com/artist/7Cp2hGcriAaDUAWpXnSEwm), [Tuyên](https://open.spotify.com/artist/4joNWs26XgMPKcV4hJ03hr) | [Dại \(feat\. Tuyên\)](https://open.spotify.com/album/57a9lrigGfOo1gemzqFYDk) | 3:34 | 2022-02-03 | 2022-08-02 |
+| [Ego](https://open.spotify.com/track/2hXd0dhfmTpatwxOXMq0ID) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Ego](https://open.spotify.com/album/04rFqp0OAdU120I1J3S4Rn) | 2:15 | 2022-08-26 |  |
 | [El Barrio](https://open.spotify.com/track/1C99AXjM9atPNIgm3JwE3t) | [Perro Primo](https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA), [El Mas Berrako](https://open.spotify.com/artist/4QCMJeV5aPlZCswgzTyX2X), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR) | [El Barrio](https://open.spotify.com/album/7e6QkedF9KH6dsW8McP29w) | 2:35 | 2022-03-24 | 2022-04-11 |
 | [El Dueño De Tu Amor](https://open.spotify.com/track/3sgf3LgcrNoqOB1jm7PIP0) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Las Dos Caras Del Amor](https://open.spotify.com/album/30Zq5q0nnyLYluf1ZmsvF7) | 3:45 | 2022-03-24 |  |
 | [El Mensaje](https://open.spotify.com/track/2KixbV3oLBNrQP2cXwrAC4) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [El Mensaje](https://open.spotify.com/album/7rm64Fm5KyyffZ5w0lFwpV) | 3:02 | 2022-08-04 |  |
@@ -695,7 +696,7 @@
 | [Young](https://open.spotify.com/track/4Ujidgwz5Y4lfXuCPwSYqN) | [Neoma](https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip) | [Real](https://open.spotify.com/album/22uHnOv9QiDKHUAQJZz04j) | 3:14 | 2022-06-29 | 2022-07-29 |
 | [Your Reflection](https://open.spotify.com/track/2lRcZxRB4xQLEBhyzTauC9) | [Rhosy](https://open.spotify.com/artist/3lL6jMbIkYzyxsXn3TU7GK) | [Words You Want](https://open.spotify.com/album/4NbdLnwTinHtXolBnSYmNG) | 2:29 | 2022-03-24 | 2022-08-02 |
 | [Youth](https://open.spotify.com/track/2f220hYoclwzYQGyAvsokr) | [CIFIKA](https://open.spotify.com/artist/0OK6Xs5X1kHs07y68n65CQ) | [Youth](https://open.spotify.com/album/3CDz4HcxV7b9UHgmk7lUSy) | 4:32 | 2022-02-10 | 2022-02-15 |
-| [Zero Calorie Cookie](https://open.spotify.com/track/2aItJ1oeMxElBTGhGc2nGf) | [Marie](https://open.spotify.com/artist/5o7Atiia4I0WLFuN2qAu6M) | [Zero Calorie Cookie](https://open.spotify.com/album/1oafWfr6hOnwcGAkrRI63K) | 2:52 | 2022-03-24 |  |
+| [Zero Calorie Cookie](https://open.spotify.com/track/2aItJ1oeMxElBTGhGc2nGf) | [Marie](https://open.spotify.com/artist/5o7Atiia4I0WLFuN2qAu6M) | [Zero Calorie Cookie](https://open.spotify.com/album/1oafWfr6hOnwcGAkrRI63K) | 2:52 | 2022-03-24 | 2022-09-06 |
 | [Zo Zijn](https://open.spotify.com/track/1q30hUyUUZyjytlKTJz4cI) | [sor](https://open.spotify.com/artist/267wBt3XfmW3kdOC0JCtcO) | [Zo Zijn](https://open.spotify.com/album/2AaXaMEDHo0ZJbvsoTmynp) | 3:12 | 2022-03-24 | 2022-04-18 |
 | [Zonder Gezicht](https://open.spotify.com/track/0KAqcZyd6eiKjyneZRmePT) | [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp), [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [Uitzinnig](https://open.spotify.com/album/1uAimajt3zW6EGLIE83jnc) | 2:44 | 2022-03-24 | 2022-04-12 |
 | [¿Por Qué Me Dejaste de Querer?](https://open.spotify.com/track/3A0EC7X2FGSnbFDOCb8ZoT) | [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [¿Por Qué Me Dejaste de Querer?](https://open.spotify.com/album/6957JkC44ERGeUABWH6ssX) | 3:16 | 2022-04-12 | 2022-08-02 |

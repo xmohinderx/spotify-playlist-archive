@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 
 > Only the hottest South African House and Dance singles out right now\. Cover: <a href="https://open.spotify.com/artist/5gVxephJtTx5uMF26ZVptW?si=w5Sf3CMgQkG4HbK58xv\_Pg">Mobi Dixon</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,296 likes - 74 songs - 7 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,316 likes - 74 songs - 7 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

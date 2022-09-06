@@ -1,12 +1,12 @@
 {
   "description": "Sometimes upbeat, sometimes chill, these songs will encourage you and warm your heart and soul.",
-  "num_followers": 179523,
+  "num_followers": 179578,
   "original_name": "Love Coffee, Love Jesus",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5ODg4NzE1OSwwMDAwMDAwMGJjZmVlYjBhZDI0ZmQ5MDgzYTc0NDk4NzZhOTcwNmE1",
+  "snapshot_id": "MTU5ODg4NzE1OSwwMDAwMDAwMGRhYjdlMzdhNTE3YWU3MzVjMTQ5ZDhlMTgyOGI0Yzk1",
   "tracks": [
     {
       "added_at": "2020-08-31 15:19:19",
@@ -683,6 +683,22 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
+        "name": "Go",
+        "url": "https://open.spotify.com/album/4vuVg0LWXyaxdtBusihvr3"
+      },
+      "artists": [
+        {
+          "name": "Vocal Few",
+          "url": "https://open.spotify.com/artist/4XNEA2zwGthyCOdS9znQGd"
+        }
+      ],
+      "duration_ms": 248671,
+      "name": "Go",
+      "url": "https://open.spotify.com/track/08plw345uiLR5bQZNIsfMc"
+    },
+    {
+      "added_at": "2020-08-31 15:19:19",
+      "album": {
         "name": "Dawn",
         "url": "https://open.spotify.com/album/4X8FlSjZW7YUTj277XNyFY"
       },
@@ -703,18 +719,18 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
-        "name": "Go",
-        "url": "https://open.spotify.com/album/4vuVg0LWXyaxdtBusihvr3"
+        "name": "Mighty Refuge",
+        "url": "https://open.spotify.com/album/3gbvScgQgY27kOt15QR8zt"
       },
       "artists": [
         {
-          "name": "Vocal Few",
-          "url": "https://open.spotify.com/artist/4XNEA2zwGthyCOdS9znQGd"
+          "name": "Aaron Strumpel",
+          "url": "https://open.spotify.com/artist/5mtfJ5KHvDBiCLB2Ue1yYg"
         }
       ],
-      "duration_ms": 248671,
-      "name": "Go",
-      "url": "https://open.spotify.com/track/08plw345uiLR5bQZNIsfMc"
+      "duration_ms": 205948,
+      "name": "Be Thou My Vision",
+      "url": "https://open.spotify.com/track/1mBmuq8Luv3YzIcgZBgOQR"
     },
     {
       "added_at": "2020-08-31 15:19:19",
@@ -739,22 +755,6 @@
       "duration_ms": 300746,
       "name": "Psalm 136 [Your Mercy Endures] [Thomas Merton Mix] - feat. Leslie Jordan] [Thomas Merton Mix",
       "url": "https://open.spotify.com/track/685qjYgfMFp0UKvPbDNYoz"
-    },
-    {
-      "added_at": "2020-08-31 15:19:19",
-      "album": {
-        "name": "Mighty Refuge",
-        "url": "https://open.spotify.com/album/3gbvScgQgY27kOt15QR8zt"
-      },
-      "artists": [
-        {
-          "name": "Aaron Strumpel",
-          "url": "https://open.spotify.com/artist/5mtfJ5KHvDBiCLB2Ue1yYg"
-        }
-      ],
-      "duration_ms": 205948,
-      "name": "Be Thou My Vision",
-      "url": "https://open.spotify.com/track/1mBmuq8Luv3YzIcgZBgOQR"
     },
     {
       "added_at": "2020-08-31 15:19:19",
@@ -791,22 +791,6 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
-        "name": "VILLAIN",
-        "url": "https://open.spotify.com/album/1WYu7wMRAWA0G3IwqcwFAL"
-      },
-      "artists": [
-        {
-          "name": "Jared Marc",
-          "url": "https://open.spotify.com/artist/4VGrnFhLNsG1ni78qk7ZWM"
-        }
-      ],
-      "duration_ms": 246760,
-      "name": "Avalanche - Piano Version",
-      "url": "https://open.spotify.com/track/5P9944uZjaKP2TzRdtErdd"
-    },
-    {
-      "added_at": "2020-08-31 15:19:19",
-      "album": {
         "name": "Love Secrets (B-Sides)",
         "url": "https://open.spotify.com/album/1czXmSklT1QRyz24ZZes6e"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 213942,
       "name": "I Know Just What You Need",
       "url": "https://open.spotify.com/track/0CBxM0vs1cT1YIw0GNnpuO"
+    },
+    {
+      "added_at": "2020-08-31 15:19:19",
+      "album": {
+        "name": "VILLAIN",
+        "url": "https://open.spotify.com/album/1WYu7wMRAWA0G3IwqcwFAL"
+      },
+      "artists": [
+        {
+          "name": "Jared Marc",
+          "url": "https://open.spotify.com/artist/4VGrnFhLNsG1ni78qk7ZWM"
+        }
+      ],
+      "duration_ms": 246760,
+      "name": "Avalanche - Piano Version",
+      "url": "https://open.spotify.com/track/5P9944uZjaKP2TzRdtErdd"
     },
     {
       "added_at": "2020-08-31 15:19:19",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
-        "name": "Well Done (Acoustic)",
-        "url": "https://open.spotify.com/album/3UsMcfnqpfoaIpMWSEKjwW"
-      },
-      "artists": [
-        {
-          "name": "The Afters",
-          "url": "https://open.spotify.com/artist/1Q9nxD19emMUTTWtFi7jZc"
-        }
-      ],
-      "duration_ms": 278906,
-      "name": "Well Done - Acoustic",
-      "url": "https://open.spotify.com/track/13CVyJCDZ5BluOGixDboyI"
-    },
-    {
-      "added_at": "2020-08-31 15:19:19",
-      "album": {
         "name": "New York Sessions",
         "url": "https://open.spotify.com/album/1GmGKswBRZfOb36V1PNX8K"
       },
@@ -1043,18 +1027,18 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
-        "name": "Heavenly Father",
-        "url": "https://open.spotify.com/album/3pm0gWNx9jOhrcjYmQgw6h"
+        "name": "Well Done (Acoustic)",
+        "url": "https://open.spotify.com/album/3UsMcfnqpfoaIpMWSEKjwW"
       },
       "artists": [
         {
-          "name": "York Worship",
-          "url": "https://open.spotify.com/artist/5cSXNbLLtpYdE4ndlwyjyC"
+          "name": "The Afters",
+          "url": "https://open.spotify.com/artist/1Q9nxD19emMUTTWtFi7jZc"
         }
       ],
-      "duration_ms": 374117,
-      "name": "Heavenly Father",
-      "url": "https://open.spotify.com/track/2uQrdSqWdppHOhcOyQHBTr"
+      "duration_ms": 278906,
+      "name": "Well Done - Acoustic",
+      "url": "https://open.spotify.com/track/13CVyJCDZ5BluOGixDboyI"
     },
     {
       "added_at": "2020-08-31 15:19:19",
@@ -1071,6 +1055,22 @@
       "duration_ms": 272600,
       "name": "Come As You Are",
       "url": "https://open.spotify.com/track/2eYm67Yrt9RGuvSXTbPUd2"
+    },
+    {
+      "added_at": "2020-08-31 15:19:19",
+      "album": {
+        "name": "Heavenly Father",
+        "url": "https://open.spotify.com/album/3pm0gWNx9jOhrcjYmQgw6h"
+      },
+      "artists": [
+        {
+          "name": "York Worship",
+          "url": "https://open.spotify.com/artist/5cSXNbLLtpYdE4ndlwyjyC"
+        }
+      ],
+      "duration_ms": 374117,
+      "name": "Heavenly Father",
+      "url": "https://open.spotify.com/track/2uQrdSqWdppHOhcOyQHBTr"
     },
     {
       "added_at": "2020-08-31 15:19:19",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
-        "name": "You Are God, Be Glorified",
-        "url": "https://open.spotify.com/album/1i5UY1ovmrkZlNyhrxMgkb"
-      },
-      "artists": [
-        {
-          "name": "Danny O'Callaghan",
-          "url": "https://open.spotify.com/artist/0jSoCYPN9A69XCLdF0USBj"
-        }
-      ],
-      "duration_ms": 267165,
-      "name": "You Are God, Be Glorified",
-      "url": "https://open.spotify.com/track/6uRtk4FE3HQ9MMSCzGBcsr"
-    },
-    {
-      "added_at": "2020-08-31 15:19:19",
-      "album": {
         "name": "Raise a Hallelujah (Acoustic)",
         "url": "https://open.spotify.com/album/1PYuHatpVpavaTCBi6tidn"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 303176,
       "name": "Raise a Hallelujah (Acoustic)",
       "url": "https://open.spotify.com/track/6PJpu9oZI9OXKTx2sBH2CL"
+    },
+    {
+      "added_at": "2020-08-31 15:19:19",
+      "album": {
+        "name": "You Are God, Be Glorified",
+        "url": "https://open.spotify.com/album/1i5UY1ovmrkZlNyhrxMgkb"
+      },
+      "artists": [
+        {
+          "name": "Danny O'Callaghan",
+          "url": "https://open.spotify.com/artist/0jSoCYPN9A69XCLdF0USBj"
+        }
+      ],
+      "duration_ms": 267165,
+      "name": "You Are God, Be Glorified",
+      "url": "https://open.spotify.com/track/6uRtk4FE3HQ9MMSCzGBcsr"
     },
     {
       "added_at": "2020-08-31 15:19:19",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
-        "name": "Albertine",
-        "url": "https://open.spotify.com/album/692STu3cT5sFQbvSO8qd2X"
-      },
-      "artists": [
-        {
-          "name": "Brooke Fraser",
-          "url": "https://open.spotify.com/artist/1W2FTsCUlviVRhHNjZwWiN"
-        }
-      ],
-      "duration_ms": 215400,
-      "name": "Shadowfeet",
-      "url": "https://open.spotify.com/track/4nvxOpUIhsI9XCSAOkFqpC"
-    },
-    {
-      "added_at": "2020-08-31 15:19:19",
-      "album": {
         "name": "Meadow",
         "url": "https://open.spotify.com/album/7yi1fVFIgsSkBrhSMAmnAf"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 225600,
       "name": "Meadow",
       "url": "https://open.spotify.com/track/3cUCBZ7sjEtAsTw52gk0hm"
+    },
+    {
+      "added_at": "2020-08-31 15:19:19",
+      "album": {
+        "name": "Albertine",
+        "url": "https://open.spotify.com/album/692STu3cT5sFQbvSO8qd2X"
+      },
+      "artists": [
+        {
+          "name": "Brooke Fraser",
+          "url": "https://open.spotify.com/artist/1W2FTsCUlviVRhHNjZwWiN"
+        }
+      ],
+      "duration_ms": 215400,
+      "name": "Shadowfeet",
+      "url": "https://open.spotify.com/track/4nvxOpUIhsI9XCSAOkFqpC"
     },
     {
       "added_at": "2020-08-31 15:19:19",

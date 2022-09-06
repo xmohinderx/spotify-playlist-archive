@@ -4,7 +4,7 @@
 
 > Chitarre più o meno distorte e i Little Pieces in cover 🔥
 
-154 songs - 8 hr 36 min - [published](https://open.spotify.com/playlist/1ygHfNTT8YmP8RXH0ojm4P)
+155 songs - 8 hr 38 min - [published](https://open.spotify.com/playlist/1ygHfNTT8YmP8RXH0ojm4P)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [heavy\-hearted](https://open.spotify.com/track/0EpZxmxdI27Y6hMwO79pvy) | [Her Skin](https://open.spotify.com/artist/6zdyc0Juu2p2uVVISAhOJe) | [heavy\-hearted](https://open.spotify.com/album/428oKi8Lpx377MJjLV1upq) | 2:39 | 2022-05-12 | 2022-07-15 |
 | [Hey U](https://open.spotify.com/track/25Tztg1uslRPRXpXzsXctK) | [Mutonia](https://open.spotify.com/artist/1l9tfz6AVS1Q0QuTlaDRER) | [Hey U](https://open.spotify.com/album/27oTo8ISybYjEze4YL67Bc) | 2:01 | 2022-05-09 | 2022-05-27 |
 | [High On Stress](https://open.spotify.com/track/1y2fS0kinayyO7Ih4vFrqT) | [The Manges](https://open.spotify.com/artist/5Uop1XjzGUDG3t4uoWXooc) | [High On Stress](https://open.spotify.com/album/4TTP6knd1uIUPK2NlFfSEX) | 2:38 | 2022-05-12 | 2022-06-24 |
+| [Holobiont](https://open.spotify.com/track/06ZetzKuRbym6iYX0uPcKI) | [Baseball Gregg](https://open.spotify.com/artist/7MXsu694gc1X8K6s7XPmw4) | [Windows of My House \(Pastimes Vol\. III\)](https://open.spotify.com/album/5ZULctCGzLPmsTUFXtwC4T) | 2:02 | 2022-09-05 |  |
 | [Horror](https://open.spotify.com/track/6fPGBlx8wsAxhoDn7BwiAH) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d) | [REBEL](https://open.spotify.com/album/0WRHoyqLqALdZ8te1QL20V) | 3:39 | 2022-05-09 | 2022-07-01 |
 | [I RAGAZZI COI GOMITI SUI TAVOLI](https://open.spotify.com/track/4Ul88N7v8tRU2PikQXMMcC) | [I Le Lucertole](https://open.spotify.com/artist/5RzjUawywFTUvNpO6wEvvM) | [I RAGAZZI COI GOMITI SUI TAVOLI](https://open.spotify.com/album/0qzgEKo84VFfA49MxdOdWY) | 3:57 | 2022-07-07 | 2022-08-26 |
 | [Idea](https://open.spotify.com/track/0AI35B8TuEtmz5ayf4dQR0) | [La Superluna di Drone Kong](https://open.spotify.com/artist/2yrGOWgivuL3OubJfHj5Xt), [Nikki](https://open.spotify.com/artist/1y9wN6EknDQynEF6123dXJ) | [Idea](https://open.spotify.com/album/3jG7ZwprmZW0PDoImjUL0H) | 2:45 | 2022-05-12 |  |
@@ -144,7 +145,7 @@
 | [Tra chi fugge e chi resta](https://open.spotify.com/track/5YmJTaXU588pytZNYxVWew) | [Giorgieness](https://open.spotify.com/artist/4QYFjNac8XiU828KjV1oWA) | [Tra chi fugge e chi resta](https://open.spotify.com/album/6hm4YB2ZEfO02LFQX1rx31) | 2:56 | 2022-05-09 | 2022-06-10 |
 | [Trails of Me](https://open.spotify.com/track/0YYOvEXpjVsMPEJaUvFWG5) | [Laeds](https://open.spotify.com/artist/0hqZLWRcPUaQ6chCgYYi7g) | [Trails of Me](https://open.spotify.com/album/6wjDGE6rWctp7CZm69z9C7) | 4:19 | 2022-08-11 | 2022-09-02 |
 | [Turnover](https://open.spotify.com/track/5Y2EMG7xInrfl5xeZI56A5) | [Antartica](https://open.spotify.com/artist/3waKEzmxmiC9ZNDlCyL9Wb) | [Turnover](https://open.spotify.com/album/1aCpnw0VjbPYz38eNzdNWe) | 2:25 | 2022-06-30 |  |
-| [Ubi maior minor cessat](https://open.spotify.com/track/5yTZP8kf3715F8pyenn4WP) | [Rough Enough](https://open.spotify.com/artist/6b9jVW7JfqMLiRvoTYEA1i), [Ufo \(The Zen Circus\)](https://open.spotify.com/artist/2ut96FTqfxeNNiZyK4bdBL) | [Che la testa ti sia lieve](https://open.spotify.com/album/2RMy3VEmIUgiSWLsxnP48q) | 4:00 | 2022-05-19 |  |
+| [Ubi maior minor cessat](https://open.spotify.com/track/5yTZP8kf3715F8pyenn4WP) | [Rough Enough](https://open.spotify.com/artist/6b9jVW7JfqMLiRvoTYEA1i), [Ufo \(The Zen Circus\)](https://open.spotify.com/artist/2ut96FTqfxeNNiZyK4bdBL) | [Che la testa ti sia lieve](https://open.spotify.com/album/2RMy3VEmIUgiSWLsxnP48q) | 4:00 | 2022-05-19 | 2022-09-06 |
 | [Un certo cinema](https://open.spotify.com/track/1YJKd3NBLw95k8mZWXnHQM) | [Andreotti](https://open.spotify.com/artist/4A2XLQQao9kRsNKf4YfKxJ) | [Un certo Cinema](https://open.spotify.com/album/18IWUInBbDyCLKQmdo31a9) | 4:04 | 2022-09-01 |  |
 | [Un equilibrio da proteggere](https://open.spotify.com/track/3ddt91PaOtE9LQ4UCaN3ge) | [Il Corpo Docenti](https://open.spotify.com/artist/54fov0UfPlOOvOWid3VL7p) | [Un posto sicuro](https://open.spotify.com/album/2eocM3c7Mj3d9rx7DUmITa) | 2:54 | 2022-05-09 | 2022-05-13 |
 | [Un istante](https://open.spotify.com/track/1QEnFPeGqRVdXROMPEiIX5) | [I Botanici](https://open.spotify.com/artist/72su0iDNIXDPumYA4b6ARC) | [Un istante](https://open.spotify.com/album/2T1psFrFRJaV1SStNt2aHy) | 3:24 | 2022-06-23 | 2022-07-29 |

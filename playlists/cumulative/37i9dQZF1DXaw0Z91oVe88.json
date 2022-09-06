@@ -139,7 +139,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-06",
       "duration_ms": 267426,
       "name": "A Letter in The Wind",
       "url": "https://open.spotify.com/track/5fk9FvsE57Ai8lHLuICJFx"
@@ -1553,6 +1553,24 @@
       "duration_ms": 197960,
       "name": "Still",
       "url": "https://open.spotify.com/track/2behhE9zykC6hWmBffdYP9"
+    },
+    {
+      "album": {
+        "name": "Youth Hostel",
+        "url": "https://open.spotify.com/album/1nbMITy1nsScR47Pd4zWJ6"
+      },
+      "artists": [
+        {
+          "name": "Youth Hostel",
+          "url": "https://open.spotify.com/artist/73VQvHkpR7ZCn8SOqTqtzK"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178750,
+      "name": "Summer",
+      "url": "https://open.spotify.com/track/55FLC4BaLbUr7plCVL0j1e"
     },
     {
       "album": {

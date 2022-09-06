@@ -1,12 +1,12 @@
 {
   "description": "Get up. Stand up. Be the revolution.",
-  "num_followers": 160767,
+  "num_followers": 160808,
   "original_name": "Rise Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjY0ODA2MCwwMDAwMDAwMGUxZWVlNzhjMmNjYzVlOTQ1YmI5ZjJjNDViN2FjY2Nj",
+  "snapshot_id": "MTY1NjY0ODA2MCwwMDAwMDAwMGI5MmFmNTI3NmY5YmRhMTJkYzJjMDA2ZGJhZWU2MWNi",
   "tracks": [
     {
       "added_at": "2022-07-01 04:01:00",
@@ -343,6 +343,22 @@
     {
       "added_at": "2022-07-01 04:01:00",
       "album": {
+        "name": "a modern tragedy vol. 2",
+        "url": "https://open.spotify.com/album/6puy3Q1mjuizTB4i91Xorq"
+      },
+      "artists": [
+        {
+          "name": "grandson",
+          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
+        }
+      ],
+      "duration_ms": 229531,
+      "name": "Darkside",
+      "url": "https://open.spotify.com/track/3JyvSSU0VnlMUsQckyEVfX"
+    },
+    {
+      "added_at": "2022-07-01 04:01:00",
+      "album": {
         "name": "Land Of The Free?",
         "url": "https://open.spotify.com/album/6oEh869vJQY1QdfZlVQ0ly"
       },
@@ -387,22 +403,6 @@
       "duration_ms": 275013,
       "name": "Blasphemy",
       "url": "https://open.spotify.com/track/6r7bDk4J0Okw4ezTBUQXo3"
-    },
-    {
-      "added_at": "2022-07-01 04:01:00",
-      "album": {
-        "name": "a modern tragedy vol. 2",
-        "url": "https://open.spotify.com/album/6puy3Q1mjuizTB4i91Xorq"
-      },
-      "artists": [
-        {
-          "name": "grandson",
-          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
-        }
-      ],
-      "duration_ms": 229531,
-      "name": "Darkside",
-      "url": "https://open.spotify.com/track/3JyvSSU0VnlMUsQckyEVfX"
     },
     {
       "added_at": "2022-07-01 04:01:00",
@@ -471,6 +471,58 @@
     {
       "added_at": "2022-07-01 04:01:00",
       "album": {
+        "name": "Bury Me Face Down",
+        "url": "https://open.spotify.com/album/79L5Jm5KDfXA19nozVqZcg"
+      },
+      "artists": [
+        {
+          "name": "grandson",
+          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
+        }
+      ],
+      "duration_ms": 231666,
+      "name": "Bury Me Face Down",
+      "url": "https://open.spotify.com/track/0LSzBkkQZZkwV656r6etLg"
+    },
+    {
+      "added_at": "2022-07-01 04:01:00",
+      "album": {
+        "name": "The Bastards",
+        "url": "https://open.spotify.com/album/5274bCsoBGBuqed5yKLi9D"
+      },
+      "artists": [
+        {
+          "name": "Palaye Royale",
+          "url": "https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI"
+        }
+      ],
+      "duration_ms": 185870,
+      "name": "Massacre, The New American Dream",
+      "url": "https://open.spotify.com/track/7aZ7WWaajRXSHPP3lbzoYO"
+    },
+    {
+      "added_at": "2022-07-01 04:01:00",
+      "album": {
+        "name": "Obey (with YUNGBLUD)",
+        "url": "https://open.spotify.com/album/5J7qci2JWfVtHdnhzCupbJ"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        },
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "duration_ms": 220538,
+      "name": "Obey (with YUNGBLUD)",
+      "url": "https://open.spotify.com/track/7fQox8Ere1HDm0jhSnsFHu"
+    },
+    {
+      "added_at": "2022-07-01 04:01:00",
+      "album": {
         "name": "RTJ4",
         "url": "https://open.spotify.com/album/6cx4GVNs03Pu4ZczRnWiLd"
       },
@@ -499,58 +551,6 @@
       "duration_ms": 205160,
       "name": "JU$T (feat. Pharrell Williams & Zack de la Rocha)",
       "url": "https://open.spotify.com/track/10vS4ZLi4XWlIsNXSQXgqh"
-    },
-    {
-      "added_at": "2022-07-01 04:01:00",
-      "album": {
-        "name": "The Bastards",
-        "url": "https://open.spotify.com/album/5274bCsoBGBuqed5yKLi9D"
-      },
-      "artists": [
-        {
-          "name": "Palaye Royale",
-          "url": "https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI"
-        }
-      ],
-      "duration_ms": 185870,
-      "name": "Massacre, The New American Dream",
-      "url": "https://open.spotify.com/track/7aZ7WWaajRXSHPP3lbzoYO"
-    },
-    {
-      "added_at": "2022-07-01 04:01:00",
-      "album": {
-        "name": "Bury Me Face Down",
-        "url": "https://open.spotify.com/album/79L5Jm5KDfXA19nozVqZcg"
-      },
-      "artists": [
-        {
-          "name": "grandson",
-          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
-        }
-      ],
-      "duration_ms": 231666,
-      "name": "Bury Me Face Down",
-      "url": "https://open.spotify.com/track/0LSzBkkQZZkwV656r6etLg"
-    },
-    {
-      "added_at": "2022-07-01 04:01:00",
-      "album": {
-        "name": "Obey (with YUNGBLUD)",
-        "url": "https://open.spotify.com/album/5J7qci2JWfVtHdnhzCupbJ"
-      },
-      "artists": [
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        },
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
-        }
-      ],
-      "duration_ms": 220538,
-      "name": "Obey (with YUNGBLUD)",
-      "url": "https://open.spotify.com/track/7fQox8Ere1HDm0jhSnsFHu"
     },
     {
       "added_at": "2022-07-01 04:01:00",
@@ -655,6 +655,22 @@
     {
       "added_at": "2022-07-01 04:01:00",
       "album": {
+        "name": "a modern tragedy vol. 1",
+        "url": "https://open.spotify.com/album/2hjeKa2x3W9F8GwlqBKBWV"
+      },
+      "artists": [
+        {
+          "name": "grandson",
+          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
+        }
+      ],
+      "duration_ms": 222560,
+      "name": "Stick Up",
+      "url": "https://open.spotify.com/track/5ZSKZ0wMdlMi4bQ3XZXXsp"
+    },
+    {
+      "added_at": "2022-07-01 04:01:00",
+      "album": {
         "name": "The Hunting Party",
         "url": "https://open.spotify.com/album/3XB2yloP7l00tEUmaODtVi"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 124880,
       "name": "I Don't Wanna Be Blind",
       "url": "https://open.spotify.com/track/30gtuczW6s6jj2OUVj5rat"
-    },
-    {
-      "added_at": "2022-07-01 04:01:00",
-      "album": {
-        "name": "a modern tragedy vol. 1",
-        "url": "https://open.spotify.com/album/2hjeKa2x3W9F8GwlqBKBWV"
-      },
-      "artists": [
-        {
-          "name": "grandson",
-          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
-        }
-      ],
-      "duration_ms": 222560,
-      "name": "Stick Up",
-      "url": "https://open.spotify.com/track/5ZSKZ0wMdlMi4bQ3XZXXsp"
     },
     {
       "added_at": "2022-07-01 04:01:00",
@@ -879,6 +879,22 @@
     {
       "added_at": "2022-07-01 04:01:00",
       "album": {
+        "name": "Fear",
+        "url": "https://open.spotify.com/album/2fTbjcKyLjNYISmeXNMrn8"
+      },
+      "artists": [
+        {
+          "name": "Arrested Youth",
+          "url": "https://open.spotify.com/artist/4UhExRgMW9QR7oNmTI2lPG"
+        }
+      ],
+      "duration_ms": 204240,
+      "name": "Riot!",
+      "url": "https://open.spotify.com/track/6dtEw6NRpYgHJ5PwnU5U1k"
+    },
+    {
+      "added_at": "2022-07-01 04:01:00",
+      "album": {
         "name": "Rise Up",
         "url": "https://open.spotify.com/album/426j4dLXzZygBoi0rAzE0a"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 230680,
       "name": "Rise Up",
       "url": "https://open.spotify.com/track/4B9xwFIN58Nn8ZtvssOqKf"
-    },
-    {
-      "added_at": "2022-07-01 04:01:00",
-      "album": {
-        "name": "Fear",
-        "url": "https://open.spotify.com/album/2fTbjcKyLjNYISmeXNMrn8"
-      },
-      "artists": [
-        {
-          "name": "Arrested Youth",
-          "url": "https://open.spotify.com/artist/4UhExRgMW9QR7oNmTI2lPG"
-        }
-      ],
-      "duration_ms": 204240,
-      "name": "Riot!",
-      "url": "https://open.spotify.com/track/6dtEw6NRpYgHJ5PwnU5U1k"
     },
     {
       "added_at": "2022-07-01 04:01:00",
@@ -995,6 +995,22 @@
     {
       "added_at": "2022-07-01 04:01:00",
       "album": {
+        "name": "Fear",
+        "url": "https://open.spotify.com/album/2fTbjcKyLjNYISmeXNMrn8"
+      },
+      "artists": [
+        {
+          "name": "Arrested Youth",
+          "url": "https://open.spotify.com/artist/4UhExRgMW9QR7oNmTI2lPG"
+        }
+      ],
+      "duration_ms": 186475,
+      "name": "Mirrors",
+      "url": "https://open.spotify.com/track/4esDZrFzW7QEYBgYyFkd6y"
+    },
+    {
+      "added_at": "2022-07-01 04:01:00",
+      "album": {
         "name": "Heart Afire",
         "url": "https://open.spotify.com/album/5p0C1yK4tbFdJXIeyHV1GK"
       },
@@ -1059,18 +1075,18 @@
     {
       "added_at": "2022-07-01 04:01:00",
       "album": {
-        "name": "Fear",
-        "url": "https://open.spotify.com/album/2fTbjcKyLjNYISmeXNMrn8"
+        "name": "YUNGBLUD",
+        "url": "https://open.spotify.com/album/7HNJT97QuNFvJLUpQXCIp3"
       },
       "artists": [
         {
-          "name": "Arrested Youth",
-          "url": "https://open.spotify.com/artist/4UhExRgMW9QR7oNmTI2lPG"
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
         }
       ],
-      "duration_ms": 186475,
-      "name": "Mirrors",
-      "url": "https://open.spotify.com/track/4esDZrFzW7QEYBgYyFkd6y"
+      "duration_ms": 167700,
+      "name": "Anarchist",
+      "url": "https://open.spotify.com/track/1Wa7BVGznsfYtKQTl0M8no"
     },
     {
       "added_at": "2022-07-01 04:01:00",
@@ -1087,22 +1103,6 @@
       "duration_ms": 142640,
       "name": "WRONG GENERATION",
       "url": "https://open.spotify.com/track/5NxcwsJjimdAoE7UtZm9Qd"
-    },
-    {
-      "added_at": "2022-07-01 04:01:00",
-      "album": {
-        "name": "YUNGBLUD",
-        "url": "https://open.spotify.com/album/7HNJT97QuNFvJLUpQXCIp3"
-      },
-      "artists": [
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
-        }
-      ],
-      "duration_ms": 167700,
-      "name": "Anarchist",
-      "url": "https://open.spotify.com/track/1Wa7BVGznsfYtKQTl0M8no"
     },
     {
       "added_at": "2022-07-01 04:01:00",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2022-07-01 04:01:00",
       "album": {
+        "name": "YUNGBLUD",
+        "url": "https://open.spotify.com/album/7HNJT97QuNFvJLUpQXCIp3"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "duration_ms": 223043,
+      "name": "Polygraph Eyes",
+      "url": "https://open.spotify.com/track/1PlODCjGsbZRKlDljoBd4m"
+    },
+    {
+      "added_at": "2022-07-01 04:01:00",
+      "album": {
         "name": "Forever",
         "url": "https://open.spotify.com/album/0aLxkTiBf1CQC726cDBA7m"
       },
@@ -1239,38 +1255,18 @@
     {
       "added_at": "2022-07-01 04:01:00",
       "album": {
-        "name": "YUNGBLUD",
-        "url": "https://open.spotify.com/album/7HNJT97QuNFvJLUpQXCIp3"
+        "name": "Powerflo",
+        "url": "https://open.spotify.com/album/5k4RJf18UyFQDsXaYsD1Cv"
       },
       "artists": [
         {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+          "name": "Powerflo",
+          "url": "https://open.spotify.com/artist/4s3biD1bXEb7I6QKsmKGZ3"
         }
       ],
-      "duration_ms": 223043,
-      "name": "Polygraph Eyes",
-      "url": "https://open.spotify.com/track/1PlODCjGsbZRKlDljoBd4m"
-    },
-    {
-      "added_at": "2022-07-01 04:01:00",
-      "album": {
-        "name": "Weather Strike",
-        "url": "https://open.spotify.com/album/5eEafds3DN8BfUNkojLR9Q"
-      },
-      "artists": [
-        {
-          "name": "Tom Morello",
-          "url": "https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed"
-        },
-        {
-          "name": "Pussy Riot",
-          "url": "https://open.spotify.com/artist/2hThsqaVEAWhWPBXnaOfB9"
-        }
-      ],
-      "duration_ms": 211026,
-      "name": "Weather Strike",
-      "url": "https://open.spotify.com/track/7o2Vk2ozntHju6LqFsXMjc"
+      "duration_ms": 206373,
+      "name": "Resistance",
+      "url": "https://open.spotify.com/track/0pu3lMc2n982gfrBOy5880"
     }
   ],
   "unique_name": "Rise Up",

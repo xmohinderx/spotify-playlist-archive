@@ -2,7 +2,7 @@
 
 ### [EQUAL Arabia ](https://open.spotify.com/playlist/37i9dQZF1DXbgtqUuhUMh3)
 
-> Listen to Arab women, at full volume\. Cover: Almas
+> Listen to Arab women, at full volume\. Cover: Noel Kharman
 
 297 songs - 17 hr 36 min - [published](https://open.spotify.com/playlist/6cCioutZKMerUfIqu6fEVt)
 

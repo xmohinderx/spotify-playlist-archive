@@ -4,7 +4,7 @@
 
 > Gentle instrumental covers of known songs.
 
-135 songs - 7 hr 13 min - [published](https://open.spotify.com/playlist/77bJtEBIOaCjByBFHduKkX)
+140 songs - 7 hr 27 min - [published](https://open.spotify.com/playlist/77bJtEBIOaCjByBFHduKkX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [A Whole New World](https://open.spotify.com/track/3ejZDyN8cOcVtK9P8VHfXn) | [Love Falk](https://open.spotify.com/artist/7xkvpbm8tfh02pFrqHV4aK) | [A Whole New World](https://open.spotify.com/album/2GNzMTxI3aQ8GJUYfM4yGH) | 3:55 | 2022-01-21 |  |
 | [Against All Odds](https://open.spotify.com/track/35BLTLHdlD60LAk90bTUmE) | [Tom Powers](https://open.spotify.com/artist/5tqJLLaSDpdhDAwqWgAdXM) | [Against All Odds](https://open.spotify.com/album/4LeHYuZNVhTHaV9VzoDos4) | 3:48 | 2022-01-21 |  |
 | [All of Me](https://open.spotify.com/track/56ICwlcXIKFoLg2CzbKwKF) | [Lasse Ivonen](https://open.spotify.com/artist/4FLrO7HeEPdqMGIzKZwl5f) | [All of Me](https://open.spotify.com/album/29a3wLZ2Wl1YH4uWKcjtw5) | 3:01 | 2022-05-02 |  |
+| [All of Me](https://open.spotify.com/track/3Q2dzhPIEYsgJ5CpkiVB8m) | [Moonsong](https://open.spotify.com/artist/5AjSOMFkn9lSiVC64euKjX) | [Just Give Me A Reason](https://open.spotify.com/album/0FMrgE3K1VoA8Wv7p16xsM) | 3:47 | 2022-09-05 |  |
 | [Always Remember Us This Way](https://open.spotify.com/track/6dTnMa9af6WkwGh9Ci1Ocf) | [Susan Suarez](https://open.spotify.com/artist/7zXgNwttTYAgW38YUb2eon) | [Always Remember Us This Way](https://open.spotify.com/album/4lzQ6B9UPXltUqQ17VvzlP) | 3:27 | 2022-01-21 |  |
 | [Angel](https://open.spotify.com/track/4NbofZ9MWmvEb43p3y0tKW) | [Neneh Yacobi](https://open.spotify.com/artist/1Kf6mipsaXBzLzKpZGY9Rq) | [Angel](https://open.spotify.com/album/16p7lDN4p7qaOZhhY9Lvoy) | 4:39 | 2022-01-21 |  |
 | [Another Love](https://open.spotify.com/track/0KftI0uc1qEk2ZCbxdH1dI) | [Claire Haeving](https://open.spotify.com/artist/1TwEiPFLOc40tfIB7EvaWX) | [Another Love](https://open.spotify.com/album/22vJvIcxcejxBJxNYtV0uc) | 4:15 | 2022-06-08 |  |
@@ -57,6 +58,7 @@
 | [Fields Of Gold](https://open.spotify.com/track/3pajXCqOSkwgTIBXZEauQD) | [Tobias Berntsson](https://open.spotify.com/artist/1ATcda1cBf3inR0K5yqlU6) | [Fields Of Gold](https://open.spotify.com/album/740iE8dch9vJaHW9OeNSbv) | 3:24 | 2022-01-21 |  |
 | [Fix You](https://open.spotify.com/track/3ForPcmt7W2jUTqgGjyKAN) | [Raphaela Esquelas](https://open.spotify.com/artist/7pd3yh8h1rD9x8POMkzkgg) | [Fix You](https://open.spotify.com/album/428DgqAtnVbbJhVKmcZ2Fl) | 3:39 | 2022-01-21 |  |
 | [Forever Young](https://open.spotify.com/track/4SSCgMiOi06l74FrQhaHwC) | [Lana Jax](https://open.spotify.com/artist/099eQJfZHFRrXejOGPzGY3) | [Forever Young](https://open.spotify.com/album/2WSQbJ9oBwXXzCcQgDjyPd) | 2:46 | 2022-01-21 |  |
+| [Glimpse Of Us](https://open.spotify.com/track/3abibsY2agRmaw2lAHC7Cu) | [Sunshine Piano](https://open.spotify.com/artist/7oUNbKpGsnj1jo0oPLV1JT) | [Glimpse Of Us](https://open.spotify.com/album/0NSYtRGshPfeN5uFPx03pa) | 2:22 | 2022-09-05 |  |
 | [God Only Knows](https://open.spotify.com/track/2OzZdwUjDKvHml7nV3rVAO) | [Alan Jameson](https://open.spotify.com/artist/6Bvte6kob0IxSHFkIK3tZw) | [God Only Knows](https://open.spotify.com/album/4Wv2pkk3BdYTT5DAmFPf3M) | 2:18 | 2022-01-21 |  |
 | [Greatest Love Of All](https://open.spotify.com/track/61EhAlUIqBXsgHqbdY7VT9) | [6 strings Guy](https://open.spotify.com/artist/195Dns39hXiNuoATNy03T1) | [Greatest Love Of All](https://open.spotify.com/album/1Ub5PvnX45BagytJfyDnjb) | 4:36 | 2022-01-21 | 2022-06-09 |
 | [Hallelujah](https://open.spotify.com/track/0uCGsNZqjHgiYO4BwN6Cjw) | [Ben Laver](https://open.spotify.com/artist/3lTGvG2QAIoGMp7BKeH4C0) | [Hallelujah](https://open.spotify.com/album/1v0jm6f0oEjcpYhpJI8Lcf) | 2:45 | 2022-01-21 | 2022-07-29 |
@@ -82,6 +84,7 @@
 | [Inside Of Me](https://open.spotify.com/track/2XyVb6wPtV92EqwIPBhcJB) | [Jack Pelayo](https://open.spotify.com/artist/3t11hg9zFYERlfzuO211YG) | [Inside Of Me](https://open.spotify.com/album/1feTbnUKnfGDWKQYiGVjUc) | 2:38 | 2022-01-21 |  |
 | [Intentions](https://open.spotify.com/track/7vLdOWuzXqsT3B85TsQSow) | [Jean Cruiz](https://open.spotify.com/artist/4xS5okCP5UkUKVM1uZh9uD) | [Intentions](https://open.spotify.com/album/0mNjwCVc6HHQM2PgAaXdH4) | 3:02 | 2022-05-02 |  |
 | [It Must Have Been Love \- Piano version](https://open.spotify.com/track/4YACCGEjeX1LEpY5tIBb97) | [Mark Benson](https://open.spotify.com/artist/1IaIpFqqzozfCnPECU9vOb) | [Piano Favorites 2](https://open.spotify.com/album/1Aa8a61At5CfuuidP6lZuK) | 4:15 | 2022-01-21 |  |
+| [Just Give Me A Reason](https://open.spotify.com/track/5HabmTUtwyVMz56hoyLupX) | [Moonsong](https://open.spotify.com/artist/5AjSOMFkn9lSiVC64euKjX) | [Just Give Me A Reason](https://open.spotify.com/album/0FMrgE3K1VoA8Wv7p16xsM) | 3:42 | 2022-09-05 |  |
 | [Karma Police](https://open.spotify.com/track/6TfRwAeK4bmctFV1GR2qme) | [Amy Bynes](https://open.spotify.com/artist/4KF2aXLvwOGirz0H1vg30S) | [lovely](https://open.spotify.com/album/7uha18MvMpkh2sF1NqBIxS) | 3:21 | 2022-01-21 |  |
 | [Kiss From A Rose](https://open.spotify.com/track/1bXpC6d1HeFKiboBnWChfq) | [Fiona Greenly](https://open.spotify.com/artist/1o7MqXOsAEoLkc9YEj7m9c) | [Kiss From A Rose](https://open.spotify.com/album/6l6H11DfTD1fr2LekdI9Ky) | 3:18 | 2022-06-08 |  |
 | [Let Her Go](https://open.spotify.com/track/2fIVdzd4JW4HnwzqrvCysf) | [David Fischbein](https://open.spotify.com/artist/4SnnTtHKeeWxZ8FxzMv435) | [Let Her Go](https://open.spotify.com/album/2uKx68XJqHRTLWjPKq6qhw) | 3:12 | 2022-01-21 | 2022-05-03 |
@@ -100,6 +103,7 @@
 | [One Of Us](https://open.spotify.com/track/7vS01bOyErbineyhSYAHsb) | [Lana Jax](https://open.spotify.com/artist/099eQJfZHFRrXejOGPzGY3) | [One Of Us](https://open.spotify.com/album/1MoSFx6eT5FbFieAKNYapF) | 3:05 | 2022-01-21 |  |
 | [Perfect \- Acoustic Guitar](https://open.spotify.com/track/0lqq3RSTNMgRuupfrXcVj1) | [Seth Luke](https://open.spotify.com/artist/2Z2anZ5fPhykLkMi7E7lC5) | [Perfect \(Acoustic Guitar\)](https://open.spotify.com/album/013FphjZqkqZzBaJNzb5yp) | 3:26 | 2022-01-21 |  |
 | [Photograph \(Instrumental Piano\)](https://open.spotify.com/track/0UNXTLCFf3erUgsO8IH4aK) | [Matchstick Piano Man](https://open.spotify.com/artist/4aKuEXqhHmIZKdDRkaPPKO) | [Photograph \(Instrumental Piano\)](https://open.spotify.com/album/6I1ceSGsVPEfRnqyyTHwKj) | 5:08 | 2022-08-01 |  |
+| [Ruin My Life](https://open.spotify.com/track/64aOxh3nmJQYS2GqWBP4lP) | [Haley Steegens](https://open.spotify.com/artist/50oUrFxXcPqq2Sk4RVfq6e) | [Ruin My Life](https://open.spotify.com/album/2qYtTfyhjIOrudRZWE34xv) | 2:18 | 2022-09-05 |  |
 | [Running Up That Hill \(A Deal with God\) \- Pure Piano](https://open.spotify.com/track/0kUqGFiFX5jQFvbBIwbpdv) | [Roman Tee](https://open.spotify.com/artist/3PIoXFAkfmqo9V6hbpm450) | [Piano Pop Vol\. 23 \(Instrumental Piano\)](https://open.spotify.com/album/10VRewjf1fuN8HsqLGmCTg) | 2:58 | 2022-08-01 |  |
 | [Sacrifice](https://open.spotify.com/track/44633u1bq8n7f4q3yU1hSX) | [Maximizer SE](https://open.spotify.com/artist/7KytdkKiffW17VMUFo7Kys) | [Sacrifice](https://open.spotify.com/album/50VFoLMFlnDjLrvuMmJSAJ) | 3:56 | 2022-08-01 |  |
 | [Sailing](https://open.spotify.com/track/06cOOxoGCN55Py9ypH6m3t) | [Kim Jones](https://open.spotify.com/artist/1brHxXGIgbKvFinKaLvzSX) | [Sailing](https://open.spotify.com/album/4hGFyQGxIvpa1Pnpb4UrPM) | 2:42 | 2022-01-21 |  |
@@ -114,6 +118,7 @@
 | [Stay With Me \- Acoustic Guitar](https://open.spotify.com/track/2z1uYvuItlQHdpmPDTy0Mx) | [Teddy Knight](https://open.spotify.com/artist/0fOXXu7hSPOCnufvtl9xd7) | [Stay With Me \(Acoustic Guitar\)](https://open.spotify.com/album/6oKDEzEkuudHJQoewjiNQu) | 2:37 | 2022-01-21 |  |
 | [Svag](https://open.spotify.com/track/3pzJXr8awfVqc6QoQbFm3o) | [Arvid Rydén](https://open.spotify.com/artist/1IJcUNabCEStesPgmTVRDn) | [Svag](https://open.spotify.com/album/2YqrlFNfIign5WF4F57rhj) | 3:25 | 2022-01-21 |  |
 | [Sweet But Psycho](https://open.spotify.com/track/1mcOcZhZWi8gkxRgEDiip2) | [Man In The Moon](https://open.spotify.com/artist/6BTjmaexyRi0mmlipQ2Dnz) | [Sweet But Psycho](https://open.spotify.com/album/06O0OrbbyXh9wbvkbMzxrL) | 3:26 | 2022-01-21 |  |
+| [Sweet Child Of Mine](https://open.spotify.com/track/1pHdcp6JpMyk1V5BO41C9r) | [Angie Goodham](https://open.spotify.com/artist/2UXaJJ11L0oeW9uCxQYxGl) | [Sweet Child Of Mine](https://open.spotify.com/album/4Gw2ScxvjGWYUygc961PbO) | 2:02 | 2022-09-05 |  |
 | [Sweet Child of Mine](https://open.spotify.com/track/2VXu2KAwVH5CIRqQPEADQw) | [Henri Bentley](https://open.spotify.com/artist/5laMomQR4uO3PR7cNNkWQy) | [Sweet Child of Mine](https://open.spotify.com/album/5ShutfDiYapg3CcfB16fJ2) | 3:12 | 2022-01-21 |  |
 | [Tears in Heaven](https://open.spotify.com/track/4CRNGEGOrfp43WzgHbBpm6) | [Abel Davies](https://open.spotify.com/artist/3Hd9jQTGq8jm9lMDSnWkvn) | [Tears in Heaven](https://open.spotify.com/album/6JOFI6MEbHB7M759AhH66P) | 2:37 | 2022-05-02 |  |
 | [The Bones](https://open.spotify.com/track/1VxxM2CjF0982zpGHeMrxu) | [Caitlin Owens](https://open.spotify.com/artist/4bwu4i5ewOhlguYr195Wjj) | [The Bones](https://open.spotify.com/album/1Xk4W4ggHkNl4MwJehSQMr) | 3:11 | 2022-01-21 |  |

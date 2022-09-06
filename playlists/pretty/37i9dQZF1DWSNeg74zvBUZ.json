@@ -1,12 +1,12 @@
 {
   "description": "Sunlight! The most precious gold to be found on Earth.",
-  "num_followers": 18371,
+  "num_followers": 18370,
   "original_name": "Morning First Light",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjE3Mzg1NCwwMDAwMDAwMDMyM2M2NTQ1MTk5YmYyZWZkM2NhMzJlODNlOTFkYWI0",
+  "snapshot_id": "MTY2MjE3Mzg1NCwwMDAwMDAwMDIyMDI2OWE0NTdmYjBhY2ZkMGViNGQxMmVjNjlmMzhk",
   "tracks": [
     {
       "added_at": "2021-09-10 04:35:25",
@@ -199,38 +199,6 @@
     {
       "added_at": "2021-09-10 04:35:25",
       "album": {
-        "name": "The Campfire Headphase",
-        "url": "https://open.spotify.com/album/0wBiN0fKhy0ywx732SpgUs"
-      },
-      "artists": [
-        {
-          "name": "Boards of Canada",
-          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
-        }
-      ],
-      "duration_ms": 324906,
-      "name": "Peacock Tail",
-      "url": "https://open.spotify.com/track/2HHAxkrJbuWZ7JWdxYbsWO"
-    },
-    {
-      "added_at": "2021-09-10 04:35:25",
-      "album": {
-        "name": "Selected Ambient Works Volume II",
-        "url": "https://open.spotify.com/album/17vHPMmoxN5B8cdhCDeMTe"
-      },
-      "artists": [
-        {
-          "name": "Aphex Twin",
-          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
-        }
-      ],
-      "duration_ms": 255333,
-      "name": "#20",
-      "url": "https://open.spotify.com/track/5IExVHUiRccCWyJ4imu9qD"
-    },
-    {
-      "added_at": "2021-09-10 04:35:25",
-      "album": {
         "name": "Return To Forever",
         "url": "https://open.spotify.com/album/6M0IAJHwQ6dFNtTkFsXCJc"
       },
@@ -261,20 +229,20 @@
       "url": "https://open.spotify.com/track/7zf1xFJp2PuqM00hhsC3ax"
     },
     {
-      "added_at": "2022-07-15 05:23:23",
+      "added_at": "2021-09-10 04:35:25",
       "album": {
-        "name": "Kof\u016b",
-        "url": "https://open.spotify.com/album/6CcyLV6tFcSu4pBGoGdk8s"
+        "name": "The Campfire Headphase",
+        "url": "https://open.spotify.com/album/0wBiN0fKhy0ywx732SpgUs"
       },
       "artists": [
         {
-          "name": "Meitei",
-          "url": "https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii"
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
         }
       ],
-      "duration_ms": 66061,
-      "name": "Kintsugi",
-      "url": "https://open.spotify.com/track/7I8v42wxDhfojsq3APrXU0"
+      "duration_ms": 324906,
+      "name": "Peacock Tail",
+      "url": "https://open.spotify.com/track/2HHAxkrJbuWZ7JWdxYbsWO"
     },
     {
       "added_at": "2021-09-10 04:35:25",
@@ -295,6 +263,38 @@
     {
       "added_at": "2021-09-10 04:35:25",
       "album": {
+        "name": "Selected Ambient Works Volume II",
+        "url": "https://open.spotify.com/album/17vHPMmoxN5B8cdhCDeMTe"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "duration_ms": 255333,
+      "name": "#20",
+      "url": "https://open.spotify.com/track/5IExVHUiRccCWyJ4imu9qD"
+    },
+    {
+      "added_at": "2022-07-15 05:23:23",
+      "album": {
+        "name": "Kof\u016b",
+        "url": "https://open.spotify.com/album/6CcyLV6tFcSu4pBGoGdk8s"
+      },
+      "artists": [
+        {
+          "name": "Meitei",
+          "url": "https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii"
+        }
+      ],
+      "duration_ms": 66061,
+      "name": "Kintsugi",
+      "url": "https://open.spotify.com/track/7I8v42wxDhfojsq3APrXU0"
+    },
+    {
+      "added_at": "2021-09-10 04:35:25",
+      "album": {
         "name": "Space 1.8",
         "url": "https://open.spotify.com/album/5Svfamp6qQ2IfLVNVICpVm"
       },
@@ -307,6 +307,22 @@
       "duration_ms": 248000,
       "name": "Space 1",
       "url": "https://open.spotify.com/track/1WGvKEkU8c3uvqmZpUt5ZL"
+    },
+    {
+      "added_at": "2021-09-10 04:35:25",
+      "album": {
+        "name": "The Campfire Headphase",
+        "url": "https://open.spotify.com/album/0wBiN0fKhy0ywx732SpgUs"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "duration_ms": 347466,
+      "name": "Chromakey Dreamcoat",
+      "url": "https://open.spotify.com/track/2YxoC2dYOotjqt08dEifsc"
     },
     {
       "added_at": "2021-09-10 04:35:25",
@@ -359,22 +375,6 @@
       "duration_ms": 278693,
       "name": "Tobiume",
       "url": "https://open.spotify.com/track/4IQWc6rhJwpFrRKBLx27X6"
-    },
-    {
-      "added_at": "2021-09-10 04:35:25",
-      "album": {
-        "name": "The Campfire Headphase",
-        "url": "https://open.spotify.com/album/0wBiN0fKhy0ywx732SpgUs"
-      },
-      "artists": [
-        {
-          "name": "Boards of Canada",
-          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
-        }
-      ],
-      "duration_ms": 347466,
-      "name": "Chromakey Dreamcoat",
-      "url": "https://open.spotify.com/track/2YxoC2dYOotjqt08dEifsc"
     },
     {
       "added_at": "2021-09-10 04:35:25",
@@ -497,6 +497,22 @@
       "url": "https://open.spotify.com/track/6VRgvci0hYokJguaBzGZmj"
     },
     {
+      "added_at": "2022-02-18 05:44:17",
+      "album": {
+        "name": "acceptances",
+        "url": "https://open.spotify.com/album/6LRafypd0VdYQ6uuFIxzxJ"
+      },
+      "artists": [
+        {
+          "name": "Lara Somogyi",
+          "url": "https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo"
+        }
+      ],
+      "duration_ms": 198901,
+      "name": "acceptances",
+      "url": "https://open.spotify.com/track/49LE9nTYsPzk0ImQ26mZjD"
+    },
+    {
       "added_at": "2021-11-12 19:00:50",
       "album": {
         "name": "Music For Psychedelic Therapy",
@@ -515,22 +531,6 @@
       "duration_ms": 382773,
       "name": "Welcome",
       "url": "https://open.spotify.com/track/2Mt27qdkzzjwSQq2TbTRnN"
-    },
-    {
-      "added_at": "2022-02-18 05:44:17",
-      "album": {
-        "name": "acceptances",
-        "url": "https://open.spotify.com/album/6LRafypd0VdYQ6uuFIxzxJ"
-      },
-      "artists": [
-        {
-          "name": "Lara Somogyi",
-          "url": "https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo"
-        }
-      ],
-      "duration_ms": 198901,
-      "name": "acceptances",
-      "url": "https://open.spotify.com/track/49LE9nTYsPzk0ImQ26mZjD"
     },
     {
       "added_at": "2021-09-10 04:35:25",
@@ -791,22 +791,6 @@
     {
       "added_at": "2021-09-10 04:35:25",
       "album": {
-        "name": "Drukqs",
-        "url": "https://open.spotify.com/album/1maoQPAmw44bbkNOxKlwsx"
-      },
-      "artists": [
-        {
-          "name": "Aphex Twin",
-          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
-        }
-      ],
-      "duration_ms": 131346,
-      "name": "Petiatil Cx Htdui",
-      "url": "https://open.spotify.com/track/6sSQ3VO0XNK5APus7sIkwh"
-    },
-    {
-      "added_at": "2021-09-10 04:35:25",
-      "album": {
         "name": "A New Day",
         "url": "https://open.spotify.com/album/3duG9vrpxecZceRKXBqc7M"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 268400,
       "name": "Le jardin",
       "url": "https://open.spotify.com/track/5kaqycPUjIi1PdZWlhfWsD"
+    },
+    {
+      "added_at": "2021-09-10 04:35:25",
+      "album": {
+        "name": "Drukqs",
+        "url": "https://open.spotify.com/album/1maoQPAmw44bbkNOxKlwsx"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "duration_ms": 131346,
+      "name": "Petiatil Cx Htdui",
+      "url": "https://open.spotify.com/track/6sSQ3VO0XNK5APus7sIkwh"
     },
     {
       "added_at": "2022-01-07 02:01:58",

@@ -1,12 +1,12 @@
 {
   "description": "cool tunes for walking, driving, running, flying, etc",
-  "num_followers": 148912,
+  "num_followers": 149006,
   "original_name": "omw",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTUyOTcxNSwwMDAwMDAwMDE5OWYwYTc5ZGI5M2UzZGI4OGJiZTMzYjM4NDczNjc4",
+  "snapshot_id": "MTY2MTUyOTcxNSwwMDAwMDAwMGM0MzZjYzE1YzNhNGEwYTMwYjM3NDEwYTZiNDU0YzYy",
   "tracks": [
     {
       "added_at": "2022-08-26 16:01:55",
@@ -251,22 +251,6 @@
     {
       "added_at": "2022-08-26 16:01:55",
       "album": {
-        "name": "JEWELZ",
-        "url": "https://open.spotify.com/album/78dIoWjdZvWcgKNxEgIDL4"
-      },
-      "artists": [
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        }
-      ],
-      "duration_ms": 174213,
-      "name": "JEWELZ",
-      "url": "https://open.spotify.com/track/2IFFKj9orAsQOOS0JRhHAW"
-    },
-    {
-      "added_at": "2022-08-26 16:01:55",
-      "album": {
         "name": "Wallflower",
         "url": "https://open.spotify.com/album/6N89NI7s5lwbpa9s1VWgYm"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 177498,
       "name": "Wallflower",
       "url": "https://open.spotify.com/track/2mlCfcprMj3aOUX2uYuQEE"
+    },
+    {
+      "added_at": "2022-08-26 16:01:55",
+      "album": {
+        "name": "JEWELZ",
+        "url": "https://open.spotify.com/album/78dIoWjdZvWcgKNxEgIDL4"
+      },
+      "artists": [
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "duration_ms": 174213,
+      "name": "JEWELZ",
+      "url": "https://open.spotify.com/track/2IFFKj9orAsQOOS0JRhHAW"
     },
     {
       "added_at": "2022-08-26 16:01:55",
@@ -335,22 +335,6 @@
     {
       "added_at": "2022-08-26 16:01:55",
       "album": {
-        "name": "Bunny Is A Rider",
-        "url": "https://open.spotify.com/album/2cwOa6RStGRanie22to0NO"
-      },
-      "artists": [
-        {
-          "name": "Caroline Polachek",
-          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
-        }
-      ],
-      "duration_ms": 197480,
-      "name": "Bunny Is A Rider",
-      "url": "https://open.spotify.com/track/1rYABrDmfqVmJMwaNJBUUb"
-    },
-    {
-      "added_at": "2022-08-26 16:01:55",
-      "album": {
         "name": "Flowers",
         "url": "https://open.spotify.com/album/0RPeItB8kHKwmYhKAJ8ceq"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 154115,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/6JJgmmfMsoGTzwCe2f2K8u"
+    },
+    {
+      "added_at": "2022-08-26 16:01:55",
+      "album": {
+        "name": "Bunny Is A Rider",
+        "url": "https://open.spotify.com/album/2cwOa6RStGRanie22to0NO"
+      },
+      "artists": [
+        {
+          "name": "Caroline Polachek",
+          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
+        }
+      ],
+      "duration_ms": 197480,
+      "name": "Bunny Is A Rider",
+      "url": "https://open.spotify.com/track/1rYABrDmfqVmJMwaNJBUUb"
     },
     {
       "added_at": "2022-08-26 16:01:55",
@@ -383,6 +383,22 @@
     {
       "added_at": "2022-08-26 16:01:55",
       "album": {
+        "name": "Good Advice",
+        "url": "https://open.spotify.com/album/5MQethd22cttCRC2uAbrjI"
+      },
+      "artists": [
+        {
+          "name": "Peach Tree Rascals",
+          "url": "https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe"
+        }
+      ],
+      "duration_ms": 143838,
+      "name": "Good Advice",
+      "url": "https://open.spotify.com/track/2mAjXnUG4QJAypppi5J2lA"
+    },
+    {
+      "added_at": "2022-08-26 16:01:55",
+      "album": {
         "name": "On Hold (Jamie xx Remix)",
         "url": "https://open.spotify.com/album/1KwcjMbLdbmGBvHFRjNWCo"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 371533,
       "name": "On Hold - Jamie xx Remix",
       "url": "https://open.spotify.com/track/3qOuySPLpVyBXLuTNMgbRj"
-    },
-    {
-      "added_at": "2022-08-26 16:01:55",
-      "album": {
-        "name": "Good Advice",
-        "url": "https://open.spotify.com/album/5MQethd22cttCRC2uAbrjI"
-      },
-      "artists": [
-        {
-          "name": "Peach Tree Rascals",
-          "url": "https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe"
-        }
-      ],
-      "duration_ms": 143838,
-      "name": "Good Advice",
-      "url": "https://open.spotify.com/track/2mAjXnUG4QJAypppi5J2lA"
     },
     {
       "added_at": "2022-08-26 16:01:55",
@@ -627,22 +627,6 @@
     {
       "added_at": "2022-08-26 16:01:55",
       "album": {
-        "name": "Cotton Candy Lemonade",
-        "url": "https://open.spotify.com/album/3HZvR8MHQxmVhDRiVzqckQ"
-      },
-      "artists": [
-        {
-          "name": "Blu DeTiger",
-          "url": "https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC"
-        }
-      ],
-      "duration_ms": 146875,
-      "name": "Cotton Candy Lemonade",
-      "url": "https://open.spotify.com/track/1RfPf0W4OlIWROTV5Afs3S"
-    },
-    {
-      "added_at": "2022-08-26 16:01:55",
-      "album": {
         "name": "Dribble (feat. RIZ LA VIE) [Remix]",
         "url": "https://open.spotify.com/album/1H8Ygnlo5pb2cuG9a9n6Hw"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 286726,
       "name": "I Want Your Attention",
       "url": "https://open.spotify.com/track/2RU67aiaESQ7t9D1xUJqBu"
+    },
+    {
+      "added_at": "2022-08-26 16:01:55",
+      "album": {
+        "name": "Cotton Candy Lemonade",
+        "url": "https://open.spotify.com/album/3HZvR8MHQxmVhDRiVzqckQ"
+      },
+      "artists": [
+        {
+          "name": "Blu DeTiger",
+          "url": "https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC"
+        }
+      ],
+      "duration_ms": 146875,
+      "name": "Cotton Candy Lemonade",
+      "url": "https://open.spotify.com/track/1RfPf0W4OlIWROTV5Afs3S"
     },
     {
       "added_at": "2022-08-26 16:01:55",
@@ -927,22 +927,6 @@
     {
       "added_at": "2022-08-26 16:01:55",
       "album": {
-        "name": "Bling Up",
-        "url": "https://open.spotify.com/album/751S14K6SS4TkS8rhDsHQZ"
-      },
-      "artists": [
-        {
-          "name": "SANNI",
-          "url": "https://open.spotify.com/artist/4KbUzTS1NC8GHIe9LkwIPS"
-        }
-      ],
-      "duration_ms": 177914,
-      "name": "Bling Up",
-      "url": "https://open.spotify.com/track/395GwdPbJqFzM7ihmlCe8Z"
-    },
-    {
-      "added_at": "2022-08-26 16:01:55",
-      "album": {
         "name": "For Real (feat. Kemba)",
         "url": "https://open.spotify.com/album/2WvZxqKE5A95dUo4fOvrC8"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 300506,
       "name": "I Don't Think We Should Wait",
       "url": "https://open.spotify.com/track/59PWRSbpBHbeI5pw6llR5v"
+    },
+    {
+      "added_at": "2022-08-26 16:01:55",
+      "album": {
+        "name": "Bling Up",
+        "url": "https://open.spotify.com/album/751S14K6SS4TkS8rhDsHQZ"
+      },
+      "artists": [
+        {
+          "name": "SANNI",
+          "url": "https://open.spotify.com/artist/4KbUzTS1NC8GHIe9LkwIPS"
+        }
+      ],
+      "duration_ms": 177914,
+      "name": "Bling Up",
+      "url": "https://open.spotify.com/track/395GwdPbJqFzM7ihmlCe8Z"
     },
     {
       "added_at": "2022-08-26 16:01:55",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2022-08-26 16:01:55",
       "album": {
-        "name": "Juvenile",
-        "url": "https://open.spotify.com/album/2oopzm9cOcnL5H4iYRMKlR"
-      },
-      "artists": [
-        {
-          "name": "CRi",
-          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
-        }
-      ],
-      "duration_ms": 368360,
-      "name": "Friends In Secret",
-      "url": "https://open.spotify.com/track/6k92XAMEfiEPoslrJ9PkjY"
-    },
-    {
-      "added_at": "2022-08-26 16:01:55",
-      "album": {
         "name": "funny lil thing",
         "url": "https://open.spotify.com/album/12JZ24MNf9lUCDgOBJze2D"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 137894,
       "name": "funny lil thing",
       "url": "https://open.spotify.com/track/5vcLMRWLRXZS7r5UNaNZ0r"
+    },
+    {
+      "added_at": "2022-08-26 16:01:55",
+      "album": {
+        "name": "Juvenile",
+        "url": "https://open.spotify.com/album/2oopzm9cOcnL5H4iYRMKlR"
+      },
+      "artists": [
+        {
+          "name": "CRi",
+          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
+        }
+      ],
+      "duration_ms": 368360,
+      "name": "Friends In Secret",
+      "url": "https://open.spotify.com/track/6k92XAMEfiEPoslrJ9PkjY"
     },
     {
       "added_at": "2022-08-26 16:01:55",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2022-08-26 16:01:55",
       "album": {
-        "name": "Through Tha Night",
-        "url": "https://open.spotify.com/album/1D5Sl0DbkfNzlXGUjHk3A2"
-      },
-      "artists": [
-        {
-          "name": "Obed Padilla",
-          "url": "https://open.spotify.com/artist/3aXWXIWEaVHVsCCCkTLVzl"
-        }
-      ],
-      "duration_ms": 196803,
-      "name": "Through Tha Night",
-      "url": "https://open.spotify.com/track/6Yzdmp0OAexAej7pQmoy84"
-    },
-    {
-      "added_at": "2022-08-26 16:01:55",
-      "album": {
         "name": "NEVER CRY AGAIN",
         "url": "https://open.spotify.com/album/1uYX907pgQI6YblNc087rK"
       },
@@ -1143,18 +1127,18 @@
     {
       "added_at": "2022-08-26 16:01:55",
       "album": {
-        "name": "Burn Down",
-        "url": "https://open.spotify.com/album/6zX8fbwuC9a3XWh4pL1dJ0"
+        "name": "Through Tha Night",
+        "url": "https://open.spotify.com/album/1D5Sl0DbkfNzlXGUjHk3A2"
       },
       "artists": [
         {
-          "name": "Devon Again",
-          "url": "https://open.spotify.com/artist/3xz28DkZR6bmPpVh6Rq13t"
+          "name": "Obed Padilla",
+          "url": "https://open.spotify.com/artist/3aXWXIWEaVHVsCCCkTLVzl"
         }
       ],
-      "duration_ms": 155653,
-      "name": "Burn Down",
-      "url": "https://open.spotify.com/track/2Byhhe2CFnDvJ4UimmPEPG"
+      "duration_ms": 196803,
+      "name": "Through Tha Night",
+      "url": "https://open.spotify.com/track/6Yzdmp0OAexAej7pQmoy84"
     },
     {
       "added_at": "2022-08-26 16:01:55",
@@ -1175,6 +1159,22 @@
       "duration_ms": 266983,
       "name": "Up All Night - Oliver Remix",
       "url": "https://open.spotify.com/track/12aQRcFFIh1zAoPOGTVY2y"
+    },
+    {
+      "added_at": "2022-08-26 16:01:55",
+      "album": {
+        "name": "Burn Down",
+        "url": "https://open.spotify.com/album/6zX8fbwuC9a3XWh4pL1dJ0"
+      },
+      "artists": [
+        {
+          "name": "Devon Again",
+          "url": "https://open.spotify.com/artist/3xz28DkZR6bmPpVh6Rq13t"
+        }
+      ],
+      "duration_ms": 155653,
+      "name": "Burn Down",
+      "url": "https://open.spotify.com/track/2Byhhe2CFnDvJ4UimmPEPG"
     },
     {
       "added_at": "2022-08-26 16:01:55",
@@ -1475,6 +1475,26 @@
     {
       "added_at": "2022-08-26 16:01:55",
       "album": {
+        "name": "Recollection Prospective",
+        "url": "https://open.spotify.com/album/1thcA2rOLZExgDgcH6K2Bd"
+      },
+      "artists": [
+        {
+          "name": "ellis",
+          "url": "https://open.spotify.com/artist/00CYRdkMnA0mwfy1VQPA7X"
+        },
+        {
+          "name": "Pasha",
+          "url": "https://open.spotify.com/artist/0elSJZFrHnayc7AUCkbWAl"
+        }
+      ],
+      "duration_ms": 197796,
+      "name": "Brand New Phone",
+      "url": "https://open.spotify.com/track/17zFfPV3PZ3ZDMZyDcXTxV"
+    },
+    {
+      "added_at": "2022-08-26 16:01:55",
+      "album": {
         "name": "About It",
         "url": "https://open.spotify.com/album/6PLOjp6jntSAelOFXQkUW0"
       },
@@ -1511,22 +1531,18 @@
     {
       "added_at": "2022-08-26 16:01:55",
       "album": {
-        "name": "Recollection Prospective",
-        "url": "https://open.spotify.com/album/1thcA2rOLZExgDgcH6K2Bd"
+        "name": "Pretty Face",
+        "url": "https://open.spotify.com/album/3mjjWk8njHR1KqYmWnRUUU"
       },
       "artists": [
         {
-          "name": "ellis",
-          "url": "https://open.spotify.com/artist/00CYRdkMnA0mwfy1VQPA7X"
-        },
-        {
-          "name": "Pasha",
-          "url": "https://open.spotify.com/artist/0elSJZFrHnayc7AUCkbWAl"
+          "name": "Worry Club",
+          "url": "https://open.spotify.com/artist/7Fkc1Q81Zy25eZ5dmnURGl"
         }
       ],
-      "duration_ms": 197796,
-      "name": "Brand New Phone",
-      "url": "https://open.spotify.com/track/17zFfPV3PZ3ZDMZyDcXTxV"
+      "duration_ms": 179533,
+      "name": "Pretty Face",
+      "url": "https://open.spotify.com/track/3Iid1bzzTHFY9bXoVs7SiJ"
     },
     {
       "added_at": "2022-08-26 16:01:55",
@@ -1547,22 +1563,6 @@
       "duration_ms": 179200,
       "name": "Psycho",
       "url": "https://open.spotify.com/track/4t7lpIdS2F527iGYuTZopQ"
-    },
-    {
-      "added_at": "2022-08-26 16:01:55",
-      "album": {
-        "name": "Pretty Face",
-        "url": "https://open.spotify.com/album/3mjjWk8njHR1KqYmWnRUUU"
-      },
-      "artists": [
-        {
-          "name": "Worry Club",
-          "url": "https://open.spotify.com/artist/7Fkc1Q81Zy25eZ5dmnURGl"
-        }
-      ],
-      "duration_ms": 179533,
-      "name": "Pretty Face",
-      "url": "https://open.spotify.com/track/3Iid1bzzTHFY9bXoVs7SiJ"
     },
     {
       "added_at": "2022-08-26 16:01:55",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2022-08-26 16:01:55",
       "album": {
-        "name": "Feelings",
-        "url": "https://open.spotify.com/album/0gmjvJvdWuD3AFk9sZ02Yi"
-      },
-      "artists": [
-        {
-          "name": "Brijean",
-          "url": "https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb"
-        }
-      ],
-      "duration_ms": 192656,
-      "name": "Wifi Beach",
-      "url": "https://open.spotify.com/track/06ukn4Va91MfzMcxc1N0cu"
-    },
-    {
-      "added_at": "2022-08-26 16:01:55",
-      "album": {
         "name": "Bones",
         "url": "https://open.spotify.com/album/2WhJOBdibFYDV9ZleIU0gy"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 245200,
       "name": "Bones",
       "url": "https://open.spotify.com/track/2DEuJwJSQJ7CuFeWQcfJsP"
+    },
+    {
+      "added_at": "2022-08-26 16:01:55",
+      "album": {
+        "name": "Feelings",
+        "url": "https://open.spotify.com/album/0gmjvJvdWuD3AFk9sZ02Yi"
+      },
+      "artists": [
+        {
+          "name": "Brijean",
+          "url": "https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb"
+        }
+      ],
+      "duration_ms": 192656,
+      "name": "Wifi Beach",
+      "url": "https://open.spotify.com/track/06ukn4Va91MfzMcxc1N0cu"
     },
     {
       "added_at": "2022-08-26 16:01:55",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 
 > A laid\-back trip in the folk scene\. Cover: Billy Raffoul
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,713 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,712 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 | 48 | [Bandages](https://open.spotify.com/track/32z65nCDfiHwd7Ly1AyN2t) | [Rachel Bobbitt](https://open.spotify.com/artist/2scnOsuExko5GJdIYZdEnC) | [Bandages](https://open.spotify.com/album/7qUzSfHicu7sV7EIflvMtR) | 2:54 |
 | 49 | [Waterfall](https://open.spotify.com/track/7nxSKNyLHaGcBgvVJw3Nhk) | [Abigail Lapell](https://open.spotify.com/artist/6HyT9nfsNKEtu76UKQBD5g) | [La cascade](https://open.spotify.com/album/51yDdsc2zYGUr0r4cVGGjo) | 3:07 |
 | 50 | [The Current](https://open.spotify.com/track/6uu7udcraPTdInoWMtcGka) | [Katherine Fischer](https://open.spotify.com/artist/4JeHckTNyuauGu638Tz6no) | [The Current](https://open.spotify.com/album/1Xqov9cUBzmDVU6LIMacjD) | 3:03 |
-| 51 | [No Body](https://open.spotify.com/track/3sii6IckVtDEZrMiEeVdFG) | [Living Hour](https://open.spotify.com/artist/2Ho3J07GaGcCl2ePXnjEia) | [No Body](https://open.spotify.com/album/62zBV884X3VSsrxqlcYsoY) | 4:33 |
+| 51 | [No Body](https://open.spotify.com/track/2T9s8CK07B6dElJ6fmHeyt) | [Living Hour](https://open.spotify.com/artist/2Ho3J07GaGcCl2ePXnjEia) | [Someday is Today](https://open.spotify.com/album/5CnTQkaRdKn8NQ29Ig9gKe) | 4:33 |
 | 52 | [drowning](https://open.spotify.com/track/2CCMmAVXaG3LO2t3Aj4L5G) | [benjamiin](https://open.spotify.com/artist/7lSd5x0viArJytZV25tY2Y) | [drowning](https://open.spotify.com/album/5Ytwvvh8F2E4pszQQFFv7i) | 3:06 |
 | 53 | [iknowiknow](https://open.spotify.com/track/7ig0m6wR3xUP0ECJR1iJkL) | [PACKS](https://open.spotify.com/artist/1ZgzpPiODfKa4B9Fkw1dWm) | [WOAH](https://open.spotify.com/album/0ucs6jX7iFtv1e1SS8HTO5) | 2:10 |
 | 54 | [With You](https://open.spotify.com/track/3s9hD6HdtpeaIbr2gxgGJr) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t) | [Small Town Rituals](https://open.spotify.com/album/7x5t8sO3oN9lkDDbOPLWGh) | 2:51 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 | 99 | [Valhalla Dancer](https://open.spotify.com/track/0LcyG3C7FMaP5VzPY1sBJI) | [Beyries](https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn) | [Valhalla Dancer](https://open.spotify.com/album/1CSxS2yfjWOIzwcjmvh5Da) | 3:43 |
 | 100 | [What in the World](https://open.spotify.com/track/6Bt8N0YVzHZsQYqKIGwmEv) | [The Bros\. Landreth](https://open.spotify.com/artist/7aW0i5ASfG998fHzkNDniL) | [Come Morning](https://open.spotify.com/album/70Lbc0nDNzvJb4UBDXVU6K) | 3:42 |
 
-Snapshot ID: `MTY2MjA5MTIwMCwwMDAwMDAwMGM5YzNmMzk4MDBjNzA0OWZmMmY2NTBhYmQwNmMxYmFm`
+Snapshot ID: `MTY2MjA5MTIwMCwwMDAwMDAwMDhkM2I1ODI0NTIxMWI0ZTU1NGFiNTViNmI2ZTkwNTM0`

@@ -4,7 +4,7 @@
 
 > The home of today’s cutting edge Ambient, Atmospheric and Neo Classical music\. Pantha Du Prince on cover.
 
-618 songs - 2 day 0 hr 25 min - [published](https://open.spotify.com/playlist/2VJZyunnZCFnCPLdfBtZ7N)
+619 songs - 2 day 0 hr 32 min - [published](https://open.spotify.com/playlist/2VJZyunnZCFnCPLdfBtZ7N)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,7 +101,7 @@
 | [Burnt](https://open.spotify.com/track/4mVkekfbynNEYCxTqjvu3n) | [Mazoulew](https://open.spotify.com/artist/2FXIGKBu3oLpuZkXq6bMgj) | [Movements](https://open.spotify.com/album/6MaULV6Q82B2QA0A9SUSQs) | 3:26 | 2022-02-25 | 2022-09-04 |
 | [By The Sea \(Alexandra Hamilton\-Ayres Rework\)](https://open.spotify.com/track/2iXvCq72SsfRotGmvihphI) | [Anna Phoebe](https://open.spotify.com/artist/1838KFlgy3zBrQOqiwagod), [Alexandra Hamilton\-Ayres](https://open.spotify.com/artist/6o0pKKljrn7GYEZTQPFwKp) | [By The Sea \(Alexandra Hamilton\-Ayres Rework\)](https://open.spotify.com/album/4dsFX80koDAJYLRx6UwcE3) | 4:48 | 2021-12-24 |  |
 | [By The Sea \(live\)](https://open.spotify.com/track/3MYAcI8fKxQjDF2DrULm1B) | [Anna Phoebe](https://open.spotify.com/artist/1838KFlgy3zBrQOqiwagod), [Jake Downs](https://open.spotify.com/artist/548KN8JtY7WZn3VCiTGgUJ), [Trans Voices](https://open.spotify.com/artist/6WOjBUzx8rMrwCdVtU4WVN) | [By The Sea \(live\)](https://open.spotify.com/album/4uDNPvTViSulNt01rFHM5R) | 5:00 | 2022-04-22 |  |
-| [Call the Flood](https://open.spotify.com/track/5NNBZTpEjrK9dLnsozj61C) | [Jeroen Dirrix](https://open.spotify.com/artist/02Ay0xb3u177rlIOA1YmGs) | [A Hidden Place](https://open.spotify.com/album/3emV1EJfJZiW8o4sHOYy7h) | 5:25 | 2021-12-24 |  |
+| [Call the Flood](https://open.spotify.com/track/5NNBZTpEjrK9dLnsozj61C) | [Jeroen Dirrix](https://open.spotify.com/artist/02Ay0xb3u177rlIOA1YmGs) | [A Hidden Place](https://open.spotify.com/album/3emV1EJfJZiW8o4sHOYy7h) | 5:25 | 2021-12-24 | 2022-09-06 |
 | [Calm Clouds \(Meditation\)](https://open.spotify.com/track/5bn6YEq5dkKAz7abX4k95J) | [Under the Stars](https://open.spotify.com/artist/6p1G6IzT5hRsjq7pwCkOqI) | [Calm Clouds](https://open.spotify.com/album/4GxwNdMrtnAWantSBuMlba) | 3:50 | 2022-02-18 | 2022-07-29 |
 | [CAPRICORN](https://open.spotify.com/track/4WkEVhfzvQYr0GqOyuRthu) | [Pauli The PSM](https://open.spotify.com/artist/0REk2fMEqOBQKenqZv4sgp), [OFFAIR](https://open.spotify.com/artist/7Ma4FYYpM6vqvTeXHAMKkp), [Liz Vice](https://open.spotify.com/artist/5KYcfVCcUgV4d1KP3Wozyx) | [OFFAIR: The Power of your Subconscious Mind Vol 1: SPACE](https://open.spotify.com/album/1gUxFwmsNfsAmyrirHs3hG) | 3:42 | 2022-01-07 |  |
 | [Casino \- Chilly Gonzales Solo Piano Version](https://open.spotify.com/track/130CiCdXlU4ytUC7t6YntZ) | [Victor Le Masne](https://open.spotify.com/artist/73HYvBYbBoXKmDEzsM27RI), [Chilly Gonzales](https://open.spotify.com/artist/0qudezVgvl4Chd9BgNFB83) | [Casino \(Chilly Gonzales Solo Piano Version\)](https://open.spotify.com/album/2dwAoDnCx1YaQ747ikDUUf) | 2:15 | 2021-12-24 | 2022-07-23 |
@@ -451,6 +451,7 @@
 | [Rest](https://open.spotify.com/track/1Qr5lEVWPmsdvAbjijpWHa) | [faintface](https://open.spotify.com/artist/2dmaPf4Lroxldy8ktS9Jvs) | [In Threes](https://open.spotify.com/album/1fm5u6iySaiZbdcJwazryb) | 2:59 | 2021-12-24 | 2022-02-28 |
 | [Restart](https://open.spotify.com/track/1MNs6jT6pvV1KBmZcOCXdS) | [UH](https://open.spotify.com/artist/77p9ghvK0WqycHbls2k9VP), [Uwe Hager](https://open.spotify.com/artist/1JzBQNzU9AJGEHBxirj9I9) | [Restart](https://open.spotify.com/album/5gWsyqURvhG8MyxLz7Nz50) | 3:38 | 2021-12-24 | 2022-04-08 |
 | [Retracing Home](https://open.spotify.com/track/7McxawbM1mYYoeyjRHJYxY) | [Bob Boilen](https://open.spotify.com/artist/5BQdg2fUFKdhtwWAOU6q18) | [Hidden Smiles](https://open.spotify.com/album/7d1tWxqSfdUBwB7FRqFJqU) | 5:11 | 2021-12-24 | 2022-02-13 |
+| [Revenge](https://open.spotify.com/track/3oq0aWZCAdIfc4ERvILzxm) | [Jogging House](https://open.spotify.com/artist/250gyZr9YqxIpI3UNi9yka) | [Fiber](https://open.spotify.com/album/7eggXuPYfGd9STXvugMAHj) | 7:14 | 2022-09-02 |  |
 | [Reykjavik Syndrome](https://open.spotify.com/track/5dWaRYl2bvKdhJAqVol9Uh) | [Martin Brugger](https://open.spotify.com/artist/1CChwzxv51jVD73HJwnHM5) | [Reykjavik Syndrome](https://open.spotify.com/album/2sLfyzbXJS8qpN6CjtYXXS) | 3:36 | 2021-12-24 | 2022-02-05 |
 | [Rhapsodie](https://open.spotify.com/track/6bGQ2ne2Ja1e5NDPb0AFxc) | [Schlindwein](https://open.spotify.com/artist/2anZ4I2UXxOT5LBGahKWv6) | [Piano Tales](https://open.spotify.com/album/0iSISkeqmEnPGe7CzjnD6K) | 3:05 | 2021-12-24 |  |
 | [Rhymes of Chance Pt 3](https://open.spotify.com/track/7fhW0s39jN0o8KX5arsF3K) | [Roy Montgomery](https://open.spotify.com/artist/0g15pJOpHp0RMVScdAXzLH) | [Rhymes of Chance](https://open.spotify.com/album/023dOihC39enW4dWBGoVSs) | 1:51 | 2021-12-24 | 2022-01-27 |

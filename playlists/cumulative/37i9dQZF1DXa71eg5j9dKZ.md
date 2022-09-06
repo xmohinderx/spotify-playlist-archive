@@ -4,7 +4,7 @@
 
 > The home for alternative electronic music\. Cover: TSHA
 
-413 songs - 1 day 6 hr 58 min - [published](https://open.spotify.com/playlist/421FObHiJ0lygWLx69aaX2)
+414 songs - 1 day 7 hr 2 min - [published](https://open.spotify.com/playlist/421FObHiJ0lygWLx69aaX2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,6 +179,7 @@
 | [Honey](https://open.spotify.com/track/2Z7amFYcnroyrAS8ZNVSDa) | [Kilig](https://open.spotify.com/artist/6bV9MqjsNFkMwryuBkWvXX) | [Canvas](https://open.spotify.com/album/3FMEGUPP5mSEXlNS6JN1d4) | 4:31 | 2021-11-24\* | 2021-12-17 |
 | [Honey Love](https://open.spotify.com/track/2AVhvo5Um8vmPoG5MjXgtA) | [Tony Njoku](https://open.spotify.com/artist/1vkVP0FhEbUzaU1ztl7YmK) | [Honey Love](https://open.spotify.com/album/40ezxkvhJmgNhmEtvTyfBK) | 3:35 | 2022-08-26 |  |
 | [How It Makes You Feel](https://open.spotify.com/track/1VIaMdoWo7iNLoxdAJJoHK) | [Carl Cox](https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS), [Nicole Moudaber](https://open.spotify.com/artist/7ixDtqtITfqx5lZQGh5gKe) | [How It Makes You Feel](https://open.spotify.com/album/0IrIIRAzh0iG3wbZQJ8YnM) | 8:46 | 2022-06-09 |  |
+| [Howl](https://open.spotify.com/track/3360fzHkXtFCGSnTpyBMRA) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Howl](https://open.spotify.com/album/6IYBjFaUzMGNj6mptyYg66) | 4:17 | 2022-09-05 |  |
 | [Human Sound](https://open.spotify.com/track/30LzLyZYQvmPSJeJHtBTx4) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4), [Kai\-Isaiah Jamal](https://open.spotify.com/artist/4qYmQYhUf6LUPG5Rbib2Xw), [Obi Franky](https://open.spotify.com/artist/7wcA5gBY4GRUDwcfyoj0p0) | [Baby, We're Ascending](https://open.spotify.com/album/7FlN0x6yjToDvOIjpuIm48) | 5:26 | 2022-07-28 | 2022-09-02 |
 | [Human Sound](https://open.spotify.com/track/7INfFJ0S1a6ZnIxtxDJlwq) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4), [Kai\-Isaiah Jamal](https://open.spotify.com/artist/4qYmQYhUf6LUPG5Rbib2Xw), [Obi Franky](https://open.spotify.com/artist/7wcA5gBY4GRUDwcfyoj0p0) | [Human Sound](https://open.spotify.com/album/5J06rqfuFDWHsPvU6OrES6) | 5:26 | 2022-05-26 | 2022-07-29 |
 | [Hummingbird](https://open.spotify.com/track/192bA6Tgzd1e0FIaik5f2g) | [Anish Kumar](https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8) | [Hummingbird](https://open.spotify.com/album/4Fd7lUvMzc0HFeaseDZaO3) | 2:57 | 2022-04-29 | 2022-07-15 |

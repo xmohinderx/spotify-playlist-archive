@@ -1,12 +1,12 @@
 {
   "description": "The best new experimental music by independent artists and labels. Updates every Wednesday. Cover: Hatis Noit / Boku to Georges Artwork: Thami Nabil",
-  "num_followers": 91137,
+  "num_followers": 91189,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTkxODUyMSwwMDAwMDAwMDdkNTkyYTVmMjI3NmI2Y2QzZTdlNDE3ZjMxOGVhY2M3",
+  "snapshot_id": "MTY2MTkxODUyMSwwMDAwMDAwMDE2YTdjM2MzYjBhODk0Y2Q1YmI1MDdkMmI0MTE4MTdh",
   "tracks": [
     {
       "added_at": "2022-08-31 04:02:01",
@@ -313,6 +313,22 @@
       "url": "https://open.spotify.com/track/6IcvrVg1YFoLGH6mcuZtZL"
     },
     {
+      "added_at": "2022-08-24 01:37:13",
+      "album": {
+        "name": "The Distance Between Heart And Mouth",
+        "url": "https://open.spotify.com/album/2zXMfKxsrjOpTRfoYiGtQu"
+      },
+      "artists": [
+        {
+          "name": "Elaine Howley",
+          "url": "https://open.spotify.com/artist/3STzxp6cfWNNQVcAQWYZgh"
+        }
+      ],
+      "duration_ms": 233610,
+      "name": "Archeological Longing",
+      "url": "https://open.spotify.com/track/3yrogOJPrt7rbnpIdIPNIe"
+    },
+    {
       "added_at": "2022-08-03 02:51:09",
       "album": {
         "name": "Time Traveller",
@@ -331,22 +347,6 @@
     {
       "added_at": "2022-08-24 01:37:13",
       "album": {
-        "name": "The Distance Between Heart And Mouth",
-        "url": "https://open.spotify.com/album/2zXMfKxsrjOpTRfoYiGtQu"
-      },
-      "artists": [
-        {
-          "name": "Elaine Howley",
-          "url": "https://open.spotify.com/artist/3STzxp6cfWNNQVcAQWYZgh"
-        }
-      ],
-      "duration_ms": 233610,
-      "name": "Archeological Longing",
-      "url": "https://open.spotify.com/track/3yrogOJPrt7rbnpIdIPNIe"
-    },
-    {
-      "added_at": "2022-08-24 01:37:13",
-      "album": {
         "name": "To The Room",
         "url": "https://open.spotify.com/album/0j3mForBt3hDI70NfeX5KJ"
       },
@@ -359,22 +359,6 @@
       "duration_ms": 314410,
       "name": "To The Room",
       "url": "https://open.spotify.com/track/6cdrN8vixkhW6F6E2vS6yT"
-    },
-    {
-      "added_at": "2022-07-20 05:00:00",
-      "album": {
-        "name": "Aura",
-        "url": "https://open.spotify.com/album/1CtdQTfP0DzM3GJA95Po52"
-      },
-      "artists": [
-        {
-          "name": "Hatis Noit",
-          "url": "https://open.spotify.com/artist/1VMXdJgyzy12hZGmEk8LPY"
-        }
-      ],
-      "duration_ms": 437059,
-      "name": "Aura",
-      "url": "https://open.spotify.com/track/3yLrFNajQckehtRDyh2FiI"
     },
     {
       "added_at": "2022-08-24 01:37:13",
@@ -393,22 +377,6 @@
       "url": "https://open.spotify.com/track/3ZeOlJzcevGwxnnIGS2e4C"
     },
     {
-      "added_at": "2022-07-27 14:53:59",
-      "album": {
-        "name": "Carte Blanche",
-        "url": "https://open.spotify.com/album/09vQxbdKCIeapIcG72bR62"
-      },
-      "artists": [
-        {
-          "name": "Bon-Psy",
-          "url": "https://open.spotify.com/artist/5Vv4f9pucnXPVExpBKfBXn"
-        }
-      ],
-      "duration_ms": 194050,
-      "name": "Carte Blanche",
-      "url": "https://open.spotify.com/track/76NPiAAkI1o5pj0HsZ4zvt"
-    },
-    {
       "added_at": "2022-08-03 02:51:09",
       "album": {
         "name": "For You Only",
@@ -423,6 +391,38 @@
       "duration_ms": 182400,
       "name": "Second Love",
       "url": "https://open.spotify.com/track/0jaYsfrSaAGb4d81qE5APl"
+    },
+    {
+      "added_at": "2022-07-20 05:00:00",
+      "album": {
+        "name": "Aura",
+        "url": "https://open.spotify.com/album/1CtdQTfP0DzM3GJA95Po52"
+      },
+      "artists": [
+        {
+          "name": "Hatis Noit",
+          "url": "https://open.spotify.com/artist/1VMXdJgyzy12hZGmEk8LPY"
+        }
+      ],
+      "duration_ms": 437059,
+      "name": "Aura",
+      "url": "https://open.spotify.com/track/3yLrFNajQckehtRDyh2FiI"
+    },
+    {
+      "added_at": "2022-07-27 14:53:59",
+      "album": {
+        "name": "Carte Blanche",
+        "url": "https://open.spotify.com/album/09vQxbdKCIeapIcG72bR62"
+      },
+      "artists": [
+        {
+          "name": "Bon-Psy",
+          "url": "https://open.spotify.com/artist/5Vv4f9pucnXPVExpBKfBXn"
+        }
+      ],
+      "duration_ms": 194050,
+      "name": "Carte Blanche",
+      "url": "https://open.spotify.com/track/76NPiAAkI1o5pj0HsZ4zvt"
     },
     {
       "added_at": "2022-08-03 02:51:09",
@@ -585,22 +585,6 @@
       "url": "https://open.spotify.com/track/6l22VxrbgYAV8tnWUbsHje"
     },
     {
-      "added_at": "2022-08-03 02:51:09",
-      "album": {
-        "name": "6\u00b030\u203233.372\u2033N 3\u00b022\u20320.66\u2033E",
-        "url": "https://open.spotify.com/album/5ORagktp2f72d9tqOAxz49"
-      },
-      "artists": [
-        {
-          "name": "Emeka Ogboh",
-          "url": "https://open.spotify.com/artist/3wogpkBUlSTZrtz3fq4qG7"
-        }
-      ],
-      "duration_ms": 339469,
-      "name": "Verbal Drift",
-      "url": "https://open.spotify.com/track/12zhpmYyhxlxgoDZTFo88c"
-    },
-    {
       "added_at": "2022-08-24 01:37:13",
       "album": {
         "name": "Pause",
@@ -617,22 +601,6 @@
       "url": "https://open.spotify.com/track/3tpqnJwdfTJJycsLHwUbtC"
     },
     {
-      "added_at": "2022-08-10 04:00:00",
-      "album": {
-        "name": "Aral",
-        "url": "https://open.spotify.com/album/3JaoGku2I6BpJpsE70N0qN"
-      },
-      "artists": [
-        {
-          "name": "SK.EIN",
-          "url": "https://open.spotify.com/artist/7lO3132d2IEaNxgeMabPXy"
-        }
-      ],
-      "duration_ms": 216882,
-      "name": "Aral",
-      "url": "https://open.spotify.com/track/1KSvw7Nbb93VfeTYv3PPEo"
-    },
-    {
       "added_at": "2022-08-24 01:37:13",
       "album": {
         "name": "it's a secret / sunflower",
@@ -647,6 +615,38 @@
       "duration_ms": 224470,
       "name": "sunflower",
       "url": "https://open.spotify.com/track/3JFCJBNiBsjdnihfqaLnKN"
+    },
+    {
+      "added_at": "2022-08-03 02:51:09",
+      "album": {
+        "name": "6\u00b030\u203233.372\u2033N 3\u00b022\u20320.66\u2033E",
+        "url": "https://open.spotify.com/album/5ORagktp2f72d9tqOAxz49"
+      },
+      "artists": [
+        {
+          "name": "Emeka Ogboh",
+          "url": "https://open.spotify.com/artist/3wogpkBUlSTZrtz3fq4qG7"
+        }
+      ],
+      "duration_ms": 339469,
+      "name": "Verbal Drift",
+      "url": "https://open.spotify.com/track/12zhpmYyhxlxgoDZTFo88c"
+    },
+    {
+      "added_at": "2022-08-10 04:00:00",
+      "album": {
+        "name": "Aral",
+        "url": "https://open.spotify.com/album/3JaoGku2I6BpJpsE70N0qN"
+      },
+      "artists": [
+        {
+          "name": "SK.EIN",
+          "url": "https://open.spotify.com/artist/7lO3132d2IEaNxgeMabPXy"
+        }
+      ],
+      "duration_ms": 216882,
+      "name": "Aral",
+      "url": "https://open.spotify.com/track/1KSvw7Nbb93VfeTYv3PPEo"
     },
     {
       "added_at": "2022-08-10 04:00:00",
@@ -733,22 +733,6 @@
       "url": "https://open.spotify.com/track/5PyPycSLKkGLkYuyk2Dptr"
     },
     {
-      "added_at": "2022-08-03 02:51:09",
-      "album": {
-        "name": "Pussy Galore",
-        "url": "https://open.spotify.com/album/7zJdl3F4qtx5nS5uk4tey8"
-      },
-      "artists": [
-        {
-          "name": "Pepper Levain",
-          "url": "https://open.spotify.com/artist/2zyca7YVhnYEvNd9oOky7m"
-        }
-      ],
-      "duration_ms": 266181,
-      "name": "Pussy Galore",
-      "url": "https://open.spotify.com/track/3FjOcP7gTJJN1zePjLFrKz"
-    },
-    {
       "added_at": "2022-07-27 14:53:59",
       "album": {
         "name": "Killing It",
@@ -763,6 +747,22 @@
       "duration_ms": 200000,
       "name": "Killing It",
       "url": "https://open.spotify.com/track/4hQqvBV899zZK5iibYI8ZZ"
+    },
+    {
+      "added_at": "2022-08-03 02:51:09",
+      "album": {
+        "name": "Pussy Galore",
+        "url": "https://open.spotify.com/album/7zJdl3F4qtx5nS5uk4tey8"
+      },
+      "artists": [
+        {
+          "name": "Pepper Levain",
+          "url": "https://open.spotify.com/artist/2zyca7YVhnYEvNd9oOky7m"
+        }
+      ],
+      "duration_ms": 266181,
+      "name": "Pussy Galore",
+      "url": "https://open.spotify.com/track/3FjOcP7gTJJN1zePjLFrKz"
     },
     {
       "added_at": "2022-08-24 01:37:13",
@@ -781,6 +781,22 @@
       "url": "https://open.spotify.com/track/475IphfrYFRjHxnPHBnLX1"
     },
     {
+      "added_at": "2022-08-24 01:37:13",
+      "album": {
+        "name": "you're always with me",
+        "url": "https://open.spotify.com/album/1AvX14kEvlBKmWAsyTM4id"
+      },
+      "artists": [
+        {
+          "name": "innerinnerlife",
+          "url": "https://open.spotify.com/artist/3SJn3wuHQGbKFT0vDKT3Yo"
+        }
+      ],
+      "duration_ms": 248934,
+      "name": "you're always with me",
+      "url": "https://open.spotify.com/track/5AXa5jxDOTBTLiTdZJcjvP"
+    },
+    {
       "added_at": "2022-08-10 04:00:00",
       "album": {
         "name": "6\u00b030\u203233.372\u2033N 3\u00b022\u20320.66\u2033E",
@@ -795,26 +811,6 @@
       "duration_ms": 406365,
       "name": "No Counterfeit",
       "url": "https://open.spotify.com/track/3UCxLjpSymzhVKQRZHdLw8"
-    },
-    {
-      "added_at": "2022-07-20 05:00:00",
-      "album": {
-        "name": "At the Opposite Pole of Architectural Virtue",
-        "url": "https://open.spotify.com/album/4SaqbnvjebkOsFlPDwqM4W"
-      },
-      "artists": [
-        {
-          "name": "Saint Abdullah",
-          "url": "https://open.spotify.com/artist/4etazEwJ5tHdjhCyFihuIP"
-        },
-        {
-          "name": "Eomac",
-          "url": "https://open.spotify.com/artist/6J30Iyy8uZbhTzepsSs5yJ"
-        }
-      ],
-      "duration_ms": 316693,
-      "name": "At the Opposite Pole of Architectural Virtue",
-      "url": "https://open.spotify.com/track/5RedG0fnDPdtnyqTlUQW9n"
     }
   ],
   "unique_name": "Fresh Finds Experimental",

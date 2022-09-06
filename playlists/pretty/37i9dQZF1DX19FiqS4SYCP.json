@@ -1,12 +1,12 @@
 {
   "description": "Tejano's new wave, co-curated with <a href=\"https://tejanonation.net/\">Tejano Nation</a>! La nueva ola de la m\u00fasica tejana. Cover: Stefani Montiel",
-  "num_followers": 140291,
+  "num_followers": 140297,
   "original_name": "New Tejano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NjY4NjE4MiwwMDAwMDAwMDRkYzE5YzNiODQwNmZmMWQ5YTBiZTE0NGE1ODAwMTdh",
+  "snapshot_id": "MTY0NjY4NjE4MiwwMDAwMDAwMDRjZDliOTYyYTMwNzA3YTVmNWNhMDU3NDgyYjMzMzRh",
   "tracks": [
     {
       "added_at": "2022-03-07 20:49:42",
@@ -343,22 +343,6 @@
     {
       "added_at": "2022-03-07 20:49:42",
       "album": {
-        "name": "As\u00ed Fue",
-        "url": "https://open.spotify.com/album/0pufIKSnkJQ9LPzaUBrBxf"
-      },
-      "artists": [
-        {
-          "name": "Vilax",
-          "url": "https://open.spotify.com/artist/2COneGRGNI8iBBjrYN0xHr"
-        }
-      ],
-      "duration_ms": 283628,
-      "name": "As\u00ed Fue",
-      "url": "https://open.spotify.com/track/0rFblCCLFidTJBvLzJna19"
-    },
-    {
-      "added_at": "2022-03-07 20:49:42",
-      "album": {
         "name": "Quedate",
         "url": "https://open.spotify.com/album/2tcNInfjOxe4iJ4tq0V6bb"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 179063,
       "name": "Quedate",
       "url": "https://open.spotify.com/track/10aPjP4AFszpLKNPoQeJv7"
+    },
+    {
+      "added_at": "2022-03-07 20:49:42",
+      "album": {
+        "name": "As\u00ed Fue",
+        "url": "https://open.spotify.com/album/0pufIKSnkJQ9LPzaUBrBxf"
+      },
+      "artists": [
+        {
+          "name": "Vilax",
+          "url": "https://open.spotify.com/artist/2COneGRGNI8iBBjrYN0xHr"
+        }
+      ],
+      "duration_ms": 283628,
+      "name": "As\u00ed Fue",
+      "url": "https://open.spotify.com/track/0rFblCCLFidTJBvLzJna19"
     },
     {
       "added_at": "2022-03-07 20:49:42",
@@ -539,18 +539,18 @@
     {
       "added_at": "2022-03-07 20:49:42",
       "album": {
-        "name": "Me Enamor\u00e9 de un \u00c1ngel",
-        "url": "https://open.spotify.com/album/1melzNhjW9NP9TkXDcuJU3"
+        "name": "N\u00famero Dos",
+        "url": "https://open.spotify.com/album/4w2OL4DBZWL2GCb7hqaY07"
       },
       "artists": [
         {
-          "name": "Juan Trevi\u00f1o",
-          "url": "https://open.spotify.com/artist/0Gct7JOgXGrHRMaeQNCtvG"
+          "name": "Emanuel J",
+          "url": "https://open.spotify.com/artist/3zFXGHNABaAKnak0jm1EDq"
         }
       ],
-      "duration_ms": 251239,
-      "name": "Me Enamor\u00e9 de un \u00c1ngel",
-      "url": "https://open.spotify.com/track/7nlh8QxxK8zaEZP4fM34Gd"
+      "duration_ms": 192000,
+      "name": "No Quiero Nada",
+      "url": "https://open.spotify.com/track/4C2BBpBPFGhCPnWTG52kQv"
     },
     {
       "added_at": "2022-03-07 20:49:42",
@@ -571,18 +571,18 @@
     {
       "added_at": "2022-03-07 20:49:42",
       "album": {
-        "name": "N\u00famero Dos",
-        "url": "https://open.spotify.com/album/4w2OL4DBZWL2GCb7hqaY07"
+        "name": "Me Enamor\u00e9 de un \u00c1ngel",
+        "url": "https://open.spotify.com/album/1melzNhjW9NP9TkXDcuJU3"
       },
       "artists": [
         {
-          "name": "Emanuel J",
-          "url": "https://open.spotify.com/artist/3zFXGHNABaAKnak0jm1EDq"
+          "name": "Juan Trevi\u00f1o",
+          "url": "https://open.spotify.com/artist/0Gct7JOgXGrHRMaeQNCtvG"
         }
       ],
-      "duration_ms": 192000,
-      "name": "No Quiero Nada",
-      "url": "https://open.spotify.com/track/4C2BBpBPFGhCPnWTG52kQv"
+      "duration_ms": 251239,
+      "name": "Me Enamor\u00e9 de un \u00c1ngel",
+      "url": "https://open.spotify.com/track/7nlh8QxxK8zaEZP4fM34Gd"
     },
     {
       "added_at": "2022-03-07 20:49:42",
@@ -599,26 +599,6 @@
       "duration_ms": 167507,
       "name": "Nunca Me Imagine",
       "url": "https://open.spotify.com/track/6zPsXyvfaNhUn3SUySKbjT"
-    },
-    {
-      "added_at": "2022-03-07 20:49:42",
-      "album": {
-        "name": "Vac\u00eda",
-        "url": "https://open.spotify.com/album/5VSAXB0RpdLQRdBRQAeP2g"
-      },
-      "artists": [
-        {
-          "name": "Destiny Navaira",
-          "url": "https://open.spotify.com/artist/3od00zk4OBhNuBGEIsqZ6e"
-        },
-        {
-          "name": "Myrza Maldonado",
-          "url": "https://open.spotify.com/artist/4lDrc1fp7FQT0wYguA1cmk"
-        }
-      ],
-      "duration_ms": 180462,
-      "name": "Vac\u00eda",
-      "url": "https://open.spotify.com/track/0MA7XbFRqIB55H7HOLZImY"
     },
     {
       "added_at": "2022-03-07 20:49:42",
@@ -643,22 +623,22 @@
     {
       "added_at": "2022-03-07 20:49:42",
       "album": {
-        "name": "That\u2019s All I\u2019ve Got to Say",
-        "url": "https://open.spotify.com/album/1NR8IEBqpsCxqD1vLNFD3u"
+        "name": "Vac\u00eda",
+        "url": "https://open.spotify.com/album/5VSAXB0RpdLQRdBRQAeP2g"
       },
       "artists": [
         {
-          "name": "Rebecca Valadez",
-          "url": "https://open.spotify.com/artist/6tdZAJLugGpySw6MoKxaet"
+          "name": "Destiny Navaira",
+          "url": "https://open.spotify.com/artist/3od00zk4OBhNuBGEIsqZ6e"
         },
         {
-          "name": "Ram Herrera",
-          "url": "https://open.spotify.com/artist/36wLXYkjSzjSqQ41WcVczE"
+          "name": "Myrza Maldonado",
+          "url": "https://open.spotify.com/artist/4lDrc1fp7FQT0wYguA1cmk"
         }
       ],
-      "duration_ms": 211750,
-      "name": "That\u2019s All I\u2019ve Got to Say",
-      "url": "https://open.spotify.com/track/5KsPuanYxsDOWzimkg8mpq"
+      "duration_ms": 180462,
+      "name": "Vac\u00eda",
+      "url": "https://open.spotify.com/track/0MA7XbFRqIB55H7HOLZImY"
     },
     {
       "added_at": "2022-03-07 20:49:42",
@@ -675,6 +655,26 @@
       "duration_ms": 185232,
       "name": "Escapate",
       "url": "https://open.spotify.com/track/4BmeGs3pWDmCB060bZlJdq"
+    },
+    {
+      "added_at": "2022-03-07 20:49:42",
+      "album": {
+        "name": "That\u2019s All I\u2019ve Got to Say",
+        "url": "https://open.spotify.com/album/1NR8IEBqpsCxqD1vLNFD3u"
+      },
+      "artists": [
+        {
+          "name": "Rebecca Valadez",
+          "url": "https://open.spotify.com/artist/6tdZAJLugGpySw6MoKxaet"
+        },
+        {
+          "name": "Ram Herrera",
+          "url": "https://open.spotify.com/artist/36wLXYkjSzjSqQ41WcVczE"
+        }
+      ],
+      "duration_ms": 211750,
+      "name": "That\u2019s All I\u2019ve Got to Say",
+      "url": "https://open.spotify.com/track/5KsPuanYxsDOWzimkg8mpq"
     },
     {
       "added_at": "2022-03-07 20:49:42",

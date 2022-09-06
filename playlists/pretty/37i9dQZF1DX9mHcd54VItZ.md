@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 
 > Only the hottest out now in South African Rock and Punk\. Cover: <a href="https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb?si=y9eRB\-kFSJCJjrCpXvWyog">Die Heuwels Fantasties</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,879 likes - 70 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,891 likes - 70 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

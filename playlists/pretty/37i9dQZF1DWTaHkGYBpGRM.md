@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTaHkGYBpGRM.md) - [plain]
 
 > Long distance is hard, but true love knows no boundaries.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,762 likes - 60 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,797 likes - 60 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,14 +35,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTaHkGYBpGRM.md) - [plain]
 | 25 | [Trouble I'm In](https://open.spotify.com/track/58NyDMjXSBQ9CG3lcvbLKi) | [Twinbed](https://open.spotify.com/artist/0fJrV4zS7nW9fre4bNuGsp) | [Trouble I'm In](https://open.spotify.com/album/7vF8hqJr5ftey5VxwVYVz0) | 3:22 |
 | 26 | [As Much as I Ever Could](https://open.spotify.com/track/2FKbisOVZcinq7VtYUFD4H) | [City and Colour](https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR) | [Bring Me Your Love \(Special Edition\)](https://open.spotify.com/album/1GYDVFWPK1HFI3TRWmj7hr) | 5:24 |
 | 27 | [Miss You](https://open.spotify.com/track/4tqsFRjUHZ89bMEOAk3lUl) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Dear Happy](https://open.spotify.com/album/3KxOprE85UOpYbua4W3fQO) | 3:17 |
-| 28 | [Wish You Were Here \- Acoustic Version](https://open.spotify.com/track/4rmfjaAl0kWsyznoJU2ws3) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Goodbye Lullaby \(Expanded Edition\)](https://open.spotify.com/album/1COPJyU2PpM2Itcob3vhFF) | 3:45 |
-| 29 | [Berlin](https://open.spotify.com/track/6PiR6zBrj0JUMnIT88OtZv) | [Bear's Den](https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi) | [Berlin](https://open.spotify.com/album/7qNXH2L0VUARRVpcJsacqM) | 4:29 |
+| 28 | [Berlin](https://open.spotify.com/track/6PiR6zBrj0JUMnIT88OtZv) | [Bear's Den](https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi) | [Berlin](https://open.spotify.com/album/7qNXH2L0VUARRVpcJsacqM) | 4:29 |
+| 29 | [Wish You Were Here \- Acoustic Version](https://open.spotify.com/track/4rmfjaAl0kWsyznoJU2ws3) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Goodbye Lullaby \(Expanded Edition\)](https://open.spotify.com/album/1COPJyU2PpM2Itcob3vhFF) | 3:45 |
 | 30 | [5748 Km](https://open.spotify.com/track/4LXi58nLKicjAC0emPq43l) | [Lisa LeBlanc](https://open.spotify.com/artist/4YsjYDobnm0mf2tB4I9Zya) | [Why You Wanna Leave, Runaway Queen?](https://open.spotify.com/album/0oTTQnhihdD5IDQeW2xoVL) | 3:15 |
 | 31 | [Stay](https://open.spotify.com/track/24xqELXbmKDFLKkR3271jb) | [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [Once Upon Another Time](https://open.spotify.com/album/1PrqYZJRzGNf8AsSOraxnZ) | 4:22 |
 | 32 | [Come Home](https://open.spotify.com/track/6zGrmt2Ico8vRx8oDemgl6) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ), [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [Come Home](https://open.spotify.com/album/17v2mwH6eNUP5zpgtxqAty) | 4:18 |
 | 33 | [Rather Be with You \- Acoustic](https://open.spotify.com/track/7fS708BKUj1zNyejmuZxDb) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [Rather Be with You](https://open.spotify.com/album/1VTHEGSEWZ8ob1kGSJXt4x) | 3:19 |
-| 34 | [Counting Down the Days](https://open.spotify.com/track/1uWEioHUYs5BD6yGdAcWZA) | [Natalie Imbruglia](https://open.spotify.com/artist/0dlOr0VIysztGWvU1dpjmP) | [Counting Down The Days](https://open.spotify.com/album/1PD3hNs0PRMtOeU11DPpim) | 4:09 |
-| 35 | [Waiting \- PAL Remix](https://open.spotify.com/track/1EWQ6XHKBCGleqPJOjsPLJ) | [Alice Boman](https://open.spotify.com/artist/3WiytRnvoL0kT3oAGl9TCt), [PAL](https://open.spotify.com/artist/2EW0ELDBawKHcX4lQyAj0M) | [Skisser / Remixed](https://open.spotify.com/album/40tc5WbPOiSGUxhJyITXE3) | 5:14 |
+| 34 | [Waiting \- PAL Remix](https://open.spotify.com/track/1EWQ6XHKBCGleqPJOjsPLJ) | [Alice Boman](https://open.spotify.com/artist/3WiytRnvoL0kT3oAGl9TCt), [PAL](https://open.spotify.com/artist/2EW0ELDBawKHcX4lQyAj0M) | [Skisser / Remixed](https://open.spotify.com/album/40tc5WbPOiSGUxhJyITXE3) | 5:14 |
+| 35 | [Counting Down the Days](https://open.spotify.com/track/1uWEioHUYs5BD6yGdAcWZA) | [Natalie Imbruglia](https://open.spotify.com/artist/0dlOr0VIysztGWvU1dpjmP) | [Counting Down The Days](https://open.spotify.com/album/1PD3hNs0PRMtOeU11DPpim) | 4:09 |
 | 36 | [See You Again](https://open.spotify.com/track/7gEIEG5i3oKLKRKBuvengF) | [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [Love Stuff](https://open.spotify.com/album/0B4eikFaUJcf3hc6DaSVov) | 3:26 |
 | 37 | [Please Stay](https://open.spotify.com/track/0dSTuo3SoZqR8bG4xBOHVv) | [Francois Klark](https://open.spotify.com/artist/6pWdTbfpN654qlN83k3O0P) | [Love](https://open.spotify.com/album/12SFWJtCHuTAW1WX7gpkCU) | 3:44 |
 | 38 | [Lit the Fire](https://open.spotify.com/track/7nMwUYRFXb6EzZ3t7iigSv) | [Ralph](https://open.spotify.com/artist/1Ss8sy3C3XXQgxYRwjDln8) | [Ralph](https://open.spotify.com/album/4ZpHjzelJv4qIeZqrqJduU) | 2:50 |
@@ -58,15 +58,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTaHkGYBpGRM.md) - [plain]
 | 48 | [I Was Just Thinking](https://open.spotify.com/track/1kcTZCAV8k8CQ0LOz735Gd) | [Teitur](https://open.spotify.com/artist/1lrjRRYpYP8kVTlHLShjJM) | [Poetry & Airplanes](https://open.spotify.com/album/56fpdPOaGl7IHh71TPtQo1) | 3:31 |
 | 49 | [Hearts Without Chains](https://open.spotify.com/track/2TWqTeDjVpcZfgrblmf86g) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Halcyon Days](https://open.spotify.com/album/3KVeczHxWg5YFKb0gS62f2) | 3:45 |
 | 50 | [And Counting…](https://open.spotify.com/track/2BzzOaMznrmLxrfAfXjgBJ) | [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [Siberia](https://open.spotify.com/album/0JsiuNPYQLyK6luX5jLuRE) | 4:42 |
-| 51 | [Rather Be \- Acoustic Version](https://open.spotify.com/track/70xYJHdWmz19ahK7emfqQi) | [Matt Johnson](https://open.spotify.com/artist/7HXBbxW6YwU8lvgBew2p2A) | [Acoustic Hits, Vol\. 1](https://open.spotify.com/album/7k0NBsULw2oXznJTpk3LFl) | 2:52 |
-| 52 | [Long Distance](https://open.spotify.com/track/09K2F1CRs7q52cVD6XjJxV) | [Megan & Liz](https://open.spotify.com/artist/6mRrGf8lw51Iux6dPQWWlr) | [Long Distance](https://open.spotify.com/album/1FRN6HsXnlzL9AOevAWath) | 3:43 |
-| 53 | [On The Nights You Stay Home](https://open.spotify.com/track/40GSgYiMMpP3bePselOZA0) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti) | [Hard Settle, Ain't Troubled](https://open.spotify.com/album/4dslKx4DoHu7LYRZO4AhfR) | 3:49 |
+| 51 | [On The Nights You Stay Home](https://open.spotify.com/track/40GSgYiMMpP3bePselOZA0) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti) | [Hard Settle, Ain't Troubled](https://open.spotify.com/album/4dslKx4DoHu7LYRZO4AhfR) | 3:49 |
+| 52 | [Rather Be \- Acoustic Version](https://open.spotify.com/track/70xYJHdWmz19ahK7emfqQi) | [Matt Johnson](https://open.spotify.com/artist/7HXBbxW6YwU8lvgBew2p2A) | [Acoustic Hits, Vol\. 1](https://open.spotify.com/album/7k0NBsULw2oXznJTpk3LFl) | 2:52 |
+| 53 | [Long Distance](https://open.spotify.com/track/09K2F1CRs7q52cVD6XjJxV) | [Megan & Liz](https://open.spotify.com/artist/6mRrGf8lw51Iux6dPQWWlr) | [Long Distance](https://open.spotify.com/album/1FRN6HsXnlzL9AOevAWath) | 3:43 |
 | 54 | [The Distance](https://open.spotify.com/track/6yEtRJIe0jxNxk4QIGJZLv) | [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [Ten Years](https://open.spotify.com/album/2vpvNOhSSQdf2w6x24SIlR) | 3:58 |
 | 55 | [Montreal](https://open.spotify.com/track/7JwZiJ4ImRnTGGjIDIUKMY) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Barchords](https://open.spotify.com/album/753yeghJKIjYDaLbJB2ZW9) | 2:41 |
 | 56 | [So Soon](https://open.spotify.com/track/5bILhEJrVsV9SSyepmT1I4) | [The Graves](https://open.spotify.com/artist/1qQyOBGe2g114PNzK8xfiP) | [The Graves](https://open.spotify.com/album/0yIr2isTFFsqbHVx8D0nTA) | 3:30 |
-| 57 | [Miss You More](https://open.spotify.com/track/5E6I37a1kshvyeeFpaSpEf) | [Matt Simons](https://open.spotify.com/artist/1g0fXhQMHAxlRyIBkCbuE7) | [Pieces](https://open.spotify.com/album/1qDN2w02Pz4lRqnZANiRNr) | 4:36 |
-| 58 | [I'll Remember You](https://open.spotify.com/track/4Led8v9xCu9XxAi6LWl6nB) | [Sophie Zelmani](https://open.spotify.com/artist/59hh4MU8JBy0tvPlhz5fzk) | [Sophie Zelmani](https://open.spotify.com/album/7l2wh3iJzOz8dIm0NQ3Puw) | 3:16 |
+| 57 | [I'll Remember You](https://open.spotify.com/track/4Led8v9xCu9XxAi6LWl6nB) | [Sophie Zelmani](https://open.spotify.com/artist/59hh4MU8JBy0tvPlhz5fzk) | [Sophie Zelmani](https://open.spotify.com/album/7l2wh3iJzOz8dIm0NQ3Puw) | 3:16 |
+| 58 | [Miss You More](https://open.spotify.com/track/5E6I37a1kshvyeeFpaSpEf) | [Matt Simons](https://open.spotify.com/artist/1g0fXhQMHAxlRyIBkCbuE7) | [Pieces](https://open.spotify.com/album/1qDN2w02Pz4lRqnZANiRNr) | 4:36 |
 | 59 | [Coming Home](https://open.spotify.com/track/4DEICI6hwTnHCch0SonV8w) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Bitter Pill](https://open.spotify.com/album/1O1BzHEnq2sItopGcE2PS0) | 3:55 |
 | 60 | [Missing You](https://open.spotify.com/track/7eA8KIqKOYDwzDoQPp0vQ9) | [Erik Hassle](https://open.spotify.com/artist/6MKNzi38fPQCFRdWOtHqTJ) | [Innocence Lost](https://open.spotify.com/album/7yYelxb5aBNoxduduomHlp) | 2:54 |
 
-Snapshot ID: `MTYxMTYwNDE1MiwwMDAwMDAwMDJkNDdjYzU2YzhmNDZhYWVkN2NlMTQ3M2ZlMWM0MzQ0`
+Snapshot ID: `MTYxMTYwNDE1MiwwMDAwMDAwMGY2ZWZhYmU1OWZkZGZjMTU3NjcwN2QwYWYwZGM1NGU2`

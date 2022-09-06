@@ -1,12 +1,12 @@
 {
   "description": "\u547d\u3092\u6301\u305f\u306a\u3044VOCALOID\u306e\u9b45\u529b\u3092\u7279\u96c6\u3002\n",
-  "num_followers": 46553,
+  "num_followers": 46639,
   "original_name": "\u541b\u304c\u751f\u304d\u3066\u306a\u304f\u3066\u3088\u304b\u3063\u305f",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjA0ODAzNiwwMDAwMDAwMDNiOTFlODYxMTEzY2UxNWY5Y2U5ZGYwZDYxMmYzYjJk",
+  "snapshot_id": "MTY2MjA0ODAzNiwwMDAwMDAwMDA2YjE5ZDM0NmZmYmFkNGIwYjQxNDJlNzhiOGNmMzBh",
   "tracks": [
     {
       "added_at": "2022-09-01 16:00:36",
@@ -379,22 +379,6 @@
     {
       "added_at": "2022-09-01 16:00:36",
       "album": {
-        "name": "Coin locker Baby",
-        "url": "https://open.spotify.com/album/5oPvIsJd6pzjmpvmiSVbjg"
-      },
-      "artists": [
-        {
-          "name": "Maretu",
-          "url": "https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM"
-        }
-      ],
-      "duration_ms": 259230,
-      "name": "Mind brand",
-      "url": "https://open.spotify.com/track/2KvhjbZPPtNXTB6wib1rXB"
-    },
-    {
-      "added_at": "2022-09-01 16:00:36",
-      "album": {
         "name": "GHOST",
         "url": "https://open.spotify.com/album/3euL5ADirJFFXvoX9OlIfA"
       },
@@ -427,18 +411,34 @@
     {
       "added_at": "2022-09-01 16:00:36",
       "album": {
-        "name": "GHOST",
-        "url": "https://open.spotify.com/album/3euL5ADirJFFXvoX9OlIfA"
+        "name": "\u30a2\u30a4\u30c7\u30f3\u30c6\u30a3\u30c6\u30a3",
+        "url": "https://open.spotify.com/album/5bN9ddnWBszIifz4XhLlKj"
       },
       "artists": [
         {
-          "name": "DECO*27",
-          "url": "https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP"
+          "name": "Kanaria",
+          "url": "https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF"
         }
       ],
-      "duration_ms": 210000,
-      "name": "Ghost Rule",
-      "url": "https://open.spotify.com/track/1OAp6qN5KmoGUQ2edICKsC"
+      "duration_ms": 155692,
+      "name": "\u30a2\u30a4\u30c7\u30f3\u30c6\u30a3\u30c6\u30a3",
+      "url": "https://open.spotify.com/track/4X3L6G6KDs0jBKvfTkmKmi"
+    },
+    {
+      "added_at": "2022-09-01 16:00:36",
+      "album": {
+        "name": "Coin locker Baby",
+        "url": "https://open.spotify.com/album/5oPvIsJd6pzjmpvmiSVbjg"
+      },
+      "artists": [
+        {
+          "name": "Maretu",
+          "url": "https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM"
+        }
+      ],
+      "duration_ms": 259230,
+      "name": "Mind brand",
+      "url": "https://open.spotify.com/track/2KvhjbZPPtNXTB6wib1rXB"
     },
     {
       "added_at": "2022-09-01 16:00:36",
@@ -459,18 +459,18 @@
     {
       "added_at": "2022-09-01 16:00:36",
       "album": {
-        "name": "\u30a2\u30a4\u30c7\u30f3\u30c6\u30a3\u30c6\u30a3",
-        "url": "https://open.spotify.com/album/5bN9ddnWBszIifz4XhLlKj"
+        "name": "\u30b5\u30e9\u30de\u30f3\u30c0\u30fc",
+        "url": "https://open.spotify.com/album/11pU0vz7peTM1JdMZvSg9t"
       },
       "artists": [
         {
-          "name": "Kanaria",
-          "url": "https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF"
+          "name": "DECO*27",
+          "url": "https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP"
         }
       ],
-      "duration_ms": 155692,
-      "name": "\u30a2\u30a4\u30c7\u30f3\u30c6\u30a3\u30c6\u30a3",
-      "url": "https://open.spotify.com/track/4X3L6G6KDs0jBKvfTkmKmi"
+      "duration_ms": 155647,
+      "name": "\u30b5\u30e9\u30de\u30f3\u30c0\u30fc",
+      "url": "https://open.spotify.com/track/64LMCa7fkdfHYLtCm0kGTR"
     },
     {
       "added_at": "2022-09-01 16:00:36",
@@ -575,38 +575,6 @@
     {
       "added_at": "2022-09-01 16:00:36",
       "album": {
-        "name": "\u30b5\u30e9\u30de\u30f3\u30c0\u30fc",
-        "url": "https://open.spotify.com/album/11pU0vz7peTM1JdMZvSg9t"
-      },
-      "artists": [
-        {
-          "name": "DECO*27",
-          "url": "https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP"
-        }
-      ],
-      "duration_ms": 155647,
-      "name": "\u30b5\u30e9\u30de\u30f3\u30c0\u30fc",
-      "url": "https://open.spotify.com/track/64LMCa7fkdfHYLtCm0kGTR"
-    },
-    {
-      "added_at": "2022-09-01 16:00:36",
-      "album": {
-        "name": "\u8e0a\u308c\u306a\u304f\u306a\u308b\u69d8\u306b\u8e0a\u3089\u305b\u3066",
-        "url": "https://open.spotify.com/album/6MGHEJUwaCwZ4g6OuDnXOx"
-      },
-      "artists": [
-        {
-          "name": "\u30cb\u30c8\u3002",
-          "url": "https://open.spotify.com/artist/7bNO9nNPBOXrcUzOA66UbE"
-        }
-      ],
-      "duration_ms": 257454,
-      "name": "\u8e0a\u308c\u306a\u304f\u306a\u308b\u69d8\u306b\u8e0a\u3089\u305b\u3066",
-      "url": "https://open.spotify.com/track/1dRPMDd77CoCwSxbcLqShU"
-    },
-    {
-      "added_at": "2022-09-01 16:00:36",
-      "album": {
         "name": "ave",
         "url": "https://open.spotify.com/album/7gGyCGkce4VpXWGSopZEKy"
       },
@@ -623,18 +591,18 @@
     {
       "added_at": "2022-09-01 16:00:36",
       "album": {
-        "name": "\u30ab\u30ec\u30e9",
-        "url": "https://open.spotify.com/album/0Va63wDLt19V4AX9pVelvH"
+        "name": "\u8e0a\u308c\u306a\u304f\u306a\u308b\u69d8\u306b\u8e0a\u3089\u305b\u3066",
+        "url": "https://open.spotify.com/album/6MGHEJUwaCwZ4g6OuDnXOx"
       },
       "artists": [
         {
-          "name": "Sohbana",
-          "url": "https://open.spotify.com/artist/1wdjWyhvXFyP3gBWVGZiS5"
+          "name": "\u30cb\u30c8\u3002",
+          "url": "https://open.spotify.com/artist/7bNO9nNPBOXrcUzOA66UbE"
         }
       ],
-      "duration_ms": 201428,
-      "name": "\u30ab\u30ec\u30e9",
-      "url": "https://open.spotify.com/track/528tDJOGh348cRU6KySLmA"
+      "duration_ms": 257454,
+      "name": "\u8e0a\u308c\u306a\u304f\u306a\u308b\u69d8\u306b\u8e0a\u3089\u305b\u3066",
+      "url": "https://open.spotify.com/track/1dRPMDd77CoCwSxbcLqShU"
     },
     {
       "added_at": "2022-09-01 16:00:36",
@@ -663,6 +631,22 @@
       "duration_ms": 220930,
       "name": "Gimme\u00d7Gimme feat. \u521d\u97f3\u30df\u30af\u30fb\u93e1\u97f3\u30ea\u30f3",
       "url": "https://open.spotify.com/track/5XJh3VbvvnGYrkubcQwzys"
+    },
+    {
+      "added_at": "2022-09-01 16:00:36",
+      "album": {
+        "name": "\u30ab\u30ec\u30e9",
+        "url": "https://open.spotify.com/album/0Va63wDLt19V4AX9pVelvH"
+      },
+      "artists": [
+        {
+          "name": "Sohbana",
+          "url": "https://open.spotify.com/artist/1wdjWyhvXFyP3gBWVGZiS5"
+        }
+      ],
+      "duration_ms": 201428,
+      "name": "\u30ab\u30ec\u30e9",
+      "url": "https://open.spotify.com/track/528tDJOGh348cRU6KySLmA"
     },
     {
       "added_at": "2022-09-01 16:00:36",
@@ -783,38 +767,6 @@
     {
       "added_at": "2022-09-01 16:00:36",
       "album": {
-        "name": "\u7802\u306e\u60d1\u661f feat.\u521d\u97f3\u30df\u30af",
-        "url": "https://open.spotify.com/album/5fYiHj6u8MZWm2IPgvI0vh"
-      },
-      "artists": [
-        {
-          "name": "hachi",
-          "url": "https://open.spotify.com/artist/6ptdMFoqgQZRoccAYK9Opd"
-        }
-      ],
-      "duration_ms": 238874,
-      "name": "\u7802\u306e\u60d1\u661f feat.\u521d\u97f3\u30df\u30af",
-      "url": "https://open.spotify.com/track/2RBQ84niVRC6bBdhe7lc9F"
-    },
-    {
-      "added_at": "2022-09-01 16:00:36",
-      "album": {
-        "name": "ENVY BABY",
-        "url": "https://open.spotify.com/album/0rp0Htb5EVN4G9boRMNPk4"
-      },
-      "artists": [
-        {
-          "name": "Kanaria",
-          "url": "https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF"
-        }
-      ],
-      "duration_ms": 135789,
-      "name": "ENVY BABY",
-      "url": "https://open.spotify.com/track/7rPKtXBW35rSQH1i6QAvyk"
-    },
-    {
-      "added_at": "2022-09-01 16:00:36",
-      "album": {
         "name": "God sees all",
         "url": "https://open.spotify.com/album/2UvWMD9DOfJxpJaSwNtqFU"
       },
@@ -843,6 +795,54 @@
       "duration_ms": 329038,
       "name": "\u7089\u5fc3\u878d\u89e3",
       "url": "https://open.spotify.com/track/705CVl7WvtnJgVpGIgZ6dQ"
+    },
+    {
+      "added_at": "2022-09-01 16:00:36",
+      "album": {
+        "name": "\u30c4\u30ae\u30cf\u30ae\u30b9\u30bf\u30c3\u30ab\u30fc\u30c8",
+        "url": "https://open.spotify.com/album/334dtoC0dImpN25UZ62DMD"
+      },
+      "artists": [
+        {
+          "name": "toa",
+          "url": "https://open.spotify.com/artist/0GpuT5uCfbeG4IwyPLvJ7b"
+        }
+      ],
+      "duration_ms": 250359,
+      "name": "\u30c4\u30ae\u30cf\u30ae\u30b9\u30bf\u30c3\u30ab\u30fc\u30c8",
+      "url": "https://open.spotify.com/track/0V7RxFamMkLN6tXR7S2t1W"
+    },
+    {
+      "added_at": "2022-09-01 16:00:36",
+      "album": {
+        "name": "ENVY BABY",
+        "url": "https://open.spotify.com/album/0rp0Htb5EVN4G9boRMNPk4"
+      },
+      "artists": [
+        {
+          "name": "Kanaria",
+          "url": "https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF"
+        }
+      ],
+      "duration_ms": 135789,
+      "name": "ENVY BABY",
+      "url": "https://open.spotify.com/track/7rPKtXBW35rSQH1i6QAvyk"
+    },
+    {
+      "added_at": "2022-09-01 16:00:36",
+      "album": {
+        "name": "\u7802\u306e\u60d1\u661f feat.\u521d\u97f3\u30df\u30af",
+        "url": "https://open.spotify.com/album/5fYiHj6u8MZWm2IPgvI0vh"
+      },
+      "artists": [
+        {
+          "name": "hachi",
+          "url": "https://open.spotify.com/artist/6ptdMFoqgQZRoccAYK9Opd"
+        }
+      ],
+      "duration_ms": 238874,
+      "name": "\u7802\u306e\u60d1\u661f feat.\u521d\u97f3\u30df\u30af",
+      "url": "https://open.spotify.com/track/2RBQ84niVRC6bBdhe7lc9F"
     }
   ],
   "unique_name": "\u541b\u304c\u751f\u304d\u3066\u306a\u304f\u3066\u3088\u304b\u3063\u305f",

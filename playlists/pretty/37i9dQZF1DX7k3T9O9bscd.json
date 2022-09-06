@@ -1,12 +1,12 @@
 {
   "description": "Psyched-out bands from the four corners of the world.",
-  "num_followers": 305147,
+  "num_followers": 305285,
   "original_name": "Neo-Psychedelic Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjE3OTE0MCwwMDAwMDAwMDQ1MTM2NTRjMzU0NjFhM2MwM2Q0NGI3NDllY2JhM2Qz",
+  "snapshot_id": "MTY2MjE3OTE0MCwwMDAwMDAwMDI3N2Q4OGM0ZTg5NGI0NWFmNzVhYmY0MTExNGFhZWFm",
   "tracks": [
     {
       "added_at": "2022-09-03 04:25:40",
@@ -121,6 +121,22 @@
       "url": "https://open.spotify.com/track/0Bl1Gt8R9kjz7JO7SYAuhe"
     },
     {
+      "added_at": "2022-03-18 04:49:53",
+      "album": {
+        "name": "Currents",
+        "url": "https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 318591,
+      "name": "Eventually",
+      "url": "https://open.spotify.com/track/5M4yti0QxgqJieUYaEXcpw"
+    },
+    {
       "added_at": "2021-11-12 05:23:58",
       "album": {
         "name": "Con Todo El Mundo",
@@ -167,22 +183,6 @@
       "duration_ms": 315133,
       "name": "Interior People",
       "url": "https://open.spotify.com/track/3tj1cKu9SOnchX6twBKn30"
-    },
-    {
-      "added_at": "2022-03-18 04:49:53",
-      "album": {
-        "name": "Currents",
-        "url": "https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv"
-      },
-      "artists": [
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 318591,
-      "name": "Eventually",
-      "url": "https://open.spotify.com/track/5M4yti0QxgqJieUYaEXcpw"
     },
     {
       "added_at": "2022-01-28 02:59:48",
@@ -377,6 +377,22 @@
       "url": "https://open.spotify.com/track/0JOkNtA6xYd1A7H7XTryS5"
     },
     {
+      "added_at": "2022-04-12 18:03:13",
+      "album": {
+        "name": "Currents",
+        "url": "https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 467586,
+      "name": "Let It Happen",
+      "url": "https://open.spotify.com/track/2X485T9Z5Ly0xyaghN73ed"
+    },
+    {
       "added_at": "2021-11-12 05:23:58",
       "album": {
         "name": "Elephant Stone",
@@ -393,20 +409,20 @@
       "url": "https://open.spotify.com/track/16k2KM42CJEZ8uOC4v1vGV"
     },
     {
-      "added_at": "2022-04-12 18:03:13",
+      "added_at": "2021-11-12 05:23:58",
       "album": {
-        "name": "Currents",
-        "url": "https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv"
+        "name": "D\u00e9j\u00e0vu",
+        "url": "https://open.spotify.com/album/0vhTWEtT1LUdl5cxr5oACF"
       },
       "artists": [
         {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+          "name": "Matty",
+          "url": "https://open.spotify.com/artist/7K1kHQsB2m87TMVcDbZAfW"
         }
       ],
-      "duration_ms": 467586,
-      "name": "Let It Happen",
-      "url": "https://open.spotify.com/track/2X485T9Z5Ly0xyaghN73ed"
+      "duration_ms": 312360,
+      "name": "I'll Gladly Place Myself Below You",
+      "url": "https://open.spotify.com/track/7fpEayIv2yPcLnbiRLDMWn"
     },
     {
       "added_at": "2022-08-13 00:54:36",
@@ -427,22 +443,6 @@
     {
       "added_at": "2021-11-12 05:23:58",
       "album": {
-        "name": "D\u00e9j\u00e0vu",
-        "url": "https://open.spotify.com/album/0vhTWEtT1LUdl5cxr5oACF"
-      },
-      "artists": [
-        {
-          "name": "Matty",
-          "url": "https://open.spotify.com/artist/7K1kHQsB2m87TMVcDbZAfW"
-        }
-      ],
-      "duration_ms": 312360,
-      "name": "I'll Gladly Place Myself Below You",
-      "url": "https://open.spotify.com/track/7fpEayIv2yPcLnbiRLDMWn"
-    },
-    {
-      "added_at": "2021-11-12 05:23:58",
-      "album": {
         "name": "K.G.",
         "url": "https://open.spotify.com/album/6uuQKwM3fRETiscHqlnxuo"
       },
@@ -455,22 +455,6 @@
       "duration_ms": 252630,
       "name": "Intrasport",
       "url": "https://open.spotify.com/track/28c8ZDVltaCcs4OfIAuI8Z"
-    },
-    {
-      "added_at": "2021-11-12 05:23:58",
-      "album": {
-        "name": "Ananda Shankar (US Internet Release)",
-        "url": "https://open.spotify.com/album/24R9CyPLFa0CJrSZ9whlT3"
-      },
-      "artists": [
-        {
-          "name": "Ananda Shankar",
-          "url": "https://open.spotify.com/artist/5eNWwEF0woj5E5Fnu9qXaQ"
-        }
-      ],
-      "duration_ms": 215866,
-      "name": "Jumpin' Jack Flash",
-      "url": "https://open.spotify.com/track/6BkeuHmO4P69Ln2BSonrXi"
     },
     {
       "added_at": "2021-11-12 05:23:58",
@@ -491,18 +475,18 @@
     {
       "added_at": "2021-11-12 05:23:58",
       "album": {
-        "name": "Fuckin Whatever",
-        "url": "https://open.spotify.com/album/0S6kwHyWDsj9wPqPdgxydI"
+        "name": "Ananda Shankar (US Internet Release)",
+        "url": "https://open.spotify.com/album/24R9CyPLFa0CJrSZ9whlT3"
       },
       "artists": [
         {
-          "name": "Fuckin Whatever",
-          "url": "https://open.spotify.com/artist/27dj7fdNHxGi0ysorNdEGe"
+          "name": "Ananda Shankar",
+          "url": "https://open.spotify.com/artist/5eNWwEF0woj5E5Fnu9qXaQ"
         }
       ],
-      "duration_ms": 213211,
-      "name": "Trash",
-      "url": "https://open.spotify.com/track/1DH4bVlD5AHQBZmFHXWVdr"
+      "duration_ms": 215866,
+      "name": "Jumpin' Jack Flash",
+      "url": "https://open.spotify.com/track/6BkeuHmO4P69Ln2BSonrXi"
     },
     {
       "added_at": "2022-04-12 18:03:13",
@@ -539,18 +523,18 @@
     {
       "added_at": "2021-11-12 05:23:58",
       "album": {
-        "name": "K.G.",
-        "url": "https://open.spotify.com/album/6uuQKwM3fRETiscHqlnxuo"
+        "name": "Fuckin Whatever",
+        "url": "https://open.spotify.com/album/0S6kwHyWDsj9wPqPdgxydI"
       },
       "artists": [
         {
-          "name": "King Gizzard & The Lizard Wizard",
-          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
+          "name": "Fuckin Whatever",
+          "url": "https://open.spotify.com/artist/27dj7fdNHxGi0ysorNdEGe"
         }
       ],
-      "duration_ms": 273854,
-      "name": "Honey",
-      "url": "https://open.spotify.com/track/0nObOnIxnz6PlPf04tZh1g"
+      "duration_ms": 213211,
+      "name": "Trash",
+      "url": "https://open.spotify.com/track/1DH4bVlD5AHQBZmFHXWVdr"
     },
     {
       "added_at": "2021-11-12 05:23:58",
@@ -603,6 +587,22 @@
     {
       "added_at": "2021-11-12 05:23:58",
       "album": {
+        "name": "K.G.",
+        "url": "https://open.spotify.com/album/6uuQKwM3fRETiscHqlnxuo"
+      },
+      "artists": [
+        {
+          "name": "King Gizzard & The Lizard Wizard",
+          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
+        }
+      ],
+      "duration_ms": 273854,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/0nObOnIxnz6PlPf04tZh1g"
+    },
+    {
+      "added_at": "2021-11-12 05:23:58",
+      "album": {
         "name": "Stars Are the Light",
         "url": "https://open.spotify.com/album/1sHQuaIevYqota2y67KzK5"
       },
@@ -631,6 +631,22 @@
       "duration_ms": 261556,
       "name": "Imaginary Girl",
       "url": "https://open.spotify.com/track/0dXdVTTo1hVSWvqEJQ04Gy"
+    },
+    {
+      "added_at": "2021-11-12 05:23:58",
+      "album": {
+        "name": "Wading Out / Shell Island",
+        "url": "https://open.spotify.com/album/6Fd1qlkC7Rj9Na2J9BfOiT"
+      },
+      "artists": [
+        {
+          "name": "Favourite People",
+          "url": "https://open.spotify.com/artist/2cIiivDGTDkt9aQVeJYCAt"
+        }
+      ],
+      "duration_ms": 203680,
+      "name": "Shell Island",
+      "url": "https://open.spotify.com/track/6zdthQLxB71PgKzTrgp36I"
     },
     {
       "added_at": "2021-11-12 05:23:58",
@@ -681,38 +697,6 @@
       "url": "https://open.spotify.com/track/19hgVvXQ8RyP5RtCkoUk5C"
     },
     {
-      "added_at": "2022-04-20 15:08:42",
-      "album": {
-        "name": "Kepler-22b",
-        "url": "https://open.spotify.com/album/2Y9ms6z4ZoXXmLDlzjH8SP"
-      },
-      "artists": [
-        {
-          "name": "King Gizzard & The Lizard Wizard",
-          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
-        }
-      ],
-      "duration_ms": 192960,
-      "name": "Kepler-22b",
-      "url": "https://open.spotify.com/track/4RpYwhok6EenNByjlMupsd"
-    },
-    {
-      "added_at": "2021-11-12 05:23:58",
-      "album": {
-        "name": "Wading Out / Shell Island",
-        "url": "https://open.spotify.com/album/6Fd1qlkC7Rj9Na2J9BfOiT"
-      },
-      "artists": [
-        {
-          "name": "Favourite People",
-          "url": "https://open.spotify.com/artist/2cIiivDGTDkt9aQVeJYCAt"
-        }
-      ],
-      "duration_ms": 203680,
-      "name": "Shell Island",
-      "url": "https://open.spotify.com/track/6zdthQLxB71PgKzTrgp36I"
-    },
-    {
       "added_at": "2021-11-12 05:23:58",
       "album": {
         "name": "Joe Frazier",
@@ -727,6 +711,22 @@
       "duration_ms": 338613,
       "name": "Joe Frazier",
       "url": "https://open.spotify.com/track/7Bb8qmumwlC2nTOp09ciH6"
+    },
+    {
+      "added_at": "2022-04-20 15:08:42",
+      "album": {
+        "name": "Kepler-22b",
+        "url": "https://open.spotify.com/album/2Y9ms6z4ZoXXmLDlzjH8SP"
+      },
+      "artists": [
+        {
+          "name": "King Gizzard & The Lizard Wizard",
+          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
+        }
+      ],
+      "duration_ms": 192960,
+      "name": "Kepler-22b",
+      "url": "https://open.spotify.com/track/4RpYwhok6EenNByjlMupsd"
     },
     {
       "added_at": "2021-11-12 05:23:58",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2021-11-12 05:23:58",
       "album": {
-        "name": "Ghost Tapes #10",
-        "url": "https://open.spotify.com/album/19Jy4bfbeWkmKAy7qA97oR"
-      },
-      "artists": [
-        {
-          "name": "God Is An Astronaut",
-          "url": "https://open.spotify.com/artist/079svMEXkbT5nGU2kfoqO2"
-        }
-      ],
-      "duration_ms": 364048,
-      "name": "Burial",
-      "url": "https://open.spotify.com/track/39OK2v0ZYohVbvqg4X4uDE"
-    },
-    {
-      "added_at": "2021-11-12 05:23:58",
-      "album": {
         "name": "Elwan",
         "url": "https://open.spotify.com/album/41KpeN0qV6BBsuJgd8tZrE"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 303106,
       "name": "N\u00e0nnufl\u00e0y",
       "url": "https://open.spotify.com/track/2ntjrFwp2AvA2vHTbJrgmX"
+    },
+    {
+      "added_at": "2021-11-12 05:23:58",
+      "album": {
+        "name": "Ghost Tapes #10",
+        "url": "https://open.spotify.com/album/19Jy4bfbeWkmKAy7qA97oR"
+      },
+      "artists": [
+        {
+          "name": "God Is An Astronaut",
+          "url": "https://open.spotify.com/artist/079svMEXkbT5nGU2kfoqO2"
+        }
+      ],
+      "duration_ms": 364048,
+      "name": "Burial",
+      "url": "https://open.spotify.com/track/39OK2v0ZYohVbvqg4X4uDE"
     },
     {
       "added_at": "2022-04-06 03:33:39",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2021-11-12 05:23:58",
       "album": {
-        "name": "Acid Crusher / Mount Swan",
-        "url": "https://open.spotify.com/album/1jnKtfbJTAo2WddUGjuLyZ"
-      },
-      "artists": [
-        {
-          "name": "Earthless",
-          "url": "https://open.spotify.com/artist/0nsphA9KDqbJ64duYRoEBi"
-        }
-      ],
-      "duration_ms": 896226,
-      "name": "Acid Crusher",
-      "url": "https://open.spotify.com/track/1Jl2QiqrBXJOVxDx2WqnvO"
-    },
-    {
-      "added_at": "2021-11-12 05:23:58",
-      "album": {
         "name": "Sacred Drugs",
         "url": "https://open.spotify.com/album/1z3VxBmeYehR4iKUkQ0IST"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 186858,
       "name": "A Shaman's Hand is Infinite",
       "url": "https://open.spotify.com/track/1tYXvwP2nPrU6bbV9QUU7i"
+    },
+    {
+      "added_at": "2021-11-12 05:23:58",
+      "album": {
+        "name": "Acid Crusher / Mount Swan",
+        "url": "https://open.spotify.com/album/1jnKtfbJTAo2WddUGjuLyZ"
+      },
+      "artists": [
+        {
+          "name": "Earthless",
+          "url": "https://open.spotify.com/artist/0nsphA9KDqbJ64duYRoEBi"
+        }
+      ],
+      "duration_ms": 896226,
+      "name": "Acid Crusher",
+      "url": "https://open.spotify.com/track/1Jl2QiqrBXJOVxDx2WqnvO"
     },
     {
       "added_at": "2021-11-12 05:23:58",

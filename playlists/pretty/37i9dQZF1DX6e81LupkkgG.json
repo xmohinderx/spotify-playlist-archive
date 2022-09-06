@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasicas aconchegantes para aquecer a alma nos dias frios.",
-  "num_followers": 335858,
+  "num_followers": 335915,
   "original_name": "Friozinho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI3Mzk2MiwwMDAwMDAwMDhlMzZjNWJlODMwNWE0ODcyOWNiMDZjNGVmMGZlN2E3",
+  "snapshot_id": "MTY2MDI3Mzk2MiwwMDAwMDAwMDViYzFhMGRlNmRlOTljOTljMGUzOWNjNzNhOTk1YWYx",
   "tracks": [
     {
       "added_at": "2022-08-12 03:12:41",
@@ -311,6 +311,22 @@
     {
       "added_at": "2022-08-12 03:12:41",
       "album": {
+        "name": "= (Tour Edition)",
+        "url": "https://open.spotify.com/album/2CIOGAByaHyjQ1EO55JSzC"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 231546,
+      "name": "One Life",
+      "url": "https://open.spotify.com/track/5DXKvETa1xppOmd4CDxs9S"
+    },
+    {
+      "added_at": "2022-08-12 03:12:41",
+      "album": {
         "name": "Lonely (with benny blanco)",
         "url": "https://open.spotify.com/album/3P5WIUJO0Ots1lQx09TOxk"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 149297,
       "name": "Lonely (with benny blanco)",
       "url": "https://open.spotify.com/track/4y4spB9m0Q6026KfkAvy9Q"
-    },
-    {
-      "added_at": "2022-08-12 03:12:41",
-      "album": {
-        "name": "= (Tour Edition)",
-        "url": "https://open.spotify.com/album/2CIOGAByaHyjQ1EO55JSzC"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 231546,
-      "name": "One Life",
-      "url": "https://open.spotify.com/track/5DXKvETa1xppOmd4CDxs9S"
     },
     {
       "added_at": "2022-08-12 03:12:41",
@@ -903,22 +903,6 @@
     {
       "added_at": "2022-08-12 03:12:41",
       "album": {
-        "name": "When You Lose Someone",
-        "url": "https://open.spotify.com/album/20l8unGyqrFecTjrSYgaSq"
-      },
-      "artists": [
-        {
-          "name": "Nina Nesbitt",
-          "url": "https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd"
-        }
-      ],
-      "duration_ms": 200282,
-      "name": "When You Lose Someone",
-      "url": "https://open.spotify.com/track/3ECh9S9MgoL9SrpZFh0Y5Z"
-    },
-    {
-      "added_at": "2022-08-12 03:12:41",
-      "album": {
         "name": "Somewhere Only We Know",
         "url": "https://open.spotify.com/album/2BWTPrj9yBBC79fCByZ2Tv"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 208154,
       "name": "Somewhere Only We Know",
       "url": "https://open.spotify.com/track/3DDGhkxq3FeUorZppSgeLE"
+    },
+    {
+      "added_at": "2022-08-12 03:12:41",
+      "album": {
+        "name": "When You Lose Someone",
+        "url": "https://open.spotify.com/album/20l8unGyqrFecTjrSYgaSq"
+      },
+      "artists": [
+        {
+          "name": "Nina Nesbitt",
+          "url": "https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd"
+        }
+      ],
+      "duration_ms": 200282,
+      "name": "When You Lose Someone",
+      "url": "https://open.spotify.com/track/3ECh9S9MgoL9SrpZFh0Y5Z"
     },
     {
       "added_at": "2022-08-12 03:12:41",
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2022-08-12 03:12:41",
       "album": {
+        "name": "The Sweetest Part",
+        "url": "https://open.spotify.com/album/3cwz7V6sJUCca7rMR79GO9"
+      },
+      "artists": [
+        {
+          "name": "Gavin James",
+          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
+        }
+      ],
+      "duration_ms": 234057,
+      "name": "Jealous",
+      "url": "https://open.spotify.com/track/0sEVg9cdJMXgDtcCxEs3zQ"
+    },
+    {
+      "added_at": "2022-08-12 03:12:41",
+      "album": {
         "name": "in defense of my own happiness",
         "url": "https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ"
       },
@@ -1323,22 +1339,6 @@
       "duration_ms": 180707,
       "name": "Bed I Made",
       "url": "https://open.spotify.com/track/1wdDPuoYhNk5Zr9XYgURww"
-    },
-    {
-      "added_at": "2022-08-12 03:12:41",
-      "album": {
-        "name": "The Sweetest Part",
-        "url": "https://open.spotify.com/album/3cwz7V6sJUCca7rMR79GO9"
-      },
-      "artists": [
-        {
-          "name": "Gavin James",
-          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
-        }
-      ],
-      "duration_ms": 234057,
-      "name": "Jealous",
-      "url": "https://open.spotify.com/track/0sEVg9cdJMXgDtcCxEs3zQ"
     },
     {
       "added_at": "2022-08-12 03:12:41",
@@ -1407,6 +1407,22 @@
     {
       "added_at": "2022-08-12 03:12:41",
       "album": {
+        "name": "Bad Ideas",
+        "url": "https://open.spotify.com/album/39y7WSuhOKLmxWP7ElwWFl"
+      },
+      "artists": [
+        {
+          "name": "Tessa Violet",
+          "url": "https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ"
+        }
+      ],
+      "duration_ms": 124365,
+      "name": "Words Ain't Enough",
+      "url": "https://open.spotify.com/track/6BSDpXlm2gtorEzoH4RNHw"
+    },
+    {
+      "added_at": "2022-08-12 03:12:41",
+      "album": {
         "name": "Problems (feat. Grady)",
         "url": "https://open.spotify.com/album/2b8AWTnpb1Z4ilTXRlK1KE"
       },
@@ -1427,18 +1443,22 @@
     {
       "added_at": "2022-08-12 03:12:41",
       "album": {
-        "name": "Bad Ideas",
-        "url": "https://open.spotify.com/album/39y7WSuhOKLmxWP7ElwWFl"
+        "name": "Fall On Me",
+        "url": "https://open.spotify.com/album/0cwzKIL9ELh2HwvMashfV5"
       },
       "artists": [
         {
-          "name": "Tessa Violet",
-          "url": "https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ"
+          "name": "A Great Big World",
+          "url": "https://open.spotify.com/artist/5xKp3UyavIBUsGy3DQdXeF"
+        },
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
         }
       ],
-      "duration_ms": 124365,
-      "name": "Words Ain't Enough",
-      "url": "https://open.spotify.com/track/6BSDpXlm2gtorEzoH4RNHw"
+      "duration_ms": 263053,
+      "name": "Fall On Me",
+      "url": "https://open.spotify.com/track/3t7PAG8ByriTrDNWSDCP1x"
     },
     {
       "added_at": "2022-08-12 03:12:41",
@@ -1459,26 +1479,6 @@
       "duration_ms": 213995,
       "name": "Until She\u2019s Gone (with Sebastian Yatra)",
       "url": "https://open.spotify.com/track/0onGEXtVcTkj8j24w5jD92"
-    },
-    {
-      "added_at": "2022-08-12 03:12:41",
-      "album": {
-        "name": "Fall On Me",
-        "url": "https://open.spotify.com/album/0cwzKIL9ELh2HwvMashfV5"
-      },
-      "artists": [
-        {
-          "name": "A Great Big World",
-          "url": "https://open.spotify.com/artist/5xKp3UyavIBUsGy3DQdXeF"
-        },
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        }
-      ],
-      "duration_ms": 263053,
-      "name": "Fall On Me",
-      "url": "https://open.spotify.com/track/3t7PAG8ByriTrDNWSDCP1x"
     },
     {
       "added_at": "2022-08-12 03:12:41",

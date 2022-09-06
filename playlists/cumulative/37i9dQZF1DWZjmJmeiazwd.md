@@ -4,7 +4,7 @@
 
 > Rock out while you game.
 
-399 songs - 1 day 0 hr 4 min - [published](https://open.spotify.com/playlist/4hjyqOv4pr58cwOYvnLuVE)
+400 songs - 1 day 0 hr 8 min - [published](https://open.spotify.com/playlist/4hjyqOv4pr58cwOYvnLuVE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Alive](https://open.spotify.com/track/2l1ZqaEr1fyFfHSudE7uSU) | [Tigress](https://open.spotify.com/artist/4wJ6pekF4hqpKdlXco2rJN) | [Human](https://open.spotify.com/album/7en8TRthEp3WueOnNV6zlN) | 2:47 | 2020-06-29 | 2022-07-29 |
 | [All or Nothing](https://open.spotify.com/track/4dMkVSiMt14svAqUlwMVuQ) | [Sylar](https://open.spotify.com/artist/78vP5COn64VXULgkIQovEA) | [All or Nothing](https://open.spotify.com/album/15wYtBlGoDxPUL283TyHgu) | 3:18 | 2020-06-29 | 2022-02-26 |
 | [Alone Again](https://open.spotify.com/track/7JP8lWYrxpA8luKU8IPd3Y) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [See What’s On The Inside](https://open.spotify.com/album/11gvWPhkQyVoYIJgVsojmm) | 3:48 | 2021-12-10 |  |
-| [An Honest Mistake](https://open.spotify.com/track/7DoMGZLVzga3vhyZlb0hBX) | [The Bravery](https://open.spotify.com/artist/2bcrMsFlF632EQ6VZERWFu) | [The Bravery](https://open.spotify.com/album/3GNa5HhqzUlonZoLGYC8vb) | 3:39 | 2022-07-28 |  |
+| [An Honest Mistake](https://open.spotify.com/track/7DoMGZLVzga3vhyZlb0hBX) | [The Bravery](https://open.spotify.com/artist/2bcrMsFlF632EQ6VZERWFu) | [The Bravery](https://open.spotify.com/album/3GNa5HhqzUlonZoLGYC8vb) | 3:39 | 2022-07-28 | 2022-09-06 |
 | [An Honest Mistake \- CD Album Version](https://open.spotify.com/track/3C1TyhKaxnkjQ9A4zswIpW) | [The Bravery](https://open.spotify.com/artist/2bcrMsFlF632EQ6VZERWFu) | [The Bravery](https://open.spotify.com/album/0CVPZvowlghoM7LEjm2ixN) | 3:39 | 2020-06-29 | 2022-04-21 |
 | [And So It Went \[Feat\. Tom Morello\]](https://open.spotify.com/track/50yV9WzI1A98KAWjZC5oqw) | [The Pretty Reckless](https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq), [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed) | [Death By Rock And Roll](https://open.spotify.com/album/2ysgEIHY4aOMMbbu0uV6ey) | 4:30 | 2022-04-22 | 2022-05-21 |
 | [Angel](https://open.spotify.com/track/2qJkesdHu9sMMVFgkRkqhQ) | [Theory of a Deadman](https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ) | [Savages](https://open.spotify.com/album/6SfhyLVugAsXYDvs966WBn) | 3:22 | 2020-06-29 | 2022-02-26 |
@@ -362,6 +362,7 @@
 | [They Don't Want What We Want \(And They Don't Care\)](https://open.spotify.com/track/4mRjkI6oIwbSCACGICcZKr) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [They Don't Want What We Want \(And They Don't Care\)](https://open.spotify.com/album/1N0zHaJXe7t5hmGcCSiz38) | 3:15 | 2020-06-29 | 2022-07-29 |
 | [Throne](https://open.spotify.com/track/0M3adYbGtyRHACP86dey1H) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [That's The Spirit](https://open.spotify.com/album/7FqHuAvmREiIwVXVpZ9ooP) | 3:11 | 2020-06-29 | 2022-02-26 |
 | [Through Glass](https://open.spotify.com/track/76aadnUFFANRNDs6L3aqxw) | [Stone Sour](https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF) | [Come What\(ever\) May \[Special Edition\]](https://open.spotify.com/album/5eHk89PNorMd7e4wyxYiUV) | 4:42 | 2020-06-29 | 2022-07-13 |
+| [Tissues](https://open.spotify.com/track/5J1zn7OE12a0gFnjJc0Um6) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [YUNGBLUD](https://open.spotify.com/album/0cdlBfbso4Iyim5XRQFBER) | 3:35 | 2022-09-03 |  |
 | [Tomorrow](https://open.spotify.com/track/24tO365YW6lcZr1hN4Ukzj) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Frogstomp \(Deluxe Edition\) \[Remastered\]](https://open.spotify.com/album/4kp8sfeCDUMm4JKRdrD3aC) | 4:26 | 2020-06-29 |  |
 | [Toro](https://open.spotify.com/track/13FYgwCmQy7WyDdLOZgK1y) | [Liily](https://open.spotify.com/artist/2asx6eXv9qzj5rA0ESrdO3) | [I Can Fool Anybody in This Town](https://open.spotify.com/album/5PPA9XMqeALVgwrrR6DGFx) | 3:39 | 2022-04-22 | 2022-05-21 |
 | [TRIALS](https://open.spotify.com/track/23wrmyJ1S2sjeh2dFN5P9k) | [STARSET](https://open.spotify.com/artist/0kD8IT1CzF7js2XKM9lLLa) | [DIVISIONS](https://open.spotify.com/album/3mptvwc49sVgmxP5xIv7UN) | 4:18 | 2020-06-29 |  |

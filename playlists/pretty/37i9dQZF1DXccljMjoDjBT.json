@@ -1,12 +1,12 @@
 {
   "description": "The best soft rock from the 1980s.",
-  "num_followers": 170393,
+  "num_followers": 170650,
   "original_name": "80s Soft Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzAzNjAyNSwwMDAwMDAwMGQ2ZGVlNWUzMjFhZmM5Y2EzYzRlYjdjMWEwMWM4MmJm",
+  "snapshot_id": "MTY1NzAzNjAyNSwwMDAwMDAwMGRkODkxYzM2OGU0OWU3ODhlZTA1MTUzN2M3MzZkYTEw",
   "tracks": [
     {
       "added_at": "2020-12-08 17:52:17",
@@ -251,22 +251,6 @@
     {
       "added_at": "2020-12-08 17:52:17",
       "album": {
-        "name": "H2O",
-        "url": "https://open.spotify.com/album/7ygXmT175bKbOpiPjNwXOB"
-      },
-      "artists": [
-        {
-          "name": "Daryl Hall & John Oates",
-          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
-        }
-      ],
-      "duration_ms": 273173,
-      "name": "Maneater",
-      "url": "https://open.spotify.com/track/7j74lucZ59vqN67Ipe2ZcY"
-    },
-    {
-      "added_at": "2020-12-08 17:52:17",
-      "album": {
         "name": "Chicago 17 (Expanded & Remastered)",
         "url": "https://open.spotify.com/album/1ICKrl6sDjJD1YdR9VDfPR"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 258333,
       "name": "Glory of Love",
       "url": "https://open.spotify.com/track/1eyq8cjUQ2daFthW2PC2GM"
+    },
+    {
+      "added_at": "2020-12-08 17:52:17",
+      "album": {
+        "name": "H2O",
+        "url": "https://open.spotify.com/album/7ygXmT175bKbOpiPjNwXOB"
+      },
+      "artists": [
+        {
+          "name": "Daryl Hall & John Oates",
+          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
+        }
+      ],
+      "duration_ms": 273173,
+      "name": "Maneater",
+      "url": "https://open.spotify.com/track/7j74lucZ59vqN67Ipe2ZcY"
     },
     {
       "added_at": "2020-12-08 17:52:17",
@@ -781,20 +781,20 @@
       "url": "https://open.spotify.com/track/6dahFmHrgncgVJjsI1ws7e"
     },
     {
-      "added_at": "2020-12-08 17:52:17",
+      "added_at": "2022-03-28 14:29:51",
       "album": {
-        "name": "Dirty Dancing (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0mtLFaQ3hL371jsNraRo9g"
+        "name": "Private Eyes (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7rfpaXxmQG7dnFycZjLae0"
       },
       "artists": [
         {
-          "name": "Eric Carmen",
-          "url": "https://open.spotify.com/artist/2ekjTXgjxbWwBX5lTAj4DU"
+          "name": "Daryl Hall & John Oates",
+          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
         }
       ],
-      "duration_ms": 248426,
-      "name": "Hungry Eyes - From \"Dirty Dancing\" Soundtrack",
-      "url": "https://open.spotify.com/track/7eafuv44YprITfOdzfVLoU"
+      "duration_ms": 307306,
+      "name": "I Can't Go for That (No Can Do)",
+      "url": "https://open.spotify.com/track/41dDygR3r7e926oGUXfrLt"
     },
     {
       "added_at": "2022-03-28 14:29:51",
@@ -813,20 +813,20 @@
       "url": "https://open.spotify.com/track/5dXED6MP1v1qghkaniirb1"
     },
     {
-      "added_at": "2022-03-28 14:29:51",
+      "added_at": "2020-12-08 17:52:17",
       "album": {
-        "name": "Private Eyes (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7rfpaXxmQG7dnFycZjLae0"
+        "name": "Dirty Dancing (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0mtLFaQ3hL371jsNraRo9g"
       },
       "artists": [
         {
-          "name": "Daryl Hall & John Oates",
-          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
+          "name": "Eric Carmen",
+          "url": "https://open.spotify.com/artist/2ekjTXgjxbWwBX5lTAj4DU"
         }
       ],
-      "duration_ms": 307306,
-      "name": "I Can't Go for That (No Can Do)",
-      "url": "https://open.spotify.com/track/41dDygR3r7e926oGUXfrLt"
+      "duration_ms": 248426,
+      "name": "Hungry Eyes - From \"Dirty Dancing\" Soundtrack",
+      "url": "https://open.spotify.com/track/7eafuv44YprITfOdzfVLoU"
     },
     {
       "added_at": "2020-12-08 17:52:17",
@@ -843,22 +843,6 @@
       "duration_ms": 412595,
       "name": "Althea - 2013 Remaster",
       "url": "https://open.spotify.com/track/7M7AwtGvWdMYudqx5Iuh1m"
-    },
-    {
-      "added_at": "2020-12-08 17:52:17",
-      "album": {
-        "name": "Martika (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2qoLTSXxsdiHpuoPWrpJiy"
-      },
-      "artists": [
-        {
-          "name": "Martika",
-          "url": "https://open.spotify.com/artist/40enFxfEXXsEXKOt1vgx0k"
-        }
-      ],
-      "duration_ms": 287600,
-      "name": "Toy Soldiers",
-      "url": "https://open.spotify.com/track/4jh9olf0OKCokpzxSyLeJx"
     },
     {
       "added_at": "2021-10-12 12:30:27",
@@ -879,6 +863,22 @@
       "duration_ms": 244440,
       "name": "Stop Draggin' My Heart Around (with Tom Petty and The Heartbreakers) - 2016 Remaster",
       "url": "https://open.spotify.com/track/66LhCsc06aTa2Ig7iYPDSP"
+    },
+    {
+      "added_at": "2020-12-08 17:52:17",
+      "album": {
+        "name": "Martika (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2qoLTSXxsdiHpuoPWrpJiy"
+      },
+      "artists": [
+        {
+          "name": "Martika",
+          "url": "https://open.spotify.com/artist/40enFxfEXXsEXKOt1vgx0k"
+        }
+      ],
+      "duration_ms": 287600,
+      "name": "Toy Soldiers",
+      "url": "https://open.spotify.com/track/4jh9olf0OKCokpzxSyLeJx"
     },
     {
       "added_at": "2020-12-08 17:52:17",
@@ -993,22 +993,6 @@
       "url": "https://open.spotify.com/track/1Bj6YgjjPbEb4jhQ50T8tJ"
     },
     {
-      "added_at": "2022-03-28 14:29:51",
-      "album": {
-        "name": "Welcome To The Real World",
-        "url": "https://open.spotify.com/album/682sQ449vmcJXS2AGIMrsl"
-      },
-      "artists": [
-        {
-          "name": "Mr. Mister",
-          "url": "https://open.spotify.com/artist/7Bah8E0kCETqEpAHI6CPzQ"
-        }
-      ],
-      "duration_ms": 265840,
-      "name": "Kyrie",
-      "url": "https://open.spotify.com/track/5K3Q1gue9nWLLwh6bYQFoB"
-    },
-    {
       "added_at": "2020-12-08 17:52:17",
       "album": {
         "name": "Hearts In Motion",
@@ -1023,6 +1007,22 @@
       "duration_ms": 249066,
       "name": "Lonely Is the Night",
       "url": "https://open.spotify.com/track/6gAhuDvn8Ef6P710UMze9W"
+    },
+    {
+      "added_at": "2022-03-28 14:29:51",
+      "album": {
+        "name": "Welcome To The Real World",
+        "url": "https://open.spotify.com/album/682sQ449vmcJXS2AGIMrsl"
+      },
+      "artists": [
+        {
+          "name": "Mr. Mister",
+          "url": "https://open.spotify.com/artist/7Bah8E0kCETqEpAHI6CPzQ"
+        }
+      ],
+      "duration_ms": 265840,
+      "name": "Kyrie",
+      "url": "https://open.spotify.com/track/5K3Q1gue9nWLLwh6bYQFoB"
     },
     {
       "added_at": "2020-12-08 17:52:17",
@@ -1055,6 +1055,22 @@
       "duration_ms": 283733,
       "name": "Hard Habit to Break - 2006 Remaster",
       "url": "https://open.spotify.com/track/3Tows9RnoAq9CmMJaII2cO"
+    },
+    {
+      "added_at": "2020-12-08 17:52:17",
+      "album": {
+        "name": "The End Of The Innocence",
+        "url": "https://open.spotify.com/album/12lDqJuZIqMk6DNe1fInFl"
+      },
+      "artists": [
+        {
+          "name": "Don Henley",
+          "url": "https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2"
+        }
+      ],
+      "duration_ms": 395400,
+      "name": "New York Minute",
+      "url": "https://open.spotify.com/track/2jxqu3v4AZAhUNvdAbDGet"
     },
     {
       "added_at": "2020-12-08 17:52:17",
@@ -1121,22 +1137,6 @@
       "url": "https://open.spotify.com/track/7yQNqjXp9BAGAppPGkTbYf"
     },
     {
-      "added_at": "2020-12-08 17:52:17",
-      "album": {
-        "name": "The End Of The Innocence",
-        "url": "https://open.spotify.com/album/12lDqJuZIqMk6DNe1fInFl"
-      },
-      "artists": [
-        {
-          "name": "Don Henley",
-          "url": "https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2"
-        }
-      ],
-      "duration_ms": 395400,
-      "name": "New York Minute",
-      "url": "https://open.spotify.com/track/2jxqu3v4AZAhUNvdAbDGet"
-    },
-    {
       "added_at": "2022-03-28 14:29:51",
       "album": {
         "name": "Living Years",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2020-12-08 17:52:17",
       "album": {
-        "name": "Richard Marx",
-        "url": "https://open.spotify.com/album/3C2cO3wo4f2bLzOpFypgmZ"
-      },
-      "artists": [
-        {
-          "name": "Richard Marx",
-          "url": "https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6"
-        }
-      ],
-      "duration_ms": 316040,
-      "name": "Hold On To The Nights",
-      "url": "https://open.spotify.com/track/3F2YXxSOC9dPmxXdrh6mYl"
-    },
-    {
-      "added_at": "2020-12-08 17:52:17",
-      "album": {
         "name": "Making Movies",
         "url": "https://open.spotify.com/album/7yTjsInNdNQJAlXAboi1nh"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 361395,
       "name": "Romeo and Juliet",
       "url": "https://open.spotify.com/track/57MflfPN3ObQQAQtPUp0WF"
+    },
+    {
+      "added_at": "2020-12-08 17:52:17",
+      "album": {
+        "name": "Richard Marx",
+        "url": "https://open.spotify.com/album/3C2cO3wo4f2bLzOpFypgmZ"
+      },
+      "artists": [
+        {
+          "name": "Richard Marx",
+          "url": "https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6"
+        }
+      ],
+      "duration_ms": 316040,
+      "name": "Hold On To The Nights",
+      "url": "https://open.spotify.com/track/3F2YXxSOC9dPmxXdrh6mYl"
     },
     {
       "added_at": "2022-03-28 14:29:51",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2020-12-08 17:52:17",
       "album": {
-        "name": "Brothers in Arms",
-        "url": "https://open.spotify.com/album/7jvcSnCnugLcisBCNBm60s"
-      },
-      "artists": [
-        {
-          "name": "Dire Straits",
-          "url": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
-        }
-      ],
-      "duration_ms": 393866,
-      "name": "Your Latest Trick",
-      "url": "https://open.spotify.com/track/4UK1g9Z1lWedkmIQuSyCe5"
-    },
-    {
-      "added_at": "2020-12-08 17:52:17",
-      "album": {
         "name": "Tug Of War",
         "url": "https://open.spotify.com/album/5g5wxDWLoyR1wyPjGTiD7n"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 148853,
       "name": "Here Today - Remixed 2015",
       "url": "https://open.spotify.com/track/0QtnwXDziZN1K55fXuLN6q"
+    },
+    {
+      "added_at": "2020-12-08 17:52:17",
+      "album": {
+        "name": "American Fool",
+        "url": "https://open.spotify.com/album/4gouGcdQn9OvjX42xnWrF0"
+      },
+      "artists": [
+        {
+          "name": "John Mellencamp",
+          "url": "https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH"
+        }
+      ],
+      "duration_ms": 269600,
+      "name": "Danger List",
+      "url": "https://open.spotify.com/track/45Ux5epL4Z3biyzUDDtA9N"
     },
     {
       "added_at": "2020-12-08 17:52:17",
@@ -1575,18 +1575,18 @@
     {
       "added_at": "2020-12-08 17:52:17",
       "album": {
-        "name": "American Fool",
-        "url": "https://open.spotify.com/album/4gouGcdQn9OvjX42xnWrF0"
+        "name": "Brothers in Arms",
+        "url": "https://open.spotify.com/album/7jvcSnCnugLcisBCNBm60s"
       },
       "artists": [
         {
-          "name": "John Mellencamp",
-          "url": "https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH"
+          "name": "Dire Straits",
+          "url": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
         }
       ],
-      "duration_ms": 269600,
-      "name": "Danger List",
-      "url": "https://open.spotify.com/track/45Ux5epL4Z3biyzUDDtA9N"
+      "duration_ms": 393866,
+      "name": "Your Latest Trick",
+      "url": "https://open.spotify.com/track/4UK1g9Z1lWedkmIQuSyCe5"
     },
     {
       "added_at": "2022-01-05 10:29:16",

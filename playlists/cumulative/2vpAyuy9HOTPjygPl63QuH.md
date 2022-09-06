@@ -4,7 +4,7 @@
 
 > The freshest house music, updated every friday\. Submit here: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;houseshift
 
-359 songs - 20 hr 42 min - [published](https://open.spotify.com/playlist/4pdLRyqq23R7zciMXjJDN6)
+361 songs - 20 hr 49 min - [published](https://open.spotify.com/playlist/4pdLRyqq23R7zciMXjJDN6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -255,6 +255,7 @@
 | [Push the Dub](https://open.spotify.com/track/2QmoKMXZmFslYbguqRWfNm) | [Amy Lauren](https://open.spotify.com/artist/0nOcx2Q9TleKLfgje3H9Zz), [Kruel Intentions](https://open.spotify.com/artist/6A7M8CKuuwPIRE7OqkQTl2) | [Push the Dub](https://open.spotify.com/album/4ulGdsQ179t85RYYMYuskd) | 2:53 | 2022-04-28 | 2022-05-14 |
 | [PWR](https://open.spotify.com/track/3WvMhuycIu1eTBK7ECjtju) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz), [Bleu Clair](https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr) | [PWR](https://open.spotify.com/album/0I1DgHpjORnVm4HpDYRvCG) | 2:44 | 2022-05-13 | 2022-05-30 |
 | [Que Lo Que](https://open.spotify.com/track/3tsULujkCT6HRxLqyhv9Uz) | [Twolate](https://open.spotify.com/artist/1IRtNLR91uUQxQzh9veJhh) | [Que Lo Que](https://open.spotify.com/album/7LjzvsJT0ImNudTh8SDaQE) | 3:46 | 2022-07-15 | 2022-07-30 |
+| [Que Te Toca](https://open.spotify.com/track/7a0nmRHMV5OvH9P52LhMaJ) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI), [Maceo El Perro Blanco](https://open.spotify.com/artist/1CUMM7r8Ujvj3J3DCsx0p6), [DJ Buddha](https://open.spotify.com/artist/2m7JzVtYyAwdU0CnET9IvA) | [Que Te Toca](https://open.spotify.com/album/7ua6PisPhTsPnWFZcGKdSd) | 3:56 | 2022-09-05 |  |
 | [Questions](https://open.spotify.com/track/1cgy2FSOQMbq7DHCVgMAUA) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Questions](https://open.spotify.com/album/5HyQdrY2jAKPhK1OqX7yOR) | 2:57 | 2022-06-03 | 2022-06-18 |
 | [Radar](https://open.spotify.com/track/1djoRrseUF5KsdgOQeArmO) | [Lekota](https://open.spotify.com/artist/4DXQ3UFHciEdLjwwJe3gEU) | [Radar](https://open.spotify.com/album/5ur625TMdgqvNQdVYq4DmY) | 3:24 | 2022-04-29 | 2022-05-14 |
 | [Raw \- Tony Romera Extended Mix](https://open.spotify.com/track/0VoT2Cf8VgPLZmLBtQQpJX) | [Julio Navas](https://open.spotify.com/artist/1xTuChuImQkqK7A0aGaZqr), [Gustavo Bravetti](https://open.spotify.com/artist/3COgt6jQqmGpT8vM79C7R9), [David Amo](https://open.spotify.com/artist/6hnD17Gw6ohwryCf3D2AwD), [Tony Romera](https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5) | [Raw \(Tony Romera Remix\)](https://open.spotify.com/album/05RVsgf3zkK6pcTHFmoNkZ) | 5:00 | 2022-08-05 | 2022-09-03 |
@@ -336,6 +337,7 @@
 | [Trouble So Hard \(feat\. MELLY OHH\)](https://open.spotify.com/track/3Y6sP8zjB9vhQ7kViCFBkV) | [Return Of The Jaded](https://open.spotify.com/artist/0eWRTAqa2LtWcunkLFL4sS), [MELLY OHH](https://open.spotify.com/artist/1CQHY4R9T7Fr7qwydWLVUa) | [Trouble So Hard \(feat\. MELLY OHH\)](https://open.spotify.com/album/3XaRcRxRDXPwHm4EMs8R61) | 3:20 | 2022-06-10 | 2022-06-18 |
 | [Tuko Tuko](https://open.spotify.com/track/5YzoHnKF8AF4Ys76VPmpKR) | [Lee Foss](https://open.spotify.com/artist/44T94QQEc60Jf7kqGY6Rip), [Paskman](https://open.spotify.com/artist/70s7RdFqr3UEBlooMGUQdO) | [Tuko Tuko](https://open.spotify.com/album/6W3EQfiO498fLmBgCJNDwB) | 3:37 | 2022-07-01 | 2022-07-10 |
 | [Turnin Up \- Dots Per Inch Remix](https://open.spotify.com/track/7oh2Dl6Xw9EDUv5pE73ZXI) | [NO1NO's](https://open.spotify.com/artist/1OM0Onst0oJOBXvoprqU2l), [Malachi K.P](https://open.spotify.com/artist/1kRpNNgMWgHMF9Nmbtpxsc), [Dots Per Inch](https://open.spotify.com/artist/20BQJA9TcJiWM3AWbMY7wl) | [Turnin Up \- Remix EP, Pt\. 1](https://open.spotify.com/album/6XHUZp2ycvGqCr95CQ6A8i) | 2:49 | 2022-05-29 | 2022-06-04 |
+| [Two Caps](https://open.spotify.com/track/6xBU9ordUqC3tzhE3uKVKl) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB) | [Two Caps](https://open.spotify.com/album/2omx5AxUw6N0G94rgD9fKA) | 3:03 | 2022-09-05 |  |
 | [Two Timer](https://open.spotify.com/track/0xuvnY6PB5Fyw6ccWhguUU) | [SUBB](https://open.spotify.com/artist/0Yjc1aaTwDoJy2KP5xS20r), [NuKey](https://open.spotify.com/artist/2tmve58Sh3f0WZN76W30x3) | [Two Timer](https://open.spotify.com/album/4gFFu7N92kBC35yQIMqQwA) | 2:57 | 2022-06-17 | 2022-06-25 |
 | [U Know It](https://open.spotify.com/track/2exKEOiqq6sEEuJHUpBl4F) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo), [Fantom Freq](https://open.spotify.com/artist/4kwPEoKIm8IwQKOvYjg5OM) | [Bad Decisions](https://open.spotify.com/album/3fTqyh23ImqLSKdBbUkhuM) | 3:39 | 2022-06-03 | 2022-06-11 |
 | [U Want 2 Get](https://open.spotify.com/track/5kaHaMvafqdg3noItmkeEi) | [Poison Ghost](https://open.spotify.com/artist/7cAVkIFcDsKIVHJDDjLOOb) | [U Want 2 Get](https://open.spotify.com/album/0pi1WgO5rsN5Pi8vtWJqN8) | 3:47 | 2022-05-13 | 2022-05-30 |

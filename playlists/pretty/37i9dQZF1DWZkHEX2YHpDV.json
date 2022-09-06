@@ -1,12 +1,12 @@
 {
   "description": "Pop-punk, emo, post-hardcore, alternative - it's whatever you want it to be. Cover: nothing, nowhere",
-  "num_followers": 437009,
+  "num_followers": 437023,
   "original_name": "The Scene",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQ4NjQ2MCwwMDAwMDAwMDA3OTIxZmE2OTBmOTdmY2IwOTY4ZDk5MDBlNmQ2ZDM0",
+  "snapshot_id": "MTY2MTQ4NjQ2MCwwMDAwMDAwMGQ3MTJmYjc4MzA4YzA4ODVkZGM5MmYxMDc2MTQ4MGMw",
   "tracks": [
     {
       "added_at": "2022-08-26 04:01:00",
@@ -603,6 +603,22 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
+        "name": "Paralyzed",
+        "url": "https://open.spotify.com/album/6QBRBHphSZ5CE6KYzCDdI9"
+      },
+      "artists": [
+        {
+          "name": "Sueco",
+          "url": "https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD"
+        }
+      ],
+      "duration_ms": 163260,
+      "name": "Paralyzed",
+      "url": "https://open.spotify.com/track/5svL1PkWw8hPEAOdTNLexy"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
         "name": "Memories (with WILLOW)",
         "url": "https://open.spotify.com/album/0OJD74cS6Isaf2iAdkGSOd"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 155919,
       "name": "Memories (with WILLOW)",
       "url": "https://open.spotify.com/track/3LcMLFApeU9uCT8VCWEVjr"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
-        "name": "Paralyzed",
-        "url": "https://open.spotify.com/album/6QBRBHphSZ5CE6KYzCDdI9"
-      },
-      "artists": [
-        {
-          "name": "Sueco",
-          "url": "https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD"
-        }
-      ],
-      "duration_ms": 163260,
-      "name": "Paralyzed",
-      "url": "https://open.spotify.com/track/5svL1PkWw8hPEAOdTNLexy"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -675,6 +675,22 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
+        "name": "mainstream sellout",
+        "url": "https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc"
+      },
+      "artists": [
+        {
+          "name": "Machine Gun Kelly",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        }
+      ],
+      "duration_ms": 174848,
+      "name": "5150",
+      "url": "https://open.spotify.com/track/14UzhtAQyCRGsuSjInmiJi"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
         "name": "hover like a GODDESS",
         "url": "https://open.spotify.com/album/4arIDrVDtHLb3qVOY35Qvf"
       },
@@ -691,18 +707,18 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "mainstream sellout",
-        "url": "https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc"
+        "name": "The Emperor",
+        "url": "https://open.spotify.com/album/48QqIBzNdsmVimYeINIAxt"
       },
       "artists": [
         {
-          "name": "Machine Gun Kelly",
-          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
         }
       ],
-      "duration_ms": 174848,
-      "name": "5150",
-      "url": "https://open.spotify.com/track/14UzhtAQyCRGsuSjInmiJi"
+      "duration_ms": 175150,
+      "name": "The Emperor",
+      "url": "https://open.spotify.com/track/1Gkfh1jNNFJPh3vcCSGi3J"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -727,38 +743,6 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "FLY",
-        "url": "https://open.spotify.com/album/3g9oDW0i1jxqlJByNSFxtp"
-      },
-      "artists": [
-        {
-          "name": "DREAMERS",
-          "url": "https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A"
-        }
-      ],
-      "duration_ms": 188081,
-      "name": "Misfits T-Shirt",
-      "url": "https://open.spotify.com/track/2ZkWAGwx0UDKQSD9lmNecF"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
-        "name": "The Emperor",
-        "url": "https://open.spotify.com/album/48QqIBzNdsmVimYeINIAxt"
-      },
-      "artists": [
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
-        }
-      ],
-      "duration_ms": 175150,
-      "name": "The Emperor",
-      "url": "https://open.spotify.com/track/1Gkfh1jNNFJPh3vcCSGi3J"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
         "name": "Dangerous State of Mind",
         "url": "https://open.spotify.com/album/5dDbh3KtUuXAGq77CeFYGD"
       },
@@ -775,18 +759,18 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "you broke me first",
-        "url": "https://open.spotify.com/album/2uMR5jsZgtfsIvAAyG8bDf"
+        "name": "FLY",
+        "url": "https://open.spotify.com/album/3g9oDW0i1jxqlJByNSFxtp"
       },
       "artists": [
         {
-          "name": "Our Last Night",
-          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
+          "name": "DREAMERS",
+          "url": "https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A"
         }
       ],
-      "duration_ms": 168145,
-      "name": "you broke me first",
-      "url": "https://open.spotify.com/track/7gAfY8Y5aBrsAfNaejxXMY"
+      "duration_ms": 188081,
+      "name": "Misfits T-Shirt",
+      "url": "https://open.spotify.com/track/2ZkWAGwx0UDKQSD9lmNecF"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -819,6 +803,22 @@
       "duration_ms": 202656,
       "name": "No Love In LA",
       "url": "https://open.spotify.com/track/3umZJ14AG4lctE7Dj7xEVn"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
+        "name": "you broke me first",
+        "url": "https://open.spotify.com/album/2uMR5jsZgtfsIvAAyG8bDf"
+      },
+      "artists": [
+        {
+          "name": "Our Last Night",
+          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
+        }
+      ],
+      "duration_ms": 168145,
+      "name": "you broke me first",
+      "url": "https://open.spotify.com/track/7gAfY8Y5aBrsAfNaejxXMY"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -871,22 +871,22 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "Brand New Vision",
-        "url": "https://open.spotify.com/album/33c3LDySpfYMOEwfu1eUU1"
+        "name": "PMA (feat. Pale Waves)",
+        "url": "https://open.spotify.com/album/2Q6u1VzybZKzXfPMPQkyuz"
       },
       "artists": [
         {
-          "name": "Point North",
-          "url": "https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r"
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
         },
         {
-          "name": "Kellin Quinn",
-          "url": "https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2"
+          "name": "Pale Waves",
+          "url": "https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA"
         }
       ],
-      "duration_ms": 198000,
-      "name": "Into The Dark (feat. Kellin Quinn)",
-      "url": "https://open.spotify.com/track/7qCzenL7S1onPt6QdRsDsd"
+      "duration_ms": 191757,
+      "name": "PMA (feat. Pale Waves)",
+      "url": "https://open.spotify.com/track/52BHuLFKoBemaQ1oOPFhFZ"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -911,22 +911,22 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "PMA (feat. Pale Waves)",
-        "url": "https://open.spotify.com/album/2Q6u1VzybZKzXfPMPQkyuz"
+        "name": "Brand New Vision",
+        "url": "https://open.spotify.com/album/33c3LDySpfYMOEwfu1eUU1"
       },
       "artists": [
         {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+          "name": "Point North",
+          "url": "https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r"
         },
         {
-          "name": "Pale Waves",
-          "url": "https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA"
+          "name": "Kellin Quinn",
+          "url": "https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2"
         }
       ],
-      "duration_ms": 191757,
-      "name": "PMA (feat. Pale Waves)",
-      "url": "https://open.spotify.com/track/52BHuLFKoBemaQ1oOPFhFZ"
+      "duration_ms": 198000,
+      "name": "Into The Dark (feat. Kellin Quinn)",
+      "url": "https://open.spotify.com/track/7qCzenL7S1onPt6QdRsDsd"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -979,22 +979,6 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "Erase You",
-        "url": "https://open.spotify.com/album/1rO6JlIBPhEnyY9fdO7BsI"
-      },
-      "artists": [
-        {
-          "name": "Point North",
-          "url": "https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "Erase You",
-      "url": "https://open.spotify.com/track/3PXPKC81NbQc9Eaig0vLZO"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
         "name": "MY FAVORITE NIGHTMARES",
         "url": "https://open.spotify.com/album/5YwWOzaV6HGAUylT1MvoJZ"
       },
@@ -1015,22 +999,6 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "Benchwarmer",
-        "url": "https://open.spotify.com/album/2rdvIq3fjQ2b286ufFTGcV"
-      },
-      "artists": [
-        {
-          "name": "Shallowdiver",
-          "url": "https://open.spotify.com/artist/1nNb90iGRqEXUzloJlJZ7z"
-        }
-      ],
-      "duration_ms": 189116,
-      "name": "Benchwarmer",
-      "url": "https://open.spotify.com/track/4GrymHcT6DkUsbH5CoUmos"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
         "name": "acting like that (feat. Machine Gun Kelly)",
         "url": "https://open.spotify.com/album/3RjX0PnYherdDTp2MWq0G1"
       },
@@ -1047,6 +1015,22 @@
       "duration_ms": 191066,
       "name": "acting like that (feat. Machine Gun Kelly)",
       "url": "https://open.spotify.com/track/6PxNpy8jOjyZ8aGCD58LpW"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
+        "name": "Benchwarmer",
+        "url": "https://open.spotify.com/album/2rdvIq3fjQ2b286ufFTGcV"
+      },
+      "artists": [
+        {
+          "name": "Shallowdiver",
+          "url": "https://open.spotify.com/artist/1nNb90iGRqEXUzloJlJZ7z"
+        }
+      ],
+      "duration_ms": 189116,
+      "name": "Benchwarmer",
+      "url": "https://open.spotify.com/track/4GrymHcT6DkUsbH5CoUmos"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -1083,18 +1067,18 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "STFU",
-        "url": "https://open.spotify.com/album/0NYz1EimESo3xgx3KMkknf"
+        "name": "Erase You",
+        "url": "https://open.spotify.com/album/1rO6JlIBPhEnyY9fdO7BsI"
       },
       "artists": [
         {
-          "name": "Neck Deep",
-          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
+          "name": "Point North",
+          "url": "https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r"
         }
       ],
-      "duration_ms": 172480,
-      "name": "STFU",
-      "url": "https://open.spotify.com/track/3kUOyI09uhyv2hqKgj2o39"
+      "duration_ms": 178000,
+      "name": "Erase You",
+      "url": "https://open.spotify.com/track/3PXPKC81NbQc9Eaig0vLZO"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -1115,6 +1099,22 @@
       "duration_ms": 169336,
       "name": "Sober/Hungover (feat. Arizona Zervas)",
       "url": "https://open.spotify.com/track/4yfQyGR61s7Mc5898V1BE6"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
+        "name": "STFU",
+        "url": "https://open.spotify.com/album/0NYz1EimESo3xgx3KMkknf"
+      },
+      "artists": [
+        {
+          "name": "Neck Deep",
+          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
+        }
+      ],
+      "duration_ms": 172480,
+      "name": "STFU",
+      "url": "https://open.spotify.com/track/3kUOyI09uhyv2hqKgj2o39"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -1171,26 +1171,6 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "Earthquake (feat. jxdn)",
-        "url": "https://open.spotify.com/album/1AJCMgQmWGjHZTGS38BgUW"
-      },
-      "artists": [
-        {
-          "name": "Jasiah",
-          "url": "https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0"
-        },
-        {
-          "name": "jxdn",
-          "url": "https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF"
-        }
-      ],
-      "duration_ms": 177637,
-      "name": "Earthquake (feat. jxdn)",
-      "url": "https://open.spotify.com/track/4QD5tfexKVwATpESYSc7qM"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
         "name": "u turn me on (but u give me depression)",
         "url": "https://open.spotify.com/album/7tAEvWFVlVMoPWwyVcwKx8"
       },
@@ -1207,18 +1187,22 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "All Distortions Are Intentional",
-        "url": "https://open.spotify.com/album/3fM2J0ilTBGwnzcN3SqUcG"
+        "name": "Earthquake (feat. jxdn)",
+        "url": "https://open.spotify.com/album/1AJCMgQmWGjHZTGS38BgUW"
       },
       "artists": [
         {
-          "name": "Neck Deep",
-          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
+          "name": "Jasiah",
+          "url": "https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0"
+        },
+        {
+          "name": "jxdn",
+          "url": "https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF"
         }
       ],
-      "duration_ms": 189101,
-      "name": "When You Know",
-      "url": "https://open.spotify.com/track/3DaSurzbFuzWE45tQm1TO5"
+      "duration_ms": 177637,
+      "name": "Earthquake (feat. jxdn)",
+      "url": "https://open.spotify.com/track/4QD5tfexKVwATpESYSc7qM"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -1283,6 +1267,38 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
+        "name": "Foxglove",
+        "url": "https://open.spotify.com/album/0l684ODdBRRFtnBrNn6wSd"
+      },
+      "artists": [
+        {
+          "name": "Boston Manor",
+          "url": "https://open.spotify.com/artist/4WjeQi9wm84lYTIWZ95QoM"
+        }
+      ],
+      "duration_ms": 218552,
+      "name": "Foxglove",
+      "url": "https://open.spotify.com/track/3kpW19uTVTQF9EYJ9jhIOG"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
+        "name": "All Distortions Are Intentional",
+        "url": "https://open.spotify.com/album/3fM2J0ilTBGwnzcN3SqUcG"
+      },
+      "artists": [
+        {
+          "name": "Neck Deep",
+          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
+        }
+      ],
+      "duration_ms": 189101,
+      "name": "When You Know",
+      "url": "https://open.spotify.com/track/3DaSurzbFuzWE45tQm1TO5"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
         "name": "Plastic Heart",
         "url": "https://open.spotify.com/album/0wJAzRXw1ONSItyFVwMgH3"
       },
@@ -1331,22 +1347,6 @@
       "duration_ms": 166779,
       "name": "Wildfire",
       "url": "https://open.spotify.com/track/2yHmIxXi48DFl6zQlIhEaj"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
-        "name": "Foxglove",
-        "url": "https://open.spotify.com/album/0l684ODdBRRFtnBrNn6wSd"
-      },
-      "artists": [
-        {
-          "name": "Boston Manor",
-          "url": "https://open.spotify.com/artist/4WjeQi9wm84lYTIWZ95QoM"
-        }
-      ],
-      "duration_ms": 218552,
-      "name": "Foxglove",
-      "url": "https://open.spotify.com/track/3kpW19uTVTQF9EYJ9jhIOG"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -1527,6 +1527,22 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
+        "name": "Harder Than It Looks",
+        "url": "https://open.spotify.com/album/0NgcYDpxXtgTADvZdVTLtP"
+      },
+      "artists": [
+        {
+          "name": "Simple Plan",
+          "url": "https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ"
+        }
+      ],
+      "duration_ms": 195898,
+      "name": "The Antidote",
+      "url": "https://open.spotify.com/track/79Cr40AJWWnmUNTxyi2nhp"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
         "name": "BURNOUT",
         "url": "https://open.spotify.com/album/1oUXmEhwbTJ4InsEjZADla"
       },
@@ -1551,22 +1567,6 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "Perfectly Imperfect",
-        "url": "https://open.spotify.com/album/0mXpWAdx70cPnVJIkEDDsx"
-      },
-      "artists": [
-        {
-          "name": "MOD SUN",
-          "url": "https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG"
-        }
-      ],
-      "duration_ms": 144478,
-      "name": "Perfectly Imperfect",
-      "url": "https://open.spotify.com/track/3dWy0VondkohX7GE6aOI3c"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
         "name": "Teenage Heartbreak",
         "url": "https://open.spotify.com/album/6J3MyFpk3rKOlthkLrW7q9"
       },
@@ -1583,18 +1583,18 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "Harder Than It Looks",
-        "url": "https://open.spotify.com/album/0NgcYDpxXtgTADvZdVTLtP"
+        "name": "Perfectly Imperfect",
+        "url": "https://open.spotify.com/album/0mXpWAdx70cPnVJIkEDDsx"
       },
       "artists": [
         {
-          "name": "Simple Plan",
-          "url": "https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ"
+          "name": "MOD SUN",
+          "url": "https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG"
         }
       ],
-      "duration_ms": 195898,
-      "name": "The Antidote",
-      "url": "https://open.spotify.com/track/79Cr40AJWWnmUNTxyi2nhp"
+      "duration_ms": 144478,
+      "name": "Perfectly Imperfect",
+      "url": "https://open.spotify.com/track/3dWy0VondkohX7GE6aOI3c"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -1699,6 +1699,26 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
+        "name": "GOOD MOOD (feat. grandson)",
+        "url": "https://open.spotify.com/album/5zIeHlDj7AcQzKaTF2x1Ty"
+      },
+      "artists": [
+        {
+          "name": "DE'WAYNE",
+          "url": "https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O"
+        },
+        {
+          "name": "grandson",
+          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
+        }
+      ],
+      "duration_ms": 154680,
+      "name": "GOOD MOOD (feat. grandson)",
+      "url": "https://open.spotify.com/track/3XYmIJugK3ad2gBVBFXyjW"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
         "name": "Down (feat. Travis Barker)",
         "url": "https://open.spotify.com/album/6xDFoGf8jzDuFTPwQIOlyK"
       },
@@ -1739,22 +1759,18 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "GOOD MOOD (feat. grandson)",
-        "url": "https://open.spotify.com/album/5zIeHlDj7AcQzKaTF2x1Ty"
+        "name": "One Night",
+        "url": "https://open.spotify.com/album/4HtlSIrrw2tvdaBEjYwLFt"
       },
       "artists": [
         {
-          "name": "DE'WAYNE",
-          "url": "https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O"
-        },
-        {
-          "name": "grandson",
-          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
+          "name": "Jeris Johnson",
+          "url": "https://open.spotify.com/artist/2hmePXeTr2b7cdRAtRjvPq"
         }
       ],
-      "duration_ms": 154680,
-      "name": "GOOD MOOD (feat. grandson)",
-      "url": "https://open.spotify.com/track/3XYmIJugK3ad2gBVBFXyjW"
+      "duration_ms": 163492,
+      "name": "One Night",
+      "url": "https://open.spotify.com/track/1XvUJqINdj0IiYyvodOBsR"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -1771,22 +1787,6 @@
       "duration_ms": 178560,
       "name": "IDGAF",
       "url": "https://open.spotify.com/track/0CC1Ozv6aXadGKlKPHVEzv"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
-        "name": "Chemical Warfare",
-        "url": "https://open.spotify.com/album/7Jj4PREXmX0x6Jc0riWbca"
-      },
-      "artists": [
-        {
-          "name": "Escape the Fate",
-          "url": "https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum"
-        }
-      ],
-      "duration_ms": 166858,
-      "name": "Lightning Strike",
-      "url": "https://open.spotify.com/track/2g8vCXagoE2nrPw2aFwcAb"
     }
   ],
   "unique_name": "The Scene",

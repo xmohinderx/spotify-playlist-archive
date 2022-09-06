@@ -1156,6 +1156,24 @@
     },
     {
       "album": {
+        "name": "Windows of My House (Pastimes Vol. III)",
+        "url": "https://open.spotify.com/album/5ZULctCGzLPmsTUFXtwC4T"
+      },
+      "artists": [
+        {
+          "name": "Baseball Gregg",
+          "url": "https://open.spotify.com/artist/7MXsu694gc1X8K6s7XPmw4"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122595,
+      "name": "Holobiont",
+      "url": "https://open.spotify.com/track/06ZetzKuRbym6iYX0uPcKI"
+    },
+    {
+      "album": {
         "name": "REBEL",
         "url": "https://open.spotify.com/album/0WRHoyqLqALdZ8te1QL20V"
       },
@@ -2567,7 +2585,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-06",
       "duration_ms": 240641,
       "name": "Ubi maior minor cessat",
       "url": "https://open.spotify.com/track/5yTZP8kf3715F8pyenn4WP"

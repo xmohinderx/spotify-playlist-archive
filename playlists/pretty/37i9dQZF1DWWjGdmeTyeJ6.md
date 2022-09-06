@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The best new music by independent artists and labels\. Updates every Wednesday\. Cover: Mau P, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,104,815 likes - 66 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,104,701 likes - 66 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 45 | [Eclipse](https://open.spotify.com/track/1Hx2nUUnTyk5ewgKZt1lSI) | [Prima Queen](https://open.spotify.com/artist/52fhNGn51RhUvjlapHT5T2) | [Eclipse](https://open.spotify.com/album/6B0pRDdQ8Udrosv4NMscW3) | 4:07 |
 | 46 | [Nobody](https://open.spotify.com/track/1o1lBLuGOiICwhuchBOTw3) | [Kyara Shereen](https://open.spotify.com/artist/2xtnBW8NATpAS0zySpH23Q), [This is Lema](https://open.spotify.com/artist/6xukNNXDc47oIMHVZR5SQv) | [Nobody](https://open.spotify.com/album/560DtfvfsPvwhpL6pOHnuJ) | 3:42 |
 | 47 | [Grandioso](https://open.spotify.com/track/2ySyU2SDYvKjqaMrH1k811) | [Lex Leosis](https://open.spotify.com/artist/3l5iTPvfsSfyeaurhaAeh6), [Lex Bratcher](https://open.spotify.com/artist/72bCjI953sBXUcEccj0SWf), [Alexander Lewis](https://open.spotify.com/artist/1XwAo9UCt90soyw5V7U6LV), [Oh Gosh Leotus](https://open.spotify.com/artist/1GEBdfQyXajMWBIo61Xl1i) | [Grandioso](https://open.spotify.com/album/0vA4p2nltvbBua4Wk4y6Mu) | 2:50 |
-| 48 | [Felt Before](https://open.spotify.com/track/77MTRt1T7hxICgKpxpXsTd) | [Duava](https://open.spotify.com/artist/0F88EwGyoS0Mi3VftQjyEj) | [Bahu](https://open.spotify.com/album/6qwGQgm99tnKU2tJ7qEB4y) | 2:27 |
+| 48 | [Felt Before](https://open.spotify.com/track/77MTRt1T7hxICgKpxpXsTd) | [Duava](https://open.spotify.com/artist/0F88EwGyoS0Mi3VftQjyEj), [Victor Dysayon](https://open.spotify.com/artist/7juH6y1N1CM4CThwQPTJba) | [Bahu](https://open.spotify.com/album/6qwGQgm99tnKU2tJ7qEB4y) | 2:27 |
 | 49 | [Deadbeat](https://open.spotify.com/track/4JmPHMcCQqZgOXKjaXPqEB) | [NUFFER](https://open.spotify.com/artist/25uIU6P4xaUb7jPwTzzjBQ) | [A\-OK](https://open.spotify.com/album/4MnvciVp8JQyW3JQppt0YI) | 3:33 |
 | 50 | [RIDE AGAIN](https://open.spotify.com/track/1YBog97HhrN6MQwjOtnumm) | [Jasper Typical](https://open.spotify.com/artist/4oQrSS2785P3mio5SuOO31), [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86), [Blonder](https://open.spotify.com/artist/0AhjcWvgOYE0lPpuTMh1i9) | [RIDE AGAIN](https://open.spotify.com/album/2MEURiKTOVcXpewQihj7Y0) | 3:13 |
 | 51 | [Lock&Key](https://open.spotify.com/track/7xpdg8CYqEj9khHJECllMm) | [Lolahol](https://open.spotify.com/artist/1qw9DrknRpBITBeyhmeDSn) | [Lock&Key](https://open.spotify.com/album/1lN9DhBjJz4CBLa2vRT3jo) | 2:57 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 
 > Unearthing your new favourite artists\. Cover: TIMUR\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,488 likes - 89 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,490 likes - 89 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "When you want to be alone and the Blues is your soundtrack.\n",
-  "num_followers": 24733,
+  "num_followers": 24772,
   "original_name": "Just Me and the Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDkzMDU3MSwwMDAwMDAwMDcxZDYzNjQzZmZhOGZlOWEwOTM4NjA2ZGFlZGJmNDU4",
+  "snapshot_id": "MTY2MDkzMDU3MSwwMDAwMDAwMDZjNjE5NGJjNjRiZDFlZjNmOTYyMmE4MWJlZDJjZDE1",
   "tracks": [
     {
       "added_at": "2022-08-19 17:36:11",
@@ -139,22 +139,6 @@
     {
       "added_at": "2022-08-19 17:36:11",
       "album": {
-        "name": "At Last!",
-        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
-      },
-      "artists": [
-        {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
-        }
-      ],
-      "duration_ms": 180666,
-      "name": "My Dearest Darling",
-      "url": "https://open.spotify.com/track/5jcNL4DreI4z4XnTfsx9SQ"
-    },
-    {
-      "added_at": "2022-08-19 17:36:11",
-      "album": {
         "name": "True To Yourself",
         "url": "https://open.spotify.com/album/6djxMkLPDJdk3N1bIExPNV"
       },
@@ -191,6 +175,38 @@
     {
       "added_at": "2022-08-19 17:36:11",
       "album": {
+        "name": "At Last!",
+        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
+      },
+      "artists": [
+        {
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+        }
+      ],
+      "duration_ms": 180666,
+      "name": "My Dearest Darling",
+      "url": "https://open.spotify.com/track/5jcNL4DreI4z4XnTfsx9SQ"
+    },
+    {
+      "added_at": "2022-08-19 17:36:11",
+      "album": {
+        "name": "The Blues",
+        "url": "https://open.spotify.com/album/4s4kPtglWZbhLhVQfl9b2x"
+      },
+      "artists": [
+        {
+          "name": "Henrik Freischlader",
+          "url": "https://open.spotify.com/artist/2RQuyY0nQqKOtzhBhghSGu"
+        }
+      ],
+      "duration_ms": 502973,
+      "name": "Lonely World",
+      "url": "https://open.spotify.com/track/1Y90U5DmBkF6QAlxGySKse"
+    },
+    {
+      "added_at": "2022-08-19 17:36:11",
+      "album": {
         "name": "You Can't Lose What You Ain't Never Had",
         "url": "https://open.spotify.com/album/3Jqjl8E2mtMf0IlrxuriRQ"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 433360,
       "name": "How Unlucky Can One Man Be",
       "url": "https://open.spotify.com/track/5MULjaj5Xzjd2pyvUK8rRM"
-    },
-    {
-      "added_at": "2022-08-19 17:36:11",
-      "album": {
-        "name": "The Blues",
-        "url": "https://open.spotify.com/album/4s4kPtglWZbhLhVQfl9b2x"
-      },
-      "artists": [
-        {
-          "name": "Henrik Freischlader",
-          "url": "https://open.spotify.com/artist/2RQuyY0nQqKOtzhBhghSGu"
-        }
-      ],
-      "duration_ms": 502973,
-      "name": "Lonely World",
-      "url": "https://open.spotify.com/track/1Y90U5DmBkF6QAlxGySKse"
     },
     {
       "added_at": "2022-08-19 17:36:11",
@@ -331,22 +331,6 @@
     {
       "added_at": "2022-08-19 17:36:11",
       "album": {
-        "name": "Arms of a Lover",
-        "url": "https://open.spotify.com/album/2KELaV63XzaF0MJ2FeIjVK"
-      },
-      "artists": [
-        {
-          "name": "Sam Burchfield",
-          "url": "https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5"
-        }
-      ],
-      "duration_ms": 277733,
-      "name": "Bonnie",
-      "url": "https://open.spotify.com/track/5q49F0QAhWWnIDhNOyAhfV"
-    },
-    {
-      "added_at": "2022-08-19 17:36:11",
-      "album": {
         "name": "Been Gone Too Long",
         "url": "https://open.spotify.com/album/57lHz8bXu1A72WHOLbl4DO"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 255946,
       "name": "One More Night",
       "url": "https://open.spotify.com/track/7GB39p4IhgmHf8z0GZtACB"
+    },
+    {
+      "added_at": "2022-08-19 17:36:11",
+      "album": {
+        "name": "Arms of a Lover",
+        "url": "https://open.spotify.com/album/2KELaV63XzaF0MJ2FeIjVK"
+      },
+      "artists": [
+        {
+          "name": "Sam Burchfield",
+          "url": "https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5"
+        }
+      ],
+      "duration_ms": 277733,
+      "name": "Bonnie",
+      "url": "https://open.spotify.com/track/5q49F0QAhWWnIDhNOyAhfV"
     },
     {
       "added_at": "2022-08-19 17:36:11",

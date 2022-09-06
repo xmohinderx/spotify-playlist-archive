@@ -1,12 +1,12 @@
 {
   "description": "Bailando de caballito, aunque se enoje tu mam\u00e1. Mi Banda El Mexicano en portada.",
-  "num_followers": 153074,
+  "num_followers": 153183,
   "original_name": "Quebradita",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTg4OTQwNSwwMDAwMDAwMDQ1MTM0YjExN2ZjZjA0NzM2ZDliYmU4OWE5MzFlNTU1",
+  "snapshot_id": "MTY0OTg4OTQwNSwwMDAwMDAwMDkwYzFhN2ZiMTBmNjY2MDZkOTM0M2E3MGE0NzA4NWMx",
   "tracks": [
     {
       "added_at": "2022-04-13 22:36:45",
@@ -139,22 +139,6 @@
     {
       "added_at": "2022-04-13 22:36:45",
       "album": {
-        "name": "Mi Mexico Querido",
-        "url": "https://open.spotify.com/album/74CA8KMf2pVVGl7FBxexQ1"
-      },
-      "artists": [
-        {
-          "name": "Mi Banda El Mexicano",
-          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
-        }
-      ],
-      "duration_ms": 217521,
-      "name": "Feliz Feliz",
-      "url": "https://open.spotify.com/track/0JZV1UuBsbSwHhGirgWaXI"
-    },
-    {
-      "added_at": "2022-04-13 22:36:45",
-      "album": {
         "name": "25 Bandazos de Peque\u00f1os Musical (Vol. 1) [USA]",
         "url": "https://open.spotify.com/album/7g3IdcuzbSoWHVKWfKIY2x"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 174106,
       "name": "La nena",
       "url": "https://open.spotify.com/track/5OwFcVt4icprLmc5bO9ruK"
+    },
+    {
+      "added_at": "2022-04-13 22:36:45",
+      "album": {
+        "name": "Mi Mexico Querido",
+        "url": "https://open.spotify.com/album/74CA8KMf2pVVGl7FBxexQ1"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "duration_ms": 217521,
+      "name": "Feliz Feliz",
+      "url": "https://open.spotify.com/track/0JZV1UuBsbSwHhGirgWaXI"
     },
     {
       "added_at": "2022-04-13 22:36:45",
@@ -203,34 +203,18 @@
     {
       "added_at": "2022-04-13 22:36:45",
       "album": {
-        "name": "Medias Negras",
-        "url": "https://open.spotify.com/album/2H4kDjp9o09GAy3BYh61dr"
+        "name": "Esa Chica Me Vacila",
+        "url": "https://open.spotify.com/album/216Vvwkcgb3OR27a8Gwt7Q"
       },
       "artists": [
         {
-          "name": "Banda Rafaga",
-          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
         }
       ],
-      "duration_ms": 183133,
-      "name": "La Danza Del Coyote",
-      "url": "https://open.spotify.com/track/2mIy6LxmVeUS0WKSclC81G"
-    },
-    {
-      "added_at": "2022-04-13 22:36:45",
-      "album": {
-        "name": "A Bailar... De Caballito!!",
-        "url": "https://open.spotify.com/album/5gsxJpgVURs0VKVoJbULL5"
-      },
-      "artists": [
-        {
-          "name": "Mi Banda El Mexicano",
-          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
-        }
-      ],
-      "duration_ms": 241870,
-      "name": "No Bailes De Caballito",
-      "url": "https://open.spotify.com/track/28If7KaffAjwCsKfQDmScA"
+      "duration_ms": 215947,
+      "name": "Esa Chica Me Vacila",
+      "url": "https://open.spotify.com/track/3B4DGPWuk7VeEFj6IFlC24"
     },
     {
       "added_at": "2022-04-13 22:36:45",
@@ -251,18 +235,18 @@
     {
       "added_at": "2022-04-13 22:36:45",
       "album": {
-        "name": "Esa Chica Me Vacila",
-        "url": "https://open.spotify.com/album/216Vvwkcgb3OR27a8Gwt7Q"
+        "name": "Medias Negras",
+        "url": "https://open.spotify.com/album/2H4kDjp9o09GAy3BYh61dr"
       },
       "artists": [
         {
-          "name": "Banda Vallarta Show",
-          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
         }
       ],
-      "duration_ms": 215947,
-      "name": "Esa Chica Me Vacila",
-      "url": "https://open.spotify.com/track/3B4DGPWuk7VeEFj6IFlC24"
+      "duration_ms": 183133,
+      "name": "La Danza Del Coyote",
+      "url": "https://open.spotify.com/track/2mIy6LxmVeUS0WKSclC81G"
     },
     {
       "added_at": "2022-04-13 22:36:45",
@@ -299,6 +283,22 @@
     {
       "added_at": "2022-04-13 22:36:45",
       "album": {
+        "name": "A Bailar... De Caballito!!",
+        "url": "https://open.spotify.com/album/5gsxJpgVURs0VKVoJbULL5"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "duration_ms": 241870,
+      "name": "No Bailes De Caballito",
+      "url": "https://open.spotify.com/track/28If7KaffAjwCsKfQDmScA"
+    },
+    {
+      "added_at": "2022-04-13 22:36:45",
+      "album": {
         "name": "15 Grandes Exitos",
         "url": "https://open.spotify.com/album/1f0ASfbeUcjB2vEI8PNyuC"
       },
@@ -327,6 +327,22 @@
       "duration_ms": 166823,
       "name": "Anda Borracho El Buey",
       "url": "https://open.spotify.com/track/4fCBHIPstTkPivVYoPMZ5d"
+    },
+    {
+      "added_at": "2022-04-13 22:36:45",
+      "album": {
+        "name": "Fiesta Mexicana Con La Banda",
+        "url": "https://open.spotify.com/album/6X49e9OtUqhMVIpre31k8K"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "duration_ms": 153520,
+      "name": "El alacr\u00e1n",
+      "url": "https://open.spotify.com/track/0CAVx6y8GAgMDzX9NCW0DI"
     },
     {
       "added_at": "2022-04-13 22:36:45",
@@ -363,38 +379,6 @@
     {
       "added_at": "2022-04-13 22:36:45",
       "album": {
-        "name": "A Bailar... De Caballito!!",
-        "url": "https://open.spotify.com/album/5gsxJpgVURs0VKVoJbULL5"
-      },
-      "artists": [
-        {
-          "name": "Mi Banda El Mexicano",
-          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
-        }
-      ],
-      "duration_ms": 214987,
-      "name": "Mambo Lupita",
-      "url": "https://open.spotify.com/track/5WXizCxqmrlovOExcVmaFE"
-    },
-    {
-      "added_at": "2022-04-13 22:36:45",
-      "album": {
-        "name": "Fiesta Mexicana Con La Banda",
-        "url": "https://open.spotify.com/album/6X49e9OtUqhMVIpre31k8K"
-      },
-      "artists": [
-        {
-          "name": "Banda Maguey",
-          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
-        }
-      ],
-      "duration_ms": 153520,
-      "name": "El alacr\u00e1n",
-      "url": "https://open.spotify.com/track/0CAVx6y8GAgMDzX9NCW0DI"
-    },
-    {
-      "added_at": "2022-04-13 22:36:45",
-      "album": {
         "name": "El Baile de la Cachucha",
         "url": "https://open.spotify.com/album/5BWPqyh4hndM0qUl6huZKl"
       },
@@ -427,22 +411,6 @@
     {
       "added_at": "2022-04-13 22:36:45",
       "album": {
-        "name": "Infierno y Gloria",
-        "url": "https://open.spotify.com/album/6aKMQkJLlw0IskUHAPCQmJ"
-      },
-      "artists": [
-        {
-          "name": "Banda Pachuco",
-          "url": "https://open.spotify.com/artist/70IN0LkJ8uOb9MxQ7Tatzb"
-        }
-      ],
-      "duration_ms": 133120,
-      "name": "El Camaron Pelao",
-      "url": "https://open.spotify.com/track/3a9zDfvyuEDTjFl89AvdMc"
-    },
-    {
-      "added_at": "2022-04-13 22:36:45",
-      "album": {
         "name": "A Bailar Quebradita Y De Caballito",
         "url": "https://open.spotify.com/album/0aAEJ91XDFx3MpfVZcE9Ie"
       },
@@ -459,24 +427,8 @@
     {
       "added_at": "2022-04-13 22:36:45",
       "album": {
-        "name": "25 Bandazos de Machos (Vol. 1) [USA]",
-        "url": "https://open.spotify.com/album/641IjGwd385qV3RVouieUv"
-      },
-      "artists": [
-        {
-          "name": "Banda Machos",
-          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
-        }
-      ],
-      "duration_ms": 162400,
-      "name": "Al gato y al rat\u00f3n",
-      "url": "https://open.spotify.com/track/65sJkvRkCMid2JRJIVHLdJ"
-    },
-    {
-      "added_at": "2022-04-13 22:36:45",
-      "album": {
-        "name": "Mi Mexico Querido",
-        "url": "https://open.spotify.com/album/74CA8KMf2pVVGl7FBxexQ1"
+        "name": "A Bailar... De Caballito!!",
+        "url": "https://open.spotify.com/album/5gsxJpgVURs0VKVoJbULL5"
       },
       "artists": [
         {
@@ -484,9 +436,25 @@
           "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
         }
       ],
-      "duration_ms": 208352,
-      "name": "La Bota",
-      "url": "https://open.spotify.com/track/5s3IWiEUyNocPtapPxqlPd"
+      "duration_ms": 214987,
+      "name": "Mambo Lupita",
+      "url": "https://open.spotify.com/track/5WXizCxqmrlovOExcVmaFE"
+    },
+    {
+      "added_at": "2022-04-13 22:36:45",
+      "album": {
+        "name": "Infierno y Gloria",
+        "url": "https://open.spotify.com/album/6aKMQkJLlw0IskUHAPCQmJ"
+      },
+      "artists": [
+        {
+          "name": "Banda Pachuco",
+          "url": "https://open.spotify.com/artist/70IN0LkJ8uOb9MxQ7Tatzb"
+        }
+      ],
+      "duration_ms": 133120,
+      "name": "El Camaron Pelao",
+      "url": "https://open.spotify.com/track/3a9zDfvyuEDTjFl89AvdMc"
     },
     {
       "added_at": "2022-04-13 22:36:45",
@@ -519,6 +487,22 @@
       "duration_ms": 173560,
       "name": "El Baile Nuevo",
       "url": "https://open.spotify.com/track/5YHH72zZA62ZsqBMLQMa2l"
+    },
+    {
+      "added_at": "2022-04-13 22:36:45",
+      "album": {
+        "name": "25 Bandazos de Machos (Vol. 1) [USA]",
+        "url": "https://open.spotify.com/album/641IjGwd385qV3RVouieUv"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "duration_ms": 162400,
+      "name": "Al gato y al rat\u00f3n",
+      "url": "https://open.spotify.com/track/65sJkvRkCMid2JRJIVHLdJ"
     },
     {
       "added_at": "2022-04-13 22:36:45",
@@ -587,6 +571,22 @@
     {
       "added_at": "2022-04-13 22:36:45",
       "album": {
+        "name": "Mi Mexico Querido",
+        "url": "https://open.spotify.com/album/74CA8KMf2pVVGl7FBxexQ1"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "duration_ms": 208352,
+      "name": "La Bota",
+      "url": "https://open.spotify.com/track/5s3IWiEUyNocPtapPxqlPd"
+    },
+    {
+      "added_at": "2022-04-13 22:36:45",
+      "album": {
         "name": "\u00cdconos 25 \u00c9xitos",
         "url": "https://open.spotify.com/album/7MxfcnVjT4jO4WmVrIUP22"
       },
@@ -599,22 +599,6 @@
       "duration_ms": 167613,
       "name": "El Bigot\u00f3n",
       "url": "https://open.spotify.com/track/2cG5hI7Zwuee0Trkwlvxah"
-    },
-    {
-      "added_at": "2022-04-13 22:36:45",
-      "album": {
-        "name": "Grandes Bandas",
-        "url": "https://open.spotify.com/album/6DejTyQTl57yvFotq3l4xg"
-      },
-      "artists": [
-        {
-          "name": "Banda Zeta",
-          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
-        }
-      ],
-      "duration_ms": 257000,
-      "name": "Hotel California",
-      "url": "https://open.spotify.com/track/3h2HTBcEqFAlHsY8gJJrGn"
     },
     {
       "added_at": "2022-04-13 22:36:45",
@@ -635,6 +619,22 @@
     {
       "added_at": "2022-04-13 22:36:45",
       "album": {
+        "name": "Grandes Bandas",
+        "url": "https://open.spotify.com/album/6DejTyQTl57yvFotq3l4xg"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "duration_ms": 257000,
+      "name": "Hotel California",
+      "url": "https://open.spotify.com/track/3h2HTBcEqFAlHsY8gJJrGn"
+    },
+    {
+      "added_at": "2022-04-13 22:36:45",
+      "album": {
         "name": "El Condor Pasa",
         "url": "https://open.spotify.com/album/2OShSLIWQPvBdO67UsCDiR"
       },
@@ -651,22 +651,6 @@
     {
       "added_at": "2022-04-13 22:36:45",
       "album": {
-        "name": "Las 20 Poderosas (USA)",
-        "url": "https://open.spotify.com/album/43eQSAjeMmLHKPslPiUB7l"
-      },
-      "artists": [
-        {
-          "name": "Banda Peque\u00f1os Musical",
-          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
-        }
-      ],
-      "duration_ms": 154693,
-      "name": "Tenis m\u00e1gicos",
-      "url": "https://open.spotify.com/track/7jcjJi2aVb8F1V1Ct4vBtK"
-    },
-    {
-      "added_at": "2022-04-13 22:36:45",
-      "album": {
         "name": "Lo Mejor De Vaquero's Musical",
         "url": "https://open.spotify.com/album/3yC1k23JItT5mo6Qoi6Sx3"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 163874,
       "name": "El Caracol",
       "url": "https://open.spotify.com/track/6EhUL5fqcXGaOpZUnfQJHO"
+    },
+    {
+      "added_at": "2022-04-13 22:36:45",
+      "album": {
+        "name": "Las 20 Poderosas (USA)",
+        "url": "https://open.spotify.com/album/43eQSAjeMmLHKPslPiUB7l"
+      },
+      "artists": [
+        {
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        }
+      ],
+      "duration_ms": 154693,
+      "name": "Tenis m\u00e1gicos",
+      "url": "https://open.spotify.com/track/7jcjJi2aVb8F1V1Ct4vBtK"
     },
     {
       "added_at": "2022-04-13 22:36:45",
@@ -763,22 +763,6 @@
     {
       "added_at": "2022-04-13 22:36:45",
       "album": {
-        "name": "Para Mi Reina",
-        "url": "https://open.spotify.com/album/1RhzfA1RNDKFwlwwP3XTeM"
-      },
-      "artists": [
-        {
-          "name": "Los Tiranos Del Norte",
-          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
-        }
-      ],
-      "duration_ms": 210546,
-      "name": "Nosotros Tambien Podemos",
-      "url": "https://open.spotify.com/track/1umXWFEvEOfwwRcMixe71l"
-    },
-    {
-      "added_at": "2022-04-13 22:36:45",
-      "album": {
         "name": "Las 20 Poderosas (USA)",
         "url": "https://open.spotify.com/album/43eQSAjeMmLHKPslPiUB7l"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 175400,
       "name": "Eso no, no, no",
       "url": "https://open.spotify.com/track/5oXY2tOOcrI6ePYJfNrx3d"
+    },
+    {
+      "added_at": "2022-04-13 22:36:45",
+      "album": {
+        "name": "Para Mi Reina",
+        "url": "https://open.spotify.com/album/1RhzfA1RNDKFwlwwP3XTeM"
+      },
+      "artists": [
+        {
+          "name": "Los Tiranos Del Norte",
+          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
+        }
+      ],
+      "duration_ms": 210546,
+      "name": "Nosotros Tambien Podemos",
+      "url": "https://open.spotify.com/track/1umXWFEvEOfwwRcMixe71l"
     },
     {
       "added_at": "2022-04-13 22:36:45",
@@ -843,22 +843,6 @@
     {
       "added_at": "2022-04-13 22:36:45",
       "album": {
-        "name": "Volvere",
-        "url": "https://open.spotify.com/album/57eKtbyg848bTblG5xwWky"
-      },
-      "artists": [
-        {
-          "name": "Banda con Angel",
-          "url": "https://open.spotify.com/artist/4st0uAeIFkWMwrC5dzCmW0"
-        }
-      ],
-      "duration_ms": 223026,
-      "name": "Y.M.C.A",
-      "url": "https://open.spotify.com/track/2qhoPqOEdy3fFxTw9IlOk4"
-    },
-    {
-      "added_at": "2022-04-13 22:36:45",
-      "album": {
         "name": "Primera Caida",
         "url": "https://open.spotify.com/album/15boYsAGlmRVDXxynT4M0y"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 163421,
       "name": "Regresando - Regrabada",
       "url": "https://open.spotify.com/track/5w7vzEGjDc1AYKCM5ABIV6"
+    },
+    {
+      "added_at": "2022-04-13 22:36:45",
+      "album": {
+        "name": "Volvere",
+        "url": "https://open.spotify.com/album/57eKtbyg848bTblG5xwWky"
+      },
+      "artists": [
+        {
+          "name": "Banda con Angel",
+          "url": "https://open.spotify.com/artist/4st0uAeIFkWMwrC5dzCmW0"
+        }
+      ],
+      "duration_ms": 223026,
+      "name": "Y.M.C.A",
+      "url": "https://open.spotify.com/track/2qhoPqOEdy3fFxTw9IlOk4"
     },
     {
       "added_at": "2022-04-13 22:36:45",

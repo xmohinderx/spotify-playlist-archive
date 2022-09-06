@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Vive la salsa de los '80! Foto: Oscar D'Le\u00f3n",
-  "num_followers": 127644,
+  "num_followers": 127695,
   "original_name": "Salsa: Los '80",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU1MzYzMTY5NCwwMDAwMDAwMGM1MGYxYTAyYjU3YTE2NjI5YzE5OTEyNjhkNzBiY2Iw",
+  "snapshot_id": "MTU1MzYzMTY5NCwwMDAwMDAwMDgxOWJjNjU1ZmU1MjNjMzM0MzJlZDJjYjk0Y2M0MzEw",
   "tracks": [
     {
       "added_at": "2019-02-21 18:14:14",
@@ -331,6 +331,22 @@
     {
       "added_at": "2019-02-21 18:14:14",
       "album": {
+        "name": "Salsa Exitos",
+        "url": "https://open.spotify.com/album/7d6NQ9TSwDphlr9UExZMUW"
+      },
+      "artists": [
+        {
+          "name": "Pedro Conga",
+          "url": "https://open.spotify.com/artist/5AvuagpXeJtpvaq7OtBG1y"
+        }
+      ],
+      "duration_ms": 284240,
+      "name": "Me Niegas Tanto Amor",
+      "url": "https://open.spotify.com/track/5rZ4XYvFC48L2fw2rUNc3o"
+    },
+    {
+      "added_at": "2019-02-21 18:14:14",
+      "album": {
         "name": "Mejor Que Ayer",
         "url": "https://open.spotify.com/album/2zf6kWIBrE5NOGLmy9vjCr"
       },
@@ -395,22 +411,6 @@
     {
       "added_at": "2019-02-21 18:14:14",
       "album": {
-        "name": "Salsa Exitos",
-        "url": "https://open.spotify.com/album/7d6NQ9TSwDphlr9UExZMUW"
-      },
-      "artists": [
-        {
-          "name": "Pedro Conga",
-          "url": "https://open.spotify.com/artist/5AvuagpXeJtpvaq7OtBG1y"
-        }
-      ],
-      "duration_ms": 284240,
-      "name": "Me Niegas Tanto Amor",
-      "url": "https://open.spotify.com/track/5rZ4XYvFC48L2fw2rUNc3o"
-    },
-    {
-      "added_at": "2019-02-21 18:14:14",
-      "album": {
         "name": "Doble Energ\u00eda",
         "url": "https://open.spotify.com/album/1t9CWp3ykgHF83aO4uYYmU"
       },
@@ -431,6 +431,22 @@
     {
       "added_at": "2019-02-21 18:14:14",
       "album": {
+        "name": "Colecci\u00f3n De Oro",
+        "url": "https://open.spotify.com/album/10ylTveyo286PAtFn5gXVo"
+      },
+      "artists": [
+        {
+          "name": "Luis Enrique",
+          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
+        }
+      ],
+      "duration_ms": 278986,
+      "name": "Lo Que Pas\u00f3 Entre T\u00fa y Yo Pas\u00f3",
+      "url": "https://open.spotify.com/track/1zTQ3j6jP0pMHQzCLLzBeF"
+    },
+    {
+      "added_at": "2019-02-21 18:14:14",
+      "album": {
         "name": "Salsa Greatest Hits",
         "url": "https://open.spotify.com/album/5cLsHBFKN5olOn3mQg7WU6"
       },
@@ -447,18 +463,18 @@
     {
       "added_at": "2019-02-21 18:14:14",
       "album": {
-        "name": "Colecci\u00f3n De Oro",
-        "url": "https://open.spotify.com/album/10ylTveyo286PAtFn5gXVo"
+        "name": "Mejor Que Ayer",
+        "url": "https://open.spotify.com/album/2zf6kWIBrE5NOGLmy9vjCr"
       },
       "artists": [
         {
-          "name": "Luis Enrique",
-          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
+          "name": "David Pabon",
+          "url": "https://open.spotify.com/artist/3L3YHYkS8b2vgAbnqBTXrE"
         }
       ],
-      "duration_ms": 278986,
-      "name": "Lo Que Pas\u00f3 Entre T\u00fa y Yo Pas\u00f3",
-      "url": "https://open.spotify.com/track/1zTQ3j6jP0pMHQzCLLzBeF"
+      "duration_ms": 317586,
+      "name": "Caradura",
+      "url": "https://open.spotify.com/track/1AAx4NAWkHhvYBwXXwcpkJ"
     },
     {
       "added_at": "2019-02-21 18:14:14",
@@ -491,22 +507,6 @@
       "duration_ms": 322360,
       "name": "Si Me Dejas Amarte",
       "url": "https://open.spotify.com/track/6WECgPu7PHErTFnehoRSc8"
-    },
-    {
-      "added_at": "2019-02-21 18:14:14",
-      "album": {
-        "name": "Mejor Que Ayer",
-        "url": "https://open.spotify.com/album/2zf6kWIBrE5NOGLmy9vjCr"
-      },
-      "artists": [
-        {
-          "name": "David Pabon",
-          "url": "https://open.spotify.com/artist/3L3YHYkS8b2vgAbnqBTXrE"
-        }
-      ],
-      "duration_ms": 317586,
-      "name": "Caradura",
-      "url": "https://open.spotify.com/track/1AAx4NAWkHhvYBwXXwcpkJ"
     },
     {
       "added_at": "2019-02-21 18:14:14",
@@ -591,6 +591,22 @@
     {
       "added_at": "2019-02-21 18:14:14",
       "album": {
+        "name": "Salvaje! 88",
+        "url": "https://open.spotify.com/album/4PiTdf6je5V2m0yP1gxyX1"
+      },
+      "artists": [
+        {
+          "name": "Cano Estremera",
+          "url": "https://open.spotify.com/artist/77k3aRCnbGEVb44ZS8qsVZ"
+        }
+      ],
+      "duration_ms": 389840,
+      "name": "Amame en Camara Lenta",
+      "url": "https://open.spotify.com/track/0HVGzXLjVlLLxAmBx6yZFc"
+    },
+    {
+      "added_at": "2019-02-21 18:14:14",
+      "album": {
         "name": "Salsa Legends",
         "url": "https://open.spotify.com/album/2QuOloo4ttkd4SxYzgu5nT"
       },
@@ -627,22 +643,6 @@
     {
       "added_at": "2019-02-21 18:14:14",
       "album": {
-        "name": "El Sonero Del Pueblo",
-        "url": "https://open.spotify.com/album/6YeEv44eWTl8P9w07G74JN"
-      },
-      "artists": [
-        {
-          "name": "Marvin Santiago",
-          "url": "https://open.spotify.com/artist/76h2ycGFYaAFYQgqdoOvVE"
-        }
-      ],
-      "duration_ms": 254360,
-      "name": "El Hombre Increible",
-      "url": "https://open.spotify.com/track/1i2yBsnCHSanfHCVmw3dE0"
-    },
-    {
-      "added_at": "2019-02-21 18:14:14",
-      "album": {
         "name": "Serie Millennium 21: Paquito Guzman",
         "url": "https://open.spotify.com/album/5TU711ERq1aUbOGgj5Jlrn"
       },
@@ -659,6 +659,22 @@
     {
       "added_at": "2019-02-21 18:14:14",
       "album": {
+        "name": "El Sonero Del Pueblo",
+        "url": "https://open.spotify.com/album/6YeEv44eWTl8P9w07G74JN"
+      },
+      "artists": [
+        {
+          "name": "Marvin Santiago",
+          "url": "https://open.spotify.com/artist/76h2ycGFYaAFYQgqdoOvVE"
+        }
+      ],
+      "duration_ms": 254360,
+      "name": "El Hombre Increible",
+      "url": "https://open.spotify.com/track/1i2yBsnCHSanfHCVmw3dE0"
+    },
+    {
+      "added_at": "2019-02-21 18:14:14",
+      "album": {
         "name": "Lo Que Pas\u00f3... La Historia Del Pr\u00edncipe De La Salsa",
         "url": "https://open.spotify.com/album/3fH9W32gXxYgka8q6SAtOW"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 230026,
       "name": "Desesperado",
       "url": "https://open.spotify.com/track/3dH8qYlVlwR9xFdeIEfNWp"
-    },
-    {
-      "added_at": "2019-02-21 18:14:14",
-      "album": {
-        "name": "Salvaje! 88",
-        "url": "https://open.spotify.com/album/4PiTdf6je5V2m0yP1gxyX1"
-      },
-      "artists": [
-        {
-          "name": "Cano Estremera",
-          "url": "https://open.spotify.com/artist/77k3aRCnbGEVb44ZS8qsVZ"
-        }
-      ],
-      "duration_ms": 389840,
-      "name": "Amame en Camara Lenta",
-      "url": "https://open.spotify.com/track/0HVGzXLjVlLLxAmBx6yZFc"
     },
     {
       "added_at": "2019-02-21 18:14:14",

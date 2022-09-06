@@ -4,7 +4,7 @@
 
 > Have a quiet morning with this mix of something familiar and something new.
 
-265 songs - 16 hr 17 min - [published](https://open.spotify.com/playlist/28RD6nYufPNLui4c84uOdv)
+266 songs - 16 hr 20 min - [published](https://open.spotify.com/playlist/28RD6nYufPNLui4c84uOdv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [A Hand, A Heart \- 2021](https://open.spotify.com/track/2MylFBKIQH5ogcBbeMDYiR) | [Katie Buchanan](https://open.spotify.com/artist/45JkiNZMtPXDGoKXzxoPE1) | [A Hand, A Heart \(2021\)](https://open.spotify.com/album/64FRBimcWLupwj5WBrzjm9) | 4:28 | 2022-01-07 | 2022-06-28 |
 | [A Thousand Ringing Bells](https://open.spotify.com/track/5ycP3ywAnIdtTGVEZYH4zp) | [Uri Sade](https://open.spotify.com/artist/7y3eEKZ2Z7P8DBNmIMq9nj) | [No Trace of Sound](https://open.spotify.com/album/1GYrBSrl5eRPAFMFQpiq4T) | 3:55 | 2020-10-17 | 2022-04-20 |
 | [about time](https://open.spotify.com/track/2khJckZKgm10rTK583uKuQ) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj), [Takahiro Izumikawa](https://open.spotify.com/artist/4CJAJc3P508XZPuIOi1c8D) | [about time](https://open.spotify.com/album/5vMVHkJ4komTyjWLIax60u) | 3:13 | 2022-06-17 |  |
-| [Adeline](https://open.spotify.com/track/3wZqS73n0ivz3o6yPZPjxI) | [The Dip](https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn) | [The Dip Delivers](https://open.spotify.com/album/5lHdKLwA4NsBMUkX9Wenbm) | 3:32 | 2020-10-17 |  |
+| [Adeline](https://open.spotify.com/track/3wZqS73n0ivz3o6yPZPjxI) | [The Dip](https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn) | [The Dip Delivers](https://open.spotify.com/album/5lHdKLwA4NsBMUkX9Wenbm) | 3:32 | 2020-10-17 | 2022-09-06 |
 | [Adeline](https://open.spotify.com/track/796IKFUy6xJKcJuV4loLrt) | [The Dip](https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn) | [The Dip Delivers](https://open.spotify.com/album/5NaNDBt0tTh3Y8GiS3zfoI) | 3:32 | 2020-10-17 | 2022-07-30 |
 | [All I Need](https://open.spotify.com/track/47hXMyQDGW8sA1NGqmFL7h) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [The Way That Lovers Do](https://open.spotify.com/album/4WLh56ZjwINYBNhaxLvEhA) | 2:33 | 2022-05-20 |  |
 | [Almost Grown](https://open.spotify.com/track/5lTPGDWxdEKVRc4gKpUPmg) | [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE) | [Living Room](https://open.spotify.com/album/0cI6FYd7CETgvwLQ8j7Y8P) | 5:25 | 2020-10-17 | 2022-04-19 |
@@ -63,6 +63,7 @@
 | [Don't Want Your Love](https://open.spotify.com/track/1d9BwBTqmH8qKELdwn2PH0) | [Haiva Ru](https://open.spotify.com/artist/2KjR229AjvbIGlrkjDBguA), [Devon Gilfillian](https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH) | [Don't Want Your Love](https://open.spotify.com/album/01VhhE9VOeFoBlKYRUv87d) | 3:32 | 2022-04-15 | 2022-07-29 |
 | [Dream](https://open.spotify.com/track/0ngtyvPUKR4YTtkVKvZP02) | [Priscilla Ahn](https://open.spotify.com/artist/5oU0tZlItLctcLOQPS3mCy) | [A Good Day](https://open.spotify.com/album/2y8fiUO036vTYKHM2gNSuW) | 3:31 | 2020-10-17 |  |
 | [Dreamer](https://open.spotify.com/track/2jv3f5GKP8ibGI0kvSQJc2) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Songs of Sonder](https://open.spotify.com/album/5o1yAsAo4mvlgYptShBCow) | 3:01 | 2022-07-01 | 2022-09-05 |
+| [Dreamer](https://open.spotify.com/track/5MS9UnAqC3ObXUN6dIV1rr) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Songs of Sonder](https://open.spotify.com/album/3meoZUwEJiy7nyrDsv2HHJ) | 3:01 | 2022-07-01 |  |
 | [Every Heart In The Room](https://open.spotify.com/track/2mOl7hHENoE6P4VooQw7BK) | [Mark Knopfler](https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug) | [Down The Road Wherever \(Deluxe\)](https://open.spotify.com/album/50GCIDxmRhgriDpyzmV7qA) | 4:30 | 2020-10-17 | 2022-05-16 |
 | [Everything](https://open.spotify.com/track/1ff9rutkkpHQACXlA3Foy0) | [Jay Valera](https://open.spotify.com/artist/5ux7qJ1e8JF0RgygF6CTUD) | [Everything](https://open.spotify.com/album/3FESEE5NFGpl0bcMzaU9Bv) | 2:49 | 2020-10-17 | 2022-04-21 |
 | [Everything's Fine](https://open.spotify.com/track/6SRzKq8y1qHT2aSKphQ03C) | [Jamie Drake](https://open.spotify.com/artist/7rvB7ONJSqlmaCrcbhelir) | [Everything's Fine](https://open.spotify.com/album/3OZkBeZ9S4LDYvmn3jQ9kZ) | 3:29 | 2020-10-17 | 2022-07-29 |

@@ -1,12 +1,12 @@
 {
   "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: POCAH, BIN, Lionel",
-  "num_followers": 228236,
+  "num_followers": 228362,
   "original_name": "brisa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjA4NzYwMCwwMDAwMDAwMGU4ZmJiOWM0Mzk5NGU4ZTM3MmRiYmNjYWYwNDE0NTFi",
+  "snapshot_id": "MTY2MjA4NzYwMCwwMDAwMDAwMDM4ZjVhNDc5YzhhNTBkMTY2ZjEyNzc0NjgxOTE4NDUx",
   "tracks": [
     {
       "added_at": "2022-09-02 03:00:00",
@@ -199,26 +199,6 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
-        "name": "Medley Lud Session - Modo Avi\u00e3o / A Tua Voz / 700 Por Hora / Radar / A M\u00fasica Mais Triste do Ano",
-        "url": "https://open.spotify.com/album/0zaigYjLBnB3JcrUwZEfNV"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        },
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        }
-      ],
-      "duration_ms": 559903,
-      "name": "Medley Lud Session - Modo Avi\u00e3o / A Tua Voz / 700 Por Hora / Radar / A M\u00fasica Mais Triste do Ano",
-      "url": "https://open.spotify.com/track/7HYdckQd1guaSYVwMQ3SFL"
-    },
-    {
-      "added_at": "2022-09-02 03:00:00",
-      "album": {
         "name": "Sem Filtro",
         "url": "https://open.spotify.com/album/7M2Wfg14YrNPGmkMyv9dtA"
       },
@@ -323,6 +303,50 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
+        "name": "Medley Lud Session - Modo Avi\u00e3o / A Tua Voz / 700 Por Hora / Radar / A M\u00fasica Mais Triste do Ano",
+        "url": "https://open.spotify.com/album/0zaigYjLBnB3JcrUwZEfNV"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        },
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        }
+      ],
+      "duration_ms": 559903,
+      "name": "Medley Lud Session - Modo Avi\u00e3o / A Tua Voz / 700 Por Hora / Radar / A M\u00fasica Mais Triste do Ano",
+      "url": "https://open.spotify.com/track/7HYdckQd1guaSYVwMQ3SFL"
+    },
+    {
+      "added_at": "2022-09-02 03:00:00",
+      "album": {
+        "name": "Penelope",
+        "url": "https://open.spotify.com/album/71htdEQmQqPoSQwdTR0auD"
+      },
+      "artists": [
+        {
+          "name": "BIN",
+          "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
+        },
+        {
+          "name": "Vit\u00e3o",
+          "url": "https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP"
+        },
+        {
+          "name": "Malibu",
+          "url": "https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6"
+        }
+      ],
+      "duration_ms": 171513,
+      "name": "Penelope",
+      "url": "https://open.spotify.com/track/66qOxO7krWQpQWZPi1IzQo"
+    },
+    {
+      "added_at": "2022-09-02 03:00:00",
+      "album": {
         "name": "Desligado",
         "url": "https://open.spotify.com/album/0ZMqBtsnyJiSPmFVRC2pSC"
       },
@@ -359,30 +383,6 @@
       "duration_ms": 151479,
       "name": "caos / flor ***",
       "url": "https://open.spotify.com/track/21XUWkizYGllIRpib9Cq6X"
-    },
-    {
-      "added_at": "2022-09-02 03:00:00",
-      "album": {
-        "name": "Penelope",
-        "url": "https://open.spotify.com/album/71htdEQmQqPoSQwdTR0auD"
-      },
-      "artists": [
-        {
-          "name": "BIN",
-          "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
-        },
-        {
-          "name": "Vit\u00e3o",
-          "url": "https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP"
-        },
-        {
-          "name": "Malibu",
-          "url": "https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6"
-        }
-      ],
-      "duration_ms": 171513,
-      "name": "Penelope",
-      "url": "https://open.spotify.com/track/66qOxO7krWQpQWZPi1IzQo"
     },
     {
       "added_at": "2022-09-02 03:00:00",
@@ -451,6 +451,34 @@
       "duration_ms": 195692,
       "name": "Le\u00e3o",
       "url": "https://open.spotify.com/track/2J1ypgIAzXp75ekOrTtYkC"
+    },
+    {
+      "added_at": "2022-09-02 03:00:00",
+      "album": {
+        "name": "Ap\u00ea 1001",
+        "url": "https://open.spotify.com/album/1YBdcdUHmr5q2yrUf7ARYV"
+      },
+      "artists": [
+        {
+          "name": "BIN",
+          "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
+        },
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "Ap\u00ea 1001",
+      "url": "https://open.spotify.com/track/3q6ZCGgFDIVCJQ5XG4JTL2"
     },
     {
       "added_at": "2022-09-02 03:00:00",
@@ -539,6 +567,58 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
+        "name": "Ac\u00fastico Canc\u00fan",
+        "url": "https://open.spotify.com/album/3l7i7Bku7mWVjTv0xyAmso"
+      },
+      "artists": [
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        },
+        {
+          "name": "Gustah",
+          "url": "https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L"
+        },
+        {
+          "name": "Irineu Bars\u00e9",
+          "url": "https://open.spotify.com/artist/0Q21K4tXniCV81hKaCkmaf"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Uma Linda Mulher - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/3tiNQKkPzqjLchoM3w0OxI"
+    },
+    {
+      "added_at": "2022-09-02 03:00:00",
+      "album": {
+        "name": "Outro Patamar",
+        "url": "https://open.spotify.com/album/4J1SvtWJvuHaPkjk6PlIom"
+      },
+      "artists": [
+        {
+          "name": "BIN",
+          "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        },
+        {
+          "name": "jess beats",
+          "url": "https://open.spotify.com/artist/7uskxjQtkzfiqHCNIIv3gD"
+        }
+      ],
+      "duration_ms": 224842,
+      "name": "Outro Patamar",
+      "url": "https://open.spotify.com/track/0hVKEiZ9lWwKQlBk4VZ0GK"
+    },
+    {
+      "added_at": "2022-09-02 03:00:00",
+      "album": {
         "name": "Onde Voc\u00ea Mora",
         "url": "https://open.spotify.com/album/5zYpZmVSr81MqPSyyDEpHq"
       },
@@ -567,58 +647,6 @@
       "duration_ms": 253354,
       "name": "Onde Voc\u00ea Mora",
       "url": "https://open.spotify.com/track/7qpSEfTO2686bD0th4KEEM"
-    },
-    {
-      "added_at": "2022-09-02 03:00:00",
-      "album": {
-        "name": "Ap\u00ea 1001",
-        "url": "https://open.spotify.com/album/1YBdcdUHmr5q2yrUf7ARYV"
-      },
-      "artists": [
-        {
-          "name": "BIN",
-          "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
-        },
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        },
-        {
-          "name": "Mainstreet",
-          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
-        },
-        {
-          "name": "Dallass",
-          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
-        }
-      ],
-      "duration_ms": 171428,
-      "name": "Ap\u00ea 1001",
-      "url": "https://open.spotify.com/track/3q6ZCGgFDIVCJQ5XG4JTL2"
-    },
-    {
-      "added_at": "2022-09-02 03:00:00",
-      "album": {
-        "name": "Ac\u00fastico Canc\u00fan",
-        "url": "https://open.spotify.com/album/3l7i7Bku7mWVjTv0xyAmso"
-      },
-      "artists": [
-        {
-          "name": "Xam\u00e3",
-          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
-        },
-        {
-          "name": "Gustah",
-          "url": "https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L"
-        },
-        {
-          "name": "Irineu Bars\u00e9",
-          "url": "https://open.spotify.com/artist/0Q21K4tXniCV81hKaCkmaf"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Uma Linda Mulher - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/3tiNQKkPzqjLchoM3w0OxI"
     },
     {
       "added_at": "2022-09-02 03:00:00",
@@ -683,6 +711,34 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
+        "name": "Fora de contexto",
+        "url": "https://open.spotify.com/album/2qWZTDrMZaYJOkYHssLIWN"
+      },
+      "artists": [
+        {
+          "name": "Trist\u00e3o",
+          "url": "https://open.spotify.com/artist/4VYCiHxylPSMQEa9KlTJHH"
+        },
+        {
+          "name": "Camargo",
+          "url": "https://open.spotify.com/artist/1gH9PRoYmehUf3bErRTN1f"
+        },
+        {
+          "name": "RalphTheKiD",
+          "url": "https://open.spotify.com/artist/6Hmszyqw2GWY3X0yt0k1lw"
+        },
+        {
+          "name": "Joab Beats",
+          "url": "https://open.spotify.com/artist/26B7Vxj9wBzF8wsDTK6IHh"
+        }
+      ],
+      "duration_ms": 125969,
+      "name": "Fora de contexto",
+      "url": "https://open.spotify.com/track/6pyEoSCvWdCvl0EAkVdpDp"
+    },
+    {
+      "added_at": "2022-09-02 03:00:00",
+      "album": {
         "name": "Salserin #1 - Para",
         "url": "https://open.spotify.com/album/375MzJOkgq1Dp7PNW0MOF9"
       },
@@ -723,82 +779,6 @@
       "duration_ms": 154060,
       "name": "Vai e Vem",
       "url": "https://open.spotify.com/track/6dhdxs7ELm5EvlhbV31hJh"
-    },
-    {
-      "added_at": "2022-09-02 03:00:00",
-      "album": {
-        "name": "Outro Patamar",
-        "url": "https://open.spotify.com/album/4J1SvtWJvuHaPkjk6PlIom"
-      },
-      "artists": [
-        {
-          "name": "BIN",
-          "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
-        },
-        {
-          "name": "MC Ryan SP",
-          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
-        },
-        {
-          "name": "Mainstreet",
-          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
-        },
-        {
-          "name": "jess beats",
-          "url": "https://open.spotify.com/artist/7uskxjQtkzfiqHCNIIv3gD"
-        }
-      ],
-      "duration_ms": 224842,
-      "name": "Outro Patamar",
-      "url": "https://open.spotify.com/track/0hVKEiZ9lWwKQlBk4VZ0GK"
-    },
-    {
-      "added_at": "2022-09-02 03:00:00",
-      "album": {
-        "name": "Afrodite",
-        "url": "https://open.spotify.com/album/1ICIN9SOmYfHl37mWWAxEU"
-      },
-      "artists": [
-        {
-          "name": "3030",
-          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
-        },
-        {
-          "name": "Jade Baraldo",
-          "url": "https://open.spotify.com/artist/5sz2Sp7OkasBBmDkKerv45"
-        }
-      ],
-      "duration_ms": 218214,
-      "name": "Afrodite",
-      "url": "https://open.spotify.com/track/6moZvXY0OVOnkLT9EA9igu"
-    },
-    {
-      "added_at": "2022-09-02 03:00:00",
-      "album": {
-        "name": "Fora de contexto",
-        "url": "https://open.spotify.com/album/2qWZTDrMZaYJOkYHssLIWN"
-      },
-      "artists": [
-        {
-          "name": "Trist\u00e3o",
-          "url": "https://open.spotify.com/artist/4VYCiHxylPSMQEa9KlTJHH"
-        },
-        {
-          "name": "Camargo",
-          "url": "https://open.spotify.com/artist/1gH9PRoYmehUf3bErRTN1f"
-        },
-        {
-          "name": "RalphTheKiD",
-          "url": "https://open.spotify.com/artist/6Hmszyqw2GWY3X0yt0k1lw"
-        },
-        {
-          "name": "Joab Beats",
-          "url": "https://open.spotify.com/artist/26B7Vxj9wBzF8wsDTK6IHh"
-        }
-      ],
-      "duration_ms": 125969,
-      "name": "Fora de contexto",
-      "url": "https://open.spotify.com/track/6pyEoSCvWdCvl0EAkVdpDp"
     },
     {
       "added_at": "2022-09-02 03:00:00",
@@ -855,6 +835,26 @@
       "duration_ms": 157894,
       "name": "Chamego",
       "url": "https://open.spotify.com/track/283k7soBiKwLFyy6PXTbsh"
+    },
+    {
+      "added_at": "2022-09-02 03:00:00",
+      "album": {
+        "name": "Afrodite",
+        "url": "https://open.spotify.com/album/1ICIN9SOmYfHl37mWWAxEU"
+      },
+      "artists": [
+        {
+          "name": "3030",
+          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
+        },
+        {
+          "name": "Jade Baraldo",
+          "url": "https://open.spotify.com/artist/5sz2Sp7OkasBBmDkKerv45"
+        }
+      ],
+      "duration_ms": 218214,
+      "name": "Afrodite",
+      "url": "https://open.spotify.com/track/6moZvXY0OVOnkLT9EA9igu"
     },
     {
       "added_at": "2022-09-02 03:00:00",
@@ -919,26 +919,6 @@
       "duration_ms": 168031,
       "name": "Melhor Lugar",
       "url": "https://open.spotify.com/track/3NvJOofNuM9TmYgxCfavsN"
-    },
-    {
-      "added_at": "2022-09-02 03:00:00",
-      "album": {
-        "name": "Ref\u00e9m",
-        "url": "https://open.spotify.com/album/0VWA3ZIe612sqa7bVQVQQ0"
-      },
-      "artists": [
-        {
-          "name": "3030",
-          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
-        },
-        {
-          "name": "Lauana Prado",
-          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Ref\u00e9m",
-      "url": "https://open.spotify.com/track/4lFSe0VQ2tMDJhyvjD8jmU"
     },
     {
       "added_at": "2022-09-02 03:00:00",
@@ -1071,6 +1051,26 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
+        "name": "Ref\u00e9m",
+        "url": "https://open.spotify.com/album/0VWA3ZIe612sqa7bVQVQQ0"
+      },
+      "artists": [
+        {
+          "name": "3030",
+          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
+        },
+        {
+          "name": "Lauana Prado",
+          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Ref\u00e9m",
+      "url": "https://open.spotify.com/track/4lFSe0VQ2tMDJhyvjD8jmU"
+    },
+    {
+      "added_at": "2022-09-02 03:00:00",
+      "album": {
         "name": "Ontem",
         "url": "https://open.spotify.com/album/1fM60WYCiwVdzItKBMQxrJ"
       },
@@ -1199,30 +1199,6 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
-        "name": "Malandra Treinada",
-        "url": "https://open.spotify.com/album/6TTjOK1SNS9QyTFr0Ejngx"
-      },
-      "artists": [
-        {
-          "name": "Gaab",
-          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
-        },
-        {
-          "name": "Turma do Pagode",
-          "url": "https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5"
-        },
-        {
-          "name": "Portugal No Beat",
-          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
-        }
-      ],
-      "duration_ms": 139200,
-      "name": "Malandra Treinada",
-      "url": "https://open.spotify.com/track/2sPKxr3t0kXHcVvHCfgxoV"
-    },
-    {
-      "added_at": "2022-09-02 03:00:00",
-      "album": {
         "name": "Marrenta",
         "url": "https://open.spotify.com/album/3p2NXpcsYeBIJM0qg7eq7g"
       },
@@ -1255,6 +1231,30 @@
       "duration_ms": 201857,
       "name": "Casal 171",
       "url": "https://open.spotify.com/track/4SOomkThSZxyGjQOmZ7EUO"
+    },
+    {
+      "added_at": "2022-09-02 03:00:00",
+      "album": {
+        "name": "Malandra Treinada",
+        "url": "https://open.spotify.com/album/6TTjOK1SNS9QyTFr0Ejngx"
+      },
+      "artists": [
+        {
+          "name": "Gaab",
+          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
+        },
+        {
+          "name": "Turma do Pagode",
+          "url": "https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5"
+        },
+        {
+          "name": "Portugal No Beat",
+          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
+        }
+      ],
+      "duration_ms": 139200,
+      "name": "Malandra Treinada",
+      "url": "https://open.spotify.com/track/2sPKxr3t0kXHcVvHCfgxoV"
     },
     {
       "added_at": "2022-09-02 03:00:00",
@@ -1431,46 +1431,6 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
-        "name": "N\u00f3s Dois",
-        "url": "https://open.spotify.com/album/7xKWFFnBKO9EM0GpWQ4JmY"
-      },
-      "artists": [
-        {
-          "name": "NALAH",
-          "url": "https://open.spotify.com/artist/6ETEPWJAjX1ZwlvkcRX5t8"
-        }
-      ],
-      "duration_ms": 147040,
-      "name": "N\u00f3s Dois",
-      "url": "https://open.spotify.com/track/3OSKdxDJ15q682cx1NF0ne"
-    },
-    {
-      "added_at": "2022-09-02 03:00:00",
-      "album": {
-        "name": "Livro Aberto",
-        "url": "https://open.spotify.com/album/06gS40nhrJYwq0HAUBoeNr"
-      },
-      "artists": [
-        {
-          "name": "Gibi8",
-          "url": "https://open.spotify.com/artist/0PzUD5dHBctrkQopnjcHMO"
-        },
-        {
-          "name": "FREELION",
-          "url": "https://open.spotify.com/artist/1Tgb6BnlFB54h9697xbHEX"
-        },
-        {
-          "name": "YO\u00d9N",
-          "url": "https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi"
-        }
-      ],
-      "duration_ms": 196559,
-      "name": "Livro Aberto",
-      "url": "https://open.spotify.com/track/6J70GASPHV0GK7wz0QyfUp"
-    },
-    {
-      "added_at": "2022-09-02 03:00:00",
-      "album": {
         "name": "Ac\u00fastico Altamira #14 - Medo",
         "url": "https://open.spotify.com/album/4KrCWuExqb7Xjxi8dQ7ukz"
       },
@@ -1499,6 +1459,46 @@
       "duration_ms": 276705,
       "name": "Ac\u00fastico Altamira #14 - Medo",
       "url": "https://open.spotify.com/track/4IfMGfaZCGFEfzFizozRco"
+    },
+    {
+      "added_at": "2022-09-02 03:00:00",
+      "album": {
+        "name": "Livro Aberto",
+        "url": "https://open.spotify.com/album/06gS40nhrJYwq0HAUBoeNr"
+      },
+      "artists": [
+        {
+          "name": "Gibi8",
+          "url": "https://open.spotify.com/artist/0PzUD5dHBctrkQopnjcHMO"
+        },
+        {
+          "name": "FREELION",
+          "url": "https://open.spotify.com/artist/1Tgb6BnlFB54h9697xbHEX"
+        },
+        {
+          "name": "YO\u00d9N",
+          "url": "https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi"
+        }
+      ],
+      "duration_ms": 196559,
+      "name": "Livro Aberto",
+      "url": "https://open.spotify.com/track/6J70GASPHV0GK7wz0QyfUp"
+    },
+    {
+      "added_at": "2022-09-02 03:00:00",
+      "album": {
+        "name": "N\u00f3s Dois",
+        "url": "https://open.spotify.com/album/7xKWFFnBKO9EM0GpWQ4JmY"
+      },
+      "artists": [
+        {
+          "name": "NALAH",
+          "url": "https://open.spotify.com/artist/6ETEPWJAjX1ZwlvkcRX5t8"
+        }
+      ],
+      "duration_ms": 147040,
+      "name": "N\u00f3s Dois",
+      "url": "https://open.spotify.com/track/3OSKdxDJ15q682cx1NF0ne"
     },
     {
       "added_at": "2022-09-02 03:00:00",
@@ -1743,26 +1743,6 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
-        "name": "Te Fazer Vibrar",
-        "url": "https://open.spotify.com/album/21v5Ucht2tu6yF0WmnjcFu"
-      },
-      "artists": [
-        {
-          "name": "Megabaile Do Areias",
-          "url": "https://open.spotify.com/artist/6EHs7rGH4jgLSNezIy9i3F"
-        },
-        {
-          "name": "MC Ig\u00e3o",
-          "url": "https://open.spotify.com/artist/7mFKwJmv39xvJc8Gtr227g"
-        }
-      ],
-      "duration_ms": 187272,
-      "name": "Te Fazer Vibrar",
-      "url": "https://open.spotify.com/track/2ht1UBPNgDM0WMpgxKC7Zy"
-    },
-    {
-      "added_at": "2022-09-02 03:00:00",
-      "album": {
         "name": "Sentir Saudade",
         "url": "https://open.spotify.com/album/3YVXCU8NEDI9GQtk2Eg6NO"
       },
@@ -1791,6 +1771,26 @@
       "duration_ms": 206451,
       "name": "Sentir Saudade",
       "url": "https://open.spotify.com/track/4LuSl1ajXHPZB1gGWQ069n"
+    },
+    {
+      "added_at": "2022-09-02 03:00:00",
+      "album": {
+        "name": "Te Fazer Vibrar",
+        "url": "https://open.spotify.com/album/21v5Ucht2tu6yF0WmnjcFu"
+      },
+      "artists": [
+        {
+          "name": "Megabaile Do Areias",
+          "url": "https://open.spotify.com/artist/6EHs7rGH4jgLSNezIy9i3F"
+        },
+        {
+          "name": "MC Ig\u00e3o",
+          "url": "https://open.spotify.com/artist/7mFKwJmv39xvJc8Gtr227g"
+        }
+      ],
+      "duration_ms": 187272,
+      "name": "Te Fazer Vibrar",
+      "url": "https://open.spotify.com/track/2ht1UBPNgDM0WMpgxKC7Zy"
     },
     {
       "added_at": "2022-09-02 03:00:00",

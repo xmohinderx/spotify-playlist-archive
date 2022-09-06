@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to women from all over the world, at full volume\. Cover: Nazia Hassan
 
-[Spotify](https://open.spotify.com/user/spotify) - 840,128 likes - 70 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 840,011 likes - 70 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Boom Boom](https://open.spotify.com/track/4vBpEoRBnyjcLTqgKCppwo) | [Nazia Hassan](https://open.spotify.com/artist/5hW7KULTxMzCDnqaV7LASR) | [Star \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0aObRUTRn6DL00E9lSHO13) | 5:18 |
 | 2 | [Te Amo Demais](https://open.spotify.com/track/4xxeEWGQNFQ6qehlnev5LS) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Decretos Reais, Vol.1](https://open.spotify.com/album/24aslPrdihuSQ59jrB2eBB) | 3:25 |
 | 3 | [BEAUTIFUL MONSTER](https://open.spotify.com/track/56s2s5e8WuBsWVKnmz6J9L) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [WE NEED LOVE](https://open.spotify.com/album/04EniWu488MF6louRYafKJ) | 3:00 |
-| 4 | [Kumpas \- Theme of “2 Good 2 Be True”](https://open.spotify.com/track/4tyEfRWLgYkWQaowoHXoba) | [Moira Dela Torre](https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc) | [Kumpas \(Theme of “2 Good 2 Be True”\)](https://open.spotify.com/album/553BAcjEAWT7R0TQjlazXA) | 4:28 |
-| 5 | [the perfect pair](https://open.spotify.com/track/41P6Tnd8KIHqON0QIydx6a) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beatopia](https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V) | 2:57 |
+| 4 | [the perfect pair](https://open.spotify.com/track/41P6Tnd8KIHqON0QIydx6a) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beatopia](https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V) | 2:57 |
+| 5 | [Kumpas \- Theme of “2 Good 2 Be True”](https://open.spotify.com/track/4tyEfRWLgYkWQaowoHXoba) | [Moira Dela Torre](https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc) | [Kumpas \(Theme of “2 Good 2 Be True”\)](https://open.spotify.com/album/553BAcjEAWT7R0TQjlazXA) | 4:28 |
 | 6 | [Up!](https://open.spotify.com/track/3XZAvh2NCDQYHgJei35VQ1) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [DOUBLAST](https://open.spotify.com/album/0yMosWzriw3613d26x7MQK) | 3:12 |
 | 7 | [Lay All Your Love On Me \- Spotify Singles](https://open.spotify.com/track/2vaxUyVWNoA2L272YHEy70) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Lay All Your Love On Me \- Spotify Singles](https://open.spotify.com/album/4aCXO1evmETJ2Cy32sZ2Zj) | 2:41 |
 | 8 | [Eu Quero Recair \- Ao Vivo](https://open.spotify.com/track/46Xq7I6GwGzFCXVuit55dE) | [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP), [Simone & Simaria](https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE) | [Ao Vivo em Fortaleza](https://open.spotify.com/album/32ovO6zFEN5r4K52fbMeWz) | 2:59 |
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 19 | [Satu\-Satu](https://open.spotify.com/track/5rFNflUKMTsOlBVdGv1ahL) | [Idgitaf](https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq) | [Satu\-Satu](https://open.spotify.com/album/2WFFb7cIQXQXvuOsoqB69C) | 4:44 |
 | 20 | [קוביד 19](https://open.spotify.com/track/7dEtCKY2MthcyP0U6aiMCW) | [Nunu](https://open.spotify.com/artist/0wJDdyoTfE5SuqPNFvi2lG) | [סטטוס](https://open.spotify.com/album/25NrLi2xwYYO8WniTmdKL6) | 2:22 |
 | 21 | [Teenage Renegade](https://open.spotify.com/track/12UFOhdwV1STPKzAI39hUu) | [Robinson](https://open.spotify.com/artist/38CvLGTsjtoloDgv3OKQp8) | [Teenage Renegade](https://open.spotify.com/album/1MbxlBgw83NZbqcJuoAVnd) | 3:04 |
-| 22 | [Bu Saatten Sonra](https://open.spotify.com/track/3KW7R1G0HIAqwQGIpPwynQ) | [Gülden](https://open.spotify.com/artist/1aQhhnH3sUteqgE1EbmPec) | [Bu Saatten Sonra](https://open.spotify.com/album/2r3beb9mWCjufaY8eTVnnv) | 3:02 |
-| 23 | [Nelly](https://open.spotify.com/track/6GAG3B6iYZOy1Wf0aMlkvl) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [Nelly](https://open.spotify.com/album/2n3ppbc77GVkJD47hZdKwe) | 3:25 |
+| 22 | [Nelly](https://open.spotify.com/track/6GAG3B6iYZOy1Wf0aMlkvl) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [Nelly](https://open.spotify.com/album/2n3ppbc77GVkJD47hZdKwe) | 3:25 |
+| 23 | [Bu Saatten Sonra](https://open.spotify.com/track/3KW7R1G0HIAqwQGIpPwynQ) | [Gülden](https://open.spotify.com/artist/1aQhhnH3sUteqgE1EbmPec) | [Bu Saatten Sonra](https://open.spotify.com/album/2r3beb9mWCjufaY8eTVnnv) | 3:02 |
 | 24 | [ERROR](https://open.spotify.com/track/5On0z2PZjPf5x7eB2afLEf) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [ERROR](https://open.spotify.com/album/0el7KHRPZwYXPwXNeSNdJB) | 3:57 |
 | 25 | [Boutchya](https://open.spotify.com/track/2cqgWnsfBS5aKUHg1pq3fN) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [Boutchya](https://open.spotify.com/album/7weTHaUxknmqDfw1vU7ljr) | 3:19 |
 | 26 | [I'll Be Fine](https://open.spotify.com/track/16vsGUfAqnribmvTsg8W9f) | [Giolì & Assia](https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU) | [I'll Be Fine](https://open.spotify.com/album/11qaljg84xPgLx7yT38tPB) | 3:37 |
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 46 | [Affable Dork](https://open.spotify.com/track/2gcYt3SKCNbXzCquDxDfDG) | [Clara Benin](https://open.spotify.com/artist/5ebPSE9YI5aLeZ1Z2gkqjn) | [Affable Dork](https://open.spotify.com/album/2Ocf5CSTHwhNfPeA173Tgo) | 4:19 |
 | 47 | [Như Lời Đồn](https://open.spotify.com/track/5aUlYDU9wWSVPRdrbCSPHF) | [Bao Anh](https://open.spotify.com/artist/4fCHhderLwLacsIOIKgu3J) | [Như Lời Đồn](https://open.spotify.com/album/1Ljk64JLVQVnV9S0lWqPlZ) | 3:39 |
 | 48 | [NA JAW](https://open.spotify.com/track/7dabUwTb0gLl974JRHxKNC) | [Dominika Plonka](https://open.spotify.com/artist/7CyMpvAC2CTnxaZVFh9aO8), [Miroff](https://open.spotify.com/artist/6BanFN5Xaq11YYRogYOtnD), [Wuja HZG](https://open.spotify.com/artist/5fvxRg4qqtJ72QdsCOotTj) | [NA JAW](https://open.spotify.com/album/2afUIxih65L6c308R5dZ1a) | 2:45 |
-| 49 | [Wifey \- Feat\. Lil Keed](https://open.spotify.com/track/1F12ArAq906JEJhfLFuhYh) | [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj), [Lil Keed](https://open.spotify.com/artist/3uJx5SnOM59Li7lCxA3b29) | [Sweet My Life](https://open.spotify.com/album/5Tpk1oiARkbmnZZHNJJmmS) | 3:05 |
-| 50 | [it keeps on raining](https://open.spotify.com/track/0z422bE04PCpYL5r998aWp) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [can you see me?](https://open.spotify.com/album/6lvr2vceq0j5YhJUQTPSKE) | 3:22 |
+| 49 | [it keeps on raining](https://open.spotify.com/track/0z422bE04PCpYL5r998aWp) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [can you see me?](https://open.spotify.com/album/6lvr2vceq0j5YhJUQTPSKE) | 3:22 |
+| 50 | [Wifey \- Feat\. Lil Keed](https://open.spotify.com/track/1F12ArAq906JEJhfLFuhYh) | [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj), [Lil Keed](https://open.spotify.com/artist/3uJx5SnOM59Li7lCxA3b29) | [Sweet My Life](https://open.spotify.com/album/5Tpk1oiARkbmnZZHNJJmmS) | 3:05 |
 | 51 | [TWTC](https://open.spotify.com/track/2CsnWF7nKkLV2IS42BaTjS) | [Mulay](https://open.spotify.com/artist/6hxUwSTKTLQoKGmKHLle54) | [TWTC](https://open.spotify.com/album/2wxaTB6AQkHZAvXemWJM8b) | 3:24 |
 | 52 | [No Fool](https://open.spotify.com/track/1HZQxsJHV5cZmSBZBDuhXH) | [Grace](https://open.spotify.com/artist/3GKpXtb9Zb3QvDg9uzNi98) | [No Fool](https://open.spotify.com/album/6RPCehQmjAX0JRR6z9oAyW) | 2:24 |
 | 53 | [Vanishing Love](https://open.spotify.com/track/63n0C5DD3gU1rUAfZ9pitu) | [LaLa Hsu](https://open.spotify.com/artist/3dI4Io8XE33J2o04ZwjR0Y) | [Gei](https://open.spotify.com/album/2WJal4nsKHRiqSRiu8OBts) | 4:40 |
@@ -74,9 +74,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 64 | [Khatt](https://open.spotify.com/track/7n6WZ6B685kKuhVsWCuZTe) | [Aqdas Asif](https://open.spotify.com/artist/4EMocUxs9mFdhDfo4WT7kR), [Ali Mustafa](https://open.spotify.com/artist/7m3Ku1spjnnSy81lVQM0oN) | [Khatt](https://open.spotify.com/album/5YE64t1MFZB7d5OOUGYAHq) | 3:52 |
 | 65 | [tricky situation](https://open.spotify.com/track/2RupwaICWPZgf5kK6WN9av) | [Ffion](https://open.spotify.com/artist/6gYn1myEM7sARWIoT2AVWG) | [tricky situation](https://open.spotify.com/album/3LxNmsxNPOgG5HoDATneGG) | 2:06 |
 | 66 | [No More Doubt](https://open.spotify.com/track/4Oq69vJVrRt4Q5bSQhoeB4) | [Romane](https://open.spotify.com/artist/0n4XFcBXIvCkXZdXQFMigW) | [No More Doubt](https://open.spotify.com/album/2KYLphOnR1zIzSF26BCoBA) | 2:56 |
-| 67 | [Girl From A Movie](https://open.spotify.com/track/4JaEvhhoQmAHSGwRWzKNrD) | [Markéta Irglová](https://open.spotify.com/artist/4SklVMGMsWTq7cJd9MixUx) | [Girl From A Movie](https://open.spotify.com/album/6t5K3cKJCLqT6OTj5dhLO8) | 4:16 |
-| 68 | [จ๊วดหน้าฮ้าน](https://open.spotify.com/track/5JqNGI6DXY8GUxFqtz4EwG) | [Jintara Poonlarp](https://open.spotify.com/artist/3KlfbBoTPmF2TwJxFzveRI) | [จ๊วดหน้าฮ้าน](https://open.spotify.com/album/1NLzon0T0W1MGIIS7M05fR) | 5:02 |
+| 67 | [จ๊วดหน้าฮ้าน](https://open.spotify.com/track/5JqNGI6DXY8GUxFqtz4EwG) | [Jintara Poonlarp](https://open.spotify.com/artist/3KlfbBoTPmF2TwJxFzveRI) | [จ๊วดหน้าฮ้าน](https://open.spotify.com/album/1NLzon0T0W1MGIIS7M05fR) | 5:02 |
+| 68 | [Girl From A Movie](https://open.spotify.com/track/4JaEvhhoQmAHSGwRWzKNrD) | [Markéta Irglová](https://open.spotify.com/artist/4SklVMGMsWTq7cJd9MixUx) | [Girl From A Movie](https://open.spotify.com/album/6t5K3cKJCLqT6OTj5dhLO8) | 4:16 |
 | 69 | [سم فالكاندي](https://open.spotify.com/track/7qk1ioFJUp5wNzPtSvi2E3) | [Almas](https://open.spotify.com/artist/3HctDes7HXVEnK9uuejru0) | [سم فالكاندي](https://open.spotify.com/album/7j5yTR9UnX8gVfOJ8OdqCo) | 2:27 |
 | 70 | [TYF](https://open.spotify.com/track/3YGklnT5auf8CCLCbvAgFJ) | [Shirel](https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln) | [TYF](https://open.spotify.com/album/09LrimhS4xCJCyqsz9CMhA) | 3:33 |
 
-Snapshot ID: `MTY1OTUyNjk4MSwwMDAwMDAwMGY2NzZkZjZkNGNmZDExYjM1MzAzZDhkYWU1YWY3ZGM5`
+Snapshot ID: `MTY1OTUyNjk4MSwwMDAwMDAwMDc4YjRkNjQ5MzY4ZDgzZjg5MmIxYjczZTExNDk4YTEy`

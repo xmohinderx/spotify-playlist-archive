@@ -4,7 +4,7 @@
 
 > Dance Machi Dance<br/>Cover : Thiruchitrambalam
 
-61 songs - 3 hr 46 min - [published](https://open.spotify.com/playlist/5euAYrk2QZepE3nHrD48ke)
+62 songs - 3 hr 50 min - [published](https://open.spotify.com/playlist/5euAYrk2QZepE3nHrD48ke)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Chaka Chakalathi \(From "Galatta Kalyaanam"\)](https://open.spotify.com/track/5uYBDSIUfUZ4B8ZgbpxNFs) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Chaka Chakalathi \(From "Galatta Kalyaanam"\)](https://open.spotify.com/album/6ngMEHSBHNt4KcgJwDhNEx) | 4:29 | 2021-12-01 |  |
 | [Chellamma \(From "Doctor"\)](https://open.spotify.com/track/0fGclndst25Qqy8j4u5De5) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Chellamma \(From "Doctor"\)](https://open.spotify.com/album/0ajbKuAGjGt7VBJeKpYyu8) | 3:56 | 2021-12-01 |  |
 | [Cute Ponnu](https://open.spotify.com/track/1Bpvh9xYlcxHkWJMQuiNiA) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Vivek Siva](https://open.spotify.com/artist/7B0eBcEyMXoyqBrVyj7gFD) | [Cute Ponnu \(From "Enna Solla Pogirai"\)](https://open.spotify.com/album/7fVDf5Unepx5UYSruu3xWw) | 4:35 | 2021-12-01 |  |
+| [Dancela Bodha Yethuda \(From "Brahmastra \(Tamil\)"\)](https://open.spotify.com/track/0NwcbjyO9BqBZFjila5t8s) | [Pritam Chakraborty](https://open.spotify.com/artist/73lZlzb36kvYW5UiLQyX3I), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Dancela Bodha Yethuda \[From "Brahmastra \(Tamil\)"\]](https://open.spotify.com/album/51utxoztb1E9FNwUJSc8zo) | 4:05 | 2022-09-05 |  |
 | [Dharala Prabhu Title Track](https://open.spotify.com/track/7MtK3lPdVPq2WGO6EWHB9V) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Dharala Prabhu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4O5iuMBSmUXMZIrBgx3LOG) | 3:19 | 2021-12-01 |  |
 | [Dippam Dappam](https://open.spotify.com/track/3LEMmV0BgtM7TaJk40PFZU) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Anthony Daasan](https://open.spotify.com/artist/1lDx24tVvy8JVKOVjnlJfv) | [Kaathuvaakula Rendu Kaadhal \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2bRyFTzMb2iz6yIlcon1uz) | 3:29 | 2022-04-28 |  |
 | [Edakku Modakku \(From "Naai Sekar"\)](https://open.spotify.com/track/5vrZxAYip2EmN7nvZE3UvX) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Sivakarthikeyan](https://open.spotify.com/artist/0jwbpxdhhQamNo79fFPVcr) | [Edakku Modakku \(From "Naai Sekar"\)](https://open.spotify.com/album/0yEnhyVVbO7StjERiZMwOX) | 3:09 | 2021-12-11 |  |

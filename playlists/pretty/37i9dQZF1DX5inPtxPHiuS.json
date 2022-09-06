@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Disfruta con los grandes del rock colombiano! Foto: Oh'laville",
-  "num_followers": 78496,
+  "num_followers": 78519,
   "original_name": "Rock Colombia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjA0NzcwMCwwMDAwMDAwMDVhOGM5OWVhOGQxMTRlMDY0MmExMjlhNjE1ZGYxYmU3",
+  "snapshot_id": "MTY1NjA0NzcwMCwwMDAwMDAwMGFmZTZjZTE5MTIwMmU1NDVkZDI0YWNjNTZjZjhlNjk2",
   "tracks": [
     {
       "added_at": "2022-06-24 05:15:00",
@@ -123,22 +123,6 @@
     {
       "added_at": "2022-06-24 05:15:00",
       "album": {
-        "name": "Mira Lo Que Me Hiciste Hacer",
-        "url": "https://open.spotify.com/album/2qrp8qjS2WuKEoj6a9AiXe"
-      },
-      "artists": [
-        {
-          "name": "Diamante El\u00e9ctrico",
-          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
-        }
-      ],
-      "duration_ms": 228543,
-      "name": "Su\u00e9ltame, Bogot\u00e1",
-      "url": "https://open.spotify.com/track/5J9ToBuIm9IqXea1zdwLgm"
-    },
-    {
-      "added_at": "2022-06-24 05:15:00",
-      "album": {
         "name": "Calidosound",
         "url": "https://open.spotify.com/album/02jSWAxa0OgylMZkHApDyj"
       },
@@ -155,18 +139,18 @@
     {
       "added_at": "2022-06-24 05:15:00",
       "album": {
-        "name": "Babel (Special Edition)",
-        "url": "https://open.spotify.com/album/1qDJZqRsBuvynficMP9CqK"
+        "name": "Mira Lo Que Me Hiciste Hacer",
+        "url": "https://open.spotify.com/album/2qrp8qjS2WuKEoj6a9AiXe"
       },
       "artists": [
         {
-          "name": "The Mills",
-          "url": "https://open.spotify.com/artist/7fcGiQtR6dTLwpQzrWsiJn"
+          "name": "Diamante El\u00e9ctrico",
+          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
         }
       ],
-      "duration_ms": 227369,
-      "name": "Lobo Hombre en Paris",
-      "url": "https://open.spotify.com/track/6wHbkqzDJqUsuXAzQgWH87"
+      "duration_ms": 228543,
+      "name": "Su\u00e9ltame, Bogot\u00e1",
+      "url": "https://open.spotify.com/track/5J9ToBuIm9IqXea1zdwLgm"
     },
     {
       "added_at": "2022-06-24 05:15:00",
@@ -215,6 +199,22 @@
       "duration_ms": 152386,
       "name": "Baracunatana",
       "url": "https://open.spotify.com/track/2dtYgxJAFZlf6RwbRijeIp"
+    },
+    {
+      "added_at": "2022-06-24 05:15:00",
+      "album": {
+        "name": "Babel (Special Edition)",
+        "url": "https://open.spotify.com/album/1qDJZqRsBuvynficMP9CqK"
+      },
+      "artists": [
+        {
+          "name": "The Mills",
+          "url": "https://open.spotify.com/artist/7fcGiQtR6dTLwpQzrWsiJn"
+        }
+      ],
+      "duration_ms": 227369,
+      "name": "Lobo Hombre en Paris",
+      "url": "https://open.spotify.com/track/6wHbkqzDJqUsuXAzQgWH87"
     },
     {
       "added_at": "2022-06-24 05:15:00",
@@ -287,22 +287,6 @@
     {
       "added_at": "2022-06-24 05:15:00",
       "album": {
-        "name": "Cent\u00e9simo Humano",
-        "url": "https://open.spotify.com/album/7t4Jq35hft0aD3CO5LnS9O"
-      },
-      "artists": [
-        {
-          "name": "Mad Tree",
-          "url": "https://open.spotify.com/artist/7ozAaEiZsgJUvQ8TDm6X1h"
-        }
-      ],
-      "duration_ms": 206225,
-      "name": "Alquimia",
-      "url": "https://open.spotify.com/track/6EpYwPKXRSvbiEzQleo3Ex"
-    },
-    {
-      "added_at": "2022-06-24 05:15:00",
-      "album": {
         "name": "Amor Biling\u00fce",
         "url": "https://open.spotify.com/album/2r5lhBiWdmah14tIjGxDfg"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 231262,
       "name": "De Madrugada",
       "url": "https://open.spotify.com/track/2BTIyjyThg5vaXiWBh9Vxj"
+    },
+    {
+      "added_at": "2022-06-24 05:15:00",
+      "album": {
+        "name": "Cent\u00e9simo Humano",
+        "url": "https://open.spotify.com/album/7t4Jq35hft0aD3CO5LnS9O"
+      },
+      "artists": [
+        {
+          "name": "Mad Tree",
+          "url": "https://open.spotify.com/artist/7ozAaEiZsgJUvQ8TDm6X1h"
+        }
+      ],
+      "duration_ms": 206225,
+      "name": "Alquimia",
+      "url": "https://open.spotify.com/track/6EpYwPKXRSvbiEzQleo3Ex"
     },
     {
       "added_at": "2022-06-24 05:15:00",
@@ -355,22 +355,6 @@
     {
       "added_at": "2022-06-24 05:15:00",
       "album": {
-        "name": "Sesiones 10.10 (En Vivo)",
-        "url": "https://open.spotify.com/album/39RUjOR8bOAvdCqlRRqQf4"
-      },
-      "artists": [
-        {
-          "name": "Superlitio",
-          "url": "https://open.spotify.com/artist/2zipzOx6MIp5B8fmxR7bLB"
-        }
-      ],
-      "duration_ms": 307040,
-      "name": "No S\u00e9 Si Volver\u00e1 (2010) - En Vivo",
-      "url": "https://open.spotify.com/track/4McZzvdbv5LiiCTab7ZfjV"
-    },
-    {
-      "added_at": "2022-06-24 05:15:00",
-      "album": {
         "name": "Nada que hablar (feat. Aterciopelados)",
         "url": "https://open.spotify.com/album/3NJno867gz0ZuAy8td5pRm"
       },
@@ -407,18 +391,18 @@
     {
       "added_at": "2022-06-24 05:15:00",
       "album": {
-        "name": "B (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/44TWj8mzWLC1KrlGQ7asNY"
+        "name": "Sesiones 10.10 (En Vivo)",
+        "url": "https://open.spotify.com/album/39RUjOR8bOAvdCqlRRqQf4"
       },
       "artists": [
         {
-          "name": "Diamante El\u00e9ctrico",
-          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
+          "name": "Superlitio",
+          "url": "https://open.spotify.com/artist/2zipzOx6MIp5B8fmxR7bLB"
         }
       ],
-      "duration_ms": 201853,
-      "name": "Todo Va a Arder",
-      "url": "https://open.spotify.com/track/00cMA5Xuinekqx8ui1Eixy"
+      "duration_ms": 307040,
+      "name": "No S\u00e9 Si Volver\u00e1 (2010) - En Vivo",
+      "url": "https://open.spotify.com/track/4McZzvdbv5LiiCTab7ZfjV"
     },
     {
       "added_at": "2022-06-24 05:15:00",
@@ -487,18 +471,18 @@
     {
       "added_at": "2022-06-24 05:15:00",
       "album": {
-        "name": "15 Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/0BKbOvXdF2QVXNwX63Iwbk"
+        "name": "B (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/44TWj8mzWLC1KrlGQ7asNY"
       },
       "artists": [
         {
-          "name": "Poligamia",
-          "url": "https://open.spotify.com/artist/3l8MpG7CL6zqYDBhbcNG1O"
+          "name": "Diamante El\u00e9ctrico",
+          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
         }
       ],
-      "duration_ms": 240293,
-      "name": "Desvanecer",
-      "url": "https://open.spotify.com/track/1M0OhNeH1RFJdam3cAVvQL"
+      "duration_ms": 201853,
+      "name": "Todo Va a Arder",
+      "url": "https://open.spotify.com/track/00cMA5Xuinekqx8ui1Eixy"
     },
     {
       "added_at": "2022-06-24 05:15:00",
@@ -519,18 +503,18 @@
     {
       "added_at": "2022-06-24 05:15:00",
       "album": {
-        "name": "Buitres",
-        "url": "https://open.spotify.com/album/0to2ICjzDMqXzRnuqdpyWL"
+        "name": "15 Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/0BKbOvXdF2QVXNwX63Iwbk"
       },
       "artists": [
         {
-          "name": "Diamante El\u00e9ctrico",
-          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
+          "name": "Poligamia",
+          "url": "https://open.spotify.com/artist/3l8MpG7CL6zqYDBhbcNG1O"
         }
       ],
-      "duration_ms": 235973,
-      "name": "Hacia la Noche",
-      "url": "https://open.spotify.com/track/5hYUEq039TJgnaft2WljmT"
+      "duration_ms": 240293,
+      "name": "Desvanecer",
+      "url": "https://open.spotify.com/track/1M0OhNeH1RFJdam3cAVvQL"
     },
     {
       "added_at": "2022-06-24 05:15:00",
@@ -555,6 +539,22 @@
       "duration_ms": 210378,
       "name": "Delirio",
       "url": "https://open.spotify.com/track/4iT2KQFHJHqbyOktqLkI23"
+    },
+    {
+      "added_at": "2022-06-24 05:15:00",
+      "album": {
+        "name": "Polvo Eres",
+        "url": "https://open.spotify.com/album/7HasLPPt3DSEI2CQENBMPQ"
+      },
+      "artists": [
+        {
+          "name": "La Derecha",
+          "url": "https://open.spotify.com/artist/7JNwRhdFj1nB8I1OKTHbCO"
+        }
+      ],
+      "duration_ms": 227665,
+      "name": "Emociones",
+      "url": "https://open.spotify.com/track/1yDCUaF1tojw8WjZUpY0Lp"
     },
     {
       "added_at": "2022-06-24 05:15:00",
@@ -587,22 +587,6 @@
       "duration_ms": 222185,
       "name": "Somos Coyotes",
       "url": "https://open.spotify.com/track/0RGuPZmtJxMblQwZIvcNsQ"
-    },
-    {
-      "added_at": "2022-06-24 05:15:00",
-      "album": {
-        "name": "Polvo Eres",
-        "url": "https://open.spotify.com/album/7HasLPPt3DSEI2CQENBMPQ"
-      },
-      "artists": [
-        {
-          "name": "La Derecha",
-          "url": "https://open.spotify.com/artist/7JNwRhdFj1nB8I1OKTHbCO"
-        }
-      ],
-      "duration_ms": 227665,
-      "name": "Emociones",
-      "url": "https://open.spotify.com/track/1yDCUaF1tojw8WjZUpY0Lp"
     },
     {
       "added_at": "2022-06-24 05:15:00",
@@ -655,18 +639,34 @@
     {
       "added_at": "2022-06-24 05:15:00",
       "album": {
-        "name": "Manglares (B-Sides) - EP",
-        "url": "https://open.spotify.com/album/7kug1J54BtHHJ8iJXagHnE"
+        "name": "Buitres",
+        "url": "https://open.spotify.com/album/0to2ICjzDMqXzRnuqdpyWL"
       },
       "artists": [
         {
-          "name": "TELEBIT",
-          "url": "https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI"
+          "name": "Diamante El\u00e9ctrico",
+          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
         }
       ],
-      "duration_ms": 218752,
-      "name": "Gemas",
-      "url": "https://open.spotify.com/track/2mBvyVRiv8hJBsSmZTNE8X"
+      "duration_ms": 235973,
+      "name": "Hacia la Noche",
+      "url": "https://open.spotify.com/track/5hYUEq039TJgnaft2WljmT"
+    },
+    {
+      "added_at": "2022-06-24 05:15:00",
+      "album": {
+        "name": "Anaranjado",
+        "url": "https://open.spotify.com/album/6pgtJt1lDEZmoOC2fhgD0Y"
+      },
+      "artists": [
+        {
+          "name": "Oh'laville",
+          "url": "https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7"
+        }
+      ],
+      "duration_ms": 196826,
+      "name": "Planetas",
+      "url": "https://open.spotify.com/track/3OAr3wALlfcBz88S1oyu0z"
     },
     {
       "added_at": "2022-06-24 05:15:00",
@@ -687,18 +687,18 @@
     {
       "added_at": "2022-06-24 05:15:00",
       "album": {
-        "name": "Anaranjado",
-        "url": "https://open.spotify.com/album/6pgtJt1lDEZmoOC2fhgD0Y"
+        "name": "Manglares (B-Sides) - EP",
+        "url": "https://open.spotify.com/album/7kug1J54BtHHJ8iJXagHnE"
       },
       "artists": [
         {
-          "name": "Oh'laville",
-          "url": "https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7"
+          "name": "TELEBIT",
+          "url": "https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI"
         }
       ],
-      "duration_ms": 196826,
-      "name": "Planetas",
-      "url": "https://open.spotify.com/track/3OAr3wALlfcBz88S1oyu0z"
+      "duration_ms": 218752,
+      "name": "Gemas",
+      "url": "https://open.spotify.com/track/2mBvyVRiv8hJBsSmZTNE8X"
     },
     {
       "added_at": "2022-06-24 05:15:00",
@@ -755,22 +755,6 @@
     {
       "added_at": "2022-06-24 05:15:00",
       "album": {
-        "name": "Cheap Universe",
-        "url": "https://open.spotify.com/album/6pfD8h8RpX8EZPPxb4WsNE"
-      },
-      "artists": [
-        {
-          "name": "V for Volume",
-          "url": "https://open.spotify.com/artist/2Sgo9dXRK6VKbAAMhmb3Zz"
-        }
-      ],
-      "duration_ms": 194409,
-      "name": "Cheap Universe",
-      "url": "https://open.spotify.com/track/2FnFyaDiJ5urwJHA0ENvZJ"
-    },
-    {
-      "added_at": "2022-06-24 05:15:00",
-      "album": {
         "name": "No Hay Mal Que Dure una Vida",
         "url": "https://open.spotify.com/album/6vz0U3riunxqTjYYQgOnu2"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 215287,
       "name": "Qu\u00e9date Cerca",
       "url": "https://open.spotify.com/track/7LRXAR7DVFB3cB95uqSJcQ"
+    },
+    {
+      "added_at": "2022-06-24 05:15:00",
+      "album": {
+        "name": "Cheap Universe",
+        "url": "https://open.spotify.com/album/6pfD8h8RpX8EZPPxb4WsNE"
+      },
+      "artists": [
+        {
+          "name": "V for Volume",
+          "url": "https://open.spotify.com/artist/2Sgo9dXRK6VKbAAMhmb3Zz"
+        }
+      ],
+      "duration_ms": 194409,
+      "name": "Cheap Universe",
+      "url": "https://open.spotify.com/track/2FnFyaDiJ5urwJHA0ENvZJ"
     },
     {
       "added_at": "2022-06-24 05:15:00",
@@ -947,22 +947,6 @@
     {
       "added_at": "2022-06-24 05:15:00",
       "album": {
-        "name": "Ma\u0301s Alla\u0301 del Tiempo",
-        "url": "https://open.spotify.com/album/2R2RPZT6Tor9gDv5hOFw8m"
-      },
-      "artists": [
-        {
-          "name": "Los Rolling Ruanas",
-          "url": "https://open.spotify.com/artist/1XPFAsXCMflKBKZuNIkru3"
-        }
-      ],
-      "duration_ms": 217640,
-      "name": "Ma\u0301s Alla\u0301 del Tiempo",
-      "url": "https://open.spotify.com/track/4YgKvNZkRFu7jcB36DsIO5"
-    },
-    {
-      "added_at": "2022-06-24 05:15:00",
-      "album": {
         "name": "The Mills 10 A\u00f1os (En Vivo) [Desde el Teatro Col\u00f3n]",
         "url": "https://open.spotify.com/album/2lVJ4bLhN3L3ytRkbr4dzm"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 306333,
       "name": "Guadalupe (En Vivo) [Desde el Teatro Col\u00f3n]",
       "url": "https://open.spotify.com/track/5gTdC8wTm0P9JwjCoOY04o"
+    },
+    {
+      "added_at": "2022-06-24 05:15:00",
+      "album": {
+        "name": "Ma\u0301s Alla\u0301 del Tiempo",
+        "url": "https://open.spotify.com/album/2R2RPZT6Tor9gDv5hOFw8m"
+      },
+      "artists": [
+        {
+          "name": "Los Rolling Ruanas",
+          "url": "https://open.spotify.com/artist/1XPFAsXCMflKBKZuNIkru3"
+        }
+      ],
+      "duration_ms": 217640,
+      "name": "Ma\u0301s Alla\u0301 del Tiempo",
+      "url": "https://open.spotify.com/track/4YgKvNZkRFu7jcB36DsIO5"
     },
     {
       "added_at": "2022-06-24 05:15:00",

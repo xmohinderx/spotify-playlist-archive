@@ -1,12 +1,12 @@
 {
   "description": "Sad instrumental and vocal jazz.",
-  "num_followers": 8838,
+  "num_followers": 8924,
   "original_name": "Sad Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjA2OTYwMCwwMDAwMDAwMDYyNzViZGY3MWM5YTQ5YjFlZjVjOTRkYmI3NzAyYzYw",
+  "snapshot_id": "MTY2MjA2OTYwMCwwMDAwMDAwMDEwNjI4YWZmNDg0YTlkNGVlNThlMGUzMDNlZDQ5N2M1",
   "tracks": [
     {
       "added_at": "2022-09-01 22:00:00",
@@ -235,6 +235,22 @@
     {
       "added_at": "2022-09-01 22:00:00",
       "album": {
+        "name": "Chet (Keepnews Collection)",
+        "url": "https://open.spotify.com/album/1MlU3WEMLbxw9d4B08AptQ"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 282053,
+      "name": "It Never Entered My Mind",
+      "url": "https://open.spotify.com/track/14ahpcc73FbLDHBOJvWk1m"
+    },
+    {
+      "added_at": "2022-09-01 22:00:00",
+      "album": {
         "name": "Stay Now",
         "url": "https://open.spotify.com/album/0sZT6GFJLAZH6NE8DEMsSO"
       },
@@ -267,22 +283,6 @@
       "duration_ms": 258226,
       "name": "I Miss You",
       "url": "https://open.spotify.com/track/4Hus6AQNHezUdbBKuo1aE8"
-    },
-    {
-      "added_at": "2022-09-01 22:00:00",
-      "album": {
-        "name": "Chet (Keepnews Collection)",
-        "url": "https://open.spotify.com/album/1MlU3WEMLbxw9d4B08AptQ"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 282053,
-      "name": "It Never Entered My Mind",
-      "url": "https://open.spotify.com/track/14ahpcc73FbLDHBOJvWk1m"
     },
     {
       "added_at": "2022-09-01 22:00:00",
@@ -323,22 +323,6 @@
       "duration_ms": 314763,
       "name": "I'll Keep Loving You",
       "url": "https://open.spotify.com/track/42q9VqB8ooQE5yn3mup3h8"
-    },
-    {
-      "added_at": "2022-09-01 22:00:00",
-      "album": {
-        "name": "From Left To Right (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1zzo0Z44x6Xkjhz4RMlGBG"
-      },
-      "artists": [
-        {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
-        }
-      ],
-      "duration_ms": 245000,
-      "name": "What Are You Doing The Rest Of Your Life?",
-      "url": "https://open.spotify.com/track/6fGqxkBPqoIq4SQ3mtbHMI"
     },
     {
       "added_at": "2022-09-01 22:00:00",
@@ -391,18 +375,18 @@
     {
       "added_at": "2022-09-01 22:00:00",
       "album": {
-        "name": "Correlations",
-        "url": "https://open.spotify.com/album/5nOt6TSNDJg8PUMhEb8nos"
+        "name": "From Left To Right (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1zzo0Z44x6Xkjhz4RMlGBG"
       },
       "artists": [
         {
-          "name": "Steve Davis",
-          "url": "https://open.spotify.com/artist/37SVnwHrnnfBR1Gb0Yq7GD"
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
         }
       ],
-      "duration_ms": 436000,
-      "name": "Peace",
-      "url": "https://open.spotify.com/track/4CLFbVUq0ccCuZr5Nka8AA"
+      "duration_ms": 245000,
+      "name": "What Are You Doing The Rest Of Your Life?",
+      "url": "https://open.spotify.com/track/6fGqxkBPqoIq4SQ3mtbHMI"
     },
     {
       "added_at": "2022-09-01 22:00:00",
@@ -427,18 +411,18 @@
     {
       "added_at": "2022-09-01 22:00:00",
       "album": {
-        "name": "You Must Believe In Spring (Remastered Version)",
-        "url": "https://open.spotify.com/album/2B583jxnkHmIyBU6Z8VlmI"
+        "name": "Correlations",
+        "url": "https://open.spotify.com/album/5nOt6TSNDJg8PUMhEb8nos"
       },
       "artists": [
         {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+          "name": "Steve Davis",
+          "url": "https://open.spotify.com/artist/37SVnwHrnnfBR1Gb0Yq7GD"
         }
       ],
-      "duration_ms": 343986,
-      "name": "You Must Believe In Spring",
-      "url": "https://open.spotify.com/track/17C96Rsq4f38eMuZRGtku6"
+      "duration_ms": 436000,
+      "name": "Peace",
+      "url": "https://open.spotify.com/track/4CLFbVUq0ccCuZr5Nka8AA"
     },
     {
       "added_at": "2022-09-01 22:00:00",
@@ -459,18 +443,34 @@
     {
       "added_at": "2022-09-01 22:00:00",
       "album": {
-        "name": "Hidden Beauty",
-        "url": "https://open.spotify.com/album/5gCvaaa6Kg8iimNzKMcyrF"
+        "name": "The Best Of Sidney Bechet",
+        "url": "https://open.spotify.com/album/1DNkzO3Wq6tXBmlg7Xrpj1"
       },
       "artists": [
         {
-          "name": "Triosence",
-          "url": "https://open.spotify.com/artist/2NxFqOk7uZCe0hxfohdWJX"
+          "name": "Sidney Bechet",
+          "url": "https://open.spotify.com/artist/1RsmXc1ZqW3WBs9iwxiSwk"
         }
       ],
-      "duration_ms": 243013,
-      "name": "Leave Me Here",
-      "url": "https://open.spotify.com/track/3odLwNmrGr91br8fhtrP1v"
+      "duration_ms": 252266,
+      "name": "Summertime",
+      "url": "https://open.spotify.com/track/4PN5gbJNYWx9yQ6hJepPbG"
+    },
+    {
+      "added_at": "2022-09-01 22:00:00",
+      "album": {
+        "name": "You Must Believe In Spring (Remastered Version)",
+        "url": "https://open.spotify.com/album/2B583jxnkHmIyBU6Z8VlmI"
+      },
+      "artists": [
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+        }
+      ],
+      "duration_ms": 343986,
+      "name": "You Must Believe In Spring",
+      "url": "https://open.spotify.com/track/17C96Rsq4f38eMuZRGtku6"
     },
     {
       "added_at": "2022-09-01 22:00:00",
@@ -491,6 +491,22 @@
     {
       "added_at": "2022-09-01 22:00:00",
       "album": {
+        "name": "Hidden Beauty",
+        "url": "https://open.spotify.com/album/5gCvaaa6Kg8iimNzKMcyrF"
+      },
+      "artists": [
+        {
+          "name": "Triosence",
+          "url": "https://open.spotify.com/artist/2NxFqOk7uZCe0hxfohdWJX"
+        }
+      ],
+      "duration_ms": 243013,
+      "name": "Leave Me Here",
+      "url": "https://open.spotify.com/track/3odLwNmrGr91br8fhtrP1v"
+    },
+    {
+      "added_at": "2022-09-01 22:00:00",
+      "album": {
         "name": "Giant Steps",
         "url": "https://open.spotify.com/album/1mws5azyWvnyPkaNZEDGa4"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 302240,
       "name": "Naima",
       "url": "https://open.spotify.com/track/0D5PNTs1HSYe2nHlHulJQw"
-    },
-    {
-      "added_at": "2022-09-01 22:00:00",
-      "album": {
-        "name": "The Best Of Sidney Bechet",
-        "url": "https://open.spotify.com/album/1DNkzO3Wq6tXBmlg7Xrpj1"
-      },
-      "artists": [
-        {
-          "name": "Sidney Bechet",
-          "url": "https://open.spotify.com/artist/1RsmXc1ZqW3WBs9iwxiSwk"
-        }
-      ],
-      "duration_ms": 252266,
-      "name": "Summertime",
-      "url": "https://open.spotify.com/track/4PN5gbJNYWx9yQ6hJepPbG"
     },
     {
       "added_at": "2022-09-01 22:00:00",
@@ -559,22 +559,6 @@
     {
       "added_at": "2022-09-01 22:00:00",
       "album": {
-        "name": "The Art of the Trio, Vol. 1",
-        "url": "https://open.spotify.com/album/3MIOYuA2uqGXFiwDbBK9Fc"
-      },
-      "artists": [
-        {
-          "name": "Brad Mehldau",
-          "url": "https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq"
-        }
-      ],
-      "duration_ms": 438426,
-      "name": "I Fall in Love Too Easily",
-      "url": "https://open.spotify.com/track/7kdPpPFzjLo8piKWbuQ0e4"
-    },
-    {
-      "added_at": "2022-09-01 22:00:00",
-      "album": {
         "name": "Encounter!",
         "url": "https://open.spotify.com/album/7DkZ2AIH5OifT32a1HLBK5"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 235400,
       "name": "Star-Crossed Lovers",
       "url": "https://open.spotify.com/track/390r0C8H4XIoKtk0kOnbrE"
+    },
+    {
+      "added_at": "2022-09-01 22:00:00",
+      "album": {
+        "name": "The Art of the Trio, Vol. 1",
+        "url": "https://open.spotify.com/album/3MIOYuA2uqGXFiwDbBK9Fc"
+      },
+      "artists": [
+        {
+          "name": "Brad Mehldau",
+          "url": "https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq"
+        }
+      ],
+      "duration_ms": 438426,
+      "name": "I Fall in Love Too Easily",
+      "url": "https://open.spotify.com/track/7kdPpPFzjLo8piKWbuQ0e4"
     },
     {
       "added_at": "2022-09-01 22:00:00",
@@ -739,6 +739,22 @@
     {
       "added_at": "2022-09-01 22:00:00",
       "album": {
+        "name": "Stan Getz Plays",
+        "url": "https://open.spotify.com/album/5J8t5L6DsSDEtcRLJZCp7b"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "duration_ms": 179160,
+      "name": "You Turned The Tables On Me",
+      "url": "https://open.spotify.com/track/02ZDihrLEri1ZOF5pla55f"
+    },
+    {
+      "added_at": "2022-09-01 22:00:00",
+      "album": {
         "name": "Changing Places",
         "url": "https://open.spotify.com/album/4572n5PFAccWTD3Aq3tw5g"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 505031,
       "name": "So In Love",
       "url": "https://open.spotify.com/track/1CML9iOr9Ht5LfYLYpra1A"
-    },
-    {
-      "added_at": "2022-09-01 22:00:00",
-      "album": {
-        "name": "Stan Getz Plays",
-        "url": "https://open.spotify.com/album/5J8t5L6DsSDEtcRLJZCp7b"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        }
-      ],
-      "duration_ms": 179160,
-      "name": "You Turned The Tables On Me",
-      "url": "https://open.spotify.com/track/02ZDihrLEri1ZOF5pla55f"
     },
     {
       "added_at": "2022-09-01 22:00:00",
@@ -955,22 +955,6 @@
     {
       "added_at": "2022-09-01 22:00:00",
       "album": {
-        "name": "Earfood",
-        "url": "https://open.spotify.com/album/4vuijqNCK71JTiACBmdCTo"
-      },
-      "artists": [
-        {
-          "name": "Roy Hargrove",
-          "url": "https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs"
-        }
-      ],
-      "duration_ms": 316866,
-      "name": "Speak Low",
-      "url": "https://open.spotify.com/track/2iJCVsNZAHFVaJhlLeXW00"
-    },
-    {
-      "added_at": "2022-09-01 22:00:00",
-      "album": {
         "name": "Jazz p\u00e5 svenska",
         "url": "https://open.spotify.com/album/6JAj80R40giQEAg3Le4CPE"
       },
@@ -987,18 +971,18 @@
     {
       "added_at": "2022-09-01 22:00:00",
       "album": {
-        "name": "Standards In Norway",
-        "url": "https://open.spotify.com/album/1mge7MpZUjYEUW04dTleUt"
+        "name": "Earfood",
+        "url": "https://open.spotify.com/album/4vuijqNCK71JTiACBmdCTo"
       },
       "artists": [
         {
-          "name": "Keith Jarrett Trio",
-          "url": "https://open.spotify.com/artist/3OJGG2blZ0c3YTOMSKZaHj"
+          "name": "Roy Hargrove",
+          "url": "https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs"
         }
       ],
-      "duration_ms": 403226,
-      "name": "Little Girl Blue",
-      "url": "https://open.spotify.com/track/4JvwftqbcCk6yW6i6Nypcx"
+      "duration_ms": 316866,
+      "name": "Speak Low",
+      "url": "https://open.spotify.com/track/2iJCVsNZAHFVaJhlLeXW00"
     },
     {
       "added_at": "2022-09-01 22:00:00",
@@ -1015,6 +999,38 @@
       "duration_ms": 233400,
       "name": "Little Person",
       "url": "https://open.spotify.com/track/4ahjjiW9EWNwJKiOcCjb12"
+    },
+    {
+      "added_at": "2022-09-01 22:00:00",
+      "album": {
+        "name": "Time Remembered",
+        "url": "https://open.spotify.com/album/4F1Rr08dCuQjaeTrho8qrX"
+      },
+      "artists": [
+        {
+          "name": "Bill Evans Trio",
+          "url": "https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS"
+        }
+      ],
+      "duration_ms": 335840,
+      "name": "Time Remembered - Live",
+      "url": "https://open.spotify.com/track/7wpeyD7ZlOmN4JGyEvfg38"
+    },
+    {
+      "added_at": "2022-09-01 22:00:00",
+      "album": {
+        "name": "Standards In Norway",
+        "url": "https://open.spotify.com/album/1mge7MpZUjYEUW04dTleUt"
+      },
+      "artists": [
+        {
+          "name": "Keith Jarrett Trio",
+          "url": "https://open.spotify.com/artist/3OJGG2blZ0c3YTOMSKZaHj"
+        }
+      ],
+      "duration_ms": 403226,
+      "name": "Little Girl Blue",
+      "url": "https://open.spotify.com/track/4JvwftqbcCk6yW6i6Nypcx"
     },
     {
       "added_at": "2022-09-01 22:00:00",
@@ -1047,22 +1063,6 @@
       "duration_ms": 374906,
       "name": "Melancholee - Remastered 2000/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/7evUA1KCKUv2cAxRU0hVDI"
-    },
-    {
-      "added_at": "2022-09-01 22:00:00",
-      "album": {
-        "name": "Time Remembered",
-        "url": "https://open.spotify.com/album/4F1Rr08dCuQjaeTrho8qrX"
-      },
-      "artists": [
-        {
-          "name": "Bill Evans Trio",
-          "url": "https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS"
-        }
-      ],
-      "duration_ms": 335840,
-      "name": "Time Remembered - Live",
-      "url": "https://open.spotify.com/track/7wpeyD7ZlOmN4JGyEvfg38"
     },
     {
       "added_at": "2022-09-01 22:00:00",
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2022-09-01 22:00:00",
       "album": {
+        "name": "Tribute",
+        "url": "https://open.spotify.com/album/2AUplxqaiqTaDpY9QsCgPx"
+      },
+      "artists": [
+        {
+          "name": "Keith Jarrett Trio",
+          "url": "https://open.spotify.com/artist/3OJGG2blZ0c3YTOMSKZaHj"
+        }
+      ],
+      "duration_ms": 506733,
+      "name": "Smoke Gets In Your Eyes - Live",
+      "url": "https://open.spotify.com/track/3FwzNfCgyYSIafAG9QGvRZ"
+    },
+    {
+      "added_at": "2022-09-01 22:00:00",
+      "album": {
         "name": "We Will Meet Again",
         "url": "https://open.spotify.com/album/16DXtVUqhsqxJvnqrDXmwt"
       },
@@ -1383,38 +1399,6 @@
     {
       "added_at": "2022-09-01 22:00:00",
       "album": {
-        "name": "Tribute",
-        "url": "https://open.spotify.com/album/2AUplxqaiqTaDpY9QsCgPx"
-      },
-      "artists": [
-        {
-          "name": "Keith Jarrett Trio",
-          "url": "https://open.spotify.com/artist/3OJGG2blZ0c3YTOMSKZaHj"
-        }
-      ],
-      "duration_ms": 506733,
-      "name": "Smoke Gets In Your Eyes - Live",
-      "url": "https://open.spotify.com/track/3FwzNfCgyYSIafAG9QGvRZ"
-    },
-    {
-      "added_at": "2022-09-01 22:00:00",
-      "album": {
-        "name": "Live In Milan",
-        "url": "https://open.spotify.com/album/4ZdAmHiOPchepAab6jksEo"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 298670,
-      "name": "My Old Flame",
-      "url": "https://open.spotify.com/track/3jWqSMKx3gamUrb2qIGBkG"
-    },
-    {
-      "added_at": "2022-09-01 22:00:00",
-      "album": {
         "name": "At the Edge of the World",
         "url": "https://open.spotify.com/album/3tRwejXlLIbZB8o6PHTM1n"
       },
@@ -1447,6 +1431,22 @@
     {
       "added_at": "2022-09-01 22:00:00",
       "album": {
+        "name": "Live In Milan",
+        "url": "https://open.spotify.com/album/4ZdAmHiOPchepAab6jksEo"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 298670,
+      "name": "My Old Flame",
+      "url": "https://open.spotify.com/track/3jWqSMKx3gamUrb2qIGBkG"
+    },
+    {
+      "added_at": "2022-09-01 22:00:00",
+      "album": {
         "name": "The Musings Of Miles",
         "url": "https://open.spotify.com/album/7fRwdr4MvqlJhhhssTKutU"
       },
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2022-09-01 22:00:00",
       "album": {
-        "name": "Whisper Not",
-        "url": "https://open.spotify.com/album/62mXx6KyfhkdLrLivZbe53"
-      },
-      "artists": [
-        {
-          "name": "Keith Jarrett Trio",
-          "url": "https://open.spotify.com/artist/3OJGG2blZ0c3YTOMSKZaHj"
-        }
-      ],
-      "duration_ms": 403760,
-      "name": "'Round Midnight - Live At Palais Des Congres, Paris / 1999",
-      "url": "https://open.spotify.com/track/55dXdlQMp4kxbN3z50CYJq"
-    },
-    {
-      "added_at": "2022-09-01 22:00:00",
-      "album": {
         "name": "The Secret Between the Shadow and the Soul",
         "url": "https://open.spotify.com/album/21Jrn9lGRwkXZyFz2bJjaf"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 526106,
       "name": "Conversation Among the Ruins",
       "url": "https://open.spotify.com/track/0tS5xy6W4dmRnhu6Lwu7EL"
+    },
+    {
+      "added_at": "2022-09-01 22:00:00",
+      "album": {
+        "name": "Whisper Not",
+        "url": "https://open.spotify.com/album/62mXx6KyfhkdLrLivZbe53"
+      },
+      "artists": [
+        {
+          "name": "Keith Jarrett Trio",
+          "url": "https://open.spotify.com/artist/3OJGG2blZ0c3YTOMSKZaHj"
+        }
+      ],
+      "duration_ms": 403760,
+      "name": "'Round Midnight - Live At Palais Des Congres, Paris / 1999",
+      "url": "https://open.spotify.com/track/55dXdlQMp4kxbN3z50CYJq"
     },
     {
       "added_at": "2022-09-01 22:00:00",
@@ -1587,6 +1587,50 @@
     {
       "added_at": "2022-09-01 22:00:00",
       "album": {
+        "name": "Quiet Nights of Quiet Songs",
+        "url": "https://open.spotify.com/album/371VzyXWti506VTodQfkf8"
+      },
+      "artists": [
+        {
+          "name": "Battista Lena",
+          "url": "https://open.spotify.com/artist/6tSsm1i1CJCa7A8UVD2KpO"
+        },
+        {
+          "name": "Andrea Rea Trio",
+          "url": "https://open.spotify.com/artist/1fVvnDjO9UR9VzEsRFCwfG"
+        },
+        {
+          "name": "Joe Rehmer",
+          "url": "https://open.spotify.com/artist/2X9guPdoOHugu34oKnxgWa"
+        },
+        {
+          "name": "Marcello Di Leonardo",
+          "url": "https://open.spotify.com/artist/4Nf1TXdpJFjkLmUgXdXeSU"
+        }
+      ],
+      "duration_ms": 375000,
+      "name": "I Fall in Love Too Easily",
+      "url": "https://open.spotify.com/track/5VQ5ZDPKpaqIcrgjgYkk8g"
+    },
+    {
+      "added_at": "2022-09-01 22:00:00",
+      "album": {
+        "name": "Sad Story",
+        "url": "https://open.spotify.com/album/7EozYiaqWtSWnQ1l0gaqVH"
+      },
+      "artists": [
+        {
+          "name": "Patrik Boman",
+          "url": "https://open.spotify.com/artist/6UJ3XmKfJ3nQmmfbkRRDxw"
+        }
+      ],
+      "duration_ms": 330124,
+      "name": "Sad Story",
+      "url": "https://open.spotify.com/track/6DK6hcOB6iCaXH3Bc8TqWb"
+    },
+    {
+      "added_at": "2022-09-01 22:00:00",
+      "album": {
         "name": "The Time is Now",
         "url": "https://open.spotify.com/album/6rbxPC5MijiKjZo5C7VPtd"
       },
@@ -1607,22 +1651,6 @@
       "duration_ms": 467236,
       "name": "In a Sentimental Mood",
       "url": "https://open.spotify.com/track/0fv2YFvTsKNLK0X7PNvXqM"
-    },
-    {
-      "added_at": "2022-09-01 22:00:00",
-      "album": {
-        "name": "Sad Story",
-        "url": "https://open.spotify.com/album/7EozYiaqWtSWnQ1l0gaqVH"
-      },
-      "artists": [
-        {
-          "name": "Patrik Boman",
-          "url": "https://open.spotify.com/artist/6UJ3XmKfJ3nQmmfbkRRDxw"
-        }
-      ],
-      "duration_ms": 330124,
-      "name": "Sad Story",
-      "url": "https://open.spotify.com/track/6DK6hcOB6iCaXH3Bc8TqWb"
     },
     {
       "added_at": "2022-09-01 22:00:00",
@@ -1687,34 +1715,6 @@
       "duration_ms": 530773,
       "name": "Cry Me a River - Live",
       "url": "https://open.spotify.com/track/1T1vnu1TrKqbscghZb4npM"
-    },
-    {
-      "added_at": "2022-09-01 22:00:00",
-      "album": {
-        "name": "Quiet Nights of Quiet Songs",
-        "url": "https://open.spotify.com/album/371VzyXWti506VTodQfkf8"
-      },
-      "artists": [
-        {
-          "name": "Battista Lena",
-          "url": "https://open.spotify.com/artist/6tSsm1i1CJCa7A8UVD2KpO"
-        },
-        {
-          "name": "Andrea Rea Trio",
-          "url": "https://open.spotify.com/artist/1fVvnDjO9UR9VzEsRFCwfG"
-        },
-        {
-          "name": "Joe Rehmer",
-          "url": "https://open.spotify.com/artist/2X9guPdoOHugu34oKnxgWa"
-        },
-        {
-          "name": "Marcello Di Leonardo",
-          "url": "https://open.spotify.com/artist/4Nf1TXdpJFjkLmUgXdXeSU"
-        }
-      ],
-      "duration_ms": 375000,
-      "name": "I Fall in Love Too Easily",
-      "url": "https://open.spotify.com/track/5VQ5ZDPKpaqIcrgjgYkk8g"
     },
     {
       "added_at": "2022-09-01 22:00:00",

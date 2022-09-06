@@ -1,12 +1,12 @@
 {
   "description": "A deep tribal sound, combining electronic elements and organic instrumentation, stemming from the folk music of Africa, Latin America and the Middle East.",
-  "num_followers": 638801,
+  "num_followers": 639030,
   "original_name": "Org\u00e1nica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjEyNzE4NywwMDAwMDAwMDI5ODA4YzZmY2M5ZDAwMzQ0ZGRkMmM4ZTBmODE5ZjA3",
+  "snapshot_id": "MTY2MjEyNzE4NywwMDAwMDAwMDllMDY2ZmFkMTY4ZWQxOGZjOGM5ZmZkZDhhNmIxZTQx",
   "tracks": [
     {
       "added_at": "2022-09-02 13:59:47",
@@ -43,6 +43,22 @@
     {
       "added_at": "2022-09-02 13:59:47",
       "album": {
+        "name": "Kaybola (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1zqTrfdQyPehpQFeowfgIm"
+      },
+      "artists": [
+        {
+          "name": "islandman",
+          "url": "https://open.spotify.com/artist/3So3vlAfrEh2FbpvG7sxO4"
+        }
+      ],
+      "duration_ms": 297918,
+      "name": "Sumeru",
+      "url": "https://open.spotify.com/track/2gL3yeSrVcdgYUgebT6TKN"
+    },
+    {
+      "added_at": "2022-09-02 13:59:47",
+      "album": {
         "name": "Aye Aye",
         "url": "https://open.spotify.com/album/5RK1I6kgXh0Hkkl034kltc"
       },
@@ -59,22 +75,6 @@
       "duration_ms": 240144,
       "name": "Aye Aye",
       "url": "https://open.spotify.com/track/3ZnHoSCItVMbFU8FhdjS7B"
-    },
-    {
-      "added_at": "2022-09-02 13:59:47",
-      "album": {
-        "name": "Kaybola (Deluxe Version)",
-        "url": "https://open.spotify.com/album/1zqTrfdQyPehpQFeowfgIm"
-      },
-      "artists": [
-        {
-          "name": "islandman",
-          "url": "https://open.spotify.com/artist/3So3vlAfrEh2FbpvG7sxO4"
-        }
-      ],
-      "duration_ms": 297918,
-      "name": "Sumeru",
-      "url": "https://open.spotify.com/track/2gL3yeSrVcdgYUgebT6TKN"
     },
     {
       "added_at": "2022-09-02 13:59:47",
@@ -347,22 +347,6 @@
     {
       "added_at": "2022-09-02 13:59:47",
       "album": {
-        "name": "Man Dies Alone",
-        "url": "https://open.spotify.com/album/3UMqCv5HqtHjRCTl4DAoPQ"
-      },
-      "artists": [
-        {
-          "name": "Depart",
-          "url": "https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy"
-        }
-      ],
-      "duration_ms": 279000,
-      "name": "Man Dies Alone - Short Version",
-      "url": "https://open.spotify.com/track/06uE6yOg0nc1HFTJWOhFYJ"
-    },
-    {
-      "added_at": "2022-09-02 13:59:47",
-      "album": {
         "name": "Ancestry",
         "url": "https://open.spotify.com/album/6oMwy9QzP1FzbKhR6BWABP"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 294661,
       "name": "El Dolor",
       "url": "https://open.spotify.com/track/5cm8VSk6Iqkp8F1cB2S0Iu"
+    },
+    {
+      "added_at": "2022-09-02 13:59:47",
+      "album": {
+        "name": "Man Dies Alone",
+        "url": "https://open.spotify.com/album/3UMqCv5HqtHjRCTl4DAoPQ"
+      },
+      "artists": [
+        {
+          "name": "Depart",
+          "url": "https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy"
+        }
+      ],
+      "duration_ms": 279000,
+      "name": "Man Dies Alone - Short Version",
+      "url": "https://open.spotify.com/track/06uE6yOg0nc1HFTJWOhFYJ"
     },
     {
       "added_at": "2022-09-02 13:59:47",
@@ -475,22 +475,6 @@
     {
       "added_at": "2022-09-02 13:59:47",
       "album": {
-        "name": "Star Tripper",
-        "url": "https://open.spotify.com/album/4bil9t1emZ5tMxChSU364V"
-      },
-      "artists": [
-        {
-          "name": "Depart",
-          "url": "https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy"
-        }
-      ],
-      "duration_ms": 293888,
-      "name": "Star Tripper",
-      "url": "https://open.spotify.com/track/17httCRML11JQcFn0ng40I"
-    },
-    {
-      "added_at": "2022-09-02 13:59:47",
-      "album": {
         "name": "Between Dreams and Reality EP",
         "url": "https://open.spotify.com/album/2UlAQEGL6LQ0G2KFP4x6e4"
       },
@@ -507,6 +491,38 @@
       "duration_ms": 528410,
       "name": "Between Dreams and Reality - Niko Schwind Remix",
       "url": "https://open.spotify.com/track/3YJIq3N5IQy1hhkmUnt2NM"
+    },
+    {
+      "added_at": "2022-09-02 13:59:47",
+      "album": {
+        "name": "Star Tripper",
+        "url": "https://open.spotify.com/album/4bil9t1emZ5tMxChSU364V"
+      },
+      "artists": [
+        {
+          "name": "Depart",
+          "url": "https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy"
+        }
+      ],
+      "duration_ms": 293888,
+      "name": "Star Tripper",
+      "url": "https://open.spotify.com/track/17httCRML11JQcFn0ng40I"
+    },
+    {
+      "added_at": "2022-09-02 13:59:47",
+      "album": {
+        "name": "Seymour",
+        "url": "https://open.spotify.com/album/2EkkCltldcB3bHm4V9PlmO"
+      },
+      "artists": [
+        {
+          "name": "Omeria",
+          "url": "https://open.spotify.com/artist/0Gn7ZHvOfbvZBxPoknZeYl"
+        }
+      ],
+      "duration_ms": 327750,
+      "name": "Seymour",
+      "url": "https://open.spotify.com/track/6DfvHDSDHyV9xMJznbq0uv"
     },
     {
       "added_at": "2022-09-02 13:59:47",
@@ -531,22 +547,6 @@
       "duration_ms": 470243,
       "name": "Alkebulan - David Mayer Remix",
       "url": "https://open.spotify.com/track/4Bl14xQWo7Q6jagOcPZ5mI"
-    },
-    {
-      "added_at": "2022-09-02 13:59:47",
-      "album": {
-        "name": "Seymour",
-        "url": "https://open.spotify.com/album/2EkkCltldcB3bHm4V9PlmO"
-      },
-      "artists": [
-        {
-          "name": "Omeria",
-          "url": "https://open.spotify.com/artist/0Gn7ZHvOfbvZBxPoknZeYl"
-        }
-      ],
-      "duration_ms": 327750,
-      "name": "Seymour",
-      "url": "https://open.spotify.com/track/6DfvHDSDHyV9xMJznbq0uv"
     },
     {
       "added_at": "2022-09-02 13:59:47",
@@ -795,6 +795,22 @@
     {
       "added_at": "2022-09-02 13:59:47",
       "album": {
+        "name": "Osam",
+        "url": "https://open.spotify.com/album/48YFswdVKWAErJjA6IArbb"
+      },
+      "artists": [
+        {
+          "name": "Tosca",
+          "url": "https://open.spotify.com/artist/0TYvluyvV1Es8lTHiBfnAn"
+        }
+      ],
+      "duration_ms": 482715,
+      "name": "Entrecote",
+      "url": "https://open.spotify.com/track/2MBPUcMpWL4EJ709876js0"
+    },
+    {
+      "added_at": "2022-09-02 13:59:47",
+      "album": {
         "name": "Words Don't Come Easy, Pt. 6",
         "url": "https://open.spotify.com/album/0MhcYIMgVVrf3dusIES3ej"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 400000,
       "name": "Can You See What I See",
       "url": "https://open.spotify.com/track/1EbwNU8Iz75oAHWW6mtVDe"
-    },
-    {
-      "added_at": "2022-09-02 13:59:47",
-      "album": {
-        "name": "Osam",
-        "url": "https://open.spotify.com/album/48YFswdVKWAErJjA6IArbb"
-      },
-      "artists": [
-        {
-          "name": "Tosca",
-          "url": "https://open.spotify.com/artist/0TYvluyvV1Es8lTHiBfnAn"
-        }
-      ],
-      "duration_ms": 482715,
-      "name": "Entrecote",
-      "url": "https://open.spotify.com/track/2MBPUcMpWL4EJ709876js0"
     },
     {
       "added_at": "2022-09-02 13:59:47",
@@ -851,38 +851,6 @@
     {
       "added_at": "2022-09-02 13:59:47",
       "album": {
-        "name": "Beli",
-        "url": "https://open.spotify.com/album/0EiBOtY4bFIadrgZTvAwQW"
-      },
-      "artists": [
-        {
-          "name": "Rialians on Earth",
-          "url": "https://open.spotify.com/artist/78h7VfOuRAnd6jtaEYQpg3"
-        }
-      ],
-      "duration_ms": 367636,
-      "name": "Novicani",
-      "url": "https://open.spotify.com/track/6slRjclAINlQeCkqjZkJQn"
-    },
-    {
-      "added_at": "2022-09-02 13:59:47",
-      "album": {
-        "name": "Quetzal",
-        "url": "https://open.spotify.com/album/0GB8eQGSI1PgdPqV7IrLMK"
-      },
-      "artists": [
-        {
-          "name": "Montezuma",
-          "url": "https://open.spotify.com/artist/6AgAUwug3IMyaejTUjnkhU"
-        }
-      ],
-      "duration_ms": 457843,
-      "name": "Quetzal",
-      "url": "https://open.spotify.com/track/3onp9CePJ7sNcJjIARM5YG"
-    },
-    {
-      "added_at": "2022-09-02 13:59:47",
-      "album": {
         "name": "Endless Forest",
         "url": "https://open.spotify.com/album/5EE1o6sPngmmoL68oGZcBb"
       },
@@ -899,6 +867,22 @@
     {
       "added_at": "2022-09-02 13:59:47",
       "album": {
+        "name": "Beli",
+        "url": "https://open.spotify.com/album/0EiBOtY4bFIadrgZTvAwQW"
+      },
+      "artists": [
+        {
+          "name": "Rialians on Earth",
+          "url": "https://open.spotify.com/artist/78h7VfOuRAnd6jtaEYQpg3"
+        }
+      ],
+      "duration_ms": 367636,
+      "name": "Novicani",
+      "url": "https://open.spotify.com/track/6slRjclAINlQeCkqjZkJQn"
+    },
+    {
+      "added_at": "2022-09-02 13:59:47",
+      "album": {
         "name": "Astavakra",
         "url": "https://open.spotify.com/album/1UjQXx7W5aoyUJi0wBgHZo"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 420215,
       "name": "Astavakra",
       "url": "https://open.spotify.com/track/2vW8K1C2Vj81beuKOvBdf9"
+    },
+    {
+      "added_at": "2022-09-02 13:59:47",
+      "album": {
+        "name": "Quetzal",
+        "url": "https://open.spotify.com/album/0GB8eQGSI1PgdPqV7IrLMK"
+      },
+      "artists": [
+        {
+          "name": "Montezuma",
+          "url": "https://open.spotify.com/artist/6AgAUwug3IMyaejTUjnkhU"
+        }
+      ],
+      "duration_ms": 457843,
+      "name": "Quetzal",
+      "url": "https://open.spotify.com/track/3onp9CePJ7sNcJjIARM5YG"
     },
     {
       "added_at": "2022-09-02 13:59:47",
@@ -1027,22 +1027,18 @@
     {
       "added_at": "2022-09-02 13:59:47",
       "album": {
-        "name": "Mona Ki Ngi Xica (Everything Counts Remix)",
-        "url": "https://open.spotify.com/album/2SuKOpLD4bk74dJzeXQDa5"
+        "name": "Minimuzikhol Benefit Compilation",
+        "url": "https://open.spotify.com/album/3vOUDYcIWNLFAZzeWvwZQ9"
       },
       "artists": [
         {
-          "name": "Bonga",
-          "url": "https://open.spotify.com/artist/0I6bdBR4Q7uoc3HI1OgI8C"
-        },
-        {
-          "name": "Everything Counts",
-          "url": "https://open.spotify.com/artist/6989AtiGTOvptl9xyAWQIG"
+          "name": "TUTAN",
+          "url": "https://open.spotify.com/artist/5tWW4zktUzz1kstvxZ2MMc"
         }
       ],
-      "duration_ms": 451375,
-      "name": "Mona Ki Ngi Xica - Everything Counts Remix",
-      "url": "https://open.spotify.com/track/0cFjfyfL6mVRb0dQn2XLBw"
+      "duration_ms": 366886,
+      "name": "Mazbata",
+      "url": "https://open.spotify.com/track/3Lg0Kn4AXZCRRYclJWh9ce"
     },
     {
       "added_at": "2022-09-02 13:59:47",
@@ -1063,18 +1059,22 @@
     {
       "added_at": "2022-09-02 13:59:47",
       "album": {
-        "name": "Minimuzikhol Benefit Compilation",
-        "url": "https://open.spotify.com/album/3vOUDYcIWNLFAZzeWvwZQ9"
+        "name": "Mona Ki Ngi Xica (Everything Counts Remix)",
+        "url": "https://open.spotify.com/album/2SuKOpLD4bk74dJzeXQDa5"
       },
       "artists": [
         {
-          "name": "TUTAN",
-          "url": "https://open.spotify.com/artist/5tWW4zktUzz1kstvxZ2MMc"
+          "name": "Bonga",
+          "url": "https://open.spotify.com/artist/0I6bdBR4Q7uoc3HI1OgI8C"
+        },
+        {
+          "name": "Everything Counts",
+          "url": "https://open.spotify.com/artist/6989AtiGTOvptl9xyAWQIG"
         }
       ],
-      "duration_ms": 366886,
-      "name": "Mazbata",
-      "url": "https://open.spotify.com/track/3Lg0Kn4AXZCRRYclJWh9ce"
+      "duration_ms": 451375,
+      "name": "Mona Ki Ngi Xica - Everything Counts Remix",
+      "url": "https://open.spotify.com/track/0cFjfyfL6mVRb0dQn2XLBw"
     },
     {
       "added_at": "2022-09-02 13:59:47",
