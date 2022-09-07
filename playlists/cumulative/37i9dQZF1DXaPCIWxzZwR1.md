@@ -4,7 +4,7 @@
 
 > next gen pop cover: Dove Cameron
 
-1,089 songs - 2 day 4 hr 54 min - [published](https://open.spotify.com/playlist/1MUGAYRMba2bUffdFFswRE)
+1,090 songs - 2 day 4 hr 59 min - [published](https://open.spotify.com/playlist/1MUGAYRMba2bUffdFFswRE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -494,6 +494,7 @@
 | [I Would've](https://open.spotify.com/track/54obxWf8kRI8TGtbX52YyJ) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [I Would've](https://open.spotify.com/album/3cy5gh8dUmMuzMJNSiNq3U) | 2:30 | 2022-05-20 | 2022-06-25 |
 | [I'm Dead \(feat\. jxdn\) \[From the Podcast “Prom In Hell”\]](https://open.spotify.com/track/6v3uCeZyBl3nygTVIRIMS6) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ), [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [I'm Dead \(feat\. jxdn\) \[From the Podcast “Prom In Hell”\]](https://open.spotify.com/album/1t9u3ZrWBilDu0SADcPbI2) | 2:38 | 2021-05-29 | 2021-06-26 |
 | [I'm Fine](https://open.spotify.com/track/27gRd0sbdd8cJdI6yx6dt8) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [I'm Fine](https://open.spotify.com/album/6NSFKf3tZ1bwV02jSJxGAg) | 2:16 | 2021-04-10 | 2021-06-05 |
+| [I'm In Love With You](https://open.spotify.com/track/0uBdQzKghx88d2Lp8SLFKJ) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [I'm In Love With You](https://open.spotify.com/album/3TI3FFFz3hKQfsL0izZ8JS) | 4:22 | 2022-09-06 |  |
 | [I'm not Pretty](https://open.spotify.com/track/4pBhTGnL5N5KqsyqU58jee) | [JESSIA](https://open.spotify.com/artist/6DdbeAeBlrYj8bNToZv4TY) | [I'm not Pretty](https://open.spotify.com/album/0gEzvwL2JVcY0HJbiOSvxL) | 1:58 | 2021-02-16\* | 2021-07-31 |
 | [I'm So Good at Lying \(feat\. Powfu & Thomas Reid\)](https://open.spotify.com/track/0tW3SDJmTyS3is8QXQ4z1q) | [Rxseboy](https://open.spotify.com/artist/1ScHz7wPPxVTEKsc9g3Z0c), [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Thomas Reid](https://open.spotify.com/artist/0dcxj82ddksd6tDDcJgbqo) | [I'm So Good at Lying \(feat\. Powfu & Thomas Reid\)](https://open.spotify.com/album/5gi5MTy0vTLuaONUjfAn9l) | 2:14 | 2021-08-21 | 2021-10-02 |
 | [i'm sorry, are you?](https://open.spotify.com/track/6ifyDNIdDnD3SHMuaYWwZc) | [LEEPA](https://open.spotify.com/artist/066IQRKXdi1o3b9yGxA2SD) | [i'm sorry, are you?](https://open.spotify.com/album/5dByCMRTHvtnkUEWNOvs56) | 2:57 | 2021-06-26 | 2021-08-05 |

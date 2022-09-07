@@ -404,6 +404,24 @@
     },
     {
       "album": {
+        "name": "Colors",
+        "url": "https://open.spotify.com/album/5YRZc34LMwheVAwDJX9u2x"
+      },
+      "artists": [
+        {
+          "name": "Earth Alliance",
+          "url": "https://open.spotify.com/artist/4u2F224Db72rESovXGKNGZ"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166500,
+      "name": "Dark Blue (Delta 124 Hz - 127 Hz)",
+      "url": "https://open.spotify.com/track/3XrAci11gTweKd4odCVBAO"
+    },
+    {
+      "album": {
         "name": "Deep Peace Delta Waves",
         "url": "https://open.spotify.com/album/1OT6hl83qmZsBQ2RzhIeCr"
       },
@@ -545,6 +563,24 @@
       "duration_ms": 249476,
       "name": "Delta 98.7-99.6Hz",
       "url": "https://open.spotify.com/track/2Gheo1PFDuVFA8RG1zCMKw"
+    },
+    {
+      "album": {
+        "name": "Binaural Air",
+        "url": "https://open.spotify.com/album/7dp6tirAcf60q6p48NsQwj"
+      },
+      "artists": [
+        {
+          "name": "Atoom",
+          "url": "https://open.spotify.com/artist/3rH1VXAVGu5RvvPrkWvTjL"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184616,
+      "name": "Delta Air 2 Hz",
+      "url": "https://open.spotify.com/track/1zK3i6SOS8jVVkSPbX1ZYI"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Eagle 陳天翺
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,211 likes - 124 songs - 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,216 likes - 124 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 | 7 | [映畫戲](https://open.spotify.com/track/3xytOvYxdRgxzTe2febX2w) | [P.R.O.J.E.C.T\. 9](https://open.spotify.com/artist/5vXHFDWT0spUFXucafkyV7), [txniyama](https://open.spotify.com/artist/7yF9Wm7cXDRKqJx1BhuGDf) | [映畫戲](https://open.spotify.com/album/6PQNtGtDIn9hIuxjCbLtSk) | 2:41 |
 | 8 | [Ghost City Daze](https://open.spotify.com/track/5Npj2l7dvTvICHnh6xwNTU) | [Hong Kong Express](https://open.spotify.com/artist/5kanrcJl2KaWNzmrIT58vf), [Dr\. Nakano](https://open.spotify.com/artist/2Ptqc8smKIVJcMy2RGpeAS) | [Ghost City Daze](https://open.spotify.com/album/6fbLAjb8XvG3PdEWBh8wVW) | 3:39 |
 | 9 | [hold on](https://open.spotify.com/track/1tOoCgu8aSXnB7eJxrKulV) | [jøno](https://open.spotify.com/artist/3oWQ3rSeKMRuEmbud3qBI4) | [hold on](https://open.spotify.com/album/0g4lKZRyv4ulV6HgVuaxKo) | 3:01 |
-| 10 | [LOOK AT ME](https://open.spotify.com/track/0q0J04NigVLzVEtTJ43Gtx) | [KALAI 家麗](https://open.spotify.com/artist/1TwAmYMVhBwnBdNVKCHsOT), [JOCELINE](https://open.spotify.com/artist/7JpBZy4NUF2irqBCpIg1N3), [J JELLY](https://open.spotify.com/artist/2PCXDqUnN9PhpASdlc3P9d) | [LOOK AT ME](https://open.spotify.com/album/4W86QzHSltzRLWcXnWkgjC) | 3:13 |
+| 10 | [LOOK AT ME](https://open.spotify.com/track/0q0J04NigVLzVEtTJ43Gtx) | [KALAI 家麗](https://open.spotify.com/artist/1TwAmYMVhBwnBdNVKCHsOT), [JOCELINE](https://open.spotify.com/artist/7JpBZy4NUF2irqBCpIg1N3), [J Jelly](https://open.spotify.com/artist/6P03BlZWRPQGNSyiauTllj) | [LOOK AT ME](https://open.spotify.com/album/4W86QzHSltzRLWcXnWkgjC) | 3:13 |
 | 11 | [PLUME](https://open.spotify.com/track/2sFrJpjaX0NZP6ci1Kiedb) | [TYNT](https://open.spotify.com/artist/4HB5A4ssKVSg8JcTkqLx2p) | [DUST](https://open.spotify.com/album/03dVL0JlffZRvTbLUqY5Ph) | 3:43 |
 | 12 | [Play](https://open.spotify.com/track/7lpPJlkx7gyfDSnMJrPLjJ) | [The Paisley Daze](https://open.spotify.com/artist/4uo2Q2JUeasRjRlxxQGu3h) | [Play](https://open.spotify.com/album/0L3Mc7E9XeqR18RzpY675C) | 2:41 |
 | 13 | [what would you say to your lost self](https://open.spotify.com/track/07jgeBRRxIA2FICXUouW5v) | [Thomas Ng](https://open.spotify.com/artist/2ZeeJPDvqzQ7c8iG3rRsyc), [DVRLENE](https://open.spotify.com/artist/1Rc0NV88mREBY1ZOP2lYq1) | [what would you say to your lost self](https://open.spotify.com/album/6qOGpqm3j0NzEhtHCJ9Law) | 2:50 |

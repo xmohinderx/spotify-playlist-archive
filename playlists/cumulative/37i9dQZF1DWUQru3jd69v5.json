@@ -598,6 +598,28 @@
     },
     {
       "album": {
+        "name": "BEVERLY",
+        "url": "https://open.spotify.com/album/0Pc4M6KqlXzvn18fhgqnzj"
+      },
+      "artists": [
+        {
+          "name": "LA PLATA",
+          "url": "https://open.spotify.com/artist/2Hb9O6tBkCp1zVmq1vR3KQ"
+        },
+        {
+          "name": "Silnyya",
+          "url": "https://open.spotify.com/artist/0MTV1wG5r8M1hTexjolpA5"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212723,
+      "name": "BEVERLY",
+      "url": "https://open.spotify.com/track/33nyVdbqYNoRymnGv8R0ht"
+    },
+    {
+      "album": {
         "name": "Big Don Dada",
         "url": "https://open.spotify.com/album/00Q0BOTspDIZXFgZ4qHAHG"
       },
@@ -2229,6 +2251,10 @@
         {
           "name": "Kuremino",
           "url": "https://open.spotify.com/artist/1V4Yspflqmghgh91FQJW9n"
+        },
+        {
+          "name": "Madfingerz",
+          "url": "https://open.spotify.com/artist/4VmOlyJsnQB93ZIGMO2XWo"
         }
       ],
       "date_added": "2022-07-21",
@@ -2391,7 +2417,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-07",
       "duration_ms": 164210,
       "name": "LA CANZONE DELLA SBORRA",
       "url": "https://open.spotify.com/track/1r36WzYRZ2qba069DHK71H"
@@ -2805,7 +2831,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-07",
       "duration_ms": 147000,
       "name": "Me",
       "url": "https://open.spotify.com/track/1IvTiiP4S4GncH5xxYpUxS"
@@ -2831,6 +2857,24 @@
       "duration_ms": 140505,
       "name": "Merce",
       "url": "https://open.spotify.com/track/07E65Obut2yA4w5QwjdVbK"
+    },
+    {
+      "album": {
+        "name": "Mexico",
+        "url": "https://open.spotify.com/album/7pVf3kW6pBORKlEjnAzTek"
+      },
+      "artists": [
+        {
+          "name": "N\u00e9za",
+          "url": "https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136068,
+      "name": "Mexico",
+      "url": "https://open.spotify.com/track/1aOZK97dwvvi3oaSBdGAXh"
     },
     {
       "album": {

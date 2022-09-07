@@ -1,12 +1,12 @@
 {
-  "description": "Only the hottest South African House and Dance singles out right now. Cover: <a href=\"https://open.spotify.com/artist/5gVxephJtTx5uMF26ZVptW?si=w5Sf3CMgQkG4HbK58xv_Pg\">Mobi Dixon</a>",
-  "num_followers": 52316,
+  "description": "Only the hottest South African House and Dance singles out right now. Cover: <a href=\"https://open.spotify.com/artist/3G1GDW2fFw536QyuZODfch?si=8TmBal5XSqG-qZh7-DAhgQ\">Lelowhatsgood</a>",
+  "num_followers": 52349,
   "original_name": "mint South Africa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjA2OTU0MCwwMDAwMDAwMGIwNmIyYmRmOGQ4OGZiMWNhMTNhNGYxMWUwZDgwOTMy",
+  "snapshot_id": "MTY2MjQ3MjA0NywwMDAwMDAwMGJiZDAzZmM5MTIyMzkwMTJkYzlhOWFlODg4NjcxZTRk",
   "tracks": [
     {
       "added_at": "2022-08-25 21:59:00",
@@ -27,6 +27,66 @@
       "duration_ms": 307950,
       "name": "3 In The Morning",
       "url": "https://open.spotify.com/track/1uGivKy4r1xbPbxhI6Jp3q"
+    },
+    {
+      "added_at": "2022-09-01 21:59:00",
+      "album": {
+        "name": "Demon's Kiss",
+        "url": "https://open.spotify.com/album/1zALwinBKIlQeJPbz39krA"
+      },
+      "artists": [
+        {
+          "name": "Lelowhatsgood",
+          "url": "https://open.spotify.com/artist/3G1GDW2fFw536QyuZODfch"
+        },
+        {
+          "name": "Dee Traits",
+          "url": "https://open.spotify.com/artist/78WiGrXy247kAziQ7GATKv"
+        }
+      ],
+      "duration_ms": 317419,
+      "name": "Demon's Kiss",
+      "url": "https://open.spotify.com/track/110Tyh7NIgA2SSR2gqG5v5"
+    },
+    {
+      "added_at": "2022-05-12 21:59:00",
+      "album": {
+        "name": "I Told You Not To Go",
+        "url": "https://open.spotify.com/album/2QzouCM5U0pe3FPiLcSG98"
+      },
+      "artists": [
+        {
+          "name": "Dave Audinary",
+          "url": "https://open.spotify.com/artist/6O7qXYxw1B8belOxZSwaNm"
+        },
+        {
+          "name": "The Colored",
+          "url": "https://open.spotify.com/artist/0vlWnOvNJ66cC55UwnHtdj"
+        }
+      ],
+      "duration_ms": 244420,
+      "name": "I Told You Not To Go",
+      "url": "https://open.spotify.com/track/6N3bqyU6KO3hqykGqJxUnf"
+    },
+    {
+      "added_at": "2022-05-19 21:59:00",
+      "album": {
+        "name": "Ebsuku",
+        "url": "https://open.spotify.com/album/15I3rxOfACdFyGiaCoDP9O"
+      },
+      "artists": [
+        {
+          "name": "Lebzin",
+          "url": "https://open.spotify.com/artist/5g0Z3S2S1jqM9wBCpM9VhA"
+        },
+        {
+          "name": "Echo Deep",
+          "url": "https://open.spotify.com/artist/3oQxXy7RkKmUAoo0sftSLU"
+        }
+      ],
+      "duration_ms": 245798,
+      "name": "Ebsuku - Radio Edit",
+      "url": "https://open.spotify.com/track/26v5GteKRWo2vpgRg5FkYk"
     },
     {
       "added_at": "2022-08-25 21:59:00",
@@ -53,80 +113,24 @@
       "url": "https://open.spotify.com/track/027f4IovyxzazHUnCWUoO9"
     },
     {
-      "added_at": "2022-05-19 21:59:00",
+      "added_at": "2022-07-28 21:59:00",
       "album": {
-        "name": "Ebsuku",
-        "url": "https://open.spotify.com/album/15I3rxOfACdFyGiaCoDP9O"
+        "name": "ARCADE 2",
+        "url": "https://open.spotify.com/album/0ZIrS00dQLvWC0lI01TEEw"
       },
       "artists": [
         {
-          "name": "Lebzin",
-          "url": "https://open.spotify.com/artist/5g0Z3S2S1jqM9wBCpM9VhA"
+          "name": "Citizen Deep",
+          "url": "https://open.spotify.com/artist/2Wcld3BQUXxWUYMmCJYyuM"
         },
         {
-          "name": "Echo Deep",
-          "url": "https://open.spotify.com/artist/3oQxXy7RkKmUAoo0sftSLU"
+          "name": "Umzulu Phaqa",
+          "url": "https://open.spotify.com/artist/6nStNfo8Gzsff8NcJl4mND"
         }
       ],
-      "duration_ms": 245798,
-      "name": "Ebsuku - Radio Edit",
-      "url": "https://open.spotify.com/track/26v5GteKRWo2vpgRg5FkYk"
-    },
-    {
-      "added_at": "2022-05-12 21:59:00",
-      "album": {
-        "name": "I Told You Not To Go",
-        "url": "https://open.spotify.com/album/2QzouCM5U0pe3FPiLcSG98"
-      },
-      "artists": [
-        {
-          "name": "Dave Audinary",
-          "url": "https://open.spotify.com/artist/6O7qXYxw1B8belOxZSwaNm"
-        },
-        {
-          "name": "The Colored",
-          "url": "https://open.spotify.com/artist/0vlWnOvNJ66cC55UwnHtdj"
-        }
-      ],
-      "duration_ms": 244420,
-      "name": "I Told You Not To Go",
-      "url": "https://open.spotify.com/track/6N3bqyU6KO3hqykGqJxUnf"
-    },
-    {
-      "added_at": "2022-03-31 21:59:00",
-      "album": {
-        "name": "All In You",
-        "url": "https://open.spotify.com/album/0YJOAYBMM8zEhcMNHnGe95"
-      },
-      "artists": [
-        {
-          "name": "Senior Oat",
-          "url": "https://open.spotify.com/artist/5cAwYPpCI9QI5V7N0mxUKw"
-        },
-        {
-          "name": "Kemy Chienda",
-          "url": "https://open.spotify.com/artist/21ubOXEDOMELSW2LDxG8HK"
-        }
-      ],
-      "duration_ms": 512182,
-      "name": "All In You",
-      "url": "https://open.spotify.com/track/75VD2d6BPTuESBrzRqD6xl"
-    },
-    {
-      "added_at": "2022-07-07 22:00:44",
-      "album": {
-        "name": "The Master",
-        "url": "https://open.spotify.com/album/55cCMbL9xkObFU7FOzOjKH"
-      },
-      "artists": [
-        {
-          "name": "Modjadeep.SA",
-          "url": "https://open.spotify.com/artist/6Ye2N93aETDONpWfyw7E8G"
-        }
-      ],
-      "duration_ms": 320590,
-      "name": "Spirit of Chapita",
-      "url": "https://open.spotify.com/track/3PljAdlLnYb9f1dQ3pVp59"
+      "duration_ms": 244250,
+      "name": "Gqizi Qakala (feat. Umzulu Phaqa)",
+      "url": "https://open.spotify.com/track/04PM7dqR53p4F6Jo4vJOg6"
     },
     {
       "added_at": "2022-06-21 08:57:20",
@@ -147,26 +151,6 @@
       "duration_ms": 375120,
       "name": "S'khanyisele",
       "url": "https://open.spotify.com/track/45B0hJinafl61IjK5WOqFA"
-    },
-    {
-      "added_at": "2022-07-28 21:59:00",
-      "album": {
-        "name": "ARCADE 2",
-        "url": "https://open.spotify.com/album/0ZIrS00dQLvWC0lI01TEEw"
-      },
-      "artists": [
-        {
-          "name": "Citizen Deep",
-          "url": "https://open.spotify.com/artist/2Wcld3BQUXxWUYMmCJYyuM"
-        },
-        {
-          "name": "Umzulu Phaqa",
-          "url": "https://open.spotify.com/artist/6nStNfo8Gzsff8NcJl4mND"
-        }
-      ],
-      "duration_ms": 244250,
-      "name": "Gqizi Qakala (feat. Umzulu Phaqa)",
-      "url": "https://open.spotify.com/track/04PM7dqR53p4F6Jo4vJOg6"
     },
     {
       "added_at": "2022-08-11 21:59:00",
@@ -193,28 +177,20 @@
       "url": "https://open.spotify.com/track/6FERFGC2KvPaXzv5exZD2I"
     },
     {
-      "added_at": "2022-09-01 21:59:00",
+      "added_at": "2022-07-07 22:00:44",
       "album": {
-        "name": "Nipe Penzi (feat. BATUNDI)",
-        "url": "https://open.spotify.com/album/2V93yvzdDtMKXS0fLCMdfs"
+        "name": "The Master",
+        "url": "https://open.spotify.com/album/55cCMbL9xkObFU7FOzOjKH"
       },
       "artists": [
         {
-          "name": "Punk Mbedzi",
-          "url": "https://open.spotify.com/artist/2QtRhwmMeDArLkKSwBHSvi"
-        },
-        {
-          "name": "Da Africa Deep",
-          "url": "https://open.spotify.com/artist/0DDzEXacqh3F5GGIwji59b"
-        },
-        {
-          "name": "Batundi",
-          "url": "https://open.spotify.com/artist/0K2Su3rHagcOMrBnIf2P9I"
+          "name": "Modjadeep.SA",
+          "url": "https://open.spotify.com/artist/6Ye2N93aETDONpWfyw7E8G"
         }
       ],
-      "duration_ms": 306131,
-      "name": "Nipe Penzi (feat. BATUNDI)",
-      "url": "https://open.spotify.com/track/1GnFzIi2u9M7t5jeeOYRAo"
+      "duration_ms": 320590,
+      "name": "Spirit of Chapita",
+      "url": "https://open.spotify.com/track/3PljAdlLnYb9f1dQ3pVp59"
     },
     {
       "added_at": "2022-08-25 21:59:00",
@@ -237,84 +213,28 @@
       "url": "https://open.spotify.com/track/0FngU0lVyh6dNPxN49Wo1B"
     },
     {
-      "added_at": "2022-07-14 22:36:17",
+      "added_at": "2022-09-01 21:59:00",
       "album": {
-        "name": "Lover",
-        "url": "https://open.spotify.com/album/01QoLhtw9fRGaQDkVtQdLR"
+        "name": "Nipe Penzi (feat. BATUNDI)",
+        "url": "https://open.spotify.com/album/2V93yvzdDtMKXS0fLCMdfs"
       },
       "artists": [
         {
-          "name": "Dwson",
-          "url": "https://open.spotify.com/artist/60ZIrIA1iT9NStXmdAuhjR"
+          "name": "Punk Mbedzi",
+          "url": "https://open.spotify.com/artist/2QtRhwmMeDArLkKSwBHSvi"
         },
         {
-          "name": "Jullian Gomes",
-          "url": "https://open.spotify.com/artist/1GG3lCU6RzggGm6w5GRQBi"
-        }
-      ],
-      "duration_ms": 426398,
-      "name": "Lover",
-      "url": "https://open.spotify.com/track/6JMJPX4sm1QEmsKDp18rjZ"
-    },
-    {
-      "added_at": "2022-08-18 21:59:00",
-      "album": {
-        "name": "Ntinga Ntaka",
-        "url": "https://open.spotify.com/album/6sOndSTzqdFQtNm4MBEKLa"
-      },
-      "artists": [
-        {
-          "name": "Supta",
-          "url": "https://open.spotify.com/artist/0ijOhiIUwe56EdrfG7dKuM"
+          "name": "Da Africa Deep",
+          "url": "https://open.spotify.com/artist/0DDzEXacqh3F5GGIwji59b"
         },
         {
-          "name": "THALITHA",
-          "url": "https://open.spotify.com/artist/2sl2F1s3TCR4FoFp5KOqLg"
-        },
-        {
-          "name": "OBIE",
-          "url": "https://open.spotify.com/artist/3n87awdctItEZJ7fWjlQtC"
+          "name": "Batundi",
+          "url": "https://open.spotify.com/artist/0K2Su3rHagcOMrBnIf2P9I"
         }
       ],
-      "duration_ms": 341704,
-      "name": "Ntinga Ntaka",
-      "url": "https://open.spotify.com/track/78ELbuKid579q8ip7sv7Vk"
-    },
-    {
-      "added_at": "2022-07-14 22:36:17",
-      "album": {
-        "name": "Don't Wanna Be Myself",
-        "url": "https://open.spotify.com/album/1ewQWghR0AV0TnBaMpT0Ml"
-      },
-      "artists": [
-        {
-          "name": "Pando G",
-          "url": "https://open.spotify.com/artist/4nbklwOZ5lnv1otsaaDJZg"
-        }
-      ],
-      "duration_ms": 525124,
-      "name": "Don't Wanna Be Myself",
-      "url": "https://open.spotify.com/track/5jJFXPFguqo6fZqqGggwuq"
-    },
-    {
-      "added_at": "2022-06-17 04:11:18",
-      "album": {
-        "name": "Bloody Samaritan (Sun-El Musician Remix)",
-        "url": "https://open.spotify.com/album/2PxvoawD4ty9UnZhWylV0o"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        },
-        {
-          "name": "Sun-El Musician",
-          "url": "https://open.spotify.com/artist/0W8WpLB5WoXLgiA193LXk6"
-        }
-      ],
-      "duration_ms": 202241,
-      "name": "Bloody Samaritan (Sun-El Musician Remix)",
-      "url": "https://open.spotify.com/track/78zI0cdKlSm8bmH8TWia6W"
+      "duration_ms": 306131,
+      "name": "Nipe Penzi (feat. BATUNDI)",
+      "url": "https://open.spotify.com/track/1GnFzIi2u9M7t5jeeOYRAo"
     },
     {
       "added_at": "2022-08-05 10:01:59",
@@ -343,6 +263,86 @@
       "duration_ms": 467120,
       "name": "Buya Faanaa",
       "url": "https://open.spotify.com/track/7ekBzUvEIfjA97jEfRN7QF"
+    },
+    {
+      "added_at": "2022-08-18 21:59:00",
+      "album": {
+        "name": "Ntinga Ntaka",
+        "url": "https://open.spotify.com/album/6sOndSTzqdFQtNm4MBEKLa"
+      },
+      "artists": [
+        {
+          "name": "Supta",
+          "url": "https://open.spotify.com/artist/0ijOhiIUwe56EdrfG7dKuM"
+        },
+        {
+          "name": "THALITHA",
+          "url": "https://open.spotify.com/artist/2sl2F1s3TCR4FoFp5KOqLg"
+        },
+        {
+          "name": "OBIE",
+          "url": "https://open.spotify.com/artist/3n87awdctItEZJ7fWjlQtC"
+        }
+      ],
+      "duration_ms": 341704,
+      "name": "Ntinga Ntaka",
+      "url": "https://open.spotify.com/track/78ELbuKid579q8ip7sv7Vk"
+    },
+    {
+      "added_at": "2022-06-17 04:11:18",
+      "album": {
+        "name": "Bloody Samaritan (Sun-El Musician Remix)",
+        "url": "https://open.spotify.com/album/2PxvoawD4ty9UnZhWylV0o"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "Sun-El Musician",
+          "url": "https://open.spotify.com/artist/0W8WpLB5WoXLgiA193LXk6"
+        }
+      ],
+      "duration_ms": 202241,
+      "name": "Bloody Samaritan (Sun-El Musician Remix)",
+      "url": "https://open.spotify.com/track/78zI0cdKlSm8bmH8TWia6W"
+    },
+    {
+      "added_at": "2022-07-14 22:36:17",
+      "album": {
+        "name": "Lover",
+        "url": "https://open.spotify.com/album/01QoLhtw9fRGaQDkVtQdLR"
+      },
+      "artists": [
+        {
+          "name": "Dwson",
+          "url": "https://open.spotify.com/artist/60ZIrIA1iT9NStXmdAuhjR"
+        },
+        {
+          "name": "Jullian Gomes",
+          "url": "https://open.spotify.com/artist/1GG3lCU6RzggGm6w5GRQBi"
+        }
+      ],
+      "duration_ms": 426398,
+      "name": "Lover",
+      "url": "https://open.spotify.com/track/6JMJPX4sm1QEmsKDp18rjZ"
+    },
+    {
+      "added_at": "2022-07-14 22:36:17",
+      "album": {
+        "name": "Don't Wanna Be Myself",
+        "url": "https://open.spotify.com/album/1ewQWghR0AV0TnBaMpT0Ml"
+      },
+      "artists": [
+        {
+          "name": "Pando G",
+          "url": "https://open.spotify.com/artist/4nbklwOZ5lnv1otsaaDJZg"
+        }
+      ],
+      "duration_ms": 525124,
+      "name": "Don't Wanna Be Myself",
+      "url": "https://open.spotify.com/track/5jJFXPFguqo6fZqqGggwuq"
     },
     {
       "added_at": "2022-08-18 21:59:00",
@@ -523,6 +523,26 @@
       "duration_ms": 403165,
       "name": "You & Me",
       "url": "https://open.spotify.com/track/6UIKoZhjBF57rijXtwgrfe"
+    },
+    {
+      "added_at": "2022-03-31 21:59:00",
+      "album": {
+        "name": "All In You",
+        "url": "https://open.spotify.com/album/0YJOAYBMM8zEhcMNHnGe95"
+      },
+      "artists": [
+        {
+          "name": "Senior Oat",
+          "url": "https://open.spotify.com/artist/5cAwYPpCI9QI5V7N0mxUKw"
+        },
+        {
+          "name": "Kemy Chienda",
+          "url": "https://open.spotify.com/artist/21ubOXEDOMELSW2LDxG8HK"
+        }
+      ],
+      "duration_ms": 512182,
+      "name": "All In You",
+      "url": "https://open.spotify.com/track/75VD2d6BPTuESBrzRqD6xl"
     },
     {
       "added_at": "2022-06-17 04:11:18",
@@ -1165,6 +1185,26 @@
       "url": "https://open.spotify.com/track/44cXNeeTCwuco12b9r2K7n"
     },
     {
+      "added_at": "2022-09-06 13:47:27",
+      "album": {
+        "name": "Warriors",
+        "url": "https://open.spotify.com/album/7ou0T1T2h5vOW5yz7p7LTl"
+      },
+      "artists": [
+        {
+          "name": "Xtremo Soul",
+          "url": "https://open.spotify.com/artist/0W0U93G2stUMMeI0T3fNnL"
+        },
+        {
+          "name": "TorQue MuziQ",
+          "url": "https://open.spotify.com/artist/3cGcpSU6lBKEV2kMFJb0zK"
+        }
+      ],
+      "duration_ms": 384845,
+      "name": "Warriors",
+      "url": "https://open.spotify.com/track/2P9gK2kFtgnivroCcfYBrL"
+    },
+    {
       "added_at": "2022-08-18 21:59:00",
       "album": {
         "name": "Take Me Away",
@@ -1379,26 +1419,6 @@
       "duration_ms": 437000,
       "name": "We Belong",
       "url": "https://open.spotify.com/track/2PDjawR6el9LThbchXimFt"
-    },
-    {
-      "added_at": "2022-09-01 21:59:00",
-      "album": {
-        "name": "Demon's Kiss",
-        "url": "https://open.spotify.com/album/1zALwinBKIlQeJPbz39krA"
-      },
-      "artists": [
-        {
-          "name": "Lelowhatsgood",
-          "url": "https://open.spotify.com/artist/3G1GDW2fFw536QyuZODfch"
-        },
-        {
-          "name": "Dee Traits",
-          "url": "https://open.spotify.com/artist/78WiGrXy247kAziQ7GATKv"
-        }
-      ],
-      "duration_ms": 317419,
-      "name": "Demon's Kiss",
-      "url": "https://open.spotify.com/track/110Tyh7NIgA2SSR2gqG5v5"
     },
     {
       "added_at": "2022-08-25 21:59:00",

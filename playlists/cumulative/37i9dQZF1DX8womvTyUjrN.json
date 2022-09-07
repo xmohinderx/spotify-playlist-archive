@@ -3434,6 +3434,28 @@
     },
     {
       "album": {
+        "name": "YA NO",
+        "url": "https://open.spotify.com/album/2sHKdDqfzkwXyVZoHVA4PZ"
+      },
+      "artists": [
+        {
+          "name": "Seven Kayne",
+          "url": "https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz"
+        },
+        {
+          "name": "Diablo",
+          "url": "https://open.spotify.com/artist/38cfgJjmUEknY8JKyFBipW"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226626,
+      "name": "YA NO",
+      "url": "https://open.spotify.com/track/2ubOm8LStEhv4CEiIOk01F"
+    },
+    {
+      "album": {
         "name": "\u00c1cido Sabor",
         "url": "https://open.spotify.com/album/6VUd6HAFSkMyUYxe26MOSh"
       },

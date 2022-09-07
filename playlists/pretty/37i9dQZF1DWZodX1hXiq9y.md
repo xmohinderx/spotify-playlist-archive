@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZodX1hXiq9y.md) - [plain]
 
 > The greatest saxophonists in jazz\. Cover: Charlie Parker
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,735 likes - 150 songs - 15 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,823 likes - 150 songs - 15 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

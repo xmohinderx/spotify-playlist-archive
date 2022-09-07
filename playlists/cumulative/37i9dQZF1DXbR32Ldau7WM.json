@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "The biggest rock artists in Japan right now! Cover: 9mm Parabellum Bullet",
+  "description": "The biggest rock artists in Japan right now! Cover: ONE OK ROCK",
   "name": "Big in Japan",
   "published_playlist_ids": [
     "58cr9qiZRcBgGXeUmGq6P3"
@@ -41,7 +41,7 @@
       ],
       "date_added": "2022-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-07",
       "duration_ms": 211841,
       "name": "1994",
       "url": "https://open.spotify.com/track/6qezNXHaGMPgZliOqx5Wqq"
@@ -131,7 +131,7 @@
       ],
       "date_added": "2022-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-07",
       "duration_ms": 246200,
       "name": "Apophenia",
       "url": "https://open.spotify.com/track/3QeJpeJmuIHnggfh17S42U"
@@ -1175,7 +1175,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-18",
+      "date_removed": null,
       "duration_ms": 224960,
       "name": "Hunter or Prey",
       "url": "https://open.spotify.com/track/1mSzEhQw7CH50j9e97un0V"
@@ -1287,7 +1287,7 @@
       ],
       "date_added": "2022-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-07",
       "duration_ms": 339866,
       "name": "In Your Pocket",
       "url": "https://open.spotify.com/track/7zVLnfbwom5vEHhHfNjv8c"
@@ -1305,7 +1305,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-07",
       "duration_ms": 230942,
       "name": "Is It Too Late?",
       "url": "https://open.spotify.com/track/2hIkxugVJfPd8FjXzLpOrt"
@@ -1377,7 +1377,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 179706,
       "name": "Just",
       "url": "https://open.spotify.com/track/648ultx75M4zzMpS7YDgVs"
@@ -1467,7 +1467,7 @@
       ],
       "date_added": "2022-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-07",
       "duration_ms": 212506,
       "name": "Kyo no Tsuzuki o",
       "url": "https://open.spotify.com/track/3GUxnsyhw0sBlHB5w0Y01o"
@@ -1579,7 +1579,7 @@
       ],
       "date_added": "2022-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-07",
       "duration_ms": 258333,
       "name": "LOVE LETTER FROM A DEAD END",
       "url": "https://open.spotify.com/track/39mgx6DZ7yCF2u0ygKkYjZ"
@@ -1813,7 +1813,7 @@
       ],
       "date_added": "2022-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-07",
       "duration_ms": 237712,
       "name": "Move on Fast",
       "url": "https://open.spotify.com/track/5W3EUo8Exi8WlAoSjuOeZ6"
@@ -2138,6 +2138,24 @@
     },
     {
       "album": {
+        "name": "POP",
+        "url": "https://open.spotify.com/album/7L6AfaXxN6UnKyUnrPV9co"
+      },
+      "artists": [
+        {
+          "name": "Chage",
+          "url": "https://open.spotify.com/artist/0bZz2doDk7VmeP4XL6szHe"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266092,
+      "name": "POP",
+      "url": "https://open.spotify.com/track/29KLMsYb7Bv4b6L4rBDbxL"
+    },
+    {
+      "album": {
         "name": "\"Psycho flowers\" \"Summer rain\"",
         "url": "https://open.spotify.com/album/1anvZ9uXENT23a2jg5I3kC"
       },
@@ -2149,7 +2167,7 @@
       ],
       "date_added": "2022-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-07",
       "duration_ms": 232040,
       "name": "Psycho flowers",
       "url": "https://open.spotify.com/track/7ojiNfzXOK27Uy2nXKovfE"
@@ -2385,7 +2403,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-18",
+      "date_removed": null,
       "duration_ms": 265420,
       "name": "Scratch",
       "url": "https://open.spotify.com/track/1ydPcEQXyiTD5FrK4oD7w8"
@@ -2461,6 +2479,24 @@
       "duration_ms": 204853,
       "name": "Sense",
       "url": "https://open.spotify.com/track/6Tav592Kp5bcrdoLlZbSfM"
+    },
+    {
+      "album": {
+        "name": "September",
+        "url": "https://open.spotify.com/album/3skQf6NwdlQXH0OvOfH4Rg"
+      },
+      "artists": [
+        {
+          "name": "androp",
+          "url": "https://open.spotify.com/artist/7n437ZdDaCzqjJDJ7WmbyX"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194784,
+      "name": "September",
+      "url": "https://open.spotify.com/track/4NAnGLls4LVlk1zOedIZV2"
     },
     {
       "album": {
@@ -3030,6 +3066,24 @@
     },
     {
       "album": {
+        "name": "Vandalize",
+        "url": "https://open.spotify.com/album/457jZPSKtrWepu8RKsHG1a"
+      },
+      "artists": [
+        {
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194695,
+      "name": "Vandalize - Japanese Version",
+      "url": "https://open.spotify.com/track/2nuDirYeA0wsYcFMgC7L8E"
+    },
+    {
+      "album": {
         "name": "10-feat",
         "url": "https://open.spotify.com/album/0fEuThtACeHQcSULrDR1ma"
       },
@@ -3117,7 +3171,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-06",
+      "date_removed": null,
       "duration_ms": 289600,
       "name": "yoake",
       "url": "https://open.spotify.com/track/71wrW2jUPnOX48WfMZRFfA"
@@ -3705,7 +3759,7 @@
       ],
       "date_added": "2022-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-07",
       "duration_ms": 269200,
       "name": "\u30af\u30c1\u30ca\u30b7\u306e\u82b1",
       "url": "https://open.spotify.com/track/6PQ3orVQCO2V6UFB2m22J5"
@@ -4013,6 +4067,24 @@
       "duration_ms": 217693,
       "name": "\u30ca\u30ab\u30de",
       "url": "https://open.spotify.com/track/38Xae6a4lqhRxVPhwpQdu8"
+    },
+    {
+      "album": {
+        "name": "\u98a8\u666f\u63cf\u51992002",
+        "url": "https://open.spotify.com/album/2fN7nYABUDtUmGBuBUbIIk"
+      },
+      "artists": [
+        {
+          "name": "Onsoku Line",
+          "url": "https://open.spotify.com/artist/6TTEfWEjAdpjbchHYfo62Q"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192133,
+      "name": "\u30ca\u30f3\u30d0\u30fc1",
+      "url": "https://open.spotify.com/track/40lwHVBXtwwwp41vIv4hz3"
     },
     {
       "album": {
@@ -4777,7 +4849,7 @@
       ],
       "date_added": "2022-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-07",
       "duration_ms": 251800,
       "name": "\u611b\u3092\u53eb\u3073\u305f\u3044",
       "url": "https://open.spotify.com/track/6JM4qxZKnnCaiVmhGMiZRI"
@@ -5383,7 +5455,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-05",
+      "date_removed": null,
       "duration_ms": 246506,
       "name": "\u7dd1\u9152",
       "url": "https://open.spotify.com/track/6OcssYxhXZ9pZAkcYfeEsU"
@@ -5419,7 +5491,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-24",
+      "date_removed": null,
       "duration_ms": 206471,
       "name": "\u8056\u8005",
       "url": "https://open.spotify.com/track/517o2A0yrq1wb0yZN6K8MB"

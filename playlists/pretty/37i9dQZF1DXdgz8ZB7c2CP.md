@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgz8ZB7c2CP.md) - [plain]
 
 > A sprinkle of bass, warm vocal drizzle, and dreamy <a href="spotify:genre:edm\_dance">dance music</a>\. Featuring new music by Pauline Herr.
 
-[Spotify](https://open.spotify.com/user/spotify) - 725,058 likes - 125 songs - 7 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 725,157 likes - 125 songs - 7 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,7 +119,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgz8ZB7c2CP.md) - [plain]
 | 109 | [The Gallery](https://open.spotify.com/track/709Id9rqQlqUKubz0dCN7S) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV), [Alex Arcoleo](https://open.spotify.com/artist/6JkBbOaS3boYr0jIeSj5eM) | [Rooms on the Ark](https://open.spotify.com/album/7p3Oql1lQymTJCpW9N7KoQ) | 3:30 |
 | 110 | [Possibilities](https://open.spotify.com/track/3GJP6nsQ2BVQErSsxrRDgB) | [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ) | [Possibilities](https://open.spotify.com/album/6z0UK4WmK0vrxVkbBR04do) | 2:55 |
 | 111 | [Radiate](https://open.spotify.com/track/1XGKJIMxvFfi9MCm9Csqlk) | [Fytch](https://open.spotify.com/artist/4A18NGfdKU0HrkmvVlPO7I) | [Radiate](https://open.spotify.com/album/0VMJK0P1iBQlD2hQ805lUv) | 2:50 |
-| 112 | [FeelSad](https://open.spotify.com/track/6R8jpmLBOxq5thYbA43bNj) | [Cudos](https://open.spotify.com/artist/1MUIsgpeFNcUbM5EXZvsnc), [Jake Neumar](https://open.spotify.com/artist/69weKTfYYEBofMntV36KPG) | [Extra\-Curriculars](https://open.spotify.com/album/5MySEGmD9wGBWLpyABGsBB) | 3:34 |
+| 112 | [FeelSad](https://open.spotify.com/track/6R8jpmLBOxq5thYbA43bNj) | [cudos](https://open.spotify.com/artist/1MUIsgpeFNcUbM5EXZvsnc), [Jake Neumar](https://open.spotify.com/artist/69weKTfYYEBofMntV36KPG) | [Extra\-Curriculars](https://open.spotify.com/album/5MySEGmD9wGBWLpyABGsBB) | 3:34 |
 | 113 | [Cosmopolitan](https://open.spotify.com/track/6oPoNJcfeXXBAjLwNmiVds) | [Luxage](https://open.spotify.com/artist/1ZUN1O63nFh4ajvR294QMW) | [Drive](https://open.spotify.com/album/5Jj425whuDpbmHTprH49gT) | 4:42 |
 | 114 | [Dish](https://open.spotify.com/track/5z9Kr86slPgEzTApULjoxy) | [Pheeno](https://open.spotify.com/artist/4C1Mbwae9oliXTKjl8vzbD) | [Dish](https://open.spotify.com/album/1zUmUJ2iSbCnafPoZRkSg1) | 2:17 |
 | 115 | [Sunburn \- Reimagined](https://open.spotify.com/track/0i27kJRbxmdzQzhVDJVgzO) | [DROELOE](https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA) | [Sunburn \(Reimagined\)](https://open.spotify.com/album/4B8VCnt9cXMBzQctzzEYDW) | 4:07 |

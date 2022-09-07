@@ -116,6 +116,24 @@
     },
     {
       "album": {
+        "name": "Ake",
+        "url": "https://open.spotify.com/album/23LxyHwGGCHfwBcSVZyiuk"
+      },
+      "artists": [
+        {
+          "name": "Haruhisa Tanaka",
+          "url": "https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127120,
+      "name": "Ake",
+      "url": "https://open.spotify.com/track/6zM0lTTy7Ws0BmZ8JIja47"
+    },
+    {
+      "album": {
         "name": "Alie",
         "url": "https://open.spotify.com/album/5Nv5TTeUU0SDZu3rn1nhwY"
       },

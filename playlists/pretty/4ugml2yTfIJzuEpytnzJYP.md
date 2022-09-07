@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4ugml2yTfIJzuEpytnzJYP.md) - [plain]
 
 > Lovingly updated every week\.  Make sure to click the heart 💓 to follow the playlist
 
-[An\-Ten\-Nae](https://open.spotify.com/user/124011761) - 5,379 likes - 33 songs - 2 hr 16 min
+[An\-Ten\-Nae](https://open.spotify.com/user/124011761) - 5,381 likes - 35 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,5 +41,7 @@ pretty - [cumulative](/playlists/cumulative/4ugml2yTfIJzuEpytnzJYP.md) - [plain]
 | 31 | [Moonlight \- Congi Remix](https://open.spotify.com/track/09yOiU24ERWd6jcQyNXbsM) | [ATYYA](https://open.spotify.com/artist/36NAuk7D3nO0JFfgZf3XI7), [Congi](https://open.spotify.com/artist/6q8R4RVlc4DZ1XElNLj6Ag) | [Moonlight](https://open.spotify.com/album/2xzuZynBxp4wpl8KAj692l) | 4:27 |
 | 32 | [Replicants \- J:Kenzo Remix](https://open.spotify.com/track/6oOSSVjIuD05mzC5fIDTlc) | [ENiGMA Dubz](https://open.spotify.com/artist/7ygSJBM6sZ0vXGJvjnL1V5), [J:Kenzo](https://open.spotify.com/artist/2vnlhEYTh2K1O3NZE2ONiz) | [Replicants \(J:Kenzo Remix\)](https://open.spotify.com/album/0bX0KGunfUX7hriWuf0Fe1) | 5:18 |
 | 33 | [Book of Vizhanti](https://open.spotify.com/track/0LF3Ij102kXw5o4DbrPhq2) | [Austeria](https://open.spotify.com/artist/15VvV8dnWKZBNufin6LzzS), [Zingara](https://open.spotify.com/artist/5LxbXRVEMOw6i1WSa2YQn1) | [Book of Vizhanti](https://open.spotify.com/album/6vsQTvgx7q1ZAwAJelr5oa) | 2:06 |
+| 34 | [Telling Me Nothing](https://open.spotify.com/track/4oZzKl23R31U9yhCtXaC7x) | [Mystic State](https://open.spotify.com/artist/052KAntc3fhUFwUgewa3Q4), [Method Sound](https://open.spotify.com/artist/3bdo0nDKT9KoqHhmJiowqT), [Elysia Grace](https://open.spotify.com/artist/1ictFFBiAtEwfywuzl27YV) | [Stutter \- EP](https://open.spotify.com/album/2ywexsHX1MUToJaByaEYYQ) | 5:08 |
+| 35 | [Ninguém Dorme](https://open.spotify.com/track/5tIpJGqrC8YO8uiHSzSfuR) | [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI), [Tropkillaz](https://open.spotify.com/artist/5bzWtCkjIAMgN93gLt56SO), [MC Lan](https://open.spotify.com/artist/4mb1xtQVGSK5dh8AbtwBiR) | [Ninguém Dorme](https://open.spotify.com/album/2eGxYv7zADneONCCZDtxR8) | 2:07 |
 
-Snapshot ID: `MTkzNSwzZjQzNDhkZjIyZjZmNTZhOGJjNDMzZDllNDU2M2RiYjZkOTVlNjVm`
+Snapshot ID: `MTkzNywxOTI1NzA3NzA0MDQwNzg1MDYwMWI5NDQxNTZkZWVmOGJmZWZhZGQw`

@@ -1,12 +1,12 @@
 {
   "description": "Fresh releases from Latin independent artists and labels. Lanzamientos frescos de artistas y sellos latinxs independientes. LA LOU on cover.",
-  "num_followers": 166350,
+  "num_followers": 166357,
   "original_name": "Fresh Finds Latin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTk2MTYwMCwwMDAwMDAwMDg4NTk1YWQ2ZmU4MzIyMTYzOWNhYzljOGJjNWZjNzE4",
+  "snapshot_id": "MTY2MTk2MTYwMCwwMDAwMDAwMDUxYzcwNDFiMDlhMGFkNTM5YjQ2NGQ4OGM5ODU1ZmNh",
   "tracks": [
     {
       "added_at": "2022-08-31 16:00:00",
@@ -523,22 +523,6 @@
     {
       "added_at": "2022-08-31 16:00:00",
       "album": {
-        "name": "Yung Pradito",
-        "url": "https://open.spotify.com/album/6Z7YrnAM7M55RZUZFiJI8b"
-      },
-      "artists": [
-        {
-          "name": "YUNG PRADO",
-          "url": "https://open.spotify.com/artist/0U0zpa0tZ4iAV6ypdDUm4I"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "Quiero Volver a Repetir",
-      "url": "https://open.spotify.com/track/0exxyQo6ZszQWb4K7i4uZx"
-    },
-    {
-      "added_at": "2022-08-31 16:00:00",
-      "album": {
         "name": "No Aguanto el Calor",
         "url": "https://open.spotify.com/album/3GCeHjcKXUKDNag52Mj9PB"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 197647,
       "name": "Mixta",
       "url": "https://open.spotify.com/track/5FfPTznt4H4MC4C0IyvM3H"
+    },
+    {
+      "added_at": "2022-08-31 16:00:00",
+      "album": {
+        "name": "Yung Pradito",
+        "url": "https://open.spotify.com/album/2JQRLKGv6KJ9FKVT9GzbG6"
+      },
+      "artists": [
+        {
+          "name": "YUNG PRADO",
+          "url": "https://open.spotify.com/artist/0U0zpa0tZ4iAV6ypdDUm4I"
+        }
+      ],
+      "duration_ms": 238000,
+      "name": "Quiero Volver a Repetir",
+      "url": "https://open.spotify.com/track/5Ts3L0IOOkzuIfVIzp3xfo"
     }
   ],
   "unique_name": "Fresh Finds Latin",

@@ -2,13 +2,13 @@
 
 ### [EQUAL Hong Kong](https://open.spotify.com/playlist/37i9dQZF1DX6W1YbI0Nbnc)
 
-> 一起感受香港製造的女聲力量！\(cover: COLLAR\)
+> 一起感受香港製造的女聲力量！\(cover: Gin Lee\)
 
-191 songs - 12 hr 21 min - [published](https://open.spotify.com/playlist/3fyf9kJjwMb77gM8igxXJz)
+193 songs - 12 hr 28 min - [published](https://open.spotify.com/playlist/3fyf9kJjwMb77gM8igxXJz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [\#BFF](https://open.spotify.com/track/5VrbILRmANTTIhWT3Pob06) | [Chantel 姚焯菲](https://open.spotify.com/artist/1MlkzLE28NFMVQZpydkBsq) | [\#BFF](https://open.spotify.com/album/6sImQjecKXNjZlkljV5TKM) | 4:08 | 2022-08-02 |  |
+| [\#BFF](https://open.spotify.com/track/5VrbILRmANTTIhWT3Pob06) | [Chantel 姚焯菲](https://open.spotify.com/artist/1MlkzLE28NFMVQZpydkBsq) | [\#BFF](https://open.spotify.com/album/6sImQjecKXNjZlkljV5TKM) | 4:08 | 2022-08-02 | 2022-09-07 |
 | [10,000ft.](https://open.spotify.com/track/0B7Bmgk2EIogEnhLz6gqRI) | [Kiri T](https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5) | [CHILI T](https://open.spotify.com/album/6zyVqxhbcRIa7nCyUobInO) | 3:41 | 2022-03-07 | 2022-05-04 |
 | [13樓的大笨象](https://open.spotify.com/track/1Cn2n7LpjpiElg6IyKB9id) | [Stephanie Cheng](https://open.spotify.com/artist/6qAoh45c4dsSqxNhp845SQ) | [13樓的大笨象](https://open.spotify.com/album/6y2TBcXA2wSWi1FsSCZDPq) | 4:53 | 2022-03-07 | 2022-08-03 |
 | [830](https://open.spotify.com/track/3YC4FwGXLyjcn9zHGp1n3s) | [Claudia Koh](https://open.spotify.com/artist/4F8VvBAkQDTQ8K2tKm9iSx) | [Chapter 0](https://open.spotify.com/album/3TOnz47hVLJFHzC4Cz7B3U) | 3:23 | 2022-03-07 | 2022-04-06 |
@@ -91,9 +91,10 @@
 | [到了那裏就對吧](https://open.spotify.com/track/21ENVTzs1QqHLn8bNygoGD) | [Cloud 雲浩影](https://open.spotify.com/artist/4LM4l7LiE1ulVQ32zZTtJk) | [到了那裏就對吧](https://open.spotify.com/album/6AIYlSiFW4giKz0GWlLhxE) | 4:14 | 2022-08-02 |  |
 | [到時見 \(Acoustic Version\)](https://open.spotify.com/track/23I26HyXJO6i9PH8BJKpQL) | [Sabrina Cheung 張蔓莎](https://open.spotify.com/artist/5EFPewjksQrnI87VOsvFHh) | [到時見 \(Acoustic Version\)](https://open.spotify.com/album/1DnNwfhdTujJLKUSeGU4oY) | 2:27 | 2022-08-02 |  |
 | [剎那的](https://open.spotify.com/track/5fWhLh6uQV0BPTHdL9oKSX) | [Sabrina Cheung 張蔓莎](https://open.spotify.com/artist/5EFPewjksQrnI87VOsvFHh) | [剎那的](https://open.spotify.com/album/3IaNjSRQfoCKfU9Ozorkmf) | 3:00 | 2022-08-02 |  |
+| [剛好](https://open.spotify.com/track/2glEQhYzV4hvVM5tTuKzI2) | [Gin Lee](https://open.spotify.com/artist/0UtXMxHMXhwQUI6G6TFDt1) | [Time & Faith](https://open.spotify.com/album/4kVnFSELfabAHeMobiNSGv) | 3:49 | 2022-09-06 |  |
 | [勿念](https://open.spotify.com/track/7jo1ash37IUB5NyviV7ajO) | [Yoyo Sham](https://open.spotify.com/artist/2OrCYFzQYE1TmevdYARnU1) | [勿念](https://open.spotify.com/album/09P4na1xZen1gwM63oVMGH) | 3:26 | 2022-03-07 |  |
 | [印象](https://open.spotify.com/track/3gfm2zOE9ZwsiKh36mPjpY) | [Ivana Wong](https://open.spotify.com/artist/27WDr8Ky1j0LtgY82Ttk5S) | [印象](https://open.spotify.com/album/4ynS04kn3rXnCvOJ9wFXmm) | 3:53 | 2022-03-07 | 2022-08-03 |
-| [原來談戀愛是這麼一回事](https://open.spotify.com/track/6TJOXAyqTtq6Xvk1qHoleJ) | [Chantel 姚焯菲](https://open.spotify.com/artist/1MlkzLE28NFMVQZpydkBsq) | [原來談戀愛是這麼一回事](https://open.spotify.com/album/41qU1Np9lsLmB0o1e4sQql) | 3:29 | 2022-08-02 |  |
+| [原來談戀愛是這麼一回事](https://open.spotify.com/track/6TJOXAyqTtq6Xvk1qHoleJ) | [Chantel 姚焯菲](https://open.spotify.com/artist/1MlkzLE28NFMVQZpydkBsq) | [原來談戀愛是這麼一回事](https://open.spotify.com/album/41qU1Np9lsLmB0o1e4sQql) | 3:29 | 2022-08-02 | 2022-09-07 |
 | [只想你記得](https://open.spotify.com/track/2CZDMyih2ayqPoe9Ccw2e7) | [Jinny Ng](https://open.spotify.com/artist/03OP7wr6EAMFBmDiaRsdbf) | [只想你記得](https://open.spotify.com/album/28HSqRdjcCF4tHGwbXH10K) | 3:13 | 2022-01-04 | 2022-03-08 |
 | [吳哥窟](https://open.spotify.com/track/1BFpJoAPByexBgJ5z7CDHZ) | [Kary Ng](https://open.spotify.com/artist/3B9ZmIcte26paTCaI1PFKE) | [我本人](https://open.spotify.com/album/73eNXN2VJcoEasWmWp4IX8) | 3:43 | 2021-12-07 | 2022-01-05 |
 | [告別式](https://open.spotify.com/track/4fxdfsuH7iUDixsF3IO8PA) | [iii](https://open.spotify.com/artist/3pQeUO1dZJCsibkawRfUYT) | [告別式](https://open.spotify.com/album/60TuWoX4pXkaqjjadnYQxp) | 4:57 | 2021-12-07 | 2022-01-05 |
@@ -179,6 +180,7 @@
 | [荊棘海\(三生石版\)](https://open.spotify.com/track/5r2CyKElH6fqAVMNN3OKfG) | [Vincy Chan](https://open.spotify.com/artist/1ehwpBADazgPy9ypV77FMx) | [荊棘海\(三生石版\)](https://open.spotify.com/album/3f6891HPS0e44ouJGTyaoA) | 4:19 | 2022-01-04 | 2022-02-03 |
 | [葉落冰川](https://open.spotify.com/track/3jxj7O93SLRCAsBIviq3IH) | [Vincy Chan](https://open.spotify.com/artist/1ehwpBADazgPy9ypV77FMx) | [葉落冰川](https://open.spotify.com/album/05XwwNdSaXEovmHokmE53P) | 4:22 | 2022-02-02 |  |
 | [著地 \(劇集《男排女將》主題曲\)](https://open.spotify.com/track/18EQCFmlUF3N33s2KHYLcV) | [Stephy Tang](https://open.spotify.com/artist/4ujntV2BGRi7X4UbCmTFX0) | [著地 \(劇集《男排女將》主題曲\)](https://open.spotify.com/album/1Tes4fMM6e2DMXgp6wqhHL) | 4:04 | 2021-12-07 | 2022-01-05 |
+| [虛榮](https://open.spotify.com/track/5puEYsEdjTrlUmnjSNfR2u) | [Gin Lee](https://open.spotify.com/artist/0UtXMxHMXhwQUI6G6TFDt1) | [Time & Faith](https://open.spotify.com/album/4kVnFSELfabAHeMobiNSGv) | 3:52 | 2022-09-06 |  |
 | [蛻變](https://open.spotify.com/track/5gMQK1pPa0Oupz8FerPIkA) | [鍾雨璇](https://open.spotify.com/artist/6h12jcWTZlK0p8ZBnwgaxV) | [蛻變](https://open.spotify.com/album/1fDPVnRJq129OLOjRWB8sj) | 5:06 | 2021-12-07 | 2022-01-05 |
 | [螢](https://open.spotify.com/track/111XCn6D3kos4uoJqeVktm) | [Sammi Cheng](https://open.spotify.com/artist/3XCnp5UV5wnNw49Xuka9qH) | [Listen To Mi](https://open.spotify.com/album/1dSQj1GKXlEGZSWH1rpwsK) | 4:00 | 2021-12-07 | 2022-01-05 |
 | [誰的青春不迷惘](https://open.spotify.com/track/211ln6kgHK4KyDY84PR4VE) | [勞嘉怡](https://open.spotify.com/artist/7us9fNYj5thWezaqHDhgxu) | [誰的青春不迷惘](https://open.spotify.com/album/0QhSdns2Vy3iX6LWtUdNLD) | 3:30 | 2022-03-07 | 2022-08-03 |

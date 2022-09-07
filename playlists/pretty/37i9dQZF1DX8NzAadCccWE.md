@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NzAadCccWE.md) - [plain]
 
 > SHERELLE's favorite tracks\. Updated regularly\. Curated by SHERELLE\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,793 likes - 60 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,807 likes - 60 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NzAadCccWE.md) - [plain]
 | 35 | [Reflexing](https://open.spotify.com/track/4sBNpi9myyhXicC1Gae2kQ) | [Doctor Jeep](https://open.spotify.com/artist/1vBAyx7wNfBDrAmWsGDRdA) | [Reflexing](https://open.spotify.com/album/5VJDthG2gw2dK9crIivZg5) | 5:29 |
 | 36 | [WTF](https://open.spotify.com/track/0wF2HUXzQmwfv2Lgmmq9EJ) | [Greazus](https://open.spotify.com/artist/37PpNqaNKhMqjSnEXx8ret) | [Phantasia EP](https://open.spotify.com/album/7lb6HrTFhJpPicF0cEXRPH) | 4:30 |
 | 37 | [Sample\-Mania](https://open.spotify.com/track/7zlqd52Po6niLygo4ho74J) | [DJ Seduction](https://open.spotify.com/artist/3QCLS2hkq3jpkJuPmJZHyD) | [Drop The Bass / Sample\-Mania](https://open.spotify.com/album/6SpbcOsc7KbdMvu3XH7Z1E) | 4:52 |
-| 38 | [Perfect Dreams \- DJ Vibes & Wishdokta Remix](https://open.spotify.com/track/32awDDnA8Vor6sIiNyY2Ab) | [DJ Force](https://open.spotify.com/artist/1Sx29DFRSjbqBIa1ViUbyo), [The Evolution](https://open.spotify.com/artist/3RSOlLP2GXAxZblYD5XUf2) | [Remix Records & Kniteforce Present The Remixes Part 2](https://open.spotify.com/album/2FoaGb2fx31AFXfl6hpSE1) | 6:47 |
+| 38 | [Perfect Dreams \- Vibes & Wishdokta Remix](https://open.spotify.com/track/1SAwUC8Wq8a23M0yakFxA5) | [DJ Force](https://open.spotify.com/artist/1Sx29DFRSjbqBIa1ViUbyo), [Evolution](https://open.spotify.com/artist/10BkOlrvAltLSCAzFq2tTz) | [I Love Happy Hardcore – Mixed by DJ Vibes](https://open.spotify.com/album/7j91HlvrfutI0ntwMTEpDM) | 6:51 |
 | 39 | [Feel The Vibe \(Again\)](https://open.spotify.com/track/1WVhOYMnetboL007LBZhRA) | [Foul Play](https://open.spotify.com/artist/67FRYUfxVqKOrS3x4emvL8) | [Origins](https://open.spotify.com/album/3KqzGukJ8XRU1r2l8e5p8m) | 4:22 |
 | 40 | [Ram Up A Dance](https://open.spotify.com/track/0CD63QsyrrcNQ9Ux8GUgP4) | [Bay B Kane](https://open.spotify.com/artist/2bmPucDtmNJQiRlyn7nQqM), [Daddy Freddy](https://open.spotify.com/artist/1V6f3JOvc36EUWcIaTBlfD), [Asher D](https://open.spotify.com/artist/6YHM1vRoDQZuS7GLVx7qVO) | [Hustlers EP](https://open.spotify.com/album/1ahMDKPEfuHYawW28RcGMh) | 4:50 |
 | 41 | [Survival](https://open.spotify.com/track/0irnJJx3AXGNOr56CWS34U) | [Foul Play](https://open.spotify.com/artist/67FRYUfxVqKOrS3x4emvL8) | [Origins](https://open.spotify.com/album/3KqzGukJ8XRU1r2l8e5p8m) | 6:09 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NzAadCccWE.md) - [plain]
 | 59 | [A Love So True](https://open.spotify.com/track/4IMGsIGm5AODar0UFucdZ3) | [Prayer](https://open.spotify.com/artist/72A349ge66Ptp7xhaaRUTR) | [A Love So True](https://open.spotify.com/album/3YWQ4InkKTd3sggOLA5S7M) | 8:05 |
 | 60 | [Take Me Away \(Again\)](https://open.spotify.com/track/3CGzEVuEQiFtxlFFkELN4l) | [Chrissy](https://open.spotify.com/artist/04zsBrhqOL2WNQvd5MDupE) | [Physical Release](https://open.spotify.com/album/2eG1KJSpnCgpIwA4Atapdh) | 5:26 |
 
-Snapshot ID: `MTY1NTQ3MjgwOSwwMDAwMDAwMGJmYTQ5ODY4OTRmYTI4YzY5N2ZkYzVhYjBkNDc3YzZk`
+Snapshot ID: `MTY1NTQ3MjgwOSwwMDAwMDAwMGY1OTM3NDliMGI5YTMxMzE3MTY2OGJmNDUwZmMxOGUy`

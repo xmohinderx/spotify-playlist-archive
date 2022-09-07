@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Israel.
 
-499 songs - 1 day 3 hr 58 min - [published](https://open.spotify.com/playlist/05mBfCDcqpe58bcfcRKya9)
+500 songs - 1 day 4 hr 1 min - [published](https://open.spotify.com/playlist/05mBfCDcqpe58bcfcRKya9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -349,7 +349,7 @@
 | [חנניה](https://open.spotify.com/track/2cDJbr9zb9nx1bB2upCz13) | [Hanan Ben Ari](https://open.spotify.com/artist/343YYaA5MSjiZZ5cGyTr4u) | [חנניה](https://open.spotify.com/album/5m9hjMgf3TemzJ2rRGOq7X) | 3:31 | 2022-07-02 | 2022-07-18 |
 | [חסר/ה לי ברמות](https://open.spotify.com/track/6qi83Ret9Yok9PfZWzmdZk) | [בנאל בן ציון](https://open.spotify.com/artist/6bnIwLx07NhKscf9kwuxg1), [שירז אברהם](https://open.spotify.com/artist/7o5IkQicos4SrXeny1LOZr) | [חסר/ה לי ברמות](https://open.spotify.com/album/56lwjpxdhmNnc4iV71imSq) | 3:32 | 2022-02-28 | 2022-06-25 |
 | [חצי דפוק](https://open.spotify.com/track/6jMCb4UpIBjmiKf6EwVK8u) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL) | [3](https://open.spotify.com/album/5MhbWal97Bbh3Ho7xodWli) | 2:57 | 2021-08-06 | 2022-05-08 |
-| [חצי שלי](https://open.spotify.com/track/1ZEsqzNBQqyC7VLRTUDopj) | [Mor](https://open.spotify.com/artist/0oI0Dm98K3jmtSbfTLiChX), [Avi Aburomi](https://open.spotify.com/artist/6vAJpFtiQ7xPtkArtCnHfr) | [חצי שלי](https://open.spotify.com/album/1nQcTXFdSWXKQKeBKq99j3) | 3:12 | 2022-03-29 |  |
+| [חצי שלי](https://open.spotify.com/track/1ZEsqzNBQqyC7VLRTUDopj) | [Mor](https://open.spotify.com/artist/0oI0Dm98K3jmtSbfTLiChX), [Avi Aburomi](https://open.spotify.com/artist/6vAJpFtiQ7xPtkArtCnHfr) | [חצי שלי](https://open.spotify.com/album/1nQcTXFdSWXKQKeBKq99j3) | 3:12 | 2022-03-29 | 2022-09-07 |
 | [חתולים](https://open.spotify.com/track/6jFzK1JUzC4Mr7kU12rTbQ) | [Jimbo J](https://open.spotify.com/artist/6ltKIf1bortd0DQbpgKdQu), [Ravid Plotnik](https://open.spotify.com/artist/2JQK9mzxqKz16lSgICHDTx) | [עובדי נמל](https://open.spotify.com/album/1xsjhMC9cRGaziyJaUOjco) | 3:38 | 2021-05-29 | 2021-07-11 |
 | [חתולים](https://open.spotify.com/track/7IGkkk83NInOaTmLALMP7L) | [Jimbo J](https://open.spotify.com/artist/6ltKIf1bortd0DQbpgKdQu), [Ravid Plotnik](https://open.spotify.com/artist/2JQK9mzxqKz16lSgICHDTx) | [חתולים](https://open.spotify.com/album/6SSW04Xf7QMwtQSvaVUYjx) | 3:38 | 2021-03-27\* | 2021-05-29 |
 | [טרילילי טרללה](https://open.spotify.com/track/7hYZJ0COHvJxMx6tBSJ1T6) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD), [Ilan Peled](https://open.spotify.com/artist/1LpRkScq81dh88nfExlreL) | [טרילילי טרללה](https://open.spotify.com/album/22CJZ4LX8d7fI0Kqk6c1hk) | 3:23 | 2021-06-23 | 2022-05-08 |
@@ -360,6 +360,7 @@
 | [יהלומים \- BLING BLING](https://open.spotify.com/track/7v63pRo1RXcYzrCxaMkGc5) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD) | [יהלומים \- BLING BLING](https://open.spotify.com/album/3P8ZbT26YFY9rS0bKbS3Ed) | 3:05 | 2021-03-27\* | 2021-09-05 |
 | [יודעת לסובב](https://open.spotify.com/track/2KsVKLUuoPbRnpEQJ7vygp) | [Tuna](https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL) | [מזרח פרוע](https://open.spotify.com/album/5VBiqJQPgR2j6ZpiAzwI4y) | 3:22 | 2021-12-18 | 2021-12-30 |
 | [יום חדש](https://open.spotify.com/track/3z2xDkd4Bz0y3Teh4RZOWz) | [Ravid Plotnik](https://open.spotify.com/artist/2JQK9mzxqKz16lSgICHDTx) | [ברוכים הבאים לפתח תקוה](https://open.spotify.com/album/1egE5NfiejbJB9tUclCEdN) | 3:28 | 2021-05-15 | 2021-05-21 |
+| [יותר חזק מה?](https://open.spotify.com/track/4C7X3ja0DeTxMaTQJXtQ8W) | [Agam Buhbut](https://open.spotify.com/artist/3JPKPnzWJGjccn8SnjwA5i) | [יותר חזק מה?](https://open.spotify.com/album/0r3z6vvJSpUWhMHLWgbJj1) | 2:19 | 2022-09-06 |  |
 | [יחפים](https://open.spotify.com/track/1lHlKCdVZ4CGbbkTuG6LfT) | [Jasmin Moallem](https://open.spotify.com/artist/3cDi1D2FHMVgljfdB1QVgr) | [יחפים](https://open.spotify.com/album/6xWVozXfIqzTHKIVARSnY2) | 3:16 | 2021-12-08 | 2022-08-03 |
 | [כאב של לוחמים](https://open.spotify.com/track/2X8mBXrZ6HJPCgKAzC87k5) | [Idan Amedi](https://open.spotify.com/artist/6Kwkb16geAot0de45IW9Ox) | [עידן עמדי](https://open.spotify.com/album/38ULaBgGevy5UhbI9yXAvg) | 3:18 | 2022-05-04 | 2022-05-07 |
 | [כאב של לוחמים](https://open.spotify.com/track/3DjIsttgjXGZMO31KiYrGO) | [Idan Amedi](https://open.spotify.com/artist/6Kwkb16geAot0de45IW9Ox) | [עידן עמדי](https://open.spotify.com/album/5iRY7IjF3Cw9LBt6ESsPR4) | 3:18 | 2021-04-15 | 2021-04-17 |

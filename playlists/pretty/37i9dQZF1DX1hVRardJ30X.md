@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Lenny Tavárez, Chencho Corleone, Piso 21.
 
-[Spotify](https://open.spotify.com/user/spotify) - 514,148 likes - 55 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 514,313 likes - 55 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 11 | [El Pañuelo](https://open.spotify.com/track/3c7H5RL3H6jFgDTbMxGBe9) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [El Pañuelo](https://open.spotify.com/album/6UHVdZCYgXo8xeSCw4RXp5) | 3:54 |
 | 12 | [506](https://open.spotify.com/track/4scwMEdlKi8qWJzzyDB8Z3) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD), [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [506](https://open.spotify.com/album/38coX6excq4obQR4Z7sww7) | 3:00 |
 | 13 | [Tu Lo Tienes \(feat\. YOVNGCHIMI\)](https://open.spotify.com/track/4WvUzMxcub8CWjvHyMuEXu) | [Malu Trevejo](https://open.spotify.com/artist/58GNHTqgNesANvRuoKzCwX), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy) | [Tu Lo Tienes \(feat\. YOVNGCHIMI\)](https://open.spotify.com/album/51JvtglRteGeqbA0j6UciV) | 2:57 |
-| 14 | [Mi Salida Contigo](https://open.spotify.com/track/4DKExb9AdxfNGyYh8RE9SB) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8), [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Mi Salida Contigo](https://open.spotify.com/album/2ponivnQfYOHUw6aWv0cGm) | 2:55 |
+| 14 | [Mi Salida Contigo](https://open.spotify.com/track/5zMaWQoxNyNo8hJICxNyBK) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8), [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Haashtag](https://open.spotify.com/album/61F0A7l8tyXIWJV3y4UKXw) | 2:55 |
 | 15 | [Rápida](https://open.spotify.com/track/5pT18RURgqt8faD9lvlNEY) | [Corina Smith](https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8), [KEVVO](https://open.spotify.com/artist/4QrBoWLm2WNlPdbFhmlaUZ) | [Rápida](https://open.spotify.com/album/3fzjwVxLeyfe0j2dVEFUos) | 3:11 |
 | 16 | [Limbo](https://open.spotify.com/track/2nFZ9SYYlYgOW1OVDQfQoG) | [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN) | [Limbo](https://open.spotify.com/album/1Kq5G4147jgvVqkTRjsi4J) | 2:58 |
 | 17 | [B\-Day](https://open.spotify.com/track/7bYs6rdrNdpidWjJJtJMsm) | [AQUIHAYAQUIHAY](https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i) | [B\-Day](https://open.spotify.com/album/6BUQPa8GoGOLYCsAkuMryh) | 4:08 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 54 | [Tal para cual](https://open.spotify.com/track/6cxAuDCVrCrEcoElTdoPf1) | [Chusi](https://open.spotify.com/artist/3mVKicofLUV7c9hlDXpY0b), [Un Diego](https://open.spotify.com/artist/1A7JWSzurpnqlyT5Czo9Ca), [Zhen Ross](https://open.spotify.com/artist/2HozJ0ECDxn2E6PCeQp9Qe) | [Tal para cual](https://open.spotify.com/album/50Fr66DnNB9hduztZNRC96) | 2:50 |
 | 55 | [Luz](https://open.spotify.com/track/0DVwB8Ddz6CzMw3edtgYdv) | [Yezsel](https://open.spotify.com/artist/6LlhFwokXxQ8weTgWNUcIk) | [Luz](https://open.spotify.com/album/3C5vQ9OMb175cRQ4gVQ9Wn) | 4:16 |
 
-Snapshot ID: `MTY2MjA5MTI2MCwwMDAwMDAwMGQ3NjZiZDJkYmI4ODg3Yjc2OWVkZmIxZDFmODM2Y2Iz`
+Snapshot ID: `MTY2MjA5MTI2MCwwMDAwMDAwMDgwOGEyZDkzMzIwMjc1MzYxYTMzY2FiMTg5NWI5Njdl`

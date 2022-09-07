@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1xlmTNXq2Qg.md) - [plain]
 
 > Time for dancing in the kitchen!
 
-[Spotify](https://open.spotify.com/user/spotify) - 819,345 likes - 55 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 819,494 likes - 55 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1xlmTNXq2Qg.md) - [plain]
 | 54 | [Bad, Bad, Bad](https://open.spotify.com/track/5OTH21tpmWn9YL3XzfB8AX) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Make Out](https://open.spotify.com/album/4sldmS76FbpIaO2sEsZlBh) | 3:26 |
 | 55 | [WHERE THE HELL ARE MY FRIENDS](https://open.spotify.com/track/1Ey2bSPiqNR4wDFpjInp9X) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [kinda](https://open.spotify.com/album/42jFcn7WDz3hkdkEUUQaM7) | 3:37 |
 
-Snapshot ID: `MTY2MjA2NzE3MywwMDAwMDAwMDM1ZWY1MmMzNzkxMzIzYTg0OGYwOTRmMGU3MTRiMDll`
+Snapshot ID: `MTY2MjQ4MzI4MSwwMDAwMDAwMDQwZGViZjM4NTZmM2EzNDViYzhiYmFkNGE5NjA2YTE1`

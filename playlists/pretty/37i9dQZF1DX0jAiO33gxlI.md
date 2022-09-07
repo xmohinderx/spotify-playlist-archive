@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 
 > Os lançamentos e melhores sons do rap e trap nacionais\. Foto: Rashid
 
-[Spotify](https://open.spotify.com/user/spotify) - 206,881 likes - 75 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 206,957 likes - 75 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 | 3 | [O Que Eu Não Sei](https://open.spotify.com/track/07Kfl5a8EQdy2nxeQmQ2QZ) | [AZN Studio](https://open.spotify.com/artist/3mmQ2jRf2DDpkI844nTT1h), [Sant](https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89), [Akil](https://open.spotify.com/artist/3BRur6P9nSyn8rG6yB5nqv) | [O Que Eu Não Sei](https://open.spotify.com/album/59vjYc18WBcUKa1wRl5bhH) | 2:20 |
 | 4 | [The Cypher Deffect 3](https://open.spotify.com/track/24THjBgQ5pBt7aipk78ti3) | [Costa Gold](https://open.spotify.com/artist/7q1aEytv83jXNECmyaMhgn), [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [André Nine](https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq) | [The Cypher Deffect 3](https://open.spotify.com/album/5DC0L15aPkXJI9zEGoCdt3) | 4:36 |
 | 5 | [Imprevisto](https://open.spotify.com/track/0oZrvoCYEbKGCsU7cQqNnw) | [Yago Oproprio](https://open.spotify.com/artist/7HoPy2YmahCCaYaFSFq497), [Rô Rosa](https://open.spotify.com/artist/5Et1UarIEfiHvErAJSer9B), [Skeeter Beats](https://open.spotify.com/artist/42xf1iqSOZluDWJ8RW2B9H) | [Imprevisto](https://open.spotify.com/album/4KbiGCm9vDI0dLXwGGXktY) | 2:19 |
-| 6 | [Mãe](https://open.spotify.com/track/6fZBXVUnY3y21MV4yOlIbM) | [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU), [Wall Hein](https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB) | [Mãe](https://open.spotify.com/album/0AG8mcK6CmE5EPnZyyq7wy) | 2:26 |
+| 6 | [Mãe](https://open.spotify.com/track/6fZBXVUnY3y21MV4yOlIbM) | [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Wall Hein](https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB) | [Mãe](https://open.spotify.com/album/0AG8mcK6CmE5EPnZyyq7wy) | 2:26 |
 | 7 | [X da questão](https://open.spotify.com/track/3Z8eJFFoYhHaDCn8DwPsqD) | [Hudson Xavier](https://open.spotify.com/artist/2P6nLjzOmgOrDJWgiUzuq6), [Dj Samu AKA Sunguiura](https://open.spotify.com/artist/7ydvW5TQvgfHLt5XGOju9L), [Mano Fler](https://open.spotify.com/artist/0bjKeFBcvURoPaJiGd0Kfx) | [X da questão](https://open.spotify.com/album/0UHv4QlVLmNUiijrvVU6Qs) | 3:25 |
 | 8 | [Raça com Raça](https://open.spotify.com/track/4PdS3DRipOD2VjqwP2nNlA) | [Big Bllakk](https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd), [MV Bill](https://open.spotify.com/artist/4oE4ASN8auDhoW9vsXp3VJ), [Bragadok](https://open.spotify.com/artist/4rVt7hTJTBUspoIHMoGpHu), [Pedro Apoema](https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0), [Beat do Ávila](https://open.spotify.com/artist/2zuL7Yq6XmN6LbH4gDrgfP) | [Raça com Raça](https://open.spotify.com/album/1xsy0X2kaNS0rTWrKjmI7S) | 3:12 |
 | 9 | [Bom Dia Vietnã \- Ao Vivo](https://open.spotify.com/track/3XwurTmqucNjWOhZ7JDoPp) | [Puro Suco](https://open.spotify.com/artist/3UD5S1SrDQo3KPTfWxL7Ms) | [Puro Suco No Estúdio Showlivre \(Ao Vivo\)](https://open.spotify.com/album/0XSVZUKQGLyGBjjR2uVyaD) | 2:42 |

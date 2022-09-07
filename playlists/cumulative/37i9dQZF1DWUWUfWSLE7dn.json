@@ -1123,10 +1123,28 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-07",
       "duration_ms": 312506,
       "name": "My Initial Intentions",
       "url": "https://open.spotify.com/track/21sQUGmVeEqhvjEBlxARFO"
+    },
+    {
+      "album": {
+        "name": "The Ever After",
+        "url": "https://open.spotify.com/album/0fJwTIqN5z5PklqgqZB4x9"
+      },
+      "artists": [
+        {
+          "name": "Marble Sounds",
+          "url": "https://open.spotify.com/artist/4oPsvVmYV90ryTGgyskkbp"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312506,
+      "name": "My Initial Intentions",
+      "url": "https://open.spotify.com/track/7h7R6kTMVdqFnoP0DFu1Ov"
     },
     {
       "album": {

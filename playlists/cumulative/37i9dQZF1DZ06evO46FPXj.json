@@ -163,7 +163,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-05",
+      "date_removed": null,
       "duration_ms": 415693,
       "name": "Autriche",
       "url": "https://open.spotify.com/track/0hH9vRx4gYBYNQT60L7ejh"
@@ -343,7 +343,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-06",
+      "date_removed": null,
       "duration_ms": 299000,
       "name": "Ccec",
       "url": "https://open.spotify.com/track/1ePOfkd5LewY9vzuh5dBOs"
@@ -433,7 +433,7 @@
       ],
       "date_added": "2022-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-07",
       "duration_ms": 612683,
       "name": "cloudline",
       "url": "https://open.spotify.com/track/3Q0IL8QISH9jsChlpj81Yp"
@@ -451,7 +451,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-07",
       "duration_ms": 350852,
       "name": "Corc",
       "url": "https://open.spotify.com/track/770zYtbMuU5grFPUIzxmfQ"
@@ -548,6 +548,24 @@
     },
     {
       "album": {
+        "name": "Anti",
+        "url": "https://open.spotify.com/album/3RdJbIoZIJEG5rZvpxY8a8"
+      },
+      "artists": [
+        {
+          "name": "Autechre",
+          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 439773,
+      "name": "Djarum",
+      "url": "https://open.spotify.com/track/5ylj6BzNbDXAhGyNehYD7n"
+    },
+    {
+      "album": {
         "name": "Incunabula",
         "url": "https://open.spotify.com/album/4KROnLN6Didp0F97RXaW7a"
       },
@@ -577,7 +595,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-07",
       "duration_ms": 1399417,
       "name": "Drane2",
       "url": "https://open.spotify.com/track/23zitpl7nfCR3XbeKR5Y6w"
@@ -595,7 +613,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-06",
+      "date_removed": null,
       "duration_ms": 196600,
       "name": "Dropp",
       "url": "https://open.spotify.com/track/2dr40Mh5nBfFj3U2qKrs1e"
@@ -613,7 +631,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-07",
       "duration_ms": 542106,
       "name": "Eggshell",
       "url": "https://open.spotify.com/track/2YS5BqGuQwXbDvCn5U8I0e"
@@ -721,7 +739,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-27",
+      "date_removed": null,
       "duration_ms": 291394,
       "name": "Fleure",
       "url": "https://open.spotify.com/track/2Y0LL2wjpdLxomPVfVMQ3w"
@@ -1045,7 +1063,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-07",
       "duration_ms": 428106,
       "name": "Leterel",
       "url": "https://open.spotify.com/track/0yLJpvsw4LWBvUcyAb7hBt"
@@ -1099,7 +1117,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-06",
+      "date_removed": null,
       "duration_ms": 529702,
       "name": "M4 Lema",
       "url": "https://open.spotify.com/track/4eWwa9ZlwAQXitxVia77P7"
@@ -1207,7 +1225,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-06",
+      "date_removed": null,
       "duration_ms": 468800,
       "name": "Nil",
       "url": "https://open.spotify.com/track/7ve54JSHBvuDEqDD5zixOl"
@@ -1243,7 +1261,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-06",
+      "date_removed": null,
       "duration_ms": 453466,
       "name": "Overand",
       "url": "https://open.spotify.com/track/0PmrE6p9m2cQJNb0IITqke"
@@ -1333,7 +1351,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-07",
       "duration_ms": 480533,
       "name": "Piezo",
       "url": "https://open.spotify.com/track/3CfCnydtVUfmXgogGIDzGc"
@@ -1369,7 +1387,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-04",
+      "date_removed": null,
       "duration_ms": 211906,
       "name": "Pir",
       "url": "https://open.spotify.com/track/6Y1rwwVQz7dGfZxU9AFp9l"
@@ -1387,7 +1405,7 @@
       ],
       "date_added": "2022-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-07",
       "duration_ms": 153173,
       "name": "plyPhon",
       "url": "https://open.spotify.com/track/0yBBQ0YaQGXDXBoJwdDJfN"
@@ -1405,7 +1423,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-06",
+      "date_removed": null,
       "duration_ms": 521586,
       "name": "Pro Radii",
       "url": "https://open.spotify.com/track/4ssgkBF25yIxJaER2DiQQW"
@@ -1423,7 +1441,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-07",
       "duration_ms": 380219,
       "name": "psin AM",
       "url": "https://open.spotify.com/track/0LUkyyoPeSHPl4z0swAbfX"
@@ -1495,7 +1513,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-05",
+      "date_removed": null,
       "duration_ms": 584208,
       "name": "Recury",
       "url": "https://open.spotify.com/track/2EYkcwG4sC73I4zjl6yhXy"
@@ -1549,7 +1567,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-07",
       "duration_ms": 360800,
       "name": "Rpeg",
       "url": "https://open.spotify.com/track/2Q9vfN92vj9TQgnN5Mq9CK"
@@ -1567,7 +1585,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-07",
       "duration_ms": 325767,
       "name": "sch.mefd 2",
       "url": "https://open.spotify.com/track/6ED9r3V1lS4vWi3mAEhRYh"
@@ -1639,7 +1657,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-07",
       "duration_ms": 277280,
       "name": "see on see",
       "url": "https://open.spotify.com/track/5bP6GgBa3iMVbywZwD0xV5"
@@ -1783,7 +1801,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-04",
+      "date_removed": null,
       "duration_ms": 403397,
       "name": "T ess xi",
       "url": "https://open.spotify.com/track/3T8yIT0kHo5V4BwF1oiXgY"
@@ -1909,7 +1927,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-07",
       "duration_ms": 360000,
       "name": "V-PROC",
       "url": "https://open.spotify.com/track/6JS9KOILpNIyApvqd24m0w"

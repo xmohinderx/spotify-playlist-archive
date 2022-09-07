@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "C\u00f9ng t\u00f4n vinh t\u00e0i n\u0103ng v\u00e0 \u00e2m nh\u1ea1c c\u1ee7a nh\u1eefng n\u1eef ngh\u1ec7 s\u0129 Vi\u1ec7t. \u1ea2nh b\u00eca: B\u1ea3o Anh",
+  "description": "C\u00f9ng t\u00f4n vinh t\u00e0i n\u0103ng v\u00e0 \u00e2m nh\u1ea1c c\u1ee7a nh\u1eefng n\u1eef ngh\u1ec7 s\u0129 Vi\u1ec7t. \u1ea2nh b\u00eca: Chi Pu",
   "name": "EQUAL Vietnam",
   "published_playlist_ids": [
     "04IRwdQz860iINipt3YtIB"
@@ -23,6 +23,24 @@
       "duration_ms": 257000,
       "name": "24h",
       "url": "https://open.spotify.com/track/4inMQ83GNpQ2OHDredH5hW"
+    },
+    {
+      "album": {
+        "name": "Black Hickey (Con D\u1ea5u Ch\u1ee7 Quy\u1ec1n)",
+        "url": "https://open.spotify.com/album/7zSOESWQXSqQeV2ptNXArL"
+      },
+      "artists": [
+        {
+          "name": "Chi Pu",
+          "url": "https://open.spotify.com/artist/6jRD85dsXJYn5vv73rqSGi"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233379,
+      "name": "Black Hickey - Con D\u1ea5u Ch\u1ee7 Quy\u1ec1n",
+      "url": "https://open.spotify.com/track/1Qf8uhmyNubhiGOCcWeDPv"
     },
     {
       "album": {
@@ -471,7 +489,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-07",
       "duration_ms": 200337,
       "name": "Em \u0110\u00e3 C\u00f3 Ng\u01b0\u1eddi M\u1edbi (feat. Ng\u01b0\u1eddi c\u0169)",
       "url": "https://open.spotify.com/track/2BqQ5ZM73pNugfd6NteCPe"
@@ -1078,6 +1096,24 @@
     },
     {
       "album": {
+        "name": "M\u1eddi Anh V\u00e0o Team Em",
+        "url": "https://open.spotify.com/album/0qnWAQh9eqFA7JGjznCJE0"
+      },
+      "artists": [
+        {
+          "name": "Chi Pu",
+          "url": "https://open.spotify.com/artist/6jRD85dsXJYn5vv73rqSGi"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "M\u1eddi Anh V\u00e0o Team Em",
+      "url": "https://open.spotify.com/track/4fx2Hs100AuN9qPsFj3fW7"
+    },
+    {
+      "album": {
         "name": "Ng\u00e0y Ch\u01b0a Gi\u00f4ng B\u00e3o (Ng\u01b0\u1eddi B\u1ea5t T\u1eed OST)",
         "url": "https://open.spotify.com/album/6eYeMsrAOwsbGsdMU3tMZn"
       },
@@ -1125,7 +1161,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-07",
       "duration_ms": 219000,
       "name": "Nh\u01b0 L\u1eddi \u0110\u1ed3n",
       "url": "https://open.spotify.com/track/5aUlYDU9wWSVPRdrbCSPHF"

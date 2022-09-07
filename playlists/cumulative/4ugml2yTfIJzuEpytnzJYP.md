@@ -4,7 +4,7 @@
 
 > Lovingly updated every week\.  Make sure to click the heart 💓 to follow the playlist
 
-129 songs - 8 hr 2 min - [published](https://open.spotify.com/playlist/56aybtrwt3JyZMLBFDdbFd)
+131 songs - 8 hr 10 min - [published](https://open.spotify.com/playlist/56aybtrwt3JyZMLBFDdbFd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [MULTIVERSE](https://open.spotify.com/track/23oOs4H4jRkYCSwOf7MApd) | [Sky Suite](https://open.spotify.com/artist/0D3OutokoXMRF8kwCPpJZc) | [MULTIVERSE](https://open.spotify.com/album/1a63sK5PcSjgbceKc5u0oU) | 4:15 | 2022-04-25 |  |
 | [Narrow](https://open.spotify.com/track/54Ys41zXshiXCVlxENznb5) | [sumthin sumthin](https://open.spotify.com/artist/2a8ez0A2owcYhFki9860sm), [Player Dave](https://open.spotify.com/artist/1rQItbnVgtRiJkTxHRBUc0) | [Narrow](https://open.spotify.com/album/4afOs1aVHjBfr5SByIOn1R) | 3:36 | 2022-01-22 | 2022-04-16 |
 | [Nihil](https://open.spotify.com/track/5YVgl0hVPItJHtXXRdlfFD) | [Silkie](https://open.spotify.com/artist/2Mn5YxJ8YfFCU6h2Ypr8NI) | [NCDIG006](https://open.spotify.com/album/6WwwcYvNRf7e7VrdMrq5lB) | 4:40 | 2022-01-22 | 2022-04-16 |
+| [Ninguém Dorme](https://open.spotify.com/track/5tIpJGqrC8YO8uiHSzSfuR) | [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI), [Tropkillaz](https://open.spotify.com/artist/5bzWtCkjIAMgN93gLt56SO), [MC Lan](https://open.spotify.com/artist/4mb1xtQVGSK5dh8AbtwBiR) | [Ninguém Dorme](https://open.spotify.com/album/2eGxYv7zADneONCCZDtxR8) | 2:07 | 2022-09-06 |  |
 | [Pathways](https://open.spotify.com/track/37MQC1HF0hiApuaSEcq5fl) | [Dimond Saints](https://open.spotify.com/artist/38LWle0ChG6k0UHsOnoO75) | [Pathways](https://open.spotify.com/album/2aIi4kmiK0wipFpm8PJm1l) | 3:42 | 2022-03-18 |  |
 | [Phantom](https://open.spotify.com/track/7fGeTLKVm9BY8KsqSl6Ke1) | [Dimond Saints](https://open.spotify.com/artist/38LWle0ChG6k0UHsOnoO75) | [Phantom](https://open.spotify.com/album/1lHmOYabioXFvBI5WnV7HU) | 3:44 | 2022-02-25 |  |
 | [Press Play](https://open.spotify.com/track/3raR1AxyKCYE7Bs2NlX24v) | [Ivy Lab](https://open.spotify.com/artist/3VXCvo9Sr0hbZ4mk6VOKBs) | [Press Play](https://open.spotify.com/album/1QcWrEkHfTgUQw0C197RTq) | 2:54 | 2021-10-02 | 2022-02-28 |
@@ -117,6 +118,7 @@
 | [Talkin' Mathematics](https://open.spotify.com/track/03NaCSvXBYFoIJgB52e5C4) | [Ome](https://open.spotify.com/artist/5c7ckpDdeGpifu0mYbJg96), [Yoofee](https://open.spotify.com/artist/0KoziTqE9AN9MrAWeTRGKI) | [Talkin' Mathematics](https://open.spotify.com/album/35wFWYLoqK75XPNrKq7nz3) | 4:19 | 2022-08-18 |  |
 | [Tapping in Boyd Hill](https://open.spotify.com/track/14h2xjYyzgxqM3CxRFE6JO) | [Somatoast](https://open.spotify.com/artist/6TgxNzWMXI7y4dhm5sPBL5) | [Tapping in Boyd Hill](https://open.spotify.com/album/3Y5wYJebF1ABImA0rPF6Yo) | 3:12 | 2022-02-11 | 2022-04-16 |
 | [Technicolor](https://open.spotify.com/track/721QFVu7nnsxEl99qiZiQG) | [sumthin sumthin](https://open.spotify.com/artist/2a8ez0A2owcYhFki9860sm), [Mirror Maze](https://open.spotify.com/artist/0BExsN7P2zWKhOwBJSwpYL) | [Technicolor](https://open.spotify.com/album/4cHqpJP5sBYz2fFXbjXruH) | 3:37 | 2021-09-17 | 2022-04-16 |
+| [Telling Me Nothing](https://open.spotify.com/track/4oZzKl23R31U9yhCtXaC7x) | [Mystic State](https://open.spotify.com/artist/052KAntc3fhUFwUgewa3Q4), [Method Sound](https://open.spotify.com/artist/3bdo0nDKT9KoqHhmJiowqT), [Elysia Grace](https://open.spotify.com/artist/1ictFFBiAtEwfywuzl27YV) | [Stutter \- EP](https://open.spotify.com/album/2ywexsHX1MUToJaByaEYYQ) | 5:08 | 2022-09-06 |  |
 | [Temple](https://open.spotify.com/track/2ZJ2VCJFhddmJt7qeyzks8) | [Orenda](https://open.spotify.com/artist/5KMXkfwbgVv3YxCtjAJAoe) | [Temple](https://open.spotify.com/album/7f0pDI0VjnS74EJj2T4fIO) | 4:25 | 2022-08-05 | 2022-08-23 |
 | [Tethered](https://open.spotify.com/track/2CA91Vbn86H0jDCibPAAiE) | [Khiva](https://open.spotify.com/artist/3cH0fKXiWesYFzqJwiWlAD) | [Tethered](https://open.spotify.com/album/6096W6yEygXMAOy7Zm34eU) | 3:41 | 2021-10-15 | 2022-04-16 |
 | [The Covenant](https://open.spotify.com/track/25kdk6NgrmOPuPJsnqpiKh) | [Among The Mist](https://open.spotify.com/artist/2FBfN2vzv6bXlLSP5UTJBq) | [The Covenant](https://open.spotify.com/album/4s1dulywBvqEnxwZhVvMun) | 2:51 | 2022-01-22 | 2022-04-16 |

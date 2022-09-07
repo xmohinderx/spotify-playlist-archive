@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 
 > Le meilleur du hip\-hop québécois\. Photo: Taktika
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,605 likes - 75 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,606 likes - 75 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,11 +13,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 | 3 | [À la tête du monde](https://open.spotify.com/track/04Be4rY9wl1DmvO4YiYjtJ) | [Taktika](https://open.spotify.com/artist/5ArmvYVqg6FfX5Wmo8lBG3), [Pagail](https://open.spotify.com/artist/4ZYhY3xoiTwIhNL5Mx7HH1) | [À la tête du monde](https://open.spotify.com/album/0hRslk316odnBngGPsjaFE) | 4:10 |
 | 4 | [Sans trembler](https://open.spotify.com/track/3HEdgzJeMkuX2MdVGqPRNK) | [Gnino](https://open.spotify.com/artist/03sPkUqjLbCXdxu3e46T3H) | [Sans trembler](https://open.spotify.com/album/0PEec1NvTPyeSEhP5hchWn) | 3:10 |
 | 5 | [Up & Down](https://open.spotify.com/track/6Ra9iNq2FoSgHV7T9HaUD2) | [MikeZup](https://open.spotify.com/artist/3kmw1yvcUhvPD3pDz8hOVk) | [Up & Down](https://open.spotify.com/album/37lRoPrv7Iom0ZzdQPKkrd) | 2:40 |
-| 6 | [Filature](https://open.spotify.com/track/5WYQmwTH0OtbOyyFsjUIby) | [Izuku](https://open.spotify.com/artist/07nPO9PmOxJX3XXsCsVVW8) | [Hagra, Vol.1](https://open.spotify.com/album/4D4QUuwxoAe9qYpoqd4Zhn) | 2:25 |
-| 7 | [César](https://open.spotify.com/track/1SHRlSZ78fklxAMG6bVBVW) | [MB](https://open.spotify.com/artist/2v1aABncTZrtkXA84ZqtyU) | [César](https://open.spotify.com/album/0n3xG3MLvkhq1Jmpuwnv28) | 2:47 |
-| 8 | [Camping](https://open.spotify.com/track/3nCyD17Oecbgx4VNX5fNZ5) | [Gros Big](https://open.spotify.com/artist/5lRXcS3hdIRzUO1mbJkvJ0) | [Camping](https://open.spotify.com/album/0TKxbWXUfFAdInNrf6WzrQ) | 3:24 |
-| 9 | [Le passé nous le dira](https://open.spotify.com/track/5PSa5UlautRrllU20C9jY4) | [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu) | [Le passé nous le dira](https://open.spotify.com/album/5Qdzs8SPjcZBxMFTDsFXSt) | 3:14 |
-| 10 | [Funambule](https://open.spotify.com/track/17IYFs7jWrOZ3q30kBmnBn) | [Farfadet](https://open.spotify.com/artist/3n6sDQ5wLfb9GpJaKcEaPB), [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1) | [Funambule](https://open.spotify.com/album/4o4Wy7x6zIvGaeDdJxC9k2) | 2:34 |
+| 6 | [Funambule](https://open.spotify.com/track/17IYFs7jWrOZ3q30kBmnBn) | [Farfadet](https://open.spotify.com/artist/3n6sDQ5wLfb9GpJaKcEaPB), [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1) | [Funambule](https://open.spotify.com/album/4o4Wy7x6zIvGaeDdJxC9k2) | 2:34 |
+| 7 | [Filature](https://open.spotify.com/track/5WYQmwTH0OtbOyyFsjUIby) | [Izuku](https://open.spotify.com/artist/07nPO9PmOxJX3XXsCsVVW8) | [Hagra, Vol.1](https://open.spotify.com/album/4D4QUuwxoAe9qYpoqd4Zhn) | 2:25 |
+| 8 | [César](https://open.spotify.com/track/1SHRlSZ78fklxAMG6bVBVW) | [MB](https://open.spotify.com/artist/2v1aABncTZrtkXA84ZqtyU) | [César](https://open.spotify.com/album/0n3xG3MLvkhq1Jmpuwnv28) | 2:47 |
+| 9 | [Camping](https://open.spotify.com/track/3nCyD17Oecbgx4VNX5fNZ5) | [Gros Big](https://open.spotify.com/artist/5lRXcS3hdIRzUO1mbJkvJ0) | [Camping](https://open.spotify.com/album/0TKxbWXUfFAdInNrf6WzrQ) | 3:24 |
+| 10 | [Le passé nous le dira](https://open.spotify.com/track/5PSa5UlautRrllU20C9jY4) | [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu) | [Le passé nous le dira](https://open.spotify.com/album/5Qdzs8SPjcZBxMFTDsFXSt) | 3:14 |
 | 11 | [Dandan](https://open.spotify.com/track/7L2iNYWkQ6zy9ZloDdJnHr) | [White\-B](https://open.spotify.com/artist/2HnpdXm17xsrVYtmsf7CHM), [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b) | [Dandan](https://open.spotify.com/album/1kNR3dBuxP2A8WFI25dBXL) | 3:17 |
 | 12 | [Top](https://open.spotify.com/track/7L25Tg4Jxxk1Q5tS59QfUB) | [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp), [FouKi](https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n) | [Top](https://open.spotify.com/album/5CyS1dpJOA6CAts78IybcG) | 4:01 |
 | 13 | [Blackberry](https://open.spotify.com/track/5bPrhszf2qv3BIa8WC1M2Q) | [M\-Press Live](https://open.spotify.com/artist/5nJC0rvHpmXz7JLNE9kf6v), [Enima](https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT) | [Blackberry](https://open.spotify.com/album/2BovtlOMMEiA3fjLQwrHe3) | 3:05 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 | 74 | [Sans horaire](https://open.spotify.com/track/4xVQsPA32CgHu2v1fZbcTA) | [Tizzo](https://open.spotify.com/artist/0NAWq4CW7DxGwgIm1Ock5C), [og cyrus](https://open.spotify.com/artist/3KRSccEFVrRnMRe0XKGuNy) | [Sans horaire](https://open.spotify.com/album/2WOwDw0iT1rkI4VM4l1Y3l) | 3:21 |
 | 75 | [Salt Bae](https://open.spotify.com/track/2ZpVCAC54nKySnWuC0mJ0t) | [YH](https://open.spotify.com/artist/3js5jvTuoFgetWV7s8EVT5) | [Salt Bae](https://open.spotify.com/album/0n8ZU0vLoWOiRQWwQyrIVw) | 3:33 |
 
-Snapshot ID: `MTY2MjE0MDIzNCwwMDAwMDAwMGFhNTVjOTYxMDlhYWI5MmZlOGNlMmExOTkxNjY5YTQ0`
+Snapshot ID: `MTY2MjQzOTkzMiwwMDAwMDAwMGViNzU3ODFmYzcyZWFkOWFjNjMwZjBiZjFhM2Y3ZGRl`

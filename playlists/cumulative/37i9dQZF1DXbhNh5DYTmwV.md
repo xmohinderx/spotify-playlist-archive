@@ -4,10 +4,11 @@
 
 > ¡Las canciones más chéveres están sonando aquí!
 
-77 songs - 4 hr 43 min - [published](https://open.spotify.com/playlist/2gT9p9h2AT84oVHAfgpUfs)
+78 songs - 4 hr 46 min - [published](https://open.spotify.com/playlist/2gT9p9h2AT84oVHAfgpUfs)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [Aeropuerto](https://open.spotify.com/track/4v7riPZWyAclrOfUSwD0zp) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [De Adentro Pa Afuera](https://open.spotify.com/album/1UTDgnpHmthIsdzSxbhpV2) | 2:57 | 2022-09-06 |  |
 | [Alguien Me Gusta](https://open.spotify.com/track/4iFTIshL0xDCw8JJUl5AJ3) | [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2), [Jhonny Rivera](https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx), [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Alguien Me Gusta](https://open.spotify.com/album/79WB96tQV9vPJ920cbneZ9) | 2:48 | 2022-05-17 | 2022-09-03 |
 | [Amante](https://open.spotify.com/track/63ItGyBtbfsR2zXTIxQZBz) | [Casandra Paz](https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ) | [Amante](https://open.spotify.com/album/1oHRJevcSdW6KVVZH81Uuk) | 3:51 | 2022-05-17 | 2022-07-02 |
 | [Amor Narcótico](https://open.spotify.com/track/24LO2UMNHWNoPZnhdAw4TO) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4) | [Déjà Vu](https://open.spotify.com/album/3gLXoSKX6H6l1ulUYZTYvz) | 2:48 | 2022-05-17 |  |
@@ -46,7 +47,7 @@
 | [KESI \- Remix](https://open.spotify.com/track/0IqCoZ168iRc9LqfrYgpZy) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [KESI \(Remix\)](https://open.spotify.com/album/00R62QqtlwSpAuwkS5kxB3) | 2:56 | 2022-05-17 |  |
 | [La Cartera](https://open.spotify.com/track/0JC81ojQymAE7l1KuJpNCq) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [El Amor De Mi Tierra](https://open.spotify.com/album/6KOqhvDPcG9HKntCfiWesH) | 3:20 | 2022-05-17 |  |
 | [La Mitad \- Reggaetón Remix](https://open.spotify.com/track/3kngR9LIfI4bW0b6pONy57) | [Nacho](https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [Lewis Picket](https://open.spotify.com/artist/4kgb3OUSqj61KLjxydJPLD) | [La Mitad \(The Remixes\)](https://open.spotify.com/album/7qyQoVHOiy1BnMopH0mpfm) | 3:32 | 2022-05-17 |  |
-| [La Mona](https://open.spotify.com/track/0VbaWEhXMp9wYiOR9E9qSw) | [Bonka](https://open.spotify.com/artist/4mZ4qW2RrJS1nmHvltMvJ2) | [Lo Que Nunca Nos Contamos](https://open.spotify.com/album/4WBKKt1PvBwcLXRRkwc61F) | 3:33 | 2022-05-17 |  |
+| [La Mona](https://open.spotify.com/track/0VbaWEhXMp9wYiOR9E9qSw) | [Bonka](https://open.spotify.com/artist/4mZ4qW2RrJS1nmHvltMvJ2) | [Lo Que Nunca Nos Contamos](https://open.spotify.com/album/4WBKKt1PvBwcLXRRkwc61F) | 3:33 | 2022-05-17 | 2022-09-07 |
 | [Loco](https://open.spotify.com/track/2PI1tFqXSeJQmgPniuWGda) | [Alejandro Santamaria](https://open.spotify.com/artist/7HXJp9OMIL5tdwZYleuBvy) | [Loco](https://open.spotify.com/album/55o4WYcOPxOlfw1mgVyGA0) | 2:30 | 2022-09-02 |  |
 | [Locos Dementes](https://open.spotify.com/track/1avccdZyIOpCisznKwu47H) | [Gusi](https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Locos Dementes](https://open.spotify.com/album/49nZLyZDBKph8WzxuLGkF8) | 3:35 | 2022-05-17 |  |
 | [Los Caminos De La Vida](https://open.spotify.com/track/7E9NAI3oX8C8TDelKR179x) | [Los Diablitos](https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd) | [30 Mejores](https://open.spotify.com/album/2CGzpCTcMQij6NpZJW83s7) | 4:35 | 2022-05-17 | 2022-07-29 |

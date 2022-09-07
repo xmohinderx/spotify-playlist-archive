@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-07",
       "duration_ms": 261164,
       "name": "A Man Alone",
       "url": "https://open.spotify.com/track/4EZ5UGomeXRNKrceW5xUq8"
@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-07",
       "duration_ms": 127626,
       "name": "A Touch of Nonsense",
       "url": "https://open.spotify.com/track/1qwhMcP5dOIEBGo9VMC5Rs"
@@ -259,7 +259,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-06",
+      "date_removed": null,
       "duration_ms": 202773,
       "name": "Blue Haze",
       "url": "https://open.spotify.com/track/6zS7hMg2Ow7zLqfJqYw9Ta"
@@ -521,7 +521,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-07",
       "duration_ms": 158400,
       "name": "Delivery Date",
       "url": "https://open.spotify.com/track/1EPiKxltYOTINNNqmvNOw0"
@@ -695,7 +695,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-07",
       "duration_ms": 83226,
       "name": "Grange Hill",
       "url": "https://open.spotify.com/track/2FKrc7YAbpLeWD2G08IRvC"
@@ -775,7 +775,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-06",
+      "date_removed": null,
       "duration_ms": 329789,
       "name": "In The Clouds",
       "url": "https://open.spotify.com/track/4DwjPKXBx1HmHSIEbr2y25"
@@ -1159,7 +1159,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-06",
+      "date_removed": null,
       "duration_ms": 180384,
       "name": "Original Mania",
       "url": "https://open.spotify.com/track/6hfhkHbprP0sPgIRCsyfZh"
@@ -1253,7 +1253,7 @@
       ],
       "date_added": "2022-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-26",
+      "date_removed": null,
       "duration_ms": 135533,
       "name": "Rocky Mountain Runabout",
       "url": "https://open.spotify.com/track/0onhMFZBampcxMxkIDxmU0"
@@ -1271,7 +1271,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-04",
+      "date_removed": null,
       "duration_ms": 100666,
       "name": "Roving Reporter",
       "url": "https://open.spotify.com/track/70ilfw7o4EekgZt3P8EgDz"
@@ -1289,7 +1289,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-07",
       "duration_ms": 172266,
       "name": "Senior Thump",
       "url": "https://open.spotify.com/track/4vUTy6NLKpoBah5dpNQ1ZD"
@@ -1311,7 +1311,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-07",
       "duration_ms": 242125,
       "name": "Serengeti",
       "url": "https://open.spotify.com/track/06K7wmMQ4rBkOv3LRTuqiR"
@@ -1329,7 +1329,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-07",
       "duration_ms": 217218,
       "name": "Sheer Elegance",
       "url": "https://open.spotify.com/track/1grBclN9HxtPvCsPsQ69Dj"
@@ -1470,6 +1470,24 @@
     },
     {
       "album": {
+        "name": "Kpm 1000 Series: Happy Rainbows",
+        "url": "https://open.spotify.com/album/5m8RDoxitluGPZH7Y3D0XH"
+      },
+      "artists": [
+        {
+          "name": "Alan Hawkshaw",
+          "url": "https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145053,
+      "name": "Sunflower",
+      "url": "https://open.spotify.com/track/1h70v5iWJWPmLbmQjKoRvT"
+    },
+    {
+      "album": {
         "name": "Kpm 1000 Series: Music for a Young Generation",
         "url": "https://open.spotify.com/album/7DSXOfsLNItRe1nYDmAGpL"
       },
@@ -1503,7 +1521,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-07",
       "duration_ms": 100306,
       "name": "Tap Footer",
       "url": "https://open.spotify.com/track/2360JvZBIuCjy0NqUw5b1V"
@@ -1631,7 +1649,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-06",
+      "date_removed": null,
       "duration_ms": 169026,
       "name": "The Speed of Sound",
       "url": "https://open.spotify.com/track/5yXMM4OEaGIbrAXFmrYx9s"
@@ -1693,7 +1711,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-04",
+      "date_removed": null,
       "duration_ms": 146214,
       "name": "Weekend",
       "url": "https://open.spotify.com/track/40JxNRnTUrSsWqs2mRM4TS"

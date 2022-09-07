@@ -5842,6 +5842,24 @@
     },
     {
       "album": {
+        "name": "Ordinary Life",
+        "url": "https://open.spotify.com/album/4n7CoMmbjWPyMDikoNNFg0"
+      },
+      "artists": [
+        {
+          "name": "George Gretton",
+          "url": "https://open.spotify.com/artist/2NG92AgykZYQwwuQ479zMo"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207216,
+      "name": "Weekdays",
+      "url": "https://open.spotify.com/track/1fmLw7Ai93hZI7b34NPhyn"
+    },
+    {
+      "album": {
         "name": "Whatever You Want",
         "url": "https://open.spotify.com/album/40gxf5OtiUy2XMOUPUiG0m"
       },

@@ -152,6 +152,24 @@
     },
     {
       "album": {
+        "name": "Almost Like Being In Love",
+        "url": "https://open.spotify.com/album/67oPqr2P9tzmMLNsa6Y4wb"
+      },
+      "artists": [
+        {
+          "name": "Maxence Capoue",
+          "url": "https://open.spotify.com/artist/67haUq5f5DHveaHN9u4vmy"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "Almost Like Being In Love",
+      "url": "https://open.spotify.com/track/4JceM4LWSSUzGpy4SAUvY5"
+    },
+    {
+      "album": {
         "name": "As Time Goes By",
         "url": "https://open.spotify.com/album/7scZsHKFNYwwCD7S6U057m"
       },
@@ -2251,7 +2269,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-07",
       "duration_ms": 216218,
       "name": "Somewhere Over The Rainbow",
       "url": "https://open.spotify.com/track/26o8OLSxA9CpGLXZEqwS0y"
@@ -2291,6 +2309,24 @@
       "duration_ms": 255349,
       "name": "sophisticated lady",
       "url": "https://open.spotify.com/track/1bABWbuu9Rr4QofMm2PO5d"
+    },
+    {
+      "album": {
+        "name": "Soul Eyes",
+        "url": "https://open.spotify.com/album/433xCyuJbk1ymPZEfhuhJP"
+      },
+      "artists": [
+        {
+          "name": "Dabria Martin",
+          "url": "https://open.spotify.com/artist/5hxC2YJZBRliZhDyewZ4bG"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224340,
+      "name": "Soul Eyes",
+      "url": "https://open.spotify.com/track/0lBxZvvvNK40Ta3MjVzCvD"
     },
     {
       "album": {
@@ -2381,6 +2417,24 @@
       "duration_ms": 261432,
       "name": "Stars Fell On Alabama",
       "url": "https://open.spotify.com/track/509cZqCtvC6it9bKbuD0hP"
+    },
+    {
+      "album": {
+        "name": "Stella By Starlight",
+        "url": "https://open.spotify.com/album/2XjCNA2ejNe4in6ynwcHQM"
+      },
+      "artists": [
+        {
+          "name": "Ward Stetson",
+          "url": "https://open.spotify.com/artist/4cgzkhsBdCNVDzBrx7is7S"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115200,
+      "name": "Stella By Starlight",
+      "url": "https://open.spotify.com/track/3xQ8oqFUTLFQ9dNEq2SMOP"
     },
     {
       "album": {

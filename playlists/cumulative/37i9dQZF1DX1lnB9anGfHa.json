@@ -1144,6 +1144,28 @@
     },
     {
       "album": {
+        "name": "Oracles",
+        "url": "https://open.spotify.com/album/7q9ambvRrxK3Cem9IvcD7s"
+      },
+      "artists": [
+        {
+          "name": "AT\u014cMI",
+          "url": "https://open.spotify.com/artist/2xtvEAA3GV2xnT5iRzbKHX"
+        },
+        {
+          "name": "Laura Masotto",
+          "url": "https://open.spotify.com/artist/0WsOb9lixawpeFLHuAzhpd"
+        }
+      ],
+      "date_added": "2022-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 410397,
+      "name": "Oracles",
+      "url": "https://open.spotify.com/track/3RPWEhdvyH1CXphkYti8wc"
+    },
+    {
+      "album": {
         "name": "Otro",
         "url": "https://open.spotify.com/album/52iwoA7t8Sn6kkAfWzEh1D"
       },

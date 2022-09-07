@@ -2658,6 +2658,24 @@
     },
     {
       "album": {
+        "name": "Stella By Starlight",
+        "url": "https://open.spotify.com/album/2XjCNA2ejNe4in6ynwcHQM"
+      },
+      "artists": [
+        {
+          "name": "Ward Stetson",
+          "url": "https://open.spotify.com/artist/4cgzkhsBdCNVDzBrx7is7S"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115200,
+      "name": "Stella By Starlight",
+      "url": "https://open.spotify.com/track/3xQ8oqFUTLFQ9dNEq2SMOP"
+    },
+    {
+      "album": {
         "name": "Still in Love With You",
         "url": "https://open.spotify.com/album/7a5LKBZ7B5093OFghLDbic"
       },

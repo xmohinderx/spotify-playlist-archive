@@ -984,6 +984,24 @@
     },
     {
       "album": {
+        "name": "C'est La Vie",
+        "url": "https://open.spotify.com/album/76wXnnoIAnR40YQH88e3rR"
+      },
+      "artists": [
+        {
+          "name": "KIM",
+          "url": "https://open.spotify.com/artist/3AMuZJ85HywqN42C3Mc2LL"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90666,
+      "name": "C'est La Vie",
+      "url": "https://open.spotify.com/track/1Unwmq4hYPKCgoOSHSmc8S"
+    },
+    {
+      "album": {
         "name": "Coffee Break",
         "url": "https://open.spotify.com/album/4BiH3apnfeox0bwYYSSwNA"
       },
@@ -2709,7 +2727,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-07",
       "duration_ms": 177818,
       "name": "In Fissa (feat. Moonet, Zo Vivaldi, Hank)",
       "url": "https://open.spotify.com/track/4xhCoCq3YTfp2Jzw4xjBfC"

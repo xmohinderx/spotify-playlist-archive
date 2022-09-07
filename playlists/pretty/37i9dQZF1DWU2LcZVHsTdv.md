@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2LcZVHsTdv.md) - [plain]
 
 > The country way of testifying\. Cover: Ian Munsick
 
-[Spotify](https://open.spotify.com/user/spotify) - 254,096 likes - 123 songs - 7 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 254,149 likes - 123 songs - 7 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

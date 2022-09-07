@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71VcjjnyaBQ.md) - [plain]
 
 > Jazz for breakfast to start your day right.
 
-[Spotify](https://open.spotify.com/user/spotify) - 328,823 likes - 100 songs - 8 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 328,890 likes - 100 songs - 8 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71VcjjnyaBQ.md) - [plain]
 | 99 | [Expansions](https://open.spotify.com/track/4bBAfTRTE1bkQUSL3gtmjb) | [Tenderlonious](https://open.spotify.com/artist/5D1w6T6H7pnRDQZIrhwlxo) | [The Shakedown](https://open.spotify.com/album/0nwD7e4CgjZZEQwq7ktI7q) | 6:54 |
 | 100 | [Jennie](https://open.spotify.com/track/5pvXycrzupnyDZT1FVuwEL) | [Hederosgruppen](https://open.spotify.com/artist/0UNiBtRacvAnbospnyiEhw) | [Jennie / Gravol](https://open.spotify.com/album/3cU5aG5kVY2PERgkd0EXNJ) | 6:04 |
 
-Snapshot ID: `MTY2MjExMDIzMCwwMDAwMDAwMGU5N2UzYTJhNDVmMDZhYTBlZGZkZjdmOWJlNTkzZmZl`
+Snapshot ID: `MTY2MjQ2MjI3NCwwMDAwMDAwMGEzZGM1MmU2M2FjZDRhMWEwOGNjNDUwODAzM2U5Y2Qx`

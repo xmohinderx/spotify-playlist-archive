@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3AQIJcCkXwU.md) - [plain]
 
 > Sitar, flute, and sounds inspired by India.
 
-[Spotify](https://open.spotify.com/user/spotify) - 385,652 likes - 99 songs - 7 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 385,797 likes - 98 songs - 7 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,12 +100,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3AQIJcCkXwU.md) - [plain]
 | 90 | [Mystiqal](https://open.spotify.com/track/3BHlTxvHcHkyPG5X7MXiaN) | [Vugh Gardens](https://open.spotify.com/artist/1HxBL3Ls3YdMjJjFCzqEm6) | [Mystiqal](https://open.spotify.com/album/5n0SyqxC9Tv3q8KrjNJNKC) | 3:28 |
 | 91 | [The Charmer](https://open.spotify.com/track/0QJrweWdWjeTgUCzlYNjw2) | [Lohar Lo](https://open.spotify.com/artist/1hnelI3NPY7liDYDvvcren) | [The Evening Charmer](https://open.spotify.com/album/0nviYGnTaD9YQlJWKEKfYJ) | 3:54 |
 | 92 | [A Song](https://open.spotify.com/track/3RIh7YfHR12l4RGT51Jq7t) | [River Bells](https://open.spotify.com/artist/7tjgFuQTvF34bRoYAiPvVv) | [Temple Meditation](https://open.spotify.com/album/6s1mXif0gMVAqtWeVC65Rx) | 3:08 |
-| 93 | [Magnetic](https://open.spotify.com/track/31Wui18tjMUSmIig5fvf6o) | [Tabla Beat Science](https://open.spotify.com/artist/4jd6GufdXsJXzwXXb0zX2T) | [Tala Matrix](https://open.spotify.com/album/7K5JvSfWk1vQNdS9V5DNxu) | 7:43 |
-| 94 | [Ram Dhonu](https://open.spotify.com/track/6Du5SpFeZ1ElDZ561LAqwM) | [Panini Sanyal](https://open.spotify.com/artist/3c6F8fssjJRlXWzYdFAnE2) | [Ram Dhonu](https://open.spotify.com/album/76fKqRACirAwXBuJcBJMN2) | 5:00 |
-| 95 | [The Deepest Of Sorrow](https://open.spotify.com/track/5TrqCiv8CSLHbSbvk0XDLo) | [Pathiena](https://open.spotify.com/artist/0gFioxhm0NLtIrUKSLkmUW) | [The Deepest Of Sorrow](https://open.spotify.com/album/7x43if6epaRgG3Mlj3dtwQ) | 3:32 |
-| 96 | [Mereya](https://open.spotify.com/track/4ob12xPI4xKPLoryBcxHmz) | [Dangle](https://open.spotify.com/artist/5hoKc2VVEGfNKUOWtPCRwv) | [Mereya](https://open.spotify.com/album/4GvbUJO6wPX6d5yD2rInya) | 2:53 |
-| 97 | [King of the Ragas \(Darbari\)](https://open.spotify.com/track/7n4BUekVuwAYTIHtxoz9n4) | [Manish Vyas](https://open.spotify.com/artist/4eZcz3z9PEo5TMzkjHlzrK) | [Ãnanda Nãda](https://open.spotify.com/album/1MYMwqJ5tCmMUjCc2NkJsZ) | 8:00 |
-| 98 | [Nani](https://open.spotify.com/track/3bqXrL2BwTK9sI2tjVF7FL) | [Kaatru](https://open.spotify.com/artist/5r5gWXcE1w7MgJjxSIcKRC) | [Nani](https://open.spotify.com/album/0wI1AG8bR82kMffk7jiuyU) | 3:27 |
-| 99 | [Raga Sundara](https://open.spotify.com/track/5GD43kQemov0BAih8Mb5Hg) | [Yantra Mantra](https://open.spotify.com/artist/1eE1hRgkFrYyoFuCO3WSOZ) | [Buddah's Chill, Vol\. 7 \(Buddha Asian Bar Lounge\)](https://open.spotify.com/album/7yb68aQVIHJeNfbdSjBnMj) | 4:06 |
+| 93 | [Ram Dhonu](https://open.spotify.com/track/6Du5SpFeZ1ElDZ561LAqwM) | [Panini Sanyal](https://open.spotify.com/artist/3c6F8fssjJRlXWzYdFAnE2) | [Ram Dhonu](https://open.spotify.com/album/76fKqRACirAwXBuJcBJMN2) | 5:00 |
+| 94 | [The Deepest Of Sorrow](https://open.spotify.com/track/5TrqCiv8CSLHbSbvk0XDLo) | [Pathiena](https://open.spotify.com/artist/0gFioxhm0NLtIrUKSLkmUW) | [The Deepest Of Sorrow](https://open.spotify.com/album/7x43if6epaRgG3Mlj3dtwQ) | 3:32 |
+| 95 | [Mereya](https://open.spotify.com/track/4ob12xPI4xKPLoryBcxHmz) | [Dangle](https://open.spotify.com/artist/5hoKc2VVEGfNKUOWtPCRwv) | [Mereya](https://open.spotify.com/album/4GvbUJO6wPX6d5yD2rInya) | 2:53 |
+| 96 | [King of the Ragas \(Darbari\)](https://open.spotify.com/track/7n4BUekVuwAYTIHtxoz9n4) | [Manish Vyas](https://open.spotify.com/artist/4eZcz3z9PEo5TMzkjHlzrK) | [Ãnanda Nãda](https://open.spotify.com/album/1MYMwqJ5tCmMUjCc2NkJsZ) | 8:00 |
+| 97 | [Nani](https://open.spotify.com/track/3bqXrL2BwTK9sI2tjVF7FL) | [Kaatru](https://open.spotify.com/artist/5r5gWXcE1w7MgJjxSIcKRC) | [Nani](https://open.spotify.com/album/0wI1AG8bR82kMffk7jiuyU) | 3:27 |
+| 98 | [Raga Sundara](https://open.spotify.com/track/5GD43kQemov0BAih8Mb5Hg) | [Yantra Mantra](https://open.spotify.com/artist/1eE1hRgkFrYyoFuCO3WSOZ) | [Buddah's Chill, Vol\. 7 \(Buddha Asian Bar Lounge\)](https://open.spotify.com/album/7yb68aQVIHJeNfbdSjBnMj) | 4:06 |
 
-Snapshot ID: `MTY2MTI2NzU4MiwwMDAwMDAwMGMyOGUyNWM5MDdmMTRmOTFlZjY2YjVjZDJlYzMxYzc1`
+Snapshot ID: `MTY2MjQ5MzI0MCwwMDAwMDAwMDhiODRiNjgyMTQ5MDU3ODgzNzk0Y2UyMjk1YTM1MWJi`

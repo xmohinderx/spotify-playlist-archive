@@ -2,9 +2,9 @@
 
 ### [mint South Africa](https://open.spotify.com/playlist/37i9dQZF1DWX4IFcj5utrY)
 
-> Only the hottest South African House and Dance singles out right now\. Cover: <a href="https://open.spotify.com/artist/5gVxephJtTx5uMF26ZVptW?si=w5Sf3CMgQkG4HbK58xv\_Pg">Mobi Dixon</a>
+> Only the hottest South African House and Dance singles out right now\. Cover: <a href="https://open.spotify.com/artist/3G1GDW2fFw536QyuZODfch?si=8TmBal5XSqG\-qZh7\-DAhgQ">Lelowhatsgood</a>
 
-523 songs - 2 day 3 hr 47 min - [published](https://open.spotify.com/playlist/24Uu3XWGtF4anu2FhCcmjB)
+524 songs - 2 day 3 hr 54 min - [published](https://open.spotify.com/playlist/24Uu3XWGtF4anu2FhCcmjB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -497,6 +497,7 @@
 | [Vormir](https://open.spotify.com/track/1nYxF2nufCc8iGe0YYVnSz) | [Wodash Stogh](https://open.spotify.com/artist/3StaDgLQW9Db7KNwMmZbhI) | [Vormir](https://open.spotify.com/album/2DxnP6B7SZERgp6iycP7Hd) | 6:17 | 2022-02-10 | 2022-02-18 |
 | [Vumani](https://open.spotify.com/track/50EzgMX3uxJZ8T2IJm2U6R) | [Dr Feel](https://open.spotify.com/artist/20OBylFJKe5WtQzqO32Xxq) | [Vumani](https://open.spotify.com/album/6ebtxzQZG0o22JkfFY8t1B) | 6:17 | 2022-02-03 | 2022-04-08 |
 | [Waiting](https://open.spotify.com/track/6iO5RXMuBM4CsLJwrzvt0r) | [Jordan Arts](https://open.spotify.com/artist/24eSGXE60RZgpoNACFxCLZ) | [Waiting](https://open.spotify.com/album/6vd0Q6rHFZ2E3mJO8bn7o2) | 3:58 | 2022-09-01 |  |
+| [Warriors](https://open.spotify.com/track/2P9gK2kFtgnivroCcfYBrL) | [Xtremo Soul](https://open.spotify.com/artist/0W0U93G2stUMMeI0T3fNnL), [TorQue MuziQ](https://open.spotify.com/artist/3cGcpSU6lBKEV2kMFJb0zK) | [Warriors](https://open.spotify.com/album/7ou0T1T2h5vOW5yz7p7LTl) | 6:24 | 2022-09-06 |  |
 | [We Beg Your Pardon](https://open.spotify.com/track/77jJBJRwxE2SwFDrZ5gvra) | [Kek'star](https://open.spotify.com/artist/7lgauJ5ZMIIwrJwvUvrWC4), [Gil Scott\-Heron](https://open.spotify.com/artist/0kEfub5RzlZOB2zGomqVSU) | [We Beg Your Pardon](https://open.spotify.com/album/71GAU64nNB4ypY4hoXGTyu) | 7:11 | 2022-07-07 | 2022-07-22 |
 | [We Belong](https://open.spotify.com/track/2PDjawR6el9LThbchXimFt) | [Shredder SA](https://open.spotify.com/artist/6hBPDqbndpJwIQjTXJRd7h), [ADJUMA](https://open.spotify.com/artist/5BDQAVSa4c1UsvXlmufpio), [Lyrical Ivy](https://open.spotify.com/artist/00gOWMo5dBzdqNDD4Far5L) | [We Belong](https://open.spotify.com/album/5VZRmoKh8atCrJuvo6NgSU) | 7:17 | 2022-06-23 |  |
 | [We Get Deep](https://open.spotify.com/track/5WIJ5QIdWvcgJx5TncBxvo) | [Hartley](https://open.spotify.com/artist/6EO4hcmWj2ZAAZ4Vb9eHlc) | [We Get Deep](https://open.spotify.com/album/1XKrn1fyc6v3QDd5nfF59E) | 7:01 | 2022-02-03 | 2022-02-26 |

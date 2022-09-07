@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 
 > The best independent music in a post\-genre world
 
-[Ditto Music](https://open.spotify.com/user/dittomusic) - 32,947 likes - 94 songs - 4 hr 49 min
+[Ditto Music](https://open.spotify.com/user/dittomusic) - 32,954 likes - 94 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 | 55 | [INVASION OF DRILL](https://open.spotify.com/track/03DVqPdZQa65UNXyGGvwts) | [Breeze Zulu Bass King](https://open.spotify.com/artist/6iZAD8LOEDd5fluTDkIU4q), [808RSA](https://open.spotify.com/artist/5sIbt07rSAUcgbNWjSZOSz) | [INVASION OF DRILL](https://open.spotify.com/album/1CBthDD0B9ovr72AoNKmTw) | 3:12 |
 | 56 | [Parating Na Ang Umaga](https://open.spotify.com/track/5Ne51jbyMmVGVWJ90YglE4) | [Tito Alvs and the Jojoes](https://open.spotify.com/artist/1JcK4Da20zj3ZnnEaHIdIT) | [Parating Na Ang Umaga](https://open.spotify.com/album/5ziYOS3kwYDKTZuPhiRnCW) | 3:30 |
 | 57 | [TEQUILA Y SAL](https://open.spotify.com/track/3jEcDVkFOZ53x6Tpn2hPfP) | [Kris Hollywood](https://open.spotify.com/artist/4G2q4uycuUOYCqPNEYNrSN), [Danni Ble](https://open.spotify.com/artist/1zBY2uQAr60siJjrsWkbsn) | [TEQUILA Y SAL](https://open.spotify.com/album/0IKqUVow99GR6S7qkf2kIk) | 3:36 |
-| 58 | [Andale](https://open.spotify.com/track/6tcQvNr83sZVgkLXJbUPW6) | [A9Dbo Fundz](https://open.spotify.com/artist/0re1rxUsmmsr5u6qbXvl8z), [A92](https://open.spotify.com/artist/5uWT1NONby2BqNCu42fdDc), [Brandz](https://open.spotify.com/artist/1I2O1hTFF1JXLnuvIn2IXl), [Tizzy x Brandz](https://open.spotify.com/artist/5vogp1PsqEfSvT7oM7jRGm), [A9Ksav](https://open.spotify.com/artist/2EAWn2cHuKWwhJjCGcXMPR) | [Andale](https://open.spotify.com/album/2j9btsdMaxkdO5Qck5Q9TK) | 2:46 |
+| 58 | [Andale](https://open.spotify.com/track/6tcQvNr83sZVgkLXJbUPW6) | [A9Dbo Fundz](https://open.spotify.com/artist/0re1rxUsmmsr5u6qbXvl8z), [A92](https://open.spotify.com/artist/5uWT1NONby2BqNCu42fdDc), [Brandz](https://open.spotify.com/artist/1I2O1hTFF1JXLnuvIn2IXl), [Tizzy x Brandz](https://open.spotify.com/artist/5vogp1PsqEfSvT7oM7jRGm), [A9Ksav](https://open.spotify.com/artist/2EAWn2cHuKWwhJjCGcXMPR), [Tizzy](https://open.spotify.com/artist/5dNJd5adjqccYseJtv8wZ9) | [Andale](https://open.spotify.com/album/2j9btsdMaxkdO5Qck5Q9TK) | 2:46 |
 | 59 | [days for you](https://open.spotify.com/track/6tnYfLS9mlurTFQQTzoXY6) | [Ted Jasper](https://open.spotify.com/artist/4PfXiTCDXTYEobjXjcRFNW) | [days for you](https://open.spotify.com/album/2wL0Pdb2KzDIswT1I8ITGq) | 2:41 |
 | 60 | [Chora por mim](https://open.spotify.com/track/6AyopbI7kFXj5Ske9HL2nw) | [Lucas Pretti](https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op) | [Chora por mim](https://open.spotify.com/album/53gxvwowd4RcpQbl319CaZ) | 2:47 |
 | 61 | [4:40 FREESTYLE](https://open.spotify.com/track/2fL7mP3pJFjcfHdbS4kf0j) | [Tona Sativa](https://open.spotify.com/artist/10UmrqEfeg6yiGZo5qKqyK) | [4:40 FREESTYLE](https://open.spotify.com/album/5idmW2DgQT3KKm7YlCmJVi) | 2:20 |

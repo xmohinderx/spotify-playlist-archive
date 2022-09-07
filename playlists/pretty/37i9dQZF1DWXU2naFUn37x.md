@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 
 > La casa dello street rap italiano\. Cover: Nabi
 
-[Spotify](https://open.spotify.com/user/spotify) - 810,455 likes - 45 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 810,602 likes - 45 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,6 +52,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 | 42 | [Benefit](https://open.spotify.com/track/5llcUAP6bmNBYEb3mssCqA) | [Delaruà](https://open.spotify.com/artist/0inlLzcyWLbJbPZuMzfTPt) | [Benefit](https://open.spotify.com/album/2QEXRSejARYPvcDfQmXENK) | 2:37 |
 | 43 | [QUATTERI \#2](https://open.spotify.com/track/2mhjSMEAbReJIguSuAUP0Y) | [Skinny](https://open.spotify.com/artist/1NHdROm8HLgfbar8uCIZGk) | [QUATTERI \#2](https://open.spotify.com/album/5rwB4fDaWfORiDU7KOhmuT) | 1:38 |
 | 44 | [Speranza e Fame](https://open.spotify.com/track/35ubuxGRmfd6DySV1R63th) | [emanuelino](https://open.spotify.com/artist/3XvGNKkWf5TQoR1xcfm5TU), [Uzi Lvke](https://open.spotify.com/artist/5n73VcgD8TKQvtG7gOSjjv) | [Speranza e Fame](https://open.spotify.com/album/4s42ucGhAufNpCj9bbKrOJ) | 2:48 |
-| 45 | [ItalGarage](https://open.spotify.com/track/43CigdSvQSNuQs1ccxS7V1) | [Kuremino](https://open.spotify.com/artist/1V4Yspflqmghgh91FQJW9n) | [ItalGarage](https://open.spotify.com/album/2wA2lNv7d0fsO7sxTFpdap) | 2:24 |
+| 45 | [ItalGarage](https://open.spotify.com/track/43CigdSvQSNuQs1ccxS7V1) | [Kuremino](https://open.spotify.com/artist/1V4Yspflqmghgh91FQJW9n), [Madfingerz](https://open.spotify.com/artist/4VmOlyJsnQB93ZIGMO2XWo) | [ItalGarage](https://open.spotify.com/album/2wA2lNv7d0fsO7sxTFpdap) | 2:24 |
 
 Snapshot ID: `MTY2MjA2OTY2MCwwMDAwMDAwMGFjMWJhODgzMjI5NGI5ZTYxY2VmZmFmODRiZDk1Mjlm`

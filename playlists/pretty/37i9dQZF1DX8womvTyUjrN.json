@@ -1,12 +1,12 @@
 {
   "description": "Fresh Latin pop on the rise. Cover: Pau Laggies",
-  "num_followers": 258688,
+  "num_followers": 258724,
   "original_name": "el nuevo pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDIzMjg4MiwwMDAwMDAwMDNiZjczZGQ0Zjc5MDg5OTBlNDBlMWQ5NGExMGViN2Y2",
+  "snapshot_id": "MTY2MjQ4Mjk0MCwwMDAwMDAwMDEzYzdmYWNmNTViMDcxZDAwM2I1NWYyNTgzNGM4NmIx",
   "tracks": [
     {
       "added_at": "2022-08-11 15:48:02",
@@ -423,6 +423,26 @@
       "duration_ms": 199468,
       "name": "Cuando Te Veo",
       "url": "https://open.spotify.com/track/1vkwYB3RIvRC9ZG5KjHdqI"
+    },
+    {
+      "added_at": "2022-09-06 16:49:00",
+      "album": {
+        "name": "YA NO",
+        "url": "https://open.spotify.com/album/2sHKdDqfzkwXyVZoHVA4PZ"
+      },
+      "artists": [
+        {
+          "name": "Seven Kayne",
+          "url": "https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz"
+        },
+        {
+          "name": "Diablo",
+          "url": "https://open.spotify.com/artist/38cfgJjmUEknY8JKyFBipW"
+        }
+      ],
+      "duration_ms": 226626,
+      "name": "YA NO",
+      "url": "https://open.spotify.com/track/2ubOm8LStEhv4CEiIOk01F"
     },
     {
       "added_at": "2022-08-11 15:48:02",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxwXKCsImRe.md) - [plain]
 
 > Exciting artists on the RADAR from the Benelux and beyond\. Cover: IBE
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,232 likes - 37 songs - 1 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,235 likes - 37 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

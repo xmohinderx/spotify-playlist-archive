@@ -1562,6 +1562,24 @@
     },
     {
       "album": {
+        "name": "Gravity",
+        "url": "https://open.spotify.com/album/252R4Lnh0YARC14bvRHE2s"
+      },
+      "artists": [
+        {
+          "name": "Ben Lukas Boysen",
+          "url": "https://open.spotify.com/artist/0lYoJnsYMVaAitj1pZVqER"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209502,
+      "name": "Only in the Dark",
+      "url": "https://open.spotify.com/track/3dX87nGdE9AdBbFPBN6JyD"
+    },
+    {
+      "album": {
         "name": "Gravity (Special Edition)",
         "url": "https://open.spotify.com/album/0lDH51Xy10a1fXsRMAyufW"
       },
@@ -2141,6 +2159,24 @@
       "duration_ms": 392293,
       "name": "The Girl With the Flesh Colored Crayon",
       "url": "https://open.spotify.com/track/2RWxRXIiwbcKEaplXoplUv"
+    },
+    {
+      "album": {
+        "name": "Carte-De-Visite",
+        "url": "https://open.spotify.com/album/3CtKKr1sTyL4XYLsYjw95A"
+      },
+      "artists": [
+        {
+          "name": "Stars Of The Lid",
+          "url": "https://open.spotify.com/artist/36pCa1JHc6hlGbfEmLzJQc"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225586,
+      "name": "The Mouthchew, Pt. 2",
+      "url": "https://open.spotify.com/track/0QWg9GVhRxE2r72Tw7PIzF"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd9T7p9UGiW.md) - [plain]
 
 > Catching flights and going global\. Cover:  <a href="https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx?si=uVza7nKJRjCDhVZ8of4HQg" > Selena Gomez </a> and <a href="https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS?si=FG7\-ztOsQ46cuzDucGCEoQ" > Rema </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,741 likes - 80 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,776 likes - 80 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

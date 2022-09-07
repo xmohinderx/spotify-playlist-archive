@@ -1770,6 +1770,24 @@
     },
     {
       "album": {
+        "name": "Go away",
+        "url": "https://open.spotify.com/album/6NXDgS5x1zVQsgpdNangZk"
+      },
+      "artists": [
+        {
+          "name": "Junky58%",
+          "url": "https://open.spotify.com/artist/70KfXyXsFwEmCA1i6kMn2m"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168197,
+      "name": "Go away",
+      "url": "https://open.spotify.com/track/74m1ANTskdub3D1QgMoMwX"
+    },
+    {
+      "album": {
         "name": "10-feat",
         "url": "https://open.spotify.com/album/0fEuThtACeHQcSULrDR1ma"
       },
@@ -5691,7 +5709,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-07",
       "duration_ms": 182480,
       "name": "ZINNIA",
       "url": "https://open.spotify.com/track/453y9UfKiUqrGNOAYcGvhh"
@@ -6627,7 +6645,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-07",
       "duration_ms": 168127,
       "name": "\u30d0\u30a4\u30d0\u30a4\u3001\u50d5\u306e\u604b\u4eba\u3002",
       "url": "https://open.spotify.com/track/4i8d4saakaXrCEOrX0tFiM"
@@ -7013,6 +7031,28 @@
       "duration_ms": 212493,
       "name": "\u50d5\u3089\u306f\u2026",
       "url": "https://open.spotify.com/track/6pyM8gK1E8Q3vDbO8saYar"
+    },
+    {
+      "album": {
+        "name": "\u512a\u3057\u3044\u30a6\u30bd\u3067",
+        "url": "https://open.spotify.com/album/4s5sco6vLDdMKFEZz0UDNk"
+      },
+      "artists": [
+        {
+          "name": "\u5ca1\u7530\u5eb7\u592a",
+          "url": "https://open.spotify.com/artist/2JDyuIyYuD6CIt0Dn3DiUX"
+        },
+        {
+          "name": "ROMANKAKUMEI",
+          "url": "https://open.spotify.com/artist/6jgUFsEBD3a3CW645IVQuN"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314390,
+      "name": "\u512a\u3057\u3044\u30a6\u30bd\u3067",
+      "url": "https://open.spotify.com/track/7yFaNhX7rmlzk5kXHlu86q"
     },
     {
       "album": {

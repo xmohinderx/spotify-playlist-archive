@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 
 > Fresh new Korean independent talents are here\. \(Cover: COOING\(쿠잉\)\) \(프레쉬한 한국의 인디펜던트 아티스트들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,542 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,608 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 | 11 | [How long will it take to forget you?](https://open.spotify.com/track/602oKSLMH6egWsrt2JgjqA) | [Able](https://open.spotify.com/artist/5QLTdB5zd44gkuqSjUVIWl) | [How long will it take to forget you?](https://open.spotify.com/album/6WbjW3cKf5HgCx9F0AbCBf) | 3:42 |
 | 12 | [softie inside](https://open.spotify.com/track/3Yae8EZ7eSC44hFXgxnSzf) | [SoonSoonHee](https://open.spotify.com/artist/3VOan0TuiwkfjnPLDXBPbG) | [softie inside](https://open.spotify.com/album/3NQOhmt0X1jJYdZO5KXtve) | 3:15 |
 | 13 | [DOONGDOONG](https://open.spotify.com/track/1yZlciew2fF8UeKRTWnSyr) | [GAYUN](https://open.spotify.com/artist/6n7CIEww6DHvulPWWaY7lx) | [DOONGDOONG](https://open.spotify.com/album/42rPgb1YkbplNgH4pSm1Ya) | 2:18 |
-| 14 | [Wait, Wait](https://open.spotify.com/track/1a9vDXgDW0su5h6KmCkn1P) | [GRASS](https://open.spotify.com/artist/0x2BuI7xdJj7ZBLDTiDDJt), [Yeo Lim](https://open.spotify.com/artist/3qtWx58yVkZwWCq0qEp5Ku) | [Wait, Wait](https://open.spotify.com/album/4o97IromAQsw7DOolHfg5T) | 3:17 |
+| 14 | [Wait, Wait](https://open.spotify.com/track/1a9vDXgDW0su5h6KmCkn1P) | [Grass](https://open.spotify.com/artist/3IAV4UlkGi0MzK0rEijrHi), [Yeo Lim](https://open.spotify.com/artist/3qtWx58yVkZwWCq0qEp5Ku) | [Wait, Wait](https://open.spotify.com/album/4o97IromAQsw7DOolHfg5T) | 3:17 |
 | 15 | [Color It](https://open.spotify.com/track/5kFDEZPQLyyt7bvaiqPyRc) | [MRCH](https://open.spotify.com/artist/4S0q5n7ZzNzeiW0dAUnYHl) | [Color It](https://open.spotify.com/album/5b4eIlmtGlTHfY6yPTjD75) | 3:19 |
 | 16 | [Don't be afraid to fall](https://open.spotify.com/track/2AfW3wIFo6uR2YIPoVewrd) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [Don't be afraid to fall](https://open.spotify.com/album/5lXkyPBrvROgUmXkVBBDEY) | 3:31 |
 | 17 | [If You](https://open.spotify.com/track/53ioaj2WPAVA2CDrPBTjPI) | [Kid Wine](https://open.spotify.com/artist/4AUvnqezrLIzhkWD7TuICb) | [ROSÉ](https://open.spotify.com/album/4NYDb3DfkaCG2mQwaONipS) | 3:34 |

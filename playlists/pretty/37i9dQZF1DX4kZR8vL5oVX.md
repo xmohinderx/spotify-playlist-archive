@@ -2,50 +2,45 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 
 ### [EQUAL France](https://open.spotify.com/playlist/37i9dQZF1DX4kZR8vL5oVX)
 
-> Les femmes montent le son\. Photo : Pomme
+> Les femmes montent le son\. Photo : Jeanne Added
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,468 likes - 39 songs - 1 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,461 likes - 34 songs - 1 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Nelly](https://open.spotify.com/track/6GAG3B6iYZOy1Wf0aMlkvl) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [Nelly](https://open.spotify.com/album/2n3ppbc77GVkJD47hZdKwe) | 3:25 |
-| 2 | [Piqué](https://open.spotify.com/track/0cqWTxcwQ30uL7MCytT64n) | [Imen Es](https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E), [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV) | [Piqué](https://open.spotify.com/album/6eFH0BH4jl3Qtg3thlwklG) | 2:36 |
-| 3 | [365](https://open.spotify.com/track/6Jy1KkMQyVLFLeu7sBMUDR) | [Barbara Pravi](https://open.spotify.com/artist/3L4wiBOSDLkJ18OISXZDA8) | [365](https://open.spotify.com/album/40uxhzWDOxom85sFCc9iHK) | 2:50 |
-| 4 | [Coco Chanel](https://open.spotify.com/track/3KtTIqLOCITa1RLHRxfjtS) | [Lynda](https://open.spotify.com/artist/2GlEiSHYEKlq9cUYDa9oZb) | [Coco Chanel](https://open.spotify.com/album/7tpQGE72vn5RJG450PvB6Z) | 2:34 |
-| 5 | [48h](https://open.spotify.com/track/4OQhDNCLwT4mdVXPR1SPpX) | [Stéphane](https://open.spotify.com/artist/1ONaDILNtXKICFlrBdmgif) | [48h](https://open.spotify.com/album/7acWyuPspnrOAo7w84HvZf) | 2:58 |
-| 6 | [Re](https://open.spotify.com/track/5mMlfduTTz7UhK0OWjab2S) | [Wejdene](https://open.spotify.com/artist/1SxuyHZnLUFyFHGzdGaxZk) | [Re](https://open.spotify.com/album/5QlhZku4G4NR9aHOUMgHCI) | 2:53 |
-| 7 | [Hors Piste](https://open.spotify.com/track/7LrVEMD3Qtva05qoBivomr) | [Poupie](https://open.spotify.com/artist/71x0OO2toFjXrMRcufL9tv) | [Hors Piste](https://open.spotify.com/album/7npKfCu8EwFlXqSvErPZCj) | 2:39 |
-| 8 | [FALLAIT DIRE NON](https://open.spotify.com/track/0OJWgE7MyLEO0NKVWxBisL) | [Lala &ce](https://open.spotify.com/artist/1AKP8Tnz8KfOdRM4mqvNtF) | [SunSystem](https://open.spotify.com/album/2iZTwsFoNuV7KywtKM7lVT) | 3:09 |
-| 9 | [Roméo&Juliette](https://open.spotify.com/track/2tIWSnNLyD2EdGgcnkyzl3) | [Olympe Chabert](https://open.spotify.com/artist/5vAhRi3Q9OFWN9C8pO3oTp) | [Roméo&Juliette](https://open.spotify.com/album/59WxYXTPmlmd2Y1aZWM6eP) | 3:52 |
-| 10 | [Tomber](https://open.spotify.com/track/5Ahu1gSbeqZo1YxPTl7Wzq) | [Leila AD](https://open.spotify.com/artist/29OFoMngbkNzwla2kczgdu) | [Tomber](https://open.spotify.com/album/6Q13IzviW0AWv3dUoXtS1X) | 2:37 |
-| 11 | [Vidéodrome](https://open.spotify.com/track/6o9QXLoLe1SBmufPo5Dyu4) | [P.R2B](https://open.spotify.com/artist/6R6tuqCxJRopO4bE8nfLGk) | [Vidéodrome](https://open.spotify.com/album/6wvnzv5Y9xg6SH14Q598xe) | 3:07 |
-| 12 | [Love to Love](https://open.spotify.com/track/4YRmylEOTJlLptRRo3iNpC) | [Kany](https://open.spotify.com/artist/0bD7mEP1eG7KRK84O1SjkF) | [Love to Love](https://open.spotify.com/album/6p09G9Q6vzehJPW0IzoMNF) | 3:07 |
-| 13 | [Seule](https://open.spotify.com/track/5OLUrLvTptlqQoieD1LZWP) | [Leys](https://open.spotify.com/artist/5QNv7hSi3Ba7DV4li83jFG) | [Seule](https://open.spotify.com/album/5IUFZeiYpy3b9qajjLGDNH) | 2:36 |
-| 14 | [Tu sais](https://open.spotify.com/track/5L37ceafXbzP3PePywJq7V) | [Minissia](https://open.spotify.com/artist/7grHO7fIKR0mfOLo5BEFBl), [Lafropop](https://open.spotify.com/artist/0xUxEo49seH9MBR7rZpqsB) | [Tu sais](https://open.spotify.com/album/2pOOt1k6MQaERokFfFaVk4) | 2:50 |
-| 15 | [No More Doubt](https://open.spotify.com/track/4Oq69vJVrRt4Q5bSQhoeB4) | [Romane](https://open.spotify.com/artist/0n4XFcBXIvCkXZdXQFMigW) | [No More Doubt](https://open.spotify.com/album/2KYLphOnR1zIzSF26BCoBA) | 2:56 |
-| 16 | [Baecation](https://open.spotify.com/track/2FKflinOMTdvXGBQAp9O7W) | [Le Juiice](https://open.spotify.com/artist/67MIpliQaIhUN1WLSkYEqC) | [Baecation](https://open.spotify.com/album/3Rmb2Mr4LPCYXza4TEvjgN) | 3:43 |
-| 17 | [Coup de soleil](https://open.spotify.com/track/191MxYhNwpsVCh4Az3fkmK) | [ELISA ERKA](https://open.spotify.com/artist/1EkqwqtzsjxMYJZH73RFVM) | [Coup de soleil](https://open.spotify.com/album/1IEh1tmYDI8rCAc4pCxPfK) | 2:42 |
-| 18 | [Yomb \(Music Monday\)](https://open.spotify.com/track/6YBsk2WwMvok0OYiuduNem) | [Ocevne](https://open.spotify.com/artist/0K4D8NX2d2sMQlvWcfLhSL) | [Yomb \(Music Monday\)](https://open.spotify.com/album/60X9enHFdikrWGZftIPWmy) | 2:45 |
-| 19 | [Pas le temps](https://open.spotify.com/track/7DqBmgSQZJJrKAYqjyDkFB) | [Dina](https://open.spotify.com/artist/40OywkN721WGbrgf7BCB13) | [Pas le temps](https://open.spotify.com/album/2dtYu9dDymWmkf4OFDYoAv) | 3:09 |
-| 20 | [Doudou mets ta robe rouge](https://open.spotify.com/track/54bz9UmXdkI6zpZwJJWeSQ) | [Perle Lama](https://open.spotify.com/artist/3JCfgXnyQBwjAp61EctbQP) | [Soleil la](https://open.spotify.com/album/3fbuYQnRRZcu85w9BDR2pz) | 3:37 |
-| 21 | [Rengaine](https://open.spotify.com/track/11oSV1uWeXCF4jSzwpZffA) | [Zélie](https://open.spotify.com/artist/0TGeOStDbxqVi8UJdBQsEx) | [11 mai 2020](https://open.spotify.com/album/0BoigvsL13ZlJ54rbTryoq) | 2:50 |
-| 22 | [DGT](https://open.spotify.com/track/15qQs3cBr7SeqOssfB0imS) | [Doria](https://open.spotify.com/artist/4ddqz1AzqYMRKYTslXO839) | [DGT](https://open.spotify.com/album/5NXvP0XMCC1zkxYOYVhh9R) | 2:34 |
-| 23 | [Essayer](https://open.spotify.com/track/5ECIx1f4vNKbPqwtr22erJ) | [Lylah](https://open.spotify.com/artist/6rMyZCzpGGloxJODqWyYRF) | [Essayer](https://open.spotify.com/album/3iqyYsZVMmIkqe3vFMmq5G) | 3:20 |
-| 24 | [Die \(cover\)](https://open.spotify.com/track/4yWypfTz46wJaMIfkMLC4s) | [Whitney](https://open.spotify.com/artist/5w5MVvOJSu0nGTFRkkc69W) | [Die \(cover\)](https://open.spotify.com/album/4jG0lek2rIC5pbgibDJkpq) | 2:36 |
-| 25 | [Carmen \- Mathilda Summer Tales Rework](https://open.spotify.com/track/0gHb2x76HDKXHfd0qFPwrN) | [Mathilda](https://open.spotify.com/artist/3G3kiaWiTm0mUdzujLRuji) | [Carmen \(Mathilda Summer Tales Rework\)](https://open.spotify.com/album/05V6oOZkKo9rTTK7Qvdm0F) | 4:25 |
-| 26 | [Lundi au Lundi](https://open.spotify.com/track/6aphfKrq5Iirl1iNRP7WdL) | [Romy Rose](https://open.spotify.com/artist/0McCULnP8KpnUqIPSttJ2a) | [Lundi au Lundi](https://open.spotify.com/album/4gbl5DjpiZhaRbFyvRIhKA) | 2:41 |
-| 27 | [PCS](https://open.spotify.com/track/3IKfH3GeCRiSoj4kDpkkdG) | [BabySolo33](https://open.spotify.com/artist/6OpHYcuQqOouW8AEwGc7SL) | [PCS](https://open.spotify.com/album/3f8OW0pdsYzi5GCAXM5YAx) | 2:25 |
-| 28 | [Maladroit](https://open.spotify.com/track/4RFlWLFJwCYwveI46Hdf7z) | [Aöme](https://open.spotify.com/artist/2ylIlV0oukLVNOjsqv6HI8) | [Maladroit](https://open.spotify.com/album/4aORDZeFDjW6YzUlEGNz3s) | 2:24 |
-| 29 | [C'est chelou](https://open.spotify.com/track/6pgH24QHnJF9vS10Un52z7) | [KALIKA](https://open.spotify.com/artist/0UgxFqJmwkpojz4mHBsRpD) | [C'est chelou](https://open.spotify.com/album/1b1nMEfygA0ri4WF5V9NcB) | 3:16 |
-| 30 | [Doucement](https://open.spotify.com/track/1AMe1fpZ2okM8gIdL7iBT9) | [AMELY](https://open.spotify.com/artist/1ZjMt2JJguTMAqvZwRqRNx) | [Doucement](https://open.spotify.com/album/4yzx8KbNlNG1FiktkSPKeP) | 2:40 |
-| 31 | [Starbucks](https://open.spotify.com/track/7kHaEXl42wgQuTa7wl6LFV) | [Morgan](https://open.spotify.com/artist/6sGG5B6oUd8P9FCOtpV97c) | [Brikabrak, Vol.1](https://open.spotify.com/album/0AyQKNQbjWima7HEBgl4nM) | 0:44 |
-| 32 | [Calma](https://open.spotify.com/track/2jll0FYneJFAFcJaZm2GmQ) | [JADE](https://open.spotify.com/artist/1O6n6qqb7yPzzMeBq7Ytwl) | [Calma](https://open.spotify.com/album/1NK1v7nfbyeEPt18ZbxpFi) | 3:04 |
-| 33 | [NGR](https://open.spotify.com/track/7ymzr1whi9W2ZbL6JX7Ygi) | [Eesah Yasuke](https://open.spotify.com/artist/12w3AFOBfSycL4YP2nnEOC) | [NGR](https://open.spotify.com/album/1MtL34RQ5kbc9smWBp956Z) | 2:56 |
-| 34 | [Café](https://open.spotify.com/track/3VUx8QNifEyi4PgIl0pelw) | [Myra](https://open.spotify.com/artist/0CREEnqrPXZUTyHKATsUWE) | [37 degrés](https://open.spotify.com/album/1W1AHlF0ZqSHy1NnVP7DWP) | 2:31 |
-| 35 | [Ma moitié](https://open.spotify.com/track/5cc8kWoW6SecUjRfGMel8w) | [Inèss Parks](https://open.spotify.com/artist/6O0ieEx4E2r2gEwHiXYT6x) | [Ma moitié](https://open.spotify.com/album/0rjNQPfLnySfSJbystUvSe) | 3:02 |
-| 36 | [NOCHE](https://open.spotify.com/track/5hUQtYvMKGP2iqBs1pCrKY) | [SARA SOFIA](https://open.spotify.com/artist/1gpoxohUsapx6qpKkyOCWL) | [Noche](https://open.spotify.com/album/63mLRn0hc6WDFxiotneQPz) | 2:42 |
-| 37 | [Fantasy Girl](https://open.spotify.com/track/75CoiQTM3XHWSmm4XlfM20) | [Novaé Lita](https://open.spotify.com/artist/1tZ9lQ62KmVFephCl3hfB6) | [Fantasy Girl](https://open.spotify.com/album/2PPmrh2GUeD42U42NWMO9v) | 2:06 |
-| 38 | [Bébé](https://open.spotify.com/track/4l8fvUp5kYt83NTAU9MY3S) | [Sirine LV](https://open.spotify.com/artist/2KEL18awtDFoxvOHQiuRw5) | [Bébé](https://open.spotify.com/album/75DRDJC5XikqlK93FtFS3Y) | 2:14 |
-| 39 | [Benti](https://open.spotify.com/track/2czmqUI8rI4bhaEmhk4gkk) | [Biaziouka](https://open.spotify.com/artist/6hYHx2DaFd4QyiKNBs2UT8) | [Benti](https://open.spotify.com/album/6LHkEqJNjns3qj2HcFQK3n) | 2:58 |
+| 1 | [Au Revoir](https://open.spotify.com/track/2zgdLtgbKNKbCxu9XNY02C) | [Jeanne Added](https://open.spotify.com/artist/5TEGxYftTkeKmLXkZjHNUE) | [Au Revoir](https://open.spotify.com/album/0yMMkD2mABHk4OcGNDQDYd) | 4:01 |
+| 2 | [J'élimine](https://open.spotify.com/track/7Dts96N2o83Uc0xAl1hKaV) | [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV) | [Ronisia](https://open.spotify.com/album/7dqyuC6iZx7dao1KBIfQty) | 2:17 |
+| 3 | [I LOVE YOU](https://open.spotify.com/track/1VbxvZ4Rv8Xw9Hvcp1iGRp) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [I LOVE YOU](https://open.spotify.com/album/3SJhcGgcwKvJlw2epL7123) | 3:39 |
+| 4 | [Sunset](https://open.spotify.com/track/3ElQZM0z5G62E4LpBTRv89) | [Adé](https://open.spotify.com/artist/3NIFl4tsySuu3eu8Yt8c0s) | [Sunset](https://open.spotify.com/album/7fEs6COj491uKlAxmGgaIU) | 3:28 |
+| 5 | [À tout jamais](https://open.spotify.com/track/048gupABMSEZEm1UEkxbTP) | [Mylène Farmer](https://open.spotify.com/artist/0e04xgVBPU6mE2QkSHlufD) | [À tout jamais](https://open.spotify.com/album/7Lkk74RsYAycae1qV1fdxz) | 3:46 |
+| 6 | [jardin](https://open.spotify.com/track/1QEcr57b4oSQuRk4ztmKkL) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [consolation](https://open.spotify.com/album/3fDL1MKPGRyXRHUkHK1fR1) | 4:52 |
+| 7 | [Pas sans toi \- \#UnZoukAvecVous](https://open.spotify.com/track/7gXQpl662hsWEiJQjWJqPF) | [Kim](https://open.spotify.com/artist/1bufaOa1xsdvxGxeqQJtzW) | [Pas sans toi \(\#UnZoukAvecVous\)](https://open.spotify.com/album/3D6XfeDD1DtnjMj2gSg59s) | 3:03 |
+| 8 | [C'est pas ta faute](https://open.spotify.com/track/5zo1WKT1gj2vzuFyJsdfcH) | [Les Frangines](https://open.spotify.com/artist/2sYOUJa6fNc4ke4Zo6EkZ4) | [Notes](https://open.spotify.com/album/681bCt6MLf4hTxhVMdWH5R) | 3:02 |
+| 9 | [Paris en Août](https://open.spotify.com/track/6fXUOK5wb2yZUMz1cWV2zd) | [SANTA](https://open.spotify.com/artist/5Vf6gyVzfo8TnzrPRBg3qo) | [Paris en Août](https://open.spotify.com/album/3EkxQ6GEnoum2TFhrrXOVg) | 3:11 |
+| 10 | [Règlement](https://open.spotify.com/track/4MeHSbK9nWhRAt2au7SXHR) | [Kany](https://open.spotify.com/artist/0bD7mEP1eG7KRK84O1SjkF) | [Règlement](https://open.spotify.com/album/74U1OTZhSgCkB1i60vhvV1) | 2:36 |
+| 11 | [Gaffe aux autres](https://open.spotify.com/track/33mN4sWswIF5wlRs061KXX) | [Styleto](https://open.spotify.com/artist/4vbZKiwmvbbW6onily9SJ5) | [Carrousel](https://open.spotify.com/album/48ipTBEr85O48Ig0CAQc5x) | 2:57 |
+| 12 | [Mister Unknown](https://open.spotify.com/track/0YGxsYwJbxzaHJQ0lj37EL) | [Kolinga](https://open.spotify.com/artist/1l4wo8qR1qvFN8aym2xmDM) | [Legacy](https://open.spotify.com/album/5b3gna0s0ax6jG8BVULbUV) | 6:20 |
+| 13 | [Garçon bleu](https://open.spotify.com/track/4TRKIvJaPFL4Ty4MtyjUhO) | [Mademoiselle K](https://open.spotify.com/artist/5O2FUMAWxdTikjoCBAXrNI) | [Garçon bleu](https://open.spotify.com/album/50m6eKmeHvHC1RWXjTxWVy) | 3:07 |
+| 14 | [Les moulins de mon coeur](https://open.spotify.com/track/4NLBhoKGhE97oILXcMsAGc) | [Coline Rio](https://open.spotify.com/artist/0avwZ2v9jOgVLB1IfimwdA) | [Les moulins de mon coeur](https://open.spotify.com/album/3EZIJBxX2WkMDz6Jru2yeD) | 2:56 |
+| 15 | [Dis\-moi](https://open.spotify.com/track/2eEuzVGjS8gBM60KfwWNpY) | [Sirine Jne](https://open.spotify.com/artist/3ZZZzt75IwYr287gQ161CA) | [Dis\-moi](https://open.spotify.com/album/5QTyecKatuvxU6SeV9wfm0) | 2:48 |
+| 16 | [Va là\-bas](https://open.spotify.com/track/41183c9KH7KYJf0W1kea7X) | [Marghe](https://open.spotify.com/artist/0fmiJKQkjcX69wVNArGZtk) | [Alefa](https://open.spotify.com/album/2pv13oXcXyWdCH01SywgU3) | 3:18 |
+| 17 | [L'art de la guerre](https://open.spotify.com/track/4mRgkfUochziQ02g1lVmPP) | [Kayna Samet](https://open.spotify.com/artist/3qLpAs6VLppZrKlI0CXK6k) | [L'art de la guerre](https://open.spotify.com/album/2Kr09zgLEEeU2v1OXkvPzM) | 2:29 |
+| 18 | [Crush \(feat\. Anaïs Demoustier\)](https://open.spotify.com/track/3jHeHzz5MSmBhUuhaS6H7g) | [Requin Chagrin](https://open.spotify.com/artist/7hstPLRSo0ipNnICMpTN5g), [Anaïs Demoustier](https://open.spotify.com/artist/0nWAZSp0jv8b7RDmrbW4Eh) | [Bye Bye Baby](https://open.spotify.com/album/2iVrZlFKJDwvwnXz4VZYwm) | 3:18 |
+| 19 | [De Passage](https://open.spotify.com/track/6lYSztZ3Ahlw2lhrFCV0ER) | [Anna Kova](https://open.spotify.com/artist/286w6qp0xgPtlyggwQk6DL) | [De Passage](https://open.spotify.com/album/1bAXfbc7L8lrM2RlWTDxNC) | 2:40 |
+| 20 | [Dolce Vita](https://open.spotify.com/track/0ReH6t32sAXluk2qg0xi8e) | [MIMAA](https://open.spotify.com/artist/7CGhrDSdJxatpQf0qNRACS) | [Dolce Vita](https://open.spotify.com/album/3O5NY1Xn2Yy0R7rM8kvUXL) | 2:34 |
+| 21 | [Home](https://open.spotify.com/track/0zkwUKkvqvlwsWfNfGCUaD) | [Romane](https://open.spotify.com/artist/0n4XFcBXIvCkXZdXQFMigW) | [Home](https://open.spotify.com/album/6ueq5w8dhXtozs3dbk1Vuc) | 3:23 |
+| 22 | [Leçon2Princess](https://open.spotify.com/track/1NoqnhDb5sfoVzU7uQsa18) | [BabySolo33](https://open.spotify.com/artist/6OpHYcuQqOouW8AEwGc7SL) | [Leçon2Princess](https://open.spotify.com/album/5Av167ij9zDSuFCFGfcxQ6) | 2:43 |
+| 23 | [Unfold](https://open.spotify.com/track/7Ep8BuyZZGrbDP3alg2jPX) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Unfold](https://open.spotify.com/album/5eMxezuwxG5iv40YIjXuop) | 1:30 |
+| 24 | [Quand je suis avec toi](https://open.spotify.com/track/33yv4bW1EHup8BsoGvvPrO) | [Elsa Esnoult](https://open.spotify.com/artist/4UqemBLSwyT41AG6RYp7N9) | [6](https://open.spotify.com/album/1TLZsU8GC8Yuq6sCh5yMQu) | 4:18 |
+| 25 | [Still the One](https://open.spotify.com/track/3iJL22C8i6M0txZXrjeyb9) | [Poppy Fusée](https://open.spotify.com/artist/5IFUbcd4w9UlVpsMNfY4FT) | [Still the One](https://open.spotify.com/album/6TZ1OTwD1GCQyyeLKpE0ux) | 3:02 |
+| 26 | [bootycall](https://open.spotify.com/track/7obibJSl1Dlcr2vHpO99Z5) | [Yoa](https://open.spotify.com/artist/7d1ctWXfrUvAe804Zld3Gy) | [bootycall](https://open.spotify.com/album/4ddGPrHs0PB1aJgt0ReAgj) | 2:28 |
+| 27 | [NO VASELINE](https://open.spotify.com/track/4bvoNTQhZW4fHqYiScJLTn) | [KT Gorique](https://open.spotify.com/artist/2UQaGEb3EMAa01ibiQaEsh) | [NO VASELINE](https://open.spotify.com/album/2FXHBLZEpjD9CZ8HSWcoTB) | 3:16 |
+| 28 | [MELODIE](https://open.spotify.com/track/7Mcyhg3EXPxwlYm7a3EGbV) | [Oordaya](https://open.spotify.com/artist/7JWxRPYnCGaZPh1L44NWtY) | [MELODIE](https://open.spotify.com/album/66QqIDdyRjPw9JaErRB83g) | 3:36 |
+| 29 | [Les rayons du soleil](https://open.spotify.com/track/2910CL97fOZuktipcMhRCp) | [Adeline Lovo](https://open.spotify.com/artist/7yhd0k8UToSYCkNq7HUBC6) | [Les rayons du soleil](https://open.spotify.com/album/2YnlIGarVOdyCr9pyIJPU2) | 3:08 |
+| 30 | [Monet Back 4](https://open.spotify.com/track/3B6X9wGF6mc0nq7HSKQOpf) | [Liza Monet](https://open.spotify.com/artist/2pm7A6x2MssiqbvAox6zXX) | [Monet Back 4](https://open.spotify.com/album/6eCZv1wDM1jf1w6OFJfIED) | 1:53 |
+| 31 | [Grace's Secret](https://open.spotify.com/track/0MslBx8LZHh7cSVcE00EGK) | [Amø](https://open.spotify.com/artist/5ge6CL6agQQ7hvB8KLGKyF) | [Bloom](https://open.spotify.com/album/78rgf0QiclK8o8BlvZuYKV) | 1:58 |
+| 32 | [Jealous](https://open.spotify.com/track/2RaoPjwysyOTrvWSrJqIlw) | [Thérèse](https://open.spotify.com/artist/0MRJR6Vi7XRaXbBe1H9WN1) | [Jealous](https://open.spotify.com/album/7itvyLgXtShLpIgBvVTzYO) | 3:13 |
+| 33 | [Claire You Don't Want To Be Saved](https://open.spotify.com/track/66XB5Tr2pwzHeHHeENPIHW) | [Claire days](https://open.spotify.com/artist/51Vw9YWwshaKc9xqtHnNES) | [Claire You Don't Want to Be Saved](https://open.spotify.com/album/3BY3Ifhgfl1eOELBwuocO6) | 3:06 |
+| 34 | [Blonde](https://open.spotify.com/track/7hiZSlGcCy8YLeHVsJjyNL) | [Le Paon](https://open.spotify.com/artist/2JGuBoiuoXvEI3A7CF1buF) | [Blonde](https://open.spotify.com/album/7cikiDel3bgFZLtStaDY7c) | 3:20 |
 
-Snapshot ID: `MTY1OTk3NjAzMCwwMDAwMDAwMGZiZDdkYTMwN2E4M2QwOGZmNjZiZDhjNTc3ZjMzODgw`
+Snapshot ID: `MTY2MjUwMTYwMCwwMDAwMDAwMGNhN2IyOGQ5ZGJkNTBjMmFjYTdmNzg3ZTU0OTIwNTc5`

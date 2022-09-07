@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c7yCloFHHL.md) - [plain]
 
 > The home of today’s cutting edge Ambient, Atmospheric and Neo Classical music\. Pantha Du Prince on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,007 likes - 200 songs - 15 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,093 likes - 200 songs - 15 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

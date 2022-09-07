@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cgootvTU8I.md) - [plain]
 
 > Jungle is still massive
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,689 likes - 89 songs - 7 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,744 likes - 89 songs - 7 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

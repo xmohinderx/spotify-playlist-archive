@@ -1,15 +1,15 @@
 {
   "description": "Listen to Greek women at full volume. Cover: Anastasia",
-  "num_followers": 10032,
+  "num_followers": 10049,
   "original_name": "EQUAL Greece",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTQ3NDAwMywwMDAwMDAwMDExMTVjYjJkYmUzZGRiNzhjZmY5ZmQ3ZTllMTFkMDVk",
+  "snapshot_id": "MTY2MjQ5ODAwMCwwMDAwMDAwMDQ3OTA1MzU5NGRkNTYxZmVjNGJlOGFlYjdiODg1ODcw",
   "tracks": [
     {
-      "added_at": "2022-08-02 21:00:00",
+      "added_at": "2022-09-06 21:00:00",
       "album": {
         "name": "Ligo Ligo",
         "url": "https://open.spotify.com/album/1vRQu7kPciIGfVhWABjTnN"
@@ -25,7 +25,43 @@
       "url": "https://open.spotify.com/track/4ba3bmE2i6SvEXIaJYhUoJ"
     },
     {
-      "added_at": "2022-08-02 21:00:00",
+      "added_at": "2022-09-06 21:00:00",
+      "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/7x4Q3tWaIU7qfqVlnJEgM8"
+      },
+      "artists": [
+        {
+          "name": "Evangelia",
+          "url": "https://open.spotify.com/artist/3J7SI1JrZt43ZBlH24IqCK"
+        }
+      ],
+      "duration_ms": 156088,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/1AnKPJBNBvgezzKso7NmWy"
+    },
+    {
+      "added_at": "2022-09-06 21:00:00",
+      "album": {
+        "name": "Egw & Esy",
+        "url": "https://open.spotify.com/album/1zRXNHNn9OahCcQdhG5zwH"
+      },
+      "artists": [
+        {
+          "name": "Trannos",
+          "url": "https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc"
+        },
+        {
+          "name": "Eleni Foureira",
+          "url": "https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2"
+        }
+      ],
+      "duration_ms": 186885,
+      "name": "Egw & Esy",
+      "url": "https://open.spotify.com/track/3N2iBFazoTUIvgcqu2PdDZ"
+    },
+    {
+      "added_at": "2022-09-06 21:00:00",
       "album": {
         "name": "An kapou kapou m' agapas",
         "url": "https://open.spotify.com/album/7LueUWaZS06KOtNLvQRK8J"
@@ -41,7 +77,55 @@
       "url": "https://open.spotify.com/track/1iGn8Ro9AvGcgFC9Bpl4M1"
     },
     {
-      "added_at": "2022-08-02 21:00:00",
+      "added_at": "2022-09-06 21:00:00",
+      "album": {
+        "name": "Efyges",
+        "url": "https://open.spotify.com/album/3pRLJ2w2GUMKKOBoIbjv6I"
+      },
+      "artists": [
+        {
+          "name": "Daphne Lawrence",
+          "url": "https://open.spotify.com/artist/2OJeL3ypFFDQfHb5oWiW6s"
+        }
+      ],
+      "duration_ms": 210612,
+      "name": "Efyges",
+      "url": "https://open.spotify.com/track/5qfANAdUHQZ6FwVNF4VKjB"
+    },
+    {
+      "added_at": "2022-09-06 21:00:00",
+      "album": {
+        "name": "Me Ta Matia Sou To Leo",
+        "url": "https://open.spotify.com/album/60FQpWkvJi2m23uaAHRazQ"
+      },
+      "artists": [
+        {
+          "name": "Aggeliki Iliadi",
+          "url": "https://open.spotify.com/artist/4zx1IrCEdh9uo46yhlGZP6"
+        }
+      ],
+      "duration_ms": 211615,
+      "name": "Me Ta Matia Sou To Leo",
+      "url": "https://open.spotify.com/track/7lyHQwF5hx9yHnmjhWFk9y"
+    },
+    {
+      "added_at": "2022-09-06 21:00:00",
+      "album": {
+        "name": "Pandora",
+        "url": "https://open.spotify.com/album/2c9PIc8uFE6NBCOC2yOM36"
+      },
+      "artists": [
+        {
+          "name": "Tamta",
+          "url": "https://open.spotify.com/artist/0VGybH10ziMPo99SYOwMoQ"
+        }
+      ],
+      "duration_ms": 177626,
+      "name": "Pandora",
+      "url": "https://open.spotify.com/track/4hzwKDLnnJQVEDZCV7gwCt"
+    },
+    {
+      "added_at": "2022-09-06 21:00:00",
       "album": {
         "name": "Poli_Ploki",
         "url": "https://open.spotify.com/album/79cEtUvXntL05SIK3YJiH8"
@@ -65,23 +149,7 @@
       "url": "https://open.spotify.com/track/1zB8iM97STLlKaweWhtasO"
     },
     {
-      "added_at": "2022-08-02 21:00:00",
-      "album": {
-        "name": "Paradise",
-        "url": "https://open.spotify.com/album/7x4Q3tWaIU7qfqVlnJEgM8"
-      },
-      "artists": [
-        {
-          "name": "Evangelia",
-          "url": "https://open.spotify.com/artist/3J7SI1JrZt43ZBlH24IqCK"
-        }
-      ],
-      "duration_ms": 156088,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/1AnKPJBNBvgezzKso7NmWy"
-    },
-    {
-      "added_at": "2022-08-02 21:00:00",
+      "added_at": "2022-09-06 21:00:00",
       "album": {
         "name": "Ola Sta Katalogizo",
         "url": "https://open.spotify.com/album/4St2Ptuwz2UeKa0ZRpOOKM"
@@ -101,7 +169,7 @@
       "url": "https://open.spotify.com/track/27eXo0gym6ybdC54CEvJFv"
     },
     {
-      "added_at": "2022-08-02 21:00:00",
+      "added_at": "2022-09-06 21:00:00",
       "album": {
         "name": "Daddy",
         "url": "https://open.spotify.com/album/2Gtk7ccV2tgVM6e8At7NYZ"
@@ -117,7 +185,51 @@
       "url": "https://open.spotify.com/track/4KplXO3HmXJUV6wsbEqeef"
     },
     {
-      "added_at": "2022-08-02 21:00:00",
+      "added_at": "2022-09-06 21:00:00",
+      "album": {
+        "name": "Bom Bom",
+        "url": "https://open.spotify.com/album/1K8mmEwpLfWiXoV2Dz5KN9"
+      },
+      "artists": [
+        {
+          "name": "Athena Manoukian",
+          "url": "https://open.spotify.com/artist/22YSp71UhSbFP7OP5jx3r0"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Bom Bom",
+      "url": "https://open.spotify.com/track/2iIrdDvcvwWuxzlKhMoKiE"
+    },
+    {
+      "added_at": "2022-09-06 21:00:00",
+      "album": {
+        "name": "Matomeno Oniro (Secret Love) [DJ Ravin Remix New Edit]",
+        "url": "https://open.spotify.com/album/3qODCGFFb27iOx0znJ5KWW"
+      },
+      "artists": [
+        {
+          "name": "Valia Tsirgioti",
+          "url": "https://open.spotify.com/artist/2zVzPjIdABuyJdUnrHJ7ki"
+        },
+        {
+          "name": "DJ Ravin",
+          "url": "https://open.spotify.com/artist/24Dboa8Of0mojpFHg5OSyS"
+        },
+        {
+          "name": "Giorgos Stavrianos",
+          "url": "https://open.spotify.com/artist/4jz2sPqjc7xD0IXdOimTqp"
+        },
+        {
+          "name": "Round Midnight Project",
+          "url": "https://open.spotify.com/artist/33JCp8Zg3FlL5ksIhTgWdY"
+        }
+      ],
+      "duration_ms": 321322,
+      "name": "Matomeno Oniro (Secret Love) - DJ Ravin Remix New Edit",
+      "url": "https://open.spotify.com/track/5m13zCWghbsWR902gyZO9y"
+    },
+    {
+      "added_at": "2022-09-06 21:00:00",
       "album": {
         "name": "Aima",
         "url": "https://open.spotify.com/album/75xcQVgmDHtACY4ekzTQyL"
@@ -137,7 +249,7 @@
       "url": "https://open.spotify.com/track/7dbwdaU5belAQj5Qc0cFle"
     },
     {
-      "added_at": "2022-08-02 21:00:00",
+      "added_at": "2022-09-06 21:00:00",
       "album": {
         "name": "Mia Sou Kai Mia Mou",
         "url": "https://open.spotify.com/album/4aTrqWkhyYDpEQg6Yv2s8V"
@@ -153,7 +265,23 @@
       "url": "https://open.spotify.com/track/1mytfEnTdpbxAwXF8K38BF"
     },
     {
-      "added_at": "2022-08-02 21:00:00",
+      "added_at": "2022-09-06 21:00:00",
+      "album": {
+        "name": "Den Ntrapikes",
+        "url": "https://open.spotify.com/album/0x2rL0YX4wnLYc4YXVIGWb"
+      },
+      "artists": [
+        {
+          "name": "Natasa Theodoridou",
+          "url": "https://open.spotify.com/artist/4hw4chBwI0fvJltPiQxPPD"
+        }
+      ],
+      "duration_ms": 211188,
+      "name": "Den Ntrapikes",
+      "url": "https://open.spotify.com/track/3e51V5ILj8EH6whpGdvCJH"
+    },
+    {
+      "added_at": "2022-09-06 21:00:00",
       "album": {
         "name": "Iparho Gia Sena",
         "url": "https://open.spotify.com/album/4lkyzgLGV1SmJv0UW3Pw4h"
@@ -169,7 +297,7 @@
       "url": "https://open.spotify.com/track/5IGLonlYXv0TCsw0gHhqBr"
     },
     {
-      "added_at": "2022-08-02 21:00:00",
+      "added_at": "2022-09-06 21:00:00",
       "album": {
         "name": "Se Kano Kefi",
         "url": "https://open.spotify.com/album/1CJzCYSazFh3clPsI66fZa"
@@ -185,7 +313,7 @@
       "url": "https://open.spotify.com/track/2SxlaMj4Ro3pBKxVqEwyhi"
     },
     {
-      "added_at": "2022-08-02 21:00:00",
+      "added_at": "2022-09-06 21:00:00",
       "album": {
         "name": "Kyma Mou",
         "url": "https://open.spotify.com/album/1xdI1H6JvnVrSL1cEHCXTw"
@@ -201,7 +329,7 @@
       "url": "https://open.spotify.com/track/32X7TpNTqkDU5FcJpUCCMG"
     },
     {
-      "added_at": "2022-08-02 21:00:00",
+      "added_at": "2022-09-06 21:00:00",
       "album": {
         "name": "De Me Xeris",
         "url": "https://open.spotify.com/album/14NzqpIPczLmdfujGVZMnX"
@@ -217,7 +345,7 @@
       "url": "https://open.spotify.com/track/1mLSesJyIdLBWt3ZgEPEeh"
     },
     {
-      "added_at": "2022-08-02 21:00:00",
+      "added_at": "2022-09-06 21:00:00",
       "album": {
         "name": "\u039aalokairia",
         "url": "https://open.spotify.com/album/05UZrlbByI8VzH1SyNmkZl"
@@ -233,7 +361,7 @@
       "url": "https://open.spotify.com/track/3Oezbp2vPLxpI36p9AlsO0"
     },
     {
-      "added_at": "2022-08-02 21:00:00",
+      "added_at": "2022-09-06 21:00:00",
       "album": {
         "name": "Mykonos Kai Santorini",
         "url": "https://open.spotify.com/album/7yrgtsgGeueaYZCagG8Xpx"
@@ -249,7 +377,7 @@
       "url": "https://open.spotify.com/track/5NIe8MCNByrSM9Oi9Uoaqh"
     },
     {
-      "added_at": "2022-08-02 21:00:00",
+      "added_at": "2022-09-06 21:00:00",
       "album": {
         "name": "Poso Thelo",
         "url": "https://open.spotify.com/album/3UNRmk4h9hpVr4fjQ4eaWr"
@@ -265,7 +393,7 @@
       "url": "https://open.spotify.com/track/2vM0ldVUQGEXYqfvnttnNE"
     },
     {
-      "added_at": "2022-08-02 21:00:00",
+      "added_at": "2022-09-06 21:00:00",
       "album": {
         "name": "Panselinos",
         "url": "https://open.spotify.com/album/2CcXyewubbkFmdmnw4GIrq"
@@ -281,7 +409,7 @@
       "url": "https://open.spotify.com/track/0wc9qAFYtteiNfMy1g5r9B"
     },
     {
-      "added_at": "2022-08-02 21:00:00",
+      "added_at": "2022-09-06 21:00:00",
       "album": {
         "name": "Sikose Kyma",
         "url": "https://open.spotify.com/album/5VtFEu9wZJL0kbzGEKyHyM"
@@ -297,7 +425,7 @@
       "url": "https://open.spotify.com/track/3CqvFoB3EBIhadBzSyS1e1"
     },
     {
-      "added_at": "2022-08-02 21:00:00",
+      "added_at": "2022-09-06 21:00:00",
       "album": {
         "name": "To Pas Kala",
         "url": "https://open.spotify.com/album/1QazQVHQVsKZCeMJ9gjrSS"
@@ -313,7 +441,7 @@
       "url": "https://open.spotify.com/track/4Alf2vVzdgQ8pupx4HwhDZ"
     },
     {
-      "added_at": "2022-08-02 21:00:00",
+      "added_at": "2022-09-06 21:00:00",
       "album": {
         "name": "Parathyri",
         "url": "https://open.spotify.com/album/2HXhjjEj1lsAbbcJBC90yi"
@@ -333,7 +461,7 @@
       "url": "https://open.spotify.com/track/0W0nu5LaIRRpZqwonevX53"
     },
     {
-      "added_at": "2022-08-02 21:00:00",
+      "added_at": "2022-09-06 21:00:00",
       "album": {
         "name": "Poname Osoi Agapame",
         "url": "https://open.spotify.com/album/10E8TGYr9Fj3GRdg7Ibftl"
@@ -349,7 +477,7 @@
       "url": "https://open.spotify.com/track/4IxDpaulN8a1DcSim3qrjN"
     },
     {
-      "added_at": "2022-08-02 21:00:00",
+      "added_at": "2022-09-06 21:00:00",
       "album": {
         "name": "Ligo Akomi",
         "url": "https://open.spotify.com/album/3NiDpeO4FzF68IeKNJBdow"
@@ -365,7 +493,7 @@
       "url": "https://open.spotify.com/track/6acFmxyi0YqHWZ3oKaCfwM"
     },
     {
-      "added_at": "2022-08-02 21:00:00",
+      "added_at": "2022-09-06 21:00:00",
       "album": {
         "name": "Ta Kalokairia Mou Misa",
         "url": "https://open.spotify.com/album/7LzU2vJ9aqwKNAGO3U1DTZ"
@@ -385,7 +513,7 @@
       "url": "https://open.spotify.com/track/5OuZNhMsVU2yf5cD11mOJw"
     },
     {
-      "added_at": "2022-08-02 21:00:00",
+      "added_at": "2022-09-06 21:00:00",
       "album": {
         "name": "Egw Ki Esy",
         "url": "https://open.spotify.com/album/6Az4jJ1gutegsszavSJXsB"
@@ -409,7 +537,7 @@
       "url": "https://open.spotify.com/track/4bn7uGPFqouyMIXnnXx4KU"
     },
     {
-      "added_at": "2022-08-02 21:00:00",
+      "added_at": "2022-09-06 21:00:00",
       "album": {
         "name": "Seattle",
         "url": "https://open.spotify.com/album/34XwbzNPwLTTkY7kj46IRW"
@@ -425,7 +553,7 @@
       "url": "https://open.spotify.com/track/2tKDBMpxHjxNVlwo7B93Xs"
     },
     {
-      "added_at": "2022-08-02 21:00:00",
+      "added_at": "2022-09-06 21:00:00",
       "album": {
         "name": "Run Together",
         "url": "https://open.spotify.com/album/33ltul702GLxQwnkvD4QNq"
@@ -441,7 +569,7 @@
       "url": "https://open.spotify.com/track/6hAlCAKjBmBfOZPOdavGhF"
     },
     {
-      "added_at": "2022-08-02 21:00:00",
+      "added_at": "2022-09-06 21:00:00",
       "album": {
         "name": "Plans",
         "url": "https://open.spotify.com/album/2IyGBIdgIsgcm9dyCcfiXS"
@@ -457,7 +585,7 @@
       "url": "https://open.spotify.com/track/0jPho2LunkMsoHerGdK9wX"
     },
     {
-      "added_at": "2022-08-02 21:00:00",
+      "added_at": "2022-09-06 21:00:00",
       "album": {
         "name": "Perder Control",
         "url": "https://open.spotify.com/album/4qZmSCO3MA1ngd9jl29jhf"
@@ -477,7 +605,7 @@
       "url": "https://open.spotify.com/track/4D6yefPVTDeTQrfRAWu6qc"
     },
     {
-      "added_at": "2022-08-02 21:00:00",
+      "added_at": "2022-09-06 21:00:00",
       "album": {
         "name": "Up and Away",
         "url": "https://open.spotify.com/album/4i2Cb9v7g9ieShCgf1gakk"
@@ -497,7 +625,7 @@
       "url": "https://open.spotify.com/track/68wrmZ8GgYlidAhERxI0Bz"
     },
     {
-      "added_at": "2022-08-02 21:00:00",
+      "added_at": "2022-09-06 21:00:00",
       "album": {
         "name": "I Nihta Mirizi Giasemi",
         "url": "https://open.spotify.com/album/7HnC3xLMywfoRASJ8ILpBp"
@@ -513,7 +641,7 @@
       "url": "https://open.spotify.com/track/78tPg1AgnrSdbJrmDmkuBg"
     },
     {
-      "added_at": "2022-08-02 21:00:00",
+      "added_at": "2022-09-06 21:00:00",
       "album": {
         "name": "YENNA",
         "url": "https://open.spotify.com/album/0rO6uiPCtDL4m6CMS0Y4X9"
@@ -529,7 +657,7 @@
       "url": "https://open.spotify.com/track/2CVq7d4qmSXAEBOiTrfUF5"
     },
     {
-      "added_at": "2022-08-02 21:00:00",
+      "added_at": "2022-09-06 21:00:00",
       "album": {
         "name": "Karxarias",
         "url": "https://open.spotify.com/album/5QW4sjRJTH7mq2NpnodZ4R"
@@ -545,7 +673,7 @@
       "url": "https://open.spotify.com/track/0liLAjiNXBt5ryS6tsqbMq"
     },
     {
-      "added_at": "2022-08-02 21:00:00",
+      "added_at": "2022-09-06 21:00:00",
       "album": {
         "name": "Giati Glikia Mou Kles",
         "url": "https://open.spotify.com/album/2JbmRmXeVomp5loIhkyIn9"
@@ -561,7 +689,7 @@
       "url": "https://open.spotify.com/track/6Uu6XrzRRXZpfoW0gz6L23"
     },
     {
-      "added_at": "2022-08-02 21:00:00",
+      "added_at": "2022-09-06 21:00:00",
       "album": {
         "name": "Gia Fantasou",
         "url": "https://open.spotify.com/album/34izyKBTtASpOYejyhSw8h"
@@ -577,7 +705,7 @@
       "url": "https://open.spotify.com/track/1r05mZ0meVcIXpycf4IAaf"
     },
     {
-      "added_at": "2022-08-02 21:00:00",
+      "added_at": "2022-09-06 21:00:00",
       "album": {
         "name": "Kardia Mpoemissa",
         "url": "https://open.spotify.com/album/28xSwijMkWH7imtkXZdPcs"
@@ -593,7 +721,23 @@
       "url": "https://open.spotify.com/track/3BZAb3GDIkP4hJxE1UKvNc"
     },
     {
-      "added_at": "2022-08-02 21:00:00",
+      "added_at": "2022-09-06 21:00:00",
+      "album": {
+        "name": "Ilie Mou Kai Fotia",
+        "url": "https://open.spotify.com/album/2v6ButM7aueJerY6mCSD5b"
+      },
+      "artists": [
+        {
+          "name": "Stella Konitopoulou",
+          "url": "https://open.spotify.com/artist/5yvbulfXEj6VIoVUvADLAd"
+        }
+      ],
+      "duration_ms": 238564,
+      "name": "Ilie Mou Kai Fotia",
+      "url": "https://open.spotify.com/track/5eGt2VX7oHnrbKUhbDIXn8"
+    },
+    {
+      "added_at": "2022-09-06 21:00:00",
       "album": {
         "name": "You lost me",
         "url": "https://open.spotify.com/album/1jvWYW3idKseTj9PzOoVI0"
@@ -609,23 +753,7 @@
       "url": "https://open.spotify.com/track/7m0lZUGiKHlY6yhFyK1xc7"
     },
     {
-      "added_at": "2022-08-02 21:00:00",
-      "album": {
-        "name": "Ta Pedika",
-        "url": "https://open.spotify.com/album/7fjGrTh2sNnjUApW5r5qVl"
-      },
-      "artists": [
-        {
-          "name": "Dimitra Galani",
-          "url": "https://open.spotify.com/artist/3nV0kq59WJOJRLNWpFR1m6"
-        }
-      ],
-      "duration_ms": 112200,
-      "name": "Enas Ilios Me Gialia",
-      "url": "https://open.spotify.com/track/0fIoF5oDuhU0l0giW7jPU0"
-    },
-    {
-      "added_at": "2022-08-02 21:00:00",
+      "added_at": "2022-09-06 21:00:00",
       "album": {
         "name": "I Monaksia Tou Enos Stous Dio",
         "url": "https://open.spotify.com/album/3MrOP8hqDnQPkbuSSTDcMJ"
@@ -641,23 +769,7 @@
       "url": "https://open.spotify.com/track/152AmfOxV8Vot03ePnNjSL"
     },
     {
-      "added_at": "2022-08-02 21:00:00",
-      "album": {
-        "name": "Otan Telionei Alli Mia Mera",
-        "url": "https://open.spotify.com/album/01VY1QMDQga4s7qZ5mCTVJ"
-      },
-      "artists": [
-        {
-          "name": "Melina Kana",
-          "url": "https://open.spotify.com/artist/77Guu62HL3rXrjqYJKhyVT"
-        }
-      ],
-      "duration_ms": 244173,
-      "name": "Otan Telionei Alli Mia Mera",
-      "url": "https://open.spotify.com/track/5Lzbq6im0qoQu3f7vdCoKa"
-    },
-    {
-      "added_at": "2022-08-02 21:00:00",
+      "added_at": "2022-09-06 21:00:00",
       "album": {
         "name": "Les Amants de Teruel",
         "url": "https://open.spotify.com/album/51W23ChtyCU62GB0GFAEW7"
@@ -677,43 +789,7 @@
       "url": "https://open.spotify.com/track/3ut0zXxhXciVx6WKiGa2vq"
     },
     {
-      "added_at": "2022-08-02 21:00:00",
-      "album": {
-        "name": "Tremo Olokliri",
-        "url": "https://open.spotify.com/album/0xhysb1Fg7TY09C9TMAoU1"
-      },
-      "artists": [
-        {
-          "name": "Eleni Hatzidou",
-          "url": "https://open.spotify.com/artist/6P6FzomDMeM5mwj5AHBaWl"
-        }
-      ],
-      "duration_ms": 204047,
-      "name": "Tremo Olokliri",
-      "url": "https://open.spotify.com/track/7c0A3q1BpadCiA7ECdy8CO"
-    },
-    {
-      "added_at": "2022-08-02 21:00:00",
-      "album": {
-        "name": "Up and Away",
-        "url": "https://open.spotify.com/album/4i2Cb9v7g9ieShCgf1gakk"
-      },
-      "artists": [
-        {
-          "name": "\u03a3tella",
-          "url": "https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu"
-        },
-        {
-          "name": "Redinho",
-          "url": "https://open.spotify.com/artist/72WcKL1SYgNzcNojYLFQsB"
-        }
-      ],
-      "duration_ms": 191471,
-      "name": "Up and Away",
-      "url": "https://open.spotify.com/track/6r7fP6eQHull2Y8GECHYfI"
-    },
-    {
-      "added_at": "2022-08-02 21:00:00",
+      "added_at": "2022-09-06 21:00:00",
       "album": {
         "name": "Amarties",
         "url": "https://open.spotify.com/album/0NkYD3ByHYn3i0iTMPzHHu"
@@ -729,79 +805,7 @@
       "url": "https://open.spotify.com/track/7AaxFtkinG6n5fw6ZUuxHE"
     },
     {
-      "added_at": "2022-08-02 21:00:00",
-      "album": {
-        "name": "Eleni Ek Syrou",
-        "url": "https://open.spotify.com/album/0gpeO1fJdnOlQVNl9CrlNm"
-      },
-      "artists": [
-        {
-          "name": "Efstathia",
-          "url": "https://open.spotify.com/artist/6IZpFHWODZXIr3mSFILN4T"
-        },
-        {
-          "name": "Melina Tanagri",
-          "url": "https://open.spotify.com/artist/0AB1u0qQ50EyNgzoIEdTZ7"
-        }
-      ],
-      "duration_ms": 223195,
-      "name": "Eleni Ek Syrou",
-      "url": "https://open.spotify.com/track/5BWPeGFyKhT0h8k3VHK2U6"
-    },
-    {
-      "added_at": "2022-08-02 21:00:00",
-      "album": {
-        "name": "Mia Kai Kali",
-        "url": "https://open.spotify.com/album/5XGjXS8v87OdDUeFrKcXG6"
-      },
-      "artists": [
-        {
-          "name": "Christina Samara",
-          "url": "https://open.spotify.com/artist/7KVh0Ds13fLdoMJtihvLtM"
-        },
-        {
-          "name": "Elli Paspala",
-          "url": "https://open.spotify.com/artist/1ZF7owmOy4fJmkqQh1e2Ex"
-        }
-      ],
-      "duration_ms": 204753,
-      "name": "Mia Kai Kali",
-      "url": "https://open.spotify.com/track/7ACAwE2fue8X317SalZEcm"
-    },
-    {
-      "added_at": "2022-08-02 21:00:00",
-      "album": {
-        "name": "Agapi Mou Epikindini (Diesi in Concert)",
-        "url": "https://open.spotify.com/album/4vHnjlA6H2FCeZ8tb23VjG"
-      },
-      "artists": [
-        {
-          "name": "Penny Baltatzi",
-          "url": "https://open.spotify.com/artist/0xP7gTMFElcSoYxVSdqFWz"
-        }
-      ],
-      "duration_ms": 254318,
-      "name": "Agapi Mou Epikindini - Diesi in Concert",
-      "url": "https://open.spotify.com/track/6NzObcTe2MYwiluWqWxGdX"
-    },
-    {
-      "added_at": "2022-08-02 21:00:00",
-      "album": {
-        "name": "Mavro Kiparissi",
-        "url": "https://open.spotify.com/album/1HAlhgM9Fl8pTEU63MVWty"
-      },
-      "artists": [
-        {
-          "name": "Yanna Vasileiou",
-          "url": "https://open.spotify.com/artist/2aG0LtkScINaBgvSuVxDfx"
-        }
-      ],
-      "duration_ms": 216500,
-      "name": "Mavro Kiparissi",
-      "url": "https://open.spotify.com/track/1VKx9vWOiGo8wVMP1F81Nd"
-    },
-    {
-      "added_at": "2022-08-02 21:00:00",
+      "added_at": "2022-09-06 21:00:00",
       "album": {
         "name": "Mi Rotas Tous Allous",
         "url": "https://open.spotify.com/album/3TzkhzpWzrfkQ3WXJFF4yf"
@@ -817,7 +821,7 @@
       "url": "https://open.spotify.com/track/1kTw0HrK6nVR5EAkrnfzjN"
     },
     {
-      "added_at": "2022-08-02 21:00:00",
+      "added_at": "2022-09-06 21:00:00",
       "album": {
         "name": "Tilefono",
         "url": "https://open.spotify.com/album/33YsXsjLwzvwNhBoniCTyC"
@@ -833,7 +837,7 @@
       "url": "https://open.spotify.com/track/7bohfOpcSFE5cE4zBpt0ST"
     },
     {
-      "added_at": "2022-08-02 21:00:00",
+      "added_at": "2022-09-06 21:00:00",
       "album": {
         "name": "Otan Tragoudao",
         "url": "https://open.spotify.com/album/1OXMIy6TKHqJUo4U4RCN0L"
@@ -849,7 +853,7 @@
       "url": "https://open.spotify.com/track/12bDSpE5SnocDZNTfH4Kn9"
     },
     {
-      "added_at": "2022-08-02 21:00:00",
+      "added_at": "2022-09-06 21:00:00",
       "album": {
         "name": "Staxti",
         "url": "https://open.spotify.com/album/61zuHp0O4Yg56XHAzNwp7s"

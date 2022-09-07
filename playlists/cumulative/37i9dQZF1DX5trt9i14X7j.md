@@ -4,7 +4,7 @@
 
 > Dedicated to all the programmers out there.
 
-134 songs - 8 hr 20 min - [published](https://open.spotify.com/playlist/6vdqrM7pwsj6HQdLoLegp2)
+138 songs - 8 hr 33 min - [published](https://open.spotify.com/playlist/6vdqrM7pwsj6HQdLoLegp2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,12 +22,14 @@
 | [Anagram](https://open.spotify.com/track/2XLdNfDhWJwViR3wiq8NrA) | [Imala Zir](https://open.spotify.com/artist/5hOW2X7ZiiV85jFgK4mLlo) | [Anagram](https://open.spotify.com/album/3EMafNmPdqTVmiESnJAwOp) | 2:28 | 2022-08-03 |  |
 | [Angel's Flight](https://open.spotify.com/track/1tCPxwo9ll7rxCxaEBq06f) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Angel's Flight](https://open.spotify.com/album/0qZ6LUWpJC4lrQrEDoUeHH) | 5:52 | 2021-12-08 | 2022-07-29 |
 | [Angel's Flight](https://open.spotify.com/track/3W3xcAOWb0TkMqqI7Rd5xg) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Angel's Flight](https://open.spotify.com/album/33d7YxK49GlKrzATMvdhyR) | 5:52 | 2022-07-25 |  |
+| [Annica](https://open.spotify.com/track/7IuVGIs20WQmT5FLp49NLz) | [Harlan Silverman](https://open.spotify.com/artist/6RR7uINKmGclSu0zHBC7mU) | [Annica](https://open.spotify.com/album/2vhMintpHbPM31rf7gYBcW) | 2:55 | 2022-09-06 |  |
 | [Approaching Dusk](https://open.spotify.com/track/6vwuSjfe1UjY6fn43HZ4CK) | [Eagle Lake](https://open.spotify.com/artist/4vOO570FcsEOodJuMh98EP) | [Piano Studies](https://open.spotify.com/album/26pIGdUcRbCfXQ2GcuvvQA) | 1:45 | 2021-12-08 |  |
 | [Atlavík](https://open.spotify.com/track/6WdO6Ds95sLALCqCOfbDQh) | [Hugar](https://open.spotify.com/artist/0bdJp8l3a1uJRKe2YaAcE9) | [Varða](https://open.spotify.com/album/0M1zBtkmWOJQSkVZhNcIeH) | 2:35 | 2022-05-31 |  |
 | [Autumnal](https://open.spotify.com/track/2KIx2bD6uvUYDZ2XrAKZXN) | [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l) | [Glacier](https://open.spotify.com/album/0BO4sOTUYgYnuQuNqXGbX6) | 5:28 | 2021-12-08 |  |
 | [Awakening](https://open.spotify.com/track/1N5zR5J3f3jQFKMY3cG0YO) | [Starlight Passage](https://open.spotify.com/artist/5tPdr8cTxT89zPEENTLWoh) | [Starlight Passage](https://open.spotify.com/album/1wvSlnr8p5HfQMllaTDHQc) | 2:28 | 2022-08-03 |  |
 | [Bacall](https://open.spotify.com/track/0keMf5m5CVWX0ZZnhc8xPz) | [Blue Noir](https://open.spotify.com/artist/5N4aUAJA011nkAumBGSeAN) | [Arkade Destinations Tulum](https://open.spotify.com/album/3wIq5okaszSGMxYv4zlzyR) | 4:06 | 2021-12-08 |  |
 | [Beau](https://open.spotify.com/track/4HlyP1UN4PSkGowgNeYWep) | [Martin Gauffin](https://open.spotify.com/artist/5dDn2NkprqEkypmRzyAtPt) | [Flourishing Views](https://open.spotify.com/album/3EwiPwpIygpD2BwEzqbUsw) | 2:17 | 2021-12-08 |  |
+| [Bloom](https://open.spotify.com/track/1ajC1DxUxfRTyzhpOcrHd4) | [Teset](https://open.spotify.com/artist/7MbIeVKuMWsZnQXw4Uhim0) | [Bloom](https://open.spotify.com/album/3TLh6c8432sO36wuKhtrFM) | 4:36 | 2022-09-06 |  |
 | [Blur](https://open.spotify.com/track/7eHDn7TyswvJIfxWGtIYKk) | [SamuW](https://open.spotify.com/artist/2tqQ33SdGO1LqNg8DQDCio) | [Blur](https://open.spotify.com/album/74AP9PqF7MTlqiRy9oXiPd) | 1:56 | 2021-12-08 |  |
 | [both sides of the coin](https://open.spotify.com/track/1chT7Yo3zSvjFPRQ20fWFH) | [Electric Rivers](https://open.spotify.com/artist/4ATjV5COMvZp7XfnELm7nV) | [crestline](https://open.spotify.com/album/0uQHf0jM3WV0yLSoS9x2tj) | 2:51 | 2022-08-03 |  |
 | [cabin](https://open.spotify.com/track/7yKMGeJM3EjNrS6QXnY6xP) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx) | [Polar \(Music from the Netflix Film\)](https://open.spotify.com/album/3kAKiw0kRCuSXsTBWbBc9X) | 3:20 | 2021-12-08 |  |
@@ -36,6 +38,7 @@
 | [capable](https://open.spotify.com/track/1ZqVHQlXm0vBzazX60mgcb) | [Jai Gourgaud](https://open.spotify.com/artist/2u47nFG0ezqztjpaTg6Vjd) | [capable](https://open.spotify.com/album/15aolnX64r6fKjDQ9IHsYT) | 2:52 | 2021-12-08 |  |
 | [Chasing the Calm](https://open.spotify.com/track/2V9jgt9hxaJjXTfy15DQ9T) | [Prashanth Srinivas](https://open.spotify.com/artist/2KYeJm60817LSIQtkgOffu) | [Ambient Introspection](https://open.spotify.com/album/3lWuCWKOZ5Wghrq02zlsqd) | 1:44 | 2021-12-08 |  |
 | [chilling by your bedside.](https://open.spotify.com/track/7LKRv9zrKDrLOO8jcFPQxA) | [beeno](https://open.spotify.com/artist/0fbM0EawHro8s9Aee7TDeo) | [decades.](https://open.spotify.com/album/5PbvbQUEdxOhehgtq63wJ9) | 2:46 | 2021-12-08 |  |
+| [Closed for Renovations](https://open.spotify.com/track/3eHg10L5NVIz84J4oRTZRG) | [Pool Boy](https://open.spotify.com/artist/0JA5uqKcjlx67kfQ5atued), [Cyril Hahn](https://open.spotify.com/artist/4EFMHRFpgrpfp0AVEBp4m2) | [Closed for Renovations](https://open.spotify.com/album/5AesdWGty4ye8UdrwBL4Jw) | 2:43 | 2022-09-06 |  |
 | [Collapse Into Light](https://open.spotify.com/track/3jP962JoLAn9p4wCDdx4My) | [Evin Iris](https://open.spotify.com/artist/0H11IrXWhpptE27M8Xll9w) | [Collapse Into Light](https://open.spotify.com/album/0rUgWKzUwGMo0XAHN6R2eY) | 2:59 | 2022-08-03 |  |
 | [Conquistador I](https://open.spotify.com/track/1FxF09nqDzYgvsB5UcmTtY) | [Juno Reactor](https://open.spotify.com/artist/1Pe3z1UqRzKsQtHsl25dm6) | [Labyrinth](https://open.spotify.com/album/2DhzRy5TW3XdXgaHc2jtJl) | 6:02 | 2021-12-08 | 2022-07-06 |
 | [Coral Reef](https://open.spotify.com/track/3ElDX6t2ayq83erLIjy3fx) | [Slowheal](https://open.spotify.com/artist/6XfzIkZ3Qel4Lvhba67CqC) | [missing piece](https://open.spotify.com/album/0TTD6fjBDNQ5r3w5l8lalj) | 2:42 | 2021-12-08 |  |
@@ -47,6 +50,7 @@
 | [deep wild](https://open.spotify.com/track/138ntruMbI8Yp3FRYH1qm5) | [Far & Beyond](https://open.spotify.com/artist/3ZfzatnOpZk7jV2TeN76if) | [deep wild](https://open.spotify.com/album/5YRoRvEeZSXtUDNQ2aGRSh) | 2:32 | 2022-08-03 |  |
 | [Dreamer](https://open.spotify.com/track/1Alcws0xXs4eQDchjn3RGh) | [Abakus](https://open.spotify.com/artist/5EEbMGQOwrTuy51Vin8bL1) | [Departure](https://open.spotify.com/album/63kvEHiTLB6bneB34fM9jJ) | 6:52 | 2021-12-08 |  |
 | [Dreamscapes](https://open.spotify.com/track/0lWWho4vGcKfIX8kA8YmAy) | [Agnes Lundh](https://open.spotify.com/artist/3OJ5pC5H7eYoyow4sXULSt) | [Dreamscapes](https://open.spotify.com/album/3ElOQTSPG7zMkoTks09qub) | 2:39 | 2022-05-31 |  |
+| [Dust](https://open.spotify.com/track/4fqzVh6YXqskezIs862H6d) | [Sync Zephyr](https://open.spotify.com/artist/3uRZcnN1Xxvxn4J4gq0Z7G) | [Star Crossed / Dust](https://open.spotify.com/album/3hT3xJbL4UjJMET6CvbcKc) | 3:32 | 2022-09-06 |  |
 | [efflorescence](https://open.spotify.com/track/7qa14fkhxgOwWgJ2cbDTyc) | [Far & Beyond](https://open.spotify.com/artist/3ZfzatnOpZk7jV2TeN76if) | [efflorescence](https://open.spotify.com/album/5gTuNZ0GwWQLNH0YiwsDZr) | 2:23 | 2022-08-03 |  |
 | [Emerald and Stone](https://open.spotify.com/track/7Jd0MqZq15T4pDWts2G6Yl) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi), [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI), [Leo Abrahams](https://open.spotify.com/artist/6g4q7DPLaVqWGnfMpAb2Yd) | [Small Craft On A Milk Sea](https://open.spotify.com/album/47e7SP8MtzYKK8Lm3gEK2i) | 2:12 | 2021-12-08 |  |
 | [Ethereal Glow](https://open.spotify.com/track/381cpx26XrMnGOIn4faioN) | [Far & Beyond](https://open.spotify.com/artist/3ZfzatnOpZk7jV2TeN76if) | [Ethereal Glow](https://open.spotify.com/album/0jvZawamBniaCE5aFRRMsw) | 2:31 | 2022-05-31 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This week's handpicked new <a href=\"spotify:genre:edm_dance\">dance and electronic music</a>, featuring new music from JADED & Carlita.",
-  "num_followers": 398506,
+  "num_followers": 398654,
   "original_name": "New Music Friday Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjA5MTI2MCwwMDAwMDAwMGQzNDJkODAwOGVkNjZmZDdjYTMzYWIzYWFiM2UyZGRi",
+  "snapshot_id": "MTY2MjQ4MDA3MCwwMDAwMDAwMDRkNjM4NWQ3ZTAwNWZjMDViZTNlYWY5NzczNTY2ZTdl",
   "tracks": [
     {
       "added_at": "2022-09-02 04:01:00",
@@ -1179,6 +1179,30 @@
       "duration_ms": 218421,
       "name": "Cygni",
       "url": "https://open.spotify.com/track/6YZ9SMO6M3xiLFdSGTDF16"
+    },
+    {
+      "added_at": "2022-09-06 16:01:10",
+      "album": {
+        "name": "Express Yourself",
+        "url": "https://open.spotify.com/album/3453tR0rJoxsT62O6ZKcy5"
+      },
+      "artists": [
+        {
+          "name": "Basement Jaxx",
+          "url": "https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ"
+        },
+        {
+          "name": "Phebe Edwards",
+          "url": "https://open.spotify.com/artist/5Phxu6UZtHHfEHNPDwyqpo"
+        },
+        {
+          "name": "Niara Scarlett",
+          "url": "https://open.spotify.com/artist/5C6vNbPezhechk5GRAo8G3"
+        }
+      ],
+      "duration_ms": 218054,
+      "name": "Express Yourself - Edit Mix",
+      "url": "https://open.spotify.com/track/6QBYAEd1pFv9pPWv2U8EAz"
     },
     {
       "added_at": "2022-09-02 04:01:00",

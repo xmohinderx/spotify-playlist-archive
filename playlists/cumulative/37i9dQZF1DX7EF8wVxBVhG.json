@@ -1499,7 +1499,7 @@
       ],
       "date_added": "2021-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-07",
       "duration_ms": 212500,
       "name": "Binaural Alpha Sinus 98Hz - 108Hz",
       "url": "https://open.spotify.com/track/2i3i2pnpF9atvlv9WsZjGO"
@@ -2165,7 +2165,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-07",
       "duration_ms": 141920,
       "name": "Binaural Gamma Sinus 300 Hz - L 350 Hz - R",
       "url": "https://open.spotify.com/track/5toNvmY1QmLepVZ6aQz2FG"
@@ -2471,7 +2471,7 @@
       ],
       "date_added": "2021-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-07",
       "duration_ms": 108483,
       "name": "Binaural Gamma Sinus Smooth",
       "url": "https://open.spotify.com/track/1Mb9AEykvFRq17KcIgtJ3v"
@@ -3083,7 +3083,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-09-07",
       "duration_ms": 214510,
       "name": "Gamma 120 Hz - L 170 Hz - R",
       "url": "https://open.spotify.com/track/4AVTXON0uHQZFvtzrAEo4K"
@@ -3119,7 +3119,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-09-07",
       "duration_ms": 208298,
       "name": "Gamma 200 Hz - L 250 Hz - R",
       "url": "https://open.spotify.com/track/3TFbIkQPYihgiDl4CkFdBC"
@@ -3177,6 +3177,24 @@
       "duration_ms": 204000,
       "name": "Gamma 432 Hz - L 462 Hz - R",
       "url": "https://open.spotify.com/track/4vQPpmTWJi6DLhJWxoMl7k"
+    },
+    {
+      "album": {
+        "name": "Binaural Air",
+        "url": "https://open.spotify.com/album/7dp6tirAcf60q6p48NsQwj"
+      },
+      "artists": [
+        {
+          "name": "Atoom",
+          "url": "https://open.spotify.com/artist/3rH1VXAVGu5RvvPrkWvTjL"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145979,
+      "name": "Gamma Air 34 Hz",
+      "url": "https://open.spotify.com/track/4uZV7LGieE3kbuwFMUK3SO"
     },
     {
       "album": {
@@ -3281,7 +3299,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-07",
       "duration_ms": 166000,
       "name": "Gamma Pads",
       "url": "https://open.spotify.com/track/20Hjp1jX3rboCc5mh9ZxXd"

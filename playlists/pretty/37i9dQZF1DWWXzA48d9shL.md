@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 
 > New CORPSE ft\. Scarlxrd & Kordhell
 
-[Spotify](https://open.spotify.com/user/spotify) - 273,213 likes - 87 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 274,731 likes - 87 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 | 4 | [Matte Black](https://open.spotify.com/track/0hPRWztAIbNkt6GcFcLiqF) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Sing Me a Lullaby, My Sweet Temptation](https://open.spotify.com/album/3elJRIffdqvypuxoDND2Q3) | 3:58 |
 | 5 | [BALL LIKE THIS](https://open.spotify.com/track/7L4mOvChiwkCZUruXj968x) | [DIRTYXAN](https://open.spotify.com/artist/5BEGUGWpPDPKXCgqubqnLB) | [BALL LIKE THIS](https://open.spotify.com/album/3uqHaUjyxgXQb6FD4w4LFQ) | 2:02 |
 | 6 | [Step Back!](https://open.spotify.com/track/6jdwbcH788txYS6Doy1F1j) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER), [Sxmpra](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R) | [Step Back!](https://open.spotify.com/album/5bgXspdu04zFxX5gq8uXMl) | 2:30 |
-| 7 | [sorry im a haunted house](https://open.spotify.com/track/5TwVPtLbxVEdlmSXfIE9ny) | [Savage Ga$p](https://open.spotify.com/artist/0x7qiZJaal6j8qS7yCydFk), [KAMAARA](https://open.spotify.com/artist/06d6Jun2N1hugnXeN98kQ0) | [sorry im a haunted house](https://open.spotify.com/album/25oNU5hHbzv3GAF8UfLZUy) | 2:26 |
-| 8 | [\#ImSippinTeaInYoHood](https://open.spotify.com/track/2z6W6oeZvBaO56Mg587v0w) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [LOOK AT ME: THE ALBUM](https://open.spotify.com/album/7vNqlfthayItIbI0Ssmfoa) | 2:53 |
+| 7 | [\#ImSippinTeaInYoHood](https://open.spotify.com/track/2z6W6oeZvBaO56Mg587v0w) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [LOOK AT ME: THE ALBUM](https://open.spotify.com/album/7vNqlfthayItIbI0Ssmfoa) | 2:53 |
+| 8 | [MUDD](https://open.spotify.com/track/0MEMJNYVMS7TBNgFzV1aVN) | [$werve](https://open.spotify.com/artist/60vF1fLR6yzLxCQUlnAYYj), [Grioten](https://open.spotify.com/artist/2UM0Qcw48WXGm5kN5hgpqt), [Day$okee](https://open.spotify.com/artist/6aLKPuO7rSHfgRhDkYzfJF) | [MUDD](https://open.spotify.com/album/2WwhmvIhoJ5FVzDPc2NuVH) | 2:21 |
 | 9 | [Mercury: Retrograde](https://open.spotify.com/track/0UKzG4fJ1LXf6DInew5vcV) | [Ghostemane](https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW) | [Hexada](https://open.spotify.com/album/2dWmvG2E6QqISPn80Nrs65) | 2:04 |
 | 10 | [Antarctica](https://open.spotify.com/track/5UGAXwbA17bUC0K9uquGY2) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Antarctica](https://open.spotify.com/album/2uSbIkeZ2TszTDfbzmkhyL) | 2:06 |
 | 11 | [Fed Up](https://open.spotify.com/track/0BV0AYGLVlu2SdjN3J9twp) | [Ghostemane](https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW) | [ANTI\-ICON](https://open.spotify.com/album/3gEv1vpsDgaEo4TLuu0Lwz) | 2:31 |
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 | 13 | [Want \(feat\. prodby668\)](https://open.spotify.com/track/1sRqm1JxQL88mrHhMLpQ5y) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F), [prodby668](https://open.spotify.com/artist/56g4P11Gxl7nROZBbm8X3F) | [Freddie's Inferno](https://open.spotify.com/album/2ll6KONxe4F87GJku1ZZrl) | 1:48 |
 | 14 | [AirplaneMode](https://open.spotify.com/track/5XKZua8kqgHwcxeKiMIjge) | [BONES](https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN) | [IFeelLikeDirt](https://open.spotify.com/album/1vurSXXQeO0h4sy1BBDYrt) | 1:15 |
 | 15 | [POLTERGEIST!](https://open.spotify.com/track/041sluNZwBxTCOuu766eNi) | [CORPSE](https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW), [OmenXIII](https://open.spotify.com/artist/760kxYHN5QTrD1DehiimjB) | [POLTERGEIST!](https://open.spotify.com/album/7ycyfTn9AqKH27KjA4XQqp) | 1:41 |
-| 16 | [MUDD](https://open.spotify.com/track/0MEMJNYVMS7TBNgFzV1aVN) | [$werve](https://open.spotify.com/artist/60vF1fLR6yzLxCQUlnAYYj), [Grioten](https://open.spotify.com/artist/2UM0Qcw48WXGm5kN5hgpqt), [Day$okee](https://open.spotify.com/artist/6aLKPuO7rSHfgRhDkYzfJF) | [MUDD](https://open.spotify.com/album/2WwhmvIhoJ5FVzDPc2NuVH) | 2:21 |
+| 16 | [sorry im a haunted house](https://open.spotify.com/track/5TwVPtLbxVEdlmSXfIE9ny) | [Savage Ga$p](https://open.spotify.com/artist/0x7qiZJaal6j8qS7yCydFk), [KAMAARA](https://open.spotify.com/artist/06d6Jun2N1hugnXeN98kQ0) | [sorry im a haunted house](https://open.spotify.com/album/25oNU5hHbzv3GAF8UfLZUy) | 2:26 |
 | 17 | [Fucking Your Culture](https://open.spotify.com/track/2gkVweydDn7MmHmqXAlEzk) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Sing Me a Lullaby, My Sweet Temptation](https://open.spotify.com/album/3elJRIffdqvypuxoDND2Q3) | 3:15 |
 | 18 | [DELIRIUM](https://open.spotify.com/track/3dpXWb3vTMzyL6KbFqB61Y) | [TWENTYTHREE](https://open.spotify.com/artist/1J6ppTy8BI7nS6bPjuobHL) | [DELIRIUM](https://open.spotify.com/album/5UpCybC6vRO1n444JQwCez) | 2:10 |
 | 19 | [KILL EM BODY](https://open.spotify.com/track/7oIqB7dY8LY9hG08UPe1Qm) | [NIKKO](https://open.spotify.com/artist/3dnOnDLzcymqwDP7HMEFAC), [Daegho](https://open.spotify.com/artist/1HyuVyBL4O5dvdalaDhjwS), [MVRTYR](https://open.spotify.com/artist/3xDaDai6irdnH3pLamd9lQ), [Xelishurt](https://open.spotify.com/artist/3BXu6pDheQBfSmlIOkvGqz) | [KILL EM BODY](https://open.spotify.com/album/1nuHNtS3tt47GoMJqy9LL6) | 3:48 |
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 | 86 | [Metal](https://open.spotify.com/track/3Y7AlLapD7AYzmqS4CM5FR) | [Oh Gasm!](https://open.spotify.com/artist/1VMMM8J2XHnLHyTPQ0HS0s) | [Metal](https://open.spotify.com/album/021icRE8txfPQMBmEz6j2r) | 1:51 |
 | 87 | [Trumpets](https://open.spotify.com/track/18wVzwlJ2zkBxzwV6SKNQs) | [South Strip](https://open.spotify.com/artist/13ut2kfXGzhHlghB66wAZ8) | [Trumpets](https://open.spotify.com/album/2911GWsISHeF45SK8iy3NY) | 1:34 |
 
-Snapshot ID: `MTY2MjA5OTAwMCwwMDAwMDAwMDZhMTQxNmRiNzIxNDdmNzY2NTExODExMTA5ZDQyMDhk`
+Snapshot ID: `MTY2MjUwMzE3OSwwMDAwMDAwMGI4YWVlOWM2N2VlY2QyNTkxOGEyODNjZTYzZmNjYWEz`

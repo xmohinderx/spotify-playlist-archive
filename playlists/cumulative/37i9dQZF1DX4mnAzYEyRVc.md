@@ -4,7 +4,7 @@
 
 > The world series of Ska\. Cover: The Interrupters
 
-453 songs - 1 day 2 hr 12 min - [published](https://open.spotify.com/playlist/7KNWXVoqADrCiHYxopnpHa)
+454 songs - 1 day 2 hr 18 min - [published](https://open.spotify.com/playlist/7KNWXVoqADrCiHYxopnpHa)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -228,6 +228,7 @@
 | [Mi Vida es un Tango](https://open.spotify.com/track/7dCOvIWIepwEn9Vxa2dpR6) | [Salon Victoria](https://open.spotify.com/artist/1xOtUH3e7hrO0nJesm68Ea) | [Salon Victoria](https://open.spotify.com/album/4lg3bOjDQbkoewWLrTA38o) | 3:03 | 2021-12-06 |  |
 | [Mi Vida Sin Tu Amor](https://open.spotify.com/track/3AYRsEOgjz2AdYGypQ30Gy) | [Laurel Aitken](https://open.spotify.com/artist/30vvi2orcocejP6c3nKcEA) | [En Español](https://open.spotify.com/album/5X12ISobYmsCaaRtN3GZKI) | 4:06 | 2021-12-06 |  |
 | [Mi Vida Sin Tu Amor](https://open.spotify.com/track/4Q5r29QOHRK2TW4n8Preaz) | [Laurel Aitken](https://open.spotify.com/artist/30vvi2orcocejP6c3nKcEA) | [En Espanol](https://open.spotify.com/album/64ZHB2u13mp06rolh22Fm9) | 4:06 | 2021-12-06 | 2022-07-29 |
+| [Mi Vida sin tu Amor \(featuring Miño\)](https://open.spotify.com/track/63TFbfWD0zH9Y2tf3uqoRB) | [Son Rompe Pera](https://open.spotify.com/artist/0UKHKimjIGeFoS29LxWf4V), [Miño](https://open.spotify.com/artist/4ceRa2fprkKr9byxABIyTf) | [Batuco](https://open.spotify.com/album/3M8Eepfnzl2kaKyBVqjguX) | 5:28 | 2022-09-07 |  |
 | [Mierda De Ciudad](https://open.spotify.com/track/6lSJZiZqWU8Qt1fJVeFZEv) | [Kortatu](https://open.spotify.com/artist/2bSQxEqvD23Y4W6ztHaann) | [Aizkolari](https://open.spotify.com/album/13sAtrIn7lO0xiO4G3dyR6) | 3:17 | 2021-12-06 |  |
 | [Mile High](https://open.spotify.com/track/2ftEtuT6zgVPEXgRPTgAtM) | [Left Alone](https://open.spotify.com/artist/1y8nfcBE7BsDPifEWQfFQJ) | [Mile High](https://open.spotify.com/album/4hG3eEXP0TIEY7SFhlsMGL) | 3:05 | 2021-12-06 | 2022-07-29 |
 | [Mis Colegas](https://open.spotify.com/track/0p3rxgmQPN5y6QEMzliGZc) | [Ska\-P](https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl) | [Que Corra La Voz](https://open.spotify.com/album/0dxQu4nLZBSMZFVRUTAQ9e) | 4:11 | 2021-12-06 |  |
@@ -452,7 +453,7 @@
 | [Yo No Me Sentaría en Tu Mesa](https://open.spotify.com/track/7yJe8pOHppu5pqLxd15xlc) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [Yo Te Avise](https://open.spotify.com/album/559XGG6KjmHNOilKCd9Moc) | 2:54 | 2021-12-06 | 2022-07-29 |
 | [Yo No Me Sentaría en Tu Mesa \- Remasterizado 2008](https://open.spotify.com/track/7Jy41XI7wVBnXvOifdoaxG) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [Yo Te Avisé](https://open.spotify.com/album/2DJSgXqWhU2iJT2hPP2HCu) | 2:54 | 2021-12-06 |  |
 | [You Are So Fine](https://open.spotify.com/track/6pAdPtgLfeFiTdvtszyM3L) | [New York Ska\-Jazz Ensemble](https://open.spotify.com/artist/0ADVX4vKQN1saCsOdl67Fj) | [Double Edge](https://open.spotify.com/album/0hYwTgPZPq7nEhx24G3Jzv) | 3:08 | 2021-12-06 | 2022-07-29 |
-| [You're Gonna Find A Way Out](https://open.spotify.com/track/7u7u63BpXU2TBmjtvqbCYY) | [The Interrupters](https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF) | [Say It Out Loud](https://open.spotify.com/album/5vFP4PaGtuIccr1hW1PQKs) | 2:53 | 2021-12-06 |  |
+| [You're Gonna Find A Way Out](https://open.spotify.com/track/7u7u63BpXU2TBmjtvqbCYY) | [The Interrupters](https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF) | [Say It Out Loud](https://open.spotify.com/album/5vFP4PaGtuIccr1hW1PQKs) | 2:53 | 2021-12-06 | 2022-09-07 |
 | [Билеты в питер](https://open.spotify.com/track/6mEsDGjEm0kryzki7JhI01) | [Shootki](https://open.spotify.com/artist/4b1XdNVL7NFOpKHj6ju6gX) | [Билеты в питер](https://open.spotify.com/album/7EtQBZWRykCRSVm1zNel6w) | 2:12 | 2021-12-06 | 2022-07-08 |
 | [Волки](https://open.spotify.com/track/15deVETTWicD0ZCISOBZ4w) | [Вася Ложкин рокындроль бэнд](https://open.spotify.com/artist/0HsTrxyWLBT48rlk0dSwP7) | [Гениальная музыка](https://open.spotify.com/album/3TvFmevhjqJy6jZKcXu8Ne) | 3:19 | 2021-12-06 | 2022-07-20 |
 | [Палата № 6](https://open.spotify.com/track/3Vpozcy0frR8oBekCYOgW4) | [M.A.D\. Band](https://open.spotify.com/artist/3NJWLW6KGz4tqZXLafLzXg) | [Палата № 6](https://open.spotify.com/album/2Rr0JQmu8yO1xseAn5YsTv) | 2:59 | 2021-12-06 | 2022-06-19 |

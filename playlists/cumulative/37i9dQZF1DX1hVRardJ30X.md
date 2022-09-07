@@ -4,7 +4,7 @@
 
 > All\-new releases by Latin artists! Cover: Lenny Tavárez, Chencho Corleone, Piso 21.
 
-2,132 songs - 4 day 17 hr 11 min - [published](https://open.spotify.com/playlist/6FBekxXSQYqfZkSeoMBQid)
+2,133 songs - 4 day 17 hr 14 min - [published](https://open.spotify.com/playlist/6FBekxXSQYqfZkSeoMBQid)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1200,7 +1200,8 @@
 | [Mi Plan de Vida](https://open.spotify.com/track/5MMCvfPYyHQrppkihSQA2B) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV) | [El Amor Que Merecemos](https://open.spotify.com/album/3O3pfZQJpe6a7rvyoRtx9l) | 3:00 | 2022-05-27 | 2022-06-04 |
 | [Mi Plebada](https://open.spotify.com/track/4V6o2CAtWXXw48VJCmdzwF) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Mi Plebada](https://open.spotify.com/album/0I9dpMxQeIbfbjbCRSkqb3) | 3:42 | 2022-01-07 | 2022-01-15 |
 | [mi rayito de sol](https://open.spotify.com/track/7BMm9hnSEuLnnCz8HZISiu) | [Gala Nell](https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY) | [mi rayito de sol](https://open.spotify.com/album/3qjxAg6zb19S8kLFvnUsr1) | 2:27 | 2022-07-01 | 2022-07-09 |
-| [Mi Salida Contigo](https://open.spotify.com/track/4DKExb9AdxfNGyYh8RE9SB) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8), [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Mi Salida Contigo](https://open.spotify.com/album/2ponivnQfYOHUw6aWv0cGm) | 2:55 | 2022-09-02 |  |
+| [Mi Salida Contigo](https://open.spotify.com/track/4DKExb9AdxfNGyYh8RE9SB) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8), [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Mi Salida Contigo](https://open.spotify.com/album/2ponivnQfYOHUw6aWv0cGm) | 2:55 | 2022-09-02 | 2022-09-07 |
+| [Mi Salida Contigo](https://open.spotify.com/track/5zMaWQoxNyNo8hJICxNyBK) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8), [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Haashtag](https://open.spotify.com/album/61F0A7l8tyXIWJV3y4UKXw) | 2:55 | 2022-09-02 |  |
 | [Mia](https://open.spotify.com/track/56Nsfhk4x8FL8GHTIqnzkH) | [Balbi El Chamako](https://open.spotify.com/artist/3k090bKo2iSqNdowffKHrt), [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH), [Jairo Vera](https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc), [Aqua VS](https://open.spotify.com/artist/0bcZsLQV8MCeU0ylWbw23p) | [Mia](https://open.spotify.com/album/3kPdlBNGvuyNTbAHodZL3V) | 4:31 | 2022-02-11 | 2022-02-19 |
 | [Miami](https://open.spotify.com/track/0969BXUHWVqlmZa7zhuuRV) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Miami](https://open.spotify.com/album/3R3Kay5sDK4v3931l4evLG) | 3:45 | 2022-08-26 | 2022-09-03 |
 | [Miami Beach](https://open.spotify.com/track/1etZSRxp79Sh7UDPYnje2L) | [Audri Nix](https://open.spotify.com/artist/3JRFmLODLzfpDsIM6xdaLa) | [Miami Beach](https://open.spotify.com/album/2gm7v58VtLzOuqeOnrSwfH) | 2:55 | 2022-01-14 | 2022-01-22 |

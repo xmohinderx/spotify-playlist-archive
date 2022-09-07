@@ -1,12 +1,12 @@
 {
   "description": "A journey into the unknown, dark, and experimental.",
-  "num_followers": 160019,
+  "num_followers": 160127,
   "original_name": "Terra Incognita",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjE3ODYxNSwwMDAwMDAwMDRmYmFkYTMyMTI1Zjg2ZjM4Y2MwNmM4ZmI5YjUzMGE2",
+  "snapshot_id": "MTY2MjUxMTY0OCwwMDAwMDAwMGUxYTJlNTAyMmRiYjVkOGQ5YzQ4YmY1MzBjYjExMzgw",
   "tracks": [
     {
       "added_at": "2022-08-31 03:46:25",
@@ -183,6 +183,26 @@
       "duration_ms": 124066,
       "name": "pink diamond",
       "url": "https://open.spotify.com/track/3V0PgcsUMlAGXwCD0084pY"
+    },
+    {
+      "added_at": "2022-09-07 00:47:28",
+      "album": {
+        "name": "Oracles",
+        "url": "https://open.spotify.com/album/7q9ambvRrxK3Cem9IvcD7s"
+      },
+      "artists": [
+        {
+          "name": "AT\u014cMI",
+          "url": "https://open.spotify.com/artist/2xtvEAA3GV2xnT5iRzbKHX"
+        },
+        {
+          "name": "Laura Masotto",
+          "url": "https://open.spotify.com/artist/0WsOb9lixawpeFLHuAzhpd"
+        }
+      ],
+      "duration_ms": 410397,
+      "name": "Oracles",
+      "url": "https://open.spotify.com/track/3RPWEhdvyH1CXphkYti8wc"
     },
     {
       "added_at": "2022-09-03 03:34:56",

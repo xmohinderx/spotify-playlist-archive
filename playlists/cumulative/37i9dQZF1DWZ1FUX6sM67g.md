@@ -4,11 +4,12 @@
 
 > ¡En este punto tropical, se encuentra un poco de todo! Foto: Romeo Santos
 
-72 songs - 4 hr 26 min - [published](https://open.spotify.com/playlist/16anPiH3Ulo6h6pHaV7pop)
+73 songs - 4 hr 30 min - [published](https://open.spotify.com/playlist/16anPiH3Ulo6h6pHaV7pop)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Algo Que Se Quede](https://open.spotify.com/track/1JXcB149QtbcIpDUA6YZOB) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [40](https://open.spotify.com/album/1uF0bcswgdJBg2aq2r1HPk) | 3:40 | 2022-05-20 |  |
+| [Ambulancia](https://open.spotify.com/track/5OPte07J5hRK1pTn0f7ldr) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [De Adentro Pa Afuera](https://open.spotify.com/album/1UTDgnpHmthIsdzSxbhpV2) | 3:32 | 2022-09-06 |  |
 | [Amor a Primera Vista \- Salsa](https://open.spotify.com/track/1IEtGgDB44uNaWR3BfGbmo) | [Deyvis Orosco](https://open.spotify.com/artist/4Ys2BviobiudpEXEgVtdlV), [Amy Gutierrez](https://open.spotify.com/artist/1jrfEx1kZc8BNPLQDC7kVR), [Cielo Torres](https://open.spotify.com/artist/7AqX9JGo4WdLp5gPNSRoDJ), [Combinacion De La Habana](https://open.spotify.com/artist/3hfczsQRbhO3io1UwQFM1y) | [Amor a Primera Vista \(Salsa\)](https://open.spotify.com/album/4DTPqsctwRMUn4xSvqZTFt) | 4:02 | 2022-05-20 |  |
 | [Antes de Ti](https://open.spotify.com/track/0VREbqrPFyelWqZh0rQvbs) | [Son Tentación](https://open.spotify.com/artist/1KDHOxKG7fC0sp3HE8VfEi) | [Antes de Ti](https://open.spotify.com/album/156XKftzMJUeVXFp9wc5rH) | 4:36 | 2022-05-20 |  |
 | [Ateo](https://open.spotify.com/track/5xiAfKzE3mbxYbOkUZPR11) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [Nathy Peluso](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [Ateo](https://open.spotify.com/album/6Re7sviVustR53KeArspwK) | 3:59 | 2022-05-20 |  |
@@ -62,7 +63,7 @@
 | [Patacón Pisao](https://open.spotify.com/track/7J3rDUSA4vDHaqHPblboTU) | [Johnny Ventura](https://open.spotify.com/artist/7fvEDuYk5vkKKZGpv6Knus) | [10 De Colección](https://open.spotify.com/album/4se9bp1pffpDBHyzFWD4YV) | 4:35 | 2022-05-20 |  |
 | [Pásame la Botella](https://open.spotify.com/track/0o6RpUevYIYYSiANL7SJZJ) | [Magic Juan](https://open.spotify.com/artist/4MKKSJyNbrGSBodc8R7vPK), [Toño Rosario](https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy), [Shelow Shaq](https://open.spotify.com/artist/658X86qMyJpSRY87oPvExU) | [Pásame la Botella](https://open.spotify.com/album/3glWvXz1XJ8GCBANiQALQM) | 3:45 | 2022-05-20 |  |
 | [Q'lona](https://open.spotify.com/track/18qAAYXV9LmnLgO81cscAQ) | [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [Q'lona](https://open.spotify.com/album/44rOSsMvLYhd9PL1TFcbOq) | 3:48 | 2022-05-20 | 2022-08-06 |
-| [Que Somos Amantes \- Versión Salsa](https://open.spotify.com/track/5Nbu0Qg4F8pDMFUKZDeVCY) | [César Mancilla](https://open.spotify.com/artist/4ShRPyjoSth3ZFVnnJlVso), [Eva Ayllón](https://open.spotify.com/artist/6AQFORISOneOZkh6r1sGS2) | [Que Somos Amantes \(Versión Salsa\)](https://open.spotify.com/album/3Fujbm1on4szUtNONYMt1r) | 4:30 | 2022-05-20 |  |
+| [Que Somos Amantes \- Versión Salsa](https://open.spotify.com/track/5Nbu0Qg4F8pDMFUKZDeVCY) | [César Mancilla](https://open.spotify.com/artist/4ShRPyjoSth3ZFVnnJlVso), [Eva Ayllón](https://open.spotify.com/artist/6AQFORISOneOZkh6r1sGS2) | [Que Somos Amantes \(Versión Salsa\)](https://open.spotify.com/album/3Fujbm1on4szUtNONYMt1r) | 4:30 | 2022-05-20 | 2022-09-07 |
 | [Quien Dijo](https://open.spotify.com/track/23EalGl7ADnaoAKrNExMFn) | [Ivy Queen](https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH) | [Quien Dijo](https://open.spotify.com/album/4INTFlZm9BIHHeDXwu0K7U) | 4:01 | 2022-08-05 |  |
 | [Rechazame](https://open.spotify.com/track/07p0kLnvfQQ2bLujHyzSGK) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Prince Royce](https://open.spotify.com/album/5zEFCJy9kAyD8rMbBESdYh) | 3:43 | 2022-05-20 |  |
 | [Rosalía \- Live](https://open.spotify.com/track/4YwUVJPlq93RcAYDLz31uP) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Rosalía \(Live\)](https://open.spotify.com/album/22mTAWnV1iRTeYdF9sq7D8) | 3:20 | 2022-05-20 |  |

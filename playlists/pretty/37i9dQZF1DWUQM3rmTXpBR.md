@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQM3rmTXpBR.md) - [plain]
 
 > Alternative Arabic songs\. Cover: Ghaliaa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,049 likes - 59 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,083 likes - 59 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

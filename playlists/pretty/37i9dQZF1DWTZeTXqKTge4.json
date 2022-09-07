@@ -1,12 +1,12 @@
 {
   "description": "Le meilleur du hip-hop qu\u00e9b\u00e9cois. Photo: Taktika",
-  "num_followers": 73605,
+  "num_followers": 73606,
   "original_name": "Rap qu\u00e9b",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjE0MDIzNCwwMDAwMDAwMGFhNTVjOTYxMDlhYWI5MmZlOGNlMmExOTkxNjY5YTQ0",
+  "snapshot_id": "MTY2MjQzOTkzMiwwMDAwMDAwMGViNzU3ODFmYzcyZWFkOWFjNjMwZjBiZjFhM2Y3ZGRl",
   "tracks": [
     {
       "added_at": "2022-09-02 04:00:00",
@@ -99,6 +99,26 @@
     {
       "added_at": "2022-09-02 04:00:00",
       "album": {
+        "name": "Funambule",
+        "url": "https://open.spotify.com/album/4o4Wy7x6zIvGaeDdJxC9k2"
+      },
+      "artists": [
+        {
+          "name": "Farfadet",
+          "url": "https://open.spotify.com/artist/3n6sDQ5wLfb9GpJaKcEaPB"
+        },
+        {
+          "name": "Souldia",
+          "url": "https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1"
+        }
+      ],
+      "duration_ms": 154977,
+      "name": "Funambule",
+      "url": "https://open.spotify.com/track/17IYFs7jWrOZ3q30kBmnBn"
+    },
+    {
+      "added_at": "2022-09-02 04:00:00",
+      "album": {
         "name": "Hagra, Vol.1",
         "url": "https://open.spotify.com/album/4D4QUuwxoAe9qYpoqd4Zhn"
       },
@@ -159,26 +179,6 @@
       "duration_ms": 194434,
       "name": "Le pass\u00e9 nous le dira",
       "url": "https://open.spotify.com/track/5PSa5UlautRrllU20C9jY4"
-    },
-    {
-      "added_at": "2022-09-02 04:00:00",
-      "album": {
-        "name": "Funambule",
-        "url": "https://open.spotify.com/album/4o4Wy7x6zIvGaeDdJxC9k2"
-      },
-      "artists": [
-        {
-          "name": "Farfadet",
-          "url": "https://open.spotify.com/artist/3n6sDQ5wLfb9GpJaKcEaPB"
-        },
-        {
-          "name": "Souldia",
-          "url": "https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1"
-        }
-      ],
-      "duration_ms": 154977,
-      "name": "Funambule",
-      "url": "https://open.spotify.com/track/17IYFs7jWrOZ3q30kBmnBn"
     },
     {
       "added_at": "2022-09-02 04:00:00",

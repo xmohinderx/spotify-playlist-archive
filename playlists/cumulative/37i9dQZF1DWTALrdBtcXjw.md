@@ -4,7 +4,7 @@
 
 > Instrumental jazz to set the mood for a relaxed evening.
 
-170 songs - 16 hr 16 min - [published](https://open.spotify.com/playlist/7yuffmCwXVQZElB2HgVYTG)
+171 songs - 16 hr 23 min - [published](https://open.spotify.com/playlist/7yuffmCwXVQZElB2HgVYTG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [Prelude to a Kiss](https://open.spotify.com/track/04GQoL73mzVbe6GX7cwSKB) | [Carl Winther Trio](https://open.spotify.com/artist/3y4phUBzYdEtzU05FMCeu6) | [Relaxin'](https://open.spotify.com/album/7mbbHojRg6i6tGjKrMogsJ) | 5:20 | 2022-07-28 | 2022-08-31 |
 | [Pretty Women](https://open.spotify.com/track/6qTF7EjSSecc1rip7xckgN) | [Connie Han](https://open.spotify.com/artist/05u1DXPSD35OnIBPXFogTG) | [Crime Zone](https://open.spotify.com/album/45XJNADDsniF16VElBvwr8) | 6:21 | 2020-03-31 |  |
 | [Pure Imagination](https://open.spotify.com/track/1EcSvZ9Kq0EAohVfPcHToh) | [Rob Barron](https://open.spotify.com/artist/1QoFjUjxsHULNzFihvt8Sd) | [Pure Imagination](https://open.spotify.com/album/1a2ltY23XnBtmf47BRtKVK) | 5:58 | 2022-02-18 | 2022-04-15 |
+| [Rain Waltz](https://open.spotify.com/track/3HMysWiZrkfQhSdX5OqQcq) | [Fred Hersch Trio](https://open.spotify.com/artist/6iBvBotxtLvyFZoUPytqgP) | [Heartsongs](https://open.spotify.com/album/1eJhAsuavF6CLIN9tgCzhx) | 7:01 | 2022-09-06 |  |
 | [Rain Waltz](https://open.spotify.com/track/5IVCNqztB1lm7sTqXn3ww7) | [Fred Hersch Trio](https://open.spotify.com/artist/6iBvBotxtLvyFZoUPytqgP) | [Heartsongs](https://open.spotify.com/album/1xf8Ny57YgeCJxNKm2oVDd) | 7:01 | 2020-03-31 | 2022-07-28 |
 | [Remember \- Remastered](https://open.spotify.com/track/2BhU0Hl5OatWiCW93pE2b8) | [Hank Mobley](https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv) | [Soul Station](https://open.spotify.com/album/731OW49heGHCMrMOREHYlY) | 5:42 | 2020-03-31 | 2022-05-04 |
 | [Runmarö](https://open.spotify.com/track/2wcHksp6K21BdxTk5tk6UZ) | [Carl Bagge](https://open.spotify.com/artist/052RNZarYkMsvs3jzWLtIF) | [Runmarö](https://open.spotify.com/album/7ChRBtXYq64ImcF2wFtZ7i) | 5:41 | 2022-02-24 |  |
@@ -175,7 +176,7 @@
 | [What Are You Doing the Rest of Your Life?](https://open.spotify.com/track/3ZnPVp4Frub6UadiiiGDD9) | [Rolf Kühn](https://open.spotify.com/artist/73xPAo16RiiVu6X90p7UVb) | [Yellow + Blue](https://open.spotify.com/album/4HENgrWOdYVohdxPJXIK0H) | 7:56 | 2020-03-31 |  |
 | [What's Up](https://open.spotify.com/track/3TdiCaHISm2x7waIHKC9Ms) | [Carl Winther Trio](https://open.spotify.com/artist/3y4phUBzYdEtzU05FMCeu6) | [Relaxin'](https://open.spotify.com/album/7mbbHojRg6i6tGjKrMogsJ) | 4:38 | 2022-06-02 | 2022-08-12 |
 | [When It's Sleepytime Down South](https://open.spotify.com/track/0ZO3xca4fN38Be1un20nc9) | [Wynton Marsalis](https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7) | [Standard Time Vol\. 2: Intimacy Calling](https://open.spotify.com/album/4cmRWv6XOmC9sRryBkeU8U) | 5:09 | 2020-03-31 |  |
-| [When You Wish Upon a Star](https://open.spotify.com/track/0xZyf3x2BDnKMbmtoIfRRO) | [Leif Shires](https://open.spotify.com/artist/3YVt5oKfFEE0yJa7yJ3wWE), [Pat Coil](https://open.spotify.com/artist/2B8UFlcrZdKZD5qV83m503), [Jacob Jezioro](https://open.spotify.com/artist/2LItgcmlHsUt6BikoXc1Df), [Danny Gottlieb](https://open.spotify.com/artist/29aflj7NM4ocg7fMqbhifM) | [When You Wish Upon a Star](https://open.spotify.com/album/5yWDtcRDW1Rf4ebROZlx8u) | 5:54 | 2022-08-25 |  |
+| [When You Wish Upon a Star](https://open.spotify.com/track/0xZyf3x2BDnKMbmtoIfRRO) | [Leif Shires](https://open.spotify.com/artist/3YVt5oKfFEE0yJa7yJ3wWE), [Pat Coil](https://open.spotify.com/artist/2B8UFlcrZdKZD5qV83m503), [Jacob Jezioro](https://open.spotify.com/artist/2LItgcmlHsUt6BikoXc1Df), [Danny Gottlieb](https://open.spotify.com/artist/29aflj7NM4ocg7fMqbhifM) | [When You Wish Upon a Star](https://open.spotify.com/album/5yWDtcRDW1Rf4ebROZlx8u) | 5:54 | 2022-08-25 | 2022-09-07 |
 | [You Know I Care](https://open.spotify.com/track/4G7ZRlytbt8445h0kb8rIy) | [Walt Weiskopf](https://open.spotify.com/artist/0tdWD3Wpf0kyUYI6zeT1w3), [Anders Mogensen](https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik), [Carl Winther](https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R), [Andreas Lang](https://open.spotify.com/artist/4KYU7uyGCtySFvXrFnsJbe) | [You Know I Care](https://open.spotify.com/album/3i3aDOkhNYMC4PuBJ8Qu0k) | 4:30 | 2022-02-18 | 2022-07-29 |
 | [You Know I Care](https://open.spotify.com/track/2gkTommmniENieOmT4vvYb) | [Walt Weiskopf](https://open.spotify.com/artist/0tdWD3Wpf0kyUYI6zeT1w3), [Carl Winther](https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R), [Anders Mogensen](https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik), [Andreas Lang](https://open.spotify.com/artist/4KYU7uyGCtySFvXrFnsJbe) | [European Quartet: Introspection](https://open.spotify.com/album/7FQXxckwupKgu1XuqBTPhM) | 4:30 | 2022-07-28 | 2022-08-12 |
 

@@ -4,7 +4,7 @@
 
 > Calm music to help you focus on your reading.
 
-148 songs - 6 hr 54 min - [published](https://open.spotify.com/playlist/3ZGPhyEiXz7uhWF13D0N9j)
+149 songs - 6 hr 56 min - [published](https://open.spotify.com/playlist/3ZGPhyEiXz7uhWF13D0N9j)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Cedar Tree](https://open.spotify.com/track/3eGM7i0W651ugxqdKx9kJj) | [Ishitani](https://open.spotify.com/artist/7l5MAuQW3tchqPDTn4vo0i) | [Cedar Tree](https://open.spotify.com/album/6qOdM0nwzdD6vFt2OiTsZn) | 4:11 | 2022-03-21 |  |
 | [Changes Within](https://open.spotify.com/track/4hdZ8pWXvypfP0FrQTVwCs) | [Momento](https://open.spotify.com/artist/2HD6u9F4pocPtFgmev72AK) | [A Moment of Peace](https://open.spotify.com/album/5tmAu34wwfkAzZrQZZqa3M) | 2:55 | 2022-03-21 |  |
 | [Chuva](https://open.spotify.com/track/7knFmwt8bh2YmMNd4noQtd) | [Álvaro Da Silva](https://open.spotify.com/artist/1P53BMYk6Daoq2siT1H3jk) | [Chuva](https://open.spotify.com/album/4kJzbCXoNly7cLZuyFRVGW) | 1:48 | 2022-03-21 | 2022-08-13 |
-| [City Lights](https://open.spotify.com/track/041EqVueOI4pszWGJfKerh) | [Oliver Évilo](https://open.spotify.com/artist/6pr16671AS8qchaPqDDM0Y) | [City Lights](https://open.spotify.com/album/5edrSUkO57ts9EwVVjvPAx) | 2:06 | 2022-03-21 |  |
+| [City Lights](https://open.spotify.com/track/041EqVueOI4pszWGJfKerh) | [Oliver Évilo](https://open.spotify.com/artist/6pr16671AS8qchaPqDDM0Y) | [City Lights](https://open.spotify.com/album/5edrSUkO57ts9EwVVjvPAx) | 2:06 | 2022-03-21 | 2022-09-07 |
 | [Clear Sight](https://open.spotify.com/track/2APpB3CYW0XThDZtaGFpQ9) | [Morning Flowers](https://open.spotify.com/artist/1DeMgRnkbGP7ESjYVVP8CA) | [Clear Sight](https://open.spotify.com/album/1jiA5TfiHFMVrmdXhGDX90) | 2:13 | 2022-03-21 |  |
 | [Cloudy Mountains](https://open.spotify.com/track/5uDs595iEmAkqkNfzGB6cl) | [Wolf Keller](https://open.spotify.com/artist/0nL3okOqVl6PvsOmtzWwkb) | [Cloudy Mountains](https://open.spotify.com/album/1VWWZQ49IFtLX1iWWVK1p5) | 2:39 | 2022-03-21 |  |
 | [Colorful Wind](https://open.spotify.com/track/4k5NwAqXwtNP17qUdVZD1Y) | [Howie Paget](https://open.spotify.com/artist/4BZKW4O93jl7SthCIu89he) | [Colorful Wind](https://open.spotify.com/album/56klfdedaMKwnDJGFi38II) | 2:36 | 2022-03-21 |  |
@@ -52,8 +52,8 @@
 | [Falling Into Myself](https://open.spotify.com/track/1s2H9ipBuw8CbqTvmi9wc4) | [Arlen Ness](https://open.spotify.com/artist/45OB7boHqRPhkwMEsPPiT0) | [Dreamland](https://open.spotify.com/album/1NwKSU521fcHWGet98ka6r) | 2:14 | 2022-03-21 |  |
 | [Fireplace](https://open.spotify.com/track/6zO5kSbABJPDnMTMkbRGsG) | [Sam Sandro](https://open.spotify.com/artist/0oOXxPFTxaSLUB9cmMXyIE) | [Ballroom](https://open.spotify.com/album/6UsoKe7yyuSBvWyW5FlyKw) | 2:40 | 2022-03-21 |  |
 | [Fleurel](https://open.spotify.com/track/6R4Z8r68yy8DTZPGZxVw0J) | [Santo De Luca](https://open.spotify.com/artist/0s7z0HatZQ3GXIuUrg5hyL) | [Amaryllis](https://open.spotify.com/album/5f5yI5R2dYvcqW42OHftxp) | 3:08 | 2022-03-21 |  |
-| [Forever Right Now](https://open.spotify.com/track/0RKSDqAbLoKCWBEn7a4UWR) | [Tom Brown Sterling](https://open.spotify.com/artist/5QFEyJpaEKyXqrXJbZQRiY) | [Forever Right Now](https://open.spotify.com/album/6XeAvtLpu79R5eMwsXft7j) | 2:16 | 2022-03-21 |  |
-| [From The Horizon](https://open.spotify.com/track/4Wk9NDOcjHMSDcnKnVfLvb) | [Degravitated](https://open.spotify.com/artist/5X78BhxOkF4gr6Q0WD1CoY) | [From The Horizon](https://open.spotify.com/album/61jBjdLl3sLfmMOuK2w4d9) | 3:08 | 2022-03-21 |  |
+| [Forever Right Now](https://open.spotify.com/track/0RKSDqAbLoKCWBEn7a4UWR) | [Tom Brown Sterling](https://open.spotify.com/artist/5QFEyJpaEKyXqrXJbZQRiY) | [Forever Right Now](https://open.spotify.com/album/6XeAvtLpu79R5eMwsXft7j) | 2:16 | 2022-03-21 | 2022-09-07 |
+| [From The Horizon](https://open.spotify.com/track/4Wk9NDOcjHMSDcnKnVfLvb) | [Degravitated](https://open.spotify.com/artist/5X78BhxOkF4gr6Q0WD1CoY) | [From The Horizon](https://open.spotify.com/album/61jBjdLl3sLfmMOuK2w4d9) | 3:08 | 2022-03-21 | 2022-09-07 |
 | [Gentle Serenity](https://open.spotify.com/track/4amhCY18OuVRix7E1vUZJb) | [Perfect Shapes](https://open.spotify.com/artist/7rocivfP8tOkfNxT2jp9Fr) | [Horizon](https://open.spotify.com/album/3887UhI3G4vNcTefsBA5Zi) | 3:27 | 2022-03-21 |  |
 | [Hushed Premonition](https://open.spotify.com/track/5p3moUVU9JBeuj67GmZjSZ) | [amabilla stills](https://open.spotify.com/artist/6FLdU3AbGAyrRIX4ma1MxF) | [Hushed Premonition](https://open.spotify.com/album/0A7MgyzLmzMl52aDlGx3gJ) | 3:34 | 2022-03-21 | 2022-08-13 |
 | [Hyacinths](https://open.spotify.com/track/1tnWwIOUKtPD4Fc13hg8F3) | [Eyüp Börekç](https://open.spotify.com/artist/2PcaI1a5aqV8rbitzcX5u8) | [Hyacinths](https://open.spotify.com/album/4Dgvaw4NLjbSTCbuPKEyRm) | 1:54 | 2022-03-21 |  |
@@ -64,9 +64,10 @@
 | [Inner Sphere](https://open.spotify.com/track/3mLoP1rCssKM4aeRAUpiOj) | [Los Sobriles](https://open.spotify.com/artist/3JST5hIfjYPRqhKMJXqku2) | [Inner Sphere](https://open.spotify.com/album/3xdSCmp1G4ikQqKLFgACrP) | 3:25 | 2022-03-21 |  |
 | [Keeping Secrets](https://open.spotify.com/track/1AsnXOdPvQMuUmTl9hBPvD) | [Lucas Delphy](https://open.spotify.com/artist/5bgAHbDkNceLzoE0bFMeVr) | [Keeping Secrets](https://open.spotify.com/album/1hnIKHQ7XZ1Q7YBAIjCeCE) | 2:40 | 2022-03-21 |  |
 | [Latitude](https://open.spotify.com/track/1BMuBZVM8iuYu5bhVMmaID) | [Antonin Luthar](https://open.spotify.com/artist/04pS81HPxt768ZxxeJY36Z) | [Latitude](https://open.spotify.com/album/4nt53fqQh4PzVtWIHI7qMG) | 3:18 | 2022-03-21 | 2022-08-13 |
-| [Lilting Fields](https://open.spotify.com/track/6QayqmOU37gap6xzt1geL8) | [Genevieve Harding](https://open.spotify.com/artist/5bQclaUyw221JG0BsDceAS) | [Whole Breaths](https://open.spotify.com/album/2qHWi9gDsue0bh7C490ENt) | 2:55 | 2022-03-21 |  |
+| [Lilting Fields](https://open.spotify.com/track/6QayqmOU37gap6xzt1geL8) | [Genevieve Harding](https://open.spotify.com/artist/5bQclaUyw221JG0BsDceAS) | [Whole Breaths](https://open.spotify.com/album/2qHWi9gDsue0bh7C490ENt) | 2:55 | 2022-03-21 | 2022-09-07 |
 | [Limitless](https://open.spotify.com/track/5QGNwI8U3o9mQg7RR3yOPj) | [Lucas Delphy](https://open.spotify.com/artist/5bgAHbDkNceLzoE0bFMeVr) | [Limitless](https://open.spotify.com/album/1RXrGrbNghycihEnA8Sghl) | 2:45 | 2022-03-21 | 2022-08-13 |
 | [Lines](https://open.spotify.com/track/4ioMVSJSI6mBdqKUv0M1G3) | [The Vivid Clear](https://open.spotify.com/artist/5MpDlzNLaGHlaAHz9cMa1G) | [Lines](https://open.spotify.com/album/0jMT3ek5EP8Ncy7saITKja) | 2:54 | 2022-03-21 |  |
+| [Lovesong](https://open.spotify.com/track/1FVaEmntOX3Qf2Ng5wdMok) | [Levi Jacob](https://open.spotify.com/artist/2dv3nI6plW2rvqyOelBUAa) | [Lovesong](https://open.spotify.com/album/702GZkPC9uj5n0c37CwaBq) | 2:11 | 2022-09-06 |  |
 | [luna](https://open.spotify.com/track/5NOXtK6OWi7TDRU5TenMRX) | [Beau Deval](https://open.spotify.com/artist/3a31qhW1nKIv7BCkNlmdMQ) | [ambrosia](https://open.spotify.com/album/24a1ZFkju1iXEEQMYfNO1o) | 2:46 | 2022-03-21 |  |
 | [Magical Encounter](https://open.spotify.com/track/4SQbeiJW1g4Byzv67xQOgt) | [Milo Edale](https://open.spotify.com/artist/6ht27sA8oqmvcG4a2gcCsk) | [Magical Encounter](https://open.spotify.com/album/3r21K7yY51VPOGzw9sNdGc) | 2:15 | 2022-03-21 |  |
 | [Mantra for Piano](https://open.spotify.com/track/2FifEFnO1xZHMsG8O6Ir6p) | [Carl Bonet](https://open.spotify.com/artist/3NvG2KsrNSJqeGRryYyl8x) | [Center of Gravity](https://open.spotify.com/album/53A24jAS0pIuBHGINApD71) | 3:18 | 2022-03-21 |  |
@@ -97,7 +98,7 @@
 | [Ripples](https://open.spotify.com/track/0ft0r0FkcehEinp25jwzZi) | [Ningaloo](https://open.spotify.com/artist/5q3gVyAUO2idTLuANq9HAu) | [Ripples](https://open.spotify.com/album/4Xqssg19DANuwZyaRuvjzK) | 2:42 | 2022-03-21 |  |
 | [Saga Menuette](https://open.spotify.com/track/3EwA8gI0oi0vtmIBZBjGRQ) | [Marie Depauw](https://open.spotify.com/artist/3YrkixibPYT9i5JliqmLK7) | [Saga Menuette](https://open.spotify.com/album/0h1xKYfHHxyIEUKQDie39S) | 1:51 | 2022-03-21 |  |
 | [Saga Of Me](https://open.spotify.com/track/3gc5hmuRFBI2Vnd3Owjsok) | [Maya Sarfatto](https://open.spotify.com/artist/2BULWWkjYsQLp6CasdyPC9) | [Saga Of Me](https://open.spotify.com/album/4NkpuGYcUFAb1QZulZlUcL) | 2:34 | 2022-03-21 |  |
-| [Sanctuary](https://open.spotify.com/track/07faNDmHpfee71OHyar3F4) | [Estado De Calma](https://open.spotify.com/artist/0E1GrT0XtW2bcQvEuu7ajV) | [Sanctuary](https://open.spotify.com/album/3s7wjADNC8XLgZSedXwozE) | 2:53 | 2022-03-21 |  |
+| [Sanctuary](https://open.spotify.com/track/07faNDmHpfee71OHyar3F4) | [Estado De Calma](https://open.spotify.com/artist/0E1GrT0XtW2bcQvEuu7ajV) | [Sanctuary](https://open.spotify.com/album/3s7wjADNC8XLgZSedXwozE) | 2:53 | 2022-03-21 | 2022-09-07 |
 | [Sarek](https://open.spotify.com/track/7tN9gRPc8eYR9mS5cQsV0M) | [Laponia](https://open.spotify.com/artist/2ofMsV0f4ziG96f4ZKPzGr) | [Sarek](https://open.spotify.com/album/2CmyrbcaDXk5SulZg9nRIi) | 2:10 | 2022-03-21 |  |
 | [See You Another Day](https://open.spotify.com/track/5r3qJnZp1tMU4Snad9kUhb) | [D Orbea](https://open.spotify.com/artist/5zIA2WFT6BBxHqtA8tmi8K) | [See You Another Day](https://open.spotify.com/album/19DJwKFtHn4Qmt8g4AR52S) | 2:00 | 2022-04-21 |  |
 | [Sequioas](https://open.spotify.com/track/0xJfNmsjXXnpF0gkFAISPy) | [Olim](https://open.spotify.com/artist/7sgIedcWiWvEZGvIHgABbo) | [MFWT Vol.2](https://open.spotify.com/album/3AAQMnEbxXEfcYIWOZHd3l) | 2:37 | 2022-03-21 |  |
@@ -127,7 +128,7 @@
 | [Thankful](https://open.spotify.com/track/0fLniMyx3JO0FBuW8AjvNz) | [Allysa Nelson](https://open.spotify.com/artist/6h7cuFH2XtPwuplHby1gT0) | [Spring is Here](https://open.spotify.com/album/59xOA3f8FmCObSHn9pJuxk) | 3:07 | 2022-03-21 | 2022-08-13 |
 | [The Air Within](https://open.spotify.com/track/3rv1zUyotgtooIhn1QtCSe) | [Sandfires](https://open.spotify.com/artist/2OqTid1w1CFR9vQVd8EZoj) | [The Air Within](https://open.spotify.com/album/2aJZEWUnzQL9d9EvmAoeXf) | 3:11 | 2022-03-21 |  |
 | [The Day After Tomorrow](https://open.spotify.com/track/6utMGchGek24Jzaihq2GSP) | [Frantz Langdon](https://open.spotify.com/artist/5IvJzgDwTyF6fEcZUEkVxR) | [Us](https://open.spotify.com/album/2mTUsrGasTKmm7qKYy09kT) | 2:47 | 2022-03-21 |  |
-| [The Diary](https://open.spotify.com/track/6RtXHq34IEPCivS3BQU8Ij) | [Johannes Bornlöf](https://open.spotify.com/artist/1yLIaxyVkZnLMXhfRSYEjV) | [Echoes](https://open.spotify.com/album/0UfVxKV6IKokR2drwFMDii) | 2:26 | 2022-03-21 |  |
+| [The Diary](https://open.spotify.com/track/6RtXHq34IEPCivS3BQU8Ij) | [Johannes Bornlöf](https://open.spotify.com/artist/1yLIaxyVkZnLMXhfRSYEjV) | [Echoes](https://open.spotify.com/album/0UfVxKV6IKokR2drwFMDii) | 2:26 | 2022-03-21 | 2022-09-07 |
 | [The Doulton Fountain](https://open.spotify.com/track/5tqnBo633ndX2wJ6tQY2t1) | [Keeva Craig](https://open.spotify.com/artist/6xTIuLiCQBph46JUwkf2Fp) | [The Doulton Fountain](https://open.spotify.com/album/47wqhgXtQm2leg7zMj41VM) | 2:44 | 2022-03-21 |  |
 | [The Dreamer](https://open.spotify.com/track/3XnQ3OqmfvP5Sh6gACEKnG) | [Charles Bolt](https://open.spotify.com/artist/4FX5p8T76gw69sWyPbggCj), [Claes Nilsson](https://open.spotify.com/artist/3AdcSxxep8tZESjs9K3mZ9) | [The Dreamer](https://open.spotify.com/album/5HbEfECJ2XmKil2B8iOH92) | 2:58 | 2022-03-21 |  |
 | [The Essence](https://open.spotify.com/track/50Iw4pM6pLfisbWog0ysGF) | [Abbie Lou Johnston](https://open.spotify.com/artist/4rc9dcTUGouPU90UA8Kwjo) | [Pause To Think](https://open.spotify.com/album/00gHKH9fv0mUYsKqWBfK4x) | 3:19 | 2022-03-21 |  |
@@ -136,7 +137,7 @@
 | [The Quiet Hours](https://open.spotify.com/track/40M4T2bzYllLK4DzSPCGPy) | [William Keats](https://open.spotify.com/artist/17LlecIqr0KpoiUMya3KEO) | [The Quiet Hours](https://open.spotify.com/album/05MirPFXPGeqG59lLaHGyN) | 2:10 | 2022-03-21 |  |
 | [The Seeds I’ve Sown](https://open.spotify.com/track/3OLr0gzUC0zLlWmpE6L0Ay) | [Alina Linnéa](https://open.spotify.com/artist/2eWNqV0E7nkCq8MndbcmAU) | [The Seeds I've Sown](https://open.spotify.com/album/7FN3LtwM4XRkXXHuLPTzdI) | 3:01 | 2022-03-21 | 2022-08-13 |
 | [The Shores](https://open.spotify.com/track/4pUSEwCVnD5fYYb6pDkJNw) | [Hermosa Dawn](https://open.spotify.com/artist/2MjjjAZZhgYEyywzBnhZbN) | [The Shores](https://open.spotify.com/album/0sxe2UItX3hliFGbvLxwPq) | 2:01 | 2022-03-21 |  |
-| [Time Freezes](https://open.spotify.com/track/7A7WJn6zZ1RNoM6FWIffq1) | [Milo Edale](https://open.spotify.com/artist/6ht27sA8oqmvcG4a2gcCsk) | [Winter Solstice](https://open.spotify.com/album/5GWU9xzKbfbKHXneotKD7f) | 3:15 | 2022-03-21 |  |
+| [Time Freezes](https://open.spotify.com/track/7A7WJn6zZ1RNoM6FWIffq1) | [Milo Edale](https://open.spotify.com/artist/6ht27sA8oqmvcG4a2gcCsk) | [Winter Solstice](https://open.spotify.com/album/5GWU9xzKbfbKHXneotKD7f) | 3:15 | 2022-03-21 | 2022-09-07 |
 | [Timeless](https://open.spotify.com/track/4wDO6MjP0OoVxwHVizSBip) | [Cristoforo Giordano](https://open.spotify.com/artist/5kCSdIBChGo0GjOEuyjb40) | [Hourglass](https://open.spotify.com/album/50By33dGFe0wJ6GiQZKO8T) | 2:58 | 2022-03-21 |  |
 | [To Me](https://open.spotify.com/track/5R6uVJy58OxgyA0BQbY7Tk) | [Michel Landau](https://open.spotify.com/artist/2k6f9wKcRu84svgHonsR7x) | [You Are A Flower](https://open.spotify.com/album/0cH0rLc0CxNz3MjpKyuptN) | 2:08 | 2022-03-21 |  |
 | [Tsundere](https://open.spotify.com/track/053XLQrUhxw9z3jSNZ8eS9) | [ai.umi](https://open.spotify.com/artist/6avDPCpFyESoLK7WQf1hu0) | [Tsundere](https://open.spotify.com/album/2fOHmTIhnX8Hoe4rnrEjhi) | 2:11 | 2022-03-21 |  |

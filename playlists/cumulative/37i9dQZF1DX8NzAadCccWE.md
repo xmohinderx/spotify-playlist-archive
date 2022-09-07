@@ -4,7 +4,7 @@
 
 > SHERELLE's favorite tracks\. Updated regularly\. Curated by SHERELLE\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-316 songs - 1 day 0 hr 58 min - [published](https://open.spotify.com/playlist/2gWaZAY61eO3QXZAh34tFq)
+317 songs - 1 day 1 hr 5 min - [published](https://open.spotify.com/playlist/2gWaZAY61eO3QXZAh34tFq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,7 +186,8 @@
 | [PAYGK](https://open.spotify.com/track/1Ek7dqfQlnJOX1EKUf89ET) | [Itoa](https://open.spotify.com/artist/2cuUZ1Xg4gxUNINFn9zLTi) | [PAYGK EP](https://open.spotify.com/album/6Ak3cHRxKFwaZxTm3rcXTp) | 3:40 | 2022-02-18 | 2022-03-01 |
 | [Peeping Thom](https://open.spotify.com/track/75ZG7IyFgbOWO58kqmSBgu) | [TWEAKS](https://open.spotify.com/artist/0Eee47Sroig9UczLZGtyVn) | [Peeping Thom](https://open.spotify.com/album/1rCXwdTNgqKs2Yl3mta9Y5) | 3:20 | 2022-01-07 | 2022-02-19 |
 | [Pep Talk](https://open.spotify.com/track/1CSmHN7b9SgM4tcOpAEWdE) | [Bahamadia](https://open.spotify.com/artist/6ZcRUVs3I5U8EOnm9ZdCsO) | [BB Queen](https://open.spotify.com/album/6fEmV0y9haaM0878R4FxLD) | 4:56 | 2022-01-07 | 2022-02-19 |
-| [Perfect Dreams \- DJ Vibes & Wishdokta Remix](https://open.spotify.com/track/32awDDnA8Vor6sIiNyY2Ab) | [DJ Force](https://open.spotify.com/artist/1Sx29DFRSjbqBIa1ViUbyo), [The Evolution](https://open.spotify.com/artist/3RSOlLP2GXAxZblYD5XUf2) | [Remix Records & Kniteforce Present The Remixes Part 2](https://open.spotify.com/album/2FoaGb2fx31AFXfl6hpSE1) | 6:47 | 2022-06-17 |  |
+| [Perfect Dreams \- DJ Vibes & Wishdokta Remix](https://open.spotify.com/track/32awDDnA8Vor6sIiNyY2Ab) | [DJ Force](https://open.spotify.com/artist/1Sx29DFRSjbqBIa1ViUbyo), [The Evolution](https://open.spotify.com/artist/3RSOlLP2GXAxZblYD5XUf2) | [Remix Records & Kniteforce Present The Remixes Part 2](https://open.spotify.com/album/2FoaGb2fx31AFXfl6hpSE1) | 6:47 | 2022-06-17 | 2022-09-07 |
+| [Perfect Dreams \- Vibes & Wishdokta Remix](https://open.spotify.com/track/1SAwUC8Wq8a23M0yakFxA5) | [DJ Force](https://open.spotify.com/artist/1Sx29DFRSjbqBIa1ViUbyo), [Evolution](https://open.spotify.com/artist/10BkOlrvAltLSCAzFq2tTz) | [I Love Happy Hardcore – Mixed by DJ Vibes](https://open.spotify.com/album/7j91HlvrfutI0ntwMTEpDM) | 6:51 | 2022-06-17 |  |
 | [Persecution](https://open.spotify.com/track/3bqNmLtewDhYnRJyPyS0Wa) | [Response](https://open.spotify.com/artist/0J7WyINEHrVevJGBEEa2Pw), [Pliskin](https://open.spotify.com/artist/3ALOIGa0q1fVdgFFwzBeGf) | [We're All Disturbed](https://open.spotify.com/album/7EGZnu03u2uX70YvixyBRc) | 12:29 | 2022-06-17 |  |
 | [Phase Velocity](https://open.spotify.com/track/3oJgJ3Ybfe4nA8FxqwnOjl) | [Drumskull](https://open.spotify.com/artist/3nmbXJ8KL87bwy3cyddvsg) | [Quarters, Vol\. 1](https://open.spotify.com/album/1uPSZwzBPqJ4Rfis33oaZ0) | 6:39 | 2022-06-17 |  |
 | [Pico](https://open.spotify.com/track/4Avt7iIvPxhptWYCylemi8) | [Proc Fiskal](https://open.spotify.com/artist/1eFFmUlWRIvt26lnUzdduk) | [Shleekit Doss EP](https://open.spotify.com/album/2y2ncRDm2d0SoyAChDC6jy) | 5:20 | 2022-02-18 | 2022-03-01 |

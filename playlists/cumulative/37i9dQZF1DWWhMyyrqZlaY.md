@@ -2,7 +2,7 @@
 
 ### [Corridos Tumbados](https://open.spotify.com/playlist/37i9dQZF1DWWhMyyrqZlaY)
 
-> Los corridos más placosos que suenan en las calles\. Porte Diferente en portada.
+> Los corridos más placosos que suenan en las calles\. Natanael Cano en portada.
 
 64 songs - 3 hr 16 min - [published](https://open.spotify.com/playlist/0pNLi5IU8KFpQH3mzOOXMv)
 

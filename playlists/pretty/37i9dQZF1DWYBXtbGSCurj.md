@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, entre lançamentos e hits\. Foto: Tz da Coronel
 
-[Spotify](https://open.spotify.com/user/spotify) - 296,319 likes - 75 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 296,699 likes - 75 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 10 | [Leste É a Zona](https://open.spotify.com/track/55PxC4e821VhBy5osd7xY3) | [Menor MC](https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS), [DJ Matt D](https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5), [Rincon Sapiência](https://open.spotify.com/artist/41omk2DdGdhkw3At7KZ2Qp) | [Trap Funk Star](https://open.spotify.com/album/2NfhHzk0maDZ33cJbqZzHg) | 2:16 |
 | 11 | [Meu Óculos Caiu Sozinho](https://open.spotify.com/track/6fW7THjphPASrdlqYDxa1y) | [Sidoka](https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l), [Denov](https://open.spotify.com/artist/2SlZVZE3TXpp604Gh8t0ZW), [Dalua](https://open.spotify.com/artist/7awGveT87ZP4UoZxuv0zym) | [Meu Óculos Caiu Sozinho](https://open.spotify.com/album/0nqlxvzzwEKnhuisI3bY2v) | 3:20 |
 | 12 | [Pixadão](https://open.spotify.com/track/06VHFg61ePkcCQfYFEuz5c) | [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [MC Paulin da Capital](https://open.spotify.com/artist/592JnViQ2tot63c1SbtgK2), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd) | [Pixadão](https://open.spotify.com/album/11XLoSzIKieX8A4zC9mNcq) | 5:10 |
-| 13 | [Mãe](https://open.spotify.com/track/6fZBXVUnY3y21MV4yOlIbM) | [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU), [Wall Hein](https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB) | [Mãe](https://open.spotify.com/album/0AG8mcK6CmE5EPnZyyq7wy) | 2:26 |
+| 13 | [Mãe](https://open.spotify.com/track/6fZBXVUnY3y21MV4yOlIbM) | [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Wall Hein](https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB) | [Mãe](https://open.spotify.com/album/0AG8mcK6CmE5EPnZyyq7wy) | 2:26 |
 | 14 | [Londres Freestyle](https://open.spotify.com/track/1lgavq2sDLrnD5h5BytyBr) | [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw) | [Londres Freestyle](https://open.spotify.com/album/2u5F0rIXQeCZHvtuB3ySxU) | 2:08 |
 | 15 | [Z1000](https://open.spotify.com/track/6RJsM1UVeFtlb4uWXLG37T) | [Anezzi](https://open.spotify.com/artist/1RaUlYy9nsEiDlucisa5Bk), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7) | [Z1000](https://open.spotify.com/album/1CJTteKus929ENQwMGSMPz) | 2:52 |
 | 16 | [Mal Me Deu Bom Dia](https://open.spotify.com/track/3NI5AqxxMuheAQPhPbr1hQ) | [Raffa Moreira](https://open.spotify.com/artist/4xUawweuqhjMvoScRGbveR), [Malcolm VL](https://open.spotify.com/artist/6pJi8PaFlp6aNvOw3e0ONm), [Jay Kay](https://open.spotify.com/artist/1hMrgRIkEemGJWByc74Kki) | [Mal Me Deu Bom Dia](https://open.spotify.com/album/2ena7rE1zxSfKTEEsFf2uI) | 2:45 |

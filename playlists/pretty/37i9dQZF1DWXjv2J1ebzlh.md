@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 
 > The magical world map! Play it in shuffle ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,092 likes - 1,196 songs - 3 day 7 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,141 likes - 1,196 songs - 3 day 7 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -624,7 +624,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 614 | [Na 'Ha Ekato Kardies](https://open.spotify.com/track/5AAyNawMIDvD3q1TgPJX4e) | [Giota Lidia](https://open.spotify.com/artist/1lpGeBNSB6d5qy1jW5zYRa) | [Axehastes Epitihies](https://open.spotify.com/album/1D8soFw9WjJs284qkwHV3p) | 3:21 |
 | 615 | [Tempo de Amor \(Samba do Veloso\)](https://open.spotify.com/track/2mbYdO4VRxK7AKQ2NtxOo1) | [Baden Powell](https://open.spotify.com/artist/0VSgciOd32tP2Yna1w4vDr), [Quarteto Em Cy](https://open.spotify.com/artist/177N2fB1WvNBCQ4epjMQ3O) | [Os Afro\-Sambas](https://open.spotify.com/album/4zyGU4SFL8DEE9Ee9yAjnk) | 4:42 |
 | 616 | [Piya Tu Ab To Aaja](https://open.spotify.com/track/42ZzD15Cukv9MwSuNSAcjn) | [Asha Bhosle](https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U), [R\. D\. Burman](https://open.spotify.com/artist/2JSYASbWU5Y0fVpts3Eq7g) | [Caravan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7cQLF08KjM9FAxGHKIkxs6) | 5:26 |
-| 617 | [Tornei a Caminhar](https://open.spotify.com/track/4mIEPRZVUjWxYIFPuYFiLr) | [Sebastiao Tapajós](https://open.spotify.com/artist/2WFZ8Nkgao0Wf9LNztudDW), [Pedro Dos Santos](https://open.spotify.com/artist/601SkZDVYTITNnfx0KP1yh) | [Sebastião Tapajos \- Pedro Dos Santos, Vol\. 2](https://open.spotify.com/album/2sV1iyrBhu0wMsm7k8X6Fk) | 2:45 |
+| 617 | [Tornei a Caminhar](https://open.spotify.com/track/4mIEPRZVUjWxYIFPuYFiLr) | [Sebastiao Tapajós](https://open.spotify.com/artist/2WFZ8Nkgao0Wf9LNztudDW), [Pedro Dos Santos](https://open.spotify.com/artist/601SkZDVYTITNnfx0KP1yh) | [Sebastião Tapajos & Pedro Dos Santos, Vol\. 2](https://open.spotify.com/album/2sV1iyrBhu0wMsm7k8X6Fk) | 2:45 |
 | 618 | [Sote Sote Aadhi Raat](https://open.spotify.com/track/1GjSGgT0KfcsUzIQKx246t) | [Salma Agha](https://open.spotify.com/artist/7liaWSL1uPVjIrnYSFDB6V) | [Siskiyan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7gIvvJ29AJvyEm1qOcpdlY) | 4:04 |
 | 619 | [Faça Como Eu](https://open.spotify.com/track/2Aiu78NQYGcgrQW5Nesrmw) | [Miltinho](https://open.spotify.com/artist/2aRdU5K1LA2G4BCzSbMcDp) | [Bossa & Balanço](https://open.spotify.com/album/4O5QyxoDIAgLa2fgOGovhu) | 2:29 |
 | 620 | [Eastern Conga](https://open.spotify.com/track/2bjaHXusoq8crFM0tP6Ox2) | [Rupert Clemendore](https://open.spotify.com/artist/7fujTKgGepxssQqntiMLte) | [Le Jazz Trinidad](https://open.spotify.com/album/0NjVE8MBxEsi7ap5JHGFOT) | 3:30 |

@@ -1186,6 +1186,32 @@
     },
     {
       "album": {
+        "name": "Bhagavanta (From \"Saddu! Vicharane Nadeyuttide\")",
+        "url": "https://open.spotify.com/album/6zk3W1fBVjyWfknr3JbcjB"
+      },
+      "artists": [
+        {
+          "name": "Raghu Dixit",
+          "url": "https://open.spotify.com/artist/72578usTM6Cj5qWsi471Nc"
+        },
+        {
+          "name": "Lokanath Sugum",
+          "url": "https://open.spotify.com/artist/6RMeayRCB3tDcTdy9Z0q2o"
+        },
+        {
+          "name": "Sachin Basrur",
+          "url": "https://open.spotify.com/artist/6CdktQ3MYk5JwJHq1OajZG"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200103,
+      "name": "Bhagavanta (From \"Saddu! Vicharane Nadeyuttide\")",
+      "url": "https://open.spotify.com/track/0vwFmuW1yhn30SxU7l9m2a"
+    },
+    {
+      "album": {
         "name": "Bhajarangi 2",
         "url": "https://open.spotify.com/album/0CCu8Qgsv6UkD8ia93lfd0"
       },
@@ -1455,8 +1481,8 @@
       },
       "artists": [
         {
-          "name": "Pritam Chakraborty",
-          "url": "https://open.spotify.com/artist/73lZlzb36kvYW5UiLQyX3I"
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
         },
         {
           "name": "Nakash Aziz",

@@ -4,7 +4,7 @@
 
 > Groovy sounds from around the world.
 
-440 songs - 1 day 8 hr 35 min - [published](https://open.spotify.com/playlist/4cy2JLPcTDNKlCrRVhjOKn)
+441 songs - 1 day 8 hr 39 min - [published](https://open.spotify.com/playlist/4cy2JLPcTDNKlCrRVhjOKn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -381,7 +381,7 @@
 | [Ta Lassa \- Hide & Smile Edit](https://open.spotify.com/track/4wwzgwVi0V1t8SOWU5Bgx4) | [International Soleil Band](https://open.spotify.com/artist/3Btuf1RlPWMzHASwRufaNs) | [Ta Lassa](https://open.spotify.com/album/4ZtsbFxbxbum6KL9CIlVmu) | 6:16 | 2021-10-06 | 2022-07-29 |
 | [Tan Nou](https://open.spotify.com/track/7hc2q1ZucZ2iRsR8Dbwgph) | [Dowdelin](https://open.spotify.com/artist/1ogaqCgdEnTy7M5jO0tMue) | [Lanmou Lanmou](https://open.spotify.com/album/5I7tMruynWvRRRMgmUnZN0) | 3:23 | 2022-04-26 | 2022-07-28 |
 | [Tangue à l'envie](https://open.spotify.com/track/66mv1VdHLwr6c3tDk0IiJb) | [DjeuhDjoah](https://open.spotify.com/artist/6oay09Jpzlp3TKFbx7GBMY), [Lieutenant Nicholson](https://open.spotify.com/artist/7veGa0wVnoD20wadhEUMq5) | [Aimez ces airs](https://open.spotify.com/album/2He9SDdWsV0r3PdBPxjJrf) | 5:16 | 2022-03-29 | 2022-06-26 |
-| [Taurus](https://open.spotify.com/track/1R2g3aWdOv9BOUjqMgZTic) | [Glass Beams](https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF) | [Mirage](https://open.spotify.com/album/45yGFEPm310zjAc1psZzEv) | 4:32 | 2022-04-26 |  |
+| [Taurus](https://open.spotify.com/track/1R2g3aWdOv9BOUjqMgZTic) | [Glass Beams](https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF) | [Mirage](https://open.spotify.com/album/45yGFEPm310zjAc1psZzEv) | 4:32 | 2022-04-26 | 2022-09-07 |
 | [Teen Etus](https://open.spotify.com/track/0CEslFNe6rY0pmHaksb9vW) | [Cedric Pytel](https://open.spotify.com/artist/11ls4fvCxj7Lwa7FBF7EnB), [Juanita Euka](https://open.spotify.com/artist/5a7zFB39QFXzf8amit9zJh) | [Teen Etus](https://open.spotify.com/album/4WJwqsOGhFoR2EessviVrV) | 2:52 | 2022-04-17 | 2022-06-23 |
 | [Tendme \(Habibi Funk 015\)](https://open.spotify.com/track/2telsvYtSRHVlj8kWqrB6A) | [Ibrahim Hesnawi](https://open.spotify.com/artist/6tPa6NxEdaNHWKupImT46F) | [Tendme \(Habibi Funk 015\)](https://open.spotify.com/album/5QemzvXDdZw3BAEyjcgPWD) | 4:39 | 2021-10-06 | 2022-05-26 |
 | [Teu sorriso \- 56 Mix](https://open.spotify.com/track/4bOlBoY9gcHSIPew1Sbi3F) | [Paraíso](https://open.spotify.com/artist/4ID8ALXR4zZrcJFvxL41n0) | [Teu sorriso](https://open.spotify.com/album/2PjHbUJ1FaYtEPO5JsmRDs) | 5:33 | 2022-03-29 | 2022-04-21 |
@@ -433,6 +433,7 @@
 | [Wifi Beach](https://open.spotify.com/track/5zwaNwnK8r2FzgDXt6n7EF) | [Brijean](https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb) | [Feelings](https://open.spotify.com/album/5I5YPvShZe8jZ3hqWHKClb) | 3:12 | 2021-10-06 | 2022-04-17 |
 | [Worry](https://open.spotify.com/track/2JPY1tESSn8hhwlMdMrRzo) | [Songhoy Blues](https://open.spotify.com/artist/5fpQ5Qt2BKgoVBSMw4Z17Z) | [Optimisme](https://open.spotify.com/album/6uK3gAaZuQEh5cpB33B5GF) | 3:05 | 2021-10-06 | 2022-04-17 |
 | [Ya Aen Daly \(Habibi Funk 015\)](https://open.spotify.com/track/1WfRCBqkSWqXF7rPKBJ0dr) | [Najib Alhoush](https://open.spotify.com/artist/3PAatZgj07isuZxGqo60ua) | [Ya Aen Daly \(Habibi Funk 015\)](https://open.spotify.com/album/3HKXTTI6SAABiaBMr40hwm) | 3:34 | 2021-10-06 |  |
+| [Ya Yo Sé](https://open.spotify.com/track/13Bi9eUCVZzp3X7453V2TY) | [Chico Mann](https://open.spotify.com/artist/2Wt6Q6ZHygCPVtMO3uxLGB) | [Analog Drift](https://open.spotify.com/album/6HrF56kOsMzQPQOZPUk5TY) | 4:32 | 2022-09-07 |  |
 | [Yabaal](https://open.spotify.com/track/0IPAr9x0VOpCnk2hNuk5aO) | [Dur\-Dur Band](https://open.spotify.com/artist/4KDUfOJRuihzpcwO7jx9DF) | [Dur Dur of Somalia \- Vol\. 1, Vol\. 2 \(Analog Africa No\. 27\)](https://open.spotify.com/album/2ZWaF8JdYy0T8wJdVDW8az) | 5:57 | 2021-10-06 | 2022-07-27 |
 | [Yardley Suite](https://open.spotify.com/track/2u9mRfYp5vzMCCSLxS85X9) | [Ruby Rushton](https://open.spotify.com/artist/6DO2Eyazl6ToBSvp7OGLuF) | [Yardley Suite](https://open.spotify.com/album/1MVB8WaiCepzmHVvX741WN) | 3:55 | 2021-10-06 | 2022-04-15 |
 | [Yaykatekar Dub \(Love Dub\)](https://open.spotify.com/track/1nkKYuTCHJAczQSpbgigO9) | [OKI](https://open.spotify.com/artist/1DyqDoMaDbFucSdywPnwhO) | [Yaykatekara Dub \(Love Dub\)](https://open.spotify.com/album/143yn83F4xFKVKSWmAFPlb) | 5:10 | 2022-02-03 | 2022-07-29 |

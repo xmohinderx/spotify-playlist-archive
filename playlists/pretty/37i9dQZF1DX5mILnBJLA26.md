@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 
 > The biggest Amapiano singles making waves in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/5CqbErFqBV89u0gqQfH3ks?si=yfiz5NTiS6iNs3B\-YKSz4Q">031Choppa</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 334,539 likes - 80 songs - 8 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,883 likes - 80 songs - 8 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

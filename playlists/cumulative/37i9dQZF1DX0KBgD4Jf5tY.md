@@ -4,7 +4,7 @@
 
 > Nuove scoperte dalla scena indipendente italiana, senza etichette di genere\. Cover: <a href="spotify:artist:7By2W4RhZGhK9wCYGQr1Q1">Kinder Garden</a>
 
-350 songs - 17 hr 44 min - [published](https://open.spotify.com/playlist/7DW4xNQc4jVEAVd25UPTmP)
+351 songs - 17 hr 46 min - [published](https://open.spotify.com/playlist/7DW4xNQc4jVEAVd25UPTmP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [BUBU](https://open.spotify.com/track/5MpQSICU6w2Wu39FXSxPQK) | [L I M](https://open.spotify.com/artist/6TGrYfNonLf6yO3RGiM4EF) | [BUBU](https://open.spotify.com/album/6PzcJMgNttqjxcuf8mZNzV) | 4:31 | 2022-01-06 | 2022-02-18 |
 | [Buio](https://open.spotify.com/track/3dsMyJ5lR9ammFyy8G4RjE) | [Giovane Giovane](https://open.spotify.com/artist/4BAxuRON1nw7gbgNTSAKAI) | [I figli degli altri](https://open.spotify.com/album/0pBDpnqaruZbsNDn1a0rzR) | 3:32 | 2022-03-24 | 2022-05-28 |
 | [Bye Bye](https://open.spotify.com/track/73gFn6pgBtaQtPlycYycwR) | [Syco](https://open.spotify.com/artist/1F5TfMsQ8wVZ1s2HlrH076), [Nylone](https://open.spotify.com/artist/6IWYCvgWRRkpTrznIwphgx) | [Bye Bye](https://open.spotify.com/album/2pGT9QUMRor3kcEuYRP10g) | 3:17 | 2022-01-06 | 2022-02-18 |
+| [C'est La Vie](https://open.spotify.com/track/1Unwmq4hYPKCgoOSHSmc8S) | [KIM](https://open.spotify.com/artist/3AMuZJ85HywqN42C3Mc2LL) | [C'est La Vie](https://open.spotify.com/album/76wXnnoIAnR40YQH88e3rR) | 1:30 | 2022-09-06 |  |
 | [Caffè](https://open.spotify.com/track/5uxfD54NLzsy1AP4ulHEzJ) | [gheb.](https://open.spotify.com/artist/3wv8iLsyRJdqSHBuEURVg6) | [Coffee Break](https://open.spotify.com/album/4BiH3apnfeox0bwYYSSwNA) | 3:25 | 2022-03-24 | 2022-04-20 |
 | [CAMOMILLA](https://open.spotify.com/track/4lNZbF3jBuNDDdkasOcwWf) | [I Le Lucertole](https://open.spotify.com/artist/5RzjUawywFTUvNpO6wEvvM) | [CAMOMILLA](https://open.spotify.com/album/6lJKZMRlT8tw8jc7tCF42W) | 2:57 | 2022-03-24 | 2022-05-06 |
 | [Cantonese](https://open.spotify.com/track/6fOA2rIxr7HEV8a5dyiVl2) | [Stramare](https://open.spotify.com/artist/5oAifDTzCGqpz9YWvTrLOW) | [Cantonese](https://open.spotify.com/album/6oZtBvNPK6ezs0ZL7XOAwb) | 3:40 | 2022-01-06 | 2022-02-18 |
@@ -145,7 +146,7 @@
 | [I want to believe](https://open.spotify.com/track/5rsWEQHRjj79IdYimUC5zz) | [SCORTESI](https://open.spotify.com/artist/3SelukOgib6BdRCzzlPymS) | [I want to believe](https://open.spotify.com/album/5onOlkRsEBpzHbHM564cpb) | 3:32 | 2022-03-03 | 2022-03-25 |
 | [il mio sole \(sei tu\)](https://open.spotify.com/track/0U57nIxmj5WuoKI8B6883w) | [giulybee](https://open.spotify.com/artist/2qy6kkG36fX0G2tYQa4vik), [gatomato](https://open.spotify.com/artist/1MqEPXCa6xq5YcFeArFnG4) | [il mio sole \(sei tu\)](https://open.spotify.com/album/37bVWsKCvQG1AytQXF2YaV) | 3:34 | 2022-06-23 | 2022-07-23 |
 | [Il suono che ho dentro alla testa](https://open.spotify.com/track/6MfiKVSAiknuYP9XUXQYFg) | [Narcolessia](https://open.spotify.com/artist/1haMWb1Zbd8XYPfLJOCEmS) | [Il suono che ho dentro alla testa](https://open.spotify.com/album/7qhpdfM1CRlV3DDrBIqSI2) | 2:05 | 2022-05-05 | 2022-06-10 |
-| [In Fissa \(feat\. Moonet, Zo Vivaldi, Hank\)](https://open.spotify.com/track/4xhCoCq3YTfp2Jzw4xjBfC) | [Loggia West Milano](https://open.spotify.com/artist/5isUAPOR83d2pZ2VRZi7Lv), [Hank](https://open.spotify.com/artist/212ZH0VQsr0lRbBFsJUPCh), [Moonet](https://open.spotify.com/artist/1NPVr13pYtGGQv6tQX1zWT), [Zo Vivaldi](https://open.spotify.com/artist/6Z3e8q2O7PGU16V88JKT1q) | [In Fissa \(feat\. Moonet, Zo Vivaldi, Hank\)](https://open.spotify.com/album/65pNuMCYZ9jpFdy3Z7mpsf) | 2:57 | 2022-06-23 |  |
+| [In Fissa \(feat\. Moonet, Zo Vivaldi, Hank\)](https://open.spotify.com/track/4xhCoCq3YTfp2Jzw4xjBfC) | [Loggia West Milano](https://open.spotify.com/artist/5isUAPOR83d2pZ2VRZi7Lv), [Hank](https://open.spotify.com/artist/212ZH0VQsr0lRbBFsJUPCh), [Moonet](https://open.spotify.com/artist/1NPVr13pYtGGQv6tQX1zWT), [Zo Vivaldi](https://open.spotify.com/artist/6Z3e8q2O7PGU16V88JKT1q) | [In Fissa \(feat\. Moonet, Zo Vivaldi, Hank\)](https://open.spotify.com/album/65pNuMCYZ9jpFdy3Z7mpsf) | 2:57 | 2022-06-23 | 2022-09-07 |
 | [in loop](https://open.spotify.com/track/2yfTs9jXTKNAxRZ9X3BlSU) | [ALLE](https://open.spotify.com/artist/31198cNlkvUbsM84iYyIdm) | [in loop](https://open.spotify.com/album/24BztsotMHiqpArEei5Y3f) | 3:28 | 2022-06-23 | 2022-07-15 |
 | [Invincibile](https://open.spotify.com/track/4GsiTZizpp3F7rRJdqTXz0) | [TENUE](https://open.spotify.com/artist/7y8xVGZZK39g9eaPsjLJhk) | [Invincibile](https://open.spotify.com/album/6ukUEghwtsxFoUPvmQswdE) | 2:37 | 2022-01-06 | 2022-02-18 |
 | [IRIDE](https://open.spotify.com/track/60Ny3W1j0uzf5ZrhUnKYTK) | [Cherry Ills](https://open.spotify.com/artist/2xltT1bsHxP4ogBIoaqIS3) | [Ch.ills](https://open.spotify.com/album/35TDJaOMKi3g35WJjZ9vVL) | 2:53 | 2022-02-17 | 2022-03-04 |

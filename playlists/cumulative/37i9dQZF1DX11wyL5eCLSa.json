@@ -443,7 +443,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-07",
       "duration_ms": 224673,
       "name": "Contour",
       "url": "https://open.spotify.com/track/3YY5FrLS9mnYOBnhr4uVoX"
@@ -631,7 +631,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-05",
+      "date_removed": null,
       "duration_ms": 219707,
       "name": "Demasiado Bien",
       "url": "https://open.spotify.com/track/3UIlqSSYYpTkfjC00fA04B"
@@ -797,6 +797,24 @@
       "duration_ms": 245694,
       "name": "El Accidente",
       "url": "https://open.spotify.com/track/0wchDmvHOahKI191E7X448"
+    },
+    {
+      "album": {
+        "name": "El Brillo de Tu Ausencia",
+        "url": "https://open.spotify.com/album/5t1Uw2qWVVMCAzmHwwdT02"
+      },
+      "artists": [
+        {
+          "name": "Azul de Viena",
+          "url": "https://open.spotify.com/artist/2Ie8P8WAdI3FMvEuWS52pQ"
+        }
+      ],
+      "date_added": "2022-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252428,
+      "name": "El Brillo de Tu Ausencia",
+      "url": "https://open.spotify.com/track/5j1grRcBgGMzdXh0DoEOzz"
     },
     {
       "album": {
@@ -1767,7 +1785,7 @@
       ],
       "date_added": "2022-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-07",
       "duration_ms": 159840,
       "name": "M\u00e1scaras",
       "url": "https://open.spotify.com/track/1m2mPStUPdyQSDnoHVYNwd"

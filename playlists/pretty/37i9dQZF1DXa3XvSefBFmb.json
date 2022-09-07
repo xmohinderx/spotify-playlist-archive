@@ -1,15 +1,15 @@
 {
   "description": "Ouve estas extraordin\u00e1rias mulheres artistas portuguesas, como MARO, com o volume no m\u00e1ximo",
-  "num_followers": 5538,
+  "num_followers": 5540,
   "original_name": "EQUAL Portugal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTQ4MTIwMCwwMDAwMDAwMGNmYTYyNDdmYmM5MmM5ZjQ5ZjE5MTgyOWY1Mzg0YjQ4",
+  "snapshot_id": "MTY2MjUwNTIwMCwwMDAwMDAwMGI3NGEwZDQyMmYyZTFmZGRjNDZmOTRkZDRhODgwZmQx",
   "tracks": [
     {
-      "added_at": "2022-08-02 23:00:00",
+      "added_at": "2022-09-06 23:00:00",
       "album": {
         "name": "can you see me?",
         "url": "https://open.spotify.com/album/6lvr2vceq0j5YhJUQTPSKE"
@@ -20,12 +20,272 @@
           "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
         }
       ],
-      "duration_ms": 244814,
-      "name": "like we're wired",
-      "url": "https://open.spotify.com/track/0KcINbJYIerkABczK3q0qo"
+      "duration_ms": 197994,
+      "name": "can you see me?",
+      "url": "https://open.spotify.com/track/0PqyrHOwAMA43it710rAor"
     },
     {
-      "added_at": "2022-08-02 23:00:00",
+      "added_at": "2022-09-06 23:00:00",
+      "album": {
+        "name": "Sausalito",
+        "url": "https://open.spotify.com/album/1nCA0AlzAIQQdJA1hwUr0Z"
+      },
+      "artists": [
+        {
+          "name": "Nana Lourdes",
+          "url": "https://open.spotify.com/artist/3LEjiFgpLbT1F0UgOE9qbg"
+        }
+      ],
+      "duration_ms": 129627,
+      "name": "Sausalito",
+      "url": "https://open.spotify.com/track/58NbKFlfq0nkU1oM56ukYd"
+    },
+    {
+      "added_at": "2022-09-06 23:00:00",
+      "album": {
+        "name": "Mar Azul",
+        "url": "https://open.spotify.com/album/0pDADbq5FFUMkls9VeYW9g"
+      },
+      "artists": [
+        {
+          "name": "Nenny",
+          "url": "https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1"
+        }
+      ],
+      "duration_ms": 193939,
+      "name": "Mar Azul",
+      "url": "https://open.spotify.com/track/5gJyW5NeOsfNa2CSMES2h3"
+    },
+    {
+      "added_at": "2022-09-06 23:00:00",
+      "album": {
+        "name": "N\u00e3o vai l\u00e1",
+        "url": "https://open.spotify.com/album/7MkzilGO9QcuASMQuDW0a9"
+      },
+      "artists": [
+        {
+          "name": "P\u00e9rola",
+          "url": "https://open.spotify.com/artist/34Gw52pP6ExWNrH6U6fpeO"
+        },
+        {
+          "name": "Cubita",
+          "url": "https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di"
+        }
+      ],
+      "duration_ms": 187000,
+      "name": "N\u00e3o vai l\u00e1",
+      "url": "https://open.spotify.com/track/3soU1YzHXcd4nsIjpJmMgK"
+    },
+    {
+      "added_at": "2022-09-06 23:00:00",
+      "album": {
+        "name": "Talvez...",
+        "url": "https://open.spotify.com/album/0o8AGwMQunsC0QMOk4hZt3"
+      },
+      "artists": [
+        {
+          "name": "CAROLINA DE DEUS",
+          "url": "https://open.spotify.com/artist/0CwJCUfVGXjdMvyLzJNwFH"
+        }
+      ],
+      "duration_ms": 184269,
+      "name": "Talvez...",
+      "url": "https://open.spotify.com/track/65BXCyoVQ1sSGj0z6UxRcL"
+    },
+    {
+      "added_at": "2022-09-06 23:00:00",
+      "album": {
+        "name": "Famous (Freestyle)",
+        "url": "https://open.spotify.com/album/3lrs010p5N6CvKLaQhA5tN"
+      },
+      "artists": [
+        {
+          "name": "Carla Prata",
+          "url": "https://open.spotify.com/artist/7vWp4MLdsECG1Dmu5NDLRS"
+        }
+      ],
+      "duration_ms": 211764,
+      "name": "Famous (Freestyle)",
+      "url": "https://open.spotify.com/track/5oMTtyl81BPXNzoZYBH4Co"
+    },
+    {
+      "added_at": "2022-09-06 23:00:00",
+      "album": {
+        "name": "Ka Ta Importa",
+        "url": "https://open.spotify.com/album/0j6nUQtgHdtcCdYhgs6eJJ"
+      },
+      "artists": [
+        {
+          "name": "Felishia",
+          "url": "https://open.spotify.com/artist/2VQJ9qBV0mzZAVkDYt1gCm"
+        },
+        {
+          "name": "Oliver",
+          "url": "https://open.spotify.com/artist/056V8xAmMi81LgOJZhjTob"
+        }
+      ],
+      "duration_ms": 230978,
+      "name": "Ka Ta Importa",
+      "url": "https://open.spotify.com/track/4xt4lAUBCPRYtIIWmm9XPk"
+    },
+    {
+      "added_at": "2022-09-06 23:00:00",
+      "album": {
+        "name": "Escolhas",
+        "url": "https://open.spotify.com/album/41ns60epaJDcFaAXTBnRNw"
+      },
+      "artists": [
+        {
+          "name": "Sara Monteiro",
+          "url": "https://open.spotify.com/artist/5HELMWN5G2dNC2AOXn2VNu"
+        }
+      ],
+      "duration_ms": 213749,
+      "name": "Escolhas",
+      "url": "https://open.spotify.com/track/6n7eMurn5COerQEg1s9Ott"
+    },
+    {
+      "added_at": "2022-09-06 23:00:00",
+      "album": {
+        "name": "Pe\u00e7o \u00e0 Vida",
+        "url": "https://open.spotify.com/album/5j4GO6RRuIXGNxfO2lXu4n"
+      },
+      "artists": [
+        {
+          "name": "In\u00eas de Vasconcellos",
+          "url": "https://open.spotify.com/artist/38LLnLrfME2OCNaqPKAB7f"
+        },
+        {
+          "name": "Leandro",
+          "url": "https://open.spotify.com/artist/2PpjBxbsUlJN2Be7BtXPsw"
+        }
+      ],
+      "duration_ms": 213898,
+      "name": "Pe\u00e7o \u00e0 Vida",
+      "url": "https://open.spotify.com/track/7k6Visi46yGO4T6fBTKv1U"
+    },
+    {
+      "added_at": "2022-09-06 23:00:00",
+      "album": {
+        "name": "Lugares",
+        "url": "https://open.spotify.com/album/481gruEtrN9zjE8vOwRMjc"
+      },
+      "artists": [
+        {
+          "name": "Teresa da C\u00e2mara",
+          "url": "https://open.spotify.com/artist/3F27GHBz1nQXWRekD1s9vM"
+        }
+      ],
+      "duration_ms": 207777,
+      "name": "Dizer Adeus \u00c9 T\u00e3o Triste",
+      "url": "https://open.spotify.com/track/7KHbte0W5XsEhSel6HMW04"
+    },
+    {
+      "added_at": "2022-09-06 23:00:00",
+      "album": {
+        "name": "Solange",
+        "url": "https://open.spotify.com/album/4HsX2RsYOI5WxwP1gBS035"
+      },
+      "artists": [
+        {
+          "name": "Solange Silva",
+          "url": "https://open.spotify.com/artist/3Gd0VQZB0rY0HCfpSUGQNc"
+        }
+      ],
+      "duration_ms": 181496,
+      "name": "Os Loucos",
+      "url": "https://open.spotify.com/track/0SCwQXFpKJFc2UrP1CnvU8"
+    },
+    {
+      "added_at": "2022-09-06 23:00:00",
+      "album": {
+        "name": "Para\u00edso",
+        "url": "https://open.spotify.com/album/25TldDXVcA50rwT7IF7dSm"
+      },
+      "artists": [
+        {
+          "name": "Tasman Edge",
+          "url": "https://open.spotify.com/artist/50caqmkFJTqVSKMYvjmEK7"
+        },
+        {
+          "name": "Rita Senhor",
+          "url": "https://open.spotify.com/artist/76YPktW3HuXfS1ls2vcswZ"
+        }
+      ],
+      "duration_ms": 201769,
+      "name": "Para\u00edso",
+      "url": "https://open.spotify.com/track/2aqjj2C8ZWnHbw31TIkZcQ"
+    },
+    {
+      "added_at": "2022-09-06 23:00:00",
+      "album": {
+        "name": "Pressure (unplugged)",
+        "url": "https://open.spotify.com/album/12E8Bz8SrAEHaoCdJ46LII"
+      },
+      "artists": [
+        {
+          "name": "Da Chick",
+          "url": "https://open.spotify.com/artist/0XtZe2I85XkMTQP2SVt0FE"
+        }
+      ],
+      "duration_ms": 165440,
+      "name": "Pressure (unplugged)",
+      "url": "https://open.spotify.com/track/4GPY15g4dqJbhccyDEscVY"
+    },
+    {
+      "added_at": "2022-09-06 23:00:00",
+      "album": {
+        "name": "O Que Eu Dei",
+        "url": "https://open.spotify.com/album/3MGxYe94PGdYNTGwCXYsa7"
+      },
+      "artists": [
+        {
+          "name": "Maria Castro",
+          "url": "https://open.spotify.com/artist/1e8vbPF60YDUTdHwUQUz6p"
+        }
+      ],
+      "duration_ms": 213785,
+      "name": "O Que Eu Dei",
+      "url": "https://open.spotify.com/track/776IuuCe9Mx5sRN1hs4aIB"
+    },
+    {
+      "added_at": "2022-09-06 23:00:00",
+      "album": {
+        "name": "Fala S\u00f3",
+        "url": "https://open.spotify.com/album/2nlMuBZsxGpcPRnpb8hYjr"
+      },
+      "artists": [
+        {
+          "name": "Yola Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/4jYj5iBLdhRzXvEC1f0XGm"
+        }
+      ],
+      "duration_ms": 197946,
+      "name": "Fala S\u00f3",
+      "url": "https://open.spotify.com/track/0GLjhzoxp487M60SXbrdNQ"
+    },
+    {
+      "added_at": "2022-09-06 23:00:00",
+      "album": {
+        "name": "Agarra Em Mim (feat. Pedro Mafama)",
+        "url": "https://open.spotify.com/album/6CqZSvWGgVgAAOIG8PtZLQ"
+      },
+      "artists": [
+        {
+          "name": "Ana Moura",
+          "url": "https://open.spotify.com/artist/5HjL8Wcg8TdKTABDci2mB7"
+        },
+        {
+          "name": "Pedro Mafama",
+          "url": "https://open.spotify.com/artist/69ca2Xp6iQx8kzL4jXnrWk"
+        }
+      ],
+      "duration_ms": 207944,
+      "name": "Agarra Em Mim (feat. Pedro Mafama)",
+      "url": "https://open.spotify.com/track/5yu0OwxUuJtvXhdwhhBZWI"
+    },
+    {
+      "added_at": "2022-09-06 23:00:00",
       "album": {
         "name": "Eh Para a Frente, Eh Para tr\u00e1s",
         "url": "https://open.spotify.com/album/3srSDFJhgwBetFxmT1nvgM"
@@ -41,7 +301,7 @@
       "url": "https://open.spotify.com/track/3elqH6YbzTGQtlYdlmIbZC"
     },
     {
-      "added_at": "2022-08-02 23:00:00",
+      "added_at": "2022-09-06 23:00:00",
       "album": {
         "name": "Disse Que Sim",
         "url": "https://open.spotify.com/album/26q7TiQAry0szrfxFr9AYp"
@@ -57,7 +317,7 @@
       "url": "https://open.spotify.com/track/4kDI9caBU7ZU4GS1UE81TE"
     },
     {
-      "added_at": "2022-08-02 23:00:00",
+      "added_at": "2022-09-06 23:00:00",
       "album": {
         "name": "Mi Monta\u00f1a",
         "url": "https://open.spotify.com/album/7p6EQ8Zy2hxkUNfJdzkWPk"
@@ -73,7 +333,7 @@
       "url": "https://open.spotify.com/track/7sYyzoRnUsQReKEuFUhs7d"
     },
     {
-      "added_at": "2022-08-02 23:00:00",
+      "added_at": "2022-09-06 23:00:00",
       "album": {
         "name": "Recome\u00e7ar",
         "url": "https://open.spotify.com/album/69UJYUj2v6zTV5WBKkUcj5"
@@ -89,7 +349,7 @@
       "url": "https://open.spotify.com/track/5JspFGLSuUuOa7TchlmqPT"
     },
     {
-      "added_at": "2022-08-02 23:00:00",
+      "added_at": "2022-09-06 23:00:00",
       "album": {
         "name": "Loop Sessions: Praia do Rosa",
         "url": "https://open.spotify.com/album/05A4cYIc8LuiX85SOIX2yO"
@@ -105,7 +365,7 @@
       "url": "https://open.spotify.com/track/19ysopXPLNK3hagon87ZWS"
     },
     {
-      "added_at": "2022-08-02 23:00:00",
+      "added_at": "2022-09-06 23:00:00",
       "album": {
         "name": "Filha da Tuga",
         "url": "https://open.spotify.com/album/0Y02EPeDM8ULYof2SbV7aN"
@@ -121,7 +381,7 @@
       "url": "https://open.spotify.com/track/45xbI2zYwzO0eZRplOtn5b"
     },
     {
-      "added_at": "2022-08-02 23:00:00",
+      "added_at": "2022-09-06 23:00:00",
       "album": {
         "name": "Judo",
         "url": "https://open.spotify.com/album/74y7PCwTiSW8rc4NqJ6HXO"
@@ -137,7 +397,7 @@
       "url": "https://open.spotify.com/track/4OIDijcueOohTPwAOENKrb"
     },
     {
-      "added_at": "2022-08-02 23:00:00",
+      "added_at": "2022-09-06 23:00:00",
       "album": {
         "name": "Au Revoir",
         "url": "https://open.spotify.com/album/73FV08Q7NYBKIYUTy2voNw"
@@ -153,7 +413,7 @@
       "url": "https://open.spotify.com/track/0FdlrJvsozfuDLbMt6x4qJ"
     },
     {
-      "added_at": "2022-08-02 23:00:00",
+      "added_at": "2022-09-06 23:00:00",
       "album": {
         "name": "Sai Da Frente, Vou Passar",
         "url": "https://open.spotify.com/album/5By89shZkEYtTwXyMxCOe0"
@@ -169,7 +429,7 @@
       "url": "https://open.spotify.com/track/5DGfI3DkbgaiVUdA44Zq9G"
     },
     {
-      "added_at": "2022-08-02 23:00:00",
+      "added_at": "2022-09-06 23:00:00",
       "album": {
         "name": "Bem Perto",
         "url": "https://open.spotify.com/album/64mVaFwyn0iMAd2xV1Y9xH"
@@ -185,7 +445,7 @@
       "url": "https://open.spotify.com/track/7JNtgj9GCVlhUC4oGyR90u"
     },
     {
-      "added_at": "2022-08-02 23:00:00",
+      "added_at": "2022-09-06 23:00:00",
       "album": {
         "name": "Contigo",
         "url": "https://open.spotify.com/album/0AilYfQz054x9NjzmIgiik"
@@ -213,7 +473,7 @@
       "url": "https://open.spotify.com/track/4YfGVuLMxt2uCB5Ohe6Ifb"
     },
     {
-      "added_at": "2022-08-02 23:00:00",
+      "added_at": "2022-09-06 23:00:00",
       "album": {
         "name": "Am\u00e1lia Rodrigues Live In Japan (2022 Edition)",
         "url": "https://open.spotify.com/album/5bjeDouS3uV4Vz0TnQq3yp"
@@ -229,7 +489,7 @@
       "url": "https://open.spotify.com/track/7cOt0FxNrUM4EVtqVXUlSh"
     },
     {
-      "added_at": "2022-08-02 23:00:00",
+      "added_at": "2022-09-06 23:00:00",
       "album": {
         "name": "469",
         "url": "https://open.spotify.com/album/0688sP9kWJoNixqn9h0IN3"
@@ -245,7 +505,7 @@
       "url": "https://open.spotify.com/track/5izsIQaHmew3R2dzySz0EG"
     },
     {
-      "added_at": "2022-08-02 23:00:00",
+      "added_at": "2022-09-06 23:00:00",
       "album": {
         "name": "Tou Maluca",
         "url": "https://open.spotify.com/album/6svQ4PmAkv0FlvaEfJgyU3"
@@ -261,7 +521,7 @@
       "url": "https://open.spotify.com/track/6Y5xDB74uPmRZzvDkmeFEz"
     },
     {
-      "added_at": "2022-08-02 23:00:00",
+      "added_at": "2022-09-06 23:00:00",
       "album": {
         "name": "No Stress No Money",
         "url": "https://open.spotify.com/album/21XZSV4v4PA8cDsaUyip0l"
@@ -277,7 +537,7 @@
       "url": "https://open.spotify.com/track/0RyfhIcs0AQwwXHoqrSjcg"
     },
     {
-      "added_at": "2022-08-02 23:00:00",
+      "added_at": "2022-09-06 23:00:00",
       "album": {
         "name": "Tempu",
         "url": "https://open.spotify.com/album/6T1JKW2xC71BY2FabGeZmA"
@@ -293,23 +553,7 @@
       "url": "https://open.spotify.com/track/4Uo5YjQAWOU8BmK8eRb40P"
     },
     {
-      "added_at": "2022-08-02 23:00:00",
-      "album": {
-        "name": "Moves",
-        "url": "https://open.spotify.com/album/53U31iP9TMufcyKtWHabAh"
-      },
-      "artists": [
-        {
-          "name": "C\u00edntia",
-          "url": "https://open.spotify.com/artist/4WqTcvQjAIpyRqnWX6jRmU"
-        }
-      ],
-      "duration_ms": 221553,
-      "name": "Moves",
-      "url": "https://open.spotify.com/track/6Qd0m5xN4ngZvHdyy1SMVy"
-    },
-    {
-      "added_at": "2022-08-02 23:00:00",
+      "added_at": "2022-09-06 23:00:00",
       "album": {
         "name": "Quando Eu Te Sinto",
         "url": "https://open.spotify.com/album/1vCYnfuDNTE9cYvCx3JnN1"
@@ -325,7 +569,7 @@
       "url": "https://open.spotify.com/track/48fO0Lhu8lzQHLxQsDM83o"
     },
     {
-      "added_at": "2022-08-02 23:00:00",
+      "added_at": "2022-09-06 23:00:00",
       "album": {
         "name": "O Teu Fado \u00e9 Ser Feliz",
         "url": "https://open.spotify.com/album/5tUMyzFbv095p9qoojikx5"
@@ -341,7 +585,7 @@
       "url": "https://open.spotify.com/track/6uIShoSCezseGZOZdU6qbk"
     },
     {
-      "added_at": "2022-08-02 23:00:00",
+      "added_at": "2022-09-06 23:00:00",
       "album": {
         "name": "Orelhas Moucas",
         "url": "https://open.spotify.com/album/3OxjvFlQT3UTpn2iEJitV9"
@@ -357,7 +601,7 @@
       "url": "https://open.spotify.com/track/5TVSb80c9O3SWBUSeUh3gM"
     },
     {
-      "added_at": "2022-08-02 23:00:00",
+      "added_at": "2022-09-06 23:00:00",
       "album": {
         "name": "Conta-me",
         "url": "https://open.spotify.com/album/6yiecrWiDNF8cR8EKSzZFV"
@@ -373,7 +617,7 @@
       "url": "https://open.spotify.com/track/2jzw8D6jbndbwYambYs3Fc"
     },
     {
-      "added_at": "2022-08-02 23:00:00",
+      "added_at": "2022-09-06 23:00:00",
       "album": {
         "name": "Ser Mulher",
         "url": "https://open.spotify.com/album/2KEcHj85NXJskjYgYaiBEc"
@@ -389,7 +633,7 @@
       "url": "https://open.spotify.com/track/30oVq7DYscRKPts5ry5CFs"
     },
     {
-      "added_at": "2022-08-02 23:00:00",
+      "added_at": "2022-09-06 23:00:00",
       "album": {
         "name": "Clouds",
         "url": "https://open.spotify.com/album/5U6yQtanwTiGlhLFlGIA6L"
@@ -405,7 +649,7 @@
       "url": "https://open.spotify.com/track/1bL0YIoydaag05wXcMLKCR"
     },
     {
-      "added_at": "2022-08-02 23:00:00",
+      "added_at": "2022-09-06 23:00:00",
       "album": {
         "name": "Uma M\u00fasica Angolana",
         "url": "https://open.spotify.com/album/5Etk8veWJAYvVJorNwZfcI"
@@ -421,7 +665,7 @@
       "url": "https://open.spotify.com/track/3wee6Fymfcvt9LH4DIU2i8"
     },
     {
-      "added_at": "2022-08-02 23:00:00",
+      "added_at": "2022-09-06 23:00:00",
       "album": {
         "name": "A Primeira Carta",
         "url": "https://open.spotify.com/album/4RUvVf1COv2YcUWwAO0w2g"
@@ -437,39 +681,7 @@
       "url": "https://open.spotify.com/track/2Tpgbc5ThpBtWF8m1sP4jW"
     },
     {
-      "added_at": "2022-08-02 23:00:00",
-      "album": {
-        "name": "Cura",
-        "url": "https://open.spotify.com/album/3hQvIFMzmbiWE2RvX8Fu3F"
-      },
-      "artists": [
-        {
-          "name": "iolanda",
-          "url": "https://open.spotify.com/artist/37VYsW0OfWchi5qpCDOv1b"
-        }
-      ],
-      "duration_ms": 167200,
-      "name": "Cura",
-      "url": "https://open.spotify.com/track/65qS9nnzZApHbaXmgfRdIy"
-    },
-    {
-      "added_at": "2022-08-02 23:00:00",
-      "album": {
-        "name": "Querido Futuro Namorado",
-        "url": "https://open.spotify.com/album/72SvQQWEG3ZE4iJS5n7jsE"
-      },
-      "artists": [
-        {
-          "name": "CAROLINA DE DEUS",
-          "url": "https://open.spotify.com/artist/0CwJCUfVGXjdMvyLzJNwFH"
-        }
-      ],
-      "duration_ms": 259980,
-      "name": "Querido Futuro Namorado",
-      "url": "https://open.spotify.com/track/4Jr8T5PEyi9yvahMTw1W4o"
-    },
-    {
-      "added_at": "2022-08-02 23:00:00",
+      "added_at": "2022-09-06 23:00:00",
       "album": {
         "name": "Como O Vento",
         "url": "https://open.spotify.com/album/1BsQ8nRQTeA6D4GMEqzcu4"
@@ -485,7 +697,7 @@
       "url": "https://open.spotify.com/track/0Pguh2USTnyVnaPK9oJJpB"
     },
     {
-      "added_at": "2022-08-02 23:00:00",
+      "added_at": "2022-09-06 23:00:00",
       "album": {
         "name": "L\u00e1 Fora",
         "url": "https://open.spotify.com/album/1Q6u8RaKEYgWPhhLxu5egU"
@@ -501,7 +713,7 @@
       "url": "https://open.spotify.com/track/284WpL1jJFUPDRcJEdFvl4"
     },
     {
-      "added_at": "2022-08-02 23:00:00",
+      "added_at": "2022-09-06 23:00:00",
       "album": {
         "name": "Vento",
         "url": "https://open.spotify.com/album/4QwnkhxCQEgVnmAvUSquRX"
@@ -521,7 +733,7 @@
       "url": "https://open.spotify.com/track/7sn5PxtRuPDS8HuWyWxOHr"
     },
     {
-      "added_at": "2022-08-02 23:00:00",
+      "added_at": "2022-09-06 23:00:00",
       "album": {
         "name": "amar n\u00e3o me salvou",
         "url": "https://open.spotify.com/album/0bRiQUIWZicGLaQWVQTLMs"
@@ -537,7 +749,7 @@
       "url": "https://open.spotify.com/track/6cl4yzF0FKFQCScFPWHBd5"
     },
     {
-      "added_at": "2022-08-02 23:00:00",
+      "added_at": "2022-09-06 23:00:00",
       "album": {
         "name": "Culpada",
         "url": "https://open.spotify.com/album/4Gim5CIoKGEK85o025N8U8"
@@ -553,7 +765,7 @@
       "url": "https://open.spotify.com/track/045fggqX6wMuZoF6viTJ7B"
     },
     {
-      "added_at": "2022-08-02 23:00:00",
+      "added_at": "2022-09-06 23:00:00",
       "album": {
         "name": "Anan\u00e1s",
         "url": "https://open.spotify.com/album/5MjlR3MAEEhMzwkyWGBLIj"
@@ -569,7 +781,7 @@
       "url": "https://open.spotify.com/track/1iTdMDcECY3gL6SuHyrBGD"
     },
     {
-      "added_at": "2022-08-02 23:00:00",
+      "added_at": "2022-09-06 23:00:00",
       "album": {
         "name": "Better",
         "url": "https://open.spotify.com/album/0WYvsQWwVEQw9VdzzFYqJe"
@@ -585,7 +797,7 @@
       "url": "https://open.spotify.com/track/6GgIV5XFR01SZYDza2POge"
     },
     {
-      "added_at": "2022-08-02 23:00:00",
+      "added_at": "2022-09-06 23:00:00",
       "album": {
         "name": "Finally",
         "url": "https://open.spotify.com/album/7tlGWhfMn36RACF2LdKqMh"
@@ -601,7 +813,7 @@
       "url": "https://open.spotify.com/track/0qDhMXqweX0LY3vAS4nQPP"
     },
     {
-      "added_at": "2022-08-02 23:00:00",
+      "added_at": "2022-09-06 23:00:00",
       "album": {
         "name": "Tudo o Que Eu Quero \u00c9 Viver",
         "url": "https://open.spotify.com/album/6iVvjoF88xROLDPQiqiKiI"
@@ -617,47 +829,7 @@
       "url": "https://open.spotify.com/track/2v2hmJEFDyQJws7tww1nrj"
     },
     {
-      "added_at": "2022-08-02 23:00:00",
-      "album": {
-        "name": "Onde Vais (feat. Carminho)",
-        "url": "https://open.spotify.com/album/2qUlkECr3lYwfkWSSTtr16"
-      },
-      "artists": [
-        {
-          "name": "B\u00e1rbara Bandeira",
-          "url": "https://open.spotify.com/artist/4zhMand4AowXuUz4VpGiTJ"
-        },
-        {
-          "name": "Carminho",
-          "url": "https://open.spotify.com/artist/6I1r8xKn6bCeionvZVdzdR"
-        }
-      ],
-      "duration_ms": 238305,
-      "name": "Onde Vais (feat. Carminho)",
-      "url": "https://open.spotify.com/track/4xigvdbvlzxJIIZGIg6eGT"
-    },
-    {
-      "added_at": "2022-08-02 23:00:00",
-      "album": {
-        "name": "Agarra Em Mim (feat. Pedro Mafama)",
-        "url": "https://open.spotify.com/album/6CqZSvWGgVgAAOIG8PtZLQ"
-      },
-      "artists": [
-        {
-          "name": "Ana Moura",
-          "url": "https://open.spotify.com/artist/5HjL8Wcg8TdKTABDci2mB7"
-        },
-        {
-          "name": "Pedro Mafama",
-          "url": "https://open.spotify.com/artist/69ca2Xp6iQx8kzL4jXnrWk"
-        }
-      ],
-      "duration_ms": 207944,
-      "name": "Agarra Em Mim (feat. Pedro Mafama)",
-      "url": "https://open.spotify.com/track/5yu0OwxUuJtvXhdwhhBZWI"
-    },
-    {
-      "added_at": "2022-08-02 23:00:00",
+      "added_at": "2022-09-06 23:00:00",
       "album": {
         "name": "Coisas Simples",
         "url": "https://open.spotify.com/album/0HXeCmtqSa8mlEGlD6mSbc"
@@ -671,170 +843,6 @@
       "duration_ms": 161973,
       "name": "Coisas Simples",
       "url": "https://open.spotify.com/track/7etq2T78Y4Vwi8n0aoo6SS"
-    },
-    {
-      "added_at": "2022-08-02 23:00:00",
-      "album": {
-        "name": "Paz",
-        "url": "https://open.spotify.com/album/4qiNZg6XpXyTKeQhKdd1Ro"
-      },
-      "artists": [
-        {
-          "name": "Carolina Deslandes",
-          "url": "https://open.spotify.com/artist/6xolQjWFT24ykWke55u9fU"
-        }
-      ],
-      "duration_ms": 205819,
-      "name": "Paz",
-      "url": "https://open.spotify.com/track/72ecBkW6t3u3N3cdpZLX3L"
-    },
-    {
-      "added_at": "2022-08-02 23:00:00",
-      "album": {
-        "name": "Benef\u00edcio da D\u00favida",
-        "url": "https://open.spotify.com/album/1yhNNdKPvfXDXrJvKoZBB3"
-      },
-      "artists": [
-        {
-          "name": "Maria Reis",
-          "url": "https://open.spotify.com/artist/0DWQj8MLymKN8IpUcB2Yh9"
-        }
-      ],
-      "duration_ms": 270984,
-      "name": "Lobisomem",
-      "url": "https://open.spotify.com/track/6s2dfXDxAS9o1IculpMGFW"
-    },
-    {
-      "added_at": "2022-08-02 23:00:00",
-      "album": {
-        "name": "Notas Musicais",
-        "url": "https://open.spotify.com/album/3kQErDbdu07y9nVBbTagxB"
-      },
-      "artists": [
-        {
-          "name": "Matilde",
-          "url": "https://open.spotify.com/artist/6k5suR9VW94cqebhOpwNvy"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Notas Musicais",
-      "url": "https://open.spotify.com/track/09W7qDy90wDEs3MBZZxKc6"
-    },
-    {
-      "added_at": "2022-08-02 23:00:00",
-      "album": {
-        "name": "A Dan\u00e7a",
-        "url": "https://open.spotify.com/album/5mre8Bv0ybBp8Lwk2vdAVL"
-      },
-      "artists": [
-        {
-          "name": "Bia do Mar",
-          "url": "https://open.spotify.com/artist/0WdKT67JWqBlLtOyF4e7eg"
-        }
-      ],
-      "duration_ms": 191367,
-      "name": "A Dan\u00e7a",
-      "url": "https://open.spotify.com/track/6ukT0RAeQNGDyTRBsAcVf6"
-    },
-    {
-      "added_at": "2022-08-02 23:00:00",
-      "album": {
-        "name": "N\u00e3o Precisava",
-        "url": "https://open.spotify.com/album/4GDnPxE0MEGY9Ld4MGvRN2"
-      },
-      "artists": [
-        {
-          "name": "Stef\u00e2nia Leonel",
-          "url": "https://open.spotify.com/artist/5vBDGts6FgwIFgGezr0gZE"
-        }
-      ],
-      "duration_ms": 188181,
-      "name": "N\u00e3o Precisava",
-      "url": "https://open.spotify.com/track/4mGkbo0tFPJxqpXbQ7IVDS"
-    },
-    {
-      "added_at": "2022-08-02 23:00:00",
-      "album": {
-        "name": "A Paix\u00e3o Tem Dessas Coisas",
-        "url": "https://open.spotify.com/album/0Cp67FbumaMiaHyUDIXCvw"
-      },
-      "artists": [
-        {
-          "name": "Margareth do Ros\u00e1rio",
-          "url": "https://open.spotify.com/artist/2C5iHsCaPbHJhs1WJippQg"
-        }
-      ],
-      "duration_ms": 223306,
-      "name": "Chofer de Pra\u00e7a",
-      "url": "https://open.spotify.com/track/4b0KzXa1fCLiGyiVBXmqgq"
-    },
-    {
-      "added_at": "2022-08-02 23:00:00",
-      "album": {
-        "name": "Coisas do Amor",
-        "url": "https://open.spotify.com/album/7lRhmURhIOWv3dQ0MlLPlH"
-      },
-      "artists": [
-        {
-          "name": "Bell",
-          "url": "https://open.spotify.com/artist/2MzxmqsbCtVa8qTZMDLBqh"
-        }
-      ],
-      "duration_ms": 237190,
-      "name": "Coisas do Amor",
-      "url": "https://open.spotify.com/track/0j3DDzUYyXxm59BN2c9fxl"
-    },
-    {
-      "added_at": "2022-08-02 23:00:00",
-      "album": {
-        "name": "Cris\u00e1lida",
-        "url": "https://open.spotify.com/album/4kBCJXENrMBYUnz2l3X4GJ"
-      },
-      "artists": [
-        {
-          "name": "Cristiana Santos",
-          "url": "https://open.spotify.com/artist/4OpCM9nxs4mNk1q1OoW6fh"
-        }
-      ],
-      "duration_ms": 241000,
-      "name": "Pe\u00e7o \u00e0 Lua",
-      "url": "https://open.spotify.com/track/2vjAOrT4cUfEFO4zY8LVur"
-    },
-    {
-      "added_at": "2022-08-02 23:00:00",
-      "album": {
-        "name": "Passo a Passo",
-        "url": "https://open.spotify.com/album/5xhJcZaQl9b1p7L0bZfsnj"
-      },
-      "artists": [
-        {
-          "name": "Nena",
-          "url": "https://open.spotify.com/artist/561qBVd91ZPE9yCURXt7BB"
-        }
-      ],
-      "duration_ms": 219166,
-      "name": "Passo a Passo",
-      "url": "https://open.spotify.com/track/7sjCw56rjoLqNionnjcRGC"
-    },
-    {
-      "added_at": "2022-08-02 23:00:00",
-      "album": {
-        "name": "Primeiro Andar",
-        "url": "https://open.spotify.com/album/6gwgtt8MWoQpYiHiVtzNfJ"
-      },
-      "artists": [
-        {
-          "name": "Yinb",
-          "url": "https://open.spotify.com/artist/2KmhbuIqupCuWoDpTidzrV"
-        },
-        {
-          "name": "Momma T",
-          "url": "https://open.spotify.com/artist/2RwEXHPEe17Ekap37t6BBs"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Primeiro Andar",
-      "url": "https://open.spotify.com/track/5j5UNlT7BlJkp1OL37If1x"
     }
   ],
   "unique_name": "EQUAL Portugal",

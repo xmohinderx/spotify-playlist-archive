@@ -4,7 +4,7 @@
 
 > Keep calm and enjoy this musical cafecito.
 
-283 songs - 16 hr 24 min - [published](https://open.spotify.com/playlist/1pJKLpr1AvZE73wFaOC9eU)
+284 songs - 16 hr 26 min - [published](https://open.spotify.com/playlist/1pJKLpr1AvZE73wFaOC9eU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Corazón de alcachofa](https://open.spotify.com/track/1ZAMZml4Id7gl52Bo6Trch) | [Salomón Beda](https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh) | [Corazón de alcachofa](https://open.spotify.com/album/2GAqYzi3RC1O8ayRILGAmY) | 3:14 | 2021-12-09 | 2022-07-29 |
 | [Corazón Gitano](https://open.spotify.com/track/0lOABKEHFsQ5dYvFZO6ssG) | [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1), [Antonio Carmona](https://open.spotify.com/artist/1YVEF2N8QHkkQ84LM51Xyo) | [Corazón Gitano](https://open.spotify.com/album/6G6kXacmfhK2QoD3FL9QYx) | 3:41 | 2021-12-09 | 2022-07-29 |
 | [Crazy Love](https://open.spotify.com/track/3C4njwEL5bda64vv1JAQt5) | [Irene Diaz](https://open.spotify.com/artist/1ADOdE5G5ToLJQBP9hv9NF) | [I Love You Madly EP](https://open.spotify.com/album/1OLFfUp0dJ4aVItd0EfCyu) | 3:46 | 2021-12-09 |  |
+| [cómo cuándo y dónde](https://open.spotify.com/track/7JHGipL0wFFuyl54Zknic0) | [Ainoa Buitrago](https://open.spotify.com/artist/4K2wdPQkTRDesavmN66Zk7) | [cómo cuándo y dónde](https://open.spotify.com/album/0Lb3RdzKgGPaOpFiqrGUxG) | 2:43 | 2022-09-06 |  |
 | [Cómo Me Sientas Tú Tan Bien](https://open.spotify.com/track/0cGbeeDa9ptxOZcTwSRuUw) | [Pantoja](https://open.spotify.com/artist/1sSMrejChoHWBnCe7w6fKc) | [Cómo Me Sientas Tú Tan Bien](https://open.spotify.com/album/77oDZjx7G3mhHleDEaweW0) | 3:21 | 2021-12-09 | 2022-07-29 |
 | [Cómo Me Sientas Tú Tan Bien](https://open.spotify.com/track/5uqvZpriEEMKleWljJdckw) | [Pantoja](https://open.spotify.com/artist/1sSMrejChoHWBnCe7w6fKc) | [Tan Difícil de Entender](https://open.spotify.com/album/4llL1SDFfsIsbuBY0seqKd) | 3:23 | 2022-05-14 |  |
 | [De Vez en Cuando](https://open.spotify.com/track/1QZk1of3DuIrqCklUPfy4W) | [Marissa Mur](https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT) | [All Inclusive](https://open.spotify.com/album/2Ujz4uZO4sCTOthqc2HGAI) | 3:24 | 2022-05-14 |  |
@@ -136,7 +137,7 @@
 | [Juanita la Chismosa](https://open.spotify.com/track/155XcCEwMrHE3YcJciCnvi) | [El Caribefunk](https://open.spotify.com/artist/25UVM4HwATaXX6M7SXT1JI) | [El Caribefunk](https://open.spotify.com/album/1L3nJbcVnDFhy1EGMjlEur) | 4:58 | 2021-12-09 |  |
 | [Junto al Mar](https://open.spotify.com/track/64ZOhhQARScqXYjdGsiBuV) | [Sofia Macchi](https://open.spotify.com/artist/4gtaTXIhBK1iyVUAkB2YZu) | [Junto al Mar](https://open.spotify.com/album/20Ar89pZc5ITtvq4WyIDJB) | 4:38 | 2021-12-09 | 2022-07-29 |
 | [La Cosecha](https://open.spotify.com/track/1Mp07ugvnIUW3CtR9vN3SO) | [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn) | [Prender el Alma](https://open.spotify.com/album/4i3DT5kt2AlODhnyv0mDKN) | 5:15 | 2022-08-05 |  |
-| [La Costura De Dios](https://open.spotify.com/track/41Ez6Qx8cqV6eE1MFhYJeb) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [+ Bien](https://open.spotify.com/album/6Hfm9k5H74TN25V2cYLFiu) | 2:40 | 2022-04-07 |  |
+| [La Costura De Dios](https://open.spotify.com/track/41Ez6Qx8cqV6eE1MFhYJeb) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [+ Bien](https://open.spotify.com/album/6Hfm9k5H74TN25V2cYLFiu) | 2:40 | 2022-04-07 | 2022-09-07 |
 | [La Creatividad](https://open.spotify.com/track/3oVO96C3ao4UwSK1hMNws8) | [Tomás del Real](https://open.spotify.com/artist/0LhgYcyninijD4GAKXPa3v) | [La Creatividad](https://open.spotify.com/album/3Id0GaC7qtQlVsBcWoXdBN) | 2:04 | 2021-12-09 | 2022-07-28 |
 | [La Fortuna \(feat\. Tommy Torres\)](https://open.spotify.com/track/6TKdsVl3GeAJrcuTGbvUzq) | [Diana Fuentes](https://open.spotify.com/artist/14FqcgpNCmfedRsAZTgMIG), [Tommy Torres](https://open.spotify.com/artist/264nbMzGPSkDZqTY8nXwCG) | [Libre](https://open.spotify.com/album/6j0sCAm0cmrq0sPpcjttjn) | 3:28 | 2022-08-05 |  |
 | [La Sanadora](https://open.spotify.com/track/0GxzmQ5sE5Uq50LkQB3DO4) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [La Sanadora](https://open.spotify.com/album/4OvtUIqRsuqKFKRWABUTCy) | 4:27 | 2022-04-07 | 2022-04-19 |

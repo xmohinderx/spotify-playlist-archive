@@ -4,7 +4,7 @@
 
 > Fresh releases from Latin independent artists and labels\. Lanzamientos frescos de artistas y sellos latinxs independientes\. LA LOU on cover.
 
-621 songs - 1 day 10 hr 25 min - [published](https://open.spotify.com/playlist/3bExY6e3wLROXTtlrvGceS)
+622 songs - 1 day 10 hr 29 min - [published](https://open.spotify.com/playlist/3bExY6e3wLROXTtlrvGceS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -474,7 +474,8 @@
 | [Que Sufras](https://open.spotify.com/track/3ClYHSbumdpBbVAz8yYU9E) | [Doris Anahí](https://open.spotify.com/artist/0Tubiaojq0PHvZahvXl1ju) | [Que Sufras](https://open.spotify.com/album/6ZTX8KAuiTD0Tmsk7XhpTu) | 4:42 | 2022-02-16 | 2022-02-24 |
 | [Que Te Vaya Mal](https://open.spotify.com/track/55Q02TFgJewHvTLKtrCRJj) | [Comida Para Llevar](https://open.spotify.com/artist/6ybUCb9uQ4fd6gtIptuaYO), [Motherflowers](https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky) | [ALL\-YOU\-CAN\-EAT VOL.1](https://open.spotify.com/album/3MmERnIFWoyKMAlRnXeJGX) | 3:39 | 2022-02-16 | 2022-02-24 |
 | [Quebranto](https://open.spotify.com/track/6qOnahK31RK7v4YTxpZIvP) | [Neck Talese](https://open.spotify.com/artist/3AELbAjHI0SeWsXUVZMXZA), [Briela Ojeda](https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo) | [El Poder de Lola](https://open.spotify.com/album/5XXj66VxuFuj1atm0pKWse) | 5:34 | 2022-07-13 | 2022-08-25 |
-| [Quiero Volver a Repetir](https://open.spotify.com/track/0exxyQo6ZszQWb4K7i4uZx) | [YUNG PRADO](https://open.spotify.com/artist/0U0zpa0tZ4iAV6ypdDUm4I) | [Yung Pradito](https://open.spotify.com/album/6Z7YrnAM7M55RZUZFiJI8b) | 3:58 | 2022-08-31 |  |
+| [Quiero Volver a Repetir](https://open.spotify.com/track/0exxyQo6ZszQWb4K7i4uZx) | [YUNG PRADO](https://open.spotify.com/artist/0U0zpa0tZ4iAV6ypdDUm4I) | [Yung Pradito](https://open.spotify.com/album/6Z7YrnAM7M55RZUZFiJI8b) | 3:58 | 2022-08-31 | 2022-09-07 |
+| [Quiero Volver a Repetir](https://open.spotify.com/track/5Ts3L0IOOkzuIfVIzp3xfo) | [YUNG PRADO](https://open.spotify.com/artist/0U0zpa0tZ4iAV6ypdDUm4I) | [Yung Pradito](https://open.spotify.com/album/2JQRLKGv6KJ9FKVT9GzbG6) | 3:58 | 2022-08-31 |  |
 | [Qué Mal Se Me Da Fingir](https://open.spotify.com/track/0TFwjEsbFqPVyeT6vCg66H) | [MALAFÉ](https://open.spotify.com/artist/14yhjUOuZ8fjIznI4QRDQ6) | [Qué Mal Se Me Da Fingir](https://open.spotify.com/album/03VsyO59eQOQ2Ev8EBpDUi) | 3:28 | 2022-02-23 | 2022-03-03 |
 | [Quédate](https://open.spotify.com/track/61R9b6bR0ikp0ezhjJ0AtL) | [Gala Brie](https://open.spotify.com/artist/1QiR1T9GDuS9E5hrxbkLbE) | [Quédate](https://open.spotify.com/album/0SWw8wLHOkel2D5H1Y5pFo) | 3:58 | 2022-05-18 | 2022-06-16 |
 | [Quédate](https://open.spotify.com/track/4jxWAYRsa7Gshx1a1eY3cQ) | [MJ Nebreda](https://open.spotify.com/artist/1h6b4y2ObngnFpgEwry7Fy) | [Quédate](https://open.spotify.com/album/7an3UboNMfILI1SL0Yopsf) | 3:43 | 2022-03-16 | 2022-03-31 |

@@ -2,9 +2,9 @@
 
 ### [Corridos 2022](https://open.spotify.com/playlist/37i9dQZF1DX5471jEhaq8X)
 
-> Sólo corridos \- lo nuevo y lo mejor del año\. Cover:  Oscar Maydon, El Chachito.
+> Sólo corridos \- lo nuevo y lo mejor del año\. Cover:  Enigma Norteño, El Fantasma.
 
-259 songs - 13 hr 17 min - [published](https://open.spotify.com/playlist/6mIhFs7U6KoLfn5GxVWgA4)
+260 songs - 13 hr 19 min - [published](https://open.spotify.com/playlist/6mIhFs7U6KoLfn5GxVWgA4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [El Chaman](https://open.spotify.com/track/3yE8qL9HNfyzAbpqoMnUr8) | [Aldo Trujillo](https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu), [Legion RG](https://open.spotify.com/artist/0V10XqRWsn8EGBwzCVAE7V), [El Padrinito Toys](https://open.spotify.com/artist/19I7n3fJWbecNWpRUSuIjf) | [El Chaman](https://open.spotify.com/album/0dKlcXtiUXnQK7BZH7UIfE) | 4:41 | 2022-05-13 |  |
 | [El Chepis](https://open.spotify.com/track/443kLF00XD6aHnaoHMesHm) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [El Chepis](https://open.spotify.com/album/6YMnVFAOkAg7dMJytIcG7v) | 3:13 | 2022-07-15 |  |
 | [El Chikillo Mafias \- En Vivo](https://open.spotify.com/track/4zq7CTQNv37v2ghRWrTh2t) | [Revolver Cannabis](https://open.spotify.com/artist/7a3g8JUF8iipgP1BCEsm4I) | [Puras Balas Caras \- En Vivo](https://open.spotify.com/album/1JBCpGo9sQ0BQA896AaArE) | 3:13 | 2022-05-13 | 2022-08-13 |
-| [El Codiciado \(En Vivo\)](https://open.spotify.com/track/0OS8GS58mL03Hw6E1gPWEQ) | [Gerardo Coronel](https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC) | [El Codiciado \(En Vivo\)](https://open.spotify.com/album/6HzaXemIvKdZw3PAlycETQ) | 3:15 | 2022-05-13 |  |
+| [El Codiciado \(En Vivo\)](https://open.spotify.com/track/0OS8GS58mL03Hw6E1gPWEQ) | [Gerardo Coronel](https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC) | [El Codiciado \(En Vivo\)](https://open.spotify.com/album/6HzaXemIvKdZw3PAlycETQ) | 3:15 | 2022-05-13 | 2022-09-07 |
 | [El Comandante Chino](https://open.spotify.com/track/5dp3RWcwr07Hkrm3uAngiU) | [LOS DOS DE TAMAULIPAS](https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi) | [El Comandante Chino](https://open.spotify.com/album/1xEhVhTUu1srMZFkHGu6SM) | 3:37 | 2022-05-27 |  |
 | [El Comando del Diablo \- En Vivo](https://open.spotify.com/track/4ttaps59yHeuSYKhMitFjJ) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [El Comando del Diablo \(En Vivo\)](https://open.spotify.com/album/7hMQTRIaeXlCAaVxBX4pNx) | 2:53 | 2022-05-13 |  |
 | [El Compa Carlos \- En Vivo](https://open.spotify.com/track/0oZgRqBtQbfB8zkJNQGUTr) | [Panchito Arredondo](https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV) | [Golpe de Estado \(En Vivo\)](https://open.spotify.com/album/4HKp5Ouc9lHtJvwlYhlcFg) | 2:15 | 2022-05-13 |  |
@@ -105,6 +105,7 @@
 | [El Plumas \- En Vivo](https://open.spotify.com/track/5QZCV5YihVsaWUbKZkWH4s) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [El Plumas \(En Vivo\)](https://open.spotify.com/album/6GB1PDimXrLWIya6jgXkBs) | 3:30 | 2022-06-03 | 2022-07-29 |
 | [El Pochito](https://open.spotify.com/track/6HI6iABWQLnYiqdYFFe1F2) | [Porte Diferente](https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf) | [El Pochito](https://open.spotify.com/album/7ziQeB1l4NSn0dWw08yunZ) | 3:41 | 2022-08-19 |  |
 | [El Ratón](https://open.spotify.com/track/1Y98KIXwNLbkxxCVp23Nqs) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [El Ratón](https://open.spotify.com/album/22Ksg2wzl7xXZ8rnq8x4qr) | 3:19 | 2022-05-13 |  |
+| [El Recado del Niño](https://open.spotify.com/track/6QCOokQPD6URup0x9meDwn) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U) | [El Recado del Niño](https://open.spotify.com/album/3DWNxcnPxQGjxVqfoiaQQg) | 2:35 | 2022-09-06 |  |
 | [El Rescate](https://open.spotify.com/track/4w273WCBXwM4P3jTX5HkB2) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [El Rescate](https://open.spotify.com/album/32QttkMiHZ1eXkXv6BVGcP) | 2:40 | 2022-07-22 |  |
 | [El Rey De Los Fletes](https://open.spotify.com/track/2HhW7PvfxZ3EGmkNxtYXIR) | [Pancho Uresti](https://open.spotify.com/artist/7bNmosifuMqLwui79Cjqcd) | [El Rey De Los Fletes](https://open.spotify.com/album/4fo3ccidYCACfCuhQ69bgC) | 2:41 | 2022-07-15 | 2022-08-19 |
 | [El RR \(En Vivo\)](https://open.spotify.com/track/1mvH121Rpxenvz9eQBERcM) | [Máxima Ventaja](https://open.spotify.com/artist/5I8HriBeRyNsjTLSHsok0N), [HERNAN TREJO](https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD) | [El RR \(En Vivo\)](https://open.spotify.com/album/3LfQ4z2sO0vDLipoqeksrT) | 3:10 | 2022-08-19 |  |

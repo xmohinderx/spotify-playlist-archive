@@ -4,7 +4,7 @@
 
 > Instrumental bliss beyond genre classification.
 
-183 songs - 14 hr 35 min - [published](https://open.spotify.com/playlist/0oD5iC51KNsAwsn7m40tDg)
+184 songs - 14 hr 40 min - [published](https://open.spotify.com/playlist/0oD5iC51KNsAwsn7m40tDg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,7 @@
 | [Infinite Future](https://open.spotify.com/track/4TnxczEii2UiuGl1MUFgwv) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [Love + Light](https://open.spotify.com/album/6edCbnYtXjTR7U9kgYV5CN) | 6:44 | 2021-10-15 | 2022-02-10 |
 | [Inlove2 \- Edit](https://open.spotify.com/track/5E2gMJ9KAbaVAscQ20N7Xk) | [Lone](https://open.spotify.com/artist/5wZOrGWdg4hq7KIRMupJdI) | [Inlove2](https://open.spotify.com/album/7L3eq511jN3Avxa2W4KLzP) | 4:06 | 2021-10-15 | 2022-02-10 |
 | [Involuntary Prophet](https://open.spotify.com/track/18pgIi3t5qFJpT8ymfEuQv) | [The Shanghai Restoration Project](https://open.spotify.com/artist/0EP5EpsiMP8oLYy7sPHwf9) | [Involuntary Prophet](https://open.spotify.com/album/3ILF8LpC4eTUvQOzv9uyk8) | 6:23 | 2021-10-15 | 2022-01-20 |
-| [Jordão](https://open.spotify.com/track/4DBVvRxw7iCF0Os4KqKB2l) | [Niagara](https://open.spotify.com/artist/7v9653L6WJv9pZKYEKdcDz) | [Jordão](https://open.spotify.com/album/0GPBTClGuLZ4Z1aGGOqVWi) | 4:23 | 2022-01-21 |  |
+| [Jordão](https://open.spotify.com/track/4DBVvRxw7iCF0Os4KqKB2l) | [Niagara](https://open.spotify.com/artist/7v9653L6WJv9pZKYEKdcDz) | [Jordão](https://open.spotify.com/album/0GPBTClGuLZ4Z1aGGOqVWi) | 4:23 | 2022-01-21 | 2022-09-07 |
 | [Joy Squad](https://open.spotify.com/track/3Y8T9RXnsJFjz9OgieBnyP) | [Koreless](https://open.spotify.com/artist/3TsEEdpuuCN1G0dPxV4uOA) | [Joy Squad](https://open.spotify.com/album/31my8IdGlu4Sti63ivmuje) | 4:31 | 2022-01-03 | 2022-07-09 |
 | [Junkyard](https://open.spotify.com/track/0e6DNQUhI8lQKxmpY3sgA3) | [Madd3e](https://open.spotify.com/artist/6QnSsfZW8okVlHBenG0Nu2) | [Junkyard](https://open.spotify.com/album/1kcSDURv7MX0D939GVGbNE) | 3:33 | 2021-10-15 | 2022-01-13 |
 | [Kabeljau](https://open.spotify.com/track/5yKlkKJ1gtIHuzSSP4TdLt) | [LNS](https://open.spotify.com/artist/36Gbzd99kdiLnfBTvrGi82) | [Ghostly Swim 3](https://open.spotify.com/album/5wATCNKKYbRKlG2hKzhUCu) | 4:21 | 2021-10-15 | 2022-02-26 |
@@ -186,6 +186,7 @@
 | [Wedbecutetoget\-her](https://open.spotify.com/track/2aUqSrIw15sfRdMwjQaRg2) | [o0o](https://open.spotify.com/artist/5J1ISo62brLWWq3ylID7BR) | [Wedbecutetoget\-her](https://open.spotify.com/album/1Lpu55DV9ThB7G0ClRpM7N) | 3:39 | 2022-01-12 | 2022-03-04 |
 | [Week 4](https://open.spotify.com/track/1FP5gWiRMjw3vfvvbf241v) | [Marrón](https://open.spotify.com/artist/1uC16BtFc6ihhylNzDo4x5) | [Month One](https://open.spotify.com/album/76wb7lJiY2I3doiGroK4YE) | 5:10 | 2021-10-15 | 2022-01-14 |
 | [When](https://open.spotify.com/track/4TUYrm2JRTV5dCOjKFSz8f) | [Blake Skowron](https://open.spotify.com/artist/5TjySSb3LXfqe0zvyrmFgf) | [When](https://open.spotify.com/album/0YVTfPx8o63LfGUNqAZnxD) | 2:56 | 2021-10-15 | 2022-01-22 |
+| [World Turns](https://open.spotify.com/track/4JHtCJCbj7RcxfMQtCGOF4) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [World Turns](https://open.spotify.com/album/7K8RJNBjoUJrM9mnXQrqfn) | 5:23 | 2022-09-07 |  |
 | [XO 4 \- Wolf 1061c](https://open.spotify.com/track/1BmsXPYs9cJ7jiCywPfPjF) | [GCOM](https://open.spotify.com/artist/515LVYd7UvdvWzYcg5niJI) | [E2\-XO](https://open.spotify.com/album/1ugwG7gGoTefOjLbrPDKMd) | 7:55 | 2022-01-12 | 2022-03-12 |
 | [XYZ \- Peel Session](https://open.spotify.com/track/5mzw1OaU80w3IisoXr1Lp7) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [XYZ \(Peel Session\)](https://open.spotify.com/album/4feETXv5AbEIzCj4btSrNG) | 8:03 | 2021-10-15 | 2022-02-10 |
 | [Yelli](https://open.spotify.com/track/2GdD6s2xhZnbj1XmwHYXCW) | [K\-Lone](https://open.spotify.com/artist/6VC4hWnnMMmOxpH6KsAXBU) | [Yelli](https://open.spotify.com/album/73FKH6CBhiW5tGdaOHKpeg) | 7:03 | 2021-10-15 | 2022-02-10 |

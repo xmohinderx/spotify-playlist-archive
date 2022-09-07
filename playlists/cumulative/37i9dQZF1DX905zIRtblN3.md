@@ -2,7 +2,7 @@
 
 ### [La Reina: Éxitos de la Música Mexicana](https://open.spotify.com/playlist/37i9dQZF1DX905zIRtblN3)
 
-> ¡Las más poderosas y llegadoras de nuestra música! Al millón con Camilo & Grupo Firme, al millón con La Reina.
+> ¡Las más poderosas y llegadoras de nuestra música! Al millón con Yuridia, al millón con La Reina.
 
 168 songs - 9 hr 0 min - [published](https://open.spotify.com/playlist/4HXTR8NnDEpNDyLbDZVUDI)
 

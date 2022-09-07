@@ -1,12 +1,12 @@
 {
-  "description": "Best of Bollywood - Kesariya, Raataan Lambiyan, Ranjha , Param Sundari, Shayad and more ft. A R Rahman, Pritam, Arijit Singh, Neha Kakkar, Badshah, B Praak and the best of India. Listen to Bollywood favourites only on this playlist!",
-  "num_followers": 216436,
+  "description": "Best of Bollywood - Brahmastra - Kesariya, Raataan Lambiyan, Ranjha , Param Sundari, Shayad and more ft. A R Rahman, Pritam, Arijit Singh, Neha Kakkar, Badshah, B Praak and the best of India. Listen to Bollywood favourites only on this playlist! ",
+  "num_followers": 216451,
   "original_name": "Bollywood Top 50",
   "owner": {
     "name": "Filtr India",
     "url": "https://open.spotify.com/user/filtrindia"
   },
-  "snapshot_id": "NDQ2MixmMzVmZjUzNzc3MTYwNDA1ODFlNDRkOTYwMGQxYjM2NDJiYTcxN2Iw",
+  "snapshot_id": "NDUwNiw2ODljMzdjNWUxYzFjYWUxOTIxZGZlMGQ3NTMxYWNmNmJjNDMxNGY2",
   "tracks": [
     {
       "added_at": "2022-07-18 10:03:31",
@@ -31,6 +31,30 @@
       "duration_ms": 268164,
       "name": "Kesariya (From \"Brahmastra\")",
       "url": "https://open.spotify.com/track/6VBhH7CyP56BXjp8VsDFPZ"
+    },
+    {
+      "added_at": "2022-09-06 07:38:30",
+      "album": {
+        "name": "Dance Ka Bhoot (From \"Brahmastra\")",
+        "url": "https://open.spotify.com/album/4vOdoBnuF9sXjpRsofpJAv"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        }
+      ],
+      "duration_ms": 245735,
+      "name": "Dance Ka Bhoot (From \"Brahmastra\")",
+      "url": "https://open.spotify.com/track/5OcGETO7eEKjKme4gm0r7y"
     },
     {
       "added_at": "2022-03-08 11:29:38",
@@ -71,30 +95,6 @@
       "duration_ms": 238252,
       "name": "Hum Nashe Mein Toh Nahin (From \"Bhool Bhulaiyaa 2\")",
       "url": "https://open.spotify.com/track/6XZWokIxs4leaSmXmU8b26"
-    },
-    {
-      "added_at": "2022-08-19 06:00:18",
-      "album": {
-        "name": "Aafat (From \"Liger\")",
-        "url": "https://open.spotify.com/album/1Z4BdsXFm9DFEtShHrIr3h"
-      },
-      "artists": [
-        {
-          "name": "Tanishk Bagchi",
-          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
-        },
-        {
-          "name": "Rashmi Virag",
-          "url": "https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo"
-        },
-        {
-          "name": "Zahrah S Khan",
-          "url": "https://open.spotify.com/artist/7C5xVXoqim1TICnCMZ9A6P"
-        }
-      ],
-      "duration_ms": 163500,
-      "name": "Aafat (From \"Liger\")",
-      "url": "https://open.spotify.com/track/0C6G3mqMjVcIgTWbK9nFIE"
     },
     {
       "added_at": "2022-08-12 05:53:58",
@@ -149,6 +149,46 @@
       "url": "https://open.spotify.com/track/3HjMAWTLyUM4irdbsudw26"
     },
     {
+      "added_at": "2022-08-19 06:00:18",
+      "album": {
+        "name": "Aafat (From \"Liger\")",
+        "url": "https://open.spotify.com/album/1Z4BdsXFm9DFEtShHrIr3h"
+      },
+      "artists": [
+        {
+          "name": "Tanishk Bagchi",
+          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
+        },
+        {
+          "name": "Rashmi Virag",
+          "url": "https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo"
+        },
+        {
+          "name": "Zahrah S Khan",
+          "url": "https://open.spotify.com/artist/7C5xVXoqim1TICnCMZ9A6P"
+        }
+      ],
+      "duration_ms": 163500,
+      "name": "Aafat (From \"Liger\")",
+      "url": "https://open.spotify.com/track/0C6G3mqMjVcIgTWbK9nFIE"
+    },
+    {
+      "added_at": "2022-08-19 06:37:19",
+      "album": {
+        "name": "Summer High",
+        "url": "https://open.spotify.com/album/7sni37uwHitUkllYmcRO8W"
+      },
+      "artists": [
+        {
+          "name": "AP Dhillon",
+          "url": "https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB"
+        }
+      ],
+      "duration_ms": 177391,
+      "name": "Summer High",
+      "url": "https://open.spotify.com/track/1aL9518P5G72N92b48tuKw"
+    },
+    {
       "added_at": "2022-04-18 06:59:25",
       "album": {
         "name": "Pasoori",
@@ -199,22 +239,6 @@
       "duration_ms": 230200,
       "name": "Akdi Pakdi (From \"Liger\")",
       "url": "https://open.spotify.com/track/79xjw95DSvcl8sDtghDOGo"
-    },
-    {
-      "added_at": "2022-08-19 06:37:19",
-      "album": {
-        "name": "Summer High",
-        "url": "https://open.spotify.com/album/7sni37uwHitUkllYmcRO8W"
-      },
-      "artists": [
-        {
-          "name": "AP Dhillon",
-          "url": "https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB"
-        }
-      ],
-      "duration_ms": 177391,
-      "name": "Summer High",
-      "url": "https://open.spotify.com/track/1aL9518P5G72N92b48tuKw"
     },
     {
       "added_at": "2022-01-24 06:34:06",
@@ -289,6 +313,78 @@
       "url": "https://open.spotify.com/track/5WzfGg2ueNoOS5aIkaR9qX"
     },
     {
+      "added_at": "2022-07-20 15:31:36",
+      "album": {
+        "name": "Rangisari (From \"Jugjugg Jeeyo\")",
+        "url": "https://open.spotify.com/album/5MB6DWb1irSWaalYH07Uzg"
+      },
+      "artists": [
+        {
+          "name": "Kanishk Seth",
+          "url": "https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo"
+        },
+        {
+          "name": "Kavita Seth",
+          "url": "https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv"
+        }
+      ],
+      "duration_ms": 223271,
+      "name": "Rangisari (From \"Jugjugg Jeeyo\")",
+      "url": "https://open.spotify.com/track/0DXfJ2iKRDEG7rPgssWFea"
+    },
+    {
+      "added_at": "2021-07-30 08:52:07",
+      "album": {
+        "name": "Raataan Lambiyan (From \"Shershaah\")",
+        "url": "https://open.spotify.com/album/2DKSZvMj7Da6rzNVPMgREj"
+      },
+      "artists": [
+        {
+          "name": "Tanishk Bagchi",
+          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
+        },
+        {
+          "name": "Jubin Nautiyal",
+          "url": "https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa"
+        },
+        {
+          "name": "Asees Kaur",
+          "url": "https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES"
+        }
+      ],
+      "duration_ms": 230292,
+      "name": "Raataan Lambiyan (From \"Shershaah\")",
+      "url": "https://open.spotify.com/track/2rOnSn2piaqLAlYjtfUBlY"
+    },
+    {
+      "added_at": "2021-08-07 05:30:49",
+      "album": {
+        "name": "Ranjha (From \"Shershaah\")",
+        "url": "https://open.spotify.com/album/0Z1zYMwJRpvq0d9rdqTOYo"
+      },
+      "artists": [
+        {
+          "name": "Jasleen Royal",
+          "url": "https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c"
+        },
+        {
+          "name": "B Praak",
+          "url": "https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j"
+        },
+        {
+          "name": "Romy",
+          "url": "https://open.spotify.com/artist/0bRPtPZQkWHeG7MGk9eWlh"
+        },
+        {
+          "name": "Anvita Dutt",
+          "url": "https://open.spotify.com/artist/4nJ0kto93jDLHQKmpGeYS8"
+        }
+      ],
+      "duration_ms": 228855,
+      "name": "Ranjha (From \"Shershaah\")",
+      "url": "https://open.spotify.com/track/72zHuDxFQTjbL51qJQSA7j"
+    },
+    {
       "added_at": "2022-07-15 05:27:47",
       "album": {
         "name": "Jugjugg Jeeyo",
@@ -319,78 +415,6 @@
       "duration_ms": 199029,
       "name": "The Punjaabban Song",
       "url": "https://open.spotify.com/track/4vjVTc6cqDwZJ40ILlEpEx"
-    },
-    {
-      "added_at": "2021-07-30 08:52:07",
-      "album": {
-        "name": "Raataan Lambiyan (From \"Shershaah\")",
-        "url": "https://open.spotify.com/album/2DKSZvMj7Da6rzNVPMgREj"
-      },
-      "artists": [
-        {
-          "name": "Tanishk Bagchi",
-          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
-        },
-        {
-          "name": "Jubin Nautiyal",
-          "url": "https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa"
-        },
-        {
-          "name": "Asees Kaur",
-          "url": "https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES"
-        }
-      ],
-      "duration_ms": 230292,
-      "name": "Raataan Lambiyan (From \"Shershaah\")",
-      "url": "https://open.spotify.com/track/2rOnSn2piaqLAlYjtfUBlY"
-    },
-    {
-      "added_at": "2022-07-20 15:31:36",
-      "album": {
-        "name": "Rangisari (From \"Jugjugg Jeeyo\")",
-        "url": "https://open.spotify.com/album/5MB6DWb1irSWaalYH07Uzg"
-      },
-      "artists": [
-        {
-          "name": "Kanishk Seth",
-          "url": "https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo"
-        },
-        {
-          "name": "Kavita Seth",
-          "url": "https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv"
-        }
-      ],
-      "duration_ms": 223271,
-      "name": "Rangisari (From \"Jugjugg Jeeyo\")",
-      "url": "https://open.spotify.com/track/0DXfJ2iKRDEG7rPgssWFea"
-    },
-    {
-      "added_at": "2021-08-07 05:30:49",
-      "album": {
-        "name": "Ranjha (From \"Shershaah\")",
-        "url": "https://open.spotify.com/album/0Z1zYMwJRpvq0d9rdqTOYo"
-      },
-      "artists": [
-        {
-          "name": "Jasleen Royal",
-          "url": "https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c"
-        },
-        {
-          "name": "B Praak",
-          "url": "https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j"
-        },
-        {
-          "name": "Romy",
-          "url": "https://open.spotify.com/artist/0bRPtPZQkWHeG7MGk9eWlh"
-        },
-        {
-          "name": "Anvita Dutt",
-          "url": "https://open.spotify.com/artist/4nJ0kto93jDLHQKmpGeYS8"
-        }
-      ],
-      "duration_ms": 228855,
-      "name": "Ranjha (From \"Shershaah\")",
-      "url": "https://open.spotify.com/track/72zHuDxFQTjbL51qJQSA7j"
     },
     {
       "added_at": "2022-04-25 11:15:57",
@@ -427,22 +451,6 @@
       "duration_ms": 224072,
       "name": "Srivalli (From \"Pushpa The Rise Part - 01\")",
       "url": "https://open.spotify.com/track/7sVEoPc5ZUUQerRkgTypUZ"
-    },
-    {
-      "added_at": "2022-04-18 07:24:47",
-      "album": {
-        "name": "Pushpa - The Rise",
-        "url": "https://open.spotify.com/album/4tXcR4YBqi96HgZlMCBY7v"
-      },
-      "artists": [
-        {
-          "name": "Indravathi Chauhan",
-          "url": "https://open.spotify.com/artist/1cNcHeOmjm7yKUYWhrmjMM"
-        }
-      ],
-      "duration_ms": 223325,
-      "name": "Oo Antava Oo Oo Antava",
-      "url": "https://open.spotify.com/track/3szxldqiYs7nkvtmooRod8"
     },
     {
       "added_at": "2022-02-17 08:01:34",
@@ -487,6 +495,22 @@
       "duration_ms": 179033,
       "name": "Dholida",
       "url": "https://open.spotify.com/track/3e1JStKIIfidujpSzjqv3F"
+    },
+    {
+      "added_at": "2022-04-18 07:24:47",
+      "album": {
+        "name": "Pushpa - The Rise",
+        "url": "https://open.spotify.com/album/4tXcR4YBqi96HgZlMCBY7v"
+      },
+      "artists": [
+        {
+          "name": "Indravathi Chauhan",
+          "url": "https://open.spotify.com/artist/1cNcHeOmjm7yKUYWhrmjMM"
+        }
+      ],
+      "duration_ms": 223325,
+      "name": "Oo Antava Oo Oo Antava",
+      "url": "https://open.spotify.com/track/3szxldqiYs7nkvtmooRod8"
     },
     {
       "added_at": "2022-08-04 05:25:27",
@@ -681,22 +705,6 @@
       "url": "https://open.spotify.com/track/1U8rhryVYw9gWZ6zvw4Orc"
     },
     {
-      "added_at": "2022-01-13 11:14:06",
-      "album": {
-        "name": "Bijlee Bijlee",
-        "url": "https://open.spotify.com/album/3tG0IGB24sRhGFLs5F1Km8"
-      },
-      "artists": [
-        {
-          "name": "Harrdy Sandhu",
-          "url": "https://open.spotify.com/artist/4ITkqBlf5eoVCOFwsJCnqo"
-        }
-      ],
-      "duration_ms": 168450,
-      "name": "Bijlee Bijlee",
-      "url": "https://open.spotify.com/track/1iZLpuGMr4tn1F5bZu32Kb"
-    },
-    {
       "added_at": "2022-01-13 11:18:19",
       "album": {
         "name": "Chaka Chak (From \"Atrangi Re\")",
@@ -721,26 +729,6 @@
       "url": "https://open.spotify.com/track/5pbOpE6CfRgGnPPZJSDfME"
     },
     {
-      "added_at": "2021-09-20 10:05:51",
-      "album": {
-        "name": "Bad Boy X Bad Girl (feat. Nikhita Gandhi)",
-        "url": "https://open.spotify.com/album/2zBorimEpgHINDifNil0Un"
-      },
-      "artists": [
-        {
-          "name": "Badshah",
-          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
-        },
-        {
-          "name": "Nikhita Gandhi",
-          "url": "https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH"
-        }
-      ],
-      "duration_ms": 199402,
-      "name": "Bad Boy X Bad Girl (feat. Nikhita Gandhi)",
-      "url": "https://open.spotify.com/track/6LvHrLiW1z8PS7MIAiufKg"
-    },
-    {
       "added_at": "2021-08-16 05:09:23",
       "album": {
         "name": "Mann Bharryaa 2.0 (From \"Shershaah\")",
@@ -755,26 +743,6 @@
       "duration_ms": 266005,
       "name": "Mann Bharryaa 2.0 (From \"Shershaah\")",
       "url": "https://open.spotify.com/track/3jf5303mzzJ96O8xFTcEn4"
-    },
-    {
-      "added_at": "2022-01-13 12:35:03",
-      "album": {
-        "name": "HIDDEN GEMS",
-        "url": "https://open.spotify.com/album/3fOswFPlmSWKTTFTlksdiv"
-      },
-      "artists": [
-        {
-          "name": "AP Dhillon",
-          "url": "https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB"
-        },
-        {
-          "name": "Gurinder Gill",
-          "url": "https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "DESIRES",
-      "url": "https://open.spotify.com/track/5pcmtf1lwrMqmAWWm248fY"
     },
     {
       "added_at": "2021-03-03 05:01:30",
@@ -1001,58 +969,6 @@
       "url": "https://open.spotify.com/track/3BhjbaGeI7E0CiIjctfdD3"
     },
     {
-      "added_at": "2021-11-24 08:57:58",
-      "album": {
-        "name": "Tera Hua (From \"Cash\")",
-        "url": "https://open.spotify.com/album/3JuAV5XPKsHyOPxftMSejw"
-      },
-      "artists": [
-        {
-          "name": "Arijit Singh",
-          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
-        },
-        {
-          "name": "Akull",
-          "url": "https://open.spotify.com/artist/1dqPqXbxxYtCtLbKeAN2Ss"
-        },
-        {
-          "name": "Riya Duggal",
-          "url": "https://open.spotify.com/artist/5goNlHuuRk93uDY86KcLET"
-        }
-      ],
-      "duration_ms": 253500,
-      "name": "Tera Hua (From \"Cash\")",
-      "url": "https://open.spotify.com/track/6HDBzDFSDYSmKzadobMr7e"
-    },
-    {
-      "added_at": "2022-01-18 05:45:00",
-      "album": {
-        "name": "Insane",
-        "url": "https://open.spotify.com/album/6EaHaUoczRLrDl5uqxSFW3"
-      },
-      "artists": [
-        {
-          "name": "AP Dhillon",
-          "url": "https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB"
-        },
-        {
-          "name": "Shinda Kahlon",
-          "url": "https://open.spotify.com/artist/6aQfrWHwAcuY8IYItbChZh"
-        },
-        {
-          "name": "Gurinder Gill",
-          "url": "https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl"
-        },
-        {
-          "name": "Gminxr",
-          "url": "https://open.spotify.com/artist/4vvW590Gq8dNWsP5BM9FkS"
-        }
-      ],
-      "duration_ms": 206060,
-      "name": "Insane",
-      "url": "https://open.spotify.com/track/3UhmuWcFaLS3AO3kI9ynQ2"
-    },
-    {
       "added_at": "2019-09-27 05:50:04",
       "album": {
         "name": "Ghungroo (From \"War\")",
@@ -1173,34 +1089,6 @@
       "url": "https://open.spotify.com/track/58f4twRnbZOOVUhMUpplJ4"
     },
     {
-      "added_at": "2021-02-22 06:04:31",
-      "album": {
-        "name": "Panghat (From \"Roohi\")",
-        "url": "https://open.spotify.com/album/3orpBKdIHhQyidXmrVedcN"
-      },
-      "artists": [
-        {
-          "name": "Sachin-Jigar",
-          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
-        },
-        {
-          "name": "Asees Kaur",
-          "url": "https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES"
-        },
-        {
-          "name": "Divya Kumar",
-          "url": "https://open.spotify.com/artist/0NErdIJtuKBjtxKmlqaWdj"
-        },
-        {
-          "name": "Mellow D",
-          "url": "https://open.spotify.com/artist/7tH8oZj2nLERlp2hE5QNjp"
-        }
-      ],
-      "duration_ms": 179418,
-      "name": "Panghat (From \"Roohi\")",
-      "url": "https://open.spotify.com/track/2g8fA9Ijc3sAlfkQFlYxsf"
-    },
-    {
       "added_at": "2021-08-10 09:32:02",
       "album": {
         "name": "Ae Dil Hai Mushkil (Original Motion Picture Soundtrack) [Deluxe Edition]",
@@ -1221,20 +1109,28 @@
       "url": "https://open.spotify.com/track/0H2iJVgorRR0ZFgRqGUjUM"
     },
     {
-      "added_at": "2021-07-28 07:00:48",
+      "added_at": "2019-09-24 08:58:46",
       "album": {
-        "name": "Barood Wargi",
-        "url": "https://open.spotify.com/album/3mELIQNKJF2jSZmPL086Jm"
+        "name": "Odhani (From \"Made in China\")",
+        "url": "https://open.spotify.com/album/55vXKnwnYYVesz6sz6pOSR"
       },
       "artists": [
         {
-          "name": "Simiran Kaur Dhadli",
-          "url": "https://open.spotify.com/artist/6HDjrqj5bbSESYOj89PtP9"
+          "name": "Sachin-Jigar",
+          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
+        },
+        {
+          "name": "Darshan Raval",
+          "url": "https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS"
+        },
+        {
+          "name": "Neha Kakkar",
+          "url": "https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI"
         }
       ],
-      "duration_ms": 231529,
-      "name": "Barood Wargi",
-      "url": "https://open.spotify.com/track/5BWIrdXMuMewFbyXBntyjA"
+      "duration_ms": 195397,
+      "name": "Odhani (From \"Made in China\")",
+      "url": "https://open.spotify.com/track/2q0V50aNlI1RQXJyE5HDgD"
     },
     {
       "added_at": "2018-10-04 06:35:19",
@@ -1321,34 +1217,6 @@
       "url": "https://open.spotify.com/track/5LDvAJwWczQ4DOjKIEtWZs"
     },
     {
-      "added_at": "2020-09-28 07:16:25",
-      "album": {
-        "name": "Ginny Weds Sunny (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0uV4f6bZkuwb6BW1dZ3EPC"
-      },
-      "artists": [
-        {
-          "name": "Mika Singh",
-          "url": "https://open.spotify.com/artist/5T2I75UlGBcWd5nVyfmL13"
-        },
-        {
-          "name": "Payal Dev",
-          "url": "https://open.spotify.com/artist/6FtZhorjCMfkaVJ7kKdmq7"
-        },
-        {
-          "name": "Neha Kakkar",
-          "url": "https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI"
-        },
-        {
-          "name": "Badshah",
-          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
-        }
-      ],
-      "duration_ms": 226615,
-      "name": "Sawan Mein Lag Gayi Aag",
-      "url": "https://open.spotify.com/track/6oloWgrErtc8dG2WiV55gn"
-    },
-    {
       "added_at": "2020-03-26 10:35:35",
       "album": {
         "name": "Genda Phool (feat. Payal Dev)",
@@ -1401,34 +1269,6 @@
       "url": "https://open.spotify.com/track/4LLvxxkWtt818FNO3cbsdo"
     },
     {
-      "added_at": "2020-10-27 12:10:14",
-      "album": {
-        "name": "BurjKhalifa (From \"Laxmii\")",
-        "url": "https://open.spotify.com/album/7IfUPFe5MSwcAp2Vw8ohF5"
-      },
-      "artists": [
-        {
-          "name": "Shashi",
-          "url": "https://open.spotify.com/artist/5EXIQQjCaCnRPJ68SxYURB"
-        },
-        {
-          "name": "DJ Khushi",
-          "url": "https://open.spotify.com/artist/6xElGyunMSlnuJ2vabDUWA"
-        },
-        {
-          "name": "Nikhita Gandhi",
-          "url": "https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH"
-        },
-        {
-          "name": "Madhubanti",
-          "url": "https://open.spotify.com/artist/4x4Q6d60hC0ZuLloMeCLoS"
-        }
-      ],
-      "duration_ms": 187570,
-      "name": "BurjKhalifa (From \"Laxmii\")",
-      "url": "https://open.spotify.com/track/3ZVKI8jix6PjEFx2xFBFhz"
-    },
-    {
       "added_at": "2018-12-07 06:41:42",
       "album": {
         "name": "ONE (Original Never Ends)",
@@ -1443,42 +1283,6 @@
       "duration_ms": 181764,
       "name": "She Move It Like",
       "url": "https://open.spotify.com/track/39vrbjCMTRXEdiIr2IsBgd"
-    },
-    {
-      "added_at": "2019-07-10 06:56:17",
-      "album": {
-        "name": "Paagal",
-        "url": "https://open.spotify.com/album/0Qn1webMNo0WuEMjRdcrhW"
-      },
-      "artists": [
-        {
-          "name": "Badshah",
-          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
-        }
-      ],
-      "duration_ms": 169906,
-      "name": "Paagal",
-      "url": "https://open.spotify.com/track/4gyPGtExOjj1rsByKW33LR"
-    },
-    {
-      "added_at": "2020-11-05 12:50:41",
-      "album": {
-        "name": "Care Ni Karda (From \"Chhalaang\")",
-        "url": "https://open.spotify.com/album/5swh8K8fhN6dR6dVxk1aox"
-      },
-      "artists": [
-        {
-          "name": "Sweetaj Brar",
-          "url": "https://open.spotify.com/artist/2B4azLEfuhlG2ykxCaQJWk"
-        },
-        {
-          "name": "Yo Yo Honey Singh",
-          "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
-        }
-      ],
-      "duration_ms": 192992,
-      "name": "Care Ni Karda (From \"Chhalaang\")",
-      "url": "https://open.spotify.com/track/6e5DH8YHXdM40ROnD76hZd"
     },
     {
       "added_at": "2019-10-17 07:01:07",
@@ -1563,126 +1367,6 @@
       "duration_ms": 315173,
       "name": "Jashn-E-Bahaaraa",
       "url": "https://open.spotify.com/track/1O5mTSQa0sCce9ghhDqIZl"
-    },
-    {
-      "added_at": "2019-09-24 08:58:46",
-      "album": {
-        "name": "Odhani (From \"Made in China\")",
-        "url": "https://open.spotify.com/album/55vXKnwnYYVesz6sz6pOSR"
-      },
-      "artists": [
-        {
-          "name": "Sachin-Jigar",
-          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
-        },
-        {
-          "name": "Darshan Raval",
-          "url": "https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS"
-        },
-        {
-          "name": "Neha Kakkar",
-          "url": "https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI"
-        }
-      ],
-      "duration_ms": 195397,
-      "name": "Odhani (From \"Made in China\")",
-      "url": "https://open.spotify.com/track/2q0V50aNlI1RQXJyE5HDgD"
-    },
-    {
-      "added_at": "2020-10-27 11:19:55",
-      "album": {
-        "name": "Baaghi 3",
-        "url": "https://open.spotify.com/album/5ZnhEAXHIt3lomWlfswwnv"
-      },
-      "artists": [
-        {
-          "name": "Vishal",
-          "url": "https://open.spotify.com/artist/1xX0K9yaCUHVyVLCVfUAnw"
-        },
-        {
-          "name": "Shekhar Ravjiani",
-          "url": "https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw"
-        },
-        {
-          "name": "KK",
-          "url": "https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp"
-        },
-        {
-          "name": "Shaan",
-          "url": "https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m"
-        },
-        {
-          "name": "Tulsi Kumar",
-          "url": "https://open.spotify.com/artist/0T1CMVkqffHlqEk4BcAph1"
-        }
-      ],
-      "duration_ms": 201655,
-      "name": "Dus Bahane 2.0",
-      "url": "https://open.spotify.com/track/5JhxOmG68mgLCjyKfvffr4"
-    },
-    {
-      "added_at": "2020-07-10 06:38:52",
-      "album": {
-        "name": "Dil Bechara (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5zrZPXoYsu772sB3CwVuxr"
-      },
-      "artists": [
-        {
-          "name": "A.R. Rahman",
-          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
-        }
-      ],
-      "duration_ms": 163426,
-      "name": "Dil Bechara",
-      "url": "https://open.spotify.com/track/4UJkUnfEEL8B2JZ1OQfYOO"
-    },
-    {
-      "added_at": "2017-09-20 17:14:27",
-      "album": {
-        "name": "Bom Diggy - Single",
-        "url": "https://open.spotify.com/album/1v41NSZw0M9A9GxHRvPpn2"
-      },
-      "artists": [
-        {
-          "name": "Zack Knight",
-          "url": "https://open.spotify.com/artist/7JMBJmGMqw4H33HECyW4QP"
-        },
-        {
-          "name": "Jasmin Walia",
-          "url": "https://open.spotify.com/artist/4bWGzsNAtfPp8P7pSBukH8"
-        }
-      ],
-      "duration_ms": 207692,
-      "name": "Bom Diggy",
-      "url": "https://open.spotify.com/track/7Dhy1R9NmD96wfr7VJEN37"
-    },
-    {
-      "added_at": "2019-02-14 06:12:55",
-      "album": {
-        "name": "Coca Cola (From \"Luka Chuppi\")",
-        "url": "https://open.spotify.com/album/0L2XbCxKZXwLeWuAUMcBLc"
-      },
-      "artists": [
-        {
-          "name": "Tony Kakkar",
-          "url": "https://open.spotify.com/artist/0NZtn1Kyq08alpHCTRf3dv"
-        },
-        {
-          "name": "Neha Kakkar",
-          "url": "https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI"
-        },
-        {
-          "name": "Young Desi",
-          "url": "https://open.spotify.com/artist/00EnFy3rVaBe8K6HV1S7e5"
-        },
-        {
-          "name": "Tanishk Bagchi",
-          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
-        }
-      ],
-      "duration_ms": 179225,
-      "name": "Coca Cola (From \"Luka Chuppi\")",
-      "url": "https://open.spotify.com/track/352wEkChkiClswqwDoM0nj"
     },
     {
       "added_at": "2020-10-30 14:25:13",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52ln8eMkne9.md) - [plain]
 
 > Soft and cozy vocal and instrumental jazz\. Cover: Melody Gardot
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,837 likes - 150 songs - 11 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,953 likes - 150 songs - 11 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52ln8eMkne9.md) - [plain]
 | 149 | [From a Mother to a Child](https://open.spotify.com/track/2fcHfAhlK9D2DHAyn1xttw) | [Katrine Madsen](https://open.spotify.com/artist/20QOEqeaMRFRLa839sDCnj), [Jesper Thorn](https://open.spotify.com/artist/4DB375t3aSO9yDzf1O8IpD), [Morten Lund](https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP), [Mads La Cour](https://open.spotify.com/artist/7Lf4MgF9wFY6sNwHfa08Tf) | [Indigo](https://open.spotify.com/album/2TexgqYYV0EitC949gQKGx) | 7:28 |
 | 150 | [The Man That Got Away](https://open.spotify.com/track/0cweXV4g3behXK3wXGgk37) | [Jane Monheit](https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ) | [Come What May](https://open.spotify.com/album/1PfdkCao8Kpvpwn977xklZ) | 5:29 |
 
-Snapshot ID: `MTY2MjA2OTYwMCwwMDAwMDAwMDg4NTM0NjlhNTNlYTRhYjI5MWNiNWFmYzMxMTkzYjZk`
+Snapshot ID: `MTY2MjQ2NTY2NywwMDAwMDAwMDNjMjZjMTBiMzU2ZWEyY2E1MDkyMjMxNDBiMzIyODMx`

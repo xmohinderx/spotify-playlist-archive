@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wgKYQVRARv.md) - [plain]
 
 > Fresh and recent tracks from the world of Prog Metal\. Cover: Architects
 
-[Spotify](https://open.spotify.com/user/spotify) - 468,829 likes - 200 songs - 15 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 468,964 likes - 200 songs - 15 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

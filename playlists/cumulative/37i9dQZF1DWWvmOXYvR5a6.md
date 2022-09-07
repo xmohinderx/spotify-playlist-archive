@@ -2,7 +2,7 @@
 
 ### [TrenChill K\-Hip Hop](https://open.spotify.com/playlist/37i9dQZF1DWWvmOXYvR5a6)
 
-> Trendy x Chill K\-Hip Hop\.  \(Cover: IOHBOY\(아이오보이\)\) \(트렌디 x 칠! 세련되고 듣기 편한 힙합음악들을 즐겨보세요.\)
+> Trendy x Chill K\-Hip Hop\.  \(Cover: Youth Hostel\(유스호스텔\)\) \(트렌디 x 칠! 세련되고 듣기 편한 힙합음악들을 즐겨보세요.\)
 
 515 songs - 1 day 4 hr 12 min - [published](https://open.spotify.com/playlist/6YybdrER9IpLcTWs3zQt76)
 

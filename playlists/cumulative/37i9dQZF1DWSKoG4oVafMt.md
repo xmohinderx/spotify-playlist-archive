@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring B Praak
 
-527 songs - 1 day 4 hr 33 min - [published](https://open.spotify.com/playlist/1Lit2yy2NvWAzmiWbYvMKp)
+531 songs - 1 day 4 hr 47 min - [published](https://open.spotify.com/playlist/1Lit2yy2NvWAzmiWbYvMKp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Breakan \(feat\. Simar Kaur\)](https://open.spotify.com/track/2iMFg8rVPNZGYv0sXL9a1D) | [Tyson Sidhu](https://open.spotify.com/artist/5wGjQPYmBAnDmtNeOMoavY), [Simar Kaur](https://open.spotify.com/artist/5yI5MjFLwQwfP24OxchqN1) | [Versatile](https://open.spotify.com/album/4XJOG0BM4Lr0XfrscVLu9X) | 2:51 | 2022-07-22 | 2022-08-18 |
 | [Buhe Bariyan](https://open.spotify.com/track/7pLAInWOrNnbR3RBsz5HZK) | [Kanika Kapoor](https://open.spotify.com/artist/6qcIg4IPLulyc03mWR87N8) | [Buhe Bariyan](https://open.spotify.com/album/50MHfytKPljf732R1f6dw0) | 4:41 | 2022-04-28 | 2022-07-06 |
 | [Bukkal](https://open.spotify.com/track/5ZRTDkvPc1Q1D7sxmwnsEp) | [Lakhi Ghuman](https://open.spotify.com/artist/2PCivTfTiXqggCr9Folam6) | [Bukkal](https://open.spotify.com/album/3ANx1ZC6qutcukvvgrywbj) | 3:51 | 2022-02-03 | 2022-02-12 |
+| [Bulleshah Warga](https://open.spotify.com/track/44sMnbzkIroONTHzX8GxZG) | [Master Saleem](https://open.spotify.com/artist/0BEr6nvOOHQMy53md08n9Y) | [Bulleshah Warga](https://open.spotify.com/album/3aqhzQfGsWkFrP7sfIzDme) | 3:59 | 2022-09-06 |  |
 | [Busy Jatt](https://open.spotify.com/track/4s82Rnb5fSVAdxE9v26JZc) | [Shivjot](https://open.spotify.com/artist/1CluO4PWr2z45POcQ92ZPs) | [High Five](https://open.spotify.com/album/7m5ojAK9XNWYdXTpsxyMm4) | 2:57 | 2022-07-18 | 2022-08-18 |
 | [Call](https://open.spotify.com/track/716L2mMFOYLI11YVso9L1Y) | [Nirvair Pannu](https://open.spotify.com/artist/4vIsAZx8AolYa6paJphDGY) | [Call](https://open.spotify.com/album/3mRBypKGWRi4zwDxvRZbVd) | 2:47 | 2022-06-27 |  |
 | [Canada Gedi](https://open.spotify.com/track/5s3FYjSnHtDliFAHyxm5OJ) | [Kaka](https://open.spotify.com/artist/1Oh5bPXjw5jreVFhKc4jux) | [Canada Gedi](https://open.spotify.com/album/6f3CNQimdTynLCqSTFhD9G) | 3:59 | 2022-06-13 | 2022-08-18 |
@@ -292,10 +293,12 @@
 | [Mere Peera \- From "Kokka"](https://open.spotify.com/track/4DBgesZRvYoy9wr2mXTGqr) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX), [Sandeep Saxena](https://open.spotify.com/artist/6wFgebKzhtHkquXd3DAInj) | [Mere Peera \(From "Kokka"\)](https://open.spotify.com/album/693wd2V4lrNdcNEcGXKy7S) | 5:15 | 2022-05-20 | 2022-07-06 |
 | [Mere Wall](https://open.spotify.com/track/1YRIz0aeZ6x5nQRw4PsOJ9) | [Karan Randhawa](https://open.spotify.com/artist/3mnR9SJ3hfV6EcrGKH44H9) | [Mere Wall](https://open.spotify.com/album/7tXvIgTJsxB0OieuhyfzNH) | 3:21 | 2022-04-27 | 2022-07-06 |
 | [Meri Jaan Meri Jaan \(From "Bachchhan Paandey"\)](https://open.spotify.com/track/7hUxzSsK2OHjeKWkzeArIU) | [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j) | [Meri Jaan Meri Jaan \(From "Bachchhan Paandey"\)](https://open.spotify.com/album/4FZfLmO4PPbmmcuXQrcwTL) | 4:08 | 2022-03-01 | 2022-04-29 |
+| [Meri Zuban \(From "MOH"\)](https://open.spotify.com/track/5h0ths4OtpJMDkJpZrycQZ) | [Kamal Khan](https://open.spotify.com/artist/01DlVvmRpQFutrYzh0HmF8) | [Meri Zuban \(From "MOH"\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/2t9AwGoCQlroUmuTjXYehD) | 3:47 | 2022-09-06 |  |
 | [Midnight](https://open.spotify.com/track/19bAA9kNKdMEh3xqFPqJT4) | [Manavgeet Gill](https://open.spotify.com/artist/0IUwlPP1FEOxkArw3zciWl), [Hakeem](https://open.spotify.com/artist/5DEHzdtoptgfgV6iri6zgl) | [Midnight](https://open.spotify.com/album/0fRXvOvU3BTzPs5zaccym1) | 2:51 | 2022-04-04 | 2022-04-29 |
 | [Mitti De Tibbe](https://open.spotify.com/track/1VVqsCfNCti67jzUKNjSKw) | [Kaka](https://open.spotify.com/artist/1Oh5bPXjw5jreVFhKc4jux) | [Mitti De Tibbe](https://open.spotify.com/album/7qzTPVw5fuZyKoVTws3VOp) | 4:33 | 2022-07-28 |  |
 | [Mob N Love](https://open.spotify.com/track/0MZqrU16fpP4aE9INyYpD1) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [Mob N Love](https://open.spotify.com/album/4jcpVLu1qPJRCthsocyMgX) | 3:22 | 2022-04-18 | 2022-07-06 |
 | [Mohabbat](https://open.spotify.com/track/4I8CaRhT764muRFvwn51va) | [Sajjan Adeeb](https://open.spotify.com/artist/10cESI2qXWXWxfkeomFOON) | [Mohabbat](https://open.spotify.com/album/5ldjwPo10jYbk1Ck0YZeqa) | 4:02 | 2022-04-18 | 2022-07-06 |
+| [Moody](https://open.spotify.com/track/6oLAnSXPLewt1hLm9gw1DD) | [Shivjot](https://open.spotify.com/artist/1CluO4PWr2z45POcQ92ZPs) | [VIP](https://open.spotify.com/album/6rzd1ct61FJBCt9YkyJ8L3) | 3:13 | 2022-09-06 |  |
 | [Moon](https://open.spotify.com/track/2DeCzK7tEThBtTSzoCtzkm) | [Mauji](https://open.spotify.com/artist/2HdSfvPp2Q6XCpK5AWEcV5), [Devilo](https://open.spotify.com/artist/7r3uOUXVYbcSb85Ijr7CKf) | [Moon](https://open.spotify.com/album/5z9iVEDVimEJ3zheVJjQyS) | 3:35 | 2022-01-19 | 2022-02-01 |
 | [Moon Rise](https://open.spotify.com/track/3oWv5qDKYN7MH6FdlglMN5) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Sanjoy](https://open.spotify.com/artist/6qjhYs5KNSoSU6fNJqDGIo) | [Man Of The Moon](https://open.spotify.com/album/0jasm0jnhQ6Y6OUYTI1NL6) | 2:54 | 2022-08-22 |  |
 | [Moonlight](https://open.spotify.com/track/5FTcLPsQFX2NZaBQHbTz06) | [Harnoor](https://open.spotify.com/artist/4eB5clMaoi0cCRnCwLkkiS) | [Moonlight](https://open.spotify.com/album/2SuM7r0dc3cpegQeGyJcWZ) | 3:18 | 2021-12-02 |  |
@@ -322,6 +325,7 @@
 | [Ni Mai Tera \(From "Television"\)](https://open.spotify.com/track/16u2ZrcDO9IoVqfZYmL9fh) | [Kulwinder Billa](https://open.spotify.com/artist/0CP2yDO5i5Q2G1fRj6C8JV) | [Ni Mai Tera \(From "Television"\)](https://open.spotify.com/album/2SquNcbWkgMseCOKsWQjO9) | 2:18 | 2022-06-23 | 2022-07-06 |
 | [Nikaah](https://open.spotify.com/track/7JWXRlnVMEyWc82ZpBusj8) | [Ipsitaa](https://open.spotify.com/artist/0LqSWTlLvalcwFJjdj4fil), [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT) | [Nikaah](https://open.spotify.com/album/1fmxvtOcXQGakPho77JrJe) | 2:22 | 2022-08-19 | 2022-09-01 |
 | [Nikki Bindi](https://open.spotify.com/track/52thul1E3Oa72G8MMzcb6Z) | [Showkidd](https://open.spotify.com/artist/0lqjRojARBHXCBYVOm16CC) | [Nikki Bindi](https://open.spotify.com/album/1AYMW3qoaAOlkakEPBNuJi) | 3:16 | 2022-05-04 | 2022-05-11 |
+| [No Flex](https://open.spotify.com/track/2WtW8vJmsvAubR7caT1m95) | [Shivjot](https://open.spotify.com/artist/1CluO4PWr2z45POcQ92ZPs) | [VIP](https://open.spotify.com/album/6rzd1ct61FJBCt9YkyJ8L3) | 3:03 | 2022-09-06 |  |
 | [NO LOVE](https://open.spotify.com/track/08Isz2ETWSBhvIl8UpKYsp) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [No Love](https://open.spotify.com/album/5Zcgog7sQ79ISF32y9nABU) | 2:50 | 2022-09-02 |  |
 | [NO LOVE](https://open.spotify.com/track/5B4YQN1FCuADJ0o4phAtwC) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [NO LOVE](https://open.spotify.com/album/71z4Ni4FHsAUWpcy1oFmOT) | 2:50 | 2022-07-05 | 2022-09-04 |
 | [No Mercy](https://open.spotify.com/track/0wMf9gR8xLegCKApnsots8) | [Dhindsa](https://open.spotify.com/artist/0GsSwV1qiXcmeBspegMa2y) | [No Mercy](https://open.spotify.com/album/6cQhIgJWb3UdhyICOc4ynB) | 2:58 | 2022-05-20 | 2022-07-06 |

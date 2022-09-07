@@ -135,7 +135,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-21",
+      "date_removed": null,
       "duration_ms": 178546,
       "name": "A Rainy Night in NY",
       "url": "https://open.spotify.com/track/6ISvLzyd8LRsSRLJR9WyAX"
@@ -171,7 +171,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-18",
+      "date_removed": null,
       "duration_ms": 279240,
       "name": "Adventure",
       "url": "https://open.spotify.com/track/0pDqeRO43GzZTNqrMbahJl"
@@ -261,7 +261,7 @@
       ],
       "date_added": "2022-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-07",
       "duration_ms": 243330,
       "name": "Akachan kawaii (Yueni Kibou Nado)",
       "url": "https://open.spotify.com/track/2QArMxNdNf0RRtbWgluQ8B"
@@ -315,7 +315,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 201642,
       "name": "Amber",
       "url": "https://open.spotify.com/track/39KmklB5budgAsuow00krX"
@@ -687,7 +687,7 @@
       ],
       "date_added": "2022-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-07",
       "duration_ms": 347573,
       "name": "DANCE IS MY LIFE",
       "url": "https://open.spotify.com/track/4U5m4pjDsp8SySr6WlpQZI"
@@ -1898,6 +1898,28 @@
     },
     {
       "album": {
+        "name": "One More Kiss (feat. \u3072\u304b\u308a)",
+        "url": "https://open.spotify.com/album/0qOjr2ynr5oVcJEmnCIJyE"
+      },
+      "artists": [
+        {
+          "name": "Tokimeki Records",
+          "url": "https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1"
+        },
+        {
+          "name": "\u3072\u304b\u308a",
+          "url": "https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258168,
+      "name": "One More Kiss (feat. \u3072\u304b\u308a)",
+      "url": "https://open.spotify.com/track/2gL2T5zAaOwGnOMNUruFvu"
+    },
+    {
+      "album": {
         "name": "One Way feat. YONCE",
         "url": "https://open.spotify.com/album/7lIJNVESbT9N8qWr0INc97"
       },
@@ -2615,7 +2637,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-07",
       "duration_ms": 220000,
       "name": "STEP IT",
       "url": "https://open.spotify.com/track/1orgfiHTB2opQkbwf9Gpnl"
@@ -3148,6 +3170,24 @@
     },
     {
       "album": {
+        "name": "YES",
+        "url": "https://open.spotify.com/album/2CdjH026oJ7PGlRis0E7Uc"
+      },
+      "artists": [
+        {
+          "name": "GOOD BYE APRIL",
+          "url": "https://open.spotify.com/artist/39dx9cIjJILxA81LkcPf38"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235664,
+      "name": "YES",
+      "url": "https://open.spotify.com/track/5rslF0Fbi7XRexvUFFn9ZW"
+    },
+    {
+      "album": {
         "name": "You Are Nobody (feat. \u3072\u304b\u308a)",
         "url": "https://open.spotify.com/album/5GSwcNsaqH3YfxvrjTkjTw"
       },
@@ -3369,7 +3409,7 @@
       ],
       "date_added": "2022-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-07",
       "duration_ms": 270000,
       "name": "\u3046\u305d\u3064\u304d",
       "url": "https://open.spotify.com/track/6tKhV1RnmuzL3rdjBEVMcO"
@@ -3445,10 +3485,28 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-04",
+      "date_removed": null,
       "duration_ms": 234936,
       "name": "\u3053\u306e\u307e\u307e\u5922\u3067 feat. AAAMYYY",
       "url": "https://open.spotify.com/track/7mYt61pj41CSwSiOovNzk0"
+    },
+    {
+      "album": {
+        "name": "\u3053\u306e\u8857\u306f\u30d1\u30ec\u30fc\u30c9",
+        "url": "https://open.spotify.com/album/2W84t0fIocPZhoMOkaLDiY"
+      },
+      "artists": [
+        {
+          "name": "sty",
+          "url": "https://open.spotify.com/artist/1Bx5PeSHoY8IjIOZMnBo3Z"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188210,
+      "name": "\u3053\u306e\u8857\u306f\u30d1\u30ec\u30fc\u30c9",
+      "url": "https://open.spotify.com/track/2bNXK6Ln7DfEdVlHlVpW8w"
     },
     {
       "album": {
@@ -3775,7 +3833,7 @@
       ],
       "date_added": "2022-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-07",
       "duration_ms": 286000,
       "name": "\u30b7\u30eb\u30af\u306e\u30ab\u30fc\u30c7\u30a3\u30ac\u30f3",
       "url": "https://open.spotify.com/track/0x672Wfq58Hq63RRCZuNrU"
@@ -4083,6 +4141,28 @@
       "duration_ms": 296029,
       "name": "\u30d8\u30c3\u30c9\u30d5\u30a9\u30f3\u30fb\u30ac\u30fc\u30eb -\u7ffc\u304c\u7121\u304f\u3066\u3082-",
       "url": "https://open.spotify.com/track/5Orb9Ce9nY6IOPjukhpXXW"
+    },
+    {
+      "album": {
+        "name": "\u30e1\u30e2\u30ea\u30a2\u30d5\u30ed\u30a2",
+        "url": "https://open.spotify.com/album/72XokMMY8qOas8X3zoaySq"
+      },
+      "artists": [
+        {
+          "name": "Takashi Fujii",
+          "url": "https://open.spotify.com/artist/50CvRcUXhLkVVN6jGH9X12"
+        },
+        {
+          "name": "Moe Shop",
+          "url": "https://open.spotify.com/artist/7cvljqLNhWNFMb8wP2NImJ"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194285,
+      "name": "\u30e1\u30e2\u30ea\u30a2\u30d5\u30ed\u30a2",
+      "url": "https://open.spotify.com/track/56UpxpbqRT8I6vBAMo3BIu"
     },
     {
       "album": {
@@ -4581,7 +4661,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-07",
       "duration_ms": 275912,
       "name": "\u60b2\u3057\u307f\u304c\u3068\u307e\u3089\u306a\u3044 I CAN'T STOP THE LONLINESS (feat. \u3072\u304b\u308a)",
       "url": "https://open.spotify.com/track/1QNbkBKOiBILvRAzkyvtqC"
@@ -4617,7 +4697,7 @@
       ],
       "date_added": "2022-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-07",
       "duration_ms": 153900,
       "name": "\u6238\u7de0\u308a",
       "url": "https://open.spotify.com/track/6XqO5DFqYqfnnfL9v3p2C9"

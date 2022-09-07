@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7iB3RCnBnN4.md) - [plain]
 
 > Every song with over 1 billion streams on Spotify\. Cover: Ariana Grande
 
-[Spotify](https://open.spotify.com/user/spotify) - 289,702 likes - 292 songs - 17 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 290,110 likes - 292 songs - 17 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

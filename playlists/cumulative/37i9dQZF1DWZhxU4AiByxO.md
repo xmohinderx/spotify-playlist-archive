@@ -4,7 +4,7 @@
 
 > Enjoy some kid\-friendly pop tunes.
 
-226 songs - 11 hr 22 min - [published](https://open.spotify.com/playlist/1sAcZQkEf1QE9sxroLLAMt)
+227 songs - 11 hr 26 min - [published](https://open.spotify.com/playlist/1sAcZQkEf1QE9sxroLLAMt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Here With Me](https://open.spotify.com/track/5gY5Tixu6wV6V1EJIQ3zNI) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [I Don't Care](https://open.spotify.com/album/253LQdnZTDd0HddPoREscR) | 2:37 | 2021-10-22 |  |
 | [Hey Look Ma, I Made It](https://open.spotify.com/track/6EJrfpisIxba7EgbcTBNz2) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [If I Can’t Have You](https://open.spotify.com/album/35gu6fn5CJIsME3dTqQSaV) | 2:41 | 2021-10-22 |  |
 | [Hideaway \- from "Wonder Park"](https://open.spotify.com/track/6IoQuFTjNbpl6572b9GryH) | [Grace VanderWaal](https://open.spotify.com/artist/3YdT8QvV4QvY4DfVJhxdcZ) | [Hideaway \(from "Wonder Park"\)](https://open.spotify.com/album/2Tv7NyjiW3IhzoGHlIc7Nk) | 3:18 | 2021-10-22 |  |
+| [House of Memories](https://open.spotify.com/track/2DgdHcjWmO3qd50RzuBLgZ) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Death of a Bachelor](https://open.spotify.com/album/6twKQ0EsUJHVlAr6XBylrj) | 3:28 | 2022-09-06 |  |
 | [How Do You Sleep?](https://open.spotify.com/track/2mqrs0rKVfldonic7ypVWh) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 40](https://open.spotify.com/album/16QkUgvO36X6REmJZgecVJ) | 3:12 | 2021-10-22 |  |
 | [How Far I'll Go \- Alessia Cara Version](https://open.spotify.com/track/1ehPJRt49h6N0LoryqKZXq) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Moana \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/6pZj4nvx6lV3ulIK3BSjvs) | 2:55 | 2021-10-22 |  |
 | [I Don't Care](https://open.spotify.com/track/1DVdHvrk06tW5tbsJCkVFU) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [I Don't Care](https://open.spotify.com/album/253LQdnZTDd0HddPoREscR) | 3:41 | 2021-10-22 |  |

@@ -6,7 +6,7 @@
     "name": "Moving Castle",
     "url": "https://open.spotify.com/user/moving-castle"
   },
-  "snapshot_id": "OTkzMiwwMmU0MjQ1YTNhYTMxNjZjYzRjNTJhNzcyZGFmOWZlMzM1NWYxMmUz",
+  "snapshot_id": "OTkzMyxmOGIwNzZkZTU3Yzg5NjE4NDc1NGE1ODQwMDM0MDljZGQ0MDIxYjBm",
   "tracks": [
     {
       "added_at": "2022-09-02 17:26:49",
@@ -2231,6 +2231,22 @@
       "duration_ms": 247500,
       "name": "Silo (feat. fknsyd)",
       "url": "https://open.spotify.com/track/49Z1VQivkHoY5KGdUwMv5i"
+    },
+    {
+      "added_at": "2022-09-06 21:05:57",
+      "album": {
+        "name": "Ordinary Life",
+        "url": "https://open.spotify.com/album/4n7CoMmbjWPyMDikoNNFg0"
+      },
+      "artists": [
+        {
+          "name": "George Gretton",
+          "url": "https://open.spotify.com/artist/2NG92AgykZYQwwuQ479zMo"
+        }
+      ],
+      "duration_ms": 207216,
+      "name": "Weekdays",
+      "url": "https://open.spotify.com/track/1fmLw7Ai93hZI7b34NPhyn"
     }
   ],
   "unique_name": "Moving Castle Monthly",

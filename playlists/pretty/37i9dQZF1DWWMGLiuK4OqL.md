@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWMGLiuK4OqL.md) - [plain]
 
 > The soft sound of some of the smoothest and sweetest vocal jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,024 likes - 200 songs - 13 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,196 likes - 200 songs - 13 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWMGLiuK4OqL.md) - [plain]
 | 199 | [Twentieth Century Fox](https://open.spotify.com/track/7hi3rz13X8vRWRWPqflOEJ) | [Angela Verbrugge](https://open.spotify.com/artist/6RseXDJE4211hDR6MHVfyj) | [Love for Connoisseurs](https://open.spotify.com/album/4y2H40oDDsnEBPEZwXrE9h) | 3:40 |
 | 200 | [Black Coffee](https://open.spotify.com/track/3jqy4CSWyFSze9NNKRaBR1) | [Live Foyn Friis](https://open.spotify.com/artist/4dZ1woIhLE3Y92MRKhr8af), [Bård Helgerud](https://open.spotify.com/artist/2GMYgVdLfQj8frPJDRLkvh), [Rodrigo Villagra](https://open.spotify.com/artist/0RgfOjYOuHTiBygi9BwAzv), [Magnus Sefaniassen Eide](https://open.spotify.com/artist/6S5pM5PQo4Z7dv6xUE8Ahw) | [Live Sings Sassy](https://open.spotify.com/album/1iimKeyogFlVxDgnrpaKTr) | 6:33 |
 
-Snapshot ID: `MTY2MTc4NTAwNiwwMDAwMDAwMDFjMjlmNTI2YTdiYzUwNmIwN2RlMjdhZDk5YzFkNjQw`
+Snapshot ID: `MTY2MjQ2NDU4MywwMDAwMDAwMDFhMWEyMDJhNjVlMzQ3ODY0NjFlNWNmMWFkNTQ5NTMy`
