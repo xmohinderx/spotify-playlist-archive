@@ -37,6 +37,11 @@ There are two options for browsing the archive:
 
 To add a playlist to the archive, see [these instructions](https://github.com/mackorone/spotify-playlist-archive/blob/main/CONTRIBUTING.md#adding-playlists).
 
+To recreate an old version of a playlist:
+1. Use https://spotifyplaylistarchive.com/ to find the snapshot you want
+1. Use the "Copy track URLs" button to copy the URLs to your clipboard
+1. Paste them into a Spotify playlist via the Spotify web or desktop app
+
 ## How it works
 
 This repository contains a script for scraping Spotify playlists and publishing
