@@ -4,7 +4,7 @@
 
 > Prendete con tu lista favorita de Dembow\. Foto: Aleesha
 
-258 songs - 14 hr 31 min - [published](https://open.spotify.com/playlist/0M7kUlhLiJGAPIrDjqZTS6)
+259 songs - 14 hr 35 min - [published](https://open.spotify.com/playlist/0M7kUlhLiJGAPIrDjqZTS6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -224,7 +224,8 @@
 | [Subete](https://open.spotify.com/track/4OOlKNTQISagv0nsofvySZ) | [Carbon Fiber Music](https://open.spotify.com/artist/7akJAsqIpakhpXpWEUSEGX), [Lary Over](https://open.spotify.com/artist/1jSjfSgDjedJdi5MoyRu78), [Lirico En La Casa](https://open.spotify.com/artist/1Vr7DTbtTpOp4tn4hAGOYo) | [Carbon Fiber Hits](https://open.spotify.com/album/2Uld8jdkYagsj9j7xBom0T) | 3:44 | 2022-05-28 |  |
 | [Subete](https://open.spotify.com/track/6CWMm2mJOrKyDH4W1X5d06) | [Lary Over](https://open.spotify.com/artist/1jSjfSgDjedJdi5MoyRu78), [Lirico En La Casa](https://open.spotify.com/artist/1Vr7DTbtTpOp4tn4hAGOYo) | [Subete](https://open.spotify.com/album/1eCpALR8j9G29ZqoxdlWAi) | 3:44 | 2021-12-10 | 2022-07-29 |
 | [Suena Rum Rum \- Remix](https://open.spotify.com/track/3UT7UGEQ6kWJquGus7QLAg) | [Nino Freestyle](https://open.spotify.com/artist/1AACxWCwNIa3ecOBQJnXRV), [Ceky Viciny](https://open.spotify.com/artist/5UopXhshFFqRIMfeZrBclq), [Bulova](https://open.spotify.com/artist/6NAhbfEqeWELwfjH391Vz0), [Quimico Ultra Mega](https://open.spotify.com/artist/3tZdknQnzsVIIdaGCTj4RX), [El Fecho RD](https://open.spotify.com/artist/2qHuI4Avg4Dbowhu8whV9e) | [Suena Rum Rum \(Remix\)](https://open.spotify.com/album/7kwmtvsBvSqqNCifTMaaYD) | 3:49 | 2021-12-10 | 2022-07-27 |
-| [Superman Sin Capa](https://open.spotify.com/track/7enqOzlUkUH0M1tHYwRTYO) | [El Super Nuevo](https://open.spotify.com/artist/3hWKGRKwr78bhxvErSJBdu) | [Exitos 2016](https://open.spotify.com/album/6E4LSrujttW94zndcvmhfl) | 3:50 | 2021-12-10 |  |
+| [Superman Sin Capa](https://open.spotify.com/track/1UuZIUgkiVPhIkhbYlLTeD) | [El Super Nuevo](https://open.spotify.com/artist/3hWKGRKwr78bhxvErSJBdu) | [Superman Sin Capa](https://open.spotify.com/album/54sBUl14e0fc7YZGX8dWdP) | 3:50 | 2022-08-19 |  |
+| [Superman Sin Capa](https://open.spotify.com/track/7enqOzlUkUH0M1tHYwRTYO) | [El Super Nuevo](https://open.spotify.com/artist/3hWKGRKwr78bhxvErSJBdu) | [Exitos 2016](https://open.spotify.com/album/6E4LSrujttW94zndcvmhfl) | 3:50 | 2021-12-10 | 2022-09-09 |
 | [Superman Sin Capa Remix / Sientate en ese Deo / Dale Paya / Trompeta / Tan Celoso / La Malondra / Hoy Me Desacato](https://open.spotify.com/track/1942qHTkX9BH5eWlcFUzDY) | [La Nueva Escuela Del Dembow](https://open.spotify.com/artist/1LWSIkk5LVBICKZCavZSid) | [Suena El Dembow \(Vol\. 3\)](https://open.spotify.com/album/7C5LZiJ9Ai3tMUX8Y7O4V3) | 20:28 | 2021-12-10 | 2022-07-29 |
 | [Súbete \- Remix](https://open.spotify.com/track/05WXONH3xdiHxSu5DhpiEn) | [Lary Over](https://open.spotify.com/artist/1jSjfSgDjedJdi5MoyRu78), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Lirico En La Casa](https://open.spotify.com/artist/1Vr7DTbtTpOp4tn4hAGOYo) | [Súbete \(Remix\)](https://open.spotify.com/album/78QWGK9gFkGl3eB2Iur6Q5) | 4:54 | 2021-12-10 | 2022-07-29 |
 | [Súbete \- Remix](https://open.spotify.com/track/1MVdOxie3dYzXaSfPXsoyT) | [Lary Over](https://open.spotify.com/artist/1jSjfSgDjedJdi5MoyRu78), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Lirico En La Casa](https://open.spotify.com/artist/1Vr7DTbtTpOp4tn4hAGOYo) | [Súbete \(Remix\)](https://open.spotify.com/album/1NbbxOL6pPv0m4prrqopoE) | 4:54 | 2022-05-28 |  |

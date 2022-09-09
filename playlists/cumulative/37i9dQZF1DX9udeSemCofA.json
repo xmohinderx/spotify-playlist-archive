@@ -1010,6 +1010,24 @@
     },
     {
       "album": {
+        "name": "Ototoxic",
+        "url": "https://open.spotify.com/album/3FMyDjTyD8rLMPkpcwE4rm"
+      },
+      "artists": [
+        {
+          "name": "Kosmo Sound",
+          "url": "https://open.spotify.com/artist/55w8joyd87y5aaIix4xQBj"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239693,
+      "name": "Ototoxic",
+      "url": "https://open.spotify.com/track/6o039qN5jgxb8WmA1gjk9Q"
+    },
+    {
+      "album": {
         "name": "Rocker's Almighty Dub",
         "url": "https://open.spotify.com/album/6mRMbxld2opUcbNYtc5pMk"
       },

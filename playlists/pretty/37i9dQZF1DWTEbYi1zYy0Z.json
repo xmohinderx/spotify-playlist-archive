@@ -1,12 +1,12 @@
 {
   "description": "The freshest smooth jazz. Cover: Nick Colionne",
-  "num_followers": 35576,
+  "num_followers": 35643,
   "original_name": "Nu-Smooth",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjA5MTMyMCwwMDAwMDAwMGNmZTQxYjFjYzVhZDVlNTJjNzIwNmYyNjA5YzFlOTM1",
+  "snapshot_id": "MTY2MjA5MTMyMCwwMDAwMDAwMGUzOTkxZDQxMDBiOGM0NDE0NjhlMjQyNjJiYTRiNGYz",
   "tracks": [
     {
       "added_at": "2022-08-12 04:02:00",
@@ -57,24 +57,20 @@
       "url": "https://open.spotify.com/track/1zZ0JFlkidMKUBsnwpR3Tb"
     },
     {
-      "added_at": "2022-04-15 04:02:00",
+      "added_at": "2022-08-26 04:02:00",
       "album": {
-        "name": "Summer Solstice",
-        "url": "https://open.spotify.com/album/3RjqIXF2BUrwBrCwd7kZYz"
+        "name": "Tribute",
+        "url": "https://open.spotify.com/album/7Io45dFofkBVEzQdMTXxsl"
       },
       "artists": [
         {
-          "name": "Anthony Island",
-          "url": "https://open.spotify.com/artist/16Qk6lelYJUiCbuZQAPm7v"
-        },
-        {
-          "name": "Pete Dingon",
-          "url": "https://open.spotify.com/artist/5lZnAbDvhOcVlcdIV7ajzC"
+          "name": "Boney James",
+          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
         }
       ],
-      "duration_ms": 200050,
-      "name": "Summer Solstice",
-      "url": "https://open.spotify.com/track/2pRAu9T3XHAf9HNR9vb1jY"
+      "duration_ms": 245426,
+      "name": "Tribute",
+      "url": "https://open.spotify.com/track/50MtaTholYQZwggn6EvbTl"
     },
     {
       "added_at": "2022-09-02 04:02:00",
@@ -93,20 +89,24 @@
       "url": "https://open.spotify.com/track/4pXtjONiRse7CmVqc9Ujjs"
     },
     {
-      "added_at": "2022-08-26 04:02:00",
+      "added_at": "2022-04-15 04:02:00",
       "album": {
-        "name": "Tribute",
-        "url": "https://open.spotify.com/album/7Io45dFofkBVEzQdMTXxsl"
+        "name": "Summer Solstice",
+        "url": "https://open.spotify.com/album/3RjqIXF2BUrwBrCwd7kZYz"
       },
       "artists": [
         {
-          "name": "Boney James",
-          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
+          "name": "Anthony Island",
+          "url": "https://open.spotify.com/artist/16Qk6lelYJUiCbuZQAPm7v"
+        },
+        {
+          "name": "Pete Dingon",
+          "url": "https://open.spotify.com/artist/5lZnAbDvhOcVlcdIV7ajzC"
         }
       ],
-      "duration_ms": 245426,
-      "name": "Tribute",
-      "url": "https://open.spotify.com/track/50MtaTholYQZwggn6EvbTl"
+      "duration_ms": 200050,
+      "name": "Summer Solstice",
+      "url": "https://open.spotify.com/track/2pRAu9T3XHAf9HNR9vb1jY"
     },
     {
       "added_at": "2022-02-25 05:02:00",
@@ -177,22 +177,6 @@
       "url": "https://open.spotify.com/track/0krv786vCcNQHJnpHNQJlh"
     },
     {
-      "added_at": "2022-03-04 05:01:00",
-      "album": {
-        "name": "Foolish Heart",
-        "url": "https://open.spotify.com/album/6HPS4UYCNF4snOQHcCTLlj"
-      },
-      "artists": [
-        {
-          "name": "Johnny James Dr J",
-          "url": "https://open.spotify.com/artist/7u6nxhjlzbZs2q7tJlP0SJ"
-        }
-      ],
-      "duration_ms": 217151,
-      "name": "Foolish Heart",
-      "url": "https://open.spotify.com/track/3AiFaW6A7PTMAJoekZ85qq"
-    },
-    {
       "added_at": "2022-06-17 04:02:00",
       "album": {
         "name": "Deep Into You",
@@ -211,6 +195,22 @@
       "duration_ms": 250813,
       "name": "Deep Into You",
       "url": "https://open.spotify.com/track/1K0U3DzDQ3bohci5WRgmkd"
+    },
+    {
+      "added_at": "2022-03-04 05:01:00",
+      "album": {
+        "name": "Foolish Heart",
+        "url": "https://open.spotify.com/album/6HPS4UYCNF4snOQHcCTLlj"
+      },
+      "artists": [
+        {
+          "name": "Johnny James Dr J",
+          "url": "https://open.spotify.com/artist/7u6nxhjlzbZs2q7tJlP0SJ"
+        }
+      ],
+      "duration_ms": 217151,
+      "name": "Foolish Heart",
+      "url": "https://open.spotify.com/track/3AiFaW6A7PTMAJoekZ85qq"
     },
     {
       "added_at": "2022-03-18 05:00:00",
@@ -281,6 +281,22 @@
       "url": "https://open.spotify.com/track/01T4bEtV47xjJQ2ER7rZj2"
     },
     {
+      "added_at": "2022-05-13 04:02:00",
+      "album": {
+        "name": "Workin'",
+        "url": "https://open.spotify.com/album/4A7dd18P9hBcBImg4tf3np"
+      },
+      "artists": [
+        {
+          "name": "Jazz Holdouts",
+          "url": "https://open.spotify.com/artist/1opzXqZeqkYLVzBsXw45qJ"
+        }
+      ],
+      "duration_ms": 246024,
+      "name": "Workin'",
+      "url": "https://open.spotify.com/track/73PMlacQVhln12IqZi16ep"
+    },
+    {
       "added_at": "2022-05-06 04:02:00",
       "album": {
         "name": "Sweet Talk",
@@ -329,20 +345,20 @@
       "url": "https://open.spotify.com/track/5EEMl2lyiz0WGpVJbTKgHX"
     },
     {
-      "added_at": "2022-05-13 04:02:00",
+      "added_at": "2022-06-03 04:02:00",
       "album": {
-        "name": "Workin'",
-        "url": "https://open.spotify.com/album/4A7dd18P9hBcBImg4tf3np"
+        "name": "Another Day In Paradise",
+        "url": "https://open.spotify.com/album/20nnoaK341xKWNK6cNlNBn"
       },
       "artists": [
         {
-          "name": "Jazz Holdouts",
-          "url": "https://open.spotify.com/artist/1opzXqZeqkYLVzBsXw45qJ"
+          "name": "Boney James",
+          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
         }
       ],
-      "duration_ms": 246024,
-      "name": "Workin'",
-      "url": "https://open.spotify.com/track/73PMlacQVhln12IqZi16ep"
+      "duration_ms": 275680,
+      "name": "Another Day In Paradise",
+      "url": "https://open.spotify.com/track/07EjeqkqzPeEhz6B2zgmDU"
     },
     {
       "added_at": "2022-05-20 04:02:00",
@@ -359,22 +375,6 @@
       "duration_ms": 251432,
       "name": "Good On You",
       "url": "https://open.spotify.com/track/7cpU9JiLhdxF75HXFBcNh6"
-    },
-    {
-      "added_at": "2022-06-03 04:02:00",
-      "album": {
-        "name": "Another Day In Paradise",
-        "url": "https://open.spotify.com/album/20nnoaK341xKWNK6cNlNBn"
-      },
-      "artists": [
-        {
-          "name": "Boney James",
-          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
-        }
-      ],
-      "duration_ms": 275680,
-      "name": "Another Day In Paradise",
-      "url": "https://open.spotify.com/track/07EjeqkqzPeEhz6B2zgmDU"
     },
     {
       "added_at": "2021-08-20 04:02:00",
@@ -445,6 +445,22 @@
       "url": "https://open.spotify.com/track/6bGtyIx8T1Ju65CTrcawwl"
     },
     {
+      "added_at": "2021-08-13 04:01:00",
+      "album": {
+        "name": "Feels So Right (Radio Edit)",
+        "url": "https://open.spotify.com/album/5YeHuC9Qk5a0vlaUwl6YUL"
+      },
+      "artists": [
+        {
+          "name": "Blake Aaron",
+          "url": "https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56"
+        }
+      ],
+      "duration_ms": 266062,
+      "name": "Feels So Right - Radio Edit",
+      "url": "https://open.spotify.com/track/2M1SQBEbGRpO16JmwWfD7d"
+    },
+    {
       "added_at": "2022-03-25 04:01:00",
       "album": {
         "name": "Movin' N Groovin",
@@ -481,20 +497,24 @@
       "url": "https://open.spotify.com/track/30gMOvwtvkEpSDyQmEKdN2"
     },
     {
-      "added_at": "2021-08-13 04:01:00",
+      "added_at": "2021-09-24 04:02:00",
       "album": {
-        "name": "Feels So Right (Radio Edit)",
-        "url": "https://open.spotify.com/album/5YeHuC9Qk5a0vlaUwl6YUL"
+        "name": "Soul Searchin'",
+        "url": "https://open.spotify.com/album/1vfBqfZqfEaq6NInzf5rFh"
       },
       "artists": [
         {
-          "name": "Blake Aaron",
-          "url": "https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56"
+          "name": "Larry Carlton",
+          "url": "https://open.spotify.com/artist/7aRi9OzdA2ciputfuguaPK"
+        },
+        {
+          "name": "Paul Brown",
+          "url": "https://open.spotify.com/artist/4Hisv12GBxgMUsB2eBW5jy"
         }
       ],
-      "duration_ms": 266062,
-      "name": "Feels So Right - Radio Edit",
-      "url": "https://open.spotify.com/track/2M1SQBEbGRpO16JmwWfD7d"
+      "duration_ms": 256372,
+      "name": "Soul Searchin'",
+      "url": "https://open.spotify.com/track/3LhJ5OcrLfQQ1igAXTuImg"
     },
     {
       "added_at": "2022-05-06 04:02:00",
@@ -517,26 +537,6 @@
       "url": "https://open.spotify.com/track/6v8AwEkXA8IvgVz00otrNT"
     },
     {
-      "added_at": "2021-09-24 04:02:00",
-      "album": {
-        "name": "Soul Searchin'",
-        "url": "https://open.spotify.com/album/1vfBqfZqfEaq6NInzf5rFh"
-      },
-      "artists": [
-        {
-          "name": "Larry Carlton",
-          "url": "https://open.spotify.com/artist/7aRi9OzdA2ciputfuguaPK"
-        },
-        {
-          "name": "Paul Brown",
-          "url": "https://open.spotify.com/artist/4Hisv12GBxgMUsB2eBW5jy"
-        }
-      ],
-      "duration_ms": 256372,
-      "name": "Soul Searchin'",
-      "url": "https://open.spotify.com/track/3LhJ5OcrLfQQ1igAXTuImg"
-    },
-    {
       "added_at": "2021-07-16 04:01:00",
       "album": {
         "name": "Cruising the Boulevard",
@@ -557,22 +557,6 @@
       "url": "https://open.spotify.com/track/3J876JF0XKXFSltuHMjD5r"
     },
     {
-      "added_at": "2022-04-15 04:02:00",
-      "album": {
-        "name": "Red Tiger",
-        "url": "https://open.spotify.com/album/2jYih8CJwo4nzuzy5aokwV"
-      },
-      "artists": [
-        {
-          "name": "Blair Bryant",
-          "url": "https://open.spotify.com/artist/1bNvtqK9g0M2hDWRLdwpZq"
-        }
-      ],
-      "duration_ms": 249262,
-      "name": "Relentless",
-      "url": "https://open.spotify.com/track/3S7QaZDPqc14xWObHGVfyk"
-    },
-    {
       "added_at": "2021-10-01 04:02:00",
       "album": {
         "name": "Feel Like Making Love / Night Crawler",
@@ -587,6 +571,22 @@
       "duration_ms": 556466,
       "name": "Feel Like Making Love / Night Crawler",
       "url": "https://open.spotify.com/track/1gqPg9GEtilsmtewS1fqTB"
+    },
+    {
+      "added_at": "2022-04-15 04:02:00",
+      "album": {
+        "name": "Red Tiger",
+        "url": "https://open.spotify.com/album/2jYih8CJwo4nzuzy5aokwV"
+      },
+      "artists": [
+        {
+          "name": "Blair Bryant",
+          "url": "https://open.spotify.com/artist/1bNvtqK9g0M2hDWRLdwpZq"
+        }
+      ],
+      "duration_ms": 249262,
+      "name": "Relentless",
+      "url": "https://open.spotify.com/track/3S7QaZDPqc14xWObHGVfyk"
     },
     {
       "added_at": "2021-10-01 04:02:00",
@@ -653,20 +653,36 @@
       "url": "https://open.spotify.com/track/4nEwNR21Iycvix4l5opfmM"
     },
     {
-      "added_at": "2022-05-20 04:02:00",
+      "added_at": "2021-11-05 04:01:00",
       "album": {
-        "name": "Summertime in Nyc (Instrumental Mix)",
-        "url": "https://open.spotify.com/album/6Npy31tIY5yvCpV77agfU0"
+        "name": "Bridges (Radio Edit)",
+        "url": "https://open.spotify.com/album/5oRUw1NFMSLMYJ90iZdscU"
       },
       "artists": [
         {
-          "name": "Dave Koz",
-          "url": "https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm"
+          "name": "Cal Harris Jr.",
+          "url": "https://open.spotify.com/artist/1rqcgKphKy4FoYO505o49R"
         }
       ],
-      "duration_ms": 210179,
-      "name": "Summertime in Nyc (Instrumental Mix)",
-      "url": "https://open.spotify.com/track/2noLzEHQMcnY5IPSfAruFZ"
+      "duration_ms": 245000,
+      "name": "Bridges - Radio Edit",
+      "url": "https://open.spotify.com/track/1p3bQPaUzLAISJvj9I28QU"
+    },
+    {
+      "added_at": "2022-07-01 04:02:00",
+      "album": {
+        "name": "Stride",
+        "url": "https://open.spotify.com/album/4G0oTjBaePASiWKmPPvhkF"
+      },
+      "artists": [
+        {
+          "name": "Eric Essix",
+          "url": "https://open.spotify.com/artist/4wvpXjRsX6L8NJMbx996yp"
+        }
+      ],
+      "duration_ms": 254346,
+      "name": "Stride",
+      "url": "https://open.spotify.com/track/67WJeEof1aydWU9S7CyRVg"
     },
     {
       "added_at": "2022-04-08 04:02:00",
@@ -701,36 +717,20 @@
       "url": "https://open.spotify.com/track/4zSQTxz4zeplcTGeJHDueh"
     },
     {
-      "added_at": "2022-07-01 04:02:00",
+      "added_at": "2022-05-20 04:02:00",
       "album": {
-        "name": "Stride",
-        "url": "https://open.spotify.com/album/4G0oTjBaePASiWKmPPvhkF"
+        "name": "Summertime in Nyc (Instrumental Mix)",
+        "url": "https://open.spotify.com/album/6Npy31tIY5yvCpV77agfU0"
       },
       "artists": [
         {
-          "name": "Eric Essix",
-          "url": "https://open.spotify.com/artist/4wvpXjRsX6L8NJMbx996yp"
+          "name": "Dave Koz",
+          "url": "https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm"
         }
       ],
-      "duration_ms": 254346,
-      "name": "Stride",
-      "url": "https://open.spotify.com/track/67WJeEof1aydWU9S7CyRVg"
-    },
-    {
-      "added_at": "2021-11-05 04:01:00",
-      "album": {
-        "name": "Bridges (Radio Edit)",
-        "url": "https://open.spotify.com/album/5oRUw1NFMSLMYJ90iZdscU"
-      },
-      "artists": [
-        {
-          "name": "Cal Harris Jr.",
-          "url": "https://open.spotify.com/artist/1rqcgKphKy4FoYO505o49R"
-        }
-      ],
-      "duration_ms": 245000,
-      "name": "Bridges - Radio Edit",
-      "url": "https://open.spotify.com/track/1p3bQPaUzLAISJvj9I28QU"
+      "duration_ms": 210179,
+      "name": "Summertime in Nyc (Instrumental Mix)",
+      "url": "https://open.spotify.com/track/2noLzEHQMcnY5IPSfAruFZ"
     },
     {
       "added_at": "2021-10-22 04:02:00",
@@ -801,22 +801,6 @@
       "url": "https://open.spotify.com/track/3N80JYpUbyZd90H5a4F9Zk"
     },
     {
-      "added_at": "2022-03-25 04:01:00",
-      "album": {
-        "name": "Summer in Blue",
-        "url": "https://open.spotify.com/album/6jEEFwqCOwADpc4CDRsR0o"
-      },
-      "artists": [
-        {
-          "name": "Michael Broening",
-          "url": "https://open.spotify.com/artist/3LSpP85R3Dszki2XgI2ORG"
-        }
-      ],
-      "duration_ms": 269129,
-      "name": "Summer In Blue",
-      "url": "https://open.spotify.com/track/24qM1vAqWgIv9CzasSy9nn"
-    },
-    {
       "added_at": "2021-06-25 04:02:00",
       "album": {
         "name": "All That Matters",
@@ -831,6 +815,22 @@
       "duration_ms": 277600,
       "name": "All That Matters",
       "url": "https://open.spotify.com/track/2ZNUhtOKwuwK7Ec138C9Dk"
+    },
+    {
+      "added_at": "2022-03-25 04:01:00",
+      "album": {
+        "name": "Summer in Blue",
+        "url": "https://open.spotify.com/album/6jEEFwqCOwADpc4CDRsR0o"
+      },
+      "artists": [
+        {
+          "name": "Michael Broening",
+          "url": "https://open.spotify.com/artist/3LSpP85R3Dszki2XgI2ORG"
+        }
+      ],
+      "duration_ms": 269129,
+      "name": "Summer In Blue",
+      "url": "https://open.spotify.com/track/24qM1vAqWgIv9CzasSy9nn"
     },
     {
       "added_at": "2022-02-18 05:02:00",
@@ -977,22 +977,6 @@
       "url": "https://open.spotify.com/track/2LU8lEAdWosx7exPk4WKjs"
     },
     {
-      "added_at": "2022-01-14 05:01:00",
-      "album": {
-        "name": "Feet First",
-        "url": "https://open.spotify.com/album/7wPrYwfDcF2vPw429fnuC0"
-      },
-      "artists": [
-        {
-          "name": "Rick Braun",
-          "url": "https://open.spotify.com/artist/4ThkLup6LmqCUuHuG434zZ"
-        }
-      ],
-      "duration_ms": 240906,
-      "name": "Feet First",
-      "url": "https://open.spotify.com/track/2tkh6CxhyZKv9Jio6Ow77W"
-    },
-    {
       "added_at": "2021-07-12 13:18:29",
       "album": {
         "name": "Open Portals",
@@ -1009,60 +993,20 @@
       "url": "https://open.spotify.com/track/5DR5fiDRQmHIGJfzTnqaLM"
     },
     {
-      "added_at": "2022-01-28 05:02:00",
+      "added_at": "2022-01-14 05:01:00",
       "album": {
-        "name": "Soul to Soul",
-        "url": "https://open.spotify.com/album/2FSxMIU0mbvZKmTBAZ99WJ"
+        "name": "Feet First",
+        "url": "https://open.spotify.com/album/7wPrYwfDcF2vPw429fnuC0"
       },
       "artists": [
         {
-          "name": "Christophe Goze",
-          "url": "https://open.spotify.com/artist/5RzGiZsH8BHkjjrvANvk4H"
+          "name": "Rick Braun",
+          "url": "https://open.spotify.com/artist/4ThkLup6LmqCUuHuG434zZ"
         }
       ],
-      "duration_ms": 228102,
-      "name": "Soul to Soul - 2022 Version",
-      "url": "https://open.spotify.com/track/78y37Rtf5UXolH7LqUNjF7"
-    },
-    {
-      "added_at": "2021-08-13 04:01:00",
-      "album": {
-        "name": "Set Sail",
-        "url": "https://open.spotify.com/album/32WepNq3Z0hU5Ku7jJqu7u"
-      },
-      "artists": [
-        {
-          "name": "The Groove Project",
-          "url": "https://open.spotify.com/artist/0CR2LOBZJI8NrzYZykxQe5"
-        },
-        {
-          "name": "Derek Sherinian",
-          "url": "https://open.spotify.com/artist/4ZCINPmMmZUh4H1qNqzIxq"
-        }
-      ],
-      "duration_ms": 209727,
-      "name": "Set Sail",
-      "url": "https://open.spotify.com/track/1GAX53Nnul0CQx3GawFpSS"
-    },
-    {
-      "added_at": "2021-06-11 04:01:00",
-      "album": {
-        "name": "A to Z",
-        "url": "https://open.spotify.com/album/0bZqdeW8LqD3GTNnYuxGzB"
-      },
-      "artists": [
-        {
-          "name": "Andrew Neu",
-          "url": "https://open.spotify.com/artist/2UvENYRkDPxhXmp92vkzhF"
-        },
-        {
-          "name": "Rob Zinn",
-          "url": "https://open.spotify.com/artist/6I8oFZvFlvaEXz6ZYhEB65"
-        }
-      ],
-      "duration_ms": 249813,
-      "name": "A to Z",
-      "url": "https://open.spotify.com/track/6sJwnAnUD18u9MysrfzY0g"
+      "duration_ms": 240906,
+      "name": "Feet First",
+      "url": "https://open.spotify.com/track/2tkh6CxhyZKv9Jio6Ow77W"
     },
     {
       "added_at": "2022-02-25 05:02:00",
@@ -1081,52 +1025,20 @@
       "url": "https://open.spotify.com/track/5mwRmYIiy0rISoe74f1Hol"
     },
     {
-      "added_at": "2022-02-14 15:14:54",
+      "added_at": "2022-01-28 05:02:00",
       "album": {
-        "name": "A Midnight Rendezvous",
-        "url": "https://open.spotify.com/album/3up7BY3W1z8pMNipUQOl7x"
+        "name": "Soul to Soul",
+        "url": "https://open.spotify.com/album/2FSxMIU0mbvZKmTBAZ99WJ"
       },
       "artists": [
         {
-          "name": "David Benoit",
-          "url": "https://open.spotify.com/artist/1OLWM7nUNcTjZ9ct4DEPZu"
+          "name": "Christophe Goze",
+          "url": "https://open.spotify.com/artist/5RzGiZsH8BHkjjrvANvk4H"
         }
       ],
-      "duration_ms": 237586,
-      "name": "Pioneer Town",
-      "url": "https://open.spotify.com/track/53djpTONT01aF8xYjuLosr"
-    },
-    {
-      "added_at": "2021-06-25 04:02:00",
-      "album": {
-        "name": "Early Sunrise",
-        "url": "https://open.spotify.com/album/3pqWeJefX6sZrmjbo3bfCp"
-      },
-      "artists": [
-        {
-          "name": "Igor Gerzina",
-          "url": "https://open.spotify.com/artist/13OiSfq8TINbHcI9X1BLAW"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Early Sunrise",
-      "url": "https://open.spotify.com/track/4ZNXj5RoCXuczRCth4t0DT"
-    },
-    {
-      "added_at": "2021-11-05 04:01:00",
-      "album": {
-        "name": "And Now This",
-        "url": "https://open.spotify.com/album/4WdiTN5Eqnyqb2YUsx2Dml"
-      },
-      "artists": [
-        {
-          "name": "Paul Taylor",
-          "url": "https://open.spotify.com/artist/3wBSOZFd5KLsEZ1yoVSICQ"
-        }
-      ],
-      "duration_ms": 223426,
-      "name": "And Now This",
-      "url": "https://open.spotify.com/track/3SpVmdLcEGAu5YSu7eq1IK"
+      "duration_ms": 228102,
+      "name": "Soul to Soul - 2022 Version",
+      "url": "https://open.spotify.com/track/78y37Rtf5UXolH7LqUNjF7"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -1149,20 +1061,24 @@
       "url": "https://open.spotify.com/track/37kqA5lnqJMJzDXeVuiTgj"
     },
     {
-      "added_at": "2022-04-15 04:02:00",
+      "added_at": "2021-08-13 04:01:00",
       "album": {
-        "name": "Blue",
-        "url": "https://open.spotify.com/album/6OXq9kgHo787SpOBuRp9qk"
+        "name": "Set Sail",
+        "url": "https://open.spotify.com/album/32WepNq3Z0hU5Ku7jJqu7u"
       },
       "artists": [
         {
-          "name": "Jessy J",
-          "url": "https://open.spotify.com/artist/4WrtIP5PIekZwaAZo1tb0x"
+          "name": "The Groove Project",
+          "url": "https://open.spotify.com/artist/0CR2LOBZJI8NrzYZykxQe5"
+        },
+        {
+          "name": "Derek Sherinian",
+          "url": "https://open.spotify.com/artist/4ZCINPmMmZUh4H1qNqzIxq"
         }
       ],
-      "duration_ms": 216550,
-      "name": "Dig It",
-      "url": "https://open.spotify.com/track/2zhLDKuqClyWEJJfHVGe2y"
+      "duration_ms": 209727,
+      "name": "Set Sail",
+      "url": "https://open.spotify.com/track/1GAX53Nnul0CQx3GawFpSS"
     },
     {
       "added_at": "2021-11-12 04:00:00",
@@ -1185,6 +1101,58 @@
       "url": "https://open.spotify.com/track/5qerN3vnJd2zLapuo3F4Qr"
     },
     {
+      "added_at": "2021-11-05 04:01:00",
+      "album": {
+        "name": "And Now This",
+        "url": "https://open.spotify.com/album/4WdiTN5Eqnyqb2YUsx2Dml"
+      },
+      "artists": [
+        {
+          "name": "Paul Taylor",
+          "url": "https://open.spotify.com/artist/3wBSOZFd5KLsEZ1yoVSICQ"
+        }
+      ],
+      "duration_ms": 223426,
+      "name": "And Now This",
+      "url": "https://open.spotify.com/track/3SpVmdLcEGAu5YSu7eq1IK"
+    },
+    {
+      "added_at": "2021-06-25 04:02:00",
+      "album": {
+        "name": "Early Sunrise",
+        "url": "https://open.spotify.com/album/3pqWeJefX6sZrmjbo3bfCp"
+      },
+      "artists": [
+        {
+          "name": "Igor Gerzina",
+          "url": "https://open.spotify.com/artist/13OiSfq8TINbHcI9X1BLAW"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Early Sunrise",
+      "url": "https://open.spotify.com/track/4ZNXj5RoCXuczRCth4t0DT"
+    },
+    {
+      "added_at": "2021-06-11 04:01:00",
+      "album": {
+        "name": "A to Z",
+        "url": "https://open.spotify.com/album/0bZqdeW8LqD3GTNnYuxGzB"
+      },
+      "artists": [
+        {
+          "name": "Andrew Neu",
+          "url": "https://open.spotify.com/artist/2UvENYRkDPxhXmp92vkzhF"
+        },
+        {
+          "name": "Rob Zinn",
+          "url": "https://open.spotify.com/artist/6I8oFZvFlvaEXz6ZYhEB65"
+        }
+      ],
+      "duration_ms": 249813,
+      "name": "A to Z",
+      "url": "https://open.spotify.com/track/6sJwnAnUD18u9MysrfzY0g"
+    },
+    {
       "added_at": "2022-01-21 05:02:00",
       "album": {
         "name": "SHINE!",
@@ -1203,6 +1171,38 @@
       "duration_ms": 261640,
       "name": "SHINE!",
       "url": "https://open.spotify.com/track/2MBoLsxCadKKMNTcpt8yGU"
+    },
+    {
+      "added_at": "2022-02-14 15:14:54",
+      "album": {
+        "name": "A Midnight Rendezvous",
+        "url": "https://open.spotify.com/album/3up7BY3W1z8pMNipUQOl7x"
+      },
+      "artists": [
+        {
+          "name": "David Benoit",
+          "url": "https://open.spotify.com/artist/1OLWM7nUNcTjZ9ct4DEPZu"
+        }
+      ],
+      "duration_ms": 237586,
+      "name": "Pioneer Town",
+      "url": "https://open.spotify.com/track/53djpTONT01aF8xYjuLosr"
+    },
+    {
+      "added_at": "2022-04-15 04:02:00",
+      "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/6OXq9kgHo787SpOBuRp9qk"
+      },
+      "artists": [
+        {
+          "name": "Jessy J",
+          "url": "https://open.spotify.com/artist/4WrtIP5PIekZwaAZo1tb0x"
+        }
+      ],
+      "duration_ms": 216550,
+      "name": "Dig It",
+      "url": "https://open.spotify.com/track/2zhLDKuqClyWEJJfHVGe2y"
     },
     {
       "added_at": "2022-01-14 05:01:00",
@@ -1229,38 +1229,6 @@
       "url": "https://open.spotify.com/track/5gOXsqoOraGd2mqEMj0LIw"
     },
     {
-      "added_at": "2022-07-01 04:02:00",
-      "album": {
-        "name": "Honest",
-        "url": "https://open.spotify.com/album/4masdetfPsUOpFF2yJ7EVB"
-      },
-      "artists": [
-        {
-          "name": "Ryan Montano",
-          "url": "https://open.spotify.com/artist/60c1zWUz1UhsnemRwziySF"
-        }
-      ],
-      "duration_ms": 374536,
-      "name": "Honest",
-      "url": "https://open.spotify.com/track/3GJ5EcLudl4JrUld9sfD7o"
-    },
-    {
-      "added_at": "2022-03-18 05:00:00",
-      "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/6LvqB0xOeML6cyQdw33y1O"
-      },
-      "artists": [
-        {
-          "name": "Mindi Abair",
-          "url": "https://open.spotify.com/artist/4NpYuUHLxUMcGSzuYxv3W4"
-        }
-      ],
-      "duration_ms": 316061,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/3etLxAosogqfbvsLyBh58S"
-    },
-    {
       "added_at": "2022-04-29 04:02:00",
       "album": {
         "name": "Ticket to Pittsburgh",
@@ -1283,6 +1251,38 @@
       "duration_ms": 323500,
       "name": "Ticket to Pittsburgh",
       "url": "https://open.spotify.com/track/108rbeIEFrj81JWNXXWsX4"
+    },
+    {
+      "added_at": "2022-03-18 05:00:00",
+      "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/6LvqB0xOeML6cyQdw33y1O"
+      },
+      "artists": [
+        {
+          "name": "Mindi Abair",
+          "url": "https://open.spotify.com/artist/4NpYuUHLxUMcGSzuYxv3W4"
+        }
+      ],
+      "duration_ms": 316061,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/3etLxAosogqfbvsLyBh58S"
+    },
+    {
+      "added_at": "2022-07-01 04:02:00",
+      "album": {
+        "name": "Honest",
+        "url": "https://open.spotify.com/album/4masdetfPsUOpFF2yJ7EVB"
+      },
+      "artists": [
+        {
+          "name": "Ryan Montano",
+          "url": "https://open.spotify.com/artist/60c1zWUz1UhsnemRwziySF"
+        }
+      ],
+      "duration_ms": 374536,
+      "name": "Honest",
+      "url": "https://open.spotify.com/track/3GJ5EcLudl4JrUld9sfD7o"
     },
     {
       "added_at": "2022-06-03 04:02:00",
@@ -1373,6 +1373,22 @@
       "url": "https://open.spotify.com/track/6bGPsVqyQyTs1QPus8AFAP"
     },
     {
+      "added_at": "2022-03-18 05:00:00",
+      "album": {
+        "name": "Chicago Morning",
+        "url": "https://open.spotify.com/album/32yiS9sXWBCJvOvCLU276N"
+      },
+      "artists": [
+        {
+          "name": "Spontaneous Groovin' Combustion",
+          "url": "https://open.spotify.com/artist/48jWgkXNkHqn6SVQZniYe5"
+        }
+      ],
+      "duration_ms": 260398,
+      "name": "Chicago Morning",
+      "url": "https://open.spotify.com/track/2E6pU3PbdItkREHN9IYCJb"
+    },
+    {
       "added_at": "2022-05-06 04:02:00",
       "album": {
         "name": "Piano Tales",
@@ -1387,22 +1403,6 @@
       "duration_ms": 248712,
       "name": "Safe and Sound",
       "url": "https://open.spotify.com/track/64YEp1YNctGTXdIMySqsWC"
-    },
-    {
-      "added_at": "2021-08-27 04:01:00",
-      "album": {
-        "name": "Somewhere out There (Radio Edit)",
-        "url": "https://open.spotify.com/album/3M8b63zXXmJjilReykK7dw"
-      },
-      "artists": [
-        {
-          "name": "Gregory Goodloe",
-          "url": "https://open.spotify.com/artist/54rVFwo1rV4sK63FyFCJBY"
-        }
-      ],
-      "duration_ms": 228223,
-      "name": "Somewhere out There - Radio Edit",
-      "url": "https://open.spotify.com/track/1waCZ5tOkptUrXsrnPhFWI"
     }
   ],
   "unique_name": "Nu-Smooth",

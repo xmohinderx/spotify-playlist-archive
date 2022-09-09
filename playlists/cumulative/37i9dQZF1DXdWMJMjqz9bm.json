@@ -1536,6 +1536,24 @@
     },
     {
       "album": {
+        "name": "less than three",
+        "url": "https://open.spotify.com/album/6pVtFoRe5MnaTC751A2paD"
+      },
+      "artists": [
+        {
+          "name": "Foster",
+          "url": "https://open.spotify.com/artist/6vCIRD06VaQwwaZS0TqiCz"
+        }
+      ],
+      "date_added": "2022-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163200,
+      "name": "digital gf",
+      "url": "https://open.spotify.com/track/5vXkAnl3w8PadChqmfLZFJ"
+    },
+    {
+      "album": {
         "name": "dimples",
         "url": "https://open.spotify.com/album/3QBCwMQRAUXQ87OJB9rSlS"
       },
@@ -5563,6 +5581,24 @@
       "duration_ms": 137263,
       "name": "Smooth",
       "url": "https://open.spotify.com/track/4fI6dj7tYo7THZE5EJwPHZ"
+    },
+    {
+      "album": {
+        "name": "Sneakers",
+        "url": "https://open.spotify.com/album/203lgkbyUvtaZAExgXr3Ge"
+      },
+      "artists": [
+        {
+          "name": "Knox",
+          "url": "https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX"
+        }
+      ],
+      "date_added": "2022-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184285,
+      "name": "Sneakers",
+      "url": "https://open.spotify.com/track/3eLfICfDzCQrP8pOajVGiJ"
     },
     {
       "album": {

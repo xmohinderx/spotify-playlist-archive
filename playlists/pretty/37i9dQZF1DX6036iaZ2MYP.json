@@ -1,12 +1,12 @@
 {
   "description": "Tracks popping off in the global Afro scene. Cover: Nnelg",
-  "num_followers": 28870,
+  "num_followers": 29043,
   "original_name": "Peppeh",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjA2OTcyMCwwMDAwMDAwMGE4ZWVmYjU0YzMxOTNjNWNmMWIxMmVmZjVhMGQwNzBj",
+  "snapshot_id": "MTY2MjY3NDQ2MCwwMDAwMDAwMGNjMzYyZGE0MjY0NzI4YTA1Y2IzYjQ5OGYyNmE3ODJm",
   "tracks": [
     {
       "added_at": "2022-09-01 22:02:00",
@@ -33,6 +33,26 @@
       "url": "https://open.spotify.com/track/61tg9mVHe87QwDWYW4VJoD"
     },
     {
+      "added_at": "2022-09-08 22:01:00",
+      "album": {
+        "name": "When I See You",
+        "url": "https://open.spotify.com/album/6uP3M17zzbY0VpvJrlYil0"
+      },
+      "artists": [
+        {
+          "name": "Nana Fofie",
+          "url": "https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW"
+        },
+        {
+          "name": "Jaywillz",
+          "url": "https://open.spotify.com/artist/0eYIT8bKfvhhDHFH1A0rxk"
+        }
+      ],
+      "duration_ms": 159127,
+      "name": "When I See You",
+      "url": "https://open.spotify.com/track/22fHc3vuTK2kxjrNSJrA5J"
+    },
+    {
       "added_at": "2022-09-01 22:02:00",
       "album": {
         "name": "Gentility (feat. Wande Coal)",
@@ -51,6 +71,42 @@
       "duration_ms": 225729,
       "name": "Gentility",
       "url": "https://open.spotify.com/track/3vXFxsPqMgw4SYP7fkWicM"
+    },
+    {
+      "added_at": "2022-09-08 22:01:00",
+      "album": {
+        "name": "Looking for Somebody",
+        "url": "https://open.spotify.com/album/3V3asywN4oLR2McSuXD6gk"
+      },
+      "artists": [
+        {
+          "name": "Angelo King",
+          "url": "https://open.spotify.com/artist/1Q0kuvgP9fC9Y5OCP1mzOV"
+        },
+        {
+          "name": "JMANI",
+          "url": "https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3"
+        }
+      ],
+      "duration_ms": 169170,
+      "name": "Looking for Somebody",
+      "url": "https://open.spotify.com/track/5D6rGaauri3oyZAXM5V2q2"
+    },
+    {
+      "added_at": "2022-09-08 22:01:00",
+      "album": {
+        "name": "Champagne",
+        "url": "https://open.spotify.com/album/5JBbEJHvC8ux9kYGbdu0od"
+      },
+      "artists": [
+        {
+          "name": "KiDi",
+          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
+        }
+      ],
+      "duration_ms": 148624,
+      "name": "Champagne",
+      "url": "https://open.spotify.com/track/76aYqlXTeHaYMunCPkm3qZ"
     },
     {
       "added_at": "2022-09-01 22:02:00",
@@ -75,6 +131,22 @@
       "duration_ms": 166153,
       "name": "Lock That Door",
       "url": "https://open.spotify.com/track/4poAVGGbeNk2elYU5uIYdJ"
+    },
+    {
+      "added_at": "2022-09-08 22:01:00",
+      "album": {
+        "name": "Control",
+        "url": "https://open.spotify.com/album/6PDTbnQyukMCnD94FO1Uuu"
+      },
+      "artists": [
+        {
+          "name": "Dante Moris",
+          "url": "https://open.spotify.com/artist/7d42wwAzJlkmO6nvo70tTa"
+        }
+      ],
+      "duration_ms": 142001,
+      "name": "Control",
+      "url": "https://open.spotify.com/track/33aYQD8u61dxbkvYatDWa5"
     },
     {
       "added_at": "2022-09-01 22:02:00",

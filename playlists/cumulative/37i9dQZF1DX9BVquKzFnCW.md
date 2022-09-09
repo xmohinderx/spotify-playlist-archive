@@ -2,7 +2,7 @@
 
 ### [Brunch Jazz](https://open.spotify.com/playlist/37i9dQZF1DX9BVquKzFnCW)
 
-> Set the perfect brunch mood with instrumental and vocal jazz.
+> Set the perfect brunch mood with instrumental and vocal Jazz.
 
 138 songs - 12 hr 13 min - [published](https://open.spotify.com/playlist/1120v1OL3dMNoviL6OZjaA)
 
@@ -62,7 +62,7 @@
 | [I'm Just A Lucky So And So](https://open.spotify.com/track/0ELeaBGn9P1cddgiyz6tEi) | [Kenny Burrell](https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB) | [Soul Call](https://open.spotify.com/album/15ccY5H0H0HAVSLRuZwo1S) | 5:12 | 2022-02-23 |  |
 | [If I Were A Bell](https://open.spotify.com/track/6cp5rZOUVR0DWMf97J1VLy) | [Gerald Clayton](https://open.spotify.com/artist/5mYw31MXiGnqTMliAcl7m8) | [Bond: The Paris Sessions](https://open.spotify.com/album/7Gz8HtQfjCxFNNFD67MuI2) | 7:46 | 2022-02-23 |  |
 | [In A Sentimental Mood](https://open.spotify.com/track/3glQOWRCAQIrCnQhWBEFSL) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR), [The Modern Jazz Quartet](https://open.spotify.com/artist/7wBFjZMHsC6nfV0HOSd6uI) | [Sonny Rollins With The Modern Jazz Quartet](https://open.spotify.com/album/1Vnn90iSXyOn5jCh0l9Usl) | 3:17 | 2022-02-23 |  |
-| [In The Wee Small Hours Of The Morning](https://open.spotify.com/track/4c9u4ruTL1xWv2YcnS8AjN) | [Gerry Mulligan Sextet](https://open.spotify.com/artist/6tzN9Ew9w6JB0UQr8culs1) | [Night Lights \(Expanded Edition\)](https://open.spotify.com/album/1uJ9OJIgmgj4ta8xjq9nEJ) | 5:39 | 2022-02-23 |  |
+| [In The Wee Small Hours Of The Morning](https://open.spotify.com/track/4c9u4ruTL1xWv2YcnS8AjN) | [Gerry Mulligan Sextet](https://open.spotify.com/artist/6tzN9Ew9w6JB0UQr8culs1) | [Night Lights \(Expanded Edition\)](https://open.spotify.com/album/1uJ9OJIgmgj4ta8xjq9nEJ) | 5:39 | 2022-02-23 | 2022-09-09 |
 | [Inside Impromptu](https://open.spotify.com/track/4r4DOQ4OaGA3TsSqGqA2HE) | [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K) | [Jeru](https://open.spotify.com/album/2ujmzTWpBs0rKq6lelbuWP) | 5:32 | 2022-02-23 |  |
 | [It Never Entered My Mind](https://open.spotify.com/track/2XuM2irHH6kaHk4np8VIHL) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y), [Gary Peacock](https://open.spotify.com/artist/2k1Qcdf3sOJYCNZEPus58Y), [Jack DeJohnette](https://open.spotify.com/artist/7rDjbKTLlpNYJRWMm7QVxU) | [Standards Vol.1](https://open.spotify.com/album/6g4tw8mwge2gJKqJQxE5r3) | 6:42 | 2022-02-23 |  |
 | [Jacqui](https://open.spotify.com/track/1uwY1ZqURcKJ9Fd7foMxPb) | [Clifford Brown](https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO), [Max Roach Quintet](https://open.spotify.com/artist/6ynifrh6ZrWXHAywnUlNV3) | [Study In Brown](https://open.spotify.com/album/3158RZskTkHMhPvQICUeQ1) | 5:11 | 2022-02-23 |  |
@@ -80,7 +80,7 @@
 | [Manhattan](https://open.spotify.com/track/6BmigYi3LRJ77xibqSX6OV) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR) | [Brass/Trio](https://open.spotify.com/album/51xQakHIfX5FVfXTLRcUon) | 4:30 | 2022-02-23 |  |
 | [March On Selma \- Digitally Remastered](https://open.spotify.com/track/2hLe29doIBzGuNI0uTyAHV) | [Blue Mitchell](https://open.spotify.com/artist/420BtT2Zyze7Eb9zqHcliW) | [Down With It](https://open.spotify.com/album/1iuAU2WlRUkQzNd7iquQBG) | 6:15 | 2022-02-23 | 2022-07-29 |
 | [March On Selma \- Remastered](https://open.spotify.com/track/2J8zEC95MQuuQSSzdVXJg5) | [Blue Mitchell](https://open.spotify.com/artist/420BtT2Zyze7Eb9zqHcliW) | [Down With It](https://open.spotify.com/album/4CFxKByN51JAogIYt94jMF) | 6:16 | 2022-06-22 |  |
-| [Midnight Blue](https://open.spotify.com/track/025YhFIfBdUp5CNSXRCLUL) | [Oliver Nelson](https://open.spotify.com/artist/2nQKUeZeleLGNsJj6WLUXN), [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [More Blues And The Abstract Truth](https://open.spotify.com/album/1seITlhNRDbQbTEEDzdbie) | 4:04 | 2022-02-23 | 2022-07-29 |
+| [Midnight Blue](https://open.spotify.com/track/025YhFIfBdUp5CNSXRCLUL) | [Oliver Nelson](https://open.spotify.com/artist/2nQKUeZeleLGNsJj6WLUXN), [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [More Blues And The Abstract Truth](https://open.spotify.com/album/1seITlhNRDbQbTEEDzdbie) | 4:04 | 2022-02-23 |  |
 | [Moon River](https://open.spotify.com/track/1xHgQN5A8a7iNi9AHxm6wl) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [Masterjazz: Vince Guaraldi Trio](https://open.spotify.com/album/38HIowIbOOjNVilz8MqIam) | 5:21 | 2022-02-23 | 2022-06-10 |
 | [Moonlight In Vermont \- Live At The Pershing, Chicago, 1958](https://open.spotify.com/track/68oYY9hUduyqbKZpOUi4Iq) | [Ahmad Jamal Trio](https://open.spotify.com/artist/0BqALs1lInR9TTOulUADH7) | [Ahmad Jamal At The Pershing: But Not For Me](https://open.spotify.com/album/3nUwuIFxJid3GQo8c4F6HY) | 3:10 | 2022-04-13 |  |
 | [Moten Swing](https://open.spotify.com/track/1haPzI492gIfPLv27qKUHA) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Night Train \(Expanded Edition\)](https://open.spotify.com/album/3gPOWmWT0q7Ygp95Xiuw1v) | 2:52 | 2022-04-13 |  |

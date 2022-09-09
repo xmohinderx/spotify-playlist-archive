@@ -1,12 +1,12 @@
 {
   "description": "The best of modern blues rock. Cover: Anthony Gomes",
-  "num_followers": 132776,
+  "num_followers": 132903,
   "original_name": "Modern Blues Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjA5MTMyMCwwMDAwMDAwMDFkNDc1OWJhZWRmODFhYjRiODM1OGFhZTdmMzQwYmY4",
+  "snapshot_id": "MTY2MjA5MTMyMCwwMDAwMDAwMDY5OTdiM2MyYzNiNDZhZjliMTE0YjI0ZTY5ODNhNGI5",
   "tracks": [
     {
       "added_at": "2022-08-26 04:02:00",
@@ -299,22 +299,6 @@
     {
       "added_at": "2020-10-16 04:02:00",
       "album": {
-        "name": "Feral Roots",
-        "url": "https://open.spotify.com/album/2OsED4DmBABqdP9NwGUpAu"
-      },
-      "artists": [
-        {
-          "name": "Rival Sons",
-          "url": "https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf"
-        }
-      ],
-      "duration_ms": 260133,
-      "name": "Shooting Stars",
-      "url": "https://open.spotify.com/track/00kbL0ei9bVKAp9I23vF1l"
-    },
-    {
-      "added_at": "2020-10-16 04:02:00",
-      "album": {
         "name": "Spirit's Furnace",
         "url": "https://open.spotify.com/album/3cQWEV1dkuOosKa2EJNaxj"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 194331,
       "name": "The Heat",
       "url": "https://open.spotify.com/track/0XEUKN8CnHAKNmWmK1FG0d"
+    },
+    {
+      "added_at": "2020-10-16 04:02:00",
+      "album": {
+        "name": "Feral Roots",
+        "url": "https://open.spotify.com/album/2OsED4DmBABqdP9NwGUpAu"
+      },
+      "artists": [
+        {
+          "name": "Rival Sons",
+          "url": "https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf"
+        }
+      ],
+      "duration_ms": 260133,
+      "name": "Shooting Stars",
+      "url": "https://open.spotify.com/track/00kbL0ei9bVKAp9I23vF1l"
     },
     {
       "added_at": "2021-04-30 04:01:00",
@@ -399,22 +399,6 @@
     {
       "added_at": "2020-10-16 04:02:00",
       "album": {
-        "name": "Feral Roots",
-        "url": "https://open.spotify.com/album/2OsED4DmBABqdP9NwGUpAu"
-      },
-      "artists": [
-        {
-          "name": "Rival Sons",
-          "url": "https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf"
-        }
-      ],
-      "duration_ms": 284786,
-      "name": "Too Bad",
-      "url": "https://open.spotify.com/track/6CCkq87g6MxHZ5uCYCqdk1"
-    },
-    {
-      "added_at": "2020-10-16 04:02:00",
-      "album": {
         "name": "Black Holes",
         "url": "https://open.spotify.com/album/6ESjsIQSb9iKqCkDo3S2sc"
       },
@@ -461,26 +445,6 @@
       "url": "https://open.spotify.com/track/3vlkTPYYJ91dZyQYAci4rD"
     },
     {
-      "added_at": "2022-03-18 05:00:00",
-      "album": {
-        "name": "Wicked Girl",
-        "url": "https://open.spotify.com/album/02wlom1pEz40ngTampIPeU"
-      },
-      "artists": [
-        {
-          "name": "Tyler Boone",
-          "url": "https://open.spotify.com/artist/1Rj1i72Y5eJHan2pm2cqKz"
-        },
-        {
-          "name": "Peter Keys",
-          "url": "https://open.spotify.com/artist/4B8ENwGA7LD85G3DiZSPu7"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Wicked Girl",
-      "url": "https://open.spotify.com/track/6AZwTnQm2guVtmaKCINreN"
-    },
-    {
       "added_at": "2020-10-16 04:02:00",
       "album": {
         "name": "Holy Ghost Fire",
@@ -513,6 +477,42 @@
       "url": "https://open.spotify.com/track/2lYTIEA8KJQWysrhXDogcD"
     },
     {
+      "added_at": "2020-10-16 04:02:00",
+      "album": {
+        "name": "Feral Roots",
+        "url": "https://open.spotify.com/album/2OsED4DmBABqdP9NwGUpAu"
+      },
+      "artists": [
+        {
+          "name": "Rival Sons",
+          "url": "https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf"
+        }
+      ],
+      "duration_ms": 284786,
+      "name": "Too Bad",
+      "url": "https://open.spotify.com/track/6CCkq87g6MxHZ5uCYCqdk1"
+    },
+    {
+      "added_at": "2022-03-18 05:00:00",
+      "album": {
+        "name": "Wicked Girl",
+        "url": "https://open.spotify.com/album/02wlom1pEz40ngTampIPeU"
+      },
+      "artists": [
+        {
+          "name": "Tyler Boone",
+          "url": "https://open.spotify.com/artist/1Rj1i72Y5eJHan2pm2cqKz"
+        },
+        {
+          "name": "Peter Keys",
+          "url": "https://open.spotify.com/artist/4B8ENwGA7LD85G3DiZSPu7"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Wicked Girl",
+      "url": "https://open.spotify.com/track/6AZwTnQm2guVtmaKCINreN"
+    },
+    {
       "added_at": "2021-04-16 04:01:00",
       "album": {
         "name": "Delta Kream",
@@ -527,22 +527,6 @@
       "duration_ms": 232048,
       "name": "Crawling Kingsnake - Edit",
       "url": "https://open.spotify.com/track/1JM1iGpu8HqprmrKi1ukuP"
-    },
-    {
-      "added_at": "2022-04-29 04:02:00",
-      "album": {
-        "name": "Mojo Hand",
-        "url": "https://open.spotify.com/album/1RKJoxtfx1GmCD3Mi1u31g"
-      },
-      "artists": [
-        {
-          "name": "The Cold Stares",
-          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
-        }
-      ],
-      "duration_ms": 184676,
-      "name": "Mojo Hand",
-      "url": "https://open.spotify.com/track/1zG6mxl8KZE8Q4FBymh466"
     },
     {
       "added_at": "2020-10-16 04:02:00",
@@ -575,6 +559,22 @@
       "duration_ms": 197782,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/51X5Rk23XIUiUid7GVlQZf"
+    },
+    {
+      "added_at": "2022-04-29 04:02:00",
+      "album": {
+        "name": "Mojo Hand",
+        "url": "https://open.spotify.com/album/1RKJoxtfx1GmCD3Mi1u31g"
+      },
+      "artists": [
+        {
+          "name": "The Cold Stares",
+          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
+        }
+      ],
+      "duration_ms": 184676,
+      "name": "Mojo Hand",
+      "url": "https://open.spotify.com/track/1zG6mxl8KZE8Q4FBymh466"
     },
     {
       "added_at": "2021-02-19 05:01:00",

@@ -4,7 +4,7 @@
 
 > Summer memories from yesteryear!
 
-115 songs - 6 hr 46 min - [published](https://open.spotify.com/playlist/7bza4DZB9dW08P4zWu1Br4)
+116 songs - 6 hr 49 min - [published](https://open.spotify.com/playlist/7bza4DZB9dW08P4zWu1Br4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,8 @@
 | [Rather Be \(feat\. Jess Glynne\)](https://open.spotify.com/track/0TVV2gFROJaB3kIZyCUvIY) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [New Eyes](https://open.spotify.com/album/0VDMjDj2AwPQXWQ7XhN9gG) | 3:47 | 2021-05-16 | 2022-07-29 |
 | [Rather Be \(feat\. Jess Glynne\)](https://open.spotify.com/track/0am001WwFBVGDGLwRh3ixi) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [New Eyes](https://open.spotify.com/album/4a6DxkhmMvvEdPXxm4ergN) | 3:47 | 2021-05-16 |  |
 | [Red Alert](https://open.spotify.com/track/2S5CHSeaE3s6zCePzAHJuH) | [Basement Jaxx](https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ) | [The Singles](https://open.spotify.com/album/7cQ3HqZc1Rz1H6Wcm0IhW4) | 3:37 | 2021-05-16 | 2022-07-29 |
-| [Red Alert \- Jaxx Radio Mix](https://open.spotify.com/track/2F5QeVVmCOuelAkRbni1bW) | [Basement Jaxx](https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ) | [The Singles](https://open.spotify.com/album/1Ro3FkUjPS5zwzdTfcNoI3) | 3:38 | 2021-05-16 |  |
+| [Red Alert \- Jaxx Radio Mix](https://open.spotify.com/track/0Z3Y5cWOPaXIBI08KKDVTO) | [Basement Jaxx](https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ) | [Red Alert](https://open.spotify.com/album/60O0wPhfgkZGGKTJho6bHS) | 3:38 | 2021-05-16 |  |
+| [Red Alert \- Jaxx Radio Mix](https://open.spotify.com/track/2F5QeVVmCOuelAkRbni1bW) | [Basement Jaxx](https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ) | [The Singles](https://open.spotify.com/album/1Ro3FkUjPS5zwzdTfcNoI3) | 3:38 | 2021-05-16 | 2022-09-09 |
 | [Red Red Wine](https://open.spotify.com/track/4uOKFydzAejjSFqYbv1XPt) | [UB40](https://open.spotify.com/artist/69MEO1AADKg1IZrq2XLzo5) | [The Very Best Of](https://open.spotify.com/album/05owfigVGpgPe7RKJG1hum) | 3:03 | 2021-05-16 |  |
 | [Riptide](https://open.spotify.com/track/1KqlVt63Q4bl1VdSlymr5C) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Riptide](https://open.spotify.com/album/2rn4ILhjtOrEnyYlHTUDVz) | 3:24 | 2021-05-16 | 2022-07-29 |
 | [Riptide](https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away \(Special Edition\)](https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH) | 3:24 | 2021-05-16 |  |

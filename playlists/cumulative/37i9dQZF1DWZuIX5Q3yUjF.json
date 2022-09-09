@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Il meglio dell'R&B italiano. Cover: Angie",
+  "description": "Il meglio dell'R&B italiano. Cover: Plastica, Missey",
   "name": "anima R&B",
   "published_playlist_ids": [
     "6baLMOVUAzKiyXO33cGiRz"
@@ -157,7 +157,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 169457,
       "name": "balliamo",
       "url": "https://open.spotify.com/track/2QXUDeLfGYGm13vx6GUpBr"
@@ -461,7 +461,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 177107,
       "name": "Clich\u00e9",
       "url": "https://open.spotify.com/track/4sCu7KuollkAt9xFFC7upq"
@@ -621,7 +621,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 179240,
       "name": "confessioni",
       "url": "https://open.spotify.com/track/6DDjZYfWPO9f9wd5B8F9RO"
@@ -661,7 +661,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 200058,
       "name": "Cos'\u00e8 una regola",
       "url": "https://open.spotify.com/track/4hZat4zoX4ghX3da67nYfl"
@@ -803,7 +803,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 166530,
       "name": "Domani",
       "url": "https://open.spotify.com/track/2m8xEUL7S1Q0qmYYNjS2rQ"
@@ -1144,6 +1144,32 @@
     },
     {
       "album": {
+        "name": "Giovani",
+        "url": "https://open.spotify.com/album/5VSPR5wdl2yxoszGQaTaO5"
+      },
+      "artists": [
+        {
+          "name": "LocoLab",
+          "url": "https://open.spotify.com/artist/0Z0q0SK9yVrufu1rAY3iOw"
+        },
+        {
+          "name": "G-laspada",
+          "url": "https://open.spotify.com/artist/73RmVTPm4JCwKXXZz2V7yW"
+        },
+        {
+          "name": "Il III",
+          "url": "https://open.spotify.com/artist/4gOxU8ykTDVpC7ErTI1Cv3"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Giovani",
+      "url": "https://open.spotify.com/track/4r5AWNZpuNmAqMxFZ2cLCM"
+    },
+    {
+      "album": {
         "name": "Grazie",
         "url": "https://open.spotify.com/album/6avdsvWmlitDikFWDECKiT"
       },
@@ -1261,7 +1287,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 136800,
       "name": "IL TEMPO DELLE MELE",
       "url": "https://open.spotify.com/track/0fyXzFs8JwlCQeg5SKIksT"
@@ -1345,7 +1371,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 136000,
       "name": "Io sono in paranoia",
       "url": "https://open.spotify.com/track/4TvvAnvrvyQmdJgv7FASaF"
@@ -1501,7 +1527,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 201250,
       "name": "La pi\u00f9 bella",
       "url": "https://open.spotify.com/track/6mBrMo2CUoou15ZRqJpmI3"
@@ -1805,7 +1831,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 180086,
       "name": "LUNES",
       "url": "https://open.spotify.com/track/3ux6HhWQNXS4fjTGuyZcru"
@@ -2046,6 +2072,24 @@
     },
     {
       "album": {
+        "name": "Nunn 'o voglio sape'",
+        "url": "https://open.spotify.com/album/0Jz3rP9MZ3VUrMKSlRkBH8"
+      },
+      "artists": [
+        {
+          "name": "LA NI\u00d1A",
+          "url": "https://open.spotify.com/artist/7F0wzg6BIXNOSrh8ixhobj"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172027,
+      "name": "Nunn 'o voglio sape'",
+      "url": "https://open.spotify.com/track/31i7zRLLh1MyLfk2mblk0d"
+    },
+    {
+      "album": {
         "name": "San Castrese",
         "url": "https://open.spotify.com/album/3rYuPwrwUSE7wEE89lcC4G"
       },
@@ -2061,6 +2105,24 @@
       "duration_ms": 188400,
       "name": "O'tiempo",
       "url": "https://open.spotify.com/track/5Ye3aRSi3Ou40z82AT9nGZ"
+    },
+    {
+      "album": {
+        "name": "OCCHI STANCHI",
+        "url": "https://open.spotify.com/album/3vON14VlAxP71Md2R3Tv24"
+      },
+      "artists": [
+        {
+          "name": "Martina",
+          "url": "https://open.spotify.com/artist/5FUuvvK6pzPDOJsRl10Z8p"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143000,
+      "name": "OCCHI STANCHI",
+      "url": "https://open.spotify.com/track/1axi47Y55klJTxAGRrIweI"
     },
     {
       "album": {
@@ -2755,7 +2817,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 212250,
       "name": "Stai tra fra",
       "url": "https://open.spotify.com/track/0bP9y38PARMlFUrT984lp0"
@@ -2809,7 +2871,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 170322,
       "name": "Sul fondo",
       "url": "https://open.spotify.com/track/7Hya6iANpS8g6A3I1mEnJX"

@@ -1,12 +1,12 @@
 {
   "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: LUCY) (\ud56b\ud55c \uad6d\ub0b4 \ub85d\uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 183526,
+  "num_followers": 183575,
   "original_name": "Cool K'IDs Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjM5MjcwMCwwMDAwMDAwMGZiYmI1MWUwODlkOTgxNzRjZDQxZWVjMzczOTY5ODNh",
+  "snapshot_id": "MTY2MjM5MjcwMCwwMDAwMDAwMDRmMjc2OWY5M2U0NGM1NTA0OWUxNjdiMGM5M2EyNzc2",
   "tracks": [
     {
       "added_at": "2022-09-05 15:45:00",
@@ -503,22 +503,6 @@
     {
       "added_at": "2022-09-05 15:45:00",
       "album": {
-        "name": "COLORFUL TRAUMA",
-        "url": "https://open.spotify.com/album/2A3y4U3r7xzgicuJYisnOe"
-      },
-      "artists": [
-        {
-          "name": "WOODZ",
-          "url": "https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "I hate you",
-      "url": "https://open.spotify.com/track/1XlSkQeITGEv8r6HIZfpfX"
-    },
-    {
-      "added_at": "2022-09-05 15:45:00",
-      "album": {
         "name": "NAN CHUN \ub09c\ucd98",
         "url": "https://open.spotify.com/album/5aMMzZZNRZ1yBr6aArv4Dh"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 229493,
       "name": "NAN CHUN \ub09c\ucd98",
       "url": "https://open.spotify.com/track/320twJYO0LC64eWCuCC5vj"
+    },
+    {
+      "added_at": "2022-09-05 15:45:00",
+      "album": {
+        "name": "COLORFUL TRAUMA",
+        "url": "https://open.spotify.com/album/2A3y4U3r7xzgicuJYisnOe"
+      },
+      "artists": [
+        {
+          "name": "WOODZ",
+          "url": "https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "I hate you",
+      "url": "https://open.spotify.com/track/1XlSkQeITGEv8r6HIZfpfX"
     },
     {
       "added_at": "2022-09-05 15:45:00",
@@ -775,18 +775,18 @@
     {
       "added_at": "2022-09-05 15:45:00",
       "album": {
-        "name": "C.I.T.T (Cheese in the Trap)",
-        "url": "https://open.spotify.com/album/0EE8K1IGciwDPMiURGtEBf"
+        "name": "Eternal",
+        "url": "https://open.spotify.com/album/6JuoNIefYEpSGTT0lUMIX3"
       },
       "artists": [
         {
-          "name": "Moon Byul",
-          "url": "https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL"
+          "name": "Young K",
+          "url": "https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe"
         }
       ],
-      "duration_ms": 177400,
-      "name": "C.I.T.T (Cheese in the Trap)",
-      "url": "https://open.spotify.com/track/0wp8u1swtx3sVvJw3dxXmY"
+      "duration_ms": 197605,
+      "name": "Guard You",
+      "url": "https://open.spotify.com/track/3AQLNP4d68hIenp2KpwLlp"
     },
     {
       "added_at": "2022-09-05 15:45:00",
@@ -807,18 +807,18 @@
     {
       "added_at": "2022-09-05 15:45:00",
       "album": {
-        "name": "Eternal",
-        "url": "https://open.spotify.com/album/6JuoNIefYEpSGTT0lUMIX3"
+        "name": "C.I.T.T (Cheese in the Trap)",
+        "url": "https://open.spotify.com/album/0EE8K1IGciwDPMiURGtEBf"
       },
       "artists": [
         {
-          "name": "Young K",
-          "url": "https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe"
+          "name": "Moon Byul",
+          "url": "https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL"
         }
       ],
-      "duration_ms": 197605,
-      "name": "Guard You",
-      "url": "https://open.spotify.com/track/3AQLNP4d68hIenp2KpwLlp"
+      "duration_ms": 177400,
+      "name": "C.I.T.T (Cheese in the Trap)",
+      "url": "https://open.spotify.com/track/0wp8u1swtx3sVvJw3dxXmY"
     }
   ],
   "unique_name": "Cool K'IDs Rock",

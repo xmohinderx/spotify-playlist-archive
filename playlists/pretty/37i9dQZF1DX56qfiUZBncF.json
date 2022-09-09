@@ -1,12 +1,12 @@
 {
   "description": "Let these innovative tracks spark your creativity and inspiration.",
-  "num_followers": 373493,
+  "num_followers": 373528,
   "original_name": "Creativity Boost",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTI3MzI4OCwwMDAwMDAwMDQyZWRmOTVkOGU3MjhiMWQ4MTVhYTU4MmYwOWRhOGNi",
+  "snapshot_id": "MTY1MTI3MzI4OCwwMDAwMDAwMDljZWVjYzUyMzg5OTJiMWRhZmI4OTM0M2JkMzBjNDM4",
   "tracks": [
     {
       "added_at": "2022-04-29 23:01:28",
@@ -263,22 +263,6 @@
     {
       "added_at": "2022-04-29 23:01:28",
       "album": {
-        "name": "times",
-        "url": "https://open.spotify.com/album/6WlRyrfOBZGYA5u5TmloKY"
-      },
-      "artists": [
-        {
-          "name": "SG Lewis",
-          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
-        }
-      ],
-      "duration_ms": 259173,
-      "name": "Time",
-      "url": "https://open.spotify.com/track/2Oc5ez4PVPnIWAmYr8i99V"
-    },
-    {
-      "added_at": "2022-04-29 23:01:28",
-      "album": {
         "name": "Tailwhip",
         "url": "https://open.spotify.com/album/7eJd4HvbzBoufq7pnKAIiy"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 225263,
       "name": "Tailwhip",
       "url": "https://open.spotify.com/track/2DoO0sn4SbUrz7Uay9ACTM"
+    },
+    {
+      "added_at": "2022-04-29 23:01:28",
+      "album": {
+        "name": "times",
+        "url": "https://open.spotify.com/album/6WlRyrfOBZGYA5u5TmloKY"
+      },
+      "artists": [
+        {
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+        }
+      ],
+      "duration_ms": 259173,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/2Oc5ez4PVPnIWAmYr8i99V"
     },
     {
       "added_at": "2022-04-29 23:01:28",
@@ -487,22 +487,6 @@
     {
       "added_at": "2022-04-29 23:01:28",
       "album": {
-        "name": "No Ordinary",
-        "url": "https://open.spotify.com/album/67TMvbWsbRX8mhZVxJJoYu"
-      },
-      "artists": [
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        }
-      ],
-      "duration_ms": 184795,
-      "name": "No Ordinary",
-      "url": "https://open.spotify.com/track/5GSKLdbgKfoOmZxgwUKBEp"
-    },
-    {
-      "added_at": "2022-04-29 23:01:28",
-      "album": {
         "name": "The Juicebox",
         "url": "https://open.spotify.com/album/2EpbqvHpamUFsBboRaSbG1"
       },
@@ -523,18 +507,18 @@
     {
       "added_at": "2022-04-29 23:01:28",
       "album": {
-        "name": "RELAXER",
-        "url": "https://open.spotify.com/album/3uHMSQ1cC1fFAi4WMnelQP"
+        "name": "No Ordinary",
+        "url": "https://open.spotify.com/album/67TMvbWsbRX8mhZVxJJoYu"
       },
       "artists": [
         {
-          "name": "alt-J",
-          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
         }
       ],
-      "duration_ms": 206026,
-      "name": "In Cold Blood",
-      "url": "https://open.spotify.com/track/0jeJR3LdrC2QJNviq7wjzp"
+      "duration_ms": 184795,
+      "name": "No Ordinary",
+      "url": "https://open.spotify.com/track/5GSKLdbgKfoOmZxgwUKBEp"
     },
     {
       "added_at": "2022-04-29 23:01:28",
@@ -551,6 +535,22 @@
       "duration_ms": 196022,
       "name": "something more",
       "url": "https://open.spotify.com/track/7rP2j96yHkABXBAKpMAFs9"
+    },
+    {
+      "added_at": "2022-04-29 23:01:28",
+      "album": {
+        "name": "RELAXER",
+        "url": "https://open.spotify.com/album/3uHMSQ1cC1fFAi4WMnelQP"
+      },
+      "artists": [
+        {
+          "name": "alt-J",
+          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
+        }
+      ],
+      "duration_ms": 206026,
+      "name": "In Cold Blood",
+      "url": "https://open.spotify.com/track/0jeJR3LdrC2QJNviq7wjzp"
     },
     {
       "added_at": "2022-04-29 23:01:28",
@@ -591,6 +591,22 @@
     {
       "added_at": "2022-04-29 23:01:28",
       "album": {
+        "name": "Phase (Deluxe)",
+        "url": "https://open.spotify.com/album/5NvSqYFMTXEkp2jAc3tFYR"
+      },
+      "artists": [
+        {
+          "name": "Jack Garratt",
+          "url": "https://open.spotify.com/artist/1Zp054Jc86WVKCxKEqZGOA"
+        }
+      ],
+      "duration_ms": 260866,
+      "name": "Surprise Yourself",
+      "url": "https://open.spotify.com/track/6YaC65M3ujeROidG3b09J0"
+    },
+    {
+      "added_at": "2022-04-29 23:01:28",
+      "album": {
         "name": "Together",
         "url": "https://open.spotify.com/album/68kXIO39vMHYsJ0OcMa6mx"
       },
@@ -611,22 +627,6 @@
     {
       "added_at": "2022-04-29 23:01:28",
       "album": {
-        "name": "Phase (Deluxe)",
-        "url": "https://open.spotify.com/album/5NvSqYFMTXEkp2jAc3tFYR"
-      },
-      "artists": [
-        {
-          "name": "Jack Garratt",
-          "url": "https://open.spotify.com/artist/1Zp054Jc86WVKCxKEqZGOA"
-        }
-      ],
-      "duration_ms": 260866,
-      "name": "Surprise Yourself",
-      "url": "https://open.spotify.com/track/6YaC65M3ujeROidG3b09J0"
-    },
-    {
-      "added_at": "2022-04-29 23:01:28",
-      "album": {
         "name": "Mangaliso",
         "url": "https://open.spotify.com/album/1fXiO7h7dDB3RBG13jLh8A"
       },
@@ -639,22 +639,6 @@
       "duration_ms": 231625,
       "name": "Ndokulandela",
       "url": "https://open.spotify.com/track/1kQjyyI3xZixtByFizxlXE"
-    },
-    {
-      "added_at": "2022-04-29 23:01:28",
-      "album": {
-        "name": "Californian Soil",
-        "url": "https://open.spotify.com/album/3wcC3Rowkgk4CffWv84sJH"
-      },
-      "artists": [
-        {
-          "name": "London Grammar",
-          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
-        }
-      ],
-      "duration_ms": 199996,
-      "name": "Lose Your Head",
-      "url": "https://open.spotify.com/track/2kU6bMVN21UbJ425q1yIKR"
     },
     {
       "added_at": "2022-04-29 23:01:28",
@@ -675,6 +659,22 @@
       "duration_ms": 242000,
       "name": "Two Steps",
       "url": "https://open.spotify.com/track/4ACWPAiIYOtETNu9QsFEaP"
+    },
+    {
+      "added_at": "2022-04-29 23:01:28",
+      "album": {
+        "name": "Californian Soil",
+        "url": "https://open.spotify.com/album/3wcC3Rowkgk4CffWv84sJH"
+      },
+      "artists": [
+        {
+          "name": "London Grammar",
+          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
+        }
+      ],
+      "duration_ms": 199996,
+      "name": "Lose Your Head",
+      "url": "https://open.spotify.com/track/2kU6bMVN21UbJ425q1yIKR"
     },
     {
       "added_at": "2022-04-29 23:01:28",
@@ -787,18 +787,18 @@
     {
       "added_at": "2022-04-29 23:01:28",
       "album": {
-        "name": "Boy in Jeans",
-        "url": "https://open.spotify.com/album/2JCzwyBkW4xUNs35vlG3mn"
+        "name": "Oasis",
+        "url": "https://open.spotify.com/album/7BCdGiEPeZ3ysc0rF8PSsj"
       },
       "artists": [
         {
-          "name": "Ryan Beatty",
-          "url": "https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ"
+          "name": "Attom",
+          "url": "https://open.spotify.com/artist/1Xq5wasmlEwC6TqCqJtP5o"
         }
       ],
-      "duration_ms": 216003,
-      "name": "Haircut",
-      "url": "https://open.spotify.com/track/3UY4s7F4Ard3T6vm7xcJxQ"
+      "duration_ms": 202247,
+      "name": "Oasis",
+      "url": "https://open.spotify.com/track/3jlFMDKI3hjKvqzXry1Yq1"
     },
     {
       "added_at": "2022-04-29 23:01:28",
@@ -823,18 +823,18 @@
     {
       "added_at": "2022-04-29 23:01:28",
       "album": {
-        "name": "Oasis",
-        "url": "https://open.spotify.com/album/7BCdGiEPeZ3ysc0rF8PSsj"
+        "name": "Boy in Jeans",
+        "url": "https://open.spotify.com/album/2JCzwyBkW4xUNs35vlG3mn"
       },
       "artists": [
         {
-          "name": "Attom",
-          "url": "https://open.spotify.com/artist/1Xq5wasmlEwC6TqCqJtP5o"
+          "name": "Ryan Beatty",
+          "url": "https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ"
         }
       ],
-      "duration_ms": 202247,
-      "name": "Oasis",
-      "url": "https://open.spotify.com/track/3jlFMDKI3hjKvqzXry1Yq1"
+      "duration_ms": 216003,
+      "name": "Haircut",
+      "url": "https://open.spotify.com/track/3UY4s7F4Ard3T6vm7xcJxQ"
     },
     {
       "added_at": "2022-04-29 23:01:28",
@@ -975,22 +975,6 @@
     {
       "added_at": "2022-04-29 23:01:28",
       "album": {
-        "name": "are we?",
-        "url": "https://open.spotify.com/album/4tl1xL2MeyURq8Vk3enaze"
-      },
-      "artists": [
-        {
-          "name": "slenderbodies",
-          "url": "https://open.spotify.com/artist/3S4d3YRNGg2OhnNm3QvfhA"
-        }
-      ],
-      "duration_ms": 141049,
-      "name": "cherry blossom",
-      "url": "https://open.spotify.com/track/2pVym24miJgEbF170Is2lO"
-    },
-    {
-      "added_at": "2022-04-29 23:01:28",
-      "album": {
         "name": "Life After Defo",
         "url": "https://open.spotify.com/album/2SWmXOdNAbDfXeIYaE8iOW"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 252880,
       "name": "Feel Real",
       "url": "https://open.spotify.com/track/3LxBDk2jxjRmagg1VAwCGM"
+    },
+    {
+      "added_at": "2022-04-29 23:01:28",
+      "album": {
+        "name": "are we?",
+        "url": "https://open.spotify.com/album/4tl1xL2MeyURq8Vk3enaze"
+      },
+      "artists": [
+        {
+          "name": "slenderbodies",
+          "url": "https://open.spotify.com/artist/3S4d3YRNGg2OhnNm3QvfhA"
+        }
+      ],
+      "duration_ms": 141049,
+      "name": "cherry blossom",
+      "url": "https://open.spotify.com/track/2pVym24miJgEbF170Is2lO"
     },
     {
       "added_at": "2022-04-29 23:01:28",
@@ -1495,6 +1495,22 @@
     {
       "added_at": "2022-04-29 23:01:28",
       "album": {
+        "name": "The Mathematics of Nature",
+        "url": "https://open.spotify.com/album/0uBZBBhGxyYXJCPhE2lU2W"
+      },
+      "artists": [
+        {
+          "name": "Matthew Chaim",
+          "url": "https://open.spotify.com/artist/70JkpECHBzs79FOYemfHwk"
+        }
+      ],
+      "duration_ms": 363841,
+      "name": "Winter/Fall",
+      "url": "https://open.spotify.com/track/2s152GUETF2NZdSYYhwnk9"
+    },
+    {
+      "added_at": "2022-04-29 23:01:28",
+      "album": {
         "name": "Gold (Flume Re-Work)",
         "url": "https://open.spotify.com/album/4DHglATZVLGvsoJHoiTxXl"
       },
@@ -1531,22 +1547,6 @@
     {
       "added_at": "2022-04-29 23:01:28",
       "album": {
-        "name": "The Mathematics of Nature",
-        "url": "https://open.spotify.com/album/0uBZBBhGxyYXJCPhE2lU2W"
-      },
-      "artists": [
-        {
-          "name": "Matthew Chaim",
-          "url": "https://open.spotify.com/artist/70JkpECHBzs79FOYemfHwk"
-        }
-      ],
-      "duration_ms": 363841,
-      "name": "Winter/Fall",
-      "url": "https://open.spotify.com/track/2s152GUETF2NZdSYYhwnk9"
-    },
-    {
-      "added_at": "2022-04-29 23:01:28",
-      "album": {
         "name": "6 Letters",
         "url": "https://open.spotify.com/album/1hanBCpxNcew4qx4g7nME2"
       },
@@ -1567,6 +1567,22 @@
     {
       "added_at": "2022-04-29 23:01:28",
       "album": {
+        "name": "Losing Sleep",
+        "url": "https://open.spotify.com/album/7o8ly8OTyBXGmh050Iu3A4"
+      },
+      "artists": [
+        {
+          "name": "Dylan Fraser",
+          "url": "https://open.spotify.com/artist/6Awp6fgyzqQ2XuEvOMjq8D"
+        }
+      ],
+      "duration_ms": 222885,
+      "name": "Losing Sleep",
+      "url": "https://open.spotify.com/track/6NBP6H1F1L5THU7DFoCNgU"
+    },
+    {
+      "added_at": "2022-04-29 23:01:28",
+      "album": {
         "name": "September Come",
         "url": "https://open.spotify.com/album/7gmEibaDmaeX04sGCIPayd"
       },
@@ -1583,22 +1599,6 @@
       "duration_ms": 240131,
       "name": "September Come",
       "url": "https://open.spotify.com/track/0xsrh1MnIju00GT8ZmEcIu"
-    },
-    {
-      "added_at": "2022-04-29 23:01:28",
-      "album": {
-        "name": "Losing Sleep",
-        "url": "https://open.spotify.com/album/7o8ly8OTyBXGmh050Iu3A4"
-      },
-      "artists": [
-        {
-          "name": "Dylan Fraser",
-          "url": "https://open.spotify.com/artist/6Awp6fgyzqQ2XuEvOMjq8D"
-        }
-      ],
-      "duration_ms": 222885,
-      "name": "Losing Sleep",
-      "url": "https://open.spotify.com/track/6NBP6H1F1L5THU7DFoCNgU"
     },
     {
       "added_at": "2022-04-29 23:01:28",

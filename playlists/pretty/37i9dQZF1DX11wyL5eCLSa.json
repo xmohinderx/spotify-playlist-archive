@@ -1,12 +1,12 @@
 {
   "description": "Sangre fresca en las escenas del indie y el rock. Divisi\u00f3n Min\u00fascula en portada.",
-  "num_followers": 130058,
+  "num_followers": 130215,
   "original_name": "EL ROCK NO HA MUERTO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjUxMjE1MSwwMDAwMDAwMDQwNTI2ZWI3NWQ3MDk4ZDliOGFlOTIxYWQ3NmYxOWZm",
+  "snapshot_id": "MTY2MjUxMjE1MSwwMDAwMDAwMDUyZmY4ZjI4NjJmMTk3YjdlM2Y2MGFjNTQ0MDc2YjA1",
   "tracks": [
     {
       "added_at": "2022-09-02 05:54:02",
@@ -527,6 +527,22 @@
     {
       "added_at": "2022-07-22 17:47:39",
       "album": {
+        "name": "ECOS",
+        "url": "https://open.spotify.com/album/49Qd6nYCgc2ra4E3TJHEty"
+      },
+      "artists": [
+        {
+          "name": "Camilo S\u00e9ptimo",
+          "url": "https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB"
+        }
+      ],
+      "duration_ms": 193103,
+      "name": "Como T\u00fa",
+      "url": "https://open.spotify.com/track/7BuDf00x8RNcMTlNaxE70f"
+    },
+    {
+      "added_at": "2022-07-22 17:47:39",
+      "album": {
         "name": "La Historia Sin Fin",
         "url": "https://open.spotify.com/album/6k6jrCUKBeZflALDUS8UF3"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 297053,
       "name": "Cachito De Galaxia",
       "url": "https://open.spotify.com/track/6T0ATRfwd6t1xEuVS2hgGN"
-    },
-    {
-      "added_at": "2022-07-22 17:47:39",
-      "album": {
-        "name": "ECOS",
-        "url": "https://open.spotify.com/album/49Qd6nYCgc2ra4E3TJHEty"
-      },
-      "artists": [
-        {
-          "name": "Camilo S\u00e9ptimo",
-          "url": "https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB"
-        }
-      ],
-      "duration_ms": 193103,
-      "name": "Como T\u00fa",
-      "url": "https://open.spotify.com/track/7BuDf00x8RNcMTlNaxE70f"
     },
     {
       "added_at": "2022-07-22 17:47:39",
@@ -627,22 +627,6 @@
     {
       "added_at": "2022-07-22 17:47:39",
       "album": {
-        "name": "Donde los Ponys Pastan",
-        "url": "https://open.spotify.com/album/0trdxYmH6A4QEtdlbYWjtx"
-      },
-      "artists": [
-        {
-          "name": "Porter",
-          "url": "https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5"
-        }
-      ],
-      "duration_ms": 322013,
-      "name": "Espiral",
-      "url": "https://open.spotify.com/track/3LLMudAmQlHRqmD5BG3CQS"
-    },
-    {
-      "added_at": "2022-07-22 17:47:39",
-      "album": {
         "name": "Trinchera",
         "url": "https://open.spotify.com/album/5oLaRXGevqs8RYxXhYe9PG"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 179024,
       "name": "Paradoja",
       "url": "https://open.spotify.com/track/29FRFwLHf0Ec9q6I9K0jLZ"
+    },
+    {
+      "added_at": "2022-07-22 17:47:39",
+      "album": {
+        "name": "Donde los Ponys Pastan",
+        "url": "https://open.spotify.com/album/0trdxYmH6A4QEtdlbYWjtx"
+      },
+      "artists": [
+        {
+          "name": "Porter",
+          "url": "https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5"
+        }
+      ],
+      "duration_ms": 322013,
+      "name": "Espiral",
+      "url": "https://open.spotify.com/track/3LLMudAmQlHRqmD5BG3CQS"
     },
     {
       "added_at": "2022-07-22 17:47:39",
@@ -755,22 +755,6 @@
     {
       "added_at": "2022-07-22 17:47:39",
       "album": {
-        "name": "Generaci\u00f3n Inmediata",
-        "url": "https://open.spotify.com/album/5tNTvuit5SbZJcqpFvRxLB"
-      },
-      "artists": [
-        {
-          "name": "Odisseo",
-          "url": "https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd"
-        }
-      ],
-      "duration_ms": 224614,
-      "name": "Nube Fantasma",
-      "url": "https://open.spotify.com/track/0n3GD03oX8uFTknufKX8SZ"
-    },
-    {
-      "added_at": "2022-07-22 17:47:39",
-      "album": {
         "name": "La Izquierda de la Noche",
         "url": "https://open.spotify.com/album/5l2XPMJy6oB4BiRcYxEp8S"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 219414,
       "name": "La Izquierda de la Noche",
       "url": "https://open.spotify.com/track/7ckFZJx6PYjb3P9mc8PNQl"
+    },
+    {
+      "added_at": "2022-07-22 17:47:39",
+      "album": {
+        "name": "Generaci\u00f3n Inmediata",
+        "url": "https://open.spotify.com/album/5tNTvuit5SbZJcqpFvRxLB"
+      },
+      "artists": [
+        {
+          "name": "Odisseo",
+          "url": "https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd"
+        }
+      ],
+      "duration_ms": 224614,
+      "name": "Nube Fantasma",
+      "url": "https://open.spotify.com/track/0n3GD03oX8uFTknufKX8SZ"
     },
     {
       "added_at": "2022-08-13 00:31:24",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2022-07-22 17:47:39",
       "album": {
-        "name": "La Final",
-        "url": "https://open.spotify.com/album/2sqCeR4NoJOJ6wN2mkiOP3"
-      },
-      "artists": [
-        {
-          "name": "Bandalos Chinos",
-          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
-        }
-      ],
-      "duration_ms": 198053,
-      "name": "La Final",
-      "url": "https://open.spotify.com/track/0Zqpxe6UdF80IYommiUV3j"
-    },
-    {
-      "added_at": "2022-07-22 17:47:39",
-      "album": {
         "name": "El Eco de la Nada",
         "url": "https://open.spotify.com/album/0RmopllB8tAY9P2Of7NdIZ"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 184533,
       "name": "Nunca te am\u00e9",
       "url": "https://open.spotify.com/track/6CxvTZO3pqhGMiVUF9gW2R"
+    },
+    {
+      "added_at": "2022-07-22 17:47:39",
+      "album": {
+        "name": "La Final",
+        "url": "https://open.spotify.com/album/2sqCeR4NoJOJ6wN2mkiOP3"
+      },
+      "artists": [
+        {
+          "name": "Bandalos Chinos",
+          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
+        }
+      ],
+      "duration_ms": 198053,
+      "name": "La Final",
+      "url": "https://open.spotify.com/track/0Zqpxe6UdF80IYommiUV3j"
     },
     {
       "added_at": "2022-07-22 17:47:39",
@@ -1193,6 +1193,22 @@
       "url": "https://open.spotify.com/track/0kfkBm7Or6FivlmnMsI7Oq"
     },
     {
+      "added_at": "2022-07-22 17:47:39",
+      "album": {
+        "name": "Rock en espa\u00f1ol",
+        "url": "https://open.spotify.com/album/3bmuv7OI4asKzdF3T4zWsx"
+      },
+      "artists": [
+        {
+          "name": "Le\u00f3n Larregui",
+          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
+        }
+      ],
+      "duration_ms": 232120,
+      "name": "Como T\u00fa (Magic Music Box)",
+      "url": "https://open.spotify.com/track/0GWkuPr946cYbOMRkrbw4e"
+    },
+    {
       "added_at": "2022-08-05 19:18:55",
       "album": {
         "name": "Sigilos y Decretos",
@@ -1223,22 +1239,6 @@
       "duration_ms": 198000,
       "name": "Camino a Tu Casa",
       "url": "https://open.spotify.com/track/2mAdouNIqXKRu2lyhRicvY"
-    },
-    {
-      "added_at": "2022-07-22 17:47:39",
-      "album": {
-        "name": "Rock en espa\u00f1ol",
-        "url": "https://open.spotify.com/album/3bmuv7OI4asKzdF3T4zWsx"
-      },
-      "artists": [
-        {
-          "name": "Le\u00f3n Larregui",
-          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
-        }
-      ],
-      "duration_ms": 232120,
-      "name": "Como T\u00fa (Magic Music Box)",
-      "url": "https://open.spotify.com/track/0GWkuPr946cYbOMRkrbw4e"
     },
     {
       "added_at": "2022-08-09 02:12:39",

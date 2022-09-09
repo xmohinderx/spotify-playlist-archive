@@ -4,7 +4,7 @@
 
 > Strings and pianos to accompany your latest great read.
 
-144 songs - 7 hr 48 min - [published](https://open.spotify.com/playlist/0GsI4xWiRgp8I8ghyrsDS8)
+145 songs - 7 hr 51 min - [published](https://open.spotify.com/playlist/0GsI4xWiRgp8I8ghyrsDS8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,7 @@
 | [Innocence](https://open.spotify.com/track/2dvZ1uxrnoXblYwlZsqrZK) | [Takaaki Izumi](https://open.spotify.com/artist/240xN4Tp3Sbkj9XxinXV3p) | [Life](https://open.spotify.com/album/1WVRKTH7HF7Sk0WAvSpMry) | 2:43 | 2022-04-01 | 2022-07-29 |
 | [Inside Me](https://open.spotify.com/track/0W9q5K8mYvwOU8tc8m7XmJ) | [Cesare Picco](https://open.spotify.com/artist/1yxGwA4z1LaJR0UuQQEKYq), [Leonardo Sapere](https://open.spotify.com/artist/3t5VwuXNi91PtEFW3iLhgP) | [The Last Gate](https://open.spotify.com/album/3WOxjZRkOEgzzrK2wjibIy) | 6:48 | 2022-04-01 | 2022-08-08 |
 | [Intangible](https://open.spotify.com/track/1z7xRcXHpfq4Isb1JufoRP) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [Three Days in Venice](https://open.spotify.com/album/3PmHajw3xayhJXfgLSLDop) | 2:19 | 2022-04-22 |  |
-| [Intet gør ondt som kærlighed](https://open.spotify.com/track/20JNdYDOvrRLCLTUZixN9w) | [Henrietta Dahlgard](https://open.spotify.com/artist/7s7WGhcmkApV178JRqTgss) | [Intet gør ondt som kærlighed](https://open.spotify.com/album/6vQszaWM5exHvYIhCliy7r) | 2:02 | 2022-04-01 |  |
+| [Intet gør ondt som kærlighed](https://open.spotify.com/track/20JNdYDOvrRLCLTUZixN9w) | [Henrietta Dahlgard](https://open.spotify.com/artist/7s7WGhcmkApV178JRqTgss) | [Intet gør ondt som kærlighed](https://open.spotify.com/album/6vQszaWM5exHvYIhCliy7r) | 2:02 | 2022-04-01 | 2022-09-09 |
 | [Islands](https://open.spotify.com/track/4KSdwXraUt7fy4gjbnDC7G) | [Nsee](https://open.spotify.com/artist/6OXXdblCiAoJnv4kp1jpkm), [Harlan Silverman](https://open.spotify.com/artist/6RR7uINKmGclSu0zHBC7mU) | [Islands](https://open.spotify.com/album/4KxG2lk8yqgOaFiMEDGZVd) | 2:21 | 2022-04-01 |  |
 | [Italian Prelude](https://open.spotify.com/track/71TDI7qUtLLzfYkJwbgRWk) | [Anna Moor](https://open.spotify.com/artist/6VH0sdFNBtBG1VUHXZrhz5), [Lana Ross](https://open.spotify.com/artist/3zT2ihLD0QRkAOCp3Q2XSc), [Andrei Krylov](https://open.spotify.com/artist/7Ho9ldCZU5NDAvEvWU56Wv) | [Violin and Classical Guitar Wedding Ceremony Music In Baroque, Renaissance And Romantic Styles](https://open.spotify.com/album/6C2UafthzdUpRTxlmG6QKA) | 1:36 | 2022-04-01 | 2022-07-11 |
 | [Joshua Tree](https://open.spotify.com/track/2lhwDrrTEQFiuveT3D2goS) | [Rolig](https://open.spotify.com/artist/2ixZdtBEVIZUWLsoPvDQMz) | [Joshua Tree](https://open.spotify.com/album/0QOvM8uZd9MukqMjJZZqaw) | 2:37 | 2022-04-01 |  |
@@ -118,6 +118,7 @@
 | [September Winds](https://open.spotify.com/track/1azQ2kty7l8fY41ON2PseU) | [Paul Cardall](https://open.spotify.com/artist/7FQRbf8gbKw8KZQZAJWxH2) | [September Winds](https://open.spotify.com/album/3Qflkxt8CZCgRyR1dbL8cN) | 3:48 | 2022-04-01 |  |
 | [Ser A Ti](https://open.spotify.com/track/6rDxnznYVvGb0vFkgsBmmE) | [Hondos Rostros](https://open.spotify.com/artist/1GkARSHIynvDFV4eyUZvhC) | [Ser A Ti](https://open.spotify.com/album/0nC9dugAMHACUJQ6GSTZFB) | 3:34 | 2022-07-15 |  |
 | [Seventy\-Three](https://open.spotify.com/track/4DWfgH5ga6FFjjInvNln9s) | [No Pude Detenerme](https://open.spotify.com/artist/5PPQ1GQmwabzQpN9W7ihoN) | [Seventy\-Three](https://open.spotify.com/album/6eLRFTrA9QrfhXTnXlaKR1) | 2:41 | 2022-06-24 | 2022-07-27 |
+| [Sitting Bull](https://open.spotify.com/track/1iIlPp7qvsE52UYTVgaalQ) | [Troels Hammer](https://open.spotify.com/artist/6BG79szH5N3AyYLbuEpelR), [Reinhard Vanbergen](https://open.spotify.com/artist/6uvyWuE7z8Rv93plqNWniu) | [House of Memories](https://open.spotify.com/album/0SadAMED3iCbRqmTl3CHYr) | 2:54 | 2022-09-02 |  |
 | [Snowfall](https://open.spotify.com/track/1WBEvbuxU065CyFXQtR3v4) | [Rolig](https://open.spotify.com/artist/2ixZdtBEVIZUWLsoPvDQMz) | [Snowfall](https://open.spotify.com/album/0vWrlO35rzAbUfPr2CMZ7M) | 2:33 | 2022-04-01 |  |
 | [Solitude](https://open.spotify.com/track/0qgocm3SrhllyvzxdKLtl8) | [David Gómez](https://open.spotify.com/artist/1YpEXfKQbYYdYjn3e9rr4h) | [Solitude](https://open.spotify.com/album/3gFKzHB8ISFNdQaVqQj2dm) | 4:54 | 2022-04-01 |  |
 | [Some Familiar...](https://open.spotify.com/track/5pzWhauNSeC5lOvUO9s0LV) | [Slow Meadow](https://open.spotify.com/artist/1X93CiijNCFQa4o17hLwI3) | [Lachrymosia](https://open.spotify.com/album/5nNbGbrdeIzBk9aRhMlroW) | 4:49 | 2022-04-01 | 2022-04-21 |

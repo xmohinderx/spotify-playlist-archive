@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Italia](https://open.spotify.com/playlist/37i9dQZF1DX0KBgD4Jf5tY)
 
-> Nuove scoperte dalla scena indipendente italiana, senza etichette di genere\. Cover: <a href="spotify:artist:7By2W4RhZGhK9wCYGQr1Q1">Kinder Garden</a>
+> Nuove scoperte dalla scena indipendente italiana, senza etichette di genere\. Cover: <a href="spotify:artist:1bSPgPv4OyNIMnWqG7TtTf">Carolei</a>
 
-351 songs - 17 hr 46 min - [published](https://open.spotify.com/playlist/7DW4xNQc4jVEAVd25UPTmP)
+352 songs - 17 hr 48 min - [published](https://open.spotify.com/playlist/7DW4xNQc4jVEAVd25UPTmP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,11 +51,12 @@
 | [Besame macho](https://open.spotify.com/track/0B7iH1Czlu8yKHqszC6EEx) | [Eda Marì](https://open.spotify.com/artist/4BuJlU0xsHWI8gPnrSyvCs) | [Besame macho](https://open.spotify.com/album/0e1zJ9roidnR6X6zRhn15L) | 3:31 | 2022-01-06 | 2022-02-18 |
 | [Big Babol](https://open.spotify.com/track/3I9nnBzuf7AGs8BpRgvZWY) | [Michelle, The Listless](https://open.spotify.com/artist/0Qk6tmdYV2gBJo4lS07hhz), [Bongi](https://open.spotify.com/artist/3ehxbQ0letT4rNrzvp3SAq) | [Big Babol](https://open.spotify.com/album/3YCGc7TsCL4rNGVHo8STCd) | 3:00 | 2022-08-26 |  |
 | [Birthday](https://open.spotify.com/track/32lSBUAwseG81GL0VjeXEz) | [Feliciana](https://open.spotify.com/artist/49qJvbUyRJ7r4ae4QYhTFY) | [Birthday](https://open.spotify.com/album/2L11I1HBuWIlrTBBRjXuFi) | 2:13 | 2022-04-08 | 2022-05-28 |
-| [blade runner](https://open.spotify.com/track/2OJQyRSfwOtGKmYHJm86QY) | [testacoda](https://open.spotify.com/artist/4TsxiXBrsmsrPmrZdSyJRp), [Brividee](https://open.spotify.com/artist/3Aii0XCq5MDf7ZlxK0ZNHo) | [buonanotte, testacoda](https://open.spotify.com/album/1ekB54uglaS54Iw67CdeNZ) | 2:49 | 2022-06-24 |  |
+| [blade runner](https://open.spotify.com/track/2OJQyRSfwOtGKmYHJm86QY) | [testacoda](https://open.spotify.com/artist/4TsxiXBrsmsrPmrZdSyJRp), [Brividee](https://open.spotify.com/artist/3Aii0XCq5MDf7ZlxK0ZNHo) | [buonanotte, testacoda](https://open.spotify.com/album/1ekB54uglaS54Iw67CdeNZ) | 2:49 | 2022-06-24 | 2022-09-09 |
 | [Bomba](https://open.spotify.com/track/3mg4r2ELAzcbeoIq3KVlV9) | [Gamaar](https://open.spotify.com/artist/1rheAe1ouvsfFn7pKGDiVx) | [Bomba](https://open.spotify.com/album/4bPXDfYwoxJoElrGcsq1Vr) | 4:19 | 2022-05-27 | 2022-07-01 |
 | [BONSAI](https://open.spotify.com/track/0t5pfQg3YluLCUB9KGP4iO) | [Tauri](https://open.spotify.com/artist/4DBNbqTyqDLvkZuC0M9tEb) | [BONSAI](https://open.spotify.com/album/11vS8icAKCTxdKeqv1NToR) | 2:49 | 2022-01-06 | 2022-02-18 |
 | [Boys Like You](https://open.spotify.com/track/5ttLiAKwzLynIfBye4mUhD) | [Alice Pisano](https://open.spotify.com/artist/1B52Dud7YBQYoGLt2QxckH) | [Boys Like You](https://open.spotify.com/album/2KaoA33HHCgzGSbCvKM0tk) | 2:57 | 2022-07-22 |  |
 | [BUBU](https://open.spotify.com/track/5MpQSICU6w2Wu39FXSxPQK) | [L I M](https://open.spotify.com/artist/6TGrYfNonLf6yO3RGiM4EF) | [BUBU](https://open.spotify.com/album/6PzcJMgNttqjxcuf8mZNzV) | 4:31 | 2022-01-06 | 2022-02-18 |
+| [Bugie bianche](https://open.spotify.com/track/3adK6P8rQo1ILRRfiwHrif) | [Carolei](https://open.spotify.com/artist/1bSPgPv4OyNIMnWqG7TtTf) | [Bugie bianche](https://open.spotify.com/album/37Yadtrb8JoTs9hxSnmQMA) | 2:37 | 2022-09-08 |  |
 | [Buio](https://open.spotify.com/track/3dsMyJ5lR9ammFyy8G4RjE) | [Giovane Giovane](https://open.spotify.com/artist/4BAxuRON1nw7gbgNTSAKAI) | [I figli degli altri](https://open.spotify.com/album/0pBDpnqaruZbsNDn1a0rzR) | 3:32 | 2022-03-24 | 2022-05-28 |
 | [Bye Bye](https://open.spotify.com/track/73gFn6pgBtaQtPlycYycwR) | [Syco](https://open.spotify.com/artist/1F5TfMsQ8wVZ1s2HlrH076), [Nylone](https://open.spotify.com/artist/6IWYCvgWRRkpTrznIwphgx) | [Bye Bye](https://open.spotify.com/album/2pGT9QUMRor3kcEuYRP10g) | 3:17 | 2022-01-06 | 2022-02-18 |
 | [C'est La Vie](https://open.spotify.com/track/1Unwmq4hYPKCgoOSHSmc8S) | [KIM](https://open.spotify.com/artist/3AMuZJ85HywqN42C3Mc2LL) | [C'est La Vie](https://open.spotify.com/album/76wXnnoIAnR40YQH88e3rR) | 1:30 | 2022-09-06 |  |

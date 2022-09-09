@@ -26,6 +26,24 @@
     },
     {
       "album": {
+        "name": "A Different Kind of Light",
+        "url": "https://open.spotify.com/album/3qX9FYZfQZNRr01F8P6AES"
+      },
+      "artists": [
+        {
+          "name": "JJ Shiplett",
+          "url": "https://open.spotify.com/artist/0XgzaFjKPFJT7VziwGD6o5"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263373,
+      "name": "A Different Kind of Light",
+      "url": "https://open.spotify.com/track/3u6wgdJSBtdusakLXnlFlE"
+    },
+    {
+      "album": {
         "name": "About Your Love",
         "url": "https://open.spotify.com/album/16Cjat1XXsgM8z2CG6NEYZ"
       },

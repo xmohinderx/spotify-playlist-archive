@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:2o5jDhtHVPhrJdv3cEQ99Z">Tiësto</a>'s best songs, remixes and compilations.
 
-293 songs - 20 hr 53 min - [published](https://open.spotify.com/playlist/03RH7S0ADURkwFOlyAwV7I)
+294 songs - 20 hr 55 min - [published](https://open.spotify.com/playlist/03RH7S0ADURkwFOlyAwV7I)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [C'mon](https://open.spotify.com/track/3XU0Yroic44ga05pKlGDy4) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Club Life \- Volume One Las Vegas \(Continuous DJ Mix\)](https://open.spotify.com/album/1Ufqq0yg7gEyRQ70ofgKXe) | 4:05 | 2020-10-20\* |  |
 | [C'mon \- John Christian Remix](https://open.spotify.com/track/0XAWVdAOpmkKp1zoTu0JzX) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [John Christian](https://open.spotify.com/artist/4I4ZRmxuOEADKSea0rNq3h) | [CLUBLIFE, VOL\. 5: CHINA](https://open.spotify.com/album/3yyMpOkLtbcbVJFzEESLN0) | 3:26 | 2022-07-28 |  |
 | [Calling On Angels](https://open.spotify.com/track/5Sa2GIFRXCeOcE1ta4EhS8) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Fred Falke](https://open.spotify.com/artist/0AfNNw1LS2i9KW4icd7inD), [Elan Lea](https://open.spotify.com/artist/0yaj6mNaPV5xeNn0wOyZlQ) | [A Town Called Paradise \(Deluxe\)](https://open.spotify.com/album/1116PKIKlArm87HVaPtonW) | 3:16 | 2020-10-20\* |  |
+| [Can U Dance \(To My Beat\)](https://open.spotify.com/track/3yRcwIkTVIJTEGAoPlsHbW) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Can U Dance \(To My Beat\)](https://open.spotify.com/album/6o3mSmaxrLrFnGB7IL8vtA) | 2:28 | 2022-09-08 |  |
 | [Can You Feel It](https://open.spotify.com/track/5eaqysOiZbN1Xf5ID8KQpT) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [John Christian](https://open.spotify.com/artist/4I4ZRmxuOEADKSea0rNq3h) | [Together](https://open.spotify.com/album/2GO8bfob0a7pR7HFbeWRNk) | 3:19 | 2020-10-20\* | 2022-07-29 |
 | [Can You Feel It](https://open.spotify.com/track/7aFj8SWg3eTkxCQGE82NOs) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [John Christian](https://open.spotify.com/artist/4I4ZRmxuOEADKSea0rNq3h) | [Together](https://open.spotify.com/album/6jd8wvEoi6sCzP92Vt7CPZ) | 3:19 | 2022-07-28 |  |
 | [Can't Get Enough](https://open.spotify.com/track/0Iwp8HM6ujDd5yn1d279B9) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Mesto](https://open.spotify.com/artist/0RViEWnZO2VhmY4oI0PhF9) | [Together](https://open.spotify.com/album/2GO8bfob0a7pR7HFbeWRNk) | 2:46 | 2020-10-20\* | 2022-07-29 |

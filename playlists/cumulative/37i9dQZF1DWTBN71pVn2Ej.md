@@ -4,7 +4,7 @@
 
 > The best new alternative rock tracks.
 
-202 songs - 11 hr 56 min - [published](https://open.spotify.com/playlist/5quM8neQlox9eNtsEIONeH)
+204 songs - 12 hr 3 min - [published](https://open.spotify.com/playlist/5quM8neQlox9eNtsEIONeH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [Joy Thief](https://open.spotify.com/track/0TvVyjWvb13ZMm9aquJkdy) | [Dosser](https://open.spotify.com/artist/4docLaOEimvNmjei3CLOzB) | [Joy Thief](https://open.spotify.com/album/1j3gt3dSyuzOxHhNxXWOGR) | 3:57 | 2022-09-06 |  |
 | [Kamikaze](https://open.spotify.com/track/2sqNP3eZQzEaiy2cSrMKC6) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Kamikaze](https://open.spotify.com/album/1Mkw4WVQayaOJUOQDnhv8T) | 3:22 | 2022-09-06 |  |
 | [Kleptomaniac](https://open.spotify.com/track/6t9F8OPLkxZgcGhZjPgPu1) | [Daisy Brain](https://open.spotify.com/artist/5WuDKeWph4EKsyy9e56Mz4) | [Disconnected Happy](https://open.spotify.com/album/12HqkWeJ7g1Tck2eRoGUda) | 2:50 | 2022-04-05 |  |
+| [Laugh](https://open.spotify.com/track/2adbCG7wkQRHHvVZIe5bLN) | [Liotta Seoul](https://open.spotify.com/artist/5TVvYXtmzb3yeMZIiQdTQi), [MightyMacFluff](https://open.spotify.com/artist/7eI9L2dsuHooxUOcp6ATMf) | [Laugh](https://open.spotify.com/album/0OIDcAIHVAaxGc7ngpwN91) | 3:30 | 2022-09-08 |  |
 | [Lava Lamp Pisco](https://open.spotify.com/track/142WFjtY5Pww6AmoLpLCNE) | [Psychedelic Porn Crumpets](https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80) | [Lava Lamp Pisco](https://open.spotify.com/album/6OxduyVLmp55HliX26j59W) | 4:01 | 2021-12-16 | 2022-02-04 |
 | [Leash](https://open.spotify.com/track/3jV6xQbRfeYUgwCZEsz1sJ) | [Superbloom](https://open.spotify.com/artist/3xdggitmc1vFAChxAwhIIL) | [Pollen](https://open.spotify.com/album/74nbOeJlCrxhAkyPdjqrXj) | 3:13 | 2021-12-16 | 2022-02-11 |
 | [Life's a Bitch \(But I Like it So Much\)](https://open.spotify.com/track/3pNxB32GZ03zJQ3fmUqsj5) | [The Mysterines](https://open.spotify.com/artist/15QhuBSLfDNECfF8wvxj0M) | [Reeling](https://open.spotify.com/album/1hkGVzxg3aKTSj1B6EMyRh) | 2:50 | 2022-03-10 | 2022-09-07 |
@@ -178,6 +179,7 @@
 | [Swan Song](https://open.spotify.com/track/4j8K6zdYmmWGOojP3QEoHO) | [NVM](https://open.spotify.com/artist/3DkHOBTtRZIj7m2aF42rtC) | [With a Rotting Heart](https://open.spotify.com/album/1TENIZOVFTerspCdF6WSrB) | 4:14 | 2021-12-16 | 2022-02-11 |
 | [Sway](https://open.spotify.com/track/4pW0Z7cIfzKglcD5aBJMbC) | [SHEER](https://open.spotify.com/artist/1t1MZaxu6GhHdWTkZwx8W4) | [Sway](https://open.spotify.com/album/2qgWb4WmKxAe9xZp6l5DzV) | 3:58 | 2022-05-19 | 2022-09-07 |
 | [Sweet Dreams of Otherness](https://open.spotify.com/track/02AtE63KsG9iYLaznzv2aM) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Sweet Dreams of Otherness](https://open.spotify.com/album/5z9liNsv9Mnuhj7HSNWv1g) | 4:44 | 2022-03-10 | 2022-05-20 |
+| [System \(Failing\)](https://open.spotify.com/track/0pDeQOXbQyA3rWKDxwS45c) | [Soul Blind](https://open.spotify.com/artist/4u8phrcaIdvRzcGq5DcQJa) | [System \(Failing\)](https://open.spotify.com/album/2jebUvkyXpOU4Y2WjzdHDo) | 3:51 | 2022-09-08 |  |
 | [T.W.I.N.](https://open.spotify.com/track/0AyN9SW50iTYEI17mdg8BG) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [T.W.I.N.](https://open.spotify.com/album/64wKY2vc3FLDD3CwD68vBz) | 3:07 | 2022-06-23 |  |
 | [take it back \(feat\. Beck\)](https://open.spotify.com/track/3CBYEnqoS93EUKx4XrHYUE) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP), [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [take it back \(feat\. Beck\)](https://open.spotify.com/album/6Db4qVah6cM1Pa6aZgcPMl) | 2:25 | 2022-09-06 |  |
 | [Take the Wheel](https://open.spotify.com/track/3skgT62fQ0MZ2LL3pb59nu) | [Electric Enemy](https://open.spotify.com/artist/2N1mByBMykfROrhwRVQV3v) | [Take the Wheel](https://open.spotify.com/album/5UnohJ1su4dg8awfeHuKHy) | 3:15 | 2022-06-02 | 2022-09-07 |
@@ -194,7 +196,7 @@
 | [Tired](https://open.spotify.com/track/6Vu4gc4ABD2KIBMLXgKSJn) | [TAPE TOY](https://open.spotify.com/artist/6yhSdvAyoNm3RZSmy4Yzbw) | [Tired](https://open.spotify.com/album/795D24YUGoF1H1VuHVEGlk) | 3:20 | 2021-12-16 | 2022-01-14 |
 | [TV or Not TV](https://open.spotify.com/track/69yLIX3dwFMpoAqW1a98O2) | [Liily](https://open.spotify.com/artist/2asx6eXv9qzj5rA0ESrdO3) | [TV or Not TV](https://open.spotify.com/album/3EBzedKTSdxOxHX8VPb9G6) | 3:40 | 2021-12-16 | 2022-03-25 |
 | [UGLY BUG](https://open.spotify.com/track/1ZcDbE8gp4GnmcfVJWdjcs) | [Downward](https://open.spotify.com/artist/4UrucNI79ErkrEjHCbXKxU) | [The Brass Tax](https://open.spotify.com/album/0Gk4iJWdsWeKLW29qk5hzT) | 3:54 | 2022-02-24 | 2022-07-01 |
-| [Unlovable](https://open.spotify.com/track/43wZfR5xALfBTKWolvDmya) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [Unlovable](https://open.spotify.com/album/3feABk2LYfvJgfSXyjgqU8) | 3:30 | 2022-08-31 |  |
+| [Unlovable](https://open.spotify.com/track/43wZfR5xALfBTKWolvDmya) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [Unlovable](https://open.spotify.com/album/3feABk2LYfvJgfSXyjgqU8) | 3:30 | 2022-08-31 | 2022-09-09 |
 | [Wall of Silence](https://open.spotify.com/track/2WwLEcSoYJjhTTS7eqUb08) | [Feeder](https://open.spotify.com/artist/0ZZr6Y49NZWRJc0uCwqpMR) | [Wall of Silence](https://open.spotify.com/album/4UBTTNZuO58gEW8EQvrM18) | 3:14 | 2021-12-16 | 2022-03-22 |
 | [Walls](https://open.spotify.com/track/2wCDbkO7n9njUd6RJb6Fmt) | [Luna Bay](https://open.spotify.com/artist/4GxGE6FCYDdHtcDzRL7TYh) | [Walls](https://open.spotify.com/album/5O4Lzcjk9GDqMm59roa3x7) | 3:04 | 2021-12-16 | 2022-04-01 |
 | [Waltzer](https://open.spotify.com/track/0etpfM0NrM6ByWqDtma4ss) | [October Drift](https://open.spotify.com/artist/3uP1cpcy1q0stG3utL7tZS) | [Waltzer](https://open.spotify.com/album/5egh75SfDBdTyu1OIfzhF8) | 3:59 | 2022-09-06 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "La nuova generazione del rap italiano. Cover: SPOOKYPBL",
+  "description": "La nuova generazione del rap italiano. Cover: Iltunsi",
   "name": "Raptopia",
   "published_playlist_ids": [
     "6nhHRG6xegRC3RJpPdvh9l"
@@ -339,6 +339,24 @@
       "duration_ms": 158624,
       "name": "Apparecchiato (feat. Nerissima Serpe)",
       "url": "https://open.spotify.com/track/64phbsUhT5naqkPA3L0vXz"
+    },
+    {
+      "album": {
+        "name": "ARABO II",
+        "url": "https://open.spotify.com/album/34D1MyNHzgH3k4WUNC89y4"
+      },
+      "artists": [
+        {
+          "name": "ZiYou",
+          "url": "https://open.spotify.com/artist/6RdaSvAxIod8j6aBm7cF4U"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119172,
+      "name": "ARABO II",
+      "url": "https://open.spotify.com/track/7L0tQzr8bmHwgD06Va8OP8"
     },
     {
       "album": {
@@ -1196,6 +1214,28 @@
     },
     {
       "album": {
+        "name": "Crack In Casa 24/7",
+        "url": "https://open.spotify.com/album/37DP2uMZ4Rn1c33MOMzdzt"
+      },
+      "artists": [
+        {
+          "name": "Papa V",
+          "url": "https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU"
+        },
+        {
+          "name": "Fri2",
+          "url": "https://open.spotify.com/artist/4oLRpvu0D5poM84DoKU64v"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139000,
+      "name": "Crack In Casa 24/7",
+      "url": "https://open.spotify.com/track/35fUr9dMYSHsSI5hCjeklu"
+    },
+    {
+      "album": {
         "name": "SUL RADAR",
         "url": "https://open.spotify.com/album/5zutyRN7Mia7iC6Zq2Du6L"
       },
@@ -1277,6 +1317,24 @@
       "duration_ms": 148959,
       "name": "Dawg",
       "url": "https://open.spotify.com/track/59BWRUiUYhNxv7y8Ji6pXA"
+    },
+    {
+      "album": {
+        "name": "Dejavu",
+        "url": "https://open.spotify.com/album/5qEPyzaTjIr9HRisws1uFm"
+      },
+      "artists": [
+        {
+          "name": "167 Gang",
+          "url": "https://open.spotify.com/artist/2m43lP1Wo0IPyxVG4ofE33"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167829,
+      "name": "Dejavu",
+      "url": "https://open.spotify.com/track/6bcT7alWnBZmk5Ke0wsAIj"
     },
     {
       "album": {
@@ -1525,6 +1583,24 @@
       "duration_ms": 136536,
       "name": "Er Fio De",
       "url": "https://open.spotify.com/track/1rPEVJfIOhLWSC5NsMZPLP"
+    },
+    {
+      "album": {
+        "name": "Estorsione",
+        "url": "https://open.spotify.com/album/6foFbS96f9s22rApLXyEOa"
+      },
+      "artists": [
+        {
+          "name": "MBOSS",
+          "url": "https://open.spotify.com/artist/5IHqA6YzPMGrf9CDjly4az"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216056,
+      "name": "Estorsione",
+      "url": "https://open.spotify.com/track/2GRi9N2LVatxmdwHekDxpX"
     },
     {
       "album": {
@@ -3048,6 +3124,32 @@
     },
     {
       "album": {
+        "name": "Fiori Di Ghiaccio",
+        "url": "https://open.spotify.com/album/4LKFMsSD0JsRHudwoEcFcW"
+      },
+      "artists": [
+        {
+          "name": "Frostee",
+          "url": "https://open.spotify.com/artist/6xZVjHaQyPmX5XIXqAWfae"
+        },
+        {
+          "name": "Kidhakku",
+          "url": "https://open.spotify.com/artist/0SXyvXgEtR9aXwFJzuBBjU"
+        },
+        {
+          "name": "sewsii",
+          "url": "https://open.spotify.com/artist/3HZOPGjiDcXuemBTQCGlWh"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185488,
+      "name": "MVP",
+      "url": "https://open.spotify.com/track/3XS0SjkmOL6jVoIx48Rfv7"
+    },
+    {
+      "album": {
         "name": "My Baby",
         "url": "https://open.spotify.com/album/7IkR16ZBkyfGP5uWg4WlAQ"
       },
@@ -4023,7 +4125,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 187972,
       "name": "Street Fight",
       "url": "https://open.spotify.com/track/0RfsPdWv4vmccAVm17aYvS"
@@ -4287,6 +4389,28 @@
       "duration_ms": 173333,
       "name": "Una Chance",
       "url": "https://open.spotify.com/track/5brevnJdMxziQov6zyaQ1f"
+    },
+    {
+      "album": {
+        "name": "Uzi",
+        "url": "https://open.spotify.com/album/7HUaGiOfqxeHHSI84DUWGX"
+      },
+      "artists": [
+        {
+          "name": "Trap God",
+          "url": "https://open.spotify.com/artist/39yVrqHlEzhfH3juNpSRvz"
+        },
+        {
+          "name": "Sghenny Madattak",
+          "url": "https://open.spotify.com/artist/7BvgAL2eNaLZ4S3XkwqE0u"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98666,
+      "name": "Uzi",
+      "url": "https://open.spotify.com/track/5OAa4e22LQglEWHvV5BjvZ"
     },
     {
       "album": {

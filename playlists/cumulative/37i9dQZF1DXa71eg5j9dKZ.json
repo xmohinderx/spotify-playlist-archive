@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-11-24",
-  "description": "The home for alternative electronic music. Cover: TSHA",
+  "description": "The home for alternative electronic music. Cover: George Riley",
   "name": "Altar",
   "published_playlist_ids": [
     "421FObHiJ0lygWLx69aaX2"
@@ -480,6 +480,24 @@
     },
     {
       "album": {
+        "name": "All the Things We've Been Through",
+        "url": "https://open.spotify.com/album/0OVCOixuhs9hfIvTGoIGbD"
+      },
+      "artists": [
+        {
+          "name": "DJ Counselling",
+          "url": "https://open.spotify.com/artist/4wtM4f9PYov4bMpCoG4Wac"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295171,
+      "name": "All the Things We've Been Through",
+      "url": "https://open.spotify.com/track/2N7kFL9VM9JrS9XvavwMqd"
+    },
+    {
+      "album": {
         "name": "Allude",
         "url": "https://open.spotify.com/album/1PexHvyN3m7qT0WkK9jWKH"
       },
@@ -763,6 +781,24 @@
       "duration_ms": 469612,
       "name": "Asura",
       "url": "https://open.spotify.com/track/0kfCf8GLQDZFZZIhVtHZvk"
+    },
+    {
+      "album": {
+        "name": "ATK",
+        "url": "https://open.spotify.com/album/1x8w8WymEDZWQ60O7qKGbH"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245208,
+      "name": "ATK",
+      "url": "https://open.spotify.com/track/3AaGCSpUFAmtB1XGxz5IWk"
     },
     {
       "album": {
@@ -1055,6 +1091,24 @@
       "duration_ms": 241805,
       "name": "be kind lose ur mind",
       "url": "https://open.spotify.com/track/45KRL3Lbi6aVXsCvzeNye0"
+    },
+    {
+      "album": {
+        "name": "When the Lights Go",
+        "url": "https://open.spotify.com/album/2aApNIlo8yWlCk6x899rhY"
+      },
+      "artists": [
+        {
+          "name": "Totally Enormous Extinct Dinosaurs",
+          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247327,
+      "name": "Be with You",
+      "url": "https://open.spotify.com/track/2ECjeYPCdRNeuCzO0W1UMW"
     },
     {
       "album": {
@@ -2010,6 +2064,24 @@
     },
     {
       "album": {
+        "name": "Running In Waves",
+        "url": "https://open.spotify.com/album/3ihFO9WpTBiCoy2G4IWvgl"
+      },
+      "artists": [
+        {
+          "name": "George Riley",
+          "url": "https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108645,
+      "name": "Desire",
+      "url": "https://open.spotify.com/track/3DVXjW5D4mPCS7lcUdkuq4"
+    },
+    {
+      "album": {
         "name": "Diamond Cut / Bby",
         "url": "https://open.spotify.com/album/3PdVumj52Y91JGimjtAy8k"
       },
@@ -2159,6 +2231,28 @@
       "duration_ms": 177187,
       "name": "D\u00e4mmerung",
       "url": "https://open.spotify.com/track/39e01hFGPF3dyn7zUFDXKs"
+    },
+    {
+      "album": {
+        "name": "e-motions (with Erika de Casier)",
+        "url": "https://open.spotify.com/album/3FZ6xoRbaZ0BSQvWfQY5He"
+      },
+      "artists": [
+        {
+          "name": "Mura Masa",
+          "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
+        },
+        {
+          "name": "Erika de Casier",
+          "url": "https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168723,
+      "name": "e-motions (with Erika de Casier)",
+      "url": "https://open.spotify.com/track/5g1IxCinEawQcerAMrs2tU"
     },
     {
       "album": {
@@ -3172,6 +3266,24 @@
     },
     {
       "album": {
+        "name": "Heroes",
+        "url": "https://open.spotify.com/album/3IdiYTu8F4WtlWHSydLB6p"
+      },
+      "artists": [
+        {
+          "name": "Ibibio Sound Machine",
+          "url": "https://open.spotify.com/artist/4J6CnIqPEtWYn3la2YYj2c"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211226,
+      "name": "Heroes",
+      "url": "https://open.spotify.com/track/1BX7vT2Pc6FNFblmhnp6ke"
+    },
+    {
+      "album": {
         "name": "High Tide EP",
         "url": "https://open.spotify.com/album/4Ms1cZbeR20b8v4rkl0PZQ"
       },
@@ -3738,6 +3850,24 @@
     },
     {
       "album": {
+        "name": "I Love You Jennifer B",
+        "url": "https://open.spotify.com/album/4YFlC5Abaj48ERwaOPfpu8"
+      },
+      "artists": [
+        {
+          "name": "Jockstrap",
+          "url": "https://open.spotify.com/artist/6S3Z6Me30mtdm526H17v8k"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259573,
+      "name": "Jennifer B",
+      "url": "https://open.spotify.com/track/3XlZoJ4VG4yGpLomIA53Th"
+    },
+    {
+      "album": {
         "name": "Jobi",
         "url": "https://open.spotify.com/album/57Z1J5yuB2PjLsAq0l1Pt2"
       },
@@ -3847,6 +3977,24 @@
       "duration_ms": 274805,
       "name": "Keep On Believing",
       "url": "https://open.spotify.com/track/5jaFbirGVgy7WZLHreowqP"
+    },
+    {
+      "album": {
+        "name": "Kerosene",
+        "url": "https://open.spotify.com/album/6ZZJgVir4fSS9inF2IFoU9"
+      },
+      "artists": [
+        {
+          "name": "Biig Piig",
+          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149840,
+      "name": "Kerosene",
+      "url": "https://open.spotify.com/track/1uPRLmmA2YGNItLRp3BgFO"
     },
     {
       "album": {
@@ -6486,6 +6634,24 @@
     },
     {
       "album": {
+        "name": "So Clear",
+        "url": "https://open.spotify.com/album/37ePGxUZSQLlOMIE2SxOxf"
+      },
+      "artists": [
+        {
+          "name": "Hyd",
+          "url": "https://open.spotify.com/artist/3pYle1qnqjdGhG0agFZLj5"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "So Clear",
+      "url": "https://open.spotify.com/track/1NI1eV3ekhn0HbfkNp8i6m"
+    },
+    {
+      "album": {
         "name": "BMW Track / So U Kno",
         "url": "https://open.spotify.com/album/08Vp7WDcv1r8dVMjyJaVOt"
       },
@@ -7108,6 +7274,24 @@
     },
     {
       "album": {
+        "name": "The Corner",
+        "url": "https://open.spotify.com/album/5BTdRwKRznLonMVvEuAZPi"
+      },
+      "artists": [
+        {
+          "name": "Gold Panda",
+          "url": "https://open.spotify.com/artist/6xS3zemJD9h94iueQvGqVk"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220653,
+      "name": "The Corner",
+      "url": "https://open.spotify.com/track/1Pfun1VMFlTBwgqLNdUxcR"
+    },
+    {
+      "album": {
         "name": "The Dark (feat. Bklava)",
         "url": "https://open.spotify.com/album/6ZVSUV6Q5gVALQFEoAhbZF"
       },
@@ -7359,6 +7543,24 @@
       "duration_ms": 306589,
       "name": "To You",
       "url": "https://open.spotify.com/track/38GS3GcRxHE9YXuIk21eaC"
+    },
+    {
+      "album": {
+        "name": "Tommy's Dream",
+        "url": "https://open.spotify.com/album/5bAvj4QAWaKMQQaTIMRK7c"
+      },
+      "artists": [
+        {
+          "name": "Bimini",
+          "url": "https://open.spotify.com/artist/5QSfJ3Ny5A3AAmv2gg1pCk"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219360,
+      "name": "Tommy's Dream",
+      "url": "https://open.spotify.com/track/48gwHIUd09s0g1JxEv9VzJ"
     },
     {
       "album": {

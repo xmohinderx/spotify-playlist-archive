@@ -267,6 +267,24 @@
     {
       "album": {
         "name": "Nour",
+        "url": "https://open.spotify.com/album/39qrmahD2aHHwfXaoBgxXE"
+      },
+      "artists": [
+        {
+          "name": "Adonis",
+          "url": "https://open.spotify.com/artist/6LfzZtIFWlA5YdsVrAu8Xv"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239571,
+      "name": "Al Khafif",
+      "url": "https://open.spotify.com/track/2ZJlmgrAuV1okMMYl3iJE6"
+    },
+    {
+      "album": {
+        "name": "Nour",
         "url": "https://open.spotify.com/album/1wvevjoU5bxXWEXGZ1PuXw"
       },
       "artists": [
@@ -879,7 +897,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 137058,
       "name": "Halalalalaya",
       "url": "https://open.spotify.com/track/0bNJjUrO1ng64TlBzqfq1c"

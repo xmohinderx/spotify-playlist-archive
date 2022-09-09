@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lo mejor de la Salsa Cubana! Cover: Celia Cruz",
-  "num_followers": 184067,
+  "num_followers": 184260,
   "original_name": "Salsa Cubana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5ODM3NDY2NiwwMDAwMDAwMDViYWUxZjliMWZhZjIwYzMyNTc2MzljMGJlZmJiYjVj",
+  "snapshot_id": "MTU5ODM3NDY2NiwwMDAwMDAwMGIyODcxYzY0M2Y5NzU3ZWM4YTAzZGRlZDMyZDJlOGY3",
   "tracks": [
     {
       "added_at": "2020-08-25 16:57:45",
@@ -427,22 +427,6 @@
     {
       "added_at": "2020-08-25 16:57:45",
       "album": {
-        "name": "Yo Voy Pa Encima - Single",
-        "url": "https://open.spotify.com/album/3X8Xfid9BomsVbXUB7isFJ"
-      },
-      "artists": [
-        {
-          "name": "Luis Enrique",
-          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
-        }
-      ],
-      "duration_ms": 206992,
-      "name": "Yo Voy Pa Encima",
-      "url": "https://open.spotify.com/track/6CyqA8KDBXprJxkbwBVuIz"
-    },
-    {
-      "added_at": "2020-08-25 16:57:45",
-      "album": {
         "name": "Pa'lante",
         "url": "https://open.spotify.com/album/5iphNcNTNLbwxGKmEnlVu3"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 258933,
       "name": "Los Campeones De La Salsa",
       "url": "https://open.spotify.com/track/4Ii4Fk8ylnGcPn0zQ8WIdB"
+    },
+    {
+      "added_at": "2020-08-25 16:57:45",
+      "album": {
+        "name": "Yo Voy Pa Encima - Single",
+        "url": "https://open.spotify.com/album/3X8Xfid9BomsVbXUB7isFJ"
+      },
+      "artists": [
+        {
+          "name": "Luis Enrique",
+          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
+        }
+      ],
+      "duration_ms": 206992,
+      "name": "Yo Voy Pa Encima",
+      "url": "https://open.spotify.com/track/6CyqA8KDBXprJxkbwBVuIz"
     },
     {
       "added_at": "2020-08-25 16:57:45",
@@ -543,22 +543,18 @@
     {
       "added_at": "2020-08-25 16:57:45",
       "album": {
-        "name": "Los Amigos",
-        "url": "https://open.spotify.com/album/2ijH9wDqj60doCygkf1ieY"
+        "name": "Live In The USA",
+        "url": "https://open.spotify.com/album/6MtMZryAJrkwQAavMO3JJi"
       },
       "artists": [
         {
-          "name": "Johnny Pacheco",
-          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
-        },
-        {
-          "name": "Hector Casanova",
-          "url": "https://open.spotify.com/artist/1xAyYU2KQcA4QaNvVqVdu4"
+          "name": "David Calzado y su Charanga Habanera",
+          "url": "https://open.spotify.com/artist/1AqDIElf5SS51c2fpG6WQw"
         }
       ],
-      "duration_ms": 382360,
-      "name": "Agua De Clavelito",
-      "url": "https://open.spotify.com/track/5AWbnZ1k5cMwUAJ3uIIdcl"
+      "duration_ms": 476586,
+      "name": "Lola Lola",
+      "url": "https://open.spotify.com/track/6fHZOWvumsFiRgThPknxlj"
     },
     {
       "added_at": "2020-08-25 16:57:45",
@@ -579,18 +575,22 @@
     {
       "added_at": "2020-08-25 16:57:45",
       "album": {
-        "name": "Live In The USA",
-        "url": "https://open.spotify.com/album/6MtMZryAJrkwQAavMO3JJi"
+        "name": "Los Amigos",
+        "url": "https://open.spotify.com/album/2ijH9wDqj60doCygkf1ieY"
       },
       "artists": [
         {
-          "name": "David Calzado y su Charanga Habanera",
-          "url": "https://open.spotify.com/artist/1AqDIElf5SS51c2fpG6WQw"
+          "name": "Johnny Pacheco",
+          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
+        },
+        {
+          "name": "Hector Casanova",
+          "url": "https://open.spotify.com/artist/1xAyYU2KQcA4QaNvVqVdu4"
         }
       ],
-      "duration_ms": 476586,
-      "name": "Lola Lola",
-      "url": "https://open.spotify.com/track/6fHZOWvumsFiRgThPknxlj"
+      "duration_ms": 382360,
+      "name": "Agua De Clavelito",
+      "url": "https://open.spotify.com/track/5AWbnZ1k5cMwUAJ3uIIdcl"
     },
     {
       "added_at": "2020-08-25 16:57:45",
@@ -615,22 +615,6 @@
     {
       "added_at": "2020-08-25 16:57:45",
       "album": {
-        "name": "Llego... Van Van",
-        "url": "https://open.spotify.com/album/39Bn2tQqMTFkJvPPPKkiwW"
-      },
-      "artists": [
-        {
-          "name": "Los Van Van",
-          "url": "https://open.spotify.com/artist/4B5PkQ1wMjo1siTN9yD9Ds"
-        }
-      ],
-      "duration_ms": 328253,
-      "name": "El Negro Esta Cocinando",
-      "url": "https://open.spotify.com/track/0id4prYPcy8PkGkbWy4bcP"
-    },
-    {
-      "added_at": "2020-08-25 16:57:45",
-      "album": {
         "name": "Mayimbe Full",
         "url": "https://open.spotify.com/album/38iX3I9Fltkp1vk2YVVMW4"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 330397,
       "name": "El Tren Bala",
       "url": "https://open.spotify.com/track/6Ce8ZkhywFGaWmZnXeUBUA"
+    },
+    {
+      "added_at": "2020-08-25 16:57:45",
+      "album": {
+        "name": "Llego... Van Van",
+        "url": "https://open.spotify.com/album/39Bn2tQqMTFkJvPPPKkiwW"
+      },
+      "artists": [
+        {
+          "name": "Los Van Van",
+          "url": "https://open.spotify.com/artist/4B5PkQ1wMjo1siTN9yD9Ds"
+        }
+      ],
+      "duration_ms": 328253,
+      "name": "El Negro Esta Cocinando",
+      "url": "https://open.spotify.com/track/0id4prYPcy8PkGkbWy4bcP"
     },
     {
       "added_at": "2020-08-25 16:57:45",
@@ -803,18 +803,18 @@
     {
       "added_at": "2020-08-25 16:57:45",
       "album": {
-        "name": "Tibiri Tabara",
-        "url": "https://open.spotify.com/album/22HGndY6yvYJbtySZCkHt4"
+        "name": "Consumelo",
+        "url": "https://open.spotify.com/album/1suANlvy8VuPkA2Vb7pvHK"
       },
       "artists": [
         {
-          "name": "Sierra Maestra",
-          "url": "https://open.spotify.com/artist/04azg2bFlSz46nOe03VY2w"
+          "name": "TIMBALIVE",
+          "url": "https://open.spotify.com/artist/5skRgtmxRx7ukwds6UlS7R"
         }
       ],
-      "duration_ms": 313133,
-      "name": "D\u00f3nde Va Chichi?",
-      "url": "https://open.spotify.com/track/7xpJQcmsnGG9ojztoCNe54"
+      "duration_ms": 281893,
+      "name": "Consumelo",
+      "url": "https://open.spotify.com/track/5QB5D24Q2ZExArP6fG9BQh"
     },
     {
       "added_at": "2020-08-25 16:57:45",
@@ -839,18 +839,18 @@
     {
       "added_at": "2020-08-25 16:57:45",
       "album": {
-        "name": "Consumelo",
-        "url": "https://open.spotify.com/album/1suANlvy8VuPkA2Vb7pvHK"
+        "name": "Tibiri Tabara",
+        "url": "https://open.spotify.com/album/22HGndY6yvYJbtySZCkHt4"
       },
       "artists": [
         {
-          "name": "TIMBALIVE",
-          "url": "https://open.spotify.com/artist/5skRgtmxRx7ukwds6UlS7R"
+          "name": "Sierra Maestra",
+          "url": "https://open.spotify.com/artist/04azg2bFlSz46nOe03VY2w"
         }
       ],
-      "duration_ms": 281893,
-      "name": "Consumelo",
-      "url": "https://open.spotify.com/track/5QB5D24Q2ZExArP6fG9BQh"
+      "duration_ms": 313133,
+      "name": "D\u00f3nde Va Chichi?",
+      "url": "https://open.spotify.com/track/7xpJQcmsnGG9ojztoCNe54"
     }
   ],
   "unique_name": "Salsa Cubana",

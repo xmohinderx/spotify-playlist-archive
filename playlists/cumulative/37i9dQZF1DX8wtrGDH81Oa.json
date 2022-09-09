@@ -797,7 +797,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 196500,
       "name": "Dimensions",
       "url": "https://open.spotify.com/track/5rTy1sH9jfGEHzdZ5oUG3P"
@@ -1085,7 +1085,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 152288,
       "name": "Floating In Space",
       "url": "https://open.spotify.com/track/4iUX9qCWkcwLkZCH8AFzCc"
@@ -1506,6 +1506,24 @@
     },
     {
       "album": {
+        "name": "Insights",
+        "url": "https://open.spotify.com/album/2BcSmACfCfIDnCnzpp1Cyq"
+      },
+      "artists": [
+        {
+          "name": "Galavant Cross",
+          "url": "https://open.spotify.com/artist/07dC1pu2nWISPURU8irwck"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206000,
+      "name": "Insights",
+      "url": "https://open.spotify.com/track/1kwpL3EqUjKXhmEttZ78Md"
+    },
+    {
+      "album": {
         "name": "Intimo",
         "url": "https://open.spotify.com/album/4w4fHtSBXtGNGWrqxYp3j9"
       },
@@ -1535,7 +1553,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 260732,
       "name": "Isla de es Vedr\u00e1",
       "url": "https://open.spotify.com/track/23ClxBkpo2usaXLAeeS1gM"
@@ -2561,7 +2579,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 230000,
       "name": "Slow Rain",
       "url": "https://open.spotify.com/track/1edBi0eW1gqWWATbHrLJ0Q"
@@ -2583,6 +2601,24 @@
       "duration_ms": 235500,
       "name": "Small Movements",
       "url": "https://open.spotify.com/track/3gO8WiLfYrnVvNwGHlzy1J"
+    },
+    {
+      "album": {
+        "name": "Sona",
+        "url": "https://open.spotify.com/album/6w5j6hPwk1g9xhmeEWRkfF"
+      },
+      "artists": [
+        {
+          "name": "Valante",
+          "url": "https://open.spotify.com/artist/3s1vSYK2eb5fflFHezIbUh"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212384,
+      "name": "Sona",
+      "url": "https://open.spotify.com/track/0McdR3kjH8OKdGMAUHsBiU"
     },
     {
       "album": {

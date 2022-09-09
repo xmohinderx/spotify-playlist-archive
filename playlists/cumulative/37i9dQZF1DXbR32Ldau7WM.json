@@ -664,6 +664,24 @@
     },
     {
       "album": {
+        "name": "Entertain",
+        "url": "https://open.spotify.com/album/2bnZXiHyF1C2F1cMZWn2zX"
+      },
+      "artists": [
+        {
+          "name": "Dragon Ash",
+          "url": "https://open.spotify.com/artist/2wDlv5Qp9pffOqnO4vdn8L"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216533,
+      "name": "Entertain",
+      "url": "https://open.spotify.com/track/6jxS9Z1610FPfKcT339Kfb"
+    },
+    {
+      "album": {
         "name": "THE NEW ALBUM",
         "url": "https://open.spotify.com/album/1oUP4voVB2HB89sPPsXCzO"
       },
@@ -1175,7 +1193,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 224960,
       "name": "Hunter or Prey",
       "url": "https://open.spotify.com/track/1mSzEhQw7CH50j9e97un0V"
@@ -1377,7 +1395,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 179706,
       "name": "Just",
       "url": "https://open.spotify.com/track/648ultx75M4zzMpS7YDgVs"
@@ -1529,6 +1547,24 @@
       "duration_ms": 180211,
       "name": "Let Me Let You Go - Japanese Version",
       "url": "https://open.spotify.com/track/4kvYYgoKbVblOo7lPfJWf2"
+    },
+    {
+      "album": {
+        "name": "Light it up",
+        "url": "https://open.spotify.com/album/4sVEnfI07lxARCXUyTtZ6q"
+      },
+      "artists": [
+        {
+          "name": "SiM",
+          "url": "https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190280,
+      "name": "Light it up",
+      "url": "https://open.spotify.com/track/2vMoL8XqftPhCFE38Z8abj"
     },
     {
       "album": {
@@ -3077,7 +3113,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 194695,
       "name": "Vandalize - Japanese Version",
       "url": "https://open.spotify.com/track/2nuDirYeA0wsYcFMgC7L8E"
@@ -4083,7 +4119,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 192133,
-      "name": "\u30ca\u30f3\u30d0\u30fc1",
+      "name": "\u30ca\u30f3\u30d0\u30fc1 - Remastered Version",
       "url": "https://open.spotify.com/track/40lwHVBXtwwwp41vIv4hz3"
     },
     {

@@ -1,12 +1,12 @@
 {
   "description": "Blues guitar heroes of today. Cover: Kirk Fletcher",
-  "num_followers": 13457,
+  "num_followers": 13501,
   "original_name": "Modern Blues Guitar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MjQxNDUyMCwwMDAwMDAwMGRjMGRhMzM2MDAyYmNhNDhiYmI4YzZlZmE1YTFjZTBm",
+  "snapshot_id": "MTY1MjQxNDUyMCwwMDAwMDAwMGVkMDFlODJjOGU1YzhhZjhmOWNiYWIyNTU1NjlkMzY4",
   "tracks": [
     {
       "added_at": "2020-10-21 17:37:12",
@@ -219,22 +219,6 @@
     {
       "added_at": "2020-10-21 17:37:12",
       "album": {
-        "name": "Have You Lost Your Mind yet?",
-        "url": "https://open.spotify.com/album/6b96nRUJmHMTQwK1IK9tJy"
-      },
-      "artists": [
-        {
-          "name": "Fantastic Negrito",
-          "url": "https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13"
-        }
-      ],
-      "duration_ms": 295839,
-      "name": "Chocolate Samurai",
-      "url": "https://open.spotify.com/track/0Tnt1pxkoNdX1ZWkRTW8f6"
-    },
-    {
-      "added_at": "2020-10-21 17:37:12",
-      "album": {
         "name": "Spirit Rising",
         "url": "https://open.spotify.com/album/3dQKiRCBLOnvRmfcTCJP0H"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 208974,
       "name": "Burning Out",
       "url": "https://open.spotify.com/track/5abyTR9t1SuyS8YAQZd6xA"
+    },
+    {
+      "added_at": "2020-10-21 17:37:12",
+      "album": {
+        "name": "Have You Lost Your Mind yet?",
+        "url": "https://open.spotify.com/album/6b96nRUJmHMTQwK1IK9tJy"
+      },
+      "artists": [
+        {
+          "name": "Fantastic Negrito",
+          "url": "https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13"
+        }
+      ],
+      "duration_ms": 295839,
+      "name": "Chocolate Samurai",
+      "url": "https://open.spotify.com/track/0Tnt1pxkoNdX1ZWkRTW8f6"
     },
     {
       "added_at": "2020-10-21 17:37:12",
@@ -311,6 +311,22 @@
       "duration_ms": 232088,
       "name": "Threw Me to the Wolves",
       "url": "https://open.spotify.com/track/2NyIqmxO95eMwULJLThPPu"
+    },
+    {
+      "added_at": "2020-10-21 17:37:12",
+      "album": {
+        "name": "Spirit Rising",
+        "url": "https://open.spotify.com/album/3dQKiRCBLOnvRmfcTCJP0H"
+      },
+      "artists": [
+        {
+          "name": "Philip Sayce",
+          "url": "https://open.spotify.com/artist/5Npr4HpRE8YlsisRjN9T8h"
+        }
+      ],
+      "duration_ms": 218088,
+      "name": "Spirit",
+      "url": "https://open.spotify.com/track/0G1p6qY60TM9fT3v9iHRdF"
     },
     {
       "added_at": "2020-10-21 17:37:12",
@@ -387,38 +403,6 @@
     {
       "added_at": "2020-10-21 17:37:12",
       "album": {
-        "name": "This Land",
-        "url": "https://open.spotify.com/album/6pwdy6oQdwSQo8XOfpfAJJ"
-      },
-      "artists": [
-        {
-          "name": "Gary Clark Jr.",
-          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
-        }
-      ],
-      "duration_ms": 157413,
-      "name": "Got to Get Up",
-      "url": "https://open.spotify.com/track/4UPWcafmoDHKZziDsTumP3"
-    },
-    {
-      "added_at": "2020-10-21 17:37:12",
-      "album": {
-        "name": "Spirit Rising",
-        "url": "https://open.spotify.com/album/3dQKiRCBLOnvRmfcTCJP0H"
-      },
-      "artists": [
-        {
-          "name": "Philip Sayce",
-          "url": "https://open.spotify.com/artist/5Npr4HpRE8YlsisRjN9T8h"
-        }
-      ],
-      "duration_ms": 218088,
-      "name": "Spirit",
-      "url": "https://open.spotify.com/track/0G1p6qY60TM9fT3v9iHRdF"
-    },
-    {
-      "added_at": "2020-10-21 17:37:12",
-      "album": {
         "name": "The Traveler",
         "url": "https://open.spotify.com/album/2Y84Mm4NzY5TzbdR1ub9Ow"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 387706,
       "name": "I Want You",
       "url": "https://open.spotify.com/track/7LcaMnxskCb9tvxggOBR2O"
+    },
+    {
+      "added_at": "2020-10-21 17:37:12",
+      "album": {
+        "name": "This Land",
+        "url": "https://open.spotify.com/album/6pwdy6oQdwSQo8XOfpfAJJ"
+      },
+      "artists": [
+        {
+          "name": "Gary Clark Jr.",
+          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
+        }
+      ],
+      "duration_ms": 157413,
+      "name": "Got to Get Up",
+      "url": "https://open.spotify.com/track/4UPWcafmoDHKZziDsTumP3"
     },
     {
       "added_at": "2020-10-21 17:37:12",
@@ -695,22 +695,6 @@
     {
       "added_at": "2020-10-21 17:37:12",
       "album": {
-        "name": "Defenestrator",
-        "url": "https://open.spotify.com/album/7Gr8iZYU89gbFwvao6MA3h"
-      },
-      "artists": [
-        {
-          "name": "Greg Koch",
-          "url": "https://open.spotify.com/artist/5Y6wPwVr2krTASRASpMLsC"
-        }
-      ],
-      "duration_ms": 428577,
-      "name": "Chief's Blues",
-      "url": "https://open.spotify.com/track/0MtLzhrCsKEwFipuRI532O"
-    },
-    {
-      "added_at": "2020-10-21 17:37:12",
-      "album": {
         "name": "Chills & Thrills",
         "url": "https://open.spotify.com/album/3NAEXb8fdzzi9umXkF36J5"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 241706,
       "name": "Groove With Me",
       "url": "https://open.spotify.com/track/2VaKZQ6d3qY0roo4E1Hapg"
+    },
+    {
+      "added_at": "2020-10-21 17:37:12",
+      "album": {
+        "name": "Defenestrator",
+        "url": "https://open.spotify.com/album/7Gr8iZYU89gbFwvao6MA3h"
+      },
+      "artists": [
+        {
+          "name": "Greg Koch",
+          "url": "https://open.spotify.com/artist/5Y6wPwVr2krTASRASpMLsC"
+        }
+      ],
+      "duration_ms": 428577,
+      "name": "Chief's Blues",
+      "url": "https://open.spotify.com/track/0MtLzhrCsKEwFipuRI532O"
     },
     {
       "added_at": "2020-10-21 17:37:12",
@@ -805,22 +805,6 @@
       "url": "https://open.spotify.com/track/706ZgJOItrsyuJFLvh2JKl"
     },
     {
-      "added_at": "2021-09-03 04:01:00",
-      "album": {
-        "name": "Clawhammer",
-        "url": "https://open.spotify.com/album/1ZzwjyLk0uWUYsdMDxXkIS"
-      },
-      "artists": [
-        {
-          "name": "Ariel Posen",
-          "url": "https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y"
-        }
-      ],
-      "duration_ms": 270370,
-      "name": "Clawhammer",
-      "url": "https://open.spotify.com/track/3LHH5SAytvRIzj2i3XKvLU"
-    },
-    {
       "added_at": "2021-06-04 04:01:00",
       "album": {
         "name": "Shufflin' West Coast",
@@ -867,6 +851,22 @@
       "duration_ms": 262536,
       "name": "Shufflin' West Coast",
       "url": "https://open.spotify.com/track/35znJMAm3GhjLwY9o3KiSG"
+    },
+    {
+      "added_at": "2021-09-03 04:01:00",
+      "album": {
+        "name": "Clawhammer",
+        "url": "https://open.spotify.com/album/1ZzwjyLk0uWUYsdMDxXkIS"
+      },
+      "artists": [
+        {
+          "name": "Ariel Posen",
+          "url": "https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y"
+        }
+      ],
+      "duration_ms": 270370,
+      "name": "Clawhammer",
+      "url": "https://open.spotify.com/track/3LHH5SAytvRIzj2i3XKvLU"
     }
   ],
   "unique_name": "Modern Blues Guitar",

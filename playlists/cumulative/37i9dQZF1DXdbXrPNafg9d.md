@@ -4,7 +4,7 @@
 
 > The best new tracks every week\. Cover: Miya Folick
 
-4,111 songs - 10 day 1 hr 32 min - [published](https://open.spotify.com/playlist/1AAb6HvkitUK9waoKCTxpm)
+4,112 songs - 10 day 1 hr 35 min - [published](https://open.spotify.com/playlist/1AAb6HvkitUK9waoKCTxpm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -477,6 +477,7 @@
 | [Brasil](https://open.spotify.com/track/68C3GNBXigDseAAgLMitGM) | [EOB](https://open.spotify.com/artist/4CX6yOoTFQeiwL5yxuFuIG) | [Brasil](https://open.spotify.com/album/7AWeJHYitxvvVEu9czXKfw) | 8:27 | 2019-12-06 | 2020-01-24 |
 | [Break Me Open](https://open.spotify.com/track/0WbtcjCNI2wmekd7d83ISi) | [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [Break Me Open](https://open.spotify.com/album/5ETeNxIf3zlzUz09jJEsOY) | 3:03 | 2022-02-11 | 2022-03-26 |
 | [Break The Rhythm](https://open.spotify.com/track/3aKk3RAc8lXQUum6JfZEfx) | [Charlie Burg](https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8) | [Break The Rhythm](https://open.spotify.com/album/3qML5ZBNZDJr2XSf5yWrgY) | 3:50 | 2022-05-06 | 2022-06-22 |
+| [Break!](https://open.spotify.com/track/0flObXoVkthxtvvOksCZXI) | [Fazerdaze](https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh) | [Break!](https://open.spotify.com/album/05Bz4ReOzzjSCOYU0zAezd) | 2:53 | 2022-09-07 |  |
 | [breakfast](https://open.spotify.com/track/7I2hbb8rsTvJR5PtaywRkv) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [breakfast](https://open.spotify.com/album/1B1Cj7rG8nQ8KdQ5FSYZNc) | 3:12 | 2021-12-10 | 2022-02-12 |
 | [Breaking the Waves](https://open.spotify.com/track/5XDf4vtvaNe0vyu8i447Ew) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [Voyager](https://open.spotify.com/album/01U0pmE3UZfB9mSwUkE0m9) | 2:54 | 2021-05-15 | 2021-07-17 |
 | [Breathe](https://open.spotify.com/track/0GrWBv20qh7DWM39piAGKI) | [Born Ruffians](https://open.spotify.com/artist/7wGrLSB3v7jkV3fSsjYwtv) | [JUICE](https://open.spotify.com/album/35WpCbOfkYtqgq9fcs0lLs) | 3:28 | 2020-04-04 | 2020-04-24 |
@@ -1428,7 +1429,7 @@
 | [Got What You Wanted](https://open.spotify.com/track/3lulXMWZo5rfXbqFKbdJ2Z) | [Cal in Red](https://open.spotify.com/artist/3dXBDrVfLai40505fF4HH1) | [Cellular](https://open.spotify.com/album/5FKHHLUMsy5b0sKG5kjkxr) | 3:57 | 2021-12-17 | 2022-02-05 |
 | [GPS \(w/ Felly\)](https://open.spotify.com/track/7HZrYnVlYSsx7MVeBvizgH) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw), [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [GPS \(w/ Felly\)](https://open.spotify.com/album/2PcrCDemJVsysOdpeNXNyP) | 2:48 | 2021-09-11 | 2021-11-06 |
 | [Gr8 Timing!](https://open.spotify.com/track/0R5RnMzKGJLLwlS8FAnDp3) | [fanclubwallet](https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe) | [Gr8 Timing!](https://open.spotify.com/album/3WVOknczJMFhzYahdBbbAd) | 2:37 | 2022-03-04 | 2022-04-23 |
-| [Grace](https://open.spotify.com/track/0aJq40QZqvfGubgfKy5knk) | [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB) | [Grace](https://open.spotify.com/album/44ei9ptYrZ8ys7aXPW6bF8) | 4:13 | 2022-07-29 |  |
+| [Grace](https://open.spotify.com/track/0aJq40QZqvfGubgfKy5knk) | [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB) | [Grace](https://open.spotify.com/album/44ei9ptYrZ8ys7aXPW6bF8) | 4:13 | 2022-07-29 | 2022-09-09 |
 | [Gracious Day](https://open.spotify.com/track/2wQANDXksi6BqfTkvm63Q2) | [TORRES](https://open.spotify.com/artist/3lrDYjsghBMfUTiLziD9q9) | [Gracious Day](https://open.spotify.com/album/65oWWfSiVcm3p57T9HBNQs) | 2:34 | 2019-12-06 | 2020-01-10 |
 | [Grade A \(feat\. JAWNY\)](https://open.spotify.com/track/6ek40cFUiRjxA2KrOHNfi3) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r), [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [Grade A \(feat\. JAWNY\)](https://open.spotify.com/album/55yLoYwGsnb7tCg10LmKIJ) | 1:46 | 2021-10-02 | 2021-11-20 |
 | [Grand Caravan](https://open.spotify.com/track/3w0noEo1FerZAoxA7e2oD7) | [Gabe Goodman](https://open.spotify.com/artist/3ak5fTKu5X8h4yhvf5ThmF) | [Grand Caravan](https://open.spotify.com/album/72ZA8hNr6Be1YSCTQpSRwF) | 2:57 | 2021-05-22 | 2021-07-17 |

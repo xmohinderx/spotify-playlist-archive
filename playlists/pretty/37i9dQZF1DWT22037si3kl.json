@@ -1,12 +1,12 @@
 {
   "description": "Chique e confort\u00e1vel como a realeza do Trap. Foto: BIN, MC Ryan SP",
-  "num_followers": 55660,
+  "num_followers": 55992,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjM4NjM1MiwwMDAwMDAwMDg2NTJiMjYwMTVmZmE0M2RkNzEwNTE5MWYyZmMxMmIw",
+  "snapshot_id": "MTY2MjM4NjM1MiwwMDAwMDAwMDhmMzNiZDJiYjVjNzk3ODg3ODIwMzA0M2MyNmZhMWNm",
   "tracks": [
     {
       "added_at": "2022-09-05 13:59:12",
@@ -576,12 +576,12 @@
           "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
         },
         {
-          "name": "Borges",
-          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
-        },
-        {
           "name": "KIB7",
           "url": "https://open.spotify.com/artist/7lSYO6wq6ueSYYIEUbF92u"
+        },
+        {
+          "name": "Borges",
+          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
         }
       ],
       "duration_ms": 210445,
@@ -623,6 +623,30 @@
     {
       "added_at": "2022-09-05 13:59:12",
       "album": {
+        "name": "Bahia",
+        "url": "https://open.spotify.com/album/5Rt4zzyB0s5OK99uAt4mRU"
+      },
+      "artists": [
+        {
+          "name": "Alee",
+          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
+        },
+        {
+          "name": "Nagalli",
+          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
+        },
+        {
+          "name": "Hash Produ\u00e7\u00f5es",
+          "url": "https://open.spotify.com/artist/4BZ0ACrHCLropCpHJypPvV"
+        }
+      ],
+      "duration_ms": 162857,
+      "name": "Bahia",
+      "url": "https://open.spotify.com/track/5owa9sHRDBAS2cLuV206xy"
+    },
+    {
+      "added_at": "2022-09-05 13:59:12",
+      "album": {
         "name": "Cash",
         "url": "https://open.spotify.com/album/4wE0QFfKjFvkvVojK4rmxT"
       },
@@ -651,26 +675,22 @@
     {
       "added_at": "2022-09-05 13:59:12",
       "album": {
-        "name": "Bahia",
-        "url": "https://open.spotify.com/album/5Rt4zzyB0s5OK99uAt4mRU"
+        "name": "Bandido N\u00e3o Dan\u00e7a BB",
+        "url": "https://open.spotify.com/album/4BHeptNqGFzDkXnwDHU1LC"
       },
       "artists": [
         {
-          "name": "Alee",
-          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
+          "name": "OG BEBEL",
+          "url": "https://open.spotify.com/artist/00DTlsaKlzH3JrAjgU61Ha"
         },
         {
-          "name": "Nagalli",
-          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
-        },
-        {
-          "name": "Hash Produ\u00e7\u00f5es",
-          "url": "https://open.spotify.com/artist/4BZ0ACrHCLropCpHJypPvV"
+          "name": "Young World",
+          "url": "https://open.spotify.com/artist/3xryEc7ue6lV1kr3dp5PXY"
         }
       ],
-      "duration_ms": 162857,
-      "name": "Bahia",
-      "url": "https://open.spotify.com/track/5owa9sHRDBAS2cLuV206xy"
+      "duration_ms": 133333,
+      "name": "Bandido N\u00e3o Dan\u00e7a BB",
+      "url": "https://open.spotify.com/track/2YRPuiScVNaKAyNRu03ste"
     },
     {
       "added_at": "2022-09-05 13:59:12",
@@ -691,26 +711,6 @@
       "duration_ms": 118000,
       "name": "Gest\u00e3o Inteligente",
       "url": "https://open.spotify.com/track/7hqoLCS3rhWYoWUBOgakaU"
-    },
-    {
-      "added_at": "2022-09-05 13:59:12",
-      "album": {
-        "name": "Bandido N\u00e3o Dan\u00e7a BB",
-        "url": "https://open.spotify.com/album/4BHeptNqGFzDkXnwDHU1LC"
-      },
-      "artists": [
-        {
-          "name": "OG BEBEL",
-          "url": "https://open.spotify.com/artist/00DTlsaKlzH3JrAjgU61Ha"
-        },
-        {
-          "name": "Young World",
-          "url": "https://open.spotify.com/artist/3xryEc7ue6lV1kr3dp5PXY"
-        }
-      ],
-      "duration_ms": 133333,
-      "name": "Bandido N\u00e3o Dan\u00e7a BB",
-      "url": "https://open.spotify.com/track/2YRPuiScVNaKAyNRu03ste"
     },
     {
       "added_at": "2022-09-05 13:59:12",
@@ -743,30 +743,6 @@
     {
       "added_at": "2022-09-05 13:59:12",
       "album": {
-        "name": "Panamera",
-        "url": "https://open.spotify.com/album/63pxCSJJWJScWObD1R2Wzm"
-      },
-      "artists": [
-        {
-          "name": "KayBlack",
-          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
-        },
-        {
-          "name": "Jovem Dex",
-          "url": "https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl"
-        },
-        {
-          "name": "AMUSIK",
-          "url": "https://open.spotify.com/artist/48r1nXoaPXPSx1LoM0Rnzl"
-        }
-      ],
-      "duration_ms": 157777,
-      "name": "Panamera",
-      "url": "https://open.spotify.com/track/1z61dHpzFnpbLQFZl8GjLH"
-    },
-    {
-      "added_at": "2022-09-05 13:59:12",
-      "album": {
         "name": ".38",
         "url": "https://open.spotify.com/album/0mJJ8TX7LK2MCa8TIHapaO"
       },
@@ -791,6 +767,30 @@
     {
       "added_at": "2022-09-05 13:59:12",
       "album": {
+        "name": "Panamera",
+        "url": "https://open.spotify.com/album/63pxCSJJWJScWObD1R2Wzm"
+      },
+      "artists": [
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        },
+        {
+          "name": "Jovem Dex",
+          "url": "https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl"
+        },
+        {
+          "name": "AMUSIK",
+          "url": "https://open.spotify.com/artist/48r1nXoaPXPSx1LoM0Rnzl"
+        }
+      ],
+      "duration_ms": 157777,
+      "name": "Panamera",
+      "url": "https://open.spotify.com/track/1z61dHpzFnpbLQFZl8GjLH"
+    },
+    {
+      "added_at": "2022-09-05 13:59:12",
+      "album": {
         "name": "Animais Traidores",
         "url": "https://open.spotify.com/album/6y2A0eRXjwkJ0b9VCaLkum"
       },
@@ -807,30 +807,6 @@
       "duration_ms": 196173,
       "name": "Animais Traidores",
       "url": "https://open.spotify.com/track/0joR9BM1Y2ieSnl7bA2EHY"
-    },
-    {
-      "added_at": "2022-09-05 13:59:12",
-      "album": {
-        "name": "Intoc\u00e1vel",
-        "url": "https://open.spotify.com/album/0tPRn8Y8Xmj6xErQPnuExw"
-      },
-      "artists": [
-        {
-          "name": "Borges",
-          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
-        },
-        {
-          "name": "Mainstreet",
-          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
-        },
-        {
-          "name": "Kyan",
-          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
-        }
-      ],
-      "duration_ms": 174303,
-      "name": "Contando Dinheiro",
-      "url": "https://open.spotify.com/track/1jeg6gX21ljllOryvi9SJh"
     },
     {
       "added_at": "2022-09-05 13:59:12",
@@ -859,6 +835,30 @@
       "duration_ms": 194986,
       "name": "Rolex",
       "url": "https://open.spotify.com/track/5WSELUpi4GjDx3nRolKvSy"
+    },
+    {
+      "added_at": "2022-09-05 13:59:12",
+      "album": {
+        "name": "Intoc\u00e1vel",
+        "url": "https://open.spotify.com/album/0tPRn8Y8Xmj6xErQPnuExw"
+      },
+      "artists": [
+        {
+          "name": "Borges",
+          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        },
+        {
+          "name": "Kyan",
+          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
+        }
+      ],
+      "duration_ms": 174303,
+      "name": "Contando Dinheiro",
+      "url": "https://open.spotify.com/track/1jeg6gX21ljllOryvi9SJh"
     },
     {
       "added_at": "2022-09-05 13:59:12",

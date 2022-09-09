@@ -644,6 +644,24 @@
     },
     {
       "album": {
+        "name": "Coisas De Amor",
+        "url": "https://open.spotify.com/album/5iOi8dqj4Pg7yz4IcH385v"
+      },
+      "artists": [
+        {
+          "name": "Izrra",
+          "url": "https://open.spotify.com/artist/38m0QxjrBKOOEymSd33GzV"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209712,
+      "name": "C\u00e9u Lil\u00e1s",
+      "url": "https://open.spotify.com/track/0FQY7oS0hx70mT66a3473S"
+    },
+    {
+      "album": {
         "name": "De Novo",
         "url": "https://open.spotify.com/album/0pEgo6T1sl8cNedAREKVS7"
       },
@@ -2105,7 +2123,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 140624,
       "name": "PRIMEIRA VISTA",
       "url": "https://open.spotify.com/track/4hkYMXUKY6HS3JreKVj7xs"

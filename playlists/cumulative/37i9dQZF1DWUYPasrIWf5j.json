@@ -790,6 +790,24 @@
     },
     {
       "album": {
+        "name": "Shape of You",
+        "url": "https://open.spotify.com/album/5ddlKDkaTG9bHBK60YO4al"
+      },
+      "artists": [
+        {
+          "name": "Ren Anderson",
+          "url": "https://open.spotify.com/artist/1GFIqy0jybt5CDJawIbHS8"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278016,
+      "name": "Love Song",
+      "url": "https://open.spotify.com/track/5OFd5vy1z9MlPkevJZszFI"
+    },
+    {
+      "album": {
         "name": "Ukelele Girl",
         "url": "https://open.spotify.com/album/6dMsLBwMpTlwWsE1U3Sz7R"
       },

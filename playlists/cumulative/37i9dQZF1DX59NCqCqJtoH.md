@@ -4,7 +4,7 @@
 
 > We hear you.
 
-478 songs - 23 hr 41 min - [published](https://open.spotify.com/playlist/40vV3pGK0ufA9YrTysgewE)
+479 songs - 23 hr 44 min - [published](https://open.spotify.com/playlist/40vV3pGK0ufA9YrTysgewE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,10 +95,11 @@
 | [Dipshit](https://open.spotify.com/track/4cIWpQMGFZWEuGW0TWMDjT) | [marinelli](https://open.spotify.com/artist/0iqCNJHozJhcjPDoX1EJ6a) | [Dipshit](https://open.spotify.com/album/06tbprIHnAibGPy6s6mkPI) | 2:37 | 2022-01-21 | 2022-07-22 |
 | [disappear](https://open.spotify.com/track/5YVuTCLDxjS8pORppZhNsf) | [eli.](https://open.spotify.com/artist/05TvjXcgQveeF7wh2DBHvp) | [the way we used to love.](https://open.spotify.com/album/5TpuZa5jlD6Jf3Kf6qglHo) | 3:45 | 2021-04-02 | 2022-04-18 |
 | [Do You Ever Think of Me?](https://open.spotify.com/track/3UsCeel9NuKKmpls5B4osK) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH), [Rxseboy](https://open.spotify.com/artist/1ScHz7wPPxVTEKsc9g3Z0c) | [Worn Out Heart](https://open.spotify.com/album/4LzEBzni6lrIqW37VP1Z6g) | 2:05 | 2021-04-02 | 2022-07-20 |
-| [don't cry](https://open.spotify.com/track/2tB9EXMGGzvRdxxwyzIJCC) | [sadeyes](https://open.spotify.com/artist/5fj4oi7qHDoklvnnYmSBl0) | [don't cry](https://open.spotify.com/album/1tVL6fR2ybpi6qt4vLx6Nq) | 2:18 | 2021-04-02 |  |
+| [don't cry](https://open.spotify.com/track/2tB9EXMGGzvRdxxwyzIJCC) | [sadeyes](https://open.spotify.com/artist/5fj4oi7qHDoklvnnYmSBl0) | [don't cry](https://open.spotify.com/album/1tVL6fR2ybpi6qt4vLx6Nq) | 2:18 | 2021-04-02 | 2022-09-09 |
 | [don't fall asleep yet](https://open.spotify.com/track/7sQhhSlMui3JOZ4s2j4IjM) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [ENRA](https://open.spotify.com/artist/1jDbZQQs4VNtiC4AerpIg4) | [don't fall asleep yet](https://open.spotify.com/album/2GuOx7qugrgnvY6p5YFw65) | 2:26 | 2021-04-02 | 2022-04-21 |
 | [Don't Give Up](https://open.spotify.com/track/1QulgzFcNHJswXIGev88wJ) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [Don't Give Up](https://open.spotify.com/album/5TveGocdKCuekZq3OiJemZ) | 1:54 | 2021-04-02 | 2022-06-02 |
 | [Don't Leave Me Here](https://open.spotify.com/track/35SPQHyWb9mfV74jIBda1r) | [R.L\. Beats](https://open.spotify.com/artist/0EYPvjUpwFLKU6KHM6ecCO) | [Don't Leave Me Here](https://open.spotify.com/album/5AXrOB1jMR6BnzAsC9Wfi2) | 2:23 | 2022-01-25 | 2022-04-20 |
+| [Don't Leave, Don't Go](https://open.spotify.com/track/07nd9H2REZKIhVgp3n36YL) | [Deyaz](https://open.spotify.com/artist/1wHWfSUySUXQV73PnpUBUc) | [Don't Leave, Don't Go / Bleed](https://open.spotify.com/album/1awanVhccvZ0L2WTMm9FfT) | 3:04 | 2022-09-02 |  |
 | [Don't Leave, Don't Go](https://open.spotify.com/track/4MYaU9PrPCI095w8nBs93q) | [Deyaz](https://open.spotify.com/artist/1wHWfSUySUXQV73PnpUBUc) | [Don't Leave, Don't Go / Bleed](https://open.spotify.com/album/1rx5QrAj60VkT8XL5krOb9) | 3:04 | 2022-04-12 | 2022-07-27 |
 | [dream girl](https://open.spotify.com/track/3agflhasTpwVk5opeCab2a) | [8percent](https://open.spotify.com/artist/3IvnJDS7SNCDivxi0xkiSK) | [dream girl](https://open.spotify.com/album/04rhxkRkDHgofGYxLkmg9a) | 1:27 | 2021-04-02 | 2022-08-12 |
 | [dream girl](https://open.spotify.com/track/0Hfah746oDkvCS7ySP3k1c) | [8percent](https://open.spotify.com/artist/3IvnJDS7SNCDivxi0xkiSK) | [dream girl](https://open.spotify.com/album/23LA5dOCq2mVA8sFzfp0V9) | 1:27 | 2022-08-12 |  |

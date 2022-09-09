@@ -4,7 +4,7 @@
 
 > Jesus Music but make it pon pon\.   Get your fill of Afrobeats and Bible right here!  Cover: Limoblaze
 
-53 songs - 2 hr 43 min - [published](https://open.spotify.com/playlist/3Byz18nq85Iwxm1gDdCput)
+54 songs - 2 hr 46 min - [published](https://open.spotify.com/playlist/3Byz18nq85Iwxm1gDdCput)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,8 @@
 | [Lotta Things](https://open.spotify.com/track/190mAgySPlWSbOZd5kLlyq) | [Paul the Messenger](https://open.spotify.com/artist/2UbUpUm5AVacCH9eYrIkPD) | [Lotta Things](https://open.spotify.com/album/6psz7fSrqECBaL6feOB8b5) | 2:36 | 2022-07-30 |  |
 | [Made Whole](https://open.spotify.com/track/5k04oXnUohIKuaVSlDy0kV) | [Gil Joe](https://open.spotify.com/artist/7wEZIbeR4EyyHKhMEvBo5h) | [Made Whole](https://open.spotify.com/album/7B7LqjPV3iVz3Qa1oEN5lM) | 3:32 | 2022-07-30 |  |
 | [My Worship \(Amapiano\)](https://open.spotify.com/track/2CUdZFOLc0yL8IKkg7J59F) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL), [P\-Tempo](https://open.spotify.com/artist/6XZsA5edNiT1XXJ36ANxd7) | [My Worship \(Amapiano\)](https://open.spotify.com/album/5aCjlzI5itsPLwN1qCCpiG) | 6:22 | 2022-07-30 | 2022-08-16 |
-| [No Other](https://open.spotify.com/track/1QWpcivzYF7HeK9DzOxxiy) | [Ryan Hylton](https://open.spotify.com/artist/1P8PmsHk2ZIxMQcFC3n7vm), [Amanda Kono](https://open.spotify.com/artist/2yAemj0rN4gJB3DD7hTYO7) | [No Other](https://open.spotify.com/album/08VFAkkeRqSiinFdQ83M7a) | 2:57 | 2022-07-30 |  |
+| [No Other](https://open.spotify.com/track/1QWpcivzYF7HeK9DzOxxiy) | [Ryan Hylton](https://open.spotify.com/artist/1P8PmsHk2ZIxMQcFC3n7vm), [Amanda Kono](https://open.spotify.com/artist/2yAemj0rN4gJB3DD7hTYO7) | [No Other](https://open.spotify.com/album/08VFAkkeRqSiinFdQ83M7a) | 2:57 | 2022-07-30 | 2022-09-09 |
+| [No Other](https://open.spotify.com/track/78kOBQyMmJstTJDj0PS0l7) | [Ryan Hylton](https://open.spotify.com/artist/1P8PmsHk2ZIxMQcFC3n7vm), [Amanda Kono](https://open.spotify.com/artist/2yAemj0rN4gJB3DD7hTYO7) | [No Other](https://open.spotify.com/album/76oS8RSrWRRUtwYfqx5bTC) | 2:57 | 2022-08-16 |  |
 | [No Play](https://open.spotify.com/track/3LP9gtouosFKgwQw3KkrWb) | [Maikon West](https://open.spotify.com/artist/3QKJ7PXenJvvf1MiicgBIG), [Lekan Salamii](https://open.spotify.com/artist/2S8pBLSlvmEiRPl2SMPfPB), [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY) | [No Play](https://open.spotify.com/album/3Op5W7Mf4IAD8jLEBynDeh) | 2:30 | 2022-07-30 |  |
 | [Nobody Like You \- Radio Edit](https://open.spotify.com/track/7pbKyiwB7gL0VRzLPWqXmA) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL), [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [Nobody Like You EP](https://open.spotify.com/album/2PFlmqHVo3ywJl9GqxOxaL) | 3:05 | 2022-07-30 |  |
 | [Oluwa](https://open.spotify.com/track/0GemmvjfJSf8MwLMXYdDCx) | [K3ndrick](https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5), [Oba Reengy](https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC) | [Oluwa](https://open.spotify.com/album/4qvJv3zrjrwSE1Izdjeu6p) | 2:40 | 2022-07-30 |  |

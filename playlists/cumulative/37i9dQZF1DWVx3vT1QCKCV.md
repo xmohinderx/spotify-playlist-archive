@@ -4,7 +4,7 @@
 
 > The jazz giant's classic recordings.
 
-74 songs - 9 hr 4 min - [published](https://open.spotify.com/playlist/0jfHqNhOpmf2OncwPpR2fE)
+75 songs - 9 hr 13 min - [published](https://open.spotify.com/playlist/0jfHqNhOpmf2OncwPpR2fE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Iris](https://open.spotify.com/track/4NiKtErEz8AzMHw6XzXhbm) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Stellar Regions \(Expanded Edition\)](https://open.spotify.com/album/7mRUsJqMx3abxYEVch43bI) | 3:53 | 2022-04-27 |  |
 | [It's Easy To Remember](https://open.spotify.com/track/1lZ41PumDFX0e82XTGx4sE) | [John Coltrane Quartet](https://open.spotify.com/artist/67PZTxaHKMZBFRUh8wIzCy) | [Ballads \(Deluxe Edition \- Rudy Van Gelder Remaster\)](https://open.spotify.com/album/0Ydakb7npXmyTwFLvKc5qt) | 2:45 | 2022-04-27 |  |
 | [It's Easy To Remember](https://open.spotify.com/track/4XSr9lt9AAs6hxcpvalq5K) | [John Coltrane Quartet](https://open.spotify.com/artist/67PZTxaHKMZBFRUh8wIzCy) | [Ballads \(Deluxe Edition\)](https://open.spotify.com/album/44M3n6XShRwkwAk0z5hnmL) | 2:47 | 2021-10-21 | 2022-07-29 |
+| [Lazy Bird \- Alternate Take 1](https://open.spotify.com/track/2sM2cNbhA0ZudW0ciQyzCB) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Lazy Bird/Blue Train](https://open.spotify.com/album/098yC89TkOkE9ljHR2qV7J) | 9:22 | 2022-09-07 |  |
 | [Living Space](https://open.spotify.com/track/6uCYqP3NK1cRE5eOOx7F3z) | [John Coltrane Quartet](https://open.spotify.com/artist/67PZTxaHKMZBFRUh8wIzCy) | [Living Space](https://open.spotify.com/album/4VfwIglkIBIVoi3VeoYxB4) | 10:25 | 2021-10-21 |  |
 | [Lonnie's Lament](https://open.spotify.com/track/4WfERtxhlQy341E590k2Ka) | [John Coltrane Quartet](https://open.spotify.com/artist/67PZTxaHKMZBFRUh8wIzCy) | [Crescent](https://open.spotify.com/album/0O6WxKmmQsjIrSkXh8qH0d) | 11:47 | 2021-10-21 | 2022-07-29 |
 | [Lonnie's Lament](https://open.spotify.com/track/4m16y4HrVSk9N60oHNZBqI) | [John Coltrane Quartet](https://open.spotify.com/artist/67PZTxaHKMZBFRUh8wIzCy) | [Crescent](https://open.spotify.com/album/1G3jdGqZNUrC8ZDesZB8xp) | 11:47 | 2022-04-27 |  |

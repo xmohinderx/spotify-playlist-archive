@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcEjayzrZ4x.md) - [plain]
 
 ### [Lazy Jazz Cat](https://open.spotify.com/playlist/37i9dQZF1DWTcEjayzrZ4x)
 
-> Instrumental  jazz with a cool and soft sound.
+> Relaxing instrumental Jazz with a cool and soft sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,126 likes - 255 songs - 16 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,289 likes - 255 songs - 16 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -264,4 +264,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcEjayzrZ4x.md) - [plain]
 | 254 | [For the Saints](https://open.spotify.com/track/5NIbOfvrdS62g1Mlvo2GYw) | [Cyrus Chestnut](https://open.spotify.com/artist/319U6LVt3j3iT9oAEzrpRO) | [You Are My Sunshine](https://open.spotify.com/album/3uLnCogytu2ohXrl1dx0lz) | 6:54 |
 | 255 | [Neighbours](https://open.spotify.com/track/0eo6CVRixQy70hPIUHh36m) | [Yorkville](https://open.spotify.com/artist/6VR3RgGN43zxy9ckRugsXn) | [In The Days Of Our Love](https://open.spotify.com/album/2QBCdxvkPxKABMrvkDd8aL) | 3:06 |
 
-Snapshot ID: `MTY2MjQ2OTk5NCwwMDAwMDAwMDZlMGE5MTI1Mjg2YjVmNGM1MDUyYWYxMmNmMDkyZDQz`
+Snapshot ID: `MTY2MjYyMzU1NSwwMDAwMDAwMGFhNDIzOWFmY2RiOWQ5MTNjN2FjOTExYWNhZjYzZDVj`

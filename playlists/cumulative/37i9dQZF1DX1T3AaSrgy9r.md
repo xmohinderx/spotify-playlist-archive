@@ -4,7 +4,7 @@
 
 > Underground dance and alternative that went on to define a new millennium.
 
-107 songs - 9 hr 7 min - [published](https://open.spotify.com/playlist/5A3UmZ9akJz7Fe3Cu6Ue68)
+108 songs - 9 hr 11 min - [published](https://open.spotify.com/playlist/5A3UmZ9akJz7Fe3Cu6Ue68)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,8 @@
 | [Push It](https://open.spotify.com/track/6fVnRxwxVL7RavAGTVrNxW) | [Garbage](https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q) | [Version 2.0 \(20th Anniversary Deluxe Edition / Remastered\)](https://open.spotify.com/album/3poVlFX7lPm5Q7XKsOGEwk) | 4:02 | 2021-07-14 |  |
 | [Ready to Go](https://open.spotify.com/track/5Qt8U8Suu7MFH1VcJr17Td) | [Republica](https://open.spotify.com/artist/06YQ6XwCdPUn8rAXV70gge) | [Republica](https://open.spotify.com/album/5KIb3c4z28CHa5snztEMNK) | 5:01 | 2021-07-14 |  |
 | [Red Alert \(Jaxx Radio Mix\)](https://open.spotify.com/track/5uTjEhlLv2YHNna0ojb5Az) | [Basement Jaxx](https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ) | [The Singles](https://open.spotify.com/album/5YBiwZtLNfixvdnZfue2HC) | 3:38 | 2021-07-14 | 2022-07-29 |
-| [Red Alert \- Jaxx Radio Mix](https://open.spotify.com/track/2F5QeVVmCOuelAkRbni1bW) | [Basement Jaxx](https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ) | [The Singles](https://open.spotify.com/album/1Ro3FkUjPS5zwzdTfcNoI3) | 3:38 | 2021-07-14 |  |
+| [Red Alert \- Jaxx Radio Mix](https://open.spotify.com/track/0Z3Y5cWOPaXIBI08KKDVTO) | [Basement Jaxx](https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ) | [Red Alert](https://open.spotify.com/album/60O0wPhfgkZGGKTJho6bHS) | 3:38 | 2021-07-14 |  |
+| [Red Alert \- Jaxx Radio Mix](https://open.spotify.com/track/2F5QeVVmCOuelAkRbni1bW) | [Basement Jaxx](https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ) | [The Singles](https://open.spotify.com/album/1Ro3FkUjPS5zwzdTfcNoI3) | 3:38 | 2021-07-14 | 2022-09-09 |
 | [Roygbiv](https://open.spotify.com/track/2XQSgmtEY2titXhfY414dy) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Music Has The Right To Children](https://open.spotify.com/album/1vWnB0hYmluskQuzxwo25a) | 2:31 | 2021-07-14 |  |
 | [Sexy Boy](https://open.spotify.com/track/6INLpBxo9F5QMer04VXEnd) | [Air](https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ) | [Moon Safari](https://open.spotify.com/album/5dmYtZVJ1bG9RyrZBRrkOA) | 4:58 | 2021-07-14 |  |
 | [Smack My Bitch Up](https://open.spotify.com/track/1TXBYUD9hRWkuVb3uLw5Yx) | [The Prodigy](https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB) | [The Fat of the Land](https://open.spotify.com/album/0cThoJ3Tz1XFYyHjUyEiw6) | 5:42 | 2021-07-14 | 2022-07-29 |

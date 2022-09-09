@@ -2,7 +2,7 @@
 
 ### [Feel Good Jazz](https://open.spotify.com/playlist/37i9dQZF1DWZCkamcYMQkz)
 
-> Happy and uplifting jazz to get you in a good mood.
+> Happy and uplifting Jazz to get you in a good mood.
 
 146 songs - 9 hr 39 min - [published](https://open.spotify.com/playlist/4rHMKSAEVjnyNAUi0PpYVv)
 

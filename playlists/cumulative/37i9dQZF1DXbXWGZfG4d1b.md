@@ -4,7 +4,7 @@
 
 > Rock independiente, pop alternativo y golden hour.
 
-360 songs - 21 hr 27 min - [published](https://open.spotify.com/playlist/5DJyLFy40DvmyjCdjcX5ce)
+361 songs - 21 hr 31 min - [published](https://open.spotify.com/playlist/5DJyLFy40DvmyjCdjcX5ce)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,7 +189,7 @@
 | [La Otra Ciudad](https://open.spotify.com/track/4fycTqg8GHP5434ND7kKvq) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Unas Vacaciones Raras](https://open.spotify.com/album/5QTe4ln96FBIbCgR0rSjdf) | 4:18 | 2022-06-03 | 2022-07-29 |
 | [La Poesia Intermitente](https://open.spotify.com/track/5sEEsMp1Q2a0vccFrxSZkD) | [El Chacal & Los Alpes Floreados](https://open.spotify.com/artist/6vtp1NouNva4jvDI2IqQey), [Goyo Degano](https://open.spotify.com/artist/2jdmT8GGcp6lWM58D0ROYf) | [Tranki Town](https://open.spotify.com/album/7EN6Gq75GPfuHvcptkuOsk) | 3:53 | 2022-06-03 |  |
 | [La Rompiente](https://open.spotify.com/track/36TbMvfNBbgqbMfKWcF3xL) | [Sr Tomate](https://open.spotify.com/artist/4H1MDie4DNcC292GeGPoZ8) | [Desde el Centro del Naufragio](https://open.spotify.com/album/6B2sBm6bjWWxWrx9V92rxP) | 6:24 | 2022-07-01 | 2022-07-29 |
-| [La Sorpresa](https://open.spotify.com/track/4uCjn3FvBY07DAYHBDrNiw) | [Chechi de Marcos](https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH) | [La Sorpresa](https://open.spotify.com/album/5QhWdYNpz3GNWlMuwNoQ5P) | 2:35 | 2022-07-01 |  |
+| [La Sorpresa](https://open.spotify.com/track/4uCjn3FvBY07DAYHBDrNiw) | [Chechi de Marcos](https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH) | [La Sorpresa](https://open.spotify.com/album/5QhWdYNpz3GNWlMuwNoQ5P) | 2:35 | 2022-07-01 | 2022-09-09 |
 | [La Vida Que Te Embrolla](https://open.spotify.com/track/2P44uihCvrvH5M8KjeZLkE) | [Hojas Secas](https://open.spotify.com/artist/61kl8a9uwRmmNjBExAEqiH) | [Bailaló](https://open.spotify.com/album/55IaKU6yOzXlurVVfFHTV1) | 4:15 | 2022-07-01 | 2022-07-16 |
 | [Las Aguas](https://open.spotify.com/track/2UxLDnjULwrVw99Bkgv6Fu) | [Bosques](https://open.spotify.com/artist/7tyJ5HvQArW2FlxO9MKa89) | [Invocación](https://open.spotify.com/album/1dHH6lfeps2fuhZpvEfu0y) | 2:48 | 2022-07-01 | 2022-07-23 |
 | [Las Horas](https://open.spotify.com/track/6abYXckpkTk1tYFEJ6CW2s) | [Basual](https://open.spotify.com/artist/0RB7VDmgFkpoW9jLMArj9y) | [Las Horas / Lovercraft](https://open.spotify.com/album/38AfLq1iFJJLajO5z5nh5h) | 4:37 | 2022-07-15 | 2022-07-28 |
@@ -252,6 +252,7 @@
 | [Nudos](https://open.spotify.com/track/2xbzDOzq3F9WnbHrgDhixH) | [Alejo y Valentin](https://open.spotify.com/artist/18e0X2rB92SDmDYGCFTGum) | [En El Palacio de Las Almas](https://open.spotify.com/album/4XsbM55fQ2RpOriLDQZJtI) | 4:03 | 2022-07-15 |  |
 | [Nuestra Historia](https://open.spotify.com/track/66ec2jZu3jLS4bt8VJZjqU) | [Humboldt](https://open.spotify.com/artist/1wJii6AWThPVePpQF0P4G6) | [Nuestra Historia](https://open.spotify.com/album/2AnQrfhr5hmAhB4ijW3Zyd) | 4:50 | 2022-07-01 | 2022-07-28 |
 | [Nunca Supe](https://open.spotify.com/track/29qW7YVKI1axBPqyPwX9ck) | [Mementto](https://open.spotify.com/artist/4V8yNockJPs4Ofk3pw2ymA) | [Nunca Supe](https://open.spotify.com/album/2BZY8ROagjCOhVEQIH9aBw) | 2:54 | 2022-06-03 | 2022-07-28 |
+| [obrador](https://open.spotify.com/track/1fPs0v0bN5kUbj9K8Nr1OD) | [El príncipe idiota](https://open.spotify.com/artist/5xEgsOYkENDU9TRoKMWW3u) | [gigaaaante](https://open.spotify.com/album/3QCktFDtwLwQ7jWtpPuoUo) | 3:33 | 2022-07-15 |  |
 | [Obrador](https://open.spotify.com/track/7G5FlmUe9w4y9dToGFnpmQ) | [El príncipe idiota](https://open.spotify.com/artist/5xEgsOYkENDU9TRoKMWW3u) | [Gigaaaante](https://open.spotify.com/album/0roPQkz7OJqTTB2dRw85e8) | 3:33 | 2022-06-03 | 2022-08-26 |
 | [Otoño](https://open.spotify.com/track/5682y6zWXiNg0TocWPCnRN) | [Unisono](https://open.spotify.com/artist/7eZiPJ8lMhvAlvdqxGY7aS) | [Otoño](https://open.spotify.com/album/6MSOXs9G4BcYGwFnQ0BcfI) | 2:33 | 2022-07-01 | 2022-07-09 |
 | [Otra forma](https://open.spotify.com/track/06W9ONsbAAHO1RTs88kfMs) | [Nadar de Noche](https://open.spotify.com/artist/4XnY6XFP4XOowCR7184get) | [Otra forma](https://open.spotify.com/album/37LU9PVNtRRrKAlN46XqMu) | 3:41 | 2022-06-03 | 2022-07-28 |

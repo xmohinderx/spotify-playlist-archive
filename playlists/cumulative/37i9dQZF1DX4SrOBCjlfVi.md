@@ -4,7 +4,7 @@
 
 > All the New Joints featuring Yeat, Gucci Mane, EST Gee, and more\. Cover: Freddie Gibbs
 
-1,369 songs - 2 day 16 hr 9 min - [published](https://open.spotify.com/playlist/1pXAF39Jhtc0ey1NUW44Ot)
+1,370 songs - 2 day 16 hr 11 min - [published](https://open.spotify.com/playlist/1pXAF39Jhtc0ey1NUW44Ot)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -864,6 +864,7 @@
 | [ON DAT SHIT](https://open.spotify.com/track/2EydGl5jyjAPC4vAfRHm2U) | [Joony](https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35) | [Pretty In Black](https://open.spotify.com/album/0zGITDnaDBlBAyixXP7gJi) | 2:38 | 2022-06-03 | 2022-06-11 |
 | [On Deck](https://open.spotify.com/track/3mxEteSWk9MppDJFxCGU2Q) | [Nate Husser](https://open.spotify.com/artist/5o4gKYJ99ROV1yye1v9Sh4), [Cousin Stizz](https://open.spotify.com/artist/0KpCz7V5XRkqKuM1JDf56O) | [On Deck](https://open.spotify.com/album/65JhfbFpJ770al7RqmmNxi) | 2:54 | 2022-04-29 | 2022-05-07 |
 | [On GOD \[Feat\. Freddie Gibbs, A\-Trak\]](https://open.spotify.com/track/5di5qJOrigtUXsfBHrS4Y4) | [Meechy Darko](https://open.spotify.com/artist/5QRlmTynCos8JyojtmgNq6), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt) | [On GOD](https://open.spotify.com/album/3s9Sz4bnGhaCQgXHiYu1wY) | 5:02 | 2022-08-05 | 2022-08-13 |
+| [On My Mama](https://open.spotify.com/track/5uKaDwrqiCfXMGR2auRqG4) | [BIG30](https://open.spotify.com/artist/4nZmMrwH6LxHnCzQv4IFUE) | [On My Mama](https://open.spotify.com/album/06RJFLDhyqbZWchervXQU1) | 2:45 | 2022-09-02 |  |
 | [On My Own](https://open.spotify.com/track/7s236bEO1wdl3M8tUdA3kd) | [KAS](https://open.spotify.com/artist/4AUPalZalhZyyd6kwhBiL5), [Erick Lottary](https://open.spotify.com/artist/0l5XMJjnKKhUE31xqZ6PdO) | [On My Own](https://open.spotify.com/album/1E8gIkkdLsCVDtMNbMpiQk) | 2:27 | 2022-02-25 | 2022-03-12 |
 | [On The Run Pt\. 1](https://open.spotify.com/track/0FB7Ptcj9lPgjRdxHYQRrP) | [Foolio](https://open.spotify.com/artist/79mgHJytm385Muv7GfaneD) | [Life of Me](https://open.spotify.com/album/7DSlbKV1ISsztwYNVN1B75) | 2:59 | 2022-07-15 | 2022-07-23 |
 | [One In A Million](https://open.spotify.com/track/2UdWZt2fxKf0UCakVzGYpG) | [MoneyMarr](https://open.spotify.com/artist/7Hol8IRGqnkUgWM21PHDhN) | [One In A Million](https://open.spotify.com/album/4GfWSqLG2egaWii11rMC0b) | 3:26 | 2022-02-11 | 2022-02-26 |

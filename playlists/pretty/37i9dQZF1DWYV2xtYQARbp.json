@@ -1,12 +1,12 @@
 {
   "description": "That fuzzy, noisy punk-blues hybrid",
-  "num_followers": 7379,
+  "num_followers": 7414,
   "original_name": "Punk Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODQ5ODQ5OCwwMDAwMDAwMDZmYTBkYzRmNTY3MmRhY2FiZjkyOTcyNmUzMjNhYThi",
+  "snapshot_id": "MTY0ODQ5ODQ5OCwwMDAwMDAwMDA3YzY5ZjJkZjEwYzYwNTNhYzc2YWZlNTMzMDAxZmJh",
   "tracks": [
     {
       "added_at": "2022-03-28 20:14:58",
@@ -219,6 +219,22 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
+        "name": "Moanin'",
+        "url": "https://open.spotify.com/album/0wEAMFrOaeqFuz3QcV4Xz7"
+      },
+      "artists": [
+        {
+          "name": "Mr. Airplane Man",
+          "url": "https://open.spotify.com/artist/6rDUd9tXAjOceaW2oc9ISP"
+        }
+      ],
+      "duration_ms": 210233,
+      "name": "Commit a Crime",
+      "url": "https://open.spotify.com/track/2rmPVmO9hOrLi8dBNd5MEQ"
+    },
+    {
+      "added_at": "2022-03-28 20:14:58",
+      "album": {
         "name": "Talking 'bout",
         "url": "https://open.spotify.com/album/3XehbkA49rI1F8wb6CirBe"
       },
@@ -247,22 +263,6 @@
       "duration_ms": 232626,
       "name": "Nitroglycerine",
       "url": "https://open.spotify.com/track/36f45es7EH7JyT4sFl1irf"
-    },
-    {
-      "added_at": "2022-03-28 20:14:58",
-      "album": {
-        "name": "Moanin'",
-        "url": "https://open.spotify.com/album/0wEAMFrOaeqFuz3QcV4Xz7"
-      },
-      "artists": [
-        {
-          "name": "Mr. Airplane Man",
-          "url": "https://open.spotify.com/artist/6rDUd9tXAjOceaW2oc9ISP"
-        }
-      ],
-      "duration_ms": 210233,
-      "name": "Commit a Crime",
-      "url": "https://open.spotify.com/track/2rmPVmO9hOrLi8dBNd5MEQ"
     },
     {
       "added_at": "2022-03-28 20:14:58",
@@ -363,22 +363,6 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
-        "name": "I Know You Be Houserockin'",
-        "url": "https://open.spotify.com/album/3IZmApu7YaxO4kTcY3dB8p"
-      },
-      "artists": [
-        {
-          "name": "The Gories",
-          "url": "https://open.spotify.com/artist/5tcr1ujTO3Q0WH2wkY7RWh"
-        }
-      ],
-      "duration_ms": 138240,
-      "name": "Thunderbird ESQ",
-      "url": "https://open.spotify.com/track/1knQYVzCw96ZRAykXAtjUe"
-    },
-    {
-      "added_at": "2022-03-28 20:14:58",
-      "album": {
         "name": "Dual Mono",
         "url": "https://open.spotify.com/album/4NrdlpNTAeRwF5SrarP2vk"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 247306,
       "name": "Too Much Sorrow",
       "url": "https://open.spotify.com/track/1PlgZAWgT8D9pgFDHYZRzI"
+    },
+    {
+      "added_at": "2022-03-28 20:14:58",
+      "album": {
+        "name": "I Know You Be Houserockin'",
+        "url": "https://open.spotify.com/album/3IZmApu7YaxO4kTcY3dB8p"
+      },
+      "artists": [
+        {
+          "name": "The Gories",
+          "url": "https://open.spotify.com/artist/5tcr1ujTO3Q0WH2wkY7RWh"
+        }
+      ],
+      "duration_ms": 138240,
+      "name": "Thunderbird ESQ",
+      "url": "https://open.spotify.com/track/1knQYVzCw96ZRAykXAtjUe"
     },
     {
       "added_at": "2022-03-28 20:14:58",
@@ -427,18 +427,18 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
-        "name": "Fire of Love (Remastered 2020)",
-        "url": "https://open.spotify.com/album/14LxwpAPXrY2RrfZoiAIZu"
+        "name": "Moanin'",
+        "url": "https://open.spotify.com/album/0wEAMFrOaeqFuz3QcV4Xz7"
       },
       "artists": [
         {
-          "name": "The Gun Club",
-          "url": "https://open.spotify.com/artist/3Un18X4NF1bpjgUk44lUzn"
+          "name": "Mr. Airplane Man",
+          "url": "https://open.spotify.com/artist/6rDUd9tXAjOceaW2oc9ISP"
         }
       ],
-      "duration_ms": 157995,
-      "name": "Promise Me - Remastered 2020",
-      "url": "https://open.spotify.com/track/620oK7tMifgGBddA6gsGli"
+      "duration_ms": 188546,
+      "name": "Like That",
+      "url": "https://open.spotify.com/track/0MqI4KwV5TMSO6rIhe2f3w"
     },
     {
       "added_at": "2022-03-28 20:14:58",
@@ -475,34 +475,18 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
-        "name": "Moanin'",
-        "url": "https://open.spotify.com/album/0wEAMFrOaeqFuz3QcV4Xz7"
+        "name": "Fire of Love (Remastered 2020)",
+        "url": "https://open.spotify.com/album/14LxwpAPXrY2RrfZoiAIZu"
       },
       "artists": [
         {
-          "name": "Mr. Airplane Man",
-          "url": "https://open.spotify.com/artist/6rDUd9tXAjOceaW2oc9ISP"
+          "name": "The Gun Club",
+          "url": "https://open.spotify.com/artist/3Un18X4NF1bpjgUk44lUzn"
         }
       ],
-      "duration_ms": 188546,
-      "name": "Like That",
-      "url": "https://open.spotify.com/track/0MqI4KwV5TMSO6rIhe2f3w"
-    },
-    {
-      "added_at": "2022-03-28 20:14:58",
-      "album": {
-        "name": "I Know You Be Houserockin'",
-        "url": "https://open.spotify.com/album/3IZmApu7YaxO4kTcY3dB8p"
-      },
-      "artists": [
-        {
-          "name": "The Gories",
-          "url": "https://open.spotify.com/artist/5tcr1ujTO3Q0WH2wkY7RWh"
-        }
-      ],
-      "duration_ms": 160493,
-      "name": "Early in the Morning",
-      "url": "https://open.spotify.com/track/2tWdHn2y9MM6jlnaEyIShX"
+      "duration_ms": 157995,
+      "name": "Promise Me - Remastered 2020",
+      "url": "https://open.spotify.com/track/620oK7tMifgGBddA6gsGli"
     },
     {
       "added_at": "2022-03-28 20:14:58",
@@ -555,6 +539,22 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
+        "name": "I Know You Be Houserockin'",
+        "url": "https://open.spotify.com/album/3IZmApu7YaxO4kTcY3dB8p"
+      },
+      "artists": [
+        {
+          "name": "The Gories",
+          "url": "https://open.spotify.com/artist/5tcr1ujTO3Q0WH2wkY7RWh"
+        }
+      ],
+      "duration_ms": 160493,
+      "name": "Early in the Morning",
+      "url": "https://open.spotify.com/track/2tWdHn2y9MM6jlnaEyIShX"
+    },
+    {
+      "added_at": "2022-03-28 20:14:58",
+      "album": {
         "name": "Ultraglide In Black",
         "url": "https://open.spotify.com/album/5dUbfMC2mz6nB9mIZlTV4z"
       },
@@ -587,22 +587,6 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
-        "name": "Midnight Soul Serenade",
-        "url": "https://open.spotify.com/album/2fuFzP7XWAWmWS4YVOZTKS"
-      },
-      "artists": [
-        {
-          "name": "Heavy Trash",
-          "url": "https://open.spotify.com/artist/1EDKHddaLUxX4ueVGJOGUr"
-        }
-      ],
-      "duration_ms": 204320,
-      "name": "Isolation",
-      "url": "https://open.spotify.com/track/5WQVHv1Vw8VRE904vPsLsL"
-    },
-    {
-      "added_at": "2022-03-28 20:14:58",
-      "album": {
         "name": "Hard Times",
         "url": "https://open.spotify.com/album/0RcQ3VgenJTgydpoiWJMFm"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 439706,
       "name": "Hard Time Blues",
       "url": "https://open.spotify.com/track/1fvnhqEfj6ZH5qD6GFCkSZ"
+    },
+    {
+      "added_at": "2022-03-28 20:14:58",
+      "album": {
+        "name": "Midnight Soul Serenade",
+        "url": "https://open.spotify.com/album/2fuFzP7XWAWmWS4YVOZTKS"
+      },
+      "artists": [
+        {
+          "name": "Heavy Trash",
+          "url": "https://open.spotify.com/artist/1EDKHddaLUxX4ueVGJOGUr"
+        }
+      ],
+      "duration_ms": 204320,
+      "name": "Isolation",
+      "url": "https://open.spotify.com/track/5WQVHv1Vw8VRE904vPsLsL"
     },
     {
       "added_at": "2022-03-28 20:14:58",
@@ -683,22 +683,6 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
-        "name": "Midnight Soul Serenade",
-        "url": "https://open.spotify.com/album/2fuFzP7XWAWmWS4YVOZTKS"
-      },
-      "artists": [
-        {
-          "name": "Heavy Trash",
-          "url": "https://open.spotify.com/artist/1EDKHddaLUxX4ueVGJOGUr"
-        }
-      ],
-      "duration_ms": 207760,
-      "name": "(Sometimes You Got to Be) Gentle",
-      "url": "https://open.spotify.com/track/23SE56CtkeGrThZQdlDpDz"
-    },
-    {
-      "added_at": "2022-03-28 20:14:58",
-      "album": {
         "name": "14 Frenzied Shakers",
         "url": "https://open.spotify.com/album/2CTnUp9DpibklvypLkEQKz"
       },
@@ -715,22 +699,6 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
-        "name": "On Fyre",
-        "url": "https://open.spotify.com/album/7Ctxktj9vqhIoRvchmFB0f"
-      },
-      "artists": [
-        {
-          "name": "Lyres",
-          "url": "https://open.spotify.com/artist/5b0wQCgdlG1Dk4N67lguml"
-        }
-      ],
-      "duration_ms": 265973,
-      "name": "Trying Just to Please You",
-      "url": "https://open.spotify.com/track/44Q7Xmxm0oeASUEQsxHnn1"
-    },
-    {
-      "added_at": "2022-03-28 20:14:58",
-      "album": {
         "name": "The Blackout",
         "url": "https://open.spotify.com/album/5w0QE2P3y8PAMAEG9NMgfE"
       },
@@ -743,6 +711,22 @@
       "duration_ms": 126853,
       "name": "Hanky-Joe Digger",
       "url": "https://open.spotify.com/track/1Sv7geImcYAkQw8MQVB3G4"
+    },
+    {
+      "added_at": "2022-03-28 20:14:58",
+      "album": {
+        "name": "On Fyre",
+        "url": "https://open.spotify.com/album/7Ctxktj9vqhIoRvchmFB0f"
+      },
+      "artists": [
+        {
+          "name": "Lyres",
+          "url": "https://open.spotify.com/artist/5b0wQCgdlG1Dk4N67lguml"
+        }
+      ],
+      "duration_ms": 265973,
+      "name": "Trying Just to Please You",
+      "url": "https://open.spotify.com/track/44Q7Xmxm0oeASUEQsxHnn1"
     },
     {
       "added_at": "2022-03-28 20:14:58",
@@ -775,6 +759,22 @@
       "duration_ms": 130000,
       "name": "Michigan Blues",
       "url": "https://open.spotify.com/track/5jPqW9HWJLarocC2z8vkrP"
+    },
+    {
+      "added_at": "2022-03-28 20:14:58",
+      "album": {
+        "name": "Midnight Soul Serenade",
+        "url": "https://open.spotify.com/album/2fuFzP7XWAWmWS4YVOZTKS"
+      },
+      "artists": [
+        {
+          "name": "Heavy Trash",
+          "url": "https://open.spotify.com/artist/1EDKHddaLUxX4ueVGJOGUr"
+        }
+      ],
+      "duration_ms": 207760,
+      "name": "(Sometimes You Got to Be) Gentle",
+      "url": "https://open.spotify.com/track/23SE56CtkeGrThZQdlDpDz"
     },
     {
       "added_at": "2022-03-28 20:14:58",

@@ -973,10 +973,28 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 192085,
       "name": "I'll Hold On",
       "url": "https://open.spotify.com/track/0I5zRkBLsUQWnUfZad8vOA"
+    },
+    {
+      "album": {
+        "name": "I'll Hold On",
+        "url": "https://open.spotify.com/album/6Lusbn0DmVCQjkkN8FV0Sp"
+      },
+      "artists": [
+        {
+          "name": "Ilse DeLange",
+          "url": "https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192085,
+      "name": "I'll Hold On",
+      "url": "https://open.spotify.com/track/3kuOpyrGLaBBefUNG5YAnS"
     },
     {
       "album": {

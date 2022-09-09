@@ -189,7 +189,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 170640,
       "name": "Andantino",
       "url": "https://open.spotify.com/track/6JONGK3utqMZaFK7l6QyTk"
@@ -511,7 +511,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 146000,
       "name": "Bongo",
       "url": "https://open.spotify.com/track/1GAfF3ySbJ75jmgtHIxg2o"
@@ -1039,7 +1039,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 134000,
       "name": "cold fizzies",
       "url": "https://open.spotify.com/track/0Tstl9VZP9x3FvSC3CcTNI"
@@ -1385,7 +1385,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 92138,
       "name": "Fairy Tale",
       "url": "https://open.spotify.com/track/6ND6qzbcyyCLdypdQFX2ie"
@@ -1729,7 +1729,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 160941,
       "name": "Funkophomatic",
       "url": "https://open.spotify.com/track/3llezaxf0tOO3n0S81ZgDI"
@@ -1939,7 +1939,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 186000,
       "name": "Habana Vieja",
       "url": "https://open.spotify.com/track/1mI09jvN78SzxAk3pvHmiD"
@@ -1957,7 +1957,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 118604,
       "name": "Hang On",
       "url": "https://open.spotify.com/track/4duI476FUu6iId8JOTOk8i"
@@ -3576,6 +3576,28 @@
     },
     {
       "album": {
+        "name": "No problem",
+        "url": "https://open.spotify.com/album/3XlMqFZVcQqlseAiJ5cXrt"
+      },
+      "artists": [
+        {
+          "name": "cocabona",
+          "url": "https://open.spotify.com/artist/5V8HGb7Pt982HEbpmglIYT"
+        },
+        {
+          "name": "Misha",
+          "url": "https://open.spotify.com/artist/4dPYdHTBZATnTYABJ39sY7"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163273,
+      "name": "No Problem - Instrumental",
+      "url": "https://open.spotify.com/track/1y13EMiJqrssIW2zBp9W3b"
+    },
+    {
+      "album": {
         "name": "No Problem Too Small",
         "url": "https://open.spotify.com/album/3qKy5Uvc5ru23HZ4XYW40d"
       },
@@ -3627,7 +3649,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 124090,
       "name": "Nutmeg",
       "url": "https://open.spotify.com/track/5FdgWHIy3LsIoRzCOJ4jg1"
@@ -3891,7 +3913,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 248861,
       "name": "Pepper's Ghost",
       "url": "https://open.spotify.com/track/6kVrgER6aFvHY1brnueQUG"
@@ -3909,7 +3931,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 178666,
       "name": "Perspective",
       "url": "https://open.spotify.com/track/673JYsOrXLLviHKtcilXYv"
@@ -4017,7 +4039,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 135000,
       "name": "Postcards",
       "url": "https://open.spotify.com/track/6CCXRC8JslvUainLY7In0P"
@@ -4285,7 +4307,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 152783,
       "name": "Run Boy",
       "url": "https://open.spotify.com/track/57kn96jwh3J2BzIeYrHURr"
@@ -4563,7 +4585,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 243577,
       "name": "Soft Slap",
       "url": "https://open.spotify.com/track/3umoNiC2gyJ4oaGj7t74Zk"
@@ -5289,7 +5311,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 90566,
       "name": "this feels so right",
       "url": "https://open.spotify.com/track/4xoZZLMFSJpBYdEb8DkcvK"
@@ -6131,7 +6153,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 161763,
       "name": "Yeah",
       "url": "https://open.spotify.com/track/2abaYdfFymBL6Mv9PncHEV"

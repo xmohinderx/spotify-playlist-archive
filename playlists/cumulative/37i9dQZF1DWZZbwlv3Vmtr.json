@@ -564,6 +564,24 @@
     },
     {
       "album": {
+        "name": "Bedside Java",
+        "url": "https://open.spotify.com/album/3JfZ8cKqdpjLRlFdtSJhaA"
+      },
+      "artists": [
+        {
+          "name": "Nova Calma",
+          "url": "https://open.spotify.com/artist/732aFMojr4rC3Q2DAstddk"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139764,
+      "name": "Bedside Java",
+      "url": "https://open.spotify.com/track/68CjI2SioLduluQI2XSG9o"
+    },
+    {
+      "album": {
         "name": "beets per minute",
         "url": "https://open.spotify.com/album/66JCVytytkaEyK0zt149LR"
       },
@@ -749,7 +767,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 129438,
       "name": "Blossoming",
       "url": "https://open.spotify.com/track/2nwfeHcD1NPwrBH7Rh2l5Z"
@@ -1527,7 +1545,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 133333,
       "name": "Controlled Chaos",
       "url": "https://open.spotify.com/track/0pZJVnPfaV3TgYLDGzrHeX"
@@ -1661,7 +1679,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 113684,
       "name": "deep cracks",
       "url": "https://open.spotify.com/track/7zQqLegPosxGECgeN0oRXG"
@@ -3643,7 +3661,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 193561,
       "name": "Juicy",
       "url": "https://open.spotify.com/track/5XotBMNRTExEMs4MalMTu0"
@@ -3661,7 +3679,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 138352,
       "name": "Jukebox Dim",
       "url": "https://open.spotify.com/track/7CzwNHiknbQ5p7IinDOYwU"
@@ -4211,7 +4229,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 168562,
       "name": "Lonely Mountain",
       "url": "https://open.spotify.com/track/2kxJbP2CXEZRCaCefWD721"
@@ -4319,7 +4337,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 92884,
       "name": "Love Snip",
       "url": "https://open.spotify.com/track/5TfqA1PGQJRZyng0480Zre"
@@ -4414,6 +4432,24 @@
     },
     {
       "album": {
+        "name": "Mad World",
+        "url": "https://open.spotify.com/album/56bhW3j6Ti2w1Drf7qEUXv"
+      },
+      "artists": [
+        {
+          "name": "Rascal",
+          "url": "https://open.spotify.com/artist/3fWAVycjEzJH9BxxrfyCDA"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88615,
+      "name": "Mad World",
+      "url": "https://open.spotify.com/track/3xwrhWMrYlSv1YkMaOa9KV"
+    },
+    {
+      "album": {
         "name": "Mangos",
         "url": "https://open.spotify.com/album/7GISc4x59WUJlbOapq2IHK"
       },
@@ -4447,6 +4483,32 @@
       "duration_ms": 140333,
       "name": "Marble Madness",
       "url": "https://open.spotify.com/track/1HeO6mQfjy7V7LSnNa1029"
+    },
+    {
+      "album": {
+        "name": "Meet Me At Midnight",
+        "url": "https://open.spotify.com/album/7jMyHXdOb1jSDrdxiSCa7G"
+      },
+      "artists": [
+        {
+          "name": "Naute",
+          "url": "https://open.spotify.com/artist/2LfwnXXH6HdeP825h4u7lt"
+        },
+        {
+          "name": "Mike Beating",
+          "url": "https://open.spotify.com/artist/3EuxGwWNxr2SRmosxJZEB3"
+        },
+        {
+          "name": "Chill Select",
+          "url": "https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149333,
+      "name": "Meet Me At Midnight",
+      "url": "https://open.spotify.com/track/197RHWh4nfc8XSl4V8mw4b"
     },
     {
       "album": {
@@ -5377,7 +5439,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 127142,
       "name": "On The Wall",
       "url": "https://open.spotify.com/track/3jnW3GdgCYBQ6PCaSY4wUC"
@@ -5547,6 +5609,24 @@
       "duration_ms": 144000,
       "name": "oyoyoy",
       "url": "https://open.spotify.com/track/3olHLiTm1rO8x0MzyP1ad7"
+    },
+    {
+      "album": {
+        "name": "P.S. I Love You",
+        "url": "https://open.spotify.com/album/3lyhm1eO4SAd3Kqg3OE1YM"
+      },
+      "artists": [
+        {
+          "name": "Funky Notes",
+          "url": "https://open.spotify.com/artist/6LSrnKA5oEVsLopxSMVGFR"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127370,
+      "name": "P.S. I Love You",
+      "url": "https://open.spotify.com/track/0Po3LlQVxAG4F7P4xceR7b"
     },
     {
       "album": {
@@ -5991,7 +6071,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 91058,
       "name": "Positive Vibes",
       "url": "https://open.spotify.com/track/0VrZZ4GWTRa8TXJulbzJ6U"
@@ -6692,6 +6772,24 @@
     },
     {
       "album": {
+        "name": "Sandhamn",
+        "url": "https://open.spotify.com/album/3rYpgmBjwPUtHKTntCFHvX"
+      },
+      "artists": [
+        {
+          "name": "Rosemary beats",
+          "url": "https://open.spotify.com/artist/1W56U3ujxXcEVxnavW4vJ8"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170344,
+      "name": "Sandhamn",
+      "url": "https://open.spotify.com/track/77ZSl1MSbASVgW5DOGCMN9"
+    },
+    {
+      "album": {
         "name": "Saturation",
         "url": "https://open.spotify.com/album/5d0Imi2PYaZIhzFe6Sn4CN"
       },
@@ -6819,6 +6917,24 @@
       "duration_ms": 149333,
       "name": "Seven",
       "url": "https://open.spotify.com/track/3UdSY1SgSF60lpYdMbmeXm"
+    },
+    {
+      "album": {
+        "name": "Seven lifes",
+        "url": "https://open.spotify.com/album/1nTnXy5pPuajYkihPVFWTj"
+      },
+      "artists": [
+        {
+          "name": "Lunatic Sad",
+          "url": "https://open.spotify.com/artist/2zdUTbS2EdmbSrzK96XvEp"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136914,
+      "name": "Seven lifes",
+      "url": "https://open.spotify.com/track/0ODqF4q7w8uZ80auAlUww8"
     },
     {
       "album": {
@@ -7137,7 +7253,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 118500,
       "name": "Sometime",
       "url": "https://open.spotify.com/track/5wlLF3893tOtvLR6pSkodi"
@@ -7538,6 +7654,24 @@
     },
     {
       "album": {
+        "name": "Suijin",
+        "url": "https://open.spotify.com/album/0dQZpLubRgBOSsUaIhYZwn"
+      },
+      "artists": [
+        {
+          "name": "lechiffrebeats",
+          "url": "https://open.spotify.com/artist/0RDK14Ri76NaSlTIBrzYcn"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95342,
+      "name": "Suijin",
+      "url": "https://open.spotify.com/track/7fIy0MddQcd3CRBHjyMDd7"
+    },
+    {
+      "album": {
         "name": "Summer",
         "url": "https://open.spotify.com/album/1KnSRTKOePuA8bk3J5rfZz"
       },
@@ -7875,7 +8009,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 128399,
       "name": "Tears Letter",
       "url": "https://open.spotify.com/track/6WnL7XZeTosmToGsaMypPl"
@@ -7897,7 +8031,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 153141,
       "name": "tempura",
       "url": "https://open.spotify.com/track/1zgFWd7USHOKNc30YtfsCT"
@@ -8453,7 +8587,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 179166,
       "name": "Turntable Tale",
       "url": "https://open.spotify.com/track/01L7KnIlkQVwAVpxbh3TKr"
@@ -9211,6 +9345,24 @@
       "duration_ms": 150000,
       "name": "Wonderland",
       "url": "https://open.spotify.com/track/6qeMnGssbQmFZQ4NA9NPT2"
+    },
+    {
+      "album": {
+        "name": "Woodlander",
+        "url": "https://open.spotify.com/album/7sSPJBrN2fgSnW5rHSSKhG"
+      },
+      "artists": [
+        {
+          "name": "invention_",
+          "url": "https://open.spotify.com/artist/7uA2p3333eiW9Cknf1twtU"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149123,
+      "name": "Woodlander",
+      "url": "https://open.spotify.com/track/577MuVDzCHjTASuPsU34Hs"
     },
     {
       "album": {

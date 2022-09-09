@@ -1,12 +1,12 @@
 {
   "description": "The ultimate seasonal (indie) playlist.",
-  "num_followers": 110143,
+  "num_followers": 110130,
   "original_name": "Indie Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MTU2OTA3OSwwMDAwMDAwMGFlNmQ5YmI5NGVkMGUzNmUzNTBmYmIxM2JlNzU0ODA1",
+  "snapshot_id": "MTY0MTU2OTA3OSwwMDAwMDAwMGUzNzNiOWVlZGNkMTJiMDA5NmNkOWFiMWNkOWRiMWM1",
   "tracks": [
     {
       "added_at": "2021-11-12 17:11:33",
@@ -569,22 +569,6 @@
       "url": "https://open.spotify.com/track/1McwIfM0P4F4DGGkHMyYqZ"
     },
     {
-      "added_at": "2021-11-12 17:11:33",
-      "album": {
-        "name": "christmas morning",
-        "url": "https://open.spotify.com/album/7CDTHxK6bLW45oOxRk5PJv"
-      },
-      "artists": [
-        {
-          "name": "Luz",
-          "url": "https://open.spotify.com/artist/3cdI6SvJ24KsOcvYyBwH9c"
-        }
-      ],
-      "duration_ms": 232040,
-      "name": "christmas morning",
-      "url": "https://open.spotify.com/track/2SAoJ45i8qWirGdSmCoabR"
-    },
-    {
       "added_at": "2021-12-15 16:04:04",
       "album": {
         "name": "I Dream Of Christmas (Extended)",
@@ -599,6 +583,22 @@
       "duration_ms": 202903,
       "name": "I Dream Of Christmas",
       "url": "https://open.spotify.com/track/0OYglQniaQNazYF0fJblbV"
+    },
+    {
+      "added_at": "2021-11-12 17:11:33",
+      "album": {
+        "name": "christmas morning",
+        "url": "https://open.spotify.com/album/7CDTHxK6bLW45oOxRk5PJv"
+      },
+      "artists": [
+        {
+          "name": "Luz",
+          "url": "https://open.spotify.com/artist/3cdI6SvJ24KsOcvYyBwH9c"
+        }
+      ],
+      "duration_ms": 232040,
+      "name": "christmas morning",
+      "url": "https://open.spotify.com/track/2SAoJ45i8qWirGdSmCoabR"
     },
     {
       "added_at": "2021-11-12 17:11:33",
@@ -651,6 +651,22 @@
     {
       "added_at": "2021-11-12 17:11:33",
       "album": {
+        "name": "Christmas",
+        "url": "https://open.spotify.com/album/1SITmIj0Gjx12n077CU0XC"
+      },
+      "artists": [
+        {
+          "name": "Low",
+          "url": "https://open.spotify.com/artist/0wz0jO9anccPzH04N7FLBH"
+        }
+      ],
+      "duration_ms": 188720,
+      "name": "Just Like Christmas",
+      "url": "https://open.spotify.com/track/4zMP6aieSmWQNFdp3O4Owv"
+    },
+    {
+      "added_at": "2021-11-12 17:11:33",
+      "album": {
         "name": "Walking in the Air",
         "url": "https://open.spotify.com/album/5HeEv4JIJTpJ4hgxnBIUcH"
       },
@@ -683,22 +699,6 @@
     {
       "added_at": "2021-11-12 17:11:33",
       "album": {
-        "name": "Christmas",
-        "url": "https://open.spotify.com/album/1SITmIj0Gjx12n077CU0XC"
-      },
-      "artists": [
-        {
-          "name": "Low",
-          "url": "https://open.spotify.com/artist/0wz0jO9anccPzH04N7FLBH"
-        }
-      ],
-      "duration_ms": 188720,
-      "name": "Just Like Christmas",
-      "url": "https://open.spotify.com/track/4zMP6aieSmWQNFdp3O4Owv"
-    },
-    {
-      "added_at": "2021-11-12 17:11:33",
-      "album": {
         "name": "O\u2019Holy Night",
         "url": "https://open.spotify.com/album/6UZ92OsliFZN4TrzPyFT7D"
       },
@@ -715,22 +715,6 @@
     {
       "added_at": "2021-11-12 17:11:33",
       "album": {
-        "name": "HARK!",
-        "url": "https://open.spotify.com/album/41h4pqwFRxXDXWsd61hHad"
-      },
-      "artists": [
-        {
-          "name": "Andrew Bird",
-          "url": "https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9"
-        }
-      ],
-      "duration_ms": 212120,
-      "name": "Andalucia",
-      "url": "https://open.spotify.com/track/4TUOVMzSSHZFUO33KDx6EB"
-    },
-    {
-      "added_at": "2021-11-12 17:11:33",
-      "album": {
         "name": "Home Alone, Too",
         "url": "https://open.spotify.com/album/4y57bVmY8Jj0BK0RxcLRXb"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 240233,
       "name": "Home Alone, Too",
       "url": "https://open.spotify.com/track/0DspUQUTwLtKeUO3Bb7LKK"
+    },
+    {
+      "added_at": "2021-11-12 17:11:33",
+      "album": {
+        "name": "HARK!",
+        "url": "https://open.spotify.com/album/41h4pqwFRxXDXWsd61hHad"
+      },
+      "artists": [
+        {
+          "name": "Andrew Bird",
+          "url": "https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9"
+        }
+      ],
+      "duration_ms": 212120,
+      "name": "Andalucia",
+      "url": "https://open.spotify.com/track/4TUOVMzSSHZFUO33KDx6EB"
     },
     {
       "added_at": "2021-11-12 17:11:33",

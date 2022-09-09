@@ -1,12 +1,12 @@
 {
   "description": "Nada que un buen danz\u00f3n no pueda curar. ",
-  "num_followers": 8049,
+  "num_followers": 8080,
   "original_name": "Danz\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTQ4MjkwMiwwMDAwMDAwMDhkOTc5ZmViOTdjODE0OTI5NTkwY2M5OTJjMDFmODRm",
+  "snapshot_id": "MTY1OTQ4MjkwMiwwMDAwMDAwMGE5NWU0MzIxYjc1N2MxODVkYmU3ZTRiZjZlMThjZjQx",
   "tracks": [
     {
       "added_at": "2022-08-02 23:28:22",
@@ -531,22 +531,18 @@
     {
       "added_at": "2022-08-02 23:28:22",
       "album": {
-        "name": "El Embrujo del Danz\u00f3n",
-        "url": "https://open.spotify.com/album/1XWS6QyxlzoK02wfBvdOge"
+        "name": "La Leyenda Viviente del Danz\u00f3n",
+        "url": "https://open.spotify.com/album/4DfvLNKnO7yeFwv2MCDixD"
       },
       "artists": [
         {
           "name": "Danzonera Veracruz",
           "url": "https://open.spotify.com/artist/0oZxiriFYXViKwVXak46sD"
-        },
-        {
-          "name": "Vicente Labastida Velasco",
-          "url": "https://open.spotify.com/artist/5xAmljqquK7Dy5rAIumX8C"
         }
       ],
-      "duration_ms": 265200,
-      "name": "Nana",
-      "url": "https://open.spotify.com/track/7mW06F9Qz6xWkqSOgTwlWT"
+      "duration_ms": 293040,
+      "name": "Cecilia",
+      "url": "https://open.spotify.com/track/6a3E473gvUNtcVfpn3UeVO"
     },
     {
       "added_at": "2022-08-02 23:28:22",
@@ -647,18 +643,22 @@
     {
       "added_at": "2022-08-02 23:28:22",
       "album": {
-        "name": "La Leyenda Viviente del Danz\u00f3n",
-        "url": "https://open.spotify.com/album/4DfvLNKnO7yeFwv2MCDixD"
+        "name": "El Embrujo del Danz\u00f3n",
+        "url": "https://open.spotify.com/album/1XWS6QyxlzoK02wfBvdOge"
       },
       "artists": [
         {
           "name": "Danzonera Veracruz",
           "url": "https://open.spotify.com/artist/0oZxiriFYXViKwVXak46sD"
+        },
+        {
+          "name": "Vicente Labastida Velasco",
+          "url": "https://open.spotify.com/artist/5xAmljqquK7Dy5rAIumX8C"
         }
       ],
-      "duration_ms": 293040,
-      "name": "Cecilia",
-      "url": "https://open.spotify.com/track/6a3E473gvUNtcVfpn3UeVO"
+      "duration_ms": 265200,
+      "name": "Nana",
+      "url": "https://open.spotify.com/track/7mW06F9Qz6xWkqSOgTwlWT"
     },
     {
       "added_at": "2022-08-02 23:28:22",
@@ -932,9 +932,9 @@
           "url": "https://open.spotify.com/artist/1EWJ5nqFNqSOw5TmyG1y8W"
         }
       ],
-      "duration_ms": 260040,
-      "name": "Egipto Her\u00f3ico",
-      "url": "https://open.spotify.com/track/01xlbAqU0ztqPLkuozMYuD"
+      "duration_ms": 217546,
+      "name": "Ang\u00e9lica",
+      "url": "https://open.spotify.com/track/0RWQSk38aQTalfBgGLXfCH"
     },
     {
       "added_at": "2022-08-02 23:28:22",
@@ -948,9 +948,9 @@
           "url": "https://open.spotify.com/artist/1EWJ5nqFNqSOw5TmyG1y8W"
         }
       ],
-      "duration_ms": 217546,
-      "name": "Ang\u00e9lica",
-      "url": "https://open.spotify.com/track/0RWQSk38aQTalfBgGLXfCH"
+      "duration_ms": 260040,
+      "name": "Egipto Her\u00f3ico",
+      "url": "https://open.spotify.com/track/01xlbAqU0ztqPLkuozMYuD"
     },
     {
       "added_at": "2022-08-02 23:28:22",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2022-08-02 23:28:22",
       "album": {
+        "name": "Danzones a la Manera del Campeon, Vol. 1",
+        "url": "https://open.spotify.com/album/0E0QZ36nhXb2vlD5WwYwPM"
+      },
+      "artists": [
+        {
+          "name": "Carlos Campos Y Orquesta",
+          "url": "https://open.spotify.com/artist/0IVPiyQ9QrdROHQs9hAFcU"
+        }
+      ],
+      "duration_ms": 228623,
+      "name": "El Pichi",
+      "url": "https://open.spotify.com/track/4e0wbKqTO69IAbfqMxdApQ"
+    },
+    {
+      "added_at": "2022-08-02 23:28:22",
+      "album": {
         "name": "El Embrujo del Danz\u00f3n",
         "url": "https://open.spotify.com/album/1XWS6QyxlzoK02wfBvdOge"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 257893,
       "name": "Mar\u00eda Elena",
       "url": "https://open.spotify.com/track/0XCk9sZ4i4FUHHnKJHrjX9"
-    },
-    {
-      "added_at": "2022-08-02 23:28:22",
-      "album": {
-        "name": "Danzones a la Manera del Campeon, Vol. 1",
-        "url": "https://open.spotify.com/album/0E0QZ36nhXb2vlD5WwYwPM"
-      },
-      "artists": [
-        {
-          "name": "Carlos Campos Y Orquesta",
-          "url": "https://open.spotify.com/artist/0IVPiyQ9QrdROHQs9hAFcU"
-        }
-      ],
-      "duration_ms": 228623,
-      "name": "El Pichi",
-      "url": "https://open.spotify.com/track/4e0wbKqTO69IAbfqMxdApQ"
     },
     {
       "added_at": "2022-08-02 23:28:22",

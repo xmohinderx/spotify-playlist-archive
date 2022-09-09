@@ -4,7 +4,7 @@
 
 > Alternative meets electronic\. Cover: Sub Urban + BENEE
 
-193 songs - 10 hr 14 min - [published](https://open.spotify.com/playlist/0GrtTHJWXa7aog4wHbwInq)
+194 songs - 10 hr 17 min - [published](https://open.spotify.com/playlist/0GrtTHJWXa7aog4wHbwInq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Fallout](https://open.spotify.com/track/2JBk2XZLjS0N4x3mFHINM6) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Fallout](https://open.spotify.com/album/74K2vGYMdCCO29n4s4Y41h) | 3:14 | 2022-06-17 |  |
 | [Fear You](https://open.spotify.com/track/2QN88XWB8FkZ1oqGNfODL9) | [Kat Von D](https://open.spotify.com/artist/0eLQCmRxdnxAK9rchhAFlU) | [Fear You](https://open.spotify.com/album/0vRrXDcnH9qEtyjPf9zBxd) | 4:45 | 2021-08-06 | 2022-01-15 |
 | [Feel Alive](https://open.spotify.com/track/3A7MuetzfV2cDtLZbEmXMw) | [USS \(Ubiquitous Synergy Seeker\)](https://open.spotify.com/artist/2gWNtwxO5mOAmjE8EWw2qt) | [Feel Alive](https://open.spotify.com/album/0YL8dobBzKj2V1lcx4tTKV) | 3:46 | 2020-11-27 | 2022-07-29 |
+| [Feel Real Pretty](https://open.spotify.com/track/2nRcQbL9FZYFii3fFLKPSp) | [Paper Idol](https://open.spotify.com/artist/6dewigIOIcG6m1XGsG4Mc3) | [Feel Real Pretty \(Remixes\)](https://open.spotify.com/album/5uM5JzzgYV0obfBY4Ebm2b) | 3:03 | 2022-06-17 |  |
 | [Feel Real Pretty](https://open.spotify.com/track/58L9BLQuOAwAzHhCvTpp3l) | [Paper Idol](https://open.spotify.com/artist/6dewigIOIcG6m1XGsG4Mc3) | [Feel Real Pretty](https://open.spotify.com/album/0m2MtmlY7kOaQq5cVAg4DN) | 3:03 | 2020-08-17 | 2022-08-26 |
 | [Fighter](https://open.spotify.com/track/4gi2kndWShH9kDbb9kBfs6) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [Metamorph](https://open.spotify.com/album/1kf3w2zcfjNYpx1NjnJmQ8) | 2:36 | 2022-04-01 |  |
 | [Fire](https://open.spotify.com/track/5jRJlGB5EP7HFKwYBKvlSA) | [Diskopunk](https://open.spotify.com/artist/5Ck4KWOZsbrSQpiLimooDp) | [Fire](https://open.spotify.com/album/4b7DQdQztY3wvk8DJB8bgz) | 3:17 | 2020-08-17 |  |
@@ -128,7 +129,7 @@
 | [NIGHTMARE \(feat\. guardin\)](https://open.spotify.com/track/3as5VuWv791EWn04JkrvtK) | [93FEETOFSMOKE](https://open.spotify.com/artist/0plNgbIlOc13T8ot3vyK79), [guardin](https://open.spotify.com/artist/6zqcGQ6MH6yetBUoquMnL7) | [NIGHTMARE \(feat\. guardin\)](https://open.spotify.com/album/482FoQaZMMqfZrLl5rAJSC) | 2:52 | 2022-06-17 | 2022-08-14 |
 | [NO ESCAPE](https://open.spotify.com/track/5Xg5bGbWHToIMSsqWxOsej) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth), [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [DISCO4 :: PART II](https://open.spotify.com/album/4pk3IXbfaU0cK7oHuEdbEJ) | 3:34 | 2022-04-09 |  |
 | [Not Human](https://open.spotify.com/track/64keBu68cOQtBAGlWAbChH) | [elegant slims](https://open.spotify.com/artist/4fvBJY4JqprqAOrvEu6aAY) | [Not Human](https://open.spotify.com/album/3xVq6jGiNyseCU31KHPR94) | 3:19 | 2020-08-17 | 2022-02-12 |
-| [OH NAH OH NAH \(feat\. Kamiyada+\)](https://open.spotify.com/track/3DD5a4oJQo4ZIjDsYWvMjB) | [93FEETOFSMOKE](https://open.spotify.com/artist/0plNgbIlOc13T8ot3vyK79), [Kamiyada+](https://open.spotify.com/artist/7cB6KjTm98hhNE9eeyhcnF) | [OH NAH OH NAH \(feat\. Kamiyada+\)](https://open.spotify.com/album/19284bUazQyICc55efdKcc) | 2:38 | 2022-06-17 |  |
+| [OH NAH OH NAH \(feat\. Kamiyada+\)](https://open.spotify.com/track/3DD5a4oJQo4ZIjDsYWvMjB) | [93FEETOFSMOKE](https://open.spotify.com/artist/0plNgbIlOc13T8ot3vyK79), [Kamiyada+](https://open.spotify.com/artist/7cB6KjTm98hhNE9eeyhcnF) | [OH NAH OH NAH \(feat\. Kamiyada+\)](https://open.spotify.com/album/19284bUazQyICc55efdKcc) | 2:38 | 2022-06-17 | 2022-09-09 |
 | [Oh No!!! \(from The Suicide Squad\)](https://open.spotify.com/track/7mYKxi4gqlSweFg2xigZ1w) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4), [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG), [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd) | [Oh No!!! \(from The Suicide Squad\)](https://open.spotify.com/album/4gG47LR7Xbk0E9k0zNCHZp) | 3:33 | 2021-08-06 |  |
 | [Ohio is for Lovers](https://open.spotify.com/track/78QULk7GWaRjHz15jPLPuQ) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe), [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [Ohio is for Lovers](https://open.spotify.com/album/3xCjB3Cd9KsxnLciMdE331) | 3:52 | 2021-09-17 | 2022-03-05 |
 | [On My Knees](https://open.spotify.com/track/2ouFrmMwYik8nQX2n9SeZu) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Surrender](https://open.spotify.com/album/3SB9ntsoNwC4oUP6xM9DIN) | 4:21 | 2022-02-11 |  |

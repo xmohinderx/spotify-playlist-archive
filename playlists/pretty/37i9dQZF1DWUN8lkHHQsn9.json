@@ -1,12 +1,12 @@
 {
   "description": "Pos\u0142uchaj g\u0142osu polskich artyst\u00f3w LGBTQIA+. Wyj\u0105tkowe spektrum d\u017awi\u0119k\u00f3w na jednej playli\u015bcie. Cover: Zawadzki",
-  "num_followers": 2287,
+  "num_followers": 2286,
   "original_name": "Pride Polska",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODQ3NzYxMCwwMDAwMDAwMDE1YzkzMGFiMjI3NzkyY2VhMzE4ZTEzY2QzN2FhYmFh",
+  "snapshot_id": "MTY1ODQ3NzYxMCwwMDAwMDAwMDQ4MTk5MWI5NjQzMzNkYzZlYmE2N2ZjYjA5ODJkZjI1",
   "tracks": [
     {
       "added_at": "2022-07-22 08:13:30",
@@ -547,6 +547,22 @@
     {
       "added_at": "2022-07-22 08:13:30",
       "album": {
+        "name": "Dziewczynka Tatusia",
+        "url": "https://open.spotify.com/album/7F65SLLOJ5pCc7liw3dQHJ"
+      },
+      "artists": [
+        {
+          "name": "Sylvia Baudelaire",
+          "url": "https://open.spotify.com/artist/2aAx96PFuLYY2cpRXE5buF"
+        }
+      ],
+      "duration_ms": 190973,
+      "name": "Suka jak Ja",
+      "url": "https://open.spotify.com/track/4VYuEsq0d7fjYBQyyCqP8d"
+    },
+    {
+      "added_at": "2022-07-22 08:13:30",
+      "album": {
         "name": "OLIMP",
         "url": "https://open.spotify.com/album/0jR9aLfNRm2xWo7ymsxOEb"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 250729,
       "name": "R\u0119ce w udr\u0119ce",
       "url": "https://open.spotify.com/track/4dEpsV9Rw64eVKe0ERUIsK"
-    },
-    {
-      "added_at": "2022-07-22 08:13:30",
-      "album": {
-        "name": "Dziewczynka Tatusia",
-        "url": "https://open.spotify.com/album/7F65SLLOJ5pCc7liw3dQHJ"
-      },
-      "artists": [
-        {
-          "name": "Sylvia Baudelaire",
-          "url": "https://open.spotify.com/artist/2aAx96PFuLYY2cpRXE5buF"
-        }
-      ],
-      "duration_ms": 190973,
-      "name": "Suka jak Ja",
-      "url": "https://open.spotify.com/track/4VYuEsq0d7fjYBQyyCqP8d"
     },
     {
       "added_at": "2022-07-22 08:13:30",
@@ -815,18 +815,18 @@
     {
       "added_at": "2022-07-22 08:13:30",
       "album": {
-        "name": "JOY",
-        "url": "https://open.spotify.com/album/4rYwfcRtfdG95A0kBVH9Oj"
+        "name": "Jeszcze mam serce",
+        "url": "https://open.spotify.com/album/3iYrUbgIpYz5yZUis0Z7Ow"
       },
       "artists": [
         {
-          "name": "Yanch",
-          "url": "https://open.spotify.com/artist/0cB5gHRy82zYYouDMeckVZ"
+          "name": "Kamil Kowalski",
+          "url": "https://open.spotify.com/artist/0e06gUDSCntc3X6v8mL6kk"
         }
       ],
-      "duration_ms": 359338,
-      "name": "JOY",
-      "url": "https://open.spotify.com/track/0UuGEWNj6aiWTtCujOGozw"
+      "duration_ms": 251216,
+      "name": "Jeszcze mam serce",
+      "url": "https://open.spotify.com/track/5MJ1xR7rF7LUvCy3sZpUJw"
     },
     {
       "added_at": "2022-07-22 08:13:30",
@@ -847,18 +847,18 @@
     {
       "added_at": "2022-07-22 08:13:30",
       "album": {
-        "name": "Jeszcze mam serce",
-        "url": "https://open.spotify.com/album/3iYrUbgIpYz5yZUis0Z7Ow"
+        "name": "JOY",
+        "url": "https://open.spotify.com/album/4rYwfcRtfdG95A0kBVH9Oj"
       },
       "artists": [
         {
-          "name": "Kamil Kowalski",
-          "url": "https://open.spotify.com/artist/0e06gUDSCntc3X6v8mL6kk"
+          "name": "Yanch",
+          "url": "https://open.spotify.com/artist/0cB5gHRy82zYYouDMeckVZ"
         }
       ],
-      "duration_ms": 251216,
-      "name": "Jeszcze mam serce",
-      "url": "https://open.spotify.com/track/5MJ1xR7rF7LUvCy3sZpUJw"
+      "duration_ms": 359338,
+      "name": "JOY",
+      "url": "https://open.spotify.com/track/0UuGEWNj6aiWTtCujOGozw"
     },
     {
       "added_at": "2022-07-22 08:13:30",

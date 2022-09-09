@@ -3058,6 +3058,24 @@
     },
     {
       "album": {
+        "name": "Follow Me",
+        "url": "https://open.spotify.com/album/0BCP5oNMo4U2zPjGB9gOEu"
+      },
+      "artists": [
+        {
+          "name": "Levianth",
+          "url": "https://open.spotify.com/artist/1kTBGIBgFuqaxbdeXX3L6H"
+        }
+      ],
+      "date_added": "2022-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124062,
+      "name": "Follow Me",
+      "url": "https://open.spotify.com/track/1W1lgRwIEuSMFLkLg6tXm7"
+    },
+    {
+      "album": {
         "name": "Sentiment",
         "url": "https://open.spotify.com/album/2NRBI2mvyZIYpHMEcDmN6A"
       },
@@ -8475,6 +8493,28 @@
       "duration_ms": 163086,
       "name": "The Island",
       "url": "https://open.spotify.com/track/71H9O3hLE9I77Q9LCO7L21"
+    },
+    {
+      "album": {
+        "name": "The Moment I Met You",
+        "url": "https://open.spotify.com/album/1f7UfEdE3HI93z0wLsmRus"
+      },
+      "artists": [
+        {
+          "name": "Nikademis",
+          "url": "https://open.spotify.com/artist/1mbM2HRSAFPgomMnUSNSvP"
+        },
+        {
+          "name": "Monika Santucci",
+          "url": "https://open.spotify.com/artist/5E1FAGKopxyWqEREQblCDA"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240400,
+      "name": "The Moment I Met You",
+      "url": "https://open.spotify.com/track/0sq8PLkApwedg1W9Qwam8F"
     },
     {
       "album": {

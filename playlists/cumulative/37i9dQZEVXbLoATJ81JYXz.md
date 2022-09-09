@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Sweden.
 
-976 songs - 2 day 3 hr 39 min - [published](https://open.spotify.com/playlist/5P2yiuo1XuPDWVYvCs1X7X)
+977 songs - 2 day 3 hr 41 min - [published](https://open.spotify.com/playlist/5P2yiuo1XuPDWVYvCs1X7X)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,6 +141,7 @@
 | [Can I Get It](https://open.spotify.com/track/6w8ZPYdnGajyfPddTWdthN) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 3:30 | 2021-11-21 | 2021-12-03 |
 | [Can't Stay Away](https://open.spotify.com/track/4herjqbsHfOHoIzRPti4JA) | [Darin](https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr) | [Can't Stay Away](https://open.spotify.com/album/3OIvFO4C2CQGRxYUQ9D8yf) | 3:00 | 2021-05-30 | 2021-05-31 |
 | [Caravaggio](https://open.spotify.com/track/5Bv6jNkvB82p6NCeaFsVuA) | [1.Cuz](https://open.spotify.com/artist/5uvOG0MwnD2ANrxNBUPtNr) | [Caravaggio](https://open.spotify.com/album/06bvnTPXXc3ozKuXnimVZj) | 2:12 | 2021-09-24 | 2021-10-17 |
+| [Catfish](https://open.spotify.com/track/6lW1r61qewMDG7oJGVP1EZ) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA), [VC Barre](https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU) | [Selfmade \(Deluxe\)](https://open.spotify.com/album/1c3QSPsycCCADNQZopSJIV) | 2:30 | 2022-09-08 |  |
 | [CCTV](https://open.spotify.com/track/3zx5ne2XxVwFcPg4t6OxRC) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [CCTV](https://open.spotify.com/album/2g8aREJdHnVxe5cedBfLbQ) | 2:24 | 2021-09-08 | 2021-10-17 |
 | [Certified](https://open.spotify.com/track/5II2AztMErwFd98efHZ09T) | [Hov1](https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt) | [Barn av vår tid](https://open.spotify.com/album/1StOdefPDHrQiwQLm3teNm) | 2:06 | 2021-10-03 | 2021-10-10 |
 | [Champagne Poetry](https://open.spotify.com/track/2HSmyk2qMN8WQjuGhaQgCk) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 5:36 | 2021-09-05 | 2021-09-11 |
@@ -344,7 +345,7 @@
 | [Gubben i lådan](https://open.spotify.com/track/46fLDmKjHKqLGVFscIaQju) | [Thomas Stenström](https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7), [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [Gubben i lådan](https://open.spotify.com/album/4JbUGgOPhvwf0O3YoyICMp) | 3:22 | 2021-12-20 | 2021-12-31 |
 | [GUBBS 4 EVER](https://open.spotify.com/track/6yjZFmqSqys1DHS0wbHP9W) | [De Vet Du](https://open.spotify.com/artist/7iW0o1suit8xY24m9M5L0u) | [GUBBS 4 EVER](https://open.spotify.com/album/5u9WFFXOuidKIhTVji0SVH) | 3:08 | 2021-11-14 | 2021-11-14 |
 | [Guitar \- Spotify Studio 100 Recording](https://open.spotify.com/track/3h8WBhNnafO0wzsEnGeJfX) | [Ricky Rich](https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK), [Blizzy](https://open.spotify.com/artist/4tSx9oXscGCVaVXEhH86qp) | [Guitar \- Spotify Studio 100 Recording](https://open.spotify.com/album/3ymlmZD01qezHfoQlDtUWB) | 2:44 | 2021-04-11 | 2021-04-18 |
-| [GÅR DET BRA?](https://open.spotify.com/track/0qswyajymNk1uMRplcKx3P) | [Hooja](https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL) | [GÅR DET BRA?](https://open.spotify.com/album/7titrAJAZMyrsvcnrrZ2pR) | 2:25 | 2022-08-08 |  |
+| [GÅR DET BRA?](https://open.spotify.com/track/0qswyajymNk1uMRplcKx3P) | [Hooja](https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL) | [GÅR DET BRA?](https://open.spotify.com/album/7titrAJAZMyrsvcnrrZ2pR) | 2:25 | 2022-08-08 | 2022-09-09 |
 | [Habiba](https://open.spotify.com/track/2DwKLmH3IW1Rp6ykCF5CSE) | [Ant Wan](https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy) | [Habiba](https://open.spotify.com/album/1fw2IHZiOUmjZAhTSgNQSQ) | 2:14 | 2022-07-09 | 2022-07-31 |
 | [Habiba](https://open.spotify.com/track/3qr1w5zyrbz4Mc2zZagXSX) | [Ant Wan](https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy) | [The Only Wan](https://open.spotify.com/album/4OrCH3Tp7HUpfxKzwWuVp3) | 2:14 | 2022-09-03 |  |
 | [Haglar – Spotify Studio It’s Hits Recording](https://open.spotify.com/track/5yoafZ4sNIlX4BuQwlKQCX) | [Olivia Lobato](https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0), [Björn Holmgren](https://open.spotify.com/artist/4bVT7xfHUEirpqkTXE3Z7F) | [Haglar – Spotify Studio It’s Hits Recording](https://open.spotify.com/album/5r7W2jDIx805Fhx5ahwFUr) | 3:09 | 2022-09-03 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Indie takes on songs others make. Cover: Remi Wolf",
-  "num_followers": 270136,
+  "num_followers": 270207,
   "original_name": "Indie Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjIyMTg5NiwwMDAwMDAwMDJjY2I3MDViMzA4NWNmODU1ODUyODA0M2I3MmM0NDk3",
+  "snapshot_id": "MTY2MjIyMTg5NiwwMDAwMDAwMGRiZTA2ZTQ0NmMzYjExYTBiM2IyMWZkY2Y4Mzc4YTdh",
   "tracks": [
     {
       "added_at": "2022-09-03 16:17:48",
@@ -128,22 +128,6 @@
       "added_at": "2022-09-03 16:17:48",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4yLdDDVmXRbB5q2hFGac4t"
-      },
-      "artists": [
-        {
-          "name": "Yoke Lore",
-          "url": "https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S"
-        }
-      ],
-      "duration_ms": 190392,
-      "name": "Truly Madly Deeply - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/0ApIlfcdY0hVdVEVUyS2Zf"
-    },
-    {
-      "added_at": "2022-09-03 16:17:48",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3k3IHMRB7BZEf9VEh4HZsm"
       },
       "artists": [
@@ -155,6 +139,22 @@
       "duration_ms": 220812,
       "name": "Friday I\u2019m In Love - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/6vC7mF2CXYW6MVF2voO4FU"
+    },
+    {
+      "added_at": "2022-09-03 16:17:48",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4yLdDDVmXRbB5q2hFGac4t"
+      },
+      "artists": [
+        {
+          "name": "Yoke Lore",
+          "url": "https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S"
+        }
+      ],
+      "duration_ms": 190392,
+      "name": "Truly Madly Deeply - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/0ApIlfcdY0hVdVEVUyS2Zf"
     },
     {
       "added_at": "2022-09-03 16:17:48",
@@ -483,6 +483,22 @@
     {
       "added_at": "2022-09-03 16:17:48",
       "album": {
+        "name": "In My Life",
+        "url": "https://open.spotify.com/album/3tgVhn9aidAfQvITwCZvhM"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 176320,
+      "name": "In My Life",
+      "url": "https://open.spotify.com/track/2kgnKo9QCHpohSPxkDStLy"
+    },
+    {
+      "added_at": "2022-09-03 16:17:48",
+      "album": {
         "name": "Seeking Thrills (The Ultimate Thrills Edition)",
         "url": "https://open.spotify.com/album/59UBi9ajKLenloyKokbmmZ"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 232000,
       "name": "High And Dry",
       "url": "https://open.spotify.com/track/0GehqN1MkS7feXJWWk97KU"
-    },
-    {
-      "added_at": "2022-09-03 16:17:48",
-      "album": {
-        "name": "In My Life",
-        "url": "https://open.spotify.com/album/3tgVhn9aidAfQvITwCZvhM"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 176320,
-      "name": "In My Life",
-      "url": "https://open.spotify.com/track/2kgnKo9QCHpohSPxkDStLy"
     },
     {
       "added_at": "2022-09-03 16:17:48",
@@ -875,26 +875,18 @@
     {
       "added_at": "2022-09-03 16:17:48",
       "album": {
-        "name": "Thirteen",
-        "url": "https://open.spotify.com/album/5uiA6CIjpVZ6TZfiATrjEg"
+        "name": "Singing Other People's Love Songs",
+        "url": "https://open.spotify.com/album/3608IcniealifcqI8WbKte"
       },
       "artists": [
         {
-          "name": "Bedouine",
-          "url": "https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5"
-        },
-        {
-          "name": "Hurray For The Riff Raff",
-          "url": "https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt"
-        },
-        {
-          "name": "Waxahatchee",
-          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
+          "name": "Lowland Hum",
+          "url": "https://open.spotify.com/artist/37YxyxKbCL7as3bH2adwQE"
         }
       ],
-      "duration_ms": 184869,
-      "name": "Thirteen",
-      "url": "https://open.spotify.com/track/5uXr5ZxwlC5lz7DMKLqJfC"
+      "duration_ms": 136891,
+      "name": "This Will Be Our Year",
+      "url": "https://open.spotify.com/track/3LPvSvPOv2z6FK4xyobePc"
     },
     {
       "added_at": "2022-09-03 16:17:48",
@@ -915,18 +907,26 @@
     {
       "added_at": "2022-09-03 16:17:48",
       "album": {
-        "name": "Singing Other People's Love Songs",
-        "url": "https://open.spotify.com/album/3608IcniealifcqI8WbKte"
+        "name": "Thirteen",
+        "url": "https://open.spotify.com/album/5uiA6CIjpVZ6TZfiATrjEg"
       },
       "artists": [
         {
-          "name": "Lowland Hum",
-          "url": "https://open.spotify.com/artist/37YxyxKbCL7as3bH2adwQE"
+          "name": "Bedouine",
+          "url": "https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5"
+        },
+        {
+          "name": "Hurray For The Riff Raff",
+          "url": "https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt"
+        },
+        {
+          "name": "Waxahatchee",
+          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
         }
       ],
-      "duration_ms": 136891,
-      "name": "This Will Be Our Year",
-      "url": "https://open.spotify.com/track/3LPvSvPOv2z6FK4xyobePc"
+      "duration_ms": 184869,
+      "name": "Thirteen",
+      "url": "https://open.spotify.com/track/5uXr5ZxwlC5lz7DMKLqJfC"
     },
     {
       "added_at": "2022-09-03 16:17:48",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2022-09-03 16:17:48",
       "album": {
-        "name": "Blue Skies",
-        "url": "https://open.spotify.com/album/1m50nO6LDcbAsv82M2KaZR"
-      },
-      "artists": [
-        {
-          "name": "Birdy",
-          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
-        }
-      ],
-      "duration_ms": 154869,
-      "name": "Blue Skies",
-      "url": "https://open.spotify.com/track/3qgK1i52jyuvz8ATQmMLTx"
-    },
-    {
-      "added_at": "2022-09-03 16:17:48",
-      "album": {
         "name": "Can't Take My Eyes Off You / 3BadSoSad - Edit",
         "url": "https://open.spotify.com/album/44PmpxWzjR4OvRa2Ok1RZP"
       },
@@ -1099,18 +1083,18 @@
     {
       "added_at": "2022-09-03 16:17:48",
       "album": {
-        "name": "Never Tear Us Apart",
-        "url": "https://open.spotify.com/album/3aM9iFr4aGdb9S275yWRZk"
+        "name": "Blue Skies",
+        "url": "https://open.spotify.com/album/1m50nO6LDcbAsv82M2KaZR"
       },
       "artists": [
         {
-          "name": "The National",
-          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+          "name": "Birdy",
+          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
         }
       ],
-      "duration_ms": 198653,
-      "name": "Never Tear Us Apart",
-      "url": "https://open.spotify.com/track/6ApsMLGIa9zw446CrqxcEi"
+      "duration_ms": 154869,
+      "name": "Blue Skies",
+      "url": "https://open.spotify.com/track/3qgK1i52jyuvz8ATQmMLTx"
     },
     {
       "added_at": "2022-09-03 16:17:48",
@@ -1127,6 +1111,22 @@
       "duration_ms": 311844,
       "name": "i wanna be your girlfriend",
       "url": "https://open.spotify.com/track/1MbEADz2hSkQAM2Yikfr9Y"
+    },
+    {
+      "added_at": "2022-09-03 16:17:48",
+      "album": {
+        "name": "Never Tear Us Apart",
+        "url": "https://open.spotify.com/album/3aM9iFr4aGdb9S275yWRZk"
+      },
+      "artists": [
+        {
+          "name": "The National",
+          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+        }
+      ],
+      "duration_ms": 198653,
+      "name": "Never Tear Us Apart",
+      "url": "https://open.spotify.com/track/6ApsMLGIa9zw446CrqxcEi"
     },
     {
       "added_at": "2022-09-03 16:17:48",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2022-09-03 16:17:48",
       "album": {
-        "name": "Angels",
-        "url": "https://open.spotify.com/album/7on0P5zUPpkedI9EtJ4SGJ"
-      },
-      "artists": [
-        {
-          "name": "Jelani Aryeh",
-          "url": "https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86"
-        }
-      ],
-      "duration_ms": 154285,
-      "name": "Angels",
-      "url": "https://open.spotify.com/track/7tc04xLTn7fG4IUujpuC9r"
-    },
-    {
-      "added_at": "2022-09-03 16:17:48",
-      "album": {
         "name": "Everytime - Spotify Singles",
         "url": "https://open.spotify.com/album/1Gohh6kwFpUJiwr5cqG9y8"
       },
@@ -1215,18 +1199,18 @@
     {
       "added_at": "2022-09-03 16:17:48",
       "album": {
-        "name": "Like a Rolling Stone",
-        "url": "https://open.spotify.com/album/5UJhgkj2fP5ycNLbVdzQ3H"
+        "name": "Angels",
+        "url": "https://open.spotify.com/album/7on0P5zUPpkedI9EtJ4SGJ"
       },
       "artists": [
         {
-          "name": "Phosphorescent",
-          "url": "https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP"
+          "name": "Jelani Aryeh",
+          "url": "https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86"
         }
       ],
-      "duration_ms": 409860,
-      "name": "Like a Rolling Stone",
-      "url": "https://open.spotify.com/track/49Q2VVHzabFRwAUQ1ByLNa"
+      "duration_ms": 154285,
+      "name": "Angels",
+      "url": "https://open.spotify.com/track/7tc04xLTn7fG4IUujpuC9r"
     },
     {
       "added_at": "2022-09-03 16:17:48",
@@ -1243,6 +1227,22 @@
       "duration_ms": 194786,
       "name": "Don't Dream It's Over",
       "url": "https://open.spotify.com/track/3SZ5m5GQyIKIhIoizDGTQg"
+    },
+    {
+      "added_at": "2022-09-03 16:17:48",
+      "album": {
+        "name": "Like a Rolling Stone",
+        "url": "https://open.spotify.com/album/5UJhgkj2fP5ycNLbVdzQ3H"
+      },
+      "artists": [
+        {
+          "name": "Phosphorescent",
+          "url": "https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP"
+        }
+      ],
+      "duration_ms": 409860,
+      "name": "Like a Rolling Stone",
+      "url": "https://open.spotify.com/track/49Q2VVHzabFRwAUQ1ByLNa"
     }
   ],
   "unique_name": "Indie Covers",

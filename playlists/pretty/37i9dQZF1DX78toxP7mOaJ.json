@@ -1,13 +1,29 @@
 {
   "description": "Fresh rock from independent artists every Wednesday. Cover: Goldpark | Artwork: Jim Klok",
-  "num_followers": 100172,
+  "num_followers": 100423,
   "original_name": "Fresh Finds Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTk2MTYwMCwwMDAwMDAwMDBmM2I0OGYwODI5ZDJhY2YzNGRkNjQwNTE4MjRmZjJj",
+  "snapshot_id": "MTY2MjU2NjQwMCwwMDAwMDAwMDVjZTU5ZGU2MDY5ZWIxMWM1MmUyZDcxNWMyZDdiNTY0",
   "tracks": [
+    {
+      "added_at": "2022-09-07 16:00:00",
+      "album": {
+        "name": "Tired of Liberty",
+        "url": "https://open.spotify.com/album/3aHcCiEzSVklnAgGhl86K9"
+      },
+      "artists": [
+        {
+          "name": "The Lounge Society",
+          "url": "https://open.spotify.com/artist/5OfZVpXzGottp1rYD73ufE"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Blood Money",
+      "url": "https://open.spotify.com/track/0FbmqiqcvIETP7SLa3x0aL"
+    },
     {
       "added_at": "2022-08-24 16:00:00",
       "album": {
@@ -23,6 +39,22 @@
       "duration_ms": 210791,
       "name": "I Guess It's Never Enough",
       "url": "https://open.spotify.com/track/3UwcdHtQg3KvF4bgM02Kre"
+    },
+    {
+      "added_at": "2022-09-07 16:00:00",
+      "album": {
+        "name": "ERUPT",
+        "url": "https://open.spotify.com/album/5tqV7K4XoM6Cjcf5BhsYRn"
+      },
+      "artists": [
+        {
+          "name": "Rain on Fridays",
+          "url": "https://open.spotify.com/artist/1clbqsZIkv7ci3xQ9lmGPj"
+        }
+      ],
+      "duration_ms": 251221,
+      "name": "ERUPT",
+      "url": "https://open.spotify.com/track/3UrBQlFZijtZuWWbq3xtCe"
     },
     {
       "added_at": "2022-08-31 16:00:00",
@@ -41,6 +73,42 @@
       "url": "https://open.spotify.com/track/1Hx2nUUnTyk5ewgKZt1lSI"
     },
     {
+      "added_at": "2022-09-07 16:00:00",
+      "album": {
+        "name": "Phenomenal",
+        "url": "https://open.spotify.com/album/4lUMfqrmNTmPQXVRB0VR3Y"
+      },
+      "artists": [
+        {
+          "name": "L'FREAQ",
+          "url": "https://open.spotify.com/artist/6yIxwhGx8Mq6i1WwgRSfkQ"
+        }
+      ],
+      "duration_ms": 240170,
+      "name": "Phenomenal",
+      "url": "https://open.spotify.com/track/21GoVUM73Z197lokQtCXdF"
+    },
+    {
+      "added_at": "2022-09-07 16:00:00",
+      "album": {
+        "name": "Goner (feat. Kellin Quinn)",
+        "url": "https://open.spotify.com/album/3cTWpgNg0V8LOPGlKXHNsf"
+      },
+      "artists": [
+        {
+          "name": "Kellin Quinn",
+          "url": "https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2"
+        },
+        {
+          "name": "Kulick",
+          "url": "https://open.spotify.com/artist/1rwaNYO0jV0TYiZm4SQTOe"
+        }
+      ],
+      "duration_ms": 228428,
+      "name": "Goner (feat. Kellin Quinn)",
+      "url": "https://open.spotify.com/track/27pE6MqlDtZwVrZz9Cy1VW"
+    },
+    {
       "added_at": "2022-08-31 16:00:00",
       "album": {
         "name": "Bloodshot",
@@ -55,6 +123,22 @@
       "duration_ms": 261064,
       "name": "Bloodshot",
       "url": "https://open.spotify.com/track/1lowQQecDUco0WYuI29GGm"
+    },
+    {
+      "added_at": "2022-09-07 16:00:00",
+      "album": {
+        "name": "Tuning In",
+        "url": "https://open.spotify.com/album/7G9fuOeoMTrIc5H0SSAV4y"
+      },
+      "artists": [
+        {
+          "name": "Teen Mortgage",
+          "url": "https://open.spotify.com/artist/4SX1RwkM82CQll2eoV9HaP"
+        }
+      ],
+      "duration_ms": 115228,
+      "name": "Tuning In",
+      "url": "https://open.spotify.com/track/3FOxK4zKJp5yCVqZPFIm5a"
     },
     {
       "added_at": "2022-08-24 16:00:00",
@@ -75,6 +159,38 @@
     {
       "added_at": "2022-08-31 16:00:00",
       "album": {
+        "name": "Spit Me Out",
+        "url": "https://open.spotify.com/album/6GEHuoCOcAYWhA2O0ZCubV"
+      },
+      "artists": [
+        {
+          "name": "Rightfield",
+          "url": "https://open.spotify.com/artist/4pZujg2iI63qnZ9dISXS14"
+        }
+      ],
+      "duration_ms": 157575,
+      "name": "Spit Me Out",
+      "url": "https://open.spotify.com/track/3GiLY7PQEVa0lKtsB9A7c0"
+    },
+    {
+      "added_at": "2022-09-07 16:00:00",
+      "album": {
+        "name": "In the Moment",
+        "url": "https://open.spotify.com/album/4j8Uwdw0jRtMsYXy7FX9JO"
+      },
+      "artists": [
+        {
+          "name": "Regulate",
+          "url": "https://open.spotify.com/artist/64O5oavSEHRyQBGxOU0ewd"
+        }
+      ],
+      "duration_ms": 160174,
+      "name": "In the Moment",
+      "url": "https://open.spotify.com/track/4r01fAKFhNhQZ6y6OFRJdM"
+    },
+    {
+      "added_at": "2022-08-31 16:00:00",
+      "album": {
         "name": "Mac and Steeze",
         "url": "https://open.spotify.com/album/1kiENWEGpg9rSQWGb8AhNA"
       },
@@ -87,6 +203,22 @@
       "duration_ms": 174751,
       "name": "Mac and Steeze",
       "url": "https://open.spotify.com/track/3qZE5IUJ7qzYQC8Ko3F1Me"
+    },
+    {
+      "added_at": "2022-09-07 16:00:00",
+      "album": {
+        "name": "Daisy",
+        "url": "https://open.spotify.com/album/5IcszA2oS2W638Ii5h25gZ"
+      },
+      "artists": [
+        {
+          "name": "Superbloom",
+          "url": "https://open.spotify.com/artist/3xdggitmc1vFAChxAwhIIL"
+        }
+      ],
+      "duration_ms": 190322,
+      "name": "Daisy",
+      "url": "https://open.spotify.com/track/57qEVblwTQpaR09g1XR2YT"
     },
     {
       "added_at": "2022-08-31 16:00:00",
@@ -103,22 +235,6 @@
       "duration_ms": 215426,
       "name": "Listen Up!",
       "url": "https://open.spotify.com/track/0B0m0EvH4HPz1FyXcPMV7B"
-    },
-    {
-      "added_at": "2022-08-31 16:00:00",
-      "album": {
-        "name": "Spit Me Out",
-        "url": "https://open.spotify.com/album/6GEHuoCOcAYWhA2O0ZCubV"
-      },
-      "artists": [
-        {
-          "name": "Rightfield",
-          "url": "https://open.spotify.com/artist/4pZujg2iI63qnZ9dISXS14"
-        }
-      ],
-      "duration_ms": 157575,
-      "name": "Spit Me Out",
-      "url": "https://open.spotify.com/track/3GiLY7PQEVa0lKtsB9A7c0"
     },
     {
       "added_at": "2022-08-31 16:00:00",
@@ -757,7 +873,7 @@
         }
       ],
       "duration_ms": 192936,
-      "name": "Eugene",
+      "name": "Eugene - Single Edit",
       "url": "https://open.spotify.com/track/0IDM4UxzlulbTqSDoMY1Sn"
     },
     {
@@ -1531,118 +1647,6 @@
       "duration_ms": 195310,
       "name": "Juniper Street",
       "url": "https://open.spotify.com/track/6FSNJrkdLqOGlSXFSd6JCg"
-    },
-    {
-      "added_at": "2022-08-24 16:00:00",
-      "album": {
-        "name": "I Might Fall In Love",
-        "url": "https://open.spotify.com/album/6AlbPtyeZf1N1DXg3gcCow"
-      },
-      "artists": [
-        {
-          "name": "Surf Trash",
-          "url": "https://open.spotify.com/artist/78DoiOUHouyEPI7aNgqkkm"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "I Might Fall In Love",
-      "url": "https://open.spotify.com/track/0nvdQLgHJWmwOSxBKAXJK4"
-    },
-    {
-      "added_at": "2022-08-24 16:00:00",
-      "album": {
-        "name": "Saturday Evening",
-        "url": "https://open.spotify.com/album/5eLBCgF4VMqVc2TtWGV41L"
-      },
-      "artists": [
-        {
-          "name": "Jordan Dean",
-          "url": "https://open.spotify.com/artist/01cC5vPoDJpEVfC3xea8ub"
-        }
-      ],
-      "duration_ms": 172673,
-      "name": "Saturday Evening",
-      "url": "https://open.spotify.com/track/7EhZz0XBCIa6CRrzZDx9Tn"
-    },
-    {
-      "added_at": "2022-08-24 16:00:00",
-      "album": {
-        "name": "Come",
-        "url": "https://open.spotify.com/album/45J5xN7CSJ2XsfKq3Oiw7g"
-      },
-      "artists": [
-        {
-          "name": "Grave Goods",
-          "url": "https://open.spotify.com/artist/2s12HGOFjO0WBSd4oxK4La"
-        }
-      ],
-      "duration_ms": 206032,
-      "name": "Come",
-      "url": "https://open.spotify.com/track/1njJyaBg9ChJ1jD46Y18XJ"
-    },
-    {
-      "added_at": "2022-08-24 16:00:00",
-      "album": {
-        "name": "World To Me",
-        "url": "https://open.spotify.com/album/0YYEa5959qL0Bcz5vd2pLv"
-      },
-      "artists": [
-        {
-          "name": "Pit Pony",
-          "url": "https://open.spotify.com/artist/1Tam6yeKCTZNKVah41Uv7j"
-        }
-      ],
-      "duration_ms": 225625,
-      "name": "Tide Of Doubt",
-      "url": "https://open.spotify.com/track/5SuqiH65FrbM731Cf6dYyp"
-    },
-    {
-      "added_at": "2022-08-24 16:00:00",
-      "album": {
-        "name": "Nullify",
-        "url": "https://open.spotify.com/album/2shB83IkSApaMd4D1h7OaQ"
-      },
-      "artists": [
-        {
-          "name": "MILLY",
-          "url": "https://open.spotify.com/artist/6LihBQjVynXpEaT3Oe2oof"
-        }
-      ],
-      "duration_ms": 199194,
-      "name": "Nullify",
-      "url": "https://open.spotify.com/track/2wg36E0bVFuJIq7ZeKF3a8"
-    },
-    {
-      "added_at": "2022-08-24 16:00:00",
-      "album": {
-        "name": "Under Your Skin",
-        "url": "https://open.spotify.com/album/09JgN3TaRLayNPDzPkfi1y"
-      },
-      "artists": [
-        {
-          "name": "Deathcruiser",
-          "url": "https://open.spotify.com/artist/2TsHAB2qyWpuSKBYhpRxu3"
-        }
-      ],
-      "duration_ms": 187918,
-      "name": "Under Your Skin",
-      "url": "https://open.spotify.com/track/7BKdb4GNYKW3XJSRubvtSm"
-    },
-    {
-      "added_at": "2022-08-24 16:00:00",
-      "album": {
-        "name": "Chromosomes",
-        "url": "https://open.spotify.com/album/3OJv0xBtpzQBtsPPgTxAac"
-      },
-      "artists": [
-        {
-          "name": "KHARTOUM",
-          "url": "https://open.spotify.com/artist/4hYvirqM4pHCsklzddaMsM"
-        }
-      ],
-      "duration_ms": 172644,
-      "name": "Chromosomes",
-      "url": "https://open.spotify.com/track/4CCv4OkiLz9O9UFa0NgHvU"
     }
   ],
   "unique_name": "Fresh Finds Rock",

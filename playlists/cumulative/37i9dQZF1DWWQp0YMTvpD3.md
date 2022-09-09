@@ -4,7 +4,7 @@
 
 > Uplifting, slow House music to work or relax to.
 
-245 songs - 12 hr 29 min - [published](https://open.spotify.com/playlist/1OAQCWr9DIgjEDuOEkwgz1)
+248 songs - 12 hr 37 min - [published](https://open.spotify.com/playlist/1OAQCWr9DIgjEDuOEkwgz1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Ballad](https://open.spotify.com/track/4YHZ1hD9ZYc8bqHpDeWfgZ) | [Noonlight](https://open.spotify.com/artist/0Goi0yeqJIUVfvKkVhksHe) | [Ballad](https://open.spotify.com/album/7h87Gr4ywfgLcMEUFTq2k9) | 1:55 | 2022-02-11 |  |
 | [Banzai](https://open.spotify.com/track/17vSg7KjpV5vHRYqlMcft7) | [Bus Topp](https://open.spotify.com/artist/6iWgfTsyBsH03H2XDrveyR) | [D\-Bounce](https://open.spotify.com/album/1fYMSkZu4OweUq1yyj8038) | 4:35 | 2021-10-12 | 2022-02-12 |
 | [Base\-level Guilt](https://open.spotify.com/track/5zKasYyHSZ6oNpxdNGrGZg) | [Camisade](https://open.spotify.com/artist/50bALOArnHOLUQgUPfhn5i) | [Base\-level Guilt](https://open.spotify.com/album/24d5RGnCIcRoIdcEzBHJMp) | 3:06 | 2022-08-19 |  |
+| [Beautiful](https://open.spotify.com/track/0daOdYBVZB8LlL7nuW5Bjv) | [SRTW](https://open.spotify.com/artist/7vHAcPVlEDksRsCfkez2CD), [COLIN](https://open.spotify.com/artist/65Uy8U5VKTrqB70p39OLsH) | [Beautiful](https://open.spotify.com/album/6Hfb1zvf3pklz3DEGSPgeD) | 2:01 | 2022-09-09 |  |
 | [Becoming True](https://open.spotify.com/track/3wm0X0vHD5IqEwZP8ND2kR) | [Eneko Artola](https://open.spotify.com/artist/3Q3pmaIKRKXh2e0g4A4Xpc) | [Becoming True](https://open.spotify.com/album/5hPgEH2bFnsZXUw4gFn3nP) | 2:58 | 2022-02-11 |  |
 | [Begin \(feat\. Wales\)](https://open.spotify.com/track/1v5J1L8FbUQya4SUQFCstk) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk), [Wales](https://open.spotify.com/artist/3IxDETkXytMePFoyf7PYWQ) | [All Becomes Okay](https://open.spotify.com/album/6EHU4sgkn65wpT5dZU6Tkh) | 4:02 | 2021-06-17 | 2022-02-12 |
 | [Bingsoo](https://open.spotify.com/track/2CoxIfJR3baSVx1WrQTH0C) | [Milky Day](https://open.spotify.com/artist/7FIqXqYZHMomTAcTXF4UHu), [frad](https://open.spotify.com/artist/1XLYJ9VzlgEpBdlkC4MhOL), [Jazzinuf](https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi) | [Bingsoo](https://open.spotify.com/album/7qYQo8mQK3Q2oZAmTp4Lng) | 2:38 | 2019-10-04 | 2022-02-12 |
@@ -56,6 +57,7 @@
 | [Clarity](https://open.spotify.com/track/2QDm9uNerLtITaDn2P7XeJ) | [Dan Awy](https://open.spotify.com/artist/6LubM6pIrPHuCLDhPCWe3Z) | [Clarity](https://open.spotify.com/album/1H4cEBIvngQaCi2ZNJoYd6) | 2:59 | 2022-05-27 |  |
 | [Close To Me](https://open.spotify.com/track/28T738J7MBniDTJsHjLCXD) | [Aselec](https://open.spotify.com/artist/6sieT8D35Oae3wuL26bA4Z) | [Close To Me](https://open.spotify.com/album/78J95MXdIW6WW8g38M6B1l) | 2:51 | 2022-08-19 |  |
 | [Cloud Number Five](https://open.spotify.com/track/4ulT6vEjfMzTAxbiNYhm7C) | [Dia Louge](https://open.spotify.com/artist/71TnN2RDUMrNrcFS1kYZdl) | [Cloud Number Five](https://open.spotify.com/album/2LpnJdn48aBAPVJY8xJYeB) | 3:26 | 2022-06-24 |  |
+| [Curvature](https://open.spotify.com/track/4YjO6S1cg24DllgkHWqhxq) | [Colton Jefferson](https://open.spotify.com/artist/4dB5DX9CCgOE5LIOciYR7n) | [Curvature](https://open.spotify.com/album/0P0SDDB0i2Whu1bWrpxcd5) | 2:33 | 2022-09-09 |  |
 | [Curves](https://open.spotify.com/track/2AkLzKnVUxCmEF5qOxnb0f) | [Good Kings](https://open.spotify.com/artist/0p9lqEL03evk1imDzxLJJU) | [Curves](https://open.spotify.com/album/4KjuZSoDJzOOL6lVrUQSxj) | 2:55 | 2022-02-11 | 2022-07-15 |
 | [Côte d'Azur](https://open.spotify.com/track/3j2z0dEUbYb8nClzLPnJCe) | [Parker Wilkins](https://open.spotify.com/artist/6igZZYtkBvDiAl9KF34BD4) | [Côte d'Azur](https://open.spotify.com/album/1SIIMxqsHJjFesEaSu6WYO) | 2:31 | 2022-07-01 |  |
 | [Danger Zone](https://open.spotify.com/track/48gfj7REhcvZjASWAPEo68) | [DJ ZeeZee](https://open.spotify.com/artist/6vjAwcOZNHp71G8mYs2yUg) | [Danger Zone](https://open.spotify.com/album/2AFI0lCU0ILKZW9Plkno6n) | 2:52 | 2019-10-04 | 2022-02-12 |
@@ -104,6 +106,7 @@
 | [Immortal](https://open.spotify.com/track/6aju9nXf2qF3Lexo6iYoFJ) | [MaTa](https://open.spotify.com/artist/4VXVu0C94fy1xLwfTTb7fr) | [Immortal](https://open.spotify.com/album/4R2XKRYpevbMhFwMG8YvyF) | 6:18 | 2022-06-17 | 2022-07-29 |
 | [In My Body](https://open.spotify.com/track/6IMpChUNroKqFsyj2jh92h) | [Sam Florian](https://open.spotify.com/artist/2Cn7Bt3a2QtoJnX6lkJN8y), [Ia Öberg](https://open.spotify.com/artist/24XGvTclseHwpiDiZUzrdQ) | [In My Body](https://open.spotify.com/album/1OI6U275mlnGm5QMCc9Xoy) | 2:57 | 2019-10-04 | 2022-02-12 |
 | [In This Together](https://open.spotify.com/track/6I7lRMp9DcBxWQkUVY7kRW) | [Cedric Mercute](https://open.spotify.com/artist/09WaGi6h0LCbBFdKsjBMdk) | [In This Together](https://open.spotify.com/album/3HZMaVLmEIXqSNjhsTjrmD) | 2:49 | 2022-02-11 |  |
+| [Insights](https://open.spotify.com/track/1kwpL3EqUjKXhmEttZ78Md) | [Galavant Cross](https://open.spotify.com/artist/07dC1pu2nWISPURU8irwck) | [Insights](https://open.spotify.com/album/2BcSmACfCfIDnCnzpp1Cyq) | 3:26 | 2022-09-09 |  |
 | [It's Alright](https://open.spotify.com/track/1L1vWlBmczGdw74eQOtrtD) | [Majik](https://open.spotify.com/artist/7cY6Wh3h8rcLp62AhYKhy9) | [It's Alright / Save Me](https://open.spotify.com/album/17p4MoyfCn8VcNiPktFNmJ) | 5:06 | 2019-10-04 | 2022-02-12 |
 | [Kantan](https://open.spotify.com/track/3UuV3xQsLn8FdAzEa0foPr) | [Yasumaru](https://open.spotify.com/artist/0d8Lf2UsOCP5Wuy3n9dOzT) | [Kantan](https://open.spotify.com/album/0EsACGm8MKS86WzhvWUV2K) | 3:17 | 2022-02-11 |  |
 | [Kenaya](https://open.spotify.com/track/4hz8WgdHr8HmrYu8AKAF7c) | [Saint Haux](https://open.spotify.com/artist/6U0eV4Y0Uyfa9UadndH7hg) | [Kenaya](https://open.spotify.com/album/0CHML6ldbqxQ1icEclH3yb) | 2:38 | 2022-09-02 |  |
@@ -111,7 +114,7 @@
 | [Koh Musica](https://open.spotify.com/track/77QMACo3pSn8I7lQD9nftm) | [Dancing Minds](https://open.spotify.com/artist/0jiLNfvHXBnL45hznG0dqB) | [Glow](https://open.spotify.com/album/1CHQFx98d16PMOyn4nwS72) | 3:36 | 2022-02-11 |  |
 | [lament orange](https://open.spotify.com/track/1NsENCo25TvQKmBk9khtNA) | [Asha Lin](https://open.spotify.com/artist/3n5KctQ0kr7y2FQs57lE2H) | [lament orange](https://open.spotify.com/album/5XgmzbVgztvwlUb3n0XwiY) | 2:56 | 2022-07-15 |  |
 | [Lego](https://open.spotify.com/track/6qdYRJZesimF7fPkTaGSFL) | [Gibbon Baby](https://open.spotify.com/artist/57e5lRPOUi6N1Oroph48nz) | [Lego](https://open.spotify.com/album/6D4m3UGV2LVloI7Vmh3fQv) | 2:04 | 2021-10-26 | 2022-02-12 |
-| [Lifeless Major](https://open.spotify.com/track/7n9n0v33mqEMniNMTmxv1J) | [Stenkil](https://open.spotify.com/artist/0ZatGtzzVJiSlOiZkVU2ln) | [Lifeless Major](https://open.spotify.com/album/2lV37OXeIK3GBP5vTAevLp) | 2:46 | 2022-07-01 |  |
+| [Lifeless Major](https://open.spotify.com/track/7n9n0v33mqEMniNMTmxv1J) | [Stenkil](https://open.spotify.com/artist/0ZatGtzzVJiSlOiZkVU2ln) | [Lifeless Major](https://open.spotify.com/album/2lV37OXeIK3GBP5vTAevLp) | 2:46 | 2022-07-01 | 2022-09-09 |
 | [Living Inside Your Love](https://open.spotify.com/track/2nRdWUhn7dEJbOSv9zrhMF) | [Monumental Men](https://open.spotify.com/artist/1g086QeJJCdi3HfyfpU22A) | [Living Inside Your Love](https://open.spotify.com/album/28BKM9sQYJudVEiVecxKT5) | 4:04 | 2019-10-04 | 2022-02-12 |
 | [Living Quarters](https://open.spotify.com/track/1ogoiiimWF8xDwZCIrc9AT) | [DROPQUICK](https://open.spotify.com/artist/1kTosgOUBKvkCaOsJINFsN) | [Living Quarters](https://open.spotify.com/album/2rFeIx7pisAIFKwdy1rTYI) | 2:21 | 2021-10-26 | 2022-02-12 |
 | [Lost and sound](https://open.spotify.com/track/4deG32OdrRCNIRRqlltdUJ) | [Mechagnome](https://open.spotify.com/artist/13PdnMKcJONs4BQg3b0U5q) | [Lost and sound](https://open.spotify.com/album/7bkBU9Rvrt4dpy3juyV3bU) | 2:58 | 2022-08-19 |  |
@@ -139,7 +142,7 @@
 | [New Creation](https://open.spotify.com/track/1yKDappVhFf05peEb9NFR8) | [Vertical Sight](https://open.spotify.com/artist/59fdBKobn0AP6yV1aI53W7) | [New Creation](https://open.spotify.com/album/4kV127M8gRdovkFwvwLGcA) | 2:42 | 2022-02-11 |  |
 | [Night Street](https://open.spotify.com/track/54NurX7EtFspwo0YvSeyN2) | [DNDM](https://open.spotify.com/artist/49LauQfpd2peE6g1aWbuTA) | [Night Street](https://open.spotify.com/album/5SLLE63V5AX27iDYdSYh3R) | 4:25 | 2022-08-12 |  |
 | [No Problem](https://open.spotify.com/track/5ER8Qb144767nRWtLxZqGD) | [Eneko Artola](https://open.spotify.com/artist/3Q3pmaIKRKXh2e0g4A4Xpc) | [No Problem](https://open.spotify.com/album/3eqOLVEqqN5rSlDyLcsH0S) | 2:58 | 2022-02-12 |  |
-| [Nocturne](https://open.spotify.com/track/03vZMNnBKCtR79aOvCnwzf) | [Nina Young](https://open.spotify.com/artist/5kfKDSksVMsl63kpMZ8m2x) | [Nocturne](https://open.spotify.com/album/1X3hAhpKf9B1Vf6HSfEfyQ) | 2:02 | 2022-02-12 |  |
+| [Nocturne](https://open.spotify.com/track/03vZMNnBKCtR79aOvCnwzf) | [Nina Young](https://open.spotify.com/artist/5kfKDSksVMsl63kpMZ8m2x) | [Nocturne](https://open.spotify.com/album/1X3hAhpKf9B1Vf6HSfEfyQ) | 2:02 | 2022-02-12 | 2022-09-09 |
 | [Novice Juggler](https://open.spotify.com/track/4qll3wRtSGgLmpj7liqNEr) | [Joey Pecoraro](https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ) | [Novice Juggler](https://open.spotify.com/album/4AQx07SKH6WpZqcLHWw6jb) | 3:11 | 2019-10-04 | 2022-02-12 |
 | [Numberless](https://open.spotify.com/track/5ZDSl9sx8sDxzrrcAddsJm) | [Himari Aoki](https://open.spotify.com/artist/5wymut0det0V9Vf6l8t0mD) | [Numberless](https://open.spotify.com/album/4u2RN3NRm5qXEkI7eE0E24) | 2:46 | 2022-06-03 |  |
 | [Ocean Avenue](https://open.spotify.com/track/5Bv8KRYPE7w6S9bZfrUYiz) | [Vanilla Beach](https://open.spotify.com/artist/4gJj9oQfNWsfgwKYeUdlCe), [Ashley Orikami](https://open.spotify.com/artist/3g8971KIYlPDlZWnU5Mlof) | [Ocean Avenue](https://open.spotify.com/album/26MxpI4CnZlMXJoD7IoiGU) | 3:53 | 2021-10-12 | 2022-02-12 |
@@ -170,7 +173,7 @@
 | [Seala](https://open.spotify.com/track/1BL2QYqKsUqMHMpFswdXRD) | [Kellen Berrios](https://open.spotify.com/artist/0tTc6Q8lb2dB4Atl12F4Zp) | [Seala](https://open.spotify.com/album/3wFkbVpZwahPZXOWZfIhia) | 2:24 | 2022-09-02 |  |
 | [Semiconcious](https://open.spotify.com/track/7DZcwJ8CKNIgpgPDnqmDox) | [Brooklynn Contreras](https://open.spotify.com/artist/6ds4IULZlDK5RutmpOhwGt) | [Semiconcious](https://open.spotify.com/album/39yrRMOKpQOdKX1ElgihUm) | 3:00 | 2021-10-12 | 2022-02-12 |
 | [Severance](https://open.spotify.com/track/7vHkT0MHqz0cyRcGjR6OtA) | [Robotaki](https://open.spotify.com/artist/5ar4zFgUQG1RsH8nhmjOeM) | [Anachronism](https://open.spotify.com/album/5nPPBh5zmauom6cBkrOXSv) | 4:08 | 2019-10-04 | 2022-02-12 |
-| [Shades of Purple](https://open.spotify.com/track/6HhgIkDQuAnBDIhBzF8qkj) | [Johannes Jungleson](https://open.spotify.com/artist/7ofvDzzumewLcN4apfxAxS), [Mia Mare](https://open.spotify.com/artist/1ipQqTFEzS2eS1ZFvgen8r) | [Sunrise to Sunset](https://open.spotify.com/album/7HFihb6S7u5tKSjoL92Tfp) | 2:49 | 2022-02-11 |  |
+| [Shades of Purple](https://open.spotify.com/track/6HhgIkDQuAnBDIhBzF8qkj) | [Johannes Jungleson](https://open.spotify.com/artist/7ofvDzzumewLcN4apfxAxS), [Mia Mare](https://open.spotify.com/artist/1ipQqTFEzS2eS1ZFvgen8r) | [Sunrise to Sunset](https://open.spotify.com/album/7HFihb6S7u5tKSjoL92Tfp) | 2:49 | 2022-02-11 | 2022-09-09 |
 | [Shingo](https://open.spotify.com/track/3YegC72pbwviu6fy5zbPh3) | [The Graph](https://open.spotify.com/artist/4bwrakWnAq3spXK7FvNqwY) | [Shingo](https://open.spotify.com/album/7klo4BZCjEJT0158jeEamD) | 2:46 | 2021-10-12 | 2022-02-12 |
 | [Shiroi nami](https://open.spotify.com/track/2y140IkPF2JtztdvZvYs1F) | [Himari Aoki](https://open.spotify.com/artist/5wymut0det0V9Vf6l8t0mD) | [Shiroi nami](https://open.spotify.com/album/1VuMer80QiwepIgUqf8HPk) | 3:02 | 2022-02-11 |  |
 | [Sleep Online](https://open.spotify.com/track/4njORatgD4DQOZsgio3Wiq) | [Barbatula](https://open.spotify.com/artist/7hn07YGWIDqLjXljHGI6t9) | [Sungaze](https://open.spotify.com/album/1qHZRhAkC4JTXgYVi8LUXT) | 4:06 | 2022-02-11 |  |

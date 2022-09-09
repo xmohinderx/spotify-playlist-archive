@@ -4580,6 +4580,24 @@
     },
     {
       "album": {
+        "name": "Superman Sin Capa",
+        "url": "https://open.spotify.com/album/54sBUl14e0fc7YZGX8dWdP"
+      },
+      "artists": [
+        {
+          "name": "El Super Nuevo",
+          "url": "https://open.spotify.com/artist/3hWKGRKwr78bhxvErSJBdu"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230153,
+      "name": "Superman Sin Capa",
+      "url": "https://open.spotify.com/track/1UuZIUgkiVPhIkhbYlLTeD"
+    },
+    {
+      "album": {
         "name": "Exitos 2016",
         "url": "https://open.spotify.com/album/6E4LSrujttW94zndcvmhfl"
       },
@@ -4591,7 +4609,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 230257,
       "name": "Superman Sin Capa",
       "url": "https://open.spotify.com/track/7enqOzlUkUH0M1tHYwRTYO"

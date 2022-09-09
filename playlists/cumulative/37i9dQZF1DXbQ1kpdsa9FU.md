@@ -4,7 +4,7 @@
 
 > Everyday\. Every time\.  These are the songs you can count on\. Always.
 
-184 songs - 14 hr 3 min - [published](https://open.spotify.com/playlist/085exfJgl69qUdFZhCGUCQ)
+185 songs - 14 hr 7 min - [published](https://open.spotify.com/playlist/085exfJgl69qUdFZhCGUCQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Almost Home](https://open.spotify.com/track/0BzPKbK1FMlEdH7AxrLdgr) | [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q) | [Almost Home](https://open.spotify.com/album/4rqgmldtQPc2yPZWCrLyiw) | 4:12 | 2020-08-26 | 2022-07-28 |
 | [Almost Home](https://open.spotify.com/track/5CjYgLyRgiIGiS9fQAyWaH) | [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q) | [Almost Home](https://open.spotify.com/album/0JNbn5gGkdaRIjaZ54UyCG) | 4:12 | 2020-08-26 | 2022-07-27 |
 | [Amadeo \(Still My God\)](https://open.spotify.com/track/4RJDOFTpq7AMdRzbfRZsdr) | [Ryan Stevenson](https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97) | [Amadeo](https://open.spotify.com/album/0QdJhUQd271M0nmglY0S6i) | 3:38 | 2020-08-26 | 2022-07-29 |
+| [Amadeo \(Still My God\)](https://open.spotify.com/track/7BhvOAA8kaGhd2dsa27XP8) | [Ryan Stevenson](https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97) | [Wildest Dreams](https://open.spotify.com/album/7sMUMoz8M97aFHePhUpdR9) | 3:38 | 2020-08-26 |  |
 | [Amazing Grace \(My Chains Are Gone\)](https://open.spotify.com/track/5W9Al2ewPfzbWHOV2BAtBR) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Double Take \- Chris Tomlin](https://open.spotify.com/album/71Rt2QTgfrUpz9Tamsw14d) | 4:27 | 2020-08-26 |  |
 | [At The Cross \(Love Ran Red\)](https://open.spotify.com/track/27uBwOJbW6kHsCbKGukxMK) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Love Ran Red](https://open.spotify.com/album/1I5FTCyGotvADiEmqPeWjY) | 4:10 | 2020-08-26 |  |
 | [Awake My Soul](https://open.spotify.com/track/6AvQ48ohekN6f2eqZCYICX) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [Awake](https://open.spotify.com/album/6ZPHrDQvgzBcaKtGUMd9rC) | 4:24 | 2020-08-26 |  |
@@ -48,7 +49,7 @@
 | [Eye of the Storm \(feat\. Gabe Real\)](https://open.spotify.com/track/1CMUCe5mOF0EqTKqPz5k14) | [Ryan Stevenson](https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97), [Gabe Real](https://open.spotify.com/artist/4P0egFKcqow04ImKICyPYt) | [Fresh Start](https://open.spotify.com/album/52gg77WRnRbxTrKYQaQ5mx) | 5:31 | 2020-08-26 | 2022-07-29 |
 | [Eye of the Storm \(feat\. Gabe Real\)](https://open.spotify.com/track/6RSBBvhrP0KvkpaUSMPI11) | [Ryan Stevenson](https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97), [Gabereal](https://open.spotify.com/artist/7pMRuTQan8Xa2erCF93GR7) | [Fresh Start](https://open.spotify.com/album/0deQGdpl2LNu0o7s9wRVGk) | 5:31 | 2020-08-26 |  |
 | [Faith \- Radio Version](https://open.spotify.com/track/4HeBnOIcdTi5ZCdmpwJUuR) | [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA) | [Faith \(Radio Version\)](https://open.spotify.com/album/2B2nIx1BqirTcwSRveoBP0) | 3:46 | 2020-08-26 | 2022-07-29 |
-| [Fear No More](https://open.spotify.com/track/2dRkBASYztFHahOf5GNeQ9) | [Building 429](https://open.spotify.com/artist/6Le23Aqwqi28fQUzfv4dHY) | [Fear No More](https://open.spotify.com/album/2fB6DEetkiafmJD4hcfMDZ) | 3:12 | 2020-08-26 |  |
+| [Fear No More](https://open.spotify.com/track/2dRkBASYztFHahOf5GNeQ9) | [Building 429](https://open.spotify.com/artist/6Le23Aqwqi28fQUzfv4dHY) | [Fear No More](https://open.spotify.com/album/2fB6DEetkiafmJD4hcfMDZ) | 3:12 | 2020-08-26 | 2022-09-09 |
 | [Forever \- Live](https://open.spotify.com/track/1z5xgcRgxxGEKrXUCEFpA9) | [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [Majestic \(Live\)](https://open.spotify.com/album/1CMgCsrwDku8Q6bOjNSJJr) | 6:49 | 2020-08-26 |  |
 | [Glory and Majesty](https://open.spotify.com/track/6ebunLa0rqIRA3w1Q8m4M9) | [Jon Reddick](https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2) | [Glory and Majesty](https://open.spotify.com/album/1QGbytHCK2zrtErq1tt4PF) | 4:44 | 2020-08-26 | 2022-07-29 |
 | [God Is on the Move](https://open.spotify.com/track/72aVbNngCMhTFl31ydjHCG) | [7eventh Time Down](https://open.spotify.com/artist/15JWT0b1GY8dOBjVtrHaca) | [God Is on the Move](https://open.spotify.com/album/717joDA6v1pvhMq13mCSfV) | 2:56 | 2020-08-26 |  |

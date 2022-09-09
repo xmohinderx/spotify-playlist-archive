@@ -4,7 +4,7 @@
 
 > Pass the sticks & press play.
 
-515 songs - 1 day 0 hr 55 min - [published](https://open.spotify.com/playlist/7cwYx6eKsM8gRAepNRauuk)
+516 songs - 1 day 0 hr 58 min - [published](https://open.spotify.com/playlist/7cwYx6eKsM8gRAepNRauuk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,6 +153,7 @@
 | [Falling](https://open.spotify.com/track/0WbeKItEoJIPlo8GkzlHCw) | [Lil Mosey](https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk) | [Falling](https://open.spotify.com/album/44hLQThkyttusgoILcncyl) | 2:35 | 2022-03-11 | 2022-06-29 |
 | [Falsetto \(feat\. Lil Tecca\)](https://open.spotify.com/track/6nrPRHGdz1ytpX2ZBZ4RGU) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [We All We Got](https://open.spotify.com/album/34lnCyV2yifNux7dsd1w0O) | 2:15 | 2022-08-19 |  |
 | [family ties \(with Kendrick Lamar\)](https://open.spotify.com/track/7Bpx2vsWfQFBACRz4h3IqH) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [family ties \(with Kendrick Lamar\)](https://open.spotify.com/album/3HqmX8hGcbbQZODgayNEYx) | 4:12 | 2021-09-03 | 2022-06-11 |
+| [Fantastic](https://open.spotify.com/track/7fdTVjOFYWyfUXXTpIL917) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Fantastic](https://open.spotify.com/album/1N5NSxPMp1hpqwM5v5KIkz) | 2:52 | 2022-09-02 |  |
 | [Fashion \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/29xgeqUtLbNTwxLSoLufjF) | [Hotboii](https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Blinded By Death](https://open.spotify.com/album/3Un78pExYVA9yCeDEKVhu3) | 2:50 | 2022-07-28 | 2022-08-06 |
 | [Fashion \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/7rapKkAuIuSU1cezDgxspo) | [Hotboii](https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Blinded By Death](https://open.spotify.com/album/7B4Z1YST4O7dpiL2DyIZlH) | 2:50 | 2022-07-28 | 2022-08-04 |
 | [Faster](https://open.spotify.com/track/1dH43IEzvkRIFu6HdXWCha) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Faster](https://open.spotify.com/album/2xLtP4n8AWzm96AUAK6R8V) | 2:09 | 2022-08-05 |  |
@@ -521,7 +522,7 @@
 | [Zack & Cody \(feat\. DDG\)](https://open.spotify.com/track/6xm7FolChiHPQdrA5VGUiq) | [2KBABY](https://open.spotify.com/artist/4mkjpWbFO45SyaHiM9GOVE), [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm) | [Zack & Cody \(feat\. DDG\)](https://open.spotify.com/album/23Z6KHviuyxc46Rm7pk9kn) | 2:25 | 2022-03-25 | 2022-04-21 |
 | [Zaza Tree](https://open.spotify.com/track/6mNOqBMluf9aEXgNg1O831) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [Simple.](https://open.spotify.com/album/2BeEXKn0ecWhwxOftmUZhy) | 2:16 | 2022-05-06 | 2022-05-14 |
 | [Zero Love \(ft\. Moneybagg Yo\)](https://open.spotify.com/track/3GAF9c6qEwK0xE7CwjRUvU) | [Belly](https://open.spotify.com/artist/0FOWNUFHPnMy0vOw1siGqi), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Zero Love \(ft\. Moneybagg Yo\)](https://open.spotify.com/album/5MeC1FT4v6FaNWO9twyIDo) | 2:32 | 2022-03-18 | 2022-04-21 |
-| [Zipcodes](https://open.spotify.com/track/7klycPYjcy8FSQcIZTAVNy) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [Zipcodes](https://open.spotify.com/album/49OiilOMo4qUuaIpNhc00S) | 4:27 | 2022-07-15 |  |
+| [Zipcodes](https://open.spotify.com/track/7klycPYjcy8FSQcIZTAVNy) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [Zipcodes](https://open.spotify.com/album/49OiilOMo4qUuaIpNhc00S) | 4:27 | 2022-07-15 | 2022-09-09 |
 | [Ziplock](https://open.spotify.com/track/2RmENPt0yPmU09BKjKC26M) | [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x) | [Ziplock / Rich Don't Stop](https://open.spotify.com/album/6b8FK7hZBmoR4GaaeFIqCk) | 3:18 | 2021-09-03 | 2022-07-07 |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

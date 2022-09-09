@@ -4,7 +4,7 @@
 
 > Headbangers of Bangladesh\. Cover \- Meghdol
 
-94 songs - 7 hr 25 min - [published](https://open.spotify.com/playlist/5E1dMl5K80HmX4b03WyB3C)
+95 songs - 7 hr 30 min - [published](https://open.spotify.com/playlist/5E1dMl5K80HmX4b03WyB3C)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,8 +21,9 @@
 | [Babylon](https://open.spotify.com/track/5bo2zyA4ty7fuXSQiDV11R) | [Chondropith](https://open.spotify.com/artist/25E9e3odwVN7nGzUuMRKW9) | [Babylon](https://open.spotify.com/album/6XQ47J5lY2VA4Gevkp0AOQ) | 6:49 | 2022-06-16 |  |
 | [Bachao](https://open.spotify.com/track/0ma2ngaL9dwqlNUKEe84FN) | [Munhamanna.](https://open.spotify.com/artist/48vUe0vzNlHzJz6dfdqtqX), [Rasha](https://open.spotify.com/artist/6grYfB8l8WZo0NOtdcWWls), [Samiul Haque](https://open.spotify.com/artist/7tstbXKlLF8TKs23HYyAhL) | [Bachao](https://open.spotify.com/album/44HcKaBI2tWqsSEmIK9WLJ) | 4:46 | 2022-06-16 |  |
 | [Better Call Salt & The Walking Bread](https://open.spotify.com/track/0S88D4HoXcUhx0KU8OOXDv) | [Bassbaba Sumon](https://open.spotify.com/artist/0dWXQH3oFfiWhCLcXCwKh0), [Felix Pastorius](https://open.spotify.com/artist/0pVMIumaNFtp1mCC7yJ8XM) | [Soul Food, Pt\. 1](https://open.spotify.com/album/0IiyxBvkuwv2xHaYZ4S0zD) | 4:46 | 2022-06-16 |  |
+| [Bhober Pagol](https://open.spotify.com/track/4El1blqsazEurG6gpvyUtF) | [Nigar Sumi](https://open.spotify.com/artist/5v4ceNWjpPcck7V5tPbOn1), [Jalali Set](https://open.spotify.com/artist/1DUbMaHb0Qi0LutuodIxnN) | [Bhober Pagol](https://open.spotify.com/album/7k16lPrTnyK6Vj5I1lZghn) | 5:16 | 2022-08-29 |  |
 | [Bhober Pagol](https://open.spotify.com/track/3IlpJeoqcBW3MU9lL2qf0L) | [Nigar Sumi](https://open.spotify.com/artist/5v4ceNWjpPcck7V5tPbOn1), [Jalali Set](https://open.spotify.com/artist/1DUbMaHb0Qi0LutuodIxnN) | [Bhober Pagol](https://open.spotify.com/album/3rwS1ScolLwpU7uuFDLb3t) | 5:22 | 2022-06-16 | 2022-08-19 |
-| [Bhober Pagol](https://open.spotify.com/track/7HUzW6Xv5cSWGbikS5MiAG) | [Nigar Sumi](https://open.spotify.com/artist/5v4ceNWjpPcck7V5tPbOn1), [Jalali Set](https://open.spotify.com/artist/1DUbMaHb0Qi0LutuodIxnN) | [Bhober Pagol](https://open.spotify.com/album/7wh9uFC8EvU6PuyYD4Webb) | 5:25 | 2022-07-29 |  |
+| [Bhober Pagol](https://open.spotify.com/track/7HUzW6Xv5cSWGbikS5MiAG) | [Nigar Sumi](https://open.spotify.com/artist/5v4ceNWjpPcck7V5tPbOn1), [Jalali Set](https://open.spotify.com/artist/1DUbMaHb0Qi0LutuodIxnN) | [Bhober Pagol](https://open.spotify.com/album/7wh9uFC8EvU6PuyYD4Webb) | 5:25 | 2022-07-29 | 2022-09-09 |
 | [Bhoboghure 2022](https://open.spotify.com/track/61g0LfYhsMLvrz6DXlLIek) | [Cryptic Fate](https://open.spotify.com/artist/7tJID3D9UVKLpJSleVaM0b) | [Bhoboghure 2022](https://open.spotify.com/album/0u8JsU2k3GaMyJwsFQHUds) | 4:38 | 2022-07-15 |  |
 | [Bhondo](https://open.spotify.com/track/07qgJazJQyknsbmuJZDL6N) | [Oblique](https://open.spotify.com/artist/4UZiqcfIggY32IYR1j13fz) | [Aloron](https://open.spotify.com/album/3B7o0RIBaO8xsXFuEGOUzr) | 4:40 | 2022-06-16 |  |
 | [Bhrom](https://open.spotify.com/track/20tqANKua7Erq6u3yfT8tj) | [Karnival](https://open.spotify.com/artist/6xArchxfpOsC8rvclgSeAl) | [Mohomukti](https://open.spotify.com/album/2QjYtadVjnPoQkZVLqkzqv) | 5:34 | 2022-06-16 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo del popet\u00f3n y reggaet\u00f3n emergente en MX. Foto: Big Soto, Be\u00e9le",
-  "num_followers": 55143,
+  "num_followers": 55156,
   "original_name": "Urbano Fresh",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQ4NjUyMCwwMDAwMDAwMGRiM2FjY2Y1YzkxMzAxMDdjMmQxNjgzMTQyMGNkNGUw",
+  "snapshot_id": "MTY2MTQ4NjUyMCwwMDAwMDAwMDk0ZDY2ZTE0NzI2NGM1NjI5NzhjODA0MGJkMmZhMjRk",
   "tracks": [
     {
       "added_at": "2022-08-26 04:02:00",
@@ -195,22 +195,6 @@
     {
       "added_at": "2022-08-26 04:02:00",
       "album": {
-        "name": "Maviri",
-        "url": "https://open.spotify.com/album/5w3ksWCecm2QnMYDsOKeJd"
-      },
-      "artists": [
-        {
-          "name": "Mont",
-          "url": "https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0"
-        }
-      ],
-      "duration_ms": 135797,
-      "name": "Maviri",
-      "url": "https://open.spotify.com/track/2KbDqOveWc2vInJ4QiSeuX"
-    },
-    {
-      "added_at": "2022-08-26 04:02:00",
-      "album": {
         "name": "INESTABLE",
         "url": "https://open.spotify.com/album/2m45lXuEtPji0HTrS3Vdw3"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 148000,
       "name": "INESTABLE",
       "url": "https://open.spotify.com/track/4Uxd6PAp9jeau7FfA22RIc"
+    },
+    {
+      "added_at": "2022-08-26 04:02:00",
+      "album": {
+        "name": "Maviri",
+        "url": "https://open.spotify.com/album/5w3ksWCecm2QnMYDsOKeJd"
+      },
+      "artists": [
+        {
+          "name": "Mont",
+          "url": "https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0"
+        }
+      ],
+      "duration_ms": 135797,
+      "name": "Maviri",
+      "url": "https://open.spotify.com/track/2KbDqOveWc2vInJ4QiSeuX"
     },
     {
       "added_at": "2022-08-26 04:02:00",
@@ -431,22 +431,30 @@
     {
       "added_at": "2022-08-26 04:02:00",
       "album": {
-        "name": "ICE BLUE",
-        "url": "https://open.spotify.com/album/5hRm8Iis9HGj6vLDhWNoOU"
+        "name": "Me Doli\u00f3",
+        "url": "https://open.spotify.com/album/6bXPqEZYKWCRzZrq5a44Z2"
       },
       "artists": [
         {
-          "name": "Opium G",
-          "url": "https://open.spotify.com/artist/5hWRNIwMHTJ09SjdOVoEwl"
+          "name": "Alan Jacques",
+          "url": "https://open.spotify.com/artist/1fcB4CTiWJ7MSN1oJHQbBE"
         },
         {
-          "name": "Birat Bitz",
-          "url": "https://open.spotify.com/artist/3EXtIEvqDsuQiHxHKJoi2b"
+          "name": "Kenia OS",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        },
+        {
+          "name": "Kid Gallo",
+          "url": "https://open.spotify.com/artist/1dpQRfqTZe2OmBhR01lD0c"
+        },
+        {
+          "name": "Amador",
+          "url": "https://open.spotify.com/artist/6qZVFsb2jVenTxZ3NBGnNv"
         }
       ],
-      "duration_ms": 174000,
-      "name": "GYAL",
-      "url": "https://open.spotify.com/track/2IivNFGyEu6MSNaiLVYMcJ"
+      "duration_ms": 163608,
+      "name": "Me Doli\u00f3",
+      "url": "https://open.spotify.com/track/6GohKuqUmoVmuZJ148PEjN"
     },
     {
       "added_at": "2022-08-26 04:02:00",
@@ -491,30 +499,22 @@
     {
       "added_at": "2022-08-26 04:02:00",
       "album": {
-        "name": "Me Doli\u00f3",
-        "url": "https://open.spotify.com/album/6bXPqEZYKWCRzZrq5a44Z2"
+        "name": "ICE BLUE",
+        "url": "https://open.spotify.com/album/5hRm8Iis9HGj6vLDhWNoOU"
       },
       "artists": [
         {
-          "name": "Alan Jacques",
-          "url": "https://open.spotify.com/artist/1fcB4CTiWJ7MSN1oJHQbBE"
+          "name": "Opium G",
+          "url": "https://open.spotify.com/artist/5hWRNIwMHTJ09SjdOVoEwl"
         },
         {
-          "name": "Kenia OS",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        },
-        {
-          "name": "Kid Gallo",
-          "url": "https://open.spotify.com/artist/1dpQRfqTZe2OmBhR01lD0c"
-        },
-        {
-          "name": "Amador",
-          "url": "https://open.spotify.com/artist/6qZVFsb2jVenTxZ3NBGnNv"
+          "name": "Birat Bitz",
+          "url": "https://open.spotify.com/artist/3EXtIEvqDsuQiHxHKJoi2b"
         }
       ],
-      "duration_ms": 163608,
-      "name": "Me Doli\u00f3",
-      "url": "https://open.spotify.com/track/6GohKuqUmoVmuZJ148PEjN"
+      "duration_ms": 174000,
+      "name": "GYAL",
+      "url": "https://open.spotify.com/track/2IivNFGyEu6MSNaiLVYMcJ"
     },
     {
       "added_at": "2022-08-26 04:02:00",
@@ -815,22 +815,6 @@
     {
       "added_at": "2022-08-26 04:02:00",
       "album": {
-        "name": "Shot de Tequila",
-        "url": "https://open.spotify.com/album/6CESDKI9wJgftoDyGzRXEc"
-      },
-      "artists": [
-        {
-          "name": "Brianda",
-          "url": "https://open.spotify.com/artist/61LNM8cDiz5ozA8BbUi7Hf"
-        }
-      ],
-      "duration_ms": 211809,
-      "name": "Shot de Tequila",
-      "url": "https://open.spotify.com/track/0zTgXlqnEh9ivzze8OHumA"
-    },
-    {
-      "added_at": "2022-08-26 04:02:00",
-      "album": {
         "name": "LUZ APAG\u00c1",
         "url": "https://open.spotify.com/album/7oKIMAZs7VrRMAKnjKSQZ0"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 177446,
       "name": "LUZ APAG\u00c1",
       "url": "https://open.spotify.com/track/0KpGFdhdydyHOVrkOqifFr"
+    },
+    {
+      "added_at": "2022-08-26 04:02:00",
+      "album": {
+        "name": "Shot de Tequila",
+        "url": "https://open.spotify.com/album/6CESDKI9wJgftoDyGzRXEc"
+      },
+      "artists": [
+        {
+          "name": "Brianda",
+          "url": "https://open.spotify.com/artist/61LNM8cDiz5ozA8BbUi7Hf"
+        }
+      ],
+      "duration_ms": 211809,
+      "name": "Shot de Tequila",
+      "url": "https://open.spotify.com/track/0zTgXlqnEh9ivzze8OHumA"
     },
     {
       "added_at": "2022-08-26 04:02:00",
@@ -907,6 +907,30 @@
     {
       "added_at": "2022-08-26 04:02:00",
       "album": {
+        "name": "DEJA VU",
+        "url": "https://open.spotify.com/album/2C6zo81kZcH4cyp8YUMLJe"
+      },
+      "artists": [
+        {
+          "name": "Fano",
+          "url": "https://open.spotify.com/artist/3aRfIDlreP9D5POnhqIJI1"
+        },
+        {
+          "name": "Callejo",
+          "url": "https://open.spotify.com/artist/3uYSSIZzcfieOd4qFmB551"
+        },
+        {
+          "name": "DAAZ",
+          "url": "https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C"
+        }
+      ],
+      "duration_ms": 171690,
+      "name": "DEJA VU",
+      "url": "https://open.spotify.com/track/2w2M7YfBSDqcigZFmMpoLL"
+    },
+    {
+      "added_at": "2022-08-26 04:02:00",
+      "album": {
         "name": "Loco Demente",
         "url": "https://open.spotify.com/album/7DCjPNw8hZOV4kEURpaYJv"
       },
@@ -935,30 +959,6 @@
       "duration_ms": 180000,
       "name": "Tu Foto",
       "url": "https://open.spotify.com/track/2QUf55I8VHFfi5jOnRf1Mf"
-    },
-    {
-      "added_at": "2022-08-26 04:02:00",
-      "album": {
-        "name": "DEJA VU",
-        "url": "https://open.spotify.com/album/2C6zo81kZcH4cyp8YUMLJe"
-      },
-      "artists": [
-        {
-          "name": "Fano",
-          "url": "https://open.spotify.com/artist/3aRfIDlreP9D5POnhqIJI1"
-        },
-        {
-          "name": "Callejo",
-          "url": "https://open.spotify.com/artist/3uYSSIZzcfieOd4qFmB551"
-        },
-        {
-          "name": "DAAZ",
-          "url": "https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C"
-        }
-      ],
-      "duration_ms": 171690,
-      "name": "DEJA VU",
-      "url": "https://open.spotify.com/track/2w2M7YfBSDqcigZFmMpoLL"
     },
     {
       "added_at": "2022-08-26 04:02:00",

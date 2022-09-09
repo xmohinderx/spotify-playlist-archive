@@ -1,12 +1,12 @@
 {
   "description": "Music from \u201cBanG Dream! \u201c series! \u6b21\u4e16\u4ee3\u30ac\u30fc\u30eb\u30ba\u30d0\u30f3\u30c9\u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u300eBanG Dream!\uff08\u30d0\u30f3\u30c9\u30ea\uff01\uff09\u300f\u516c\u5f0f\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002",
-  "num_followers": 44659,
+  "num_followers": 44773,
   "original_name": "BanG Dream! \u30d0\u30f3\u30c9\u30ea\uff01\u30ac\u30fc\u30eb\u30ba\u30d0\u30f3\u30c9\u30d1\u30fc\u30c6\u30a3\uff01",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTg3NTc2OCwwMDAwMDAwMGI4ZjMwMDhjYTVjNDczYmZhNWQ1YmU1YTgyMTJlYjky",
+  "snapshot_id": "MTY2MTg3NTc2OCwwMDAwMDAwMGI1MDRkZTlkMDYwNjYyN2U4Y2ViYWY5YTMxY2NjYWU1",
   "tracks": [
     {
       "added_at": "2022-08-30 16:09:28",
@@ -411,6 +411,22 @@
     {
       "added_at": "2022-08-30 16:09:28",
       "album": {
+        "name": "fly with the night",
+        "url": "https://open.spotify.com/album/1PvPrmGPkkpjROBsHbFqBU"
+      },
+      "artists": [
+        {
+          "name": "Morfonica",
+          "url": "https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ"
+        }
+      ],
+      "duration_ms": 240666,
+      "name": "fly with the night",
+      "url": "https://open.spotify.com/track/4KvQX4py0s4DQJeeOBlRoB"
+    },
+    {
+      "added_at": "2022-08-30 16:09:28",
+      "album": {
         "name": "BanG Dream! Dreamer's Best",
         "url": "https://open.spotify.com/album/2zO2Ptv0rub8ZkxYiJt71d"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 262900,
       "name": "CATASTROPHE BANQUET",
       "url": "https://open.spotify.com/track/5LPzzl5G24SqCP0Wzjzf5y"
-    },
-    {
-      "added_at": "2022-08-30 16:09:28",
-      "album": {
-        "name": "\u30d0\u30f3\u30c9\u30ea! \u30ac\u30fc\u30eb\u30ba\u30d0\u30f3\u30c9\u30d1\u30fc\u30c6\u30a3! \u30ab\u30d0\u30b3\u30ec Special Selection2",
-        "url": "https://open.spotify.com/album/5ph0IVhPZd70PoRnuwbkkc"
-      },
-      "artists": [
-        {
-          "name": "Morfonica",
-          "url": "https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ"
-        }
-      ],
-      "duration_ms": 250833,
-      "name": "chAngE",
-      "url": "https://open.spotify.com/track/2as6oi3XXxxFj1p9TYGl4L"
     },
     {
       "added_at": "2022-08-30 16:09:28",
@@ -587,8 +587,8 @@
     {
       "added_at": "2022-08-30 16:09:28",
       "album": {
-        "name": "fly with the night",
-        "url": "https://open.spotify.com/album/1PvPrmGPkkpjROBsHbFqBU"
+        "name": "\u30d0\u30f3\u30c9\u30ea! \u30ac\u30fc\u30eb\u30ba\u30d0\u30f3\u30c9\u30d1\u30fc\u30c6\u30a3! \u30ab\u30d0\u30b3\u30ec Special Selection2",
+        "url": "https://open.spotify.com/album/5ph0IVhPZd70PoRnuwbkkc"
       },
       "artists": [
         {
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ"
         }
       ],
-      "duration_ms": 240666,
-      "name": "fly with the night",
-      "url": "https://open.spotify.com/track/4KvQX4py0s4DQJeeOBlRoB"
+      "duration_ms": 250833,
+      "name": "chAngE",
+      "url": "https://open.spotify.com/track/2as6oi3XXxxFj1p9TYGl4L"
     },
     {
       "added_at": "2022-08-30 16:09:28",

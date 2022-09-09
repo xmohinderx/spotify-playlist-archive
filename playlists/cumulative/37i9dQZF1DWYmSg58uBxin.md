@@ -4,7 +4,7 @@
 
 > Soothing piano and strings to help you concentrate.
 
-175 songs - 8 hr 19 min - [published](https://open.spotify.com/playlist/4no306NeRC0dER7OtnYIDZ)
+176 songs - 8 hr 22 min - [published](https://open.spotify.com/playlist/4no306NeRC0dER7OtnYIDZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [It Won't Be Like This for Long](https://open.spotify.com/track/1CSs4RlMxSeMNYFdd0b12t) | [A\. Hunt](https://open.spotify.com/artist/7sxu41SWrNz2ndyXMXMvNi) | [It Won't Be Like This for Long](https://open.spotify.com/album/2H9ZbgUjVz6QIMgT3TC8kO) | 1:36 | 2022-07-01 |  |
 | [Itinere](https://open.spotify.com/track/3SJyrNsIX3mkiyFKekNAty) | [Rickard Nilsson](https://open.spotify.com/artist/6qa2LFLjGOvQPRxs8LZuZX), [Helmut Schenker](https://open.spotify.com/artist/6wf5DKFK08Qx5d11LNhesK) | [Itinere](https://open.spotify.com/album/47GVftysLfyzIMrF3D95Gw) | 2:08 | 2022-05-27 |  |
 | [Jupiter](https://open.spotify.com/track/0X4MfCEzXp28yrhUKpOadD) | [Stratospheric](https://open.spotify.com/artist/2cuKHP8TmCTf4KovZNg1Ut) | [Jupiter](https://open.spotify.com/album/4MOIk31rXkeM3VYy6Dt72L) | 2:02 | 2020-10-20\* |  |
+| [Largo from Xerxes](https://open.spotify.com/track/3dSA0ZoHzvXxvticgIz5MJ) | [George Frideric Handel](https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2), [Artwinder Modern Quartet](https://open.spotify.com/artist/2ipPNWfa4u0WTh99vGxpQ6) | [Quartet Classics Series: Largo from Xerxes](https://open.spotify.com/album/3REN8n3aARNwmHx9YcGjvQ) | 3:06 | 2022-09-09 |  |
 | [Laugarvatn](https://open.spotify.com/track/6sbdQPeO6pCjLGn0qYPliB) | [Elvar Arngrimsson](https://open.spotify.com/artist/5DChGYPOwgULNzFMzw0TIb) | [Laugarvatn](https://open.spotify.com/album/4PXbi2zhHkm9KkG9hTAZsp) | 3:05 | 2021-09-18 |  |
 | [Law of Attraction \(solo version\)](https://open.spotify.com/track/6cmTVnOrji6WyAkFbnFLQK) | [Milo Edale](https://open.spotify.com/artist/6ht27sA8oqmvcG4a2gcCsk) | [Various Solo Versions](https://open.spotify.com/album/4QLNgqKLeHjtGujmRWlgdG) | 3:35 | 2020-10-20\* |  |
 | [Les glaçons qui pendent du toit](https://open.spotify.com/track/3d5DvDVcTHVNVawSpIRaAe) | [Prewitt Massé](https://open.spotify.com/artist/4A2bJABmFzaDnZwBris4yj) | [Les glaçons qui pendent du toit](https://open.spotify.com/album/2nJRovvCNdu90cXOHcU1CK) | 1:44 | 2020-10-20\* |  |

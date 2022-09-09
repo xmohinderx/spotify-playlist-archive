@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MUQrfTBXMY.md) - [plain]
 
 > Headbangers of Bangladesh\. Cover \- Meghdol
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,798 likes - 80 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,857 likes - 80 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MUQrfTBXMY.md) - [plain]
 | 11 | [Punorjonmo](https://open.spotify.com/track/25Hmu4UVzgiiv298sHjERP) | [Chondropith](https://open.spotify.com/artist/25E9e3odwVN7nGzUuMRKW9) | [Punorjonmo](https://open.spotify.com/album/0mIPFSHREKf2yXhgXPrImn) | 7:53 |
 | 12 | [Moho](https://open.spotify.com/track/6Y2lrjXwW8YcCU5H4xMFBs) | [Aftermath](https://open.spotify.com/artist/79iOqoOkavfzftyQjx21qp) | [Moho](https://open.spotify.com/album/39HxuHhewQJHpv2EOSYA8K) | 4:25 |
 | 13 | [Mayabee](https://open.spotify.com/track/0sNM2ixLSvQyt1UvIyzej5) | [Blue Touch](https://open.spotify.com/artist/0aL6Av2TQ6oCEi6ctrectc) | [Mayabee](https://open.spotify.com/album/5jK5GGn8Z76n8PZRTclzoH) | 4:02 |
-| 14 | [Bhober Pagol](https://open.spotify.com/track/7HUzW6Xv5cSWGbikS5MiAG) | [Nigar Sumi](https://open.spotify.com/artist/5v4ceNWjpPcck7V5tPbOn1), [Jalali Set](https://open.spotify.com/artist/1DUbMaHb0Qi0LutuodIxnN) | [Bhober Pagol](https://open.spotify.com/album/7wh9uFC8EvU6PuyYD4Webb) | 5:25 |
+| 14 | [Bhober Pagol](https://open.spotify.com/track/4El1blqsazEurG6gpvyUtF) | [Nigar Sumi](https://open.spotify.com/artist/5v4ceNWjpPcck7V5tPbOn1), [Jalali Set](https://open.spotify.com/artist/1DUbMaHb0Qi0LutuodIxnN) | [Bhober Pagol](https://open.spotify.com/album/7k16lPrTnyK6Vj5I1lZghn) | 5:16 |
 | 15 | [Ki Kore Bhulecho](https://open.spotify.com/track/60zmqnMo2hbsg9KMslHChB) | [Hridoy Khan](https://open.spotify.com/artist/4L8j8SN9LKAcKYq8oy4f5j) | [Ki Kore Bhulecho](https://open.spotify.com/album/0uGQ03b444OyPeMweM5Xks) | 3:55 |
 | 16 | [Biyogantok](https://open.spotify.com/track/7e4tE0wyLzVuzUPbUMCqR6) | [Tahsan](https://open.spotify.com/artist/69Tu9c0t0IOf0ipXnE74sQ) | [Biyogantok](https://open.spotify.com/album/4Zyvcf7CpmYATwEhAXGo3h) | 5:31 |
 | 17 | [Pabona Tomay](https://open.spotify.com/track/3gLaGj5WlACwyjsFxjFDyL) | [Abir Mannan](https://open.spotify.com/artist/75tnGqluDnpfDILALcANFf) | [Pabona Tomay](https://open.spotify.com/album/4wIinxsyNNAWjXz1wMUilZ) | 6:20 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MUQrfTBXMY.md) - [plain]
 | 79 | [Otithi Pakhi \- 2021 Remastered version](https://open.spotify.com/track/7cXofuwNTxOcIx89cYw4tD) | [Prince Sohan](https://open.spotify.com/artist/6zCxXv0GO8LaRSNLOSr0i0) | [Otithi Pakhi \(2021 Remastered Version\)](https://open.spotify.com/album/02JtyTUKhl9CJS1QbXS2kt) | 1:25 |
 | 80 | [Shomorpon](https://open.spotify.com/track/3Rzqc31gdXt3CnlMSuDoXj) | [Owned](https://open.spotify.com/artist/2khsQvqlAuVDTR4f6vFVrU) | [Eighteen](https://open.spotify.com/album/0Dx2OWUZzYn8QXF1rCtjhT) | 4:21 |
 
-Snapshot ID: `MTY2MTc2NzY5MCwwMDAwMDAwMGY5ODdkMGMwMmZkMjEzZjQxNDY3NTZjZjYwMTNmZTk2`
+Snapshot ID: `MTY2MTc2NzY5MCwwMDAwMDAwMDhjOWY3NjY1ODYxMjg2MDU5YjEzZWRjMDAwZjkyZDNk`

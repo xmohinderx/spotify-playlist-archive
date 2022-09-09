@@ -4,7 +4,7 @@
 
 > The hottest alternative music from Nairobi to Dar!
 
-125 songs - 6 hr 37 min - [published](https://open.spotify.com/playlist/7E600XZpcoQhs1c0y9uDr3)
+126 songs - 6 hr 40 min - [published](https://open.spotify.com/playlist/7E600XZpcoQhs1c0y9uDr3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [For Hawi](https://open.spotify.com/track/0sa9IqP77NArCvVe1MkdBp) | [Michelle Gatuiku](https://open.spotify.com/artist/04KS7CODE7DDZ3VvgRrbiT) | [Sky Up Above](https://open.spotify.com/album/4BguiMoE15dCHo5mG2tMv0) | 6:34 | 2021-10-15 | 2022-08-26 |
 | [Funk To Black](https://open.spotify.com/track/1vbXnEiGmrEVeC86HnUul3) | [Nu Fvnk](https://open.spotify.com/artist/30XGohmPXRz344ZBt74x2R) | [FUNK TO BLACK](https://open.spotify.com/album/4lSpuoQtBMFGXdmCXkqyki) | 2:23 | 2022-04-25 | 2022-06-18 |
 | [Genuine](https://open.spotify.com/track/5pM1WfOZrSWWhap2LbUeIq) | [Ekumbo](https://open.spotify.com/artist/1a40Z4TMkLys2UVlxDXPT7), [Swahili Papi](https://open.spotify.com/artist/66HNxzGcmvdYQD36Pcg0Di), [B.Hobs](https://open.spotify.com/artist/6j4XLopWlHMQqAR92RvI53) | [Genuine](https://open.spotify.com/album/2hDhraboxuNWVKTbg1sf0x) | 2:56 | 2022-01-27 |  |
-| [Going Down](https://open.spotify.com/track/4syW5B9Y9cLyKIBrBxWZrb) | [Nu Fvnk](https://open.spotify.com/artist/30XGohmPXRz344ZBt74x2R) | [It's Kinda Fun Outside](https://open.spotify.com/album/0DRFoYbyCxS0cnA8kSMtd3) | 2:10 | 2022-02-24 |  |
+| [Going Down](https://open.spotify.com/track/4syW5B9Y9cLyKIBrBxWZrb) | [Nu Fvnk](https://open.spotify.com/artist/30XGohmPXRz344ZBt74x2R) | [It's Kinda Fun Outside](https://open.spotify.com/album/0DRFoYbyCxS0cnA8kSMtd3) | 2:10 | 2022-02-24 | 2022-09-09 |
 | [Good Time](https://open.spotify.com/track/2KPLkdqRCFGEUTjrgsZZ9T) | [Flier](https://open.spotify.com/artist/4GG9mTTEeOa6zUYwO3YmgU) | [Good Time](https://open.spotify.com/album/7KnMVXkbi86J86daq153mC) | 3:00 | 2021-10-15 | 2022-07-30 |
 | [Habits](https://open.spotify.com/track/7FJ2UfG6sd99PbZyJ9hZEf) | [mau from nowhere](https://open.spotify.com/artist/7MZ8Hh17R6vfPDn9UCkvuf), [TAHIR](https://open.spotify.com/artist/4tF3ubs3W47YHhwfBcbrvZ) | [MFN](https://open.spotify.com/album/1UbW090je8UnxtjgGphoXy) | 3:45 | 2021-10-15 | 2022-03-18 |
 | [Haiku](https://open.spotify.com/track/6Zv1Ul00O9YQ4rRBUstGzc) | [RVMP](https://open.spotify.com/artist/5pg2tyNNF56DQvM2ByGKhv), [Wendy Kay](https://open.spotify.com/artist/4xRJ8mtHNzJYvlJbspGFO6) | [Haiku](https://open.spotify.com/album/47p6QDuMEWEXMkmGo59TgR) | 2:19 | 2021-10-15 | 2022-02-05 |
@@ -129,6 +129,7 @@
 | [Utamu](https://open.spotify.com/track/2EjQMKID7FnvokZw4jsrxL) | [Salma Munde](https://open.spotify.com/artist/7lCJm1afLs1UDUnk1GtriQ) | [Utamu](https://open.spotify.com/album/4e4CGnTY9p4BUKUaNMQO3F) | 3:29 | 2021-10-15 | 2022-06-03 |
 | [Walk Away](https://open.spotify.com/track/6AkZmquckBmYmMh3bg4yCq) | [Mucyo](https://open.spotify.com/artist/3s38cQ7PO3JUUWYL7jasmi) | [Next Phase](https://open.spotify.com/album/6MUDZLoEXVwgZbLW30zVsE) | 3:04 | 2021-11-04 | 2022-05-06 |
 | [Weche \- Radio Edit](https://open.spotify.com/track/5FF4NmjTT0lMF2JTg8sgcM) | [Punk Mbedzi](https://open.spotify.com/artist/2QtRhwmMeDArLkKSwBHSvi), [Euggy](https://open.spotify.com/artist/0YptteJXaFS7w41fz81gsn), [Akoth Jumadi](https://open.spotify.com/artist/1yzpHN73mIqHg8uP8KnyYo) | [Weche](https://open.spotify.com/album/2ThbInwMUB3c1W6DlSkt29) | 3:37 | 2021-10-15 | 2022-04-28 |
+| [What To Expect When Expecting](https://open.spotify.com/track/3O9GGQXx5mi1ekYoCJbgXk) | [Flier](https://open.spotify.com/artist/4GG9mTTEeOa6zUYwO3YmgU) | [What To Expect When Expecting](https://open.spotify.com/album/2VkmTYOfZ1zTHQBhfK1Rbf) | 2:48 | 2022-09-08 |  |
 | [WHO’S LOVING YOU?](https://open.spotify.com/track/0ODyFLoeeVJwWhZCAzLyf1) | [Hamzaa](https://open.spotify.com/artist/3TXjnAw0sg1VVdnR9fGdBs) | [Full Circle](https://open.spotify.com/album/4PhEHRqWfgTnTwDXAVq4SN) | 2:34 | 2021-11-11 |  |
 | [Yearning \(Holy Waters\)](https://open.spotify.com/track/0pIjPNbkjUrhpJ3VMlSIQE) | [Mucyo](https://open.spotify.com/artist/3s38cQ7PO3JUUWYL7jasmi) | [The Waters](https://open.spotify.com/album/6sddINYuCb3Rfm6XH1WIMD) | 3:58 | 2021-10-15 | 2022-05-06 |
 | [Yesu Bambi \- Acoustic](https://open.spotify.com/track/2DfjhHcH0ZPxP2l6WKcSFu) | [Jesse10s](https://open.spotify.com/artist/6oOIGUtyWVdPoJmgOE1bGH), [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL) | [Yesu Bambi \(Acoustic\)](https://open.spotify.com/album/1rvEvZJWpif6hAjpUHst8n) | 2:43 | 2021-10-29 | 2022-06-03 |

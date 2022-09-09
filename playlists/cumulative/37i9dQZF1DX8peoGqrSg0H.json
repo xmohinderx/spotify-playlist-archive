@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e44\u0e17\u0e22\u0e1b\u0e4a\u0e2d\u0e1b\u0e42\u0e14\u0e19\u0e43\u0e08 \u0e2d\u0e31\u0e1e\u0e40\u0e14\u0e15\u0e43\u0e2b\u0e49\u0e04\u0e38\u0e13\u0e1f\u0e31\u0e07\u0e17\u0e38\u0e01\u0e2a\u0e31\u0e1b\u0e14\u0e32\u0e2b\u0e4c. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: ALLY",
+  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e44\u0e17\u0e22\u0e1b\u0e4a\u0e2d\u0e1b\u0e42\u0e14\u0e19\u0e43\u0e08 \u0e2d\u0e31\u0e1e\u0e40\u0e14\u0e15\u0e43\u0e2b\u0e49\u0e04\u0e38\u0e13\u0e1f\u0e31\u0e07\u0e17\u0e38\u0e01\u0e2a\u0e31\u0e1b\u0e14\u0e32\u0e2b\u0e4c. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: PROXIE",
   "name": "T-Pop Now",
   "published_playlist_ids": [
     "46jC5TDLIJijd5c6Z3EIRR"
@@ -117,7 +117,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 213456,
       "name": "Based on whose story? (\u0e42\u0e1b\u0e23\u0e14\u0e43\u0e0a\u0e49\u0e27\u0e34\u0e08\u0e32\u0e23\u0e13\u0e0d\u0e32\u0e13)",
       "url": "https://open.spotify.com/track/1PSN6e5cQbumCzz74Imhhz"
@@ -135,7 +135,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 256484,
       "name": "Believers",
       "url": "https://open.spotify.com/track/4rBFjW1hkzp9ttWG34HUXJ"
@@ -232,6 +232,24 @@
     },
     {
       "album": {
+        "name": "Complicated",
+        "url": "https://open.spotify.com/album/1X4ePQhsh9fOOz3944bxuR"
+      },
+      "artists": [
+        {
+          "name": "Matcha",
+          "url": "https://open.spotify.com/artist/0GZbuy9UUeALxPTa5GpRrf"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181914,
+      "name": "Complicated",
+      "url": "https://open.spotify.com/track/127yslRWWqtCGIYlkb9es2"
+    },
+    {
+      "album": {
         "name": "Flame",
         "url": "https://open.spotify.com/album/1KQkObxhoz8QXlHotEp7PS"
       },
@@ -243,7 +261,7 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 237000,
       "name": "Flame",
       "url": "https://open.spotify.com/track/07yq4fcfWqPecc3z6kk3bb"
@@ -341,7 +359,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 289156,
       "name": "IRREPLACEABLE",
       "url": "https://open.spotify.com/track/5uTFZnPELTnuRrFDnLIjFJ"
@@ -777,7 +795,7 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 221379,
       "name": "\u0e02\u0e2d\u0e1a\u0e04\u0e38\u0e13\u0e17\u0e35\u0e48\u0e40\u0e04\u0e22\u0e43\u0e08\u0e23\u0e49\u0e32\u0e22\u0e01\u0e31\u0e1a\u0e09\u0e31\u0e19 (Thanks To You)",
       "url": "https://open.spotify.com/track/2mhcGG5JdEotXGF4kDTjGM"

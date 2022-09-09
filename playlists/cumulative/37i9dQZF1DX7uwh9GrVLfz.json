@@ -668,6 +668,24 @@
     },
     {
       "album": {
+        "name": "LEAD",
+        "url": "https://open.spotify.com/album/2lwLgrwp7ydwzFfwWd4fJ1"
+      },
+      "artists": [
+        {
+          "name": "ONIONRING",
+          "url": "https://open.spotify.com/artist/45b4d7M7mlDpXAYFK3JZ5w"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176090,
+      "name": "Brightness",
+      "url": "https://open.spotify.com/track/3gJiK0W7ACaKAtCesVwMvp"
+    },
+    {
+      "album": {
         "name": "The Visible One & The Invisible One",
         "url": "https://open.spotify.com/album/6tX37Pzb9Xa9Z7coSVxVN6"
       },
@@ -1843,6 +1861,24 @@
       "duration_ms": 191000,
       "name": "Hate",
       "url": "https://open.spotify.com/track/2z4GICCEgREmuhDxd8z2Mn"
+    },
+    {
+      "album": {
+        "name": "HATE",
+        "url": "https://open.spotify.com/album/2dP1zFAbDbCOCdGt2e8KEU"
+      },
+      "artists": [
+        {
+          "name": "\u30d0\u30c3\u30af\u30c9\u30ed\u30c3\u30d7\u30b7\u30f3\u30c7\u30ec\u30e9",
+          "url": "https://open.spotify.com/artist/4v0uOC5uuIzkyGqYEdwTLI"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190164,
+      "name": "HATE",
+      "url": "https://open.spotify.com/track/4oe6XEilgvCRpRr2WZfhcN"
     },
     {
       "album": {
@@ -4091,7 +4127,7 @@
       ],
       "date_added": "2022-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 275480,
       "name": "shiboufuragu wo tatenaide",
       "url": "https://open.spotify.com/track/6jDtEDmFInvxR4Ga7vff7X"
@@ -5608,6 +5644,28 @@
     },
     {
       "album": {
+        "name": "yasasiiusode",
+        "url": "https://open.spotify.com/album/6Ba3Xjg9ncOYtQgjJ2ClBU"
+      },
+      "artists": [
+        {
+          "name": "\u5ca1\u7530\u5eb7\u592a",
+          "url": "https://open.spotify.com/artist/2JDyuIyYuD6CIt0Dn3DiUX"
+        },
+        {
+          "name": "ROMANKAKUMEI",
+          "url": "https://open.spotify.com/artist/6jgUFsEBD3a3CW645IVQuN"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314390,
+      "name": "yasasiiusode",
+      "url": "https://open.spotify.com/track/5T2fAkQeKpn7TqUN5ghl2B"
+    },
+    {
+      "album": {
         "name": "YELLOW",
         "url": "https://open.spotify.com/album/3rU1y1VZundBvMRyLd2n47"
       },
@@ -7049,7 +7107,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 314390,
       "name": "\u512a\u3057\u3044\u30a6\u30bd\u3067",
       "url": "https://open.spotify.com/track/7yFaNhX7rmlzk5kXHlu86q"
@@ -7561,7 +7619,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 219893,
       "name": "\u661f\u7a7a\u306e\u4e0b\u3067",
       "url": "https://open.spotify.com/track/6xmui4uiCwkOSCe1MhAB6v"

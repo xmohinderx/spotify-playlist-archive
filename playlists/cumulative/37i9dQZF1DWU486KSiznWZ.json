@@ -832,6 +832,24 @@
     },
     {
       "album": {
+        "name": "Takhayel",
+        "url": "https://open.spotify.com/album/01lmkknyS1jSSXxsLelcNt"
+      },
+      "artists": [
+        {
+          "name": "Dalia",
+          "url": "https://open.spotify.com/artist/3UYi1C1wbSZq4OXbaTdMZD"
+        }
+      ],
+      "date_added": "2022-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199248,
+      "name": "Takhayel",
+      "url": "https://open.spotify.com/track/5kpt7M3vgU5nBFrECytdSv"
+    },
+    {
+      "album": {
         "name": "Ya Hala",
         "url": "https://open.spotify.com/album/1sHmK0R4eKbi56B3B0ejw8"
       },
@@ -897,7 +915,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 237343,
       "name": "\u0623\u062d\u062a\u0631\u064a\u0643",
       "url": "https://open.spotify.com/track/2yySRO48XMTdz3E38JDxtP"
@@ -1089,7 +1107,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 260953,
       "name": "\u0633\u0643\u0647 \u0645\u062c\u0647\u0648\u0644\u0647",
       "url": "https://open.spotify.com/track/5X5ubFhkET9omL8FDcpSku"
@@ -1263,7 +1281,7 @@
       ],
       "date_added": "2022-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 242940,
       "name": "\u064a\u0627 \u0627\u0628\u0646 \u062e\u0645\u0627\u0634",
       "url": "https://open.spotify.com/track/18O3X0PmVps7R1JGMeIfph"

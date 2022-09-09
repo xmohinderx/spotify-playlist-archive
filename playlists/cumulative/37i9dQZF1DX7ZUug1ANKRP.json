@@ -876,6 +876,28 @@
     },
     {
       "album": {
+        "name": "Died In Your Arms (Reloaded)",
+        "url": "https://open.spotify.com/album/3LPz0XaYhxXM3NoqwFQEko"
+      },
+      "artists": [
+        {
+          "name": "Harris & Ford",
+          "url": "https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt"
+        },
+        {
+          "name": "Sound Rush",
+          "url": "https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK"
+        }
+      ],
+      "date_added": "2022-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238455,
+      "name": "Died In Your Arms (Reloaded)",
+      "url": "https://open.spotify.com/track/4fc381V6V17JS7RqXH2E7M"
+    },
+    {
+      "album": {
         "name": "SLEEP",
         "url": "https://open.spotify.com/album/5mzCJJA5kAQRgHZIUIpR0t"
       },
@@ -953,7 +975,7 @@
       ],
       "date_added": "2022-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 152093,
       "name": "Do My Ting",
       "url": "https://open.spotify.com/track/51MiKV7xSIq5hsUcbbKeRU"
@@ -3045,7 +3067,7 @@
       ],
       "date_added": "2022-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 165857,
       "name": "Rooftop",
       "url": "https://open.spotify.com/track/21LTZZP3cRDzVFKmvDEtZt"
@@ -4137,6 +4159,32 @@
       "duration_ms": 173513,
       "name": "Wonderland",
       "url": "https://open.spotify.com/track/7fWglHkYHyOAkR1acPfIV7"
+    },
+    {
+      "album": {
+        "name": "World, Hold On (FISHER Rework)",
+        "url": "https://open.spotify.com/album/5a5yqCyb7xF3Hklvlwc3t3"
+      },
+      "artists": [
+        {
+          "name": "Bob Sinclar",
+          "url": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
+        },
+        {
+          "name": "Steve Edwards",
+          "url": "https://open.spotify.com/artist/2SwhNukah1MYpLR594PnuC"
+        },
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        }
+      ],
+      "date_added": "2022-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178304,
+      "name": "World, Hold On - FISHER Rework",
+      "url": "https://open.spotify.com/track/6quGF3Kvzd5WYEEuCmvCe1"
     },
     {
       "album": {

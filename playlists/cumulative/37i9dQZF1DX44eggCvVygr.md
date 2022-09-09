@@ -4,7 +4,7 @@
 
 > All the music from Netflix's La Casa de Papel/Money Heist.
 
-79 songs - 4 hr 42 min - [published](https://open.spotify.com/playlist/6k8Bo9IB5HrBOBHtxn9gtS)
+80 songs - 4 hr 45 min - [published](https://open.spotify.com/playlist/6k8Bo9IB5HrBOBHtxn9gtS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,8 @@
 | [Arrieros Somos](https://open.spotify.com/track/5tL00ynK5ogVNz66Np8yal) | [Chavela Vargas](https://open.spotify.com/artist/0WC6O2ZzUcDYvcmt2mGh8c) | [México, Vol\. II](https://open.spotify.com/album/1daoIj3pRxt6n5g9T4kCUU) | 3:19 | 2021-12-03 |  |
 | [Ave Maria, D.839 \- Arr\. Hazell](https://open.spotify.com/track/6dJnup5SONQ4YRV44eThsh) | [Franz Schubert](https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP), [Sheku Kanneh\-Mason](https://open.spotify.com/artist/6OTr0YwLwGdv7mlmX27hRX), [Members Of The BBC National Orchestra Of Wales](https://open.spotify.com/artist/7MsqdRX56j8HrqSEoLFtrs), [Members of the English Chamber Orchestra](https://open.spotify.com/artist/04zr23ENfpoJoyuoGUeFRK), [Members Of The Philharmonia Orchestra](https://open.spotify.com/artist/4w62fxz0Jcdpcv3pHmFZm8), [Christopher Warren\-Green](https://open.spotify.com/artist/6exISmHxzPKtfKOWwkVHwK) | [The Royal Wedding \- The Official Album](https://open.spotify.com/album/7ivHp5OyJc1kgb4YBugNuA) | 2:37 | 2021-08-26 |  |
 | [Bamboo Moon](https://open.spotify.com/track/7gpoXslo0qPx3VfBNGzNCy) | [The Mutants](https://open.spotify.com/artist/2oZHwy5acrhHeSAnTA4oxV) | [Tokyo Nights](https://open.spotify.com/album/2CrEZk7IkhlVAypPjnCLVi) | 3:08 | 2021-08-26 | 2022-07-29 |
-| [Bamboo Moon \(As Featured in "La Casa de Papel \[Money Heist\]"\)](https://open.spotify.com/track/53EMpxo2Vek9EnsXlgcIYG) | [The Mutants](https://open.spotify.com/artist/2oZHwy5acrhHeSAnTA4oxV), [THE LET'S GO's](https://open.spotify.com/artist/6taxB6tZsn4SxvlmPjfmXz), [Chris Constantinou](https://open.spotify.com/artist/4T6KYrXYvk5Bu1u0XLWmj3) | [Bamboo Moon \(As Featured in "La Casa de Papel \[Money Heist\]"\)](https://open.spotify.com/album/69dpMF0HjieDjZHKKfr0n4) | 3:08 | 2021-08-26 |  |
+| [Bamboo Moon](https://open.spotify.com/track/1Yr7ew77WJ6fCOHP34g6h9) | [The Mutants](https://open.spotify.com/artist/2oZHwy5acrhHeSAnTA4oxV), [Chris Constantinou](https://open.spotify.com/artist/4T6KYrXYvk5Bu1u0XLWmj3) | [Tokyo Nights](https://open.spotify.com/album/2vPThJkZW1E75mLySTAwA0) | 3:08 | 2021-08-26 |  |
+| [Bamboo Moon \(As Featured in "La Casa de Papel \[Money Heist\]"\)](https://open.spotify.com/track/53EMpxo2Vek9EnsXlgcIYG) | [The Mutants](https://open.spotify.com/artist/2oZHwy5acrhHeSAnTA4oxV), [THE LET'S GO's](https://open.spotify.com/artist/6taxB6tZsn4SxvlmPjfmXz), [Chris Constantinou](https://open.spotify.com/artist/4T6KYrXYvk5Bu1u0XLWmj3) | [Bamboo Moon \(As Featured in "La Casa de Papel \[Money Heist\]"\)](https://open.spotify.com/album/69dpMF0HjieDjZHKKfr0n4) | 3:08 | 2021-08-26 | 2022-09-09 |
 | [Be My Baby](https://open.spotify.com/track/2G2YzndIA6jeWFPBXhUjh5) | [The Ronettes](https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo) | [Be My Baby: The Very Best of The Ronettes](https://open.spotify.com/album/3vLFWR3fLqfY82WGvaLuyV) | 2:40 | 2021-08-26 |  |
 | [Bella Ciao](https://open.spotify.com/track/1bHhB1E62CqbM3uVZVvaEl) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Bella Ciao](https://open.spotify.com/album/4sgJ7Dlx5WMsl8RDkyM1Tu) | 2:40 | 2021-12-03 |  |
 | [Bella ciao](https://open.spotify.com/track/0Hssk7StCZSPBwTaghTJsR) | [Najwa](https://open.spotify.com/artist/7dp8dR96gWncIypef8kTnS) | [Bella ciao](https://open.spotify.com/album/5ddDj8XH2GBfgDjEZpVD0p) | 2:09 | 2021-08-26 |  |

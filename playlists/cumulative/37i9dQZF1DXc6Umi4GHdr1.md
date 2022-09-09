@@ -4,7 +4,7 @@
 
 > Free your mind and let your thoughts flow to the sounds of guitar.
 
-121 songs - 5 hr 57 min - [published](https://open.spotify.com/playlist/4HU2Rw6bNgsjgvEsWWL6e8)
+122 songs - 5 hr 58 min - [published](https://open.spotify.com/playlist/4HU2Rw6bNgsjgvEsWWL6e8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,5 +129,6 @@
 | [When Sarah Returned](https://open.spotify.com/track/2OJk9I2pmnYKB9zQzrodK6) | [Daniel Kaede](https://open.spotify.com/artist/6aup7uM4yUHX9NLba0sxmt) | [A Letter from the Caspian Sea](https://open.spotify.com/album/7mfyhobbOqeqqtf9JH3ssk) | 2:36 | 2021-12-10 |  |
 | [When She Was There](https://open.spotify.com/track/5rOfd0ZqNPDzFWEgROvIdz) | [Pastall](https://open.spotify.com/artist/4xWbSW8Fkjt8DVkJ5QDIvV) | [Back to Pompiko](https://open.spotify.com/album/5Iir2VRVIrPf09KEW7ONMH) | 3:20 | 2021-12-10 |  |
 | [When You Hold Me](https://open.spotify.com/track/4mDch7mKVDPFcF8TD5v6p6) | [Martín Lima](https://open.spotify.com/artist/5e3qpW081a7wvT7G2EIj51) | [Everythings Better With You](https://open.spotify.com/album/15PxMtybhysgz6fQRK6PRf) | 2:10 | 2022-03-03 |  |
+| [You](https://open.spotify.com/track/3zEaOi0tey7BFPnr2lPtzL) | [Celestial Conscience](https://open.spotify.com/artist/0UG5sCzTJoQXp7RvjoypkI) | [Snow](https://open.spotify.com/album/47LYgd993iWAisa3vGEPMu) | 1:13 | 2022-09-09 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

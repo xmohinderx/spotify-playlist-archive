@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "The biggest Armada tracks of the moment! | Updated weekly on Friday | Including Dance, Dance-Pop, Chill, House, Deep House, Melodic House &amp; Techno and other Club Music. With tracks from Armin van Buuren, Matoma, Loud Luxury, ARTY, Brando and many more! Cover: Morgan Page, HARBER, sid tipton",
+  "description": "The biggest Armada tracks of the moment! | Updated weekly on Friday | Including Dance, Dance-Pop, Chill, House, Deep House, Melodic House &amp; Techno and other Club Music. With tracks from Armin van Buuren, Matoma, Loud Luxury, ARTY, Brando and many more! Cover: Audien",
   "name": "Armada Today",
   "published_playlist_ids": [
     "2VKYZJ3lSyTEDXrKo18ci6"
@@ -672,6 +672,24 @@
     },
     {
       "album": {
+        "name": "Computers Take Over The World",
+        "url": "https://open.spotify.com/album/1uHkfMPB2lNXQFlFAy5YQh"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152250,
+      "name": "Computers Take Over The World",
+      "url": "https://open.spotify.com/track/2Fn66Mos1yElxdJBadXgpO"
+    },
+    {
+      "album": {
         "name": "Crazy Love",
         "url": "https://open.spotify.com/album/54xxcpCftTFPpVdjSt2VfW"
       },
@@ -831,6 +849,28 @@
     {
       "album": {
         "name": "Drifting Away",
+        "url": "https://open.spotify.com/album/3WgmH7tOlVlAmGtRRlQpl7"
+      },
+      "artists": [
+        {
+          "name": "Audien",
+          "url": "https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE"
+        },
+        {
+          "name": "Joe Jury",
+          "url": "https://open.spotify.com/artist/6CfdbVxJuo31StQ21ffOer"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198750,
+      "name": "Drifting Away",
+      "url": "https://open.spotify.com/track/6nbXYLeP21ksEQNFrHl2a2"
+    },
+    {
+      "album": {
+        "name": "Drifting Away",
         "url": "https://open.spotify.com/album/6W3JXulraRIqX3PKHE1zaN"
       },
       "artists": [
@@ -867,7 +907,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 206389,
       "name": "Drowning",
       "url": "https://open.spotify.com/track/14fUo8QBghk4M0mlroSAMN"
@@ -1472,6 +1512,28 @@
     },
     {
       "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/5ktG7pHxnHdBmnldXsrNpa"
+      },
+      "artists": [
+        {
+          "name": "D'Angello & Francis",
+          "url": "https://open.spotify.com/artist/63YpQAD9YjknZPfMVYqyIK"
+        },
+        {
+          "name": "Belle Humble",
+          "url": "https://open.spotify.com/artist/5Uh9Oco0Khv18UvTo2PucM"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187004,
+      "name": "Gold",
+      "url": "https://open.spotify.com/track/1AFZzulpCuxiJNqaUjmP1O"
+    },
+    {
+      "album": {
         "name": "Good Feeling",
         "url": "https://open.spotify.com/album/1t8zwTa01KvKH925GrKmNE"
       },
@@ -2033,7 +2095,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 188160,
       "name": "I'm Watching You (So Many Times) - Les Bisous Remix",
       "url": "https://open.spotify.com/track/1Ly41RuzzcHlVyjeuM8eAw"
@@ -2238,6 +2300,36 @@
     },
     {
       "album": {
+        "name": "Just Sayin' (Les Bisous Remix)",
+        "url": "https://open.spotify.com/album/04anhNki5epB9ihwbFDXuS"
+      },
+      "artists": [
+        {
+          "name": "MAKJ",
+          "url": "https://open.spotify.com/artist/3PtCud9dIdOv4exrzdZZ1C"
+        },
+        {
+          "name": "Madds",
+          "url": "https://open.spotify.com/artist/0Bdyam7rtOjqj4m1PfpeUy"
+        },
+        {
+          "name": "Mila Jam",
+          "url": "https://open.spotify.com/artist/6m7wJXzvVyE0j6eef6pj1a"
+        },
+        {
+          "name": "Les Bisous",
+          "url": "https://open.spotify.com/artist/0s2WMcDT7MPu0HnoxzX3OW"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203482,
+      "name": "Just Sayin' - Les Bisous Remix",
+      "url": "https://open.spotify.com/track/6flZ5DFOWsnJmFILTcGHhg"
+    },
+    {
+      "album": {
         "name": "Kitchen Party",
         "url": "https://open.spotify.com/album/78ME64M8qj3AtRF1QXUbP2"
       },
@@ -2403,7 +2495,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 210476,
       "name": "Let You Down",
       "url": "https://open.spotify.com/track/6SrwmS9G3gI3cGNUqv6QzV"
@@ -2775,7 +2867,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 189500,
       "name": "Maniac",
       "url": "https://open.spotify.com/track/4SLjFUVlRgVFXLwCV2k3vv"
@@ -3039,7 +3131,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 232258,
       "name": "Oeng Baka",
       "url": "https://open.spotify.com/track/5yh7b4DgDf02P7TwOdt2RU"
@@ -3327,7 +3419,7 @@
       ],
       "date_added": "2022-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 213069,
       "name": "Pia Pia",
       "url": "https://open.spotify.com/track/6DQ6LUgtfHYgtGl5doSYJt"
@@ -3455,6 +3547,24 @@
       "duration_ms": 148364,
       "name": "PYRO",
       "url": "https://open.spotify.com/track/3aDhgouoRk6awklXL4QBGQ"
+    },
+    {
+      "album": {
+        "name": "Rain",
+        "url": "https://open.spotify.com/album/2eFa6JXNbKQttAaVCdvH2X"
+      },
+      "artists": [
+        {
+          "name": "mOat",
+          "url": "https://open.spotify.com/artist/5cwcCt2XL9QIC0yZy33Fds"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205282,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/0NCzv7WMMk44OtI6yWh3Ky"
     },
     {
       "album": {
@@ -3640,6 +3750,24 @@
     },
     {
       "album": {
+        "name": "Same Way",
+        "url": "https://open.spotify.com/album/2bCWbCi4LNKvrnOiJGSDyT"
+      },
+      "artists": [
+        {
+          "name": "BRKLYN",
+          "url": "https://open.spotify.com/artist/0sSB3cIRBuBGa1UXLsQtaw"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135238,
+      "name": "Same Way",
+      "url": "https://open.spotify.com/track/0H6cAT3VYWN5ukgZnwGQQr"
+    },
+    {
+      "album": {
         "name": "Saturday Night (Feel The Groove)",
         "url": "https://open.spotify.com/album/1oSDNl2qNV8uy6kP47ohdu"
       },
@@ -3739,6 +3867,24 @@
       "duration_ms": 147839,
       "name": "See",
       "url": "https://open.spotify.com/track/6dNjwLlwBLJ8Y9QqAWoFy5"
+    },
+    {
+      "album": {
+        "name": "Set My Mind Free",
+        "url": "https://open.spotify.com/album/3ecx2vhbNcocjrQ0M74TnO"
+      },
+      "artists": [
+        {
+          "name": "Matt Guy",
+          "url": "https://open.spotify.com/artist/09eFtzPTf7Rbkb1z7n7S5B"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180461,
+      "name": "Set My Mind Free",
+      "url": "https://open.spotify.com/track/6YG9ny9p9PmMjIyJ0B1pVw"
     },
     {
       "album": {
@@ -4642,6 +4788,28 @@
     },
     {
       "album": {
+        "name": "Turn Around (Hey What's Wrong With You) [Les Bisous Remix]",
+        "url": "https://open.spotify.com/album/4dVjv3aXTYydV3xZvAyS2i"
+      },
+      "artists": [
+        {
+          "name": "Phats & Small",
+          "url": "https://open.spotify.com/artist/4WLGcWrkSExCqILxDk7ol6"
+        },
+        {
+          "name": "Les Bisous",
+          "url": "https://open.spotify.com/artist/0s2WMcDT7MPu0HnoxzX3OW"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171707,
+      "name": "Turn Around (Hey What's Wrong With You) - Les Bisous Remix",
+      "url": "https://open.spotify.com/track/2vtUH9XfiMNdqXm8tPmoh3"
+    },
+    {
+      "album": {
         "name": "Two Caps",
         "url": "https://open.spotify.com/album/2omx5AxUw6N0G94rgD9fKA"
       },
@@ -4799,7 +4967,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 147096,
       "name": "Way That I Move",
       "url": "https://open.spotify.com/track/67Uq5J1QfWl2Hre2yqeHol"
@@ -5121,7 +5289,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 159344,
       "name": "You Got Me Calling",
       "url": "https://open.spotify.com/track/0DE977kfUvSfnPtwl8P9t3"
@@ -5168,7 +5336,7 @@
     },
     {
       "album": {
-        "name": "Zombie (Herd Mix)",
+        "name": "Zombie (THEMBA's Herd Mix)",
         "url": "https://open.spotify.com/album/34e9IHbnCHXCzpOLmSrtUV"
       },
       "artists": [
@@ -5189,7 +5357,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 226259,
-      "name": "Zombie (Herd Mix)",
+      "name": "Zombie (THEMBA's Herd Mix)",
       "url": "https://open.spotify.com/track/5Svn68YqlIFxTwOnRXgw6E"
     }
   ],

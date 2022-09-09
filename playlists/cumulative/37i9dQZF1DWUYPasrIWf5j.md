@@ -4,7 +4,7 @@
 
 > Instrumental covers of favourites played on ukulele.
 
-86 songs - 5 hr 0 min - [published](https://open.spotify.com/playlist/1s1TQtiEzAtYVOJeSrtlYU)
+87 songs - 5 hr 4 min - [published](https://open.spotify.com/playlist/1s1TQtiEzAtYVOJeSrtlYU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Lights Down Low](https://open.spotify.com/track/2KCrTGdKGGDd6QIHlHeaCV) | [Michelle Turtle](https://open.spotify.com/artist/4VkmY9OKeXpPeW0RmgbfBi) | [Plays the Uke](https://open.spotify.com/album/0sDBEaJsaY5Ayw6gzgNWhn) | 3:36 | 2022-05-20 |  |
 | [Like I'm Gonna Lose You](https://open.spotify.com/track/2pfvefT7HdWaHZHVG1sYWT) | [Kelly Tindall](https://open.spotify.com/artist/4xD621j6OgUo2hQYeHAfZ6) | [All of Me](https://open.spotify.com/album/6HyyJzRp1wsqrTYUTB6mcW) | 3:48 | 2022-05-20 |  |
 | [Lose Somebody](https://open.spotify.com/track/01QSyY5c1mET5j9mNeqmnM) | [Gary Trunket](https://open.spotify.com/artist/0O5CYvPvY4crcuQPSmCPIJ) | [Lose Somebody](https://open.spotify.com/album/0JvfrbbduOvLgVRtvYgruz) | 3:19 | 2022-05-20 |  |
+| [Love Song](https://open.spotify.com/track/5OFd5vy1z9MlPkevJZszFI) | [Ren Anderson](https://open.spotify.com/artist/1GFIqy0jybt5CDJawIbHS8) | [Shape of You](https://open.spotify.com/album/5ddlKDkaTG9bHBK60YO4al) | 4:38 | 2022-09-08 |  |
 | [Lucky](https://open.spotify.com/track/0bWRj1HS4Z0f08LSAZYGsh) | [Brandi Singer](https://open.spotify.com/artist/6M21uZWGDjG8BDYuFBTxzo) | [Ukelele Girl](https://open.spotify.com/album/6dMsLBwMpTlwWsE1U3Sz7R) | 3:06 | 2022-05-20 |  |
 | [Mad World](https://open.spotify.com/track/5v1MIPWH2VDgi59IFkebqg) | [Daniel Williams\-Lee](https://open.spotify.com/artist/7yBewkClSLIB0euFQeETIb) | [Somebody That I Used to Know](https://open.spotify.com/album/12uMPptt5VtqkGBGszzkL4) | 2:47 | 2022-05-20 |  |
 | [No Scrubs](https://open.spotify.com/track/1uUYqoYiP5S9l6lggYtqx2) | [Tiny Uke Orchestra](https://open.spotify.com/artist/7MVmlp60IXood748fgjIxR) | [No Scrubs](https://open.spotify.com/album/6XUnXZJGv1ePL0v63MdLWn) | 2:32 | 2022-07-26 |  |

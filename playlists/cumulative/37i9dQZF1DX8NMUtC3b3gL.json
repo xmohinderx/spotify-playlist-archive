@@ -540,6 +540,24 @@
     },
     {
       "album": {
+        "name": "City Lights",
+        "url": "https://open.spotify.com/album/1i3HkR1ygBKfTvBU3dm0s3"
+      },
+      "artists": [
+        {
+          "name": "Smith Village Beat Street",
+          "url": "https://open.spotify.com/artist/40rTd7D3ud1Q9BB4Qop0WF"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113333,
+      "name": "City Lights",
+      "url": "https://open.spotify.com/track/2hU0KZRPVZ1z7AZga7PXup"
+    },
+    {
+      "album": {
         "name": "Clarity",
         "url": "https://open.spotify.com/album/09tN0ZxxSclFUo7l03zktC"
       },
@@ -809,6 +827,28 @@
       "duration_ms": 168483,
       "name": "Dizzy Dino",
       "url": "https://open.spotify.com/track/0JEt2ZD8qL4JNMb2klnalV"
+    },
+    {
+      "album": {
+        "name": "Downtown",
+        "url": "https://open.spotify.com/album/4DYWk50ZlEIc9UOmdE3Wfv"
+      },
+      "artists": [
+        {
+          "name": "Dreamfield",
+          "url": "https://open.spotify.com/artist/0Z1g78JEjg1BhRNw6hToVm"
+        },
+        {
+          "name": "Summit One",
+          "url": "https://open.spotify.com/artist/4LjrwGL6ImaewVOcW6kJ42"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134855,
+      "name": "Downtown",
+      "url": "https://open.spotify.com/track/1PSQGXCHE2ilzbBBBapF5B"
     },
     {
       "album": {
@@ -2539,7 +2579,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 145984,
       "name": "Preti",
       "url": "https://open.spotify.com/track/1XSXrQlUswO2uLlfo1VQoc"
@@ -3031,7 +3071,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 158647,
       "name": "Side Streets",
       "url": "https://open.spotify.com/track/5Tionopm4U5KuVAa34YvE3"
@@ -3093,7 +3133,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 102062,
       "name": "slumberjack",
       "url": "https://open.spotify.com/track/5rUlJ7zeKR5DsvMbttWJRa"
@@ -3151,6 +3191,24 @@
       "duration_ms": 266100,
       "name": "Soft Lad",
       "url": "https://open.spotify.com/track/2gyXrVDU4SGXqpCRcXbZid"
+    },
+    {
+      "album": {
+        "name": "Solitaire",
+        "url": "https://open.spotify.com/album/4wub7J4LP8LsMC1Zj4kuDR"
+      },
+      "artists": [
+        {
+          "name": "Loe Moe",
+          "url": "https://open.spotify.com/artist/7wKZzfuAPYrjb3kMCQX6II"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125573,
+      "name": "Solitaire",
+      "url": "https://open.spotify.com/track/4SBrpMj6oa4keWYoXPklyL"
     },
     {
       "album": {

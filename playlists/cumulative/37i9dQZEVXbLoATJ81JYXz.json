@@ -2630,6 +2630,28 @@
     },
     {
       "album": {
+        "name": "Selfmade (Deluxe)",
+        "url": "https://open.spotify.com/album/1c3QSPsycCCADNQZopSJIV"
+      },
+      "artists": [
+        {
+          "name": "23",
+          "url": "https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA"
+        },
+        {
+          "name": "VC Barre",
+          "url": "https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Catfish",
+      "url": "https://open.spotify.com/track/6lW1r61qewMDG7oJGVP1EZ"
+    },
+    {
+      "album": {
         "name": "CCTV",
         "url": "https://open.spotify.com/album/2g8aREJdHnVxe5cedBfLbQ"
       },
@@ -6715,7 +6737,7 @@
       ],
       "date_added": "2022-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 145940,
       "name": "G\u00c5R DET BRA?",
       "url": "https://open.spotify.com/track/0qswyajymNk1uMRplcKx3P"

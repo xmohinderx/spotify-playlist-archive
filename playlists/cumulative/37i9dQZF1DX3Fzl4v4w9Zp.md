@@ -4,7 +4,7 @@
 
 > Keep your finger on the pulse of Americana\. Cover: Heartless Bastards
 
-329 songs - 20 hr 33 min - [published](https://open.spotify.com/playlist/1H5Sok0MEuwSOB35Thab6M)
+330 songs - 20 hr 36 min - [published](https://open.spotify.com/playlist/1H5Sok0MEuwSOB35Thab6M)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,7 +121,8 @@
 | [Grow Together](https://open.spotify.com/track/7idNyQ5OqevE4Z1d7I2YSH) | [Greensky Bluegrass](https://open.spotify.com/artist/33bzrYoIWLx5uox3y0VtHn) | [Grow Together](https://open.spotify.com/album/4CyItv0roC2gn4LEcGJ9AG) | 7:00 | 2021-12-17 | 2022-01-22 |
 | [Hard Line](https://open.spotify.com/track/1hoambC4hKUiVx4lM7VSIp) | [The Infamous Stringdusters](https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW) | [Toward the Fray](https://open.spotify.com/album/0L5uOzFpdnqCTWgGfUQmQ0) | 3:40 | 2022-04-01 | 2022-07-23 |
 | [Hard Things](https://open.spotify.com/track/61e2c3NqK905WM3Hi7ZvYK) | [Sarah Buxton](https://open.spotify.com/artist/2xTlb6eueddQmWsxImpDbP) | [Hard Things](https://open.spotify.com/album/4mj6XqOhQggJgFnjJwlRTH) | 4:23 | 2021-12-17 | 2022-05-20 |
-| [Harness the Wind](https://open.spotify.com/track/42xT0Ihj3mgS1Afa92vcMS) | [Calexico](https://open.spotify.com/artist/1OmdWpAh1pucAuZPzJaxIJ) | [Harness the Wind](https://open.spotify.com/album/3LYvDxTZ0BXlhZWMBM3OgT) | 2:54 | 2022-04-01 |  |
+| [Harness the Wind](https://open.spotify.com/track/3yCuPXH95r8oCucf2MRYXH) | [Calexico](https://open.spotify.com/artist/1OmdWpAh1pucAuZPzJaxIJ) | [El Mirador](https://open.spotify.com/album/63AiuIrU9tVW6o0UuAJMtV) | 2:54 | 2022-08-19 |  |
+| [Harness the Wind](https://open.spotify.com/track/42xT0Ihj3mgS1Afa92vcMS) | [Calexico](https://open.spotify.com/artist/1OmdWpAh1pucAuZPzJaxIJ) | [Harness the Wind](https://open.spotify.com/album/3LYvDxTZ0BXlhZWMBM3OgT) | 2:54 | 2022-04-01 | 2022-09-09 |
 | [Hawk For The Dove](https://open.spotify.com/track/0YJeobNNtb6ZBtpk2QwA7B) | [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN) | [Hawk For The Dove](https://open.spotify.com/album/7f1VQAcjCcX2DHEzt6WjJ0) | 3:47 | 2022-05-27 | 2022-07-29 |
 | [Hawk For The Dove](https://open.spotify.com/track/4wgACmMIe2SWmTdCBgKxgd) | [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN) | [Take It Like A Man](https://open.spotify.com/album/1Ls9XDOYzEHqZp4dViQQtY) | 3:47 | 2022-07-22 |  |
 | [Hawk For The Dove](https://open.spotify.com/track/62td314sXG1sOEtwiTOAnO) | [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN) | [Hawk For The Dove](https://open.spotify.com/album/1JoezS6AZYgO7E1VxKZcSy) | 3:47 | 2022-07-22 | 2022-08-01 |

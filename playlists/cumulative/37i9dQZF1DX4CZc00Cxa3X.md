@@ -4,7 +4,7 @@
 
 > Inspired by Listening Bars around the world, a finely chosen selection of Ambient to create your very own.
 
-133 songs - 10 hr 59 min - [published](https://open.spotify.com/playlist/5A1SI2B6RgO6SGlWTiXlLb)
+134 songs - 11 hr 2 min - [published](https://open.spotify.com/playlist/5A1SI2B6RgO6SGlWTiXlLb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Objects With Intent \- Heathered Pearls Remix](https://open.spotify.com/track/5LS0asKEyjsjXmbC4EYSlB) | [Dotlights](https://open.spotify.com/artist/5HoxUV5njSmYDj1U9i9zHY), [Heathered Pearls](https://open.spotify.com/artist/1o949goAYc4vD4IqN0zhVV) | [Objects With Intent \(Heathered Pearls Remix\)](https://open.spotify.com/album/3ElI4A720abHnbeJi0Kf2P) | 4:35 | 2022-03-17 | 2022-07-29 |
 | [On Plateau](https://open.spotify.com/track/5SpQc9ByjLPrycqSBdPRKU) | [Suso Saiz](https://open.spotify.com/artist/5gdvIKIFREcJmy3LV6yhBh), [Suzanne Kraft](https://open.spotify.com/artist/1FTn5osUbCr8n7WgYmbK5m) | [Between No Things](https://open.spotify.com/album/6OQwiuvocNlEp7D9nIBOjj) | 3:55 | 2022-03-17 |  |
 | [One Day Early](https://open.spotify.com/track/2XUYOwgUAVzxYNfZX4lPIj) | [Low Flung](https://open.spotify.com/artist/7FRTM6sphATqwmzvNrGezw) | [One Day Early](https://open.spotify.com/album/4UPKKJk7iQsYauHS72tkeF) | 27:53 | 2022-03-17 | 2022-07-28 |
+| [Open Mind](https://open.spotify.com/track/2ffxaPccRoZmT99U5wgJQJ) | [gonima](https://open.spotify.com/artist/77dTJotJTJA8XS3Y4gBp80) | [Strands](https://open.spotify.com/album/5SMyZhcjGy4v1VXskIa0hn) | 2:35 | 2022-09-07 |  |
 | [Orizzontale Verticale](https://open.spotify.com/track/0rpFR0DN8k47KPO4q1hT02) | [Loris S\. Sarid](https://open.spotify.com/artist/0gYheMncGk0zhnDEwpRidl) | [Music for Tomato Plants](https://open.spotify.com/album/4UvdKF7LlJmxCh3U3VWjKb) | 4:26 | 2022-08-17 |  |
 | [Overlay \- KMRU Remix](https://open.spotify.com/track/0AJojYxlKDwZgDpz4WGfw8) | [Koki Nakano](https://open.spotify.com/artist/0BuB6oNX1squsfXbtkO5JE), [KMRU](https://open.spotify.com/artist/5blZUSGq0z7HhuSldSXV3a) | [Overlay \(KMRU Remix\)](https://open.spotify.com/album/0FmXDaoU4rJXla1BUC36AY) | 5:05 | 2022-03-17 |  |
 | [Overture](https://open.spotify.com/track/0O3ZV9RJJ7MQtyumv1YKGW) | [Christopher Bissonnette](https://open.spotify.com/artist/6bwtwprpOLicmBqwV8ZsqW) | [Wayfinding](https://open.spotify.com/album/7Gei5qiMLZqlhQOpSV5cs4) | 4:24 | 2022-07-08 | 2022-07-19 |
@@ -90,7 +91,7 @@
 | [Ozu](https://open.spotify.com/track/3hNZUs8RSUk3HbFQGcrWnK) | [Arp](https://open.spotify.com/artist/3nmCWNVgTseDuX2OyUeTsX) | [ZEBRA](https://open.spotify.com/album/5trQl5XvIPRgpl2zjmIBb0) | 2:18 | 2022-07-08 | 2022-08-18 |
 | [Passage](https://open.spotify.com/track/1O9RWAwUb7MhiohlNpM4vp) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Antarctican Dream Machine](https://open.spotify.com/album/4s3XMtTEkRyaKTMR8HVGLz) | 3:23 | 2022-08-11 |  |
 | [Phase 10](https://open.spotify.com/track/6sDe8RA7VqWfBUYg3fiBwD) | [Endel](https://open.spotify.com/artist/3JNr31WfX56vgwBuIcdOt4), [Laraaji](https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4) | [Meditation: You Are Relaxed](https://open.spotify.com/album/4QL5klSQaSxjr5ahXU4Mex) | 3:00 | 2022-08-19 |  |
-| [Prue Lewarne](https://open.spotify.com/track/11fCNGmz7r3cEzaqwakkLB) | [Aix Em Klemm](https://open.spotify.com/artist/42DUzz9SdjV6ih3rbUaHma) | [Aix Em Klemm](https://open.spotify.com/album/5tiWSutt09Cqi6ty1dYzXJ) | 7:19 | 2022-03-30 |  |
+| [Prue Lewarne](https://open.spotify.com/track/11fCNGmz7r3cEzaqwakkLB) | [Aix Em Klemm](https://open.spotify.com/artist/42DUzz9SdjV6ih3rbUaHma) | [Aix Em Klemm](https://open.spotify.com/album/5tiWSutt09Cqi6ty1dYzXJ) | 7:19 | 2022-03-30 | 2022-09-09 |
 | [Resolve](https://open.spotify.com/track/3uIVrCIl65nlhaFL80bt2N) | [Kauf](https://open.spotify.com/artist/4T7v6mIRvUB3AEORZRzWUy) | [Resolve](https://open.spotify.com/album/3zg1VuUxrTaOtItzW5pzE9) | 3:09 | 2022-03-17 | 2022-07-28 |
 | [rest](https://open.spotify.com/track/1bu0i3ZkCVYTTQhBywwJWK) | [Hugar](https://open.spotify.com/artist/0bdJp8l3a1uJRKe2YaAcE9) | [Rift](https://open.spotify.com/album/3yUd4JMvrDdFwiFJo6Aly8) | 2:53 | 2022-03-30 | 2022-07-27 |
 | [Rintocco](https://open.spotify.com/track/5su2UU0bULk5kcpZtaWeE3) | [Fools](https://open.spotify.com/artist/79nlYDq7D71uO2A3NU0YAl) | [Fools' Harp, Vol\. 1](https://open.spotify.com/album/1yDu2ypRHg38PJ3yxWPklf) | 4:14 | 2022-03-17 |  |

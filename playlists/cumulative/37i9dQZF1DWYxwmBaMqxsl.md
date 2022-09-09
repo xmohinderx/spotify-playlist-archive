@@ -2,7 +2,7 @@
 
 ### [Rainy Day Jazz](https://open.spotify.com/playlist/37i9dQZF1DWYxwmBaMqxsl)
 
-> Soft and moody jazz for a rainy day.
+> Sad and gloomy Jazz for a rainy day.
 
 183 songs - 12 hr 7 min - [published](https://open.spotify.com/playlist/3gSdGstAEf78VwlStuMXxy)
 

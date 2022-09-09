@@ -4156,6 +4156,24 @@
     },
     {
       "album": {
+        "name": "Shadow Boxing",
+        "url": "https://open.spotify.com/album/2ClkPaYrHeaHGxiiSaMoyA"
+      },
+      "artists": [
+        {
+          "name": "Vundabar",
+          "url": "https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262346,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/5OSMmIX3QvBW5wrChEujmZ"
+    },
+    {
+      "album": {
         "name": "Dear Me",
         "url": "https://open.spotify.com/album/0qklq3waVgaH4eNeO19ZQY"
       },
@@ -4491,7 +4509,7 @@
       ],
       "date_added": "2019-06-16",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 261760,
       "name": "You & I",
       "url": "https://open.spotify.com/track/6SgHlKcfkRQ6XohmDR1ugQ"

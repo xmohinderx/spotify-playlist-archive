@@ -4,7 +4,7 @@
 
 > This week's essential new pop tracks\. Cover: Charlie Puth
 
-1,447 songs - 3 day 0 hr 7 min - [published](https://open.spotify.com/playlist/0i2CIZhMTlGvQFu8b20aHi)
+1,448 songs - 3 day 0 hr 11 min - [published](https://open.spotify.com/playlist/0i2CIZhMTlGvQFu8b20aHi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1083,7 +1083,7 @@
 | [Runaway Blue](https://open.spotify.com/track/1RbipP1W7K6A0KuBlOeLwe) | [Chloe George](https://open.spotify.com/artist/5VZn4mB8pS40aE0kujdX2Y) | [Runaway Blue](https://open.spotify.com/album/26fP6qB9XiP01pNDJmwNGL) | 3:33 | 2022-08-19 | 2022-09-03 |
 | [Running](https://open.spotify.com/track/5PtOXZFJyXnXwj6gQ0PsuV) | [Boon](https://open.spotify.com/artist/4XbfLvylNCfSXNvV2O8aP7) | [Running](https://open.spotify.com/album/3JqEX8kWRDih4SJ2DZXHxg) | 2:53 | 2022-04-08 | 2022-04-23 |
 | [Running Out of Love](https://open.spotify.com/track/5B6BvYNj9cjZUnzoslwK20) | [Seafret](https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF) | [Running Out of Love](https://open.spotify.com/album/0rhORi6bUyoJc4EXX0rArK) | 4:18 | 2022-08-19 | 2022-09-03 |
-| [Running Up That Hill](https://open.spotify.com/track/2DOLnbsYoLcEWQXPlYlLiT) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Running Up That Hill](https://open.spotify.com/album/1W1WeSndlxGYxbIr2qJrik) | 4:48 | 2022-09-02 |  |
+| [Running Up That Hill](https://open.spotify.com/track/2DOLnbsYoLcEWQXPlYlLiT) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Running Up That Hill](https://open.spotify.com/album/1W1WeSndlxGYxbIr2qJrik) | 4:48 | 2022-09-02 | 2022-09-09 |
 | [rx](https://open.spotify.com/track/273h36reiuZ6Q92u4cmfID) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Rx](https://open.spotify.com/album/0pzu94TJ8IufDvf416cdfO) | 3:20 | 2022-04-08 | 2022-04-29 |
 | [sad disco](https://open.spotify.com/track/2AuvCgODcdFVPHdErDoQuY) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [sad disco](https://open.spotify.com/album/6b8x1yW2fvpElEYMnJzkGl) | 3:03 | 2022-03-25 | 2022-04-09 |
 | [sad girls always finish first](https://open.spotify.com/track/16mFtGFLstwAxII0hUknUk) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [sad girls always finish first](https://open.spotify.com/album/1FaBznYSUrobcSjQEmERFM) | 3:15 | 2022-05-06 | 2022-05-28 |
@@ -1213,6 +1213,7 @@
 | [Summertime](https://open.spotify.com/track/6uSU3s6JZOZDxowW4Fragc) | [WATTS](https://open.spotify.com/artist/4B3aifxHtpcKHuNi12lmSt) | [Summertime](https://open.spotify.com/album/2NnIGE6mh0IlHhcCJ8zFPu) | 3:07 | 2022-08-26 |  |
 | [Sun Will Shine](https://open.spotify.com/track/6bp0sJ0l3Ab3ZU0aktsYCf) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [Sun Will Shine](https://open.spotify.com/album/43u6j73XJJE6wOhKgsA50W) | 3:21 | 2022-07-29 | 2022-08-06 |
 | [sunburn](https://open.spotify.com/track/4gBkCqlITvat2A3aYPtMqS) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [sunburn](https://open.spotify.com/album/6Edd6ynhByESPwWdNgXCFP) | 2:53 | 2022-04-08 | 2022-04-29 |
+| [Sunburn Days](https://open.spotify.com/track/7Baq4fSz0I8NTRaJXcNK9h) | [Wes Chiller](https://open.spotify.com/artist/2Db2n5HtwOIHl77l8wlyQZ), [Pink Skies](https://open.spotify.com/artist/52hSI2C4N5tiTqSRIvWfyV), [Alice Gray](https://open.spotify.com/artist/6bSM7pvpb0bMWHl9ZuCIs1) | [Sunburn Days](https://open.spotify.com/album/5IaQUiBkOujjDJf4yesPMO) | 4:00 | 2022-09-02 |  |
 | [Sunday Crossword](https://open.spotify.com/track/3CB973XnoNN2QBAF5yaBxU) | [J\. Maya](https://open.spotify.com/artist/6uFYqDeLIwfURuF1yxVqJU) | [Sunday Crossword](https://open.spotify.com/album/6m0eoETUxlI5sWCW6e9akR) | 3:04 | 2022-08-12 | 2022-09-03 |
 | [Sunroof \(feat\. Thomas Rhett\)](https://open.spotify.com/track/2xRPwGneUj9S6UNC2TthyJ) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs), [dazy](https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x), [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Sunroof \(Remixes\)](https://open.spotify.com/album/2Lm0F5MpahWZ4vb0k4MiHj) | 2:43 | 2022-08-12 | 2022-08-27 |
 | [Superglue](https://open.spotify.com/track/7gF16AbvFNPRXgmuXtevuU) | [Mia Rodriguez](https://open.spotify.com/artist/7Hsfh7YZzoyojYWQeMSHID) | [Superglue](https://open.spotify.com/album/3DDG8hBJQIYtWGGd4p58nT) | 2:07 | 2022-06-10 | 2022-06-25 |

@@ -4,7 +4,7 @@
 
 > Domino present you with their selection of the best independent music around\. Enjoy!
 
-153 songs - 9 hr 52 min - [published](https://open.spotify.com/playlist/4zWRQuNDfWfg20fgc39FGO)
+156 songs - 10 hr 5 min - [published](https://open.spotify.com/playlist/4zWRQuNDfWfg20fgc39FGO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,9 @@
 | [Effe](https://open.spotify.com/track/7pfBNYKSPD54GeKveA7XyS) | [Kikagaku Moyo](https://open.spotify.com/artist/0hrb5WRiNlj8vh3WnCgXFq) | [Kumoyo Island](https://open.spotify.com/album/4GaP8n1AGGUMUxhFkHIEsC) | 3:22 | 2022-06-08 | 2022-06-17 |
 | [Eight Fivers](https://open.spotify.com/track/6d9mtUseQ2Dl5ULanalHNz) | [Gilla Band](https://open.spotify.com/artist/7IdPmzvB3PugXieZE9vS4S) | [Eight Fivers](https://open.spotify.com/album/3wazXY9ttSMJFobE6RTEha) | 2:20 | 2022-07-13 | 2022-08-25 |
 | [Eleanor](https://open.spotify.com/track/57cxBTJJ2tB5ZPOUPa7dqH) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [Eleanor](https://open.spotify.com/album/55cPRNZBzTJMc0B96RGoFx) | 5:09 | 2022-07-13 | 2022-09-01 |
+| [Eleanor \- Braxe + Falcon Remix](https://open.spotify.com/track/63AYm9QLwChvniMnkEm0pN) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5), [Braxe + Falcon](https://open.spotify.com/artist/10sZHUBkoiCLucz4bbCEBA) | [Eleanor \(Remixes\)](https://open.spotify.com/album/4nu8uFwNBbIJBrRWNt6GXo) | 3:32 | 2022-09-07 |  |
 | [Eleanor \- Edit](https://open.spotify.com/track/4kLyAbRTMMfmAH5Fjm3cYU) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [Eleanor](https://open.spotify.com/album/55cPRNZBzTJMc0B96RGoFx) | 3:53 | 2022-07-12 | 2022-07-14 |
+| [Eleanor \- Krystal Klear Remix](https://open.spotify.com/track/6fbNF4DkcP515bxSxGyjPQ) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5), [Krystal Klear](https://open.spotify.com/artist/0jqr8aeeHSn5pMEVD4aTrI) | [Eleanor \(Remixes\)](https://open.spotify.com/album/4nu8uFwNBbIJBrRWNt6GXo) | 6:05 | 2022-09-07 |  |
 | [Elevation](https://open.spotify.com/track/0vTkJkiYQriLDzdmSt0zHr) | [Braxe + Falcon](https://open.spotify.com/artist/10sZHUBkoiCLucz4bbCEBA), [Alan Braxe](https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW), [DJ Falcon](https://open.spotify.com/artist/7mLoDOOVW8VlPUTii10xH5), [Sunni Colón](https://open.spotify.com/artist/4tRZRfhgfLEIUI9mw9Njy2) | [Elevation](https://open.spotify.com/album/5JREjQEjOHhHEreuSIGSud) | 3:34 | 2022-06-08 | 2022-06-30 |
 | [Exit Music](https://open.spotify.com/track/3WHGUZGrJiTzi6CTZxH7Dr) | [Martin Courtney](https://open.spotify.com/artist/4JuWruv1jBeWne0sJTUH3k) | [Magic Sign](https://open.spotify.com/album/3Zse3fkovui5xhEx1SQ7qQ) | 2:52 | 2022-06-29 | 2022-08-18 |
 | [Feel Another Day](https://open.spotify.com/track/3QeDBrfHSMvJFKQd6ALYM2) | [Night Moves](https://open.spotify.com/artist/6Pled8lBAODAviS574l1Q4) | [Feel Another Day](https://open.spotify.com/album/7HxBXjkzwT4hhb8THINZXA) | 4:01 | 2022-06-08 | 2022-06-23 |
@@ -96,6 +98,7 @@
 | [Love is a Painting](https://open.spotify.com/track/27wOtEWr0MvXkKcmSN65Yx) | [The Bug Club](https://open.spotify.com/artist/7eiTMbuHYUPjrAMjIhAVDB) | [Love is a Painting](https://open.spotify.com/album/0CXveCdNkkHITLL09oVlWF) | 2:07 | 2022-08-17 |  |
 | [Macca The Mutt](https://open.spotify.com/track/2kpi8kAf9mrQwLKmdCxJ45) | [Party Dozen](https://open.spotify.com/artist/5LeiYFiAx31mpoPKxdOLOm), [Nick Cave](https://open.spotify.com/artist/1RM5gp0RFfjpJhCYFPB30p) | [Macca The Mutt](https://open.spotify.com/album/4f7VB6WcKvRfxepC6FgirJ) | 4:01 | 2022-06-16 | 2022-07-28 |
 | [MBGATE \- Kero Kero Bonito Remix](https://open.spotify.com/track/3h2e8PoBKVQKjswwQnCgsY) | [Max Tundra](https://open.spotify.com/artist/08DpSTsNFBf1PxTm9lwpXb), [Kero Kero Bonito](https://open.spotify.com/artist/6OqhFYFJDnBBHas02HopPT) | [MBGATE \(Kero Kero Bonito Remix\)](https://open.spotify.com/album/20s2d4wXpZnFmkp4WdzSXu) | 2:46 | 2022-08-10 |  |
+| [Miracles](https://open.spotify.com/track/6kjo1sI3Vc1Q47Ppm6FYRh) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Miracles](https://open.spotify.com/album/04p480lq0Oye2DUWRg0LHW) | 3:44 | 2022-09-08 |  |
 | [Nattens Sista Strimma Ljus](https://open.spotify.com/track/2WY8hy60bH6y1cxTMurysV) | [Dungen](https://open.spotify.com/artist/5d7hcYqz8bVY6Kt3bhjd3d) | [Nattens Sista Strimma Ljus](https://open.spotify.com/album/0j3nf6D8d8ZvhgibltRWL5) | 4:28 | 2022-07-06 | 2022-08-18 |
 | [Night Crawling](https://open.spotify.com/track/1mSYUtXT32YJZg2cALSq0O) | [John Cale](https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW) | [Night Crawling](https://open.spotify.com/album/2r1nEJHd2dvPfpSMnpNZRm) | 4:53 | 2022-08-01 |  |
 | [On & On](https://open.spotify.com/track/4gDolFunOhVEfAPJRJTZwc) | [Superorganism](https://open.spotify.com/artist/0Wkm45quqfx3NepJpXDvwE) | [On & On](https://open.spotify.com/album/41HC7KwuNr5PxEtyYxgYQm) | 3:10 | 2022-06-08 | 2022-07-14 |

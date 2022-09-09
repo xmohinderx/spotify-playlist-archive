@@ -4,7 +4,7 @@
 
 > Take down the tempo but keep the party going with the biggest tropical house jams.
 
-489 songs - 1 day 1 hr 48 min - [published](https://open.spotify.com/playlist/61FZjpXPJ3h6rXtpr3F0Jn)
+490 songs - 1 day 1 hr 50 min - [published](https://open.spotify.com/playlist/61FZjpXPJ3h6rXtpr3F0Jn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -383,6 +383,7 @@
 | [Save Tonight](https://open.spotify.com/track/4DbMVfa7pxhnkyPy1i27is) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf) | [Sunrise](https://open.spotify.com/album/2qQf72CQ3j5D9AEwvmGvdX) | 2:45 | 2022-07-22 |  |
 | [Save Tonight](https://open.spotify.com/track/70PH29yzcK8ZQVseOZlAJG) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf) | [Sunrise To Sunset](https://open.spotify.com/album/3DXfe2cEsCdAjORfXw0NDK) | 2:45 | 2022-01-14 | 2022-07-29 |
 | [Seduction](https://open.spotify.com/track/23OzWEhGGgu7RSqzKhsGhE) | [Boris Way](https://open.spotify.com/artist/6B4RvAzPbZcxMjhZvFSDis) | [Seduction](https://open.spotify.com/album/716PfjuMoJzNMvydwPKTGV) | 3:05 | 2022-01-14 | 2022-07-04 |
+| [See You Again \(Feat\. ÆJ\)](https://open.spotify.com/track/08fs5CvDMxpUFCD8IVqC9J) | [Solar State](https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu), [Foínix](https://open.spotify.com/artist/7FNA36ZmHzr9QkZJcQjYcO), [Jordan Grace](https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k), [Æj](https://open.spotify.com/artist/0VJqEAN7vlJ2hhtBgRNv41) | [See You Again \(Feat\. ÆJ\)](https://open.spotify.com/album/7kZnlSPBb1NrSUvM6ckBif) | 2:38 | 2022-09-02 |  |
 | [Set The World \(On Fire\)](https://open.spotify.com/track/1UtjCEfOU9JaAMuGIhBPBx) | [Flatdisk](https://open.spotify.com/artist/1nwOAIlEn6W5ZtwLyDE9kv), [Bitter's Kiss](https://open.spotify.com/artist/2iYRrbF7KszvcbF4Zf4Tq2) | [Set The World \(On Fire\)](https://open.spotify.com/album/09qsaTWMHIShQH4CKkVdrd) | 2:59 | 2022-01-14 | 2022-06-04 |
 | [Seve \- Radio Edit](https://open.spotify.com/track/6UqRGwjwYL0stXbaodTxwo) | [Tez Cadey](https://open.spotify.com/artist/5cBeFQv3kBVP8o15CmPTKb) | [Seve \(Radio Edit\)](https://open.spotify.com/album/40d8W7uNHGeih483QVvLu4) | 3:30 | 2022-01-14 | 2022-04-21 |
 | [Sex On Me \- Re\-Edit](https://open.spotify.com/track/6zwZ9blEaUCdhrprmyM1vg) | [GOLDHOUSE](https://open.spotify.com/artist/670UISOh9XV1zlq5z5IfoY) | [Sex On Me \(Re\-Edit\)](https://open.spotify.com/album/0vF5ZGN1zjK3exzACcAFDC) | 3:15 | 2022-01-14 |  |
@@ -405,7 +406,7 @@
 | [Starboy \- Kygo Remix](https://open.spotify.com/track/6LJFgCd9wU2VptHEwz2Wl3) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi), [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4) | [Starboy \(Kygo Remix\)](https://open.spotify.com/album/4rGQxBDZ4hHCKePXaYOTSB) | 4:04 | 2022-01-21 | 2022-04-20 |
 | [Starry Eyed](https://open.spotify.com/track/5ib4awXZhr3dUX1jgXp55G) | [Ocean Ave](https://open.spotify.com/artist/6MCs7Y3fvs10ifq9B6mUMH), [RIIVA](https://open.spotify.com/artist/77uqQoezJs1O18E7TYk00J) | [Starry Eyed](https://open.spotify.com/album/34tuIRNqVsSvLc3SGX1dKi) | 2:24 | 2022-04-01 |  |
 | [Start A Riot \- Thundatraxx Remix](https://open.spotify.com/track/0EA7tn6U2YpoUIOjN3AP02) | [BANNERS](https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX), [Thundatraxx](https://open.spotify.com/artist/1uKcMFoPaE7DktLRi9u6y4) | [Start A Riot \(Remixes\)](https://open.spotify.com/album/2ZvYYpGmMaQn0a52UZGrOM) | 3:08 | 2022-01-14 | 2022-06-18 |
-| [Start A Riot \- Thundatraxx Remix](https://open.spotify.com/track/0b29RCV8LpmnNht0r4LgV1) | [BANNERS](https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX), [Thundatraxx](https://open.spotify.com/artist/1uKcMFoPaE7DktLRi9u6y4) | [Start A Riot \(Remixes\)](https://open.spotify.com/album/2qKZ8zJqvK2OmKBcswGHd7) | 3:08 | 2022-07-22 |  |
+| [Start A Riot \- Thundatraxx Remix](https://open.spotify.com/track/0b29RCV8LpmnNht0r4LgV1) | [BANNERS](https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX), [Thundatraxx](https://open.spotify.com/artist/1uKcMFoPaE7DktLRi9u6y4) | [Start A Riot \(Remixes\)](https://open.spotify.com/album/2qKZ8zJqvK2OmKBcswGHd7) | 3:08 | 2022-07-22 | 2022-09-09 |
 | [Steps on Water](https://open.spotify.com/track/125n10fByRjOOrOpAFQmDE) | [Mar Vei](https://open.spotify.com/artist/1oobYLromCfJh2nx8pfZiI) | [Steps on Water](https://open.spotify.com/album/4HqBZSLFFt4bY4OxGgzAFi) | 3:47 | 2022-04-01 | 2022-07-29 |
 | [Stitches \- Seeb Remix](https://open.spotify.com/track/4mEPquRcjE0gTFoylj2b5v) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr), [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq) | [Stitches \(Seeb Remix\)](https://open.spotify.com/album/5IyE2Ev9TrJr2eFfI7OMeV) | 2:47 | 2022-02-18 | 2022-04-09 |
 | [Strong](https://open.spotify.com/track/4UFRpETVnwicalnBKyt5GB) | [Sigma](https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS), [Kovic](https://open.spotify.com/artist/3ETYLarLqOcdvtea9Cs2Sl) | [Hope](https://open.spotify.com/album/4JL6XFpgvWsFbmf7hqGatj) | 3:30 | 2022-06-17 |  |

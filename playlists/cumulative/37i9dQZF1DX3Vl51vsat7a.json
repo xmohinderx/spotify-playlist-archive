@@ -654,6 +654,24 @@
     },
     {
       "album": {
+        "name": "FALLING",
+        "url": "https://open.spotify.com/album/0tHRET0OgupLXVJvqM1oG9"
+      },
+      "artists": [
+        {
+          "name": "JOPLYN",
+          "url": "https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318073,
+      "name": "FALLING",
+      "url": "https://open.spotify.com/track/2Me5ovqaW3PKDYPBlXwq8a"
+    },
+    {
+      "album": {
         "name": "Feel Good",
         "url": "https://open.spotify.com/album/6p4rt48ywuUFCaQtbicjUy"
       },
@@ -1125,6 +1143,24 @@
     {
       "album": {
         "name": "Pr\u00e9face",
+        "url": "https://open.spotify.com/album/3rl3hmwkjUzD3S6CRnubvv"
+      },
+      "artists": [
+        {
+          "name": "Moli",
+          "url": "https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244666,
+      "name": "Insomnia",
+      "url": "https://open.spotify.com/track/0EN4byNEi2vJ0VKyn9pXRS"
+    },
+    {
+      "album": {
+        "name": "Pr\u00e9face",
         "url": "https://open.spotify.com/album/1VXdGf2leT7m5cyHw9PydB"
       },
       "artists": [
@@ -1135,7 +1171,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 244666,
       "name": "Insomnia",
       "url": "https://open.spotify.com/track/3jEuAziXMAw8YVbfcvVLZR"
@@ -1469,7 +1505,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 148551,
       "name": "Neues Geld",
       "url": "https://open.spotify.com/track/0ohdHACL1eACasCxA1UXa8"
@@ -1617,7 +1653,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 332104,
       "name": "REMIND ME",
       "url": "https://open.spotify.com/track/3sQwXoHktwhzOKT2rFBo9Z"
@@ -1889,6 +1925,24 @@
       "duration_ms": 213028,
       "name": "Survival Mode (Intro)",
       "url": "https://open.spotify.com/track/6xfjR5HmYHnabfSKvjoh0M"
+    },
+    {
+      "album": {
+        "name": "S\u00fc\u00dfe Tr\u00e4ume",
+        "url": "https://open.spotify.com/album/4S620Fwlk0uQXT3ByjyGSf"
+      },
+      "artists": [
+        {
+          "name": "C\u00c9LINE",
+          "url": "https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160321,
+      "name": "S\u00fc\u00dfe Tr\u00e4ume",
+      "url": "https://open.spotify.com/track/37FEXZlxz8OYFiB8sdxkdk"
     },
     {
       "album": {

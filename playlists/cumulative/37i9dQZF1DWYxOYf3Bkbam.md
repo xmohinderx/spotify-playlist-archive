@@ -4,7 +4,7 @@
 
 > Entre clásicos y nuevos intérpretes, puro Chamamé.
 
-150 songs - 7 hr 46 min - [published](https://open.spotify.com/playlist/2GjcMWtH64TAHAcgFS6gKj)
+151 songs - 7 hr 50 min - [published](https://open.spotify.com/playlist/2GjcMWtH64TAHAcgFS6gKj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [De Pájaros y Campanas](https://open.spotify.com/track/5L5R6NMMGc6HiTTbOHZqeO) | [Juan Carlos Jensen](https://open.spotify.com/artist/1GBfQ2cHEpXyGiHBlSjVfi) | [Su Poesía y Su Voz, Vol\. 2](https://open.spotify.com/album/4l5nvz2OokGtlEgNCLxupu) | 2:47 | 2021-11-19 |  |
 | [Devuélveme el Corazón](https://open.spotify.com/track/2dT7KgU7h8wzK7u6PT7IFA) | [Sele Vera y Pampas de Bariloche](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [Devuélveme el Corazón](https://open.spotify.com/album/1SEH9Nm2xKk3gtlqIdwZS0) | 3:00 | 2022-06-10 |  |
 | [El Cascabel](https://open.spotify.com/track/59jqFfNaUWKLRuuFRvePHl) | [Miguel Figueroa y Su Conjunto Amanecer Campero](https://open.spotify.com/artist/32B3zRuq8jrRRCqu82YFef), [Luis Angel Torres](https://open.spotify.com/artist/2gu0de5RSdqvaEiEow3uAB) | [Amaneciendo](https://open.spotify.com/album/64NPd7ZaylZXrpYAIUrIKd) | 6:19 | 2021-11-19 |  |
-| [El Gallo Negro](https://open.spotify.com/track/4m5vvAc8yy1J52xeQTkQaU) | [La Pilarcita](https://open.spotify.com/artist/0GXO5I9mqQqReUcDWHAmwX), [Miguel Arce y La Yunta del Chamamé](https://open.spotify.com/artist/61kxyPHjk1ql5qfFrLJXuM) | [12 Años Con el Chamamé](https://open.spotify.com/album/70teadXZbmyYMp8GPyNBcV) | 3:03 | 2021-11-19 |  |
+| [El Gallo Negro](https://open.spotify.com/track/4m5vvAc8yy1J52xeQTkQaU) | [La Pilarcita](https://open.spotify.com/artist/0GXO5I9mqQqReUcDWHAmwX), [Miguel Arce y La Yunta del Chamamé](https://open.spotify.com/artist/61kxyPHjk1ql5qfFrLJXuM) | [12 Años Con el Chamamé](https://open.spotify.com/album/70teadXZbmyYMp8GPyNBcV) | 3:03 | 2021-11-19 | 2022-09-09 |
 | [El Gateao](https://open.spotify.com/track/22DsqUz2nEwX0shUrgHb9I) | [Los de Mailin](https://open.spotify.com/artist/3dOc8TrWBy34iRv0TaXolB) | [Hilvanando Recuerdos](https://open.spotify.com/album/0vAxrwxF8Xs2aEQkryfBcS) | 2:39 | 2021-11-19 |  |
 | [El Gato Blanco](https://open.spotify.com/track/1jqw5PLbmOk02PlnA3TL5u) | [Eduardo Miño](https://open.spotify.com/artist/6UhTcKovuQgaTKhyCaASTu) | [Eduardo Miño y Ruben Miño](https://open.spotify.com/album/7CX1bw7JINMo7W4MP2MFCR) | 2:19 | 2021-11-19 |  |
 | [El Gaucho Gil](https://open.spotify.com/track/57Fe8WMp65ur02mOXCbYYg) | [Emiliano Cardozo Y Los Cardocitos](https://open.spotify.com/artist/1xCZcvonWAPlRE2fsy8Y1j) | [Corazón Chamamecero](https://open.spotify.com/album/0gswITpRLEupnT7EftX6sZ) | 3:28 | 2021-11-19 |  |
@@ -95,6 +95,7 @@
 | [Las Manos De Mi Madre](https://open.spotify.com/track/2xWHt35XioEl0JfPSszwdQ) | [Argentino Luna](https://open.spotify.com/artist/3QSFLkwEghCeYY042s6uWs) | [El Duende De Las Guitarras](https://open.spotify.com/album/2bUhI3v2S9vipV0lqPd7xk) | 2:46 | 2021-11-19 |  |
 | [Las Penas del Provinciano](https://open.spotify.com/track/2OjO3ZBIR59xMqoo9z17sJ) | [Emiliano Cardozo](https://open.spotify.com/artist/6EU6mgrDfDowccl4rd8XMn) | [21 Grandes Exitos](https://open.spotify.com/album/1t13ppwxW2oleYDkjWU76W) | 3:06 | 2021-11-19 |  |
 | [Las Tres Marias](https://open.spotify.com/track/2kdfzSsLYAmnMgdMXlRKKN) | [Ramona Galarza](https://open.spotify.com/artist/6SgxxKwvGosbX2WvlVyCmm), [Los Reyes Del Chamame](https://open.spotify.com/artist/3ElKCwCghvNBPp6f8QITom) | [Coleccion Aniversario](https://open.spotify.com/album/1JvfVnnIOwhQmcvDdUAyYW) | 2:00 | 2021-11-19 |  |
+| [Lloviendo Estrellas](https://open.spotify.com/track/5KOtFFnWELr378pMNuNTJO) | [Potencia Chamamecera](https://open.spotify.com/artist/0m0HwLd0YVfDO5rxGpWfUK) | [La Juventud Romántica](https://open.spotify.com/album/3T3vOhEeWb1LcxzzJKzC5t) | 4:12 | 2022-07-05 |  |
 | [Lloviendo Estrellas](https://open.spotify.com/track/5QeKcJzR4XP7c0LKuAlsvU) | [Potencia Chamamecera](https://open.spotify.com/artist/0m0HwLd0YVfDO5rxGpWfUK) | [La Juventud Romántica](https://open.spotify.com/album/7EfD8N86opzofn0FQscApz) | 4:12 | 2022-07-05 | 2022-08-31 |
 | [Lloviendo Estrellas](https://open.spotify.com/track/5yVfdKJZguW0weseChuXeo) | [Potencia Chamamecera](https://open.spotify.com/artist/0m0HwLd0YVfDO5rxGpWfUK) | [La Juventud Romántica](https://open.spotify.com/album/1NYSKVbrcZ0xdTadj7GaVt) | 4:12 | 2021-11-19 | 2022-07-29 |
 | [Lluvia](https://open.spotify.com/track/433tgTjS9hL0yL58s6nCUM) | [Hernán Crespo](https://open.spotify.com/artist/2SJyFDxAZamYqxC7tN2WeR) | [Lluvia](https://open.spotify.com/album/7Cst086ZWREiL7EBlfUKFb) | 4:45 | 2021-11-19 | 2022-07-29 |

@@ -4,7 +4,7 @@
 
 > The legendary classics meet the newest cutting edge\. This is Japanese punk\. cover: IF
 
-450 songs - 1 day 0 hr 39 min - [published](https://open.spotify.com/playlist/7mGuiem8b98d8gMLhYEh8n)
+453 songs - 1 day 0 hr 51 min - [published](https://open.spotify.com/playlist/7mGuiem8b98d8gMLhYEh8n)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Brand New Day](https://open.spotify.com/track/0b2j6FUGUgMgrdMEDmu0RC) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [Fresh Cheese Delivery](https://open.spotify.com/album/04dxT90eA6LOzUjMOxej12) | 1:48 | 2022-05-12 |  |
 | [Brave Heart for Glory](https://open.spotify.com/track/13pPOPHf1ZLVV7wqCEUgHZ) | [Fumio Ito](https://open.spotify.com/artist/6Mq5I5MWmCdCwurNlujtUj) | [FRIENDSHIP](https://open.spotify.com/album/6hKJSSjBRleFPY7AlyBQqX) | 3:40 | 2022-05-19 | 2022-07-29 |
 | [BRAVE NEW WORLD](https://open.spotify.com/track/2dXuRJ5S1BP46QpLUqRvsD) | [THE PRISONER](https://open.spotify.com/artist/6RIZMUD0AKedtQUIpQyOUK) | [BRAVE NEW WORLD](https://open.spotify.com/album/6EzXsIrLFIGABIZlGOrfBJ) | 4:59 | 2022-07-06 | 2022-07-29 |
+| [Brightness](https://open.spotify.com/track/3gJiK0W7ACaKAtCesVwMvp) | [ONIONRING](https://open.spotify.com/artist/45b4d7M7mlDpXAYFK3JZ5w) | [LEAD](https://open.spotify.com/album/2lwLgrwp7ydwzFfwWd4fJ1) | 2:56 | 2022-09-08 |  |
 | [Broken Toys](https://open.spotify.com/track/1vj4xbA4Lh5ALHzJnklq36) | [OWEAK](https://open.spotify.com/artist/6upXl7zerJtB7IDMcPrl21) | [The Visible One & The Invisible One](https://open.spotify.com/album/6tX37Pzb9Xa9Z7coSVxVN6) | 3:17 | 2022-05-12 | 2022-07-26 |
 | [B・M・W](https://open.spotify.com/track/3CBy99A0i7gTKOjOSSIw53) | [Snail Ramp](https://open.spotify.com/artist/1FXeQKrufIqfjNAPPV4bfx) | [FRESH BRASH OLD MAN](https://open.spotify.com/album/6I3h8d1qKsleQ1iq9nQCwH) | 2:37 | 2022-05-19 |  |
 | [C7](https://open.spotify.com/track/6X6ZSDU1g2gYh2foPRfYnT) | [GO!GO!7188](https://open.spotify.com/artist/66ngkg99OYT8xfzYy660Wu) | [ベスト オブ ゴー!ゴー!](https://open.spotify.com/album/3BC0ULmefgz7GFXOUYGY7k) | 4:15 | 2022-05-19 |  |
@@ -109,6 +110,7 @@
 | [goes on](https://open.spotify.com/track/3mpavY4fu2IKWpWIuFd03d) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h), [Kishidan](https://open.spotify.com/artist/58WqD0AmJH03qw4AUN00Yx) | [10\-feat](https://open.spotify.com/album/0fEuThtACeHQcSULrDR1ma) | 3:21 | 2022-05-17 | 2022-08-19 |
 | [Good Feelin'](https://open.spotify.com/track/14s2uCKAX0LpFABOTRtkux) | [KNOCK OUT MONKEY](https://open.spotify.com/artist/5Kmgbag5URQXVqUUtvXe1S) | [Good Feelin'](https://open.spotify.com/album/20imArDqUKNDMDPT0q2DiU) | 4:56 | 2022-05-17 | 2022-07-28 |
 | [Hate](https://open.spotify.com/track/2z4GICCEgREmuhDxd8z2Mn) | [BACK LIFT](https://open.spotify.com/artist/6R0ajUp8xP5GZCFaQwYBrj) | [Seeding](https://open.spotify.com/album/1RtRvUfTvz2JxVqqi4k6Ns) | 3:11 | 2022-05-12 |  |
+| [HATE](https://open.spotify.com/track/4oe6XEilgvCRpRr2WZfhcN) | [バックドロップシンデレラ](https://open.spotify.com/artist/4v0uOC5uuIzkyGqYEdwTLI) | [HATE](https://open.spotify.com/album/2dP1zFAbDbCOCdGt2e8KEU) | 3:10 | 2022-09-08 |  |
 | [HEARTBEAT](https://open.spotify.com/track/4XRP6yJ7CPzCVM3jcZbMwz) | [TENDOUJI](https://open.spotify.com/artist/7kOS7xo3ryc1MmhfP0fNnX) | [HEARTBEAT](https://open.spotify.com/album/2Szuh3zqRSHAQZywLXU7jc) | 3:04 | 2022-05-12 | 2022-07-29 |
 | [HEARTBEAT](https://open.spotify.com/track/3YEZG0GDjDvoNDK0l8WsS3) | [THIS IS JAPAN](https://open.spotify.com/artist/753OhFtxllDpBJvOmxh6CD) | [HEARTBEAT](https://open.spotify.com/album/0TOzxSGlpg83oOGZZhhv87) | 4:04 | 2022-05-12 | 2022-07-24 |
 | [Heavenly](https://open.spotify.com/track/7Ixg527eSGltkbEIGTN7qX) | [39degrees](https://open.spotify.com/artist/2sA5clRvdaIZg82RoKYJfy) | [Singles\(May,2022\)](https://open.spotify.com/album/7Jd2qtXu0drJFszYyu4aGq) | 2:49 | 2022-05-24 | 2022-07-20 |
@@ -232,7 +234,7 @@
 | [SCRAP AN OLD BRAIN](https://open.spotify.com/track/05NSGCH9lO8SP24FwyAsMc) | [GANZ HASE](https://open.spotify.com/artist/4ITNZW9R7fuSSpr5OqHs2E) | [BLOOD IN BLOOD OUT](https://open.spotify.com/album/6sYqB2z0ESuPjqEmpu1wJI) | 3:37 | 2022-06-02 | 2022-07-29 |
 | [SEE OFF](https://open.spotify.com/track/2Imt3fMqKbdG2WGKW9ZJa7) | [BRAHMAN](https://open.spotify.com/artist/65ZxfiilUIYWNEpDjrHaM5) | [ETERNAL RECURRENCE](https://open.spotify.com/album/6KxD8LRLX3WRXM7pr7eEJW) | 2:18 | 2022-05-24 |  |
 | [set it off](https://open.spotify.com/track/2l3aBqXOsmgqEZN1DB0x9P) | [IF](https://open.spotify.com/artist/1NQpxLowmLRQBdjZOrvzc1) | [In forward](https://open.spotify.com/album/0PdIRoaf7cEZ1rkOelvlAx) | 3:23 | 2022-08-19 |  |
-| [shiboufuragu wo tatenaide](https://open.spotify.com/track/6jDtEDmFInvxR4Ga7vff7X) | [UchikubiGokumonDoukoukai](https://open.spotify.com/artist/3EJLTLWBKED6IQdsGgOscG) | [shiboufuragu wo tatenaide](https://open.spotify.com/album/76w257U3luBps7VnbQ2ozc) | 4:35 | 2022-08-23 |  |
+| [shiboufuragu wo tatenaide](https://open.spotify.com/track/6jDtEDmFInvxR4Ga7vff7X) | [UchikubiGokumonDoukoukai](https://open.spotify.com/artist/3EJLTLWBKED6IQdsGgOscG) | [shiboufuragu wo tatenaide](https://open.spotify.com/album/76w257U3luBps7VnbQ2ozc) | 4:35 | 2022-08-23 | 2022-09-09 |
 | [SHINOBI TOP SECRET](https://open.spotify.com/track/2JZBHfOcqoeUuY0d5mJX7h) | [Wienners](https://open.spotify.com/artist/5NNgHGA4nj68wC8K3lR0n0) | [SHINOBI TOP SECRET](https://open.spotify.com/album/2BErghmne06N5sK33vJUno) | 3:47 | 2022-06-07 | 2022-08-26 |
 | [SHOOTING STAR](https://open.spotify.com/track/0cRhcha9tHeClPWA4Gpf4y) | [Dizzy Sunfist](https://open.spotify.com/artist/66TdubACxGacvormjPazAk) | [SUPER DELICIOUS](https://open.spotify.com/album/6l4tkHQQ6pwyAcG57BTXL8) | 2:22 | 2022-05-19 | 2022-07-27 |
 | [Silent spear](https://open.spotify.com/track/3smaYm50Ivw3v7TVIFtAEo) | [mildrage](https://open.spotify.com/artist/2LdFzULhmqYvTHBnHSNNcm) | [ROM](https://open.spotify.com/album/0kO8GOTSHLSriErXdLQhus) | 3:55 | 2022-05-12 | 2022-07-29 |
@@ -316,6 +318,7 @@
 | [Wonderful Song](https://open.spotify.com/track/70Uro20X1C3cR64LDtQlbq) | [Dizzy Sunfist](https://open.spotify.com/artist/66TdubACxGacvormjPazAk) | [Brand New Page / Wonderful Song](https://open.spotify.com/album/2REnOFvoeiH21zOW8Y8tIn) | 2:43 | 2022-05-12 | 2022-07-28 |
 | [YAKITORI](https://open.spotify.com/track/2KLZ5Q7BthNOqAezv9VdkF) | [Otoboke Beaver](https://open.spotify.com/artist/0HutkALC7kq2L8b9bnZUkq) | [Super Champon](https://open.spotify.com/album/5jMq8144QUTyhsSOAh8cTS) | 1:44 | 2022-05-12 | 2022-06-08 |
 | [YAKITORI](https://open.spotify.com/track/3tRHvzDjzaiiNpnlYya95O) | [Otoboke Beaver](https://open.spotify.com/artist/0HutkALC7kq2L8b9bnZUkq) | [Super Champon](https://open.spotify.com/album/23oUTiqIPyiA42tXNsIzis) | 1:44 | 2022-07-21 |  |
+| [yasasiiusode](https://open.spotify.com/track/5T2fAkQeKpn7TqUN5ghl2B) | [岡田康太](https://open.spotify.com/artist/2JDyuIyYuD6CIt0Dn3DiUX), [ROMANKAKUMEI](https://open.spotify.com/artist/6jgUFsEBD3a3CW645IVQuN) | [yasasiiusode](https://open.spotify.com/album/6Ba3Xjg9ncOYtQgjJ2ClBU) | 5:14 | 2022-09-08 |  |
 | [YELLOW](https://open.spotify.com/track/17uHwqgjol5Yszx6PrdE6z) | [SPARK!!SOUND!!SHOW!!](https://open.spotify.com/artist/1bFs9Etj0H2sq0vmmwmmDU) | [YELLOW](https://open.spotify.com/album/3rU1y1VZundBvMRyLd2n47) | 2:48 | 2022-06-02 | 2022-07-23 |
 | [YES](https://open.spotify.com/track/7t4aDuE9jG3HIdnFL6pjkP) | [Northern19](https://open.spotify.com/artist/4fsXgCjIFWNkCrO2rHd5da) | [YES](https://open.spotify.com/album/638FZbjRqSA9uC5Axw9Zyz) | 1:21 | 2022-05-24 | 2022-07-27 |
 | [YOU'RE MY FRIEND](https://open.spotify.com/track/6z0ur2QkD9cLh96x4mH5R2) | [NAMBA69](https://open.spotify.com/artist/3ZHCgdbzqHYDjPTVZG87gs) | [YOU'RE MY FRIEND](https://open.spotify.com/album/1oF4xfSko2D8aI5EvBodi5) | 3:08 | 2022-05-12 | 2022-07-24 |
@@ -395,7 +398,7 @@
 | [俺様バカ一代・改 \(2021 Mix\)](https://open.spotify.com/track/5QsUPtSbursmJkZTWttlqm) | [Dohatsuten](https://open.spotify.com/artist/2UUHBIbp6MHWflVwNbPUOE) | [リズム&ビートニク ’21 & ヤングデイズソング](https://open.spotify.com/album/5gi2XlxABHsg6ztt6sHn2H) | 4:39 | 2022-05-12 | 2022-07-26 |
 | [僕たちの答え](https://open.spotify.com/track/54pUQTIJbvTwQKbijC1GJN) | [まなつ](https://open.spotify.com/artist/5jrKolawagaQ6oSN5VCcnO) | [まなつのこれからのこと。](https://open.spotify.com/album/1D7lTBazoisPkoduthc72O) | 4:03 | 2022-05-17 | 2022-07-24 |
 | [僕らは…](https://open.spotify.com/track/6pyM8gK1E8Q3vDbO8saYar) | [Taiyouzoku](https://open.spotify.com/artist/4kfInRl2ECNUxMOjZAEHco) | [手をつなごう](https://open.spotify.com/album/3owol0mZK4CUhpzQ5mWwqT) | 3:32 | 2022-06-14 | 2022-07-12 |
-| [優しいウソで](https://open.spotify.com/track/7yFaNhX7rmlzk5kXHlu86q) | [岡田康太](https://open.spotify.com/artist/2JDyuIyYuD6CIt0Dn3DiUX), [ROMANKAKUMEI](https://open.spotify.com/artist/6jgUFsEBD3a3CW645IVQuN) | [優しいウソで](https://open.spotify.com/album/4s5sco6vLDdMKFEZz0UDNk) | 5:14 | 2022-09-06 |  |
+| [優しいウソで](https://open.spotify.com/track/7yFaNhX7rmlzk5kXHlu86q) | [岡田康太](https://open.spotify.com/artist/2JDyuIyYuD6CIt0Dn3DiUX), [ROMANKAKUMEI](https://open.spotify.com/artist/6jgUFsEBD3a3CW645IVQuN) | [優しいウソで](https://open.spotify.com/album/4s5sco6vLDdMKFEZz0UDNk) | 5:14 | 2022-09-06 | 2022-09-09 |
 | [兼愛非攻](https://open.spotify.com/track/70FWTfKhfkLe6Rai1Uoml6) | [BRAHMAN](https://open.spotify.com/artist/65ZxfiilUIYWNEpDjrHaM5), [Fire EX.](https://open.spotify.com/artist/7qBIgabdHdcr6NLujDxWAU) | [兼愛非攻](https://open.spotify.com/album/1XrwoXSVlVBrHzwr92xser) | 3:02 | 2022-05-19 | 2022-07-26 |
 | [名犬ニッパー・ドッグンロール](https://open.spotify.com/track/79FUYK0aRJVN0rOtmXuN9z) | [su\-xing\-cyu](https://open.spotify.com/artist/2SU7W9Mkvei3bZkF3XuOjP) | [名犬ニッパー・ドッグンロール](https://open.spotify.com/album/1Pfe2R00Gm8btOSEQrU8Qs) | 4:27 | 2022-05-12 | 2022-07-27 |
 | [国家の不正を暴きたい](https://open.spotify.com/track/2tuNtDVgN5cYnFHcOMNB9l) | [バックドロップシンデレラ](https://open.spotify.com/artist/4v0uOC5uuIzkyGqYEdwTLI) | [セカンドe.p](https://open.spotify.com/album/5IWfQmOJPgOkhYCMJ8vDaL) | 2:57 | 2022-05-12 | 2022-07-25 |
@@ -423,7 +426,7 @@
 | [明日に向かって](https://open.spotify.com/track/3nIrDTKCyQLpky1jbzoh2h) | [HUNGRY DAYS](https://open.spotify.com/artist/1y0fBZJkKJ7TurezM3cmtg) | [俺達がHUNGRY DAYS!!](https://open.spotify.com/album/3piDC5DWNoxLaTAxzfbsLI) | 4:34 | 2022-06-21 | 2022-06-27 |
 | [星の鍵](https://open.spotify.com/track/6MtEKrsu7jYCvPUhD8cyXi) | [南無阿部陀仏](https://open.spotify.com/artist/5d3O7Y0ejEy42d6QJaqCvQ) | [星の鍵](https://open.spotify.com/album/3vHUCoExR3mnE5nd8xhCHx) | 3:06 | 2022-05-31 | 2022-06-01 |
 | [星空の下](https://open.spotify.com/track/5swBECvNHmwWzeL44sG8Um) | [BEAKS](https://open.spotify.com/artist/7MvlEi6P7KGe2SJCjuMQK2) | [はじめてのBEAKS](https://open.spotify.com/album/3D5S3aOQFaNdcazvTp7U2V) | 3:46 | 2022-05-17 | 2022-07-26 |
-| [星空の下で](https://open.spotify.com/track/6xmui4uiCwkOSCe1MhAB6v) | [SHAKALABBITS](https://open.spotify.com/artist/1ibfTwhFGhVZWjOoIevFOQ) | [CLUTCH](https://open.spotify.com/album/4KTyefWkOhRn4e4lNqJ7W7) | 3:39 | 2022-05-19 |  |
+| [星空の下で](https://open.spotify.com/track/6xmui4uiCwkOSCe1MhAB6v) | [SHAKALABBITS](https://open.spotify.com/artist/1ibfTwhFGhVZWjOoIevFOQ) | [CLUTCH](https://open.spotify.com/album/4KTyefWkOhRn4e4lNqJ7W7) | 3:39 | 2022-05-19 | 2022-09-09 |
 | [春](https://open.spotify.com/track/5Ln0DFBZQsmiG6OyOaxnZ8) | [東京初期衝動](https://open.spotify.com/artist/0yIugVENIPSMYiZTYi2CUM) | [春](https://open.spotify.com/album/2AWsKrlvdPptbEfCxz58Dv) | 3:45 | 2022-05-12 | 2022-07-25 |
 | [暁](https://open.spotify.com/track/7wEm2Nzba3uman9NGHDhN3) | [DATE ME GANE](https://open.spotify.com/artist/7nqsjIG9cAY7MV3So3kxYI) | [暁](https://open.spotify.com/album/5AmC8jw1hc9jqj5uOgL9gn) | 2:28 | 2022-05-19 | 2022-07-29 |
 | [曖昧](https://open.spotify.com/track/46LzUNQbhoNBTcBNp0dtsH) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [曖昧](https://open.spotify.com/album/3BRmcqCvRvH8QVFfiAU5bY) | 3:41 | 2022-05-12 |  |

@@ -2,9 +2,9 @@
 
 ### [Perreo City](https://open.spotify.com/playlist/37i9dQZF1DWUlCmB8llCTB)
 
-> Esto es un perreo a lo Lenny Tavárez, Chencho Corleone y Piso 21.
+> Esto es un perreo a lo Maria Becerra.
 
-293 songs - 16 hr 36 min - [published](https://open.spotify.com/playlist/7slpjtiTF4amPLODArmLYt)
+295 songs - 16 hr 40 min - [published](https://open.spotify.com/playlist/7slpjtiTF4amPLODArmLYt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,8 +23,9 @@
 | [Amor De Una Noche](https://open.spotify.com/track/6DlIqUlAjLfrmgUdewGf1x) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Reggaetonea](https://open.spotify.com/album/6Wu7QHl7uK1EBunS3YsPni) | 3:29 | 2022-08-05 |  |
 | [Ansioso](https://open.spotify.com/track/06a9OeSuRhcmlNbNUWHH6i) | [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1), [Juhn](https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr) | [Ansioso](https://open.spotify.com/album/7zZ7J62h5Fratub7B28lBT) | 3:07 | 2022-03-11 |  |
 | [Atrévete](https://open.spotify.com/track/4xUoT1ufPfYu6GHzZ0AlLW) | [El Barto](https://open.spotify.com/artist/5RnwLXlnWPF57yzdmUnnvP), [Sayian Jimmy](https://open.spotify.com/artist/3ZfYo6sKskRv0wOyrZZdAj) | [Atrévete](https://open.spotify.com/album/0UHCE7QbmG9iS2IfUqPiRg) | 2:44 | 2022-07-29 |  |
+| [AUTOMÁTICO](https://open.spotify.com/track/3Ne5uYDFzHEFYAPbaBMIck) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [AUTOMÁTICO](https://open.spotify.com/album/5i8WdrKnzvMbujuJhkcFQn) | 2:55 | 2022-09-08 |  |
 | [Bad Bichi](https://open.spotify.com/track/2hGTv1OBtgFeRgNyqphITI) | [vf7](https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ) | [Bad Bichi](https://open.spotify.com/album/2uqrqjmwu3qqYU46jEd6DJ) | 2:55 | 2022-08-19 |  |
-| [BADBITCH](https://open.spotify.com/track/6MNfA6yPOiSXci4xXcJ3I3) | [Best](https://open.spotify.com/artist/4Ng3fh1nc5L04iXPL8vqc7), [El Barto](https://open.spotify.com/artist/5RnwLXlnWPF57yzdmUnnvP) | [BADBITCH](https://open.spotify.com/album/4sht24sghIeg901nOQ9nUO) | 2:40 | 2022-08-12 |  |
+| [BADBITCH](https://open.spotify.com/track/6MNfA6yPOiSXci4xXcJ3I3) | [Best](https://open.spotify.com/artist/4Ng3fh1nc5L04iXPL8vqc7), [El Barto](https://open.spotify.com/artist/5RnwLXlnWPF57yzdmUnnvP) | [BADBITCH](https://open.spotify.com/album/4sht24sghIeg901nOQ9nUO) | 2:40 | 2022-08-12 | 2022-09-09 |
 | [Baila Baila](https://open.spotify.com/track/7v8fuiKEDYiXWjCoXvUmhW) | [Randy](https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav), [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu) | [Romances de una Nota](https://open.spotify.com/album/4HzPwnGB4aUacqCXhWeDKA) | 3:36 | 2021-12-24 | 2022-05-03 |
 | [Bandidos](https://open.spotify.com/track/1dZkAYdCvUA4u5cMzGhRJh) | [Reykon](https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf) | [Bandidos](https://open.spotify.com/album/0EC8Sa1jYekLosZIYDlWvw) | 2:57 | 2022-04-29 | 2022-06-04 |
 | [Baya](https://open.spotify.com/track/0cux7pJXDRjT7UBlwIx0DZ) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Yomo](https://open.spotify.com/artist/4myAXQmMuS1lZe8T6Y7eBg) | [La 167](https://open.spotify.com/album/0T6QxdJZwYrXPHd829SnqK) | 3:35 | 2021-12-24 | 2022-05-20 |
@@ -37,6 +38,7 @@
 | [Bi](https://open.spotify.com/track/1eOenz5uZlndPxGPC4cQxV) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ) | [TRAP KITTY](https://open.spotify.com/album/4LA06BUD265HXY7Mv2HUG7) | 3:05 | 2022-07-29 | 2022-08-20 |
 | [Bichiyal](https://open.spotify.com/track/6DwvPQUStsslrkVTSQnB9M) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy) | [Bichiyal](https://open.spotify.com/album/5aaDH1WH9oBYiVld6KvI2C) | 3:37 | 2021-12-24 | 2022-04-16 |
 | [Bien Backeao](https://open.spotify.com/track/17a9aplVkXXIvbiZ1nsv4Q) | [Ecko](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF) | [Bien Backeao](https://open.spotify.com/album/0L856tfb66xrX8st1zTCrT) | 2:09 | 2021-12-24 | 2022-01-15 |
+| [BIZCOCHITO](https://open.spotify.com/track/4kXxEhuatrvwrTQycA7s9B) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 1:49 | 2022-09-08 |  |
 | [Borracho](https://open.spotify.com/track/0rsTDgGRlXKuzSAxcdb4Ns) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP) | [Borracho](https://open.spotify.com/album/0DzwLlhnxgjPgL3uWNZTWG) | 3:39 | 2021-12-24 | 2022-08-10 |
 | [Borracho y Loco](https://open.spotify.com/track/4WJ1NdiMI29s083w8ph0hA) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux) | [El Pibe \(Vol.1\)](https://open.spotify.com/album/3Cqol64UqjB81EpDkvUH84) | 2:44 | 2022-07-22 |  |
 | [BYAK](https://open.spotify.com/track/6mPzI9mXSv4HbjtsuluEen) | [Kevin Roldan](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO) | [BYAK](https://open.spotify.com/album/6jsKmnNS6eZ13rLiwb8XrC) | 2:28 | 2022-03-04 | 2022-05-07 |

@@ -2,9 +2,9 @@
 
 ### [Flow Venezuela](https://open.spotify.com/playlist/37i9dQZF1DWTtgIvO0zxTI)
 
-> Aquí está el sonido urbano de Venezuela\. Cover: Neutro Shorty
+> Aquí está el sonido urbano de Venezuela\. Cover: Micro TDH, Mau y Ricky
 
-79 songs - 4 hr 27 min - [published](https://open.spotify.com/playlist/2efGXAVzCEGB6nG3nfhwEs)
+80 songs - 4 hr 30 min - [published](https://open.spotify.com/playlist/2efGXAVzCEGB6nG3nfhwEs)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Hasta Que Salga el Sol](https://open.spotify.com/track/2u02P0y6omgiLmEVCd7WdV) | [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y) | [Hasta Que Salga el Sol](https://open.spotify.com/album/1z3dJze0v30WJxORECHCE8) | 3:29 | 2022-03-11 | 2022-07-29 |
 | [HP](https://open.spotify.com/track/3kfXOIL2AvwrzS5cT5RjED) | [ADSO](https://open.spotify.com/artist/29b16XDtyMXDrfo2hZ69wf), [KEVVO](https://open.spotify.com/artist/4QrBoWLm2WNlPdbFhmlaUZ) | [HP](https://open.spotify.com/album/66Nzq7BM0gIRLz47lNdg1W) | 3:24 | 2022-06-10 |  |
 | [Joseando](https://open.spotify.com/track/67Yw5OgtVMoRdOkVSbUXXw) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y) | [Joseando](https://open.spotify.com/album/710PNpZjGyqoN5iFB5QSuc) | 3:24 | 2022-03-11 | 2022-07-08 |
+| [La Chama](https://open.spotify.com/track/2nK8tfg8lRVrzy8IOr5O3Z) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [La Chama](https://open.spotify.com/album/1PqlS6ozoc8TIB8uiiuPUy) | 3:12 | 2022-09-08 |  |
 | [Laguna](https://open.spotify.com/track/6QN9glefJXPoy8vPZLiFL0) | [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y) | [Laguna](https://open.spotify.com/album/6HVsbMOf4kXG3KYBa1KOhD) | 3:31 | 2022-08-05 |  |
 | [Lloro :'\(](https://open.spotify.com/track/4t7l6bftv8c7Go12L0q8eQ) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [Lloro :'\(](https://open.spotify.com/album/6SSfwDHEIaInwRlnFAYiUR) | 2:36 | 2022-03-11 | 2022-04-09 |
 | [Lo Necesario](https://open.spotify.com/track/586Il7FbvVojIL5UVErkkt) | [Apache](https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY), [Akapellah](https://open.spotify.com/artist/6Naxs6HXr5irrzDck6d2Dt) | [Tiempo Mítico](https://open.spotify.com/album/1nABOBtMxTw2gYuBmP9zar) | 5:08 | 2022-05-27 |  |
@@ -59,7 +60,7 @@
 | [Mienteme](https://open.spotify.com/track/1FRXYqJfNWcNCsuvsAPtHa) | [Katie Angel](https://open.spotify.com/artist/0yLrby88zlSxFax5EMnTGf) | [Game Over](https://open.spotify.com/album/1WI4WQY8cAYwofWkmqyZm9) | 2:24 | 2022-03-11 | 2022-04-09 |
 | [Nadie Más](https://open.spotify.com/track/0JKo8scKmgxPNYRciGKuEH) | [Xico](https://open.spotify.com/artist/0WIiW8BkOZHyMTGOAwCCi9) | [Qué te pasa Xico?](https://open.spotify.com/album/2JfJRAJzn37i0JySdKwl3o) | 2:32 | 2022-04-08 |  |
 | [Niña Bonita](https://open.spotify.com/track/4u5xLMRN0dgKBFFN8FiNgv) | [Chino & Nacho](https://open.spotify.com/artist/5NS0854TqZQVoRmJKSWtFZ) | [Mi Niña Bonita \- Reloaded](https://open.spotify.com/album/5WdtDMLZ889QUGhstd0r96) | 3:36 | 2022-03-11 |  |
-| [No La Supero](https://open.spotify.com/track/0PPytieW95AdNjJjJRiGMI) | [Victor & Gabo](https://open.spotify.com/artist/1jF1NAxfzCf1PeWzmVvqsx) | [No La Supero](https://open.spotify.com/album/1rvtmnEsnjJZRmAoq841ux) | 2:44 | 2022-04-08 |  |
+| [No La Supero](https://open.spotify.com/track/0PPytieW95AdNjJjJRiGMI) | [Victor & Gabo](https://open.spotify.com/artist/1jF1NAxfzCf1PeWzmVvqsx) | [No La Supero](https://open.spotify.com/album/1rvtmnEsnjJZRmAoq841ux) | 2:44 | 2022-04-08 | 2022-09-09 |
 | [No Me Quiero Bañar](https://open.spotify.com/track/18SgLagyHDasjpxuoCl6OY) | [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym), [Motherflowers](https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky), [Comida Para Llevar](https://open.spotify.com/artist/6ybUCb9uQ4fd6gtIptuaYO) | [No Me Quiero Bañar](https://open.spotify.com/album/52nWdtSQbxoXqNbiPJEEXE) | 3:28 | 2022-03-11 |  |
 | [Obviamente](https://open.spotify.com/track/3UhsarKtHIgNy55wJxIBgZ) | [Corina Smith](https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8) | [Obviamente](https://open.spotify.com/album/01Atbg1GXw0B132XzXQ1zZ) | 2:49 | 2022-03-11 | 2022-06-11 |
 | [Oh qué será? \(feat\. Irepelusa & Veztalone\)](https://open.spotify.com/track/11jJjmMgj3vNPwuhzEQSC7) | [Willie DeVille](https://open.spotify.com/artist/18vnqu7XJRHPmua3tsejG5), [Orestes Gomez](https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1), [Dromedarios Mágicos](https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw), [Veztalone](https://open.spotify.com/artist/5KhJh3jJOH5EkZiplQLw5h) | [Oh qué será? \(feat\. Irepelusa & Veztalone\)](https://open.spotify.com/album/2bzpJ4PL5yf9kExI3Wdk8A) | 3:10 | 2022-03-11 |  |

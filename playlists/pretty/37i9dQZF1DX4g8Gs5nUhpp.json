@@ -1,33 +1,13 @@
 {
-  "description": "V-Pop \u0111\u00e3 \u0111\u01a1m hoa tr\u00ean nh\u1eefng kh\u00fac ca n\u00e0y. \u1ea2nh b\u00eca: B\u1ea3o Anh",
-  "num_followers": 124570,
+  "description": "V-Pop \u0111\u00e3 \u0111\u01a1m hoa tr\u00ean nh\u1eefng kh\u00fac ca n\u00e0y. \u1ea2nh b\u00eca: Emcee L",
+  "num_followers": 124710,
   "original_name": "V-Pop Kh\u00f4ng Th\u1ec3 Thi\u1ebfu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjQzMjM0NSwwMDAwMDAwMDkwZjFkNjYyODJkZTA3NWM4ZDY5YzE3Y2I4ZmE1MzVl",
+  "snapshot_id": "MTY2MjUyMzA1MCwwMDAwMDAwMGRhNjhmNWUwZGMyZGUyNjA2MzM3YmNjNWI5NWZmY2Jl",
   "tracks": [
-    {
-      "added_at": "2022-09-06 02:45:45",
-      "album": {
-        "name": "Chuy\u1ec7n \u0110\u00f4i Ta (feat. Mu\u1ed9ii)",
-        "url": "https://open.spotify.com/album/5tFSjs5VsM2EwoA2Px6jqo"
-      },
-      "artists": [
-        {
-          "name": "Emcee L (Da LAB)",
-          "url": "https://open.spotify.com/artist/4bPYvyUn1mWwUwIW57oST2"
-        },
-        {
-          "name": "Mu\u1ed9ii",
-          "url": "https://open.spotify.com/artist/1Tdy7LZnrufTyuEbgDi1D8"
-        }
-      ],
-      "duration_ms": 208048,
-      "name": "Chuy\u1ec7n \u0110\u00f4i Ta (feat. Mu\u1ed9ii)",
-      "url": "https://open.spotify.com/track/4CUvVaAYuXtvYURLFz7EIL"
-    },
     {
       "added_at": "2022-09-06 02:45:45",
       "album": {
@@ -47,6 +27,26 @@
       "duration_ms": 269473,
       "name": "T\u1eebng L\u00e0 C\u1ee7a Nhau",
       "url": "https://open.spotify.com/track/5KYv3kORBKUmVEoqbRRWxt"
+    },
+    {
+      "added_at": "2022-09-06 02:45:45",
+      "album": {
+        "name": "Chuy\u1ec7n \u0110\u00f4i Ta (feat. Mu\u1ed9ii)",
+        "url": "https://open.spotify.com/album/5tFSjs5VsM2EwoA2Px6jqo"
+      },
+      "artists": [
+        {
+          "name": "Emcee L (Da LAB)",
+          "url": "https://open.spotify.com/artist/4bPYvyUn1mWwUwIW57oST2"
+        },
+        {
+          "name": "Mu\u1ed9ii",
+          "url": "https://open.spotify.com/artist/1Tdy7LZnrufTyuEbgDi1D8"
+        }
+      ],
+      "duration_ms": 208048,
+      "name": "Chuy\u1ec7n \u0110\u00f4i Ta (feat. Mu\u1ed9ii)",
+      "url": "https://open.spotify.com/track/4CUvVaAYuXtvYURLFz7EIL"
     },
     {
       "added_at": "2022-09-06 02:45:45",
@@ -481,7 +481,7 @@
         },
         {
           "name": "Bon Nghi\u00eam",
-          "url": "https://open.spotify.com/artist/5dGJgwXJYGqoGjXgXWRkYm"
+          "url": "https://open.spotify.com/artist/6hnfLIkvDl6pjlAe1YRGXY"
         }
       ],
       "duration_ms": 300000,

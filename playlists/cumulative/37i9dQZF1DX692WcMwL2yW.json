@@ -952,6 +952,24 @@
     },
     {
       "album": {
+        "name": "Crusher",
+        "url": "https://open.spotify.com/album/4vT7wnlg3P4XpCaEnmRlAB"
+      },
+      "artists": [
+        {
+          "name": "Treyon Dubs",
+          "url": "https://open.spotify.com/artist/4pI8EDlzNqCOIndxbX5RFo"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Crusher",
+      "url": "https://open.spotify.com/track/7cIq5PeAUnSUtRC2JXlkf9"
+    },
+    {
+      "album": {
         "name": "Czar",
         "url": "https://open.spotify.com/album/5k2PGTZx2rzpEubPeA0a2r"
       },
@@ -1483,7 +1501,7 @@
       ],
       "date_added": "2021-04-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 139644,
       "name": "Extra",
       "url": "https://open.spotify.com/track/1m5OGKLquB59mNASxCsvkF"
@@ -2816,6 +2834,24 @@
     },
     {
       "album": {
+        "name": "M it Work / Ya Habibi",
+        "url": "https://open.spotify.com/album/0wlU5ZnbgwBypx9mMbtu5T"
+      },
+      "artists": [
+        {
+          "name": "Push N' Glide",
+          "url": "https://open.spotify.com/artist/6PSNxYsazdREPJeS9XnUjA"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137714,
+      "name": "M it Work",
+      "url": "https://open.spotify.com/track/5p638kC9qKj6cB2HIZBAri"
+    },
+    {
+      "album": {
         "name": "Magic",
         "url": "https://open.spotify.com/album/2LQy68m6YTDS0sGlJeLbWr"
       },
@@ -2853,6 +2889,24 @@
       "duration_ms": 145666,
       "name": "Make It Back",
       "url": "https://open.spotify.com/track/69lMNhktHR6IqWII4hmkfv"
+    },
+    {
+      "album": {
+        "name": "Hinside",
+        "url": "https://open.spotify.com/album/7HEqoEzcNiBk5yOy8jC6ic"
+      },
+      "artists": [
+        {
+          "name": "ZLZL",
+          "url": "https://open.spotify.com/artist/3IWEZyFoZPDgwRtQOCvox7"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194861,
+      "name": "Maldini",
+      "url": "https://open.spotify.com/track/5aikcSvNGtB1sDfRBQucZk"
     },
     {
       "album": {
@@ -4213,7 +4267,7 @@
       ],
       "date_added": "2021-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 292850,
       "name": "Something Lite",
       "url": "https://open.spotify.com/track/7KkEtOKkGLZ68sM4LGXx0f"
@@ -4375,7 +4429,7 @@
       ],
       "date_added": "2021-04-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 104470,
       "name": "Summertimes",
       "url": "https://open.spotify.com/track/1t8fB7vpw6WY82MzzSu5EC"
@@ -4667,7 +4721,7 @@
       ],
       "date_added": "2021-04-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 138260,
       "name": "The Riddle of the Record",
       "url": "https://open.spotify.com/track/0RYIUB2SNWbr9CEEWL9tVW"
@@ -5269,7 +5323,7 @@
       ],
       "date_added": "2021-04-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 243937,
       "name": "Wonderland",
       "url": "https://open.spotify.com/track/7IpMCQSwhwQOjb8cHr7ViV"

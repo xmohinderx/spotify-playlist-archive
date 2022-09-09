@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels, updated every Wednesday. Cover: Nyco, Artwork: Isu Kim.\n",
+  "description": "The best new music by independent artists and labels, updated every Wednesday. Cover: Berglind, Artwork: Isu Kim.\n",
   "name": "Fresh Finds GSA",
   "published_playlist_ids": [
     "769sf2A9Kk835wCxbodHwy"
@@ -211,6 +211,24 @@
       "duration_ms": 220792,
       "name": "A Stranger",
       "url": "https://open.spotify.com/track/4JiRlwd4dO0UnCcWh8LT6a"
+    },
+    {
+      "album": {
+        "name": "Acid Feelings",
+        "url": "https://open.spotify.com/album/3pa8bw0wupP5r1oXoyJKMi"
+      },
+      "artists": [
+        {
+          "name": "Tim Etzel",
+          "url": "https://open.spotify.com/artist/2uv227wjA5bJO6RrXJsaXu"
+        }
+      ],
+      "date_added": "2022-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 423657,
+      "name": "Acid Feelings",
+      "url": "https://open.spotify.com/track/7FSz11IOD60nLjWs3KjxRz"
     },
     {
       "album": {
@@ -795,6 +813,24 @@
       "duration_ms": 171188,
       "name": "Blaulicht (Demo)",
       "url": "https://open.spotify.com/track/7xyljlDai5yU4rDZAC5SkF"
+    },
+    {
+      "album": {
+        "name": "Bleib",
+        "url": "https://open.spotify.com/album/00E9UOFiiHLlzdbLM04o2j"
+      },
+      "artists": [
+        {
+          "name": "Berglind",
+          "url": "https://open.spotify.com/artist/2tJWpZysbUxzTqBmxtN8WY"
+        }
+      ],
+      "date_added": "2022-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166522,
+      "name": "Bleib",
+      "url": "https://open.spotify.com/track/42m4ZMTXkYlAk6D8y5JUoY"
     },
     {
       "album": {
@@ -1547,7 +1583,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 358119,
       "name": "Die Nacht ist Schwarz",
       "url": "https://open.spotify.com/track/3TbKfhV2fdLLc6uvn6sX0U"
@@ -1857,7 +1893,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 193438,
       "name": "Ein Schritt zur\u00fcck",
       "url": "https://open.spotify.com/track/7xLrDrKrgYEi6yj5TcQQOR"
@@ -2200,6 +2236,24 @@
     },
     {
       "album": {
+        "name": "Fick dich hart",
+        "url": "https://open.spotify.com/album/5veX9WGPhDKMIsojUgmcXz"
+      },
+      "artists": [
+        {
+          "name": "Zucker",
+          "url": "https://open.spotify.com/artist/1ImrQek1G4x5F8QJIGk5Cv"
+        }
+      ],
+      "date_added": "2022-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200527,
+      "name": "Fick dich hart",
+      "url": "https://open.spotify.com/track/6FaGiO9VON1SbPcrk4NNCb"
+    },
+    {
+      "album": {
         "name": "Flatterndes Herz",
         "url": "https://open.spotify.com/album/7wMRjqu90pwlGDMXijXOTp"
       },
@@ -2251,6 +2305,24 @@
       "duration_ms": 176785,
       "name": "Foolmoon",
       "url": "https://open.spotify.com/track/6yOvkJyCbf96mSuAXd1TcD"
+    },
+    {
+      "album": {
+        "name": "For My Ego",
+        "url": "https://open.spotify.com/album/4HFv7OAblnGKQTDFPekoIv"
+      },
+      "artists": [
+        {
+          "name": "Softlander",
+          "url": "https://open.spotify.com/artist/1e9jsGUOvtzJHyTdKZQ11g"
+        }
+      ],
+      "date_added": "2022-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255095,
+      "name": "For My Ego",
+      "url": "https://open.spotify.com/track/0D0XravH6Ou1TxOhBilHfE"
     },
     {
       "album": {
@@ -2345,6 +2417,28 @@
       "duration_ms": 231302,
       "name": "Gemini - Ocean Edit",
       "url": "https://open.spotify.com/track/7jL8WUz7wuko9csqPjElyJ"
+    },
+    {
+      "album": {
+        "name": "Gems",
+        "url": "https://open.spotify.com/album/4soYjUadgdrntZ2UO8Mfhq"
+      },
+      "artists": [
+        {
+          "name": "solace",
+          "url": "https://open.spotify.com/artist/32LxmyBIxJfyaY0VCdOS1L"
+        },
+        {
+          "name": "SHILLA",
+          "url": "https://open.spotify.com/artist/47jOxa97HIq8aple4N9SGt"
+        }
+      ],
+      "date_added": "2022-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93176,
+      "name": "Gems",
+      "url": "https://open.spotify.com/track/5jripRjpdpzIkkhqG6k6jC"
     },
     {
       "album": {
@@ -2595,6 +2689,24 @@
       "duration_ms": 149253,
       "name": "Gravedigger",
       "url": "https://open.spotify.com/track/65pHyuLVSdpjJNhf27H0Rh"
+    },
+    {
+      "album": {
+        "name": "Casa Casata",
+        "url": "https://open.spotify.com/album/6n263kqICjMqeQ17HJYbnX"
+      },
+      "artists": [
+        {
+          "name": "Mella Casata",
+          "url": "https://open.spotify.com/artist/4Zc9Hs5BFdCOGSGk8KELzB"
+        }
+      ],
+      "date_added": "2022-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143329,
+      "name": "Green Lights",
+      "url": "https://open.spotify.com/track/7FTVNbeaOuCGiV4v5G3Xzb"
     },
     {
       "album": {
@@ -3799,7 +3911,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 266538,
       "name": "Lavandin",
       "url": "https://open.spotify.com/track/5IZGF3cNuSXNOx6avWw1kZ"
@@ -4023,7 +4135,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 181764,
       "name": "Lost in Relations",
       "url": "https://open.spotify.com/track/5SFs9rhmjybV70WufW6luM"
@@ -4095,7 +4207,7 @@
       ],
       "date_added": "2022-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 301000,
       "name": "Love Letter",
       "url": "https://open.spotify.com/track/1eEQEdo6HZogMZtlrtPAUY"
@@ -4113,7 +4225,7 @@
       ],
       "date_added": "2022-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 167400,
       "name": "Lullaby",
       "url": "https://open.spotify.com/track/5E098JvWYE6cia9YEH3q6T"
@@ -4239,7 +4351,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 161288,
       "name": "Mehr",
       "url": "https://open.spotify.com/track/4lgi1NMBdcqoIb2DDMdRHk"
@@ -5090,6 +5202,24 @@
     },
     {
       "album": {
+        "name": "Exploration Days",
+        "url": "https://open.spotify.com/album/7s3BudRsn2zfw4kyDnDyYt"
+      },
+      "artists": [
+        {
+          "name": "Marlin Beach",
+          "url": "https://open.spotify.com/artist/2CQY4RqvDLxeonCYx17jjW"
+        }
+      ],
+      "date_added": "2022-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200826,
+      "name": "Personal",
+      "url": "https://open.spotify.com/track/3pu4Fbf0JEQbZS0fDaGOD8"
+    },
+    {
+      "album": {
         "name": "Perspectives",
         "url": "https://open.spotify.com/album/5bcJJGn400gxmNwBbJXTts"
       },
@@ -5461,7 +5591,7 @@
       ],
       "date_added": "2022-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 182462,
       "name": "Red Clay",
       "url": "https://open.spotify.com/track/0XOrjjmWhUa8dZ6usJFNKE"
@@ -5981,7 +6111,7 @@
       ],
       "date_added": "2022-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 257466,
       "name": "Sister Blue",
       "url": "https://open.spotify.com/track/4WemufqMohgSZrNOWYzs89"
@@ -6093,7 +6223,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 202087,
       "name": "So Easy",
       "url": "https://open.spotify.com/track/58X3Z1oPvb4ajMDVz29aFb"
@@ -6549,6 +6679,24 @@
       "duration_ms": 334615,
       "name": "Supermarkt",
       "url": "https://open.spotify.com/track/18AM2pDpat41hGkqNdoR7O"
+    },
+    {
+      "album": {
+        "name": "Superstitious Thoughts EP",
+        "url": "https://open.spotify.com/album/0Fa9rAVo45sYENGM0PVatb"
+      },
+      "artists": [
+        {
+          "name": "Skatman",
+          "url": "https://open.spotify.com/artist/79K6YRpx6Q5HZJfxxcDq58"
+        }
+      ],
+      "date_added": "2022-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356125,
+      "name": "Superstitious Thoughts",
+      "url": "https://open.spotify.com/track/4ZoggoHYM0Ll0jDOPeKPsU"
     },
     {
       "album": {
@@ -7252,6 +7400,24 @@
     },
     {
       "album": {
+        "name": "Uptight Dance",
+        "url": "https://open.spotify.com/album/27xDNLAPM7ygTrd1cK1PQq"
+      },
+      "artists": [
+        {
+          "name": "Masha The Rich Man",
+          "url": "https://open.spotify.com/artist/01bOHiL5TsXTx9dZu9gG15"
+        }
+      ],
+      "date_added": "2022-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182898,
+      "name": "Uptight Dance",
+      "url": "https://open.spotify.com/track/1IwLd7XPBJMCgkXfEPJW4G"
+    },
+    {
+      "album": {
         "name": "Vermiss mich",
         "url": "https://open.spotify.com/album/4vbOK1LYHKPzWblVWGDWpA"
       },
@@ -7901,6 +8067,24 @@
       "duration_ms": 226108,
       "name": "You Fall in Love Too Easily",
       "url": "https://open.spotify.com/track/16dam6afpsO5q8NDwq1z6m"
+    },
+    {
+      "album": {
+        "name": "You Got Me",
+        "url": "https://open.spotify.com/album/1sb8IuR5crCDL72ICEoCdR"
+      },
+      "artists": [
+        {
+          "name": "DJ Piper",
+          "url": "https://open.spotify.com/artist/5XhDw44AriiKxTl7Q7kIMQ"
+        }
+      ],
+      "date_added": "2022-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148076,
+      "name": "You Got Me",
+      "url": "https://open.spotify.com/track/28bBwCM8Uyc10LPYQYdeRU"
     },
     {
       "album": {

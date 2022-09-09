@@ -4,7 +4,7 @@
 
 > Weird year overall, but great for indie\. Editors' picks of the best tracks of the year\. Cover: Phoebe Bridgers
 
-134 songs - 7 hr 51 min - [published](https://open.spotify.com/playlist/1Pjd800VkqQ5UHpr6EEuIh)
+135 songs - 7 hr 52 min - [published](https://open.spotify.com/playlist/1Pjd800VkqQ5UHpr6EEuIh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,7 +110,8 @@
 | [Sharpener](https://open.spotify.com/track/2aReOPqi6NjhJ8zxa0Mi2D) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Sharpener](https://open.spotify.com/album/3MxrCAA1Z5FOaqdqOaiFYz) | 3:57 | 2020-12-01 |  |
 | [Someone](https://open.spotify.com/track/15M7rUKWxfg4YZwczUhlkb) | [Gabriel Garzón\-Montano](https://open.spotify.com/artist/1R4GxRuSVTPSb6oy56SPST) | [Agüita](https://open.spotify.com/album/51kUBshxb3ZJGICNNwJUcH) | 3:41 | 2020-12-01 |  |
 | [Someone](https://open.spotify.com/track/3zBHER77TmCpe4IbjGH6Ty) | [Gabriel Garzón\-Montano](https://open.spotify.com/artist/1R4GxRuSVTPSb6oy56SPST) | [Agüita](https://open.spotify.com/album/0EYeCdEufuv5e94Vxd75rn) | 3:41 | 2020-12-01 | 2022-07-29 |
-| [Song 33](https://open.spotify.com/track/1LvDHPfTpEMjgox22jxqSW) | [Noname](https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy) | [Song 33](https://open.spotify.com/album/4fnskLfn51HHG1QDMOqmfy) | 1:09 | 2020-12-01 |  |
+| [Song 33](https://open.spotify.com/track/1LvDHPfTpEMjgox22jxqSW) | [Noname](https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy) | [Song 33](https://open.spotify.com/album/4fnskLfn51HHG1QDMOqmfy) | 1:09 | 2020-12-01 | 2022-09-09 |
+| [Song 33](https://open.spotify.com/track/7q2qIiyGs9yMUPA8a3nVLD) | [Noname](https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy) | [Song 33](https://open.spotify.com/album/2BZLPxra08o2MLsAeEGYxA) | 1:09 | 2020-12-01 |  |
 | [Sore Throat](https://open.spotify.com/track/28klpa8QdmdIFRA07yAFpg) | [Zack Villere](https://open.spotify.com/artist/5jLbQGcvxehi2Z6qkUP9Rh) | [Cardboard City](https://open.spotify.com/album/6lije8Un2RVChkC0aI7k7B) | 2:01 | 2020-12-01 |  |
 | [Stay Alive](https://open.spotify.com/track/1COWb4m8g8jY7fi3wXzo5b) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Stay Alive](https://open.spotify.com/album/17ibSQkQUrD4LQ0uZSyQ7H) | 3:01 | 2020-12-01 | 2022-07-29 |
 | [Stay Alive](https://open.spotify.com/track/4SwVWcia2JyWFTNHkFZ2tA) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [When Smoke Rises](https://open.spotify.com/album/0iPWPiOsdGaWgcy9RMpvXw) | 3:01 | 2020-12-01 |  |

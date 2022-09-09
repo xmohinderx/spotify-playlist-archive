@@ -1,13 +1,29 @@
 {
-  "description": "Alternative Arabic songs. Cover: Ghaliaa.",
-  "num_followers": 52083,
+  "description": "Alternative Arabic songs. Cover: Bigsam.",
+  "num_followers": 52141,
   "original_name": "Arab Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjM3OTc2OSwwMDAwMDAwMDYwMjdjZGEwMGE5YThiOGJkZWZmMWI4YzA3YWUyMDMz",
+  "snapshot_id": "MTY2MjYyMTg4OCwwMDAwMDAwMDYxN2JkODY0MzlmZWFjNjJkMDAzYTVhOTJlNTcyY2I4",
   "tracks": [
+    {
+      "added_at": "2022-09-08 07:24:48",
+      "album": {
+        "name": "\u063a\u0627\u064a\u0628",
+        "url": "https://open.spotify.com/album/4aoHITm8BSyqKTXobNQ6mR"
+      },
+      "artists": [
+        {
+          "name": "Bigsam",
+          "url": "https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8"
+        }
+      ],
+      "duration_ms": 238561,
+      "name": "\u063a\u0627\u064a\u0628",
+      "url": "https://open.spotify.com/track/6murO5dlAsmNoxv8JjlRYJ"
+    },
     {
       "added_at": "2022-09-05 12:09:29",
       "album": {

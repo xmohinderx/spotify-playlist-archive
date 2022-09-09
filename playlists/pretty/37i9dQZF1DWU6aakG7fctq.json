@@ -1,12 +1,12 @@
 {
   "description": "Fresh Latin Indie. Cover: Selene",
-  "num_followers": 502033,
+  "num_followers": 502127,
   "original_name": "el nuevo indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjQ4NDI4NSwwMDAwMDAwMGI0MDk4NGI4OTMwYzdiOWMyZjAxM2RlODJlYzVhYzZj",
+  "snapshot_id": "MTY2MjQ4NDI4NSwwMDAwMDAwMDBkYTk5MWUyMTI2OTY4NjUzMTU0NmI1M2Y0NGNjMjVk",
   "tracks": [
     {
       "added_at": "2022-09-06 17:11:25",
@@ -419,22 +419,6 @@
     {
       "added_at": "2022-09-06 17:11:25",
       "album": {
-        "name": "Yours",
-        "url": "https://open.spotify.com/album/0aMCgryYtjpLrk4FhcTSU9"
-      },
-      "artists": [
-        {
-          "name": "maye",
-          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
-        }
-      ],
-      "duration_ms": 220887,
-      "name": "Yours",
-      "url": "https://open.spotify.com/track/0gmStTUTuiU807EB4KafOX"
-    },
-    {
-      "added_at": "2022-09-06 17:11:25",
-      "album": {
         "name": "Care For You",
         "url": "https://open.spotify.com/album/4ENFZsf6OIKxck9I6gUwrk"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 156026,
       "name": "Care For You",
       "url": "https://open.spotify.com/track/2CBtdZVcpSwaxOcLUi1AGo"
+    },
+    {
+      "added_at": "2022-09-06 17:11:25",
+      "album": {
+        "name": "Yours",
+        "url": "https://open.spotify.com/album/0aMCgryYtjpLrk4FhcTSU9"
+      },
+      "artists": [
+        {
+          "name": "maye",
+          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
+        }
+      ],
+      "duration_ms": 220887,
+      "name": "Yours",
+      "url": "https://open.spotify.com/track/0gmStTUTuiU807EB4KafOX"
     },
     {
       "added_at": "2022-09-06 17:11:25",
@@ -719,22 +719,6 @@
     {
       "added_at": "2022-09-06 17:11:25",
       "album": {
-        "name": "Amante",
-        "url": "https://open.spotify.com/album/1oHRJevcSdW6KVVZH81Uuk"
-      },
-      "artists": [
-        {
-          "name": "Casandra Paz",
-          "url": "https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ"
-        }
-      ],
-      "duration_ms": 231154,
-      "name": "Amante",
-      "url": "https://open.spotify.com/track/63ItGyBtbfsR2zXTIxQZBz"
-    },
-    {
-      "added_at": "2022-09-06 17:11:25",
-      "album": {
         "name": "Mal Hecha (Deluxe)",
         "url": "https://open.spotify.com/album/6n2KkPuOhM14eWLPuUipwP"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 137096,
       "name": "Hear Me Out",
       "url": "https://open.spotify.com/track/43u76RiZEjdtuEWar9ItUb"
+    },
+    {
+      "added_at": "2022-09-06 17:11:25",
+      "album": {
+        "name": "Amante",
+        "url": "https://open.spotify.com/album/1oHRJevcSdW6KVVZH81Uuk"
+      },
+      "artists": [
+        {
+          "name": "Casandra Paz",
+          "url": "https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ"
+        }
+      ],
+      "duration_ms": 231154,
+      "name": "Amante",
+      "url": "https://open.spotify.com/track/63ItGyBtbfsR2zXTIxQZBz"
     },
     {
       "added_at": "2022-09-06 17:11:25",
@@ -859,18 +859,22 @@
     {
       "added_at": "2022-09-06 17:11:25",
       "album": {
-        "name": "Querer Querer",
-        "url": "https://open.spotify.com/album/60DFkAltGtzAmoSgfyU9J3"
+        "name": "Mal Hecha (Deluxe)",
+        "url": "https://open.spotify.com/album/6n2KkPuOhM14eWLPuUipwP"
       },
       "artists": [
         {
-          "name": "Technicolor Fabrics",
-          "url": "https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl"
+          "name": "KORDELYA",
+          "url": "https://open.spotify.com/artist/3JmbGjGpi55FRnjvjH9ljV"
+        },
+        {
+          "name": "Jesse Baez",
+          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
         }
       ],
-      "duration_ms": 183609,
-      "name": "Nunca Es Tarde",
-      "url": "https://open.spotify.com/track/4FHBc6Z61kNSrXVYFYDEwb"
+      "duration_ms": 197768,
+      "name": "s a l u d o s",
+      "url": "https://open.spotify.com/track/1gEBRuOemkKubufvFmF0pE"
     },
     {
       "added_at": "2022-09-06 17:11:25",
@@ -891,22 +895,18 @@
     {
       "added_at": "2022-09-06 17:11:25",
       "album": {
-        "name": "Mal Hecha (Deluxe)",
-        "url": "https://open.spotify.com/album/6n2KkPuOhM14eWLPuUipwP"
+        "name": "Querer Querer",
+        "url": "https://open.spotify.com/album/60DFkAltGtzAmoSgfyU9J3"
       },
       "artists": [
         {
-          "name": "KORDELYA",
-          "url": "https://open.spotify.com/artist/3JmbGjGpi55FRnjvjH9ljV"
-        },
-        {
-          "name": "Jesse Baez",
-          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
+          "name": "Technicolor Fabrics",
+          "url": "https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl"
         }
       ],
-      "duration_ms": 197768,
-      "name": "s a l u d o s",
-      "url": "https://open.spotify.com/track/1gEBRuOemkKubufvFmF0pE"
+      "duration_ms": 183609,
+      "name": "Nunca Es Tarde",
+      "url": "https://open.spotify.com/track/4FHBc6Z61kNSrXVYFYDEwb"
     },
     {
       "added_at": "2022-09-06 17:11:25",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2022-09-06 17:11:25",
       "album": {
-        "name": "Invisible People",
-        "url": "https://open.spotify.com/album/2sS14o33EFyvcUPu2dfPOT"
-      },
-      "artists": [
-        {
-          "name": "Chicano Batman",
-          "url": "https://open.spotify.com/artist/0LklyUMMUhpIjMgYHlV0hN"
-        }
-      ],
-      "duration_ms": 217840,
-      "name": "Moment of Joy",
-      "url": "https://open.spotify.com/track/3GLGwjylUfM2quQzK07EY5"
-    },
-    {
-      "added_at": "2022-09-06 17:11:25",
-      "album": {
         "name": "Aeroplanos",
         "url": "https://open.spotify.com/album/2V5rVAdsjlL4fiwHzbQ1OG"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 239719,
       "name": "Aeroplanos",
       "url": "https://open.spotify.com/track/2uTOK71u7nWtvDQky4wyEx"
+    },
+    {
+      "added_at": "2022-09-06 17:11:25",
+      "album": {
+        "name": "Invisible People",
+        "url": "https://open.spotify.com/album/2sS14o33EFyvcUPu2dfPOT"
+      },
+      "artists": [
+        {
+          "name": "Chicano Batman",
+          "url": "https://open.spotify.com/artist/0LklyUMMUhpIjMgYHlV0hN"
+        }
+      ],
+      "duration_ms": 217840,
+      "name": "Moment of Joy",
+      "url": "https://open.spotify.com/track/3GLGwjylUfM2quQzK07EY5"
     },
     {
       "added_at": "2022-09-06 17:11:25",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2022-09-06 17:11:25",
       "album": {
-        "name": "Me cans\u00e9 de hacer canciones (que no salgan si no estoy llorando)",
-        "url": "https://open.spotify.com/album/3BQJmgCqlUfOy6dfRytlsw"
-      },
-      "artists": [
-        {
-          "name": "Paz Carrara",
-          "url": "https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg"
-        }
-      ],
-      "duration_ms": 199052,
-      "name": "Tarde",
-      "url": "https://open.spotify.com/track/7D4se6J5kxfuJUF6BeTo71"
-    },
-    {
-      "added_at": "2022-09-06 17:11:25",
-      "album": {
         "name": "Escaparnos",
         "url": "https://open.spotify.com/album/2vLW1oE1LgQnyVFwRI0fo7"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 205040,
       "name": "Escaparnos",
       "url": "https://open.spotify.com/track/3XA8AUMd7XzjcDKM8OYKvp"
+    },
+    {
+      "added_at": "2022-09-06 17:11:25",
+      "album": {
+        "name": "Me cans\u00e9 de hacer canciones (que no salgan si no estoy llorando)",
+        "url": "https://open.spotify.com/album/3BQJmgCqlUfOy6dfRytlsw"
+      },
+      "artists": [
+        {
+          "name": "Paz Carrara",
+          "url": "https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg"
+        }
+      ],
+      "duration_ms": 199052,
+      "name": "Tarde",
+      "url": "https://open.spotify.com/track/7D4se6J5kxfuJUF6BeTo71"
     }
   ],
   "unique_name": "el nuevo indie",

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2mmt7R81K2b.md) - [plain]
 
 > Where jazz meets classical, and classical meets jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 264,549 likes - 46 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 264,642 likes - 46 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Beethoven's Piano Sonata No\. 8, Pathetique](https://open.spotify.com/track/08kouBwoppDP70MmwiNUPr) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc), [Anthony Jackson](https://open.spotify.com/artist/4jSvNq6yedPhkC4p3zlznC), [Simon Phillips](https://open.spotify.com/artist/1OGCS507PQzgLappLg26AK) | [Voice](https://open.spotify.com/album/26WGFrTj3fwGJysohbdK04) | 5:13 |
+| 1 | [Beethoven's Piano Sonata No\. 8, Pathetique](https://open.spotify.com/track/08kouBwoppDP70MmwiNUPr) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc), [Anthony Jackson](https://open.spotify.com/artist/4jSvNq6yedPhkC4p3zlznC), [Simon Phillips](https://open.spotify.com/artist/6pPx8jYe1vzHuQea1st8Iy) | [Voice](https://open.spotify.com/album/26WGFrTj3fwGJysohbdK04) | 5:13 |
 | 2 | [Clair de Lune](https://open.spotify.com/track/273VxALm722DRN4PNujOF8) | [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU) | [The Epic](https://open.spotify.com/album/2j2q2ySuVk43eHB8wI5XQj) | 11:07 |
 | 3 | [Variation 25 \(From J.S\. Bach: Goldberg Variations, BWV 988\)](https://open.spotify.com/track/6FCsAVLJWMamkoglmADxS6) | [Marcin Wasilewski Trio](https://open.spotify.com/artist/2UGL8QDKTSVXMqZqQR8DRL) | [En attendant](https://open.spotify.com/album/5StrH1ERbMpncR1LR5xWfv) | 7:11 |
 | 4 | [Gnossienne No\. 1](https://open.spotify.com/track/5mjFeu4fGH6RgpklX4vAAs) | [Cyrus Chestnut](https://open.spotify.com/artist/319U6LVt3j3iT9oAEzrpRO) | [Kaleidoscope](https://open.spotify.com/album/2rSm26o6ns4fvS9achkJ2b) | 6:56 |

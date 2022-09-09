@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 632267,
       "name": "1988 - Original Mix",
       "url": "https://open.spotify.com/track/68YRdMv167zby0ceobW8em"
@@ -287,7 +287,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 147874,
       "name": "Afternoon",
       "url": "https://open.spotify.com/track/7bLHWQicZFxR1dkvYrYNCj"
@@ -349,7 +349,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-31",
+      "date_removed": null,
       "duration_ms": 248737,
       "name": "All Of Us",
       "url": "https://open.spotify.com/track/1a1EL7PABTujajg6YwsOk2"
@@ -1273,7 +1273,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 182094,
       "name": "Don't Go",
       "url": "https://open.spotify.com/track/4oTdNr3HqBhV685cOpnRLM"
@@ -1533,6 +1533,28 @@
       "duration_ms": 192000,
       "name": "fancy_data",
       "url": "https://open.spotify.com/track/0a4Nn45rgxlUaP3IiUILXD"
+    },
+    {
+      "album": {
+        "name": "Go_computer",
+        "url": "https://open.spotify.com/album/6kfeEnnnwH8dxXznfZbnzh"
+      },
+      "artists": [
+        {
+          "name": "Allem Iversom",
+          "url": "https://open.spotify.com/artist/6RaUtVLO8R5TsVdJIxSrq1"
+        },
+        {
+          "name": "Zane Schaffer",
+          "url": "https://open.spotify.com/artist/1stp6XCHbjsyVmOYGyYBuz"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192004,
+      "name": "fancy_data",
+      "url": "https://open.spotify.com/track/6BRdWpgnxgH5QCGYdc304A"
     },
     {
       "album": {
@@ -1919,7 +1941,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 152307,
       "name": "In The Air",
       "url": "https://open.spotify.com/track/4ub1JODSX5rGlcKhckbRgM"
@@ -2409,7 +2431,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-09",
+      "date_removed": null,
       "duration_ms": 89262,
       "name": "Luminescence",
       "url": "https://open.spotify.com/track/0pDug97KNMJ7EqT4GdIBeC"
@@ -2749,6 +2771,24 @@
     {
       "album": {
         "name": "Culture",
+        "url": "https://open.spotify.com/album/24BipwyBivjGOMXSJQAJGq"
+      },
+      "artists": [
+        {
+          "name": "Breach",
+          "url": "https://open.spotify.com/artist/2MMkuQE0f6CDaamJdWXaCC"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 443217,
+      "name": "Nico",
+      "url": "https://open.spotify.com/track/2VS6CRgA68sO4NQLM1s7IU"
+    },
+    {
+      "album": {
+        "name": "Culture",
         "url": "https://open.spotify.com/album/3y0ulDKE7OQQ6hJs7XkXN9"
       },
       "artists": [
@@ -2897,7 +2937,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 274500,
       "name": "Nothin'",
       "url": "https://open.spotify.com/track/23HdAGg306Kfm5mpaS9taX"
@@ -2919,6 +2959,24 @@
       "duration_ms": 134400,
       "name": "Observatory",
       "url": "https://open.spotify.com/track/03cokFHBxSgFZxfVJ0N8U6"
+    },
+    {
+      "album": {
+        "name": "Observatory",
+        "url": "https://open.spotify.com/album/0XuLa3kPxRlThLGCkNni0r"
+      },
+      "artists": [
+        {
+          "name": "Max Fry",
+          "url": "https://open.spotify.com/artist/3P01oaWiEJ2uI7ZwUuaMNy"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134400,
+      "name": "Observatory",
+      "url": "https://open.spotify.com/track/6IbVND7VnLo5wVDAFZs5Tf"
     },
     {
       "album": {
@@ -3233,6 +3291,24 @@
       "duration_ms": 112840,
       "name": "Prelude",
       "url": "https://open.spotify.com/track/1q1p0bsfEgqXDEWo1kx363"
+    },
+    {
+      "album": {
+        "name": "DANCEHALL",
+        "url": "https://open.spotify.com/album/4Ekdf8v7lFV5c3zIdtpyjY"
+      },
+      "artists": [
+        {
+          "name": "The Blaze",
+          "url": "https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234680,
+      "name": "QUEENS",
+      "url": "https://open.spotify.com/track/2Y7pSUrb0frmy9vKVHUlOg"
     },
     {
       "album": {
@@ -3871,7 +3947,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-03",
+      "date_removed": null,
       "duration_ms": 234648,
       "name": "Silver",
       "url": "https://open.spotify.com/track/72CTYTm92JiZjJfZwHrV4n"
@@ -4027,7 +4103,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 207000,
       "name": "Stay (feat. Dive Deep) - Machinedrum Remix",
       "url": "https://open.spotify.com/track/4Zdd7X7z6HWOBNEaVxZwtR"
@@ -4177,6 +4253,32 @@
       "duration_ms": 213197,
       "name": "Take Over You - Perttu Remix",
       "url": "https://open.spotify.com/track/0AJweQJITpq4cOKap791fX"
+    },
+    {
+      "album": {
+        "name": "Take over You (Remixes)",
+        "url": "https://open.spotify.com/album/43SzTI9Ti7QFl4LZ0WAF6I"
+      },
+      "artists": [
+        {
+          "name": "KASPERG",
+          "url": "https://open.spotify.com/artist/1KCbJUJMBMWPE0n3jskSz8"
+        },
+        {
+          "name": "Joey Cass",
+          "url": "https://open.spotify.com/artist/2jb5SbSrV4BSAq7Z8Vyrpl"
+        },
+        {
+          "name": "Perttu",
+          "url": "https://open.spotify.com/artist/1letzwegdFBTvoyJFSu8zK"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213197,
+      "name": "Take over You - Perttu Remix",
+      "url": "https://open.spotify.com/track/7EcCQa5yVa8pMXM0B43rxw"
     },
     {
       "album": {

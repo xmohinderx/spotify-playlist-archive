@@ -4,7 +4,7 @@
 
 > Songs of the crossroads and "that old evil spirit"—from Robert Johnson to John Mayer, from early blues to new Americana.
 
-70 songs - 4 hr 2 min - [published](https://open.spotify.com/playlist/4QbJPlJtPYPvpuNwU9wxi8)
+71 songs - 4 hr 5 min - [published](https://open.spotify.com/playlist/4QbJPlJtPYPvpuNwU9wxi8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,8 @@
 | [Old Devil Moon](https://open.spotify.com/track/4Wz4prIbO0DgoVPpMINaHs) | [Mickey Baker](https://open.spotify.com/artist/2PnyEnxPA8H95IhFEBu5u7) | [The Wildest Guitar](https://open.spotify.com/album/14nCld5W2PoK9Bevapchzv) | 2:47 | 2020-11-13 |  |
 | [Old devils](https://open.spotify.com/track/5cNvmC1jEnA6QwnOvHpUo7) | [William Elliott Whitmore](https://open.spotify.com/artist/55N838yCXjxLVkBkIM5pnf) | [Animals In The Dark](https://open.spotify.com/album/5oD05jbDmF4rIENz7te94J) | 3:38 | 2020-11-13 |  |
 | [Preachin' Blues \(Up Jumped the Devil\)](https://open.spotify.com/track/4pEZg4zQFcJ1jdboMYTYf9) | [Robert Johnson](https://open.spotify.com/artist/0f8MDDzIc6M4uH1xH0o0gy) | [King Of The Delta Blues Singers](https://open.spotify.com/album/2IWaNq5o4tG1w6yxve5BMU) | 2:52 | 2020-11-13 |  |
-| [Restless Sinner](https://open.spotify.com/track/4qrUQuQ2Nt9jgZW99rBcbo) | [Black Rebel Motorcycle Club](https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G) | [Howl](https://open.spotify.com/album/3otJWr2xpdvZJGNS303RCZ) | 3:11 | 2020-11-13 |  |
+| [Restless Sinner](https://open.spotify.com/track/2HVIkeN6RFE0nGiydxIP4I) | [Black Rebel Motorcycle Club](https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G) | [Howl](https://open.spotify.com/album/5yTFClS2dEGZD5IjM9dfrT) | 3:11 | 2020-11-13 |  |
+| [Restless Sinner](https://open.spotify.com/track/4qrUQuQ2Nt9jgZW99rBcbo) | [Black Rebel Motorcycle Club](https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G) | [Howl](https://open.spotify.com/album/3otJWr2xpdvZJGNS303RCZ) | 3:11 | 2020-11-13 | 2022-09-09 |
 | [Say No to the Devil](https://open.spotify.com/track/0aYS1D1hSqQXinxawgOHLy) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [If I Had My Way: Early Home Recordings](https://open.spotify.com/album/59aeoDXr1SZjDRJNqOl3J7) | 3:20 | 2020-11-13 |  |
 | [Seven Hells](https://open.spotify.com/track/1mpkTTUxWTB3FlO2OlRIB4) | [Brown Bird](https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP) | [Fits of Reason](https://open.spotify.com/album/7ea69Z9iyvseW29vS3bF4V) | 3:19 | 2020-11-13 |  |
 | [Shake Hands With The Devil](https://open.spotify.com/track/6N9EEC8c1I4X8FRMmyN4cu) | [Kenny Parker](https://open.spotify.com/artist/4hstkiGUdRmYQdoJllXPhR) | [Raise The Dead](https://open.spotify.com/album/0KWoKgu11Rk25DOdvDXMlR) | 6:49 | 2020-11-13 |  |

@@ -1129,7 +1129,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 174946,
       "name": "Mm Mm - Acoustic Version",
       "url": "https://open.spotify.com/track/0XSKOtWYAz9MaVPHCfJtTu"
@@ -2017,7 +2017,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 210840,
       "name": "To My Friend",
       "url": "https://open.spotify.com/track/3v7xLuhQtnm74cJBASJ9eZ"
@@ -2212,6 +2212,24 @@
     },
     {
       "album": {
+        "name": "Willow Tree",
+        "url": "https://open.spotify.com/album/1LKOq183x8IFXn6KRcUd3B"
+      },
+      "artists": [
+        {
+          "name": "Darin",
+          "url": "https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279610,
+      "name": "Willow Tree",
+      "url": "https://open.spotify.com/track/5rT4CDlXDE0IHXCPspWjic"
+    },
+    {
+      "album": {
         "name": "With All My Heart (with Hyunseo Park)",
         "url": "https://open.spotify.com/album/6MlBCRZmAcwrXQuHZLEiqj"
       },
@@ -2357,6 +2375,24 @@
       "duration_ms": 233284,
       "name": "\ub0b4 \uc0ac\ub791 \ub0b4 \uacc1\uc5d0",
       "url": "https://open.spotify.com/track/77odrU6Z94fsXryPiPf7P7"
+    },
+    {
+      "album": {
+        "name": "\ub0b4\uc77c\uc774 \ub418\uba74",
+        "url": "https://open.spotify.com/album/06P2vAqOGRpEgvs1eUrIyz"
+      },
+      "artists": [
+        {
+          "name": "soon",
+          "url": "https://open.spotify.com/artist/1G3jhXJfaqMfNojx7SxDcW"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220842,
+      "name": "\ub0b4\uc77c\uc774 \ub418\uba74",
+      "url": "https://open.spotify.com/track/6PMHyBLXJft4jmxdCjgmta"
     },
     {
       "album": {

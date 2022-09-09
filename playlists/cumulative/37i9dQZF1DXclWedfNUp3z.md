@@ -4,7 +4,7 @@
 
 > Mellow vibrations for green leaves, green thumbs and green ears.
 
-310 songs - 21 hr 36 min - [published](https://open.spotify.com/playlist/6XhGj2DggqIecedL7YMJsq)
+311 songs - 21 hr 39 min - [published](https://open.spotify.com/playlist/6XhGj2DggqIecedL7YMJsq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [An Observation of Antimatter at Hotel Kabiki](https://open.spotify.com/track/4KgSkI0Xh9WBGJDD7NjabS) | [The Golden Islands](https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf) | [An Observation of Antimatter at Hotel Kabiki](https://open.spotify.com/album/4yqYiuUZMb85p2rE6Kg77A) | 3:13 | 2021-10-20 | 2022-07-28 |
 | [Anomaly](https://open.spotify.com/track/2qbm8KA7O83nPviXa5aK5I) | [Dania](https://open.spotify.com/artist/6zT9Hqr8CQBZGevQoo9S9O) | [Voz](https://open.spotify.com/album/3uY9APJcADScKquOCujhw3) | 2:31 | 2022-08-31 |  |
 | [Another Dream](https://open.spotify.com/track/6ZUTsxms7QYaG06q37VRZp) | [ANNA](https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om) | [@0](https://open.spotify.com/album/0lzZgKs9XvoMHjPpBLWYA3) | 7:34 | 2021-11-24 | 2022-07-21 |
-| [Arboretum](https://open.spotify.com/track/2V0zmL125nc9w25OBdc2oT) | [Corimbo](https://open.spotify.com/artist/5jQIczzAJzOzwnNLFOwoI6) | [Anemophily](https://open.spotify.com/album/2YBYYYHaUb6d2I9EzBkcmt) | 3:43 | 2021-10-20 |  |
+| [Arboretum](https://open.spotify.com/track/2V0zmL125nc9w25OBdc2oT) | [Corimbo](https://open.spotify.com/artist/5jQIczzAJzOzwnNLFOwoI6) | [Anemophily](https://open.spotify.com/album/2YBYYYHaUb6d2I9EzBkcmt) | 3:43 | 2021-10-20 | 2022-09-09 |
 | [august 31st](https://open.spotify.com/track/0GyrNTSvyue6oLkUHmiSKa) | [Rachika Nayar](https://open.spotify.com/artist/6afqNtQw2IUvXw6JeIRgQZ) | [fragments](https://open.spotify.com/album/67EzhMUZJBwTnXpnnSY6Jx) | 2:31 | 2021-10-20 |  |
 | [august 31st](https://open.spotify.com/track/52Fe6gIiBQlJSZChf85bCZ) | [Rachika Nayar](https://open.spotify.com/artist/6afqNtQw2IUvXw6JeIRgQZ) | [august 31st](https://open.spotify.com/album/2aA9Uvevi3VkrpsVPnSkoU) | 2:31 | 2021-10-20 | 2022-07-29 |
 | [Austral](https://open.spotify.com/track/1ZR98iMSpoQd0G5PXYMf8B) | [Aeromancias](https://open.spotify.com/artist/3jiI4qEyqOZAmbB2VBB6tw) | [Auroras](https://open.spotify.com/album/6STaRwLyivZTQosFvfYQnt) | 3:41 | 2021-10-20 | 2022-07-22 |
@@ -212,6 +212,7 @@
 | [Pure Water](https://open.spotify.com/track/7jrLokdbNspz0vKkSHqiJx) | [INFINITY](https://open.spotify.com/artist/12pPh6VvLwN3gbBl1LXMPg) | [Relax](https://open.spotify.com/album/3OGKt5r1ic5lyflrEdtBVX) | 11:28 | 2021-10-20 | 2022-07-28 |
 | [Purpose.](https://open.spotify.com/track/7AQGxFft7GGhqWGCnQXtMq) | [chromonicci](https://open.spotify.com/artist/746nA9NSKsqBDRk343UtkE) | [Purpose.](https://open.spotify.com/album/3iUUBlbgj5U6FaIwOkImoB) | 3:12 | 2022-04-07 |  |
 | [rain scene pt\. 2](https://open.spotify.com/track/09lYsK8NUcKuaVtYJQ0gYo) | [Savoir Adore](https://open.spotify.com/artist/2weMnYqCmtNUrSLAJq5dD8) | [Image Tapes Vol\. 1](https://open.spotify.com/album/3yTXYqamF5Kq1FiGjPph0J) | 2:08 | 2021-10-20 | 2022-07-28 |
+| [Rainforest Revival Shampoo Bar](https://open.spotify.com/track/1mYTnzuhrlxkfcqea2KEQp) | [The Golden Islands](https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf) | [Rainforest Revival Shampoo Bar](https://open.spotify.com/album/1xLQFwcxKjXh0uEKeYCPBN) | 2:12 | 2021-10-20 |  |
 | [Rainforest Revival Shampoo Bar](https://open.spotify.com/track/6f4acBjqPs80P0Ttnp1rN1) | [The Golden Islands](https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf) | [Rainforest Revival Shampoo Bar](https://open.spotify.com/album/64eSZojU3zsDIdJGPbaR8M) | 2:12 | 2021-10-20 | 2022-07-08 |
 | [Redder Than The Moon](https://open.spotify.com/track/0BaMCfGFqKWdy1twJsYueE) | [John Looke](https://open.spotify.com/artist/1QhkInKbE89KGSmit4gxS5) | [SVMMER SVN vol\. 6](https://open.spotify.com/album/7r0xrhFh0z7HYziylKYSya) | 4:27 | 2021-10-20 |  |
 | [Redder Than The Moon](https://open.spotify.com/track/3nWeRDTscrrz33s4Ruu7uM) | [John Looke](https://open.spotify.com/artist/1QhkInKbE89KGSmit4gxS5) | [SVMMER SVN vol\. 6](https://open.spotify.com/album/5kzIE3Vhr8FZjaQHIBjEng) | 4:27 | 2021-10-20 | 2022-07-29 |

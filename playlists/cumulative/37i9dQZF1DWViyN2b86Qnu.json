@@ -945,6 +945,28 @@
     {
       "album": {
         "name": "Gospel",
+        "url": "https://open.spotify.com/album/0OCCDhGevaBWOhQJ5eTz1a"
+      },
+      "artists": [
+        {
+          "name": "Cuee",
+          "url": "https://open.spotify.com/artist/5vuWUABfGvkUxib7zgMMc6"
+        },
+        {
+          "name": "Lindsey Alderman",
+          "url": "https://open.spotify.com/artist/1d4Jqgs605YVW4ziTGYWjy"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199988,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/30WDzCkRBK8GSWPnlJEErx"
+    },
+    {
+      "album": {
+        "name": "Gospel",
         "url": "https://open.spotify.com/album/0zBrFItw6CbYBl9U6rFohA"
       },
       "artists": [
@@ -959,7 +981,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 199988,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/7JPZu1zTiT5lmAfzAVPygy"

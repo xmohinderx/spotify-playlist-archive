@@ -4,7 +4,7 @@
 
 > Piezas acústicas para cenar a la luz de las velas con alguien especial.
 
-130 songs - 6 hr 40 min - [published](https://open.spotify.com/playlist/0NRIi162ZzHvIFqC70MezX)
+132 songs - 6 hr 47 min - [published](https://open.spotify.com/playlist/0NRIi162ZzHvIFqC70MezX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Mais tarde](https://open.spotify.com/track/3OsoopvnzJWLErS19g6kkH) | [Margot Leavitt](https://open.spotify.com/artist/0eqVgQI4iTRtSBjclCTV5D) | [Mais tarde](https://open.spotify.com/album/76UFpZeSUJmxeefnkVmSSy) | 3:17 | 2022-03-03 |  |
 | [Maria Elena](https://open.spotify.com/track/6hBhCWOJRbY8lB9Es8iajN) | [Miles Higgins](https://open.spotify.com/artist/5tdW8sDHJ3jsFUSrEjJkn4) | [Amore](https://open.spotify.com/album/2FaBacnmmAyYE47pIiAvqT) | 2:44 | 2022-03-03 | 2022-07-22 |
 | [María Elena](https://open.spotify.com/track/10uj4OUMAm6uSylGheBhfp) | [Las Guitarras Románticas](https://open.spotify.com/artist/1ujwlcR6oyT856VONw14pD) | [Guitarras Mágicas \(En El Sonido De Los Indios Cabajaras\)](https://open.spotify.com/album/0ryTLVrwIMFxpUjNl3eDNG) | 2:40 | 2022-03-03 | 2022-07-15 |
+| [Mazurka en Sol](https://open.spotify.com/track/74tqpoVLJW87YTF9ImkzAW) | [Francisco Tárrega](https://open.spotify.com/artist/3cYz1jb3gzmFv2R0Dj3U2t), [Javier Van Velthoven](https://open.spotify.com/artist/4rUmg0lEB3QIm4OpxiTxoZ) | [Mazurka en Sol](https://open.spotify.com/album/62PWT934twLzR93hxVb5VM) | 3:55 | 2022-09-09 |  |
 | [Me Dijeron Que Estas Bien](https://open.spotify.com/track/4giwucadmCriq0zubRnUNg) | [Las Tres Abejas](https://open.spotify.com/artist/4AAGqhXf0H3FXHXkQzgLOi) | [Me Dijeron Que Estas Bien](https://open.spotify.com/album/1szujtJwnISWuBBCSqSR53) | 2:27 | 2022-03-03 |  |
 | [Me Muero Sin Tus Besos](https://open.spotify.com/track/5A1XB9lNEvGHWNu1hkOpKT) | [Byron Brizz](https://open.spotify.com/artist/0PGmoSulvyPVKHDWyyMClJ), [David Peña](https://open.spotify.com/artist/4NMM9OaHOyncdIvuDks37i) | [Alma Mexicana](https://open.spotify.com/album/5q23NA34MBehDCwbbhfDBJ) | 2:25 | 2022-03-03 | 2022-07-09 |
 | [Memory of Our Love](https://open.spotify.com/track/73eHmfSGBggIkcySlR3y5G) | [Ulrich Steier](https://open.spotify.com/artist/53d66ja0O9INgwNvA4dIIY) | [Memory of Our Love](https://open.spotify.com/album/1lvDTXaytSSq0TZYmDA6gy) | 3:26 | 2022-07-15 | 2022-07-22 |
@@ -106,6 +107,7 @@
 | [Salut Sandro](https://open.spotify.com/track/2amfLm3CsTQT3OBlqpXh0M) | [Ivan Bielsa](https://open.spotify.com/artist/5TSHZHmlAoFmP4EyKvwRua) | [Salut Sandro](https://open.spotify.com/album/4LxIkpbfjtgmw3Sle1ffAg) | 2:49 | 2022-06-17 |  |
 | [San Sebastien](https://open.spotify.com/track/6brr1dBt7PqEuuGckXew6A) | [Jo Rochford](https://open.spotify.com/artist/38vDOZ8sFoBrhvvJJ8l1eq) | [Into The Sunset](https://open.spotify.com/album/4cBzYpHUYX82WDoQuhYeRd) | 3:09 | 2022-03-03 |  |
 | [Saudade](https://open.spotify.com/track/2sVKwpi20O0WkibAdxWQk4) | [Gabriella Vargas Luna](https://open.spotify.com/artist/1P3NtjxAwU5gdEev4Pd93O) | [Saudade](https://open.spotify.com/album/6nkyNZGse00wWlhvhXsRFs) | 2:27 | 2022-03-03 |  |
+| [Second livre de pièces de clavecin / Sixième ordre: V\. Les baricades mistérieuses \(Arr\. Fougeray for Guitar\)](https://open.spotify.com/track/6ziKeu4VLfcf4rhLBC0SPG) | [François Couperin](https://open.spotify.com/artist/4kVLtXuKJTE7SgYd2sQtaL), [Raphaël Feuillâtre](https://open.spotify.com/artist/7vaRQaj7oIVMzraSzbtSBa) | [Couperin: Second livre de pièces de clavecin / Sixième ordre: V\. Les baricades mistérieuses \(Arr\. Fougeray for Guitar\)](https://open.spotify.com/album/4YvbCfIQe9fqBRFKgbNhuX) | 3:12 | 2022-09-09 |  |
 | [Seed](https://open.spotify.com/track/3VgV3RLmCE7PrXvOjCc6sq) | [Regina Costa](https://open.spotify.com/artist/5HTYfcxPnPgnplg9GvUIEr) | [Seed](https://open.spotify.com/album/7KVUNVwGXvGuNxAItcX4IH) | 3:26 | 2022-03-03 |  |
 | [Sentido](https://open.spotify.com/track/11UuEgcia8bJ4lS1uaFdAE) | [Gabriella Vargas Luna](https://open.spotify.com/artist/1P3NtjxAwU5gdEev4Pd93O) | [Sentido](https://open.spotify.com/album/0jmt8MYM4dZvhJ5sxsCAQa) | 2:28 | 2022-03-03 | 2022-07-15 |
 | [Serenata Campechana](https://open.spotify.com/track/1PHnNuRYKdQDCaPuyh03n4) | [Mexican Music Factory](https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb), [Duo: Ramos \- Monterrubio](https://open.spotify.com/artist/22qABRiNfRlmXEaSVX8mI3) | [Guitarras Mexicanas, Vol\. 2](https://open.spotify.com/album/28QGhzJl7Ylj9cTWZgJY9b) | 4:16 | 2022-03-03 | 2022-07-09 |

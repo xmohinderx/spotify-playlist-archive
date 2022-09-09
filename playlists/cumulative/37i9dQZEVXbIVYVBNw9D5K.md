@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-495 songs - 1 day 1 hr 21 min - [published](https://open.spotify.com/playlist/20TNv9NLPUqb3L0SIWXCbw)
+496 songs - 1 day 1 hr 25 min - [published](https://open.spotify.com/playlist/20TNv9NLPUqb3L0SIWXCbw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Aşk Sadece Anlayana](https://open.spotify.com/track/62nygHWpn3wLwnZmJ8keVs) | [Velet](https://open.spotify.com/artist/7bchfd9ZihGesFniE7tM71) | [Aşk Sadece Anlayana](https://open.spotify.com/album/77Mq4lxs2TAQi4goqZgEaK) | 2:01 | 2022-05-14 |  |
 | [Aşk Yok Olmaktır](https://open.spotify.com/track/3UPrUZ9mJWEPjXzgF7GS8f) | [Mabel Matiz](https://open.spotify.com/artist/1dpqJqIuNqideTvmxBsSku) | [Yaşım Çocuk](https://open.spotify.com/album/6xXxBbSVqa27Wsk04DacTb) | 3:43 | 2022-01-10 | 2022-02-03 |
 | [Aşk Yok Olmaktır](https://open.spotify.com/track/6cygxIDSnHZtXI6LoidQdl) | [Mabel Matiz](https://open.spotify.com/artist/1dpqJqIuNqideTvmxBsSku) | [Yaşım Çocuk](https://open.spotify.com/album/1rNrR7VKloorfaGSqunZoM) | 3:43 | 2021-09-14 | 2021-09-19 |
+| [Aşk Şarkısı \- Live](https://open.spotify.com/track/7E3YAVF3A7Shm7w2p3Np1Z) | [Şanışer](https://open.spotify.com/artist/5LUxu287CsPM7jy3yS3l86), [Ayda](https://open.spotify.com/artist/4bgAwdGd0zZ2U42GkdRS1b) | [Aşk Şarkısı \(Live\)](https://open.spotify.com/album/6ScilctPqH09aFRBeIhA1I) | 3:53 | 2022-09-08 |  |
 | [Aşkın Mevsimi](https://open.spotify.com/track/15jCqbm4Fgcv6ux2lv2f1u) | [Oğuzhan Koç](https://open.spotify.com/artist/1nFJWl30l3PAHei86OxN0i) | [Aşkın Mevsimi](https://open.spotify.com/album/203bUdZtsey2yU4IMm07TX) | 2:44 | 2021-12-05 | 2022-01-05 |
 | [Aşkın Mevsimi](https://open.spotify.com/track/5jDtKz2JrYTvvU6b130S7g) | [Oğuzhan Koç](https://open.spotify.com/artist/1nFJWl30l3PAHei86OxN0i) | [Aşkın Mevsimi](https://open.spotify.com/album/1kGWYJoR7TE8Hr8crj9rgv) | 2:44 | 2022-01-04 | 2022-01-23 |
 | [Aşkın Olayım](https://open.spotify.com/track/4o4kbDP7DMVFPwAf5D5bj9) | [Simge](https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu) | [Ben Bazen](https://open.spotify.com/album/3q1dbJRFdUAdvRcq7Kmwra) | 4:11 | 2022-08-22 |  |
@@ -108,7 +109,7 @@
 | [Bu Aşkta Zararım Var](https://open.spotify.com/track/1MsCY6QzxtZLZ7tsgRCfhX) | [Bilal Sonses](https://open.spotify.com/artist/6iBdV6h17D1kOnK9lFyWo3) | [Bu Aşkta Zararım Var](https://open.spotify.com/album/4IcObM2kZAOPyrF1mUa3hw) | 3:17 | 2021-08-22 | 2021-08-27 |
 | [Bu da Geçer mi Sevgilim](https://open.spotify.com/track/4knoybQvMTZkuTI8dWx7ZA) | [Yalın](https://open.spotify.com/artist/46zuW8tHxwahYn7VNMgYTa) | [Bu da Geçer mi Sevgilim](https://open.spotify.com/album/1xCT8zKbhD3aur3tPjwuUq) | 3:20 | 2022-01-15 | 2022-01-21 |
 | [Bu Gün Bayram](https://open.spotify.com/track/4sNTDiLygCF0NAo3vDqhY2) | [Barış Manço](https://open.spotify.com/artist/3eVuump9qyK0YCQQo4mKbc) | [24 Ayar](https://open.spotify.com/album/5Ii0po9FpJQPqCwlY8xGze) | 2:35 | 2021-05-15 | 2021-05-16 |
-| [Bu Saatten Sonra](https://open.spotify.com/track/53QUjrQ8BygCTBXfIs1Beu) | [İkilem](https://open.spotify.com/artist/4hjJDrv2KkIEW1AslTEtv3) | [Bu Saatten Sonra](https://open.spotify.com/album/6wtf8zyYddES6YnnVwqxRH) | 3:51 | 2022-01-05 | 2022-09-04 |
+| [Bu Saatten Sonra](https://open.spotify.com/track/53QUjrQ8BygCTBXfIs1Beu) | [İkilem](https://open.spotify.com/artist/4hjJDrv2KkIEW1AslTEtv3) | [Bu Saatten Sonra](https://open.spotify.com/album/6wtf8zyYddES6YnnVwqxRH) | 3:51 | 2022-01-05 |  |
 | [Bu Son Olsun](https://open.spotify.com/track/5QfhqYAS8wmNnvFuOgLNRs) | [Cem Karaca](https://open.spotify.com/artist/1lIbZfJvMQRqzhtCQsg5EI) | [Bu Son Olsun](https://open.spotify.com/album/30oGctq0ESNTuT5zX5SYfp) | 2:46 | 2021-08-27 | 2022-03-02 |
 | [Bu Yüzden](https://open.spotify.com/track/4EstSHM71cWOVCvIG4pTVB) | [Güncel Gürsel Artıktay](https://open.spotify.com/artist/0zG7sxSKeAruWiPCDGiKS1) | [Bekliyorum, Öyleyse Yoksun](https://open.spotify.com/album/3qCFtgdLIDnmPldKDWbhXL) | 4:21 | 2021-05-10 | 2021-05-19 |
 | [Bul Beni](https://open.spotify.com/track/1riBwVUqVsk5RGJ9iLN8cG) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Bul Beni](https://open.spotify.com/album/79oroEdFGvT0h2a3QH9KEk) | 2:34 | 2021-07-04 | 2022-03-01 |
@@ -211,9 +212,9 @@
 | [GÜNAYDIN](https://open.spotify.com/track/5Y7x0VU1VOwPWr6MsHbcxS) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2), [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS) | [PİŞMAN](https://open.spotify.com/album/2Lljdvhyiw9Bh6Vhvap8Fm) | 2:29 | 2021-09-12 | 2021-09-24 |
 | [GÜNEŞ](https://open.spotify.com/track/4HbGWKUGE4kZveaZ4IJOXQ) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf), [Şehinşah](https://open.spotify.com/artist/0FUsrstJwmg4WVHQMTYuUA) | [DIPSOMANIA](https://open.spotify.com/album/3qWgcWz8vKzsFF1rSRoPhu) | 3:13 | 2021-06-13 | 2021-07-18 |
 | [Güya](https://open.spotify.com/track/45psv4nJ95oCkdkp8UCkQk) | [Irmak Arıcı](https://open.spotify.com/artist/3WKZeiNOV5dnANlQnjL95B) | [Güya](https://open.spotify.com/album/298QpO2dJDLDwURvWA3b8G) | 2:59 | 2021-03-27 | 2021-06-22 |
-| [Hadi Çal](https://open.spotify.com/track/23KCKQJ6FqCEW6bCi5J6bT) | [Derya Uluğ](https://open.spotify.com/artist/7A6T0nTpXnPXDUGM1yEjEj) | [Hadi Çal](https://open.spotify.com/album/4f6waNCGENUspZtUpTpZKa) | 2:36 | 2022-06-07 |  |
+| [Hadi Çal](https://open.spotify.com/track/23KCKQJ6FqCEW6bCi5J6bT) | [Derya Uluğ](https://open.spotify.com/artist/7A6T0nTpXnPXDUGM1yEjEj) | [Hadi Çal](https://open.spotify.com/album/4f6waNCGENUspZtUpTpZKa) | 2:36 | 2022-06-07 | 2022-09-09 |
 | [Hakim Bey](https://open.spotify.com/track/1U162pMcwl6Ssq5kk1Sso3) | [KADR](https://open.spotify.com/artist/5IbdRuOxSxGes8BU3lKmBx) | [Hakim Bey](https://open.spotify.com/album/5yErDnoFeok5zSOTBzxcOJ) | 2:47 | 2021-10-24 | 2021-12-20 |
-| [Halden Anlamaz](https://open.spotify.com/track/5EcpTIo0rUWuTShfOUJEqb) | [Okan & Volkan](https://open.spotify.com/artist/5U2qYuO4KclXaQTqiGzqUV) | [Halden Anlamaz](https://open.spotify.com/album/06wYoYL8tx8HTo7i6IlyBx) | 3:19 | 2022-06-12 |  |
+| [Halden Anlamaz](https://open.spotify.com/track/5EcpTIo0rUWuTShfOUJEqb) | [Okan & Volkan](https://open.spotify.com/artist/5U2qYuO4KclXaQTqiGzqUV) | [Halden Anlamaz](https://open.spotify.com/album/06wYoYL8tx8HTo7i6IlyBx) | 3:19 | 2022-06-12 | 2022-09-09 |
 | [Halen](https://open.spotify.com/track/7KiJY7W8c5cNXE9YwuVqlW) | [Sagopa Kajmer](https://open.spotify.com/artist/1KXTegXtnCPKXjRaX1llcD), [Dr\. Fuchs](https://open.spotify.com/artist/51o6QF11Nswx5jMlp6rAL8) | [Kağıt Kesikleri](https://open.spotify.com/album/6z02Z4aAPIvWgfI88xw1af) | 3:52 | 2022-06-04 | 2022-06-06 |
 | [Hanfendi](https://open.spotify.com/track/1s2T2quJhHEbA0BgQr30DE) | [Mabel Matiz](https://open.spotify.com/artist/1dpqJqIuNqideTvmxBsSku) | [Hanfendi](https://open.spotify.com/album/4nZp7Xg669hPPyPjRV4Rzz) | 3:38 | 2022-01-29 | 2022-02-10 |
 | [Happier Than Ever](https://open.spotify.com/track/4RVwu0g32PAqgUiJoXsdF8) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 4:58 | 2021-08-31 | 2021-09-12 |

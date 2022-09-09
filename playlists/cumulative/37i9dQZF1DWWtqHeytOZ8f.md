@@ -4,7 +4,7 @@
 
 > Contemplate the universe in a bottle of friendly colored magma.
 
-512 songs - 1 day 20 hr 10 min - [published](https://open.spotify.com/playlist/4e7iEbtUvKT5kUZr66KUI3)
+513 songs - 1 day 20 hr 18 min - [published](https://open.spotify.com/playlist/4e7iEbtUvKT5kUZr66KUI3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [5th Night](https://open.spotify.com/track/7vEkNIl8MnRzugwZyQtSQY) | [Debit](https://open.spotify.com/artist/101vLnWdoeyAyQhADB4bqe) | [The Long Count](https://open.spotify.com/album/5E3VtquEh09l4f1jvLbksN) | 3:04 | 2022-03-04 | 2022-07-24 |
 | [77 Million Paintings](https://open.spotify.com/track/2YkMGSJ1NgdPoHu7TsxtGO) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Music For Installations](https://open.spotify.com/album/3z6IlwN9dnSMNXDI2nMbfq) | 44:00 | 2021-10-20 | 2022-07-21 |
 | [\[a sea of thoughts behind it\]](https://open.spotify.com/track/60cHXUfIETuSrV1DJ0Mx96) | [William Doyle](https://open.spotify.com/artist/0taCSk8CSQVl8RZhV4tU5N) | [Great Spans of Muddy Time](https://open.spotify.com/album/4DyNsfjvnoGuf3ULUqdWD7) | 3:29 | 2021-10-20 | 2022-07-14 |
+| [A Bright Resemblance \[Abridged\]](https://open.spotify.com/track/0yjPeogfbeSSiMwm85hw2E) | [Light Conductor](https://open.spotify.com/artist/590vdsp0V7yIZNMzdbi2qs) | [A Bright Resemblance \[Abridged\]](https://open.spotify.com/album/1T15Mh3twdV9gUfRJu6IgH) | 7:41 | 2021-10-20 |  |
 | [A Bright Resemblance \[Abridged\]](https://open.spotify.com/track/1rygz23Z4RvxpSyz6ovz0D) | [Light Conductor](https://open.spotify.com/artist/590vdsp0V7yIZNMzdbi2qs) | [A Bright Resemblance \[Abridged\]](https://open.spotify.com/album/2ZxTJ8NvJzp0KC7aPYlPK0) | 7:41 | 2021-10-20 | 2022-07-27 |
 | [A Forest](https://open.spotify.com/track/6MB7zOLjSrtY06e5ykZVGw) | [alva noto](https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp) | [A Forest](https://open.spotify.com/album/3eUWleWNULYMRFI2noRZnT) | 9:59 | 2021-10-20 |  |
 | [A Gentle Ending](https://open.spotify.com/track/0gGKd4UpVGajKJjLPOLTKI) | [The Golden Islands](https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf) | [A Gentle Ending](https://open.spotify.com/album/6seCAHr3iYBt64WjZF5x7I) | 3:05 | 2021-10-20 | 2022-06-10 |
@@ -41,7 +42,7 @@
 | [Almost Beautiful](https://open.spotify.com/track/7CUuHHMNjZiGfWvzNkXRMy) | [Anna Homler](https://open.spotify.com/artist/7y0aWNamQursS9ZHS6kxkh), [The Pylon King](https://open.spotify.com/artist/4jlViWmR6heNu4pyY7JAlY), [Voices Of Kwahn](https://open.spotify.com/artist/4RiT4SIuqeCUEuBoj9yB0k) | [Deliquium in C](https://open.spotify.com/album/4HteZzCTXLPZ7Yh4NQ18rU) | 4:09 | 2021-10-20 |  |
 | [Alphascape](https://open.spotify.com/track/4lKKUuaimK9rLWvnmNKKBr) | [Dreamscaper](https://open.spotify.com/artist/1TGL84E8oiiO2ygE0a2Ml6) | [Nightscapes](https://open.spotify.com/album/3IYo20mfoUluxPOTMaKbyb) | 3:18 | 2021-10-20 | 2022-07-28 |
 | [Alpine](https://open.spotify.com/track/2NtNI5zvWvOx04jgPNAxPn) | [Leifur James](https://open.spotify.com/artist/2N1foZRamgP1sfiYXFID9O) | [A Louder Silence](https://open.spotify.com/album/3tzXRcnAwVNJeIWxxvlGg2) | 2:47 | 2021-10-20 |  |
-| [AM Prosperität](https://open.spotify.com/track/3mrQlwy85WbZvFtYTyepRf) | [Lujo Asiático](https://open.spotify.com/artist/2csUTFyZd2E2Zxk1v2RJFI) | [AM Prosperität](https://open.spotify.com/album/2MwapfUImgaU8Fn1lyvHSN) | 4:48 | 2021-10-20 |  |
+| [AM Prosperität](https://open.spotify.com/track/3mrQlwy85WbZvFtYTyepRf) | [Lujo Asiático](https://open.spotify.com/artist/2csUTFyZd2E2Zxk1v2RJFI) | [AM Prosperität](https://open.spotify.com/album/2MwapfUImgaU8Fn1lyvHSN) | 4:48 | 2021-10-20 | 2022-09-09 |
 | [AMORE AMARO](https://open.spotify.com/track/0qtaEQVsvGwnNwIpZFy8ni) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [BATTICUORE](https://open.spotify.com/album/2W3DW8zyZ2NAf7UjdLebyc) | 5:02 | 2021-10-20 | 2022-04-21 |
 | [An Index Of Metals II](https://open.spotify.com/track/1QbkWJs25FrFHLlgUhjldI) | [Robert Fripp](https://open.spotify.com/artist/5HKpBHDxIDNdtmEAGXGntl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Evening Star](https://open.spotify.com/album/6VeZbitYSYxhDJEm7Wf2k4) | 2:32 | 2021-10-20 | 2022-04-21 |
 | [An Observation of Antimatter at Hotel Kabiki](https://open.spotify.com/track/3zORM4QYkdkw8QkaFd6CPD) | [The Golden Islands](https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf) | [An Observation of Antimatter at Hotel Kabiki](https://open.spotify.com/album/45KnxjCyMK5X1deAEr4MOs) | 3:13 | 2021-10-20 |  |

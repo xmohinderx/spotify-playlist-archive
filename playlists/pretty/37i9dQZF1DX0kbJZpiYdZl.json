@@ -1,12 +1,12 @@
 {
   "description": "The hottest tracks in the United States. Cover: Britney Spears & Elton John",
-  "num_followers": 790556,
+  "num_followers": 793744,
   "original_name": "Hot Hits USA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjUwNTc0OSwwMDAwMDAwMGExMGEyOTg0Mjc5ZGFmNWY1NWRjNTlkODJkMWIzNTlj",
+  "snapshot_id": "MTY2MjU2ODA5MywwMDAwMDAwMGU2YmQ2NDY5NjY5ZjMyMDBjZjMyNzQ2NDMzMTIyOWY2",
   "tracks": [
     {
       "added_at": "2022-09-06 23:09:09",
@@ -151,30 +151,6 @@
     {
       "added_at": "2022-09-06 23:09:09",
       "album": {
-        "name": "GOD DID",
-        "url": "https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50"
-      },
-      "artists": [
-        {
-          "name": "DJ Khaled",
-          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        },
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 223232,
-      "name": "BEAUTIFUL (feat. Future & SZA)",
-      "url": "https://open.spotify.com/track/5kYSScXYOZYyi0fxramiW6"
-    },
-    {
-      "added_at": "2022-09-06 23:09:09",
-      "album": {
         "name": "I Ain\u2019t Worried (Music From The Motion Picture \"Top Gun: Maverick\")",
         "url": "https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2"
       },
@@ -219,6 +195,30 @@
       "duration_ms": 191822,
       "name": "About Damn Time",
       "url": "https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3"
+    },
+    {
+      "added_at": "2022-09-06 23:09:09",
+      "album": {
+        "name": "GOD DID",
+        "url": "https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50"
+      },
+      "artists": [
+        {
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 223232,
+      "name": "BEAUTIFUL (feat. Future & SZA)",
+      "url": "https://open.spotify.com/track/5kYSScXYOZYyi0fxramiW6"
     },
     {
       "added_at": "2022-09-06 23:09:09",
@@ -796,7 +796,7 @@
       "added_at": "2022-09-06 23:09:09",
       "album": {
         "name": "Romantic Homicide",
-        "url": "https://open.spotify.com/album/2VOw1TVu3PduPt9LYd3eF2"
+        "url": "https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B"
       },
       "artists": [
         {
@@ -806,7 +806,7 @@
       ],
       "duration_ms": 132630,
       "name": "Romantic Homicide",
-      "url": "https://open.spotify.com/track/4jonEzO6nIIBt5xPGsyOA0"
+      "url": "https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL"
     },
     {
       "added_at": "2022-09-06 23:09:09",

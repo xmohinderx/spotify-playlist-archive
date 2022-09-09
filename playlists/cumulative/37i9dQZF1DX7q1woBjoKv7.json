@@ -3483,7 +3483,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 123495,
       "name": "Gangsters Anonymous",
       "url": "https://open.spotify.com/track/0WDo3YEg8ShNfoq6rhX57R"
@@ -4005,7 +4005,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 157847,
       "name": "Hoe",
       "url": "https://open.spotify.com/track/4QUoiPcdTrawfDs7UAsfjs"
@@ -5034,6 +5034,24 @@
     },
     {
       "album": {
+        "name": "All Eyes On U",
+        "url": "https://open.spotify.com/album/2umS0zGMtYWdzitt9wwqqg"
+      },
+      "artists": [
+        {
+          "name": "Jaz Karis",
+          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148695,
+      "name": "Let Me Down",
+      "url": "https://open.spotify.com/track/7FomypRpFKzSIBOX338U4P"
+    },
+    {
+      "album": {
         "name": "Trap Art II",
         "url": "https://open.spotify.com/album/4i3O9ullCI1gMGzcL7zDHz"
       },
@@ -5399,6 +5417,24 @@
       "duration_ms": 222163,
       "name": "Lost and Looking - Colleen 'Cosmo' Murphy Cosmodelica Remix",
       "url": "https://open.spotify.com/track/5To8C0dfgwOMpLLb1915YO"
+    },
+    {
+      "album": {
+        "name": "Lost for Words",
+        "url": "https://open.spotify.com/album/7bWcizCq6KODVKR3uWrdXz"
+      },
+      "artists": [
+        {
+          "name": "The Womack Sisters",
+          "url": "https://open.spotify.com/artist/6BjLHAiun9TeqC55KB3L6s"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247413,
+      "name": "Lost for Words",
+      "url": "https://open.spotify.com/track/2oX07lCkFNLmhQURiN5FTo"
     },
     {
       "album": {
@@ -6003,7 +6039,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 174786,
       "name": "No Mop",
       "url": "https://open.spotify.com/track/74d9XLd9OMpvb4RaXCmeVM"
@@ -9160,6 +9196,28 @@
     },
     {
       "album": {
+        "name": "STUNNA",
+        "url": "https://open.spotify.com/album/6GsGCToyCrO0PokU9RQSjM"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        },
+        {
+          "name": "Michael Sneed",
+          "url": "https://open.spotify.com/artist/42KWzHkbr6Q6BV7gSfYkpl"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165349,
+      "name": "Viral (feat. Michael Sneed)",
+      "url": "https://open.spotify.com/track/3Iv7bHl15wkhfCQlMRSNcY"
+    },
+    {
+      "album": {
         "name": "visa",
         "url": "https://open.spotify.com/album/5LlwIXACg2qm4S3YuiKOec"
       },
@@ -9563,7 +9621,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 126075,
       "name": "Whatever It Takes",
       "url": "https://open.spotify.com/track/0T34xzq8gDVYOkVzweHB6d"

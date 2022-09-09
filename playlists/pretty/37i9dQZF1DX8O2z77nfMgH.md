@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Los lanzamientos latinos más destacados\. En portada: Romeo Santos
 
-[Spotify](https://open.spotify.com/user/spotify) - 902,788 likes - 71 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 903,129 likes - 71 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 18 | [Fuego](https://open.spotify.com/track/6iDZO7Qbi9R0L54D7DiJVV) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Kim Loaiza](https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A) | [Fuego](https://open.spotify.com/album/1tsrmxpNWTOr3WMX7cmVd3) | 3:19 |
 | 19 | [Me Encantaria](https://open.spotify.com/track/0KYLBUdbZKX9X5WtcphZZ7) | [Yomil y El Dany](https://open.spotify.com/artist/2eQMfQXKQGV98HKiCOB7en) | [Me Encantaria](https://open.spotify.com/album/5uF6fohPgScAeomGOhd35y) | 2:51 |
 | 20 | [Castigar](https://open.spotify.com/track/27jkbUmZUOJ9dHHUqX0ERb) | [Kaleb Di Masi](https://open.spotify.com/artist/5U5wYVqrbD6J8SK4kNhau4), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU) | [Castigar](https://open.spotify.com/album/5O86nJ0DRUx7GiiJoCFjZV) | 2:38 |
-| 21 | [Aguanta \(Homenaje a Tego Calderon\)](https://open.spotify.com/track/4H272AYghTybhzPzpmb6dv) | [Tego Calderon](https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP), [Uriel Produce](https://open.spotify.com/artist/1SIghlrGacKWdkAvAgUdPC), [John Kenny](https://open.spotify.com/artist/0DHFpoVJmWjU2avIBIF7vw) | [Aguanta \(Homenaje a Tego Calderon\)](https://open.spotify.com/album/6a2edJYMmmeJdZoyvMIv2L) | 1:17 |
+| 21 | [Aguanta \(Homenaje a Tego Calderon\)](https://open.spotify.com/track/4H272AYghTybhzPzpmb6dv) | [Tego Calderón](https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP), [Uriel Produce](https://open.spotify.com/artist/1SIghlrGacKWdkAvAgUdPC), [John Kenny](https://open.spotify.com/artist/0DHFpoVJmWjU2avIBIF7vw) | [Aguanta \(Homenaje a Tego Calderon\)](https://open.spotify.com/album/6a2edJYMmmeJdZoyvMIv2L) | 1:17 |
 | 22 | [Lo Que un Hombre Debería Saber](https://open.spotify.com/track/53xbvOgbt6aDHTudDBKGle) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8) | [Haashtag](https://open.spotify.com/album/61F0A7l8tyXIWJV3y4UKXw) | 3:14 |
 | 23 | [Una Chevy](https://open.spotify.com/track/7xxQJetweF4orA784Bfae2) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Una Chevy](https://open.spotify.com/album/6Yt4FwoiLC7XebognYM5fx) | 2:21 |
 | 24 | [El Gabito](https://open.spotify.com/track/4irQHeQLap1F8Roqj3xJXW) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [El Gabito](https://open.spotify.com/album/1toEeNk0tz2X6J0bVwZGlR) | 2:43 |

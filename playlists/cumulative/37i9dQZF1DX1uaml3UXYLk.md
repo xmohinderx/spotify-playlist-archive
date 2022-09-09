@@ -4,7 +4,7 @@
 
 > Electronic music with caffeine.
 
-493 songs - 1 day 8 hr 6 min - [published](https://open.spotify.com/playlist/4yzYNda5nlPjjTxwWfgbGS)
+495 songs - 1 day 8 hr 12 min - [published](https://open.spotify.com/playlist/4yzYNda5nlPjjTxwWfgbGS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,7 +120,7 @@
 | [Demurity](https://open.spotify.com/track/4YGkHrj5NQzSn3q2aJ4C9O) | [Plomb](https://open.spotify.com/artist/5lJ2OEJIZ8QdAGyCKq307r) | [Demurity](https://open.spotify.com/album/7gbIdhCtu55lkHnIKYFk3v) | 2:46 | 2021-10-16 | 2022-01-22 |
 | [Descartes](https://open.spotify.com/track/5XKueyuuTWO6Q3QqK47IOt) | [Bonsaye](https://open.spotify.com/artist/1GL8uwuoUqjDP9Qs37FoFG) | [Huaraz](https://open.spotify.com/album/6ftAYnNp49bHhRi9ODzOvf) | 4:49 | 2020-10-20\* | 2021-03-25 |
 | [Desert Waves](https://open.spotify.com/track/3ce4vrWxFUvbLtQMtlwX1v) | [Lonov](https://open.spotify.com/artist/3i78jXbtRy4krrgXqMxeVv) | [Dawn of Days](https://open.spotify.com/album/6sL0Nh52ZU2MYQAy7NlZWI) | 5:23 | 2021-01-07 | 2021-03-06 |
-| [Desofa](https://open.spotify.com/track/04QMcqbujxNGFHIreoyqU1) | [Raphael Creed](https://open.spotify.com/artist/2shzzQEVBHTmyUUmgvA3eK) | [Desofa](https://open.spotify.com/album/5eTWF1Hei352wmaobA7mdc) | 2:42 | 2020-12-11 |  |
+| [Desofa](https://open.spotify.com/track/04QMcqbujxNGFHIreoyqU1) | [Raphael Creed](https://open.spotify.com/artist/2shzzQEVBHTmyUUmgvA3eK) | [Desofa](https://open.spotify.com/album/5eTWF1Hei352wmaobA7mdc) | 2:42 | 2020-12-11 | 2022-09-09 |
 | [Desolation](https://open.spotify.com/track/56w2iwPI8KID8XTbBaalUv) | [Cloode](https://open.spotify.com/artist/0QvInajilVJw8If75PeAH8) | [Desolation](https://open.spotify.com/album/16SzYaCAzPsKUaNd0HuvQ1) | 2:42 | 2021-11-10 | 2022-01-22 |
 | [Detailed Movements](https://open.spotify.com/track/5oPEMrg08ErcP17Cr45VBv) | [Jamie Christer](https://open.spotify.com/artist/0hEJxfFdbhIBYTw6j1AmgZ) | [Where The Hearts Are, Vol\. 10](https://open.spotify.com/album/2vrevlkMblneq5eOKEAJL9) | 5:53 | 2020-12-24 | 2021-05-13 |
 | [Detergent](https://open.spotify.com/track/1XVrxTGDmkz6SAJtKlwkUi) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Venture](https://open.spotify.com/album/264yiwPhtYskIr546jA9nJ) | 2:15 | 2020-10-20\* | 2021-06-23 |
@@ -230,6 +230,7 @@
 | [Kauko](https://open.spotify.com/track/4I0ddznWdICBWy5RHRzsqE) | [Twelwe](https://open.spotify.com/artist/0cXv4l0iCzhQrRljsAQyQW) | [Kauko](https://open.spotify.com/album/0jjCPuzHwwjvrInsE6p4r5) | 4:27 | 2020-10-20\* | 2021-06-23 |
 | [Keep Keepin On](https://open.spotify.com/track/3n7zfj79mavt7QnjuTw2QQ) | [Calitto](https://open.spotify.com/artist/0sUKrTh4bykVgGFl67aau5) | [Keep Keepin On](https://open.spotify.com/album/4XpaShZVMOaDaRkO81Hm3Q) | 3:27 | 2021-08-25 |  |
 | [Keep On It](https://open.spotify.com/track/3Wwmq8WUjZoDmzcZ5EJriJ) | [Mar Vei](https://open.spotify.com/artist/1oobYLromCfJh2nx8pfZiI) | [Keep On It](https://open.spotify.com/album/4KID8UGDvhjy4hovwiBAWJ) | 4:17 | 2020-10-20\* | 2021-01-15 |
+| [Kerbside Poetry](https://open.spotify.com/track/3TZGETLafJxMADpUqVIYSv) | [Asha Lin](https://open.spotify.com/artist/3n5KctQ0kr7y2FQs57lE2H) | [Kerbside Poetry](https://open.spotify.com/album/6xklTnSYtgOoQSnKd1IkJL) | 3:12 | 2022-09-09 |  |
 | [KIKAROO](https://open.spotify.com/track/375YSQ8nHPLupqnb7EdTK3) | [2GO](https://open.spotify.com/artist/3H2aSFzZR5u415cYbqijBJ) | [KIKAROO](https://open.spotify.com/album/4TS4nD7m4S25mZhDDFJNXv) | 2:33 | 2021-06-23 | 2022-05-20 |
 | [Kirnua](https://open.spotify.com/track/0rYfDnwdsArNfvV4HWgXvd) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [Kirnua](https://open.spotify.com/album/7y4cYA0qeqfOSeTs20OroS) | 3:47 | 2020-10-20\* | 2021-01-15 |
 | [Kissing on the Dance Floor](https://open.spotify.com/track/3LHZHqkVQRfUbxWli3717M) | [Tyler Greyson](https://open.spotify.com/artist/6oqXcmdNWohuzozZgdcS9o) | [Kissing on the Dance Floor](https://open.spotify.com/album/6uSeYFPvoMv0DZxsrZyIS2) | 2:42 | 2021-08-25 | 2022-08-05 |
@@ -336,6 +337,7 @@
 | [Quay](https://open.spotify.com/track/66HmKYuvJH82x9zQKFvSAX) | [Pipo W](https://open.spotify.com/artist/6ZNEs0261UezCJ2TG0G0x0) | [Quay](https://open.spotify.com/album/2Yssd99I6S8ljrnkjRqj6V) | 2:48 | 2020-11-28 | 2021-06-23 |
 | [Radiance](https://open.spotify.com/track/2TA3D0izaG7KhrMaI4BcAj) | [Delphine Dekker](https://open.spotify.com/artist/5cKBlwzPmhqucVJ4CeaHuz) | [Radiance](https://open.spotify.com/album/5VaiAhqs8QZWxJhRA5F6pX) | 3:31 | 2021-04-15 |  |
 | [Rain Check](https://open.spotify.com/track/0qSAag81S96PZ38BBQlk7B) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Rain Check](https://open.spotify.com/album/48N0TU0by4ICq7n8UFn7q8) | 2:16 | 2020-10-20\* | 2021-06-23 |
+| [Rain Moves Aside](https://open.spotify.com/track/2qpyDvBNKE9uSaWL0H8cuM) | [SGT DUST](https://open.spotify.com/artist/5UAKUy49oVsSw65Bbg14r6) | [Rain Moves Aside](https://open.spotify.com/album/2ePJcR2LULuHH4hplAlkTE) | 3:16 | 2022-09-09 |  |
 | [Rainbows](https://open.spotify.com/track/1Y3ELkSuRZmsJE4WYGvN49) | [Floatational](https://open.spotify.com/artist/0n71HQhO8y90tbTIQzVRHY) | [Rainbows](https://open.spotify.com/album/7cMxy5MaWjYy6cH1V9Zujv) | 3:15 | 2021-11-10 |  |
 | [Recapture](https://open.spotify.com/track/0y4m88Zcflk9iDLCqSIF3z) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [The Night](https://open.spotify.com/album/4Y0JVC9BklwKMmiL2xIbOY) | 3:43 | 2020-10-20\* | 2020-10-30 |
 | [Reddy 4 Luv](https://open.spotify.com/track/2s1mwTqKS3akRy9a15E5Oq) | [Coloraimé](https://open.spotify.com/artist/68jdZrUBTvlocSSdnwTQMf) | [Reddy 4 Luv](https://open.spotify.com/album/26nEmODKl9Du2fGNrLVTUl) | 2:56 | 2020-10-20\* | 2021-10-16 |

@@ -1,12 +1,12 @@
 {
   "description": "Sucessos e novidades do pop calminho pra relaxar o seu dia! Foto: Priscilla Alcantara, Vitor Kley",
-  "num_followers": 403925,
+  "num_followers": 404361,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjA4NzYwMCwwMDAwMDAwMDhkODkxNTE1YmVmNjAzMmYwNzAzMTljYzY0MTk5MGEz",
+  "snapshot_id": "MTY2MjA4NzYwMCwwMDAwMDAwMGQxZDYwNjRjMzMxYzBiZmRmN2E0ZTQzMTFlMzVlMTdh",
   "tracks": [
     {
       "added_at": "2022-09-02 03:00:00",
@@ -315,22 +315,6 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
-        "name": "Coringa",
-        "url": "https://open.spotify.com/album/6HcH3KCqC0zl8gmZrCthuc"
-      },
-      "artists": [
-        {
-          "name": "J\u00e3o",
-          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
-        }
-      ],
-      "duration_ms": 187080,
-      "name": "Coringa",
-      "url": "https://open.spotify.com/track/0gmDtSc2Ay17diWj6nJjlG"
-    },
-    {
-      "added_at": "2022-09-02 03:00:00",
-      "album": {
         "name": "Leve",
         "url": "https://open.spotify.com/album/55a1xNRpaWDSLBJpcOSvzQ"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 184682,
       "name": "Leve",
       "url": "https://open.spotify.com/track/6lpvsomA1rOjC9Nf1Na4sz"
+    },
+    {
+      "added_at": "2022-09-02 03:00:00",
+      "album": {
+        "name": "Coringa",
+        "url": "https://open.spotify.com/album/6HcH3KCqC0zl8gmZrCthuc"
+      },
+      "artists": [
+        {
+          "name": "J\u00e3o",
+          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
+        }
+      ],
+      "duration_ms": 187080,
+      "name": "Coringa",
+      "url": "https://open.spotify.com/track/0gmDtSc2Ay17diWj6nJjlG"
     },
     {
       "added_at": "2022-09-02 03:00:00",
@@ -735,6 +735,26 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
+        "name": "Tudo Teu",
+        "url": "https://open.spotify.com/album/2ARdu9IuLvWhy0c6eQPSYS"
+      },
+      "artists": [
+        {
+          "name": "Sandy",
+          "url": "https://open.spotify.com/artist/4ZfTpxwHwtot9Ps59bXAF8"
+        },
+        {
+          "name": "Vitor Kley",
+          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
+        }
+      ],
+      "duration_ms": 213500,
+      "name": "Tudo Teu",
+      "url": "https://open.spotify.com/track/21bbR1glUbV7Vvo8hIMC2W"
+    },
+    {
+      "added_at": "2022-09-02 03:00:00",
+      "album": {
         "name": "Maior Que N\u00f3s",
         "url": "https://open.spotify.com/album/1mRbqQtEQ4NvHOgPK9MA51"
       },
@@ -771,26 +791,6 @@
       "duration_ms": 169115,
       "name": "Voa Comigo",
       "url": "https://open.spotify.com/track/5lOfQOMUWLoTnHLG55b89p"
-    },
-    {
-      "added_at": "2022-09-02 03:00:00",
-      "album": {
-        "name": "Tudo Teu",
-        "url": "https://open.spotify.com/album/2ARdu9IuLvWhy0c6eQPSYS"
-      },
-      "artists": [
-        {
-          "name": "Sandy",
-          "url": "https://open.spotify.com/artist/4ZfTpxwHwtot9Ps59bXAF8"
-        },
-        {
-          "name": "Vitor Kley",
-          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
-        }
-      ],
-      "duration_ms": 213500,
-      "name": "Tudo Teu",
-      "url": "https://open.spotify.com/track/21bbR1glUbV7Vvo8hIMC2W"
     },
     {
       "added_at": "2022-09-02 03:00:00",
@@ -843,22 +843,6 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
-        "name": "Eu Vou Chorar Dan\u00e7ando",
-        "url": "https://open.spotify.com/album/086wyZc2kXudA59dUTWPVX"
-      },
-      "artists": [
-        {
-          "name": "Davi Bandeira",
-          "url": "https://open.spotify.com/artist/3qinG2yx6n5OipjLIKPJ68"
-        }
-      ],
-      "duration_ms": 175000,
-      "name": "Eu Vou Chorar Dan\u00e7ando",
-      "url": "https://open.spotify.com/track/49JqYb5Vtm42UTrjQI1eTP"
-    },
-    {
-      "added_at": "2022-09-02 03:00:00",
-      "album": {
         "name": "Olhos Cor de Mel",
         "url": "https://open.spotify.com/album/5NULIbgpUQM0oVmBen5rBM"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 172337,
       "name": "Eu Te Quero (feat. Manu Gavassi) - Acoustic Version",
       "url": "https://open.spotify.com/track/68qTU56nAFCVOycqBWDzZD"
+    },
+    {
+      "added_at": "2022-09-02 03:00:00",
+      "album": {
+        "name": "Eu Vou Chorar Dan\u00e7ando",
+        "url": "https://open.spotify.com/album/086wyZc2kXudA59dUTWPVX"
+      },
+      "artists": [
+        {
+          "name": "Davi Bandeira",
+          "url": "https://open.spotify.com/artist/3qinG2yx6n5OipjLIKPJ68"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "Eu Vou Chorar Dan\u00e7ando",
+      "url": "https://open.spotify.com/track/49JqYb5Vtm42UTrjQI1eTP"
     },
     {
       "added_at": "2022-09-02 03:00:00",
@@ -935,22 +935,6 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
-        "name": "O Melhor de N\u00f3s",
-        "url": "https://open.spotify.com/album/7hk4rtzUoxkzRMpusuEgEq"
-      },
-      "artists": [
-        {
-          "name": "ALMAR",
-          "url": "https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI"
-        }
-      ],
-      "duration_ms": 170325,
-      "name": "Flutuar - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/5vy6OsbPW9wYkJjFwUCsZT"
-    },
-    {
-      "added_at": "2022-09-02 03:00:00",
-      "album": {
         "name": "Produtividade",
         "url": "https://open.spotify.com/album/6uc1ia5Sjn54gWDoPipvz5"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 159000,
       "name": "Produtividade",
       "url": "https://open.spotify.com/track/56FdRY4mgXyS4HC0lZdwkX"
+    },
+    {
+      "added_at": "2022-09-02 03:00:00",
+      "album": {
+        "name": "O Melhor de N\u00f3s",
+        "url": "https://open.spotify.com/album/7hk4rtzUoxkzRMpusuEgEq"
+      },
+      "artists": [
+        {
+          "name": "ALMAR",
+          "url": "https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI"
+        }
+      ],
+      "duration_ms": 170325,
+      "name": "Flutuar - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/5vy6OsbPW9wYkJjFwUCsZT"
     },
     {
       "added_at": "2022-09-02 03:00:00",
@@ -1007,18 +1007,22 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
-        "name": "N\u00f3s Dois",
-        "url": "https://open.spotify.com/album/1EhM4M5YnaZUzbrxuTwlVR"
+        "name": "Sem Filtro (Ao Vivo em Noronha)",
+        "url": "https://open.spotify.com/album/4XY2OtEio7OBlyiWxUgHCg"
       },
       "artists": [
         {
-          "name": "OUTROEU",
-          "url": "https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo"
+          "name": "Banda Eva",
+          "url": "https://open.spotify.com/artist/1wqkMc837HWUwdC8sOZ7lZ"
+        },
+        {
+          "name": "Maneva",
+          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
         }
       ],
-      "duration_ms": 176030,
-      "name": "N\u00f3s Dois",
-      "url": "https://open.spotify.com/track/0ooea8ptVQNZehNygA91ng"
+      "duration_ms": 184914,
+      "name": "Louca - Ao Vivo",
+      "url": "https://open.spotify.com/track/3bSnXuCoMpWKCR5jO5gGTL"
     },
     {
       "added_at": "2022-09-02 03:00:00",
@@ -1039,22 +1043,66 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
-        "name": "Sem Filtro (Ao Vivo em Noronha)",
-        "url": "https://open.spotify.com/album/4XY2OtEio7OBlyiWxUgHCg"
+        "name": "N\u00f3s Dois",
+        "url": "https://open.spotify.com/album/1EhM4M5YnaZUzbrxuTwlVR"
       },
       "artists": [
         {
-          "name": "Banda Eva",
-          "url": "https://open.spotify.com/artist/1wqkMc837HWUwdC8sOZ7lZ"
-        },
-        {
-          "name": "Maneva",
-          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
+          "name": "OUTROEU",
+          "url": "https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo"
         }
       ],
-      "duration_ms": 184914,
-      "name": "Louca - Ao Vivo",
-      "url": "https://open.spotify.com/track/3bSnXuCoMpWKCR5jO5gGTL"
+      "duration_ms": 176030,
+      "name": "N\u00f3s Dois",
+      "url": "https://open.spotify.com/track/0ooea8ptVQNZehNygA91ng"
+    },
+    {
+      "added_at": "2022-09-02 03:00:00",
+      "album": {
+        "name": "gostosa",
+        "url": "https://open.spotify.com/album/3snaKVq0ImC43u1ZYxxSYK"
+      },
+      "artists": [
+        {
+          "name": "Clara Valverde",
+          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
+        }
+      ],
+      "duration_ms": 154820,
+      "name": "gostosa",
+      "url": "https://open.spotify.com/track/438nqz8kEIvExTC1vtX8Wb"
+    },
+    {
+      "added_at": "2022-09-02 03:00:00",
+      "album": {
+        "name": "No Mesmo Tom",
+        "url": "https://open.spotify.com/album/4Lrv9Ock8oIOYrQks34vrV"
+      },
+      "artists": [
+        {
+          "name": "GUPE",
+          "url": "https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix"
+        }
+      ],
+      "duration_ms": 199436,
+      "name": "No Mesmo Tom",
+      "url": "https://open.spotify.com/track/0I4vL4Z2MZyZzhFxBktvdR"
+    },
+    {
+      "added_at": "2022-09-02 03:00:00",
+      "album": {
+        "name": "Menor Que Tr\u00eas",
+        "url": "https://open.spotify.com/album/0Dx6zGz8z3DZpjGDZbsvQG"
+      },
+      "artists": [
+        {
+          "name": "Mu Bispo",
+          "url": "https://open.spotify.com/artist/2lYbWSffR2cha5exwBBjOv"
+        }
+      ],
+      "duration_ms": 212234,
+      "name": "N\u00e3o Me Chame Pelo Nome",
+      "url": "https://open.spotify.com/track/1Bo1M5ADOZ6jKQqwLfNbph"
     },
     {
       "added_at": "2022-09-02 03:00:00",
@@ -1079,38 +1127,6 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
-        "name": "Menor Que Tr\u00eas",
-        "url": "https://open.spotify.com/album/0Dx6zGz8z3DZpjGDZbsvQG"
-      },
-      "artists": [
-        {
-          "name": "Mu Bispo",
-          "url": "https://open.spotify.com/artist/2lYbWSffR2cha5exwBBjOv"
-        }
-      ],
-      "duration_ms": 212234,
-      "name": "N\u00e3o Me Chame Pelo Nome",
-      "url": "https://open.spotify.com/track/1Bo1M5ADOZ6jKQqwLfNbph"
-    },
-    {
-      "added_at": "2022-09-02 03:00:00",
-      "album": {
-        "name": "gostosa",
-        "url": "https://open.spotify.com/album/3snaKVq0ImC43u1ZYxxSYK"
-      },
-      "artists": [
-        {
-          "name": "Clara Valverde",
-          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
-        }
-      ],
-      "duration_ms": 154820,
-      "name": "gostosa",
-      "url": "https://open.spotify.com/track/438nqz8kEIvExTC1vtX8Wb"
-    },
-    {
-      "added_at": "2022-09-02 03:00:00",
-      "album": {
         "name": "carta pra ningu\u00e9m",
         "url": "https://open.spotify.com/album/0nK27QmvOO1TI73fKASEdh"
       },
@@ -1123,22 +1139,6 @@
       "duration_ms": 218181,
       "name": "carta pra ningu\u00e9m",
       "url": "https://open.spotify.com/track/7ne3GUyA8HHBR0KsuyXzyM"
-    },
-    {
-      "added_at": "2022-09-02 03:00:00",
-      "album": {
-        "name": "No Mesmo Tom",
-        "url": "https://open.spotify.com/album/4Lrv9Ock8oIOYrQks34vrV"
-      },
-      "artists": [
-        {
-          "name": "GUPE",
-          "url": "https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix"
-        }
-      ],
-      "duration_ms": 199436,
-      "name": "No Mesmo Tom",
-      "url": "https://open.spotify.com/track/0I4vL4Z2MZyZzhFxBktvdR"
     },
     {
       "added_at": "2022-09-02 03:00:00",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
+        "name": "Que Fase",
+        "url": "https://open.spotify.com/album/1XaXt76Sh007N2UPzgNJLU"
+      },
+      "artists": [
+        {
+          "name": "Ceci Reis",
+          "url": "https://open.spotify.com/artist/0dTOkpG8p4ZwjCA28HprBf"
+        }
+      ],
+      "duration_ms": 139058,
+      "name": "Qual Fita",
+      "url": "https://open.spotify.com/track/2jWPvuNX5KKtEY0q6aym4V"
+    },
+    {
+      "added_at": "2022-09-02 03:00:00",
+      "album": {
         "name": "48K Apresenta #1: Ex-Amor",
         "url": "https://open.spotify.com/album/08RqGivsIeiXzUq2yhAOF7"
       },
@@ -1199,22 +1215,6 @@
       "duration_ms": 244045,
       "name": "48K Apresenta #1: Ex-Amor",
       "url": "https://open.spotify.com/track/0S9vWGG4Ywb93Krl6do2QD"
-    },
-    {
-      "added_at": "2022-09-02 03:00:00",
-      "album": {
-        "name": "Que Fase",
-        "url": "https://open.spotify.com/album/1XaXt76Sh007N2UPzgNJLU"
-      },
-      "artists": [
-        {
-          "name": "Ceci Reis",
-          "url": "https://open.spotify.com/artist/0dTOkpG8p4ZwjCA28HprBf"
-        }
-      ],
-      "duration_ms": 139058,
-      "name": "Qual Fita",
-      "url": "https://open.spotify.com/track/2jWPvuNX5KKtEY0q6aym4V"
     },
     {
       "added_at": "2022-09-02 03:00:00",
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
+        "name": "Embriagado de Saudade",
+        "url": "https://open.spotify.com/album/2MgoX7Y7rP0JCb6Q3K5SUX"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Gonti",
+          "url": "https://open.spotify.com/artist/7BPHTWFEfvH7HPfHLU1EOg"
+        }
+      ],
+      "duration_ms": 155250,
+      "name": "Embriagado de Saudade",
+      "url": "https://open.spotify.com/track/5efZJvbyTISLTujhMm3rcR"
+    },
+    {
+      "added_at": "2022-09-02 03:00:00",
+      "album": {
         "name": "Covarde",
         "url": "https://open.spotify.com/album/2xS5QlKE0pmnurwbh0EppL"
       },
@@ -1287,18 +1303,22 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
-        "name": "Embriagado de Saudade",
-        "url": "https://open.spotify.com/album/2MgoX7Y7rP0JCb6Q3K5SUX"
+        "name": "Existencial",
+        "url": "https://open.spotify.com/album/1dLe3d2uFDp4bihR4ZW7XS"
       },
       "artists": [
         {
-          "name": "Gabriel Gonti",
-          "url": "https://open.spotify.com/artist/7BPHTWFEfvH7HPfHLU1EOg"
+          "name": "Z\u00e9Vitor",
+          "url": "https://open.spotify.com/artist/1WNEynd3mjWx1DZByqbLq4"
+        },
+        {
+          "name": "Garcia Gab\u00e9",
+          "url": "https://open.spotify.com/artist/6fQFOL3N5uANNq4MYEVeGl"
         }
       ],
-      "duration_ms": 155250,
-      "name": "Embriagado de Saudade",
-      "url": "https://open.spotify.com/track/5efZJvbyTISLTujhMm3rcR"
+      "duration_ms": 162237,
+      "name": "Existencial",
+      "url": "https://open.spotify.com/track/5n6zkfOjjVkQPOhBKGNSAn"
     },
     {
       "added_at": "2022-09-02 03:00:00",
@@ -1343,26 +1363,6 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
-        "name": "Existencial",
-        "url": "https://open.spotify.com/album/1dLe3d2uFDp4bihR4ZW7XS"
-      },
-      "artists": [
-        {
-          "name": "Z\u00e9Vitor",
-          "url": "https://open.spotify.com/artist/1WNEynd3mjWx1DZByqbLq4"
-        },
-        {
-          "name": "Garcia Gab\u00e9",
-          "url": "https://open.spotify.com/artist/6fQFOL3N5uANNq4MYEVeGl"
-        }
-      ],
-      "duration_ms": 162237,
-      "name": "Existencial",
-      "url": "https://open.spotify.com/track/5n6zkfOjjVkQPOhBKGNSAn"
-    },
-    {
-      "added_at": "2022-09-02 03:00:00",
-      "album": {
         "name": "\u00c1gua Salgada",
         "url": "https://open.spotify.com/album/0nRhDifni5GuqrOQgzaluv"
       },
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
-        "name": "Mais Uma Hist\u00f3ria de Amor",
-        "url": "https://open.spotify.com/album/1Xxelq9chLN2uaKfECfVEJ"
-      },
-      "artists": [
-        {
-          "name": "Sophia Stedile",
-          "url": "https://open.spotify.com/artist/11gCuxVV7iRCmbDz30plmi"
-        }
-      ],
-      "duration_ms": 143500,
-      "name": "N\u00e3o Sou Boa Com Palavras",
-      "url": "https://open.spotify.com/track/2INmeHxU8r6tJubFJrpTHF"
-    },
-    {
-      "added_at": "2022-09-02 03:00:00",
-      "album": {
         "name": "o mesmo dia",
         "url": "https://open.spotify.com/album/6rNYmmx6Jd5McewaZiyKjN"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 247423,
       "name": "o mesmo dia",
       "url": "https://open.spotify.com/track/0zCv49QKlB6qzqSpc3FA7F"
+    },
+    {
+      "added_at": "2022-09-02 03:00:00",
+      "album": {
+        "name": "Mais Uma Hist\u00f3ria de Amor",
+        "url": "https://open.spotify.com/album/1Xxelq9chLN2uaKfECfVEJ"
+      },
+      "artists": [
+        {
+          "name": "Sophia Stedile",
+          "url": "https://open.spotify.com/artist/11gCuxVV7iRCmbDz30plmi"
+        }
+      ],
+      "duration_ms": 143500,
+      "name": "N\u00e3o Sou Boa Com Palavras",
+      "url": "https://open.spotify.com/track/2INmeHxU8r6tJubFJrpTHF"
     },
     {
       "added_at": "2022-09-02 03:00:00",

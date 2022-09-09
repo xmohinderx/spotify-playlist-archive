@@ -1322,6 +1322,32 @@
     },
     {
       "album": {
+        "name": "Palaces : The Remixes, Pt. 2",
+        "url": "https://open.spotify.com/album/40p5qaIMZREYF9S6vKzFf5"
+      },
+      "artists": [
+        {
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+        },
+        {
+          "name": "Coco Bryce",
+          "url": "https://open.spotify.com/artist/08hjAM9XAD28O0nWVKmlx5"
+        },
+        {
+          "name": "Caroline Polachek",
+          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313233,
+      "name": "Sirens (feat. Caroline Polachek) [Coco Bryce Remix]",
+      "url": "https://open.spotify.com/track/326eYH1DUgVJafO2baEEwL"
+    },
+    {
+      "album": {
         "name": "Skrrrrr EP",
         "url": "https://open.spotify.com/album/2bWQF1wLD3GepnShL3oT1c"
       },

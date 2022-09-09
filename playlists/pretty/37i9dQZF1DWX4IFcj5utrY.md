@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 
 > Only the hottest South African House and Dance singles out right now\. Cover: <a href="https://open.spotify.com/artist/3G1GDW2fFw536QyuZODfch?si=8TmBal5XSqG\-qZh7\-DAhgQ">Lelowhatsgood</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,349 likes - 75 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,422 likes - 75 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 | 68 | [Life is a Dancer](https://open.spotify.com/track/1VEQ7FmTHDAgW9vlO8yfOT) | [Soulfaktor](https://open.spotify.com/artist/0So3vP3sgBsqI03jPp6ad7) | [Life is a Dancer](https://open.spotify.com/album/1sV3x3DRU6NjqjxZSn9gYd) | 3:14 |
 | 69 | [Siyabonga](https://open.spotify.com/track/7aD1gP83nhNeORZkh1nMqK) | [Jabzz Dimitri](https://open.spotify.com/artist/4Eo18qlyb76spnDFlSc78c), [Dudu Makhoba](https://open.spotify.com/artist/14SepfJXLOU2PqLsVT9Zyk) | [Fumbo](https://open.spotify.com/album/75E9B79X1WmI5cojmqBEyu) | 7:33 |
 | 70 | [Magic](https://open.spotify.com/track/2aqkBEgu7YH5uhcSDB6bbA) | [Rhey Osborne](https://open.spotify.com/artist/5emPE752O8nTusYcDzuoiC), [kALEGO](https://open.spotify.com/artist/6XIDZAHJj0vDbVZ6zHz3dw) | [Magic](https://open.spotify.com/album/15P7HxkFENVU3cmrX7k9kI) | 5:53 |
-| 71 | [Zombie \(Herd Mix\)](https://open.spotify.com/track/5Svn68YqlIFxTwOnRXgw6E) | [THEMBA](https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC), [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR), [Afrika 70](https://open.spotify.com/artist/5lhLOXDLaw0yjEXd6xTasV) | [Zombie \(Herd Mix\)](https://open.spotify.com/album/34e9IHbnCHXCzpOLmSrtUV) | 3:46 |
+| 71 | [Zombie \(THEMBA's Herd Mix\)](https://open.spotify.com/track/5Svn68YqlIFxTwOnRXgw6E) | [THEMBA](https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC), [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR), [Afrika 70](https://open.spotify.com/artist/5lhLOXDLaw0yjEXd6xTasV) | [Zombie \(THEMBA's Herd Mix\)](https://open.spotify.com/album/34e9IHbnCHXCzpOLmSrtUV) | 3:46 |
 | 72 | [We Belong](https://open.spotify.com/track/2PDjawR6el9LThbchXimFt) | [Shredder SA](https://open.spotify.com/artist/6hBPDqbndpJwIQjTXJRd7h), [ADJUMA](https://open.spotify.com/artist/5BDQAVSa4c1UsvXlmufpio), [Lyrical Ivy](https://open.spotify.com/artist/00gOWMo5dBzdqNDD4Far5L) | [We Belong](https://open.spotify.com/album/5VZRmoKh8atCrJuvo6NgSU) | 7:17 |
 | 73 | [Together](https://open.spotify.com/track/1GPFWNzYJMZrrrspWyfzLn) | [LAR](https://open.spotify.com/artist/2w3NdJswSn39l3TU9vIRq0), [Bound to Divide](https://open.spotify.com/artist/5nQ7llwdZYT6MWMeLLe8dc) | [Coast / Together](https://open.spotify.com/album/7k8M4tm1mp1DfdVTcTtItQ) | 3:38 |
 | 74 | [Ke Kero](https://open.spotify.com/track/1o8WmQ62tcptHOOdULAV63) | [Dr Moruti](https://open.spotify.com/artist/6WAHtGMWHB0gss7ohbkvp9), [Dee Cee](https://open.spotify.com/artist/4rVjLPF02DFPN3mSBMgPdt) | [Ke Kero](https://open.spotify.com/album/2BJQ2Mpj17IgaJDMqrJtQM) | 5:46 |

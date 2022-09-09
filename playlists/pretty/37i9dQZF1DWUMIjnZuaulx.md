@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 
 > New songs from some of the latest and greatest Gospel music artists\.  Cover:  Brian Courtney Wilson
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,684 likes - 99 songs - 8 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,903 likes - 99 songs - 8 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

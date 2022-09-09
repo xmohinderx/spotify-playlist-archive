@@ -7650,6 +7650,36 @@
     },
     {
       "album": {
+        "name": "Renoi Chronicle",
+        "url": "https://open.spotify.com/album/7iJ5ydlC5mLCgmyIUNs2WH"
+      },
+      "artists": [
+        {
+          "name": "Ray Hill",
+          "url": "https://open.spotify.com/artist/37Ez82I2tYUegLiKXfOkUw"
+        },
+        {
+          "name": "CK",
+          "url": "https://open.spotify.com/artist/7tjx9M3KfqqtH58LVTID3Q"
+        },
+        {
+          "name": "Louie",
+          "url": "https://open.spotify.com/artist/3swZbFXoZgWR6TCnMDJgCB"
+        },
+        {
+          "name": "DOPECHILD",
+          "url": "https://open.spotify.com/artist/0tReHhczVsR4CyIoenFpQs"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187034,
+      "name": "Mi Vida Loca (feat. CK, Louie & DOPECHILD)",
+      "url": "https://open.spotify.com/track/2lelDLW1VD7KM97A6naUVh"
+    },
+    {
+      "album": {
         "name": "MIC \"The Hammer\" (feat. Paloalto, Chin)",
         "url": "https://open.spotify.com/album/5myFuRRYgLrrpcJLvavoiZ"
       },
@@ -11816,6 +11846,24 @@
     },
     {
       "album": {
+        "name": "Hyun Seong So",
+        "url": "https://open.spotify.com/album/24xU8EWabeqwXltGNRIqn7"
+      },
+      "artists": [
+        {
+          "name": "KOR KASH",
+          "url": "https://open.spotify.com/artist/6opErDv4ZN3ZgbaovBUStM"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "The Trapper",
+      "url": "https://open.spotify.com/track/7KSo4suJ1r37GtTfG6hfuc"
+    },
+    {
+      "album": {
         "name": "The Gateless Gate",
         "url": "https://open.spotify.com/album/7x50GGhigFVzm7NGuCOmtk"
       },
@@ -11831,6 +11879,24 @@
       "duration_ms": 261648,
       "name": "Therapy",
       "url": "https://open.spotify.com/track/1J79ooMKKT8yK0rjPy1yZO"
+    },
+    {
+      "album": {
+        "name": "THIS Is My Life",
+        "url": "https://open.spotify.com/album/52rSYh8ESw8PAG30rXOc4F"
+      },
+      "artists": [
+        {
+          "name": "JUSTHIS",
+          "url": "https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177173,
+      "name": "THIS Is My Life",
+      "url": "https://open.spotify.com/track/14ISRyduGwFh1MIFTZY5Jz"
     },
     {
       "album": {

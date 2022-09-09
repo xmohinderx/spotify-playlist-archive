@@ -1,12 +1,12 @@
 {
   "description": "Classic Country from the Legends of the 1940's.  Where Hillbilly, Texas Swing and Bluegrass came together. Cover: Ernest Tubb",
-  "num_followers": 109082,
+  "num_followers": 109241,
   "original_name": "40s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODY5MzA5OSwwMDAwMDAwMGY2NWRkNzdiNjc0ZmZhYTQ0YjQwYTFlNTIyYzcwZWFj",
+  "snapshot_id": "MTY1ODY5MzA5OSwwMDAwMDAwMDBiMDViM2ZiOGIyYTQ4YzZlNTcxNWFmYzE3M2E5OWQz",
   "tracks": [
     {
       "added_at": "2022-07-24 19:41:51",
@@ -299,22 +299,6 @@
     {
       "added_at": "2022-07-24 19:41:51",
       "album": {
-        "name": "The Country Music Hall Of Fame",
-        "url": "https://open.spotify.com/album/4nyc58AKKAPIDSuybSUfgQ"
-      },
-      "artists": [
-        {
-          "name": "Red Foley",
-          "url": "https://open.spotify.com/artist/56tggwKsz5OqCDf1i0Str9"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "Chattanoogie Shoe Shine Boy - 1949 Single Version",
-      "url": "https://open.spotify.com/track/7Jf323ttHKUnPylFWiaGl3"
-    },
-    {
-      "added_at": "2022-07-24 19:41:51",
-      "album": {
         "name": "The Essential Bill Monroe (1945-1949)",
         "url": "https://open.spotify.com/album/22ZtRsfdL79zD3AW149x98"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 180893,
       "name": "Blue Moon of Kentucky",
       "url": "https://open.spotify.com/track/3x95FfMhVfB3ZNIufQ1IF3"
+    },
+    {
+      "added_at": "2022-07-24 19:41:51",
+      "album": {
+        "name": "The Country Music Hall Of Fame",
+        "url": "https://open.spotify.com/album/4nyc58AKKAPIDSuybSUfgQ"
+      },
+      "artists": [
+        {
+          "name": "Red Foley",
+          "url": "https://open.spotify.com/artist/56tggwKsz5OqCDf1i0Str9"
+        }
+      ],
+      "duration_ms": 169000,
+      "name": "Chattanoogie Shoe Shine Boy - 1949 Single Version",
+      "url": "https://open.spotify.com/track/7Jf323ttHKUnPylFWiaGl3"
     },
     {
       "added_at": "2022-07-24 19:41:51",
@@ -447,18 +447,18 @@
     {
       "added_at": "2022-07-24 19:41:51",
       "album": {
-        "name": "Classic Western Swing",
-        "url": "https://open.spotify.com/album/0kA18wsVKRmpMdRcQj4gqX"
+        "name": "The Essential Gene Autry",
+        "url": "https://open.spotify.com/album/3P6M5MLTnlE2sngM0iMvV8"
       },
       "artists": [
         {
-          "name": "Bob Wills & His Texas Playboys",
-          "url": "https://open.spotify.com/artist/0VyOgubdcDnrJ0AWL2TRDN"
+          "name": "Gene Autry",
+          "url": "https://open.spotify.com/artist/5ixB75BQR3ADoWQkcHQJTs"
         }
       ],
-      "duration_ms": 148733,
-      "name": "Roly-Poly",
-      "url": "https://open.spotify.com/track/1eqfEgDjxtCu8RBnEdg3bT"
+      "duration_ms": 163560,
+      "name": "Deep In the Heart of Texas",
+      "url": "https://open.spotify.com/track/6QZp4bkCotnIA1ZHayOvXt"
     },
     {
       "added_at": "2022-07-24 19:41:51",
@@ -479,18 +479,18 @@
     {
       "added_at": "2022-07-24 19:41:51",
       "album": {
-        "name": "The Essential Gene Autry",
-        "url": "https://open.spotify.com/album/3P6M5MLTnlE2sngM0iMvV8"
+        "name": "Classic Western Swing",
+        "url": "https://open.spotify.com/album/0kA18wsVKRmpMdRcQj4gqX"
       },
       "artists": [
         {
-          "name": "Gene Autry",
-          "url": "https://open.spotify.com/artist/5ixB75BQR3ADoWQkcHQJTs"
+          "name": "Bob Wills & His Texas Playboys",
+          "url": "https://open.spotify.com/artist/0VyOgubdcDnrJ0AWL2TRDN"
         }
       ],
-      "duration_ms": 163560,
-      "name": "Deep In the Heart of Texas",
-      "url": "https://open.spotify.com/track/6QZp4bkCotnIA1ZHayOvXt"
+      "duration_ms": 148733,
+      "name": "Roly-Poly",
+      "url": "https://open.spotify.com/track/1eqfEgDjxtCu8RBnEdg3bT"
     },
     {
       "added_at": "2022-07-24 19:41:51",
@@ -951,22 +951,18 @@
     {
       "added_at": "2022-07-24 19:41:51",
       "album": {
-        "name": "16 Great Songs of the Old West",
-        "url": "https://open.spotify.com/album/5YWT3TwLPXeIq7e6NATzi6"
+        "name": "Country Hoedown",
+        "url": "https://open.spotify.com/album/1jf3GBgaKcCXbSTypbfEId"
       },
       "artists": [
         {
-          "name": "Roy Rogers",
-          "url": "https://open.spotify.com/artist/7Fhopp9XWiqrS7oMw0BKjM"
-        },
-        {
-          "name": "Dale Evans",
-          "url": "https://open.spotify.com/artist/57FYvfgFq1D892GiwJCYgz"
+          "name": "Pee Wee King",
+          "url": "https://open.spotify.com/artist/43GB9K58iB2fIEFVt5ZSp2"
         }
       ],
-      "duration_ms": 137856,
-      "name": "Whopee Ti Yi Yo",
-      "url": "https://open.spotify.com/track/0rAuUGTWBabj1Rbwm3e9ex"
+      "duration_ms": 176573,
+      "name": "Slowpoke",
+      "url": "https://open.spotify.com/track/6Hyk7NaRlC3pSBrso8oFXM"
     },
     {
       "added_at": "2022-07-24 19:41:51",
@@ -987,18 +983,22 @@
     {
       "added_at": "2022-07-24 19:41:51",
       "album": {
-        "name": "Country Hoedown",
-        "url": "https://open.spotify.com/album/1jf3GBgaKcCXbSTypbfEId"
+        "name": "16 Great Songs of the Old West",
+        "url": "https://open.spotify.com/album/5YWT3TwLPXeIq7e6NATzi6"
       },
       "artists": [
         {
-          "name": "Pee Wee King",
-          "url": "https://open.spotify.com/artist/43GB9K58iB2fIEFVt5ZSp2"
+          "name": "Roy Rogers",
+          "url": "https://open.spotify.com/artist/7Fhopp9XWiqrS7oMw0BKjM"
+        },
+        {
+          "name": "Dale Evans",
+          "url": "https://open.spotify.com/artist/57FYvfgFq1D892GiwJCYgz"
         }
       ],
-      "duration_ms": 176573,
-      "name": "Slowpoke",
-      "url": "https://open.spotify.com/track/6Hyk7NaRlC3pSBrso8oFXM"
+      "duration_ms": 137856,
+      "name": "Whopee Ti Yi Yo",
+      "url": "https://open.spotify.com/track/0rAuUGTWBabj1Rbwm3e9ex"
     },
     {
       "added_at": "2022-07-24 19:41:51",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2022-07-24 19:41:51",
       "album": {
-        "name": "Presenting Al Dexter",
-        "url": "https://open.spotify.com/album/3RDJf8ODyyRMpQRhga0W9W"
-      },
-      "artists": [
-        {
-          "name": "Al Dexter",
-          "url": "https://open.spotify.com/artist/49tS3TTwFNW1O1KsY6IbJO"
-        }
-      ],
-      "duration_ms": 169760,
-      "name": "Wine, Women and Song",
-      "url": "https://open.spotify.com/track/0FnC7ilW0ONEWTsu6LyPHx"
-    },
-    {
-      "added_at": "2022-07-24 19:41:51",
-      "album": {
         "name": "Columbia Country Classics Volume 1: The Golden Age",
         "url": "https://open.spotify.com/album/5KjgZmF5dhZ2RwW9sJfB2V"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 159800,
       "name": "Born to Lose",
       "url": "https://open.spotify.com/track/6Z6bycK4qORoW6VGp8YrUY"
+    },
+    {
+      "added_at": "2022-07-24 19:41:51",
+      "album": {
+        "name": "Presenting Al Dexter",
+        "url": "https://open.spotify.com/album/3RDJf8ODyyRMpQRhga0W9W"
+      },
+      "artists": [
+        {
+          "name": "Al Dexter",
+          "url": "https://open.spotify.com/artist/49tS3TTwFNW1O1KsY6IbJO"
+        }
+      ],
+      "duration_ms": 169760,
+      "name": "Wine, Women and Song",
+      "url": "https://open.spotify.com/track/0FnC7ilW0ONEWTsu6LyPHx"
     }
   ],
   "unique_name": "40s Country",

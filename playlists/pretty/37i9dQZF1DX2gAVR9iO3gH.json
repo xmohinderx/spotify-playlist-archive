@@ -1,12 +1,12 @@
 {
   "description": "Miami me lo confirm\u00f3 featuring Nicky Jam.",
-  "num_followers": 37069,
+  "num_followers": 37181,
   "original_name": "Rompiendo: Miami",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDg5MDM4MywwMDAwMDAwMDRjNjZjMmQzZjk1YmZjNDA0YTIwZWJiY2IxNzA2MDlm",
+  "snapshot_id": "MTY2MDg5MDM4MywwMDAwMDAwMGViYjM5YWM4YzcxODg1MGU1MjJiODI3YWQ2MWJiZDUy",
   "tracks": [
     {
       "added_at": "2022-08-19 06:26:23",
@@ -1363,26 +1363,6 @@
     {
       "added_at": "2022-08-19 06:26:23",
       "album": {
-        "name": "Ley Seca",
-        "url": "https://open.spotify.com/album/2FA49rbLgNqFX28k1RE4Vn"
-      },
-      "artists": [
-        {
-          "name": "Jhay Cortez",
-          "url": "https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        }
-      ],
-      "duration_ms": 263653,
-      "name": "Ley Seca",
-      "url": "https://open.spotify.com/track/51yjkR9blUWtAphR7lZl5y"
-    },
-    {
-      "added_at": "2022-08-19 06:26:23",
-      "album": {
         "name": "Fan de Tus Fotos",
         "url": "https://open.spotify.com/album/2AWg2kHOfuRPjJKYyttF9T"
       },
@@ -1399,6 +1379,26 @@
       "duration_ms": 197647,
       "name": "Fan de Tus Fotos",
       "url": "https://open.spotify.com/track/1mauYRwbpoGQX6itP2FAJC"
+    },
+    {
+      "added_at": "2022-08-19 06:26:23",
+      "album": {
+        "name": "Ley Seca",
+        "url": "https://open.spotify.com/album/2FA49rbLgNqFX28k1RE4Vn"
+      },
+      "artists": [
+        {
+          "name": "Jhay Cortez",
+          "url": "https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "duration_ms": 263653,
+      "name": "Ley Seca",
+      "url": "https://open.spotify.com/track/51yjkR9blUWtAphR7lZl5y"
     },
     {
       "added_at": "2022-08-19 06:26:23",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2022-08-19 06:26:23",
       "album": {
-        "name": "Miami",
-        "url": "https://open.spotify.com/album/0ffCDiEj0kSf1Z4cLLAyHl"
-      },
-      "artists": [
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        }
-      ],
-      "duration_ms": 192006,
-      "name": "Miami",
-      "url": "https://open.spotify.com/track/5vUIh7sODY1sD6EIo49Dka"
-    },
-    {
-      "added_at": "2022-08-19 06:26:23",
-      "album": {
         "name": "En Mi Cuarto",
         "url": "https://open.spotify.com/album/5Tb0I67ArZ6gI4tXJVIJ3h"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 196586,
       "name": "En Mi Cuarto",
       "url": "https://open.spotify.com/track/6Ee34qCOE6FBzEPRAGwSrn"
+    },
+    {
+      "added_at": "2022-08-19 06:26:23",
+      "album": {
+        "name": "Miami",
+        "url": "https://open.spotify.com/album/0ffCDiEj0kSf1Z4cLLAyHl"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "duration_ms": 192006,
+      "name": "Miami",
+      "url": "https://open.spotify.com/track/5vUIh7sODY1sD6EIo49Dka"
     },
     {
       "added_at": "2022-08-19 06:26:23",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2022-08-19 06:26:23",
       "album": {
-        "name": "Uno Pal Otro",
-        "url": "https://open.spotify.com/album/6GcnRKDXwkH1oCeCA2BnJp"
-      },
-      "artists": [
-        {
-          "name": "Gonzy",
-          "url": "https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L"
-        }
-      ],
-      "duration_ms": 217080,
-      "name": "Uno Pal Otro",
-      "url": "https://open.spotify.com/track/60iAEGo1UgPdxSfHEFe66w"
-    },
-    {
-      "added_at": "2022-08-19 06:26:23",
-      "album": {
         "name": "Piensas En Mi",
         "url": "https://open.spotify.com/album/48bOYyl6R4Osu0luA0RWoS"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 182400,
       "name": "Piensas En Mi",
       "url": "https://open.spotify.com/track/4aZXV9vBzJlwAd54GGZdGY"
+    },
+    {
+      "added_at": "2022-08-19 06:26:23",
+      "album": {
+        "name": "Uno Pal Otro",
+        "url": "https://open.spotify.com/album/6GcnRKDXwkH1oCeCA2BnJp"
+      },
+      "artists": [
+        {
+          "name": "Gonzy",
+          "url": "https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L"
+        }
+      ],
+      "duration_ms": 217080,
+      "name": "Uno Pal Otro",
+      "url": "https://open.spotify.com/track/60iAEGo1UgPdxSfHEFe66w"
     },
     {
       "added_at": "2022-08-19 06:26:23",

@@ -2,7 +2,7 @@
 
 ### [Cocktail Jazz](https://open.spotify.com/playlist/37i9dQZF1DWU6MDxlH7Sr1)
 
-> Soft jazz in the background of your cocktail party.
+> Soft Jazz in the background of your cocktail party.
 
 137 songs - 9 hr 35 min - [published](https://open.spotify.com/playlist/2vEWDsu9Afic181JBShVxc)
 

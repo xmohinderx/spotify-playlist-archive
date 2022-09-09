@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Il meglio da Napoli e dalla scena campana. Cover: Geolier",
+  "description": "Il meglio da Napoli e dalla scena campana. Cover: Yung Snapp",
   "name": "Int 'o Rione",
   "published_playlist_ids": [
     "24YJoDhwO3164C86soW14C"
@@ -515,7 +515,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 150000,
       "name": "DON'T STOP",
       "url": "https://open.spotify.com/track/7phaQRCg0ws1d9mb9C9aTO"
@@ -845,7 +845,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 170090,
       "name": "L'immortale",
       "url": "https://open.spotify.com/track/1OnQfsNP3MzaxGsP52siB9"
@@ -1063,6 +1063,24 @@
       "duration_ms": 220372,
       "name": "MIRANAPOLI !",
       "url": "https://open.spotify.com/track/0uguXoThv1UhkGHHZAsNcq"
+    },
+    {
+      "album": {
+        "name": "Montana",
+        "url": "https://open.spotify.com/album/0wfHDwNuPkzAdbcbSK8p8U"
+      },
+      "artists": [
+        {
+          "name": "Yung Snapp",
+          "url": "https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172394,
+      "name": "Montana",
+      "url": "https://open.spotify.com/track/3TNxFSgZDfY5ZkVRDtYlw2"
     },
     {
       "album": {
@@ -2075,6 +2093,24 @@
       "duration_ms": 142941,
       "name": "Vado Fuori",
       "url": "https://open.spotify.com/track/368Bj5HWZe98B6ChmsK1XE"
+    },
+    {
+      "album": {
+        "name": "Vida Loca",
+        "url": "https://open.spotify.com/album/4rLBnUhWRXUg8s1OOsWxNw"
+      },
+      "artists": [
+        {
+          "name": "Guerra",
+          "url": "https://open.spotify.com/artist/4kEZMl8mZ5WX2fAQq6feTC"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174875,
+      "name": "Vida Loca",
+      "url": "https://open.spotify.com/track/63WzPPR8lS0ibJeZvngg9A"
     },
     {
       "album": {

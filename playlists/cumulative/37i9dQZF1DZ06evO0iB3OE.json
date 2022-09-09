@@ -109,7 +109,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 210626,
       "name": "Cien Por Uno",
       "url": "https://open.spotify.com/track/3Q2XC6VEwTXYVyrRO25csQ"
@@ -145,7 +145,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-06",
+      "date_removed": null,
       "duration_ms": 182773,
       "name": "Compa Alfredito",
       "url": "https://open.spotify.com/track/50duN2SOYCZoDNWJf526HO"
@@ -225,7 +225,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 174693,
       "name": "De Manuel Torres Felix",
       "url": "https://open.spotify.com/track/6gyBJAMBPrrqgeoistlrpv"
@@ -337,7 +337,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-06",
+      "date_removed": null,
       "duration_ms": 254800,
       "name": "El Avi\u00f3n De La Muerte",
       "url": "https://open.spotify.com/track/1D1iVySlRJhOwygJDQRaqk"
@@ -503,7 +503,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 169469,
       "name": "El de Arriva Me Bendice",
       "url": "https://open.spotify.com/track/65ARD3G7j5Q3eU3Jzd13Xn"
@@ -785,7 +785,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 142093,
       "name": "Gente del Macho",
       "url": "https://open.spotify.com/track/5genkMFK6tqWI8I57ZdIic"
@@ -851,6 +851,28 @@
       "duration_ms": 168813,
       "name": "La Cama de Piedra",
       "url": "https://open.spotify.com/track/2ecwjiEoyqrj8BsVUZAxaL"
+    },
+    {
+      "album": {
+        "name": "La Cama de Piedra (En Vivo)",
+        "url": "https://open.spotify.com/album/6HA6a9Hwdh4eoOrpfP7vIf"
+      },
+      "artists": [
+        {
+          "name": "Panchito Arredondo",
+          "url": "https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV"
+        },
+        {
+          "name": "El Potro De Sinaloa",
+          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200377,
+      "name": "La Cama de Piedra (En Vivo)",
+      "url": "https://open.spotify.com/track/1ptgCreLni4KWGJxPSlrAK"
     },
     {
       "album": {
@@ -1087,7 +1109,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-06",
+      "date_removed": null,
       "duration_ms": 239381,
       "name": "Las Tempestades",
       "url": "https://open.spotify.com/track/28ylzCdO95jHk2gjTcD02P"

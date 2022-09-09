@@ -4,7 +4,7 @@
 
 > 1\-2\-3, 5\-6\-7, now you're dancing salsa!
 
-159 songs - 13 hr 6 min - [published](https://open.spotify.com/playlist/4XDAKmGxhqFedp5hyrO7jw)
+160 songs - 13 hr 10 min - [published](https://open.spotify.com/playlist/4XDAKmGxhqFedp5hyrO7jw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Duplicandote la Dosis](https://open.spotify.com/track/66KTIGJNvDQD44KHtcqHUB) | [TIMBALIVE](https://open.spotify.com/artist/5skRgtmxRx7ukwds6UlS7R), [Roberton 'van Van'](https://open.spotify.com/artist/1KBKqOukPajBDhhHYRyZoJ) | [Gasolina De Avion](https://open.spotify.com/album/00QgOwkUze7LTEKnvEFgOJ) | 4:58 | 2021-11-25 | 2022-04-29 |
 | [El Cantante](https://open.spotify.com/track/0C279YvVWJcmFMSDtqIGfq) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [El Cantante de los Cantantes](https://open.spotify.com/album/1uj6t6QrkyuyeHdHcKporK) | 10:22 | 2021-11-25 | 2022-07-20 |
 | [El Cantante](https://open.spotify.com/track/5Uve0jm1RgxKWzdSvncBDO) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Comedia](https://open.spotify.com/album/7CBmznpnzPgLpBXFlB40B6) | 10:26 | 2021-11-25 |  |
-| [El Cuarto de Tula](https://open.spotify.com/track/7dRfobhDNnsEgB2ZArxA1f) | [Buena Vista Social Club](https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW) | [Buena Vista Social Club](https://open.spotify.com/album/6DPdEaZ0KDBCCgXyy4q8bi) | 7:24 | 2021-11-25 |  |
+| [El Cuarto de Tula](https://open.spotify.com/track/7dRfobhDNnsEgB2ZArxA1f) | [Buena Vista Social Club](https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW) | [Buena Vista Social Club](https://open.spotify.com/album/6DPdEaZ0KDBCCgXyy4q8bi) | 7:24 | 2021-11-25 | 2022-09-09 |
 | [El Día De Mi Suerte](https://open.spotify.com/track/7Kmfjms3yyhg2y56mN7EfZ) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Lo Mato](https://open.spotify.com/album/4TzXeIsjyPLaNvgOd84bwr) | 5:28 | 2021-11-25 |  |
 | [El Gran Varon](https://open.spotify.com/track/27n9VDbbjFnEJsgjYTnwTM) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Willie Colon \- Greatest Hits](https://open.spotify.com/album/1ElTJXwWHV2bylfc972bjZ) | 6:54 | 2021-11-25 | 2022-07-29 |
 | [El Gran Varon](https://open.spotify.com/track/6ceFUA4tpIUfkMH7LZbjV4) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Selecciones Fania](https://open.spotify.com/album/06CI42npzEKax6Li1PhaiO) | 6:54 | 2021-11-25 | 2022-07-21 |
@@ -96,6 +96,7 @@
 | [Mi Media Mitad](https://open.spotify.com/track/6NVDOYsx5KMYBSRbL4MYFN) | [Rey Ruiz](https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ) | [Salsa Mix](https://open.spotify.com/album/0oMUtcD0Of7qI2Fzj1PXgu) | 4:54 | 2021-11-25 | 2022-07-28 |
 | [Mia](https://open.spotify.com/track/3x4oECarDKCZxecqOYis52) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [De Verdad](https://open.spotify.com/album/1MNS4bn9b4b1E5J4w9ogP7) | 4:43 | 2021-11-25 | 2022-07-23 |
 | [Micaela](https://open.spotify.com/track/5wO7Rhzideqoc4YZbThhDw) | [Luis Florez](https://open.spotify.com/artist/125qXSgsP3irn2SEE6rpor), [Sonora Carruseles](https://open.spotify.com/artist/34qU0b0yRjEzRJtknerEDS) | [La Salsa Metálica Volvió Con Todos los Hierros](https://open.spotify.com/album/2r8ublqFKDjMBKCd7PjPGh) | 4:44 | 2021-11-25 | 2022-07-23 |
+| [Mía](https://open.spotify.com/track/6HJCGXNww93AIaaxUb7C3O) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [De Verdad \(15 Super Exitos\)](https://open.spotify.com/album/7x4yJrZW7V1XdazGp7owXr) | 4:43 | 2021-11-25 |  |
 | [Mía](https://open.spotify.com/track/6RCHqUodOWBkMBPiKYzJhP) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [Pura Salsa](https://open.spotify.com/album/4SujA5rkKMrIX6VNNuHCPT) | 4:43 | 2021-11-25 | 2022-07-29 |
 | [No Me Acostumbro](https://open.spotify.com/track/4SjBGbtJz77ximBiOZcIn6) | [Rey Ruiz](https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ) | [Oro Salsero](https://open.spotify.com/album/5X1QYXR9eQO3cYZrqeoIYE) | 4:49 | 2021-11-25 | 2022-07-28 |
 | [Oiga Mire Vea](https://open.spotify.com/track/6A7dR7c3P7zhMP8e7qlHIm) | [Guayacán Orquesta](https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE) | [V.I.P\. Edition](https://open.spotify.com/album/347gV97H7hMyQnao9IOUwa) | 5:25 | 2021-11-25 | 2022-07-23 |

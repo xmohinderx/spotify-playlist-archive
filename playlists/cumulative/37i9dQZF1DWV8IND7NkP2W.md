@@ -4,7 +4,7 @@
 
 > The ultimate instrumental soundtrack for a long haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-497 songs - 22 hr 12 min - [published](https://open.spotify.com/playlist/6G1POdc4fbQZ6aBIV9rUMB)
+498 songs - 22 hr 14 min - [published](https://open.spotify.com/playlist/6G1POdc4fbQZ6aBIV9rUMB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,7 +103,7 @@
 | [daydream](https://open.spotify.com/track/0O7d31gAMyhY9QhxmR2OEK) | [BROCKBEATS](https://open.spotify.com/artist/0DrshpbzI0ItncVhYZ2BtW) | [daydream](https://open.spotify.com/album/4KfAM2THqC8b3Wjb0HTx6R) | 2:39 | 2021-12-23 | 2022-07-29 |
 | [Daydreaming](https://open.spotify.com/track/7jyGySKmUD3HUAX9qOHDkD) | [Mother of Moons](https://open.spotify.com/artist/1keHkHLAnxyWjL4HvGCUuS), [Marinjo](https://open.spotify.com/artist/2ExJxEVhsa8Oju8h0lI1Zw), [Diamond Dvst](https://open.spotify.com/artist/4kD9uFbVFlkIyEXKFlI7Ye) | [Daydreaming](https://open.spotify.com/album/5LOSS4ERrNfQxNyOqEC5xc) | 1:48 | 2022-04-07 | 2022-04-18 |
 | [daytime moon](https://open.spotify.com/track/3B9HHhRfddTwTIZKGGQzzn) | [Akio Watanabe](https://open.spotify.com/artist/1epOdFDcd9PEgkchlAUND4), [n'sawa\-saraca](https://open.spotify.com/artist/2qjQAfgSf4srD1QtETCX7v) | [daytime moon](https://open.spotify.com/album/3dbZZx4BmTizsohK0AwQIK) | 3:19 | 2021-12-23 | 2022-07-29 |
-| [Dedicate](https://open.spotify.com/track/0ZqZasY1NcovlaPFS9T8Y0) | [NICKELMAN](https://open.spotify.com/artist/36pqgmoQFc12FhcRZitq6I) | [Dedicate](https://open.spotify.com/album/1r8ZqsMWq8Z0ENt7NgLZE0) | 2:47 | 2021-12-23 |  |
+| [Dedicate](https://open.spotify.com/track/0ZqZasY1NcovlaPFS9T8Y0) | [NICKELMAN](https://open.spotify.com/artist/36pqgmoQFc12FhcRZitq6I) | [Dedicate](https://open.spotify.com/album/1r8ZqsMWq8Z0ENt7NgLZE0) | 2:47 | 2021-12-23 | 2022-09-09 |
 | [Dedicated To J Dilla](https://open.spotify.com/track/0yZUH9ygRa0uWz6IsiAz6T) | [Linn Mori](https://open.spotify.com/artist/2XJEj3lY4tkVx0IH5Ue69E), [Luviia](https://open.spotify.com/artist/5ahT6WLn4GdWgcuGyyifU4) | [Dedicated To J Dilla](https://open.spotify.com/album/2eBXF48Yz6f6tToDIqvGbO) | 2:50 | 2021-12-23 | 2022-07-27 |
 | [Deep Inst](https://open.spotify.com/track/0v9RBiou0hGEg4ZBRnz1Gy) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Mind Over Metaphors, Pt 2 \- Instrumental](https://open.spotify.com/album/4488Qu3weVUyJboVrOjeht) | 3:11 | 2022-03-24 | 2022-08-23 |
 | [DeFacto](https://open.spotify.com/track/7n9znTQsBA7GhwnTDB9sIl) | [sakamoto junnosuke](https://open.spotify.com/artist/79CYOq7U0oNlU4H8kXUj5v) | [DeFacto](https://open.spotify.com/album/1keVcaCTxWsTpoeef9X9gU) | 3:34 | 2021-12-23 | 2022-07-29 |
@@ -192,6 +192,7 @@
 | [Icarus](https://open.spotify.com/track/530Xx6I8NFxfBJm0IoZnDv) | [Five Minutes More](https://open.spotify.com/artist/2BBOvNfq6baSF6uRp6EtmV), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Icarus](https://open.spotify.com/album/09RfzC0FMnsYD4GJsBjxIR) | 2:18 | 2022-03-24 | 2022-04-09 |
 | [Ice Cream](https://open.spotify.com/track/13GUhuKkw9e12Nwj54p0l3) | [Green Baron](https://open.spotify.com/artist/7Jk4hgstiIuLX4HjrQHLgE) | [Ice Cream](https://open.spotify.com/album/2G5AyPKcWJBeKpjPlpwMgM) | 3:00 | 2021-12-23 | 2022-07-28 |
 | [Ice Cream](https://open.spotify.com/track/1vn0Ps4qHeyaed9oPEDNOa) | [呼煙魔](https://open.spotify.com/artist/6DCqyAIjEYMWaUbJExBBA5) | [The Reflector](https://open.spotify.com/album/5ToeQ4GplISC4SxjZUMYR3) | 1:58 | 2022-01-06 | 2022-07-06 |
+| [Iceberg](https://open.spotify.com/track/53INdmp1OcnmziwVAmT5u8) | [ord minami](https://open.spotify.com/artist/7DkSVWqbEDgCB0EHWUe7FV) | [Iceberg](https://open.spotify.com/album/58wcc4X3Z3SqKk9HIxlvKf) | 2:15 | 2022-08-25 |  |
 | [ICHIMONJI](https://open.spotify.com/track/626liCLxJ7TaxT3WByT2RW) | [Blooky Jeeky](https://open.spotify.com/artist/0vUFizCD32zqgWG2BYHYVn) | [Only Surface](https://open.spotify.com/album/4JsHKaH4j84GCEwGwQfa7X) | 1:53 | 2022-02-03 | 2022-07-29 |
 | [If Only](https://open.spotify.com/track/4H81g6tEZdLPkeP8ANMJBg) | [Yugo Ease](https://open.spotify.com/artist/3lm53S8BFfxuEVL7Nxn7FJ) | [Planta](https://open.spotify.com/album/6dI4qO3cnzlvKz0jXwVvrO) | 1:44 | 2021-12-23 | 2022-04-19 |
 | [IKA \(SOUND TOUR\)](https://open.spotify.com/track/5fUGnuMTQoRHcs3lF10zLu) | [Matt Cab](https://open.spotify.com/artist/5QdG7ZI7k64K5DLjOJgK31) | [IKA \(SOUND TOUR\)](https://open.spotify.com/album/2WBGivzgdwNUKKWj9NvAVs) | 1:27 | 2022-04-14 | 2022-07-13 |

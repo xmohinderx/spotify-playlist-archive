@@ -4,7 +4,7 @@
 
 > New music from Lil Baby, Gucci Mane and Yeat.
 
-1,334 songs - 2 day 20 hr 42 min - [published](https://open.spotify.com/playlist/5P8tKmuueRelbQ17C8xRQo)
+1,335 songs - 2 day 20 hr 46 min - [published](https://open.spotify.com/playlist/5P8tKmuueRelbQ17C8xRQo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -376,6 +376,7 @@
 | [First Place](https://open.spotify.com/track/5rSVQzJQ5nMUcFJDkJMfzL) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [First Place](https://open.spotify.com/album/3IUuhdkjrVNZQZK9V1rB3q) | 3:19 | 2020-01-17 | 2020-02-14 |
 | [Fish Scale](https://open.spotify.com/track/116HT0QgVhzSxydCwRgpTY) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Colors \(Deluxe\)](https://open.spotify.com/album/23xXG1FGqcdDVUCUIfTuUt) | 2:50 | 2022-01-24 | 2022-01-29 |
 | [Flamerz Flow](https://open.spotify.com/track/74saqPvlvYTPwXORWa9IeU) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Flamerz Flow](https://open.spotify.com/album/69Fj23LvwqsYsPE0roNuzl) | 1:40 | 2021-06-05 | 2021-06-11 |
+| [Flashing Lights](https://open.spotify.com/track/5TRPicyLGbAF2LGBFbHGvO) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Dwele](https://open.spotify.com/artist/7u6LfVyYpEzMpHLL7jTyvU) | [Graduation](https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3) | 3:57 | 2022-09-08 |  |
 | [Flewed Out](https://open.spotify.com/track/3Ao4pGywlb4i8WiJgYWRm6) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [City On Lock](https://open.spotify.com/album/4VzVHSPoh9MP85THaTfYpN) | 3:10 | 2020-06-20 | 2020-06-29 |
 | [Flex \(feat\. Juice WRLD\)](https://open.spotify.com/track/2QqJTIlGKRLJC3onkavYEz) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [THE GOAT](https://open.spotify.com/album/39xhYyNNDatQtgKw2KdXMz) | 2:43 | 2020-05-19 | 2020-09-18 |
 | [Flex Up](https://open.spotify.com/track/4KA2BWwYcC8ujPvCT3BnWc) | [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [Jay Critch](https://open.spotify.com/artist/6Av6GMCOznZIlHuNcBWgf4), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL) | [Rich Forever 4](https://open.spotify.com/album/4dLLebdeyxmLDUOmUgmkEg) | 2:57 | 2019-08-02 | 2019-08-16 |

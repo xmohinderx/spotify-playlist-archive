@@ -1,12 +1,12 @@
 {
   "description": "When the night isn't over just yet.",
-  "num_followers": 142374,
+  "num_followers": 142511,
   "original_name": "4AM Chillout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjM2OTI5MywwMDAwMDAwMDI1ZjNkMjU0MmNjYjAyMjUyYzlhMmZlMmM1OTc5NDk2",
+  "snapshot_id": "MTY2MjM2OTI5MywwMDAwMDAwMGUxM2ZkMGU5NTgwYzhmZWVkYTNhYzRkMjlhZjU4ZTM1",
   "tracks": [
     {
       "added_at": "2022-09-05 09:14:53",
@@ -607,30 +607,18 @@
     {
       "added_at": "2022-09-05 09:14:53",
       "album": {
-        "name": "Moments (Ben B\u00f6hmer & Nils Hoffmann Remix)",
-        "url": "https://open.spotify.com/album/0BqyPWvPIl8nyAmSZhvUoc"
+        "name": "Othona",
+        "url": "https://open.spotify.com/album/0VN8KeolDU9D7Iv1ivEYvV"
       },
       "artists": [
         {
-          "name": "Kidnap",
-          "url": "https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT"
-        },
-        {
-          "name": "Leo Stannard",
-          "url": "https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0"
-        },
-        {
-          "name": "Ben B\u00f6hmer",
-          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
-        },
-        {
-          "name": "Nils Hoffmann",
-          "url": "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb"
+          "name": "Dark Sky",
+          "url": "https://open.spotify.com/artist/1qo9Fb4nYgez0Hpfi2RuiV"
         }
       ],
-      "duration_ms": 250206,
-      "name": "Moments - Ben B\u00f6hmer & Nils Hoffmann Remix",
-      "url": "https://open.spotify.com/track/3RF7yizTDynqcKO9EmypOy"
+      "duration_ms": 256533,
+      "name": "Angels",
+      "url": "https://open.spotify.com/track/4TQmCn0e9L7XTiKY4Hk8X4"
     },
     {
       "added_at": "2022-09-05 09:14:53",
@@ -659,18 +647,30 @@
     {
       "added_at": "2022-09-05 09:14:53",
       "album": {
-        "name": "Othona",
-        "url": "https://open.spotify.com/album/0VN8KeolDU9D7Iv1ivEYvV"
+        "name": "Moments (Ben B\u00f6hmer & Nils Hoffmann Remix)",
+        "url": "https://open.spotify.com/album/0BqyPWvPIl8nyAmSZhvUoc"
       },
       "artists": [
         {
-          "name": "Dark Sky",
-          "url": "https://open.spotify.com/artist/1qo9Fb4nYgez0Hpfi2RuiV"
+          "name": "Kidnap",
+          "url": "https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT"
+        },
+        {
+          "name": "Leo Stannard",
+          "url": "https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0"
+        },
+        {
+          "name": "Ben B\u00f6hmer",
+          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
+        },
+        {
+          "name": "Nils Hoffmann",
+          "url": "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb"
         }
       ],
-      "duration_ms": 256533,
-      "name": "Angels",
-      "url": "https://open.spotify.com/track/4TQmCn0e9L7XTiKY4Hk8X4"
+      "duration_ms": 250206,
+      "name": "Moments - Ben B\u00f6hmer & Nils Hoffmann Remix",
+      "url": "https://open.spotify.com/track/3RF7yizTDynqcKO9EmypOy"
     },
     {
       "added_at": "2022-09-05 09:14:53",

@@ -4,7 +4,7 @@
 
 > African dance party music from Paris to Abidjan\. Photo : Serge Beynaud
 
-78 songs - 4 hr 43 min - [published](https://open.spotify.com/playlist/05NUJhg2S8ET7TkDhLag5G)
+79 songs - 4 hr 46 min - [published](https://open.spotify.com/playlist/05NUJhg2S8ET7TkDhLag5G)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Elephant d'or](https://open.spotify.com/track/6IV4Lb4470lOo8pFrknNmN) | [Fababy](https://open.spotify.com/artist/1ufm09MhiuoHpIFkbcIZGx), [DJ KEROZEN](https://open.spotify.com/artist/6CPW7jlE6totfvrymgqV7W) | [Éléphant d'or](https://open.spotify.com/album/2sghK6Ruux6IYqQbhNGCf1) | 2:44 | 2022-06-23 | 2022-09-02 |
 | [Enfant de Dieu](https://open.spotify.com/track/6vuHEKtooN9wuoGMMt3NcY) | [Ks Bloom](https://open.spotify.com/artist/0iSX5EqjPdp2xkU7fgw7bp) | [Allumez la lumière](https://open.spotify.com/album/67M8L0PH2ijmmshYMgdaui) | 3:23 | 2021-12-20 |  |
 | [Enfants préférés](https://open.spotify.com/track/2oXPRdfajXsuvSNzQQLxQJ) | [Force One](https://open.spotify.com/artist/4quqBaZRHb1VeG3dAPucPS), [Elow'n](https://open.spotify.com/artist/0Gzh0CiahP7loDQP9cn8wt) | [Enfants préférés](https://open.spotify.com/album/2n3a5j2w1qlsQ4NEsN0PJu) | 3:25 | 2021-12-20 | 2022-05-27 |
-| [Fan ou Amoureux](https://open.spotify.com/track/0HB11vrRhhiZrdIoenOVMS) | [Suspect95](https://open.spotify.com/artist/1iOxNiCG89VJAPdTzJKKQ9), [Josey](https://open.spotify.com/artist/5Dd8Qrck8pEc9EucV9xdjq) | [Fan ou Amoureux](https://open.spotify.com/album/3tUmrMOkfaf03TTiFn6QIy) | 3:55 | 2022-03-22 |  |
+| [Fan ou Amoureux](https://open.spotify.com/track/0HB11vrRhhiZrdIoenOVMS) | [Suspect95](https://open.spotify.com/artist/1iOxNiCG89VJAPdTzJKKQ9), [Josey](https://open.spotify.com/artist/5Dd8Qrck8pEc9EucV9xdjq) | [Fan ou Amoureux](https://open.spotify.com/album/3tUmrMOkfaf03TTiFn6QIy) | 3:55 | 2022-03-22 | 2022-09-09 |
 | [Gbêssê](https://open.spotify.com/track/4HnSuaffFKg2FveLpOubAr) | [Ovie Kan](https://open.spotify.com/artist/3nKWXc2kFHNOhjr37rkvqd) | [Gbêssê](https://open.spotify.com/album/60ZH03fBOxrVsHuP5VTdee) | 3:16 | 2021-12-20 |  |
 | [Godo Godo](https://open.spotify.com/track/1o7k5eUEA0m6Q7H0A1tvyU) | [Fior 2 Bior](https://open.spotify.com/artist/1Aa3gpwuQeWHXUkjCa6BrL) | [Godo Godo](https://open.spotify.com/album/7gdUmmaUUZLYvD9KaLnSaV) | 2:39 | 2022-02-18 |  |
 | [Godomoué](https://open.spotify.com/track/4TG0I43Yci9DupAyFBUN1h) | [JN LE BOSS](https://open.spotify.com/artist/39lBGgf33GpI6pQ9DoqGBs), [Yanik Jones](https://open.spotify.com/artist/22f7okXAJWbCs8NJpHv6iG) | [Godomoué](https://open.spotify.com/album/5bFmQ5N0A6zLei6LWp330Y) | 2:48 | 2021-12-20 | 2022-05-21 |
@@ -67,6 +67,7 @@
 | [Ouvrez](https://open.spotify.com/track/50Y0HaKv5dXn1gvu0vqxlm) | [Landry Blessing](https://open.spotify.com/artist/0XCuDSjvlrrEBh2xfOFQfU), [Dj Léo le kdo du ciel](https://open.spotify.com/artist/084TMjcRarwgyURTDNr8Xh) | [Ouvrez](https://open.spotify.com/album/27YVEALRaGaDRJCI8NIMM9) | 3:21 | 2022-06-02 |  |
 | [Quand J'aurai l'argent \(Plenty Money\) \(feat\. Innoss'B\)](https://open.spotify.com/track/47YAov7C5zQXX5bz2hcoEz) | [Ko\-C](https://open.spotify.com/artist/7BuOoNFjQ1NSpXH0NEzWjy), [Innoss'B](https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV) | [Quand J'aurai l'argent \(Plenty Money\) \[feat\. Innoss'B\]](https://open.spotify.com/album/4VwgIWmgmlJesg9mmkXlua) | 3:21 | 2022-06-16 |  |
 | [Rebelotte](https://open.spotify.com/track/5PQakziJJG1F2y6S01FZO8) | [Josey](https://open.spotify.com/artist/5Dd8Qrck8pEc9EucV9xdjq) | [Cocktail](https://open.spotify.com/album/6a79UcGIGSIDsTPgKoKepN) | 3:38 | 2021-12-20 | 2022-06-24 |
+| [Rein](https://open.spotify.com/track/5v3phnlqL1HJWobXYH0WHo) | [Obam's](https://open.spotify.com/artist/6MtWmIeWlDa4xvd5nWf5hq) | [Rein](https://open.spotify.com/album/6dkkDjeELnGdewas8yuB2E) | 3:11 | 2022-09-08 |  |
 | [Retour à l'envoyeur](https://open.spotify.com/track/1TPJuA1nHM2YoVQ1AAEJ4O) | [Anderson 1er](https://open.spotify.com/artist/2MF2HhouHc4XEbRl7N6Jpp) | [Retour à l'envoyeur](https://open.spotify.com/album/2WOzhUZkErZQG4s07tV8Sl) | 3:53 | 2022-08-25 |  |
 | [Si tu veux partir](https://open.spotify.com/track/1fIJIeH1UGo8iIGtULmSQo) | [Yilim](https://open.spotify.com/artist/1UAzbRXl5HrFENZFNtmO09) | [Si tu veux partir](https://open.spotify.com/album/5BIVokEq8qsDHH96pnrCXS) | 3:44 | 2022-05-20 |  |
 | [Statut visé](https://open.spotify.com/track/6TDLNk7EqIR9QJXKl3zDQP) | [Serge Beynaud](https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1) | [Statut visé](https://open.spotify.com/album/7E5rsjdqtGNTVO2d13JCom) | 3:35 | 2022-07-21 |  |

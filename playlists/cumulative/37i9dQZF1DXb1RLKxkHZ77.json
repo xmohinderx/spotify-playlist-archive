@@ -113,7 +113,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 201000,
       "name": "Bahagiakan Dia",
       "url": "https://open.spotify.com/track/4oBaBPg7nDBJfvDn3Dkzjk"
@@ -587,6 +587,24 @@
       "duration_ms": 242000,
       "name": "Hati-Hati di Jalan",
       "url": "https://open.spotify.com/track/2hHeGD57S0BcopfVcmehdl"
+    },
+    {
+      "album": {
+        "name": "Hilang",
+        "url": "https://open.spotify.com/album/75edk9IuOsxG4ydh0VloAb"
+      },
+      "artists": [
+        {
+          "name": "Kaka Azraff",
+          "url": "https://open.spotify.com/artist/4a6rcjvQs6YOwK5sVlybKV"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207882,
+      "name": "Hilang",
+      "url": "https://open.spotify.com/track/5YJPHN7xlauOtmDqN5YRtX"
     },
     {
       "album": {
@@ -1089,7 +1107,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 240672,
       "name": "PEREMPUAN",
       "url": "https://open.spotify.com/track/4mNpO8m99gv1p8BgYCf1F3"
@@ -1458,6 +1476,24 @@
     },
     {
       "album": {
+        "name": "Tega",
+        "url": "https://open.spotify.com/album/5LyzuRigW4b7bP0yaXma1q"
+      },
+      "artists": [
+        {
+          "name": "Judika",
+          "url": "https://open.spotify.com/artist/5fS7aONqrIhiw6YzgKVOsd"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235991,
+      "name": "Tega",
+      "url": "https://open.spotify.com/track/0heJfKKROo8ELfJH94RUYe"
+    },
+    {
+      "album": {
         "name": "Terlukis Indah",
         "url": "https://open.spotify.com/album/5Qk3VFJJ4CKS3zcBNp2YRs"
       },
@@ -1531,6 +1567,28 @@
       "duration_ms": 224000,
       "name": "Top Boi",
       "url": "https://open.spotify.com/track/49dHs04lUC9EmyhuXRFaJQ"
+    },
+    {
+      "album": {
+        "name": "You're Mine",
+        "url": "https://open.spotify.com/album/0hzm1ovqstOPf7bktnuZ4s"
+      },
+      "artists": [
+        {
+          "name": "Rizky Febian",
+          "url": "https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku"
+        },
+        {
+          "name": "Mahalini",
+          "url": "https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248039,
+      "name": "You're Mine",
+      "url": "https://open.spotify.com/track/7bHDQE9P4mF8uClGIlQKLR"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXb1RLKxkHZ77"

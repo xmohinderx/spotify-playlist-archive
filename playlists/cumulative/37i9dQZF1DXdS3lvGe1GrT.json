@@ -686,6 +686,24 @@
     },
     {
       "album": {
+        "name": "Eloise",
+        "url": "https://open.spotify.com/album/3nGr1XT7lFIZfrV2hzkkYk"
+      },
+      "artists": [
+        {
+          "name": "HAPPY LANDING",
+          "url": "https://open.spotify.com/artist/2Jsv2nBcTfKpM9dbZcBbk6"
+        }
+      ],
+      "date_added": "2022-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234520,
+      "name": "Eloise",
+      "url": "https://open.spotify.com/track/5iJ0BQYiFqmLaSUEZi1da1"
+    },
+    {
+      "album": {
         "name": "End",
         "url": "https://open.spotify.com/album/2gVBQDFmb1imLhIklGFtQ4"
       },
@@ -867,7 +885,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 234546,
       "name": "Fear of flying",
       "url": "https://open.spotify.com/track/0segsxWN3hD8MCmfdjipSb"
@@ -1033,7 +1051,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 215958,
       "name": "Gears",
       "url": "https://open.spotify.com/track/35qU5mjy7UAECL08FPvf3P"
@@ -1697,7 +1715,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 205316,
       "name": "Ice Cream Man",
       "url": "https://open.spotify.com/track/49UWYukd57z7wmPJcGfMER"
@@ -1755,6 +1773,24 @@
       "duration_ms": 181666,
       "name": "Just Pick One",
       "url": "https://open.spotify.com/track/1ItOJBHm862L9pnbqKhNTq"
+    },
+    {
+      "album": {
+        "name": "Just Take Love, for Example",
+        "url": "https://open.spotify.com/album/01CllUR6h31HwefmRdaLs9"
+      },
+      "artists": [
+        {
+          "name": "Jordie Lane",
+          "url": "https://open.spotify.com/artist/5exAkC90ITNJz5trrpuYsa"
+        }
+      ],
+      "date_added": "2022-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258160,
+      "name": "Just Take Love, for Example",
+      "url": "https://open.spotify.com/track/2bjzpFwGIjF9J2Yznu83JJ"
     },
     {
       "album": {
@@ -2025,7 +2061,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 285533,
       "name": "Many Moons",
       "url": "https://open.spotify.com/track/0odsUykrr3MbtIDdxxJBnn"
@@ -2331,7 +2367,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 230262,
       "name": "One Fine Morning",
       "url": "https://open.spotify.com/track/3NLtEQPPObHtld9rh5IvlY"
@@ -2612,6 +2648,24 @@
     },
     {
       "album": {
+        "name": "safe?",
+        "url": "https://open.spotify.com/album/7I9BHVSc26R7taqCFRW1UF"
+      },
+      "artists": [
+        {
+          "name": "caaaaseyyyy",
+          "url": "https://open.spotify.com/artist/5H3d73o1RCWNsGE9SrT57c"
+        }
+      ],
+      "date_added": "2022-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215833,
+      "name": "safe?",
+      "url": "https://open.spotify.com/track/71v8LdSVIwJQYFMakxezmD"
+    },
+    {
+      "album": {
         "name": "Sage",
         "url": "https://open.spotify.com/album/4aPGnCS8cVyRtLhli3Ua7I"
       },
@@ -2641,7 +2695,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 184575,
       "name": "See You in August",
       "url": "https://open.spotify.com/track/0KrOgO4uvmeSHf4gjf1gHN"
@@ -2994,6 +3048,24 @@
     },
     {
       "album": {
+        "name": "The Ghost of Me",
+        "url": "https://open.spotify.com/album/0SbXNQyZQgx5uyWSL7OVCo"
+      },
+      "artists": [
+        {
+          "name": "Barbra Lica",
+          "url": "https://open.spotify.com/artist/1LWWCHWErOO9KZfcwrmS9D"
+        }
+      ],
+      "date_added": "2022-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193462,
+      "name": "The Ghost of Me",
+      "url": "https://open.spotify.com/track/5ZfIKnOgvBmHNj8s3g5nKd"
+    },
+    {
+      "album": {
         "name": "The Movie of Us",
         "url": "https://open.spotify.com/album/1W6ErGuu81Pwr5Lh7h0nOG"
       },
@@ -3041,7 +3113,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-25",
+      "date_removed": null,
       "duration_ms": 215462,
       "name": "The Rain",
       "url": "https://open.spotify.com/track/4ZjmO3VLkevYjo4N5aqwDs"
@@ -3171,6 +3243,24 @@
       "duration_ms": 235374,
       "name": "Walk The Streets On Sunrise",
       "url": "https://open.spotify.com/track/4ntU4sdYYE3j0I8qLeEHAx"
+    },
+    {
+      "album": {
+        "name": "Wasteland",
+        "url": "https://open.spotify.com/album/7wvjcO08Ixc6NLw4w6NsZs"
+      },
+      "artists": [
+        {
+          "name": "Alison Sudol",
+          "url": "https://open.spotify.com/artist/5JpFdmGP5YVR80hwTyjhW0"
+        }
+      ],
+      "date_added": "2022-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240906,
+      "name": "Wasteland",
+      "url": "https://open.spotify.com/track/4mK3WTPJmC1WOopwuxMakL"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 
 > Keep your finger on the pulse of Americana\. Cover: Heartless Bastards
 
-[Spotify](https://open.spotify.com/user/spotify) - 590,306 likes - 150 songs - 9 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 590,398 likes - 150 songs - 9 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 | 48 | [Broke Again](https://open.spotify.com/track/7etPAMAqtcun5pn5uW3zbC) | [Joshua Hedley](https://open.spotify.com/artist/6OJg4GNkAEtu0cfDVRbnjh) | [Neon Blue](https://open.spotify.com/album/4CHT5gYJygDJ1IzF1hPslk) | 2:31 |
 | 49 | [Friends \(How To Do It\)](https://open.spotify.com/track/0JYYCDbiTr9xgrdS0F3S1A) | [Nicki Bluhm](https://open.spotify.com/artist/0Ti7wMIMMaYKv582YN47Hh), [Oliver Wood](https://open.spotify.com/artist/7AJNTCR4NEQFQdiC4JIEod) | [Avondale Drive](https://open.spotify.com/album/1mzDiIXe1aZEpEMTpHuVGo) | 3:34 |
 | 50 | [Out Loud](https://open.spotify.com/track/6xF4aRS6U3r7ZWIXUEkPMG) | [Kyshona](https://open.spotify.com/artist/6W2VAlwJmXUkGwOmtFCFUA) | [Out Loud](https://open.spotify.com/album/0CDlc31GOpMUKyEU9pJX5X) | 4:20 |
-| 51 | [Harness the Wind](https://open.spotify.com/track/42xT0Ihj3mgS1Afa92vcMS) | [Calexico](https://open.spotify.com/artist/1OmdWpAh1pucAuZPzJaxIJ) | [Harness the Wind](https://open.spotify.com/album/3LYvDxTZ0BXlhZWMBM3OgT) | 2:54 |
+| 51 | [Harness the Wind](https://open.spotify.com/track/3yCuPXH95r8oCucf2MRYXH) | [Calexico](https://open.spotify.com/artist/1OmdWpAh1pucAuZPzJaxIJ) | [El Mirador](https://open.spotify.com/album/63AiuIrU9tVW6o0UuAJMtV) | 2:54 |
 | 52 | [Anywhere](https://open.spotify.com/track/5ZxFg3dgrAYd5G6NMKGU1l) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Hospital](https://open.spotify.com/album/1ENe8pdOhj33eDRWNv6Nd2) | 3:48 |
 | 53 | [Carolina \- From The Motion Picture “Where The Crawdads Sing”](https://open.spotify.com/track/4axSuOg3BqsowKjRpj59RU) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Carolina \(From The Motion Picture “Where The Crawdads Sing”\)](https://open.spotify.com/album/5Bwg2XxrjTlrNy6BC7KQZf) | 4:24 |
 | 54 | [the wild](https://open.spotify.com/track/7ikQXwUOS8Bst77bpYuXqH) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL), [Sheila E.](https://open.spotify.com/artist/6OQrOpxSIfPai3cFaN4v4P), [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [the wild](https://open.spotify.com/album/76WVWvWXqnPjhIYjNjmzXy) | 4:13 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 | 149 | [Plain Dealing](https://open.spotify.com/track/7CVFMKpWFqztojsuR654u9) | [Pony Bradshaw](https://open.spotify.com/artist/0ATGYvt8HyUK8ydaxJybSi) | [Plain Dealing](https://open.spotify.com/album/7BIu512T3yrvo01oPR8LDM) | 2:49 |
 | 150 | [Age of a Man](https://open.spotify.com/track/5a7MZfX2tiMutNSeb9uPTF) | [Sunny War](https://open.spotify.com/artist/01GKiTphQwz4guZQntMha8) | [Age of a Man](https://open.spotify.com/album/4YkgnuMVviUv1MMp6w5gaU) | 3:39 |
 
-Snapshot ID: `MTY2MjA5MTI2MCwwMDAwMDAwMGY1ODUwMWUwZWMzY2U5NThjN2FkYjBlYjU0MDJkMWM3`
+Snapshot ID: `MTY2MjA5MTI2MCwwMDAwMDAwMDFhYmFiNjcyYTJkMGYyMTdlMzJkM2E1MDAzNGY5NGY3`

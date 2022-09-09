@@ -1,12 +1,12 @@
 {
   "description": "Strut to electronic tracks that grace the runways everywhere.",
-  "num_followers": 52247,
+  "num_followers": 52303,
   "original_name": "Runway",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjEzMDI3NCwwMDAwMDAwMDhkN2MyYmM5ZWQxM2MzYmEzNzY2NjZhYTNjOGM0ZGZl",
+  "snapshot_id": "MTY2MjEzMDI3NCwwMDAwMDAwMGI0ODRkMTYxZDI1ZjFjNjA0NWUwNDUyNmI1MWNlOTE4",
   "tracks": [
     {
       "added_at": "2022-09-02 14:51:14",
@@ -395,6 +395,22 @@
     {
       "added_at": "2022-09-02 14:51:14",
       "album": {
+        "name": "MADELINE",
+        "url": "https://open.spotify.com/album/5x9JJzj5K9J6IldkIMonXM"
+      },
+      "artists": [
+        {
+          "name": "INJI",
+          "url": "https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki"
+        }
+      ],
+      "duration_ms": 204791,
+      "name": "MADELINE",
+      "url": "https://open.spotify.com/track/04o27HjgqTVm8NwgEfOqRH"
+    },
+    {
+      "added_at": "2022-09-02 14:51:14",
+      "album": {
         "name": "BLACK MAGIC",
         "url": "https://open.spotify.com/album/6ROB2tyKtYqao9nbX7XdtY"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 155758,
       "name": "Caution",
       "url": "https://open.spotify.com/track/2mykLbf6YfpFmZwUWowZv3"
-    },
-    {
-      "added_at": "2022-09-02 14:51:14",
-      "album": {
-        "name": "MADELINE",
-        "url": "https://open.spotify.com/album/5x9JJzj5K9J6IldkIMonXM"
-      },
-      "artists": [
-        {
-          "name": "INJI",
-          "url": "https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki"
-        }
-      ],
-      "duration_ms": 204791,
-      "name": "MADELINE",
-      "url": "https://open.spotify.com/track/04o27HjgqTVm8NwgEfOqRH"
     },
     {
       "added_at": "2022-09-02 14:51:14",
@@ -755,6 +755,30 @@
     {
       "added_at": "2022-09-02 14:51:14",
       "album": {
+        "name": "HEAVEN'S GATES (feat. Izzy Camina) [Manila Killa Remix]",
+        "url": "https://open.spotify.com/album/6VjleRIJlteuD8bd63EjN7"
+      },
+      "artists": [
+        {
+          "name": "Devault",
+          "url": "https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL"
+        },
+        {
+          "name": "Izzy Camina",
+          "url": "https://open.spotify.com/artist/1bEvuUxdYlGYGq5WvDAE1u"
+        },
+        {
+          "name": "Manila Killa",
+          "url": "https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "HEAVEN'S GATES (feat. Izzy Camina) - Manila Killa Remix",
+      "url": "https://open.spotify.com/track/0jT25u5GLiQtqX8k25Rjup"
+    },
+    {
+      "added_at": "2022-09-02 14:51:14",
+      "album": {
         "name": "Heaven Scent",
         "url": "https://open.spotify.com/album/4ZkLW5cSNvLXZC2pmRxLdV"
       },
@@ -827,22 +851,6 @@
     {
       "added_at": "2022-09-02 14:51:14",
       "album": {
-        "name": "Woodpecker",
-        "url": "https://open.spotify.com/album/0JygTmxFm484atUuryZF2F"
-      },
-      "artists": [
-        {
-          "name": "Castelle",
-          "url": "https://open.spotify.com/artist/4EDL1aHoT46jRLUjubeVNM"
-        }
-      ],
-      "duration_ms": 206440,
-      "name": "Woodpecker",
-      "url": "https://open.spotify.com/track/2ZLX6RCcJLp4uoIH2CwivA"
-    },
-    {
-      "added_at": "2022-09-02 14:51:14",
-      "album": {
         "name": "No Hay Ma\u00f1ana",
         "url": "https://open.spotify.com/album/5cVrEBqan5YnLhr4Blo83u"
       },
@@ -859,6 +867,22 @@
       "duration_ms": 423601,
       "name": "No Hay Ma\u00f1ana - Club Mix",
       "url": "https://open.spotify.com/track/1UrvOgh8GajpKp39Qj2WUR"
+    },
+    {
+      "added_at": "2022-09-02 14:51:14",
+      "album": {
+        "name": "Woodpecker",
+        "url": "https://open.spotify.com/album/0JygTmxFm484atUuryZF2F"
+      },
+      "artists": [
+        {
+          "name": "Castelle",
+          "url": "https://open.spotify.com/artist/4EDL1aHoT46jRLUjubeVNM"
+        }
+      ],
+      "duration_ms": 206440,
+      "name": "Woodpecker",
+      "url": "https://open.spotify.com/track/2ZLX6RCcJLp4uoIH2CwivA"
     },
     {
       "added_at": "2022-09-02 14:51:14",
@@ -927,30 +951,6 @@
       "duration_ms": 429000,
       "name": "Parola - Rework",
       "url": "https://open.spotify.com/track/0GQZojX9G6n6YADImDzYW4"
-    },
-    {
-      "added_at": "2022-09-02 14:51:14",
-      "album": {
-        "name": "HEAVEN'S GATES (feat. Izzy Camina) [Manila Killa Remix]",
-        "url": "https://open.spotify.com/album/6VjleRIJlteuD8bd63EjN7"
-      },
-      "artists": [
-        {
-          "name": "Devault",
-          "url": "https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL"
-        },
-        {
-          "name": "Izzy Camina",
-          "url": "https://open.spotify.com/artist/1bEvuUxdYlGYGq5WvDAE1u"
-        },
-        {
-          "name": "Manila Killa",
-          "url": "https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "HEAVEN'S GATES (feat. Izzy Camina) - Manila Killa Remix",
-      "url": "https://open.spotify.com/track/0jT25u5GLiQtqX8k25Rjup"
     },
     {
       "added_at": "2022-09-02 14:51:14",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2022-09-02 14:51:14",
       "album": {
+        "name": "Naked City",
+        "url": "https://open.spotify.com/album/0JN9Za7vTgRgRjS5Zv08hy"
+      },
+      "artists": [
+        {
+          "name": "Glass Candy",
+          "url": "https://open.spotify.com/artist/7atGlyFY5574ph1tGMs6gD"
+        }
+      ],
+      "duration_ms": 156093,
+      "name": "Naked City",
+      "url": "https://open.spotify.com/track/6e4KfKMfBQKXOHO2fgweVT"
+    },
+    {
+      "added_at": "2022-09-02 14:51:14",
+      "album": {
         "name": "Strut",
         "url": "https://open.spotify.com/album/0iOUZ34Y3qWJAFqxBgcCRp"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 156480,
       "name": "Strut",
       "url": "https://open.spotify.com/track/3VICFKiIgp3V8OwOLZq4LL"
-    },
-    {
-      "added_at": "2022-09-02 14:51:14",
-      "album": {
-        "name": "Naked City",
-        "url": "https://open.spotify.com/album/0JN9Za7vTgRgRjS5Zv08hy"
-      },
-      "artists": [
-        {
-          "name": "Glass Candy",
-          "url": "https://open.spotify.com/artist/7atGlyFY5574ph1tGMs6gD"
-        }
-      ],
-      "duration_ms": 156093,
-      "name": "Naked City",
-      "url": "https://open.spotify.com/track/6e4KfKMfBQKXOHO2fgweVT"
     },
     {
       "added_at": "2022-09-02 14:51:14",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2022-09-02 14:51:14",
       "album": {
+        "name": "Bend",
+        "url": "https://open.spotify.com/album/3bkKjxSstHfQqzjdCEocTC"
+      },
+      "artists": [
+        {
+          "name": "upsammy",
+          "url": "https://open.spotify.com/artist/2orXY2oMFNUtiNrNMDyreV"
+        }
+      ],
+      "duration_ms": 321000,
+      "name": "Flutter",
+      "url": "https://open.spotify.com/track/41XT2xRCJW7Bcfi7Fva6h4"
+    },
+    {
+      "added_at": "2022-09-02 14:51:14",
+      "album": {
         "name": "Musique, Vol. 1",
         "url": "https://open.spotify.com/album/4a0p1M12f7VaZWdoNSdEK4"
       },
@@ -1175,22 +1191,6 @@
       "duration_ms": 312466,
       "name": "Romance Noire",
       "url": "https://open.spotify.com/track/7kBEQjXoeOGPGFaGIN9Ri8"
-    },
-    {
-      "added_at": "2022-09-02 14:51:14",
-      "album": {
-        "name": "Bend",
-        "url": "https://open.spotify.com/album/3bkKjxSstHfQqzjdCEocTC"
-      },
-      "artists": [
-        {
-          "name": "upsammy",
-          "url": "https://open.spotify.com/artist/2orXY2oMFNUtiNrNMDyreV"
-        }
-      ],
-      "duration_ms": 321000,
-      "name": "Flutter",
-      "url": "https://open.spotify.com/track/41XT2xRCJW7Bcfi7Fva6h4"
     },
     {
       "added_at": "2022-09-02 14:51:14",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2022-09-02 14:51:14",
       "album": {
-        "name": "Amniotic",
-        "url": "https://open.spotify.com/album/7M0Zg2A3mrTOOqfVyRUjb8"
-      },
-      "artists": [
-        {
-          "name": "Monolink",
-          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
-        }
-      ],
-      "duration_ms": 432266,
-      "name": "Return to Oz",
-      "url": "https://open.spotify.com/track/13HDTxGLX75krczQM9xRKP"
-    },
-    {
-      "added_at": "2022-09-02 14:51:14",
-      "album": {
         "name": "Planningtochanel",
         "url": "https://open.spotify.com/album/4LqawEWlyDaDP9MA057KKQ"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 209555,
       "name": "Jam Fam - Chanel Show Version",
       "url": "https://open.spotify.com/track/5jnyeC8SjI3vUOtstA5kZy"
+    },
+    {
+      "added_at": "2022-09-02 14:51:14",
+      "album": {
+        "name": "Amniotic",
+        "url": "https://open.spotify.com/album/7M0Zg2A3mrTOOqfVyRUjb8"
+      },
+      "artists": [
+        {
+          "name": "Monolink",
+          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
+        }
+      ],
+      "duration_ms": 432266,
+      "name": "Return to Oz",
+      "url": "https://open.spotify.com/track/13HDTxGLX75krczQM9xRKP"
     },
     {
       "added_at": "2022-09-02 14:51:14",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2022-09-02 14:51:14",
       "album": {
-        "name": "Let It Go",
-        "url": "https://open.spotify.com/album/0fMlGSOlXFyQxg150u5DQZ"
-      },
-      "artists": [
-        {
-          "name": "KITTENS",
-          "url": "https://open.spotify.com/artist/1TjmRAj3JWRf7feuDKMrXM"
-        }
-      ],
-      "duration_ms": 187000,
-      "name": "Let It Go",
-      "url": "https://open.spotify.com/track/2sHioVLAzKoqxuqJv51L7i"
-    },
-    {
-      "added_at": "2022-09-02 14:51:14",
-      "album": {
         "name": "Back Seat (Tseba Remix)",
         "url": "https://open.spotify.com/album/7mpjZlmA0AAYRfBL1aoatW"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 240191,
       "name": "Back Seat - Tseba Remix",
       "url": "https://open.spotify.com/track/6c4mLN6NaKa0Js76rCIfTr"
+    },
+    {
+      "added_at": "2022-09-02 14:51:14",
+      "album": {
+        "name": "Let It Go",
+        "url": "https://open.spotify.com/album/0fMlGSOlXFyQxg150u5DQZ"
+      },
+      "artists": [
+        {
+          "name": "KITTENS",
+          "url": "https://open.spotify.com/artist/1TjmRAj3JWRf7feuDKMrXM"
+        }
+      ],
+      "duration_ms": 187000,
+      "name": "Let It Go",
+      "url": "https://open.spotify.com/track/2sHioVLAzKoqxuqJv51L7i"
     },
     {
       "added_at": "2022-09-02 14:51:14",
@@ -1375,6 +1375,22 @@
       "duration_ms": 216706,
       "name": "Beograd - Edit",
       "url": "https://open.spotify.com/track/3gx1D5cgZgLnPiKLstrmtJ"
+    },
+    {
+      "added_at": "2022-09-02 14:51:14",
+      "album": {
+        "name": "Poiemusia La Nau Dels Argonautes",
+        "url": "https://open.spotify.com/album/4mZmQu38Uh8I45AvG5qA9a"
+      },
+      "artists": [
+        {
+          "name": "Pep Llopis",
+          "url": "https://open.spotify.com/artist/3VcO8Z1ws3siQr2XTZBr4e"
+        }
+      ],
+      "duration_ms": 358582,
+      "name": "Jardins Aquatics",
+      "url": "https://open.spotify.com/track/09b0qw7zbnzZE5W23HQbgJ"
     },
     {
       "added_at": "2022-09-02 14:51:14",
@@ -1455,22 +1471,6 @@
     {
       "added_at": "2022-09-02 14:51:14",
       "album": {
-        "name": "Poiemusia La Nau Dels Argonautes",
-        "url": "https://open.spotify.com/album/4mZmQu38Uh8I45AvG5qA9a"
-      },
-      "artists": [
-        {
-          "name": "Pep Llopis",
-          "url": "https://open.spotify.com/artist/3VcO8Z1ws3siQr2XTZBr4e"
-        }
-      ],
-      "duration_ms": 358582,
-      "name": "Jardins Aquatics",
-      "url": "https://open.spotify.com/track/09b0qw7zbnzZE5W23HQbgJ"
-    },
-    {
-      "added_at": "2022-09-02 14:51:14",
-      "album": {
         "name": "Club Eat",
         "url": "https://open.spotify.com/album/3gP8Uueu9UuhRIFrwKEcWR"
       },
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2022-09-02 14:51:14",
       "album": {
-        "name": "Working Class Woman",
-        "url": "https://open.spotify.com/album/5AG8Dvo3N4y9ZlCjU06yXh"
-      },
-      "artists": [
-        {
-          "name": "Marie Davidson",
-          "url": "https://open.spotify.com/artist/7xJVICbAWizNBKBD3mRWjF"
-        }
-      ],
-      "duration_ms": 306187,
-      "name": "So Right",
-      "url": "https://open.spotify.com/track/0UEqdYaTjYYLuEr6fLneDl"
-    },
-    {
-      "added_at": "2022-09-02 14:51:14",
-      "album": {
         "name": "Like A Good Old Friend",
         "url": "https://open.spotify.com/album/0S7gwzr5kWmKpEuVdQtqip"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 218906,
       "name": "Like A Good Old Friend",
       "url": "https://open.spotify.com/track/3pYKObrBdzSqIt1PtWfJAh"
+    },
+    {
+      "added_at": "2022-09-02 14:51:14",
+      "album": {
+        "name": "Working Class Woman",
+        "url": "https://open.spotify.com/album/5AG8Dvo3N4y9ZlCjU06yXh"
+      },
+      "artists": [
+        {
+          "name": "Marie Davidson",
+          "url": "https://open.spotify.com/artist/7xJVICbAWizNBKBD3mRWjF"
+        }
+      ],
+      "duration_ms": 306187,
+      "name": "So Right",
+      "url": "https://open.spotify.com/track/0UEqdYaTjYYLuEr6fLneDl"
     },
     {
       "added_at": "2022-09-02 14:51:14",
@@ -1627,26 +1627,6 @@
     {
       "added_at": "2022-09-02 14:51:14",
       "album": {
-        "name": "The Volume / The Music Is Mine",
-        "url": "https://open.spotify.com/album/4SXYCaVobyGrNJHkX6ekVN"
-      },
-      "artists": [
-        {
-          "name": "Nicole Moudaber",
-          "url": "https://open.spotify.com/artist/7ixDtqtITfqx5lZQGh5gKe"
-        },
-        {
-          "name": "Alan T",
-          "url": "https://open.spotify.com/artist/4ljjZIEv8N2ggxgoOzTOkb"
-        }
-      ],
-      "duration_ms": 397106,
-      "name": "The Volume",
-      "url": "https://open.spotify.com/track/43HkvsxJqRq02C7SAVVOSp"
-    },
-    {
-      "added_at": "2022-09-02 14:51:14",
-      "album": {
         "name": "Price of Highest Consciousness",
         "url": "https://open.spotify.com/album/2gxXbHgqSqxqzNY1SEPdul"
       },
@@ -1691,18 +1671,22 @@
     {
       "added_at": "2022-09-02 14:51:14",
       "album": {
-        "name": "Sol De Mi Vida",
-        "url": "https://open.spotify.com/album/69zq4kjggO1ibPgk4px1Ve"
+        "name": "The Volume / The Music Is Mine",
+        "url": "https://open.spotify.com/album/4SXYCaVobyGrNJHkX6ekVN"
       },
       "artists": [
         {
-          "name": "Dinamarca",
-          "url": "https://open.spotify.com/artist/4YFGNIynoM4Kq6f4VcZ7SX"
+          "name": "Nicole Moudaber",
+          "url": "https://open.spotify.com/artist/7ixDtqtITfqx5lZQGh5gKe"
+        },
+        {
+          "name": "Alan T",
+          "url": "https://open.spotify.com/artist/4ljjZIEv8N2ggxgoOzTOkb"
         }
       ],
-      "duration_ms": 187593,
-      "name": "Sol",
-      "url": "https://open.spotify.com/track/22ow8393DBKJmpfvg56EAD"
+      "duration_ms": 397106,
+      "name": "The Volume",
+      "url": "https://open.spotify.com/track/43HkvsxJqRq02C7SAVVOSp"
     },
     {
       "added_at": "2022-09-02 14:51:14",
@@ -1723,18 +1707,18 @@
     {
       "added_at": "2022-09-02 14:51:14",
       "album": {
-        "name": "WANT IT",
-        "url": "https://open.spotify.com/album/6PFzPtvG8XCphoflSlhSx6"
+        "name": "Sol De Mi Vida",
+        "url": "https://open.spotify.com/album/69zq4kjggO1ibPgk4px1Ve"
       },
       "artists": [
         {
-          "name": "NICOLAS",
-          "url": "https://open.spotify.com/artist/30TrK4k6Q3U9Vc8pBpnxk1"
+          "name": "Dinamarca",
+          "url": "https://open.spotify.com/artist/4YFGNIynoM4Kq6f4VcZ7SX"
         }
       ],
-      "duration_ms": 213781,
-      "name": "WANT IT",
-      "url": "https://open.spotify.com/track/60qV9FIYSzMB5af9CURSOJ"
+      "duration_ms": 187593,
+      "name": "Sol",
+      "url": "https://open.spotify.com/track/22ow8393DBKJmpfvg56EAD"
     },
     {
       "added_at": "2022-09-02 14:51:14",
@@ -1755,18 +1739,38 @@
     {
       "added_at": "2022-09-02 14:51:14",
       "album": {
-        "name": "Never Sleep #1",
-        "url": "https://open.spotify.com/album/5KmqZG7XmHAiflZGG6dwom"
+        "name": "WANT IT",
+        "url": "https://open.spotify.com/album/6PFzPtvG8XCphoflSlhSx6"
       },
       "artists": [
         {
-          "name": "Gabber Eleganza",
-          "url": "https://open.spotify.com/artist/4rCySlHzijM0ZiFPx7tUhd"
+          "name": "NICOLAS",
+          "url": "https://open.spotify.com/artist/30TrK4k6Q3U9Vc8pBpnxk1"
         }
       ],
-      "duration_ms": 293200,
-      "name": "Never Sleep",
-      "url": "https://open.spotify.com/track/4GT3Qum7qq52hP8PRtORMT"
+      "duration_ms": 213781,
+      "name": "WANT IT",
+      "url": "https://open.spotify.com/track/60qV9FIYSzMB5af9CURSOJ"
+    },
+    {
+      "added_at": "2022-09-02 14:51:14",
+      "album": {
+        "name": "Delicate Limbs (feat. serpentwithfeet)",
+        "url": "https://open.spotify.com/album/1mTzdzueGqQj6MiGCN5bkr"
+      },
+      "artists": [
+        {
+          "name": "Virgil Abloh",
+          "url": "https://open.spotify.com/artist/6zKRU70JFcCQtP3vKV4ANm"
+        },
+        {
+          "name": "serpentwithfeet",
+          "url": "https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl"
+        }
+      ],
+      "duration_ms": 198626,
+      "name": "Delicate Limbs (feat. serpentwithfeet)",
+      "url": "https://open.spotify.com/track/781pCS1OuWtdIYyNVPV86K"
     }
   ],
   "unique_name": "Runway",

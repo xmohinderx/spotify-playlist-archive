@@ -4,7 +4,7 @@
 
 > The beautiful sound of the Spanish guitar to help you wind down.
 
-145 songs - 6 hr 54 min - [published](https://open.spotify.com/playlist/5vDhhJLUXvegKwwtL6H3y2)
+148 songs - 7 hr 1 min - [published](https://open.spotify.com/playlist/5vDhhJLUXvegKwwtL6H3y2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Como Fue](https://open.spotify.com/track/4sqW8VHxYBVdEftuQYF0Tz) | [Yuto Kanazawa](https://open.spotify.com/artist/01svVAKPw9ioP5e46kMARC) | [Como Fue](https://open.spotify.com/album/3YNVNcF8L4GZDfdA2l5Vos) | 1:58 | 2022-06-17 |  |
 | [Corazón De Piedra](https://open.spotify.com/track/3odjYqGY9KdsTazd5fdwrt) | [Combo Cadre](https://open.spotify.com/artist/1vnozJqhOSx4kvl9sMGZML) | [Corazón De Piedra](https://open.spotify.com/album/3jTZyRV27S9r7DpMd9WW69) | 2:18 | 2022-06-17 |  |
 | [Costa del Azahar](https://open.spotify.com/track/0vR5LtNZNWdZDoy2qDvZ6Y) | [Pablo Briceño](https://open.spotify.com/artist/4SoRek2FECACQBVjfhZ3sQ), [Nylonwings](https://open.spotify.com/artist/2FLK3ubX0vLLfbU5ViuJTN) | [Costa del Azahar](https://open.spotify.com/album/6bu11bayfc1ZUlF8fDUhSM) | 2:54 | 2022-06-17 |  |
-| [Cradle Song](https://open.spotify.com/track/6yzAM00PEx3nBUqTsUgkgz) | [Ricardo Salinas](https://open.spotify.com/artist/27z2RO8YOHjNquoZfAfHse), [Andrew York](https://open.spotify.com/artist/5MV6MvG9LFSSmrPqOkpBZQ) | [Cradle Song](https://open.spotify.com/album/1tWkanvuRkPU6YpZ7zNmZV) | 3:47 | 2022-07-15 |  |
+| [Cradle Song](https://open.spotify.com/track/6yzAM00PEx3nBUqTsUgkgz) | [Ricardo Salinas](https://open.spotify.com/artist/27z2RO8YOHjNquoZfAfHse), [Andrew York](https://open.spotify.com/artist/5MV6MvG9LFSSmrPqOkpBZQ) | [Cradle Song](https://open.spotify.com/album/1tWkanvuRkPU6YpZ7zNmZV) | 3:47 | 2022-07-15 | 2022-09-09 |
 | [Crimson Heart](https://open.spotify.com/track/1u521i6mDeguA5VEhLMhJB) | [Barracuda Sound](https://open.spotify.com/artist/7kh6kV95YvmhBPmbi2tIRU) | [Crimson Heart](https://open.spotify.com/album/6NC3fHTp6RQ8n2oEOn3a0d) | 2:43 | 2022-06-17 |  |
 | [Dançando](https://open.spotify.com/track/2RFdho0TYW1HsaJej6RywD) | [Maria Isabel Ferrer](https://open.spotify.com/artist/2O25jw9AGamJtHPzUnCSz9) | [Dançando](https://open.spotify.com/album/5ZBBJRTOzKoKBhxKXywfLk) | 2:26 | 2022-06-17 |  |
 | [Deep Green Moss](https://open.spotify.com/track/5AVkWOBydjuuJSbSP1i30b) | [Woodworks](https://open.spotify.com/artist/6FQvXfhjXqjvOhfHIa5CTY) | [Deep Green Moss](https://open.spotify.com/album/4q83V4R8vbdJOhLgbOOPCT) | 2:18 | 2022-06-17 |  |
@@ -55,6 +55,7 @@
 | [Entrelaços](https://open.spotify.com/track/2RZhlnOejBw66rNeIsuAmY) | [Jean Charnaux](https://open.spotify.com/artist/5Ll9VJiJWBtGoGohsL75bO) | [Inquieto](https://open.spotify.com/album/687D43pNYnrpfxWQs17Zdu) | 2:39 | 2022-07-29 |  |
 | [Entrelaços](https://open.spotify.com/track/2ZgHfHwQst1rkVjK8yNUQk) | [Jean Charnaux](https://open.spotify.com/artist/5Ll9VJiJWBtGoGohsL75bO) | [Inquieto](https://open.spotify.com/album/40GwWMCO64VMxnYoqKPZtD) | 2:39 | 2022-06-17 | 2022-07-29 |
 | [Eres Divina](https://open.spotify.com/track/2yv8w2ANzHumAGdN3fwLoK) | [Barracuda Sound](https://open.spotify.com/artist/7kh6kV95YvmhBPmbi2tIRU) | [Eres Divina](https://open.spotify.com/album/6MrqCkkoPr5ko3Mw8UTOrr) | 2:47 | 2022-06-17 |  |
+| [Esmeralda](https://open.spotify.com/track/7izUzLUTJ5dYnpOzvBUmwP) | [Stefan](https://open.spotify.com/artist/7lAyVgqdNJDgOcno8i62ZU) | [Esmeralda](https://open.spotify.com/album/3ndgDhJ7LYwad1YHkJrn7W) | 2:55 | 2022-09-09 |  |
 | [Eu Sei Que Vou Te Amar](https://open.spotify.com/track/4mhtL6cfoChqxjFhI4i8tg) | [Michael Marc](https://open.spotify.com/artist/3fcQI5iYhwISYHwUf3G4Ok) | [Eu Sei Que Vou Te Amar](https://open.spotify.com/album/5HrmMkMFpMLTKCaQW5XlTQ) | 4:24 | 2022-07-15 |  |
 | [figurati](https://open.spotify.com/track/1YcdyFscXp5SH6yT0pbjO4) | [Laura Di Vaio](https://open.spotify.com/artist/0fsOkzhBJjiWTWcHuuC9O6) | [figurati](https://open.spotify.com/album/5CN8B0jAv9Ui2fN1apBrYJ) | 1:51 | 2022-06-17 |  |
 | [Flowers of Genzano](https://open.spotify.com/track/4WnBckNWhg7a5kgbfWPGCr) | [Armand de Paris](https://open.spotify.com/artist/2DoqtOrY51c1iTxYnZN9sk) | [Flowers of Genzano](https://open.spotify.com/album/3HONE0pDNjCMtRwA5lZU9M) | 3:32 | 2022-07-08 |  |
@@ -68,6 +69,7 @@
 | [In The Morning Sun](https://open.spotify.com/track/3GK06PqC7srEok5b6tlfAc) | [Mario Regio](https://open.spotify.com/artist/37J9hiCCgzUYyi8V46abD2) | [Pinus Halepensis](https://open.spotify.com/album/5VbSF6F1JbowAFGpB3YB9C) | 3:33 | 2022-06-17 |  |
 | [Indian Glass](https://open.spotify.com/track/6MIIniY6BMAFscSLC8KPQp) | [Diego Fernandez](https://open.spotify.com/artist/14kV1ZJprPqD2eTOSG6SCk) | [Indian Glass](https://open.spotify.com/album/69QJ0fQcw6T6kRNKpLYxM9) | 3:27 | 2022-06-17 |  |
 | [Into My Abditory](https://open.spotify.com/track/11BgBQw2Pmn0ojmpr8fLZK) | [Bobby Dean](https://open.spotify.com/artist/0odJINAJzMqpe7EzD7cO2g) | [Into My Abditory](https://open.spotify.com/album/2pojOokS5oHdSYDUlaO4AR) | 1:52 | 2022-06-17 |  |
+| [Isola Bella](https://open.spotify.com/track/3JlL4o7hhUC2eWOByAdbk1) | [Laura Di Vaio](https://open.spotify.com/artist/0fsOkzhBJjiWTWcHuuC9O6) | [Isola Bella](https://open.spotify.com/album/1usC9bDEEJ79QAVmg1FoCx) | 1:49 | 2022-09-09 |  |
 | [It Started With A Simple Hello](https://open.spotify.com/track/2GFdkqyE2bUWo55W3BxiPe) | [Penélope Diaz](https://open.spotify.com/artist/2LDBNTLWlHsBYpstmWFZth) | [It Started With A Simple Hello](https://open.spotify.com/album/3mb2nHbWyloy0dzdjlm3Fd) | 2:48 | 2022-06-17 |  |
 | [La Rumba D'el Jefe](https://open.spotify.com/track/5zZEP23ceNvvA9IT6CnqoY) | [Jesse Cook](https://open.spotify.com/artist/0fZ2s0I6Gyt60JUJybaEZA) | [The Rumba Foundation](https://open.spotify.com/album/4PIZLP5JDoSFwyBNJMm9BA) | 3:37 | 2022-06-17 | 2022-07-29 |
 | [Lara](https://open.spotify.com/track/14fXKp1owsmQEzlsHFsC4k) | [Roy De Paz](https://open.spotify.com/artist/6FqYBvcTFHuoGGZ0pLNOpg) | [Lara](https://open.spotify.com/album/0OR0UbW0bvsxvpB7GAN8lo) | 2:04 | 2022-06-17 |  |
@@ -90,7 +92,7 @@
 | [Naranjas en Diciembre](https://open.spotify.com/track/0rOdCo5QAldEbty63ZDaHl) | [Vendla](https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu) | [Naranjas en Diciembre](https://open.spotify.com/album/39HaNigg9oTEiOKusCWz5V) | 2:22 | 2022-06-17 |  |
 | [Outonecendo](https://open.spotify.com/track/5mzYXTWLRX5o6JUkhFe4PS) | [Alexandre Guerra](https://open.spotify.com/artist/1aK1TyJBakc4zSAKAPfd8O), [Daniel Murray](https://open.spotify.com/artist/0nK5viu6PiGYoeBiTTHTOk) | [Lugar ao Vento](https://open.spotify.com/album/3aZGaoMyVrUnYW1Cmjo0nn) | 3:28 | 2022-06-17 | 2022-08-18 |
 | [Para Alan Kurdi](https://open.spotify.com/track/0zZiVJy8p5ZSkaAWso7YUc) | [El Retiro](https://open.spotify.com/artist/4cOlybzY6JERcCmnmtcSUD) | [Para Alan Kurdi](https://open.spotify.com/album/69Ot2vGXY3E5yfJjT5CTQo) | 2:56 | 2022-07-01 |  |
-| [Paraiso](https://open.spotify.com/track/1kmOe9FvdO32NcWPaaMO7n) | [Humberto Montoya](https://open.spotify.com/artist/62gwHrOGPCG9ZTH8HJpFde) | [Paraiso](https://open.spotify.com/album/6hJHG6aWS6GwSvsgcImw17) | 1:48 | 2022-06-17 |  |
+| [Paraiso](https://open.spotify.com/track/1kmOe9FvdO32NcWPaaMO7n) | [Humberto Montoya](https://open.spotify.com/artist/62gwHrOGPCG9ZTH8HJpFde) | [Paraiso](https://open.spotify.com/album/6hJHG6aWS6GwSvsgcImw17) | 1:48 | 2022-06-17 | 2022-09-09 |
 | [Paso Melancólico](https://open.spotify.com/track/4fg0qmqEpbseJX7l3xcehf) | [Stevi Win](https://open.spotify.com/artist/46VkR1SQMbx73wa2qR0zfO), [Synthy Lights](https://open.spotify.com/artist/3vgQlaHcCTwK9jj4XP38lA) | [Paso Melancólico](https://open.spotify.com/album/79k0KjfMGvEaobyEjqW5xw) | 2:25 | 2022-08-12 |  |
 | [Path To The Mind](https://open.spotify.com/track/14V2T4B8QG4kMZLc7XyYPv) | [Amma Lerato](https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL) | [Path To The Mind](https://open.spotify.com/album/1qCBCQvepLF70Ge8hQJSxF) | 3:23 | 2022-06-17 | 2022-07-15 |
 | [Poemas](https://open.spotify.com/track/5HAGuQKDFNwzBb9DrlhcZi) | [Barracuda Sound](https://open.spotify.com/artist/7kh6kV95YvmhBPmbi2tIRU) | [Poemas](https://open.spotify.com/album/14LzDSYYy3zINHJ2MCh3Kh) | 2:07 | 2022-06-17 |  |
@@ -143,6 +145,7 @@
 | [Una Luz en el Silencio](https://open.spotify.com/track/5sKLWKEA2OEhBKdERE70vu) | [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3) | [Una Luz en el Silencio](https://open.spotify.com/album/0tuw4ClrE9s1IIsMb8Qgld) | 4:55 | 2022-06-17 |  |
 | [Una Vida Prospera](https://open.spotify.com/track/0nacbDNeOaPUFicWQTDl9t) | [Barracuda Sound](https://open.spotify.com/artist/7kh6kV95YvmhBPmbi2tIRU) | [Una Vida Prospera](https://open.spotify.com/album/6A6f4xsoohYQi2FPq4LzZU) | 2:06 | 2022-06-17 | 2022-07-29 |
 | [Una Vida Prospera](https://open.spotify.com/track/65sHNlUnVH9M0dzNcGEn0Y) | [Barracuda Sound](https://open.spotify.com/artist/7kh6kV95YvmhBPmbi2tIRU) | [Una Vida Prospera](https://open.spotify.com/album/5liLr3r2atOTzyGDuugGsB) | 2:06 | 2022-07-29 |  |
+| [Unknown](https://open.spotify.com/track/3GAGou6aIHq6LpVOWat8yl) | [Atacustico](https://open.spotify.com/artist/0rvubIwf5v5p5KqyCuVZmk) | [Unknown](https://open.spotify.com/album/2bOqx8yL6KpAUcNtv8RhO2) | 2:27 | 2022-09-09 |  |
 | [Vals del Poniente](https://open.spotify.com/track/0qV4MeBsY9MvlMVoIGMXi0) | [Pablo Briceño](https://open.spotify.com/artist/4SoRek2FECACQBVjfhZ3sQ), [Manuel Galán](https://open.spotify.com/artist/29d8S9wbsggVBbr2YXxjfM) | [Vals del Poniente](https://open.spotify.com/album/1LsfF1UWdBt9D0VrNfL6rE) | 2:02 | 2022-07-15 |  |
 | [Valsa Sem Nome](https://open.spotify.com/track/1zJafeATKvIfikaHqheJIc) | [Baden Powell](https://open.spotify.com/artist/0VSgciOd32tP2Yna1w4vDr), [Jürg Kindle](https://open.spotify.com/artist/5vmlpBR3GPFV5vYLSIZ7Tm) | [Valsa Sem Nome](https://open.spotify.com/album/7Gqab034S6MlTLAjdiFZcz) | 2:57 | 2022-08-12 |  |
 | [Venecia](https://open.spotify.com/track/03tFups6fAAso68zTzwtpc) | [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3) | [Venecia](https://open.spotify.com/album/3eo8sHVLrCyjaTLvS76qUh) | 3:18 | 2022-06-17 |  |

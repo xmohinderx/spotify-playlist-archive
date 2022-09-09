@@ -4,7 +4,7 @@
 
 > Check out the latest hits from Sandalwood!<br/>Cover : Vikrant Rona
 
-345 songs - 21 hr 25 min - [published](https://open.spotify.com/playlist/4XS8hgj742MTIKKrgMGo1Z)
+346 songs - 21 hr 28 min - [published](https://open.spotify.com/playlist/4XS8hgj742MTIKKrgMGo1Z)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [Feel The Power](https://open.spotify.com/track/1rH9lp7dFPUWLubGhtTCiW) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN), [Shashank Sheshagiri](https://open.spotify.com/artist/4VbeDQpfiX1x8FFDuxmrXy) | [Yuvarathnaa \(Kannada\) \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6uOjHHP5J7TfBAi3bHdHxQ) | 4:03 | 2021-12-06 | 2022-05-19 |
 | [Friendship \(From "Chowka Bara"\)](https://open.spotify.com/track/1M0jN3cIwCvBoaxSwncX7Z) | [Chaitra H\. G.](https://open.spotify.com/artist/5NZ2P8KBgZX2ZjSGU17EOA), [Vyasraj Sosale](https://open.spotify.com/artist/2kUH5PlbfTRfChKtfp6JCE), [Ashwin P Kumar](https://open.spotify.com/artist/1VoEj343EcXb4UZ09dkkrG) | [Friendship \(From "Chowka Bara"\)](https://open.spotify.com/album/1kLVAZWvGDXFVHYHDhDeqQ) | 4:32 | 2022-08-08 | 2022-08-25 |
 | [Friendship Song \(From "Padavi Poorva"\)](https://open.spotify.com/track/1oTPrr6g1QzFwcmUmpfy7i) | [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39), [Arjun Janya](https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ) | [Friendship Song \(From "Padavi Poorva"\)](https://open.spotify.com/album/3VxLebGKYgPtkAdQWw56zc) | 4:08 | 2022-08-06 |  |
+| [Friendship Song \- From "Luckyman"](https://open.spotify.com/track/4m1sMGCkpOHTndQJEQ2zVO) | [Adithya RK](https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm), [V2 Vijay Vicky](https://open.spotify.com/artist/7zyTYIiNKFMRW0NlZZAeBF), [M\. M\. Manasi](https://open.spotify.com/artist/3JGrxsZ6kfzJrfwsxwERhS) | [Friendship Song \(From "Luckyman"\)](https://open.spotify.com/album/5sqwlEycFfkUNu2Poq1OFm) | 3:27 | 2022-09-07 |  |
 | [Gaalipata 2 Title Track](https://open.spotify.com/track/1VdtmM1lQXGJkpKam0lkRz) | [Tippu](https://open.spotify.com/artist/0PykiHCcDsMPRV7s67qZ1B) | [Gaalipata 2](https://open.spotify.com/album/3sNQeUKOMqjLBwkxP0gbe4) | 3:35 | 2022-08-23 |  |
 | [Gagana Nee \(From "Kgf Chapter 2"\)](https://open.spotify.com/track/1JSDCSUBqQzNEZ3A9YilSJ) | [Suchetha Basrur](https://open.spotify.com/artist/4iuB0dl4ppOzsTJoUo19vc), [Ravi Basrur](https://open.spotify.com/artist/2q1LRGJHpFxovU8Tz6OgRn) | [Gagana Nee \(From "Kgf Chapter 2"\)](https://open.spotify.com/album/2xpBbCZkKhulZsyfi7JKw3) | 2:51 | 2022-04-06 |  |
 | [Gajagala Palagiso](https://open.spotify.com/track/5KzU2kVWKYjGPQzQdqqyQS) | [Santhosh Venky](https://open.spotify.com/artist/1gpRRYfNURm0XJCyxUuH8Q), [Aniruddh Sastry](https://open.spotify.com/artist/2Iu7iu4jCLW1Ef0HY13b1D), [Vyas Raj](https://open.spotify.com/artist/6PLv6UUQI0q4GjYuXQQLJK), [Chethan Naik](https://open.spotify.com/artist/3DaORH0Tws7WPuMKnQQj3Y), [Madhwesh Bharadwaj](https://open.spotify.com/artist/1H6i8xrN9PqWTo6u5EbaxH) | [Madhagaja](https://open.spotify.com/album/4q1pWU4OKvEW5mcRt419VI) | 1:23 | 2021-12-07 | 2022-05-19 |

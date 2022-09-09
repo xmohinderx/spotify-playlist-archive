@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Nuove scoperte dalla scena indipendente italiana, senza etichette di genere. Cover: <a href=\"spotify:artist:7By2W4RhZGhK9wCYGQr1Q1\">Kinder Garden</a>",
+  "description": "Nuove scoperte dalla scena indipendente italiana, senza etichette di genere. Cover: <a href=\"spotify:artist:1bSPgPv4OyNIMnWqG7TtTf\">Carolei</a>",
   "name": "Fresh Finds Italia",
   "published_playlist_ids": [
     "7DW4xNQc4jVEAVd25UPTmP"
@@ -865,7 +865,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 169600,
       "name": "blade runner",
       "url": "https://open.spotify.com/track/2OJQyRSfwOtGKmYHJm86QY"
@@ -941,6 +941,24 @@
       "duration_ms": 271618,
       "name": "BUBU",
       "url": "https://open.spotify.com/track/5MpQSICU6w2Wu39FXSxPQK"
+    },
+    {
+      "album": {
+        "name": "Bugie bianche",
+        "url": "https://open.spotify.com/album/37Yadtrb8JoTs9hxSnmQMA"
+      },
+      "artists": [
+        {
+          "name": "Carolei",
+          "url": "https://open.spotify.com/artist/1bSPgPv4OyNIMnWqG7TtTf"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157625,
+      "name": "Bugie bianche",
+      "url": "https://open.spotify.com/track/3adK6P8rQo1ILRRfiwHrif"
     },
     {
       "album": {

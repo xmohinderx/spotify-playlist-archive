@@ -4,12 +4,12 @@
 
 > When the dance floor calls your name, that's amore.
 
-144 songs - 12 hr 37 min - [published](https://open.spotify.com/playlist/60LiS949KObJRF0kT8PKqw)
+145 songs - 12 hr 43 min - [published](https://open.spotify.com/playlist/60LiS949KObJRF0kT8PKqw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Che Ora l'Amore \- Hifi Sean Remix](https://open.spotify.com/track/41wb5f7IitZ4rf5uBbeVm7) | [Club Domani](https://open.spotify.com/artist/0uZI4sqpl7jJQ19T7dcsM8), [Airys](https://open.spotify.com/artist/2yB8B2iuGUq3Uj1itIAaDc), [Hifi Sean](https://open.spotify.com/artist/4r3RNyF5sHrEh1ds9mTr3o) | [A Che Ora l'Amore \(Remixes\)](https://open.spotify.com/album/1gHCZYGQQaLN5ilOeaAuaH) | 6:36 | 2022-02-11 | 2022-03-22 |
-| [African Love Song](https://open.spotify.com/track/2YqvhES7UxrkgvuP0tRz8m) | [Gepy](https://open.spotify.com/artist/1BDX9PXYrNeqP1gJPhZmZB) | [Italo Disco \- Essential Italian Disco Classics 1977\-1985](https://open.spotify.com/album/3ppNURvPDfACGhKHa3EAnA) | 6:44 | 2022-02-11 |  |
+| [African Love Song](https://open.spotify.com/track/2YqvhES7UxrkgvuP0tRz8m) | [Gepy](https://open.spotify.com/artist/1BDX9PXYrNeqP1gJPhZmZB) | [Italo Disco \- Essential Italian Disco Classics 1977\-1985](https://open.spotify.com/album/3ppNURvPDfACGhKHa3EAnA) | 6:44 | 2022-02-11 | 2022-09-09 |
 | [Amore Selvaggio \- Original Mix](https://open.spotify.com/track/6Wjswxv89qGRzOqUir9rti) | [Marli Blu](https://open.spotify.com/artist/0POkYcabPyOQvMtWuz2oMi), [Marco Moschino](https://open.spotify.com/artist/7bp9letY7qujRiyQOrTJbs) | [Amore Selvaggio](https://open.spotify.com/album/1wBIOfN5TdZ28GjPfkEsSk) | 5:00 | 2022-02-11 | 2022-07-29 |
 | [Another Life \- Original](https://open.spotify.com/track/6Yo813UNQqb04YoU1wYz5e) | [Kano](https://open.spotify.com/artist/24DinDXSaOyHPz3JhdL9Qb) | [Another Life \(LP\)](https://open.spotify.com/album/6l4UUXmkTxaVmZtUxkl9xw) | 7:12 | 2022-02-11 |  |
 | [Around My Dream](https://open.spotify.com/track/5B3TMEr7VXZ2zQaEaTB9M6) | [Silver Pozzoli](https://open.spotify.com/artist/6CY5pbdf5XDjkJf8lAaljU) | [Disco and Dance Hits Made in Italy](https://open.spotify.com/album/2i1MKYNpi0tXfSzpU4nLRu) | 3:35 | 2022-02-11 | 2022-07-29 |
@@ -108,6 +108,7 @@
 | [Pink Footpath\(\) \- Back to Instrumental Mix](https://open.spotify.com/track/72XgwgXnJj1HQ6FJO5Al7y) | [Loui$](https://open.spotify.com/artist/1OEPRDZIAa0cXgwwngMmyL) | [Blow Up Disco, Vol.3 \- Back to Italodisco](https://open.spotify.com/album/5AYVrkxjfQBv5Abrg46PJv) | 6:08 | 2022-02-11 | 2022-08-11 |
 | [Pop Corn](https://open.spotify.com/track/4xTLv2bhUJGv6XyxmVXOme) | [La Strana Società](https://open.spotify.com/artist/4HdZRhcAqc3WSM3AtlJnOg) | [Pop Corn](https://open.spotify.com/album/2YkM4AHvii9gA4LGfGcUNJ) | 3:53 | 2022-02-11 | 2022-03-21 |
 | [Pretty Face \- Radio Edit](https://open.spotify.com/track/7hEvlW79zzFLn4fPvvrf3w) | [Stylóo](https://open.spotify.com/artist/3G9IdXpX2JfZYyg6zCqM6e) | [Pretty Face \(Original Maxi Single\)](https://open.spotify.com/album/56d2EoKtvf5xhfslTsf0ZN) | 3:00 | 2022-02-11 | 2022-03-22 |
+| [Reset](https://open.spotify.com/track/3w8x0OvRhqvwjSOyHdLhJz) | [Massimiliano Pagliara](https://open.spotify.com/artist/6rr6POhpIL25CJFS3o3Dym), [Fort Romeau](https://open.spotify.com/artist/5MKqWyqq5CStK7AhkTvzQF), [Coloray](https://open.spotify.com/artist/6a3p6ZKDkTzrVbloxkD73E) | [Reset](https://open.spotify.com/album/7tXdGpglPbHoZxBENtPc8m) | 5:52 | 2022-09-08 |  |
 | [Resta cu' 'mme](https://open.spotify.com/track/1D764Rj1VMCMXagvqYPhKi) | [Marcella Bella](https://open.spotify.com/artist/6IvnpywSnAcBLBjlyme9oW) | [Bella](https://open.spotify.com/album/5je9NSA5d4IxGAfWqDemlA) | 3:50 | 2022-02-11 | 2022-02-23 |
 | [San Lorenzo](https://open.spotify.com/track/4URvOqZEpHoluNp7haMeOL) | [Kocleo](https://open.spotify.com/artist/4cwrq8imMfkANc1FtHhtpp) | [San Lorenzo](https://open.spotify.com/album/1QOo8G0mlEPqqpYtm0VHwP) | 6:25 | 2022-02-11 | 2022-07-29 |
 | [San Salvador \- Single Version](https://open.spotify.com/track/1bbKMyqOonDvx4DWGowoMD) | [Azoto](https://open.spotify.com/artist/6vjdSVEAtbHLzrVbyLeGVn) | [Disco Fizz \(Expanded Edition\)](https://open.spotify.com/album/7Bq1EVEcBfVDP7rUQn10gk) | 3:05 | 2022-02-11 |  |

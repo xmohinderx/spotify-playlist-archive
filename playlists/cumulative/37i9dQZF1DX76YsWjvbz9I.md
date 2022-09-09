@@ -2,7 +2,7 @@
 
 ### [Jazz for Lovers](https://open.spotify.com/playlist/37i9dQZF1DX76YsWjvbz9I)
 
-> The unforgettable romantic jazz songs\. Cover: Nat King Cole
+> The unforgettable romantic Jazz songs\. Cover: Nat King Cole
 
 134 songs - 7 hr 43 min - [published](https://open.spotify.com/playlist/3qUetQLNSupJ2CAPcW3Sx3)
 

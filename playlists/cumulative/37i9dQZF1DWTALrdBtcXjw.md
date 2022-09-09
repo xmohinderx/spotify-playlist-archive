@@ -2,7 +2,7 @@
 
 ### [Jazzy Dinner](https://open.spotify.com/playlist/37i9dQZF1DWTALrdBtcXjw)
 
-> Instrumental jazz to set the mood for a relaxed evening.
+> Instrumental Jazz to set the mood for a relaxed evening.
 
 171 songs - 16 hr 23 min - [published](https://open.spotify.com/playlist/7yuffmCwXVQZElB2HgVYTG)
 

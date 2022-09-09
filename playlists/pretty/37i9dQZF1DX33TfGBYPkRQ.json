@@ -1,12 +1,12 @@
 {
   "description": "That feeling of being punched in the gut by a song.",
-  "num_followers": 89451,
+  "num_followers": 89600,
   "original_name": "Devastating",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxOTgwMzc4NywwMDAwMDAwMDlkZDliMjhlNmM0ZTA4MTFhZTk2NWYxYTcwNDUxMzE5",
+  "snapshot_id": "MTYxOTgwMzc4NywwMDAwMDAwMGU0N2FmMWRhZjg1ZGM4MTVhNzg4MzQzZTM2NWY5ZjMz",
   "tracks": [
     {
       "added_at": "2021-04-30 17:29:47",
@@ -287,22 +287,6 @@
     {
       "added_at": "2021-04-30 17:29:47",
       "album": {
-        "name": "Jolene",
-        "url": "https://open.spotify.com/album/5DyOxuvdSmTSNAmkfcsBsj"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 176093,
-      "name": "I Will Always Love You",
-      "url": "https://open.spotify.com/track/6nRvgo4ySezQKD1D7NIqAu"
-    },
-    {
-      "added_at": "2021-04-30 17:29:47",
-      "album": {
         "name": "Carrie & Lowell",
         "url": "https://open.spotify.com/album/64xtjfsPHNHch0CZ7fPTjS"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 284130,
       "name": "The Only Thing",
       "url": "https://open.spotify.com/track/17UVxL0MYEmKzXppfUL5in"
+    },
+    {
+      "added_at": "2021-04-30 17:29:47",
+      "album": {
+        "name": "Jolene",
+        "url": "https://open.spotify.com/album/5DyOxuvdSmTSNAmkfcsBsj"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 176093,
+      "name": "I Will Always Love You",
+      "url": "https://open.spotify.com/track/6nRvgo4ySezQKD1D7NIqAu"
     },
     {
       "added_at": "2021-04-30 17:29:47",
@@ -795,6 +795,22 @@
     {
       "added_at": "2021-04-30 17:29:47",
       "album": {
+        "name": "Let There Be Morning (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/5p30s78WN0bRMuUZk64k0w"
+      },
+      "artists": [
+        {
+          "name": "The Perishers",
+          "url": "https://open.spotify.com/artist/511NdtFxUgN1HgraPcUotf"
+        }
+      ],
+      "duration_ms": 189240,
+      "name": "Pills",
+      "url": "https://open.spotify.com/track/0dnRlO7IDzbN9ixVld7hz6"
+    },
+    {
+      "added_at": "2021-04-30 17:29:47",
+      "album": {
         "name": "Covered up with Flowers",
         "url": "https://open.spotify.com/album/3BGlVmlsbBQXNTAdTP72Us"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 181213,
       "name": "Worst Day of My Life",
       "url": "https://open.spotify.com/track/2xRUyAQeYVYCohZrEBpbiu"
-    },
-    {
-      "added_at": "2021-04-30 17:29:47",
-      "album": {
-        "name": "Let There Be Morning (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/5p30s78WN0bRMuUZk64k0w"
-      },
-      "artists": [
-        {
-          "name": "The Perishers",
-          "url": "https://open.spotify.com/artist/511NdtFxUgN1HgraPcUotf"
-        }
-      ],
-      "duration_ms": 189240,
-      "name": "Pills",
-      "url": "https://open.spotify.com/track/0dnRlO7IDzbN9ixVld7hz6"
     },
     {
       "added_at": "2021-04-30 17:29:47",
@@ -907,22 +907,6 @@
     {
       "added_at": "2021-04-30 17:29:47",
       "album": {
-        "name": "Transcendental Highway",
-        "url": "https://open.spotify.com/album/6ooDMq5QxVHFeMootZ7D7m"
-      },
-      "artists": [
-        {
-          "name": "Colin Hay",
-          "url": "https://open.spotify.com/artist/5mxB08ktCukEhGMg2YZeEv"
-        }
-      ],
-      "duration_ms": 328560,
-      "name": "I Just Don't Think I'll Ever Get Over You",
-      "url": "https://open.spotify.com/track/2IR01O6kw4IB68hcV9FWYN"
-    },
-    {
-      "added_at": "2021-04-30 17:29:47",
-      "album": {
         "name": "If You Wait",
         "url": "https://open.spotify.com/album/2J4dwQHk8EZKPKGhM1EzOU"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 204213,
       "name": "Wasting My Young Years",
       "url": "https://open.spotify.com/track/3elOzp9X3B8vMGhJBWzbIF"
+    },
+    {
+      "added_at": "2021-04-30 17:29:47",
+      "album": {
+        "name": "Transcendental Highway",
+        "url": "https://open.spotify.com/album/6ooDMq5QxVHFeMootZ7D7m"
+      },
+      "artists": [
+        {
+          "name": "Colin Hay",
+          "url": "https://open.spotify.com/artist/5mxB08ktCukEhGMg2YZeEv"
+        }
+      ],
+      "duration_ms": 328560,
+      "name": "I Just Don't Think I'll Ever Get Over You",
+      "url": "https://open.spotify.com/track/2IR01O6kw4IB68hcV9FWYN"
     },
     {
       "added_at": "2021-04-30 17:29:47",
@@ -971,6 +971,22 @@
     {
       "added_at": "2021-04-30 17:29:47",
       "album": {
+        "name": "Nothing Is Wrong (10th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/77f3YqasvaLdJo8Qw6PmY2"
+      },
+      "artists": [
+        {
+          "name": "Dawes",
+          "url": "https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV"
+        }
+      ],
+      "duration_ms": 342786,
+      "name": "A Little Bit of Everything",
+      "url": "https://open.spotify.com/track/0UVXrz4r0aM93PIMESW1dm"
+    },
+    {
+      "added_at": "2021-04-30 17:29:47",
+      "album": {
         "name": "Lights Out",
         "url": "https://open.spotify.com/album/20vMfB4zgelkULugladUD3"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 283266,
       "name": "Over You",
       "url": "https://open.spotify.com/track/4eZP0Tyh1p06Nk1aHOzNrt"
-    },
-    {
-      "added_at": "2021-04-30 17:29:47",
-      "album": {
-        "name": "Nothing Is Wrong (10th Anniversary Deluxe Edition)",
-        "url": "https://open.spotify.com/album/77f3YqasvaLdJo8Qw6PmY2"
-      },
-      "artists": [
-        {
-          "name": "Dawes",
-          "url": "https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV"
-        }
-      ],
-      "duration_ms": 342786,
-      "name": "A Little Bit of Everything",
-      "url": "https://open.spotify.com/track/0UVXrz4r0aM93PIMESW1dm"
     },
     {
       "added_at": "2021-04-30 17:29:47",
@@ -1271,18 +1271,18 @@
     {
       "added_at": "2021-04-30 17:29:47",
       "album": {
-        "name": "If & When",
-        "url": "https://open.spotify.com/album/39VHhQwmza9iT3K3PuNHSU"
+        "name": "Among the Leaves",
+        "url": "https://open.spotify.com/album/1uIM6TngoKF0S8oPaDZPvv"
       },
       "artists": [
         {
-          "name": "Margaret Glaspy",
-          "url": "https://open.spotify.com/artist/13YVfXddjRIUrubItJjadb"
+          "name": "Sun Kil Moon",
+          "url": "https://open.spotify.com/artist/4G0XDEk7RbA4BBCTs917U9"
         }
       ],
-      "duration_ms": 213252,
-      "name": "You're Smiling (But I Don't Believe You)",
-      "url": "https://open.spotify.com/track/7ajY0y3joEbeL1gZW4ujmR"
+      "duration_ms": 211466,
+      "name": "Among the Leaves",
+      "url": "https://open.spotify.com/track/2FNqX3s4VkYXLjpWyL3HgJ"
     },
     {
       "added_at": "2021-04-30 17:29:47",
@@ -1299,6 +1299,22 @@
       "duration_ms": 147853,
       "name": "Bring It Back to Me",
       "url": "https://open.spotify.com/track/3jyF9eNYpI3vxJWHzcZPIv"
+    },
+    {
+      "added_at": "2021-04-30 17:29:47",
+      "album": {
+        "name": "If & When",
+        "url": "https://open.spotify.com/album/39VHhQwmza9iT3K3PuNHSU"
+      },
+      "artists": [
+        {
+          "name": "Margaret Glaspy",
+          "url": "https://open.spotify.com/artist/13YVfXddjRIUrubItJjadb"
+        }
+      ],
+      "duration_ms": 213252,
+      "name": "You're Smiling (But I Don't Believe You)",
+      "url": "https://open.spotify.com/track/7ajY0y3joEbeL1gZW4ujmR"
     },
     {
       "added_at": "2021-04-30 17:29:47",
@@ -1331,22 +1347,6 @@
       "duration_ms": 292453,
       "name": "My Mistake - Piano Version",
       "url": "https://open.spotify.com/track/34KZBn42h1icn5V2w0YWEN"
-    },
-    {
-      "added_at": "2021-04-30 17:29:47",
-      "album": {
-        "name": "Among the Leaves",
-        "url": "https://open.spotify.com/album/1uIM6TngoKF0S8oPaDZPvv"
-      },
-      "artists": [
-        {
-          "name": "Sun Kil Moon",
-          "url": "https://open.spotify.com/artist/4G0XDEk7RbA4BBCTs917U9"
-        }
-      ],
-      "duration_ms": 211466,
-      "name": "Among the Leaves",
-      "url": "https://open.spotify.com/track/2FNqX3s4VkYXLjpWyL3HgJ"
     },
     {
       "added_at": "2021-04-30 17:29:47",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2021-04-30 17:29:47",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4DyuXP04lvFmYh01L94WH2"
-      },
-      "artists": [
-        {
-          "name": "First Aid Kit",
-          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
-        }
-      ],
-      "duration_ms": 277040,
-      "name": "Fireworks - Recorded at Spotify Studios Stockholm",
-      "url": "https://open.spotify.com/track/0tiQwGcxR0W5E7jLqbK3iA"
-    },
-    {
-      "added_at": "2021-04-30 17:29:47",
-      "album": {
         "name": "One Last Wedding",
         "url": "https://open.spotify.com/album/5h76Hfvi71bYGnAiSJdgbF"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 222568,
       "name": "One Last Wedding",
       "url": "https://open.spotify.com/track/5QQ7uBiclcWSecFk1IQr27"
+    },
+    {
+      "added_at": "2021-04-30 17:29:47",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4DyuXP04lvFmYh01L94WH2"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "duration_ms": 277040,
+      "name": "Fireworks - Recorded at Spotify Studios Stockholm",
+      "url": "https://open.spotify.com/track/0tiQwGcxR0W5E7jLqbK3iA"
     },
     {
       "added_at": "2021-04-30 17:29:47",

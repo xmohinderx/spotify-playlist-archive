@@ -1,12 +1,12 @@
 {
   "description": "Enjoy the electric, amplified sound that is Chicago Blues.\u00a0",
-  "num_followers": 114030,
+  "num_followers": 114111,
   "original_name": "Chicago Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODQ5OTcyOCwwMDAwMDAwMGI2OWNkZjEyMDAyYzBkODQ1ODhiYmE2ZTM0YTQxMTI5",
+  "snapshot_id": "MTY0ODQ5OTcyOCwwMDAwMDAwMGM5NmY5MzQzY2VhNzZmMGNkNWE5ZGQyYjk1NTg3OTBj",
   "tracks": [
     {
       "added_at": "2016-03-21 20:31:35",
@@ -187,22 +187,6 @@
     {
       "added_at": "2016-03-21 20:31:35",
       "album": {
-        "name": "Masters Of Modern Blues",
-        "url": "https://open.spotify.com/album/4Yc96v0yuxGRebLw9iDY0O"
-      },
-      "artists": [
-        {
-          "name": "Floyd Jones",
-          "url": "https://open.spotify.com/artist/3AyVg8vtIU4HIcmEDil18Y"
-        }
-      ],
-      "duration_ms": 217120,
-      "name": "Dark Road",
-      "url": "https://open.spotify.com/track/4v9Q6IItjISJFNXvFYtSWo"
-    },
-    {
-      "added_at": "2016-03-21 20:31:35",
-      "album": {
         "name": "The Sonet Blues Story",
         "url": "https://open.spotify.com/album/59KEdgFnT3QYxd3GYoGJQY"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 238626,
       "name": "Rock Me Baby",
       "url": "https://open.spotify.com/track/0P1NVWntMal7tHrLG1HxEC"
+    },
+    {
+      "added_at": "2016-03-21 20:31:35",
+      "album": {
+        "name": "Masters Of Modern Blues",
+        "url": "https://open.spotify.com/album/4Yc96v0yuxGRebLw9iDY0O"
+      },
+      "artists": [
+        {
+          "name": "Floyd Jones",
+          "url": "https://open.spotify.com/artist/3AyVg8vtIU4HIcmEDil18Y"
+        }
+      ],
+      "duration_ms": 217120,
+      "name": "Dark Road",
+      "url": "https://open.spotify.com/track/4v9Q6IItjISJFNXvFYtSWo"
     },
     {
       "added_at": "2018-02-27 18:08:29",
@@ -315,22 +315,6 @@
     {
       "added_at": "2018-02-27 18:08:29",
       "album": {
-        "name": "Blues Burnin' In My Soul",
-        "url": "https://open.spotify.com/album/65fpiNjOIr5N05igzAf2UY"
-      },
-      "artists": [
-        {
-          "name": "Johnny Laws",
-          "url": "https://open.spotify.com/artist/1q4QR6dGUqzmZwYX1HtAZ6"
-        }
-      ],
-      "duration_ms": 233333,
-      "name": "Driving Wheel",
-      "url": "https://open.spotify.com/track/7M8XGHJQPYZcYftZyQLmMC"
-    },
-    {
-      "added_at": "2018-02-27 18:08:29",
-      "album": {
         "name": "Living Chicago Blues, Vol. 1",
         "url": "https://open.spotify.com/album/1LC281g3aunPGKC9KroFHu"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 400760,
       "name": "I Can't Quit You, Baby",
       "url": "https://open.spotify.com/track/4iKp3icJChjTFQBYbydH43"
+    },
+    {
+      "added_at": "2018-02-27 18:08:29",
+      "album": {
+        "name": "Blues Burnin' In My Soul",
+        "url": "https://open.spotify.com/album/65fpiNjOIr5N05igzAf2UY"
+      },
+      "artists": [
+        {
+          "name": "Johnny Laws",
+          "url": "https://open.spotify.com/artist/1q4QR6dGUqzmZwYX1HtAZ6"
+        }
+      ],
+      "duration_ms": 233333,
+      "name": "Driving Wheel",
+      "url": "https://open.spotify.com/track/7M8XGHJQPYZcYftZyQLmMC"
     },
     {
       "added_at": "2018-02-27 18:08:29",
@@ -441,22 +441,6 @@
       "url": "https://open.spotify.com/track/6a2GFiWodKXdHDFPcaCRdL"
     },
     {
-      "added_at": "2018-02-27 18:08:29",
-      "album": {
-        "name": "Shake My Hand",
-        "url": "https://open.spotify.com/album/0FqH7CwavZR5SGVq76HCPm"
-      },
-      "artists": [
-        {
-          "name": "Snooky Pryor",
-          "url": "https://open.spotify.com/artist/2mGsLcgVJSfpUTgrMuPxt3"
-        }
-      ],
-      "duration_ms": 258399,
-      "name": "Work With Me Annie",
-      "url": "https://open.spotify.com/track/75ZXx6ysguj5afBRtZ8tGR"
-    },
-    {
       "added_at": "2016-03-21 20:31:35",
       "album": {
         "name": "The Essential Little Walter",
@@ -471,6 +455,22 @@
       "duration_ms": 174506,
       "name": "Last Night",
       "url": "https://open.spotify.com/track/1eVYc7k0T5QmllPqfUwYHR"
+    },
+    {
+      "added_at": "2018-02-27 18:08:29",
+      "album": {
+        "name": "Shake My Hand",
+        "url": "https://open.spotify.com/album/0FqH7CwavZR5SGVq76HCPm"
+      },
+      "artists": [
+        {
+          "name": "Snooky Pryor",
+          "url": "https://open.spotify.com/artist/2mGsLcgVJSfpUTgrMuPxt3"
+        }
+      ],
+      "duration_ms": 258399,
+      "name": "Work With Me Annie",
+      "url": "https://open.spotify.com/track/75ZXx6ysguj5afBRtZ8tGR"
     },
     {
       "added_at": "2018-02-27 18:08:29",
@@ -523,22 +523,6 @@
     {
       "added_at": "2018-02-27 18:08:29",
       "album": {
-        "name": "Heartaches And Pain",
-        "url": "https://open.spotify.com/album/7hmhwWISoILoobUdovmoxC"
-      },
-      "artists": [
-        {
-          "name": "Carey Bell",
-          "url": "https://open.spotify.com/artist/7wcrtrCODZkNbpq1ZYABxs"
-        }
-      ],
-      "duration_ms": 279800,
-      "name": "Everything's Gonna Be All Right",
-      "url": "https://open.spotify.com/track/2f47wE92JeVnJ8EM0IGsNQ"
-    },
-    {
-      "added_at": "2018-02-27 18:08:29",
-      "album": {
         "name": "West Side Strut",
         "url": "https://open.spotify.com/album/7g3FhubXyKNZIFnlVEz73k"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 280440,
       "name": "Gotta Move On",
       "url": "https://open.spotify.com/track/7fP4SqRROudOtgaOeR72lg"
+    },
+    {
+      "added_at": "2018-02-27 18:08:29",
+      "album": {
+        "name": "Heartaches And Pain",
+        "url": "https://open.spotify.com/album/7hmhwWISoILoobUdovmoxC"
+      },
+      "artists": [
+        {
+          "name": "Carey Bell",
+          "url": "https://open.spotify.com/artist/7wcrtrCODZkNbpq1ZYABxs"
+        }
+      ],
+      "duration_ms": 279800,
+      "name": "Everything's Gonna Be All Right",
+      "url": "https://open.spotify.com/track/2f47wE92JeVnJ8EM0IGsNQ"
     },
     {
       "added_at": "2018-02-27 18:08:29",
@@ -695,22 +695,6 @@
     {
       "added_at": "2018-02-27 18:08:29",
       "album": {
-        "name": "When The Blues Hit You",
-        "url": "https://open.spotify.com/album/6rxjk3V22DyOH6nTNcd331"
-      },
-      "artists": [
-        {
-          "name": "Lester Davenport",
-          "url": "https://open.spotify.com/artist/5HAs3PXvcSdFY57ey4glmF"
-        }
-      ],
-      "duration_ms": 358200,
-      "name": "Slow Down Baby",
-      "url": "https://open.spotify.com/track/3hEqk9Uh4SBj0TZLcwxixB"
-    },
-    {
-      "added_at": "2018-02-27 18:08:29",
-      "album": {
         "name": "American Blues Legends 79",
         "url": "https://open.spotify.com/album/08wMsEomV865Vdabc98gPw"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 286271,
       "name": "I Wish I Had Somebody",
       "url": "https://open.spotify.com/track/1jmUDgvrdOKpz1JxlEH7Qz"
+    },
+    {
+      "added_at": "2018-02-27 18:08:29",
+      "album": {
+        "name": "When The Blues Hit You",
+        "url": "https://open.spotify.com/album/6rxjk3V22DyOH6nTNcd331"
+      },
+      "artists": [
+        {
+          "name": "Lester Davenport",
+          "url": "https://open.spotify.com/artist/5HAs3PXvcSdFY57ey4glmF"
+        }
+      ],
+      "duration_ms": 358200,
+      "name": "Slow Down Baby",
+      "url": "https://open.spotify.com/track/3hEqk9Uh4SBj0TZLcwxixB"
     },
     {
       "added_at": "2018-02-27 18:08:29",

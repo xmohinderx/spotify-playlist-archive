@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Lenny Tavárez, Chencho Corleone, Piso 21.
 
-[Spotify](https://open.spotify.com/user/spotify) - 514,313 likes - 55 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 514,554 likes - 55 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 48 | [Tiemblo](https://open.spotify.com/track/2OD77ATmB5UFTVVGu49PLD) | [Lucía Covarrubias](https://open.spotify.com/artist/1PkahVFP71A6sk6Ww0ZSi1) | [Tiemblo](https://open.spotify.com/album/6j7dofd6X0Cr4Y1xewzC2G) | 2:58 |
 | 49 | [TE VEO](https://open.spotify.com/track/3ciwhG8TWwv0xhJS9k75zy) | [Hugo D Almonte](https://open.spotify.com/artist/4cJdMWi5D3uJC93mePpJAP) | [TE VEO](https://open.spotify.com/album/536YzN9n9c0fqAQUVjubvO) | 2:34 |
 | 50 | [ni una foto](https://open.spotify.com/track/5Fc6a806jgiEU3ka1Rqpyq) | [GAMBOA](https://open.spotify.com/artist/6vNjkmZB4B8C9isC2GgjD9) | [ni una foto](https://open.spotify.com/album/6xKGfOhCxShui9ia3zCxwJ) | 3:12 |
-| 51 | [Zomo Newen](https://open.spotify.com/track/1JCTDSdqVphQDKmnFcSzVc) | [MC Millaray](https://open.spotify.com/artist/3BMneIOFMaeXTeJwv1ZtK9) | [Zomo Newen](https://open.spotify.com/album/2r2r6pYdW0mVMO8dj6MbcF) | 3:04 |
+| 51 | [Zomo Newen](https://open.spotify.com/track/1JCTDSdqVphQDKmnFcSzVc) | [MC Millaray](https://open.spotify.com/artist/3BMneIOFMaeXTeJwv1ZtK9), [Ania Ivania](https://open.spotify.com/artist/4X5zjb9hLr37IngXyDpdZb) | [Zomo Newen](https://open.spotify.com/album/2r2r6pYdW0mVMO8dj6MbcF) | 3:04 |
 | 52 | [Traicionera](https://open.spotify.com/track/7s7gv1x4nLaM8WNbyGNNXT) | [SUPRI](https://open.spotify.com/artist/5lYAAVGL1WkCYx9LPTwbMw) | [Traicionera](https://open.spotify.com/album/0LXc5BndUBi5XT4vus6GqI) | 3:28 |
 | 53 | [Bounce](https://open.spotify.com/track/5EesZpNar5GuSGRpmWRilo) | [FeBo](https://open.spotify.com/artist/2VOWRAVnU0XMKqL4XqutAU) | [Bounce](https://open.spotify.com/album/4p5Di3rxTlKZOlzNtnPraw) | 2:00 |
 | 54 | [Tal para cual](https://open.spotify.com/track/6cxAuDCVrCrEcoElTdoPf1) | [Chusi](https://open.spotify.com/artist/3mVKicofLUV7c9hlDXpY0b), [Un Diego](https://open.spotify.com/artist/1A7JWSzurpnqlyT5Czo9Ca), [Zhen Ross](https://open.spotify.com/artist/2HozJ0ECDxn2E6PCeQp9Qe) | [Tal para cual](https://open.spotify.com/album/50Fr66DnNB9hduztZNRC96) | 2:50 |

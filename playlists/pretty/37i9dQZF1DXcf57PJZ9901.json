@@ -1,12 +1,12 @@
 {
   "description": "The best soft rock from the 2010s.",
-  "num_followers": 60271,
+  "num_followers": 60489,
   "original_name": "10s Soft Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDE3NzIzOCwwMDAwMDAwMDhjMzdmNDJlZmY5YzdiMzU1YTM4MmU5OTZhODUxYWE2",
+  "snapshot_id": "MTY1NDE3NzIzOCwwMDAwMDAwMDM0MWJlY2IwZWY2ZDA3NmIzOGNjNDI1ZDRkMWE1MGE1",
   "tracks": [
     {
       "added_at": "2020-12-08 17:53:04",
@@ -625,22 +625,6 @@
       "url": "https://open.spotify.com/track/4hTg9q0AnxtH4yZKeRcMin"
     },
     {
-      "added_at": "2020-12-08 17:53:04",
-      "album": {
-        "name": "Battle Born",
-        "url": "https://open.spotify.com/album/3bvS3DlTwV35j2qwFhDvxx"
-      },
-      "artists": [
-        {
-          "name": "The Killers",
-          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
-        }
-      ],
-      "duration_ms": 273240,
-      "name": "Be Still",
-      "url": "https://open.spotify.com/track/1B5tiGNcOHERcXcBHiL6Xs"
-    },
-    {
       "added_at": "2021-10-12 12:40:44",
       "album": {
         "name": "Zombie EP",
@@ -655,6 +639,22 @@
       "duration_ms": 259253,
       "name": "Zombie (Acoustic)",
       "url": "https://open.spotify.com/track/4Y2bR875LdPq9JILrY2FSw"
+    },
+    {
+      "added_at": "2020-12-08 17:53:04",
+      "album": {
+        "name": "Battle Born",
+        "url": "https://open.spotify.com/album/3bvS3DlTwV35j2qwFhDvxx"
+      },
+      "artists": [
+        {
+          "name": "The Killers",
+          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
+        }
+      ],
+      "duration_ms": 273240,
+      "name": "Be Still",
+      "url": "https://open.spotify.com/track/1B5tiGNcOHERcXcBHiL6Xs"
     },
     {
       "added_at": "2020-12-08 17:53:04",
@@ -755,22 +755,6 @@
     {
       "added_at": "2020-12-08 17:53:04",
       "album": {
-        "name": "Stay With Me",
-        "url": "https://open.spotify.com/album/0fsWxXjjgHAnFLCEAGWHS5"
-      },
-      "artists": [
-        {
-          "name": "You Me At Six",
-          "url": "https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6"
-        }
-      ],
-      "duration_ms": 198573,
-      "name": "Stay With Me - Acoustic Version",
-      "url": "https://open.spotify.com/track/39IX2P1yPA5opcTaHXLPlW"
-    },
-    {
-      "added_at": "2020-12-08 17:53:04",
-      "album": {
         "name": "Wonderful Wonderful",
         "url": "https://open.spotify.com/album/72ZfMxLCPG8mlWC0TXfZQi"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 278093,
       "name": "Some Kind Of Love",
       "url": "https://open.spotify.com/track/0vicQm86o7GnT42GdG34sA"
+    },
+    {
+      "added_at": "2020-12-08 17:53:04",
+      "album": {
+        "name": "Stay With Me",
+        "url": "https://open.spotify.com/album/0fsWxXjjgHAnFLCEAGWHS5"
+      },
+      "artists": [
+        {
+          "name": "You Me At Six",
+          "url": "https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6"
+        }
+      ],
+      "duration_ms": 198573,
+      "name": "Stay With Me - Acoustic Version",
+      "url": "https://open.spotify.com/track/39IX2P1yPA5opcTaHXLPlW"
     },
     {
       "added_at": "2022-05-04 15:00:00",
@@ -979,22 +979,6 @@
     {
       "added_at": "2020-12-08 17:53:04",
       "album": {
-        "name": "Brothers",
-        "url": "https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 300346,
-      "name": "The Only One",
-      "url": "https://open.spotify.com/track/3QHA3SBpz2SDEpI1HuMT0e"
-    },
-    {
-      "added_at": "2020-12-08 17:53:04",
-      "album": {
         "name": "We Stitch These Wounds",
         "url": "https://open.spotify.com/album/79rUMyGQNnAhZkEeB3Rd7B"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 251706,
       "name": "The Mortician's Daughter",
       "url": "https://open.spotify.com/track/64otP8HsLlvIgsidSOh2xH"
+    },
+    {
+      "added_at": "2020-12-08 17:53:04",
+      "album": {
+        "name": "Brothers",
+        "url": "https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 300346,
+      "name": "The Only One",
+      "url": "https://open.spotify.com/track/3QHA3SBpz2SDEpI1HuMT0e"
     },
     {
       "added_at": "2020-12-08 17:53:04",
@@ -1041,6 +1041,22 @@
       "url": "https://open.spotify.com/track/6PmvNS601Mcd2H0UcqMWb0"
     },
     {
+      "added_at": "2022-01-05 10:28:40",
+      "album": {
+        "name": "Transmissions",
+        "url": "https://open.spotify.com/album/1pbaNcr9twxPtvBo7GuJnh"
+      },
+      "artists": [
+        {
+          "name": "Throw The Fight",
+          "url": "https://open.spotify.com/artist/1nRfyHvAh1foLjOCa3hbv7"
+        }
+      ],
+      "duration_ms": 255750,
+      "name": "Passing Ships",
+      "url": "https://open.spotify.com/track/7n2ovJQ5hDX9wScd9aBL6N"
+    },
+    {
       "added_at": "2022-03-28 15:29:17",
       "album": {
         "name": "YES! (Commentary)",
@@ -1071,22 +1087,6 @@
       "duration_ms": 181026,
       "name": "See Me Now",
       "url": "https://open.spotify.com/track/5iRNKJoGqjD8RG7RNwOWYb"
-    },
-    {
-      "added_at": "2022-01-05 10:28:40",
-      "album": {
-        "name": "Transmissions",
-        "url": "https://open.spotify.com/album/1pbaNcr9twxPtvBo7GuJnh"
-      },
-      "artists": [
-        {
-          "name": "Throw The Fight",
-          "url": "https://open.spotify.com/artist/1nRfyHvAh1foLjOCa3hbv7"
-        }
-      ],
-      "duration_ms": 255750,
-      "name": "Passing Ships",
-      "url": "https://open.spotify.com/track/7n2ovJQ5hDX9wScd9aBL6N"
     },
     {
       "added_at": "2020-12-08 17:53:04",

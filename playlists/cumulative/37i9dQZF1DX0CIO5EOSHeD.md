@@ -4,7 +4,7 @@
 
 > Slacker jams\. Cover: Frankie Cosmos
 
-311 songs - 16 hr 39 min - [published](https://open.spotify.com/playlist/3DFRzyGUurZxuvxmPOrIHy)
+312 songs - 16 hr 43 min - [published](https://open.spotify.com/playlist/3DFRzyGUurZxuvxmPOrIHy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Arp\-87](https://open.spotify.com/track/0VdOve6hETT3KF9u4v1QQ1) | [bloody/bath](https://open.spotify.com/artist/6U0yRPIBTZbMoRS3FRvyWc) | [Arp\-87](https://open.spotify.com/album/7FoR9yVEiQEp5DgXcCz6Sa) | 2:49 | 2020-10-27\* |  |
 | [Artbook](https://open.spotify.com/track/3hDg7qkEQjEdfYz9nbewvs) | [beachtown](https://open.spotify.com/artist/20Gn0QldnmvNFLYxsa9vMI) | [Artbook](https://open.spotify.com/album/0GcS4KiaFb2Xm0cVF7skIM) | 2:50 | 2021-09-25 | 2022-07-09 |
 | [at least i'm pretty](https://open.spotify.com/track/5o9iQVktO08gIlRAHqqxtj) | [Harriette](https://open.spotify.com/artist/4pvvhffb5CTrWsrTCf3tMa) | [at least i'm pretty](https://open.spotify.com/album/2OAHHz54HY0g1vLBr23Gmg) | 1:46 | 2021-08-11 |  |
-| [Attempt](https://open.spotify.com/track/0a7RXqXcCSNeo7WxynoNka) | [Far Caspian](https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4) | [Attempt](https://open.spotify.com/album/5E28eyKT4NRsWuFY1o0yau) | 4:41 | 2021-09-18 |  |
+| [Attempt](https://open.spotify.com/track/0a7RXqXcCSNeo7WxynoNka) | [Far Caspian](https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4) | [Attempt](https://open.spotify.com/album/5E28eyKT4NRsWuFY1o0yau) | 4:41 | 2021-09-18 | 2022-09-09 |
 | [Attention](https://open.spotify.com/track/4UBIzOKyn5pRas034ofcMC) | [rainbow frog biscuits](https://open.spotify.com/artist/6tyZ35su1t0W5Hx0rWhhvT) | [Attention](https://open.spotify.com/album/4Kv4EH2HQOGV1PG27eIVjN) | 2:46 | 2021-05-21 |  |
 | [Baby](https://open.spotify.com/track/0Gm7k2jwz8bKr4xjmr9IG3) | [ADOY](https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC) | [Baby](https://open.spotify.com/album/59esV4FoIJ7g7dhnNVELV0) | 3:57 | 2021-08-22 |  |
 | [babyur2nice](https://open.spotify.com/track/0OmJlR4IEktvY7RzpakxVk) | [patchymate](https://open.spotify.com/artist/7fHDTZfZ72OYE4XpaVE7yO) | [Avian](https://open.spotify.com/album/5Jbk5XyOqZL6Eji4vQDDdY) | 2:00 | 2021-05-22 |  |
@@ -97,7 +97,7 @@
 | [Everything I Know](https://open.spotify.com/track/1vWjISlgaMob9cjPDK8P7I) | [chemical club](https://open.spotify.com/artist/1J4KMCREAODEtqsexXWbeN) | [Everything I Know](https://open.spotify.com/album/0oZQvFm3gfmsBafjh2VLaI) | 2:44 | 2021-01-12 | 2022-07-23 |
 | [everything i wanted](https://open.spotify.com/track/1wv5JHXkjjtAm7CwADyOot) | [Thom Southern](https://open.spotify.com/artist/3YGkI2PubCC6INbbtcpglJ) | [everything i wanted](https://open.spotify.com/album/3fkykLpZgpkeKHFE3XrZHm) | 4:20 | 2021-01-12 | 2022-07-19 |
 | [F Minor Birds](https://open.spotify.com/track/7irKYWkMDKQr0TqlEjoHZS) | [Isiwara Manthrirathna](https://open.spotify.com/artist/0BowjcXnBcdGFtR0tJ3IjI), [Slicky](https://open.spotify.com/artist/6rC0jcsuIB9lJtHyV1vIXW) | [Beach Memories](https://open.spotify.com/album/2DqvWVyaxCTxhcfmVT4twv) | 3:00 | 2021-12-09 | 2022-07-27 |
-| [Fade](https://open.spotify.com/track/56aGCgQHz0eRCNXcuNY99B) | [Launder](https://open.spotify.com/artist/34oS6XgB17t0Gm7623KXLh) | [Fade](https://open.spotify.com/album/7mvQaGNnewjly0RNWdfiNT) | 3:23 | 2021-04-29 |  |
+| [Fade](https://open.spotify.com/track/56aGCgQHz0eRCNXcuNY99B) | [Launder](https://open.spotify.com/artist/34oS6XgB17t0Gm7623KXLh) | [Fade](https://open.spotify.com/album/7mvQaGNnewjly0RNWdfiNT) | 3:23 | 2021-04-29 | 2022-09-09 |
 | [Fading Away](https://open.spotify.com/track/6RWYSFAwNZz5HXZrn9VRf8) | [Summer Salt](https://open.spotify.com/artist/3MATPJ9tYbcMhw5VOZrRU6) | [Honeyweed](https://open.spotify.com/album/74SUtV8JEuE7HebKi9VYRL) | 3:23 | 2020-10-27\* | 2020-12-11 |
 | [Far Out Summer](https://open.spotify.com/track/6GYyor9AItFlXhTJQlUvh3) | [Hollow Graves](https://open.spotify.com/artist/4GCC4WJAlcF2fkUXOgY8Uz) | [Far Out Summer](https://open.spotify.com/album/4Kusj62wHAZaf5Kb2mGjNq) | 3:18 | 2020-11-12 | 2022-07-29 |
 | [Feel It](https://open.spotify.com/track/7DDFf63cnbcNr5wAoo9y9U) | [Viji](https://open.spotify.com/artist/5T8jStToPqlBhbVU5WNHvi) | [Cali](https://open.spotify.com/album/34Wai1L4K7PsAGZgZ0mtGf) | 2:53 | 2022-03-30 | 2022-05-18 |
@@ -156,6 +156,7 @@
 | [IN THE DOG HOUSE](https://open.spotify.com/track/0WFalqmpdkBXkD1RLet7hz) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB), [Franky Villani](https://open.spotify.com/artist/29JCRfv9Nox4co1GozSPDb) | [FULL TIME LOVER](https://open.spotify.com/album/1h8IiVZrZcdG68TYvxduLt) | 1:42 | 2022-08-05 |  |
 | [IN THE DOG HOUSE](https://open.spotify.com/track/4x9Yt0EnOEKRs2cdSJwSzN) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB), [Franky Villani](https://open.spotify.com/artist/29JCRfv9Nox4co1GozSPDb) | [IN THE DOG HOUSE](https://open.spotify.com/album/2gRMnlczuJaGBVYl1X1vpg) | 1:42 | 2022-08-05 | 2022-08-28 |
 | [Intersection](https://open.spotify.com/track/4rNqlRwYCCcVUv37ZLmMTY) | [Modern Baseball](https://open.spotify.com/artist/1HxXNvsraqrsgfmju1yKk8) | [Polyvinyl 4\-Track Singles Series, Vol\. 3](https://open.spotify.com/album/7HxyUjqGjryGDxX0aVyoEh) | 3:53 | 2021-04-29 |  |
+| [Into](https://open.spotify.com/track/22lOyosVUdyq7X0P7rzbWy) | [CASTLEBEAT](https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3) | [Half Life](https://open.spotify.com/album/6JnANSlFJBXjpwilA6KLYU) | 3:59 | 2022-08-05 |  |
 | [Into](https://open.spotify.com/track/5O408HCYe3tXhyLf5JMjhJ) | [CASTLEBEAT](https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3) | [Into](https://open.spotify.com/album/22Ta1z6nV13bCOXLQpdY6f) | 3:59 | 2021-09-07 | 2022-09-03 |
 | [into ash](https://open.spotify.com/track/2yPIuAeJ2Y5mKPo82Lruw3) | [Adam Youngman](https://open.spotify.com/artist/3K8XkFDgyQhbHQGzD0xz8Y) | [into ash](https://open.spotify.com/album/7guivDMrs7rBgX84UAp2vL) | 1:29 | 2020-10-27\* | 2022-07-28 |
 | [Islands Past](https://open.spotify.com/track/3xhCYwASA70y9xdDvdQ44h) | [Saccades](https://open.spotify.com/artist/3hE6XvCH9Di82RPfY8c9tn) | [Islands Past](https://open.spotify.com/album/05WLagEEkSzOETGQoYCq1c) | 3:40 | 2021-02-06 | 2022-05-23 |
@@ -297,7 +298,7 @@
 | [Velvet Tears](https://open.spotify.com/track/4IAFUCNXBdf4Ft3Ud81aLb) | [Mollie Coddled](https://open.spotify.com/artist/6lWMJ1gvO93kPnIN9UnLQQ) | [The Halo Effect](https://open.spotify.com/album/6hHVag0noqfPsmv1Tg3a8I) | 3:27 | 2020-12-11 | 2022-06-17 |
 | [Visual Diaries](https://open.spotify.com/track/1MWTRbFDIiO5m8IIZPcTdb) | [Hause Plants](https://open.spotify.com/artist/7ciUlbAc461mRvHx3YmIYk) | [Film For Color Photos EP](https://open.spotify.com/album/6cRdUTiv3KHhslNedxgnZf) | 3:23 | 2021-09-06 | 2022-04-20 |
 | [Warm Body](https://open.spotify.com/track/4aLqmvZMituDRmbcNqcLAn) | [Molly Payton](https://open.spotify.com/artist/6mbzLeDgokrXD05pj6kf0N) | [Warm Body](https://open.spotify.com/album/6pDgawO92Slg1Id9nwZPPN) | 3:19 | 2020-10-27\* | 2021-01-12 |
-| [Warning Sign](https://open.spotify.com/track/4pXjVzQUhOQQmuYSGBiyx6) | [Far Caspian](https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4), [SOMOH](https://open.spotify.com/artist/6uwvfnsp74AHafIT1vxAG3) | [Warning Sign](https://open.spotify.com/album/7fTpIdQssHGQ1RfkCze3kq) | 2:52 | 2020-11-12 | 2022-07-29 |
+| [Warning Sign](https://open.spotify.com/track/4pXjVzQUhOQQmuYSGBiyx6) | [Far Caspian](https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4), [SOMOH](https://open.spotify.com/artist/6uwvfnsp74AHafIT1vxAG3) | [Warning Sign](https://open.spotify.com/album/7fTpIdQssHGQ1RfkCze3kq) | 2:52 | 2020-11-12 |  |
 | [Warning Sign \- Alt Version](https://open.spotify.com/track/1rIols5fQBAIwsCuN4kFXG) | [Far Caspian](https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4), [SOMOH](https://open.spotify.com/artist/6uwvfnsp74AHafIT1vxAG3) | [Warning Sign \(Alt Version\)](https://open.spotify.com/album/622AyvYosXOdxnbW2CprMx) | 2:59 | 2021-03-06 |  |
 | [Ways to Go](https://open.spotify.com/track/3AgXxc21ikmEhPZT3dcoQE) | [Zeph](https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd) | [Ways to Go](https://open.spotify.com/album/095aG2k7hsvjQevGuvtl0G) | 2:07 | 2020-10-27\* |  |
 | [we fell in love in october](https://open.spotify.com/track/1BYZxKSf0aTxp8ZFoeyM3d) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [we fell in love in october / forget her](https://open.spotify.com/album/4oRcMHsdNG9IAF3xwv1kWu) | 3:04 | 2021-04-29 |  |

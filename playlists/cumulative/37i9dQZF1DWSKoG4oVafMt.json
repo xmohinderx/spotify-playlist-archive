@@ -1185,7 +1185,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 155874,
       "name": "Chak Mera Dil",
       "url": "https://open.spotify.com/track/71onVbMjqnn7k8NCFq7O98"
@@ -3026,6 +3026,24 @@
     },
     {
       "album": {
+        "name": "Haaye Ni",
+        "url": "https://open.spotify.com/album/01nqQiPsbGrNwLD10dZ6sa"
+      },
+      "artists": [
+        {
+          "name": "Sartaj Virk",
+          "url": "https://open.spotify.com/artist/4jX7GGtVdF9qkueNxBJB9w"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "Haaye Ni",
+      "url": "https://open.spotify.com/track/5V3MzZjIQ5MP2g8AMCBbRi"
+    },
+    {
+      "album": {
         "name": "Haaye Patlo",
         "url": "https://open.spotify.com/album/2Zive5cMtj0uNOTIkswGFx"
       },
@@ -3339,6 +3357,24 @@
       "duration_ms": 213655,
       "name": "Ilahi (From \"Ni Main Sass Kuttni\")",
       "url": "https://open.spotify.com/track/4TsopDP9uBKf0oBN01CKoC"
+    },
+    {
+      "album": {
+        "name": "Impossible (From the Album 'I Am Zack Knight')",
+        "url": "https://open.spotify.com/album/16YYwVnwhkLF8h0Kfke6dg"
+      },
+      "artists": [
+        {
+          "name": "Zack Knight",
+          "url": "https://open.spotify.com/artist/7JMBJmGMqw4H33HECyW4QP"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169565,
+      "name": "Impossible (From the Album 'I Am Zack Knight')",
+      "url": "https://open.spotify.com/track/5gDbvpDfHvibUFauqRhjDI"
     },
     {
       "album": {
@@ -3967,6 +4003,28 @@
       "duration_ms": 184747,
       "name": "Kachi Umar (feat. Aman Aujla,Simran Dhiman)",
       "url": "https://open.spotify.com/track/12HPzRdSPwOd4AD1nUiwZw"
+    },
+    {
+      "album": {
+        "name": "Kajla",
+        "url": "https://open.spotify.com/album/3u2oiK1O1f4TIbASBeddgA"
+      },
+      "artists": [
+        {
+          "name": "Jassa Dhillon",
+          "url": "https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd"
+        },
+        {
+          "name": "Pavitar Lassoi",
+          "url": "https://open.spotify.com/artist/3fn50P81Whm1meTnMmS8zX"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181333,
+      "name": "Kajla",
+      "url": "https://open.spotify.com/track/4inpAUR0gA7alZ8wjBtVnD"
     },
     {
       "album": {
@@ -5931,7 +5989,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 193228,
       "name": "Moody",
       "url": "https://open.spotify.com/track/6oLAnSXPLewt1hLm9gw1DD"

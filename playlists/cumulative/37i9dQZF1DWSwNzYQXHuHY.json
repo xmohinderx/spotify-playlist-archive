@@ -724,7 +724,7 @@
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 230661,
+      "duration_ms": 230640,
       "name": "Fool",
       "url": "https://open.spotify.com/track/4EIJ8e7f0104nDFFVhWg0x"
     },
@@ -1283,6 +1283,24 @@
       "duration_ms": 216600,
       "name": "Line",
       "url": "https://open.spotify.com/track/2n4NuLpGCLp7dnICjvCgAy"
+    },
+    {
+      "album": {
+        "name": "Losing Sleep Over You",
+        "url": "https://open.spotify.com/album/5cWr6GGTuK2eWAjN8EkUxi"
+      },
+      "artists": [
+        {
+          "name": "Punch",
+          "url": "https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181266,
+      "name": "Losing Sleep Over You",
+      "url": "https://open.spotify.com/track/1T9QufIPBQTW36Z1oNxrks"
     },
     {
       "album": {
@@ -2115,7 +2133,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 209866,
       "name": "Something Precious",
       "url": "https://open.spotify.com/track/7yoqiaAawHktS5Gao5rzLO"

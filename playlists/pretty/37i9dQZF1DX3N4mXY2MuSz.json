@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDExMDE4OSwwMDAwMDAwMDJmMTJhZjllZDAwODVjMjhmNDY4YzVkOGU4M2M5N2E0",
+  "snapshot_id": "MTY0MDExMDE4OSwwMDAwMDAwMGY3MWU1ZDlmY2Q2MjZmNGU2ODQ5NjRjODk2OGMxNmVh",
   "tracks": [
     {
       "added_at": "2021-11-19 13:39:50",
@@ -203,8 +203,8 @@
     {
       "added_at": "2021-11-19 13:39:50",
       "album": {
-        "name": "Not Another Christmas Song",
-        "url": "https://open.spotify.com/album/4KflvArkaGbPj2jNgm70KK"
+        "name": "Dogs Eating Dogs",
+        "url": "https://open.spotify.com/album/3Jpdv1X5cweLrcebtM1tar"
       },
       "artists": [
         {
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
         }
       ],
-      "duration_ms": 159709,
-      "name": "Not Another Christmas Song",
-      "url": "https://open.spotify.com/track/22HLihdOv820hEmSRJeHUf"
+      "duration_ms": 239306,
+      "name": "Boxing Day",
+      "url": "https://open.spotify.com/track/6uDMP9Hlgy2FemC6sp9ZRt"
     },
     {
       "added_at": "2021-11-19 13:39:50",
@@ -283,8 +283,8 @@
     {
       "added_at": "2021-11-19 13:39:50",
       "album": {
-        "name": "I Won't Be Home For Christmas",
-        "url": "https://open.spotify.com/album/6aXNm9ZaI6eKoRvaVBwU9j"
+        "name": "Not Another Christmas Song",
+        "url": "https://open.spotify.com/album/4KflvArkaGbPj2jNgm70KK"
       },
       "artists": [
         {
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
         }
       ],
-      "duration_ms": 198093,
-      "name": "I Won't Be Home For Christmas",
-      "url": "https://open.spotify.com/track/41olw7iIGVyds8dnSR9pb0"
+      "duration_ms": 159709,
+      "name": "Not Another Christmas Song",
+      "url": "https://open.spotify.com/track/22HLihdOv820hEmSRJeHUf"
     },
     {
       "added_at": "2021-11-19 13:39:50",
@@ -439,6 +439,22 @@
       "duration_ms": 163933,
       "name": "Xmas Has Been X'ed",
       "url": "https://open.spotify.com/track/40GMBdqqTwa2A1pGZEfOxO"
+    },
+    {
+      "added_at": "2021-11-19 13:39:50",
+      "album": {
+        "name": "I Won't Be Home For Christmas",
+        "url": "https://open.spotify.com/album/6aXNm9ZaI6eKoRvaVBwU9j"
+      },
+      "artists": [
+        {
+          "name": "blink-182",
+          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+        }
+      ],
+      "duration_ms": 198093,
+      "name": "I Won't Be Home For Christmas",
+      "url": "https://open.spotify.com/track/41olw7iIGVyds8dnSR9pb0"
     },
     {
       "added_at": "2021-11-19 13:39:50",
@@ -619,38 +635,6 @@
     {
       "added_at": "2021-11-19 13:39:50",
       "album": {
-        "name": "Punk Goes Christmas (Deluxe)",
-        "url": "https://open.spotify.com/album/6pj3sxkEUpAOlix05HpxmF"
-      },
-      "artists": [
-        {
-          "name": "Jarrod Alonge",
-          "url": "https://open.spotify.com/artist/3zLWOB0I86EiVgG5NrX1ht"
-        }
-      ],
-      "duration_ms": 207255,
-      "name": "12 Days Of A Pop-Punk Christmas",
-      "url": "https://open.spotify.com/track/3a0JYuE4yo9xtGon59a7t9"
-    },
-    {
-      "added_at": "2021-11-19 13:39:50",
-      "album": {
-        "name": "The Season's Upon Us",
-        "url": "https://open.spotify.com/album/0eX2dIB3Ce7t32RjWoppJJ"
-      },
-      "artists": [
-        {
-          "name": "Dropkick Murphys",
-          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
-        }
-      ],
-      "duration_ms": 242186,
-      "name": "The Season's Upon Us",
-      "url": "https://open.spotify.com/track/1gSmN84niQf7DZSCCWfOyN"
-    },
-    {
-      "added_at": "2021-11-19 13:39:50",
-      "album": {
         "name": "Christmas Songs",
         "url": "https://open.spotify.com/album/6C89e7cpRmYu1SSKK3GcwS"
       },
@@ -683,6 +667,22 @@
     {
       "added_at": "2021-11-19 13:39:50",
       "album": {
+        "name": "Punk Goes Christmas (Deluxe)",
+        "url": "https://open.spotify.com/album/6pj3sxkEUpAOlix05HpxmF"
+      },
+      "artists": [
+        {
+          "name": "Jarrod Alonge",
+          "url": "https://open.spotify.com/artist/3zLWOB0I86EiVgG5NrX1ht"
+        }
+      ],
+      "duration_ms": 207255,
+      "name": "12 Days Of A Pop-Punk Christmas",
+      "url": "https://open.spotify.com/track/3a0JYuE4yo9xtGon59a7t9"
+    },
+    {
+      "added_at": "2021-11-19 13:39:50",
+      "album": {
         "name": "Christmas Song",
         "url": "https://open.spotify.com/album/1xQ5XJsYtbSUvsJrEkZCW9"
       },
@@ -695,6 +695,22 @@
       "duration_ms": 174000,
       "name": "Christmas Song",
       "url": "https://open.spotify.com/track/5zQHYpjKOHlo86BVVh2jym"
+    },
+    {
+      "added_at": "2021-11-19 13:39:50",
+      "album": {
+        "name": "The Season's Upon Us",
+        "url": "https://open.spotify.com/album/0eX2dIB3Ce7t32RjWoppJJ"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "duration_ms": 242186,
+      "name": "The Season's Upon Us",
+      "url": "https://open.spotify.com/track/1gSmN84niQf7DZSCCWfOyN"
     },
     {
       "added_at": "2021-11-19 13:39:50",
@@ -763,22 +779,6 @@
     {
       "added_at": "2021-11-19 13:39:50",
       "album": {
-        "name": "Horror Xmas",
-        "url": "https://open.spotify.com/album/51xCpAiS0IrrmV2t7evgiR"
-      },
-      "artists": [
-        {
-          "name": "Misfits",
-          "url": "https://open.spotify.com/artist/1cXi8ALPQCBHZbf0EgP4Ey"
-        }
-      ],
-      "duration_ms": 132637,
-      "name": "You\u2019re a Mean One, Mr. Grinch",
-      "url": "https://open.spotify.com/track/385QXeZY8UHFDde2FvFwuS"
-    },
-    {
-      "added_at": "2021-11-19 13:39:50",
-      "album": {
         "name": "Christmas Songs",
         "url": "https://open.spotify.com/album/6C89e7cpRmYu1SSKK3GcwS"
       },
@@ -795,18 +795,18 @@
     {
       "added_at": "2021-11-19 13:39:50",
       "album": {
-        "name": "\u2026And A Happy New Year",
-        "url": "https://open.spotify.com/album/0nvXgp11ABRjr2BFuBm3rP"
+        "name": "Horror Xmas",
+        "url": "https://open.spotify.com/album/51xCpAiS0IrrmV2t7evgiR"
       },
       "artists": [
         {
-          "name": "The Maine",
-          "url": "https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0"
+          "name": "Misfits",
+          "url": "https://open.spotify.com/artist/1cXi8ALPQCBHZbf0EgP4Ey"
         }
       ],
-      "duration_ms": 201640,
-      "name": "Mr. Winter",
-      "url": "https://open.spotify.com/track/3dboEgQj1XkorQYxcj62PY"
+      "duration_ms": 132637,
+      "name": "You\u2019re a Mean One, Mr. Grinch",
+      "url": "https://open.spotify.com/track/385QXeZY8UHFDde2FvFwuS"
     },
     {
       "added_at": "2021-11-19 13:39:50",
@@ -831,6 +831,22 @@
     {
       "added_at": "2021-11-19 13:39:50",
       "album": {
+        "name": "\u2026And A Happy New Year",
+        "url": "https://open.spotify.com/album/0nvXgp11ABRjr2BFuBm3rP"
+      },
+      "artists": [
+        {
+          "name": "The Maine",
+          "url": "https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0"
+        }
+      ],
+      "duration_ms": 201640,
+      "name": "Mr. Winter",
+      "url": "https://open.spotify.com/track/3dboEgQj1XkorQYxcj62PY"
+    },
+    {
+      "added_at": "2021-11-19 13:39:50",
+      "album": {
         "name": "Punk Goes Christmas",
         "url": "https://open.spotify.com/album/15f1OucbVKhzyfQtnwdWwk"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 157746,
       "name": "I Had A Heart",
       "url": "https://open.spotify.com/track/32l3HV3vwkoVjagjLGdJll"
-    },
-    {
-      "added_at": "2021-11-19 13:39:50",
-      "album": {
-        "name": "Happy Skalidays",
-        "url": "https://open.spotify.com/album/3vDjcjCn0PmS5KNRYfw72x"
-      },
-      "artists": [
-        {
-          "name": "Reel Big Fish",
-          "url": "https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW"
-        }
-      ],
-      "duration_ms": 182286,
-      "name": "Grandma Got Run Over By A Reindeer",
-      "url": "https://open.spotify.com/track/2Vo0CHZltnh18JAPNOSfS3"
     },
     {
       "added_at": "2021-11-19 13:39:50",
@@ -879,22 +879,6 @@
     {
       "added_at": "2021-11-19 13:39:50",
       "album": {
-        "name": "Christmas Spirit...In My House",
-        "url": "https://open.spotify.com/album/0XMxz3mrpWkF5ssipEvaBv"
-      },
-      "artists": [
-        {
-          "name": "Joey Ramone",
-          "url": "https://open.spotify.com/artist/7dxF7y4hlGFazdArMsxbEx"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Christmas (Baby Please Come Home)",
-      "url": "https://open.spotify.com/track/2owWbedyDiJaXvEbW4krLl"
-    },
-    {
-      "added_at": "2021-11-19 13:39:50",
-      "album": {
         "name": "Punk Goes Christmas",
         "url": "https://open.spotify.com/album/15f1OucbVKhzyfQtnwdWwk"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 215200,
       "name": "Nothing For Christmas",
       "url": "https://open.spotify.com/track/5zdyKroAn09fOqljE7ddIV"
+    },
+    {
+      "added_at": "2021-11-19 13:39:50",
+      "album": {
+        "name": "Happy Skalidays",
+        "url": "https://open.spotify.com/album/3vDjcjCn0PmS5KNRYfw72x"
+      },
+      "artists": [
+        {
+          "name": "Reel Big Fish",
+          "url": "https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW"
+        }
+      ],
+      "duration_ms": 182286,
+      "name": "Grandma Got Run Over By A Reindeer",
+      "url": "https://open.spotify.com/track/2Vo0CHZltnh18JAPNOSfS3"
     },
     {
       "added_at": "2021-11-19 13:39:50",
@@ -927,18 +927,18 @@
     {
       "added_at": "2021-11-19 13:39:50",
       "album": {
-        "name": "The Human Highlight Reel",
-        "url": "https://open.spotify.com/album/2zZVFYoDYMcehQkiKHYpj3"
+        "name": "Christmas Spirit...In My House",
+        "url": "https://open.spotify.com/album/0XMxz3mrpWkF5ssipEvaBv"
       },
       "artists": [
         {
-          "name": "Man Overboard",
-          "url": "https://open.spotify.com/artist/7oT6vt8H3q7kA24sicjFzO"
+          "name": "Joey Ramone",
+          "url": "https://open.spotify.com/artist/7dxF7y4hlGFazdArMsxbEx"
         }
       ],
-      "duration_ms": 184880,
-      "name": "Decemberism",
-      "url": "https://open.spotify.com/track/2vgsDqkE5dyAveetWyhVHk"
+      "duration_ms": 206000,
+      "name": "Christmas (Baby Please Come Home)",
+      "url": "https://open.spotify.com/track/2owWbedyDiJaXvEbW4krLl"
     },
     {
       "added_at": "2021-11-19 13:39:50",
@@ -955,6 +955,22 @@
       "duration_ms": 149173,
       "name": "Somewhere in My Memory",
       "url": "https://open.spotify.com/track/0w06ax9ZDaTbFFmD2wOCnu"
+    },
+    {
+      "added_at": "2021-11-19 13:39:50",
+      "album": {
+        "name": "The Human Highlight Reel",
+        "url": "https://open.spotify.com/album/2zZVFYoDYMcehQkiKHYpj3"
+      },
+      "artists": [
+        {
+          "name": "Man Overboard",
+          "url": "https://open.spotify.com/artist/7oT6vt8H3q7kA24sicjFzO"
+        }
+      ],
+      "duration_ms": 184880,
+      "name": "Decemberism",
+      "url": "https://open.spotify.com/track/2vgsDqkE5dyAveetWyhVHk"
     },
     {
       "added_at": "2021-11-19 13:39:50",
@@ -1071,22 +1087,6 @@
     {
       "added_at": "2021-11-19 13:39:50",
       "album": {
-        "name": "Punk Goes Christmas",
-        "url": "https://open.spotify.com/album/15f1OucbVKhzyfQtnwdWwk"
-      },
-      "artists": [
-        {
-          "name": "Man Overboard",
-          "url": "https://open.spotify.com/artist/7oT6vt8H3q7kA24sicjFzO"
-        }
-      ],
-      "duration_ms": 209373,
-      "name": "Father Christmas",
-      "url": "https://open.spotify.com/track/4ye8DKOAbTLH5a2Y0Zpxkn"
-    },
-    {
-      "added_at": "2021-11-19 13:39:50",
-      "album": {
         "name": "December's Here",
         "url": "https://open.spotify.com/album/32cEyEa1AdPfMi79rJh6uN"
       },
@@ -1099,6 +1099,22 @@
       "duration_ms": 179054,
       "name": "December's Here",
       "url": "https://open.spotify.com/track/0CdxsUc8w4yjuMLD0hB4BC"
+    },
+    {
+      "added_at": "2021-11-19 13:39:50",
+      "album": {
+        "name": "Punk Goes Christmas",
+        "url": "https://open.spotify.com/album/15f1OucbVKhzyfQtnwdWwk"
+      },
+      "artists": [
+        {
+          "name": "Man Overboard",
+          "url": "https://open.spotify.com/artist/7oT6vt8H3q7kA24sicjFzO"
+        }
+      ],
+      "duration_ms": 209373,
+      "name": "Father Christmas",
+      "url": "https://open.spotify.com/track/4ye8DKOAbTLH5a2Y0Zpxkn"
     },
     {
       "added_at": "2021-11-19 13:39:50",
@@ -1183,34 +1199,22 @@
     {
       "added_at": "2021-11-19 13:39:50",
       "album": {
-        "name": "Happy Skalidays",
-        "url": "https://open.spotify.com/album/3vDjcjCn0PmS5KNRYfw72x"
+        "name": "Christmas Calling",
+        "url": "https://open.spotify.com/album/3dxUAJGxReRRdWdDGze7EL"
       },
       "artists": [
         {
-          "name": "Reel Big Fish",
-          "url": "https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW"
-        }
-      ],
-      "duration_ms": 189260,
-      "name": "Auld Lang Syne",
-      "url": "https://open.spotify.com/track/2o8rF3D43FbniUVatDtSlz"
-    },
-    {
-      "added_at": "2021-11-19 13:39:50",
-      "album": {
-        "name": "Punk Rawk Christmas",
-        "url": "https://open.spotify.com/album/04Bn005uXQk5oKUZZovDFq"
-      },
-      "artists": [
+          "name": "Tenacious D",
+          "url": "https://open.spotify.com/artist/1XpDYCrUJnvCo9Ez6yeMWh"
+        },
         {
-          "name": "MxPx",
-          "url": "https://open.spotify.com/artist/1cSpfa4Un4NCOzeOKgGtG9"
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
         }
       ],
-      "duration_ms": 200573,
-      "name": "Punk Rawk Christmas",
-      "url": "https://open.spotify.com/track/1aWd5MkGpyhqENRiilEWxe"
+      "duration_ms": 234893,
+      "name": "Things I Want",
+      "url": "https://open.spotify.com/track/7gfa6TiFiesmwQjUbIzv8c"
     }
   ],
   "unique_name": "Punk Christmas",

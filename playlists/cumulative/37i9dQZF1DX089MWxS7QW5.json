@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\ud55c\uad6d R&B. The hottest K-R&B is here. (Cover: Grass(\uadf8\ub798\uc4f0))",
+  "description": "\ud55c\uad6d R&B. The hottest K-R&B is here. (Cover: Grass(Jiselle(\uc9c0\uc140))",
   "name": "K-Are & Be",
   "published_playlist_ids": [
     "0kvpJtsvIoyFKt5gsRYiS9"
@@ -379,6 +379,28 @@
       "duration_ms": 195317,
       "name": "boyhood",
       "url": "https://open.spotify.com/track/6YpK7C7uz3LAjSDAW5pmga"
+    },
+    {
+      "album": {
+        "name": "Therapy Session",
+        "url": "https://open.spotify.com/album/2hp1xdmCKrjVdAodJjDVgO"
+      },
+      "artists": [
+        {
+          "name": "Jiselle",
+          "url": "https://open.spotify.com/artist/6tjbcCaexKI8esvvEZPVnt"
+        },
+        {
+          "name": "oceanfromtheblue",
+          "url": "https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226786,
+      "name": "Butterfly (feat. Oceanfromtheblue)",
+      "url": "https://open.spotify.com/track/1P9ztAUu6vrOdZ0Mr8lxWp"
     },
     {
       "album": {

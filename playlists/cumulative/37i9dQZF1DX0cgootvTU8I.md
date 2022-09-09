@@ -4,7 +4,7 @@
 
 > Jungle is still massive
 
-97 songs - 8 hr 5 min - [published](https://open.spotify.com/playlist/5ESlyfMOh8TLILYBOWB5nc)
+98 songs - 8 hr 10 min - [published](https://open.spotify.com/playlist/5ESlyfMOh8TLILYBOWB5nc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Shelling](https://open.spotify.com/track/3v9sO8XfgHuz9NaWi1dVop) | [Sam Binga](https://open.spotify.com/artist/2oyU4eToyQkxAFjkB3blsi), [Redders](https://open.spotify.com/artist/6vUJChpc4tvTMNhoqSZ8Mk), [Slay](https://open.spotify.com/artist/3mJPM3drRUdlDVXcc3tA0M) | [Shelling](https://open.spotify.com/album/7fY2dcHafkAJihL0jP8amN) | 2:54 | 2022-05-05 |  |
 | [Shhh](https://open.spotify.com/track/1N6FeBvfd4a8s4aGx1NxT2) | [LCY](https://open.spotify.com/artist/4UUWo1AiaKMCi76yo69O1U) | [Pulling Teeth](https://open.spotify.com/album/3KSdfgM7AbMcbFDMTq0cbU) | 3:58 | 2022-05-05 |  |
 | [Show Me](https://open.spotify.com/track/6wBXGUAcDsK3T7fidop2Gc) | [Jubei](https://open.spotify.com/artist/748MGeLsgxl6GVGuDvHbsY), [dBridge](https://open.spotify.com/artist/4G1BTcGLvvsItegHSvBH0y) | [Show Me](https://open.spotify.com/album/6tUgcJ42LlOwmQiUEuaYhF) | 4:33 | 2022-05-05 |  |
+| [Sirens \(feat\. Caroline Polachek\) \[Coco Bryce Remix\]](https://open.spotify.com/track/326eYH1DUgVJafO2baEEwL) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Coco Bryce](https://open.spotify.com/artist/08hjAM9XAD28O0nWVKmlx5), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Palaces : The Remixes, Pt\. 2](https://open.spotify.com/album/40p5qaIMZREYF9S6vKzFf5) | 5:13 | 2022-09-05 |  |
 | [Skrrrrr](https://open.spotify.com/track/43GXTiZjRqGoGlLvddtyRv) | [Sam Binga](https://open.spotify.com/artist/2oyU4eToyQkxAFjkB3blsi), [Particle](https://open.spotify.com/artist/7rLJelomw75vyEpt1HwwP0) | [Skrrrrr EP](https://open.spotify.com/album/2bWQF1wLD3GepnShL3oT1c) | 3:55 | 2022-05-05 |  |
 | [So Good](https://open.spotify.com/track/2jbNkB6CIW8vSwZMWknd8g) | [Denham Audio](https://open.spotify.com/artist/2gyrzIEBDddx6GsW60DnW1), [Mani Festo](https://open.spotify.com/artist/5Uhy5m7C7k0TaJsDy6yQNg) | [Denham Audio & Friends](https://open.spotify.com/album/42xpRc6lrJwY7yeXyhiOy9) | 5:54 | 2022-05-05 |  |
 | [Spec 4](https://open.spotify.com/track/6VmJO2wXKw5k9AUCEcRTr2) | [Consulate](https://open.spotify.com/artist/5HJQJT85iVXOPiJtQhbAXA) | [Spec 4](https://open.spotify.com/album/52SUPKlhbZuunWcIeHIDNI) | 5:46 | 2022-05-05 |  |

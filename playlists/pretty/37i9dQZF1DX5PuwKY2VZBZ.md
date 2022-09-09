@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5PuwKY2VZBZ.md) - [plain]
 
 > Hip\-Hop's next generation takes over SXSW! Cover: <a href="spotify:artist:3Gm5F95VdRxW3mqCn8RPBJ">Aminè</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,643 likes - 25 songs - 1 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,642 likes - 25 songs - 1 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5PuwKY2VZBZ.md) - [plain]
 | 11 | [Reflex](https://open.spotify.com/track/2HhJ0b1AwX5Vgcnf3zzx1p) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ) | [Collection One](https://open.spotify.com/album/6SInUyQqx0RZaVTSEioHkD) | 4:01 |
 | 12 | [Blame My Friends \(The Gang\)](https://open.spotify.com/track/0v4yQTNMOmDCoQbmZViF5L) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [Blame My Friends \(The Gang\)](https://open.spotify.com/album/14tgPDRP1lXbwQoiAKLQQu) | 4:02 |
 | 13 | [Don't Knock on My Door](https://open.spotify.com/track/0CaY5hpcqHCQgOZI0Vpv5O) | [Tdot illdude](https://open.spotify.com/artist/4gcBXAL1iwHPIrf1LdVsKg) | [The Vibe Is Heavy 2](https://open.spotify.com/album/2aQjvAzM4IB2Ko5oLrXdCz) | 3:36 |
-| 14 | [Diddy Bop \(feat\. Cam O'bi & Raury\)](https://open.spotify.com/track/6JvfBzqZmSiEG5MjM7OcSY) | [Noname](https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy), [Cam O'bi](https://open.spotify.com/artist/4jqFe1fd5uul2XSSxsRvbZ), [Raury](https://open.spotify.com/artist/2PU4qFehXQF7WnlFsJpBiJ) | [Telefone](https://open.spotify.com/album/18Scpsg5OV1iYNtSaCsjwz) | 3:28 |
+| 14 | [Diddy Bop](https://open.spotify.com/track/3M0XJE3zuyOKksK7wIOxNN) | [Noname](https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy), [Raury](https://open.spotify.com/artist/2PU4qFehXQF7WnlFsJpBiJ), [Cam O'bi](https://open.spotify.com/artist/4jqFe1fd5uul2XSSxsRvbZ) | [telefone](https://open.spotify.com/album/3WQSmz0juSSmEmzXpv9l6M) | 3:28 |
 | 15 | [Sad \(feat\. Lil Yachty\)](https://open.spotify.com/track/7mutwn9veHkaJkXtWOh1ZZ) | [Kodie Shane](https://open.spotify.com/artist/1CUeN4GnHAGUk9nAXPorF4), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Zero Gravity](https://open.spotify.com/album/3tfJilb5KtiizqmZomvfgU) | 3:11 |
 | 16 | [Picture Perfect](https://open.spotify.com/track/35sOsFocK5HbM7iZ0kYuIM) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Stillness in Wonderland](https://open.spotify.com/album/4G50FUTTI4fCDyrxP1UEer) | 3:03 |
 | 17 | [Wanna Know Remix \(feat\. Drake\)](https://open.spotify.com/track/7bPLo5Fv7h15E2fW3g1mVQ) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Wanna Know Remix \(feat\. Drake\)](https://open.spotify.com/album/58w0f9JJztUe8vXg9C0WwD) | 3:19 |
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5PuwKY2VZBZ.md) - [plain]
 | 24 | [Rushing Forever](https://open.spotify.com/track/16Sm8sN7bq8942HsUxgp1g) | [Eric Biddines](https://open.spotify.com/artist/1oWMTa07veeLLYEX2qW3yi) | [The Local Cafe](https://open.spotify.com/album/6vYCuUxOwCiZB76qRz9dDT) | 3:35 |
 | 25 | [NozeBleedz \(feat\. Ripp Flamez\)](https://open.spotify.com/track/4Q5giiUZFi1NRHUk4L1OcO) | [Ray jr.](https://open.spotify.com/artist/2tPGPQrBHy5ZWR819p24q8), [Ripp Flamez](https://open.spotify.com/artist/0i2MkQSmpTQjsT5NZs7jOX) | [NozeBleedz \(feat\. Ripp Flamez\)](https://open.spotify.com/album/0tmVOSdODZDGNLYLcCH0dH) | 2:39 |
 
-Snapshot ID: `MTQ5ODY1MjQ4MSwwMDAwMDAwMDRiMGEyNTUzMzM4N2M1NDU2YTcxNDc4Y2QxYmQyOGU3`
+Snapshot ID: `MTQ5ODY1MjQ4MSwwMDAwMDAwMGUwYWFjNmU3MWNjZGRmNDVhNTJlMTRmMjJhZTA5MDMy`

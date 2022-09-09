@@ -2,7 +2,7 @@
 
 ### [Ripple Effect: Texas](https://open.spotify.com/playlist/37i9dQZF1DX4ve1H90mNWg)
 
-> Texas music breaking waves\. Cover, Beyonce
+> Texas music breaking waves\. Cover, Teezo Touchdown
 
 238 songs - 11 hr 31 min - [published](https://open.spotify.com/playlist/3z4DK6QkxF2O2T2EB2ZrKi)
 

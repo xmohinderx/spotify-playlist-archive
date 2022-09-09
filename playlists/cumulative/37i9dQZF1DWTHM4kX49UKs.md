@@ -4,7 +4,7 @@
 
 > The best indie rock/pop/hip hop/dance/r&b of the 2010s\. Cover: Tame Impala
 
-155 songs - 10 hr 41 min - [published](https://open.spotify.com/playlist/3auSmhLzNB0gly5FRzRqez)
+156 songs - 10 hr 45 min - [published](https://open.spotify.com/playlist/3auSmhLzNB0gly5FRzRqez)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,8 @@
 | [Damn That Valley](https://open.spotify.com/track/1cWVUrMhaVcLLW8nRz1wgR) | [U.S\. Girls](https://open.spotify.com/artist/3AHFDfqhSqPBecjQDIOIJA) | [Half Free](https://open.spotify.com/album/7DQbNDsFFpOhgXSRHFuzVF) | 3:10 | 2019-12-09 | 2022-07-29 |
 | [Dance Yrself Clean](https://open.spotify.com/track/2cmRpmO04TLaKPzmAzySYZ) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [This Is Happening](https://open.spotify.com/album/4hnqM0JK4CM1phwfq1Ldyz) | 8:56 | 2019-12-09 |  |
 | [Dancing On My Own](https://open.spotify.com/track/3Rc2ajBMInxeNGVkMPC92Y) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Body Talk Pt\. 1](https://open.spotify.com/album/4ektWErsV6EIxW0jBWq1Jn) | 4:45 | 2019-12-09 |  |
-| [Diddy Bop \(feat\. Cam O'bi & Raury\)](https://open.spotify.com/track/6JvfBzqZmSiEG5MjM7OcSY) | [Noname](https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy), [Cam O'bi](https://open.spotify.com/artist/4jqFe1fd5uul2XSSxsRvbZ), [Raury](https://open.spotify.com/artist/2PU4qFehXQF7WnlFsJpBiJ) | [Telefone](https://open.spotify.com/album/18Scpsg5OV1iYNtSaCsjwz) | 3:28 | 2019-12-09 |  |
+| [Diddy Bop](https://open.spotify.com/track/3M0XJE3zuyOKksK7wIOxNN) | [Noname](https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy), [Raury](https://open.spotify.com/artist/2PU4qFehXQF7WnlFsJpBiJ), [Cam O'bi](https://open.spotify.com/artist/4jqFe1fd5uul2XSSxsRvbZ) | [telefone](https://open.spotify.com/album/3WQSmz0juSSmEmzXpv9l6M) | 3:28 | 2019-12-09 |  |
+| [Diddy Bop \(feat\. Cam O'bi & Raury\)](https://open.spotify.com/track/6JvfBzqZmSiEG5MjM7OcSY) | [Noname](https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy), [Cam O'bi](https://open.spotify.com/artist/4jqFe1fd5uul2XSSxsRvbZ), [Raury](https://open.spotify.com/artist/2PU4qFehXQF7WnlFsJpBiJ) | [Telefone](https://open.spotify.com/album/18Scpsg5OV1iYNtSaCsjwz) | 3:28 | 2019-12-09 | 2022-09-09 |
 | [Don't Touch My Hair \(feat\. Sampha\)](https://open.spotify.com/track/2TyCAfhwu5tRqFW8VnGMIL) | [Solange](https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [A Seat at the Table](https://open.spotify.com/album/3Yko2SxDk4hc6fncIBQlcM) | 4:17 | 2019-12-09 |  |
 | [Don't Wanna Be Your Girl](https://open.spotify.com/track/6HG1JWEbfuf8y1ZhLVq9L3) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8) | [Don't You](https://open.spotify.com/album/4vTrbwGUedO7SN3DqNOiYU) | 3:17 | 2019-12-09 |  |
 | [Downtown](https://open.spotify.com/track/4o9umFsPZmwRT5lve7QAps) | [Majical Cloudz](https://open.spotify.com/artist/4BEYBN6NCPrFk3sOLMTby3) | [Are You Alone?](https://open.spotify.com/album/732AeYhmKrOSU0G3pPnlkB) | 4:09 | 2019-12-09 |  |

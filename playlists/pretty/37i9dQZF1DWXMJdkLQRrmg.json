@@ -1,12 +1,12 @@
 {
   "description": "Rock unplugged. Cover: Wolf Alice",
-  "num_followers": 284564,
+  "num_followers": 284690,
   "original_name": "Stripped Down",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDMyNTcyNiwwMDAwMDAwMDgzYTg1OTEzOWVlODQyNmFiNzM4NTNmYTVhMTdlMjUy",
+  "snapshot_id": "MTY2MDMyNTcyNiwwMDAwMDAwMDA0NjE4OGQyM2EyYjM2MGVjNzM5NzQ5ZDFmZWRjMjVm",
   "tracks": [
     {
       "added_at": "2022-08-12 17:34:39",
@@ -579,22 +579,6 @@
     {
       "added_at": "2022-08-12 17:34:39",
       "album": {
-        "name": "Garage, Inc.",
-        "url": "https://open.spotify.com/album/5b7HQ04lPT7eGJQ7fmVsjC"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 545733,
-      "name": "Tuesday's Gone",
-      "url": "https://open.spotify.com/track/3kjrWJMt1j9nl3favBZQIH"
-    },
-    {
-      "added_at": "2022-08-12 17:34:39",
-      "album": {
         "name": "Stay With Me",
         "url": "https://open.spotify.com/album/0fsWxXjjgHAnFLCEAGWHS5"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 198573,
       "name": "Stay With Me - Acoustic Version",
       "url": "https://open.spotify.com/track/39IX2P1yPA5opcTaHXLPlW"
+    },
+    {
+      "added_at": "2022-08-12 17:34:39",
+      "album": {
+        "name": "Garage, Inc.",
+        "url": "https://open.spotify.com/album/5b7HQ04lPT7eGJQ7fmVsjC"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 545733,
+      "name": "Tuesday's Gone",
+      "url": "https://open.spotify.com/track/3kjrWJMt1j9nl3favBZQIH"
     },
     {
       "added_at": "2022-08-12 17:34:39",
@@ -643,22 +643,6 @@
     {
       "added_at": "2022-08-12 17:34:39",
       "album": {
-        "name": "The Shower Scene (Acoustic)",
-        "url": "https://open.spotify.com/album/1fJpbgIL7RfQnS50yio6T2"
-      },
-      "artists": [
-        {
-          "name": "Ice Nine Kills",
-          "url": "https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt"
-        }
-      ],
-      "duration_ms": 182883,
-      "name": "The Shower Scene - Acoustic",
-      "url": "https://open.spotify.com/track/3VIekKbo9oVfXMs4vsRl0w"
-    },
-    {
-      "added_at": "2022-08-12 17:34:39",
-      "album": {
         "name": "How Did You Love",
         "url": "https://open.spotify.com/album/0PFYjO7SxBpUUtwR91gvJP"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 207200,
       "name": "Heart Beat Here",
       "url": "https://open.spotify.com/track/4NEAoEh4hZF1Tgp1QXrUHC"
+    },
+    {
+      "added_at": "2022-08-12 17:34:39",
+      "album": {
+        "name": "The Shower Scene (Acoustic)",
+        "url": "https://open.spotify.com/album/1fJpbgIL7RfQnS50yio6T2"
+      },
+      "artists": [
+        {
+          "name": "Ice Nine Kills",
+          "url": "https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt"
+        }
+      ],
+      "duration_ms": 182883,
+      "name": "The Shower Scene - Acoustic",
+      "url": "https://open.spotify.com/track/3VIekKbo9oVfXMs4vsRl0w"
     },
     {
       "added_at": "2022-08-12 17:34:39",

@@ -1,12 +1,12 @@
 {
   "description": "Soft electronic music for your dinner.",
-  "num_followers": 144775,
+  "num_followers": 144854,
   "original_name": "Dinner Lounge",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjA3NjgwMCwwMDAwMDAwMDgwZDE0MWI5MGNiZGViYTg5NTEyMjFjYWFiMTMxY2Mw",
+  "snapshot_id": "MTY2MjY4MTYwMCwwMDAwMDAwMDNjYmMyZDIzYzhkYjZiZTk4ZjEwMmJkMzkyYWM5ZGNk",
   "tracks": [
     {
       "added_at": "2022-09-02 00:00:00",
@@ -1037,6 +1037,22 @@
       "url": "https://open.spotify.com/track/1N4jRXLb40EAyJMzFQZzX2"
     },
     {
+      "added_at": "2022-09-09 00:00:00",
+      "album": {
+        "name": "Heartbeats",
+        "url": "https://open.spotify.com/album/7jPjhmTpXjqWyPeVBOqHZd"
+      },
+      "artists": [
+        {
+          "name": "Viceboi",
+          "url": "https://open.spotify.com/artist/3pQXV6Tz29Jx2b1BDKLfis"
+        }
+      ],
+      "duration_ms": 157368,
+      "name": "Heartbeats",
+      "url": "https://open.spotify.com/track/218rnaOV7k0eeEjfDzNOrh"
+    },
+    {
       "added_at": "2022-09-02 00:00:00",
       "album": {
         "name": "11 Out Of 10",
@@ -1051,6 +1067,22 @@
       "duration_ms": 215899,
       "name": "Bogota",
       "url": "https://open.spotify.com/track/17mpv8NkdfBdmMrIZNVpOI"
+    },
+    {
+      "added_at": "2022-09-09 00:00:00",
+      "album": {
+        "name": "Velleity",
+        "url": "https://open.spotify.com/album/4huMtPAQYTHoD8Rc3ExI3n"
+      },
+      "artists": [
+        {
+          "name": "Maea Sid",
+          "url": "https://open.spotify.com/artist/61tIMgKcUFt94NcDrTbgwS"
+        }
+      ],
+      "duration_ms": 212882,
+      "name": "Velleity",
+      "url": "https://open.spotify.com/track/4HQ41ym9uibfzg3rDtEYcm"
     },
     {
       "added_at": "2022-09-02 00:00:00",
@@ -1983,38 +2015,6 @@
     {
       "added_at": "2022-09-02 00:00:00",
       "album": {
-        "name": "Little Miss Universe",
-        "url": "https://open.spotify.com/album/5IHkFNd44rqOD7cF4jMid1"
-      },
-      "artists": [
-        {
-          "name": "Miso Colt",
-          "url": "https://open.spotify.com/artist/0bsWKSbs38UWgIjPBaz5x4"
-        }
-      ],
-      "duration_ms": 203076,
-      "name": "Little Miss Universe",
-      "url": "https://open.spotify.com/track/1Ec6Duf5AmAmPGFwEzJkv4"
-    },
-    {
-      "added_at": "2022-09-02 00:00:00",
-      "album": {
-        "name": "Overtime",
-        "url": "https://open.spotify.com/album/4XQpK5sCgogkGf6fCiK3QN"
-      },
-      "artists": [
-        {
-          "name": "Cratouille",
-          "url": "https://open.spotify.com/artist/71bT9EEHGRQNqKHVwS1kdR"
-        }
-      ],
-      "duration_ms": 175500,
-      "name": "Overtime",
-      "url": "https://open.spotify.com/track/20po3c7qSftUPQpBrmDpX1"
-    },
-    {
-      "added_at": "2022-09-02 00:00:00",
-      "album": {
         "name": "Numberless",
         "url": "https://open.spotify.com/album/4u2RN3NRm5qXEkI7eE0E24"
       },
@@ -2027,22 +2027,6 @@
       "duration_ms": 166180,
       "name": "Numberless",
       "url": "https://open.spotify.com/track/5ZDSl9sx8sDxzrrcAddsJm"
-    },
-    {
-      "added_at": "2022-09-02 00:00:00",
-      "album": {
-        "name": "Following the trail",
-        "url": "https://open.spotify.com/album/00EV0QM867HkJVvKQKTyRi"
-      },
-      "artists": [
-        {
-          "name": "Nimis",
-          "url": "https://open.spotify.com/artist/3HTQ3tT0u6x4qA7vPhT8XN"
-        }
-      ],
-      "duration_ms": 207500,
-      "name": "Following the trail",
-      "url": "https://open.spotify.com/track/4YvOWccd63fXOhX6OfpVdD"
     },
     {
       "added_at": "2022-09-02 00:00:00",
@@ -2095,22 +2079,6 @@
     {
       "added_at": "2022-09-02 00:00:00",
       "album": {
-        "name": "Chillity",
-        "url": "https://open.spotify.com/album/4dbLYtRaYIZCLountdyt4I"
-      },
-      "artists": [
-        {
-          "name": "Mwuah",
-          "url": "https://open.spotify.com/artist/4JbwJg5Mu77ekuiROGPXdF"
-        }
-      ],
-      "duration_ms": 156800,
-      "name": "Chillity",
-      "url": "https://open.spotify.com/track/4aR5l7Ry6NqflPVgxzxLfH"
-    },
-    {
-      "added_at": "2022-09-02 00:00:00",
-      "album": {
         "name": "Rayn / New Jade",
         "url": "https://open.spotify.com/album/6CaGwdawqrWQ14o9vew84L"
       },
@@ -2127,22 +2095,6 @@
     {
       "added_at": "2022-09-02 00:00:00",
       "album": {
-        "name": "Kissing on the Dance Floor",
-        "url": "https://open.spotify.com/album/6uSeYFPvoMv0DZxsrZyIS2"
-      },
-      "artists": [
-        {
-          "name": "Tyler Greyson",
-          "url": "https://open.spotify.com/artist/6oqXcmdNWohuzozZgdcS9o"
-        }
-      ],
-      "duration_ms": 162153,
-      "name": "Kissing on the Dance Floor",
-      "url": "https://open.spotify.com/track/3LHZHqkVQRfUbxWli3717M"
-    },
-    {
-      "added_at": "2022-09-02 00:00:00",
-      "album": {
         "name": "bottle spin",
         "url": "https://open.spotify.com/album/11stcaN7WgXH8ULLWmnGCF"
       },
@@ -2155,22 +2107,6 @@
       "duration_ms": 144860,
       "name": "bottle spin",
       "url": "https://open.spotify.com/track/2ZGlPFelg3I5iSyZsAHRBP"
-    },
-    {
-      "added_at": "2022-09-02 00:00:00",
-      "album": {
-        "name": "Comfortable Right Here",
-        "url": "https://open.spotify.com/album/1zncEXQRslpxk9ZffXsx1c"
-      },
-      "artists": [
-        {
-          "name": "Ealot",
-          "url": "https://open.spotify.com/artist/6sJse0O3SfTxVeFiG1D4Mq"
-        }
-      ],
-      "duration_ms": 252850,
-      "name": "Elusive Language",
-      "url": "https://open.spotify.com/track/5LZGCkGCiZJfiNO7PWdFZ1"
     },
     {
       "added_at": "2022-09-02 00:00:00",
@@ -2203,38 +2139,6 @@
       "duration_ms": 179590,
       "name": "Punt",
       "url": "https://open.spotify.com/track/6ZqRspECTUuHwKbtagUaNh"
-    },
-    {
-      "added_at": "2022-09-02 00:00:00",
-      "album": {
-        "name": "Saltwater",
-        "url": "https://open.spotify.com/album/5sPsJOKPYyPNwRScvaOxn0"
-      },
-      "artists": [
-        {
-          "name": "Bejnou",
-          "url": "https://open.spotify.com/artist/2ACa9uyntS1aSduemgNj5k"
-        }
-      ],
-      "duration_ms": 147000,
-      "name": "Saltwater",
-      "url": "https://open.spotify.com/track/2yKuBIhdZNhIB4V8VpITqm"
-    },
-    {
-      "added_at": "2022-09-02 00:00:00",
-      "album": {
-        "name": "Wave Machine",
-        "url": "https://open.spotify.com/album/3Gkho3YVfoF6t2sE9yWGic"
-      },
-      "artists": [
-        {
-          "name": "Florem Ipsum",
-          "url": "https://open.spotify.com/artist/594PMnBcYcEU1sTCC75Iir"
-        }
-      ],
-      "duration_ms": 161799,
-      "name": "Wave Machine",
-      "url": "https://open.spotify.com/track/2BaPjgVI7EidIAo6fajVr3"
     }
   ],
   "unique_name": "Dinner Lounge",

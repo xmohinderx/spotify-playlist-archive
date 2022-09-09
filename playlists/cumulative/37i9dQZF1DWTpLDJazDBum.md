@@ -2,9 +2,9 @@
 
 ### [Chill Gaming Beats](https://open.spotify.com/playlist/37i9dQZF1DWTpLDJazDBum)
 
-> Find your flow with these instrumental trap and lofi beats.
+> Find your flow with these trap and lofi beats.
 
-226 songs - 9 hr 56 min - [published](https://open.spotify.com/playlist/7G9URZLYPjRGYZEph2wbiQ)
+230 songs - 10 hr 7 min - [published](https://open.spotify.com/playlist/7G9URZLYPjRGYZEph2wbiQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,7 @@
 | [Don't Be Afraid](https://open.spotify.com/track/3niRUhcQ4mkqQe4OVdxXW4) | [Clowee](https://open.spotify.com/artist/36AmbXsbnIm9hpzWt15wS7) | [Don't Be Afraid](https://open.spotify.com/album/2kkZtHc44yjGjtAL1i4VLD) | 1:56 | 2022-04-08 |  |
 | [Downheart](https://open.spotify.com/track/0Lp1LrUBqlSYTBf5s6jfTc) | [Michael Tylor](https://open.spotify.com/artist/3U4Nn3hdz5eDPdDQUPW0MM) | [Downheart](https://open.spotify.com/album/3qK5sZYstzW4yt29Tw7Ocl) | 2:09 | 2022-09-02 |  |
 | [Dusk](https://open.spotify.com/track/2lFTXt6gHlFgqOO8PXtagw) | [Unoriginals](https://open.spotify.com/artist/6LUOePAzkWw3iTrAzfiP1d) | [Dusk](https://open.spotify.com/album/2lM5JgM0TfX6avIjk8JXUr) | 2:56 | 2022-04-08 |  |
-| [Earthbound \- Drum Quixote Remix](https://open.spotify.com/track/4CGEmTX3M5IzoLPS9HHMDq) | [7apes](https://open.spotify.com/artist/4smeBjKru2y3oeQkGSfotv), [Joha](https://open.spotify.com/artist/2T1sSXJwmNHFMA3Ytp24PF), [Drum Quixote](https://open.spotify.com/artist/6s5uUqayWTF9ZOfxrElDmy) | [Earthbound \(Drum Quixote Remix\)](https://open.spotify.com/album/6PGrAuCS1nIgkKhhnQjsNf) | 2:25 | 2022-04-08 |  |
+| [Earthbound \- Drum Quixote Remix](https://open.spotify.com/track/4CGEmTX3M5IzoLPS9HHMDq) | [7apes](https://open.spotify.com/artist/4smeBjKru2y3oeQkGSfotv), [Joha](https://open.spotify.com/artist/2T1sSXJwmNHFMA3Ytp24PF), [Drum Quixote](https://open.spotify.com/artist/6s5uUqayWTF9ZOfxrElDmy) | [Earthbound \(Drum Quixote Remix\)](https://open.spotify.com/album/6PGrAuCS1nIgkKhhnQjsNf) | 2:25 | 2022-04-08 | 2022-09-09 |
 | [Enigma](https://open.spotify.com/track/6ZSJa6ccyXHdMYhh9Y7Mea) | [FØRTE](https://open.spotify.com/artist/46vhqe1g0BJGdspci0dwbF) | [Enigma](https://open.spotify.com/album/1jXQLiD5zNR1gAOafc27bt) | 2:38 | 2022-04-08 |  |
 | [Enter](https://open.spotify.com/track/3wlxcdGzzqNrrOeTbw3Reg) | [Voyage](https://open.spotify.com/artist/6aAXBSjwLUEukyVDhOuKNO) | [Enter](https://open.spotify.com/album/4CrvZ0RQ1sdC0gmSjfT6hg) | 5:20 | 2022-04-08 | 2022-05-27 |
 | [Escape](https://open.spotify.com/track/7eOJ0Fe4dJdpFE5KiDNv7A) | [RŮDE](https://open.spotify.com/artist/4CWpoyuE7e9NvBkUSTmJfq) | [Escape](https://open.spotify.com/album/5RncSFp1WAv41KMOQnPwb7) | 3:12 | 2022-04-08 |  |
@@ -76,6 +76,7 @@
 | [Evening Ride](https://open.spotify.com/track/5mVuwhsslkuuClVIekKA97) | [Ky\-Fo\-Beatz](https://open.spotify.com/artist/3d8VyDVDObHeXnvYUzFDfA) | [Evening Ride](https://open.spotify.com/album/50jJrDF3VTx4CnZemd3ku3) | 2:19 | 2022-04-08 |  |
 | [Existence](https://open.spotify.com/track/6zOP2sc9YDUM65NIVmVUZj) | [threefourfive](https://open.spotify.com/artist/6Egl0PesupE35TTNF6OF1X) | [Existence](https://open.spotify.com/album/1wQSWnHg5SeEIE1MRegKoX) | 1:54 | 2022-04-08 | 2022-05-27 |
 | [Far From Here](https://open.spotify.com/track/217ChWMhQc6TWGBa350i7m) | [ZooLoo One](https://open.spotify.com/artist/1bcgGPzzGefC11OU7foS7t) | [Into the Darkness](https://open.spotify.com/album/2jmpM7u4WhBoZumNmQHjre) | 1:52 | 2022-06-24 |  |
+| [Fatso](https://open.spotify.com/track/0NzWqeHz2wnYvEJYy5D7l0) | [ZLZL](https://open.spotify.com/artist/3IWEZyFoZPDgwRtQOCvox7) | [158 Texas](https://open.spotify.com/album/47HGt4wZttlPBYItTZURXi) | 3:05 | 2022-09-09 |  |
 | [Favela Blast](https://open.spotify.com/track/5lh5FpuqYBsnHUxmSY8SaD) | [Azucares](https://open.spotify.com/artist/4nBe4luXcnZ8QqpoyZq4OC) | [Scorpio](https://open.spotify.com/album/0UI9wErplZRJ4Xj0N5rx63) | 3:16 | 2022-05-26 |  |
 | [Feel the Same](https://open.spotify.com/track/36LKO32SaXOkakBfSrBdaB) | [STRLGHT](https://open.spotify.com/artist/4Tpbh6x3um360ffs5DUpgx) | [In Reality EP](https://open.spotify.com/album/2CVfoYkNBWJ8FwczUuein4) | 3:35 | 2022-04-08 | 2022-05-27 |
 | [Fish Fry](https://open.spotify.com/track/3X3BewGLYG3qc5fsMmskZb) | [\_91nova](https://open.spotify.com/artist/0fZYZqIGnT5RimC1YWfWP2) | [Highway Robbery](https://open.spotify.com/album/6Vf6C3rTyuIYE8BGKbaKKz) | 2:09 | 2022-04-08 | 2022-05-27 |
@@ -98,12 +99,14 @@
 | [How Does It Feel](https://open.spotify.com/track/0xmPtIIpkzi0sqBXTqPYwj) | [iGirl](https://open.spotify.com/artist/2wz3S9QQx5NnuU0UOEMd70) | [How Does It Feel](https://open.spotify.com/album/7iBIMGsXdqSKVQHG7UPLwU) | 2:25 | 2022-04-08 |  |
 | [Hunter](https://open.spotify.com/track/4DjwdB1x3jgUk1alcouL3g) | [Charley Hewits](https://open.spotify.com/artist/5OoQPrcf3KU2VKXC7zXR2o) | [Hunter](https://open.spotify.com/album/3lkCHgz92YIYwDVLkVGlQw) | 2:27 | 2022-06-24 |  |
 | [Hypocrisy](https://open.spotify.com/track/34Fimf5dcnJeuX8OfCTIZz) | [Amro Daly](https://open.spotify.com/artist/2fZLqmy1qsTrcQEeVmm0qj) | [Dark Catharsis](https://open.spotify.com/album/6FVhPiKboFptJyXNt7LBaR) | 3:05 | 2022-04-08 | 2022-05-27 |
+| [I'll Keep You Safe](https://open.spotify.com/track/01Rc6yXYtujAnMaR1NME11) | [sagun](https://open.spotify.com/artist/4YJkA3YshwZ8FwljpMW0II), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [I'll Keep You Safe](https://open.spotify.com/album/0VKgiEdp517vGQAI9speIX) | 3:05 | 2022-09-09 |  |
 | [In Reality](https://open.spotify.com/track/5cuq5rEehD4lyRSTXrac0l) | [STRLGHT](https://open.spotify.com/artist/4Tpbh6x3um360ffs5DUpgx) | [In Reality EP](https://open.spotify.com/album/2CVfoYkNBWJ8FwczUuein4) | 3:19 | 2022-04-08 | 2022-05-27 |
 | [In the Dash](https://open.spotify.com/track/1aY48DLfF9XM4jwZHeEIjj) | [Ballpoint](https://open.spotify.com/artist/5vbgY6zVUKz1haJv618QvC) | [In the Dash](https://open.spotify.com/album/6TyFUvcYu5FgXLINlnAd2z) | 2:01 | 2022-06-03 |  |
 | [Incredulous](https://open.spotify.com/track/3tsHNJMRKVMIGe4hxCiVLN) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93), [Megan Wofford](https://open.spotify.com/artist/3ac7SLoq4Rbms8XZE0rdkA) | [Incredulous](https://open.spotify.com/album/7yWfqhExEhTHRnpNWNy7bY) | 2:11 | 2022-04-08 | 2022-05-27 |
 | [Jaxxon](https://open.spotify.com/track/0AhsGBXcirKOnkoOnATDuI) | [Hillside Reds](https://open.spotify.com/artist/2UPmPftzM6G8utXa3RQ2MB) | [Jaxxon](https://open.spotify.com/album/2uQPnSPTSyBx4uOd7UyFQY) | 2:57 | 2022-04-08 |  |
 | [Jetset](https://open.spotify.com/track/7dGTXRCBJ3cICSy9hk7BH5) | [BLUE STEEL](https://open.spotify.com/artist/41OiR6DTlbgJtrvqjKioMb) | [Jetset](https://open.spotify.com/album/1dSijj9syslNHC3zNURsB5) | 2:30 | 2022-07-29 |  |
 | [Joker](https://open.spotify.com/track/7CAwp6JcKR1aIZc6unYpOV) | [Screwbar](https://open.spotify.com/artist/4wFYoFRNMyPuk7YbtENoz9) | [Joker](https://open.spotify.com/album/2VoCKMm05uZR0Rxu7Pk28P) | 3:28 | 2022-05-26 |  |
+| [Just say you will](https://open.spotify.com/track/5FugA5H8gVu9KKwGgueLK8) | [Ngyn](https://open.spotify.com/artist/0W03t1E2FUo9WAMBwhntuL), [Noah Rosen](https://open.spotify.com/artist/70WoazqQpqk0OaycqsPAmf), [Patiotic Records](https://open.spotify.com/artist/7nxdGB1ERSodMHz0rYUXkQ) | [Just say you will](https://open.spotify.com/album/6q8LsK08wZ9iNMNvL58qPZ) | 1:58 | 2022-09-09 |  |
 | [Knotty](https://open.spotify.com/track/11zBN5ADHArSCQgC2ZOfuS) | [\_91nova](https://open.spotify.com/artist/0fZYZqIGnT5RimC1YWfWP2) | [Knotty](https://open.spotify.com/album/0GrmnbP8s71b78UwIKL9AA) | 2:49 | 2022-09-02 |  |
 | [Laugh Away](https://open.spotify.com/track/5HnQ5gbXPjH524zeNn979c) | [Windows 96](https://open.spotify.com/artist/65XcfOOaVxbZnNlz40DK7i) | [Glass Prism](https://open.spotify.com/album/2LCpdfkxAhbDMLlQvb6NlA) | 2:51 | 2022-04-08 | 2022-05-27 |
 | [Laughing](https://open.spotify.com/track/1vGGQsLo0LgyAfDhpHkAku) | [Cushy](https://open.spotify.com/artist/6L1Baujfn33sG3PXou8n1q) | [Motivator](https://open.spotify.com/album/2N2zGpnTCrMqB8qdf5aPxS) | 2:30 | 2022-04-08 |  |
@@ -115,6 +118,7 @@
 | [Listen back](https://open.spotify.com/track/1YrN8UMgnz2mdpKrFI3zpB) | [North of Loreto](https://open.spotify.com/artist/6FZ6p42HnE0rs0GRRmXuLo) | [Nolorican \- EP](https://open.spotify.com/album/3RWMSj9wWjErXxG6TY0oEk) | 4:10 | 2022-07-08 |  |
 | [Lost in Your Eyes](https://open.spotify.com/track/2SExjlkc1rFEoIyENilPEO) | [Green Prize](https://open.spotify.com/artist/5U0BKGd2lBYbXI1v1EcFTB) | [Lost in Your Eyes](https://open.spotify.com/album/6FQV8U1sjjSpYp3RzTOEcv) | 2:48 | 2022-04-08 | 2022-05-27 |
 | [Love Is More Depressing Than Depression](https://open.spotify.com/track/6x2vJWVX5xaYvkISLVu7Kz) | [prxz](https://open.spotify.com/artist/40HzN0eLAMZk4nTHMk9sUA), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [Love Wounds](https://open.spotify.com/album/1h6VRZSqs4FANrEbUCraZc) | 2:13 | 2022-08-05 |  |
+| [M it Work](https://open.spotify.com/track/5p638kC9qKj6cB2HIZBAri) | [Push N' Glide](https://open.spotify.com/artist/6PSNxYsazdREPJeS9XnUjA) | [M it Work / Ya Habibi](https://open.spotify.com/album/0wlU5ZnbgwBypx9mMbtu5T) | 2:17 | 2022-09-09 |  |
 | [Mad Zach](https://open.spotify.com/track/3woe4qDqwttRfw1fSd5ZBk) | [Smartface](https://open.spotify.com/artist/77X9A9UiAgiPubyPr7bWym), [Toby Tranter](https://open.spotify.com/artist/6jQ21P9GEZfQf4aOMoTYDj) | [Push It](https://open.spotify.com/album/6pT0TyUeh21jmMHKuEzfCA) | 2:26 | 2022-04-08 |  |
 | [Main Stage](https://open.spotify.com/track/3FGPjaDyaVXSpubOPwFV0Q) | [\_91nova](https://open.spotify.com/artist/0fZYZqIGnT5RimC1YWfWP2) | [Fake Business](https://open.spotify.com/album/79VlsORhx2r88yW7TRmDWW) | 2:18 | 2022-04-08 | 2022-05-27 |
 | [Marked Up](https://open.spotify.com/track/7Co6bjlT6ZHgsl2fg3Xaih) | [Damma Beatz](https://open.spotify.com/artist/00WEbQMBzMtwbccrSjQwhJ) | [Tainted Colors](https://open.spotify.com/album/3U5MauOzORBRc3nNHFlqOa) | 2:36 | 2022-05-26 |  |
@@ -153,7 +157,7 @@
 | [Origi](https://open.spotify.com/track/5dSI31eBKPuuGx7AGCUpx4) | [Pink Oak](https://open.spotify.com/artist/18P0Pm5wkx4lfHBG0UnUrO) | [Origi](https://open.spotify.com/album/3z8uJOtd7lN9lQFH5R6TZ8) | 2:54 | 2022-05-26 |  |
 | [Our Special Place](https://open.spotify.com/track/3gIzOPfImZkZVOyAlE7bnh) | [Blissmo](https://open.spotify.com/artist/5Yfb88eP2CrvvhWpKEeFdg) | [Our Special Place](https://open.spotify.com/album/6TdtvBDJwglhXT1gySDhEF) | 2:42 | 2022-04-08 | 2022-05-27 |
 | [Out Of Nowhere](https://open.spotify.com/track/1X7SwXy7095XlufeAKwAfP) | [robomoque](https://open.spotify.com/artist/2ebmZztT6aXM00u6MEnD5v) | [Out Of Nowhere](https://open.spotify.com/album/2Xda4z1VMnhUT5EUa94m9q) | 2:01 | 2022-04-08 |  |
-| [painting 101](https://open.spotify.com/track/72GHamwYYMUNfLPrEuxrvN) | [d33p s3a discovery](https://open.spotify.com/artist/2FBIvMH247jNfSX50f9QSg) | [Why, Rose?](https://open.spotify.com/album/6i4SxcWjGiYJiuiWhFtd9u) | 2:45 | 2022-04-08 |  |
+| [painting 101](https://open.spotify.com/track/72GHamwYYMUNfLPrEuxrvN) | [d33p s3a discovery](https://open.spotify.com/artist/2FBIvMH247jNfSX50f9QSg) | [Why, Rose?](https://open.spotify.com/album/6i4SxcWjGiYJiuiWhFtd9u) | 2:45 | 2022-04-08 | 2022-09-09 |
 | [Pancakes](https://open.spotify.com/track/1xiAY4P9UPGWhBVVTFV2ik) | [farmor](https://open.spotify.com/artist/5UMEgh1ucXQntGjT7QAPU7) | [Groovy Particles](https://open.spotify.com/album/2yZ3fNQuYst5lSTcqkegtT) | 1:48 | 2022-04-08 | 2022-05-27 |
 | [Passenger](https://open.spotify.com/track/1M5Ib1CKTDV8OGEW02y9xS) | [DLJ](https://open.spotify.com/artist/3chQixmxhv9UmwQc8aBApA) | [After Life](https://open.spotify.com/album/6tAnYBib3ol7bjjqwI4d2u) | 2:36 | 2022-08-05 |  |
 | [Past Whispers](https://open.spotify.com/track/1ZDq473IO8WKprljZerOvB) | [Long Tapes](https://open.spotify.com/artist/5eB6joIKmG260vSyI72D4V) | [Past Whispers](https://open.spotify.com/album/3dpqERtxNB38eE18PM5ZQ8) | 3:06 | 2022-04-08 | 2022-05-27 |

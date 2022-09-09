@@ -1,12 +1,12 @@
 {
   "description": "because a little left of center is best. cover: grandma ",
-  "num_followers": 927796,
+  "num_followers": 927910,
   "original_name": "Lorem",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjQ5NzQ3MCwwMDAwMDAwMDZlYTVhZjU4MDI4ODQ5NWU2MDU0NGE1MmFmMjNjZmYz",
+  "snapshot_id": "MTY2MjU2NjY5MywwMDAwMDAwMGI0OGQ0NDI3NGE5OWE0ZWRmNzBhZDU4ZTVmZDNiNzVj",
   "tracks": [
     {
       "added_at": "2022-09-02 04:12:31",
@@ -87,6 +87,22 @@
       "duration_ms": 268374,
       "name": "All You Do",
       "url": "https://open.spotify.com/track/3TR91cx8KHmuT6w54Zv3TZ"
+    },
+    {
+      "added_at": "2022-09-07 16:04:53",
+      "album": {
+        "name": "Ivory",
+        "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "duration_ms": 216680,
+      "name": "Evergreen",
+      "url": "https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33"
     },
     {
       "added_at": "2022-08-24 19:01:53",
@@ -528,7 +544,7 @@
       "added_at": "2022-07-15 12:08:06",
       "album": {
         "name": "I Think I Left the Stove On",
-        "url": "https://open.spotify.com/album/6GmBP3c1JJx9ZOg2LMlIc5"
+        "url": "https://open.spotify.com/album/33QDA3HhsTPmeCwR5Mk9gx"
       },
       "artists": [
         {
@@ -538,7 +554,7 @@
       ],
       "duration_ms": 202490,
       "name": "I Think I Left the Stove On",
-      "url": "https://open.spotify.com/track/1XcQwxhNmgzGVW76JfBDPX"
+      "url": "https://open.spotify.com/track/34HgIvucTKJvDgzHVMaGLG"
     },
     {
       "added_at": "2022-05-27 04:00:00",
@@ -937,6 +953,22 @@
       "url": "https://open.spotify.com/track/2Fp2eFJSDMZCZ3Pc9OINmp"
     },
     {
+      "added_at": "2022-06-21 18:39:24",
+      "album": {
+        "name": "Janky Star",
+        "url": "https://open.spotify.com/album/0sZHIgeXLGWrYZasMrNKTl"
+      },
+      "artists": [
+        {
+          "name": "Grace Ives",
+          "url": "https://open.spotify.com/artist/4TZieE5978SbTInJswaay2"
+        }
+      ],
+      "duration_ms": 171306,
+      "name": "Shelly",
+      "url": "https://open.spotify.com/track/1zLP6doW59YcKrcjyP94uq"
+    },
+    {
       "added_at": "2022-08-05 04:00:00",
       "album": {
         "name": "Pigeons & Planes presents: See You Next Year",
@@ -1180,7 +1212,7 @@
       "added_at": "2022-07-29 04:00:00",
       "album": {
         "name": "Romantic Homicide",
-        "url": "https://open.spotify.com/album/2VOw1TVu3PduPt9LYd3eF2"
+        "url": "https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B"
       },
       "artists": [
         {
@@ -1190,7 +1222,7 @@
       ],
       "duration_ms": 132630,
       "name": "Romantic Homicide",
-      "url": "https://open.spotify.com/track/4jonEzO6nIIBt5xPGsyOA0"
+      "url": "https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL"
     },
     {
       "added_at": "2022-06-10 04:00:00",
@@ -1517,22 +1549,6 @@
       "url": "https://open.spotify.com/track/62sxl0QtvpRNGLK32QwwGS"
     },
     {
-      "added_at": "2022-06-21 18:39:24",
-      "album": {
-        "name": "Janky Star",
-        "url": "https://open.spotify.com/album/0sZHIgeXLGWrYZasMrNKTl"
-      },
-      "artists": [
-        {
-          "name": "Grace Ives",
-          "url": "https://open.spotify.com/artist/4TZieE5978SbTInJswaay2"
-        }
-      ],
-      "duration_ms": 171306,
-      "name": "Shelly",
-      "url": "https://open.spotify.com/track/1zLP6doW59YcKrcjyP94uq"
-    },
-    {
       "added_at": "2022-05-27 04:00:00",
       "album": {
         "name": "Forest in the City",
@@ -1547,22 +1563,6 @@
       "duration_ms": 151906,
       "name": "say im ur luv",
       "url": "https://open.spotify.com/track/0Bs3Lwzs8y9BzKUgvFXPUx"
-    },
-    {
-      "added_at": "2022-07-08 04:00:00",
-      "album": {
-        "name": "Apocalypse Love Song",
-        "url": "https://open.spotify.com/album/4xb97mzuYxZctEoVl7bhL3"
-      },
-      "artists": [
-        {
-          "name": "Bickle",
-          "url": "https://open.spotify.com/artist/1xFMeZFEf4ZUfuKwrfs5lB"
-        }
-      ],
-      "duration_ms": 155666,
-      "name": "Apocalypse Love Song",
-      "url": "https://open.spotify.com/track/5sisWMCOONgnbPJ5Q4MZq9"
     },
     {
       "added_at": "2022-07-01 04:00:00",

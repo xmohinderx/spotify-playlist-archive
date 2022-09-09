@@ -1,12 +1,12 @@
 {
   "description": "\ubc9a\uaf43\uc774 \ud769\ub0a0\ub9ac\uace0 \uc0c8\uc2f9\uc774 \ud53c\uc5b4\uc624\ub974\ub294 \ubd04\uc758 \uc124\ub808\uc784\uc744 \ub9cc\ub07d\ud558\uc138\uc694.",
-  "num_followers": 2849,
+  "num_followers": 2854,
   "original_name": "\ubd04\uac19\uc740 \uc124\ub808\uc784",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjM5MzQwOCwwMDAwMDAwMDFlYWZiNDczZDI3YjMwMzA3YWMxZjAyODBmNDVlNjM0",
+  "snapshot_id": "MTY2MjM5MzQwOCwwMDAwMDAwMDdlOWNiODdmZWNlNjExNDJhZTlhODllMTE3ZWNhMmI2",
   "tracks": [
     {
       "added_at": "2022-09-05 15:56:48",
@@ -79,6 +79,22 @@
     {
       "added_at": "2022-09-05 15:56:48",
       "album": {
+        "name": "Full Album RED PLANET",
+        "url": "https://open.spotify.com/album/5bA5ItGeDXS2XIt9axBSwL"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "duration_ms": 213853,
+      "name": "Galaxy \uc6b0\uc8fc\ub97c \uc904\uac8c",
+      "url": "https://open.spotify.com/track/15c7KZTrsCUxCQcOdUVELc"
+    },
+    {
+      "added_at": "2022-09-05 15:56:48",
+      "album": {
         "name": "Beyond Love",
         "url": "https://open.spotify.com/album/5Gp70tE4qrzx93UkoqP5QA"
       },
@@ -95,22 +111,6 @@
       "duration_ms": 188706,
       "name": "Beyond Love (Feat. 10CM)",
       "url": "https://open.spotify.com/track/0HsRZwZzHoZ5AM5W2ZYI5c"
-    },
-    {
-      "added_at": "2022-09-05 15:56:48",
-      "album": {
-        "name": "Full Album RED PLANET",
-        "url": "https://open.spotify.com/album/5bA5ItGeDXS2XIt9axBSwL"
-      },
-      "artists": [
-        {
-          "name": "BOL4",
-          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
-        }
-      ],
-      "duration_ms": 213853,
-      "name": "Galaxy \uc6b0\uc8fc\ub97c \uc904\uac8c",
-      "url": "https://open.spotify.com/track/15c7KZTrsCUxCQcOdUVELc"
     },
     {
       "added_at": "2022-09-05 15:56:48",
@@ -135,22 +135,18 @@
     {
       "added_at": "2022-09-05 15:56:48",
       "album": {
-        "name": "Like A Fool",
-        "url": "https://open.spotify.com/album/4wJPiw5ZoTJFRUt2r2zvCy"
+        "name": "HOLO",
+        "url": "https://open.spotify.com/album/5xq9sm0jGMMDu5LifpBBo1"
       },
       "artists": [
         {
-          "name": "NIve",
-          "url": "https://open.spotify.com/artist/1qOPo6b0U3t7BpyO8Ti1MF"
-        },
-        {
-          "name": "Sam Kim",
-          "url": "https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO"
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
         }
       ],
-      "duration_ms": 214426,
-      "name": "Like A Fool",
-      "url": "https://open.spotify.com/track/1E8Cztx0OIj4zm1IZh2XXj"
+      "duration_ms": 178520,
+      "name": "HOLO",
+      "url": "https://open.spotify.com/track/4BSluGpjdLQihMmKgHXMxp"
     },
     {
       "added_at": "2022-09-05 15:56:48",
@@ -187,34 +183,22 @@
     {
       "added_at": "2022-09-05 15:56:48",
       "album": {
-        "name": "HOLO",
-        "url": "https://open.spotify.com/album/5xq9sm0jGMMDu5LifpBBo1"
+        "name": "Like A Fool",
+        "url": "https://open.spotify.com/album/4wJPiw5ZoTJFRUt2r2zvCy"
       },
       "artists": [
         {
-          "name": "LeeHi",
-          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
-        }
-      ],
-      "duration_ms": 178520,
-      "name": "HOLO",
-      "url": "https://open.spotify.com/track/4BSluGpjdLQihMmKgHXMxp"
-    },
-    {
-      "added_at": "2022-09-05 15:56:48",
-      "album": {
-        "name": "Dear my X",
-        "url": "https://open.spotify.com/album/5BOrfMmeO7t7pDqhZNIhej"
-      },
-      "artists": [
+          "name": "NIve",
+          "url": "https://open.spotify.com/artist/1qOPo6b0U3t7BpyO8Ti1MF"
+        },
         {
-          "name": "KyoungSeo",
-          "url": "https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA"
+          "name": "Sam Kim",
+          "url": "https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO"
         }
       ],
-      "duration_ms": 187733,
-      "name": "Dear my X",
-      "url": "https://open.spotify.com/track/0UnOf7i44YK0ULpkEGHe4R"
+      "duration_ms": 214426,
+      "name": "Like A Fool",
+      "url": "https://open.spotify.com/track/1E8Cztx0OIj4zm1IZh2XXj"
     },
     {
       "added_at": "2022-09-05 15:56:48",
@@ -235,6 +219,22 @@
       "duration_ms": 248906,
       "name": "Walking In The Rain (feat. Younha)",
       "url": "https://open.spotify.com/track/3cJ520R7Pwav2xrQUHCcZo"
+    },
+    {
+      "added_at": "2022-09-05 15:56:48",
+      "album": {
+        "name": "Dear my X",
+        "url": "https://open.spotify.com/album/5BOrfMmeO7t7pDqhZNIhej"
+      },
+      "artists": [
+        {
+          "name": "KyoungSeo",
+          "url": "https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA"
+        }
+      ],
+      "duration_ms": 187733,
+      "name": "Dear my X",
+      "url": "https://open.spotify.com/track/0UnOf7i44YK0ULpkEGHe4R"
     },
     {
       "added_at": "2022-09-05 15:56:48",
@@ -831,6 +831,22 @@
     {
       "added_at": "2022-09-05 15:56:48",
       "album": {
+        "name": "AFTER THE LIGHT",
+        "url": "https://open.spotify.com/album/0o5EHrWY8OhObL2HwHNGpv"
+      },
+      "artists": [
+        {
+          "name": "Kang Butter",
+          "url": "https://open.spotify.com/artist/44YDdiwbvzPtVvKOA6uWS7"
+        }
+      ],
+      "duration_ms": 194453,
+      "name": "AFTER THE LIGHT",
+      "url": "https://open.spotify.com/track/7CAlzZZI89CpcNgw0rTIHh"
+    },
+    {
+      "added_at": "2022-09-05 15:56:48",
+      "album": {
         "name": "Marry ME (Welcome To Wedding Hell OST Part.1)",
         "url": "https://open.spotify.com/album/5qVymXLVFc2aJq3sUyhUO3"
       },
@@ -847,18 +863,18 @@
     {
       "added_at": "2022-09-05 15:56:48",
       "album": {
-        "name": "AFTER THE LIGHT",
-        "url": "https://open.spotify.com/album/0o5EHrWY8OhObL2HwHNGpv"
+        "name": "Racket Boys (Original Television Soundtrack) Pt. 5",
+        "url": "https://open.spotify.com/album/3LZCD80VWyUCWwJW9wuxLX"
       },
       "artists": [
         {
-          "name": "Kang Butter",
-          "url": "https://open.spotify.com/artist/44YDdiwbvzPtVvKOA6uWS7"
+          "name": "\ubc15\uc9c0\uc6d0",
+          "url": "https://open.spotify.com/artist/7sYsnmmEZ0vpNVoz9V7h3E"
         }
       ],
-      "duration_ms": 194453,
-      "name": "AFTER THE LIGHT",
-      "url": "https://open.spotify.com/track/7CAlzZZI89CpcNgw0rTIHh"
+      "duration_ms": 203386,
+      "name": "Cloud",
+      "url": "https://open.spotify.com/track/10WR5K1KXPTw0fkHoc7Iah"
     },
     {
       "added_at": "2022-09-05 15:56:48",
@@ -895,22 +911,6 @@
       "duration_ms": 207773,
       "name": "First Love Story",
       "url": "https://open.spotify.com/track/7yaFG7IYstppb3WrI7nMWY"
-    },
-    {
-      "added_at": "2022-09-05 15:56:48",
-      "album": {
-        "name": "Racket Boys (Original Television Soundtrack) Pt. 5",
-        "url": "https://open.spotify.com/album/3LZCD80VWyUCWwJW9wuxLX"
-      },
-      "artists": [
-        {
-          "name": "\ubc15\uc9c0\uc6d0",
-          "url": "https://open.spotify.com/artist/7sYsnmmEZ0vpNVoz9V7h3E"
-        }
-      ],
-      "duration_ms": 203386,
-      "name": "Cloud",
-      "url": "https://open.spotify.com/track/10WR5K1KXPTw0fkHoc7Iah"
     },
     {
       "added_at": "2022-09-05 15:56:48",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2022-09-05 15:56:48",
       "album": {
-        "name": "A daily adventurer",
-        "url": "https://open.spotify.com/album/4RbiWNvhyQFKjiC6d0bTRP"
-      },
-      "artists": [
-        {
-          "name": "Lee Jin Ah",
-          "url": "https://open.spotify.com/artist/4SzO3ea2qcjg1uLyNJAWnM"
-        }
-      ],
-      "duration_ms": 204053,
-      "name": "Where the Wind Rises",
-      "url": "https://open.spotify.com/track/6s6n1Rc2zy9LtSAPsvaEPM"
-    },
-    {
-      "added_at": "2022-09-05 15:56:48",
-      "album": {
         "name": "Fling at Convenience Store (Original Television Soundtrack) Pt. 2",
         "url": "https://open.spotify.com/album/0ftFFfhQ3SUJ2Hrj6gkbnU"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 223629,
       "name": "SOME",
       "url": "https://open.spotify.com/track/3SFoX1aJtEOt3b0GH5lRdc"
+    },
+    {
+      "added_at": "2022-09-05 15:56:48",
+      "album": {
+        "name": "A daily adventurer",
+        "url": "https://open.spotify.com/album/4RbiWNvhyQFKjiC6d0bTRP"
+      },
+      "artists": [
+        {
+          "name": "Lee Jin Ah",
+          "url": "https://open.spotify.com/artist/4SzO3ea2qcjg1uLyNJAWnM"
+        }
+      ],
+      "duration_ms": 204053,
+      "name": "Where the Wind Rises",
+      "url": "https://open.spotify.com/track/6s6n1Rc2zy9LtSAPsvaEPM"
     },
     {
       "added_at": "2022-09-05 15:56:48",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2022-09-05 15:56:48",
       "album": {
+        "name": "Heart in Motion",
+        "url": "https://open.spotify.com/album/4mFnHs0Q8PXVeibICq4w15"
+      },
+      "artists": [
+        {
+          "name": "The Green Tea",
+          "url": "https://open.spotify.com/artist/2YSSfMg2K75oTvfc63kGQB"
+        }
+      ],
+      "duration_ms": 247666,
+      "name": "Green Tea",
+      "url": "https://open.spotify.com/track/2Y7cOqDqsA2MpQ4HX4B8MD"
+    },
+    {
+      "added_at": "2022-09-05 15:56:48",
+      "album": {
         "name": "Paints (feat. 1ho)",
         "url": "https://open.spotify.com/album/5zPPNCnontFzam8kszcCIZ"
       },
@@ -1155,22 +1171,6 @@
       "duration_ms": 182315,
       "name": "Paints (feat. 1ho)",
       "url": "https://open.spotify.com/track/4OtqERJlgW34oCFGZVmkF7"
-    },
-    {
-      "added_at": "2022-09-05 15:56:48",
-      "album": {
-        "name": "Heart in Motion",
-        "url": "https://open.spotify.com/album/4mFnHs0Q8PXVeibICq4w15"
-      },
-      "artists": [
-        {
-          "name": "The Green Tea",
-          "url": "https://open.spotify.com/artist/2YSSfMg2K75oTvfc63kGQB"
-        }
-      ],
-      "duration_ms": 247666,
-      "name": "Green Tea",
-      "url": "https://open.spotify.com/track/2Y7cOqDqsA2MpQ4HX4B8MD"
     },
     {
       "added_at": "2022-09-05 15:56:48",
@@ -1295,18 +1295,18 @@
     {
       "added_at": "2022-09-05 15:56:48",
       "album": {
-        "name": "Afterimage Project Pt.1 'Oasis' - Oasis (go with me)",
-        "url": "https://open.spotify.com/album/3eRrOAD9HZDivVY1n9dIKQ"
+        "name": "Asteroid",
+        "url": "https://open.spotify.com/album/5geu7QO5MtvQHbN8ohLjNj"
       },
       "artists": [
         {
-          "name": "Kim Kyu Jong",
-          "url": "https://open.spotify.com/artist/3WMXYNpeC5Z5POJdES9VDp"
+          "name": "Lee MinHyuk",
+          "url": "https://open.spotify.com/artist/2KbxyNY5Dt6CJ6FBLcWfkH"
         }
       ],
-      "duration_ms": 189277,
-      "name": "Afterimage Project Pt.1 'Oasis' - Oasis (go with me)",
-      "url": "https://open.spotify.com/track/43jpdMVpf2TK08VNfBobHg"
+      "duration_ms": 239880,
+      "name": "The Season Of You",
+      "url": "https://open.spotify.com/track/1Lb7mJc6hxkCEiFnKGWoKG"
     }
   ],
   "unique_name": "\ubd04\uac19\uc740 \uc124\ub808\uc784",

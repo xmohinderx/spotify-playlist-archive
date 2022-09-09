@@ -4,7 +4,7 @@
 
 > Hip\-Hop's next generation takes over SXSW! Cover: <a href="spotify:artist:3Gm5F95VdRxW3mqCn8RPBJ">Aminè</a>.
 
-32 songs - 1 hr 46 min - [published](https://open.spotify.com/playlist/72UNrENEEBF6ughBYsTycT)
+33 songs - 1 hr 50 min - [published](https://open.spotify.com/playlist/72UNrENEEBF6ughBYsTycT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,8 @@
 | [Bouncin'](https://open.spotify.com/track/2dAvcYkyqCzmJNCjhF9SlZ) | [Nick Grant](https://open.spotify.com/artist/2QOP6zKx1d0gGEtuuXOvJ3) | [Return of the Cool](https://open.spotify.com/album/3J55Ez08LgsIp78X8lOLdZ) | 2:53 | 2017-02-27 |  |
 | [Crew \(feat\. Brent Faiyaz & Shy Glizzy\)](https://open.spotify.com/track/15EPc80XuFrb2LmOzGjuRg) | [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG), [Shy Glizzy](https://open.spotify.com/artist/1DvtabXAjfrMihPP6JQdHs) | [At What Cost](https://open.spotify.com/album/18JrBX1QkpnUSJF3oxX6RX) | 2:56 | 2022-07-29 |  |
 | [Crew \(feat\. Brent Faiyaz & Shy Glizzy\)](https://open.spotify.com/track/3jEtESxn2ngF25DMD6vbBg) | [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG), [Shy Glizzy](https://open.spotify.com/artist/1DvtabXAjfrMihPP6JQdHs) | [Crew \(feat\. Brent Faiyaz & Shy Glizzy\)](https://open.spotify.com/album/4Ysy1MEXCD5HjO0VBDfBgj) | 2:57 | 2017-02-27 | 2022-07-29 |
-| [Diddy Bop \(feat\. Cam O'bi & Raury\)](https://open.spotify.com/track/6JvfBzqZmSiEG5MjM7OcSY) | [Noname](https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy), [Cam O'bi](https://open.spotify.com/artist/4jqFe1fd5uul2XSSxsRvbZ), [Raury](https://open.spotify.com/artist/2PU4qFehXQF7WnlFsJpBiJ) | [Telefone](https://open.spotify.com/album/18Scpsg5OV1iYNtSaCsjwz) | 3:28 | 2017-02-27 |  |
+| [Diddy Bop](https://open.spotify.com/track/3M0XJE3zuyOKksK7wIOxNN) | [Noname](https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy), [Raury](https://open.spotify.com/artist/2PU4qFehXQF7WnlFsJpBiJ), [Cam O'bi](https://open.spotify.com/artist/4jqFe1fd5uul2XSSxsRvbZ) | [telefone](https://open.spotify.com/album/3WQSmz0juSSmEmzXpv9l6M) | 3:28 | 2022-09-09 |  |
+| [Diddy Bop \(feat\. Cam O'bi & Raury\)](https://open.spotify.com/track/6JvfBzqZmSiEG5MjM7OcSY) | [Noname](https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy), [Cam O'bi](https://open.spotify.com/artist/4jqFe1fd5uul2XSSxsRvbZ), [Raury](https://open.spotify.com/artist/2PU4qFehXQF7WnlFsJpBiJ) | [Telefone](https://open.spotify.com/album/18Scpsg5OV1iYNtSaCsjwz) | 3:28 | 2017-02-27 | 2022-09-09 |
 | [Dirty Taurus](https://open.spotify.com/track/1mXnMM0ZW8xv0TOHSyM0MH) | [Ant Beale](https://open.spotify.com/artist/14piOhWdd0MbAPVmUqGLhH), [Charlie Heat](https://open.spotify.com/artist/0bbguzUos4LO6NikkdXdzw) | [No Rain No Flowers](https://open.spotify.com/album/0Ph5bjjYkVRIGlZpLDhYpw) | 3:13 | 2022-07-29 |  |
 | [Dirty Taurus](https://open.spotify.com/track/5HvvNQEd62bveJqT1raHbw) | [Charlie Heat & Ant Beale](https://open.spotify.com/artist/4pKfsREfxKSfQQBSs4mZfk) | [No Rain No Flowers](https://open.spotify.com/album/2KQu5msu6KXKMdZRhYD9Rh) | 3:13 | 2017-02-27 | 2022-07-29 |
 | [Don't Knock on My Door](https://open.spotify.com/track/0CaY5hpcqHCQgOZI0Vpv5O) | [Tdot illdude](https://open.spotify.com/artist/4gcBXAL1iwHPIrf1LdVsKg) | [The Vibe Is Heavy 2](https://open.spotify.com/album/2aQjvAzM4IB2Ko5oLrXdCz) | 3:36 | 2022-07-29 |  |

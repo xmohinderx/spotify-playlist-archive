@@ -4,7 +4,7 @@
 
 > All of your favorite Disney hits, including songs from Moana\. Stream Moana on Disney+.
 
-128 songs - 6 hr 23 min - [published](https://open.spotify.com/playlist/636MTeCEICQctVDwXtEgUe)
+129 songs - 6 hr 25 min - [published](https://open.spotify.com/playlist/636MTeCEICQctVDwXtEgUe)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,6 +126,7 @@
 | [When We're Human \- From "The Princess and the Frog"/Soundtrack Version](https://open.spotify.com/track/2g2kJZcu1cFTw4aKE7w9Iq) | [Michael\-Leon Wooley](https://open.spotify.com/artist/6W6iYN5Sz5DbA8CgLWBeoU), [Bruno Campos](https://open.spotify.com/artist/3VaV2rGbTKuqCiluNkToEd), [Anika Noni Rose](https://open.spotify.com/artist/4fqk0Vw0VrIY8O2eWtmQO2), [Terence Blanchard](https://open.spotify.com/artist/7IbO8NvxclKsk7WTOZ42bv) | [Disney Summer Songs](https://open.spotify.com/album/6qykGE5x584duyLVYcnojE) | 2:22 | 2022-07-22 |  |
 | [When Will My Life Begin? \- From "Tangled" / Soundtrack Version](https://open.spotify.com/track/03xWMkKEbeO4SnylA53ipj) | [Mandy Moore](https://open.spotify.com/artist/2LJxr7Pt3JnP60eLxwbDOu) | [Tangled](https://open.spotify.com/album/1l0aFrH24oPrQSqGtfeFyE) | 2:32 | 2022-04-01 |  |
 | [When You Wish Upon a Star](https://open.spotify.com/track/1WrPa4lrIddctGWAIYYfP9) | [Cliff Edwards](https://open.spotify.com/artist/0aeRagbqQCOKkVURrvcMrn), [Disney Studio Chorus](https://open.spotify.com/artist/0uxCcs6uoQy6StkrWS1QjW) | [Pinocchio](https://open.spotify.com/album/5zsAzctyWGNrchLWXFvKgz) | 3:15 | 2022-04-01 |  |
+| [When You Wish Upon A Star](https://open.spotify.com/track/1fb6MBRagJq42pzMMFYhHf) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Pinocchio \(Original Soundtrack\)](https://open.spotify.com/album/6SUPM4fZiV55quCRQKOtYL) | 1:57 | 2022-09-08 |  |
 | [Where You Are](https://open.spotify.com/track/2bwSCIuNtVrQPVddCi8sOW) | [Christopher Jackson](https://open.spotify.com/artist/6sLwRSXSUF5JTUnQaFenyj), [Rachel House](https://open.spotify.com/artist/1kB7GlXzdNWl28zLcOkQqU), [Nicole Scherzinger](https://open.spotify.com/artist/40xbWSB4JPdOkRyuTDy1oP), [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe), [Louise Bush](https://open.spotify.com/artist/6pItJ6ijL7bMCneuwqRreN) | [Moana \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/6pZj4nvx6lV3ulIK3BSjvs) | 3:30 | 2022-04-01 |  |
 | [You Never Know](https://open.spotify.com/track/01tNpXoTjrqvb1zhG6wmop) | [Cast of High School Musical: The Musical: The Series](https://open.spotify.com/artist/1YWJ1WjMkBCB1X3QOJ1Wdn), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [High School Musical: The Musical: The Series Season 3 \(Episode 2\) \[From "High School Musical: The Musical: The Series \(Season 3\)"\]](https://open.spotify.com/album/1XlNDgxQd2Tsqu6pK0iNkd) | 3:16 | 2022-08-09 |  |
 | [You'll Be In My Heart](https://open.spotify.com/track/6LBfozDVA7crIeuaPAVVlE) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [Tarzan Original Soundtrack](https://open.spotify.com/album/6fBzYwBKjuO4hmhcGuklJM) | 4:18 | 2022-04-01 | 2022-07-29 |

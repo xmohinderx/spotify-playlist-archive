@@ -2,7 +2,7 @@
 
 ### [Jazz Guitar Classics](https://open.spotify.com/playlist/37i9dQZF1DWV8SP2WsR9MK)
 
-> The classic jazz guitarists and their finest pieces\. Cover: Grant Green
+> The classic Jazz guitarists and their finest pieces\. Cover: Grant Green
 
 122 songs - 11 hr 2 min - [published](https://open.spotify.com/playlist/7w8GJPrdmj1YWELU4DdBN4)
 

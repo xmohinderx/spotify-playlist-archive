@@ -4,7 +4,7 @@
 
 > 2022 全新陣容出列！鎖定華語樂壇的最強新聲代！大推潛力無限的亞洲聲勢力！Cover: 吳霏 x 艾薇 \(FEI x Ivy\)
 
-204 songs - 12 hr 7 min - [published](https://open.spotify.com/playlist/4F7NjOso9HiGHjthWcrZL4)
+206 songs - 12 hr 14 min - [published](https://open.spotify.com/playlist/4F7NjOso9HiGHjthWcrZL4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Self Love](https://open.spotify.com/track/6txQK5I4ufgpnNbbqRSFvp) | [壞特 ?te](https://open.spotify.com/artist/7DZtdN4x13Amjw87cjdffb) | [Self Love](https://open.spotify.com/album/0M4mszH8MfUGHxi90o3ui4) | 3:30 | 2022-09-01 |  |
 | [Soggy](https://open.spotify.com/track/1xX6bPNSdjpHiJTDRt2rOy) | [翁靖堯yao](https://open.spotify.com/artist/6i8TiylkUFKqXajJM69a7N) | [Soggy](https://open.spotify.com/album/196bfmnRG1paG7aplcJoWj) | 3:12 | 2022-03-24 | 2022-07-22 |
 | [Soufflé](https://open.spotify.com/track/6m7h2pLpDVSGFFFfFBS2VL) | [許光漢](https://open.spotify.com/artist/3hhUgkTf3fFYGogFMbV5Wv) | [許光漢](https://open.spotify.com/album/3w2vtxAWKHXvLRIaS5LITp) | 3:10 | 2022-01-13 |  |
+| [St\. Lover](https://open.spotify.com/track/6kNiAOXTGBTjL1ITsWWUio) | [宋柏緯](https://open.spotify.com/artist/1LWJ9mrDCPd3HB2Kp1RDXK), [林映唯](https://open.spotify.com/artist/0vEN77zurrawTwPgocgd91) | [St\. Lover](https://open.spotify.com/album/6tgMOMo9ZXYCrBIVYgfyem) | 3:37 | 2022-09-08 |  |
 | [Stay](https://open.spotify.com/track/58xBxGyRUuoRIaKUsjmKoh) | [Jinbo](https://open.spotify.com/artist/2QlEDg87oaNdcAA1O7dIIC) | [UU&U](https://open.spotify.com/album/78XT5si8Zp3XhRQEiPZ1pr) | 3:26 | 2022-06-23 | 2022-07-29 |
 | [Strawberry](https://open.spotify.com/track/6G7o4jAd4EYFH0GDviT4lj) | [KIRE](https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL) | [Strawberry](https://open.spotify.com/album/6Svok47SrVCMuGxIeV0m3M) | 2:33 | 2022-02-17 | 2022-04-22 |
 | [Summer Never Ends](https://open.spotify.com/track/2dAxwnQnBkfNyrn1SARaHO) | [Jinbo](https://open.spotify.com/artist/2QlEDg87oaNdcAA1O7dIIC), [艾許 Ashlee](https://open.spotify.com/artist/4rhlroA2XvbvSImYnLI20k), [CED](https://open.spotify.com/artist/3M1YtHr7K9yHjawwbJ2DgC) | [This Summer Is Still Fucked Up](https://open.spotify.com/album/0f3OU3cXEuOWdGYE7NMhn9) | 3:16 | 2022-07-28 | 2022-08-19 |
@@ -106,7 +107,7 @@
 | [厭世小姐](https://open.spotify.com/track/5GhKeEV32VP2P3b8ynR3pX) | [OHMYMEITING](https://open.spotify.com/artist/5ejbZdon0riCxa7GyJNEAx) | [厭世小姐](https://open.spotify.com/album/2u00VWRSdVfCFhzFtK09VH) | 3:23 | 2022-01-13 | 2022-03-25 |
 | [句号想念问号](https://open.spotify.com/track/7ka7lf2RSsKpBncHGrxE3A) | [Soph T.](https://open.spotify.com/artist/2lP0iXobpSDobEhi2eI4eP) | [句号想念问号](https://open.spotify.com/album/37RjBAZMoEQAnmbOC3BRJF) | 2:59 | 2022-03-24 | 2022-07-01 |
 | [各就各位!預備!](https://open.spotify.com/track/26GJ3VhzsYhhdKB7E2Q7F5) | [吳霏](https://open.spotify.com/artist/2q5HrJWKwU4iHaTTSKGZC4) | [各就各位!預備!](https://open.spotify.com/album/5V1WgnpWAL3wYsNqwXCAcP) | 3:22 | 2022-03-24 | 2022-06-10 |
-| [唯一的你 \- 韓劇《現正分手中》中文主題曲](https://open.spotify.com/track/2UNcAbLy25IMUjj0cq3Xud) | [張若凡](https://open.spotify.com/artist/3vt8C5pqh2fk4KaXpfSvxk) | [唯一的你 \(韓劇《現正分手中》中文主題曲\)](https://open.spotify.com/album/5npbPfK0TGruvqhq5la8WF) | 4:03 | 2022-01-13 |  |
+| [唯一的你 \- 韓劇《現正分手中》中文主題曲](https://open.spotify.com/track/2UNcAbLy25IMUjj0cq3Xud) | [張若凡](https://open.spotify.com/artist/3vt8C5pqh2fk4KaXpfSvxk) | [唯一的你 \(韓劇《現正分手中》中文主題曲\)](https://open.spotify.com/album/5npbPfK0TGruvqhq5la8WF) | 4:03 | 2022-01-13 | 2022-09-09 |
 | [唱一個Hook](https://open.spotify.com/track/5clGcT1WPdWHHRnfteNNSW) | [Asiaboy 禁藥王 ＆ Lizi 栗子](https://open.spotify.com/artist/460u7AKt1ZvsPMB0zoXuAQ), [金魚腦](https://open.spotify.com/artist/1M9Pf9EsdqiNoTHiaaD1rF) | [新聲宿營第一季](https://open.spotify.com/album/6uwT7SdJhtMi8Vdhx0zKuz) | 2:06 | 2022-07-21 |  |
 | [國王](https://open.spotify.com/track/4xKIzpn8Q2cRDU6UVq8FTn) | [莫宰羊](https://open.spotify.com/artist/2yN7qnZbV8krGJEB16nUOe), [Asiaboy 禁藥王 ＆ Lizi 栗子](https://open.spotify.com/artist/460u7AKt1ZvsPMB0zoXuAQ), [Gambler](https://open.spotify.com/artist/1ZAYRafIkXuUA2YCMkxYbX) | [國王](https://open.spotify.com/album/1Wdon67ZOKTW7bAhQSNW2T) | 3:25 | 2021-12-30 | 2022-09-02 |
 | [在打在](https://open.spotify.com/track/3Kl6J9XdFk0nWnHIaevtjw) | [Asiaboy 禁藥王 ＆ Lizi 栗子](https://open.spotify.com/artist/460u7AKt1ZvsPMB0zoXuAQ) | [鋯石](https://open.spotify.com/album/2smL9jDi65yQmWPeKMaXaY) | 2:20 | 2021-12-30 | 2022-04-22 |
@@ -150,7 +151,7 @@
 | [挨你一枪](https://open.spotify.com/track/2pYc1VfhWKv1vzOgrJEdgS) | [NEKO Highway](https://open.spotify.com/artist/2qO2tbo4OI29yMSM3WJ0bX) | [挨你一枪](https://open.spotify.com/album/7jwuZcuW6pK95pUTa06gxi) | 3:51 | 2022-02-03 | 2022-04-08 |
 | [揣摩](https://open.spotify.com/track/2iVgPTx2uGBwHzre52clg3) | [許光漢](https://open.spotify.com/artist/3hhUgkTf3fFYGogFMbV5Wv) | [許光漢](https://open.spotify.com/album/3w2vtxAWKHXvLRIaS5LITp) | 3:51 | 2022-01-20 |  |
 | [時間](https://open.spotify.com/track/1tFVSjwr5MNVvvb9W1Yk0u) | [KUNG 龔敬文](https://open.spotify.com/artist/568gCUXvFfGIyVUQ2SZa3R) | [甲洨斯丁](https://open.spotify.com/album/0JPLuTkTSLHLqIzyPSGFeK) | 3:20 | 2022-08-11 | 2022-08-26 |
-| [景美](https://open.spotify.com/track/1jSX6c7mL2hcJVPWuNpUwL) | [宋柏緯](https://open.spotify.com/artist/1LWJ9mrDCPd3HB2Kp1RDXK) | [景美](https://open.spotify.com/album/41lFXP12zmvOQy6ziL2uPj) | 3:35 | 2022-05-12 |  |
+| [景美](https://open.spotify.com/track/1jSX6c7mL2hcJVPWuNpUwL) | [宋柏緯](https://open.spotify.com/artist/1LWJ9mrDCPd3HB2Kp1RDXK) | [景美](https://open.spotify.com/album/41lFXP12zmvOQy6ziL2uPj) | 3:35 | 2022-05-12 | 2022-09-09 |
 | [最美的風景 \(feat\. 莫宰羊\)](https://open.spotify.com/track/3LkITiONSVW8eWhruHhiDJ) | [Marz23](https://open.spotify.com/artist/4XBG26mgvzGqT09eopG4d9), [莫宰羊](https://open.spotify.com/artist/2yN7qnZbV8krGJEB16nUOe) | [最美的風景 \(feat\. 莫宰羊\)](https://open.spotify.com/album/0oM9cYr2l14guScjTsMIKX) | 3:17 | 2022-02-17 | 2022-04-15 |
 | [有些](https://open.spotify.com/track/3V2v19gDm4rmRkMwcgS4X2) | [颜人中](https://open.spotify.com/artist/5PNcqs6EtD6gSXgUiiJIUU) | [失眠症候群](https://open.spotify.com/album/1XD00QTaV6BAcPdsmGzyyN) | 3:49 | 2022-01-06 | 2022-03-11 |
 | [朋友 \(feat\. 壞特 ?te\)](https://open.spotify.com/track/3cfBqHxoVxSx65sNZwazzx) | [李浩瑋 Howard Lee](https://open.spotify.com/artist/7EkkWNWPiWFQ0rA9IEmMXs), [壞特 ?te](https://open.spotify.com/artist/7DZtdN4x13Amjw87cjdffb) | [朋友 \(feat\. 壞特 ?te\)](https://open.spotify.com/album/79rppoueEhSnEycOTfmKmg) | 3:09 | 2022-06-23 |  |
@@ -166,7 +167,7 @@
 | [演算法](https://open.spotify.com/track/7as27DSfspb7LHRWAp1Vz0) | [KUNG 龔敬文](https://open.spotify.com/artist/568gCUXvFfGIyVUQ2SZa3R) | [演算法](https://open.spotify.com/album/5Hw44nHiOlLRueHKgnp74i) | 4:19 | 2022-06-16 | 2022-07-01 |
 | [為什麼只留下我一個](https://open.spotify.com/track/0PfB9QJ3T9uCGfkt0ml5TR) | [劉學甫](https://open.spotify.com/artist/4fQhjXVVGKPG7K1SYFWjpH), [Vicky Chen](https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ) | [為什麼只留下我一個](https://open.spotify.com/album/0TzPiD0Z6JOcwbDY6vzuKL) | 3:46 | 2022-04-28 |  |
 | [為誰美麗 \(電視劇《小娘惹》片頭曲\)](https://open.spotify.com/track/2LkfGqX8noAbYSNJRrh4qb) | [Young](https://open.spotify.com/artist/7tuUo4Kby0sTXYcctxdlYa) | [為誰美麗 \(電視劇《小娘惹》片頭曲\)](https://open.spotify.com/album/2FMnoESoZ9w02fhGGe1z5N) | 4:38 | 2021-12-30 | 2022-01-21 |
-| [烏雲日記](https://open.spotify.com/track/2uMmfO7yMmi5yBH09pu8Hr) | [艾薇](https://open.spotify.com/artist/0RaC2hXyniYsju0mCSNz90) | [烏雲日記](https://open.spotify.com/album/7b7ppZfnyTff8gifjYdtxB) | 4:11 | 2022-03-10 | 2022-03-25 |
+| [烏雲日記](https://open.spotify.com/track/2uMmfO7yMmi5yBH09pu8Hr) | [艾薇](https://open.spotify.com/artist/0RaC2hXyniYsju0mCSNz90) | [烏雲日記](https://open.spotify.com/album/7b7ppZfnyTff8gifjYdtxB) | 4:11 | 2022-03-10 |  |
 | [热带雨 \- 《热带雨》电影同名主题曲](https://open.spotify.com/track/7JrUmfeLQTT4zO0KAqnBIe) | [NEKO Highway](https://open.spotify.com/artist/2qO2tbo4OI29yMSM3WJ0bX) | [热带雨 \(《热带雨》电影同名主题曲\)](https://open.spotify.com/album/6JHeFZxMEsEbnTAqK8cK2O) | 4:06 | 2022-04-07 |  |
 | [無名花 \- 《黑喵知情》片尾曲](https://open.spotify.com/track/6UrTNSVvlIWlaPRMHtQPDZ) | [Kelly Cheng](https://open.spotify.com/artist/1z3k20gEtPm6SKPGPvokDg) | [幸福藏在哪裡](https://open.spotify.com/album/42hG3NcL7q3E451ij9KTnZ) | 3:58 | 2022-01-13 | 2022-03-25 |
 | [無所謂](https://open.spotify.com/track/1dPtFcK3m7dTtIBe3AwurO) | [Jocelyn 9.4.0](https://open.spotify.com/artist/4xu7XEr8It4loGPeZnJcqZ) | [無所謂](https://open.spotify.com/album/5WXptJIuAu3IJ5RuOHRtxQ) | 2:52 | 2022-03-24 | 2022-08-12 |
@@ -207,6 +208,7 @@
 | [陪你失敗 \(feat\. 寺二\)](https://open.spotify.com/track/53EYK5DubMOz2x71TZERPl) | [Marz23](https://open.spotify.com/artist/4XBG26mgvzGqT09eopG4d9), [寺二](https://open.spotify.com/artist/1EMVtU2X6lNkNNfALzCEuT) | [23](https://open.spotify.com/album/1i9NZgKrjl9gQVIczUEJYh) | 5:06 | 2021-12-30 | 2022-07-08 |
 | [雲的距離 \(feat\. Osean\)](https://open.spotify.com/track/6645VYAAcaBWlVYUmiUVQm) | [宋柏緯](https://open.spotify.com/artist/1LWJ9mrDCPd3HB2Kp1RDXK), [Osean](https://open.spotify.com/artist/5bZ0x0ViEXpiJhnTHeLXhc) | [雲的距離 \(feat\. Osean\)](https://open.spotify.com/album/3JPaeWx9N0Y03cFX1KEJSc) | 3:17 | 2021-12-30 | 2022-01-28 |
 | [零米距離](https://open.spotify.com/track/4s5Zo94S9qBeiUcXHF91fp) | [Soph T.](https://open.spotify.com/artist/2lP0iXobpSDobEhi2eI4eP) | [零米距離](https://open.spotify.com/album/5JXMpRfrSoOyaWd7fAhGM1) | 2:44 | 2022-03-24 | 2022-07-29 |
+| [非必要的美好小事 \- 三立電視《門當互懟愛上你》片頭曲](https://open.spotify.com/track/4CCO81TxHw1TfG1VHiDGyl) | [張若凡](https://open.spotify.com/artist/3vt8C5pqh2fk4KaXpfSvxk) | [非必要的美好小事 \(三立電視《門當互懟愛上你》片頭曲\)](https://open.spotify.com/album/61QQr0DbDRo9Kx5giz78kH) | 3:12 | 2022-09-08 |  |
 | [非派對 \(feat\. Soph T.\)](https://open.spotify.com/track/5wnOvmlhj6zAwrXx52QgUy) | [Tingzhi.Hz](https://open.spotify.com/artist/5bRgm42udQG0UHbfIA83bW), [Soph T.](https://open.spotify.com/artist/2lP0iXobpSDobEhi2eI4eP) | [非派對 \(feat\. Soph T.\)](https://open.spotify.com/album/43hEAcR4hl4Qc74qAOASLy) | 3:28 | 2022-04-28 | 2022-06-24 |
 | [馬兒](https://open.spotify.com/track/1tfxHCZ0Z98B3Zx577OJjH) | [KUNG 龔敬文](https://open.spotify.com/artist/568gCUXvFfGIyVUQ2SZa3R) | [馬兒](https://open.spotify.com/album/3uNDVAO1Yxr1ig7pRd9JDY) | 3:15 | 2022-06-30 | 2022-08-26 |
 | [鯨魚](https://open.spotify.com/track/2l2ELmXAsLPYdDaqv86inS) | [G5SH](https://open.spotify.com/artist/0FQHLgDeg1QZGzkyRxAPRd) | [鯨魚](https://open.spotify.com/album/02GXdT6dk5VTw7BmenxVgh) | 4:01 | 2021-12-30 | 2022-02-11 |

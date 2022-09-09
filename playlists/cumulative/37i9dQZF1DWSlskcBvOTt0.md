@@ -4,7 +4,7 @@
 
 > Hypnotic melodic <a href="spotify:genre:house">house</a> and <a href="spotify:genre:techno">techno</a> to light up the night.
 
-298 songs - 1 day 7 hr 15 min - [published](https://open.spotify.com/playlist/66u9yFnXK0KKC58c1Sivy2)
+299 songs - 1 day 7 hr 20 min - [published](https://open.spotify.com/playlist/66u9yFnXK0KKC58c1Sivy2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,7 @@
 | [FreedHome](https://open.spotify.com/track/0eV4BpgwGCcU8DmlxdJry9) | [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq) | [FreedHome](https://open.spotify.com/album/24YDwbvmkuNqFPPdnuw1fB) | 5:30 | 2022-07-01 | 2022-08-17 |
 | [Gaia \- Radio Edit](https://open.spotify.com/track/4ZbY3tViWurTa5JmaitOxX) | [Yamil](https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS) | [Gaia](https://open.spotify.com/album/5JRX3f42FwJdGRawM04Vsp) | 4:05 | 2021-04-21 | 2022-07-29 |
 | [Gardens of Elah](https://open.spotify.com/track/1AhOzFuESPwEMoVgo9RKnv) | [Noble Spirits](https://open.spotify.com/artist/6ScxqV1G1ZolFFGlglOyKx) | [Gardens of Elah](https://open.spotify.com/album/0yGk1LE9IV1r2GtjZeDvLl) | 6:42 | 2021-05-07 | 2022-07-25 |
-| [Gargamel](https://open.spotify.com/track/1rCvDRlcOjhqBI8T7s1mpY) | [Super Flu](https://open.spotify.com/artist/1iZiG82D4w7FLHvOUUj4zW) | [Gargamel](https://open.spotify.com/album/3uNQeODzFPkzROw6gNiTFB) | 6:16 | 2022-07-18 |  |
+| [Gargamel](https://open.spotify.com/track/1rCvDRlcOjhqBI8T7s1mpY) | [Super Flu](https://open.spotify.com/artist/1iZiG82D4w7FLHvOUUj4zW) | [Gargamel](https://open.spotify.com/album/3uNQeODzFPkzROw6gNiTFB) | 6:16 | 2022-07-18 | 2022-09-09 |
 | [Gather \- Edit](https://open.spotify.com/track/71rbXzLu3OUC0jlwTZuqPO) | [Durante](https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh), [Amtrac](https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J) | [Gather](https://open.spotify.com/album/2MsjLl6RbKQWLWqN2zLaDA) | 4:31 | 2021-06-04 | 2022-07-29 |
 | [Georgians](https://open.spotify.com/track/6XOcs06duhRLTz6wBBS6M2) | [Holy Moly](https://open.spotify.com/artist/4TglMZiWpNknCUIEQwBeRY) | [Opium / Georgians](https://open.spotify.com/album/6o2QmP04450WY8AQXfrgOF) | 5:05 | 2021-04-21 | 2022-07-29 |
 | [Give Back](https://open.spotify.com/track/4KNpbJUv1KQPODbcm5iy51) | [Artüria](https://open.spotify.com/artist/05wXpcU2A7ZeTjj0LLoQXs), [Solanca](https://open.spotify.com/artist/0vzOfcck1SjuV7qVfBfXTM) | [Ways of Walking EP](https://open.spotify.com/album/4vdGHJExAj5bTrvbTNz6CD) | 6:33 | 2021-08-27 | 2022-07-28 |
@@ -128,6 +128,7 @@
 | [Impossible \- &ME Remix](https://open.spotify.com/track/0TVcPTk3MMkT6WqkuatPSr) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH), [Alison Goldfrapp](https://open.spotify.com/artist/72f5AR6hMeL3BwtcO7HqhS), [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z) | [Impossible \(&ME Remix\)](https://open.spotify.com/album/4HmgIUcdgMfWDJYQdxhy6o) | 9:15 | 2022-07-08 |  |
 | [In Mindibu](https://open.spotify.com/track/7G82RELqYiB0EZ8F61Ht8T) | [Stavroz](https://open.spotify.com/artist/7su1fG75ZwXHA6ei9Zcy7T) | [In Mindibu](https://open.spotify.com/album/6aZBtDTIcjiD50dTKWoDES) | 5:08 | 2022-04-22 |  |
 | [In My World](https://open.spotify.com/track/5CKeCLEvPDNIgHNZKgMpDj) | [Atmos Blaq](https://open.spotify.com/artist/1cwvUNi7IRMN3zisgyKTzM) | [In My World](https://open.spotify.com/album/33RMb5j36RJuGADKD6OWta) | 8:01 | 2021-07-30 | 2022-04-21 |
+| [Inhibitions \- Edit](https://open.spotify.com/track/5ugyEMUjFOX7FS2Ao1Vyak) | [Nox Vahn](https://open.spotify.com/artist/2bqGPuC8kDCTLWieGOyWxu), [Joseph Ray](https://open.spotify.com/artist/4O2IFXgH0FqMSHU4pzpqQX) | [Inhibitions](https://open.spotify.com/album/4WAK9ZcEKEJVI5zXXSQBwn) | 4:36 | 2022-09-02 |  |
 | [Inkinga](https://open.spotify.com/track/7Cxb4S3x3NQTszNYPMoTAw) | [Kususa](https://open.spotify.com/artist/4UcrwfAI09CLZ7aBXMiucJ) | [Overtone](https://open.spotify.com/album/64lUQw9YO9oTYDe4cmRB1m) | 3:56 | 2021-05-07 | 2022-07-04 |
 | [Inner Self](https://open.spotify.com/track/4nDWcmDZu39ycWLYvIpaaP) | [Carlo Whale](https://open.spotify.com/artist/42J0pSvJGXvErpfYL1Nodj) | [Broken Ep](https://open.spotify.com/album/2ouzgPQYohSjyHsLkaVBaj) | 6:57 | 2021-12-13 | 2022-07-07 |
 | [Inside My Head](https://open.spotify.com/track/1r8aDSQwCBdfHWHQE0Vvhr) | [Phonique](https://open.spotify.com/artist/3pVm0ttbAah6dTDher8dSz), [BAKKA \(BR\)](https://open.spotify.com/artist/5VQhfKlaFyzx7Kz1VEF2u8) | [Inside My Head](https://open.spotify.com/album/2jjIP47viQxEy1d6JOp9MW) | 6:50 | 2022-04-15 | 2022-07-29 |

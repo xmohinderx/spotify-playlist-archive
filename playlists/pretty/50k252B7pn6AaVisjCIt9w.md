@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/50k252B7pn6AaVisjCIt9w.md) - [plain]
 
 > Featuring the best in Country like Carrie Underwood, Keith Urban and more!
 
-[digster.fm](https://open.spotify.com/user/digster.fm) - 369 likes - 61 songs - 3 hr 30 min
+[digster.fm](https://open.spotify.com/user/digster.fm) - 370 likes - 61 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

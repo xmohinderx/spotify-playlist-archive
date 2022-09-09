@@ -4,7 +4,7 @@
 
 > The official Trap Nation playlist that includes all of our recent &amp; favorite songs
 
-457 songs - 1 day 0 hr 39 min - [published](https://open.spotify.com/playlist/4kcwyPbE1feiqHb7M3oaMd)
+459 songs - 1 day 0 hr 45 min - [published](https://open.spotify.com/playlist/4kcwyPbE1feiqHb7M3oaMd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,6 +151,7 @@
 | [Fix Your Heart](https://open.spotify.com/track/4Phb5dsA6CM4rYo725fRKH) | [2nd Life](https://open.spotify.com/artist/2j1Yftz0qNufy1z5jfNYab), [Lost Heroes](https://open.spotify.com/artist/5J9yuE6EPQt3nwUVssAcDH), [Gaming Playlist](https://open.spotify.com/artist/23Mfhfnb8nWudPtyzEO6F4) | [Fix Your Heart](https://open.spotify.com/album/2P4QJ1s11BWdxIq7JPfRlj) | 2:12 | 2022-03-18 | 2022-04-19 |
 | [Floating](https://open.spotify.com/track/4huKuk3umRK9b1KooigPRb) | [Stereotype](https://open.spotify.com/artist/0binTLIlGbXSMuzhRykbRq), [DONI](https://open.spotify.com/artist/4Yc4XvKjf0gkjfSMMStG3u) | [NOWHERE](https://open.spotify.com/album/2Umgb5V6u7umS1BMXq4UXQ) | 3:00 | 2022-01-14 | 2022-02-17 |
 | [Flow](https://open.spotify.com/track/4ldB2NDmdmoZPy4ZgZ9i4Q) | [Fabian Mazur](https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG), [Snavs](https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM) | [RISE](https://open.spotify.com/album/4RszMvLTlzdiMRMqqt7ATc) | 1:54 | 2022-05-06 | 2022-06-18 |
+| [Follow Me](https://open.spotify.com/track/1W1lgRwIEuSMFLkLg6tXm7) | [Levianth](https://open.spotify.com/artist/1kTBGIBgFuqaxbdeXX3L6H) | [Follow Me](https://open.spotify.com/album/0BCP5oNMo4U2zPjGB9gOEu) | 2:04 | 2022-09-07 |  |
 | [Forgotten You](https://open.spotify.com/track/7jRCnqBjGvLyWBA7g0ZrCZ) | [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu), [Olivver the Kid](https://open.spotify.com/artist/3SoOohS0zlj8nLdGmhrKA7) | [Sentiment](https://open.spotify.com/album/2NRBI2mvyZIYpHMEcDmN6A) | 4:10 | 2022-02-18 | 2022-06-04 |
 | [Forgotten You \- Fancy Monster Remix](https://open.spotify.com/track/5BXa0xyHFOg30mOHn4fMjc) | [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu), [Olivver the Kid](https://open.spotify.com/artist/3SoOohS0zlj8nLdGmhrKA7), [Fancy Monster](https://open.spotify.com/artist/2mTmPVVrjt7SLOtJIaI9LY) | [Sentiment \(The Remixes\)](https://open.spotify.com/album/50LvtJUOXQqb4EVM2mij0V) | 3:30 | 2022-07-29 |  |
 | [Fragile Self](https://open.spotify.com/track/4Kb8imzv3qKW11smbXrXkt) | [Animadrop](https://open.spotify.com/artist/1AUZ4SxTPTZL7wDE80tPcR), [broke](https://open.spotify.com/artist/79sjpbumf3CjvJJI2Jsb2b) | [Dime A Dozen](https://open.spotify.com/album/3aJfybdxX3zcz5NYsXD4ae) | 6:16 | 2022-06-16 |  |
@@ -399,6 +400,7 @@
 | [The Far Side](https://open.spotify.com/track/6uRskPnpCJ9sHdDxGjZwRH) | [Danny Olson](https://open.spotify.com/artist/06MSAITCPRhtuJMD4UL96s), [David Frank](https://open.spotify.com/artist/1DTCyYmKxKEv37N97OTczW) | [The Far Side](https://open.spotify.com/album/1uCoUK0DMTfJOjbeD6YyNh) | 3:01 | 2022-03-01 | 2022-03-26 |
 | [THE HILLS](https://open.spotify.com/track/77eEBtXwACqL0Udd37NQjU) | [KLOUD](https://open.spotify.com/artist/24Hb4GKFYquK73R8mTyInu) | [THE HILLS](https://open.spotify.com/album/7dCBJ9mJehkXyFMUIfTOao) | 4:18 | 2022-01-14 |  |
 | [The Island](https://open.spotify.com/track/71H9O3hLE9I77Q9LCO7L21) | [The FifthGuys](https://open.spotify.com/artist/0Jk0TeNXrhhwOMmR2nNyZR), [Kulture DNB](https://open.spotify.com/artist/3XNd0xAFyDJri3hZ40HSHY) | [The Island](https://open.spotify.com/album/5nSI0EOMHlMPRS0n58kC7w) | 2:43 | 2022-01-14 | 2022-01-29 |
+| [The Moment I Met You](https://open.spotify.com/track/0sq8PLkApwedg1W9Qwam8F) | [Nikademis](https://open.spotify.com/artist/1mbM2HRSAFPgomMnUSNSvP), [Monika Santucci](https://open.spotify.com/artist/5E1FAGKopxyWqEREQblCDA) | [The Moment I Met You](https://open.spotify.com/album/1f7UfEdE3HI93z0wLsmRus) | 4:00 | 2022-09-08 |  |
 | [The One](https://open.spotify.com/track/7yf3dIN6aqqHmi82ftMIRU) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [KLAXX](https://open.spotify.com/artist/1sg1SPREm84p1TlfjABfnp) | [The One](https://open.spotify.com/album/3PWkN6LXpJ5Q3f8BCVzP8k) | 3:06 | 2022-05-13 |  |
 | [The Pit](https://open.spotify.com/track/4tjA1bnIrvCt1O4uaC476a) | [Fabian Mazur](https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG), [Snavs](https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM) | [The Pit](https://open.spotify.com/album/2ORFeGP84Wx8BlRJmLx7A3) | 2:32 | 2022-06-14 | 2022-07-29 |
 | [The Ride \- The FifthGuys Remix](https://open.spotify.com/track/4092jNui2iVNHGIELwv9CD) | [Snavs](https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM), [Kage](https://open.spotify.com/artist/6ehv7BnQkNEh7Hqd8rRcot), [The FifthGuys](https://open.spotify.com/artist/0Jk0TeNXrhhwOMmR2nNyZR) | [The Ride \(The FifthGuys Remix\)](https://open.spotify.com/album/7EurNV3781MD7406Ph86i8) | 2:31 | 2022-03-18 | 2022-04-19 |

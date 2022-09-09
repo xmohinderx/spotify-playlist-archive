@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWpxxOIgP7o.md) - [plain]
 
 > The official playlist for MO\. Watch now on Netflix!
 
-[Spotify](https://open.spotify.com/user/spotify) - 338 likes - 37 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 401 likes - 37 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWpxxOIgP7o.md) - [plain]
 | 7 | [Rudeboi \(feat\. Lil Wayne\)](https://open.spotify.com/track/67s1bLy25GxjEgAuHRaQr4) | [Bun B](https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Return of the Trill](https://open.spotify.com/album/2zJwPCX53y4xeWjvcKAO17) | 4:04 |
 | 8 | [Hamdulillah \- Music From The Netflix Series Mo](https://open.spotify.com/track/6X1aG6YCoSqsLPI7t56n4D) | [Narcy](https://open.spotify.com/artist/0dkcQCK8GjDBCGrjlUJhlg), [Shadia Mansour](https://open.spotify.com/artist/3PaRWHJX1nnmN4kffMGm93), [Sandhill](https://open.spotify.com/artist/0mREKS2VJxhULYPnh3C8s2) | [Hamdulillah \(Music From The Netflix Series Mo\)](https://open.spotify.com/album/0YnkmJkudVhAnOvHEHcBC0) | 3:55 |
 | 9 | [25 Lighters](https://open.spotify.com/track/4c6rZlc8J4P2zK4mvYrTFG) | [Lil’ Keke](https://open.spotify.com/artist/1grI9x4Uzos1Asx8JmRW6T), [Fat Pat](https://open.spotify.com/artist/1iFf7x4gbonfRVAvQ8Wsoh), [DJ DMD](https://open.spotify.com/artist/6OlAT1SEcIbALbMy6Z5TVL) | [From Coast To Coast](https://open.spotify.com/album/4hy6cljF4XEK7uhbckH3Dx) | 4:47 |
-| 10 | [All The Way Up](https://open.spotify.com/track/61QSuw5VlC0LTS8WMO356g) | [Fat Joe](https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6), [Remy Ma](https://open.spotify.com/artist/39mHYiNmLR7p8PXNG8Wll6), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [InfaRed](https://open.spotify.com/artist/4R529xQ7WQfRpSEXaHFbRg) | [All The Way Up \(feat\. French Montana & Infared\) \- Single](https://open.spotify.com/album/7vzvohRzBtrnr3miUJrpAk) | 3:11 |
+| 10 | [All The Way Up \(feat\. Infared\)](https://open.spotify.com/track/61QSuw5VlC0LTS8WMO356g) | [Fat Joe](https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6), [Remy Ma](https://open.spotify.com/artist/39mHYiNmLR7p8PXNG8Wll6), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [InfaRed](https://open.spotify.com/artist/4R529xQ7WQfRpSEXaHFbRg) | [All The Way Up \(feat\. Infared\)](https://open.spotify.com/album/7vzvohRzBtrnr3miUJrpAk) | 3:11 |
 | 11 | [La Tejanita](https://open.spotify.com/track/3iMH2LtYYm5A04bXnf4JYs) | [Ale Y Aleks](https://open.spotify.com/artist/79C5zzXeoLeB0HjgemCmd1) | [La Tejanita](https://open.spotify.com/album/0UWFEUBRSrPJSts2DCpoOC) | 3:02 |
 | 12 | [Deserted Tree](https://open.spotify.com/track/3qhJ26BGjhOLOFfdNtFOgd) | [Djamil](https://open.spotify.com/artist/0AgRxCF9PsEjvJvsWDvjJA) | [Deserted Tree](https://open.spotify.com/album/5fr2qkbIr8nqvexltrf1E1) | 2:45 |
 | 13 | [Chacal](https://open.spotify.com/track/3AS9WJtZGzR1rHdD1M8CFg) | [Idrissi](https://open.spotify.com/artist/5KYjLxvBWL3P087kSFs3QF) | [Chacal](https://open.spotify.com/album/5IwIn3NUtgmCTGci0UDlXb) | 3:07 |

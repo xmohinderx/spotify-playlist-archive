@@ -1,12 +1,12 @@
 {
   "description": "deep & dark. bold & bare. cover: Julien Baker",
-  "num_followers": 242663,
+  "num_followers": 242750,
   "original_name": "noir",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQ4NjQ2MCwwMDAwMDAwMGQzM2NiYzI2YWYzMjNhMmZkNDFjZjZhZjZiY2ViN2I0",
+  "snapshot_id": "MTY2MTQ4NjQ2MCwwMDAwMDAwMDY1ZGM3MjA4NDNmZTdmMTMyM2JjZWJjYTY3MTA1OWQx",
   "tracks": [
     {
       "added_at": "2021-11-12 05:00:00",
@@ -355,6 +355,22 @@
     {
       "added_at": "2021-11-12 05:00:00",
       "album": {
+        "name": "I Need to Start a Garden",
+        "url": "https://open.spotify.com/album/4I8BEAiq1kPqRRlvWLTo5B"
+      },
+      "artists": [
+        {
+          "name": "Haley Heynderickx",
+          "url": "https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X"
+        }
+      ],
+      "duration_ms": 195845,
+      "name": "Drinking Song",
+      "url": "https://open.spotify.com/track/5KkoM9rbevlWf8EePOrwfS"
+    },
+    {
+      "added_at": "2021-11-12 05:00:00",
+      "album": {
         "name": "Thirteen",
         "url": "https://open.spotify.com/album/5uiA6CIjpVZ6TZfiATrjEg"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 184869,
       "name": "Thirteen",
       "url": "https://open.spotify.com/track/5uXr5ZxwlC5lz7DMKLqJfC"
-    },
-    {
-      "added_at": "2021-11-12 05:00:00",
-      "album": {
-        "name": "I Need to Start a Garden",
-        "url": "https://open.spotify.com/album/4I8BEAiq1kPqRRlvWLTo5B"
-      },
-      "artists": [
-        {
-          "name": "Haley Heynderickx",
-          "url": "https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X"
-        }
-      ],
-      "duration_ms": 195845,
-      "name": "Drinking Song",
-      "url": "https://open.spotify.com/track/5KkoM9rbevlWf8EePOrwfS"
     },
     {
       "added_at": "2021-11-12 05:00:00",
@@ -897,22 +897,6 @@
       "url": "https://open.spotify.com/track/2DXbvKaUSUlb7q02GNJjCF"
     },
     {
-      "added_at": "2021-11-12 05:00:00",
-      "album": {
-        "name": "Silk",
-        "url": "https://open.spotify.com/album/281vLb9Y3WNKXljq2EbpQf"
-      },
-      "artists": [
-        {
-          "name": "Giselle",
-          "url": "https://open.spotify.com/artist/5cxol8ruhBU1QpUick7A42"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Silk",
-      "url": "https://open.spotify.com/track/3vscDGTguHZgyZeVR67cJr"
-    },
-    {
       "added_at": "2021-11-18 20:35:24",
       "album": {
         "name": "Pick Apart",
@@ -927,6 +911,22 @@
       "duration_ms": 215793,
       "name": "Pick Apart",
       "url": "https://open.spotify.com/track/0ssUuvHbzmex6n2ZojDvuS"
+    },
+    {
+      "added_at": "2021-11-12 05:00:00",
+      "album": {
+        "name": "Silk",
+        "url": "https://open.spotify.com/album/281vLb9Y3WNKXljq2EbpQf"
+      },
+      "artists": [
+        {
+          "name": "Giselle",
+          "url": "https://open.spotify.com/artist/5cxol8ruhBU1QpUick7A42"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Silk",
+      "url": "https://open.spotify.com/track/3vscDGTguHZgyZeVR67cJr"
     },
     {
       "added_at": "2021-11-12 05:00:00",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2021-11-12 05:00:00",
       "album": {
-        "name": "My Love Is Cool",
-        "url": "https://open.spotify.com/album/6bRsXeFIUgPfYLZNprki2h"
-      },
-      "artists": [
-        {
-          "name": "Wolf Alice",
-          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
-        }
-      ],
-      "duration_ms": 187933,
-      "name": "Turn To Dust",
-      "url": "https://open.spotify.com/track/6M1lGjZRnXL4vZvY0p3kTv"
-    },
-    {
-      "added_at": "2021-11-12 05:00:00",
-      "album": {
         "name": "Lincoln, Nebraska",
         "url": "https://open.spotify.com/album/3sliyQLmB0w5oU2yjkuZgH"
       },
@@ -1299,18 +1283,18 @@
     {
       "added_at": "2021-11-12 05:00:00",
       "album": {
-        "name": "Eastwick / Cold Caller",
-        "url": "https://open.spotify.com/album/1YQzACJ3FqQI4vqtK3e9sU"
+        "name": "My Love Is Cool",
+        "url": "https://open.spotify.com/album/6bRsXeFIUgPfYLZNprki2h"
       },
       "artists": [
         {
-          "name": "Julia Jacklin",
-          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
+          "name": "Wolf Alice",
+          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
         }
       ],
-      "duration_ms": 237015,
-      "name": "Cold Caller",
-      "url": "https://open.spotify.com/track/67eBpn7WYYSUcwI76Et8iN"
+      "duration_ms": 187933,
+      "name": "Turn To Dust",
+      "url": "https://open.spotify.com/track/6M1lGjZRnXL4vZvY0p3kTv"
     },
     {
       "added_at": "2021-11-12 05:00:00",
@@ -1327,6 +1311,22 @@
       "duration_ms": 208800,
       "name": "Kitchen Table",
       "url": "https://open.spotify.com/track/1XxLV1Ag179JlXq1gwICcl"
+    },
+    {
+      "added_at": "2021-11-12 05:00:00",
+      "album": {
+        "name": "Eastwick / Cold Caller",
+        "url": "https://open.spotify.com/album/1YQzACJ3FqQI4vqtK3e9sU"
+      },
+      "artists": [
+        {
+          "name": "Julia Jacklin",
+          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
+        }
+      ],
+      "duration_ms": 237015,
+      "name": "Cold Caller",
+      "url": "https://open.spotify.com/track/67eBpn7WYYSUcwI76Et8iN"
     },
     {
       "added_at": "2021-11-12 05:00:00",
@@ -1363,18 +1363,18 @@
     {
       "added_at": "2021-11-12 05:00:00",
       "album": {
-        "name": "Walking Proof",
-        "url": "https://open.spotify.com/album/2z9K9JtKHRue5qfVMV7J7a"
+        "name": "May",
+        "url": "https://open.spotify.com/album/53MJvvksiE4OBv49EWp0dl"
       },
       "artists": [
         {
-          "name": "Lilly Hiatt",
-          "url": "https://open.spotify.com/artist/0bDtDHLE3cBlqZxyLUDf90"
+          "name": "Humbird",
+          "url": "https://open.spotify.com/artist/0RLSq3hJOLcEezH3rTpnsB"
         }
       ],
-      "duration_ms": 175773,
-      "name": "Rae",
-      "url": "https://open.spotify.com/track/2MQC4MMW0xXjNPM0b30I1D"
+      "duration_ms": 238515,
+      "name": "May",
+      "url": "https://open.spotify.com/track/4JhCFrz0W9JuwsgT1c4HJT"
     },
     {
       "added_at": "2021-11-12 05:00:00",
@@ -1395,18 +1395,18 @@
     {
       "added_at": "2021-11-12 05:00:00",
       "album": {
-        "name": "May",
-        "url": "https://open.spotify.com/album/53MJvvksiE4OBv49EWp0dl"
+        "name": "Walking Proof",
+        "url": "https://open.spotify.com/album/2z9K9JtKHRue5qfVMV7J7a"
       },
       "artists": [
         {
-          "name": "Humbird",
-          "url": "https://open.spotify.com/artist/0RLSq3hJOLcEezH3rTpnsB"
+          "name": "Lilly Hiatt",
+          "url": "https://open.spotify.com/artist/0bDtDHLE3cBlqZxyLUDf90"
         }
       ],
-      "duration_ms": 238515,
-      "name": "May",
-      "url": "https://open.spotify.com/track/4JhCFrz0W9JuwsgT1c4HJT"
+      "duration_ms": 175773,
+      "name": "Rae",
+      "url": "https://open.spotify.com/track/2MQC4MMW0xXjNPM0b30I1D"
     },
     {
       "added_at": "2021-11-12 05:00:00",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2021-11-12 05:00:00",
       "album": {
-        "name": "Vessel",
-        "url": "https://open.spotify.com/album/6UwMhfqSFCopdNxxyEqERd"
-      },
-      "artists": [
-        {
-          "name": "Patricia Lalor",
-          "url": "https://open.spotify.com/artist/2m3JT2tJH5hDWkHsPwTdSd"
-        }
-      ],
-      "duration_ms": 208242,
-      "name": "Vessel",
-      "url": "https://open.spotify.com/track/1Z8ILAI5cuxguldwB2KsdB"
-    },
-    {
-      "added_at": "2021-11-12 05:00:00",
-      "album": {
         "name": "Blue",
         "url": "https://open.spotify.com/album/5KGs3rzqvjS1H7LwPvZD6c"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 252291,
       "name": "Blue",
       "url": "https://open.spotify.com/track/1oAeR6SrUeAMrIM0CD3EdD"
+    },
+    {
+      "added_at": "2021-11-12 05:00:00",
+      "album": {
+        "name": "Vessel",
+        "url": "https://open.spotify.com/album/6UwMhfqSFCopdNxxyEqERd"
+      },
+      "artists": [
+        {
+          "name": "Patricia Lalor",
+          "url": "https://open.spotify.com/artist/2m3JT2tJH5hDWkHsPwTdSd"
+        }
+      ],
+      "duration_ms": 208242,
+      "name": "Vessel",
+      "url": "https://open.spotify.com/track/1Z8ILAI5cuxguldwB2KsdB"
     },
     {
       "added_at": "2021-11-12 05:00:00",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2021-11-12 05:00:00",
       "album": {
-        "name": "Full Grown",
-        "url": "https://open.spotify.com/album/4yvF29Mp5z0VHqxxDOtq9T"
-      },
-      "artists": [
-        {
-          "name": "Greta Stanley",
-          "url": "https://open.spotify.com/artist/3lkwqHO5vO9jUlmJd0N5aC"
-        }
-      ],
-      "duration_ms": 229513,
-      "name": "Drunk Dreams",
-      "url": "https://open.spotify.com/track/40hZhgLAc1ANWvuht7dEV9"
-    },
-    {
-      "added_at": "2021-11-12 05:00:00",
-      "album": {
         "name": "Vampire Weeknight",
         "url": "https://open.spotify.com/album/6tpPh09H0rTNtFsKCzNtfV"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 190946,
       "name": "Earthquake",
       "url": "https://open.spotify.com/track/2U0U5tUzmzAd0tjzvXwHqN"
+    },
+    {
+      "added_at": "2021-11-12 05:00:00",
+      "album": {
+        "name": "Full Grown",
+        "url": "https://open.spotify.com/album/4yvF29Mp5z0VHqxxDOtq9T"
+      },
+      "artists": [
+        {
+          "name": "Greta Stanley",
+          "url": "https://open.spotify.com/artist/3lkwqHO5vO9jUlmJd0N5aC"
+        }
+      ],
+      "duration_ms": 229513,
+      "name": "Drunk Dreams",
+      "url": "https://open.spotify.com/track/40hZhgLAc1ANWvuht7dEV9"
     },
     {
       "added_at": "2021-11-12 05:00:00",

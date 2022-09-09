@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,178 likes - 103 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,212 likes - 103 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 15 | [10000次](https://open.spotify.com/track/12mxdNpFoPPxAgIGx1xvY2) | [Nine Chen](https://open.spotify.com/artist/4MMQmzYiUiuD8VwjrJu3v6) | [10000次](https://open.spotify.com/album/3knWnYquq3F0HQZaNnmwhy) | 3:55 |
 | 16 | [木頭人的飛行](https://open.spotify.com/track/4GYYWzauSMxdeMcawMMZX2) | [OHMYMEITING](https://open.spotify.com/artist/5ejbZdon0riCxa7GyJNEAx) | [木頭人的飛行](https://open.spotify.com/album/469Eh4wVgpq7Xw5lpBGEAV) | 3:10 |
 | 17 | [烏雲日記](https://open.spotify.com/track/2uMmfO7yMmi5yBH09pu8Hr) | [艾薇](https://open.spotify.com/artist/0RaC2hXyniYsju0mCSNz90) | [烏雲日記](https://open.spotify.com/album/7b7ppZfnyTff8gifjYdtxB) | 4:11 |
-| 18 | [我不想和你分開【三立/華視全新華劇「門當戶懟愛上你」片尾曲】](https://open.spotify.com/track/5qAnbARkb2ue4vonbbaPDu) | [江健榆Jo Chiang](https://open.spotify.com/artist/714JrmBMmRALLcFYrofdHX) | [我不想和你分開 I Don’t Wanna Leave You](https://open.spotify.com/album/4xsxHvsDR8fbURbH5489Sr) | 3:46 |
+| 18 | [我不想和你分開【三立/華視全新華劇「門當互懟愛上你」片尾曲】](https://open.spotify.com/track/5qAnbARkb2ue4vonbbaPDu) | [江健榆Jo Chiang](https://open.spotify.com/artist/714JrmBMmRALLcFYrofdHX) | [我不想和你分開 I Don’t Wanna Leave You](https://open.spotify.com/album/4xsxHvsDR8fbURbH5489Sr) | 3:46 |
 | 19 | [我们](https://open.spotify.com/track/20EQmEbUjpNIVzn9Om1qEp) | [TIA RAY](https://open.spotify.com/artist/70paW48PtCtUjtndElrjrL) | [我们](https://open.spotify.com/album/1GjQnT2aR7QqvxXRbP1K1L) | 4:08 |
 | 20 | [定居月球](https://open.spotify.com/track/0FSAC5eYeDgpIn9rPqzmU6) | [申宇琳](https://open.spotify.com/artist/5Po9NiAH22qTtvYiCaYqA0), [張簡君偉](https://open.spotify.com/artist/1DhebhCKHTpQ3Jx65HXsIU) | [定居月球](https://open.spotify.com/album/1kRB0hNSBDYKLNMaPLZWN2) | 3:19 |
 | 21 | [Stars of Rivers \(Theme Song of the Movie "Hero"\)](https://open.spotify.com/track/5Ixul8L0xH6xh0T5bM1AE6) | [那英](https://open.spotify.com/artist/35ig3ZjuqVyGeovLsj4xNm) | [Stars of Rivers \(Theme Song of the Movie "Hero"\)](https://open.spotify.com/album/6vdTxD5C92xlpQ1dylkpvE) | 4:10 |

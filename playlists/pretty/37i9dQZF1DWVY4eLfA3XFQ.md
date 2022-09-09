@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 
 > Tech house technicians, featuring Cloonee
 
-[Spotify](https://open.spotify.com/user/spotify) - 561,172 likes - 101 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 561,378 likes - 101 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 | 10 | [Your Love](https://open.spotify.com/track/7ddsmjp0uWE4I4l0PV5LJb) | [Leftwing : Kody](https://open.spotify.com/artist/7eYXtOjJGhrM16cK2hRmnR) | [Repopulate Stars Summer Jams](https://open.spotify.com/album/0Z1v1UzcfNOFDb4Sl0BOlS) | 3:42 |
 | 11 | [Heat the Club](https://open.spotify.com/track/3q4DV4TQSjSCiyc5iutSoF) | [Mz Worthy](https://open.spotify.com/artist/6AYgHoc0rxMltUiblsFc6c), [Worthy](https://open.spotify.com/artist/3H73pVo61GsGGlCzn4k1df) | [Heat the Club](https://open.spotify.com/album/6PokAp9WPMwcjw11zz7h7P) | 3:07 |
 | 12 | [Look In My Eyes](https://open.spotify.com/track/5pRZVUGi1Z9QteqfEAFNw0) | [Chapter & Verse](https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t) | [Look In My Eyes](https://open.spotify.com/album/2u1wqzI86mTpqylQPJ3iHm) | 3:25 |
-| 13 | [Vertigo](https://open.spotify.com/track/4fQTa68yjwRRBditzmCrZ9) | [Ben Miller \(Aus\)](https://open.spotify.com/artist/5cqGrWHL35BEuTpahcON5J) | [Vertigo](https://open.spotify.com/album/3mywgogoLOFHCCzZxLO5DR) | 3:12 |
+| 13 | [Vertigo](https://open.spotify.com/track/4fQTa68yjwRRBditzmCrZ9) | [Ben Miller](https://open.spotify.com/artist/60GXHUaBCDofa9x0K69RPr) | [Vertigo](https://open.spotify.com/album/3mywgogoLOFHCCzZxLO5DR) | 3:12 |
 | 14 | [Boom Boom \(feat\. CHRSTPHR\)](https://open.spotify.com/track/41Fq0oWTtuGes9RR6UhMw1) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS), [CHRSTPHR](https://open.spotify.com/artist/6yu6ruPHJXpEtX3eQpZTCz) | [Boom Boom \(feat\. CHRSTPHR\)](https://open.spotify.com/album/7pkY5Owef8tkoR7Y88Olwt) | 2:58 |
 | 15 | [Starter](https://open.spotify.com/track/4oFlRoHqdnjfPm0tUUIvAq) | [Marco Lys](https://open.spotify.com/artist/5WiohqjMNs7MtChjoHE9D1), [Tube & Berger](https://open.spotify.com/artist/32wcuqRxZuBY5HbH1bWa8h) | [Starter](https://open.spotify.com/album/1Szi70idNJ5SYHU1qubvu0) | 2:58 |
 | 16 | [Drop It](https://open.spotify.com/track/0CyrNTcFLUqcEzO4jx1I6O) | [Saison](https://open.spotify.com/artist/6AST5BAhARWnhaXlMnXGp7) | [Drop It](https://open.spotify.com/album/78miEQ02KsHuz0bRIjxzRA) | 3:12 |

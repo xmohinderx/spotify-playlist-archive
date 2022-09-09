@@ -4476,6 +4476,24 @@
     },
     {
       "album": {
+        "name": "Nostalgia",
+        "url": "https://open.spotify.com/album/340FbhdsCrkuXovyIzOJUD"
+      },
+      "artists": [
+        {
+          "name": "ISLY",
+          "url": "https://open.spotify.com/artist/6vcdxuQqc3jvWqznVDPEAW"
+        }
+      ],
+      "date_added": "2022-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296666,
+      "name": "Nostalgia",
+      "url": "https://open.spotify.com/track/6wJlHOOiL3zByo3kE7esCx"
+    },
+    {
+      "album": {
         "name": "Not A Monster",
         "url": "https://open.spotify.com/album/5lRFlm41b8JwBWgKtW1eqm"
       },
@@ -4513,6 +4531,24 @@
       "duration_ms": 198893,
       "name": "Not Backing Down",
       "url": "https://open.spotify.com/track/085JBuPwP0YbPgc2t6Lscc"
+    },
+    {
+      "album": {
+        "name": "NOTHING BUT JESUS",
+        "url": "https://open.spotify.com/album/73kSxdjVUAjLoFNUsWITYw"
+      },
+      "artists": [
+        {
+          "name": "Kurtis Hoppie",
+          "url": "https://open.spotify.com/artist/2eR1Z2cyHOS4gFgA2GbRl8"
+        }
+      ],
+      "date_added": "2022-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157885,
+      "name": "NOTHING",
+      "url": "https://open.spotify.com/track/2V4HIVB9Iv35XbCCPXpT1f"
     },
     {
       "album": {
@@ -5705,7 +5741,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 179500,
       "name": "Siyahamba",
       "url": "https://open.spotify.com/track/0Eghphy9GkgQixBJJIZkXc"
@@ -5963,7 +5999,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 208564,
       "name": "Sunrise",
       "url": "https://open.spotify.com/track/6FWaqHayQ1ZGMGRUz7O9A5"
@@ -6551,8 +6587,8 @@
           "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
         },
         {
-          "name": "Ye",
-          "url": "https://open.spotify.com/artist/6yMShPeIRlDl9K8lDNqqr2"
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
         },
         {
           "name": "Eminem",
@@ -6563,7 +6599,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 223532,
-      "name": "USE THIS GOSPEL (feat. Ye & Eminem) - REMIX",
+      "name": "USE THIS GOSPEL (feat. Kanye West & Eminem) - REMIX",
       "url": "https://open.spotify.com/track/2u5jKAjyvyEDmsWTtfQzNf"
     },
     {

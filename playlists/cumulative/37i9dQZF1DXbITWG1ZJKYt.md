@@ -2,7 +2,7 @@
 
 ### [Jazz Classics](https://open.spotify.com/playlist/37i9dQZF1DXbITWG1ZJKYt)
 
-> The best tunes in jazz history\. Cover: Louis Armstrong
+> The best tunes in Jazz history\. Cover: Louis Armstrong
 
 321 songs - 1 day 4 hr 2 min - [published](https://open.spotify.com/playlist/4TeJWp2FnWT3w9IWQNn7Hv)
 

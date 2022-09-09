@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "Trendy & Chill \ud55c\uad6d R&B. Be laid-back with groovy K-R&B. (Cover: KAIAVANT)",
+  "description": "Trendy & Chill \ud55c\uad6d R&B. Be laid-back with groovy K-R&B. (Cover: SOLE(\uc3e0))",
   "name": "TrenChill K-R&B",
   "published_playlist_ids": [
     "3joqGbdyT1iJwODdo3szax"
@@ -467,7 +467,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 256693,
       "name": "Amusement Park",
       "url": "https://open.spotify.com/track/1TUkEXQrskATO9SoB4QMUN"
@@ -1137,7 +1137,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-06",
+      "date_removed": null,
       "duration_ms": 173240,
       "name": "Broken Love",
       "url": "https://open.spotify.com/track/6GehOJs060WzAi78QArj7p"
@@ -6740,6 +6740,24 @@
     },
     {
       "album": {
+        "name": "still beautiful",
+        "url": "https://open.spotify.com/album/6R1xUiVm1iCwZP2TQtimIn"
+      },
+      "artists": [
+        {
+          "name": "SOLE",
+          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225760,
+      "name": "still beautiful",
+      "url": "https://open.spotify.com/track/5MsPHSEHfSZnxgaJDnEdI6"
+    },
+    {
+      "album": {
         "name": "Weekday is long, Weekend is gone",
         "url": "https://open.spotify.com/album/2P4txqRH8hlDQLBoMnXlIl"
       },
@@ -7993,7 +8011,7 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 245068,
       "name": "Woo hoo (Feat. Kid Milli)",
       "url": "https://open.spotify.com/track/50JEzNr75B90UaYXZvCuaT"

@@ -1,12 +1,12 @@
 {
   "description": "Come alive with this progressive & melodic house selection.",
-  "num_followers": 116824,
+  "num_followers": 117036,
   "original_name": "Melodic & Euphoric",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjE1NzQwNSwwMDAwMDAwMGE4YjI3OGYwY2IwZjk3NDA1OWNkMmRhOWUzYjk2NDFh",
+  "snapshot_id": "MTY0MjE1NzQwNSwwMDAwMDAwMDkzYTQ0MTE5MzAxMjI2MjcwZmZlNmVmNjU2M2I4YjA1",
   "tracks": [
     {
       "added_at": "2022-01-14 10:50:05",
@@ -259,6 +259,26 @@
     {
       "added_at": "2022-01-14 10:50:05",
       "album": {
+        "name": "Holding On",
+        "url": "https://open.spotify.com/album/2kTunMwym8g0oFkljWvXZ0"
+      },
+      "artists": [
+        {
+          "name": "Braxton",
+          "url": "https://open.spotify.com/artist/3yOWDl4RunYUhE6dWCXhp4"
+        },
+        {
+          "name": "Lauren L'aimant",
+          "url": "https://open.spotify.com/artist/2M2QzPADSybcVig2CBTcFJ"
+        }
+      ],
+      "duration_ms": 218000,
+      "name": "Holding On",
+      "url": "https://open.spotify.com/track/4yqRW7Ovd47DcgfuWXzEGR"
+    },
+    {
+      "added_at": "2022-01-14 10:50:05",
+      "album": {
         "name": "Apnea",
         "url": "https://open.spotify.com/album/2P7XyZlFlhCHtXCUp7al5C"
       },
@@ -291,26 +311,6 @@
       "duration_ms": 196751,
       "name": "Piece Of Art",
       "url": "https://open.spotify.com/track/05Z9XLTEN2aJx3y6YWlGoJ"
-    },
-    {
-      "added_at": "2022-01-14 10:50:05",
-      "album": {
-        "name": "Holding On",
-        "url": "https://open.spotify.com/album/2kTunMwym8g0oFkljWvXZ0"
-      },
-      "artists": [
-        {
-          "name": "Braxton",
-          "url": "https://open.spotify.com/artist/3yOWDl4RunYUhE6dWCXhp4"
-        },
-        {
-          "name": "Lauren L'aimant",
-          "url": "https://open.spotify.com/artist/2M2QzPADSybcVig2CBTcFJ"
-        }
-      ],
-      "duration_ms": 218000,
-      "name": "Holding On",
-      "url": "https://open.spotify.com/track/4yqRW7Ovd47DcgfuWXzEGR"
     },
     {
       "added_at": "2022-01-14 10:50:05",
@@ -511,38 +511,6 @@
     {
       "added_at": "2022-01-14 10:50:05",
       "album": {
-        "name": "LNOE Introducing Vol. 1",
-        "url": "https://open.spotify.com/album/3qdIt9ZElhxVeGwbydXpzz"
-      },
-      "artists": [
-        {
-          "name": "Qrion",
-          "url": "https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw"
-        }
-      ],
-      "duration_ms": 322058,
-      "name": "Monolith",
-      "url": "https://open.spotify.com/track/5HUQByo24AQbWzEEWJeBiB"
-    },
-    {
-      "added_at": "2022-01-14 10:50:05",
-      "album": {
-        "name": "Floral Decor",
-        "url": "https://open.spotify.com/album/1BBSHiWKFxZaUlIBCWBSVX"
-      },
-      "artists": [
-        {
-          "name": "Lstn",
-          "url": "https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp"
-        }
-      ],
-      "duration_ms": 248000,
-      "name": "Floral Decor",
-      "url": "https://open.spotify.com/track/2CrKPgTinZordfA9xfhjQC"
-    },
-    {
-      "added_at": "2022-01-14 10:50:05",
-      "album": {
         "name": "L'owe L'owe",
         "url": "https://open.spotify.com/album/6sIfcPlPmIZDFytI1m0qGG"
       },
@@ -563,6 +531,22 @@
     {
       "added_at": "2022-01-14 10:50:05",
       "album": {
+        "name": "LNOE Introducing Vol. 1",
+        "url": "https://open.spotify.com/album/3qdIt9ZElhxVeGwbydXpzz"
+      },
+      "artists": [
+        {
+          "name": "Qrion",
+          "url": "https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw"
+        }
+      ],
+      "duration_ms": 322058,
+      "name": "Monolith",
+      "url": "https://open.spotify.com/track/5HUQByo24AQbWzEEWJeBiB"
+    },
+    {
+      "added_at": "2022-01-14 10:50:05",
+      "album": {
         "name": "Hide",
         "url": "https://open.spotify.com/album/35Qr8Kfqkut5j7WWJTAXdd"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 206612,
       "name": "Hide - Original Mix",
       "url": "https://open.spotify.com/track/2xsQqjipGiLW7yD3Pbepdn"
+    },
+    {
+      "added_at": "2022-01-14 10:50:05",
+      "album": {
+        "name": "Floral Decor",
+        "url": "https://open.spotify.com/album/1BBSHiWKFxZaUlIBCWBSVX"
+      },
+      "artists": [
+        {
+          "name": "Lstn",
+          "url": "https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp"
+        }
+      ],
+      "duration_ms": 248000,
+      "name": "Floral Decor",
+      "url": "https://open.spotify.com/track/2CrKPgTinZordfA9xfhjQC"
     },
     {
       "added_at": "2022-01-14 10:50:05",
@@ -855,22 +855,6 @@
     {
       "added_at": "2022-01-14 10:50:05",
       "album": {
-        "name": "Torii",
-        "url": "https://open.spotify.com/album/2oJIKUuxPO2MeiBQQhd3x4"
-      },
-      "artists": [
-        {
-          "name": "Nora Van Elken",
-          "url": "https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM"
-        }
-      ],
-      "duration_ms": 170307,
-      "name": "Torii",
-      "url": "https://open.spotify.com/track/0PxVllnUIzt36tvbu5thj5"
-    },
-    {
-      "added_at": "2022-01-14 10:50:05",
-      "album": {
         "name": "Lungs",
         "url": "https://open.spotify.com/album/5zgVbEqb773OX6liiiZ7Ap"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 403747,
       "name": "Lungs",
       "url": "https://open.spotify.com/track/7ooSRbTulJUUtatq4pl80X"
+    },
+    {
+      "added_at": "2022-01-14 10:50:05",
+      "album": {
+        "name": "Torii",
+        "url": "https://open.spotify.com/album/2oJIKUuxPO2MeiBQQhd3x4"
+      },
+      "artists": [
+        {
+          "name": "Nora Van Elken",
+          "url": "https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM"
+        }
+      ],
+      "duration_ms": 170307,
+      "name": "Torii",
+      "url": "https://open.spotify.com/track/0PxVllnUIzt36tvbu5thj5"
     },
     {
       "added_at": "2022-01-14 10:50:05",
@@ -975,22 +975,6 @@
     {
       "added_at": "2022-01-14 10:50:05",
       "album": {
-        "name": "Unite",
-        "url": "https://open.spotify.com/album/6Bpgmzi5nD2JMTFVCvdFBd"
-      },
-      "artists": [
-        {
-          "name": "Yeadon",
-          "url": "https://open.spotify.com/artist/3I2GYH3sJaBakVf5tydDbn"
-        }
-      ],
-      "duration_ms": 188157,
-      "name": "Unite",
-      "url": "https://open.spotify.com/track/6jIC6IkCjNSyItQXPSkx1H"
-    },
-    {
-      "added_at": "2022-01-14 10:50:05",
-      "album": {
         "name": "\u0421\u0442\u043e\u043b\u0438\u0446\u0430 \u0437\u0430\u043a\u0430\u0442\u043e\u0432",
         "url": "https://open.spotify.com/album/3RMnzbvkcxMwSqcrq9LqYS"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 283628,
       "name": "\u0421\u0442\u043e\u043b\u0438\u0446\u0430 \u0437\u0430\u043a\u0430\u0442\u043e\u0432",
       "url": "https://open.spotify.com/track/6DwuQjVWPRRICEqJJedZYb"
+    },
+    {
+      "added_at": "2022-01-14 10:50:05",
+      "album": {
+        "name": "Unite",
+        "url": "https://open.spotify.com/album/6Bpgmzi5nD2JMTFVCvdFBd"
+      },
+      "artists": [
+        {
+          "name": "Yeadon",
+          "url": "https://open.spotify.com/artist/3I2GYH3sJaBakVf5tydDbn"
+        }
+      ],
+      "duration_ms": 188157,
+      "name": "Unite",
+      "url": "https://open.spotify.com/track/6jIC6IkCjNSyItQXPSkx1H"
     },
     {
       "added_at": "2022-01-14 10:50:05",
@@ -1039,26 +1039,6 @@
     {
       "added_at": "2022-01-14 10:50:05",
       "album": {
-        "name": "Lager Beers EP",
-        "url": "https://open.spotify.com/album/5izcjEZQUvnhfeLWM67n72"
-      },
-      "artists": [
-        {
-          "name": "My Friend",
-          "url": "https://open.spotify.com/artist/1hg70WTHwGUQ7XDbjy3szw"
-        },
-        {
-          "name": "Lauren L'aimant",
-          "url": "https://open.spotify.com/artist/2M2QzPADSybcVig2CBTcFJ"
-        }
-      ],
-      "duration_ms": 253454,
-      "name": "Heyoka",
-      "url": "https://open.spotify.com/track/17cVuIl1z18wO2cZda3sxA"
-    },
-    {
-      "added_at": "2022-01-14 10:50:05",
-      "album": {
         "name": "The Old You",
         "url": "https://open.spotify.com/album/5f4gB7CNtI93Kep6q2szFh"
       },
@@ -1075,6 +1055,26 @@
       "duration_ms": 195701,
       "name": "The Old You",
       "url": "https://open.spotify.com/track/1mCh3IVhrn2PuNGkV9mYo6"
+    },
+    {
+      "added_at": "2022-01-14 10:50:05",
+      "album": {
+        "name": "Lager Beers EP",
+        "url": "https://open.spotify.com/album/5izcjEZQUvnhfeLWM67n72"
+      },
+      "artists": [
+        {
+          "name": "My Friend",
+          "url": "https://open.spotify.com/artist/1hg70WTHwGUQ7XDbjy3szw"
+        },
+        {
+          "name": "Lauren L'aimant",
+          "url": "https://open.spotify.com/artist/2M2QzPADSybcVig2CBTcFJ"
+        }
+      ],
+      "duration_ms": 253454,
+      "name": "Heyoka",
+      "url": "https://open.spotify.com/track/17cVuIl1z18wO2cZda3sxA"
     },
     {
       "added_at": "2022-01-14 10:50:05",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2022-01-14 10:50:05",
       "album": {
-        "name": "Froozen / Balloons",
-        "url": "https://open.spotify.com/album/2R0BNhSn4wE1xfQ9R8cLYT"
-      },
-      "artists": [
-        {
-          "name": "Hosini",
-          "url": "https://open.spotify.com/artist/3DQ7WGIfJ4z4aQzNE1bNFF"
-        }
-      ],
-      "duration_ms": 234744,
-      "name": "Balloons",
-      "url": "https://open.spotify.com/track/0NQhw2ZcwkfaVN98QYsY7X"
-    },
-    {
-      "added_at": "2022-01-14 10:50:05",
-      "album": {
         "name": "Far Away Connections",
         "url": "https://open.spotify.com/album/34ZraMBlp39ntdY7IUnCfH"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 390369,
       "name": "White Ghost",
       "url": "https://open.spotify.com/track/6dcOMgnBkzfj4WZcNziVIq"
+    },
+    {
+      "added_at": "2022-01-14 10:50:05",
+      "album": {
+        "name": "Froozen / Balloons",
+        "url": "https://open.spotify.com/album/2R0BNhSn4wE1xfQ9R8cLYT"
+      },
+      "artists": [
+        {
+          "name": "Hosini",
+          "url": "https://open.spotify.com/artist/3DQ7WGIfJ4z4aQzNE1bNFF"
+        }
+      ],
+      "duration_ms": 234744,
+      "name": "Balloons",
+      "url": "https://open.spotify.com/track/0NQhw2ZcwkfaVN98QYsY7X"
     },
     {
       "added_at": "2022-01-14 10:50:05",
@@ -1207,38 +1207,6 @@
     {
       "added_at": "2022-01-14 10:50:05",
       "album": {
-        "name": "Fallen",
-        "url": "https://open.spotify.com/album/66M5YSekgQPGWLhU2cdVOA"
-      },
-      "artists": [
-        {
-          "name": "Jerome Price",
-          "url": "https://open.spotify.com/artist/4EREP1nDxGjXE6V4sOuUy8"
-        }
-      ],
-      "duration_ms": 205117,
-      "name": "Fallen",
-      "url": "https://open.spotify.com/track/6I0i1jsugzmfYHbRRLfAXY"
-    },
-    {
-      "added_at": "2022-01-14 10:50:05",
-      "album": {
-        "name": "Collide",
-        "url": "https://open.spotify.com/album/3oRroUuznKXrAn0WU12Lh3"
-      },
-      "artists": [
-        {
-          "name": "Leftwing : Kody",
-          "url": "https://open.spotify.com/artist/7eYXtOjJGhrM16cK2hRmnR"
-        }
-      ],
-      "duration_ms": 216960,
-      "name": "Collide",
-      "url": "https://open.spotify.com/track/2CwIVyyRYa65Q0VKfgpRMy"
-    },
-    {
-      "added_at": "2022-01-14 10:50:05",
-      "album": {
         "name": "Could This B? / Stay Curious",
         "url": "https://open.spotify.com/album/4Wj27s5tpvh6WVmSDGwj2R"
       },
@@ -1251,6 +1219,22 @@
       "duration_ms": 240000,
       "name": "Could This B?",
       "url": "https://open.spotify.com/track/6oSaQH2n2x5SVOaGZZB0fi"
+    },
+    {
+      "added_at": "2022-01-14 10:50:05",
+      "album": {
+        "name": "Fallen",
+        "url": "https://open.spotify.com/album/66M5YSekgQPGWLhU2cdVOA"
+      },
+      "artists": [
+        {
+          "name": "Jerome Price",
+          "url": "https://open.spotify.com/artist/4EREP1nDxGjXE6V4sOuUy8"
+        }
+      ],
+      "duration_ms": 205117,
+      "name": "Fallen",
+      "url": "https://open.spotify.com/track/6I0i1jsugzmfYHbRRLfAXY"
     },
     {
       "added_at": "2022-01-14 10:50:05",
@@ -1271,6 +1255,22 @@
       "duration_ms": 432000,
       "name": "Hope",
       "url": "https://open.spotify.com/track/1ofk2QRTFucPmG4Xo90T9E"
+    },
+    {
+      "added_at": "2022-01-14 10:50:05",
+      "album": {
+        "name": "Collide",
+        "url": "https://open.spotify.com/album/3oRroUuznKXrAn0WU12Lh3"
+      },
+      "artists": [
+        {
+          "name": "Leftwing : Kody",
+          "url": "https://open.spotify.com/artist/7eYXtOjJGhrM16cK2hRmnR"
+        }
+      ],
+      "duration_ms": 216960,
+      "name": "Collide",
+      "url": "https://open.spotify.com/track/2CwIVyyRYa65Q0VKfgpRMy"
     },
     {
       "added_at": "2022-01-14 10:50:05",
@@ -1303,6 +1303,26 @@
       "duration_ms": 263866,
       "name": "List",
       "url": "https://open.spotify.com/track/30HKHaDLgbOz9qv6TgpIId"
+    },
+    {
+      "added_at": "2022-01-14 10:50:05",
+      "album": {
+        "name": "Vaia (PVSHL Remix)",
+        "url": "https://open.spotify.com/album/5OjkZdKhWx7qa21SRTFMrS"
+      },
+      "artists": [
+        {
+          "name": "Troste",
+          "url": "https://open.spotify.com/artist/0ugRi4v3utREAUASuPhlJz"
+        },
+        {
+          "name": "PVSHL",
+          "url": "https://open.spotify.com/artist/1DgG7X6SdsC8JD3No1A4HF"
+        }
+      ],
+      "duration_ms": 276190,
+      "name": "Vaia - PVSHL Remix Edit",
+      "url": "https://open.spotify.com/track/408BmVj8nMa1kifXsaDfUv"
     },
     {
       "added_at": "2022-01-14 10:50:05",
@@ -1343,26 +1363,6 @@
     {
       "added_at": "2022-01-14 10:50:05",
       "album": {
-        "name": "Vaia (PVSHL Remix)",
-        "url": "https://open.spotify.com/album/5OjkZdKhWx7qa21SRTFMrS"
-      },
-      "artists": [
-        {
-          "name": "Troste",
-          "url": "https://open.spotify.com/artist/0ugRi4v3utREAUASuPhlJz"
-        },
-        {
-          "name": "PVSHL",
-          "url": "https://open.spotify.com/artist/1DgG7X6SdsC8JD3No1A4HF"
-        }
-      ],
-      "duration_ms": 276190,
-      "name": "Vaia - PVSHL Remix Edit",
-      "url": "https://open.spotify.com/track/408BmVj8nMa1kifXsaDfUv"
-    },
-    {
-      "added_at": "2022-01-14 10:50:05",
-      "album": {
         "name": "Masina",
         "url": "https://open.spotify.com/album/7km063WgmtcvuzwrguShQy"
       },
@@ -1383,26 +1383,6 @@
     {
       "added_at": "2022-01-14 10:50:05",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/3PxjuDDfOWcW3oQITgX1Ru"
-      },
-      "artists": [
-        {
-          "name": "Elaine Mai",
-          "url": "https://open.spotify.com/artist/0wRHsCARScopB5WmbQzMcy"
-        },
-        {
-          "name": "Ailbhe Reddy",
-          "url": "https://open.spotify.com/artist/1YQiMR5M12HJ28hkJz7qnn"
-        }
-      ],
-      "duration_ms": 236350,
-      "name": "Still Feel (Home Edit)",
-      "url": "https://open.spotify.com/track/0mBdNrpS6UkxDusXE4actk"
-    },
-    {
-      "added_at": "2022-01-14 10:50:05",
-      "album": {
         "name": "2 Late 4 Love (Danny Howard Remix)",
         "url": "https://open.spotify.com/album/6obT6ywNJQDjidvpo4BDLK"
       },
@@ -1419,6 +1399,26 @@
       "duration_ms": 219625,
       "name": "2 Late 4 Love - Danny Howard Remix",
       "url": "https://open.spotify.com/track/6cCZK1uozaX1RUnUmfXloJ"
+    },
+    {
+      "added_at": "2022-01-14 10:50:05",
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/3PxjuDDfOWcW3oQITgX1Ru"
+      },
+      "artists": [
+        {
+          "name": "Elaine Mai",
+          "url": "https://open.spotify.com/artist/0wRHsCARScopB5WmbQzMcy"
+        },
+        {
+          "name": "Ailbhe Reddy",
+          "url": "https://open.spotify.com/artist/1YQiMR5M12HJ28hkJz7qnn"
+        }
+      ],
+      "duration_ms": 236350,
+      "name": "Still Feel (Home Edit)",
+      "url": "https://open.spotify.com/track/0mBdNrpS6UkxDusXE4actk"
     },
     {
       "added_at": "2022-01-14 10:50:05",

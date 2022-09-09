@@ -1,12 +1,12 @@
 {
   "description": "Songs from Canadian artists that dominated the 1990s. Cover: LEN",
-  "num_followers": 48335,
+  "num_followers": 48426,
   "original_name": "Canadian '90s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzMjI1Nzg3MCwwMDAwMDAwMDBkZjhiMzk3OWE5OGIwMzZlZWQwZmMwMmI3NGVjZDNi",
+  "snapshot_id": "MTYzMjI1Nzg3MCwwMDAwMDAwMDlhNjQyODVkNjliNjFlMWFlYjk3YTlhNDY1MDU3NjE1",
   "tracks": [
     {
       "added_at": "2021-09-21 20:57:50",
@@ -363,6 +363,22 @@
     {
       "added_at": "2021-09-21 20:57:50",
       "album": {
+        "name": "Amanda Marshall",
+        "url": "https://open.spotify.com/album/0HEvHFESNJMTERnF6zpjnz"
+      },
+      "artists": [
+        {
+          "name": "Amanda Marshall",
+          "url": "https://open.spotify.com/artist/2ON3fLFbL1rHfHEjeYNKsO"
+        }
+      ],
+      "duration_ms": 271960,
+      "name": "Let It Rain",
+      "url": "https://open.spotify.com/track/6B02MufyAO1pPsWYRespCr"
+    },
+    {
+      "added_at": "2021-09-21 20:57:50",
+      "album": {
         "name": "Nest",
         "url": "https://open.spotify.com/album/3bosHaEpGeWKUMTwAtVKUU"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 197026,
       "name": "Someone Who's Cool",
       "url": "https://open.spotify.com/track/1g8ubxSaVpjtPm90fE77oz"
-    },
-    {
-      "added_at": "2021-09-21 20:57:50",
-      "album": {
-        "name": "Amanda Marshall",
-        "url": "https://open.spotify.com/album/0HEvHFESNJMTERnF6zpjnz"
-      },
-      "artists": [
-        {
-          "name": "Amanda Marshall",
-          "url": "https://open.spotify.com/artist/2ON3fLFbL1rHfHEjeYNKsO"
-        }
-      ],
-      "duration_ms": 271960,
-      "name": "Let It Rain",
-      "url": "https://open.spotify.com/track/6B02MufyAO1pPsWYRespCr"
     },
     {
       "added_at": "2021-09-21 20:57:50",

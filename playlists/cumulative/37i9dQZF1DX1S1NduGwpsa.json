@@ -341,7 +341,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 206291,
       "name": "Cheek To Cheek - Live",
       "url": "https://open.spotify.com/track/2La0saPUOcHbSuiF8ubrkx"
@@ -760,6 +760,32 @@
     },
     {
       "album": {
+        "name": "Follow the Light",
+        "url": "https://open.spotify.com/album/464mXSRcytt5W0mq22FMMt"
+      },
+      "artists": [
+        {
+          "name": "Armel Dupas Trio",
+          "url": "https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU"
+        },
+        {
+          "name": "Jules Bill\u00e9",
+          "url": "https://open.spotify.com/artist/4NUgmHU1FIREvBXLDDFhng"
+        },
+        {
+          "name": "Christophe Piot",
+          "url": "https://open.spotify.com/artist/4BqX5iSPXbStNLbdzjURGi"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303457,
+      "name": "Follow the Light",
+      "url": "https://open.spotify.com/track/5P0RMEJOgtGcZIq5wYjYei"
+    },
+    {
+      "album": {
         "name": "Adjusting",
         "url": "https://open.spotify.com/album/4iYFLD07bHFqZgf86aloFZ"
       },
@@ -865,7 +891,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 185346,
       "name": "Hallelujah, I Love Him So - First Sessions Outtake",
       "url": "https://open.spotify.com/track/1QLBKel4BFnZIk6VTQiiqY"
@@ -1425,6 +1451,28 @@
       "duration_ms": 240496,
       "name": "Mille rivages",
       "url": "https://open.spotify.com/track/3RGbbFVz6LfyLdqTCuTffa"
+    },
+    {
+      "album": {
+        "name": "Jazz Contenders",
+        "url": "https://open.spotify.com/album/3mXgDyvdLx9UMolgzxemJZ"
+      },
+      "artists": [
+        {
+          "name": "Emile Londonien",
+          "url": "https://open.spotify.com/artist/5xl5tvMxqmHqRbSUHajNS7"
+        },
+        {
+          "name": "L\u00e9on Phal",
+          "url": "https://open.spotify.com/artist/1AKiAMwxnF2f1zBlSGDfXC"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 392661,
+      "name": "Missing Arrow",
+      "url": "https://open.spotify.com/track/0YnIdW5G68sN1TrXnAw6g5"
     },
     {
       "album": {

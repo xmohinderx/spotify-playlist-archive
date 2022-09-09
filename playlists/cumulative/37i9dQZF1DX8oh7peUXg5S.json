@@ -327,7 +327,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 212416,
       "name": "Alquitr\u00e1n y Carm\u00edn",
       "url": "https://open.spotify.com/track/7bqnSrUqtjb2s6PTyu7F6v"
@@ -585,7 +585,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 174735,
       "name": "Canci\u00f3n Del Elegido",
       "url": "https://open.spotify.com/track/33QDwXW1O0hAGDdKRqpqjB"
@@ -603,7 +603,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 201506,
       "name": "Canela en Rama",
       "url": "https://open.spotify.com/track/4mXfHJAMHBFwq4MdQxne2L"
@@ -801,7 +801,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-30",
+      "date_removed": null,
       "duration_ms": 294095,
       "name": "Contigo",
       "url": "https://open.spotify.com/track/5XBY1Hxg0L6Cf3wyjCGftT"
@@ -2001,6 +2001,24 @@
       "duration_ms": 184102,
       "name": "Luc\u00eda",
       "url": "https://open.spotify.com/track/4vGMLLZQbanPA7CxiUndM7"
+    },
+    {
+      "album": {
+        "name": "Manifiesto",
+        "url": "https://open.spotify.com/album/10SO9wTdCvi8M9HMiJee3a"
+      },
+      "artists": [
+        {
+          "name": "Victor Jara",
+          "url": "https://open.spotify.com/artist/440MEFxEmF9othCXbz3Y6a"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269133,
+      "name": "Manifiesto",
+      "url": "https://open.spotify.com/track/55ZrFdC27uqQC5WA8mdXSR"
     },
     {
       "album": {
@@ -3569,7 +3587,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-12",
+      "date_removed": null,
       "duration_ms": 308510,
       "name": "Unicornio",
       "url": "https://open.spotify.com/track/0lxu1Pmegx2SELobpAXzz4"

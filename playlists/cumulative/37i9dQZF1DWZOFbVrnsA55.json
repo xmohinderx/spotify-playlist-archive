@@ -724,6 +724,24 @@
     },
     {
       "album": {
+        "name": "Briefly",
+        "url": "https://open.spotify.com/album/2ewvlnEIRZJgCrHhifOEx5"
+      },
+      "artists": [
+        {
+          "name": "Nils Frahm",
+          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
+        }
+      ],
+      "date_added": "2022-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1622575,
+      "name": "Briefly",
+      "url": "https://open.spotify.com/track/3kcKtOZxGziQWg9qj1ROmV"
+    },
+    {
+      "album": {
         "name": "Aithein",
         "url": "https://open.spotify.com/album/2Cea83oIjnDZNwu4Dhz1sg"
       },

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "Slow instrumental jazz for evening listening pleasure.",
+  "description": "Slow instrumental Jazz for evening listening pleasure.",
   "name": "Evening Jazz",
   "published_playlist_ids": [
     "5fb91bkAejoTbTEhFeEeo3"
@@ -307,7 +307,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 208250,
       "name": "Bianca",
       "url": "https://open.spotify.com/track/2T2dIV8coIPZ08ryHUYy6z"
@@ -649,7 +649,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 149775,
       "name": "Dreamin'",
       "url": "https://open.spotify.com/track/6oJ3j2m4kCHpMZhOY5jx8d"
@@ -973,7 +973,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 189730,
       "name": "I Could Write A Book",
       "url": "https://open.spotify.com/track/7nbQBpnj4CfKEycYy1dNLT"
@@ -1063,10 +1063,28 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 280186,
       "name": "I Wish I Knew",
       "url": "https://open.spotify.com/track/41XCiJOUytKpsgT1kDzYzE"
+    },
+    {
+      "album": {
+        "name": "I'm Getting Sentimental Over You",
+        "url": "https://open.spotify.com/album/01sPJkRHG839tmyrd1V8s6"
+      },
+      "artists": [
+        {
+          "name": "Chris Memento",
+          "url": "https://open.spotify.com/artist/6dLMos1sm6vC0KWbloaCXb"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229625,
+      "name": "I'm Getting Sentimental Over You",
+      "url": "https://open.spotify.com/track/1FW3sdgzfR7gdqXXqprBxJ"
     },
     {
       "album": {
@@ -2025,7 +2043,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 528933,
       "name": "Since I Fell For You",
       "url": "https://open.spotify.com/track/4TTPpmbvhD6lykELuXZoSh"
@@ -2231,7 +2249,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 309360,
       "name": "Spring Is Here",
       "url": "https://open.spotify.com/track/6NVHxwaBkfTIINMCmZ1JUl"
@@ -2849,6 +2867,24 @@
       "duration_ms": 150122,
       "name": "You Don't Know What Love Is",
       "url": "https://open.spotify.com/track/4bDk3TKM6kF1MT2Tzek7QJ"
+    },
+    {
+      "album": {
+        "name": "Earthshine",
+        "url": "https://open.spotify.com/album/1CBELvMmpFlAwF0j2YiveM"
+      },
+      "artists": [
+        {
+          "name": "Piper Williamson",
+          "url": "https://open.spotify.com/artist/5ahbWWBc8VL95P5BG7Miai"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222101,
+      "name": "You Must Believe In Spring",
+      "url": "https://open.spotify.com/track/0vVpu5nKzGGNRgnBhei5Vc"
     },
     {
       "album": {

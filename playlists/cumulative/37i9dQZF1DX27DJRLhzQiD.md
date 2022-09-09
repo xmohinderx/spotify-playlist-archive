@@ -2,9 +2,9 @@
 
 ### [EQUAL Andes](https://open.spotify.com/playlist/37i9dQZF1DX27DJRLhzQiD)
 
-> Milena Warthon y más mujeres, a todo volumen.
+> Andrekza y más mujeres, a todo volumen.
 
-113 songs - 6 hr 37 min - [published](https://open.spotify.com/playlist/4ig5nNsfONZJzmj3q1Nolg)
+115 songs - 6 hr 42 min - [published](https://open.spotify.com/playlist/4ig5nNsfONZJzmj3q1Nolg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Agua de Mar](https://open.spotify.com/track/5gIgObxUAIAvUqBW59uujT) | [Milena Warthon](https://open.spotify.com/artist/65vjAwgtLCwB1nQE7V5eMd) | [Agua de Mar](https://open.spotify.com/album/3o1hlsCJ1MdPQjQgomvF42) | 3:41 | 2022-01-05 |  |
 | [Alguien](https://open.spotify.com/track/06GNb7cUCN6YTQmzfFd2m1) | [Amy Gutierrez](https://open.spotify.com/artist/1jrfEx1kZc8BNPLQDC7kVR) | [Alguien](https://open.spotify.com/album/6Tm5rVXr3ofn5d5vK8U6ie) | 4:32 | 2022-01-05 |  |
 | [Amarte Duele Así](https://open.spotify.com/track/35SW0fa2wxR7Jc7bqbt80n) | [Gaby Zambrano](https://open.spotify.com/artist/4jIRqX8X6rSrmxIIl1ytFX) | [Amarte Duele Así](https://open.spotify.com/album/5OqvTYnHOD4COdn8vxn021) | 4:28 | 2022-01-05 |  |
+| [AMOR TRISTE](https://open.spotify.com/track/7mI2XiWxINozftY8mzQqKR) | [Fiebre](https://open.spotify.com/artist/2C0r0f1ek76DLNLb6ls8ro) | [AMOR TRISTE](https://open.spotify.com/album/5YEsrR9xLRIFWRrQi8OGF4) | 3:02 | 2022-09-07 |  |
 | [Anestesia](https://open.spotify.com/track/5ro0BttdQXF8ElE53ixJ5h) | [Ceci Juno](https://open.spotify.com/artist/1ej99EpQv6okGltIakeNFu) | [Temporal](https://open.spotify.com/album/783Y6IMcxDPLDkFVKSXSXi) | 3:43 | 2022-04-29 |  |
 | [Aunque No Sea Conmigo](https://open.spotify.com/track/6GfqNqXkAofNOakU77MWEb) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Aunque No Sea Conmigo](https://open.spotify.com/album/1nv68APHpQMhYtlqln442M) | 2:59 | 2022-02-02 | 2022-04-09 |
 | [Bombón](https://open.spotify.com/track/2DAiAzKG0yBmM72w7QNgYi) | [Leslie Shaw](https://open.spotify.com/artist/3bAPo06XsUX6fo8iHYUqH7) | [Yo Soy Leslie Shaw](https://open.spotify.com/album/5TjKXKAdS9apvTREgGp7kk) | 3:17 | 2022-01-05 | 2022-02-03 |
@@ -69,11 +70,11 @@
 | [Malo tu corazon](https://open.spotify.com/track/0duUu4jrUUzJzS0XyB9ri2) | [Amaranta](https://open.spotify.com/artist/18MbBAbtk2Knvmk75JXFqd) | [Gneraciones I](https://open.spotify.com/album/1yXLurSOgiWPywuZRSgk7R) | 4:18 | 2022-01-05 | 2022-07-29 |
 | [Malo tu corazon](https://open.spotify.com/track/4s5AbfnGmq1oRB4cTrR41M) | [Amaranta](https://open.spotify.com/artist/18MbBAbtk2Knvmk75JXFqd) | [GENERACIONES \- I](https://open.spotify.com/album/2znOsynR8x4Lhi8T3Jmjh3) | 4:18 | 2022-07-06 |  |
 | [MARGARITA](https://open.spotify.com/track/308riuOIFK07a1PV34B0rt) | [Itzza Primera](https://open.spotify.com/artist/0PlTbBrPOOOmJzprmZ4cdM) | [MARGARITA](https://open.spotify.com/album/1eyhaoTknvItzUpYYLmx6S) | 2:08 | 2022-04-22 |  |
-| [Mi Puerto](https://open.spotify.com/track/2wh6HyExhr98sPSheAujlZ) | [Mirella Cesa](https://open.spotify.com/artist/72c8wfi2kFbRPRLuzT4rVj) | [Mi Puerto](https://open.spotify.com/album/3scDuyV2APpWofquaEGNTP) | 3:08 | 2022-02-02 |  |
+| [Mi Puerto](https://open.spotify.com/track/2wh6HyExhr98sPSheAujlZ) | [Mirella Cesa](https://open.spotify.com/artist/72c8wfi2kFbRPRLuzT4rVj) | [Mi Puerto](https://open.spotify.com/album/3scDuyV2APpWofquaEGNTP) | 3:08 | 2022-02-02 | 2022-09-09 |
 | [Mienteme](https://open.spotify.com/track/1FRXYqJfNWcNCsuvsAPtHa) | [Katie Angel](https://open.spotify.com/artist/0yLrby88zlSxFax5EMnTGf) | [Game Over](https://open.spotify.com/album/1WI4WQY8cAYwofWkmqyZm9) | 2:24 | 2022-02-02 |  |
 | [Mientras Tanto](https://open.spotify.com/track/50Ve3fq8jlArT2uzM8nJ71) | [Lorena Blume](https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W) | [Mientras Tanto](https://open.spotify.com/album/1bKscSfVTBCX6uutg7DakL) | 2:16 | 2022-01-05 | 2022-02-03 |
 | [Might Forgive You](https://open.spotify.com/track/3cqriOBTkCgxoNWmH8Eq4o) | [Neoma](https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip) | [Might Forgive You / Tkm](https://open.spotify.com/album/2AshOHb8iyEpEUNSlENZuj) | 4:09 | 2022-02-02 | 2022-04-07 |
-| [Mil Curitas](https://open.spotify.com/track/4VNLSG0SHlSrFPvBiFA9ks) | [Andrekza](https://open.spotify.com/artist/7K2ZrWY8iteGlM7G4V9B0s) | [Cassette](https://open.spotify.com/album/2lTCkJLh11fjo87tpgm8GQ) | 2:16 | 2022-04-08 | 2022-04-29 |
+| [Mil Curitas](https://open.spotify.com/track/4VNLSG0SHlSrFPvBiFA9ks) | [Andrekza](https://open.spotify.com/artist/7K2ZrWY8iteGlM7G4V9B0s) | [Cassette](https://open.spotify.com/album/2lTCkJLh11fjo87tpgm8GQ) | 2:16 | 2022-04-08 |  |
 | [Milonga de mis amores](https://open.spotify.com/track/1WCnRsEqCO8PMnQpbpvYj7) | [Susana Baca](https://open.spotify.com/artist/1DiaZsjdOzFCdk7Dw9KIs0) | [Palabras Urgentes](https://open.spotify.com/album/3PIiANhzamtMfImOYPTXxs) | 2:38 | 2022-01-05 | 2022-02-03 |
 | [Mix Rocio Durcal: La Gata Bajo la Lluvia / Como Han Pasado los Años / Costumbres](https://open.spotify.com/track/5Vube3wJSuVrzTntOpCp2Y) | [Cielo Torres](https://open.spotify.com/artist/7AqX9JGo4WdLp5gPNSRoDJ), [Bryan Arambulo](https://open.spotify.com/artist/6q6LbyDaoIKIJh7b6STyhs) | [Mix Rocio Durcal: La Gata Bajo la Lluvia / Como Han Pasado los Años / Costumbres](https://open.spotify.com/album/2nxq09nZ3xzVxwXNEfhuG7) | 4:57 | 2022-01-05 | 2022-02-03 |
 | [Negra Presentuosa](https://open.spotify.com/track/3jooX1EZOvGdaYaG52c6YS) | [Susana Baca](https://open.spotify.com/artist/1DiaZsjdOzFCdk7Dw9KIs0) | [Susana Baca](https://open.spotify.com/album/5rvmqZXWJaqmZC2FVzz4WS) | 4:16 | 2022-07-06 |  |
@@ -84,7 +85,7 @@
 | [Nunca Es Suficiente](https://open.spotify.com/track/5bNZVcZIPFX9eyeCzsjEUz) | [Cielo Torres](https://open.spotify.com/artist/7AqX9JGo4WdLp5gPNSRoDJ) | [Nunca Es Suficiente](https://open.spotify.com/album/22qXCxQhiH4Cg0TAqHYbOt) | 4:32 | 2022-01-05 | 2022-07-29 |
 | [Nunca Pense Llorar](https://open.spotify.com/track/3oXF0sRycbyJUDRd5BqTUw) | [Rossy War y Su Banda Kaliente](https://open.spotify.com/artist/04laTTTa6l3hNn8a1EG7UQ) | [Como un Dulce Poema, Vol\. 3](https://open.spotify.com/album/0XdMiGlG64yiq2Np190XbY) | 4:09 | 2022-01-05 |  |
 | [Obscuro Obituario](https://open.spotify.com/track/408zijg9l4YdpENJB4eIsi) | [Maria Usbeck](https://open.spotify.com/artist/16pdeeyke2dzEJXSj0MPft) | [Obscuro Obituario](https://open.spotify.com/album/1jVABPpRra4c76wXbFMybc) | 4:02 | 2022-02-02 | 2022-07-29 |
-| [Obscuro Obituario](https://open.spotify.com/track/44ljBuq92yekvBQEcEa4cf) | [Maria Usbeck](https://open.spotify.com/artist/16pdeeyke2dzEJXSj0MPft) | [Envejeciendo](https://open.spotify.com/album/1ZNzA90PfZbJzmSFlWAO1k) | 4:02 | 2022-07-06 |  |
+| [Obscuro Obituario](https://open.spotify.com/track/44ljBuq92yekvBQEcEa4cf) | [Maria Usbeck](https://open.spotify.com/artist/16pdeeyke2dzEJXSj0MPft) | [Envejeciendo](https://open.spotify.com/album/1ZNzA90PfZbJzmSFlWAO1k) | 4:02 | 2022-07-06 | 2022-09-09 |
 | [Obsesión](https://open.spotify.com/track/0ssoWr03PfMCYJuTuLOt7a) | [Maricarmen Marin](https://open.spotify.com/artist/30RnihWZIvAL4xTLSj0Caz) | [Obsesión](https://open.spotify.com/album/59LEPhlKfkO0kCtXqqvL1f) | 3:39 | 2022-01-05 | 2022-06-01 |
 | [Obviamente](https://open.spotify.com/track/3UhsarKtHIgNy55wJxIBgZ) | [Corina Smith](https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8) | [Obviamente](https://open.spotify.com/album/01Atbg1GXw0B132XzXQ1zZ) | 2:49 | 2022-02-02 | 2022-07-07 |
 | [Olvidarte \- Acústico](https://open.spotify.com/track/3TDdgMduoqxrhNlcv7Nl7U) | [Nicole Favre](https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1), [Carlos Colosio](https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au) | [Y Te Lo Digo Yo \(Acústico\)](https://open.spotify.com/album/2CONBG62tq9P6LsBri9yIS) | 3:20 | 2022-01-05 | 2022-02-03 |
@@ -99,7 +100,7 @@
 | [Refugio](https://open.spotify.com/track/5iGcOpA2ZVzmpi5gqjHQEA) | [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Refugio](https://open.spotify.com/album/0USsWJfpUn9FLFTy4TaImn) | 3:13 | 2022-03-25 |  |
 | [Repítelo](https://open.spotify.com/track/5IDjFFu1TMknvgKVAQ1CRX) | [Nicole Favre](https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1), [Joey Montana](https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX) | [Repítelo](https://open.spotify.com/album/1DNsExIHCqxBbQci0Qc5h3) | 3:21 | 2022-02-18 |  |
 | [Rompo y Tumbo](https://open.spotify.com/track/7pIKhHmZFaG6gVnIoE8fXQ) | [Lorena Blume](https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W), [K.maleon](https://open.spotify.com/artist/34fVIn6K9SI57pQ9nbsKa3) | [Rompo y Tumbo](https://open.spotify.com/album/17DDV6cMYnnz26zyF2szBE) | 3:17 | 2022-04-08 |  |
-| [Rush](https://open.spotify.com/track/5DwrfmCwc7ZtRl9vfYKOuv) | [Fiebre](https://open.spotify.com/artist/2C0r0f1ek76DLNLb6ls8ro) | [Petróleo](https://open.spotify.com/album/1nL346oiQcGOx91bEe3JQ0) | 3:15 | 2022-02-02 |  |
+| [Rush](https://open.spotify.com/track/5DwrfmCwc7ZtRl9vfYKOuv) | [Fiebre](https://open.spotify.com/artist/2C0r0f1ek76DLNLb6ls8ro) | [Petróleo](https://open.spotify.com/album/1nL346oiQcGOx91bEe3JQ0) | 3:15 | 2022-02-02 | 2022-09-09 |
 | [Se metieron en mi casa](https://open.spotify.com/track/4aGrgj6OiWW2HXnJzcGQd6) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [Se metieron en mi casa](https://open.spotify.com/album/230ShJkfGjkrKKu9Pqdft5) | 3:23 | 2022-03-08 | 2022-04-23 |
 | [Ser eternos](https://open.spotify.com/track/3fXdB2mUhgxd2sBGSfYL1r) | [LaTorre](https://open.spotify.com/artist/1jiEzyMQwfYcQtp19fwOTZ) | [Reencarnaciones](https://open.spotify.com/album/0PTSztSXIoufnzZWQB4L73) | 3:40 | 2022-02-02 | 2022-03-09 |
 | [Señor Mentira](https://open.spotify.com/track/1euUy5iIipadV7jrHQRiYE) | [Daniela Darcourt](https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR) | [Esa Soy Yo](https://open.spotify.com/album/5qPa8E6bhoC1iCGaJOvhzW) | 4:29 | 2022-01-05 | 2022-07-29 |
@@ -114,6 +115,7 @@
 | [Tiempo](https://open.spotify.com/track/0nxRS0tAb7MgNOPSXsstHf) | [Asmir Young](https://open.spotify.com/artist/2oUCnlGXMjbBgRBab3vb8E) | [Tiempo](https://open.spotify.com/album/0NdoOJmUmN1RMfG5eXyKVN) | 2:26 | 2022-01-05 | 2022-03-09 |
 | [Tiempo](https://open.spotify.com/track/1nsiPGzcLFP9upVrzleLRW) | [Asmir Young](https://open.spotify.com/artist/2oUCnlGXMjbBgRBab3vb8E) | [Años Luz](https://open.spotify.com/album/0ohYJclEYAy8q6SkYAbXAR) | 2:26 | 2022-03-08 |  |
 | [Tus Ojos](https://open.spotify.com/track/0s4Ii0CKY34yDgppbLxCc2) | [Diveana](https://open.spotify.com/artist/41fGnoX6m27IaN3vAW2knx) | [Diveana Exitos \(Tecno Caribe\)](https://open.spotify.com/album/533Fkva8B2RywHUEW9b8Zg) | 4:30 | 2022-02-02 | 2022-03-09 |
+| [TÉ](https://open.spotify.com/track/3qXG5PejI9Z8ZFdfjrtZOQ) | [Andrekza](https://open.spotify.com/artist/7K2ZrWY8iteGlM7G4V9B0s) | [Cassette](https://open.spotify.com/album/2lTCkJLh11fjo87tpgm8GQ) | 2:34 | 2022-09-07 |  |
 | [Uno Más Uno](https://open.spotify.com/track/2EI0oMlblptqVqHRo05UdT) | [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Uno Más Uno](https://open.spotify.com/album/4zwAsG8qj3qekA4MUngiov) | 3:09 | 2022-02-02 | 2022-04-07 |
 | [Vivir Contigo](https://open.spotify.com/track/0XB66yNWY2LGLZrurpSkLG) | [Luz Pinos](https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM) | [Vivir Contigo](https://open.spotify.com/album/1QGGfBqYnDq2uwlVMDHLjs) | 4:24 | 2022-03-08 |  |
 | [Vuelve Conmigo](https://open.spotify.com/track/2BC7i4R4VYEpS4Z7n5DnEk) | [Agrupación Lérida](https://open.spotify.com/artist/69G64cEF3dvIU24OpNkDp6) | [Vuelve Conmigo](https://open.spotify.com/album/7MzVUXfTzdZelck07TcVt5) | 3:44 | 2022-01-05 |  |

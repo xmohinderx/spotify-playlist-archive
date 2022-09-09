@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Italy.
 
-885 songs - 1 day 21 hr 27 min - [published](https://open.spotify.com/playlist/59PmkiS91CCypdpv0uCKHo)
+886 songs - 1 day 21 hr 30 min - [published](https://open.spotify.com/playlist/59PmkiS91CCypdpv0uCKHo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -244,6 +244,7 @@
 | [Eclissi \(feat\. Neffa\)](https://open.spotify.com/track/1lV5bvVyZdeWuetLyX9BLH) | [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK), [Neffa](https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF) | [Eclissi \(feat\. Neffa\)](https://open.spotify.com/album/2T9HGGzn2cmF27zrUTHHN0) | 2:40 | 2022-04-17 | 2022-04-19 |
 | [Eclissi \(feat\. Neffa\)](https://open.spotify.com/track/2hgeR92aGWwz0ymQfwbIk8) | [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK), [Neffa](https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF) | [Eclissi](https://open.spotify.com/album/0VliboIrLzdC2Qgjdm5V4S) | 2:40 | 2022-05-14 | 2022-05-30 |
 | [Effe](https://open.spotify.com/track/56nvQibJaC1V84wVMqA3Ck) | [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF) | [Untouchable](https://open.spotify.com/album/3qfHiYzq7kiJ1JkyCXNGMC) | 2:31 | 2021-06-06 | 2021-08-02 |
+| [EGO](https://open.spotify.com/track/0D7gNQErvyNXUo8fwhJtiA) | [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0) | [Sottozero](https://open.spotify.com/album/48LCLFZnK3dUANh9wnXGMS) | 2:51 | 2022-09-08 |  |
 | [El Diablo](https://open.spotify.com/track/2fuRs5oQvjue4tXAxQ15XJ) | [Fabri Fibra](https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC) | [Caos](https://open.spotify.com/album/3uiWXB4lUCGo3QHxMVxGEB) | 2:31 | 2022-03-20 | 2022-03-24 |
 | [Enemy \(with JID\) \- from the series Arcane League of Legends](https://open.spotify.com/track/1HhNoOuqm1a5MXYEgAFl8o) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Mercury \- Act 1](https://open.spotify.com/album/4fZIyJn2wKb51QPNnWYnqt) | 2:53 | 2022-02-05 | 2022-04-10 |
 | [Enemy \(with JID\) \- from the series Arcane League of Legends](https://open.spotify.com/track/1r9xUipOqoNwggBpENDsvJ) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Enemy \(with JID\) \[from the series Arcane League of Legends\]](https://open.spotify.com/album/1bTgKomQYSkKYPD9UI9W4b) | 2:53 | 2021-12-01 | 2022-02-06 |
@@ -649,7 +650,7 @@
 | [Pensando a lei](https://open.spotify.com/track/4Yi4RRhp3nfKR1FDbXlHBp) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Pensando a lei](https://open.spotify.com/album/16TddOdM2qRyKoyjy05nQn) | 2:56 | 2022-02-12 | 2022-07-17 |
 | [Pepas](https://open.spotify.com/track/2B4GHvToeLTOBB4QLzW3Ni) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [La 167](https://open.spotify.com/album/0T6QxdJZwYrXPHd829SnqK) | 4:47 | 2021-10-03 | 2022-02-05 |
 | [Pepas](https://open.spotify.com/track/5fwSHlTEWpluwOM0Sxnh5k) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Pepas](https://open.spotify.com/album/2A5ksnhz7YWbRLvFMjX1j1) | 4:47 | 2021-08-25 | 2021-10-03 |
-| [Per Averti \(feat\. Rkomi\)](https://open.spotify.com/track/6oHLm5t10rVyFzTdYu0xGx) | [Pyrex](https://open.spotify.com/artist/7h1amg0X7Q5d0D5KfuyKTg), [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3) | [Per Averti \(feat\. Rkomi\)](https://open.spotify.com/album/4ZXWhGsqfY4pyJIxmN53Kp) | 3:27 | 2022-09-03 |  |
+| [Per Averti \(feat\. Rkomi\)](https://open.spotify.com/track/6oHLm5t10rVyFzTdYu0xGx) | [Pyrex](https://open.spotify.com/artist/7h1amg0X7Q5d0D5KfuyKTg), [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3) | [Per Averti \(feat\. Rkomi\)](https://open.spotify.com/album/4ZXWhGsqfY4pyJIxmN53Kp) | 3:27 | 2022-09-03 | 2022-09-09 |
 | [Perfetta Così](https://open.spotify.com/track/3pC3gQ9YLBBVDgjzPdbF08) | [Aka 7even](https://open.spotify.com/artist/0lQtBhjEJpoOroQS6fbWMc) | [Perfetta Così](https://open.spotify.com/album/0LSw5mZvjwokV29c3J4ZFS) | 2:49 | 2022-02-04 | 2022-03-13 |
 | [perso nel buio \(con Madame\)](https://open.spotify.com/track/3M5rbwyOMpjb3Ge277ILVT) | [sangiovanni](https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP), [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3) | [sangiovanni](https://open.spotify.com/album/20ka24Xscw75vAaBohAA38) | 2:50 | 2021-11-14 | 2022-01-30 |
 | [Pesche](https://open.spotify.com/track/4ILtwYPIonCeRGCIiXAASp) | [Federico Rossi](https://open.spotify.com/artist/27cy5lbFuVKPVSCD36bmuu) | [Pesche](https://open.spotify.com/album/2nq3xlzyNFqUcN8QjvT1Vp) | 2:49 | 2021-05-22 | 2021-07-25 |

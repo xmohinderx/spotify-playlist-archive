@@ -4,7 +4,7 @@
 
 > Canciones instrumentales de guitarra.
 
-145 songs - 7 hr 2 min - [published](https://open.spotify.com/playlist/284nn8KHwKE48t5E3olrdV)
+146 songs - 7 hr 4 min - [published](https://open.spotify.com/playlist/284nn8KHwKE48t5E3olrdV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,6 +139,7 @@
 | [Todo Es Mi Culpa](https://open.spotify.com/track/5YEiLgjWOoWQdmy8ziS42B) | [Dominic Ruiz](https://open.spotify.com/artist/4x3JdU2gxNgHzMdY61pCOx) | [Todo Es Mi Culpa](https://open.spotify.com/album/2i3eS5YpZIAjskFF5mffpd) | 3:24 | 2022-07-15 |  |
 | [tranquila](https://open.spotify.com/track/0WfGcbNKdff8Ud2kQVW2nz) | [Rafaela Moreno](https://open.spotify.com/artist/5wJ8AHtbq8pem9cFX6QIeF) | [tranquila](https://open.spotify.com/album/2SkyKZ3eE11Hyrg3E1BZZy) | 2:49 | 2022-07-15 |  |
 | [Un Dia de Novembre](https://open.spotify.com/track/2JuotGupvzrnGSYSx31N1o) | [Leo Brouwer](https://open.spotify.com/artist/4PdumqEAuo2EQzukVWnxa0), [Clara Jansen](https://open.spotify.com/artist/36naeGyvAeqzuXPIVtAY6C) | [Romance d'amour](https://open.spotify.com/album/20eQWEKfXxNTeFl34aKtmr) | 2:11 | 2022-07-15 |  |
+| [Unknown](https://open.spotify.com/track/3GAGou6aIHq6LpVOWat8yl) | [Atacustico](https://open.spotify.com/artist/0rvubIwf5v5p5KqyCuVZmk) | [Unknown](https://open.spotify.com/album/2bOqx8yL6KpAUcNtv8RhO2) | 2:27 | 2022-09-09 |  |
 | [Vals del Poniente](https://open.spotify.com/track/0qV4MeBsY9MvlMVoIGMXi0) | [Pablo Briceño](https://open.spotify.com/artist/4SoRek2FECACQBVjfhZ3sQ), [Manuel Galán](https://open.spotify.com/artist/29d8S9wbsggVBbr2YXxjfM) | [Vals del Poniente](https://open.spotify.com/album/1LsfF1UWdBt9D0VrNfL6rE) | 2:02 | 2022-07-15 |  |
 | [Valsa e Vinho](https://open.spotify.com/track/4992uwyEYOstUKzPgdPVR3) | [Nelson Gomes](https://open.spotify.com/artist/1OSiaLKfv7utlBDRS3Qr31) | [Valsa e Vinho](https://open.spotify.com/album/0LNkP579n9idgfPSrTObSV) | 2:38 | 2022-07-15 |  |
 | [Velvet Morning](https://open.spotify.com/track/6YNlei2JlZDPL0E0PgEiK1) | [Amma Lerato](https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL) | [Velvet Morning](https://open.spotify.com/album/6E4YOwkbhPKrMYsFiCPACh) | 2:28 | 2022-08-19 |  |

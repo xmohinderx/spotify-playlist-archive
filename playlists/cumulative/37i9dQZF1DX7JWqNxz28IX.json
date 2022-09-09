@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-09",
-  "description": "\ud83e\ude79 (in cover, fasma)",
+  "description": "\ud83e\ude79 (in cover, kid vice)",
   "name": "ragazzo triste",
   "published_playlist_ids": [
     "7fBkDuj9jj7rj8liyTLX4S"
@@ -66,6 +66,24 @@
     },
     {
       "album": {
+        "name": "Spazio",
+        "url": "https://open.spotify.com/album/1rF5ezgSerqkUK1Nc9Ft6p"
+      },
+      "artists": [
+        {
+          "name": "ARIETE",
+          "url": "https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179541,
+      "name": "Amianto",
+      "url": "https://open.spotify.com/track/5FeDmOkJlmFcb8arUhMi87"
+    },
+    {
+      "album": {
         "name": "OSIRIDE",
         "url": "https://open.spotify.com/album/6jmB6f0AiVAAYZRAISXHwq"
       },
@@ -121,6 +139,24 @@
       "duration_ms": 174549,
       "name": "Aurora",
       "url": "https://open.spotify.com/track/5yhmgsfH8EhS0mAOIb1n6T"
+    },
+    {
+      "album": {
+        "name": "Autodistruzione",
+        "url": "https://open.spotify.com/album/3Ul8ixMEyurYLf4y2qMDX1"
+      },
+      "artists": [
+        {
+          "name": "AUTOSTIMA",
+          "url": "https://open.spotify.com/artist/5kXkrD3qvUVaANqQoPCbae"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154435,
+      "name": "Autodistruzione",
+      "url": "https://open.spotify.com/track/3IE4l7yd9Ez4a0XXjRvQDF"
     },
     {
       "album": {
@@ -2078,6 +2114,28 @@
     },
     {
       "album": {
+        "name": "SOTTOTERRA//",
+        "url": "https://open.spotify.com/album/160CqdV8jR90WFvl0jbMDs"
+      },
+      "artists": [
+        {
+          "name": "Kid Vice",
+          "url": "https://open.spotify.com/artist/3bnPjo8qyh6NrIw5PdRpBo"
+        },
+        {
+          "name": "Jack Sapienza",
+          "url": "https://open.spotify.com/artist/5iZW5E9q0Iv8t0Phtp887K"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143110,
+      "name": "SOTTOTERRA//",
+      "url": "https://open.spotify.com/track/5rnHCNcAvweaHKlq3o3a2u"
+    },
+    {
+      "album": {
         "name": "Spalla Destra",
         "url": "https://open.spotify.com/album/1u5GTFReIuhmN8tBp7T0KD"
       },
@@ -2093,6 +2151,24 @@
       "duration_ms": 177777,
       "name": "Spalla Destra",
       "url": "https://open.spotify.com/track/6dEDitKtQNG6GQzwBN2vvb"
+    },
+    {
+      "album": {
+        "name": "SPECCHIO",
+        "url": "https://open.spotify.com/album/2siu332vR3M1qf1F9D7LY3"
+      },
+      "artists": [
+        {
+          "name": "ARIETE",
+          "url": "https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91006,
+      "name": "SPECCHIO (interludio)",
+      "url": "https://open.spotify.com/track/4ipopm8ZXDTY9a03gs2M5j"
     },
     {
       "album": {
@@ -2299,7 +2375,7 @@
       ],
       "date_added": "2022-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 170974,
       "name": "VIVERE X SEMPRE",
       "url": "https://open.spotify.com/track/3qceQin2x7gy7OipnI0B9Z"
@@ -2357,6 +2433,24 @@
       "duration_ms": 136806,
       "name": "x dimenticarti",
       "url": "https://open.spotify.com/track/36yVUCU4BXMPTlZKXTLNAS"
+    },
+    {
+      "album": {
+        "name": "X4",
+        "url": "https://open.spotify.com/album/49Qeb8YVPKSN3OBkvwXyWl"
+      },
+      "artists": [
+        {
+          "name": "Alek",
+          "url": "https://open.spotify.com/artist/6JWeknFiJE42BXED1AGOvY"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154390,
+      "name": "X4",
+      "url": "https://open.spotify.com/track/57PzEk2wg7T1JtKwwhBpIT"
     },
     {
       "album": {

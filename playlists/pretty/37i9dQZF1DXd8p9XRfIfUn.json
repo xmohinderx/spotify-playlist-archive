@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor de la nueva. Foto: paopao",
-  "num_followers": 58522,
+  "num_followers": 58563,
   "original_name": "Academia Reggaet\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjA3NjgwMCwwMDAwMDAwMDcwNjVkMjYzMmE0OGEzZmE4ZjUzNjE0Mjc3NjNiZGRj",
+  "snapshot_id": "MTY2MjA3NjgwMCwwMDAwMDAwMDExMjAyZjNkNzIzMzA3NGFlZDFiNDI4Y2JhYTM4NTI4",
   "tracks": [
     {
       "added_at": "2022-09-02 00:00:00",
@@ -851,6 +851,22 @@
     {
       "added_at": "2022-09-02 00:00:00",
       "album": {
+        "name": "Qu\u00e9 Rico Repetirlo",
+        "url": "https://open.spotify.com/album/20yLO5duZcBzRnMnWmVZBI"
+      },
+      "artists": [
+        {
+          "name": "Andy Rivera",
+          "url": "https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2"
+        }
+      ],
+      "duration_ms": 186840,
+      "name": "Qu\u00e9 Rico Repetirlo",
+      "url": "https://open.spotify.com/track/63tc67n05008BFsuVhGgNb"
+    },
+    {
+      "added_at": "2022-09-02 00:00:00",
+      "album": {
         "name": "Full Pioli (feat. Best)",
         "url": "https://open.spotify.com/album/7gNGbhPE1Uy1NDCwI2sSdb"
       },
@@ -879,22 +895,6 @@
     {
       "added_at": "2022-09-02 00:00:00",
       "album": {
-        "name": "Qu\u00e9 Rico Repetirlo",
-        "url": "https://open.spotify.com/album/20yLO5duZcBzRnMnWmVZBI"
-      },
-      "artists": [
-        {
-          "name": "Andy Rivera",
-          "url": "https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2"
-        }
-      ],
-      "duration_ms": 186840,
-      "name": "Qu\u00e9 Rico Repetirlo",
-      "url": "https://open.spotify.com/track/63tc67n05008BFsuVhGgNb"
-    },
-    {
-      "added_at": "2022-09-02 00:00:00",
-      "album": {
         "name": "Uno Pal Otro",
         "url": "https://open.spotify.com/album/6GcnRKDXwkH1oCeCA2BnJp"
       },
@@ -907,6 +907,30 @@
       "duration_ms": 217080,
       "name": "Uno Pal Otro",
       "url": "https://open.spotify.com/track/60iAEGo1UgPdxSfHEFe66w"
+    },
+    {
+      "added_at": "2022-09-02 00:00:00",
+      "album": {
+        "name": "Mi Fanatica",
+        "url": "https://open.spotify.com/album/5w21QO36y3jDzjy0QkhduY"
+      },
+      "artists": [
+        {
+          "name": "Jere Klein",
+          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
+        },
+        {
+          "name": "Bayriton",
+          "url": "https://open.spotify.com/artist/29fcEFHRcOhfTYXvS8POPV"
+        },
+        {
+          "name": "Jairo Vera",
+          "url": "https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc"
+        }
+      ],
+      "duration_ms": 223283,
+      "name": "Mi Fanatica",
+      "url": "https://open.spotify.com/track/4M3UPGNere257tK0Qguga2"
     },
     {
       "added_at": "2022-09-02 00:00:00",
@@ -943,30 +967,6 @@
       "duration_ms": 260000,
       "name": "La Nueva (feat. Blessd, Nath & Natan & Shander)",
       "url": "https://open.spotify.com/track/1UT1Li3OGXxO5Z0x4Fsfp3"
-    },
-    {
-      "added_at": "2022-09-02 00:00:00",
-      "album": {
-        "name": "Mi Fanatica",
-        "url": "https://open.spotify.com/album/5w21QO36y3jDzjy0QkhduY"
-      },
-      "artists": [
-        {
-          "name": "Jere Klein",
-          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
-        },
-        {
-          "name": "Bayriton",
-          "url": "https://open.spotify.com/artist/29fcEFHRcOhfTYXvS8POPV"
-        },
-        {
-          "name": "Jairo Vera",
-          "url": "https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc"
-        }
-      ],
-      "duration_ms": 223283,
-      "name": "Mi Fanatica",
-      "url": "https://open.spotify.com/track/4M3UPGNere257tK0Qguga2"
     },
     {
       "added_at": "2022-09-02 00:00:00",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2022-09-02 00:00:00",
       "album": {
-        "name": "IMPOSIBLE",
-        "url": "https://open.spotify.com/album/4QerNrI0xPSnpiny4bROq6"
-      },
-      "artists": [
-        {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
-        }
-      ],
-      "duration_ms": 187411,
-      "name": "IMPOSIBLE",
-      "url": "https://open.spotify.com/track/5fMo4acbRCkXZRsSuwxYZX"
-    },
-    {
-      "added_at": "2022-09-02 00:00:00",
-      "album": {
         "name": "Guilla",
         "url": "https://open.spotify.com/album/2wvlZcsnGAzbRx6C1wUYtw"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 139428,
       "name": "Guilla",
       "url": "https://open.spotify.com/track/4xTZL1wNVCtCrqJQUHqHdc"
+    },
+    {
+      "added_at": "2022-09-02 00:00:00",
+      "album": {
+        "name": "IMPOSIBLE",
+        "url": "https://open.spotify.com/album/4QerNrI0xPSnpiny4bROq6"
+      },
+      "artists": [
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        }
+      ],
+      "duration_ms": 187411,
+      "name": "IMPOSIBLE",
+      "url": "https://open.spotify.com/track/5fMo4acbRCkXZRsSuwxYZX"
     },
     {
       "added_at": "2022-09-02 00:00:00",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2022-09-02 00:00:00",
       "album": {
-        "name": "La Botella",
-        "url": "https://open.spotify.com/album/3mkTkvsJwApPfUAJQuTrOJ"
-      },
-      "artists": [
-        {
-          "name": "El Clooy",
-          "url": "https://open.spotify.com/artist/2iBSDwlk9bvp1aKT4ubGoC"
-        }
-      ],
-      "duration_ms": 190285,
-      "name": "La Botella",
-      "url": "https://open.spotify.com/track/5YRoLVSBCQmQAYCVi5Et95"
-    },
-    {
-      "added_at": "2022-09-02 00:00:00",
-      "album": {
         "name": "Manzana",
         "url": "https://open.spotify.com/album/0LozjoHXdTejrX64kaMb70"
       },
@@ -1179,22 +1163,6 @@
       "duration_ms": 173936,
       "name": "Manzana",
       "url": "https://open.spotify.com/track/1BMoI40IIeE8hUtjSy8jQz"
-    },
-    {
-      "added_at": "2022-09-02 00:00:00",
-      "album": {
-        "name": "Verificada",
-        "url": "https://open.spotify.com/album/4tIqAcRBIsjOU4kTHQZqwL"
-      },
-      "artists": [
-        {
-          "name": "Sael",
-          "url": "https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux"
-        }
-      ],
-      "duration_ms": 158546,
-      "name": "Verificada",
-      "url": "https://open.spotify.com/track/4DuyqxuT3sGiGlZJi5dpn4"
     },
     {
       "added_at": "2022-09-02 00:00:00",
@@ -1215,6 +1183,38 @@
       "duration_ms": 164002,
       "name": "La Pr\u00e1ctica",
       "url": "https://open.spotify.com/track/0ZIfCr76uPGFOSZO2ex7Id"
+    },
+    {
+      "added_at": "2022-09-02 00:00:00",
+      "album": {
+        "name": "Verificada",
+        "url": "https://open.spotify.com/album/4tIqAcRBIsjOU4kTHQZqwL"
+      },
+      "artists": [
+        {
+          "name": "Sael",
+          "url": "https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux"
+        }
+      ],
+      "duration_ms": 158546,
+      "name": "Verificada",
+      "url": "https://open.spotify.com/track/4DuyqxuT3sGiGlZJi5dpn4"
+    },
+    {
+      "added_at": "2022-09-02 00:00:00",
+      "album": {
+        "name": "La Botella",
+        "url": "https://open.spotify.com/album/3mkTkvsJwApPfUAJQuTrOJ"
+      },
+      "artists": [
+        {
+          "name": "El Clooy",
+          "url": "https://open.spotify.com/artist/2iBSDwlk9bvp1aKT4ubGoC"
+        }
+      ],
+      "duration_ms": 190285,
+      "name": "La Botella",
+      "url": "https://open.spotify.com/track/5YRoLVSBCQmQAYCVi5Et95"
     }
   ],
   "unique_name": "Academia Reggaet\u00f3n",

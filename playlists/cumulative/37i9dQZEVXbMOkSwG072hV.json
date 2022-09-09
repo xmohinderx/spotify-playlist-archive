@@ -88,6 +88,50 @@
     },
     {
       "album": {
+        "name": "202",
+        "url": "https://open.spotify.com/album/5F5QjUVSgXHrXj7xbhSRW6"
+      },
+      "artists": [
+        {
+          "name": "Kweller",
+          "url": "https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07"
+        },
+        {
+          "name": "Enzo Cello",
+          "url": "https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "202",
+      "url": "https://open.spotify.com/track/3imzmQM2DPPVBLMiBBexRL"
+    },
+    {
+      "album": {
+        "name": "202 (Speed)",
+        "url": "https://open.spotify.com/album/6uH5sAKYYfL8BdqI2YOmhJ"
+      },
+      "artists": [
+        {
+          "name": "Kweller",
+          "url": "https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07"
+        },
+        {
+          "name": "Enzo Cello",
+          "url": "https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142006,
+      "name": "202 - Speed",
+      "url": "https://open.spotify.com/track/29wpflca4iReYa4UX7lSYg"
+    },
+    {
+      "album": {
         "name": "212",
         "url": "https://open.spotify.com/album/1fcZBsLGUUTI4qRWYsjOuN"
       },
@@ -143,6 +187,28 @@
       "duration_ms": 111145,
       "name": "A Cole\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/5Ezk6ZDIQ5BguYF8kzZmdi"
+    },
+    {
+      "album": {
+        "name": "A Culpa \u00c9 Tua Voc\u00ea Falou pra Fulana",
+        "url": "https://open.spotify.com/album/4GmjiPFA9UDECDAfdyXdxP"
+      },
+      "artists": [
+        {
+          "name": "Selminho DJ",
+          "url": "https://open.spotify.com/artist/1szIIFdhWodOHfQUDn39ib"
+        },
+        {
+          "name": "MC Durrony",
+          "url": "https://open.spotify.com/artist/2s1GtomGAJ3fnqQBkUXbIL"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139447,
+      "name": "A Culpa \u00c9 Tua Voc\u00ea Falou pra Fulana",
+      "url": "https://open.spotify.com/track/3jdvNmhtvtk9bFb3vb6E9s"
     },
     {
       "album": {
@@ -591,7 +657,7 @@
       ],
       "date_added": "2022-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 174786,
       "name": "Anestesiado",
       "url": "https://open.spotify.com/track/148IPSNoDbIEVdfwIIsxHx"
@@ -797,7 +863,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 261922,
       "name": "august",
       "url": "https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K"
@@ -1057,7 +1123,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 232066,
       "name": "Bad Habit",
       "url": "https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy"
@@ -1581,7 +1647,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 166706,
       "name": "BB (Garupa de Moto Amarela)",
       "url": "https://open.spotify.com/track/5iNreMqjehoEgXBnzU2Y5k"
@@ -2128,6 +2194,24 @@
     },
     {
       "album": {
+        "name": "Capit\u00e3o do Povo",
+        "url": "https://open.spotify.com/album/5v66fyDEsW1HYMfKPxAy3u"
+      },
+      "artists": [
+        {
+          "name": "Capit\u00e3o do Povo",
+          "url": "https://open.spotify.com/artist/3B3sVt5n7eQ1HBPYh9Wonq"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132439,
+      "name": "Capit\u00e3o do Povo",
+      "url": "https://open.spotify.com/track/0BiR2UP6b7TACgmYZaVwO4"
+    },
+    {
+      "album": {
         "name": "Captain (whistle)",
         "url": "https://open.spotify.com/album/32cbprgfOu2u1RoUzZ35mX"
       },
@@ -2453,7 +2537,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 176859,
       "name": "Come Back Home",
       "url": "https://open.spotify.com/track/1I4dwH7C0jBAEtz5DjlJgQ"
@@ -2565,6 +2649,28 @@
       "duration_ms": 138241,
       "name": "Cora\u00e7\u00e3o Acelera - Ao Vivo",
       "url": "https://open.spotify.com/track/3w4CHxKLiVw9H4ICobQEQK"
+    },
+    {
+      "album": {
+        "name": "LUAN CITY (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7z4PSl2TK6FVUlTjyVyRRX"
+      },
+      "artists": [
+        {
+          "name": "Luan Santana",
+          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
+        },
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209928,
+      "name": "CORA\u00c7\u00c3O CIGANO - Ao Vivo",
+      "url": "https://open.spotify.com/track/4vWh6tEfcLzdvYWp2IlOJS"
     },
     {
       "album": {
@@ -4682,6 +4788,42 @@
     },
     {
       "album": {
+        "name": "Hinos do Nosso Brasil",
+        "url": "https://open.spotify.com/album/7xUjGqnYOt7zmRvYyaod6v"
+      },
+      "artists": [
+        {
+          "name": "Orquestra de M\u00fasica Popular do Corpo de Bombeiros",
+          "url": "https://open.spotify.com/artist/3DfUrCrKDMZQD2n3CIXg9d"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280589,
+      "name": "Hino da Independ\u00eancia",
+      "url": "https://open.spotify.com/track/3Zmp5iduOCnTEI7JlhOVce"
+    },
+    {
+      "album": {
+        "name": "Hinos do Nosso Brasil",
+        "url": "https://open.spotify.com/album/7xUjGqnYOt7zmRvYyaod6v"
+      },
+      "artists": [
+        {
+          "name": "Orquestra de M\u00fasica Popular do Corpo de Bombeiros",
+          "url": "https://open.spotify.com/artist/3DfUrCrKDMZQD2n3CIXg9d"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215899,
+      "name": "Hino Nacional Brasileiro",
+      "url": "https://open.spotify.com/track/0nyKIW8tfXLMZRR8rMMu4s"
+    },
+    {
+      "album": {
         "name": "Hits 2021 (Mashup)",
         "url": "https://open.spotify.com/album/1d0uBY1kZF18Y3dRwCzafa"
       },
@@ -4759,7 +4901,7 @@
       ],
       "date_added": "2022-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 150113,
       "name": "HOJE NA CASA DO SEU Z\u00c9/AS MENINA DA QUEBRADA",
       "url": "https://open.spotify.com/track/6YbIKkdEC4KEm071UD9LVA"
@@ -5017,6 +5159,32 @@
       "duration_ms": 172639,
       "name": "Imagina A Sentada - Ao Vivo",
       "url": "https://open.spotify.com/track/0lxGtl0S9wO2LAFchHrEtM"
+    },
+    {
+      "album": {
+        "name": "Imprevisto",
+        "url": "https://open.spotify.com/album/4KbiGCm9vDI0dLXwGGXktY"
+      },
+      "artists": [
+        {
+          "name": "Yago Oproprio",
+          "url": "https://open.spotify.com/artist/7HoPy2YmahCCaYaFSFq497"
+        },
+        {
+          "name": "R\u00f4 Rosa",
+          "url": "https://open.spotify.com/artist/5Et1UarIEfiHvErAJSer9B"
+        },
+        {
+          "name": "Skeeter Beats",
+          "url": "https://open.spotify.com/artist/42xf1iqSOZluDWJ8RW2B9H"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139703,
+      "name": "Imprevisto",
+      "url": "https://open.spotify.com/track/0oZrvoCYEbKGCsU7cQqNnw"
     },
     {
       "album": {
@@ -5471,7 +5639,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 162637,
       "name": "La Bachata",
       "url": "https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u"
@@ -5695,7 +5863,7 @@
       ],
       "date_added": "2022-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 128000,
       "name": "Londres Freestyle",
       "url": "https://open.spotify.com/track/1lgavq2sDLrnD5h5BytyBr"
@@ -6457,7 +6625,7 @@
       ],
       "date_added": "2022-05-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 156480,
       "name": "MEGA DO TIMBALAND",
       "url": "https://open.spotify.com/track/6nm8bUIg4B4M2ssISWOJAG"
@@ -6641,7 +6809,7 @@
       ],
       "date_added": "2022-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 142839,
       "name": "METAMORPHOSIS",
       "url": "https://open.spotify.com/track/2ksyzVfU0WJoBpu8otr4pz"
@@ -6743,6 +6911,28 @@
       "duration_ms": 208007,
       "name": "Meu N\u00famero - Ao Vivo",
       "url": "https://open.spotify.com/track/3XF598RmEUF3XW4XKo1lyP"
+    },
+    {
+      "album": {
+        "name": "Michael Te Amo Jackson Te Amo Ama Shit Nenhuma",
+        "url": "https://open.spotify.com/album/3re0Tccmg9jd5i80DkLzm9"
+      },
+      "artists": [
+        {
+          "name": "Selminho DJ",
+          "url": "https://open.spotify.com/artist/1szIIFdhWodOHfQUDn39ib"
+        },
+        {
+          "name": "MC Durrony",
+          "url": "https://open.spotify.com/artist/2s1GtomGAJ3fnqQBkUXbIL"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91428,
+      "name": "Michael Te Amo Jackson Te Amo Ama Shit Nenhuma",
+      "url": "https://open.spotify.com/track/5RL3AThdhnOLWKd5pGLyaN"
     },
     {
       "album": {
@@ -7213,7 +7403,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 137462,
       "name": "MTG MALDI\u00c7\u00c3O ETERNA 1.0",
       "url": "https://open.spotify.com/track/2ISfZ6F3gjHu3edhQke8N2"
@@ -7875,7 +8065,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 115000,
       "name": "N\u00e3o Vou Assumir",
       "url": "https://open.spotify.com/track/3fHfkW6RleyejF0Y2Uljk3"
@@ -7953,6 +8143,28 @@
       "duration_ms": 169429,
       "name": "O Bumbum Dela Mexe",
       "url": "https://open.spotify.com/track/1Z7aVAlq3JafvSQA0eCe2y"
+    },
+    {
+      "album": {
+        "name": "O Mito Chegou",
+        "url": "https://open.spotify.com/album/4PbyCbCyQ7WM6NFcZEIYkE"
+      },
+      "artists": [
+        {
+          "name": "EL VENECO BRASIL",
+          "url": "https://open.spotify.com/artist/2WHdLhti6srH3ho2oEJV4u"
+        },
+        {
+          "name": "Vhero",
+          "url": "https://open.spotify.com/artist/5TiXZPSuQAFu4KOB5O4HrT"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192761,
+      "name": "O Mito Chegou",
+      "url": "https://open.spotify.com/track/4ketjl5Oy2qBIdDM2eP9Ne"
     },
     {
       "album": {
@@ -8639,7 +8851,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 194022,
       "name": "Pipoco",
       "url": "https://open.spotify.com/track/7AwVSKaQxpidrtYBerkHKk"
@@ -8924,6 +9136,28 @@
     },
     {
       "album": {
+        "name": "Posturad\u00e3o",
+        "url": "https://open.spotify.com/album/2IH59QF9TV9xbbtRAQKhEO"
+      },
+      "artists": [
+        {
+          "name": "DomLaike",
+          "url": "https://open.spotify.com/artist/4PzPx1yc3kGVo4EgCiLqCQ"
+        },
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162782,
+      "name": "Posturad\u00e3o",
+      "url": "https://open.spotify.com/track/0ToPj749UPF7MGE6KDyrIp"
+    },
+    {
+      "album": {
         "name": "O Melhor do Carnaval (Marchinhas)",
         "url": "https://open.spotify.com/album/4jkyhsRJ4oXtx384TvCrvr"
       },
@@ -8961,7 +9195,7 @@
       ],
       "date_added": "2022-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 115159,
       "name": "Problema \u00c9 Seu Se Voc\u00ea Se Envolveu",
       "url": "https://open.spotify.com/track/29EAHai6nLGH3BMo13HrDI"
@@ -9591,7 +9825,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 369493,
       "name": "Samba do Polly",
       "url": "https://open.spotify.com/track/5CJzNKWqr1gLUgZ2Yx7CZy"
@@ -10526,6 +10760,24 @@
     },
     {
       "album": {
+        "name": "Queen Radio: Volume 1",
+        "url": "https://open.spotify.com/album/1ia27ME4iQkoIyUHBnJqX6"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170977,
+      "name": "Super Freaky Girl",
+      "url": "https://open.spotify.com/track/2yjlYDiNiQkdxVqTlaSrlX"
+    },
+    {
+      "album": {
         "name": "Encanto (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR"
       },
@@ -10979,7 +11231,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 202562,
       "name": "Tem Cabar\u00e9 Essa Noite",
       "url": "https://open.spotify.com/track/25rz3D4oroFC0GXm3xFXnG"
@@ -11233,7 +11485,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-24",
+      "date_removed": null,
       "duration_ms": 220750,
       "name": "Those Eyes",
       "url": "https://open.spotify.com/track/2GThBgzZoZfz0lx1JjBwfe"
@@ -11997,7 +12249,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 123711,
       "name": "Vento Forte",
       "url": "https://open.spotify.com/track/5PSkF3QpVMlAx8U5Inxj39"
@@ -12644,6 +12896,24 @@
     },
     {
       "album": {
+        "name": "\u00c9 o Mito",
+        "url": "https://open.spotify.com/album/6ZVm8tcezQqV8Ta4nzH2sf"
+      },
+      "artists": [
+        {
+          "name": "DJ Rea\u00e7a",
+          "url": "https://open.spotify.com/artist/5FAyiWRD1bTtw1bu881k7T"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183509,
+      "name": "\u00c9 o Mito",
+      "url": "https://open.spotify.com/track/72A8rHS99kqVlOg2nwI7q7"
+    },
+    {
+      "album": {
         "name": "\u00c9 S\u00f3 Blus\u00e3o da Ecko e Bon\u00e9 da Lacoste Vs Putaria (feat. Mc Denny)",
         "url": "https://open.spotify.com/album/1hZBg3LJIEeqQf3WqcbCQf"
       },
@@ -12721,6 +12991,24 @@
       "duration_ms": 132283,
       "name": "\u00d4 M\u00e3e",
       "url": "https://open.spotify.com/track/37A1beEC95fCBRge23pSFT"
+    },
+    {
+      "album": {
+        "name": "HELP EVER HURT NEVER",
+        "url": "https://open.spotify.com/album/03QiFOKDh6xMiSTkOnsmMG"
+      },
+      "artists": [
+        {
+          "name": "Fujii Kaze",
+          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185573,
+      "name": "\u6b7b\u306c\u306e\u304c\u3044\u3044\u308f",
+      "url": "https://open.spotify.com/track/0HYAsQwJIO6FLqpyTeD3l6"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZEVXbMOkSwG072hV"

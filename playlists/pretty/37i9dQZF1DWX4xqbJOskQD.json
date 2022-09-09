@@ -1,12 +1,12 @@
 {
   "description": "The Mills Brothers, The Andrews Sisters and other classic vocal groups.",
-  "num_followers": 1206,
+  "num_followers": 1211,
   "original_name": "Close Harmony Vocals",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODQ5NTc0OSwwMDAwMDAwMDJmNmMwZDcxYTY0M2ZhMTI1YTA0NDZlNzI1MzAwNTE3",
+  "snapshot_id": "MTY0ODQ5NTc0OSwwMDAwMDAwMDdjYWE3ZDI0NmVlNzY0MzhjYmNhOWZhNzFkMjE4NTQ4",
   "tracks": [
     {
       "added_at": "2020-08-17 22:49:59",
@@ -127,22 +127,6 @@
     {
       "added_at": "2020-08-17 22:49:59",
       "album": {
-        "name": "The Anthology",
-        "url": "https://open.spotify.com/album/61rb02N7fHGie0DMqkOWE6"
-      },
-      "artists": [
-        {
-          "name": "The McGuire Sisters",
-          "url": "https://open.spotify.com/artist/6oXkzBf6bMupenvf4tKtmN"
-        }
-      ],
-      "duration_ms": 178066,
-      "name": "May You Always",
-      "url": "https://open.spotify.com/track/3VNjiS6wrDpESHRMvmqTYM"
-    },
-    {
-      "added_at": "2020-08-17 22:49:59",
-      "album": {
         "name": "SOMEWHERE MY LOVE (Love Theme from \"Dr. Zhivago\") And Other Great Hits",
         "url": "https://open.spotify.com/album/69McWz1Og4ZOjEeupHfpw7"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 149066,
       "name": "Red Roses For A Blue lady",
       "url": "https://open.spotify.com/track/2DmaZOeu9YazJTYnG7Uadv"
+    },
+    {
+      "added_at": "2020-08-17 22:49:59",
+      "album": {
+        "name": "The Anthology",
+        "url": "https://open.spotify.com/album/61rb02N7fHGie0DMqkOWE6"
+      },
+      "artists": [
+        {
+          "name": "The McGuire Sisters",
+          "url": "https://open.spotify.com/artist/6oXkzBf6bMupenvf4tKtmN"
+        }
+      ],
+      "duration_ms": 178066,
+      "name": "May You Always",
+      "url": "https://open.spotify.com/track/3VNjiS6wrDpESHRMvmqTYM"
     },
     {
       "added_at": "2020-08-17 22:49:59",
@@ -263,22 +263,6 @@
     {
       "added_at": "2022-03-28 19:29:09",
       "album": {
-        "name": "The Anthology",
-        "url": "https://open.spotify.com/album/61rb02N7fHGie0DMqkOWE6"
-      },
-      "artists": [
-        {
-          "name": "The McGuire Sisters",
-          "url": "https://open.spotify.com/artist/6oXkzBf6bMupenvf4tKtmN"
-        }
-      ],
-      "duration_ms": 185200,
-      "name": "Teach Me Tonight",
-      "url": "https://open.spotify.com/track/2ARoWEBWZGyGSoHY1Clo1g"
-    },
-    {
-      "added_at": "2022-03-28 19:29:09",
-      "album": {
         "name": "Tea For Two (with Gene Nelson, Axel Stordahl & His Orchestra & The Page Cavanaugh Trio)",
         "url": "https://open.spotify.com/album/4CUEOvIXCBO4r4OZFTPhCv"
       },
@@ -345,7 +329,7 @@
       "url": "https://open.spotify.com/track/08KiBWh7EreFKWKSv8SIrh"
     },
     {
-      "added_at": "2020-08-17 22:49:59",
+      "added_at": "2022-03-28 19:29:09",
       "album": {
         "name": "The Anthology",
         "url": "https://open.spotify.com/album/61rb02N7fHGie0DMqkOWE6"
@@ -356,9 +340,9 @@
           "url": "https://open.spotify.com/artist/6oXkzBf6bMupenvf4tKtmN"
         }
       ],
-      "duration_ms": 178800,
-      "name": "Sincerely",
-      "url": "https://open.spotify.com/track/50AhgOXYVm9ASB6PlKdKk0"
+      "duration_ms": 185200,
+      "name": "Teach Me Tonight",
+      "url": "https://open.spotify.com/track/2ARoWEBWZGyGSoHY1Clo1g"
     },
     {
       "added_at": "2022-03-28 19:29:09",
@@ -461,22 +445,6 @@
       "url": "https://open.spotify.com/track/1bDzspMSL17XQokxAxAe22"
     },
     {
-      "added_at": "2020-08-17 22:49:59",
-      "album": {
-        "name": "Blue Velvet / The Ultimate Collection",
-        "url": "https://open.spotify.com/album/3qOZok4QE0NLDJEWNuasPS"
-      },
-      "artists": [
-        {
-          "name": "The Moonglows",
-          "url": "https://open.spotify.com/artist/1sZwQg2rvSlGhkG218SouM"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "Secret Love",
-      "url": "https://open.spotify.com/track/6IwT48KRXox8R29kUBuYrr"
-    },
-    {
       "added_at": "2022-03-28 19:29:09",
       "album": {
         "name": "16 Most Requested Songs",
@@ -515,6 +483,38 @@
     {
       "added_at": "2020-08-17 22:49:59",
       "album": {
+        "name": "Blue Velvet / The Ultimate Collection",
+        "url": "https://open.spotify.com/album/3qOZok4QE0NLDJEWNuasPS"
+      },
+      "artists": [
+        {
+          "name": "The Moonglows",
+          "url": "https://open.spotify.com/artist/1sZwQg2rvSlGhkG218SouM"
+        }
+      ],
+      "duration_ms": 169000,
+      "name": "Secret Love",
+      "url": "https://open.spotify.com/track/6IwT48KRXox8R29kUBuYrr"
+    },
+    {
+      "added_at": "2020-08-17 22:49:59",
+      "album": {
+        "name": "The Anthology",
+        "url": "https://open.spotify.com/album/61rb02N7fHGie0DMqkOWE6"
+      },
+      "artists": [
+        {
+          "name": "The McGuire Sisters",
+          "url": "https://open.spotify.com/artist/6oXkzBf6bMupenvf4tKtmN"
+        }
+      ],
+      "duration_ms": 178800,
+      "name": "Sincerely",
+      "url": "https://open.spotify.com/track/50AhgOXYVm9ASB6PlKdKk0"
+    },
+    {
+      "added_at": "2020-08-17 22:49:59",
+      "album": {
         "name": "The War Years (1941-1947)",
         "url": "https://open.spotify.com/album/3xseO3iLY7v7dL7VP6jpsH"
       },
@@ -531,22 +531,6 @@
       "duration_ms": 188293,
       "name": "For Sentimental Reasons",
       "url": "https://open.spotify.com/track/5t5S4nyn6OWZRpSo260sjo"
-    },
-    {
-      "added_at": "2020-08-17 22:49:59",
-      "album": {
-        "name": "The Best Of The Ames",
-        "url": "https://open.spotify.com/album/2Yvca6unTMt1DYTgXToJn0"
-      },
-      "artists": [
-        {
-          "name": "The Ames Brothers",
-          "url": "https://open.spotify.com/artist/4oXaAEofJFedGweFqy5qiv"
-        }
-      ],
-      "duration_ms": 166520,
-      "name": "Rag Mop",
-      "url": "https://open.spotify.com/track/7z03paoXvhCzN22twdfPHR"
     },
     {
       "added_at": "2020-08-17 22:49:59",
@@ -579,6 +563,22 @@
       "duration_ms": 170666,
       "name": "Teach Me Tonight",
       "url": "https://open.spotify.com/track/0JqKK01MXbnDhBKKdcUCnX"
+    },
+    {
+      "added_at": "2020-08-17 22:49:59",
+      "album": {
+        "name": "The Best Of The Ames",
+        "url": "https://open.spotify.com/album/2Yvca6unTMt1DYTgXToJn0"
+      },
+      "artists": [
+        {
+          "name": "The Ames Brothers",
+          "url": "https://open.spotify.com/artist/4oXaAEofJFedGweFqy5qiv"
+        }
+      ],
+      "duration_ms": 166520,
+      "name": "Rag Mop",
+      "url": "https://open.spotify.com/track/7z03paoXvhCzN22twdfPHR"
     },
     {
       "added_at": "2020-08-17 22:49:59",
@@ -679,6 +679,22 @@
     {
       "added_at": "2020-08-17 22:49:59",
       "album": {
+        "name": "Teach Me Tonight",
+        "url": "https://open.spotify.com/album/3WbxZUc3ukR1BEz3SgOgbJ"
+      },
+      "artists": [
+        {
+          "name": "The De Castro Sisters",
+          "url": "https://open.spotify.com/artist/1OCPhFtvkZDLUJJkrJfD2G"
+        }
+      ],
+      "duration_ms": 159666,
+      "name": "Give Me Time",
+      "url": "https://open.spotify.com/track/22McLEDE7FIJDSNUhYqnKz"
+    },
+    {
+      "added_at": "2020-08-17 22:49:59",
+      "album": {
         "name": "Jump & Jive 'Til One O'Clock - Anthology, Vol. 2",
         "url": "https://open.spotify.com/album/3csDnkhImGwBZBgDuYkZr9"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 157826,
       "name": "Ain't Gonna Worry 'Bout a Soul",
       "url": "https://open.spotify.com/track/2Dm4H3EH6slgSUiOTJE3gg"
-    },
-    {
-      "added_at": "2020-08-17 22:49:59",
-      "album": {
-        "name": "Best Of The Four Coins",
-        "url": "https://open.spotify.com/album/5QpanrSfnut4MbnbG8ryH9"
-      },
-      "artists": [
-        {
-          "name": "The Four Coins",
-          "url": "https://open.spotify.com/artist/1XQXkciRULT2PXhRUtmmuH"
-        }
-      ],
-      "duration_ms": 139520,
-      "name": "My One Sin",
-      "url": "https://open.spotify.com/track/0gWKRxc5ncnS3wxXF1E9jV"
     },
     {
       "added_at": "2020-08-17 22:49:59",
@@ -727,6 +727,22 @@
     {
       "added_at": "2020-08-17 22:49:59",
       "album": {
+        "name": "Best Of The Four Coins",
+        "url": "https://open.spotify.com/album/5QpanrSfnut4MbnbG8ryH9"
+      },
+      "artists": [
+        {
+          "name": "The Four Coins",
+          "url": "https://open.spotify.com/artist/1XQXkciRULT2PXhRUtmmuH"
+        }
+      ],
+      "duration_ms": 139520,
+      "name": "My One Sin",
+      "url": "https://open.spotify.com/track/0gWKRxc5ncnS3wxXF1E9jV"
+    },
+    {
+      "added_at": "2020-08-17 22:49:59",
+      "album": {
         "name": "The Kirby Stone Touch",
         "url": "https://open.spotify.com/album/2BeXXbbvUL4qzsm8A6W9pA"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 129866,
       "name": "Lullaby of Birdland",
       "url": "https://open.spotify.com/track/4ZQebNut4njSuTIJe7l3UH"
-    },
-    {
-      "added_at": "2020-08-17 22:49:59",
-      "album": {
-        "name": "Teach Me Tonight",
-        "url": "https://open.spotify.com/album/3WbxZUc3ukR1BEz3SgOgbJ"
-      },
-      "artists": [
-        {
-          "name": "The De Castro Sisters",
-          "url": "https://open.spotify.com/artist/1OCPhFtvkZDLUJJkrJfD2G"
-        }
-      ],
-      "duration_ms": 159666,
-      "name": "Give Me Time",
-      "url": "https://open.spotify.com/track/22McLEDE7FIJDSNUhYqnKz"
     },
     {
       "added_at": "2020-08-17 22:49:59",

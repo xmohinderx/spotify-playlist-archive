@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcndo43KVGbN.md) - [plain]
 
 > The harmony between beautiful Ambient and tape manipulation.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,369 likes - 99 songs - 9 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,427 likes - 99 songs - 9 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [New Lovers](https://open.spotify.com/track/7wiDgzmYPaKfjmQC57PISc) | [Praveen](https://open.spotify.com/artist/5YCEHjtKf4jnGjXK8eLPn6) | [Backed by Spirits](https://open.spotify.com/album/2SjePFPf7cTjqK4Su6v5hy) | 2:53 |
 | 2 | [Careless Whispers](https://open.spotify.com/track/1qr3cyLVbZRrQH4jaJ0cq7) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [Radio Amor](https://open.spotify.com/album/5yHH2l3d2d2K5tNQGorEdR) | 5:11 |
 | 3 | [I'm Transmitting Tonight](https://open.spotify.com/track/0eztk0w79uHB0RCXUYQ7Ao) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [Radio Amor](https://open.spotify.com/album/5yHH2l3d2d2K5tNQGorEdR) | 5:16 |
-| 4 | [Muscle De Sable \- Jan Jelinek Remix](https://open.spotify.com/track/5tdUFUHZIRFwwSlAreykyL) | [Roméo Poirier](https://open.spotify.com/artist/1kQP1Xg6Q8bmdjXAirDQKG), [Jan Jelinek](https://open.spotify.com/artist/6Bpr6Jvb2Ic7WlzPD9EPJT) | [Muscle De Sable](https://open.spotify.com/album/5EetnmbkfhXlohEzvivX3O) | 5:04 |
+| 4 | [Muscle de sable \- Jan Jelinek Remix](https://open.spotify.com/track/5tdUFUHZIRFwwSlAreykyL) | [Roméo Poirier](https://open.spotify.com/artist/1kQP1Xg6Q8bmdjXAirDQKG), [Jan Jelinek](https://open.spotify.com/artist/6Bpr6Jvb2Ic7WlzPD9EPJT) | [Muscle de sable](https://open.spotify.com/album/5EetnmbkfhXlohEzvivX3O) | 5:04 |
 | 5 | [Revolving door](https://open.spotify.com/track/7giXEIu7MPLp0PpPkM6PUi) | [Raum](https://open.spotify.com/artist/6Qsrt0RPmIemQhHjCYDnCU) | [Daughter](https://open.spotify.com/album/6beHH4VPWefU6S7JzaXllj) | 6:42 |
 | 6 | [Every Something Is An Echo Of Nothing](https://open.spotify.com/track/4pPsxK4Hiw8VjGIdIlQkUj) | [Perila](https://open.spotify.com/artist/5tWRKxz6TY4YfkdrMPGPPi), [Ulla](https://open.spotify.com/artist/0ijZlfRS4zxGYWMxf8rvRN) | [Memories of Log](https://open.spotify.com/album/7zYfVGpVHFMBlFQfKNPy0b) | 4:00 |
 | 7 | [Bautarsteinn](https://open.spotify.com/track/0HEsNDEwSuTLbLTpnOZjqt) | [Fuimadane](https://open.spotify.com/artist/0bvLGQcToNe2fbO2IIXpvN) | [Baráttan við Myrkrið](https://open.spotify.com/album/5ZqYuoyzvEEoK8QiPSvTVL) | 5:21 |

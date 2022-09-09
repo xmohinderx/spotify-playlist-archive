@@ -1,12 +1,12 @@
 {
   "description": "Sapphic songs that defined your music taste as \"yearning\" ",
-  "num_followers": 787638,
+  "num_followers": 792838,
   "original_name": "sad girl starter pack",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjA5NjU1NiwwMDAwMDAwMGJhMDMxMmI3ZDcxMjM3MDI4YmI2ZWI4NTFlYmY2MThi",
+  "snapshot_id": "MTY2MjA5NjU1NiwwMDAwMDAwMDY5NzU5NmNhM2E4M2Q0YmMxNDk0NmVkNzIzNGQxMjgw",
   "tracks": [
     {
       "added_at": "2022-06-10 20:37:57",
@@ -931,22 +931,6 @@
     {
       "added_at": "2022-06-10 20:37:57",
       "album": {
-        "name": "Human",
-        "url": "https://open.spotify.com/album/6Kr92CEAh6YLlEO8ubps17"
-      },
-      "artists": [
-        {
-          "name": "dodie",
-          "url": "https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS"
-        }
-      ],
-      "duration_ms": 213611,
-      "name": "She",
-      "url": "https://open.spotify.com/track/45h4w81P5iJJTSeR0jJUQ8"
-    },
-    {
-      "added_at": "2022-06-10 20:37:57",
-      "album": {
         "name": "You're All I Want",
         "url": "https://open.spotify.com/album/5lU2BUnMIIe6JcbqV9LXtS"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 264453,
       "name": "You're All I Want",
       "url": "https://open.spotify.com/track/0EUw3ZK8Ti14t6R6FOP8Ty"
+    },
+    {
+      "added_at": "2022-06-10 20:37:57",
+      "album": {
+        "name": "Human",
+        "url": "https://open.spotify.com/album/6Kr92CEAh6YLlEO8ubps17"
+      },
+      "artists": [
+        {
+          "name": "dodie",
+          "url": "https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS"
+        }
+      ],
+      "duration_ms": 213611,
+      "name": "She",
+      "url": "https://open.spotify.com/track/45h4w81P5iJJTSeR0jJUQ8"
     },
     {
       "added_at": "2022-06-10 20:37:57",
@@ -1009,22 +1009,6 @@
       "url": "https://open.spotify.com/track/4PDJDIdWxNN1AlnbrKkoPf"
     },
     {
-      "added_at": "2022-06-10 20:37:57",
-      "album": {
-        "name": "Being So Normal",
-        "url": "https://open.spotify.com/album/6xduu32sm4aidoLhaxYkUA"
-      },
-      "artists": [
-        {
-          "name": "Peach Pit",
-          "url": "https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire"
-        }
-      ],
-      "duration_ms": 361760,
-      "name": "Tommy's Party",
-      "url": "https://open.spotify.com/track/5OuJTtNve7FxUX82eEBupN"
-    },
-    {
       "added_at": "2022-08-29 18:34:08",
       "album": {
         "name": "The Twilight Saga: New Moon (Original Motion Picture Soundtrack)",
@@ -1039,6 +1023,22 @@
       "duration_ms": 306440,
       "name": "Possibility",
       "url": "https://open.spotify.com/track/39Odj4vLKRarATkCA31gaW"
+    },
+    {
+      "added_at": "2022-06-10 20:37:57",
+      "album": {
+        "name": "Being So Normal",
+        "url": "https://open.spotify.com/album/6xduu32sm4aidoLhaxYkUA"
+      },
+      "artists": [
+        {
+          "name": "Peach Pit",
+          "url": "https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire"
+        }
+      ],
+      "duration_ms": 361760,
+      "name": "Tommy's Party",
+      "url": "https://open.spotify.com/track/5OuJTtNve7FxUX82eEBupN"
     },
     {
       "added_at": "2022-07-20 22:11:26",

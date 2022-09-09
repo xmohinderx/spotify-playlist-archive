@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8MbMfAHb8U0.md) - [plain]
 
 > The tracks that you love from the artists you love\. Cover: Erykah Badu
 
-[Spotify](https://open.spotify.com/user/spotify) - 315,795 likes - 99 songs - 7 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 316,301 likes - 99 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8MbMfAHb8U0.md) - [plain]
 | 47 | [I Believe in You](https://open.spotify.com/track/6uQQbCOrg3d1ewuz2cbjmL) | [Amp Fiddler](https://open.spotify.com/artist/39g75EmRFeFbvHhsGjUpLU) | [Waltz of a Ghetto Fly](https://open.spotify.com/album/6eX29ysLt9GUE4srUvbJaK) | 3:44 |
 | 48 | [U Know What's Up \(feat\. Lisa "Left Eye" Lopes\)](https://open.spotify.com/track/5PMKzsUsTpZZGsCcJBuhP2) | [Donell Jones](https://open.spotify.com/artist/5KNqYrivNgVCHBssEUSu5B), [Lisa "Left Eye" Lopes](https://open.spotify.com/artist/64ccradw8gAQn9gMQZmEha) | [Where I Wanna Be](https://open.spotify.com/album/01riz9JMpPdL99fYhoZaph) | 4:03 |
 | 49 | [N2U f, Marsha Ambrosius](https://open.spotify.com/track/6bX3tUJXNXqgRga5pd6qj9) | [Eric Roberson & Marsha Ambrosius](https://open.spotify.com/artist/6fbolNirlBGjx6VAzZyJ89) | [The Appetizer](https://open.spotify.com/album/1liUbzbC1fnG5GCjH0qclW) | 3:29 |
-| 50 | [When You're Near](https://open.spotify.com/track/0DrFL4UAerLseMvbDvRU7l) | [Guru](https://open.spotify.com/artist/6xyaria4AcxjRuJZLkWvMW), [N'Dea Davenport](https://open.spotify.com/artist/2JrR5OwlQ3XXuDwozp9tYT) | [Jazzmatazz Volume 1](https://open.spotify.com/album/64J8girYqmK86ebqBayrjQ) | 4:03 |
+| 50 | [When You're Near](https://open.spotify.com/track/0DrFL4UAerLseMvbDvRU7l) | [Guru](https://open.spotify.com/artist/3vM1uBlHCP8uMG7qbGCgcI), [N'Dea Davenport](https://open.spotify.com/artist/2JrR5OwlQ3XXuDwozp9tYT) | [Jazzmatazz Volume 1](https://open.spotify.com/album/64J8girYqmK86ebqBayrjQ) | 4:03 |
 | 51 | [Tell Me](https://open.spotify.com/track/2lp8xjq0WTm3HZKHuDEweg) | [Groove Theory](https://open.spotify.com/artist/7opRqRgF9lvnVraBFCMvIj) | [Groove Theory](https://open.spotify.com/album/0VVegiriO1eyyfOKrLmxtc) | 3:56 |
 | 52 | [Don't You Forget It](https://open.spotify.com/track/7vKYuqKAySUizIkcAl4Oal) | [Glenn Lewis](https://open.spotify.com/artist/28821fRwpAWk44HfJ96PGV) | [World Outside My Window](https://open.spotify.com/album/42xHDcAyEnhKzLPCrdnBud) | 4:08 |
 | 53 | [Brotha](https://open.spotify.com/track/2sNAjuCXxyj8jHt93t9IJ9) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Mahogany Soul](https://open.spotify.com/album/1pJld4hH1xL3ONIlWZEhXw) | 4:28 |

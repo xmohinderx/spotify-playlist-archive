@@ -163,7 +163,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 164265,
       "name": "Ap\u00e9ritif",
       "url": "https://open.spotify.com/track/4SKLUEuuVz456xe7QZkEQo"
@@ -307,7 +307,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 176409,
       "name": "beautiful/sad",
       "url": "https://open.spotify.com/track/0YnNUpfCzBLRkFcNCheIkE"
@@ -379,7 +379,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 228000,
       "name": "Blinders",
       "url": "https://open.spotify.com/track/08G0wuFm4k0UjklJ05ePBg"
@@ -703,7 +703,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 178000,
       "name": "Coalesced",
       "url": "https://open.spotify.com/track/3yH4WIf5umBgIzgsyajkWH"
@@ -779,6 +779,24 @@
       "duration_ms": 165010,
       "name": "Coral Beach",
       "url": "https://open.spotify.com/track/0aymtzpvO3QufAK2MbSBHd"
+    },
+    {
+      "album": {
+        "name": "Corridors",
+        "url": "https://open.spotify.com/album/6bboSAM3cK5LgLxt5ILwam"
+      },
+      "artists": [
+        {
+          "name": "under.tone",
+          "url": "https://open.spotify.com/artist/19rXpZkWhLrMTxEdqpOICe"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191216,
+      "name": "Corridors",
+      "url": "https://open.spotify.com/track/1ObprOerEaR0kkRkja9kt2"
     },
     {
       "album": {
@@ -865,7 +883,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 183414,
       "name": "Diva",
       "url": "https://open.spotify.com/track/6ffcqnhcbP67tUlMfXcQk4"
@@ -1315,7 +1333,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 166060,
       "name": "Frizzante",
       "url": "https://open.spotify.com/track/4Z3LHseTfnS6ruxRdaamd4"
@@ -1351,7 +1369,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 237913,
       "name": "Gambia",
       "url": "https://open.spotify.com/track/3dFgvv8ft1DHbW28Akce50"
@@ -1369,7 +1387,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 177600,
       "name": "Gemini 4",
       "url": "https://open.spotify.com/track/37KOVFK6gSmgBTcDysJdSa"
@@ -1405,7 +1423,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 168103,
       "name": "Glossy",
       "url": "https://open.spotify.com/track/2OgaU9No7zapiI2AbUbPej"
@@ -1567,7 +1585,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 187909,
       "name": "Head Start",
       "url": "https://open.spotify.com/track/0KKgRBtM1I3TxDoFmdjKAU"
@@ -1859,7 +1877,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 216250,
       "name": "Koh Musica",
       "url": "https://open.spotify.com/track/77QMACo3pSn8I7lQD9nftm"
@@ -2345,7 +2363,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 168888,
       "name": "Moving On",
       "url": "https://open.spotify.com/track/4tIkzYzGCbHfv5VdmbXst5"
@@ -2633,7 +2651,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 165138,
       "name": "Perspective",
       "url": "https://open.spotify.com/track/2r528lmdc2OMFee1PpyDXm"
@@ -2856,6 +2874,24 @@
     },
     {
       "album": {
+        "name": "Rain Moves Aside",
+        "url": "https://open.spotify.com/album/2ePJcR2LULuHH4hplAlkTE"
+      },
+      "artists": [
+        {
+          "name": "SGT DUST",
+          "url": "https://open.spotify.com/artist/5UAKUy49oVsSw65Bbg14r6"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196818,
+      "name": "Rain Moves Aside",
+      "url": "https://open.spotify.com/track/2qpyDvBNKE9uSaWL0H8cuM"
+    },
+    {
+      "album": {
         "name": "Readings",
         "url": "https://open.spotify.com/album/6n1vtw8Wjkec1HUpcyYckb"
       },
@@ -2903,7 +2939,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 194505,
       "name": "Reverie",
       "url": "https://open.spotify.com/track/5UYHZL7Kvi8WMqGxFry4Hs"
@@ -2921,7 +2957,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 190458,
       "name": "Rooftop",
       "url": "https://open.spotify.com/track/2ebN0r76upG4bTetGQk996"
@@ -2957,7 +2993,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 220909,
       "name": "Rotary",
       "url": "https://open.spotify.com/track/4VIR3YOwgtTMRg70zCVpJV"
@@ -3181,7 +3217,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 179590,
       "name": "Shimmer",
       "url": "https://open.spotify.com/track/4Cii3rooOPgvklHGE3O8y2"
@@ -3347,7 +3383,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 169322,
       "name": "Spring Hills",
       "url": "https://open.spotify.com/track/6M9BW77Z3EajHxGKWuVIUr"
@@ -3473,7 +3509,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 200000,
       "name": "Summertime Love",
       "url": "https://open.spotify.com/track/2h1OAlUkaqGlUdiCsfWy0P"
@@ -3491,7 +3527,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 177342,
       "name": "Sundown",
       "url": "https://open.spotify.com/track/09PSpnj9hH0kpoRDRWucVW"
@@ -3563,7 +3599,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 160941,
       "name": "sweaty palms",
       "url": "https://open.spotify.com/track/4nRP3DPkiZICuDpYlliATw"
@@ -3617,7 +3653,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 132000,
       "name": "The Lighthouse",
       "url": "https://open.spotify.com/track/4C8vDZVeXTs4coyFq914Wh"
@@ -4013,7 +4049,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 199200,
       "name": "Zeta Reticuli",
       "url": "https://open.spotify.com/track/0prUbL2i0fL0uNC4lpxxoy"

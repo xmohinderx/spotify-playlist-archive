@@ -4,7 +4,7 @@
 
 > como en una nube\. Bedroom pop vibes featuring Clara Yolks.
 
-157 songs - 8 hr 52 min - [published](https://open.spotify.com/playlist/5bz3k8QNNTUrWUgar676qo)
+158 songs - 8 hr 53 min - [published](https://open.spotify.com/playlist/5bz3k8QNNTUrWUgar676qo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [aunque quisiera, no podría](https://open.spotify.com/track/2Eem56vLTyF2pi2T19AmvG) | [Kora](https://open.spotify.com/artist/3ZxaYY2eYNWxg8v1s2k6JD) | [fuera de lugar](https://open.spotify.com/album/6Z73rP80ugJPA7zEhCitar) | 4:22 | 2022-03-25 | 2022-08-27 |
 | [Aura](https://open.spotify.com/track/3FcNx0xneevygzqjZaSDIo) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Aura](https://open.spotify.com/album/1i3MA9Eamgjk3SKYFo0zdn) | 3:27 | 2022-07-11 |  |
 | [Axis](https://open.spotify.com/track/3pvEEzySFpo6jsZ1W2cNOS) | [Natalia Spiner](https://open.spotify.com/artist/1sZOtmJhnHfBgjvkuW7sK6) | [Axis](https://open.spotify.com/album/00q0x8KcLoNQr5B5pLfPaT) | 3:53 | 2022-07-19 | 2022-08-30 |
-| [Bien](https://open.spotify.com/track/3WLeXmLujC9lnlT44aTvGR) | [Ev](https://open.spotify.com/artist/21EczEifDKebasemX58Jp8) | [Okay!](https://open.spotify.com/album/3ZYoorCmWoiAD8DgxrcrTW) | 4:02 | 2022-03-25 |  |
+| [Bien](https://open.spotify.com/track/3WLeXmLujC9lnlT44aTvGR) | [Ev](https://open.spotify.com/artist/21EczEifDKebasemX58Jp8) | [Okay!](https://open.spotify.com/album/3ZYoorCmWoiAD8DgxrcrTW) | 4:02 | 2022-03-25 | 2022-09-09 |
 | [Bijoux](https://open.spotify.com/track/2HAyheU6dVyB9YaokB56SW) | [Soap](https://open.spotify.com/artist/1XlQX9RnsbZuOm7gByAyIB) | [Bijoux](https://open.spotify.com/album/7gxGCdVpkDisfbfPfOD1qC) | 4:22 | 2022-03-25 |  |
 | [Bugambilias,](https://open.spotify.com/track/1zTt6hBP6e6SGJ1VZr4yvA) | [princesa cereza](https://open.spotify.com/artist/607kbpXirULyTo1jdRtooo) | [Bugambilias](https://open.spotify.com/album/3jYF4JJTog7jo3ihIq4y1c) | 4:06 | 2022-07-11 | 2022-08-11 |
 | [C'est Pas Moi](https://open.spotify.com/track/4LOS1xKULiLw4y4GegBlwE) | [Petite Amie](https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw) | [C'est Pas Moi](https://open.spotify.com/album/1I9S7r4dEM14NWTYMcbLIX) | 3:26 | 2022-03-25 | 2022-04-23 |
@@ -97,6 +97,7 @@
 | [Never Felt This Before](https://open.spotify.com/track/4sk52d9BtlFPV4FYsBtivD) | [Sexy Pigeon](https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U) | [Never Felt This Before](https://open.spotify.com/album/2G6NH2GXi3MDgybZDg0WKX) | 1:50 | 2022-05-20 |  |
 | [No Aguanto el Calor](https://open.spotify.com/track/2rz22cu4JtOVdNGmPlDq70) | [Lisbon Girls](https://open.spotify.com/artist/6qmPAUC9QRnixgbsQE9Qe3) | [No Aguanto el Calor](https://open.spotify.com/album/3GCeHjcKXUKDNag52Mj9PB) | 3:40 | 2022-08-26 |  |
 | [No soy de aquí](https://open.spotify.com/track/3GAnMDz0FyfRLqI99bhltK) | [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g) | [No soy de aquí](https://open.spotify.com/album/1YZIaN8F9Qthoy8K73MNPY) | 1:36 | 2022-03-25 | 2022-07-29 |
+| [No soy de aquí](https://open.spotify.com/track/3SgKzvkNojXk1l9nIRzqky) | [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g) | [Nostalgia Pop](https://open.spotify.com/album/3kNLywiQeiYFDuLOeJat5I) | 1:36 | 2022-09-02 |  |
 | [No Te Paro de Pensar](https://open.spotify.com/track/6ESUaFTZNSezEZKzR3FW8s) | [La Era de Gomes](https://open.spotify.com/artist/2JsaY1GQhGPbIlFSrAncg0) | [No Te Paro de Pensar](https://open.spotify.com/album/1GBxEIdKNKeCEQ4XN7C019) | 2:41 | 2022-03-25 | 2022-05-13 |
 | [Noche Humana](https://open.spotify.com/track/4wIHtjnkzcbH7LzdiOJOza) | [Paula Pera y el fin de los Tiempos](https://open.spotify.com/artist/5zuGV6u9UobNW3KPGXui6o) | [Noche Humana](https://open.spotify.com/album/1nvhPWn8HYsiOmeJ8OTniK) | 3:20 | 2022-03-25 | 2022-04-23 |
 | [Noctámbula](https://open.spotify.com/track/0FD55GW2V8cfDf3GikuGm1) | [Entre Desiertos](https://open.spotify.com/artist/6EfZlD0Lw7RsNhDMlHH4YL) | [Noctámbula](https://open.spotify.com/album/6tqCKu4P73ZT81bldAO4g3) | 3:45 | 2022-03-25 | 2022-05-17 |

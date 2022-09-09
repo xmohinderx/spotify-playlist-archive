@@ -48,6 +48,24 @@
     },
     {
       "album": {
+        "name": "Al Forga",
+        "url": "https://open.spotify.com/album/5ydSYLaBAPJIV2bn2HmkSs"
+      },
+      "artists": [
+        {
+          "name": "Noel Kharman",
+          "url": "https://open.spotify.com/artist/76G2QPGz4HBmhn0D3vr9UL"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177388,
+      "name": "Al Forga",
+      "url": "https://open.spotify.com/track/6unp5zGcRjIAyeNjiVMLHX"
+    },
+    {
+      "album": {
         "name": "Elyanna 2",
         "url": "https://open.spotify.com/album/6fV0By80SOnUuqKt5wpk2A"
       },

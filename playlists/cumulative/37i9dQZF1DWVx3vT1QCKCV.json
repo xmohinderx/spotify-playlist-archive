@@ -710,6 +710,24 @@
     },
     {
       "album": {
+        "name": "Lazy Bird/Blue Train",
+        "url": "https://open.spotify.com/album/098yC89TkOkE9ljHR2qV7J"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "date_added": "2022-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 562480,
+      "name": "Lazy Bird - Alternate Take 1",
+      "url": "https://open.spotify.com/track/2sM2cNbhA0ZudW0ciQyzCB"
+    },
+    {
+      "album": {
         "name": "Living Space",
         "url": "https://open.spotify.com/album/4VfwIglkIBIVoi3VeoYxB4"
       },

@@ -1,12 +1,12 @@
 {
   "description": "The hustle king and worldwide multi talent of Korean hip-hop/r&b.",
-  "num_followers": 3538,
+  "num_followers": 3694,
   "original_name": "This Is Jay Park",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDgzMzI3MiwwMDAwMDAwMGYxMzdmNTZjYWJhM2NjOTFjZjk4NzNkOTZjMjgwZjli",
+  "snapshot_id": "MTY2MDgzMzI3MiwwMDAwMDAwMDFlMzEzZGI3NDE1YzQ3NDA0YjYxNTYzYzNhOTIxZGI1",
   "tracks": [
     {
       "added_at": "2022-08-18 14:34:32",
@@ -1775,6 +1775,22 @@
     {
       "added_at": "2022-08-18 14:34:32",
       "album": {
+        "name": "EVERYTHING YOU WANTED",
+        "url": "https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 236919,
+      "name": "The Truth Is",
+      "url": "https://open.spotify.com/track/4EzqNvmGUyGAqiAOivsydr"
+    },
+    {
+      "added_at": "2022-08-18 14:34:32",
+      "album": {
         "name": "ENGINE",
         "url": "https://open.spotify.com/album/40yU5SspOUsFIXuafyq1M1"
       },
@@ -1791,22 +1807,6 @@
       "duration_ms": 220717,
       "name": "ENGINE (Prod. by CODE KUNST)",
       "url": "https://open.spotify.com/track/4xWuQN8WMqLE8LRqkIiVmr"
-    },
-    {
-      "added_at": "2022-08-18 14:34:32",
-      "album": {
-        "name": "EVERYTHING YOU WANTED",
-        "url": "https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 236919,
-      "name": "The Truth Is",
-      "url": "https://open.spotify.com/track/4EzqNvmGUyGAqiAOivsydr"
     },
     {
       "added_at": "2022-08-18 14:34:32",
@@ -2008,6 +2008,30 @@
           "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
         },
         {
+          "name": "Dok2",
+          "url": "https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE"
+        },
+        {
+          "name": "The Quiett",
+          "url": "https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy"
+        }
+      ],
+      "duration_ms": 362314,
+      "name": "WORLDWIDE",
+      "url": "https://open.spotify.com/track/7vjHsRjCtkyzGkzFnZk2eY"
+    },
+    {
+      "added_at": "2022-08-18 14:34:32",
+      "album": {
+        "name": "Worldwide",
+        "url": "https://open.spotify.com/album/5vESroqrGYDxDPAwUceQxf"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
           "name": "DJ Wegun",
           "url": "https://open.spotify.com/artist/7p552gLGzaDKXB5sETgTEP"
         }
@@ -2019,22 +2043,18 @@
     {
       "added_at": "2022-08-18 14:34:32",
       "album": {
-        "name": "EVERYTHING YOU WANTED",
-        "url": "https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2"
+        "name": "Ask Bout Me",
+        "url": "https://open.spotify.com/album/6XlL7j4p0WXpm1y8HqnBmM"
       },
       "artists": [
         {
           "name": "Jay Park",
           "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "Cha Cha Malone",
-          "url": "https://open.spotify.com/artist/7632p5JJi58r3q9GfhqSyF"
         }
       ],
-      "duration_ms": 230414,
-      "name": "Feature (Feat. Cha Cha Malone)",
-      "url": "https://open.spotify.com/track/4slKa6L7iKXdQSgGJxKe8S"
+      "duration_ms": 268066,
+      "name": "Million",
+      "url": "https://open.spotify.com/track/7gw9EmECP4BXUvQdhY5HPq"
     },
     {
       "added_at": "2022-08-18 14:34:32",
@@ -2067,8 +2087,8 @@
     {
       "added_at": "2022-08-18 14:34:32",
       "album": {
-        "name": "Worldwide",
-        "url": "https://open.spotify.com/album/5vESroqrGYDxDPAwUceQxf"
+        "name": "EVERYTHING YOU WANTED",
+        "url": "https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2"
       },
       "artists": [
         {
@@ -2076,33 +2096,13 @@
           "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
         },
         {
-          "name": "Dok2",
-          "url": "https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE"
-        },
-        {
-          "name": "The Quiett",
-          "url": "https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy"
+          "name": "Cha Cha Malone",
+          "url": "https://open.spotify.com/artist/7632p5JJi58r3q9GfhqSyF"
         }
       ],
-      "duration_ms": 362314,
-      "name": "WORLDWIDE",
-      "url": "https://open.spotify.com/track/7vjHsRjCtkyzGkzFnZk2eY"
-    },
-    {
-      "added_at": "2022-08-18 14:34:32",
-      "album": {
-        "name": "Ask Bout Me",
-        "url": "https://open.spotify.com/album/6XlL7j4p0WXpm1y8HqnBmM"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 268066,
-      "name": "Million",
-      "url": "https://open.spotify.com/track/7gw9EmECP4BXUvQdhY5HPq"
+      "duration_ms": 230414,
+      "name": "Feature (Feat. Cha Cha Malone)",
+      "url": "https://open.spotify.com/track/4slKa6L7iKXdQSgGJxKe8S"
     },
     {
       "added_at": "2022-08-18 14:34:32",

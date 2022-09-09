@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXau0XrWZpT93.md) - [plain]
 
 > Start your day with these beautiful scores.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,759 likes - 76 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,791 likes - 78 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,21 +68,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXau0XrWZpT93.md) - [plain]
 | 58 | [My Son](https://open.spotify.com/track/3wtpKMUkSiZPDRH5vxYLmz) | [Vuelto Ciego](https://open.spotify.com/artist/2aGcZFlseymIvZzsg8H4yl) | [My Son](https://open.spotify.com/album/2adunymdxS0IP1zEhYzLXr) | 1:58 |
 | 59 | [Opal](https://open.spotify.com/track/6nqhj6vFNMey63HMUcIvLS) | [Felix Rösch](https://open.spotify.com/artist/5DN6qP3OzoKVYXF3o2KCXp) | [Humming Bird Rework](https://open.spotify.com/album/3KmLGgnFa1fUfudmtrAG3m) | 3:33 |
 | 60 | [Lyric for Violin & Harp](https://open.spotify.com/track/3rwK4xsqG5UvXcoqi4xuAc) | [Kerwin Young](https://open.spotify.com/artist/2b5Fg9UseBuYNTk4oAyG6n), [Lucia Lin](https://open.spotify.com/artist/51XNYYFWrEEctz41t292mD), [Charles Overton](https://open.spotify.com/artist/1K98DJ68l2U9IRZTxHQed4) | [In Tandem](https://open.spotify.com/album/6jOBNoIEGEwikzAyOiCo61) | 5:34 |
-| 61 | [Breathing Softly](https://open.spotify.com/track/5fOXMCEaxYSAObSdJ7nvCV) | [Wilson Trouvé](https://open.spotify.com/artist/1Qh6CmBget32TmvDZBoK8E) | [Breathing Softly](https://open.spotify.com/album/6W9cOGtIJZtT1J5ypPCcHR) | 2:43 |
-| 62 | [Blossom Peak](https://open.spotify.com/track/5NRyda6chosK9GspXprHgK) | [Elinaura](https://open.spotify.com/artist/1PHMZ5pRjowUYaUCXtOYVd) | [Blossom Peak & Warmcrest](https://open.spotify.com/album/5M8iB0dg3kg54ppszLVI9G) | 2:56 |
-| 63 | [Deasyn Moira \(Piano and Strings\)](https://open.spotify.com/track/0ebRVAx7crlZr9lkXK4cm3) | [Daniel Ketchum](https://open.spotify.com/artist/6TwhBnzSvGRJBC9obv73uz) | [Piano and Strings](https://open.spotify.com/album/6L20li4JZ6jmRfwwts9CO4) | 2:26 |
-| 64 | [I'm Yours](https://open.spotify.com/track/3vGp33C7IFjgJdvFDhvRc9) | [Karolina Szcześniak](https://open.spotify.com/artist/5pcFuJmgWmT0JvJELnkHrS) | [I'm Yours](https://open.spotify.com/album/4hMVTdiiq47rlHysJYOcfR) | 2:43 |
-| 65 | [NYC Waltz](https://open.spotify.com/track/270VPYYS4uR1haVazI85N3) | [Las Tinieblas](https://open.spotify.com/artist/3eY0YTyWNXA8z9zrWz1kYU) | [NYC Waltz](https://open.spotify.com/album/1SC79YaRaFEcgbro7JSAfF) | 2:24 |
-| 66 | [Ser A Ti](https://open.spotify.com/track/6rDxnznYVvGb0vFkgsBmmE) | [Hondos Rostros](https://open.spotify.com/artist/1GkARSHIynvDFV4eyUZvhC) | [Ser A Ti](https://open.spotify.com/album/0nC9dugAMHACUJQ6GSTZFB) | 3:34 |
-| 67 | [A Day in June](https://open.spotify.com/track/1pZZzlgOtbvhEI9I0e7Z1P) | [Davide Delvecchio](https://open.spotify.com/artist/5WDMPRZIzbj6Q2eXqVqXmu) | [A Day in June](https://open.spotify.com/album/2dbOdeW2CpY4UN43yMybuv) | 3:38 |
-| 68 | [Silver Sky](https://open.spotify.com/track/5S9EkxIUWgxcBuwmcVnits) | [Adam Bokesch](https://open.spotify.com/artist/2p01X9u8SiKbMseuTkgdoI) | [Silver Sky](https://open.spotify.com/album/00DwQxtjO2UzwLf1DU1lsS) | 3:20 |
-| 69 | [Rising Fog](https://open.spotify.com/track/3fndeX9142XIUH7qySaGMc) | [Elinaura](https://open.spotify.com/artist/1PHMZ5pRjowUYaUCXtOYVd) | [Rising Fog & Sacred Mountain](https://open.spotify.com/album/7tDT3L3XZF5Srio0CEqEyQ) | 3:18 |
-| 70 | [Second Sleep](https://open.spotify.com/track/6pGsdGElugsC8HygWqcSSK) | [S\. Salter](https://open.spotify.com/artist/1rr2n5xm79tKtt2vAANMGB) | [Second Sleep](https://open.spotify.com/album/54DvTHvJ5QG5c0F7B5YAZe) | 3:38 |
-| 71 | [Together](https://open.spotify.com/track/2DrBcfPBdC9rQ1puxyDkDB) | [Omar Raafat](https://open.spotify.com/artist/1WbvLPPRx9AHgPt2OwUbi3) | [The Traveler](https://open.spotify.com/album/6kkCrSH59rXLNsYFEHkQ59) | 2:38 |
-| 72 | [Save Your Tears](https://open.spotify.com/track/6HZNaBGl5N7OWCyntPYjgi) | [Dorette Roos](https://open.spotify.com/artist/7jKYBIGfuGvN2Jsvu5qGGX) | [Save Your Tears](https://open.spotify.com/album/6THGTBys7V3VsuL4PvHNt8) | 3:34 |
-| 73 | [Sacred Mountain](https://open.spotify.com/track/6qzS70K6z2XDu4bCwKVa50) | [Elinaura](https://open.spotify.com/artist/1PHMZ5pRjowUYaUCXtOYVd) | [Rising Fog & Sacred Mountain](https://open.spotify.com/album/7tDT3L3XZF5Srio0CEqEyQ) | 2:47 |
-| 74 | [Landsort](https://open.spotify.com/track/0VrOdgTIh68gW8p9WkXSPY) | [Olivia Meyer](https://open.spotify.com/artist/473vc3cGQmpGSHrcyvePWE) | [Fantasia](https://open.spotify.com/album/5h0R2d0rhCu6V46L91UBN4) | 2:19 |
-| 75 | [Frankenthaler](https://open.spotify.com/track/6fZyNWUtqDD9CXZI4Llh7G) | [Bromeliad](https://open.spotify.com/artist/3XlQzOKje7lZLZhMDnKZz3) | [Frankenthaler](https://open.spotify.com/album/2l8wc98B9kwJpXiQaZ4l35) | 1:45 |
-| 76 | [After the Storm](https://open.spotify.com/track/5NOfvyC7EmTHLlM8jCnDYr) | [HILMA](https://open.spotify.com/artist/5cfA35ok9YlWE032xcI423) | [Echo](https://open.spotify.com/album/4B2lXu2ZUFvgzJt6s7hPY1) | 2:56 |
+| 61 | [Largo from Xerxes](https://open.spotify.com/track/3dSA0ZoHzvXxvticgIz5MJ) | [George Frideric Handel](https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2), [Artwinder Modern Quartet](https://open.spotify.com/artist/2ipPNWfa4u0WTh99vGxpQ6) | [Quartet Classics Series: Largo from Xerxes](https://open.spotify.com/album/3REN8n3aARNwmHx9YcGjvQ) | 3:06 |
+| 62 | [The Dawning](https://open.spotify.com/track/0k963HCwT2H2SLhdA8CWve) | [Christoffer Moe Ditlevsen](https://open.spotify.com/artist/1byqtZiN0rWjNg7kXy5j3S), [Anna Dager](https://open.spotify.com/artist/2So39o3NqsjLtwwohABw5B), [Hanna Ekström](https://open.spotify.com/artist/5oKBGEzl76HnP3fS2cU366) | [The Dawning](https://open.spotify.com/album/2dukrzOf2iXJpRDSJqZRWH) | 2:47 |
+| 63 | [Breathing Softly](https://open.spotify.com/track/5fOXMCEaxYSAObSdJ7nvCV) | [Wilson Trouvé](https://open.spotify.com/artist/1Qh6CmBget32TmvDZBoK8E) | [Breathing Softly](https://open.spotify.com/album/6W9cOGtIJZtT1J5ypPCcHR) | 2:43 |
+| 64 | [Blossom Peak](https://open.spotify.com/track/5NRyda6chosK9GspXprHgK) | [Elinaura](https://open.spotify.com/artist/1PHMZ5pRjowUYaUCXtOYVd) | [Blossom Peak & Warmcrest](https://open.spotify.com/album/5M8iB0dg3kg54ppszLVI9G) | 2:56 |
+| 65 | [Deasyn Moira \(Piano and Strings\)](https://open.spotify.com/track/0ebRVAx7crlZr9lkXK4cm3) | [Daniel Ketchum](https://open.spotify.com/artist/6TwhBnzSvGRJBC9obv73uz) | [Piano and Strings](https://open.spotify.com/album/6L20li4JZ6jmRfwwts9CO4) | 2:26 |
+| 66 | [I'm Yours](https://open.spotify.com/track/3vGp33C7IFjgJdvFDhvRc9) | [Karolina Szcześniak](https://open.spotify.com/artist/5pcFuJmgWmT0JvJELnkHrS) | [I'm Yours](https://open.spotify.com/album/4hMVTdiiq47rlHysJYOcfR) | 2:43 |
+| 67 | [NYC Waltz](https://open.spotify.com/track/270VPYYS4uR1haVazI85N3) | [Las Tinieblas](https://open.spotify.com/artist/3eY0YTyWNXA8z9zrWz1kYU) | [NYC Waltz](https://open.spotify.com/album/1SC79YaRaFEcgbro7JSAfF) | 2:24 |
+| 68 | [Ser A Ti](https://open.spotify.com/track/6rDxnznYVvGb0vFkgsBmmE) | [Hondos Rostros](https://open.spotify.com/artist/1GkARSHIynvDFV4eyUZvhC) | [Ser A Ti](https://open.spotify.com/album/0nC9dugAMHACUJQ6GSTZFB) | 3:34 |
+| 69 | [A Day in June](https://open.spotify.com/track/1pZZzlgOtbvhEI9I0e7Z1P) | [Davide Delvecchio](https://open.spotify.com/artist/5WDMPRZIzbj6Q2eXqVqXmu) | [A Day in June](https://open.spotify.com/album/2dbOdeW2CpY4UN43yMybuv) | 3:38 |
+| 70 | [Silver Sky](https://open.spotify.com/track/5S9EkxIUWgxcBuwmcVnits) | [Adam Bokesch](https://open.spotify.com/artist/2p01X9u8SiKbMseuTkgdoI) | [Silver Sky](https://open.spotify.com/album/00DwQxtjO2UzwLf1DU1lsS) | 3:20 |
+| 71 | [Rising Fog](https://open.spotify.com/track/3fndeX9142XIUH7qySaGMc) | [Elinaura](https://open.spotify.com/artist/1PHMZ5pRjowUYaUCXtOYVd) | [Rising Fog & Sacred Mountain](https://open.spotify.com/album/7tDT3L3XZF5Srio0CEqEyQ) | 3:18 |
+| 72 | [Second Sleep](https://open.spotify.com/track/6pGsdGElugsC8HygWqcSSK) | [S\. Salter](https://open.spotify.com/artist/1rr2n5xm79tKtt2vAANMGB) | [Second Sleep](https://open.spotify.com/album/54DvTHvJ5QG5c0F7B5YAZe) | 3:38 |
+| 73 | [Together](https://open.spotify.com/track/2DrBcfPBdC9rQ1puxyDkDB) | [Omar Raafat](https://open.spotify.com/artist/1WbvLPPRx9AHgPt2OwUbi3) | [The Traveler](https://open.spotify.com/album/6kkCrSH59rXLNsYFEHkQ59) | 2:38 |
+| 74 | [Save Your Tears](https://open.spotify.com/track/6HZNaBGl5N7OWCyntPYjgi) | [Dorette Roos](https://open.spotify.com/artist/7jKYBIGfuGvN2Jsvu5qGGX) | [Save Your Tears](https://open.spotify.com/album/6THGTBys7V3VsuL4PvHNt8) | 3:34 |
+| 75 | [Sacred Mountain](https://open.spotify.com/track/6qzS70K6z2XDu4bCwKVa50) | [Elinaura](https://open.spotify.com/artist/1PHMZ5pRjowUYaUCXtOYVd) | [Rising Fog & Sacred Mountain](https://open.spotify.com/album/7tDT3L3XZF5Srio0CEqEyQ) | 2:47 |
+| 76 | [Landsort](https://open.spotify.com/track/0VrOdgTIh68gW8p9WkXSPY) | [Olivia Meyer](https://open.spotify.com/artist/473vc3cGQmpGSHrcyvePWE) | [Fantasia](https://open.spotify.com/album/5h0R2d0rhCu6V46L91UBN4) | 2:19 |
+| 77 | [Frankenthaler](https://open.spotify.com/track/6fZyNWUtqDD9CXZI4Llh7G) | [Bromeliad](https://open.spotify.com/artist/3XlQzOKje7lZLZhMDnKZz3) | [Frankenthaler](https://open.spotify.com/album/2l8wc98B9kwJpXiQaZ4l35) | 1:45 |
+| 78 | [After the Storm](https://open.spotify.com/track/5NOfvyC7EmTHLlM8jCnDYr) | [HILMA](https://open.spotify.com/artist/5cfA35ok9YlWE032xcI423) | [Echo](https://open.spotify.com/album/4B2lXu2ZUFvgzJt6s7hPY1) | 2:56 |
 
-Snapshot ID: `MTY2MjExMjg5NywwMDAwMDAwMDFjMmQxOThhMjQ3YTdiZjBiYmE0YTdmNDljMjc4YmM4`
+Snapshot ID: `MTY2MjY4MTYwMCwwMDAwMDAwMDViMDA2OTBkNGFlNzdkMWQxZDlmYjQ4ZjM4YmEyOGE5`

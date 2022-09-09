@@ -2,7 +2,7 @@
 
 ### [Hard Bop Classics](https://open.spotify.com/playlist/37i9dQZF1DWZZfLKhEkflI)
 
-> Funky jazz from the mid 1950s to the early 1960s\. Cover: Art Blakey
+> Funky Jazz from the mid 1950s to the early 1960s\. Cover: Art Blakey
 
 84 songs - 9 hr 59 min - [published](https://open.spotify.com/playlist/2b7j02vyfaUwUVvu3T1f24)
 

@@ -764,6 +764,24 @@
     },
     {
       "album": {
+        "name": "EVERYTHING IS RIGHT THERE",
+        "url": "https://open.spotify.com/album/73MwAptlBndHISLjjH4BAU"
+      },
+      "artists": [
+        {
+          "name": "EverythingOShauN",
+          "url": "https://open.spotify.com/artist/5OTdYlGM1r6HuTFAonqq03"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166336,
+      "name": "BUSY BEE",
+      "url": "https://open.spotify.com/track/4uweBT4cK0yoX4ehE7MXFk"
+    },
+    {
+      "album": {
         "name": "C'est dos\u00e9",
         "url": "https://open.spotify.com/album/5FY4VGL8QWWn3Vu6gNrKQ5"
       },

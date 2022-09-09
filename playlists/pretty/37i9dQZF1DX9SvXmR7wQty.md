@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 
 > Les nouveautés francophones de la semaine\. Photo: Farfadet, Souldia
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,914 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,922 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 39 | [Feel Good \- Version Française](https://open.spotify.com/track/740x2wsOM0avrDXBraTxDP) | [Five Roses](https://open.spotify.com/artist/6MN4Gf274aRJNoPjj0GTok) | [Jukebox Vibrations](https://open.spotify.com/album/2ZNOL1KznYYIwPEq4DIykD) | 2:49 |
 | 40 | [Il était une fois](https://open.spotify.com/track/3uLZL8cZl2Hr1lal1Cet3D) | [Die\-On](https://open.spotify.com/artist/3PiPx0tAJVVmdwScvelkq3), [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1) | [Il était une fois](https://open.spotify.com/album/2viKHkCMddUIbdI4EWbbTd) | 4:05 |
 | 41 | [FOTO](https://open.spotify.com/track/6L7mM6G8HBCP8lvHNoRrQn) | [Lartiste](https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz), [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [FOTO](https://open.spotify.com/album/3G2ZCoy8vRhlbWngpG8jNn) | 3:40 |
-| 42 | [Bonita](https://open.spotify.com/track/4u5yF9901XzjO8TmccIE59) | [Ced Auger](https://open.spotify.com/artist/64wJH22II7dGiPX2c8ClZk), [Og Cyrus](https://open.spotify.com/artist/56FZAZpjwmjxBMYQTVSz5J), [Paranoize](https://open.spotify.com/artist/7HAc0ID4r7Z7divOc9pGQA) | [Bonita](https://open.spotify.com/album/2qwuTEQGT5TLBpG0KBPn4C) | 2:33 |
+| 42 | [Bonita](https://open.spotify.com/track/4u5yF9901XzjO8TmccIE59) | [Ced Auger](https://open.spotify.com/artist/64wJH22II7dGiPX2c8ClZk), [og cyrus](https://open.spotify.com/artist/3KRSccEFVrRnMRe0XKGuNy), [Paranoize](https://open.spotify.com/artist/7HAc0ID4r7Z7divOc9pGQA) | [Bonita](https://open.spotify.com/album/2qwuTEQGT5TLBpG0KBPn4C) | 2:33 |
 | 43 | [Plonge](https://open.spotify.com/track/2KOK8PdSiabVHHCyihsFOJ) | [William Papillon](https://open.spotify.com/artist/3Hrbbg19aEK3UpbzpPcfys), [Bazzart](https://open.spotify.com/artist/2MbDF1l08wsQOWjwg54YYa) | [Plonge](https://open.spotify.com/album/5YicDJyhPlaWwoNzVouDR9) | 2:48 |
 | 44 | [Lasso](https://open.spotify.com/track/3pWPoemqsALywUPe6L2t77) | [Jérôme Minière](https://open.spotify.com/artist/35QNxIS3w7AC2R2vrAlrhT) | [La mélodie, le fleuve et la nuit](https://open.spotify.com/album/7vCyRrsIaeLmbd8jcudLbG) | 2:52 |
 | 45 | [Toi](https://open.spotify.com/track/1g2NGyu1fL7B5RipZgmFNY) | [Slimane](https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz) | [Toi](https://open.spotify.com/album/5JQodTDUxGraUtOXeYwIpV) | 3:11 |

@@ -4,7 +4,7 @@
 
 > Women at full volume! Luister naar muziek van vrouwen uit Nederland\. Cover: Sigourney K
 
-500 songs - 1 day 2 hr 29 min - [published](https://open.spotify.com/playlist/4HFBvyCxCRzRXdAd3xUnbU)
+501 songs - 1 day 2 hr 32 min - [published](https://open.spotify.com/playlist/4HFBvyCxCRzRXdAd3xUnbU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -442,7 +442,8 @@
 | [Vallen en Opstaan](https://open.spotify.com/track/0Z0Sm2yfevVYx7SGsaHsl1) | [Zoë Livay](https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE) | [Vallen en Opstaan](https://open.spotify.com/album/4EkEYSzFoWJFLV6JlPcYCH) | 2:37 | 2022-04-05 | 2022-05-04 |
 | [Vals Alarm](https://open.spotify.com/track/0NzWdMWrSHASaTBaE6mAcx) | [Lisa Michels](https://open.spotify.com/artist/79CPotbn7wd5Iu7dF9tY7e) | [Vals Alarm](https://open.spotify.com/album/6UgRBQHb7BLmo40BMVd7i6) | 2:16 | 2022-07-05 | 2022-08-03 |
 | [Van Wie Ik Gister Hield](https://open.spotify.com/track/7K4zPwICLeYKzDCMjDvrgm) | [May Evans](https://open.spotify.com/artist/5k9sSEBSrvpLVxBJqCgs6f) | [Van Wie Ik Gister Hield](https://open.spotify.com/album/5GaEzIYMGWnGGmULCQKkUD) | 4:06 | 2022-06-01 | 2022-07-06 |
-| [Vannacht](https://open.spotify.com/track/6qpvHSFjsFSNl2Q8PwwoyL) | [Roxeanne Hazes](https://open.spotify.com/artist/1GWpddfwL9bVovOzCtNQN6) | [Beste Zangers 2022 \(Roxeanne Hazes\)](https://open.spotify.com/album/3ZGmm4UXBt7vkvSLAQYB65) | 3:01 | 2022-09-06 |  |
+| [Vannacht](https://open.spotify.com/track/6BqAwGauiyivtf93NNkLJm) | [Roxeanne Hazes](https://open.spotify.com/artist/1GWpddfwL9bVovOzCtNQN6) | [Vannacht](https://open.spotify.com/album/54fucRozUfdTF8glsggqwl) | 3:01 | 2022-09-06 |  |
+| [Vannacht](https://open.spotify.com/track/6qpvHSFjsFSNl2Q8PwwoyL) | [Roxeanne Hazes](https://open.spotify.com/artist/1GWpddfwL9bVovOzCtNQN6) | [Beste Zangers 2022 \(Roxeanne Hazes\)](https://open.spotify.com/album/3ZGmm4UXBt7vkvSLAQYB65) | 3:01 | 2022-09-06 | 2022-09-09 |
 | [Veel Meer Een Bitch Dan Ik](https://open.spotify.com/track/0n8UNOKNk6zeMuPbjuWzzn) | [Manou Jue Cardoso](https://open.spotify.com/artist/0SmWDBLIEmEfRrvyn03fEi) | [Veel Meer Een Bitch Dan Ik](https://open.spotify.com/album/3jTuvTREPs5vWlDbJotsiL) | 3:02 | 2022-05-03 | 2022-06-01 |
 | [Veel Meer Pijn](https://open.spotify.com/track/5L5Xk6QM2esNmg2YEprOPs) | [MAXINE](https://open.spotify.com/artist/5dtGl462189xrrzzNRGRnz) | [Veel Meer Pijn](https://open.spotify.com/album/3TRu9xb1DUP3IzMpRUtsWK) | 2:20 | 2022-09-06 |  |
 | [Veel Te Snel](https://open.spotify.com/track/0DTJHINndG61wLOLcLnXrq) | [OG3NE](https://open.spotify.com/artist/1SiCF4gVjnR5iAIwk1nkXo) | [Veel Te Snel](https://open.spotify.com/album/2YWd4zvqXb7H4zvGsLKNIP) | 3:22 | 2022-04-05 | 2022-05-04 |

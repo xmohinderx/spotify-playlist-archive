@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-26",
-  "description": "Fresh jazz by independent artists every Wednesday. Cover: J. White Artwork: Joy Yamusangie",
+  "description": "Fresh jazz by independent artists every Wednesday. Cover: Marissa Zechinato Artwork: Joy Yamusangie",
   "name": "Fresh Finds Jazz",
   "published_playlist_ids": [
     "0wb3k7kBCUHVvVA8CRqr8x"
@@ -125,7 +125,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 382135,
       "name": "158 and Riverside (feat. Sam Ryder & Joe Dart)",
       "url": "https://open.spotify.com/track/7lhTJRLaVSPILWhaWDgYrm"
@@ -339,7 +339,7 @@
       ],
       "date_added": "2022-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 142733,
       "name": "A Certain Sandal",
       "url": "https://open.spotify.com/track/0SP7TYSC06bA4Awz99eERW"
@@ -807,7 +807,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 163239,
       "name": "Along The Way",
       "url": "https://open.spotify.com/track/3J66iW5HU4hbWsDAWejomi"
@@ -1532,6 +1532,24 @@
     },
     {
       "album": {
+        "name": "Birth To Spirit",
+        "url": "https://open.spotify.com/album/3K5UQn5uUaPGmxFllCm9ak"
+      },
+      "artists": [
+        {
+          "name": "Francisco Morales",
+          "url": "https://open.spotify.com/artist/2rW1QhV98bS3IoRVnh6ftM"
+        }
+      ],
+      "date_added": "2022-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146642,
+      "name": "Birth To Spirit",
+      "url": "https://open.spotify.com/track/68LeJ0R1KDciUZtlhrw0HQ"
+    },
+    {
+      "album": {
         "name": "Black Is Black",
         "url": "https://open.spotify.com/album/5ucVokbVqHbiZEOS5IbYq6"
       },
@@ -1565,6 +1583,24 @@
       "duration_ms": 256385,
       "name": "Black Liberation",
       "url": "https://open.spotify.com/track/1WIfBbOP8KcZsJiQU3No3S"
+    },
+    {
+      "album": {
+        "name": "Crossing Reality",
+        "url": "https://open.spotify.com/album/1D26JQHB9n7RDINZ5O8tXe"
+      },
+      "artists": [
+        {
+          "name": "\u79e9\u7236\u82f1\u91cc",
+          "url": "https://open.spotify.com/artist/3zVWuFMxi3W6BBeKUZX8GO"
+        }
+      ],
+      "date_added": "2022-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278583,
+      "name": "Blackberry Winter",
+      "url": "https://open.spotify.com/track/1QLz0xLqYiTLH1wgFH6syY"
     },
     {
       "album": {
@@ -2259,7 +2295,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 194050,
       "name": "Carte Blanche",
       "url": "https://open.spotify.com/track/76NPiAAkI1o5pj0HsZ4zvt"
@@ -2649,7 +2685,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 295176,
       "name": "Confirmation",
       "url": "https://open.spotify.com/track/4hT1CgkQIlhmA1DIVYrLx8"
@@ -5687,7 +5723,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 301527,
       "name": "Idea",
       "url": "https://open.spotify.com/track/3Ja8BDHAiBr9jowy51tNdF"
@@ -5775,6 +5811,24 @@
       "duration_ms": 282000,
       "name": "Igs' Digs",
       "url": "https://open.spotify.com/track/2bFcUd5XOTS2BU3StaAaKe"
+    },
+    {
+      "album": {
+        "name": "III",
+        "url": "https://open.spotify.com/album/6KzAKasRlT3lvYC1CdOavu"
+      },
+      "artists": [
+        {
+          "name": "Oren Ambarchi",
+          "url": "https://open.spotify.com/artist/1fIzM2bmsXG77E5EMPtdKW"
+        }
+      ],
+      "date_added": "2022-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376306,
+      "name": "III",
+      "url": "https://open.spotify.com/track/0fcpjI0H07TAKQVLlLkjGh"
     },
     {
       "album": {
@@ -6826,6 +6880,24 @@
     },
     {
       "album": {
+        "name": "Kukorica",
+        "url": "https://open.spotify.com/album/774jBFwa1zuWj6IIAlEEvc"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00e1n Olivares",
+          "url": "https://open.spotify.com/artist/03WQPoPoQBTsOjPLJVE7ek"
+        }
+      ],
+      "date_added": "2022-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240830,
+      "name": "Kukorica",
+      "url": "https://open.spotify.com/track/4Ws1PJHO0t0wpYOWlKtMqt"
+    },
+    {
+      "album": {
         "name": "L'Aventino",
         "url": "https://open.spotify.com/album/43A04XzVyrDLNXMLoiyZpd"
       },
@@ -7049,6 +7121,24 @@
       "duration_ms": 325000,
       "name": "Lazy Breeze",
       "url": "https://open.spotify.com/track/5opjMyL91jXnGcLRBb36BJ"
+    },
+    {
+      "album": {
+        "name": "Lazy!",
+        "url": "https://open.spotify.com/album/1uslQhaC44bRhWs6ZoCmfx"
+      },
+      "artists": [
+        {
+          "name": "Viuk",
+          "url": "https://open.spotify.com/artist/6G6VXSl6kC6kfXIbShzNwZ"
+        }
+      ],
+      "date_added": "2022-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137543,
+      "name": "Lazy!",
+      "url": "https://open.spotify.com/track/3te3j9JwA5xd0nVWCJBBfE"
     },
     {
       "album": {
@@ -7602,6 +7692,28 @@
     },
     {
       "album": {
+        "name": "Make Me",
+        "url": "https://open.spotify.com/album/2oQ7FfIuun0tkINrmhiuHB"
+      },
+      "artists": [
+        {
+          "name": "Marissa Zechinato",
+          "url": "https://open.spotify.com/artist/6VJ25I8H8tRG3d3X76iMJX"
+        },
+        {
+          "name": "Chris Aschman",
+          "url": "https://open.spotify.com/artist/4eEUNJm9lsEoQl5mHGwXhu"
+        }
+      ],
+      "date_added": "2022-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204971,
+      "name": "Make Me",
+      "url": "https://open.spotify.com/track/5HDdMBC5E2wBOyjzhAHlPb"
+    },
+    {
+      "album": {
         "name": "Making The World Disappear",
         "url": "https://open.spotify.com/album/62TETBydcFzqMzQE3tEWh9"
       },
@@ -7737,6 +7849,24 @@
       "duration_ms": 444461,
       "name": "Marshland IV - Rays",
       "url": "https://open.spotify.com/track/1hLmjGsHWA5I2lTHIR9qoi"
+    },
+    {
+      "album": {
+        "name": "MASQUERADE!",
+        "url": "https://open.spotify.com/album/4Z7AfRdyvxpPPH837iTaXS"
+      },
+      "artists": [
+        {
+          "name": "YUSUKE NAKAMURA",
+          "url": "https://open.spotify.com/artist/3stNhAAg61ozi8VHUgtcjG"
+        }
+      ],
+      "date_added": "2022-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228902,
+      "name": "MASQUERADE!",
+      "url": "https://open.spotify.com/track/7COeUxxiLP2GqTIzOvCZhK"
     },
     {
       "album": {
@@ -7917,7 +8047,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 234986,
       "name": "Mending",
       "url": "https://open.spotify.com/track/6zbMkHR8vbJbEtuBytboaE"
@@ -8047,7 +8177,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 325786,
       "name": "Midnight San Francisco",
       "url": "https://open.spotify.com/track/0Yq0sZ8BgzhP66DyDQ0ESR"
@@ -8813,7 +8943,7 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 536320,
       "name": "New Possibilites - Live",
       "url": "https://open.spotify.com/track/0AhMl0dutlYqpNKGS0ZezO"
@@ -10206,6 +10336,28 @@
     },
     {
       "album": {
+        "name": "Queesh",
+        "url": "https://open.spotify.com/album/5EdeV6rTgf4AnhA9A80ULL"
+      },
+      "artists": [
+        {
+          "name": "Titus Maz",
+          "url": "https://open.spotify.com/artist/37d7YzlD13SIAz8ptROpKv"
+        },
+        {
+          "name": "Andre Louis",
+          "url": "https://open.spotify.com/artist/2yOknhozWTvJ91A1pDsPoI"
+        }
+      ],
+      "date_added": "2022-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267500,
+      "name": "Queesh",
+      "url": "https://open.spotify.com/track/62cP2J1T4O7Vil9KXTWLOV"
+    },
+    {
+      "album": {
         "name": "Quietest In The Room",
         "url": "https://open.spotify.com/album/0ytOZdDbhr8DfEezUquzEQ"
       },
@@ -10315,6 +10467,36 @@
       "duration_ms": 222000,
       "name": "Receipt",
       "url": "https://open.spotify.com/track/5SN8d9C032oQFD5OPLQSuT"
+    },
+    {
+      "album": {
+        "name": "Recollections Abstracted",
+        "url": "https://open.spotify.com/album/45DPR62WKg1y09EyJcde93"
+      },
+      "artists": [
+        {
+          "name": "Kei Matsumaru",
+          "url": "https://open.spotify.com/artist/3mHyQil6LHrtKvJ2hrFN6e"
+        },
+        {
+          "name": "Akira Ishii",
+          "url": "https://open.spotify.com/artist/4aXZZMEzjJD8LbpsfNl6W0"
+        },
+        {
+          "name": "Hideaki Kanazawa",
+          "url": "https://open.spotify.com/artist/7a99ADzo7A5wdnxqFz5X7i"
+        },
+        {
+          "name": "Shun Ishiwaka",
+          "url": "https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R"
+        }
+      ],
+      "date_added": "2022-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 492031,
+      "name": "Recollections Abstracted",
+      "url": "https://open.spotify.com/track/4a9WjEoPVlaCfNy4SNkysJ"
     },
     {
       "album": {
@@ -10667,7 +10849,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 221333,
       "name": "ROLEPLAYER",
       "url": "https://open.spotify.com/track/4HXBbooAJBt5tJypc5aF2Z"
@@ -10893,7 +11075,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 168085,
       "name": "Secret No. 3",
       "url": "https://open.spotify.com/track/2l4acT3KGSjTDqEDpquQ1S"
@@ -11017,6 +11199,24 @@
       "duration_ms": 177535,
       "name": "Shadows",
       "url": "https://open.spotify.com/track/32OmSk7brw7z1d2CX1xCU2"
+    },
+    {
+      "album": {
+        "name": "Shake & Bake",
+        "url": "https://open.spotify.com/album/06sv8HPUv9q8rbrlILmVHu"
+      },
+      "artists": [
+        {
+          "name": "King Edi K",
+          "url": "https://open.spotify.com/artist/4yg0AcCM1U7Qf0JA4Y5OsO"
+        }
+      ],
+      "date_added": "2022-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280822,
+      "name": "Shake & Bake",
+      "url": "https://open.spotify.com/track/24a7pZ4U6ISIY7NXLNnaWm"
     },
     {
       "album": {
@@ -11775,7 +11975,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 224339,
       "name": "Starshine",
       "url": "https://open.spotify.com/track/5QJ9hMbrRgy0bh2Rf6X2qH"
@@ -12025,7 +12225,7 @@
       ],
       "date_added": "2022-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 225500,
       "name": "Subject to change",
       "url": "https://open.spotify.com/track/09WDDXXdAK2vR9CWIu9T3V"
@@ -13530,6 +13730,24 @@
     },
     {
       "album": {
+        "name": "This Time",
+        "url": "https://open.spotify.com/album/5E7zHSjS50KIyYfbZPDfs2"
+      },
+      "artists": [
+        {
+          "name": "Franziska Loos",
+          "url": "https://open.spotify.com/artist/2kRdxixo3sYS0W1MMxacCt"
+        }
+      ],
+      "date_added": "2022-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266772,
+      "name": "This Time",
+      "url": "https://open.spotify.com/track/2ilBGus21Hd8eOcz9eu6kJ"
+    },
+    {
+      "album": {
         "name": "This Time, This Sight",
         "url": "https://open.spotify.com/album/4Wp02hXiLNFwP8xRxjA1uX"
       },
@@ -14880,6 +15098,24 @@
     },
     {
       "album": {
+        "name": "World of Computers, Pt. 2",
+        "url": "https://open.spotify.com/album/3XviVYmxxwb01U6svvZQWq"
+      },
+      "artists": [
+        {
+          "name": "Marbin",
+          "url": "https://open.spotify.com/artist/3bbmbyiX3lqrAjlwFgZE16"
+        }
+      ],
+      "date_added": "2022-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 368160,
+      "name": "World of Computers, Pt. 2",
+      "url": "https://open.spotify.com/track/2zSurdX35O6JpcFPfovFKc"
+    },
+    {
+      "album": {
         "name": "Worlds Within Worlds",
         "url": "https://open.spotify.com/album/3zIg5nc0vtA91mvfJadGnH"
       },
@@ -14971,6 +15207,24 @@
       "duration_ms": 236100,
       "name": "Yat\u00ea (Live Session)",
       "url": "https://open.spotify.com/track/0aanUrRQr10IWELPxab8lP"
+    },
+    {
+      "album": {
+        "name": "Yawahada",
+        "url": "https://open.spotify.com/album/5tw5GnHEYBv2ozZd6vqS5t"
+      },
+      "artists": [
+        {
+          "name": "ddddeeeellllaaa",
+          "url": "https://open.spotify.com/artist/1b1ZHOGcoZfdw68Ru9dznA"
+        }
+      ],
+      "date_added": "2022-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172333,
+      "name": "Yawahada",
+      "url": "https://open.spotify.com/track/0aV0fp1nxUuib9CsMJnqcc"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "\uc6b0\uc0b0\uc744 \ub358\uc9c0\uace0 \ube57 \uc18d\uc73c\ub85c \ub6f0\uc5b4\ub4e4\uace0 \uc2f6\uc740 \ub0a0\uc5d0 \ub4e4\uc73c\uc138\uc694!",
-  "num_followers": 1446,
+  "num_followers": 1482,
   "original_name": "\ube57 \uc18d\uc73c\ub85c \ub6f0\uc5b4\ub4e4\uc5b4",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjM5MzM5MiwwMDAwMDAwMGFlZDE4YjZmOTNlNzUzMTZhMDdiZTVkOGU5ODk1NWUw",
+  "snapshot_id": "MTY2MjM5MzM5MiwwMDAwMDAwMDg3NzI5MTNkOGU1NzdhZGI2ZDAwZWY0ZTNkZTFlMDVi",
   "tracks": [
     {
       "added_at": "2022-09-05 15:56:32",
@@ -563,6 +563,38 @@
     {
       "added_at": "2022-09-05 15:56:32",
       "album": {
+        "name": "MERRY GO ROUND",
+        "url": "https://open.spotify.com/album/4OgB9RaPgJZrll8DjBpxfM"
+      },
+      "artists": [
+        {
+          "name": "Grizzly",
+          "url": "https://open.spotify.com/artist/5Egus6b1x9pYOnqsG7y1f4"
+        }
+      ],
+      "duration_ms": 200826,
+      "name": "MERRY GO ROUND",
+      "url": "https://open.spotify.com/track/2wAoIkP1XpMeAAnGSH4Drv"
+    },
+    {
+      "added_at": "2022-09-05 15:56:32",
+      "album": {
+        "name": "Youth Hostel",
+        "url": "https://open.spotify.com/album/1nbMITy1nsScR47Pd4zWJ6"
+      },
+      "artists": [
+        {
+          "name": "Youth Hostel",
+          "url": "https://open.spotify.com/artist/73VQvHkpR7ZCn8SOqTqtzK"
+        }
+      ],
+      "duration_ms": 178750,
+      "name": "Summer",
+      "url": "https://open.spotify.com/track/55FLC4BaLbUr7plCVL0j1e"
+    },
+    {
+      "added_at": "2022-09-05 15:56:32",
+      "album": {
         "name": "EVERYD4Y",
         "url": "https://open.spotify.com/album/0PT0APCmw2DVgX4JJYtrzU"
       },
@@ -611,22 +643,6 @@
     {
       "added_at": "2022-09-05 15:56:32",
       "album": {
-        "name": "Spring to Spring",
-        "url": "https://open.spotify.com/album/2eWnAFsvpRhlP3j1nCFzCR"
-      },
-      "artists": [
-        {
-          "name": "Hoppipolla",
-          "url": "https://open.spotify.com/artist/1S80vOcrnT9UD9zgLeyfx2"
-        }
-      ],
-      "duration_ms": 328226,
-      "name": "About Time",
-      "url": "https://open.spotify.com/track/2jCReozD8Vuwfl8QwY1Au9"
-    },
-    {
-      "added_at": "2022-09-05 15:56:32",
-      "album": {
         "name": "Racket Boys (Original Television Soundtrack) Pt. 5",
         "url": "https://open.spotify.com/album/3LZCD80VWyUCWwJW9wuxLX"
       },
@@ -643,18 +659,18 @@
     {
       "added_at": "2022-09-05 15:56:32",
       "album": {
-        "name": "Youth Hostel",
-        "url": "https://open.spotify.com/album/1nbMITy1nsScR47Pd4zWJ6"
+        "name": "Spring to Spring",
+        "url": "https://open.spotify.com/album/2eWnAFsvpRhlP3j1nCFzCR"
       },
       "artists": [
         {
-          "name": "Youth Hostel",
-          "url": "https://open.spotify.com/artist/73VQvHkpR7ZCn8SOqTqtzK"
+          "name": "Hoppipolla",
+          "url": "https://open.spotify.com/artist/1S80vOcrnT9UD9zgLeyfx2"
         }
       ],
-      "duration_ms": 178750,
-      "name": "Summer",
-      "url": "https://open.spotify.com/track/55FLC4BaLbUr7plCVL0j1e"
+      "duration_ms": 328226,
+      "name": "About Time",
+      "url": "https://open.spotify.com/track/2jCReozD8Vuwfl8QwY1Au9"
     },
     {
       "added_at": "2022-09-05 15:56:32",
@@ -679,22 +695,6 @@
     {
       "added_at": "2022-09-05 15:56:32",
       "album": {
-        "name": "Your Voice Makes Me Dream",
-        "url": "https://open.spotify.com/album/3SGS1Q2ohr21a7Vq8G0C0n"
-      },
-      "artists": [
-        {
-          "name": "Dinner Coat",
-          "url": "https://open.spotify.com/artist/0NBzQhDqLwWJbfuQhNmgiV"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Your Voice Makes Me Dream",
-      "url": "https://open.spotify.com/track/23Pw6OjQUUg06RGKq406yK"
-    },
-    {
-      "added_at": "2022-09-05 15:56:32",
-      "album": {
         "name": "PAGE",
         "url": "https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g"
       },
@@ -707,6 +707,22 @@
       "duration_ms": 224288,
       "name": "WERE WE?",
       "url": "https://open.spotify.com/track/6p0Mxm4v5RUHaS2k3KHVBE"
+    },
+    {
+      "added_at": "2022-09-05 15:56:32",
+      "album": {
+        "name": "Your Voice Makes Me Dream",
+        "url": "https://open.spotify.com/album/3SGS1Q2ohr21a7Vq8G0C0n"
+      },
+      "artists": [
+        {
+          "name": "Dinner Coat",
+          "url": "https://open.spotify.com/artist/0NBzQhDqLwWJbfuQhNmgiV"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Your Voice Makes Me Dream",
+      "url": "https://open.spotify.com/track/23Pw6OjQUUg06RGKq406yK"
     },
     {
       "added_at": "2022-09-05 15:56:32",
@@ -727,22 +743,6 @@
     {
       "added_at": "2022-09-05 15:56:32",
       "album": {
-        "name": "ONE",
-        "url": "https://open.spotify.com/album/2jiqNvn5avoJkcSNaUE1EA"
-      },
-      "artists": [
-        {
-          "name": "ONEWE",
-          "url": "https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16"
-        }
-      ],
-      "duration_ms": 162266,
-      "name": "Feeling Good - 2019 Ver",
-      "url": "https://open.spotify.com/track/57sMkc27ZlIo9pSCv6O6ng"
-    },
-    {
-      "added_at": "2022-09-05 15:56:32",
-      "album": {
         "name": "Fuzzy peach",
         "url": "https://open.spotify.com/album/26peULcrRxnzOoRCqQZEzx"
       },
@@ -759,22 +759,6 @@
     {
       "added_at": "2022-09-05 15:56:32",
       "album": {
-        "name": "STELLA I",
-        "url": "https://open.spotify.com/album/1TCX395u7CaSsCLtiwsMAN"
-      },
-      "artists": [
-        {
-          "name": "Stella Jang",
-          "url": "https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV"
-        }
-      ],
-      "duration_ms": 116000,
-      "name": "Go Your Way",
-      "url": "https://open.spotify.com/track/5CKEQUucs3M5To1LqfC8Qq"
-    },
-    {
-      "added_at": "2022-09-05 15:56:32",
-      "album": {
         "name": "Hundred Million Stars from the Sky (Original Television Soundtrack), Pt. 1",
         "url": "https://open.spotify.com/album/00vsz6H264Nbmq4XXMgK7d"
       },
@@ -787,6 +771,38 @@
       "duration_ms": 265000,
       "name": "Someday",
       "url": "https://open.spotify.com/track/6SHcJIhRWtiHGmWuAwlxUt"
+    },
+    {
+      "added_at": "2022-09-05 15:56:32",
+      "album": {
+        "name": "ONE",
+        "url": "https://open.spotify.com/album/2jiqNvn5avoJkcSNaUE1EA"
+      },
+      "artists": [
+        {
+          "name": "ONEWE",
+          "url": "https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16"
+        }
+      ],
+      "duration_ms": 162266,
+      "name": "Feeling Good - 2019 Ver",
+      "url": "https://open.spotify.com/track/57sMkc27ZlIo9pSCv6O6ng"
+    },
+    {
+      "added_at": "2022-09-05 15:56:32",
+      "album": {
+        "name": "STELLA I",
+        "url": "https://open.spotify.com/album/1TCX395u7CaSsCLtiwsMAN"
+      },
+      "artists": [
+        {
+          "name": "Stella Jang",
+          "url": "https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV"
+        }
+      ],
+      "duration_ms": 116000,
+      "name": "Go Your Way",
+      "url": "https://open.spotify.com/track/5CKEQUucs3M5To1LqfC8Qq"
     },
     {
       "added_at": "2022-09-05 15:56:32",
@@ -819,22 +835,6 @@
       "duration_ms": 282118,
       "name": "MIRROR",
       "url": "https://open.spotify.com/track/50yugvQfKMyDyL2hEOxf9G"
-    },
-    {
-      "added_at": "2022-09-05 15:56:32",
-      "album": {
-        "name": "You need my love",
-        "url": "https://open.spotify.com/album/1dXOIUrXCi7RBbQSj5WfGE"
-      },
-      "artists": [
-        {
-          "name": "verycoybunny",
-          "url": "https://open.spotify.com/artist/2J9XKuzbhYp7Ibs7sqGoGB"
-        }
-      ],
-      "duration_ms": 220480,
-      "name": "You need my love",
-      "url": "https://open.spotify.com/track/2KnF8lF5elSlvN97jOgAaw"
     },
     {
       "added_at": "2022-09-05 15:56:32",

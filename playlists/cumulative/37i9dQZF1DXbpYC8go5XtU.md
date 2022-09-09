@@ -4,7 +4,7 @@
 
 > Ambient music backed by the atmospheric sounds and elements of nature.
 
-145 songs - 12 hr 36 min - [published](https://open.spotify.com/playlist/7JtjL9J4rMiUbiR6UqNhl3)
+146 songs - 12 hr 39 min - [published](https://open.spotify.com/playlist/7JtjL9J4rMiUbiR6UqNhl3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Leaves Breathing](https://open.spotify.com/track/04b4ZyKr2YbUGruDUWG3wa) | [We Dream of Eden](https://open.spotify.com/artist/55dhSq6LQ1N5JlHF5DlbFf) | [Leaves Breathing](https://open.spotify.com/album/0c9RZQfZNbk4TdqJFQDbT5) | 3:18 | 2022-04-08 |  |
 | [Letting Go Of All Things](https://open.spotify.com/track/5rheZ8USO2YqMMV8gjPN3T) | [Ecovillage](https://open.spotify.com/artist/0JvmpwiLzNlN4bGtXCdNoK), [Ludvig Cimbrelius](https://open.spotify.com/artist/4UYn3kO0ZItHQzibMCqNv6) | [Clouds and Waves](https://open.spotify.com/album/2XXW74ft0AGkR32Triofua) | 4:56 | 2021-12-22 |  |
 | [Malcolm Island](https://open.spotify.com/track/1NeZTpeHRlDNvRPzca28w9) | [Little Symphony](https://open.spotify.com/artist/4SCWiQbJCMTHK737aNUqBJ) | [Malcolm Island](https://open.spotify.com/album/0N8SfW6iM2CbH3bMolVVzF) | 3:01 | 2022-03-10 |  |
+| [Melodica](https://open.spotify.com/track/77m3CO9cDi94PkxKF3X4wg) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Articulation](https://open.spotify.com/album/6gcAUc2LUZfbHwZZJLgvtm) | 3:39 | 2022-09-07 |  |
 | [Melon City](https://open.spotify.com/track/4jmrVb5sGRXBzxqxceVTOK) | [Dream Carpets](https://open.spotify.com/artist/3SKUZkAW7rWwREfd0qt3LY) | [Interior Fountains](https://open.spotify.com/album/0Xm7NaLPApbyKZigoJl2lJ) | 10:06 | 2021-12-22 |  |
 | [Midnight](https://open.spotify.com/track/6eIgX83EFYk0zUnCznpxq1) | [Ecovillage](https://open.spotify.com/artist/0JvmpwiLzNlN4bGtXCdNoK), [Kenji Kihara](https://open.spotify.com/artist/56NSyAdmTubt4VsZ4SOVJ8) | [Clouds and Waves](https://open.spotify.com/album/2XXW74ft0AGkR32Triofua) | 4:45 | 2021-12-22 |  |
 | [Mir](https://open.spotify.com/track/3wyNQNDrg9ntkIZe6RaO4v) | [Taylor Deupree](https://open.spotify.com/artist/4X3dUbGsTpVH6EbxtWnj6T) | [Mur](https://open.spotify.com/album/15liRgZ2vwwF9UuCyF4WKL) | 11:28 | 2021-12-22 |  |

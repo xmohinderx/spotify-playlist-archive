@@ -176,6 +176,24 @@
     },
     {
       "album": {
+        "name": "Champagne",
+        "url": "https://open.spotify.com/album/5JBbEJHvC8ux9kYGbdu0od"
+      },
+      "artists": [
+        {
+          "name": "KiDi",
+          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148624,
+      "name": "Champagne",
+      "url": "https://open.spotify.com/track/76aYqlXTeHaYMunCPkm3qZ"
+    },
+    {
+      "album": {
         "name": "Chargie",
         "url": "https://open.spotify.com/album/7lXLVvdp3ZLmjRqQVs3W7P"
       },
@@ -275,6 +293,24 @@
       "duration_ms": 189014,
       "name": "Contour",
       "url": "https://open.spotify.com/track/5OBtqiT5Zg1BqXPx4bBo6T"
+    },
+    {
+      "album": {
+        "name": "Control",
+        "url": "https://open.spotify.com/album/6PDTbnQyukMCnD94FO1Uuu"
+      },
+      "artists": [
+        {
+          "name": "Dante Moris",
+          "url": "https://open.spotify.com/artist/7d42wwAzJlkmO6nvo70tTa"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142001,
+      "name": "Control",
+      "url": "https://open.spotify.com/track/33aYQD8u61dxbkvYatDWa5"
     },
     {
       "album": {
@@ -846,6 +882,28 @@
     },
     {
       "album": {
+        "name": "Looking for Somebody",
+        "url": "https://open.spotify.com/album/3V3asywN4oLR2McSuXD6gk"
+      },
+      "artists": [
+        {
+          "name": "Angelo King",
+          "url": "https://open.spotify.com/artist/1Q0kuvgP9fC9Y5OCP1mzOV"
+        },
+        {
+          "name": "JMANI",
+          "url": "https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169170,
+      "name": "Looking for Somebody",
+      "url": "https://open.spotify.com/track/5D6rGaauri3oyZAXM5V2q2"
+    },
+    {
+      "album": {
         "name": "Love Don't Cost A Dime (Re-Up)",
         "url": "https://open.spotify.com/album/01N6IpG2OxaznUK60C81hT"
       },
@@ -1405,6 +1463,28 @@
       "duration_ms": 205191,
       "name": "Want You",
       "url": "https://open.spotify.com/track/0vyg6EqfMiu45hQzFmi0YF"
+    },
+    {
+      "album": {
+        "name": "When I See You",
+        "url": "https://open.spotify.com/album/6uP3M17zzbY0VpvJrlYil0"
+      },
+      "artists": [
+        {
+          "name": "Nana Fofie",
+          "url": "https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW"
+        },
+        {
+          "name": "Jaywillz",
+          "url": "https://open.spotify.com/artist/0eYIT8bKfvhhDHFH1A0rxk"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159127,
+      "name": "When I See You",
+      "url": "https://open.spotify.com/track/22fHc3vuTK2kxjrNSJrA5J"
     },
     {
       "album": {

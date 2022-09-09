@@ -70,6 +70,24 @@
     },
     {
       "album": {
+        "name": "Ayo",
+        "url": "https://open.spotify.com/album/48jnyiVKYeQBDc5aeeXYxf"
+      },
+      "artists": [
+        {
+          "name": "Bontan",
+          "url": "https://open.spotify.com/artist/1tZgoMqNTa7lII4w9pV3ud"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336173,
+      "name": "Ayo",
+      "url": "https://open.spotify.com/track/4mLmcxQbLDx6vDo3tJ2l5G"
+    },
+    {
+      "album": {
         "name": "Bakhu (Dj Chus Remix)",
         "url": "https://open.spotify.com/album/0mLmAFFJGXqe1INZaqDbGI"
       },
@@ -111,6 +129,28 @@
       "duration_ms": 467213,
       "name": "Bangalora",
       "url": "https://open.spotify.com/track/59GRvXZLg7H7DJZkw4D7TJ"
+    },
+    {
+      "album": {
+        "name": "Banho de Folhas (Maz Remix)",
+        "url": "https://open.spotify.com/album/4TOESm4bhH4SDlH0hnuP7O"
+      },
+      "artists": [
+        {
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+        },
+        {
+          "name": "Maz (BR)",
+          "url": "https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215476,
+      "name": "Banho de Folhas - Maz Remix",
+      "url": "https://open.spotify.com/track/41TZ7YP0hzQLnZ3pL0x7uz"
     },
     {
       "album": {
@@ -184,6 +224,28 @@
     },
     {
       "album": {
+        "name": "Besos",
+        "url": "https://open.spotify.com/album/2r8asdF9PDOUxIeKSUtHYo"
+      },
+      "artists": [
+        {
+          "name": "DJ Chus",
+          "url": "https://open.spotify.com/artist/7kxOVclB0zQamtBR0syCrg"
+        },
+        {
+          "name": "Amine K (Moroko Loko)",
+          "url": "https://open.spotify.com/artist/4Jh6PxSFH7CrZrQpDivlYf"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 383801,
+      "name": "Besos",
+      "url": "https://open.spotify.com/track/6NOJswDL08HluDGQPc8WXY"
+    },
+    {
+      "album": {
         "name": "Blinding Lights (Joris Voorn Remix)",
         "url": "https://open.spotify.com/album/2bZXQG0WrPR1LcrJ01Of7J"
       },
@@ -250,6 +312,54 @@
     },
     {
       "album": {
+        "name": "Chano (DJ Chus Remix)",
+        "url": "https://open.spotify.com/album/1y2gi7jIX2N6O4s3ZE4siW"
+      },
+      "artists": [
+        {
+          "name": "Matthias Tanzmann",
+          "url": "https://open.spotify.com/artist/6bxLLapj6NByiP5cr6jMeK"
+        },
+        {
+          "name": "DJ Chus",
+          "url": "https://open.spotify.com/artist/7kxOVclB0zQamtBR0syCrg"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208524,
+      "name": "Chano - DJ Chus Remix",
+      "url": "https://open.spotify.com/track/7AHLeuAT4F3aeYf9B4j4nY"
+    },
+    {
+      "album": {
+        "name": "Cruel Summer (Musumeci Remixes)",
+        "url": "https://open.spotify.com/album/5NW7vGBRGv5BvxvuKh7e6p"
+      },
+      "artists": [
+        {
+          "name": "Woolfy",
+          "url": "https://open.spotify.com/artist/115rMfffKYQgrhzmGT7fTw"
+        },
+        {
+          "name": "Projections",
+          "url": "https://open.spotify.com/artist/3W8dralHmc6PqvM9Ws9S83"
+        },
+        {
+          "name": "Musumeci",
+          "url": "https://open.spotify.com/artist/5AezOTggHnFTiQ5AiowFBf"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289025,
+      "name": "Cruel Summer - Musumeci Wax Off Remix",
+      "url": "https://open.spotify.com/track/0UbxjF0H8hEf8r5KsfKnp3"
+    },
+    {
+      "album": {
         "name": "Buddha Bar by Amine K & Ravin",
         "url": "https://open.spotify.com/album/7Awsu0TzbHe1Wxt9cGg1EL"
       },
@@ -291,6 +401,46 @@
       "duration_ms": 375483,
       "name": "Dice",
       "url": "https://open.spotify.com/track/6pK1dCN0zuT6Rkf0rqA7AI"
+    },
+    {
+      "album": {
+        "name": "Drum Beat",
+        "url": "https://open.spotify.com/album/7fhdFXT7VAblxxOOeukdTX"
+      },
+      "artists": [
+        {
+          "name": "AM\u00c9M\u00c9",
+          "url": "https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316951,
+      "name": "Drum Beat",
+      "url": "https://open.spotify.com/track/3LJLtbvrfYUpFficL0gl5V"
+    },
+    {
+      "album": {
+        "name": "Enkama",
+        "url": "https://open.spotify.com/album/6OUf7B8gAItm9pJvJPmLbm"
+      },
+      "artists": [
+        {
+          "name": "Peppe Citarella",
+          "url": "https://open.spotify.com/artist/5DWjZ2hLuK8Mfdoua8lkJB"
+        },
+        {
+          "name": "Eduardo Vargas",
+          "url": "https://open.spotify.com/artist/6ZoNlWDHPdMGmrAkokxT7E"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322560,
+      "name": "Enkama",
+      "url": "https://open.spotify.com/track/4J7hX1VqoUlnQLaouqsPQg"
     },
     {
       "album": {
@@ -652,6 +802,28 @@
     },
     {
       "album": {
+        "name": "Mafqoud - DJ Chus Remix",
+        "url": "https://open.spotify.com/album/0Ldq3I9JLNO1M5bu8wLHNo"
+      },
+      "artists": [
+        {
+          "name": "Ramy Mishriky",
+          "url": "https://open.spotify.com/artist/5YPnzmq0y55OzDVZl6lazT"
+        },
+        {
+          "name": "DJ Chus",
+          "url": "https://open.spotify.com/artist/7kxOVclB0zQamtBR0syCrg"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259672,
+      "name": "Mafqoud - DJ Chus Remix",
+      "url": "https://open.spotify.com/track/3dFvXuCrkC0sgCJUrw6KF9"
+    },
+    {
+      "album": {
         "name": "Mi Pena",
         "url": "https://open.spotify.com/album/28yEiaLt8HAtzE3qTrQBlX"
       },
@@ -703,6 +875,24 @@
       "duration_ms": 511698,
       "name": "Mondo",
       "url": "https://open.spotify.com/track/6xXLjtrH9S4JaB3SscBXFe"
+    },
+    {
+      "album": {
+        "name": "Motivate",
+        "url": "https://open.spotify.com/album/25J6q42R7zvRoECkz7PGdj"
+      },
+      "artists": [
+        {
+          "name": "Jeremiah Asiamah",
+          "url": "https://open.spotify.com/artist/4a8asYwblfRPbHxD6Oc7W4"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127680,
+      "name": "Motivate",
+      "url": "https://open.spotify.com/track/5J5ORcB3J61EgsVC2LADbc"
     },
     {
       "album": {
@@ -830,6 +1020,24 @@
     },
     {
       "album": {
+        "name": "Same Like Dope But Different",
+        "url": "https://open.spotify.com/album/6hWNRK4gZ1XuApm1XlPUsz"
+      },
+      "artists": [
+        {
+          "name": "Butch",
+          "url": "https://open.spotify.com/artist/5kLzaeSHrmS7okc5XNE6lv"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281341,
+      "name": "Same Like Dope But Different",
+      "url": "https://open.spotify.com/track/0GIPq4zQJPTlycINrUR0ST"
+    },
+    {
+      "album": {
         "name": "The Struggle / Save the Children",
         "url": "https://open.spotify.com/album/3OT5QWnp0XjpeZXT3k3HFD"
       },
@@ -918,6 +1126,54 @@
     },
     {
       "album": {
+        "name": "Strangely Enough Remixes",
+        "url": "https://open.spotify.com/album/5dgUK5cS7D6WU5iHL0zBSt"
+      },
+      "artists": [
+        {
+          "name": "Matthias Meyer",
+          "url": "https://open.spotify.com/artist/6bWakzaLHaNewLTdhJHPQb"
+        },
+        {
+          "name": "Amine K (Moroko Loko)",
+          "url": "https://open.spotify.com/artist/4Jh6PxSFH7CrZrQpDivlYf"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359262,
+      "name": "Strangely Enough - Amine K Stripped Down Remix",
+      "url": "https://open.spotify.com/track/1WscS7OuSdPO1DxjCssTCB"
+    },
+    {
+      "album": {
+        "name": "Take Flight EP",
+        "url": "https://open.spotify.com/album/5cPX28V6vYst2hq01jwxTR"
+      },
+      "artists": [
+        {
+          "name": "Denney",
+          "url": "https://open.spotify.com/artist/7vm3musYjzfqoMloVCEF7v"
+        },
+        {
+          "name": "Dean Mickoski",
+          "url": "https://open.spotify.com/artist/51HLurY6ZdJtatIdyeOrBI"
+        },
+        {
+          "name": "Celeda",
+          "url": "https://open.spotify.com/artist/6eOBEYGx9M4t87osYMIakb"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247680,
+      "name": "Take Flight",
+      "url": "https://open.spotify.com/track/6FAGFcIJfSzuDDk2Rbz3pi"
+    },
+    {
+      "album": {
         "name": "Buddha Bar by Amine K & Ravin",
         "url": "https://open.spotify.com/album/7Awsu0TzbHe1Wxt9cGg1EL"
       },
@@ -966,6 +1222,24 @@
     },
     {
       "album": {
+        "name": "The Brooklyn Gypsy",
+        "url": "https://open.spotify.com/album/3eQPJWKBogo2jFUQlXo0BK"
+      },
+      "artists": [
+        {
+          "name": "Danny Tenaglia",
+          "url": "https://open.spotify.com/artist/2tG935baRE4mH8B3saiwbm"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 461281,
+      "name": "The Brooklyn Gypsy",
+      "url": "https://open.spotify.com/track/5d7jzy1RYtL85inxWGuTkv"
+    },
+    {
+      "album": {
         "name": "Playa del Carmen 2017",
         "url": "https://open.spotify.com/album/31NQOVWoy3lgFnJE2sgXEI"
       },
@@ -985,6 +1259,42 @@
       "duration_ms": 400223,
       "name": "The Prophet - Remastered",
       "url": "https://open.spotify.com/track/5wXZTamLGclZu8irxR5muH"
+    },
+    {
+      "album": {
+        "name": "The Story Continues",
+        "url": "https://open.spotify.com/album/4GFN6yPYH6QCkYwWacnPhi"
+      },
+      "artists": [
+        {
+          "name": "Marco Lys",
+          "url": "https://open.spotify.com/artist/5WiohqjMNs7MtChjoHE9D1"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 460985,
+      "name": "The Story Continues - Extended Mix",
+      "url": "https://open.spotify.com/track/7J7zVc023HlDs9aZBzpHDL"
+    },
+    {
+      "album": {
+        "name": "This Is Hot (Yes Indeedy)",
+        "url": "https://open.spotify.com/album/1DL3YpDtk0AwprDN1k7guF"
+      },
+      "artists": [
+        {
+          "name": "Geoffrey C",
+          "url": "https://open.spotify.com/artist/2DBZbTSJYWmrqf3VnepypB"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 402120,
+      "name": "This Is Hot (Yes Indeedy) - Original Mix",
+      "url": "https://open.spotify.com/track/7d1kfcrdz92icwzknr9Owi"
     },
     {
       "album": {
@@ -1059,6 +1369,28 @@
       "duration_ms": 419076,
       "name": "Won't Stop Now - Original Mix",
       "url": "https://open.spotify.com/track/0jOhiGwd4CRQ2BUiJOu1IR"
+    },
+    {
+      "album": {
+        "name": "Work",
+        "url": "https://open.spotify.com/album/5twrWSneyeEXOLYmiFeR8N"
+      },
+      "artists": [
+        {
+          "name": "Nhan Solo",
+          "url": "https://open.spotify.com/artist/1UhosJtmQlT9oJi38Zd2SU"
+        },
+        {
+          "name": "Dilby",
+          "url": "https://open.spotify.com/artist/7gOIcm4Mhn5wiKDUt7vY36"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357375,
+      "name": "Work - Original Mix",
+      "url": "https://open.spotify.com/track/4YmERu15RPaCWUAEBWtpBA"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > The perfect frequency for sleep or study – science tested, listener approved.
 
-201 songs - 10 hr 23 min - [published](https://open.spotify.com/playlist/7kSbO7docWbPCdbgHmckd8)
+202 songs - 10 hr 26 min - [published](https://open.spotify.com/playlist/7kSbO7docWbPCdbgHmckd8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Low Pink Noise](https://open.spotify.com/track/4LFqQzq8xlTZyhpDnvp0dG) | [Noise Spa](https://open.spotify.com/artist/3vlsMGwlLAgObvlGREIauw) | [Pink Noise Spa](https://open.spotify.com/album/4aYIfqzmBtOlgbWru6L09R) | 2:58 | 2021-12-01 | 2022-03-09 |
 | [Lush 200 hz](https://open.spotify.com/track/4uxWywwCskTxlmkbpnFOdh) | [Ecstatix](https://open.spotify.com/artist/4Z2EaSwZpqDleK7b7qYSvx) | [Static](https://open.spotify.com/album/6OBKwkbBiw9XljmfUsKn2L) | 2:56 | 2021-12-01 | 2022-06-11 |
 | [Magic Noise](https://open.spotify.com/track/3nv1NJsbswz9vSrBOcmtEO) | [Casper White](https://open.spotify.com/artist/4weaxjLzThghACmvjNt9JT) | [Pink Magic](https://open.spotify.com/album/06wWoKGWiOLPonZsyS5AUT) | 2:16 | 2021-12-01 |  |
+| [Mellow EQ Pink Noise](https://open.spotify.com/track/0lPhzJy5fSGxdAcAE8TzpS) | [Dozy Sounds](https://open.spotify.com/artist/6GjywyZ0Qtsu0f95gL5CDG) | [Pink Noise Atmospheres](https://open.spotify.com/album/30JnLo5ysfyq073yzIcCHy) | 3:00 | 2022-09-08 |  |
 | [Mellow Noise](https://open.spotify.com/track/4PvwWVViiQQ0mE1F3ifKXb) | [Epic Noises](https://open.spotify.com/artist/4YCEi74NGm9Dcj4EdsvTxG) | [Sleepy Noises](https://open.spotify.com/album/2tQqMoEsSqQU506PCJxVIU) | 1:34 | 2021-12-01 |  |
 | [Mind Clearing Noise](https://open.spotify.com/track/2O6IBOoJa3xdf9UJYDu2ek) | [Hypnotic Noise](https://open.spotify.com/artist/5NEOAF1p2oJqwe3RWBCgmL) | [Hypnotic Noise](https://open.spotify.com/album/1XFz2dz73iuCiXadt8rpAi) | 2:44 | 2021-12-01 |  |
 | [Mind Clearing Noise](https://open.spotify.com/track/4u75RQbjnohewfAQBXdEAn) | [Kilo Herz](https://open.spotify.com/artist/1cDJHAhR1MlgitRpErRmzL) | [Ocean Of Noise](https://open.spotify.com/album/6o5AdyLgf4mnYnYAUp9H86) | 3:26 | 2021-12-01 |  |

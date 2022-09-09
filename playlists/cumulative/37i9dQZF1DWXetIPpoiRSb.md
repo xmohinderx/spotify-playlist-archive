@@ -4,7 +4,7 @@
 
 > The freshest pop sounds\. Cover: Ava Max
 
-826 songs - 1 day 17 hr 44 min - [published](https://open.spotify.com/playlist/5O9jjDsmvcXgHKwc2ajhjj)
+827 songs - 1 day 17 hr 48 min - [published](https://open.spotify.com/playlist/5O9jjDsmvcXgHKwc2ajhjj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -725,7 +725,8 @@
 | [The Fall](https://open.spotify.com/track/7hWt5I5sEA54Za6KKzislx) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif) | [So Far So Good \(+ The Fall\)](https://open.spotify.com/album/2IRmdXQtVBxUdicuQfSaSB) | 3:16 | 2022-06-10 | 2022-08-03 |
 | [The Feels](https://open.spotify.com/track/6pgqZ7Iw4LfHlfgWWaRFSY) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [The Feels](https://open.spotify.com/album/744iq6HcpYJixN85Egbvt9) | 3:18 | 2021-10-02 | 2021-11-13 |
 | [The Hurt You Gave Me](https://open.spotify.com/track/1UCN2LmSOqXYUPTZfiOSzv) | [Robert Grace](https://open.spotify.com/artist/6W8rk6H6C3Mcj0lALuLVg1) | [The Hurt You Gave Me](https://open.spotify.com/album/2wPivRcli0y1oCdOg7ONlN) | 2:30 | 2021-03-19 | 2021-06-12 |
-| [the idea](https://open.spotify.com/track/6VN3dKYTClhY5eYQEnBehr) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [the idea](https://open.spotify.com/album/529HyBH38pXm03KrwyI0At) | 3:23 | 2022-07-08 |  |
+| [the idea](https://open.spotify.com/track/6VN3dKYTClhY5eYQEnBehr) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [the idea](https://open.spotify.com/album/529HyBH38pXm03KrwyI0At) | 3:23 | 2022-07-08 | 2022-09-09 |
+| [the idea](https://open.spotify.com/track/5DUgpa3TrMXqUy5lvV5XT2) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [in loving memory](https://open.spotify.com/album/0ZvU2iSXtYxBeR9QzvHQau) | 3:24 | 2022-09-03 |  |
 | [The Kids Are All Rebels](https://open.spotify.com/track/46jmjqzkZLmzcGrSQBxe07) | [Lenii](https://open.spotify.com/artist/63X5yxHWDkAl13ZIOWHV94) | [The Kids Are All Rebels](https://open.spotify.com/album/2UwVySfa3PPhw73Jwnnebm) | 2:09 | 2020-10-24 | 2021-01-30 |
 | [The Knife](https://open.spotify.com/track/0zbTlTH2sD7xgut0fNitMI) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm) | [The Knife](https://open.spotify.com/album/0Mits3BLFo5xg4JW3MiRt9) | 2:56 | 2021-04-24 | 2021-06-19 |
 | [the long way home \(feat\. Sara Kays & Sarcastic Sounds\)](https://open.spotify.com/track/3y4MGDUBfiRtdRAynxouy6) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Sara Kays](https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH), [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ) | [the long way home \(feat\. Sara Kays & Sarcastic Sounds\)](https://open.spotify.com/album/0a0Y0BEwYv8F1e81xuNiSc) | 3:09 | 2021-05-08 | 2021-06-26 |

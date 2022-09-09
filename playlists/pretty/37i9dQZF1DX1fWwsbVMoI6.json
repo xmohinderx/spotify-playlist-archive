@@ -1,12 +1,12 @@
 {
   "description": "A ponerse a tono con los mejores cumbiones. Foto: Puro Sentimiento",
-  "num_followers": 78891,
+  "num_followers": 79043,
   "original_name": "Cumbias de Oro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTY3NTYwMCwwMDAwMDAwMDZjNjNiNWFlZWUwODhhZjQxNmExMGUwZjEwYTI4MzMz",
+  "snapshot_id": "MTY1OTY3NTYwMCwwMDAwMDAwMGVhMDQwNzFiNTViYzhjYzhhMzZiYjE0MGEyMDc5MjI3",
   "tracks": [
     {
       "added_at": "2022-08-05 05:00:00",
@@ -584,9 +584,9 @@
           "url": "https://open.spotify.com/artist/4MBeeopIanwGkcInADRzvR"
         }
       ],
-      "duration_ms": 276192,
-      "name": "Recuerdos",
-      "url": "https://open.spotify.com/track/4NHGTE6SN0a10VTPDLmMe3"
+      "duration_ms": 260649,
+      "name": "D\u00edas Felices",
+      "url": "https://open.spotify.com/track/1WCujjpVcPacQ40RCNtXUg"
     },
     {
       "added_at": "2022-08-05 05:00:00",
@@ -728,25 +728,9 @@
           "url": "https://open.spotify.com/artist/4MBeeopIanwGkcInADRzvR"
         }
       ],
-      "duration_ms": 260649,
-      "name": "D\u00edas Felices",
-      "url": "https://open.spotify.com/track/1WCujjpVcPacQ40RCNtXUg"
-    },
-    {
-      "added_at": "2022-08-05 05:00:00",
-      "album": {
-        "name": "Sonido 2000 de Tarapoto",
-        "url": "https://open.spotify.com/album/0h3hga5bxvliZyavRF10Ka"
-      },
-      "artists": [
-        {
-          "name": "Sonido 2000",
-          "url": "https://open.spotify.com/artist/1H3xkA1mRbxwDjbiiyC1lR"
-        }
-      ],
-      "duration_ms": 195696,
-      "name": "Mi Carin\u0303ito",
-      "url": "https://open.spotify.com/track/34JtnRHvuDL5c2rfOLJeDw"
+      "duration_ms": 276192,
+      "name": "Recuerdos",
+      "url": "https://open.spotify.com/track/4NHGTE6SN0a10VTPDLmMe3"
     },
     {
       "added_at": "2022-08-05 05:00:00",
@@ -763,6 +747,22 @@
       "duration_ms": 277296,
       "name": "Te burlaste de mi",
       "url": "https://open.spotify.com/track/1OVkTwhR0LISMQcZkAqHsg"
+    },
+    {
+      "added_at": "2022-08-05 05:00:00",
+      "album": {
+        "name": "Sonido 2000 de Tarapoto",
+        "url": "https://open.spotify.com/album/0h3hga5bxvliZyavRF10Ka"
+      },
+      "artists": [
+        {
+          "name": "Sonido 2000",
+          "url": "https://open.spotify.com/artist/1H3xkA1mRbxwDjbiiyC1lR"
+        }
+      ],
+      "duration_ms": 195696,
+      "name": "Mi Carin\u0303ito",
+      "url": "https://open.spotify.com/track/34JtnRHvuDL5c2rfOLJeDw"
     },
     {
       "added_at": "2022-08-05 05:00:00",
@@ -799,22 +799,6 @@
     {
       "added_at": "2022-08-05 05:00:00",
       "album": {
-        "name": "Tu Amor Fue una Mentira, Vol. 11",
-        "url": "https://open.spotify.com/album/1dcKB2yWjUPWX2sgpVMb26"
-      },
-      "artists": [
-        {
-          "name": "Agua Marina",
-          "url": "https://open.spotify.com/artist/5ZAR5Usb11xw4KENbEE8uZ"
-        }
-      ],
-      "duration_ms": 213826,
-      "name": "Amor Prohibido",
-      "url": "https://open.spotify.com/track/4g2GK0gPz78co62qx8RIOd"
-    },
-    {
-      "added_at": "2022-08-05 05:00:00",
-      "album": {
         "name": "Goza Tu Cumbia: Peruvian Cumbia",
         "url": "https://open.spotify.com/album/6ShlZFDjnbxigu2oXHcUMi"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 261600,
       "name": "El Solitario",
       "url": "https://open.spotify.com/track/64GsayRbJ4tWm1m94DZSQh"
+    },
+    {
+      "added_at": "2022-08-05 05:00:00",
+      "album": {
+        "name": "Tu Amor Fue una Mentira, Vol. 11",
+        "url": "https://open.spotify.com/album/1dcKB2yWjUPWX2sgpVMb26"
+      },
+      "artists": [
+        {
+          "name": "Agua Marina",
+          "url": "https://open.spotify.com/artist/5ZAR5Usb11xw4KENbEE8uZ"
+        }
+      ],
+      "duration_ms": 213826,
+      "name": "Amor Prohibido",
+      "url": "https://open.spotify.com/track/4g2GK0gPz78co62qx8RIOd"
     }
   ],
   "unique_name": "Cumbias de Oro",

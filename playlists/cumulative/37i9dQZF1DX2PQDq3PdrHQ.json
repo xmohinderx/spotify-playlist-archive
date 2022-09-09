@@ -214,6 +214,28 @@
     },
     {
       "album": {
+        "name": "Always By My Side",
+        "url": "https://open.spotify.com/album/5Ncm5rj57b0RBlmT1PsUF9"
+      },
+      "artists": [
+        {
+          "name": "Krynoze",
+          "url": "https://open.spotify.com/artist/3iGthn6RykA9JUHnilAIr0"
+        },
+        {
+          "name": "Socrab",
+          "url": "https://open.spotify.com/artist/7zAOggQGCRZo03b0cTR3NB"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "Always By My Side",
+      "url": "https://open.spotify.com/track/7BXyrOfj7T9uHfZucu0hAM"
+    },
+    {
+      "album": {
         "name": "Angel Number",
         "url": "https://open.spotify.com/album/1X6EUgFJT1cwbG5SCePy7f"
       },
@@ -355,7 +377,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 138352,
       "name": "Blue Hour",
       "url": "https://open.spotify.com/track/5t5BmOhtdM7SJU36n4vtdS"
@@ -727,6 +749,24 @@
       "duration_ms": 146250,
       "name": "cozy night",
       "url": "https://open.spotify.com/track/2EaWfgTwX273s5TSpzX46n"
+    },
+    {
+      "album": {
+        "name": "Cozy Nights",
+        "url": "https://open.spotify.com/album/4POj4KRaWdw4zWdV7hLL3B"
+      },
+      "artists": [
+        {
+          "name": "Weekly Bagel",
+          "url": "https://open.spotify.com/artist/4sNuTGFAUTDkusl3fhpOgL"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123290,
+      "name": "Cozy Nights",
+      "url": "https://open.spotify.com/track/0xBVQOvIcIykazu03CZQkm"
     },
     {
       "album": {
@@ -1190,6 +1230,24 @@
     },
     {
       "album": {
+        "name": "Dreams",
+        "url": "https://open.spotify.com/album/4qnKfG19vqRF95iLdpTWO2"
+      },
+      "artists": [
+        {
+          "name": "Mr. Donsai",
+          "url": "https://open.spotify.com/artist/7lw3xexSn1fipl8UlSXtpX"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130000,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/59bPMrkv0wvnfy1VftaHnL"
+    },
+    {
+      "album": {
         "name": "still dreams",
         "url": "https://open.spotify.com/album/7G3PuHLBnLpUy7k8ZtqdiK"
       },
@@ -1223,6 +1281,28 @@
       "duration_ms": 131641,
       "name": "Dreemin'",
       "url": "https://open.spotify.com/track/6L4ZXA6ROpbQCF8UlDqZ9A"
+    },
+    {
+      "album": {
+        "name": "Psalms of The Sea",
+        "url": "https://open.spotify.com/album/5VADhc1YoZna1R6k8hkTSM"
+      },
+      "artists": [
+        {
+          "name": "Charlee Nguyen",
+          "url": "https://open.spotify.com/artist/5ffORofXMmNRRtwIeQsyW3"
+        },
+        {
+          "name": "Kainbeats",
+          "url": "https://open.spotify.com/artist/4n9z9czt00gzw36hdoVU3G"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138566,
+      "name": "Drifting away",
+      "url": "https://open.spotify.com/track/0hqXJSDSUF6GjJGX0mquB9"
     },
     {
       "album": {
@@ -1335,6 +1415,24 @@
       "duration_ms": 155686,
       "name": "Emerald Earth",
       "url": "https://open.spotify.com/track/48C4Ay5VNjwAVlDMwNfzhO"
+    },
+    {
+      "album": {
+        "name": "Empyreal",
+        "url": "https://open.spotify.com/album/75kTZInzYeaqpZstd13B0e"
+      },
+      "artists": [
+        {
+          "name": "Dimension 32",
+          "url": "https://open.spotify.com/artist/46RYzJ2442SuhtOTl281nz"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143955,
+      "name": "Empyreal",
+      "url": "https://open.spotify.com/track/1pvSMxjRqHzDDwSdjOwLbX"
     },
     {
       "album": {
@@ -1469,6 +1567,24 @@
       "duration_ms": 160222,
       "name": "Finneas",
       "url": "https://open.spotify.com/track/0afK4XhPxWkKvHnGYCE0AM"
+    },
+    {
+      "album": {
+        "name": "Fireflies",
+        "url": "https://open.spotify.com/album/4ZHqOdkFxvVhispfS44eKC"
+      },
+      "artists": [
+        {
+          "name": "wood.",
+          "url": "https://open.spotify.com/artist/2mPJCIWr1F4EPuHC4qSGJi"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171200,
+      "name": "Fireflies",
+      "url": "https://open.spotify.com/track/30RBPOOwjABC3G1k0QXsfj"
     },
     {
       "album": {
@@ -1661,7 +1777,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 162262,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/3drud7eHl6FHoVOfKn1o4I"
@@ -2535,6 +2651,28 @@
       "duration_ms": 123347,
       "name": "Levitation",
       "url": "https://open.spotify.com/track/15tIB5MPquBcVd4pAVlzm1"
+    },
+    {
+      "album": {
+        "name": "Light In The Dark",
+        "url": "https://open.spotify.com/album/2lVwG5xuYNjxc08GgLuIkz"
+      },
+      "artists": [
+        {
+          "name": "Krynoze",
+          "url": "https://open.spotify.com/artist/3iGthn6RykA9JUHnilAIr0"
+        },
+        {
+          "name": "Sweet Medicine",
+          "url": "https://open.spotify.com/artist/0CF9CnQbK6uS8u78KVnIPv"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148462,
+      "name": "Light In The Dark",
+      "url": "https://open.spotify.com/track/0BeC9VhcimBAUO2PK9UaUe"
     },
     {
       "album": {
@@ -4370,6 +4508,24 @@
     },
     {
       "album": {
+        "name": "Setting Sun",
+        "url": "https://open.spotify.com/album/7ILFyQZmvIqbL7OI0JKwUp"
+      },
+      "artists": [
+        {
+          "name": "Elk Beats",
+          "url": "https://open.spotify.com/artist/1Nl5io0qeF6ISnWrdTnFQB"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "Setting Sun",
+      "url": "https://open.spotify.com/track/2eXiFBMG6BhJbtagTXDqXx"
+    },
+    {
+      "album": {
         "name": "Shelter From The Rain",
         "url": "https://open.spotify.com/album/27kIzp2mhfvTRtFU0UDUwA"
       },
@@ -4544,6 +4700,24 @@
     },
     {
       "album": {
+        "name": "Sleepy Head",
+        "url": "https://open.spotify.com/album/3YnBK7aoWudswh1gfBKk4a"
+      },
+      "artists": [
+        {
+          "name": "Mossdeep",
+          "url": "https://open.spotify.com/artist/1IqNg7gE9Y22t5BOuBew1A"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133341,
+      "name": "Sleepy Head",
+      "url": "https://open.spotify.com/track/6pxQSodKSYDVDwDE8LfmTe"
+    },
+    {
+      "album": {
         "name": "Slow Drives",
         "url": "https://open.spotify.com/album/6Vvb8APjpOiP74S0Ko93TV"
       },
@@ -4631,7 +4805,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 148883,
       "name": "solace",
       "url": "https://open.spotify.com/track/689et48B4RIHI8r8lMr6sn"
@@ -4931,6 +5105,24 @@
       "duration_ms": 142784,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/7HBhOT7IEZgtsKwbGOpJi8"
+    },
+    {
+      "album": {
+        "name": "superabundance",
+        "url": "https://open.spotify.com/album/4yNUijpA7k9oEHau2G3AGC"
+      },
+      "artists": [
+        {
+          "name": "Mickey Jam",
+          "url": "https://open.spotify.com/artist/0QeBXI6ruzIKKQ7EkrDBr9"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139738,
+      "name": "superabundance",
+      "url": "https://open.spotify.com/track/2DPG9HEimTlt2QNUuIvHw8"
     },
     {
       "album": {
@@ -5531,6 +5723,24 @@
       "duration_ms": 125647,
       "name": "Vanilla",
       "url": "https://open.spotify.com/track/3eew64ZAbWJa9HvzLcqXmO"
+    },
+    {
+      "album": {
+        "name": "vanilla syrup.",
+        "url": "https://open.spotify.com/album/5KUHIWs94mXxXu7t1ONxkR"
+      },
+      "artists": [
+        {
+          "name": "bluemoon.music",
+          "url": "https://open.spotify.com/artist/0UQaaL0eNaAMwnmcceqFj1"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117451,
+      "name": "vanilla syrup.",
+      "url": "https://open.spotify.com/track/30gAL6dQhKhphPKuL4xP1p"
     },
     {
       "album": {

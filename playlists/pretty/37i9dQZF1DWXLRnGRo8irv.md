@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLRnGRo8irv.md) - [plain]
 
 > 한국 여성들의 목소리가 담긴 플레이리스트를 감상해보세요\. \(커버: TRI.BE\(트라이비\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,659 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,673 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,14 +44,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLRnGRo8irv.md) - [plain]
 | 34 | [Always I Like You](https://open.spotify.com/track/6tn2DAsE62DHqL4VBrgVju) | [Sea Young](https://open.spotify.com/artist/5mdKayzISXaz7Si3ivYnU0) | [Always I Like You](https://open.spotify.com/album/6068h1Zb6LFuyvliaM6Awc) | 2:53 |
 | 35 | [How long will it take to forget you?](https://open.spotify.com/track/602oKSLMH6egWsrt2JgjqA) | [Able](https://open.spotify.com/artist/5QLTdB5zd44gkuqSjUVIWl) | [How long will it take to forget you?](https://open.spotify.com/album/6WbjW3cKf5HgCx9F0AbCBf) | 3:42 |
 | 36 | [On The Way To Meet You](https://open.spotify.com/track/6E0VYqfPw5SpgNJZ6AglA0) | [Able](https://open.spotify.com/artist/5QLTdB5zd44gkuqSjUVIWl) | [On The Way To Meet You](https://open.spotify.com/album/3JV09Dk2WergnYf9gB953g) | 3:44 |
-| 37 | [softie inside](https://open.spotify.com/track/3Yae8EZ7eSC44hFXgxnSzf) | [SoonSoonHee](https://open.spotify.com/artist/3VOan0TuiwkfjnPLDXBPbG) | [softie inside](https://open.spotify.com/album/3NQOhmt0X1jJYdZO5KXtve) | 3:15 |
-| 38 | [seomyun](https://open.spotify.com/track/23qzVx2zTL1fIGMV1KwPjr) | [SoonSoonHee](https://open.spotify.com/artist/3VOan0TuiwkfjnPLDXBPbG) | [seomyun](https://open.spotify.com/album/2NihUWdTbjVSmeijN7phPC) | 3:20 |
-| 39 | [Whenever Wherever](https://open.spotify.com/track/3PyR433Dxvw2yKULVsCIzO) | [OuiOui](https://open.spotify.com/artist/11BHuhJ2jEMPNJ3WpwZVT8) | [Stock Struck \(Original Television Soundtrack\), Pt.3](https://open.spotify.com/album/5Oo0LMGgJUBUG3aSx1znPu) | 3:07 |
-| 40 | [Moonlight](https://open.spotify.com/track/7keo7RDDxsKkrDGYoDzm71) | [OuiOui](https://open.spotify.com/artist/11BHuhJ2jEMPNJ3WpwZVT8) | [Moonlight](https://open.spotify.com/album/0GCkLwgMZCAeGSMeVRyTPj) | 3:39 |
-| 41 | [Nightmare](https://open.spotify.com/track/1apVdkJXYC8NSyHrN3wQPK) | [한영주](https://open.spotify.com/artist/4uuNBNqWBV3eAul0wzVvDC) | [The Secret House \(Original Television Soundtrack\) Pt.2](https://open.spotify.com/album/1QHV0wAO83X15dUoYF1JAw) | 4:31 |
-| 42 | [Don't leave me](https://open.spotify.com/track/4oI6M3Z0wRlDVJ5dox002Y) | [한영주](https://open.spotify.com/artist/4uuNBNqWBV3eAul0wzVvDC) | [The Secret House \(Original Television Soundtrack\) Pt\. 4](https://open.spotify.com/album/22Fv2mRUWkMlypnkkG65Xd) | 4:22 |
-| 43 | [we have changed](https://open.spotify.com/track/6yN4a5vgEMayJWmlYnWx8T) | [Gawon](https://open.spotify.com/artist/5HlsOSLKz3NaCFAjpizas1) | [we have changed](https://open.spotify.com/album/3gtbcrdH0MkiGGTpur0YUe) | 3:21 |
-| 44 | [Will you come back if I wait](https://open.spotify.com/track/2t5d84RmVrNQpj5Hs5DVSM) | [Gawon](https://open.spotify.com/artist/5HlsOSLKz3NaCFAjpizas1) | [Will you come back if I wait](https://open.spotify.com/album/0ZejbbXChgS3g0SCxM2VzY) | 3:24 |
+| 37 | [Whenever Wherever](https://open.spotify.com/track/3PyR433Dxvw2yKULVsCIzO) | [OuiOui](https://open.spotify.com/artist/11BHuhJ2jEMPNJ3WpwZVT8) | [Stock Struck \(Original Television Soundtrack\), Pt.3](https://open.spotify.com/album/5Oo0LMGgJUBUG3aSx1znPu) | 3:07 |
+| 38 | [Moonlight](https://open.spotify.com/track/7keo7RDDxsKkrDGYoDzm71) | [OuiOui](https://open.spotify.com/artist/11BHuhJ2jEMPNJ3WpwZVT8) | [Moonlight](https://open.spotify.com/album/0GCkLwgMZCAeGSMeVRyTPj) | 3:39 |
+| 39 | [Nightmare](https://open.spotify.com/track/1apVdkJXYC8NSyHrN3wQPK) | [한영주](https://open.spotify.com/artist/4uuNBNqWBV3eAul0wzVvDC) | [The Secret House \(Original Television Soundtrack\) Pt.2](https://open.spotify.com/album/1QHV0wAO83X15dUoYF1JAw) | 4:31 |
+| 40 | [Don't leave me](https://open.spotify.com/track/4oI6M3Z0wRlDVJ5dox002Y) | [한영주](https://open.spotify.com/artist/4uuNBNqWBV3eAul0wzVvDC) | [The Secret House \(Original Television Soundtrack\) Pt\. 4](https://open.spotify.com/album/22Fv2mRUWkMlypnkkG65Xd) | 4:22 |
+| 41 | [we have changed](https://open.spotify.com/track/6yN4a5vgEMayJWmlYnWx8T) | [Gawon](https://open.spotify.com/artist/5HlsOSLKz3NaCFAjpizas1) | [we have changed](https://open.spotify.com/album/3gtbcrdH0MkiGGTpur0YUe) | 3:21 |
+| 42 | [Will you come back if I wait](https://open.spotify.com/track/2t5d84RmVrNQpj5Hs5DVSM) | [Gawon](https://open.spotify.com/artist/5HlsOSLKz3NaCFAjpizas1) | [Will you come back if I wait](https://open.spotify.com/album/0ZejbbXChgS3g0SCxM2VzY) | 3:24 |
+| 43 | [이만 헤어지는게 맞는 것 같아](https://open.spotify.com/track/4AfysJJqFsraQIJ2xfkQId) | [Koh Nayoung](https://open.spotify.com/artist/2XMxgqDQOsB16Nq2dGPMHi) | [이만 헤어지는게 맞는 것 같아](https://open.spotify.com/album/2FEXNAMcnUoEG5Gq1c2VTN) | 3:58 |
+| 44 | [I Love You Love You](https://open.spotify.com/track/5kQlMB1bn4c9FT8jttqnRx) | [Koh Nayoung](https://open.spotify.com/artist/2XMxgqDQOsB16Nq2dGPMHi) | [Secret Lovers \(Original Television Soundtrack\), Pt.5](https://open.spotify.com/album/5EywjSgwQMrubDuNLSBRGX) | 3:22 |
 | 45 | [내일이 되면](https://open.spotify.com/track/6PMHyBLXJft4jmxdCjgmta) | [soon](https://open.spotify.com/artist/1G3jhXJfaqMfNojx7SxDcW) | [내일이 되면](https://open.spotify.com/album/06P2vAqOGRpEgvs1eUrIyz) | 3:40 |
 | 46 | [우리우리 겨울](https://open.spotify.com/track/4AN88Zg4Q7nI74DKbCvPzx) | [soon](https://open.spotify.com/artist/1G3jhXJfaqMfNojx7SxDcW) | [나무에 물방울 머금고](https://open.spotify.com/album/36bDnq3WeM8ORGUSUPyDtd) | 3:50 |
 | 47 | [I can't sleep](https://open.spotify.com/track/5ydSTEHJyPzk6NyJMqaIge) | [Nahee](https://open.spotify.com/artist/5uTRxWUE0w5hHOui1lbQjD) | [I can't sleep](https://open.spotify.com/album/3HjdDamqmT4w93YOYYZadJ) | 3:22 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLRnGRo8irv.md) - [plain]
 | 49 | [잘 있지](https://open.spotify.com/track/0zKLeUwWcJ8ZpCBzAodfWs) | [DAMINI](https://open.spotify.com/artist/1yNIinWsNuQUyXJsqnmaLh) | [잘 있지](https://open.spotify.com/album/392zYrya3k4SzfhnyYE1XZ) | 3:22 |
 | 50 | [DOG OR CHICK 3](https://open.spotify.com/track/7juISDeFFYBUEtjFs5izbw) | [DAMINI](https://open.spotify.com/artist/1yNIinWsNuQUyXJsqnmaLh) | [DOG OR CHICK 3](https://open.spotify.com/album/7eM3lcAiMnjnEAdaM0KCnR) | 4:00 |
 
-Snapshot ID: `MTY2MjQ3NjQwMCwwMDAwMDAwMDAwMzQ3ZTZhZGRkMDNmMzJkN2FkYzg2NWJkY2JmYzQx`
+Snapshot ID: `MTY2MjYwOTczNiwwMDAwMDAwMGNjMGYwNDVhYjE4NWQxMjc4MTdlZjQ4MGNiNGYwNGVh`

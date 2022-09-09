@@ -2,7 +2,7 @@
 
 ### [Jazz for Beginners](https://open.spotify.com/playlist/37i9dQZF1DX5gHOTs8Y9XY)
 
-> An introduction to the beauty of jazz\. Cover: Chet Baker
+> A beginners introduction to the beauty of Jazz\. Cover: Chet Baker
 
 130 songs - 9 hr 29 min - [published](https://open.spotify.com/playlist/6turhzq7wb2AQ4gmSzxhcu)
 

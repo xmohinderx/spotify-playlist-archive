@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6LVkNunXMAU.md) - [plain]
 
 > Dulce y ácido: indie pop latino en estado natural\. Foto: Valdes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,372 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,400 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6LVkNunXMAU.md) - [plain]
 | 16 | [Cartas a Walter Xenón](https://open.spotify.com/track/0c4Irfn4lxeyOdjZNY3wDv) | [Delfi Moore](https://open.spotify.com/artist/0iwS8u0GYTStXRUtoTAthe) | [Amiga](https://open.spotify.com/album/5qP82oprnVkwjHHMlzvl59) | 2:25 |
 | 17 | [Ancla](https://open.spotify.com/track/7qwjFIlGWlWB4JqxGjqKIp) | [Paz Carrara](https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg) | [Ancla](https://open.spotify.com/album/6zxhQ5fk9XWNJ7RiqLq8QU) | 3:32 |
 | 18 | [Tiempo](https://open.spotify.com/track/2J9VUqB5ctErOgUHxNopIr) | [Julian Esion Kaplan](https://open.spotify.com/artist/6hIgj3eWhgPTbd86rFhOZD), [Jo Delapé](https://open.spotify.com/artist/6oVxclsRmo2TcjNB1adYP7), [patin mac](https://open.spotify.com/artist/1bi8m1Co2Nq0PnKhcm6WM8), [Luqo](https://open.spotify.com/artist/0bSeMRiKgDwHur64WIOodN) | [Tiempo](https://open.spotify.com/album/6RLPYVkrJcksEXWRFz6uqI) | 3:27 |
-| 19 | [Como un Guiri en Barcelona](https://open.spotify.com/track/0zcYD8Zlb0I16N2R8Kvh9p) | [Diego Lorenzini](https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4) | [Como un Guiri en Barcelona](https://open.spotify.com/album/4SzF2zbG8gGvGWTqmz1GAm) | 3:21 |
+| 19 | [Como un Guiri en Barcelona](https://open.spotify.com/track/0zcYD8Zlb0I16N2R8Kvh9p) | [Diego Lorenzini](https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4) | [Como un Guiri en Barcelona](https://open.spotify.com/album/4SzF2zbG8gGvGWTqmz1GAm) | 3:20 |
 | 20 | [Locos](https://open.spotify.com/track/6jpSWY7bnhVxGD5dBNQW6v) | [Vosque](https://open.spotify.com/artist/5rz5fB76tpWPsEvcfSWUD6) | [Locos](https://open.spotify.com/album/66TuRKaKJ99ryYQzPQPrnF) | 3:33 |
 | 21 | [Caminito](https://open.spotify.com/track/0P0psuP8ipaedwxBDDyFvY) | [Coco Green](https://open.spotify.com/artist/2KZq8iWAr0lZ0L1Ua6HgQs), [Casandra Paz](https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ) | [Caminito](https://open.spotify.com/album/2ZWbPWg6bXrDojfU04sciq) | 2:46 |
 | 22 | [A Donde Quiero Estar](https://open.spotify.com/track/2CxzakxMvIWj6EU3LiTuF2) | [Yukun](https://open.spotify.com/artist/4ov9qGZvnL4JWyKXDYSCPB) | [A Donde Quiero Estar](https://open.spotify.com/album/4X6b5zmNAHOGD1zIrBwnEc) | 3:21 |

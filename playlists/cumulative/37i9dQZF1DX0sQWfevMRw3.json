@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Det enda som vi bryr oss i \u00e4r att bli kanon!",
+  "description": "Jag vil vara den som tar hela staden hem och tillbaka!",
   "name": "30 km/h",
   "published_playlist_ids": [
     "1lQZeKZO86vF18J2l093qd"
@@ -635,7 +635,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 126500,
       "name": "Booty Call",
       "url": "https://open.spotify.com/track/41kMShsVIBgBYl3dIu6I0L"
@@ -2124,6 +2124,32 @@
     },
     {
       "album": {
+        "name": "Full som en kastrull",
+        "url": "https://open.spotify.com/album/2Ul3P6iJZSVpqrWHxolZYq"
+      },
+      "artists": [
+        {
+          "name": "Raggarligan",
+          "url": "https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH"
+        },
+        {
+          "name": "Bang\u00e5rden",
+          "url": "https://open.spotify.com/artist/4C21ZKaA4EX1PRXoNsAV7c"
+        },
+        {
+          "name": "Femedia",
+          "url": "https://open.spotify.com/artist/2oKbavAM3HBJQAPxY867tB"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144750,
+      "name": "Full som en kastrull",
+      "url": "https://open.spotify.com/track/5wIPWSYnyYy3YligvwXyNc"
+    },
+    {
+      "album": {
         "name": "Fun",
         "url": "https://open.spotify.com/album/0tLw6l374Kc8Mm574NUeFI"
       },
@@ -3261,7 +3287,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-06",
+      "date_removed": null,
       "duration_ms": 159695,
       "name": "KLAMYDIA",
       "url": "https://open.spotify.com/track/5B1DtTYmgPEuGN26kPhE43"
@@ -3845,6 +3871,24 @@
       "duration_ms": 142853,
       "name": "Melocoton (The Donka Donk Song)",
       "url": "https://open.spotify.com/track/1Gkb6eAZmdZdvZPd3VorQU"
+    },
+    {
+      "album": {
+        "name": "MER & MER",
+        "url": "https://open.spotify.com/album/6cxHLbeuGsPpVe2LoW3duK"
+      },
+      "artists": [
+        {
+          "name": "Hooja",
+          "url": "https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143680,
+      "name": "MER & MER",
+      "url": "https://open.spotify.com/track/1puxV64QJkmRUhhXt4T9rD"
     },
     {
       "album": {
@@ -4595,7 +4639,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 178377,
       "name": "Piga & dr\u00e4ng",
       "url": "https://open.spotify.com/track/0fXANVK5oDCujoed5II6La"
@@ -4635,7 +4679,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 193359,
       "name": "POLERS",
       "url": "https://open.spotify.com/track/3L2N1sejA5EKPKB1JOHCsX"
@@ -4785,6 +4829,32 @@
       "duration_ms": 143120,
       "name": "Ragga runt - N!NE EPA Remix",
       "url": "https://open.spotify.com/track/5j0HTlOCde9GOlgyP9lpM7"
+    },
+    {
+      "album": {
+        "name": "RAGGA V\u00c4RLDEN RUNT",
+        "url": "https://open.spotify.com/album/7q8TSeI9J4fxBNP7CoWJKZ"
+      },
+      "artists": [
+        {
+          "name": "Rasmus Gozzi",
+          "url": "https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj"
+        },
+        {
+          "name": "Lurifaks",
+          "url": "https://open.spotify.com/artist/7KV5PbIYtOc7F3bzH0v8dK"
+        },
+        {
+          "name": "Hugge",
+          "url": "https://open.spotify.com/artist/1U17tqE6Kaphway5gmRD9g"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150142,
+      "name": "RAGGA V\u00c4RLDEN RUNT",
+      "url": "https://open.spotify.com/track/6PTD6A0ttYfoAoOHkzu1Ba"
     },
     {
       "album": {
@@ -6971,7 +7041,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 165000,
       "name": "VI SKA BLI FULLA",
       "url": "https://open.spotify.com/track/37EyJVC84SzAVpSf3h4792"

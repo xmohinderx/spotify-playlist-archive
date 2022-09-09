@@ -1,15 +1,47 @@
 {
   "description": "Your daily update of the most played tracks right now - Dominican Republic.",
-  "num_followers": 146063,
+  "num_followers": 146099,
   "original_name": "Top 50 - Dominican Republic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzE1Nzc4MDQ2LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzE1OTQ3Njg5LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2022-09-06 11:14:06",
+      "added_at": "2022-09-08 10:21:29",
+      "album": {
+        "name": "Trucha",
+        "url": "https://open.spotify.com/album/6VRAze9q5Afxm2QiPx3WcG"
+      },
+      "artists": [
+        {
+          "name": "Jabriell",
+          "url": "https://open.spotify.com/artist/7f0gFq3dScRns3aaNWZWdy"
+        }
+      ],
+      "duration_ms": 146900,
+      "name": "Trucha",
+      "url": "https://open.spotify.com/track/2qS5e9BfS51kGXUUaSJoZL"
+    },
+    {
+      "added_at": "2022-09-08 10:21:29",
+      "album": {
+        "name": "La Vacuna",
+        "url": "https://open.spotify.com/album/0NqhM75FoWkfJCrgQdckl0"
+      },
+      "artists": [
+        {
+          "name": "Dip Salvador",
+          "url": "https://open.spotify.com/artist/6PN1qeD3PiiYj6QIDMqfUz"
+        }
+      ],
+      "duration_ms": 199810,
+      "name": "La Vacuna",
+      "url": "https://open.spotify.com/track/3KI0MgmUSkF2HPltjRLqjO"
+    },
+    {
+      "added_at": "2022-09-08 10:21:29",
       "album": {
         "name": "Un Verano Sin Ti",
         "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
@@ -29,63 +61,7 @@
       "url": "https://open.spotify.com/track/6Sq7ltF9Qa7SNFBsV5Cogx"
     },
     {
-      "added_at": "2022-09-06 11:14:06",
-      "album": {
-        "name": "Bendita Nota",
-        "url": "https://open.spotify.com/album/13dmU1iu11URAFbmYZz7i3"
-      },
-      "artists": [
-        {
-          "name": "Jabriell",
-          "url": "https://open.spotify.com/artist/7f0gFq3dScRns3aaNWZWdy"
-        }
-      ],
-      "duration_ms": 167978,
-      "name": "Bendita Nota",
-      "url": "https://open.spotify.com/track/2nogvCAks6RgjxubNXOPMH"
-    },
-    {
-      "added_at": "2022-09-06 11:14:06",
-      "album": {
-        "name": "F\u00f3rmula, Vol. 3",
-        "url": "https://open.spotify.com/album/3kGn13mW34Ookfj6yiY8BF"
-      },
-      "artists": [
-        {
-          "name": "Romeo Santos",
-          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
-        },
-        {
-          "name": "Chris Lebron",
-          "url": "https://open.spotify.com/artist/3GPTvhZ8XfH7WkHXidvELk"
-        }
-      ],
-      "duration_ms": 164093,
-      "name": "SIRI",
-      "url": "https://open.spotify.com/track/5S4aEL1BMsgLvCSt4BijHd"
-    },
-    {
-      "added_at": "2022-09-06 11:14:06",
-      "album": {
-        "name": "Lo Prieto",
-        "url": "https://open.spotify.com/album/6rlbCUJjq5S7Z0wE3hsRqo"
-      },
-      "artists": [
-        {
-          "name": "Luigui Bleand",
-          "url": "https://open.spotify.com/artist/3s4iTKRp9wGJFYyn5Bo8Pq"
-        },
-        {
-          "name": "Musicologo The Libro",
-          "url": "https://open.spotify.com/artist/0lIw3RIPiAC50dWNjJXe2Q"
-        }
-      ],
-      "duration_ms": 184625,
-      "name": "Lo Prieto",
-      "url": "https://open.spotify.com/track/5q3b86vdmn3itBhsAPHMfd"
-    },
-    {
-      "added_at": "2022-09-06 11:14:06",
+      "added_at": "2022-09-08 10:21:29",
       "album": {
         "name": "Quevedo: Bzrp Music Sessions, Vol. 52",
         "url": "https://open.spotify.com/album/4PNqWiJAfjj32hVvlchV5u"
@@ -105,23 +81,7 @@
       "url": "https://open.spotify.com/track/2tTmW7RDtMQtBk7m2rYeSw"
     },
     {
-      "added_at": "2022-09-06 11:14:06",
-      "album": {
-        "name": "Un Verano Sin Ti",
-        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 213061,
-      "name": "Efecto",
-      "url": "https://open.spotify.com/track/5Eax0qFko2dh7Rl2lYs3bx"
-    },
-    {
-      "added_at": "2022-09-06 11:14:06",
+      "added_at": "2022-09-08 10:21:29",
       "album": {
         "name": "Un Verano Sin Ti",
         "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
@@ -137,7 +97,23 @@
       "url": "https://open.spotify.com/track/1IHWl5LamUGEuP4ozKQSXZ"
     },
     {
-      "added_at": "2022-09-06 11:14:06",
+      "added_at": "2022-09-08 10:21:29",
+      "album": {
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 213061,
+      "name": "Efecto",
+      "url": "https://open.spotify.com/track/5Eax0qFko2dh7Rl2lYs3bx"
+    },
+    {
+      "added_at": "2022-09-08 10:21:29",
       "album": {
         "name": "Un Verano Sin Ti",
         "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
@@ -153,7 +129,27 @@
       "url": "https://open.spotify.com/track/6Xom58OOXk2SoU711L2IXO"
     },
     {
-      "added_at": "2022-09-06 11:14:06",
+      "added_at": "2022-09-08 10:21:29",
+      "album": {
+        "name": "F\u00f3rmula, Vol. 3",
+        "url": "https://open.spotify.com/album/3kGn13mW34Ookfj6yiY8BF"
+      },
+      "artists": [
+        {
+          "name": "Romeo Santos",
+          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+        },
+        {
+          "name": "Chris Lebron",
+          "url": "https://open.spotify.com/artist/3GPTvhZ8XfH7WkHXidvELk"
+        }
+      ],
+      "duration_ms": 164093,
+      "name": "SIRI",
+      "url": "https://open.spotify.com/track/5S4aEL1BMsgLvCSt4BijHd"
+    },
+    {
+      "added_at": "2022-09-08 10:21:29",
       "album": {
         "name": "Un Verano Sin Ti",
         "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
@@ -173,39 +169,39 @@
       "url": "https://open.spotify.com/track/3k3NWokhRRkEPhCzPmV8TW"
     },
     {
-      "added_at": "2022-09-06 11:14:06",
+      "added_at": "2022-09-08 10:21:29",
       "album": {
-        "name": "La Vacuna",
-        "url": "https://open.spotify.com/album/0NqhM75FoWkfJCrgQdckl0"
+        "name": "Bendita Nota",
+        "url": "https://open.spotify.com/album/13dmU1iu11URAFbmYZz7i3"
       },
       "artists": [
         {
-          "name": "Dip Salvador",
-          "url": "https://open.spotify.com/artist/6PN1qeD3PiiYj6QIDMqfUz"
+          "name": "Jabriell",
+          "url": "https://open.spotify.com/artist/7f0gFq3dScRns3aaNWZWdy"
         }
       ],
-      "duration_ms": 199810,
-      "name": "La Vacuna",
-      "url": "https://open.spotify.com/track/3KI0MgmUSkF2HPltjRLqjO"
+      "duration_ms": 167978,
+      "name": "Bendita Nota",
+      "url": "https://open.spotify.com/track/2nogvCAks6RgjxubNXOPMH"
     },
     {
-      "added_at": "2022-09-06 11:14:06",
+      "added_at": "2022-09-08 10:21:29",
       "album": {
-        "name": "Tan Soldao",
-        "url": "https://open.spotify.com/album/64hDv6o7A96KgsZb74ZVea"
+        "name": "Humolandia",
+        "url": "https://open.spotify.com/album/6HFsw4JO0pLzNkNmjnVtq5"
       },
       "artists": [
         {
-          "name": "EL YALA",
-          "url": "https://open.spotify.com/artist/1I3kOJZqxQso79tnP71dwU"
+          "name": "Luigui Bleand",
+          "url": "https://open.spotify.com/artist/3s4iTKRp9wGJFYyn5Bo8Pq"
         }
       ],
-      "duration_ms": 185172,
-      "name": "Tan Soldao",
-      "url": "https://open.spotify.com/track/0TH2Oz2cnc2lxfgaPLGmSp"
+      "duration_ms": 176003,
+      "name": "Humolandia",
+      "url": "https://open.spotify.com/track/0EvfySjsnyTagfjZRk8kc8"
     },
     {
-      "added_at": "2022-09-06 11:14:06",
+      "added_at": "2022-09-08 10:21:29",
       "album": {
         "name": "Un Verano Sin Ti",
         "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
@@ -221,51 +217,43 @@
       "url": "https://open.spotify.com/track/31i56LZnwE6uSu3exoHjtB"
     },
     {
-      "added_at": "2022-09-06 11:14:06",
+      "added_at": "2022-09-08 10:21:29",
       "album": {
-        "name": "Sacudelo",
-        "url": "https://open.spotify.com/album/62hu6GMVq2eVxDOdd7dQvD"
+        "name": "Tan Soldao",
+        "url": "https://open.spotify.com/album/64hDv6o7A96KgsZb74ZVea"
       },
       "artists": [
         {
-          "name": "Sarita",
-          "url": "https://open.spotify.com/artist/1QxkThT4UZIVSv5KS7KS8I"
-        },
-        {
-          "name": "Bigoblin",
-          "url": "https://open.spotify.com/artist/38m9i1Ro4UpoMLGuRm6bwq"
-        },
-        {
-          "name": "Dj Human Star",
-          "url": "https://open.spotify.com/artist/0g5a7nTAbwPPMzJi4KvaYW"
+          "name": "EL YALA",
+          "url": "https://open.spotify.com/artist/1I3kOJZqxQso79tnP71dwU"
         }
       ],
-      "duration_ms": 137872,
-      "name": "Sacudelo",
-      "url": "https://open.spotify.com/track/4if9IwZ493OA0lRiOZanIA"
+      "duration_ms": 185172,
+      "name": "Tan Soldao",
+      "url": "https://open.spotify.com/track/0TH2Oz2cnc2lxfgaPLGmSp"
     },
     {
-      "added_at": "2022-09-06 11:14:06",
+      "added_at": "2022-09-08 10:21:29",
       "album": {
-        "name": "F\u00f3rmula, Vol. 3",
-        "url": "https://open.spotify.com/album/3kGn13mW34Ookfj6yiY8BF"
+        "name": "Lo Prieto",
+        "url": "https://open.spotify.com/album/6rlbCUJjq5S7Z0wE3hsRqo"
       },
       "artists": [
         {
-          "name": "Romeo Santos",
-          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+          "name": "Luigui Bleand",
+          "url": "https://open.spotify.com/artist/3s4iTKRp9wGJFYyn5Bo8Pq"
         },
         {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+          "name": "Musicologo The Libro",
+          "url": "https://open.spotify.com/artist/0lIw3RIPiAC50dWNjJXe2Q"
         }
       ],
-      "duration_ms": 234786,
-      "name": "El Pa\u00f1uelo",
-      "url": "https://open.spotify.com/track/7jfmlr5W2AQWUGLVhT8ofl"
+      "duration_ms": 184625,
+      "name": "Lo Prieto",
+      "url": "https://open.spotify.com/track/5q3b86vdmn3itBhsAPHMfd"
     },
     {
-      "added_at": "2022-09-06 11:14:06",
+      "added_at": "2022-09-08 10:21:29",
       "album": {
         "name": "Un Verano Sin Ti",
         "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
@@ -285,7 +273,7 @@
       "url": "https://open.spotify.com/track/41oY4WCTj5kccfesTVFnvN"
     },
     {
-      "added_at": "2022-09-06 11:14:06",
+      "added_at": "2022-09-08 10:21:29",
       "album": {
         "name": "LOS APARATOS",
         "url": "https://open.spotify.com/album/4l8c1V5208sGn5IkInMzUi"
@@ -309,23 +297,7 @@
       "url": "https://open.spotify.com/track/4SSbtLDkepeOHAckM1FCBP"
     },
     {
-      "added_at": "2022-09-06 11:14:06",
-      "album": {
-        "name": "Humolandia",
-        "url": "https://open.spotify.com/album/6HFsw4JO0pLzNkNmjnVtq5"
-      },
-      "artists": [
-        {
-          "name": "Luigui Bleand",
-          "url": "https://open.spotify.com/artist/3s4iTKRp9wGJFYyn5Bo8Pq"
-        }
-      ],
-      "duration_ms": 176003,
-      "name": "Humolandia",
-      "url": "https://open.spotify.com/track/0EvfySjsnyTagfjZRk8kc8"
-    },
-    {
-      "added_at": "2022-09-06 11:14:06",
+      "added_at": "2022-09-08 10:21:29",
       "album": {
         "name": "La Bachata",
         "url": "https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2"
@@ -341,7 +313,7 @@
       "url": "https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u"
     },
     {
-      "added_at": "2022-09-06 11:14:06",
+      "added_at": "2022-09-08 10:21:29",
       "album": {
         "name": "PROVENZA",
         "url": "https://open.spotify.com/album/1wLB2bnCl2m5m9M9g8r93Y"
@@ -357,7 +329,7 @@
       "url": "https://open.spotify.com/track/7dSZ6zGTQx66c2GF91xCrb"
     },
     {
-      "added_at": "2022-09-06 11:14:06",
+      "added_at": "2022-09-08 10:21:29",
       "album": {
         "name": "Un Verano Sin Ti",
         "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
@@ -377,7 +349,7 @@
       "url": "https://open.spotify.com/track/4tYFy8ALRjIZvnvSLw5lxN"
     },
     {
-      "added_at": "2022-09-06 11:14:06",
+      "added_at": "2022-09-08 10:21:29",
       "album": {
         "name": "Un Verano Sin Ti",
         "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
@@ -397,7 +369,27 @@
       "url": "https://open.spotify.com/track/1797zYiX4cKosMH836X9Gt"
     },
     {
-      "added_at": "2022-09-06 11:14:06",
+      "added_at": "2022-09-08 10:21:29",
+      "album": {
+        "name": "F\u00f3rmula, Vol. 3",
+        "url": "https://open.spotify.com/album/3kGn13mW34Ookfj6yiY8BF"
+      },
+      "artists": [
+        {
+          "name": "Romeo Santos",
+          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+        },
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 234786,
+      "name": "El Pa\u00f1uelo",
+      "url": "https://open.spotify.com/track/7jfmlr5W2AQWUGLVhT8ofl"
+    },
+    {
+      "added_at": "2022-09-08 10:21:29",
       "album": {
         "name": "DESPECH\u00c1",
         "url": "https://open.spotify.com/album/5omNd3Mkij9C3ZeW19rRmv"
@@ -413,63 +405,107 @@
       "url": "https://open.spotify.com/track/5ildQOEKmJuWGl2vRkFdYc"
     },
     {
-      "added_at": "2022-09-06 11:14:06",
+      "added_at": "2022-09-08 10:21:29",
       "album": {
-        "name": "F\u00f3rmula, Vol. 3",
-        "url": "https://open.spotify.com/album/3kGn13mW34Ookfj6yiY8BF"
+        "name": "Me Gustas",
+        "url": "https://open.spotify.com/album/5kpNKMDZBUs7hi3GYXfPiU"
       },
       "artists": [
         {
-          "name": "Romeo Santos",
-          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+          "name": "Juanfran",
+          "url": "https://open.spotify.com/artist/7zY0DMisq1oYXvNNgGwHBY"
         },
         {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+          "name": "Leyvan",
+          "url": "https://open.spotify.com/artist/2oZRsPM0AxUcyTD8nuCo08"
         }
       ],
-      "duration_ms": 234666,
-      "name": "Sin Fin",
-      "url": "https://open.spotify.com/track/4BBTalxG6c1Aoai1x1EA5g"
+      "duration_ms": 201347,
+      "name": "Me Gustas",
+      "url": "https://open.spotify.com/track/4lgF0pKxpNKbXVNa6TMtJ5"
     },
     {
-      "added_at": "2022-09-06 11:14:06",
+      "added_at": "2022-09-08 10:21:29",
       "album": {
-        "name": "F\u00f3rmula, Vol. 3",
-        "url": "https://open.spotify.com/album/3kGn13mW34Ookfj6yiY8BF"
+        "name": "Culito",
+        "url": "https://open.spotify.com/album/4dhH3Nhj7vy79pHdvCp0EB"
       },
       "artists": [
         {
-          "name": "Romeo Santos",
-          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+          "name": "El Bird",
+          "url": "https://open.spotify.com/artist/1XHYFx41xbzN5SxLUSvW5Q"
         }
       ],
-      "duration_ms": 224480,
-      "name": "Suegra",
-      "url": "https://open.spotify.com/track/3DGvNJcyicD4gHoVEvH86P"
+      "duration_ms": 216519,
+      "name": "Culito",
+      "url": "https://open.spotify.com/track/4FiHQz4KFtK0m5zzhI4gZL"
     },
     {
-      "added_at": "2022-09-06 11:14:06",
+      "added_at": "2022-09-08 10:21:29",
       "album": {
-        "name": "F\u00f3rmula, Vol. 3",
-        "url": "https://open.spotify.com/album/3kGn13mW34Ookfj6yiY8BF"
+        "name": "La cucharita",
+        "url": "https://open.spotify.com/album/0BHkFSst6Y27JczCiNlasU"
       },
       "artists": [
         {
-          "name": "Romeo Santos",
-          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
-        },
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+          "name": "Nawi",
+          "url": "https://open.spotify.com/artist/2RdpAXHWszhho7JCRo0LKF"
         }
       ],
-      "duration_ms": 191880,
-      "name": "Me Extra\u00f1o",
-      "url": "https://open.spotify.com/track/3qx4POjFiODHPwCBjq8IEW"
+      "duration_ms": 199384,
+      "name": "La cucharita",
+      "url": "https://open.spotify.com/track/7z93LQ3LfHjG52bNPK9qOb"
     },
     {
-      "added_at": "2022-09-06 11:14:06",
+      "added_at": "2022-09-08 10:21:29",
+      "album": {
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 176936,
+      "name": "Un Ratito",
+      "url": "https://open.spotify.com/track/5CzixCxDkRXX9mScCmah8O"
+    },
+    {
+      "added_at": "2022-09-08 10:21:29",
+      "album": {
+        "name": "Hey Chanty",
+        "url": "https://open.spotify.com/album/789JJAQJ3JyAzEIF8sUmc0"
+      },
+      "artists": [
+        {
+          "name": "Amenazzy",
+          "url": "https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf"
+        }
+      ],
+      "duration_ms": 160734,
+      "name": "Hey Chanty",
+      "url": "https://open.spotify.com/track/5EWQWiQS2eseBWfgesPEh2"
+    },
+    {
+      "added_at": "2022-09-08 10:21:29",
+      "album": {
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 230400,
+      "name": "Despu\u00e9s de la Playa",
+      "url": "https://open.spotify.com/track/1dm6z1fWB0cErMszU25dy2"
+    },
+    {
+      "added_at": "2022-09-08 10:21:29",
       "album": {
         "name": "GAT\u00daBELA",
         "url": "https://open.spotify.com/album/5FdSjtKiymlHrdbXDyXcxA"
@@ -489,7 +525,339 @@
       "url": "https://open.spotify.com/track/1ga4PztXOIw1yBbdUt2X8v"
     },
     {
-      "added_at": "2022-09-06 11:14:06",
+      "added_at": "2022-09-08 10:21:29",
+      "album": {
+        "name": "No lo pillas",
+        "url": "https://open.spotify.com/album/0DgaTlnauNvpd2PVSKmTbJ"
+      },
+      "artists": [
+        {
+          "name": "Nawi",
+          "url": "https://open.spotify.com/artist/2RdpAXHWszhho7JCRo0LKF"
+        }
+      ],
+      "duration_ms": 158608,
+      "name": "No lo pillas",
+      "url": "https://open.spotify.com/track/5SO3nXcGKt5TWIsqTyzxvj"
+    },
+    {
+      "added_at": "2022-09-08 10:21:29",
+      "album": {
+        "name": "Giga",
+        "url": "https://open.spotify.com/album/6aXyh9hv7Z91eD1LZwp8sd"
+      },
+      "artists": [
+        {
+          "name": "Miguelito",
+          "url": "https://open.spotify.com/artist/4gwgJqemp17xhiPm7pEAqu"
+        }
+      ],
+      "duration_ms": 157937,
+      "name": "Giga",
+      "url": "https://open.spotify.com/track/1UIVqQ8pqlvoSlPy9esKd6"
+    },
+    {
+      "added_at": "2022-09-08 10:21:29",
+      "album": {
+        "name": "Colapso",
+        "url": "https://open.spotify.com/album/1A8pFYoAULq2VxTo6PmkeX"
+      },
+      "artists": [
+        {
+          "name": "Wanton chulito",
+          "url": "https://open.spotify.com/artist/2Y8dw810oc7wqr6D0eWrJp"
+        },
+        {
+          "name": "Bulova",
+          "url": "https://open.spotify.com/artist/6NAhbfEqeWELwfjH391Vz0"
+        }
+      ],
+      "duration_ms": 183970,
+      "name": "Candela",
+      "url": "https://open.spotify.com/track/0oDUxuieaQHOryhpTYVN0a"
+    },
+    {
+      "added_at": "2022-09-08 10:21:29",
+      "album": {
+        "name": "Work",
+        "url": "https://open.spotify.com/album/44XEbTZ3mTCqVxvoW1s2Zc"
+      },
+      "artists": [
+        {
+          "name": "Nawi",
+          "url": "https://open.spotify.com/artist/2RdpAXHWszhho7JCRo0LKF"
+        }
+      ],
+      "duration_ms": 155492,
+      "name": "Work",
+      "url": "https://open.spotify.com/track/5HnyFhrOuU5ykgXkowDkBK"
+    },
+    {
+      "added_at": "2022-09-08 10:21:29",
+      "album": {
+        "name": "Al Final",
+        "url": "https://open.spotify.com/album/6cf2JIz11JajgZwFQq6tpP"
+      },
+      "artists": [
+        {
+          "name": "Chris Jonex",
+          "url": "https://open.spotify.com/artist/3tLXPx5dsnZtsodGSf6t8E"
+        }
+      ],
+      "duration_ms": 135409,
+      "name": "Al Final",
+      "url": "https://open.spotify.com/track/4KaR08ACjLPf3YGPSfNNeI"
+    },
+    {
+      "added_at": "2022-09-08 10:21:29",
+      "album": {
+        "name": "Nunca Digas Jam\u00e1s",
+        "url": "https://open.spotify.com/album/68eOK9YTfbG2IUEt3BH7Zm"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Rojo",
+          "url": "https://open.spotify.com/artist/0SMyQijONSkk6q5UseJXEN"
+        },
+        {
+          "name": "Aleks Syntek",
+          "url": "https://open.spotify.com/artist/0r8toju2ecKaVtItkzAnNi"
+        }
+      ],
+      "duration_ms": 213189,
+      "name": "Nunca Digas Jam\u00e1s",
+      "url": "https://open.spotify.com/track/40V8awZXT0DdTcYOzRHH61"
+    },
+    {
+      "added_at": "2022-09-08 10:21:29",
+      "album": {
+        "name": "Pasajeros",
+        "url": "https://open.spotify.com/album/0MumJse9m8oXOssm5vgchG"
+      },
+      "artists": [
+        {
+          "name": "Fifty Voice",
+          "url": "https://open.spotify.com/artist/22LDkXWITkaYTO3eJ3LyR3"
+        }
+      ],
+      "duration_ms": 137823,
+      "name": "Duelo",
+      "url": "https://open.spotify.com/track/6fZAPx7wPQmVOK5hMJiHzG"
+    },
+    {
+      "added_at": "2022-09-08 10:21:29",
+      "album": {
+        "name": "Sacudelo",
+        "url": "https://open.spotify.com/album/57TQDu4FcRpfeB0w2sSf52"
+      },
+      "artists": [
+        {
+          "name": "Sarita",
+          "url": "https://open.spotify.com/artist/1QxkThT4UZIVSv5KS7KS8I"
+        },
+        {
+          "name": "Bigoblin",
+          "url": "https://open.spotify.com/artist/38m9i1Ro4UpoMLGuRm6bwq"
+        },
+        {
+          "name": "Dj Human Star",
+          "url": "https://open.spotify.com/artist/0g5a7nTAbwPPMzJi4KvaYW"
+        }
+      ],
+      "duration_ms": 137872,
+      "name": "Sacudelo",
+      "url": "https://open.spotify.com/track/0mBUchfVU0BhcuQC1i3mQO"
+    },
+    {
+      "added_at": "2022-09-08 10:21:29",
+      "album": {
+        "name": "2 Na' Ma",
+        "url": "https://open.spotify.com/album/1fdoSKzS80sJIl3flEkPR8"
+      },
+      "artists": [
+        {
+          "name": "EL YALA",
+          "url": "https://open.spotify.com/artist/1I3kOJZqxQso79tnP71dwU"
+        }
+      ],
+      "duration_ms": 113772,
+      "name": "2 Na' Ma",
+      "url": "https://open.spotify.com/track/2TAwTtG4uihlWzelKWRRLp"
+    },
+    {
+      "added_at": "2022-09-08 10:21:29",
+      "album": {
+        "name": "Mercedes Tintia",
+        "url": "https://open.spotify.com/album/3Hp4KQN2Oib1HM5MO3Q69s"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "duration_ms": 195348,
+      "name": "Mercedes Tintia",
+      "url": "https://open.spotify.com/track/6e9Ew4AECYwY5Xgs2ZKMgp"
+    },
+    {
+      "added_at": "2022-09-08 10:21:29",
+      "album": {
+        "name": "LOKERA",
+        "url": "https://open.spotify.com/album/4vJcqwIGUuk5TeP29OPovU"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Lyanno",
+          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
+        },
+        {
+          "name": "Brray",
+          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
+        }
+      ],
+      "duration_ms": 195294,
+      "name": "LOKERA",
+      "url": "https://open.spotify.com/track/79HZAZNnOE97rb2hnI0XQr"
+    },
+    {
+      "added_at": "2022-09-08 10:21:29",
+      "album": {
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Buscabulla",
+          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
+        }
+      ],
+      "duration_ms": 339611,
+      "name": "Andrea",
+      "url": "https://open.spotify.com/track/44XjoNvtwevktFKjvVe1vH"
+    },
+    {
+      "added_at": "2022-09-08 10:21:29",
+      "album": {
+        "name": "F\u00f3rmula, Vol. 3",
+        "url": "https://open.spotify.com/album/3kGn13mW34Ookfj6yiY8BF"
+      },
+      "artists": [
+        {
+          "name": "Romeo Santos",
+          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+        },
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "duration_ms": 234666,
+      "name": "Sin Fin",
+      "url": "https://open.spotify.com/track/4BBTalxG6c1Aoai1x1EA5g"
+    },
+    {
+      "added_at": "2022-09-08 10:21:29",
+      "album": {
+        "name": "F\u00f3rmula, Vol. 3",
+        "url": "https://open.spotify.com/album/3kGn13mW34Ookfj6yiY8BF"
+      },
+      "artists": [
+        {
+          "name": "Romeo Santos",
+          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+        }
+      ],
+      "duration_ms": 224480,
+      "name": "Suegra",
+      "url": "https://open.spotify.com/track/3DGvNJcyicD4gHoVEvH86P"
+    },
+    {
+      "added_at": "2022-09-08 10:21:29",
+      "album": {
+        "name": "F\u00f3rmula, Vol. 3",
+        "url": "https://open.spotify.com/album/3kGn13mW34Ookfj6yiY8BF"
+      },
+      "artists": [
+        {
+          "name": "Romeo Santos",
+          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+        },
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "duration_ms": 191880,
+      "name": "Me Extra\u00f1o",
+      "url": "https://open.spotify.com/track/3qx4POjFiODHPwCBjq8IEW"
+    },
+    {
+      "added_at": "2022-09-08 10:21:29",
+      "album": {
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 196412,
+      "name": "Un Coco",
+      "url": "https://open.spotify.com/track/6VrQTLzzuyGIYjUDe4kAZk"
+    },
+    {
+      "added_at": "2022-09-08 10:21:29",
+      "album": {
+        "name": "Lo Siento BB:/ (with Bad Bunny & Julieta Venegas)",
+        "url": "https://open.spotify.com/album/4589OIFRZp41qbsp7TWFCx"
+      },
+      "artists": [
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 207301,
+      "name": "Lo Siento BB:/ (with Bad Bunny & Julieta Venegas)",
+      "url": "https://open.spotify.com/track/4gzsuuZypVbxs0Af1LSZyB"
+    },
+    {
+      "added_at": "2022-09-08 10:21:29",
+      "album": {
+        "name": "F\u00f3rmula, Vol. 3",
+        "url": "https://open.spotify.com/album/3kGn13mW34Ookfj6yiY8BF"
+      },
+      "artists": [
+        {
+          "name": "Romeo Santos",
+          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+        }
+      ],
+      "duration_ms": 214613,
+      "name": "Sus Huellas",
+      "url": "https://open.spotify.com/track/7fBuy1fdHEwG3mRdlHNM41"
+    },
+    {
+      "added_at": "2022-09-08 10:21:29",
       "album": {
         "name": "F\u00f3rmula, Vol. 3",
         "url": "https://open.spotify.com/album/3kGn13mW34Ookfj6yiY8BF"
@@ -505,7 +873,7 @@
       "url": "https://open.spotify.com/track/7HsebNHZDGj8UhWIrZaMx6"
     },
     {
-      "added_at": "2022-09-06 11:14:06",
+      "added_at": "2022-09-08 10:21:29",
       "album": {
         "name": "F\u00f3rmula, Vol. 3",
         "url": "https://open.spotify.com/album/3kGn13mW34Ookfj6yiY8BF"
@@ -537,291 +905,7 @@
       "url": "https://open.spotify.com/track/0X6sRADYbUDYutAulPllKN"
     },
     {
-      "added_at": "2022-09-06 11:14:06",
-      "album": {
-        "name": "Un Verano Sin Ti",
-        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 230400,
-      "name": "Despu\u00e9s de la Playa",
-      "url": "https://open.spotify.com/track/1dm6z1fWB0cErMszU25dy2"
-    },
-    {
-      "added_at": "2022-09-06 11:14:06",
-      "album": {
-        "name": "Un Verano Sin Ti",
-        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 176936,
-      "name": "Un Ratito",
-      "url": "https://open.spotify.com/track/5CzixCxDkRXX9mScCmah8O"
-    },
-    {
-      "added_at": "2022-09-06 11:14:06",
-      "album": {
-        "name": "Hey Chanty",
-        "url": "https://open.spotify.com/album/789JJAQJ3JyAzEIF8sUmc0"
-      },
-      "artists": [
-        {
-          "name": "Amenazzy",
-          "url": "https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf"
-        }
-      ],
-      "duration_ms": 160734,
-      "name": "Hey Chanty",
-      "url": "https://open.spotify.com/track/5EWQWiQS2eseBWfgesPEh2"
-    },
-    {
-      "added_at": "2022-09-06 11:14:06",
-      "album": {
-        "name": "F\u00f3rmula, Vol. 3",
-        "url": "https://open.spotify.com/album/3kGn13mW34Ookfj6yiY8BF"
-      },
-      "artists": [
-        {
-          "name": "Romeo Santos",
-          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
-        }
-      ],
-      "duration_ms": 224426,
-      "name": "Ay\u00fadame",
-      "url": "https://open.spotify.com/track/6mjhmQB61lSVhgcmOFJv9L"
-    },
-    {
-      "added_at": "2022-09-06 11:14:06",
-      "album": {
-        "name": "F\u00f3rmula, Vol. 3",
-        "url": "https://open.spotify.com/album/3kGn13mW34Ookfj6yiY8BF"
-      },
-      "artists": [
-        {
-          "name": "Romeo Santos",
-          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
-        }
-      ],
-      "duration_ms": 214613,
-      "name": "Sus Huellas",
-      "url": "https://open.spotify.com/track/7fBuy1fdHEwG3mRdlHNM41"
-    },
-    {
-      "added_at": "2022-09-06 11:14:06",
-      "album": {
-        "name": "Trucha",
-        "url": "https://open.spotify.com/album/6VRAze9q5Afxm2QiPx3WcG"
-      },
-      "artists": [
-        {
-          "name": "Jabriell",
-          "url": "https://open.spotify.com/artist/7f0gFq3dScRns3aaNWZWdy"
-        }
-      ],
-      "duration_ms": 146900,
-      "name": "Trucha",
-      "url": "https://open.spotify.com/track/2qS5e9BfS51kGXUUaSJoZL"
-    },
-    {
-      "added_at": "2022-09-06 11:14:06",
-      "album": {
-        "name": "F\u00f3rmula, Vol. 3",
-        "url": "https://open.spotify.com/album/3kGn13mW34Ookfj6yiY8BF"
-      },
-      "artists": [
-        {
-          "name": "Romeo Santos",
-          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
-        }
-      ],
-      "duration_ms": 247520,
-      "name": "Boomerang",
-      "url": "https://open.spotify.com/track/0ill3qz7eiLAswHanCCoeJ"
-    },
-    {
-      "added_at": "2022-09-06 11:14:06",
-      "album": {
-        "name": "2 Na' Ma",
-        "url": "https://open.spotify.com/album/1fdoSKzS80sJIl3flEkPR8"
-      },
-      "artists": [
-        {
-          "name": "EL YALA",
-          "url": "https://open.spotify.com/artist/1I3kOJZqxQso79tnP71dwU"
-        }
-      ],
-      "duration_ms": 113772,
-      "name": "2 Na' Ma",
-      "url": "https://open.spotify.com/track/2TAwTtG4uihlWzelKWRRLp"
-    },
-    {
-      "added_at": "2022-09-06 11:14:06",
-      "album": {
-        "name": "Mercedes Tintia",
-        "url": "https://open.spotify.com/album/3Hp4KQN2Oib1HM5MO3Q69s"
-      },
-      "artists": [
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        }
-      ],
-      "duration_ms": 195348,
-      "name": "Mercedes Tintia",
-      "url": "https://open.spotify.com/track/6e9Ew4AECYwY5Xgs2ZKMgp"
-    },
-    {
-      "added_at": "2022-09-06 11:14:06",
-      "album": {
-        "name": "F\u00f3rmula, Vol. 3",
-        "url": "https://open.spotify.com/album/3kGn13mW34Ookfj6yiY8BF"
-      },
-      "artists": [
-        {
-          "name": "Romeo Santos",
-          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
-        },
-        {
-          "name": "Lapiz Conciente",
-          "url": "https://open.spotify.com/artist/0UTsdD7VIsEB9i7a6DDx5t"
-        }
-      ],
-      "duration_ms": 177440,
-      "name": "Culpable",
-      "url": "https://open.spotify.com/track/28guOwvKQFtDoA5MMaf01a"
-    },
-    {
-      "added_at": "2022-09-06 11:14:06",
-      "album": {
-        "name": "Lo Siento BB:/ (with Bad Bunny & Julieta Venegas)",
-        "url": "https://open.spotify.com/album/4589OIFRZp41qbsp7TWFCx"
-      },
-      "artists": [
-        {
-          "name": "Tainy",
-          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 207301,
-      "name": "Lo Siento BB:/ (with Bad Bunny & Julieta Venegas)",
-      "url": "https://open.spotify.com/track/4gzsuuZypVbxs0Af1LSZyB"
-    },
-    {
-      "added_at": "2022-09-06 11:14:06",
-      "album": {
-        "name": "F\u00f3rmula, Vol. 3",
-        "url": "https://open.spotify.com/album/3kGn13mW34Ookfj6yiY8BF"
-      },
-      "artists": [
-        {
-          "name": "Romeo Santos",
-          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
-        }
-      ],
-      "duration_ms": 254920,
-      "name": "Solo Conmigo",
-      "url": "https://open.spotify.com/track/22iCMlT0xYryKNnz4X5Vwn"
-    },
-    {
-      "added_at": "2022-09-06 11:14:06",
-      "album": {
-        "name": "Me Gustas",
-        "url": "https://open.spotify.com/album/5kpNKMDZBUs7hi3GYXfPiU"
-      },
-      "artists": [
-        {
-          "name": "Juanfran",
-          "url": "https://open.spotify.com/artist/7zY0DMisq1oYXvNNgGwHBY"
-        },
-        {
-          "name": "Leyvan",
-          "url": "https://open.spotify.com/artist/2oZRsPM0AxUcyTD8nuCo08"
-        }
-      ],
-      "duration_ms": 201347,
-      "name": "Me Gustas",
-      "url": "https://open.spotify.com/track/4lgF0pKxpNKbXVNa6TMtJ5"
-    },
-    {
-      "added_at": "2022-09-06 11:14:06",
-      "album": {
-        "name": "Un Verano Sin Ti",
-        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Buscabulla",
-          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
-        }
-      ],
-      "duration_ms": 339611,
-      "name": "Andrea",
-      "url": "https://open.spotify.com/track/44XjoNvtwevktFKjvVe1vH"
-    },
-    {
-      "added_at": "2022-09-06 11:14:06",
-      "album": {
-        "name": "LOKERA",
-        "url": "https://open.spotify.com/album/4vJcqwIGUuk5TeP29OPovU"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Lyanno",
-          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
-        },
-        {
-          "name": "Brray",
-          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
-        }
-      ],
-      "duration_ms": 195294,
-      "name": "LOKERA",
-      "url": "https://open.spotify.com/track/79HZAZNnOE97rb2hnI0XQr"
-    },
-    {
-      "added_at": "2022-09-06 11:14:06",
-      "album": {
-        "name": "Un Verano Sin Ti",
-        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 196412,
-      "name": "Un Coco",
-      "url": "https://open.spotify.com/track/6VrQTLzzuyGIYjUDe4kAZk"
-    },
-    {
-      "added_at": "2022-09-06 11:14:06",
+      "added_at": "2022-09-08 10:21:29",
       "album": {
         "name": "Un Verano Sin Ti",
         "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
@@ -835,86 +919,6 @@
       "duration_ms": 208615,
       "name": "Dos Mil 16",
       "url": "https://open.spotify.com/track/4d4ZXH4dr5bYfgErHiZCX2"
-    },
-    {
-      "added_at": "2022-09-06 11:14:06",
-      "album": {
-        "name": "F\u00f3rmula, Vol. 3",
-        "url": "https://open.spotify.com/album/3kGn13mW34Ookfj6yiY8BF"
-      },
-      "artists": [
-        {
-          "name": "Romeo Santos",
-          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
-        }
-      ],
-      "duration_ms": 186160,
-      "name": "Sexo Con Ropa",
-      "url": "https://open.spotify.com/track/4iSF0oZYDXeFTGHG20NOOF"
-    },
-    {
-      "added_at": "2022-09-06 11:14:06",
-      "album": {
-        "name": "Culito",
-        "url": "https://open.spotify.com/album/4dhH3Nhj7vy79pHdvCp0EB"
-      },
-      "artists": [
-        {
-          "name": "El Bird",
-          "url": "https://open.spotify.com/artist/1XHYFx41xbzN5SxLUSvW5Q"
-        }
-      ],
-      "duration_ms": 216519,
-      "name": "Culito",
-      "url": "https://open.spotify.com/track/4FiHQz4KFtK0m5zzhI4gZL"
-    },
-    {
-      "added_at": "2022-09-06 11:14:06",
-      "album": {
-        "name": "F\u00f3rmula, Vol. 3",
-        "url": "https://open.spotify.com/album/3kGn13mW34Ookfj6yiY8BF"
-      },
-      "artists": [
-        {
-          "name": "Romeo Santos",
-          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
-        }
-      ],
-      "duration_ms": 213866,
-      "name": "Perro",
-      "url": "https://open.spotify.com/track/74o96bZLSIZFIG12H7ZwUm"
-    },
-    {
-      "added_at": "2022-09-06 11:14:06",
-      "album": {
-        "name": "F\u00f3rmula, Vol. 3",
-        "url": "https://open.spotify.com/album/3kGn13mW34Ookfj6yiY8BF"
-      },
-      "artists": [
-        {
-          "name": "Romeo Santos",
-          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
-        }
-      ],
-      "duration_ms": 213786,
-      "name": "Ciudadana",
-      "url": "https://open.spotify.com/track/7fCvGG97wqAIqtOxX87Uv1"
-    },
-    {
-      "added_at": "2022-09-06 11:14:06",
-      "album": {
-        "name": "La cucharita",
-        "url": "https://open.spotify.com/album/0BHkFSst6Y27JczCiNlasU"
-      },
-      "artists": [
-        {
-          "name": "Nawi",
-          "url": "https://open.spotify.com/artist/2RdpAXHWszhho7JCRo0LKF"
-        }
-      ],
-      "duration_ms": 199384,
-      "name": "La cucharita",
-      "url": "https://open.spotify.com/track/7z93LQ3LfHjG52bNPK9qOb"
     }
   ],
   "unique_name": "Top 50 - Dominican Republic",

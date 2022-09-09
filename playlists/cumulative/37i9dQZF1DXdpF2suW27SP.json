@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Plutonio entra na zona. ",
+  "description": "Wet Bed Gang entram na zona. ",
   "name": "Na Zona",
   "published_playlist_ids": [
     "22ncssGshPQaFSB3hgligM"
@@ -537,6 +537,10 @@
         {
           "name": "MS Capone",
           "url": "https://open.spotify.com/artist/1HOLnVK9G35A2MAqz2e8AP"
+        },
+        {
+          "name": "AET",
+          "url": "https://open.spotify.com/artist/1PSaLNwxWV9e6NCrxNbpIu"
         }
       ],
       "date_added": "2022-07-16",
@@ -1078,6 +1082,24 @@
     },
     {
       "album": {
+        "name": "Louco",
+        "url": "https://open.spotify.com/album/7CjbtK4vbyv8yS78DXMtQF"
+      },
+      "artists": [
+        {
+          "name": "Arag\u00e3o",
+          "url": "https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213333,
+      "name": "Louco",
+      "url": "https://open.spotify.com/track/6kJKJrVzOYhqnfeO9NDqIi"
+    },
+    {
+      "album": {
         "name": "Lua",
         "url": "https://open.spotify.com/album/7tMIxE9bA5hgemL5tUzvI1"
       },
@@ -1275,7 +1297,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 220080,
       "name": "Moncler",
       "url": "https://open.spotify.com/track/2jwNTvtfC1JoroZURUspXC"
@@ -1715,7 +1737,7 @@
       ],
       "date_added": "2022-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 155456,
       "name": "Primeira Vez",
       "url": "https://open.spotify.com/track/2cnVJ20GRo3kYKoCihOtUz"

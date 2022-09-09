@@ -2360,6 +2360,24 @@
     },
     {
       "album": {
+        "name": "Te Love (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0CbwVnmNGzzjFxnkuFLQTX"
+      },
+      "artists": [
+        {
+          "name": "Kevi Jonny",
+          "url": "https://open.spotify.com/artist/3PVg0vaMUNTOu7C2GmYfSg"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169002,
+      "name": "Te Love - Ao Vivo",
+      "url": "https://open.spotify.com/track/6TnCI16uLWhyQCrHva9VWj"
+    },
+    {
+      "album": {
         "name": "Tem Cabar\u00e9 Essa Noite",
         "url": "https://open.spotify.com/album/3TZPyR5hOBzLOO6iBuhfL2"
       },

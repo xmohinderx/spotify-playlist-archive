@@ -498,6 +498,24 @@
     },
     {
       "album": {
+        "name": "Going In Circles",
+        "url": "https://open.spotify.com/album/6Brv2ew17Cu7gTBZho5P3Z"
+      },
+      "artists": [
+        {
+          "name": "Nebulae",
+          "url": "https://open.spotify.com/artist/3UKaTOMvInYrOVb2SXiO9v"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149914,
+      "name": "Going In Circles",
+      "url": "https://open.spotify.com/track/6Fkjd2eFXuHC8tGGn2eLBo"
+    },
+    {
+      "album": {
         "name": "Hazy",
         "url": "https://open.spotify.com/album/45XVtdfgbmjIOEl3lLZhc2"
       },

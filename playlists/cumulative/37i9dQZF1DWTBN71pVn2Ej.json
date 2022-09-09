@@ -1886,6 +1886,28 @@
     },
     {
       "album": {
+        "name": "Laugh",
+        "url": "https://open.spotify.com/album/0OIDcAIHVAaxGc7ngpwN91"
+      },
+      "artists": [
+        {
+          "name": "Liotta Seoul",
+          "url": "https://open.spotify.com/artist/5TVvYXtmzb3yeMZIiQdTQi"
+        },
+        {
+          "name": "MightyMacFluff",
+          "url": "https://open.spotify.com/artist/7eI9L2dsuHooxUOcp6ATMf"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210712,
+      "name": "Laugh",
+      "url": "https://open.spotify.com/track/2adbCG7wkQRHHvVZIe5bLN"
+    },
+    {
+      "album": {
         "name": "Lava Lamp Pisco",
         "url": "https://open.spotify.com/album/6OxduyVLmp55HliX26j59W"
       },
@@ -3096,6 +3118,24 @@
     },
     {
       "album": {
+        "name": "System (Failing)",
+        "url": "https://open.spotify.com/album/2jebUvkyXpOU4Y2WjzdHDo"
+      },
+      "artists": [
+        {
+          "name": "Soul Blind",
+          "url": "https://open.spotify.com/artist/4u8phrcaIdvRzcGq5DcQJa"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231477,
+      "name": "System (Failing)",
+      "url": "https://open.spotify.com/track/0pDeQOXbQyA3rWKDxwS45c"
+    },
+    {
+      "album": {
         "name": "T.W.I.N.",
         "url": "https://open.spotify.com/album/64wKY2vc3FLDD3CwD68vBz"
       },
@@ -3403,7 +3443,7 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 210405,
       "name": "Unlovable",
       "url": "https://open.spotify.com/track/43wZfR5xALfBTKWolvDmya"

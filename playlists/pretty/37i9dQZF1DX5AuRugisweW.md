@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5AuRugisweW.md) - [plain]
 
 > Songs of the crossroads and "that old evil spirit"—from Robert Johnson to John Mayer, from early blues to new Americana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,125 likes - 60 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,149 likes - 60 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5AuRugisweW.md) - [plain]
 | 3 | [Seven Hells](https://open.spotify.com/track/1mpkTTUxWTB3FlO2OlRIB4) | [Brown Bird](https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP) | [Fits of Reason](https://open.spotify.com/album/7ea69Z9iyvseW29vS3bF4V) | 3:19 |
 | 4 | [The High Price of Inspiration](https://open.spotify.com/track/65CVlqtXiLtCSdFRHC10mU) | [Hard Working Americans](https://open.spotify.com/artist/5HFE1NUz1561kJM2lHI6AF) | [Rest in Chaos](https://open.spotify.com/album/4LJR9UMWLslKXpVE1q9Psz) | 3:28 |
 | 5 | [Crossroads](https://open.spotify.com/track/4WBmkMJyWubRXRLYk8t9SI) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Battle Studies](https://open.spotify.com/album/1V5vQRMWTNGmqwxY8jMVou) | 2:29 |
-| 6 | [Restless Sinner](https://open.spotify.com/track/4qrUQuQ2Nt9jgZW99rBcbo) | [Black Rebel Motorcycle Club](https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G) | [Howl](https://open.spotify.com/album/3otJWr2xpdvZJGNS303RCZ) | 3:11 |
+| 6 | [Restless Sinner](https://open.spotify.com/track/2HVIkeN6RFE0nGiydxIP4I) | [Black Rebel Motorcycle Club](https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G) | [Howl](https://open.spotify.com/album/5yTFClS2dEGZD5IjM9dfrT) | 3:11 |
 | 7 | [The Devil Wears a Suit and Tie](https://open.spotify.com/track/7hlA8gMMz6jSp91Twsnuv3) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Imaginary Appalachia](https://open.spotify.com/album/1widYgH6RNVOxnLOiVeihU) | 3:56 |
 | 8 | [Me and the Devil Blues](https://open.spotify.com/track/1QCUrXrY1qlxRhL3a9LYCA) | [Robert Johnson](https://open.spotify.com/artist/0f8MDDzIc6M4uH1xH0o0gy) | [King Of The Delta Blues Singers](https://open.spotify.com/album/2IWaNq5o4tG1w6yxve5BMU) | 2:34 |
 | 9 | [Graveyard](https://open.spotify.com/track/5fuON606j1hkPGJhFMwerY) | [The Devil Makes Three](https://open.spotify.com/artist/63knPlGzLHTNDf1J78Fvte) | [The Devil Makes Three](https://open.spotify.com/album/18VR3tbMXiPOEj4rQfSp1k) | 3:25 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5AuRugisweW.md) - [plain]
 | 59 | [Crossroads](https://open.spotify.com/track/4rxamav7i2lJexbuAxcvfe) | [Tracy Chapman](https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP) | [Crossroads](https://open.spotify.com/album/7xlc8VKmPqZJ9m1Dphm6O5) | 4:11 |
 | 60 | [Lady Weeping At The Crossroads](https://open.spotify.com/track/2fHeCbp3pCJbd3g5wQF636) | [Carla Bruni](https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx) | [No Promises](https://open.spotify.com/album/1GOhEzYqUHO4ROrrupcVVH) | 3:37 |
 
-Snapshot ID: `MTYwNTMwMjg1MSwwMDAwMDAwMGZmOTU2MmY2MzgyZDU3ZGM3ODNlZGU1NTM3MjE4MDQ5`
+Snapshot ID: `MTYwNTMwMjg1MSwwMDAwMDAwMDYxOGJmMGRjMDY1YWI4OWU1ZDUzYjMxMTk3M2Q0MDQ1`

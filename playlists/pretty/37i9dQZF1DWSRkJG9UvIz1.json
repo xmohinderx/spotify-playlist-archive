@@ -1,12 +1,12 @@
 {
   "description": "Vai curtir um dia no parque? A tarde com os amigos? \u00c9 s\u00f3 dar play e sair pro sol.",
-  "num_followers": 119767,
+  "num_followers": 119770,
   "original_name": "Sol de Domingo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTE3MjQxOSwwMDAwMDAwMDdhZDRkY2NlNzkwNjNiOThiMTZkMGI2YjlkZDI2NWNi",
+  "snapshot_id": "MTY1NTE3MjQxOSwwMDAwMDAwMDcyOWI2YjFlOWYxOTMxOGIxZWUyMzE3MTJiZDJlZGEz",
   "tracks": [
     {
       "added_at": "2022-06-14 02:06:59",
@@ -507,6 +507,22 @@
     {
       "added_at": "2022-06-14 02:06:59",
       "album": {
+        "name": "Bailemos en la Sala",
+        "url": "https://open.spotify.com/album/1AGFRwoIQhzXjkxAVEMn2W"
+      },
+      "artists": [
+        {
+          "name": "Adrian Bello",
+          "url": "https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8"
+        }
+      ],
+      "duration_ms": 230076,
+      "name": "Brasil",
+      "url": "https://open.spotify.com/track/61D9YBbXp4rkZi7vI9mIwf"
+    },
+    {
+      "added_at": "2022-06-14 02:06:59",
+      "album": {
         "name": "Para Dias Ruins",
         "url": "https://open.spotify.com/album/4EsFZtXhyj9RHiRb2V0eMT"
       },
@@ -523,18 +539,18 @@
     {
       "added_at": "2022-06-14 02:06:59",
       "album": {
-        "name": "Bailemos en la Sala",
-        "url": "https://open.spotify.com/album/1AGFRwoIQhzXjkxAVEMn2W"
+        "name": "28",
+        "url": "https://open.spotify.com/album/7xwXeg80WaIT5tEXjusy2r"
       },
       "artists": [
         {
-          "name": "Adrian Bello",
-          "url": "https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8"
+          "name": "Julian Campos",
+          "url": "https://open.spotify.com/artist/3Z6hZbspAZW7MdhWQTAhiR"
         }
       ],
-      "duration_ms": 230076,
-      "name": "Brasil",
-      "url": "https://open.spotify.com/track/61D9YBbXp4rkZi7vI9mIwf"
+      "duration_ms": 142153,
+      "name": "Notifica\u00e7\u00e3o Ligada",
+      "url": "https://open.spotify.com/track/7kItXrQ1NBReZrQpykM2eq"
     },
     {
       "added_at": "2022-06-14 02:06:59",
@@ -555,22 +571,6 @@
       "duration_ms": 262281,
       "name": "Caf\u00e9 Com Leite",
       "url": "https://open.spotify.com/track/4Qr7jxogVZA4rglb4IPyGD"
-    },
-    {
-      "added_at": "2022-06-14 02:06:59",
-      "album": {
-        "name": "28",
-        "url": "https://open.spotify.com/album/7xwXeg80WaIT5tEXjusy2r"
-      },
-      "artists": [
-        {
-          "name": "Julian Campos",
-          "url": "https://open.spotify.com/artist/3Z6hZbspAZW7MdhWQTAhiR"
-        }
-      ],
-      "duration_ms": 142153,
-      "name": "Notifica\u00e7\u00e3o Ligada",
-      "url": "https://open.spotify.com/track/7kItXrQ1NBReZrQpykM2eq"
     },
     {
       "added_at": "2022-06-14 02:06:59",
@@ -915,26 +915,6 @@
     {
       "added_at": "2022-06-14 02:06:59",
       "album": {
-        "name": "Quando Eu Te Vi / Sorriso (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1tTOqkPfGQWOW7UJ91xbf2"
-      },
-      "artists": [
-        {
-          "name": "Anchietx",
-          "url": "https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp"
-        },
-        {
-          "name": "Ecoando",
-          "url": "https://open.spotify.com/artist/0xKSSq2tMMOz7UCSIKQJxu"
-        }
-      ],
-      "duration_ms": 329075,
-      "name": "Quando Eu Te Vi / Sorriso - Ao Vivo",
-      "url": "https://open.spotify.com/track/45nhgQyJXhocRq7esjKS9K"
-    },
-    {
-      "added_at": "2022-06-14 02:06:59",
-      "album": {
         "name": "AmarElo",
         "url": "https://open.spotify.com/album/22ltKhPdKZ4IuFrna73xPG"
       },
@@ -959,18 +939,22 @@
     {
       "added_at": "2022-06-14 02:06:59",
       "album": {
-        "name": "Selva",
-        "url": "https://open.spotify.com/album/5A3ELDQfpzdyD9lAkHmhg5"
+        "name": "Quando Eu Te Vi / Sorriso (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1tTOqkPfGQWOW7UJ91xbf2"
       },
       "artists": [
         {
-          "name": "Fabriccio",
-          "url": "https://open.spotify.com/artist/7HZsRuW2Cxoyrfk6CNiGih"
+          "name": "Anchietx",
+          "url": "https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp"
+        },
+        {
+          "name": "Ecoando",
+          "url": "https://open.spotify.com/artist/0xKSSq2tMMOz7UCSIKQJxu"
         }
       ],
-      "duration_ms": 274537,
-      "name": "Bossa Velha",
-      "url": "https://open.spotify.com/track/6DKQ0FoOLV5UYmLZR3hmaJ"
+      "duration_ms": 329075,
+      "name": "Quando Eu Te Vi / Sorriso - Ao Vivo",
+      "url": "https://open.spotify.com/track/45nhgQyJXhocRq7esjKS9K"
     },
     {
       "added_at": "2022-06-14 02:06:59",
@@ -987,6 +971,22 @@
       "duration_ms": 143606,
       "name": "Rio de Janeiro",
       "url": "https://open.spotify.com/track/3OMblck71RVFmRfSkXrGpt"
+    },
+    {
+      "added_at": "2022-06-14 02:06:59",
+      "album": {
+        "name": "Selva",
+        "url": "https://open.spotify.com/album/5A3ELDQfpzdyD9lAkHmhg5"
+      },
+      "artists": [
+        {
+          "name": "Fabriccio",
+          "url": "https://open.spotify.com/artist/7HZsRuW2Cxoyrfk6CNiGih"
+        }
+      ],
+      "duration_ms": 274537,
+      "name": "Bossa Velha",
+      "url": "https://open.spotify.com/track/6DKQ0FoOLV5UYmLZR3hmaJ"
     },
     {
       "added_at": "2022-06-14 02:06:59",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2022-06-14 02:06:59",
       "album": {
+        "name": "Tom Jobim",
+        "url": "https://open.spotify.com/album/10g32N6XzlGiOQ79DvYbJO"
+      },
+      "artists": [
+        {
+          "name": "Edley INC.",
+          "url": "https://open.spotify.com/artist/4ugyOypb7Cflv7D72t80UE"
+        }
+      ],
+      "duration_ms": 248839,
+      "name": "Tom Jobim",
+      "url": "https://open.spotify.com/track/6BRjl1Pkk7zBUMnRwdnGOz"
+    },
+    {
+      "added_at": "2022-06-14 02:06:59",
+      "album": {
         "name": "Sobre Crian\u00e7as, Quadris, Pesadelos e Li\u00e7\u00f5es de Casa...",
         "url": "https://open.spotify.com/album/593RZfvtz4IAPWZpELwqDB"
       },
@@ -1067,22 +1083,6 @@
       "duration_ms": 233320,
       "name": "Baiana",
       "url": "https://open.spotify.com/track/2b13f0GSdL1ecyCTAUvZkP"
-    },
-    {
-      "added_at": "2022-06-14 02:06:59",
-      "album": {
-        "name": "Tom Jobim",
-        "url": "https://open.spotify.com/album/10g32N6XzlGiOQ79DvYbJO"
-      },
-      "artists": [
-        {
-          "name": "Edley INC.",
-          "url": "https://open.spotify.com/artist/4ugyOypb7Cflv7D72t80UE"
-        }
-      ],
-      "duration_ms": 248839,
-      "name": "Tom Jobim",
-      "url": "https://open.spotify.com/track/6BRjl1Pkk7zBUMnRwdnGOz"
     },
     {
       "added_at": "2022-06-14 02:06:59",

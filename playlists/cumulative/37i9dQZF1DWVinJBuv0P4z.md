@@ -4,7 +4,7 @@
 
 > Happy tunes from the 50s, 60s & 70s.
 
-306 songs - 17 hr 14 min - [published](https://open.spotify.com/playlist/4WUUkJTjef9Cmttdbtlviv)
+307 songs - 17 hr 16 min - [published](https://open.spotify.com/playlist/4WUUkJTjef9Cmttdbtlviv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,7 +152,7 @@
 | [Jive Talkin' \- From "Saturday Night Fever" Soundtrack](https://open.spotify.com/track/4t0Pj3iBnSCZv5pDEPNmzG) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [Main Course](https://open.spotify.com/album/2blsPE3sO5SnroFjfEAlfj) | 3:42 | 2021-04-29 |  |
 | [Juke Box Jive](https://open.spotify.com/track/2jyXWrQQapcB0mRbKvcEyU) | [The Rubettes](https://open.spotify.com/artist/44ef9VXkdKxbx4XpoNqH39) | [The Best Of](https://open.spotify.com/album/3LsiyvsH7JH1EA4slItT8N) | 3:02 | 2021-04-29 | 2022-04-21 |
 | [Kissin' in the Back Row of the Movies](https://open.spotify.com/track/3XPX8bOozgShCrhWbLC0ZL) | [The Drifters](https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT) | [Legends](https://open.spotify.com/album/1imTGKx9Ak5kaPpZLC9DGg) | 3:31 | 2021-04-29 | 2022-07-17 |
-| [Knock On Wood](https://open.spotify.com/track/6120uJUyg6QDzaAJUosTx5) | [Amii Stewart](https://open.spotify.com/artist/7GPNaPWw3STF8NYp39pd8G) | [Greatest Hits](https://open.spotify.com/album/4GmEpUaXxyJ9YhO8pzIa2V) | 4:10 | 2021-04-29 |  |
+| [Knock On Wood](https://open.spotify.com/track/6120uJUyg6QDzaAJUosTx5) | [Amii Stewart](https://open.spotify.com/artist/7GPNaPWw3STF8NYp39pd8G) | [Greatest Hits](https://open.spotify.com/album/4GmEpUaXxyJ9YhO8pzIa2V) | 4:10 | 2021-04-29 | 2022-09-09 |
 | [Knock on Wood \- 7" Edit](https://open.spotify.com/track/7vMRj40Rw8PPgZiDcbyUdj) | [Amii Stewart](https://open.spotify.com/artist/7GPNaPWw3STF8NYp39pd8G) | [Knock On Wood: The Anthology](https://open.spotify.com/album/6brPlzSCD2ucBdhqmasvdf) | 3:47 | 2021-04-29 | 2022-04-20 |
 | [Knock Three Times](https://open.spotify.com/track/4Z0K8WzmzsPpX0Po6qMfEh) | [The Dawn](https://open.spotify.com/artist/5z348neb55aaKyQhVgqEvS) | [Knock Three Times](https://open.spotify.com/album/3ZOLIQrSyuIcrek9YB7zys) | 3:00 | 2021-04-29 | 2022-07-29 |
 | [Kung Fu Fighting](https://open.spotify.com/track/40NRm1ZLvZpUSCUXAGGZ8J) | [Carl Douglas](https://open.spotify.com/artist/5Pqx4mXYDGIDcg8E5FYjZ8) | [The Soul of the Kung Fu Fighter](https://open.spotify.com/album/7wA3s9ug9RoJXi9qGQbSjX) | 3:17 | 2021-04-29 |  |
@@ -191,6 +191,7 @@
 | [Mr\. Sandman](https://open.spotify.com/track/5NPYwuDtfb3xrTAjCrgWqF) | [The Chordettes](https://open.spotify.com/artist/62GnBjssWSXBlKvQohT2Bk) | [They're Riding High, Says Archie](https://open.spotify.com/album/7wunFoY9fhKiMdnepIXyLW) | 2:23 | 2021-04-29 | 2022-04-19 |
 | [Mrs\. Robinson \- From "The Graduate" Soundtrack](https://open.spotify.com/track/0iOZM63lendWRTTeKhZBSC) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Bookends](https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2) | 4:04 | 2021-04-29 |  |
 | [Ms\. Grace](https://open.spotify.com/track/1LPCESFhMbgMaQjRG5dm9P) | [The Tymes](https://open.spotify.com/artist/0a1BmEq1mZ5ufKMC2fsziR) | [Trustmaker](https://open.spotify.com/album/063A4uu6dGL4cGspFnklJv) | 3:26 | 2021-04-29 | 2022-07-29 |
+| [My Boy Lollipop](https://open.spotify.com/track/5IM6psLoDLytszopZz9ZOm) | [Millie Small](https://open.spotify.com/artist/0h3n6BqxvmRhWwNcdw4CWT) | [My Boy Lollipop: The Best Of Millie Small](https://open.spotify.com/album/18Qjvcq1V56GELsTi4fIdS) | 2:00 | 2022-05-11 |  |
 | [My Boy Lollipop](https://open.spotify.com/track/4Tsx5uLCyJphR0oAzbFS9D) | [Millie Small](https://open.spotify.com/artist/0h3n6BqxvmRhWwNcdw4CWT) | [Trojan Presents: Mod Ska](https://open.spotify.com/album/1yHoapFf9ehxEkQOUdoFOq) | 2:02 | 2021-04-29 | 2022-07-29 |
 | [My Girl](https://open.spotify.com/track/6jWkZvd1URGktyTTwcpPpB) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [The Temptations Sing Smokey](https://open.spotify.com/album/7C4vMPQR8KcbZv4e2ZI0lc) | 2:45 | 2021-04-29 | 2022-01-19 |
 | [My Girl](https://open.spotify.com/track/745H5CctFr12Mo7cqa1BMH) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [The Temptations Sing Smokey](https://open.spotify.com/album/45tweuKI0zdh8zgKo05cTw) | 2:45 | 2021-04-29 |  |

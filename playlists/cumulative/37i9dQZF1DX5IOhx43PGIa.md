@@ -4,7 +4,7 @@
 
 > Illuminating Asian artists everywhere\. Cover: NIKI.
 
-272 songs - 14 hr 15 min - [published](https://open.spotify.com/playlist/5NyuBYmYOJuxQT3ZVKo7pG)
+273 songs - 14 hr 17 min - [published](https://open.spotify.com/playlist/5NyuBYmYOJuxQT3ZVKo7pG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Could I Be Somebody](https://open.spotify.com/track/6TvlnHlc0fTKhPso76QXH3) | [rei brown](https://open.spotify.com/artist/4N7IToHBlPXqlrXiv1Nij6) | [Could I Be Somebody](https://open.spotify.com/album/3BER8UXEGBHmP9RFXKsugn) | 3:51 | 2022-05-27 |  |
 | [CTM \(The Conversation\)](https://open.spotify.com/track/4VWQSKCPDyyr5YEFWc2m5Z) | [Hotel Garuda](https://open.spotify.com/artist/73tITL3u5T35u309PLpN6K) | [CTM \(The Conversation\)](https://open.spotify.com/album/03bYP4Du4i6U2ZiJ3QKhF0) | 4:15 | 2022-08-19 |  |
 | [David](https://open.spotify.com/track/6NmPTgi8MsQL38JslZJEqV) | [NoSo](https://open.spotify.com/artist/09Wl9YiRr5l1rChWktQD4o) | [David](https://open.spotify.com/album/6nKphWfsj3KEOJo6wkjPb5) | 3:17 | 2022-06-03 | 2022-07-01 |
+| [Day Like This](https://open.spotify.com/track/2QZ0YOuXUtfLY3cilsD3qu) | [kristina alcordo](https://open.spotify.com/artist/3y6KP6ZPC8SskJTCNAkFNs) | [Day Like This](https://open.spotify.com/album/6XXha8DIiLzRXNIxFFLpV8) | 2:28 | 2022-08-19 |  |
 | [Daylight](https://open.spotify.com/track/4uiv2t9iLd5nSdtB7GS7dN) | [Hairuo](https://open.spotify.com/artist/6Fvx2mF6BxSJy4IzISzZOI) | [Daylight](https://open.spotify.com/album/6vsNYqMvrHtdr9Eb7AxPfE) | 4:14 | 2022-05-27 | 2022-07-29 |
 | [deja vu](https://open.spotify.com/track/6HU7h9RYOaPRFeh0R3UeAr) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 3:35 | 2022-07-22 |  |
 | [deja vu](https://open.spotify.com/track/61KpQadow081I2AsbeLcsb) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [deja vu](https://open.spotify.com/album/3lwHyR4joA1xB7Nun21EP6) | 3:35 | 2022-05-27 | 2022-07-29 |
@@ -126,7 +127,7 @@
 | [i like red](https://open.spotify.com/track/3GQ4GdXU8wBbPqBcKDTJ65) | [Charlene Su](https://open.spotify.com/artist/5Ltw2zQx9zqzyXfsQkkFBD) | [i like red](https://open.spotify.com/album/2DYmZa0uuVkUGdwqjNTJNj) | 2:02 | 2022-05-27 |  |
 | [i'm having a hard time being myself](https://open.spotify.com/track/0SWaiAaopRPU4waN2GO9lZ) | [Jae Luna](https://open.spotify.com/artist/0z1uYQ5NabhwzkRMHfUipU) | [i'm having a hard time being myself](https://open.spotify.com/album/3NdGDRYfBGATp0dKub8B09) | 2:56 | 2022-05-27 |  |
 | [If You Leave Me Alone](https://open.spotify.com/track/4BJV20iCiOS0GAETnb94HI) | [Bones & The Boy](https://open.spotify.com/artist/0AF2gJIJJdCVC4nNRcYI9B), [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS), [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN), [Yung Lee Records](https://open.spotify.com/artist/4GozvPZO3g0cI5I2TEDovw) | [Bones & The Boy](https://open.spotify.com/album/3iOJeQg8mGnbKmOlsZtUlT) | 2:31 | 2022-06-24 |  |
-| [in june](https://open.spotify.com/track/5O1MXjdNcwY4S1nRnfr3x5) | [JAE KIM](https://open.spotify.com/artist/5C45ZKoMfO62Rxmva0GtPN) | [in june](https://open.spotify.com/album/7luewqzvLdxzYrJWiwSafI) | 3:09 | 2022-05-27 |  |
+| [in june](https://open.spotify.com/track/5O1MXjdNcwY4S1nRnfr3x5) | [JAE KIM](https://open.spotify.com/artist/5C45ZKoMfO62Rxmva0GtPN) | [in june](https://open.spotify.com/album/7luewqzvLdxzYrJWiwSafI) | 3:09 | 2022-05-27 | 2022-09-09 |
 | [in my bag](https://open.spotify.com/track/4UnymQeKF93XdkOWWJR46F) | [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [in my bag](https://open.spotify.com/album/36KqwZRPs3fyGvgcpUMGeq) | 2:24 | 2022-05-27 | 2022-07-29 |
 | [In The Dark \(with Jhené Aiko\)](https://open.spotify.com/track/0zaoWwS8RpE3LSDdmkg8TC) | [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Shang\-Chi and The Legend of The Ten Rings: The Album](https://open.spotify.com/album/2kAqjStKcwlDD59H0llhGC) | 2:41 | 2022-07-22 |  |
 | [In The Dark \(with Jhené Aiko\)](https://open.spotify.com/track/4ZB2yAZyPHI6SHdFPPT9sa) | [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [In The Dark \(with Jhené Aiko\)](https://open.spotify.com/album/4hY1TaqQxOL2aBAWvAI111) | 2:41 | 2022-05-27 | 2022-07-29 |

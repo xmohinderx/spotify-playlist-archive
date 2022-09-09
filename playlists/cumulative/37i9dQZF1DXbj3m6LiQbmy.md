@@ -4,7 +4,7 @@
 
 > Orgoglio! David Blank, Andrea Di Giovanni in cover ✨
 
-223 songs - 13 hr 36 min - [published](https://open.spotify.com/playlist/4rwUfZJKHXiQQuTAaFt3nw)
+224 songs - 13 hr 38 min - [published](https://open.spotify.com/playlist/4rwUfZJKHXiQQuTAaFt3nw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Clap Your Hands](https://open.spotify.com/track/7g7OshelYRRnOSEMmisJVI) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d) | [Clap Your Hands](https://open.spotify.com/album/2Uxn2xBab5Sjo3gnfuir7q) | 3:09 | 2022-06-12 | 2022-06-27 |
 | [Classic](https://open.spotify.com/track/1UdcmVABuyQ4ZHiXpzoUZt) | [Oberdan](https://open.spotify.com/artist/4w5pfoZRqRiaPZkqkyYwVw) | [Classic](https://open.spotify.com/album/4FDY8KTqhxoSZ3b3zXfTuv) | 3:30 | 2022-07-04 | 2022-07-28 |
 | [Cloud 9](https://open.spotify.com/track/7s7ZfCgFo4j27xix023Vna) | [The Illustrious Blacks](https://open.spotify.com/artist/1ZZthpcsHPWbkTUw7HNTu1) | [Cloud 9](https://open.spotify.com/album/2RD5x06s2OZhPzNyvOMUyS) | 5:46 | 2022-06-26 | 2022-07-24 |
+| [COL FASCIO NON SI SCOPA](https://open.spotify.com/track/2hsFWVIe90ZalnWeMJKbwl) | [ASOKO](https://open.spotify.com/artist/2KOljewrNvd3LCI2NaMj4Y) | [ASOKO, Vol\. 2](https://open.spotify.com/album/3uIS4STA53QzTuetrTr4xJ) | 1:51 | 2022-09-08 |  |
 | [Come](https://open.spotify.com/track/7dQFTBVhEyJVfR60c8pt02) | [Claudym](https://open.spotify.com/artist/7pNCSsicJGpwrn2wwGD91g) | [Come](https://open.spotify.com/album/0TIFKEEBEyVDZGNcmxz40r) | 3:16 | 2022-06-12 | 2022-06-27 |
 | [Come Un'Onda](https://open.spotify.com/track/5DRioRINUWR7CEyDTdMMzA) | [Lucia Manca](https://open.spotify.com/artist/5DHfordpyNL7yXbVTLeed4) | [Attese, Vol\. 1](https://open.spotify.com/album/23TbNyO3bg0dPDUJaOmxRU) | 2:53 | 2022-06-26 | 2022-07-28 |
 | [Comet](https://open.spotify.com/track/2706bJ1IBduQztEVAMKOST) | [L I M](https://open.spotify.com/artist/6TGrYfNonLf6yO3RGiM4EF) | [Comet](https://open.spotify.com/album/0KXgKVlIfLxHni3HT4iqQr) | 4:21 | 2021-11-19 |  |
@@ -188,7 +189,7 @@
 | [SIAMO RAGAZZU](https://open.spotify.com/track/7FluC0cEpmpyWEAlXMbrCT) | [fantahouse](https://open.spotify.com/artist/4KpMCwaKuRFMJ9wtf9gujd) | [SIAMO RAGAZZU](https://open.spotify.com/album/0SM2IfzvxEGCQGqq8ort9o) | 1:34 | 2022-01-31 |  |
 | [Slumber Party \(feat\. Princess Nokia\)](https://open.spotify.com/track/11ZulcYY4lowvcQm4oe3VJ) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP), [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [DEMIDEVIL](https://open.spotify.com/album/438ToDoVaJH5aTIXXrlDyI) | 2:58 | 2022-06-12 | 2022-06-27 |
 | [Somebody to Hold](https://open.spotify.com/track/2Tg8bdcdK587ua5UHdUjlo) | [Blinded Hearts](https://open.spotify.com/artist/5uiEF5htEqJgHcOajZ25ns), [Felix Samuel](https://open.spotify.com/artist/2FMdAViOScZVhMjAunoYNK) | [Somebody to Hold](https://open.spotify.com/album/1rxYR6NPzIYwo6tPmmQhjI) | 2:00 | 2022-06-12 | 2022-06-27 |
-| [SOTTOPELLE](https://open.spotify.com/track/4I6tfF0z09uVOVXy9fS9e4) | [ELASI](https://open.spotify.com/artist/3C8AlXFIhzxJ4BCKxNQJJ6) | [SOTTOPELLE](https://open.spotify.com/album/0HT35YNuCxYKIIxXyhtJsJ) | 3:02 | 2022-06-26 |  |
+| [SOTTOPELLE](https://open.spotify.com/track/4I6tfF0z09uVOVXy9fS9e4) | [ELASI](https://open.spotify.com/artist/3C8AlXFIhzxJ4BCKxNQJJ6) | [SOTTOPELLE](https://open.spotify.com/album/0HT35YNuCxYKIIxXyhtJsJ) | 3:02 | 2022-06-26 | 2022-09-09 |
 | [Star Wh\*res Runway](https://open.spotify.com/track/5irByxVBTOngIlgk0FPhwA) | [DJ Lil' Jean](https://open.spotify.com/artist/5M5a14CQjm5XWYdkzMgcIv) | [Star Wh\*res Runway](https://open.spotify.com/album/5kiAqGNI8GYfpXOuQPkOMg) | 4:09 | 2021-11-19 | 2022-07-23 |
 | [Start Something New](https://open.spotify.com/track/2kE9KFOqwGwJob7HmWORsw) | [ROLLOVER DJS](https://open.spotify.com/artist/22XVOdZpIHdrMdyPnGAquF), [Nic Cester](https://open.spotify.com/artist/43e7l1zzucI3mcM69nNpYP) | [Just a Little Bit in My Pocket](https://open.spotify.com/album/4YD2NzWYCATt0YUeIMifbl) | 5:38 | 2022-04-01 | 2022-07-26 |
 | [Story Untold](https://open.spotify.com/track/5aJZ16FOs90XwNH6afrchJ) | [Novaa](https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm), [LIE NING](https://open.spotify.com/artist/1X6lOLyGCw9kfdChwHIbVs) | [Story Untold](https://open.spotify.com/album/1808b4WNaWNtQ2MA6d2r68) | 3:12 | 2022-06-26 |  |

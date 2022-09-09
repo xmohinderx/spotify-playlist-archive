@@ -4,7 +4,7 @@
 
 > Start your day with these beautiful scores.
 
-82 songs - 3 hr 44 min - [published](https://open.spotify.com/playlist/77k28aHRsXOHJFjfmZMjS8)
+84 songs - 3 hr 49 min - [published](https://open.spotify.com/playlist/77k28aHRsXOHJFjfmZMjS8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Just Before Morning](https://open.spotify.com/track/1GPB6ZrLXvrkJAAGIRifA8) | [JNUARY](https://open.spotify.com/artist/66A9oG2ybGddl9xwDibKak) | [Just Before Morning](https://open.spotify.com/album/1MQ7w7BpVcXvKXby233Wd1) | 1:36 | 2022-06-10 |  |
 | [Kalapas](https://open.spotify.com/track/5fWDUCwrMxj7xUAJT5uq6s) | [Harlan Silverman](https://open.spotify.com/artist/6RR7uINKmGclSu0zHBC7mU) | [Kalapas](https://open.spotify.com/album/6p1IOmTKWUdeG5RRSFpVeJ) | 2:45 | 2022-06-10 |  |
 | [Landsort](https://open.spotify.com/track/0VrOdgTIh68gW8p9WkXSPY) | [Olivia Meyer](https://open.spotify.com/artist/473vc3cGQmpGSHrcyvePWE) | [Fantasia](https://open.spotify.com/album/5h0R2d0rhCu6V46L91UBN4) | 2:19 | 2022-06-10 |  |
+| [Largo from Xerxes](https://open.spotify.com/track/3dSA0ZoHzvXxvticgIz5MJ) | [George Frideric Handel](https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2), [Artwinder Modern Quartet](https://open.spotify.com/artist/2ipPNWfa4u0WTh99vGxpQ6) | [Quartet Classics Series: Largo from Xerxes](https://open.spotify.com/album/3REN8n3aARNwmHx9YcGjvQ) | 3:06 | 2022-09-09 |  |
 | [Largo Pt\. 1](https://open.spotify.com/track/0TYzilqgE6aJkXXYWkAmqf) | [Quartetscapes](https://open.spotify.com/artist/4ex219IMguvJ2NGwzifYCU) | [Largo Pt\. 1](https://open.spotify.com/album/7aWhUZMBuGrg5NmFE89WO5) | 2:14 | 2022-06-10 |  |
 | [Lineage](https://open.spotify.com/track/1bzUzKsHpaE0AmY6ZqgqjI) | [Landon B\. Fulton](https://open.spotify.com/artist/3Ws9UM6jSF5riJ8nL4Brnk) | [Lineage](https://open.spotify.com/album/4QRGEWqfq4EOTAS1R55tHh) | 2:06 | 2022-06-10 |  |
 | [Look to the Stars](https://open.spotify.com/track/6gEpi8OJ4bB7ukrJLGpmHf) | [Johannes Bornlöf](https://open.spotify.com/artist/1yLIaxyVkZnLMXhfRSYEjV) | [Dancing in the Rain](https://open.spotify.com/album/3RANLwqogQqjy2xGFZC7ip) | 2:49 | 2022-06-10 |  |
@@ -78,6 +79,7 @@
 | [Sunrise](https://open.spotify.com/track/0nsDRLBkStw53EuYXbibO4) | [HILMA](https://open.spotify.com/artist/5cfA35ok9YlWE032xcI423) | [Polaris](https://open.spotify.com/album/4zRFfOm7i3DhHqmW0rIIru) | 2:56 | 2022-06-10 |  |
 | [Supposing](https://open.spotify.com/track/08nQNQ3joVf8kyjuZ9rEVv) | [Infinity Ripple](https://open.spotify.com/artist/43BCjiV6q327zly4HaH8QL) | [Wax Figures](https://open.spotify.com/album/21jfPwKTFCZsmRpn23hdMD) | 3:07 | 2022-07-29 |  |
 | [Supposing](https://open.spotify.com/track/7vCNVMDqzV2tsdZi5Rodi6) | [Infinity Ripple](https://open.spotify.com/artist/43BCjiV6q327zly4HaH8QL) | [Wax Figures](https://open.spotify.com/album/34Xfn5YawRW1BmaVzgrtFt) | 3:07 | 2022-06-10 | 2022-07-29 |
+| [The Dawning](https://open.spotify.com/track/0k963HCwT2H2SLhdA8CWve) | [Christoffer Moe Ditlevsen](https://open.spotify.com/artist/1byqtZiN0rWjNg7kXy5j3S), [Anna Dager](https://open.spotify.com/artist/2So39o3NqsjLtwwohABw5B), [Hanna Ekström](https://open.spotify.com/artist/5oKBGEzl76HnP3fS2cU366) | [The Dawning](https://open.spotify.com/album/2dukrzOf2iXJpRDSJqZRWH) | 2:47 | 2022-09-09 |  |
 | [The Mountain Disconnect](https://open.spotify.com/track/0KBIN2eno2koWYL4Flsf7S) | [Trevor Kowalski](https://open.spotify.com/artist/4vPiZNfnHqzN52FOn38BEv) | [The Mountain Disconnect](https://open.spotify.com/album/7hEd3BEoTsDTFgBFPnBLDR) | 3:06 | 2022-06-10 |  |
 | [The Saga](https://open.spotify.com/track/08ar8UUeKtraKthaGfEAVs) | [Rick Mays Orchestra](https://open.spotify.com/artist/6M8CwqhafAjTE6iqSPXazJ) | [The Saga](https://open.spotify.com/album/1m1Zh5Fy3fkbiXcYzc7H2l) | 1:49 | 2022-06-10 |  |
 | [The Streets of Belgrade](https://open.spotify.com/track/4cNtJQaOgmjlBSChAlrsBT) | [Infinity Ripple](https://open.spotify.com/artist/43BCjiV6q327zly4HaH8QL) | [Wax Figures](https://open.spotify.com/album/34Xfn5YawRW1BmaVzgrtFt) | 2:21 | 2022-06-10 | 2022-07-29 |

@@ -4,7 +4,7 @@
 
 > Electronic music with Mediterranean and Eastern influences.
 
-204 songs - 15 hr 2 min - [published](https://open.spotify.com/playlist/0PbRB1Ywucxq2SMOhx6qAp)
+205 songs - 15 hr 7 min - [published](https://open.spotify.com/playlist/0PbRB1Ywucxq2SMOhx6qAp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Arabian Soul](https://open.spotify.com/track/4Mmaa0o0jcxDW2HaJK2iS4) | [DJ Oscar Sharm](https://open.spotify.com/artist/5A1daDDPvGd67LVKCYXCXJ) | [Arabian Soul](https://open.spotify.com/album/3UZabin8ielzRfA8A7UZx9) | 5:12 | 2020-10-18\* |  |
 | [August Diaries](https://open.spotify.com/track/6K6etxmlu4Y7J3dR77MK3N) | [DHARIA](https://open.spotify.com/artist/1psakk7GVUl85AnTEvwtk2) | [August Diaries](https://open.spotify.com/album/2qEWSsJCgemvb6SQAjqzXH) | 3:43 | 2020-12-13 | 2021-05-28 |
 | [Babel](https://open.spotify.com/track/0ZnwzjB40zdTZrEwPvaRqG) | [Otnicka](https://open.spotify.com/artist/3tSmEw5WMGAZ6sxt9Dt3Nt) | [Babel](https://open.spotify.com/album/2QHtq53qPyOo0fawuJcMns) | 3:18 | 2020-12-21 |  |
-| [Bahja](https://open.spotify.com/track/4LZP8fuic1mSQpLGruxxcr) | [Tyrvnt](https://open.spotify.com/artist/00OZzRaVY62IxZ2kNtCz2J) | [Bahja](https://open.spotify.com/album/5YfzAebZkmbl3DOrUjshDd) | 4:17 | 2022-03-13 |  |
+| [Bahja](https://open.spotify.com/track/4LZP8fuic1mSQpLGruxxcr) | [Tyrvnt](https://open.spotify.com/artist/00OZzRaVY62IxZ2kNtCz2J) | [Bahja](https://open.spotify.com/album/5YfzAebZkmbl3DOrUjshDd) | 4:17 | 2022-03-13 | 2022-09-09 |
 | [Be Mine](https://open.spotify.com/track/28RzIrtkutKpSVm6SrjRLt) | [Faylasuf](https://open.spotify.com/artist/62pD2B6fmRXxLqZYAyvK74) | [Be Mine](https://open.spotify.com/album/7jck7DC8ZctWNSGVSK0TVe) | 3:30 | 2022-06-27 |  |
 | [Beirut](https://open.spotify.com/track/6eFZWWLSszx4wgmlZmRGA7) | [Nick Saley](https://open.spotify.com/artist/0ongbiSDrQIMLe8ubdYgez), [Dj Pantelis](https://open.spotify.com/artist/7nuSTNTAcDVJULc1be6vAZ) | [Beirut](https://open.spotify.com/album/38Um3NfzOkBjaZcb7KYEDh) | 5:34 | 2021-10-22 |  |
 | [Beirut](https://open.spotify.com/track/0XnojCdBGCLuoeOTZUfaM7) | [Rodge](https://open.spotify.com/artist/3F9PS1VPIjbbkQyYZCZDDG), [Nina Abdel Malak](https://open.spotify.com/artist/4XfkQ6qBTSdds4GqBAlt0E) | [Beirut](https://open.spotify.com/album/61uVxj8RLLQfkF584hWAqb) | 4:20 | 2022-06-27 |  |
@@ -129,6 +129,7 @@
 | [Mosaic \- Yohan & David Remix](https://open.spotify.com/track/6hVVL28igjw28VRFzB4HLK) | [Billy Esteban](https://open.spotify.com/artist/0nyKVqkATGrYXA98ieTJr0), [Ghenwa Nemnom](https://open.spotify.com/artist/4SUWLWGcllGbkcLN5DKulp), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v), [Yohan & David](https://open.spotify.com/artist/2qeOIsxc6nlKxjjAHVJvik) | [Mosaic](https://open.spotify.com/album/0VvFnzjhJdWsi5GhSd1gye) | 7:32 | 2022-05-04 |  |
 | [Mosaïque](https://open.spotify.com/track/3bbqxT5UGZsvTy1r3txs0t) | [Ash](https://open.spotify.com/artist/4nkuNzBcYGlNmAqFWbHLqS) | [Mosaïque](https://open.spotify.com/album/0CyW2YVJhur4mWOSSSUFU6) | 3:41 | 2022-06-27 |  |
 | [Mosaïque](https://open.spotify.com/track/175YJCAiO0KSP05eI9XINZ) | [Ash](https://open.spotify.com/artist/4nkuNzBcYGlNmAqFWbHLqS) | [Mosaïque](https://open.spotify.com/album/4K9y6tfn2SgAwqcy7bf2wb) | 3:41 | 2020-10-18\* | 2022-07-29 |
+| [Moulayiten](https://open.spotify.com/track/4rPNmktCst6tR92stbrrBR) | [Obeidmusic](https://open.spotify.com/artist/3kW6Vte9jUSL600uy9qsks), [Ahmad Sleiman](https://open.spotify.com/artist/2apfH39lJSec2ItcHaIvzr) | [Moulayiten](https://open.spotify.com/album/38Y1doCUrlX33QLXMkBtCa) | 4:57 | 2022-08-22 |  |
 | [Moultan](https://open.spotify.com/track/2V4giP3TtCaxCdjvJTfj2E) | [The Soul Brothers](https://open.spotify.com/artist/4qyyx2In3fnMlPjQBfppNn) | [Solstice Sessions](https://open.spotify.com/album/5YGsgeAWN6BoU7qyN1rMDI) | 7:14 | 2022-06-27 |  |
 | [Moultan \- Original Mix](https://open.spotify.com/track/1iwcs9HYCGkineRo2ya52m) | [The Soul Brothers](https://open.spotify.com/artist/4qyyx2In3fnMlPjQBfppNn) | [Buddha\-Bar & The Soul Brothers: Solstice Sessions](https://open.spotify.com/album/1krKGZgC2zL5cGmMzgYigK) | 7:14 | 2020-10-18\* | 2022-07-29 |
 | [Move On](https://open.spotify.com/track/5jYntKRDo21t5sEQHx8OM2) | [Deeperise](https://open.spotify.com/artist/0ZRQKFaYGEtbLc8NbyICoe), [Jabbar](https://open.spotify.com/artist/7JrZbwBSIfKcc2gn1Xa4Bd) | [Move On](https://open.spotify.com/album/4GngckWbcK6cWopdBoWLdg) | 4:07 | 2022-05-19 |  |

@@ -4,7 +4,7 @@
 
 > Keep calm and enjoy this musical cafecito.
 
-284 songs - 16 hr 26 min - [published](https://open.spotify.com/playlist/1pJKLpr1AvZE73wFaOC9eU)
+285 songs - 16 hr 30 min - [published](https://open.spotify.com/playlist/1pJKLpr1AvZE73wFaOC9eU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,7 +180,7 @@
 | [No Me Gustan los Grises](https://open.spotify.com/track/3csSDv4S9IzB7FetDpBn66) | [Mery Granados](https://open.spotify.com/artist/0aJgv15DVDKvr0yWb5BzP1) | [No Me Gustan los Grises](https://open.spotify.com/album/2JzCk4SJDCnYXlP5RT6v4x) | 3:37 | 2022-05-14 |  |
 | [No Me Gustan los Grises](https://open.spotify.com/track/7nwDOqPRUqHqlIwXpgRIIx) | [Mery Granados](https://open.spotify.com/artist/0aJgv15DVDKvr0yWb5BzP1) | [No Me Gustan los Grises](https://open.spotify.com/album/7e8XZwMNbPJCjf8EOcOXPE) | 3:37 | 2021-12-09 | 2022-07-14 |
 | [No Se Rompe](https://open.spotify.com/track/1BnkVwpoGjpeg8UBnir7bL) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [No Se Rompe](https://open.spotify.com/album/2IGysy3C2YRgPbN4VKQs1e) | 4:09 | 2021-12-09 | 2022-07-29 |
-| [No Se Rompe](https://open.spotify.com/track/4IneEfd293hMaAr3z7ywU1) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [TANDA](https://open.spotify.com/album/3rXHuciMB3Govs5HUqzCEq) | 4:09 | 2022-05-14 |  |
+| [No Se Rompe](https://open.spotify.com/track/4IneEfd293hMaAr3z7ywU1) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [TANDA](https://open.spotify.com/album/3rXHuciMB3Govs5HUqzCEq) | 4:09 | 2022-05-14 | 2022-09-09 |
 | [No Sé Decirte No](https://open.spotify.com/track/7ukRl9q1yVYO2j5SXwvjaB) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [Estas Canciones Me Recuerdan a Ti](https://open.spotify.com/album/79iOQFpvUfcxDUMhBRZYRM) | 3:54 | 2021-12-09 |  |
 | [No Te Culpo](https://open.spotify.com/track/4VRTsI1hON7hSTSzDN3lAO) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [No Te Culpo](https://open.spotify.com/album/4aqRo9Hj7bKZWHcUBELK3C) | 4:16 | 2021-12-09 | 2022-07-29 |
 | [No Te Voy a Ver](https://open.spotify.com/track/2ZW0ePHHbbFQp1mTL7d68Z) | [Claire Delić](https://open.spotify.com/artist/2vzkENRB95QBQXO01HwyIY) | [No Te Voy a Ver](https://open.spotify.com/album/2rJ63ANIeYtgVa6nOpPWSL) | 3:37 | 2021-12-09 | 2022-07-29 |
@@ -279,6 +279,7 @@
 | [Vas a encontrarte \(feat\. Guitarricadelafuente\) \- Acústica](https://open.spotify.com/track/0fs0rrKpjNipulHV1CtL57) | [Muerdo](https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq), [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [Vas a encontrarte \(feat\. Guitarricadelafuente\)](https://open.spotify.com/album/2tj9cT4X2ZZcOevz6limO7) | 3:31 | 2021-12-09 |  |
 | [Ven Conmigo Guajira](https://open.spotify.com/track/66VTiE4pXusxVaYnkI9R74) | [Ibrahim Ferrer](https://open.spotify.com/artist/5dss7E1Ph0KxuF1ULfAx4D) | [Ven Conmigo Guajira](https://open.spotify.com/album/3TBJryGAHYojSZKJ1boSKX) | 4:45 | 2021-12-09 | 2022-07-29 |
 | [Veracruz](https://open.spotify.com/track/5BtCjOEPnTt3m1PbCRxQhd) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Veracruz](https://open.spotify.com/album/6zQMFodbAoC1JJOtx2Q0av) | 4:03 | 2021-12-09 | 2022-09-04 |
+| [Veracruz](https://open.spotify.com/track/6QlEtyGqmX4dXASVeEEEDH) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Un Canto por México, Vol\. 1](https://open.spotify.com/album/6yDcHjoEqNkkl9UC6KSlFE) | 4:03 | 2022-09-08 |  |
 | [Vernos Crecer](https://open.spotify.com/track/5c6LLhzVwoLCbb0HqYlsX7) | [Andrea Cruz](https://open.spotify.com/artist/1CPyRfIuFga1dwN1PmQNn6) | [Vernos Crecer](https://open.spotify.com/album/7MwSQE8GJj5snfBoZf6vLY) | 2:55 | 2021-12-09 | 2022-07-28 |
 | [Viejos Amores](https://open.spotify.com/track/2ZNchdc0bWU2BB8HMu1661) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [Caja De Música \(Edición Especial\)](https://open.spotify.com/album/0c3JGBp60aExJSYIQ0Hbej) | 2:50 | 2022-04-07 | 2022-04-21 |
 | [Viejos Amores](https://open.spotify.com/track/2pyvcQecZGRnQoUczTxkwH) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [Caja de Música](https://open.spotify.com/album/4XSLqHHDwqAnjwoMTtx7jC) | 2:50 | 2022-05-14 |  |

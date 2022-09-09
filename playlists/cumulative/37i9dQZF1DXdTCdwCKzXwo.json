@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-03-19",
-  "description": "Early pioneers that brought the underground to the foreground. Cover: Depeche Mode ",
+  "description": "Early pioneers that brought the underground to the foreground. Cover: Nico",
   "name": "Early Alternative",
   "published_playlist_ids": [
     "1biJVwGgudNJMTh4YCWUBg"
@@ -926,6 +926,28 @@
     },
     {
       "album": {
+        "name": "The Velvet Underground & Nico 45th Anniversary",
+        "url": "https://open.spotify.com/album/4xwx0x7k6c5VuThz5qVqmV"
+      },
+      "artists": [
+        {
+          "name": "The Velvet Underground",
+          "url": "https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC"
+        },
+        {
+          "name": "Nico",
+          "url": "https://open.spotify.com/artist/0IwlY33zbBXN7zlS9DP2Cj"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "Femme Fatale",
+      "url": "https://open.spotify.com/track/3PG7BAJG9WkmNOJOlc4uAo"
+    },
+    {
+      "album": {
         "name": "Exile In Guyville",
         "url": "https://open.spotify.com/album/5x0AM9gvJVchXJo7EYuGxb"
       },
@@ -1809,7 +1831,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 353666,
       "name": "Never Say Never",
       "url": "https://open.spotify.com/track/02RkunUrCBLE5J6jY56QH3"
@@ -2353,7 +2375,7 @@
       ],
       "date_added": "2018-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 227413,
       "name": "Strangelove - Single Version",
       "url": "https://open.spotify.com/track/6MHOg9xiYC2gj8zcASaLUo"
@@ -2591,6 +2613,24 @@
       "duration_ms": 244586,
       "name": "There Is a Light That Never Goes Out - 2011 Remaster",
       "url": "https://open.spotify.com/track/0WQiDwKJclirSYG9v5tayI"
+    },
+    {
+      "album": {
+        "name": "Chelsea Girl",
+        "url": "https://open.spotify.com/album/6O62Cqi0YqOytEbFmeLyjU"
+      },
+      "artists": [
+        {
+          "name": "Nico",
+          "url": "https://open.spotify.com/artist/0IwlY33zbBXN7zlS9DP2Cj"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210653,
+      "name": "These Days",
+      "url": "https://open.spotify.com/track/3uCkIqD0VzQUijbs8WIizs"
     },
     {
       "album": {

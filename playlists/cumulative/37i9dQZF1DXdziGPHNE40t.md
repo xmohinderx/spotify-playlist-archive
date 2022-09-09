@@ -2,7 +2,7 @@
 
 ### [Jazzy Morning](https://open.spotify.com/playlist/37i9dQZF1DXdziGPHNE40t)
 
-> Start your day with calm and cool jazz.
+> Start your day right and wake up with some calm and cool Jazz.
 
 155 songs - 9 hr 52 min - [published](https://open.spotify.com/playlist/39dwJkALAgqseR1XSFerIE)
 

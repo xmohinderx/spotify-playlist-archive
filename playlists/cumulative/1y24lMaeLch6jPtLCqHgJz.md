@@ -4,7 +4,7 @@
 
 > Progressive House Club Anthems\. IF YOU LOVE FESTIVAL MUSIC, THIS IS YOUR PLAYLIST! Check the biggest anthems of Progressive House for 2022 with the most energetic and emotional music updated every week.
 
-86 songs - 4 hr 35 min - [published](https://open.spotify.com/playlist/1Hvu2MIsN55fb0PgQQ9jgu)
+87 songs - 4 hr 38 min - [published](https://open.spotify.com/playlist/1Hvu2MIsN55fb0PgQQ9jgu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Somebody](https://open.spotify.com/track/56lqBFydYxfo2VsofjbrgS) | [Patrick Moreno](https://open.spotify.com/artist/1cgYwI8wy6MB26Mgtr4Ubx), [Aztec](https://open.spotify.com/artist/2FPaVCtzBtdYDcu1fA9Ik6), [Revealed Recordings](https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8) | [Somebody](https://open.spotify.com/album/64mpvbkr0wZARBBc45aeQG) | 2:48 | 2022-07-29 |  |
 | [Something Beautiful \- Super8 & Tab Remix](https://open.spotify.com/track/5NqgBDeqxRTaTttxfvTIqP) | [Tritonal](https://open.spotify.com/artist/521qvhdobR0GzhvU6TFw76), [Eric Lumiere](https://open.spotify.com/artist/4TSqSBlGY1wV5qhnX6vVwB), [Super8 & Tab](https://open.spotify.com/artist/3WGxBKuYawiVOmCwR8FIUC) | [Something Beautiful \(Remixes\)](https://open.spotify.com/album/1V8zDo1Lue1FIzwObrF3UK) | 2:43 | 2022-08-19 | 2022-08-27 |
 | [Starlight \(Keep Me Afloat\)](https://open.spotify.com/track/0qgTXonHDCfh8QdqbTclRM) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX), [Shaun Farrugia](https://open.spotify.com/artist/4ukUyiEoZi8QxibfjuUsEw) | [Sentio](https://open.spotify.com/album/4xPCqIczFFq8QuwLRbvmrG) | 3:22 | 2022-07-29 |  |
+| [Start Of Something](https://open.spotify.com/track/2NUGRLu02FXvUEqd59ZBuA) | [Futuristic Polar Bears](https://open.spotify.com/artist/47v4vGA1qCl7hyevSkpRM7), [Jarod Glawe](https://open.spotify.com/artist/6gzCf25nxnA68tQ3kJUEB4), [Jordan Grace](https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k) | [Start Of Something](https://open.spotify.com/album/3RhV1d1nqKSucVo9SGtSeI) | 3:04 | 2022-09-08 |  |
 | [Stay With You](https://open.spotify.com/track/5Vvp38zcvfJVGqnsaSgv3X) | [Never Sleeps](https://open.spotify.com/artist/7BUaQCq7sFUMJqkWPqApXE), [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX), [Manse](https://open.spotify.com/artist/2jGvmFH6YE352p9LKmuB0y), [Afrojack](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Stay With You](https://open.spotify.com/album/7mEELkdCH45bqGdq3oCY1C) | 3:28 | 2022-07-29 |  |
 | [Stockholm \- Sixth Sense Remix](https://open.spotify.com/track/4wtzoc7eVAEZa10XGnOFSM) | [Jeffrey Sutorius](https://open.spotify.com/artist/2XGg454n1pSdgoqrfcSDbq), [Sixth Sense](https://open.spotify.com/artist/1lxVdgguznSRDNVFl8c5up) | [\#aparttogether \(The Remixes Part 1\)](https://open.spotify.com/album/0OeB4MQV2JLoX7JlIdKwvG) | 3:17 | 2022-08-26 |  |
 | [Stolen Moments](https://open.spotify.com/track/6QYLbKqBAYsA6lXzwAfzLQ) | [Severman](https://open.spotify.com/artist/4kiGFkkVQVz9a8XIw8lX7u), [WildVibes](https://open.spotify.com/artist/6BEqzY6INFaHKQ2mqWWuNs), [Robbie Rosen](https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM) | [Stolen Moments](https://open.spotify.com/album/5ZZ1BPSf7ODvcdIsgQmBah) | 3:07 | 2022-07-29 |  |

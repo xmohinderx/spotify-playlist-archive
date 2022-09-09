@@ -4,7 +4,7 @@
 
 > The calming and pensive side of electric guitar\. Instrumental only.
 
-92 songs - 4 hr 44 min - [published](https://open.spotify.com/playlist/3oJlWxouvmQCoHhx3LLhbO)
+93 songs - 4 hr 46 min - [published](https://open.spotify.com/playlist/3oJlWxouvmQCoHhx3LLhbO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Flatiron](https://open.spotify.com/track/4a8njLGIK0meARLqzvysDn) | [Suzanne Kraft](https://open.spotify.com/artist/1FTn5osUbCr8n7WgYmbK5m) | [Talk from Home](https://open.spotify.com/album/1RMrV8gQc6f3csRiNoQwP6) | 7:00 | 2022-05-13 |  |
 | [Floral Hymn](https://open.spotify.com/track/2gCd69plASs1CIhfArHlPQ) | [Echo Ark](https://open.spotify.com/artist/3i21BFL67igZbgH8Pj0Xlz) | [Echo Ark](https://open.spotify.com/album/4PUBYJiKEdJKdMwqHSeilt) | 3:35 | 2022-05-13 |  |
 | [Forward Momentum](https://open.spotify.com/track/1CdiqrBad8rjxuriEcUGU7) | [Sobrante](https://open.spotify.com/artist/6EdMmAogESKj2fFzAGM8yE) | [Friends](https://open.spotify.com/album/7duzFBoBK7inOjkfa74spr) | 2:58 | 2022-05-13 |  |
+| [Going In Circles](https://open.spotify.com/track/6Fkjd2eFXuHC8tGGn2eLBo) | [Nebulae](https://open.spotify.com/artist/3UKaTOMvInYrOVb2SXiO9v) | [Going In Circles](https://open.spotify.com/album/6Brv2ew17Cu7gTBZho5P3Z) | 2:29 | 2022-09-09 |  |
 | [Hazy](https://open.spotify.com/track/687knmd9df9s6TRLzRVEOZ) | [Gina Wahler](https://open.spotify.com/artist/2qYWM0svFgRslCfVj36xcC) | [Hazy](https://open.spotify.com/album/45XVtdfgbmjIOEl3lLZhc2) | 3:04 | 2022-05-13 |  |
 | [Heavy Sun](https://open.spotify.com/track/3Qpwi2wStbfsZBmULlVFpS) | [Appletrove](https://open.spotify.com/artist/0FkbvhIhFy46IGyR4Ah1Pd) | [Sometimes I Wish](https://open.spotify.com/album/64swfOKUaHH7FCD7QdEBnW) | 2:49 | 2022-05-13 |  |
 | [Hidden Chambers](https://open.spotify.com/track/4iNlPrMJCvBjakWljscabH) | [Marlee Tuaine](https://open.spotify.com/artist/2qRSibliMCzMBIIUqMqaRB) | [Fragmented Thoughts](https://open.spotify.com/album/0aZWKOxr4JMCSIpVAmBR2T) | 2:49 | 2022-05-13 |  |

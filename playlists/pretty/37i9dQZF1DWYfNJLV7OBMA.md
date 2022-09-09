@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfNJLV7OBMA.md) - [plain]
 
 > Trending Sinhalese pop hits\. Cover \- Thilina Ruhunage
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,383 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,413 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfNJLV7OBMA.md) - [plain]
 | 24 | [Neela Warale](https://open.spotify.com/track/2VQJLZ7zdND1Wa42JiTWYv) | [Malith Hansaka](https://open.spotify.com/artist/1TqfDPJgwmJXdfnEJGEupT) | [Neela Warale](https://open.spotify.com/album/3wN7SqB00HRBcnvtmi6qTS) | 3:18 |
 | 25 | [Mithure \(with Chathuranga Shakthi & Madhavee Abayanayake\)](https://open.spotify.com/track/6tf5W3igpStLoEHOuPTYQE) | [Udana Dhananja Kodikara](https://open.spotify.com/artist/7ERe3tRyPHRV5H4r0KIWXt) | [Mithure \(with Chathuranga Shakthi & Madhavee Abayanayake\)](https://open.spotify.com/album/0TT8jE7NMreD9isuE7DNdR) | 5:56 |
 | 26 | [Hith Mandare](https://open.spotify.com/track/6281Q6Ui2XkHn2NLRaLDwE) | [Chamath Dissanayake](https://open.spotify.com/artist/28mJ24YpVRgOz6tTnXr5ro) | [Hith Mandare](https://open.spotify.com/album/1F09wJZnb2YDqRIr5warU2) | 3:15 |
-| 27 | [Shob Lokey Koy](https://open.spotify.com/track/4XQKICLxCikXtVZhK7nhY8) | [Kaniz Khandaker Mitu](https://open.spotify.com/artist/6vwOuQUfKY6YfVpKHDZimi), [Murshidabadi Project](https://open.spotify.com/artist/7HikYIX00z6eJdUn0lz1iR) | [Shob Lokey Koy](https://open.spotify.com/album/0KCW4bKM9YQ18bHvTsvNEH) | 6:38 |
+| 27 | [Shob Lokey Koy](https://open.spotify.com/track/3dCdxURIlQO4UiabWMgpvH) | [Kaniz Khandaker Mitu](https://open.spotify.com/artist/6vwOuQUfKY6YfVpKHDZimi), [Murshidabadi](https://open.spotify.com/artist/3oQzcphZBkuMYpesKJkbsC) | [Shob Lokey Koy](https://open.spotify.com/album/4MQpqU8xSRXi7vGkBj7wpO) | 6:36 |
 | 28 | [Prema Heeya](https://open.spotify.com/track/0fux6ogRjcVsB81m67z9Ux) | [Ruveen Vishmitha](https://open.spotify.com/artist/1NXDorOOywpaMK0tLnr3ly), [Kevin Smokio](https://open.spotify.com/artist/6NgfAmWM9yXAtnqvlmEkpc) | [Prema Heeya](https://open.spotify.com/album/3USmyCFwYEHiS1zE9jiBwC) | 2:54 |
 | 29 | [Aaley Mal](https://open.spotify.com/track/50glmmttAW6MTnx9iQHQKj) | [Kanchana Anuradhi](https://open.spotify.com/artist/5FvRanU1qnYzZQ5BpIfU9u) | [Aaley Mal](https://open.spotify.com/album/6ylzj3RX29c94AFlPMncD2) | 3:11 |
 | 30 | [Sanda Nena Da](https://open.spotify.com/track/1YPG3UeO0a8vDabyoN9Zd7) | [Mihiran](https://open.spotify.com/artist/5geuqF6BLOASj8FVq2Tbes) | [Sanda Nena Da](https://open.spotify.com/album/3Ac4Hi5jtv3fAxxP3iGajR) | 4:30 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfNJLV7OBMA.md) - [plain]
 | 99 | [Laga Lagatama \- Remix](https://open.spotify.com/track/1iIOK68SJyv4HGiAI8SrNh) | [Thiwanka Dilshan](https://open.spotify.com/artist/3yvx0NGMRfcq8Gres1PUxx), [SHAN PUTHA](https://open.spotify.com/artist/5xniI4GjmLsnYzG7WXkGEQ), [Zack N](https://open.spotify.com/artist/7ArDql3vEsoh5HXcqP9aOy) | [Laga Lagatama \(Remix\)](https://open.spotify.com/album/2bBBFcFYKULKNXMfOOThO3) | 2:48 |
 | 100 | [Thaniwama](https://open.spotify.com/track/6NQzm9KuXMtKBk60UYw75z) | [NAVI Katugampala](https://open.spotify.com/artist/0Uijw6YUBx3J7nw2nD4JEd), [Shaniya](https://open.spotify.com/artist/1NAbrukGb9uG8swM5g7XDJ) | [Thaniwama](https://open.spotify.com/album/1by2GMjYDWOdIyy9g3Dhmx) | 4:21 |
 
-Snapshot ID: `MTY2MTc2ODQ0MiwwMDAwMDAwMDg0YWZmOTQ3Y2VhMzg4NDQxNWQyOGY3NDg5MGRkNzAx`
+Snapshot ID: `MTY2MTc2ODQ0MiwwMDAwMDAwMGFmNzlkNThkODM5ZDg5YjM3OTMwYjFlMjRlMjZkN2Q5`

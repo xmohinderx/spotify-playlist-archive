@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "Soft and gentle piano interpretations of jazz classics.",
+  "description": "Soft and gentle piano interpretations of Jazz classics.",
   "name": "Peaceful Jazz Piano",
   "published_playlist_ids": [
     "6xTqxAHYGsV8fLb86hItpW"
@@ -185,6 +185,24 @@
       "duration_ms": 192633,
       "name": "All The Things You Are",
       "url": "https://open.spotify.com/track/11Bap5k9jpMjBbqQA9gSez"
+    },
+    {
+      "album": {
+        "name": "Almost Like Being In Love",
+        "url": "https://open.spotify.com/album/67oPqr2P9tzmMLNsa6Y4wb"
+      },
+      "artists": [
+        {
+          "name": "Maxence Capoue",
+          "url": "https://open.spotify.com/artist/67haUq5f5DHveaHN9u4vmy"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "Almost Like Being In Love",
+      "url": "https://open.spotify.com/track/4JceM4LWSSUzGpy4SAUvY5"
     },
     {
       "album": {
@@ -2155,6 +2173,24 @@
       "duration_ms": 210933,
       "name": "Sophisticated Lady",
       "url": "https://open.spotify.com/track/4Ws7Bm2Nhbm83Tz4gRxpIx"
+    },
+    {
+      "album": {
+        "name": "Soul Eyes",
+        "url": "https://open.spotify.com/album/433xCyuJbk1ymPZEfhuhJP"
+      },
+      "artists": [
+        {
+          "name": "Dabria Martin",
+          "url": "https://open.spotify.com/artist/5hxC2YJZBRliZhDyewZ4bG"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224340,
+      "name": "Soul Eyes",
+      "url": "https://open.spotify.com/track/0lBxZvvvNK40Ta3MjVzCvD"
     },
     {
       "album": {

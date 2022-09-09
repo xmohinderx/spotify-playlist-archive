@@ -4,7 +4,7 @@
 
 > Listen to Arab women, at full volume\. Cover: Noel Kharman
 
-297 songs - 17 hr 36 min - [published](https://open.spotify.com/playlist/6cCioutZKMerUfIqu6fEVt)
+298 songs - 17 hr 38 min - [published](https://open.spotify.com/playlist/6cCioutZKMerUfIqu6fEVt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Abjadiyeh](https://open.spotify.com/track/5CV4sbHeftCkLZ8JMTwidN) | [Venus](https://open.spotify.com/artist/3wr1mI1Kd3FsimBQOGPZbY) | [Ad Ma Ehke](https://open.spotify.com/album/2TrKZ3tb2wFgOzvR3ZKuHz) | 3:35 | 2021-12-23 | 2022-03-01 |
 | [Abu 3ntr](https://open.spotify.com/track/4udzViP9ZtbBlCLkFLlj53) | [ŁOAY](https://open.spotify.com/artist/3MIKkLGqd0EYSxHHbUK0Fz), [Lina Makoul](https://open.spotify.com/artist/5jWJzXicyDE4CwlOR3omk7) | [Abu 3ntr](https://open.spotify.com/album/1ua6NcTfZN5Bgu2TYelucN) | 3:33 | 2021-12-23 | 2022-03-01 |
 | [Ad Ay Sa’ab \(El Choclo\)](https://open.spotify.com/track/3uWb9pRy167A3QgCMcAUwH) | [Ángel Gregorio Villoldos](https://open.spotify.com/artist/3Qk0GyKffDb9elY6DLYsrG), [Fatma Said](https://open.spotify.com/artist/1c2ClQeVUmq1req1B2lnlh) | [Ad Ay Sa’ab \(El Choclo\)](https://open.spotify.com/album/4qp6sN0NNxCdU9adjDXVKZ) | 2:44 | 2022-07-15 | 2022-08-23 |
+| [Afa](https://open.spotify.com/track/61sFahxJGZjEQgASy45VTX) | [Jara](https://open.spotify.com/artist/4zr0ZwGKQPCPVGNOEAQ52U) | [Afa](https://open.spotify.com/album/01QAkV39wYAMuyj0qdBBC5) | 2:36 | 2022-09-08 |  |
 | [Aghani Al Shouk](https://open.spotify.com/track/1PIY3wA0hx41XwMntL34zb) | [Hasnaa](https://open.spotify.com/artist/2DnWkyy7jNoREYG8z3eHui) | [Aghani Al Shouk](https://open.spotify.com/album/4um9Pt1IpTm2GhV9yRs2DC) | 3:18 | 2021-12-23 | 2022-02-19 |
 | [Ahlami](https://open.spotify.com/track/0lhh2VQofi8UCkXB9mPpsq) | [Reina Khoury](https://open.spotify.com/artist/1YsXYbFPDHJlPToN7Jj1Pq) | [AHLAMI](https://open.spotify.com/album/06U0lUuJCrHrgfs1v6bLAW) | 2:55 | 2022-03-01 | 2022-07-29 |
 | [Al Habu Al Saeb](https://open.spotify.com/track/7gr1W9mfJsE3ofCEXZZ4fP) | [Hasna](https://open.spotify.com/artist/0L58uikPHKLuqGPPo2EPWW) | [Al Habu Al Saeb](https://open.spotify.com/album/11ZGk1imwTcJ7bIafieEKH) | 3:31 | 2021-12-23 | 2022-03-02 |
@@ -129,7 +130,7 @@
 | [Khyali](https://open.spotify.com/track/5amkmXiRwzdTGwNAasS0SG) | [Asmae](https://open.spotify.com/artist/22axSYd0A2j0jpnlf6tkyg) | [Khyali](https://open.spotify.com/album/5HSvsUzTzmqwIC4zFESH1M) | 2:50 | 2021-12-23 | 2022-03-02 |
 | [Kifak](https://open.spotify.com/track/6qC6yW3SkH0FlvnkqOesJe) | [Jamale Abou Hamad](https://open.spotify.com/artist/3XlntSeDXFe5jnxPFLNJPD) | [Kifak](https://open.spotify.com/album/3iUGlEWRup7CgaFHXsLwSX) | 3:03 | 2022-03-18 | 2022-07-29 |
 | [Kifi Kif Nass](https://open.spotify.com/track/3OGzKIGRrtnKWWYOBnretT) | [Zaynab](https://open.spotify.com/artist/392PzXdHwMWrN2PArb8aJu) | [Kifi Kif Nass](https://open.spotify.com/album/0d5CtbaLEpJTDHjJ106V9m) | 3:14 | 2022-03-01 |  |
-| [Kolli We Ehsasi](https://open.spotify.com/track/7sRtD4UFjJWp6XqY6bNbQu) | [Rulan](https://open.spotify.com/artist/2zyMGZUVbCHsh2LnkDF4ex) | [Kolli We Ehsasi](https://open.spotify.com/album/79Xf67nMR0UTUMgrBUT32F) | 6:37 | 2022-03-03 |  |
+| [Kolli We Ehsasi](https://open.spotify.com/track/7sRtD4UFjJWp6XqY6bNbQu) | [Rulan](https://open.spotify.com/artist/2zyMGZUVbCHsh2LnkDF4ex) | [Kolli We Ehsasi](https://open.spotify.com/album/79Xf67nMR0UTUMgrBUT32F) | 6:37 | 2022-03-03 | 2022-09-09 |
 | [Kolshy Entaha Wrah](https://open.spotify.com/track/1zKPTEkndWQpSBvEC6zb8H) | [Rawaa Albaghdady](https://open.spotify.com/artist/3sWQyrf56xplCbRPXFB1RW) | [Kolshy Entaha Wrah](https://open.spotify.com/album/2ArCZ3BfwSzVyOuuv32J3u) | 4:47 | 2021-12-23 | 2022-03-01 |
 | [Kont Baheb](https://open.spotify.com/track/51PcRYiFdbq6RLE2dg6BRE) | [fayrouz Karawya](https://open.spotify.com/artist/5Td9LvCizoI69AVWIoYd3O), [200 Shams](https://open.spotify.com/artist/4Ak2clxvkKB3yh8tI8FjkM) | [Kont Baheb](https://open.spotify.com/album/5cOme3T6oIrWAdv321mmZr) | 3:28 | 2021-12-23 | 2022-02-26 |
 | [La Receta](https://open.spotify.com/track/1RUddjHVzH3yHLRHmlajNG) | [Malika](https://open.spotify.com/artist/61yCfJHSjcVLYCQvobkzO5) | [La Receta](https://open.spotify.com/album/0hA6c1hn8vNRjIA6LskpQK) | 3:57 | 2021-12-23 | 2022-02-26 |

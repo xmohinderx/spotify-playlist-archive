@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SiCzCxMDOH.md) - [plain]
 
 ### [Jazz for Study](https://open.spotify.com/playlist/37i9dQZF1DX3SiCzCxMDOH)
 
-> Find your focus with instrumental jazz.
+> Find your study focus with calm instrumental Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 347,991 likes - 225 songs - 13 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 348,465 likes - 225 songs - 13 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -234,4 +234,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SiCzCxMDOH.md) - [plain]
 | 224 | [Chelsea Bridge](https://open.spotify.com/track/5GCBRCB2SVSNOu7k38ix5r) | [Leo Krepper](https://open.spotify.com/artist/67l42DKf27egbfdp0XLpY0) | [Chelsea Bridge](https://open.spotify.com/album/7LELdHXIAow8e1HFmoC859) | 5:03 |
 | 225 | [I've Told Every Little Star](https://open.spotify.com/track/2bYWfgNXxt4CQCPWBicqPx) | [LaSalle Street Trio](https://open.spotify.com/artist/0lEDIqg3LH3JQ9YoFMJAIn) | [Deep In A Dream](https://open.spotify.com/album/5FhqZM4vl2D8B3yF0EiDtK) | 4:13 |
 
-Snapshot ID: `MTY2MjQ2NzE5MSwwMDAwMDAwMGU3YWU1MmFhNTMwYjY3N2ZkN2YyMDNhZjJiNzU3NTUz`
+Snapshot ID: `MTY2MjYxOTk0MiwwMDAwMDAwMDQ5MzM0N2UzNzMyZTA2OThkZGExZTkxYjU0YmNhOGMw`

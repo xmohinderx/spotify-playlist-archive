@@ -2,7 +2,7 @@
 
 ### [Jazz for Study](https://open.spotify.com/playlist/37i9dQZF1DX3SiCzCxMDOH)
 
-> Find your focus with instrumental jazz.
+> Find your study focus with calm instrumental Jazz.
 
 243 songs - 15 hr 1 min - [published](https://open.spotify.com/playlist/7gIhFLebpQ44ylgm47ptoC)
 

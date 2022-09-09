@@ -2,7 +2,7 @@
 
 ### [Jazz Piano Classics](https://open.spotify.com/playlist/37i9dQZF1DX5q7wCXFrkHh)
 
-> All the classic keys in jazz\. Cover: Oscar Peterson
+> The classic piano recordings in Jazz\. Cover: Oscar Peterson
 
 202 songs - 18 hr 5 min - [published](https://open.spotify.com/playlist/23zEVepwBB32oB0jy81C3a)
 

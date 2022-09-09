@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > All the best new tracks this week, all in one place\. Cover: Ava Max
 
-[Spotify](https://open.spotify.com/user/spotify) - 330,563 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 330,570 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,7 +105,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 95 | [Lies \(Wasted Time\)](https://open.spotify.com/track/38Y4CHGMOOLosrpNm3DKk3) | [JYDN HILL](https://open.spotify.com/artist/0kGGkgl2qYgVzrMKw2KjY2) | [Lies \(Wasted Time\)](https://open.spotify.com/album/4x9ZZ4WojHsGu0tQWJg5qZ) | 2:13 |
 | 96 | [Di Do](https://open.spotify.com/track/7FnhNTGIMwIXzvRejpvwT0) | [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL) | [Di Do & No Closure](https://open.spotify.com/album/5z2FRwR7nv5uzuPDx3EBzM) | 2:22 |
 | 97 | [Into My Arms \- Radio Edit](https://open.spotify.com/track/66XJcRIDGLTuH7YIcdl8i6) | [Yurie](https://open.spotify.com/artist/7wDogImylcF6JsvvvXaCZ5) | [Into My Arms \(Radio Edit\)](https://open.spotify.com/album/3AQHOXLLh2mO5x5SOAA7yj) | 3:35 |
-| 98 | [Got Your Hands Tied \- Radio Edit](https://open.spotify.com/track/1xxttDrgnRxluzcYYc5MAQ) | [Marc Mysterio](https://open.spotify.com/artist/2aCd85DFBmf2mpACyzOvIu), [Lilllix](https://open.spotify.com/artist/1Qc6afCTYmkr37a26e8VyJ) | [Got Your Hands Tied \(Radio Edit\)](https://open.spotify.com/album/6X63nh3SdYvI7o2ccSZ9DL) | 3:13 |
+| 98 | [Got Your Hands Tied \- Radio Edit](https://open.spotify.com/track/1xxttDrgnRxluzcYYc5MAQ) | [Marc Mysterio](https://open.spotify.com/artist/2aCd85DFBmf2mpACyzOvIu), [Lillix](https://open.spotify.com/artist/00hKB8cu5lyBE35ilxyP7v) | [Got Your Hands Tied \(Radio Edit\)](https://open.spotify.com/album/6X63nh3SdYvI7o2ccSZ9DL) | 3:13 |
 | 99 | [Atita](https://open.spotify.com/track/0OjGoqUNQ9znSdzEXl0T3w) | [Joseph Crime](https://open.spotify.com/artist/263mhJcYZhRpnTByW2f57G) | [Believe the Present](https://open.spotify.com/album/5ek8TSJUYoWDmSWlAGqsFm) | 4:17 |
 | 100 | [Rollin' Loud](https://open.spotify.com/track/5x6St2xa66PACUYtXvJxJ5) | [Triggs](https://open.spotify.com/artist/661MK0FxaxojzqMrYFMz9p), [Mally Swayzz](https://open.spotify.com/artist/1pWrmfc18H91ApDFs8wJpF) | [Rollin' Loud](https://open.spotify.com/album/79R3YXTukFbAH0kA8NZGbM) | 2:58 |
 

@@ -4,7 +4,7 @@
 
 > Les femmes montent le son\. Photo : Jeanne Added
 
-413 songs - 21 hr 32 min - [published](https://open.spotify.com/playlist/1j8ppjdvQ9TlzoMiE9zx0Y)
+420 songs - 21 hr 54 min - [published](https://open.spotify.com/playlist/1j8ppjdvQ9TlzoMiE9zx0Y)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [CHUT !](https://open.spotify.com/track/271QBdNwMGqmnAjN1hNR3f) | [Julia](https://open.spotify.com/artist/3WDb4OeLq80kGg8BaJHHKR) | [CHUT !](https://open.spotify.com/album/3eYLmFzzw17R4FgwRJ1Q3F) | 3:03 | 2022-03-07 | 2022-04-06 |
 | [Chute libre](https://open.spotify.com/track/6zDwJFSWZboT9WdH2ZXtIt) | [Owlle](https://open.spotify.com/artist/05jcn5u3ZDqfA1QfdKx2Y8) | [Folle Machine](https://open.spotify.com/album/2fsg4GacNJr2f4PNfrvjJV) | 3:50 | 2022-04-05 | 2022-05-04 |
 | [Ciao](https://open.spotify.com/track/3ykbVbhLLERgCFGMW0W16n) | [Lyna Mahyem](https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP) | [Ciao](https://open.spotify.com/album/40rDl4WJ1YEcujsudJoskW) | 3:32 | 2022-03-07 | 2022-04-06 |
+| [Clair](https://open.spotify.com/track/2vN5X8hMpUMopBp65fZ9RU) | [Alba](https://open.spotify.com/artist/4UhYvW3mqQS4btbiJDfMyV) | [Clair](https://open.spotify.com/album/1Ox9SwX7R2rXowWyPrZr4G) | 3:03 | 2022-09-06 |  |
 | [Claire You Don't Want To Be Saved](https://open.spotify.com/track/66XB5Tr2pwzHeHHeENPIHW) | [Claire days](https://open.spotify.com/artist/51Vw9YWwshaKc9xqtHnNES) | [Claire You Don't Want to Be Saved](https://open.spotify.com/album/3BY3Ifhgfl1eOELBwuocO6) | 3:06 | 2022-09-06 |  |
 | [Cliché](https://open.spotify.com/track/0WAQ3Re10tB2s70r5jmWt3) | [Joyce Jonathan](https://open.spotify.com/artist/25eQCECJH4VTpBYV9jhpyE) | [Les p'tites jolies choses](https://open.spotify.com/album/3hbj2Bt2SECsLk8piLHwCL) | 2:50 | 2022-04-05 | 2022-05-04 |
 | [Clit Is Good](https://open.spotify.com/track/162VxrGfWcY4uE0LW6jbeQ) | [Suzane](https://open.spotify.com/artist/00CTomLgA78xvwEwL0woWx) | [Clit Is Good](https://open.spotify.com/album/1MzcGJruvNRVX49q5ZR9wt) | 3:01 | 2022-05-03 | 2022-06-01 |
@@ -80,6 +81,7 @@
 | [Coco Chanel](https://open.spotify.com/track/3KtTIqLOCITa1RLHRxfjtS) | [Lynda](https://open.spotify.com/artist/2GlEiSHYEKlq9cUYDa9oZb) | [Coco Chanel](https://open.spotify.com/album/7tpQGE72vn5RJG450PvB6Z) | 2:34 | 2022-08-02 | 2022-09-07 |
 | [Coco Robot \(feat\. HabibiSly\)](https://open.spotify.com/track/78uhoLjMr27DWycpKLFaY6) | [Corine](https://open.spotify.com/artist/6vs7gfG3OVDyBiY7loLsyQ), [HabibiSly](https://open.spotify.com/artist/1aJmuI59aoDA9mBk4ACoxl) | [Coco Robot \(feat\. HabibiSly\)](https://open.spotify.com/album/2VwjLt0y3pBxzIHitBWKuV) | 4:00 | 2022-06-01 | 2022-07-06 |
 | [come into my arms](https://open.spotify.com/track/1WbqQUB9ldGb8x3b72RH3Z) | [November Ultra](https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr) | [come into my arms](https://open.spotify.com/album/3dti8UcnsGhwppSO3k4frr) | 2:12 | 2022-07-05 | 2022-08-03 |
+| [Comme toi](https://open.spotify.com/track/1wuOycLyBzWSarmRb7iUeE) | [Maïssa](https://open.spotify.com/artist/2E1HBeu5oSprLnGtpuEv1Y) | [Poison Mortel](https://open.spotify.com/album/6WfSwm4DmcVHYE7fA49agO) | 3:28 | 2022-09-06 |  |
 | [Comme un adieu](https://open.spotify.com/track/1No1FN1X5vEpUjQLlOBm5L) | [Zélie](https://open.spotify.com/artist/0TGeOStDbxqVi8UJdBQsEx) | [Comme un adieu](https://open.spotify.com/album/5MXSXRrb3tclOOoLTXrcXr) | 3:26 | 2022-01-05 | 2022-02-02 |
 | [Comme\-ci comme\-ça](https://open.spotify.com/track/6tHBKuJPEKkEF3Q7MQjDKv) | [Charlie Faron](https://open.spotify.com/artist/7bHfn00UcuTafrQLESy8UE) | [Comme\-ci comme\-ça](https://open.spotify.com/album/2BXCWcLMXTCjEWJjdXjMg8) | 3:29 | 2022-02-01 | 2022-03-08 |
 | [Compliqué](https://open.spotify.com/track/5s5omcypEbW9zUn3WLH3NB) | [Nina Rossell](https://open.spotify.com/artist/76GOZCc1Fa0aXqh4edNsuw) | [Compliqué](https://open.spotify.com/album/7FPN7bfHQZ3vZo7ETWz72F) | 2:47 | 2022-01-05 | 2022-02-02 |
@@ -91,6 +93,7 @@
 | [Cœur à cœur](https://open.spotify.com/track/3T2BybVNTRi1D3BChLPNyX) | [iambillies](https://open.spotify.com/artist/6mvtHZpx2xlegpmqCZ3UpG) | [Cœur à cœur](https://open.spotify.com/album/5mWGbQvxI666IWrLZML4B2) | 3:11 | 2022-04-05 | 2022-05-04 |
 | [Dame un Beso](https://open.spotify.com/track/2ALbKqUuWRDwB61bgfxsOq) | [Mathilda](https://open.spotify.com/artist/3G3kiaWiTm0mUdzujLRuji) | [Dame un Beso](https://open.spotify.com/album/1Blvg1TCxOSpHjWyLRmmcp) | 2:52 | 2022-07-05 | 2022-08-03 |
 | [Dans La Neige](https://open.spotify.com/track/2Q72FAtGOzphNpdY2bmaLn) | [Le Paon](https://open.spotify.com/artist/2JGuBoiuoXvEI3A7CF1buF) | [Dans La Neige](https://open.spotify.com/album/2YTcYREKouFNyEhhYVGmyR) | 2:56 | 2022-02-01 | 2022-03-08 |
+| [Dans ma tête](https://open.spotify.com/track/5utHnP9FfVEMUL0028gECs) | [Angelcy](https://open.spotify.com/artist/2BLqT1DuND6cAhJodiKmc2) | [Dans ma tête](https://open.spotify.com/album/1Vk9aNStxPy3DbGHDmkbxW) | 2:44 | 2022-09-06 |  |
 | [Dans mon dos](https://open.spotify.com/track/1O7RIzTY1bz1ma7JfSkl7m) | [Camille Schneyder](https://open.spotify.com/artist/2jPO50YbPAgwG8D7kGWGVn) | [Dans mon dos](https://open.spotify.com/album/1EznXF8vOZ8zTjdzvigkdO) | 2:51 | 2022-04-05 | 2022-05-04 |
 | [Dans un fou rire](https://open.spotify.com/track/6Rnz3N2IgUJO7Hl1j8BmuJ) | [Fishbach](https://open.spotify.com/artist/6smOYrOT8fGSn5lDC86Jjb) | [Dans un fou rire](https://open.spotify.com/album/30O5UTZO0crZdklnMZpQyX) | 3:51 | 2022-02-01 | 2022-03-08 |
 | [De Passage](https://open.spotify.com/track/6lYSztZ3Ahlw2lhrFCV0ER) | [Anna Kova](https://open.spotify.com/artist/286w6qp0xgPtlyggwQk6DL) | [De Passage](https://open.spotify.com/album/1bAXfbc7L8lrM2RlWTDxNC) | 2:40 | 2022-09-06 |  |
@@ -130,6 +133,7 @@
 | [Fantasy Girl](https://open.spotify.com/track/75CoiQTM3XHWSmm4XlfM20) | [Novaé Lita](https://open.spotify.com/artist/1tZ9lQ62KmVFephCl3hfB6) | [Fantasy Girl](https://open.spotify.com/album/2PPmrh2GUeD42U42NWMO9v) | 2:06 | 2022-08-02 | 2022-09-07 |
 | [Fever](https://open.spotify.com/track/06mMTF6cqtiEptM8FdVhv6) | [Arielle Dombasle](https://open.spotify.com/artist/7I2zgbIGfAd3w1CktlJUbI) | [Fever](https://open.spotify.com/album/5LAT4jfX64Epy05Y3blREP) | 3:40 | 2022-05-31 | 2022-07-06 |
 | [Fin d'amitié \(onenparle\)](https://open.spotify.com/track/0QrNYbVooWGfvgpggOMEHH) | [Dorely](https://open.spotify.com/artist/7zEvemWd0At54LjzE5SQnl) | [Fin d'amitié \(onenparle\)](https://open.spotify.com/album/2Vr32mcH7rZt9FG5PHiRUM) | 2:07 | 2022-04-05 | 2022-05-04 |
+| [Flamme](https://open.spotify.com/track/5mNzJwI6K103A3I46l081D) | [Juliette Armanet](https://open.spotify.com/artist/61CPKXT0bcKj8MKTNTMOXa) | [Flamme](https://open.spotify.com/album/2IHawKPF8EooRyVBYz3y1d) | 2:44 | 2022-09-08 |  |
 | [Focus](https://open.spotify.com/track/64PU8rTy4xLgOVaea3U7bq) | [Aloïse Sauvage](https://open.spotify.com/artist/5LYSuLVsB6OVxkDY107AyQ) | [Focus](https://open.spotify.com/album/70IMg0I6RndR161BsTJvrJ) | 2:48 | 2022-05-03 | 2022-06-01 |
 | [Folie vie](https://open.spotify.com/track/4zhHcAm3r018pgbWF31Ou9) | [Ali](https://open.spotify.com/artist/42TiSAW69Y0zs7mf9ApFmb), [Molitor](https://open.spotify.com/artist/2KnFIqnQp7nbKAnPnsQcKo) | [Molitor 3](https://open.spotify.com/album/7pLkJhE3XRZEQUTMhAdPS6) | 2:41 | 2022-07-05 | 2022-08-03 |
 | [Friendzoner](https://open.spotify.com/track/2QA2C9DNWmXkG8WP95j7M1) | [Manon Vuoko](https://open.spotify.com/artist/7G3puIh677BWnpbYrk63LO) | [Friendzoner](https://open.spotify.com/album/7plLQncFHp38uMZLezv6D9) | 2:18 | 2022-02-01 | 2022-03-08 |
@@ -283,6 +287,7 @@
 | [On My Way](https://open.spotify.com/track/5fea0bXIOCmSa3WawwzaAm) | [Oordaya](https://open.spotify.com/artist/7JWxRPYnCGaZPh1L44NWtY) | [Twenty With Love](https://open.spotify.com/album/72aGs5g2wvcpIMGNAPlBcL) | 3:30 | 2022-04-05 | 2022-05-04 |
 | [On prend tout](https://open.spotify.com/track/6WheAWK0iOK2Zo81u40YVK) | [Doria](https://open.spotify.com/artist/4ddqz1AzqYMRKYTslXO839) | [On prend tout](https://open.spotify.com/album/3jGasbW6iJN83czkvpskh8) | 2:49 | 2022-05-31 | 2022-07-06 |
 | [On se colle à la peau](https://open.spotify.com/track/5uWrmMztXXegPfd9u4QLyi) | [WILA](https://open.spotify.com/artist/2lqxgqA2Ygafxcd9dxS6mN) | [On se colle à la peau](https://open.spotify.com/album/5N70oCEC8IlKphw9pAVdp9) | 2:39 | 2022-04-05 | 2022-05-04 |
+| [One Big Mess](https://open.spotify.com/track/1xJI08hQGSIzMPnObYbdh3) | [Laura Cox](https://open.spotify.com/artist/1Olw3LDdz2RWOLV491bG75) | [One Big Mess](https://open.spotify.com/album/0Kzj9Krv9V5pXLSTbUyaMf) | 3:56 | 2022-09-06 |  |
 | [open arms](https://open.spotify.com/track/75AMnCxY4ahOMeIn9LDvSE) | [November Ultra](https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr) | [bedroom walls](https://open.spotify.com/album/4HeMF37gL9maj7PD2lZ1q8) | 6:10 | 2022-04-07 | 2022-05-04 |
 | [Osmose](https://open.spotify.com/track/7h8Ervlf2BqcAU5xsuqrs3) | [Vicky R](https://open.spotify.com/artist/468tlC6QAKEJ4u0jndX9o0), [Joanna](https://open.spotify.com/artist/5k7czLtvpvADY4FkRnTS4p) | [RHC \(Extension\)](https://open.spotify.com/album/3J5FR1jneAWbIswVD59SH2) | 2:41 | 2022-03-07 | 2022-04-06 |
 | [Où que tu sois](https://open.spotify.com/track/6Ekkjj3FAPUkZH2OJTkksv) | [Dorely](https://open.spotify.com/artist/7zEvemWd0At54LjzE5SQnl) | [Où que tu sois](https://open.spotify.com/album/0nPcbkhWHhy5TJYBR2jJGB) | 2:53 | 2022-02-01 | 2022-03-08 |
@@ -378,6 +383,7 @@
 | [Tempo](https://open.spotify.com/track/5q8L8ALraz7i0JO7zwFhtr) | [Koline](https://open.spotify.com/artist/5rD5SSVbX4lbhwGd2tfqkD) | [Tempo](https://open.spotify.com/album/26VxaGbWvByid1TAMNL5tQ) | 2:52 | 2022-05-31 | 2022-07-06 |
 | [Tes yeux vertiges](https://open.spotify.com/track/5K38bxdYDCLujfhET17nZ0) | [Barbara Rivage](https://open.spotify.com/artist/18BLp9REGpjbS7TuMZWCI0) | [Tes yeux vertiges](https://open.spotify.com/album/0kr8aNY2VZ9o2m75NxxNz6) | 4:04 | 2022-04-05 | 2022-05-04 |
 | [The Game](https://open.spotify.com/track/1bTCLpRyw4O85YGCkAbdMH) | [La Femme en Bleu](https://open.spotify.com/artist/4zvroanLciSTy6lUol10bR) | [The Game](https://open.spotify.com/album/2UKvJOyThCkUf6l87hj2cN) | 2:21 | 2022-01-05 | 2022-02-02 |
+| [Thérapie](https://open.spotify.com/track/0h7UOz0ZIXjdQe5WUlQP4O) | [Dorely](https://open.spotify.com/artist/7zEvemWd0At54LjzE5SQnl) | [Thérapie](https://open.spotify.com/album/1rycyjpynBmWhWRHd1Mlyq) | 2:53 | 2022-09-06 |  |
 | [Titanic](https://open.spotify.com/track/6jDjpymppH9NCctpXhqY5Q) | [Poppy Fusée](https://open.spotify.com/artist/5IFUbcd4w9UlVpsMNfY4FT) | [Titanic](https://open.spotify.com/album/2WBuGbz4Yow819X0fddhCy) | 3:10 | 2022-05-03 | 2022-06-01 |
 | [tombeau \- A COLORS SHOW](https://open.spotify.com/track/0jx14YrpPfyZJIZCRR9alV) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [tombeau \(A COLORS SHOW\)](https://open.spotify.com/album/2WCBxuuuHZB2LE5zfXktRi) | 3:11 | 2022-06-01 | 2022-07-06 |
 | [Tomber](https://open.spotify.com/track/5Ahu1gSbeqZo1YxPTl7Wzq) | [Leila AD](https://open.spotify.com/artist/29OFoMngbkNzwla2kczgdu) | [Tomber](https://open.spotify.com/album/6Q13IzviW0AWv3dUoXtS1X) | 2:37 | 2022-08-02 | 2022-09-07 |
@@ -402,6 +408,7 @@
 | [Va\-t'en](https://open.spotify.com/track/19OS2acFV7qpcjPKMlktdf) | [Irma](https://open.spotify.com/artist/7KTLYKJhcUOMgNgayxBj9f) | [Va\-t'en](https://open.spotify.com/album/6iKVpux4lTXgtyGKgpl09f) | 2:50 | 2022-01-05 | 2022-02-02 |
 | [Vallée de Siddim](https://open.spotify.com/track/2kn06tH2KFbqUNQJL5gulk) | [The Rodeo](https://open.spotify.com/artist/66g3ybCzTYusaxjoARIBEw) | [Podium numéro un \(Une compilation Finalistes et La Souterraine\)](https://open.spotify.com/album/6QVjvOFL2Dp67aC6FPmJ0n) | 4:21 | 2022-01-05 | 2022-02-02 |
 | [Vanessa](https://open.spotify.com/track/5ERAEk7w7EzY03ETebieBA) | [Leslie Medina](https://open.spotify.com/artist/6v4kwEeHOGcxcS9PtYAoYN), [Molitor](https://open.spotify.com/artist/2KnFIqnQp7nbKAnPnsQcKo) | [Molitor 3](https://open.spotify.com/album/7pLkJhE3XRZEQUTMhAdPS6) | 2:57 | 2022-07-05 | 2022-08-03 |
+| [Vendredi](https://open.spotify.com/track/3F5DnCBeQtfpxwgpLsdqvK) | [La Grande Sophie](https://open.spotify.com/artist/76IqDKTydgWzyIuNpUD3Jg) | [Vendredi](https://open.spotify.com/album/0uIGI1EYya6OyZUYjzmikH) | 2:34 | 2022-09-06 |  |
 | [VENUS](https://open.spotify.com/track/6pWVce5c6JXqFfl7JfJBnl) | [Enchantée Julia](https://open.spotify.com/artist/0t04WLkoyjSuvhzsXIJH7E) | [LONGO MAÏ](https://open.spotify.com/album/1e6H42WI9oJ8rOSYDjrIcf) | 3:03 | 2022-06-01 | 2022-07-06 |
 | [Verre D'eau](https://open.spotify.com/track/5p8vq37UsDzRP0gyUuAUQz) | [SKIA](https://open.spotify.com/artist/1LWNlonORpAMLWHJCaCwtE) | [Sensible](https://open.spotify.com/album/4bEj8Pmu4i0oUY3ZukQcPg) | 3:08 | 2022-02-01 | 2022-03-08 |
 | [Vidéodrome](https://open.spotify.com/track/6o9QXLoLe1SBmufPo5Dyu4) | [P.R2B](https://open.spotify.com/artist/6R6tuqCxJRopO4bE8nfLGk) | [Vidéodrome](https://open.spotify.com/album/6wvnzv5Y9xg6SH14Q598xe) | 3:07 | 2022-08-02 | 2022-09-07 |

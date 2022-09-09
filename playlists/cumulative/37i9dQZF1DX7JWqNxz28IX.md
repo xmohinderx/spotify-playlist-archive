@@ -2,18 +2,20 @@
 
 ### [ragazzo triste](https://open.spotify.com/playlist/37i9dQZF1DX7JWqNxz28IX)
 
-> 🩹 \(in cover, fasma\)
+> 🩹 \(in cover, kid vice\)
 
-120 songs - 5 hr 26 min - [published](https://open.spotify.com/playlist/7fBkDuj9jj7rj8liyTLX4S)
+125 songs - 5 hr 38 min - [published](https://open.spotify.com/playlist/7fBkDuj9jj7rj8liyTLX4S)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(SEMBRA BELLO\)](https://open.spotify.com/track/4GrmcHXgRRnXqAaO4XJgqT) | [bnkr44](https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw) | [FARSI MALE A NOI](https://open.spotify.com/album/707aADY01oMofgUyyX92mC) | 1:56 | 2022-04-21 | 2022-07-29 |
 | [\(SEMBRA BELLO\)](https://open.spotify.com/track/6l5doB3A29SS3h0SVL8x1W) | [bnkr44](https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw) | [FARSI MALE A NOI VA BENE](https://open.spotify.com/album/4kyZ7s8g1iT6LZAHJAcd29) | 1:56 | 2022-07-28 |  |
 | [14](https://open.spotify.com/track/1veUzOYyrblgIzylvPzkAZ) | [Jayred](https://open.spotify.com/artist/2fxu0phr0BCuxaKdSfCv08), [yuks](https://open.spotify.com/artist/5S1ajwH3erCE1RDfGiAESd) | [14](https://open.spotify.com/album/7290JgdAoUMQmFzAVztJpk) | 1:50 | 2022-04-21 |  |
+| [Amianto](https://open.spotify.com/track/5FeDmOkJlmFcb8arUhMi87) | [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8) | [Spazio](https://open.spotify.com/album/1rF5ezgSerqkUK1Nc9Ft6p) | 2:59 | 2022-09-08 |  |
 | [Amsterdam](https://open.spotify.com/track/2BOzEweKLKbBdP6szSatP7) | [Nashley](https://open.spotify.com/artist/5RiGhrEoM1SBjZoY25lCfe) | [OSIRIDE](https://open.spotify.com/album/6jmB6f0AiVAAYZRAISXHwq) | 3:20 | 2022-04-21 |  |
 | [APNEA \- MTV Unplugged](https://open.spotify.com/track/3DP8cUzSO9tJx7tGShuS4c) | [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3) | [TAXI DRIVER \(MTV Unplugged\)](https://open.spotify.com/album/3cZPj6lCLw8aia3nAiNKo8) | 3:25 | 2022-07-28 |  |
 | [Aurora](https://open.spotify.com/track/5yhmgsfH8EhS0mAOIb1n6T) | [Elteep](https://open.spotify.com/artist/0eoUjdIgU7Heid0Mv3EjLB), [Lil Sanax](https://open.spotify.com/artist/08kfcguo6aDqrugFck6JwI) | [Aurora](https://open.spotify.com/album/43ynx05t8Kyc34nLqcrCB9) | 2:54 | 2022-04-21 |  |
+| [Autodistruzione](https://open.spotify.com/track/3IE4l7yd9Ez4a0XXjRvQDF) | [AUTOSTIMA](https://open.spotify.com/artist/5kXkrD3qvUVaANqQoPCbae) | [Autodistruzione](https://open.spotify.com/album/3Ul8ixMEyurYLf4y2qMDX1) | 2:34 | 2022-09-08 |  |
 | [Autopsia](https://open.spotify.com/track/5wEdC22OgyM7umwe6XeCms) | [DOXX](https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr) | [Autopsia](https://open.spotify.com/album/01bwlYW15thIL49JrwibKC) | 3:28 | 2022-04-21 |  |
 | [Backstage](https://open.spotify.com/track/5V8XwjvqWbDB1B0r0aZ2Wi) | [DOXX](https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr) | [Gemini](https://open.spotify.com/album/3qPC7M1Bgd3yHvQi7PSzrK) | 3:00 | 2022-04-21 |  |
 | [Barbie](https://open.spotify.com/track/6FyL3LaA6KriOfgHJUnhVS) | [SHYGUY.OG](https://open.spotify.com/artist/5OGilC8ZDq4jiufxRylb0X) | [Barbie](https://open.spotify.com/album/7GJY1BE2OnuQBnWNvKHWJK) | 1:22 | 2022-06-23 | 2022-08-13 |
@@ -111,7 +113,9 @@
 | [Solita](https://open.spotify.com/track/40V5KOD49epmIjvEUWVFJ8) | [Edra](https://open.spotify.com/artist/3mxIKZRca9G3N1C1dfbBzY) | [Solita](https://open.spotify.com/album/5kK7COihWbhVwFllUuD8gx) | 2:58 | 2022-04-21 | 2022-08-13 |
 | [solo polvere.](https://open.spotify.com/track/7gTd5z0K5FjcXyOnDSkcqc) | [Holden](https://open.spotify.com/artist/3XTUciJcdix4GkO9YoBdtP) | [PROLOGO](https://open.spotify.com/album/3zMx1otz8AGfuZ7bQ4JMhL) | 3:13 | 2022-04-21 |  |
 | [Sotto lo zero](https://open.spotify.com/track/46PYmmj2C1v8DwuhSUowIy) | [Nisba](https://open.spotify.com/artist/0rAJoDmXBTVc0FSkEnbnQa) | [Sotto lo zero](https://open.spotify.com/album/4GrFH1rvATwSnB3tRVrqwE) | 3:00 | 2022-04-21 |  |
+| [SOTTOTERRA//](https://open.spotify.com/track/5rnHCNcAvweaHKlq3o3a2u) | [Kid Vice](https://open.spotify.com/artist/3bnPjo8qyh6NrIw5PdRpBo), [Jack Sapienza](https://open.spotify.com/artist/5iZW5E9q0Iv8t0Phtp887K) | [SOTTOTERRA//](https://open.spotify.com/album/160CqdV8jR90WFvl0jbMDs) | 2:23 | 2022-09-08 |  |
 | [Spalla Destra](https://open.spotify.com/track/6dEDitKtQNG6GQzwBN2vvb) | [deca ydf](https://open.spotify.com/artist/13Il0NL1QiQEVvWhK6ZZ5a) | [Spalla Destra](https://open.spotify.com/album/1u5GTFReIuhmN8tBp7T0KD) | 2:57 | 2022-04-21 |  |
+| [SPECCHIO \(interludio\)](https://open.spotify.com/track/4ipopm8ZXDTY9a03gs2M5j) | [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8) | [SPECCHIO](https://open.spotify.com/album/2siu332vR3M1qf1F9D7LY3) | 1:31 | 2022-09-08 |  |
 | [sto bene, a volte](https://open.spotify.com/track/6yCuN6RqkZInyESNtKvOZu) | [Anzj](https://open.spotify.com/artist/2OAmo9IbfDhgPommOAgXqu) | [cloud love](https://open.spotify.com/album/302uCiHcWTHZ1XaX8D2Rvk) | 1:29 | 2022-04-21 |  |
 | [Ti Sposo](https://open.spotify.com/track/2C0tlqwcvVGuNox39uQgpC) | [Avoia](https://open.spotify.com/artist/2AOUNkpPPnWNXIU2NafS8I), [Candle Lights](https://open.spotify.com/artist/4ei52BXEiHeAYGVczk43vI) | [Ti Sposo](https://open.spotify.com/album/7zToEpET8GvtBkJQbafNsI) | 2:24 | 2022-04-21 |  |
 | [TI VA DI FARMI A PEZZI](https://open.spotify.com/track/4MGY99wRcj1dGIjdaleCyr) | [Lil Sanax](https://open.spotify.com/artist/08kfcguo6aDqrugFck6JwI) | [TI VA DI FARMI A PEZZI](https://open.spotify.com/album/3FF8qWE3B4B3XdLjzfgpsD) | 2:58 | 2022-06-16 |  |
@@ -122,10 +126,11 @@
 | [uno stupido ricordo](https://open.spotify.com/track/01SVqTQsiWXshVX4kYpVF6) | [TB](https://open.spotify.com/artist/1z2PiwIAFADDrAnR52LBkN), [Noia](https://open.spotify.com/artist/2juG6RJqgbhPLJvHWOjEMM) | [uno stupido ricordo](https://open.spotify.com/album/03kIPpJJpT0XrX3NH4afOt) | 2:43 | 2022-04-21 |  |
 | [Venere](https://open.spotify.com/track/1iqwuiwOkU2Cq7G0lEA6Uk) | [Aiko Ak](https://open.spotify.com/artist/0qtxaLL8XAMIdSUHzITgPl) | [Venere](https://open.spotify.com/album/5CYCzNMdO02RYurzb7vNwJ) | 3:43 | 2022-04-21 |  |
 | [vivere solo](https://open.spotify.com/track/66k8poNSX1SutjV9of9gHm) | [Thom.](https://open.spotify.com/artist/4e5mUDLdGeosdE593StPBi), [TB](https://open.spotify.com/artist/1z2PiwIAFADDrAnR52LBkN) | [vivere solo](https://open.spotify.com/album/1aAoHLxQpTSLNILQTqPqic) | 2:30 | 2022-04-21 |  |
-| [VIVERE X SEMPRE](https://open.spotify.com/track/3qceQin2x7gy7OipnI0B9Z) | [Mr\. Hugo](https://open.spotify.com/artist/7uEtBgdrg5MIlcoE4IhZ5H) | [VIVERE X SEMPRE](https://open.spotify.com/album/0VkiBrHatXlErli8RaPNg6) | 2:50 | 2022-08-04 |  |
+| [VIVERE X SEMPRE](https://open.spotify.com/track/3qceQin2x7gy7OipnI0B9Z) | [Mr\. Hugo](https://open.spotify.com/artist/7uEtBgdrg5MIlcoE4IhZ5H) | [VIVERE X SEMPRE](https://open.spotify.com/album/0VkiBrHatXlErli8RaPNg6) | 2:50 | 2022-08-04 | 2022-09-09 |
 | [Volevo dirti](https://open.spotify.com/track/4DGL38YHhXeoZehaVdoICU) | [Nisba](https://open.spotify.com/artist/0rAJoDmXBTVc0FSkEnbnQa) | [Volevo dirti](https://open.spotify.com/album/2uHvJYoHJbcC4rwcdqSgZM) | 3:01 | 2022-04-21 |  |
 | [Winston Blue](https://open.spotify.com/track/78WU5Aet5mAFziFp8Xtd1i) | [WECH PUTO](https://open.spotify.com/artist/6Y9tJfn6ECnWpZngpRIFfK) | [Winston Blue](https://open.spotify.com/album/0M95QrJhwkP2WHdX8ECfHT) | 2:31 | 2022-04-21 |  |
 | [x dimenticarti](https://open.spotify.com/track/36yVUCU4BXMPTlZKXTLNAS) | [Dasplan](https://open.spotify.com/artist/3NTgDjVbLSiv0d7NW6MGhP) | [x dimenticarti](https://open.spotify.com/album/4Yqn5A7LPALVKi4rOcPXMu) | 2:16 | 2022-06-02 |  |
+| [X4](https://open.spotify.com/track/57PzEk2wg7T1JtKwwhBpIT) | [Alek](https://open.spotify.com/artist/6JWeknFiJE42BXED1AGOvY) | [X4](https://open.spotify.com/album/49Qeb8YVPKSN3OBkvwXyWl) | 2:34 | 2022-09-08 |  |
 | [Xelisa2 \(feat\. ARIETE\)](https://open.spotify.com/track/0TFwQNQV9TzDRSh05ljlv7) | [Tauro Boys](https://open.spotify.com/artist/3co0PkJ0FkzdkjRPkBf9WM), [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8) | [TauroTape3](https://open.spotify.com/album/3O1hIgLryt4q65Y1YcjXdp) | 2:57 | 2022-04-21 |  |
 | [È Andata Così](https://open.spotify.com/track/47jPZoeY2hgKA4Y4Zk3etW) | [Aiden](https://open.spotify.com/artist/1nP7zdpk1ok53IBGhMwhb3) | [È Andata Così](https://open.spotify.com/album/7AdlQyoaGhS0pLTYKaBR7B) | 3:52 | 2022-04-21 |  |
 

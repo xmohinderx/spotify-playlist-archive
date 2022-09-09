@@ -1167,7 +1167,7 @@
     {
       "album": {
         "name": "Song 32",
-        "url": "https://open.spotify.com/album/7eVx4XXwY3KrIPGRrW66UI"
+        "url": "https://open.spotify.com/album/6w9HzF9t5hxwaPIRZNECFN"
       },
       "artists": [
         {
@@ -1178,6 +1178,24 @@
       "date_added": "2019-12-09",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 162496,
+      "name": "Song 32",
+      "url": "https://open.spotify.com/track/6kqdiU8tYIznmQ7T0Lzlzx"
+    },
+    {
+      "album": {
+        "name": "Song 32",
+        "url": "https://open.spotify.com/album/7eVx4XXwY3KrIPGRrW66UI"
+      },
+      "artists": [
+        {
+          "name": "Noname",
+          "url": "https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy"
+        }
+      ],
+      "date_added": "2019-12-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-09",
       "duration_ms": 162496,
       "name": "Song 32",
       "url": "https://open.spotify.com/track/7GWAIzOmt5iznpu8RbSiSI"

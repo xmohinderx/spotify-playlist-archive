@@ -2,9 +2,9 @@
 
 ### [Sweet Jazz](https://open.spotify.com/playlist/37i9dQZF1DWWMGLiuK4OqL)
 
-> The soft sound of some of the smoothest and sweetest vocal jazz.
+> The soft sound of some of the smoothest and sweetest vocal Jazz.
 
-266 songs - 18 hr 2 min - [published](https://open.spotify.com/playlist/2jXyMwumv2Y3AF0FeiCzYC)
+267 songs - 18 hr 6 min - [published](https://open.spotify.com/playlist/2jXyMwumv2Y3AF0FeiCzYC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [\(They Long to Be\) Close to You](https://open.spotify.com/track/6Ohs3mAuItU9fOcmH27m6u) | [Isabella Taviani](https://open.spotify.com/artist/1nKYVcowQA1JBEOr5SKPoK), [Dionne Warwick](https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp) | [\(They Long to Be\) Close to You](https://open.spotify.com/album/4iEUjWQbUSNpppXTA04K3L) | 3:30 | 2022-01-20 |  |
 | [12th Avenue](https://open.spotify.com/track/2x5Rw8dR4Vi0tHSHk3ApNc) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa) | [12th Avenue](https://open.spotify.com/album/5fxTcupBle4mwU8NUUm6Zd) | 4:37 | 2022-01-20 |  |
 | [A Certain Someone](https://open.spotify.com/track/25yMnwMO9d5urUdVtPyWee) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa) | [A Certain Someone](https://open.spotify.com/album/5UPRQVPIXbuOwOuEcnjif1) | 4:12 | 2022-01-20 |  |
-| [A Hundred Years From Today](https://open.spotify.com/track/4H0rc7WdW9GBldPq0hGPxC) | [Seth MacFarlane](https://open.spotify.com/artist/79D4dipwR6scV8AN3dm7gW) | [Blue Skies](https://open.spotify.com/album/0sZ66FzxugWumHwU97CVum) | 3:00 | 2022-05-24 | 2022-09-05 |
+| [A Hundred Years From Today](https://open.spotify.com/track/4H0rc7WdW9GBldPq0hGPxC) | [Seth MacFarlane](https://open.spotify.com/artist/79D4dipwR6scV8AN3dm7gW) | [Blue Skies](https://open.spotify.com/album/0sZ66FzxugWumHwU97CVum) | 3:00 | 2022-05-24 |  |
 | [A Love That Will Last](https://open.spotify.com/track/4bJbSERtCqK9D6DRUPMmMh) | [Renee Olstead](https://open.spotify.com/artist/19B0pJt4UEl3fUijGTRzxB) | [Renee Olstead](https://open.spotify.com/album/0xBTBaqqZd6Vnmp0tJ3g42) | 3:32 | 2022-01-20 |  |
 | [A Sunday Kind Of Love](https://open.spotify.com/track/5MtTR1jjNpaYbutc0ZY6hp) | [Ruth Cameron](https://open.spotify.com/artist/6xU3elxz1hWVmeToFlgB0v) | [Roadhouse](https://open.spotify.com/album/1hOiFphQN0xvJS9gNGWaqx) | 4:52 | 2022-01-20 |  |
 | [A Time For Love](https://open.spotify.com/track/6kkYQ0DI1ZMQyuqNGCcZ09) | [Jane Monheit](https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ) | [Surrender](https://open.spotify.com/album/06z8lYccAx5xmQJgyq5niq) | 4:59 | 2022-01-20 | 2022-07-29 |
@@ -44,7 +44,7 @@
 | [Behind Me](https://open.spotify.com/track/3dvLY6aOCjl3ufY3fykmzO) | [Karen Rosenberg](https://open.spotify.com/artist/7oJ7DWbjYx4lzl9ysPfQ77) | [Behind Me](https://open.spotify.com/album/5Vskn4NaSK6MfLoUm6PawW) | 6:20 | 2022-02-18 | 2022-07-29 |
 | [Behind Me](https://open.spotify.com/track/6aIVqjNgXQuRAVNh3altlq) | [Karen Rosenberg](https://open.spotify.com/artist/7oJ7DWbjYx4lzl9ysPfQ77) | [Same Soul](https://open.spotify.com/album/2jHSlpoC38GtuXY3xwLRng) | 6:20 | 2022-07-14 | 2022-09-01 |
 | [Bewitched, Bothered and Bewildered](https://open.spotify.com/track/0m4Ka878HsCzbypCAxLQWG) | [Doris Day](https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6) | [The Essential Doris Day](https://open.spotify.com/album/747z8vJ5eFQPqeQ2Xtvn31) | 2:41 | 2022-01-20 |  |
-| [Black Coffee](https://open.spotify.com/track/3jqy4CSWyFSze9NNKRaBR1) | [Live Foyn Friis](https://open.spotify.com/artist/4dZ1woIhLE3Y92MRKhr8af), [Bård Helgerud](https://open.spotify.com/artist/2GMYgVdLfQj8frPJDRLkvh), [Rodrigo Villagra](https://open.spotify.com/artist/0RgfOjYOuHTiBygi9BwAzv), [Magnus Sefaniassen Eide](https://open.spotify.com/artist/6S5pM5PQo4Z7dv6xUE8Ahw) | [Live Sings Sassy](https://open.spotify.com/album/1iimKeyogFlVxDgnrpaKTr) | 6:33 | 2022-03-17 |  |
+| [Black Coffee](https://open.spotify.com/track/3jqy4CSWyFSze9NNKRaBR1) | [Live Foyn Friis](https://open.spotify.com/artist/4dZ1woIhLE3Y92MRKhr8af), [Bård Helgerud](https://open.spotify.com/artist/2GMYgVdLfQj8frPJDRLkvh), [Rodrigo Villagra](https://open.spotify.com/artist/0RgfOjYOuHTiBygi9BwAzv), [Magnus Sefaniassen Eide](https://open.spotify.com/artist/6S5pM5PQo4Z7dv6xUE8Ahw) | [Live Sings Sassy](https://open.spotify.com/album/1iimKeyogFlVxDgnrpaKTr) | 6:33 | 2022-03-17 | 2022-09-09 |
 | [Black Water](https://open.spotify.com/track/4R9PjSTAMvzLxCMw2m7Hqq) | [Benjamin Koppel](https://open.spotify.com/artist/6rSihViB4AAFhVp45EKGbY) | [Anna's Dollhouse](https://open.spotify.com/album/2pTZXDcFJkdfvqaUz9GcsF) | 10:16 | 2022-06-14 |  |
 | [Blame It On My Youth](https://open.spotify.com/track/1eWkhs5WbRc8q4s2xtKuRL) | [Kurt Elling](https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61) | [Flirting With Twilight](https://open.spotify.com/album/29To8wt9d5MB8JWsq0XYum) | 3:27 | 2022-02-10 |  |
 | [Blame It On My Youth \(with Paul Weston & His Orchestra\)](https://open.spotify.com/track/3M6oAV6Mc88W9mQsVYyEIF) | [Rosemary Clooney](https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK), [Paul Weston And His Orchestra](https://open.spotify.com/artist/3EVyH5tLgdq62aXTdKfzey) | [The Essential Rosemary Clooney](https://open.spotify.com/album/6IIfhQA1oHBvHGJQZnbXfP) | 3:39 | 2022-01-20 |  |
@@ -182,11 +182,12 @@
 | [Night Light](https://open.spotify.com/track/5TKbqeJxocoYASpXQCibS5) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/3t4SFDwWJlt7A3RQS2YT1c) | 4:02 | 2022-08-29 |  |
 | [Nightjar in the Northern Sky](https://open.spotify.com/track/3Lm4Il6xzIbfZ0XmneRCRA) | [Anna Gréta](https://open.spotify.com/artist/43v3iVtLSHdfUAYkjB4Geh) | [Nightjar in the Northern Sky](https://open.spotify.com/album/0r36MHOZz9hrzGQF6m6Ylr) | 4:47 | 2022-01-20 | 2022-07-29 |
 | [Nightjar in the Northern Sky](https://open.spotify.com/track/5fCsD2cRqXf0q5JAGTrmez) | [Anna Gréta](https://open.spotify.com/artist/43v3iVtLSHdfUAYkjB4Geh) | [Nightjar in the Northern Sky](https://open.spotify.com/album/5xFn6wFCZJ3DTJwzEzaFEV) | 4:47 | 2022-07-14 |  |
-| [No Moon At All](https://open.spotify.com/track/77FX7ZQDJS9p3UXqbDjPla) | [Seth MacFarlane](https://open.spotify.com/artist/79D4dipwR6scV8AN3dm7gW) | [No Moon At All](https://open.spotify.com/album/3NIF6YboNWu75Dg1FWr3y2) | 2:22 | 2022-04-22 |  |
+| [No Moon At All](https://open.spotify.com/track/77FX7ZQDJS9p3UXqbDjPla) | [Seth MacFarlane](https://open.spotify.com/artist/79D4dipwR6scV8AN3dm7gW) | [No Moon At All](https://open.spotify.com/album/3NIF6YboNWu75Dg1FWr3y2) | 2:22 | 2022-04-22 | 2022-09-09 |
 | [No More Blues](https://open.spotify.com/track/4iyqobj3767rBvX0bHxEfL) | [Sophie Milman](https://open.spotify.com/artist/19GI8I4UhSpBl8Y9XpKyT4) | [Her Very Best So Far](https://open.spotify.com/album/769kAlgamFR5WMLGMfoHio) | 4:22 | 2022-01-20 |  |
 | [November Twilight](https://open.spotify.com/track/1A0IKMO2VXftxqHDe3gigM) | [Julie London](https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m) | [Calendar Girl](https://open.spotify.com/album/17tLyn0tBCYOeKZC2iaFRE) | 3:22 | 2022-01-20 |  |
 | [Old Love and New](https://open.spotify.com/track/74ma44w5wGAx3cGlLSVC7x) | [Ulita Knaus](https://open.spotify.com/artist/7kvydoOIVHwhieI8oLrRmT) | [Old Love and New](https://open.spotify.com/album/435DJSlvexja6r2st5AjJ6) | 4:13 | 2022-04-14 | 2022-07-29 |
 | [One Step Ahead](https://open.spotify.com/track/2wZTxjnKdOpgPLi85ItFlr) | [Cécile McLorin Salvant](https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn) | [The Window](https://open.spotify.com/album/2XClSOjimwtkeWYPo53mHG) | 2:09 | 2022-01-20 |  |
+| [Our Love Will Always Be There](https://open.spotify.com/track/7aX4JxBER6j1OaMMOOfW1m) | [Diane Schuur](https://open.spotify.com/artist/3YowTUlFJJA6E5Yd67GZNv) | [Midnight](https://open.spotify.com/album/1h6FCpMolvagTQpoj9hlO9) | 3:30 | 2022-09-08 |  |
 | [Over the Rainbow](https://open.spotify.com/track/62PwrwqemhBCzMU5lDOnuq) | [Johnny Mathis](https://open.spotify.com/artist/21LGsW7bziR4Ledx7WZ1Wf) | [Isn't it Romantic: The Standards Album](https://open.spotify.com/album/6cq5jK4AJC91XA0UbqU1wt) | 4:52 | 2022-01-20 |  |
 | [Pearls](https://open.spotify.com/track/6ys3DgHClE8mCa4sRx8yDQ) | [Kandace Springs](https://open.spotify.com/artist/19j0iFmJ5A6CMT0MVZZU4O), [Avishai Cohen](https://open.spotify.com/artist/1RcZLbtdGVQwn9x6kO6CXp) | [The Women Who Raised Me](https://open.spotify.com/album/2g6J9bq2p9cRxMoBEldSEF) | 4:44 | 2022-01-20 |  |
 | [Petite fleur](https://open.spotify.com/track/7ApzpAfIlpozCxv8bA1O0U) | [Thomas Dutronc](https://open.spotify.com/artist/6ADpAfFsO5dJadJoBKv3nz) | [Frenchy](https://open.spotify.com/album/33aacw53MZVyxjzjqxcs9o) | 4:12 | 2022-01-20 |  |

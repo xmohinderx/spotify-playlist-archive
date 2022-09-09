@@ -2,7 +2,7 @@
 
 ### [EQUAL: Jazz](https://open.spotify.com/playlist/37i9dQZF1DX5OepaGriAIm)
 
-> Trace the history of jazz from timeless classics to boundary\-breaking contemporary favorites\. Cover: Diana Krall
+> Trace the history of Jazz from timeless classics to boundary\-breaking contemporary favorites from the women of Jazz\. Cover: Diana Krall
 
 166 songs - 11 hr 59 min - [published](https://open.spotify.com/playlist/1MEL3p6LpkU53j4atRB7b3)
 

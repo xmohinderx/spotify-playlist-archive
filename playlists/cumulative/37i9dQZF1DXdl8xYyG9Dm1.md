@@ -4,7 +4,7 @@
 
 > The latest straight bars and Afro\-Trap\. Cover:  <a href="https://open.spotify.com/artist/0obuUG86gXYcMtRMNKaYKL?si=azpECZvcTeudnkK3WpCBxQ"> M.I\. Abaga </a>
 
-126 songs - 6 hr 46 min - [published](https://open.spotify.com/playlist/6lFDRmAzLffN6r39zEBvaL)
+127 songs - 6 hr 50 min - [published](https://open.spotify.com/playlist/6lFDRmAzLffN6r39zEBvaL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Coachella](https://open.spotify.com/track/7x4yCout42C0B7GDBN2VNR) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [Coachella](https://open.spotify.com/album/0pR0ivVxPWH03hRgsNJMuh) | 3:05 | 2021-10-14 |  |
 | [Culture](https://open.spotify.com/track/57o2d5ejkTbNMrgoraDkOJ) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL) | [Culture](https://open.spotify.com/album/20rCv5TASuxaLAgd8Icw1V) | 3:28 | 2022-03-11 |  |
 | [Dangerous](https://open.spotify.com/track/71ozkaqkgsWV2aUl7zYHty) | [Kofi Jamar](https://open.spotify.com/artist/79KG6wqJDA2rLXbAwmtNgK), [Khaligraph Jones](https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az) | [Dangerous](https://open.spotify.com/album/6qPd7nTNkXx4VhmgryxRVH) | 4:51 | 2022-06-30 |  |
-| [danser](https://open.spotify.com/track/576lLNRA4HnejTI5Q0c3zd) | [mwami](https://open.spotify.com/artist/0efcioCBRBzfxRC6Ax0zXq) | [danser](https://open.spotify.com/album/2fmRDcnFbSR2T9oxDVcXPw) | 2:24 | 2022-02-17 |  |
+| [danser](https://open.spotify.com/track/576lLNRA4HnejTI5Q0c3zd) | [mwami](https://open.spotify.com/artist/0efcioCBRBzfxRC6Ax0zXq) | [danser](https://open.spotify.com/album/2fmRDcnFbSR2T9oxDVcXPw) | 2:24 | 2022-02-17 | 2022-09-09 |
 | [David](https://open.spotify.com/track/04C965GjVjZ5QkqpykklEB) | [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [B4Now](https://open.spotify.com/album/0n3oKXQQknEwbBywUgiBzp) | 3:52 | 2021-10-14 | 2022-05-06 |
 | [Deposit](https://open.spotify.com/track/4HtPflwFZLKZrP3sUgWhuw) | [BabyDaiz](https://open.spotify.com/artist/75ffkjzl2yQm2wRvP5QL4s) | ["EHH Baby" The Big Bang Theory](https://open.spotify.com/album/06obGxxDKWf1Y7KqSILWIo) | 2:08 | 2022-05-12 | 2022-06-10 |
 | [DRK SKN](https://open.spotify.com/track/15LjBARGx20a8qAiNF4T0H) | [Teezee](https://open.spotify.com/artist/6qgNjbWXJ9mbqKwznBLj5B), [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11), [BackRoad Gee](https://open.spotify.com/artist/51op6E2hjkeutwFhgw32mL) | [Arrested by Love](https://open.spotify.com/album/0zejTpsTCCZlAHUfdHyDQ8) | 3:01 | 2022-02-17 | 2022-05-13 |
@@ -69,6 +69,7 @@
 | [La Vida](https://open.spotify.com/track/5JwjfDu3lSEnetsqeGbwFf) | [M.anifest](https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX) | [La Vida](https://open.spotify.com/album/0rtt0wrH2eoFLLg3WO8GIF) | 2:50 | 2021-10-14 | 2022-08-16 |
 | [Lane](https://open.spotify.com/track/17DG8UuM9rZpVnz44aJYpG) | [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Powers Pleasant](https://open.spotify.com/artist/0fYw4bch7qTxBZLS3rSVMj) | [Lane](https://open.spotify.com/album/3PMdJrGUZTY3ruBIQiFlPH) | 2:42 | 2022-04-28 | 2022-07-01 |
 | [Lazarus \(feat\. Boj\)](https://open.spotify.com/track/4wvnXoQqjIOoEis5eyTbCl) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW) | [We're All Alone In This Together](https://open.spotify.com/album/6HwzIlrCDq3WF9vMq8meqG) | 3:24 | 2021-10-14 |  |
+| [Let Me Be Great \[Feat\. Angélique Kidjo\]](https://open.spotify.com/track/7sXjwoCydLIZlJ1WpIyh9J) | [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [As Above, So Below](https://open.spotify.com/album/3QBYDADSp9ca7yNWL4hGzu) | 3:54 | 2022-09-08 |  |
 | [LiFT ME UP](https://open.spotify.com/track/6wESd7UAIYQezagahRvgXR) | [Zoocci Coke Dope](https://open.spotify.com/artist/6nScSYRb9Qy2b6HJpDtm4w), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [ANXIETY+](https://open.spotify.com/album/7dxx181PWmsSWdb59f4upZ) | 5:32 | 2022-02-24 |  |
 | [Link Up](https://open.spotify.com/track/0CKZ0eCTKaaJh1vQjO27fC) | [Muthoni Drummer Queen](https://open.spotify.com/artist/2FzYw9fn2ZtQ7sZma5BxuB) | [River](https://open.spotify.com/album/7ah9Tdf9Mmyiop59znBjKD) | 3:19 | 2021-11-18 | 2022-06-10 |
 | [Long Way from Home](https://open.spotify.com/track/5LKZgS3FWI3WHDZFiOEHvA) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr), [Azanti](https://open.spotify.com/artist/72JYdP98St11Hga6yN2PGl) | [Yp & Azanti, Vol\. 1](https://open.spotify.com/album/3jGDqC1uXfkg4hKyfGzzoK) | 3:01 | 2021-10-14 |  |

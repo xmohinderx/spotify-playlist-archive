@@ -4,7 +4,7 @@
 
 > Instrumental beats from Hip\-Hop's hey day; to help you study, work and vibe.
 
-57 songs - 3 hr 5 min - [published](https://open.spotify.com/playlist/6CSS7RARjkDOfGavjcxjur)
+58 songs - 3 hr 7 min - [published](https://open.spotify.com/playlist/6CSS7RARjkDOfGavjcxjur)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [The Séance \- Instrumental](https://open.spotify.com/track/2JqOJbANu4zJE149XDrdgk) | [SoulChef](https://open.spotify.com/artist/7rdiGVXL2fFyONexHzfKFS) | [The Séance \(Instrumental\)](https://open.spotify.com/album/4BC0OA44H4xddFtIEuCv0R) | 2:47 | 2022-07-22 |  |
 | [Therzea](https://open.spotify.com/track/79stCffEHFel5pekrddLj2) | [Milo Fries](https://open.spotify.com/artist/6cgYbw5pf0WpoBED5N0pLb) | [Therzea](https://open.spotify.com/album/2RrVbRuRhmiAfhGc6v3jHl) | 1:58 | 2022-07-22 |  |
 | [They Reminisce over You \(T.R.O.Y.\) \- Instrumental Version](https://open.spotify.com/track/43xTZyymelwrlbR8EZXxaf) | [Pete Rock & C.L\. Smooth](https://open.spotify.com/artist/3fJ60AcIgLzQkVitEvA7uq) | [Mecca And The Soul Brother \(Deluxe Edition\)](https://open.spotify.com/album/77diZY4or3uhHjnXS6TCPo) | 4:56 | 2022-07-22 |  |
+| [Till the Sun Comes Up](https://open.spotify.com/track/1m0KLCmVeh5kWxcEC9fuIL) | [Sepalot](https://open.spotify.com/artist/3sZWrl2jYnPP1vw9cIqDZV) | [Till the Sun Comes Up](https://open.spotify.com/album/0pienniFn3oZcgJoSD7eRF) | 1:57 | 2022-09-09 |  |
 | [Time's Up \- Remix Instrumental](https://open.spotify.com/track/5yKA1w7RuOwQFbcve0Iukj) | [O.C.](https://open.spotify.com/artist/5XI6qfoZSiEYtmItjfEX1Q) | [Word...Life \(Deluxe Edition\)](https://open.spotify.com/album/3UwGJNvu2bAzjxx25GlqA5) | 3:33 | 2022-07-22 |  |
 | [Travellin' Man \(Instrumental\)](https://open.spotify.com/track/5GVTLWtI6oJYYHeuxKjfPO) | [dj honda](https://open.spotify.com/artist/7mrvU3OShTgthJV80o2day) | [Travellin' Man \(Remastered\)](https://open.spotify.com/album/4HSWIy1jgNMLKxZkmiAP34) | 5:16 | 2022-07-22 |  |
 | [Tried by 12 \(Instrumental\)](https://open.spotify.com/track/3vIqoLnL7Y20z3ityk8h5i) | [The East Flatbush Project](https://open.spotify.com/artist/4BjbptmmVOKOYPTKivxmWp) | [First Born](https://open.spotify.com/album/2mtaatiOutLFEB0UlvAZse) | 2:54 | 2022-07-22 | 2022-08-13 |

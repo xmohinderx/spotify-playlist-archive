@@ -1,12 +1,12 @@
 {
   "description": "Vibraciones rastafari en espa\u00f1ol. Foto: Los Cafres",
-  "num_followers": 1202620,
+  "num_followers": 1202811,
   "original_name": "Reggae en Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDc1NzE3MiwwMDAwMDAwMGE0N2VmNzBiYzA4Njc1Yjk2MTgyMTFlNmVlZDU1ZDEw",
+  "snapshot_id": "MTY2MDc1NzE3MiwwMDAwMDAwMDA1OWRhYmNlNTkxYzU5NzJkOTAxYzJlZDYxZGNlYmZk",
   "tracks": [
     {
       "added_at": "2022-08-17 17:26:12",
@@ -667,26 +667,6 @@
     {
       "added_at": "2022-08-17 17:26:12",
       "album": {
-        "name": "3000 Vivos (En Vivo)",
-        "url": "https://open.spotify.com/album/7G7RCFtdv9cTAmOijHn0j1"
-      },
-      "artists": [
-        {
-          "name": "Los Pericos",
-          "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
-        },
-        {
-          "name": "MAGIC!",
-          "url": "https://open.spotify.com/artist/0DxeaLnv6SyYk2DOqkLO8c"
-        }
-      ],
-      "duration_ms": 269013,
-      "name": "Waitin (En Vivo) (feat. MAGIC!)",
-      "url": "https://open.spotify.com/track/2wwp7vBI2TUGhIbwa3GBSH"
-    },
-    {
-      "added_at": "2022-08-17 17:26:12",
-      "album": {
         "name": "Pupilas Lejanas",
         "url": "https://open.spotify.com/album/00vEFgnSrsj2EaiL9L06Cn"
       },
@@ -707,18 +687,22 @@
     {
       "added_at": "2022-08-17 17:26:12",
       "album": {
-        "name": "Buenos Dias Beb\u00e9",
-        "url": "https://open.spotify.com/album/7GBQ9TY855quKaacVc7yZD"
+        "name": "3000 Vivos (En Vivo)",
+        "url": "https://open.spotify.com/album/7G7RCFtdv9cTAmOijHn0j1"
       },
       "artists": [
         {
-          "name": "\u00d1ejo",
-          "url": "https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o"
+          "name": "Los Pericos",
+          "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
+        },
+        {
+          "name": "MAGIC!",
+          "url": "https://open.spotify.com/artist/0DxeaLnv6SyYk2DOqkLO8c"
         }
       ],
-      "duration_ms": 216421,
-      "name": "Buenos Dias Beb\u00e9",
-      "url": "https://open.spotify.com/track/2Ge5hEIr8Q45XXyFY5X3pp"
+      "duration_ms": 269013,
+      "name": "Waitin (En Vivo) (feat. MAGIC!)",
+      "url": "https://open.spotify.com/track/2wwp7vBI2TUGhIbwa3GBSH"
     },
     {
       "added_at": "2022-08-17 17:26:12",
@@ -735,6 +719,22 @@
       "duration_ms": 305813,
       "name": "Sal a Caminar",
       "url": "https://open.spotify.com/track/2dXRqnBkwkr44oKvvNdeaZ"
+    },
+    {
+      "added_at": "2022-08-17 17:26:12",
+      "album": {
+        "name": "Buenos Dias Beb\u00e9",
+        "url": "https://open.spotify.com/album/7GBQ9TY855quKaacVc7yZD"
+      },
+      "artists": [
+        {
+          "name": "\u00d1ejo",
+          "url": "https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o"
+        }
+      ],
+      "duration_ms": 216421,
+      "name": "Buenos Dias Beb\u00e9",
+      "url": "https://open.spotify.com/track/2Ge5hEIr8Q45XXyFY5X3pp"
     },
     {
       "added_at": "2022-08-17 17:26:12",
@@ -839,22 +839,6 @@
     {
       "added_at": "2022-08-17 17:26:12",
       "album": {
-        "name": "La Playa",
-        "url": "https://open.spotify.com/album/0LZXfPCtqnaP9y4KsOMSWV"
-      },
-      "artists": [
-        {
-          "name": "Alkilados",
-          "url": "https://open.spotify.com/artist/2DP9xStkVVv753RBiEHXQB"
-        }
-      ],
-      "duration_ms": 196164,
-      "name": "La Playa",
-      "url": "https://open.spotify.com/track/0VFp2NOB2gUYtD1raVIFir"
-    },
-    {
-      "added_at": "2022-08-17 17:26:12",
-      "album": {
         "name": "Un Lustro Inyectando Ruido Positivo",
         "url": "https://open.spotify.com/album/0s4taGK6d9cAPwxPLpnj4N"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 390173,
       "name": "Juego a Muerte",
       "url": "https://open.spotify.com/track/1WHzxJ7MJQbceBJs5J4M0u"
+    },
+    {
+      "added_at": "2022-08-17 17:26:12",
+      "album": {
+        "name": "La Playa",
+        "url": "https://open.spotify.com/album/0LZXfPCtqnaP9y4KsOMSWV"
+      },
+      "artists": [
+        {
+          "name": "Alkilados",
+          "url": "https://open.spotify.com/artist/2DP9xStkVVv753RBiEHXQB"
+        }
+      ],
+      "duration_ms": 196164,
+      "name": "La Playa",
+      "url": "https://open.spotify.com/track/0VFp2NOB2gUYtD1raVIFir"
     },
     {
       "added_at": "2022-08-17 17:26:12",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2022-08-17 17:26:12",
       "album": {
-        "name": "Sin Fronteras",
-        "url": "https://open.spotify.com/album/4mAVKOe8vgXZf8Yyzfetqz"
-      },
-      "artists": [
-        {
-          "name": "Sergent Garcia",
-          "url": "https://open.spotify.com/artist/6FaSJ1FXpb5QxKu77LPiZr"
-        }
-      ],
-      "duration_ms": 456933,
-      "name": "Los desaparecidos",
-      "url": "https://open.spotify.com/track/5kRPQMhi3LaYuDVy4DPi3b"
-    },
-    {
-      "added_at": "2022-08-17 17:26:12",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0zewwoQ6hQkcgpl29PXCA8"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 307856,
       "name": "Hasta la Noche (Ilegal)",
       "url": "https://open.spotify.com/track/4xxlqEaJ1x84t8Ihvpl24X"
+    },
+    {
+      "added_at": "2022-08-17 17:26:12",
+      "album": {
+        "name": "Sin Fronteras",
+        "url": "https://open.spotify.com/album/4mAVKOe8vgXZf8Yyzfetqz"
+      },
+      "artists": [
+        {
+          "name": "Sergent Garcia",
+          "url": "https://open.spotify.com/artist/6FaSJ1FXpb5QxKu77LPiZr"
+        }
+      ],
+      "duration_ms": 456933,
+      "name": "Los desaparecidos",
+      "url": "https://open.spotify.com/track/5kRPQMhi3LaYuDVy4DPi3b"
     },
     {
       "added_at": "2022-08-17 17:26:12",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2022-08-17 17:26:12",
       "album": {
+        "name": "Sobrevolando",
+        "url": "https://open.spotify.com/album/3rCmFIVWG9ktkGhKNcZnli"
+      },
+      "artists": [
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        }
+      ],
+      "duration_ms": 308756,
+      "name": "Love and Happiness",
+      "url": "https://open.spotify.com/track/2Q4iDZrwPmn5aEqWFYyPR2"
+    },
+    {
+      "added_at": "2022-08-17 17:26:12",
+      "album": {
         "name": "Celebration (feat. Ky-Mani Marley)",
         "url": "https://open.spotify.com/album/6FoYHPXjjZKXolsGXwC51E"
       },
@@ -1271,22 +1287,6 @@
       "duration_ms": 227439,
       "name": "Vuela Alto",
       "url": "https://open.spotify.com/track/3k1c9kbmwpOcZGThO2grO7"
-    },
-    {
-      "added_at": "2022-08-17 17:26:12",
-      "album": {
-        "name": "Sobrevolando",
-        "url": "https://open.spotify.com/album/3rCmFIVWG9ktkGhKNcZnli"
-      },
-      "artists": [
-        {
-          "name": "Cultura Prof\u00e9tica",
-          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
-        }
-      ],
-      "duration_ms": 308756,
-      "name": "Love and Happiness",
-      "url": "https://open.spotify.com/track/2Q4iDZrwPmn5aEqWFYyPR2"
     },
     {
       "added_at": "2022-08-17 17:26:12",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2022-08-17 17:26:12",
       "album": {
-        "name": "Gimnasia para Momias",
-        "url": "https://open.spotify.com/album/2EVg66yi0c83l2vTXlkvWG"
-      },
-      "artists": [
-        {
-          "name": "La Floripondio",
-          "url": "https://open.spotify.com/artist/73Vk4dL8kYkbRJxWJDq1wL"
-        }
-      ],
-      "duration_ms": 337857,
-      "name": "Y Es de D\u00eda",
-      "url": "https://open.spotify.com/track/0HmHM4okbHIvtPTns9FhcW"
-    },
-    {
-      "added_at": "2022-08-17 17:26:12",
-      "album": {
         "name": "Fotos\u00edntesis",
         "url": "https://open.spotify.com/album/3VppSFRLWDea4KZmSs80HQ"
       },
@@ -1395,18 +1379,18 @@
     {
       "added_at": "2022-08-17 17:26:12",
       "album": {
-        "name": "MIL Canciones",
-        "url": "https://open.spotify.com/album/6zjahAclu3UUidDuggIIMJ"
+        "name": "Gimnasia para Momias",
+        "url": "https://open.spotify.com/album/2EVg66yi0c83l2vTXlkvWG"
       },
       "artists": [
         {
-          "name": "Quique Neira",
-          "url": "https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe"
+          "name": "La Floripondio",
+          "url": "https://open.spotify.com/artist/73Vk4dL8kYkbRJxWJDq1wL"
         }
       ],
-      "duration_ms": 211680,
-      "name": "Sin Ti (feat. Quique Neira)",
-      "url": "https://open.spotify.com/track/6209QxIqPJxYsO64iVYRpi"
+      "duration_ms": 337857,
+      "name": "Y Es de D\u00eda",
+      "url": "https://open.spotify.com/track/0HmHM4okbHIvtPTns9FhcW"
     },
     {
       "added_at": "2022-08-17 17:26:12",
@@ -1423,6 +1407,22 @@
       "duration_ms": 220565,
       "name": "Tu Amor",
       "url": "https://open.spotify.com/track/7AZWaDN04T6TQY4dJR8M5A"
+    },
+    {
+      "added_at": "2022-08-17 17:26:12",
+      "album": {
+        "name": "MIL Canciones",
+        "url": "https://open.spotify.com/album/6zjahAclu3UUidDuggIIMJ"
+      },
+      "artists": [
+        {
+          "name": "Quique Neira",
+          "url": "https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe"
+        }
+      ],
+      "duration_ms": 211680,
+      "name": "Sin Ti (feat. Quique Neira)",
+      "url": "https://open.spotify.com/track/6209QxIqPJxYsO64iVYRpi"
     },
     {
       "added_at": "2022-08-17 17:26:12",
@@ -1555,38 +1555,6 @@
     {
       "added_at": "2022-08-17 17:26:12",
       "album": {
-        "name": "Neigborhood Rules",
-        "url": "https://open.spotify.com/album/2JyFsrq6OkrfH0mBRRYAiu"
-      },
-      "artists": [
-        {
-          "name": "Hugo Lobo",
-          "url": "https://open.spotify.com/artist/50UQHipbWWMFQiT6DZYvHN"
-        }
-      ],
-      "duration_ms": 232342,
-      "name": "Laba Laba Craven",
-      "url": "https://open.spotify.com/track/3hd9TlZsdqhnzdndCbT1Kz"
-    },
-    {
-      "added_at": "2022-08-17 17:26:12",
-      "album": {
-        "name": "Ruge",
-        "url": "https://open.spotify.com/album/05KcuSthgbWCRQkV8liSvJ"
-      },
-      "artists": [
-        {
-          "name": "Spiritual Reggae Band",
-          "url": "https://open.spotify.com/artist/1NsI01VINwVZh1Au2lfbAS"
-        }
-      ],
-      "duration_ms": 243226,
-      "name": "Mi Ni\u00f1a",
-      "url": "https://open.spotify.com/track/32dbDZjc45fBUUFaSU3DMg"
-    },
-    {
-      "added_at": "2022-08-17 17:26:12",
-      "album": {
         "name": "Esfuerzo Universal",
         "url": "https://open.spotify.com/album/0Kw6qKktEcAe5gzLrFd9au"
       },
@@ -1599,6 +1567,22 @@
       "duration_ms": 292453,
       "name": "Whatta Life",
       "url": "https://open.spotify.com/track/3zKsf9udDfKsu4bv7v8HaO"
+    },
+    {
+      "added_at": "2022-08-17 17:26:12",
+      "album": {
+        "name": "Neigborhood Rules",
+        "url": "https://open.spotify.com/album/2JyFsrq6OkrfH0mBRRYAiu"
+      },
+      "artists": [
+        {
+          "name": "Hugo Lobo",
+          "url": "https://open.spotify.com/artist/50UQHipbWWMFQiT6DZYvHN"
+        }
+      ],
+      "duration_ms": 232342,
+      "name": "Laba Laba Craven",
+      "url": "https://open.spotify.com/track/3hd9TlZsdqhnzdndCbT1Kz"
     },
     {
       "added_at": "2022-08-17 17:26:12",
@@ -1619,6 +1603,22 @@
       "duration_ms": 150422,
       "name": "Ready",
       "url": "https://open.spotify.com/track/105s2PTUiEcGtKsL1rl0Fl"
+    },
+    {
+      "added_at": "2022-08-17 17:26:12",
+      "album": {
+        "name": "Ruge",
+        "url": "https://open.spotify.com/album/05KcuSthgbWCRQkV8liSvJ"
+      },
+      "artists": [
+        {
+          "name": "Spiritual Reggae Band",
+          "url": "https://open.spotify.com/artist/1NsI01VINwVZh1Au2lfbAS"
+        }
+      ],
+      "duration_ms": 243226,
+      "name": "Mi Ni\u00f1a",
+      "url": "https://open.spotify.com/track/32dbDZjc45fBUUFaSU3DMg"
     },
     {
       "added_at": "2022-08-17 17:26:12",
@@ -1663,42 +1663,6 @@
     {
       "added_at": "2022-08-17 17:26:12",
       "album": {
-        "name": "Carpe Diem",
-        "url": "https://open.spotify.com/album/0hjSy3tFI2uK4RcppyNASu"
-      },
-      "artists": [
-        {
-          "name": "Gondwana",
-          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
-        }
-      ],
-      "duration_ms": 259283,
-      "name": "Quemando Tu Pecho",
-      "url": "https://open.spotify.com/track/5MRAyyeWEQvcsf9BdruIIY"
-    },
-    {
-      "added_at": "2022-08-17 17:26:12",
-      "album": {
-        "name": "All Night Long",
-        "url": "https://open.spotify.com/album/2PuKW3LCrVlfbIY1u4RoMe"
-      },
-      "artists": [
-        {
-          "name": "Pachyman",
-          "url": "https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l"
-        },
-        {
-          "name": "Winter",
-          "url": "https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl"
-        }
-      ],
-      "duration_ms": 260156,
-      "name": "All Night Long",
-      "url": "https://open.spotify.com/track/4hgda2zsC0CPHtxT55FJho"
-    },
-    {
-      "added_at": "2022-08-17 17:26:12",
-      "album": {
         "name": "Mira Bien",
         "url": "https://open.spotify.com/album/1dGNnwFx3AGB9cl38NQjf3"
       },
@@ -1735,18 +1699,54 @@
     {
       "added_at": "2022-08-17 17:26:12",
       "album": {
-        "name": "Cuando Calienta el Sol",
-        "url": "https://open.spotify.com/album/6rBa4gSULADkrlMhfRAM8o"
+        "name": "Carpe Diem",
+        "url": "https://open.spotify.com/album/0hjSy3tFI2uK4RcppyNASu"
       },
       "artists": [
         {
-          "name": "Dos Garza",
-          "url": "https://open.spotify.com/artist/7zsTwOXAbIeL7H8hJXgLt8"
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
         }
       ],
-      "duration_ms": 141334,
-      "name": "Cuando Calienta el Sol",
-      "url": "https://open.spotify.com/track/0B6i8rjZIiScILFxfA638l"
+      "duration_ms": 259283,
+      "name": "Quemando Tu Pecho",
+      "url": "https://open.spotify.com/track/5MRAyyeWEQvcsf9BdruIIY"
+    },
+    {
+      "added_at": "2022-08-17 17:26:12",
+      "album": {
+        "name": "All Night Long",
+        "url": "https://open.spotify.com/album/2PuKW3LCrVlfbIY1u4RoMe"
+      },
+      "artists": [
+        {
+          "name": "Pachyman",
+          "url": "https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l"
+        },
+        {
+          "name": "Winter",
+          "url": "https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl"
+        }
+      ],
+      "duration_ms": 260156,
+      "name": "All Night Long",
+      "url": "https://open.spotify.com/track/4hgda2zsC0CPHtxT55FJho"
+    },
+    {
+      "added_at": "2022-08-17 17:26:12",
+      "album": {
+        "name": "Esfuerzo Universal",
+        "url": "https://open.spotify.com/album/0Kw6qKktEcAe5gzLrFd9au"
+      },
+      "artists": [
+        {
+          "name": "Antidoping",
+          "url": "https://open.spotify.com/artist/3gNRdx3DyEnckHDCmVwwnY"
+        }
+      ],
+      "duration_ms": 382333,
+      "name": "Medicina",
+      "url": "https://open.spotify.com/track/4zRbnZkeN4TNBJgGcTDMqG"
     }
   ],
   "unique_name": "Reggae en Espa\u00f1ol",

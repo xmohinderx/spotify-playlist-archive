@@ -4,7 +4,7 @@
 
 > Feel\-good <a href="spotify:genre:edm\_dance">dance music</a>!
 
-283 songs - 15 hr 10 min - [published](https://open.spotify.com/playlist/4dBUFd3W9UPSAiQUVToAFF)
+284 songs - 15 hr 12 min - [published](https://open.spotify.com/playlist/4dBUFd3W9UPSAiQUVToAFF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,7 +140,7 @@
 | [Joy](https://open.spotify.com/track/17E3lZxFJnO49Gb0tdgVn0) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [Joy](https://open.spotify.com/album/76GgZZUHQu2VQRLMXEIQcL) | 4:41 | 2022-01-07 |  |
 | [Just Can't Get Enough](https://open.spotify.com/track/2SlZsV3sXc69uhUNBQNgkD) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Just Can't Get Enough](https://open.spotify.com/album/4ZAfYKXDMGE7FJEMFGNbmu) | 5:03 | 2022-07-22 |  |
 | [Just Sayin'](https://open.spotify.com/track/3iEdgCfsmUIRWDuW7PMLCL) | [MAKJ](https://open.spotify.com/artist/3PtCud9dIdOv4exrzdZZ1C), [Madds](https://open.spotify.com/artist/0Bdyam7rtOjqj4m1PfpeUy), [Mila Jam](https://open.spotify.com/artist/6m7wJXzvVyE0j6eef6pj1a) | [Just Sayin'](https://open.spotify.com/album/7qP5OmCyxU9ETMaadj2h9x) | 3:18 | 2021-12-03 | 2022-01-08 |
-| [Keep On Rising](https://open.spotify.com/track/5EO3XfmUHzdeGq3XCue8YP) | [Big Gigantic](https://open.spotify.com/artist/7o7mC95EDbJKTcPAAs8C3r), [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Keep On Rising](https://open.spotify.com/album/26qaW7TcD4ktLQztHU3pda) | 3:27 | 2022-04-29 |  |
+| [Keep On Rising](https://open.spotify.com/track/5EO3XfmUHzdeGq3XCue8YP) | [Big Gigantic](https://open.spotify.com/artist/7o7mC95EDbJKTcPAAs8C3r), [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Keep On Rising](https://open.spotify.com/album/26qaW7TcD4ktLQztHU3pda) | 3:27 | 2022-04-29 | 2022-09-09 |
 | [Kingdom](https://open.spotify.com/track/7mYp88qI0fTKLWr93vHTJM) | [ARTY](https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO), [Conrad Sewell](https://open.spotify.com/artist/1rw8ZTLnDHd74TWDDukjVi) | [Kingdom](https://open.spotify.com/album/7vYDaAmX76hkgdwuWyGga2) | 4:00 | 2021-12-03 | 2022-01-08 |
 | [Kingdoms](https://open.spotify.com/track/1w7AnnTldbh47eNFwReiIn) | [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck), [Jay Hardway](https://open.spotify.com/artist/12SPNXi0aDpFt0rMVbmLrr) | [Kingdoms](https://open.spotify.com/album/5Mx2xEa6vEKmAhOqe1ixQY) | 2:23 | 2021-12-03 | 2022-01-08 |
 | [L.O.V.E\. \(feat\. EARTHGANG, Jon Batiste & Sherwyn\)](https://open.spotify.com/track/3h3szgXLd2FJ0WSWj8om9t) | [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU), [Sherwyn](https://open.spotify.com/artist/4cxJUMXdHetYoijH951DRV) | [L.O.V.E\. \(feat\. EARTHGANG, Jon Batiste & Sherwyn\)](https://open.spotify.com/album/3tXVxjXrXJMTBXorraiZHQ) | 2:49 | 2022-03-04 |  |
@@ -168,6 +168,7 @@
 | [Make Me Believe](https://open.spotify.com/track/57j1baIxDU1WmSHajjLb3R) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Melé](https://open.spotify.com/artist/6EZO7Baz0SIFskWTO1GHqX) | [Diplo \(Deluxe\)](https://open.spotify.com/album/6zPSpPHyyOkbT8zDy7Kzl7) | 3:12 | 2022-08-08 |  |
 | [Make Me Feel Good](https://open.spotify.com/track/4CUX44NA1CPEzd0ibMLQsL) | [Belters Only](https://open.spotify.com/artist/1H1sDUWSlytzifZTDpKgUA), [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [Make Me Feel Good](https://open.spotify.com/album/2YNIYdATkvFpTKZexocmEi) | 3:17 | 2022-01-07 |  |
 | [Malibu](https://open.spotify.com/track/5XPo15e5ICs6NvSMn44pTF) | [Virginia To Vegas](https://open.spotify.com/artist/3v9wPA58IVrX2dg6AjSPgi), [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy) | [Malibu](https://open.spotify.com/album/4l4ahZ5gAr9b0uowo6am33) | 2:28 | 2021-12-03 |  |
+| [ME WITHOUT U](https://open.spotify.com/track/6aEtOtuVYBDfR07qJm8wB3) | [Kaleena Zanders](https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK), [Party Pupils](https://open.spotify.com/artist/4F61H4lx1js4wtWfb2Rfnt) | [ME WITHOUT U](https://open.spotify.com/album/1ZiNaETb1Usa0jcYEmxfob) | 2:36 | 2022-08-26 |  |
 | [Meant To Be](https://open.spotify.com/track/7qLQVK6B2CUoulSUX62iWC) | [Matisse & Sadko](https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88) | [Meant To Be](https://open.spotify.com/album/1YOFkysSp1lvCtBazBd2E4) | 3:06 | 2021-12-03 | 2022-01-06 |
 | [Meet Again](https://open.spotify.com/track/0RBabLLjDBWUResDuvf24V) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Little Boots](https://open.spotify.com/artist/0MoXIHcFwhIWnFgBfdvQ30) | [Meet Again](https://open.spotify.com/album/1tpjTLdjuiLlokIPtN9faZ) | 3:41 | 2021-12-03 | 2022-01-08 |
 | [Miami Love](https://open.spotify.com/track/53OEYbMYlGvqnS8aOko969) | [Farius](https://open.spotify.com/artist/76hZkywgIhbcrNft5bToXZ) | [Miami Love](https://open.spotify.com/album/3PrtvErGo7CLsU59xdcyHM) | 3:36 | 2021-12-03 | 2022-01-08 |

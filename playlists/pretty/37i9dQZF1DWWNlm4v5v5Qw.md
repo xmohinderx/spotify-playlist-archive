@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlm4v5v5Qw.md) - [plain]
 
 > DMV music breaking waves\. Cover: Joony
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,477 likes - 59 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,474 likes - 59 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

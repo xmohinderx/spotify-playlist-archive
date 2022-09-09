@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Best Bollywood love songs from last 10 years. Cover- Aamir Khan & Kareena Kapoor",
+  "description": "Best Bollywood love songs from last 10 years. Cover- Arijit Singh",
   "name": "Bollywood Mush",
   "published_playlist_ids": [
     "12gsYyhSmdkqjPDElYuEed"
@@ -171,6 +171,24 @@
       "duration_ms": 184666,
       "name": "Bandeya (feat. Arijit Singh) - From \"Dil Juunglee\"",
       "url": "https://open.spotify.com/track/6gwnKOvdBKkTU4CQ7KpIAu"
+    },
+    {
+      "album": {
+        "name": "Kabir Singh",
+        "url": "https://open.spotify.com/album/3uuu6u13U0KeVQsZ3CZKK4"
+      },
+      "artists": [
+        {
+          "name": "Sachet Tandon",
+          "url": "https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG"
+        }
+      ],
+      "date_added": "2022-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 371790,
+      "name": "Bekhayali",
+      "url": "https://open.spotify.com/track/4yMbbysldl7E3WgiaugnwM"
     },
     {
       "album": {
@@ -1159,7 +1177,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 254228,
       "name": "Main Ki Karaan? (From \"Laal Singh Chaddha\")",
       "url": "https://open.spotify.com/track/0FaYl39oV2OPFGYJ6MbILr"
@@ -1708,6 +1726,24 @@
     },
     {
       "album": {
+        "name": "Kabir Singh",
+        "url": "https://open.spotify.com/album/3uuu6u13U0KeVQsZ3CZKK4"
+      },
+      "artists": [
+        {
+          "name": "Armaan Malik",
+          "url": "https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs"
+        }
+      ],
+      "date_added": "2022-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272532,
+      "name": "Pehla Pyaar",
+      "url": "https://open.spotify.com/track/0ojpEubhy4JNeVftmVuiN7"
+    },
+    {
+      "album": {
         "name": "Phir Na Aisi Raat Aayegi (From \"Laal Singh Chaddha\")",
         "url": "https://open.spotify.com/album/1BPvTganPlntQEugh30UV6"
       },
@@ -1775,6 +1811,32 @@
       "duration_ms": 243578,
       "name": "Raabta",
       "url": "https://open.spotify.com/track/6FjbAnaPRPwiP3sciEYctO"
+    },
+    {
+      "album": {
+        "name": "Shershaah (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5BLwx5IlfoWOrjJJ3i7gbK"
+      },
+      "artists": [
+        {
+          "name": "Tanishk Bagchi",
+          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
+        },
+        {
+          "name": "Jubin Nautiyal",
+          "url": "https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa"
+        },
+        {
+          "name": "Asees Kaur",
+          "url": "https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES"
+        }
+      ],
+      "date_added": "2022-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230292,
+      "name": "Raataan Lambiyan",
+      "url": "https://open.spotify.com/track/1stiSonuKkZqhI1o9nZ9MT"
     },
     {
       "album": {

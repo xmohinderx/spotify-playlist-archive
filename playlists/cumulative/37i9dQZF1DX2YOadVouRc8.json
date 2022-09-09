@@ -1490,6 +1490,28 @@
     },
     {
       "album": {
+        "name": "SLOW WINE",
+        "url": "https://open.spotify.com/album/49TepG6PsqWFNIfs7fDcjT"
+      },
+      "artists": [
+        {
+          "name": "KLY",
+          "url": "https://open.spotify.com/artist/0B6F56wObkhER2AmTNfcl3"
+        },
+        {
+          "name": "Tyler ICU",
+          "url": "https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223784,
+      "name": "SLOW WINE",
+      "url": "https://open.spotify.com/track/1JhH6S1GDhxbLMitQ9K5oM"
+    },
+    {
+      "album": {
         "name": "The Second Wave",
         "url": "https://open.spotify.com/album/2X0RCBDJankvvvaJgMUUHD"
       },

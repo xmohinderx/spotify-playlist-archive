@@ -4,7 +4,7 @@
 
 > Här hör du de bästa svenska låtarna just nu.
 
-535 songs - 1 day 4 hr 22 min - [published](https://open.spotify.com/playlist/7a7Rgh6ytRT1AxGURNfohE)
+536 songs - 1 day 4 hr 27 min - [published](https://open.spotify.com/playlist/7a7Rgh6ytRT1AxGURNfohE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -395,7 +395,7 @@
 | [Santiago](https://open.spotify.com/track/2H4wjqbzWgCKEPPdk9tPqQ) | [GAMMAL](https://open.spotify.com/artist/3O6DpqAKwn7L1KS9s9x0w5) | [Santiago](https://open.spotify.com/album/1WaSYY1PuUo1SteFBJSSJc) | 2:58 | 2022-05-12 |  |
 | [Sarah](https://open.spotify.com/track/21xzvjoTUhKV2QYyIGDo8J) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [En gång i tiden](https://open.spotify.com/album/4shw3FqZjRgJinMpCBfNCr) | 3:13 | 2021-12-16 | 2022-03-11 |
 | [Say Something](https://open.spotify.com/track/29jS36CANsKdfrlYzwbbJL) | [Ella Tiritiello](https://open.spotify.com/artist/2Dpj2Fts5HbgdsjZ12khbp) | [Say Something](https://open.spotify.com/album/2mnXp1mWtGCdlCY4WlDVmR) | 3:23 | 2022-05-19 | 2022-07-29 |
-| [Say That](https://open.spotify.com/track/25arvmrYvFkTti9WHhSnlS) | [Paula Jivén](https://open.spotify.com/artist/42VDvOzr6eyxscOD2ax83D) | [Say That](https://open.spotify.com/album/1oxTCUHmB8L8eLp2c5RRNL) | 3:28 | 2022-02-05 |  |
+| [Say That](https://open.spotify.com/track/25arvmrYvFkTti9WHhSnlS) | [Paula Jivén](https://open.spotify.com/artist/42VDvOzr6eyxscOD2ax83D) | [Say That](https://open.spotify.com/album/1oxTCUHmB8L8eLp2c5RRNL) | 3:28 | 2022-02-05 | 2022-09-09 |
 | [säga inget säger allt](https://open.spotify.com/track/2rBv1g6VfRXIHuLSpi0ZOM) | [Oscar Zia](https://open.spotify.com/artist/42TbHQxJ8d94CD93vAoDgl) | [dö\(d\) för mig](https://open.spotify.com/album/0h7YW4GgLTQRIof8sxseMU) | 2:37 | 2021-12-16 | 2022-01-13 |
 | [Scared to love \- Demo](https://open.spotify.com/track/5kiJO59VLrfMiCxgzM7cfp) | [Loopi](https://open.spotify.com/artist/2KHpTRkpM37P6Ca2RUGOcp) | [Scared to love \(Demo\)](https://open.spotify.com/album/2t2zKRkcVbui5SxM5VyUbe) | 2:56 | 2022-03-24 | 2022-04-02 |
 | [Scorpio](https://open.spotify.com/track/79T72e0BTvSA0IIwQ2bgdM) | [Sarah Klang](https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf) | [Scorpio](https://open.spotify.com/album/7IAF6PwGaRyk4KWbiEGslC) | 2:42 | 2021-12-16 | 2022-03-07 |
@@ -459,6 +459,7 @@
 | [Tar det som det kommer](https://open.spotify.com/track/1Di5aUgV5pLRQhn9w1rQSx) | [HON](https://open.spotify.com/artist/4ErLqbv0gQ49ED1AKtvrBr) | [Tar det som det kommer](https://open.spotify.com/album/2YWizNtuqlm7GiBu6b68LU) | 3:27 | 2022-04-07 |  |
 | [Taxin](https://open.spotify.com/track/6fVsYWoMw8kR0pudjjEUb0) | [Broder Jakob](https://open.spotify.com/artist/6O55JxNwObW4tmmL0jO9zy) | [Taxin](https://open.spotify.com/album/4z5n7zYUidCJA6enyihZ6F) | 2:53 | 2022-05-05 | 2022-07-23 |
 | [Tears](https://open.spotify.com/track/1KEXV4nhFG7lkOU7qqiQyi) | [Peg Parnevik](https://open.spotify.com/artist/2lLqHBjAnD1QyH24pOPoH6) | [What They'll Say About Us](https://open.spotify.com/album/4mdAcPpvearpFuQm4VZc6a) | 2:32 | 2021-12-16 | 2022-03-11 |
+| [Tears Are In Your Eyes](https://open.spotify.com/track/7b9HJ8BAhLnl0FSRjXhQs1) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [Tears Are In Your Eyes](https://open.spotify.com/album/198la3NlzDy41m0FRb5YoF) | 4:07 | 2022-09-08 |  |
 | [Teenage Dirtbag](https://open.spotify.com/track/3y6sdyJDD4DxrzoFQVhudH) | [Lou Elliotte](https://open.spotify.com/artist/03UTtO2Zq2GKk4gQRY9zq6) | [Teenage Dirtbag](https://open.spotify.com/album/5eyTUJfoyaBZM2M69BXeOf) | 3:48 | 2021-12-16 | 2022-03-11 |
 | [Tell Me](https://open.spotify.com/track/02688X3Oo6uDQptLZDiqqp) | [K E M A L](https://open.spotify.com/artist/5Fd7uQWqAWTmcOidyOUhDo) | [Tell Me](https://open.spotify.com/album/35ysKlLuG8CpXGCQbNFgKo) | 3:10 | 2022-03-17 | 2022-07-29 |
 | [Tempo](https://open.spotify.com/track/26gPOGI1XfspV0qkIB82rZ) | [Cherrie](https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW) | [Tempo](https://open.spotify.com/album/1tmpqcQo2ELxzhAogvUjDT) | 2:31 | 2022-07-28 |  |

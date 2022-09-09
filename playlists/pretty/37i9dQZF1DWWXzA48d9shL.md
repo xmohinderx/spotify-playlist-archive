@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 
 > New CORPSE ft\. Scarlxrd & Kordhell
 
-[Spotify](https://open.spotify.com/user/spotify) - 274,731 likes - 87 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 278,083 likes - 87 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 | 67 | [Jekyll & Hyde](https://open.spotify.com/track/7DylVsrjhxN8sdlUcWbJMk) | [Kiing Loki](https://open.spotify.com/artist/27PvM4IkuVoTlz5uSQtYgD), [unknwnshi](https://open.spotify.com/artist/6WFULoKZ38376gTjf6KpHw) | [Jekyll & Hyde](https://open.spotify.com/album/5iCk6JXpLWMKygsqQqE2Nm) | 1:50 |
 | 68 | [HOBGOBLIN](https://open.spotify.com/track/7I7sdHRJhSqQnwPPZbrsmv) | [Witchouse 40k](https://open.spotify.com/artist/7chdPv6Kx0frN0lKfppD2J) | [HOBGOBLIN](https://open.spotify.com/album/3BlOHRQuFEG7sOUQtT6EBp) | 3:26 |
 | 69 | [NIGHTMARE!](https://open.spotify.com/track/3m3PvBLWGFW6QNXtFvmRsg) | [Slush Puppy](https://open.spotify.com/artist/58eJhHRICp87T2IFcP0bYh) | [NIGHTMARE!](https://open.spotify.com/album/2g9zVgPOAAX5yXlXOgdK5N) | 2:28 |
-| 70 | [VENOM](https://open.spotify.com/track/0oxgwFjJ0AP5BhRJPIdVjC) | [Broken Flow](https://open.spotify.com/artist/3QGiU4wavNaHjIxxRZVlW4), [Mobbs Radical](https://open.spotify.com/artist/5CMFdQq95rtIg41Vip9wLR), [ChaiN](https://open.spotify.com/artist/5MSoGxC57bFlFXFOEQgevh) | [VENOM](https://open.spotify.com/album/22fGL6GIk4K5kvQkkcQfik) | 2:16 |
+| 70 | [VENOM](https://open.spotify.com/track/0oxgwFjJ0AP5BhRJPIdVjC) | [Broken Flow](https://open.spotify.com/artist/3QGiU4wavNaHjIxxRZVlW4), [Mobbs Radical](https://open.spotify.com/artist/5CMFdQq95rtIg41Vip9wLR), [ChaiN](https://open.spotify.com/artist/2IZOUfwpz4pPxiiwQWdgPX) | [VENOM](https://open.spotify.com/album/22fGL6GIk4K5kvQkkcQfik) | 2:16 |
 | 71 | [WORLD $TAR](https://open.spotify.com/track/1UTcI73Dr5ROP0ddDvlImu) | [Jasiah](https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0) | [WORLD $TAR](https://open.spotify.com/album/3vDC0ra5Duoh4rMUwYXnLk) | 1:57 |
 | 72 | [Superstitious](https://open.spotify.com/track/2TK4veXba4R8Qc5750IMYO) | [R4ID](https://open.spotify.com/artist/4z7o1Qx1IXfOlG9U1Vxi0u), [thisisNOMA](https://open.spotify.com/artist/21xTdTIsj03P6vCnNqrcae), [Keifergr33n](https://open.spotify.com/artist/5QaXbjEgDAPc0BwAaeNbtn) | [Superstitious](https://open.spotify.com/album/2AWthCZWHEY9ER6HlMEirr) | 2:40 |
 | 73 | [WAY TOO WAVY](https://open.spotify.com/track/1whdJyi0euy9qjyBG7KVKJ) | [Dexndre](https://open.spotify.com/artist/4XKKBVUhrdcD62Qrhpf9U7), [Fidi](https://open.spotify.com/artist/7E0x5KaMlXKgcCUU4v5jgL) | [WAY TOO WAVY](https://open.spotify.com/album/55rEA1eM02Ulibq29aRYdg) | 1:57 |

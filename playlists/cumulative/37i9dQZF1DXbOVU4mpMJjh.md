@@ -2,9 +2,9 @@
 
 ### [Jazz Relax](https://open.spotify.com/playlist/37i9dQZF1DXbOVU4mpMJjh)
 
-> Relax to vocal and instrumental jazz.
+> Relax to gentle vocal and instrumental Jazz.
 
-379 songs - 1 day 8 hr 6 min - [published](https://open.spotify.com/playlist/29i7snURyHbowNmRmTZEnp)
+381 songs - 1 day 8 hr 14 min - [published](https://open.spotify.com/playlist/29i7snURyHbowNmRmTZEnp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,6 +157,7 @@
 | [I'll Keep Loving You](https://open.spotify.com/track/42q9VqB8ooQE5yn3mup3h8) | [Massimo Colombo](https://open.spotify.com/artist/6rQ91q7SWnpMA337zOEupl), [Maurizio Quintavalle](https://open.spotify.com/artist/5yZSi6QPm7HLTPuR4n5Y9Q), [Enzo Zirilli](https://open.spotify.com/artist/2lZ6o7yrgffZNMIFlvkbk6) | [Powell to the People](https://open.spotify.com/album/0gkHK9HSngJ5N7d5LE1PKE) | 5:14 | 2022-04-14 |  |
 | [I'll Let You Know](https://open.spotify.com/track/3s2RFp5hU6jEvAmfZrnrAi) | [David Hazeltine](https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q) | [The New Classic Trio](https://open.spotify.com/album/4uLeyZYkc0IOZMlqspAHS1) | 6:48 | 2022-04-14 |  |
 | [I'll Wait and Pray](https://open.spotify.com/track/4z6d79RAbC5q0VAqPQas8W) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [The Atlantic Studio Album Collection](https://open.spotify.com/album/0BSousVS9bndHhwKl4Eu0r) | 3:26 | 2022-04-14 |  |
+| [I'm Getting Sentimental Over You](https://open.spotify.com/track/1FW3sdgzfR7gdqXXqprBxJ) | [Chris Memento](https://open.spotify.com/artist/6dLMos1sm6vC0KWbloaCXb) | [I'm Getting Sentimental Over You](https://open.spotify.com/album/01sPJkRHG839tmyrd1V8s6) | 3:49 | 2022-09-08 |  |
 | [I'm Glad There Is You](https://open.spotify.com/track/499pC27JxKGMh6mYyuRmlT) | [Bill Mobley](https://open.spotify.com/artist/2RnJnmDsu7HDPmj4UNjmjh), [Mulgrew Miller](https://open.spotify.com/artist/6Zq5ky484xYTgxE6dQ8yHh), [Robert Hurst](https://open.spotify.com/artist/398OLP0K6sxmwsYaB7Wnmj), [Eric Harland](https://open.spotify.com/artist/0wTdAqanDZiEonTBUmBSQh) | [MoodScape](https://open.spotify.com/album/5ACA0ncZdwtno9H8jQ9AQk) | 8:04 | 2022-04-14 |  |
 | [If I Had You](https://open.spotify.com/track/7hqudcHQ5fULbiEXOuHo2P) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [American Classic](https://open.spotify.com/album/3a6KzdXSmRbx5EAhYkSA6p) | 4:21 | 2022-04-14 | 2022-05-03 |
 | [In A Sentimental Mood](https://open.spotify.com/track/51BfVxH0QfxTpFgZMMbhwK) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Duke Ellington & John Coltrane](https://open.spotify.com/album/7qsnx3thQiQabvDkHfqI1m) | 4:18 | 2022-04-14 | 2022-04-28 |
@@ -244,7 +245,7 @@
 | [Nutty](https://open.spotify.com/track/4QJjZTmlH1uRASWDToRqIH) | [Thelonious Monk](https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN) | [Mønk](https://open.spotify.com/album/58DTuFhzbm89Ad9S4ybQXQ) | 9:29 | 2022-08-29 |  |
 | [Nutty](https://open.spotify.com/track/59SSp2gvGhJAOpjrP9GxvU) | [Thelonious Monk](https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN) | [Mønk](https://open.spotify.com/album/39iofgNbJqHFHeWS1vIcj4) | 9:29 | 2022-04-14 | 2022-07-29 |
 | [O Ephraim](https://open.spotify.com/track/44RqZJPfSALL7TqrjsR7BP) | [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq) | [O Ephraim](https://open.spotify.com/album/2CoUa0vNdoOs05aDBuLOyE) | 5:21 | 2022-04-14 | 2022-07-29 |
-| [O Ephraim](https://open.spotify.com/track/4pu8KqFqRsLcLIgTeHRavE) | [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq) | [Finding Gabriel](https://open.spotify.com/album/7wOosKPp2hjtrdmbn7aBQS) | 5:21 | 2022-08-29 |  |
+| [O Ephraim](https://open.spotify.com/track/4pu8KqFqRsLcLIgTeHRavE) | [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq) | [Finding Gabriel](https://open.spotify.com/album/7wOosKPp2hjtrdmbn7aBQS) | 5:21 | 2022-08-29 | 2022-09-09 |
 | [O Morro Nao Tem Vez](https://open.spotify.com/track/1iiIBMc2Cxk1tH55RZHXCA) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [The Composer Of " Desafinado", Plays](https://open.spotify.com/album/4mzp7IQ7LAh9TAuKrwc9PE) | 3:20 | 2022-04-14 | 2022-04-22 |
 | [Old Country](https://open.spotify.com/track/2qBOKp5eX9j0rZiZuIl7sc) | [Schultz/Bagge](https://open.spotify.com/artist/62lTBN25JiDEOb1mvKW0eI) | [Old Country](https://open.spotify.com/album/2QUEZYFSvfN3ISHHuD0KMg) | 5:52 | 2022-04-14 |  |
 | [Old Fashioned Morphine](https://open.spotify.com/track/2zuCel4NqWnLH28iUQemw1) | [Jolie Holland](https://open.spotify.com/artist/2I75E6zjDObK1RcXUzpmSQ) | [Escondida](https://open.spotify.com/album/75yVGSOBXe3OI8bRrIMalh) | 4:35 | 2022-04-21 | 2022-04-27 |
@@ -299,7 +300,7 @@
 | [Spring Can Really Hang You Up The Most](https://open.spotify.com/track/1Rx7TVIX8t9pZFJdLq0vvY) | [Bill Charlap Trio](https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja) | [Uptown, Downtown](https://open.spotify.com/album/5sLAAuNixDNK7b91imiLfM) | 7:54 | 2022-04-14 |  |
 | [Spring Can Really Hang You Up The Most](https://open.spotify.com/track/6EKISMrXCzFNA9UaMtr0he) | [Mayfare Trio](https://open.spotify.com/artist/3tUSGipRrxvpmZgUc13rd4) | [Spring Can Really Hang You Up The Most](https://open.spotify.com/album/2uAMOafxy5xI71sbAWLm9V) | 4:22 | 2022-06-28 |  |
 | [St\. Thomas](https://open.spotify.com/track/5Kwd8HB9VQ12yFSu0dM4Yi) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR) | [The Essential Sonny Rollins: The RCA Years](https://open.spotify.com/album/3R5sCFT6kTHnjbNuPCC7ud) | 3:55 | 2022-04-14 | 2022-04-27 |
-| [Star Brite](https://open.spotify.com/track/3YShkRiHcZuKwJ6uGccRUi) | [Duke Jordan](https://open.spotify.com/artist/27Zmfr3VpJSgOf8iyWiZzM) | [Lucky Days](https://open.spotify.com/album/5fSnbht7o253NiowMtRcnM) | 7:48 | 2022-08-29 |  |
+| [Star Brite](https://open.spotify.com/track/3YShkRiHcZuKwJ6uGccRUi) | [Duke Jordan](https://open.spotify.com/artist/27Zmfr3VpJSgOf8iyWiZzM) | [Lucky Days](https://open.spotify.com/album/5fSnbht7o253NiowMtRcnM) | 7:48 | 2022-08-29 | 2022-09-09 |
 | [Star Brite](https://open.spotify.com/track/59LTHdhW1H688shHvcdub5) | [Stanley Turrentine](https://open.spotify.com/artist/2dRsXWVnkku2cMDtV1h6NP) | [We Speak](https://open.spotify.com/album/1RrmjBtMxrCfhcRuoWXmS6) | 7:48 | 2022-04-14 | 2022-07-29 |
 | [Star Crossed Lovers](https://open.spotify.com/track/7KuOy0As2XsXoA4HupFo6v) | [Joe Lovano](https://open.spotify.com/artist/36YE6h8aN09ZKG4EhneDSf) | [Cross Culture](https://open.spotify.com/album/6GU8My9KPSrMhSFiAVVJOM) | 7:34 | 2022-04-14 |  |
 | [Star Eyes](https://open.spotify.com/track/3fJsrfPYlvYrll2306xwJn) | [Bill Walton](https://open.spotify.com/artist/7fHixSSo2DvBypEXNKjgBl) | [Star Eyes](https://open.spotify.com/album/6sscV2kzdu75DlL4b3bIDX) | 4:29 | 2022-08-11 |  |
@@ -377,6 +378,7 @@
 | [Who Could Care?](https://open.spotify.com/track/1kBKndNFG5Um2DK87FYk1m) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Bob Brookmeyer](https://open.spotify.com/artist/3aM9H4QBnPUo6mnNVufAtN) | [Recorded Fall '61](https://open.spotify.com/album/4eujTUUqxbXKR0rSfwyw2h) | 4:46 | 2022-06-30 |  |
 | [Windfall](https://open.spotify.com/track/56Vf0MpwUNFrkNkwSxHJyA) | [Mornington](https://open.spotify.com/artist/1oC6eOjjixPdeV0HvUAviS) | [Windfall](https://open.spotify.com/album/2tlBn0cUQfFlV2YUx2tOhM) | 3:48 | 2022-08-29 |  |
 | [Windows](https://open.spotify.com/track/0m8tSPLHhjhGToD6LW0RPp) | [Chick Corea](https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq) | [The Best Of Chick Corea](https://open.spotify.com/album/42yiUOGntY4V5W3rf7Glus) | 3:11 | 2022-04-14 | 2022-04-27 |
+| [Without A Song](https://open.spotify.com/track/1nsMASRDWwUwlBMmOuh80d) | [Meadow Park](https://open.spotify.com/artist/3xgSoGgPQpQvOK5XOyoOAm) | [Without A Song](https://open.spotify.com/album/7KckOMQ11H9HTjolar2ch7) | 3:56 | 2022-09-08 |  |
 | [Worrisome Heart](https://open.spotify.com/track/3zh5km8gPDYMiWvmLTsos0) | [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J) | [Worrisome Heart](https://open.spotify.com/album/5ahEd7berYIgjRYsIHZa8Y) | 4:21 | 2022-04-14 | 2022-08-30 |
 | [You Go To My Head](https://open.spotify.com/track/4ymHy4hzJ09WxvvT7p0Azy) | [Art Pepper](https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA) | [The Return Of Art Pepper](https://open.spotify.com/album/3KEF0sqASzm7SVrozeiITT) | 4:18 | 2022-04-14 |  |
 | [You Go to My Head](https://open.spotify.com/track/0K98aZItWBqCnFiMMiXiD8) | [The Blue Room Band](https://open.spotify.com/artist/6LdbGDV2CfGd4BJYI0j6Eh) | [Have You Met Miss Jones?](https://open.spotify.com/album/5rtnXuxolDdh5HhGJZL5ro) | 5:16 | 2022-04-14 |  |

@@ -2,7 +2,7 @@
 
 ### [French Jazz Café](https://open.spotify.com/playlist/37i9dQZF1DXbehaqJzJXqw)
 
-> You are sipping on your coffee in a café in Paris while a jazz band plays somewhere in the background.
+> You are sipping on your coffee in a café in Paris while a Jazz band plays somewhere in the background.
 
 147 songs - 8 hr 6 min - [published](https://open.spotify.com/playlist/0n3iccKC8QyenwGtq9NXxf)
 

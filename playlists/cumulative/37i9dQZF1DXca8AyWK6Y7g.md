@@ -4,7 +4,7 @@
 
 > living life in your 250 sq ft micro apt\. Cover: Maude Latour
 
-1,260 songs - 2 day 17 hr 8 min - [published](https://open.spotify.com/playlist/5ughHfqxtBosozqZ6BniQD)
+1,261 songs - 2 day 17 hr 9 min - [published](https://open.spotify.com/playlist/5ughHfqxtBosozqZ6BniQD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -823,7 +823,7 @@
 | [OPEN A WINDOW \(feat\. Tyler, The Creator\)](https://open.spotify.com/track/0YpaoMOUSP3jwZ4RgqNESG) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [OPEN A WINDOW \(feat\. Tyler, The Creator\)](https://open.spotify.com/album/48jLx1BQeDpojpNweMzlMf) | 3:38 | 2022-03-14 |  |
 | [opinions](https://open.spotify.com/track/0iOQc9h21LgqroLjR01lmn) | [Madelline](https://open.spotify.com/artist/7t6dcfG1BhMh3LTAXhxmeL) | [opinions](https://open.spotify.com/album/3J4RlQta7yEbxbW9WIROHT) | 2:41 | 2021-05-04 | 2021-05-21 |
 | [options](https://open.spotify.com/track/25OHd4BcTuhkeDCxKuCFAm) | [again&again](https://open.spotify.com/artist/3CIq9N0VQGWfBpCAMzMZZN) | [options](https://open.spotify.com/album/5oMug9PYFxLqmj5wstpWgc) | 2:29 | 2020-11-13 | 2021-11-10 |
-| [Ordinary](https://open.spotify.com/track/2POuS8xQxLtR52E8HFtAwB) | [Amber Ais](https://open.spotify.com/artist/3vPpiUL0ow9hQfhDMyGxle) | [Ordinary](https://open.spotify.com/album/18urkbnmlBBvY3WBHLL0kc) | 3:14 | 2022-04-29 |  |
+| [Ordinary](https://open.spotify.com/track/2POuS8xQxLtR52E8HFtAwB) | [Amber Ais](https://open.spotify.com/artist/3vPpiUL0ow9hQfhDMyGxle) | [Ordinary](https://open.spotify.com/album/18urkbnmlBBvY3WBHLL0kc) | 3:14 | 2022-04-29 | 2022-09-09 |
 | [Otherside](https://open.spotify.com/track/4YaxGF9ufb7pQrCQgYEW8m) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Reva DeVito](https://open.spotify.com/artist/00jACgDWIBdPM4eH8nORwz), [Golden Vessel](https://open.spotify.com/artist/6bJCrLZcvsBMzve04BmgwS) | [Otherside](https://open.spotify.com/album/192k8V2WgM8RzBGOiBHBbS) | 3:44 | 2019-05-26\* | 2020-02-19 |
 | [OTT](https://open.spotify.com/track/5vrOwoXILW22WyXkhGLciY) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [OTT](https://open.spotify.com/album/2BqtVNmZ2QjvrM8mfDb3ZG) | 2:37 | 2022-07-08 | 2022-07-16 |
 | [Our Little World](https://open.spotify.com/track/1n8JThYIQZXrCBC5pODu1y) | [NOVACUB](https://open.spotify.com/artist/5AgzqwERKzaLXw6wSL5LcO) | [Our Little World](https://open.spotify.com/album/6zouGkQjC4MMduqamE9j6V) | 3:29 | 2022-01-14 | 2022-03-11 |
@@ -1230,6 +1230,7 @@
 | [When I Die](https://open.spotify.com/track/0GXnZ1eaJ2TmbFXrDX7pnU) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [When I Die](https://open.spotify.com/album/6wjps6LANkpBonwtE1VXw8) | 2:37 | 2019-05-26\* | 2021-05-27 |
 | [When It's Too Good](https://open.spotify.com/track/70LHZbkrT4kOBcyICCJ0xJ) | [BENNETT](https://open.spotify.com/artist/5kI5USw1eQqhK4h3uebeLk) | [When It's Too Good](https://open.spotify.com/album/1B2ei3s6f1IoGv4E392XlL) | 2:28 | 2022-01-07 | 2022-01-29 |
 | [whenever](https://open.spotify.com/track/4nnmIVkfC4GGYwYQyFSsmd) | [beachtown](https://open.spotify.com/artist/20Gn0QldnmvNFLYxsa9vMI) | [whenever / i tripped](https://open.spotify.com/album/7Ez11M93jpKG3Zv8HS8Ldc) | 3:42 | 2021-05-18 | 2021-10-16 |
+| [White Mercedes](https://open.spotify.com/track/5N1OdVOQ1bVpSogyDIsJBJ) | [Payday](https://open.spotify.com/artist/6I7IZDntAGBmzkCANUmtV0) | [White Mercedes](https://open.spotify.com/album/5f9ZjV6R5HhN30D7YkNt6F) | 1:50 | 2022-09-02 |  |
 | [who do u love](https://open.spotify.com/track/6twNGCShHPgx5md0kQpBiC) | [Lil Halima](https://open.spotify.com/artist/1vOh8jgNLFHFxMY8i0lEKr) | [who do u love](https://open.spotify.com/album/1cuwPnmL2aNCVPfzesBX8y) | 2:47 | 2019-05-26\* | 2020-01-16 |
 | [Why Don't You Come On](https://open.spotify.com/track/1zOrNX2Rp00WGJzNJUfj0V) | [DJDS](https://open.spotify.com/artist/0orEyXhG0KnPEDVgpctNJI), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [Why Don't You Come On](https://open.spotify.com/album/4Xc4MVCAjRGtsos6uRxc5l) | 3:19 | 2019-05-26\* | 2019-08-13 |
 | [why u gotta be like that \(feat\. Nightly\)](https://open.spotify.com/track/7CRThl2cGDh1o9p3ivaLbG) | [vaultboy](https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB), [Nightly](https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3) | [why u gotta be like that \(feat\. Nightly\)](https://open.spotify.com/album/18I1ughAhwfDLtaU9eX3uW) | 2:23 | 2022-08-19 |  |

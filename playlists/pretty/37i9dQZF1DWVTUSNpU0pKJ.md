@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTUSNpU0pKJ.md) - [plain]
 
 > Explore the surreal world of Satie, from serene Gymnopédies, to gothic dances and poetic songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,476 likes - 60 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,605 likes - 60 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Gnossienne No\. 1](https://open.spotify.com/track/5fdp9rXfEixCGLM1Og4EN1) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Alena Cherny](https://open.spotify.com/artist/5kgAnLGI2biBHvY7hDsF7P) | [Gnossienne No\. 1](https://open.spotify.com/album/4ZWDD7tNRRMB2eO4B5LsJh) | 4:56 |
-| 2 | [3 Gymnopédies: No.1 Lent et douloureux](https://open.spotify.com/track/7kTVe6XhIveidvkt8nb7jK) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Jean\-Yves Thibaudet](https://open.spotify.com/artist/1Dot4uMsJMx8n1Xi7gAdV6) | [Satie: The Magic of Satie](https://open.spotify.com/album/1cLRjf5m6cTcqaFljda0r1) | 3:39 |
+| 2 | [3 Gymnopédies: No\. 1 Lent et douloureux](https://open.spotify.com/track/7kTVe6XhIveidvkt8nb7jK) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Jean\-Yves Thibaudet](https://open.spotify.com/artist/1Dot4uMsJMx8n1Xi7gAdV6) | [Satie: The Magic of Satie](https://open.spotify.com/album/1cLRjf5m6cTcqaFljda0r1) | 3:39 |
 | 3 | [Mercure, Scene 1: La nuit](https://open.spotify.com/track/5TKvSoHEXaCyk2GKM6pC3J) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Orchestre Symphonique et Lyrique de Nancy](https://open.spotify.com/artist/0g4p5Yus79xwJKf9co2RCR), [Jerome Kaltenbach](https://open.spotify.com/artist/3jK1IVWV4t4FTXjCiobeE2) | [Satie: Parade, Gymnopédies, Mercure & Relâche](https://open.spotify.com/album/3IFCqrc4GgSrN50MqNlIpw) | 1:13 |
 | 4 | [Pieces Froides : No\. 2 Trois Danses De Travers](https://open.spotify.com/track/6iI5AH18vcQbGZszzvU3iG) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Klara Kormendi](https://open.spotify.com/artist/5V2ay7vEghiqgb7NFFiPEZ) | [Satie: Piano Works, Vol\. 2](https://open.spotify.com/album/6vt1MPrq7iBkiZ2Pp6mvpO) | 4:39 |
 | 5 | [Le fils des etoiles: I\. Prelude de 1er acte \- La vocation \- Theme decoratif \- La nuit de Kaldee](https://open.spotify.com/track/168dPjh6dLw41wtn7MtTOQ) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Roland Pöntinen](https://open.spotify.com/artist/3oob8cWQ5FMlfVZRwSSVES) | [Satie: Piano Music](https://open.spotify.com/album/2Qfs0zjdWYg5MIxmQZUtyH) | 4:33 |

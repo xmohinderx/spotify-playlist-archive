@@ -1,12 +1,12 @@
 {
   "description": "That summer in the city feeling, any day of the week. ",
-  "num_followers": 23254,
+  "num_followers": 23325,
   "original_name": "Rooftop Sunset",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjEzNjQwMCwwMDAwMDAwMGZjMzMyOTg2NzhlMmRmZmNmMjU5NGVkMDhkMGU1MWVh",
+  "snapshot_id": "MTY0MjEzNjQwMCwwMDAwMDAwMDEyYjI0MjIzZmU2ZGIxNzA5NGYzMmEzY2NlYTY1MTdk",
   "tracks": [
     {
       "added_at": "2021-09-01 00:59:23",
@@ -175,26 +175,6 @@
     {
       "added_at": "2021-09-01 00:59:23",
       "album": {
-        "name": "Must Be Love (feat. Electric Fields)",
-        "url": "https://open.spotify.com/album/1PR80skl33OD99DCwsZRlo"
-      },
-      "artists": [
-        {
-          "name": "Tseba",
-          "url": "https://open.spotify.com/artist/5GDVlpxmmh7VMNQMVpxRjf"
-        },
-        {
-          "name": "Electric Fields",
-          "url": "https://open.spotify.com/artist/06SobozDGSP0TMCYgMW0M5"
-        }
-      ],
-      "duration_ms": 270145,
-      "name": "Must Be Love (feat. Electric Fields)",
-      "url": "https://open.spotify.com/track/4sVKF8qaWjwt9WatIfXAHU"
-    },
-    {
-      "added_at": "2021-09-01 00:59:23",
-      "album": {
         "name": "Diplo (Deluxe)",
         "url": "https://open.spotify.com/album/6zPSpPHyyOkbT8zDy7Kzl7"
       },
@@ -215,6 +195,26 @@
       "duration_ms": 263414,
       "name": "On My Mind - Purple Disco Machine Remix",
       "url": "https://open.spotify.com/track/6geg6XWPAxmwlVl8ZNYns0"
+    },
+    {
+      "added_at": "2021-09-01 00:59:23",
+      "album": {
+        "name": "Must Be Love (feat. Electric Fields)",
+        "url": "https://open.spotify.com/album/1PR80skl33OD99DCwsZRlo"
+      },
+      "artists": [
+        {
+          "name": "Tseba",
+          "url": "https://open.spotify.com/artist/5GDVlpxmmh7VMNQMVpxRjf"
+        },
+        {
+          "name": "Electric Fields",
+          "url": "https://open.spotify.com/artist/06SobozDGSP0TMCYgMW0M5"
+        }
+      ],
+      "duration_ms": 270145,
+      "name": "Must Be Love (feat. Electric Fields)",
+      "url": "https://open.spotify.com/track/4sVKF8qaWjwt9WatIfXAHU"
     },
     {
       "added_at": "2021-09-01 00:59:23",
@@ -359,22 +359,6 @@
     {
       "added_at": "2021-09-01 00:59:23",
       "album": {
-        "name": "Waiting",
-        "url": "https://open.spotify.com/album/0zGcOpLSpmGTJUcHRrNUJz"
-      },
-      "artists": [
-        {
-          "name": "Hidden Spheres",
-          "url": "https://open.spotify.com/artist/2ffi5jpoJUZy24fTeNsFMa"
-        }
-      ],
-      "duration_ms": 412812,
-      "name": "Waiting",
-      "url": "https://open.spotify.com/track/7fxcNshGvCxlNMGHI1GmCx"
-    },
-    {
-      "added_at": "2021-09-01 00:59:23",
-      "album": {
         "name": "...Balla!",
         "url": "https://open.spotify.com/album/1nFv7xx9OHyArzWuCke1yE"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 262456,
       "name": "Ma quale idea",
       "url": "https://open.spotify.com/track/0nHdPB5NA4xkoDoSLbREwD"
+    },
+    {
+      "added_at": "2021-09-01 00:59:23",
+      "album": {
+        "name": "Waiting",
+        "url": "https://open.spotify.com/album/0zGcOpLSpmGTJUcHRrNUJz"
+      },
+      "artists": [
+        {
+          "name": "Hidden Spheres",
+          "url": "https://open.spotify.com/artist/2ffi5jpoJUZy24fTeNsFMa"
+        }
+      ],
+      "duration_ms": 412812,
+      "name": "Waiting",
+      "url": "https://open.spotify.com/track/7fxcNshGvCxlNMGHI1GmCx"
     },
     {
       "added_at": "2021-09-01 00:59:23",
@@ -479,22 +479,6 @@
     {
       "added_at": "2021-09-01 00:59:23",
       "album": {
-        "name": "All 'N All",
-        "url": "https://open.spotify.com/album/0w0eT42Gyq6G9yXB0RirWh"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        }
-      ],
-      "duration_ms": 191200,
-      "name": "Jupiter",
-      "url": "https://open.spotify.com/track/5ewxaF5cInYvQ8oeNKeN6d"
-    },
-    {
-      "added_at": "2021-09-01 00:59:23",
-      "album": {
         "name": "Okay Okay / Hey Ciao Tu",
         "url": "https://open.spotify.com/album/5xafnQUhXG38lGXHgUgjJ8"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 258096,
       "name": "Okay Okay - Remastered",
       "url": "https://open.spotify.com/track/69JFdPriXT7hcR9flVt9U6"
+    },
+    {
+      "added_at": "2021-09-01 00:59:23",
+      "album": {
+        "name": "All 'N All",
+        "url": "https://open.spotify.com/album/0w0eT42Gyq6G9yXB0RirWh"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "duration_ms": 191200,
+      "name": "Jupiter",
+      "url": "https://open.spotify.com/track/5ewxaF5cInYvQ8oeNKeN6d"
     },
     {
       "added_at": "2021-09-01 00:59:23",
@@ -563,22 +563,6 @@
     {
       "added_at": "2021-09-01 00:59:23",
       "album": {
-        "name": "Priorities",
-        "url": "https://open.spotify.com/album/7cO8doMNBPYcM2WXZnWO6X"
-      },
-      "artists": [
-        {
-          "name": "Project Pablo",
-          "url": "https://open.spotify.com/artist/2OHzpRiwkpxGE7IA0hnSko"
-        }
-      ],
-      "duration_ms": 348158,
-      "name": "Warm Priority",
-      "url": "https://open.spotify.com/track/7BKiJ7xesRpNzMceQtYUtb"
-    },
-    {
-      "added_at": "2021-09-01 00:59:23",
-      "album": {
         "name": "Raiding the Vaults",
         "url": "https://open.spotify.com/album/7m70a8scAZxfNPAlsClUb6"
       },
@@ -595,6 +579,38 @@
       "duration_ms": 237979,
       "name": "Get a Life (feat. Bobby Womack) - Regrind 09",
       "url": "https://open.spotify.com/track/4IZkEUwzT0uPqvnMMtyY7c"
+    },
+    {
+      "added_at": "2021-09-01 00:59:23",
+      "album": {
+        "name": "Priorities",
+        "url": "https://open.spotify.com/album/7cO8doMNBPYcM2WXZnWO6X"
+      },
+      "artists": [
+        {
+          "name": "Project Pablo",
+          "url": "https://open.spotify.com/artist/2OHzpRiwkpxGE7IA0hnSko"
+        }
+      ],
+      "duration_ms": 348158,
+      "name": "Warm Priority",
+      "url": "https://open.spotify.com/track/7BKiJ7xesRpNzMceQtYUtb"
+    },
+    {
+      "added_at": "2021-09-01 00:59:23",
+      "album": {
+        "name": "Sting Like A Bee",
+        "url": "https://open.spotify.com/album/25DkBGXFTsTtqcwl1MVUzI"
+      },
+      "artists": [
+        {
+          "name": "Bumblebee Unlimited",
+          "url": "https://open.spotify.com/artist/4oRZdidZ4TjAsaNxKNVX58"
+        }
+      ],
+      "duration_ms": 589706,
+      "name": "Lady Bug - Disco Mix",
+      "url": "https://open.spotify.com/track/3SKGZkPrxSCP3tmypixVDB"
     },
     {
       "added_at": "2021-09-01 00:59:23",
@@ -619,38 +635,6 @@
     {
       "added_at": "2021-09-01 00:59:23",
       "album": {
-        "name": "Sting Like A Bee",
-        "url": "https://open.spotify.com/album/25DkBGXFTsTtqcwl1MVUzI"
-      },
-      "artists": [
-        {
-          "name": "Bumblebee Unlimited",
-          "url": "https://open.spotify.com/artist/4oRZdidZ4TjAsaNxKNVX58"
-        }
-      ],
-      "duration_ms": 589706,
-      "name": "Lady Bug - Disco Mix",
-      "url": "https://open.spotify.com/track/3SKGZkPrxSCP3tmypixVDB"
-    },
-    {
-      "added_at": "2021-09-01 00:59:23",
-      "album": {
-        "name": "RE//CHOIRED",
-        "url": "https://open.spotify.com/album/5JMcyXM7mWafx7jpT7XQka"
-      },
-      "artists": [
-        {
-          "name": "House Gospel Choir",
-          "url": "https://open.spotify.com/artist/1ilcpQQeF5mmvfO682aDgJ"
-        }
-      ],
-      "duration_ms": 234758,
-      "name": "Most Precious Love",
-      "url": "https://open.spotify.com/track/47UPyhVOYi13lDCabh0V8s"
-    },
-    {
-      "added_at": "2021-09-01 00:59:23",
-      "album": {
         "name": "Modern Romance",
         "url": "https://open.spotify.com/album/5JPxDmfJuWSErtOyRTeYuz"
       },
@@ -671,18 +655,18 @@
     {
       "added_at": "2021-09-01 00:59:23",
       "album": {
-        "name": "Prix Choc",
-        "url": "https://open.spotify.com/album/5QnMddkPs8ThZLpnTDoV9O"
+        "name": "RE//CHOIRED",
+        "url": "https://open.spotify.com/album/5JMcyXM7mWafx7jpT7XQka"
       },
       "artists": [
         {
-          "name": "\u00c9tienne de Cr\u00e9cy",
-          "url": "https://open.spotify.com/artist/78YRbJhMi5kXKruiQGCJo7"
+          "name": "House Gospel Choir",
+          "url": "https://open.spotify.com/artist/1ilcpQQeF5mmvfO682aDgJ"
         }
       ],
-      "duration_ms": 235906,
-      "name": "Prix Choc - Radio Edit - High Mix",
-      "url": "https://open.spotify.com/track/6GjZSAoI4Kmwv1UgbTrcSr"
+      "duration_ms": 234758,
+      "name": "Most Precious Love",
+      "url": "https://open.spotify.com/track/47UPyhVOYi13lDCabh0V8s"
     },
     {
       "added_at": "2021-09-01 00:59:23",
@@ -703,6 +687,22 @@
       "duration_ms": 477881,
       "name": "Calling Out (feat. Dames Brown) - 12\" Mix",
       "url": "https://open.spotify.com/track/6nfYXTZfmJMM56AfTV4mF4"
+    },
+    {
+      "added_at": "2021-09-01 00:59:23",
+      "album": {
+        "name": "Prix Choc",
+        "url": "https://open.spotify.com/album/5QnMddkPs8ThZLpnTDoV9O"
+      },
+      "artists": [
+        {
+          "name": "\u00c9tienne de Cr\u00e9cy",
+          "url": "https://open.spotify.com/artist/78YRbJhMi5kXKruiQGCJo7"
+        }
+      ],
+      "duration_ms": 235906,
+      "name": "Prix Choc - Radio Edit - High Mix",
+      "url": "https://open.spotify.com/track/6GjZSAoI4Kmwv1UgbTrcSr"
     },
     {
       "added_at": "2021-09-01 00:59:23",
@@ -743,22 +743,6 @@
     {
       "added_at": "2021-09-01 00:59:23",
       "album": {
-        "name": "Scented Trip",
-        "url": "https://open.spotify.com/album/1c9o8AiaQTSCCmJw81GRxO"
-      },
-      "artists": [
-        {
-          "name": "Project Pablo",
-          "url": "https://open.spotify.com/artist/2OHzpRiwkpxGE7IA0hnSko"
-        }
-      ],
-      "duration_ms": 380149,
-      "name": "Morning Shift",
-      "url": "https://open.spotify.com/track/0DtvmA9qyTtrcCW4CcobHl"
-    },
-    {
-      "added_at": "2021-09-01 00:59:23",
-      "album": {
         "name": "Weekends and Beginnings",
         "url": "https://open.spotify.com/album/4TyJKOcgM9gQlbzAGoOy3C"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 332777,
       "name": "Love Endeavor (Maurice Fulton Remix) - Mixed",
       "url": "https://open.spotify.com/track/0oGM4LIuCrXG5aYOAu6ANJ"
+    },
+    {
+      "added_at": "2021-09-01 00:59:23",
+      "album": {
+        "name": "Scented Trip",
+        "url": "https://open.spotify.com/album/1c9o8AiaQTSCCmJw81GRxO"
+      },
+      "artists": [
+        {
+          "name": "Project Pablo",
+          "url": "https://open.spotify.com/artist/2OHzpRiwkpxGE7IA0hnSko"
+        }
+      ],
+      "duration_ms": 380149,
+      "name": "Morning Shift",
+      "url": "https://open.spotify.com/track/0DtvmA9qyTtrcCW4CcobHl"
     },
     {
       "added_at": "2021-09-01 00:59:23",
@@ -867,18 +867,18 @@
     {
       "added_at": "2021-09-01 00:59:23",
       "album": {
-        "name": "Tears",
-        "url": "https://open.spotify.com/album/6yOEK2lfh0DhyCzDoNDZpv"
+        "name": "I Want to Feel Your Love",
+        "url": "https://open.spotify.com/album/7snUwkG3Ke47yLJBbwbcfk"
       },
       "artists": [
         {
-          "name": "HNNY",
-          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
+          "name": "Oby Onyioha",
+          "url": "https://open.spotify.com/artist/7g3r4Cm5hY4fWM5AOVWtDY"
         }
       ],
-      "duration_ms": 290152,
-      "name": "Gymnastics - Original Mix",
-      "url": "https://open.spotify.com/track/1NEBtSenjGD5NZyGuMMzOx"
+      "duration_ms": 378485,
+      "name": "Enjoy Your Life",
+      "url": "https://open.spotify.com/track/1UKk8v7T2IrpcLEP1KKqZb"
     }
   ],
   "unique_name": "Rooftop Sunset",

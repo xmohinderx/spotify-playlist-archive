@@ -1,12 +1,12 @@
 {
   "description": "Chill under the stars with this instrumental playlist. Cover: Sami Yusuf.",
-  "num_followers": 59704,
+  "num_followers": 59739,
   "original_name": "Stargazer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxODE0NzUxOSwwMDAwMDAwMDNlMjY0YTZhZmEwNTNlNzAzODVlM2M1MTE4ZGEwOGY1",
+  "snapshot_id": "MTYxODE0NzUxOSwwMDAwMDAwMGIxZmRjNjFkOGNiNmNmYjFhNDJkOWJiNjk0ZTRhMzdi",
   "tracks": [
     {
       "added_at": "2021-02-15 11:04:36",
@@ -419,18 +419,50 @@
     {
       "added_at": "2021-02-15 11:04:36",
       "album": {
-        "name": "Persian Oud, Dirine Delkhah",
-        "url": "https://open.spotify.com/album/1IcKkU9qhXv3jSOHXXPDV4"
+        "name": "Shenididar",
+        "url": "https://open.spotify.com/album/51OYcPmjm6PTbpXCHl0hH4"
       },
       "artists": [
         {
-          "name": "Shahram Gholami",
-          "url": "https://open.spotify.com/artist/2JugnbSfIzPFPZGOQFdej8"
+          "name": "Koorosh Behrad",
+          "url": "https://open.spotify.com/artist/6z5ZjxyPCjyHZ0UneTQxM5"
         }
       ],
-      "duration_ms": 304680,
-      "name": "Aseman",
-      "url": "https://open.spotify.com/track/01cKqNr7bXthzoZg39sklw"
+      "duration_ms": 260063,
+      "name": "Apology",
+      "url": "https://open.spotify.com/track/3HRwZi3Rvi0iau3CiiePgI"
+    },
+    {
+      "added_at": "2021-02-15 11:04:36",
+      "album": {
+        "name": "Our Story",
+        "url": "https://open.spotify.com/album/1IKLROADmLfCk8eQrd8S4f"
+      },
+      "artists": [
+        {
+          "name": "Hawa Dafi",
+          "url": "https://open.spotify.com/artist/2zazWAnmtbQWG501SsqsU0"
+        }
+      ],
+      "duration_ms": 207120,
+      "name": "Faragh",
+      "url": "https://open.spotify.com/track/3TXd9i00tDNyZYkqpDguQM"
+    },
+    {
+      "added_at": "2021-02-15 11:04:36",
+      "album": {
+        "name": "Sounds of Mirrors",
+        "url": "https://open.spotify.com/album/5yDZtkCkxXQafMjQgNWFQg"
+      },
+      "artists": [
+        {
+          "name": "Dhafer Youssef",
+          "url": "https://open.spotify.com/artist/5UefiThiZ352HWMOgZvOhx"
+        }
+      ],
+      "duration_ms": 276679,
+      "name": "Dance Layan Dance",
+      "url": "https://open.spotify.com/track/2YMpjElPsH8VfYhTLtCauC"
     },
     {
       "added_at": "2021-02-15 11:04:36",
@@ -467,38 +499,6 @@
     {
       "added_at": "2021-02-15 11:04:36",
       "album": {
-        "name": "Shenididar",
-        "url": "https://open.spotify.com/album/51OYcPmjm6PTbpXCHl0hH4"
-      },
-      "artists": [
-        {
-          "name": "Koorosh Behrad",
-          "url": "https://open.spotify.com/artist/6z5ZjxyPCjyHZ0UneTQxM5"
-        }
-      ],
-      "duration_ms": 260063,
-      "name": "Apology",
-      "url": "https://open.spotify.com/track/3HRwZi3Rvi0iau3CiiePgI"
-    },
-    {
-      "added_at": "2021-02-15 11:04:36",
-      "album": {
-        "name": "Our Story",
-        "url": "https://open.spotify.com/album/1IKLROADmLfCk8eQrd8S4f"
-      },
-      "artists": [
-        {
-          "name": "Hawa Dafi",
-          "url": "https://open.spotify.com/artist/2zazWAnmtbQWG501SsqsU0"
-        }
-      ],
-      "duration_ms": 207120,
-      "name": "Faragh",
-      "url": "https://open.spotify.com/track/3TXd9i00tDNyZYkqpDguQM"
-    },
-    {
-      "added_at": "2021-02-15 11:04:36",
-      "album": {
         "name": "432hz Healing Sounds from the Middle East",
         "url": "https://open.spotify.com/album/7b9a4k1YkKNFFreXM6Z6Jn"
       },
@@ -511,6 +511,38 @@
       "duration_ms": 268000,
       "name": "432hz Desert Pulse",
       "url": "https://open.spotify.com/track/0KQVSvwDuD7tWGbIqh9BGl"
+    },
+    {
+      "added_at": "2021-02-15 11:04:36",
+      "album": {
+        "name": "Persian Oud, Dirine Delkhah",
+        "url": "https://open.spotify.com/album/1IcKkU9qhXv3jSOHXXPDV4"
+      },
+      "artists": [
+        {
+          "name": "Shahram Gholami",
+          "url": "https://open.spotify.com/artist/2JugnbSfIzPFPZGOQFdej8"
+        }
+      ],
+      "duration_ms": 304680,
+      "name": "Aseman",
+      "url": "https://open.spotify.com/track/01cKqNr7bXthzoZg39sklw"
+    },
+    {
+      "added_at": "2021-02-15 11:04:36",
+      "album": {
+        "name": "Sounds of Mirrors",
+        "url": "https://open.spotify.com/album/5yDZtkCkxXQafMjQgNWFQg"
+      },
+      "artists": [
+        {
+          "name": "Dhafer Youssef",
+          "url": "https://open.spotify.com/artist/5UefiThiZ352HWMOgZvOhx"
+        }
+      ],
+      "duration_ms": 437534,
+      "name": "Humankind",
+      "url": "https://open.spotify.com/track/3urHsuSN1wtFkqnRZskBev"
     },
     {
       "added_at": "2021-02-15 11:04:36",
@@ -575,22 +607,6 @@
     {
       "added_at": "2021-02-15 11:04:36",
       "album": {
-        "name": "Sounds of Mirrors",
-        "url": "https://open.spotify.com/album/5yDZtkCkxXQafMjQgNWFQg"
-      },
-      "artists": [
-        {
-          "name": "Dhafer Youssef",
-          "url": "https://open.spotify.com/artist/5UefiThiZ352HWMOgZvOhx"
-        }
-      ],
-      "duration_ms": 276679,
-      "name": "Dance Layan Dance",
-      "url": "https://open.spotify.com/track/2YMpjElPsH8VfYhTLtCauC"
-    },
-    {
-      "added_at": "2021-02-15 11:04:36",
-      "album": {
         "name": "Hejar",
         "url": "https://open.spotify.com/album/0giBUefTGbBy8QZ6hKOyCo"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 142000,
       "name": "Deeper Sun",
       "url": "https://open.spotify.com/track/72U3GaKjHnwdfKNWoeciA5"
-    },
-    {
-      "added_at": "2021-02-15 11:04:36",
-      "album": {
-        "name": "Persian Oud, Dirine Delkhah",
-        "url": "https://open.spotify.com/album/1IcKkU9qhXv3jSOHXXPDV4"
-      },
-      "artists": [
-        {
-          "name": "Shahram Gholami",
-          "url": "https://open.spotify.com/artist/2JugnbSfIzPFPZGOQFdej8"
-        }
-      ],
-      "duration_ms": 219840,
-      "name": "Raghsan",
-      "url": "https://open.spotify.com/track/0yWWPxQTJWHfQmcRta04tE"
     },
     {
       "added_at": "2021-02-15 11:04:36",
@@ -691,18 +691,18 @@
     {
       "added_at": "2021-02-15 11:04:36",
       "album": {
-        "name": "Sounds of Mirrors",
-        "url": "https://open.spotify.com/album/5yDZtkCkxXQafMjQgNWFQg"
+        "name": "Persian Oud, Dirine Delkhah",
+        "url": "https://open.spotify.com/album/1IcKkU9qhXv3jSOHXXPDV4"
       },
       "artists": [
         {
-          "name": "Dhafer Youssef",
-          "url": "https://open.spotify.com/artist/5UefiThiZ352HWMOgZvOhx"
+          "name": "Shahram Gholami",
+          "url": "https://open.spotify.com/artist/2JugnbSfIzPFPZGOQFdej8"
         }
       ],
-      "duration_ms": 437534,
-      "name": "Humankind",
-      "url": "https://open.spotify.com/track/3urHsuSN1wtFkqnRZskBev"
+      "duration_ms": 219840,
+      "name": "Raghsan",
+      "url": "https://open.spotify.com/track/0yWWPxQTJWHfQmcRta04tE"
     },
     {
       "added_at": "2021-02-15 11:04:36",
@@ -868,9 +868,9 @@
           "url": "https://open.spotify.com/artist/2PAiEBsEV9ODqDghaOdE9r"
         }
       ],
-      "duration_ms": 164073,
-      "name": "Improvisation In Shour",
-      "url": "https://open.spotify.com/track/0bXMGGXGsglxFQcaDhymz0"
+      "duration_ms": 267500,
+      "name": "Farewell With Mirror",
+      "url": "https://open.spotify.com/track/1xXueslGJ24IAlwlU73k5r"
     },
     {
       "added_at": "2021-02-15 11:04:36",
@@ -968,9 +968,9 @@
           "url": "https://open.spotify.com/artist/2PAiEBsEV9ODqDghaOdE9r"
         }
       ],
-      "duration_ms": 267500,
-      "name": "Farewell With Mirror",
-      "url": "https://open.spotify.com/track/1xXueslGJ24IAlwlU73k5r"
+      "duration_ms": 164073,
+      "name": "Improvisation In Shour",
+      "url": "https://open.spotify.com/track/0bXMGGXGsglxFQcaDhymz0"
     },
     {
       "added_at": "2021-02-15 11:04:36",

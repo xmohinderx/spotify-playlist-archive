@@ -1042,6 +1042,28 @@
     },
     {
       "album": {
+        "name": "St. Lover",
+        "url": "https://open.spotify.com/album/6tgMOMo9ZXYCrBIVYgfyem"
+      },
+      "artists": [
+        {
+          "name": "\u5b8b\u67cf\u7def",
+          "url": "https://open.spotify.com/artist/1LWJ9mrDCPd3HB2Kp1RDXK"
+        },
+        {
+          "name": "\u6797\u6620\u552f",
+          "url": "https://open.spotify.com/artist/0vEN77zurrawTwPgocgd91"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217124,
+      "name": "St. Lover",
+      "url": "https://open.spotify.com/track/6kNiAOXTGBTjL1ITsWWUio"
+    },
+    {
+      "album": {
         "name": "UU&U",
         "url": "https://open.spotify.com/album/78XT5si8Zp3XhRQEiPZ1pr"
       },
@@ -1963,7 +1985,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 243000,
       "name": "\u552f\u4e00\u7684\u4f60 - \u97d3\u5287\u300a\u73fe\u6b63\u5206\u624b\u4e2d\u300b\u4e2d\u6587\u4e3b\u984c\u66f2",
       "url": "https://open.spotify.com/track/2UNcAbLy25IMUjj0cq3Xud"
@@ -2803,7 +2825,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 215999,
       "name": "\u666f\u7f8e",
       "url": "https://open.spotify.com/track/1jSX6c7mL2hcJVPWuNpUwL"
@@ -3111,7 +3133,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-25",
+      "date_removed": null,
       "duration_ms": 251643,
       "name": "\u70cf\u96f2\u65e5\u8a18",
       "url": "https://open.spotify.com/track/2uMmfO7yMmi5yBH09pu8Hr"
@@ -3871,6 +3893,24 @@
       "duration_ms": 164467,
       "name": "\u96f6\u7c73\u8ddd\u96e2",
       "url": "https://open.spotify.com/track/4s5Zo94S9qBeiUcXHF91fp"
+    },
+    {
+      "album": {
+        "name": "\u975e\u5fc5\u8981\u7684\u7f8e\u597d\u5c0f\u4e8b (\u4e09\u7acb\u96fb\u8996\u300a\u9580\u7576\u4e92\u61df\u611b\u4e0a\u4f60\u300b\u7247\u982d\u66f2)",
+        "url": "https://open.spotify.com/album/61QQr0DbDRo9Kx5giz78kH"
+      },
+      "artists": [
+        {
+          "name": "\u5f35\u82e5\u51e1",
+          "url": "https://open.spotify.com/artist/3vt8C5pqh2fk4KaXpfSvxk"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "\u975e\u5fc5\u8981\u7684\u7f8e\u597d\u5c0f\u4e8b - \u4e09\u7acb\u96fb\u8996\u300a\u9580\u7576\u4e92\u61df\u611b\u4e0a\u4f60\u300b\u7247\u982d\u66f2",
+      "url": "https://open.spotify.com/track/4CCO81TxHw1TfG1VHiDGyl"
     },
     {
       "album": {

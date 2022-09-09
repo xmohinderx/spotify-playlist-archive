@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [A little bit more...](https://open.spotify.com/track/3g9pvozCNKJZ9i8bo6zmMq) | [NU'EST](https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ), [Yoon Han \(Pop Pianist\)](https://open.spotify.com/artist/5bRCVFekTRnptEuJ0ZxTtf) | [THE SECOND MINI ALBUM Hello](https://open.spotify.com/album/1MbaIRobEFpVKwERqfZMKO) | 3:49 | 2022-03-17 |  |
+| [A little bit more..\. \(feat.Yoon Han \(Pop Pianist\)\)](https://open.spotify.com/track/3g9pvozCNKJZ9i8bo6zmMq) | [NU'EST](https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ), [Yoon Han \(Pop Pianist\)](https://open.spotify.com/artist/5bRCVFekTRnptEuJ0ZxTtf) | [THE SECOND MINI ALBUM Hello](https://open.spotify.com/album/1MbaIRobEFpVKwERqfZMKO) | 3:49 | 2022-03-17 |  |
 | [A scene without you](https://open.spotify.com/track/5JQnOzMgCr6sbBMnTPonsv) | [NU'EST](https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ) | [Special Single ‘I’m Bad’](https://open.spotify.com/album/7jlzbojtyoNJ5p73AD72Qt) | 3:45 | 2022-03-17 |  |
 | [A Song For You](https://open.spotify.com/track/1eCPFL81U3d1cRK8ctUskM) | [NU'EST](https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ) | [A Song For You](https://open.spotify.com/album/4F7Q2zAAhywXzGWUWHv79X) | 4:14 | 2022-03-17 |  |
 | [Action](https://open.spotify.com/track/6FKcTr6VGfKIK5Qdv1y5st) | [NU'EST](https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ) | [Action](https://open.spotify.com/album/5zDepklvxHMN6mByS43YC7) | 3:14 | 2022-03-17 |  |

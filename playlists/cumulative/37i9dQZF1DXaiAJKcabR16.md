@@ -4,12 +4,13 @@
 
 > Slide and steel\. Set your soundtrack to some moody, gritty blues folk.
 
-90 songs - 6 hr 0 min - [published](https://open.spotify.com/playlist/0UHsjagwmAQGvmHUDaFYKF)
+91 songs - 6 hr 3 min - [published](https://open.spotify.com/playlist/0UHsjagwmAQGvmHUDaFYKF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1922 Blues](https://open.spotify.com/track/0F3ZS2gMHCImgws6ewz1H7) | [Charlie Parr](https://open.spotify.com/artist/2OOAWkt15smEKXtNNLtaNG) | [Cheap Wine](https://open.spotify.com/album/7u3ltEekQZKZllPqivvqK4) | 2:44 | 2021-07-30 |  |
-| [Ain't No Easy Way](https://open.spotify.com/track/57XbiF3mXSAXDntyEw57lW) | [Black Rebel Motorcycle Club](https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G) | [Howl](https://open.spotify.com/album/3otJWr2xpdvZJGNS303RCZ) | 2:36 | 2021-07-30 |  |
+| [Ain't No Easy Way](https://open.spotify.com/track/2fUUIfU0WurkHNLoUJwGnH) | [Black Rebel Motorcycle Club](https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G) | [Howl](https://open.spotify.com/album/5yTFClS2dEGZD5IjM9dfrT) | 2:36 | 2021-07-30 |  |
+| [Ain't No Easy Way](https://open.spotify.com/track/57XbiF3mXSAXDntyEw57lW) | [Black Rebel Motorcycle Club](https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G) | [Howl](https://open.spotify.com/album/3otJWr2xpdvZJGNS303RCZ) | 2:36 | 2021-07-30 | 2022-09-09 |
 | [An Honest Man](https://open.spotify.com/track/37C9PC2PjE2oURNjOyzof4) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [Fantastic Negrito \- EP](https://open.spotify.com/album/6wSl4enVRjlcQ890pqfQqk) | 4:04 | 2021-07-30 | 2022-07-29 |
 | [An Honest Man](https://open.spotify.com/track/01Cr7MlISmoh8gMlZBjpko) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [An Honest Man](https://open.spotify.com/album/6YqoghPHyDIIgSsAp7QFdj) | 4:06 | 2021-07-30 |  |
 | [Another Manʼs Grave](https://open.spotify.com/track/0kO82Vu0CXMrkLo5p9EvyI) | [Amigo the Devil](https://open.spotify.com/artist/0AkmSuTOzM2pNCIOSP8ziv) | [Another Manʼs Grave](https://open.spotify.com/album/1ydWuirnz39uMCZYgkE18E) | 3:08 | 2021-07-30 |  |

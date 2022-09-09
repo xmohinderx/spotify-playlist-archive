@@ -1,12 +1,12 @@
 {
   "description": "Introducing Alma \u2014 a soul born from Latin and house music.",
-  "num_followers": 1650,
+  "num_followers": 1667,
   "original_name": "Alma",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTU4OTc5NCwwMDAwMDAwMGEwNWNmN2ZmNjM1NTFmMTA2YjhmYzMzY2RmOWE2ZTlh",
+  "snapshot_id": "MTY1MTU4OTc5NCwwMDAwMDAwMDIzMWZkNDIwOWE1OTAyNjk4M2Q0NDhiYzZmNDZkMjAy",
   "tracks": [
     {
       "added_at": "2022-02-11 17:33:41",
@@ -295,18 +295,18 @@
     {
       "added_at": "2021-10-08 15:53:55",
       "album": {
-        "name": "Los Tamales",
-        "url": "https://open.spotify.com/album/2juRlblGnU1PJbuC5LMhdW"
+        "name": "Puerto Rico",
+        "url": "https://open.spotify.com/album/5uAyqWPXo6H3fpWa9T433G"
       },
       "artists": [
         {
-          "name": "Dennis Cruz",
-          "url": "https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu"
+          "name": "Landis",
+          "url": "https://open.spotify.com/artist/7bSDGumYzI7Cehekr534Xn"
         }
       ],
-      "duration_ms": 334838,
-      "name": "Los Tamales",
-      "url": "https://open.spotify.com/track/3SvhhsODK5VG35Cs5eAJ8M"
+      "duration_ms": 144375,
+      "name": "Puerto Rico",
+      "url": "https://open.spotify.com/track/4AOCixIsN5aoszu3dcwalf"
     },
     {
       "added_at": "2021-10-08 15:53:55",
@@ -351,6 +351,22 @@
     {
       "added_at": "2021-10-08 15:53:55",
       "album": {
+        "name": "Los Tamales",
+        "url": "https://open.spotify.com/album/2juRlblGnU1PJbuC5LMhdW"
+      },
+      "artists": [
+        {
+          "name": "Dennis Cruz",
+          "url": "https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu"
+        }
+      ],
+      "duration_ms": 334838,
+      "name": "Los Tamales",
+      "url": "https://open.spotify.com/track/3SvhhsODK5VG35Cs5eAJ8M"
+    },
+    {
+      "added_at": "2021-10-08 15:53:55",
+      "album": {
         "name": "Witch Doctor",
         "url": "https://open.spotify.com/album/7etpucnkFPkpi89M5CCdu4"
       },
@@ -367,22 +383,6 @@
       "duration_ms": 186666,
       "name": "Witch Doctor",
       "url": "https://open.spotify.com/track/4lWGhzUW3dTPDMX9EII1Fc"
-    },
-    {
-      "added_at": "2021-10-08 15:53:55",
-      "album": {
-        "name": "Puerto Rico",
-        "url": "https://open.spotify.com/album/5uAyqWPXo6H3fpWa9T433G"
-      },
-      "artists": [
-        {
-          "name": "Landis",
-          "url": "https://open.spotify.com/artist/7bSDGumYzI7Cehekr534Xn"
-        }
-      ],
-      "duration_ms": 144375,
-      "name": "Puerto Rico",
-      "url": "https://open.spotify.com/track/4AOCixIsN5aoszu3dcwalf"
     },
     {
       "added_at": "2021-11-26 07:27:00",
@@ -517,6 +517,38 @@
       "url": "https://open.spotify.com/track/1YcBeCPxCdPCxXOrWJEiwm"
     },
     {
+      "added_at": "2021-12-03 21:38:02",
+      "album": {
+        "name": "Overtime / Physically",
+        "url": "https://open.spotify.com/album/5Y3RzD6ncjJQ8TKh1PKIED"
+      },
+      "artists": [
+        {
+          "name": "JADED",
+          "url": "https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf"
+        }
+      ],
+      "duration_ms": 168501,
+      "name": "Overtime",
+      "url": "https://open.spotify.com/track/3hOWWujfSbRwkxgpW1WXYy"
+    },
+    {
+      "added_at": "2021-10-08 15:53:55",
+      "album": {
+        "name": "Dirty Spanish",
+        "url": "https://open.spotify.com/album/3H8M3pxnpGqjf1faPwowEf"
+      },
+      "artists": [
+        {
+          "name": "Sam Blans",
+          "url": "https://open.spotify.com/artist/3aqsqogSTXrUJdcnFySUMi"
+        }
+      ],
+      "duration_ms": 274833,
+      "name": "Dirty Spanish",
+      "url": "https://open.spotify.com/track/102vO4p4OoHWe7JO2OAzQw"
+    },
+    {
       "added_at": "2021-10-08 15:53:55",
       "album": {
         "name": "Alma Roja (DJ CHUS Remix)",
@@ -539,38 +571,6 @@
       "duration_ms": 184320,
       "name": "Alma Roja - DJ Chus Remix",
       "url": "https://open.spotify.com/track/0MlIalMAtTaIhOjmSFmCgW"
-    },
-    {
-      "added_at": "2021-10-08 15:53:55",
-      "album": {
-        "name": "Dirty Spanish",
-        "url": "https://open.spotify.com/album/3H8M3pxnpGqjf1faPwowEf"
-      },
-      "artists": [
-        {
-          "name": "Sam Blans",
-          "url": "https://open.spotify.com/artist/3aqsqogSTXrUJdcnFySUMi"
-        }
-      ],
-      "duration_ms": 274833,
-      "name": "Dirty Spanish",
-      "url": "https://open.spotify.com/track/102vO4p4OoHWe7JO2OAzQw"
-    },
-    {
-      "added_at": "2021-12-03 21:38:02",
-      "album": {
-        "name": "Overtime / Physically",
-        "url": "https://open.spotify.com/album/5Y3RzD6ncjJQ8TKh1PKIED"
-      },
-      "artists": [
-        {
-          "name": "JADED",
-          "url": "https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf"
-        }
-      ],
-      "duration_ms": 168501,
-      "name": "Overtime",
-      "url": "https://open.spotify.com/track/3hOWWujfSbRwkxgpW1WXYy"
     },
     {
       "added_at": "2021-10-08 15:53:55",

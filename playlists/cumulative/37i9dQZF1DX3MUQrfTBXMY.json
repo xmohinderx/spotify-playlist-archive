@@ -259,6 +259,28 @@
     {
       "album": {
         "name": "Bhober Pagol",
+        "url": "https://open.spotify.com/album/7k16lPrTnyK6Vj5I1lZghn"
+      },
+      "artists": [
+        {
+          "name": "Nigar Sumi",
+          "url": "https://open.spotify.com/artist/5v4ceNWjpPcck7V5tPbOn1"
+        },
+        {
+          "name": "Jalali Set",
+          "url": "https://open.spotify.com/artist/1DUbMaHb0Qi0LutuodIxnN"
+        }
+      ],
+      "date_added": "2022-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316000,
+      "name": "Bhober Pagol",
+      "url": "https://open.spotify.com/track/4El1blqsazEurG6gpvyUtF"
+    },
+    {
+      "album": {
+        "name": "Bhober Pagol",
         "url": "https://open.spotify.com/album/3rwS1ScolLwpU7uuFDLb3t"
       },
       "artists": [
@@ -295,7 +317,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 325840,
       "name": "Bhober Pagol",
       "url": "https://open.spotify.com/track/7HUzW6Xv5cSWGbikS5MiAG"

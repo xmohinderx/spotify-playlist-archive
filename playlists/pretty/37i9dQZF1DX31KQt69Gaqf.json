@@ -1,12 +1,12 @@
 {
   "description": "Let us take care of your workday soundtrack.",
-  "num_followers": 181418,
+  "num_followers": 181445,
   "original_name": "Your Office Stereo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzMzk1MDI1NCwwMDAwMDAwMGNiNGJmYzZlMDc1ZDkyZGM4NzE4OTQ1N2RkMDI2ODcz",
+  "snapshot_id": "MTYzMzk1MDI1NCwwMDAwMDAwMGMwNzVhZjk1NjIzYTIwMjE4NGFjOTExYWM3YWRjMzhj",
   "tracks": [
     {
       "added_at": "2021-08-12 14:57:38",
@@ -287,6 +287,22 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
+        "name": "madhouse",
+        "url": "https://open.spotify.com/album/3C7TLQLW8cXiDoogT7Hrlj"
+      },
+      "artists": [
+        {
+          "name": "Matt Maltese",
+          "url": "https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf"
+        }
+      ],
+      "duration_ms": 211075,
+      "name": "madhouse",
+      "url": "https://open.spotify.com/track/36fC4xtAucJ7KH6sdSDDo7"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
         "name": "Chinatown (feat. Bruce Springsteen)",
         "url": "https://open.spotify.com/album/10fSu9RLAJlasIup4ylHPM"
       },
@@ -303,22 +319,6 @@
       "duration_ms": 247968,
       "name": "Chinatown (feat. Bruce Springsteen)",
       "url": "https://open.spotify.com/track/7IY2JF7AlVN5uvIUBVnSJd"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
-        "name": "madhouse",
-        "url": "https://open.spotify.com/album/3C7TLQLW8cXiDoogT7Hrlj"
-      },
-      "artists": [
-        {
-          "name": "Matt Maltese",
-          "url": "https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf"
-        }
-      ],
-      "duration_ms": 211075,
-      "name": "madhouse",
-      "url": "https://open.spotify.com/track/36fC4xtAucJ7KH6sdSDDo7"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -491,6 +491,22 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
+        "name": "Black Dog",
+        "url": "https://open.spotify.com/album/7g57U9ugd9ObC65ecCeEHy"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 225454,
+      "name": "Black Dog",
+      "url": "https://open.spotify.com/track/1NGPZKzplieiPc5g6lAJ49"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
         "name": "Born a Loser",
         "url": "https://open.spotify.com/album/6OQjfXsIharHjMAMbGYGNd"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 167093,
       "name": "Moving Men",
       "url": "https://open.spotify.com/track/3OrQzlqFmedMua5WxgCVrI"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
-        "name": "Black Dog",
-        "url": "https://open.spotify.com/album/7g57U9ugd9ObC65ecCeEHy"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 225454,
-      "name": "Black Dog",
-      "url": "https://open.spotify.com/track/1NGPZKzplieiPc5g6lAJ49"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -611,26 +611,6 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "Sweeter (feat. Terrace Martin)",
-        "url": "https://open.spotify.com/album/7MEVKXLS3YOlaz3kXexPeM"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        },
-        {
-          "name": "Terrace Martin",
-          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
-        }
-      ],
-      "duration_ms": 167468,
-      "name": "Sweeter (feat. Terrace Martin)",
-      "url": "https://open.spotify.com/track/1ehhGlTvjtHo2e4xJFB0SZ"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
         "name": "Long Grass",
         "url": "https://open.spotify.com/album/7s5qWzC22jdTiaZR488pje"
       },
@@ -651,6 +631,26 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
+        "name": "Sweeter (feat. Terrace Martin)",
+        "url": "https://open.spotify.com/album/7MEVKXLS3YOlaz3kXexPeM"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        },
+        {
+          "name": "Terrace Martin",
+          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
+        }
+      ],
+      "duration_ms": 167468,
+      "name": "Sweeter (feat. Terrace Martin)",
+      "url": "https://open.spotify.com/track/1ehhGlTvjtHo2e4xJFB0SZ"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
         "name": "dusk",
         "url": "https://open.spotify.com/album/6oCFVNkKjrFRmieVbpQa3s"
       },
@@ -663,6 +663,22 @@
       "duration_ms": 196440,
       "name": "bon iver",
       "url": "https://open.spotify.com/track/2A6GfKINLJ2oN4sjUWj0g2"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
+        "name": "Caroline",
+        "url": "https://open.spotify.com/album/75p2ynuvcTWcFIFs4OyDkQ"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 216933,
+      "name": "Caroline",
+      "url": "https://open.spotify.com/track/21aQ9GdgEXK6qeovX0YaKb"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -687,22 +703,6 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "Caroline",
-        "url": "https://open.spotify.com/album/75p2ynuvcTWcFIFs4OyDkQ"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 216933,
-      "name": "Caroline",
-      "url": "https://open.spotify.com/track/21aQ9GdgEXK6qeovX0YaKb"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
         "name": "I Do Love a Good Sandwich",
         "url": "https://open.spotify.com/album/2mYyy4WDJ0wegNinX4I3i8"
       },
@@ -715,22 +715,6 @@
       "duration_ms": 181293,
       "name": "Still Got Time",
       "url": "https://open.spotify.com/track/3H7y8eYjCj9gVVg7HFdDOj"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
-        "name": "Friday",
-        "url": "https://open.spotify.com/album/034zknyDzHTXojF5mOYtyO"
-      },
-      "artists": [
-        {
-          "name": "Freak Slug",
-          "url": "https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Friday",
-      "url": "https://open.spotify.com/track/4GQGU0CI1lR4xRcxxioIIQ"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -751,6 +735,22 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
+        "name": "Friday",
+        "url": "https://open.spotify.com/album/034zknyDzHTXojF5mOYtyO"
+      },
+      "artists": [
+        {
+          "name": "Freak Slug",
+          "url": "https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Friday",
+      "url": "https://open.spotify.com/track/4GQGU0CI1lR4xRcxxioIIQ"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
         "name": "Light (Edit)",
         "url": "https://open.spotify.com/album/0fKENvWUaivTdcglwpXvzz"
       },
@@ -763,6 +763,22 @@
       "duration_ms": 185373,
       "name": "Light - Edit",
       "url": "https://open.spotify.com/track/0h04eWLXS72ITUgN4PKnLg"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
+        "name": "cold water",
+        "url": "https://open.spotify.com/album/0ygmFGHb9QLdOqsAfs6Nhe"
+      },
+      "artists": [
+        {
+          "name": "Uly",
+          "url": "https://open.spotify.com/artist/1i5DopntEK7C4VKpD5F6zg"
+        }
+      ],
+      "duration_ms": 233239,
+      "name": "cold water",
+      "url": "https://open.spotify.com/track/3keIh8QdhxlHQ0hsyDHrzA"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -783,22 +799,6 @@
       "duration_ms": 187364,
       "name": "Control",
       "url": "https://open.spotify.com/track/1C26HwnwtIwLlSHJdB2iZw"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
-        "name": "cold water",
-        "url": "https://open.spotify.com/album/0ygmFGHb9QLdOqsAfs6Nhe"
-      },
-      "artists": [
-        {
-          "name": "Uly",
-          "url": "https://open.spotify.com/artist/1i5DopntEK7C4VKpD5F6zg"
-        }
-      ],
-      "duration_ms": 233239,
-      "name": "cold water",
-      "url": "https://open.spotify.com/track/3keIh8QdhxlHQ0hsyDHrzA"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -871,22 +871,6 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "Sunshine State",
-        "url": "https://open.spotify.com/album/7EWBIDFpNqrkZgN6UduHij"
-      },
-      "artists": [
-        {
-          "name": "Pixey",
-          "url": "https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI"
-        }
-      ],
-      "duration_ms": 138756,
-      "name": "Sunshine State",
-      "url": "https://open.spotify.com/track/4fdnzqkyETaIfre0df8FHk"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
         "name": "Mrs Blue",
         "url": "https://open.spotify.com/album/2vzD0vqVfxiWHfKWOWijm8"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 267535,
       "name": "Mrs Blue",
       "url": "https://open.spotify.com/track/1tibCnItza2Ddf5qHybyJG"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
+        "name": "Sunshine State",
+        "url": "https://open.spotify.com/album/7EWBIDFpNqrkZgN6UduHij"
+      },
+      "artists": [
+        {
+          "name": "Pixey",
+          "url": "https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI"
+        }
+      ],
+      "duration_ms": 138756,
+      "name": "Sunshine State",
+      "url": "https://open.spotify.com/track/4fdnzqkyETaIfre0df8FHk"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -919,22 +919,6 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "Headstart",
-        "url": "https://open.spotify.com/album/2MFtg3BQopMqFiEYXQZ9q2"
-      },
-      "artists": [
-        {
-          "name": "Jade Bird",
-          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
-        }
-      ],
-      "duration_ms": 142818,
-      "name": "Headstart",
-      "url": "https://open.spotify.com/track/4hvogg26QxhiwZejv9nNae"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
         "name": "My House",
         "url": "https://open.spotify.com/album/7sSEGFxjJTaT1amaNYOmWD"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 256639,
       "name": "My House",
       "url": "https://open.spotify.com/track/5kuSneVOTmvanncpK3RZcl"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
+        "name": "Headstart",
+        "url": "https://open.spotify.com/album/2MFtg3BQopMqFiEYXQZ9q2"
+      },
+      "artists": [
+        {
+          "name": "Jade Bird",
+          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
+        }
+      ],
+      "duration_ms": 142818,
+      "name": "Headstart",
+      "url": "https://open.spotify.com/track/4hvogg26QxhiwZejv9nNae"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
+        "name": "Butterfly Blue",
+        "url": "https://open.spotify.com/album/52jN5oOP2tn7TnL8PNoT8Z"
+      },
+      "artists": [
+        {
+          "name": "Mallrat",
+          "url": "https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A"
+        }
+      ],
+      "duration_ms": 208988,
+      "name": "Rockstar",
+      "url": "https://open.spotify.com/track/6PwwPfIpqnQOVJUCkYUJcH"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
         "name": "Running Red Lights (feat. Rivers Cuomo & Pink Siifu)",
         "url": "https://open.spotify.com/album/0H6aN1da6Hv7nnZK5RrQVm"
       },
@@ -1039,18 +1055,18 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "Butterfly Blue",
-        "url": "https://open.spotify.com/album/52jN5oOP2tn7TnL8PNoT8Z"
+        "name": "Your Hero Is Not Dead",
+        "url": "https://open.spotify.com/album/6zSzwpkKgNJfQWwCEQTQDv"
       },
       "artists": [
         {
-          "name": "Mallrat",
-          "url": "https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A"
+          "name": "Westerman",
+          "url": "https://open.spotify.com/artist/09s6bLEw45wioK9ytf3nsA"
         }
       ],
-      "duration_ms": 208988,
-      "name": "Rockstar",
-      "url": "https://open.spotify.com/track/6PwwPfIpqnQOVJUCkYUJcH"
+      "duration_ms": 258266,
+      "name": "Confirmation (SSBD)",
+      "url": "https://open.spotify.com/track/3Pqy5RRW33bhxYXN0ZZNXG"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -1067,22 +1083,6 @@
       "duration_ms": 195954,
       "name": "Tethered, Wrapped Around",
       "url": "https://open.spotify.com/track/3GVmuXATyp9JAiAcwASlTJ"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
-        "name": "Your Hero Is Not Dead",
-        "url": "https://open.spotify.com/album/6zSzwpkKgNJfQWwCEQTQDv"
-      },
-      "artists": [
-        {
-          "name": "Westerman",
-          "url": "https://open.spotify.com/artist/09s6bLEw45wioK9ytf3nsA"
-        }
-      ],
-      "duration_ms": 258266,
-      "name": "Confirmation (SSBD)",
-      "url": "https://open.spotify.com/track/3Pqy5RRW33bhxYXN0ZZNXG"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "Bel\u00b7li",
-        "url": "https://open.spotify.com/album/538Vk5Rhv1AybJcuL2L5FS"
-      },
-      "artists": [
-        {
-          "name": "Uma",
-          "url": "https://open.spotify.com/artist/0RZewmdiKrFtejSJ3jfmGs"
-        }
-      ],
-      "duration_ms": 172308,
-      "name": "Astronaut",
-      "url": "https://open.spotify.com/track/4ZSgMLmYmuxwTb8jO8L2vJ"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
         "name": "California Screaming",
         "url": "https://open.spotify.com/album/61Xno5oEO3TchKwEpmYyvw"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 197000,
       "name": "California Screaming",
       "url": "https://open.spotify.com/track/7aoQKm7L9RGg5VxYitUkEG"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
+        "name": "Bel\u00b7li",
+        "url": "https://open.spotify.com/album/538Vk5Rhv1AybJcuL2L5FS"
+      },
+      "artists": [
+        {
+          "name": "Uma",
+          "url": "https://open.spotify.com/artist/0RZewmdiKrFtejSJ3jfmGs"
+        }
+      ],
+      "duration_ms": 172308,
+      "name": "Astronaut",
+      "url": "https://open.spotify.com/track/4ZSgMLmYmuxwTb8jO8L2vJ"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -1657,20 +1657,20 @@
       "url": "https://open.spotify.com/track/0Zga9iWiTp760vRHHLNxFF"
     },
     {
-      "added_at": "2021-09-24 18:51:29",
+      "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "Moody",
-        "url": "https://open.spotify.com/album/2jL3IM42IlCMhxlwMbWZFz"
+        "name": "Solstice",
+        "url": "https://open.spotify.com/album/6jPO2gtwitpbmkEDD0kYLn"
       },
       "artists": [
         {
-          "name": "Self Esteem",
-          "url": "https://open.spotify.com/artist/3K9muOlJVKLgH4SIwwZiDe"
+          "name": "Ted Jasper",
+          "url": "https://open.spotify.com/artist/4PfXiTCDXTYEobjXjcRFNW"
         }
       ],
-      "duration_ms": 200120,
-      "name": "Moody",
-      "url": "https://open.spotify.com/track/4U3S9YNxWWfMtcvz3UgDYD"
+      "duration_ms": 150091,
+      "name": "Higher Plain",
+      "url": "https://open.spotify.com/track/4jVkkMuhZscX5F7BIbDVBR"
     }
   ],
   "unique_name": "Your Office Stereo",

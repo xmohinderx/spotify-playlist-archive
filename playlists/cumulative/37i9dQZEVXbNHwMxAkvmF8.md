@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Hungary.
 
-523 songs - 1 day 3 hr 43 min - [published](https://open.spotify.com/playlist/7svddjzxIPaFrTrcCSo8Qo)
+524 songs - 1 day 3 hr 46 min - [published](https://open.spotify.com/playlist/7svddjzxIPaFrTrcCSo8Qo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,12 +26,13 @@
 | [aight](https://open.spotify.com/track/37kI8bPlN5iN37kSFTyKCY) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [camouflage](https://open.spotify.com/album/3OFCYRfoLNKtAnr1CsSVqa) | 2:07 | 2021-07-01 | 2021-11-10 |
 | [Ajándék](https://open.spotify.com/track/0a0zPUrwviAua4IhhaYUsP) | [Bereczki Zoltán](https://open.spotify.com/artist/2KjgTkzmS3SEzxiMsNpZiU), [Dóra Szinetár](https://open.spotify.com/artist/1eKpiP1plO0BqtwPCzzv0E) | [Duett Karácsony](https://open.spotify.com/album/6gwEBQlpdksPo5q8JzCnJg) | 4:28 | 2021-12-24 | 2021-12-27 |
 | [Ajándék](https://open.spotify.com/track/33xrhC6KmGnt4pemTc2yiv) | [Paulina](https://open.spotify.com/artist/2GRFrkzvkVB4s7dikR8PWx) | [Ajándék](https://open.spotify.com/album/1c6Hyw9aK1imHiTewfPvKK) | 3:26 | 2021-10-27 | 2022-03-12 |
-| [ALBÁN TYGA INTERLUDE](https://open.spotify.com/track/5JTqGjzGa6d5byvxDIQDqc) | [Beton.Hofi](https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y) | [PLAYBÁNIA](https://open.spotify.com/album/5xMzTHcRiGKdBhGj8PjV4h) | 1:49 | 2022-09-03 |  |
+| [ALBÁN TYGA INTERLUDE](https://open.spotify.com/track/5JTqGjzGa6d5byvxDIQDqc) | [Beton.Hofi](https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y) | [PLAYBÁNIA](https://open.spotify.com/album/5xMzTHcRiGKdBhGj8PjV4h) | 1:49 | 2022-09-03 | 2022-09-09 |
 | [All I Want for Christmas Is You](https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Merry Christmas](https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN) | 4:01 | 2021-11-23 | 2021-12-30 |
 | [All Too Well \(10 Minute Version\) \(Taylor's Version\) \(From The Vault\)](https://open.spotify.com/track/5enxwA8aAbwZbf5qCHORXi) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 10:13 | 2021-11-16 | 2021-11-20 |
 | [Already Dead](https://open.spotify.com/track/7qM1BWAsZMTYh4BcYLb0uQ) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Already Dead](https://open.spotify.com/album/2aTGgm64NP8b7rVpnp8Lil) | 3:51 | 2021-11-14 | 2021-11-19 |
 | [Amikor Feladnád](https://open.spotify.com/track/5pZDYdwuEWlCT2Rs7mNyvW) | [Halott Pénz](https://open.spotify.com/artist/0Hir00e5sSBEH8WqOmvi8h) | [Amikor Feladnád](https://open.spotify.com/album/1vuxcePphxERKK1U3Z3WQU) | 3:18 | 2021-08-22 | 2021-09-15 |
 | [Another Love](https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Long Way Down](https://open.spotify.com/album/0KGBW1MQtC2aFPCDUdAkdJ) | 4:04 | 2021-04-14 | 2022-09-04 |
+| [Anya](https://open.spotify.com/track/1iD1gkUhOrj6fD5QrFrA8b) | [Berry](https://open.spotify.com/artist/2bEeaSG5gZ9beyGIn55Mp0) | [Anya](https://open.spotify.com/album/47KIF0JUmxMOfjXyldkhXl) | 2:44 | 2022-09-08 |  |
 | [Anya mérges](https://open.spotify.com/track/0xHCcgCYUgohuHWZmOcl6C) | [Dzsúdló](https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG) | [Szörnyeteg](https://open.spotify.com/album/3fwAWokcyYJTxZWDsyOjYm) | 4:12 | 2021-07-31 | 2021-08-02 |
 | [Aranyapám](https://open.spotify.com/track/2b9OlSP0FG6xb6Ee49C0dm) | [Paulina](https://open.spotify.com/artist/2GRFrkzvkVB4s7dikR8PWx) | [Aranyapám](https://open.spotify.com/album/4pkxZRCLJkMZF8NoKAtLqp) | 2:37 | 2021-12-10 | 2022-01-01 |
 | [Arcade](https://open.spotify.com/track/1J14CdDAvBTE1AJYUOwl6C) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [Small Town Boy \(Track By Track\)](https://open.spotify.com/album/4fEgAL4ge9hHhxVDCUZbeF) | 3:05 | 2021-03-27\* | 2021-06-06 |

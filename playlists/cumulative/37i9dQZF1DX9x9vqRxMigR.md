@@ -4,7 +4,7 @@
 
 > Learn more at <a href="https://folk.org/programs/conference/">folk.org/conference</a>\. Cover: Kyshona Armstrong
 
-330 songs - 21 hr 47 min - [published](https://open.spotify.com/playlist/77WoQGjdtAfs1yp2VHvlry)
+331 songs - 21 hr 51 min - [published](https://open.spotify.com/playlist/77WoQGjdtAfs1yp2VHvlry)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,7 +127,8 @@
 | [Headstart](https://open.spotify.com/track/4hvogg26QxhiwZejv9nNae) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Headstart](https://open.spotify.com/album/2MFtg3BQopMqFiEYXQZ9q2) | 2:22 | 2021-02-23 | 2022-04-26 |
 | [Helpless Wanderer](https://open.spotify.com/track/4Ft8AHTuhuRi0e3rMM9LHA) | [Underhill Rose](https://open.spotify.com/artist/3jrCADOrZCtzhNMCOekvPm) | [Something Real](https://open.spotify.com/album/1aLIPBFFED0RqXtI90dM8X) | 3:17 | 2022-04-25 |  |
 | [Hey Amorino](https://open.spotify.com/track/78V5paOjhScg9BJwrafYFi) | [Amanda Pascali](https://open.spotify.com/artist/4Qu36iUKxY43MhQImctqh0) | [Still It Moves](https://open.spotify.com/album/7bFksbSvgvfPYabOt41VSS) | 3:30 | 2021-02-23 | 2022-04-26 |
-| [Hey, Runner!](https://open.spotify.com/track/7kPZ7eBIrncOUBOqQaRudz) | [The Arcadian Wild](https://open.spotify.com/artist/4tHZV2ZowPkzOvX4eG1inY) | [Finch In The Pantry](https://open.spotify.com/album/3GNgRPzfWWQ6UAkcYzTTvg) | 3:56 | 2022-04-25 |  |
+| [Hey, Runner!](https://open.spotify.com/track/7kPZ7eBIrncOUBOqQaRudz) | [The Arcadian Wild](https://open.spotify.com/artist/4tHZV2ZowPkzOvX4eG1inY) | [Finch In The Pantry](https://open.spotify.com/album/3GNgRPzfWWQ6UAkcYzTTvg) | 3:56 | 2022-04-25 | 2022-09-09 |
+| [Hey, Runner!](https://open.spotify.com/track/3AWXNZZoSkvyJYAo2XxJxO) | [The Arcadian Wild](https://open.spotify.com/artist/4tHZV2ZowPkzOvX4eG1inY) | [Finch In The Pantry](https://open.spotify.com/album/5GXqDQAqbb4sJ63OGZAaSh) | 3:58 | 2022-04-25 |  |
 | [High Arctic](https://open.spotify.com/track/3jz3HLqtV4pFs1SwbngREu) | [Digawolf](https://open.spotify.com/artist/1n3823h3KZYqMR8v2QL2Zm) | [High Arctic](https://open.spotify.com/album/7EA3nJKjj6WGovRxKf1NTo) | 3:28 | 2022-04-25 |  |
 | [Highwire](https://open.spotify.com/track/6V7wOrJCNIAbHdaoQlJCyx) | [Mehuman](https://open.spotify.com/artist/6wq4HwNUylvqMvhcwzJytI) | [Beautiful Ashes](https://open.spotify.com/album/0fNMAfwaO3lUmzBUDM489S) | 4:15 | 2022-04-25 |  |
 | [HISTORY](https://open.spotify.com/track/12TLBNeRIhUPgGIkacXrVO) | [Beatrice Deer](https://open.spotify.com/artist/3YEhsztAtjqpC0JikHMmYe) | [HISTORY](https://open.spotify.com/album/4GQP3AyTjmTd9e8CmuYzWP) | 3:31 | 2022-04-25 |  |

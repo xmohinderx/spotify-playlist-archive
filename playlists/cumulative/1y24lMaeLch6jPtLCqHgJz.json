@@ -1446,6 +1446,32 @@
     },
     {
       "album": {
+        "name": "Start Of Something",
+        "url": "https://open.spotify.com/album/3RhV1d1nqKSucVo9SGtSeI"
+      },
+      "artists": [
+        {
+          "name": "Futuristic Polar Bears",
+          "url": "https://open.spotify.com/artist/47v4vGA1qCl7hyevSkpRM7"
+        },
+        {
+          "name": "Jarod Glawe",
+          "url": "https://open.spotify.com/artist/6gzCf25nxnA68tQ3kJUEB4"
+        },
+        {
+          "name": "Jordan Grace",
+          "url": "https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184620,
+      "name": "Start Of Something",
+      "url": "https://open.spotify.com/track/2NUGRLu02FXvUEqd59ZBuA"
+    },
+    {
+      "album": {
         "name": "Stay With You",
         "url": "https://open.spotify.com/album/7mEELkdCH45bqGdq3oCY1C"
       },

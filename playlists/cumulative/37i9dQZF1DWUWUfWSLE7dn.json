@@ -763,6 +763,24 @@
     {
       "album": {
         "name": "I'm Sorry",
+        "url": "https://open.spotify.com/album/4p1bxpSIls5jSr9CWRJmSz"
+      },
+      "artists": [
+        {
+          "name": "BlackDarkwin",
+          "url": "https://open.spotify.com/artist/66nc7AwBS925cs768stOQg"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173763,
+      "name": "I'm Sorry",
+      "url": "https://open.spotify.com/track/1gSTJluVhF7DoMPAqTqZxi"
+    },
+    {
+      "album": {
+        "name": "I'm Sorry",
         "url": "https://open.spotify.com/album/2KiX8D8GGwlXgjfwYb5z8M"
       },
       "artists": [
@@ -773,7 +791,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 173763,
       "name": "I'm Sorry",
       "url": "https://open.spotify.com/track/63UfuiDT4cb2fi4LPSNvlm"
@@ -867,6 +885,28 @@
       "duration_ms": 136202,
       "name": "Lands of Despair",
       "url": "https://open.spotify.com/track/7AXO9X1BOHNA19vGB8K876"
+    },
+    {
+      "album": {
+        "name": "Quartet Classics Series: Largo from Xerxes",
+        "url": "https://open.spotify.com/album/3REN8n3aARNwmHx9YcGjvQ"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Artwinder Modern Quartet",
+          "url": "https://open.spotify.com/artist/2ipPNWfa4u0WTh99vGxpQ6"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Largo from Xerxes",
+      "url": "https://open.spotify.com/track/3dSA0ZoHzvXxvticgIz5MJ"
     },
     {
       "album": {
@@ -1563,6 +1603,32 @@
       "duration_ms": 141267,
       "name": "The Ballad of the Lake of Tears",
       "url": "https://open.spotify.com/track/0wGMUgcCclFNTW6Masy6WQ"
+    },
+    {
+      "album": {
+        "name": "The Dawning",
+        "url": "https://open.spotify.com/album/2dukrzOf2iXJpRDSJqZRWH"
+      },
+      "artists": [
+        {
+          "name": "Christoffer Moe Ditlevsen",
+          "url": "https://open.spotify.com/artist/1byqtZiN0rWjNg7kXy5j3S"
+        },
+        {
+          "name": "Anna Dager",
+          "url": "https://open.spotify.com/artist/2So39o3NqsjLtwwohABw5B"
+        },
+        {
+          "name": "Hanna Ekstr\u00f6m",
+          "url": "https://open.spotify.com/artist/5oKBGEzl76HnP3fS2cU366"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167458,
+      "name": "The Dawning",
+      "url": "https://open.spotify.com/track/0k963HCwT2H2SLhdA8CWve"
     },
     {
       "album": {

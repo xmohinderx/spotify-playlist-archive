@@ -4,7 +4,7 @@
 
 > The best NEW Music right now, curated by Kitsuné Musique and added to one HOT playlist : a FRESH selection updated every Monday, Wednesday &amp; Friday.
 
-79 songs - 4 hr 35 min - [published](https://open.spotify.com/playlist/6gxGlcxed4RBnU8Hz4XDes)
+80 songs - 4 hr 38 min - [published](https://open.spotify.com/playlist/6gxGlcxed4RBnU8Hz4XDes)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Dead Ideas](https://open.spotify.com/track/6kcBkp3vklsEdkoX4UowB4) | [Don't Connect](https://open.spotify.com/artist/7MMXoJIkvbJwm7kugu3gmt), [Flyboy Jetty](https://open.spotify.com/artist/76bn42h0a8NQKoqPOuzHFM) | [Dead Ideas](https://open.spotify.com/album/261FxBzquUe3fSrhoJmpzl) | 3:18 | 2022-04-01 | 2022-06-11 |
 | [Deezy Daisy \- Oxford Remix](https://open.spotify.com/track/5EHEEtGjuDstWdlPJk8aiY) | [Portland](https://open.spotify.com/artist/3t56cz9dhL53ioNIZFCDBo), [Oxford](https://open.spotify.com/artist/0RcOhppBdwj9IPV5ByDV8X) | [Kitsuné: Deezy Daisy \(Remixes\)](https://open.spotify.com/album/3xct0okCH1yFJPQ7Sc1iU2) | 4:27 | 2021-11-05 |  |
 | [Denouement](https://open.spotify.com/track/4ml7mrfUUxg8VtLwnu38nr) | [Lil Seyi](https://open.spotify.com/artist/2Z5C4k6StRPuT2ZipvC00O), [eisenach](https://open.spotify.com/artist/0RO451V3eGOiatc3IQXtG7) | [Denouement](https://open.spotify.com/album/4OM9A1NtnL1vVCuPMj8gfT) | 3:12 | 2021-11-05 |  |
+| [DO MAR](https://open.spotify.com/track/0ra2NmkSqQzmRE5DUdNUTb) | [MATVEÏ](https://open.spotify.com/artist/2c8JocB8eI6cCGaF5xGoT1) | [DO MAR](https://open.spotify.com/album/1Gdc4ABDwkAAPO6UP3cY7Q) | 2:42 | 2022-09-07 |  |
 | [Does the Magic Spin?](https://open.spotify.com/track/00DVwBTumBG1dH9OYMDolv) | [POCKET](https://open.spotify.com/artist/55xouRrT7A66F3oitgm0Yw) | [Does the Magic Spin?](https://open.spotify.com/album/1bNKiavjNgYlbJudcRX3Kg) | 3:00 | 2022-06-17 | 2022-09-06 |
 | [Drugs in My Body](https://open.spotify.com/track/2OzxUMVcb8RakhwGRJwZGK) | [Thieves Like Us](https://open.spotify.com/artist/5miWG3FgilzOG7dy3aowZc) | [Kitsuné: Drugs in My Body](https://open.spotify.com/album/7KRC3eWmoCTMP2t7c8o7ZH) | 3:36 | 2021-11-05 |  |
 | [Ecstasy \- Mixed](https://open.spotify.com/track/2PspwQLfDzLUOyaxQ7de5L) | [Fabich](https://open.spotify.com/artist/1mwP5J1kB8clYx0SoNL0uh), [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k), [Pastel](https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO), [Bambie](https://open.spotify.com/artist/2K2zheLCDXiIK9j83oWNxv) | [Café Kitsuné Mixed by Fabich](https://open.spotify.com/album/3MlhqxDLKTzmEHpHlQFBFS) | 2:19 | 2021-11-05 |  |
@@ -58,7 +59,7 @@
 | [Opposites](https://open.spotify.com/track/3h3QqLaFYJR4XlIROuFkb1) | [Ade](https://open.spotify.com/artist/2QpgfGNDMwaugmjkVNEWtb) | [Opposites](https://open.spotify.com/album/2O7ykDuK6mv9nh4UQttmJW) | 3:39 | 2022-07-11 |  |
 | [OVERDOSE](https://open.spotify.com/track/7J1idk8GVjvHVh76gMRQtl) | [MATVEÏ](https://open.spotify.com/artist/2c8JocB8eI6cCGaF5xGoT1) | [FALL: OVERDOSE x RUMBA](https://open.spotify.com/album/7Hg7lABFu1peV1dnG4nNJN) | 2:33 | 2021-11-05 |  |
 | [PALM SPRINGS](https://open.spotify.com/track/0KWDPINXq2YWsHjlC22flO) | [Distance Learning](https://open.spotify.com/artist/0QYMpYHo80SIAEdOJ70GPd) | [PALM SPRINGS](https://open.spotify.com/album/2TbX2nyWZdxlyMI9CgUmRn) | 2:51 | 2022-05-09 | 2022-07-14 |
-| [Playboy](https://open.spotify.com/track/3OHEg0bjexTu5dnVzm5xlN) | [Milk Talk](https://open.spotify.com/artist/739rlT7CS6nZDmGB9Y9qCR) | [Playboy](https://open.spotify.com/album/2BDbKVkQ00i8Nwaf4cN3mC) | 3:29 | 2022-06-20 |  |
+| [Playboy](https://open.spotify.com/track/3OHEg0bjexTu5dnVzm5xlN) | [Milk Talk](https://open.spotify.com/artist/739rlT7CS6nZDmGB9Y9qCR) | [Playboy](https://open.spotify.com/album/2BDbKVkQ00i8Nwaf4cN3mC) | 3:29 | 2022-06-20 | 2022-09-09 |
 | [R A B O N A](https://open.spotify.com/track/2S369D2uttM1uwlfqtHhUw) | [MATVEÏ](https://open.spotify.com/artist/2c8JocB8eI6cCGaF5xGoT1) | [R A B O N A](https://open.spotify.com/album/18mWb3oJws5PhyH8aETKZs) | 2:50 | 2022-06-08 | 2022-08-23 |
 | [Recall \(Young Man\)](https://open.spotify.com/track/3qn8vCHlKfZiiZaQZHFwYI) | [Lil Seyi](https://open.spotify.com/artist/2Z5C4k6StRPuT2ZipvC00O), [Omolola](https://open.spotify.com/artist/2oiwI74vU7D2J3F8bNqf0Z) | [Recall \(Young Man\)](https://open.spotify.com/album/2A787Mr8PzkjC2lUjwOxAb) | 5:17 | 2022-06-23 |  |
 | [Recharge](https://open.spotify.com/track/0jweI4ue2Q3FAcBEiz2Bf0) | [July 7](https://open.spotify.com/artist/51kPCmCJ7rXClxKDc2r4RA) | [Recharge](https://open.spotify.com/album/6JnyLWPrZowsSOvW2yGTbR) | 2:40 | 2022-06-06 | 2022-08-13 |

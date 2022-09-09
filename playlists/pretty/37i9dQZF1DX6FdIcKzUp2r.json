@@ -1,12 +1,12 @@
 {
   "description": "Work or rest with these gems from the 80s.",
-  "num_followers": 183001,
+  "num_followers": 183138,
   "original_name": "Chilled 80s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU0NzY0NjM5NiwwMDAwMDAwMDNhYzUyMWRkMzcxMzgzMmEyNGJiM2Q1ZTI1Y2YyYzY3",
+  "snapshot_id": "MTU0NzY0NjM5NiwwMDAwMDAwMGYzMDM4ZGE3MjYwMjg1ZjAwN2QwMWU5MmQyMWU5MmQ4",
   "tracks": [
     {
       "added_at": "2018-12-12 11:36:39",
@@ -59,22 +59,6 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
-        "name": "Eye In The Sky (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4BGd9BmpePqeSfHLeYiCDr"
-      },
-      "artists": [
-        {
-          "name": "The Alan Parsons Project",
-          "url": "https://open.spotify.com/artist/2m62cc253Xvd9qYQ8d2X3d"
-        }
-      ],
-      "duration_ms": 276280,
-      "name": "Eye In The Sky",
-      "url": "https://open.spotify.com/track/39qYD4J4BKvZMQgxfXl5bv"
-    },
-    {
-      "added_at": "2018-12-12 11:36:39",
-      "album": {
         "name": "Christopher Cross",
         "url": "https://open.spotify.com/album/2m2nl8cBT7bEgIA6LLmgah"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 256146,
       "name": "Sailing",
       "url": "https://open.spotify.com/track/6Hu6dzwlvoyg3zBUC8k4BK"
+    },
+    {
+      "added_at": "2018-12-12 11:36:39",
+      "album": {
+        "name": "Eye In The Sky (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4BGd9BmpePqeSfHLeYiCDr"
+      },
+      "artists": [
+        {
+          "name": "The Alan Parsons Project",
+          "url": "https://open.spotify.com/artist/2m62cc253Xvd9qYQ8d2X3d"
+        }
+      ],
+      "duration_ms": 276280,
+      "name": "Eye In The Sky",
+      "url": "https://open.spotify.com/track/39qYD4J4BKvZMQgxfXl5bv"
     },
     {
       "added_at": "2018-12-12 11:36:39",
@@ -191,6 +191,22 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
+        "name": "Rio (Collector's Edition)",
+        "url": "https://open.spotify.com/album/02tfQwJSOLP77oCd9U8bqm"
+      },
+      "artists": [
+        {
+          "name": "Duran Duran",
+          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
+        }
+      ],
+      "duration_ms": 333306,
+      "name": "Save a Prayer - 2009 Remaster",
+      "url": "https://open.spotify.com/track/1ff8lsrJ2kuZuofMw81EQo"
+    },
+    {
+      "added_at": "2018-12-12 11:36:39",
+      "album": {
         "name": "Welcome To The Pleasuredome",
         "url": "https://open.spotify.com/album/0FU4Eo42Oyg1We3eRrOf4m"
       },
@@ -219,22 +235,6 @@
       "duration_ms": 256839,
       "name": "Avalon",
       "url": "https://open.spotify.com/track/7iWIdiJlKvJ4PjFYVrWLUU"
-    },
-    {
-      "added_at": "2018-12-12 11:36:39",
-      "album": {
-        "name": "Rio (Collector's Edition)",
-        "url": "https://open.spotify.com/album/02tfQwJSOLP77oCd9U8bqm"
-      },
-      "artists": [
-        {
-          "name": "Duran Duran",
-          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
-        }
-      ],
-      "duration_ms": 333306,
-      "name": "Save a Prayer - 2009 Remaster",
-      "url": "https://open.spotify.com/track/1ff8lsrJ2kuZuofMw81EQo"
     },
     {
       "added_at": "2018-12-12 11:36:39",
@@ -543,22 +543,6 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
-        "name": "The Sensual World (2018 Remaster)",
-        "url": "https://open.spotify.com/album/3k9p0yOIiw3O39chv3fYYO"
-      },
-      "artists": [
-        {
-          "name": "Kate Bush",
-          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
-        }
-      ],
-      "duration_ms": 216306,
-      "name": "This Woman's Work - 2018 Remaster",
-      "url": "https://open.spotify.com/track/04GlCBjIl0HPR3TWQpraJ3"
-    },
-    {
-      "added_at": "2018-12-12 11:36:39",
-      "album": {
         "name": "Rock a Little",
         "url": "https://open.spotify.com/album/0guJSEAsHAQ1gXPC18u7hc"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 279413,
       "name": "Has Anyone Ever Written Anything for You",
       "url": "https://open.spotify.com/track/1PAnGhRo2tHpM2DNibEEe6"
+    },
+    {
+      "added_at": "2018-12-12 11:36:39",
+      "album": {
+        "name": "The Sensual World (2018 Remaster)",
+        "url": "https://open.spotify.com/album/3k9p0yOIiw3O39chv3fYYO"
+      },
+      "artists": [
+        {
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+        }
+      ],
+      "duration_ms": 216306,
+      "name": "This Woman's Work - 2018 Remaster",
+      "url": "https://open.spotify.com/track/04GlCBjIl0HPR3TWQpraJ3"
     },
     {
       "added_at": "2018-12-12 11:36:39",
@@ -591,22 +591,6 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
-        "name": "Tunnel Of Love",
-        "url": "https://open.spotify.com/album/5Qcef60m4gcckV24PmPYVq"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 261826,
-      "name": "One Step Up",
-      "url": "https://open.spotify.com/track/3ICZte49haM8ID7H6LSSjb"
-    },
-    {
-      "added_at": "2018-12-12 11:36:39",
-      "album": {
         "name": "The Best Of Jon & Vangelis",
         "url": "https://open.spotify.com/album/4alWkBQdvkbrs1cB5pFjzc"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 288200,
       "name": "I Hear You Now",
       "url": "https://open.spotify.com/track/0rhUvAqeXfG4gl4IZhglgX"
+    },
+    {
+      "added_at": "2018-12-12 11:36:39",
+      "album": {
+        "name": "Tunnel Of Love",
+        "url": "https://open.spotify.com/album/5Qcef60m4gcckV24PmPYVq"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 261826,
+      "name": "One Step Up",
+      "url": "https://open.spotify.com/track/3ICZte49haM8ID7H6LSSjb"
     },
     {
       "added_at": "2018-12-12 11:36:39",
@@ -767,22 +767,6 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
-        "name": "Hounds of Love (2018 Remaster)",
-        "url": "https://open.spotify.com/album/3OYnManu1Nlxnw9OMng7BH"
-      },
-      "artists": [
-        {
-          "name": "Kate Bush",
-          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
-        }
-      ],
-      "duration_ms": 165013,
-      "name": "And Dream Of Sheep - 2018 Remaster",
-      "url": "https://open.spotify.com/track/0NMLAW3ma3naFx3DQRrnNS"
-    },
-    {
-      "added_at": "2018-12-12 11:36:39",
-      "album": {
         "name": "Tango In the Night (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 189760,
       "name": "Mystified - 2017 Remaster",
       "url": "https://open.spotify.com/track/524nCOIQg9fi0pETVnbpv8"
+    },
+    {
+      "added_at": "2018-12-12 11:36:39",
+      "album": {
+        "name": "Hounds of Love (2018 Remaster)",
+        "url": "https://open.spotify.com/album/3OYnManu1Nlxnw9OMng7BH"
+      },
+      "artists": [
+        {
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+        }
+      ],
+      "duration_ms": 165013,
+      "name": "And Dream Of Sheep - 2018 Remaster",
+      "url": "https://open.spotify.com/track/0NMLAW3ma3naFx3DQRrnNS"
     },
     {
       "added_at": "2018-12-12 11:36:39",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
-        "name": "Yellow Moon",
-        "url": "https://open.spotify.com/album/5mk6XIaqIFbESIcfqh8GEF"
-      },
-      "artists": [
-        {
-          "name": "The Neville Brothers",
-          "url": "https://open.spotify.com/artist/3d1olqhURDe8e5HOta1Qxg"
-        }
-      ],
-      "duration_ms": 400266,
-      "name": "With God On Our Side",
-      "url": "https://open.spotify.com/track/2jv5qRqrweD00U4VwDfbWr"
-    },
-    {
-      "added_at": "2018-12-12 11:36:39",
-      "album": {
         "name": "Music for the Masses (2006 Remaster)",
         "url": "https://open.spotify.com/album/4tPRXghD4ago6NYyyfrtES"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 239720,
       "name": "The Things You Said - 2006 Remaster",
       "url": "https://open.spotify.com/track/3i1Th1jZXXO0ZpGKhpTKWK"
+    },
+    {
+      "added_at": "2018-12-12 11:36:39",
+      "album": {
+        "name": "Yellow Moon",
+        "url": "https://open.spotify.com/album/5mk6XIaqIFbESIcfqh8GEF"
+      },
+      "artists": [
+        {
+          "name": "The Neville Brothers",
+          "url": "https://open.spotify.com/artist/3d1olqhURDe8e5HOta1Qxg"
+        }
+      ],
+      "duration_ms": 400266,
+      "name": "With God On Our Side",
+      "url": "https://open.spotify.com/track/2jv5qRqrweD00U4VwDfbWr"
     },
     {
       "added_at": "2018-12-12 11:36:39",

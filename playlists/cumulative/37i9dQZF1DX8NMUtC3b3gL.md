@@ -4,7 +4,7 @@
 
 > beautiful beats for beautiful moments.
 
-211 songs - 8 hr 20 min - [published](https://open.spotify.com/playlist/2nsz5w7fkkZs2YsroV1TdR)
+214 songs - 8 hr 26 min - [published](https://open.spotify.com/playlist/2nsz5w7fkkZs2YsroV1TdR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Chance](https://open.spotify.com/track/1FPqkuTb743SfNFyDGwh1d) | [Side Sledge](https://open.spotify.com/artist/04ZyJQLsMY92swDhrrSqGe) | [Chance](https://open.spotify.com/album/4MaBzgmtaK2k7QOr9cFs5g) | 3:43 | 2022-05-27 |  |
 | [Chazzed](https://open.spotify.com/track/2h8saMMTJWqD01ZKzkLqdi) | [Justnormal](https://open.spotify.com/artist/2YCz7aHoRoAZ435UDLOKOs) | [Longings](https://open.spotify.com/album/304bggytiHFgGxQr93ftkm) | 2:17 | 2022-05-27 |  |
 | [Check It](https://open.spotify.com/track/6C94TkFvFvfzKfgUZeIW7R) | [Alys Good](https://open.spotify.com/artist/1p2RVv2wjq7aDQ6HPsjVgd) | [Fly Footage](https://open.spotify.com/album/7ENKoGVELyvs5Jndq3O9hT) | 2:19 | 2022-08-19 |  |
+| [City Lights](https://open.spotify.com/track/2hU0KZRPVZ1z7AZga7PXup) | [Smith Village Beat Street](https://open.spotify.com/artist/40rTd7D3ud1Q9BB4Qop0WF) | [City Lights](https://open.spotify.com/album/1i3HkR1ygBKfTvBU3dm0s3) | 1:53 | 2022-09-09 |  |
 | [Clarity](https://open.spotify.com/track/1bdGo5PNU1fmSJy8vwkzWv) | [Racasse](https://open.spotify.com/artist/0GwP2VFRGAt7RaZwjDQHN6), [Gabb.](https://open.spotify.com/artist/5CaP1iRqgYmjt1t9WSFHYG), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Clarity](https://open.spotify.com/album/09tN0ZxxSclFUo7l03zktC) | 2:04 | 2022-05-27 | 2022-07-08 |
 | [Clean Choices](https://open.spotify.com/track/3alz0TE86DIB2JnbbAOEME) | [KNŐDA](https://open.spotify.com/artist/2fDqX2aMSmr0pVuSdK5tWy) | [Clean Choices](https://open.spotify.com/album/71ti5CfDSeCMbrAFRG5hsu) | 3:07 | 2022-08-12 |  |
 | [Cloud Base](https://open.spotify.com/track/3l4Sut89BnuWk7Ndn250DM) | [Timestreet](https://open.spotify.com/artist/1ZUmSYkOlZf9weqimkmtC6) | [Waterfalls](https://open.spotify.com/album/3NKUeD45OF8kHbL2zWNytO) | 2:37 | 2022-05-27 |  |
@@ -50,6 +51,7 @@
 | [daydreamer](https://open.spotify.com/track/5F8AIxDJRMmr4dBo4B340I) | [Patient Zero Beats](https://open.spotify.com/artist/6PXzb9jaG5bAOY7ccICh47) | [daydreamer](https://open.spotify.com/album/1GgCmTQ8Gar7oKEqrkZBVY) | 2:12 | 2022-09-02 |  |
 | [Digital lounge](https://open.spotify.com/track/24XhVpnlzq5fsf7TPFccwx) | [Roboto 23](https://open.spotify.com/artist/4BqXrDIymPUviUv9HXmmjO) | [Digital lounge](https://open.spotify.com/album/1Lbp8hXI1Q1LSCfpwGZfVt) | 2:09 | 2022-05-27 |  |
 | [Dizzy Dino](https://open.spotify.com/track/0JEt2ZD8qL4JNMb2klnalV) | [Dee Dee Kidd](https://open.spotify.com/artist/0FiYOjX2fWu29n1P8sud2s) | [Dizzy Dino](https://open.spotify.com/album/7vGE2cjl9s1fBj8MJcTDLj) | 2:48 | 2022-07-15 |  |
+| [Downtown](https://open.spotify.com/track/1PSQGXCHE2ilzbBBBapF5B) | [Dreamfield](https://open.spotify.com/artist/0Z1g78JEjg1BhRNw6hToVm), [Summit One](https://open.spotify.com/artist/4LjrwGL6ImaewVOcW6kJ42) | [Downtown](https://open.spotify.com/album/4DYWk50ZlEIc9UOmdE3Wfv) | 2:14 | 2022-09-09 |  |
 | [Dreamworld Lighting](https://open.spotify.com/track/0WAn02sRN7qwxqr4ErO0SC) | [Alfonsi Kazzi](https://open.spotify.com/artist/22L0adl99CJwKSs2MUo4fH) | [Dreamworld Lighting](https://open.spotify.com/album/5dDXvbMRjN0EwnzvtOW6ZF) | 1:48 | 2022-06-17 |  |
 | [duduk](https://open.spotify.com/track/5l2hrRZTPzvxTpiqLYOH4N) | [Jokabi](https://open.spotify.com/artist/7F93sQ33frkSEdmSunHEcP) | [duduk](https://open.spotify.com/album/1LsXJCniTm4NrKhAGjcjSg) | 2:30 | 2022-08-05 |  |
 | [dunes](https://open.spotify.com/track/6olrZxU7zlcIPtOhnSx3Qa) | [home grown](https://open.spotify.com/artist/3HItQVgl9wuiGIluHnIfTS) | [dunes](https://open.spotify.com/album/6jBmrVhC902zy5p5dUTiTb) | 1:51 | 2022-05-27 | 2022-08-12 |
@@ -140,7 +142,7 @@
 | [play’n rewind](https://open.spotify.com/track/4mQok4Y3Dvma1vB8cEdzP3) | [Mint Tape](https://open.spotify.com/artist/35l6dl8unoLV3T6EjbO0hn) | [play’n rewind](https://open.spotify.com/album/0Vra4cB3PZ6sjKbr19BQGO) | 1:21 | 2022-05-27 |  |
 | [Polyforma](https://open.spotify.com/track/5TnCrehFKT6TsvHSeADpce) | [BLVKSHP](https://open.spotify.com/artist/49SU4KDi7vYuSfqsylFe6g) | [Polyforma](https://open.spotify.com/album/6dIeypjoGFFgegU5wj3C0s) | 3:09 | 2022-07-22 | 2022-08-12 |
 | [poolSide](https://open.spotify.com/track/2V33ELzmC3DA4hWxJoxjvX) | [Polis Sitz](https://open.spotify.com/artist/2GHmWUuciILR03aob99yj1) | [Korean BBQ](https://open.spotify.com/album/0sxHgW3KYTmRfFq0qubtvU) | 2:36 | 2022-07-08 |  |
-| [Preti](https://open.spotify.com/track/1XSXrQlUswO2uLlfo1VQoc) | [lorleaf](https://open.spotify.com/artist/4dIQxgH4s739dGAHaKAw0y) | [Preti](https://open.spotify.com/album/143OLYDZUl9xntSWAcOsOJ) | 2:25 | 2022-07-22 |  |
+| [Preti](https://open.spotify.com/track/1XSXrQlUswO2uLlfo1VQoc) | [lorleaf](https://open.spotify.com/artist/4dIQxgH4s739dGAHaKAw0y) | [Preti](https://open.spotify.com/album/143OLYDZUl9xntSWAcOsOJ) | 2:25 | 2022-07-22 | 2022-09-09 |
 | [prettybaby.](https://open.spotify.com/track/447v1kCLZAN4CaVUAcG2Oc) | [Yakuka.](https://open.spotify.com/artist/3h8nRZ5Q3Z1uaFwi7ivPkh) | [prettybaby.](https://open.spotify.com/album/44fDrwORuNkg0kmNbnJvlD) | 2:36 | 2022-07-08 | 2022-07-15 |
 | [Pristine](https://open.spotify.com/track/5hU6UR3JAmobbRF8in1hpN) | [Yasumu](https://open.spotify.com/artist/53rCVzFVlyntj7jEjnY2oM) | [Pristine](https://open.spotify.com/album/68CF9yX62mUPcoJbyVcJD4) | 2:44 | 2022-05-27 |  |
 | [Purple Tie](https://open.spotify.com/track/1F8n6K9urVNsVzmAzDnZkM) | [Robin Slap](https://open.spotify.com/artist/65bnWo5d8B3pl5DfAeIVtW) | [Passion Fruit](https://open.spotify.com/album/7oww4iddHvRz4OZeFZcc3G) | 1:48 | 2022-07-15 |  |
@@ -166,13 +168,14 @@
 | [Shadowplay](https://open.spotify.com/track/395A5TBwtGEqsa5G8IYw1I) | [Shierro](https://open.spotify.com/artist/7EVtRX3E2y1wcAwd2YituJ) | [Shadowplay](https://open.spotify.com/album/756kSTRX64R9il4hyfDty3) | 2:51 | 2022-05-27 |  |
 | [Shinin'](https://open.spotify.com/track/2s7rlnKjJJ8b8UskCtZ7VQ) | [nuttin](https://open.spotify.com/artist/4VO2SFvePDZLXlr7W1EJlu) | [Shinin'](https://open.spotify.com/album/2QjcsjYwpRoP0dRirJVc8Z) | 2:15 | 2022-08-12 |  |
 | [Show Me How Good It Can Get](https://open.spotify.com/track/6oXmftIjSNes0BS1s4xHHI) | [Sarah, the Illstrumentalist](https://open.spotify.com/artist/4D8x1OO5HeS7yQaSoSbAc6) | [Show me how good it can get](https://open.spotify.com/album/51pm8RProx32idqbwg34n0) | 2:14 | 2022-09-02 |  |
-| [Side Streets](https://open.spotify.com/track/5Tionopm4U5KuVAa34YvE3) | [Tanglebird](https://open.spotify.com/artist/1CyyavZPAhLtqqXouBWlkt) | [Several Boxes](https://open.spotify.com/album/5NjGnt2WLAPz9cUhMSsAZI) | 2:38 | 2022-06-24 |  |
+| [Side Streets](https://open.spotify.com/track/5Tionopm4U5KuVAa34YvE3) | [Tanglebird](https://open.spotify.com/artist/1CyyavZPAhLtqqXouBWlkt) | [Several Boxes](https://open.spotify.com/album/5NjGnt2WLAPz9cUhMSsAZI) | 2:38 | 2022-06-24 | 2022-09-09 |
 | [signs](https://open.spotify.com/track/3Jb8cKwm5JfsicVfaj9jtE) | [Phil Marley](https://open.spotify.com/artist/0Yem4dpcxVT7GJhrSwnyme) | [signs](https://open.spotify.com/album/2s2tgZmyzjedmp4UmyBj13) | 2:39 | 2022-05-27 | 2022-07-15 |
 | [Slow Down](https://open.spotify.com/track/1kzYeqzmuHWFGWzhG6R3uJ) | [Pierson Booth](https://open.spotify.com/artist/45BqLp2kWLyeljj3x0WBER), [brass.beats](https://open.spotify.com/artist/12j0D8vG0bxUv8sPoV61So) | [Slow Down](https://open.spotify.com/album/51vEhtHYjuIE1wTheYZqJH) | 1:43 | 2022-08-05 |  |
-| [slumberjack](https://open.spotify.com/track/5rUlJ7zeKR5DsvMbttWJRa) | [skipweath](https://open.spotify.com/artist/74eByJRUsX1z9H2SvNgkfa), [Slacker Boy](https://open.spotify.com/artist/4jII3hmI346hnrWtf7jx3A) | [slumberjack](https://open.spotify.com/album/1sZZVLQlHpJ2gG0fdrZE20) | 1:42 | 2022-06-24 |  |
+| [slumberjack](https://open.spotify.com/track/5rUlJ7zeKR5DsvMbttWJRa) | [skipweath](https://open.spotify.com/artist/74eByJRUsX1z9H2SvNgkfa), [Slacker Boy](https://open.spotify.com/artist/4jII3hmI346hnrWtf7jx3A) | [slumberjack](https://open.spotify.com/album/1sZZVLQlHpJ2gG0fdrZE20) | 1:42 | 2022-06-24 | 2022-09-09 |
 | [So Unique](https://open.spotify.com/track/2pir3lGD2dNsBjPRCN5Xxt) | [Zho Zho](https://open.spotify.com/artist/1kmThtC0J9kzWqMy89sIyJ) | [Indigo Rum](https://open.spotify.com/album/73gM76gHJIEXqrY1idyLIG) | 2:39 | 2022-05-27 |  |
 | [Soft Break](https://open.spotify.com/track/7wUsYTdSrTZUTkAeu9JXnU) | [Zzcenic](https://open.spotify.com/artist/0ZEozBSxUxi99LJmOE3qOL) | [Soft Break](https://open.spotify.com/album/26e0W4CJZT6KL5BUrLOA8F) | 1:52 | 2022-07-01 |  |
 | [Soft Lad](https://open.spotify.com/track/2gyXrVDU4SGXqpCRcXbZid) | [Hype Right](https://open.spotify.com/artist/5WyDwnrZMIyg4iDWrZuva4) | [Soft Lad](https://open.spotify.com/album/7uoBTodwAjmtlC51RFcl6g) | 4:26 | 2022-05-27 | 2022-07-08 |
+| [Solitaire](https://open.spotify.com/track/4SBrpMj6oa4keWYoXPklyL) | [Loe Moe](https://open.spotify.com/artist/7wKZzfuAPYrjb3kMCQX6II) | [Solitaire](https://open.spotify.com/album/4wub7J4LP8LsMC1Zj4kuDR) | 2:05 | 2022-09-09 |  |
 | [Some Say](https://open.spotify.com/track/0gSBc2xe2FvZXZpsloYAwu) | [Kathy Catchy](https://open.spotify.com/artist/3zDLVQgvm6DRcPgN1ypIBt) | [Some Say](https://open.spotify.com/album/1tHutlUmxF12xjp5sN81iN) | 2:38 | 2022-05-27 |  |
 | [Something Has Happened](https://open.spotify.com/track/5irlm4HR7wslp9BTuMlLQo) | [Jazzinuf](https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi), [Hippo Dreams](https://open.spotify.com/artist/7d1hAWnZ7H67F3aarrkr9H), [Slug](https://open.spotify.com/artist/2E14TlP0N4RU8X3Y2i2Pq3) | [Artifacts](https://open.spotify.com/album/5J0M15urtyOM5CxTjtgT8F) | 1:56 | 2022-05-27 |  |
 | [star drive](https://open.spotify.com/track/1D1RwQ2Lt5F4gSsTApjoij) | [Arthur Wu](https://open.spotify.com/artist/3FvtuXFdOgdAl7Gsi91GFV) | [star drive](https://open.spotify.com/album/7p2Q3tN2DHenlhsWW2uZ87) | 2:01 | 2022-09-02 |  |

@@ -194,6 +194,32 @@
     },
     {
       "album": {
+        "name": "30 Ng\u00e0y L\u1ea1nh",
+        "url": "https://open.spotify.com/album/4JcKI3TO3yHUlMx3nckWbo"
+      },
+      "artists": [
+        {
+          "name": "Th\u1ebf Anh Shinichi",
+          "url": "https://open.spotify.com/artist/6KVon2JPHz5A89ID6Ckzjt"
+        },
+        {
+          "name": "Q.u",
+          "url": "https://open.spotify.com/artist/705UWfpP9e1di3LqxtbJML"
+        },
+        {
+          "name": "Melomix",
+          "url": "https://open.spotify.com/artist/6rLm6yMYaTHSlixXSpuPfw"
+        }
+      ],
+      "date_added": "2022-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212658,
+      "name": "30 Ng\u00e0y L\u1ea1nh",
+      "url": "https://open.spotify.com/track/6Xa8B4aLfRDvaUmugocG4u"
+    },
+    {
+      "album": {
         "name": "Ai \u0110\u00fang Ai Sai",
         "url": "https://open.spotify.com/album/27Xc6Q3hLMEwxJ42ZvWwAx"
       },
@@ -333,6 +359,24 @@
       "duration_ms": 284684,
       "name": "Anh Kh\u00f4ng Th\u1ec3 Qu\u00ean",
       "url": "https://open.spotify.com/track/1WZtkuEYAUjE4VAOEAdqH5"
+    },
+    {
+      "album": {
+        "name": "anh l\u00e0 ng\u01b0\u1eddi nh\u01b0 th\u1ebf!",
+        "url": "https://open.spotify.com/album/4dT80x7NLutgr4KeFNT5CP"
+      },
+      "artists": [
+        {
+          "name": "SuperC",
+          "url": "https://open.spotify.com/artist/2jfbFAZ1SeBTGdjPc4hpSo"
+        }
+      ],
+      "date_added": "2022-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "anh l\u00e0 ng\u01b0\u1eddi nh\u01b0 th\u1ebf!",
+      "url": "https://open.spotify.com/track/0QNaQOszaBTwT8QNa7iRWI"
     },
     {
       "album": {
@@ -4249,7 +4293,7 @@
       ],
       "date_added": "2022-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 223304,
       "name": "It's Okay",
       "url": "https://open.spotify.com/track/7tnQIXXjQBQxDs9VDH1jBC"
@@ -5730,6 +5774,32 @@
     },
     {
       "album": {
+        "name": "m\u1ed9t ng\u00e0y ngh\u1ec9",
+        "url": "https://open.spotify.com/album/1qz0U7YdAMEoieUApOcmSg"
+      },
+      "artists": [
+        {
+          "name": "Duckie",
+          "url": "https://open.spotify.com/artist/51BshXLs4BqwWyZfOIhkuq"
+        },
+        {
+          "name": "Pay",
+          "url": "https://open.spotify.com/artist/0LzKYyu8mwHXfMih4lnMXY"
+        },
+        {
+          "name": "Lazii",
+          "url": "https://open.spotify.com/artist/2mrZ4gGfWba9oB1mfm9j90"
+        }
+      ],
+      "date_added": "2022-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197333,
+      "name": "m\u1ed9t ng\u00e0y ngh\u1ec9",
+      "url": "https://open.spotify.com/track/62EhYLqA1Q0RBz0IzU8hN0"
+    },
+    {
+      "album": {
         "name": "M\u1ed9t Ng\u00e0y N\u00e0o \u0110\u00f3",
         "url": "https://open.spotify.com/album/3wA2aDpkPJNnbtTfqrPDKy"
       },
@@ -5903,6 +5973,32 @@
       "duration_ms": 219428,
       "name": "nghi\u00ean c\u1ee9u drill h\u1ecdc",
       "url": "https://open.spotify.com/track/396eaQGWIWUqUU5S8pH1Oq"
+    },
+    {
+      "album": {
+        "name": "Ngo\u00e0i C\u1eeda S\u1ed5",
+        "url": "https://open.spotify.com/album/5JLvCVQCKZZPXx9uUzDmrd"
+      },
+      "artists": [
+        {
+          "name": "Kiyoshi Phan",
+          "url": "https://open.spotify.com/artist/68NSOMlOaNbs7eYe42qaAc"
+        },
+        {
+          "name": "ARUD FIN",
+          "url": "https://open.spotify.com/artist/2drVClnpXzsfFHce5hEW1w"
+        },
+        {
+          "name": "WuynLee",
+          "url": "https://open.spotify.com/artist/6pWF89sTvsdHtY2PIt59WP"
+        }
+      ],
+      "date_added": "2022-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226445,
+      "name": "Ngo\u00e0i C\u1eeda S\u1ed5",
+      "url": "https://open.spotify.com/track/2oDs0rEllVeNrSwcy3GA25"
     },
     {
       "album": {
@@ -6313,7 +6409,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 246000,
       "name": "Ng\u1ee1 Nh\u01b0 Ng\u00e0y \u0110\u1ea7u",
       "url": "https://open.spotify.com/track/1LKbehfFezJPYTLI5kElCy"
@@ -7586,6 +7682,28 @@
     },
     {
       "album": {
+        "name": "Sao Em Ph\u1ea3i Bu\u1ed3n",
+        "url": "https://open.spotify.com/album/7jBjnBnC6063QcIqDrbCKi"
+      },
+      "artists": [
+        {
+          "name": "L\u1eeda",
+          "url": "https://open.spotify.com/artist/4HOm37irsRwVEddNx6d0lq"
+        },
+        {
+          "name": "Sean",
+          "url": "https://open.spotify.com/artist/1xNqmjTeWon7iX8kbPKpZz"
+        }
+      ],
+      "date_added": "2022-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225886,
+      "name": "Sao Em Ph\u1ea3i Bu\u1ed3n",
+      "url": "https://open.spotify.com/track/0ISs32C8VbKNxih5l1Y3b3"
+    },
+    {
+      "album": {
         "name": "Sau Chia Tay",
         "url": "https://open.spotify.com/album/1qAalM7fTS1bxyIp329xLx"
       },
@@ -8402,6 +8520,32 @@
     },
     {
       "album": {
+        "name": "Th\u1eadt Kh\u00f3 \u0110\u1ec3 N\u00f3i \u201cT\u00f4i Y\u00eau Em\u201c",
+        "url": "https://open.spotify.com/album/4xzgG0RnNMROKworCo1sKh"
+      },
+      "artists": [
+        {
+          "name": "Hu\u1ef3nh \u0110\u1ee9c",
+          "url": "https://open.spotify.com/artist/66MCxQvUl5GOX5fJJbbSSY"
+        },
+        {
+          "name": "Lu\u00e2n M\u00eda",
+          "url": "https://open.spotify.com/artist/3DUWlprIU27RiyvwYTCmrF"
+        },
+        {
+          "name": "Melomix",
+          "url": "https://open.spotify.com/artist/6rLm6yMYaTHSlixXSpuPfw"
+        }
+      ],
+      "date_added": "2022-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201480,
+      "name": "Th\u1eadt Kh\u00f3 \u0110\u1ec3 N\u00f3i \u201cT\u00f4i Y\u00eau Em\u201c",
+      "url": "https://open.spotify.com/track/6EOxi2lJ3J8PgDXNulCrhx"
+    },
+    {
+      "album": {
         "name": "Th\u1ebf Gi\u1edbi Kh\u00e1c",
         "url": "https://open.spotify.com/album/42XqSekkWrW47kTBzkQaYK"
       },
@@ -8775,7 +8919,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 160526,
       "name": "T\u00e2m T\u01b0 Khi Y\u00eau",
       "url": "https://open.spotify.com/track/4CAuX9oAmgeBodrz0tK5VL"
@@ -10119,7 +10263,7 @@
       ],
       "date_added": "2022-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 205286,
       "name": "\u0110i\u1ec1u Ch\u01b0a N\u00f3i",
       "url": "https://open.spotify.com/track/5pkhVHF0CJDORwSRVHLupv"
@@ -10195,7 +10339,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 190000,
       "name": "\u0110\u00e2u Ai C\u1ea7n",
       "url": "https://open.spotify.com/track/42GZA57tDIeAuWEURnnjuk"
@@ -10691,7 +10835,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 287759,
       "name": "\u0110\u1ed5i L\u1ea5y N\u1ee5 C\u01b0\u1eddi",
       "url": "https://open.spotify.com/track/6O3iP4GbtEkpUl2JZLCi6I"

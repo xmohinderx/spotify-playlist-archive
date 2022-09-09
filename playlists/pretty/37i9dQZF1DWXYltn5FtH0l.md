@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYltn5FtH0l.md) - [plain]
 
 > Feel 'New Establish Style Tempo' in here.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,073 likes - 74 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,105 likes - 74 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYltn5FtH0l.md) - [plain]
 | 58 | [If we](https://open.spotify.com/track/5WmjItNSNET1ftW4xczaPl) | [NU'EST](https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ) | [The Table](https://open.spotify.com/album/3Xe14CrDVjcP5ZSbQJ1q1r) | 3:07 |
 | 59 | [Trust me](https://open.spotify.com/track/2Z3x2LnzzZY5saqV3MncTr) | [NU'EST](https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ) | [The Table](https://open.spotify.com/album/3Xe14CrDVjcP5ZSbQJ1q1r) | 3:21 |
 | 60 | [A scene without you](https://open.spotify.com/track/5JQnOzMgCr6sbBMnTPonsv) | [NU'EST](https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ) | [Special Single ‘I’m Bad’](https://open.spotify.com/album/7jlzbojtyoNJ5p73AD72Qt) | 3:45 |
-| 61 | [A little bit more...](https://open.spotify.com/track/3g9pvozCNKJZ9i8bo6zmMq) | [NU'EST](https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ), [Yoon Han \(Pop Pianist\)](https://open.spotify.com/artist/5bRCVFekTRnptEuJ0ZxTtf) | [THE SECOND MINI ALBUM Hello](https://open.spotify.com/album/1MbaIRobEFpVKwERqfZMKO) | 3:49 |
+| 61 | [A little bit more..\. \(feat.Yoon Han \(Pop Pianist\)\)](https://open.spotify.com/track/3g9pvozCNKJZ9i8bo6zmMq) | [NU'EST](https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ), [Yoon Han \(Pop Pianist\)](https://open.spotify.com/artist/5bRCVFekTRnptEuJ0ZxTtf) | [THE SECOND MINI ALBUM Hello](https://open.spotify.com/album/1MbaIRobEFpVKwERqfZMKO) | 3:49 |
 | 62 | [Good Bye Bye](https://open.spotify.com/track/7pzSzXBmYzO7qTKODtFDeL) | [NU'EST](https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ) | [NU'EST The First Album "Re:BIRTH"](https://open.spotify.com/album/0LwhNIhiEE3D0memGvBLfl) | 3:27 |
 | 63 | [NA.NA.NA.涙](https://open.spotify.com/track/699Ha1qP9mDY9tkaRtIAyd) | [NU'EST](https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ) | [Bridge the World](https://open.spotify.com/album/639mTWGqnCvPZ4KCXiQXHi) | 3:59 |
 | 64 | [Special message from REN](https://open.spotify.com/track/3j6pWe4oN2ZqlMUk5KwWFT) | [NU'EST](https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ) | [Romanticize \- Special Message](https://open.spotify.com/album/659HbB1fY1fl4eQzmHhIEr) | 0:22 |

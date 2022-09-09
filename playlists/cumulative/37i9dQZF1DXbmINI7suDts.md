@@ -4,7 +4,7 @@
 
 > Get your spirits up and manage your mood any time of the day
 
-55 songs - 3 hr 10 min - [published](https://open.spotify.com/playlist/1o7EepyilIUDZHnRGHzKt5)
+56 songs - 3 hr 13 min - [published](https://open.spotify.com/playlist/1o7EepyilIUDZHnRGHzKt5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Best Thing](https://open.spotify.com/track/7avBilzcSIuGxBRxDAn5Qv) | [Dre Cali](https://open.spotify.com/artist/2U0aIJmjYUZZ26kIE0KxM1) | [Best Thing](https://open.spotify.com/album/6ODMED9ea9Ug2apZvtbO9a) | 3:33 | 2022-06-06 |  |
 | [Biri Biri](https://open.spotify.com/track/3fBRocA6ZeLFW8JRAknhQO) | [King Saha](https://open.spotify.com/artist/3JQTIErs7TXtmo3HIv3yJa) | [King Saha Biri Biri](https://open.spotify.com/album/383eCArtodpJRwqbU1Ubab) | 3:11 | 2022-06-06 |  |
 | [Butterflies](https://open.spotify.com/track/3tv6yZvQSk5easUqOh0P1O) | [Abaasa](https://open.spotify.com/artist/6IoNAD4tutkEZWTR3L21oc) | [Mountains of the Moon](https://open.spotify.com/album/4Yald2Q4kTDKMjiADNkXTs) | 3:17 | 2022-06-06 |  |
-| [Do Me \- Remix](https://open.spotify.com/track/48ZJQls86YBeO0oSvsZvDf) | [Alloy Malik](https://open.spotify.com/artist/7iGL7mxv4v0aj4EtwQox88), [Rickman Manrick](https://open.spotify.com/artist/1T7mHyA2vGvrR8AAYPLXqM), [J\-Wats](https://open.spotify.com/artist/2hJigwTqQU3CFE4AUGb1Qv) | [Do Me \(Remix\)](https://open.spotify.com/album/2ck68T2ILwr0m3x9lJjPeB) | 2:48 | 2022-06-06 |  |
+| [Do Me \- Remix](https://open.spotify.com/track/48ZJQls86YBeO0oSvsZvDf) | [Alloy Malik](https://open.spotify.com/artist/7iGL7mxv4v0aj4EtwQox88), [Rickman Manrick](https://open.spotify.com/artist/1T7mHyA2vGvrR8AAYPLXqM), [J\-Wats](https://open.spotify.com/artist/2hJigwTqQU3CFE4AUGb1Qv) | [Do Me \(Remix\)](https://open.spotify.com/album/2ck68T2ILwr0m3x9lJjPeB) | 2:48 | 2022-06-06 | 2022-09-09 |
 | [Don't Cry](https://open.spotify.com/track/68WyaHiGQ1tb8qumA6l8P2) | [Maurice Kirya](https://open.spotify.com/artist/74irFmh7k7vfTa2QXwI729) | [The Book of Kirya](https://open.spotify.com/album/64EwxAJqZKwrLEMCgmo5j3) | 4:29 | 2022-06-06 |  |
 | [Evergreen](https://open.spotify.com/track/5Uj7Pb5JlONVHEQLKzoiF3) | [Izabelug](https://open.spotify.com/artist/0J3dUYKRMkCBAN0vL0mteJ), [Afrie](https://open.spotify.com/artist/5TfXPuuJjjcEDJjeSbKd2A) | [Love and Light](https://open.spotify.com/album/4Ey6awVzVJAAROedfxTnrJ) | 3:19 | 2022-06-06 |  |
 | [Grand Pa](https://open.spotify.com/track/0Ty3jrWi07X1bYyiHNX4q5) | [Dreventy](https://open.spotify.com/artist/20rJZ2igPSXRYRp09Kppb3) | [Blue Detail](https://open.spotify.com/album/0iVCEpollUPZvixT5Nwzyz) | 2:46 | 2022-07-25 |  |
@@ -31,6 +31,7 @@
 | [Kiisa](https://open.spotify.com/track/6shA8gHbr9tWQ7awaTaKQN) | [Apio Moro](https://open.spotify.com/artist/3TS6PfDQo5FRZaG03GdkAj) | [Chuny Adech](https://open.spotify.com/album/2kLX8zNWi2URRm7Mvxw2ib) | 3:24 | 2022-06-06 |  |
 | [Kukaliba](https://open.spotify.com/track/5q4BS8l70bcV9zHfw8yLgr) | [Rema namakula](https://open.spotify.com/artist/2444nM3S18PKjvdsXNNLdr) | [Kukaliba](https://open.spotify.com/album/306oZUKME7u2xQ9eIa5cdD) | 3:53 | 2022-06-06 |  |
 | [Kwaata Wano](https://open.spotify.com/track/4IZ3S8yLA4MtBx6dWrXh8O) | [Sylver](https://open.spotify.com/artist/4dHmyAX71EzkOxKV34nAWU) | [Kwaata Wano](https://open.spotify.com/album/7ah4EmgbvbW5IchFO3HlVI) | 3:48 | 2022-08-05 |  |
+| [Leaving Summer](https://open.spotify.com/track/5rcpZXk678vSZxMcz8ZGz6) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV), [Akeine](https://open.spotify.com/artist/2RuHphW7LRCASStgHSFmds) | [Leaving Summer](https://open.spotify.com/album/3WXVLlMIZOLqmPkZTJqHWT) | 2:37 | 2022-09-08 |  |
 | [Legeza](https://open.spotify.com/track/4FragLnXmS8EJA9WPLr9fW) | [Akeine](https://open.spotify.com/artist/2RuHphW7LRCASStgHSFmds), [Axon](https://open.spotify.com/artist/3g95XKMEfhHYudfTK9m6Ol), [Denesi](https://open.spotify.com/artist/2j5qvgoDULdbdLaFfb1Ap6), [Walter Yt](https://open.spotify.com/artist/1M3yIJrAXh63N36XijhgfA) | [Niwe Akeine](https://open.spotify.com/album/56P2WzBZ9fmYvRBC1ydNQE) | 3:26 | 2022-06-06 |  |
 | [Little Faith](https://open.spotify.com/track/2DNOzgqgDrrB9j0LbMJs84) | [Afrie](https://open.spotify.com/artist/4jY6R19KcBOgfVoYcFRGmx), [Sandra Suubi](https://open.spotify.com/artist/33JYHmzZa3lNG7VtH0wNSM) | [Little Faith](https://open.spotify.com/album/6K43HxSlOV0wgIcJqgrege) | 3:15 | 2022-08-05 |  |
 | [Luberera](https://open.spotify.com/track/4tWynXHlhctDDWr0Spw6Zn) | [Izabelug](https://open.spotify.com/artist/0J3dUYKRMkCBAN0vL0mteJ) | [Luberera](https://open.spotify.com/album/2ekWdKwqx2qzbqsECQcn8h) | 3:51 | 2022-06-06 |  |

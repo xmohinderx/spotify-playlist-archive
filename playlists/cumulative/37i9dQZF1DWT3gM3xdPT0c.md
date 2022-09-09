@@ -4,13 +4,14 @@
 
 > Warm instrumental guitar for a gentle start.
 
-169 songs - 7 hr 23 min - [published](https://open.spotify.com/playlist/4J4yOBmgih5feZicGBWAgu)
+171 songs - 7 hr 28 min - [published](https://open.spotify.com/playlist/4J4yOBmgih5feZicGBWAgu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [abcdefu \- Guitar](https://open.spotify.com/track/0zz0FOzASOfV40g2mMwZjU) | [The Lullaby Guys](https://open.spotify.com/artist/6OcKcmGusXOjKqLZSctJbo) | [abcdefu \(Guitar\)](https://open.spotify.com/album/2QOcjZil0yq4I6aOYeEwkF) | 4:15 | 2022-04-05 |  |
 | [Abide with Me](https://open.spotify.com/track/5g1edfpBmFmpmLW7rsouio) | [Taylor Ellis](https://open.spotify.com/artist/6vTMgZChwsGN8BloW1zVcY) | [Abide with Me](https://open.spotify.com/album/6j20C9LQradzvzsFGsiYNi) | 2:10 | 2022-03-04 |  |
 | [After The Rain](https://open.spotify.com/track/7g8KceUwrX8JfFIHMfHmw1) | [Morris Lafleur](https://open.spotify.com/artist/1YTqyOojEyhUFxFU6X5KKu) | [After The Rain](https://open.spotify.com/album/4kgdm5Sas9VcadHoien1qs) | 2:23 | 2022-03-04 | 2022-05-27 |
+| [Afterwards](https://open.spotify.com/track/7oX3WkGekn1AhPJBVrz1DT) | [Andrew Gialanella](https://open.spotify.com/artist/3CBHXhdUqx63xJe4C4vzNg) | [Afterwards](https://open.spotify.com/album/2uh6qOYZnKOGbOHTinb2EN) | 2:02 | 2022-09-09 |  |
 | [Airstream](https://open.spotify.com/track/4Dh7eyJf2nJgPfpQAOiL7z) | [Alex Miracone](https://open.spotify.com/artist/4AbloHgnodXgCbW2JHB3Jh) | [Airstream](https://open.spotify.com/album/4SBHi1gf4x4rlDr6DEHw16) | 3:44 | 2022-03-04 |  |
 | [All Those Things](https://open.spotify.com/track/6crKfVVbULAcl1qmnZfr47) | [Leo Krepper](https://open.spotify.com/artist/67l42DKf27egbfdp0XLpY0) | [All Those Things](https://open.spotify.com/album/335oTYZv32szZG1aXCyg0o) | 2:42 | 2022-03-04 | 2022-04-22 |
 | [Alt Evolution](https://open.spotify.com/track/5X3Ghag14o3GUR3F0ljNWU) | [Nicole Ellis](https://open.spotify.com/artist/29i78ujvmrXRSFg9nZYaVK) | [Alt Evolution](https://open.spotify.com/album/4faddULwhKK0FTU1IrXCRL) | 3:11 | 2022-03-04 |  |
@@ -86,6 +87,7 @@
 | [I come in peace](https://open.spotify.com/track/6vzJpiB46qngBEYfoHnvKE) | [Allan Soderbergh](https://open.spotify.com/artist/3xqsMFRhJhUFZo7ktD34rU) | [I come in peace](https://open.spotify.com/album/7pPCXg7hJKAKPaWJCPmcwj) | 1:58 | 2022-03-04 |  |
 | [I'll Tell You One Day](https://open.spotify.com/track/1M21XoaDgY3zwAxpBBkQgy) | [Realizer](https://open.spotify.com/artist/7I2pqQX5c5XTjyl8InIrbt) | [I'll Tell You One Day](https://open.spotify.com/album/4W6JyrjprGsNAZBOo4IV5t) | 1:35 | 2022-06-10 |  |
 | [I'm Coming Home To You](https://open.spotify.com/track/2fPgNS9Q6hMc0vzO4RLuEY) | [Elijah Stone](https://open.spotify.com/artist/0Z1kuJ3hjjRHW7h8hwowdu) | [I'm Coming Home To You](https://open.spotify.com/album/0k1LPi3NvLhSpzOygfuD8Z) | 2:12 | 2022-03-04 |  |
+| [I've Made Up My Mind](https://open.spotify.com/track/7di3JmluQQPzpBk39jaBXO) | [Oliver Young](https://open.spotify.com/artist/1v27VC8z9CqB2tpHBzZ0xv) | [I've Made Up My Mind](https://open.spotify.com/album/0rlBNagqYyRlrHzmUsxMmW) | 3:35 | 2022-09-09 |  |
 | [In A Slow Moment](https://open.spotify.com/track/6tHQxrvxKbZAr2E0wEoX87) | [Tom Ellenhag](https://open.spotify.com/artist/0gAd6Hy6KbkeWOop5aTMqQ) | [In A Slow Moment](https://open.spotify.com/album/0AJSoKEOFJ7uoaE0tqh8m5) | 2:50 | 2022-03-04 |  |
 | [In Her Heart](https://open.spotify.com/track/1wo3quOcZ1poLIp7Zqi9eg) | [Peter Lainson](https://open.spotify.com/artist/3wk9WtW2Txz1ssUoAZuE1a), [Nylonwings](https://open.spotify.com/artist/2FLK3ubX0vLLfbU5ViuJTN) | [In Her Heart](https://open.spotify.com/album/6tRWkHGPOZZ2wsrfN5ZxOs) | 2:03 | 2022-05-27 |  |
 | [In the Makeup of the Sun \- Instrumental Version](https://open.spotify.com/track/2yyUytDg93W9yK40uENJg6) | [Christian Wannerwall](https://open.spotify.com/artist/4Z3m4U4Qm1b8EFpcws68kh) | [In the Makeup of the Sun \(Instrumental Version\)](https://open.spotify.com/album/1h90KBYEpVefz7oqZbpYFx) | 1:39 | 2022-03-04 | 2022-07-01 |

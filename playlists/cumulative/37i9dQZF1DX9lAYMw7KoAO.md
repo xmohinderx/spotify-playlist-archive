@@ -4,7 +4,7 @@
 
 > Gospel music from across the African continent\. Worship in your mother tongue here!
 
-91 songs - 9 hr 38 min - [published](https://open.spotify.com/playlist/7olbfB26cR1n5qSLX8dDVo)
+92 songs - 9 hr 45 min - [published](https://open.spotify.com/playlist/7olbfB26cR1n5qSLX8dDVo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,8 +84,9 @@
 | [Unrelenting Love](https://open.spotify.com/track/0aSZ3n4vyy7XDf9XupAtRI) | [CRC Music](https://open.spotify.com/artist/0NkzbJlvL3SLDCFnPmdSK7) | [Unrelenting Love](https://open.spotify.com/album/7EPslUe7EreCwFVt5b7E9x) | 4:18 | 2022-04-14 |  |
 | [Uzugcin'impilo Yam'](https://open.spotify.com/track/56gSo5GFHsRTYmmLAETouv) | [Bucy Radebe](https://open.spotify.com/artist/1WGKiafAx1c18ty6gq2d71) | [Spiritual Encounter](https://open.spotify.com/album/5g67VAWvcanS2t2TfH4er1) | 6:15 | 2020-05-15 |  |
 | [Way Maker](https://open.spotify.com/track/4eTgQdjd7bIet6d045GGUc) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [Way Maker](https://open.spotify.com/album/7gFZYUrRossdN7GEY938s1) | 5:06 | 2018-10-01 |  |
-| [We Raise A Sound](https://open.spotify.com/track/40GqiANrV567E5vyDvHlos) | [Nosa](https://open.spotify.com/artist/2L0sgYLzuz1GstJlck2kU4), [121selah](https://open.spotify.com/artist/52yIVRZsu5TlIgsraHzELa) | [We Raise A Sound](https://open.spotify.com/album/6JnxMe1t7VH6RP1mcJJBcg) | 7:12 | 2021-01-22 |  |
+| [We Raise A Sound](https://open.spotify.com/track/40GqiANrV567E5vyDvHlos) | [Nosa](https://open.spotify.com/artist/2L0sgYLzuz1GstJlck2kU4), [121selah](https://open.spotify.com/artist/52yIVRZsu5TlIgsraHzELa) | [We Raise A Sound](https://open.spotify.com/album/6JnxMe1t7VH6RP1mcJJBcg) | 7:12 | 2021-01-22 | 2022-09-09 |
 | [We Raise a Sound](https://open.spotify.com/track/5mj8UgV1q3weOrDfXdn1jk) | [Nosa](https://open.spotify.com/artist/2L0sgYLzuz1GstJlck2kU4), [121selah](https://open.spotify.com/artist/52yIVRZsu5TlIgsraHzELa) | [We Raise a Sound](https://open.spotify.com/album/0kS3yEDK9ECw0fhTi4WoeX) | 7:12 | 2021-01-22 | 2022-07-29 |
+| [We Raise A Sound](https://open.spotify.com/track/7zwSMMJkrRJNvxFO9w42nA) | [Nosa](https://open.spotify.com/artist/2L0sgYLzuz1GstJlck2kU4), [121SELAH](https://open.spotify.com/artist/3D0PnJS2WA0lgjLgMz0Oqq) | [We Raise A Sound](https://open.spotify.com/album/6IKqbpqiyP91QFtvKTKLEU) | 7:12 | 2021-01-22 |  |
 | [WETIN I GAIN](https://open.spotify.com/track/5ol1H9REx8MYJi8f27BMmU) | [Frank Edwards](https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg) | [WETIN I GAIN](https://open.spotify.com/album/0nfZJtb8Utj8YufZVMNG6O) | 3:52 | 2019-11-06 |  |
 | [Winning](https://open.spotify.com/track/0x6vfr1PGNAMZvP0CJzbSZ) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [Winning](https://open.spotify.com/album/4jU3efPt9KBEIGQotXzMAs) | 6:00 | 2022-09-01 |  |
 | [With My Hands](https://open.spotify.com/track/5Lqz5GyhOwfwbSQLX7KJGp) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe), [Micah Stampley](https://open.spotify.com/artist/32HUki1MDatCzJlahnhjqK) | [With My Hands](https://open.spotify.com/album/3f4uAnNYCz9xizRrqhjvDZ) | 5:50 | 2021-03-25 |  |

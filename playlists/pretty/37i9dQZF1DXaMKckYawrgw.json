@@ -1,12 +1,12 @@
 {
   "description": "Ska con cuadritos blancos, negros, y tricolores. La Tremenda Korte en portada.",
-  "num_followers": 6379,
+  "num_followers": 6450,
   "original_name": "Ska Mexa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjUxMjg3MSwwMDAwMDAwMGQ0YzQ1M2IzNzUxYzI2YzkxNDE2ODZmMThhZGRhYTg5",
+  "snapshot_id": "MTY2MjUxMjg3MSwwMDAwMDAwMGU2NzA2OGNhZTU4NDE2NzQ4NjQzZTA4N2JmYjhkODI1",
   "tracks": [
     {
       "added_at": "2022-03-18 06:00:00",
@@ -419,22 +419,6 @@
     {
       "added_at": "2022-03-18 06:00:00",
       "album": {
-        "name": "Morbo's Club",
-        "url": "https://open.spotify.com/album/2dxTHV18q8BIwlvZpuCK2v"
-      },
-      "artists": [
-        {
-          "name": "Sekta Core",
-          "url": "https://open.spotify.com/artist/5LC0MKU3oZiBjYJST5L7tc"
-        }
-      ],
-      "duration_ms": 237346,
-      "name": "Fantasma de la Rana",
-      "url": "https://open.spotify.com/track/4k8A9pwl4R562JnNnRSjnL"
-    },
-    {
-      "added_at": "2022-03-18 06:00:00",
-      "album": {
         "name": "Tres Patines",
         "url": "https://open.spotify.com/album/1IfdViO2KIMROZJYhxsWlA"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 152137,
       "name": "Tres Patines",
       "url": "https://open.spotify.com/track/52Ocbi72eRBWUpE4gYK6PQ"
+    },
+    {
+      "added_at": "2022-03-18 06:00:00",
+      "album": {
+        "name": "Morbo's Club",
+        "url": "https://open.spotify.com/album/2dxTHV18q8BIwlvZpuCK2v"
+      },
+      "artists": [
+        {
+          "name": "Sekta Core",
+          "url": "https://open.spotify.com/artist/5LC0MKU3oZiBjYJST5L7tc"
+        }
+      ],
+      "duration_ms": 237346,
+      "name": "Fantasma de la Rana",
+      "url": "https://open.spotify.com/track/4k8A9pwl4R562JnNnRSjnL"
     },
     {
       "added_at": "2022-03-18 06:00:00",
@@ -837,6 +837,22 @@
       "url": "https://open.spotify.com/track/6bghWg2VlUzFLo8NNenlkb"
     },
     {
+      "added_at": "2022-03-18 06:00:00",
+      "album": {
+        "name": "Dale un Dulze al Chamakito!!!",
+        "url": "https://open.spotify.com/album/6bSHESkw8R2JJnyyTGqvPv"
+      },
+      "artists": [
+        {
+          "name": "Los Korucos",
+          "url": "https://open.spotify.com/artist/1Akvcd38yi7M2q6Z0HWlgx"
+        }
+      ],
+      "duration_ms": 229431,
+      "name": "Dame un Tiempecito",
+      "url": "https://open.spotify.com/track/3zig33r5f16Hs0G1N78yUk"
+    },
+    {
       "added_at": "2022-07-15 04:44:57",
       "album": {
         "name": "Polic\u00eda",
@@ -863,22 +879,6 @@
     {
       "added_at": "2022-03-18 06:00:00",
       "album": {
-        "name": "Dale un Dulze al Chamakito!!!",
-        "url": "https://open.spotify.com/album/6bSHESkw8R2JJnyyTGqvPv"
-      },
-      "artists": [
-        {
-          "name": "Los Korucos",
-          "url": "https://open.spotify.com/artist/1Akvcd38yi7M2q6Z0HWlgx"
-        }
-      ],
-      "duration_ms": 229431,
-      "name": "Dame un Tiempecito",
-      "url": "https://open.spotify.com/track/3zig33r5f16Hs0G1N78yUk"
-    },
-    {
-      "added_at": "2022-03-18 06:00:00",
-      "album": {
         "name": "2",
         "url": "https://open.spotify.com/album/1ij4uqkqWe8zVHQH4bgHzp"
       },
@@ -895,18 +895,18 @@
     {
       "added_at": "2022-03-18 06:00:00",
       "album": {
-        "name": "Armada Hasta los Dientes V 1.5",
-        "url": "https://open.spotify.com/album/3mcGUxLcbiPvIrVkXQ4XK9"
+        "name": "La Rebeli\u00f3n",
+        "url": "https://open.spotify.com/album/5Iw7dSyJDgnSZGKYHl6gTL"
       },
       "artists": [
         {
-          "name": "Nana Pancha",
-          "url": "https://open.spotify.com/artist/4wrHdTaFAi56czZLNuZlfK"
+          "name": "La Tremenda Korte",
+          "url": "https://open.spotify.com/artist/0052sLPmKyG6ou86BEhYjt"
         }
       ],
-      "duration_ms": 236840,
-      "name": "Luna",
-      "url": "https://open.spotify.com/track/2mvbq4eTb7dJPY6yzC7qlL"
+      "duration_ms": 271301,
+      "name": "Y la Recuerdo de Ayer",
+      "url": "https://open.spotify.com/track/30qRh0j4htHrsroySiDh57"
     },
     {
       "added_at": "2022-03-18 06:00:00",
@@ -927,18 +927,18 @@
     {
       "added_at": "2022-03-18 06:00:00",
       "album": {
-        "name": "La Rebeli\u00f3n",
-        "url": "https://open.spotify.com/album/5Iw7dSyJDgnSZGKYHl6gTL"
+        "name": "Armada Hasta los Dientes V 1.5",
+        "url": "https://open.spotify.com/album/3mcGUxLcbiPvIrVkXQ4XK9"
       },
       "artists": [
         {
-          "name": "La Tremenda Korte",
-          "url": "https://open.spotify.com/artist/0052sLPmKyG6ou86BEhYjt"
+          "name": "Nana Pancha",
+          "url": "https://open.spotify.com/artist/4wrHdTaFAi56czZLNuZlfK"
         }
       ],
-      "duration_ms": 271301,
-      "name": "Y la Recuerdo de Ayer",
-      "url": "https://open.spotify.com/track/30qRh0j4htHrsroySiDh57"
+      "duration_ms": 236840,
+      "name": "Luna",
+      "url": "https://open.spotify.com/track/2mvbq4eTb7dJPY6yzC7qlL"
     },
     {
       "added_at": "2022-08-13 00:14:26",
@@ -1023,18 +1023,18 @@
     {
       "added_at": "2022-03-18 06:00:00",
       "album": {
-        "name": "Armada Hasta los Dientes V 1.5",
-        "url": "https://open.spotify.com/album/3mcGUxLcbiPvIrVkXQ4XK9"
+        "name": "Venga la Sentencia",
+        "url": "https://open.spotify.com/album/0x38zEUnqO1aQQtsVEQ6Wd"
       },
       "artists": [
         {
-          "name": "Nana Pancha",
-          "url": "https://open.spotify.com/artist/4wrHdTaFAi56czZLNuZlfK"
+          "name": "La Tremenda Korte",
+          "url": "https://open.spotify.com/artist/0052sLPmKyG6ou86BEhYjt"
         }
       ],
-      "duration_ms": 132146,
-      "name": "Nana Punk",
-      "url": "https://open.spotify.com/track/5z4NEn8aaE25kxcE3LORdQ"
+      "duration_ms": 196640,
+      "name": "Veneno",
+      "url": "https://open.spotify.com/track/1NY1Vze2kFDsc5PN3OYcTm"
     },
     {
       "added_at": "2022-03-18 06:00:00",
@@ -1075,18 +1075,18 @@
     {
       "added_at": "2022-03-18 06:00:00",
       "album": {
-        "name": "Venga la Sentencia",
-        "url": "https://open.spotify.com/album/0x38zEUnqO1aQQtsVEQ6Wd"
+        "name": "Armada Hasta los Dientes V 1.5",
+        "url": "https://open.spotify.com/album/3mcGUxLcbiPvIrVkXQ4XK9"
       },
       "artists": [
         {
-          "name": "La Tremenda Korte",
-          "url": "https://open.spotify.com/artist/0052sLPmKyG6ou86BEhYjt"
+          "name": "Nana Pancha",
+          "url": "https://open.spotify.com/artist/4wrHdTaFAi56czZLNuZlfK"
         }
       ],
-      "duration_ms": 196640,
-      "name": "Veneno",
-      "url": "https://open.spotify.com/track/1NY1Vze2kFDsc5PN3OYcTm"
+      "duration_ms": 132146,
+      "name": "Nana Punk",
+      "url": "https://open.spotify.com/track/5z4NEn8aaE25kxcE3LORdQ"
     },
     {
       "added_at": "2022-04-22 05:00:00",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2022-03-18 06:00:00",
       "album": {
-        "name": "Sonora Skandalera",
-        "url": "https://open.spotify.com/album/6VsKLBwxtU6pFYzlk0os4n"
-      },
-      "artists": [
-        {
-          "name": "Sonora Skandalera",
-          "url": "https://open.spotify.com/artist/0uks9zgvJkFeg8Weapt3ac"
-        }
-      ],
-      "duration_ms": 360071,
-      "name": "Si Te Vas",
-      "url": "https://open.spotify.com/track/7LTDgxW0Wkl0lZOq4Z5fOZ"
-    },
-    {
-      "added_at": "2022-03-18 06:00:00",
-      "album": {
         "name": "Cumbia Feminista",
         "url": "https://open.spotify.com/album/51CRWf9nKbj5OWlKLudBuZ"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 233513,
       "name": "Cumbia Feminista",
       "url": "https://open.spotify.com/track/7M2mgKUSxmjHumNkwpjN2d"
+    },
+    {
+      "added_at": "2022-03-18 06:00:00",
+      "album": {
+        "name": "Sonora Skandalera",
+        "url": "https://open.spotify.com/album/6VsKLBwxtU6pFYzlk0os4n"
+      },
+      "artists": [
+        {
+          "name": "Sonora Skandalera",
+          "url": "https://open.spotify.com/artist/0uks9zgvJkFeg8Weapt3ac"
+        }
+      ],
+      "duration_ms": 360071,
+      "name": "Si Te Vas",
+      "url": "https://open.spotify.com/track/7LTDgxW0Wkl0lZOq4Z5fOZ"
     },
     {
       "added_at": "2022-03-18 06:00:00",
@@ -1395,6 +1395,22 @@
     {
       "added_at": "2022-03-18 06:00:00",
       "album": {
+        "name": "Revoluciones",
+        "url": "https://open.spotify.com/album/5WV18rJf103xCSq1bruZwJ"
+      },
+      "artists": [
+        {
+          "name": "La Hoja Ensamble",
+          "url": "https://open.spotify.com/artist/5xnipUAcWtXKEdc0czxTPE"
+        }
+      ],
+      "duration_ms": 387922,
+      "name": "Revoluciones",
+      "url": "https://open.spotify.com/track/5OjXaJ32H7olIakpiNSDbS"
+    },
+    {
+      "added_at": "2022-03-18 06:00:00",
+      "album": {
         "name": "Marcando El Ritmo",
         "url": "https://open.spotify.com/album/537Yl2DlSZ58rPkV07E5aE"
       },
@@ -1431,22 +1447,6 @@
       "duration_ms": 253270,
       "name": "No Insistas M\u00e1s",
       "url": "https://open.spotify.com/track/2Xdj6GwDDTiz0jliUAHHTz"
-    },
-    {
-      "added_at": "2022-03-18 06:00:00",
-      "album": {
-        "name": "Revoluciones",
-        "url": "https://open.spotify.com/album/5WV18rJf103xCSq1bruZwJ"
-      },
-      "artists": [
-        {
-          "name": "La Hoja Ensamble",
-          "url": "https://open.spotify.com/artist/5xnipUAcWtXKEdc0czxTPE"
-        }
-      ],
-      "duration_ms": 387922,
-      "name": "Revoluciones",
-      "url": "https://open.spotify.com/track/5OjXaJ32H7olIakpiNSDbS"
     },
     {
       "added_at": "2022-03-18 06:00:00",

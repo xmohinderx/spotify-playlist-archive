@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Chile.
 
-417 songs - 1 day 0 hr 8 min - [published](https://open.spotify.com/playlist/0ZrUZpXe2rRTxSTwZ2QYuw)
+418 songs - 1 day 0 hr 11 min - [published](https://open.spotify.com/playlist/0ZrUZpXe2rRTxSTwZ2QYuw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -261,7 +261,7 @@
 | [My Universe](https://open.spotify.com/track/3FeVmId7tL5YN8B7R3imoM) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [My Universe](https://open.spotify.com/album/39McjovZ3M6n5SFtNmWTdp) | 3:48 | 2021-09-26 | 2021-10-01 |
 | [Mándame Quitar la Vida](https://open.spotify.com/track/6bjyyFavXjYidNIjPu1Fl3) | [Maihuen de los Angeles](https://open.spotify.com/artist/4vkOLg1AyJgDqF9xwLsgXR) | [Las Mejores Cuecas Con Maihuen de los Angeles](https://open.spotify.com/album/5ZPsIKHvrhsNl9KTDNsUBP) | 2:17 | 2021-09-20 | 2021-09-21 |
 | [Más de una Vez](https://open.spotify.com/track/3gHAXAgFq66HuSmveJk8J5) | [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb) | [Más de una Vez](https://open.spotify.com/album/2bJFkkB4RK579xlXykWHkN) | 3:17 | 2022-06-05 | 2022-06-28 |
-| [Na Na Na](https://open.spotify.com/track/2qrEyFnx2XaKmMFtLZ00xg) | [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb), [Big Cvyu](https://open.spotify.com/artist/7tMukTswF8N6b0zI4rlCmg) | [Na Na Na](https://open.spotify.com/album/62XeKlNCCZTCoVul44nh8t) | 3:13 | 2022-07-21 |  |
+| [Na Na Na](https://open.spotify.com/track/2qrEyFnx2XaKmMFtLZ00xg) | [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb), [Big Cvyu](https://open.spotify.com/artist/7tMukTswF8N6b0zI4rlCmg) | [Na Na Na](https://open.spotify.com/album/62XeKlNCCZTCoVul44nh8t) | 3:13 | 2022-07-21 | 2022-09-09 |
 | [Navidad, Navidad](https://open.spotify.com/track/683fOEDnFrDuFM9oMpuEhK) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Navidades Luis Miguel](https://open.spotify.com/album/0tu9kY2tDMuuuI6GtSDH9i) | 2:34 | 2021-12-26 | 2021-12-27 |
 | [Neverita](https://open.spotify.com/track/31i56LZnwE6uSu3exoHjtB) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 2:53 | 2022-05-07 |  |
 | [Nicky Jam: Bzrp Music Sessions, Vol\. 41](https://open.spotify.com/track/03LfOYi0icz4souspZVVhq) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Nicky Jam: Bzrp Music Sessions, Vol\. 41](https://open.spotify.com/album/0uEAjbeFr70dBF41LTs1cD) | 2:38 | 2021-07-04 | 2021-10-03 |
@@ -293,6 +293,7 @@
 | [Paulo Londra: Bzrp Music Sessions, Vol\. 23](https://open.spotify.com/track/2uky0VCI2EZni0nArOPznM) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Paulo Londra: Bzrp Music Sessions, Vol\. 23](https://open.spotify.com/album/0nLqHiDWHpK33b9lVJMss5) | 4:18 | 2022-04-26 | 2022-05-15 |
 | [Paz Mental](https://open.spotify.com/track/1otBTx2rWzwH0UsvyxLAfy) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Paz Mental](https://open.spotify.com/album/5KQtSZMlNqkgXSJTBBJE0X) | 2:59 | 2022-06-11 | 2022-08-25 |
 | [Peaches \(feat\. Daniel Caesar & Giveon\)](https://open.spotify.com/track/4iJyoBOLtHqaGxP12qzhQI) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 3:18 | 2021-03-27\* | 2021-06-08 |
+| [Pensandote](https://open.spotify.com/track/0km3c8Qiwi9kicTSTt9Ld1) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [El BAI](https://open.spotify.com/artist/2vnaEm73LHWfchNiQccNBa) | [Pensandote](https://open.spotify.com/album/4DUR6SSSfdxqBbekrfKsDE) | 3:13 | 2022-09-08 |  |
 | [Pensandote](https://open.spotify.com/track/70tBlRh8oOY0v5swyQquDI) | [FiltraKing](https://open.spotify.com/artist/02tSgGoPaKu9vDTA30O6Wd), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [El BAI](https://open.spotify.com/artist/2vnaEm73LHWfchNiQccNBa) | [Pensandote](https://open.spotify.com/album/0YhCAaofNnnLnE4vb8k1yc) | 3:05 | 2022-04-27 | 2022-05-08 |
 | [Pepas](https://open.spotify.com/track/2B4GHvToeLTOBB4QLzW3Ni) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [La 167](https://open.spotify.com/album/0T6QxdJZwYrXPHd829SnqK) | 4:47 | 2021-10-03 | 2022-03-03 |
 | [Pepas](https://open.spotify.com/track/5fwSHlTEWpluwOM0Sxnh5k) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Pepas](https://open.spotify.com/album/2A5ksnhz7YWbRLvFMjX1j1) | 4:47 | 2021-07-16 | 2021-10-03 |

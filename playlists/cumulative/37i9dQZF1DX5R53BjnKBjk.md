@@ -4,7 +4,7 @@
 
 > Uma seleção de novos artistas da cena brasileira que você precisa conhecer\.  Foto: Camaleoa Arte: Isu Kim
 
-168 songs - 9 hr 2 min - [published](https://open.spotify.com/playlist/67GFnJVXnyWY0MjhTSXEEJ)
+169 songs - 9 hr 5 min - [published](https://open.spotify.com/playlist/67GFnJVXnyWY0MjhTSXEEJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [A Nossa Bossa](https://open.spotify.com/track/33vbDli8ByiNhw5vdM9Esh) | [NUNEZ](https://open.spotify.com/artist/6RvP5pZMli48YYw0nwreXZ), [Jair Oliveira](https://open.spotify.com/artist/1kuKDHZD1oPXwVZviVgRbV) | [A Nossa Bossa](https://open.spotify.com/album/53CQgPLHrM1HGyZHz2pqPl) | 2:44 | 2022-08-19 |  |
 | [A ROSA DOS VENTOS](https://open.spotify.com/track/2buP6yNPdxndWDntaRzicQ) | [Osvaldinho](https://open.spotify.com/artist/5S9lM2gX2RBJaWNtKuCs1c), [Circuladô de Fulô](https://open.spotify.com/artist/2d4Axz1kGnLt5XjLw4MLoW) | [A ROSA DOS VENTOS](https://open.spotify.com/album/05chG2pT2QJsDKiVYn7ccf) | 3:01 | 2022-07-22 |  |
 | [Amanhecer](https://open.spotify.com/track/6pLe3v36K2JZQ83g5Tzqpf) | [Jennifer Souza](https://open.spotify.com/artist/5GQ1guYM9sT7BHVPbQUWxm) | [Pacífica Pedra Branca](https://open.spotify.com/album/0935Xbp9VAkdEFCHXIMGGu) | 4:23 | 2022-01-07 | 2022-02-26 |
+| [Amor de Mar](https://open.spotify.com/track/0cOXBqb6bsKwyL9Edj8Yww) | [NUNEZ](https://open.spotify.com/artist/6RvP5pZMli48YYw0nwreXZ), [LOX](https://open.spotify.com/artist/7ziafkiqJhhvv6CExUeOcS) | [Boemia, de Fato](https://open.spotify.com/album/6u6IGXmGZNngMOA4zxrrmd) | 2:56 | 2022-09-02 |  |
 | [AMORA](https://open.spotify.com/track/058ozZtEEy3yaeBJgy28nh) | [YASSIQ](https://open.spotify.com/artist/2Uqri3X47V2gFAI76QblVr) | [AMORA](https://open.spotify.com/album/7xc8WZsY2fM32pJqEAO71k) | 2:16 | 2022-08-19 |  |
 | [Antes e Agora](https://open.spotify.com/track/0ixvkDEjhg6Qgxnm5vx1pk) | [Vintilamor](https://open.spotify.com/artist/7b063540QilA3bvw6qehet) | [Antes e Agora](https://open.spotify.com/album/2Db82NFqE0UYpFajdRUwEi) | 2:55 | 2022-01-07 | 2022-08-20 |
 | [Apaga a Luz](https://open.spotify.com/track/5vyASrasZ8JObjelAgG3nJ) | [Augusta Barna](https://open.spotify.com/artist/1nCqVLF06AcC2U5Tq2RkRk) | [Apaga a Luz](https://open.spotify.com/album/3bNEsR5sEVn4EMfpNtLxDS) | 2:32 | 2022-08-05 |  |
@@ -97,7 +98,7 @@
 | [Mulher](https://open.spotify.com/track/46uBprY5NXWwAt1A2N88VI) | [Renife](https://open.spotify.com/artist/4TFGb89oFmLWuW5nRqJPOG) | [Mulher](https://open.spotify.com/album/4maHeiiGiCaiJ19zytMbaB) | 3:21 | 2022-01-07 | 2022-08-20 |
 | [NA CIDADE](https://open.spotify.com/track/48SRrE5cEEHH0DASXzOnKv) | [felino](https://open.spotify.com/artist/2uGXjH16PSBfrZ56uoKdNq), [Mariana Ramos](https://open.spotify.com/artist/7dbcgDHRj6hl6VMSrIyHCM) | [NA CIDADE](https://open.spotify.com/album/1mfz9gaY8BNO6biqJ3NyUC) | 2:36 | 2022-01-07 | 2022-01-22 |
 | [ninho](https://open.spotify.com/track/3xWLmF4mjDE6hBtHUZhQF3) | [Kelton](https://open.spotify.com/artist/29WFp1aJPBMaKswnXrbd2B) | [Ofício da Solidão](https://open.spotify.com/album/2IU7pbJO1GW9OjoIOrb3LH) | 3:10 | 2022-01-07 | 2022-02-19 |
-| [Nuvem \(Ai Claud\)](https://open.spotify.com/track/6KqJZwBKJSeFxQZ8OxZhzM) | [CARU](https://open.spotify.com/artist/1ydgPMXuGFMb7d6KFcMWVl) | [Paris, Bahia](https://open.spotify.com/album/57RT4ZObq8DrHxvBevuSZn) | 3:08 | 2022-05-16 |  |
+| [Nuvem \(Ai Claud\)](https://open.spotify.com/track/6KqJZwBKJSeFxQZ8OxZhzM) | [CARU](https://open.spotify.com/artist/1ydgPMXuGFMb7d6KFcMWVl) | [Paris, Bahia](https://open.spotify.com/album/57RT4ZObq8DrHxvBevuSZn) | 3:08 | 2022-05-16 | 2022-09-09 |
 | [Não Falo Mais Sobre Você](https://open.spotify.com/track/46Q39wJFet06LfwYry8lsR) | [NANNY](https://open.spotify.com/artist/3kosy0ERWA2PZ1zNi7PHSt) | [Não Falo Mais Sobre Você](https://open.spotify.com/album/4lygsdWpQVYh4qVMpq6dGD) | 3:46 | 2022-08-19 | 2022-08-30 |
 | [não quero mais](https://open.spotify.com/track/7xNzeLQ99dEHlVCc8HlZWH) | [Éfiro](https://open.spotify.com/artist/125xksJYdjAqKWY1AJN9I8) | [não quero mais](https://open.spotify.com/album/2V3LOIrrupnAe7GWofTlAV) | 3:08 | 2022-01-07 | 2022-09-03 |
 | [NÃO SEI](https://open.spotify.com/track/5OyKA7CtZRWqs2LQm5NB5R) | [Táia](https://open.spotify.com/artist/1tbwLUZohS2CJkoZuMHQJi), [Rayra Mayara](https://open.spotify.com/artist/2JxBztEP6d5277y39owSBb) | [NÃO SEI](https://open.spotify.com/album/5gBPcIHlgdgOzo8WGXv2lS) | 2:49 | 2022-01-07 | 2022-09-05 |

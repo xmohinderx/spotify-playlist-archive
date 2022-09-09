@@ -1447,7 +1447,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 202533,
       "name": "FOREVER 1",
       "url": "https://open.spotify.com/track/1oen3GpTcA486fTHaT7neg"
@@ -7491,6 +7491,28 @@
       "duration_ms": 226379,
       "name": "\u81a0 on! (\u81a0\u6230S2 \u4e3b\u984c\u66f2)",
       "url": "https://open.spotify.com/track/3Hw5UuPArZWxOQUu6tYdf1"
+    },
+    {
+      "album": {
+        "name": "\u81ea\u6211\u5b89\u6170",
+        "url": "https://open.spotify.com/album/6dbUX5p1H2lH9CWtBoL92m"
+      },
+      "artists": [
+        {
+          "name": "Leo Ku",
+          "url": "https://open.spotify.com/artist/4F0XzHNcfvvA2I0rGqIwAQ"
+        },
+        {
+          "name": "MC \u5f35\u5929\u8ce6",
+          "url": "https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308622,
+      "name": "\u81ea\u6211\u5b89\u6170",
+      "url": "https://open.spotify.com/track/40NvsEFexANIROSnKIMYXB"
     },
     {
       "album": {

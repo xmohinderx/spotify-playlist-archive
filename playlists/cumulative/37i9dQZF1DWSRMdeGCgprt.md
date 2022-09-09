@@ -4,13 +4,14 @@
 
 > Get into the rhythm of SXSW '17 with this collection of tracks from artists set to perform this year\. Cover: <a href="spotify:artist:4TsHKU8l8Wq7n7OPVikirn">Jidenna</a>.
 
-33 songs - 1 hr 58 min - [published](https://open.spotify.com/playlist/5rW6Jls37bSKk3xmMYdx8M)
+34 songs - 2 hr 2 min - [published](https://open.spotify.com/playlist/5rW6Jls37bSKk3xmMYdx8M)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Ballin](https://open.spotify.com/track/0YclWqGe9XpQBx3gwAyyJJ) | [Bibi Bourelly](https://open.spotify.com/artist/3jDtqAKltRxJi64svLZGj7) | [Ballin](https://open.spotify.com/album/5QT2WIYOht8nmAspk57Je7) | 3:39 | 2017-03-02 |  |
 | [California Heaven](https://open.spotify.com/track/0TW3dlG3BaF2LNiDkUu10u) | [JAHKOY](https://open.spotify.com/artist/1c5SlzViAqsaB0kXygfSjh), [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [Foreign Water](https://open.spotify.com/album/7ocGYko8jsqIcV18uPfUk9) | 4:02 | 2017-02-27 |  |
-| [Diddy Bop \(feat\. Cam O'bi & Raury\)](https://open.spotify.com/track/6JvfBzqZmSiEG5MjM7OcSY) | [Noname](https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy), [Cam O'bi](https://open.spotify.com/artist/4jqFe1fd5uul2XSSxsRvbZ), [Raury](https://open.spotify.com/artist/2PU4qFehXQF7WnlFsJpBiJ) | [Telefone](https://open.spotify.com/album/18Scpsg5OV1iYNtSaCsjwz) | 3:28 | 2017-02-27 |  |
+| [Diddy Bop](https://open.spotify.com/track/3M0XJE3zuyOKksK7wIOxNN) | [Noname](https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy), [Raury](https://open.spotify.com/artist/2PU4qFehXQF7WnlFsJpBiJ), [Cam O'bi](https://open.spotify.com/artist/4jqFe1fd5uul2XSSxsRvbZ) | [telefone](https://open.spotify.com/album/3WQSmz0juSSmEmzXpv9l6M) | 3:28 | 2022-09-09 |  |
+| [Diddy Bop \(feat\. Cam O'bi & Raury\)](https://open.spotify.com/track/6JvfBzqZmSiEG5MjM7OcSY) | [Noname](https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy), [Cam O'bi](https://open.spotify.com/artist/4jqFe1fd5uul2XSSxsRvbZ), [Raury](https://open.spotify.com/artist/2PU4qFehXQF7WnlFsJpBiJ) | [Telefone](https://open.spotify.com/album/18Scpsg5OV1iYNtSaCsjwz) | 3:28 | 2017-02-27 | 2022-09-09 |
 | [Don't Care](https://open.spotify.com/track/46rZy9ZED6Tz5SxA8C0qt6) | [Coely](https://open.spotify.com/artist/2DzbXUAn0DiYqcgu2wDfaf), [DVTCH NORRIS](https://open.spotify.com/artist/0j0HOVpdJ2XuGIkfWhEdtz) | [Don't Care](https://open.spotify.com/album/6Dn77VKALoUq1BQxQOC7S8) | 3:33 | 2017-02-27 | 2022-07-29 |
 | [Don't Care](https://open.spotify.com/track/2obzETB8ZNaHhTGhnbAqJF) | [Coely](https://open.spotify.com/artist/2DzbXUAn0DiYqcgu2wDfaf), [DVTCH NORRIS](https://open.spotify.com/artist/0j0HOVpdJ2XuGIkfWhEdtz) | [Different Waters](https://open.spotify.com/album/77WZ1J2FUsry4UiyasJ8c5) | 3:34 | 2022-07-29 |  |
 | [Fall in Love \(feat\. Ciscero\)](https://open.spotify.com/track/2RISD4aJrioDB54exm5WWM) | [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ), [Ciscero](https://open.spotify.com/artist/5oSCIcpPdrO3UhTMATxkYL) | [Fall in Love \(feat\. Ciscero\)](https://open.spotify.com/album/5ryBqWw69xLn1nLaPCGOev) | 3:04 | 2017-02-27 |  |

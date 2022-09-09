@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6Gp3E89xD6vRQtuAKFizMo.md) - [plain]
 
 > Brand new music from Steve Aoki’s Dim Mak Records, updated every Tuesday and Friday!
 
-[Dim Mak Records](https://open.spotify.com/user/dimmakrecords) - 44,387 likes - 60 songs - 3 hr 3 min
+[Dim Mak Records](https://open.spotify.com/user/dimmakrecords) - 44,379 likes - 60 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/6Gp3E89xD6vRQtuAKFizMo.md) - [plain]
 | 59 | [sunlight](https://open.spotify.com/track/6a3x9zlNGV7p0W1OiAqwsE) | [juuku](https://open.spotify.com/artist/2ixBQngmF4ZFXYHi8sJTfl) | [sunlight](https://open.spotify.com/album/2Mo4wiX9gCcL69yyCwhvdU) | 2:51 |
 | 60 | [Mawlee \(feat\. Young Buck & DJ Afterthought\) \- Dr\. Fresch Remix](https://open.spotify.com/track/7wawZoPGDr6N559kjYJ8Ug) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [Young Buck](https://open.spotify.com/artist/4pr7J7wzgObkE3DD3Izi7q), [DJ Afterthought](https://open.spotify.com/artist/46yoMIbiLf1tIH3CRZiSGX), [Dr\. Fresch](https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC) | [Mawlee \(feat\. Young Buck & DJ Afterthought\) \[Remixes\]](https://open.spotify.com/album/10F4eR4qIrp52jK6H9DIcP) | 3:21 |
 
-Snapshot ID: `NTg5NiwwYTQ0YTYxMDk1OTU5YTU5NjFmNDI5OWU1NThmYTllNWRhZDdhNDQ3`
+Snapshot ID: `NTg5OCxkZjhkOTEyMzAzMGNlODdkNzk2YTU1OWM3Yjg3ZWVhYzMyODhhOWFh`

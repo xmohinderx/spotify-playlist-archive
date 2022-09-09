@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdziGPHNE40t.md) - [plain]
 
 ### [Jazzy Morning](https://open.spotify.com/playlist/37i9dQZF1DXdziGPHNE40t)
 
-> Start your day with calm and cool jazz.
+> Start your day right and wake up with some calm and cool Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,423 likes - 139 songs - 8 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,029 likes - 139 songs - 8 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -148,4 +148,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdziGPHNE40t.md) - [plain]
 | 138 | [I Can’t Get Started](https://open.spotify.com/track/3lHeTorlEnYb3icowpiDiR) | [Elton Willis Trio](https://open.spotify.com/artist/3dnm59R1zLsrNl8wXA9Aui) | [I Can’t Get Started](https://open.spotify.com/album/4biFCrWFx9nlHAauPuKUGv) | 4:24 |
 | 139 | [Come Rain or Come Shine](https://open.spotify.com/track/1IuKgGmHL5q5SntLbpuW9X) | [The Red Robin Quartet](https://open.spotify.com/artist/6JonKaJAREHNEYiCFcJBVn) | [Mellow Tone](https://open.spotify.com/album/3O30VlAacllXWOuJzXEW0S) | 4:17 |
 
-Snapshot ID: `MTY2MjQ0OTgxMCwwMDAwMDAwMGM1OWMyYTEwNzA0ODIwNjJkYWU3ZjlmNDU2YjJkNzIy`
+Snapshot ID: `MTY2MjYyMjg3OCwwMDAwMDAwMDhkOGRkMmJhYzY5YTc1YWI2ZjUxZTRkYWE5ODRlODIw`

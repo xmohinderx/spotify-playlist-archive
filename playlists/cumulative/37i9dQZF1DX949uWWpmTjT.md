@@ -2,7 +2,7 @@
 
 ### [Soft Jazz](https://open.spotify.com/playlist/37i9dQZF1DX949uWWpmTjT)
 
-> A soft and slow jazz soundtrack to play in the background to all your activities.
+> A soft and slow Jazz soundtrack to play in the background to all your activities.
 
 158 songs - 13 hr 21 min - [published](https://open.spotify.com/playlist/4ubA8HpuLOWyQqeLkd644S)
 

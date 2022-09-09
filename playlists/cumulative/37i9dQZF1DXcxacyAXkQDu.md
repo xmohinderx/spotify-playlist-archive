@@ -4,7 +4,7 @@
 
 > Enjoy a break with some relaxing soft songs.
 
-764 songs - 1 day 21 hr 24 min - [published](https://open.spotify.com/playlist/51dhSaYcrh8IGq16obFObB)
+765 songs - 1 day 21 hr 28 min - [published](https://open.spotify.com/playlist/51dhSaYcrh8IGq16obFObB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -337,6 +337,7 @@
 | [If You Need To, Keep Time on Me](https://open.spotify.com/track/7d0XkI4iJ32nxeFAHFXbLQ) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Crack\-Up](https://open.spotify.com/album/0xtTojp4zfartyGtbFKN3v) | 3:30 | 2022-03-24 | 2022-03-31 |
 | [if you weren't you](https://open.spotify.com/track/0Orpd7icIIR6tp5cmJcHsu) | [Emily James](https://open.spotify.com/artist/7FxEy78P0oIVEVxdaL9npy) | [If You Weren't You](https://open.spotify.com/album/34HGxfz7qE6dRtaKoYx4KU) | 4:09 | 2021-12-21 | 2022-07-29 |
 | [If Your Heart Is Broken \(Acoustic\)](https://open.spotify.com/track/54DtcXCPyocXJZ61opPW2b) | [Tuva & Mia](https://open.spotify.com/artist/07E2xdZZ5CeAFLgnJxfMly) | [If Your Heart Is Broken \(Acoustic\)](https://open.spotify.com/album/2PeUmDKweJL11njsdocFZB) | 3:33 | 2021-12-21 | 2022-07-29 |
+| [If Your Heart Is Broken \- Acoustic](https://open.spotify.com/track/7tkvoakL4gGGHCRCtbLm2T) | [Tuva & Mia](https://open.spotify.com/artist/07E2xdZZ5CeAFLgnJxfMly) | [If Your Heart Is Broken](https://open.spotify.com/album/2X8hDSHtKJKIU4zyDdTetn) | 3:33 | 2022-09-02 |  |
 | [Impossible \- Acoustic](https://open.spotify.com/track/0JswmIBSn3XZ15wEEtH5fj) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [James Arthur \(Deluxe\)](https://open.spotify.com/album/029WUoBjWc7Js1QiPH3mw0) | 4:10 | 2021-12-21 |  |
 | [In a Stranger's Arms](https://open.spotify.com/track/5Tl8bvgo5shLODXiT9ckva) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [In a Stranger's Arms](https://open.spotify.com/album/5fc9yi6CWLJltzalAhLOQg) | 3:20 | 2021-12-21 | 2022-07-29 |
 | [In a Stranger's Arms](https://open.spotify.com/track/7s6jUeM4ENpUrHCSzQZV0v) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Apart](https://open.spotify.com/album/0x7mfCEXV2oWxFabJlD3uj) | 3:21 | 2022-07-08 |  |
@@ -713,7 +714,7 @@
 | [Waiting Around](https://open.spotify.com/track/6WQlGuh6c4jciXEyM2rVGX) | [Aisha Badru](https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK) | [Vacancy EP](https://open.spotify.com/album/7rhTvyMcFMaQhRxKfuvis5) | 2:32 | 2022-01-27 | 2022-04-20 |
 | [Waiting Around \- Acoustic](https://open.spotify.com/track/6fWBQnyz8GrH0neN1IsBRc) | [Aisha Badru](https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK) | [Vacancy](https://open.spotify.com/album/3HTmh4jyCRfi8wjlxmm8uL) | 2:32 | 2022-07-08 |  |
 | [Waiting Is A Waste](https://open.spotify.com/track/23lw0TWJHsenU54gom8xbC) | [Mina Okabe](https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl) | [Waiting Is A Waste](https://open.spotify.com/album/50MP1DO66qTGSYkcGsUKBY) | 2:57 | 2022-06-24 | 2022-06-27 |
-| [Waiting Room \- Demo](https://open.spotify.com/track/6jApoxmm4K0yhJlSBONwjz) | [Grace Carter](https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC) | [Why Her Not Me \- EP](https://open.spotify.com/album/5f0eFn8Iv1PU8b4ylLxRJY) | 3:13 | 2022-03-24 |  |
+| [Waiting Room \- Demo](https://open.spotify.com/track/6jApoxmm4K0yhJlSBONwjz) | [Grace Carter](https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC) | [Why Her Not Me \- EP](https://open.spotify.com/album/5f0eFn8Iv1PU8b4ylLxRJY) | 3:13 | 2022-03-24 | 2022-09-09 |
 | [Walked Through Hell](https://open.spotify.com/track/6c7N5N7amAOpeMykjlovjI) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Walked Through Hell](https://open.spotify.com/album/2altfvjSV6RIRAE5Pmhw7i) | 3:36 | 2021-12-21 | 2022-04-08 |
 | [Wandered Away](https://open.spotify.com/track/2jEeajNK4i658NEy0O4706) | [Anna Leone](https://open.spotify.com/artist/7tGGprmubBZNvpTST8qQTj) | [Wandered Away](https://open.spotify.com/album/1x6WXEqvgHDBxGKpxLAaz1) | 3:45 | 2022-03-24 | 2022-04-20 |
 | [wanna feel it too](https://open.spotify.com/track/44l1L8DmR3GGA7knSXEnGt) | [Sky Li](https://open.spotify.com/artist/48A3DvHsdcfA9Ethck3DcI) | [wanna feel it too](https://open.spotify.com/album/1ahByMR7AX6oOMxKQz60aO) | 3:15 | 2022-01-07 | 2022-07-29 |

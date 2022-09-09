@@ -1,15 +1,31 @@
 {
-  "description": "No rules. No boundaries. Just cool music you need to hear. Cover: DE'WAYNE",
-  "num_followers": 1090509,
+  "description": "No rules. No boundaries. Just cool music you need to hear. Cover: WILLOW",
+  "num_followers": 1090663,
   "original_name": "The New Alt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjA5MTMyMCwwMDAwMDAwMDk1MjNhNDc1ZDM4MTQ4MzhkMGJkNWUwZDk5Y2Q0ZTgy",
+  "snapshot_id": "MTY2MjY3ODAwMCwwMDAwMDAwMDIwMjkwM2E5MzhlODM2MmZiZTFmYjQ3NzAwYzQ3YTcx",
   "tracks": [
     {
-      "added_at": "2022-09-02 04:02:00",
+      "added_at": "2022-09-08 23:00:00",
+      "album": {
+        "name": "curious/furious",
+        "url": "https://open.spotify.com/album/5hlxPdHRPznZIxBna01A9Z"
+      },
+      "artists": [
+        {
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+        }
+      ],
+      "duration_ms": 184905,
+      "name": "curious/furious",
+      "url": "https://open.spotify.com/track/27dTFzAAiUrJ2C2hxRcCd5"
+    },
+    {
+      "added_at": "2022-09-08 23:00:00",
       "album": {
         "name": "TAKE THIS CROWN (feat. Good Charlotte)",
         "url": "https://open.spotify.com/album/5A4pLq7sNTS4kdEnd6lN9M"
@@ -29,7 +45,7 @@
       "url": "https://open.spotify.com/track/2IY9lQ8pD2uVzAoIxJUPK8"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
+      "added_at": "2022-09-08 23:00:00",
       "album": {
         "name": "Robbery",
         "url": "https://open.spotify.com/album/2Grp2EjKlLzlZYZBHk9Q6h"
@@ -49,23 +65,7 @@
       "url": "https://open.spotify.com/track/2QwrcxUvwVxvNjk83Xsrf6"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
-      "album": {
-        "name": "hover like a GODDESS",
-        "url": "https://open.spotify.com/album/4arIDrVDtHLb3qVOY35Qvf"
-      },
-      "artists": [
-        {
-          "name": "WILLOW",
-          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
-        }
-      ],
-      "duration_ms": 143357,
-      "name": "hover like a GODDESS",
-      "url": "https://open.spotify.com/track/5lq8H9zq9v4wDVyNHOoTVX"
-    },
-    {
-      "added_at": "2022-09-02 04:02:00",
+      "added_at": "2022-09-08 23:00:00",
       "album": {
         "name": "Natural Born Killer/Pink Lullabye",
         "url": "https://open.spotify.com/album/379z7WiokF2pa4kKUgVjRF"
@@ -81,7 +81,7 @@
       "url": "https://open.spotify.com/track/78wMThFTNKThsWq19o0F1H"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
+      "added_at": "2022-09-08 23:00:00",
       "album": {
         "name": "Never Had to Leave",
         "url": "https://open.spotify.com/album/2JBomcPj6tIDhtLBfP4MV7"
@@ -97,7 +97,23 @@
       "url": "https://open.spotify.com/track/2Y2nvGDYoKXihBx5KBIugX"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
+      "added_at": "2022-09-08 23:00:00",
+      "album": {
+        "name": "Self Portrait",
+        "url": "https://open.spotify.com/album/4sgqq74AvRlNIbc8baLcV2"
+      },
+      "artists": [
+        {
+          "name": "Surf Curse",
+          "url": "https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D"
+        }
+      ],
+      "duration_ms": 212080,
+      "name": "Self Portrait",
+      "url": "https://open.spotify.com/track/5IssEtH38Bs8vpGOoVnLlh"
+    },
+    {
+      "added_at": "2022-09-08 23:00:00",
       "album": {
         "name": "New Gold (feat. Tame Impala and Bootie Brown)",
         "url": "https://open.spotify.com/album/4V9YFKLqZ5h8nQFTvDQscC"
@@ -121,7 +137,7 @@
       "url": "https://open.spotify.com/track/64dLd6rVqDLtkXFYrEUHIU"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
+      "added_at": "2022-09-08 23:00:00",
       "album": {
         "name": "Love Of Mine (Night Visions Demo)",
         "url": "https://open.spotify.com/album/3BAUn8SPQORLl49pDhR30l"
@@ -137,7 +153,43 @@
       "url": "https://open.spotify.com/track/4C20SN2nzLbsZbS6A4idoA"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
+      "added_at": "2022-09-08 23:00:00",
+      "album": {
+        "name": "Tonight (feat. Ezra Koenig)",
+        "url": "https://open.spotify.com/album/3FkF6yz6p8iM2TR18ODmtV"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        },
+        {
+          "name": "Ezra Koenig",
+          "url": "https://open.spotify.com/artist/2nkAu4P6EVeQpXxiEhPTH6"
+        }
+      ],
+      "duration_ms": 246706,
+      "name": "Tonight (feat. Ezra Koenig)",
+      "url": "https://open.spotify.com/track/4JvFNFTjEtZyEzh8w0YzHF"
+    },
+    {
+      "added_at": "2022-09-08 23:00:00",
+      "album": {
+        "name": "Supernatural",
+        "url": "https://open.spotify.com/album/5T0qNPygFFXWjhnzSzlTWD"
+      },
+      "artists": [
+        {
+          "name": "Barns Courtney",
+          "url": "https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9"
+        }
+      ],
+      "duration_ms": 167287,
+      "name": "Supernatural",
+      "url": "https://open.spotify.com/track/3HFvMIvCBNGkypFCQUHjyV"
+    },
+    {
+      "added_at": "2022-09-08 23:00:00",
       "album": {
         "name": "Burning",
         "url": "https://open.spotify.com/album/71Dk5SUWHmMrRnfPwYRnGB"
@@ -153,7 +205,7 @@
       "url": "https://open.spotify.com/track/07IAGsfYqS8sZSECzK1hZK"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
+      "added_at": "2022-09-08 23:00:00",
       "album": {
         "name": "I Won't",
         "url": "https://open.spotify.com/album/7vXjnE5noLdqc9EIsOhLpQ"
@@ -169,7 +221,7 @@
       "url": "https://open.spotify.com/track/1y8ooe9Zr1PMIxrOwNeeOi"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
+      "added_at": "2022-09-08 23:00:00",
       "album": {
         "name": "Keep On Smiling",
         "url": "https://open.spotify.com/album/0SbaC7OZOVB2WKGzf9ZMSQ"
@@ -185,7 +237,23 @@
       "url": "https://open.spotify.com/track/5HUxswbr7V4fzwG1LGCf7U"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
+      "added_at": "2022-09-08 23:00:00",
+      "album": {
+        "name": "Tripping Over Air",
+        "url": "https://open.spotify.com/album/6ZJonF00gkXNSTSI2PwyrC"
+      },
+      "artists": [
+        {
+          "name": "Aidan Bissett",
+          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
+        }
+      ],
+      "duration_ms": 182382,
+      "name": "Tripping Over Air",
+      "url": "https://open.spotify.com/track/7mzPAftljnsFmU6131Pqcd"
+    },
+    {
+      "added_at": "2022-09-08 23:00:00",
       "album": {
         "name": "THREE HEADS*",
         "url": "https://open.spotify.com/album/02BIHNzIl0WCC17CPM83gN"
@@ -201,7 +269,7 @@
       "url": "https://open.spotify.com/track/4apXjryIqMFUdOjWMM6zZp"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
+      "added_at": "2022-09-08 23:00:00",
       "album": {
         "name": "Chit Chat",
         "url": "https://open.spotify.com/album/1xz1n7gyY02veDxH50SQHQ"
@@ -217,7 +285,7 @@
       "url": "https://open.spotify.com/track/7DbdUf8aHSYoliSjO6LZv6"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
+      "added_at": "2022-09-08 23:00:00",
       "album": {
         "name": "boy",
         "url": "https://open.spotify.com/album/7ddxzwtg0QQj9kXYK29rpG"
@@ -233,7 +301,23 @@
       "url": "https://open.spotify.com/track/3Qw0WuniULBdYjXe2jsqCy"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
+      "added_at": "2022-09-08 23:00:00",
+      "album": {
+        "name": "Seeing Stars (Jessie Veronica \u2013 The Solo Project)",
+        "url": "https://open.spotify.com/album/4BCFyx1EU4XYRZrgs1VcvZ"
+      },
+      "artists": [
+        {
+          "name": "The Veronicas",
+          "url": "https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln"
+        }
+      ],
+      "duration_ms": 160760,
+      "name": "Seeing Stars - Jessie Veronica \u2013 The Solo Project",
+      "url": "https://open.spotify.com/track/5RFJv4bTZm9KmdZHMSqWqB"
+    },
+    {
+      "added_at": "2022-09-08 23:00:00",
       "album": {
         "name": "10:36",
         "url": "https://open.spotify.com/album/35YoDuTf68QG4Edvlrgvoz"
@@ -249,7 +333,23 @@
       "url": "https://open.spotify.com/track/1FPTtFzvWMtV1A7ouK78at"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
+      "added_at": "2022-09-08 23:00:00",
+      "album": {
+        "name": "September Rain",
+        "url": "https://open.spotify.com/album/1Bvlhc5gNdOBrwWDWn07HC"
+      },
+      "artists": [
+        {
+          "name": "Cassyette",
+          "url": "https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A"
+        }
+      ],
+      "duration_ms": 213874,
+      "name": "September Rain",
+      "url": "https://open.spotify.com/track/2GXXovrQJ0VCIbTVPiXILx"
+    },
+    {
+      "added_at": "2022-09-08 23:00:00",
       "album": {
         "name": "Paradise",
         "url": "https://open.spotify.com/album/5wMUl1NuhyxRnRQK6shy9U"
@@ -265,7 +365,7 @@
       "url": "https://open.spotify.com/track/1iXtTFvDXtL4sr5GOc2tXx"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
+      "added_at": "2022-09-08 23:00:00",
       "album": {
         "name": "Come Apart",
         "url": "https://open.spotify.com/album/7HFKrcFsBxZTbDd6kTYowF"
@@ -281,10 +381,10 @@
       "url": "https://open.spotify.com/track/7uDPHQ8ZRfeqwmYGDGYAio"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
+      "added_at": "2022-09-08 23:00:00",
       "album": {
-        "name": "toxic energy",
-        "url": "https://open.spotify.com/album/1m2hH5sMp7nZjmpQAYXhQI"
+        "name": "in loving memory",
+        "url": "https://open.spotify.com/album/0ZvU2iSXtYxBeR9QzvHQau"
       },
       "artists": [
         {
@@ -298,10 +398,10 @@
       ],
       "duration_ms": 191559,
       "name": "toxic energy (with Bert McCracken of The Used)",
-      "url": "https://open.spotify.com/track/4DKSPhmxEn5gp9uPAMosVQ"
+      "url": "https://open.spotify.com/track/01tEAvdPLPREA9JT9Wpb26"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
+      "added_at": "2022-09-08 23:00:00",
       "album": {
         "name": "Here to Forever",
         "url": "https://open.spotify.com/album/3ysrZoXIO6es1hsQI2iTeZ"
@@ -317,7 +417,7 @@
       "url": "https://open.spotify.com/track/3uKLuVqBd0bIUfFDdn68lI"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
+      "added_at": "2022-09-08 23:00:00",
       "album": {
         "name": "Then It All Goes Away",
         "url": "https://open.spotify.com/album/1WuvMjvT8P5oOpe51cQdO1"
@@ -333,7 +433,7 @@
       "url": "https://open.spotify.com/track/5RaThsdZpF9WWwoP00NjLI"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
+      "added_at": "2022-09-08 23:00:00",
       "album": {
         "name": "Wrongside",
         "url": "https://open.spotify.com/album/7L71cZKvX9a8zv0LnN3Q1T"
@@ -349,7 +449,7 @@
       "url": "https://open.spotify.com/track/5rpwJ4cUvE133ExIlX0xTl"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
+      "added_at": "2022-09-08 23:00:00",
       "album": {
         "name": "Morning Blue",
         "url": "https://open.spotify.com/album/2ewGI2tIH2rBS0j5avcEfG"
@@ -365,7 +465,7 @@
       "url": "https://open.spotify.com/track/71qr4SoRZ61SKxhH4XhAqP"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
+      "added_at": "2022-09-08 23:00:00",
       "album": {
         "name": "Stay Out Of It",
         "url": "https://open.spotify.com/album/2p70Xer2HAT9Ro0qiBVHOc"
@@ -381,7 +481,23 @@
       "url": "https://open.spotify.com/track/1f8G4jvkONnLMxJMx7V2Ck"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
+      "added_at": "2022-09-08 23:00:00",
+      "album": {
+        "name": "STATUES (v2)",
+        "url": "https://open.spotify.com/album/2PFd9ISLL104rl7oFJtCsH"
+      },
+      "artists": [
+        {
+          "name": "George Barnett",
+          "url": "https://open.spotify.com/artist/40OV4nFVZqdXDjPumwcywN"
+        }
+      ],
+      "duration_ms": 293354,
+      "name": "STATUES (v2)",
+      "url": "https://open.spotify.com/track/1BVW94mJBunuCOgqqmKDqk"
+    },
+    {
+      "added_at": "2022-09-08 23:00:00",
       "album": {
         "name": "sail away",
         "url": "https://open.spotify.com/album/6JFD9WU1ZSYZOJlDpRtZ71"
@@ -397,7 +513,7 @@
       "url": "https://open.spotify.com/track/6G8xvLFNkXy3HM5EbQI6c8"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
+      "added_at": "2022-09-08 23:00:00",
       "album": {
         "name": "Seventeen Going Under (Deluxe)",
         "url": "https://open.spotify.com/album/4FKOLaEGqA7ZFYYW5r4X9z"
@@ -413,7 +529,7 @@
       "url": "https://open.spotify.com/track/4jzK6Ey84SAexMK5C2JWKx"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
+      "added_at": "2022-09-08 23:00:00",
       "album": {
         "name": "Wretched",
         "url": "https://open.spotify.com/album/2Ehu1KE6isCk03znJL0LWS"
@@ -429,7 +545,7 @@
       "url": "https://open.spotify.com/track/6lKlCsBcsiPky4LP0DRmQd"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
+      "added_at": "2022-09-08 23:00:00",
       "album": {
         "name": "\u2022NOTDEAD!\u2022",
         "url": "https://open.spotify.com/album/3wSkJjnc6ayPUKr8X8ucUK"
@@ -445,7 +561,7 @@
       "url": "https://open.spotify.com/track/1c30r2e9SgkvjikuJBR7ms"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
+      "added_at": "2022-09-08 23:00:00",
       "album": {
         "name": "Tissues",
         "url": "https://open.spotify.com/album/1LIAp7pyElYRzvlP0mXSew"
@@ -461,7 +577,7 @@
       "url": "https://open.spotify.com/track/0jRY4XO556pn1zHZAoY3ph"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
+      "added_at": "2022-09-08 23:00:00",
       "album": {
         "name": "Viva Las Vengeance",
         "url": "https://open.spotify.com/album/25DhBz5cckEAFcivcSzSTo"
@@ -477,7 +593,7 @@
       "url": "https://open.spotify.com/track/2Tg7Tc4H50u11aDpmSRQTB"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
+      "added_at": "2022-09-08 23:00:00",
       "album": {
         "name": "Jealousy",
         "url": "https://open.spotify.com/album/4Tf9NrvgB10OtQgUAFyeav"
@@ -493,7 +609,7 @@
       "url": "https://open.spotify.com/track/6d0v3O81urNRzxLWkXVLD3"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
+      "added_at": "2022-09-08 23:00:00",
       "album": {
         "name": "Don\u2019t Take It Personally",
         "url": "https://open.spotify.com/album/0nPvJX8egjWzT7geR5y8Wc"
@@ -509,7 +625,7 @@
       "url": "https://open.spotify.com/track/2KBCLxrGtUHGsbQTTabnft"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
+      "added_at": "2022-09-08 23:00:00",
       "album": {
         "name": "Wet Leg",
         "url": "https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO"
@@ -525,7 +641,7 @@
       "url": "https://open.spotify.com/track/260Ub1Yuj4CobdISTOBvM9"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
+      "added_at": "2022-09-08 23:00:00",
       "album": {
         "name": "Puffer",
         "url": "https://open.spotify.com/album/0YmzktvGgOcjZCYjSdcG6n"
@@ -541,7 +657,7 @@
       "url": "https://open.spotify.com/track/2NC0JdCc2XgrNa0ipNOfML"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
+      "added_at": "2022-09-08 23:00:00",
       "album": {
         "name": "Fallin' With Me",
         "url": "https://open.spotify.com/album/6zqWA4OhvhQL6qDFutqpw3"
@@ -557,7 +673,7 @@
       "url": "https://open.spotify.com/track/5n3It3ROR8In19oJkpXeWt"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
+      "added_at": "2022-09-08 23:00:00",
       "album": {
         "name": "Growing/Dying",
         "url": "https://open.spotify.com/album/29kPpfrcYvtyTD1nhXxui0"
@@ -573,7 +689,7 @@
       "url": "https://open.spotify.com/track/4JAFlkYkNy1MM6zOqRbiGp"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
+      "added_at": "2022-09-08 23:00:00",
       "album": {
         "name": "Dropout Boogie",
         "url": "https://open.spotify.com/album/7LLyQJzyD56Avzk3uFzKUk"
@@ -589,7 +705,7 @@
       "url": "https://open.spotify.com/track/4fNtMdGY2dYp2ODClA9CB4"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
+      "added_at": "2022-09-08 23:00:00",
       "album": {
         "name": "Further Joy",
         "url": "https://open.spotify.com/album/1rM5i5ofhPY3hdPA5wcozJ"
@@ -605,7 +721,7 @@
       "url": "https://open.spotify.com/track/7LigIDzs63Y4uFlZvNzCZq"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
+      "added_at": "2022-09-08 23:00:00",
       "album": {
         "name": "Hello World",
         "url": "https://open.spotify.com/album/2FQxYhaN3AULlomg0TNefH"
@@ -621,7 +737,7 @@
       "url": "https://open.spotify.com/track/4Z3dv0ea4R11kqqBkFV1nQ"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
+      "added_at": "2022-09-08 23:00:00",
       "album": {
         "name": "Every Night",
         "url": "https://open.spotify.com/album/1erO19ZiBDTVHMOVj9dFUI"
@@ -637,7 +753,7 @@
       "url": "https://open.spotify.com/track/342eeP9yZTw5mpqNUDh8I0"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
+      "added_at": "2022-09-08 23:00:00",
       "album": {
         "name": "Real Life",
         "url": "https://open.spotify.com/album/52NM880fYreKPu2PJDFR0x"
@@ -653,7 +769,7 @@
       "url": "https://open.spotify.com/track/3WcZqa5zOjq3FnEBZCriMw"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
+      "added_at": "2022-09-08 23:00:00",
       "album": {
         "name": "Don't Miss",
         "url": "https://open.spotify.com/album/5yHrrUGbMoZxefRxJY1LN9"
@@ -669,7 +785,7 @@
       "url": "https://open.spotify.com/track/1XS9ZXy3Z17ptOVRO3i02e"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
+      "added_at": "2022-09-08 23:00:00",
       "album": {
         "name": "All the Things I Hate About You",
         "url": "https://open.spotify.com/album/5BHOsQ5SYyLezRwfYN1non"
@@ -685,7 +801,7 @@
       "url": "https://open.spotify.com/track/2HbuhhxdEVbqdaJlLxOCfW"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
+      "added_at": "2022-09-08 23:00:00",
       "album": {
         "name": "Hold On Baby",
         "url": "https://open.spotify.com/album/3Q998ztjKK3ybjToj0QL9c"
@@ -701,7 +817,7 @@
       "url": "https://open.spotify.com/track/5uDo40mspcWNHDCLlKTLoJ"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
+      "added_at": "2022-09-08 23:00:00",
       "album": {
         "name": "HOLY FVCK",
         "url": "https://open.spotify.com/album/2QX21ryT6SIcft6N3PkfeR"
@@ -717,7 +833,7 @@
       "url": "https://open.spotify.com/track/0REv856zadB0e8IM1brlwr"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
+      "added_at": "2022-09-08 23:00:00",
       "album": {
         "name": "Run Away to Mars",
         "url": "https://open.spotify.com/album/4ks1Xkpt67UXbJamJFZ8et"
@@ -733,7 +849,7 @@
       "url": "https://open.spotify.com/track/6G1Mz5yMgn0ydOlIvTrZ65"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
+      "added_at": "2022-09-08 23:00:00",
       "album": {
         "name": "Halloween Mixtape",
         "url": "https://open.spotify.com/album/1Defrb5hnuVq7ZnSBtxlRy"
@@ -749,7 +865,7 @@
       "url": "https://open.spotify.com/track/3FJWujo6lhrjtS3w8rR78F"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
+      "added_at": "2022-09-08 23:00:00",
       "album": {
         "name": "In The Wild",
         "url": "https://open.spotify.com/album/3kY1OhkaStCboWLSBTIfvg"
@@ -765,7 +881,7 @@
       "url": "https://open.spotify.com/track/4lUubz3TMfHfQDJl0mAo2l"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
+      "added_at": "2022-09-08 23:00:00",
       "album": {
         "name": "Buena Park",
         "url": "https://open.spotify.com/album/2u54J2qbqqzWHTebG9zBZC"
@@ -781,7 +897,7 @@
       "url": "https://open.spotify.com/track/4ek4nixH3b9vzzSNIKnbLl"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
+      "added_at": "2022-09-08 23:00:00",
       "album": {
         "name": "Emotional Creature",
         "url": "https://open.spotify.com/album/3H6pbRzmpQa6eqCXn7rgO8"
@@ -797,7 +913,7 @@
       "url": "https://open.spotify.com/track/6p0Nvka9pKB9PYEC8kyc03"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
+      "added_at": "2022-09-08 23:00:00",
       "album": {
         "name": "IT'S OKAY, WE'RE DREAMING II: don't worry, i'll be fine",
         "url": "https://open.spotify.com/album/4aI8eV2NI3p6HdNMk43pcq"
@@ -813,7 +929,7 @@
       "url": "https://open.spotify.com/track/1qk8eEUJaGK2xWHhq8QZD5"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
+      "added_at": "2022-09-08 23:00:00",
       "album": {
         "name": "strawberry chainsaw",
         "url": "https://open.spotify.com/album/62JUc5rzLwVpGKwpawkTjL"
@@ -829,7 +945,7 @@
       "url": "https://open.spotify.com/track/1hf0PdHw0lnVxq5lfzwjSl"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
+      "added_at": "2022-09-08 23:00:00",
       "album": {
         "name": "Alpha Zulu",
         "url": "https://open.spotify.com/album/4kLWiOcd9HWMx4VhRR1XHV"
@@ -845,7 +961,7 @@
       "url": "https://open.spotify.com/track/1QgegXUzfvRJxNRHM9sP3F"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
+      "added_at": "2022-09-08 23:00:00",
       "album": {
         "name": "Formentera",
         "url": "https://open.spotify.com/album/1S5vq5vSHCnCJnMljIiuS6"
@@ -861,7 +977,7 @@
       "url": "https://open.spotify.com/track/4JmXokIIxfoS3XdhkHUBDw"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
+      "added_at": "2022-09-08 23:00:00",
       "album": {
         "name": "Weird Goodbyes (feat. Bon Iver)",
         "url": "https://open.spotify.com/album/2HQGXK9797uB6Ir8yd7Das"
@@ -881,7 +997,7 @@
       "url": "https://open.spotify.com/track/2NbS9E0ZZKAMJAppj8P53N"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
+      "added_at": "2022-09-08 23:00:00",
       "album": {
         "name": "Tonight",
         "url": "https://open.spotify.com/album/6TfS8L0UKhEgw2G9aqj0bI"
@@ -897,7 +1013,7 @@
       "url": "https://open.spotify.com/track/03aXoiwsFCXxgYuoStgwJj"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
+      "added_at": "2022-09-08 23:00:00",
       "album": {
         "name": "how deep?",
         "url": "https://open.spotify.com/album/4vaxABro6oVySHD5okB7QE"
@@ -913,7 +1029,7 @@
       "url": "https://open.spotify.com/track/0VcWp30A3hSJrPjdDEHeNE"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
+      "added_at": "2022-09-08 23:00:00",
       "album": {
         "name": "Dance Fever",
         "url": "https://open.spotify.com/album/4ohh1zQ4yybSK9FS7LLyDE"
@@ -929,7 +1045,7 @@
       "url": "https://open.spotify.com/track/7GtOjSSp5Qyi3gNbNDZgja"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
+      "added_at": "2022-09-08 23:00:00",
       "album": {
         "name": "Revolution",
         "url": "https://open.spotify.com/album/58mZEgMHwabU4Z5S2ggjCx"
@@ -945,7 +1061,7 @@
       "url": "https://open.spotify.com/track/69c48S8phNtQZuM8ksaObz"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
+      "added_at": "2022-09-08 23:00:00",
       "album": {
         "name": "Wilderado",
         "url": "https://open.spotify.com/album/27PS3oqiVzOqqAT04Ku6at"
@@ -961,7 +1077,7 @@
       "url": "https://open.spotify.com/track/6iWvETAILWAYOdm2DioSEF"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
+      "added_at": "2022-09-08 23:00:00",
       "album": {
         "name": "Bad Thing",
         "url": "https://open.spotify.com/album/6F6vM7ahopH2JAXsai22BI"
@@ -977,7 +1093,7 @@
       "url": "https://open.spotify.com/track/4jqxfm3BEhHPJ4awPsQ3Sl"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
+      "added_at": "2022-09-08 23:00:00",
       "album": {
         "name": "sun keeps on shining",
         "url": "https://open.spotify.com/album/4LBGeeTC8GUcMSTM8Aesm8"
@@ -993,7 +1109,7 @@
       "url": "https://open.spotify.com/track/5OAEQKfQzIB3X4K7TtviZf"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
+      "added_at": "2022-09-08 23:00:00",
       "album": {
         "name": "It's Your Time",
         "url": "https://open.spotify.com/album/2pp6pa4o8WTiKac58i1vus"
@@ -1009,7 +1125,7 @@
       "url": "https://open.spotify.com/track/5KcaYxXpwzX69M26YeM2mZ"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
+      "added_at": "2022-09-08 23:00:00",
       "album": {
         "name": "GLOW ON",
         "url": "https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS"
@@ -1025,7 +1141,7 @@
       "url": "https://open.spotify.com/track/1dB0NylVkpjdOe8DiekIs7"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
+      "added_at": "2022-09-08 23:00:00",
       "album": {
         "name": "Without Me",
         "url": "https://open.spotify.com/album/1ipW5HgZMdwxXFDNdTDePU"
@@ -1041,7 +1157,7 @@
       "url": "https://open.spotify.com/track/1d46ed3h4U9ws3YsvUOMon"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
+      "added_at": "2022-09-08 23:00:00",
       "album": {
         "name": "DEEP CUTS",
         "url": "https://open.spotify.com/album/2HbkSg3fAswxdCk5Bj23LO"
@@ -1057,7 +1173,7 @@
       "url": "https://open.spotify.com/track/2ZTp176VMqvwwcQ62AQuCk"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
+      "added_at": "2022-09-08 23:00:00",
       "album": {
         "name": "Charlie Bronson",
         "url": "https://open.spotify.com/album/4epVkITSRbajj8VlnOIWvN"
@@ -1073,7 +1189,7 @@
       "url": "https://open.spotify.com/track/7dZFOg2cJIz57li5yByDXK"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
+      "added_at": "2022-09-08 23:00:00",
       "album": {
         "name": "Change",
         "url": "https://open.spotify.com/album/5fjPFnPn0paRfom3TawNE6"
@@ -1089,7 +1205,7 @@
       "url": "https://open.spotify.com/track/1D7sWofAbWelYs35iRM08U"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
+      "added_at": "2022-09-08 23:00:00",
       "album": {
         "name": "Runner",
         "url": "https://open.spotify.com/album/5jhIfSbDYyInZbF9c4EauX"
@@ -1105,7 +1221,7 @@
       "url": "https://open.spotify.com/track/5PmvRPR1SedsWA08jDDgF9"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
+      "added_at": "2022-09-08 23:00:00",
       "album": {
         "name": "pretty kids",
         "url": "https://open.spotify.com/album/141uEcxDeKXBqPw8X14kee"
@@ -1121,7 +1237,7 @@
       "url": "https://open.spotify.com/track/7cuevmvfk9blOhmv5efjVU"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
+      "added_at": "2022-09-08 23:00:00",
       "album": {
         "name": "wish i was dead",
         "url": "https://open.spotify.com/album/3B4UmoO1zRScG8X8MSDHy4"
@@ -1137,7 +1253,7 @@
       "url": "https://open.spotify.com/track/16dzo8i1mlh2AkmQ4DhwXH"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
+      "added_at": "2022-09-08 23:00:00",
       "album": {
         "name": "Talk Talk",
         "url": "https://open.spotify.com/album/3OAeHXReEGUkwcwmrQfvW3"
@@ -1153,7 +1269,7 @@
       "url": "https://open.spotify.com/track/7ucHXmOqOCw0tohI4vmOZT"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
+      "added_at": "2022-09-08 23:00:00",
       "album": {
         "name": "Martian Man",
         "url": "https://open.spotify.com/album/2coz3m9rwxsZXdjJWdExI9"
@@ -1169,7 +1285,7 @@
       "url": "https://open.spotify.com/track/3BHXBrDpZSRhmNWExBfYGZ"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
+      "added_at": "2022-09-08 23:00:00",
       "album": {
         "name": "Life Is Yours",
         "url": "https://open.spotify.com/album/7CBK26TFXHyt2l6NQcXIsq"
@@ -1185,7 +1301,7 @@
       "url": "https://open.spotify.com/track/18mdHJIozzktPJ93oXk39A"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
+      "added_at": "2022-09-08 23:00:00",
       "album": {
         "name": "High School",
         "url": "https://open.spotify.com/album/7KhHLIouEPya0k5PGv5gBh"
@@ -1201,7 +1317,7 @@
       "url": "https://open.spotify.com/track/3aWmJVDmjKtmSCLLjUwJ7r"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
+      "added_at": "2022-09-08 23:00:00",
       "album": {
         "name": "We Made Plans & God Laughed",
         "url": "https://open.spotify.com/album/7IiUhV5149o4iltQaJiLJd"
@@ -1221,7 +1337,7 @@
       "url": "https://open.spotify.com/track/7lXAfpNbrQmbsqs9ZmsPv7"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
+      "added_at": "2022-09-08 23:00:00",
       "album": {
         "name": "Shadow Boxing",
         "url": "https://open.spotify.com/album/2ClkPaYrHeaHGxiiSaMoyA"
@@ -1237,7 +1353,7 @@
       "url": "https://open.spotify.com/track/5OSMmIX3QvBW5wrChEujmZ"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
+      "added_at": "2022-09-08 23:00:00",
       "album": {
         "name": "Stars",
         "url": "https://open.spotify.com/album/2T1BQNqAnEB9VC2dNrvpRR"
@@ -1253,7 +1369,7 @@
       "url": "https://open.spotify.com/track/2lGIQz1KaDIFSoAtsYZWxI"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
+      "added_at": "2022-09-08 23:00:00",
       "album": {
         "name": "cross your mind",
         "url": "https://open.spotify.com/album/0Fbrqq0fBxXMgavgOfsG37"
@@ -1269,7 +1385,7 @@
       "url": "https://open.spotify.com/track/09gqiE8sqspbkfdr2x0CBs"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
+      "added_at": "2022-09-08 23:00:00",
       "album": {
         "name": "Designated Driver",
         "url": "https://open.spotify.com/album/3U7ZF5UANVBDXSOiSSHXhl"
@@ -1285,7 +1401,7 @@
       "url": "https://open.spotify.com/track/2sAUIlFLzyDMMI17TtohBf"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
+      "added_at": "2022-09-08 23:00:00",
       "album": {
         "name": "SELF-SABOTAGE",
         "url": "https://open.spotify.com/album/1a37BS9lp7tkEbhGtoj0qf"
@@ -1301,7 +1417,7 @@
       "url": "https://open.spotify.com/track/6uEBUvGjFsoVdEf775Coa3"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
+      "added_at": "2022-09-08 23:00:00",
       "album": {
         "name": "Life's Been Good",
         "url": "https://open.spotify.com/album/0eGpYPPLOXgHhFVuEn8jto"
@@ -1317,7 +1433,7 @@
       "url": "https://open.spotify.com/track/7wtMcCrzuRDzaqp7QVyc0w"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
+      "added_at": "2022-09-08 23:00:00",
       "album": {
         "name": "Maybe You Saved Me",
         "url": "https://open.spotify.com/album/1T4ojqgTOhuLDEeMPvz3BY"
@@ -1337,7 +1453,7 @@
       "url": "https://open.spotify.com/track/6pJsukg4tYbHfE01yU40Qr"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
+      "added_at": "2022-09-08 23:00:00",
       "album": {
         "name": "Angelhood",
         "url": "https://open.spotify.com/album/5lx540ZgFCIotz9DmoHsQh"
@@ -1353,7 +1469,7 @@
       "url": "https://open.spotify.com/track/2XZrbIxlZ0FPB9plk7d2oE"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
+      "added_at": "2022-09-08 23:00:00",
       "album": {
         "name": "YUKON (INTERLUDE)",
         "url": "https://open.spotify.com/album/0GxWXE6ltKk4Gx3WyWLLrW"
@@ -1369,7 +1485,7 @@
       "url": "https://open.spotify.com/track/6c1yUgFlhUHLAM9hSDkVBq"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
+      "added_at": "2022-09-08 23:00:00",
       "album": {
         "name": "Yellow",
         "url": "https://open.spotify.com/album/46x6iizcB1N1WdwHO7EO7e"
@@ -1385,7 +1501,7 @@
       "url": "https://open.spotify.com/track/3AsPDfysPpXHXm8JK85F3W"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
+      "added_at": "2022-09-08 23:00:00",
       "album": {
         "name": "Pastlife",
         "url": "https://open.spotify.com/album/2uEcfaomYrfuwGz4ikMU8a"
@@ -1405,7 +1521,7 @@
       "url": "https://open.spotify.com/track/59Bpb4X8kW3W6AesikWFoi"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
+      "added_at": "2022-09-08 23:00:00",
       "album": {
         "name": "SIDE B",
         "url": "https://open.spotify.com/album/0e7O2OWagUpoL2JXFkKGQj"
@@ -1421,7 +1537,7 @@
       "url": "https://open.spotify.com/track/6KYHEjY1Q6PskPAjQlzw6z"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
+      "added_at": "2022-09-08 23:00:00",
       "album": {
         "name": "Manic Memories",
         "url": "https://open.spotify.com/album/66Utp1WW0wprfonCtNSa3X"
@@ -1437,7 +1553,7 @@
       "url": "https://open.spotify.com/track/7mV6f3PA5tV74Q7vkGi0zB"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
+      "added_at": "2022-09-08 23:00:00",
       "album": {
         "name": "THE FIGHT OF OUR LIVES (feat. Tim McIlrath of Rise Against & Brian Baker of Bad Religion)",
         "url": "https://open.spotify.com/album/52O9xBWemqkJRPWK3mDdCP"
@@ -1457,7 +1573,7 @@
       "url": "https://open.spotify.com/track/7KpJ97vHrDq2BjjrLvimsq"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
+      "added_at": "2022-09-08 23:00:00",
       "album": {
         "name": "The King and Queen of Gasoline",
         "url": "https://open.spotify.com/album/1a3S2I3J4LcmAoj5ttDaoP"
@@ -1473,7 +1589,7 @@
       "url": "https://open.spotify.com/track/1Ee8F0OqNRgdXoO9HoOrKI"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
+      "added_at": "2022-09-08 23:00:00",
       "album": {
         "name": "Shine A Light",
         "url": "https://open.spotify.com/album/7b6ghBEIH75YC11a9bNQzA"
@@ -1489,7 +1605,7 @@
       "url": "https://open.spotify.com/track/4Nj2u5IeS8CenFKuSATlm8"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
+      "added_at": "2022-09-08 23:00:00",
       "album": {
         "name": "Sometimes, Forever",
         "url": "https://open.spotify.com/album/3VXLdJpzeaAyX9Tbm0i0zn"
@@ -1505,7 +1621,7 @@
       "url": "https://open.spotify.com/track/5hfu9r4JcERCBwimhrPIUN"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
+      "added_at": "2022-09-08 23:00:00",
       "album": {
         "name": "ACT II: EXILE",
         "url": "https://open.spotify.com/album/2N3H5myg0DidN2t5XejOWT"
@@ -1521,7 +1637,7 @@
       "url": "https://open.spotify.com/track/0H80LQh9hsFkw8KixEzzpK"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
+      "added_at": "2022-09-08 23:00:00",
       "album": {
         "name": "Hollywood Hillbilly",
         "url": "https://open.spotify.com/album/4YSVTP1mfval5BPo6qygLf"
@@ -1537,7 +1653,7 @@
       "url": "https://open.spotify.com/track/0Xr4W3sOlaLU2yZJ28lQRn"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
+      "added_at": "2022-09-08 23:00:00",
       "album": {
         "name": "2030 Revolution",
         "url": "https://open.spotify.com/album/5MVQziYxk5ejRzKcLveWpa"
@@ -1553,7 +1669,7 @@
       "url": "https://open.spotify.com/track/0Ik7qkvgSz25oZgZ6T0pIs"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
+      "added_at": "2022-09-08 23:00:00",
       "album": {
         "name": "Buy likes",
         "url": "https://open.spotify.com/album/2xzZ2sByViamSZkDM08pm5"
@@ -1569,7 +1685,7 @@
       "url": "https://open.spotify.com/track/4PpyNUrgNO7OhHcBosuonP"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
+      "added_at": "2022-09-08 23:00:00",
       "album": {
         "name": "MINE",
         "url": "https://open.spotify.com/album/71bI5cpUU3oudowoIkoGwU"
@@ -1585,7 +1701,7 @@
       "url": "https://open.spotify.com/track/1OuUogTZKcuAmLgS6FbDRv"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
+      "added_at": "2022-09-08 23:00:00",
       "album": {
         "name": "ATTENTION!",
         "url": "https://open.spotify.com/album/7zM6DDsuOyzy85DMg6Ktfh"
@@ -1601,7 +1717,7 @@
       "url": "https://open.spotify.com/track/5w4nlSCMfNT2TdopSd0Lmu"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
+      "added_at": "2022-09-08 23:00:00",
       "album": {
         "name": "you're not special",
         "url": "https://open.spotify.com/album/7vvGNS9MRPrzfi0cHbDeQC"
@@ -1617,7 +1733,7 @@
       "url": "https://open.spotify.com/track/6Mc1snn8uClt3FzkUREymB"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
+      "added_at": "2022-09-08 23:00:00",
       "album": {
         "name": "Next Ex",
         "url": "https://open.spotify.com/album/5pHz874yawnTG7hK0bgHWO"
@@ -1633,7 +1749,7 @@
       "url": "https://open.spotify.com/track/1jvHT0EOuvcPF8FT5A9G6V"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
+      "added_at": "2022-09-08 23:00:00",
       "album": {
         "name": "radio.fm",
         "url": "https://open.spotify.com/album/1eHrThBX4RRIybZcyWEoXx"
@@ -1649,7 +1765,7 @@
       "url": "https://open.spotify.com/track/5YhQ8rY4jdMdonSTBqQM06"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
+      "added_at": "2022-09-08 23:00:00",
       "album": {
         "name": "Physical Thrills",
         "url": "https://open.spotify.com/album/2NqgOQKY5RB7UPmnhcyWEb"
@@ -1665,7 +1781,7 @@
       "url": "https://open.spotify.com/track/44KmH8YZX9kypWnxcQwkw5"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
+      "added_at": "2022-09-08 23:00:00",
       "album": {
         "name": "indieedgycool",
         "url": "https://open.spotify.com/album/4QmiBPsOgNxhjYrbDSaFhQ"
@@ -1681,7 +1797,7 @@
       "url": "https://open.spotify.com/track/7nl5O8gRhQBCZUv3WHFxoV"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
+      "added_at": "2022-09-08 23:00:00",
       "album": {
         "name": "Yeah, I Like You",
         "url": "https://open.spotify.com/album/0vlDeWXsRPN0GZkdIoykfT"
@@ -1697,7 +1813,7 @@
       "url": "https://open.spotify.com/track/6kNOYOpdMy0w67fC4XPc0q"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
+      "added_at": "2022-09-08 23:00:00",
       "album": {
         "name": "All Day I Dream About",
         "url": "https://open.spotify.com/album/17iyscgYIEAq4ldviegpNn"
@@ -1713,7 +1829,7 @@
       "url": "https://open.spotify.com/track/5o9CWfDLfSLJ22BtUSMLBt"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
+      "added_at": "2022-09-08 23:00:00",
       "album": {
         "name": "Friends I Barely Know",
         "url": "https://open.spotify.com/album/51KS9zdT2oJWaRPEH1W6w5"
@@ -1729,7 +1845,7 @@
       "url": "https://open.spotify.com/track/4Yzy5bGrMOlLpYcOtWxGIM"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
+      "added_at": "2022-09-08 23:00:00",
       "album": {
         "name": "We're Not In Orbit Yet\u2026",
         "url": "https://open.spotify.com/album/1BvFdIWtys20Hm0sFVeqeT"
@@ -1745,7 +1861,7 @@
       "url": "https://open.spotify.com/track/45iaKryj5SvdzinlHHrDlL"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
+      "added_at": "2022-09-08 23:00:00",
       "album": {
         "name": "Bad Days",
         "url": "https://open.spotify.com/album/39eAX2WHDwMsa0q7Wrd0Iz"
@@ -1765,7 +1881,7 @@
       "url": "https://open.spotify.com/track/0kdMzZ1w3x4PE8gHfkhvgW"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
+      "added_at": "2022-09-08 23:00:00",
       "album": {
         "name": "Revolution",
         "url": "https://open.spotify.com/album/60zknsCojGDWHAZ1ppZgXP"
@@ -1781,7 +1897,7 @@
       "url": "https://open.spotify.com/track/6QGQghV8WhVOTNo9KbfNhd"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
+      "added_at": "2022-09-08 23:00:00",
       "album": {
         "name": "Homesick",
         "url": "https://open.spotify.com/album/6PmqLs9QBsOq6nWGlbgWKv"
@@ -1797,7 +1913,7 @@
       "url": "https://open.spotify.com/track/19oBJOOS9fHtN8TRDBX6Os"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
+      "added_at": "2022-09-08 23:00:00",
       "album": {
         "name": "Spinning the Truth Around",
         "url": "https://open.spotify.com/album/6i7WsXMKef0aJnPUN9uMOP"
@@ -1813,7 +1929,7 @@
       "url": "https://open.spotify.com/track/5Lkhf0rFPpKy3GaSimofXv"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
+      "added_at": "2022-09-08 23:00:00",
       "album": {
         "name": "die first",
         "url": "https://open.spotify.com/album/56raLTkxER12w8xejGTpSG"
@@ -1829,7 +1945,7 @@
       "url": "https://open.spotify.com/track/21szgNA72iLwvBxHQLgwBh"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
+      "added_at": "2022-09-08 23:00:00",
       "album": {
         "name": "My Friends",
         "url": "https://open.spotify.com/album/4ny79UyAfOylO1MiMQo8Pp"
@@ -1853,7 +1969,7 @@
       "url": "https://open.spotify.com/track/2yS6CimlH5ZIU61HsCtLxg"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
+      "added_at": "2022-09-08 23:00:00",
       "album": {
         "name": "Ready For Something",
         "url": "https://open.spotify.com/album/0kybYEkeYAZJDCzxqmrtvE"
@@ -1869,7 +1985,7 @@
       "url": "https://open.spotify.com/track/7jxszj5PkDm69WQGda2S21"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
+      "added_at": "2022-09-08 23:00:00",
       "album": {
         "name": "Angry Woman",
         "url": "https://open.spotify.com/album/3hHui1DLg3l29i1oUlJdyZ"
@@ -1885,7 +2001,7 @@
       "url": "https://open.spotify.com/track/02u8fWfWsiT2oML2jTICzs"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
+      "added_at": "2022-09-08 23:00:00",
       "album": {
         "name": "Legendary (Stripped)",
         "url": "https://open.spotify.com/album/16MbBJJa2B8HjCdTL14y7Y"
@@ -1901,7 +2017,7 @@
       "url": "https://open.spotify.com/track/5vzoKsGX13FCKJShncIxz2"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
+      "added_at": "2022-09-08 23:00:00",
       "album": {
         "name": "Seasick",
         "url": "https://open.spotify.com/album/5WdjEWFKc0aznBIb01FHo7"
@@ -1917,7 +2033,7 @@
       "url": "https://open.spotify.com/track/7fR3tnzsPKVNZTx4Ms871S"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
+      "added_at": "2022-09-08 23:00:00",
       "album": {
         "name": "Household Name",
         "url": "https://open.spotify.com/album/19trggALcFlGFsJDUiyVYn"
@@ -1933,7 +2049,7 @@
       "url": "https://open.spotify.com/track/2Yxa0oCeD9icx1JTTaJ7bp"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
+      "added_at": "2022-09-08 23:00:00",
       "album": {
         "name": "Jimmy Neutron",
         "url": "https://open.spotify.com/album/7dBwBWAzcOAJmXma3PeQ5G"
@@ -1949,7 +2065,7 @@
       "url": "https://open.spotify.com/track/0QQHnDejdUQbpnOhPgyYmE"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
+      "added_at": "2022-09-08 23:00:00",
       "album": {
         "name": "Grow Up Tomorrow",
         "url": "https://open.spotify.com/album/12o1WJaINpfED7QgO1qR6A"
@@ -1965,7 +2081,7 @@
       "url": "https://open.spotify.com/track/6Anf5eqLfGEKoGy0iaKAOb"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
+      "added_at": "2022-09-08 23:00:00",
       "album": {
         "name": "Passenger",
         "url": "https://open.spotify.com/album/4uupmE8nv4sRZQf62HRSM4"
@@ -1979,86 +2095,6 @@
       "duration_ms": 206922,
       "name": "Passenger",
       "url": "https://open.spotify.com/track/5EUp0KuPvWprwkD5HVhzmv"
-    },
-    {
-      "added_at": "2022-09-02 04:02:00",
-      "album": {
-        "name": "Cave World",
-        "url": "https://open.spotify.com/album/2IC2TP7bnwkfl56vjabLQt"
-      },
-      "artists": [
-        {
-          "name": "Viagra Boys",
-          "url": "https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg"
-        }
-      ],
-      "duration_ms": 237980,
-      "name": "Punk Rock Loser",
-      "url": "https://open.spotify.com/track/2pqoh1jUQoppztoQRRGyKK"
-    },
-    {
-      "added_at": "2022-09-02 04:02:00",
-      "album": {
-        "name": "Nocturnal",
-        "url": "https://open.spotify.com/album/6kbFVipGkUglf9eerXBlN3"
-      },
-      "artists": [
-        {
-          "name": "MOTHICA",
-          "url": "https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA"
-        }
-      ],
-      "duration_ms": 166854,
-      "name": "NOCTURNAL",
-      "url": "https://open.spotify.com/track/0cGRxex1Zgi7NW9yeDa5PQ"
-    },
-    {
-      "added_at": "2022-09-02 04:02:00",
-      "album": {
-        "name": "Shut Up and Show Me",
-        "url": "https://open.spotify.com/album/2GHDnkClYnHnVlYr5b8EUL"
-      },
-      "artists": [
-        {
-          "name": "Foreign Air",
-          "url": "https://open.spotify.com/artist/5ApQnMT6oR8eLguf24xb9S"
-        }
-      ],
-      "duration_ms": 210773,
-      "name": "Shut Up and Show Me",
-      "url": "https://open.spotify.com/track/6XkhuBBmnX7bKcW3ErAy0g"
-    },
-    {
-      "added_at": "2022-09-02 04:02:00",
-      "album": {
-        "name": "Girls Make Me Wanna Die",
-        "url": "https://open.spotify.com/album/4AbVB4r06i6IFHPYdMrHvl"
-      },
-      "artists": [
-        {
-          "name": "The Aces",
-          "url": "https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe"
-        }
-      ],
-      "duration_ms": 135297,
-      "name": "Girls Make Me Wanna Die",
-      "url": "https://open.spotify.com/track/6rBrGzyNGJt6Z4NMzW1nMA"
-    },
-    {
-      "added_at": "2022-09-02 04:02:00",
-      "album": {
-        "name": "Revival",
-        "url": "https://open.spotify.com/album/7jPYa8KUobduH8YFkep7AI"
-      },
-      "artists": [
-        {
-          "name": "Judah & the Lion",
-          "url": "https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ"
-        }
-      ],
-      "duration_ms": 199873,
-      "name": "scream!",
-      "url": "https://open.spotify.com/track/7ht1CeMPNfLFPm5rrFvavq"
     }
   ],
   "unique_name": "The New Alt",

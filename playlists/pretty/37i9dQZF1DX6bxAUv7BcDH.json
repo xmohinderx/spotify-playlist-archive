@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NDk4OTg2MSwwMDAwMDAwMDBmYjVjZThmYWRiOGU3Y2IwNDE3ZWVhNTVmM2ViYTgw",
+  "snapshot_id": "MTY0NDk4OTg2MSwwMDAwMDAwMDhmMGJmYWUwM2NmOGRjYWZjYjBlODdkZjNmMmMyYmRk",
   "tracks": [
     {
       "added_at": "2022-02-16 05:37:41",
@@ -139,6 +139,22 @@
     {
       "added_at": "2022-02-16 05:37:41",
       "album": {
+        "name": "Come Away With Me (Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "duration_ms": 186251,
+      "name": "Don't Know Why",
+      "url": "https://open.spotify.com/track/1zNXF2svmdlNxfS5XeNUgr"
+    },
+    {
+      "added_at": "2022-02-16 05:37:41",
+      "album": {
         "name": "Some Nights",
         "url": "https://open.spotify.com/album/7iycyHwOW2plljYIK6I1Zo"
       },
@@ -155,22 +171,6 @@
       "duration_ms": 250626,
       "name": "We Are Young (feat. Janelle Mon\u00e1e)",
       "url": "https://open.spotify.com/track/7a86XRg84qjasly9f6bPSD"
-    },
-    {
-      "added_at": "2022-02-16 05:37:41",
-      "album": {
-        "name": "Come Away With Me (Super Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl"
-      },
-      "artists": [
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        }
-      ],
-      "duration_ms": 186251,
-      "name": "Don't Know Why",
-      "url": "https://open.spotify.com/track/1zNXF2svmdlNxfS5XeNUgr"
     },
     {
       "added_at": "2022-02-16 05:37:41",
@@ -711,22 +711,6 @@
     {
       "added_at": "2022-02-16 05:37:41",
       "album": {
-        "name": "Some People's Lives",
-        "url": "https://open.spotify.com/album/7s86va7L6qq82p0y7KVBeb"
-      },
-      "artists": [
-        {
-          "name": "Bette Midler",
-          "url": "https://open.spotify.com/artist/13y0kncDD4J9wxCyfKr10W"
-        }
-      ],
-      "duration_ms": 276346,
-      "name": "From a Distance",
-      "url": "https://open.spotify.com/track/48eiLW57CqSmCYNZRM2J8M"
-    },
-    {
-      "added_at": "2022-02-16 05:37:41",
-      "album": {
         "name": "Hello, Dolly! (Remastered)",
         "url": "https://open.spotify.com/album/213k6pbTGOHxlMpz5lb7zC"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 147000,
       "name": "Hello, Dolly!",
       "url": "https://open.spotify.com/track/63kd4m3VFxcJjPVVtbVNAu"
+    },
+    {
+      "added_at": "2022-02-16 05:37:41",
+      "album": {
+        "name": "Some People's Lives",
+        "url": "https://open.spotify.com/album/7s86va7L6qq82p0y7KVBeb"
+      },
+      "artists": [
+        {
+          "name": "Bette Midler",
+          "url": "https://open.spotify.com/artist/13y0kncDD4J9wxCyfKr10W"
+        }
+      ],
+      "duration_ms": 276346,
+      "name": "From a Distance",
+      "url": "https://open.spotify.com/track/48eiLW57CqSmCYNZRM2J8M"
     },
     {
       "added_at": "2022-02-16 05:37:41",
@@ -843,22 +843,6 @@
     {
       "added_at": "2022-02-16 05:37:41",
       "album": {
-        "name": "Experience The Divine (Greatest Hits)",
-        "url": "https://open.spotify.com/album/0pVxC28TGjIk0SEqm7wUCD"
-      },
-      "artists": [
-        {
-          "name": "Bette Midler",
-          "url": "https://open.spotify.com/artist/13y0kncDD4J9wxCyfKr10W"
-        }
-      ],
-      "duration_ms": 293853,
-      "name": "Wind Beneath My Wings",
-      "url": "https://open.spotify.com/track/4ErUhFToT1yX52MeHqH8OY"
-    },
-    {
-      "added_at": "2022-02-16 05:37:41",
-      "album": {
         "name": "The Greatest Songs Of The Seventies",
         "url": "https://open.spotify.com/album/29MkM2BlD2jnF6g8lcMDuP"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 173448,
       "name": "Stay With Me - Radio Edit",
       "url": "https://open.spotify.com/track/3C08A6WXAl2XAsI5hZtTSR"
+    },
+    {
+      "added_at": "2022-02-16 05:37:41",
+      "album": {
+        "name": "Experience The Divine (Greatest Hits)",
+        "url": "https://open.spotify.com/album/0pVxC28TGjIk0SEqm7wUCD"
+      },
+      "artists": [
+        {
+          "name": "Bette Midler",
+          "url": "https://open.spotify.com/artist/13y0kncDD4J9wxCyfKr10W"
+        }
+      ],
+      "duration_ms": 293853,
+      "name": "Wind Beneath My Wings",
+      "url": "https://open.spotify.com/track/4ErUhFToT1yX52MeHqH8OY"
     },
     {
       "added_at": "2022-02-16 05:37:41",

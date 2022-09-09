@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Relax and transport yourself to a tranquil sojourn in France.",
+  "description": "Vive la France !",
   "name": "Souvenirs",
   "published_playlist_ids": [
     "4Zi2nJkHRT6Icgb5fuEvc3"
@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 138948,
       "name": "7 Heure Du Mat",
       "url": "https://open.spotify.com/track/5sVA72TQmjb4lqIt00jAaZ"
@@ -37,7 +37,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 143026,
       "name": "Aimer \u00e0 perdre la raison",
       "url": "https://open.spotify.com/track/5okI57GiUG0innS360o2bH"
@@ -55,7 +55,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 197573,
       "name": "Armstrong",
       "url": "https://open.spotify.com/track/1V021MMTOGURDZxkDBMaG9"
@@ -127,7 +127,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 130160,
       "name": "Couleur caf\u00e9",
       "url": "https://open.spotify.com/track/5wU2HvqNDljN1GhTvOxWye"
@@ -149,6 +149,24 @@
       "duration_ms": 132226,
       "name": "Couleur caf\u00e9",
       "url": "https://open.spotify.com/track/7Gnvasgy1EdC4sXTOsMEsV"
+    },
+    {
+      "album": {
+        "name": "Mon homme",
+        "url": "https://open.spotify.com/album/0wttZ0qGZeO95j5NOIDRF5"
+      },
+      "artists": [
+        {
+          "name": "Arletty",
+          "url": "https://open.spotify.com/artist/5ouVGmB18Ok71seyDU6g91"
+        }
+      ],
+      "date_added": "2022-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159026,
+      "name": "C\u0153ur de parisienne",
+      "url": "https://open.spotify.com/track/16bV2DdifOepotmlnEjNQZ"
     },
     {
       "album": {
@@ -329,7 +347,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 136773,
       "name": "Ivan, Boris et moi",
       "url": "https://open.spotify.com/track/1SkYwxD8JDtrQUBbdS2eGO"
@@ -383,7 +401,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 177946,
       "name": "J'aime les filles",
       "url": "https://open.spotify.com/track/196fYCjVMKAQb8uwOWxpUo"
@@ -405,7 +423,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 209000,
       "name": "Je m'appelle Jane",
       "url": "https://open.spotify.com/track/5fDSaYSBr8it2Nvs32xOvd"
@@ -459,7 +477,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 181240,
       "name": "L'amour l'amour l'amour",
       "url": "https://open.spotify.com/track/72Ntmxs2SxFkWEtu3rti4u"
@@ -495,7 +513,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 148133,
       "name": "L'idole des jeunes",
       "url": "https://open.spotify.com/track/0S4HOFZx606Zv6bEutTEez"
@@ -575,7 +593,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 175266,
       "name": "La gadoue",
       "url": "https://open.spotify.com/track/0pwNSYWleRoqdb9PXdCq1G"
@@ -665,7 +683,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 225253,
       "name": "La maison pr\u00e8s de la fontaine",
       "url": "https://open.spotify.com/track/5nzDLvRsZo6aUwb0wMhogb"
@@ -701,7 +719,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 170160,
       "name": "La Mauvaise Herbe",
       "url": "https://open.spotify.com/track/0ci7mk5uToieLaI8V9Az7p"
@@ -827,7 +845,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 162440,
       "name": "Les cactus",
       "url": "https://open.spotify.com/track/6N8bfaDYWJb7yyqdBcf0s8"
@@ -845,7 +863,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 157626,
       "name": "Les Champs-Elys\u00e9es",
       "url": "https://open.spotify.com/track/4VWbPQUPvLes814r6T11Jz"
@@ -971,7 +989,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 229400,
       "name": "Ne me quitte pas",
       "url": "https://open.spotify.com/track/6IRA4KOVbtiGiTdYoEThJN"
@@ -1159,7 +1177,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 260413,
       "name": "Que reste t-il de nos amours ?",
       "url": "https://open.spotify.com/track/6GkstWfHSc8vcy5z71nVyP"
@@ -1177,7 +1195,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 169133,
       "name": "Si j'avais un marteau",
       "url": "https://open.spotify.com/track/3Dv66cTMtYtWNI6c0vxKjp"
@@ -1213,7 +1231,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 200800,
       "name": "Si on chantait",
       "url": "https://open.spotify.com/track/5VzcefNT5bwgU8q95qXob0"
@@ -1267,7 +1285,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 186426,
       "name": "Suzanne - Remasteris\u00e9 en 2016",
       "url": "https://open.spotify.com/track/63ztz4aRughrpWDi4mhCQA"
@@ -1285,7 +1303,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 187746,
       "name": "Tous les gar\u00e7ons et les filles - Slow",
       "url": "https://open.spotify.com/track/0Yg1hSAUgd2AAneReFOVzS"
@@ -1321,7 +1339,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 180426,
       "name": "Toute la pluie tombe sur moi",
       "url": "https://open.spotify.com/track/199J8Nvx5oDmOKwAhtt9f1"

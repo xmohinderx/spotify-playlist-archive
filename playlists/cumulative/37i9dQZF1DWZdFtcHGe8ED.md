@@ -4,7 +4,7 @@
 
 > All the greatest Thrash tunes \- from classics to the best new tracks\. Cover: Slayer
 
-346 songs - 1 day 0 hr 39 min - [published](https://open.spotify.com/playlist/3zOnYu9mXXc9Jrakbf4dFr)
+347 songs - 1 day 0 hr 43 min - [published](https://open.spotify.com/playlist/3zOnYu9mXXc9Jrakbf4dFr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,6 +174,7 @@
 | [Last Man Standing](https://open.spotify.com/track/48wkrVLeg8x3XEkOgkwtHB) | [Overkill](https://open.spotify.com/artist/0NmYchKQ8JIR9QHYJA0FRe) | [Last Man Standing](https://open.spotify.com/album/6DD5U29WcR6BIXj9hGi8Ny) | 5:49 | 2021-12-17 | 2022-07-29 |
 | [Left to Rot](https://open.spotify.com/track/7DvxyQrH2AoV4h8OoiTCDV) | [Warfect](https://open.spotify.com/artist/7CMDtotOom4MIRumUnpzzL) | [Left to Rot](https://open.spotify.com/album/1j6zq4Y2FHyVFmUS7I87mm) | 6:07 | 2021-12-17 | 2022-07-28 |
 | [Legion Of The Damned](https://open.spotify.com/track/3p0f0yvFB5ETwtLcSDlwTS) | [Legion Of The Damned](https://open.spotify.com/artist/3tS2n2PiBzG8Mr8nCfLIJy) | [Malevolent Rapture](https://open.spotify.com/album/2vHh5EDr2ElbddWN1wmz9f) | 3:12 | 2021-12-17 | 2022-07-29 |
+| [Legion of the Damned](https://open.spotify.com/track/6evNLVJzdRcBoXgA8Bn56f) | [Legion Of The Damned](https://open.spotify.com/artist/3tS2n2PiBzG8Mr8nCfLIJy) | [Malevolent Rapture](https://open.spotify.com/album/6txI1UaL9ssrEG0YicRMjR) | 3:12 | 2022-07-13 |  |
 | [Let the World Burn](https://open.spotify.com/track/2C2Hi5imLSNAk9wI5itFHx) | [Vio\-Lence](https://open.spotify.com/artist/0cBWwOJCsZ9RQW9kBBw5df) | [Let the World Burn](https://open.spotify.com/album/7f08w78qHcpUQQ7cj9jKlH) | 5:10 | 2022-02-11 | 2022-07-20 |
 | [Live on Your Knees](https://open.spotify.com/track/7JjPJsnqVDqowoUdmMzWet) | [Criminal](https://open.spotify.com/artist/2obZTQu3NO5oRcIZKY9fOh) | [Live on Your Knees](https://open.spotify.com/album/72ImZAByabQMKJvx4RJy5F) | 2:43 | 2021-12-17 | 2022-02-26 |
 | [Living for the Lockdown](https://open.spotify.com/track/4xobQYTTvLp1WOpyjVfVb1) | [Gama Bomb](https://open.spotify.com/artist/7h0muodpQ1q5o3RajwownN) | [Living for the Lockdown](https://open.spotify.com/album/3kjRw4c0dJFQ2xYv8UL6Cr) | 2:26 | 2021-12-17 | 2022-07-25 |
@@ -293,7 +294,7 @@
 | [The Art of Partying](https://open.spotify.com/track/1jMjbrmkSZAVvi7iffs06D) | [Municipal Waste](https://open.spotify.com/artist/2Ah9OuOj7B57gPD1cbwiaE) | [The Art of Partying](https://open.spotify.com/album/7cU3FZ3u2jgKd5s8hhKJ9h) | 2:03 | 2022-07-13 |  |
 | [The Beatings Will Continue \(Until Morale Improves\)](https://open.spotify.com/track/2gjsFjDTVacpoZPfGYaddw) | [Exodus](https://open.spotify.com/artist/76S65NHJHrNy4JTrXHP2BH) | [Persona Non Grata](https://open.spotify.com/album/604klFpB4UfWrxeVaJQgL4) | 3:01 | 2022-07-13 |  |
 | [The Beatings Will Continue \(Until Morale Improves\)](https://open.spotify.com/track/3IHyIb0FofYOCPrS7k924S) | [Exodus](https://open.spotify.com/artist/76S65NHJHrNy4JTrXHP2BH) | [The Beatings Will Continue \(Until Morale Improves\)](https://open.spotify.com/album/7jdRD2iA3ZvD11rEGaJNFB) | 3:01 | 2021-12-17 | 2022-07-29 |
-| [The Black Hand Reaches Out](https://open.spotify.com/track/0Sd8D0bpbOBlFo6dZz4OiH) | [Warbringer](https://open.spotify.com/artist/4UKKKGkjNWx8KTUvea66k1) | [Weapons of Tomorrow](https://open.spotify.com/album/17DKdWLitnU01P627Dt2Ia) | 3:57 | 2022-07-13 |  |
+| [The Black Hand Reaches Out](https://open.spotify.com/track/0Sd8D0bpbOBlFo6dZz4OiH) | [Warbringer](https://open.spotify.com/artist/4UKKKGkjNWx8KTUvea66k1) | [Weapons of Tomorrow](https://open.spotify.com/album/17DKdWLitnU01P627Dt2Ia) | 3:57 | 2022-07-13 | 2022-09-09 |
 | [The Black Hand Reaches Out](https://open.spotify.com/track/3A0TVDGnROaCQdwwrADxYS) | [Warbringer](https://open.spotify.com/artist/4UKKKGkjNWx8KTUvea66k1) | [The Black Hand Reaches Out](https://open.spotify.com/album/2t7D2Zml7nmsQk8iqqHJmx) | 3:57 | 2021-12-17 | 2022-07-29 |
 | [The Blight](https://open.spotify.com/track/0rSkHGAlNJIDbkw3uDwNjf) | [Heathen](https://open.spotify.com/artist/3VD3oXiELCSHXzR4XXnlaF) | [The Blight](https://open.spotify.com/album/7sWShhNUqcFYtCthOXoHe0) | 4:38 | 2021-12-17 | 2022-03-05 |
 | [The Clerical Conspiracy \- 2007 Remastered Version](https://open.spotify.com/track/1KxBpjZAxjjO0XUjgEUR26) | [Sabbat](https://open.spotify.com/artist/0jt8kceByMQRorrMxKEUUt) | [Dreamweaver \(Expanded Edition\)](https://open.spotify.com/album/0Bbj6ao9xoNtGw6Yttqklr) | 5:37 | 2022-07-13 | 2022-07-24 |

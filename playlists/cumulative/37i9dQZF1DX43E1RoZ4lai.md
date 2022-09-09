@@ -4,7 +4,7 @@
 
 > The best jazz pianists today\. Cover: Julius Rodriguez
 
-366 songs - 1 day 8 hr 55 min - [published](https://open.spotify.com/playlist/1myRvVzCuNFZ2oz3g9ebfk)
+367 songs - 1 day 9 hr 0 min - [published](https://open.spotify.com/playlist/1myRvVzCuNFZ2oz3g9ebfk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,7 @@
 | [Endless](https://open.spotify.com/track/0B9sDqvIGA0xlJaiyzjnHv) | [Kjetil Mulelid Trio](https://open.spotify.com/artist/474vK8QpU3WL9RxRCmo5cX) | [Endless](https://open.spotify.com/album/55VI95f9lqZuDrc0xZIlrD) | 5:01 | 2022-04-01 |  |
 | [Enlightened](https://open.spotify.com/track/7IRvgPZQXoIAKZtmtmq3vn) | [Joona Toivanen Trio](https://open.spotify.com/artist/7lkzHd6Tzt9hQJSnIYkVrl) | [Enlightened](https://open.spotify.com/album/6NkrkasoreRZmVSI8snlQZ) | 5:50 | 2022-02-10 |  |
 | [Enneadic](https://open.spotify.com/track/25Fmiy6OrLrjm3NRONUJQ4) | [Santiago Leibson Trio](https://open.spotify.com/artist/1maoRyK1VYvbFqzfx3uJTi), [Matt Pavolka](https://open.spotify.com/artist/6uJyNRUVwrgjKVFMUyG5Vx), [Mark Ferber](https://open.spotify.com/artist/2BrGFbXBIGLSy4lRO8Pf6w) | [Little Pieces](https://open.spotify.com/album/5SpfrWa74NChLFILB14KzK) | 7:25 | 2022-02-10 | 2022-07-29 |
-| [Ewige Wiederkunft](https://open.spotify.com/track/6oD04GSbvkKJhKftU6THxx) | [Kilian Kemmer Trio](https://open.spotify.com/artist/6zmCAuOs8ughM18ryScvdm) | [Und Zarathustra Tanzte](https://open.spotify.com/album/0ZlritXzGMoiRAlFE9hU7i) | 3:57 | 2022-02-10 |  |
+| [Ewige Wiederkunft](https://open.spotify.com/track/6oD04GSbvkKJhKftU6THxx) | [Kilian Kemmer Trio](https://open.spotify.com/artist/6zmCAuOs8ughM18ryScvdm) | [Und Zarathustra Tanzte](https://open.spotify.com/album/0ZlritXzGMoiRAlFE9hU7i) | 3:57 | 2022-02-10 | 2022-09-09 |
 | [Ewige Wiederkunft](https://open.spotify.com/track/5AkCJt1ZoENVwMdRQkntuh) | [Kilian Kemmer Trio](https://open.spotify.com/artist/6zmCAuOs8ughM18ryScvdm), [Masaki Kai](https://open.spotify.com/artist/77xAmIHjNBZcZFXEFDmT30), [Matthias Gmelin](https://open.spotify.com/artist/68VI3j5rxdRsJVQ3CREQui) | [Ewige Wiederkunft](https://open.spotify.com/album/2NdSdGjCVJExrCvdlk8egj) | 3:57 | 2022-02-10 | 2022-07-29 |
 | [Except For](https://open.spotify.com/track/1lusviXepVGyOaVRWZ6zir) | [Joona Toivanen Trio](https://open.spotify.com/artist/7lkzHd6Tzt9hQJSnIYkVrl) | [Except For](https://open.spotify.com/album/6ye7Y2pTMNpCELmDwxRuPA) | 7:01 | 2022-02-10 | 2022-07-12 |
 | [Falling Mercy](https://open.spotify.com/track/0ufgPuVmBhgAtEjXhy6Foe) | [Noé Sécula](https://open.spotify.com/artist/42oNZcA15gTKwBDdGtH6qZ), [Felipe Silva Mena](https://open.spotify.com/artist/2i0hPQxQGiEvHLoyvctR4w), [Adrien Bernet](https://open.spotify.com/artist/1JAA7WXzR8qUv2qgObX0yS) | [Eternity in Human Flesh](https://open.spotify.com/album/45vcrmhmHGuAkTQoescY1z) | 5:12 | 2022-02-10 | 2022-07-29 |
@@ -212,6 +212,7 @@
 | [Nutra](https://open.spotify.com/track/4Xm5PHNnHp2HW1dtXsdWSW) | [David Tixier Trio](https://open.spotify.com/artist/4WCYs0rJYDXIP4iaI3edkX) | [Because I Care](https://open.spotify.com/album/5siUbHyhZOKb8DYSFoQTrf) | 6:00 | 2022-02-10 |  |
 | [Octagon](https://open.spotify.com/track/4zSjdjmxEYUTDuZ3lSdn7w) | [Rasmus Sørensen](https://open.spotify.com/artist/3tq6e3K4ZlYzKkF0E1wmsi), [Jon Henriksson](https://open.spotify.com/artist/057zTnHpyusxYkVSgmOFz4), [Francesco Ciniglio](https://open.spotify.com/artist/75zzu0VU3laESlh6KrqvNj) | [Octagon](https://open.spotify.com/album/5FLhS7XToqrvfhQEVflU5E) | 3:00 | 2022-05-27 |  |
 | [Ode til Skyer](https://open.spotify.com/track/2kQLKIFRpJ09Jwex7iR7IT) | [Little North](https://open.spotify.com/artist/0LPOA9noh1qUUtZ2N2YX0J) | [Ode til skyer](https://open.spotify.com/album/3wNYr9XaL1nqggwQ4XEiHI) | 4:49 | 2022-02-10 |  |
+| [Ode to Nearness](https://open.spotify.com/track/3eKfckXO8iTzmJWBMIJ7bc) | [Yaron Herman](https://open.spotify.com/artist/0YbhcCKyhHD3llGKNtE9UJ) | [Ode to Nearness](https://open.spotify.com/album/2StPjZBRmNNTMFG7jB483V) | 5:12 | 2022-09-02 |  |
 | [Offering](https://open.spotify.com/track/3NDq6eYkBlYY02tFPhDtHu) | [Benito Gonzalez](https://open.spotify.com/artist/6GjyDhhjQuF2nOavAcip7Q), [Christian McBride](https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv), [Jeff "Tain" Watts](https://open.spotify.com/artist/0hZXvDnljkma4aThiBMQ6h) | [Offering](https://open.spotify.com/album/1UJmihCMq3miPNRNeUUsXv) | 9:19 | 2022-02-10 |  |
 | [On a Clear Day \(You Can See Forever\)](https://open.spotify.com/track/3ZNNDAoQnJqD0NWOD57P3O) | [Mason Embry Trio](https://open.spotify.com/artist/3CAwTtzAtzwR6grP0UR2H5) | [On a Clear Day \(You Can See Forever\)](https://open.spotify.com/album/78JIPNQXtvYNLryM3plUik) | 5:12 | 2022-04-08 |  |
 | [On Green Dolphin Street](https://open.spotify.com/track/54XuR0ERdqm80IftCNAO2P) | [Pat Coil](https://open.spotify.com/artist/2B8UFlcrZdKZD5qV83m503), [Danny Gottlieb](https://open.spotify.com/artist/29aflj7NM4ocg7fMqbhifM), [Jacob Jezioro](https://open.spotify.com/artist/2LItgcmlHsUt6BikoXc1Df) | [On Green Dolphin Street](https://open.spotify.com/album/4DtsvtEsfP0x2Bk2eJ3vqZ) | 4:31 | 2022-02-10 | 2022-09-03 |

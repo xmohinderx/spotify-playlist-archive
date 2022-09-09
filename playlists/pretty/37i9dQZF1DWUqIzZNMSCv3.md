@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUqIzZNMSCv3.md) - [plain]
 
 > Relaxing classical piano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,563 likes - 52 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,131 likes - 52 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Consolations, S\. 172: No\. 3, Lento placido](https://open.spotify.com/track/4ExtqIKNZLLmatRTVzlzFu) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Khatia Buniatishvili](https://open.spotify.com/artist/0bouHpX4JiuPnIfP2jFxRi) | [Labyrinth](https://open.spotify.com/album/5YuoyZkNZRLYISzFh7cS7e) | 5:12 |
 | 2 | [Bach, JS: Goldberg Variations, BWV 988: Aria](https://open.spotify.com/track/5oc54CC6nWMJPmzsgLvYnR) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [David Fray](https://open.spotify.com/artist/6ngR3n1aQ7GLB5w46hqSWR) | [Bach, JS: Goldberg Variations](https://open.spotify.com/album/3WLdlJT0bQwUxN9RW6unsK) | 5:12 |
 | 3 | [Lyric Pieces, Book 1, Op\. 12: I\. Arietta](https://open.spotify.com/track/76wV53YHl0tGEvT3L0QzvK) | [Edvard Grieg](https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy), [Javier Perianes](https://open.spotify.com/artist/5sYNU2X0Fvw3iAqWTqwWjz) | [Grieg: Piano Concerto; Lyric Pieces](https://open.spotify.com/album/5HokgmfmgFExUbbVgkvz3n) | 1:25 |
-| 4 | [3 Gymnopédies: No.1 Lent et douloureux](https://open.spotify.com/track/7kTVe6XhIveidvkt8nb7jK) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Jean\-Yves Thibaudet](https://open.spotify.com/artist/1Dot4uMsJMx8n1Xi7gAdV6) | [Satie: The Magic of Satie](https://open.spotify.com/album/1cLRjf5m6cTcqaFljda0r1) | 3:39 |
+| 4 | [3 Gymnopédies: No\. 1 Lent et douloureux](https://open.spotify.com/track/7kTVe6XhIveidvkt8nb7jK) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Jean\-Yves Thibaudet](https://open.spotify.com/artist/1Dot4uMsJMx8n1Xi7gAdV6) | [Satie: The Magic of Satie](https://open.spotify.com/album/1cLRjf5m6cTcqaFljda0r1) | 3:39 |
 | 5 | [Sonata No\. 14 "Moonlight" in C\-Sharp Minor", Op\. 27 No\. 2: I\. Adagio sostenuto](https://open.spotify.com/track/3DNRdudZ2SstnDCVKFdXxG) | [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [Paul Lewis](https://open.spotify.com/artist/4LYCuV8d6rylb6zjv2k03l) | [Beethoven: Piano Sonatas, Vol.3](https://open.spotify.com/album/4bNwPPpk01D8pVV9IFSBde) | 5:15 |
 | 6 | [Frühlingsglaube \(Arr\. Franz Liszt\)](https://open.spotify.com/track/2EAgTVB2EdsMdqaqOk062L) | [Franz Schubert](https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP), [Daniil Trifonov](https://open.spotify.com/artist/1fUhTALoWXPL6PZSkKImY9) | [Tchaikovsky: Piano Concerto No\. 1](https://open.spotify.com/album/6CGw0GbQ3PyJhXxHlBVjSk) | 3:36 |
 | 7 | [Suite bergamasque, L\. 75: III\. Clair de lune](https://open.spotify.com/track/3aflqY3isjShFUHoiS1QbR) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Seong\-Jin Cho](https://open.spotify.com/artist/1p0J5PXJQMVqk5uVV4T1ja) | [Debussy](https://open.spotify.com/album/4tYYPSmCZM2bmfrJvXAOfr) | 5:30 |

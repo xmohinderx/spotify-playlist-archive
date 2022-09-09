@@ -605,10 +605,32 @@
       ],
       "date_added": "2022-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 177600,
       "name": "No Other",
       "url": "https://open.spotify.com/track/1QWpcivzYF7HeK9DzOxxiy"
+    },
+    {
+      "album": {
+        "name": "No Other",
+        "url": "https://open.spotify.com/album/76oS8RSrWRRUtwYfqx5bTC"
+      },
+      "artists": [
+        {
+          "name": "Ryan Hylton",
+          "url": "https://open.spotify.com/artist/1P8PmsHk2ZIxMQcFC3n7vm"
+        },
+        {
+          "name": "Amanda Kono",
+          "url": "https://open.spotify.com/artist/2yAemj0rN4gJB3DD7hTYO7"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177600,
+      "name": "No Other",
+      "url": "https://open.spotify.com/track/78kOBQyMmJstTJDj0PS0l7"
     },
     {
       "album": {

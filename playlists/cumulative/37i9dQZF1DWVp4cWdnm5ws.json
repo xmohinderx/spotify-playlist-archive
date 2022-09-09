@@ -88,6 +88,24 @@
     },
     {
       "album": {
+        "name": "Ayoko Pa",
+        "url": "https://open.spotify.com/album/0Ke3mRgrGs6GM7Q8FQJdLZ"
+      },
+      "artists": [
+        {
+          "name": "Alex Bruce",
+          "url": "https://open.spotify.com/artist/65896yX3ZMa0af70HRYNVX"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194300,
+      "name": "Ayoko Pa",
+      "url": "https://open.spotify.com/track/6WauTGPc48jOCF4HfQU9DU"
+    },
+    {
+      "album": {
         "name": "Bahaghari",
         "url": "https://open.spotify.com/album/2vYvsfDQ30Akm7KvEtMapf"
       },
@@ -1017,6 +1035,24 @@
       "duration_ms": 248800,
       "name": "Ligaya",
       "url": "https://open.spotify.com/track/4IeuTj1pEHuL9vJSiEqEfR"
+    },
+    {
+      "album": {
+        "name": "Made For All",
+        "url": "https://open.spotify.com/album/0SOSnP1ZoEnNwRg3ioo4C7"
+      },
+      "artists": [
+        {
+          "name": "BINI",
+          "url": "https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120226,
+      "name": "Made For All",
+      "url": "https://open.spotify.com/track/6Qc9WXhHeRV5RlSdR72DNo"
     },
     {
       "album": {

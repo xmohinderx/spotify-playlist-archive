@@ -4,7 +4,7 @@
 
 > 한국 여성들의 목소리가 담긴 플레이리스트를 감상해보세요\. \(커버: TRI.BE\(트라이비\)\)
 
-447 songs - 1 day 1 hr 52 min - [published](https://open.spotify.com/playlist/43k4c9vIwa5D757ihXdBwg)
+449 songs - 1 day 1 hr 59 min - [published](https://open.spotify.com/playlist/43k4c9vIwa5D757ihXdBwg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,6 +175,7 @@
 | [I hope](https://open.spotify.com/track/5glgpVdJO7Qg7xDXwCgMTq) | [SHIN JI](https://open.spotify.com/artist/2IH8MlC1KVWJ2HejBmPmZi) | [Always here](https://open.spotify.com/album/0utqzHOTVNUtM0Q4ZCIcbI) | 3:56 | 2022-03-07 | 2022-04-06 |
 | [I Hope That You Said Love Me Is True](https://open.spotify.com/track/7DvgMJhubvEyQ3i6xezkGx) | [Sea Young](https://open.spotify.com/artist/5mdKayzISXaz7Si3ivYnU0) | [I Hope That You Said Love Me Is True](https://open.spotify.com/album/2gQpyd8n5I46X8GL9T5pFN) | 2:34 | 2022-09-06 |  |
 | [I LIKE IT](https://open.spotify.com/track/4o84FbQ0YB6F3AWfxTGRHG) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [WE NEED LOVE](https://open.spotify.com/album/04EniWu488MF6louRYafKJ) | 2:38 | 2022-08-02 | 2022-09-07 |
+| [I Love You Love You](https://open.spotify.com/track/5kQlMB1bn4c9FT8jttqnRx) | [Koh Nayoung](https://open.spotify.com/artist/2XMxgqDQOsB16Nq2dGPMHi) | [Secret Lovers \(Original Television Soundtrack\), Pt.5](https://open.spotify.com/album/5EywjSgwQMrubDuNLSBRGX) | 3:22 | 2022-09-08 |  |
 | [I Love You This Much](https://open.spotify.com/track/3BtsEYAqWyT7Ssvbu118aQ) | [Punch](https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm) | [Forecasting Love and Weather \(Original Television Soundtrack\), Pt\. 6](https://open.spotify.com/album/0gGMhiQIJnuIAFKhERdTn9) | 3:42 | 2022-05-31 | 2022-08-03 |
 | [I Wish](https://open.spotify.com/track/2rchS60iWHPZ3mZp3cAyqy) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [Everyday Christmas](https://open.spotify.com/album/4tG1cwsF9tq2ieqVSVo3h2) | 4:12 | 2021-12-08 | 2022-01-05 |
 | [I'm Your Puppy \- 2021](https://open.spotify.com/track/3ZnK8D6A0oO6mPmg9Id4R6) | [Summer Soul](https://open.spotify.com/artist/6ZDL9IVLcZPApjoBdajrao) | [December](https://open.spotify.com/album/6mUh75sWY6BAfmkfBkXDb4) | 4:54 | 2022-01-04 | 2022-02-02 |
@@ -339,7 +340,7 @@
 | [Sea of Moonlight](https://open.spotify.com/track/58UmvrTOMdJpqJlD0U4MuE) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [Sea of Moonlight](https://open.spotify.com/album/6YoagDSCACpp8wElCNBCXC) | 3:08 | 2022-08-02 | 2022-09-07 |
 | [See Sea, BAE](https://open.spotify.com/track/1FaFCInUMdizjVUKkMZxro) | [Hyolyn](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ) | [<Queendom2> FANtastic QUEENDOM 1\-2](https://open.spotify.com/album/4WdZvIgh5ok6IrTKBx1UFA) | 3:27 | 2022-05-31 | 2022-08-03 |
 | [Seiren](https://open.spotify.com/track/3TygjfDZ8m6ehJpIGO39CA) | [Seiren](https://open.spotify.com/artist/4gfhlsF2bTM0wS7Y1gvHzL) | [Seiren](https://open.spotify.com/album/1j3OwiDesda3wbEvmtCzBq) | 3:02 | 2021-12-08 | 2022-01-05 |
-| [seomyun](https://open.spotify.com/track/23qzVx2zTL1fIGMV1KwPjr) | [SoonSoonHee](https://open.spotify.com/artist/3VOan0TuiwkfjnPLDXBPbG) | [seomyun](https://open.spotify.com/album/2NihUWdTbjVSmeijN7phPC) | 3:20 | 2022-09-06 |  |
+| [seomyun](https://open.spotify.com/track/23qzVx2zTL1fIGMV1KwPjr) | [SoonSoonHee](https://open.spotify.com/artist/3VOan0TuiwkfjnPLDXBPbG) | [seomyun](https://open.spotify.com/album/2NihUWdTbjVSmeijN7phPC) | 3:20 | 2022-09-06 | 2022-09-09 |
 | [Seoul](https://open.spotify.com/track/0YqYiPMlIJb9DY2CIfuOik) | [Shin Sae Byeok](https://open.spotify.com/artist/0cqVnk9oe3o3SwbCmqnAm0) | [Seoul](https://open.spotify.com/album/4C13kbtk7vwi53QvsCjZO0) | 2:46 | 2022-08-02 | 2022-09-07 |
 | [SHAKE IT](https://open.spotify.com/track/1ezubi9SlRqI3fHoGXjuP7) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [<Queendom2> Part.2\-1](https://open.spotify.com/album/4UhIreAIqRgp2l8PlMGqH0) | 4:14 | 2022-05-04 | 2022-06-01 |
 | [SHE IS MINE](https://open.spotify.com/track/39sMLCnZcXAD9yAtEJipUM) | [KimYeji](https://open.spotify.com/artist/3XyqYcDNFPFWbyGn8pFTf9) | [TURNED](https://open.spotify.com/album/2HDaGdvnCgxiyUuOIUtm4u) | 3:02 | 2022-05-04 | 2022-06-01 |
@@ -352,7 +353,7 @@
 | [Snowy Day](https://open.spotify.com/track/37zfOnJEdOg8yvBmlYlwKV) | [KangHyeWon](https://open.spotify.com/artist/7dwHrGGWiw44ny2dJcARu6) | [W](https://open.spotify.com/album/2xTWhqmw4ulmDTMgQC97Jc) | 4:06 | 2022-01-04 | 2022-02-02 |
 | [So life goes on](https://open.spotify.com/track/046Gh1kXtPynYPaKep5M8E) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [So life goes on](https://open.spotify.com/album/3r8ikIUe63N5vhmqzqzi36) | 3:14 | 2022-05-04 | 2022-06-01 |
 | [So What](https://open.spotify.com/track/2O6xWo72i6URMHmWVu4zgy) | [Hyolyn](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ) | [<Queendom2> Part.2\-2](https://open.spotify.com/album/5ftR2nskDFsLbszHNIiYJp) | 4:03 | 2022-05-04 | 2022-06-01 |
-| [softie inside](https://open.spotify.com/track/3Yae8EZ7eSC44hFXgxnSzf) | [SoonSoonHee](https://open.spotify.com/artist/3VOan0TuiwkfjnPLDXBPbG) | [softie inside](https://open.spotify.com/album/3NQOhmt0X1jJYdZO5KXtve) | 3:15 | 2022-09-06 |  |
+| [softie inside](https://open.spotify.com/track/3Yae8EZ7eSC44hFXgxnSzf) | [SoonSoonHee](https://open.spotify.com/artist/3VOan0TuiwkfjnPLDXBPbG) | [softie inside](https://open.spotify.com/album/3NQOhmt0X1jJYdZO5KXtve) | 3:15 | 2022-09-06 | 2022-09-09 |
 | [Solar](https://open.spotify.com/track/4VJtWynaEkc0UOMSbXOnWg) | [Weeekly](https://open.spotify.com/artist/73B9bjqS2Z5KLXNGqXf64m) | [Play Game : AWAKE](https://open.spotify.com/album/6ACwt54tvpe4XrMbxXzXXb) | 3:22 | 2022-03-07 | 2022-08-03 |
 | [Some Nights](https://open.spotify.com/track/1Q03Eti3fdmnN7DA2Y6gAp) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [INVU \- The 3rd Album](https://open.spotify.com/album/7i2YLTVQ0dyngRuUqtGmr9) | 3:27 | 2022-03-07 | 2022-04-06 |
 | [Something Precious](https://open.spotify.com/track/7yoqiaAawHktS5Gao5rzLO) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [Forecasting Love and Weather \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/5wEeXyJVwgTvVis9XPOs7Q) | 3:29 | 2022-04-05 | 2022-05-05 |
@@ -453,6 +454,7 @@
 | [왜 우리가 점점 멀어지나요](https://open.spotify.com/track/1OuMnAEqJmujh23kpnoNJR) | [mim](https://open.spotify.com/artist/3TESIy6ohhkYeoyT6od4us) | [왜 우리가 점점 멀어지나요](https://open.spotify.com/album/3Q1X0u5sSa6b8O4LZm0Y2x) | 3:21 | 2022-02-01 | 2022-03-08 |
 | [우리우리 겨울](https://open.spotify.com/track/4AN88Zg4Q7nI74DKbCvPzx) | [soon](https://open.spotify.com/artist/1G3jhXJfaqMfNojx7SxDcW) | [나무에 물방울 머금고](https://open.spotify.com/album/36bDnq3WeM8ORGUSUPyDtd) | 3:50 | 2022-09-06 |  |
 | [이기적](https://open.spotify.com/track/1e7etVeneuSNyPrPOvRaPw) | [달리](https://open.spotify.com/artist/0coJu7cC8KxaaTDiUAlcbr), [Ronny Chu](https://open.spotify.com/artist/1huqqraCZaeav3zZbHmnL4) | [놓아줘](https://open.spotify.com/album/4gip4RKPvwWmYh4H1gulxL) | 3:24 | 2022-03-07 | 2022-04-06 |
+| [이만 헤어지는게 맞는 것 같아](https://open.spotify.com/track/4AfysJJqFsraQIJ2xfkQId) | [Koh Nayoung](https://open.spotify.com/artist/2XMxgqDQOsB16Nq2dGPMHi) | [이만 헤어지는게 맞는 것 같아](https://open.spotify.com/album/2FEXNAMcnUoEG5Gq1c2VTN) | 3:58 | 2022-09-08 |  |
 | [잘 있지](https://open.spotify.com/track/0zKLeUwWcJ8ZpCBzAodfWs) | [DAMINI](https://open.spotify.com/artist/1yNIinWsNuQUyXJsqnmaLh) | [잘 있지](https://open.spotify.com/album/392zYrya3k4SzfhnyYE1XZ) | 3:22 | 2022-09-06 |  |
 | [헤어지게 됐죠](https://open.spotify.com/track/5FA3y2Bmp5VrtalSRUaRK1) | [mim](https://open.spotify.com/artist/3TESIy6ohhkYeoyT6od4us) | [헤어지게 됐죠](https://open.spotify.com/album/6Z8SlJjE0l03jpDAeCmC11) | 3:36 | 2022-02-01 | 2022-03-08 |
 

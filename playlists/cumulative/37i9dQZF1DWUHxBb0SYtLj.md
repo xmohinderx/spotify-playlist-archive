@@ -4,7 +4,7 @@
 
 > Ascolta a tutto volume queste straordinarie artiste italiane! Cover: M¥SS KETA
 
-321 songs - 16 hr 30 min - [published](https://open.spotify.com/playlist/0Bc0t88jmiMKkV4jRykwOc)
+324 songs - 16 hr 40 min - [published](https://open.spotify.com/playlist/0Bc0t88jmiMKkV4jRykwOc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,7 @@
 | [Brillantini](https://open.spotify.com/track/0EABOqQ3puD6VmMZTXBYIA) | [VV](https://open.spotify.com/artist/3Lx3LW1eYrkig48NsWAPdh) | [Brillantini](https://open.spotify.com/album/7ofTcvSUJtBVwlyhY8WXMW) | 2:56 | 2022-03-07 | 2022-04-06 |
 | [Britney](https://open.spotify.com/track/1sD8E1zVlQRjfUwQsShCvG) | [Scozia](https://open.spotify.com/artist/06kIJSKCJs2NoULdMDwEh9) | [Britney](https://open.spotify.com/album/0Rw7Bax4tNc6CgJhRfy3vE) | 3:09 | 2022-03-07 | 2022-05-04 |
 | [Broken Melody](https://open.spotify.com/track/0laa1rK5dPLXwF1Qi4Vu4b) | [Caterina Barbieri](https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu) | [Broken Melody](https://open.spotify.com/album/4gzeLQvhfZ5vjnblYDMBqn) | 4:26 | 2022-05-03 | 2022-06-03 |
-| [buco nero](https://open.spotify.com/track/63anjGNBcpKXtLE1sjhG12) | [Voodoo Kid](https://open.spotify.com/artist/14xtAzXyxJS2s44nVHMCbk) | [buco nero](https://open.spotify.com/album/0RU1Jc50Cwn6xXdzOSxHY6) | 2:24 | 2022-07-05 |  |
+| [buco nero](https://open.spotify.com/track/63anjGNBcpKXtLE1sjhG12) | [Voodoo Kid](https://open.spotify.com/artist/14xtAzXyxJS2s44nVHMCbk) | [buco nero](https://open.spotify.com/album/0RU1Jc50Cwn6xXdzOSxHY6) | 2:24 | 2022-07-05 | 2022-09-09 |
 | [Budapest](https://open.spotify.com/track/4yO6edLJdv24fpClY0cVsb) | [Valerienne](https://open.spotify.com/artist/79dkAMxiQQf2gPZ31ZcXIf) | [Budapest](https://open.spotify.com/album/4gQLlSO673x6TEDpJwWkEJ) | 3:02 | 2022-04-05 | 2022-05-04 |
 | [Buenos Dias](https://open.spotify.com/track/68Vfd4P8GKwZ3wsYgxlZXO) | [AISHA](https://open.spotify.com/artist/78S0OMZxZhxSE5WxSzJoCf) | [Buenos Dias](https://open.spotify.com/album/0zefQfzCS39fml2lhisSJm) | 2:11 | 2022-03-07 | 2022-05-04 |
 | [Buffet](https://open.spotify.com/track/65rf3f2JG6z2LkiXJmnVTp) | [clauscalmo](https://open.spotify.com/artist/0JYnmJcNn4DnQkJfHFjLnR) | [Buffet](https://open.spotify.com/album/12tJV34g0Gj7bgLL4ntLIU) | 3:24 | 2022-04-05 | 2022-05-04 |
@@ -150,7 +150,7 @@
 | [Gli Oasis Di Una Volta](https://open.spotify.com/track/0K585xpwwJFTBWGAiurvqx) | [Giusy Ferreri](https://open.spotify.com/artist/0dwEXtB6gceh7EO7tCsxhD) | [Gli Oasis Di Una Volta](https://open.spotify.com/album/1AoPqPiLqF2d80yVsRcqIy) | 3:20 | 2022-01-04 | 2022-02-03 |
 | [Griderò il tuo nome](https://open.spotify.com/track/1QRSy319rjPddXt94EJsVp) | [Tecla](https://open.spotify.com/artist/6o1a4hlrT0oFsPL28h3c69) | [Griderò il tuo nome](https://open.spotify.com/album/1LRRmWWcvcIu7f3X9vxpBy) | 2:33 | 2022-07-05 | 2022-08-03 |
 | [Guardare giù](https://open.spotify.com/track/0nZzbRLYgvdkQB6EKjWfAL) | [Noemi](https://open.spotify.com/artist/62C5P1caRIK12ndTkzNJjA) | [Guardare giù](https://open.spotify.com/album/7sjHSwxgGeW1VhT8mBKluB) | 2:48 | 2021-12-07 | 2022-02-03 |
-| [Haze \- Original Mix](https://open.spotify.com/track/5BzsY9SIZapFmhjQgb1W3F) | [Anfisa Letyago](https://open.spotify.com/artist/7icoOm5fKKPo49jVxoj1Cq) | [Haze](https://open.spotify.com/album/6s6pgnKGwTGC8wqTfvB2ZW) | 3:49 | 2022-07-05 |  |
+| [Haze \- Original Mix](https://open.spotify.com/track/5BzsY9SIZapFmhjQgb1W3F) | [Anfisa Letyago](https://open.spotify.com/artist/7icoOm5fKKPo49jVxoj1Cq) | [Haze](https://open.spotify.com/album/6s6pgnKGwTGC8wqTfvB2ZW) | 3:49 | 2022-07-05 | 2022-09-09 |
 | [heavy\-hearted](https://open.spotify.com/track/0EpZxmxdI27Y6hMwO79pvy) | [Her Skin](https://open.spotify.com/artist/6zdyc0Juu2p2uVVISAhOJe) | [heavy\-hearted](https://open.spotify.com/album/428oKi8Lpx377MJjLV1upq) | 2:39 | 2022-06-02 | 2022-07-06 |
 | [Ho perso il conto](https://open.spotify.com/track/47MtjNNUHZZebqKX9pJYtv) | [Bidi Blanca](https://open.spotify.com/artist/22sXLj1jMFiKtpValJKQ4Y) | [Ho perso il conto](https://open.spotify.com/album/7GTNhsTTsu0aNZ2m00KhYj) | 3:19 | 2022-02-02 | 2022-03-08 |
 | [Hot Thing](https://open.spotify.com/track/1HigmdWZNe4G1K7KklpsDp) | [GIOIA](https://open.spotify.com/artist/6s9Kx6zOJ0jcVrmotijTuB) | [Hot Thing](https://open.spotify.com/album/6h0asJFNiWmM0tNapbJKyF) | 2:56 | 2022-06-02 | 2022-07-06 |
@@ -159,6 +159,7 @@
 | [I Feel You \(feat\. Ell Murphy\) \- Edit](https://open.spotify.com/track/1DjivOHek7yr3b7xGVAV7S) | [Giulia Tess](https://open.spotify.com/artist/1DIRMEtLvteuZfHcKgwQX3), [Ell Murphy](https://open.spotify.com/artist/4r0F1gbqeQsaPg5d2nm5EJ) | [I Feel You \(feat\. Ell Murphy\) \[Edit\]](https://open.spotify.com/album/3iw2DuZ0SlG8Jh4zzzq1ku) | 3:04 | 2022-03-07 | 2022-04-06 |
 | [I love you](https://open.spotify.com/track/6yeoJevIAIb9cHjbmOulzY) | [LYSA](https://open.spotify.com/artist/1KcTkBvL86LqPDfxwHrTA5) | [I love you](https://open.spotify.com/album/6owYaJHCtBOX2OVITsVZSj) | 3:01 | 2021-12-07 | 2022-01-05 |
 | [I'll Be Fine](https://open.spotify.com/track/16vsGUfAqnribmvTsg8W9f) | [Giolì & Assia](https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU) | [I'll Be Fine](https://open.spotify.com/album/11qaljg84xPgLx7yT38tPB) | 3:37 | 2022-08-02 | 2022-09-07 |
+| [IL FUMO UCCIDE](https://open.spotify.com/track/67OwT6y01c3IwTLjYmF7xg) | [Camilla Magli](https://open.spotify.com/artist/3HRSdDvPAE54ocmaq0JRrJ) | [IL FUMO UCCIDE](https://open.spotify.com/album/05VFSmqhezOJ2xelLj1MYU) | 3:05 | 2022-09-08 |  |
 | [IL TEMPO DELLE MELE](https://open.spotify.com/track/0fyXzFs8JwlCQeg5SKIksT) | [CLARA](https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ) | [IL TEMPO DELLE MELE](https://open.spotify.com/album/53LDnyr7TtRNLu6dMIEN8w) | 2:16 | 2022-05-03 | 2022-06-03 |
 | [In My Way \(chi sei\)](https://open.spotify.com/track/296gP31laYpSz5V1dqxwgW) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ), [Lita](https://open.spotify.com/artist/0G7LPCHP4W90pTLwPAbXHU) | [Girls In Purgatory \(Full Moon Edition\)](https://open.spotify.com/album/08hQYW3XbwAhtHO0lA69Ia) | 2:14 | 2022-01-04 | 2022-03-08 |
 | [Indisponibile all'amore](https://open.spotify.com/track/1PBcWh0LkCpYaNbFL8Mt0z) | [Hanami](https://open.spotify.com/artist/7EQFBKivi3POpo2NLiEEOe) | [Indisponibile all'amore](https://open.spotify.com/album/7Kk72gwo5vuJiwlsRzbT0j) | 3:04 | 2022-07-05 |  |
@@ -222,6 +223,7 @@
 | [Numeri](https://open.spotify.com/track/7gSnlPaGSosD3JyDVGZ8VQ) | [Faiah](https://open.spotify.com/artist/7hzg3VDOR96ocHdkWyv1Nk) | [Numeri](https://open.spotify.com/album/15mzECFocQ42SHqziXomVD) | 3:00 | 2022-02-02 | 2022-04-06 |
 | [O Forse Sei Tu](https://open.spotify.com/track/6KmAKMya9pOL5RUl0FS46a) | [Elisa](https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23) | [Ritorno Al Futuro / Back To The Future](https://open.spotify.com/album/216e0tvA3vyEZhzMAxJ0an) | 3:53 | 2022-02-03 | 2022-03-08 |
 | [OASI](https://open.spotify.com/track/6n2ECsz8JWDAVMA8WJlJWJ) | [ELASI](https://open.spotify.com/artist/3C8AlXFIhzxJ4BCKxNQJJ6), [Meryem Aboulouafa](https://open.spotify.com/artist/5h7TI4XI3fjCiG5MHJMyO0) | [OASI ELASI](https://open.spotify.com/album/5HNEVyWFDOr1aBguL9pzUS) | 2:52 | 2022-06-02 | 2022-07-06 |
+| [occhi grandi grandi](https://open.spotify.com/track/6k6hmfJ3PTVWDPvrSB62rz) | [Francesca Michielin](https://open.spotify.com/artist/4jFlmD92WULLlaRS8Cj6QS) | [occhi grandi grandi](https://open.spotify.com/album/3AS0A8n2kZklh41wvNCzas) | 3:05 | 2022-09-08 |  |
 | [Odissea / Astronave](https://open.spotify.com/track/2kSB0Pf0oNF9HZq1YOYBdY) | [Palmaria](https://open.spotify.com/artist/6FiIZF4NkLo6V2C0lovmrQ) | [Odissea / Astronave](https://open.spotify.com/album/1ADCIxjTiItCD5YkuTUtPe) | 3:32 | 2022-07-05 | 2022-08-03 |
 | [Ogni Volta È Così](https://open.spotify.com/track/2YqCCbTVa9ODiS754EXKxR) | [Emma](https://open.spotify.com/artist/0gzwXezN4IUHAwLufA6YcX) | [Ogni Volta È Così](https://open.spotify.com/album/1p4s0XUTVe2qfTZ07ojZdw) | 3:26 | 2022-02-03 | 2022-04-06 |
 | [Onde](https://open.spotify.com/track/6bYWgUmK5MYEhTqNovU6tQ) | [Margherita Vicario](https://open.spotify.com/artist/2UUqj8yIpJGSjEJgkL4IIY) | [Onde](https://open.spotify.com/album/05QaX06ET8D9JNktx9zXrd) | 3:03 | 2022-06-02 | 2022-08-03 |
@@ -272,6 +274,7 @@
 | [Sembra che tutto](https://open.spotify.com/track/3EKlLqhV8E9TBDMMP2yFZl) | [Whitemary](https://open.spotify.com/artist/5bfb49rPCcTFUqn6SVX8nt) | [Radio Whitemary](https://open.spotify.com/album/11ENaxvYtPvmoMZ2BtGLSK) | 3:57 | 2022-07-05 |  |
 | [Senti](https://open.spotify.com/track/0t85kk0s8cAiay0Zb5S0jh) | [NAVA](https://open.spotify.com/artist/07fJSFMHRMV8YKbiwpE67R) | [Senti](https://open.spotify.com/album/5oyLe4c1prFyOBc3PQAKYZ) | 2:53 | 2022-02-02 | 2022-04-06 |
 | [Senza te](https://open.spotify.com/track/0xaEoFkggmekGfQaTwuwk0) | [Claudiemme](https://open.spotify.com/artist/0rsPkjYrNx37GnqkIOeMPW) | [Senza te](https://open.spotify.com/album/3sRLsdqgQ2ewYQxlPI48nu) | 3:24 | 2022-05-03 | 2022-06-03 |
+| [Settembre](https://open.spotify.com/track/0sld7QsrvqUlIUyJuI06Ki) | [Giuze](https://open.spotify.com/artist/2drbYqHcAqNoLoEhrzaZ5B) | [Settembre](https://open.spotify.com/album/0orVvpMLZdKnHeitZwp7pK) | 3:48 | 2022-09-08 |  |
 | [Siamo al caffè](https://open.spotify.com/track/12durA8QoATwNRybDdcxau) | [Beatrice Dellacasa](https://open.spotify.com/artist/5piFIZ88zHRxklw95h5v4L) | [Pelle](https://open.spotify.com/album/0gplTsjYc1mjdaUHlUH7Mm) | 3:02 | 2022-07-05 |  |
 | [Siberiana](https://open.spotify.com/track/4QlmhdJeIc1490DXIm614c) | [Rizzo](https://open.spotify.com/artist/2ALJBMyhbGODOEpstHfEqN) | [Siberiana](https://open.spotify.com/album/7AyBApLEQ2BOBiGlBEiFar) | 3:30 | 2022-02-02 | 2022-04-06 |
 | [Silence](https://open.spotify.com/track/0rkJhWp63okDVZa5Cda6ua) | [Giolì & Assia](https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU) | [Silence](https://open.spotify.com/album/3JhrwVDziahf2PLTPzJhwT) | 3:41 | 2022-06-02 | 2022-07-06 |

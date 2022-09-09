@@ -848,6 +848,28 @@
     },
     {
       "album": {
+        "name": "Chopin: Nocturnes",
+        "url": "https://open.spotify.com/album/2aoSpTAjFaMvaZeruqnCVv"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Maurizio Pollini",
+          "url": "https://open.spotify.com/artist/2VIdKQmRHnWofsR4odfFOh"
+        }
+      ],
+      "date_added": "2020-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286986,
+      "name": "Nocturne No. 1 In B Flat Minor, Op. 9 No. 1",
+      "url": "https://open.spotify.com/track/2d6ml9Qkx8r4EjuUyrdpRV"
+    },
+    {
+      "album": {
         "name": "Benjamin Grosvenor: Chopin, Liszt, Ravel",
         "url": "https://open.spotify.com/album/5MyejkHGSoo5IfTum4VMiw"
       },
@@ -889,28 +911,6 @@
       "duration_ms": 236466,
       "name": "Nocturne No. 6 in G Minor, Op. 15 No. 3",
       "url": "https://open.spotify.com/track/1YluEbLfaWBfV2GpQQLOcZ"
-    },
-    {
-      "album": {
-        "name": "Chopin: Nocturnes",
-        "url": "https://open.spotify.com/album/2aoSpTAjFaMvaZeruqnCVv"
-      },
-      "artists": [
-        {
-          "name": "Fr\u00e9d\u00e9ric Chopin",
-          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
-        },
-        {
-          "name": "Maurizio Pollini",
-          "url": "https://open.spotify.com/artist/2VIdKQmRHnWofsR4odfFOh"
-        }
-      ],
-      "date_added": "2020-06-12",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 286986,
-      "name": "Nocturne No.1 In B Flat Minor, Op.9 No.1",
-      "url": "https://open.spotify.com/track/2d6ml9Qkx8r4EjuUyrdpRV"
     },
     {
       "album": {

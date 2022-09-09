@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 
 > Vibe to mixtape \#015 Featuring Kali Uchis\. 🔥 Find a new mixtape every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,785,688 likes - 27 songs - 1 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,787,053 likes - 27 songs - 1 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

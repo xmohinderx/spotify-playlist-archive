@@ -1344,6 +1344,24 @@
     },
     {
       "album": {
+        "name": "Pink Noise Atmospheres",
+        "url": "https://open.spotify.com/album/30JnLo5ysfyq073yzIcCHy"
+      },
+      "artists": [
+        {
+          "name": "Dozy Sounds",
+          "url": "https://open.spotify.com/artist/6GjywyZ0Qtsu0f95gL5CDG"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Mellow EQ Pink Noise",
+      "url": "https://open.spotify.com/track/0lPhzJy5fSGxdAcAE8TzpS"
+    },
+    {
+      "album": {
         "name": "Sleepy Noises",
         "url": "https://open.spotify.com/album/2tQqMoEsSqQU506PCJxVIU"
       },

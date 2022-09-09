@@ -1,12 +1,12 @@
 {
   "description": "J\u00f3venes y renovadas expresiones de la bella tradici\u00f3n mexicana. Alex Fern\u00e1ndez en portada. ",
-  "num_followers": 122150,
+  "num_followers": 122168,
   "original_name": "Mariachi Joven",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQ3MjAwMCwwMDAwMDAwMDZjYzI0MTgyY2MzOTAyZGQxNmM0YzUxOTg1ZmY4Yzli",
+  "snapshot_id": "MTY2MTQ3MjAwMCwwMDAwMDAwMDEwNDhiZTU0ZDU4NjA5ZTMwMmI4MzU2ZTJjOTViNDYz",
   "tracks": [
     {
       "added_at": "2022-08-26 00:00:00",
@@ -545,42 +545,6 @@
       "url": "https://open.spotify.com/track/07YArNoh8ZeQfnQc4sDXxB"
     },
     {
-      "added_at": "2022-06-03 15:53:55",
-      "album": {
-        "name": "Pa' Los Dolidos",
-        "url": "https://open.spotify.com/album/2GQFwhWhS0guyuKxD7hoMi"
-      },
-      "artists": [
-        {
-          "name": "Laraim",
-          "url": "https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt"
-        },
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 161927,
-      "name": "Desaires",
-      "url": "https://open.spotify.com/track/1Kr3Yod5u7TrZMTPqOeNto"
-    },
-    {
-      "added_at": "2022-05-06 05:00:00",
-      "album": {
-        "name": "Y T\u00fa, \u00bfQu\u00e9 Ganas?",
-        "url": "https://open.spotify.com/album/1PBWmz5f1IkWiAYXKtnnFE"
-      },
-      "artists": [
-        {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        }
-      ],
-      "duration_ms": 178378,
-      "name": "Y T\u00fa, \u00bfQu\u00e9 Ganas?",
-      "url": "https://open.spotify.com/track/5xOBLLJftwLwqNQgpqlPiu"
-    },
-    {
       "added_at": "2022-03-03 23:54:47",
       "album": {
         "name": "Que Se Sepa Nuestro Amor",
@@ -601,6 +565,22 @@
       "url": "https://open.spotify.com/track/62ODSzQJBgvz647ZaP9iym"
     },
     {
+      "added_at": "2022-05-06 05:00:00",
+      "album": {
+        "name": "Y T\u00fa, \u00bfQu\u00e9 Ganas?",
+        "url": "https://open.spotify.com/album/1PBWmz5f1IkWiAYXKtnnFE"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "duration_ms": 178378,
+      "name": "Y T\u00fa, \u00bfQu\u00e9 Ganas?",
+      "url": "https://open.spotify.com/track/5xOBLLJftwLwqNQgpqlPiu"
+    },
+    {
       "added_at": "2022-03-03 23:54:47",
       "album": {
         "name": "La Fuerza",
@@ -615,6 +595,26 @@
       "duration_ms": 228635,
       "name": "La Reina",
       "url": "https://open.spotify.com/track/5hgtFPs0T9r4YQqLjmam3h"
+    },
+    {
+      "added_at": "2022-06-03 15:53:55",
+      "album": {
+        "name": "Pa' Los Dolidos",
+        "url": "https://open.spotify.com/album/2GQFwhWhS0guyuKxD7hoMi"
+      },
+      "artists": [
+        {
+          "name": "Laraim",
+          "url": "https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt"
+        },
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 161927,
+      "name": "Desaires",
+      "url": "https://open.spotify.com/track/1Kr3Yod5u7TrZMTPqOeNto"
     },
     {
       "added_at": "2022-05-20 05:00:00",
@@ -739,6 +739,22 @@
     {
       "added_at": "2022-03-03 23:54:47",
       "album": {
+        "name": "M\u00e1s Caro, que ayer",
+        "url": "https://open.spotify.com/album/2aSJfcD9lSOTRFrQaXOqFd"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 137788,
+      "name": "Otra Borrachera - Versi\u00f3n Mariachi",
+      "url": "https://open.spotify.com/track/5ow3HQPqKlD3UdqNslfU9T"
+    },
+    {
+      "added_at": "2022-03-03 23:54:47",
+      "album": {
         "name": "Fue un Placer Amarte",
         "url": "https://open.spotify.com/album/6lkzoOCU8gJ1Vtt6cV9659"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 229030,
       "name": "Fue un Placer Amarte",
       "url": "https://open.spotify.com/track/1GdDYZX7Woh8hxkNVGe6vQ"
-    },
-    {
-      "added_at": "2022-03-03 23:54:47",
-      "album": {
-        "name": "M\u00e1s Caro, que ayer",
-        "url": "https://open.spotify.com/album/2aSJfcD9lSOTRFrQaXOqFd"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 137788,
-      "name": "Otra Borrachera - Versi\u00f3n Mariachi",
-      "url": "https://open.spotify.com/track/5ow3HQPqKlD3UdqNslfU9T"
     },
     {
       "added_at": "2022-04-08 05:00:00",
@@ -837,22 +837,6 @@
       "url": "https://open.spotify.com/track/2uHDgDlrL67P9rIWLN7SHU"
     },
     {
-      "added_at": "2022-06-03 15:53:55",
-      "album": {
-        "name": "Te Seguir\u00e9 Queriendo (Versi\u00f3n Mariachi)",
-        "url": "https://open.spotify.com/album/759ulanI2o4y3cNpAx68ZX"
-      },
-      "artists": [
-        {
-          "name": "Crecer German",
-          "url": "https://open.spotify.com/artist/6JBGaRYIWS7fzKP0qGgZve"
-        }
-      ],
-      "duration_ms": 192480,
-      "name": "Te Seguir\u00e9 Queriendo - Versi\u00f3n Mariachi",
-      "url": "https://open.spotify.com/track/3ktWblC2HHYMU0Ny2eqplb"
-    },
-    {
       "added_at": "2022-03-03 23:54:47",
       "album": {
         "name": "A Mi Manera",
@@ -867,6 +851,22 @@
       "duration_ms": 317226,
       "name": "A Mi Manera",
       "url": "https://open.spotify.com/track/5PeaVtXNXfu8EWDZfpSEgb"
+    },
+    {
+      "added_at": "2022-06-03 15:53:55",
+      "album": {
+        "name": "Te Seguir\u00e9 Queriendo (Versi\u00f3n Mariachi)",
+        "url": "https://open.spotify.com/album/759ulanI2o4y3cNpAx68ZX"
+      },
+      "artists": [
+        {
+          "name": "Crecer German",
+          "url": "https://open.spotify.com/artist/6JBGaRYIWS7fzKP0qGgZve"
+        }
+      ],
+      "duration_ms": 192480,
+      "name": "Te Seguir\u00e9 Queriendo - Versi\u00f3n Mariachi",
+      "url": "https://open.spotify.com/track/3ktWblC2HHYMU0Ny2eqplb"
     },
     {
       "added_at": "2022-03-03 23:54:47",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2022-03-03 23:54:47",
       "album": {
-        "name": "Amigos",
-        "url": "https://open.spotify.com/album/74Hes6pOqG1u1DN65jg0aV"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 168866,
-      "name": "Amigos",
-      "url": "https://open.spotify.com/track/4uoHAwCca3pR6SCnYA3XPZ"
-    },
-    {
-      "added_at": "2022-03-03 23:54:47",
-      "album": {
         "name": "Te Seguir\u00e9 Queriendo",
         "url": "https://open.spotify.com/album/0dulJ0c8NRZ33f7VswWSxH"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 215099,
       "name": "Te Seguir\u00e9 Queriendo",
       "url": "https://open.spotify.com/track/20QNDtc0S5p4CracDvoG94"
+    },
+    {
+      "added_at": "2022-03-03 23:54:47",
+      "album": {
+        "name": "Amigos",
+        "url": "https://open.spotify.com/album/74Hes6pOqG1u1DN65jg0aV"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 168866,
+      "name": "Amigos",
+      "url": "https://open.spotify.com/track/4uoHAwCca3pR6SCnYA3XPZ"
     },
     {
       "added_at": "2022-03-03 23:54:47",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2022-03-03 23:54:47",
       "album": {
-        "name": "No Mereces Que Te Quiera",
-        "url": "https://open.spotify.com/album/0CVsGdZD4eXqiONcjibWBg"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Contreras",
-          "url": "https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By"
-        }
-      ],
-      "duration_ms": 198893,
-      "name": "No Mereces Que Te Quiera",
-      "url": "https://open.spotify.com/track/6xtNRDtb45QqLNHNPYjw6f"
-    },
-    {
-      "added_at": "2022-03-03 23:54:47",
-      "album": {
         "name": "Puras Pa\u2019 Llorar",
         "url": "https://open.spotify.com/album/4AMmbg5HVgMNlGLl8QUv5x"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 170192,
       "name": "Te Ves Muy Feliz",
       "url": "https://open.spotify.com/track/6EJYz5QSjhPrg8AkRs3XOS"
+    },
+    {
+      "added_at": "2022-03-03 23:54:47",
+      "album": {
+        "name": "No Mereces Que Te Quiera",
+        "url": "https://open.spotify.com/album/0CVsGdZD4eXqiONcjibWBg"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Contreras",
+          "url": "https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By"
+        }
+      ],
+      "duration_ms": 198893,
+      "name": "No Mereces Que Te Quiera",
+      "url": "https://open.spotify.com/track/6xtNRDtb45QqLNHNPYjw6f"
     },
     {
       "added_at": "2022-07-08 05:00:00",

@@ -15625,7 +15625,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 194000,
       "name": "Ordinary",
       "url": "https://open.spotify.com/track/2POuS8xQxLtR52E8HFtAwB"
@@ -23313,6 +23313,24 @@
       "duration_ms": 222798,
       "name": "whenever",
       "url": "https://open.spotify.com/track/4nnmIVkfC4GGYwYQyFSsmd"
+    },
+    {
+      "album": {
+        "name": "White Mercedes",
+        "url": "https://open.spotify.com/album/5f9ZjV6R5HhN30D7YkNt6F"
+      },
+      "artists": [
+        {
+          "name": "Payday",
+          "url": "https://open.spotify.com/artist/6I7IZDntAGBmzkCANUmtV0"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110400,
+      "name": "White Mercedes",
+      "url": "https://open.spotify.com/track/5N1OdVOQ1bVpSogyDIsJBJ"
     },
     {
       "album": {

@@ -619,7 +619,7 @@
       ],
       "date_added": "2022-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 130634,
       "name": "Going Down",
       "url": "https://open.spotify.com/track/4syW5B9Y9cLyKIBrBxWZrb"
@@ -2435,6 +2435,24 @@
       "duration_ms": 217298,
       "name": "Weche - Radio Edit",
       "url": "https://open.spotify.com/track/5FF4NmjTT0lMF2JTg8sgcM"
+    },
+    {
+      "album": {
+        "name": "What To Expect When Expecting",
+        "url": "https://open.spotify.com/album/2VkmTYOfZ1zTHQBhfK1Rbf"
+      },
+      "artists": [
+        {
+          "name": "Flier",
+          "url": "https://open.spotify.com/artist/4GG9mTTEeOa6zUYwO3YmgU"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "What To Expect When Expecting",
+      "url": "https://open.spotify.com/track/3O9GGQXx5mi1ekYoCJbgXk"
     },
     {
       "album": {

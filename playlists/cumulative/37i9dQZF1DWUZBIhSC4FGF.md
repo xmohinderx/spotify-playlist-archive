@@ -4,7 +4,7 @@
 
 > Relax to some gentle percussion from all corners of the globe.
 
-68 songs - 4 hr 35 min - [published](https://open.spotify.com/playlist/6xU7IIhg8fqq5qz8ymx5AK)
+69 songs - 4 hr 43 min - [published](https://open.spotify.com/playlist/6xU7IIhg8fqq5qz8ymx5AK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Aya](https://open.spotify.com/track/3Nn7evnh53trrJBA7AJgdr) | [Ravid](https://open.spotify.com/artist/0skRhVJnuKDMGoLkqr1MAL) | [Calm Upon You](https://open.spotify.com/album/3f3ArCl4eIdzCSsyvyBlep) | 3:30 | 2022-05-19 |  |
 | [Being in Trance](https://open.spotify.com/track/2uHnWZRjPrjmKg5UKu3h1H) | [Spiritual Power Control](https://open.spotify.com/artist/0S2L6cMzog6TyuZsNhK20s), [Emotional Healing Intrumental Academy](https://open.spotify.com/artist/62HQ6hBQ9kqrjRyvoGHst6) | [Tongue Drum Healing Sounds \- Calm Your Negative Emotions and Relax with the Gentle Sounds of Instruments, Reiki Music, Meditation, Yoga](https://open.spotify.com/album/3mlaOHaA232Kv4kJD07Btz) | 2:59 | 2022-05-19 |  |
 | [Bhakti Gita](https://open.spotify.com/track/4IT2BC9XfBic5lIhIA828Z) | [Masood Ali Khan](https://open.spotify.com/artist/30RWmDZkj7S1VSDzmPY6BY) | [The Yoga Sessions](https://open.spotify.com/album/7Lhowb40KkVa2g5TK3WNxG) | 8:17 | 2022-05-19 |  |
+| [C\# Pygmy](https://open.spotify.com/track/6Hxgat5RmLkRvctiIFDr0G) | [Yatao](https://open.spotify.com/artist/4BYqP4YTwWGpi4q94QkW2x), [Malte Marten](https://open.spotify.com/artist/6gmfGQKmOr9z7GTYK7ecEj) | [The Journey](https://open.spotify.com/album/3jpONAMVwLuzRR2A4DOK75) | 8:36 | 2022-09-08 |  |
 | [Cappuccino Lovely: No\. 2\. Milk](https://open.spotify.com/track/0c0JQue8R16oT72mDIPmFk) | [Chin Cheng Lin](https://open.spotify.com/artist/69M2aODb7k10CQ3eN3CRXt) | [Lin: Star Splendours](https://open.spotify.com/album/10CGn8DyIsIu3Q45Xt85MY) | 4:49 | 2022-05-19 |  |
 | [Chilled Handpan Groove On The Streets](https://open.spotify.com/track/1Fq4qIMto7Wl7R6CJq8OuP) | [Handpan Mystic Flow](https://open.spotify.com/artist/4trNml03djbsrLqQWCbMnF) | [Trance Zen Dance](https://open.spotify.com/album/1pBMmdgLTkx4qUNMREa6KW) | 7:04 | 2022-05-19 |  |
 | [Conga Jog](https://open.spotify.com/track/5OHlCmavqq8SFwxmofUy9W) | [Al Gromer Khan](https://open.spotify.com/artist/7sGvSRxJMoJdO530qjic7H) | [Tantra Drums](https://open.spotify.com/album/3ryPNMqfISbRxlAlrSuWb4) | 4:24 | 2022-05-19 | 2022-07-29 |

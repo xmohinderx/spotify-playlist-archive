@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXetIPpoiRSb.md) - [plain]
 
 > The freshest pop sounds\. Cover: Ava Max
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,359 likes - 80 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,383 likes - 80 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXetIPpoiRSb.md) - [plain]
 | 41 | [indieedgycool](https://open.spotify.com/track/7nl5O8gRhQBCZUv3WHFxoV) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [indieedgycool](https://open.spotify.com/album/4QmiBPsOgNxhjYrbDSaFhQ) | 2:26 |
 | 42 | [True Romance](https://open.spotify.com/track/5HtApUGrSqWVbGHeQNHzET) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [True Romance](https://open.spotify.com/album/2oUN5vlr2v62mQ4lJTLJdT) | 3:02 |
 | 43 | [Sci\-Fi](https://open.spotify.com/track/63Ycrpi5da05jRSG5qGPM9) | [EDEN](https://open.spotify.com/artist/1t20wYnTiAT0Bs7H1hv9Wt) | [Sci\-Fi](https://open.spotify.com/album/1FrpZt5NaPZlmdNonpKVse) | 2:56 |
-| 44 | [the idea](https://open.spotify.com/track/6VN3dKYTClhY5eYQEnBehr) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [the idea](https://open.spotify.com/album/529HyBH38pXm03KrwyI0At) | 3:23 |
+| 44 | [the idea](https://open.spotify.com/track/5DUgpa3TrMXqUy5lvV5XT2) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [in loving memory](https://open.spotify.com/album/0ZvU2iSXtYxBeR9QzvHQau) | 3:24 |
 | 45 | [Living Hell](https://open.spotify.com/track/6bTbMMEShyGyrcuIwtBlpA) | [Bella Poarch](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm) | [Dolls EP](https://open.spotify.com/album/4W8QhTVggLgkJLdsXLLnnz) | 2:54 |
 | 46 | [don't come back](https://open.spotify.com/track/3RhyHYnYxuGnP8njFlNxHq) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [i used to think i could fly](https://open.spotify.com/album/5fhTetHew6Eph6HfQ9O5gJ) | 2:32 |
 | 47 | [Manic Pixie Dream Girl](https://open.spotify.com/track/1zCdV5mHCIbG513weaqgAw) | [Cate](https://open.spotify.com/artist/7D25zMq1tDmT0nfh6ieYph) | [Manic Pixie Dream Girl](https://open.spotify.com/album/1nyDgnM4HsSKfVhwfl0oAg) | 3:05 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXetIPpoiRSb.md) - [plain]
 | 79 | [100sadsongs](https://open.spotify.com/track/0rvcPanRR8rQO8lSIr0S4l) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [100sadsongs](https://open.spotify.com/album/52D5Elj3MPS11Wa0r50EFM) | 2:56 |
 | 80 | [SloMo](https://open.spotify.com/track/3XREkzDHsWdBL5tybyCDBH) | [Chanel](https://open.spotify.com/artist/5DeX42pr2TilrnsUgjG8D1) | [SloMo](https://open.spotify.com/album/0UMDRKVU0rz2nALo2bms9d) | 2:56 |
 
-Snapshot ID: `MTY2MjE5NTYxNSwwMDAwMDAwMGMxNDMwMzAzOWE3NDM2ZTk3NWZmOWM3OWM2ZDI2OGM3`
+Snapshot ID: `MTY2MjE5NTYxNSwwMDAwMDAwMDVhN2UzNWRkNGQxZTdjNDY4NjQwZWM0MzU4YzYxYmJl`

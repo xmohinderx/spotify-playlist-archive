@@ -1637,7 +1637,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-08",
+      "date_removed": null,
       "duration_ms": 197333,
       "name": "Electrolyte Elixir",
       "url": "https://open.spotify.com/track/33Lqj0KYqEIk3ibD3DU1cW"
@@ -1829,7 +1829,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 206000,
       "name": "Escapism",
       "url": "https://open.spotify.com/track/2XSvc1TzmAZx3Yjrz8KCpR"
@@ -4719,7 +4719,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 231049,
       "name": "Rash Devices (FM Skyline Remix)",
       "url": "https://open.spotify.com/track/4YmYML44U2s4QgdAP0oNrM"
@@ -6749,6 +6749,24 @@
       "duration_ms": 144000,
       "name": "You're no one",
       "url": "https://open.spotify.com/track/2BN6fLHHoqZJt4QCFiSEJp"
+    },
+    {
+      "album": {
+        "name": "\u4e16\u754c\u5927\u6226OLYMPICS",
+        "url": "https://open.spotify.com/album/2vx8NwYpFEX2eA2SluDdl8"
+      },
+      "artists": [
+        {
+          "name": "death's dynamic shroud",
+          "url": "https://open.spotify.com/artist/1F31FB7Y6ic4844PbqMf7c"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 56281,
+      "name": "\u2730 H\u1e00\u2133\u2133\u262e\u263e\u0198 & \u0e3f\u01a6\u039e\u039e\u01b5\u039e \u2730",
+      "url": "https://open.spotify.com/track/1xkYxB5hnfl2dCJ2k8Ch6v"
     },
     {
       "album": {

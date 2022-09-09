@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ve1H90mNWg.md) - [plain]
 
 ### [Ripple Effect: Texas](https://open.spotify.com/playlist/37i9dQZF1DX4ve1H90mNWg)
 
-> Texas music breaking waves\. Cover, Beyonce
+> Texas music breaking waves\. Cover, Teezo Touchdown
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,686 likes - 62 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,692 likes - 62 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ve1H90mNWg.md) - [plain]
 | 61 | [I’m Not Kidding](https://open.spotify.com/track/5lkO0aXdKXWJXujSfSXKd4) | [Fade 'Em All](https://open.spotify.com/artist/5KPgrRE2BkgShDII1cH1HN) | [I’m Not Kidding](https://open.spotify.com/album/4SYPqCHMW50UULD6WdgPgV) | 3:52 |
 | 62 | [Can I Trust You](https://open.spotify.com/track/3HY1WtRvQ2m9lveG6P5utl) | [Jdagr8](https://open.spotify.com/artist/6KDSnOUZWVZeerpSkIuOuR), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Tillweallrich](https://open.spotify.com/album/7cjlZoAsOPauc8ESRhKJKp) | 4:58 |
 
-Snapshot ID: `MTY2MjE0MTM1MCwwMDAwMDAwMDcxMDJiYjAzODZmM2E3MTY5ZjU0Y2U4MzMyYWMzYzY4`
+Snapshot ID: `MTY2MjY2MDI5MCwwMDAwMDAwMGI4ODFkMDgzMmZkYTU0MmI3MTRiOTFiYmE2ZTkxNmQ3`

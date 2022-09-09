@@ -1,12 +1,12 @@
 {
   "description": "The new bolero era just for you. Los boleritos de hoy. Cover: Yoss Bones",
-  "num_followers": 47443,
+  "num_followers": 47582,
   "original_name": "Lento.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTcxNjcxNSwwMDAwMDAwMDZhNDlmZGMyZDM1ZWY0YTA4YjY5MDNiOWMzMGIzMDA0",
+  "snapshot_id": "MTY1OTcxNjcxNSwwMDAwMDAwMDk4OGIxOWI5NGEzOGQ4MmJjYWJlNzk2NGU3NThiZTNl",
   "tracks": [
     {
       "added_at": "2022-08-05 16:25:15",
@@ -823,6 +823,22 @@
     {
       "added_at": "2022-08-05 16:25:15",
       "album": {
+        "name": "Un Canto por M\u00e9xico, Vol. 1",
+        "url": "https://open.spotify.com/album/6yDcHjoEqNkkl9UC6KSlFE"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 243253,
+      "name": "Veracruz",
+      "url": "https://open.spotify.com/track/6QlEtyGqmX4dXASVeEEEDH"
+    },
+    {
+      "added_at": "2022-08-05 16:25:15",
+      "album": {
         "name": "Amores Ajenos",
         "url": "https://open.spotify.com/album/3FRBtXIYzHiiDSXykW2WVT"
       },
@@ -875,38 +891,18 @@
     {
       "added_at": "2022-08-05 16:25:15",
       "album": {
-        "name": "Un Canto por M\u00e9xico, Vol. 1",
-        "url": "https://open.spotify.com/album/6yDcHjoEqNkkl9UC6KSlFE"
+        "name": "Jei Beibi",
+        "url": "https://open.spotify.com/album/74eEfGjMICkDu7u8faPlc5"
       },
       "artists": [
         {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+          "name": "Caf\u00e9 Tacvba",
+          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
         }
       ],
-      "duration_ms": 243253,
-      "name": "Veracruz",
-      "url": "https://open.spotify.com/track/6QlEtyGqmX4dXASVeEEEDH"
-    },
-    {
-      "added_at": "2022-08-05 16:25:15",
-      "album": {
-        "name": "T\u00fa",
-        "url": "https://open.spotify.com/album/1O88OBOAtX6c8DUMEkq5HY"
-      },
-      "artists": [
-        {
-          "name": "Elisa",
-          "url": "https://open.spotify.com/artist/1Rz2UCxkUlzuT6Kxe47wxc"
-        },
-        {
-          "name": "Cristobal Sarmiento",
-          "url": "https://open.spotify.com/artist/2AIg5VYeWoMaGDuINUQwKC"
-        }
-      ],
-      "duration_ms": 171840,
-      "name": "T\u00fa",
-      "url": "https://open.spotify.com/track/6OQWXsydNnIVHfbJrTMNer"
+      "duration_ms": 232251,
+      "name": "Enamorada",
+      "url": "https://open.spotify.com/track/562C3EC94HrVqmazwHvzej"
     }
   ],
   "unique_name": "Lento.",

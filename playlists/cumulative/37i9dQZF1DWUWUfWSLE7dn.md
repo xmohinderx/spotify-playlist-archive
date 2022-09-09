@@ -4,7 +4,7 @@
 
 > The perfect score to accompany your literary quest.
 
-107 songs - 5 hr 15 min - [published](https://open.spotify.com/playlist/0hBVIGuG4NeGfuqta1nWIO)
+110 songs - 5 hr 24 min - [published](https://open.spotify.com/playlist/0hBVIGuG4NeGfuqta1nWIO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,12 +49,14 @@
 | [Huddled in the Shadows](https://open.spotify.com/track/45mG9ywi5sbbxjA2Rdv95L) | [Austin Wintory](https://open.spotify.com/artist/3Rwlus4QnnBSnTe8pJV0rw) | [The Banner Saga](https://open.spotify.com/album/4dZzebB3bTIXLJpTMOSE44) | 3:02 | 2022-03-09 |  |
 | [Hunger, Thirst](https://open.spotify.com/track/2CH3Ub29VJrqNgg0v2fx0D) | [Johannes Bornlöf](https://open.spotify.com/artist/1yLIaxyVkZnLMXhfRSYEjV) | [The Road To Meteora](https://open.spotify.com/album/3PLSbFdaSc9nHiZsdutrAz) | 2:13 | 2022-03-09 |  |
 | [I Thought I'd Never Forget](https://open.spotify.com/track/66TyP1oeJXmnCkNpyul9T1) | [August D\. Valentine](https://open.spotify.com/artist/4MJYe0nbmZr7ty64T1VGoN) | [Momentum](https://open.spotify.com/album/1pP6DihqrGirs9YPUp6bHQ) | 2:20 | 2022-03-09 |  |
-| [I'm Sorry](https://open.spotify.com/track/63UfuiDT4cb2fi4LPSNvlm) | [BlackDarkwin](https://open.spotify.com/artist/66nc7AwBS925cs768stOQg) | [I'm Sorry](https://open.spotify.com/album/2KiX8D8GGwlXgjfwYb5z8M) | 2:53 | 2022-08-05 |  |
+| [I'm Sorry](https://open.spotify.com/track/1gSTJluVhF7DoMPAqTqZxi) | [BlackDarkwin](https://open.spotify.com/artist/66nc7AwBS925cs768stOQg) | [I'm Sorry](https://open.spotify.com/album/4p1bxpSIls5jSr9CWRJmSz) | 2:53 | 2022-09-09 |  |
+| [I'm Sorry](https://open.spotify.com/track/63UfuiDT4cb2fi4LPSNvlm) | [BlackDarkwin](https://open.spotify.com/artist/66nc7AwBS925cs768stOQg) | [I'm Sorry](https://open.spotify.com/album/2KiX8D8GGwlXgjfwYb5z8M) | 2:53 | 2022-08-05 | 2022-09-09 |
 | [Inner Sanctum / The Nesting Grounds](https://open.spotify.com/track/1QuqujcrL6Iy0FDokChqHF) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [Dinosaur Original Soundtrack](https://open.spotify.com/album/19sIkTpeU6sUjZfafi1aCZ) | 2:57 | 2022-03-09 | 2022-07-29 |
 | [Inner Sanctum / The Nesting Grounds \- From "Dinosaur"/Score](https://open.spotify.com/track/5JbuKh2rpieicj3ld8Yy2L) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [Dinosaur](https://open.spotify.com/album/364YR5hc3wDSLIJfgrrqHi) | 2:57 | 2022-07-29 |  |
 | [Intangible](https://open.spotify.com/track/1z7xRcXHpfq4Isb1JufoRP) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [Three Days in Venice](https://open.spotify.com/album/3PmHajw3xayhJXfgLSLDop) | 2:19 | 2022-04-22 |  |
 | [Kluge: Dreams and Echoes](https://open.spotify.com/track/2nyGaEELxbD0aRBF6dBrQo) | [Kathryn Kluge, Kim Allen Kluge](https://open.spotify.com/artist/0hTauniKYwz6CBz1s4NLWd) | [Silence \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/29BBeUE3KRGalBtLf53IGw) | 2:41 | 2022-03-09 |  |
 | [Lands of Despair](https://open.spotify.com/track/7AXO9X1BOHNA19vGB8K876) | [Two Worlds II](https://open.spotify.com/artist/1qdPs3IrhTTOZm4Sm1KrR7) | [Two Worlds II](https://open.spotify.com/album/4HRx4rr8XaAYwNWYJzRdky) | 2:16 | 2022-03-09 |  |
+| [Largo from Xerxes](https://open.spotify.com/track/3dSA0ZoHzvXxvticgIz5MJ) | [George Frideric Handel](https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2), [Artwinder Modern Quartet](https://open.spotify.com/artist/2ipPNWfa4u0WTh99vGxpQ6) | [Quartet Classics Series: Largo from Xerxes](https://open.spotify.com/album/3REN8n3aARNwmHx9YcGjvQ) | 3:06 | 2022-09-09 |  |
 | [Largo Opus I](https://open.spotify.com/track/6h4HnPGVsXzY5ni48Mc2fa) | [Chamber Orchestra of Miemo](https://open.spotify.com/artist/7I4SytVVBoXQLU1IrG2pDp) | [Adagio in G Minor](https://open.spotify.com/album/71LQkDLQm2RozTdCKAFBpt) | 2:43 | 2022-03-09 |  |
 | [Legends of the Fall](https://open.spotify.com/track/31loMj4ZFxOedEd2bHHQjg) | [James Horner](https://open.spotify.com/artist/3PhL2Vdao2v8SS8AptuhAr), [Vic Frasier](https://open.spotify.com/artist/4yDDgkE98qUsBfWkMSstfi) | [Legends Of The Fall Original Motion Picture Soundtrack](https://open.spotify.com/album/1h8CXTofLlK1jaLooye58o) | 4:16 | 2022-03-09 |  |
 | [Let's Run Away Together](https://open.spotify.com/track/7jxJHRmtMpGNR3EmxnspDB) | [Johannes Bornlöf](https://open.spotify.com/artist/1yLIaxyVkZnLMXhfRSYEjV) | [The Boy Who Flew Away](https://open.spotify.com/album/4dgeskwXtoICOIJuPqXBAt) | 2:57 | 2022-03-09 | 2022-07-29 |
@@ -93,6 +95,7 @@
 | [Stay With Me](https://open.spotify.com/track/2pd2wOETmzx0aTj7tnW5ID) | [Ivan Ibáñez](https://open.spotify.com/artist/0fV6GdJtP7B0zT4rmLmpUK), [Telecinco](https://open.spotify.com/artist/0XObwctODgMjE22VStmpUZ) | [Stay With Me](https://open.spotify.com/album/7DHqNJ9J58QRnsBDfuPOm0) | 1:41 | 2022-05-20 |  |
 | [take a breath](https://open.spotify.com/track/2dTVD9E1QsL5xWHRgiAjw6) | [FIL CRISTALLO](https://open.spotify.com/artist/1mhK0YcAZS8kTfYrUGYeTo) | [take a breath](https://open.spotify.com/album/1nm957F9G9h8Ma9vHgUr9H) | 3:48 | 2022-05-20 |  |
 | [The Ballad of the Lake of Tears](https://open.spotify.com/track/0wGMUgcCclFNTW6Masy6WQ) | [Chris Palmer](https://open.spotify.com/artist/28VnidW62NnJOQAExf4HH6) | [The Ballad of the Lake of Tears](https://open.spotify.com/album/6vq1ayUsfwt6HsEZI973bM) | 2:21 | 2022-07-22 |  |
+| [The Dawning](https://open.spotify.com/track/0k963HCwT2H2SLhdA8CWve) | [Christoffer Moe Ditlevsen](https://open.spotify.com/artist/1byqtZiN0rWjNg7kXy5j3S), [Anna Dager](https://open.spotify.com/artist/2So39o3NqsjLtwwohABw5B), [Hanna Ekström](https://open.spotify.com/artist/5oKBGEzl76HnP3fS2cU366) | [The Dawning](https://open.spotify.com/album/2dukrzOf2iXJpRDSJqZRWH) | 2:47 | 2022-09-09 |  |
 | [The Fig Tree](https://open.spotify.com/track/1drE1yyx3iSbTbn55SAGOT) | [Jakob Ahlbom](https://open.spotify.com/artist/2VZTNKYLnhbnV3FwGJlp3K) | [Elision](https://open.spotify.com/album/6orXM32rO2JFSt60ZWyp4p) | 2:35 | 2022-03-09 |  |
 | [The Great Unknown](https://open.spotify.com/track/4nY7xJxAsbgalPsOiWBonK) | [Hampus Naeselius](https://open.spotify.com/artist/1M3REpihyqFCmBRC9sMzp5) | [Where Heroes Come to Die](https://open.spotify.com/album/6oWPtpkD348BpY3ZTxWOzp) | 3:59 | 2022-03-09 |  |
 | [The Guiding Light](https://open.spotify.com/track/35pgvCcPQEE76ofXfhKohb) | [Christoffer Moe Ditlevsen](https://open.spotify.com/artist/1byqtZiN0rWjNg7kXy5j3S) | [The Guiding Light](https://open.spotify.com/album/18Bjewp7ZO72L2DnUIJTHK) | 2:49 | 2022-03-09 |  |

@@ -4,12 +4,12 @@
 
 > Melt into the Atmospheric Calm with these mellow beats and ambient tones.
 
-194 songs - 12 hr 3 min - [published](https://open.spotify.com/playlist/1UtTTBPg4n71DXZVvtkvbt)
+195 songs - 12 hr 7 min - [published](https://open.spotify.com/playlist/1UtTTBPg4n71DXZVvtkvbt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [](https://open.spotify.com/track/7F3mLX9dJzIrdVttVkI9WD) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/13X3FtDMr1C5kLD1lUBkzm) | 0:00 | 2020-12-08\* | 2022-09-05 |
-| [](https://open.spotify.com/track/7d4i1kAUl9IZR4i46klvNT) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/2NOV4cZnAxpbVm2JPMFldc) | 0:00 | 2020-12-08\* |  |
+| [](https://open.spotify.com/track/7d4i1kAUl9IZR4i46klvNT) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/2NOV4cZnAxpbVm2JPMFldc) | 0:00 | 2020-12-08\* | 2022-09-09 |
 | [1000 Arms](https://open.spotify.com/track/0zZIYr7bxWx4RMQx5k4R3G) | [Lymbyc Systym](https://open.spotify.com/artist/7fpjImuvKls8BeMFW9iil5) | [Carved By Glaciers](https://open.spotify.com/album/12JjiCRZO1g6JAdPn0jGpG) | 2:49 | 2021-01-15 | 2022-05-20 |
 | [160512](https://open.spotify.com/track/4qTfc9EIeFGUhy5uYLkpjU) | [New Mountain](https://open.spotify.com/artist/13XROkNcgR324FYTeCcFey) | [160512](https://open.spotify.com/album/4AkJRb8Du6HgER21JF1rad) | 2:28 | 2021-01-15 | 2022-05-20 |
 | [A Brief Walk in the Sea](https://open.spotify.com/track/1O3wMxzAagYQ336rdfH9bQ) | [Near The Parenthesis](https://open.spotify.com/artist/0w0n5GVOQZlszSi4WN1Got) | [L'Eixample](https://open.spotify.com/album/6lBcFKiDVRp6rMWC5Po809) | 7:04 | 2022-07-22 |  |
@@ -140,6 +140,7 @@
 | [Pan Serenade](https://open.spotify.com/track/26hAV8CJvMK58Gdvve3vyx) | [X\-Genie](https://open.spotify.com/artist/7jpxxOSOJX0PCvKXAbQs2I) | [Pan Serenade](https://open.spotify.com/album/2YNQuawkFrWf9Fittz8cIq) | 3:34 | 2020-12-08\* |  |
 | [Parameters](https://open.spotify.com/track/2bCW53cveSKclOEnzlbJyC) | [The Album Leaf](https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE) | [Between Waves](https://open.spotify.com/album/0TeJOSgDHYKwwj3K1zxblP) | 5:15 | 2020-12-08\* | 2021-07-06 |
 | [Part 3](https://open.spotify.com/track/5EGW7u5Apfyu8CJZIkiops) | [Rhian Sheehan](https://open.spotify.com/artist/0H1edn1doFZiHiu2INB2CT) | [Standing in Silence](https://open.spotify.com/album/0vfiJSS4yr9dlKgl3uLING) | 5:13 | 2021-02-22 | 2022-07-29 |
+| [Passing By](https://open.spotify.com/track/2FlD1WyrE1iNdflUvXAQoj) | [Sulfur Springs](https://open.spotify.com/artist/4W3lH1l0pEtX21XX6nOIRF) | [Passing By](https://open.spotify.com/album/1GL8XBwwxJzmytxkstvtTU) | 3:39 | 2022-09-02 |  |
 | [Perfect Morning \- Speck from CYNE Remix](https://open.spotify.com/track/1KSv7wt8YplLa5useD2I0D) | [Long Arm](https://open.spotify.com/artist/0bUWa3lF2u3S1j1JOVZsdA), [Speck From CYNE](https://open.spotify.com/artist/5xdr4nT8gezbvSBLn2jyRz) | [The Branches \(Deluxe Edition\)](https://open.spotify.com/album/6DsdLxkHx1VlKvLxa2Y57w) | 4:24 | 2021-01-15 | 2021-05-27 |
 | [Periphescence](https://open.spotify.com/track/2DhT22DtGdRKULjuScdht0) | [Glowworm](https://open.spotify.com/artist/6kPNTQ474Zvg8bq86OMutw) | [The Coachlight Woods](https://open.spotify.com/album/5rvAkp5i9TmfeLkzfV1Ig4) | 3:58 | 2020-12-08\* |  |
 | [Poa Alpina](https://open.spotify.com/track/1TCkrnjuurf0DNLLoJxVyd) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Substrata](https://open.spotify.com/album/6jeIzUv8Bff4fFElZwwA4B) | 4:10 | 2020-12-08\* | 2021-03-06 |

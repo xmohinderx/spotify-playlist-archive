@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3DZBe6wPMXo.md) - [plain]
 
 > Gentle instrumental music to help you relax while you read.
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,773 likes - 47 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,075 likes - 47 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3DZBe6wPMXo.md) - [plain]
 | 20 | [Suite bergamasque, L\. 75: III\. Clair de lune](https://open.spotify.com/track/3hCPh4oVVjaM8tv9sFH8cx) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Alice Sara Ott](https://open.spotify.com/artist/0d6alfZHUx3xoRnPjkTL7Q) | [Nightfall](https://open.spotify.com/album/0Mbkl6nlKMXhmVeoSCQntV) | 4:54 |
 | 21 | [Sonata In G Minor For Cello & Piano, Op\. 65: 3\. Largo](https://open.spotify.com/track/0lWMRvbD4qlW9iszdR22W6) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Alisa Weilerstein](https://open.spotify.com/artist/342cJoM4xzPrRfLb8fYkuh), [Inon Barnatan](https://open.spotify.com/artist/5ejziTkhdpyMUJvawZWuS2) | [Chopin: Classical BBQ](https://open.spotify.com/album/1BGcJOfZBgSQeBonHiYJox) | 3:37 |
 | 22 | [Cello Suite No\. 1 in G Major, BWV 1007: I\. Prélude](https://open.spotify.com/track/61dYvvfIRtIDFuqZypPAta) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Yo\-Yo Ma](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk) | [Bach: Unaccompanied Cello Suites \(Remastered\)](https://open.spotify.com/album/2OpnKgmVYPEN2GldgBponI) | 2:31 |
-| 23 | [Nocturne No.1 In B Flat Minor, Op.9 No.1](https://open.spotify.com/track/2d6ml9Qkx8r4EjuUyrdpRV) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Maurizio Pollini](https://open.spotify.com/artist/2VIdKQmRHnWofsR4odfFOh) | [Chopin: Nocturnes](https://open.spotify.com/album/2aoSpTAjFaMvaZeruqnCVv) | 4:46 |
+| 23 | [Nocturne No\. 1 In B Flat Minor, Op\. 9 No\. 1](https://open.spotify.com/track/2d6ml9Qkx8r4EjuUyrdpRV) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Maurizio Pollini](https://open.spotify.com/artist/2VIdKQmRHnWofsR4odfFOh) | [Chopin: Nocturnes](https://open.spotify.com/album/2aoSpTAjFaMvaZeruqnCVv) | 4:46 |
 | 24 | [String Quartet No\. 5 in F Minor, Op\. 9, B\. 37: II\. Andante con moto quasi allegretto](https://open.spotify.com/track/1qrodRAeiSJUf1NKF34XXs) | [Antonín Dvořák](https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF), [Vlach Quartet Prague](https://open.spotify.com/artist/0Apnbohc6st5hulSIdnJsQ) | [Dvorak, A.: String Quartets, Vol\. 6 \(Vlach Quartet\) \- Nos\. 5, 7](https://open.spotify.com/album/06Sw3yH2kTQD2XOt2aMnev) | 8:13 |
 | 25 | [L'Arlésienne Suite No\. 2: Menuet](https://open.spotify.com/track/0Tx61KMDoqr3uNMhNcXXhB) | [Georges Bizet](https://open.spotify.com/artist/2D7RkvtKKb6E5UmbjQM1Jd), [Orchestre Symphonique de Montréal](https://open.spotify.com/artist/4AcXapei4U7xnWecv9AEBd), [Charles Dutoit](https://open.spotify.com/artist/0Ku5VBNL7cfGXRhp2BxXEQ) | [Bizet: Carmen Suites 1 & 2; L'Arlésienne Suites 1 & 2](https://open.spotify.com/album/3MHXMoe8tGfheDCfH6lUFn) | 4:27 |
 | 26 | [Due tramonti](https://open.spotify.com/track/1Zv6RyHM08gyC4qvOlCZUL) | [Lavinia Meijer](https://open.spotify.com/artist/1QpDFI4PxPwdv2E3iS6pCp) | [Passaggio](https://open.spotify.com/album/7FLcizCIuoOOTEKUZlrANJ) | 4:27 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Japanese female rock icons. Cover: SHISHAMO",
+  "description": "Japanese female rock icons. Cover: \u30dd\u30eb\u30ab\u30c9\u30c3\u30c8\u30b9\u30c6\u30a3\u30f3\u30b0\u30ec\u30a4(POLKADOT STINGRAY)",
   "name": "She Rocks",
   "published_playlist_ids": [
     "5oLzS8mnacSvAW2zqgcbrN"
@@ -152,6 +152,24 @@
     },
     {
       "album": {
+        "name": "Aiaru Sekai",
+        "url": "https://open.spotify.com/album/62D26AgLZHyTMsLFYrAN4R"
+      },
+      "artists": [
+        {
+          "name": "\u30a2\u30ab\u30cd\u30b5\u30b9",
+          "url": "https://open.spotify.com/artist/7E61BhEMgngwg7EPgS17vl"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196017,
+      "name": "Aiaru Sekai",
+      "url": "https://open.spotify.com/track/7FzuvU29KpohVxXr4DFcEN"
+    },
+    {
+      "album": {
         "name": "Saiaku Saiai",
         "url": "https://open.spotify.com/album/2CtsgdSCPlWeIdcdk2m2iQ"
       },
@@ -293,7 +311,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 333000,
       "name": "Beyond Selves (feat. L)",
       "url": "https://open.spotify.com/track/0yhDRfvMNnEzSTyGvfu5ds"
@@ -553,6 +571,24 @@
       "duration_ms": 227880,
       "name": "CHOTTO CHOTTO",
       "url": "https://open.spotify.com/track/55kIki7uA3uBAPhZM0CZfZ"
+    },
+    {
+      "album": {
+        "name": "Chu Chu Song",
+        "url": "https://open.spotify.com/album/0ISat8f2DfoFqVtjoTmHbb"
+      },
+      "artists": [
+        {
+          "name": "Otoboke Beaver",
+          "url": "https://open.spotify.com/artist/0HutkALC7kq2L8b9bnZUkq"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174573,
+      "name": "Chu Chu Song",
+      "url": "https://open.spotify.com/track/4nDWG3USDzV0Io1w9ibyeO"
     },
     {
       "album": {
@@ -2017,7 +2053,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 254053,
       "name": "LITMUS",
       "url": "https://open.spotify.com/track/4SKkKCv06oN15DHpyKUnJk"
@@ -3859,10 +3895,28 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 120360,
       "name": "Walking Song",
       "url": "https://open.spotify.com/track/1gl95hIaaj65JwNttA4l4h"
+    },
+    {
+      "album": {
+        "name": "INNER JOURNEY",
+        "url": "https://open.spotify.com/album/01dlkun9ZeuPK7jcTX9Y9v"
+      },
+      "artists": [
+        {
+          "name": "INNER JOURNEY",
+          "url": "https://open.spotify.com/artist/19NLrvn6bFFk0R0UaSfGR9"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120360,
+      "name": "Walking Song",
+      "url": "https://open.spotify.com/track/374qlBRNACVJ9iNiqw2xGs"
     },
     {
       "album": {
@@ -4191,7 +4245,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 239400,
       "name": "Zutto Sobade Mimamotteiruyo",
       "url": "https://open.spotify.com/track/7G1ceuGVkXK6SrVxUGOabw"
@@ -4599,6 +4653,24 @@
       "duration_ms": 228545,
       "name": "\u305a\u3063\u3068\u305a\u3063\u3068\u305a\u3063\u3068",
       "url": "https://open.spotify.com/track/2He9deEfdXYWxnTUi0oOb0"
+    },
+    {
+      "album": {
+        "name": "\u30aa\u30fc\u30eb\u30e9\u30a4\u30c8",
+        "url": "https://open.spotify.com/album/7Hirw8RFBkBw1MGwnQxNOz"
+      },
+      "artists": [
+        {
+          "name": "Hitomi Yaida",
+          "url": "https://open.spotify.com/artist/4Xho9HlopbIH2VpxfDkVXn"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239893,
+      "name": "\u305a\u3063\u3068\u305d\u3070\u3067\u898b\u5b88\u3063\u3066\u3044\u308b\u3088",
+      "url": "https://open.spotify.com/track/2hRL9QgUZsAUiARFRLL3WZ"
     },
     {
       "album": {
@@ -7861,7 +7933,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-07",
+      "date_removed": null,
       "duration_ms": 224960,
       "name": "\u541b\u3068\u590f\u30d5\u30a7\u30b9",
       "url": "https://open.spotify.com/track/0mVtmQomDom72Y7UDm1ODi"
@@ -8567,7 +8639,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 196017,
       "name": "\u611b\u3042\u308b\u4e16\u754c",
       "url": "https://open.spotify.com/track/2LHR0pUDiYc4NiFhnp7YCt"

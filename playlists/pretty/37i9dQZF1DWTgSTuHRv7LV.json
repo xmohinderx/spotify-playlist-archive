@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del Hip-Hop y Rap en espa\u00f1ol. Cover: Bo Bundy",
-  "num_followers": 453111,
+  "num_followers": 453238,
   "original_name": "Mucho Rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Nzg1NzY2MCwwMDAwMDAwMGZhZWE4NTkyMmQ2M2E1NDA1MTNlZjJhMTJmYTUzZDM5",
+  "snapshot_id": "MTY1Nzg1NzY2MCwwMDAwMDAwMDY0NzYyMWZkODY2OTg1NGY2NDZlMWU2MGE4ZmFiNTEz",
   "tracks": [
     {
       "added_at": "2022-07-15 04:01:00",
@@ -976,7 +976,7 @@
           "url": "https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU"
         },
         {
-          "name": "Tego Calderon",
+          "name": "Tego Calder\u00f3n",
           "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
         }
       ],
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2022-07-15 04:01:00",
       "album": {
-        "name": "Hurac\u00e1n",
-        "url": "https://open.spotify.com/album/1yM29w2suYVpMursUbXQMi"
-      },
-      "artists": [
-        {
-          "name": "Aleman",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
-        }
-      ],
-      "duration_ms": 217228,
-      "name": "G-500",
-      "url": "https://open.spotify.com/track/5UYRBkNws3RZFfDvGGjBuG"
-    },
-    {
-      "added_at": "2022-07-15 04:01:00",
-      "album": {
         "name": "El Mundo Es Tuyo",
         "url": "https://open.spotify.com/album/3fi4Kp3hlODkiyERiCPeBw"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 182435,
       "name": "El Mundo Es Tuyo",
       "url": "https://open.spotify.com/track/3eDZA496pE44xkDSamlCHD"
+    },
+    {
+      "added_at": "2022-07-15 04:01:00",
+      "album": {
+        "name": "Hurac\u00e1n",
+        "url": "https://open.spotify.com/album/1yM29w2suYVpMursUbXQMi"
+      },
+      "artists": [
+        {
+          "name": "Aleman",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        }
+      ],
+      "duration_ms": 217228,
+      "name": "G-500",
+      "url": "https://open.spotify.com/track/5UYRBkNws3RZFfDvGGjBuG"
     },
     {
       "added_at": "2022-07-15 04:01:00",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2022-07-15 04:01:00",
       "album": {
-        "name": "Vocales",
-        "url": "https://open.spotify.com/album/6a1zIS0OherGFOxGYbIldZ"
-      },
-      "artists": [
-        {
-          "name": "Villano Antillano",
-          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
-        }
-      ],
-      "duration_ms": 158570,
-      "name": "Vocales",
-      "url": "https://open.spotify.com/track/4oV82xuYkYgyM2nBfbidjA"
-    },
-    {
-      "added_at": "2022-07-15 04:01:00",
-      "album": {
         "name": "Humo en la Trampa 3",
         "url": "https://open.spotify.com/album/52pj5NqKKtffjSmxvMzhlY"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 438280,
       "name": "Casa en la Montan\u0303a 3",
       "url": "https://open.spotify.com/track/1bv7wjY1eVYRjkulzmqJP2"
+    },
+    {
+      "added_at": "2022-07-15 04:01:00",
+      "album": {
+        "name": "Vocales",
+        "url": "https://open.spotify.com/album/6a1zIS0OherGFOxGYbIldZ"
+      },
+      "artists": [
+        {
+          "name": "Villano Antillano",
+          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
+        }
+      ],
+      "duration_ms": 158570,
+      "name": "Vocales",
+      "url": "https://open.spotify.com/track/4oV82xuYkYgyM2nBfbidjA"
     },
     {
       "added_at": "2022-07-15 04:01:00",
@@ -1451,6 +1451,22 @@
     {
       "added_at": "2022-07-15 04:01:00",
       "album": {
+        "name": "M\u00ednimo",
+        "url": "https://open.spotify.com/album/5F29828sgPmoMIbh38euyZ"
+      },
+      "artists": [
+        {
+          "name": "Eptos Uno",
+          "url": "https://open.spotify.com/artist/3fo4UvMNzZUCFS90Roh5iK"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "M\u00ednimo",
+      "url": "https://open.spotify.com/track/5PPtgvTTRPXGyEYnxbDGxR"
+    },
+    {
+      "added_at": "2022-07-15 04:01:00",
+      "album": {
         "name": "Maldad",
         "url": "https://open.spotify.com/album/3W4doy1Nh9TLVojSVVhzyf"
       },
@@ -1471,22 +1487,6 @@
     {
       "added_at": "2022-07-15 04:01:00",
       "album": {
-        "name": "M\u00ednimo",
-        "url": "https://open.spotify.com/album/5F29828sgPmoMIbh38euyZ"
-      },
-      "artists": [
-        {
-          "name": "Eptos Uno",
-          "url": "https://open.spotify.com/artist/3fo4UvMNzZUCFS90Roh5iK"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "M\u00ednimo",
-      "url": "https://open.spotify.com/track/5PPtgvTTRPXGyEYnxbDGxR"
-    },
-    {
-      "added_at": "2022-07-15 04:01:00",
-      "album": {
         "name": "They Love Us",
         "url": "https://open.spotify.com/album/5tXi8xJTaE7lkHsdJq0AYb"
       },
@@ -1499,6 +1499,26 @@
       "duration_ms": 174013,
       "name": "Triple H",
       "url": "https://open.spotify.com/track/1QnfogT4dMmH37TZvxP2ao"
+    },
+    {
+      "added_at": "2022-07-15 04:01:00",
+      "album": {
+        "name": "YEYO",
+        "url": "https://open.spotify.com/album/2omBpLdhqRgjBneDnziZpp"
+      },
+      "artists": [
+        {
+          "name": "Lil Supa",
+          "url": "https://open.spotify.com/artist/0qHbO3z6lgLE6ZYCkQBo1K"
+        },
+        {
+          "name": "Doktor Rheal",
+          "url": "https://open.spotify.com/artist/6RLtMINjyT15TfS3enUhFF"
+        }
+      ],
+      "duration_ms": 179576,
+      "name": "CLOACA",
+      "url": "https://open.spotify.com/track/0hsE4KoZ14iXURFc8Lf4dU"
     },
     {
       "added_at": "2022-07-15 04:01:00",
@@ -1527,26 +1547,6 @@
       "duration_ms": 330196,
       "name": "Patr\u00f3n",
       "url": "https://open.spotify.com/track/2bE5ZNbhykDaIYqOCH3rQk"
-    },
-    {
-      "added_at": "2022-07-15 04:01:00",
-      "album": {
-        "name": "YEYO",
-        "url": "https://open.spotify.com/album/2omBpLdhqRgjBneDnziZpp"
-      },
-      "artists": [
-        {
-          "name": "Lil Supa",
-          "url": "https://open.spotify.com/artist/0qHbO3z6lgLE6ZYCkQBo1K"
-        },
-        {
-          "name": "Doktor Rheal",
-          "url": "https://open.spotify.com/artist/6RLtMINjyT15TfS3enUhFF"
-        }
-      ],
-      "duration_ms": 179576,
-      "name": "CLOACA",
-      "url": "https://open.spotify.com/track/0hsE4KoZ14iXURFc8Lf4dU"
     },
     {
       "added_at": "2022-07-15 04:01:00",
@@ -1887,22 +1887,6 @@
     {
       "added_at": "2022-07-15 04:01:00",
       "album": {
-        "name": "La Nueva Pandemia",
-        "url": "https://open.spotify.com/album/5l3tjSHsjgNudTV5a5Gx07"
-      },
-      "artists": [
-        {
-          "name": "Omy de Oro",
-          "url": "https://open.spotify.com/artist/65jIUih0ZeTUJhSTRuYxpi"
-        }
-      ],
-      "duration_ms": 157440,
-      "name": "La Nueva Pandemia",
-      "url": "https://open.spotify.com/track/6BCzIewMNsznhUB78Z6gLL"
-    },
-    {
-      "added_at": "2022-07-15 04:01:00",
-      "album": {
         "name": "PUNKDEMIA",
         "url": "https://open.spotify.com/album/0XMJsTzaZzW3AaztVZbb6f"
       },
@@ -1915,6 +1899,22 @@
       "duration_ms": 231578,
       "name": "TONYTHEKID",
       "url": "https://open.spotify.com/track/0ccrr003grgY0CwolxfqiE"
+    },
+    {
+      "added_at": "2022-07-15 04:01:00",
+      "album": {
+        "name": "La Nueva Pandemia",
+        "url": "https://open.spotify.com/album/5l3tjSHsjgNudTV5a5Gx07"
+      },
+      "artists": [
+        {
+          "name": "Omy de Oro",
+          "url": "https://open.spotify.com/artist/65jIUih0ZeTUJhSTRuYxpi"
+        }
+      ],
+      "duration_ms": 157440,
+      "name": "La Nueva Pandemia",
+      "url": "https://open.spotify.com/track/6BCzIewMNsznhUB78Z6gLL"
     },
     {
       "added_at": "2022-07-15 04:01:00",
@@ -2459,26 +2459,6 @@
     {
       "added_at": "2022-07-15 04:01:00",
       "album": {
-        "name": "Mucho Brillo",
-        "url": "https://open.spotify.com/album/3cXFSV6uBvPOv3H16IDg4k"
-      },
-      "artists": [
-        {
-          "name": "Hozwal",
-          "url": "https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2"
-        },
-        {
-          "name": "Casper Magico",
-          "url": "https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno"
-        }
-      ],
-      "duration_ms": 232975,
-      "name": "Mucho Brillo",
-      "url": "https://open.spotify.com/track/3REVYw7xBn8zWLDhjpoY2P"
-    },
-    {
-      "added_at": "2022-07-15 04:01:00",
-      "album": {
         "name": "Asesino (feat. Puri)",
         "url": "https://open.spotify.com/album/6Hs1A0vzKFvnHn6I7Fe0Vl"
       },
@@ -2503,6 +2483,26 @@
       "duration_ms": 166400,
       "name": "Asesino (feat. Puri)",
       "url": "https://open.spotify.com/track/2BsAjEvuw3PBoRr1T83hdH"
+    },
+    {
+      "added_at": "2022-07-15 04:01:00",
+      "album": {
+        "name": "Mucho Brillo",
+        "url": "https://open.spotify.com/album/3cXFSV6uBvPOv3H16IDg4k"
+      },
+      "artists": [
+        {
+          "name": "Hozwal",
+          "url": "https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2"
+        },
+        {
+          "name": "Casper Magico",
+          "url": "https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno"
+        }
+      ],
+      "duration_ms": 232975,
+      "name": "Mucho Brillo",
+      "url": "https://open.spotify.com/track/3REVYw7xBn8zWLDhjpoY2P"
     },
     {
       "added_at": "2022-07-15 04:01:00",
@@ -2567,18 +2567,18 @@
     {
       "added_at": "2022-07-15 04:01:00",
       "album": {
-        "name": "Para Ti",
-        "url": "https://open.spotify.com/album/6qdfXJmZK59M1KzJikGOdH"
+        "name": "Cuanto tiempo pas\u00f3",
+        "url": "https://open.spotify.com/album/4uYdQ4yjyf02M9oUeQ8wXd"
       },
       "artists": [
         {
-          "name": "LASTMONDAY",
-          "url": "https://open.spotify.com/artist/7x3VJT4Tm32G8l0fquiayN"
+          "name": "Yoiker",
+          "url": "https://open.spotify.com/artist/6Hg8CIS6vJg7gUi4kTzJEJ"
         }
       ],
-      "duration_ms": 165941,
-      "name": "Para Ti",
-      "url": "https://open.spotify.com/track/6wAtZ3IHvs4Uc41A2pKUYg"
+      "duration_ms": 193714,
+      "name": "Cuanto tiempo pas\u00f3",
+      "url": "https://open.spotify.com/track/7ix78YkXvHRpCpxy2V943y"
     },
     {
       "added_at": "2022-07-15 04:01:00",
@@ -2603,18 +2603,18 @@
     {
       "added_at": "2022-07-15 04:01:00",
       "album": {
-        "name": "Cuanto tiempo pas\u00f3",
-        "url": "https://open.spotify.com/album/4uYdQ4yjyf02M9oUeQ8wXd"
+        "name": "Para Ti",
+        "url": "https://open.spotify.com/album/6qdfXJmZK59M1KzJikGOdH"
       },
       "artists": [
         {
-          "name": "Yoiker",
-          "url": "https://open.spotify.com/artist/6Hg8CIS6vJg7gUi4kTzJEJ"
+          "name": "LASTMONDAY",
+          "url": "https://open.spotify.com/artist/7x3VJT4Tm32G8l0fquiayN"
         }
       ],
-      "duration_ms": 193714,
-      "name": "Cuanto tiempo pas\u00f3",
-      "url": "https://open.spotify.com/track/7ix78YkXvHRpCpxy2V943y"
+      "duration_ms": 165941,
+      "name": "Para Ti",
+      "url": "https://open.spotify.com/track/6wAtZ3IHvs4Uc41A2pKUYg"
     },
     {
       "added_at": "2022-07-15 04:01:00",
@@ -2771,6 +2771,22 @@
     {
       "added_at": "2022-07-15 04:01:00",
       "album": {
+        "name": "WINDSTAR",
+        "url": "https://open.spotify.com/album/1tTuLYOj4SHnBY9uxRKuAq"
+      },
+      "artists": [
+        {
+          "name": "Delfina Dib",
+          "url": "https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ"
+        }
+      ],
+      "duration_ms": 170232,
+      "name": "WINDSTAR",
+      "url": "https://open.spotify.com/track/1sTAidnhAkNB8E9WSoAlyX"
+    },
+    {
+      "added_at": "2022-07-15 04:01:00",
+      "album": {
         "name": "Snoop Dogg Presents Algorithm (Global Edition)",
         "url": "https://open.spotify.com/album/7byrahgNLbCzZgp9w5WBxW"
       },
@@ -2795,22 +2811,6 @@
       "duration_ms": 261427,
       "name": "Alright (Redman & Method Man feat. Nefertitti Avani & Aczino) - The Global Edition",
       "url": "https://open.spotify.com/track/4630a83q65ICS937fvWzVs"
-    },
-    {
-      "added_at": "2022-07-15 04:01:00",
-      "album": {
-        "name": "WINDSTAR",
-        "url": "https://open.spotify.com/album/1tTuLYOj4SHnBY9uxRKuAq"
-      },
-      "artists": [
-        {
-          "name": "Delfina Dib",
-          "url": "https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ"
-        }
-      ],
-      "duration_ms": 170232,
-      "name": "WINDSTAR",
-      "url": "https://open.spotify.com/track/1sTAidnhAkNB8E9WSoAlyX"
     },
     {
       "added_at": "2022-07-15 04:01:00",
@@ -2915,26 +2915,6 @@
     {
       "added_at": "2022-07-15 04:01:00",
       "album": {
-        "name": "Tiempo",
-        "url": "https://open.spotify.com/album/1VYiYEBzYeDIZLQnWZ3BkX"
-      },
-      "artists": [
-        {
-          "name": "Delfina Dib",
-          "url": "https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ"
-        },
-        {
-          "name": "Hi-Kymon",
-          "url": "https://open.spotify.com/artist/16WCvOujBHZJ3jKoLRpWKb"
-        }
-      ],
-      "duration_ms": 161088,
-      "name": "Tiempo",
-      "url": "https://open.spotify.com/track/3g4eSj0nOYjsYSq8D5B4yO"
-    },
-    {
-      "added_at": "2022-07-15 04:01:00",
-      "album": {
         "name": "Ozono",
         "url": "https://open.spotify.com/album/10siYSoduw7MAtda4VnFnf"
       },
@@ -2971,6 +2951,26 @@
       "duration_ms": 203636,
       "name": "Chamaco",
       "url": "https://open.spotify.com/track/60uczky2ly2eD9ZKomPwzV"
+    },
+    {
+      "added_at": "2022-07-15 04:01:00",
+      "album": {
+        "name": "Tiempo",
+        "url": "https://open.spotify.com/album/1VYiYEBzYeDIZLQnWZ3BkX"
+      },
+      "artists": [
+        {
+          "name": "Delfina Dib",
+          "url": "https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ"
+        },
+        {
+          "name": "Hi-Kymon",
+          "url": "https://open.spotify.com/artist/16WCvOujBHZJ3jKoLRpWKb"
+        }
+      ],
+      "duration_ms": 161088,
+      "name": "Tiempo",
+      "url": "https://open.spotify.com/track/3g4eSj0nOYjsYSq8D5B4yO"
     },
     {
       "added_at": "2022-07-15 04:01:00",

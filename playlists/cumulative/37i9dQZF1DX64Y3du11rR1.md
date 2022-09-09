@@ -4,7 +4,7 @@
 
 > Acoustic covers of sad songs.
 
-115 songs - 6 hr 36 min - [published](https://open.spotify.com/playlist/3UOxMZybHjvo9OE7cF0Mll)
+116 songs - 6 hr 39 min - [published](https://open.spotify.com/playlist/3UOxMZybHjvo9OE7cF0Mll)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [When You're Gone](https://open.spotify.com/track/0lb4xFpIZwoLy9ZTmVc7vN) | [Megan Davies](https://open.spotify.com/artist/09kCHZp9iFO2FJNb9lR6G5), [Jaclyn Davies](https://open.spotify.com/artist/5MKHjGZGjZ7mZV0JPs9iot) | [When You're Gone](https://open.spotify.com/album/178nQkf8AbR0J3c3LgE8VV) | 3:19 | 2022-09-05 |  |
 | [Why Can't This Be Love \- Acoustic](https://open.spotify.com/track/6xbrXbl246JZgrMqmmnFiC) | [April Jai](https://open.spotify.com/artist/2TUSOcgYseNtC3VosDywhQ) | [Live Under the Alcove \(Acoustic\)](https://open.spotify.com/album/1eJDIxSvFENwf7w02NSmVy) | 3:48 | 2022-06-15 |  |
 | [Wicked Game](https://open.spotify.com/track/43erP1lTeQCAmuMDkv7MJE) | [Devon Seyward](https://open.spotify.com/artist/3rZmhQbGFDJAuESLPD5YwQ) | [Soft Acoustic Covers Playlist](https://open.spotify.com/album/0PB10Fldgm3UT2Pw0GXYZF) | 3:58 | 2021-12-22 | 2022-06-16 |
+| [Wicked Game](https://open.spotify.com/track/4WW5jLs5WXLE5YoRBoju0p) | [Marcus & Martinus](https://open.spotify.com/artist/3N4FiTxpPQRsrihmTMN349) | [Wicked Game](https://open.spotify.com/album/0zH3SHiGlCJWDJ3iwPAoqD) | 2:29 | 2022-09-05 |  |
 | [Wish You Were Here](https://open.spotify.com/track/6Hm8qbvIicqaQmAWyevlda) | [The Milk Carton Kids](https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg) | [Wish You Were Here](https://open.spotify.com/album/6dGngnY6ND7aoag5IGkx9C) | 4:45 | 2021-12-22 |  |
 | [Without Me](https://open.spotify.com/track/3HOcPWc2LUUv5te756KfAH) | [Brandon Chase](https://open.spotify.com/artist/3qXWWITvZcTD1M2QmXszJK) | [Without Me](https://open.spotify.com/album/0z10WtX0Ex2wZ00GKPZeeY) | 3:22 | 2021-12-22 |  |
 | [Wonderwall](https://open.spotify.com/track/3YFNoWIYjbSIsvUBWrCgqq) | [OSIS](https://open.spotify.com/artist/3y4Zdm8q9efdnD8LC7Ryea) | [Wonderwall](https://open.spotify.com/album/19mcR8eRojfUN67K8jF64h) | 2:24 | 2022-06-15 |  |

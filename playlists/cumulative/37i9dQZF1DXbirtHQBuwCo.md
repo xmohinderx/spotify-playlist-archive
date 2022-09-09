@@ -2,9 +2,9 @@
 
 ### [TrenChill K\-R&B](https://open.spotify.com/playlist/37i9dQZF1DXbirtHQBuwCo)
 
-> Trendy & Chill 한국 R&B\. Be laid\-back with groovy K\-R&B\. \(Cover: KAIAVANT\)
+> Trendy & Chill 한국 R&B\. Be laid\-back with groovy K\-R&B\. \(Cover: SOLE\(쏠\)\)
 
-401 songs - 21 hr 55 min - [published](https://open.spotify.com/playlist/3joqGbdyT1iJwODdo3szax)
+402 songs - 21 hr 58 min - [published](https://open.spotify.com/playlist/3joqGbdyT1iJwODdo3szax)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Alright!](https://open.spotify.com/track/667jaqJRDzuPxumZyNhOwu) | [Juju B\. Goode](https://open.spotify.com/artist/5PLxgBMZxMf8px0EfhgOiY), [HOHYUN](https://open.spotify.com/artist/15QTZYWWbRmiII0wpKIAmu) | [Alright!](https://open.spotify.com/album/0O6RkM76lLkKaY2HhbdGwO) | 3:04 | 2022-04-19 | 2022-07-25 |
 | [Always Here](https://open.spotify.com/track/6SWxLW8d1PyRy8yIi0kBlP) | [Joosiq](https://open.spotify.com/artist/66pTbLwtaCUvT64JA8zXZh), [Im Soo](https://open.spotify.com/artist/6fprh9M0YJWsTYBlvbfcwn) | [Always Here](https://open.spotify.com/album/0JeDwEKriOIGuIlk6HsPOP) | 3:34 | 2022-06-23 | 2022-06-30 |
 | [Amoo\-rae\-do](https://open.spotify.com/track/0P2ZMsx0ZSORtoAltJje1B) | [COCONA](https://open.spotify.com/artist/5UukZH6jYHqTwLSSWGj7FN) | [Amoo\-rae\-do](https://open.spotify.com/album/5javGGT9UBP0kc0ayoWCGP) | 1:48 | 2022-05-11 | 2022-05-29 |
-| [Amusement Park](https://open.spotify.com/track/1TUkEXQrskATO9SoB4QMUN) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Amusement Park](https://open.spotify.com/album/1azcqabc4kDgRNMWFA02wZ) | 4:16 | 2022-04-21 |  |
+| [Amusement Park](https://open.spotify.com/track/1TUkEXQrskATO9SoB4QMUN) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Amusement Park](https://open.spotify.com/album/1azcqabc4kDgRNMWFA02wZ) | 4:16 | 2022-04-21 | 2022-09-09 |
 | [Anniversary](https://open.spotify.com/track/2m0SbQ7CHTGNIsL3XUHyOh) | [Artinb](https://open.spotify.com/artist/5t7WiBzx4KeS4VZg9dZ6Kp) | [Anniversary](https://open.spotify.com/album/39tkZG9vhYL6fckCwRo340) | 2:22 | 2022-04-19 | 2022-04-21 |
 | [Another Day](https://open.spotify.com/track/3X2hc7RCVAs3cswv1FvuUP) | [GSoul](https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL) | [Natural](https://open.spotify.com/album/2yOqQbBoXX0nNPBqts1dmZ) | 3:01 | 2022-06-10 | 2022-06-12 |
 | [Answer](https://open.spotify.com/track/5DFVWocetuRnKhy7WjO8Ht) | [homezone](https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK) | [Answer](https://open.spotify.com/album/1bUlMzOPjvgiCWDfAzKD3r) | 3:44 | 2022-04-21 | 2022-07-26 |
@@ -63,7 +63,7 @@
 | [Blue](https://open.spotify.com/track/2s4pzQWSxqfOcMauQ2dMcW) | [KAI](https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak) | [Peaches \- The 2nd Mini Album](https://open.spotify.com/album/1meyTrwRpRw7RnD8aoFfj0) | 3:00 | 2022-04-22 | 2022-09-06 |
 | [Bonnie & Clyde](https://open.spotify.com/track/2395WKvJwfuqPBgsyC5k9C) | [DeVita](https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B) | [American Gothic](https://open.spotify.com/album/6e7McZxhV5in98Ai5gTfnJ) | 3:12 | 2022-04-19 | 2022-07-29 |
 | [Broken Love](https://open.spotify.com/track/5I3YKXTo2b6L1IFq8nwtfe) | [GEMINI](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj) | [Going](https://open.spotify.com/album/4yA4rbocHJnZuDoDiSVD3A) | 2:53 | 2022-04-19 | 2022-07-27 |
-| [Broken Love](https://open.spotify.com/track/6GehOJs060WzAi78QArj7p) | [GEMINI](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj) | [Going](https://open.spotify.com/album/0JXdR9FB4e1Bb6eCPcC3rd) | 2:53 | 2022-08-02 | 2022-09-06 |
+| [Broken Love](https://open.spotify.com/track/6GehOJs060WzAi78QArj7p) | [GEMINI](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj) | [Going](https://open.spotify.com/album/0JXdR9FB4e1Bb6eCPcC3rd) | 2:53 | 2022-08-02 |  |
 | [Butterfly \(feat\. Oceanfromtheblue\)](https://open.spotify.com/track/1P9ztAUu6vrOdZ0Mr8lxWp) | [Jiselle](https://open.spotify.com/artist/6tjbcCaexKI8esvvEZPVnt), [oceanfromtheblue](https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a) | [Therapy Session](https://open.spotify.com/album/2hp1xdmCKrjVdAodJjDVgO) | 3:46 | 2022-09-06 |  |
 | [Butterfly Effect \(Feat\. nobody likes you pat, Emily Brophy\)](https://open.spotify.com/track/5pYfDCKYjiWHJcIZIiCcDP) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [nobody likes you pat](https://open.spotify.com/artist/7pxMZWBZWMMRH3USeGtu1I), [Emily Brophy](https://open.spotify.com/artist/3wjB0noN1ulMz4RCU4kNG3) | [A Thousand Miles](https://open.spotify.com/album/2c7wTvGT6ioIBKL3UrSGrd) | 2:27 | 2022-04-19 | 2022-07-28 |
 | [By My Side](https://open.spotify.com/track/6HKKRjm2C9QcAgy5ayOtqk) | [GSoul](https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL) | [Natural](https://open.spotify.com/album/2yOqQbBoXX0nNPBqts1dmZ) | 2:59 | 2022-06-29 | 2022-07-05 |
@@ -338,6 +338,7 @@
 | [Square \(2017\)](https://open.spotify.com/track/13On7DYsJ3IrWxBWuOwM8t) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Every letter I sent you.](https://open.spotify.com/album/20hW2P3VSNJ1A7MwjIJ0Up) | 4:21 | 2022-08-02 | 2022-09-06 |
 | [stay home](https://open.spotify.com/track/6bLwL9kTb0CyfI9cCXJ709) | [G\. Nine](https://open.spotify.com/artist/6KyAMbfO1f5yIQjh9WWYDa) | [home doesn't feel like home](https://open.spotify.com/album/6GRm8QuUULXwczhB4KwLZB) | 3:14 | 2022-09-05 | 2022-09-07 |
 | [Step!](https://open.spotify.com/track/6UqGjOs7CS991n848bipBC) | [Hippo](https://open.spotify.com/artist/6o2llz8JozEXnyRq3XdJY1) | [Step!](https://open.spotify.com/album/6m60vpr7y4UA8NmTow50GJ) | 3:17 | 2022-07-24 | 2022-07-28 |
+| [still beautiful](https://open.spotify.com/track/5MsPHSEHfSZnxgaJDnEdI6) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [still beautiful](https://open.spotify.com/album/6R1xUiVm1iCwZP2TQtimIn) | 3:45 | 2022-09-08 |  |
 | [Stupid \(feat\. Amin & H!\)](https://open.spotify.com/track/6tgPZHN5aSPU3IFxcG7V6r) | [merrymerryseoul](https://open.spotify.com/artist/5vePfIx5trgioIznzp2cuy), [amin](https://open.spotify.com/artist/05FbaV2QkbVQoHri4l491N), [H!](https://open.spotify.com/artist/3gVpUJcNNDu43pV4xlzmyJ) | [Weekday is long, Weekend is gone](https://open.spotify.com/album/2P4txqRH8hlDQLBoMnXlIl) | 2:55 | 2022-07-04 | 2022-07-15 |
 | [SUGAR](https://open.spotify.com/track/4WFTVcLuQuQlzzO8aS4iRM) | [Youngjae](https://open.spotify.com/artist/5qUAtC3NwSLYme4JqjlGfQ) | [SUGAR](https://open.spotify.com/album/5kmy3uN2XugLp8DLoL48ef) | 3:06 | 2022-07-27 | 2022-08-25 |
 | [Sugardance](https://open.spotify.com/track/3yq1iV9RwejrwebPyWnh6B) | [Milena](https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n) | [Sweeet](https://open.spotify.com/album/7Io0qmAUvOmpo6pVGSFiIl) | 2:57 | 2022-08-12 | 2022-08-19 |
@@ -397,7 +398,7 @@
 | [Wildfire](https://open.spotify.com/track/3vsfL1GdEMvoUs59KERxPx) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [There And Back Again](https://open.spotify.com/album/643X6WW2ijEwMLaNjp1dk1) | 3:16 | 2022-04-19 | 2022-07-06 |
 | [Winter blossom](https://open.spotify.com/track/1ynuDDHKN7P7fmJEljdCLd) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Ashley Alisha](https://open.spotify.com/artist/63P6hjn73jNbnEFT0gKWKk), [nobody likes you pat](https://open.spotify.com/artist/7pxMZWBZWMMRH3USeGtu1I) | [Spring in Winter](https://open.spotify.com/album/3J9hWyRg3THDctWGtQOgLE) | 2:48 | 2022-04-19 |  |
 | [Wish You Were Here](https://open.spotify.com/track/0ck9OBdibazBRrYqIwqEJk) | [CL](https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3) | [Wish You Were Here](https://open.spotify.com/album/16W36ygiBLxI7df9XQgPov) | 3:41 | 2022-04-19 | 2022-07-22 |
-| [Woo hoo \(Feat\. Kid Milli\)](https://open.spotify.com/track/50JEzNr75B90UaYXZvCuaT) | [KAIAVANT](https://open.spotify.com/artist/2xTSAzEj9nYkoVr2nptxFe), [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J) | [Piece of space](https://open.spotify.com/album/38F3lt1f20fXN4paz2XF2X) | 4:05 | 2022-08-31 |  |
+| [Woo hoo \(Feat\. Kid Milli\)](https://open.spotify.com/track/50JEzNr75B90UaYXZvCuaT) | [KAIAVANT](https://open.spotify.com/artist/2xTSAzEj9nYkoVr2nptxFe), [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J) | [Piece of space](https://open.spotify.com/album/38F3lt1f20fXN4paz2XF2X) | 4:05 | 2022-08-31 | 2022-09-09 |
 | [you got me!](https://open.spotify.com/track/4rBJvWScyzNrA7eFQVUDpU) | [heyden](https://open.spotify.com/artist/2ZIDhUnok7DtASQi5blDnE) | [you got me!](https://open.spotify.com/album/2TUXs8m5C46sv5HhvOxeOe) | 3:14 | 2022-04-19 | 2022-04-21 |
 | [you won't be there for me](https://open.spotify.com/track/7vwhqiIfU8HqXhNgyy8ubR) | [slchld](https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O) | [you won't be there for me](https://open.spotify.com/album/16ZA1WX64YWVXiun8tP8n5) | 3:02 | 2022-04-19 |  |
 | [Your Dog Loves You](https://open.spotify.com/track/2XdyebP7KxClMOse2C5iyA) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Your Dog Loves You](https://open.spotify.com/album/2v90Yfew0Ajn5tXzxVhixI) | 4:30 | 2022-04-22 | 2022-06-28 |

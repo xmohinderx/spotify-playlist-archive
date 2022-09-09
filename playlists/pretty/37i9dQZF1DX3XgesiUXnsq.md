@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XgesiUXnsq.md) - [plain]
 
 > Damn son, where'd ya find this? Cover: JID
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,751 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,201 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XgesiUXnsq.md) - [plain]
 | 50 | [Derrick Boleman](https://open.spotify.com/track/3JfFSMEAvNXwYc1ALels24) | [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW) | [Peace "Fly" God](https://open.spotify.com/album/6pDbaWwmHYv6Hr075nfcer) | 3:34 |
 | 51 | [Figure of Speech](https://open.spotify.com/track/2NSq58JxsJE1k7h6BVeDDQ) | [Freddy Printz](https://open.spotify.com/artist/15L89B5Jg0z67nBZZxDH36) | [The Candidate](https://open.spotify.com/album/6b2SU7BJlvf0bAZyb7e9bw) | 2:14 |
 | 52 | [Hip\-Hop is ALIVE](https://open.spotify.com/track/23T26Qiti3zwHaOvUMeoPv) | [Lu\-Kusa Woe](https://open.spotify.com/artist/5DGeTDECSuzKX8gn0hccZE) | [Hip\-Hop is ALIVE](https://open.spotify.com/album/06fgXNwzi63bbWwVtzGpa6) | 2:04 |
-| 53 | [Song 32](https://open.spotify.com/track/7GWAIzOmt5iznpu8RbSiSI) | [Noname](https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy) | [Song 32](https://open.spotify.com/album/7eVx4XXwY3KrIPGRrW66UI) | 2:42 |
+| 53 | [Song 32](https://open.spotify.com/track/6kqdiU8tYIznmQ7T0Lzlzx) | [Noname](https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy) | [Song 32](https://open.spotify.com/album/6w9HzF9t5hxwaPIRZNECFN) | 2:42 |
 | 54 | [Menace](https://open.spotify.com/track/1xX6wr2lEHsDmR72AFN0Hx) | [Lloyd Banks](https://open.spotify.com/artist/3vDUJHQtqT3jFRZ2ECXDTi), [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS) | [Menace](https://open.spotify.com/album/3NHMwyxXdUe3TiIu9CNtWg) | 3:49 |
 | 55 | [Last Call \(Reg's Voicemail\)](https://open.spotify.com/track/7odhYEbktZ14tkDQabTiWX) | [Realcityfame](https://open.spotify.com/artist/5aGiv8WaosuW2FA3CQyul3), [RegSounds](https://open.spotify.com/artist/7o4Xk7xOkXMYZsvecMu8Ej) | [Pain In The City](https://open.spotify.com/album/3DNyLS7YfWoYY4W8B1jKEb) | 3:45 |
 | 56 | [First Draft](https://open.spotify.com/track/1gV4nzrOIwI93qOUm9SLMq) | [Sorce Manifesto](https://open.spotify.com/artist/0T3x8z9gnLxPU2vS1lNOZw) | [Shoot The Breeze](https://open.spotify.com/album/50ZovZU8jHG6qhNg5qjCog) | 4:26 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XgesiUXnsq.md) - [plain]
 | 99 | [Note To Self \(Feat\. Big Sean, Wale, Joey Bada$$ & Hitboy\)](https://open.spotify.com/track/5GSUrmDtxynQhBDLz7X2Mt) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [CHOMP 2](https://open.spotify.com/album/6a1EFm7L9Nl1wTm7JsrYBK) | 5:23 |
 | 100 | [family ties \(with Kendrick Lamar\)](https://open.spotify.com/track/7Bpx2vsWfQFBACRz4h3IqH) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [family ties \(with Kendrick Lamar\)](https://open.spotify.com/album/3HqmX8hGcbbQZODgayNEYx) | 4:12 |
 
-Snapshot ID: `MTY2MjA5MTMyMCwwMDAwMDAwMDI3MmUwNTk2MGFhMzA3NjM0NmFjNGM5MmU4Njg1Mjll`
+Snapshot ID: `MTY2MjA5MTMyMCwwMDAwMDAwMDQ4MGQyMGM4YTFkMDQ0MGVlNjMxODJmZTg5NzBlYzk1`

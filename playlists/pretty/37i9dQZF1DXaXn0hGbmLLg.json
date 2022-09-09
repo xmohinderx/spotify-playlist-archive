@@ -1,12 +1,12 @@
 {
   "description": "Women at full volume! Luister naar muziek van vrouwen uit Nederland. Cover: Sigourney K",
-  "num_followers": 4700,
+  "num_followers": 4778,
   "original_name": "EQUAL Netherlands",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjUwMTYwMCwwMDAwMDAwMGUwOTQxMjIwNGNiODAxNGQ1ZWIwZTAwNjU5N2QwMmE5",
+  "snapshot_id": "MTY2MjY0NzAxMSwwMDAwMDAwMGM4MDNiN2VjMjhkMzAxNWM4OGY3NTZkYTZkZmY3N2Fh",
   "tracks": [
     {
       "added_at": "2022-09-06 22:00:00",
@@ -23,22 +23,6 @@
       "duration_ms": 156273,
       "name": "IFHJ",
       "url": "https://open.spotify.com/track/4QdTBFM7VsIu84jfCxVMsv"
-    },
-    {
-      "added_at": "2022-09-06 22:00:00",
-      "album": {
-        "name": "Willing",
-        "url": "https://open.spotify.com/album/1m4Kz1bpTdiWxnPkCsqpNL"
-      },
-      "artists": [
-        {
-          "name": "Ilse DeLange",
-          "url": "https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx"
-        }
-      ],
-      "duration_ms": 175819,
-      "name": "Willing",
-      "url": "https://open.spotify.com/track/0OafQ7UgVmjYeJQEMQpJma"
     },
     {
       "added_at": "2022-09-06 22:00:00",
@@ -95,22 +79,6 @@
     {
       "added_at": "2022-09-06 22:00:00",
       "album": {
-        "name": "Beste Zangers 2022 (Aflevering 3 - Claudia de Breij)",
-        "url": "https://open.spotify.com/album/3N6M1Br8m4xFffGO8zQRpZ"
-      },
-      "artists": [
-        {
-          "name": "Sarita Lorena",
-          "url": "https://open.spotify.com/artist/5V9JsrZb5RjuvbzvJsA5gp"
-        }
-      ],
-      "duration_ms": 222442,
-      "name": "Mag Ik Dan Bij Jou",
-      "url": "https://open.spotify.com/track/4SsM2A4B5XF6IXG6zbWWjo"
-    },
-    {
-      "added_at": "2022-09-06 22:00:00",
-      "album": {
         "name": "Did Enough",
         "url": "https://open.spotify.com/album/2UoPpnuwA2vT59iIau6NCw"
       },
@@ -127,6 +95,38 @@
       "duration_ms": 203500,
       "name": "Did Enough",
       "url": "https://open.spotify.com/track/2LW0utR6fTwfjPhnz1XbOW"
+    },
+    {
+      "added_at": "2022-09-06 22:00:00",
+      "album": {
+        "name": "Maak Me Wakker",
+        "url": "https://open.spotify.com/album/53VH3uqqSRPytTighOyber"
+      },
+      "artists": [
+        {
+          "name": "Bente",
+          "url": "https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e"
+        }
+      ],
+      "duration_ms": 195500,
+      "name": "Maak Me Wakker",
+      "url": "https://open.spotify.com/track/4nhOb1kGcSzjuzlP8nU6RI"
+    },
+    {
+      "added_at": "2022-09-06 22:00:00",
+      "album": {
+        "name": "Willing",
+        "url": "https://open.spotify.com/album/1m4Kz1bpTdiWxnPkCsqpNL"
+      },
+      "artists": [
+        {
+          "name": "Ilse DeLange",
+          "url": "https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx"
+        }
+      ],
+      "duration_ms": 175819,
+      "name": "Willing",
+      "url": "https://open.spotify.com/track/0OafQ7UgVmjYeJQEMQpJma"
     },
     {
       "added_at": "2022-09-06 22:00:00",
@@ -159,6 +159,22 @@
       "duration_ms": 178512,
       "name": "Santorini",
       "url": "https://open.spotify.com/track/3RUK1vW1QiHHmmRc0SdXID"
+    },
+    {
+      "added_at": "2022-09-06 22:00:00",
+      "album": {
+        "name": "Beste Zangers 2022 (Aflevering 3 - Claudia de Breij)",
+        "url": "https://open.spotify.com/album/3N6M1Br8m4xFffGO8zQRpZ"
+      },
+      "artists": [
+        {
+          "name": "Sarita Lorena",
+          "url": "https://open.spotify.com/artist/5V9JsrZb5RjuvbzvJsA5gp"
+        }
+      ],
+      "duration_ms": 222442,
+      "name": "Mag Ik Dan Bij Jou",
+      "url": "https://open.spotify.com/track/4SsM2A4B5XF6IXG6zbWWjo"
     },
     {
       "added_at": "2022-09-06 22:00:00",
@@ -243,22 +259,6 @@
       "duration_ms": 190093,
       "name": "NOTIFY ME",
       "url": "https://open.spotify.com/track/1NgOVrJq0ImYvVkg3TPfgU"
-    },
-    {
-      "added_at": "2022-09-06 22:00:00",
-      "album": {
-        "name": "Maak Me Wakker",
-        "url": "https://open.spotify.com/album/53VH3uqqSRPytTighOyber"
-      },
-      "artists": [
-        {
-          "name": "Bente",
-          "url": "https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e"
-        }
-      ],
-      "duration_ms": 195500,
-      "name": "Maak Me Wakker",
-      "url": "https://open.spotify.com/track/4nhOb1kGcSzjuzlP8nU6RI"
     },
     {
       "added_at": "2022-09-06 22:00:00",
@@ -487,8 +487,8 @@
     {
       "added_at": "2022-09-06 22:00:00",
       "album": {
-        "name": "Beste Zangers 2022 (Roxeanne Hazes)",
-        "url": "https://open.spotify.com/album/3ZGmm4UXBt7vkvSLAQYB65"
+        "name": "Vannacht",
+        "url": "https://open.spotify.com/album/54fucRozUfdTF8glsggqwl"
       },
       "artists": [
         {
@@ -498,7 +498,31 @@
       ],
       "duration_ms": 181248,
       "name": "Vannacht",
-      "url": "https://open.spotify.com/track/6qpvHSFjsFSNl2Q8PwwoyL"
+      "url": "https://open.spotify.com/track/6BqAwGauiyivtf93NNkLJm"
+    },
+    {
+      "added_at": "2022-09-06 22:00:00",
+      "album": {
+        "name": "Just Wanna Feel",
+        "url": "https://open.spotify.com/album/7F3BmIZayApm1uS24xpxZv"
+      },
+      "artists": [
+        {
+          "name": "D-Rashid",
+          "url": "https://open.spotify.com/artist/3BAbtGcpq9F6a7TJyw9krT"
+        },
+        {
+          "name": "Kya",
+          "url": "https://open.spotify.com/artist/4C9S9vrrPc9RWGeA5X9jAr"
+        },
+        {
+          "name": "Numidia",
+          "url": "https://open.spotify.com/artist/3OMZaRPVE5OI1IkDbZFBFU"
+        }
+      ],
+      "duration_ms": 154177,
+      "name": "Just Wanna Feel",
+      "url": "https://open.spotify.com/track/4IW0g4IEw4wbe6hn1Ipqpt"
     },
     {
       "added_at": "2022-09-06 22:00:00",
@@ -551,30 +575,6 @@
       "duration_ms": 181851,
       "name": "Perfume",
       "url": "https://open.spotify.com/track/4ZzSKjGAmoisC72waRx1mM"
-    },
-    {
-      "added_at": "2022-09-06 22:00:00",
-      "album": {
-        "name": "Just Wanna Feel",
-        "url": "https://open.spotify.com/album/7F3BmIZayApm1uS24xpxZv"
-      },
-      "artists": [
-        {
-          "name": "D-Rashid",
-          "url": "https://open.spotify.com/artist/3BAbtGcpq9F6a7TJyw9krT"
-        },
-        {
-          "name": "Kya",
-          "url": "https://open.spotify.com/artist/4C9S9vrrPc9RWGeA5X9jAr"
-        },
-        {
-          "name": "Numidia",
-          "url": "https://open.spotify.com/artist/3OMZaRPVE5OI1IkDbZFBFU"
-        }
-      ],
-      "duration_ms": 154177,
-      "name": "Just Wanna Feel",
-      "url": "https://open.spotify.com/track/4IW0g4IEw4wbe6hn1Ipqpt"
     },
     {
       "added_at": "2022-09-06 22:00:00",

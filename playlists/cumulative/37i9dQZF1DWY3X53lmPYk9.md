@@ -2,9 +2,9 @@
 
 ### [Peaceful Jazz Piano](https://open.spotify.com/playlist/37i9dQZF1DWY3X53lmPYk9)
 
-> Soft and gentle piano interpretations of jazz classics.
+> Soft and gentle piano interpretations of Jazz classics.
 
-157 songs - 9 hr 24 min - [published](https://open.spotify.com/playlist/6xTqxAHYGsV8fLb86hItpW)
+159 songs - 9 hr 31 min - [published](https://open.spotify.com/playlist/6xTqxAHYGsV8fLb86hItpW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Afternoon in Paris](https://open.spotify.com/track/6wg1hOAb1YFirCPxwpzDLm) | [John Lewis](https://open.spotify.com/artist/7G7zZjjTwBZ9vzaoogk95s) | [Evolution](https://open.spotify.com/album/50z6YJO0bAitRnyd2gvJlI) | 5:10 | 2021-12-14 | 2022-05-04 |
 | [Alfie](https://open.spotify.com/track/0hM1KJAmxzankL3lgogyxf) | [Dennis Riley\-Jones](https://open.spotify.com/artist/5x35NpbnjiEoY5sntHQLgr) | [Alfie](https://open.spotify.com/album/5Utoepi0mubUEicgDq7WnY) | 2:43 | 2022-03-10 |  |
 | [All The Things You Are](https://open.spotify.com/track/11Bap5k9jpMjBbqQA9gSez) | [Leslie North](https://open.spotify.com/artist/5szgdDciMINkEQk9KbWkGj) | [My Favorite Things](https://open.spotify.com/album/5cuc2ZYIENDkCfUUytmZ4R) | 3:12 | 2021-12-14 |  |
+| [Almost Like Being In Love](https://open.spotify.com/track/4JceM4LWSSUzGpy4SAUvY5) | [Maxence Capoue](https://open.spotify.com/artist/67haUq5f5DHveaHN9u4vmy) | [Almost Like Being In Love](https://open.spotify.com/album/67oPqr2P9tzmMLNsa6Y4wb) | 2:38 | 2022-09-08 |  |
 | [Angel Eyes](https://open.spotify.com/track/3xy6OojnbfqihCYayRFXhG) | [Franco Reiss](https://open.spotify.com/artist/67WjJlQvj3PHZKkBTpVbOy) | [Angel Eyes](https://open.spotify.com/album/7Ax5m45a1FCPw7ztlGSwIb) | 3:49 | 2022-03-10 | 2022-04-27 |
 | [as time goes by](https://open.spotify.com/track/7a6iQySheFxla0uEF4tt74) | [Brandy Charles](https://open.spotify.com/artist/1m1DxePO84p5t8ocvRjlOw) | [time remembered](https://open.spotify.com/album/1DHwBA3VoKhAWoV66MQ0fY) | 3:21 | 2021-12-14 | 2022-08-18 |
 | [Ask Me Now](https://open.spotify.com/track/0Fjj6Gvywafx1n5HStRNs5) | [Daniel Hopeland](https://open.spotify.com/artist/2vrFPeJli5gfJIv5zxVwbO) | [Ask Me Now](https://open.spotify.com/album/0q9x1QQbHUsNMuSwbuvclJ) | 3:56 | 2021-12-14 |  |
@@ -127,6 +128,7 @@
 | [Somewhere Between](https://open.spotify.com/track/1Qiks2nkAG5WCpXgqclQ1f) | [Jules Pierre Gardot](https://open.spotify.com/artist/0fHTm5jbK6RV7bii71wf5G) | [Somewhere Between](https://open.spotify.com/album/2C7bCiH5a0n9uQmfntiAF8) | 3:18 | 2022-06-29 |  |
 | [Sophisticated Lady](https://open.spotify.com/track/5pu6BLvhSxvgcWYz8hbJyY) | [Alfie Walker](https://open.spotify.com/artist/4ftOemOz9fYLTulZP8ZKol) | [Sophisticated Lady](https://open.spotify.com/album/3b5NqlRzLBwJ3vckec2l93) | 3:31 | 2022-08-11 |  |
 | [Sophisticated Lady](https://open.spotify.com/track/4Ws7Bm2Nhbm83Tz4gRxpIx) | [Cedar Walton](https://open.spotify.com/artist/7DCTgrI6aDK3nBRZm5RUKT) | [Blues For Myself \(Piano Solo\)](https://open.spotify.com/album/4YZjyiz1O5rBwiz6c0VVyI) | 3:30 | 2022-01-13 | 2022-05-19 |
+| [Soul Eyes](https://open.spotify.com/track/0lBxZvvvNK40Ta3MjVzCvD) | [Dabria Martin](https://open.spotify.com/artist/5hxC2YJZBRliZhDyewZ4bG) | [Soul Eyes](https://open.spotify.com/album/433xCyuJbk1ymPZEfhuhJP) | 3:44 | 2022-09-08 |  |
 | [Soul Eyes](https://open.spotify.com/track/26Wo7WEQKKuGg4JeouLnfk) | [Penford Giles](https://open.spotify.com/artist/1dIU42U3gWRcyOT7cdNiv6) | [Soul Eyes](https://open.spotify.com/album/4viivNC5h64WwbgUg8UAFe) | 3:30 | 2022-05-10 | 2022-09-01 |
 | [Spring Can Really Hang You Up The Most](https://open.spotify.com/track/5STmaQpxC5Isvg6JNdLbzN) | [Brooklyn Smith](https://open.spotify.com/artist/0bdL8iLPL5Nj0IRvHn2kIP) | [Spring Can Really Hang You Up The Most](https://open.spotify.com/album/41Cgn5J4dGakeyUXDDgSyu) | 3:55 | 2021-12-14 |  |
 | [spring is here](https://open.spotify.com/track/1qNaAQueWsLOZswKx0zTIe) | [Matthew Simmons](https://open.spotify.com/artist/0VLnZmWurenu8BMwOR8iSF) | [The midnight sun will never set](https://open.spotify.com/album/2OyFudTG8k36YEzfScXgLQ) | 3:56 | 2021-12-14 |  |

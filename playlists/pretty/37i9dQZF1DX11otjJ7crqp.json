@@ -1,12 +1,12 @@
 {
   "description": "This week's essential new pop tracks. Cover: Charlie Puth\n",
-  "num_followers": 36306,
+  "num_followers": 36464,
   "original_name": "New Pop Picks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjA5MjA0OCwwMDAwMDAwMGMzNTAwYjlmZDRhYjBmMGJmMjIyZTk1MTkyZTMzOGNk",
+  "snapshot_id": "MTY2MjU3MDUwMiwwMDAwMDAwMDE4NzFjMTc3OTM1MDA4OGM1ODMzYzA4OWVjNTQyNjUx",
   "tracks": [
     {
       "added_at": "2022-09-02 04:14:08",
@@ -667,22 +667,6 @@
     {
       "added_at": "2022-09-02 04:00:00",
       "album": {
-        "name": "Running Up That Hill",
-        "url": "https://open.spotify.com/album/1W1WeSndlxGYxbIr2qJrik"
-      },
-      "artists": [
-        {
-          "name": "Kim Petras",
-          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
-        }
-      ],
-      "duration_ms": 288444,
-      "name": "Running Up That Hill",
-      "url": "https://open.spotify.com/track/2DOLnbsYoLcEWQXPlYlLiT"
-    },
-    {
-      "added_at": "2022-09-02 04:00:00",
-      "album": {
         "name": "Easy On My Eyes",
         "url": "https://open.spotify.com/album/6BUPtXbb2tspYnkVdg5Ef7"
       },
@@ -1051,6 +1035,30 @@
       "duration_ms": 150491,
       "name": "Every Beginning Ends",
       "url": "https://open.spotify.com/track/7lagLMBTqqOkta5eqRfNXc"
+    },
+    {
+      "added_at": "2022-09-02 04:00:00",
+      "album": {
+        "name": "Sunburn Days",
+        "url": "https://open.spotify.com/album/5IaQUiBkOujjDJf4yesPMO"
+      },
+      "artists": [
+        {
+          "name": "Wes Chiller",
+          "url": "https://open.spotify.com/artist/2Db2n5HtwOIHl77l8wlyQZ"
+        },
+        {
+          "name": "Pink Skies",
+          "url": "https://open.spotify.com/artist/52hSI2C4N5tiTqSRIvWfyV"
+        },
+        {
+          "name": "Alice Gray",
+          "url": "https://open.spotify.com/artist/6bSM7pvpb0bMWHl9ZuCIs1"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Sunburn Days",
+      "url": "https://open.spotify.com/track/7Baq4fSz0I8NTRaJXcNK9h"
     },
     {
       "added_at": "2022-09-02 04:00:00",

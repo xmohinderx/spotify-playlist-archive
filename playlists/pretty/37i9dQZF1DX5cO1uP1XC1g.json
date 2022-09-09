@@ -1,12 +1,12 @@
 {
   "description": "Top Arabic hits are right here. Cover: Elissa",
-  "num_followers": 407533,
+  "num_followers": 407899,
   "original_name": "Hot Arabic Hits - Yalla \u064a\u0644\u0627",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjE0ODg3NiwwMDAwMDAwMGUyZWEzNGNjZjU4NmJmYmM4MWFkYTY1YWU1ODI4N2Iy",
+  "snapshot_id": "MTY2MjE0ODg3NiwwMDAwMDAwMGQ1YjllMjgyOTUxNTAyMzUwODU1Mzk3Y2ZhMTUxNDNh",
   "tracks": [
     {
       "added_at": "2022-09-02 20:01:16",
@@ -619,22 +619,6 @@
     {
       "added_at": "2022-09-02 20:01:16",
       "album": {
-        "name": "Ya Fatenny",
-        "url": "https://open.spotify.com/album/4c7UeqkDVT5AZI3hN7oitj"
-      },
-      "artists": [
-        {
-          "name": "Mohamed Hamaki",
-          "url": "https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX"
-        }
-      ],
-      "duration_ms": 228853,
-      "name": "La Malama (Bonus Track)",
-      "url": "https://open.spotify.com/track/5ZsSIC9ea0OEi7gMMv7b1t"
-    },
-    {
-      "added_at": "2022-09-02 20:01:16",
-      "album": {
         "name": "Mesytara",
         "url": "https://open.spotify.com/album/26hT0T2WvH4PhIxTLrNnSw"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 168465,
       "name": "Mesytara",
       "url": "https://open.spotify.com/track/7H2uwSkd2mhRKyTOPRDE2L"
+    },
+    {
+      "added_at": "2022-09-02 20:01:16",
+      "album": {
+        "name": "Ya Fatenny",
+        "url": "https://open.spotify.com/album/4c7UeqkDVT5AZI3hN7oitj"
+      },
+      "artists": [
+        {
+          "name": "Mohamed Hamaki",
+          "url": "https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX"
+        }
+      ],
+      "duration_ms": 228853,
+      "name": "La Malama (Bonus Track)",
+      "url": "https://open.spotify.com/track/5ZsSIC9ea0OEi7gMMv7b1t"
     },
     {
       "added_at": "2022-09-02 20:01:16",
@@ -787,8 +787,8 @@
     {
       "added_at": "2022-09-02 20:01:16",
       "album": {
-        "name": "Hetta Tanya",
-        "url": "https://open.spotify.com/album/18REYwJulzZfAYpdvUXHtR"
+        "name": "Namet Nenna",
+        "url": "https://open.spotify.com/album/1pWX63oQEUEctHaDU4som3"
       },
       "artists": [
         {
@@ -796,25 +796,9 @@
           "url": "https://open.spotify.com/artist/2lMy93l58wzjh8DepKL814"
         }
       ],
-      "duration_ms": 199288,
-      "name": "Hetta Tanya",
-      "url": "https://open.spotify.com/track/5zn9ZT7dKnRX5fnYvb3loq"
-    },
-    {
-      "added_at": "2022-09-02 20:01:16",
-      "album": {
-        "name": "Ghazal Ma Yensady",
-        "url": "https://open.spotify.com/album/1llAZW89HSt3gIZ0UOcLHI"
-      },
-      "artists": [
-        {
-          "name": "Abdul Majeed Abdullah",
-          "url": "https://open.spotify.com/artist/2RxCv6j8Wu2rYbmtOBvg6F"
-        }
-      ],
-      "duration_ms": 395520,
-      "name": "Ghazal Ma Yensady",
-      "url": "https://open.spotify.com/track/5EKVL6XHsGCWeMik7XBMh8"
+      "duration_ms": 201463,
+      "name": "Namet Nenna",
+      "url": "https://open.spotify.com/track/7pu5c7XiIjyxnbohUJQ0b0"
     },
     {
       "added_at": "2022-09-02 20:01:16",
@@ -831,6 +815,22 @@
       "duration_ms": 231735,
       "name": "Fady Shewaya",
       "url": "https://open.spotify.com/track/3qRGs7H1bPfshHh19syRKQ"
+    },
+    {
+      "added_at": "2022-09-02 20:01:16",
+      "album": {
+        "name": "Ghazal Ma Yensady",
+        "url": "https://open.spotify.com/album/1llAZW89HSt3gIZ0UOcLHI"
+      },
+      "artists": [
+        {
+          "name": "Abdul Majeed Abdullah",
+          "url": "https://open.spotify.com/artist/2RxCv6j8Wu2rYbmtOBvg6F"
+        }
+      ],
+      "duration_ms": 395520,
+      "name": "Ghazal Ma Yensady",
+      "url": "https://open.spotify.com/track/5EKVL6XHsGCWeMik7XBMh8"
     },
     {
       "added_at": "2022-09-02 20:01:16",
@@ -883,22 +883,6 @@
     {
       "added_at": "2022-09-02 20:01:16",
       "album": {
-        "name": "\u0628\u0627\u0634\u0627 \u0628\u0627\u0634\u0627",
-        "url": "https://open.spotify.com/album/3s2sywrjEFwOK8xewRebzc"
-      },
-      "artists": [
-        {
-          "name": "\u0650Emad Basha",
-          "url": "https://open.spotify.com/artist/4oYGyyjjeg3AJofnWGjqR6"
-        }
-      ],
-      "duration_ms": 249302,
-      "name": "\u0628\u0627\u0634\u0627 \u0628\u0627\u0634\u0627",
-      "url": "https://open.spotify.com/track/5u6I8MExcbewu6VcSnI1Sc"
-    },
-    {
-      "added_at": "2022-09-02 20:01:16",
-      "album": {
         "name": "Gaw El Banat",
         "url": "https://open.spotify.com/album/6xsOTVxrDrOYYCW3CSQXTx"
       },
@@ -923,6 +907,22 @@
     {
       "added_at": "2022-09-02 20:01:16",
       "album": {
+        "name": "\u0628\u0627\u0634\u0627 \u0628\u0627\u0634\u0627",
+        "url": "https://open.spotify.com/album/3s2sywrjEFwOK8xewRebzc"
+      },
+      "artists": [
+        {
+          "name": "\u0650Emad Basha",
+          "url": "https://open.spotify.com/artist/4oYGyyjjeg3AJofnWGjqR6"
+        }
+      ],
+      "duration_ms": 249302,
+      "name": "\u0628\u0627\u0634\u0627 \u0628\u0627\u0634\u0627",
+      "url": "https://open.spotify.com/track/5u6I8MExcbewu6VcSnI1Sc"
+    },
+    {
+      "added_at": "2022-09-02 20:01:16",
+      "album": {
         "name": "Ya Denya",
         "url": "https://open.spotify.com/album/2gS3rvgJD2djvs01xHCVAQ"
       },
@@ -939,8 +939,8 @@
     {
       "added_at": "2022-09-02 20:01:16",
       "album": {
-        "name": "Namet Nenna",
-        "url": "https://open.spotify.com/album/1pWX63oQEUEctHaDU4som3"
+        "name": "Hetta Tanya",
+        "url": "https://open.spotify.com/album/18REYwJulzZfAYpdvUXHtR"
       },
       "artists": [
         {
@@ -948,9 +948,9 @@
           "url": "https://open.spotify.com/artist/2lMy93l58wzjh8DepKL814"
         }
       ],
-      "duration_ms": 201463,
-      "name": "Namet Nenna",
-      "url": "https://open.spotify.com/track/7pu5c7XiIjyxnbohUJQ0b0"
+      "duration_ms": 199288,
+      "name": "Hetta Tanya",
+      "url": "https://open.spotify.com/track/5zn9ZT7dKnRX5fnYvb3loq"
     },
     {
       "added_at": "2022-09-02 20:01:16",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2022-09-02 20:01:16",
       "album": {
-        "name": "HKAYA",
-        "url": "https://open.spotify.com/album/54y1EG96sXi5keBwd8kpgw"
-      },
-      "artists": [
-        {
-          "name": "Snor",
-          "url": "https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN"
-        }
-      ],
-      "duration_ms": 198367,
-      "name": "HKAYA",
-      "url": "https://open.spotify.com/track/4eBmSIn5XyL89lb4uJ8Aco"
-    },
-    {
-      "added_at": "2022-09-02 20:01:16",
-      "album": {
         "name": "Ann Alawan",
         "url": "https://open.spotify.com/album/6COdyb4CSsqAvdvQGcOPMg"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 225882,
       "name": "Ann Alawan",
       "url": "https://open.spotify.com/track/2xVKEPd40xSs0LJbr6SNYa"
+    },
+    {
+      "added_at": "2022-09-02 20:01:16",
+      "album": {
+        "name": "HKAYA",
+        "url": "https://open.spotify.com/album/54y1EG96sXi5keBwd8kpgw"
+      },
+      "artists": [
+        {
+          "name": "Snor",
+          "url": "https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN"
+        }
+      ],
+      "duration_ms": 198367,
+      "name": "HKAYA",
+      "url": "https://open.spotify.com/track/4eBmSIn5XyL89lb4uJ8Aco"
     },
     {
       "added_at": "2022-09-02 20:01:16",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2022-09-02 20:01:16",
       "album": {
-        "name": "MILANO",
-        "url": "https://open.spotify.com/album/7DgRfSHOYWDEV6svVQqLiJ"
-      },
-      "artists": [
-        {
-          "name": "7-Toun",
-          "url": "https://open.spotify.com/artist/3IRAzpoLeNDGv7kqwNK3bp"
-        }
-      ],
-      "duration_ms": 249707,
-      "name": "MILANO",
-      "url": "https://open.spotify.com/track/5TR5g2mXk58AbVbHLVRbsM"
-    },
-    {
-      "added_at": "2022-09-02 20:01:16",
-      "album": {
         "name": "Tegy Ntrahn",
         "url": "https://open.spotify.com/album/45VciPIELkkQgWSkS2QLlq"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 196650,
       "name": "Khaleny Fe Hodnak",
       "url": "https://open.spotify.com/track/6yVGUtmHwDsqqXs1Lak423"
+    },
+    {
+      "added_at": "2022-09-02 20:01:16",
+      "album": {
+        "name": "MILANO",
+        "url": "https://open.spotify.com/album/7DgRfSHOYWDEV6svVQqLiJ"
+      },
+      "artists": [
+        {
+          "name": "7-Toun",
+          "url": "https://open.spotify.com/artist/3IRAzpoLeNDGv7kqwNK3bp"
+        }
+      ],
+      "duration_ms": 249707,
+      "name": "MILANO",
+      "url": "https://open.spotify.com/track/5TR5g2mXk58AbVbHLVRbsM"
     },
     {
       "added_at": "2022-09-02 20:01:16",
@@ -1259,38 +1259,6 @@
     {
       "added_at": "2022-09-02 20:01:16",
       "album": {
-        "name": "\u0648\u0644\u0627 \u063a\u0644\u0637\u0629",
-        "url": "https://open.spotify.com/album/4BBuPUUSsT8qkatKvZJb33"
-      },
-      "artists": [
-        {
-          "name": "Sultan Al Murshed",
-          "url": "https://open.spotify.com/artist/6miZ4J6pxMnkJkrjOLeGeU"
-        }
-      ],
-      "duration_ms": 275306,
-      "name": "\u0648\u0644\u0627 \u063a\u0644\u0637\u0629",
-      "url": "https://open.spotify.com/track/1Htw7lMJaoL7Wg1o1oh3rK"
-    },
-    {
-      "added_at": "2022-09-02 20:01:16",
-      "album": {
-        "name": "Shkad Helw",
-        "url": "https://open.spotify.com/album/1gY8BkJKLoAOa3CLMCcUcB"
-      },
-      "artists": [
-        {
-          "name": "Aseel Hameem",
-          "url": "https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo"
-        }
-      ],
-      "duration_ms": 208269,
-      "name": "Shkad Helw",
-      "url": "https://open.spotify.com/track/29hXhjoSoGg8NUEPKig2am"
-    },
-    {
-      "added_at": "2022-09-02 20:01:16",
-      "album": {
         "name": "El Walida",
         "url": "https://open.spotify.com/album/5BUWjVJMOXZkOl6gN2pEBc"
       },
@@ -1311,6 +1279,38 @@
       "duration_ms": 252000,
       "name": "El Walida",
       "url": "https://open.spotify.com/track/1Ld7ou1JXz77rg70AG7usC"
+    },
+    {
+      "added_at": "2022-09-02 20:01:16",
+      "album": {
+        "name": "Shkad Helw",
+        "url": "https://open.spotify.com/album/1gY8BkJKLoAOa3CLMCcUcB"
+      },
+      "artists": [
+        {
+          "name": "Aseel Hameem",
+          "url": "https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo"
+        }
+      ],
+      "duration_ms": 208269,
+      "name": "Shkad Helw",
+      "url": "https://open.spotify.com/track/29hXhjoSoGg8NUEPKig2am"
+    },
+    {
+      "added_at": "2022-09-02 20:01:16",
+      "album": {
+        "name": "\u0648\u0644\u0627 \u063a\u0644\u0637\u0629",
+        "url": "https://open.spotify.com/album/4BBuPUUSsT8qkatKvZJb33"
+      },
+      "artists": [
+        {
+          "name": "Sultan Al Murshed",
+          "url": "https://open.spotify.com/artist/6miZ4J6pxMnkJkrjOLeGeU"
+        }
+      ],
+      "duration_ms": 275306,
+      "name": "\u0648\u0644\u0627 \u063a\u0644\u0637\u0629",
+      "url": "https://open.spotify.com/track/1Htw7lMJaoL7Wg1o1oh3rK"
     },
     {
       "added_at": "2022-09-02 20:01:16",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2022-09-02 20:01:16",
       "album": {
-        "name": "Taalili",
-        "url": "https://open.spotify.com/album/5PsBjIgUc9FnjdLbm1idet"
-      },
-      "artists": [
-        {
-          "name": "Ragheb Alama",
-          "url": "https://open.spotify.com/artist/6uOgBVYHvqTGAQ5iVHDVT7"
-        }
-      ],
-      "duration_ms": 223366,
-      "name": "Taalili",
-      "url": "https://open.spotify.com/track/1Ghjyo13NTn6yDyQ86bLMV"
-    },
-    {
-      "added_at": "2022-09-02 20:01:16",
-      "album": {
         "name": "Btwhasheni",
         "url": "https://open.spotify.com/album/3M315U7mkSSUoxoUXv6M27"
       },
@@ -1411,26 +1395,6 @@
       "duration_ms": 231197,
       "name": "Btwhasheni",
       "url": "https://open.spotify.com/track/1Cm3f5zjPhCrR0VqodoJhK"
-    },
-    {
-      "added_at": "2022-09-02 20:01:16",
-      "album": {
-        "name": "Ya Hmed",
-        "url": "https://open.spotify.com/album/1mZHdQPQtSgdflf4sVWsVf"
-      },
-      "artists": [
-        {
-          "name": "Mehdi Mozayine",
-          "url": "https://open.spotify.com/artist/6oq0gQN2p7AYmdP1Rc1lDk"
-        },
-        {
-          "name": "Madara",
-          "url": "https://open.spotify.com/artist/25lj3VIS5OU4AJDbTQvVI7"
-        }
-      ],
-      "duration_ms": 209309,
-      "name": "Ya Hmed",
-      "url": "https://open.spotify.com/track/3Ica0uL8RYkhG3YG0tpywf"
     },
     {
       "added_at": "2022-09-02 20:01:16",
@@ -1455,18 +1419,38 @@
     {
       "added_at": "2022-09-02 20:01:16",
       "album": {
-        "name": "\u0634\u0641\u062a \u0627\u0644\u0646\u062c\u0648\u0645",
-        "url": "https://open.spotify.com/album/7150HyQxphdEnrai0PoxAc"
+        "name": "Ya Hmed",
+        "url": "https://open.spotify.com/album/1mZHdQPQtSgdflf4sVWsVf"
       },
       "artists": [
         {
-          "name": "Lamya Almalki | \u0644\u0645\u064a\u0627\u0621 \u0627\u0644\u0645\u0627\u0644\u0643\u064a",
-          "url": "https://open.spotify.com/artist/78muID98ZZ9qLgjJph0jnf"
+          "name": "Mehdi Mozayine",
+          "url": "https://open.spotify.com/artist/6oq0gQN2p7AYmdP1Rc1lDk"
+        },
+        {
+          "name": "Madara",
+          "url": "https://open.spotify.com/artist/25lj3VIS5OU4AJDbTQvVI7"
         }
       ],
-      "duration_ms": 230478,
-      "name": "\u0634\u0641\u062a \u0627\u0644\u0646\u062c\u0648\u0645",
-      "url": "https://open.spotify.com/track/2GQB3Xe1J9D2sK90AtHfhI"
+      "duration_ms": 209309,
+      "name": "Ya Hmed",
+      "url": "https://open.spotify.com/track/3Ica0uL8RYkhG3YG0tpywf"
+    },
+    {
+      "added_at": "2022-09-02 20:01:16",
+      "album": {
+        "name": "Taalili",
+        "url": "https://open.spotify.com/album/5PsBjIgUc9FnjdLbm1idet"
+      },
+      "artists": [
+        {
+          "name": "Ragheb Alama",
+          "url": "https://open.spotify.com/artist/6uOgBVYHvqTGAQ5iVHDVT7"
+        }
+      ],
+      "duration_ms": 223366,
+      "name": "Taalili",
+      "url": "https://open.spotify.com/track/1Ghjyo13NTn6yDyQ86bLMV"
     },
     {
       "added_at": "2022-09-02 20:01:16",
@@ -1487,6 +1471,22 @@
     {
       "added_at": "2022-09-02 20:01:16",
       "album": {
+        "name": "\u0634\u0641\u062a \u0627\u0644\u0646\u062c\u0648\u0645",
+        "url": "https://open.spotify.com/album/7150HyQxphdEnrai0PoxAc"
+      },
+      "artists": [
+        {
+          "name": "Lamya Almalki | \u0644\u0645\u064a\u0627\u0621 \u0627\u0644\u0645\u0627\u0644\u0643\u064a",
+          "url": "https://open.spotify.com/artist/78muID98ZZ9qLgjJph0jnf"
+        }
+      ],
+      "duration_ms": 230478,
+      "name": "\u0634\u0641\u062a \u0627\u0644\u0646\u062c\u0648\u0645",
+      "url": "https://open.spotify.com/track/2GQB3Xe1J9D2sK90AtHfhI"
+    },
+    {
+      "added_at": "2022-09-02 20:01:16",
+      "album": {
         "name": "Dag El Galb",
         "url": "https://open.spotify.com/album/69Ezh1ncGl5mV9C6Yj7NE3"
       },
@@ -1499,6 +1499,22 @@
       "duration_ms": 190400,
       "name": "Dag El Galb",
       "url": "https://open.spotify.com/track/1YZwEiO1KyH9IFHwrMSl6u"
+    },
+    {
+      "added_at": "2022-09-02 20:01:16",
+      "album": {
+        "name": "\u062d\u0633 \u0628\u064a\u0627",
+        "url": "https://open.spotify.com/album/1a1CqlQaPhwDKgPMcBIWZj"
+      },
+      "artists": [
+        {
+          "name": "L7or",
+          "url": "https://open.spotify.com/artist/5NIanI5i7BSxYhc7DKpGZr"
+        }
+      ],
+      "duration_ms": 244421,
+      "name": "\u062d\u0633 \u0628\u064a\u0627",
+      "url": "https://open.spotify.com/track/2YTco398182eSCcjCsq6JR"
     },
     {
       "added_at": "2022-09-02 20:01:16",
@@ -1519,18 +1535,18 @@
     {
       "added_at": "2022-09-02 20:01:16",
       "album": {
-        "name": "\u062d\u0633 \u0628\u064a\u0627",
-        "url": "https://open.spotify.com/album/1a1CqlQaPhwDKgPMcBIWZj"
+        "name": "Diplomacy",
+        "url": "https://open.spotify.com/album/3Wvg3cSabfpRxclOh26mDL"
       },
       "artists": [
         {
-          "name": "L7or",
-          "url": "https://open.spotify.com/artist/5NIanI5i7BSxYhc7DKpGZr"
+          "name": "Balqees",
+          "url": "https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI"
         }
       ],
-      "duration_ms": 244421,
-      "name": "\u062d\u0633 \u0628\u064a\u0627",
-      "url": "https://open.spotify.com/track/2YTco398182eSCcjCsq6JR"
+      "duration_ms": 202647,
+      "name": "Diplomacy",
+      "url": "https://open.spotify.com/track/6lUgUYvwmJSzXBR1drpxKh"
     },
     {
       "added_at": "2022-09-02 20:01:16",
@@ -1579,18 +1595,18 @@
     {
       "added_at": "2022-09-02 20:01:16",
       "album": {
-        "name": "Diplomacy",
-        "url": "https://open.spotify.com/album/3Wvg3cSabfpRxclOh26mDL"
+        "name": "Tiempo",
+        "url": "https://open.spotify.com/album/5OaMylPTG87Y9JrqIH7Vp3"
       },
       "artists": [
         {
-          "name": "Balqees",
-          "url": "https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI"
+          "name": "Mocci",
+          "url": "https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1"
         }
       ],
-      "duration_ms": 202647,
-      "name": "Diplomacy",
-      "url": "https://open.spotify.com/track/6lUgUYvwmJSzXBR1drpxKh"
+      "duration_ms": 200216,
+      "name": "Khalass",
+      "url": "https://open.spotify.com/track/1YAcYC4yCkdBkgSczACr7C"
     },
     {
       "added_at": "2022-09-02 20:01:16",
@@ -1627,6 +1643,22 @@
     {
       "added_at": "2022-09-02 20:01:16",
       "album": {
+        "name": "Courage",
+        "url": "https://open.spotify.com/album/3fesoj7qmSWTa6U5vQFqFV"
+      },
+      "artists": [
+        {
+          "name": "Djalil Palermo",
+          "url": "https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Courage",
+      "url": "https://open.spotify.com/track/2A17I9810aeJa9BHIvHYxp"
+    },
+    {
+      "added_at": "2022-09-02 20:01:16",
+      "album": {
         "name": "Zahra Hala Helwa (Maa Myriam Fares W Asser Yassin)",
         "url": "https://open.spotify.com/album/2coqbgNvH5tanBqXSlZrt4"
       },
@@ -1655,38 +1687,6 @@
       "duration_ms": 231807,
       "name": "Leena Ra2sa",
       "url": "https://open.spotify.com/track/612qZheYzgDboDZGz2iJDv"
-    },
-    {
-      "added_at": "2022-09-02 20:01:16",
-      "album": {
-        "name": "Tiempo",
-        "url": "https://open.spotify.com/album/5OaMylPTG87Y9JrqIH7Vp3"
-      },
-      "artists": [
-        {
-          "name": "Mocci",
-          "url": "https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1"
-        }
-      ],
-      "duration_ms": 200216,
-      "name": "Khalass",
-      "url": "https://open.spotify.com/track/1YAcYC4yCkdBkgSczACr7C"
-    },
-    {
-      "added_at": "2022-09-02 20:01:16",
-      "album": {
-        "name": "Courage",
-        "url": "https://open.spotify.com/album/3fesoj7qmSWTa6U5vQFqFV"
-      },
-      "artists": [
-        {
-          "name": "Djalil Palermo",
-          "url": "https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Courage",
-      "url": "https://open.spotify.com/track/2A17I9810aeJa9BHIvHYxp"
     },
     {
       "added_at": "2022-09-02 20:01:16",
@@ -1723,18 +1723,18 @@
     {
       "added_at": "2022-09-02 20:01:16",
       "album": {
-        "name": "Leeh",
-        "url": "https://open.spotify.com/album/3MeDB8esgcm5JtzFOu8kS2"
+        "name": "Teba",
+        "url": "https://open.spotify.com/album/1bS2s5HzuoKbHflXpWcsUS"
       },
       "artists": [
         {
-          "name": "Hussain Aljassmi",
-          "url": "https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D"
+          "name": "Saif Amer",
+          "url": "https://open.spotify.com/artist/748f0zL5X2KNapx8K93SUq"
         }
       ],
-      "duration_ms": 238886,
-      "name": "Leeh",
-      "url": "https://open.spotify.com/track/3d0MpbuzPk1H7ocM7G9OSG"
+      "duration_ms": 250334,
+      "name": "Teba",
+      "url": "https://open.spotify.com/track/0uBPeDdplbSOmp12hlLYO4"
     }
   ],
   "unique_name": "Hot Arabic Hits - Yalla \u064a\u0644\u0627",

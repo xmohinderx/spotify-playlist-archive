@@ -2,9 +2,9 @@
 
 ### [K\-Are & Be](https://open.spotify.com/playlist/37i9dQZF1DX089MWxS7QW5)
 
-> 한국 R&B\. The hottest K\-R&B is here\. \(Cover: Grass\(그래쓰\)\)
+> 한국 R&B\. The hottest K\-R&B is here\. \(Cover: Grass\(Jiselle\(지셀\)\)
 
-109 songs - 6 hr 18 min - [published](https://open.spotify.com/playlist/0kvpJtsvIoyFKt5gsRYiS9)
+110 songs - 6 hr 22 min - [published](https://open.spotify.com/playlist/0kvpJtsvIoyFKt5gsRYiS9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Bittersweet](https://open.spotify.com/track/4G2tzcxg0ctBk2Papi7j6C) | [sewoong](https://open.spotify.com/artist/7lZCDg75pkeQd4VYLgNPTf) | [Fisherman's knot](https://open.spotify.com/album/4h1KVlbxt4uCid76zyXtE7) | 4:17 | 2022-05-28 | 2022-07-06 |
 | [Blood Sign](https://open.spotify.com/track/7uNZkJWibKfa0tTPQ058qW) | [msftz](https://open.spotify.com/artist/2v9xvjxXMMndxvLJ86Ice4) | [One Ordinary Day \(Original Television Soundtrack\), Pt.2](https://open.spotify.com/album/3ZQ8KyTqp298sj29BvsGgA) | 3:33 | 2022-05-28 | 2022-07-06 |
 | [boyhood](https://open.spotify.com/track/6YpK7C7uz3LAjSDAW5pmga) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [blanc](https://open.spotify.com/album/1fUwVSrt6qTwkpWBmb5HDL) | 3:15 | 2022-08-12 |  |
+| [Butterfly \(feat\. Oceanfromtheblue\)](https://open.spotify.com/track/1P9ztAUu6vrOdZ0Mr8lxWp) | [Jiselle](https://open.spotify.com/artist/6tjbcCaexKI8esvvEZPVnt), [oceanfromtheblue](https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a) | [Therapy Session](https://open.spotify.com/album/2hp1xdmCKrjVdAodJjDVgO) | 3:46 | 2022-09-08 |  |
 | [Call Me Now](https://open.spotify.com/track/4U0r1RHTcs0RuQLDBpu4MI) | [Lee Ju Chun](https://open.spotify.com/artist/15v1aovRbcGMoYIMmI8Vp2) | [Call Me Now](https://open.spotify.com/album/0FWlnVs2jB8EQrDqHQR38U) | 3:42 | 2022-07-07 |  |
 | [Charging](https://open.spotify.com/track/2hbA6LMP7MrvXLXxgIbzaQ) | [Kiehl](https://open.spotify.com/artist/3booMg3lbOEj85POfZ61mV) | [Charging](https://open.spotify.com/album/2AmKqz3rPk7M0m5O8EBKXh) | 3:30 | 2022-05-28 | 2022-07-28 |
 | [chasing you](https://open.spotify.com/track/7g4ULCcCvfAQXDDRgVeyfv) | [oftn](https://open.spotify.com/artist/2uVkd9g6fvjvPnCQ6zkrhf) | [chasing you](https://open.spotify.com/album/38K7xBBVe4XrZm7Y07lNhZ) | 3:06 | 2022-08-02 |  |

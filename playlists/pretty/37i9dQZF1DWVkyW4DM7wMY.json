@@ -1,13 +1,45 @@
 {
   "description": "The hottest alternative music from Nairobi to Dar!",
-  "num_followers": 7485,
+  "num_followers": 7498,
   "original_name": "Eastern Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQ2MTE0MCwwMDAwMDAwMGU4YTc4ZjZmOTQ5MDZlZjdkNTYyNmZlMzU4OGNmMWY0",
+  "snapshot_id": "MTY2MjY3MDc0MCwwMDAwMDAwMDBlYTE0ZTAwN2M1ZjVhYzkwMDNlNWRjNTBiOWFiZTk1",
   "tracks": [
+    {
+      "added_at": "2022-09-08 20:59:00",
+      "album": {
+        "name": "What To Expect When Expecting",
+        "url": "https://open.spotify.com/album/2VkmTYOfZ1zTHQBhfK1Rbf"
+      },
+      "artists": [
+        {
+          "name": "Flier",
+          "url": "https://open.spotify.com/artist/4GG9mTTEeOa6zUYwO3YmgU"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "What To Expect When Expecting",
+      "url": "https://open.spotify.com/track/3O9GGQXx5mi1ekYoCJbgXk"
+    },
+    {
+      "added_at": "2022-01-27 20:59:00",
+      "album": {
+        "name": "Camille",
+        "url": "https://open.spotify.com/album/0TuVjq7KoUQdIEq9agdjFo"
+      },
+      "artists": [
+        {
+          "name": "$hyli",
+          "url": "https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ"
+        }
+      ],
+      "duration_ms": 158000,
+      "name": "Camille",
+      "url": "https://open.spotify.com/track/74DvPOPk92XbKct0MwhCkv"
+    },
     {
       "added_at": "2022-08-25 20:59:00",
       "album": {
@@ -27,6 +59,22 @@
       "duration_ms": 177245,
       "name": "Let Go",
       "url": "https://open.spotify.com/track/44YtzfSlmFcDPozHlfeivt"
+    },
+    {
+      "added_at": "2022-03-17 20:59:00",
+      "album": {
+        "name": "Belinda",
+        "url": "https://open.spotify.com/album/5jHk9XRushK0QWe6yamCPW"
+      },
+      "artists": [
+        {
+          "name": "Joshua Baraka",
+          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
+        }
+      ],
+      "duration_ms": 133537,
+      "name": "Belinda",
+      "url": "https://open.spotify.com/track/64C4vezOJyDbudIGxquW89"
     },
     {
       "added_at": "2022-08-05 10:24:50",
@@ -69,70 +117,6 @@
       "url": "https://open.spotify.com/track/1B3h5EIwLDMtubHLu3edCM"
     },
     {
-      "added_at": "2022-08-25 20:59:00",
-      "album": {
-        "name": "Slow wine",
-        "url": "https://open.spotify.com/album/7EwzSy0JPsa4zzmYEWX4T5"
-      },
-      "artists": [
-        {
-          "name": "$hyli",
-          "url": "https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ"
-        }
-      ],
-      "duration_ms": 123624,
-      "name": "Slow wine",
-      "url": "https://open.spotify.com/track/6Fchq6eEUzn835HWaA37Ca"
-    },
-    {
-      "added_at": "2022-01-27 20:59:00",
-      "album": {
-        "name": "Camille",
-        "url": "https://open.spotify.com/album/0TuVjq7KoUQdIEq9agdjFo"
-      },
-      "artists": [
-        {
-          "name": "$hyli",
-          "url": "https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ"
-        }
-      ],
-      "duration_ms": 158000,
-      "name": "Camille",
-      "url": "https://open.spotify.com/track/74DvPOPk92XbKct0MwhCkv"
-    },
-    {
-      "added_at": "2022-07-08 07:28:44",
-      "album": {
-        "name": "Fireflies",
-        "url": "https://open.spotify.com/album/6WfB9YEC9FDRhJCrNd5sah"
-      },
-      "artists": [
-        {
-          "name": "mau from nowhere",
-          "url": "https://open.spotify.com/artist/7MZ8Hh17R6vfPDn9UCkvuf"
-        }
-      ],
-      "duration_ms": 141333,
-      "name": "Fireflies",
-      "url": "https://open.spotify.com/track/4Ajby5KmiabXW8U22I6wKC"
-    },
-    {
-      "added_at": "2022-08-25 20:59:00",
-      "album": {
-        "name": "Kampala",
-        "url": "https://open.spotify.com/album/2KyDqnxPYOmxrhjvopJgIG"
-      },
-      "artists": [
-        {
-          "name": "Daddy Andre",
-          "url": "https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo"
-        }
-      ],
-      "duration_ms": 189544,
-      "name": "Kampala",
-      "url": "https://open.spotify.com/track/5XSx18sFrYAjINCcqcxz74"
-    },
-    {
       "added_at": "2022-03-25 05:44:05",
       "album": {
         "name": "Entebbe",
@@ -149,20 +133,20 @@
       "url": "https://open.spotify.com/track/7JUJDegbbXHmYLtWIb811E"
     },
     {
-      "added_at": "2022-03-17 20:59:00",
+      "added_at": "2022-08-25 20:59:00",
       "album": {
-        "name": "AA side",
-        "url": "https://open.spotify.com/album/2zcsqTWzsWlCDn9M2pnzvr"
+        "name": "Slow wine",
+        "url": "https://open.spotify.com/album/7EwzSy0JPsa4zzmYEWX4T5"
       },
       "artists": [
         {
-          "name": "mwami",
-          "url": "https://open.spotify.com/artist/0efcioCBRBzfxRC6Ax0zXq"
+          "name": "$hyli",
+          "url": "https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ"
         }
       ],
-      "duration_ms": 218863,
-      "name": "olivine",
-      "url": "https://open.spotify.com/track/15fDmWe5ofnwmFJWVOT6SZ"
+      "duration_ms": 123624,
+      "name": "Slow wine",
+      "url": "https://open.spotify.com/track/6Fchq6eEUzn835HWaA37Ca"
     },
     {
       "added_at": "2022-08-05 10:24:50",
@@ -189,20 +173,20 @@
       "url": "https://open.spotify.com/track/3o89M98TILkeQHc6ZqJ934"
     },
     {
-      "added_at": "2022-03-17 20:59:00",
+      "added_at": "2022-07-08 07:28:44",
       "album": {
-        "name": "Belinda",
-        "url": "https://open.spotify.com/album/5jHk9XRushK0QWe6yamCPW"
+        "name": "Fireflies",
+        "url": "https://open.spotify.com/album/6WfB9YEC9FDRhJCrNd5sah"
       },
       "artists": [
         {
-          "name": "Joshua Baraka",
-          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
+          "name": "mau from nowhere",
+          "url": "https://open.spotify.com/artist/7MZ8Hh17R6vfPDn9UCkvuf"
         }
       ],
-      "duration_ms": 133537,
-      "name": "Belinda",
-      "url": "https://open.spotify.com/track/64C4vezOJyDbudIGxquW89"
+      "duration_ms": 141333,
+      "name": "Fireflies",
+      "url": "https://open.spotify.com/track/4Ajby5KmiabXW8U22I6wKC"
     },
     {
       "added_at": "2022-07-08 07:28:44",
@@ -223,6 +207,38 @@
       "duration_ms": 212500,
       "name": "Minutes",
       "url": "https://open.spotify.com/track/6f7KmU1InKkiW3UegkWj09"
+    },
+    {
+      "added_at": "2022-08-25 20:59:00",
+      "album": {
+        "name": "Kampala",
+        "url": "https://open.spotify.com/album/2KyDqnxPYOmxrhjvopJgIG"
+      },
+      "artists": [
+        {
+          "name": "Daddy Andre",
+          "url": "https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo"
+        }
+      ],
+      "duration_ms": 189544,
+      "name": "Kampala",
+      "url": "https://open.spotify.com/track/5XSx18sFrYAjINCcqcxz74"
+    },
+    {
+      "added_at": "2022-03-17 20:59:00",
+      "album": {
+        "name": "AA side",
+        "url": "https://open.spotify.com/album/2zcsqTWzsWlCDn9M2pnzvr"
+      },
+      "artists": [
+        {
+          "name": "mwami",
+          "url": "https://open.spotify.com/artist/0efcioCBRBzfxRC6Ax0zXq"
+        }
+      ],
+      "duration_ms": 218863,
+      "name": "olivine",
+      "url": "https://open.spotify.com/track/15fDmWe5ofnwmFJWVOT6SZ"
     },
     {
       "added_at": "2022-04-01 09:26:34",
@@ -571,22 +587,6 @@
       "duration_ms": 186000,
       "name": "Sugar My",
       "url": "https://open.spotify.com/track/1rkxLO2NKJbQPHJwm6GrRm"
-    },
-    {
-      "added_at": "2022-02-24 20:59:00",
-      "album": {
-        "name": "It's Kinda Fun Outside",
-        "url": "https://open.spotify.com/album/0DRFoYbyCxS0cnA8kSMtd3"
-      },
-      "artists": [
-        {
-          "name": "Nu Fvnk",
-          "url": "https://open.spotify.com/artist/30XGohmPXRz344ZBt74x2R"
-        }
-      ],
-      "duration_ms": 130634,
-      "name": "Going Down",
-      "url": "https://open.spotify.com/track/4syW5B9Y9cLyKIBrBxWZrb"
     },
     {
       "added_at": "2022-03-17 20:59:00",
@@ -1141,22 +1141,6 @@
       "url": "https://open.spotify.com/track/28HrRHjy9GDMcHjOzLMOVE"
     },
     {
-      "added_at": "2021-10-15 19:38:29",
-      "album": {
-        "name": "New Level // SUPERWATER",
-        "url": "https://open.spotify.com/album/2N0k8TVpxu2uZuR3C0tQHH"
-      },
-      "artists": [
-        {
-          "name": "BEMATA",
-          "url": "https://open.spotify.com/artist/795rusHeDFKZwVrgmzx87x"
-        }
-      ],
-      "duration_ms": 200682,
-      "name": "New Level // SUPERWATER",
-      "url": "https://open.spotify.com/track/0wIDhVcSIKvB8zxpfJc9dC"
-    },
-    {
       "added_at": "2021-10-29 06:04:39",
       "album": {
         "name": "Echoes (Remix)",
@@ -1221,22 +1205,6 @@
       "url": "https://open.spotify.com/track/0ODyFLoeeVJwWhZCAzLyf1"
     },
     {
-      "added_at": "2021-10-15 19:38:29",
-      "album": {
-        "name": "Changed the Game",
-        "url": "https://open.spotify.com/album/0ElhbiaJqf836NlDDU1FcG"
-      },
-      "artists": [
-        {
-          "name": "Tofa Jaxx",
-          "url": "https://open.spotify.com/artist/1CThfFD9mffbXka0DLLWxq"
-        }
-      ],
-      "duration_ms": 132624,
-      "name": "Changed the Game - Radio Edit",
-      "url": "https://open.spotify.com/track/56Lv8Cn8pqBH0Rt8VkwtcR"
-    },
-    {
       "added_at": "2022-03-03 20:59:00",
       "album": {
         "name": "Sana",
@@ -1255,6 +1223,38 @@
       "duration_ms": 163200,
       "name": "Sana",
       "url": "https://open.spotify.com/track/6cNt6K8BTWyX3ntnMBHjgt"
+    },
+    {
+      "added_at": "2021-10-15 19:38:29",
+      "album": {
+        "name": "Changed the Game",
+        "url": "https://open.spotify.com/album/0ElhbiaJqf836NlDDU1FcG"
+      },
+      "artists": [
+        {
+          "name": "Tofa Jaxx",
+          "url": "https://open.spotify.com/artist/1CThfFD9mffbXka0DLLWxq"
+        }
+      ],
+      "duration_ms": 132624,
+      "name": "Changed the Game - Radio Edit",
+      "url": "https://open.spotify.com/track/56Lv8Cn8pqBH0Rt8VkwtcR"
+    },
+    {
+      "added_at": "2021-10-15 19:38:29",
+      "album": {
+        "name": "New Level // SUPERWATER",
+        "url": "https://open.spotify.com/album/2N0k8TVpxu2uZuR3C0tQHH"
+      },
+      "artists": [
+        {
+          "name": "BEMATA",
+          "url": "https://open.spotify.com/artist/795rusHeDFKZwVrgmzx87x"
+        }
+      ],
+      "duration_ms": 200682,
+      "name": "New Level // SUPERWATER",
+      "url": "https://open.spotify.com/track/0wIDhVcSIKvB8zxpfJc9dC"
     }
   ],
   "unique_name": "Eastern Vibes",

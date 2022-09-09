@@ -4,7 +4,7 @@
 
 > 썸타고 계신가요? 설레임이 담긴 노래들을 만나보세요.
 
-154 songs - 8 hr 45 min - [published](https://open.spotify.com/playlist/2hMrDXlFlo12UdmYhIsIau)
+155 songs - 8 hr 48 min - [published](https://open.spotify.com/playlist/2hMrDXlFlo12UdmYhIsIau)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Kiss](https://open.spotify.com/track/3pNcAmfGXKeKvsSG2h1teI) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Kiss](https://open.spotify.com/album/3XLwYEV8JxiKrzL1IJOQhg) | 3:06 | 2022-08-09 |  |
 | [L.O.V.E](https://open.spotify.com/track/4cRAQZ8SzbTlqhD6jxhNFD) | [DANI \(Park Hyuck Jin\)](https://open.spotify.com/artist/1UzO0KpLhB7BGq2ejDKkpQ) | [Oh My Wedding OST Part.3](https://open.spotify.com/album/6nEZwWK3EoGPCbBcynPJOb) | 3:02 | 2022-07-04 | 2022-07-19 |
 | [Line](https://open.spotify.com/track/2n4NuLpGCLp7dnICjvCgAy) | [Ahn Ye Eun](https://open.spotify.com/artist/0qQQYIK5Sxnzt72fGyTcvs) | [Line](https://open.spotify.com/album/1fhJ1jSUbkJSF8w4vilvSr) | 3:36 | 2022-05-11 | 2022-07-28 |
+| [Losing Sleep Over You](https://open.spotify.com/track/1T9QufIPBQTW36Z1oNxrks) | [Punch](https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm) | [Losing Sleep Over You](https://open.spotify.com/album/5cWr6GGTuK2eWAjN8EkUxi) | 3:01 | 2022-09-05 |  |
 | [LOVE CELLS \(Feat\. THE PERCENT\)](https://open.spotify.com/track/1suxmKvismP5TmZHUOIS0B) | [PERC%NT](https://open.spotify.com/artist/0cjZuJ13yFVPa5Nn0YUTbx), [THE PERCENT](https://open.spotify.com/artist/7lLlaJt5GBAqRlFcOMtgov) | [LOVE CELLS \(Feat\. THE PERCENT\)](https://open.spotify.com/album/0lzv5xX8HFaCO2PVhvMh6U) | 3:12 | 2022-05-11 | 2022-07-29 |
 | [love me only](https://open.spotify.com/track/5pIB8r2aa5tHBXUYZFWT0p) | [Gawon](https://open.spotify.com/artist/5HlsOSLKz3NaCFAjpizas1) | [love me only](https://open.spotify.com/album/02HlmAqrwEu8OmD1nYzL1q) | 3:01 | 2022-07-04 | 2022-07-24 |
 | [LOVE SONG](https://open.spotify.com/track/1ivQM7qQCPRfvisivqGIYJ) | [Yoon Jisung](https://open.spotify.com/artist/336NKYVCHaJbC8RrMEO8NM) | [Temperature of Love](https://open.spotify.com/album/243WfskVKVmbYsRLsMnhhV) | 3:17 | 2022-05-11 | 2022-07-27 |
@@ -118,7 +119,7 @@
 | [Some](https://open.spotify.com/track/3mmLyEhphJAaW7hyEXAD8l) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Red Diary Page.1](https://open.spotify.com/album/4pUGLEuGG0PH9Slw3nt1Jn) | 3:01 | 2022-05-11 | 2022-07-29 |
 | [SOME](https://open.spotify.com/track/29fqZVcnBDxZZaM5qOcQmR) | [KIM DONG HYUN](https://open.spotify.com/artist/6NuAIYZptWXWUCAInxX6PU) | [Fling at Convenience Store \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/67gYjBoR0VQZbe2wSN7ZfU) | 3:43 | 2022-05-11 | 2022-07-27 |
 | [Some \(feat\. Lil Boi\)](https://open.spotify.com/track/0g1AmSKokPboFrxmG1dxKx) | [SOYOU](https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb), [Junggigo](https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb), [lIlBOI](https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved) | [Some](https://open.spotify.com/album/2r1oAmMSnUasXigJ2fTwk6) | 3:31 | 2022-05-11 |  |
-| [Something Precious](https://open.spotify.com/track/7yoqiaAawHktS5Gao5rzLO) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [Forecasting Love and Weather \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/5wEeXyJVwgTvVis9XPOs7Q) | 3:29 | 2022-05-11 |  |
+| [Something Precious](https://open.spotify.com/track/7yoqiaAawHktS5Gao5rzLO) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [Forecasting Love and Weather \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/5wEeXyJVwgTvVis9XPOs7Q) | 3:29 | 2022-05-11 | 2022-09-09 |
 | [Song for you](https://open.spotify.com/track/7KpssobVSCiZRZFaZITSLv) | [E the](https://open.spotify.com/artist/04lD6DqxYPUpRkkttRbAPh) | [The letter.](https://open.spotify.com/album/0mY8uzr0C1JbMQFO6E4f4t) | 3:13 | 2022-05-11 | 2022-07-29 |
 | [Spoiler \(feat\. Limit\)](https://open.spotify.com/track/1Peet7rqBIuwqdAOdOqKDz) | [Wynn](https://open.spotify.com/artist/6I3Ht2A9XcZyeD8cMJuIWI), [Limit](https://open.spotify.com/artist/6wpqEEzNtOeTiOiOspkgy1) | [Scène](https://open.spotify.com/album/5FPuHTtKefhfHjypv3YVcQ) | 3:16 | 2022-05-11 | 2022-06-30 |
 | [SSOOK DDOONG \(feat\. CHOI YOOJUNG\)](https://open.spotify.com/track/0bh107oicEpxI1RiAz59Wb) | [BOOKKU DDOONG](https://open.spotify.com/artist/3dy8YhuMdQX2iwO1CaurGw), [CHOI YOOJUNG](https://open.spotify.com/artist/1ygbGmBWGTX0llbLrD9648) | [SSOOK DDOONG \(feat\. CHOI YOOJUNG\)](https://open.spotify.com/album/31T5angQfNXokneuSdQq56) | 2:47 | 2022-05-11 |  |

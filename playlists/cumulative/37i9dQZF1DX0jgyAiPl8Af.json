@@ -682,6 +682,24 @@
     },
     {
       "album": {
+        "name": "Farewell Summer",
+        "url": "https://open.spotify.com/album/3S24lJTMp9qizsxmVHBdKW"
+      },
+      "artists": [
+        {
+          "name": "Finlep",
+          "url": "https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191869,
+      "name": "Brookline",
+      "url": "https://open.spotify.com/track/4jXvLe7ERO8yIYETDZGU0m"
+    },
+    {
+      "album": {
         "name": "Bruges",
         "url": "https://open.spotify.com/album/3lvqn1jtS9pERcfFOZh9n6"
       },
@@ -895,7 +913,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 168831,
       "name": "Celta",
       "url": "https://open.spotify.com/track/6uJGXTjYGFsQLItDTJVdLb"
@@ -931,7 +949,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 112507,
       "name": "Cinco",
       "url": "https://open.spotify.com/track/4pkFHpro2S9df35aesICL0"
@@ -1115,6 +1133,24 @@
       "duration_ms": 185559,
       "name": "Costa Brava",
       "url": "https://open.spotify.com/track/7HlZjFFk6Q9gLuotuvH44S"
+    },
+    {
+      "album": {
+        "name": "Cuando Duermes",
+        "url": "https://open.spotify.com/album/14tU3MYJORpXh8IyF5Fe4w"
+      },
+      "artists": [
+        {
+          "name": "Juliana Gonsales",
+          "url": "https://open.spotify.com/artist/0rASXzSswkFvGnrpmKIR8D"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108394,
+      "name": "Cuando Duermes",
+      "url": "https://open.spotify.com/track/0ynAGgB5TLv14W2HdRytzk"
     },
     {
       "album": {
@@ -2249,7 +2285,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 172000,
       "name": "Granada",
       "url": "https://open.spotify.com/track/2YRGpPruMS1BR0SDGzTmbB"
@@ -2339,7 +2375,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 169132,
       "name": "Grenada Plaza",
       "url": "https://open.spotify.com/track/7laM76dYlSKwZpYWZxgCu4"
@@ -2526,6 +2562,24 @@
     },
     {
       "album": {
+        "name": "Hist\u00f3ria De Vida",
+        "url": "https://open.spotify.com/album/1sDwjitrRLeu4jTK3Wl5RI"
+      },
+      "artists": [
+        {
+          "name": "Francisca Fortinbras",
+          "url": "https://open.spotify.com/artist/5fwKwRmjgEbAclDp30ssyD"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145227,
+      "name": "Hist\u00f3ria De Vida",
+      "url": "https://open.spotify.com/track/5BlHjy2MN5rPqQm89w4Jxd"
+    },
+    {
+      "album": {
         "name": "Hou Van Me",
         "url": "https://open.spotify.com/album/4amTpNx67WVG3tGQ6DrBPr"
       },
@@ -2591,7 +2645,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 143537,
       "name": "I Wouldn't Leave You",
       "url": "https://open.spotify.com/track/4PritxaHemeiRJAu8s3Q6L"
@@ -2836,6 +2890,24 @@
     },
     {
       "album": {
+        "name": "Just Dipping My Toe",
+        "url": "https://open.spotify.com/album/5bexksdhIDIVk8vDVaHpgq"
+      },
+      "artists": [
+        {
+          "name": "Robert Lowe",
+          "url": "https://open.spotify.com/artist/4omS6iWv8SKCrZULjKfeI5"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227036,
+      "name": "Just Dipping My Toe",
+      "url": "https://open.spotify.com/track/3Q97tyLwBoqT3hgpXC9h42"
+    },
+    {
+      "album": {
         "name": "Just One Step At A Time",
         "url": "https://open.spotify.com/album/49pNKyGqE0DIc9vF9XVjGp"
       },
@@ -3009,7 +3081,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 132180,
       "name": "La Table Solitaire",
       "url": "https://open.spotify.com/track/3fafaQOs2400DlCuZmdgTK"
@@ -3499,7 +3571,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 175528,
       "name": "Love Theme from Cinema Paradiso",
       "url": "https://open.spotify.com/track/4MUav1d7d504Wf8VT129dT"
@@ -3830,6 +3902,24 @@
     },
     {
       "album": {
+        "name": "Monteverde",
+        "url": "https://open.spotify.com/album/0fYsEA210VvjfSWxQbgLNb"
+      },
+      "artists": [
+        {
+          "name": "Marino Calle",
+          "url": "https://open.spotify.com/artist/7B5DgVnyn7BhJ3gWxIWCYJ"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131728,
+      "name": "Monteverde",
+      "url": "https://open.spotify.com/track/7x04qsGEUv26a7gaOE2BsB"
+    },
+    {
+      "album": {
         "name": "Moon River",
         "url": "https://open.spotify.com/album/1laCd0yZoeEPJTkVz880fv"
       },
@@ -4028,6 +4118,24 @@
     },
     {
       "album": {
+        "name": "Nana 1985 (Two Guitars Version)",
+        "url": "https://open.spotify.com/album/2LTna82bAjdhBShUJh7Vn6"
+      },
+      "artists": [
+        {
+          "name": "Manuel Gal\u00e1n",
+          "url": "https://open.spotify.com/artist/29d8S9wbsggVBbr2YXxjfM"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159509,
+      "name": "Nana 1985 (Two Guitars Version)",
+      "url": "https://open.spotify.com/track/7cn8OaiEmm9eM5cO5m3JqJ"
+    },
+    {
+      "album": {
         "name": "Natural State",
         "url": "https://open.spotify.com/album/5n7ZLyBMJU1UWtpUCAiVwF"
       },
@@ -4219,7 +4327,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 125820,
       "name": "Nuages",
       "url": "https://open.spotify.com/track/6fut7UQn4zwKRMnPvsS0mJ"
@@ -4399,7 +4507,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 122544,
       "name": "Over Mountains",
       "url": "https://open.spotify.com/track/7mulz7LGV4FNpu1So4WbxN"
@@ -4439,6 +4547,24 @@
       "duration_ms": 150533,
       "name": "Passage",
       "url": "https://open.spotify.com/track/5QpR40FJQcO0dU4ygdQuIm"
+    },
+    {
+      "album": {
+        "name": "passing memories",
+        "url": "https://open.spotify.com/album/2Mxaff7EkFAZtFDu3QtkUs"
+      },
+      "artists": [
+        {
+          "name": "Philip Grass",
+          "url": "https://open.spotify.com/artist/1P6oBwSLIpnKBsIObVaIj1"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118205,
+      "name": "passing memories",
+      "url": "https://open.spotify.com/track/3AGayCmS2tutGPmmCkNY1k"
     },
     {
       "album": {
@@ -4507,7 +4633,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 125550,
       "name": "Peace for Awhile",
       "url": "https://open.spotify.com/track/7rNGsE6Nrvld0AMel0QZMW"
@@ -4802,6 +4928,24 @@
     },
     {
       "album": {
+        "name": "River of Regisfield",
+        "url": "https://open.spotify.com/album/4ULQ5eDNyE3acU66R9YnqP"
+      },
+      "artists": [
+        {
+          "name": "Dean M Parker",
+          "url": "https://open.spotify.com/artist/1QuHekBuKJTCJa4R0ZbzdT"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112475,
+      "name": "River of Regisfield",
+      "url": "https://open.spotify.com/track/02p0tuBNxqqaiveKZOXgDn"
+    },
+    {
+      "album": {
         "name": "Rolling Hills",
         "url": "https://open.spotify.com/album/3ATXMDroBKLW4VtUeLtEd8"
       },
@@ -4889,6 +5033,24 @@
       "duration_ms": 163613,
       "name": "Saas Fee",
       "url": "https://open.spotify.com/track/2q9RdGt69x8gWofFuPTLtD"
+    },
+    {
+      "album": {
+        "name": "Sail For Toumain",
+        "url": "https://open.spotify.com/album/4qEH9vdWvau9XxXhlBi3q1"
+      },
+      "artists": [
+        {
+          "name": "Carol Maddox",
+          "url": "https://open.spotify.com/artist/1tfErPhfPUi2JprfJZRsfb"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146839,
+      "name": "Sail For Toumain",
+      "url": "https://open.spotify.com/track/1WFdNNCiWcNFnL45R08pou"
     },
     {
       "album": {
@@ -5083,7 +5245,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 101131,
       "name": "serenades",
       "url": "https://open.spotify.com/track/4QI998cXoXoHhDU2tQx0mB"
@@ -5414,6 +5576,24 @@
     },
     {
       "album": {
+        "name": "Someday",
+        "url": "https://open.spotify.com/album/6z07JJdKjK6KQTLdc4Abw6"
+      },
+      "artists": [
+        {
+          "name": "Floritatura",
+          "url": "https://open.spotify.com/artist/5nLzQ8oEKZ4BK73olozSSc"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154464,
+      "name": "Someday",
+      "url": "https://open.spotify.com/track/40Prhj76wY4JkKWl130prE"
+    },
+    {
+      "album": {
         "name": "Sonnen Diamant",
         "url": "https://open.spotify.com/album/62sKHUtfxZbVkZPe1TKqbT"
       },
@@ -5684,6 +5864,24 @@
     },
     {
       "album": {
+        "name": "Sweet Sister",
+        "url": "https://open.spotify.com/album/0hLGvDz6LTn2CBQzVpu36f"
+      },
+      "artists": [
+        {
+          "name": "Maisy Anderson",
+          "url": "https://open.spotify.com/artist/1LZ0rsW9h1Aaoh9kJjWUeE"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148527,
+      "name": "Sweet Sister",
+      "url": "https://open.spotify.com/track/76icnulB17alL2H6B8w7Gq"
+    },
+    {
+      "album": {
         "name": "Tarregas Bodega",
         "url": "https://open.spotify.com/album/5GqIcRQ3SxM2UE9jxy02B9"
       },
@@ -5749,7 +5947,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 180124,
       "name": "The Highland",
       "url": "https://open.spotify.com/track/34fmLyZjHRr1iQQacMd6hn"
@@ -6167,7 +6365,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 189979,
       "name": "Viola",
       "url": "https://open.spotify.com/track/5RV00BhineeA8Pridv87II"
@@ -6383,7 +6581,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-09",
       "duration_ms": 173500,
       "name": "Zamba Para Ti",
       "url": "https://open.spotify.com/track/49eAMmDhReUAPvcOEgVsyx"
